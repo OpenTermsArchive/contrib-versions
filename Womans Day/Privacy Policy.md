@@ -128,7 +128,7 @@ Advertisement
 
 daily giveaways
 
-Martha Stewart Collection Ceramic Mini-Figural Cocottes Giveaway
+Sonia Kashuk® Makeup Bag Giveaway
 
 Enter Now see more giveaways more sweeps Open/Close
 
