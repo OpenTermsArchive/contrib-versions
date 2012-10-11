@@ -1,4 +1,4 @@
-Facebook _Facebook logo_ Email or Phone Password Keep me logged in Forgot your password? Sign UpConnect and share with the people in your life. This agreement was written in English (US). To the extent any translated version of this agreement conflicts with the English version, the English version controls.  Please note that Section 17 contains certain changes to the general terms for users outside the United States. Date of Last Revision: June 8, 2012.  
+Facebook _Facebook logo_ Email or Phone Keep me logged in Sign UpConnect and share with the people in your life. This agreement was written in English (US). To the extent any translated version of this agreement conflicts with the English version, the English version controls.  Please note that Section 17 contains certain changes to the general terms for users outside the United States. Date of Last Revision: June 8, 2012.  
   
 **Statement of Rights and Responsibilities**  
   
