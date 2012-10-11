@@ -1,4 +1,4 @@
-Facebook _Facebook logo_ Email or Phone Password Keep me logged in Forgot your password? Sign UpConnect and share with the people in your life. **Data Use Policy** Date of Last Revision: June 8, 2012 Information we receive and how it is used
+Facebook _Facebook logo_ Email or Phone Keep me logged in Sign UpConnect and share with the people in your life. **Data Use Policy** Date of Last Revision: June 8, 2012 Information we receive and how it is used
 
 *   Information we receive about you
 
