@@ -1,6 +1,6 @@
-Follow the world’s creators. Log in Cancel Sign up Email Password Username How old are you?years oldyears young I have read, understand, and agree to the Tumblr Terms of Service. Submit
+Follow the world’s creators. Log in Cancel Sign up Email Password Username How old are you?years oldyears young I have read, understand, and agree to the Tumblr Terms of Service. Refresh Audio Visual Now playing. Please enter the words you hear, below. Incorrect, please try again Please enter the words above Submit
 
-Start Next **Almost** **Done!** Log in Password help? Privacy Policy Last Modified: 2012-03-22
+Start Done! **Almost** **Done!** Log in Password help? Privacy Policy Last Modified: 2012-03-22
 
 Tumblr, Inc. ("**Tumblr**", "**we**", "**us**", or "**our**") takes the private nature of your personal information very seriously. This policy regarding our privacy practices (the "**Privacy Policy**") describes how we treat the information we collect when you visit and use the website available at tumblr.com (the "**Site**") and/or Tumblr's other domains, products, services, and/or content (collectively with the Site, the "**Services**"). When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. please read it carefully.
 
