@@ -128,7 +128,7 @@ Advertisement
 
 daily giveaways
 
-Sonia Kashuk® Makeup Bag Giveaway
+Howard Johnson® Plaza Hotel Anaheim Resort, Anaheim, CA, Getaway Giveaway
 
 Enter Now see more giveaways more sweeps Open/Close
 
