@@ -79,6 +79,6 @@ Follow Follow “Automattic”
 
 Get every new post delivered to your Inbox.
 
-Join 3,182 other followers
+Join 3,187 other followers
 
 Powered by WordPress.com
