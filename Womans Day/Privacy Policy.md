@@ -128,7 +128,7 @@ Advertisement
 
 daily giveaways
 
-Howard Johnson® Plaza Hotel Anaheim Resort, Anaheim, CA, Getaway Giveaway
+Alberto VO5 Shampoo, Conditioner and Hot Oil Treatment Giveaway
 
 Enter Now see more giveaways more sweeps Open/Close
 
