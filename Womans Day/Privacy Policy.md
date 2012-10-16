@@ -12,7 +12,7 @@ Advertisement
 
 Site Recipes Search Search
 
-try: Pumpkin DessertsSave MoneyHealth Tips
+try: Exercise TipsStress Less Quick Costumes
 
 *   Food _+_ Recipes•
     
@@ -26,7 +26,7 @@ try: Pumpkin DessertsSave MoneyHealth Tips
     
     read more!
     
-    6 Easy-to-Prepare Meat Substitutes
+    10 Baking Tips from the Pros
     
 *   Health _+_ Fitness•
     
@@ -40,7 +40,7 @@ try: Pumpkin DessertsSave MoneyHealth Tips
     
     read more!
     
-    How to Boost Your Brainpower
+    Get Things Done Faster
     
 *   Lifestyle•
     
@@ -56,7 +56,7 @@ try: Pumpkin DessertsSave MoneyHealth Tips
     
     read more!
     
-    How to Make a Good Impression
+    How to Spend Less Money in Stores
     
 *   Sex _+_ Relationships•
     
@@ -67,7 +67,7 @@ try: Pumpkin DessertsSave MoneyHealth Tips
     
     read more!
     
-    Conquer Back-to-School Chaos
+    How to Handle Tricky Friend Situations
     
 *   Home•
     
@@ -80,7 +80,7 @@ try: Pumpkin DessertsSave MoneyHealth Tips
     
     read more!
     
-    14 Tried-and-True Organizing Tips
+    Halloween Decorating Ideas
     
 *   Style _+_ Beauty•
     
@@ -90,7 +90,7 @@ try: Pumpkin DessertsSave MoneyHealth Tips
     
     read more!
     
-    Make Your Beauty Treatments Last
+    How to Look Thinner
     
 *   Giveaways
 
@@ -128,7 +128,7 @@ Advertisement
 
 daily giveaways
 
-Alberto VO5 Shampoo, Conditioner and Hot Oil Treatment Giveaway
+_Mad Men_ Season Five Blu-ray/DVD Giveaway
 
 Enter Now see more giveaways more sweeps Open/Close
 
@@ -208,7 +208,7 @@ Advertisement
 
 Site Recipes Search Search
 
-try: Pumpkin DessertsSave MoneyHealth Tips
+try: Exercise TipsStress Less Quick Costumes
 
 About Woman’s Day
 
