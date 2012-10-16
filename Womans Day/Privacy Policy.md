@@ -111,24 +111,24 @@ Advertisement
 
 Don't Miss These:
 
-*   Stave Off Split Ends
 *   Tools to Declutter Your Home
-*   Have Healthy Breasts at Every Age
-*   The Best Halloween Costumes for Pets
-*   Surprising Pharmacy Bargains
+*   The Right Short Haircut for You
+*   How Your Wallet Can Save You Money
+*   Your Guide to the Best Beauty Bargains
+*   How to Cook Like a Pro
 *   Keep Clutter At Bay
 *   Shoe Trends for Fall
-*   Delicious One-Dish Meals
-*   Statement Accessories That Will Make Any Outfit
-*   Create a Cozy Retreat
-*   Spruce Up Your Powder Room
-*   Celebrity Bedroom Designs
+*   Spruce Up Your Bathroom
+*   Top Trends from Fall 2012
+*   Win a Home Shopping Spree Worth $50,000
+*   Bob Hairstyle Tips
+*   10 Habits That Keep Marriages Strong
 
 Advertisement
 
 daily giveaways
 
-_Mad Men_ Season Five Blu-ray/DVD Giveaway
+Energizer® Household Lighting Giveaway
 
 Enter Now see more giveaways more sweeps Open/Close
 
