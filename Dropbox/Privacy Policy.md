@@ -213,7 +213,7 @@ This Dropbox for Teams Agreement (the "**Agreement**") is between Dropbox, Inc.,
 
 Dropbox Privacy Policy
 
-Last Modified: February 14, 2012
+Last Modified: October 15, 2012
 
 This Privacy Policy provides our policies and procedures for collecting, using, and disclosing your information. Users can access the Dropbox service (the “**Service**”) through our website www.dropbox.com, applications on Devices, through APIs, and through third-parties. A “**Device**” is any computer used to access the Dropbox Service, including without limitation a desktop, laptop, mobile phone, tablet, or other consumer electronic device. This Privacy Policy governs your access of the Dropbox Service, regardless of how you access it, and by using our Services you consent to the collection, transfer, processing, storage, disclosure and other uses described in this Privacy Policy. All of the different forms of data, content, and information described below are collectively referred to as “information.”
 
@@ -259,23 +259,31 @@ If you are a registered user, you may review, update, correct or delete the Pers
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, you may delete your account here. We may retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. Consistent with these requirements, we will try to delete your information quickly upon request. Please note, however, that there might be latency in deleting information from our servers and backed-up versions might exist after deletion. In addition, we do not delete from our servers files that you have in common with other users.
 
-6\. Dropbox Community
+6\. Dropbox for Teams Users
+
+If you have a Dropbox for Teams account, your Administrator may be able to:
+
+*   access information in and about your Teams account;
+*   disclose, restrict, or access information that you have provided or that is made available to you when using the Teams account. and
+*   control how your Teams account may be accessed or deleted.
+
+Please refer to your Team's policies if you have questions about your Administrator's rights. 7. Dropbox Community
 
 Our Service offers publicly accessible community services such as blogs, forums, and wikis. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. Your posts may remain even after you cancel your account. For questions about your Personal Information on our Service, please contact privacy@dropbox.com.
 
 Our Site includes links to other Web sites whose privacy practices may differ from those of Dropbox. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
 
-7\. Security
+8\. Security
 
 The security of your information is important to us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
 We follow generally accepted standards to protect the information submitted to us, both during transmission and once we receive it. No method of electronic transmission or storage is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, you can view our Security Overview Page or contact us at security@dropbox.com.
 
-8\. Our Policy Toward Children
+9\. Our Policy Toward Children
 
 Our Services are not directed to persons under 13. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at privacy@dropbox.com. If we become aware that a child under 13 has provided us with Personal Information, we will take steps to delete such information from our files.
 
-9\. Safe Harbor
+10\. Safe Harbor
 
 Dropbox has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software.
 
@@ -283,11 +291,11 @@ Dropbox complies with the U.S. – E.U. Safe Harbor Framework and the U.S. – S
 
 If you have questions regarding this statement, you should first contact us at privacy@dropbox.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at http://www.truste.org/consumers/watchdog\_complaint.php, by fax at 415-520-3420, or by mail to TRUSTe Safe Harbor Compliance Dept., click for mailing address. The TRUSTe dispute resolution process is only available in English.
 
-10\. Contacting Us
+11\. Contacting Us
 
 If you have any questions about this Privacy Policy, please contact us at privacy@dropbox.com or at 185 Berry Street, 4th floor, San Francisco, CA 94107.
 
-11\. Changes to our Privacy Policy
+12\. Changes to our Privacy Policy
 
 This Privacy Policy may change from time to time. If we make a change to this privacy policy that we believe materially reduces your rights, we will provide you with notice (for example, by email). And we may provide notice of changes in other circumstances as well. By continuing to use the Service after those changes become effective, you agree to be bound by the revised Privacy Policy.
 
