@@ -26,6 +26,8 @@ Not valid on previously purchased items. Cannot be combined with other offers.
 
 To redeem, enter promotion code at checkout.
 
+*   New
+    *   Furniture Decorating &. Home Entertaining &. Kitchen Gifts &. Accesories Food &. Drink Seasonal
 *   Furniture
     *   Dining Room Living Room Bedroom Furniture Home Office Outdoor and Patio Bathroom
 *   Decorating &. Home
@@ -37,7 +39,7 @@ To redeem, enter promotion code at checkout.
 *   Food &. Drink
     *   Food Drink Seasonal Food and Drink International Favorites World Market's Own Wine and Beer
 *   Seasonal
-    *   Christmas Halloween Fall Harvest Oktoberfest Collections Outdoor and Patio
+    *   Christmas Halloween Fall Harvest Collections Outdoor and Patio
 *   Inspiration &. Solutions
 *   Sale
     *   Furniture Entertaining &. Kitchen Decorating &. Home Gifts &. Accessories Food &. Drink Seasonal
