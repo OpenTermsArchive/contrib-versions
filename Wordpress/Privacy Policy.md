@@ -1,10 +1,3 @@
-Automattic
-
-1.  Home
-2.  About Us
-3.  News
-4.  Work With Us
-
 Privacy Policy
 
 Your privacy is critically important to us. At Automattic we have a few fundamental principles:
@@ -65,20 +58,3 @@ Although most changes are likely to be minor, Automattic may change its Privacy 
 *   _July 1, 2010:_ Revised paragraph about IP addresses to explain when they are collected and that commenter IPs are visible to blog administrators
 *   _October 29, 2009:_ Added Comments paragraph to explain Akismet comment storage policy
 *   _March 10, 2009:_ Added Ads paragraph to alert users that ads from third parties may use cookies
-
-Contact Us Privacy Policy
-
-1.  Home
-2.  About Us
-3.  News
-4.  Work With Us
-
-© Automattic Inc., purveyors of fine blogging services since 2005. Thank you for your time.
-
-Follow Follow “Automattic”
-
-Get every new post delivered to your Inbox.
-
-Join 3,209 other followers
-
-Powered by WordPress.com
