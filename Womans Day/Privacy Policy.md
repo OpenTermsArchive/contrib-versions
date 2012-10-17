@@ -128,7 +128,7 @@ Advertisement
 
 daily giveaways
 
-Energizer® Household Lighting Giveaway
+Fair Trade USA Product Basket Giveaway
 
 Enter Now see more giveaways more sweeps Open/Close
 
