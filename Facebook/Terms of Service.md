@@ -215,4 +215,4 @@ You may also want to review the following documents, which provide additional in
       
     
 
-To access the Statement of Rights and Responsibilities in several different languages, change the language setting for your Facebook session by clicking on the language link in the left corner of most pages.  If the Statement is not available in the language you select, we will default to the English version. Facebook © 2012 · English (US) Mobile · Find Friends · Badges · People · Pages · About · Create an Ad · Create a Page · Developers · Careers · Privacy · Cookies · Terms · Help
+To access the Statement of Rights and Responsibilities in several different languages, change the language setting for your Facebook session by clicking on the language link in the left corner of most pages.  If the Statement is not available in the language you select, we will default to the English version. Facebook © 2012 · English (US) Mobile · Find Friends · Badges · People · Pages · Apps · Games · Music · About · Create an Ad · Create a Page · Developers · Careers · Privacy · Cookies · Terms · Help
