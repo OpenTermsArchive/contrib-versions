@@ -6,9 +6,11 @@
 
  
 
+**Limited Time Only!**
+
 Free shipping offer applies to ground shipping on the purchase of select items at worldmarket.com.
 
-Minimum purchase of $100 (before tax, shipping and handling) required to qualify for offer.
+Minimum purchase of $150 (before tax, shipping and handling) required to qualify for offer.
 
 Not valid on previously purchased items. Cannot be combined with other offers.
 
@@ -26,8 +28,6 @@ Not valid on previously purchased items. Cannot be combined with other offers.
 
 To redeem, enter promotion code at checkout.
 
-*   New
-    *   Furniture Decorating &. Home Entertaining &. Kitchen Gifts &. Accesories Food &. Drink Seasonal
 *   Furniture
     *   Dining Room Living Room Bedroom Furniture Home Office Outdoor and Patio Bathroom
 *   Decorating &. Home
