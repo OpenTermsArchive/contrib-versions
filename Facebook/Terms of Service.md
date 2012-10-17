@@ -1,4 +1,4 @@
-Facebook _Facebook logo_ Email or Phone Keep me logged in Sign UpConnect and share with the people in your life. This agreement was written in English (US). To the extent any translated version of this agreement conflicts with the English version, the English version controls.  Please note that Section 17 contains certain changes to the general terms for users outside the United States. Date of Last Revision: June 8, 2012.  
+This agreement was written in English (US). To the extent any translated version of this agreement conflicts with the English version, the English version controls.  Please note that Section 17 contains certain changes to the general terms for users outside the United States. Date of Last Revision: June 8, 2012.  
   
 **Statement of Rights and Responsibilities**  
   
@@ -215,4 +215,4 @@ You may also want to review the following documents, which provide additional in
       
     
 
-To access the Statement of Rights and Responsibilities in several different languages, change the language setting for your Facebook session by clicking on the language link in the left corner of most pages.  If the Statement is not available in the language you select, we will default to the English version. Facebook © 2012 · English (US) Mobile · Find Friends · Badges · People · Pages · Apps · Games · Music · About · Create an Ad · Create a Page · Developers · Careers · Privacy · Cookies · Terms · Help
+To access the Statement of Rights and Responsibilities in several different languages, change the language setting for your Facebook session by clicking on the language link in the left corner of most pages.  If the Statement is not available in the language you select, we will default to the English version.
