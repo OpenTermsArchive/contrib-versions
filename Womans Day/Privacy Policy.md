@@ -56,7 +56,7 @@ try: Exercise TipsStress Less Quick Costumes
     
     read more!
     
-    How to Spend Less Money in Stores
+    10 Bad Money Habits and How to Break Them
     
 *   Sex _+_ Relationships•
     
@@ -128,7 +128,7 @@ Advertisement
 
 daily giveaways
 
-Fair Trade USA Product Basket Giveaway
+Burts Bees Intense Hydration Collection Giveaway
 
 Enter Now see more giveaways more sweeps Open/Close
 
