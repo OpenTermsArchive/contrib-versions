@@ -1,14 +1,3 @@
-*   Apple
-*   Store
-*   Mac
-*   iPod
-*   iPhone
-*   iPad
-*   iTunes
-*   Support
-
-Search
-
 Your privacy is important to Apple. So we’ve developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and let us know if you have any questions.
 
 Collection and Use of Personal Information
@@ -131,19 +120,3 @@ Privacy Questions
 Questions or concerns about Apple’s Privacy Policy or data processing?
 
 Contact us
-
-1.  Home
-2.  Privacy Policy
-
-Shop the Apple Online Store (1-800-MY-APPLE), visit an Apple Retail Store, or find a reseller.
-
-*   Apple Info
-*   Site Map
-*   Hot News
-*   RSS Feeds
-*   Contact Us
-
-Copyright © 2012 Apple Inc. All rights reserved.
-
-*   Terms of Use
-*   Privacy Policy
