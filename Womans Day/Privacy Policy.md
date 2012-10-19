@@ -128,7 +128,7 @@ Advertisement
 
 daily giveaways
 
-Burts Bees Intense Hydration Collection Giveaway
+Panasonic FlashXpress Toaster Giveaway
 
 Enter Now see more giveaways more sweeps Open/Close
 
