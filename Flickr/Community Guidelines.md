@@ -1,4 +1,4 @@
-You aren't signed in     Sign In    Help
+You aren't signed in    Sign In   Help
 
 *   Home
 *   The Tour
