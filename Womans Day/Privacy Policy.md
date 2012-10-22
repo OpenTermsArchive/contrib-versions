@@ -128,7 +128,7 @@ Advertisement
 
 daily giveaways
 
-Panasonic FlashXpress Toaster Giveaway
+Bella Semplice Beauty Prize Package Giveaway
 
 Enter Now see more giveaways more sweeps Open/Close
 
