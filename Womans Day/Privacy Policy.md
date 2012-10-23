@@ -12,7 +12,7 @@ Advertisement
 
 Site Recipes Search Search
 
-try: Exercise TipsStress Less Quick Costumes
+try: Cleaning TricksFall TrendsAnti-Aging Tips
 
 *   Food _+_ Recipes•
     
@@ -128,7 +128,7 @@ Advertisement
 
 daily giveaways
 
-Bella Semplice Beauty Prize Package Giveaway
+_Magic Mike_ Blu-ray/DVD Combo Pack Giveaway
 
 Enter Now see more giveaways more sweeps Open/Close
 
@@ -208,7 +208,7 @@ Advertisement
 
 Site Recipes Search Search
 
-try: Exercise TipsStress Less Quick Costumes
+try: Cleaning TricksFall TrendsAnti-Aging Tips
 
 About Woman’s Day
 
