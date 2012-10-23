@@ -52,7 +52,7 @@ Loading...
 *   Terms
 *   Privacy
 *   Safety
-*   Report a bug
+*   Send feedback
 *   Try something new!
 
 *   Language: English
