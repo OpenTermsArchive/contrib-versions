@@ -4,6 +4,7 @@ Policies &. Principles
 *   Privacy
     *   Privacy Policy
     *   Advertising
+    *   Cookies
     *   Principles
     *   Tools
     *   Blogs
