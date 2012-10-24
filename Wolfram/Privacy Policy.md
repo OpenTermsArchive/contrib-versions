@@ -73,6 +73,7 @@ SUPPORT Support Overview
 _Mathematica_ Documentation  
 Knowledge Base  
 Learning Center  
+Technical Services  
 Community &. Forums  
 Training  
 Does My Site Have a License?  
