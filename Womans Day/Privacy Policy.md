@@ -128,7 +128,7 @@ Advertisement
 
 daily giveaways
 
-_Magic Mike_ Blu-ray/DVD Combo Pack Giveaway
+Thymes Filigree Fragrance Giveaway
 
 Enter Now see more giveaways more sweeps Open/Close
 
