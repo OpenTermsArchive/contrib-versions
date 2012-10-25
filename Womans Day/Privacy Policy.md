@@ -111,24 +111,25 @@ Advertisement
 
 Don't Miss These:
 
-*   Tools to Declutter Your Home
-*   The Right Short Haircut for You
-*   How Your Wallet Can Save You Money
-*   Your Guide to the Best Beauty Bargains
-*   How to Cook Like a Pro
-*   Keep Clutter At Bay
-*   Shoe Trends for Fall
-*   Spruce Up Your Bathroom
-*   Top Trends from Fall 2012
-*   Win a Home Shopping Spree Worth $50,000
-*   Bob Hairstyle Tips
-*   10 Habits That Keep Marriages Strong
+*   8 Ingenious Cooking Gadgets
+*   Things You Should NEVER Say To Your Husband
+*   20 Ways to Burn More Fat
+*   All-Natural Beauty Fixes
+*   10 Ways to Reinvent Your Look
+*   Most-Requested Hairstyles
+*   Tips for Stand Out Eyes
+*   The Best Budget Makeup
+*   America's Most Beautiful People
+*   Celebrity Bedroom Designs
+*   Lady Gaga's Wild Style
+*   52 Ways to Organize Your Home
+*   How to Dress Slimmer
 
 Advertisement
 
 daily giveaways
 
-Thymes Filigree Fragrance Giveaway
+HINT Flavored Water Giveaway
 
 Enter Now see more giveaways more sweeps Open/Close
 
