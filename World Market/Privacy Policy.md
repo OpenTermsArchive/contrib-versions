@@ -34,7 +34,7 @@ To redeem, enter promotion code at checkout.
 *   Sale
     *   Furniture Entertaining &. Kitchen Decorating &. Home Gifts &. Accessories Food &. Drink Seasonal
 
-" />. Title Customer Service Contact Us Privacy and Security Terms of Use Gift Card Balance Gift Services Shipping Payment Your Order Returns Affiliate Program Contact Us \*Indicates a required field To Contact Us By Email: First Name Last Name Email \* Comment/Question: Select a topicOrder InquiryStore ExperienceGeneral InquiryWebsite IssueReturnsMy Account InformationPlacing an OrderGift Certificates and PromotionsProduct QuestionsWorld Market Credit Card\* Message: \*   Not what you're looking for? About World Market
+" />. Title Customer Service Contact Us Privacy and Security Terms of Use Gift Card Balance Gift Services Shipping Payment Your Order Returns Affiliate Program Holiday Shipping Schedule Contact Us \*Indicates a required field To Contact Us By Email: First Name Last Name Email \* Comment/Question: Select a topicOrder InquiryStore ExperienceGeneral InquiryWebsite IssueReturnsMy Account InformationPlacing an OrderGift Certificates and PromotionsProduct QuestionsWorld Market Credit Card\* Message: \*   Not what you're looking for? About World Market
 
 *   About Us
 *   Our Latest Ad
