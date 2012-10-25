@@ -305,7 +305,7 @@ What LinkedIn’s Privacy Policy Covers:
 *   Blog
 *   Careers
 *   Advertising
-*   Recruiting Solutions
+*   Talent Solutions
 *   Tools
 *   Mobile
 *   Developers
