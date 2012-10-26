@@ -18,20 +18,21 @@ Yahoo! Terms Search Search Web Breaking News Visit Yahoo! News for the latest. Ã
 Yahoo! Terms of Service Yahoo! Info Center >. Yahoo! Terms Center >. **Yahoo! Terms of Service** Reference Links
 
 *   Yahoo! Terms Center
-*   Yahoo! Terms of Service
-*   Copyright and Intellectual Property Policy
+*   Terms of Service
+*   Copyright/IP Policy
+*   Privacy Policy
 
 More Help Links
 
 *   Sign-in and Registration Help
 *   Marketing Preferences Help
 *   Account Security
-*   Privacy Policy
 *   Make Yahoo! Your Home Page
+*   Report Abuse
 
 Yahoo! Terms of Service Yahoo! Terms of Service
 
 *   Yahoo! Terms of Service
 
 Copyright Â© 2012 Yahoo! Inc. All Rights Reserved.  
-Privacy | Legal
+Privacy Policy | Terms of Service | Copyright/IP Policy
