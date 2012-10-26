@@ -430,7 +430,7 @@ You agree not to misuse the Dropbox services. For example, you must not, and mus
 *   Install
 *   Mobile
 *   Pricing
-*   Teams
+*   Business
 *   Tour
 
 PYXL
