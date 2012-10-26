@@ -129,7 +129,7 @@ Advertisement
 
 daily giveaways
 
-HINT Flavored Water Giveaway
+Vivitar Camcorder Giveaway
 
 Enter Now see more giveaways more sweeps Open/Close
 
