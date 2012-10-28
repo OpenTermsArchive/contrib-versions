@@ -4,7 +4,7 @@ Skip to search.
 *   _Sign In_
 *   Help
 
-Make Y! My Homepage
+Get Yahoo! Optimized Firefox
 
 *     Notifications Help
     
