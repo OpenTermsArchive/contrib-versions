@@ -1,8 +1,19 @@
-*   Yahoo! Singapore
+Skip to search.
 
-Yahoo! Search
-
+*   _New User?_ Register
+*   _Sign In_
 *   Help
+
+Preview Mail w/ Y! Toolbar
+
+*     Notifications Help
+    
+*   Mail
+    
+*   My Y!
+*   Yahoo!
+
+Yahoo! Privacy Search Search Web Breaking News Visit Yahoo! News for the latest. ×Close this window
 
 *   Home
 *   Products
