@@ -4,7 +4,7 @@ Skip to search.
 *   _Sign In_
 *   Help
 
-Get Yahoo! Optimized Firefox
+Preview Mail w/ Y! Toolbar
 
 *     Notifications Help
     
