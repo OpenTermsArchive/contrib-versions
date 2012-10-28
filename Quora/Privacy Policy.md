@@ -1,11 +1,8 @@
 There are some updates to this page that haven't been applied yet because you've entered some data into a form. You can resume live updates if you want. Trying to regain internet connection... Quora
 
-*   Home
-*   About
-*   Login
-*   Sign Up
+Quora connects you to everything you want to know about.
 
-  Add Question
+LoginSign Up
 
 *   About
 *   Team
