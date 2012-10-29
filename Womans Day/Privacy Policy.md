@@ -129,7 +129,7 @@ Advertisement
 
 daily giveaways
 
-Vivitar Camcorder Giveaway
+Sams Club Starbucks Holiday Blend Coffee Giveaway
 
 Enter Now see more giveaways more sweeps Open/Close
 
