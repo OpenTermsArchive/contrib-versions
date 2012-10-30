@@ -12,7 +12,7 @@ Advertisement
 
 Site Recipes Search Search
 
-try: Cleaning TricksFall TrendsAnti-Aging Tips
+try: Dessert RecipesMood BoostersSave Money
 
 *   Food _+_ Recipes•
     
@@ -129,7 +129,7 @@ Advertisement
 
 daily giveaways
 
-Sams Club Starbucks Holiday Blend Coffee Giveaway
+Paul Labrecque Hair Products Prize Package Giveaway
 
 Enter Now see more giveaways more sweeps Open/Close
 
@@ -209,7 +209,7 @@ Advertisement
 
 Site Recipes Search Search
 
-try: Cleaning TricksFall TrendsAnti-Aging Tips
+try: Dessert RecipesMood BoostersSave Money
 
 About Woman’s Day
 
