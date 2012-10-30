@@ -509,7 +509,7 @@ IBOOKSTORE PRODUCT USAGE RULES
 
 (v) You shall be able to manually sync iBookstore Products from at least one iTunes-authorized device to devices that have manual sync mode, provided that the iBookstore Product is associated with an Account on the primary iTunes-authorized device, where the primary iTunes-authorized device is the one that was first synced with the device or the one that you subsequently designate as primary using iTunes.
 
-Last Updated: May 23, 2012
+Last Updated: September 30, 2012
 
 1.  Home
 2.  Legal
