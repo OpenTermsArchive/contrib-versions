@@ -129,7 +129,7 @@ Advertisement
 
 daily giveaways
 
-Paul Labrecque Hair Products Prize Package Giveaway
+Quantum Scale Giveaway
 
 Enter Now see more giveaways more sweeps Open/Close
 
