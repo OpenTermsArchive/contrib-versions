@@ -17,7 +17,7 @@
 *   Food &. Drink
     *   Food Baking Products Cookies and Cakes Candy and Chocolate Jams and Spreads Spices and Seasonings Condiments and Sauces Meats and Cheese Pasta and Grains Soups Meals Snacks Drink Coffee Tea Cocoa Drinks and Drink Mixes Seasonal Food and Drink International Favorites World Market's Own Wine and Beer Wine Beer
 *   Seasonal
-    *   Christmas Holiday Décor Holiday Entertaining Baking Central Food and Drink Christmas Ornaments Trim a Tree Nutcrackers Alpine Workshop Collection Christmas Carols Collection Noël Collection Global Christmas Collection Stocking Stuffers Halloween Decorating and Home Entertaining and Kitchen Tricks and Treats Scary Halloween Vintage Halloween Classic Halloween Fall Harvest Decorating and Home Entertaining and Kitchen Food and Drink Thanksgiving Collections Kingdom Animalia Venetian Bazaar Outdoor and Patio
+    *   Christmas Holiday Décor Holiday Entertaining Baking Central Food and Drink Christmas Ornaments Trim a Tree Nutcrackers Alpine Workshop Collection Christmas Carols Collection Noël Collection Global Christmas Collection Stocking Stuffers Gift Wrap Halloween Decorating and Home Entertaining and Kitchen Tricks and Treats Scary Halloween Vintage Halloween Classic Halloween Fall Harvest Decorating and Home Entertaining and Kitchen Food and Drink Thanksgiving Collections Kingdom Animalia Venetian Bazaar Outdoor and Patio
 *   Inspiration
 *   Sale
     *   Furniture Entertaining &. Kitchen Decorating &. Home Gifts &. Accessories Food &. Drink Seasonal
