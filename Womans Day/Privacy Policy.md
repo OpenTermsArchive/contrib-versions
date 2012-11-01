@@ -129,7 +129,7 @@ Advertisement
 
 daily giveaways
 
-Quantum Scale Giveaway
+iGrill Meat Thermometer from AT&T Giveaway
 
 Enter Now see more giveaways more sweeps Open/Close
 
