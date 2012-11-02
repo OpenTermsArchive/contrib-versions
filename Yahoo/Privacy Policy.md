@@ -4,11 +4,7 @@ Skip to search.
 *   _Sign In_
 *   Help
 
-Make Y! My Homepage  
-
-Yahoo!
-
-Close this window To make Yahoo! your homepage, Drag the Yahoo! logo to the 'Home' icon on your Firefox Toolbar
+Preview Mail w/ Y! Toolbar
 
 *     Notifications Help
     
