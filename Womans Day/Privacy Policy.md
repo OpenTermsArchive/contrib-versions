@@ -129,7 +129,7 @@ Advertisement
 
 daily giveaways
 
-iGrill Meat Thermometer from AT&T Giveaway
+Wyndham Orlando Resort Hotel, Orlando, FL, Getaway Giveaway
 
 Enter Now see more giveaways more sweeps Open/Close
 
