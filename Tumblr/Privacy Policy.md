@@ -109,4 +109,4 @@ http://github.com/tumblr/policy/commits/master/privacy-policy.txt
 *   Privacy
 *   Guidelines
 
-**© Tumblr, Inc.** Help About Developers Themes Meetups Jobs Terms
+**© Tumblr, Inc.** Help About Developers Themes Meetups Jobs Terms Copyright
