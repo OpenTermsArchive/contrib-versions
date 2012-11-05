@@ -129,7 +129,7 @@ Advertisement
 
 daily giveaways
 
-Wyndham Orlando Resort Hotel, Orlando, FL, Getaway Giveaway
+Borghese Professional Hair Care Giveaway
 
 Enter Now see more giveaways more sweeps Open/Close
 
