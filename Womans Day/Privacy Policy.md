@@ -12,7 +12,7 @@ Advertisement
 
 Site Recipes Search Search
 
-try: Dessert RecipesMood BoostersSave Money
+try: Makeup TricksFast DinnersPet Care
 
 *   Food _+_ Recipes•
     
@@ -129,7 +129,7 @@ Advertisement
 
 daily giveaways
 
-Borghese Professional Hair Care Giveaway
+_Debt-Proof Your Christmas: Celebrating the Holidays Without Breaking the Bank_ Book Giveaway
 
 Enter Now see more giveaways more sweeps Open/Close
 
@@ -209,7 +209,7 @@ Advertisement
 
 Site Recipes Search Search
 
-try: Dessert RecipesMood BoostersSave Money
+try: Makeup TricksFast DinnersPet Care
 
 About Woman’s Day
 
