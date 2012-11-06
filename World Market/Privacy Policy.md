@@ -6,7 +6,7 @@
 *   SIGN IN / MY ACCOUNT
 
 *   New
-    *   Furniture Decorating &. Home Entertaining &. Kitchen Gifts &. Accesories Food &. Drink Seasonal
+    *   Decorating &. Home Entertaining &. Kitchen Gifts &. Accesories Food &. Drink Seasonal
 *   Furniture
     *   Dining Room Dining Tables Dining Chairs Stools Dining Benches and Banquettes Dining Room Sets Buffets and Wine Storage Kitchen Furniture Living Room Sofas Chairs and Ottomans Coffee Tables and Accent Tables Benches Chaise and Daybeds Media Furniture Cabinets and Shelving Accent Furniture Decorative Screens Bedroom Furniture Beds Chaise and Daybeds Bedroom Storage Nightstands and Tables Jewelry Armoires Home Office Office Desks Office Chairs Bookcases and File Cabinets Outdoor and Patio Outdoor Dining Furniture Outdoor Seating and Lounge Outdoor Accent Furniture Adirondack Chairs Outdoor Cushions and Pillows Outdoor Hammocks and Stands Fire Pits Outdoor Umbrellas and Stands Bathroom
 *   Decorating &. Home
@@ -18,7 +18,7 @@
 *   Food &. Drink
     *   Food Baking Products Cookies and Cakes Candy and Chocolate Jams and Spreads Spices and Seasonings Condiments and Sauces Meats and Cheese Pasta and Grains Soups Meals Snacks Drink Coffee Tea Cocoa Drinks and Drink Mixes Seasonal Food and Drink International Favorites World Market's Own Wine and Beer Wine Beer
 *   Seasonal
-    *   Christmas Holiday Décor Holiday Entertaining Baking Central Food and Drink Christmas Ornaments Trim a Tree Nutcrackers Alpine Workshop Collection Christmas Carols Collection Noël Collection Global Christmas Collection Stocking Stuffers Gift Wrap Fall Harvest Decorating and Home Entertaining and Kitchen Food and Drink Thanksgiving Halloween Decorating and Home Entertaining and Kitchen Tricks and Treats Scary Halloween Vintage Halloween Classic Halloween Collections Kingdom Animalia Venetian Bazaar Outdoor and Patio
+    *   Christmas Holiday Décor Holiday Entertaining Baking Central Food and Drink Christmas Ornaments Trim a Tree Nutcrackers Alpine Workshop Collection Christmas Carols Collection Noël Collection Global Christmas Collection Stocking Stuffers Gift Baskets Gift Wrap Fall Harvest Decorating and Home Entertaining and Kitchen Food and Drink Thanksgiving Halloween Decorating and Home Entertaining and Kitchen Tricks and Treats Scary Halloween Vintage Halloween Classic Halloween Collections Kingdom Animalia Venetian Bazaar Outdoor and Patio
 *   Inspiration
 *   Sale
     *   Furniture Entertaining &. Kitchen Decorating &. Home Gifts &. Accessories Food &. Drink Seasonal
