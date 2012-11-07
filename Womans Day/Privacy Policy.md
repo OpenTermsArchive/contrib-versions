@@ -111,25 +111,25 @@ Advertisement
 
 Don't Miss These:
 
-*   8 Ingenious Cooking Gadgets
-*   Things You Should NEVER Say To Your Husband
 *   20 Ways to Burn More Fat
-*   All-Natural Beauty Fixes
-*   10 Ways to Reinvent Your Look
+*   Body Moisturizers You'll Love
+*   New Uses for Household Items
+*   10 Things Your Party Guests Won't Tell You
+*   Pain-Proof Your Day
 *   Most-Requested Hairstyles
-*   Tips for Stand Out Eyes
-*   The Best Budget Makeup
-*   America's Most Beautiful People
-*   Celebrity Bedroom Designs
-*   Lady Gaga's Wild Style
 *   52 Ways to Organize Your Home
 *   How to Dress Slimmer
+*   Superfast Slow-Cooker Suppers
+*   Cute, Affordable Winter Accessories
+*   31 Ways to Shake It Up Between the Sheets
+*   Unique Gift Ideas
+*   Tips for Stand-Out Eyes
 
 Advertisement
 
 daily giveaways
 
-_Debt-Proof Your Christmas: Celebrating the Holidays Without Breaking the Bank_ Book Giveaway
+Green Mountain Coffee® Keurig® Special Edition Single Cup Brewer Giveaway
 
 Enter Now see more giveaways more sweeps Open/Close
 
