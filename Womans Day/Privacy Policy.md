@@ -129,7 +129,7 @@ Advertisement
 
 daily giveaways
 
-Green Mountain Coffee® Keurig® Special Edition Single Cup Brewer Giveaway
+Invitation Consultants Year of Smiles Calendar Giveaway
 
 Enter Now see more giveaways more sweeps Open/Close
 
