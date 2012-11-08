@@ -1,7 +1,7 @@
 *   More
-    
     *   About
-    Settings*   Goodies
+    *   Settings
+    *   Goodies
     *   Feedback
     *   PRIVACY
     *   Policy
