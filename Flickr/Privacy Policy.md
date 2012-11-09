@@ -1,36 +1,6 @@
-Skip to search.
+WHAT THIS PRIVACY POLICY COVERS Yahoo! takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
-*   _New User?_ Register
-*   _Sign In_
-*   Help
-
-Preview Mail w/ Y! Toolbar
-
-*     Notifications Help
-    
-*   Mail
-    
-*   My Y!
-*   Yahoo!
-
-Yahoo! Privacy Search Search Web Breaking News Visit Yahoo! News for the latest. ×Close this window
-
-*   Home
-*   Products
-*   Topics
-*   Preferences
-*   Help
-
-*   WHAT THIS PRIVACY POLICY COVERS
-*   INFORMATION COLLECTION AND USE
-*   INFORMATION SHARING AND DISCLOSURE
-*   COOKIES
-*   YOUR ABILITY TO EDIT AND DELETE YOUR ACCOUNT INFORMATION AND PREFERENCES
-*   CONFIDENTIALITY AND SECURITY
-*   CHANGES TO THIS PRIVACY POLICY
-*   QUESTIONS AND SUGGESTIONS
-
-Email Print WHAT THIS PRIVACY POLICY COVERS Yahoo! takes your privacy seriously. Please read the following to learn more about our privacy policy.
+The federal government and technology industry have developed practical tips to help you guard against Internet fraud, secure your computer and protect your personal information.
 
 How Yahoo! Uses Your Personal Information
 
@@ -40,19 +10,31 @@ This privacy policy only applies to Yahoo!
 
 This policy does not apply to the practices of companies that Yahoo! does not own or control, or to people that Yahoo! does not employ or manage. In addition, some companies that Yahoo! has acquired have their own, preexisting privacy policies which may be viewed on our acquired companies page.
 
+Yahoo!'s participation in the Safe Harbor program
+
+Yahoo! participates in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. To view our certification, visit the U.S. Department of Commerce's Safe Harbor Web site. For more information about Yahoo!'s participation in the Safe Harbor program, please visit our Safe Harbor details page.
+
 Return to top
 
 INFORMATION COLLECTION AND USE General  
 
 Yahoo! collects personal information when you register with Yahoo!, when you use Yahoo! products or services, when you visit Yahoo! pages or the pages of certain Yahoo! partners, and when you enter promotions or sweepstakes. Yahoo! may combine information about you that we have with information we obtain from business partners or other companies.
 
-When you register we ask for information such as your name, email address, birth date, gender, postal code, occupation, industry, and personal interests. For some financial products and services we might also ask for your address, Social Security number, and information about your assets. When you register with Yahoo! and sign in to our services, you are not anonymous to us.
+When you register we ask for information such as your name, email address, birth date, gender, ZIP code, occupation, industry, and personal interests. For some financial products and services we might also ask for your address, Social Security number, and information about your assets. When you register with Yahoo! and sign in to our services, you are not anonymous to us.
 
 Yahoo! collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer.
 
 Yahoo! automatically receives and records information from your computer and browser, including your IP address, Yahoo! cookie information, software and hardware attributes, and the page you request.
 
-Yahoo! uses information for the following general purposes: to customise the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
+Yahoo! uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
+
+Children  
+
+When a child under age 13 attempts to register with Yahoo!, we ask the child to have a parent or guardian create a Yahoo! Family Account to obtain parental permission.
+
+Yahoo! does not contact children under age 13 about special offers or for marketing purposes without a parent's permission.
+
+Yahoo! does not ask a child under age 13 for more personal information, as a condition of participation, than is reasonably necessary to participate in a given activity or promotion.
 
 Return to top
 
@@ -61,6 +43,7 @@ INFORMATION SHARING AND DISCLOSURE
 Yahoo! does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 
 *   We provide the information to trusted partners who work on behalf of or with Yahoo! under confidentiality agreements. These companies may use your personal information to help Yahoo! communicate with you about offers from Yahoo! and our marketing partners. However, these companies do not have any independent right to share this information.
+*   We have a parent's permission to share the information if the user is a child under age 13. Parents have the option of allowing Yahoo! to collect and use their child's information without consenting to Yahoo! sharing of this information with people and companies who may use this information for their own purposes.
 *   We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
 *   We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Yahoo!'s terms of use, or as otherwise required by law.
 *   We transfer information about you if Yahoo! is acquired by or merged with another company. In this event, Yahoo! will notify you before information about you is transferred and becomes subject to a different privacy policy.
@@ -82,19 +65,22 @@ Yahoo! lets other companies that show advertisements on some of our pages set an
 
 Yahoo! uses web beacons to access Yahoo! cookies inside and outside our network of web sites and in connection with Yahoo! products and services.
 
-  
-
-Return to top
-
-YOUR ABILITY TO EDIT AND DELETE YOUR ACCOUNT INFORMATION AND PREFERENCES General
+Your Ability to Edit and Delete Your Account Information and Preferences  
+General
 
 You can edit your Yahoo! Account Information, including your marketing preferences, at any time.
 
 New categories of marketing communications might be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive.
 
-We reserve the right to send you certain communications relating to the Yahoo! service, such as service announcements, administrative messages and the Yahoo! Newsletter, that are considered part of your Yahoo!7 account, without offering you the opportunity to opt out of receiving them.
+We reserve the right to send you certain communications relating to the Yahoo! service, such as service announcements, administrative messages and the Yahoo! Newsletter, that are considered part of your Yahoo! account, without offering you the opportunity to opt out of receiving them.
 
 You can delete your Yahoo! account by visiting our Account Deletion page. Please click here to read about information that might possibly remain in our archived records after your account has been deleted.
+
+Children
+
+Parents can review, edit, and delete information relating to their child's Yahoo! account using tools offered by Yahoo! Family Accounts.
+
+If a parent chooses not to allow us to further collect or use a child's information, parents enrolled in Yahoo! Family Accounts can delete their child's account by signing into that child's account and then visiting our Account Deletion page. Please click here to read about information that might possibly remain in our archived records after your account has been deleted.
 
 Return to top
 
@@ -104,9 +90,7 @@ We limit access to personal information about you to employees who we believe re
 
 We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.
 
-To learn more about security, including the security steps Yahoo! has taken and security steps you can take, please read Security at Yahoo!.
-
-Return to top
+To learn more about security, including the security steps we have taken and security steps you can take, please read Security at Yahoo!.
 
 CHANGES TO THIS PRIVACY POLICY
 
@@ -116,20 +100,16 @@ Return to top
 
 QUESTIONS AND SUGGESTIONS
 
-If you have questions or suggestions, please complete a feedback form or you can contact us at:
+If you have questions, suggestions, or wish to make a complaint, please complete a feedback form or you can contact us at:
 
-Yahoo! Asia Pacific Pte. Ltd.  
-60 Anson Road, #13-01 Mapletree Anson, Singapore 079914
+Yahoo! Inc.  
+Customer Care - Privacy Policy Issues  
+701 First Avenue  
+Sunnyvale, CA 94089  
+(408) 349-5070
 
-Effective Date: July 16, 2010
+If you feel that your inquiry has not been satisfactorily addressed, please click here for information on consumer agencies that may be able to provide you with additional assistance.
+
+Effective Date: November 22, 2006
 
 Return to top
-
-Highlights
-
-Manage Interest-Based Ads  
-
-To help make your experiences with Yahoo! more relevant, we employ interest-based ads. Manage your interest-based categories, or opt-out of all categories, on our opt-out tool.
-
-Copyright © 2012 Yahoo! Asia Pacific Pte Ltd. (Co. Reg. No. 199700735D). All Rights Reserved.  
-Privacy Policy - Terms of Service
