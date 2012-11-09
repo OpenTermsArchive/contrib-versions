@@ -129,7 +129,7 @@ Advertisement
 
 daily giveaways
 
-Invitation Consultants Year of Smiles Calendar Giveaway
+The St. Regis Punta Mita Resort, Punta de Mita, Nayarit, Mexico Getaway Giveaway
 
 Enter Now see more giveaways more sweeps Open/Close
 
