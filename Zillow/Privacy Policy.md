@@ -100,14 +100,15 @@ Skip to contentZillow Real Estate
     *   Zillow Pros Blog
     *   Zillow Research
     *   Zillow Engineering
-*   More
+*   More _▼_
     *   What Zillow Offers
     *   Dueling Digs
     *   Real Estate Advertising
     *   Widgets, Badges &. Data
     *   Zillow Visuals
+    *   Help
 
-*   For Pros
+*   For Pros _▼_
     *   Agents
     *   Rental Pro
 *   Mobile
@@ -127,7 +128,8 @@ This is our privacy policy and we will comply with it, as well as applicable U.S
 
 Advertising-Supported Business Model
 
-The Zillow Web sites and our extensive set of features are generally funded through advertising dollars. This advertising revenue helps keep Zillow free of charge for our user community. It also allows us to explore and build new features.
+The Zillow Web sites and our extensive set of features are generally funded through advertising dollars.  
+This advertising revenue helps keep Zillow free of charge for our user community. It also allows us to explore and build new features.
 
 We strive to make advertisements relevant and useful to you. Therefore, we may serve advertisements to you based on the information we collect from you or in relation to your interaction on our site.
 
@@ -140,6 +142,8 @@ When you use Zillow's Web sites, we collect a variety of information.
 *   **Information you provide.** When using our Web sites and services, you may provide information about yourself, such as name, address, phone number and e-mail. This may occur when you register on Zillow, claim a home, or complete other forms, such as a loan request. We may combine this information with other information we collect from your activity on our Web sites or from other companies. You may also provide information about a third party on a Zillow Web site, for example, if you share a real estate listing with a recipient via email.
     
     In addition, when you order products or services from Zillow Web sites, Zillow may collect your credit/debit card information. Zillow will use this information solely to complete your order and will not share this information with outside parties, except to the extent necessary to complete the order or comply with applicable law.
+    
+    In the event that a credit report is required to use a Zillow product or service, Zillow may collect your social security number ("SSN"). Zillow restricts access to SSNs to employees, vendors and subcontractors who require SSNs to support certain products and services. Zillow strives to protect SSNs from unlawful disclosure and to keep them confidential by maintaining physical, electronic, and procedural safeguards that comply with applicable state and federal regulations.
     
 *   **Cookies and Web beacons.** Cookies are bits of electronic information that can be transferred to a computer to uniquely identify that computer's browser. When you visit our Web sites and use our services, we may place one or more cookies on your computer. The use of cookies helps us improve the quality of our services to you, by identifying information which is most interesting to you, tracking trends, or storing information you may want to retrieve on a regular basis, such as your favorite homes. At any time, you may adjust settings on your browser to refuse cookies. However, if you choose to disable cookies, many of the free features and services on Zillow will not operate properly. Also, the pages of our service may include Web beacons, which are electronic files to count users who have visited that page or to identify certain cookies on the computer accessing that page. Some pages on our Web sites may use third-party Web beacons from Yahoo! In addition to our use of the data to analyze visitor activity on our Web sites, Yahoo! may use anonymous information about your visit in order to improve its products and services and to provide advertisements about goods and services that may be of interest to you.
 *   **Third-party cookies.** We work with service providers and advertising networks to track and manage cookie information and your activities while you're on Zillow or using our services. You may opt-out of cookie tracking and analysis from any of these ad networks by Opting Out of Collection of Information, which is explained further below.
@@ -216,6 +220,10 @@ Diverse Solutions Web site
 
 You may access all of your personally identifiable information collected through the Diverse Solutions Web site by emailing us at info@diversesolutions.com. You may also correct factual errors in your personally identifiable information by sending a request to info@diversesolutions.com, demonstrating the error. To protect your privacy and security, we will take reasonable steps to verify your identity prior to granting access or making corrections.
 
+Zillow Rentals Web site
+
+You understand that when you join Zillow Rentals, you will be added to the Zillow Rentals Directory, which is available to all Zillow Rentals users and which may be made publicly available. The directory information may include certain personal information you provide to us, such as your name, email and other contact information, unless you opt out of including such information in your directory listing by editing the settings in your Zillow Rentals account.
+
 Children Under the Age of 13
 
 Zillow will not knowingly collect personally identifiable information from any person under the age of 13. Our services are not designed to attract the attention of persons under the age of 13.
@@ -230,7 +238,7 @@ If you have any questions about this privacy statement, or the privacy practices
 
 Please note that this policy may be amended from time to time. You should check back for the most current version before relying on any of the provisions in this privacy policy.
 
-_— Updated November 2011_
+_— Updated October 2012_
 
 *   About Us
 *   About Zestimates
