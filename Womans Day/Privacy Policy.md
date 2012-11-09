@@ -129,7 +129,7 @@ Advertisement
 
 daily giveaways
 
-The St. Regis Punta Mita Resort, Punta de Mita, Nayarit, Mexico Getaway Giveaway
+T.J. Maxx and Marshalls Gift Cards Giveaway
 
 Enter Now see more giveaways more sweeps Open/Close
 
