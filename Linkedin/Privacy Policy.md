@@ -346,5 +346,4 @@ LinkedIn Corporation © 2012
 
 *   User Agreement
 *   Privacy Policy
-*   Cookie Policy
 *   Copyright Policy
