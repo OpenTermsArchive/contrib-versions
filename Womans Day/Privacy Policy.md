@@ -129,7 +129,7 @@ Advertisement
 
 daily giveaways
 
-T.J. Maxx and Marshalls Gift Cards Giveaway
+_The Original Christmas Classics_ DVD Set Giveaway
 
 Enter Now see more giveaways more sweeps Open/Close
 
