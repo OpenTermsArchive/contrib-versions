@@ -12,7 +12,7 @@ Advertisement
 
 Site Recipes Search Search
 
-try: Makeup TricksFast DinnersPet Care
+try: Thanksgiving PiesHoliday HairstylesCareer Advice
 
 *   Food _+_ Recipes•
     
@@ -26,7 +26,7 @@ try: Makeup TricksFast DinnersPet Care
     
     read more!
     
-    10 Baking Tips from the Pros
+    7 Thanksgiving Blunders to Avoid
     
 *   Health _+_ Fitness•
     
@@ -40,7 +40,7 @@ try: Makeup TricksFast DinnersPet Care
     
     read more!
     
-    Get Things Done Faster
+    10 Tips for a Happier, Healthier Commute
     
 *   Lifestyle•
     
@@ -56,7 +56,7 @@ try: Makeup TricksFast DinnersPet Care
     
     read more!
     
-    10 Bad Money Habits and How to Break Them
+    Does It Pay to Buy Specialty Insurance?
     
 *   Sex _+_ Relationships•
     
@@ -67,7 +67,7 @@ try: Makeup TricksFast DinnersPet Care
     
     read more!
     
-    How to Handle Tricky Friend Situations
+    8 Surprising Health Benefits of Sex
     
 *   Home•
     
@@ -209,7 +209,7 @@ Advertisement
 
 Site Recipes Search Search
 
-try: Makeup TricksFast DinnersPet Care
+try: Thanksgiving PiesHoliday HairstylesCareer Advice
 
 About Woman’s Day
 
