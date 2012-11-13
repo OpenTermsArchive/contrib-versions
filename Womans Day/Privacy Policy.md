@@ -80,7 +80,7 @@ try: Thanksgiving PiesHoliday HairstylesCareer Advice
     
     read more!
     
-    Halloween Decorating Ideas
+    14 Fun Thanksgiving Crafts
     
 *   Style _+_ Beauty•
     
@@ -90,7 +90,7 @@ try: Thanksgiving PiesHoliday HairstylesCareer Advice
     
     read more!
     
-    How to Look Thinner
+    Hair Tips from the Experts
     
 *   Giveaways
 
@@ -129,7 +129,7 @@ Advertisement
 
 daily giveaways
 
-_The Original Christmas Classics_ DVD Set Giveaway
+Bertazzoni Professional Series Range Giveaway
 
 Enter Now see more giveaways more sweeps Open/Close
 
