@@ -1,4 +1,4 @@
-Our Terms of Service and Privacy Policy are very important documents that apply to your use of App.net. We will continue to evolve these documents based upon feedback from our user community. If you'd like to work with us to improve these documents, please do so via our terms-of-service GitHub repo. App.net - Terms of Service
+App.net - Terms of Service
 
 Last Updated: September 19, 2012
 
