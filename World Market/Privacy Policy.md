@@ -5,8 +5,6 @@
 *   Our Latest Ad
 *   SIGN IN / MY ACCOUNT
 
- 
-
 *   New
     *   Decorating &. Home Entertaining &. Kitchen Gifts &. Accesories Food &. Drink Seasonal
 *   Furniture
@@ -19,11 +17,11 @@
     *   Gift Ideas Under $30 Under $50 Under $75 For Her For Him For Kids For Pets The Decorator The Entertainer The Gourmet The Host The Traveler Anniversary Birthday Housewarming Wedding Gift Baskets Everyday Gourmet Fruit and Cheese Organic Spa Thinking of You Top Sellers Jewelry Necklaces Earrings Bracelets and Watches Rings Jewelry Storage Clothing and Accessories Scarves and Shawls Clothing Bags and Totes Hats Hair Accessories Travel Accessories Cold Weather Accessories Gift Wrap and Stationery Decorative Paper and Gift Wrap Gift Bags and Boxes Gift Trim Create a Gift Stationery Party Supplies Calendars Toys and Games Toys Games and Puzzles Kites and Outdoor Toys
 *   Food &. Drink
     *   Food Baking Products Cookies and Cakes Candy and Chocolate Jams and Spreads Spices and Seasonings Condiments and Sauces Meats and Cheese Pasta and Grains Soups Meals Snacks Drink Coffee Tea Cocoa Drinks and Drink Mixes Seasonal Food and Drink International Favorites World Market's Own Wine and Beer Wine Beer
-*   Seasonal
+*   Holiday
     *   Christmas Holiday Décor Holiday Entertaining Baking Central Food and Drink Christmas Ornaments Trim a Tree Nutcrackers Stocking Stuffers Noël Collection Christmas Carols Collection Alpine Workshop Collection Global Christmas Collection Hanukkah Fall Harvest Decorating and Home Entertaining and Kitchen Food and Drink Thanksgiving Halloween Decorating and Home Entertaining and Kitchen Tricks and Treats Scary Halloween Vintage Halloween Classic Halloween Collections Kingdom Animalia Venetian Bazaar Outdoor and Patio
 *   Inspiration
 *   Sale
-    *   Furniture Entertaining &. Kitchen Decorating &. Home Gifts &. Accessories Food &. Drink Seasonal
+    *   Discount Furniture Entertaining &. Kitchen Decorating &. Home Gifts &. Accessories Food &. Drink Seasonal
 
 " />.
 
