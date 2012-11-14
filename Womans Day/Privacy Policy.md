@@ -111,25 +111,25 @@ Advertisement
 
 Don't Miss These:
 
-*   20 Ways to Burn More Fat
-*   Body Moisturizers You'll Love
 *   New Uses for Household Items
-*   10 Things Your Party Guests Won't Tell You
-*   Pain-Proof Your Day
-*   Most-Requested Hairstyles
+*   Body Moisturizers You'll Love
+*   Quick Holiday Treats
+*   De-Stress Your Skin
+*   Hostess Gifts $20 and Under
 *   52 Ways to Organize Your Home
-*   How to Dress Slimmer
-*   Superfast Slow-Cooker Suppers
-*   Cute, Affordable Winter Accessories
-*   31 Ways to Shake It Up Between the Sheets
-*   Unique Gift Ideas
-*   Tips for Stand-Out Eyes
+*   Most-Requested Hairstyles
+*   A-List Living Rooms
+*   The Most Anticipated Hair Trends for Spring
+*   Ask Dr. Oz: Quick Health Secrets
+*   Inexpensive Date Ideas
+*   101 Gadgets That Changed the World
+*   Rooms with Wonderful White Walls
 
 Advertisement
 
 daily giveaways
 
-Bertazzoni Professional Series Range Giveaway
+Lenovo Ultrabook U310 IdeaPad Giveaway
 
 Enter Now see more giveaways more sweeps Open/Close
 
