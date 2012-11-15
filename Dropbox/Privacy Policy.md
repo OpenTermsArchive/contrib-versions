@@ -17,10 +17,12 @@ Sorry, there was a problem loading this page.
     Create an account
     
 
+*   Deutsch
 *   English
 *   Español
+*   Español de españa
 *   Français
-*   Deutsch
+*   Italiano
 *   日本語
 *   한국어
 
@@ -456,9 +458,11 @@ PYXL
  English 
 
 *   English
-*   Español
-*   Français
 *   Deutsch
+*   Español
+*   Español de españa
+*   Français
+*   Italiano
 *   日本語
 *   한국어
 
