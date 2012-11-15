@@ -1,27 +1,17 @@
-You aren't signed in    Sign In   Help
-
-*   Home
 *   The Tour
 *   Sign Up
 *   Explore
-    *   Explore Home
-    *   Last 7 Days Interesting
-    *   Popular Tags
-    *   Calendar
-    *   Most Recent Uploads
-    *   Video on Flickr
-    *   Galleries
-    *   Getty Images
-    *   World Map
-    *   Places
+    *   Recent Photos
     *   The Commons
-    *   Creative Commons
-    *   FlickrBlog
-    *   code.flickr
-    *   The App Garden
+    *   Getty Collection
+    *   Galleries
+    *   World Map
+    *   App Garden
     *   Camera Finder
-    *   Flickr for mobile
+    *   Flickr Blog
 *   Upload
+
+*   Sign In
 
 Flickr Community Guidelines
 
