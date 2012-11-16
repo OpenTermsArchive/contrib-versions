@@ -1,7 +1,3 @@
-*   **Questions?** Call 1-866-579-7172 24 hours a day
-*   *   Member Sign In
-    Email Passwordforgot password Remember me on this computer. \[?\] ContinueSecure
-
 Privacy Policy
 
 This Privacy Policy explains our policy regarding the collection, use, disclosure and transfer of your information by the Netflix family of companies ("Netflix"). As we update and expand our services, this policy may change, so please refer back to it periodically. By accessing our website or otherwise using our service, you consent to our information practices.
@@ -104,21 +100,3 @@ Netflix Luxembourg S.à r.l., 13-15, Avenue de la Liberté, L-1931, Luxembourg, 
 Back to top
 
 This Privacy Policy is effective as of September 14, 2012
-
-*   Welcome
-*   Browse Selection
-*   How It Works
-
-*   Gifts: Buy / Redeem
-*   About Us
-*   Affiliates
-*   Blog
-*   Contact Us
-*   Investor Relations
-*   Jobs
-*   Media Center
-
-*   Watch instantly on your TV with devices that stream instantly from Netflix
-
-Use of the Netflix service and this Web site constitutes acceptance of our Terms of Use and Privacy Policy.  
-© 1997-2012 Netflix, Inc. All rights reserved. U.S. Patent Nos. 6,584,450. 7,024,381. 7,631,323. 7,403,910. and 7,617,127. (us-east-1 f22fe08d US) \[, en\]
