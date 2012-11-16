@@ -1,18 +1,3 @@
-*   The Tour
-*   Sign Up
-*   Explore
-    *   Recent Photos
-    *   The Commons
-    *   Getty Collection
-    *   Galleries
-    *   World Map
-    *   App Garden
-    *   Camera Finder
-    *   Flickr Blog
-*   Upload
-
-*   Sign In
-
 Flickr Community Guidelines
 
 **Flickr accounts are intended for members to share original photos and video that they themselves have created.**
@@ -69,57 +54,3 @@ If you don't feel that you can abide by our Community Guidelines as outlined abo
 You may also want to check out our FAQs and Privacy Policy. If you ever have any questions or comments, we'd love to hear from you. Please feel free to drop us a line through Help by Email.
 
 **_The Flickreenos_**
-
-About Flickr
-
-Who we are
-
-Take the tour
-
-Flickr blog
-
-Jobs
-
-Community
-
-Community Guidelines
-
-Report abuse
-
-Help
-
-Need help? Start here!
-
-Help forum
-
-FAQs
-
-About Our Ads
-
-Apps and the API
-
-Flickr for mobile
-
-App Garden
-
-API documentation
-
-Developer blog
-
-Developer Guide
-
-Follow us
-
-Like us
-
-*   Deutsch
-*   English
-*   Español
-*   Français
-
-*   Italiano
-*   Português
-*   Tiếng Việt
-*   Bahasa Indonesia
-
-Terms of Use | Your privacy | Yahoo! Safely | Copyright/IP Policy Copyright © 2012 Yahoo! Inc. All rights reserved.
