@@ -2,6 +2,7 @@
 
 This Privacy Policy covers 500px's treatment of personal information that 500px gathers when you are on the 500px website and when you use 500px services. This policy does not apply to the practices of third parties that 500px does not own or control, or to individuals that 500px does not employ or manage.
 
+  
 Information Collected by 500px
 
 We only collect personal information that is relevant to the purpose of our website. This information allows us to provide you with a customized and efficient experience. We collect the following types of information from our 500px users:  
