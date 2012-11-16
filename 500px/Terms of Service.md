@@ -2,6 +2,7 @@ The following document outlines the terms of use of the 500px website. You can a
 
 Before using any of the 500px services, you are required to read, understand and agree to these terms. You may only create an account after reading and accepting these terms. The column on the right provides a short explanation of the terms of use and is not legally binding.
 
+  
 Acceptance Of Terms
 
 The web pages available at 500px.com and all linked pages (“Site”), are owned and operated by 500px, Inc. (“500px”) a Canadian corporation and is accessed by you under the Terms of Use described below (“Terms”).
