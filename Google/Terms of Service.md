@@ -109,5 +109,3 @@ Afrikaans Bahasa Indonesia Bahasa Melayu Català Čeština Dansk Deutsch Eesti E
 
 *   Google
 *   Privacy &. Terms
-
-Take our survey
