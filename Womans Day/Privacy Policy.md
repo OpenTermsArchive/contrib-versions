@@ -129,7 +129,7 @@ Advertisement
 
 daily giveaways
 
-Keystone Resort, Keystone, CO, Getaway Giveaway
+BABOR Collagen Booster Kit Giveaway
 
 Enter Now see more giveaways more sweeps Open/Close
 
