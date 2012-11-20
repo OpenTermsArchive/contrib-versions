@@ -12,7 +12,7 @@ Advertisement
 
 Site Recipes Search Search
 
-try: Thanksgiving PiesHoliday HairstylesCareer Advice
+try: Turkey TipsBlack Friday GuideStress Relief
 
 *   Food _+_ Recipes•
     
@@ -129,7 +129,7 @@ Advertisement
 
 daily giveaways
 
-BABOR Collagen Booster Kit Giveaway
+FineStationery.com $25 Gift Card Giveaway
 
 Enter Now see more giveaways more sweeps Open/Close
 
@@ -209,7 +209,7 @@ Advertisement
 
 Site Recipes Search Search
 
-try: Thanksgiving PiesHoliday HairstylesCareer Advice
+try: Turkey TipsBlack Friday GuideStress Relief
 
 About Woman’s Day
 
