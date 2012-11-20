@@ -1,24 +1,3 @@
-*   Personal
-*   Business
-    *   Small Business
-    *   Enterprise Business
-    *   Wholesale
-    *   Government
-*   About AT&T
-
-Access Keys, Skip To Content.
-
-Search
-
- 
-
-*   AT&T Acceptable Use Policy
-*   Subscription Form
-
-AT&T Acceptable Use Policy Related Resources
-
-*   AT&T Global IP Network Peering Policy
-
 Introduction
 
 AT&T is at all times committed to complying with the laws and regulations governing use of the Internet, e-mail transmission and text messaging and preserving for all of its Customers the ability to use AT&T's network and the Internet without interference or harassment from other users. The AT&T AUP ("AUP") is designed to help achieve these goals.
@@ -121,13 +100,3 @@ E-mail: copyright@att.com
 
   
 _Effective Date: October 15, 2008_
-
-About AT&T | Support | Careers | Toll Free Directory Assistance | Terms &. Conditions | Privacy Policy  
-  
-© 2012 AT&T Intellectual Property. All rights reserved. AT&T, the AT&T logo and all other AT&T  
-marks contained herein are trademarks of AT&T Intellectual Property and/or AT&T affiliated companies.  
-36 USC 220506  
-  
-
-Hosted by AT&T and powered by   
-AT&T Content Acceleration
