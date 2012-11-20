@@ -1,273 +1,120 @@
-Advertisement
+var Privacy01 = '
 
-*   Give a Gift
-*   Customer Care
-*   promotions
+PRIVACY POLICY  
+'. Privacy01 += '
 
-*   Newsletters
-*   Games
-*   Coupons
-*   Blogs
-*   wd on the go
+**1\. Purpose and Scope of this Privacy Policy.**
 
-Site Recipes Search Search
+'. Privacy01 += '
 
-try: Turkey TipsBlack Friday GuideStress Relief
+'. Privacy01 += '1.  This privacy policy describes how Hearst Communications, Inc. and its Affiliates (collectively, "**Hearst**") treat the Personally Identifiable Information that is collected about you when you visit the web sites, mobile-optimized versions of the web sites, and digital applications to which this policy is linked (collectively, "**Covered Sites**"). For the purposes of this policy, an entity controlling, controlled by, or under common control with another entity shall be deemed to be an "Affiliate", where control means ownership of 15% or more of the voting stock or other ownership interests. For the purposes of this policy, "**Personally Identifiable Information**" is information that we can use to identify or contact you as an individual, and includes your name, email address, address, telephone number and any other information that we associate with any of the foregoing. By submitting Personally Identifiable Information through any of our Covered Sites, you agree to the terms of this privacy policy and you expressly consent to the collection, use and disclosure of your Personally Identifiable Information in accordance with this privacy policy.
+'. Privacy01 += '2.  This privacy policy does not apply to information collected about you by anyone except Hearst and only applies to the Covered Sites (defined above). This privacy policy does not apply to Hearst websites which are not linked to this policy and does not apply to non-Hearst websites, including those linked to or advertised on a Covered Site. Any information you provide when you visit websites other than those covered by this policy will be subject to the privacy policies posted on those sites.
+'. Privacy01 += '3.  We may offer our Magazines through certain third party websites via a subscription page on such third party websites that is linked to this policy. For the avoidance of doubt, such subscription page is a "Covered Site" and this policy applies to information collected through the subscription page, but does not apply to information collected through the third party website.
+'. Privacy01 += '4.  Except as specified herein, this policy also does not apply to information you may provide to us offline. however please do be aware that if you subscribe offline to one of the magazines published by Hearst ("**Magazines**"), from time to time we make your postal addresses available to companies for marketing purposes.
+'. Privacy01 += '5.  Certain features of the Covered Sites may be subject to additional or different privacy provisions, which will be posted on the Covered Site in connection with such features. All such additional or different privacy provisions are incorporated by reference into this privacy policy.
+'. Privacy01 += '
 
-*   Food _+_ Recipes•
-    
-    *   • Quick + Easy Recipes
-    *   • Healthy Recipes
-    *   • Dessert Recipes
-    *   • Holiday Recipes
-    *   • Cooking Tips + Shortcuts
-    *   • Month of Menus
-    *   • Food + Recipe Videos
-    
-    read more!
-    
-    7 Thanksgiving Blunders to Avoid
-    
-*   Health _+_ Fitness•
-    
-    *   • Nutrition
-    *   • Diet + Weight Loss Tips
-    *   • Workout Routines
-    *   • Stress Management
-    *   • Conditions + Diseases
-    *   • Health + Fitness Videos
-    *   • Be a Hero
-    
-    read more!
-    
-    10 Tips for a Happier, Healthier Commute
-    
-*   Lifestyle•
-    
-    *   • Money
-    *   • Travel Tips
-    *   • Entertainment
-    *   • Pets
-    *   • Personal Stories
-    *   • Etiquette
-    *   • Holidays
-    *   • Horoscopes
-    *   • Lifestyle Videos
-    
-    read more!
-    
-    Does It Pay to Buy Specialty Insurance?
-    
-*   Sex _+_ Relationships•
-    
-    *   • Sex Tips + Advice
-    *   • Dating + Marriage
-    *   • Family
-    *   • Friendship
-    
-    read more!
-    
-    8 Surprising Health Benefits of Sex
-    
-*   Home•
-    
-    *   • Organizing
-    *   • Cleaning Tips
-    *   • Decorating Ideas
-    *   • Craft Ideas
-    *   • Holiday Decorating Ideas
-    *   • Home Videos
-    
-    read more!
-    
-    14 Fun Thanksgiving Crafts
-    
-*   Style _+_ Beauty•
-    
-    *   • Fashion + Style
-    *   • Beauty Tips + Products
-    *   • Style + Beauty Videos
-    
-    read more!
-    
-    Hair Tips from the Experts
-    
-*   Giveaways
+'. var Privacy02 = '
 
-Privacy Policy Print Share In order to view the Privacy Policy you must enable javaScript. Print Share
+**2\. Collection of Information**
 
-Special Offer
+'. Privacy02 += '
 
-see all About articles connect with us
+'. Privacy02 += '1.  **Information You Provide.** Hearst generally collects Personally Identifiable Information that you voluntarily provide. For instance, when you enter a sweepstakes or contest, complete a survey, participate in a reader panel, register for those portions of our Covered Sites that may require registration, make a purchase, participate in our social networking features, request back issues of our Magazines, subscribe to our Magazines, subscribe to receive newsletters, promotional correspondence, or other electronic services, or send us an email or feedback, you may be asked to provide information such as your e-mail address, name, phone number, shipping address, and billing information, and we will collect such information as well as any other content you provide us in engaging in any of the above activities. Information such as your age, gender, hobbies or interests may also be requested. If you elect to post material to any blogs, forums, participate in our social networking features or other community boards that may be offered on our Covered Sites, then such materials will be collected and may be publicly available for others to view.
+'. Privacy02 += '2.  **Cookies.**
+'. Privacy02 += '
 
-*   Facebook
-*   Twitter
-*   Pinterest
-*   Google Plus>
-*   Newsletter
-*   Forums
+'. Privacy02 += '1.  Hearst (or third party service providers on our behalf) may set and access cookies and similar technologies on your computer. A cookie is a small amount of data (often including a unique identifier), that is sent to your browser from a web site\\'s computers and stored on your computer\\'s hard drive. Some of our cookies may be local shared objects, also known as Flash cookies. Cookies may be session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer until you delete them). Hearst uses cookies to understand site usage and to improve the content and offerings on our Covered Sites and in other media. We may use cookies to control the display of ads, to track usage patterns on the sites, to deliver editorial content, to record requests for subscriptions and to personalize information. Our cookies may contain Personally Identifiable Information and such cookies may be shared with others to the same extent indicated in Section 4. Hearst (or third party service providers on our behalf) may also use cookies to collect aggregate information about web site users on an anonymous basis ("Anonymous Information"). We may share aggregate demographic and usage information with our prospective and actual business partners, advertisers and other third parties for any business purpose.
+'. Privacy02 += '2.  Some of our third party partners (including advertisers and marketing services companies) may set and access cookies and similar technologies on your computer as well, or we may do so on their behalf. We do not have control over how these third parties use such cookies and similar technologies or the information derived therefrom.
+'. Privacy02 += '3.  If you don\\'t want cookies, most Web browsers include an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of our Covered Sites may not function efficiently. Flash cookies may regenerate HTTP cookies that you have affirmatively deleted. Deleting, rejecting, disabling or turning off HTTP cookies as described above will not remove flash cookies. We use flash cookies as an alternative method to HTTP cookies for storing information about your web browsing history across unaffiliated domains, unrelated to the delivery of content through the Flash Player or the performance of the Flash Player in delivering such content. You can manage and delete flash cookies by visiting http://kb2.adobe.com/cps/526/52697ee8.html.
+'. Privacy02 += '
 
-Advertisement
+'. Privacy02 += '4.  **Gifs.** We may use "**clear GIFs**" (aka "**web beacons**" or "**pixel tags**") or similar technologies, in the sites and in our communications with you to enable us to know whether you have visited a web page or received a message. A clear GIF is typically a one-pixel, transparent image (although it can be a visible image as well), located on a web page or in an e-mail or other type of message, which is retrieved from a remote site on the Internet enabling the verification of an individual\\'s viewing or receipt of a web page or message. A clear gif may enable us to relate your viewing or receipt of a web page or message to other information about you, including your Personally Identifiable Information.
+'. Privacy02 += '5.  **IP Address.** Your Internet Protocol ("**IP**") address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your university. Our server may also record the referring page that linked you to us (e.g., another Web site or a search engine). the pages you visit on our Covered Sites, the web sites you visit after this web site. the ads you see. the ads you click on. other information about the type of web browser, computer, platform, related software and settings you are using. any search terms you have entered on this web site or a referral site. and other web usage activity and data logged by our web servers. We may use your IP address to help diagnose problems with our servers, gather broad demographic information, and administer our Covered Sites. We may also link this information with your Personally Identifiable Information when we feel that it is necessary to enforce compliance with our rules and policies or terms of service or to protect our Covered Sites, customers or others.
+'. Privacy02 += '6.  **Location Information.** We may, and may enable our advertisers to, collect your location via certain services we provide through digital applications, wireless access protocol services ("**WAP Services**") or mobile phone service ("**Mobile Services**"). We, or the service provider, will inform you of such collection at the time you use the service. **By using such service, you hereby consent to our collection, use and disclosure of your location information as described.**
+'. Privacy02 += '7.  **Third Parties.** We may receive information from third parties, including demographic information from your mobile carrier, and information from third parties that solicit subscriptions to our magazines. Those third parties have privacy policies that differ from this Privacy Policy.
+'. Privacy02 += '
 
-Don't Miss These:
+'. Privacy02 += ''. var Privacy03 = '
 
-*   New Uses for Household Items
-*   Body Moisturizers You'll Love
-*   Quick Holiday Treats
-*   De-Stress Your Skin
-*   Hostess Gifts $20 and Under
-*   52 Ways to Organize Your Home
-*   Most-Requested Hairstyles
-*   A-List Living Rooms
-*   The Most Anticipated Hair Trends for Spring
-*   Ask Dr. Oz: Quick Health Secrets
-*   Inexpensive Date Ideas
-*   101 Gadgets That Changed the World
-*   Rooms with Wonderful White Walls
+**3\. Use of Information.**
 
-Advertisement
+'. Privacy03 += '
 
-daily giveaways
+'. Privacy03 += '1.  Hearst uses information we collect from you in part to provide you with the service you have requested. If you subscribe to any of our Magazines, we may also use your e-mail address to send you a confirmation notice and your mailing address to send you your Magazine. Similarly, if you enter online sweepstakes, we will also use this information to notify you if you are a winner. We also use your information to register you, identify you as a user, improve our Covered Sites and services, send you administrative notifications, and respond to your inquiries. We might also send out e-mails to users and sweepstakes/contest entrants to announce special offers, services and announcements from our Covered Sites, our partners and/or our advertisers. We also use information in connection with advertising and to serve other content, as described in section 4(d) below.
+'. Privacy03 += '2.  We may combine and use any and all information we collect on you either online or otherwise, including from third parties, for marketing purposes.
+'. Privacy03 += '3.  When you provide us your email address (e.g., to subscribe to our Magazines) but are not already a registered user of one of our Covered Sites, some of our Covered Sites may assign you a user name and password so that we can enhance your user experience by facilitating easy entry into other features and offers on the Covered Sites and saving your preferences. Certain areas on our Covered Sites require registration, and in those areas, you will be asked to establish your own user name and password or you can elect to use the one we\\'ve assigned. Your user name and password ("**User Registration**") will function across many of our Covered Sites, regardless of brand. Your User Registration will also be recognized at some of our Affiliate sites and sites which we partner with so that you may easily access features on those sites using your User Registration ("**Shared Registration Sites**"). however the information we provide and your actions on those Shared Registration Sites will be governed by the separate privacy policies of those Shared Registration Sites. A list of those Shared Registration Sites is set forth below, and may be updated from time to time. Current Shared Registration Sites are: The National Magazine Company Limited and RealAge. You may elect to change your User Registration at any time by logging in and editing your User Registration (each of our Covered Sites will contain log-in information). You may also log-in to cancel any user User Registration that you may have selected or that we may have assigned. If you cancel your User Registration, we will retain your email address, user name and assigned user ID on file and use them only for the purpose of assuring you are not automatically registered again, against your wishes. You may request deletion of your Personally Identifiable Information by us, but please note that we may be required to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives. We may retain your information for fraud or similar purposes.
+'. Privacy03 += '4.  In addition, we may use information you provide us through emails, Q&A, blogs, forums, in response to polls, or through any other user generated submission for editorial purposes, and may use your name and any stories you provide us in articles published online and in our Magazines. If you provide us with personal anecdotes, they may be attributed to you. Hearst can edit, rewrite, use, and reuse the content, including your name, likeness, photograph, and biographical information you provide, with or without attribution, including publication in the Magazines, and in trade media, and advertising.
+'. Privacy03 += '5.  We may create Anonymous Information from Personally Identifiable Information by excluding information (such as your name) that make the data personally identifiable to you. We use this Anonymous Information for any purpose and disclose Anonymous Information to third parties in our sole discretion.
+'. Privacy03 += '
 
-FineStationery.com $25 Gift Card Giveaway
+'. var Privacy04 = '
 
-Enter Now see more giveaways more sweeps Open/Close
+**4\. Disclosure of Your Information**
 
-*   Sweeps Advantage
-*   SweepstakeToday.com
-*   CashNet Sweepstake
+'. Privacy04 += '
 
-Advertisement
+'. Privacy04 += '1.  In addition to the other disclosures described in this policy, Hearst may (and you authorize us to) share or disclose Personally Identifiable Information about you to other companies or individuals in the following situations:
+'. Privacy04 += '
 
-Special Offers
+'. Privacy04 += '1.  We utilize third party service providers to provide products, services or functions on our behalf (such as sending emails or processing credit cards or fulfilling subscriptions), and ask these service providers to agree to maintain the confidentiality of your Personally Identifiable Information and not to use your Personally Identifiable Information for any reason except to carry out the purpose(s) for which we hired them ("**Service Provider Exception**").
+'. Privacy04 += '2.  You have entered a contest or sweepstakes sponsored by a third party, in which case the information you provide via the contest or sweepstakes may be shared by us with that third party for their use in their discretion, including direct marketing. Some of our contests and sweepstakes will ask you at the time of entry whether you would like to have your personal information shared with the sponsor, in which case we will honor your selection. Other contests will not give you that option and in that event, if you do not want your information to be shared, you should not enter the contest. The privacy policies of such third party companies apply to their use and disclosure of your information that we collect and disclose to such third party companies.
+'. Privacy04 += '3.  The entity to whom the information is disclosed is a Shared Registration Site (as defined in Section 3(c) above).
+'. Privacy04 += '4.  The entity to whom the information is disclosed is an Affiliate of Hearst.
+'. Privacy04 += '5.  In accordance with your indicated preferences (e.g., you indicated you wanted to receive promotional materials directly from a third party partner).
+'. Privacy04 += '6.  The entity is a third party who wants to promote goods and services we think would be of interest to you.
+'. Privacy04 += '7.  You have furnished us Personally Identifiable Information with the intent that it be forwarded to a third party for use in connection with a specified service you are electing to participate in (examples include, without limitation, e-commerce partners, services to help old friends locate you online, etc.);
+'. Privacy04 += '8.  We need to protect our legal rights (for example, if we are trying to collect money you owe us). we must comply with applicable laws, regulations, or legal or regulatory process, or comply with subpoenas or warrants served on us, or in connection with a legal investigation. or we have reason to believe that someone may be causing injury to someone or interfering with our rights or the rights of our users, or general public, or using our services in violation of a legal or personal right, including our Terms of Use (collectively, the "**Legal Exceptions**").
+'. Privacy04 += '9.  In connection with a sale, merger, transfer, exchange, or other disposition (whether of assets, stock, or otherwise, including via bankruptcy) of all or a portion of the business conducted by the Covered Site to which this policy applies, in which case the company will possess the Personally Identifiable Information collected by us and will assume the rights and obligations regarding your Personally Identifiable Information as described in this privacy policy ("**Acquisition Exception**").
+'. Privacy04 += '
 
-more from Woman’s Day Food &. Recipes
+'. Privacy04 += '3.  **Social Networks.** If you use your login credentials from a social networking site (e.g., Facebook or Twitter) ("**SNS**") on a Covered Site, we may receive information from such SNS in accordance with the terms and conditions (e.g., terms of use and privacy policy) of the SNS ("**SNS Terms**"). If you elect to share your information with these SNS, we will share information with them in accordance with your election. The SNS Terms of these SNS will apply to the information we disclose to them.
+'. Privacy04 += '4.  **Third Party Partners.** Some of our Covered Sites may from time to time partner with a retailer or other third party to offer online shopping opportunities, games, services, subscriptions and other applications on a co-branded or cross-promotional basis. Those transactions may take place on a Covered Site, or the site of the third party. In either case, Personally Identifiable Information you provide in connection with the transaction may be collected directly by, or shared by Hearst with, the third party, as well as with any participating sponsors or advertisers of such opportunities and features. Some of our Covered Sites may offer you the ability to access a third-party site with whom we have a relationship to access both sites through a co-branded registration or password. in that event, your applicable registration information may be collected directly by, or shared by Hearst with, the third-party partner. We will notify you at the applicable point of sign up if any such co-branded registration or password practices will be in effect. These third parties will use your information in accordance with their own privacy policy.
+'. Privacy04 += '5.  **Delivery of Advertising and Other Content**
+'. Privacy04 += '
 
-*   Dessert Recipes
-*   Ground Turkey Recipes
-*   Grilled Chicken Recipes
-*   Easy Cupcake Recipes
-*   Read More
+'. Privacy04 += '1.  In addition to ads and content that we serve you directly, we use third-party advertising companies and marketing services companies to serve ads and other content when you visit our Covered Sites and elsewhere on the internet and in other media. Both we and these companies may use information about your visits to this Covered Site and elsewhere to serve ads and other content to you. In the course of doing so, a unique third-party cookie may be placed or recognized on your browser by such companies. In addition, we and these companies may use Web beacons to help manage our online advertising and content. These Web beacons enable us and the third-party companies to recognize a browser\\'s cookie when a browser visits this site and to learn which banner ads bring users to our website and to serve you ads that you may find of interest elsewhere on the internet and in other media. Both Hearst and these companies may use information obtained from your visits to the Covered Sites (including your status as a customer of Hearst), other websites, and information received from you offline in order to provide advertisements about goods and services and other content of interest to you across the internet and in other media. If you would like more information about this practice and to know your choices about not having this information used in this manner, our third party advertising companies please visit http://www.networkadvertising.org/optout\_nonppii.asp . Ads in our videos may be served by an ad partner. You can find out more about our video ads by visiting http://www.yume.com/privacy.php.
+'. Privacy04 += '2.  In addition, we may provide Personally Identifiable Information and Anonymous Information to marketing services companies. This may include information we received from you offline or online. These companies may combine information we provide (including Personally Identifiable Information and Anonymous Information) with personal and anonymous information they may have about you, using cookies they place or that we place on their behalf, as described in Section 2(b). We require these companies to delete the Personally Identifiable Information we provide them. These companies may use the resulting non-personal information and such cookies for their own marketing purposes, and they may provide the same to their customers for their customer\\'s marketing purposes. If you would like to know your choices about not having this information used by such companies, please visit: alc-opt-out.com.
+'. Privacy04 += '
 
-Health &. Fitness
+'. Privacy04 += '
 
-*   Healthiest Snacks
-*   Healthy Recipes
-*   Weight Loss Before and After
-*   Workout Routines
-*   Read More
+'. var Privacy05 = '
 
-Lifestyle
+**5\. Right to Opt-out**
 
-*   How to Make Money from Home
-*   How to Start Your Own Business
-*   Housebreaking a Puppy
-*   Kid Friendly Cruises
-*   Read More
+'. Privacy05 += '
 
-Sex &. Relationships
+'. Privacy05 += '1.  **California &. Canadian Users: Your California Privacy Rights.**California\\'s "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses\\' practices related to disclosing personal information to third parties for the third parties\\' direct marketing purposes.�� Alternatively, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties\\' direct marketing purposes if the customer has exercised an option to opt-out of such information sharing.�� We have such a policy in place. Sections 4(d) and 5(d) explain our practices and how you can opt-out of having your information shared with third parties for the third parties\\' direct or indirect marketing purposes, in accordance with such laws. In addition to reviewing Sections 4(d) and 5(d), if you wish to find out about any rights you may have under California Civil Code section 1798.83, you may notify us in writing at Mail Preference Service, P.O. Box 6000, Harlan, Iowa 51593 or contacting us at customercare@hearstmags.com. Canadian residents also have certain rights to know how their information may be shared with third parties who engage in direct marketing activities. Again, Sections 4(d) and 5(d) explain our practices and how you can opt-out of having your information shared for such purposes, in accordance with such laws.�� For the avoidance of doubt, these opt-out options are available for all users and are not limited to Californian and Canadian users.
+'. Privacy05 += '2.  **Mobile Opt-out.** We may provide you messages, including marketing, via your wireless email address or by short message service ("**SMS Service**"), WAP or Mobile Services as described in Section 6. You may opt-out of these messages from us by replying "STOP" or following the instructions provided in the message.
+'. Privacy05 += '3.  **Marketing provided by Hearst.** From time to time we may send you promotional materials on behalf of Hearst and/or third parties. If you want us to stop sending you promotional materials to your email, you may follow the unsubscribe instructions in the email or manage your preferences at http://hearst.ed4.net/profile/login.cfm . If you want us to stop sending you promotional materials to your postal mailing address, you may notify us in writing by sending a notice to Mail Preference Service, P.O. Box 6000, Harlan, Iowa 51593 or contacting us at customercare@hearstmags.com . Certain Covered Sites may include a customer service link at the bottom of such site. If so, you may also manage your email preferences through that link.
+'. Privacy05 += '4.  **Marketing provided by Third Parties.** From time to time we may disclose your contact information to third parties to allow them to market their products or services to you or for other marketing purposes. This may be information we received from you offline and online. If you want us to stop further sharing your email contact information with third parties (if we have your email contact information), you may notify us at http://hearst.ed4.net/profile/login.cfm. If you want us to stop further sharing your postal mailing contact information with third parties (if we have your postal address), you may notify us in writing by sending a notice to Mail Preference Service, P.O. Box 6000, Harlan, Iowa 51593 or contacting us at customercare@hearstmags.com. If you wish to opt out of having your information shared with marketing services companies, please see section 4(d) abovePlease follow the instructions provided to you by third parties to unsubscribe from their messages.
+'. Privacy05 += '5.  **Exceptions.** If you have opted-out as described above, and thereafter you elect to use a service or promotion that requires us to contact you or share your information with a third party (e.g., you enter into a contest or sweepstakes or use an ecommerce service after opting-out), then your previous opt-out preferences will not apply to such service. Despite your indicated preferences, we may send you service related communications, including notices about your subscription, and we may continue disclosing your information to third parties under the Service Provider Exception, Legal Exceptions, and Acquisition Exception described above.
+'. Privacy05 += '6.  **Device Settings.** Our digital applications may provide you alerts and you can change your preferences regarding these alerts through your device settings.
+'. Privacy05 += '
 
-*   How Many Calories Does Sex Burn?
-*   Sex Tips for Women
-*   Sex Positions
-*   Sex Statistics
-*   Read More
+'. var Privacy06 = '
 
-Home
+**6\. Wireless Email Address, Short Message Services and** **WAP.** If the email address you provide to us is a wireless email address, you agree to receive messages at such address from Hearst or from third parties. Similarly, we may make available services through which you can receive messages on your phone or wireless device SMS Service or WAP Services. We may also make available content and versions of our Covered Sites available via WAP and Mobile Services. If you subscribe to one of our SMS, WAP or Mobile Services, you thereby agree to receive services and messages at the address you provide for such purposes. Such messages may come from Hearst, or from third parties. To use the wireless email address, SMS, WAP, or Mobile Service, you must reside in the United States. We may also obtain the date, time and content of your messages. We will use the information we obtain in connection with these services in accordance with this Privacy Policy. Your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies. **By providing us your wireless email address or by signing up for any SMS, WAP, or Mobile Service, you consent to receiving messages as described above. You understand that your wireless carrier\\'s standard rates apply to these messages. You represent that you are the owner or authorized user of the wireless device on which messages will be received, and that you are authorized to approve the applicable charges.**
 
-*   How to Hang a Picture
-*   Home Office Ideas
-*   Craft Ideas
-*   How to Get Organized
-*   Read More
+'. var Privacy07 = '
 
-Style &. Beauty
+**7\. Security of Your Personally Identifiable Information.** We use a variety of industry-standard security technologies and procedures to help protect your Personally Identifiable Information from unauthorized access, use, or disclosure. We also require you to enter a password to access your registration information. Please do not disclose your registration password to unauthorized people. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while Hearst uses reasonable efforts to protect your Personally Identifiable Information, Hearst cannot guarantee its absolute security.
 
-*   How to Sew a Button
-*   Dry Shampoo
-*   How to Hem Pants
-*   Work Clothes for Women
-*   Read More
+'. var Privacy08 = '
 
-Holiday Recipes
+**8\. Kids And Parents.** The Covered Sites are not intended for use by children, especially those under age 13. If your children disclose information about themselves in our public discussion areas, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so. There are also commercially available tools to help you limits your children\\'s exposure to material online.
 
-*   Thanksgiving Recipes
-*   Delicious Thanksgiving Desserts
-*   Easy Thanksgiving Side Dishes
-*   Christmas Cookie Recipes
-*   Read More
+'. var Privacy09 = '
 
-Featured
+**9\. Non-U.S. Users.** If you are located outside of the United States, please note that the information you provide to us will be transferred to and processed in the United States, where laws regarding processing of Personally Identifiable Information may be less stringent than the laws in your country. By using this Covered Site, you consent to this transfer and processing. You also consent to the adjudication of any disputes arising in connection with this Covered Site in the federal and state courts of, and in accordance with the laws of, the state of New York.
 
-*   How to Feel Seven Years Younger
-*   Order the 7 Years Younger Book
-*   Chicken Recipes
-*   Horoscopes
-*   Read More
+'. var Privacy10 = '
 
-Advertisement
+**10\. Changes to This privacy policy.** This privacy policy is subject to occasional revision, and if we make any material changes in the way we use your Personally Identifiable Information, we will prominently post notice of the changes on our Covered Sites. Any changes to this privacy policy will be effective upon thirty (30) calendar days following our posting of notice of the changes on our Covered Sites. These changes will be effective immediately for new users of our Covered Sites. Continued use of our Covered Sites, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
 
-Site Recipes Search Search
+'. Privacy10 += ''. var Privacy11 = '
 
-try: Turkey TipsBlack Friday GuideStress Relief
+This policy was last updated on November 5, 2012.
 
-About Woman’s Day
-
-*   Woman's Day on the Go
-*   About Us
-*   Online Media Kit
-*   Press Room
-*   Privacy Policy
-*   Your California Privacy Rights
-*   Terms of Use
-*   Site Map
-*   Contact Us
-*   Community Guidelines
-*   Advertise Online
-*   Reader Panel
-*   YouTube
-
-Woman’s Day Magazine
-
-*   Customer Service
-*   Subscribe
-*   Other Hearst Subscriptions
-*   Give a Gift
-*   Events &. Promotions
-*   Newsletters
-
-Home &. Decor Small Apartment Decor Entryway Ideas Kitchen Remodeling Bathroom Remodeling DIY Decorating Ideas Kitchen Designs Dressing Tables Window Dressings Table Setting Ideas Family Room Decorating Decorating Ideas Food &. Recipes Salmon Recipes Chicken Breast Recipes Sweet Potato Fries Apple Pie Recipes Spaghetti Squash Recipes Low-Calorie Recipes Autumn Recipes Chicken Lasagna Recipe French Macaron Recipe Soup Recipes Ground Turkey Recipes Holiday Ideas DIY Christmas Gifts Holiday Appetizers Easy Christmas Cookies Thanksgiving Recipes Thanksgiving Desserts Thanskgiving Appetizers Holiday Party Food Thanksgiving Playlist Thanksgiving Crafts Turkey Stuffing Recipe Easy Christmas Cookies How-To &. Crafts Fabric Drawer Pulls Napkin Ring Craft How to Lose 20 Pounds Bedroom Lighting How to Get Organized How to Fold Napkins Best Blenders Best Paint Colors DIY Home Decor Sew a Button Paint Striped Walls Connect with us
-
-*   Facebook
-*   Twitter
-*   Pinterest
-*   Google Plus>
-*   Newsletter
-*   Forums
-
-©2012 Hearst Communications, Inc. All Rights Reserved. being green  
-Why did I get this ad? Connect with Facebook Woman’s Day Magazine on Twitter @WomansDay Woman’s Day on Pinterest Follow our Boards Sign up for free Woman's Day Newsletters! Sign Up
-
-Ask whatever's on your mind—and get answers from our community and the Woman’s Day editors!
-
-get started Link Your _Woman's Day_ Account to Facebook Welcome!
-
-Woman's Day already has an account with this email address. Link your account to use Facebook to sign in to Woman's Day. To insure we protect your account, please fill in your password below.
-
-Username or email:
-
-Password:
-
-Sign In Forgot Password?
-
-No thanks, continue without linking accounts.
-
-Continue Thanks for Joining
-
-Your information has been saved and an account has been created for you giving you full access to everything womansday.com and Hearst Digital Media Network have to offer. To change your username and/or password or complete your profile, click here.
-
-Continue Your accounts are now linked
-
-You now have full access to everything Woman's Day and Hearst Digital Media Network have to offer. To change your settings or profile, click here.
-
-Continue
+'. Privacy11 += ''. document.write(''). document.write(Privacy01 + Privacy02 + Privacy03 + Privacy04 + Privacy05 + Privacy06 + Privacy07 + Privacy08 + Privacy09 + Privacy10 + Privacy11);
