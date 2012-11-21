@@ -1,9 +1,3 @@
-Zoosk, The Romantic Social Network skip to content
-
-*   help
-*   signup
-*   login
-
 ZOOSK PRIVACY POLICY
 
 This Privacy Policy ("Policy") explains how information about you is collected, used and disclosed by Zoosk, Inc. and its subsidiaries and affiliates ("Zoosk," "we" or "us"). This Policy applies to all of the websites (including www.zoosk.com), products, applications (including mobile applications and applications and pages operated by Zoosk and available on social networking sites and other platforms and our downloadable products) and services offered by Zoosk wherever this Policy is displayed (collectively, the "Services").
@@ -94,22 +88,3 @@ Please note that we are based in the United States of America. As such, any pers
 9.  LAST REVISION DATE
     
     This Policy was last revised on August 11, 2011.
-    
-
-English © 2007-2012 Zoosk, Inc. All Rights Reserved.
-
-*   More Zoosk
-    *   about
-    *   help
-    *   online dating
-    *   member directory
-    *   contact
-    *   online safety
-*   The Company
-    *   careers
-    *   press
-    *   blog
-    *   apparel
-    *   | privacy policy  
-        
-    *   terms of service
