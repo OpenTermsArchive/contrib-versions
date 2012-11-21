@@ -6,7 +6,7 @@
 *   SIGN IN / MY ACCOUNT
 
 *   New
-    *   Decorating &. Home Entertaining &. Kitchen Gifts &. Accesories Food &. Drink Seasonal
+    *   Furniture Decorating &. Home Entertaining &. Kitchen Gift shop Food &. Drink Holiday
 *   Furniture
     *   Dining Room Furniture Dining Tables Dining Chairs Stools Dining Benches and Banquettes Dining Room Sets Buffets and Wine Storage Kitchen Furniture Living Room Furniture Sofas Chairs and Ottomans Coffee Tables and Accent Tables Benches Chaise and Daybeds Media Furniture Cabinets and Shelving Accent Furniture Decorative Screens Bedroom Furniture Beds Chaise and Daybeds Bedroom Storage Nightstands and Tables Jewelry Armoires Home Office Office Desks Office Chairs Bookcases and File Cabinets Outdoor and Patio Outdoor Dining Furniture Outdoor Seating and Lounge Outdoor Accent Furniture Adirondack Chairs Outdoor Cushions and Pillows Outdoor Hammocks and Stands Fire Pits Outdoor Umbrellas and Stands Bathroom
 *   Decorating &. Home
@@ -18,10 +18,10 @@
 *   Gift Shop
     *   Gifts by Price Under $30 Under $50 Under $75 Gifts by Recipient For Her For Him For Kids For Pets The Decorator The Entertainer The Gourmet The Host The Traveler Gifts by Occasion Anniversary Birthday Housewarming Wedding Stocking Stuffers The Coworker The Fashionista The Gadget Guru The Gourmet The Guy The Kid at Heart The Spa Lover The Wine Aficionado Jewelry Necklaces Earrings Bracelets and Watches Rings Jewelry Storage Clothing and Accessories Scarves and Shawls Clothing Bags and Totes Hats Hair Accessories Travel Accessories Cold Weather Accessories Tech Accessories Gift Baskets Top Sellers Holiday Everyday Gourmet Fruit and Cheese Organic Spa Thinking of You Gift Sets Gift Wrap and Stationery Decorative Paper and Gift Wrap Gift Bags and Boxes Gift Trim Create a Gift Stationery Party Supplies Calendars Toys and Games Toys Games and Puzzles Kites and Outdoor Toys
 *   Holiday
-    *   Christmas Holiday Décor Holiday Entertaining Baking Central Food and Drink Christmas Ornaments Nutcrackers Noël Collection Christmas Carols Collection Alpine Workshop Collection Global Christmas Collection Stocking Stuffers Gift Wrap and Cards Hanukkah Fall Harvest Decorating and Home Entertaining and Kitchen Food and Drink Thanksgiving Halloween Decorating and Home Entertaining and Kitchen Tricks and Treats Scary Halloween Vintage Halloween Classic Halloween Collections Kingdom Animalia Venetian Bazaar Outdoor and Patio
+    *   Christmas Holiday Décor Holiday Entertaining Baking Central Food and Drink Christmas Ornaments Nutcrackers Noël Collection Christmas Carols Collection Alpine Workshop Collection Global Christmas Collection Stocking Stuffers Gift Wrap and Cards Hanukkah Fall Harvest Thanksgiving Decorating and Home Entertaining and Kitchen Food and Drink Collections Kingdom Animalia Venetian Bazaar Outdoor and Patio
 *   Inspiration &. Solutions
 *   Sale
-    *   Furniture Entertaining &. Kitchen Decorating &. Home Gifts &. Accessories Food &. Drink Seasonal
+    *   Furniture Entertaining &. Kitchen Decorating &. Home Gift Shop Food &. Drink Holiday
 
 " />.
 
