@@ -1,37 +1,4 @@
-Skip to search.
-
-*   _New User?_ Register
-*   _Sign In_
-*   Help
-
-Get Yahoo! Optimized Firefox
-
-*     Notifications Help
-    
-*   Mail
-    
-*   My Y!
-*   Yahoo!
-
-Yahoo! Privacy Search Search Web Breaking News Visit Yahoo! News for the latest. ×Close this window
-
-*   Startseite
-*   Produkte
-*   Themen
-*   Einstellungen
-*   Hilfe
-
-*   Gegenstand dieser Datenschutzerklärung, Verantwortliche Stelle
-*   Erhebung und Verwendung Ihrer Daten
-*   Datenübermittlung an Dritte
-*   Cookies
-*   Bearbeitung oder Löschen von Daten Ihres Accounts
-*   Vertraulichkeit und Sicherheit
-*   Veröffentlichungen in öffentlich zugänglichen Bereichen unserer Dienste
-*   Änderungen dieser Datenschutzerklärung
-*   Fragen oder Vorschläge
-
-Diese Seite per E-Mail versenden Diese Seite drucken Gegenstand dieser Datenschutzerklärung, Verantwortliche Stelle
+Gegenstand dieser Datenschutzerklärung, Verantwortliche Stelle
 
 Gegenstand dieser Erklärung ist die Erhebung, Verarbeitung und Nutzung ("Verwendung") von personenbezogenen Daten und sonstigen Informationen, die Yahoo! erhebt, wenn Sie unsere Angebote unter der URL www.yahoo.de bzw. http://de.yahoo.com („Dienste" oder „Services“) nutzen. Personenbezogene Daten sind solche, die Ihnen eindeutig zugeordnet werden können, wie z.B. Ihr Name, Adresse, E-Mail-Adresse oder Telefonnummer. Auf die Verwendung personenbezogener Daten weisen wir innerhalb unserer Datenschutzerklärungen ausdrücklich hin. Die meisten Informationen, die wir erheben, sind aber für uns gänzlich anonym oder werden pseudonym verwendet.
 
@@ -137,17 +104,3 @@ Fragen oder Vorschläge
 Wenn Sie Fragen oder Feedback zu unserer Datenschutzerklärung oder generell zum Datenschutz bei Yahoo! haben, können Sie uns gerne über unser Hilfeformular kontaktieren.
 
 Zum Seitenanfang zurückkehren
-
-Highlights
-
-OPT-OUT                       
-                    
-
-Sie möchten keine interessenbasierte Werbung erhalten? Sie können sich vom Erhalt interessenbasierter Werbung auf Yahoo! abmelden.
-
-Relevante Anzeigen
-
-Wir zeigen Ihnen Inhalte und Werbeeinblendungen, die auf Ihre Interessen zugeschnitten sind, und bieten Ihnen so eine überzeugende Online-Erfahrung. Mit unseren individuellen und intelligenten Diensten sparen Sie Zeit und Mühe. Weitere Informationen zu relevanten Anzeigen.
-
-Copyright © 2012 Yahoo! Alle Rechte vorbehalten.  
-Datenschutz | Geschäftsbedingungen
