@@ -102,6 +102,7 @@ English © 2007-2012 Zoosk, Inc. All Rights Reserved.
     *   about
     *   help
     *   online dating
+    *   member directory
     *   contact
     *   online safety
 *   The Company
