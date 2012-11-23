@@ -1,91 +1,97 @@
-*   CART: $0.00 (0) Your shopping cart is empty.
-*   Email Signup
-*   World Market Explorer
-*   Store Locator
-*   Our Latest Ad
-*   SIGN IN / MY ACCOUNT
+World Market Privacy Policy
 
-*   New
-    *   Furniture Decorating &. Home Entertaining &. Kitchen Gift shop Food &. Drink Holiday
-*   Furniture
-    *   Dining Room Furniture Dining Tables Dining Chairs Stools Dining Benches and Banquettes Dining Room Sets Buffets and Wine Storage Kitchen Furniture Living Room Furniture Sofas Chairs and Ottomans Coffee Tables and Accent Tables Benches Chaise and Daybeds Media Furniture Cabinets and Shelving Accent Furniture Decorative Screens Bedroom Furniture Beds Chaise and Daybeds Bedroom Storage Nightstands and Tables Jewelry Armoires Home Office Office Desks Office Chairs Bookcases and File Cabinets Outdoor and Patio Outdoor Dining Furniture Outdoor Seating and Lounge Outdoor Accent Furniture Adirondack Chairs Outdoor Cushions and Pillows Outdoor Hammocks and Stands Fire Pits Outdoor Umbrellas and Stands Bathroom
-*   Decorating &. Home
-    *   Pillows and Throws Throw Pillows Chair Cushions Floor Pillows and Poufs Blankets and Throws Curtains and Window Hardware Curtains Bamboo Panels Curtain Rods and Hardware Bed and Bath Bedroom Bathroom Laundry Closet Organization Bath and Body Kids Bath Rugs Indoor Rugs Doormats Rug Pads Outdoor Rugs Floor Runners Wall Art and Décor Wall Art Wall Décor Wall Decals Mirrors Tapestries Lighting Mix and Match Lamps Accent Lamps Table Lamps Task Lamps Floor Lamps Hardware and Accessories Pendants and Lanterns Paper Lanterns String Lights Outdoor Lighting Decorative Accessories Artisan Gifts Baskets Candles Candle Holders Clocks Decorative Accents Fireplace Accessories Foliage and Floral Frames Incense and Potpourri Knobs and Wall Hooks Lanterns Vases Home Office Desk Accessories Organization Stationery Outdoor Patio Décor Outdoor Rugs and Mats Outdoor Cushions and Pillows Outdoor Lighting Outdoor Curtains Garden Accents
-*   Entertaining &. Kitchen
-    *   Dinnerware and Serving Appetizer and Dessert Plates Chargers Dinnerware Pitchers and Decanters Serving Bowls Serving Trays and Platters Specialty Dinnerware and Drinkware Storage Drinkware Martini Glasses Margarita Glasses Acrylic Glasses Champagne Flutes Coffee Mugs and Teacups Drinking Glasses and Barware Glassware Sets Wine Glasses Dinnerware and Drinkware Storage Flatware Flatware Sets Serving Utensils and Sets Cutlery Chopsticks Bar Bar Accessories Wine Racks Beverage Coolers Table Linens Placemats and Napkins Tablecloths and Runners Napkin Rings Chair Cushions Aprons, Kitchen Towels and Pot Holders Cooking and Baking Cookware Bakeware Kitchen Electrics Tools and Gadgets Cutting Boards Mixing Bowls Pot Racks Outdoor BBQ and Grilling Cookbooks Coffee and Tea Time Coffee Mugs and Tea Cups Teapots and Tea Kettles Coffee Makers Carafes, Creamers and Sugar Bowls Kitchen Tools and Storage Storage Containers Cleaning Supplies Compost and Trash Cans Dinnerware and Drinkware Storage Lunch Bags and Containers Aprons, Kitchen Towels and Pot Holders Outdoor Dining and Entertaining Outdoor Dining and Entertaining Picnic Baskets BBQ and Grilling
-*   Food &. Drink
-    *   Food Baking Products Cookies and Cakes Candy and Chocolate Jams and Spreads Spices and Seasonings Condiments and Sauces Meats and Cheese Pasta and Grains Soups Meals Snacks Drink Coffee Tea Cocoa Drinks and Drink Mixes Seasonal Food and Drink International Favorites World Market's Own Wine and Beer Wine Beer
-*   Gift Shop
-    *   Gifts by Price Under $30 Under $50 Under $75 Gifts by Recipient For Her For Him For Kids For Pets The Decorator The Entertainer The Gourmet The Host The Traveler Gifts by Occasion Anniversary Birthday Housewarming Wedding Stocking Stuffers The Coworker The Fashionista The Gadget Guru The Gourmet The Guy The Kid at Heart The Spa Lover The Wine Aficionado Jewelry Necklaces Earrings Bracelets and Watches Rings Jewelry Storage Clothing and Accessories Scarves and Shawls Clothing Bags and Totes Hats Hair Accessories Travel Accessories Cold Weather Accessories Tech Accessories Gift Baskets Top Sellers Holiday Everyday Gourmet Fruit and Cheese Organic Spa Thinking of You Gift Sets Gift Wrap and Stationery Decorative Paper and Gift Wrap Gift Bags and Boxes Gift Trim Create a Gift Stationery Party Supplies Calendars Toys and Games Toys Games and Puzzles Kites and Outdoor Toys
-*   Holiday
-    *   Christmas Holiday Décor Holiday Entertaining Baking Central Food and Drink Christmas Ornaments Nutcrackers Noël Collection Christmas Carols Collection Alpine Workshop Collection Global Christmas Collection Stocking Stuffers Gift Wrap and Cards Hanukkah Black Friday Life of Pi Fall Harvest Thanksgiving Decorating and Home Entertaining and Kitchen Food and Drink Collections Kingdom Animalia Venetian Bazaar Outdoor and Patio
-*   Inspiration &. Solutions
-*   Sale
-    *   Furniture Entertaining &. Kitchen Decorating &. Home Gift Shop Food &. Drink Holiday
+_Effective date: August 11, 2010_
 
-" />.
+World Market values your privacy. This notice details our privacy policy and practices so that you can have this information at your fingertips. We want you to know how we collect, use, and protect information about our customers. This privacy policy will tell you:
 
-**Limited Time Only!**
+*   What information we collect
+*   What we do with the information we collect
+*   How we may share information
+*   How you can limit contact from us
 
-Free shipping offer applies to ground shipping on the purchase of select items at worldmarket.com.
+By visiting our website you are accepting the practices described in this Privacy Policy. Our website may contain links to other websites operated and maintained by third parties. Other websites may also reference or link to our website. World Market is not responsible for the privacy practices or the content of such other sites. You should consult the individual privacy policies of those websites to determine their privacy practices before disclosing any personal information.
 
-Minimum purchase of $150 (before tax, shipping and handling) required to qualify for offer.
+Information We Collect
 
-Not valid on previously purchased items. Cannot be combined with other offers.
+**Information You Provide**
 
-**2-day and overnight shipping charges and surcharges still apply. Offer excludes Alaska and Hawaii.**
+We receive, and may store, any information you provide to us through our website. For example, we collect information that you provide when you place an order, register with us, send us an email, call us, sign up for our email offers or Rewards Program or enter a sweepstakes. This information may include:
 
-To redeem, enter promotion code at checkout.
+*   your name;
+*   your mailing address;
+*   your billing address;
+*   your e-mail address;
+*   your phone number. and
+*   your credit card information.
 
-Title Customer Service Contact Us Privacy and Security Terms of Use Gift Card Balance Gift Services Shipping Payment Your Order Returns Affiliate Program Holiday Shipping Schedule Contact Us \*Indicates a required field To Contact Us By Email: First Name Last Name PHONE NUMBER \* Email \* Comment/Question: Select a topicOrder InquiryStore ExperienceGeneral InquiryWebsite IssueReturnsMy Account InformationPlacing an OrderGift Certificates and PromotionsProduct QuestionsWorld Market Credit Card\* Message: \*   Not what you're looking for? About World Market
+It may also include any other personal or preference information you provide to us, including a record of your online product purchases. It may also include information you submit about other people, for example, the name and address of a gift recipient. If you join our Rewards Program we will also store information about your purchases in order to calculate when you are eligible to receive a reward.
 
-*   About Us
-*   Our Latest Ad
-*   Careers
-*   As Seen In
-*   Decorator Discount
-*   Store Events
-*   Explore Our Store
-*   Site Map
-*   Affiliates
+If you join our Rewards Program we will also store information about your purchases in order to calculate when you are eligible to receive a reward.
 
-Customer Service
+**Automatically Collected Information**
 
-*   Track My Order
-*   Returns and Exchanges
-*   Shipping and Delivery
-*   Payment
-*   Product Recalls
-*   Safety, Security, Privacy
-*   Contact Us
-*   World Market Credit Card
-*   World Market Coupons
+Our web servers automatically receive certain types of information whenever you interact with us through our website. For example, when you visit the site, our system automatically recognizes your domain name and IP address(es), date and time of visits, the type of browser you use, the website from which your visit originated, page visits, time spent on web pages, and other similar traffic data. No personal information about you is revealed in this process. This information may be used by us to operate the website and to provide general statistics regarding the use of the website.
 
-World Market Gift Cards
+**Cookies**
 
-*   Buy Gift Card
-*   Buy Electronic Gift Certificate
-*   Check Gift Card Balance
+Our website uses "cookies" to customize your shopping experience or to keep track of your shopping cart. "Cookies" are pieces of information that are sent to your browser and stored in your computer's hard drive. Cookies enable us to more easily communicate and interact with you. You may disallow cookies through your web browser and still browse and shop on our website.
 
-World Market Explorer
+**Information from Other Sources**
 
-*    Reward Program
+We may obtain information about you from outside sources and combine it with your account information. For example, we may purchase commercially available demographics and other marketing information from third parties to help us better serve you or inform you about products or services that we think will be of interest to you.
 
-Contact Us
+We sometimes receive updated delivery and address information from our shippers or other sources so that we can correct our records and deliver your next purchase or communication more easily. Finally, we may also purchase lists containing your personal information (e.g., postal address, phone number, email address) for advertising and marketing purposes.
 
-*    1-877-967-5362
-*    Email
+Use of Information
 
-  
-Store Locator
+**Personal Information**
 
-*   Locate a World Market Store Near You  
-    
+We may use your personal information to process or follow up with transactions initiated on the website or through our customer service department to let you know about products and promotions that we think may be of interest to you, or to notify you when you have earned a reward under our Reward Program. We may share information provided by you directly or through cookies with companies that provide support services to us such as a transaction processor, printer, mailing house, or web host or with companies that help us market our products and services. These companies may need information about you in order to perform their functions. These companies are not authorized to use the information we share with them for any other purpose, or to share that information with anyone other than the company and its agents.
 
-Email Signup
+**Disclosure to Successors**
 
-*   Get the latest scoop! Deals, steals &. more!
+We may disclose information you provide to our website when we believe disclosure is appropriate to comply with the law. when it is necessary to identify, contact, bring, or defend legal action against persons or entities that we believe may be causing harm to you, our company, or third parties. and when necessary, to protect or defend our rights or property.
 
-Connect with Us:
+**Aggregate Information**
 
-*   &copy 2012 Copyright Cost Plus World Market, All Rights Reserved.
+We may use anonymous IP addresses to help diagnose problems with our server, to administer our site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis.
+
+Your California Privacy Rights
+
+Under California law, you have the right to request and receive information from retailers concerning any third parties who have received personal information about you from the retailers for the third parties' direct marketing purposes. Any such requests for information from us can be made by sending an email to privacy@cpwm.com or by calling us at 1-877-967-5362.
+
+Disclosures ordered by law
+
+We may disclose information you provide to our website when we believe disclosure is appropriate to comply with the law. when it is necessary to identify, contact, bring, or defend legal action against persons or entities that we believe may be causing harm to you, our company, or third parties. and when necessary, to protect or defend our rights or property.
+
+Protecting Children's Privacy
+
+This is a general audience website. it is not directed at children under the age of 13. We do not knowingly collect personal information from any child under the age of 13 at this website, nor do we send email correspondence to anyone who tells us that they are under the age of 13.
+
+How you can limit contact from us
+
+**Emails**
+
+If you provide our company with your email address, you may receive emails from us. If you do not want to receive marketing or promotional emails from us, please email us at emailunsubscribe@cpwm.com, or you may let us know by logging in to "My Profile" and indicating your preference. Please call 1-877-967-5362 if you have further questions about our email unsubscribe process. Your request will be handled promptly, although you may still receive marketing communications that were already in process prior to receipt of your request.
+
+**Other Mailings**
+
+If you supply us with your postal address online you may receive periodic mailings from us that may include information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at 1-877-967-5362. Your request will be handled promptly, although you may still receive marketing communications that were already in process prior to receipt of your request.
+
+**Correcting or Updating Information**
+
+If you have registered with us, you may review for accuracy and update your profile information online by logging in to "My Profile" using your email address and password and editing your information accordingly. The length of time we keep your information will vary depending on the nature of your transactions on the website and personal information involved. We have retention standards that meet customer service, legal and regulatory needs. For these reasons, we may keep your information beyond the end of your relationship with us. When your information is no longer required, we will dispose of it with appropriate care and diligence.
+
+Security
+
+We have appropriate physical, electronic, and procedural security safeguards to protect and secure the information we collect. However, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, we cannot guarantee the security of any information you transmit to or from our website, and you do so at your own risk.
+
+Our website uses Secure Sockets Layer (SSL), a protocol developed for transmitting private documents via the Internet. SSL uses a cryptographic system that uses two keys to encrypt data including your personal credit information. SSL technology is the industry standard for secure online transactions.
+
+Updates to this Policy
+
+Updates and changes to this privacy policy will be posted on our website and will be effective from the date they are posted, unless otherwise noted. New policies will apply to all current and past users of the website and supersede any inconsistent policies previously in effect.
+
+Your Consent
+
+By using our website, you consent to our use of information that is collected or submitted as described in this online privacy policy. This privacy policy is subject to change, so we encourage you to review it periodically.
