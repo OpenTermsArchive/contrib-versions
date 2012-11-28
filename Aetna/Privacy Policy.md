@@ -41,10 +41,11 @@ Aetna may change this statement from time to time. when updates are made, the pr
 
 Privacy policy update: 9/22/2009
 
+*   Print
 *   Bookmark/Share
 
 *   Investors
-*   Press
+*   News
 *   Careers
 
 Aetna.com
@@ -53,7 +54,7 @@ Aetna.com
 *   Frequently Asked Questions
 *   Glossary
 *   Member Services
-*   Member Guidelines
+*   Rights &. Resources
 *   Legal Notices
 *   Web Privacy Statement
 
@@ -61,11 +62,11 @@ FEEDBACK About Us
 
 *   Investor Information
 *   Careers
-*   Press Center
+*   News Hub
 *   Contact Us
+*   Diversity
 *   Aetna Foundation
 *   Health Care Reform
-*   Health &. Wellness
 
 Tools
 
@@ -74,13 +75,14 @@ Tools
 *   Learn Aetna Facts
 *   Request to Use Aetna Logo
 
-Plans and Services
+Plans and Benefits
 
 *   Buy Health Insurance
 *   Buy Dental Insurance
 *   Federal Employees
 *   Medicare Insurance
-*   All Plans &. Services
+*   Aetna International
+*   All Plans &. Benefits
 
 Log In / Register
 
@@ -90,8 +92,6 @@ Log In / Register
 *   Program Provisions
 *   Member Disclosure
 *   Aetna Companies: State Directory
-
-*   Español
 
   
 Copyright Aetna Inc.
