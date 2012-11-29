@@ -302,6 +302,7 @@ What LinkedIn’s Privacy Policy Covers:
 
 *   **Help Center**
 *   About
+*   Press
 *   Blog
 *   Careers
 *   Advertising
