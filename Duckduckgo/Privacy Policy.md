@@ -1,18 +1,4 @@
-*   More
-    *   About
-    *   Settings
-    *   Goodies
-    *   Help
-    *   PRIVACY
-    *   Policy
-    *   DontTrack
-    *   DontBubble
-    *   COMMUNITY
-    *   Develop
-    *   Translate
-    *   Support Us
-
-Privacy Check out our illustrated search privacy guides at donttrack.us and dontbubble.us. **DuckDuckGo does not collect or share personal information.** That is our privacy policy in a nutshell. The rest of this page tries to explain why you should care.
+Check out our illustrated search privacy guides at donttrack.us and dontbubble.us. **DuckDuckGo does not collect or share personal information.** That is our privacy policy in a nutshell. The rest of this page tries to explain why you should care.
 
 *   Why You Should Care - Search Leakage
 *   Why You Should Care - Search History
