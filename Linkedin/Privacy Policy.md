@@ -1,12 +1,3 @@
-LinkedIn
-
-*   Home
-*   What is LinkedIn?
-*   Join Today
-*   Sign In
-
-Privacy Policy
-
 Last revised on June 16, 2011
 
 LinkedIn Privacy Policy Highlights  
@@ -299,53 +290,3 @@ What LinkedIn’s Privacy Policy Covers:
     If you have questions or comments about this Privacy Policy, please contact us here or contact us at:
     
     LinkedIn Corporation Attn: Legal Department, Privacy Policy Issues 2029 Stierlin Court Mountain View,CA 94043 USA
-
-*   **Help Center**
-*   About
-*   Press
-*   Blog
-*   Careers
-*   Advertising
-*   Talent Solutions
-*   Tools
-*   Mobile
-*   Developers
-*   Publishers
-*   Language
-    *   Bahasa Indonesia
-    *   Bahasa Malaysia
-    *   Čeština
-    *   Dansk
-    *   Deutsch
-    *   **English**
-    *   Español
-    *   Français
-    *   한국어
-    *   Italiano
-    *   Nederlands
-    *   日本語
-    *   Norsk
-    *   Polski
-    *   Português
-    *   Română
-    *   Русский
-    *   Svenska
-    *   Türkçe
-*   SlideShare
-
-*   LinkedIn Updates
-*   LinkedIn Answers
-*   LinkedIn Jobs
-*   Jobs Directory
-*   Company Directory
-*   Groups Directory
-*   Skills Directory
-*   Service Provider Directory
-*   Title Directory
-
-LinkedIn Corporation © 2012
-
-*   User Agreement
-*   Privacy Policy
-*   Cookie Policy
-*   Copyright Policy
