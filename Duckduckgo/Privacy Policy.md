@@ -2,7 +2,7 @@
     *   About
     *   Settings
     *   Goodies
-    *   Feedback
+    *   Help
     *   PRIVACY
     *   Policy
     *   DontTrack
