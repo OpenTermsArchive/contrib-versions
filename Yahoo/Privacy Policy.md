@@ -1,34 +1,4 @@
-Skip to search.
-
-*   _New User?_ Register
-*   _Sign In_
-*   Help
-
-Get Yahoo! Optimized Firefox
-
-*     Notifications Help
-    
-*   Mail
-    
-*   My Y!
-*   Yahoo!
-
-Yahoo! Privacy Search Search Web Breaking News Visit Yahoo! News for the latest. ×Close this window
-
-*   Home
-*   Products
-*   Topics
-*   Privacy Tools
-*   Help
-
-*   WHAT THIS PRIVACY POLICY COVERS
-*   INFORMATION COLLECTION AND USE
-*   INFORMATION SHARING AND DISCLOSURE
-*   COOKIES
-*   CONFIDENTIALITY AND SECURITY
-*   QUESTIONS AND SUGGESTIONS
-
-Email Print WHAT THIS PRIVACY POLICY COVERS Yahoo! takes your privacy seriously. Please read the following to learn more about our privacy policy.
+WHAT THIS PRIVACY POLICY COVERS Yahoo! takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
 The federal government and technology industry have developed practical tips to help you guard against Internet fraud, secure your computer and protect your personal information.
 
@@ -140,35 +110,6 @@ Sunnyvale, CA 94089
 
 If you feel that your inquiry has not been satisfactorily addressed, please click here for information on consumer agencies that may be able to provide you with additional assistance.
 
-Effective Date: November 22, 2006
+Last Updated: October 28, 2008
 
 Return to top
-
-Highlights
-
-Manage Interest-Based Ads  
-
-To help make your experiences with Yahoo! more relevant, we employ interest-based ads. Manage your interest-based categories, or opt-out of all categories, from the Yahoo! Ad Interest Manager.
-
-RELEVANT ADVERTISING
-
-By bringing content and advertising to you that is relevant and tailored to your interests, Yahoo! provides a more compelling online experience. Our customized "smart" services save you time and cut through the clutter. Learn More about relevant advertising.
-
-POLICY BLOG
-
-Yahoo! Brings New Interest Tool to the Media Mix
-
-  
-
-Yahoo! Leads Charge On ‘Do Not Track’ Proposal
-
-  
-
-Yahoo! Launches Global Support for Do Not Track
-
-  
-
-Read more in the Y! Policy Blog!
-
-Copyright © 2012 Yahoo! Inc. All Rights Reserved.  
-Privacy | Legal
