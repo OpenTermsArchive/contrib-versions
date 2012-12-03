@@ -103,4 +103,6 @@ Fragen oder Vorschläge
 
 Wenn Sie Fragen oder Feedback zu unserer Datenschutzerklärung oder generell zum Datenschutz bei Yahoo! haben, können Sie uns gerne über unser Hilfeformular kontaktieren.
 
+Zuletzt aktualisiert: 1.26.11
+
 Zum Seitenanfang zurückkehren
