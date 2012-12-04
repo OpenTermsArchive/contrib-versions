@@ -13,15 +13,13 @@ A. ITUNES STORE, MAC APP STORE, APP STORE, AND IBOOKSTORE TERMS OF SALE
 B. ITUNES STORE TERMS AND CONDITIONS  
 C. MAC APP STORE, APP STORE AND IBOOKSTORE TERMS AND CONDITIONS  
 
-THE LEGAL AGREEMENTS SET OUT BELOW GOVERN YOUR USE OF THE ITUNES STORE, MAC APP STORE, APP STORE, AND IBOOKSTORE SERVICES. TO AGREE TO THESE TERMS, CLICK "AGREE." IF YOU DO NOT AGREE TO THESE TERMS, DO NOT CLICK "AGREE," AND DO NOT USE THE SERVICES.
+THE LEGAL AGREEMENTS SET OUT BELOW GOVERN YOUR USE OF THE ITUNES STORE, MAC APP STORE, APP STORE, AND IBOOKSTORE SERVICES ("SERVICES"). TO AGREE TO THESE TERMS, CLICK "AGREE." IF YOU DO NOT AGREE TO THESE TERMS, DO NOT CLICK "AGREE," AND DO NOT USE THE SERVICES.
 
 A. ITUNES STORE, MAC APP STORE, APP STORE, AND IBOOKSTORE TERMS OF SALE
 
 PAYMENTS, TAXES, AND REFUND POLICY
 
-The iTunes Store, Mac App Store, App Store, and iBookstore services (“Services”) accept these forms of payment: credit cards issued by U.S. banks, payments through your PayPal account, iTunes Cards, iTunes Store Gift Certificates, Content Codes, and Allowance Account balances. If a credit card or your PayPal account is being used for a transaction, Apple may obtain preapproval for an amount up to the amount of the order. Billing occurs at the time of or shortly after your transaction. If you are using 1-Click purchasing or your PayPal account, your order may be authorized and billed in increments during one purchasing session, so it may appear as multiple orders on your statement. If an iTunes Card, iTunes Store Gift Certificate, or Allowance Account is used for a transaction, the amount is deducted at the time of your transaction. When making purchases, content credits are used first, followed by Gift Certificate, iTunes Card, or Allowance Account credits. your credit card or PayPal account is then charged for any remaining balance.
-
-You agree that you will pay for all products you purchase through the Services, and that Apple may charge your credit card or PayPal account for any products purchased and for any additional amounts (including any taxes and late fees, as applicable) that may be accrued by or in connection with your Account. YOU ARE RESPONSIBLE FOR THE TIMELY PAYMENT OF ALL FEES AND FOR PROVIDING APPLE WITH A VALID CREDIT CARD OR PAYPAL ACCOUNT DETAILS FOR PAYMENT OF ALL FEES. All fees will be billed to the credit card or PayPal account you designate during the registration process. If you want to designate a different credit card or if there is a change in your credit card or PayPal account status, you must change your information online in the Account Information section of iTunes. this may temporarily disrupt your access to the Services while Apple verifies your new payment information.
+You agree that you will pay for all products you purchase through the Services, and that Apple may charge your payment method for any products purchased and for any additional amounts (including any taxes and late fees, as applicable) that may be accrued by or in connection with your Account. YOU ARE RESPONSIBLE FOR THE TIMELY PAYMENT OF ALL FEES AND FOR PROVIDING APPLE WITH A VALID PAYMENT METHOD FOR PAYMENT OF ALL FEES. For details of how purchases are billed please visit support.apple.com/kb/HT5582.
 
 Your total price will include the price of the product plus any applicable sales tax. such sales tax is based on the bill-to address and the sales tax rate in effect at the time you download the product. We will charge tax only in states where digital goods are taxable.
 
@@ -115,9 +113,9 @@ iTunes Match permits you to remotely access your matched or uploaded songs, and 
 
 You may subscribe to iTunes Match for an annual fee. You must have a valid credit card on file with iTunes to subscribe. The subscription is non-refundable (except as required by applicable law), and will automatically renew for one-year periods until you cancel. Your account will be charged no more than 24 hours prior to the expiration of the current subscription period. You may cancel automatic renewal by adjusting the iTunes Store account settings on your computer. You will no longer be able to access your iTunes Match Content from iTunes Match after the end of your subscription period.
 
-iTunes Match works with libraries that contain up to 25,000 songs which are either (i) not currently available on the iTunes Service, or (ii) not purchased from the iTunes Service with your Account. Songs with quality less than 96 kbps or that are not authorized for your computer are not eligible for iTunes Match.
+iTunes Match works with libraries that contain up to 25,000 songs which are either (i) not currently available on the iTunes Service, or (ii) not purchased from the iTunes Service with your Account. Songs that do not meet certain quality criteria or that are not authorized for your computer are not eligible for iTunes Match.
 
-iTunes Match will automatically scan the song files and collect other information that may be used to identify media in your iTunes library, such as the names of songs, song artists or song durations. iTunes Match will use this information to match songs to those currently available on the iTunes Store, and will make matched songs available to you in the format then available on the iTunes Store. If the song is not successfully matched, your copy of the song will be uploaded to Apple in the same format or a format determined by Apple. Apple reserves the right to limit types of content uploaded (for example, excessively large files). Matched or uploaded songs and related metadata will be available for access from an Associated Device that has been enabled for iTunes Match. Association of Associated Devices for iTunes Match is subject to the same terms as Automatic Delivery and Downloading Previous Purchases, and uploaded or matched songs and related information are deemed to be “iTunes Eligible Content.” You may also access iTunes Match Content from compatible Apple TVs, provided that you may only do so on a limited number of Apple TVs at the same time.
+iTunes Match will automatically scan the song files and collect other information that may be used to identify media in your iTunes library, such as the names of songs, song artists or song durations. iTunes Match will use this information to match songs to those currently available on the iTunes Store, and will make matched songs available to you in a format then available on the iTunes Store. If the song is not successfully matched, your copy of the song will be uploaded to Apple in the same format or a format determined by Apple. Apple reserves the right to limit types of content uploaded (for example, excessively large files). Matched or uploaded songs and related metadata will be available for access from an Associated Device that has been enabled for iTunes Match. Association of Associated Devices for iTunes Match is subject to the same terms as Automatic Delivery and Downloading Previous Purchases, and uploaded or matched songs and related information are deemed to be “iTunes Eligible Content.” You may also access iTunes Match Content from compatible Apple TVs, provided that you may only do so on a limited number of Apple TVs at the same time.
 
 When you use iTunes Match, Genius will begin associating information about the media in your iTunes library with your Account. the association with your Account will continue for a period of time after your subscription ends. Apple will otherwise use this information as described in the Privacy Section of this Agreement. You will not be able to disable Genius while using iTunes Match, so if you prefer that we do not collect and use information from your iTunes library in this manner, you should not use iTunes Match.
 
@@ -149,7 +147,7 @@ By opting in to the Genius feature, you consent to the use of your information a
 
 CONTENT AVAILABILITY
 
-Apple reserves the right to change content options (including eligibility for particular features) without notice. For further information or concerns about closed captioning in specific content within the iTunes Store, please email accessibility@apple.com. You may also contact Thomas Montgomery, Accessibility Response Engineer, 1 Infinite Loop, Cupertino, California 95014, Phone/Fax: 408-783-5512.
+Apple reserves the right to change content options (including eligibility for particular features) without notice. For further information or concerns about closed captioning in specific content within the iTunes Store, please emailaccessibility@apple.com. You may also contact Thomas Montgomery, Accessibility Response Engineer, 1 Infinite Loop, Cupertino, California 95014, Phone/Fax: 408-783-5512.
 
 USE OF PURCHASED OR RENTED CONTENT
 
@@ -177,21 +175,13 @@ USAGE RULES
 
 (a) Content rentals are viewable on only one device at a time. You must be connected to the iTunes Service when moving rentals, and you may do so only between your computer and other compatible devices. Content rented using your Apple TV, iPad, iPhone 4, or iPod touch (4th generation) may not be moved. If you move a rental to a compatible device and then use the iTunes Service to restore that device, or choose Settings >. Reset >. Erase all content and settings on that device, the rental will be permanently deleted.
 
-(b) You have thirty (30) days after downloading a rental to begin viewing. Once you begin viewing, you have twenty-four (24) hours to finish viewing a movie. Stopping, pausing, or restarting a rental does not extend the available time for viewing.
+(b) Once you purchase a rental, you must fully download the rental within thirty (30) days. You have thirty (30) days after downloading a rental to begin viewing. Once you begin viewing, you have twenty-four (24) hours to finish viewing a movie. Stopping, pausing, or restarting a rental does not extend the available time for viewing.
 
 Some iTunes Products, including but not limited to Content rentals, may be downloaded only once and cannot be replaced if lost for any reason. It is your responsibility not to lose, destroy, or damage iTunes Products once downloaded, and you may wish to back them up.
 
 The delivery of iTunes Products does not transfer to you any commercial or promotional use rights in the iTunes Products. Any burning or exporting capabilities are solely an accommodation to you and shall not constitute a grant, waiver, or other limitation of any rights of the copyright owners in any content embodied in any iTunes Product.
 
 You acknowledge that, because some aspects of the iTunes Service, iTunes Products, and administration of the Usage Rules entails the ongoing involvement of Apple, if Apple changes any part of or discontinues the iTunes Service, which Apple may do at its election, you may not be able to use iTunes Products to the same extent as prior to such change or discontinuation, and that Apple shall have no liability to you in such case.
-
-PING
-
-If you opt in to Ping, you can share information with people who have also opted in to Ping, such as your name, your image, and your interests. The name and image provided will also be associated with all reviews posted about an iTunes Product via your Account, including posts prior to opting in. People whom you have permitted to follow you will be able to see your activity on iTunes, such as events you are attending, music that you have indicated that you like, and purchases made with your Account. Your activity on another user's profile, such as comments you make about their activity, is subject to that user's privacy settings and can be viewed by all of that user's followers. You are solely responsible for the information that is associated with your Account that is made available on Ping. Apple may also use information provided, as well as information iTunes sends to Apple about the content you select in your iTunes library in order to provide you with Ping personal recommendations, such as suggesting other users you may want to follow, concerts and related information, or other iTunes Products you may want to purchase. By opting in to Ping, you consent to the use of such information in the manner described above. At all times your information will be treated in accordance with Apple's Privacy Policy. You should not opt in to Ping, or should opt out of Ping in your Account settings if you don't want others to view any information provided using your Account, including activity on iTunes. When you opt out, your information will be removed from view, and then deleted after seven days. If you opt out of Ping, or hide the Ping Sidebar, iTunes will no longer send information associated with the content you select in your iTunes library for Ping. You will be able to remove items from your Recent Activity if you do not want them to be visible to other users. Please take extra care when using these features.
-
-COMPLETE MY ALBUM ("CMA")
-
-In some circumstances, you will have no more than 180 days from the time you acquire your first CMA-eligible song or video from a particular CMA-eligible album to accept that CMA offer, and upgrading previous purchases to iTunes Plus does not affect any such time limits.
 
 SEASON PASS, MULTI-PASS, ITUNES PASS
 
@@ -509,7 +499,7 @@ IBOOKSTORE PRODUCT USAGE RULES
 
 (v) You shall be able to manually sync iBookstore Products from at least one iTunes-authorized device to devices that have manual sync mode, provided that the iBookstore Product is associated with an Account on the primary iTunes-authorized device, where the primary iTunes-authorized device is the one that was first synced with the device or the one that you subsequently designate as primary using iTunes.
 
-Last Updated: September 30, 2012
+Last Updated: December 3, 2012
 
 1.  Home
 2.  Legal
