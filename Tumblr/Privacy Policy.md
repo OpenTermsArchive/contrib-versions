@@ -1,6 +1,4 @@
-Tumblr Follow the world’s creators. Log in Cancel Sign up Email Password Username How old are you?years oldyears young I have read, understand, and agree to the Tumblr Terms of Service. Refresh Audio Visual Now playing. Please enter the words you hear, below. Incorrect, please try again Please enter the words above Submit
-
-Start Done! **Almost** **Done!** Log in Password help? Privacy Policy Last Modified: 2012-03-22
+Privacy Policy Last Modified: 2012-03-22
 
 Tumblr, Inc. ("**Tumblr**", "**we**", "**us**", or "**our**") takes the private nature of your personal information very seriously. This policy regarding our privacy practices (the "**Privacy Policy**") describes how we treat the information we collect when you visit and use the website available at tumblr.com (the "**Site**") and/or Tumblr's other domains, products, services, and/or content (collectively with the Site, the "**Services**"). When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. please read it carefully.
 
@@ -95,18 +93,3 @@ Link to Prior Versions
 You will find a link to prior versions of our Privacy Policy below. We have stored these versions on GitHub, which will also allow you to compare different versions and see what terms have changed:
 
 http://github.com/tumblr/policy/commits/master/privacy-policy.txt
-
-*   About
-*   Apps
-*   Tips
-*   Buttons
-*   Press Info
-*   Jobs
-*   Developers
-*   Sponsors
-*   Terms
-*   Copyright
-*   Privacy
-*   Guidelines
-
-**© Tumblr, Inc.** Help About Developers Themes Meetups Jobs Terms Copyright
