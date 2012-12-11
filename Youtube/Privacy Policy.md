@@ -1,16 +1,3 @@
-Sign In Browse|Movies |Upload Search
-
-*   About
-*   Press &. Blogs
-*   Copyright
-*   Creators &. Partners
-*   Advertising
-*   Developers
-*   Help
-
-1.  Privacy at YouTube
-2.  1.  Privacy
-
 Privacy at YouTube
 
 We work hard to provide transparency and meaningful choice when you use YouTube. More information about our privacy safeguards is provided below.
@@ -38,44 +25,4 @@ YouTube Safety Center
 
 In the YouTube Safety Center you'll find information and tips for using YouTube, including ways to manage any abuse on the site as well as resources for educators and parents. For more tips on privacy and YouTube, check out the Safety Center's Protecting Your Privacy page.
 
-. Help
-
-Loading...
-
-*   About
-*   Press &. Blogs
-*   Copyright
-*   Creators &. Partners
-*   Advertising
-*   Developers
-
-*   Terms
-*   Privacy
-*   Safety
-*   Send feedback
-*   Try something new!
-
-*   Language: English
-*   Location: Worldwide
-*   Safety: Off
-
-Loading...
-
-Loading...
-
-Loading...
-
-0 / 00Unsaved Playlist Return to active list Options
-
-1.  Your queue is empty. Add videos to your queue using this button:  
-    or sign in to load a different list.
-
-Loading...Saving...
-
-*   Clear all videos from this list
-
-*   Learn more
-
-Sign in to add this to a playlist Sign in to add this to a playlist Added to Back to list Added to playlist: Add an optional note 150 Add note Saving note... Note added to: Error adding note:
-
-Click to add a new note
+.
