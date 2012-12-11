@@ -1,13 +1,3 @@
-*   *   Settings
-    *   Who to Follow
-    *   Help
-    *   Sign out
-
-*   Skip past navigation
-*   On a mobile phone? Check out m.twitter.com!
-*   Skip to navigation
-*   Skip to sign in form
-
 Twitter Privacy Policy
 
 Twitter instantly connects people everywhere to what’s most meaningful to them. Any registered user can send a Tweet, which is a message of 140 characters or less that is public by default and can include other content like photos, videos, and links to other websites.
@@ -76,18 +66,3 @@ _Effective: May 17, 2012_
 
 Archive of Previous Privacy Policies  
 Thoughts or questions about this Privacy Policy? Please, let us know.
-
-Footer
-
-*   © 2012 Twitter
-*   About Us
-*   Contact
-*   Blog
-*   Status
-*   Resources
-*   API
-*   Business
-*   Help
-*   Jobs
-*   Terms
-*   Privacy
