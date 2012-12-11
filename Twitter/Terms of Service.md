@@ -1,13 +1,3 @@
-*   *   Settings
-    *   Who to Follow
-    *   Help
-    *   Sign out
-
-*   Skip past navigation
-*   On a mobile phone? Check out m.twitter.com!
-*   Skip to navigation
-*   Skip to sign in form
-
 Terms of Service
 
 These Terms of Service ("**Terms**") govern your access to and use of the services, including our various websites, SMS, APIs, email notifications, applications, buttons, and widgets, (the "**Services**" or “**Twitter**”), and any information, text, graphics, photos or other materials uploaded, downloaded or appearing on the Services (collectively referred to as "**Content**"). Your access to and use of the Services are conditioned on your acceptance of and compliance with these Terms. By accessing or using the Services you agree to be bound by these Terms.
@@ -141,18 +131,3 @@ These Services are operated and provided by Twitter Inc., 1355 Market Street, Su
 _Effective: June 25, 2012_
 
 Archive of Previous Terms
-
-Footer
-
-*   © 2012 Twitter
-*   About Us
-*   Contact
-*   Blog
-*   Status
-*   Resources
-*   API
-*   Business
-*   Help
-*   Jobs
-*   Terms
-*   Privacy
