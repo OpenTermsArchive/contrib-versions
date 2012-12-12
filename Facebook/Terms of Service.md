@@ -1,6 +1,6 @@
 This agreement was written in English (US). To the extent any translated version of this agreement conflicts with the English version, the English version controls.  Please note that Section 17 contains certain changes to the general terms for users outside the United States.
 
-Date of Last Revision: June 8, 2012.  
+Date of Last Revision: December 11, 2012.  
   
 **Statement of Rights and Responsibilities**  
   
@@ -41,7 +41,7 @@ This Statement of Rights and Responsibilities ("Statement," "Terms," or "SRR") d
     1.  You will not provide any false personal information on Facebook, or create an account for anyone other than yourself without permission.
     2.  You will not create more than one personal account.
     3.  If we disable your account, you will not create another one without our permission.
-    4.  You will not use your personal timeline for your own commercial gain (such as selling your status update to an advertiser).
+    4.  You will not use your personal timeline primarily for your own commercial gain, and will use a Facebook Page for such purposes.
     5.  You will not use Facebook if you are under 13.
     6.  You will not use Facebook if you are a convicted sex offender.
     7.  You will keep your contact information accurate and up-to-date.
@@ -142,7 +142,7 @@ This Statement of Rights and Responsibilities ("Statement," "Terms," or "SRR") d
              
 12.  **Special Provisions Applicable to Pages**  
       
-    If you create or administer a Page on Facebook, you agree to our Pages Terms.  
+    If you create or administer a Page on Facebook, or run a promotion or an offer from your Page, you agree to our Pages Terms.  
      
 13.  **Special Provisions Applicable to Software**  
       
@@ -152,12 +152,9 @@ This Statement of Rights and Responsibilities ("Statement," "Terms," or "SRR") d
     
 14.  **Amendments**  
       
-    1.  We can change this Statement if we provide you notice (by posting the change on the Facebook Site Governance Page) and an opportunity to comment.  To get notice of any future changes to this Statement, visit our Facebook Site Governance Page and "like" the Page.
-    2.  For changes to sections 7, 8, 9, and 11 (sections relating to payments, application developers, website operators, and advertisers), we will give you a minimum of three days notice. For all other changes we will give you a minimum of seven days notice. Comments to proposed changes will be made on the Facebook Site Governance Page.
-    3.  If more than 7,000 users post a substantive comment on a particular proposed change, we will also give you the opportunity to participate in a vote in which you will be provided alternatives. The vote shall be binding on us if more than 30% of all active registered users as of the date of the notice vote.
-    4.  If we make changes to policies referenced in or incorporated by this Statement, we may provide notice on the Site Governance Page.
-    5.  We can make changes for legal or administrative reasons, or to correct an inaccurate statement, upon notice without opportunity to comment.
-    6.  Your continued use of Facebook following changes to our terms constitutes your acceptance of our amended terms.  
+    1.  Unless we make a change for legal or administrative reasons, or to correct an inaccurate statement, we will provide you with seven (7) days notice (for example, by posting the change on the Facebook Site Governance Page) and an opportunity to comment on changes to this Statement.  You can also visit our Facebook Site Governance Page and "like" the Page to get updates about changes to this Statement.
+    2.  If we make changes to policies referenced in or incorporated by this Statement, we may provide notice on the Site Governance Page.
+    3.  Your continued use of Facebook following changes to our terms constitutes your acceptance of our amended terms.  
          
 15.  **Termination**  
       
