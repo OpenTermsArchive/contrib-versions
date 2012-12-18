@@ -1,4 +1,8 @@
-INSTAGRAM Privacy Policy "Snapshot"
+INSTAGRAM We are updating our privacy policy
+
+**Note:** Our updated Privacy Policy will be effective on January 16, 2013.
+
+Privacy Policy "Snapshot"
 
 We created this quick "snapshot" to give you a head start on understanding our information collection and use practices. It is important that you read our full Privacy Policy for the full explanation of our privacy practices, including about how your information is shared and how you can control and access your information.
 
