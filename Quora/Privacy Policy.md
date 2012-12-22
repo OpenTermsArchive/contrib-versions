@@ -99,11 +99,5 @@ August 1, 2012: We replaced our previous Privacy Policy with this one. Please re
 *   Jobs
 *   Privacy
 *   Terms
-*   •
-*   Help
-*   •
-*   Login
-*   Sign Up
-*   Mobile Site
 
 Loading...
