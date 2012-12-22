@@ -1,6 +1,6 @@
 INSTAGRAM We are updating our privacy policy
 
-**Note:** Our updated Privacy Policy will be effective on January 16, 2013.
+**Note:** Our updated Privacy Policy will be effective on January 19, 2013.
 
 Privacy Policy "Snapshot"
 
