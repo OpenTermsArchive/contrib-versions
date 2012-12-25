@@ -1,36 +1,42 @@
-Alibaba.com
+Help Center
 
 *   Buy
-    *   Newly Added Products
-    *   How to Buy
-    *   Safety &. Security Center
-    *   Post Buying Leads
+    *   How to buy
+    *   Post Buying Requests
+    *   Download TradeManager
 *   Sell
-    *   Newly Added Buying Leads
-    *   How to Sell
-    *   Display New Products
+    *   Newly added RFQs
+    *   How to sell
+    *   Display new products
+    *   Manage products
+    *   Seller Services
 *   Community
-    *   Ask It!
     *   Forums
     *   Trade Shows
+    *   Success Stories
 *   My Alibaba
     *   Message Center
-    *   Display New Products
-    *   Post Buying Leads
+    *   Display new products
+    *   Manage Products
+    *   Post Buying Requests
     *   Download TradeManager
     *   Premium Memberships
+*   Messages
+    *   No new notifications
 *   My Favorites
 *   Help
-    *   Help Center
+    *   Safety &. Security Center
+    *   Suggestions
+    *   Contact Us
     *   Submit a Complaint
     *   Report IPR Infringement
-    *   Suggestion
-    *   Contact Us
 
-*   **Homepage**
-*   **Safety &. Security**
+Alibaba.com
 
-Home >. Help >. Safety &. Security >. Others >. **Privacy Policy** Services &. Products
+*   Homepage
+*   Safety &. Security
+
+Quick Guide Home >. Help >. Safety &. Security >. Others >. **Privacy Policy** Services &. Products
 
 *   Escrow
 *   Verification Services
@@ -139,15 +145,14 @@ You can access, view and edit your Registration Information, Publishing Informat
 
 Alibaba.com welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may send us your comments and responses by post to Alibaba.com Hong Kong Limited, Legal Department, 26F, Tower One, Times Square, 1 Matheson Street, Causeway Bay, Hong Kong.
 
-**Company Information** - **Site Map** - **Partnerships**  
-Buy - Sell - My Alibaba - Community - Trade Shows - Safety &. Security - Help - Contact Us
+Follow us: Facebook Twitter Youtube Free APP: Available on the App Store Available on Android TradeManager:
 
-  
+Industry channel:Machinery - Construction - Electronic - Automobiles - Furniture - Sports - Electrical - Home - Packaging - Beauty
 
-Browse by:Manufacturers - Wholesalers - China Gold Suppliers - All Products - Countries - Importers - Buying Leads - China - India - UK - Australia
+Browse by:Manufacturers - Online Shopping - China Gold Suppliers - All Products - Countries - Importers - Buying Leads - China - India
 
-Alibaba Group: Alibaba.com: Alibaba China - Alibaba International - AliExpress | Taobao Marketplace | Taobao Mall | eTao | Juhuasuan | Alibaba Cloud Computing | China Yahoo! | Alipay
+Alibaba Group: Alibaba China - Alibaba International - AliExpress | Taobao Marketplace | Tmall.com | eTao | Juhuasuan | Alibaba Cloud Computing | China Yahoo! | Alipay
 
 Product Listing Policy - Intellectual Property Policy and Infringement Claims - Privacy Policy - Terms of Use
 
-Copyright Notice &copy 1999-2012 Alibaba.com Hong Kong Limited and licensors. All rights reserved.
+Copyright Notice © 1999-2012 Alibaba.com Hong Kong Limited and licensors. All rights reserved.
