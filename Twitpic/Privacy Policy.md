@@ -90,6 +90,6 @@ TwitPic Inc.
 PO Box 22126  
 Charleston, SC 29413
 
-©2012 Twitpic Inc, All Rights Reserved
+©2013 Twitpic Inc, All Rights Reserved
 
 Home FAQ Contact API Advertise Terms Privacy
