@@ -1,4 +1,4 @@
-Check out our illustrated search privacy guides at donttrack.us and dontbubble.us. **DuckDuckGo does not collect or share personal information.** That is our privacy policy in a nutshell. The rest of this page tries to explain why you should care.
+Privacy Check out our illustrated search privacy guides at donttrack.us and dontbubble.us. **DuckDuckGo does not collect or share personal information.** That is our privacy policy in a nutshell. The rest of this page tries to explain why you should care.
 
 *   Why You Should Care - Search Leakage
 *   Why You Should Care - Search History
@@ -67,7 +67,7 @@ For these reasons, DuckDuckGo takes the approach to not collect any personal inf
   
 When you search at DuckDuckGo, we don't know who you are and there is no way to tie your searches together.  
   
-When you access DuckDuckGo (or any Web site), your Web browser automatically sends information about your computer, e.g. your User agent and IP address.  
+When you access DuckDuckGo (or any Web site), your Web browser automatically sends information about your computer, e.g.your User agent and IP address.  
   
 Because this information could be used to link you to your searches, we do not log (store) it at all. This is a very unusual practice, but we feel it is an important step to protect your privacy.  
   
@@ -114,9 +114,9 @@ Each does things a bit differently in terms of privacy and very differently in t
   
 **Updates**   \[top\]  
   
-If this policy is substantively updated, we will update the text of this page and provide notice to you at http://duckduckgo.com/about.html by writing '(Updated)' in red next to the link to this page (in the footer) for a period of at least 30 days.  
+If this policy is substantively updated,we will update the text of this page and provide notice to you at http://duckduckgo.com/about by writing '(Updated)' in red next to the link to this page (in the footer) for a period of at least 30 days.  
   
   
 **Feedback**   \[top\]  
   
-I (Gabriel Weinberg) am the founder of Duck Duck Go and personally wrote this privacy policy. If you have any questions or concerns, please submit feedback.
+I(Gabriel Weinberg) am the founder of Duck Duck Go and personally wrote this privacy policy. If you have any questions or concerns,please submit feedback.
