@@ -513,7 +513,7 @@ Shop the Apple Online Store (1-800-MY-APPLE), visit an Apple Retail Store, or fi
 *   RSS Feeds
 *   Contact Us
 
-Copyright © 2012 Apple Inc. All rights reserved.
+Copyright © 2013 Apple Inc. All rights reserved.
 
 *   Terms of Use
 *   Privacy Policy
