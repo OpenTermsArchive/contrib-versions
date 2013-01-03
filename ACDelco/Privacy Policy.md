@@ -305,7 +305,7 @@ Detroit, MI 48265-4000
 *   Search
 *   All GM Sites
 
-*   © 2012 GENERAL MOTORS
+*   © 2013 GENERAL MOTORS
 
 *   Contact Us
 *   Sitemap
