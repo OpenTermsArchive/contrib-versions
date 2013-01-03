@@ -223,4 +223,4 @@ Please note that Allstate's "do not call" list is limited only to telephone soli
 **For Vermont residents:**  
 We won't share your personal information with Allstate companies for marketing purposes except as allowed by Vermont law. AUTOPROPERTYPOWER SPORTSLIFE / RETIREMENTBUSINESS / OTHERCLAIMS Discover Us! Community My Allstate Connection Mayhem Allstate Mobile TERMS OF USEPRIVACY STATEMENTUNDERWRITING COMPANIESCONTACT USSITE MAP  
   
-© 2012 COPYRIGHT ALLSTATE INSURANCE COMPANY ALL RIGHTS RESERVED
+© 2013 COPYRIGHT ALLSTATE INSURANCE COMPANY ALL RIGHTS RESERVED
