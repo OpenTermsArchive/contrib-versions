@@ -208,4 +208,4 @@ Follow
 *     **RSS**
 *     **Newsletters**
 
-*   This material may not be published, broadcast, rewritten, or redistributed. ©2012 FOX News Network, LLC. All rights reserved. All market data delayed 20 minutes.
+*   This material may not be published, broadcast, rewritten, or redistributed. ©2013 FOX News Network, LLC. All rights reserved. All market data delayed 20 minutes.
