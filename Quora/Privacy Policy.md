@@ -16,7 +16,7 @@ LoginSign Up
 
 Quora Privacy Policy
 
-Last updated: August 1, 2012.
+Last updated: January 8, 2013.
 
 We recognize that your privacy is very important and take it seriously. This Privacy Policy describes Quora's policies and procedures on the collection, use and disclosure of your information when you use the Quora Service, via the Quora website, your mobile phone, or through one of Quora's applications for mobile devices (e.g., the Quora iPhone application). We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our Terms of Service.
 
@@ -88,12 +88,12 @@ If you have any questions about our practices or this privacy policy, please con
 
 Quora, Inc.  
 Attn: Privacy  
-261 Hamilton Avenue, Suite 212  
-Palo Alto, CA 94301
+650 Castro Street, Suite 450  
+Mountain View, CA 94041
 
 **Recent updates to this Privacy Policy**
 
-August 1, 2012: We replaced our previous Privacy Policy with this one. Please read this Privacy Policy carefully.
+January 8, 2013: We updated our company address.
 
 *   About
 *   Jobs
