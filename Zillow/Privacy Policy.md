@@ -1,4 +1,4 @@
-Skip to contentZillow Real Estate
+Skip to contentZillow Real Estate &. Homes for Sale
 
 *   Homes
     
@@ -95,18 +95,25 @@ Skip to contentZillow Real Estate
     
     Compare Places
     
-*   Blogs
-    *   Zillow Blog
-    *   Zillow Pros Blog
-    *   Zillow Research
-    *   Zillow Engineering
 *   More _▼_
+    
     *   What Zillow Offers
     *   Dueling Digs
     *   Real Estate Advertising
     *   Widgets, Badges &. Data
     *   Zillow Visuals
     *   Help
+    
+    **Blogs**
+    
+    Zillow Blog
+    
+    Zillow Pros Blog
+    
+    Zillow Research
+    
+    Zillow Engineering
+    
 
 *   For Pros _▼_
     *   Agents
@@ -114,7 +121,7 @@ Skip to contentZillow Real Estate
 *   Mobile
 *   Sign In
 
-Find home values and listings Location:Search
+Find home values and listings Location: Search
 
 *   Terms of Use
 *   Privacy Policy
