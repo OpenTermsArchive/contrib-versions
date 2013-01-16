@@ -76,6 +76,7 @@ Twitter, Inc.
 Attn: Copyright Agent  
 1355 Market Street, Suite 900  
 San Francisco, CA 94103  
+Reports: https://support.twitter.com/forms/dmca  
 Email: copyright@twitter.com 10. Ending These Terms
 
 The Terms will continue to apply until terminated by either you or Twitter as follows.
