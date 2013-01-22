@@ -148,6 +148,7 @@ Shows
 *   America's News HQ
 *   America's Newsroom
 *   Cavuto
+*   Fox Files
 *   Fox News Sunday
 *   Fox &. Friends First
 *   Fox &. Friends
