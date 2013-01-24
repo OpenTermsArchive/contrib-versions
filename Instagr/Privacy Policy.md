@@ -1,54 +1,18 @@
-INSTAGRAM We are updating our privacy policy
+Privacy Policy Important Update
 
-**Note:** Our updated Privacy Policy will be effective on January 19, 2013.
+In September 2012, we announced that Instagram had been acquired by Facebook. We knew that by teaming up with Facebook, we could build a better Instagram for you. Since then, we've been collaborating with Facebook's team on ways to do just that. As part of our new collaboration, we've learned that by being able to share insights and information with each other, we can build better experiences for our users.
 
-Privacy Policy "Snapshot"
+We're updating our Privacy Policy to highlight this new collaboration, but we want to make sure you understand that you still have control over who sees your photos. You still get to choose who can see your Instagram photos, and you still get to choose whether you post your photos on Facebook. So while we're looking forward to working closely with Facebook to build better experiences, we aren't changing the core features of the app that you've come to know and love.
 
-We created this quick "snapshot" to give you a head start on understanding our information collection and use practices. It is important that you read our full Privacy Policy for the full explanation of our privacy practices, including about how your information is shared and how you can control and access your information.
-
-We receive information that:
-
-*   you provide when you register for and set up an account
-*   you post or content you share on Instagram
-*   you allow us to collect when you use certain Instagram features
-*   you allow social media services to share with us
-*   we get from seeing how you use Instagram
-*   we get from communicating with you
-*   we get from cookies and other technology
-*   Learn more in our Privacy Policy
-
-We use this information to:
-
-*   provide Instagram features and services to you
-*   manage and improve the Instagram website, app and services
-*   analyze how you use Instagram
-*   provide you with information
-*   diagnose technical problems and maintain security
-*   provide you with marketing that is relevant to you
-*   Learn more in our Privacy Policy
-
-We share this information with:
-
-*   other Instagram users where you allow information to be public
-*   social media services you tell us to share information with
-*   people who help us provide Instagram to you
-*   business partners, which may include advertising partners
-*   businesses that are legally part of the same group of companies that Instagram is part of, or that become part of the same group
-*   outside parties to comply with the law and legal obligations
-*   Learn more in our Privacy Policy
-
-We store information:
-
-*   primarily in the United States, but may also use other locations around the world
-*   Learn more in our Privacy Policy
+Our new Privacy Policy is effective on January 19, 2013. To learn about how we treat information collected prior to January 19, 2013, please click here.
 
 **Privacy Policy**
 
-Effective date: August 30, 2012.
+Effective date: January 19, 2013
 
 Welcome to Instagram ("Instagram," "we," "us" or "our"). Instagram provides a fast, beautiful and fun way for you to share media through our content-sharing platform. Just snap a photo, choose a filter to transform the look and feel, add comments (if you like) and share!
 
-*   Our Privacy Policy explains how we collect, use, share and protect information in relation to our mobile services, web site, and any software provided on or in connection with Instagram services (collectively, the "**Service**"), and your choices about the collection and use of your information.
+*   Our Privacy Policy explains how we and some of the companies we work with collect, use, share and protect information in relation to our mobile services, web site, and any software provided on or in connection with Instagram services (collectively, the "**Service**"), and your choices about the collection and use of your information.
 *   By using our Service you understand and agree that we are providing a platform for you to post content, including photos, comments and other materials ("**User Content**"), to the Service and to share User Content publicly. This means that other Users may search for, see, use, or share any of your User Content that you make publicly available through the Service, consistent with the terms and conditions of this Privacy Policy and our Terms of Use (which can be found at http://instagram.com/legal/terms).
 *   Our Policy applies to all visitors, users, and others who access the Service ("**Users**").
 
@@ -128,7 +92,8 @@ We will not rent or sell your information to third parties outside Instagram (or
 
 **Parties with whom we may share your information:**
 
-*   We may share your information as well as information from tools like cookies, log files, and device identifiers and location data (such as usage data, referring/exit pages and URLs, platform types, number of clicks, etc.), with organizations that help us provide the Service to you ("Service Providers"). Our Service Providers will be given access to your information as is reasonably necessary to provide the Service under reasonable confidentiality terms.
+*   We may share User Content and your information (including but not limited to, information from cookies, log files, device identifiers, location data, and usage data) with businesses that are legally part of the same group of companies that Instagram is part of, or that become part of that group ("Affiliates"). Affiliates may use this information to help provide, understand, and improve the Service (including by providing analytics) and Affiliates' own services (including by providing you with better and more relevant experiences). But these Affiliates will honor the choices you make about who can see your photos.
+*   We also may share your information as well as information from tools like cookies, log files, and device identifiers and location data, with third-party organizations that help us provide the Service to you ("Service Providers"). Our Service Providers will be given access to your information as is reasonably necessary to provide the Service under reasonable confidentiality terms.
 *   We may also share certain information such as cookie data with third-party advertising partners. This information would allow third-party ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you.
 *   We may remove parts of data that can identify you and share anonymized data with other parties. We may also combine your information with other information in a way that it is no longer associated with you and share that aggregated information.
 
@@ -142,22 +107,17 @@ We will not rent or sell your information to third parties outside Instagram (or
 
 *   If we sell or otherwise transfer part or the whole of Instagram or our assets to another organization (e.g., in the course of a transaction like a merger, acquisition, bankruptcy, dissolution, liquidation), your information such as name and email address, User Content and any other information collected through the Service may be among the items sold or transferred. You will continue to own your User Content. The buyer or transferee will have to honor the commitments we have made in this Privacy Policy.
 
-**Instances where we may be required to share your information:**
+**Responding to legal requests and preventing harm:**
 
-Instagram will disclose your information where required to do so by law or by judicial process or if we reasonably believe that such action is necessary to:
-
-*   comply with the law and the reasonable requests of law enforcement
-*   enforce our Terms of Use
-*   protect the security or integrity of our Service
-*   exercise or protect the rights, property, or personal safety of Instagram, our Users or others
+*   We may access, preserve and share your information in response to a legal request (like a search warrant, court order or subpoena) if we have a good faith belief that the law requires us to do so. This may include responding to legal requests from jurisdictions outside of the United States where we have a good faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards. We may also access, preserve and share information when we have a good faith belief it is necessary to: detect, prevent and address fraud and other illegal activity. to protect ourselves, you and others, including as part of investigations. and to prevent death or imminent bodily harm. Information we receive about you may be accessed, processed and retained for an extended period of time when it is the subject of a legal request or obligation, governmental investigation, or investigations concerning possible violations of our terms or policies, or otherwise to prevent harm.
 
 **4\. HOW WE STORE YOUR INFORMATION**
 
 **Storage and Processing:**
 
-*   Your information collected through the Service may be stored and processed in the United States or any other country in which Instagram, a company in the same group of companies as Instagram or Service Providers maintain facilities.
-*   Instagram may transfer information that we collect about you, including personal information across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction.
-*   By registering for and using the Service you consent to the transfer of information to the U.S. or to any other country in which Instagram, a company in the same group of companies as Instagram or Service Providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.
+*   Your information collected through the Service may be stored and processed in the United States or any other country in which Instagram, its Affiliates or Service Providers maintain facilities.
+*   Instagram, its Affiliates, or Service Providers may transfer information that we collect about you, including personal information across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction.
+*   By registering for and using the Service you consent to the transfer of information to the U.S. or to any other country in which Instagram, its Affiliates or Service Providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.
 *   We use commercially reasonable safeguards to help keep the information collected through the Service secure and take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. However, Instagram cannot ensure the security of any information you transmit to Instagram or guarantee that information on the Service may not be accessed, disclosed, altered, or destroyed.
 *   Please do your part to help us. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to emails between you and Instagram, at all times. Your privacy settings may also be affected by changes the social media services you connect to Instagram make to their services. We are not responsible for the functionality, privacy, or security measures of any other organization.
 
@@ -171,7 +131,7 @@ Instagram will disclose your information where required to do so by law or by ju
 
 **How long we keep your User Content:**
 
-*   Following termination or deactivation of your account, Instagram may retain information (including your profile information) and User Content for a commercially reasonable time for backup, archival, and/or audit purposes.
+*   Following termination or deactivation of your account, Instagram, its Affiliates, or its Service Providers may retain information (including your profile information) and User Content for a commercially reasonable time for backup, archival, and/or audit purposes.
 *   If you have any questions about termination or deactivation of your account, please contact us directly at support@instagram.com.
 
 **6\. CHILDREN'S PRIVACY**
