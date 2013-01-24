@@ -176,6 +176,7 @@ Shows
 
 Tools
 
+*   Live Video
 *   Trending
 *   uReport
 *   Newsletters &. Alerts
