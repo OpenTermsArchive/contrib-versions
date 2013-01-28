@@ -59,4 +59,4 @@ Although most changes are likely to be minor, Automattic may change its Privacy 
 *   _October 29, 2009:_ Added Comments paragraph to explain Akismet comment storage policy
 *   _March 10, 2009:_ Added Ads paragraph to alert users that ads from third parties may use cookies
 
-Like this: Like 204 bloggers like this.
+Like this: Like 207 bloggers like this.
