@@ -211,7 +211,7 @@ Retrieved from "http://wikimediafoundation.org/w/index.php?title=Privacy\_policy
 *   Policy
 *   English
 
-Personal tools
+Navigation menu Personal tools
 
 *   Log in
 
@@ -225,7 +225,7 @@ Variants
 Views
 
 *   Read
-*   Contribute
+*   Feedback
 *   View history
 
 Actions
@@ -233,22 +233,21 @@ Actions
 Search About Wikimedia
 
 *   Home
-*   FAQ
+*   About Wikimedia
 *   Our projects
-*   Press room
 *   Contact us
+*   Press room
 *   Staff and contractors
 *   Wikimedia blog
 *   Work with us
-*   Local chapters
 *   Questions for Wikimedia?
-*   Wikimedia Shop
 
 Support
 
 *   Donate
 *   Benefactors
 *   Volunteering
+*   Wikimedia Shop
 
 Corporate
 
@@ -261,9 +260,11 @@ Corporate
 *   Annual Report
 *   Financial reports and Form 990
 *   Fundraising reports
+*   Local chapters
 
 Wiki
 
+*   Give feedback
 *   Recent changes
 *   Babel
 
@@ -279,6 +280,7 @@ Toolbox
 *   Related changes
 *   Special pages
 *   Permanent link
+*   Page information
 *   Cite this page
 
 *   This page was last modified on 4 April 2012, at 18:33.
