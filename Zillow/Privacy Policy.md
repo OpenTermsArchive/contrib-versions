@@ -95,10 +95,15 @@ Skip to contentZillow Real Estate &. Homes for Sale
     
     Compare Places
     
+*   newDigsTM
+    *   Bathrooms
+    *   Bedrooms
+    *   Gardens
+    *   Kitchens
+    *   Living Rooms
 *   More _▼_
     
     *   What Zillow Offers
-    *   Dueling Digs
     *   Real Estate Advertising
     *   Widgets, Badges &. Data
     *   Zillow Visuals
