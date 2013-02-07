@@ -1,4 +1,4 @@
-Skip to contentZillow Real Estate &. Homes for Sale
+Skip to contentZillow Real Estate &amp. Homes for Sale
 
 *   Homes
     
@@ -131,6 +131,7 @@ Find home values and listings Location: Search
 *   Terms of Use
 *   Privacy Policy
 *   Good Neighbor Policy
+*   Zillow Rentals Terms
 
 Privacy Policy
 
@@ -255,15 +256,12 @@ _— Updated October 2012_
 *   About Us
 *   About Zestimates
 *   Jobs
-*   Press
-*   Investors
 *   Help
 *   Advertising
-*   Terms of Use
-*   Privacy Policy
+*   Terms of Use / Privacy Policy
 
 *   Zillow Research
 *   Zillow Blog
 
 *   Yahoo!-Zillow Real Estate Network
-*   © 2006-2012 Zillow
+*   © 2006-2013 Zillow
