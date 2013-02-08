@@ -1,8 +1,8 @@
 App.net - Privacy Policy
 
-Last Revised: September 19, 2012
+Last Revised: February 7, 2013
 
-Our privacy policy applies to information we collect when you use or access our website located at http://app.net, use the App.net development tools and social networking services, or just interact with us. We may change this privacy policy from time to time. Whenever we make changes to this privacy policy, the changes are effective 5 days after we post the revised privacy policy to our website (as indicated by revising the date at the top of our privacy policy), or when we notify you of the changes by e-mail or other means, or upon your acceptance if we provide a mechanism for your immediate acceptance of the revised privacy policy (such as a click-through confirmation or acceptance button). We encourage you to review our privacy policy whenever you access our services to stay informed about our information practices and the ways you can help protect your privacy.
+Our privacy policy applies to information we collect when you use or access our website located at http://app.net, use the App.net development tools and social networking services, or just interact with us. We may change this privacy policy from time to time. Whenever we make changes to this privacy policy, the changes are effective six (6) weeks after we post the revised privacy policy to our website (as indicated by revising the date at the top of our privacy policy). We encourage you to review our privacy policy whenever you access our services to stay informed about our information practices and the ways you can help protect your privacy.
 
 Collection of Information Information You Provide to Us
 
