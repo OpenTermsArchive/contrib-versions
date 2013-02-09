@@ -1,5 +1,3 @@
-Privacy Policy - Fox News
-
 Fox News Digital Network
 
   Fox News
@@ -48,7 +46,7 @@ On Air Personalities ›
 
 Previous Slide Next Slide
 
-Privacy Policy
+Privacy Policy Privacy Policy
 
 Effective as of February 22, 2011
 
@@ -74,9 +72,7 @@ Third parties that support the FOX News Services by serving advertisements or pr
 
 Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the "Help" section of your browser for more information (e.g., http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies). Users can manage the use of Flash technologies, including cookies, with the Flash management tools available at Adobe's web site, see http://www.adobe.com/products/flashplayer/security/privacy\_policy/. Please note that by blocking any or all cookies you may not have access to certain features or personalization available through the FOX News Services.
 
-**Public Information and Posts** consist of comments or content that you post to the Site and the information about you that accompanies those posts or content, which may include a name, user name, comments, likes, status, profile information and picture. Public information and posts are always public, which means they are available to everyone and may be displayed in search results on external search engines.
-
-**Third Parties.** To improve the quality of the FOX News Services, we may supplement the information we collect with information from third parties. If you access the FOX News Services through a third-party connection, log-in, website, app or service, we may also collect your public user ID associated with that third-party service, and any information or content you have permitted that third party service to share with us, such as your profile picture, email address, and any information you have made public in connection with that service and which the third party shares with partner services. When you access the FOX News Services through a third party service, or when you connect the FOX News Services to a third party service, you are authorizing us to collect, store and use any and all information or content you have made public in connection with that service in accordance with this Privacy Policy.
+**Third Parties.** To improve the quality of the FOX News Services, we may supplement the information we collect with information from third parties. If you access the FOX News Services through a third-party connection or log-in, we may also collect your public user ID associated with that third-party service, and any information you have made public in connection with that service and which the third party shares with partner services.
 
 NOTICE &. CHOICE
 
@@ -96,7 +92,7 @@ We use the information we collect from and about users for the following purpose
 
 **To allow third-party service providers to assist us in providing and managing the FOX News Services.** FOX News may make your non-public personal information available to certain third-party service providers, such as contractors, agents or sponsors, who help us manage or provide the FOX News Services. These outside service providers are required to protect non-public personal information entrusted to them and not use it for any other purpose than the specific service they are providing to Site.
 
-We may use the information you provide to us, and information we collect about your use of the FOX News Services through cookies and other technologies, to assist us in delivering you relevant ads when you visit the FOX News Services. We may work with third-party advertising networks and advertisers who help deliver these ads to you. We do not share your non-public personal information with these third parties, but we may share anonymized or aggregated information with them to improve the relevancy of the ads you see on the FOX News Services. As noted above, these third-party advertising networks and advertisers may also use cookies and similar technologies to collect and track non-personally identifiable information such as demographic information, aggregated information, and Internet activity to assist them in delivering advertising that is more relevant to your interests. To find out more about third-party online advertising and to opt out of this type of advertising, visit the Network Advertising Initiative web site at http://www.networkadvertising.org/managing/opt\_out.asp, and to opt out of this type of advertising from Outbrain Inc, visit Outbrain's web site at http://www.outbrain.com/privacy.
+**To deliver relevant advertising.** We may use the information you provide to us, and information we collect about your use of the FOX News Services through cookies and other technologies, to assist us in delivering you relevant ads when you visit the FOX News Services. We may work with third-party advertising networks and advertisers who help deliver these ads to you. We do not share your non-public personal information with these third parties, but we may share anonymized or aggregated information with them to improve the relevancy of the ads you see on the FOX News Services. As noted above, these third-party advertising networks and advertisers may also use cookies and similar technologies to collect and track non-personally identifiable information such as demographic information, aggregated information, and Internet activity to assist them in delivering advertising that is more relevant to your interests. To find out more about third-party online advertising and to opt out of this type of advertising, visit the Network Advertising Initiative web site at http://www.networkadvertising.org/managing/opt\_out.asp, and to opt out of this type of advertising from Outbrain Inc, visit Outbrain's web site at http://www.outbrain.com/privacy.
 
 **To contact you.** FOX News may periodically send promotional materials (e.g., newsletters) or notifications related to the FOX News Services to the email address you provided to us at registration or to your account. If you want to stop receiving promotional materials from FOX News, you can follow the unsubscribe instructions at the bottom of each email. There are certain service notification emails that you may not opt-out of as long as you are a member, such as notifications of changes to the FOX News Services or policies.
 
