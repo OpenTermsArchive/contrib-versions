@@ -104,7 +104,8 @@ G. General Conditions
     
 6.  You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Service, use of the Service, or access to the Service without the express written permission by GitHub.
     
-7.  We may, but have no obligation to, remove Content and Accounts containing Content that we determine in our sole discretion are unlawful, offensive, threatening, libelous, defamatory, pornographic, obscene or otherwise objectionable or violates any party's intellectual property or these Terms of Service.
+7.  We may, but have no obligation to, remove Content and Accounts containing Content that we determine in our sole discretion are unlawful, offensive, threatening, libelous, defamatory, pornographic, obscene or otherwise objectionable or violates  
+    any party's intellectual property or these Terms of Service.
     
 8.  Verbal, physical, written or other abuse (including threats of abuse or retribution) of any GitHub customer, employee, member, or officer will result in immediate account termination.
     
