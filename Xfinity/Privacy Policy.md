@@ -12,7 +12,7 @@ XFINITY
 *   TV
 *   Connect
 *   Account
-*   Upgrade Services
+*   Shop/Upgrade
 
 *   Help
 *   Security
