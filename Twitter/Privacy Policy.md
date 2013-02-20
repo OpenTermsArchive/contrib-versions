@@ -60,7 +60,7 @@ Twitter complies with the U.S.-E.U. and U.S.-Swiss Safe Harbor Privacy Principle
 
 Changes to this Policy
 
-We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at http://twitter.com/privacy. If we make a change to this policy that, in our sole discretion, is material, we will notify you via an @Twitter update or email to the email address associated with your account. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
+We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at https://twitter.com/privacy. If we make a change to this policy that, in our sole discretion, is material, we will notify you via an @Twitter update or email to the email address associated with your account. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
 
 _Effective: May 17, 2012_
 
