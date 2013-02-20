@@ -20,7 +20,7 @@ Account
 
 You're logged in as  
 
-*   Edit Profile
+*   Profile
 *   Logout
 
 Search Site Listen to Fox News Radio Live›
