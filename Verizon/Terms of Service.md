@@ -11,7 +11,7 @@ THIS IS A CONTRACT. PLEASE READ THESE TERMS CAREFULLY. IF YOU DO NOT AGREE TO TH
       
     Acceptance by you of this Agreement occurs upon the earlier of: (a) your acceptance of this Agreement electronically during an online order, registration or when installing the Software or the Equipment. (b) your use of the Service. or (c) your retention of the Software or Equipment we provide beyond thirty (30) days following delivery. If you change Service plans, your term and monthly rate may change (depending on the plan you select), but all other provisions of this Agreement will remain in effect unless otherwise noted.  
       
-    This Agreement consists of the terms below, plus (a) the specific elements of your Service or Bundled Service plan (including the plan's pricing, duration and applicable Early Termination Fee ("ETF"), all as described in the information made available to you when placing and confirming your order). (b) our Acceptable Use Policy (Attachment A) and Additional Services Terms (Attachment B). and (c) other Verizon policies referred to in this Agreement (including our Privacy Policy and our Website Terms of Use located at https://www22.verizon.com/terms), all of which are incorporated herein by reference. A current version of this Agreement and related policies are posted online at http://myverizon.com/verizononlineterms ("Website"). You can also receive a paper copy of this Agreement by writing to Verizon, P.O. Box 11328, St. Petersburg, FL 33733, Attention: Customer Service.  
+    This Agreement consists of the terms below, plus (a) the specific elements of your Service or Bundled Service plan (including the plan's pricing, duration and applicable Early Termination Fee ("ETF"), all as described in the information made available to you when placing and confirming your order). (b) our Acceptable Use Policy (Attachment A) and Additional Services Terms (Attachment B). and (c) other Verizon policies referred to in this Agreement (including our Privacy Policy and our Website Terms of Use located at https://www22.verizon.com/terms), all of which are incorporated herein by reference. A current version of this Agreement and related policies are posted online at http://myverizon.com/verizononlineterms or http://verizon.com/terms ("Website"). You can also receive a paper copy of this Agreement by writing to Verizon, P.O. Box 11328, St. Petersburg, FL 33733, Attention: Customer Service.  
       
       
     
@@ -47,7 +47,7 @@ THIS IS A CONTRACT. PLEASE READ THESE TERMS CAREFULLY. IF YOU DO NOT AGREE TO TH
     
 3.  **REVISIONS TO THIS AGREEMENT.**  
       
-    From time to time we will make revisions to this Agreement and the policies relating to the Service including to the provisions that govern the way that you and Verizon resolve disputes. We will provide notice of such revisions by posting revisions to the Website Announcements page, or sending an email to the email address that you provide to receive communications from us (your "Primary Email Address"), or both. You agree to visit the Announcements page periodically and to check your email box to review any such revisions. You also agree to notify Verizon immediately of any changes in your Primary Email Address. We will provide you with at least thirty (30) days notice prior to the effective date of any increases to the monthly price of your Service or Bundled Service plan (excluding other charges as detailed in Sections 8.1(a)-(d)). revisions to any other terms and conditions shall be effective on the date noted in the posting and/or email we send you. Unless we provide otherwise, you accept the revisions and agree to abide by them by continuing to use the Service after the revisions are effective.  
+    From time to time we will make revisions to this Agreement and the policies relating to the Service including to the provisions that govern the way that you and Verizon resolve disputes. We will provide notice of such revisions by posting revisions to the Website Announcements page, sending an email to the email address that you provide to receive communications from us (your "Primary Email Address"), or such other method provided for in Section 14 of this Agreement. You agree to visit the Announcements page periodically and to check your email box to review any such revisions. You also agree to notify Verizon immediately of any changes in your Primary Email Address. We will provide you with at least thirty (30) days notice prior to the effective date of any increases to the monthly price of your Service or Bundled Service plan (excluding other charges as detailed in Sections 8.1(a)-(d)). revisions to any other terms and conditions shall be effective on the date noted in the posting and/or email we send you. Unless we provide otherwise, you accept the revisions and agree to abide by them by continuing to use the Service after the revisions are effective.  
       
       
     
@@ -86,7 +86,7 @@ THIS IS A CONTRACT. PLEASE READ THESE TERMS CAREFULLY. IF YOU DO NOT AGREE TO TH
 6.  **AVAILABILITY OF AND CHANGES TO SERVICE.**  
       
     
-    1.  **Service and Bandwidth Availability and Speed. The Service you select may not be available in all areas or at the rates, speeds, or bandwidth generally marketed, and some locations may not qualify for the Service even if initial testing showed that your line was qualified. We will provision qualified HSI lines at the maximum line rate available to your location based on our standard line qualification procedures, unless you have selected a level of service with a lower maximum line rate. Bandwidth is provided on a per-line (not a per-device) basis. The bandwidth available to each device connected to the network will vary depending upon the number, type and configuration of devices using the Service and the type of use (e.g., streaming media), among other factors. The speed of the Service will vary based on network or Internet congestion, your computer configuration, your use of FiOS TV video on demand service, the condition of your telephone line and the wiring inside your location, among other factors.** We and our suppliers reserve the right, at any time, with or without prior notice to you, to restrict or suspend the Service to perform maintenance activities and to maintain session control.  
+    1.  **Service and Bandwidth Availability and Speed. The Service you select may not be available in all areas or at the rates, speeds, or bandwidth generally marketed, and some locations may not qualify for the Service even if initial testing showed that your line was qualified. We will provision qualified HSI lines at the maximum line rate available to your location based on our standard line qualification procedures, unless you have selected a level of service with a lower maximum line rate. Bandwidth is provided on a per-line (not a per-device) basis. The bandwidth available to each device connected to the network will vary depending upon the number, type and configuration of devices using the Service and the type of use (e.g., streaming media), among other factors. The speed of the Service will vary based on network or Internet congestion, your computer configuration, your use of FiOS TV video on demand service, the condition of your telephone line and the wiring inside your location, among other factors. We and our suppliers reserve the right, at any time, with or without prior notice to you, to restrict or suspend the Service to perform maintenance activities and to maintain session control.**  
           
           
         
@@ -107,7 +107,6 @@ THIS IS A CONTRACT. PLEASE READ THESE TERMS CAREFULLY. IF YOU DO NOT AGREE TO TH
     
 7.  **SOFTWARE LICENSES AND THIRD PARTY SERVICES.**  
       
-    
     1.  We may provide you, for a fee or at no charge, software for use in connection with the Service which is owned by Verizon or its third party licensors, providers and suppliers ("Software"). We reserve the right periodically to update, upgrade or change the Software remotely or otherwise and to make related changes to the settings and software on your computer or Equipment, and you agree to permit such changes and access to your computer and Equipment. You may use the Software only in connection with the Service and for no other purpose.  
           
           
@@ -120,7 +119,7 @@ THIS IS A CONTRACT. PLEASE READ THESE TERMS CAREFULLY. IF YOU DO NOT AGREE TO TH
           
           
         
-    4.  Your license to use the Software or any Additional Services will remain in effect until terminated by Verizon or its third party licensors, or until your Service is terminated. Upon termination of your Service, you must cease all use of and immediately delete the Software from your computer.  
+    4.  4\. Your license to use the Software or any Additional Services will remain in effect until terminated by Verizon or its third party licensors, or until your Service is terminated. Upon termination of your Service, you must cease all use of and immediately delete the Software from your computer or other device.  
           
           
         
@@ -136,31 +135,30 @@ THIS IS A CONTRACT. PLEASE READ THESE TERMS CAREFULLY. IF YOU DO NOT AGREE TO TH
           
           
         
-    8.  **Verizon Toolbar.**  
-          
-          
-        
-    
-    1.  **Verizon Error Assist.** As part of the installation process, the Verizon Toolbar will request your consent to receive Verizon Error Assist pages and to change your default web search provider settings.  
-          
-          
-        
-    2.  **Usage Data.** The Verizon Toolbar may communicate certain non-personally identifiable usage information to Verizon and/or third party licensors to help Verizon and its licensors compile aggregate statistical usage data for the Verizon Toolbar including but not limited to data regarding the number of Verizon Toolbar installations, unique users and searches performed. Such aggregated statistical information will not include any information that individually identifies Verizon Toolbar users. The Verizon Toolbar collects user's IP addresses for the sole purpose of enabling proper geographic localization, such as presenting weather information based on a user's current location. While the IP address is stored for backup purposes, neither Verizon nor its licensors use this information for any purpose other than geographic localization. The Verizon Toolbar does not collect any information that individually identifies users.  
-          
-          
-        
-    3.  **Uninstalling the Verizon Toolbar.** Once installed, the Verizon Toolbar Software will automatically launch every time you execute the Microsoft Internet Explorer and/or Mozilla Firefox browser programs. You may uninstall the Verizon Toolbar Software at any time by clicking on "Settings" tool on the far right side of the Verizon Toolbar, and selecting "Uninstall" or by using the standard uninstall procedures included as part of your computer's operating system.  
-          
-          
-        
-    4.  Verizon Toolbar Software is provided by Visicom Media, Inc., which is a third party beneficiary of this Agreement capable of enforcing its terms independently from Verizon.  
-          
-          
-        
-    
+8.  **Verizon Toolbar.**  
+      
       
     
-8.  **PRICING. BILLING. CHANGES TO SERVICE PLANS AND PAYMENT.**  
+
+1.  **Verizon Error Assist.** As part of the installation process, the Verizon Toolbar will request your consent to receive Verizon Error Assist pages and to change your default web search provider settings.  
+      
+      
+    
+2.  **Usage Data.** The Verizon Toolbar may communicate certain non-personally identifiable usage information to Verizon and/or third party licensors to help Verizon and its licensors compile aggregate statistical usage data for the Verizon Toolbar including but not limited to data regarding the number of Verizon Toolbar installations, unique users and searches performed. Such aggregated statistical information will not include any information that individually identifies Verizon Toolbar users. The Verizon Toolbar collects user's IP addresses for the sole purpose of enabling proper geographic localization, such as presenting weather information based on a user's current location. While the IP address is stored for backup purposes, neither Verizon nor its licensors use this information for any purpose other than geographic localization. The Verizon Toolbar does not collect any information that individually identifies users.  
+      
+      
+    
+3.  **Uninstalling the Verizon Toolbar.** Once installed, the Verizon Toolbar Software will automatically launch every time you execute the Microsoft Internet Explorer and/or Mozilla Firefox browser programs. You may uninstall the Verizon Toolbar Software at any time by clicking on "Settings" tool on the far right side of the Verizon Toolbar, and selecting "Uninstall" or by using the standard uninstall procedures included as part of your computer's operating system.  
+      
+      
+    
+4.  Verizon Toolbar Software is provided by Visicom Media, Inc., which is a third party beneficiary of this Agreement capable of enforcing its terms independently from Verizon.  
+      
+      
+    
+
+  
+11.  **PRICING. BILLING. CHANGES TO SERVICE PLANS AND PAYMENT.**  
       
     
     1.  **Prices and Fees.** You agree to pay the fees applicable to your Service or Bundled Service, either on a monthly or prepaid basis, as applicable, and to pay: a) applicable taxes, b) surcharges, c) recovery fees, d) telephone charges, e) activation fees, f) installation fees, g) set-up fees, h) equipment charges, i) ETFs, and j) other recurring and nonrecurring charges associated with the Service plan you have selected. The taxes, fees and other charges detailed in a)-d) above may vary on a monthly basis. Surcharges and recovery fees are not taxes and are not required by law, but are set by Verizon and may change. You also agree to pay any additional charges or fees applied to your account, including interest and charges due to insufficient credit or insufficient funds.  
@@ -179,73 +177,73 @@ THIS IS A CONTRACT. PLEASE READ THESE TERMS CAREFULLY. IF YOU DO NOT AGREE TO TH
           
           
         
-    5.  **Money Back Guarantee.** If we provide a money back guarantee ("MBG") for your Service, it will begin on your Service Ready Date. During this MBG period you may cancel your Service and receive a full refund of all monthly, one-time and equipment charges paid to Verizon (provided you return all Equipment in good working condition). If you fail to return the Equipment, an unreturned Equipment fee will apply. ETFs will not apply to Service terminated within the MBG period. The MBG does not apply to customers who change between or renew bundle, monthly, term or other pricing plans. The MBG is limited to one per Subscriber per Service type per Service address.  
+    5.  **Data Charges** You acknowledge and agree that you may also incur data charges or fees from a wireless or internet service provider (which may be Verizon or a third party) for accessing online services or purchasing products and services through interactive options available through the Service. You are solely responsible for all charges or fees payable to Verizon or third parties, including all applicable taxes, and you are solely responsible for protecting the security of credit card and other personal information provided to third parties in connection with such transactions.  
           
           
         
-    6.  **Discontinuation of Service for Nonpayment.** We may discontinue your Service without notice if Service charges on your telephone bill or charge card are refused for any reason, or if you fail to make payment when due or to provide us with a new charge card expiration date before the existing date expires.  
+    6.  **Money Back Guarantee.** If we provide a money back guarantee ("MBG") for your Service, it will begin on your Service Ready Date. During this MBG period you may cancel your Service and receive a full refund of all monthly, one-time and equipment charges paid to Verizon (provided you return all Equipment in good working condition). If you fail to return the Equipment, an unreturned Equipment fee will apply. ETFs will not apply to Service terminated within the MBG period. The MBG does not apply to customers who change between or renew bundle, monthly, term or other pricing plans. The MBG is limited to one per Subscriber per Service type per Service address.  
           
           
         
-    7.  **Late Fees.** If any portion of your bill is not paid by the due date, Verizon may charge you a late fee on unpaid balances and may also terminate or suspend your Service without notice. If your charges are billed by your Verizon local carrier, the late fee will be equal to the late payment charge that the local exchange carrier applies. Otherwise, the late fee will be the lesser of 1.5 % per month, or the highest rate permitted by law. If Verizon uses a collection agency or legal action to recover monies due, you agree to reimburse us for all expenses we incur to recover such monies, including attorneys' fees.  
+    7.  **Discontinuation of Service for Nonpayment.** We may discontinue your Service without notice if Service charges on your telephone bill or charge card are refused for any reason, or if you fail to make payment when due or to provide us with a new charge card expiration date before the existing date expires.  
           
           
         
-    8.  **Local Telephone, Toll and Long Distance Charges.** VERIZON IS NOT RESPONSIBLE FOR ANY CHARGES, INCLUDING BUT NOT LIMITED TO, LONG DISTANCE AND METERED LOCAL OR TOLL CHARGES INCURRED WHEN YOU ACCESS THE SERVICE. YOU SHOULD CHECK WITH THE LOCAL PHONE COMPANY TO DETERMINE WHETHER A DIAL-UP NUMBER YOU HAVE SELECTED IS A LOCAL CALL FROM YOUR LOCATION AND WHETHER ANY CHARGES APPLY. VERIZON DOES NOT GUARANTEE THAT ANY DIAL-UP ACCESS NUMBERS WE PROVIDE WILL BE A LOCAL CALL FROM YOUR LOCATION. ADDITIONAL CHARGES, WHICH MAY BE SUBSTANTIAL, APPLY TO REMOTE DIAL UP ACCESS, WHICH IS AVAILABLE FROM CERTAIN LOCATIONS ONLY.  
+    8.  **Late Fees.** If any portion of your bill is not paid by the due date, Verizon may charge you a late fee on unpaid balances and may also terminate or suspend your Service without notice. If your charges are billed by your Verizon local carrier, the late fee will be equal to the late payment charge that the local exchange carrier applies. Otherwise, the late fee will be the lesser of 1.5 % per month, or the highest rate permitted by law. If Verizon uses a collection agency or legal action to recover monies due, you agree to reimburse us for all expenses we incur to recover such monies, including attorneys' fees. If you fail to pay on time and Verizon refers your account(s) to a third party for collection, Verizon will charge a collection fee at the maximum percentage permitted by applicable law, but not to exceed 18 percent, to cover collection-related costs.  
           
           
         
-    9.  **Limitation on Special Pricing Promotions.** You may only take advantage of one special pricing promotion during any consecutive twelve (12)-month period. Eligibility for promotional offers may be contingent upon payment of all outstanding Verizon charges.  
+    9.  **Local Telephone, Toll and Long Distance Charges.** VERIZON IS NOT RESPONSIBLE FOR ANY CHARGES, INCLUDING BUT NOT LIMITED TO, LONG DISTANCE AND METERED LOCAL OR TOLL CHARGES INCURRED WHEN YOU ACCESS THE SERVICE. YOU SHOULD CHECK WITH THE LOCAL PHONE COMPANY TO DETERMINE WHETHER A DIAL-UP NUMBER YOU HAVE SELECTED IS A LOCAL CALL FROM YOUR LOCATION AND WHETHER ANY CHARGES APPLY. VERIZON DOES NOT GUARANTEE THAT ANY DIAL-UP ACCESS NUMBERS WE PROVIDE WILL BE A LOCAL CALL FROM YOUR LOCATION. ADDITIONAL CHARGES, WHICH MAY BE SUBSTANTIAL, APPLY TO REMOTE DIAL UP ACCESS, WHICH IS AVAILABLE FROM CERTAIN LOCATIONS ONLY.  
           
           
         
-    10.  **Refundable Deposit.** We may require that you provide us with a refundable deposit, which will be specified at the time of your order ("Subscriber Deposit"). We may also require an additional deposit after activation of the Service if you fail to pay any amounts when due. Within ninety (90) days after termination of your Service, we -will return your Subscriber Deposit, less any unpaid amounts due on your account, including any amounts owed for unreturned or damaged Equipment. Amounts held on deposit will not accrue interest except as required by law.  
+    10.  **Limitation on Special Pricing Promotions.** You may only take advantage of one special pricing promotion during any consecutive twelve (12)-month period. Eligibility for promotional offers may be contingent upon payment of all outstanding Verizon charges.  
           
           
         
-    11.  **Credit Related Matters** We may evaluate your credit history before modifying or providing you Service. In order to establish an account with us and/or obtain or modify Service, we may obtain a report from a consumer credit agency or exchange information with our affiliates in connection with determining your creditworthiness. If you fail to pay your bill, we may submit a negative credit report to a credit reporting agency, which will negatively affect your credit report.  
+    11.  **Refundable Deposit.** We may require that you provide us with a refundable deposit, which will be specified at the time of your order ("Subscriber Deposit"). We may also require an additional deposit after activation of the Service if you fail to pay any amounts when due. Within ninety (90) days after termination of your Service, we -will return your Subscriber Deposit, less any unpaid amounts due on your account, including any amounts owed for unreturned or damaged Equipment. Amounts held on deposit will not accrue interest except as required by law.  
           
           
         
-    
-      
-    
-9.  **TERMINATION OR SUSPENSION OF SERVICE.**  
-      
-    
-    1.  **Termination of Service.**  
-          
-        
-        1.  **Subscribers with Month-to-Month Accounts.** If you are a month-to-month Service customer, either you or Verizon may terminate this Agreement any time by giving notice to the other as set forth in this Agreement. Termination by you will be effective upon your notice to us. Activation or set-up fees paid at the initiation of your Service, if any, are not refundable, except during any applicable 30-day MBG period.  
-              
-              
-            
-        2.  **Subscribers with Term Plans. Early Termination Fee.** EXCEPT AS OTHERWISE SET FORTH IN THIS AGREEMENT, IF YOUR BROADBAND SERVICE OR ANY COMPONENT OF A BUNDLED SERVICE PLAN IS TERMINATED BY YOU OR BY US AS A RESULT OF VIOLATION BY YOU OF THIS AGREEMENT BEFORE COMPLETING YOUR TERM PLAN, THEN YOU AGREE TO PAY VERIZON THE ETF SET FORTH IN THE PRICING PLAN YOU HAVE CHOSEN. If you terminate Service at your location, your existing Term Plan cannot be carried over to a new Service location.  
-              
-              
-            
-        3.  **Termination and/or Suspension by Verizon.** Verizon reserves the right to change, limit, terminate, modify or temporarily or permanently cease providing the Service or any part of it with or without prior notice if we elect to change the Service or a part thereof or if you violate the terms of this Agreement. If Verizon terminates your Service under this Section 9.1.3, you must immediately stop using the Service and you will be responsible for the applicable fees and/or Equipment charges set forth in Sections 8.4, 9.1.1, or 9.1.2. If the termination is a result of violation by you of the terms of this Agreement, you also shall be liable to pay the ETF. If Verizon terminates or ceases to offer service to your location, you shall not be liable to pay the ETF. If your Service is reconnected, a reconnection fee may apply.  
-              
-              
-            
-        
-          
-        
-    2.  **Deletion of Data upon Termination.** YOU AGREE THAT IF YOUR SERVICE IS TERMINATED FOR ANY REASON, VERIZON HAS THE RIGHT TO IMMEDIATELY DELETE ALL DATA, FILES AND OTHER INFORMATION (INCLUDING EMAILS, ADDRESS BOOK AND WEB STORAGE CONTENT) STORED IN OR FOR YOUR ACCOUNT WITHOUT FURTHER NOTICE TO YOU.  
-          
-          
-        
-    3.  **Return of Equipment upon Termination.**If your HSI Service is terminated for any reason prior to the end of the first year of service and you received Equipment from Verizon, you must return the Equipment to Verizon or you will be charged for the Equipment. If your FiOS Internet service is terminated for any reason and you received Equipment, you must return the Equipment to Verizon within 30 days, as instructed by Verizon, or you will be charged for the Equipment. Failure to return any Equipment you received from Verizon, or returning Equipment in a damaged condition (subject only to reasonable wear and tear), will result in the imposition of an Equipment fee that may be substantial.  
+    12.  **Credit Related Matters** We may evaluate your credit history before modifying or providing you Service. In order to establish an account with us and/or obtain or modify Service, we may obtain a report from a consumer credit agency or exchange information with our affiliates in connection with determining your creditworthiness. If you fail to pay your bill, we may submit a negative credit report to a credit reporting agency, which will negatively affect your credit report.  
           
           
         
     
       
     
-10.  **MANAGEMENT OF YOUR DATA AND COMPUTER.**  
+12.  **TERMINATION OR SUSPENSION OF SERVICE.**  
+      
+    **Termination of Service.**  
       
     
-    1.  **Your Responsibilities Regarding Management of Your Computer and Data.** You are solely responsible for obtaining, maintaining and updating all equipment and software necessary to use the Service, and for management of your information, including but not limited to back-up and restoration of your data. YOU AGREE THAT VERIZON IS NOT RESPONSIBLE FOR THE LOSS OF YOUR DATA OR FOR THE BACK-UP OR RESTORATION OF YOUR DATA REGARDLESS OF WHETHER THIS DATA IS MAINTAINED ON OUR SERVERS OR YOUR DEVICE(S). YOU SHOULD ALWAYS BACK-UP ANY IMPORTANT INFORMATION SEPARATELY FROM DATA STORED ON VERIZON'S OR ANY THIRD PARTY'S SERVERS.  
+    1.  **Subscribers with Month-to-Month Accounts.** If you are a month-to-month Service customer, either you or Verizon may terminate this Agreement any time by giving notice to the other as set forth in this Agreement. Termination by you will be effective upon your notice to us. Activation or set-up fees paid at the initiation of your Service, if any, are not refundable, except during any applicable 30-day MBG period.  
+          
+          
+        
+    2.  **Subscribers with Term Plans. Early Termination Fee.** EXCEPT AS OTHERWISE SET FORTH IN THIS AGREEMENT, IF YOUR BROADBAND SERVICE OR ANY COMPONENT OF A BUNDLED SERVICE PLAN IS TERMINATED BY YOU OR BY US AS A RESULT OF VIOLATION BY YOU OF THIS AGREEMENT BEFORE COMPLETING YOUR TERM PLAN, THEN YOU AGREE TO PAY VERIZON THE ETF SET FORTH IN THE PRICING PLAN YOU HAVE CHOSEN. If you terminate Service at your location, your existing Term Plan cannot be carried over to a new Service location.  
+          
+          
+        
+    3.  **Termination and/or Suspension by Verizon.** Verizon reserves the right to change, limit, terminate, modify or temporarily or permanently cease providing the Service or any part of it with or without prior notice if we elect to change the Service or a part thereof or if you violate the terms of this Agreement. If Verizon terminates your Service under this Section 9.1.3, you must immediately stop using the Service and you will be responsible for the applicable fees and/or Equipment charges set forth in Sections 8.4, 9.1.1, or 9.1.2. If the termination is a result of violation by you of the terms of this Agreement, you also shall be liable to pay the ETF. If Verizon terminates or ceases to offer service to your location, you shall not be liable to pay the ETF. If your Service is reconnected, a reconnection fee may apply.  
+          
+          
+        
+    4.  **Deletion of Data upon Termination.** YOU AGREE THAT IF YOUR SERVICE IS TERMINATED FOR ANY REASON, VERIZON HAS THE RIGHT TO IMMEDIATELY DELETE ALL DATA, FILES AND OTHER INFORMATION (INCLUDING EMAILS, ADDRESS BOOK AND WEB STORAGE CONTENT) STORED IN OR FOR YOUR ACCOUNT WITHOUT FURTHER NOTICE TO YOU.  
+          
+          
+        
+    5.  **Return of Equipment upon Termination.** If your HSI Service is terminated for any reason prior to the end of the first year of service and you received Equipment from Verizon, you must return the Equipment to Verizon or you will be charged for the Equipment. Except as set forth below, if your FiOS Internet service is terminated for any reason and you received Equipment, you must return the Equipment to Verizon within 30 days, as instructed by Verizon, or you will be charged for the Equipment. Failure to return any Equipment you received from Verizon, or returning Equipment in a damaged condition (subject only to reasonable wear and tear), will result in the imposition of an Equipment fee that may be substantial. If the Equipment is affixed with a label which includes the following (or similar) message, "PROPERTY OF VERIZON. DO NOT REMOVE FROM PREMISES," then you must not return the Equipment and you will not be charged an Equipment fee as long as the Equipment is left in place in reasonable condition (subject only to reasonable wear and tear).  
+          
+          
+        
+    
+      
+    
+13.  **MANAGEMENT OF YOUR DATA, COMPUTER AND OTHER DEVICES.**  
+      
+    
+    1.  **Your Responsibilities Regarding Management of Your Computer, Other Devices and Data.** You are solely responsible for obtaining, maintaining and updating all equipment and software necessary to use the Service, and for management of your information, including but not limited to back-up and restoration of your data. YOU AGREE THAT VERIZON IS NOT RESPONSIBLE FOR THE LOSS OF YOUR DATA OR FOR THE BACK-UP OR RESTORATION OF YOUR DATA REGARDLESS OF WHETHER THIS DATA IS MAINTAINED ON OUR SERVERS OR YOUR DEVICE(S). YOU SHOULD ALWAYS BACK-UP ANY IMPORTANT INFORMATION SEPARATELY FROM DATA STORED ON VERIZON'S OR ANY THIRD PARTY'S SERVERS.  
           
           
         
@@ -253,7 +251,7 @@ THIS IS A CONTRACT. PLEASE READ THESE TERMS CAREFULLY. IF YOU DO NOT AGREE TO TH
           
           
         
-    3.  **Your Responsibilities Regarding Security.** You agree that you are solely responsible for maintaining the security of your computer(s) and data, including without limitation, encryption of data and protection of your User ID, password and personal and other data. If you believe your login credentials have been lost or stolen, or that someone has gained access to your account or login credentials without your permission, call us immediately at 1-800-837-4966. WE STRONGLY RECOMMEND THE USE (AND APPROPRIATE UPDATING) OF COMMERCIAL ANTI-VIRUS, ANTI-SPYWARE AND FIREWALL SOFTWARE.  
+    3.  **Your Responsibilities Regarding Security.** You agree that you are solely responsible for maintaining the security of your computer(s), device(s) and data, including without limitation, encryption of data and protection of your User ID, password and personal and other data. If you believe your login credentials have been lost or stolen, or that someone has gained access to your account or login credentials without your permission, call us immediately at 1-800-837-4966. WE STRONGLY RECOMMEND THE USE (AND APPROPRIATE UPDATING) OF COMMERCIAL ANTI-VIRUS, ANTI-SPYWARE AND FIREWALL SOFTWARE.  
           
           
         
@@ -264,7 +262,7 @@ THIS IS A CONTRACT. PLEASE READ THESE TERMS CAREFULLY. IF YOU DO NOT AGREE TO TH
     
       
     
-11.  **LIMITATIONS ON USE OF THE SERVICE.**  
+14.  **LIMITATIONS ON USE OF THE SERVICE.**  
       
     
     1.  You acknowledge and agree that Verizon (a) is not responsible for invalid destinations, transmission errors, or the corruption of your data. and (b) does not guarantee your ability to access all websites, servers or other facilities or that the Service is secure or will meet your needs.  
@@ -287,7 +285,7 @@ THIS IS A CONTRACT. PLEASE READ THESE TERMS CAREFULLY. IF YOU DO NOT AGREE TO TH
           
           
         
-    6.  You represent that when you transmit, upload, post or submit any content, images or data using the Service you have the legal right to do so and that your use of such data or content does not violate the copyright or trademark laws or any other third party rights.  
+    6.  You represent that when you transmit, upload, download, post or submit any content, images or data using the Service you have the legal right to do so and that your use of such content, images or data does not violate the copyright or trademark laws or any other third party rights. You understand and agree that any and all use of the Service is subject to the terms of Verizon’s Copyright Alert Program, a description of which can be found at http://www22.verizon.com/Support/Residential/Dotnetcontexthelp/DotNetContextHelp.htm.  
           
           
         
@@ -295,7 +293,7 @@ THIS IS A CONTRACT. PLEASE READ THESE TERMS CAREFULLY. IF YOU DO NOT AGREE TO TH
           
           
         
-    8.  The My Verizon customer portal is provided only for the use of Verizon subscribers and any other use is prohibited. You may view, copy or print pages from the My Verizon solely for personal, noncommercial purposes. You may not otherwise use, modify, copy, print, display, reproduce, distribute, manipulate, or publish any information from My Verizon without the express written permission of Verizon. At any time Verizon may, without notice, make changes to My Verizon or to the online services or products described on My Verizon. Without the express prior written authorization of Verizon, you may not (a) use any data mining robots ("bots"), hardware or software modules that add a specific feature or service by plugging into an existing larger system ("plug-ins"), or similar data gathering and extraction tools, scripts, applications, or methods on My Verizon. (b) use any device, software, or hardware to bypass any operational element or to interfere, or attempt to interfere, with the proper working of My Verizon. (c) take any action that imposes an unreasonable or disproportionately large load on My Verizon or its network infrastructure or that adversely affects our network or other customers. (d) decompile, reverse engineer, modify or disassemble any of the software in or associated with the Verizon network and/or servers. (e) use any meta tags or any other "hidden text" utilizing Verizon's name or any Verizon trademark without Verizon's prior written permission. or (f) frame or utilize framing techniques to enclose any trademark, logo, or other proprietary information (including images, text, page layout, or form) of Verizon or use any Verizon trademark except as set forth in our Website Terms of Use located at https://www22.verizon.com/terms, as they are updated from time to time. Unauthorized use of My Verizon or its network infrastructure and/or data display by a person or entity that is not the authorized user of the account is illegal and Verizon reserves the right to take appropriate legal action.  
+    8.  The My Verizon customer portal is provided only for the use of Verizon subscribers and any other use is prohibited. You may view, copy or print pages from the My Verizon solely for personal, noncommercial purposes. You may not otherwise use, modify, copy, print, display, reproduce, distribute, manipulate, or publish any information from My Verizon without the express written permission of Verizon. At any time Verizon may, without notice, make changes to My Verizon or to the online services or products described on My Verizon. Without the express prior written authorization of Verizon, you may not (a) use any data mining robots ("bots"), hardware or software modules that add a specific feature or service by plugging into an existing larger system ("plug-ins"), or similar data gathering and extraction tools, scripts, applications, or methods on My Verizon. (b) use any device, software, or hardware to bypass any operational element or to interfere, or attempt to interfere, with the proper working of My Verizon. (c) take any action that imposes an unreasonable or disproportionately large load on My Verizon or its network infrastructure or that adversely affects our network or other customers. (d) decompile, reverse engineer, modify or disassemble any of the software in or associated with the Verizon network and/or servers. (e) use any meta tags or any other "hidden text" utilizing Verizon's name or any Verizon trademark without Verizon's prior written permission. or (f) frame or utilize framing techniques to enclose any trademark, logo, or other proprietary information (including images, text, page layout, or form) of Verizon or use any Verizon trademark except as set forth in our Website Terms of Use located at http://www22.verizon.com/terms, as they are updated from time to time. Unauthorized use of My Verizon or its network infrastructure and/or data display by a person or entity that is not the authorized user of the account is illegal and Verizon reserves the right to take appropriate legal action.  
         
       
       
@@ -306,7 +304,7 @@ THIS IS A CONTRACT. PLEASE READ THESE TERMS CAREFULLY. IF YOU DO NOT AGREE TO TH
     
       
     
-12.  **WARRANTIES AND LIMITATION OF LIABILITY.**  
+15.  **WARRANTIES AND LIMITATION OF LIABILITY.**  
       
     
     1.  YOU ACKNOWLEDGE AND AGREE THAT THE SERVICE SUPPLIED HEREUNDER IS PROVIDED ON AN "AS IS" OR "AS AVAILABLE" BASIS, WITH ALL FAULTS. EXCEPT AS OTHERWISE SPECIFICALLY SET FORTH IN THIS AGREEMENT AND AS OTHERWISE SPECIFICALLY SET FORTH IN ANY MANUFACTURER WARRANTY FOR ANY EQUIPMENT PROVIDED BY VERIZON (BUT ONLY IF SUCH WARRANTY IS INCLUDED WITH SUCH EQUIPMENT), VERIZON (AND ITS OFFICERS, EMPLOYEES, PARENT, SUBSIDIARIES, AND AFFILIATES) (COLLECTIVELY THE "VERIZON PARTIES"), ITS THIRD PARTY LICENSORS, PROVIDERS AND SUPPLIERS, DISCLAIM ANY AND ALL WARRANTIES AND CONDITIONS FOR THE SERVICE, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, NON-INFRINGEMENT, NON-INTERFERENCE, TITLE, COMPATIBILITY OF COMPUTER SYSTEMS, COMPATIBILITY OF SOFTWARE PROGRAMS, INTEGRATION, AND THOSE ARISING FROM COURSE OF DEALING, COURSE OF TRADE, OR ARISING UNDER STATUTE. ALSO, THERE IS NO WARRANTY OF WORKMANLIKE EFFORT OR LACK OF NEGLIGENCE. NO ADVICE OR INFORMATION GIVEN BY VERIZON OR ITS REPRESENTATIVES SHALL CREATE A WARRANTY WITH RESPECT TO ADVICE PROVIDED.  
@@ -340,16 +338,16 @@ THIS IS A CONTRACT. PLEASE READ THESE TERMS CAREFULLY. IF YOU DO NOT AGREE TO TH
     
       
     
-13.  **INDEMNIFICATION.**  
+16.  **INDEMNIFICATION.**  
       
     You agree to defend, indemnify and hold harmless the Verizon Parties from and against all liabilities, costs and expenses, including reasonable attorneys' and experts' fees, related to or arising from your use of the Service (or the use of your Service by anyone else), (a) in violation of applicable laws, regulations or this Agreement. (b) to access the Internet or to transmit or post any message, information, software, images or other materials via the Internet. (c) in any manner that harms any person or results in the personal injury or death of any person or in damage to or loss of any tangible or intangible (including data) property. or (d) claims for infringement of any intellectual property rights arising from or in connection with use of the Service.  
       
       
     
-14.  **NOTICES.**  
+17.  **NOTICES.**  
       
     
-    1.  If either of us intends to seek arbitration under this Agreement, the party seeking arbitration must first notify the other party of the dispute in writing at least 30 days in advance of initiating the arbitration. Notice to Verizon should be sent to NoticeofDispute@verizon.com or to Verizon Online Dispute Resolution Manager, One Verizon Way, VC52N061, Basking Ridge, NJ 07920. The notice must describe the nature of the claim and the relief being sought. Other notices required under this Agreement by you must be provided to us at P.O. Box 11328, St. Petersburg, FL 33733, Attention: Customer Service in the manner set forth in the Contact Us section of the Website. Notice by Verizon to you (including notice of changes to this Agreement under Section 3) shall be deemed given when: (a) transmitted to your Primary Email Address. or (b) mailed via the US mail or hand-delivered to your address on file with us. or (c) when posted to the Announcements page of the Website.  
+    1.  If either of us intends to seek arbitration under this Agreement, the party seeking arbitration must first notify the other party of the dispute in writing at least 30 days in advance of initiating the arbitration. Notice to Verizon should be sent to NoticeofDispute@verizon.com or to Verizon Online Dispute Resolution Manager, One Verizon Way, VC52N061, Basking Ridge, NJ 07920. The notice must describe the nature of the claim and the relief being sought. Other notices required under this Agreement by you must be provided to us at P.O. Box 11328, St. Petersburg, FL 33733, Attention: Customer Service in the manner set forth in the Contact Us section of the Website. Notice by Verizon to you (including notice of changes to this Agreement under Section 3) shall be deemed given when: (a) transmitted to your Primary Email Address. or (b) mailed via the US mail or hand-delivered to your address on file with us. or (c) when posted to the Announcements page of the Website. or (d) delivered by bill message or bill insert.  
           
           
         
@@ -360,7 +358,7 @@ THIS IS A CONTRACT. PLEASE READ THESE TERMS CAREFULLY. IF YOU DO NOT AGREE TO TH
     
       
     
-15.  **GENERAL PROVISIONS.**  
+18.  **GENERAL PROVISIONS.**  
       
     
     1.  All obligations of the parties under this Agreement, which, by their nature, would continue beyond the termination of this Agreement, including without limitation, those relating to Limitation of Liability and Indemnification, shall survive such termination.  
@@ -394,17 +392,17 @@ THIS IS A CONTRACT. PLEASE READ THESE TERMS CAREFULLY. IF YOU DO NOT AGREE TO TH
     
       
     
-16.  **VERIZON AFFILIATES.** Services in Maryland are provided by Verizon Online - Maryland LLC. Services in Pennsylvania are provided by Verizon Online Pennsylvania Partnership.  
+19.  **VERIZON AFFILIATES.** Services in Maryland are provided by Verizon Online - Maryland LLC. Services in Pennsylvania are provided by Verizon Online Pennsylvania Partnership.  
       
       
     
-17.  **VOLUNTARY MEDIATION**  
+20.  **VOLUNTARY MEDIATION**  
       
     Verizon offers customers the option of participating in a free internal mediation program. This program is entirely voluntary and does not affect either party's rights in any other aspect of the dispute resolution procedures outlined in section 18. In our voluntary mediation program, we will assign an employee who is not directly involved in the dispute to help both sides reach an agreement. That person has all the rights and protections of a mediator and the process has all of the protections associated with mediation. For example, nothing said in the mediation can be used later in an arbitration or lawsuit. If you would like to know more, or you would like to start the mediation process, please contact us at NoticeofDispute@verizon.com or through Verizon Online Dispute Resolution Manager, One Verizon Way, VC52N061, Basking Ridge, NJ 07920, for a notice of customer dispute form. Fill out and send the Notice of Customer Dispute Form to us according to the directions on the form.  
       
       
     
-18.  **ARBITRATION OR SMALL CLAIMS ACTIONS.**  
+21.  **ARBITRATION OR SMALL CLAIMS ACTIONS.**  
       
     **WE HOPE TO MAKE YOU A HAPPY CUSTOMER, BUT IF THERE'S AN ISSUE THAT NEEDS TO BE RESOLVED, THIS SECTION OUTLINES WHAT'S EXPECTED OF BOTH OF US.** YOU AND VERIZON BOTH AGREE TO RESOLVE DISPUTES ONLY BY ARBITRATION OR IN SMALL CLAIMS COURT. THERE IS NO JUDGE OR JURY IN ARBITRATION, AND THE PROCEDURES MAY BE DIFFERENT, BUT AN ARBITRATOR CAN AWARD YOU THE SAME DAMAGES AND RELIEF, AND MUST HONOR THE SAME TERMS IN THIS AGREEMENT, AS A COURT WOULD. IF THE LAW ALLOWS FOR AN AWARD OF ATTORNEYS' FEES, AN ARBITRATOR CAN AWARD THEM TOO. WE ALSO BOTH AGREE THAT:  
       
@@ -429,7 +427,7 @@ THIS IS A CONTRACT. PLEASE READ THESE TERMS CAREFULLY. IF YOU DO NOT AGREE TO TH
     13.  IF FOR SOME REASON THE PROHIBITION ON CLASS ARBITRATIONS SET FORTH IN SUBSECTION 18.3 CANNOT BE ENFORCED, THEN THE AGREEMENT TO ARBITRATE WILL NOT APPLY.  
         
       
-    15.  **IF FOR ANY REASON A CLAIM PROCEEDS IN COURT RATHER THAN THROUGH ARBITRATION, YOU AND VERIZON AGREE THAT THERE WILL NOT BE A JURY TRIAL. YOU AND VERIZON UNCONDITIONALLY WAIVE ANY RIGHT TO TRIAL BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM ARISING OUT OF OR RELATING TO THIS AGREEMENT IN ANY WAY. IN THE EVENT OF LITIGATION, THIS PARAGRAPH MAY BE FILED TO SHOW A WRITTEN CONSENT TO A TRIAL BY THE COURT.**  
+    15.  IF FOR ANY REASON A CLAIM PROCEEDS IN COURT RATHER THAN THROUGH ARBITRATION, YOU AND VERIZON AGREE THAT THERE WILL NOT BE A JURY TRIAL. YOU AND VERIZON UNCONDITIONALLY WAIVE ANY RIGHT TO TRIAL BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM ARISING OUT OF OR RELATING TO THIS AGREEMENT IN ANY WAY. IN THE EVENT OF LITIGATION, THIS PARAGRAPH MAY BE FILED TO SHOW A WRITTEN CONSENT TO A TRIAL BY THE COURT.  
         
       
     
@@ -445,7 +443,7 @@ ATTACHMENT A **ACCEPTABLE USE POLICY**
       
       
     
-3.  **Copyright Infringement/Repeat Infringer Policy.** Verizon respects the intellectual property rights of third parties. Accordingly, you may not store any material or use Verizon's systems or servers in any manner that constitutes an infringement of third party intellectual property rights, including under US copyright law. In accordance with the Digital Millennium Copyright Act (DMCA) and other applicable laws, it is the policy of Verizon to suspend or terminate, in appropriate circumstances, the Service provided to any subscriber or account holder who is deemed to infringe third party intellectual property rights, including repeat infringers of copyrights. In addition, Verizon expressly reserves the right to suspend, terminate or take other interim action regarding the Service of any Subscriber or account holder if Verizon, in its sole judgment, believes that circumstances relating to an infringement of third party intellectual property rights warrant such action. These policies are in addition to and do not affect or modify any other rights Verizon may have under law or contract. If you believe that copyrighted material has been used in violation of this policy or otherwise been made available on the Service in a manner that is not authorized by the copyright owner, its agent or the law, please follow the instructions for contacting Verizon's designated Copyright Agent as set forth in Verizon's Copyright Policy located at http://www.verizon.com/copy.html.  
+3.  **Copyright Infringement/Repeat Infringer Policy.** Verizon respects the intellectual property rights of third parties. Accordingly, you may not store any material or use Verizon's systems or servers in any manner that constitutes an infringement of third party intellectual property rights, including under US copyright law. You understand and agree that any and all use of the Service is subject to the terms of Verizon’s Copyright Alert Program, which are incorporated by reference herein. A description of the Copyright Alert Program can be found at http://www22.verizon.com/Support/Residential/Dotnetcontexthelp/DotNetContextHelp.htm. Under the Copyright Alert Program, Verizon will send you an alert if possible copyright infringement, such as peer-to-peer video or audio file sharing is detected on your Internet connection so that you, as the account owner, can take steps to prevent any future possible infringement. In accordance with the Digital Millennium Copyright Act (DMCA) and other applicable laws, it is the policy of Verizon to suspend or terminate, in appropriate circumstances, the Service provided to any subscriber or account holder who is deemed to infringe third party intellectual property rights, including repeat infringers of copyrights. In addition, Verizon expressly reserves the right to suspend, terminate or take other interim action regarding the Service of any Subscriber or account holder if Verizon, in its sole judgment, believes that circumstances relating to an infringement of third party intellectual property rights warrant such action. These policies are in addition to and do not affect or modify any other rights Verizon may have under law or contract. If you believe that copyrighted material has been used in violation of this policy or otherwise been made available on the Service in a manner that is not authorized by the copyright owner, its agent or the law, please follow the instructions for contacting Verizon's designated Copyright Agent as set forth in Verizon's Copyright Policy located at http://www22.verizon.com/Support/Residential/Dotnetcontexthelp/DotNetContextHelp.htm.  
       
       
     
@@ -478,7 +476,10 @@ If you subscribe to any of the following services ("Additional Services"), the t
           
           
         
-    5.  Verizon Online Backup &. Sharing is provided by DigiData Corporation, which is a third party beneficiary of this Agreement capable of enforcing its terms independently from Verizon.  
+    5.  5\. Inactivity Disconnect Policy. If your Storage Service is idle for fifteen (15) minutes, it will be subject to automatic log-off . Your Storage Service will be deemed to be idle if there appears to be no interactive, human-generated data received from the remote user's computer within a fifteen (15) minute period. Your Storage Service will not be subject to automatic log-off if you are accessing your account from a wireless device.  
+          
+        
+    6.  Verizon Online Backup &. Sharing is provided by DigiData Corporation, which is a third party beneficiary of this Agreement capable of enforcing its terms independently from Verizon.  
           
           
         
@@ -522,7 +523,6 @@ If you subscribe to any of the following services ("Additional Services"), the t
         
     2.  VISS Powered by McAfee.  
           
-        
         1.  VISS Powered by McAfee is manufactured by McAfee, Inc. located at 3965 Freedom Circle, Santa Clara, CA 95054, which is a third party beneficiary of this Agreement capable of enforcing its terms independently from Verizon. The personal jurisdiction and venue provisions in Section 15.4 shall not apply to any causes of action by or against McAfee Inc. under or in relation to this Agreement. You acknowledge and agree that claims against McAfee regarding the VISS Powered by McAfee shall be governed by and construed in accordance with the substantive laws of the State of New York.  
               
               
@@ -539,21 +539,13 @@ If you subscribe to any of the following services ("Additional Services"), the t
               
               
             
-        
-          
-        
     
       
     
-4.  **VERIZON GAMES ON DEMAND.** Verizon Games on Demand are manufactured by Exent Technologies, Inc., which is a third party beneficiary of this Agreement capable of enforcing its terms independently from Verizon.  
-      
-      
-    
-5.  **STARZ PLAY.** Starz Play is provided by Starz Entertainment, LLC.  
-      
+4.  **VERIZON GAMES ON DEMAND.** Verizon Games on Demand are manufactured by Exent Technologies, Inc., which is a third party beneficiary of this Agreement capable of enforcing its terms independently from Verizon. Verizon Games on Demand are not available for purchase at this time.  
       
     
-6.  **VERIZON PREMIUM TECHNICAL SUPPORT SERVICE ("PTS").  
+5.  **VERIZON PREMIUM TECHNICAL SUPPORT SERVICE ("PTS").  
       
     **
     
@@ -653,4 +645,4 @@ If you subscribe to any of the following services ("Additional Services"), the t
     
 
   
-V-11.3 Effective December 31, 2011
+V-13.1 Effective February 27, 2012
