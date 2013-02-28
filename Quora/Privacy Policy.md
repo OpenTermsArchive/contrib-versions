@@ -1,4 +1,4 @@
-There are some updates to this page that haven't been applied yet because you've entered some data into a form. You can resume live updates if you want. Trying to regain internet connection... Quora
+There are some updates to this page that haven't been applied yet because you've entered some data into a form. You can refresh this page to receive new updates. Trying to regain internet connection... Hide this message. Quora
 
 Quora connects you to everything you want to know about.
 
