@@ -1,4 +1,5 @@
-Print WIRELESS CUSTOMER AGREEMENT ("Agreement")  
+Print **WIRELESS CUSTOMER AGREEMENT ("Agreement")**  
+
   
 
 "AT&T" or "we," "us," or "our" refers to AT&T Mobility LLC, acting on behalf of its FCC-licensed affiliates doing business as AT&T. "You" or "your" refers to the person or entity that is the customer of record.
