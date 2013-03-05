@@ -1,8 +1,23 @@
+Kindle for PC Legal Notices
+
 *   Intellectual Property Notices
 *   Information for Those With Copyright Concerns
 *   Notices for Third Party Software Included With the Application
 *   Full Text for Certain Software Licenses
-OpenSSLOpenSSLhttp://www.openssl.org/
+
+A. INTELLECTUAL PROPERTY NOTICES1. Patent Notices
+
+The Kindle for PC application and/or methods used in association with the Kindle device may be covered by one or more patents or pending patent applications owned or controlled by Amazon.com, Inc. or its affiliates.
+
+2\. Trademark Notices
+
+Amazon, the Amazon logo, Kindle, the AmazonKindle logo, and Whispersync are trademarks of Amazon.com, Inc. or its affiliates.
+
+3\. Copyright Notices
+
+Kindle for PC software © 2009-2012 Amazon.com, Inc. or its affiliates. All rights reserved.
+
+4\. Other NoticesThis product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/).
 
 All other brands, product names, company names, trademarks, and service marks are the properties of their respective owners.
 
@@ -36,7 +51,7 @@ Seattle, WA 98109-5210
 USA
 
   
-C. NOTICES FOR THIRD PARTY SOFTWARE INCLUDED WITH THE APPLICATION1. Notices for Libjpeg Software.
+C. NOTICES FOR THIRD PARTY SOFTWARE INCLUDED WITH THE APPLICATION 1. Notices for Libjpeg Software.
 
 LEGAL ISSUES
 
@@ -78,7 +93,7 @@ The IJG distribution formerly included code to read and write GIF files. To avoi
 
 We are required to state that "The Graphics Interchange Format© is the Copyright property of CompuServe Incorporated. GIF(sm) is a Service Mark property of CompuServe Incorporated."
 
-2\. Notices for OpenSSL Software.
+Please send bug reports, offers of help, etc. to jpeg-info@uunet.uu.net. 2. Notices for OpenSSL Software.
 
 The OpenSSL toolkit stays under a dual license, i.e. both the conditions of the OpenSSL License and the original SSLeay license apply to the toolkit. See below for the actual license texts. Actually both licenses are BSD-style Open Source licenses. In case of any license issues related to OpenSSL please contact openssl-core@openssl.org.
 
@@ -140,7 +155,7 @@ Permission is granted to anyone to use this software for any purpose, including 
 
 4\. Info-ZIP retains the right to use the names "Info-ZIP," "Zip," "UnZip," "UnZipSFX," "WiZ," "Pocket UnZip," "Pocket Zip," and "MacZip" for its own source and binary releases.
 
-4\. Notices for LibXML2 Software.
+4\. Notices for LibXML2 Software. Except where otherwise noted in the source code (e.g. the files hash.c, list.c and the trio files, which are covered by a similar licence but with different Copyright notices) all the files are:
 
 1998-2003 Daniel Veillard. All Rights Reserved.
 
@@ -166,7 +181,7 @@ Permission to use, copy, modify, and distribute this software for any purpose wi
 
 THIS SOFTWARE IS PROVIDED \`\`AS IS'' AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE AUTHORS AND CONTRIBUTORS ACCEPT NO RESPONSIBILITY IN ANY CONCEIVABLE MANNER.
 
-5\. Notices for XML Security Library Software.
+5\. Notices for XML Security Library Software. xmlsec, xmlsec-openssl, xmlsec-gnutls, xmlsec-gcrypt libraries © 2002-2010 Aleksey Sanin. All Rights Reserved.
 
 xmlsec-mscrypto library © 2002-2010 Aleksey Sanin. All Rights Reserved. © 2003 Cordys R&D BV, All rights reserved. © 2007 Roumen Petrov. © 2005-2006 Cryptocom LTD (http://www.cryptocom.ru).
 
@@ -385,3 +400,5 @@ NO WARRANTY
 END OF TERMS AND CONDITIONS FOR GNU LESSER GENERAL PUBLIC LICENSE
 
 © 1998-2003 Free Software Foundation, Inc.
+
+Kindle Tools Know Your Kindle Kindle FAQs | Kindle Discussions | Manage Your Kindle | Troubleshooting Your Kindle
