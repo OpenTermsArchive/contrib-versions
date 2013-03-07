@@ -6,7 +6,7 @@ Please note that this Privacy Policy includes embedded hyperlinks that may only 
 
 *   Collection and Use of Information
 *   Disclosure of Information
-*   Facebook
+*   Social Sharing
 *   Links to Other Sites
 *   Children
 *   Right to Access Your Information
@@ -29,6 +29,8 @@ While using the Netflix service, you will have opportunities to post reviews or 
 
 From time to time, we may partner with companies whose products we believe will interest our members. In conjunction with these partners, we may send promotional announcements and/or serve web-based advertisements on their behalf, as permitted by law. You can go to the "Email preferences" link on the "Your Account" page and request that your name be excluded from marketing emails.
 
+You may connect one or more social networks with your Netflix account. If you choose to do so, we will collect information from your social networking account(s) and your use of our social features. For more information about our social features, see our Social Terms (www.netflix.com/socialterms).
+
 Back to top Disclosure of Information
 
 We may share your information within the Netflix family of companies. The Netflix family of companies that access your information will follow practices that are consistent with the practices described in this Privacy Policy. In addition we use other companies, agents or contractors to perform services on our behalf. For example, we have partnered with other companies, to provide infrastructure and IT services, personalize and optimize our web pages, process credit card transactions, provide customer service, collect debts, analyze and enhance data, including users' interaction with our website, and process consumer surveys. In the course of providing such services, these other companies may have access to your information. We do not authorize these companies to use or disclose your personal information except for the purpose of providing the services we request of them.
@@ -37,9 +39,9 @@ We may offer joint promotions or programs that, in order for participation, will
 
 Netflix also reserves the right to disclose personal information if we reasonably believe that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process, or enforceable governmental request, (b) enforce applicable terms of use, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address illegal or suspected illegal activities, security or technical issues, or (d) protect against harm to the rights, property or safety of Netflix, its users or the public as required or permitted by law. In connection with any reorganization, restructuring, merger or sale, or other transferring of assets we reserve the right to transfer information, including personal information, provided that the receiving party agrees to respect your personal information in a manner that is consistent with our privacy policy.
 
-Back to top Facebook
+Back to top Social Sharing
 
-For members located in certain countries, if you connect your Netflix account to Facebook, we will access information about you and your Facebook friends on an on-going basis, unless you disconnect. We will import, use, disclose and retain this information to, among other things, customize and improve the Netflix service for you, your friends and others. In addition, by connecting your Netflix account to Facebook, we will automatically post your activity to Facebook, including what you watched. At present, we offer you the option of not sharing individual titles by using the “don’t share/unshare” feature which is available on most devices. Your friends and others who have access to view information about you on Facebook will also be able to see (on Facebook and on Netflix) that you're a Netflix member as well as what you've watched, and other information about your use of the Netflix service. You’ll also be able to see similar information about your Facebook friends who are connected with Netflix. Please note that Facebook will import, use and retain this information. See Facebook's privacy policy for details, including how they treat information. You can disconnect from sharing future information by visiting "Your Account." You may also control how certain information is shared in your Privacy Settings on Facebook. Please note that your privacy settings on Facebook do not control information disclosure on Netflix. As a result, if you choose to connect your Facebook and Netflix accounts and enable sharing, then all of your Facebook friends who are also connected will be able to see your Netflix activity when they use Netflix, unless you choose to hide a specific title. We and Facebook are continually making changes and improvements to this feature, and therefore the available features and information that are shared may change from time to time. These changes may take place without notice to you and may not be described here or in the Terms of Use.
+You may elect to share information about your use of the Netflix service, including what you watch, within Netflix as well as on other social networks. Your use of our social features is subject to our Social Terms (www.netflix.com/socialterms). please review them for details.
 
 Back to top Other Websites and Platforms
 
@@ -51,7 +53,7 @@ You must be 18 years of age or older to subscribe to the Netflix service. In cer
 
 Back to top Right to Access Your Information
 
-We give you access to a broad range of information about your account and your interactions with us in the "Your Account" portion of the website. You are responsible for updating and maintaining the truth and accuracy of the personal information you provide to us relating to your account. If you want to access or alter your contact information or change your payment method, you should do so by visiting the "Your Account" section of our website. You must be signed in to access "Your Account." You can also make changes to certain communication preferences by going to the "Email preferences” section of “Your Account" on our website. If you have a question regarding our privacy practices, or want to exercise your rights regarding your personal information, please contact us at privacy@netflix.com.
+We give you access to a broad range of information about your account and your interactions with us in the "Your Account" portion of the website. You are responsible for updating and maintaining the truth and accuracy of the personal information you provide to us relating to your account. If you want to access or alter your contact information or change your payment method, you should do so by visiting the "Your Account" section of our website. You must be signed in to access "Your Account." You can also make changes to certain communication preferences by going to the "Email preferences" section of "Your Account" on our website. If you have a question regarding our privacy practices, or want to exercise your rights regarding your personal information, please contact us at privacy@netflix.com.
 
 Back to top Cookies and Other Technologies
 
@@ -83,7 +85,7 @@ Back to top Transfer of Information and International Users
 
 Given that the Internet is a global environment, using the Internet to collect and process information necessarily involves the transmission of data on an international basis. Therefore, by using Netflix, you acknowledge and consent to the transfer of your information outside your country of residence to any country (including the United States) where we have facilities or engage third parties (including but not limited to payment processors, cloud service or other IT providers, and other companies that provide services to us). You understand that the countries to which we may transfer information may not have as comprehensive a level of data protection as in your country.
 
-Personal information of individuals who reside in a member state of the European Economic Area is controlled by Netflix Luxembourg S.à r.l, 13-15, Avenue de la Liberté, L-1931, Luxembourg.
+Personal information of individuals who reside in a member state of the European Economic Area is controlled by Netflix Luxembourg S.à r.l, 26, Boulevard Royal, #205, L-2449 Luxembourg.
 
 Back to top Contacting Us
 
@@ -95,8 +97,8 @@ Netflix, Inc., 100 Winchester Circle, Los Gatos, CA 95032, U.S.A. Attention: Gen
 
 For European customers:
 
-Netflix Luxembourg S.à r.l., 13-15, Avenue de la Liberté, L-1931, Luxembourg, Attn: Manager
+Netflix Luxembourg S.à r.l., 26, Boulevard Royal, #205 L2449 Luxembourg, Attn: Manager
 
 Back to top
 
-This Privacy Policy is effective as of September 14, 2012
+This Privacy Policy is effective as of March 6, 2013
