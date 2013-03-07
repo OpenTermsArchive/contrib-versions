@@ -94,7 +94,7 @@ G. General Conditions
 
 1.  Your use of the Service is at your sole risk. The service is provided on an "as is" and "as available" basis.
     
-2.  Technical support is only provided to paying account holders and is only available via email. Support is only available in English.
+2.  Support for GitHub services is only available in English, via email.
     
 3.  You understand that GitHub uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Service.
     
