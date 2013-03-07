@@ -74,7 +74,7 @@ What Information You Can Access
 
 If you are a registered user, you can access and delete most information associated with your Account by logging into the Services and checking your Account Settings page. Registered and unregistered users can access and delete cookies through their web browser settings.
 
-**Your California Privacy Rights:** Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information that we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: 35 East 21st Street, 6th Floor, New York NY 10010.
+**Your California Privacy Rights:** Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information that we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: 35 East 21st St, 10th Floor. New York, NY 10010.
 
 How to Delete Your Account and What Happens When You Delete Your Account
 
