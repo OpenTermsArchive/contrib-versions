@@ -117,13 +117,7 @@ Features &. Functionality
 
 *   Social Media
     
-    For members in certain countries, you can connect your Netflix account to Facebook. If you choose to connect, you'll be able to take advantage of various social features as part of the Netflix service, as well as features available on Facebook. These features are designed to share information with others - the essence of social media. For example, your friends and others who have access to view information about you on Facebook will be able to see (on Facebook and on Netflix) that you're a Netflix member as well as what you've watched, and other information about your use of the Netflix service. You'll also be able to see similar information about your Facebook friends who are connected with Netflix. In addition, Netflix may personalize and otherwise enhance your experience based on your Facebook information, such as your basic information, and "Likes." Please pay careful attention to your Facebook Connect settings in "Your Account" as well as your Privacy Settings in Facebook which will impact this feature and may give you some control over the information that is shared and who it is shared with. Also, please see our Privacy Policy to learn more about the scope, extent and uses of information we gather. Please note that your privacy settings on Facebook do not control information disclosure on Netflix.  As a result, if you choose to connect your Facebook and Netflix accounts and enable sharing, then all of your Facebook friends who are also connected will be able to see your Netflix activity when they use Netflix, unless you choose to hide a specific title.
-    
-    Please note that only one Facebook account can be connected to each Netflix account. All Netflix account activity will be posted automatically to the Facebook account that is connected to Netflix unless you use the “don't share / unshare” feature currently available on most devices. You can hide a movie or TV show during playback on most devices using the playback controls while instantly watching the movie or TV show. You can also "unshare" by visiting a movie or TV show details page on the Netflix website. If you have authorized more than one member of your household to use your Netflix account, it is possible that their Netflix activity may be posted to your Facebook account or be visible to your Facebook friends using the Netflix service.
-    
-    While we hope that you find the Facebook Connect feature to be a great way to share information, including discovering new movies &. TV shows, you may nonetheless disconnect your accounts at any time by clicking on the "Your Account" link, selecting the "Manage Facebook Connect" link (located in the Preferences section) and then selecting "Disconnect." Facebook may also offer ways to manage the information you share with Netflix. See the Facebook website for details.
-    
-    BY CONNECTING YOUR NETFLIX ACCOUNT TO YOUR FACEBOOK ACCOUNT, YOU ACKNOWLEDGE AND AGREE THAT YOU ARE CONSENTING TO THE CONTINUOUS RELEASE OF INFORMATION ABOUT YOU TO OTHERS, INCLUDING TO FACEBOOK. IF YOU DO NOT WANT INFORMATION ABOUT YOU, INCLUDING INFORMATION SUCH AS YOUR MOVIE &. TV SHOW ACTIVITY, TO BE SHARED IN THIS MANNER, DO NOT USE THE FACEBOOK CONNECT FEATURE. We and Facebook are continually making changes and improvements to this feature, and therefore the available features and information that is shared may change from time to time. These changes may take place without notice to you and may not be described in these Terms of Use.
+    You may elect to share information about your use of the Netflix service, including what you watch, within Netflix as well as on other social networks. Your use of our social features is subject to our Social Terms (www.netflix.com/socialterms). please review them for details.
     
 *   Member Reviews
     
@@ -251,4 +245,4 @@ DVD Plans in the United States
 
 If you are a Netflix member in the United States on a DVD plan, the DVD Terms and Conditions also apply to your use of the Netflix service.
 
-Effective Date: September 14, 2012
+Effective Date: March 6, 2013
