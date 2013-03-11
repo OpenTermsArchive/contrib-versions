@@ -225,7 +225,7 @@ Variants
 Views
 
 *   Read
-*   Feedback
+*   Suggest a change
 *   View history
 
 Actions
@@ -283,8 +283,8 @@ Toolbox
 *   Page information
 *   Cite this page
 
-*   This page was last modified on 4 April 2012, at 18:33.
-*   Text is available under the Creative Commons Attribution/Share-Alike License. additional terms may apply. See Terms of use for details.
+*   This page was last modified on 10 March 2013, at 10:31.
+*   Text is available under the Creative Commons Attribution/Share-Alike License. additional terms may apply. See Terms of Use for details.
 
 *   Privacy policy
 *   About Wikimedia Foundation
