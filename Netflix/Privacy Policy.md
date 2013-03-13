@@ -29,7 +29,7 @@ While using the Netflix service, you will have opportunities to post reviews or 
 
 From time to time, we may partner with companies whose products we believe will interest our members. In conjunction with these partners, we may send promotional announcements and/or serve web-based advertisements on their behalf, as permitted by law. You can go to the "Email preferences" link on the "Your Account" page and request that your name be excluded from marketing emails.
 
-You may connect one or more social networks with your Netflix account. If you choose to do so, we will collect information from your social networking account(s) and your use of our social features. For more information about our social features, see our Social Terms (www.netflix.com/socialterms).
+You may connect one or more social networks with your Netflix account. If you choose to do so, we will collect information from your social networking account(s) and your use of our social features. For more information about our social features, see our Social Terms.
 
 Back to top Disclosure of Information
 
@@ -41,7 +41,7 @@ Netflix also reserves the right to disclose personal information if we reasonabl
 
 Back to top Social Sharing
 
-You may elect to share information about your use of the Netflix service, including what you watch, within Netflix as well as on other social networks. Your use of our social features is subject to our Social Terms (www.netflix.com/socialterms). please review them for details.
+You may elect to share information about your use of the Netflix service, including what you watch, within Netflix as well as on other social networks. Your use of our social features is subject to our Social Terms. please review them for details.
 
 Back to top Other Websites and Platforms
 
