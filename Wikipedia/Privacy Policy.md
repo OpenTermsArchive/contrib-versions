@@ -35,24 +35,38 @@ It may not be circumvented, eroded, or ignored by local policies.
 
 Wikimedia policies
 
-*   Licensing and copyright
-*   **Privacy** and donor privacy
-*   Data retention
+Wikimedia wikis
+
 *   Access to nonpublic data
+*   Data retention
+*   Donor
+*   Licensing
+*   Non discrimination
+*   **Privacy**
 *   Trademarks
 
-*   Board and staff
-    *   Code of conduct
-    *   Conflicts of interest
-    *   Credit card usage
-    *   Discrimination
-    *   Duty entertainment
-    *   Gifts
-    *   Pluralism, internationalism,  
-        &. diversity
-    *   Purchasing and disbursements
-    *   Travel approval and Travel
-    *   Whistleblowing
+Board and staff members
+
+*   Code of conduct
+*   Conflict of interest
+*   Credit card usage
+*   Delegation of authority
+    *   Subdelegation
+*   Duty entertainment
+*   Gifts
+*   Pluralism, internationalism, and diversity
+*   Travel
+*   Travel approval
+*   Whistleblower
+
+Other
+
+*   Feedback privacy statement
+*   Friendly space policy
+*   Fundraising principles
+*   Funds dissemination principles
+*   Legal policies
+*   Purchasing and disbursements procedures
 
 _This version of the Privacy policy was approved in October 2008 by the Board of Trustees. Discussion and proposed changes are welcome on the talk page at Meta._
 
@@ -283,7 +297,7 @@ Toolbox
 *   Page information
 *   Cite this page
 
-*   This page was last modified on 10 March 2013, at 10:31.
+*   This page was last modified on 4 April 2012, at 18:33.
 *   Text is available under the Creative Commons Attribution/Share-Alike License. additional terms may apply. See Terms of Use for details.
 
 *   Privacy policy
