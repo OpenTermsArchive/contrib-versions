@@ -57,13 +57,8 @@ Skip to contentZillow Real Estate &amp. Homes for Sale
     
     *   Real Estate Advice
     *   Zillow FAQs
-    *   Home Buying Advice
-    *   Home Selling Advice
-    *   Mortgage Advice
-    *   Rental Advice
+    *   Mortgage Center
     *   Foreclosure Center
-    
-    Tools
     
     Ask a Question
     
@@ -95,7 +90,7 @@ Skip to contentZillow Real Estate &amp. Homes for Sale
     
     Compare Places
     
-*   newDigsTM
+*   newDigs™
     *   Bathrooms
     *   Bedrooms
     *   Gardens
@@ -107,6 +102,9 @@ Skip to contentZillow Real Estate &amp. Homes for Sale
     *   Real Estate Advertising
     *   Widgets, Badges &. Data
     *   Zillow Visuals
+    
+    Zillow Research
+    
     *   Help
     
     **Blogs**
@@ -114,8 +112,6 @@ Skip to contentZillow Real Estate &amp. Homes for Sale
     Zillow Blog
     
     Zillow Pros Blog
-    
-    Zillow Research
     
     Zillow Engineering
     
