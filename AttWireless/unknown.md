@@ -174,6 +174,10 @@ If AT&T did not make a written offer to settle the dispute before an arbitrator 
 
 (7) Notwithstanding any provision in this Agreement to the contrary, we agree that if AT&T makes any future change to this arbitration provision (other than a change to the Notice Address) during your Service Commitment, you may reject any such change by sending us written notice within 30 days of the change to the Arbitration Notice Address provided above. By rejecting any future change, you are agreeing that you will arbitrate any dispute between us in accordance with the language of this provision.
 
+2.3   Puerto Rico Customers
+
+For Puerto Rico customers, references to “small claims court” in sections 2.1 and 2.2 should be understood to mean the Puerto Rico Telecommunications Regulatory Board.
+
   
 
 **3.0   TERMS RELATING TO YOUR DEVICE AND CONTENT**
@@ -567,7 +571,7 @@ An eligible tiered pricing data plan is required for certain Devices, including 
 
 6.4   How Does AT&T Calculate My Data Usage/Billing?
 
-DATA TRANSPORT/USAGE OCCURS WHENEVER YOUR DEVICE IS CONNECTED TO OUR NETWORK AND IS ENGAGED IN ANY DATA TRANSMISSION, INCLUDING BUT NOT LIMITED TO: (i) SENDING OR RECEIVING EMAIL, DOCUMENTS, OR OTHER CONTENT, (ii) ACCESSING WEBSITES, OR (iii) DOWNLOADING AND USING APPLICATIONS. SOME APPLICATIONS, CONTENT, PROGRAMS, AND SOFTWARE THAT YOU DOWNLOAD OR THAT COMES PRE-LOADED ON YOUR DEVICE AUTOMATICALLY AND REGULARLY SEND AND RECEIVE DATA TRANSMISSIONS IN ORDER TO FUNCTION PROPERLY, WITHOUT YOU AFFIRMATIVELY INITIATING THE REQUEST AND WITHOUT YOUR KNOWLEDGE. FOR EXAMPLE, APPLICATIONS THAT PROVIDE REAL-TIME INFORMATION AND LOCATION-BASED APPLICATIONS CONNECT TO OUR NETWORK, AND SEND AND RECEIVE UPDATED INFORMATION SO THAT IT IS AVAILABLE TO YOU WHEN YOU WANT TO ACCESS IT. IN ADDITION, ANY ADVERTISEMENTS OR ADVERTISER-RELATED MESSAGES OR DATA DELIVERED TO YOUR DEVICE, EVEN IF DELIVERED TO AN APPLICATION, AS WELL AS ANY MESSAGES OR CONTENT THAT INITIATE IN RESPONSE TO AN ADVERTISEMENT, WILL COUNT TOWARD YOUR DATA USAGE. YOU WILL BE BILLED FOR ALL DATA TRANSPORT AND USAGE WHEN YOUR DEVICE IS CONNECTED TO OUR NETWORK, INCLUDING THAT WHICH YOU AFFIRMATIVELY INITIATE OR THAT WHICH RUNS AUTOMATICALLY IN THE BACKGROUND WITHOUT YOUR KNOWLEDGE, AND WHETHER SUCCESSFUL OR NOT.
+DATA TRANSPORT/USAGE OCCURS WHENEVER YOUR DEVICE IS CONNECTED TO OUR NETWORK AND IS ENGAGED IN ANY DATA TRANSMISSION, INCLUDING BUT NOT LIMITED TO: (i) SENDING OR RECEIVING EMAIL, DOCUMENTS, OR OTHER CONTENT, (ii) ACCESSING WEBSITES, OR (iii) DOWNLOADING AND USING APPLICATIONS. SOME APPLICATIONS, CONTENT, PROGRAMS, AND SOFTWARE THAT YOU DOWNLOAD OR THAT COMES PRE-LOADED ON YOUR DEVICE AUTOMATICALLY AND REGULARLY SEND AND RECEIVE DATA TRANSMISSIONS IN ORDER TO FUNCTION PROPERLY, WITHOUT YOU AFFIRMATIVELY INITIATING THE REQUEST AND WITHOUT YOUR KNOWLEDGE. FOR EXAMPLE, APPLICATIONS THAT PROVIDE REAL-TIME INFORMATION AND LOCATION-BASED APPLICATIONS CONNECT TO OUR NETWORK, AND SEND AND RECEIVE UPDATED INFORMATION SO THAT IT IS AVAILABLE TO YOU WHEN YOU WANT TO ACCESS IT. IN ADDITION, ANY ADVERTISEMENTS OR ADVERTISER-RELATED MESSAGES OR DATA DELIVERED TO YOUR DEVICE, EVEN IF DELIVERED TO AN APPLICATION, AS WELL AS ANY MESSAGES OR CONTENT THAT INITIATE IN RESPONSE TO AN ADVERTISEMENT, WILL COUNT TOWARD YOUR DATA USAGE. YOU WILL BE BILLED FOR ALL DATA TRANSPORT AND USAGE WHEN YOUR DEVICE IS CONNECTED TO OUR NETWORK, INCLUDING THAT WHICH YOU AFFIRMATIVELY INITIATE OR THAT WHICH RUNS AUTOMATICALLY IN THE BACKGROUND WITHOUT YOUR KNOWLEDGE, AND WHETHER SUCCESSFUL OR NOT. A DATA SESSION INITIATED ON THE AT&T NETWORK WILL CONTINUE ITS CONNECTION OVER THE AT&T NETWORK UNTIL THE DATA TRANSMISSION IS CONCLUDED, EVEN WHEN YOU CONNECT TO A WI-FI NETWORK DURING THE TRANSMISSION.
 
 Unless designated for International or Canada use, prices and included use apply to access and use on AT&T's wireless network and the wireless networks of other companies with which AT&T has a contractual relationship within the United States and its territories (Puerto Rico and the U.S. Virgin Islands), excluding areas within the Gulf of Mexico.
 
@@ -685,6 +689,14 @@ If you use a Mobile Share plan without a designated smartphone on the account, o
 
   
 
+6.15   AT&T Mobile Share - Data Plans (for Data-Only Devices)
+
+AT&T Mobile Share – Data plans allow you to share a monthly allotment of domestic wireless data usage among up to ten (10) 3G, HSPA+ or LTE Devices (excluding smartphones and basic or quick messaging phones). You choose a specific allotment of monthly shared data usage for a monthly recurring charge and then pay an additional charge for each Device added to the Mobile Share - Data plan you select. You must specifically identify one or more eligible devices (the “Designated Data Devices”) that will share your monthly allotment of data usage under the Mobile Share - Data plan you select. Designated Data Devices can include: tablet(s), gaming device(s), modem(s), netbook(s), laptop(s), or mobile hotspot(s). If, during a billing period, your data usage exceeds the monthly allotment of data in the Mobile Share - Data plan you select, you will automatically be charged for overage as specified in your rate plan. If, during a billing period, you do not use all of the data allotment in the Mobile Share - Data plan you select, you will forfeit that usage. Authorized users on the account may temporarily suspend data access for particular Designated Data Device(s) during a specific billing cycle, but monthly charges for the suspended Designated Data Device(s) will continue to apply. Tethering and/or mobile hotspot use is permitted with Mobile Share – Data plans with capable Designated Data Devices. provided, however, that such use is limited to a maximum of five (5) simultaneous users per Designated Data Device. An activation fee will be charged when converting from a prepaid or Session-Based plan to a Mobile Share - Data plan or when you activate an additional Designated Data Device on an existing Mobile Share - Data plan. Designated Data Devices that are capable of accessing corporate email, intranet sites and/or other business applications may do so for no additional monthly access charge. Discounts otherwise applicable to your Mobile Share - Data rate plan do not apply to the additional monthly Device charge. Additional deposits and other restrictions may apply.
+
+If you use a Mobile Share - Data plan with a smartphone, with any device that is not a Designated Data Device, for tethering or as a mobile hotspot with more than five (5) simultaneous users, or otherwise use the plan in any way that is inconsistent with its terms, you agree that AT&T may: (a) suspend or terminate service to the account. (b) place any non-complying Device on an appropriate Mobile Share plan. and/or (c) add any other required element of the plan.
+
+  
+
 **7.0   ARE THERE OTHER TERMS AND CONDITIONS THAT APPLY TO FEATURES AND APPLICATIONS?**
 
 Terms and conditions for certain features and applications are provided on the Device at the time of feature/application activation or first use. Certain features/applications will not be available in all areas at all times.
@@ -785,7 +797,7 @@ If you have any questions or concerns about your AT&T Service, please call Custo
 
 10.3   Puerto Rico
 
-If you are a Puerto Rico customer and we cannot resolve your issue, you may notify the Telecommunications Regulatory Board of Puerto Rico of your grievance. Mail: 500 Ave Roberto H. Todd, (Parada 18), Santurce, San Juan, Puerto Rico 00907-3941. Phone: 1-787-756-0804 or 1-866-578-5500. Online: jrtpr.gobierno.pr, in addition to using binding arbitration or small claims court to resolve your dispute.
+If you are a Puerto Rico customer and we cannot resolve your issue, you may notify the Telecommunications Regulatory Board of Puerto Rico of your grievance. Mail: 500 Ave Roberto H. Todd, (Parada 18), San Juan, Puerto Rico 00907-3941. Phone: 1-787-756-0804 or 1-866-578-5500. Online: jrtpr.gobierno.pr, in addition to having available arbitration, as provided in Section 2.0.
 
   
 
