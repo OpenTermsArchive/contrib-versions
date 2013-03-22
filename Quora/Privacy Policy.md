@@ -1,9 +1,13 @@
 There are some updates to this page that haven't been applied yet because you've entered some data into a form. You can refresh this page to receive new updates. Trying to regain internet connection... Quora
 
-Quora is your best source for knowledge.
+**Quora is your best source for knowledge.**  
+**Sign up** in seconds.
 
-*   Login
-*   Sign Up
+Remember Me Forgot Password?
+
+Please confirm your email address. Resend Confirmation Link
+
+No account found for this email. Retry, or Sign up for Quora.Incorrect password. Reset Password
 
 *   About
 *   Team
