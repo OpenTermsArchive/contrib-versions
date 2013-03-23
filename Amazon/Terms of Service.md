@@ -160,4 +160,4 @@ Additional Amazon Software Terms
 4.  **Updates.** In order to keep the Amazon Software up-to-date, we may offer automatic or manual updates at any time and without notice to you.
 5.  **Export Regulations. Government End Users.** You must comply with all export and re-export restrictions and regulations of the Department of Commerce and other United States agencies and authorities that may apply to the Amazon Software. If you are a U.S. Government end user, we are licensing the Amazon Software to you as a "Commercial Item" as that term is defined in the U.S. Code of Federal Regulations (see 48 C.F.R. § 2.101), and the rights we grant you to the Amazon Software are the same as the rights we grant to all others under these Conditions of Use.
 
-Read our Conditions of Use here.
+Read our Conditions of Use here. Search Help: **Ask the Community**: Post your question in the General Help Forum or Kindle Help Forum.
