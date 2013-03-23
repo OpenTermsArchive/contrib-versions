@@ -402,3 +402,5 @@ NO WARRANTY
 END OF TERMS AND CONDITIONS FOR GNU LESSER GENERAL PUBLIC LICENSE
 
 © 19982003 Free Software Foundation, Inc.
+
+Search Help: **Ask the Community**: Post your question in the General Help Forum or Kindle Help Forum.
