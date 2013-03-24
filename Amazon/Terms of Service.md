@@ -1,10 +1,10 @@
-Conditions of Use
+**Conditions of Use**  
 
-Last updated: December 5, 2012
+**Last updated: December 5, 2012**
 
 Welcome to Amazon.com. Amazon Services LLC and/or its affiliates ("Amazon") provide website features and other products and services to you when you visit or shop at Amazon.com, use Amazon products or services, use Amazon applications for mobile, or use software provided by Amazon in connection with any of the foregoing (collectively, "Amazon Services"). Amazon provides the Amazon Services subject to the following conditions.
 
-By using Amazon Services, you agree to these conditions. Please read them carefully.
+**By using Amazon Services, you agree to these conditions. Please read them carefully.**
 
 We offer a wide range of Amazon Services, and sometimes additional terms may apply. When you use an Amazon Service (for example, Your Profile, Gift Cards, Amazon Instant Video, Your Media Library, or Amazon applications for mobile) you also will be subject to the guidelines, terms and agreements applicable to that Amazon Service ("Service Terms"). If these Conditions of Use are inconsistent with the Service Terms, those Service Terms will control.
 
@@ -86,7 +86,7 @@ CERTAIN STATE LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSI
 
 **Any dispute or claim relating in any way to your use of any Amazon Service, or to any products or services sold or distributed by Amazon or through Amazon.com will be resolved by binding arbitration, rather than in court**, except that you may assert claims in small claims court if your claims qualify. The Federal Arbitration Act and federal arbitration law apply to this agreement.
 
-There is no judge or jury in arbitration, and court review of an arbitration award is limited. However, an arbitrator can award on an individual basis the same damages and relief as a court (including injunctive and declaratory relief or statutory damages), and must follow the terms of these Conditions of Use as a court would.
+**There is no judge or jury in arbitration, and court review of an arbitration award is limited. However, an arbitrator can award on an individual basis the same damages and relief as a court (including injunctive and declaratory relief or statutory damages), and must follow the terms of these Conditions of Use as a court would.**
 
 To begin an arbitration proceeding, you must send a letter requesting arbitration and describing your claim to our registered agent Corporation Service Company, 300 Deschutes Way SW, Suite 304, Tumwater, WA 98051. The arbitration will be conducted by the American Arbitration Association (AAA) under its rules, including the AAA's Supplementary Procedures for Consumer-Related Disputes. The AAA's rules are available at www.adr.org or by calling 1-800-778-7879. Payment of all filing, administration and arbitrator fees will be governed by the AAA's rules. We will reimburse those fees for claims totaling less than $10,000 unless the arbitrator determines the claims are frivolous. Likewise, Amazon will not seek attorneys' fees and costs in arbitration unless the arbitrator determines the claims are frivolous. You may choose to have the arbitration conducted by telephone, based on written submissions, or in person in the county where you live or at another mutually agreed location.
 
@@ -96,34 +96,41 @@ To begin an arbitration proceeding, you must send a letter requesting arbitratio
 
 By using any Amazon Service, you agree that the Federal Arbitration Act, applicable federal law, and the laws of the state of Washington, without regard to principles of conflict of laws, will govern these Conditions of Use and any dispute of any sort that might arise between you and Amazon.
 
-SITE POLICIES, MODIFICATION, AND SEVERABILITY
+**SITE POLICIES, MODIFICATION, AND SEVERABILITY**
 
 Please review our other policies, such as our pricing policy, posted on this site. These policies also govern your use of Amazon Services. We reserve the right to make changes to our site, policies, Service Terms, and these Conditions of Use at any time. If any of these conditions shall be deemed invalid, void, or for any reason unenforceable, that condition shall be deemed severable and shall not affect the validity and enforceability of any remaining condition.
 
 **OUR ADDRESS**
 
-Amazon.com, Inc.  
-P.O. Box 81226  
-Seattle, WA 98108-1226  
+Amazon.com, Inc.
+
+P.O. Box 81226
+
+Seattle, WA 98108-1226
+
 http://www.amazon.com
 
-**How to Serve a Subpoena**
+**How to Serve a Subpoena**  
 
 If you have a subpoena to serve on Amazon, please note that Amazon does not accept service via e-mail or fax and will not respond to the subpoena. All subpoenas must be properly served on Amazon.com, preferably by mailing the subpoena to Corporation Service Company (CSC), Amazon's national registered agent. Please find below the Washington address for CSC (the CSC office in your jurisdiction may be located through the Secretary of State's website):
 
-Amazon.com, Inc.  
-Corporation Service Company  
-300 Deschutes Way SW, Suite 304  
-Tumwater, WA 98501  
-Attn: Legal Department - Subpoena
+Amazon.com, Inc.
+
+Corporation Service Company
+
+300 Deschutes Way SW, Suite 304
+
+Tumwater, WA 98501
+
+Attn: Legal Department  Subpoena
 
 Please note also that providing detailed and accurate information at the outset will facilitate efficient processing of your request. That information will include, for example, e-mail and/or credit card number used to make purchases for retail purchase information. the name, e-mail, and physical address of a seller for seller information. Kindle serial number for Kindle information (please note we do not have GPS location information). and IP address and complete time stamp for AWS information.
 
-**Notice and Procedure for Making Claims of Copyright Infringement**
+**Notice and Procedure for Making Claims of Copyright Infringement**  
 
 If you believe that your work has been copied in a way that constitutes copyright infringement, please submit your complaint using our online form. We respond quickly to the concerns of rights owners about any alleged infringement.
 
-If you prefer to submit a report in writing, please provide us with this information:  
+If you prefer to submit a report in writing, please provide us with this information:
 
 *   A physical signature of the person authorized to act on behalf of the owner of the copyright interest.
 *   A description of the copyrighted work that you claim has been infringed upon.
@@ -134,25 +141,37 @@ If you prefer to submit a report in writing, please provide us with this informa
 
 Amazon's Copyright Agent for notice of claims of copyright infringement on its site can be reached as follows:
 
-Copyright Agent  
-Amazon.com Legal Department  
-P.O. Box 81226  
-Seattle, WA 98108  
-phone: (206) 266-4064  
-fax: (206) 266-7010  
+Copyright Agent
+
+Amazon.com Legal Department
+
+P.O. Box 81226
+
+Seattle, WA 98108
+
+phone: (206) 266-4064
+
+fax: (206) 266-7010
+
 e-mail: copyright@amazon.com
+
+  
 
 Courier address:
 
-Copyright Agent  
-Amazon.com Legal Department  
-410 Terry Avenue North  
-Seattle, WA 98109-5210  
+Copyright Agent
+
+Amazon.com Legal Department
+
+410 Terry Avenue North
+
+Seattle, WA 98109-5210
+
 USA
 
 Please note that this procedure is exclusively for notifying Amazon that your copyrighted material has been infringed.
 
-Additional Amazon Software Terms
+**Additional Amazon Software Terms**
 
 1.  **Use of the Amazon Software.** You may use Amazon Software solely for purposes of enabling you to use and enjoy the Amazon Services as provided by Amazon, and as permitted by the Conditions of Use, these Software Terms and any Service Terms. You may not incorporate any portion of the Amazon Software into your own programs or compile any portion of it in combination with your own programs, transfer it for use with another service, or sell, rent, lease, lend, loan, distribute or sub-license the Amazon Software or otherwise assign any rights to the Amazon Software in whole or in part. You may not use the Amazon Software for any illegal purpose. We may cease providing any Amazon Software and we may terminate your right to use any Amazon Software at any time. Your rights to use the Amazon Software will automatically terminate without notice from us if you fail to comply with any of these Software Terms, the Conditions of Use or any other Service Terms. Additional third party terms contained within or distributed with certain Amazon Software that are specifically identified in related documentation may apply to that Amazon Software (or software incorporated with the Amazon Software) and will govern the use of such software in the event of a conflict with these Conditions of Use. All software used in any Amazon Service is the property of Amazon or its software suppliers and protected by United States and international copyright laws.
 2.  **Use of Third Party Services.** When you use the Amazon Software, you may also be using the services of one or more third parties, such as a wireless carrier or a mobile platform provider. Your use of these third party services may be subject to the separate policies, terms of use, and fees of these third parties.
@@ -160,4 +179,4 @@ Additional Amazon Software Terms
 4.  **Updates.** In order to keep the Amazon Software up-to-date, we may offer automatic or manual updates at any time and without notice to you.
 5.  **Export Regulations. Government End Users.** You must comply with all export and re-export restrictions and regulations of the Department of Commerce and other United States agencies and authorities that may apply to the Amazon Software. If you are a U.S. Government end user, we are licensing the Amazon Software to you as a "Commercial Item" as that term is defined in the U.S. Code of Federal Regulations (see 48 C.F.R. § 2.101), and the rights we grant you to the Amazon Software are the same as the rights we grant to all others under these Conditions of Use.
 
-Read our Conditions of Use here. Search Help: **Ask the Community**: Post your question in the General Help Forum or Kindle Help Forum.
+Read our Conditions of Use here.
