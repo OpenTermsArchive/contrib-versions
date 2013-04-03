@@ -7,7 +7,16 @@
 *   iTunes
 *   Support
 
-Search TERMS AND CONDITIONS
+Search
+
+*   Hardware
+*   Software
+*   Sales &. Support
+*   Internet Services
+*   Intellectual Property
+*   More Resources
+
+TERMS AND CONDITIONS
 
 A. ITUNES STORE, MAC APP STORE, APP STORE, AND IBOOKSTORE TERMS OF SALE  
 B. ITUNES STORE TERMS AND CONDITIONS  
@@ -459,7 +468,7 @@ b. Consent to Use of Data: You agree that Licensor may collect and use technical
 
 c. Termination. The license is effective until terminated by you or Licensor. Your rights under this license will terminate automatically without notice from the Licensor if you fail to comply with any term(s) of this license. Upon termination of the license, you shall cease all use of the Licensed Application and destroy all copies, full or partial, of the Licensed Application.
 
-d. External Services. Third-Party Materials. The Licensed Application may enable access to Licensor’s and/or third-party services and websites (collectively and individually, "External Services"). Use of the External Services requires Internet access and use of certain External Services requires you to accept additional terms. By using this software in connection with an iTunes Store account, you agree to the latest iTunes Store Terms and Conditions and Usage Rules, which you may access and review at http://www.apple.com/legal/itunes/ww/.
+d. External Services. Third-Party Materials. The Licensed Application may enable access to Licensor’s and/or third-party services and websites (collectively and individually, "External Services"). Use of the External Services requires Internet access and use of certain External Services requires you to accept additional terms. By using this software in connection with an iTunes Store account, you agree to the latest iTunes Store Terms and Conditions and Usage Rules, which you may access and review at http://www.apple.com/legal/internet-services/itunes/ww/.
 
 You understand that by using any of the External Services, you may encounter content that may be deemed offensive, indecent, or objectionable, which content may or may not be identified as having explicit language, and that the results of any search or entering of a particular URL may automatically and unintentionally generate links or references to objectionable material. Nevertheless, you agree to use the External Services at your sole risk and that neither the Licensor nor its agents shall have any liability to you for content that may be found to be offensive, indecent, or objectionable.
 
@@ -503,7 +512,9 @@ Last Updated: December 3, 2012
 
 1.  Home
 2.  Legal
-3.  Terms &. Conditions
+3.  Internet Services
+4.  iTunes
+5.  Terms &. Conditions
 
 Shop the Apple Online Store (1-800-MY-APPLE), visit an Apple Retail Store, or find a reseller.
 
