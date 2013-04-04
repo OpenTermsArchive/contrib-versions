@@ -8,6 +8,7 @@ Skip to contentZillow Real Estate &amp. Homes for Sale
     *   Open Houses
     *   New Homes
     *   Recent Home Sales
+    *   Browse All Homes
     
     Post a Home For Free
     
@@ -96,7 +97,7 @@ Skip to contentZillow Real Estate &amp. Homes for Sale
     *   Gardens
     *   Kitchens
     *   Living Rooms
-*   More _▼_
+*   More
     
     *   What Zillow Offers
     *   Real Estate Advertising
@@ -116,7 +117,7 @@ Skip to contentZillow Real Estate &amp. Homes for Sale
     Zillow Engineering
     
 
-*   For Pros _▼_
+*   For Pros
     *   Agents
     *   Rental Pro
 *   Mobile
