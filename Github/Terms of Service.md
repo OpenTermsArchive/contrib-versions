@@ -100,7 +100,7 @@ G. General Conditions
     
 4.  You must not modify, adapt or hack the Service or modify another website so as to falsely imply that it is associated with the Service, GitHub, or any other GitHub service.
     
-5.  You may use GitHub subdomains (e.g., yourname.github.com) solely as permitted and intended by the GitHub Pages tool to host your company pages, personal pages, or open source project pages, and for no other purpose. You may not use GitHub subdomains in violation of GitHub's trademark or other rights or in violation of applicable law. GitHub reserves the right at all times to reclaim any GitHub subdomain without liability to you.
+5.  You may use GitHub subdomains (e.g., yourname.github.io) solely as permitted and intended by the GitHub Pages tool to host your company pages, personal pages, or open source project pages, and for no other purpose. You may not use GitHub subdomains in violation of GitHub's trademark or other rights or in violation of applicable law. GitHub reserves the right at all times to reclaim any GitHub subdomain without liability to you.
     
 6.  You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Service, use of the Service, or access to the Service without the express written permission by GitHub.
     
