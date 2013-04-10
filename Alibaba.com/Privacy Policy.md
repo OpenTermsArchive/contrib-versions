@@ -1,4 +1,4 @@
-Help Center
+Welcome
 
 *   Buy
     *   How to buy
@@ -6,7 +6,6 @@ Help Center
     *   Download TradeManager
 *   Sell
     *   Newly added RFQs
-    *   How to sell
     *   Display new products
     *   Manage products
     *   Seller Services
@@ -31,7 +30,13 @@ Help Center
     *   Submit a Complaint
     *   Report IPR Infringement
 
-Alibaba.com
+Alibaba.com Shopping online? Buy it now or Post Buying Request Products
+
+*   Products
+*   Suppliers
+*   Buyers
+
+Advanced Search
 
 *   Homepage
 *   Safety &. Security
