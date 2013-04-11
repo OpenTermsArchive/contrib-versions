@@ -1,6 +1,6 @@
 Dropbox Privacy Policy
 
-Last Modified: October 15, 2012
+Last Modified: April 10, 2013
 
 This Privacy Policy provides our policies and procedures for collecting, using, and disclosing your information. Users can access the Dropbox service (the “**Service**”) through our website www.dropbox.com, applications on Devices, through APIs, and through third-parties. A “**Device**” is any computer used to access the Dropbox Service, including without limitation a desktop, laptop, mobile phone, tablet, or other consumer electronic device. This Privacy Policy governs your access of the Dropbox Service, regardless of how you access it, and by using our Services you consent to the collection, transfer, processing, storage, disclosure and other uses described in this Privacy Policy. All of the different forms of data, content, and information described below are collectively referred to as “information.”
 
@@ -46,15 +46,15 @@ If you are a registered user, you may review, update, correct or delete the Pers
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, you may delete your account here. We may retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. Consistent with these requirements, we will try to delete your information quickly upon request. Please note, however, that there might be latency in deleting information from our servers and backed-up versions might exist after deletion. In addition, we do not delete from our servers files that you have in common with other users.
 
-6\. Dropbox for Teams Users
+6\. Dropbox for Business Users
 
-If you have a Dropbox for Teams account, your Administrator may be able to:
+If you have a Dropbox for Business account, your Administrator may be able to:
 
-*   access information in and about your Teams account;
-*   disclose, restrict, or access information that you have provided or that is made available to you when using the Teams account. and
-*   control how your Teams account may be accessed or deleted.
+*   access information in and about your Dropbox for Business account;
+*   disclose, restrict, or access information that you have provided or that is made available to you when using your Dropbox for Business account. and
+*   control how your Dropbox for Business account may be accessed or deleted.
 
-Please refer to your Team's policies if you have questions about your Administrator's rights. 7. Dropbox Community
+Please refer to your organization's policies if you have questions about your Administrator's rights. 7. Dropbox Community
 
 Our Service offers publicly accessible community services such as blogs, forums, and wikis. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. Your posts may remain even after you cancel your account. For questions about your Personal Information on our Service, please contact privacy@dropbox.com.
 
