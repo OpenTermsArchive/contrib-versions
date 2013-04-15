@@ -1,5 +1,6 @@
 *   Find An Agent
-*   CUSTOMER LOG IN
+*   Contact Us
+*   Customer Log In
     *   Forgot User ID or Password?
         
         Get the convenience of online  
@@ -12,51 +13,22 @@
 
 Search:
 
-*   INVESTORS
-    *   Quarterly Investor Info
-    *   SEC Filings
-    *   Statutory Info &. Reports
-    *   Conference Call Archives
-    *   Financial Strengths/Ratings
-    *   Calendar
-*   NEWSROOM
-    *   News Releases
-    *   Executive Bios
-    *   Image Gallery
-    *   Company Information
-    *   Media Contacts
-    *   Sponsorships &. Events
-*   CAREERS
-    *   Job Search
-    *   Career Profiles
-    *   Internships
-    *   Agency Opportunities
-    *   Financial Rep Opportunities
-    *   Working at Allstate
-*   CUSTOMER CARE
-    *   Payment &. Billing
-    *   Manage Your Account
-    *   Register
-    *   Paperless Solutions
-    *   Relocate with Allstate
-    *   Welcome Guide
-*   ABOUT ALLSTATE
-    *   Social Responsibility
-    *   Allstate Overview
-    *   Diversity
-    *   Allstate Foundation
-    *   Teen Driving
-    *   Domestic Violence
-*   PRODUCTS
-    *   Auto Insurance
-    *   Property
-    *   Power Sports
-    *   Life / Retirement
-    *   Business / Other
-    *   Claims
+*   Investors
+    
+*   Newsroom
+    
+*   Careers
+    
+*   Customer Care
+    
+*   About Allstate
+    
+*   Products
+    
 
-HomeAllstate OverviewPrivacy Statement AIC 12 16 20 About Allstate Allstate Overview General Information Products Overview The Agent Difference Foundation Grants Financial and Other Reports History and Timeline Awards and Recognition Senior Leadership Team Board of Directors Executive Speeches Doing Business with Allstate Corporate Advocacy Diversity Corporate Governance Environment Social Responsibility Allstate Foundation Sponsorships &. Events Advertising &. Marketing Allstate Affiliate Program Important Notice Privacy Policy Statement
+About Allstate Allstate Overview General Information Products Overview The Agent Difference Foundation Grants Financial and Other Reports History and Timeline Awards and Recognition Senior Leadership Team Board of Directors Executive Speeches Doing Business with Allstate Corporate Advocacy Diversity Corporate Governance Environment Social Responsibility Allstate Foundation Sponsorships &. Events Advertising &. Marketing Allstate Affiliate Program Home » Allstate Overview » Provacy Statement AIC 12 16 20 Important Notice Privacy Policy Statement
 
+  
   
 
 **Revised August 13, 2012**
@@ -221,6 +193,6 @@ Email: BCPINFO@ag.state.nv.us
 Please note that Allstate's "do not call" list is limited only to telephone solicitation calls. We may still contact you about your Allstate policy, billing issues, claims and other service matters.  
   
 **For Vermont residents:**  
-We won't share your personal information with Allstate companies for marketing purposes except as allowed by Vermont law. AUTOPROPERTYPOWER SPORTSLIFE / RETIREMENTBUSINESS / OTHERCLAIMS Discover Us! Allstate Blog My Allstate Connection Mayhem Allstate Mobile TERMS OF USEPRIVACY STATEMENTUNDERWRITING COMPANIESCONTACT USSITE MAP  
+We won't share your personal information with Allstate companies for marketing purposes except as allowed by Vermont law. INVESTORS NEWSROOM CAREERS CUSTOMER CARE ABOUT ALLSTATE CAR INSURANCE &. OTHER PROCUCTS Discover Us! Allstate Blog Social Networks Mayhem Mobile TERMS OF USEPRIVACY &. SECURITYUNDERWRITING COMPANIESCONTACT USSITE MAP  
   
-© 2013 COPYRIGHT ALLSTATE INSURANCE COMPANY ALL RIGHTS RESERVED
+© 2013 ALLSTATE INSURANCE COMPANY ALL RIGHTS RESERVED
