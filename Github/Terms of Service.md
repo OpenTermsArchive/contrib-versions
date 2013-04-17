@@ -1,3 +1,5 @@
+GitHub Help
+
 *   Contact Support
 *   Back to GitHub
 
@@ -128,8 +130,8 @@ G. General Conditions
 
 *   contact a human
 
+© year GitHub Inc. All rights reserved.
+
 *   Terms of Service
 *   Privacy
 *   Security
-
-© year GitHub Inc. All rights reserved.
