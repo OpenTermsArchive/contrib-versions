@@ -10,7 +10,7 @@ Versions of the Kindle Store Terms of Use in other languages
 For the purposes of this Agreement:
 
   
-"Content Provider" means the party offering Kindle Content in the Kindle Store, which may be us or a third party. however for Kindle Content designated as active content in the Kindle Store, Content Provider means the publisher of the Kindle Content.
+"Content Provider" means the party offering Kindle Content in the Kindle Store, which may be us or a third party. however for Kindle Content designated as active content in the Kindle Store, ?Content Provider? means the publisher of the Kindle Content.
 
   
 "Kindle" means our portable electronic reading devices.
