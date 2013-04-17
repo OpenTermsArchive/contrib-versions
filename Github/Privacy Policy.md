@@ -1,3 +1,5 @@
+GitHub Help
+
 *   Contact Support
 *   Back to GitHub
 
@@ -52,8 +54,8 @@ Any questions about this Privacy Policy should be addressed to support@github.co
 
 *   contact a human
 
+© year GitHub Inc. All rights reserved.
+
 *   Terms of Service
 *   Privacy
 *   Security
-
-© year GitHub Inc. All rights reserved.
