@@ -239,7 +239,7 @@ Variants
 Views
 
 *   Read
-*   Suggest a change
+*   Contribute
 *   View history
 
 Actions
