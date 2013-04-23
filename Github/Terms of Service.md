@@ -129,7 +129,7 @@ G. General Conditions
     
 16.  Questions about the Terms of Service should be sent to support@github.com.
     
-17.  If you are government user or otherwise accessing or using any GitHub service in a government, municipal, or public entity capacity, this Amendment to GitHub Terms of Service shall apply to you.
+17.  If you are a government user or otherwise accessing or using any GitHub service in a government, municipal, or public entity capacity, this Amendment to GitHub Terms of Service shall apply to you.
     
 
 *   contact a human
