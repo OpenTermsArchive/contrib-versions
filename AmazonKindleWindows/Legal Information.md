@@ -46,18 +46,18 @@ Amazon Legal Department
 Seattle, WA 98109-5210  
 USA
 
-C. NOTICES FOR THIRD PARTY SOFTWARE INCLUDED WITH THE APPLICATION 1. Notices for Software Components Licensed Under the MIT License. a. Names and Copyright Notices.- Gesture - ? 2010 Matteo Spinelli, http://cubiq.org/.
+C. NOTICES FOR THIRD PARTY SOFTWARE INCLUDED WITH THE APPLICATION 1. Notices for Software Components Licensed Under the MIT License. a. Names and Copyright Notices.- Gesture - © 2010 Matteo Spinelli, http://cubiq.org/.
 
-\- iScroll 4 - ? 2012 Matteo Spinelli, http://cubiq.org/.  
-\- JQuery JSONP Plugin - ? 2010 Julian Aubourg  
-\- jQuery Mousewheel Plugin - ? 2011 Brandon Aaron (http://brandonaaron.net/).  
+\- iScroll 4 - © 2012 Matteo Spinelli, http://cubiq.org/.  
+\- JQuery JSONP Plugin - © 2010 Julian Aubourg  
+\- jQuery Mousewheel Plugin - © 2011 Brandon Aaron (http://brandonaaron.net/).  
 Amazon elects to use the following software packages under the MIT license:  
-\- jQuery - ? Copyright 2012 jQuery Foundation and other contributors http://jquery.com/.  
-\- jQuery Cookie Plugin - ? 2010 Klaus Hartl (stilbuero.de).  
-\- jQuery DateFormat Plugin - ? 2010 John Resig, http://jquery.com/.  
-\- jQuery Templates Plugin - ? Software Freedom Conservancy, Inc.  
-\- jQuery UI - ?2012 jQuery Foundation and other contributors, http://jqueryui.com/.  
-\- jScrollPane - ? 2010 Kelvin Luck.
+\- jQuery - © Copyright 2012 jQuery Foundation and other contributors http://jquery.com/.  
+\- jQuery Cookie Plugin - © 2010 Klaus Hartl (stilbuero.de).  
+\- jQuery DateFormat Plugin - © 2010 John Resig, http://jquery.com/.  
+\- jQuery Templates Plugin - © Software Freedom Conservancy, Inc.  
+\- jQuery UI - ©2012 jQuery Foundation and other contributors, http://jqueryui.com/.  
+\- jScrollPane - © 2010 Kelvin Luck.
 
 b. MIT License.
 
@@ -79,7 +79,7 @@ THIS SOFTWARE IS PROVIDED BY APPLE COMPUTER, INC. \`\`AS IS'' AND ANY EXPRESS OR
 3\. Notices for YUI.
 
 Certain Mobi8 files used in conjunction with Kindle products include portions of the YUI Library, which is subject to the following license terms:  
-? 2011, Yahoo! Inc. All rights reserved.  
+© 2011, Yahoo! Inc. All rights reserved.  
 Redistribution and use of this software in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
 *   Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
@@ -97,7 +97,7 @@ YUI is issued by Yahoo! under the BSD license above. Below is a list of certain 
 
 4\. Notices for Software Components Licensed Under The Apache License, Version 2.0. a. Names and Copyright Notices.
 
-Google Closure Library. ? 2006 The Closure Library Authors. All Rights Reserved.
+Google Closure Library. © 2006 The Closure Library Authors. All Rights Reserved.
 
 b. Apache License, Version 2.0, January 2004  
 http://www.apache.org/licenses/ (full text)
