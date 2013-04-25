@@ -207,7 +207,7 @@ You may also want to review the following documents, which provide additional in
 *   Facebook Platform Policies: These guidelines outline the policies that apply to applications, including Connect sites.
 *   Advertising Guidelines: These guidelines outline the policies that apply to advertisements placed on Facebook.
 *   Promotions Guidelines: These guidelines outline the policies that apply if you offer contests, sweepstakes, and other types of promotions on Facebook.
-*   Brand Permissions Center: These guidelines outline the policies that apply to use of Facebook trademarks, logos and screenshots.
+*   Facebook Brand Resources: These guidelines outline the policies that apply to use of Facebook trademarks, logos and screenshots.
 *   How to Report Claims of Intellectual Property Infringement
 *   Pages Terms: These guidelines apply to your use of Facebook Pages.
 *   Community Standards: These guidelines outline our expectations regarding the content you post to Facebook and your activity on Facebook.  
