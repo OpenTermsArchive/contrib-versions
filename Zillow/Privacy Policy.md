@@ -31,7 +31,6 @@ Skip to contentZillow Real Estate &amp. Homes for Sale
     
     *   Mortgage Rates
     *   Refinance
-    *   Get Pre-approved
     
     Calculators
     
@@ -92,7 +91,7 @@ Skip to contentZillow Real Estate &amp. Homes for Sale
     
     Compare Places
     
-*   newDigs™
+*   Digs™
     *   Bathrooms
     *   Bedrooms
     *   Gardens
@@ -251,15 +250,12 @@ Please note that this policy may be amended from time to time. You should check 
 
 _— Updated October 2012_
 
-*   About Us
-*   About Zestimates
+*   About
+*   Zestimates
 *   Jobs
 *   Help
-*   Advertising
-*   Terms of Use / Privacy Policy
+*   Advertise
+*   Terms of Use &. Privacy Policy
+*   Blog
 
-*   Zillow Research
-*   Zillow Blog
-
-*   Yahoo!-Zillow Real Estate Network
-*   © 2006-2013 Zillow
+Yahoo!-Zillow Real Estate Network© 2006-2013 ZillowFollow us TwitterFacebookGoogle Plus
