@@ -9,10 +9,12 @@ Welcome
     *   Display new products
     *   Manage products
     *   Seller Services
-*   Community
-    *   Forums
     *   Trade Shows
-    *   Success Stories
+*   Community
+    *   Trade Intelligence
+    *   Discussion Forums
+    *   Site Resources
+*   Get insights, Connect, Grow
 *   My Alibaba
     *   Message Center
     *   Display new products
@@ -36,7 +38,7 @@ Alibaba.com Shopping online? Buy it now or Post Buying Request Products
 *   Suppliers
 *   Buyers
 
-Advanced Search
+**Popular Searches:** electric scooter, digital photo frame, air conditioner, three wheel motorcycle, batteries, car dvd, concrete mixer, baby car seat Advanced Search
 
 *   Homepage
 *   Safety &. Security
