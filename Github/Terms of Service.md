@@ -1,7 +1,7 @@
 GitHub Help
 
 *   Contact Support
-*   Back to GitHub
+*   Return to GitHub
 
 Site Policy / GitHub Terms of Service Search GitHub Terms of Service
 
