@@ -1,7 +1,7 @@
 GitHub Help
 
 *   Contact Support
-*   Back to GitHub
+*   Return to GitHub
 
 Site Policy / GitHub Privacy Policy Search GitHub Privacy Policy
 
