@@ -7,7 +7,7 @@ Remember Me Forgot Password?
 
 Please confirm your email address. Resend Confirmation Link
 
-No account found for this email. Retry, or Sign up for Quora.Incorrect password. Reset Password
+No account found for this email. Retry, or Sign up for Quora.Incorrect password. Reset Password By logging in, you indicate that you have read and agree to the Terms of Service.
 
 *   About
 *   Team
