@@ -6,7 +6,6 @@ Search Search Windstream.com Search or Cancel
 *   My account
     *   Check my email
     *   View or pay my bill
-    *   Submit or track rebate
     *   Move my service
     *   Go to Windstream.net
 
