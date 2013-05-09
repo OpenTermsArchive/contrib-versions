@@ -13,13 +13,18 @@ My Cart (Edit) My Location_:_ SAN ANTONIO, TX
 
 *   High-Speed Internet
 *   Digital TV
-*   Phone
+*   Home Phone
 *   Electronics
 *   Support
+    
+    *   Support Center
+    *   Meet Wendy
+    *   Live Chat
+    
 
 *   High-Speed Internet
 *   Digital TV
-*   Phone
+*   Home Phone
 *   Electronics
 *   Support
 
