@@ -1,11 +1,3 @@
-Policies &. Principles
-
-1.  Overview
-2.  Terms of Service
-
-*   Terms of Service
-*   Archive
-
 Google Terms of Service
 
 Last modified: March 1, 2012
@@ -103,27 +95,3 @@ If it turns out that a particular term is not enforceable, this will not affect 
 The laws of California, U.S.A., excluding California’s conflict of laws rules, will apply to any disputes arising out of or relating to these terms or the Services. All claims arising out of or relating to these terms or the Services will be litigated exclusively in the federal or state courts of Santa Clara County, California, USA, and you and Google consent to personal jurisdiction in those courts.
 
 For information about how to contact Google, please visit our contact page.
-
-Good to Know
-
-*   Our Good to Know site helps you stay safe and protect your family’s information online. Visit to learn more
-
-Technologies
-
-*   Technologies and Principles
-*   Advertising
-*   How Google uses cookies
-*   Types of cookies used by Google
-*   Managing cookies in your browser
-
-Legal policies
-
-*   Privacy Policy
-*   Terms of Service
-*   FAQ
-
-Afrikaans Bahasa Indonesia Bahasa Melayu Català Čeština Dansk Deutsch Eesti English English (United Kingdom) Español Español (Latinoamérica) Euskara Filipino Français Français (Canada) Galego Hrvatski Isizulu Íslenska Italiano Kiswahili Latviešu Lietuvių Magyar Nederlands Norsk Polski Português (Brasil) Português (Portugal) Română Slovenčina Slovenščina Suomi Svenska Tiếng Việt Türkçe Ελληνικά Български Русский Српски Українська עברית اردو العربية فارسی አማርኛ मराठी हिन्दी বাংলা ગુજરાતી தமிழ் తెలుగు ಕನ್ನಡ മലയാളം ไทย 한국어 中文 (中国) 中文 (台灣) 中文 (香港) 日本語
-
-*   Google
-*   About Google
-*   Privacy &. Terms
