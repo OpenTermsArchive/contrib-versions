@@ -1,7 +1,3 @@
-Get the official Twitpic for iPhone or Twitpic for Android apps
-
-*   Login or Register
-
 Terms of Service
 
 Date Modified: May 10th, 2011
@@ -89,7 +85,3 @@ C. Repeat Infringers. Twitpic will terminate the access privileges of any user w
 
 **United States of America Federal Agencies**  
 Use by U.S.A. federal agencies will follow the amended terms found here.
-
-©2013 Twitpic Inc, All Rights Reserved
-
-Home FAQ Contact API Advertise Terms Privacy
