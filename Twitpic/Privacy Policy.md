@@ -1,7 +1,3 @@
-Get the official Twitpic for iPhone or Twitpic for Android apps
-
-*   Login or Register
-
 Twitpic Privacy Policy
 
 **This Privacy Policy is effective as of February 1, 2008.**
@@ -89,7 +85,3 @@ Address:
 TwitPic Inc.  
 PO Box 22126  
 Charleston, SC 29413
-
-©2013 Twitpic Inc, All Rights Reserved
-
-Home FAQ Contact API Advertise Terms Privacy
