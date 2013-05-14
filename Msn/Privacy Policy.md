@@ -1,5 +1,4 @@
-Click Here to Install Silverlight United States Change | All Microsoft Sites Search Microsoft.com for:  
-Microsoft Online Privacy Statement Supplemental Privacy Information • Bing • Messenger • Microsoft Advertising • Microsoft Employment Candidates • Microsoft Tag Reader • MSN • Office.com • Support Services • Windows Live • Windows Live ID • WindowsMedia.com • Xbox LIVE, Games for Windows LIVE and Xbox.com Related Links • FTC Privacy Initiatives • Security at Home • Silverlight Privacy Statement • Trustworthy Computing
+Microsoft Online Privacy Statement
 
 (last updated April 2012)  
 view the privacy statement highlights
@@ -222,5 +221,4 @@ To find the Microsoft subsidiary in your country or region, see http://www.micro
 Anti-Spam Policy
 
   
-Top of page  
-Manage Your Profile |Contact Us © 2013 Microsoft Corporation. All rights reserved. Contact Us |Terms of Use |Trademarks |Privacy Statement
+Top of page
