@@ -3,7 +3,7 @@ GitHub Help
 *   Contact Support
 *   Return to GitHub
 
-Site Policy / GitHub Privacy Policy Search GitHub Privacy Policy
+Site Policy / GitHub Privacy Policy Search Article last updated on 19-Apr-13 GitHub Privacy Policy
 
 *   mac
 *   windows
