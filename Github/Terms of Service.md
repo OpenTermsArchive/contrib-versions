@@ -3,7 +3,7 @@ GitHub Help
 *   Contact Support
 *   Return to GitHub
 
-Site Policy / GitHub Terms of Service Search GitHub Terms of Service
+Site Policy / GitHub Terms of Service Search Article last updated on 22-Apr-13 GitHub Terms of Service
 
 *   mac
 *   windows
