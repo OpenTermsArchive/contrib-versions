@@ -587,7 +587,7 @@ That's all there is to it!
 
 \--- begin of LICENSE ---
 
-Copyright ? 2001,2003 Keith Packard
+Copyright ¬© 2001,2003 Keith Packard
 
 Permission to use, copy, modify, distribute, and sell this software and its documentation for any purpose is hereby granted without fee, provided that the above copyright notice appear in all copies and that both that copyright notice and this permission notice appear in supporting documentation, and that the name of Keith Packard not be used in advertising or publicity pertaining to distribution of the software without specific, written prior permission. Keith Packard makes no representations about the suitability of this software for any purpose. It is provided "as is" without express or implied warranty.
 
@@ -1188,12 +1188,12 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 Unicode Terms of Use
 
-For the general privacy policy governing access to this site, see the Unicode Privacy Policy. For trademark usage, see the Unicode? Consortium Name and Trademark Usage Policy.
+For the general privacy policy governing access to this site, see the Unicode Privacy Policy. For trademark usage, see the Unicode® Consortium Name and Trademark Usage Policy.
 
 A. Unicode Copyright.
 
-1.  Copyright ? 1991-2011 Unicode, Inc. All rights reserved.
-2.  Certain documents and files on this website contain a legend indicating that "Modification is permitted." Any person is hereby authorized, without fee, to modify such documents and files to create derivative works conforming to the Unicode? Standard, subject to Terms and Conditions herein.
+1.  Copyright © 1991-2011 Unicode, Inc. All rights reserved.
+2.  Certain documents and files on this website contain a legend indicating that "Modification is permitted." Any person is hereby authorized, without fee, to modify such documents and files to create derivative works conforming to the Unicode® Standard, subject to Terms and Conditions herein.
 3.  Any person is hereby authorized, without fee, to view, use, reproduce, and distribute all documents and files solely for informational purposes in the creation of products supporting the Unicode Standard, subject to the Terms and Conditions herein.
 4.  Further specifications of rights and restrictions pertaining to the use of the particular set of data files known as the "Unicode Character Database" can be found in Exhibit 1.
 5.  Each version of the Unicode Standard has further specifications of rights and restrictions of use. For the book editions (Unicode 5.0 and earlier), these are found on the back of the title page. The online code charts carry specific restrictions. All other files, including online documentation of the core specification for Unicode 6.0 and later, are covered under these general Terms of Use.
@@ -1212,15 +1212,15 @@ D. Waiver of Damages. In no event shall Unicode or its licensors be liable for a
 
 E.Trademarks &. Logos.
 
-1.  The Unicode Word Mark and the Unicode Logo are trademarks of Unicode, Inc. "The Unicode Consortium" and "Unicode, Inc." are trade names of Unicode, Inc. Use of the information and materials found on this website indicates your acknowledgement of Unicode, Inc.?s exclusive worldwide rights in the Unicode Word Mark, the Unicode Logo, and the Unicode trade names.
+1.  The Unicode Word Mark and the Unicode Logo are trademarks of Unicode, Inc. "The Unicode Consortium" and "Unicode, Inc." are trade names of Unicode, Inc. Use of the information and materials found on this website indicates your acknowledgement of Unicode, Inc.s exclusive worldwide rights in the Unicode Word Mark, the Unicode Logo, and the Unicode trade names.
 2.  The Unicode Consortium Name and Trademark Usage Policy ("Trademark Policy") are incorporated herein by reference and you agree to abide by the provisions of the Trademark Policy, which may be changed from time to time in the sole discretion of Unicode, Inc.
 3.  All third party trademarks referenced herein are the property of their respective owners.
 
 Miscellaneous.
 
 1.  Jurisdiction and Venue. This server is operated from a location in the State of California, United States of America. Unicode makes no representation that the materials are appropriate for use in other locations. If you access this server from other locations, you are responsible for compliance with local laws. This Agreement, all use of this site and any claims and damages resulting from use of this site are governed solely by the laws of the State of California without regard to any principles which would apply the laws of a different jurisdiction. The user agrees that any disputes regarding this site shall be resolved solely in the courts located in Santa Clara County, California. The user agrees said courts have personal jurisdiction and agree to waive any right to transfer the dispute to any other forum.
-2.  Modification by Unicode. Unicode shall have the right to modify this Agreement at any time by posting it to this site. The user may not assign any part of this Agreement without Unicode?s prior written consent.
-3.  Taxes. The user agrees to pay any taxes arising from access to this website or use of the information herein, except for those based on Unicode?s net income.
+2.  Modification by Unicode. Unicode shall have the right to modify this Agreement at any time by posting it to this site. The user may not assign any part of this Agreement without Unicodes prior written consent.
+3.  Taxes. The user agrees to pay any taxes arising from access to this website or use of the information herein, except for those based on Unicodes net income.
 4.  Severability. If any provision of this Agreement is declared invalid or unenforceable, the remaining provisions of this Agreement shall remain in effect.
 5.  Entire Agreement. This Agreement constitutes the entire agreement between the parties.
 
@@ -1234,7 +1234,7 @@ NOTICE TO USER: Carefully read the following legal agreement. BY DOWNLOADING, IN
 
 COPYRIGHT AND PERMISSION NOTICE
 
-Copyright ? 1991-2011 Unicode, Inc. All rights reserved. Distributed under the Terms of Use in http://www.unicode.org/copyright.html.
+Copyright © 1991-2011 Unicode, Inc. All rights reserved. Distributed under the Terms of Use in http://www.unicode.org/copyright.html.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of the Unicode data files and any associated documentation (the "Data Files") or Unicode software and any associated documentation (the "Software") to deal in the Data Files or Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, and/or sell copies of the Data Files or Software, and to permit persons to whom the Data Files or Software are furnished to do so, provided that (a) the above copyright notice(s) and this permission notice appear with all copies of the Data Files or Software, (b) both the above copyright notice(s) and this permission notice appear in associated documentation, and (c) there is clear notice in each modified Data File or in the Software as well as in the documentation associated with the Data File(s) or Software that the data or software has been modified.
 
