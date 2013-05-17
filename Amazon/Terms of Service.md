@@ -122,7 +122,7 @@ Corporation Service Company
 
 Tumwater, WA 98501
 
-Attn: Legal Department ? Subpoena
+Attn: Legal Department  Subpoena
 
 Please note also that providing detailed and accurate information at the outset will facilitate efficient processing of your request. That information will include, for example, e-mail and/or credit card number used to make purchases for retail purchase information. the name, e-mail, and physical address of a seller for seller information. Kindle serial number for Kindle information (please note we do not have GPS location information). and IP address and complete time stamp for AWS information.
 
@@ -177,6 +177,6 @@ Please note that this procedure is exclusively for notifying Amazon that your co
 2.  **Use of Third Party Services.** When you use the Amazon Software, you may also be using the services of one or more third parties, such as a wireless carrier or a mobile platform provider. Your use of these third party services may be subject to the separate policies, terms of use, and fees of these third parties.
 3.  **No Reverse Engineering.** You may not, and you will not encourage, assist or authorize any other person to copy, modify, reverse engineer, decompile or disassemble, or otherwise tamper with, the Amazon Software, whether in whole or in part, or create any derivative works from or of the Amazon Software.
 4.  **Updates.** In order to keep the Amazon Software up-to-date, we may offer automatic or manual updates at any time and without notice to you.
-5.  **Export Regulations. Government End Users.** You must comply with all export and re-export restrictions and regulations of the Department of Commerce and other United States agencies and authorities that may apply to the Amazon Software. If you are a U.S. Government end user, we are licensing the Amazon Software to you as a "Commercial Item" as that term is defined in the U.S. Code of Federal Regulations (see 48 C.F.R. ? 2.101), and the rights we grant you to the Amazon Software are the same as the rights we grant to all others under these Conditions of Use.
+5.  **Export Regulations. Government End Users.** You must comply with all export and re-export restrictions and regulations of the Department of Commerce and other United States agencies and authorities that may apply to the Amazon Software. If you are a U.S. Government end user, we are licensing the Amazon Software to you as a "Commercial Item" as that term is defined in the U.S. Code of Federal Regulations (see 48 C.F.R. § 2.101), and the rights we grant you to the Amazon Software are the same as the rights we grant to all others under these Conditions of Use.
 
 Read our Conditions of Use here. Search Help: **Ask the Community**: Post your question in the General Help Forum or Kindle Help Forum.
