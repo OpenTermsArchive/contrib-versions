@@ -12,7 +12,7 @@ Amazon, the Amazon logo, Kindle, the Amazon Kindle logo, and Whispersync are tra
 
 3\. Copyright Notices  
 
-Kindle App software ? 2010-2012 Amazon.com, Inc. or its affiliates.  All rights reserved.
+Kindle App software © 2010-2012 Amazon.com, Inc. or its affiliates.  All rights reserved.
 
 4\. Other Notices
 
@@ -39,13 +39,13 @@ Amazon's Copyright Agent for notice of claims of copyright infringement can be r
 
 C. NOTICES FOR THIRD PARTY SOFTWARE INCLUDED WITH THE APPLICATION
 
-1\. Notices for the Free Type Project.Portions of this software are copyright ? 2005-2010 The Free Type Project (www.freetype.org). All rights reserved.
+1\. Notices for the Free Type Project.Portions of this software are copyright © 2005-2010 The Free Type Project (www.freetype.org). All rights reserved.
 
 Amazon.com, Inc. and its affiliates elect to use the FreeType Project code under the FreeType Project License (http://freetype.sourceforge.net/FTL.TXT).
 
 2\. Notices for HarfBuzz Software.
 
-? 2011 Codethink Limited. ? 2010, 2011 Google, Inc. ? 2006 Behdad Esfahbod. ? 2009 Keith Stribley. ? 2009 Martin Hosken and SIL International. ? 2007 Chris Wilson. ? 2004, 2007, 2008, 2009, 2010 Red Hat, Inc. ? 1998-2004 David Turner and Werner Lemberg.
+© 2011 Codethink Limited. © 2010, 2011 Google, Inc. © 2006 Behdad Esfahbod. © 2009 Keith Stribley. © 2009 Martin Hosken and SIL International. © 2007 Chris Wilson. © 2004, 2007, 2008, 2009, 2010 Red Hat, Inc. © 1998-2004 David Turner and Werner Lemberg.
 
 For full copyright notices consult the individual files in the package.
 
@@ -59,11 +59,11 @@ THE COPYRIGHT HOLDER SPECIFICALLY DISCLAIMS ANY WARRANTIES, INCLUDING, BUT NOT L
 
 a. Names and Copyright Notices.
 
-\- giflib ? ? 1997  Eric S. Raymond.
+\- giflib  © 1997  Eric S. Raymond.
 
-\- libxml2 - ? 1998-2003 Daniel Veillard. All Rights Reserved.
+\- libxml2 - © 1998-2003 Daniel Veillard. All Rights Reserved.
 
-\- libxslt - ? 2001-2002 Daniel Veillard. All Rights Reserved.
+\- libxslt - © 2001-2002 Daniel Veillard. All Rights Reserved.
 
 b. MIT License (full text)
 
@@ -77,13 +77,13 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 a. Names and Copyright Notices.
 
-\- Android Bionic Linker - ? 2007-2011 The Android Open Source Project.
+\- Android Bionic Linker - © 2007-2011 The Android Open Source Project.
 
-\- Apache Commons Codec - ? 2002-2009 The Apache Software Foundation. This product includes software developed by The Apache Software Foundation (http://www.apache.org/).
+\- Apache Commons Codec - © 2002-2009 The Apache Software Foundation. This product includes software developed by The Apache Software Foundation (http://www.apache.org/).
 
-\- Fragment Support - ? 2005-2011 The Android Open Source Project.
+\- Fragment Support - © 2005-2011 The Android Open Source Project.
 
-\- Skia - ? 2006 The Android Open Source Project.
+\- Skia - © 2006 The Android Open Source Project.
 
 \- Android Java API Implementations - Copyright (c) 2007-2012, The Android Open Source Project
 
@@ -145,7 +145,7 @@ END OF TERMS AND CONDITIONS
 
 5\. Notices for ICU Software.
 
-? 1995-2011 International Business Machines Corporation and others.
+© 1995-2011 International Business Machines Corporation and others.
 
 All rights reserved.
 
@@ -157,11 +157,11 @@ Except as contained in this notice, the name of a copyright holder shall not be 
 
 6\. Notices for Libjpeg Software.
 
-? 1991-1998, Thomas G. Lane. This software is based in part on the work of the Independent JPEG Group.
+© 1991-1998, Thomas G. Lane. This software is based in part on the work of the Independent JPEG Group.
 
 7\. Notices for Cxlmage Software.
 
-? 07/Aug/2001, Davide Pizzolato.
+© 07/Aug/2001, Davide Pizzolato.
 
 This software is provided 'as-is', without any express or implied warranty. In no event will the authors be held liable for any damages arising from the use of this software.
 
@@ -183,17 +183,17 @@ If you modify libpng you may insert additional notices immediately following thi
 
 This code is released under the libpng license.
 
-libpng versions 1.2.6, August 15, 2004, through 1.5.8, February 1, 2012, are ? 2004, 2006-2011 Glenn Randers-Pehrson, and are distributed according to the same disclaimer and license as libpng-1.2.5 with the following individual added to the list of Contributing Authors   Cosmin Truta
+libpng versions 1.2.6, August 15, 2004, through 1.5.8, February 1, 2012, are © 2004, 2006-2011 Glenn Randers-Pehrson, and are distributed according to the same disclaimer and license as libpng-1.2.5 with the following individual added to the list of Contributing Authors   Cosmin Truta
 
-libpng versions 1.0.7, July 1, 2000, through 1.2.5 - October 3, 2002, are ? 2000-2002 Glenn Randers-Pehrson, and are distributed according to the same disclaimer and license as libpng-1.0.6 with the following individuals added to the list of Contributing Authors   Simon-Pierre Cadieux   Eric S. Raymond   Gilles Vollantand with the following additions to the disclaimer:
+libpng versions 1.0.7, July 1, 2000, through 1.2.5 - October 3, 2002, are © 2000-2002 Glenn Randers-Pehrson, and are distributed according to the same disclaimer and license as libpng-1.0.6 with the following individuals added to the list of Contributing Authors   Simon-Pierre Cadieux   Eric S. Raymond   Gilles Vollantand with the following additions to the disclaimer:
 
 There is no warranty against interference with your enjoyment of the library or against infringement.  There is no warranty that our efforts or the library will fulfill any of your particular purposes or needs.  This library is provided with all faults, and the entire risk of satisfactory quality, performance, accuracy, and effort is with the user.
 
-libpng versions 0.97, January 1998, through 1.0.6, March 20, 2000, are ? 1998, 1999 Glenn Randers-Pehrson, and are distributed according to the same disclaimer and license as libpng-0.96, with the following individuals added to the list of Contributing Authors:   Tom Lane   Glenn Randers-Pehrson   Willem van Schaik
+libpng versions 0.97, January 1998, through 1.0.6, March 20, 2000, are © 1998, 1999 Glenn Randers-Pehrson, and are distributed according to the same disclaimer and license as libpng-0.96, with the following individuals added to the list of Contributing Authors:   Tom Lane   Glenn Randers-Pehrson   Willem van Schaik
 
-libpng versions 0.89, June 1996, through 0.96, May 1997, are ? 1996, 1997 Andreas Dilger and distributed according to the same disclaimer and license as libpng-0.88, with the following individuals added to the list of Contributing Authors:   John Bowler   Kevin Bracey   Sam Bushell   Magnus Holmgren   Greg Roelofs   Tom Tanner
+libpng versions 0.89, June 1996, through 0.96, May 1997, are © 1996, 1997 Andreas Dilger and distributed according to the same disclaimer and license as libpng-0.88, with the following individuals added to the list of Contributing Authors:   John Bowler   Kevin Bracey   Sam Bushell   Magnus Holmgren   Greg Roelofs   Tom Tanner
 
-libpng versions 0.5, May 1995, through 0.88, January 1996, are ? 1995, 1996 Guy Eric Schalnat, Group 42, Inc.
+libpng versions 0.5, May 1995, through 0.88, January 1996, are © 1995, 1996 Guy Eric Schalnat, Group 42, Inc.
 
 For the purposes of this copyright and license, "Contributing Authors" is defined as the following set of individuals:
 
@@ -239,13 +239,13 @@ b. Names and Copyright Notices
 
 The following are the names of the Webkit Software used with this product and the copyright notices for the Webkit Software:
 
-\- WebKit, WebCore, and JavaScriptCore - ? 1997-2011 Various contributors including 280 North Inc., Alex Mathews, Alexander Kellett, Alexey Proskuryakov, Allan Sandfeld Jensen, Alp Toker, Anders Carlsson, Andrew Wellington, Anthony Ricaud, Antti Koivisto, Apple Inc., Bjoern Graf, Brent Fulgham, Cameron Zwarich, Charlie Bozeman, Christian Dywan, Christopher J. Madsen, Collabora Ltd., Collin Jackson, Cyrus Patel, Daniel Molkentin, Daniel Veillard, Dave MacLachlan, David Levin, David Smith, Dawit Alemayehu, Diego Escalante Urrelo, Dirk Mueller, Dirk Schulze, Eric Seidel, Frederik Holljen, Free Software Foundation Inc., Frerich Raabe, George Staikos, Google Inc., Graham Dennis, Gustavo Noronha Silva, Harri Porten, Henry Mason, Hiroyuki Ikezoe, Holger Hans Peter Freyther, Igalia S.L., International Business Machines, James G. Speth, Jan Alonzo, Jean-loup Gailly, Jian Li, Jon Shier, Josh MacDonald, Julien Chaffraix, Justin Haygood, Kelvin W Sherlock, Kevin Ollivier, Kimmo Kinnunen, Kouhei Sutou, Krzysztof Kowalczyk, Lars Knoll, Luca Bruno, Lucent Technologies, Maksim Orlovich, Mark Adler, Martin Jones, Matt Lilek, Michael Emmel, mozilla.org, Nicholas Shanks, Nikolas Zimmermann, Nokia Corporation, Novell Inc., Nuanti Ltd., Oliver Hunt, OpenedHand, Paul Pedriana, Peter Kelly, Peter Mattis, Pioneer Research Center USA Inc., Red Hat Inc., Rob Buis, Ronald Tschal?r, Samuel Weinig, Simon Hausmann, Spencer Kimball, Stefan Schimanski, Symantec Corporation, The GLib Team, The Karbon Developers, Thomas Broyer, Tobias Anton, Tony Chang, Torben Weis, Torch Mobile Inc., University of Cambridge, Waldo Bastian, Xan Lopez, Zack Rusin.
+\- WebKit, WebCore, and JavaScriptCore - © 1997-2011 Various contributors including 280 North Inc., Alex Mathews, Alexander Kellett, Alexey Proskuryakov, Allan Sandfeld Jensen, Alp Toker, Anders Carlsson, Andrew Wellington, Anthony Ricaud, Antti Koivisto, Apple Inc., Bjoern Graf, Brent Fulgham, Cameron Zwarich, Charlie Bozeman, Christian Dywan, Christopher J. Madsen, Collabora Ltd., Collin Jackson, Cyrus Patel, Daniel Molkentin, Daniel Veillard, Dave MacLachlan, David Levin, David Smith, Dawit Alemayehu, Diego Escalante Urrelo, Dirk Mueller, Dirk Schulze, Eric Seidel, Frederik Holljen, Free Software Foundation Inc., Frerich Raabe, George Staikos, Google Inc., Graham Dennis, Gustavo Noronha Silva, Harri Porten, Henry Mason, Hiroyuki Ikezoe, Holger Hans Peter Freyther, Igalia S.L., International Business Machines, James G. Speth, Jan Alonzo, Jean-loup Gailly, Jian Li, Jon Shier, Josh MacDonald, Julien Chaffraix, Justin Haygood, Kelvin W Sherlock, Kevin Ollivier, Kimmo Kinnunen, Kouhei Sutou, Krzysztof Kowalczyk, Lars Knoll, Luca Bruno, Lucent Technologies, Maksim Orlovich, Mark Adler, Martin Jones, Matt Lilek, Michael Emmel, mozilla.org, Nicholas Shanks, Nikolas Zimmermann, Nokia Corporation, Novell Inc., Nuanti Ltd., Oliver Hunt, OpenedHand, Paul Pedriana, Peter Kelly, Peter Mattis, Pioneer Research Center USA Inc., Red Hat Inc., Rob Buis, Ronald Tschalär, Samuel Weinig, Simon Hausmann, Spencer Kimball, Stefan Schimanski, Symantec Corporation, The GLib Team, The Karbon Developers, Thomas Broyer, Tobias Anton, Tony Chang, Torben Weis, Torch Mobile Inc., University of Cambridge, Waldo Bastian, Xan Lopez, Zack Rusin.
 
 D. FULL TEXT FOR CERTAIN SOFTWARE LICENSES.
 
 GNU LESSER GENERAL PUBLIC LICENSE
 
-Version 2.1, February 1999. ? 1991, 1999 Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA. Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+Version 2.1, February 1999. © 1991, 1999 Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA. Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
 
 \[This is the first released version of the Lesser GPL. It also counts as the successor of the GNU Library Public License, version 2, hence the version number 2.1.\]
 
@@ -383,6 +383,6 @@ NO WARRANTY
 
 15\. BECAUSE THE LIBRARY IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY FOR THE LIBRARY, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE LIBRARY "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE LIBRARY IS WITH YOU. SHOULD THE LIBRARY PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
 
-16\. IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY AND/OR REDISTRIBUTE THE LIBRARY AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE LIBRARY (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE LIBRARY TO OPERATE WITH ANY OTHER SOFTWARE), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.END OF TERMS AND CONDITIONS FOR GNU LESSER GENERAL PUBLIC LICENSE? 1998 - 2003 Free Software Foundation, Inc.
+16\. IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY AND/OR REDISTRIBUTE THE LIBRARY AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE LIBRARY (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE LIBRARY TO OPERATE WITH ANY OTHER SOFTWARE), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.END OF TERMS AND CONDITIONS FOR GNU LESSER GENERAL PUBLIC LICENSE© 1998 - 2003 Free Software Foundation, Inc.
 
 Search Help: **Ask the Community**: Post your question in the General Help Forum or Kindle Help Forum.
