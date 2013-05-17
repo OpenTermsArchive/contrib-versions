@@ -6,7 +6,7 @@ The Amazon App Suite and related apps, widget, software and/or methods used in a
 **2\. Trademark Notices**  
 Amazon, Kindle, Amazon Appstore, Amazon MP3, IMDb, Zappos, Audible, and their associated logos are trademarks of Amazon.com, Inc. or its affiliates.  
 **3\. Copyright Notices**  
-Amazon App Suite widget software ? 2011-2013 Amazon.com, Inc. or its affiliates. All rights reserved.  
+Amazon App Suite widget software © 2011-2013 Amazon.com, Inc. or its affiliates. All rights reserved.  
 **4\. Other Notices**  
 All other brands, product names, company names, trademarks, and service marks are the properties of their respective owners.
 
