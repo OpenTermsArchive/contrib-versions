@@ -219,6 +219,32 @@ My Cart (Edit) My Location_:_ SAN ANTONIO, TX
     **• Wireless Data Backup** is for backup purposes only. Maximum bandwidth is 2MG regardless of the amount of bandwidth a customer has. Customer may not remove the wireless card from the service address. Real time quality of service is not available. Availability and speeds are not guaranteed and are affected by wireless strength.
     
 
+*   High-Speed Internet
+*   Digital TV
+*   Phone
+*   Electronics
+*   Support
+*   Store Finder
+*   Windstream Overview
+*   Careers
+*   Investor Relations
+*   News
+*   Windstream.net
+
+Windstream is one of the largest providers of telecommunications services in rural communities in the United States, and we are a customer-focused telecommunications company that provides phone, high-speed Internet and digital television services. We also offer a wide range of IP-based voice and data services and advanced phone systems and equipment to businesses and government agencies.
+
+Copyright © Windstream Communications. All rights reserved.
+
+*   Privacy Policy
+*   Terms and Conditions
+*   Legal Notices
+*   Windstream Broadband Network Statement
+*   Site Map
+
+*   FIND US ON
+*   Twitter
+*   Facebook
+
 Let's Get Started!
 
 Please let us know who you are so we can check for the available services to your home!
