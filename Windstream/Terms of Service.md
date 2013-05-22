@@ -12,7 +12,15 @@ Search Search Windstream.com Search or Cancel
 My Cart (Edit) My Location_:_ SAN ANTONIO, TX
 
 *   High-Speed Internet
+    
+    *   Bundles
+    *   Plans
+    
 *   Digital TV
+    
+    *   Bundles
+    *   Plans
+    
 *   Home Phone
 *   Electronics
 *   Support
