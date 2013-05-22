@@ -81,7 +81,7 @@ In consideration of 500px’s agreement to allow you to post Content to the Site
 
 500px maintains a fair usage policy to ensure stable and fast service to all users.
 
-Free accounts are limited to a maximum of 10 new photographs/images per week and 2,000 photographs/images in total (approximately 60Gb of storage) and 1Gb of data transfer from profile and portfolios per month. Any additional usage may result in restrictions on your account including limited access to your portfolio or a requirement to upgrade if the limit is exceeded for several months.
+Free accounts are limited to a maximum of 20 new photographs/images per week and 2,000 photographs/images in total (approximately 60Gb of storage) and 1Gb of data transfer from profile and portfolios per month. Any additional usage may result in restrictions on your account including limited access to your portfolio or a requirement to upgrade if the limit is exceeded for several months.
 
 Premium accounts are limited to maximum of 1,000 new photographs/images per week 100,000 photographs/ images in total (approximately 3,000Gb of storage) and 10Gb of data transfer per month. Awesome accounts that exceed a limit for several months will be notified of their usage and restrictions may be imposed if usage is not corrected.
 
