@@ -33,8 +33,8 @@ What _not_ to do
     Flickr is not a venue for you to harass, abuse, impersonate, or intimidate others. If we receive a valid complaint about your conduct, we’ll send you a warning or delete your account.
 *   **Don’t be creepy.**  
     You know the guy. Don't be that guy.
-*   **Don’t use your account to host web graphics, like logos and banners.**  
-    If we find you using your account to host graphic elements of web page designs, logos, icons, and other non-photographic elements on other web sites, we will warn you or delete your account.
+*   **Don't use your account to host web graphics, like logos and banners, or as a replacement for a content distribution network.**  
+    If we find you using your account to host generic graphic elements of web page designs, logos, icons, and other non-photographic elements on other web sites, or if you show suspicious upload behavior that impacts the stability of our servers, we will warn you or delete your account.
 *   **Don’t use Flickr to sell.**  
     If we find you engaging in commercial activity, we will warn you or delete your account. Some examples include selling products, services, or yourself through your photostream or in a group, using your account solely as a product catalog, or linking to commercial sites in your photostream. If you engage in commercial activity elsewhere on the internets or in the real world, you’re still welcome on Flickr—in fact, we’ve even set up some best practices especially for you.
 
