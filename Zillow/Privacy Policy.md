@@ -23,8 +23,6 @@ Skip to contentZillow Real Estate &amp. Homes for Sale
     *   Apartments For Rent
     *   Houses For Rent
     
-    Tools
-    
     Post a Rental For Free
     
 *   Mortgage Rates
