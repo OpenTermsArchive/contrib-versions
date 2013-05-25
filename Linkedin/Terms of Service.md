@@ -1,6 +1,5 @@
-User Agreement | LinkedIn LinkedIn
+User Agreement | LinkedIn LinkedIn Home
 
-*   Home
 *   What is LinkedIn?
 *   Join Today
 *   Sign In
