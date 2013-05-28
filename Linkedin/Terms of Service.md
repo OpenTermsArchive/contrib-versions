@@ -1,11 +1,3 @@
-User Agreement | LinkedIn LinkedIn Home
-
-*   What is LinkedIn?
-*   Join Today
-*   Sign In
-
-User Agreement
-
 Last revised on June 16, 2011
 
 NOTE: YOU ARE CONCLUDING A LEGALLY BINDING AGREEMENT.
@@ -273,53 +265,3 @@ Our User Agreement has been updated. click here for a summary of the changes.
     
 
 LinkedIn Corporation, Mountain View, California, USA, June 16, 2011.
-
-*   **Help Center**
-*   About
-*   Press
-*   Blog
-*   Careers
-*   Advertising
-*   Talent Solutions
-*   Tools
-*   Mobile
-*   Developers
-*   Publishers
-*   Language
-    *   Bahasa Indonesia
-    *   Bahasa Malaysia
-    *   Čeština
-    *   Dansk
-    *   Deutsch
-    *   **English**
-    *   Español
-    *   Français
-    *   한국어
-    *   Italiano
-    *   Nederlands
-    *   日本語
-    *   Norsk
-    *   Polski
-    *   Português
-    *   Română
-    *   Русский
-    *   Svenska
-    *   Türkçe
-*   SlideShare
-
-*   LinkedIn Updates
-*   LinkedIn Influencers
-*   LinkedIn Jobs
-*   Jobs Directory
-*   Company Directory
-*   Groups Directory
-*   Skills Directory
-*   Title Directory
-
-LinkedIn Corporation © 2013
-
-*   User Agreement
-*   Privacy Policy
-*   Community Guidelines
-*   Cookie Policy
-*   Copyright Policy
