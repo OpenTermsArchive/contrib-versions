@@ -101,7 +101,7 @@ Mountain View, CA 94041
 January 8, 2013: We updated our company address.
 
 *   About
-*   Jobs
+*   Careers
 *   Privacy
 *   Terms
 
