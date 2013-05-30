@@ -989,7 +989,7 @@ For help on what to do, visit att.com/stolenphone.
 
 ' + '' + '' + '
 
-The Ponemon Institute has named AT&T as one of the 20 most trusted companies on privacy for 2011.
+The Ponemon Institute has named AT&T as one of the 20 most trusted companies on privacy for 2012.
 
 ' + '' + '' + 'We're Listening' + '
 
@@ -1004,7 +1004,7 @@ Updated 06/21/2012
 **Q.** What is your policy on limiting AT&T marketing materials sent by U.S. mail?  
 ' +'
 
-**A.** Customers can unsubscribe from marketing materials sent by U.S. mail here.
+**A.** Customers can unsubscribe from AT&T marketing materials sent by U.S. mail here.
 
 ' +'
 
