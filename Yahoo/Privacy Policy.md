@@ -30,11 +30,7 @@ Yahoo! uses information for the following general purposes: to customize the adv
 
 Children  
 
-When a child under age 13 attempts to register with Yahoo!, we ask the child to have a parent or guardian create a Yahoo! Family Account to obtain parental permission.
-
-Yahoo! does not contact children under age 13 about special offers or for marketing purposes without a parent's permission.
-
-Yahoo! does not ask a child under age 13 for more personal information, as a condition of participation, than is reasonably necessary to participate in a given activity or promotion.
+When Yahoo! has knowledge that a child under age 13 is attempting to register with Yahoo!, we ask the child to have a parent or guardian create a Yahoo! Family Account to obtain parental permission. Visit Children's Privacy &. Family Accounts to learn more about children’s privacy on Yahoo!.
 
 Return to top
 
@@ -43,7 +39,7 @@ INFORMATION SHARING AND DISCLOSURE
 Yahoo! does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 
 *   We provide the information to trusted partners who work on behalf of or with Yahoo! under confidentiality agreements. These companies may use your personal information to help Yahoo! communicate with you about offers from Yahoo! and our marketing partners. However, these companies do not have any independent right to share this information.
-*   We have a parent's permission to share the information if the user is a child under age 13. Parents have the option of allowing Yahoo! to collect and use their child's information without consenting to Yahoo! sharing of this information with people and companies who may use this information for their own purposes.
+*   We have a parent's permission to share the information if the user is a child under age 13. See Children's Privacy &. Family Accounts for more information about our privacy practices for children under 13 .
 *   We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
 *   We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Yahoo!'s terms of use, or as otherwise required by law.
 *   We transfer information about you if Yahoo! is acquired by or merged with another company. In this event, Yahoo! will notify you before information about you is transferred and becomes subject to a different privacy policy.
@@ -75,12 +71,6 @@ New categories of marketing communications might be added to the Marketing Prefe
 We reserve the right to send you certain communications relating to the Yahoo! service, such as service announcements, administrative messages and the Yahoo! Newsletter, that are considered part of your Yahoo! account, without offering you the opportunity to opt out of receiving them.
 
 You can delete your Yahoo! account by visiting our Account Deletion page. Please click here to read about information that might possibly remain in our archived records after your account has been deleted.
-
-Children
-
-Parents can review, edit, and delete information relating to their child's Yahoo! account using tools offered by Yahoo! Family Accounts.
-
-If a parent chooses not to allow us to further collect or use a child's information, parents enrolled in Yahoo! Family Accounts can delete their child's account by signing into that child's account and then visiting our Account Deletion page. Please click here to read about information that might possibly remain in our archived records after your account has been deleted.
 
 Return to top
 
