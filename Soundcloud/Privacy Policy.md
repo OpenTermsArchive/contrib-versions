@@ -252,8 +252,8 @@ Questions?
 If you have questions about this Privacy Policy, want to suggest changes to this Privacy Policy or want to know, what information we store about you, please contact us by email at privacy@soundcloud.com, or write to us at:
 
 SoundCloud Limited  
-Rosenthaler Str. 13  
-10119 Berlin  
+Greifswalder Str. 212-213  
+10405 Berlin  
 Germany  
 Attention: Legal Department
 
