@@ -1,9 +1,4 @@
-GitHub Help
-
-*   Contact Support
-*   Return to GitHub
-
-Site Policy / GitHub Terms of Service Search Article last updated on 31-May-13 GitHub Terms of Service
+GitHub Terms of Service
 
 *   mac
 *   windows
@@ -132,9 +127,3 @@ G. General Conditions
     
 
 *   contact a human
-
-© year GitHub Inc. All rights reserved.
-
-*   Terms of Service
-*   Privacy
-*   Security
