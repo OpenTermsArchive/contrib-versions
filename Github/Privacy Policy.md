@@ -1,9 +1,4 @@
-GitHub Help
-
-*   Contact Support
-*   Return to GitHub
-
-Site Policy / GitHub Privacy Policy Search Article last updated on 01-Jun-13 GitHub Privacy Policy
+GitHub Privacy Policy
 
 *   mac
 *   windows
@@ -53,9 +48,3 @@ Questions
 Any questions about this Privacy Policy should be addressed to support@github.com.
 
 *   contact a human
-
-© year GitHub Inc. All rights reserved.
-
-*   Terms of Service
-*   Privacy
-*   Security
