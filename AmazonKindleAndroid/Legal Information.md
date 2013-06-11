@@ -1,43 +1,33 @@
-Kindle for Android Legal Notices
-
-A. INTELLECTUAL PROPERTY NOTICES
+Kindle for Android Legal Notices A. INTELLECTUAL PROPERTY NOTICES
 
 1\. Patent Notices
 
 The Kindle for Android application and/or methods used in association with the Kindle device may be covered by one or more patents or pending patent applications owned or controlled by Amazon.com, Inc. or its affiliates.
 
-2\. Trademark Notices  
+2\. Trademark Notices
 
 Amazon, the Amazon logo, Kindle, the Amazon Kindle logo, and Whispersync are trademarks of Amazon.com, Inc. or its affiliates.
 
-3\. Copyright Notices  
+3\. Copyright Notices
 
-Kindle App software © 2010-2012 Amazon.com, Inc. or its affiliates.  All rights reserved.
+Kindle App software © 2010-2012 Amazon.com, Inc. or its affiliates. All rights reserved.
 
 4\. Other Notices
 
 All other brands, product names, company names, trademarks, and service marks are the properties of their respective owners.
 
-B. INFORMATION FOR THOSE WITH COPYRIGHT CONCERNS  
-
 Amazon.com, Inc. and its affiliates ("Amazon") respect the intellectual property of others. If you believe that your work has been copied in a way that constitutes copyright infringement, please provide Amazon's copyright agent the written information specified below. Please note that this procedure is exclusively for notifying Amazon that your copyrighted material has been infringed:
 
-*   An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest  
-    
-*   A description of the copyrighted work that you claim has been infringed upon  
-    
-*   A description of where the material that you claim is infringing is located  
-    
-*   Your address, telephone number, and e-mail address  
-    
+  
+
+*   An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest
+*   A description of the copyrighted work that you claim has been infringed upon
+*   A description of where the material that you claim is infringing is located
+*   Your address, telephone number, and e-mail address
 *   A statement by you that you have a good-faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law and
-    
 *   A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.
-    
 
 Amazon's Copyright Agent for notice of claims of copyright infringement can be reached as follows: Copyright Agent Amazon Legal Department P.O. Box 81226 Seattle, WA 98108 phone: (206) 266-4064 fax: (206) 266-7010 e-mail: copyright@amazon.comCourier address: Copyright Agent Amazon Legal Department 410 Terry Avenue North Seattle, WA 98109-5210 USA
-
-C. NOTICES FOR THIRD PARTY SOFTWARE INCLUDED WITH THE APPLICATION
 
 1\. Notices for the Free Type Project.Portions of this software are copyright © 2005-2010 The Free Type Project (www.freetype.org). All rights reserved.
 
@@ -53,13 +43,13 @@ Permission is hereby granted, without written agreement and without license or r
 
 IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE TO ANY PARTY FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OF THIS SOFTWARE AND ITS DOCUMENTATION, EVEN IF THE COPYRIGHT HOLDER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-THE COPYRIGHT HOLDER SPECIFICALLY DISCLAIMS ANY WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.  THE SOFTWARE PROVIDED HEREUNDER IS ON AN "AS IS" BASIS, AND THE COPYRIGHT HOLDER HAS NO OBLIGATION TO PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.
+THE COPYRIGHT HOLDER SPECIFICALLY DISCLAIMS ANY WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE SOFTWARE PROVIDED HEREUNDER IS ON AN "AS IS" BASIS, AND THE COPYRIGHT HOLDER HAS NO OBLIGATION TO PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.
 
 3\. Notices for Software Components Licensed Under the MIT License.
 
 a. Names and Copyright Notices.
 
-\- giflib  © 1997  Eric S. Raymond.
+\- giflib - © 1997 Eric S. Raymond.
 
 \- libxml2 - © 1998-2003 Daniel Veillard. All Rights Reserved.
 
@@ -115,7 +105,7 @@ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
 "Contributor" shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Work.
 
-2\. Grant of Copyright License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form.
+2\. Grant of Copyright License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form
 
 3\. Grant of Patent License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Work to which such Contribution(s) was submitted. If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Work or a Contribution incorporated within the Work constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for that Work shall terminate as of the date such litigation is filed.
 
@@ -175,7 +165,7 @@ Permission is granted to anyone to use this software for any purpose, including 
 
 8\. Notices for Libpng Software.
 
-This copy of the libpng notices is provided for your convenience.  In case of any discrepancy between this copy and the notices in the file png.h that is included in the libpng distribution, the latter shall prevail.
+This copy of the libpng notices is provided for your convenience. In case of any discrepancy between this copy and the notices in the file png.h that is included in the libpng distribution, the latter shall prevail.
 
 COPYRIGHT NOTICE, DISCLAIMER, and LICENSE:
 
@@ -183,39 +173,39 @@ If you modify libpng you may insert additional notices immediately following thi
 
 This code is released under the libpng license.
 
-libpng versions 1.2.6, August 15, 2004, through 1.5.8, February 1, 2012, are © 2004, 2006-2011 Glenn Randers-Pehrson, and are distributed according to the same disclaimer and license as libpng-1.2.5 with the following individual added to the list of Contributing Authors   Cosmin Truta
+libpng versions 1.2.6, August 15, 2004, through 1.5.8, February 1, 2012, are © 2004, 2006-2011 Glenn Randers-Pehrson, and are distributed according to the same disclaimer and license as libpng-1.2.5 with the following individual added to the list of Contributing Authors Cosmin Truta
 
-libpng versions 1.0.7, July 1, 2000, through 1.2.5 - October 3, 2002, are © 2000-2002 Glenn Randers-Pehrson, and are distributed according to the same disclaimer and license as libpng-1.0.6 with the following individuals added to the list of Contributing Authors   Simon-Pierre Cadieux   Eric S. Raymond   Gilles Vollantand with the following additions to the disclaimer:
+libpng versions 1.0.7, July 1, 2000, through 1.2.5 - October 3, 2002, are © 2000-2002 Glenn Randers-Pehrson, and are distributed according to the same disclaimer and license as libpng-1.0.6 with the following individuals added to the list of Contributing Authors Simon-Pierre Cadieux Eric S. Raymond Gilles Vollantand with the following additions to the disclaimer:
 
-There is no warranty against interference with your enjoyment of the library or against infringement.  There is no warranty that our efforts or the library will fulfill any of your particular purposes or needs.  This library is provided with all faults, and the entire risk of satisfactory quality, performance, accuracy, and effort is with the user.
+There is no warranty against interference with your enjoyment of the library or against infringement. There is no warranty that our efforts or the library will fulfill any of your particular purposes or needs. This library is provided with all faults, and the entire risk of satisfactory quality, performance, accuracy, and effort is with the user.
 
-libpng versions 0.97, January 1998, through 1.0.6, March 20, 2000, are © 1998, 1999 Glenn Randers-Pehrson, and are distributed according to the same disclaimer and license as libpng-0.96, with the following individuals added to the list of Contributing Authors:   Tom Lane   Glenn Randers-Pehrson   Willem van Schaik
+libpng versions 0.97, January 1998, through 1.0.6, March 20, 2000, are © 1998, 1999 Glenn Randers-Pehrson, and are distributed according to the same disclaimer and license as libpng-0.96, with the following individuals added to the list of Contributing Authors: Tom Lane Glenn Randers-Pehrson Willem van Schaik
 
-libpng versions 0.89, June 1996, through 0.96, May 1997, are © 1996, 1997 Andreas Dilger and distributed according to the same disclaimer and license as libpng-0.88, with the following individuals added to the list of Contributing Authors:   John Bowler   Kevin Bracey   Sam Bushell   Magnus Holmgren   Greg Roelofs   Tom Tanner
+libpng versions 0.89, June 1996, through 0.96, May 1997, are © 1996, 1997 Andreas Dilger and distributed according to the same disclaimer and license as libpng-0.88, with the following individuals added to the list of Contributing Authors: John Bowler Kevin Bracey Sam Bushell Magnus Holmgren Greg Roelofs Tom Tanner
 
 libpng versions 0.5, May 1995, through 0.88, January 1996, are © 1995, 1996 Guy Eric Schalnat, Group 42, Inc.
 
 For the purposes of this copyright and license, "Contributing Authors" is defined as the following set of individuals:
 
-Andreas Dilger   Dave Martindale   Guy Eric Schalnat   Paul Schmidt   Tim Wegner
+Andreas Dilger Dave Martindale Guy Eric Schalnat Paul Schmidt Tim Wegner
 
-The PNG Reference Library is supplied "AS IS".  The Contributing Authors and Group 42, Inc. disclaim all warranties, expressed or implied, including, without limitation, the warranties of merchantability and of fitness for any purpose.  The Contributing Authors and Group 42, Inc. assume no liability for direct, indirect, incidental, special, exemplary, or consequential damages, which may result from the use of the PNG Reference Library, even if advised of the possibility of such damage.
+The PNG Reference Library is supplied "AS IS". The Contributing Authors and Group 42, Inc. disclaim all warranties, expressed or implied, including, without limitation, the warranties of merchantability and of fitness for any purpose. The Contributing Authors and Group 42, Inc. assume no liability for direct, indirect, incidental, special, exemplary, or consequential damages, which may result from the use of the PNG Reference Library, even if advised of the possibility of such damage.
 
 Permission is hereby granted to use, copy, modify, and distribute this source code, or portions hereof, for any purpose, without fee, subject to the following restrictions:
 
-1\. The origin of this source code must not be misrepresented.
+  
 
-2\. Altered versions must be plainly marked as such and must not be misrepresented as being the original source.
+1.  The origin of this source code must not be misrepresented.
+2.  Altered versions must be plainly marked as such and must not be misrepresented as being the original source.
+3.  This Copyright notice may not be removed or altered from any source or altered source distribution.
 
-3\. This Copyright notice may not be removed or altered from any source or altered source distribution.
+The Contributing Authors and Group 42, Inc. specifically permit, without fee, and encourage the use of this source code as a component to supporting the PNG file format in commercial products. If you use this source code in a product, acknowledgment is not required but would be appreciated.
 
-The Contributing Authors and Group 42, Inc. specifically permit, without fee, and encourage the use of this source code as a component to supporting the PNG file format in commercial products.  If you use this source code in a product, acknowledgment is not required but would be appreciated.
-
-A "png\_get\_copyright" function is available, for convenient use in "about" boxes and the like:   printf("%s",png\_get\_copyright(NULL));
+A "png\_get\_copyright" function is available, for convenient use in "about" boxes and the like: printf("%s",png\_get\_copyright(NULL)).
 
 Also, the PNG logo (in PNG format, of course) is supplied in the files "pngbar.png" and "pngbar.jpg (88x31) and "pngnow.png" (98x31).
 
-Libpng is OSI Certified Open Source Software.  OSI Certified Open Source is a certification mark of the Open Source Initiative.
+Libpng is OSI Certified Open Source Software. OSI Certified Open Source is a certification mark of the Open Source Initiative.
 
 Glenn Randers-Pehrsonglennrp at users.sourceforge.netFebruary 1, 2012
 
@@ -229,9 +219,10 @@ Webkit BSD License
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
-1\. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+  
 
-2\. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+1.  Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+2.  Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
 
 THIS SOFTWARE IS PROVIDED BY APPLE INC. AND ITS CONTRIBUTORS \`\`AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL APPLE INC. OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES. LOSS OF USE, DATA, OR PROFITS. OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
@@ -240,8 +231,6 @@ b. Names and Copyright Notices
 The following are the names of the Webkit Software used with this product and the copyright notices for the Webkit Software:
 
 \- WebKit, WebCore, and JavaScriptCore - © 1997-2011 Various contributors including 280 North Inc., Alex Mathews, Alexander Kellett, Alexey Proskuryakov, Allan Sandfeld Jensen, Alp Toker, Anders Carlsson, Andrew Wellington, Anthony Ricaud, Antti Koivisto, Apple Inc., Bjoern Graf, Brent Fulgham, Cameron Zwarich, Charlie Bozeman, Christian Dywan, Christopher J. Madsen, Collabora Ltd., Collin Jackson, Cyrus Patel, Daniel Molkentin, Daniel Veillard, Dave MacLachlan, David Levin, David Smith, Dawit Alemayehu, Diego Escalante Urrelo, Dirk Mueller, Dirk Schulze, Eric Seidel, Frederik Holljen, Free Software Foundation Inc., Frerich Raabe, George Staikos, Google Inc., Graham Dennis, Gustavo Noronha Silva, Harri Porten, Henry Mason, Hiroyuki Ikezoe, Holger Hans Peter Freyther, Igalia S.L., International Business Machines, James G. Speth, Jan Alonzo, Jean-loup Gailly, Jian Li, Jon Shier, Josh MacDonald, Julien Chaffraix, Justin Haygood, Kelvin W Sherlock, Kevin Ollivier, Kimmo Kinnunen, Kouhei Sutou, Krzysztof Kowalczyk, Lars Knoll, Luca Bruno, Lucent Technologies, Maksim Orlovich, Mark Adler, Martin Jones, Matt Lilek, Michael Emmel, mozilla.org, Nicholas Shanks, Nikolas Zimmermann, Nokia Corporation, Novell Inc., Nuanti Ltd., Oliver Hunt, OpenedHand, Paul Pedriana, Peter Kelly, Peter Mattis, Pioneer Research Center USA Inc., Red Hat Inc., Rob Buis, Ronald Tschalär, Samuel Weinig, Simon Hausmann, Spencer Kimball, Stefan Schimanski, Symantec Corporation, The GLib Team, The Karbon Developers, Thomas Broyer, Tobias Anton, Tony Chang, Torben Weis, Torch Mobile Inc., University of Cambridge, Waldo Bastian, Xan Lopez, Zack Rusin.
-
-D. FULL TEXT FOR CERTAIN SOFTWARE LICENSES.
 
 GNU LESSER GENERAL PUBLIC LICENSE
 
@@ -379,7 +368,7 @@ Each version is given a distinguishing version number. If the Library specifies 
 
 14\. If you wish to incorporate parts of the Library into other free programs whose distribution conditions are incompatible with these, write to the author to ask for permission. For software which is copyrighted by the Free Software Foundation, write to the Free Software Foundation. we sometimes make exceptions for this. Our decision will be guided by the two goals of preserving the free status of all derivatives of our free software and of promoting the sharing and reuse of software generally.
 
-NO WARRANTY
+**NO WARRANTY**
 
 15\. BECAUSE THE LIBRARY IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY FOR THE LIBRARY, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE LIBRARY "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE LIBRARY IS WITH YOU. SHOULD THE LIBRARY PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
 
