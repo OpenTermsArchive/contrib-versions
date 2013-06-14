@@ -125,5 +125,7 @@ G. General Conditions
     
 17.  If you are a government user or otherwise accessing or using any GitHub service in a government, municipal, or public entity capacity, this Amendment to GitHub Terms of Service shall apply to you.
     
+18.  Map data copyright OpenStreetMap contributors and licensed under the Open Data Commons Open Database License. Map design and imagery subject to the MapBox Terms of Service.
+    
 
 *   contact a human
