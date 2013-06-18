@@ -2,8 +2,6 @@ Kindle Cloud Reader Legal Notices
 
 **A. INTELLECTUAL PROPERTY NOTICES**
 
-  
-
 1.  **Patent Notices**
     
     The Kindle Cloud Reader application and/or methods used in association with the Kindle service and Kindle device may be covered by one or more patents or pending patent applications owned or controlled by Amazon.com, Inc. or its affiliates.
@@ -24,8 +22,6 @@ Kindle Cloud Reader Legal Notices
 **B. INFORMATION FOR THOSE WITH COPYRIGHT CONCERNS**
 
 Amazon.com, Inc. and its affiliates ("Amazon") respect the intellectual property of others. If you believe that your work has been copied in a way that constitutes copyright infringement, please provide Amazon's copyright agent the written information specified below. Please note that this procedure is exclusively for notifying Amazon that your copyrighted material has been infringed:
-
-  
 
 *   An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest.
 *   A description of the copyrighted work that you claim has been infringed upon.
@@ -66,7 +62,7 @@ USA
 
   
 
-1.  **Notices for Software Components Licensed Under the MIT License.**
+1.  **Components Licensed Under the MIT License.**
     
     a. Names and Copyright Notices. - Gesture - © 2010 Matteo Spinelli, http://cubiq.org/.
     
@@ -98,7 +94,7 @@ USA
     
     THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
     
-2.  **Notices for js-sunspider.**
+2.  **js-sunspider.**
     
     Copyright (C) 2007 Apple Inc. All rights reserved. Copyright (C) 2007 Eric Seidel <eric@webkit.org>.
     
@@ -111,15 +107,13 @@ USA
     
     THIS SOFTWARE IS PROVIDED BY APPLE COMPUTER, INC. \`\`AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL APPLE COMPUTER, INC. OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES. LOSS OF USE, DATA, OR PROFITS. OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     
-3.  **Notices for YUI.**
+3.  **YUI.**
     
     Certain Mobi8 files used in conjunction with Kindle products include portions of the YUI Library, which is subject to the following license terms:
     
     © 2011, Yahoo! Inc. All rights reserved.
     
     Redistribution and use of this software in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
-    
-      
     
     *   Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
     *   Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
@@ -131,13 +125,12 @@ USA
     
     YUI is issued by Yahoo! under the BSD license above. Below is a list of certain publicly available software that is the source of intellectual property in YUI, along with the licensing terms that pertain to those sources of IP. This list is for informational purposes only and is not intended to represent an exhaustive list of third party contributions to the YUI.
     
-      
-    
     *   Douglas Crockford's JSON parsing and stringifying methods: In the JSON Utility, Douglas Crockford's JSON parsing and stringifying methods are adapted from work published at JSON.org. The adapted work is in the public domain.
     *   Robert Penner's animation-easing algorithms: In the Animation Utility, YUI makes use of Robert Penner's algorithms for easing.
     *   Geoff Stearns's SWFObject: In the Charts Control and the Uploader versions through 2.7.0, YUI makes use of Geoff Stearns's SWFObject v1.5 for Flash Player detection and embedding. More information on SWFObject can be found here (http://blog.deconcept.com/swfobject/). SWFObject is (c) 2007 Geoff Stearns and is released under the MIT License (http://www.opensource.org/licenses/mit-license.php).
     *   Diego Perini's IEContentLoaded technique: The Event Utility employs a technique developed by Diego Perini and licensed under GPL. YUI's use of this technique is included under our BSD license with the author's permission.
-4.  Notices for Software Components Licensed Under The Apache License, Version 2.0.
+    
+4.  **Components Licensed Under The Apache License, Version 2.0.**
     
     a. Names and Copyright Notices. Google Closure Library. © 2006 The Closure Library Authors. All Rights Reserved.
     
@@ -145,8 +138,6 @@ USA
     
 
 TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
-
-  
 
 1.  Definitions.
     
@@ -197,5 +188,29 @@ To apply the Apache License to your work, attach the following boilerplate notic
 You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+
+**5\. Handlebars.js**
+
+Copyright (C) 2011 by Yehuda Katz
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+**6\. Porter-Stemmer**
+
+Copyright (c) 2012, various, All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+\* Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+\* Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+\* Neither the name of the <organization>. nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL <COPYRIGHT HOLDER>. BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES. LOSS OF USE, DATA, OR PROFITS. OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 Search Help: **Ask the Community**: Post your question in the General Help Forum or Kindle Help Forum.
