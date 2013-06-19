@@ -1,34 +1,3 @@
-Allrecipes Home  >  Customer Support  >  Privacy Policy Privacy Policy
-
-**Important changes for Allrecipes users:** we’ve updated our privacy policy to reflect recent site improvements including email, alerts, other communication methods, and international use. You may read our entire Privacy Policy below and our Terms and Conditions here.  
-  
-_Last updated:_ **October 17, 2012**  
-  
-
-*   About the Privacy Policy
-*   Types of Information We Collect
-*   How We Collect and Use Personal Information
-*   Registration, Purchases. Other Information Submissions
-*   E-mail and Newsletters
-*   E-mail-A-Friend or Invite a Friend
-*   E-mail Change and Unsubscribing
-*   Public Forums: Message Board, Blogs
-*   Contests, Promotions, Offers and Surveys
-*   Customer Service
-*   Cookies, Web Beacons and Log Files
-*   Disclosure of Personal Information
-*   Own Business Purposes
-*   Protection of Allrecipes.com and Others
-*   Business Transfers
-*   Children
-*   Third Party Advertising
-*   Third Party Links
-*   Third Party Sources
-*   Security
-*   Correcting/Updating Personal Information
-*   Your California Privacy Rights
-*   Contact Us
-
   About the Allrecipes.com Privacy Policy
 
 At Allrecipes.com, Inc. (“Allrecipes.com”), we recognize the importance of your privacy. That said, it’s understandable that you may be concerned with the information you provide to us or that is collected by us and how we use and disclose it. With these concerns in mind, we’ve developed the Allrecipes.com Privacy Policy, outlined below. This Privacy Policy explains Allrecipes’ privacy practices for visitors to our Web site at Allrecipes (the “Web site”). By using our Web site, you consent to the collection, use and disclosure of your personal information as described in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the Allrecipes Terms and Conditions. We reserve the right to change this Privacy Policy at any time. If we make any material changes to our Privacy Policy, we will post a new policy on the Web site and update the “last updated” date set forth above. Therefore, we encourage you to check our Privacy Policy whenever you visit the Web site to see if it has been updated since your last visit. If you have any questions about our Privacy Policy, you can contact us at CustomerRelations@allrecipes.com.
