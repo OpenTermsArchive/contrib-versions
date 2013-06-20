@@ -1,35 +1,11 @@
-Fair Usage Policy
+Calls to phones and mobiles in the US and Canada are included in your US Minute Bundle subject to a usage limit of 5,000 minutes per month, per US Minute Bundle. The maximum duration for a call using a US Minute Bundle is 12 hours. The number of US Minute Bundles cannot exceed the number of Skype Connect Channels that you have purchased for a Sip Profile. The minutes included in the US Minute Bundle do not roll over from month to month and will be lost if not used within that month. Once the minutes included in your US Minute Bundle have been used any additional calls made through Skype Connect will be charged and billed at Skype Connect’s standard calling rates and billing intervals.
 
-Skype’s fair usage policy (“FUP”) is designed to prevent fraud and abuse of our products. Skype’s products are for individual use only in accordance with the Microsoft Services Agreement and this FUP (“Legitimate Use”). The following is a non-exhaustive list of practices that would not be considered Legitimate Use:
+Calls to the following US and Canadian prefixes are not included within the US Minute bundle and may be subject to change with immediate effect. The current prefix’s that are not included in the US Minute Bundle are also published at http://www.skype.com/go/business.sip.pricing. Calls to these US and Canadian prefixes will be charged at Skype Connect’s standard calling rates:
 
-*   Using subscriptions for telemarketing or call centre operations;
-*   Re-selling subscription minutes;
-*   Sharing subscriptions between users whether via a PBX, call centre, computer or any other means;
-*   Calling numbers (whether singly, sequentially or automatically) to generate income for yourself or others as a result of placing the call, other than for your individual business communications: and
-*   Unusual calling patterns inconsistent with normal, individual subscription use, for example, regular calls of short duration or calls to multiple numbers in a short period of time.
+218632xxxx, 605475xxxx, 605477xxxx, 605562xxxx, 641213xxxx, 641235xxxx, 641237xxxx, 641262xxxx, 641264xxxx, 641308xxxx, 641309xxxx, 641388xxxx, 641395xxxx, 641398xxxx, 641410xxxx, 641453xxxx, 641509xxxx, 641551xxxx, 641570xxxx, 641608xxxx, 641612xxxx, 641654xxxx, 641665xxxx, 641696xxxx, 641739xxxx, 641749xxxx, 641795xxxx, 641826xxxx, 641827xxxx, 641865xxxx, 641962xxxx, 641982xxxx, 641983xxxx, 641985xxxx, 641992xxxx, 760569xxxx, 951262xxxx, 6057154xxxx, 6412104xxxx, 6413152xxxx, 6413155xxxx, 6413158xxxx, 6415525xxxx, 6417102xxxx, 6417105xxxx, 6417108xxxx, 6417132xxxx, 6417133xxxx, 6417134xxxx, 6417135xxxx, 6417138xxxx, 6417150xxxx, 6417153xxxx, 6418162xxxx, 6418163xxxx, 6418164xxxx, 6418165xxxx, 6418168xxxx, 7122276xxxx, 7124396xxxx, 7124510xxxx, 7124511xxxx, 7124512xxxx, 7124513xxxx, 7124514xxxx, 7124515xxxx, 7124516xxxx, 7124517xxxx, 7124720xxxx, 7124756xxxx, 7125416xxxx, 7125686xxxx, 7127256xxxx, 7127266xxxx, 7127379xxxx, 218237xxxx, 218339xxxx, 218486xxxx, 218548xxxx, 218844xxxx, 218862xxxx, 218895xxxx, 218936xxxx, 219632xxxx, 712432xxxx, 2096471xxxx, 5595461xxxx, 7123387xxxx, 7123388xxxx, 7605690xxxx, 7605691xxxx, 7605692xxxx, 7605694xxxx, 7605696xxxx, 7605697xxxx, 7605821xxxx, 8053601xxxx, 9512620xxxx, 9512621xxxx, 9512622xxxx, 9512623xxxx
 
-Other practices may be relevant in determining Legitimate Use and Skype reserves the right to take any unlawful, prohibited, abnormal or unusual activity into account in making its determination. Skype may at its option, terminate or suspend its relationship with you, and your use of any Skype product immediately if it determines you are using the product contrary to this FUP.
+Skype Connect is intended for everyday business calling and not for mass marketing calls with call durations of less than 6 seconds. Skype may monitor for mass short duration calls and reserves the right to revoke the use of US Minute Bundles with immediate effect if Skype suspects that US Minute Bundles are being used in this manner.
 
-Subscriptions
+Skype reserves the right to change this fair usage policy at any time. Changes shall become effective when published on the Skype website. Your continued use of US Minute Bundles after publication of the revised version shall constitute your acceptance to be bound by the terms and conditions of the revised fair usage policy.
 
-Subject to this FUP, Skype’s unlimited subscriptions allow unlimited calls to landlines in the applicable subscription countries (excluding special, premium, service and non-geographic numbers) for the time period specified at the time of purchase. Unlimited calls to mobiles may also be included where stated at the time of purchase. All calls will be disconnected and require a re-dial after a 4-hour duration.
-
-Group Video Calling
-
-Group video calls are subject to a fair usage limit of 100 hours per month with no more than 10 hours per day and a limit of 4 hours per individual video call. Once these limits have been reached, the video will switch off and the call will convert to an audio call. If a participant of a group video call is not on a version of Internet Communications Software that supports group video calls, then the call will be an audio call only for that participant. The number of permitted participants on a group video call varies from 3 to a maximum of 50, depending upon device and associated system requirements. You can find more details at www.skype.com/go/gvc.
-
-Calling landlines and mobiles using Skype Credit
-
-All calls will be disconnected and require a re-dial after a 4-hour duration and an additional connection fee will be charged on re-dial.
-
-SMS
-
-Each SMS message has a limit of 160 characters. If you type a longer message it will be broken down into several SMS messages and you will be charged for each message sent. If you send SMS messages to more than one person you will be charged for each SMS sent to each recipient. If Skype cannot (for whatever reason) send your SMS, Skype will continue to try to send the message for up to 24 hours after which time the SMS charge will be refunded to your Skype Credit balance automatically if delivery is unsuccessful.
-
-Video Messages
-
-Subject to this fair usage policy, there are no limits on the number of Video Messages you can send. If you are not a Skype Premium subscriber, Video Messages will be kept for a minimum of 6 months from the date sent and may expire after that time.
-
-Reverse Charge Calls
-
-Reverse charge calls last no more than 60 minutes, after which time a re-dial will be required by you.
+Last revised July, 2011.
