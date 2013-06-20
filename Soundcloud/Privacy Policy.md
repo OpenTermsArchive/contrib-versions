@@ -1,4 +1,4 @@
-SoundCloud Piracy Policy
+SoundCloud Privacy Policy
 
 Welcome to SoundCloud®, a service provided by SoundCloud Limited (“**SoundCloud**”, “**we**” “**our**”, “**us**”).
 
