@@ -1,13 +1,9 @@
-Minute Fair Usage
+Skype emergency calling is enabled in the following countries, platforms and versions of Skype Software:
 
-Calls to phones and mobiles in the US and Canada are included in your US Minute Bundle subject to a usage limit of 5,000 minutes per month, per US Minute Bundle. The maximum duration for a call using a US Minute Bundle is 12 hours. The number of US Minute Bundles cannot exceed the number of Skype Connect Channels that you have purchased for a Sip Profile. The minutes included in the US Minute Bundle do not roll over from month to month and will be lost if not used within that month. Once the minutes included in your US Minute Bundle have been used any additional calls made through Skype Connect will be charged and billed at Skype Connect’s standard calling rates and billing intervals.
+*   Skype 4.1 for Windows (and later versions): available in Australia, Denmark, Finland and UK
+*   Skype 2.8 for Mac (and later versions): available in Australia, Denmark, Finland and UK
+*   Home phone adapters:  available in UK
 
-Calls to the following US and Canadian prefixes are not included within the US Minute bundle and may be subject to change with immediate effect. The current prefix’s that are not included in the US Minute Bundle are also published at Business pricing. Calls to these US and Canadian prefixes will be charged at Skype Connect’s standard calling rates:
+These are the only circumstances within which limited emergency calling is supported over Skype. Other than in these countries, or for these versions and platforms for Skype software, Skype does not support any type of emergency calling. For other limitations of Skype emergency calling, see Skype Terms of Use.
 
-218632xxxx, 605475xxxx, 605477xxxx, 605562xxxx, 641213xxxx, 641235xxxx, 641237xxxx, 641262xxxx, 641264xxxx, 641308xxxx, 641309xxxx, 641388xxxx, 641395xxxx, 641398xxxx, 641410xxxx, 641453xxxx, 641509xxxx, 641551xxxx, 641570xxxx, 641608xxxx, 641612xxxx, 641654xxxx, 641665xxxx, 641696xxxx, 641739xxxx, 641749xxxx, 641795xxxx, 641826xxxx, 641827xxxx, 641865xxxx, 641962xxxx, 641982xxxx, 641983xxxx, 641985xxxx, 641992xxxx, 760569xxxx, 951262xxxx, 6057154xxxx, 6412104xxxx, 6413152xxxx, 6413155xxxx, 6413158xxxx, 6415525xxxx, 6417102xxxx, 6417105xxxx, 6417108xxxx, 6417132xxxx, 6417133xxxx, 6417134xxxx, 6417135xxxx, 6417138xxxx, 6417150xxxx, 6417153xxxx, 6418162xxxx, 6418163xxxx, 6418164xxxx, 6418165xxxx, 6418168xxxx, 7122276xxxx, 7124396xxxx, 7124510xxxx, 7124511xxxx, 7124512xxxx, 7124513xxxx, 7124514xxxx, 7124515xxxx, 7124516xxxx, 7124517xxxx, 7124720xxxx, 7124756xxxx, 7125416xxxx, 7125686xxxx, 7127256xxxx, 7127266xxxx, 7127379xxxx, 218237xxxx, 218339xxxx, 218486xxxx, 218548xxxx, 218844xxxx, 218862xxxx, 218895xxxx, 218936xxxx, 219632xxxx, 712432xxxx, 2096471xxxx, 5595461xxxx, 7123387xxxx, 7123388xxxx, 7605690xxxx, 7605691xxxx, 7605692xxxx, 7605694xxxx, 7605696xxxx, 7605697xxxx, 7605821xxxx, 8053601xxxx, 9512620xxxx, 9512621xxxx, 9512622xxxx, 9512623xxxx
-
-Skype Connect is intended for everyday business calling and not for mass marketing calls with call durations of less than 6 seconds. Skype may monitor for mass short duration calls and reserves the right to revoke the use of US Minute Bundles with immediate effect if Skype suspects that US Minute Bundles are being used in this manner.
-
-Skype reserves the right to change this fair usage policy at any time. Changes shall become effective when published on the Skype website. Your continued use of US Minute Bundles after publication of the revised version shall constitute your acceptance to be bound by the terms and conditions of the revised fair usage policy.
-
-Last revised July, 2011.
+© Skype – Last updated: December 2012
