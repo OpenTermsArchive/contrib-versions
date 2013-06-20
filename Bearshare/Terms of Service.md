@@ -1,4 +1,4 @@
-BearShare Terms And Conditions  
+FlairBEAR Terms And Conditions  
 
 Effective as of November 11, 2009
 
