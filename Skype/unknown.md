@@ -1,18 +1,16 @@
-Skype is a community, and members of a community must respect each other as human beings. Skype therefore asks you not to get involved in any unwanted profane, offensive, obscene or sexual exchanges or to attempt to harm a young person in any way.
+At Skype, we want all of our customers to get the best calling plans, known as ‘subscriptions’, at the lowest possible price. This Fair Usage Policy ("FUP") is designed to prevent fraud and abuse of our subscriptions by a small number of users.
 
-Please go to Inhope’s site if you would like information on reporting illegal use and content on the internet.
+Subject to this FUP, Skype’s unlimited subscriptions allow unlimited calls to landlines in the applicable subscription countries (excluding special, premium, service and non-geographic numbers). Unlimited calls to mobiles may also be included where stated at the time of purchase. All calls will be disconnected and require a re-dial after a 2-hour duration.
 
-Skype asks that you do not:
+Skype’s subscriptions are for individual use only (personal or business communications) in accordance with our Terms of Use and this FUP (“Legitimate Use”). The following is a non-exhaustive list of practices that would not be considered Legitimate Use:  
 
-*   Use vulgar, profane, offensive or obscene language.
-*   Post or request sexually explicit images or other offensive content.
-*   Exploit a minor in any way.
-*   Use racially, religiously or sexually offensive language.
-*   Discuss illegal activity, such as how to get drugs and how to make bombs.
-*   Ask for or offer sexually explicit images, and/or material harmful to children.
-*   Harass, threaten, embarrass, or do anything else to another Skype user that is unwanted.
-*   Infringe anyone else's intellectual property rights, including but not limited to any copyright, trademark, rights of publicity, or other proprietary rights.
-*   Impersonate or represent Skype.
-*   Link to content not allowed on Skype.com.
-*   Try and get a Skype’s member's password or other account information.
-*   Post or request personal or other information from a minor (any person under the age of 18).
+*   Using subscriptions for telemarketing or call centre operations;  
+    
+*   Re-selling subscription minutes;
+*   Sharing subscriptions between users whether via a PBX, call centre, computer or any other means;
+*   Calling numbers (whether singly, sequentially or automatically) to generate income for yourself or others as a result of placing the call, other than for your individual business communications (and subject to Section 4.1 of the Terms of Use). and
+*   Unusual calling patterns inconsistent with normal, individual subscription use, for example, regular calls of short duration or calls to multiple numbers in a short period of time.
+
+Other practices may be relevant in determining Legitimate Use and Skype reserves the right to take any unlawful, prohibited, abnormal or unusual activity into account in making its determination. Skype may at its option, terminate its relationship with you, or may suspend your subscription immediately if it determines you are using your subscription contrary to this FUP or Skype’s Terms of Use. Where reasonable, Skype will provide you with notice of improper usage before suspension or termination of your subscription and, if appropriate, Skype may offer you an alternative subscription.
+
+© Skype – Last revised: September 2012
