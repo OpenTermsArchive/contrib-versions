@@ -1,21 +1,3 @@
-*   Apple
-*   Store
-*   Mac
-*   iPod
-*   iPhone
-*   iPad
-*   iTunes
-*   Support
-
-Search
-
-*   Hardware
-*   Software
-*   Sales &. Support
-*   Internet Services
-*   Intellectual Property
-*   More Resources
-
 TERMS AND CONDITIONS
 
 A. ITUNES STORE, MAC APP STORE, APP STORE, AND IBOOKSTORE TERMS OF SALE  
@@ -509,22 +491,3 @@ IBOOKSTORE PRODUCT USAGE RULES
 (v) You shall be able to manually sync iBookstore Products from at least one iTunes-authorized device to devices that have manual sync mode, provided that the iBookstore Product is associated with an Account on the primary iTunes-authorized device, where the primary iTunes-authorized device is the one that was first synced with the device or the one that you subsequently designate as primary using iTunes.
 
 Last Updated: December 3, 2012
-
-1.  Home
-2.  Legal
-3.  Internet Services
-4.  iTunes
-5.  Terms &. Conditions
-
-Shop the Apple Online Store (1-800-MY-APPLE), visit an Apple Retail Store, or find a reseller.
-
-*   Apple Info
-*   Site Map
-*   Hot News
-*   RSS Feeds
-*   Contact Us
-
-Copyright © 2013 Apple Inc. All rights reserved.
-
-*   Terms of Use
-*   Privacy Policy
