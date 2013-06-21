@@ -2,13 +2,13 @@ Privacy Policy
 
 Effective as of June 19, 2013
 
-*   Introduction
-*   Collection of Information
-*   Use and Disclosure
-*   Security
-*   User Access and Control
-*   Other Important Information
-*   Contact Us
+*   **Introduction**
+*   **Collection of Information**
+*   **Use and Disclosure**
+*   **Security**
+*   **User Access and Control**
+*   **Other Important Information**
+*   **Contact Us**
 
 INTRODUCTION
 
