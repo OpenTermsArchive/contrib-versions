@@ -1,6 +1,6 @@
 Privacy Policy
 
-Last modified: July 27, 2012 (view archived versions)
+Last modified: June 24, 2013 (view archived versions)
 
 There are many different ways you can use our services – to search for and share information, to communicate with other people or to create new content. When you share information with us, for example by creating a Google Account, we can make those services even better – to show you more relevant search results and ads, to help you connect with people or to make sharing with others quicker and easier. As you use our services, we want you to be clear how we’re using information and the ways in which you can protect your privacy.
 
@@ -73,7 +73,7 @@ Transparency and choice
 People have different privacy concerns. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how it is used. For example, you can:
 
 *   Review and control certain types of information tied to your Google Account by using Google Dashboard.
-*   View and edit your ads preferences, such as which categories might interest you, using the Ads Preferences Manager. You can also opt out of certain Google advertising services here.
+*   View and edit your ads preferences, such as which categories might interest you, using Ads Settings. You can also opt out of certain Google advertising services here.
 *   Use our editor to see and adjust how your Google Profile appears to particular individuals.
 *   Control who you share information with.
 *   Take information out of many of our services.
