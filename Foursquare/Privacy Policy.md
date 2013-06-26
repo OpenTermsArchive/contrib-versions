@@ -1,4 +1,4 @@
-**Last Updated: May 30, 2013**
+**Last Updated: June 20, 2013**
 
 Foursquare Labs, Inc. Privacy Policy
 
@@ -31,7 +31,7 @@ Determining and Sharing Location
 
 Foursquare deals with location, so in order to work, Foursquare needs to know your location. Whenever you open and use/interact with the Foursquare app on your mobile device or go to Foursquare.com, we use the location information from your mobile device or browser (e.g., latitude and longitude) to tailor the Foursquare experience to your current location (i.e., we’ll show you a list of nearby locations, friends and tips). This information is NOT shared with others. Also, if you use Radar to receive notifications of tips/friends/etc., near you, the Foursquare app will, from time to time, tell us about your device’s location so that we can inform you of things of interest near you even if you are not directly interacting with the application.
 
-Your location data is ONLY shared with others when you proactively decide to "check in" to tell Foursquare you’re at a particular place. The location information shared with a "check in" is the location information of that place. Each of your Foursquare check-ins is saved to your "Check-in History," which allows you to look back at all the locations you have checked in since you created your Foursquare account. You can delete any or all of your check-ins from the check-in details page on the Foursquare website and Foursquare app. If for some reason you ever decide to delete your Foursquare account, your entire check-in history will be removed from our database.
+Your location data is ONLY shared with others when you proactively decide to "check in" to tell Foursquare you’re at a particular place or, if you have turned on ‘check-in by friends,’ when your friend mentions you in his or her check in. The location information shared with a "check in" is the location information of that place. Each of your Foursquare check-ins is saved to your "Check-in History," which allows you to look back at all the locations you have checked in since you created your Foursquare account. You can delete any or all of your check-ins from the check-in details page on the Foursquare website and Foursquare app. If for some reason you ever decide to delete your Foursquare account, your entire check-in history will be removed from our database.
 
 Sometimes you’ll want to check in without sharing your specific whereabouts with friends. This is why we created "Private check-ins" -- a way of adding locations to your check-in history, earning points and adding to your badge counts, while maintaining complete privacy (even from friends). We find this comes in handy on dates, dinners with parents, or at a coffee shop when you’re just trying to get some work done - really anywhere where you don’t want friends to drop in. To check-in "privately", simply select "No" on the "Share this check-in with friends" option seen on every "check-in" screen across our mobile apps. As noted above (under "Publicly Available Information, Apps, and The Foursquare API"), while your private check-ins will not be visible to the public or your friends, we may share the fact that such check-in has occurred in an anonymous manner.
 
@@ -51,23 +51,9 @@ If you do not want to receive commercial email or other mail from us, please ind
 
 What About Cookies and Similar Technologies?
 
-Cookies are small pieces of data that are stored on your computer, mobile phone or other device. Pixels are small blocks of code on webpages and in emails that do things like allow another server to measure viewing of a webpage and often are used in connection with cookies.
+We and our agents use technologies like cookies, pixels, and local storage (like on your browser or device, which is similar to a cookie but holds more information) on our website, in our emails, and identifiers supplied by app platform companies within our apps to provide you with a range of products and services. You can control cookies through your browser settings and other tools. For more information, including the types of cookies and similar technologies found on Foursquare, please read Foursquare's 'Cookie Policy’. By continuing to use our Service through your computer or mobile device, you consent to our use of cookies, pixels and local storage in accordance with this Privacy Policy and Foursquare's Cookie Policy.
 
-We and our agents use technologies like cookies, pixels, and local storage (like on your browser or device, which is similar to a cookie but holds more information) on our website, in our emails, and identifiers supplied by app platform companies within our apps to provide you with a range of products and services. By continuing to use our Service through your computer or mobile device, you consent to our use of cookies, pixels and local storage.
-
-We and our agents use these technologies to do things like:
-
-*   make Foursquare easier or faster to use;
-*   enable features and store information about you (including on your device or in your browser cache) and your use of Foursquare;
-*   deliver, understand and improve advertising to Foursquare users on behalf of Foursquare and others (such as for entities that have Foursquare sponsored or promoted products) on the Foursquare app, Foursquare.com and on other websites that you visit, based on your activity on Foursquare.com;
-*   monitor and understand the use of our products and services. and
-*   to protect you, others and Foursquare.
-
-For example, we may work with advertisers or other partners and advertising service providers to serve ads or services to computers, mobile phones or other devices, which may use a cookie, pixel or other similar technology placed by Foursquare or the third party (although we would not share any other information that identifies you with an advertiser). This Privacy Policy covers the use of cookies by Foursquare and its service providers and does not cover the use of cookies by any advertisers. For information about how to opt out of receiving behavioral advertisements from our advertising partners, click here or click here.
-
-We sometimes use other service providers to help us provide certain products and services and to provide us information about use of the Service to improve the Service and make it appealing to as many users as possible.  For example, Foursquare uses third party analytics providers, like Google Analytics, to better understand who is using the service and how people are using it. As part of providing these services, these service providers may collect and store anonymous information such as time of visit, pages visited, time spent on each page of the website, IP address, and type of operating system used.
-
-Most web browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. For more information about cookies and how to refuse them, click here. Also, Google has developed a web browser plugin to allow you to opt-out of Google Analytics' tracking software.
+We may work with advertisers or other partners and advertising service providers to serve ads or services to computers, mobile phones or other devices, which may use a cookie, pixel or other similar technology placed by Foursquare or the third party (although we would not share any other information that identifies you with an advertiser). This Privacy Policy and Foursquare's Cookie Policy covers the use of cookies by Foursquare and its service providers and does not cover the use of cookies by any advertisers. For information about how to opt out of receiving behavioral advertisements from our advertising partners, click here or click here.
 
 Is Personal Information About Me Secure?
 
