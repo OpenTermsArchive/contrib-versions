@@ -1,3 +1,5 @@
+Statement of Rights and Responsibilities
+
 This agreement was written in English (US). To the extent any translated version of this agreement conflicts with the English version, the English version controls.  Please note that Section 17 contains certain changes to the general terms for users outside the United States.
 
 Date of Last Revision: December 11, 2012.  
