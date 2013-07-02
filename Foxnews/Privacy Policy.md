@@ -1,6 +1,6 @@
 Privacy Policy
 
-Effective as of June 19, 2013
+Effective as of July 1, 2013
 
 *   **Introduction**
 *   **Collection of Information**
@@ -12,7 +12,7 @@ Effective as of June 19, 2013
 
 INTRODUCTION
 
-Fox News Network, LLC ("Fox News" or "we") wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through services such as websites, mobile sites, applications ("apps"), and widgets (collectively, the "Fox News Services"). By using Fox News Services, you agree to the terms and conditions of this Privacy Policy. A list of our affiliated companies ("Fox News Affiliates") is available at "Affiliated Companies". Fox News is part of the United States based operations of News Corporation.
+Fox News Network, LLC ("Fox News" or "we") wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through services such as websites, mobile sites, applications ("apps"), and widgets (collectively, the "Fox News Services"). By using Fox News Services, you agree to the terms and conditions of this Privacy Policy.
 
 As set forth in our Terms of Use, the Fox News Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age.
 
@@ -52,7 +52,7 @@ We use the information we collect from and about you for these additional purpos
 
 **To contact you.** Fox News may periodically send promotional materials or notifications related to the Fox News Services. If you want to stop receiving promotional materials, you can follow the unsubscribe instructions at the bottom of each email. There are certain service notification emails that you may not opt-out of, such as notifications of changes to the Fox News Services or policies. If you have installed a mobile app and you wish to stop receiving push notifications, you can change the settings either on your mobile device or through the app.
 
-**To share with our Fox News Affiliates.** Fox News may share your information with Fox News Affiliates for the purposes described in this Privacy Policy. A link to a website that lists Fox News Affiliates can be found at the beginning of this policy. Additionally, although all Affiliated Companies adhere to the News Corporation corporate Privacy Principles, users who visit Fox News Affiliates' services should still refer to their separate privacy policies, which may differ in some respects from this Privacy Policy.
+**To share with our Fox News Affiliates.** Fox News may share your information with Fox News Affiliates for the purposes described in this Privacy Policy. Users who visit Affiliated Companies' services should still refer to their separate privacy policies, which may differ in some respects from this Privacy Policy.
 
 **To share with business partners.** Fox News may share your information with business partners to permit them to send you marketing communications consistent with your choices.
 
