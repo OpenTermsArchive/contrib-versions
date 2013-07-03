@@ -1,6 +1,6 @@
 Bearshate End User License Agreement  
 
-Effective as of November 11, 2009
+Effective as of November 11, 2010
 
 These terms constitute your license agreement. Please read it and don't wait for the movie version. This is a legal contract between you and Musiclab, LLC. ("Musiclab") that governs your use of BearShare's online music services available at www.bearshare.com consisting of the BearShare subscription service (the "Subscription Service") and the BearShare download sales service (the "Download Service", together with the Subscription Service, constitute the "Service"). This document, together with all updates, additional terms, software licenses and all of BearShare's rules and policies, collectively constitute the "Agreement" between you and Musiclab. We recommend you grab a glass of water before reading the rest. To agree to these terms, click "AGREE" where indicated. If you do not agree to these terms, do not click "AGREE," and do not use the Service. If you're not sure, think about it a little and then decide. But you have to decide. Our lawyers worked hard to make this contract understandable. We wanted to take this opportunity and say "Thank you".
 
