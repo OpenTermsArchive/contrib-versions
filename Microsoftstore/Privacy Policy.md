@@ -113,9 +113,9 @@ Finally, Microsoft sites may contain web beacons from third parties to help us c
 
 *   Omniture (Adobe): http://www.d1.sc.omtrdc.net/optout.html
 *   Nielsen: http://www.nielsen-online.com/corp.jsp?section=leg\_prs&nav=1#Optoutchoices
-*   Coremetrics:http://www.coremetrics.com/company/privacy.php#optout
-*   Visible Measures:http://corp.visiblemeasures.com/viewer-settings
-*   Google Analytics:http://tools.google.com/dlpage/gaoptout (requires you to install a browser add-on)
+*   Coremetrics: http://www.coremetrics.com/company/privacy.php#optout
+*   Visible Measures: http://corp.visiblemeasures.com/viewer-settings
+*   Google Analytics: http://tools.google.com/dlpage/gaoptout (requires you to install a browser add-on)
 
 Other Similar Technologies
 
