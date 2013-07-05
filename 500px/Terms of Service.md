@@ -1,6 +1,6 @@
 The following document outlines the terms of use of the 500px website. You can also review our Privacy policy, which outlines our practices towards handling any personal information that you may provide to us.
 
-Before using any of the 700px services, you are required to read, understand and agree to these terms. You may only create an account after reading and accepting these terms. The column on the right provides a short explanation of the terms of use and is not legally binding.
+Before using any of the 500px services, you are required to read, understand and agree to these terms. You may only create an account after reading and accepting these terms. The column on the right provides a short explanation of the terms of use and is not legally binding.
 
   
 Acceptance Of Terms
