@@ -435,7 +435,7 @@ Skype reserves the right to change the fair usage policy at any time. Changes sh
 
 **19.8 Skype Video Messaging (“Video Messaging”)**
 
-If you are not a Skype Premium subscriber, the number of Video Messages you can send are limited and will be subject to an expiry date.
+Subject to our Fair Use Policy (“FUP”) below, there are no limits on the number of Video Messages you can send. If you are not a Skype Premium subscriber, Video Messages will be kept for a minimum of 6 months from the date sent and may expire after that time.
 
 **Fair Use Policy:** This FUP is designed to prevent fraud and abuse of Video Messaging. Video Messaging is for personal, individual and non-commercial use only, and to be in accordance with these Terms at all times (“Legitimate Use”). Skype reserves the right to take any unlawful, prohibited, abnormal or unusual activity into account in making its determination as to whether your activity does not constitute Legitimate Use. Skype may in its option, terminate its relationship with you, or suspend your account immediately if it determines you are using Video Messaging contrary to this FUP or these Terms.
 
