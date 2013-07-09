@@ -55,7 +55,20 @@ V. Payment
 4.  The user must report any theft of Rapids or suspicion of misuse of his or her account to RapidShare’s support department immediately. Where criminal offences have been committed, the user must also report this to the local police and, in the event of loss or damage, must assist with resolving the case and minimising the loss or damage to the best of his or her knowledge. Refunds may be applied for within two months from the event giving rise to the damage. Claims from applications made after this deadline shall not be refunded.
     
 
-VI. Reseller
+VI. Renewal Service
+
+1.  When buying the fee-based service RapidPro, RapidShare offers the possibility of activating a periodically recurring charge (hereinafter: Renewal Service) for further payments.
+    
+2.  If the Renewal Service is active, the authorized amount at the time of acquisition incl. VAT will be recurrently charged to the indicated PayPal Account.
+    
+3.  The Renewal Service can be deactivated anytime via https://www.rapidshare.com/#myrs\_overview or by contacting the RapidShare customer service.
+    
+4.  The price or the scope of services can be subject to change due to market situation or other occurrence. In a case like that we will always notify our customers 30 days beforehand. If the Renewal Service isactive, it will be deactivated due to the change.
+    
+5.  If the amount cannot be charged from the PayPal Account, for reasons to be attributed to the customer, the Renewal Service will be deactivated.
+    
+
+VII. Reseller
 
 1.  In many countries, payment for Rapids is not possible with the payment options offered directly by RapidShare. For this reason, RapidShare cooperates with resellers, who sell Rapids in these countries in their own name and for their own account. You will find a list of resellers authorised by RapidShare here: Resellers
     
@@ -64,28 +77,28 @@ VI. Reseller
 3.  Furthermore, RapidShare points out that there are various people and companies who are not authorised resellers who nevertheless claim to be selling Rapids for RapidShare. RapidShare reserves the right to block accounts for which Rapids have been acquired through unauthorised resellers. RapidShare cannot provide refunds for payments made to unauthorised third parties.
     
 
-VII. Availability. Data Security
+VIII. Availability. Data Security
 
 1.  In principle, RapidShare shall provide the functions listed in clause I. (1) 24 hours a day and seven days a week, but only with a guaranteed monthly average availability rate of 99.5%. Periods during which the server cannot be accessed online because of technical or other problems, which are beyond RapidShare’s influence (third party faults, force majeure, etc.) shall be excluded.
     
 2.  RapidShare shall endeavour to keep necessary maintenance work as brief as possible. RapidShare shall only temporarily restrict access to its services if the security or functionality of network operations urgently requires such action. Should such restrictions (for example, to prevent hacker attacks) be required, RapidShare shall inform its users of the reasons behind this restriction in due time. If it is apparent that downtimes for maintenance or software updates will last longer than three hours, RapidShare shall notify its users of this at least three days before carrying out the work.
     
 
-VIII. Backing up your content
+IX. Backing up your content
 
 1.  The user shall be responsible for backing up on his or her computer or on another mass storage device all the files he or she stores with RapidShare or accesses through our service. RapidShare provides no guarantee or warranty that contents which the user saves with RapidShare or accesses through RapidShare’s services will be protected against accidental damage, corruption or loss.
     
 2.  RapidShare offers functions with which you may release or publish your files for a third party. For this reason, you should consider carefully which files you wish to release or publish. RapidShare shall accept no liability for damage or loss arising from the release of your files. By activating the upload function, third parties could also save unwanted files in this folder. For your own security, you should therefore regularly check the contents of shared folders. You should also bear in mind that you could be held liable for the dissemination of files located in your shared folders whose contents are illegal or protected by copyright.
     
 
-IX. Miscellaneous
+X. Miscellaneous
 
 1.  RapidShare shall inform registered users of changes to the ToU when they become effective.
     
 2.  Should a contractual provision or a provision in the ToU be or become completely or partly ineffective, this shall not affect the validity of the remaining contract or ToU. The ineffective provision shall be replaced by a legally valid provision which most closely approximates the purpose of this provision. This shall apply by analogy to any gaps or omissions.
     
 
-Baar, 27.11.2012
+Baar, 08.07.2013
 
 Terms of Use
 
@@ -144,7 +157,7 @@ V. Payment
 4.  The user must report any theft of Rapids or suspicion of misuse of his or her account to RapidShare’s support department immediately. Where criminal offences have been committed, the user must also report this to the local police and, in the event of loss or damage, must assist with resolving the case and minimising the loss or damage to the best of his or her knowledge. Refunds may be applied for within two months from the event giving rise to the damage. Claims from applications made after this deadline shall not be refunded.
     
 
-VI. Reseller
+VII. Reseller
 
 1.  In many countries, payment for Rapids is not possible with the payment options offered directly by RapidShare. For this reason, RapidShare cooperates with resellers, who sell Rapids in these countries in their own name and for their own account. You will find a list of resellers authorised by RapidShare here: Resellers
     
@@ -153,25 +166,25 @@ VI. Reseller
 3.  Furthermore, RapidShare points out that there are various people and companies who are not authorised resellers who nevertheless claim to be selling Rapids for RapidShare. RapidShare reserves the right to block accounts for which Rapids have been acquired through unauthorised resellers. RapidShare cannot provide refunds for payments made to unauthorised third parties.
     
 
-VII. Availability. Data Security
+VIII. Availability. Data Security
 
 1.  In principle, RapidShare shall provide the functions listed in clause I. (1) 24 hours a day and seven days a week, but only with a guaranteed monthly average availability rate of 99.5%. Periods during which the server cannot be accessed online because of technical or other problems, which are beyond RapidShare’s influence (third party faults, force majeure, etc.) shall be excluded.
     
 2.  RapidShare shall endeavour to keep necessary maintenance work as brief as possible. RapidShare shall only temporarily restrict access to its services if the security or functionality of network operations urgently requires such action. Should such restrictions (for example, to prevent hacker attacks) be required, RapidShare shall inform its users of the reasons behind this restriction in due time. If it is apparent that downtimes for maintenance or software updates will last longer than three hours, RapidShare shall notify its users of this at least three days before carrying out the work.
     
 
-VIII. Backing up your content
+IX. Backing up your content
 
 1.  The user shall be responsible for backing up on his or her computer or on another mass storage device all the files he or she stores with RapidShare or accesses through our service. RapidShare provides no guarantee or warranty that contents which the user saves with RapidShare or accesses through RapidShare’s services will be protected against accidental damage, corruption or loss.
     
 2.  RapidShare offers functions with which you may release or publish your files for a third party. For this reason, you should consider carefully which files you wish to release or publish. RapidShare shall accept no liability for damage or loss arising from the release of your files. By activating the upload function, third parties could also save unwanted files in this folder. For your own security, you should therefore regularly check the contents of shared folders. You should also bear in mind that you could be held liable for the dissemination of files located in your shared folders whose contents are illegal or protected by copyright.
     
 
-IX. Miscellaneous
+X. Miscellaneous
 
 1.  RapidShare shall inform registered users of changes to the ToU when they become effective.
     
 2.  Should a contractual provision or a provision in the ToU be or become completely or partly ineffective, this shall not affect the validity of the remaining contract or ToU. The ineffective provision shall be replaced by a legally valid provision which most closely approximates the purpose of this provision. This shall apply by analogy to any gaps or omissions.
     
 
-Baar, 27.11.2012
+Baar, 08.07.2013
