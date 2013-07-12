@@ -4,7 +4,7 @@ Privacy statement Microsoft Store Privacy Statement
 
 Microsoft is committed to protecting your privacy. This privacy statement applies to the data collected by Microsoft through its Microsoft Stores, including the Microsoft Store websites that specifically point to this privacy statement (the “Site” or “Website”) and its Microsoft Store retail locations that specifically point to this privacy statement (the “Store”)(collectively, the “Microsoft Stores”). This privacy statement does not apply to other online or offline Microsoft sites, stores products, or services. Similarly, this privacy statement does not apply to the products or services that you may purchase through the Store or the Website, unless those products and services specifically reference this privacy statement.
 
-Collection of Your Information
+Collection of your information
 
 We will ask you when we need information that allows us to contact you. The personal information we collect may include your name, email address, phone number, and postal address. We may also collect demographic information, such as your ZIP or postal code, age, gender, preferences, interests and favorites. If you choose to make a purchase or sign up for a paid subscription service, we will ask for additional information, such as your credit card number and billing address which is used to create a billing account. If you choose to participate in these activities, we may also collect information from you that you provide in response to surveys or that you provide in connection with a contest. In our Stores, we may use video surveillance for safety and loss prevention purposes. We may also use video footage for analytical purposes.
 
@@ -14,7 +14,7 @@ In order to offer you a more consistent and personalized experience in your inte
 
 To sign in to the Website, you will be asked to enter an e-mail address and password, which we refer to as your Microsoft account (formerly known as Windows Live™ ID). After you create your Microsoft account, you can use the same credentials to sign in to many different Microsoft sites and services, as well as those of select Microsoft partners that display the Microsoft account logo. By signing in on one Microsoft site or service, you may be automatically signed in when you visit other Microsoft sites and services. To learn more about how your credential information is used when you sign in to participating sites, please read the Microsoft Online Privacy Statement at http://privacy.microsoft.com/.We may also use GeoIP or Geo Location mapping each time you visit the Website to help automatically direct you to the specific Microsoft Store Website intended for your location, but we do not store this information as part of your account information.
 
-Use of Your Information
+Use of your information
 
 The information collected in the Store or on the Website will be used to operate the Store and the Website and to provide the service(s) or carry out the transaction(s) you have requested or authorized. We may also use this information to provide customer support, to facilitate returns and exchanges, to respond to questions or complaints, to conduct customer surveys, to detect and prevent fraud and for other purposes described in this Privacy Statement.
 
@@ -28,7 +28,7 @@ We may access or disclose information about you, including the content of your c
 
 Information that is collected in the Store or on the Website may be stored and processed in the United States or any other country in which Microsoft or its affiliates, subsidiaries, or service providers maintain facilities. Microsoft abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
-Control of Your Personal Information
+Control of your personal information
 
 Except as otherwise described in this statement or with your permission, personal information you provide to Microsoft in connection with the Store or on the Website will not be shared outside of Microsoft and its controlled subsidiaries and affiliates.
 
@@ -38,15 +38,15 @@ In the event that you return any product or item, you are responsible for deleti
 
 Please be aware that this privacy statement and any choices you make in the Store or on the Website will not necessarily apply to personal information you may have provided to Microsoft in the context of other, separately operated, Microsoft websites, products or services.
 
-Access to Your Personal Information
+Access to your personal information
 
 You can review and edit the personal information you provided at the Website by signing into your Microsoft Store account. In order to help prevent your personal information from being viewed by others, you will be required to sign in with your Microsoft account credentials (e-mail address and password).
 
-Security of Your Information
+Security of your information
 
 At Microsoft, we take the security of your personal information very seriously. We use a variety of security technologies and procedures in our Stores and on our Websites to help protect your personal information from unauthorized access, use, or disclosure. For example, for our Website, we store the personal information you provide on computer servers with limited access that are located in controlled facilities. Additionally, if we transmit sensitive personal information (such as a credit card number) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
-Cookies &. Similar Technologies
+Cookies &. similar technologies
 
 Most Microsoft web sites use "cookies," which are small text files placed on your hard disk by a web server. Cookies contain text that can be read by a web server in the domain that issued the cookie to you. That text often consists of a string of numbers and letters that uniquely identifies your computer, but may contain other information as well. Here is an example of the text stored in a cookie that Microsoft might place on your hard disk when you visit one of our web sites: E3732CA7E319442F97EA48A170C99801
 
@@ -64,7 +64,7 @@ We may use cookies for:
     In addition to the cookies Microsoft may set when you visit our web sites, third parties may also set certain cookies on your hard drive when you visit Microsoft sites. In some cases, that is because we have hired the third party to provide certain services on our behalf, such as site analytics. In other cases, it is because our web pages contain content or ads from third parties, such as videos, news content or ads delivered by other ad networks. Because your browser connects to those third parties’ web servers to retrieve that content, those third parties are able to set or read their own cookies on your hard drive.
     
 
-How to Control Cookies
+How to control cookies
 
 *   **Browser Controls to Block Cookies.** Most web browsers automatically accept cookies, but you can usually modify your browser setting to block cookies.
     
@@ -103,7 +103,7 @@ How to Control Cookies
     Individual advertising companies may also offer their own opt-out capabilities plus more advanced advertising choices. For instance, Microsoft’s advertising preference and opt-out controls are available at http://choice.live.com/advertisementchoice/. Please note that opting out does not mean that you will stop getting ads or see fewer ads. however, if you do opt out, the ads that you receive will no longer be behaviorally targeted. In addition, opting out does not stop information from being collected.
     
 
-Our Use of Web Beacons
+Our use of web beacons
 
 Microsoft web pages may contain electronic images known as web beacons - sometimes called single-pixel gifs - that may be used to help deliver cookies on our sites, let us count users who have visited those pages and deliver co-branded services. We may include web beacons in our promotional e-mail messages or newsletters to determine whether messages have been opened and acted upon.
 
@@ -117,14 +117,14 @@ Finally, Microsoft sites may contain web beacons from third parties to help us c
 *   Visible Measures: http://corp.visiblemeasures.com/viewer-settings
 *   Google Analytics: http://tools.google.com/dlpage/gaoptout (requires you to install a browser add-on)
 
-Other Similar Technologies
+Other similar technologies
 
 In addition to standard cookies and web beacons, web sites can use other technologies to store and read data files on your computer. This may be done to maintain your preferences or to improve speed and performance by storing certain files locally. But, like standard cookies, it can also be used to store a unique identifier for your computer, which can then be used to track behavior. These technologies include Local Shared Objects (or “Flash cookies”) and Silverlight Application Storage.
 
 *   **Local Shared Objects or “Flash cookies.”** Web sites that use Adobe Flash technologies may use Local Shared Objects or “Flash cookies” to store data on your computer. Note that the ability to clear Flash cookies may or may not be controlled by your browser setting for standard cookies as that may vary by browser. To manage or block Flash cookies, go to http://www.macromedia.com/support/documentation/en/flashplayer/help/settings\_manager.html
 *   **Silverlight Application Storage.** Web sites or applications that use Microsoft Silverlight technology also have the ability to store data by using Silverlight Application Storage. To learn how to manage or block such storage, visit Silverlight.
 
-Display of Advertising
+Display of advertising
 
 Many of the Web sites and online services we offer, as well as those of our partners, are supported by advertising. Through our ad delivery platform, we may display ads on our own sites and the sites of our advertising partners.
 
@@ -144,7 +144,7 @@ Changes to this Privacy Statement
 
 We may occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this privacy statement, we will notify you either by placing a prominent notice on the home page of our Website or by directly sending you a notification. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect.
 
-Contact Information
+Contact information
 
 Microsoft welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please visit the Contact Us page on our Website to send us an e-mail or contact us by postal mail at:
 
