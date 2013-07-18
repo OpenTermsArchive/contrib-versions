@@ -1210,7 +1210,7 @@ We will post privacy policy updates, items of interest and notice of any changes
 
 ' + '' + '' + '
 
-Updated 6/28/13
+Updated 7/16/13
 
 ' +'
 
@@ -1225,6 +1225,36 @@ Updated 6/28/13
 ' +'
 
 **A.** Customers can unsubscribe from AT&T marketing materials sent by U.S. mail here.
+
+' +'
+
+**Q.** I have an AT&T business account. Will my anonymous information be used in External Marketing &. Analytics Reports?
+
+' +'
+
+**A.** These reports will use anonymous information from AT&T consumer accounts. Business accounts are not included except for small-business U-verse accounts. However, they can opt out just like consumer accounts by visiting www.att.com/cmpchoice.
+
+' +'
+
+**Q.** For AT&T Relevant Advertising, why do I have to opt out from each computer or mobile device?
+
+' +'
+
+**A.** That\\'s a good question. Opt-out works differently for your computer than for your mobile device. On your computer\\'s web browser, opt-out works through a small data file called a "cookie." The cookie communicates from your browser, telling advertisers that you don\\'t want to receive the relevant ad. It is anonymous, and is not linked to your identity or account. This is the current, standard method for online advertising. You can learn more about cookies here, and you can opt-out your computer\\'s browser at http://adworks.att.com/adpreferences if you are on that computer now.
+
+' +'
+
+For mobile, different devices use different technologies. Some mobile devices, for example, do not support the use of cookies. Therefore, to ensure that we don\\'t deliver AT&T Relevant Advertising to your mobile device, we must be able to accurately identify the device that you are opting out. To do that, on each device that you wish to opt-out, go to http://adworks.att.com/mobileoptout and click "Opt-Out". Please make sure you are connected to the AT&T cellular network when you do so.
+
+' +'
+
+**Q.** I can\\'t figure out how to opt out of the External Marketing &. Analytics Reports.
+
+' +'
+
+**A.** You can opt out of External Marketing &. Analytics reports in two ways. You can go to http://att.com/cmpchoice with your account ID and password, or you can call 866.344.9850. If you have more than one AT&T account, such as wireless and AT&T U-verse, you may have to log in to each account if you use att.com/cmpchoice. We require logging in for security, to make sure it\\'s really you making a change to your account.
+
+' +'
 
 ' + '' + '' + ' '). } if (pid == '2506') { document.write('' + 'Your Rights and Choices' + '
 
