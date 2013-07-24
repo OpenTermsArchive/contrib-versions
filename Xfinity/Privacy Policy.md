@@ -8,47 +8,40 @@ Your XFINITY Connect session has timed out due to inactivity. Click here to go b
 
 XFINITY
 
-*   Home
 *   TV
-*   Connect
-*   Account
+*   Email
+*   Voicemail
+*   Home Security
+*   More
+    
+    *   Money
+    *   News
+    *   Sports
+    *   Jobs
+    *   Autos
+    *   Travel
+    *   Real Estate
+    *   Lifestyle
+    *   Entertainment
+    
+    *   TV Listings
+    *   Queue
+    *   TV Shows
+    *   Movies
+    *   Streampix
+    *   Live TV
+    *   DVR Manager
+    *   More...
+
 *   Shop/Upgrade
-
-*   Help
-*   Security
-
-*   My Profile
-*   Register
+*   My Account
+*   Support
 *   Sign In
 
-My Profile
-
-Set-up
-
-Loading Percentage View More Options
-
-*   Hi
+*   Shop/Upgrade
+*   My Account
+*   Support
 *   Sign Out
-
-Welcome
-
-Complete the XFINITY set up process so you can browse, watch and record your TV shows &. movies anytime, anywhere.
-
-Set Up XFINITY
-
-Welcome
-
-Just more steps and you're done:
-
-You're Done!
-
-Complete Set-up
-
-View Profile
-
-Thank You
-
-Coming back to complete the set-up is simple. Just click on the arrow to the right of the progress bar to see where you left off, then finish your set-up tasks.
 
 XFINITY Privacy Policy Privacy Policy Archive (Previous Versions) **Effective October 7, 2011 Learn More**Web Services Privacy Policy  
 October 7, 2011 Summary (Jump to Full Policy) What the Privacy Policy does
@@ -337,3 +330,71 @@ You can direct questions regarding this Privacy Policy to Comcast by e-mailing u
 You can find customer support and help information at http://customer.comcast.com/Pages/Help.aspx. Some online support areas and tools may ask you to provide information to Comcast to help us address your questions or problems. We may also make software tools available to help configure your computer's or network's settings, or collect information from your computer or network to help us provide support to you. If you choose to provide this information to Comcast or use these tools, we will use the information only for customer support purposes.
 
 Revised and Effective: October 7, 2011
+
+XFINITY
+
+*   Autos
+*   Dating
+*   Entertainment
+*   Games
+*   Jobs
+*   Local
+*   Money
+*   News
+*   Real Estate
+*   Sports
+*   Travel
+
+XFINITY TV
+
+*   Mobile Apps
+*   Parental Controls
+*   Queue
+*   Store
+*   TV Listings
+*   Watch Online
+*   XFINITY On Demandâ¢
+
+XFINITY CONNECT
+
+*   Address Book
+*   Calendar
+*   Create New Email Address
+*   Email
+*   Mobile App
+*   Preferences
+*   Voicemail
+
+XFINITY HOME
+
+*   Shop Services
+*   Equipment Store
+*   Subscriber Web Portal
+*   Mobile App
+*   Help &. Support
+*   Customer Forums
+
+SUPPORT &. SERVICES
+
+*   Comcast Business
+*   Comcast Careers
+*   Constant Guard
+*   Customer Guarantee
+*   Ecobill
+*   Customer Guarantee
+*   Mover's Edge
+*   My Account
+*   Pay My Bill
+*   Shop/Upgrade
+*   Support
+*   \[+\] Submit Feedback
+
+XFINITY © 2013 Comcast
+
+*   Privacy Policy
+*   Ad Choices
+*   Terms of Service
+*   Advertise With Us
+*   Contact Us
+
+Comcast
