@@ -17,7 +17,7 @@ AT&T Wireless Service(s) may be used with: (a) a mobile device that contains a S
 
 **Term of Service.** Your Agreement begins on the day we activate your Service(s) and continues through the Term of Service, typically a 12 month or 24 month period (“Service Commitment”), specified on your Customer Service Summary. At the end of your service commitment, this Agreement will automatically continue on a month-to-month basis. If your Agreement has no Service Commitment, it is a month-to-month Agreement.
 
-**Fulfillment of Service Commitment.** You have received certain benefits from us in exchange for your Service Commitment, which may include, but are not limited to, a subsidized wireless device. There are two alternative ways to fulfill your Service Commitment. You can pay for the Services described in your Customer Service Summary for the term of your Service Commitment, or you can terminate your Agreement prior to the end of your Service Commitment and pay an Early Termination Fee (“ETF”). The Early Termination Fee is not a penalty, but rather is an alternative means for your perform your obligations under the Agreement that partially compensates us for the fact that the Service Commitment on which your rate plan is based was not completed.
+**Fulfillment of Service Commitment.** You have received certain benefits from us in exchange for your Service Commitment, which may include, but are not limited to, a subsidized wireless device. There are two alternative ways to fulfill your Service Commitment. You can pay for the Services described in your Customer Service Summary for the term of your Service Commitment, or you can terminate your Agreement prior to the end of your Service Commitment and pay an Early Termination Fee (“ETF”). The Early Termination Fee is not a penalty, but rather is an alternative means for you to perform your obligations under the Agreement that partially compensates us for the fact that the Service Commitment on which your rate plan is based was not completed.
 
 **Your Termination Rights.** Within the first 14 days after service activation, you may terminate your Agreement for any reason and not be required to pay an ETF. If you terminate within three (3) days of accepting the Agreement, AT&T will refund your activation fee, if any. However, you agree to pay AT&T for all fees, charges, and other amounts incurred and owed under your Agreement, and you agree to return to AT&T any Equipment you purchased from AT&T in connection with your Service Commitment. If you fail to return this Equipment, you will be charged the difference between the amount you paid AT&T for the Equipment and the amount you would have been charged for the Equipment had you not agreed to a Service Commitment. AT&T also may charge you a restocking fee for any returned Equipment. Some dealers may impose additional fees.
 
@@ -98,7 +98,7 @@ We may require you to make deposits or advance payments for Services, which we m
 
 **1.7   What if I fail to pay my AT&T Bill when it is due?**
 
-Late payment charges are based on the state to which the area code of the wireless telephone number assigned to you is assigned by the North American Numbering Plan Administration (for area code assignments see nationalnanpa.com/area\_code\_maps). You agree that for amounts not paid by the due date, AT&T may charge, as a part of its rates and charges, and you agree to pay, a late payment fee of $5 in CT, D.C., DE, IL, KS, MA, MD, ME, MI, MO, NH, NJ, NY, OH, OK, PA, RI, VA, VT, WI, WV. the late payment charge is 1.5% of the balance carried forward to the next bill in all other states. **In the event you fail to pay billed charges when due and it becomes necessary for AT&T to refer your account(s) to a third party for collection, AT&T will charge a collection fee at the maximum percentage permitted by applicable law, but not to exceed 18% to cover the internal collection-related costs AT&T has incurred on such account(s) through and including the date on which AT&T refer(s) the account(s) to such third party.**
+You agree that for each bill not paid in full by the due date, AT&T may charge and you will pay a late payment fee of $5.
 
 You expressly authorize, and specifically consent to allowing, AT&T and/or its outside collection agencies, outside counsel, or other agents to contact you in connection with any and all matters relating to unpaid past due charges billed by AT&T to you. You agree that, for attempts to collect unpaid past due charges, such contact may be made to any mailing address, telephone number, cellular phone number, e-mail address, or any other electronic address that you have provided, or may in the future provide, to AT&T. You agree and acknowledge that any e-mail address or any other electronic address that you provide to AT&T is your private address and is not accessible to unauthorized third parties. For attempts to collect unpaid charges, you agree that in addition to individual persons attempting to communicate directly with you, any type of contact described above may be made using, among other methods, pre-recorded or artificial voice messages delivered by an automatic telephone dialing system, pre-set e-mail messages delivered by an automatic e-mailing system, or any other pre-set electronic messages delivered by any other automatic electronic messaging system.
 
@@ -112,7 +112,7 @@ We’ll charge you up to $30 (depending on applicable law) for any check or othe
 
 **1.9   Are There Business or Government Benefits?**
 
-You may receive or be eligible for certain rate plans, discounts, features, promotions, and other benefits ("Benefits") through a business or government customer's agreement with us ("Business Agreement"). All such Benefits are provided to you solely as a result of the corresponding Business Agreement, and may be modified or terminated without notice. You may also be eligible for certain additional Services. Please see att.com/iru-additional-terms for such Services and the associated additional terms, which are hereby incorporated by reference.
+You may receive or be eligible for certain rate plans, discounts, features, promotions, and other benefits ("Benefits") through a business or government customer's agreement with us ("Business Agreement"). All such Benefits are provided to you solely as a result of the corresponding Business Agreement, and may be modified or terminated without notice. You may also be eligible for certain additional Services. Please see http://www.wireless.att.com/businesscenter for such Services and the associated additional terms, which are hereby incorporated by reference.
 
 If a business or government entity pays your charges or is otherwise liable for the charges, you authorize us to share your account information with it or its authorized agents. If you use Service(s) and/or receive certain Benefits tied to a Business Agreement with us, but you’re liable for your own charges, then you authorize us to share enough account information with it or its authorized agents to verify your continuing eligibility for those Services or Benefits.
 
@@ -149,11 +149,11 @@ In addition, under certain circumstances (as explained below), AT&T will pay you
 
   
 
-References to "AT&T," "you," and "us" include our respective subsidiaries, affiliates, agents, employees, predecessors in interest, successors, and assigns, as well as all authorized or unauthorized users or beneficiaries of services or Devices under this or prior Agreements between us. Notwithstanding the foregoing, either party may bring an individual action in small claims court. This arbitration agreement does not preclude you from bringing issues to the attention of federal, state, or local agencies, including, for example, the Federal Communications Commission. Such agencies can, if the law allows, seek relief against us on your behalf. **You agree that, by entering into this Agreement, you and AT&T are each waiving the right to a trial by jury or to participate in a class action.** This Agreement evidences a transaction in interstate commerce, and thus the Federal Arbitration Act governs the interpretation and enforcement of this provision. This arbitration provision shall survve termination of this Agreement.
+References to "AT&T," "you," and "us" include our respective subsidiaries, affiliates, agents, employees, predecessors in interest, successors, and assigns, as well as all authorized or unauthorized users or beneficiaries of services or Devices under this or prior Agreements between us. Notwithstanding the foregoing, either party may bring an individual action in small claims court. This arbitration agreement does not preclude you from bringing issues to the attention of federal, state, or local agencies, including, for example, the Federal Communications Commission. Such agencies can, if the law allows, seek relief against us on your behalf. **You agree that, by entering into this Agreement, you and AT&T are each waiving the right to a trial by jury or to participate in a class action.** This Agreement evidences a transaction in interstate commerce, and thus the Federal Arbitration Act governs the interpretation and enforcement of this provision. This arbitration provision shall survive termination of this Agreement.
 
 (2) A party who intends to seek arbitration must first send to the other, by certified mail, a written Notice of Dispute ("Notice"). The Notice to AT&T should be addressed to: Office for Dispute Resolution, AT&T, 1025 Lenox Park Blvd., Atlanta, GA 30319 ("Notice Address"). The Notice must (a) describe the nature and basis of the claim or dispute. and (b) set forth the specific relief sought ("Demand"). If AT&T and you do not reach an agreement to resolve the claim within 30 days after the Notice is received, you or AT&T may commence an arbitration proceeding. During the arbitration, the amount of any settlement offer made by AT&T or you shall not be disclosed to the arbitrator until after the arbitrator determines the amount, if any, to which you or AT&T is entitled. You may download or copy a form Notice and a form to initiate arbitration at att.com/arbitration-forms.
 
-(3) After AT&T receives notice at the Notice Address that you have commenced arbitration, it will promptly reimburse you for your payment of the filing fee, unless your claim is for greater than $75,000. (The filing fee currently is $125 for claims under $10,000 but is subject to change by the arbitration provider. If you are unable to pay this fee, AT&T will pay it directly upon receiving a written request at the Notice Address.) The arbitration will be governed by the Commercial Arbitration Rules and the Supplementary Procedures for Consumer Related Disputes (collectively, "AAA Rules") of the American Arbitration Association ("AAA"), as modified by this Agreement, and will be administered by the AAA. The AAA Rules are available online at adr.org, by calling the AAA at 1-800-778-7879, or by writing to the Notice Address. (You may obtain information that is designed for non-lawyers about the arbitration process at att.com/arbitration-information.) The arbitrator is bound by the terms of this Agreement. All issues are for the arbitrator to decide, except that issues relating to the scope and enforceability of the arbitration provision are for the court to decide. Unless AT&T and you agree otherwise, any arbitration hearings will take place in the county (or parish) of your billing address. If your claim is for $10,000 or less, we agree that you may choose whether the arbitration will be conducted solely on the basis of documents submitted to the arbitrator, through a telephonic hearing, or by an in-person hearing as established by the AAA Rules. If your claim exceeds $10,000, the right to a hearing will be determined by the AAA Rules. Regardless of the manner in which the arbitration is conducted, the arbitrator shall issue a reasoned written decision sufficient to explain the essential findings and conclusions on which the award is based. Except as otherwise provided for herein, AT&T will pay all AAA filing, administration, and arbitrator fees for any arbitration initiated in accordance with the notice requirements above. If, however, the arbitrator finds that either the substance of your claim or the relief sought in the Demand is frivolous or brought for an improper purpose (as measured by the standards set forth in Federal Rule of Civil Procedure 11(b)), then the payment of all such fees will be governed by the AAA Rules. In such case, you agree to reimburse AT&T for all monies previously disbursed by it that are otherwise your obligation to pay under the AAA Rules. In addition, if you initiate an arbitration in which you seek more than $75,000 in damages, the payment of these fees will be governed by the AAA rules.
+(3) After AT&T receives notice at the Notice Address that you have commenced arbitration, it will promptly reimburse you for your payment of the filing fee, unless your claim is for greater than $75,000. (The filing fee currently is $200 for claims under $10,000 but is subject to change by the arbitration provider. If you are unable to pay this fee, AT&T will pay it directly upon receiving a written request at the Notice Address.) The arbitration will be governed by the Commercial Arbitration Rules and the Supplementary Procedures for Consumer Related Disputes (collectively, "AAA Rules") of the American Arbitration Association ("AAA"), as modified by this Agreement, and will be administered by the AAA. The AAA Rules are available online at adr.org, by calling the AAA at 1-800-778-7879, or by writing to the Notice Address. (You may obtain information that is designed for non-lawyers about the arbitration process at att.com/arbitration-information.) The arbitrator is bound by the terms of this Agreement. All issues are for the arbitrator to decide, except that issues relating to the scope and enforceability of the arbitration provision are for the court to decide. Unless AT&T and you agree otherwise, any arbitration hearings will take place in the county (or parish) of your billing address. If your claim is for $10,000 or less, we agree that you may choose whether the arbitration will be conducted solely on the basis of documents submitted to the arbitrator, through a telephonic hearing, or by an in-person hearing as established by the AAA Rules. If your claim exceeds $10,000, the right to a hearing will be determined by the AAA Rules. Regardless of the manner in which the arbitration is conducted, the arbitrator shall issue a reasoned written decision sufficient to explain the essential findings and conclusions on which the award is based. Except as otherwise provided for herein, AT&T will pay all AAA filing, administration, and arbitrator fees for any arbitration initiated in accordance with the notice requirements above. If, however, the arbitrator finds that either the substance of your claim or the relief sought in the Demand is frivolous or brought for an improper purpose (as measured by the standards set forth in Federal Rule of Civil Procedure 11(b)), then the payment of all such fees will be governed by the AAA Rules. In such case, you agree to reimburse AT&T for all monies previously disbursed by it that are otherwise your obligation to pay under the AAA Rules. In addition, if you initiate an arbitration in which you seek more than $75,000 in damages, the payment of these fees will be governed by the AAA rules.
 
 (4) If, after finding in your favor in any respect on the merits of your claim, the arbitrator issues you an award that is greater than the value of AT&T's last written settlement offer made before an arbitrator was selected, then AT&T will:
 
@@ -250,7 +250,7 @@ Our directory assistance service (411) may use the location of a Device to deliv
 
 If your wireless Device is lost or stolen, you must contact us immediately to report the Device lost or stolen. You’re not liable for charges you did not authorize, but the fact that a call was placed from your Device is evidence that the call was authorized. Once you report to us that the Device is lost or stolen, you will not be responsible for subsequent charges incurred by that Device.
 
-You can report your Device as lost or stolen and suspend Services without a charge by contacting us at the phone number listed on your bill or at wireless.att.com. If there are charges on your bill for calls made after the Device was lost or stolen, but before you reported it to us, notify us of the disputed charges and we will investigate. You may submit documents, statements and other information to show any charges were not authorized. You may be asked to provide information and you may submit information to support your claim. We will advise you of the result of our investigation within 30 days. While your phone is suspended you will remain responsible for complying with all other obligations under this Agreement, including, but not limited to, your monthly fee. We both have a duty to act in good faith in a reasonable and responsible manner including in connection with the loss or theft of your Device. (California Customers see Section 10.1 “California: What if there are Unauthorized Charges Billed to My Device?” below.)
+You can report your Device as lost or stolen and suspend Services without a charge by contacting us at the phone number listed on your bill or at wireless.att.com. If there are charges on your bill for calls made after the Device was lost or stolen, but before you reported it to us, notify us of the disputed charges and we will investigate. You may submit documents, statements and other information to show any charges were not authorized. You may be asked to provide information and you may submit information to support your claim. We will advise you of the result of our investigation within 30 days. While your phone is suspended you will remain responsible for complying with all other obligations under this Agreement, including, but not limited to, your monthly fee. We both have a duty to act in good faith in a reasonable and responsible manner including in connection with the loss or theft of your Device. (California Customers see Section 11.1 “California: What if there are Unauthorized Charges Billed to My Device?” below.)
 
 **4.0   TERMS RELATING TO THE USE AND LIMITATIONS OF SERVICE**
 
@@ -469,26 +469,6 @@ Regular airtime charges apply. Mobile to Mobile Minutes do not apply. Calls to 9
 
 Available only with select Nation, FamilyTalk, and BusinessTalk plans and can be discontinued at anytime. Messaging Unlimited Plan required. Mobile to Any Mobile minutes only apply when you directly dial another U.S. mobile number or directly receive a call from another U.S. mobile phone number from within your calling area in the U.S., Puerto Rico, or U.S.V.I. Mobile to Any Mobile is not available with the AT&T Viva Mexico or AT&T Nation/FamilyTalk with Canada plans. Calls made through Voice Connect, calls to directory assistance, and calls to voicemail and return calls from voicemail are not included. Only numbers included in the wireless number database that AT&T uses will be treated as a call to a mobile number or a call received from a mobile number. So for example, Type 1 numbers belonging to other carriers and not included in the industry wireless LNP database, and numbers for which ports to wireless service have not yet completed, will not be treated as a call to a mobile number or a call received from a mobile number. Also calls made to and calls received from mobile toll-free numbers, mobile chat lines, mobile directory assistance, calling applications, numbers for call routing and call forwarding services, and machine to machine numbers are not included.
 
-  
-
-**5.14   Wireless Home Phone Service**
-
-AT&T Wireless Home Phone service (“WHP Service”) utilizes a wireless gateway which enables your corded or cordless landline telephones to make calls over the AT&T wireless network. WHP Service provides only voice service. To use the WHP Service, you will need to purchase an AT&T Wireless Home Phone device (“WHP Device”) and connect to it your corded or cordless landline telephone equipment (not included). Each WHP Device can be associated with only one (1) phone number. This WHP Device is sold for use on the AT&T wireless network and is not compatible with other wireless networks.
-
-One of the following eligible voice plans are required: 1) add a line to your FamilyTalk plan or 2) Wireless Home Phone unlimited plan. If on the FamilyTalk plan, the WHP Service will use your package minutes shared by the lines on the plan. See att.com for more details. The AT&T Wireless Home Phone unlimited rate plan includes inbound and outbound Anytime Minute domestic calls made to the 50 United States, Puerto Rico, U.S. Virgin Islands, Guam and Northern Mariana Islands. See Section 5.4 for additional details on unlimited voice services. International roaming is not enabled. Text messaging and other data services and features are not available with the WHP Service.
-
-The Wireless Home Phone unlimited plan is designed for use with only the WHP Device(s) that you have purchased and may not be used with any other device (via SIM-card transfer or any other means). If it is determined that you are using the Wireless Home Phone unlimited plan on a device that is not a WHP Device, AT&T reserves the right to switch you to an appropriate wireless voice plan and bill you the associated fees for such plan.
-
-A new wireless number will be provided if you are not porting an existing wireless or home phone number to the WHP Service. Your WHP Device should be operated in a location where AT&T is authorized to provide wireless service. If your WHP Device is used while on other carrier networks, AT&T’s off-net usage restrictions apply. Please see section 4.5 of your Wireless Customer Agreement or att.com for details.
-
-AT&T does not represent that the WHP Service will be equivalent to landline service. Because the WHP Service uses a wireless network, you may experience occasional service limitations inherent to wireless service e.g., dropped calls. AT&T recommends that you place your WHP Device on a hard surface with an unobstructed view of the outdoors in a location in the home that has an AT&T wireless signal strength that is acceptable to you.
-
-**911 calls are routed based on the wireless network's automatic location technology. You should expect to provide your home address to the emergency response center responsible for sending first responders (e.g. police, medical assistance, or fire) to your location.**
-
-While battery backup is provided for your WHP Device, if your WHP Device is connected to a landline phone that requires external electric power to operate e.g., cordless phones, WHP Service (including the ability to make and receive 911 calls) will not be available during a power outage.
-
-WHP Service is compatible with home answering machines but may not support your fax machine, alarm services including medical alert services, dial-up internet service, or credit card machines. The WHP Service is not compatible with television services that require you to connect telephone service to television equipment such as digital video recorder equipment or on-demand movie services.
-
 **6.0   WHAT DATA AND MESSAGING SERVICES DOES AT&T OFFER?**
 
 **6.1   What Are The General Terms That Apply To All Data And Messaging Plans?**
@@ -497,7 +477,7 @@ AT&T provides wireless data and messaging Services, including but not limited to
 
 **For Data Services with a monthly megabyte (MB) or gigabyte (GB) data allowance, once you exceed your monthly data allowance you will be automatically charged for overage as specified in the applicable rate plan. All data allowances, including overages, must be used in the billing period in which the allowance is provided. Unused data allowances will not roll over to subsequent billing periods.**
 
-AT&T data plans are designed for use with only one of the following distinct Device types: (1) Smartphones, (2) basic and Quick Messaging phones, (3) tablets, (4) LaptopConnect cards, and (5) stand-alone Mobile Hotspot devices. A data plan designated for one type of device may not be used with another type of device. For example, a data plan designated for use with a basic phone or a Smartphone may not be used with a LaptopConnect card, tablet, or stand-alone Mobile Hotspot device, by tethering devices together, by SIM card transfer, or any other means. A data tethering plan, however, may be purchased for an additional fee to enable tethering on a compatible device. An Activation Fee may apply for each data line.
+AT&T data plans are designed for use with only one of the following distinct Device types: (1) Smartphones, (2) basic and Quick Messaging phones, (3) tablets, (4) LaptopConnect cards, (5) stand-alone Mobile Hotspot devices, and (6) Home Bases. A data plan designated for one type of device may not be used with another type of device. For example, a data plan designated for use with a basic phone or a Smartphone may not be used with a LaptopConnect card, tablet, or stand-alone Mobile Hotspot device, by tethering devices together, by SIM card transfer, or any other means. A data tethering plan, however, may be purchased for an additional fee to enable tethering on a compatible device. An Activation Fee may apply for each data line.
 
 Consumer data plans do not allow access to corporate email, company intranet sites, and other business applications. Access to corporate email, company intranet sites, and/or other business applications requires an applicable Enterprise Data plan. Enterprise Email requires an eligible data plan and Device. Terms may vary depending on selected Enterprise Email solution.
 
@@ -505,7 +485,7 @@ AT&T RESERVES THE RIGHT TO TERMINATE YOUR DATA SERVICES WITH OR WITHOUT CAUSE, I
 
   
 
-**6.2   What Are The Intended Purposes Of AT&T's Wireless Data Service?**
+**6.2   What Are The Intended Uses Of AT&T's Wireless Data Service?**
 
 AT&T's wireless data network is a shared resource, which AT&T manages for the benefit of all of its customers so that they can enjoy a consistent, high-quality mobile broadband experience and a broad range of mobile Internet services, applications and content. However, certain activities and uses of the network by an individual customer or small group of customers can negatively impact the use and enjoyment of the network by others. Therefore, certain activities and uses of AT&T’s wireless data service are permitted and others are prohibited. The terms and conditions of your use of AT&T’s wireless data service are set forth below.
 
@@ -581,33 +561,39 @@ You agree you will not use our messaging services to send messages that contain 
 
   
 
-**6.6   Mobile Email**
+**6.6   AT&T My Media CLUB**
 
-Requires e-mail account with compatible internet service provider and a downloaded or preloaded e-mail application for the wireless device. Access and use of Mobile Email is billed by total volume of data sent and received (in kilobytes) in accordance with your data plan. E-mail attachments can not be sent, downloaded, read, or forwarded on the mobile device. Only a paper clip icon appears indicating an attachment. You must view attachments from your PC. Upgrades to the application may be required in order to continue to use the Service. Wireless data usage charges will apply for downloading the application and any upgrades.
+Your enrollment gives you the option to receive text messages each week on music trivia, news and more. Every 30 days your subscription will be automatically renewed and new credits added to your account which can be used to buy ringtones and graphics through the MEdia Mall. Music, Voice, Sound Effect Tones, polyphonic ringtones &. graphics are 1 credit. Unused credits expire at the end of each 30 day period. The 30 day period is not necessarily equivalent to a calendar month end or the billing cycle. You may terminate your subscription at any time by texting the word "STOP" to 7225. Any remaining credits will be available for the remainder of your subscription billing cycle. Savings claim based on price of Music Tones. Ringtone and graphics provided by independent providers.
 
   
 
-**6.7  Mobile Video**
+**6.7   Mobile Email**
+
+Requires e-mail account with compatible internet service provider and a downloaded or preloaded e-mail application for the wireless device. Access and use of Mobile Email is billed by total volume of data sent and received (in kilobytes) in accordance with your data plan. E-mail attachments cannot be sent, downloaded, read, or forwarded on the mobile device. Only a paper clip icon appears indicating an attachment. You must view attachments from your PC. Upgrades to the application may be required in order to continue to use the Service. Wireless data usage charges will apply for downloading the application and any upgrades.
+
+  
+
+**6.8   Mobile Video**
 
 Compatible Phone and eligible data plan required. Service not available outside AT&T’s Mobile Broadband and 4G coverage areas. Premium content is charged at stated monthly subscription rates or at stated pay per view rates. Content rotates and is subject to withdrawal. Mobile Video is for individual use, not for resale, commercial purposes or public broadcast. Content can only be displayed on the device screen. No content may be captured, downloaded, forwarded, duplicated, stored, or transmitted. The content owner reserves and owns all content rights. All trademarks, service marks, logos, and copyrights not owned by AT&T are the property of their owners. Some Mobile Video content is intended for mature audiences and may be inappropriate for younger viewers. Parental guidance suggested. Use Parental Controls to restrict access to mature content. Content may be provided by independent providers, and AT&T is not responsible for their content. Providers may collect certain information from yor use for tracking and managing content usage.
 
   
 
-**6.8   AT&T Wi-Fi Services**
+**6.9   AT&T Wi-Fi Services**
 
 **AT&T Wi-Fi service use with a Wi-Fi capable wireless device is subject to the Terms of Services &. Acceptable Use Policy ("Terms") found at att.com/attwifitosaup. Your use represents your agreement to those Terms, incorporated herein by reference.** AT&T Wi-Fi Basic service is available at no additional charge to wireless customers with select Wi-Fi capable devices and a qualified data rate plan. Other restrictions may apply.
 
   
 
-**6.9   DataConnect Plans**
+**6.10   DataConnect Plans**
 
-**6.9.1   What Are the General Terms that Apply to All DataConnect Plans?**
+**6.10.1   What Are the General Terms that Apply to All DataConnect Plans?**
 
 A voice plan is not required with DataConnect plans.
 
 We may, at our discretion, suspend your account if we believe your data usage is excessive, unusual or is better suited to another rate plan. If you are on a data plan that does not include a monthly MB/GB allowance and additional data usage rates, you agree that AT&T has the right to impose additional charges if you use more than 5 GB in a month. provided that, prior to the imposition of any additional charges, AT&T shall provide you with notice and you shall have the right to terminate your Data Service.
 
-**6.9.2   Data Global Add-On/DataConnect Global Plans/DataConnect North America Plans**
+**6.10.2   Data Global Add-On/DataConnect Global Plans/DataConnect North America Plans**
 
 Available countries, coverage and participating international carriers included in the "Select International Roam Zone" and "Select Canada/Mexico Roam Zone" vary from our generally available Canada/international wireless data roam zones and may not be as extensive. The Select International Roam Zone is restricted to select international wireless carrier(s). Select Canada/Mexico Roam Zone is restricted to select wireless carrier(s) and coverage areas within Canada and Mexico. See att.com/dataconnectglobal for a current list of participating carriers and eligible roam zones. With respect to the countries included in the Select International Roam Zone, you will be restricted from accessing Data Service through any non-participating Canada/international wireless carriers that may otherwise be included in our generally available Canada and international wireless data roam zones. With the DataConnect North America Plan, you will be restricted from accessing Data Service through any non-participating Canada/Mexico wireless carriers that may otherwise be included in our generally available Canada and international wireless data roam zones.
 
@@ -615,7 +601,7 @@ DATA GLOBAL ADD-ON- May only be used with eligible Equipment. Domestic data usag
 
 DATACONNECT GLOBAL/NORTH AMERICA PLANS - Requires minimum one-year Service Commitment and you must remain on the plan, for a minimum one-year term. Voice access is restricted and prohibited.
 
-**6.9.3   Pooled DataConnect Plans**
+**6.10.3   Pooled DataConnect Plans**
 
 Pooled Data Connect Plans ("Pooled Plans") available only to customers with a qualified AT&T Business Agreement for wireless Services and their respective Corporate Responsibility Users ("CRUs"). Consolidated billing is required. WIN Advantage® may also be required. Within a single Foundation Account (FAN), Customer's CRUs on an eligible Pooled Plan aggregate or "pool" their included wireless data usage ("Included Usage"), creating a "Pool".
 
@@ -627,67 +613,89 @@ AT&T reserves the right to limit the number of CRUs in a Pool due to business ne
 
   
 
-**6.10   AT&T DataPlusSM/AT&T DataProSM Plans**
+**6.11   AT&T DataPlusSM/AT&T DataProSM Plans**
 
-**6.10.1   AT&T Data Plans With Tethering**
+**6.11.1   AT&T Data Plans With Tethering**
 
 Tethering is a wireless or wired method in which your AT&T mobile device is used as a modem or router to provide a Internet Access connection to other devices, such as laptops, netbooks, tablets, smartphones, other phones, USB modems, network routers, mobile hotspots, media players, gaming consoles, and other data-capable devices. AT&T data plans with tethering enabled may be used for tethering your AT&T Mobile device to other devices. If you are on a data plan that does not include a monthly megabyte allowance and additional data usage rates, you agree that AT&T has the right to impose additional charges if you use more than 5 GB in a month. prior to the imposition of any additional charges, AT&T shall provide you with notice and you shall have the right to terminate your Service (early termination charges may apply).
 
-**6.10.2   Blackberry® Personal**
+**6.11.2   Blackberry® Personal**
 
 Supports personal email access to up to 10 Internet email accounts. Users storing more than 1,000 emails or email older than 30 days, may have some emails automatically deleted. May not be used to access corporate email such as BlackBerry Enterprise Server.
 
-**6.10.3   Blackberry® Connect. Blackberry Enterprise. Blackberry International**
+**6.11.3   Blackberry® Connect. Blackberry Enterprise. Blackberry International**
 
 Supports BlackBerry Enterprise ServerTM for corporate access (valid Client Access License required), and personal email access to up to 10 Internet email accounts as per BlackBerry Personal. BlackBerry International requires a minimum one-year agreement.
 
   
 
-**6.11   GOOD Plan**
+**6.12   GOOD Plan**
 
 Requires compatible Good Server and, as to each end user, a compatible Good Client Access License (CAL) for use with a qualifying AT&T data plan. Solution includes software, products and related services provided by Good Technology, Inc. ("Good"), which are subject to applicable Good terms and conditions. Good is solely responsible for all statements regarding, and technical support for, its software, products and services.
 
   
 
-**6.12   Microsoft® Direct Push**
+**6.13   Microsoft® Direct Push**
 
 Requires compatible Microsoft® Exchange Server and, as to each end user, a compatible device, a Direct Push enabled email account, and a qualifying AT&T Data Plan. Plans include end user customer support from AT&T for compatible devices. AT&T does not sell, supply, install or otherwise support Microsoft® software, products or services (including without limitation, Exchange and Direct Push).
 
   
 
-**6.13   AT&T Mobile Share Plans (with Unlimited Talk and Text)**
+**6.14   AT&T Mobile Share Plans (with Unlimited Talk and Text)**
 
-AT&T Mobile Share plans allow you to share a monthly allotment of domestic wireless data usage, along with unlimited domestic talk and texting services (for basic phones, quick messaging phones and smartphones), among up to ten (10) 3G, HSPA+ or LTE Devices. You choose a specific allotment of monthly shared data usage for a monthly recurring charge and then pay an additional charge for each Device added to the Mobile Share plan you select. You must specifically identify the devices (the “Designated Devices”) that will share your monthly allotment of data usage under the Mobile Share plan you select. At least one of the Designated Devices must be a smartphone and the remaining Designated Devices can include: smartphone(s), tablet(s), gaming device(s), modem(s), netbook(s), laptop(s), mobile hotspot(s), or basic or quick messaging phone(s). If, during a billing period, your data usage exceeds the monthly allotment of data in the Mobile Share plan you select, you will automatically be charged for overage as specified in your rate plan. If, during a billing period, you do not use all of the data allotment in the Mobile Share plan you select, you will forfeit that usage. Authorized users on the account may temporarily suspend data access for particular Device(s) during a specific billing cycle, but monthly charges for the suspended Device(s) will continue to apply. Tethering and/or mobile hotspot use is permitted with Mobile Share plans with capable Designated Devices. provided, however, that such use is limited to a maximum of five (5) simultaneous users per Device. An activation fee will be charged when converting from a prepaid or Session-Based plan to a Mobile Share plan or when you activate an additional Device on an existing Mobile Share plan. Access to corporate email, intranet sites and/or other business applications may be available for an additional monthly charge per Device. Discounts otherwise applicable to your Mobile Share rate plan do not apply to the additional monthly Device charge. Additional deposits and other restrictions may apply.
+AT&T Mobile Share plans allow you to share a monthly allotment of domestic wireless data usage, along with unlimited domestic talk and texting services (for basic phones, quick messaging phones, smartphones, WHP Devices and Home Bases), among up to ten (10) 3G, HSPA+ or LTE Devices. You choose a specific allotment of monthly shared data usage for a monthly recurring charge and then pay an additional charge for each Device added to the Mobile Share plan you select. You must specifically identify the devices (the “Designated Devices”) that will share your monthly allotment of data usage under the Mobile Share plan you select. If you add a WHP Device for unlimited talk only, it will be counted as one of the (10) Designated Devices under the Mobile Share plan. At least one of the Designated Devices must be a smartphone and the remaining Designated Devices can include: smartphone(s), tablet(s), gaming device(s), modem(s), netbook(s), laptop(s), mobile hotspot(s), basic or quick messaging phone(s), WHP Device(s) or Home Base(s). If, during a billing period, your data usage exceeds the monthly allotment of data in the Mobile Share plan you select, you will automatically be charged for overage as specified in your rate plan. If, during a billing period, you do not use all of the data allotment in the Mobile Share plan you select, you will forfeit that usage. Authorized users on the account may temporarily suspend data access for particular Device(s) during a specific billing cycle, but monthly charges for the suspended Device(s) will continue to apply. Tethering and/or mobile hotspot use is permitted with Mobile Share plans with capable Designated Devices. provided, however, that such use is limited to a maximum of five (5) simultaneous users per Device. An activation fee will be charged when converting from a prepaid or Session-Based plan to a Mobile Share plan or when you activate an additional Device on an existing Mobile Share plan. Access to corporate email, intranet sites and/or other business applications may be available for an additional monthly charge per Device. Discounts otherwise applicable to your Mobile Share rate plan do not apply to the additional monthly Device charge. Additional deposits and other restrictions may apply.
 
 If you use a Mobile Share plan without a designated smartphone on the account, or with any device that is not a Designated Device, or without all of the required elements of the plan, you agree that AT&T may suspend or terminate service to the account until you add a smartphone, you designate the devices(s) that you are using with a plan which are not Designated Devices, or you add all of the required elements of the plan. In addition, if you use a Mobile Share plan without a designated smartphone on the account, with any device that is not a Designated Device, or without all of the required elements of the plan, you agree that AT&T may place any non-complying Device(s) on an appropriate Mobile Share plan(s) or add any other required element of the plan. If you use a tethering and/or mobile hotspot Device with more than five (5) simultaneous users, you agree that AT&T may suspend or terminate service to the account.
 
   
 
-**6.14   AT&T Mobile Share - Data Plans (for Data-Only Devices)**
+**6.15   AT&T Mobile Share - Data Plans (for Data-Only Devices)**
 
 AT&T Mobile Share – Data plans allow you to share a monthly allotment of domestic wireless data usage among up to ten (10) 3G, HSPA+ or LTE Devices (excluding smartphones and basic or quick messaging phones). You choose a specific allotment of monthly shared data usage for a monthly recurring charge and then pay an additional charge for each Device added to the Mobile Share - Data plan you select. You must specifically identify one or more eligible devices (the “Designated Data Devices”) that will share your monthly allotment of data usage under the Mobile Share - Data plan you select. Designated Data Devices can include: tablet(s), gaming device(s), modem(s), netbook(s), laptop(s), or mobile hotspot(s). If, during a billing period, your data usage exceeds the monthly allotment of data in the Mobile Share - Data plan you select, you will automatically be charged for overage as specified in your rate plan. If, during a billing period, you do not use all of the data allotment in the Mobile Share - Data plan you select, you will forfeit that usage. Authorized users on the account may temporarily suspend data access for particular Designated Data Device(s) during a specific billing cycle, but monthly charges for the suspended Designated Data Device(s) will continue to apply. Tethering and/or mobile hotspot use is permitted with Mobile Share – Data plans with capable Designated Data Devices. provided, however, that such use is limited to a maximum of five (5) simultaneous users per Designated Data Device. An activation fee will be charged when converting from a prepaid or Session-Based plan to a Mobile Share - Data plan or when you activate an additional Designated Data Device on an existing Mobile Share - Data plan. Designated Data Devices that are capable of accessing corporate email, intranet sites and/or other business applications may do so for no additional monthly access charge. Discounts otherwise applicable to your Mobile Share - Data rate plan do not apply to the additional monthly Device charge. Additional deposits and other restrictions may apply.
 
 If you use a Mobile Share - Data plan with a smartphone, with any device that is not a Designated Data Device, for tethering or as a mobile hotspot with more than five (5) simultaneous users, or otherwise use the plan in any way that is inconsistent with its terms, you agree that AT&T may: (a) suspend or terminate service to the account. (b) place any non-complying Device on an appropriate Mobile Share plan. and/or (c) add any other required element of the plan.
 
-**7.0   ARE THERE OTHER TERMS AND CONDITIONS THAT APPLY TO FEATURES AND APPLICATIONS?**
+**7.0   AT&T Wireless Home Services**
+
+**7.1   AT&T Wireless Home Phone Service**
+
+AT&T Wireless Home Phone ("WHP") service utilizes mobile wireless gateway Equipment called an AT&T Wireless Home Phone device ("WHP Device") to which you connect a landline phone to place and receive calls over the AT&T wireless network. See Section 3.2 for more information about how AT&T wireless service works.
+
+WHP service provides voice service only and requires that you subscribe to one of the following eligible wireless voice plan options: (1) Wireless Home Phone unlimited plan, (2) add a line to your FamilyTalk plan, or (3) add a WHP Device to your AT&T Mobile Share plan. If your WHP Device is used to roam on other carrier networks, AT&T's off-net usage restrictions apply. Text messaging, data services, features and international roaming are not supported by WHP service. If you use a wireless voice plan not designed for WHP service with your WHP Device, AT&T reserves the right to switch you to an appropriate plan and bill you the associated fees for such plan.
+
+911 calls are routed based on the wireless network's automatic location technology. You should expect to provide your location address to the emergency response center responsible for sending first responders (e.g. police, medical assistance, or fire) to your location. The WHP Device has battery backup power and will work in the event of a power outage. However, if you connect a landline phone to the WHP Device that itself requires external electric power to operate (e.g., a cordless phone), you will not be able to place and receive calls over that phone during a power outage.
+
+  
+
+**7.2   Wireless Home Phone and Internet Service**
+
+AT&T Wireless Home Phone and Internet ("WHPI") service utilizes mobile wireless gateway Equipment called an AT&T Home Base ("Home Base"). The Home Base allows you to connect a landline phone to place and receive calls, and to connect up to eleven (11) Internet-capable devices (one (1) via Ethernet and ten (10) via Wi-Fi) to have mobile broadband Internet access over the AT&T wireless network. See Section 3.2 for more information about how AT&T wireless service works.
+
+WHPI service requires that you subscribe to an eligible wireless voice and/or data plan to take advantage of one or both capabilities. Voice plan options include either a Home Base unlimited plan, or a line added to your FamilyTalk plan. Tiered data plan options allow you to share a monthly allotment of domestic wireless data usage among your connected internet-capable devices. If your data usage exceeds the monthly data allotment of the plan you select during a billing period, you automatically will be charged for overages as specified in your plan. If you do not use all of the monthly data allotment of the plan you select during a billing period, you forfeit that usage. You may also add your Home Base to your AT&T Mobile Share plan if the monthly allotment of domestic wireless data usage under your AT&T Mobile Share plan is 10 GB or more.
+
+If your Home Base is used to roam on other carrier networks, AT&T's off-net usage restrictions apply. Messaging services and international roaming are not supported by WHPI service. If you use a wireless voice and/or data plan not designed for WHPI service with your Home Base, AT&T reserves the right to switch you to an appropriate plan and bill you the associated fees for such plan.
+
+911 calls are routed based on the wireless network's automatic location technology. You should expect to provide your location address to the emergency response center responsible for sending first responders (e.g. police, medical assistance, or fire) to your location. The Home Base has battery backup power and will work in the event of a power outage. However, if you connect a landline phone to the Home Base that itself requires external electric power to operate (e.g., a cordless phone), you will not be able to place and receive calls over that phone during a power outage.
+
+**8.0   ARE THERE OTHER TERMS AND CONDITIONS THAT APPLY TO FEATURES AND APPLICATIONS?**
 
 Terms and conditions for certain features and applications are provided on the Device at the time of feature/application activation or first use. Certain features/applications will not be available in all areas at all times.
 
-**8.0   WHAT IS AT&T ROADSIDE ASSISTANCE &. OPTIONAL AT&. MOBILE INSURANCE?**
+**9.0   WHAT IS AT&T ROADSIDE ASSISTANCE &. OPTIONAL AT&T MOBILE INSURANCE?**
 
-**8.1   AT&T Roadside Assistance**
+**9.1   AT&T Roadside Assistance**
 
 AT&T Roadside Assistance (“RA”) is an optional feature that costs $2.99/month per enrolled phone and is automatically billed to the wireless account. Customers may cancel at any time. New RA customers get the first 30 days for free. To cancel RA without incurring charges, contact AT&T by dialing 611 from your wireless phone within the first 30 days. RA covers up to four events per year with a maximum benefit of $50/event. Towing services are for mechanical problems only. RA service will be provided by Asurion Roadside Assistance Services, LLC, a licensed motor club, until October 12, 2012. After October 12, 2012, RA service will be provided by Allstate Insurance Company. Refer to the RA Welcome Kit for complete terms and conditions wireless.att.com/learn/en\_US/pdf/roadside\_assistance.pdf.
 
   
 
-**8.2   Optional AT&T Mobile Insurance**
+**9.2   Optional AT&T Mobile Insurance**
 
 Mobile Insurance covers lost, stolen, damaged and out of warranty malfunctions. Enrollment must occur within 30 days of an activation or upgrade. Key terms include: 1. A monthly premium of $6.99/month per mobile number enrolled. 2. Each approved replacement is subject to a $50 (Tier 1), $125 (Tier 2), or a $199 (Tier 3) non-refundable deductible, depending on device. 3. Claims are limited to 2 within any consecutive 12 months with a maximum device value of $1500 per occurrence. 4. Replacement devices may be new or remanufactured and/or a different model. 5. You can cancel your coverage at any time and receive a pro-rated refund of your unearned premium. To view enrollment eligibility, complete terms and the applicable deductibles, visit www.att.com/mobileinsurance. AT&T Mobile Insurance is underwritten by Continental Casualty Company, a CNA company (CNA) and administered by Asurion Protection Services, LLC (In California, Asurion Protection Services Insurance Agency, LLC, CA Lic. #OD63161. In Puerto Rico, Asurion Protection Services of Puerto Rico, Inc.), CNA’s licensed agent for the customers of AT&T. Eligibility varies by device. Terms and conditions are subject to change.
 
-**9.0   WHAT OTHER TERMS AND CONDITIONS APPLY TO MY WIRELESS SERVICE?**
+**10.0   WHAT OTHER TERMS AND CONDITIONS APPLY TO MY WIRELESS SERVICE?**
 
-**9.1   Intellectual Property**
+**10.1   Intellectual Property**
 
 You must respect the intellectual property rights of AT&T, our third-party content providers, and any other owner of intellectual property whose protected property may appear on any website and/or dialogue box controlled by AT&T or accessed through the AT&T's websites. Except for material in the public domain, all material displayed in association with the Service is copyrighted or trademarked. Except for personal, non-commercial use, trademarked and copyrighted material may not be copied, downloaded, redistributed, modified or otherwise exploited, in whole or in part, without the permission of the owner. The RIM and BlackBerry families of related marks, images and symbols are the exclusive properties and trademarks or registered trademarks of Research In Motion Limited - used by permission. Good, the Good logo and GoodLink are trademarks of Good Technology, Inc., in the United States and/or other countries. Good Technology, Inc., and its products and services are not related to, sponsored by or affiliated with Research In Motion Limited. All other marks contained herein are the property of their respective owners.
 
@@ -695,41 +703,41 @@ You must respect the intellectual property rights of AT&T, our third-party conte
 
   
 
-**9.2   Severability**
+**10.2   Severability**
 
 If any provision of this Agreement is found to be unenforceable by a court or agency of competent jurisdiction, the remaining provisions will remain in full force and effect. The foregoing does not apply to the prohibition against class or representative actions that is part of the arbitration clause. if that prohibition is found to be unenforceable, the arbitration clause (but only the arbitration clause) shall be null and void.
 
   
 
-**9.3   Assignment. Governing Law. English Language**
+**10.3   Assignment. Governing Law. English Language**
 
-**9.3.1   Assignment**
+**10.3.1   Assignment**
 
 AT&T may assign this Agreement, but you may not assign this Agreement without our prior written consent.
 
-**9.3.2   Governing Law**
+**10.3.2   Governing Law**
 
 The law of the state of your billing address shall govern this Agreement except to the extent that such law is preempted by or inconsistent with applicable federal law. In the event of a dispute between us, the law of the state of your billing address at the time the dispute is commenced, whether in litigation or arbitration, shall govern except to the extent that such law is preempted by or inconsistent with applicable federal law.
 
-**9.3.3   English Language**
+**10.3.3   English Language**
 
 The original version of this Agreement is in the English language. Any discrepancy or conflicts between the English version and any other language version will be resolved with reference to and by interpreting the English version.
 
   
 
-**9.4   Lifeline Services**
+**10.4   Lifeline Services**
 
 As part of a federal government program, AT&T offers discounted wireless service to qualified low-income residents in selected states. For questions or to apply for Lifeline service, call 1-800-377-9450. Puerto Rico customers should contact 1-787-405-5463. For tips on how to protect against fraud, please visit the CPUC's website at, CalPhoneInfo.com.
 
   
 
-**9.5   Trial Services**
+**10.5   Trial Services**
 
 Trial Services are subject to the terms and conditions of this Agreement. may have limited availability. and may be withdrawn at any time.
 
   
 
-**9.6   NOTICE REGARDING TRANSMISSION OF WIRELESS EMERGENCY ALERTS (Commercial Mobile Alert Service)**
+**10.6   NOTICE REGARDING TRANSMISSION OF WIRELESS EMERGENCY ALERTS (Commercial Mobile Alert Service)**
 
 AT&T has chosen to offer wireless emergency alerts within portions of its service area, as defined by the terms and conditions of its Agreement, on wireless emergency alert capable devices.
 
@@ -739,9 +747,9 @@ For details on the availability of this service and wireless emergency alert cap
 
 In transmitting emergency alerts pursuant to federal law, AT&T, including its officers, directors, employees, vendors, and agents, shall not be liable to any subscriber to, or user of, AT&T’s wireless service or equipment for any act or omission related to or any harm resulting from the transmission of, or the failure to transmit, an emergency alert. or the release to a government entity or agency, public safety, fire service, law enforcement official, emergency medical service, or emergency facility of subscriber information used in connection with delivering an emergency alert.
 
-******10.0   WHAT TERMS APPLY ONLY TO SPECIFIC STATES?******
+******11.0   WHAT TERMS APPLY ONLY TO SPECIFIC STATES?******
 
-******10.1   California: What If There Are Unauthorized Charges Billed To My Device?******
+******11.1   California: What If There Are Unauthorized Charges Billed To My Device?******
 
 You are not liable for charges you did not authorize, but the fact that a call was placed from your Device is evidence that the call was authorized. Unauthorized charges may include calls made to or from your phone or other Device after it was lost or stolen. Once you report to us that the Device is lost or stolen and your Device is suspended, you will not be responsible for subsequent charges incurred by that Device. You can report your Device as lost or stolen and suspend Services without a charge by contacting us at the phone number listed on your bill or at wireless.att.com.
 
@@ -749,13 +757,13 @@ If you notify us of any charges on your bill you claim are unauthorized, we will
 
   
 
-**10.2   Connecticut: Questions About Your Service**
+**11.2   Connecticut: Questions About Your Service**
 
 If you have any questions or concerns about your AT&T Service, please call Customer Care at 1-800-331-0500, dial 611 from your wireless phone, or visit att.com/wireless. If you have questions about the Unlimited Local or Unlimited Long Distance Service, please call 1-800-288-2020 or visit att.com. If you are a Connecticut customer and we cannot resolve your issue, you have the option of contacting the Department of Public Utility Control (DPUC). Online: state.ct.us/dpuc. Phone: 1-866-381-2355. Mail: Connecticut DPUC, 10 Franklin Square, New Britain, CT 06051.
 
   
 
-**10.3   Puerto Rico**
+**11.3   Puerto Rico**
 
 If you are a Puerto Rico customer and we cannot resolve your issue, you may notify the Telecommunications Regulatory Board of Puerto Rico of your grievance. Mail: 500 Ave Roberto H. Todd, (Parada 18), San Juan, Puerto Rico 00907-3941. Phone: 1-787-756-0804 or 1-866-578-5500. Online: jrtpr.gobierno.pr, in addition to having available arbitration, as provided in Section 2.0.
 
