@@ -333,13 +333,10 @@ Revised and Effective: October 7, 2011
 
 XFINITY
 
-*   Autos
 *   Dating
 *   Entertainment
 *   Games
 *   Jobs
-*   Local
-*   Money
 *   News
 *   Real Estate
 *   Sports
@@ -354,6 +351,7 @@ XFINITY TV
 *   TV Listings
 *   Watch Online
 *   XFINITY On Demandâ¢
+*   Send to TV BETA
 
 XFINITY CONNECT
 
@@ -379,15 +377,11 @@ SUPPORT &. SERVICES
 *   Comcast Business
 *   Comcast Careers
 *   Constant Guard
-*   Customer Guarantee
-*   Ecobill
-*   Customer Guarantee
 *   Mover's Edge
 *   My Account
 *   Pay My Bill
 *   Shop/Upgrade
 *   Support
-*   \[+\] Submit Feedback
 
 XFINITY © 2013 Comcast
 
