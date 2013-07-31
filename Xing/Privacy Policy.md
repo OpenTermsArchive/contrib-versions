@@ -189,7 +189,7 @@ Any information registered by Clickpath is deleted by XING automatically within 
 
 **10\. Search Functions**
 
-The XING Services offer various possibilities to search for particular XING Members, including a Powersearch feature and a Search Agent feature. These various search functions may assist you, for example, in finding other XING Members with similar interests. The search functions can also help you to initiate contact with other XING Members who offer exactly what you are looking for. Thus, you can find the contacts you need - and systematically expand your personal network.
+The XING Services offer various possibilities to search for particular XING Members, including a Power Search feature and a Search Agent feature. These various search functions may assist you, for example, in finding other XING Members with similar interests. The search functions can also help you to initiate contact with other XING Members who offer exactly what you are looking for. Thus, you can find the contacts you need - and systematically expand your personal network.
 
 **11\. Newsletter, weekly Status emails**
 
