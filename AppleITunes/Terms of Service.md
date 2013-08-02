@@ -64,7 +64,7 @@ Apple is the provider of the iTunes Service, which permits you to purchase or re
 
 REQUIREMENTS FOR USE OF THE ITUNES SERVICE
 
-This iTunes Service is available for individuals aged 13 years or older. If you are 13 or older but under the age of 18, you should review this Agreement with your parent or guardian to make sure that you and your parent or guardian understand it.
+This iTunes Service is only available for individuals aged 13 years or older, unless you are under 13 years old and your Apple ID was provided to you as a result of a request by an approved educational institution. If you are 13 or older but under the age of 18, you should review this Agreement with your parent or guardian to make sure that you and your parent or guardian understand it.
 
 The iTunes Service is available to you only in the United States, its territories, and possessions. You agree not to use or attempt to use the iTunes Service from outside these locations. Apple may use technologies to verify your compliance.
 
@@ -258,7 +258,7 @@ Apple is the provider of the App and Book Services that permit you to license so
 
 REQUIREMENTS FOR USE OF THE APP AND BOOK SERVICES
 
-These App and Book Services are available for individuals aged 13 years or older. If you are 13 or older but under the age of 18, you should review this Agreement with your parent or guardian to make sure that you and your parent or guardian understand it.
+These App and Book Services are only available for individuals aged 13 years or older, unless you are under 13 years old and your Apple ID was provided to you as a result of a request by an approved educational institution. If you are 13 or older but under the age of 18, you should review this Agreement with your parent or guardian to make sure that you and your parent or guardian understand it.
 
 The App and Book Services are available to you only in the United States, its territories, and possessions. You agree not to use or attempt to use the App and Book Services from outside these locations. Apple may use technologies to verify your compliance.
 
@@ -490,4 +490,4 @@ IBOOKSTORE PRODUCT USAGE RULES
 
 (v) You shall be able to manually sync iBookstore Products from at least one iTunes-authorized device to devices that have manual sync mode, provided that the iBookstore Product is associated with an Account on the primary iTunes-authorized device, where the primary iTunes-authorized device is the one that was first synced with the device or the one that you subsequently designate as primary using iTunes.
 
-Last Updated: December 3, 2012
+Last Updated: August 1, 2013
