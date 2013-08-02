@@ -18,7 +18,7 @@ Apple is the provider of the Service, which permits you to utilize certain Inter
 
 REQUIREMENTS FOR USE OF THE SERVICE
 
-The Service is available to individuals aged 13 years or older. If you are 13 or older but under the age of majority in your country of residence, you must review this Agreement with your parent or guardian to make sure that you and your parent or guardian understand it. Parents or guardians should also remind any minors that conversing with strangers on the Internet can be dangerous and take appropriate precautions to protect children, including monitoring their use of the Service.
+The Service is only available to individuals aged 13 years or older, unless you are under 13 years old and your Apple ID was provided to you as a result of a request by an approved educational institution. If you are 13 or older but under the age of majority in your country of residence, you must review this Agreement with your parent or guardian to make sure that you and your parent or guardian understand it. Parents or guardians should also remind any minors that conversing with strangers on the Internet can be dangerous and take appropriate precautions to protect children, including monitoring their use of the Service.
 
 To use the Service, you cannot be a person barred from receiving the Service under the laws of the United States or other applicable jurisdictions, including the country in which you reside or from where you use the Service. By accepting this Agreement, you represent that you understand and agree to the foregoing.
 
@@ -280,6 +280,6 @@ ELECTRONIC CONTRACTING
 
 Your use of the Service includes the ability to enter into agreements and/or to make transactions electronically. YOU ACKNOWLEDGE THAT YOUR ELECTRONIC SUBMISSIONS CONSTITUTE YOUR AGREEMENT AND INTENT TO BE BOUND BY AND TO PAY FOR SUCH AGREEMENTS AND TRANSACTIONS. YOUR AGREEMENT AND INTENT TO BE BOUND BY ELECTRONIC SUBMISSIONS APPLIES TO ALL RECORDS RELATING TO ALL TRANSACTIONS YOU ENTER INTO ON THIS SERVICE, INCLUDING NOTICES OF CANCELLATION, POLICIES, CONTRACTS, AND APPLICATIONS. In order to access and retain your electronic records, you may be required to have certain hardware and software, which are your sole responsibility.
 
-Last revised: September 13, 2012
+Last revised: August 1, 2013
 
-© Copyright 2012 Apple Inc. All rights reserved.
+© Copyright 2013 Apple Inc. All rights reserved.
