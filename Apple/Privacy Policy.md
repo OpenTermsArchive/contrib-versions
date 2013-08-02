@@ -81,7 +81,7 @@ You can help ensure that your contact information and preferences are accurate, 
 
 Children
 
-We do not knowingly collect personal information from children under 13. If we learn that we have collected the personal information of a child under 13 we will take steps to delete the information as soon as possible.
+We do not knowingly collect personal information from children under 13 except where a parent has set up an Apple ID for their child through the Apple ID for Students program and provided Apple with verified parental consent. Learn more about the Apple ID for Students program and device parental controls. If we learn that we have collected the personal information of a child under 13 without first receiving verifiable parental consent we will take steps to delete the information as soon as possible.
 
 Location-Based Services
 
@@ -111,7 +111,7 @@ Apple may update its Privacy Policy from time to time. When we change the policy
 
 Apple Inc. 1 Infinite Loop, Cupertino, California, USA, 95014
 
-_Last updated: May 21, 2012_
+_Last updated: August 1, 2013_
 
 Apple Inc. has been awarded TRUSTe’s Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s program requirements including transparency, accountability, and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. If you have questions or complaints regarding our Privacy Policy or practices, please contact us. If you are not satisfied with our response, you can contact TRUSTe.
 
