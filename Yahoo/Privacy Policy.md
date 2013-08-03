@@ -28,7 +28,9 @@ Yahoo! automatically receives and records information from your computer and bro
 
 Yahoo! uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
 
-Children  
+Return to top
+
+CHILDREN
 
 When Yahoo! has knowledge that a child under age 13 is attempting to register with Yahoo!, we ask the child to have a parent or guardian create a Yahoo! Family Account to obtain parental permission. Visit Children's Privacy &. Family Accounts to learn more about children’s privacy on Yahoo!.
 
