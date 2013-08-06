@@ -208,9 +208,10 @@ Windstream is one of the largest providers of telecommunications services in rur
 Copyright © Windstream Communications. All rights reserved.
 
 *   Privacy Policy
-*   Terms and Conditions
+*   Terms &. Conditions
 *   Legal Notices
-*   Windstream Broadband Network Statement
+*   Broadband Network Statement
+*   Suppliers
 *   Site Map
 
 *   FIND US ON
