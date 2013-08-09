@@ -2,23 +2,25 @@ Kindle for Android Legal Notices
 
 Kindle for Android Legal Notices.
 
-A. INTELLECTUAL PROPERTY NOTICES
+**A. INTELLECTUAL PROPERTY NOTICES**
 
-1\. Patent Notices
+**1\. Patent Notices**
 
 The Kindle for Android application and/or methods used in association with the Kindle device and Kindle service may be covered by one or more patents or pending patent applications owned or controlled by Amazon.com, Inc. or its affiliates.
 
-2\. Trademark Notices
+**2\. Trademark Notices**
 
 Amazon, the Amazon logo, Kindle, the Amazon Kindle logo, and Whispersync are trademarks of Amazon.com, Inc. or its affiliates.
 
-3\. Copyright Notices
+**3\. Copyright Notices**
 
 Kindle App software © 2010-2013 Amazon.com, Inc. or its affiliates. All rights reserved.
 
-4\. Other Notices
+**4\. Other Notices**
 
 All other brands, product names, company names, trademarks, and service marks are the properties of their respective owners.
+
+**B. INFORMATION FOR THOSE WITH COPYRIGHT CONCERNS**
 
 Amazon.com, Inc. and its affiliates ("Amazon") respect the intellectual property of others. If you believe that your work has been copied in a way that constitutes copyright infringement, please provide Amazon's copyright agent the written information specified below. Please note that this procedure is exclusively for notifying Amazon that your copyrighted material has been infringed:
 
@@ -33,11 +35,15 @@ Amazon.com, Inc. and its affiliates ("Amazon") respect the intellectual property
 
 Amazon's Copyright Agent for notice of claims of copyright infringement can be reached as follows: Copyright Agent Amazon Legal Department P.O. Box 81226 Seattle, WA 98108 phone: (206) 266-4064 fax: (206) 266-7010 e-mail: copyright@amazon.comCourier address: Copyright Agent Amazon Legal Department 410 Terry Avenue North Seattle, WA 98109-5210 USA
 
-1\. Notices for the Free Type Project.Portions of this software are copyright © 2005-2010 The Free Type Project (www.freetype.org). All rights reserved.
+**C. NOTICES FOR THIRD PARTY SOFTWARE INCLUDED WITH THE APPLICATION**
+
+**1\. Notices for the Free Type Project.**
+
+Portions of this software are copyright © 2005-2010 The Free Type Project (www.freetype.org). All rights reserved.
 
 Amazon.com, Inc. and its affiliates elect to use the FreeType Project code under the FreeType Project License (http://freetype.sourceforge.net/FTL.TXT).
 
-2\. Notices for HarfBuzz Software.
+**2\. Notices for HarfBuzz Software**.
 
 © 2011 Codethink Limited. © 2010, 2011 Google, Inc. © 2006 Behdad Esfahbod. © 2009 Keith Stribley. © 2009 Martin Hosken and SIL International. © 2007 Chris Wilson. © 2004, 2007, 2008, 2009, 2010 Red Hat, Inc. © 1998-2004 David Turner and Werner Lemberg.
 
@@ -49,9 +55,9 @@ IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE TO ANY PARTY FOR DIRECT, INDIRE
 
 THE COPYRIGHT HOLDER SPECIFICALLY DISCLAIMS ANY WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE SOFTWARE PROVIDED HEREUNDER IS ON AN "AS IS" BASIS, AND THE COPYRIGHT HOLDER HAS NO OBLIGATION TO PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.
 
-3\. Notices for Software Components Licensed Under the MIT License.
+**3\. Notices for Software Components Licensed Under the MIT License.**
 
-a. Names and Copyright Notices.
+**a. Names and Copyright Notices.**
 
 \- giflib - © 1997 Eric S. Raymond.
 
@@ -61,7 +67,7 @@ a. Names and Copyright Notices.
 
 \- expat XML parser - Copyright (c) 1998, 1999, 2000 Thai Open Source Software Center Ltd and Clark Cooper. Copyright (c) 2001, 2002, 2003, 2004, 2005, 2006 Expat maintainers.
 
-b. MIT License (full text)
+**b. MIT License (full text)**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -69,9 +75,9 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-4\. Notices for Software Components Licensed Under The Apache License, Version 2.0.
+**4\. Notices for Software Components Licensed Under The Apache License, Version 2.0.**
 
-a. Names and Copyright Notices.
+**a. Names and Copyright Notices.**
 
 \- Android Bionic Linker - © 2007-2011 The Android Open Source Project.
 
@@ -85,7 +91,7 @@ a. Names and Copyright Notices.
 
 \- Lucene Copyright 2012 The Apache Software Foundation
 
-b. Apache License, Version 2.0 (full text)
+**b. Apache License, Version 2.0 (full text)**
 
 TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
@@ -139,7 +145,7 @@ You may add Your own copyright statement to Your modifications and may provide a
 
 END OF TERMS AND CONDITIONS
 
-5\. Notices for ICU Software.
+**5\. Notices for ICU Software.**
 
 © 1995-2011 International Business Machines Corporation and others.
 
@@ -151,7 +157,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 Except as contained in this notice, the name of a copyright holder shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization of the copyright holder.
 
-6\. Notices for Cxlmage Software.
+**6\. Notices for Cxlmage Software.**
 
 © 07/Aug/2001, Davide Pizzolato.
 
@@ -165,7 +171,7 @@ Permission is granted to anyone to use this software for any purpose, including 
 
 3\. This notice may not be removed or altered from any source distribution.
 
-7\. Notices for Libpng Software.
+**7\. Notices for Libpng Software.**
 
 This copy of the libpng notices is provided for your convenience. In case of any discrepancy between this copy and the notices in the file png.h that is included in the libpng distribution, the latter shall prevail.
 
@@ -211,7 +217,7 @@ Libpng is OSI Certified Open Source Software. OSI Certified Open Source is a cer
 
 Glenn Randers-Pehrsonglennrp at users.sourceforge.netFebruary 1, 2012
 
-8\. Notices for Libjpeg-turbo
+**8\. Notices for Libjpeg-turbo**
 
 The authors make NO WARRANTY or representation, either express or implied, with respect to this software, its quality, accuracy, merchantability, or fitness for a particular purpose. This software is provided "AS IS", and you, its user, assume the entire risk as to its quality and accuracy.
 
@@ -241,19 +247,19 @@ GIF decoders.
 
 We are required to state that "The Graphics Interchange Format(c) is the Copyright property of CompuServe Incorporated. GIF(sm) is a Service Mark property of CompuServe Incorporated."
 
-9\. Notices for Webkit Software.
+**9\. Notices for Webkit Software.**
 
-a. Names and Copyright Notices
+**a. Names and Copyright Notices**
 
 The following are the names of the Webkit Software used with this product and the copyright notices for the Webkit Software:
 
 \- WebKit, WebCore, and JavaScriptCore - © 1997-2011 Various contributors including 280 North Inc., Alex Mathews, Alexander Kellett, Alexey Proskuryakov, Allan Sandfeld Jensen, Alp Toker, Anders Carlsson, Andrew Wellington, Anthony Ricaud, Antti Koivisto, Apple Inc., Bjoern Graf, Brent Fulgham, Cameron Zwarich, Charlie Bozeman, Christian Dywan, Christopher J. Madsen, Collabora Ltd., Collin Jackson, Cyrus Patel, Daniel Molkentin, Daniel Veillard, Dave MacLachlan, David Levin, David Smith, Dawit Alemayehu, Diego Escalante Urrelo, Dirk Mueller, Dirk Schulze, Eric Seidel, Frederik Holljen, Free Software Foundation Inc., Frerich Raabe, George Staikos, Google Inc., Graham Dennis, Gustavo Noronha Silva, Harri Porten, Henry Mason, Hiroyuki Ikezoe, Holger Hans Peter Freyther, Igalia S.L., International Business Machines, James G. Speth, Jan Alonzo, Jean-loup Gailly, Jian Li, Jon Shier, Josh MacDonald, Julien Chaffraix, Justin Haygood, Kelvin W Sherlock, Kevin Ollivier, Kimmo Kinnunen, Kouhei Sutou, Krzysztof Kowalczyk, Lars Knoll, Luca Bruno, Lucent Technologies, Maksim Orlovich, Mark Adler, Martin Jones, Matt Lilek, Michael Emmel, mozilla.org, Nicholas Shanks, Nikolas Zimmermann, Nokia Corporation, Novell Inc., Nuanti Ltd., Oliver Hunt, OpenedHand, Paul Pedriana, Peter Kelly, Peter Mattis, Pioneer Research Center USA Inc., Red Hat Inc., Rob Buis, Ronald Tschalär, Samuel Weinig, Simon Hausmann, Spencer Kimball, Stefan Schimanski, Symantec Corporation, The GLib Team, The Karbon Developers, Thomas Broyer, Tobias Anton, Tony Chang, Torben Weis, Torch Mobile Inc., University of Cambridge, Waldo Bastian, Xan Lopez, Zack Rusin.
 
-b. Terms Applicable to Webkit \[MODIFICATION NOTICE\]
+**b. Terms Applicable to Webkit \[MODIFICATION NOTICE\]**
 
 Portions of WebKit are licensed under a form of the BSD License, while other portions of Webkit are licensed under the Lesser General Public License, Version 2.1 ("LGPL"). Please refer to the individual files to determine the license terms that apply to each file. The BSD License is directly below, while a copy of the LGPL can be found at the end of this section. You may redistribute and/or modify the LGPL portions of Webkit under the terms of the LGPL. Portions of the LGPL Software have been modified 2010-2011. Webkit is distributed WITHOUT ANY WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION THE IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT. You may, for a period of up to three years, obtain, for a charge equal to the cost of physically performing source distribution, a complete machine-readable copy of the corresponding source code for the LGPL portions of Webkit. See above for information on how to contact us to obtain the copy, and see the terms of the LGPL below for more details. You should have received a copy of the LGPL along with this program. if not, write to the Free Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA.
 
-Webkit BSD License
+**Webkit BSD License**
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
@@ -264,7 +270,7 @@ Redistribution and use in source and binary forms, with or without modification,
 
 THIS SOFTWARE IS PROVIDED BY APPLE INC. AND ITS CONTRIBUTORS \`\`AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL APPLE INC. OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES. LOSS OF USE, DATA, OR PROFITS. OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-GNU LIBRARY GENERAL PUBLIC LICENSE
+**GNU LIBRARY GENERAL PUBLIC LICENSE**
 
 Version 2, June 1991
 
