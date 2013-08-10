@@ -2,7 +2,7 @@ Privacy Statement Print A A
 
 **General Motors Company U.S. Consumer Privacy Statement**
 
-Last modified: July 31, 2013
+Last modified: August 7, 2013
 
 Your privacy is important to General Motors Company (“GM” or “we") as is your trust in GM’s products and services. We want you to know that the information you share with us will be treated with care. This Privacy Statement addresses what personal information we collect and how we handle the personal information shared with us.  
  
@@ -222,13 +222,13 @@ We may update this Privacy Statement from time to time. We will do so by posting
 
 Effective date: September 1, 2011
 
-Last modified: July 31, 2013  
+Last modified: August 7, 2013  
  
 
 **Frequently Asked Questions**  
   
 Q1: How long will my opt-out preferences last?  
-A: Your GM telephone opt-out preferences will be honored in accordance with applicable law. Your GM direct mail opt-out preferences will expire three (3) years from the date of your submission. At this time your e-mail opt-out preferences will not expire. You can change or update your opt-out preferences by clicking here.  
+A: Your GM telephone and email opt-out preferences will be honored in accordance with applicable law and will remain in effect unless you take action to opt back in to receiving materials from us (for example by Request a Quote or completing a Business Reply Card). Your GM direct mail opt-out preferences will expire three (3) years from the date of your submission. You can change or update your opt-out preferences by clicking here.  
   
 Q2: Does my vehicle have a black box to record data?  
 A: GM vehicles, like other modern motor vehicles, have a number of sophisticated computer systems that monitor and control several aspects of the vehicle's performance. GM vehicles use on-board vehicle computers to monitor emission control components to optimize fuel economy, to monitor conditions for air bag deployment and, if so equipped, to provide anti-lock braking and to help the driver control the vehicle in difficult driving situations. Some information may be stored during regular operations to facilitate repair of detected malfunctions. other information is stored only in a crash event by computer systems, such as those commonly called event data recorders (EDR). To learn more about vehicle recording and privacy, refer to the Vehicle Data Recording and Privacy section of your vehicle’s owner manual.
