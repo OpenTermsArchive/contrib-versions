@@ -3,7 +3,7 @@ Microsoft Online Privacy Statement
 (last updated April 2012)  
 view the privacy statement highlights
 
-On This Page Collection of Your Personal Information Use of Your Personal Information Sharing of Your Personal Information Accessing Your Personal Information Communication Preferences Display of Advertising (Opt-Out) Security of Your Personal Information Collection and Use of Children's Personal Information Use of Cookies Use of Web Beacons Controlling Unsolicited E-mail ("Spam") TRUSTe Certification Enforcement of This Privacy Statement Changes to This Privacy Statement How to Contact Us
+On This Page Collection of Your Personal Information Use of Your Personal Information Sharing of Your Personal Information Accessing Your Personal Information Communication Preferences Display of Advertising (Opt-Out) Security of Your Personal Information Collection and Use of Children's Personal Information Use of Cookies Use of Web Beacons Controlling Unsolicited E-mail ("Spam") Enforcement of This Privacy Statement Changes to This Privacy Statement How to Contact Us
 
 We self-certify compliance with:  
 
@@ -181,10 +181,6 @@ Finally, we may work with other companies that advertise on Microsoft sites to p
 Top of page Controlling Unsolicited E-mail ("Spam")
 
 Microsoft is concerned about controlling unsolicited commercial e-mail, or "spam." Microsoft has a strict Anti-Spam Policy prohibiting the use of a Windows Live Hotmail or other Microsoft-provided e-mail account to send spam. Microsoft will not sell, lease or rent its e-mail subscriber lists to third parties. . While Microsoft continues to actively review and implement new technology, such as expanded filtering features, there is no technology that will totally prevent the sending and receiving of unsolicited e-mail. Using junk e-mail tools and being cautious about the sharing of your e-mail address while online will help reduce the amount of unsolicited e-mail you receive.
-
-Top of page TRUSTe Certification
-
-Microsoft has been awarded TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
 
 Top of page Enforcement of This Privacy Statement
 
