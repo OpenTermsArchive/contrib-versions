@@ -25,7 +25,7 @@ XFINITY
     *   Entertainment
     
     *   TV Listings
-    *   Queue
+    *   Watchlist
     *   TV Shows
     *   Movies
     *   Streampix
@@ -346,7 +346,7 @@ XFINITY TV
 
 *   Mobile Apps
 *   Parental Controls
-*   Queue
+*   Watchlist
 *   Store
 *   TV Listings
 *   Watch Online
