@@ -14,7 +14,6 @@ Welcome
     *   Trade Intelligence
     *   Discussion Forums
     *   Site Resources
-*   Get insights, Connect, Grow
 *   My Alibaba
     *   Message Center
     *   Display new products
@@ -153,8 +152,6 @@ You can access, view and edit your Registration Information, Publishing Informat
 Alibaba.com welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may send us your comments and responses by post to Alibaba.com Hong Kong Limited, Legal Department, 26F, Tower One, Times Square, 1 Matheson Street, Causeway Bay, Hong Kong.
 
 Connect with us: Facebook Twitter Youtube Linkedin Free APP: Available on the App Store Available on Android TradeManager:
-
-Industry channel:Machinery - Construction - Electronic - Automobiles - Furniture - Sports - Electrical - Home - Packaging - Beauty
 
 Browse by:Manufacturers - Online Shopping - China Gold Suppliers - All Products - Countries - Importers - Buying Leads - China - India
 
