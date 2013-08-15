@@ -30,7 +30,6 @@ Skip to contentZillow Real Estate &amp. Homes for Sale
     
     *   Mortgage Rates
     *   Refinance
-    *   Get Pre-approved
     
     Calculators
     
@@ -56,12 +55,25 @@ Skip to contentZillow Real Estate &amp. Homes for Sale
     
 *   Advice
     
-    *   Real Estate Advice
-    *   Zillow FAQs
-    *   Mortgage Advice
-    *   Foreclosure Center
+    Join Our Discussions
+    
+    Real Estate forum
+    
+    Mortgage forum
+    
+    Using Zillow forum
     
     Ask a Question
+    
+    Education Guides
+    
+    Foreclosure Center
+    
+    Buyers Guide
+    
+    Mortgage Education Center
+    
+    Zillow Help Center
     
 *   Find a Pro
     
