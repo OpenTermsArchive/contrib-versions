@@ -372,6 +372,15 @@ XFINITY HOME
 *   Help &. Support
 *   Customer Forums
 
+ADD A CHANNEL
+
+*   HBO
+*   Showtime
+*   Starz
+*   Cinemax
+*   Streampix
+*   View All
+
 SUPPORT &. SERVICES
 
 *   Comcast Business
