@@ -13,8 +13,8 @@ My Cart (Edit) My Location_:_ n/a
 
 *   High-Speed Internet
     
-    *   Bundles With TV
-    *   Bundles With Internet
+    *   Bundles
+    *   Plans
     
 *   Digital TV
     
