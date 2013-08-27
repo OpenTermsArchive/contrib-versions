@@ -20,12 +20,12 @@ All other brands, product names, company names, trademarks, and service marks ar
 
 **B. INFORMATION FOR THOSE WITH COPYRIGHT CONCERNS**
 
-Amazon.com, Inc. and its affiliates ("Amazon") respect the intellectual property of others. If you believe that your work has been copied in a way that constitutes copyright infringement, please provide Amazon's copyright agent the written information specified below. Please note that this procedure is exclusively for notifying Amazon that your copyrighted material has been infringed:  
+Amazon.com, Inc. and its affiliates ("Amazon") respect the intellectual property of others. If you believe that your work has been copied in a way that constitutes copyright infringement, please provide Amazon's copyright agent the written information specified below. Please note that this procedure is exclusively for notifying Amazon that your copyrighted material has been infringed:
 
-*   An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest;
-*   A description of the copyrighted work that you claim has been infringed upon;
-*   A description of where the material that you claim is infringing is located;
-*   Your address, telephone number, and e-mail address;
+*   An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest.
+*   A description of the copyrighted work that you claim has been infringed upon.
+*   A description of where the material that you claim is infringing is located.
+*   Your address, telephone number, and e-mail address.
 *   A statement by you that you have a good-faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law. and
 *   A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.
 
@@ -57,11 +57,9 @@ USA
 
 **C. NOTICES FOR CERTAIN SOFTWARE COMPONENTS**
 
-  
-
 *   **Notices for Software Components Licensed Under the Apache License.**
 
-This product includes software developed by The Apache Software Foundation (http://www.apache.org/):  
+This product includes software developed by The Apache Software Foundation (http://www.apache.org/):
 
 *   Apache Commons IO, Copyright 2002-2012 The Apache Software Foundation
 *   Apache Commons Codec, Copyright 2002-2012 The Apache Software Foundation, Copyright (C) 2002 Kevin Atkinson (kevina@gnu.org). Verbatim copying and distribution of this entire article is permitted in any medium, provided this notice is preserved.
