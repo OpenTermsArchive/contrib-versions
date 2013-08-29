@@ -191,6 +191,8 @@ You agree to defend, indemnify and hold harmless Valve, its licensors, and its a
 
 9\. AMENDMENTS TO THIS AGREEMENT
 
+PLEASE NOTE: If you are a consumer with place of residence in Germany, a different version of Section 9 applies to you, which is available here.
+
 Valve may amend this Agreement (including any Subscription Terms or Rules of Use) at any time in its sole discretion. If Valve amends the Agreement, such amendment shall be effective thirty (30) days after Valve provides you with notice of the amended Agreement, either via e-mail or as a notification within the Software. You can view the Agreement at any time at http://www.steampowered.com/. Your failure to cancel your Account, or cease use of the Subscription(s) affected by the amendment, within thirty (30) days after receiving notification of the amendment, will constitute your acceptance of the amended terms. If you donât agree to the amendments or to any of the terms in this Agreement, your only remedy is to cancel your Account or to cease use of the affected Subscription(s). Valve shall not have any obligation to refund any fees that may have accrued to your Account before cancellation of your Account or cessation of use of any Subscription, nor shall Valve have any obligation to prorate any fees in such circumstances.
 
 10\. TERM AND TERMINATION
