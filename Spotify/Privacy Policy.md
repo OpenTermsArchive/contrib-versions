@@ -154,7 +154,7 @@ For more information about the use of cookies and how to block them, visit www.a
 
 Copyright © 2012 Spotify AB or its affiliates. All rights reserved.
 
-Spotify USA Inc., 76 9th Avenue  
-Suite 1110, 11th Floor  
+Spotify USA Inc., 45 W. 18th Street,  
+7th Floor  
 New York, NY 10011  
 USA
