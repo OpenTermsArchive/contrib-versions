@@ -64,7 +64,7 @@ This Premium Code Agreement shall be governed and construed in accordance with t
 
 Copyright © 2008-2011 Spotify AB. or its affiliates. All rights reserved.
 
-Spotify USA Inc., 76 9th Avenue  
-Suite 1110, 11th Floor  
+Spotify USA Inc., 45 W. 18th Street,  
+7th Floor  
 New York, NY 10011  
 USA
