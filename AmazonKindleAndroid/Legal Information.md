@@ -24,8 +24,6 @@ All other brands, product names, company names, trademarks, and service marks ar
 
 Amazon.com, Inc. and its affiliates ("Amazon") respect the intellectual property of others. If you believe that your work has been copied in a way that constitutes copyright infringement, please provide Amazon's copyright agent the written information specified below. Please note that this procedure is exclusively for notifying Amazon that your copyrighted material has been infringed:
 
-  
-
 *   An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest
 *   A description of the copyrighted work that you claim has been infringed upon
 *   A description of where the material that you claim is infringing is located
