@@ -8,105 +8,111 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   We're working to make ~2M blog archives available for FREE download
+    *   \[sticky\] by john
+    *   19 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   PLEASE READ IF YOUR SITE ISN'T SHOWING UP!
     *   \[sticky\] \[closed\] by john
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 
-*   How do I go premium?
-    *   by Tyler11b
-    *   1 day ago
-    *   in Premium
-    *   0 votes
-    *   2 (last comment by vvbutterflyvv 2 minutes ago)
-*   blog missing!
-    *   by him\_on
-    *   7 minutes ago
+*   My blog missing, where is the Chinese, since my English is not so good!
+    *   by lopelost
+    *   12 hours ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   Blog missing
-    *   by mansiu
-    *   10 minutes ago
+    *   1 (last comment by ColbyInTheCorner 50 seconds ago)
+*   Where are my old blog entries? Help me migrate
+    *   by mathboy\_mico07
+    *   13 hours ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   Pls help to get my Blog back
-    *   by sweetomato530
-    *   10 minutes ago
+    *   1 (last comment by ColbyInTheCorner 1 minute ago)
+*   Missing Blog
+    *   by daiblili4ever
+    *   13 hours ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   Want to get my post back :(
-    *   by cherry\_cyc318
-    *   11 minutes ago
+    *   1 (last comment by ColbyInTheCorner 3 minutes ago)
+*   my blog missing
+    *   by alan0216
+    *   13 hours ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   John, please answer us!
-    *   by Breadandbutterlp
-    *   3 hours ago
+    *   1 (last comment by ColbyInTheCorner 3 minutes ago)
+*   Missing blog and some questions
+    *   by karllikaingo
+    *   13 hours ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by TeeWunY 16 minutes ago)
-*   Help I don't have pics and no blog or ??
-    *   by priorities
-    *   18 minutes ago
-    *   in Themes
-    *   0 votes
-    *   0
-*   my blog missing?
-    *   by LEHASI
-    *   22 minutes ago
+    *   1 (last comment by ColbyInTheCorner 3 minutes ago)
+*   Lost blog, alot of work went into it recently
+    *   by enabrantain
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by analeebanana 21 minutes ago)
-*   Blog missing I need it back, HELP!
-    *   by kf1975
-    *   24 minutes ago
+    *   1 (last comment by TheKoehlers 4 minutes ago)
+*   my blog is missing
+    *   by oohongoo
+    *   13 hours ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by analeebanana 22 minutes ago)
-*   Old blogs??
-    *   by Pol24
-    *   27 minutes ago
+    *   1 (last comment by ColbyInTheCorner 4 minutes ago)
+*   MISSING BLOG
+    *   by goenitz123456
+    *   12 hours ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   My blog is not appearing
-    *   by ALICE0922
-    *   28 minutes ago
+    *   1 (last comment by ColbyInTheCorner 4 minutes ago)
+*   Old entries not migrated
+    *   by Karri
+    *   12 hours ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   Please help find my blog
-    *   by mezzaine
-    *   36 minutes ago
+    *   1 (last comment by ColbyInTheCorner 4 minutes ago)
+*   May I have my blog back?
+    *   by jasmine323
+    *   12 hours ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by sweetomato530 31 minutes ago)
-*   ivanwongsum blog missing
-    *   by ivanwongsum
-    *   38 minutes ago
+    *   1 (last comment by ColbyInTheCorner 4 minutes ago)
+*   my blog is missing
+    *   by icericepool
+    *   12 hours ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   My Blog is missing
-    *   by jeuxdenfants
-    *   40 minutes ago
+    *   1 (last comment by ColbyInTheCorner 5 minutes ago)
+*   Where is my blog?
+    *   by bluesky93
+    *   12 hours ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   where is my blog ~!!!!!?????????
-    *   by vincentt\_tiffanyc
-    *   11 hours ago
-    *   in Themes
+    *   1 (last comment by ColbyInTheCorner 5 minutes ago)
+*   Missing blogs
+    *   by kachinu
+    *   12 hours ago
+    *   in Data Migration
     *   0 votes
-    *   5 (last comment by Tyler11b 41 minutes ago)
+    *   1 (last comment by ColbyInTheCorner 5 minutes ago)
+*   please help!!!my blog is missing!!!
+    *   by aliciabanks
+    *   12 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by ColbyInTheCorner 6 minutes ago)
+*   Help me migrate please.
+    *   by the\_real\_of\_me
+    *   12 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by ColbyInTheCorner 6 minutes ago)
 
-1 2 3 ... 47 Next
+1 2 3 ... 64 Next
 
 Help Categories
 
