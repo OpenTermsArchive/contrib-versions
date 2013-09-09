@@ -10,109 +10,109 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   We're working to make ~2M blog archives available for FREE download
     *   \[sticky\] by john
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   PLEASE READ IF YOUR SITE ISN'T SHOWING UP!
     *   \[sticky\] \[closed\] by john
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 
-*   Can't see my blog or my previous posts
-    *   by jeanpaul\_26
-    *   18 minutes ago
+*   my blog
+    *   by pretty\_2\_you
+    *   34 minutes ago
     *   in Data Migration
     *   0 votes
     *   0
-*   No Tools Option
-    *   by quetallchicago
-    *   24 minutes ago
-    *   in Miscellaenous
+*   i lost my blog
+    *   by crazyeeo3o
+    *   49 minutes ago
+    *   in Themes
     *   0 votes
     *   0
-*   MISSING BLOG.... I MISS STH I MISSED
-    *   by tomato\_toto
-    *   29 minutes ago
+*   how can I restore my xanga after joining membership?
+    *   by kaman\_sheng
+    *   1 hour ago
     *   in Data Migration
     *   0 votes
     *   0
-*   missing blog
-    *   by chan3kat
-    *   37 minutes ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   missing blog
-    *   by edwin314
-    *   52 minutes ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   how to use xanga after joining Xanga 2.0 campaign
-    *   by christy0321
+*   I want to get my old blogs and photos
+    *   by vicky\_choi
     *   1 hour ago
     *   in Themes
     *   0 votes
     *   0
-*   How to... (after the upgrade)
-    *   by SageRosalynMoonstone
+*   xanga via mobile
+    *   by rara44
     *   1 hour ago
     *   in Miscellaenous
     *   0 votes
     *   0
-*   Still don't see my blog, can't find a way to ask for money back
-    *   by SeeBeeWrite
-    *   1 hour ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Importing on Wordpress doesn't work
-    *   by iC3creambebe
-    *   1 hour ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   missing blog
-    *   by beyondthetrees
-    *   4 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by Applehead7 1 hour ago)
-*   Missing blog
-    *   by julifer
+*   Seriously important screenshots missing!!
+    *   by Swagsis
     *   2 hours ago
     *   in Data Migration
     *   0 votes
     *   0
-*   Discrimination
-    *   by Spunge\_Munger
-    *   2 days ago
+*   Lost blog
+    *   by stephanie1281
+    *   2 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Extension of Premium Plus Required
+    *   by waiwai411
+    *   2 hours ago
+    *   in Premium
+    *   0 votes
+    *   0
+*   All my photos gone!!!
+    *   by waiwai411
+    *   2 hours ago
+    *   in Pictures
+    *   0 votes
+    *   0
+*   Totally Disaster to Theme &. layout look off after 2.0 migration
+    *   by waiwai411
+    *   2 hours ago
     *   in Themes
     *   0 votes
-    *   2 (last comment by godisinthewind 3 hours ago)
-*   WHY ARE YOU ALLOWED TO EDIT COMMENTS ON YOUR SITE?
-    *   by Donkey\_Guy\_10
-    *   3 hours ago
-    *   in Adding &. Editing Entries
+    *   0
+*   My Blog Disappear, Please kindly reactivate it. Thanks.
+    *   by idacheng
+    *   2 hours ago
+    *   in Data Migration
     *   0 votes
-    *   1 (last comment by TheXangaTeam 3 hours ago)
-*   Lifetime member, but no blog, suspect ripoff or incompetence
-    *   by theshoresofdelmarva
+    *   0
+*   Help access blog/groups please!?
+    *   by Brookelynn\_B
     *   4 hours ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by john 3 hours ago)
-*   RSS feed for google feedburner not working
-    *   by naphtali\_deer
-    *   5 hours ago
-    *   in Miscellaenous
+    *   0
+*   I paid 48.00 and how to use it.
+    *   by christy0321
+    *   4 hours ago
+    *   in Themes
+    *   0 votes
+    *   0
+*   what do i need to do to find my blog?
+    *   by panoplie
+    *   6 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   WANT TO DELETE OLD XANGA
+    *   by xxxhotchic69xxx
+    *   6 hours ago
+    *   in Data Migration
     *   0 votes
     *   0
 
-1 2 3 ... 71 Next
+1 2 3 ... 74 Next
 
 Help Categories
 
