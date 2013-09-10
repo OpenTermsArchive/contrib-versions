@@ -19,8 +19,9 @@ Please note that Skype is now a part of Microsoft.
 11.  How can you access and amend your personal data?
 12.  How long is your personal data kept by Skype?
 13.  Children
-14.  Can this Privacy Policy be modified?
-15.  How can you contact Skype?  
+14.  Mobile Notifications
+15.  Can this Privacy Policy be modified?
+16.  How can you contact Skype?  
     
 
 **1\. WHAT INFORMATION DOES SKYPE COLLECT AND USE?**
@@ -37,7 +38,7 @@ Skype may gather and use information about you, including (but not limited to) i
 
 (e) Call quality and survey results;
 
-(f) Information about your usage of and interaction with Skype software, products, and websites (including computer, platform, device and connection information, client performance information, error reports, device capability, bandwidth, statistics on page views, and traffic to and from our websites, browser type and Skype WiFi enabled hotspot detection and usage statistics;
+(f) Information about your usage of and interaction with Skype software, products, and websites (including computer, platform, device and connection information, client performance information, error reports, device capability, bandwidth, statistics on page views, and traffic to and from our websites, browser type and Skype WiFi enabled hotspot detection and usage statistics);
 
 (g) Products or services ordered and delivered;
 
@@ -68,6 +69,7 @@ Skype may gather and use information about you, including (but not limited to) i
 Our primary purpose in collecting information is to provide you with a safe, smooth, efficient, and customized experience. Skype collects and uses, or has third party service providers acting on Skype’s behalf collecting and using, personal data relating to you, as permitted or necessary to:
 
 *   provide internet communication, video sharing and other products in particular to convey the communications and videos you and others make by means of the Skype software and/or the Skype products;
+*   change and customize Skype features and functionality.
 *   take, process or deliver orders made via our websites, invoice you or notify you of the status of your order;
 *   display updates about your recent activity using the Qik products or connections to other Qik users;
 *   provide other services for you (as described when we collect the information);
@@ -184,9 +186,9 @@ Skype uses analytics partners, including Omniture, Google Analytics, and Flurry 
 
 **4.4.2 Advertising**
 
-The advertisements of Skype appearing on third party websites and the advertisements of third parties appearing in the Skype software, products and on third party websites are delivered to you by Microsoft Advertising or other carefully selected ad serving partners (“Ad Serving Partners”).
+The advertisements of Skype and of third parties appearing in the Skype software, Skype products and on Skype third party websites are delivered to you by Microsoft Advertising or other carefully selected ad serving partners (“Ad Serving Partners”).
 
-Skype and its Ad Serving Partners may use non-personally identifiable information that you have provided in your Skype profile or otherwise provided to Skype, such as your age, gender, language and country of residence, as well as information about your relationship with Skype’s websites, software, and products, in order to provide advertisements likely to be of greater interest to you and to help us measure and improve the performance of our advertising campaigns. Skype and our Ad Serving Partners may use cookies and/or web-beacons (Gifs) to collect this information.  
+Skype and its Ad Serving Partners may use non-personally identifiable information that you have provided in your Skype profile or otherwise provided to Skype, such as your age, gender, language and country of residence, as well as information about your relationship with and use of Skype’s websites, software, and products, in order to provide advertisements likely to be of greater interest to you and to help us measure and improve the performance of our advertising campaigns. Skype and our Ad Serving Partners may use cookies and/or web-beacons (Gifs) to collect this information.  
 
 **4.4.3. Affiliates**
 
@@ -222,7 +224,8 @@ To opt out of Google Analytics cookies, please visit: http://tools.google.com/dl
 
 **5.1 Third Party Advertisements**
 
-Some Skype software clients may enable third-party advertisements provided by Microsoft Advertising. In order to provide ads of greater interest to you, these ads may be targeted based on non-personally identifiable Skype profile information (including profile information from linked LiveID accounts), such as age, gender, country of residence, and language preference, as well as other information Microsoft Advertising collects outside the Skype software client. For instance, Microsoft Advertising may utilize the same browser cookies set by Microsoft websites to enhance targeting within the Skype software client.
+Skype websites and some Skype software clients enable third-party advertisements provided by Microsoft Advertising. In order to provide ads of greater interest to you, these ads may be targeted based on non-personally identifiable Skype profile information (including profile information from linked Microsoft accounts), such as age, gender, country of residence, and language preference, as well as other information Microsoft Advertising collects outside the Skype software client. For instance, Microsoft Advertising may utilize the same browser cookies set by Microsoft websites to enhance targeting within the Skype software client.  
+To learn more about how Microsoft Advertising collects and uses information to target ads on Skype and other properties, including how it uses information collected from Skype, such as age and gender and other information collected as part of delivering ads to or on behalf of Skype to target ads on other properties, please see the Microsoft Advertising Privacy Statement
 
 Except for the modern Skype client running on Windows 8, you may opt-out of Microsoft targeted ads in any Skype software client that enables targeted ads by visiting the privacy menu in the Skype software client toolbar. If you opt-out, you will still receive advertisements based on your country of residence, language preference, and IP address location, but other targeting information will not be used. For the modern Skype client running on Windows 8, you may opt-out of receiving targeted ads from Microsoft Advertising through your browser by visiting http://choice.live.com/advertisementchoice, or the NAI or DAA sites described below. For more information about how Microsoft Advertising collects and uses information, please see the Microsoft Advertising Privacy Supplement.
 
@@ -282,15 +285,34 @@ Your instant messaging (IM), voicemail, and video message content (collectively 
 
 Skype will take appropriate technical and security measures to protect your information. By using this product, you consent to the storage of your IM, voicemail, and video message communications as described above.
 
-**13\. CHILDREN**
+**13\. MICROSOFT ACCOUNT**
+
+Microsoft account (formerly known as Windows Live ID and Microsoft Passport) is a service that allows you to sign into Microsoft products (including Skype), web sites and services, as well as those of select Microsoft partners.  
+  
+If you have a Skype account, you may connect it to a Microsoft account in order to view your contacts and other information from both accounts in one place. If you choose to connect your Skype account to your Microsoft account, Outlook.com users who communicate with you or who add you to their contacts may be invited to connect with you on Skype.  
+
+To use the Skype app on a Windows 8 or Windows 8.1 device, you must first sign into Windows with a Microsoft account. After you have launched the app for the first time, you will be signed into the app whenever you are signed into Windows with your Microsoft account on that same device. For more information about Windows 8 and Windows 8.1 , please visit their privacy statements, located here and here, respectively.  
+  
+  
+To view additional details about Microsoft account, including how to create and use a Microsoft account, how to edit account information, and how we collect and use information relating to a Microsoft account, please visit the Microsoft account privacy statement
+
+**14\. CHILDREN**
 
 Skype's websites and software clients are not intended for or designed to attract users under the age of 13. We encourage parents to be involved in the online activities of their children to ensure that no information is collected from a child without parental permission.
 
-**14\. CAN THIS PRIVACY POLICY BE MODIFIED?**
+**15\. MOBILE NOTIFICATIONS**
+
+When you use Skype on your phone, Skype may use notification services available for that phone to let you know of incoming calls, chats and other messages when you are not actively running or using the Skype application. These services may be provided by a third party. For example, messages sent to an Apple device will use Apple’s Push Notification Services.
+
+Notification services may receive information about the caller, sender of the message and the content of the message as part of providing the service and may use the information in accordance with the terms and conditions and privacy policy for the service provider. Skype is not responsible for the data collected by third party notification services.
+
+If you do not want to use third party notification services to receive notification of incoming Skype calls and messages, you can disable this in **Settings>Notifications>Skype**.
+
+**16\. CAN THIS PRIVACY POLICY BE MODIFIED?**
 
 Skype will occasionally update this Privacy Policy to reflect changes in our software and/or products and customer feedback. When we post changes to this Privacy Policy at skype.com/go/privacy, we will update the "last revised" date at the bottom of the Privacy Policy. If there are material changes to this Privacy Policy or in how we will use your personal information, we will notify you either by prominently posting a notice of such changes prior to implementing the change or by directly sending you a notification. You agree that your continued use of the Skype software or Skype products after notice shall constitute your acceptance of the Privacy Policy. We encourage you to periodically review this Privacy Policy to be informed of how Skype is collecting, using, and protecting your information.
 
-**15\. HOW CAN YOU CONTACT SKYPE?**
+**17\. HOW CAN YOU CONTACT SKYPE?**
 
 To contact Skype in relation to the “Skype” branded software or products, please submit a support request to customer support team. To contact Skype in relation to the “Qik” branded software or products, please submit a support request to http://support.qik.com  
 Skype Software S.à r.l / Skype Communications S.à r.l.  
@@ -302,4 +324,4 @@ Skype Inc.
 3210 Porter Drive  
 Palo Alto, California 94304, USA
 
-© Skype – Last revised: December 2012
+© Skype and/or Microsoft – Last updated: August 2013
