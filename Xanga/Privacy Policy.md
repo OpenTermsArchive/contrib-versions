@@ -10,109 +10,109 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   We're working to make ~2M blog archives available for FREE download
     *   \[sticky\] by john
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by aliciabanks 9 hours ago)
+    *   1 (last comment by aliciabanks 1 day ago)
 *   PLEASE READ IF YOUR SITE ISN'T SHOWING UP!
     *   \[sticky\] \[closed\] by john
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 
-*   My Blog
-    *   by Seventy6ersGirl
-    *   19 hours ago
-    *   in Data Migration
+*   Visual Editor Has Stopped Working In Firefox
+    *   by Donkey\_Guy\_10
+    *   2 days ago
+    *   in Adding &. Editing Entries
     *   0 votes
-    *   1 (last comment by peanutlolabreezy 50 minutes ago)
-*   I've paid but can't see my pass entries
-    *   by evanss
+    *   1 (last comment by Donkey\_Guy\_10 49 minutes ago)
+*   I can't see my blog, i extracted the html data but can't view it
+    *   by Corinthe
     *   1 hour ago
     *   in Data Migration
     *   0 votes
     *   0
-*   where is the blog ?
-    *   by ekwans
-    *   4 days ago
-    *   in Themes
-    *   0 votes
-    *   3 (last comment by pacerslam 2 hours ago)
-*   Blog Still Not Showing Up
-    *   by laytexduckie
-    *   4 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   My URL is also missing!
-    *   by lily\_scarlet
-    *   5 hours ago
-    *   in Personal URLs
-    *   0 votes
-    *   0
-*   my bolg disappear
-    *   by seven\_kit
-    *   7 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   But seriously. Wtf?
-    *   by SeeBeeWrite
-    *   7 hours ago
-    *   in Data Migration
+*   Comment identities
+    *   by tychecat
+    *   1 hour ago
+    *   in Comments
     *   0 votes
     *   0
 *   go to dashboard but no " Tools" button at the left
     *   by christy0321
-    *   16 hours ago
+    *   1 day ago
+    *   in Themes
+    *   0 votes
+    *   1 (last comment by wrybreadspread 1 hour ago)
+*   When is my blog coming back?
+    *   by julifer
+    *   1 hour ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by deannnnaaaaa 8 hours ago)
-*   Photos?
-    *   by Jack\_Hawksmoor
-    *   8 hours ago
+    *   1 (last comment by laytexduckie 1 hour ago)
+*   Downloaded the blogs but...
+    *   by jhl058
+    *   1 hour ago
     *   in Data Migration
     *   0 votes
     *   0
-*   Went premium, when can I expect my blog to be back up?
-    *   by Nishomi
-    *   8 hours ago
-    *   in Data Migration
+*   Cancel Account
+    *   by erinmariah
+    *   2 hours ago
+    *   in Premium
     *   0 votes
     *   0
-*   MISSING BLOG
-    *   by oinkiee
-    *   9 hours ago
+*   The shores of Delmarva
+    *   by theshoresofdelmarva
+    *   4 hours ago
+    *   in Personal URLs
+    *   0 votes
+    *   0
+*   Blog Still Not Showing Up
+    *   by laytexduckie
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by aliciabanks 9 hours ago)
-*   Can't get my blog up on my upgraded site
-    *   by RebeccaBlossom
+    *   1 (last comment by laytexduckie 5 hours ago)
+*   Will Reverse charges on paid donation soon...
+    *   by adieu02
     *   11 hours ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by aliciabanks 9 hours ago)
-*   I have got nothing in my xanga
-    *   by hoyee\_serene
-    *   12 hours ago
+    *   3 (last comment by adieu02 5 hours ago)
+*   I WANT TO DELETE MY ACCOUNT.
+    *   by kamikaze\_zealot
+    *   11 hours ago
+    *   in Miscellaenous
+    *   0 votes
+    *   1 (last comment by SageRosalynMoonstone 6 hours ago)
+*   I contributed to campaign but still no blog
+    *   by RK1963
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by aliciabanks 9 hours ago)
-*   upgraded to 2.0, archives not showing
-    *   by roomtwoohhigh
-    *   14 hours ago
+    *   4 (last comment by aliciabanks 6 hours ago)
+*   cant see my blog
+    *   by citypig
+    *   10 hours ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by aliciabanks 9 hours ago)
+    *   1 (last comment by aliciabanks 6 hours ago)
+*   I Got Premium a WEEK ago
+    *   by vvbutterflyvv
+    *   8 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by aliciabanks 6 hours ago)
 *   where is my paid blog???????
     *   by aliciabanks
-    *   9 hours ago
-    *   in Miscellaenous
+    *   6 hours ago
+    *   in Data Migration
     *   0 votes
     *   0
 
-1 2 3 ... 78 Next
+1 2 3 ... 79 Next
 
 Help Categories
 
