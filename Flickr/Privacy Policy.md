@@ -1,9 +1,9 @@
-Flickr Flickr is a photo sharing community which provides you with an easy way to post and share photos online and add meaningful metadata and comments to photos. You do not need to be registered to search or view public photos on Flickr, however you must be a registered member of Flickr or Yahoo! to post.  
+Flickr Flickr is a photo sharing community which provides you with an easy way to post and share photos online and add meaningful metadata and comments to photos. You do not need to be registered to search or view public photos on Flickr, however you must be a registered member of Flickr or Yahoo to post.  
   
 Account Information
 
 *   In Profile Privacy, you can control who is able to see different parts of your profile, including email address, IM names, real name, and current city.
-*   In your Account Settings, you may also hide photos or your profile from searches on flickr.com as well as from searches on 3rd party sites that use the Yahoo! API, including Yahoo! Image Search.
+*   In your Account Settings, you may also hide photos or your profile from searches on flickr.com as well as from searches on 3rd party sites that use the Yahoo API, including Yahoo Image Search.
 
 Information Collection and Use Practices
 
@@ -28,7 +28,7 @@ Information Sharing and Disclosure Practices
 *   In your Privacy Settings, you can choose to make your photos default to public for anyone to access, restrict access to a limited number of other Flickr users, or keep those photos private so only you can access them. On each photo page, you will also find more granular controls to change each photo setting.
 *   You may link your account to Facebook, Twitter, Tumblr, or other sites to link your photos directly to other social sharing sites and blogs.
     *   Your Guest Pass history allows you to manage Guest Passes you have created for sharing your photos with others.
-*   On the desktop Flickr experience, you may give certain Yahoo! apps (including Aviary, ImageKind, and Moo) different levels of permissions to interact with your account to take advantage of things like photo editing tools. If you want to stop using one of these apps and revoke your permission, click the"Remove Permission" link under “sharing and extending” on your account page and remove that permission.
+*   On the desktop Flickr experience, you may give certain Yahoo apps (including Aviary, ImageKind, and Moo) different levels of permissions to interact with your account to take advantage of things like photo editing tools. If you want to stop using one of these apps and revoke your permission, click the"Remove Permission" link under “sharing and extending” on your account page and remove that permission.
 
 Practices Regarding Your Ability to Update or Delete Information
 
@@ -37,12 +37,12 @@ Practices Regarding Your Ability to Update or Delete Information
 
 Communication
 
-*   Flickr communication is currently managed separately from your Yahoo! Marketing Preferences and Subscriptions.
+*   Flickr communication is currently managed separately from your Yahoo Marketing Preferences and Subscriptions.
 *   Visit your Flickr account information area to edit your email notification settings.
 
 Other
 
-*   When you use Flickr, you are subject to the Yahoo! Terms of Service, Flickr ATOS, and the Flickr Community Guidelines.
+*   When you use Flickr, you are subject to the Yahoo Terms of Service, Flickr ATOS, and the Flickr Community Guidelines.
 *   Please see Flickr Help if you have questions about this service.
 
-This page describes current Yahoo! practices with respect to this particular service. This information may change as Yahoo! revises this service by adding or removing features or using different service providers. To find out how Yahoo! treats your personal information, please visit our Privacy Policy.
+This page describes current Yahoo practices with respect to this particular service. This information may change as Yahoo revises this service by adding or removing features or using different service providers. To find out how Yahoo treats your personal information, please visit our Privacy Policy.
