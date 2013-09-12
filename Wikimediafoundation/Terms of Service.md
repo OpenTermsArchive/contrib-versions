@@ -1,4 +1,4 @@
-**In other languages** ****English****  • العربية • asturianu • български • català • česky • Deutsch • español • suomi • français • galego • italiano • 日本語 • 한국어 • македонски • മലയാളം • Nederlands • polski • português do Brasil • русский • ไทย • Tiếng Việt
+**In other languages** ****English****  • العربية • asturianu • български • català • česky • Deutsch • English • español • suomi • français • galego • italiano • 日本語 • 한국어 • македонски • മലയാളം • Nederlands • polski • português do Brasil • русский • ไทย • Tiếng Việt
 
   
 
