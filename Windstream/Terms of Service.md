@@ -28,6 +28,7 @@ My Cart (Edit) My Location_:_ n/a
     *   Support Center
     *   Meet Wendy
     *   Live Chat
+    *   Blog
     
 
 *   High-Speed Internet
@@ -202,6 +203,7 @@ My Cart (Edit) My Location_:_ n/a
 *   Investor Relations
 *   News
 *   Windstream.net
+*   WINside Track Blog
 
 Windstream is one of the largest providers of telecommunications services in rural communities in the United States, and we are a customer-focused telecommunications company that provides phone, high-speed Internet and digital television services. We also offer a wide range of IP-based voice and data services and advanced phone systems and equipment to businesses and government agencies.
 
