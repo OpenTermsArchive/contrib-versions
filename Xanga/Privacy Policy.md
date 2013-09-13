@@ -8,98 +8,98 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Deleting My Account
-    *   by Omgwtf\_St
-    *   52 minutes ago
-    *   in Miscellaenous
+*   CONTRIBUTED BLOG STILL MISSING
+    *   by joannahs
+    *   1 minute ago
+    *   in Data Migration
     *   0 votes
     *   0
-*   All I wanted...
-    *   by SummerFades07
-    *   55 minutes ago
-    *   in Premium
+*   Ok i need help!!
+    *   \[Resolved\] by staci0531
+    *   4 hours ago
+    *   in Data Migration
     *   0 votes
-    *   0
-*   Where's my August 2013 archive?
-    *   by ironyburger
+    *   1 (last comment by john 20 minutes ago)
+*   hey how do i get my blog back ?
+    *   \[Resolved\] by rediscoverbeauty
+    *   2 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by john 21 minutes ago)
+*   help i can't see my blog
+    *   \[Resolved\] by jeanpaul\_26
     *   1 hour ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   ?????
-    *   by aertpavil
-    *   2 hours ago
+    *   1 (last comment by john 22 minutes ago)
+*   I only had 2 entries... does this mean that they're gone forever? :(
+    *   \[Resolved\] by baby\_trex
+    *   36 minutes ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by TheXangaTeam 1 hour ago)
-*   why is my text posted in one thin column???
-    *   by aliciabanks
-    *   2 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   thanks!!!!!!!!
-    *   by aliciabanks
-    *   2 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Is Xanga 2.0 by paid subscription only?
-    *   by chopsticks4rent
-    *   3 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Wrong blog for quest4god
-    *   by quest4god
-    *   3 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Am I too late...?
-    *   by commentdan
-    *   3 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   When is my blog coming back?
-    *   \[Resolved\] by julifer
+    *   1 (last comment by john 24 minutes ago)
+*   Deleting My Account
+    *   \[Resolved\] by Omgwtf\_St
     *   1 day ago
-    *   in Data Migration
+    *   in Miscellaenous
     *   0 votes
-    *   3 (last comment by julifer 3 hours ago)
-*   Contributed, Blog Still Not Showing Up (Will Pull Donation Soon)
-    *   \[Resolved\] by laytexduckie
-    *   16 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   4 (last comment by laytexduckie 4 hours ago)
-*   Paid the $48, filled out the questionnaire, still no blog
-    *   \[Resolved\] by Applehead7
-    *   6 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by Applehead7 4 hours ago)
-*   Decade Long Premium Member, Blog is A Mess!!!
-    *   by clapbangkiss
+    *   3 (last comment by white\_cross 6 hours ago)
+*   So I must pay? to get my blog back?
+    *   \[Resolved\] by stephaie517
     *   8 hours ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by john 7 hours ago)
-*   Not able to download archive
-    *   by Trinbago\_Gul08
+*   Where did my blog entries go? Miss the memories
+    *   \[Resolved\] by soleMates2112
     *   9 hours ago
     *   in Data Migration
     *   0 votes
+    *   1 (last comment by john 8 hours ago)
+*   How do I delete my site and cancel my account?
+    *   by TrentTribe
+    *   10 hours ago
+    *   in Premium
+    *   0 votes
     *   0
-*   My blog is missing
-    *   \[Resolved\] by sophiehatehatex
-    *   5 days ago
+*   Where is my archive?
+    *   \[Resolved\] by cowautlgc
+    *   11 hours ago
     *   in Data Migration
     *   0 votes
-    *   6 (last comment by john 11 hours ago)
+    *   2 (last comment by cowautlgc 11 hours ago)
+*   WHERE IS MY BLOG?
+    *   by tony\_ng723
+    *   11 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by john 11 hours ago)
+*   Where's my August 2013 archive?
+    *   by ironyburger
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by rabbitmary 11 hours ago)
+*   where did my stuff go?
+    *   \[Resolved\] by crazy\_n\_evilkitten
+    *   22 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by john 12 hours ago)
+*   Xanga 2.0 Ate My Blogs?
+    *   by NoLeY30
+    *   12 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by john 12 hours ago)
+*   Where did my blogs go?
+    *   \[Resolved\] by thehman50
+    *   12 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by john 12 hours ago)
 
-1 2 3 ... 79 Next
+1 2 3 ... 81 Next
 
 Help Categories
 
