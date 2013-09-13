@@ -4,12 +4,12 @@ Privacy Statement Print A A
 
 Last modified: August 7, 2013
 
-Your privacy is important to General Motors Company (“GM” or “we") as is your trust in GM’s products and services. We want you to know that the information you share with us will be treated with care. This Privacy Statement addresses what personal information we collect and how we handle the personal information shared with us.  
+Your privacy is important to General Motors Company (“GM” or “we”) as is your trust in GM’s products and services. We want you to know that the information you share with us will be treated with care. This Privacy Statement addresses what personal information we collect and how we handle the personal information shared with us.  
  
 
 **Scope**
 
-This Privacy Statement applies to personal information we obtain from and about individuals interacting with GM and its websites, products, and services. It does not apply to personal information we obtain in our capacity as an employer.
+This Privacy Statement applies to personal information we obtain from and about individuals interacting with GM and its websites, products and services. It does not apply to personal information we obtain in our capacity as an employer.
 
 This Privacy Statement covers all GM businesses and subsidiaries in the U.S. except for OnStar LLC and General Motors Financial Company, Inc. which have their own Privacy Statements. Additionally, mobile applications have separate privacy statements, as described in the Mobile Applications section below.  
  
@@ -18,67 +18,67 @@ This Privacy Statement covers all GM businesses and subsidiaries in the U.S. exc
   
 As you interact with GM, there may be opportunities for you to provide us with your information. Additionally, we may collect certain information about you or your vehicle as further described below.  
   
-You may provide us with information about you or your vehicle through a number of sources: GM websites, product and related events, test drive or other incentive applications, surveys, social media platforms (i.e. when you register for a GM sponsored sweepstakes via the GM Facebook Fan page), sweepstakes entries, through our customer call centers.  
+You may provide us with information about you or your vehicle through a number of sources: GM websites, product and related events, test drive or other incentive applications, surveys, social media platforms (i.e., when you register for a GM sponsored sweepstakes via the GM Facebook Fan page), sweepstakes entries and through our customer call centers.  
   
-We received information about you through vehicle sales records provided by your dealer and we may obtain, with your consent, data obtained from your vehicle’s Event Data Recorder (“EDR”) as described in your owner’s manual (i.e. how various systems in your vehicle operate, the speed and distance of your vehicle). For additional information about EDR data please see your owner’s manual. We also may obtain information about you and your vehicle from GM affiliates, GM dealers, GM licensees for consumer merchandise, GM credit card bank partners and other sources such as companies that provide lists of potential vehicle purchasers and current owners, if such companies are permitted to share your information with us pursuant to their privacy statements.  
+We receive information about you through vehicle sales records provided by your dealer and we may obtain, with your consent, data obtained from your vehicle’s Event Data Recorder (“EDR”) as described in your owner’s manual (i.e., how various systems in your vehicle operate, the speed and distance of your vehicle). For additional information about EDR data, please see your owner’s manual. We also may obtain information about you and your vehicle from GM affiliates, GM dealers, GM licensees for consumer merchandise, GM credit card bank partners and other sources such as companies that provide lists of potential vehicle purchasers and current owners, if such companies are permitted to share your information with us pursuant to their privacy statements.  
   
 The types of information that GM collects about you may include, but are not limited to:  
  
 
-**●** contact information (such as name, address, city, state and ZIP code, e-mail address, and telephone number),
+**●** contact information (such as name, address, city, state and ZIP code, email address and telephone number)
 
-**●** vehicle information (such as vehicle identification number (VIN), make, model, model year, selling dealer, servicing dealer, date of purchase or lease, service history),
+**●** vehicle information (such as vehicle identification number (VIN), make, model, model year, selling dealer, servicing dealer, date of purchase or lease and service history)
 
-**●** vehicle performance data (such as engine and transmission performance, airbag deployment conditions, or crash or near crash information about how a vehicle’s systems performed),
+**●** vehicle performance data (such as engine and transmission performance, airbag deployment conditions or crash or near crash information about how a vehicle’s systems performed)
 
-**●** demographic information (such as age range, marital status, household composition),
+**●** demographic information (such as age range, marital status and household composition)
 
-**●** non-credit-related marketing profile information (such as when you plan to purchase or lease. the vehicle in which you're interested),
+**●** non-credit-related marketing profile information (such as when you plan to purchase or lease. the vehicle in which you're interested)
 
-**●** relationships you have with GM in addition to the purchase and servicing of your vehicle (such as through a GM Card or OnStar),
+**●** relationships you have with GM in addition to the purchase and servicing of your vehicle (such as through a GM Card or OnStar)
 
-**●** incentive eligibility verification information (such as college name, branch of service or credit union name for vehicle purchase programs),
+**●** incentive eligibility verification information (such as college name, branch of service or credit union name for vehicle purchase programs)
 
-**●** Social Security Number (in limited circumstances GM may collect SSN, for example if you win a sweepstakes or receive compensation that must be reported for government tax purposes),
+**●** Social Security Number (in limited circumstances GM may collect SSN, for example if you win a sweepstakes or receive compensation that must be reported for government tax purposes)
 
-**●** investor information (name, address, phone number, and e-mail address),
+**●** investor information (name, address, phone number and email address)
 
-**●** stockholder services information (such as account information), or
+**●** stockholder services information (such as account information)
 
-**●** photographs such as those that you may submit for contests or sweepstakes.
+**●** photographs such as those that you may submit for contests or sweepstakes
 
 **Use  
 **  
 The information GM collects about you and your vehicle will be used:
 
-**●** to provide products and services,
+**●** to provide products and services
 
-**●** to maintain customer relationships,
+**●** to maintain customer relationships
 
-**●** to operate GM websites,
+**●** to operate GM websites
 
-**●** to provide customer and vehicle support and service (such as recall information or warranty service),
+**●** to provide customer and vehicle support and service (such as recall information or warranty service)
 
-**●** to provide information and product updates,
+**●** to provide information and product updates
 
-**●** to evaluate vehicle performance and safety as described in the vehicle owner manual,
+**●** to evaluate vehicle performance and safety as described in the vehicle owner manual
 
-**●** for safety and product research purposes,
+**●** for safety and product research purposes
 
-**●** to verify eligibility for vehicle purchase or incentive programs,
+**●** to verify eligibility for vehicle purchase or incentive programs
 
-**●** for marketing purposes,
+**●** for marketing purposes
 
-**●** to customize and improve communication content, and
+**●** to customize and improve communication content
 
-**●** to comply with legal requirements.
+**●** to comply with legal requirements
 
-You may choose to forward information from one of our websites or e-mails to another person through our Forward to a Friend program. E-mail addresses submitted to our E-card or other Forward to a Friend programs will not be captured for later use in marketing unless the recipient opts into receiving additional marketing materials from GM.  
+You may choose to forward information from one of our websites or emails to another person through our Forward to a Friend program. Email addresses submitted to our E-card or other Forward to a Friend programs will not be captured for later use in marketing unless the recipient opts into receiving additional marketing materials from GM.  
  
 
 **Mobile Applications**  
   
-GM has developed certain mobile applications that you may download to your mobile device or vehicle (“GM Applications”). When you download a GM Application, there may be an opportunity for you to provide us with or for us to obtain information about you or your vehicle. Each GM Application will display a separate privacy Statement that will inform you about how any information shared via the application will be handled and how to decline such use or uninstall the application.  
+GM has developed certain mobile applications that you may download to your mobile device or vehicle (“GM Applications”). When you download a GM Application, there may be an opportunity for you to provide us with or for us to obtain information about you or your vehicle. Each GM Application will display a separate Privacy Statement that will inform you about how any information shared via the application will be handled and how to decline such use or uninstall the application.  
   
 Through the Infotainment system, GM may also offer applications developed by third parties (“3rd Party Application”). When you download a 3rd Party Application to your mobile device or vehicle, the 3rd Party Application may collect information about you in connection with your download or use of that application. GM is not responsible for the collection or use of information by 3rd Party Applications. We recommend that you carefully review the privacy statement of each 3rd Party Application prior to downloading or using them.  
  
@@ -88,17 +88,17 @@ Through the Infotainment system, GM may also offer applications developed by thi
 GM may share the information it collects about you or your vehicle in the following instances:  
  
 
-**●** as required by law, such as in conjunction with a subpoena, government inquiry, litigation, dispute resolution, or similar legal process;
+**●** as required by law, such as in conjunction with a subpoena, government inquiry, litigation, dispute resolution or similar legal process
 
-**●** when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a law enforcement request;
+**●** when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud or respond to a law enforcement request
 
-**●** with our services providers who work on our behalf and who do not have an independent right to use the information to which they have access or that we disclose to them;
+**●** with our services providers who work on our behalf and who do not have an independent right to use the information to which they have access or that we disclose to them
 
-**●** with our business partners for GM marketing activities, business partner marketing activities or both;
+**●** with our business partners for GM marketing activities, business partner marketing activities or both
 
-**●** with third parties for research and development purposes (such as university research institutes for improving highway safety);
+**●** with third parties for research and development purposes (such as university research institutes for improving highway safety)
 
-**●** in connection with the sale, transfer or financing of a significant part of a GM business or its assets, including any such activities associated with a bankruptcy proceeding;
+**●** in connection with the sale, transfer or financing of a significant part of a GM business or its assets, including any such activities associated with a bankruptcy proceeding
 
 **●** within GM, with our subsidiaries and affiliates, with GM dealers and with GM licensees. however, transaction information regarding your GM Card will not be shared with GM dealers.
 
@@ -107,15 +107,15 @@ Apart from the purposes listed above, GM will not share information about you or
 
 **How to Manage Your Personal Information/Communications Preferences**  
   
-If you do not want to receive unsolicited marketing communications from GM, please visit our Consumer Preference System website at www.gmcontactpreferences.com. This will allow you to opt out of telephone and e-mail communications and/or to change previously submitted opt-out preferences. You can also call 1-866-MYPRIVACY (1-866-697-7482) to opt out of direct mail communications, as well as telephone and e-mail communications, and/or to change previously submitted opt-out preferences.  
+If you do not want to receive unsolicited marketing communications from GM, please visit our Consumer Preference System website at www.gmcontactpreferences.com. This will allow you to opt out of telephone and email communications and/or to change previously submitted opt-out preferences. You can also call 1-866-MYPRIVACY (1-866-697-7482) to opt out of direct mail communications, as well as telephone and email communications, and/or to change previously submitted opt-out preferences.  
   
-If you have subscribed to a particular e-mail newsletter or other communication (such as My GMLINK Service Reminders), you should follow the instructions in the e-mail or on a related website to unsubscribe.  
+If you have subscribed to a particular email newsletter or other communication (such as My GMLINK Service Reminders), you should follow the instructions in the email or on a related website to unsubscribe.  
   
 GM and GM dealers are separate legal entities with their own privacy practices. For questions about your dealer's privacy practices including opting out of marketing communications from your dealer, please contact your dealer directly.  
   
-GM works with third party advertising and personalization partners to help us display personalized content and appropriate advertising based on your visit to gm.com and other websites. If you do not wish to receive personalized advertising from us while visiting a GM website, you may click on the AdChoices icon located at the bottom of the web site page.  
+GM works with third-party advertising and personalization partners to help us display personalized content and appropriate advertising based on your visit to gm.com and other websites. If you do not wish to receive personalized advertising from us while visiting a GM website, you may click on the AdChoices icon located at the bottom of the website page.  
   
-If you do not wish to receive personalized advertising from us on a non-GM web sites, please visit the Network Advertising Initiative Opt-Out page http://www.networkadvertising.org/choices/ or click on the AboutAds icon on a GM advertisement and follow the instructions on how to opt out.  
+If you do not wish to receive personalized advertising from us on a non-GM websites, please visit the Network Advertising Initiative Opt-Out page http://www.networkadvertising.org/choices/ or click on the AboutAds icon on a GM advertisement and follow the instructions on how to opt out.  
   
 If you opt out of receiving marketing communications from GM, your personal information will not be used for marketing, but may still be used for the other purposes described in this Privacy Statement (such as vehicle support and service).  
    
@@ -127,15 +127,15 @@ GM uses administrative, technical and physical security to protect the personal 
 
 **Cookies**  
   
-GM websites use “cookies” to remember user preferences and to maximize the performance of our website and services. Using cookies on our web sites provides benefits to you, such as allowing you to maintain your account login information or contact information on Request a Quote forms between visits, or locating a nearby dealer.  
+GM websites use “cookies” to remember user preferences and to maximize the performance of our website and services. Using cookies on our websites provides benefits to you, such as allowing you to maintain your account login information or contact information on Request a Quote forms between visits, or locating a nearby dealer.  
   
-Similarly, we may also place web beacons in our emails to measure the effectiveness of our email campaigns by identifying the individuals who open or act upon an email message, when an email message is opened, how many times an email message is forwarded, the type of software, device, operating system and browser used to deliver the email and any url accessed through our email message.  
+Similarly, we may also place Web beacons in our emails to measure the effectiveness of our email campaigns by identifying the individuals who open or act upon an email message, when an email message is opened, how many times an email message is forwarded, the type of software, device, operating system and browser used to deliver the email and any URL accessed through our email message.  
   
-To measure site activity and provide a better user experience, we may allow our service providers or business partners to compile information from the cookies, web beacons or other technologies on our web sites which may include information about your visit (such as demographic data, browser type, IP address, pages visited, activities conducted on the page and the day and time of your visit).  
+To measure site activity and provide a better user experience, we may allow our service providers or business partners to compile information from the cookies, Web beacons or other technologies on our websites which may include information about your visit (such as demographic data, browser type, IP address, pages visited, activities conducted on the page and the day and time of your visit).  
   
-We may also use data from third party websites to serve GM advertisements on other websites. These GM advertisements may use cookies or other technologies to collect certain information about your visits to other websites (such as demographic data, browser type, IP address, pages visited, activities conducted and the day and time of your visit). This information may be used to evaluate our online advertising campaigns or to tailor promotions and other marketing messages to you.  
+We may also use data from third-party websites to serve GM advertisements on other websites. These GM advertisements may use cookies or other technologies to collect certain information about your visits to other websites (such as demographic data, browser type, IP address, pages visited, activities conducted and the day and time of your visit). This information may be used to evaluate our online advertising campaigns or to tailor promotions and other marketing messages to you.  
   
-You may refuse or delete cookies. Please refer to your browser Help instructions to learn more about cookies and other technologies and how to manage their use. If you elect to refuse or delete cookies, you will need to repeat this process if you use another computer, or change browsers. In addition, opting out of relevant advertising will not opt you out of all advertising, but rather only those advertisements that are personalized to your interests by GM or its agents or representatives. If you choose to decline cookies, some of the functionality of a website may be impaired.  
+You may refuse or delete cookies. Please refer to your browser Help instructions to learn more about cookies and other technologies and how to manage their use. If you elect to refuse or delete cookies, you will need to repeat this process if you use another computer or change browsers. In addition, opting out of relevant advertising will not opt you out of all advertising, but rather only those advertisements that are personalized to your interests by GM or its agents or representatives. If you choose to decline cookies, some of the functionality of a website may be impaired.  
  
 
 **Linked Sites**  
@@ -152,14 +152,14 @@ When completing a purchase or lease agreement or signing a service repair order 
 
 **Children's Privacy  
   
-**GM websites do not target, or knowingly collect any information from children under the age of 13.  
+**GM websites do not target or knowingly collect any information from children under the age of 13.  
  
 
 **Data Transfer  
   
-**GM affiliates in the United States ("GM US") adhere to the U.S.– EU Safe Harbor Privacy Principles and the U.S.-Swiss Safe Harbor Privacy Principles as set forth by the U.S. Department of Commerce (collectively, "European Safe Harbor") as a data processor for certain European customer personal data transfers to the United States. Specifically, GM US acts as a data processor for its GM affiliated companies in Europe ("GM Europe") when it provides data hosting, technical support, or otherwise obtains incidental access to data about identified or identifiable users of GM Europe's products and services, including Infotainment services ("European Customer Data"). Each GM Europe company acts as a controller of its own European Customer Data, and GM US acts as a data processor for these GM Europe companies.  Individuals that use products or services offered by a GM Europe company may therefore wish to raise any privacy questions with such GM Europe company directly, including filing any requests to access European Customer Data or exercise other privacy rights. Such individuals may also raise questions with GM US as per the contact details below.  
+**GM affiliates in the United States ("GM US") adhere to the U.S.– EU Safe Harbor Privacy Principles and the U.S.-Swiss Safe Harbor Privacy Principles as set forth by the U.S. Department of Commerce (collectively, "European Safe Harbor") as a data processor for certain European customer personal data transfers to the United States. Specifically, GM U.S. acts as a data processor for its GM affiliated companies in Europe ("GM Europe") when it provides data hosting, technical support, or otherwise obtains incidental access to data about identified or identifiable users of GM Europe's products and services, including Infotainment services ("European Customer Data"). Each GM Europe company acts as a controller of its own European Customer Data, and GM U.S. acts as a data processor for these GM Europe companies.  Individuals that use products or services offered by a GM Europe company may therefore wish to raise any privacy questions with such GM Europe company directly, including filing any requests to access European Customer Data or exercise other privacy rights. Such individuals may also raise questions with GM U.S. as per the contact details below.  
   
-Individuals also may raise privacy concerns with the International Centre for Dispute Resolution, the international division of the American Arbitration Association (ICDR/AAA) at the following website: https://apps.adr.org/webfile/.  To learn more about the Safe Harbor program, and to view GM US’s certification, please visit http://www.export.gov/safeharbor/  
+Individuals also may raise privacy concerns with the International Centre for Dispute Resolution, the international division of the American Arbitration Association (ICDR/AAA) at the following website: https://apps.adr.org/webfile/.  To learn more about the Safe Harbor program, and to view GM U.S.’s certification, please visit http://www.export.gov/safeharbor/  
    
 
 **Privacy Inquiries and Correcting Your Information**  
@@ -184,7 +184,7 @@ Pontiac:       1-800-762-2737
 
 For inquiries about how the information you submit to the Investor Information portion of GM’s website or to GM Stockholder Services is handled, please call 313-667-1432.  
   
-You may correct GM credit cardmember information, such as name, address, phone number and e-mail address, by logging onto gmcard.com, gmflexcard.com, gmextendedfamily.com or gmbusinesscard.com and going to the "Account" or "Online Banking" portion of the website. You can also call the Customer Center for your Account.
+You may correct GM credit cardmember information, such as name, address, phone number and email address, by logging onto gmcard.com, gmflexcard.com, gmextendedfamily.com or gmbusinesscard.com and going to the "Account" or "Online Banking" portion of the website. You can also call the Customer Center for your Account.
 
   
 
@@ -197,11 +197,11 @@ You may correct GM credit cardmember information, such as name, address, phone n
 **●** GM Business Card 800-446-5347
 
   
-You may change your GM Vehicle Preferences and e-mail address by logging into the "Earnings" portion of the site and clicking on "GM Vehicle Preferences" or "GM Profile."
+You may change your GM Vehicle Preferences and email address by logging into the "Earnings" portion of the site and clicking on "GM Vehicle Preferences" or "GM Profile."
 
-You may correct the contact information (name, address, phone number, and e-mail address) you provide on the GM Cardmember Services website by using My Profile.
+You may correct the contact information (name, address, phone number and email address) you provide on the GM Cardmember Services website by using My Profile.
 
-If you have a question or concern about the privacy practices of the GM Cardmember Services website, please contact us by sending an e-mail from the Contact Us page or by writing to us at: GM Cardmember Services, 100 Renaissance Center, 482-A00-MAR, Detroit, MI 48265.  
+If you have a question or concern about the privacy practices of the GM Cardmember Services website, please contact us by sending an email from the Contact Us page or by writing to us at: GM Cardmember Services, 100 Renaissance Center, 482-A00-MAR, Detroit, MI 48265.  
   
 For GM Family First participants, you may correct your information by contacting your Human Resources representative or updating your information via Socrates. For Vehicle Purchase Plan (“VPP”) participants, you may correct your personal information by visiting the following VPP websites.
 
