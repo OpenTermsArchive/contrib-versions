@@ -8,98 +8,98 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   CONTRIBUTED BLOG STILL MISSING
-    *   by joannahs
-    *   1 minute ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Ok i need help!!
-    *   \[Resolved\] by staci0531
-    *   4 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by john 20 minutes ago)
-*   hey how do i get my blog back ?
-    *   \[Resolved\] by rediscoverbeauty
-    *   2 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by john 21 minutes ago)
-*   help i can't see my blog
-    *   \[Resolved\] by jeanpaul\_26
+*   Help please
+    *   by sfxctou
     *   1 hour ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by john 22 minutes ago)
-*   I only had 2 entries... does this mean that they're gone forever? :(
-    *   \[Resolved\] by baby\_trex
-    *   36 minutes ago
+    *   0
+*   forgot password but account is linked to an inactive email
+    *   by onedreamaway
+    *   1 hour ago
+    *   in Passwords &. Sign-In
+    *   0 votes
+    *   0
+*   John, Help me!!
+    *   by only\_me890
+    *   7 hours ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by john 24 minutes ago)
-*   Deleting My Account
-    *   \[Resolved\] by Omgwtf\_St
+    *   2 (last comment by only\_me890 5 hours ago)
+*   Where did my blog entries go? Miss the memories
+    *   \[Resolved\] by soleMates2112
     *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by soleMates2112 6 hours ago)
+*   Delete account
+    *   by naughtygrl\_21
+    *   7 hours ago
     *   in Miscellaenous
     *   0 votes
-    *   3 (last comment by white\_cross 6 hours ago)
-*   So I must pay? to get my blog back?
-    *   \[Resolved\] by stephaie517
+    *   0
+*   Please help
+    *   by live\_protection
     *   8 hours ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by john 7 hours ago)
-*   Where did my blog entries go? Miss the memories
-    *   \[Resolved\] by soleMates2112
-    *   9 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by john 8 hours ago)
-*   How do I delete my site and cancel my account?
-    *   by TrentTribe
-    *   10 hours ago
-    *   in Premium
-    *   0 votes
-    *   0
-*   Where is my archive?
-    *   \[Resolved\] by cowautlgc
-    *   11 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by cowautlgc 11 hours ago)
-*   WHERE IS MY BLOG?
-    *   by tony\_ng723
-    *   11 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by john 11 hours ago)
-*   Where's my August 2013 archive?
-    *   by ironyburger
+*   I only had 2 entries... does this mean that they're gone forever? :(
+    *   \[Resolved\] by baby\_trex
     *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by rabbitmary 11 hours ago)
-*   where did my stuff go?
-    *   \[Resolved\] by crazy\_n\_evilkitten
-    *   22 hours ago
+    *   2 (last comment by therealanthology 9 hours ago)
+*   Please get my blog back!
+    *   by angelho45
+    *   11 hours ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by john 12 hours ago)
-*   Xanga 2.0 Ate My Blogs?
-    *   by NoLeY30
+    *   0
+*   some entries are missing
+    *   by Conniechoy33
+    *   11 hours ago
+    *   in Adding &. Editing Entries
+    *   0 votes
+    *   0
+*   My blog entries from 2010 to 2013 r missing
+    *   by serendipity805
     *   12 hours ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by john 12 hours ago)
-*   Where did my blogs go?
-    *   \[Resolved\] by thehman50
-    *   12 hours ago
+    *   0
+*   WTH?????
+    *   by faustuosa
+    *   14 hours ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by john 12 hours ago)
+    *   0
+*   cant write a new post
+    *   by vicki2465
+    *   2 days ago
+    *   in Themes
+    *   0 votes
+    *   3 (last comment by ChErRy\_BalL\_DIary 14 hours ago)
+*   How do I use Xanga 2.0
+    *   by ChildhoodDream
+    *   15 hours ago
+    *   in Getting Started
+    *   0 votes
+    *   0
+*   So I must pay? to get my blog back?
+    *   \[Resolved\] by stephaie517
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   3 (last comment by Cagey 18 hours ago)
+*   10 years premium member, pictures still missing
+    *   by clapbangkiss
+    *   19 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 
-1 2 3 ... 81 Next
+1 2 3 ... 82 Next
 
 Help Categories
 
