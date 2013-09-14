@@ -157,7 +157,7 @@ When completing a purchase or lease agreement or signing a service repair order 
 
 **Data Transfer  
   
-**GM affiliates in the United States ("GM US") adhere to the U.S.– EU Safe Harbor Privacy Principles and the U.S.-Swiss Safe Harbor Privacy Principles as set forth by the U.S. Department of Commerce (collectively, "European Safe Harbor") as a data processor for certain European customer personal data transfers to the United States. Specifically, GM U.S. acts as a data processor for its GM affiliated companies in Europe ("GM Europe") when it provides data hosting, technical support, or otherwise obtains incidental access to data about identified or identifiable users of GM Europe's products and services, including Infotainment services ("European Customer Data"). Each GM Europe company acts as a controller of its own European Customer Data, and GM U.S. acts as a data processor for these GM Europe companies.  Individuals that use products or services offered by a GM Europe company may therefore wish to raise any privacy questions with such GM Europe company directly, including filing any requests to access European Customer Data or exercise other privacy rights. Such individuals may also raise questions with GM U.S. as per the contact details below.  
+**GM affiliates in the United States (“GM US”) adhere to the U.S.– EU Safe Harbor Privacy Principles and the U.S.-Swiss Safe Harbor Privacy Principles as set forth by the U.S. Department of Commerce (collectively, “European Safe Harbor”) as a data processor for certain European customer personal data transfers to the United States. Specifically, GM U.S. acts as a data processor for its GM affiliated companies in Europe (“GM Europe”) when it provides data hosting, technical support, or otherwise obtains incidental access to data about identified or identifiable users of GM Europe's products and services, including Infotainment services (“European Customer Data”). Each GM Europe company acts as a controller of its own European Customer Data, and GM U.S. acts as a data processor for these GM Europe companies.  Individuals that use products or services offered by a GM Europe company may therefore wish to raise any privacy questions with such GM Europe company directly, including filing any requests to access European Customer Data or exercise other privacy rights. Such individuals may also raise questions with GM U.S. as per the contact details below.  
   
 Individuals also may raise privacy concerns with the International Centre for Dispute Resolution, the international division of the American Arbitration Association (ICDR/AAA) at the following website: https://apps.adr.org/webfile/.  To learn more about the Safe Harbor program, and to view GM U.S.’s certification, please visit http://www.export.gov/safeharbor/  
    
@@ -178,13 +178,13 @@ GMC:            1-800-462-8782
 
 Saturn:        1-800-553-6000
 
-Hummer:      1-866-486-6376
+HUMMER:      1-866-486-6376
 
 Pontiac:       1-800-762-2737
 
 For inquiries about how the information you submit to the Investor Information portion of GM’s website or to GM Stockholder Services is handled, please call 313-667-1432.  
   
-You may correct GM credit cardmember information, such as name, address, phone number and email address, by logging onto gmcard.com, gmflexcard.com, gmextendedfamily.com or gmbusinesscard.com and going to the "Account" or "Online Banking" portion of the website. You can also call the Customer Center for your Account.
+You may correct GM credit cardmember information, such as name, address, phone number and email address, by logging onto gmcard.com, gmflexcard.com, gmextendedfamily.com or gmbusinesscard.com and going to the “Account” or “Online Banking” portion of the website. You can also call the Customer Center for your Account.
 
   
 
@@ -197,7 +197,7 @@ You may correct GM credit cardmember information, such as name, address, phone n
 **●** GM Business Card 800-446-5347
 
   
-You may change your GM Vehicle Preferences and email address by logging into the "Earnings" portion of the site and clicking on "GM Vehicle Preferences" or "GM Profile."
+You may change your GM Vehicle Preferences and email address by logging into the “Earnings” portion of the site and clicking on “GM Vehicle Preferences” or “GM Profile.”
 
 You may correct the contact information (name, address, phone number and email address) you provide on the GM Cardmember Services website by using My Profile.
 
