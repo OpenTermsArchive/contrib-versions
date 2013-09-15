@@ -8,98 +8,98 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Help please
-    *   by sfxctou
+*   Paid for premium, but can't post blog.
+    *   by ChildhoodDream
     *   1 hour ago
     *   in Data Migration
     *   0 votes
     *   0
-*   forgot password but account is linked to an inactive email
-    *   by onedreamaway
-    *   1 hour ago
-    *   in Passwords &. Sign-In
+*   Give it back
+    *   by mantiXcore
+    *   2 hours ago
+    *   in Themes
     *   0 votes
     *   0
-*   John, Help me!!
-    *   by only\_me890
-    *   7 hours ago
-    *   in Data Migration
+*   Some pictures lost after 2.0 Migration.
+    *   by SusanPienHsu
+    *   4 hours ago
+    *   in Pictures
     *   0 votes
-    *   2 (last comment by only\_me890 5 hours ago)
-*   Where did my blog entries go? Miss the memories
-    *   \[Resolved\] by soleMates2112
-    *   1 day ago
-    *   in Data Migration
+    *   0
+*   How to move older blogs to the top of the page.
+    *   by SusanPienHsu
+    *   4 hours ago
+    *   in Adding &. Editing Entries
     *   0 votes
-    *   2 (last comment by soleMates2112 6 hours ago)
-*   Delete account
-    *   by naughtygrl\_21
-    *   7 hours ago
+    *   0
+*   Cannot save blog edit after 2.0 migration.
+    *   by SusanPienHsu
+    *   4 hours ago
+    *   in Adding &. Editing Entries
+    *   0 votes
+    *   0
+*   Footprints.
+    *   by RobbieRocket
+    *   4 hours ago
     *   in Miscellaenous
     *   0 votes
     *   0
-*   Please help
-    *   by live\_protection
-    *   8 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by john 7 hours ago)
-*   I only had 2 entries... does this mean that they're gone forever? :(
-    *   \[Resolved\] by baby\_trex
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by therealanthology 9 hours ago)
-*   Please get my blog back!
-    *   by angelho45
-    *   11 hours ago
+*   blog does not appear
+    *   by locomotiv
+    *   4 hours ago
     *   in Data Migration
     *   0 votes
     *   0
 *   some entries are missing
     *   by Conniechoy33
-    *   11 hours ago
+    *   1 day ago
     *   in Adding &. Editing Entries
     *   0 votes
-    *   0
-*   My blog entries from 2010 to 2013 r missing
-    *   by serendipity805
-    *   12 hours ago
+    *   2 (last comment by PBTalenTed 5 hours ago)
+*   Xanga blog archive is missing a post
+    *   by PBTalenTed
+    *   6 hours ago
     *   in Data Migration
     *   0 votes
     *   0
-*   WTH?????
-    *   by faustuosa
+*   font size and spacing
+    *   by GlennsJourney
+    *   6 hours ago
+    *   in Themes
+    *   0 votes
+    *   0
+*   Blogs not imported
+    *   by Pedestrian\_T
+    *   9 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   When does my Premium account expire?
+    *   by Threads\_of\_Faith
+    *   1 week ago
+    *   in Premium
+    *   0 votes
+    *   1 (last comment by SoullFire 11 hours ago)
+*   Blog doesnt appear
+    *   by crazykitty\_tts
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by notforprophet 13 hours ago)
+*   I can't find my blogs and photos
+    *   by vicky\_choi
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by vicky\_choi 14 hours ago)
+*   My previous account yee\_2323
+    *   by yee\_2323
     *   14 hours ago
     *   in Data Migration
     *   0 votes
     *   0
-*   cant write a new post
-    *   by vicki2465
-    *   2 days ago
-    *   in Themes
-    *   0 votes
-    *   3 (last comment by ChErRy\_BalL\_DIary 14 hours ago)
-*   How do I use Xanga 2.0
-    *   by ChildhoodDream
-    *   15 hours ago
-    *   in Getting Started
-    *   0 votes
-    *   0
-*   So I must pay? to get my blog back?
-    *   \[Resolved\] by stephaie517
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   3 (last comment by Cagey 18 hours ago)
-*   10 years premium member, pictures still missing
-    *   by clapbangkiss
-    *   19 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
-1 2 3 ... 82 Next
+1 2 3 ... 83 Next
 
 Help Categories
 
