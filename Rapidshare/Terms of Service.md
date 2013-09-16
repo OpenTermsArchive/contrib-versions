@@ -1,190 +1,173 @@
-Terms of Use
+**General Terms and Conditions**  
+1\. What do these General Terms and Conditions involve?  
+2\. Which other additional terms apply?  
+3\. How does RapidShare alter its General Terms and Conditions and Data Protection Regulations?  
+4\. Can RapidShare change its offered services?  
+5\. Can the price of a fee-based product change?  
+**Services of RapidShare**  
+6\. What services are rendered by RapidShare for you?  
+7\. Availability and data security from RapidShare  
+8\. Change from one type of account to another?  
+9\. How much storage space can you allocate at RapidShare?  
+**Payment methods**  
+10\. How you can purchase a fee-based product  
+11\. Further payment information  
+12\. None of the payment providers offered are suitable for you?  
+13\. What is the renewal service?  
+14\. How and when can you deactivate the renewal service?  
+15\. What happens if your PayPal account is not covered?  
+**Cancellation and withdrawal**  
+16\. How and when can you cancel your account?  
+17\. You wish to withdraw from the contract  
+**Your responsible handling of data**  
+18\. Your responsibility  
+19\. Wrongful use of accounts  
+20\. How our services should be used  
+21\. Share functions  
+22\. Are you allowed to provide your access information to third parties?  
+23\. May RapidShare allow others access your data?  
+24\. Your account has been misused  
+25\. Our products belong to us and we are proud of them  
+  
+  
+General Terms and Conditions 1. What do these General Terms and Conditions involve?
 
-RapidShare AG (hereinafter: “RapidShare”) provides Cloud Storage services for its users based on the following provisions: The General Terms of Use (hereinafter: “ToU”) govern access to and the use of the services, websites and client-software offered by RapidShare (hereinafter: “services”) and the associated information, text, graphics and/or other materials saved, sent or retrieved using these services (collectively referred to as “files”). Access to and the use of the services shall depend on acceptance of and compliance with these ToU. By indicating acceptance at registration and by using the services, users declare that they agree to the ToU.
+On the basis of the following provisions RapidShare AG (henceforth: ‘RapidShare’) provides cloud-storage services for its users: The General Terms and Conditions regulate the access and use of the services, websites and client software offered by RapidShare (henceforth: ‘services’) and the information, text, graphics and/or other materials relating to this, which are saved, sent or called up by these services (in summary designated as ‘data’). Access to and use of the services are dependent on consent to and compliance with these conditions. Users declare their agreement with the General Terms and Conditions by consent on registration or through the use of the services.
 
-I. General
+2\. Which other additional terms apply?
 
-1.  RapidShare provides its users with an infrastructure which enables the user to save electronic files on internet servers. After the saving process is complete, the file is saved in the user’s user account (hereinafter: “account”). The user can delete his or her files at any time.
-    
-2.  RapidShare does not open and view the files of its users. The files are not catalogued or listed in table of contents by RapidShare. Only you, the owner of the files, control whether others may access the files, how files are accessed and which files may be accessed. RapidShare does not provide a search function with which RapidShare’s infrastructure can be searched.
-    
-3.  Some services offered by RapidShare are free of charge but do require the user at least to be registered with RapidShare. With RapidPro, RapidShare also offers a fee-based service which considerably increases performance and ease of use.
-    
-4.  Users are obliged to keep the user names and passwords of registered accounts confidential. User names and passwords must not be passed on to third parties. This shall also include the passing on of login data to other Cloud Storage services or websites which promise services in conjunction with those offered by RapidShare. RapidShare shall not be liable for damage arising from unauthorised access. Login data may not be used in such a way that a third party and/or software could activate automated processes (e.g. upload, download, RapidSave, changing the account settings) where these login data are used to access RapidShare.
-    
-5.  The commercial sale of accounts with or without fee-based services together with any other products and services and/or the implementation of our services in third-party software shall require RapidShare’s consent. RapidShare reserves the right to block accounts which are used by several persons not living in the same household, or which are used or resold commercially without RapidShare’s consent.
-    
+By accepting these General Terms and Conditions you enter into a legally binding contract with the company RapidShare AG.
 
-II. Upload Rules
+Should a condition of the contract or a condition in the General Terms and Conditions wholly or partly become void, the validity of the contract or the General Terms and Conditions apart from this will not be affected.
 
-1.  In principle, users may save any file with RapidShare and distribute it, irrespective of the file format or file content. However, files whose possession is illegal in certain jurisdictions may not be saved, and no files whose distribution is illegal may be directly or/and indirectly distributed.
-    
-2.  After having been notified, RapidShare shall immediately block access for users and/or groups involved to such files. The user shall have 30 days within which to object to this block. If no objection is received after 30 days, the file shall be deleted permanently.
-    
-3.  RapidShare is entitled to terminate without notice the contractual relationship with users who infringe these upload rules, block access by the users concerned to its service and/or irrevocably delete the accounts of such users, including all the contents.
-    
+3\. How does RapidShare alter its General Terms and Conditions and Data Protection Regulations?
 
-III. Free Use
+We reserve the right to adjust the General Terms and Conditions and Data Protection Regulations to new circumstances for legal, technical or economic reasons. RapidShare will inform registered users of changes to the General Terms and Conditions when they come into effect.
 
-1.  RapidShare shall provide its users with service and storage capacities at its discretion. RapidShare shall be entitled to change and remove the properties and functionality of the services and the associated additional functions and/or include new services in its offer.
-    
-2.  Free accounts and their saved files will be deleted automatically, if no login is made during longer periods by the user. Please find the information about the service and properties of free accounts on rapidshare.com.
-    
+If significant changes to the use of personal data are carried out on the part of RapidShare, we will announce these changes before their introduction on our website.
 
-IV. Fee-based services
+If you use our services after we have published these changes, you acknowledge the new General Terms and Conditions.
 
-1.  As well as the free use described in clause III. (3), users of the RapidShare infrastructure have the option of upgrading their accounts to include RapidPro, enabling them to use additional services.
-    
-2.  RapidShare provides information about the additional services available which only RapidPro users may use on the rapidshare.com website. RapidShare shall be entitled at any time to remove individual services from its range, to change the contents of RapidPro services and/or to include new services in its range. If a user has acquired a fee-based product and changes are made to this product to the detriment of the user, he or she shall be entitled to terminate the contract within a period of 30 days after notification of the change. Taking into account the ToU of the payment provider concerned, the user shall receive a proportional reimbursement of the RapidPro price he or she has paid. Reimbursement shall be excluded if the user has received RapidPro as part of a promotion or in another way without making a direct payment to RapidShare.
-    
-3.  If the user does not exercise his or her right of termination or continues to use the product, the changes shall be considered to have been accepted and shall become an effective integral part of the contract. RapidShare shall undertake to remind its users of this provision in particular with the notification of revised ToU.
-    
-4.  RapidShare wishes to offer you the most comprehensive service possible to meet your individual requirements. However, if we discover that our services are being used in such a way that the service provided to other users is disrupted or restricted, or RapidShare is damaged, we reserve the right to terminate use and cancel the contract with you.
-    
-5.  RapidShare shall not reimburse any damage arising from the negligent passing on of passwords or unauthorised access to accounts if the unauthorised access is not the result of intent or gross negligence on the part of RapidShare or its vicarious agents.
-    
+4\. Can RapidShare change its offered services?
 
-V. Payment
+RapidShare is entitled at all times to remove individual services from its offer, to change features and functionality of the services and additional functions relating to them, to change the services included in the fee-based products as regards content and/or to incorporate new services in its offer.
 
-1.  To acquire the fee-based RapidPro service, RapidShare offers its customers various options for acquiring prepaid credits (known as Rapids). 1 Rapid equals 1 Euro cent. The individual payment options are explained clearly on the website.
-    
-2.  You are able to withdraw within 30 days from the date of purchase and receive, taking into account the ToU of the payment provider concerned, a proportional reimbursement.
-    
-3.  RapidShare points out expressly that it will block accounts immediately if the Rapids acquired for these accounts are reversed without RapidShare’s consent. RapidShare is unable to clarify the reasons behind reversed payments and will refer the user to his or her selected payment provider should such payment problems arise. Should an account which has been blocked owing to a reversed payment be reopened, RapidShare shall be entitled to charge an administrative fee of a maximum of 2000 Rapids (equals EUR 20) from the customer’s Rapids.
-    
-4.  The user must report any theft of Rapids or suspicion of misuse of his or her account to RapidShare’s support department immediately. Where criminal offences have been committed, the user must also report this to the local police and, in the event of loss or damage, must assist with resolving the case and minimising the loss or damage to the best of his or her knowledge. Refunds may be applied for within two months from the event giving rise to the damage. Claims from applications made after this deadline shall not be refunded.
-    
+If you have purchased a fee-based product and changes regarding this product have taken place to your disadvantage, you are entitled to cancel the contractual relationship within a 30 day period after notification of the change. You will receive a proportionate reimbursement of the price paid by you. Insofar as the user has received a fee-based product via a promotion or another means without a direct payment from them to RapidShare, a reimbursement is excluded.
 
-VI. Renewal Service
+If you do not make use of your right to cancel or continue to use the product, the changes are considered as accepted and become an effective integral part of the contract. RapidShare is obliged to notify its users once more about this provision in particular on communication of newly prepared General Terms and Conditions.
 
-1.  When buying the fee-based service RapidPro, RapidShare offers the possibility of activating a periodically recurring charge (hereinafter: Renewal Service) for further payments.
-    
-2.  If the Renewal Service is active, the authorized amount at the time of acquisition incl. VAT will be recurrently charged to the indicated PayPal Account.
-    
-3.  The Renewal Service can be deactivated anytime via https://www.rapidshare.com/#myrs\_overview or by contacting the RapidShare customer service.
-    
-4.  The price or the scope of services can be subject to change due to market situation or other occurrence. In a case like that we will always notify our customers 30 days beforehand. If the Renewal Service isactive, it will be deactivated due to the change.
-    
-5.  If the amount cannot be charged from the PayPal Account, for reasons to be attributed to the customer, the Renewal Service will be deactivated.
-    
+5\. Can the price of a fee-based product change?
 
-VII. Reseller
+The price or the scope of fee-based services can be adjusted to take account of changed market situations. You will be notified of such an adjustment 30 days beforehand. If the renewal service is active during an adjustment, this will be automatically deactivated by RapidShare.
 
-1.  In many countries, payment for Rapids is not possible with the payment options offered directly by RapidShare. For this reason, RapidShare cooperates with resellers, who sell Rapids in these countries in their own name and for their own account. You will find a list of resellers authorised by RapidShare here: Resellers
-    
-2.  RapidShare points out that resellers are not RapidShare employees and do not conclude contracts in the name of RapidShare. With regard to this method of purchase, users who acquire Rapids through resellers enter into a contractual relationship with their respective reseller only. RapidShare shall not process any requests for support which relate to a payment transaction with a reseller.
-    
-3.  Furthermore, RapidShare points out that there are various people and companies who are not authorised resellers who nevertheless claim to be selling Rapids for RapidShare. RapidShare reserves the right to block accounts for which Rapids have been acquired through unauthorised resellers. RapidShare cannot provide refunds for payments made to unauthorised third parties.
-    
+Services of RapidShare 6. What services are rendered by RapidShare for you?
 
-VIII. Availability. Data Security
+RapidShare AG provides you with an infrastructure which enables you to store digital data on Internet servers, to administer, secure, send and make it available to other chosen users.
 
-1.  In principle, RapidShare shall provide the functions listed in clause I. (1) 24 hours a day and seven days a week, but only with a guaranteed monthly average availability rate of 99.5%. Periods during which the server cannot be accessed online because of technical or other problems, which are beyond RapidShare’s influence (third party faults, force majeure, etc.) shall be excluded.
-    
-2.  RapidShare shall endeavour to keep necessary maintenance work as brief as possible. RapidShare shall only temporarily restrict access to its services if the security or functionality of network operations urgently requires such action. Should such restrictions (for example, to prevent hacker attacks) be required, RapidShare shall inform its users of the reasons behind this restriction in due time. If it is apparent that downtimes for maintenance or software updates will last longer than three hours, RapidShare shall notify its users of this at least three days before carrying out the work.
-    
+Some services offered by RapidShare are free of charge, but at the least require registration with RapidShare. RapidShare provides these cost-free services with service- and storage-capacity to you at its own discretion.
 
-IX. Backing up your content
+Alongside the cost-free services described at www.rapidshare.com/offering you have the possibility to upgrade your account with a payment, so that you can make use of the additional services from RapidShare.
 
-1.  The user shall be responsible for backing up on his or her computer or on another mass storage device all the files he or she stores with RapidShare or accesses through our service. RapidShare provides no guarantee or warranty that contents which the user saves with RapidShare or accesses through RapidShare’s services will be protected against accidental damage, corruption or loss.
-    
-2.  RapidShare offers functions with which you may release or publish your files for a third party. For this reason, you should consider carefully which files you wish to release or publish. RapidShare shall accept no liability for damage or loss arising from the release of your files. By activating the upload function, third parties could also save unwanted files in this folder. For your own security, you should therefore regularly check the contents of shared folders. You should also bear in mind that you could be held liable for the dissemination of files located in your shared folders whose contents are illegal or protected by copyright.
-    
+Cost-free accounts and their stored data will be automatically deleted if no login by you takes place over certain period of time.
 
-X. Miscellaneous
+7\. Availability and data security from RapidShare
 
-1.  RapidShare shall inform registered users of changes to the ToU when they become effective.
-    
-2.  Should a contractual provision or a provision in the ToU be or become completely or partly ineffective, this shall not affect the validity of the remaining contract or ToU. The ineffective provision shall be replaced by a legally valid provision which most closely approximates the purpose of this provision. This shall apply by analogy to any gaps or omissions.
-    
+Our services are fundamentally available 24 hours a day and seven days a week. Excluded from this are times in which the servers cannot be accessed due to technical or other problems beyond the influence of RapidShare (third-parties in debt, force majeure etc.).
 
-Baar, 08.07.2013
+RapidShare will endeavour to carry out necessary maintenance as quickly as possible. RapidShare will then only temporarily restrict access to its service if the security or functionality of its technical infrastructure operation urgently demands this. Should such restrictions become necessary (for example for defence against hacking attacks), RapidShare will inform its users about the reasons behind this restriction in due time. Should it be foreseeable that downtime for waiting or software updates last longer than three hours, RapidShare will communicate this to its users at least three days before carrying out the particular work.
 
-Terms of Use
+8\. Change from one type of account to another?
 
-RapidShare AG (hereinafter: “RapidShare”) provides Cloud Storage services for its users based on the following provisions: The General Terms of Use (hereinafter: “ToU”) govern access to and the use of the services, websites and client-software offered by RapidShare (hereinafter: “services”) and the associated information, text, graphics and/or other materials saved, sent or retrieved using these services (collectively referred to as “files”). Access to and the use of the services shall depend on acceptance of and compliance with these ToU. By indicating acceptance at registration and by using the services, users declare that they agree to the ToU.
+RapidShare will endeavour to make changing from one type of account to another as simple as possible. Should a fee-based service expire, your account will be converted to a cost-free account and can affect your saved data. Our Customer Service Team service is happily available to you for queries.
 
-I. General
+9\. How much storage space can you allocate at RapidShare?
 
-1.  RapidShare provides its users with an infrastructure which enables the user to save electronic files on internet servers. After the saving process is complete, the file is saved in the user’s user account (hereinafter: “account”). The user can delete his or her files at any time.
-    
-2.  RapidShare does not open and view the files of its users. The files are not catalogued or listed in table of contents by RapidShare. Only you, the owner of the files, control whether others may access the files, how files are accessed and which files may be accessed. RapidShare does not provide a search function with which RapidShare’s infrastructure can be searched.
-    
-3.  Some services offered by RapidShare are free of charge but do require the user at least to be registered with RapidShare. With RapidPro, RapidShare also offers a fee-based service which considerably increases performance and ease of use.
-    
-4.  Users are obliged to keep the user names and passwords of registered accounts confidential. User names and passwords must not be passed on to third parties. This shall also include the passing on of login data to other Cloud Storage services or websites which promise services in conjunction with those offered by RapidShare. RapidShare shall not be liable for damage arising from unauthorised access. Login data may not be used in such a way that a third party and/or software could activate automated processes (e.g. upload, download, RapidSave, changing the account settings) where these login data are used to access RapidShare.
-    
-5.  The commercial sale of accounts with or without fee-based services together with any other products and services and/or the implementation of our services in third-party software shall require RapidShare’s consent. RapidShare reserves the right to block accounts which are used by several persons not living in the same household, or which are used or resold commercially without RapidShare’s consent.
-    
+For the cost-free service we have a storage space limit of presented, which can change due to technical or legal reasons. The fee-based service offers you more storage space volume for the duration of the contract. You can obtain detailed information about this from our product site.
 
-II. Upload Rules
+Payment methods 10. How you can purchase a fee-based product
 
-1.  In principle, users may save any file with RapidShare and distribute it, irrespective of the file format or file content. However, files whose possession is illegal in certain jurisdictions may not be saved, and no files whose distribution is illegal may be directly or/and indirectly distributed.
-    
-2.  After having been notified, RapidShare shall immediately block access for users and/or groups involved to such files. The user shall have 30 days within which to object to this block. If no objection is received after 30 days, the file shall be deleted permanently.
-    
-3.  RapidShare is entitled to terminate without notice the contractual relationship with users who infringe these upload rules, block access by the users concerned to its service and/or irrevocably delete the accounts of such users, including all the contents.
-    
+RapidShare offers you various payment methods for the purchase of fee-based services. Our payment providers and the procedure for the individual payment methods are explained directly on the website.
 
-III. Free Use
+11\. Further payment information
 
-1.  RapidShare shall provide its users with service and storage capacities at its discretion. RapidShare shall be entitled to change and remove the properties and functionality of the services and the associated additional functions and/or include new services in its offer.
-    
-2.  Free accounts and their saved files will be deleted automatically, if no login is made during longer periods by the user. Please find the information about the service and properties of free accounts on rapidshare.com.
-    
+RapidShare expressly points out that accounts will be immediately blocked if the appropriate payment is reversed without approval by RapidShare. RapidShare is not able to examine the reasons for payment reversals. As a result, if payment problems occur we must unfortunately refer you to your payment provider.
 
-IV. Fee-based services
+12\. None of the payment providers offered are suitable for you?
 
-1.  As well as the free use described in clause III. (3), users of the RapidShare infrastructure have the option of upgrading their accounts to include RapidPro, enabling them to use additional services.
-    
-2.  RapidShare provides information about the additional services available which only RapidPro users may use on the rapidshare.com website. RapidShare shall be entitled at any time to remove individual services from its range, to change the contents of RapidPro services and/or to include new services in its range. If a user has acquired a fee-based product and changes are made to this product to the detriment of the user, he or she shall be entitled to terminate the contract within a period of 30 days after notification of the change. Taking into account the ToU of the payment provider concerned, the user shall receive a proportional reimbursement of the RapidPro price he or she has paid. Reimbursement shall be excluded if the user has received RapidPro as part of a promotion or in another way without making a direct payment to RapidShare.
-    
-3.  If the user does not exercise his or her right of termination or continues to use the product, the changes shall be considered to have been accepted and shall become an effective integral part of the contract. RapidShare shall undertake to remind its users of this provision in particular with the notification of revised ToU.
-    
-4.  RapidShare wishes to offer you the most comprehensive service possible to meet your individual requirements. However, if we discover that our services are being used in such a way that the service provided to other users is disrupted or restricted, or RapidShare is damaged, we reserve the right to terminate use and cancel the contract with you.
-    
-5.  RapidShare shall not reimburse any damage arising from the negligent passing on of passwords or unauthorised access to accounts if the unauthorised access is not the result of intent or gross negligence on the part of RapidShare or its vicarious agents.
-    
+In several countries a payment for a fee-based product is not suitable with the payment options offered directly by RapidShare. As a result RapidShare cooperates with resellers in particular countries who sell products from RapidShare under their own name and on their own account. You will find a list of resellers authorised by RapidShare here: Resellers.
 
-V. Payment
+RapidShare points out that resellers are not RapidShare employees and do not conclude contracts in the name of RapidShare. Users who purchase a fee-based service via resellers enter into a contractual relationship regarding this purchasing process exclusively with the particular reseller. RapidShare is not able to process customer service enquiries which relate to the payment process of resellers.
 
-1.  To acquire the fee-based RapidPro service, RapidShare offers its customers various options for acquiring prepaid credits (known as Rapids). 1 Rapid equals 1 Euro cent. The individual payment options are explained clearly on the website.
-    
-2.  You are able to withdraw within 30 days from the date of purchase and receive, taking into account the ToU of the payment provider concerned, a proportional reimbursement.
-    
-3.  RapidShare points out expressly that it will block accounts immediately if the Rapids acquired for these accounts are reversed without RapidShare’s consent. RapidShare is unable to clarify the reasons behind reversed payments and will refer the user to his or her selected payment provider should such payment problems arise. Should an account which has been blocked owing to a reversed payment be reopened, RapidShare shall be entitled to charge an administrative fee of a maximum of 2000 Rapids (equals EUR 20) from the customer’s Rapids.
-    
-4.  The user must report any theft of Rapids or suspicion of misuse of his or her account to RapidShare’s support department immediately. Where criminal offences have been committed, the user must also report this to the local police and, in the event of loss or damage, must assist with resolving the case and minimising the loss or damage to the best of his or her knowledge. Refunds may be applied for within two months from the event giving rise to the damage. Claims from applications made after this deadline shall not be refunded.
-    
+Furthermore RapidShare points out, that there are various people and companies who are not authorised resellers, but who nevertheless purport to sell fee-based products for RapidShare. For reasons of security we recommend you make payments exclusively directly via the RapidShare website or via authorised resellers.
 
-VII. Reseller
+13\. What is the renewal service?
 
-1.  In many countries, payment for Rapids is not possible with the payment options offered directly by RapidShare. For this reason, RapidShare cooperates with resellers, who sell Rapids in these countries in their own name and for their own account. You will find a list of resellers authorised by RapidShare here: Resellers
-    
-2.  RapidShare points out that resellers are not RapidShare employees and do not conclude contracts in the name of RapidShare. With regard to this method of purchase, users who acquire Rapids through resellers enter into a contractual relationship with their respective reseller only. RapidShare shall not process any requests for support which relate to a payment transaction with a reseller.
-    
-3.  Furthermore, RapidShare points out that there are various people and companies who are not authorised resellers who nevertheless claim to be selling Rapids for RapidShare. RapidShare reserves the right to block accounts for which Rapids have been acquired through unauthorised resellers. RapidShare cannot provide refunds for payments made to unauthorised third parties.
-    
+On purchase of fee-based services RapidShare offers the possibility of activating a periodically repeated debit (henceforth: ‘renewal service’) for further payments.
 
-VIII. Availability. Data Security
+If the renewal service is active, this will take repeated debits from your PayPal account of the buying price agreed at the time of purchase incl. VAT.
 
-1.  In principle, RapidShare shall provide the functions listed in clause I. (1) 24 hours a day and seven days a week, but only with a guaranteed monthly average availability rate of 99.5%. Periods during which the server cannot be accessed online because of technical or other problems, which are beyond RapidShare’s influence (third party faults, force majeure, etc.) shall be excluded.
-    
-2.  RapidShare shall endeavour to keep necessary maintenance work as brief as possible. RapidShare shall only temporarily restrict access to its services if the security or functionality of network operations urgently requires such action. Should such restrictions (for example, to prevent hacker attacks) be required, RapidShare shall inform its users of the reasons behind this restriction in due time. If it is apparent that downtimes for maintenance or software updates will last longer than three hours, RapidShare shall notify its users of this at least three days before carrying out the work.
-    
+14\. How and when can you deactivate the renewal service?
 
-IX. Backing up your content
+The renewal service can be deactivated at the latest 24 hours before the fee-based product expires, electronically under my Account. Via our customer support you can deactivate the renewal service by E-Mail and also by telephone 3 working days before the expiration.
 
-1.  The user shall be responsible for backing up on his or her computer or on another mass storage device all the files he or she stores with RapidShare or accesses through our service. RapidShare provides no guarantee or warranty that contents which the user saves with RapidShare or accesses through RapidShare’s services will be protected against accidental damage, corruption or loss.
-    
-2.  RapidShare offers functions with which you may release or publish your files for a third party. For this reason, you should consider carefully which files you wish to release or publish. RapidShare shall accept no liability for damage or loss arising from the release of your files. By activating the upload function, third parties could also save unwanted files in this folder. For your own security, you should therefore regularly check the contents of shared folders. You should also bear in mind that you could be held liable for the dissemination of files located in your shared folders whose contents are illegal or protected by copyright.
-    
+15\. What happens if your PayPal account is not covered?
 
-X. Miscellaneous
+If the agreed buying price cannot be covered by the PayPal account for reasons on the part of the customer, the renewal service will be deactivated.
 
-1.  RapidShare shall inform registered users of changes to the ToU when they become effective.
-    
-2.  Should a contractual provision or a provision in the ToU be or become completely or partly ineffective, this shall not affect the validity of the remaining contract or ToU. The ineffective provision shall be replaced by a legally valid provision which most closely approximates the purpose of this provision. This shall apply by analogy to any gaps or omissions.
-    
+Cancellation and withdrawal 16. How and when can you cancel your account?
 
-Baar, 08.07.2013
+If your fee-based product expires, your account will automatically be converted into a cost-free account. Cost-free accounts can be immediately cancelled or deleted at any time via E-Mail to support@rapidshare.com or in writing to our postal address.
+
+The renewal service can, as described, be deactivated at any time in accordance with the terms under 14.
+
+17\. You wish to withdraw from the contract
+
+You can withdraw from the contract within 30 days from the date of purchase and receive a proportional reimbursement. Applicable costs of transfer will be charged to you. If our services have already been used, we will have to offset for these services.
+
+Your responsible handling of data 18. Your responsibility
+
+We recommend you to secure all the data you store on RapidShare, or you access via our services, in addition on your computer or another mass storage device. RapidShare cannot guarantee or ensure that your contents are protected from accidental damage, interference or loss.
+
+RapidShare cannot be held liable for the loss or damage to your content due to inappropriate management, or for costs or expenses relating to the protection or recovery of your content.
+
+19\. Wrongful use of accounts
+
+RapidShare wishes to offer you the most comprehensive service possible to meet your individual requirements. However, if we determine that our services are being used such that other users are disturbed or restricted in their scope of services, or RapidShare is damaged, we reserve the right to end your use and to void the contract with you.
+
+We reserve the right to block or to delete accounts, respectively to suspend or cancel the corresponding contract, if the frequency and the amount of the transferred data indicate that the account is being misused.
+
+20\. How our services should be used
+
+In principle, users may save any file with RapidShare and distribute it, irrespective of the file format or file content. However, files whose possession is illegal in certain jurisdictions may not be saved, and no files whose distribution is illegal may be directly or/and indirectly distributed.
+
+After having been notified, RapidShare shall immediately block access for users and/or groups involved to such files. The user shall have 30 days within which to object to this block. If no objection is received after 30 days, the file shall be deleted permanently.
+
+RapidShare is entitled to terminate without notice the contractual relationship with users who infringe these upload rules, block access by the users concerned to its service and/or irrevocably delete the accounts of such users, including all the contents.
+
+21\. Share functions
+
+RapidShare offers functions with which you can share or publish your data for chosen third parties. Consider carefully therefore which data you wish to share or publish. RapidShare assumes no liability for damage which might arise from sharing your data. By granting the write permission for this share function, third parties can also store unwanted files in this folder. As a result, for your own security you should regularly check the content of the shared folder. Consider also that you can be held liable for the dissemination of data with illegal or copyright-protected content found in your shared folder.
+
+22\. Are you allowed to provide your access information to third parties?
+
+Over and above the options provided in the system, we strongly recommend not to give access to your account information to third parties. You are fully legally responsible for every action undertaken with the aid of your account information. This also includes the passing on of login details to other cloud storage services or websites, who promise services in connection with the offers from RapidShare.
+
+As a result, please inform us immediately if you have reason for suspecting that a person has gained access to your data. Notwithstanding the above, naturally you can give other people access with the regular share function to the specially generated folders.
+
+Beyond this it is not allowed to use login data in such a way that through this third party and/ programmes can trigger automatic processes (e.g. upload, download, changes in account settings), to use this login data to access RapidShare.
+
+Damage that can arise from the negligent passing on of passwords, or unauthorised access to accounts, will not be replaced by RapidShare, insofar as the unauthorised access is not caused by an intention or a gross negligence of RapidShare.
+
+23\. May RapidShare allow others access your data?
+
+No. This arrangement prohibits the disclosure of your data by RapidShare itself or third parties. RapidShare may only deviate from this if mandatory regulatory or judicial orders demand this.
+
+RapidShare does not open or examine the data of its users and the data is neither catalogued by RapidShare, nor the directory of its content listed. Only you, the owner of the files, control whether others may access the files, how files are accessed and which files may be accessed. RapidShare incorporates no search function with whose help the RapidShare infrastructure can be examined.
+
+24\. Your account has been misused
+
+On theft or suspicion of misuse of your account, please immediately report this to our Customer Service Team. In addition we request that you file a complaint to the local police in the event of culpable action, and in the case of damage contribute to the best of your knowledge to the resolution of the case and for reducing the damage.
+
+25\. Our products belong to us and we are proud of them
+
+Therefore the commercial sale of accounts with or without fee-based services together with any other products and services and/or the implementation of our services in third-party software shall require RapidShare’s consent. RapidShare reserves the right to block accounts which are used by several persons not living in the same household, or which are used or resold commercially without RapidShare’s consent.
