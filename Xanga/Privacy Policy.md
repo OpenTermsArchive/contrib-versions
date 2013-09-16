@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Paid for premium, but can't post blog.
-    *   by ChildhoodDream
-    *   1 hour ago
+*   Where is my archive?
+    *   \[Resolved\] by cowautlgc
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   7 (last comment by mangoquixote 26 minutes ago)
+*   Paid $48 but blog not moved to xanga 2.0 yet
+    *   by cat\_newlife
+    *   3 hours ago
     *   in Data Migration
     *   0 votes
     *   0
-*   Give it back
-    *   by mantiXcore
-    *   2 hours ago
-    *   in Themes
+*   I want to create a new account?
+    *   by sakari\_x
+    *   7 hours ago
+    *   in Passwords &. Sign-In
     *   0 votes
     *   0
-*   Some pictures lost after 2.0 Migration.
-    *   by SusanPienHsu
-    *   4 hours ago
-    *   in Pictures
+*   My past 9 years are gone!!!
+    *   by Breadandbutterlp
+    *   1 week ago
+    *   in Data Migration
     *   0 votes
-    *   0
-*   How to move older blogs to the top of the page.
-    *   by SusanPienHsu
-    *   4 hours ago
-    *   in Adding &. Editing Entries
-    *   0 votes
-    *   0
-*   Cannot save blog edit after 2.0 migration.
-    *   by SusanPienHsu
-    *   4 hours ago
-    *   in Adding &. Editing Entries
-    *   0 votes
-    *   0
-*   Footprints.
-    *   by RobbieRocket
-    *   4 hours ago
+    *   3 (last comment by summerlovin2012 9 hours ago)
+*   I WANT TO DELETE MY ACCOUNT.
+    *   by kamikaze\_zealot
+    *   5 days ago
     *   in Miscellaenous
     *   0 votes
-    *   0
-*   blog does not appear
-    *   by locomotiv
-    *   4 hours ago
+    *   3 (last comment by kamikaze\_zealot 10 hours ago)
+*   can't find my blog
+    *   by arsuetcws
+    *   10 hours ago
     *   in Data Migration
     *   0 votes
     *   0
-*   some entries are missing
-    *   by Conniechoy33
-    *   1 day ago
-    *   in Adding &. Editing Entries
+*   I am Premium and my blog is missing
+    *   by Pepin909
+    *   1 week ago
+    *   in Data Migration
     *   0 votes
-    *   2 (last comment by PBTalenTed 5 hours ago)
-*   Xanga blog archive is missing a post
-    *   by PBTalenTed
-    *   6 hours ago
+    *   1 (last comment by notforprophet 11 hours ago)
+*   blog doesn’t appear
+    *   by chanwingyeeee
+    *   13 hours ago
     *   in Data Migration
     *   0 votes
     *   0
-*   font size and spacing
-    *   by GlennsJourney
-    *   6 hours ago
-    *   in Themes
+*   Photos are gone
+    *   by QueenTeener
+    *   14 hours ago
+    *   in Data Migration
     *   0 votes
     *   0
+*   10 years premium member, pictures still missing
+    *   by clapbangkiss
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by notforprophet 15 hours ago)
 *   Blogs not imported
     *   by Pedestrian\_T
-    *   9 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   0
+    *   2 (last comment by Pedestrian\_T 15 hours ago)
 *   When does my Premium account expire?
     *   by Threads\_of\_Faith
     *   1 week ago
     *   in Premium
     *   0 votes
-    *   1 (last comment by SoullFire 11 hours ago)
-*   Blog doesnt appear
-    *   by crazykitty\_tts
-    *   1 week ago
+    *   2 (last comment by notforprophet 15 hours ago)
+*   Paid for premium, but can't post blog.
+    *   by ChildhoodDream
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by notforprophet 13 hours ago)
-*   I can't find my blogs and photos
-    *   by vicky\_choi
-    *   3 days ago
+    *   1 (last comment by notforprophet 15 hours ago)
+*   Xanga blog archive is missing a post
+    *   by PBTalenTed
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by vicky\_choi 14 hours ago)
-*   My previous account yee\_2323
-    *   by yee\_2323
-    *   14 hours ago
-    *   in Data Migration
+    *   1 (last comment by notforprophet 15 hours ago)
+*   some entries are missing
+    *   by Conniechoy33
+    *   2 days ago
+    *   in Adding &. Editing Entries
     *   0 votes
-    *   0
+    *   3 (last comment by notforprophet 15 hours ago)
 
 1 2 3 ... 83 Next
 
