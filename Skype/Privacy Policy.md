@@ -69,7 +69,7 @@ Skype may gather and use information about you, including (but not limited to) i
 Our primary purpose in collecting information is to provide you with a safe, smooth, efficient, and customized experience. Skype collects and uses, or has third party service providers acting on Skype’s behalf collecting and using, personal data relating to you, as permitted or necessary to:
 
 *   provide internet communication, video sharing and other products in particular to convey the communications and videos you and others make by means of the Skype software and/or the Skype products;
-*   change and customize Skype features and functionality.
+*   change and customize Skype features and functionality;
 *   take, process or deliver orders made via our websites, invoice you or notify you of the status of your order;
 *   display updates about your recent activity using the Qik products or connections to other Qik users;
 *   provide other services for you (as described when we collect the information);
@@ -110,9 +110,7 @@ Key Points
 
 By using Skype’s websites and/or software you are giving your consent to the use of cookies. You can choose to reject cookies at any time, either by changing your browser settings (if your browser permits) or by ceasing to use Skype’s websites and/or software or by using the applicable opt-out functions. You should be aware that certain features are only available through the use of cookies and if you choose not to accept cookies, such features may not be available to you.
 
-**4.1 What are Cookies and GIFs?**
-
-**4.1.1. Cookies**
+**4.1 What are Cookies and GIFs?** **4.1.1. Cookies**
 
 Cookies are small files containing a string of characters (text) that are sent to your browser from a website’s server. The cookie may contain a unique identifier but it does not contain personally identifiable information such as your name or email address. Skype may use cookies when you visit its websites, use Skype’s software or visit other websites where Skype serves advertisements. The browser of the Skype software client or your Internet browser stores the cookie on your computer's hard drive and this may be accessed by the website during your next visit. Other websites may also send cookies to your browser but your browser will not allow those websites to see Skype’s cookie data.
 
@@ -220,9 +218,7 @@ To opt out of Omniture analytic cookies, please visit: https://smetrics.skype.co
 
 To opt out of Google Analytics cookies, please visit: http://tools.google.com/dlpage/gaoptout
 
-**5\. YOUR ADVERTISING CHOICES**
-
-**5.1 Third Party Advertisements**
+**5\. YOUR ADVERTISING CHOICES** **5.1 Third Party Advertisements**
 
 Skype websites and some Skype software clients enable third-party advertisements provided by Microsoft Advertising. In order to provide ads of greater interest to you, these ads may be targeted based on non-personally identifiable Skype profile information (including profile information from linked Microsoft accounts), such as age, gender, country of residence, and language preference, as well as other information Microsoft Advertising collects outside the Skype software client. For instance, Microsoft Advertising may utilize the same browser cookies set by Microsoft websites to enhance targeting within the Skype software client.  
 To learn more about how Microsoft Advertising collects and uses information to target ads on Skype and other properties, including how it uses information collected from Skype, such as age and gender and other information collected as part of delivering ads to or on behalf of Skype to target ads on other properties, please see the Microsoft Advertising Privacy Statement
