@@ -8,98 +8,98 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Where is my archive?
-    *   \[Resolved\] by cowautlgc
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   7 (last comment by mangoquixote 26 minutes ago)
-*   Paid $48 but blog not moved to xanga 2.0 yet
-    *   by cat\_newlife
-    *   3 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   I want to create a new account?
-    *   by sakari\_x
-    *   7 hours ago
-    *   in Passwords &. Sign-In
-    *   0 votes
-    *   0
-*   My past 9 years are gone!!!
-    *   by Breadandbutterlp
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   3 (last comment by summerlovin2012 9 hours ago)
-*   I WANT TO DELETE MY ACCOUNT.
-    *   by kamikaze\_zealot
-    *   5 days ago
-    *   in Miscellaenous
-    *   0 votes
-    *   3 (last comment by kamikaze\_zealot 10 hours ago)
-*   can't find my blog
-    *   by arsuetcws
-    *   10 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   I am Premium and my blog is missing
-    *   by Pepin909
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by notforprophet 11 hours ago)
-*   blog doesn’t appear
-    *   by chanwingyeeee
-    *   13 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Photos are gone
-    *   by QueenTeener
-    *   14 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   10 years premium member, pictures still missing
-    *   by clapbangkiss
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by notforprophet 15 hours ago)
-*   Blogs not imported
-    *   by Pedestrian\_T
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by Pedestrian\_T 15 hours ago)
-*   When does my Premium account expire?
-    *   by Threads\_of\_Faith
-    *   1 week ago
-    *   in Premium
-    *   0 votes
-    *   2 (last comment by notforprophet 15 hours ago)
-*   Paid for premium, but can't post blog.
-    *   by ChildhoodDream
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by notforprophet 15 hours ago)
 *   Xanga blog archive is missing a post
     *   by PBTalenTed
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by Weirdness23 52 minutes ago)
+*   Phone format
+    *   by dilafila
+    *   55 minutes ago
+    *   in Adding &. Editing Entries
+    *   0 votes
+    *   0
+*   format off. titles don't have entries
+    *   by pearlbamboo
+    *   2 hours ago
+    *   in Themes
+    *   0 votes
+    *   0
+*   format off. titles don't have entries
+    *   by pearlbamboo
+    *   2 hours ago
+    *   in Themes
+    *   0 votes
+    *   0
+*   I WANT TO DELETE MY ACCOUNT.
+    *   by kamikaze\_zealot
+    *   6 days ago
+    *   in Miscellaenous
+    *   0 votes
+    *   5 (last comment by kamikaze\_zealot 2 hours ago)
+*   I lost everything on my blog!
+    *   by IrriplaceableXo
+    *   4 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Still Having Issues With The Personal URL
+    *   by pdvossen
+    *   6 hours ago
+    *   in Personal URLs
+    *   0 votes
+    *   0
+*   My Archive
+    *   by AGrimmFaerieTale
+    *   6 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   how can i import my Archives file?
+    *   by Toson88
+    *   9 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Never got the email from you guys to get the HTML Files
+    *   by mikenmike0001
     *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by notforprophet 15 hours ago)
-*   some entries are missing
-    *   by Conniechoy33
-    *   2 days ago
-    *   in Adding &. Editing Entries
+    *   2 (last comment by mikenmike0001 10 hours ago)
+*   cant write a new post
+    *   by vicki2465
+    *   5 days ago
+    *   in Themes
     *   0 votes
-    *   3 (last comment by notforprophet 15 hours ago)
+    *   4 (last comment by yen\_green 11 hours ago)
+*   Where can I post blog?
+    *   by newnewshop
+    *   21 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by my\_name\_is\_Yentl 12 hours ago)
+*   Where is my archive?
+    *   \[Resolved\] by cowautlgc
+    *   4 days ago
+    *   in Data Migration
+    *   0 votes
+    *   11 (last comment by shcc\_ck 14 hours ago)
+*   old theme is not up
+    *   by LiLaZiNdReAmEr
+    *   23 hours ago
+    *   in Themes
+    *   0 votes
+    *   2 (last comment by fuzzy\_\_\_\_logic 15 hours ago)
+*   My blog is gone
+    *   by plantagirl
+    *   15 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 
-1 2 3 ... 83 Next
+1 2 3 ... 84 Next
 
 Help Categories
 
