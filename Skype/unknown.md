@@ -257,8 +257,6 @@ The following terms and expressions shall have the following meanings:
 
 Skype Products are made available under this Agreement solely for use by You and Your Business Users for Your communications purposes. The use of the Skype Products for any other purpose, and/or the resale of any Skype Products is not permitted by You or any of Your Administrators or Business Users, and You shall not (and shall ensure that Your Administrators and Business Users shall not) resell the Skype Products to any third party or use the Skype Products to provide services to any third party.
 
-**10\. Content**
-
 **10\. Making Payments**
 
 **10.1** You shall pay Skype any applicable charges and rates as stated on the Skype Website in connection with the purchase and use of the Skype Products.
