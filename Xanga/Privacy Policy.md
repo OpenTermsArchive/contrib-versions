@@ -8,98 +8,98 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Xanga blog archive is missing a post
-    *   by PBTalenTed
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by Weirdness23 52 minutes ago)
-*   Phone format
-    *   by dilafila
-    *   55 minutes ago
-    *   in Adding &. Editing Entries
-    *   0 votes
-    *   0
-*   format off. titles don't have entries
-    *   by pearlbamboo
-    *   2 hours ago
-    *   in Themes
-    *   0 votes
-    *   0
-*   format off. titles don't have entries
-    *   by pearlbamboo
-    *   2 hours ago
-    *   in Themes
-    *   0 votes
-    *   0
-*   I WANT TO DELETE MY ACCOUNT.
-    *   by kamikaze\_zealot
+*   Deleting My Account
+    *   \[Resolved\] by Omgwtf\_St
     *   6 days ago
     *   in Miscellaenous
     *   0 votes
-    *   5 (last comment by kamikaze\_zealot 2 hours ago)
-*   I lost everything on my blog!
-    *   by IrriplaceableXo
-    *   4 hours ago
+    *   9 (last comment by dorki3saku 1 hour ago)
+*   Please delete my archives
+    *   by dorki3saku
+    *   1 hour ago
     *   in Data Migration
     *   0 votes
     *   0
+*   HELP format off. titles don't have entries
+    *   by pearlbamboo
+    *   1 hour ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Lifetime Premium
+    *   by Coroloro
+    *   2 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Begging for an Update
+    *   by godisinthewind
+    *   3 hours ago
+    *   in Themes
+    *   0 votes
+    *   0
+*   What is going on?
+    *   by doodleshott
+    *   5 hours ago
+    *   in Privacy
+    *   0 votes
+    *   0
+*   could you give me back my blog?
+    *   by jameschan08
+    *   7 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   I got charged 3 extra times
+    *   by patman739
+    *   9 hours ago
+    *   in Premium
+    *   0 votes
+    *   0
+*   I paid $100 for Life Time Xanga user
+    *   by j0yfUl\_gUrl\_xD
+    *   9 hours ago
+    *   in Premium
+    *   0 votes
+    *   0
+*   HELP !
+    *   by DriftLair
+    *   11 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Cannot access my blog.
+    *   by KennethDMiller
+    *   11 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by DriftLair 11 hours ago)
+*   Xanga blog archive is missing a post
+    *   by PBTalenTed
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   3 (last comment by ironyburger 12 hours ago)
 *   Still Having Issues With The Personal URL
     *   by pdvossen
-    *   6 hours ago
+    *   1 day ago
     *   in Personal URLs
     *   0 votes
-    *   0
-*   My Archive
-    *   by AGrimmFaerieTale
-    *   6 hours ago
+    *   2 (last comment by christao408 12 hours ago)
+*   IMPORTED POSTS NOT SHOWING UP!!!!
+    *   by viceandvintage
+    *   12 hours ago
     *   in Data Migration
     *   0 votes
     *   0
-*   how can i import my Archives file?
-    *   by Toson88
-    *   9 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Never got the email from you guys to get the HTML Files
-    *   by mikenmike0001
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by mikenmike0001 10 hours ago)
-*   cant write a new post
-    *   by vicki2465
-    *   5 days ago
-    *   in Themes
-    *   0 votes
-    *   4 (last comment by yen\_green 11 hours ago)
-*   Where can I post blog?
-    *   by newnewshop
-    *   21 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by my\_name\_is\_Yentl 12 hours ago)
-*   Where is my archive?
-    *   \[Resolved\] by cowautlgc
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   11 (last comment by shcc\_ck 14 hours ago)
-*   old theme is not up
-    *   by LiLaZiNdReAmEr
-    *   23 hours ago
-    *   in Themes
-    *   0 votes
-    *   2 (last comment by fuzzy\_\_\_\_logic 15 hours ago)
-*   My blog is gone
-    *   by plantagirl
-    *   15 hours ago
+*   Old theme javascript code
+    *   by herzog3000
+    *   13 hours ago
     *   in Data Migration
     *   0 votes
     *   0
 
-1 2 3 ... 84 Next
+1 2 3 ... 85 Next
 
 Help Categories
 
