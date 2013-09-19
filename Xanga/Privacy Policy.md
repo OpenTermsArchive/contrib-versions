@@ -8,98 +8,98 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Deleting My Account
-    *   \[Resolved\] by Omgwtf\_St
-    *   6 days ago
-    *   in Miscellaenous
+*   missing posts from 2010 to 2013...
+    *   by jess\_tkw
+    *   8 minutes ago
+    *   in Data Migration
     *   0 votes
-    *   9 (last comment by dorki3saku 1 hour ago)
-*   Please delete my archives
-    *   by dorki3saku
+    *   0
+*   Please recover my blog
+    *   by bittentothequick
     *   1 hour ago
     *   in Data Migration
     *   0 votes
     *   0
-*   HELP format off. titles don't have entries
-    *   by pearlbamboo
-    *   1 hour ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Lifetime Premium
-    *   by Coroloro
+*   Is my premium account still in force?
+    *   by RobertMitchell
     *   2 hours ago
+    *   in Premium
+    *   0 votes
+    *   0
+*   What websites are compatible with Wordpress?
+    *   by bigideas
+    *   3 hours ago
     *   in Data Migration
     *   0 votes
     *   0
-*   Begging for an Update
-    *   by godisinthewind
+*   can you revive my blog?
+    *   \[Resolved\] by bdholsinger
     *   3 hours ago
-    *   in Themes
+    *   in Data Migration
     *   0 votes
-    *   0
-*   What is going on?
-    *   by doodleshott
-    *   5 hours ago
+    *   1 (last comment by john 3 hours ago)
+*   My Archive
+    *   \[Resolved\] by AGrimmFaerieTale
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   3 (last comment by AGrimmFaerieTale 7 hours ago)
+*   Please recover my xanga blog
+    *   \[Resolved\] by kinson\_diaz
+    *   11 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by john 8 hours ago)
+*   where is my pictures???
+    *   by cuteppsc
+    *   11 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by john 8 hours ago)
+*   DELETE MY ARCHIVES AND MY ACCOUNT
+    *   by mydiary0307
+    *   12 hours ago
     *   in Privacy
     *   0 votes
     *   0
-*   could you give me back my blog?
-    *   by jameschan08
-    *   7 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   I got charged 3 extra times
-    *   by patman739
-    *   9 hours ago
-    *   in Premium
-    *   0 votes
-    *   0
-*   I paid $100 for Life Time Xanga user
-    *   by j0yfUl\_gUrl\_xD
-    *   9 hours ago
-    *   in Premium
-    *   0 votes
-    *   0
-*   HELP !
-    *   by DriftLair
-    *   11 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Cannot access my blog.
-    *   by KennethDMiller
-    *   11 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by DriftLair 11 hours ago)
-*   Xanga blog archive is missing a post
-    *   by PBTalenTed
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   3 (last comment by ironyburger 12 hours ago)
-*   Still Having Issues With The Personal URL
-    *   by pdvossen
+*   What is going on?
+    *   \[Resolved\] by doodleshott
     *   1 day ago
-    *   in Personal URLs
-    *   0 votes
-    *   2 (last comment by christao408 12 hours ago)
-*   IMPORTED POSTS NOT SHOWING UP!!!!
-    *   by viceandvintage
-    *   12 hours ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   Old theme javascript code
-    *   by herzog3000
-    *   13 hours ago
+    *   1 (last comment by john 14 hours ago)
+*   HELP format off. titles don't have entries
+    *   by pearlbamboo
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   0
+    *   1 (last comment by john 14 hours ago)
+*   getting old posts onto new xanga
+    *   \[Resolved\] by vvbutterflyvv
+    *   21 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by john 14 hours ago)
+*   Lost blog
+    *   by winglovehamster
+    *   19 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by john 14 hours ago)
+*   Is xanga not free anymore?
+    *   \[Resolved\] by cajessica
+    *   15 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by john 14 hours ago)
+*   How long before my page is back
+    *   by Hezakiah4
+    *   15 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by john 14 hours ago)
 
-1 2 3 ... 85 Next
+1 2 3 ... 86 Next
 
 Help Categories
 
