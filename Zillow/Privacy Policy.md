@@ -69,9 +69,9 @@ Skip to contentZillow Real Estate &amp. Homes for Sale
     
     Foreclosure Center
     
-    Buyers Guide
-    
     Mortgage Education Center
+    
+    Buyers Guide
     
     Zillow Help Center
     
