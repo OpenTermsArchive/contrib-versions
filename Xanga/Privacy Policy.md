@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   cannot write a new blog
-    *   by fung\_\_322
-    *   2 hours ago
+*   John, please fix this.
+    *   by ironyburger
+    *   11 hours ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   I paid for a year long membership...
-    *   by mickey\_flora
-    *   3 hours ago
-    *   in Getting Started
-    *   0 votes
-    *   0
-*   missing entries
-    *   by natasyagandana
-    *   4 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Blog does not appear
-    *   by citrusblack
-    *   6 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by clover\_essence 5 hours ago)
-*   Missing blog entries
-    *   by kaman\_sheng
-    *   14 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by john 9 hours ago)
-*   can't not have the theme I've set on my old account.
-    *   by fungyeeho
-    *   10 hours ago
-    *   in Themes
-    *   0 votes
-    *   1 (last comment by john 9 hours ago)
+    *   1 (last comment by john 3 hours ago)
 *   Lost lots of image from the old Xanga
     *   \[Resolved\] by fungyeeho
-    *   10 hours ago
+    *   1 day ago
     *   in Pictures
     *   0 votes
-    *   1 (last comment by john 9 hours ago)
-*   No footprints any more!
-    *   \[Resolved\] by fungyeeho
-    *   10 hours ago
+    *   3 (last comment by john 3 hours ago)
+*   I WANT TO DELETE MY ACCOUNT.
+    *   by kamikaze\_zealot
+    *   1 week ago
     *   in Miscellaenous
     *   0 votes
-    *   1 (last comment by john 9 hours ago)
+    *   6 (last comment by moscreations 4 hours ago)
+*   No footprints any more!
+    *   \[Resolved\] by fungyeeho
+    *   1 day ago
+    *   in Miscellaenous
+    *   0 votes
+    *   2 (last comment by fungyeeho 6 hours ago)
 *   Deleting My Account
     *   \[Resolved\] by Omgwtf\_St
     *   1 week ago
     *   in Miscellaenous
     *   0 votes
-    *   10 (last comment by weapon\_rhee 9 hours ago)
-*   go to dashboard but no " Tools" button at the left
-    *   \[Resolved\] by christy0321
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   4 (last comment by justinmyhead 12 hours ago)
-*   Blog missing
-    *   \[Resolved\] by Coralphoebe
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by justinmyhead 12 hours ago)
-*   My Archive
-    *   \[Resolved\] by AGrimmFaerieTale
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   4 (last comment by justinmyhead 13 hours ago)
+    *   13 (last comment by MrMojoRisin365 8 hours ago)
 *   Where is my archive?
     *   \[Resolved\] by cowautlgc
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   12 (last comment by justinmyhead 13 hours ago)
-*   Lost my blog
-    *   by EclipxeNightx3
-    *   2 weeks ago
-    *   in Themes
-    *   0 votes
-    *   6 (last comment by inamakebelieveworld 13 hours ago)
-*   my blog doesn’t appear
-    *   \[Resolved\] by nEKExx
-    *   2 weeks ago
+    *   13 (last comment by kuen0827 9 hours ago)
+*   Archive updated as at Aug 14 ONLY!
+    *   by kuen0827
+    *   9 hours ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by john 14 hours ago)
+    *   1 (last comment by kuen0827 9 hours ago)
+*   CANT POST
+    *   by apathy\_sucks
+    *   10 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by john 10 hours ago)
+*   How can I return everything like before
+    *   by Ching\_Wanna
+    *   12 hours ago
+    *   in Premium
+    *   0 votes
+    *   1 (last comment by john 10 hours ago)
+*   How can I retrieve the blog?
+    *   by raysnow
+    *   13 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   not my theme set up as before
+    *   by siumie
+    *   15 hours ago
+    *   in Themes
+    *   0 votes
+    *   0
+*   How to retrieve my archives back online?
+    *   \[Resolved\] by joy711
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   3 (last comment by joy711 18 hours ago)
+*   Missed downloading my archives
+    *   by jaggedjunky
+    *   18 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   cannot write a new blog
+    *   by fung\_\_322
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   I paid for a year long membership...
+    *   by mickey\_flora
+    *   1 day ago
+    *   in Getting Started
+    *   0 votes
+    *   0
 
 1 2 3 ... 87 Next
 
