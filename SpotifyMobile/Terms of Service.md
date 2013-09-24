@@ -24,7 +24,7 @@ Occasionally we may offer you the chance to participate in sweepstakes, contests
 
 4\. Choice of law
 
-Unless otherwise required by a mandatory law of a member state of the European Union or any other jurisdiction, these Agreements are subject to the laws of Sweden, without regard to choice or conflicts of law principles. Further, you and Spotify agree to the exclusive jurisdiction of the courts of Sweden to resolve any dispute, claim or controversy that arises in connection with these Agreements.
+Unless otherwise required by a mandatory law of a member state of the European Union or any other jurisdiction, these Agreements are subject to the law of the State of California, United States, without regard to choice or conflicts of law principles. Further, you and Spotify agree to the exclusive jurisdiction of the state and federal courts in San Francisco County, California or New York, New York to resolve any dispute, claim or controversy that arises in connection with these Agreements.
 
 If you are a United States user, the mandatory arbitration provisions in the Terms and Conditions of Use also apply to you, so please read them carefully.
 
