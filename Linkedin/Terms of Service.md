@@ -20,7 +20,7 @@ When you use LinkedIn, you are entering into a legal agreement and you agree to 
 
 You also agree to our Privacy Policy, which covers how we collect, use, share, and store your personal information.
 
-You agree that by registering on LinkedIn, or by using our website, including our mobile applications, developer platform, premium services, or other information provided as part of the LinkedIn services (collectively “LinkedIn” or the “Services”), you are entering into a legally binding agreement with LinkedIn Corporation, 2029 Stierlin Court, Mountain View, California 94043, USA if you reside in the United States, and with LinkedIn Ireland Limited, Gardner House, Wilton Plaza, Wilton Place, , Dublin 2, Ireland, if you reside outside the United States (“we,” “us,” “our,” and “LinkedIn”) based on the terms of this LinkedIn User Agreement and the LinkedIn Privacy Policy, which is hereby incorporated by reference (collectively referred to as the “Agreement”) and become a LinkedIn member (“Member”). If you are using LinkedIn on behalf of a company or other legal entity, you are nevertheless individually bound by this Agreement even if your company has a separate agreement with us. If you do not want to register an account and become a LinkedIn Member, do not enter into this Agreement, do NOT click “Join Now” and do not access, view, download or otherwise use any LinkedIn webpage, information or services. By clicking “Join Now” (or “Join LinkedIn” or similar), you acknowledge that you have read and understood the terms and conditions of this Agreement and that you agree to be bound by all of its provisions. By clicking “Join Now,” you also consent to use electronic signatures and acknowledge your click of the “Join Now” button as one. Please note that the LinkedIn User Agreement and Privacy Policy are also collectively referred to as LinkedIn’s “Terms of Service.”
+You agree that by registering on LinkedIn, or by using our website, including our mobile applications, developer platform, premium services, or other information provided as part of the LinkedIn services (collectively “LinkedIn” or the “Services”), you are entering into a legally binding agreement with LinkedIn Corporation, 2029 Stierlin Court, Mountain View, California 94043, USA if you reside in the United States, and with LinkedIn Ireland, Gardner House, Wilton Plaza, Wilton Place, , Dublin 2, Ireland, if you reside outside the United States (“we,” “us,” “our,” and “LinkedIn”) based on the terms of this LinkedIn User Agreement and the LinkedIn Privacy Policy, which is hereby incorporated by reference (collectively referred to as the “Agreement”) and become a LinkedIn member (“Member”). If you are using LinkedIn on behalf of a company or other legal entity, you are nevertheless individually bound by this Agreement even if your company has a separate agreement with us. If you do not want to register an account and become a LinkedIn Member, do not enter into this Agreement, do NOT click “Join Now” and do not access, view, download or otherwise use any LinkedIn webpage, information or services. By clicking “Join Now” (or “Join LinkedIn” or similar), you acknowledge that you have read and understood the terms and conditions of this Agreement and that you agree to be bound by all of its provisions. By clicking “Join Now,” you also consent to use electronic signatures and acknowledge your click of the “Join Now” button as one. Please note that the LinkedIn User Agreement and Privacy Policy are also collectively referred to as LinkedIn’s “Terms of Service.”
 
 Back to Top 2. Your Obligations 2.1. Applicable laws and this Agreement
 
@@ -232,7 +232,7 @@ In no event shall you seek or be entitled to rescission, injunctive or other equ
 
 9.8. Beneficiaries
 
-Entities other than LinkedIn Corporation and LinkedIn Ireland, Limited, that LinkedIn Corporation owns a 50% or greater interest in (“Affiliate”) are not parties, but intended third party beneficiaries of this Agreement, with a right to enforce this Agreement directly against you.
+Entities other than LinkedIn Corporation and LinkedIn Ireland, that LinkedIn Corporation owns a 50% or greater interest in (“Affiliate”) are not parties, but intended third party beneficiaries of this Agreement, with a right to enforce this Agreement directly against you.
 
 9.9. Assignment and Delegation
 
@@ -311,6 +311,6 @@ Back to Top How To Contact Us
 
 If you have questions or comments about this User Agreement, please contact us online or by physical mail at:
 
-For Members in the United States: LinkedIn Corporation Attn: User Agreement Issues 2029 Stierlin Court Mountain View, CA 94043 USA For Members outside the United States: LinkedIn Ireland Limited Attn: User Agreement Issues Gardner House, Wilton Place, Wilton Plaza, Dublin 2 Ireland Back to Top
+For Members in the United States: LinkedIn Corporation Attn: User Agreement Issues 2029 Stierlin Court Mountain View, CA 94043 USA For Members outside the United States: LinkedIn Ireland Attn: User Agreement Issues Gardner House, Wilton Place, Wilton Plaza, Dublin 2 Ireland Back to Top
 
-LinkedIn Corporation, Mountain View, California, USA, and LinkedIn Ireland Limited, Dublin, Ireland, September 12, 2013
+LinkedIn Corporation, Mountain View, California, USA, and LinkedIn Ireland, Dublin, Ireland, September 12, 2013
