@@ -8,98 +8,98 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Just can log into
-    *   by vivanday
-    *   47 minutes ago
+*   can't not have the theme I've set on my old account.
+    *   by fungyeeho
+    *   5 days ago
     *   in Themes
     *   0 votes
-    *   0
-*   How long?
-    *   by IsianPriestess
-    *   2 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   problem with blogs
-    *   by tasukizlaydee
-    *   2 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   My blog didn't appear
-    *   by Anxonia
-    *   2 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
+    *   7 (last comment by Rachie19 2 hours ago)
 *   Deleting My Account
     *   \[Resolved\] by Omgwtf\_St
-    *   1 week ago
+    *   2 weeks ago
     *   in Miscellaenous
     *   0 votes
-    *   14 (last comment by rezznor 3 hours ago)
-*   where is my pictures???
-    *   by cuteppsc
-    *   6 days ago
-    *   in Data Migration
-    *   0 votes
-    *   4 (last comment by cuteppsc 6 hours ago)
-*   Old Javascript code
-    *   by herzog3000
-    *   11 hours ago
+    *   14 (last comment by Omgwtf\_St 3 hours ago)
+*   I would like my previous blog format/theme.
+    *   by Mr\_Turniphead
+    *   3 hours ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by john 9 hours ago)
-*   Doesn't appear
-    *   \[Resolved\] by s\_him1218
+    *   0
+*   Request to delete my account
+    *   by moscreations
+    *   9 hours ago
+    *   in Miscellaenous
+    *   0 votes
+    *   2 (last comment by moscreations 7 hours ago)
+*   how to find my blog ><.
+    *   \[Resolved\] by ciping
+    *   11 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by john 10 hours ago)
+*   My site is coming up 404 want premium site
+    *   \[Resolved\] by Dodie
+    *   10 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by john 10 hours ago)
+*   everything is gone.
+    *   \[Resolved\] by singingfrk7
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by john 14 hours ago)
-*   Can't appear my blog
-    *   \[Resolved\] by clearleaky
+    *   1 (last comment by john 13 hours ago)
+*   Would like to donate to get back old blog
+    *   \[Resolved\] by marconiko
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by john 14 hours ago)
-*   My blog disappears
-    *   \[Resolved\] by B\_\_Kaye\_\_b
+    *   1 (last comment by john 13 hours ago)
+*   my blog disappears
+    *   \[Resolved\] by My\_best
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by john 14 hours ago)
-*   My blog doesnt appear
-    *   \[Resolved\] by Ching\_Wanna
-    *   14 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by john 14 hours ago)
+    *   1 (last comment by john 13 hours ago)
 *   My blog disappear
-    *   \[Resolved\] by wilsonwoon
+    *   \[Resolved\] by Black\_Billy
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by john 14 hours ago)
-*   How can I get back all my blog if I haven"t back up before ???
-    *   \[Resolved\] by psy\_kuli
-    *   2 weeks ago
-    *   in Adding &. Editing Entries
-    *   0 votes
-    *   2 (last comment by john 14 hours ago)
-*   i cant find my blog!
-    *   \[Resolved\] by cherry\_ho1992
-    *   3 weeks ago
-    *   in Adding &. Editing Entries
-    *   0 votes
-    *   1 (last comment by john 14 hours ago)
-*   where is my blog history?
-    *   \[Resolved\] by missallisonashley
+    *   1 (last comment by john 13 hours ago)
+*   Blog disappeared
+    *   \[Resolved\] by sikwai0412
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by john 14 hours ago)
+    *   1 (last comment by john 13 hours ago)
+*   My blog disappearred x N
+    *   \[Resolved\] by New\_ballball1986
+    *   3 weeks ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by john 13 hours ago)
+*   all has gone
+    *   \[Resolved\] by wrinky
+    *   3 weeks ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by john 13 hours ago)
+*   Blog Not Found
+    *   \[Resolved\] by RenegadeRunner
+    *   3 weeks ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by john 15 hours ago)
+*   blog is gone
+    *   \[Resolved\] by blackrose9
+    *   3 weeks ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by john 15 hours ago)
 
-1 2 3 ... 88 Next
+1 2 3 ... 87 Next
 
 Help Categories
 
