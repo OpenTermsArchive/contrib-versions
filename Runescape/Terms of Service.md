@@ -17,7 +17,8 @@ Terms &. Conditions
 13.  Subscription
     1.  Cancelling subscription
     2.  Right to cancel under Distance Selling Regulations
-14.  Virtual currencies and virtual items
+14.  Virtual eCurrencies, Micro-Game Credits and virtual items
+    1.  RuneScape Bonds
 15.  Refund policy
 16.  Privacy policy and data protection policy
 17.  Functioning of Jagex Products
@@ -84,7 +85,7 @@ If you believe that someone has stolen your password or otherwise gained access 
 
 8\. Intellectual property rights and ownership
 
-Jagex®, RuneScape®, War of Legends® and FunOrb® are registered trade marks of Jagex Limited in the United Kingdom, the United States and other countries. All third party trade marks are the property of their respective owners.
+Jagex®, RuneScape®, War of Legends®, Ace of Spades® and FunOrb® are registered trade marks of Jagex Limited in the United Kingdom, the United States and other countries. All third party trade marks are the property of their respective owners.
 
 You must not reverse-engineer, decompile or modify any Jagex Product client software in any way (except to the extent allowed by applicable law). You must not use a modified/customised version of the client software or attempt to copy, transfer or sub-license it. You must not create or provide any other means by which any Jagex Product may be played by others (including, without limitation, replacement or modified client/server software, server emulators). Please note that any such activity may constitute civil wrongs and/or criminal offences, and we reserve the right to take such action as appropriate in the circumstances should we become aware that such offences are being committed.
 
@@ -94,7 +95,7 @@ All intellectual property or other rights in any game character, account, conten
 
 NOTWITHSTANDING ANYTHING TO THE CONTRARY HEREIN, YOU ACKNOWLEDGE AND AGREE THAT YOU SHALL HAVE NO OWNERSHIP OR OTHER PROPERTY INTEREST IN ANY JAGEX PRODUCT OR ACCOUNT, AND YOU FURTHER ACKNOWLEDGE AND AGREE THAT ALL RIGHTS IN AND TO AN ACCOUNT ARE AND SHALL FOREVER BE OWNED BY AND INURE TO THE BENEFIT OF JAGEX.
 
-Jagex does not recognise any purported: (a) transfers of virtual items which take place outside the rules of a Jagex Product. (b) transfers of accounts or virtual currency. or (c) sale, gift or trade in the real world of anything that appears or originates in a Jagex Product.
+Jagex does not recognise any purported: (a) transfers of virtual items or virtual currency which take place outside the rules of a Jagex Product. (b) transfers of accounts. or (c) sale, gift or trade in the real world of anything that appears or originates in a Jagex Product.
 
 Jagex reserves the right to stop offering a Jagex Product or a particular part of a Jagex Product at any time either permanently or temporarily, at which point any license granted to you to use the Jagex Product or a part thereof will be automatically terminated or suspended. In such event, Jagex shall not be required to provide refunds, benefits or other compensation to users in connection with such discontinued elements of the Jagex Product.
 
@@ -177,35 +178,60 @@ We reserve the right to charge you for any unauthorized use of your subscription
     However, this right of cancellation does not apply once you have started to use our subscription services, such as by logging in to a member's only world in which case you agree to performance of the contract starting before the usual cancellation period has expired.
     
 
-14\. Virtual currencies and virtual items
+14\. Virtual Currencies, Micro-Game Credits and virtual items
 
-In certain Jagex Products, we offer virtual currencies for sale or, in our discretion, as free promotions. Virtual currencies can be redeemed (i.e. used) to acquire certain digital goods/services, which we describe below as "Items". If you obtain virtual currency, you must check that it has been correctly credited to your account and tell us immediately if not.
+In certain Jagex Products, we offer Virtual Currencies and/or credits that can be redeemed to play micro-games ("Micro-Game Credits") for sale or, in our discretion, as free promotions. Virtual Currencies and Micro-Game Credits can be redeemed (i.e. used) to acquire certain digital goods/services, which we describe below as "Items". If you obtain Virtual Currency or Micro-Game Credits from Jagex, you must check that they have been correctly credited to your account and tell us immediately if not.
 
-PLEASE TAKE NOTE that virtual currencies are subject to very important restrictions:
+PLEASE TAKE NOTE that Virtual Currencies and Micro-Game Credits are subject to very important restrictions:
 
-Virtual currency expires and will be deleted if it has not been redeemed within a certain period after acquisition, so you should redeem it as soon as possible. The expiry period is whatever we specify when you acquire the virtual currency or, if we haven't specified a time limit, twelve months from acquisition.
+Virtual Currency and Micro-Game Credits may expire if they have not been redeemed within a certain period after acquisition, so you should redeem it as soon as possible. The expiry period is whatever we specify when you acquire the Virtual Currency or Micro-Game Credits or, if we haven't specified a time limit, twelve months from acquisition.
 
-Unless we say otherwise on our website, virtual currency can only be redeemed within the world of the game where you acquired it. Each Jagex Product may contain one or more virtual currencies. We may at any time change or remove any Item which can be purchased using virtual currency, as well as change the amount of virtual currency needed to acquire a particular Item. You may only redeem virtual currency for Items on offer at the time of redemption.
+Unless we say otherwise on our website, Virtual Currency and Micro-Game Credits can only be redeemed within the world of the game where you acquired them. Each Jagex Product may contain one or more Virtual Currencies or Micro-Game Credits and unless otherwise stated, each Virtual Currency or Micro-Game Credit is independent and is not exchangeable for any other Virtual Currency or Micro-Game Credit in the same Jagex Product. We may at any time change or remove any Item which can be purchased using Virtual Currency or Micro-Game Credits, as well as change the amount of Virtual Currency or Micro-Game Credits needed to acquire a particular Item. You may only redeem Virtual Currency or Micro-Game Credits for Items on offer at the time of redemption.
 
-Unless we say otherwise on our website, virtual currencies are specific to a particular Jagex Product, and one virtual currency used in relation to one Jagex Product may not be exchanged for another virtual currency for use in relation to another Jagex Product. In addition, unless otherwise stated, each virtual currency is independent and is not exchangeable for any other virtual currency in the same Jagex Product.
+Virtual Currency and Micro-Game Credits do not have any inherent value and are not your own private property. When you purchase or receive Virtual Currency or Micro-Game Credits, you do not own the Virtual Currency or Micro-Game Credits. Instead they constitute a measurement of the extent of your license in a Jagex Product. Similarly, any Virtual Currency or Micro-Game Credits balance shown in your account does not constitute a real world balance or reflect any stored monetary value.
 
-Virtual currency does not have any inherent value and is not your own private property. When you purchase or receive virtual currency, you do not own the virtual currency. Instead it constitutes a measurement of the extent of your license in a Jagex Product. Similarly, any virtual currency balance shown in your account does not constitute a real world balance or reflect any stored monetary value.
+You can only use Virtual Currency or Micro-Game Credits to acquire those Items which we decide in our discretion to offer in return for Virtual Currency or Micro-Game Credits. We do not provide any cash or refunds for Virtual Currency or Micro-Game Credits or Items (except as required by law) and Virtual Currency or Micro-Game Credits and Items do not have any real world monetary value. Virtual Currency or Micro-Game Credits are for your personal use only. You must not sell or transfer them or make them available to anyone else or attempt to do so, or encourage anyone else to do any of these things. Virtual Currency or Micro-Game Credits and Items can never be redeemed for real world money, goods or any other item of monetary value, and cannot be inherited. We may impose additional restrictions concerning the acquisition or redemption of Virtual Currency or Micro-Game Credits and Items. For example we may cap the amount of Virtual Currency or Micro-Game Credits which can be acquired or held or redeemed in any particular period or we may impose restrictions based on your country of residence. Certain Items may also only be available to certain persons, such as those who have separately acquired a subscription.
 
-You can only use virtual currency to acquire those Items which we decide in our discretion to offer in return for virtual currency. We do not provide any cash or refunds for virtual currency (except as required by law) and virtual currency does not have any real world value. Virtual currency and Items are for your personal use only. You must not sell or transfer them or make them available to anyone else or attempt to do so, or encourage anyone else to do any of these things. Virtual currency and Items have no monetary value. Virtual currency and Items can never be redeemed for real world money, goods or any other item of monetary value. We may impose additional restrictions concerning the acquisition or redemption of virtual currency and Items. For example we may cap the amount of virtual currency which can be acquired or held or redeemed in any particular period or we may impose restrictions based on your country of residence. Certain Items may also only be available to certain persons, such as those who have separately acquired a subscription.
+For the avoidance of doubt, Virtual Currency or Micro-Game Credits have no cash value, do not accrue interest and, unless otherwise required by law, are not redeemable or refundable for any sum of money or monetary value from Jagex at any time.
 
-For the avoidance of doubt, virtual currency has no cash value, does not accrue interest and, unless otherwise required by law, is not redeemable or refundable for any sum of money or monetary value from Jagex at any time.
+Jagex reserves the right to restrict access to, delete, reduce or liquidate Virtual Currency or Micro-Game Credits: (1) if you have misused the Virtual Currency or Micro-Game Credits or breached any of these terms and conditions. (2) if the Virtual Currency or Micro-Game Credits were awarded in error. (3) if a payment for Virtual Currency or Micro-Game Credits is charged back or otherwise cancelled or reversed. or (4) if you have used Virtual Currency or Micro-Game Credits to conduct any fraudulent or illegal activity.
 
-Jagex reserves the right to restrict access to, delete, reduce or liquidate virtual currency: (1) if you have misused the virtual currency or breached any of these terms and conditions. (2) if the virtual currency was awarded in error. (3) if a payment for virtual currency is charged back or otherwise cancelled or reversed. or (4) if you have used virtual currency to conduct any fraudulent or illegal activity.
+Jagex reserves the right to restrict access to or delete virtual Items: (1) if you have misused the Items or breached any of these terms and conditions. (2) if the Items were purchased using Virtual Currency or Micro-Game Credits awarded in error. or (3) if a payment for Virtual Currency or Micro-Game Credits used to purchase the Items is charged back or otherwise cancelled or reversed. In addition, virtual Items that have been acquired by the redemption of Virtual Currency or Micro-Game Credits may expire after a period of time, which by default shall be twelve months from acquisition. In addition, Items may have particular restrictions, or be consumed or extinguished in the course of your use of Jagex Products.
 
-Jagex reserves the right to restrict access to or delete virtual Items: (1) if you have misused the Items or breached any of these terms and conditions. (2) if the Items were purchased using virtual currency awarded in error. or (3) if a payment for virtual currency used to purchase the Items is charged back or otherwise cancelled or reversed. In addition, virtual Items that have been acquired by the redemption of virtual currency may expire after a period of time, which by default shall be twelve months from acquisition. In addition, Items may have particular restrictions, or be consumed or extinguished in the course of your use of Jagex Products.
+We may at any time decide to end in part or its entirety the Virtual Currency or Micro-Game Credits and Items program for all or any of our Jagex Products. Before we delete the unused Virtual Currency or Micro-Game Credits, we will endeavour to contact you to give at least four weeks to redeem them.
 
-We may at any time decide to end the entire virtual currency and Items program for all or any of our Jagex Products. Before we delete the unused virtual currency, we will endeavour to give you at least four weeks to redeem it.
+1.  **RuneScape Bonds**
+    
+    Within the Jagex Product RuneScape, users can purchase a RuneScape Bond from Jagex. If you obtain a RuneScape Bond from Jagex, you must check that it has been correctly credited to your account and tell us immediately if not.
+    
+    RuneScape Bonds can be redeemed (i.e. used) to acquire RuneScape membership, Virtual Currency and/or Micro-Game Credits. we describe these collectively as "Redemption Items", Alternatively, RuneScape Bonds can be traded in-game with other users in return for virtual items. More information about RuneScape Bonds can be found here.
+    
+    PLEASE TAKE NOTE that RuneScape Bonds are subject to very important restrictions:
+    
+    RuneScape Bonds can only be traded and redeemed within RuneScape.
+    
+    We may at any time change or remove any Redemption Items which can be purchased using a RuneScape Bond, as well as change the amount of the RuneScape Bond needed to acquire a particular Redemption Item. You may only redeem the RuneScape Bond for Redemption Items on offer at the time of redemption.
+    
+    RuneScape Bonds: (i) do not constitute a real world balance or reflect stored monetary value. (ii) cannot be redeemed for real world money, goods or any other items with monetary value, and cannot be inherited. and (iii) are not your own private property. A RuneScape Bond is a measurement of the extent of your license in a Jagex Product.
+    
+    We do not provide any cash or refunds for RuneScape Bonds (except as required by law). We may impose additional restrictions concerning the acquisition or redemption of RuneScape Bonds. For example we may cap the amount of RuneScape Bonds which can be acquired or held or redeemed in any particular period or we may impose restrictions based on your country of residence.
+    
+    Jagex reserves the right to restrict access to, delete, reduce or liquidate RuneScape Bonds: (1) if you have misused the RuneScape Bond or breached any of these terms and conditions. (2) if the RuneScape Bond was awarded in error. (3) if a payment for a RuneScape Bond is charged back or otherwise cancelled or reversed. or (4) if you have used RuneScape Bonds to conduct any fraudulent or illegal activity.
+    
+    Jagex reserves the right to restrict access to or delete Redemption Items: (1) if you have misused the Redemption Items or breached any of these terms and conditions. (2) if the Redemption Items were purchased using RuneScape Bonds awarded in error. or (3) if a payment for RuneScape Bonds used to purchase Redemption Items is charged back or otherwise cancelled or reversed. In addition, Redemption Items that have been acquired by the redemption of RuneScape Bonds may expire after a period of time, which by default shall be twelve months from acquisition.
+    
+    Redemption Items may have particular restrictions, or be consumed or extinguished in the course of your use of Jagex Products.
+    
+    We may at any time decide to end part of or the entirety of the RuneScape Bond program for all or any of our Jagex Products. Before we delete the unused RuneScape Bond, we will endeavour to contact you to give you at least four weeks to redeem it.
+    
+    If your account for a Jagex Product remains dormant (i.e. is not used) for more than 12 months, and there is unredeemed Virtual Currency, Micro-Game Credits or RuneScape Bonds associated with your account, we may choose to credit your account with Items of equivalent value for this expired Virtual Currency, Micro-Game Credits or RuneScape Bonds.  We will endeavour to contact you by email prior to such action being taken.
+    
 
 15\. Refund policy
 
 We are happy to review requests for refunds on a case by case basis. However, refunds are not always possible to give for many reasons.
 
-Unless required by law, we will not refund any amounts paid in relation to subscriptions, in-game activities, virtual items or virtual currency when:
+Unless required by law, we will not refund any amounts paid in relation to subscriptions, macro-game activities, RuneScape Bonds, virtual items or virtual currency when:
 
 *   You have been the victim of in-game scamming, as there are many warnings about avoiding this on the Jagex Products (however, we will do everything we reasonably can to assist you to recover your accounts).
 *   You have been banned from a Jagex Product for violating these terms and conditions, any Rules of a Jagex Product or the user content policy.
@@ -266,7 +292,8 @@ Terms &. Conditions
 13.  Subscription
     1.  Cancelling subscription
     2.  Right to cancel under Distance Selling Regulations
-14.  Virtual currencies and virtual items
+14.  Virtual eCurrencies, Micro-Game Credits and virtual items
+    1.  RuneScape Bonds
 15.  Refund policy
 16.  Privacy policy and data protection policy
 17.  Functioning of Jagex Products
@@ -333,7 +360,7 @@ If you believe that someone has stolen your password or otherwise gained access 
 
 8\. Intellectual property rights and ownership
 
-Jagex®, RuneScape®, War of Legends® and FunOrb® are registered trade marks of Jagex Limited in the United Kingdom, the United States and other countries. All third party trade marks are the property of their respective owners.
+Jagex®, RuneScape®, War of Legends®, Ace of Spades® and FunOrb® are registered trade marks of Jagex Limited in the United Kingdom, the United States and other countries. All third party trade marks are the property of their respective owners.
 
 You must not reverse-engineer, decompile or modify any Jagex Product client software in any way (except to the extent allowed by applicable law). You must not use a modified/customised version of the client software or attempt to copy, transfer or sub-license it. You must not create or provide any other means by which any Jagex Product may be played by others (including, without limitation, replacement or modified client/server software, server emulators). Please note that any such activity may constitute civil wrongs and/or criminal offences, and we reserve the right to take such action as appropriate in the circumstances should we become aware that such offences are being committed.
 
@@ -343,7 +370,7 @@ All intellectual property or other rights in any game character, account, conten
 
 NOTWITHSTANDING ANYTHING TO THE CONTRARY HEREIN, YOU ACKNOWLEDGE AND AGREE THAT YOU SHALL HAVE NO OWNERSHIP OR OTHER PROPERTY INTEREST IN ANY JAGEX PRODUCT OR ACCOUNT, AND YOU FURTHER ACKNOWLEDGE AND AGREE THAT ALL RIGHTS IN AND TO AN ACCOUNT ARE AND SHALL FOREVER BE OWNED BY AND INURE TO THE BENEFIT OF JAGEX.
 
-Jagex does not recognise any purported: (a) transfers of virtual items which take place outside the rules of a Jagex Product. (b) transfers of accounts or virtual currency. or (c) sale, gift or trade in the real world of anything that appears or originates in a Jagex Product.
+Jagex does not recognise any purported: (a) transfers of virtual items or virtual currency which take place outside the rules of a Jagex Product. (b) transfers of accounts. or (c) sale, gift or trade in the real world of anything that appears or originates in a Jagex Product.
 
 Jagex reserves the right to stop offering a Jagex Product or a particular part of a Jagex Product at any time either permanently or temporarily, at which point any license granted to you to use the Jagex Product or a part thereof will be automatically terminated or suspended. In such event, Jagex shall not be required to provide refunds, benefits or other compensation to users in connection with such discontinued elements of the Jagex Product.
 
@@ -426,35 +453,60 @@ We reserve the right to charge you for any unauthorized use of your subscription
     However, this right of cancellation does not apply once you have started to use our subscription services, such as by logging in to a member's only world in which case you agree to performance of the contract starting before the usual cancellation period has expired.
     
 
-14\. Virtual currencies and virtual items
+14\. Virtual Currencies, Micro-Game Credits and virtual items
 
-In certain Jagex Products, we offer virtual currencies for sale or, in our discretion, as free promotions. Virtual currencies can be redeemed (i.e. used) to acquire certain digital goods/services, which we describe below as "Items". If you obtain virtual currency, you must check that it has been correctly credited to your account and tell us immediately if not.
+In certain Jagex Products, we offer Virtual Currencies and/or credits that can be redeemed to play micro-games ("Micro-Game Credits") for sale or, in our discretion, as free promotions. Virtual Currencies and Micro-Game Credits can be redeemed (i.e. used) to acquire certain digital goods/services, which we describe below as "Items". If you obtain Virtual Currency or Micro-Game Credits from Jagex, you must check that they have been correctly credited to your account and tell us immediately if not.
 
-PLEASE TAKE NOTE that virtual currencies are subject to very important restrictions:
+PLEASE TAKE NOTE that Virtual Currencies and Micro-Game Credits are subject to very important restrictions:
 
-Virtual currency expires and will be deleted if it has not been redeemed within a certain period after acquisition, so you should redeem it as soon as possible. The expiry period is whatever we specify when you acquire the virtual currency or, if we haven't specified a time limit, twelve months from acquisition.
+Virtual Currency and Micro-Game Credits may expire if they have not been redeemed within a certain period after acquisition, so you should redeem it as soon as possible. The expiry period is whatever we specify when you acquire the Virtual Currency or Micro-Game Credits or, if we haven't specified a time limit, twelve months from acquisition.
 
-Unless we say otherwise on our website, virtual currency can only be redeemed within the world of the game where you acquired it. Each Jagex Product may contain one or more virtual currencies. We may at any time change or remove any Item which can be purchased using virtual currency, as well as change the amount of virtual currency needed to acquire a particular Item. You may only redeem virtual currency for Items on offer at the time of redemption.
+Unless we say otherwise on our website, Virtual Currency and Micro-Game Credits can only be redeemed within the world of the game where you acquired them. Each Jagex Product may contain one or more Virtual Currencies or Micro-Game Credits and unless otherwise stated, each Virtual Currency or Micro-Game Credit is independent and is not exchangeable for any other Virtual Currency or Micro-Game Credit in the same Jagex Product. We may at any time change or remove any Item which can be purchased using Virtual Currency or Micro-Game Credits, as well as change the amount of Virtual Currency or Micro-Game Credits needed to acquire a particular Item. You may only redeem Virtual Currency or Micro-Game Credits for Items on offer at the time of redemption.
 
-Unless we say otherwise on our website, virtual currencies are specific to a particular Jagex Product, and one virtual currency used in relation to one Jagex Product may not be exchanged for another virtual currency for use in relation to another Jagex Product. In addition, unless otherwise stated, each virtual currency is independent and is not exchangeable for any other virtual currency in the same Jagex Product.
+Virtual Currency and Micro-Game Credits do not have any inherent value and are not your own private property. When you purchase or receive Virtual Currency or Micro-Game Credits, you do not own the Virtual Currency or Micro-Game Credits. Instead they constitute a measurement of the extent of your license in a Jagex Product. Similarly, any Virtual Currency or Micro-Game Credits balance shown in your account does not constitute a real world balance or reflect any stored monetary value.
 
-Virtual currency does not have any inherent value and is not your own private property. When you purchase or receive virtual currency, you do not own the virtual currency. Instead it constitutes a measurement of the extent of your license in a Jagex Product. Similarly, any virtual currency balance shown in your account does not constitute a real world balance or reflect any stored monetary value.
+You can only use Virtual Currency or Micro-Game Credits to acquire those Items which we decide in our discretion to offer in return for Virtual Currency or Micro-Game Credits. We do not provide any cash or refunds for Virtual Currency or Micro-Game Credits or Items (except as required by law) and Virtual Currency or Micro-Game Credits and Items do not have any real world monetary value. Virtual Currency or Micro-Game Credits are for your personal use only. You must not sell or transfer them or make them available to anyone else or attempt to do so, or encourage anyone else to do any of these things. Virtual Currency or Micro-Game Credits and Items can never be redeemed for real world money, goods or any other item of monetary value, and cannot be inherited. We may impose additional restrictions concerning the acquisition or redemption of Virtual Currency or Micro-Game Credits and Items. For example we may cap the amount of Virtual Currency or Micro-Game Credits which can be acquired or held or redeemed in any particular period or we may impose restrictions based on your country of residence. Certain Items may also only be available to certain persons, such as those who have separately acquired a subscription.
 
-You can only use virtual currency to acquire those Items which we decide in our discretion to offer in return for virtual currency. We do not provide any cash or refunds for virtual currency (except as required by law) and virtual currency does not have any real world value. Virtual currency and Items are for your personal use only. You must not sell or transfer them or make them available to anyone else or attempt to do so, or encourage anyone else to do any of these things. Virtual currency and Items have no monetary value. Virtual currency and Items can never be redeemed for real world money, goods or any other item of monetary value. We may impose additional restrictions concerning the acquisition or redemption of virtual currency and Items. For example we may cap the amount of virtual currency which can be acquired or held or redeemed in any particular period or we may impose restrictions based on your country of residence. Certain Items may also only be available to certain persons, such as those who have separately acquired a subscription.
+For the avoidance of doubt, Virtual Currency or Micro-Game Credits have no cash value, do not accrue interest and, unless otherwise required by law, are not redeemable or refundable for any sum of money or monetary value from Jagex at any time.
 
-For the avoidance of doubt, virtual currency has no cash value, does not accrue interest and, unless otherwise required by law, is not redeemable or refundable for any sum of money or monetary value from Jagex at any time.
+Jagex reserves the right to restrict access to, delete, reduce or liquidate Virtual Currency or Micro-Game Credits: (1) if you have misused the Virtual Currency or Micro-Game Credits or breached any of these terms and conditions. (2) if the Virtual Currency or Micro-Game Credits were awarded in error. (3) if a payment for Virtual Currency or Micro-Game Credits is charged back or otherwise cancelled or reversed. or (4) if you have used Virtual Currency or Micro-Game Credits to conduct any fraudulent or illegal activity.
 
-Jagex reserves the right to restrict access to, delete, reduce or liquidate virtual currency: (1) if you have misused the virtual currency or breached any of these terms and conditions. (2) if the virtual currency was awarded in error. (3) if a payment for virtual currency is charged back or otherwise cancelled or reversed. or (4) if you have used virtual currency to conduct any fraudulent or illegal activity.
+Jagex reserves the right to restrict access to or delete virtual Items: (1) if you have misused the Items or breached any of these terms and conditions. (2) if the Items were purchased using Virtual Currency or Micro-Game Credits awarded in error. or (3) if a payment for Virtual Currency or Micro-Game Credits used to purchase the Items is charged back or otherwise cancelled or reversed. In addition, virtual Items that have been acquired by the redemption of Virtual Currency or Micro-Game Credits may expire after a period of time, which by default shall be twelve months from acquisition. In addition, Items may have particular restrictions, or be consumed or extinguished in the course of your use of Jagex Products.
 
-Jagex reserves the right to restrict access to or delete virtual Items: (1) if you have misused the Items or breached any of these terms and conditions. (2) if the Items were purchased using virtual currency awarded in error. or (3) if a payment for virtual currency used to purchase the Items is charged back or otherwise cancelled or reversed. In addition, virtual Items that have been acquired by the redemption of virtual currency may expire after a period of time, which by default shall be twelve months from acquisition. In addition, Items may have particular restrictions, or be consumed or extinguished in the course of your use of Jagex Products.
+We may at any time decide to end in part or its entirety the Virtual Currency or Micro-Game Credits and Items program for all or any of our Jagex Products. Before we delete the unused Virtual Currency or Micro-Game Credits, we will endeavour to contact you to give at least four weeks to redeem them.
 
-We may at any time decide to end the entire virtual currency and Items program for all or any of our Jagex Products. Before we delete the unused virtual currency, we will endeavour to give you at least four weeks to redeem it.
+1.  **RuneScape Bonds**
+    
+    Within the Jagex Product RuneScape, users can purchase a RuneScape Bond from Jagex. If you obtain a RuneScape Bond from Jagex, you must check that it has been correctly credited to your account and tell us immediately if not.
+    
+    RuneScape Bonds can be redeemed (i.e. used) to acquire RuneScape membership, Virtual Currency and/or Micro-Game Credits. we describe these collectively as "Redemption Items", Alternatively, RuneScape Bonds can be traded in-game with other users in return for virtual items. More information about RuneScape Bonds can be found here.
+    
+    PLEASE TAKE NOTE that RuneScape Bonds are subject to very important restrictions:
+    
+    RuneScape Bonds can only be traded and redeemed within RuneScape.
+    
+    We may at any time change or remove any Redemption Items which can be purchased using a RuneScape Bond, as well as change the amount of the RuneScape Bond needed to acquire a particular Redemption Item. You may only redeem the RuneScape Bond for Redemption Items on offer at the time of redemption.
+    
+    RuneScape Bonds: (i) do not constitute a real world balance or reflect stored monetary value. (ii) cannot be redeemed for real world money, goods or any other items with monetary value, and cannot be inherited. and (iii) are not your own private property. A RuneScape Bond is a measurement of the extent of your license in a Jagex Product.
+    
+    We do not provide any cash or refunds for RuneScape Bonds (except as required by law). We may impose additional restrictions concerning the acquisition or redemption of RuneScape Bonds. For example we may cap the amount of RuneScape Bonds which can be acquired or held or redeemed in any particular period or we may impose restrictions based on your country of residence.
+    
+    Jagex reserves the right to restrict access to, delete, reduce or liquidate RuneScape Bonds: (1) if you have misused the RuneScape Bond or breached any of these terms and conditions. (2) if the RuneScape Bond was awarded in error. (3) if a payment for a RuneScape Bond is charged back or otherwise cancelled or reversed. or (4) if you have used RuneScape Bonds to conduct any fraudulent or illegal activity.
+    
+    Jagex reserves the right to restrict access to or delete Redemption Items: (1) if you have misused the Redemption Items or breached any of these terms and conditions. (2) if the Redemption Items were purchased using RuneScape Bonds awarded in error. or (3) if a payment for RuneScape Bonds used to purchase Redemption Items is charged back or otherwise cancelled or reversed. In addition, Redemption Items that have been acquired by the redemption of RuneScape Bonds may expire after a period of time, which by default shall be twelve months from acquisition.
+    
+    Redemption Items may have particular restrictions, or be consumed or extinguished in the course of your use of Jagex Products.
+    
+    We may at any time decide to end part of or the entirety of the RuneScape Bond program for all or any of our Jagex Products. Before we delete the unused RuneScape Bond, we will endeavour to contact you to give you at least four weeks to redeem it.
+    
+    If your account for a Jagex Product remains dormant (i.e. is not used) for more than 12 months, and there is unredeemed Virtual Currency, Micro-Game Credits or RuneScape Bonds associated with your account, we may choose to credit your account with Items of equivalent value for this expired Virtual Currency, Micro-Game Credits or RuneScape Bonds.  We will endeavour to contact you by email prior to such action being taken.
+    
 
 15\. Refund policy
 
 We are happy to review requests for refunds on a case by case basis. However, refunds are not always possible to give for many reasons.
 
-Unless required by law, we will not refund any amounts paid in relation to subscriptions, in-game activities, virtual items or virtual currency when:
+Unless required by law, we will not refund any amounts paid in relation to subscriptions, macro-game activities, RuneScape Bonds, virtual items or virtual currency when:
 
 *   You have been the victim of in-game scamming, as there are many warnings about avoiding this on the Jagex Products (however, we will do everything we reasonably can to assist you to recover your accounts).
 *   You have been banned from a Jagex Product for violating these terms and conditions, any Rules of a Jagex Product or the user content policy.
