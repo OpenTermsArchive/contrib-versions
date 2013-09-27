@@ -1,5 +1,3 @@
-Access Email using the XFINITY Mobile app Â»
-
 Come here often? Make XFINITY.com your homepage Â» close
 
 Your complete guide to the 2012 Summer Olympics. Every minute. Every Medal. Every Screen. Go Now close
@@ -31,7 +29,8 @@ XFINITY
     *   Streampix
     *   Live TV
     *   DVR Manager
-    *   More...
+    *   Sports on TV
+    *   Even more...
 
 *   Shop/Upgrade
 *   My Account
