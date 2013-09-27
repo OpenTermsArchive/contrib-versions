@@ -8,98 +8,98 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   can't not have the theme I've set on my old account.
-    *   by fungyeeho
-    *   5 days ago
-    *   in Themes
+*   I was a backer during fundraising. Help.
+    *   by lcykelvin
+    *   1 hour ago
+    *   in Data Migration
     *   0 votes
-    *   7 (last comment by Rachie19 2 hours ago)
+    *   0
+*   Plx help me find my old posts
+    *   \[Resolved\] by con\_noodle
+    *   21 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by con\_noodle 1 hour ago)
+*   I hope it's not too late to gain access to my blog
+    *   \[Resolved\] by B\_JeWeL
+    *   6 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by john 4 hours ago)
+*   Request to delete my account
+    *   by moscreations
+    *   1 day ago
+    *   in Miscellaenous
+    *   0 votes
+    *   4 (last comment by La\_BxGURL\_4ever 5 hours ago)
+*   need old pictures
+    *   \[Resolved\] by lindadoo
+    *   8 hours ago
+    *   in Pictures
+    *   0 votes
+    *   1 (last comment by john 8 hours ago)
+*   posting?
+    *   \[Resolved\] by BettyC
+    *   15 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by john 10 hours ago)
+*   How to read xml files
+    *   \[Resolved\] by Yangyang\_Waiwai
+    *   13 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by john 10 hours ago)
+*   my blog disappears
+    *   \[Resolved\] by just\_feel\_lonely
+    *   10 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by john 10 hours ago)
 *   Deleting My Account
     *   \[Resolved\] by Omgwtf\_St
     *   2 weeks ago
     *   in Miscellaenous
     *   0 votes
-    *   14 (last comment by Omgwtf\_St 3 hours ago)
+    *   15 (last comment by xangpastor 12 hours ago)
 *   I would like my previous blog format/theme.
-    *   by Mr\_Turniphead
-    *   3 hours ago
+    *   \[Resolved\] by Mr\_Turniphead
+    *   1 day ago
     *   in Themes
     *   0 votes
+    *   1 (last comment by john 16 hours ago)
+*   Question about xanga2.0
+    *   \[Resolved\] by loylai906
+    *   22 hours ago
+    *   in Following
+    *   0 votes
+    *   1 (last comment by john 16 hours ago)
+*   i can't find my xanga blog
+    *   \[Resolved\] by yiptszfai1986
+    *   22 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by john 16 hours ago)
+*   我想找回我的博客
+    *   by uddg811
+    *   18 hours ago
+    *   in Data Migration
+    *   0 votes
     *   0
-*   Request to delete my account
-    *   by moscreations
-    *   9 hours ago
-    *   in Miscellaenous
-    *   0 votes
-    *   2 (last comment by moscreations 7 hours ago)
-*   how to find my blog ><.
-    *   \[Resolved\] by ciping
-    *   11 hours ago
+*   Still don't have the last part
+    *   \[Resolved\] by thebusyvegan
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by john 10 hours ago)
-*   My site is coming up 404 want premium site
-    *   \[Resolved\] by Dodie
-    *   10 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by john 10 hours ago)
-*   everything is gone.
-    *   \[Resolved\] by singingfrk7
+    *   2 (last comment by thebusyvegan 19 hours ago)
+*   Lost my blog
+    *   by EclipxeNightx3
     *   3 weeks ago
-    *   in Data Migration
+    *   in Themes
     *   0 votes
-    *   1 (last comment by john 13 hours ago)
-*   Would like to donate to get back old blog
-    *   \[Resolved\] by marconiko
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by john 13 hours ago)
-*   my blog disappears
-    *   \[Resolved\] by My\_best
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by john 13 hours ago)
-*   My blog disappear
-    *   \[Resolved\] by Black\_Billy
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by john 13 hours ago)
-*   Blog disappeared
-    *   \[Resolved\] by sikwai0412
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by john 13 hours ago)
-*   My blog disappearred x N
-    *   \[Resolved\] by New\_ballball1986
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by john 13 hours ago)
-*   all has gone
-    *   \[Resolved\] by wrinky
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by john 13 hours ago)
-*   Blog Not Found
-    *   \[Resolved\] by RenegadeRunner
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by john 15 hours ago)
-*   blog is gone
-    *   \[Resolved\] by blackrose9
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by john 15 hours ago)
+    *   7 (last comment by pingubell 23 hours ago)
 
-1 2 3 ... 87 Next
+1 2 3 ... 88 Next
 
 Help Categories
 
