@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Bainbridge striders wants to close its Xanga account
+    *   by bainbridgestriders
+    *   1 hour ago
+    *   in Miscellaenous
+    *   0 votes
+    *   0
+*   Lost my blog——uddg811
+    *   by uddg811
+    *   1 hour ago
+    *   in Themes
+    *   0 votes
+    *   0
+*   My blog is gone, and I can't start writing my blog, how can it be retreive?.
+    *   by cutehandy23
+    *   13 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by cutehandy23 13 hours ago)
+*   Can I reopen my xanga site?
+    *   by tarot\_phoe
+    *   2 days ago
+    *   in Passwords &. Sign-In
+    *   0 votes
+    *   2 (last comment by tarot\_phoe 15 hours ago)
+*   How to restore my own site?
+    *   by hannah615
+    *   19 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   all's gone..
+    *   by cheerie16
+    *   19 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   can't find anything..
+    *   by rikugurl
+    *   19 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Please help!
+    *   by HaleyTran
+    *   22 hours ago
+    *   in Themes
+    *   0 votes
+    *   0
+*   I didn't have subscribers because my blog was private. Is it gone now forever?
+    *   \[Resolved\] by Cluim
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   4 (last comment by tina\_als\_girl 23 hours ago)
 *   Please delete my account.
     *   by lifeguardnboi
-    *   7 hours ago
+    *   1 day ago
     *   in Privacy
     *   0 votes
     *   0
 *   How do I delete my blog?
     *   by Pysia89
-    *   8 hours ago
+    *   1 day ago
     *   in Privacy
     *   0 votes
     *   0
-*   I didn't have subscribers because my blog was private. Is it gone now forever?
-    *   \[Resolved\] by Cluim
-    *   6 days ago
-    *   in Data Migration
-    *   0 votes
-    *   3 (last comment by quetallchicago 10 hours ago)
 *   Cannot find my old post
     *   by hwc\_dennis
-    *   10 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can i get bank my old posts
     *   by letsgotravelling
-    *   11 hours ago
+    *   1 day ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   PLEASE HELP
     *   by momofjenmatt
-    *   12 hours ago
+    *   1 day ago
     *   in Themes
     *   0 votes
     *   0
 *   WHY CANT I GET MY JOURNAL BACK
     *   by BlackRosesInMyHeart
-    *   13 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Please help
-    *   by Relyu
-    *   14 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Posting to my blog
-    *   by NormallyInsane
-    *   15 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Personal Url Not Transfered
-    *   by pdvossen
-    *   2 weeks ago
-    *   in Personal URLs
-    *   0 votes
-    *   1 (last comment by christao408 16 hours ago)
-*   Retrieving Deleted Entries
-    *   by tspmachina
-    *   1 day ago
-    *   in Miscellaenous
-    *   0 votes
-    *   2 (last comment by tspmachina 23 hours ago)
-*   Request to delete my account
-    *   by moscreations
-    *   3 days ago
-    *   in Miscellaenous
-    *   0 votes
-    *   6 (last comment by justpearl79 1 day ago)
-*   Accessing old blog and media files
-    *   by Hoobastank\_Luva
     *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
-*   Lost my blog
-    *   by EclipxeNightx3
-    *   3 weeks ago
-    *   in Themes
-    *   0 votes
-    *   8 (last comment by to\_be\_creative 1 day ago)
-*   Blog Data Retrieve?
-    *   \[Resolved\] by joyjoye
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by john 1 day ago)
 
 1 2 3 ... 89 Next
 
