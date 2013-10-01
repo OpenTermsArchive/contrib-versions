@@ -8,52 +8,88 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Bainbridge striders wants to close its Xanga account
-    *   by bainbridgestriders
+*   my blog
+    *   by bluestars81
     *   1 hour ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Huh? THIS is Premium?
+    *   by stressielu
+    *   3 hours ago
+    *   in Premium
+    *   0 votes
+    *   0
+*   Retrieving Deleted Entries
+    *   by tspmachina
+    *   3 days ago
     *   in Miscellaenous
     *   0 votes
-    *   0
-*   Lost my blog——uddg811
-    *   by uddg811
-    *   1 hour ago
-    *   in Themes
-    *   0 votes
-    *   0
-*   My blog is gone, and I can't start writing my blog, how can it be retreive?.
-    *   by cutehandy23
-    *   13 hours ago
+    *   3 (last comment by john 6 hours ago)
+*   Can i get bank my old posts
+    *   \[Resolved\] by letsgotravelling
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by cutehandy23 13 hours ago)
+    *   1 (last comment by john 11 hours ago)
+*   can't find anything..
+    *   \[Resolved\] by rikugurl
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by john 11 hours ago)
+*   Cannot find my old post
+    *   \[Resolved\] by hwc\_dennis
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by john 11 hours ago)
+*   Please help!
+    *   \[Resolved\] by HaleyTran
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by john 11 hours ago)
+*   How to restore my own site?
+    *   \[Resolved\] by hannah615
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by john 13 hours ago)
 *   Can I reopen my xanga site?
     *   by tarot\_phoe
-    *   2 days ago
+    *   3 days ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   2 (last comment by tarot\_phoe 15 hours ago)
-*   How to restore my own site?
-    *   by hannah615
-    *   19 hours ago
+    *   3 (last comment by john 13 hours ago)
+*   My blog is gone, and I can't start writing my blog, how can it be retreive?.
+    *   \[Resolved\] by cutehandy23
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   0
+    *   2 (last comment by john 13 hours ago)
 *   all's gone..
-    *   by cheerie16
+    *   \[Resolved\] by cheerie16
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by john 13 hours ago)
+*   Lost my blog——uddg811
+    *   \[Resolved\] by uddg811
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by john 13 hours ago)
+*   old blog still not viewable
+    *   by jackylam1991
     *   19 hours ago
     *   in Data Migration
     *   0 votes
     *   0
-*   can't find anything..
-    *   by rikugurl
-    *   19 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Please help!
-    *   by HaleyTran
-    *   22 hours ago
-    *   in Themes
+*   Bainbridge striders wants to close its Xanga account
+    *   by bainbridgestriders
+    *   1 day ago
+    *   in Miscellaenous
     *   0 votes
     *   0
 *   I didn't have subscribers because my blog was private. Is it gone now forever?
@@ -61,45 +97,9 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by tina\_als\_girl 23 hours ago)
-*   Please delete my account.
-    *   by lifeguardnboi
-    *   1 day ago
-    *   in Privacy
-    *   0 votes
-    *   0
-*   How do I delete my blog?
-    *   by Pysia89
-    *   1 day ago
-    *   in Privacy
-    *   0 votes
-    *   0
-*   Cannot find my old post
-    *   by hwc\_dennis
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Can i get bank my old posts
-    *   by letsgotravelling
-    *   1 day ago
-    *   in Passwords &. Sign-In
-    *   0 votes
-    *   0
-*   PLEASE HELP
-    *   by momofjenmatt
-    *   1 day ago
-    *   in Themes
-    *   0 votes
-    *   0
-*   WHY CANT I GET MY JOURNAL BACK
-    *   by BlackRosesInMyHeart
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   0
+    *   4 (last comment by tina\_als\_girl 1 day ago)
 
-1 2 3 ... 89 Next
+1 2 3 ... 90 Next
 
 Help Categories
 
