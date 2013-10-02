@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   my blog
-    *   by bluestars81
-    *   1 hour ago
+*   I can't post a thing because I didn't contributed or became a premium.
+    *   by Die\_Silhouette
+    *   3 hours ago
     *   in Data Migration
     *   0 votes
     *   0
+*   i am FREAKING out...
+    *   by safariblossom
+    *   4 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   I need to retrieve an old post
+    *   by bam\_bam\_blondie
+    *   6 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   my blog
+    *   \[Resolved\] by bluestars81
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by john 10 hours ago)
+*   nothing here
+    *   \[Resolved\] by Hei1016
+    *   15 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by john 10 hours ago)
+*   How to restore my old pictures ??
+    *   \[Resolved\] by lleoaini
+    *   12 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by john 10 hours ago)
+*   Old Javascript code
+    *   by herzog3000
+    *   1 week ago
+    *   in Themes
+    *   0 votes
+    *   2 (last comment by herzog3000 11 hours ago)
+*   My Blog is Missing
+    *   \[Resolved\] by lilpimptressg
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by lilpimptressg 12 hours ago)
+*   reverse charge or delete account
+    *   by kumo9
+    *   20 hours ago
+    *   in Premium
+    *   0 votes
+    *   0
+*   Can I reopen my xanga site?
+    *   by tarot\_phoe
+    *   4 days ago
+    *   in Passwords &. Sign-In
+    *   0 votes
+    *   4 (last comment by tarot\_phoe 21 hours ago)
 *   Huh? THIS is Premium?
     *   by stressielu
-    *   3 hours ago
+    *   1 day ago
     *   in Premium
     *   0 votes
     *   0
 *   Retrieving Deleted Entries
     *   by tspmachina
-    *   3 days ago
+    *   4 days ago
     *   in Miscellaenous
     *   0 votes
-    *   3 (last comment by john 6 hours ago)
+    *   3 (last comment by john 1 day ago)
 *   Can i get bank my old posts
     *   \[Resolved\] by letsgotravelling
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by john 11 hours ago)
+    *   1 (last comment by john 1 day ago)
 *   can't find anything..
     *   \[Resolved\] by rikugurl
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by john 11 hours ago)
-*   Cannot find my old post
-    *   \[Resolved\] by hwc\_dennis
     *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by john 11 hours ago)
-*   Please help!
-    *   \[Resolved\] by HaleyTran
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by john 11 hours ago)
-*   How to restore my own site?
-    *   \[Resolved\] by hannah615
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by john 13 hours ago)
-*   Can I reopen my xanga site?
-    *   by tarot\_phoe
+    *   1 (last comment by john 1 day ago)
+*   Cannot find my old post
+    *   \[Resolved\] by hwc\_dennis
     *   3 days ago
-    *   in Passwords &. Sign-In
-    *   0 votes
-    *   3 (last comment by john 13 hours ago)
-*   My blog is gone, and I can't start writing my blog, how can it be retreive?.
-    *   \[Resolved\] by cutehandy23
-    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by john 13 hours ago)
-*   all's gone..
-    *   \[Resolved\] by cheerie16
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by john 13 hours ago)
-*   Lost my blog——uddg811
-    *   \[Resolved\] by uddg811
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by john 13 hours ago)
-*   old blog still not viewable
-    *   by jackylam1991
-    *   19 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Bainbridge striders wants to close its Xanga account
-    *   by bainbridgestriders
-    *   1 day ago
-    *   in Miscellaenous
-    *   0 votes
-    *   0
-*   I didn't have subscribers because my blog was private. Is it gone now forever?
-    *   \[Resolved\] by Cluim
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   4 (last comment by tina\_als\_girl 1 day ago)
+    *   1 (last comment by john 1 day ago)
 
 1 2 3 ... 90 Next
 
