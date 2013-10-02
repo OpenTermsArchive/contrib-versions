@@ -1,4 +1,4 @@
-Bearshate End User License Agreement  
+Bearshare End User License Agreement  
 
 Effective as of November 11, 2009
 
