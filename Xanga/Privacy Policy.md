@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   I can't post a thing because I didn't contributed or became a premium.
-    *   by Die\_Silhouette
-    *   3 hours ago
-    *   in Data Migration
+*   I still can not see any of blogs.
+    *   by xXtsukikkoXx
+    *   24 minutes ago
+    *   in Getting Started
     *   0 votes
     *   0
-*   i am FREAKING out...
-    *   by safariblossom
-    *   4 hours ago
-    *   in Data Migration
+*   Theme customization asap!
+    *   \[Resolved\] by LoVe\_ChRoNiClE\_05
+    *   5 days ago
+    *   in Themes
     *   0 votes
-    *   0
-*   I need to retrieve an old post
-    *   by bam\_bam\_blondie
+    *   2 (last comment by YHWH\_Warrior\_love\_Torah 5 hours ago)
+*   Please help me find my old posts
+    *   by teemmutlovers
     *   6 hours ago
     *   in Data Migration
     *   0 votes
     *   0
-*   my blog
-    *   \[Resolved\] by bluestars81
-    *   1 day ago
+*   were my private posts saved too??
+    *   \[Resolved\] by pInkBuBBlegrl02
+    *   6 hours ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by john 10 hours ago)
-*   nothing here
-    *   \[Resolved\] by Hei1016
-    *   15 hours ago
-    *   in Data Migration
+    *   1 (last comment by john 6 hours ago)
+*   Lost lots of image from the old Xanga
+    *   \[Resolved\] by fungyeeho
+    *   1 week ago
+    *   in Pictures
     *   0 votes
-    *   1 (last comment by john 10 hours ago)
-*   How to restore my old pictures ??
-    *   \[Resolved\] by lleoaini
-    *   12 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by john 10 hours ago)
-*   Old Javascript code
-    *   by herzog3000
+    *   5 (last comment by fungyeeho 6 hours ago)
+*   can't not have the theme I've set on my old account.
+    *   by fungyeeho
     *   1 week ago
     *   in Themes
     *   0 votes
-    *   2 (last comment by herzog3000 11 hours ago)
-*   My Blog is Missing
-    *   \[Resolved\] by lilpimptressg
-    *   1 week ago
+    *   8 (last comment by fungyeeho 6 hours ago)
+*   PLEASE HELP
+    *   \[Resolved\] by momofjenmatt
+    *   4 days ago
+    *   in Themes
+    *   0 votes
+    *   1 (last comment by john 14 hours ago)
+*   where is my old post? where can i find them....... :(
+    *   \[Resolved\] by codi1010
+    *   14 hours ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by lilpimptressg 12 hours ago)
-*   reverse charge or delete account
-    *   by kumo9
-    *   20 hours ago
-    *   in Premium
-    *   0 votes
-    *   0
-*   Can I reopen my xanga site?
-    *   by tarot\_phoe
-    *   4 days ago
-    *   in Passwords &. Sign-In
-    *   0 votes
-    *   4 (last comment by tarot\_phoe 21 hours ago)
+    *   1 (last comment by john 14 hours ago)
 *   Huh? THIS is Premium?
-    *   by stressielu
-    *   1 day ago
+    *   \[Resolved\] by stressielu
+    *   2 days ago
     *   in Premium
     *   0 votes
-    *   0
-*   Retrieving Deleted Entries
-    *   by tspmachina
-    *   4 days ago
-    *   in Miscellaenous
-    *   0 votes
-    *   3 (last comment by john 1 day ago)
-*   Can i get bank my old posts
-    *   \[Resolved\] by letsgotravelling
-    *   3 days ago
+    *   1 (last comment by john 15 hours ago)
+*   I need to retrieve an old post
+    *   \[Resolved\] by bam\_bam\_blondie
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by john 1 day ago)
-*   can't find anything..
-    *   \[Resolved\] by rikugurl
-    *   2 days ago
+    *   1 (last comment by john 15 hours ago)
+*   i am FREAKING out...
+    *   \[Resolved\] by safariblossom
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by john 1 day ago)
-*   Cannot find my old post
-    *   \[Resolved\] by hwc\_dennis
-    *   3 days ago
+    *   1 (last comment by john 15 hours ago)
+*   I can't post a thing because I didn't contributed or became a premium.
+    *   \[Resolved\] by Die\_Silhouette
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by john 1 day ago)
+    *   1 (last comment by john 15 hours ago)
+*   Old user name in new site
+    *   \[Resolved\] by rosepetaltea
+    *   23 hours ago
+    *   in Themes
+    *   0 votes
+    *   1 (last comment by john 15 hours ago)
+*   what happened to my site
+    *   \[Resolved\] by Rafiqh
+    *   22 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by john 15 hours ago)
+*   Cannot import Xanga archives files
+    *   \[Resolved\] by Toson88
+    *   15 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by john 15 hours ago)
 
 1 2 3 ... 90 Next
 
