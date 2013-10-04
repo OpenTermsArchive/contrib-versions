@@ -1,4 +1,4 @@
-Effective Date: 20th February, 2013
+Effective Date: 26th September, 2013
 
 Terms &. Conditions
 
@@ -273,7 +273,7 @@ If you are dissatisfied with this website or any aspect of it, please contact us
 
   
 
-Effective Date: 20th February, 2013
+Effective Date: 26th September, 2013
 
 Terms &. Conditions
 
