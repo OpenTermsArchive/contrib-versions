@@ -1,6 +1,6 @@
 Business Terms of Use (USA)
 
-Table of contents:
+Business Terms of Use (USA) Table of contents:
 
 1.  Definitions
 2.  Emergency Calls
