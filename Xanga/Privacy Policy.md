@@ -8,9 +8,57 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Was a contributor but data did not migrate
+    *   by kraiZee
+    *   5 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   migration help
+    *   by dm\_xXlostinyoureyesXx\_ac
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by dm\_xXlostinyoureyesXx\_ac 7 hours ago)
+*   OLD POSTS
+    *   \[Resolved\] by kittybopo
+    *   1 day ago
+    *   in Premium
+    *   0 votes
+    *   1 (last comment by john 11 hours ago)
+*   Old user name in new site
+    *   \[Resolved\] by rosepetaltea
+    *   2 days ago
+    *   in Themes
+    *   0 votes
+    *   4 (last comment by john 11 hours ago)
+*   My posts aren't there!!!
+    *   \[Resolved\] by lausharon
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by john 12 hours ago)
+*   Where's my account???
+    *   \[Resolved\] by JOYCEdPISSEDOFFCHICK
+    *   23 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by john 12 hours ago)
+*   can't make posts
+    *   \[Resolved\] by miyaonaise
+    *   20 hours ago
+    *   in Themes
+    *   0 votes
+    *   1 (last comment by john 12 hours ago)
+*   PLEASE HELP
+    *   \[Resolved\] by momofjenmatt
+    *   6 days ago
+    *   in Themes
+    *   0 votes
+    *   2 (last comment by fungyeeho 14 hours ago)
 *   Please delete my account!
     *   by XxNiNixX
-    *   5 hours ago
+    *   1 day ago
     *   in Miscellaenous
     *   0 votes
     *   0
@@ -19,85 +67,37 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   6 (last comment by cuteppsc 11 hours ago)
-*   My posts aren't there!!!
-    *   by lausharon
-    *   12 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   migration help
-    *   by dm\_xXlostinyoureyesXx\_ac
-    *   12 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
+    *   6 (last comment by cuteppsc 1 day ago)
 *   Please Delete My Account
     *   by hopeburnsbright
-    *   13 hours ago
+    *   1 day ago
     *   in Privacy
     *   0 votes
     *   0
 *   Paid $48 in fundraising period and did not migrate to xanga 2.0
     *   by cool\_shinichi
-    *   13 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Paid for an account did not migrate to 2.0
     *   by feliciachiou
-    *   14 hours ago
+    *   1 day ago
     *   in Data Migration
-    *   0 votes
-    *   0
-*   OLD POSTS
-    *   by kittybopo
-    *   14 hours ago
-    *   in Premium
     *   0 votes
     *   0
 *   Lost of images uploaded after July, as well as incomplete archive.
     *   by Isabella\_Cheng
-    *   17 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   over charge of membership
     *   by christy0321
-    *   21 hours ago
+    *   1 day ago
     *   in Premium
     *   0 votes
     *   0
-*   I still can not see any of blogs.
-    *   by xXtsukikkoXx
-    *   1 day ago
-    *   in Getting Started
-    *   0 votes
-    *   0
-*   Theme customization asap!
-    *   \[Resolved\] by LoVe\_ChRoNiClE\_05
-    *   6 days ago
-    *   in Themes
-    *   0 votes
-    *   2 (last comment by YHWH\_Warrior\_love\_Torah 1 day ago)
-*   Please help me find my old posts
-    *   by teemmutlovers
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   were my private posts saved too??
-    *   \[Resolved\] by pInkBuBBlegrl02
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by john 1 day ago)
-*   Lost lots of image from the old Xanga
-    *   \[Resolved\] by fungyeeho
-    *   1 week ago
-    *   in Pictures
-    *   0 votes
-    *   5 (last comment by fungyeeho 1 day ago)
 
 1 2 3 ... 91 Next
 
