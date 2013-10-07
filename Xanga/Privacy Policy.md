@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   paid my money and got nothing
-    *   by lchimm
-    *   8 hours ago
+*   Deleting account
+    *   by ANYIDEAS
+    *   56 minutes ago
+    *   in Usernames
+    *   0 votes
+    *   0
+*   Old user name in new site
+    *   \[Resolved\] by rosepetaltea
+    *   4 days ago
+    *   in Themes
+    *   0 votes
+    *   5 (last comment by rosepetaltea 1 hour ago)
+*   Why are my posts not showing
+    *   by regdon70
+    *   2 hours ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by beesuze 4 hours ago)
+    *   0
+*   HELP format off. titles don't have entries
+    *   by pearlbamboo
+    *   3 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Still waiting...
+    *   by SeeBeeWrite
+    *   15 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   paid my money and got nothing
+    *   by lchimm
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by beesuze 1 day ago)
 *   Retrieving old posts?
     *   by kmgeekintraining
-    *   4 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old info in a widget
     *   by rccalyn
-    *   9 hours ago
+    *   1 day ago
     *   in Themes
     *   0 votes
     *   0
 *   This is not what I had expected
     *   by quest4god
-    *   22 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Was a contributor but data did not migrate
     *   by kraiZee
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   migration help
     *   by dm\_xXlostinyoureyesXx\_ac
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by dm\_xXlostinyoureyesXx\_ac 1 day ago)
+    *   2 (last comment by dm\_xXlostinyoureyesXx\_ac 2 days ago)
 *   OLD POSTS
     *   \[Resolved\] by kittybopo
-    *   2 days ago
+    *   3 days ago
     *   in Premium
     *   0 votes
-    *   1 (last comment by john 1 day ago)
-*   Old user name in new site
-    *   \[Resolved\] by rosepetaltea
-    *   3 days ago
-    *   in Themes
-    *   0 votes
-    *   4 (last comment by john 1 day ago)
+    *   1 (last comment by john 2 days ago)
 *   My posts aren't there!!!
     *   \[Resolved\] by lausharon
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by john 1 day ago)
+    *   1 (last comment by john 2 days ago)
 *   Where's my account???
     *   \[Resolved\] by JOYCEdPISSEDOFFCHICK
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by john 1 day ago)
+    *   1 (last comment by john 2 days ago)
 *   can't make posts
     *   \[Resolved\] by miyaonaise
-    *   1 day ago
+    *   2 days ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by john 1 day ago)
-*   PLEASE HELP
-    *   \[Resolved\] by momofjenmatt
-    *   1 week ago
-    *   in Themes
-    *   0 votes
-    *   2 (last comment by fungyeeho 1 day ago)
-*   Please delete my account!
-    *   by XxNiNixX
-    *   2 days ago
-    *   in Miscellaenous
-    *   0 votes
-    *   0
-*   where is my pictures???
-    *   by cuteppsc
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   6 (last comment by cuteppsc 2 days ago)
-*   Please Delete My Account
-    *   by hopeburnsbright
-    *   2 days ago
-    *   in Privacy
-    *   0 votes
-    *   0
+    *   1 (last comment by john 2 days ago)
 
 1 2 3 ... 92 Next
 
