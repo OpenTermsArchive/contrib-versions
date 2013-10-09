@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Retrieving old posts?
-    *   \[Resolved\] by kmgeekintraining
-    *   2 days ago
+*   Unable to upgarde.
+    *   by litbiXD
+    *   27 minutes ago
+    *   in Themes
+    *   0 votes
+    *   0
+*   I want this account deleted ASAP!
+    *   by InsideoutXAndXBackwards
+    *   1 hour ago
+    *   in Passwords &. Sign-In
+    *   0 votes
+    *   0
+*   Do I really have to spend?
+    *   by EroneousMonk
+    *   2 hours ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by TheDarkFeather 1 hour ago)
+    *   0
+*   Posts not archived ;(
+    *   by Bibitan\_Vivi
+    *   2 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   where is my old posts?
+    *   \[Resolved\] by spy1989
+    *   9 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by jeanxbeanx 6 hours ago)
+*   I can't archive my blogthis is memory
+    *   by amy\_maru
+    *   7 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Retrieving old posts?
+    *   \[Resolved\] by kmgeekintraining
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   3 (last comment by TheDarkFeather 1 day ago)
 *   Trying to retrieve old blog posts
     *   by weathered0524
-    *   7 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   is there any apps on andriod or ios of xanga
     *   \[Resolved\] by www128
-    *   10 hours ago
+    *   1 day ago
     *   in Miscellaenous
     *   0 votes
-    *   1 (last comment by john 10 hours ago)
+    *   1 (last comment by john 1 day ago)
 *   some data migrated became random code
     *   by www128
-    *   11 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by john 11 hours ago)
-*   the protected post became privacy
-    *   \[Resolved\] by www128
-    *   11 hours ago
-    *   in Privacy
-    *   0 votes
-    *   1 (last comment by john 11 hours ago)
-*   Was a contributor but data did not migrate
-    *   by kraiZee
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by john 11 hours ago)
-*   Old info in a widget
-    *   \[Resolved\] by rccalyn
-    *   2 days ago
-    *   in Themes
-    *   0 votes
-    *   1 (last comment by john 11 hours ago)
-*   Why are my posts not showing
-    *   \[Resolved\] by regdon70
     *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by john 13 hours ago)
+    *   1 (last comment by john 1 day ago)
+*   the protected post became privacy
+    *   \[Resolved\] by www128
+    *   1 day ago
+    *   in Privacy
+    *   0 votes
+    *   1 (last comment by john 1 day ago)
+*   Was a contributor but data did not migrate
+    *   by kraiZee
+    *   4 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by john 1 day ago)
+*   Old info in a widget
+    *   \[Resolved\] by rccalyn
+    *   3 days ago
+    *   in Themes
+    *   0 votes
+    *   1 (last comment by john 1 day ago)
+*   Why are my posts not showing
+    *   \[Resolved\] by regdon70
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by john 1 day ago)
 *   Importing on Wordpress doesn't work
     *   \[Resolved\] by iC3creambebe
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by john 13 hours ago)
-*   Deleting My Account
-    *   \[Resolved\] by Omgwtf\_St
-    *   3 weeks ago
-    *   in Miscellaenous
-    *   0 votes
-    *   16 (last comment by sincerely\_elise 14 hours ago)
-*   Deleting account
-    *   by ANYIDEAS
-    *   1 day ago
-    *   in Usernames
-    *   0 votes
-    *   0
-*   Old user name in new site
-    *   \[Resolved\] by rosepetaltea
-    *   5 days ago
-    *   in Themes
-    *   0 votes
-    *   5 (last comment by rosepetaltea 1 day ago)
-*   HELP format off. titles don't have entries
-    *   by pearlbamboo
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Still waiting...
-    *   by SeeBeeWrite
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   paid my money and got nothing
-    *   by lchimm
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by beesuze 2 days ago)
+    *   2 (last comment by john 1 day ago)
 
 1 2 3 ... 92 Next
 
