@@ -45,7 +45,7 @@ XING operates XING services under various top-level domains (xing.com, xing.de e
 
 These GTC shall govern the contract relationship between the User and XING, irrespective of which XING Website the User is registered with or logged on to.
 
-The User enters into this agreement on the use of XING Services with XING AG, Dammtorstr. 29-32, 20354 Hamburg. Additional contact information, commercial registry data, as well as the name of the authorized representative of XING AG can be found under “About this site”.
+The User enters into this agreement on the use of XING Services with XING AG, Dammtorstraße 29-32, 20354 Hamburg. Additional contact information, commercial registry data, as well as the name of the authorized representative of XING AG can be found under “About this site”.
 
 The services provided by XING are intended exclusively for persons of legal age.
 
@@ -142,7 +142,7 @@ Use any insulting or defamatory contents, regardless of whether said contents ar
 
 Use any pornographic or violence-glorifying materials or any contents that violate any applicable legislation for the protection of minors. or advertise or promote, offer or distribute any pornographic or violence-glorifying product or products which do not comply with any applicable legislation for the protection of minors
 
-Unreasonably annoy (particularly with spam) any other user (cf. §7 of the German Unfair Competition Act)
+Unreasonably annoy (particularly with spam) any other user (cf. section 7 of the German Unfair Competition Act)
 
 Use without authorization any contents protected by law (e.g. by copyright, trademark, patent, utility patent, or design patent laws), or advertise, promote, offer or distribute any goods or services protected by law.
 
@@ -244,16 +244,18 @@ The aforementioned obligations shall not apply to the extent the User is not res
 XING recognizes that any data provided by the User to XING is extremely important to the User, and XING shall therefore be particularly sensitive in handling such data. XING shall comply with all applicable legal provisions regarding data protection (German Data Protection Laws, European Data Protection Directives and any other applicable data protection legislation). In particular, XING shall not provide or otherwise disclose any personal data of the User to any third party without authorization. Details on XING's treatment of the User's data are set forth in the Data Protection Policy of XING accessible from each of the XING Websites.
 
    
-12\. Final Provisions
+12\. Contractual Amendments, Price Changes, Final Provisions
 
 **12.1** XING reserves the right to amend these GTC at any time, without giving reasons, unless an amendment is unreasonable to the User. XING shall give due notice of any amendments of these GTC to the User. If the User does not object to the applicability of the revised GTC within six (6) weeks after receipt of said notice, the amended GTC shall be deemed to be accepted by the User. XING shall inform the User about the User's right to object and of the relevance of the objection deadline in said notice.
 
-**12.2** Unless otherwise stated in these GTC, the User may submit all notices to XING using the contact form provided on each of the XING Websites, or by letter or fax. XING may send notices to the User by email, fax or post to the addresses given in the User’s current contact data in his or her user account.
+**12.2** XING reserves the right to adequately increase the price of Premium Membership at most once per calendar year with effect from the start of a new renewal period following either the minimum usage period or the respective current renewal period. In such cases, XING will notify users accordingly at least six (6) weeks before the end of the minimum usage period or the respective current renewal period. If the User does not consent to this price increase, he or she can revoke it via the contact form, letter, fax or e-mail within three (3) weeks. Revoking the price increase is equivalent to the User cancelling his or her Premium Membership as of the end of his or her current minimum usage period.
 
-**12.3** If any provision of these GTC is, for any reason, invalid and/or unenforceable, the remaining provisions shall continue to be valid and enforceable to the fullest extent permitted by law.
+**12.3** Unless otherwise stated in these GTC, the User may submit all notices to XING using the contact form provided on each of the XING Websites, or by letter or fax. XING may send notices to the User by email, fax or post to the addresses given in the User’s current contact data in his or her user account.
 
-**12.4** The place of performance under these GTC shall be XING's main place of business.
+**12.4** If any provision of these GTC is, for any reason, invalid and/or unenforceable, the remaining provisions shall continue to be valid and enforceable to the fullest extent permitted by law.
 
-**12.5** Place of jurisdiction for merchants within the scope of the German Commercial Code (HGB) shall be the main place of business of XING.
+**12.5** The place of performance under these GTC shall be XING's main place of business.
 
-**12.6** These GTC and the contractual relationship shall be governed by German Law, excluding international private law and the provisions of the United Nations Convention on Contracts for the International Sale of Goods that have been adopted by German Law.
+**12.6** Place of jurisdiction for merchants within the scope of the German Commercial Code (HGB) shall be the main place of business of XING.
+
+**12.7** These GTC and the contractual relationship shall be governed by German Law, excluding international private law and the provisions of the United Nations Convention on Contracts for the International Sale of Goods that have been adopted by German Law.
