@@ -1,6 +1,8 @@
 Google Terms of Service
 
-Last modified: March 1, 2012
+This Terms of Service will be replaced by our new Google Terms of Service effective November 11, 2013. Please see our summary of changes for additional details.
+
+Last modified: March 1, 2012 (view archived versions)
 
 Welcome to Google!
 
