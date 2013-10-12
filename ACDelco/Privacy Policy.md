@@ -4,8 +4,9 @@ Privacy Statement Print A A
 
 Last modified: August 7, 2013
 
-Your privacy is important to General Motors Company (“GM” or “we”) as is your trust in GM’s products and services. We want you to know that the information you share with us will be treated with care. This Privacy Statement addresses what personal information we collect and how we handle the personal information shared with us.  
- 
+Your privacy is important to General Motors Company (“GM” or “we”) as is your trust in GM’s products and services. We want you to know that the information you share with us will be treated with care. This Privacy Statement addresses what personal information we collect and how we handle the personal information shared with us.
+
+View the California Privacy Policy
 
 **Scope**
 
