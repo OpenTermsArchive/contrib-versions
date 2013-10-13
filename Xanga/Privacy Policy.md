@@ -8,33 +8,75 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   How long till archive availability
+    *   by TheDarkFeather
+    *   1 hour ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Request to Terminate Account
+    *   by iknowagirlnamedgretchen
+    *   3 hours ago
+    *   in Privacy
+    *   0 votes
+    *   0
+*   Request to delete my account
+    *   by moscreations
+    *   2 weeks ago
+    *   in Miscellaenous
+    *   0 votes
+    *   7 (last comment by moscreations 7 hours ago)
+*   Please delete my archives and my account
+    *   by XehraA
+    *   10 hours ago
+    *   in Privacy
+    *   0 votes
+    *   0
+*   please delete my two accounts
+    *   by nickalex97
+    *   17 hours ago
+    *   in Miscellaenous
+    *   0 votes
+    *   0
+*   how to find my blog?
+    *   by lovelylike
+    *   17 hours ago
+    *   in Comments
+    *   0 votes
+    *   0
+*   Have comments on posts been backed up?
+    *   by Bloody\_Mary\_512
+    *   19 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   PLEASE DELETE MY XANGA ACCOUNT
     *   by redeemedbyamazinggrace
-    *   14 minutes ago
+    *   1 day ago
     *   in Privacy
     *   0 votes
     *   0
 *   Text Widget
     *   \[Resolved\] by routergenie
-    *   22 hours ago
+    *   1 day ago
     *   in Themes
     *   0 votes
-    *   2 (last comment by routergenie 33 minutes ago)
+    *   2 (last comment by routergenie 1 day ago)
 *   Supported fundraiser, trying to reclaim blog
     *   by wobster109
-    *   51 minutes ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   my blogs are gone!
     *   by cafecreme
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by cafecreme 4 hours ago)
+    *   2 (last comment by cafecreme 1 day ago)
 *   I cannot find my xanga:(
     *   by maggie\_1129
-    *   6 hours ago
+    *   1 day ago
     *   in Themes
     *   0 votes
     *   0
@@ -43,61 +85,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Miscellaenous
     *   0 votes
-    *   20 (last comment by I\_EAT\_YOU\_GOOD 6 hours ago)
+    *   20 (last comment by I\_EAT\_YOU\_GOOD 1 day ago)
 *   Meus Dados
     *   \[Resolved\] by blackmarybestfriend
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by john 10 hours ago)
-*   User: yeloday
-    *   by yeloday
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by john 10 hours ago)
-*   how to retrieve old display pictures(avatar)?
-    *   by no\_protection\_520
-    *   2 days ago
-    *   in Avatars
-    *   0 votes
-    *   1 (last comment by john 10 hours ago)
-*   Do I really have to spend?
-    *   \[Resolved\] by EroneousMonk
     *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by john 10 hours ago)
-*   Did contribute but my account didn't migrate
-    *   by cool\_shinichi
-    *   18 hours ago
+    *   1 (last comment by john 1 day ago)
+*   User: yeloday
+    *   by yeloday
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by john 10 hours ago)
-*   Still waiting...
-    *   \[Resolved\] by SeeBeeWrite
-    *   5 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by john 11 hours ago)
-*   Losing password with an inactive email account
-    *   by adrienkwong
-    *   12 hours ago
-    *   in Passwords &. Sign-In
-    *   0 votes
-    *   0
-*   where is my pictures???
-    *   by cuteppsc
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   7 (last comment by MotherGeek 17 hours ago)
-*   where can i find my post in the past?
-    *   by suzhen\_717
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   3 (last comment by Cocob87 23 hours ago)
+    *   1 (last comment by john 1 day ago)
 
 1 2 3 ... 93 Next
 
