@@ -8,15 +8,39 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   my blogs are gone
+    *   by kriseats
+    *   1 hour ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Please delete my account
+    *   by tung\_ming\_ellen
+    *   7 hours ago
+    *   in Passwords &. Sign-In
+    *   0 votes
+    *   0
+*   Cancel premium
+    *   by xinewong
+    *   22 hours ago
+    *   in Premium
+    *   0 votes
+    *   0
+*   Premium Problems...
+    *   by rainy\_z
+    *   23 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   How long till archive availability
     *   by TheDarkFeather
-    *   1 hour ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Request to Terminate Account
     *   by iknowagirlnamedgretchen
-    *   3 hours ago
+    *   1 day ago
     *   in Privacy
     *   0 votes
     *   0
@@ -25,79 +49,55 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Miscellaenous
     *   0 votes
-    *   7 (last comment by moscreations 7 hours ago)
+    *   7 (last comment by moscreations 1 day ago)
 *   Please delete my archives and my account
     *   by XehraA
-    *   10 hours ago
+    *   1 day ago
     *   in Privacy
     *   0 votes
     *   0
 *   please delete my two accounts
     *   by nickalex97
-    *   17 hours ago
+    *   1 day ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   how to find my blog?
     *   by lovelylike
-    *   17 hours ago
+    *   1 day ago
     *   in Comments
     *   0 votes
     *   0
 *   Have comments on posts been backed up?
     *   by Bloody\_Mary\_512
-    *   19 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   PLEASE DELETE MY XANGA ACCOUNT
     *   by redeemedbyamazinggrace
-    *   1 day ago
+    *   2 days ago
     *   in Privacy
     *   0 votes
     *   0
 *   Text Widget
     *   \[Resolved\] by routergenie
-    *   1 day ago
+    *   2 days ago
     *   in Themes
     *   0 votes
-    *   2 (last comment by routergenie 1 day ago)
+    *   2 (last comment by routergenie 2 days ago)
 *   Supported fundraiser, trying to reclaim blog
     *   by wobster109
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   my blogs are gone!
     *   by cafecreme
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by cafecreme 1 day ago)
-*   I cannot find my xanga:(
-    *   by maggie\_1129
-    *   1 day ago
-    *   in Themes
-    *   0 votes
-    *   0
-*   Deleting My Account
-    *   \[Resolved\] by Omgwtf\_St
-    *   1 month ago
-    *   in Miscellaenous
-    *   0 votes
-    *   20 (last comment by I\_EAT\_YOU\_GOOD 1 day ago)
-*   Meus Dados
-    *   \[Resolved\] by blackmarybestfriend
     *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by john 1 day ago)
-*   User: yeloday
-    *   by yeloday
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by john 1 day ago)
+    *   2 (last comment by cafecreme 2 days ago)
 
 1 2 3 ... 93 Next
 
