@@ -8,57 +8,27 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Lost my blog
-    *   by EclipxeNightx3
-    *   1 month ago
+*   I can't download my files. they appear in a non web page format
+    *   by Rosie\_Page
+    *   2 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   cant upload to my photos
+    *   by kenny91104
+    *   3 hours ago
+    *   in Pictures
+    *   0 votes
+    *   0
+*   Xanga team does keep their promise. Thank you!
+    *   by fungyeeho
+    *   4 hours ago
     *   in Themes
     *   0 votes
-    *   9 (last comment by HoangMaiCompany 1 hour ago)
-*   lifetime premium at revelife not migrated?
-    *   by lordaccord
-    *   7 hours ago
-    *   in Data Migration
-    *   0 votes
     *   0
-*   Photos missing
-    *   by tarepanda\_chi
-    *   9 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   please delete my two accounts
-    *   by nickalex97
-    *   3 days ago
-    *   in Miscellaenous
-    *   0 votes
-    *   1 (last comment by nickalex97 11 hours ago)
-*   Delete My Account
-    *   by dragoneyes451
-    *   14 hours ago
-    *   in Privacy
-    *   0 votes
-    *   0
-*   Did contribute but my account didn't migrate
-    *   by cool\_shinichi
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by cool\_shinichi 17 hours ago)
-*   can't find my blog
-    *   by lemontea1973
-    *   18 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Deleting my Account
-    *   by SydneyRayanne
-    *   23 hours ago
-    *   in Privacy
-    *   0 votes
-    *   0
-*   Maybe I lost my xanga
-    *   by Ling\_superlover
-    *   1 day ago
+*   Delete my account please
+    *   by ShortyGMa
+    *   8 hours ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -67,39 +37,69 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Miscellaenous
     *   0 votes
-    *   21 (last comment by leewyndelf 1 day ago)
-*   Posting to my blog
-    *   by NormallyInsane
-    *   2 weeks ago
+    *   22 (last comment by ShortyGMa 8 hours ago)
+*   Blog Posts gone
+    *   by an\_anton
+    *   10 hours ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by NormallyInsane 1 day ago)
-*   can't find my blog
-    *   by sophiasong
+    *   0
+*   I want to migrate my data to Xanga 2.0 but 'campaign is expired'
+    *   by viceandvintage
+    *   10 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   my blog does not appear!!
+    *   by cyruscutie
+    *   13 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   delete to xanga account
+    *   by benhohkhk
+    *   19 hours ago
+    *   in Usernames
+    *   0 votes
+    *   0
+*   my blog is gone
+    *   by beachloverxo8
+    *   19 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   MY BLOG DIAPPEAR!
+    *   by threeab
+    *   20 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   my blog does not appear!!
+    *   by win4bo
+    *   20 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   my blog does not appear!!
+    *   by win4bo
+    *   20 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Lost my blog
+    *   by EclipxeNightx3
+    *   1 month ago
+    *   in Themes
+    *   0 votes
+    *   9 (last comment by HoangMaiCompany 1 day ago)
+*   lifetime premium at revelife not migrated?
+    *   by lordaccord
     *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
-*   my blogs are gone
-    *   by kriseats
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Please delete my account
-    *   by tung\_ming\_ellen
-    *   2 days ago
-    *   in Passwords &. Sign-In
-    *   0 votes
-    *   0
-*   Cancel premium
-    *   by xinewong
-    *   2 days ago
-    *   in Premium
-    *   0 votes
-    *   0
 
-1 2 3 ... 94 Next
+1 2 3 ... 95 Next
 
 Help Categories
 
