@@ -8,92 +8,92 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   I can't download my files. they appear in a non web page format
-    *   by Rosie\_Page
-    *   2 hours ago
+*   audio and video files
+    *   by autumn\_tears
+    *   27 minutes ago
     *   in Data Migration
     *   0 votes
     *   0
-*   cant upload to my photos
-    *   by kenny91104
-    *   3 hours ago
-    *   in Pictures
+*   I want to get back my Blog
+    *   by amanfu
+    *   38 minutes ago
+    *   in Data Migration
     *   0 votes
     *   0
-*   Xanga team does keep their promise. Thank you!
-    *   by fungyeeho
-    *   4 hours ago
+*   my blogs are gone!
+    *   by cafecreme
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   3 (last comment by cafecreme 2 hours ago)
+*   Lost lots of image from the old Xanga
+    *   \[Resolved\] by fungyeeho
+    *   3 weeks ago
+    *   in Pictures
+    *   0 votes
+    *   6 (last comment by fungyeeho 4 hours ago)
+*   Changing a theme
+    *   \[Resolved\] by cindyajenkins
+    *   9 hours ago
+    *   in Themes
+    *   0 votes
+    *   1 (last comment by john 8 hours ago)
+*   Can't upload xml files
+    *   by carrietotoro
+    *   12 hours ago
     *   in Themes
     *   0 votes
     *   0
-*   Delete my account please
-    *   by ShortyGMa
-    *   8 hours ago
-    *   in Data Migration
+*   Old theme javascript code
+    *   by herzog3000
+    *   13 hours ago
+    *   in Themes
     *   0 votes
     *   0
+*   i want to get back my weblog
+    *   \[Resolved\] by chocolate\_cup
+    *   23 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by john 14 hours ago)
+*   cant upload to my photos
+    *   by kenny91104
+    *   1 day ago
+    *   in Pictures
+    *   0 votes
+    *   1 (last comment by john 14 hours ago)
+*   Xanga team does keep their promise. Thank you!
+    *   \[Resolved\] by fungyeeho
+    *   1 day ago
+    *   in Themes
+    *   0 votes
+    *   1 (last comment by john 14 hours ago)
 *   Deleting My Account
     *   \[Resolved\] by Omgwtf\_St
     *   1 month ago
     *   in Miscellaenous
     *   0 votes
-    *   22 (last comment by ShortyGMa 8 hours ago)
+    *   23 (last comment by Alita1179 22 hours ago)
+*   I can't download my files. they appear in a non web page format
+    *   by Rosie\_Page
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Delete my account please
+    *   by ShortyGMa
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Blog Posts gone
     *   by an\_anton
-    *   10 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I want to migrate my data to Xanga 2.0 but 'campaign is expired'
     *   by viceandvintage
-    *   10 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   my blog does not appear!!
-    *   by cyruscutie
-    *   13 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   delete to xanga account
-    *   by benhohkhk
-    *   19 hours ago
-    *   in Usernames
-    *   0 votes
-    *   0
-*   my blog is gone
-    *   by beachloverxo8
-    *   19 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   MY BLOG DIAPPEAR!
-    *   by threeab
-    *   20 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   my blog does not appear!!
-    *   by win4bo
-    *   20 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   my blog does not appear!!
-    *   by win4bo
-    *   20 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Lost my blog
-    *   by EclipxeNightx3
-    *   1 month ago
-    *   in Themes
-    *   0 votes
-    *   9 (last comment by HoangMaiCompany 1 day ago)
-*   lifetime premium at revelife not migrated?
-    *   by lordaccord
     *   1 day ago
     *   in Data Migration
     *   0 votes
