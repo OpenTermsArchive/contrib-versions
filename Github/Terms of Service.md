@@ -49,13 +49,17 @@ C. Payment, Refunds, Upgrading and Downgrading Terms
     
 2.  **An upgrade from the free plan to any paying plan will immediately bill you.**
     
-3.  **The Service is billed in advance on a monthly basis and is non-refundable. There will be no refunds or credits for partial months of service, upgrade/downgrade refunds, or refunds for months unused with an open account. In order to treat everyone equally, no exceptions will be made.**
+3.  For monthly payment plans, **the Service is billed in advance on a monthly basis and is non-refundable. There will be no refunds or credits for partial months of service, upgrade/downgrade refunds, or refunds for months unused with an open account. In order to treat everyone equally, no exceptions will be made.**
     
-4.  All fees are exclusive of all taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes, levies, or duties, excluding only United States (federal or state) taxes.
+4.  **When changing from a monthly billing cycle to a yearly billing cycle, GitHub will bill for a full year at the next monthly billing date.**
     
-5.  For any upgrade or downgrade in plan level, your credit card that you provided will automatically be charged the new rate on your next billing cycle.
+5.  All fees are exclusive of all taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes, levies, or duties, excluding only United States (federal or state) taxes.
     
-6.  Downgrading your Service may cause the loss of Content, features, or capacity of your Account. GitHub does not accept any liability for such loss.
+6.  For any upgrade or downgrade in plan level while on a monthly billing cycle, the credit card that you provided will automatically be charged the new rate on your next billing cycle.  
+      
+    For upgrades or downgrades while on a yearly plan, GitHub will immediately charge or refund the difference in plan cost, prorated for the remaining time in your yearly billing cycle.
+    
+7.  Downgrading your Service may cause the loss of Content, features, or capacity of your Account. GitHub does not accept any liability for such loss.
     
 
 D. Cancellation and Termination
