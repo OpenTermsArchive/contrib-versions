@@ -8,98 +8,98 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Death of a Friend
+    *   by white\_daisy\_passing
+    *   2 minutes ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Interested in acquiring archives
+    *   by kennyface
+    *   8 minutes ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   how to get back my blog
+    *   by lilianleung\_05
+    *   4 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by TRENIECE 13 minutes ago)
+*   Where is my archive?
+    *   \[Resolved\] by cowautlgc
+    *   1 month ago
+    *   in Data Migration
+    *   0 votes
+    *   16 (last comment by Entoxicated 54 minutes ago)
+*   How can I return everything like before
+    *   by Ching\_Wanna
+    *   1 month ago
+    *   in Premium
+    *   0 votes
+    *   2 (last comment by dollyrose 6 hours ago)
+*   DELETING/DEACTIVATING ACCOUNT
+    *   by Femme003
+    *   8 hours ago
+    *   in Privacy
+    *   0 votes
+    *   0
+*   SECOND ATTEMPT TO DELETE MY ACCOUNT
+    *   by kamikaze\_zealot
+    *   11 hours ago
+    *   in Usernames
+    *   0 votes
+    *   1 (last comment by Femme003 9 hours ago)
+*   Upgrade to Xanga2.0
+    *   by citrusblack
+    *   10 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   cant write a new post
+    *   by vicki2465
+    *   1 month ago
+    *   in Themes
+    *   0 votes
+    *   5 (last comment by Divided\_Skies 11 hours ago)
+*   Please DELETE my Accounts!
+    *   by corallau
+    *   2 days ago
+    *   in Miscellaenous
+    *   0 votes
+    *   2 (last comment by corallau 12 hours ago)
+*   I really would love to have my blog re run again
+    *   by BigheadMeoW
+    *   19 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   blog
+    *   by dollyrose
+    *   23 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Deleting My Account
     *   \[Resolved\] by Omgwtf\_St
     *   1 month ago
     *   in Miscellaenous
     *   0 votes
-    *   27 (last comment by tekletofficial 5 minutes ago)
+    *   27 (last comment by tekletofficial 1 day ago)
 *   What if I didn't pay?
     *   by padriac\_my\_\_prince
-    *   6 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Need help to find my old blogs.
     *   by queenreyna92
-    *   8 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   i want my xg back ;(
-    *   by sp9931
-    *   14 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by queenreyna92 8 hours ago)
-*   I WANT TO DELETE MY ACCOUNT.
-    *   by kamikaze\_zealot
-    *   1 month ago
-    *   in Miscellaenous
-    *   0 votes
-    *   7 (last comment by erinrenee23 10 hours ago)
-*   cant upload to my photos
-    *   by kenny91104
-    *   5 days ago
-    *   in Pictures
-    *   0 votes
-    *   2 (last comment by kenny91104 10 hours ago)
-*   no blog
-    *   by Natural\_BoBo
-    *   12 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   pls help get back my blogs
-    *   by superbmic
-    *   14 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   I want to get back my Blog
-    *   by amanfu
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by amanfu 20 hours ago)
-*   blog missing
-    *   by sunandmoon530
-    *   21 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Delete My Account NOW!
-    *   by SuperSaraMoon
-    *   1 day ago
-    *   in Privacy
-    *   0 votes
-    *   0
-*   i can't find my blog;(
-    *   by JustaLittleThings
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   blog disappeared
-    *   by prettyhappyballoon
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Please DELETE my Accounts!
-    *   by corallau
-    *   1 day ago
-    *   in Miscellaenous
-    *   0 votes
-    *   1 (last comment by kk\_coral 1 day ago)
-*   no blog :(
-    *   by leungmanyii
     *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 
-1 2 3 ... 97 Next
+1 2 3 ... 98 Next
 
 Help Categories
 
