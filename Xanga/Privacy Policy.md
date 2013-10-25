@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   How to I get back to my blog?
-    *   by devilheartjr
-    *   25 minutes ago
+*   Missed downloading my archives
+    *   \[Resolved\] by jaggedjunky
+    *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   0
+    *   2 (last comment by lemonfireccm 3 hours ago)
+*   Confused
+    *   by kissmelikecrazy64
+    *   5 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 6 hours ago)
+*   How to I get back to my blog?
+    *   by devilheartjr
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 11 hours ago)
+*   please help
+    *   by bassNwing
+    *   23 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 11 hours ago)
+*   How can i find my blog post?
+    *   by wenzhen
+    *   19 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 11 hours ago)
+*   how to get my blog back?
+    *   by dorothy\_22
+    *   14 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 12 hours ago)
 *   cant write a new post
     *   by vicki2465
     *   1 month ago
     *   in Themes
     *   0 votes
-    *   7 (last comment by saphire\_lightning 1 hour ago)
+    *   8 (last comment by eugenia 12 hours ago)
 *   Blog not archived
     *   by raw\_life
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 7 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   my blog gone
     *   by suicidegirlz
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 7 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   no blog
     *   by Nph\_magic
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 7 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   no blog :(
     *   by leungmanyii
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 7 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   blog disappeared
     *   by prettyhappyballoon
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 7 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   i can't find my blog;(
     *   by JustaLittleThings
+    *   4 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 1 day ago)
+*   blog missing
+    *   by sunandmoon530
     *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 7 hours ago)
-*   blog missing
-    *   by sunandmoon530
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 7 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   I want to get back my Blog
     *   by amanfu
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by eugenia 7 hours ago)
-*   pls help get back my blogs
-    *   by superbmic
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 7 hours ago)
-*   no blog
-    *   by Natural\_BoBo
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 8 hours ago)
-*   i want my xg back ;(
-    *   by sp9931
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by eugenia 8 hours ago)
-*   What happened to my blog?
-    *   by KatieLepine
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   3 (last comment by eugenia 9 hours ago)
-*   Membership Signup Link Doesn't Work
-    *   by JoeClarkIA
-    *   9 hours ago
-    *   in Premium
-    *   0 votes
-    *   2 (last comment by eugenia 9 hours ago)
+    *   2 (last comment by eugenia 1 day ago)
 
 1 2 3 ... 98 Next
 
