@@ -8,15 +8,51 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   What happened to my blog?
+    *   \[Resolved\] by KatieLepine
+    *   1 month ago
+    *   in Data Migration
+    *   0 votes
+    *   5 (last comment by kingmaryhenry 30 minutes ago)
+*   Lost my blog
+    *   by EclipxeNightx3
+    *   1 month ago
+    *   in Themes
+    *   0 votes
+    *   10 (last comment by kingmaryhenry 41 minutes ago)
+*   How can I download all the photos?
+    *   by tamsam0904
+    *   1 hour ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Paid for the premium but I can't see my blog
+    *   by cat\_newlife
+    *   2 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Don't know PW or Email. Help?
+    *   by ch0w
+    *   2 hours ago
+    *   in Passwords &. Sign-In
+    *   0 votes
+    *   0
+*   When will the new Xanga actual be ready?
+    *   by TheWendyBird
+    *   12 hours ago
+    *   in Miscellaenous
+    *   0 votes
+    *   0
 *   John Need help with Theme.
     *   \[Resolved\] by LiLaZiNdReAmEr
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by LiLaZiNdReAmEr 4 hours ago)
+    *   2 (last comment by LiLaZiNdReAmEr 1 day ago)
 *   when will blogs be available ???
     *   by dollyrose
-    *   21 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -25,81 +61,45 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by jen\_jenx 1 day ago)
+    *   3 (last comment by jen\_jenx 2 days ago)
 *   My videos are gone ).
     *   by shorty\_lamzXDXD
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Automatic upload with xanga 2.0?
     *   \[Resolved\] by Rosie\_Page
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by Rosie\_Page 1 day ago)
+    *   2 (last comment by Rosie\_Page 2 days ago)
 *   Look and Feel
     *   by pamilvr
-    *   1 day ago
+    *   2 days ago
     *   in Premium
     *   0 votes
     *   0
 *   SECOND ATTEMPT TO DELETE MY ACCOUNT
     *   by kamikaze\_zealot
-    *   4 days ago
+    *   5 days ago
     *   in Usernames
     *   0 votes
-    *   2 (last comment by kamikaze\_zealot 1 day ago)
+    *   2 (last comment by kamikaze\_zealot 2 days ago)
 *   I want to upgrade to Xanga2.0
     *   \[Resolved\] by beast\_wo
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   My Blogs are all gone :(
     *   \[Resolved\] by wendyeeyore
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   Miss my entry
-    *   \[Resolved\] by wanglok52
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   PAID and got nothing
-    *   \[Resolved\] by lchimm
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   Deleting My Account
-    *   \[Resolved\] by Omgwtf\_St
-    *   1 month ago
-    *   in Miscellaenous
-    *   0 votes
-    *   28 (last comment by debbieheflin 1 day ago)
-*   What happened to my blog?
-    *   \[Resolved\] by KatieLepine
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   4 (last comment by eugenia 1 day ago)
-*   Disable account
-    *   \[Resolved\] by debbieheflin
-    *   1 day ago
-    *   in Miscellaenous
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   Missed downloading my archives
-    *   \[Resolved\] by jaggedjunky
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by lemonfireccm 2 days ago)
+    *   1 (last comment by eugenia 2 days ago)
 
-1 2 3 ... 98 Next
+1 2 3 ... 99 Next
 
 Help Categories
 
