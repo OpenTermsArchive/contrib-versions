@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   What happened to my blog?
-    *   \[Resolved\] by KatieLepine
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   5 (last comment by kingmaryhenry 30 minutes ago)
-*   Lost my blog
-    *   by EclipxeNightx3
-    *   1 month ago
-    *   in Themes
-    *   0 votes
-    *   10 (last comment by kingmaryhenry 41 minutes ago)
-*   How can I download all the photos?
-    *   by tamsam0904
+*   No blog
+    *   by scavingtheworldonedayatatime
     *   1 hour ago
     *   in Data Migration
     *   0 votes
     *   0
-*   Paid for the premium but I can't see my blog
-    *   by cat\_newlife
-    *   2 hours ago
+*   Cant find my blog
+    *   by m1rror1mage
+    *   1 hour ago
     *   in Data Migration
     *   0 votes
     *   0
-*   Don't know PW or Email. Help?
-    *   by ch0w
-    *   2 hours ago
+*   how to upgrade to xanga 2.0?
+    *   by diannahatesyou
+    *   1 hour ago
+    *   in Getting Started
+    *   0 votes
+    *   0
+*   help i cant see my blog
+    *   by candy0032hk
+    *   3 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Delete my account
+    *   by catherine\_constantlyblogging
+    *   9 hours ago
+    *   in Privacy
+    *   0 votes
+    *   0
+*   lifetime member.defunct email service and lost password
+    *   by aaina
+    *   1 week ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   0
-*   When will the new Xanga actual be ready?
-    *   by TheWendyBird
-    *   12 hours ago
-    *   in Miscellaenous
+    *   1 (last comment by eugenia 9 hours ago)
+*   Please help me find my old posts
+    *   \[Resolved\] by teemmutlovers
+    *   3 weeks ago
+    *   in Data Migration
     *   0 votes
-    *   0
-*   John Need help with Theme.
-    *   \[Resolved\] by LiLaZiNdReAmEr
+    *   2 (last comment by eugenia 9 hours ago)
+*   no post
+    *   \[Resolved\] by freesoccerkick
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by LiLaZiNdReAmEr 1 day ago)
-*   when will blogs be available ???
-    *   by dollyrose
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Confused
-    *   \[Resolved\] by kissmelikecrazy64
+    *   1 (last comment by eugenia 9 hours ago)
+*   no blog
+    *   \[Resolved\] by tjpink09
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by jen\_jenx 2 days ago)
-*   My videos are gone ).
-    *   by shorty\_lamzXDXD
-    *   2 days ago
+    *   1 (last comment by eugenia 9 hours ago)
+*   no blog
+    *   \[Resolved\] by psychoticloner
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   Automatic upload with xanga 2.0?
-    *   \[Resolved\] by Rosie\_Page
-    *   2 days ago
+    *   1 (last comment by eugenia 9 hours ago)
+*   MISSING some of the entries
+    *   \[Resolved\] by kaman\_sheng
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by Rosie\_Page 2 days ago)
-*   Look and Feel
-    *   by pamilvr
-    *   2 days ago
-    *   in Premium
+    *   1 (last comment by eugenia 9 hours ago)
+*   okay wow big change.
+    *   \[Resolved\] by DragonAlica
+    *   1 week ago
+    *   in Themes
     *   0 votes
-    *   0
+    *   2 (last comment by eugenia 9 hours ago)
+*   Blogs are all gone!
+    *   \[Resolved\] by asamiregina
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 9 hours ago)
+*   My Blog all gone
+    *   \[Resolved\] by clevercoco
+    *   1 week ago
+    *   in Getting Started
+    *   0 votes
+    *   1 (last comment by eugenia 9 hours ago)
 *   SECOND ATTEMPT TO DELETE MY ACCOUNT
-    *   by kamikaze\_zealot
-    *   5 days ago
+    *   \[Resolved\] by kamikaze\_zealot
+    *   6 days ago
     *   in Usernames
     *   0 votes
-    *   2 (last comment by kamikaze\_zealot 2 days ago)
-*   I want to upgrade to Xanga2.0
-    *   \[Resolved\] by beast\_wo
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
-*   My Blogs are all gone :(
-    *   \[Resolved\] by wendyeeyore
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   3 (last comment by eugenia 10 hours ago)
 
 1 2 3 ... 99 Next
 
