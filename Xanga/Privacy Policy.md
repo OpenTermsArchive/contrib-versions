@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   No blog
-    *   by scavingtheworldonedayatatime
-    *   1 hour ago
+*   I cannot import or download my blogs
+    *   by danameskris
+    *   8 hours ago
     *   in Data Migration
     *   0 votes
     *   0
-*   Cant find my blog
-    *   by m1rror1mage
-    *   1 hour ago
+*   posts missing
+    *   \[Resolved\] by serendipity805
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   how to upgrade to xanga 2.0?
-    *   by diannahatesyou
-    *   1 hour ago
-    *   in Getting Started
-    *   0 votes
-    *   0
-*   help i cant see my blog
-    *   by candy0032hk
-    *   3 hours ago
+    *   3 (last comment by eugenia 9 hours ago)
+*   Blogs not imported
+    *   \[Resolved\] by Pedestrian\_T
+    *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   Delete my account
-    *   by catherine\_constantlyblogging
-    *   9 hours ago
-    *   in Privacy
-    *   0 votes
-    *   0
-*   lifetime member.defunct email service and lost password
-    *   by aaina
-    *   1 week ago
-    *   in Passwords &. Sign-In
-    *   0 votes
-    *   1 (last comment by eugenia 9 hours ago)
-*   Please help me find my old posts
-    *   \[Resolved\] by teemmutlovers
-    *   3 weeks ago
+    *   3 (last comment by eugenia 11 hours ago)
+*   Premium Problems...
+    *   \[Resolved\] by rainy\_z
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by eugenia 9 hours ago)
-*   no post
-    *   \[Resolved\] by freesoccerkick
-    *   1 week ago
+    *   1 (last comment by eugenia 11 hours ago)
+*   Cancel premium
+    *   \[Resolved\] by xinewong
+    *   2 weeks ago
+    *   in Premium
+    *   0 votes
+    *   1 (last comment by eugenia 11 hours ago)
+*   my blogs are gone
+    *   \[Resolved\] by kriseats
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 9 hours ago)
-*   no blog
-    *   \[Resolved\] by tjpink09
-    *   1 week ago
+    *   1 (last comment by eugenia 11 hours ago)
+*   can't find my blog
+    *   \[Resolved\] by sophiasong
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 9 hours ago)
-*   no blog
-    *   \[Resolved\] by psychoticloner
-    *   1 week ago
+    *   1 (last comment by eugenia 11 hours ago)
+*   Posting to my blog
+    *   \[Resolved\] by NormallyInsane
+    *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 9 hours ago)
-*   MISSING some of the entries
-    *   \[Resolved\] by kaman\_sheng
-    *   1 week ago
+    *   2 (last comment by eugenia 11 hours ago)
+*   Maybe I lost my xanga
+    *   \[Resolved\] by Ling\_superlover
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 9 hours ago)
-*   okay wow big change.
-    *   \[Resolved\] by DragonAlica
-    *   1 week ago
-    *   in Themes
+    *   1 (last comment by eugenia 11 hours ago)
+*   can't find my blog
+    *   \[Resolved\] by lemontea1973
+    *   2 weeks ago
+    *   in Data Migration
     *   0 votes
-    *   2 (last comment by eugenia 9 hours ago)
-*   Blogs are all gone!
-    *   \[Resolved\] by asamiregina
+    *   1 (last comment by eugenia 12 hours ago)
+*   Photos missing
+    *   \[Resolved\] by tarepanda\_chi
+    *   2 weeks ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 12 hours ago)
+*   my blog does not appear!!
+    *   \[Resolved\] by win4bo
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 9 hours ago)
-*   My Blog all gone
-    *   \[Resolved\] by clevercoco
+    *   1 (last comment by eugenia 12 hours ago)
+*   MY BLOG DIAPPEAR!
+    *   \[Resolved\] by threeab
     *   1 week ago
-    *   in Getting Started
+    *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 9 hours ago)
-*   SECOND ATTEMPT TO DELETE MY ACCOUNT
-    *   \[Resolved\] by kamikaze\_zealot
-    *   6 days ago
-    *   in Usernames
+    *   1 (last comment by eugenia 12 hours ago)
+*   my blog is gone
+    *   \[Resolved\] by beachloverxo8
+    *   1 week ago
+    *   in Data Migration
     *   0 votes
-    *   3 (last comment by eugenia 10 hours ago)
+    *   1 (last comment by eugenia 12 hours ago)
+*   my blog does not appear!!
+    *   \[Resolved\] by cyruscutie
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 12 hours ago)
 
 1 2 3 ... 99 Next
 
