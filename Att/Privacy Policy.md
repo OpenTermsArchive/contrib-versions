@@ -2,6 +2,10 @@
 
 Whenever you do something like buy one of our products, stream a movie or download an app, information is created. Because we know your privacy is important, we have a Privacy Policy to explain how we collect, use and protect that information. There’s a quick summary below, and the entire policy is written in an easy FAQ format. We want to simplify this, so you can make informed choices about your privacy, and then spend the rest of your time enjoying our products and services.
 
+' + '
+
+Effective September 16, 2013
+
 ' + ' A Quick Summary of Our Privacy Policy' + '
 
 Our privacy policy applies to your use of our products and services. We will always provide you with notice of material changes to this Policy. In order to do things like constantly improve our services, products and relationship with you, we may collect different types of information that help us learn more about how you use our offerings.
@@ -1227,7 +1231,7 @@ from You' + '
 
 Thanks for your feedback on our updated Privacy Policy. We heard you and, as a result, we\\'re adding additional information on how you can exercise your privacy choices. We appreciate you as a customer and we value your thoughts. Please continue to share your feedback through our privacy mailbox.
 
-' + '' + '' + '
+' + '' + '' //+ '
 
 Updated 7/16/13
 
