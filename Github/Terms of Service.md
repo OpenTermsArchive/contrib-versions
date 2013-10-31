@@ -7,7 +7,7 @@ GitHub Terms of Service
 
 By using the GitHub.com web site ("Service"), or any services of GitHub, Inc ("GitHub"), you are agreeing to be bound by the following terms and conditions ("Terms of Service"). IF YOU ARE ENTERING INTO THIS AGREEMENT ON BEHALF OF A COMPANY OR OTHER LEGAL ENTITY, YOU REPRESENT THAT YOU HAVE THE AUTHORITY TO BIND SUCH ENTITY, ITS AFFILIATES AND ALL USERS WHO ACCESS OUR SERVICES THROUGH YOUR ACCOUNT TO THESE TERMS AND CONDITIONS, IN WHICH CASE THE TERMS "YOU" OR "YOUR" SHALL REFER TO SUCH ENTITY, ITS AFFILIATES AND USERS ASSOCIATED WITH IT. IF YOU DO NOT HAVE SUCH AUTHORITY, OR IF YOU DO NOT AGREE WITH THESE TERMS AND CONDITIONS, YOU MUST NOT ACCEPT THIS AGREEMENT AND MAY NOT USE THE SERVICES.
 
-Please note that if you are accessing any GitHub service in a government or public entity capacity, there are special terms that may apply to you. Please see Section G.17, below, for more details.
+Please note that if you are accessing any GitHub service in your capacity as a government entity, there are special terms that may apply to you. Please see Section G.17, below, for more details.
 
 If GitHub makes material changes to these Terms, we will notify you by email or by posting a notice on our site before the changes are effective. Any new features that augment or enhance the current Service, including the release of new tools and resources, shall be subject to the Terms of Service. Continued use of the Service after any such changes shall constitute your consent to such changes. You can review the most current version of the Terms of Service at any time at: http://github.com/site/terms
 
@@ -88,7 +88,7 @@ F. Copyright and Content Ownership
     
 2.  GitHub does not pre-screen Content, but GitHub and its designee have the right (but not the obligation) in their sole discretion to refuse or remove any Content that is available via the Service.
     
-3.  You shall defend GitHub against any claim, demand, suit or proceeding made or brought against GitHub by a third party alleging that Your Content, or Your use of the Service in violation of this Agreement, infringes or misappropriates the intellectual property rights of a third party or violates applicable law, and shall indemnify GitHub for any damages finally awarded against, and for reasonable attorney’s fees incurred by, GitHub in connection with any such claim, demand, suit or proceeding. provided, that GitHub (a) promptly gives You written notice of the claim, demand, suit or proceeding. (b) gives You sole control of the defense and settlement of the claim, demand, suit or proceeding (provided that You may not settle any claim, demand, suit or proceeding unless the settlement unconditionally releases GitHub of all liability). and (c) provides to You all reasonable assistance, at Your expense.
+3.  You shall defend GitHub against any claim, demand, suit or proceeding made or brought against GitHub by a third party alleging that Your Content, or Your use of the Service in violation of this Agreement, infringes or misappropriates the intellectual property rights of a third party or violates applicable law, and shall indemnify GitHub for any damages finally awarded against, and for reasonable attorney’s fees incurred by, GitHub in connection with any such claim, demand, suit or proceeding. provided, that GitHub (a) promptly gives You written notice of the claim, demand, suit or proceeding. (b) gives You sole control of the defense and settlement of the claim, demand, suit or proceeding (provided that You may not settle any claim, demand, suit or proceeding unless the settlement unconditionally releases GitHub of all liability). and (c) provides to You all reasonable assistance, at Your expense.
     
 4.  The look and feel of the Service is copyright ©2010 GitHub Inc. All rights reserved. You may not duplicate, copy, or reuse any portion of the HTML/CSS, Javascript, or visual design elements or concepts without express written permission from GitHub.
     
@@ -127,7 +127,7 @@ G. General Conditions
     
 16.  Questions about the Terms of Service should be sent to support@github.com.
     
-17.  If you are a government user or otherwise accessing or using any GitHub service in a government, municipal, or public entity capacity, this Amendment to GitHub Terms of Service shall apply to you.
+17.  If you are a government user or otherwise accessing or using any GitHub service in a government capacity, this Amendment to GitHub Terms of Service shall apply to you.
     
 18.  Map data copyright OpenStreetMap contributors and licensed under the Open Data Commons Open Database License. Map design and imagery subject to the MapBox Terms of Service.
     
