@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Request to delete my account
-    *   by moscreations
-    *   1 month ago
-    *   in Miscellaenous
+*   I lost my blog!
+    *   by beetsandjeets
+    *   45 minutes ago
+    *   in Data Migration
     *   0 votes
-    *   8 (last comment by EphBaseball4 3 hours ago)
-*   PLEASE DELETE MY XANGA ACCOUNT
-    *   \[Resolved\] by redeemedbyamazinggrace
+    *   0
+*   migration help
+    *   \[Resolved\] by dm\_xXlostinyoureyesXx\_ac
+    *   4 weeks ago
+    *   in Data Migration
+    *   0 votes
+    *   3 (last comment by eugenia 8 hours ago)
+*   Unable to upgarde.
+    *   \[Resolved\] by litbiXD
+    *   3 weeks ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 8 hours ago)
+*   where can i find my post in the past?
+    *   \[Resolved\] by suzhen\_717
+    *   3 weeks ago
+    *   in Data Migration
+    *   0 votes
+    *   7 (last comment by eugenia 8 hours ago)
+*   Request to Terminate Account
+    *   \[Resolved\] by iknowagirlnamedgretchen
     *   2 weeks ago
     *   in Privacy
     *   0 votes
-    *   1 (last comment by eugenia 10 hours ago)
-*   Have comments on posts been backed up?
-    *   \[Resolved\] by Bloody\_Mary\_512
+    *   1 (last comment by eugenia 8 hours ago)
+*   Please delete my archives and my account
+    *   \[Resolved\] by XehraA
+    *   2 weeks ago
+    *   in Privacy
+    *   0 votes
+    *   1 (last comment by eugenia 8 hours ago)
+*   I cannot find my xanga:(
+    *   \[Resolved\] by maggie\_1129
+    *   2 weeks ago
+    *   in Themes
+    *   0 votes
+    *   1 (last comment by eugenia 8 hours ago)
+*   Supported fundraiser, trying to reclaim blog
+    *   \[Resolved\] by wobster109
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 10 hours ago)
-*   how to find my blog?
-    *   \[Resolved\] by lovelylike
-    *   2 weeks ago
-    *   in Comments
-    *   0 votes
-    *   1 (last comment by eugenia 10 hours ago)
-*   How long till archive availability
-    *   \[Resolved\] by TheDarkFeather
+    *   1 (last comment by eugenia 8 hours ago)
+*   Delete my account please
+    *   \[Resolved\] by ShortyGMa
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 10 hours ago)
-*   I cannot import or download my blogs
-    *   \[Resolved\] by danameskris
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 10 hours ago)
-*   I would like to get my old blog posts back
-    *   \[Resolved\] by XknivesX
-    *   23 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 10 hours ago)
-*   posts missing
-    *   \[Resolved\] by serendipity805
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   4 (last comment by serendipity805 19 hours ago)
-*   Deleting My Account
-    *   \[Resolved\] by Omgwtf\_St
-    *   1 month ago
+    *   1 (last comment by eugenia 8 hours ago)
+*   please delete my two accounts
+    *   \[Resolved\] by nickalex97
+    *   2 weeks ago
     *   in Miscellaenous
     *   0 votes
-    *   30 (last comment by phoenix\_prof 22 hours ago)
-*   Blogs not imported
-    *   \[Resolved\] by Pedestrian\_T
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   3 (last comment by eugenia 1 day ago)
-*   Premium Problems...
-    *   \[Resolved\] by rainy\_z
+    *   2 (last comment by eugenia 8 hours ago)
+*   Delete My Account
+    *   \[Resolved\] by dragoneyes451
     *   2 weeks ago
-    *   in Data Migration
+    *   in Privacy
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   Cancel premium
-    *   \[Resolved\] by xinewong
+    *   1 (last comment by eugenia 8 hours ago)
+*   Deleting my Account
+    *   \[Resolved\] by SydneyRayanne
     *   2 weeks ago
-    *   in Premium
+    *   in Privacy
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   my blogs are gone
-    *   \[Resolved\] by kriseats
+    *   1 (last comment by eugenia 8 hours ago)
+*   Please delete my account
+    *   \[Resolved\] by tung\_ming\_ellen
     *   2 weeks ago
-    *   in Data Migration
+    *   in Passwords &. Sign-In
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   can't find my blog
-    *   \[Resolved\] by sophiasong
-    *   2 weeks ago
-    *   in Data Migration
+    *   1 (last comment by eugenia 8 hours ago)
+*   Xanga Theme and Deprecated Xanga Theme
+    *   \[Resolved\] by routergenie
+    *   23 hours ago
+    *   in Themes
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   Posting to my blog
-    *   \[Resolved\] by NormallyInsane
-    *   1 month ago
-    *   in Data Migration
+    *   1 (last comment by eugenia 8 hours ago)
+*   Text Widget for Individual Post?
+    *   \[Resolved\] by routergenie
+    *   23 hours ago
+    *   in Themes
     *   0 votes
-    *   2 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 8 hours ago)
 
 1 2 3 ... 99 Next
 
