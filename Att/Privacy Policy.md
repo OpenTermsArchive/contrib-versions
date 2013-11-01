@@ -4,7 +4,7 @@ Whenever you do something like buy one of our products, stream a movie or downlo
 
 ' + '
 
-Effective September 16, 2013
+**Effective September 16, 2013**
 
 ' + ' A Quick Summary of Our Privacy Policy' + '
 
@@ -1196,7 +1196,7 @@ effective date **11/18/2010**. We invite you to learn more about our commitments
 
 ' + '' + '' + '' + '' + '
 
-AT&T is a licensee of the TRUSTe Privacy Program and you may contact TRUSTe if a privacy question is not properly addressed.
+AT&T has been awarded the TRUSTe Privacy Seal and you may contact TRUSTe if a privacy question is not properly addressed
 
 ' + '' + '' + 'Your Rights and Choices' + '
 
