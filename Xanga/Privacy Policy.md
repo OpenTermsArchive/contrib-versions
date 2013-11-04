@@ -8,98 +8,98 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   My URL address won't transfer
+    *   by Artzybella
+    *   16 minutes ago
+    *   in Personal URLs
+    *   0 votes
+    *   0
+*   please remove auto payment
+    *   by Prim\_Prim4488
+    *   3 hours ago
+    *   in Premium
+    *   0 votes
+    *   0
+*   My URL is also missing!
+    *   by lily\_scarlet
+    *   1 month ago
+    *   in Personal URLs
+    *   0 votes
+    *   1 (last comment by EndlessMike03 6 hours ago)
+*   Lost lots of image from the old Xanga
+    *   \[Resolved\] by fungyeeho
+    *   1 month ago
+    *   in Pictures
+    *   0 votes
+    *   7 (last comment by Superbuds 16 hours ago)
 *   Blogs not imported
     *   \[Resolved\] by Pedestrian\_T
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by Pedestrian\_T 11 hours ago)
+    *   4 (last comment by Pedestrian\_T 1 day ago)
 *   Missed downloading my archives
     *   \[Resolved\] by jaggedjunky
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by swtserenity\_2010 20 hours ago)
+    *   4 (last comment by swtserenity\_2010 1 day ago)
 *   Don't think I met criteria, but would like archives back
     *   by xlido\_strawberreex
-    *   20 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   migration
     *   by yeemeng
-    *   21 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   My post are gone...
     *   by lunalucia
-    *   1 day ago
+    *   2 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   My account is expired..
     *   by LuciaLai
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Premium account and lost adsense?
     *   by angrymidgetyo
-    *   1 day ago
+    *   2 days ago
     *   in Premium
     *   0 votes
     *   0
 *   I would like to have my blog returned to xanga and not moved to wordpress
     *   \[Resolved\] by Hikari\_Paia
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by Hikari\_Paia 1 day ago)
+    *   2 (last comment by Hikari\_Paia 2 days ago)
 *   my blogs are gone!
     *   \[Resolved\] by cafecreme
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   7 (last comment by cafecreme 1 day ago)
+    *   7 (last comment by cafecreme 2 days ago)
 *   Posts not archived ;(
     *   \[Resolved\] by Bibitan\_Vivi
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   I want this account deleted ASAP!
     *   \[Resolved\] by InsideoutXAndXBackwards
     *   3 weeks ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   I lost my blog!
-    *   \[Resolved\] by beetsandjeets
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   migration help
-    *   \[Resolved\] by dm\_xXlostinyoureyesXx\_ac
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   3 (last comment by eugenia 2 days ago)
-*   Unable to upgarde.
-    *   \[Resolved\] by litbiXD
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
     *   1 (last comment by eugenia 2 days ago)
-*   where can i find my post in the past?
-    *   \[Resolved\] by suzhen\_717
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   7 (last comment by eugenia 2 days ago)
 
-1 2 3 ... 99 Next
+1 2 3 ... 100 Next
 
 Help Categories
 
