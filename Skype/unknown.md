@@ -1,4 +1,4 @@
-Skype emergency calling is enabled in the following countries, platforms and versions of Skype Software:
+Skype emergency calling is enabled in the following countries/regions, platforms and versions of Skype Software:
 
 *   Skype 4.1 for Windows (and later versions): available in Australia, Denmark, Finland and UK
 *   Skype 2.8 for Mac (and later versions): available in Australia, Denmark, Finland and UK
