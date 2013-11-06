@@ -56,7 +56,6 @@ C. Payment, Refunds, Upgrading and Downgrading Terms
 5.  All fees are exclusive of all taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes, levies, or duties, excluding only United States (federal or state) taxes.
     
 6.  For any upgrade or downgrade in plan level while on a monthly billing cycle, the credit card that you provided will automatically be charged the new rate on your next billing cycle.  
-      
     For upgrades or downgrades while on a yearly plan, GitHub will immediately charge or refund the difference in plan cost, prorated for the remaining time in your yearly billing cycle.
     
 7.  Downgrading your Service may cause the loss of Content, features, or capacity of your Account. GitHub does not accept any liability for such loss.
