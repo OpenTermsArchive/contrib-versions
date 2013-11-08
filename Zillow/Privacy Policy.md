@@ -134,7 +134,6 @@ Skip to contentZillow Real Estate &amp. Homes for Sale
 *   For Pros
     *   Agents
     *   Rental Pro
-*   Mobile
 *   Sign In
 
 Find home values and listings Location: Search
