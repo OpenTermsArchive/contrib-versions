@@ -8,39 +8,81 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   May I have all my old posts back please?
+    *   by yin\_4\_28
+    *   1 hour ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   I miss my Xanga
+    *   by soccer\_champ4211
+    *   2 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   John Need help with Theme.
+    *   \[Resolved\] by LiLaZiNdReAmEr
+    *   2 weeks ago
+    *   in Data Migration
+    *   0 votes
+    *   4 (last comment by LiLaZiNdReAmEr 4 hours ago)
+*   New Xanga
+    *   by HankWhite
+    *   11 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   My xanga site is missing
+    *   by anita0903
+    *   12 hours ago
+    *   in Personal URLs
+    *   0 votes
+    *   0
+*   Lost my blog
+    *   \[Resolved\] by EclipxeNightx3
+    *   2 months ago
+    *   in Themes
+    *   0 votes
+    *   9 (last comment by drummerxxchick41599 19 hours ago)
+*   Why Did Xanga Charge My Paypal account $25.00
+    *   by Donkey\_Guy\_10
+    *   23 hours ago
+    *   in Premium
+    *   0 votes
+    *   0
 *   Nothing on my Dashboard??
     *   by Kit\_katcsn
-    *   59 minutes ago
+    *   1 day ago
     *   in Premium
     *   0 votes
     *   0
 *   Unable to upgarde.
     *   \[Resolved\] by litbiXD
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by litbiXD 1 hour ago)
+    *   2 (last comment by litbiXD 1 day ago)
 *   Renewing membership after expiration
     *   by TheITPChronicles
-    *   14 hours ago
+    *   1 day ago
     *   in Premium
     *   0 votes
     *   0
 *   Past Premium Member
     *   by IchWillDoom
-    *   14 hours ago
+    *   1 day ago
     *   in Premium
     *   0 votes
     *   0
 *   membership expire day
     *   by jackyloveesther
-    *   17 hours ago
+    *   1 day ago
     *   in Premium
     *   0 votes
     *   0
 *   MY PREMIUM EXPIRED!! WHERE DO I PAY NOW?!!
     *   by Threads\_of\_Faith
-    *   21 hours ago
+    *   1 day ago
     *   in Premium
     *   0 votes
     *   0
@@ -49,55 +91,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 months ago
     *   in Premium
     *   0 votes
-    *   3 (last comment by Threads\_of\_Faith 21 hours ago)
+    *   3 (last comment by Threads\_of\_Faith 1 day ago)
 *   where is my entry?
     *   by superfirecar
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
-*   My Blog was not imported.
-    *   by doyouloveyou
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Help!!!
-    *   by leo\_direction
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   I can't even login to my old site at quite\_content
-    *   by sportymarine
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Hellllp
-    *   by BiteMe\_Quoter0
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   please restore my site sashalovesgeorge
-    *   by sashalovesgeorge
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Blogs not imported
-    *   \[Resolved\] by Pedestrian\_T
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   5 (last comment by eugenia 1 day ago)
-*   Something still missing,pls help
-    *   \[Resolved\] by rabbitmary
-    *   2 months ago
-    *   in Data Migration
-    *   0 votes
-    *   3 (last comment by eugenia 1 day ago)
 
 1 2 3 ... 101 Next
 
