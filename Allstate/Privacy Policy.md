@@ -222,6 +222,4 @@ Email: BCPINFO@ag.state.nv.us
 Please note that Allstate's "do not call" list is limited only to telephone solicitation calls. We may still contact you about your Allstate policy, billing issues, claims and other service matters.  
   
 **For Vermont residents:**  
-We won't share your personal information with Allstate companies for marketing purposes except as allowed by Vermont law. INVESTORS NEWSROOM CAREERS CUSTOMER CARE ABOUT ALLSTATE CAR INSURANCE &. OTHER PRODUCTS Discover Us! Allstate Blog Local Blogs Social Networks Mayhem Mobile TERMS OF USEPRIVACY &. SECURITYUNDERWRITING COMPANIESCONTACT USSITE MAP  
-  
-© 2013 ALLSTATE INSURANCE COMPANY ALL RIGHTS RESERVED
+We won't share your personal information with Allstate companies for marketing purposes except as allowed by Vermont law. INVESTORS NEWSROOM CAREERS CUSTOMER CARE ABOUT ALLSTATE CAR INSURANCE &. OTHER PRODUCTS Discover Us! Allstate Blog Local Blogs Social Networks Mayhem Mobile TERMS OF USEPRIVACY &. SECURITYUNDERWRITING COMPANIESSITE MAPAD CHOICES
