@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   May I have all my old posts back please?
-    *   by yin\_4\_28
-    *   1 hour ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   I miss my Xanga
-    *   by soccer\_champ4211
+*   my xanga didn't appear after logging in
+    *   by LiNg\_Ngan\_FDs
     *   2 hours ago
     *   in Data Migration
     *   0 votes
     *   0
-*   John Need help with Theme.
-    *   \[Resolved\] by LiLaZiNdReAmEr
-    *   2 weeks ago
+*   could you give me back my blog?
+    *   \[Resolved\] by jameschan08
+    *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by LiLaZiNdReAmEr 4 hours ago)
-*   New Xanga
-    *   by HankWhite
-    *   11 hours ago
+    *   1 (last comment by eugenia 11 hours ago)
+*   Please recover my blog
+    *   \[Resolved\] by bittentothequick
+    *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   My xanga site is missing
-    *   by anita0903
+    *   1 (last comment by eugenia 11 hours ago)
+*   Please provide backup of my blog
+    *   \[Resolved\] by rr000004251
+    *   1 month ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 11 hours ago)
+*   Please help
+    *   \[Resolved\] by Relyu
+    *   1 month ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 11 hours ago)
+*   WHY CANT I GET MY JOURNAL BACK
+    *   \[Resolved\] by BlackRosesInMyHeart
+    *   1 month ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 11 hours ago)
+*   old blog still not viewable
+    *   \[Resolved\] by jackylam1991
+    *   1 month ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 11 hours ago)
+*   Paid for an account did not migrate to 2.0
+    *   \[Resolved\] by feliciachiou
+    *   1 month ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 12 hours ago)
+*   unable to change profile email
+    *   by tent\_of\_meeting
     *   12 hours ago
-    *   in Personal URLs
+    *   in Emails
     *   0 votes
     *   0
-*   Lost my blog
-    *   \[Resolved\] by EclipxeNightx3
-    *   2 months ago
-    *   in Themes
+*   HELP format off. titles don't have entries
+    *   \[Resolved\] by pearlbamboo
+    *   1 month ago
+    *   in Data Migration
     *   0 votes
-    *   9 (last comment by drummerxxchick41599 19 hours ago)
-*   Why Did Xanga Charge My Paypal account $25.00
-    *   by Donkey\_Guy\_10
-    *   23 hours ago
-    *   in Premium
+    *   1 (last comment by eugenia 12 hours ago)
+*   where is my old posts?
+    *   \[Resolved\] by spy1989
+    *   1 month ago
+    *   in Data Migration
     *   0 votes
-    *   0
-*   Nothing on my Dashboard??
-    *   by Kit\_katcsn
-    *   1 day ago
-    *   in Premium
+    *   3 (last comment by eugenia 12 hours ago)
+*   I would like to have my blog returned to xanga and not moved to wordpress
+    *   \[Resolved\] by Hikari\_Paia
+    *   1 week ago
+    *   in Data Migration
     *   0 votes
-    *   0
+    *   3 (last comment by eugenia 12 hours ago)
 *   Unable to upgarde.
     *   \[Resolved\] by litbiXD
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by litbiXD 1 day ago)
-*   Renewing membership after expiration
-    *   by TheITPChronicles
-    *   1 day ago
-    *   in Premium
-    *   0 votes
-    *   0
-*   Past Premium Member
-    *   by IchWillDoom
-    *   1 day ago
-    *   in Premium
-    *   0 votes
-    *   0
-*   membership expire day
-    *   by jackyloveesther
-    *   1 day ago
-    *   in Premium
-    *   0 votes
-    *   0
-*   MY PREMIUM EXPIRED!! WHERE DO I PAY NOW?!!
-    *   by Threads\_of\_Faith
-    *   1 day ago
-    *   in Premium
-    *   0 votes
-    *   0
-*   When does my Premium account expire?
-    *   by Threads\_of\_Faith
-    *   2 months ago
-    *   in Premium
-    *   0 votes
-    *   3 (last comment by Threads\_of\_Faith 1 day ago)
-*   where is my entry?
-    *   by superfirecar
-    *   2 days ago
+    *   3 (last comment by eugenia 12 hours ago)
+*   paid my money and got nothing
+    *   \[Resolved\] by lchimm
+    *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   0
+    *   1 (last comment by eugenia 12 hours ago)
+*   please restore my site sashalovesgeorge
+    *   \[Resolved\] by sashalovesgeorge
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 12 hours ago)
 
 1 2 3 ... 101 Next
 
