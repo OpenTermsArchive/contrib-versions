@@ -8,9 +8,39 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Tried to download my blog and it saying 0 files uploaded
+    *   by Ryou\_0
+    *   10 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   i cant see all my old post
+    *   by JoanneNNN
+    *   11 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Lost blog....
+    *   by sputnik903
+    *   16 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   My account is expired..
+    *   \[Resolved\] by LuciaLai
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by LuciaLai 20 hours ago)
+*   cannot update new post..
+    *   by LuciaLai
+    *   20 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Blog gone
     *   by iamawookiee
-    *   5 minutes ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,10 +49,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   10 (last comment by cuteppsc 22 minutes ago)
+    *   10 (last comment by cuteppsc 1 day ago)
 *   Google feedburner and Xanga email subscriptions
     *   by naphtali\_deer
-    *   4 hours ago
+    *   1 day ago
     *   in Miscellaenous
     *   0 votes
     *   0
@@ -31,22 +61,22 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Pictures
     *   0 votes
-    *   4 (last comment by Superbuds 16 hours ago)
+    *   4 (last comment by Superbuds 1 day ago)
 *   Can not see any past post
     *   by Arakune
-    *   21 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   XML file
     *   by thefunke
-    *   21 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   my xanga didn't appear after logging in
     *   by LiNg\_Ngan\_FDs
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -55,49 +85,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   Please recover my blog
     *   \[Resolved\] by bittentothequick
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   Please provide backup of my blog
     *   \[Resolved\] by rr000004251
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   Please help
-    *   \[Resolved\] by Relyu
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   WHY CANT I GET MY JOURNAL BACK
-    *   \[Resolved\] by BlackRosesInMyHeart
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   old blog still not viewable
-    *   \[Resolved\] by jackylam1991
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   Paid for an account did not migrate to 2.0
-    *   \[Resolved\] by feliciachiou
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   unable to change profile email
-    *   by tent\_of\_meeting
-    *   1 day ago
-    *   in Emails
-    *   0 votes
-    *   0
+    *   1 (last comment by eugenia 2 days ago)
 
 1 2 3 ... 101 Next
 
