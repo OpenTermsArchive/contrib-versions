@@ -8,21 +8,87 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   I can't even login to my old site at quite\_content
+    *   \[Resolved\] by sportymarine
+    *   6 days ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by quite\_content 2 hours ago)
+*   missing previous blog please help
+    *   by aboutsiyu
+    *   5 hours ago
+    *   in Adding &. Editing Entries
+    *   0 votes
+    *   0
+*   Where is my archive?
+    *   \[Resolved\] by cowautlgc
+    *   2 months ago
+    *   in Data Migration
+    *   0 votes
+    *   18 (last comment by Asian\_hero 8 hours ago)
+*   Blog
+    *   by blhilton
+    *   8 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   PLX HELP
+    *   by cdloveu
+    *   11 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Miss my entry
+    *   \[Resolved\] by wanglok52
+    *   3 weeks ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by wanglok52 12 hours ago)
+*   how can i access my old blogs
+    *   by e\_e
+    *   13 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Migration of old blogs
+    *   by SuperCowball
+    *   14 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by SuperCowball 14 hours ago)
+*   please Migrate my blog
+    *   by chingman080606
+    *   17 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   my blog wasn't archived. I'm devastated. please help
+    *   by albertine58
+    *   19 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Premium account and lost adsense?
+    *   \[Resolved\] by angrymidgetyo
+    *   1 week ago
+    *   in Premium
+    *   0 votes
+    *   2 (last comment by angrymidgetyo 22 hours ago)
 *   Tried to download my blog and it saying 0 files uploaded
     *   by Ryou\_0
-    *   10 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   i cant see all my old post
     *   by JoanneNNN
-    *   11 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Lost blog....
     *   by sputnik903
-    *   16 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -31,75 +97,9 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by LuciaLai 20 hours ago)
-*   cannot update new post..
-    *   by LuciaLai
-    *   20 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Blog gone
-    *   by iamawookiee
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   where is my pictures???
-    *   by cuteppsc
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   10 (last comment by cuteppsc 1 day ago)
-*   Google feedburner and Xanga email subscriptions
-    *   by naphtali\_deer
-    *   1 day ago
-    *   in Miscellaenous
-    *   0 votes
-    *   0
-*   Some pictures lost after 2.0 Migration.
-    *   by SusanPienHsu
-    *   1 month ago
-    *   in Pictures
-    *   0 votes
-    *   4 (last comment by Superbuds 1 day ago)
-*   Can not see any past post
-    *   by Arakune
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   XML file
-    *   by thefunke
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   my xanga didn't appear after logging in
-    *   by LiNg\_Ngan\_FDs
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   could you give me back my blog?
-    *   \[Resolved\] by jameschan08
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
-*   Please recover my blog
-    *   \[Resolved\] by bittentothequick
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
-*   Please provide backup of my blog
-    *   \[Resolved\] by rr000004251
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   2 (last comment by LuciaLai 1 day ago)
 
-1 2 3 ... 101 Next
+1 2 3 ... 102 Next
 
 Help Categories
 
