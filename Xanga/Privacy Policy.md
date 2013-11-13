@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   I can't even login to my old site at quite\_content
-    *   \[Resolved\] by sportymarine
-    *   6 days ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by quite\_content 2 hours ago)
-*   missing previous blog please help
-    *   by aboutsiyu
-    *   5 hours ago
-    *   in Adding &. Editing Entries
+*   So basically Xanga isn't free anymore?
+    *   by Endrizzle
+    *   55 minutes ago
+    *   in Premium
     *   0 votes
     *   0
-*   Where is my archive?
-    *   \[Resolved\] by cowautlgc
+*   Where is all my and my wifes xangas?
+    *   \[Resolved\] by Slept\_Through\_Class
     *   2 months ago
     *   in Data Migration
     *   0 votes
-    *   18 (last comment by Asian\_hero 8 hours ago)
-*   Blog
-    *   by blhilton
-    *   8 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   PLX HELP
-    *   by cdloveu
-    *   11 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Miss my entry
-    *   \[Resolved\] by wanglok52
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by wanglok52 12 hours ago)
-*   how can i access my old blogs
-    *   by e\_e
-    *   13 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Migration of old blogs
-    *   by SuperCowball
-    *   14 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by SuperCowball 14 hours ago)
-*   please Migrate my blog
-    *   by chingman080606
-    *   17 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
+    *   3 (last comment by Slept\_Through\_Class 1 hour ago)
 *   my blog wasn't archived. I'm devastated. please help
-    *   by albertine58
-    *   19 hours ago
+    *   \[Resolved\] by albertine58
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   Premium account and lost adsense?
-    *   \[Resolved\] by angrymidgetyo
-    *   1 week ago
+    *   2 (last comment by albertine58 3 hours ago)
+*   Request to delete
+    *   \[Resolved\] by XRed\_ThunderX
+    *   1 month ago
+    *   in Miscellaenous
+    *   0 votes
+    *   1 (last comment by eugenia 11 hours ago)
+*   Bainbridge striders wants to close its Xanga account
+    *   \[Resolved\] by bainbridgestriders
+    *   1 month ago
+    *   in Miscellaenous
+    *   0 votes
+    *   1 (last comment by eugenia 11 hours ago)
+*   over charge of membership
+    *   \[Resolved\] by christy0321
+    *   1 month ago
     *   in Premium
     *   0 votes
-    *   2 (last comment by angrymidgetyo 22 hours ago)
-*   Tried to download my blog and it saying 0 files uploaded
-    *   by Ryou\_0
-    *   1 day ago
+    *   1 (last comment by eugenia 11 hours ago)
+*   Please Delete My Account
+    *   \[Resolved\] by hopeburnsbright
+    *   1 month ago
+    *   in Privacy
+    *   0 votes
+    *   1 (last comment by eugenia 11 hours ago)
+*   Please delete my account!
+    *   \[Resolved\] by XxNiNixX
+    *   1 month ago
+    *   in Miscellaenous
+    *   0 votes
+    *   1 (last comment by eugenia 11 hours ago)
+*   my xanga didn't appear after logging in
+    *   \[Resolved\] by LiNg\_Ngan\_FDs
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   i cant see all my old post
-    *   by JoanneNNN
-    *   1 day ago
+    *   1 (last comment by eugenia 11 hours ago)
+*   Renewing membership after expiration
+    *   \[Resolved\] by TheITPChronicles
+    *   6 days ago
+    *   in Premium
+    *   0 votes
+    *   2 (last comment by eugenia 11 hours ago)
+*   membership expire day
+    *   \[Resolved\] by jackyloveesther
+    *   6 days ago
+    *   in Premium
+    *   0 votes
+    *   2 (last comment by eugenia 11 hours ago)
+*   XML file
+    *   \[Resolved\] by thefunke
+    *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   Lost blog....
-    *   by sputnik903
-    *   1 day ago
+    *   1 (last comment by eugenia 11 hours ago)
+*   Can not see any past post
+    *   \[Resolved\] by Arakune
+    *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   My account is expired..
-    *   \[Resolved\] by LuciaLai
-    *   1 week ago
+    *   1 (last comment by eugenia 11 hours ago)
+*   Google feedburner and Xanga email subscriptions
+    *   by naphtali\_deer
+    *   3 days ago
+    *   in Miscellaenous
+    *   0 votes
+    *   1 (last comment by eugenia 11 hours ago)
+*   where is my pictures???
+    *   by cuteppsc
+    *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by LuciaLai 1 day ago)
+    *   11 (last comment by eugenia 11 hours ago)
 
 1 2 3 ... 102 Next
 
