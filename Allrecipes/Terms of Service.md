@@ -164,4 +164,9 @@ To be effective, the notification must be a written communication that includes 
 
 We may give notice of a claim of copyright infringement to our users by means of a general notice on the Web site, electronic mail to a user’s e-mail address in our records, or by written communication sent by first-class mail to a user’s address in our records. Allrecipes may, within its sole discretion, terminate authorization of users to its Web site who are repeat infringers.
 
-TOP
+TOP  
+
+**SMS Campaign**  
+Allrecipes.com is sponsoring the Thanksgiving Hero SMS Campaign: Text "Holiday" to 63485 and learn how to avoid the 12 most common Thanksgiving Cooking Disasters. Msg &. data rates may apply. You will receive one message upon participating. An automated message will be delivered to the phone number the consumer provides upon participating.  
+  
+Text **STOP** to cancel. Text **HELP** for help. Carriers on shortcode 63485 are as follows — Sprint, Boost, Verizon Wireless, AT&T, US Cellular®, Cricket, and T-Mobile®. For more information, contact Customer Care (877-571-0774). Contact for Consent is not a condition of purchase. For more information, see the Allrecipes Privacy Policy.
