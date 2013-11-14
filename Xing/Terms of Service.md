@@ -102,14 +102,14 @@ If you as a User are registered at XING for a purpose that is not related to eit
 
 **3.1** Right of cancellation
 
-You may cancel your contractual agreement with XING in writing (e.g., by letter, fax or email) within fourteen (14) days without stating a reason. The two-week period begins upon receipt of these instructions, but not before the contract has been executed, and also not prior to our fulfillment of our informational duties as per Par. 246 (2) in connection with Par. 1 (1 and 2) EGBGB, as well as our duties as per Par. 312e (1) line 1 BGB in connection with Par. 246 (3) EGBGB. The contract can be canceled by sending timely notification to:
+You may cancel your contractual agreement with XING in writing (e.g., by letter, fax or e-mail) within fourteen (14) days without stating a reason. The two-week period begins upon receipt of these instructions, but not before the contract has been executed, and also not prior to our fulfillment of our informational duties as per Par. 246 (2) in connection with Par. 1 (1 and 2) EGBGB, as well as our duties as per Par. 312e (1) line 1 BGB in connection with Par. 246 (3) EGBGB. The contract can be canceled by sending timely notification to:
 
 XING AG  
 Dammtorstraße 29-32  
 20354 Hamburg  
 Germany  
 Fax: +49 40 419 131 11  
-Email: en-invoice@xing.com
+E-mail: en-invoice@xing.com
 
 You may also deliver notice of termination using the contact form available at all XING Websites.
 
@@ -174,9 +174,9 @@ XING reserves the right to modify the services offered on the XING Websites and/
    
 6\. Term and Termination of Membership, Reimbursement of Advance Payments
 
-**6.1** The User may terminate the Free Membership at any time without cause. The User may deliver notice of termination using the contact form available on all XING Websites at any time. The termination notice shall include the User’s registered name and an email address of the User registered on one of the XING Websites.
+**6.1** The User may terminate the Free Membership at any time without cause. The User may deliver notice of termination using the contact form available on all XING Websites at any time. The termination notice shall include the User’s registered name and an e-mail address of the User registered on one of the XING Websites.
 
-**6.2** Premium Membership shall run for the period selected by the user when purchasing the membership. After this term, the membership will be extended by a term of the same length as the original term, unless terminated in due time by the User or XING. The User and XING may each terminate without cause Premium membership to the end of the initial term chosen by the User in the course of the registration process, or to the end of any renewal period after said minimum term expires, by giving notice of fourteen (14) business days. The User may deliver notice of termination using the contact form available on all XING Websites. Furthermore, the User may deliver termination by sending a fax or letter to XING. The termination notice shall include the username of the User and an email address of the User registered on the XING Websites. If Premium Membership has been terminated, the User is entitled to retain a Free Membership until this membership is terminated. The provisions of this section 6.2 shall not affect the right of both parties to terminate the agreement for good cause.
+**6.2** Premium Membership shall run for the period selected by the user when purchasing the membership. After this term, the membership will be extended by a term of the same length as the original term, unless terminated in due time by the User or XING. The User and XING may each terminate without cause Premium membership to the end of the initial term chosen by the User in the course of the registration process, or to the end of any renewal period after said minimum term expires, by giving notice of fourteen (14) business days. The User may deliver notice of termination using the contact form available on all XING Websites. Furthermore, the User may deliver termination by sending a fax or letter to XING. The termination notice shall include the username of the User and an e-mail address of the User registered on the XING Websites. If Premium Membership has been terminated, the User is entitled to retain a Free Membership until this membership is terminated. The provisions of this section 6.2 shall not affect the right of both parties to terminate the agreement for good cause.
 
 **6.3** A good cause is defined as an event which makes it unacceptable for XING to continue the agreement to the end of the termination period, taking into account all circumstances of the individual case and weighing the interests of XING against the User's. A good cause includes any the following events:
 
@@ -250,7 +250,7 @@ XING recognizes that any data provided by the User to XING is extremely importan
 
 **12.2** XING reserves the right to adequately increase the price of Premium Membership at most once per calendar year with effect from the start of a new renewal period following either the minimum usage period or the respective current renewal period. In such cases, XING will notify users accordingly at least six (6) weeks before the end of the minimum usage period or the respective current renewal period. If the User does not consent to this price increase, he or she can revoke it via the contact form, letter, fax or e-mail within three (3) weeks. Revoking the price increase is equivalent to the User cancelling his or her Premium Membership as of the end of his or her current minimum usage period.
 
-**12.3** Unless otherwise stated in these GTC, the User may submit all notices to XING using the contact form provided on each of the XING Websites, or by letter or fax. XING may send notices to the User by email, fax or post to the addresses given in the User’s current contact data in his or her user account.
+**12.3** Unless otherwise stated in these GTC, the User may submit all notices to XING using the contact form provided on each of the XING Websites, or by letter or fax. XING may send notices to the User by e-mail, fax or post to the addresses given in the User’s current contact data in his or her user account.
 
 **12.4** If any provision of these GTC is, for any reason, invalid and/or unenforceable, the remaining provisions shall continue to be valid and enforceable to the fullest extent permitted by law.
 
