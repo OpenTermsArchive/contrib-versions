@@ -42,7 +42,7 @@ XFINITY
 *   Support
 *   Sign Out
 
-XFINITY Privacy Policy Privacy Policy Archive (Previous Versions) **Effective October 7, 2011 Learn More**Web Services Privacy Policy  
+XFINITY Privacy Policy This is an archived privacy policy. It is not current. For the current policy, please click here. Privacy Policy Archive (Previous Versions) **Effective October 7, 2011 Learn More**Web Services Privacy Policy  
 October 7, 2011 Summary (Jump to Full Policy) What the Privacy Policy does
 
 The Web Services Privacy Policy describes the information Comcast collects about you, how Comcast uses that information, and how Comcast protects your privacy when you use the Websites and the services and software we offer here: www.comcast.net, customer.comcast.com, www.tunerfish.com, and www.plaxo.com.
