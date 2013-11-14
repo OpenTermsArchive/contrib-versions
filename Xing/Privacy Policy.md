@@ -53,7 +53,7 @@ Your password and/or your username are never visible to any XING Member at any t
 
 Furthermore, you will need to fill out certain mandatory fields in the course of the registration process, such as:
 
-*   Business email account
+*   Business e-mail account
 *   Business telephone number
 *   First name, last name, form of address
 *   Date of birth
@@ -74,7 +74,7 @@ The following Personal Data from these mandatory fields is accessible to other X
 
 With respect to the following mandatory Personal Data, you may choose in each individual case whether the data shall be displayed to a specific other XING Member or not:
 
-*   Business email account
+*   Business e-mail account
 *   Business telephone number
 *   Date of birth
 
@@ -128,7 +128,7 @@ If you use any of XING's paid services, XING will collect and use your billing d
 
 **4\. Visibility of your Profile to Non-Members of XING**
 
-Under "Privacy" you can set the level of your privacy at any time. This means that you decide whether to increase your level of privacy or opt in favour of more visibility online, enabling more exposure of your profile for potential business partners. When you register, your default privacy settings rather promote the spirit of networking. The data contained in your profile is visible to non-members of XING and traceable by search engines on the Internet. This, however, does not include personal contact details such as email addresses or phone numbers.
+Under "Privacy" you can set the level of your privacy at any time. This means that you decide whether to increase your level of privacy or opt in favour of more visibility online, enabling more exposure of your profile for potential business partners. When you register, your default privacy settings rather promote the spirit of networking. The data contained in your profile is visible to non-members of XING and traceable by search engines on the Internet. This, however, does not include personal contact details such as e-mail addresses or phone numbers.
 
 If you signed up to XING before 17.08.2007 the following regulation continues to apply:
 
@@ -166,14 +166,14 @@ XING provides its members with services allowing them to process their own data 
 
 As a XING Member you may invite others to join XING. XING shall process personal data collected in the course of the invitation on behalf of the XING member solely for expanding their network, e.g. through contact suggestions, and shall not use it for any other purposes.
 
-XING will send a reminder email ("automatic reminder") on behalf of the XING member to the recipient of the invitation 21 days after you send the invitation. You can deactivate the automatic reminder feature in your settings. You are also able to send out manual reminder emails in addition to the automatic reminder feature. XING only saves encrypted copies of the email addresses to which you send invitations. This encryption is removed temporarily when you view these email addresses in your XING account. You can delete the data in your account at any time. Invitation recipients have the right to revoke the use of their email address for invitation purposes at any time.
+XING will send a reminder e-mail ("automatic reminder") on behalf of the XING member to the recipient of the invitation 21 days after you send the invitation. You can deactivate the automatic reminder feature in your settings. You are also able to send out manual reminder e-mails in addition to the automatic reminder feature. XING only saves encrypted copies of the e-mail addresses to which you send invitations. This encryption is removed temporarily when you view these e-mail addresses in your XING account. You can delete the data in your account at any time. Invitation recipients have the right to revoke the use of their e-mail address for invitation purposes at any time.
 
 Please note that the following sections of your Personal Data are displayed to the recipient of the invitation:
 
 *   Your name
 *   Your company name
 *   Your position
-*   Your email address
+*   Your e-mail address
 *   Your photograph
 *   Your membership status
 
@@ -191,13 +191,13 @@ Any information registered by Clickpath is deleted by XING automatically within 
 
 The XING Services offer various possibilities to search for particular XING Members, including a Power Search feature and a Search Agent feature. These various search functions may assist you, for example, in finding other XING Members with similar interests. The search functions can also help you to initiate contact with other XING Members who offer exactly what you are looking for. Thus, you can find the contacts you need - and systematically expand your personal network.
 
-**11\. Newsletter, weekly Status emails**
+**11\. Newsletter, weekly status e-mails**
 
-XING regularly sends out newsletters or weekly status emails (collectively hereinafter referred to as the "newsletter(s)") to all XING Members. In these newsletters XING may inform you, among other things, about new features on XING, about your events in the upcoming week, and XING may also provide you with specific personal statistics from the respective past calendar week (i.e. the number of hits on your Profile, whether you have new contacts to be confirmed and/or new private messages, etc.).
+XING regularly sends out newsletters or weekly status e-mails (collectively hereinafter referred to as the "newsletter(s)") to all XING Members. In these newsletters XING may inform you, among other things, about new features on XING, about your events in the upcoming week, and XING may also provide you with specific personal statistics from the respective past calendar week (i.e. the number of hits on your Profile, whether you have new contacts to be confirmed and/or new private messages, etc.).
 
 Finally, XING may inform you about three (3) random XING Members who have visited your Profile in the past week. Of course, this may also apply to yourself vice versa, i.e. you may be one of those random XING Members with regard to another XING Member whose Profile you have visited in the past week.
 
-You may choose to unsubscribe from the newsletter at any time by changing you notification settings on XING or by sending an email to the link provided at the end of each newsletter without costs arising by virtue thereof, other than transmission costs pursuant to the basic rates.
+You may choose to unsubscribe from the newsletter at any time by changing you notification settings on XING or by sending an e-mail to the link provided at the end of each newsletter without costs arising by virtue thereof, other than transmission costs pursuant to the basic rates.
 
 **12\. Cookies and pixels**
 
@@ -211,7 +211,7 @@ You can edit the settings of your browser to prevent cookies from being stored, 
 
 Third-party cookies could also be stored on your PC or end device when using XING and/or XING applications which are partially or entirely provided by third parties. You can prevent such cookies from being stored in your browser by adjusting the browser settings accordingly.
 
-XING uses so-called pixels, Web beacons, clear GIFs and other similar mechanisms ("Pixels"). A pixel is an image file or link to an image file added to the Website code but not sent to your end device (e.g. PC, smartphone, etc.). Pixels are largely used for the same reasons as cookies, i.e. to analyze the number of people who use our website or, if the user's email program allows HTML, to determine whether and when an email was opened. Pixels help us to check and optimize the effectiveness of our Websites, offers and advertising campaigns. Pixels do not provide us with personal information and do not enable us to track users. Pixels are usually used in conjunction with cookies. If you have deactivated the use of cookies in your browser, then the pixel will only report an anonymous website visit.
+XING uses so-called pixels, Web beacons, clear GIFs and other similar mechanisms ("Pixels"). A pixel is an image file or link to an image file added to the Website code but not sent to your end device (e.g. PC, smartphone, etc.). Pixels are largely used for the same reasons as cookies, i.e. to analyze the number of people who use our website or, if the user's e-mail program allows HTML, to determine whether and when an e-mail was opened. Pixels help us to check and optimize the effectiveness of our Websites, offers and advertising campaigns. Pixels do not provide us with personal information and do not enable us to track users. Pixels are usually used in conjunction with cookies. If you have deactivated the use of cookies in your browser, then the pixel will only report an anonymous website visit.
 
 We also use pixel-based and cookie-based conversion tracking technologies in order to be able to measure the success of our advertising campaigns, for example. To this end we use technologies provided by Google, Yahoo!, Bing etc. The following links contain information these providers have published with regard to cookies and opting out:
 
