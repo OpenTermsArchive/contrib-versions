@@ -26,53 +26,33 @@ We receive information about you through vehicle sales records provided by your 
 The types of information that GM collects about you may include, but are not limited to:  
  
 
-**●** contact information (such as name, address, city, state and ZIP code, email address and telephone number)
-
-**●** vehicle information (such as vehicle identification number (VIN), make, model, model year, selling dealer, servicing dealer, date of purchase or lease and service history)
-
-**●** vehicle performance data (such as engine and transmission performance, airbag deployment conditions or crash or near crash information about how a vehicle’s systems performed)
-
-**●** demographic information (such as age range, marital status and household composition)
-
-**●** non-credit-related marketing profile information (such as when you plan to purchase or lease. the vehicle in which you're interested)
-
-**●** relationships you have with GM in addition to the purchase and servicing of your vehicle (such as through a GM Card or OnStar)
-
-**●** incentive eligibility verification information (such as college name, branch of service or credit union name for vehicle purchase programs)
-
-**●** Social Security Number (in limited circumstances GM may collect SSN, for example if you win a sweepstakes or receive compensation that must be reported for government tax purposes)
-
-**●** investor information (name, address, phone number and email address)
-
-**●** stockholder services information (such as account information)
-
-**●** photographs such as those that you may submit for contests or sweepstakes
+*   contact information (such as name, address, city, state and ZIP code, email address and telephone number)
+*   vehicle information (such as vehicle identification number (VIN), make, model, model year, selling dealer, servicing dealer, date of purchase or lease and service history)
+*   vehicle performance data (such as engine and transmission performance, airbag deployment conditions or crash or near crash information about how a vehicle’s systems performed)
+*   demographic information (such as age range, marital status and household composition)
+*   non-credit-related marketing profile information (such as when you plan to purchase or lease. the vehicle in which you're interested)
+*   relationships you have with GM in addition to the purchase and servicing of your vehicle (such as through a GM Card or OnStar)
+*   incentive eligibility verification information (such as college name, branch of service or credit union name for vehicle purchase programs)
+*   Social Security Number (in limited circumstances GM may collect SSN, for example if you win a sweepstakes or receive compensation that must be reported for government tax purposes)
+*   investor information (name, address, phone number and email address)
+*   stockholder services information (such as account information)
+*   photographs such as those that you may submit for contests or sweepstakes
 
 **Use  
 **  
 The information GM collects about you and your vehicle will be used:
 
-**●** to provide products and services
-
-**●** to maintain customer relationships
-
-**●** to operate GM websites
-
-**●** to provide customer and vehicle support and service (such as recall information or warranty service)
-
-**●** to provide information and product updates
-
-**●** to evaluate vehicle performance and safety as described in the vehicle owner manual
-
-**●** for safety and product research purposes
-
-**●** to verify eligibility for vehicle purchase or incentive programs
-
-**●** for marketing purposes
-
-**●** to customize and improve communication content
-
-**●** to comply with legal requirements
+*   to provide products and services
+*   to maintain customer relationships
+*   to operate GM websites
+*   to provide customer and vehicle support and service (such as recall information or warranty service)
+*   to provide information and product updates
+*   to evaluate vehicle performance and safety as described in the vehicle owner manual
+*   for safety and product research purposes
+*   to verify eligibility for vehicle purchase or incentive programs
+*   for marketing purposes
+*   to customize and improve communication content
+*   to comply with legal requirements
 
 You may choose to forward information from one of our websites or emails to another person through our Forward to a Friend program. Email addresses submitted to our E-card or other Forward to a Friend programs will not be captured for later use in marketing unless the recipient opts into receiving additional marketing materials from GM.  
  
@@ -89,19 +69,13 @@ Through the Infotainment system, GM may also offer applications developed by thi
 GM may share the information it collects about you or your vehicle in the following instances:  
  
 
-**●** as required by law, such as in conjunction with a subpoena, government inquiry, litigation, dispute resolution or similar legal process
-
-**●** when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud or respond to a law enforcement request
-
-**●** with our services providers who work on our behalf and who do not have an independent right to use the information to which they have access or that we disclose to them
-
-**●** with our business partners for GM marketing activities, business partner marketing activities or both
-
-**●** with third parties for research and development purposes (such as university research institutes for improving highway safety)
-
-**●** in connection with the sale, transfer or financing of a significant part of a GM business or its assets, including any such activities associated with a bankruptcy proceeding
-
-**●** within GM, with our subsidiaries and affiliates, with GM dealers and with GM licensees. however, transaction information regarding your GM Card will not be shared with GM dealers.
+*   as required by law, such as in conjunction with a subpoena, government inquiry, litigation, dispute resolution or similar legal process
+*   when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud or respond to a law enforcement request
+*   with our services providers who work on our behalf and who do not have an independent right to use the information to which they have access or that we disclose to them
+*   with our business partners for GM marketing activities, business partner marketing activities or both
+*   with third parties for research and development purposes (such as university research institutes for improving highway safety)
+*   in connection with the sale, transfer or financing of a significant part of a GM business or its assets, including any such activities associated with a bankruptcy proceeding
+*   within GM, with our subsidiaries and affiliates, with GM dealers and with GM licensees. however, transaction information regarding your GM Card will not be shared with GM dealers.
 
 Apart from the purposes listed above, GM will not share information about you or your vehicle with other third parties for their independent use without your permission.  
  
@@ -189,13 +163,10 @@ You may correct GM credit cardmember information, such as name, address, phone n
 
   
 
-**●** GM Card 800-771-7363
-
-**●** GM Flexible Earnings Card 800-388-9107
-
-**●** GM Extended Family Card 800-419-6698
-
-**●** GM Business Card 800-446-5347
+*   GM Card 800-771-7363
+*   GM Flexible Earnings Card 800-388-9107
+*   GM Extended Family Card 800-419-6698
+*   GM Business Card 800-446-5347
 
   
 You may change your GM Vehicle Preferences and email address by logging into the “Earnings” portion of the site and clicking on “GM Vehicle Preferences” or “GM Profile.”
@@ -206,16 +177,11 @@ If you have a question or concern about the privacy practices of the GM Cardmemb
   
 For GM Family First participants, you may correct your information by contacting your Human Resources representative or updating your information via Socrates. For Vehicle Purchase Plan (“VPP”) participants, you may correct your personal information by visiting the following VPP websites.
 
-**●** GM Supplier Discount
-
-**●** GM Dealership Employee Discount
-
-**●** GM College Discount
-
-**●** GM Military Discount
-
-**●** Credit Union Discount from GM  
-    
+*   GM Supplier Discount
+*   GM Dealership Employee Discount
+*   GM College Discount
+*   GM Military Discount
+*   Credit Union Discount from GM
 
 **Changes to Privacy Statement**  
   
