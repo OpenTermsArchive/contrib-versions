@@ -66,7 +66,7 @@ To ensure uninterrupted service, all subscriptions to Grammarly are renewed au
 
 Free trial
 
-Grammarly may offer a free trial membership from time to time. If you accept such an offer, no charges will be applied to your account until the end of the trial period. If you do not wish to be charged, you must cancel the Services before the end of the trial period. Grammarly will not refund any fees that have accrued to your account(s) after the free trial period.
+Grammarly may offer a free trial membership from time to time. If you accept such an offer, no charges will be applied to your account until the end of the trial period. If you do not wish to be charged, you must cancel the Services before the end of the trial period. Grammarly will not refund any fees that have accrued to your account(s) after the free trial period. If you cancel the Services before the end of the trial period, all your rights to any remaining free trial period will be waived and you will not be eligible to participate in any further trials.
 
 Termination and Refund Policy
 
@@ -117,6 +117,8 @@ Your registration to use the Site and/or Services constitutes your consent to 
 Data Collection and Privacy
 
 Grammarly does not collect personally identifying information from you except to the extent you have explicitly given such information to Grammarly. Grammarly’s information practices are further described in its privacy policy. The privacy policy is part of this Agreement and is incorporated by reference, and you agree that utilization of data as described in the privacy policy is not an actionable breach of your privacy or publicity rights. Read the privacy policy at http://privacy-policy.truste.com/verified-policy/www.grammarly.com.
+
+In addition, Grammarly may engage third parties to help us conduct risk control and fraud detection/prevention activities. As part of such engagements, if you initiate a transaction on our Site or through our Services, we may give such third parties access to your pertinent credit card and other personal information. Such third parties may only use such personal information for purposes of performing risk control and fraud detection/prevention activities for us. However, they may also convert such personal information into hashed or encoded representations of such information to be used for statistical and/or fraud prevention purposes. By initiating any such transaction, you hereby consent to the foregoing disclosure and use of your information.
 
 Ownership
 
