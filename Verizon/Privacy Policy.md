@@ -1,33 +1,33 @@
 Verizon is Committed to Protecting Your Privacy
 
-Protecting our customers' privacy is an important priority at Verizon and we are committed to maintaining strong and meaningful privacy protections for customers. Our privacy policy is designed to inform you about the information we collect, how we use it, and your options with regard to that collection and use. Key elements of our full privacy policy are summarized below.
+At Verizon, we are committed to maintaining strong and meaningful privacy protections for customers. Our privacy policy is designed to inform you about the information we collect, how we use it, and your options about certain uses of information. Key elements of our full privacy policy are summarized below.
 
 Verizon's privacy policy applies to customers of the Verizon family of companies in the United States and to visitors to Verizon websites. It does not apply to Verizon Business customers outside the United States.  
 Read more
 
 Information We Collect and How We Use It
 
-Verizon collects and uses information about our customers and website visitors for a variety of purposes. Information is obtained when you interact with us, when you use our products and services, and when you visit our websites.
+Verizon collects and uses information about our customers and website visitors when you interact with us, when you use our products and services, and when you visit our websites.
 
-This information is used to deliver, provide, and repair products or services. establish and maintain customer accounts and billing records. contact you about our products and services and better direct specific offers or promotions to you. monitor website statistics. manage and protect our networks. monitor our customer service employees. and establish your online account. Information may also be aggregated or anonymized for business and marketing uses by us or by third parties.
+This information is used to deliver, provide, and repair products or services. establish and maintain customer accounts and billing records. contact you about our products and services and direct offers or promotions to you. monitor website statistics. and manage and protect our networks. Information may also be aggregated or anonymized for business and marketing uses by us or by third parties.
 
-We may also obtain consumer information such as demographic and interest data from outside companies who provide such data. We use this data and combine it with other information we have to help us predict customer preferences and to direct marketing offers.  
+We may also obtain consumer information (such as demographic and interest data) from outside companies who provide such data. We use this data and combine it with other information we have to help us predict customer preferences and direct marketing offers.  
 Read more
 
 Information Provided to or Used by Third-Party Advertisers
 
-You may see third-party advertisements on some Verizon websites, services, or devices. In some instances, third-party advertisers seek to provide advertising that they believe is more relevant to your interests. In these instances, cookies may be placed and used by advertising companies to collect information about your visit to our websites and may be combined with similar information obtained from other websites. We also may provide third-party advertisers with geographic or demographic information that allows them to tailor their ads. This information does not identify you individually. You have choices about how to limit the use of your information.  
+You may see third-party advertisements on some Verizon websites, services, or devices. In some instances, advertisers seek to provide advertising that may be more relevant to your interests. They do this, for example, by placing cookies on your browser and using them to collect information about your visit on our websites . They may combine this information with similar information obtained from other websites. We also may provide third-party advertisers with the ability to target their ads using geographic or demographic information about customers. This information does not identify you individually. You have choices and may limit the use of your information.  
 Read more
 
 Information We Share  
 Within the Verizon Family of Companies:
 
-Verizon shares customer information within our family of companies for operational purposes. We also share customer information within our family of companies for our own marketing purposes unless you advise us not to. Specific laws govern our sharing and use of certain customer information known as Customer Proprietary Network Information.  
+Verizon shares customer information within our family of companies. You can limit our sharing of certain types of customer information, known as Customer Proprietary Network Information, for marketing purposes.  
 Read more
 
 Outside the Verizon Family of Companies:
 
-Except in certain circumstances explained in our Privacy Policy, in privacy policies for specific services, or in agreements with our customers, Verizon does not sell, license or share information that individually identifies our customers with others outside of Verizon for non-Verizon purposes without your consent. We may share information with our vendors and partners for business purposes and to the extent reasonably necessary for them to perform work on our behalf. Verizon may also share certain information with outside companies to assist with the delivery of advertising campaigns or preparing and sharing aggregate business and marketing reports.  
+Except in circumstances explained in our Privacy Policy, in privacy policies for specific services, or in agreements with our customers, Verizon does not sell, license or share information that individually identifies our customers with others outside of Verizon for non-Verizon purposes without your consent. We may share information with our vendors and partners for business purposes and when necessary for them to perform work on our behalf. Verizon may also share certain non-personal identifiable information with outside companies to assist with the delivery of advertising campaigns or preparing and sharing aggregate business and marketing reports.  
 Read more
 
 How to Limit the Sharing and Use of Your Information  
@@ -60,12 +60,12 @@ Your Choices
     
 *   FiOS TV Services:
     
-    Specific cable-related privacy protections apply to Verizon's FiOS TV subscribers.  
+    Specific privacy protections apply to Verizon's FiOS and other fiber-to-the-premises services.  
     Read more
     
-*   Geographic and Relevant Mobile Advertising:
+*   Relevant Advertising:
     
-    Verizon wireline Internet access customers may opt-out of participating in certain geographically-based advertising programs. Verizon Wireless Internet customers may opt-out of participating in relevant mobile advertising programs.  
+    Customers may opt-out of participating in relevant advertising programs on their Internet access services or their FiOS television service.  
     Read more
     
 *   Business and Marketing Reports:
@@ -89,10 +89,10 @@ Contact Information
 If you have questions, concerns or suggestions related to our Privacy Policy or our privacy practices, you may contact us at:  
   
 Verizon Privacy Office  
-1320 North Courthouse Road  
-9th Floor  
-Arlington, VA 22201  
-Fax: 703-351-3669  
+1300 I Street, NW  
+Suite 400 West  
+Washington, DC 20005  
+Fax: 202-789-1432  
 Email: privacyoffice@verizon.com
 
 Accessing and Updating Your Information
@@ -108,6 +108,6 @@ Read more
 Verizon is a licensee of the TRUSTe Privacy Program.  
 Read more
 
-Updated September 2011
+Updated November 2013
 
-© 2009, 2011 Verizon. All Rights Reserved.
+© 2009, 2011-2013 Verizon. All Rights Reserved.
