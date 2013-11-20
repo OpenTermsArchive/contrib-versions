@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Snap Frame Selection: Searching Beyond the Obvious
-    *   by displayaboards
-    *   37 minutes ago
-    *   in Adding &. Editing Entries
-    *   0 votes
-    *   0
 *   Another missing blog
     *   \[Resolved\] by privythoughts
-    *   21 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by privythoughts 1 hour ago)
+    *   3 (last comment by eugenia 10 hours ago)
+*   xanga not for free use?
+    *   \[Resolved\] by timothy\_to1987
+    *   18 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 11 hours ago)
+*   Cannot find old archive to download.
+    *   \[Resolved\] by Haught5724
+    *   13 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 11 hours ago)
 *   8 years of blogs missing!
-    *   by FabricWarp
+    *   \[Resolved\] \[closed\] by FabricWarp
     *   2 months ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by FabricWarp 2 hours ago)
+    *   1 (last comment by FabricWarp 1 day ago)
 *   Tried to download my blog and it saying 0 files uploaded
     *   \[Resolved\] by Ryou\_0
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by eugenia 11 hours ago)
+    *   3 (last comment by eugenia 1 day ago)
 *   CANT POST
     *   \[Resolved\] by apathy\_sucks
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by eugenia 11 hours ago)
+    *   3 (last comment by eugenia 1 day ago)
 *   Money Back Guarantee
     *   \[Resolved\] by dixlove
     *   1 month ago
     *   in Premium
     *   0 votes
-    *   1 (last comment by eugenia 12 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   Accessing old blog and media files
     *   \[Resolved\] by Hoobastank\_Luva
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 12 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   How do I delete my blog?
     *   \[Resolved\] by Pysia89
     *   1 month ago
     *   in Privacy
     *   0 votes
-    *   1 (last comment by eugenia 13 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   Don't think I met criteria, but would like archives back
     *   \[Resolved\] by xlido\_strawberreex
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by eugenia 13 hours ago)
+    *   3 (last comment by eugenia 1 day ago)
 *   Is my blog data still available?
     *   \[Resolved\] by Dra\_Vymmah
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 13 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   how can i login my old blogs
     *   \[Resolved\] by kiluv12
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 13 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   Forgot to migrate old blog
     *   \[Resolved\] by thirdlifecrisis
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 1 day ago)
+*   Help
+    *   \[Resolved\] by angelicgrl4eva05
     *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 13 hours ago)
-*   Help
-    *   \[Resolved\] by angelicgrl4eva05
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 13 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   Expired account
     *   \[Resolved\] by emmajunemolle
-    *   1 day ago
+    *   2 days ago
     *   in Premium
     *   0 votes
-    *   1 (last comment by eugenia 13 hours ago)
-*   How to Download Archived Blogs
-    *   \[Resolved\] by Liestearsmiles
-    *   22 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 13 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 
 1 2 3 ... 103 Next
 
