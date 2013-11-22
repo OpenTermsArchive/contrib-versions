@@ -4,6 +4,8 @@ At LinkedIn, our fundamental philosophy is “members first.” That value power
 
 We’ve crafted the policy below to be as clear and straightforward as possible. Our aim is for you—our members—to always feel informed and empowered with respect to your privacy on LinkedIn. Visit our Safety Center for tips on using LinkedIn smartly and securely.
 
+View our California DNT notice
+
 *   Introduction
 *   Information Collected
 *   Uses &. Sharing of Personal Info
