@@ -81,13 +81,13 @@ It is important that you read the entirety of and understand this document. Ther
 
 (e) other than for the purposes of download and installation, use the Software except through your User Account.
 
-**4.3 Third-Party Technology.** If you are using Software pre-loaded on, embedded in, combined, distributed or used with or downloaded onto third party products, hardware, software applications, programs or devices (“**Third-Party Technology**”), you agree and acknowledge that: (a) you may be required to enter into a separate licence agreement with the relevant third party owner or licensor for the use of such Third-Party Technology. (b) some Products and/or functionality may not be accessible through the Third-Party Technology and (c) Skype cannot guarantee that the Software shall always be available on or in connection with such Third-Party Technology.
+**4.3 Other Technology**. If you are using Software pre-loaded on, embedded in, combined, distributed or used with or downloaded onto other products, hardware, software applications, programs or devices (“**Other Technology**”), you agree and acknowledge that: (a) you may be required to (i) enter into a separate licence agreement with. and/or (ii) purchase a subscription from. and/or (iii) pay a fee, to the relevant third party owner or licensor for the use of such Other Technology. (b) some Products and/or functionality may not be accessible through the Other Technology and (c) Skype cannot guarantee that the Software shall always be available on or in connection with such Other Technology.  
 
 **4.4 Third Party Notices.** The Software and Skype Websites may include third party code that Skype, not the third party, licenses to you under this agreement. Notices, if any, for the third party code are included for your information only. Third party scripts, linked to, called or referenced from the Software, are licensed to you by the third parties that own such code, not by Skype.
 
 **5\. USE OF THE SOFTWARE AND PRODUCTS AND SKYPE WEBSITES**
 
-**5.1 Equipment:** In order to use the Software and the Products you will need an Internet broadband connection. You are responsible for providing all equipment required to access the Internet or enable communications such as headsets, microphones and webcams.
+**5.1 Equipment:** In order to use the Software and the Products you will need an Internet broadband connection. You are responsible for providing all equipment required to access the Internet or enable communications such as headsets, microphones and webcams. Connecting to the Internet via a corporate or other private network which masks your location may cause charges to be different from those displayed for your actual location.  
 
 **5.2 Use of Your Equipment:** The Internet Communications Software may use the processing capabilities, memory and bandwidth of the computer (or other applicable device) you are using, for the limited purpose of facilitating the communication and establishing the connection between Internet Communications Software users. If your use of the Internet Communications Software is dependent upon the use of a processor and bandwidth owned or controlled by a third party, you acknowledge and agree that your licence to use the Internet Communications Software is subject to you obtaining consent from the relevant third party for such use. You represent and warrant that by accepting these Terms, you have obtained such consent.
 
@@ -293,7 +293,7 @@ You may not submit or publish through the Skype Website or Software any User Sub
 
 (i) any product or service provided by a third party under their own terms of service, including without limitation, Skype WiFi;
 
-(ii) any Third Party Technology;
+(ii) any Other Technology;  
 
 (iii) any third party website.
 
@@ -385,7 +385,7 @@ The Software and Documentation are “commercial computer software” and “com
 
 (a) **Fair Usage Policy.** At Skype, we want all of our customers to get the best calling plans, known as ‘subscriptions’, at the lowest possible price. This Fair Usage Policy ("FUP") is designed to prevent fraud and abuse of our subscriptions by a small number of users.
 
-Subject to this FUP, Skype’s unlimited subscriptions allow unlimited calls to landlines in the applicable subscription countries (excluding special, premium, service and non-geographic numbers). Unlimited calls to mobiles may also be included where stated at the time of purchase. All calls will be disconnected and require a re-dial after a 2-hour duration.
+Subject to this FUP, Skype’s unlimited subscriptions allow unlimited calls to landlines (and mobiles in certain countries) in the applicable subscription countries (excluding special, premium, service and non-geographic numbers). The countries included within your subscription are set at the time of original purchase and remain the same upon renewal. &nbsp;All calls will be disconnected and require a re-dial after a 2-hour duration.  
 
 Skype’s subscriptions are for individual use only (personal or business communications) in accordance with our Terms of Use and this FUP (“Legitimate Use”). The following is a non-exhaustive list of practices that would not be considered Legitimate Use:
 
@@ -433,9 +433,9 @@ Skype reserves the right to change the fair usage policy at any time. Changes sh
 
 **19.8 Skype Video Messaging (“Video Messaging”)**
 
-Subject to our Fair Use Policy (“FUP”) below, there are no limits on the number of Video Messages you can send. If you are not a Skype Premium subscriber, Video Messages will be kept for a minimum of 6 months from the date sent and may expire after that time.
+S19.8 Subject to our Fair Usage Policy (“FUP”) below, there are no limits on the number of Video Messages you can send. If you are not a Skype Premium subscriber, Video Messages will be kept for a minimum of 6 months from the date sent and may expire after that time.
 
-**Fair Use Policy:** This FUP is designed to prevent fraud and abuse of Video Messaging. Video Messaging is for personal, individual and non-commercial use only, and to be in accordance with these Terms at all times (“Legitimate Use”). Skype reserves the right to take any unlawful, prohibited, abnormal or unusual activity into account in making its determination as to whether your activity does not constitute Legitimate Use. Skype may in its option, terminate its relationship with you, or suspend your account immediately if it determines you are using Video Messaging contrary to this FUP or these Terms.
+**Fair Us**age** Policy:** This FUP is designed to prevent fraud and abuse of Video Messaging. Video Messaging is for personal, individual and non-commercial use only, and to be in accordance with these Terms at all times (“Legitimate Use”). Skype reserves the right to take any unlawful, prohibited, abnormal or unusual activity into account in making its determination as to whether your activity does not constitute Legitimate Use. Skype may in its option, terminate its relationship with you, or suspend your account immediately if it determines you are using Video Messaging contrary to this FUP or these Terms.
 
 **20\. PAY BY MOBILE**
 
@@ -469,4 +469,4 @@ Subject to our Fair Use Policy (“FUP”) below, there are no limits on the num
 
 **YOU EXPRESSLY ACKNOWLEDGE THAT YOU HAVE READ THESE TERMS AND UNDERSTAND THE RIGHTS, OBLIGATIONS, TERMS AND CONDITIONS SET FORTH HEREIN. BY CLICKING ON THE ACCEPT BUTTON AND/OR CONTINUING TO INSTALL THE SOFTWARE OR USE THE SOFTWARE, PRODUCTS AND/OR SKYPE WEBSITES, YOU EXPRESSLY CONSENT TO BE BOUND BY ITS TERMS AND CONDITIONS AND GRANT TO SKYPE THE RIGHTS SET FORTH HEREIN.**
 
-© Skype and/or Microsoft – Last updated: August 2013
+© Skype and/or Microsoft – Last updated: November 2013
