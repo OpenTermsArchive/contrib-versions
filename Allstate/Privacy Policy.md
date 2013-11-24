@@ -1,61 +1,109 @@
+Skip Navigation
+
 *   Find An Agent
 *   Contact Us
-*   Customer Log In
-    *   Forgot User ID or Password?
-        
-        Get the convenience of online  
-        account management today.
-        
-        Por Servicio al Cliente en  
-        Espanol, llame al 800.255.7828.
-        
 *   Español
+*   Denver, CO, 80202
 
-Search:
+Get a Quote?
 
-*   Investors
-    *   Quarterly Investor Info
-    *   SEC Filings
-    *   Statutory Info &. Reports
-    *   Conference Call Archives
-    *   Financial Strengths/Ratings
-    *   Calendar
-*   Newsroom
-    *   News Releases
-    *   Executive Bios
-    *   Image Gallery
-    *   Company Information
-    *   Media Contacts
-    *   Sponsorships &. Events
-*   Careers
-    *   Job Search
-    *   Internships
-    *   Agency Opportunities
-    *   Financial Rep Opportunities
-    *   Working at Allstate
-*   Customer Care
-    *   Payment &. Billing
-    *   Manage Your Account
-    *   Register
-    *   Paperless Solutions
-    *   Relocate with Allstate
-    *   Welcome Guide
-*   About Allstate
-    *   Social Responsibility
-    *   Allstate Overview
-    *   Diversity
-    *   Allstate Foundation
-    *   Teen Driving
-    *   Domestic Violence
-*   Products
-    *   Auto Insurance
-    *   Property
+Your location is set for Denver, CO, 80202
+
+Edit Select a product to get a quote. Retrieve a saved quote
+
+Auto
+
+Home
+
+Renters
+
+Life
+
+Condo
+
+Motorcycle
+
+Boat
+
+ATV/Rec. Vehicle
+
+Business Insurance
+
+More Insurance
+
+Find An Agent
+
+*   Insurance &. More
+    
+    *   Auto
+    *   Home
+    *   Renters
+    *   Condo
+    *   Motorcycle
+    *   Business
+    *   Life
+    
+    *   Boat
+    *   Motorhome
+    *   Snowmobile
+    *   ATV &. 4X4
+    *   Landlord
+    *   Retirement &. Savings
+    *   Suppplemental Health
+*   Claims
+    *   Overview
+    *   File A Claim
+    *   Track A Claim
+    *   Disaster Claims
+*   Support
+    *   Overview
+    *   Q &. A
+    *   Billing
+    *   Find An Agent
+    *   Contact Us
+*   Tools &. Resources
+    *   Welcome
+    *   Auto
+    *   Home
+    *   Life &. Retirement
+    *   Motorcycle
+    *   Renters
     *   Power Sports
-    *   Life / Retirement
-    *   Business / Other
-    *   Claims
+    *   Business Insurance
+    *   Deals
+*   My Account Login Log in to My Account: User Name Password Password Forgot user ID?Forgot password? Log In Create an account
 
-About Allstate Allstate Overview General Information Products Overview The Agent Difference Foundation Grants Financial and Other Reports History and Timeline Awards and Recognition Senior Leadership Team Board of Directors Executive Speeches Doing Business with Allstate Corporate Advocacy Diversity Corporate Governance Environment Social Responsibility Allstate Foundation Sponsorships &. Events Advertising &. Marketing Allstate Affiliate Program Home » Allstate Overview » Provacy Statement AIC 12 16 20 Important Notice Privacy Policy Statement
+About Allstate
+
+*   About Allstate
+*   Allstate Overview expand
+    *   General Information
+    *   Products Overview
+    *   The Agent Difference
+    *   Foundation Grants
+    *   Financial and Other Reports
+    *   History and Timeline
+    *   Awards and Recognition
+    *   Senior Leadership Team
+    *   Board of Directors
+    *   Executive Speeches
+*   Doing Business with Allstate
+*   Corporate Advocacy
+*   Diversity
+*   Corporate Governance
+*   Environment
+*   Corporate Responsibility
+*   Allstate Foundation
+*   Sponsorships &. Events
+*   Advertising &. Marketing
+*   Allstate Affiliate Program
+*   Auto Insurance Fraud
+
+Home >. Allstate Overview >. Privacy Statement AIC
+
+Text Size
+
+  A A A allstate.com Important Notice Privacy Policy Statement
 
   
   
@@ -222,6 +270,84 @@ Email: BCPINFO@ag.state.nv.us
 Please note that Allstate's "do not call" list is limited only to telephone solicitation calls. We may still contact you about your Allstate policy, billing issues, claims and other service matters.  
   
 **For Vermont residents:**  
-We won't share your personal information with Allstate companies for marketing purposes except as allowed by Vermont law. INVESTORS NEWSROOM CAREERS CUSTOMER CARE ABOUT ALLSTATE CAR INSURANCE &. OTHER PRODUCTS Discover Us! Allstate Blog Local Blogs Social Networks Mayhem Mobile TERMS OF USEPRIVACY &. SECURITYUNDERWRITING COMPANIESCONTACT USSITE MAP  
+We won't share your personal information with Allstate companies for marketing purposes except as allowed by Vermont law. Contact Us &. Quote
+
+Get A Quote
+
+Your location is set for:
+
+Denver, CO 80202 Edit Beginning of dialog window. It begins with a link called "Get a Quote?". Escape will cancel and close the window. Get a Quote? Select a product to get a quote.
+
+Auto
+
+Home
+
+Renters
+
+Life
+
+Condo
+
+Motorcycle
+
+Boat
+
+ATV/Rec. Vehicle
+
+Business Insurance
+
+More
+
+End Dialog. Retrieve a saved quote
+
+Agents Near 80202
+
+*   James Barthelemy 303-948-9879 1940 Blake St Ste 105 Denver, CO 80202 Visit website
+*   Denise Hoffman Insurance Service 303-628-0554 535 16th St # 350 Denver, CO 80202 Visit website
+*   Steve Kidd 719-238-1245 535 16th St Ste 210 Denver, CO 80202 Visit website
+*   K.D. Cox-Sakraida Insurance Agency, Inc. 303-433-2094 1932 W 33rd Ave Denver, CO 80211 Visit website
+*   Lou Toth 303-752-2999 1459 Ogden St # 5 Denver, CO 80218 Visit website
+
+Agent finder map
+
+24-hour support
+
+1-800-ALLSTATE (1-877-788-7828)
+
+*   About Allstate
+*   Allstate Overview
+*   Allstate Foundation
+*   Corporate Responsibility
+*   Investors
+*   Newsroom
+*   Careers
+*   Mayhem
+
+*   Contact Us
+*   Auto Insurance
+*   Home Insurance
+*   Claims
+*   Allstate Blog
+*   Allstate Apps
+
+Social
+
   
-© 2013 ALLSTATE INSURANCE COMPANY ALL RIGHTS RESERVED
+  
+  
+
+**©2013 Copyright Allstate Insurance Company**  
+All Rights Reserved
+
+*   TERMS OF USE
+*   PRIVACY &. SECURITY
+*   UNDERWRITING COMPANIES
+*   SITE MAP
+*   AD CHOICES
+
+Oops! You have entered an invalid ZIP. Please try again. ZIP Code: Cancel City, State
+
+Denver, CO
+
+Please Wait...Updating Location...  
+It's taking a bit longer than expected. Your update should be done soon.
