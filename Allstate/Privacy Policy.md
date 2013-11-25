@@ -312,7 +312,7 @@ Agent finder map
 
 24-hour support
 
-1-800-ALLSTATE (1-877-788-7828)
+1-800-ALLSTATE (1-800-255-7828)
 
 *   About Allstate
 *   Allstate Overview
