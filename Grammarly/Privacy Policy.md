@@ -2,12 +2,6 @@ Effective on April 13, 2010
 
 This privacy statement describes how Grammarly Inc. collects and uses the personal information you provide on our Web site: www.grammarly.com . It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-**TRUSTe**
-
-Grammarly Inc. is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
-
-If you have questions or concerns regarding this policy, you should first contact us at support@grammarly.com . If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
-
 Collection and Use | Information Sharing | Tracking Technologies | Security | Additional Info | Contact Info Collection and Use of Personal Information
 
 We collect the following personal information from you
@@ -28,6 +22,9 @@ We use this information to
 *   Administer your account
 *   Send you a newsletter
 *   Send you marketing communications
+*   Respond to your questions and concerns
+*   Improve our Web site and marketing efforts
+*   Conduct research and analysis
 
 **Choice/Opt-Out**
 
@@ -90,4 +87,4 @@ Contact Information
 
 You can contact us about this privacy statement by writing or email us at the address below:
 
-Grammarly Inc. 548 Market Street, #35410 San Francisco, CA, United States 94104 Email: support@grammarly.com Phone: 888-318-6146
+Grammarly Inc. 548 Market Street #35410 San Francisco, CA, United States 94104 Email: support@grammarly.com Phone: 888-318-6146
