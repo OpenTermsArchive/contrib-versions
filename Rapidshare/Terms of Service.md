@@ -78,7 +78,7 @@ RapidShare will endeavour to carry out necessary maintenance as quickly as possi
 
 8\. Changing from one type of account to another
 
-RapidShare will endeavour to make changing from one type of account to another as simple as possible. Should a paid service expire, your account will be converted to a free account, which can affect your stored data. Our Customer Service Team service will be happy to assist you with any questions you might have about this.
+RapidShare will endeavour to make changing from one type of account to another as simple as possible. Should a paid service expire, your account will be converted to a free account, which can affect your stored data. Our support service will be happy to assist you with any questions you might have about this.
 
 9\. How much storage space can you allocate at RapidShare?
 
@@ -108,7 +108,7 @@ If the renewal service is active, it will periodically debit your PayPal account
 
 14\. How and when can you deactivate the renewal service?
 
-The renewal service can be deactivated up to 24 hours before a paid service expires, electronically, under my Account. You can also deactivate the renewal service by E-Mail or telephone by contacting our Customer Service Team 3 business days before the expiration of a service.
+The renewal service can be deactivated up to 24 hours before a paid service expires, electronically, under my Account. You can also deactivate the renewal service by E-Mail or telephone by contacting our support 3 business days before the expiration of a service.
 
 15\. What happens if there are insufficient funds in your PayPal account?
 
@@ -166,7 +166,7 @@ RapidShare does not open or examine the data of its users and the data is neithe
 
 24\. Your account has been misused
 
-In the event of theft or suspicion of misuse of your account, please contact our Customer Service Team immediately. In addition we request that you file a complaint to the local police in the event of illegal activity and, in the case of damage, contribute to the best of your knowledge to the resolution of the case and the mitigation of that damage.
+In the event of theft or suspicion of misuse of your account, please contact our support immediately. In addition we request that you file a complaint to the local police in the event of illegal activity and, in the case of damage, contribute to the best of your knowledge to the resolution of the case and the mitigation of that damage.
 
 25\. Our services belong to us and we are proud of them
 
