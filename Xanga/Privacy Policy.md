@@ -8,22 +8,10 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   I want my blog back!
-    *   by ProAgressif
-    *   4 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Can't post
-    *   by cathaypacific\_cx
-    *   6 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Is Xanga closed for business?
-    *   by notforprophet
-    *   11 hours ago
-    *   in Data Migration
+*   javascript
+    *   by jackyloveesther
+    *   3 hours ago
+    *   in Themes
     *   0 votes
     *   0
 *   Where is my archive?
@@ -31,73 +19,85 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 months ago
     *   in Data Migration
     *   0 votes
-    *   21 (last comment by xJennified 11 hours ago)
-*   Blog archive
-    *   \[Resolved\] by morgie87
-    *   4 days ago
+    *   22 (last comment by paradiseliving 5 hours ago)
+*   I want my blog back!
+    *   by ProAgressif
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by morgie87 1 day ago)
+    *   1 (last comment by x\_burn\_the\_memories\_x 23 hours ago)
+*   Can't post
+    *   by cathaypacific\_cx
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Is Xanga closed for business?
+    *   by notforprophet
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Blog archive
+    *   \[Resolved\] by morgie87
+    *   5 days ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by morgie87 2 days ago)
 *   Cannot find old archive to download.
     *   \[Resolved\] by Haught5724
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by XxmrsdavisXx 1 day ago)
+    *   3 (last comment by XxmrsdavisXx 2 days ago)
 *   private question
     *   \[Resolved\] by ericaflower
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 2 days ago)
+*   Retrieving archived blogs
+    *   \[Resolved\] by ToneDogg
     *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   Retrieving archived blogs
-    *   \[Resolved\] by ToneDogg
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   audio and video files
     *   \[Resolved\] by autumn\_tears
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by osmanthus\_autumn 3 days ago)
+    *   2 (last comment by osmanthus\_autumn 4 days ago)
 *   Searching "friends"
     *   by Applehead7
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I couldnt find the link for downloading the archive
     *   \[Resolved\] by I\_SUB\_JAN
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
-*   Missing blog archive
-    *   \[Resolved\] by stripes\_914
     *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
+*   Missing blog archive
+    *   \[Resolved\] by stripes\_914
+    *   6 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 4 days ago)
 *   Archive of my old blog?
     *   \[Resolved\] by danrfxz
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by eugenia 6 days ago)
+    *   3 (last comment by eugenia 1 week ago)
 *   Where is my private blog
     *   \[Resolved\] by ashley\_journal510
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
-*   I know my username exists...
-    *   \[Resolved\] by ashley\_heedick
-    *   6 days ago
-    *   in Passwords &. Sign-In
-    *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 
 1 2 3 ... 104 Next
 
