@@ -1,6 +1,6 @@
 *   български
 *   català
-*   česky
+*   čeština
 *   Cymraeg
 *   Deutsch
 *   Ελληνικά
