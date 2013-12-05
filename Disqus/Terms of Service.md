@@ -47,6 +47,23 @@ Disqus takes no responsibility and assumes no liability for any User Content tha
 
 By posting any User Content on the Service, you expressly grant, and you represent and warrant that you have all rights necessary to grant, to Disqus a royalty-free, sublicensable, transferable, perpetual, irrevocable, non-exclusive, worldwide license to use, reproduce, modify, publish, list information regarding, edit, translate, distribute, syndicate, publicly perform, publicly display, and make derivative works of all such User Content and your name, voice, and/or likeness as contained in your User Content, in whole or in part, and in any form, media or technology, whether now known or hereafter developed, for use in connection with the Service and Disqus’ (and its successors’ and affiliates’) business, including without limitation for promoting and redistributing part or all of the Service (and derivative works thereof) in any media formats and through any media channels. You also hereby grant each User of the Service a non-exclusive license to access your User Content through the Service, and to use, reproduce, distribute, display and perform such User Content as permitted through the functionality of the Service and under these Terms.
 
+Publisher Responsibility and Content Guidelines
+
+Disqus enables online discussion communities, and in doing so, freedom of expression and identity are core values of the Service. There are a number of categories of content and behavior, however, that jeopardize the Service by posing risk to users, publishers or third party services utilizing the Disqus platform. Websites or website representatives publishing inappropriate content or exhibiting inappropriate behaviors in connection with their use of the Service, including from the following categories, may have their Disqus account suspended or terminated:
+
+*   Blackmail or extortion
+*   Copyright or trademark Infringement
+*   Deceitful data collection
+*   Harm to minors or animals
+*   Impersonation
+*   Intimidation of users of the Disqus Service
+*   Malware
+*   Privacy violations
+*   Spam
+*   Unlawful activities  
+
+The above list may be modified or expanded at any time, and individual account deactivation decisions remain at the sole discretion of Disqus.
+
 Feeds and API
 
 Disqus provides access to portions of its Service via RSS feeds and an API. for the purposes of these Terms, such access constitutes use of the Service. Disqus asks that you use these features respectfully, and as may be outlined in any documentation that we provide. You may not use these or any other features of the Service itself to allow the display of a substantial portion of the Disqus database or reproduce, duplicate or copy any or all of the Disqus Service. Disqus reserves the right to change these features at any time and to disable access to the feeds and the API at any time for any reason or no reason.
