@@ -50,4 +50,4 @@ For the purposes of this Agreement:
 
 For communications concerning this Agreement, please contact Amazon by e-mail: kindleterms@amazon.com.
 
-Learn more about the Amazon Kindle Store Terms of Use. Search Help: **Ask the Community**: Post your question in the General Help Forum or Kindle Help Forum.
+Learn more about the Amazon Kindle Store Terms of Use.
