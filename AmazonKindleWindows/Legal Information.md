@@ -2,7 +2,7 @@ Kindle for Windows 8 Legal Notices
 
 These are the Kindle for Windows 8 Legal Notices.
 
-A. INTELLECTUAL PROPERTY NOTICES
+A. INTELLECTUAL PROPERTY NOTICES  
 
 1.  **Patent Notices**
     
@@ -25,8 +25,6 @@ B. INFORMATION FOR THOSE WITH COPYRIGHT CONCERNS
 
 Amazon.com, Inc. and its affiliates ("Amazon") respect the intellectual property of others. If you believe that your work has been copied in a way that constitutes copyright infringement, please provide Amazon's copyright agent the written information specified below. Please note that this procedure is exclusively for notifying Amazon that your copyrighted material has been infringed:
 
-  
-
 *   An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest.
 *   A description of the copyrighted work that you claim has been infringed upon.
 *   A description of where the material that you claim is infringing is located.
@@ -44,15 +42,11 @@ C. NOTICES FOR THIRD PARTY SOFTWARE INCLUDED WITH THE APPLICATION
 
 1.  **Names and Copyright Notices.- Gesture - © 2010 Matteo Spinelli, http://cubiq.org/.**
     
-      
-    
     *   iScroll 4 - © 2012 Matteo Spinelli, http://cubiq.org/.
     *   JQuery JSONP Plugin - © 2010 Julian Aubourg
     *   jQuery Mousewheel Plugin - © 2011 Brandon Aaron (http://brandonaaron.net/).
     
     Amazon elects to use the following software packages under the MIT license:
-    
-      
     
     *   jQuery - © Copyright 2012 jQuery Foundation and other contributors http://jquery.com/.
     *   jQuery Cookie Plugin - © 2010 Klaus Hartl (stilbuero.de).
@@ -60,7 +54,6 @@ C. NOTICES FOR THIRD PARTY SOFTWARE INCLUDED WITH THE APPLICATION
     *   jQuery Templates Plugin - © Software Freedom Conservancy, Inc.
     *   jQuery UI - ©2012 jQuery Foundation and other contributors, http://jqueryui.com/.
     *   jScrollPane - © 2010 Kelvin Luck.
-    
 2.  **b. MIT License**
     
     Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
@@ -85,8 +78,6 @@ THIS SOFTWARE IS PROVIDED BY APPLE COMPUTER, INC. \`\`AS IS'' AND ANY EXPRESS OR
 
 Certain Mobi8 files used in conjunction with Kindle products include portions of the YUI Library, which is subject to the following license terms: © 2011, Yahoo! Inc. All rights reserved. Redistribution and use of this software in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
-  
-
 *   Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
 *   Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
 *   Neither the name of Yahoo! Inc. nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission of Yahoo! Inc.
@@ -96,8 +87,6 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 **Sources of Intellectual Property Included in the YUI Library**
 
 YUI is issued by Yahoo! under the BSD license above. Below is a list of certain publicly available software that is the source of intellectual property in YUI, along with the licensing terms that pertain to those sources of IP. This list is for informational purposes only and is not intended to represent an exhaustive list of third party contributions to the YUI.
-
-  
 
 *   Douglas Crockford's JSON parsing and stringifying methods: In the JSON Utility, Douglas Crockford's JSON parsing and stringifying methods are adapted from work published at JSON.org. The adapted work is in the public domain.
 *   Robert Penner's animation-easing algorithms: In the Animation Utility, YUI makes use of Robert Penner's algorithms for easing.
@@ -191,5 +180,3 @@ Redistribution and use in source and binary forms, with or without modification,
 \* Neither the name of the <organization>. nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL <COPYRIGHT HOLDER>. BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES. LOSS OF USE, DATA, OR PROFITS. OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-Search Help: **Ask the Community**: Post your question in the General Help Forum or Kindle Help Forum.
