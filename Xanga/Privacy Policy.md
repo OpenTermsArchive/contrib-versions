@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Xanga Credits and Minis
-    *   by Renee\_duh
-    *   3 hours ago
+*   Clearly your networkers have no clue what they are doing
+    *   by kiss21ssik
+    *   10 hours ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   Private Blog Access
-    *   \[Resolved\] by greedy\_business
-    *   1 day ago
+    *   1 (last comment by oops\_\_nurse 22 minutes ago)
+*   Help Me Retrieve Blog, Please
+    *   \[Resolved\] by IRULEULOSE
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by greedy\_business 5 hours ago)
-*   I cant find my xanga
-    *   \[Resolved\] by Sinyi1227
-    *   8 hours ago
-    *   in Themes
-    *   0 votes
-    *   1 (last comment by eugenia 7 hours ago)
+    *   3 (last comment by eugenia 13 hours ago)
 *   Whew
-    *   by Held\_\_Betrayed
-    *   9 hours ago
+    *   \[Resolved\] by Held\_\_Betrayed
+    *   1 day ago
     *   in Comments
     *   0 votes
-    *   0
-*   daily footprint counters
-    *   by old\_aldy
-    *   22 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by old\_aldy 12 hours ago)
-*   Help Me Retrieve Blog, Please
-    *   by IRULEULOSE
+    *   1 (last comment by eugenia 14 hours ago)
+*   Xanga Credits and Minis
+    *   \[Resolved\] by Renee\_duh
     *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by DarkAznTigress 19 hours ago)
+    *   1 (last comment by eugenia 14 hours ago)
+*   Private Blog Access
+    *   \[Resolved\] by greedy\_business
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by greedy\_business 1 day ago)
+*   I cant find my xanga
+    *   \[Resolved\] by Sinyi1227
+    *   1 day ago
+    *   in Themes
+    *   0 votes
+    *   1 (last comment by eugenia 1 day ago)
 *   Import Function Under Tools
     *   by routergenie
-    *   22 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Link to Leave a Comment
     *   by routergenie
-    *   22 hours ago
+    *   1 day ago
     *   in Comments
     *   0 votes
     *   0
 *   Question re: Data Migration
     *   \[Resolved\] by happymuslim
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by happymuslim 1 day ago)
+    *   2 (last comment by happymuslim 2 days ago)
 *   Where is my old post?
     *   \[Resolved\] by louis712
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   Missing my xangas
-    *   \[Resolved\] by lifelike\_\_weeds
-    *   5 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by eugenia 2 days ago)
+*   Missing my xangas
+    *   \[Resolved\] by lifelike\_\_weeds
+    *   6 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 3 days ago)
 *   Cannot find old archive to download.
     *   \[Resolved\] by Haught5724
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by eugenia 2 days ago)
+    *   4 (last comment by eugenia 3 days ago)
 *   My blog is also missing
     *   \[Resolved\] by theseedlessgrape
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Where is my archive?
     *   \[Resolved\] by cowautlgc
     *   2 months ago
     *   in Data Migration
     *   0 votes
-    *   25 (last comment by eugenia 2 days ago)
+    *   25 (last comment by eugenia 3 days ago)
 *   I want my blog back!
     *   \[Resolved\] by ProAgressif
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   5 (last comment by eugenia 2 days ago)
+    *   5 (last comment by eugenia 3 days ago)
 
 1 2 3 ... 105 Next
 
