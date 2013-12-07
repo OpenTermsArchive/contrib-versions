@@ -21,6 +21,8 @@ A. INTELLECTUAL PROPERTY NOTICES
     All other brands, product names, company names, trademarks, and service marks are the properties of their respective owners.
     
 
+B. INFORMATION FOR THOSE WITH COPYRIGHT CONCERNS
+
 Amazon.com, Inc. and its affiliates ("Amazon") respect the intellectual property of others. If you believe that your work has been copied in a way that constitutes copyright infringement, please provide Amazon's copyright agent the written information specified below. Please note that this procedure is exclusively for notifying Amazon that your copyrighted material has been infringed.
 
 \- An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest. - A description of the copyrighted work that you claim has been infringed upon. - A description of where the material that you claim is infringing is located. - Your address, telephone number, and e-mail address. - A statement by you that you have a good-faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law. and - A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.
@@ -52,6 +54,8 @@ Amazon Legal Department
 Seattle, WA 98109-5210
 
 USA
+
+C. NOTICES FOR THIRD PARTY SOFTWARE INCLUDED WITH THE APPLICATION
 
 **1\. Components Licensed Under the MIT License**
 
@@ -375,7 +379,7 @@ END OF TERMS AND CONDITIONS
     
     Ogg Vorbis © year, Xiph.Org Foundation
     
-    Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:  
+    Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
     
     *   Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
     *   Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
@@ -550,6 +554,3 @@ END OF TERMS AND CONDITIONS
     16\. IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY AND/OR REDISTRIBUTE THE LIBRARY AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE LIBRARY (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE LIBRARY TO OPERATE WITH ANY OTHER SOFTWARE), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
     
     END OF TERMS AND CONDITIONS
-    
-
-Search Help: **Ask the Community**: Post your question in the General Help Forum or Kindle Help Forum.
