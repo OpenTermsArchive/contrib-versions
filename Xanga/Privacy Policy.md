@@ -13,91 +13,91 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 months ago
     *   in Data Migration
     *   0 votes
-    *   26 (last comment by DarkCelestialDragon 31 minutes ago)
+    *   27 (last comment by TheAccord 1 hour ago)
+*   Another missing blog
+    *   \[Resolved\] by privythoughts
+    *   2 weeks ago
+    *   in Data Migration
+    *   0 votes
+    *   6 (last comment by privythoughts 3 hours ago)
+*   Private Blog Access
+    *   \[Resolved\] by greedy\_business
+    *   4 days ago
+    *   in Data Migration
+    *   0 votes
+    *   3 (last comment by greedy\_business 4 hours ago)
+*   Deleting account
+    *   \[Resolved\] by ANYIDEAS
+    *   2 months ago
+    *   in Usernames
+    *   0 votes
+    *   2 (last comment by ShockwaveB 14 hours ago)
+*   Archive, Like Everyone Else
+    *   by MajinPiccoLinkTheStampede
+    *   21 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   MISSING some of the entries
+    *   \[Resolved\] by kaman\_sheng
+    *   1 month ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by kaman\_sheng 22 hours ago)
+*   Missing blog entries
+    *   by kaman\_sheng
+    *   2 months ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by kaman\_sheng 22 hours ago)
+*   Where is my old post
+    *   by roadman\_lok
+    *   22 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Unable to Embed a YouTube Video
     *   by routergenie
-    *   1 hour ago
+    *   1 day ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Paying to stay on Xanga?
     *   by ch0c0lat3\_l0v3r
-    *   17 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   i cant find my xanga!
     *   by ying1019
-    *   18 hours ago
+    *   1 day ago
     *   in Getting Started
     *   0 votes
     *   0
 *   Clearly your networkers have no clue what they are doing
     *   by kiss21ssik
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by oops\_\_nurse 1 day ago)
+    *   1 (last comment by oops\_\_nurse 2 days ago)
 *   Help Me Retrieve Blog, Please
     *   \[Resolved\] by IRULEULOSE
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by eugenia 1 day ago)
+    *   3 (last comment by eugenia 2 days ago)
 *   Whew
     *   \[Resolved\] by Held\_\_Betrayed
-    *   2 days ago
+    *   3 days ago
     *   in Comments
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   Xanga Credits and Minis
     *   \[Resolved\] by Renee\_duh
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   Private Blog Access
-    *   \[Resolved\] by greedy\_business
     *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by greedy\_business 2 days ago)
-*   I cant find my xanga
-    *   \[Resolved\] by Sinyi1227
-    *   2 days ago
-    *   in Themes
-    *   0 votes
     *   1 (last comment by eugenia 2 days ago)
-*   Import Function Under Tools
-    *   by routergenie
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Link to Leave a Comment
-    *   by routergenie
-    *   2 days ago
-    *   in Comments
-    *   0 votes
-    *   0
-*   Question re: Data Migration
-    *   \[Resolved\] by happymuslim
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by happymuslim 3 days ago)
-*   Where is my old post?
-    *   \[Resolved\] by louis712
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
-*   Missing my xangas
-    *   \[Resolved\] by lifelike\_\_weeds
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
 
 1 2 3 ... 105 Next
 
