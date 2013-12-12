@@ -54,7 +54,7 @@ Skype may gather and use information about you, including (but not limited to) i
 
 (m) Traffic data (data processed for the purpose of the conveyance of communications or the billing thereof, including, but not limited to, the duration of the call, the number calling and the number called). and
 
-(n) Content of instant messaging communications, voicemails, and video messages (please see section 12);
+(n) Content of instant messaging communications, Voice messagess, and video messages (please see section 12);
 
 (o) Location information, derived from your mobile carrier or from the mobile device that you use. In connection with the Qik products, you control when your location is shared with others. Your location is displayed and shared with other Qik users only in accordance with your privacy settings. You also may create location information by "geo-tagging" your submitted content with location information. Please manage your privacy settings for location information carefully;
 
@@ -92,11 +92,11 @@ Skype may disclose personal information to respond to legal requirements, exerci
 
 In order to provide you with Skype products you have requested, Skype may sometimes, if necessary, share your personal and traffic data with Skype’s group companies, carriers, partner service providers and/or agents. For example the PSTN-VoIP gateway provider, WiFi access services providers, distributors of Skype software and/or Skype products, and/or the third party banking organizations or other providers of payment, email delivery, analytical services, customer support, or hosting services. Skype will always require these third parties to take appropriate organizational and technical measures to protect your personal data and traffic data and to observe the relevant legislation.
 
-Some Skype products may be co-branded and offered together with or via a partner company. If you register for or use such products, you consent to both Skype and the partner company’s use of personal data collected in connection with the co-branded product. Skype may offer its products in connection with other websites or services or may team with other online services to give you the combined results of both products/services or additional services and benefits. To determine whether you would benefit from the combined offer, if you have provided your consent, Skype may match your email address, and email addresses of your contacts against email addresses you have provided to the third party website/service provider.
+Some Skype products may be (i) co-branded. (ii) made available via a partner company’s website. and/or (iii) supported through a partner company. If you register for or use such products, you consent to both Skype’s and the partner company’s use of personal data collected in connection with the product and you understand that the partner company’s use of your personal data may be subject to the partner company’s privacy policy. Skype may offer its products in connection with other websites or services or may team with other online services to give you the combined results of both products/services or additional services and benefits. To determine whether you would benefit from the combined offer, if you have provided your consent, Skype may match your email address, and email addresses of your contacts against email addresses you have provided to the third party website/service provider.
 
 If you are a member of the Skype Manager, detailed information about the activity on your Skype account including traffic data and details of your purchases and downloads may be accessed by your Skype Manager Administrator if you have agreed to such access. You can withdraw your agreement at any time by changing the settings on your account page on www.skype.com. If you provide personal data including your name and job title to be included in the Skype Manager directory, you acknowledge that such data may be viewed by other members of the Skype Manager.
 
-If you leave a voicemail for another Skype user, your voicemail message may be transferred to a third party service provider (where the Skype contact you are trying to reach has signed up to receive voicemails by text message), and will be converted to text. The conversion process may in exceptional cases, require access by analysts. By using the voicemail product, you consent to the processing of your voicemail message by Skype and its service provider.
+If you leave a Voice messages for another Skype user, your Voice messages message may be transferred to a third party service provider (where the Skype contact you are trying to reach has signed up to receive Voice messagess by text message), and will be converted to text. The conversion process may in exceptional cases, require access by analysts. By using the Voice messages product, you consent to the processing of your Voice messages message by Skype and its service provider.
 
 Skype, Skype's local partner, or the operator or company facilitating your communication may provide personal data, communications content and/or traffic data to an appropriate judicial, law enforcement or government authority lawfully requesting such information. Skype will provide reasonable assistance and information to fulfill this request and you hereby consent to such disclosure.
 
@@ -275,11 +275,11 @@ Skype will use all reasonable endeavours to accommodate requests to delete perso
 
 Skype will retain your information for as long as is necessary to: (1) fulfill any of the Purposes (as defined in article 2 of this Privacy Policy) or (2) comply with applicable legislation, regulatory requests and relevant orders from competent courts.
 
-Retention of Instant Messages, Voicemail Messages, and Video Messages (Skype internet communications software application only)
+Retention of Instant Messages, Voice messages Messages, and Video Messages (Skype internet communications software application only)
 
-Your instant messaging (IM), voicemail, and video message content (collectively “messages”) may be stored by Skype (a) to convey and synchronize your messages and (b) to enable you to retrieve the messages and history where possible. Depending on the message type, messages are generally stored by Skype for a maximum of between 30 and 90 days unless otherwise permitted or required by law. This storage facilitates delivery of messages when a user is offline and to help sync messages between user devices.  For IM, if you have linked your Skype and Microsoft accounts, you may have the option to choose to store your full IM history for a longer period. In that case, your IMs may be stored in your Outlook.com Messaging folder until you manually delete them. For Video messages, you may also choose to store messages for an extended period if the sender is a Premium Member.
+Your instant messaging (IM), Voice messages, and video message content (collectively “messages”) may be stored by Skype (a) to convey and synchronize your messages and (b) to enable you to retrieve the messages and history where possible. Depending on the message type, messages are generally stored by Skype for a maximum of between 30 and 90 days unless otherwise permitted or required by law. This storage facilitates delivery of messages when a user is offline and to help sync messages between user devices.  For IM, if you have linked your Skype and Microsoft accounts, you may have the option to choose to store your full IM history for a longer period. In that case, your IMs may be stored in your Outlook.com Messaging folder until you manually delete them. For Video messages, you may also choose to store messages for an extended period if the sender is a Premium Member.
 
-Skype will take appropriate technical and security measures to protect your information. By using this product, you consent to the storage of your IM, voicemail, and video message communications as described above.
+Skype will take appropriate technical and security measures to protect your information. By using this product, you consent to the storage of your IM, Voice messages, and video message communications as described above.
 
 **13\. MICROSOFT ACCOUNT**
 
@@ -320,4 +320,4 @@ Skype Inc.
 3210 Porter Drive  
 Palo Alto, California 94304, USA
 
-© Skype and/or Microsoft – Last updated: August 2013
+© Skype and/or Microsoft – Last updated: November 2013
