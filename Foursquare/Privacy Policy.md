@@ -1,4 +1,4 @@
-**Last Updated: November 22, 2013**
+**Last Updated: December 11, 2013**
 
 Foursquare Labs, Inc. Privacy Policy
 
@@ -32,8 +32,6 @@ Determining and Sharing Location
 Foursquare deals with location, so in order to work, Foursquare needs to know your location. Whenever you open and use/interact with the Foursquare app on your mobile device or go to Foursquare.com, we use the location information from your mobile device or browser (e.g., latitude and longitude) to tailor the Foursquare experience to your current location (i.e., we’ll show you a list of nearby locations, friends and tips). This information is NOT shared with others. Also, Foursquare uses your mobile device’s ‘background location’ (formerly known as ‘Radar’) to provide the service, including to send you notifications of tips/friends/interesting things etc. near you. If you have ‘background location’ turned on, the Foursquare app will, from time to time, tell us about your device’s location even if you are not directly interacting with the application.
 
 Your location data is ONLY shared with others when you proactively decide to "check in" to tell Foursquare you’re at a particular place or, if you have turned on ‘check-in by friends,’ when your friend mentions you in his or her check in. The location information shared with a "check in" is the location information of that place. Each of your Foursquare check-ins is saved to your "Check-in History," which allows you to look back at all the locations you have checked in since you created your Foursquare account. You can delete any or all of your check-ins from the check-in details page on the Foursquare website and Foursquare app. If for some reason you ever decide to delete your Foursquare account, your entire check-in history will be removed from our database.
-
-Sometimes you’ll want to check in without sharing your specific whereabouts with friends. This is why we created "Private check-ins" -- a way of adding locations to your check-in history, earning points and adding to your badge counts, while maintaining complete privacy (even from friends). We find this comes in handy on dates, dinners with parents, or at a coffee shop when you’re just trying to get some work done - really anywhere where you don’t want friends to drop in. To check-in "privately", simply select "No" on the "Share this check-in with friends" option seen on every "check-in" screen across our mobile apps. As noted above (under "Publicly Available Information, Apps, and The Foursquare API"), while your private check-ins will not be visible to the public or your friends, we may share the fact that such check-in has occurred in an anonymous manner.
 
 Foursquare Features
 
