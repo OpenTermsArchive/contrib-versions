@@ -1,4 +1,4 @@
-**Conditions of Use**  
+Conditions of Use
 
 **Last updated: December 5, 2012**
 
@@ -102,31 +102,17 @@ Please review our other policies, such as our pricing policy, posted on this sit
 
 **OUR ADDRESS**
 
-Amazon.com, Inc.
+Amazon.com, Inc. P.O. Box 81226 Seattle, WA 98108-1226 http://www.amazon.com
 
-P.O. Box 81226
-
-Seattle, WA 98108-1226
-
-http://www.amazon.com
-
-**How to Serve a Subpoena**  
+**How to Serve a Subpoena**
 
 If you have a subpoena to serve on Amazon, please note that Amazon does not accept service via e-mail or fax and will not respond to the subpoena. All subpoenas must be properly served on Amazon.com, preferably by mailing the subpoena to Corporation Service Company (CSC), Amazon's national registered agent. Please find below the Washington address for CSC (the CSC office in your jurisdiction may be located through the Secretary of State's website):
 
-Amazon.com, Inc.
-
-Corporation Service Company
-
-300 Deschutes Way SW, Suite 304
-
-Tumwater, WA 98501
-
-Attn: Legal Department  Subpoena
+Amazon.com, Inc. Corporation Service Company 300 Deschutes Way SW, Suite 304 Tumwater, WA 98501 Attn: Legal Department - Subpoena
 
 Please note also that providing detailed and accurate information at the outset will facilitate efficient processing of your request. That information will include, for example, e-mail and/or credit card number used to make purchases for retail purchase information. the name, e-mail, and physical address of a seller for seller information. Kindle serial number for Kindle information (please note we do not have GPS location information). and IP address and complete time stamp for AWS information.
 
-**Notice and Procedure for Making Claims of Copyright Infringement**  
+**Notice and Procedure for Making Claims of Copyright Infringement**
 
 If you believe that your work has been copied in a way that constitutes copyright infringement, please submit your complaint using our online form. We respond quickly to the concerns of rights owners about any alleged infringement.
 
@@ -141,37 +127,13 @@ If you prefer to submit a report in writing, please provide us with this informa
 
 Amazon's Copyright Agent for notice of claims of copyright infringement on its site can be reached as follows:
 
-Copyright Agent
-
-Amazon.com Legal Department
-
-P.O. Box 81226
-
-Seattle, WA 98108
-
-phone: (206) 266-4064
-
-fax: (206) 266-7010
-
-e-mail: copyright@amazon.com
-
-  
-
-Courier address:
-
-Copyright Agent
-
-Amazon.com Legal Department
-
-410 Terry Avenue North
-
-Seattle, WA 98109-5210
-
-USA
+Copyright Agent Amazon.com Legal Department P.O. Box 81226 Seattle, WA 98108 phone: (206) 266-4064 fax: (206) 266-7010 e-mail: copyright@amazon.com Courier address: Copyright Agent Amazon.com Legal Department 410 Terry Avenue North Seattle, WA 98109-5210 USA
 
 Please note that this procedure is exclusively for notifying Amazon that your copyrighted material has been infringed.
 
 **Additional Amazon Software Terms**
+
+  
 
 1.  **Use of the Amazon Software.** You may use Amazon Software solely for purposes of enabling you to use and enjoy the Amazon Services as provided by Amazon, and as permitted by the Conditions of Use, these Software Terms and any Service Terms. You may not incorporate any portion of the Amazon Software into your own programs or compile any portion of it in combination with your own programs, transfer it for use with another service, or sell, rent, lease, lend, loan, distribute or sub-license the Amazon Software or otherwise assign any rights to the Amazon Software in whole or in part. You may not use the Amazon Software for any illegal purpose. We may cease providing any Amazon Software and we may terminate your right to use any Amazon Software at any time. Your rights to use the Amazon Software will automatically terminate without notice from us if you fail to comply with any of these Software Terms, the Conditions of Use or any other Service Terms. Additional third party terms contained within or distributed with certain Amazon Software that are specifically identified in related documentation may apply to that Amazon Software (or software incorporated with the Amazon Software) and will govern the use of such software in the event of a conflict with these Conditions of Use. All software used in any Amazon Service is the property of Amazon or its software suppliers and protected by United States and international copyright laws.
 2.  **Use of Third Party Services.** When you use the Amazon Software, you may also be using the services of one or more third parties, such as a wireless carrier or a mobile platform provider. Your use of these third party services may be subject to the separate policies, terms of use, and fees of these third parties.
