@@ -10,94 +10,94 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Unable to Embed a YouTube Video
     *   \[Resolved\] by routergenie
-    *   5 days ago
+    *   6 days ago
     *   in Adding &. Editing Entries
     *   0 votes
-    *   6 (last comment by routergenie 11 minutes ago)
+    *   8 (last comment by routergenie 50 minutes ago)
 *   No way to download archives
-    *   by jo11931
-    *   3 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Can I have my old layout back?
-    *   \[Resolved\] by daidaiisme
+    *   \[Resolved\] by jo11931
     *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 12 hours ago)
-*   i can not find my old blogs
-    *   \[Resolved\] by gljw4559
-    *   22 hours ago
-    *   in Data Migration
+    *   3 (last comment by jo11931 8 hours ago)
+*   I can't do anything
+    *   \[Resolved\] by vivanday
+    *   23 hours ago
+    *   in Adding &. Editing Entries
     *   0 votes
-    *   1 (last comment by eugenia 12 hours ago)
-*   i can not find my old blogs
-    *   \[Resolved\] by lovebaking2010
+    *   1 (last comment by eugenia 13 hours ago)
+*   Can I have my old layout back?
+    *   \[Resolved\] by daidaiisme
     *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 1 day ago)
+*   i can not find my old blogs
+    *   \[Resolved\] by gljw4559
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 1 day ago)
+*   i can not find my old blogs
+    *   \[Resolved\] by lovebaking2010
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 3 days ago)
 *   Private Blog Access
     *   \[Resolved\] by greedy\_business
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by eugenia 2 days ago)
+    *   4 (last comment by eugenia 3 days ago)
 *   Deleting account
     *   \[Resolved\] by ANYIDEAS
     *   2 months ago
     *   in Usernames
     *   0 votes
-    *   3 (last comment by eugenia 3 days ago)
+    *   3 (last comment by eugenia 4 days ago)
 *   Where is my old post
     *   \[Resolved\] by roadman\_lok
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   Paying to stay on Xanga?
     *   \[Resolved\] by ch0c0lat3\_l0v3r
-    *   5 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
-*   i cant find my xanga!
-    *   by ying1019
-    *   5 days ago
-    *   in Getting Started
-    *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
-*   Clearly your networkers have no clue what they are doing
-    *   \[Resolved\] by kiss21ssik
     *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
+*   i cant find my xanga!
+    *   by ying1019
+    *   6 days ago
+    *   in Getting Started
+    *   0 votes
+    *   1 (last comment by eugenia 4 days ago)
+*   Clearly your networkers have no clue what they are doing
+    *   \[Resolved\] by kiss21ssik
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by eugenia 4 days ago)
 *   Where is my archive?
     *   \[Resolved\] by cowautlgc
     *   3 months ago
     *   in Data Migration
     *   0 votes
-    *   27 (last comment by TheAccord 4 days ago)
+    *   27 (last comment by TheAccord 5 days ago)
 *   Another missing blog
     *   \[Resolved\] by privythoughts
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   6 (last comment by privythoughts 4 days ago)
+    *   6 (last comment by privythoughts 5 days ago)
 *   Archive, Like Everyone Else
     *   by MajinPiccoLinkTheStampede
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
-*   MISSING some of the entries
-    *   \[Resolved\] by kaman\_sheng
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by kaman\_sheng 4 days ago)
 
 1 2 3 ... 106 Next
 
