@@ -14,7 +14,7 @@ Privacy and Copyright Protection
 
 Nabble’s privacy policy explains how we treat your personal data and protect your privacy when you use our services. By using our services, you agree that Nabble can use such data in accordance with our privacy policy.
 
-Copyright owners who believe that a Nabble user has posted infringing content may provide notice in compliance with the requirements of the Digital Millennium Copyright Act to Adam G. Slote, Slote &. Links, 255 California Street, Suite 1300, San Francisco CA 94111, Telephone: 415-393-8001, Fax: 415-294-4545, email DMCA\[please remove this part\]@nabble.com. **There will be no response to communications that do not involve copyright infringement.** Communications related to privacy, violation of our Terms of Use or other abuse must be submitted by email to abuse\[please remove this part\]@nabble.com.
+Copyright owners who believe that a Nabble user has posted infringing content may provide notice in compliance with the requirements of the Digital Millennium Copyright Act to Weizhen Lin, 1568 Grackle Way, Sunnyvale CA 94087, Telephone: 408-464-4439, email DMCA\[please remove this part\]@nabble.com. **There will be no response to communications that do not involve copyright infringement.** Communications related to privacy, violation of our Terms of Use or other abuse must be submitted by email to abuse\[please remove this part\]@nabble.com.
 
 Deletion of Content/Termination of Account
 
