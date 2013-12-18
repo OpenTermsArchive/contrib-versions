@@ -1123,6 +1123,14 @@ Please keep in mind that in some cases, your choice will be linked to the specif
 
 ' + '
 
+**Internet Preferences by AT&T Uverse GigaPower**
+
+' + '
+
+AT&T U-verse with GigaPower customers can adjust their AT&T Internet Preferences selection at any time by calling AT&T Care at 1 (866) 324-4737 \[Call: 1 (866) 324-4737\]. To learn more about U-verse with GigaPower with AT&T Internet Preferences, visit att.com/internetpreferences.
+
+' + '
+
 **Opt-Outs for Analytics Services**
 
 ' + '
