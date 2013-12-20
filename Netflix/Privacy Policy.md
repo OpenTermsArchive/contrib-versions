@@ -33,7 +33,7 @@ You may connect one or more social networks (such as Facebook) with your Netflix
 
 Back to top Disclosure of Personal Information
 
-We may share your personal information among the Netflix family of companies (https://help.netflix.com/article/en/node/6592). The Netflix companies that access your personal information will follow practices that are consistent with the practices described in this Privacy Policy.
+We may share your personal information among the Netflix family of companies (https://help.netflix.com/support/6592?locale=en-US&country=US). The Netflix companies that access your personal information will follow practices that are consistent with the practices described in this Privacy Policy.
 
 In addition we use other companies, agents or contractors (“Service Providers”) to perform services on our behalf or to assist us with the provision of services to you. For example, we engage Services Providers to provide marketing, communications, infrastructure and IT services, personalize and optimize our service, process credit card transactions, provide customer service, collect debts, analyze and enhance data, including users' interaction with our service, and process consumer surveys. In the course of providing such services, these other companies may have access to your personal information. We do not authorize these companies to use or disclose your personal information except in connection with providing the services we request of them.
 
