@@ -2,7 +2,7 @@ Privacy Statement Print A A
 
 **General Motors Company U.S. Consumer Privacy Statement**
 
-Last modified: August 7, 2013
+Last modified: December 19, 2013
 
 Your privacy is important to General Motors Company (“GM” or “we”) as is your trust in GM’s products and services. We want you to know that the information you share with us will be treated with care. This Privacy Statement addresses what personal information we collect and how we handle the personal information shared with us.
 
@@ -86,12 +86,8 @@ If you do not want to receive unsolicited marketing communications from GM, plea
   
 If you have subscribed to a particular email newsletter or other communication (such as My GMLINK Service Reminders), you should follow the instructions in the email or on a related website to unsubscribe.  
   
-GM and GM dealers are separate legal entities with their own privacy practices. For questions about your dealer's privacy practices including opting out of marketing communications from your dealer, please contact your dealer directly.  
-  
-GM works with third-party advertising and personalization partners to help us display personalized content and appropriate advertising based on your visit to gm.com and other websites. If you do not wish to receive personalized advertising from us while visiting a GM website, you may click on the AdChoices icon located at the bottom of the website page.  
-  
-If you do not wish to receive personalized advertising from us on a non-GM websites, please visit the Network Advertising Initiative Opt-Out page http://www.networkadvertising.org/choices/ or click on the AboutAds icon on a GM advertisement and follow the instructions on how to opt out.  
-  
+GM and GM dealers are separate legal entities with their own privacy practices. For questions about your dealer's privacy practices including opting out of marketing communications from your dealer, please contact your dealer directly.
+
 If you opt out of receiving marketing communications from GM, your personal information will not be used for marketing, but may still be used for the other purposes described in this Privacy Statement (such as vehicle support and service).  
    
 
@@ -100,17 +96,25 @@ If you opt out of receiving marketing communications from GM, your personal info
 GM uses administrative, technical and physical security to protect the personal information we maintain and to help ensure that it is used according to this Privacy Statement.  
  
 
-**Cookies**  
+**Cookies/Tracking Technologies**  
   
 GM websites use “cookies” to remember user preferences and to maximize the performance of our website and services. Using cookies on our websites provides benefits to you, such as allowing you to maintain your account login information or contact information on Request a Quote forms between visits, or locating a nearby dealer.  
   
 Similarly, we may also place Web beacons in our emails to measure the effectiveness of our email campaigns by identifying the individuals who open or act upon an email message, when an email message is opened, how many times an email message is forwarded, the type of software, device, operating system and browser used to deliver the email and any URL accessed through our email message.  
   
-To measure site activity and provide a better user experience, we may allow our service providers or business partners to compile information from the cookies, Web beacons or other technologies on our websites which may include information about your visit (such as demographic data, browser type, IP address, pages visited, activities conducted on the page and the day and time of your visit).  
+To measure site activity and provide a better user experience, we may allow our service providers or business partners to compile information from the cookies, Web beacons or other technologies on our websites which may include information about your visit (such as demographic data, browser type, IP address, pages visited, activities conducted on the page and the day and time of your visit). We may also allow third party advertising and personalization partners to use this information to develop personalized content and appropriate advertising based on your visits over time on GM web sites and non-GM web sites.  
   
-We may also use data from third-party websites to serve GM advertisements on other websites. These GM advertisements may use cookies or other technologies to collect certain information about your visits to other websites (such as demographic data, browser type, IP address, pages visited, activities conducted and the day and time of your visit). This information may be used to evaluate our online advertising campaigns or to tailor promotions and other marketing messages to you.  
-  
-You may refuse or delete cookies. Please refer to your browser Help instructions to learn more about cookies and other technologies and how to manage their use. If you elect to refuse or delete cookies, you will need to repeat this process if you use another computer or change browsers. In addition, opting out of relevant advertising will not opt you out of all advertising, but rather only those advertisements that are personalized to your interests by GM or its agents or representatives. If you choose to decline cookies, some of the functionality of a website may be impaired.  
+This information may also be used to evaluate our online advertising campaigns or to tailor promotions and other marketing messages to you.
+
+At this time, we do not currently honor do no track signals from a web site browser. However, you may refuse or delete cookies. Please refer to your browser Help instructions to learn more about cookies and other technologies and how to manage their use. If you elect to refuse or delete cookies, you will need to repeat this process if you use another computer, or change browsers. If you choose to decline cookies, some of the functionality of a website may be impaired.
+
+GM adheres to the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising (www.AboutAds.info).  If you do not wish to receive personalized advertising or content from us while visiting GM web sites, you may click on the AdChoices icon located at the bottom of the web site page or the Digital Advertising Alliance’s Opt-Out page (www.AboutAds.info/choices).
+
+If you do not wish to receive personalized advertising or content from us on non-GM websites, please visit the Digital Advertising Alliance’s Opt-Out page (www.AboutAds.info/choices) or click on the AboutAds icon on a GM advertisement and follow the instructions on how to opt out.
+
+Opting out of relevant advertising will not opt you out of all advertising, but rather only those advertisements that are personalized to your interests by GM or its agents or representatives.
+
+If you choose to decline cookies, some of the functionality of a website may be impaired.  
  
 
 **Linked Sites**  
@@ -189,7 +193,7 @@ We may update this Privacy Statement from time to time. We will do so by posting
 
 Effective date: September 1, 2011
 
-Last modified: August 7, 2013  
+Last modified: December 19, 2013  
  
 
 **Frequently Asked Questions**  
