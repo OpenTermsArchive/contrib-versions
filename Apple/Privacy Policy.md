@@ -115,7 +115,11 @@ _Last updated: August 1, 2013_
 
 Apple Inc. has been awarded TRUSTe’s Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s program requirements including transparency, accountability, and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. If you have questions or complaints regarding our Privacy Policy or practices, please contact us. If you are not satisfied with our response, you can contact TRUSTe.
 
-Privacy Questions
+Apple and Your Privacy California Do Not Track Disclosure
+
+Read about Apple’s compliance with California’s new privacy law.
+
+Learn more Privacy Questions
 
 Questions or concerns about Apple’s Privacy Policy or data processing?
 
