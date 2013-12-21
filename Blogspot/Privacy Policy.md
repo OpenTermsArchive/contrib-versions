@@ -1,6 +1,6 @@
 Privacy Policy
 
-Last modified: June 24, 2013 (view archived versions)
+Last modified: December 20, 2013 (view archived versions)
 
 There are many different ways you can use our services – to search for and share information, to communicate with other people or to create new content. When you share information with us, for example by creating a Google Account, we can make those services even better – to show you more relevant search results and ads, to help you connect with people or to make sharing with others quicker and easier. As you use our services, we want you to be clear how we’re using information and the ways in which you can protect your privacy.
 
@@ -10,7 +10,7 @@ Our Privacy Policy explains:
 *   How we use that information.
 *   The choices we offer, including how to access and update information.
 
-We’ve tried to keep it as simple as possible, but if you’re not familiar with terms like cookies, IP addresses, pixel tags and browsers, then read about these key terms first. Your privacy matters to Google so whether you are new to Google or a long-time user, please do take the time to get to know our practices – and if you have any questions contact us.
+We’ve tried to keep it as simple as possible, but if you’re not familiar with terms like cookies, IP addresses, pixel tags and browsers, then read about these key terms first. Your privacy matters to Google so whether you are new to Google or a long-time user, please do take the time to get to know our practices – and if you have any questions consult this page.
 
 Information we collect
 
@@ -73,7 +73,7 @@ Transparency and choice
 People have different privacy concerns. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how it is used. For example, you can:
 
 *   Review and control certain types of information tied to your Google Account by using Google Dashboard.
-*   View and edit your ads preferences, such as which categories might interest you, using Ads Settings. You can also opt out of certain Google advertising services here.
+*   View and edit your preferences about the ads shown to you on Google and across the web, such as which categories might interest you, using Ads Settings. You can also opt out of certain Google advertising services here.
 *   Use our editor to see and adjust how your Google Profile appears to particular individuals.
 *   Control who you share information with.
 *   Take information out of many of our services.
@@ -88,13 +88,13 @@ Accessing and updating your personal information
 
 Whenever you use our services, we aim to provide you with access to your personal information. If that information is wrong, we strive to give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request.
 
-We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes).
+We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup systems).
 
 Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems.
 
 Information we share
 
-We do not share personal information with companies, organizations and individuals outside of Google unless one of the following circumstances apply:
+We do not share personal information with companies, organizations and individuals outside of Google unless one of the following circumstances applies:
 
 *   **With your consent**
     
