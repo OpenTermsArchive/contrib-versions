@@ -1,4 +1,4 @@
-**Amazon.com Privacy Notice**  
+Amazon.com Privacy Notice
 
 **Last updated: April 6, 2012.** To see what has changed, click here.
 
@@ -16,9 +16,9 @@ Amazon.com knows that you care how information about you is used and shared, and
 *   Conditions of Use, Notices, and Revisions
 *   Examples of Information Collected
 
-**What Personal Information About Customers Does Amazon.com Gather?**  
+What Personal Information About Customers Does Amazon.com Gather?
 
-The information we learn from customers helps us personalize and continually improve your Amazon.com experience. Here are the types of information we gather.
+The information we learn from customers helps us personalize and continually improve your Amazon experience. Here are the types of information we gather.
 
 *   **Information You Give Us:** We receive and store any information you enter on our Web site or give us in any other way. Click here to see examples of what we collect. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you.
 *   **Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses Amazon.com or advertisements and other content served by or on behalf of Amazon.com on other Web sites. Click here to see examples of the information we receive.
@@ -26,12 +26,13 @@ The information we learn from customers helps us personalize and continually imp
 *   **E-mail Communications:** To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from Amazon.com if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences.
 *   **Information from Other Sources:** We might receive information about you from other sources and add it to our account information. Click here to see examples of the information we receive.
 
-**What About Cookies?**  
+What About Cookies?
 
-*   Cookies are unique identifiers that we transfer to your device to enable our systems to recognize your device and to provide features such as 1-Click purchasing, Recommended for You, personalized advertisements on other Web sites (e.g., Amazon Associates with content served by Amazon.com and Web sites using Checkout by Amazon payment service), and storage of items in your Shopping Cart between visits.
+*   Cookies are unique identifiers that we transfer to your device to enable our systems to recognize your device and to provide features such as 1-Click purchasing,Recommended for You, personalized advertisements on other Web sites (e.g., Amazon Associates with content served by Amazon.com and Web sites using Checkout by Amazon payment service), and storage of items in your Shopping Cart between visits.
 *   The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. Because cookies allow you to take advantage of some of Amazon.com's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Amazon.com products and services that require you to Sign in.
 
-**Does Amazon.com Share the Information It Receives?**  
+Does Amazon.com Share the Information It Receives?
+
 Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries Amazon.com, Inc. controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice.
 
 *   **Affiliated Businesses We Do Not Control:** We work closely with affiliated businesses. In some cases, such as Marketplace sellers, these businesses operate stores at Amazon.com or sell offerings to you at Amazon.com. In other cases, we operate stores, provide services, or sell product lines jointly with these businesses. Click here for some examples of co-branded and joint offerings. You can tell when a third party is involved in your transactions, and we share customer information related to those transactions with that third party.
@@ -41,20 +42,21 @@ Information about our customers is an important part of our business, and we are
 *   **Protection of Amazon.com and Others:** We release account and other personal information when we believe release is appropriate to comply with the law. enforce or apply our Conditions of Use and other agreements. or protect the rights, property, or safety of Amazon.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice.
 *   **With Your Consent:** Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
 
-**How Secure Is Information About Me?**  
+How Secure Is Information About Me?
 
 *   We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.
 *   We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
 *   It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. Click here for more information on how to sign off.
 
-**What About Third-Party Advertisers and Links to Other Websites?**
+What About Third-Party Advertisers and Links to Other Websites?
 
 Our site includes third-party advertising and links to other Web sites. For more information about third-party advertising at Amazon.com, including personalized or interest-based ads, please read our Interest-Based Ads policy.
 
-**Which Information Can I Access?**  
+Which Information Can I Access?
+
 Amazon.com gives you access to a broad range of information about your account and your interactions with Amazon.com for the limited purpose of viewing and, in certain cases, updating that information. Click here to see some examples, the list of which will change as our Web site evolves.
 
-**What Choices Do I Have?**  
+What Choices Do I Have?
 
 *   As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such Amazon.com features as Your Profile, Wish Lists, Customer Reviews, and Amazon Prime.
 *   You can add or update certain information on pages such as those referenced in the "Which Information Can I Access?" section. When you update information, we usually keep a copy of the prior version for our records.
@@ -62,15 +64,18 @@ Amazon.com gives you access to a broad range of information about your account a
 *   If you do not want us to use personal information that we gather to allow third parties to personalize advertisements we display to you, please adjust your Advertising Preferences.
 *   The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. Because cookies allow you to take advantage of some of Amazon.com's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Amazon.com products and services that require you to Sign in.
 
-**Are Children Allowed to Use Amazon.com?**  
-Amazon.com does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use Amazon.com only with the involvement of a parent or guardian.  
-  
-**Does Amazon.com Participate in the Safe Harbor Program?**  
-Amazon.com is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and (1) the European Union and (2) Switzerland, respectively. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and (1) the E.U. and (2) Switzerland, respectively. For more information about the Safe Harbor and to view our certification, visit the U.S. Department of Commerce's Safe Harbor Web site. If you would like to contact Amazon.com directly about the Safe Harbor program, please send an e-mail to safeharbor@amazon.com.  
-  
-**Conditions of Use, Notices, and Revisions**  
-If you choose to visit Amazon.com, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, resolution of disputes, and application of the law of the state of Washington. If you have any concern about privacy at Amazon.com, please contact us with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Notice and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.  
-  
+Are Children Allowed to Use Amazon.com?
+
+Amazon.com does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use Amazon.com only with the involvement of a parent or guardian.
+
+Does Amazon.com Participate in the Safe Harbor Program?
+
+Amazon.com is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and (1) the European Union and (2) Switzerland, respectively. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and (1) the E.U. and (2) Switzerland, respectively. For more information about the Safe Harbor and to view our certification, visit the U.S. Department of Commerce's Safe Harbor Web site. If you would like to contact Amazon.com directly about the Safe Harbor program, please send an e-mail to safeharbor@amazon.com.
+
+Conditions of Use, Notices, and Revisions
+
+If you choose to visit Amazon.com, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, resolution of disputes, and application of the law of the state of Washington. If you have any concern about privacy at Amazon.com, please contact us with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Notice and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
+
 Related Practices and Information
 
 *   Conditions of Use
@@ -80,11 +85,11 @@ Related Practices and Information
 *   Most Recent Purchases
 *   Your Profile and Community Guidelines
 
-**Examples of Information Collected**  
+Examples of Information Collected
 
 **Information You Give Us**
 
-You provide most such information when you search, buy, bid, post, participate in a contest or questionnaire, or communicate with customer service. For example, you provide information when you search for a product. place an order through Amazon.com or one of our third-party sellers. provide information in Your Account (and you might have more than one if you have used more than one e-mail address when shopping with us) or Your Profile. communicate with us by phone, e-mail, or otherwise. complete a questionnaire or a contest entry form. use our services such as Amazon Instant Video. compile Wish Lists or other gift registries. participate in Discussion Boards or other community features. provide and rate Reviews. specify a Special Occasion Reminder. and employ Product Availability Alerts, such as Available to Order Notifications. As a result of those actions, you might supply us with such information as your name, address, and phone numbers. credit card information. people to whom purchases have been shipped, including addresses and phone number. people (with addresses and phone numbers) listed in 1-Click settings. e-mail addresses of your friends and other people. content of reviews and e-mails to us. personal description and photograph in Your Profile. and financial information, including Social Security and driver's license numbers.
+You provide most such information when you search, buy, post, participate in a contest or questionnaire, or communicate with customer service. For example, you provide information when you search for a product. place an order through Amazon.com or one of our third-party sellers. provide information in Your Account (and you might have more than one if you have used more than one e-mail address when shopping with us) or Your Profile. communicate with us by phone, e-mail, or otherwise. complete a questionnaire or a contest entry form. use our services such as Amazon Instant Video. compile Wish Lists or other gift registries. participate in Discussion Boards or other community features. provide and rate Reviews. specify a Special Occasion Reminder. and employ Product Availability Alerts, such as Available to Order Notifications. As a result of those actions, you might supply us with such information as your name, address, and phone numbers. credit card information. people to whom purchases have been shipped, including addresses and phone number. people (with addresses and phone numbers) listed in 1-Click settings. e-mail addresses of your friends and other people. content of reviews and e-mails to us. personal description and photograph in Your Profile. and financial information, including Social Security and driver's license numbers.
 
 **Automatic Information**
 
