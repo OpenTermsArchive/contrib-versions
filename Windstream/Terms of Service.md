@@ -38,6 +38,7 @@ My Cart (Edit) My Location_:_ n/a
 *   Support
 
 *   Terms and Conditions
+    
 
 *   Terms and ConditionsTERMS AND CONDITIONS FOR SERVICES AND/OREQUIPMENT PROVIDED BY WINDSTREAM
     
