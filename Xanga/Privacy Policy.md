@@ -8,51 +8,81 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   I can't find my old blogs &. don't think I met the archive criteria...
-    *   by In\_Your\_Care
-    *   9 hours ago
+*   blog expired but I contributed to campaign
+    *   by deceitfulxobscurity
+    *   1 hour ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by x\_bemi 17 minutes ago)
+    *   0
+*   Can i archive new posts on 2.0
+    *   by Superbuds
+    *   3 hours ago
+    *   in Miscellaenous
+    *   0 votes
+    *   0
+*   No footprints any more!
+    *   \[Resolved\] by fungyeeho
+    *   3 months ago
+    *   in Miscellaenous
+    *   0 votes
+    *   3 (last comment by Superbuds 3 hours ago)
+*   I met the criteria but am unable to see my old blogs?
+    *   by Bobfromsalesdepartment
+    *   5 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Is xanga no longer free?
+    *   by WC6F20
+    *   11 hours ago
+    *   in Privacy
+    *   0 votes
+    *   0
+*   I can't find my old blogs &. don't think I met the archive criteria...
+    *   by In\_Your\_Care
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by x\_bemi 1 day ago)
 *   private question
     *   \[Resolved\] by ericaflower
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by ericaflower 6 hours ago)
+    *   2 (last comment by ericaflower 1 day ago)
 *   Request to delete my account
     *   \[Resolved\] by moscreations
     *   3 months ago
     *   in Miscellaenous
     *   0 votes
-    *   13 (last comment by eugenia 13 hours ago)
+    *   13 (last comment by eugenia 1 day ago)
 *   Can't find my blog
     *   \[Resolved\] by pamelakoh
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 13 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   My blog isn't working
     *   \[Resolved\] by tiggerrsOFr3SH
-    *   23 hours ago
+    *   1 day ago
     *   in Miscellaenous
     *   0 votes
-    *   1 (last comment by eugenia 13 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   In dire need of seeing my blog
     *   \[Resolved\] by eto\_macatangay
-    *   23 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 13 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   I can't post entries after $48 premium payment made
     *   \[Resolved\] by cgdp001
-    *   1 day ago
+    *   2 days ago
     *   in Adding &. Editing Entries
     *   0 votes
-    *   1 (last comment by eugenia 14 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   Custom Style Sheet
     *   by BiRdYz
-    *   1 day ago
+    *   2 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
@@ -61,45 +91,15 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 months ago
     *   in Data Migration
     *   0 votes
-    *   30 (last comment by punkbaby138 1 day ago)
+    *   30 (last comment by punkbaby138 2 days ago)
 *   Formatting Issue
     *   by routergenie
     *   2 months ago
     *   in Adding &. Editing Entries
     *   0 votes
-    *   5 (last comment by routergenie 3 days ago)
-*   I want my Xanga back PLEASEEEEEEEE!!!!!!!!!!!!!!!!!!!
-    *   by echun
-    *   3 days ago
-    *   in Adding &. Editing Entries
-    *   0 votes
-    *   0
-*   Please, can i have my blog back
-    *   by x\_bemi
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   My Xanga Blog
-    *   \[Resolved\] by jenntruong
-    *   6 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
-*   I cannot find my blog
-    *   \[Resolved\] by cheungcarman
-    *   5 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
-*   i can not find my old blog~>\_<.
-    *   \[Resolved\] by ying1207
-    *   5 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
+    *   5 (last comment by routergenie 4 days ago)
 
-1 2 3 ... 107 Next
+1 2 3 ... 108 Next
 
 Help Categories
 
