@@ -10,13 +10,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   blog expired but I contributed to campaign
     *   by deceitfulxobscurity
-    *   1 hour ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can i archive new posts on 2.0
     *   by Superbuds
-    *   3 hours ago
+    *   1 day ago
     *   in Miscellaenous
     *   0 votes
     *   0
@@ -25,64 +25,64 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 months ago
     *   in Miscellaenous
     *   0 votes
-    *   3 (last comment by Superbuds 3 hours ago)
+    *   3 (last comment by Superbuds 1 day ago)
 *   I met the criteria but am unable to see my old blogs?
     *   by Bobfromsalesdepartment
-    *   5 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Is xanga no longer free?
     *   by WC6F20
-    *   11 hours ago
+    *   1 day ago
     *   in Privacy
     *   0 votes
     *   0
 *   I can't find my old blogs &. don't think I met the archive criteria...
     *   by In\_Your\_Care
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by x\_bemi 1 day ago)
+    *   1 (last comment by x\_bemi 2 days ago)
 *   private question
     *   \[Resolved\] by ericaflower
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by ericaflower 1 day ago)
+    *   2 (last comment by ericaflower 2 days ago)
 *   Request to delete my account
     *   \[Resolved\] by moscreations
     *   3 months ago
     *   in Miscellaenous
     *   0 votes
-    *   13 (last comment by eugenia 1 day ago)
+    *   13 (last comment by eugenia 2 days ago)
 *   Can't find my blog
     *   \[Resolved\] by pamelakoh
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   My blog isn't working
     *   \[Resolved\] by tiggerrsOFr3SH
-    *   1 day ago
+    *   2 days ago
     *   in Miscellaenous
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   In dire need of seeing my blog
     *   \[Resolved\] by eto\_macatangay
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   I can't post entries after $48 premium payment made
     *   \[Resolved\] by cgdp001
-    *   2 days ago
+    *   3 days ago
     *   in Adding &. Editing Entries
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   Custom Style Sheet
     *   by BiRdYz
-    *   2 days ago
+    *   3 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
@@ -91,13 +91,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 months ago
     *   in Data Migration
     *   0 votes
-    *   30 (last comment by punkbaby138 2 days ago)
+    *   30 (last comment by punkbaby138 3 days ago)
 *   Formatting Issue
     *   by routergenie
     *   2 months ago
     *   in Adding &. Editing Entries
     *   0 votes
-    *   5 (last comment by routergenie 4 days ago)
+    *   5 (last comment by routergenie 5 days ago)
 
 1 2 3 ... 108 Next
 
