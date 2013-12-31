@@ -4,6 +4,7 @@
 Search Search Windstream.com Search or Cancel
 
 *   My account
+    *   Special offers
     *   Check my email
     *   View or pay my bill
     *   Move my service
