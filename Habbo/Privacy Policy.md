@@ -15,9 +15,9 @@ This “**Privacy Policy**” governs your use of our site at www.habbo.com, and
 
 Sulake Corporation Oy
 
-Porkkalankatu 1
+Kaarlenkatu 11
 
-00180 Helsinki, Finland
+00530 Helsinki, Finland
 
 Tel. +358 10 656 7000
 
