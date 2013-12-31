@@ -33,6 +33,8 @@ PRIVACY POLICY
 '. Privacy02 += '5.  **IP Address.** Your Internet Protocol ("**IP**") address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your university. Our server may also record the referring page that linked you to us (e.g., another Web site or a search engine). the pages you visit on our Covered Sites, the web sites you visit after this web site. the ads you see. the ads you click on. other information about the type of web browser, computer, platform, related software and settings you are using. any search terms you have entered on this web site or a referral site. and other web usage activity and data logged by our web servers. We may use your IP address to help diagnose problems with our servers, gather broad demographic information, and administer our Covered Sites. We may also link this information with your Personally Identifiable Information when we feel that it is necessary to enforce compliance with our rules and policies or terms of service or to protect our Covered Sites, customers or others.
 '. Privacy02 += '6.  **Location Information.** We may, and may enable our advertisers to, collect your location via certain services we provide through digital applications, wireless access protocol services ("**WAP Services**") or mobile phone service ("**Mobile Services**"). We, or the service provider, will inform you of such collection at the time you use the service. **By using such service, you hereby consent to our collection, use and disclosure of your location information as described.**
 '. Privacy02 += '7.  **Third Parties.** We may receive information from third parties, including demographic information from your mobile carrier, and information from third parties that solicit subscriptions to our magazines. Those third parties have privacy policies that differ from this Privacy Policy.
+'. Privacy02 += '8.  **Tracking Requests**. Hearst does not act on Do Not Track requests from your browser. For more information click here.
+'. Privacy02 += '9.  **Effect of Tracking Requests**. Hearst does not act on Do Not Track requests from your browser because, this way, we are able to personalize your experience on our sites and tailor content to your interests.
 '. Privacy02 += '
 
 '. Privacy02 += ''. var Privacy03 = '
@@ -115,6 +117,6 @@ PRIVACY POLICY
 
 '. Privacy10 += ''. var Privacy11 = '
 
-This policy was last updated on July 26, 2013.
+This policy was last updated on December 30, 2013.
 
 '. Privacy11 += ''. document.write(''). document.write(Privacy01 + Privacy02 + Privacy03 + Privacy04 + Privacy05 + Privacy06 + Privacy07 + Privacy08 + Privacy09 + Privacy10 + Privacy11);
