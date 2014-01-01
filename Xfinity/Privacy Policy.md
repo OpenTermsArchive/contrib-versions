@@ -391,7 +391,7 @@ SUPPORT &. SERVICES
 *   Shop/Upgrade
 *   Support
 
-XFINITY © 2013 Comcast
+XFINITY © 2014 Comcast
 
 *   Privacy Policy
 *   Ad Choices
