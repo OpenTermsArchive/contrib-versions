@@ -1,7 +1,7 @@
 Terms of Service
 
 Jasper  
-posted this on Jan 29 13:59
+posted this on January 29, 2013 13:59
 
 **Habbo.com - Terms of Service**
 
