@@ -1,7 +1,7 @@
 Privacy Policy
 
 Jasper  
-posted this on Jan 29 13:49
+posted this on January 29, 2013 13:49
 
 **PRIVACY POLICY**
 
