@@ -268,4 +268,4 @@ _— Updated November 2013_
 *   Blog
 *   Mobile
 
-Yahoo!-Zillow Real Estate Network © 2006-2013 ZillowFollow us TwitterFacebookGoogle Plus
+Yahoo!-Zillow Real Estate Network © 2006-2014 ZillowFollow us TwitterFacebookGoogle Plus
