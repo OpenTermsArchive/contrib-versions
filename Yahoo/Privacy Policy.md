@@ -140,5 +140,5 @@ Des publicités pertinentes
 
 En apportant du contenu et des publicités pertinents et adaptés à vos centres d’intérêts, Yahoo! vous propose une expérience utilisateur unique. Pour en savoir plus, cliquez ici!
 
-Copyright © 2013 Yahoo Tous droits réservés.  
+Copyright © 2014 Yahoo Tous droits réservés.  
 Vie Privée | Conditions Générales d'Utilisation
