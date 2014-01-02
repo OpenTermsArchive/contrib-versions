@@ -8,57 +8,69 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   I can't find my old blogs &. don't think I met the archive criteria...
-    *   \[Resolved\] by In\_Your\_Care
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   3 (last comment by In\_Your\_Care 11 hours ago)
-*   Is xanga no longer free?
-    *   \[Resolved\] by WC6F20
-    *   3 days ago
-    *   in Privacy
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   I met the criteria but am unable to see my old blogs?
-    *   \[Resolved\] by Bobfromsalesdepartment
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   blog expired but I contributed to campaign
-    *   \[Resolved\] by deceitfulxobscurity
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   Change Font Size in Editor
-    *   by routergenie
-    *   1 day ago
-    *   in Adding &. Editing Entries
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   Blog archive??
-    *   \[Resolved\] by Kevadi
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   Clearly your networkers have no clue what they are doing
-    *   \[Resolved\] by kiss21ssik
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   4 (last comment by eugenia 1 day ago)
 *   Where is my archive?
     *   \[Resolved\] by cowautlgc
     *   3 months ago
     *   in Data Migration
     *   0 votes
-    *   31 (last comment by crazie4X 1 day ago)
+    *   33 (last comment by petit\_kitty 4 minutes ago)
+*   i can't find my blog . please help!!!!
+    *   by iwitowkm
+    *   19 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Can u help me get back my xanga's history？
+    *   by boris\_law
+    *   21 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   I can't find my old blogs &. don't think I met the archive criteria...
+    *   \[Resolved\] by In\_Your\_Care
+    *   5 days ago
+    *   in Data Migration
+    *   0 votes
+    *   3 (last comment by In\_Your\_Care 1 day ago)
+*   Is xanga no longer free?
+    *   \[Resolved\] by WC6F20
+    *   4 days ago
+    *   in Privacy
+    *   0 votes
+    *   1 (last comment by eugenia 2 days ago)
+*   I met the criteria but am unable to see my old blogs?
+    *   \[Resolved\] by Bobfromsalesdepartment
+    *   4 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 2 days ago)
+*   blog expired but I contributed to campaign
+    *   \[Resolved\] by deceitfulxobscurity
+    *   4 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 2 days ago)
+*   Change Font Size in Editor
+    *   by routergenie
+    *   2 days ago
+    *   in Adding &. Editing Entries
+    *   0 votes
+    *   1 (last comment by eugenia 2 days ago)
+*   Blog archive??
+    *   \[Resolved\] by Kevadi
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 2 days ago)
+*   Clearly your networkers have no clue what they are doing
+    *   \[Resolved\] by kiss21ssik
+    *   3 weeks ago
+    *   in Data Migration
+    *   0 votes
+    *   4 (last comment by eugenia 2 days ago)
 *   Can i archive new posts on 2.0
     *   by Superbuds
-    *   3 days ago
+    *   4 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
@@ -67,37 +79,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 months ago
     *   in Miscellaenous
     *   0 votes
-    *   3 (last comment by Superbuds 3 days ago)
+    *   3 (last comment by Superbuds 4 days ago)
 *   private question
     *   \[Resolved\] by ericaflower
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by ericaflower 4 days ago)
+    *   2 (last comment by ericaflower 5 days ago)
 *   Request to delete my account
     *   \[Resolved\] by moscreations
     *   3 months ago
     *   in Miscellaenous
     *   0 votes
-    *   13 (last comment by eugenia 4 days ago)
+    *   13 (last comment by eugenia 5 days ago)
 *   Can't find my blog
     *   \[Resolved\] by pamelakoh
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
-*   My blog isn't working
-    *   \[Resolved\] by tiggerrsOFr3SH
-    *   4 days ago
-    *   in Miscellaenous
-    *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
-*   In dire need of seeing my blog
-    *   \[Resolved\] by eto\_macatangay
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
+    *   1 (last comment by eugenia 5 days ago)
 
 1 2 3 ... 108 Next
 
