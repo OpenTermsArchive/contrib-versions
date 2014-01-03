@@ -337,7 +337,7 @@ Social
   
   
 
-**©2014 Copyright Allstate Insurance Company**  
+**©2014 Allstate Insurance Company**  
 All Rights Reserved
 
 *   TERMS OF USE
