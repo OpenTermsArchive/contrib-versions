@@ -164,7 +164,7 @@ Collection of Information
 
 When you use the Services, we collect a variety of information.
 
-*   **Information you provide.** When using the Services, you may provide information about yourself, such as name, address, phone number, e-mail and details around a potential transaction. This may occur, for example, when you register on Zillow, claim a home, correspond with a real estate agent via the Services, or complete other forms, such as a loan request. You may also provide information about a third party through the Services, for example, if you share a real estate listing with a recipient via email. We may combine this information with other information we collect from your interaction with the Services or from other companies.
+*   **Information you provide.** When using the Services, you may provide information about yourself, such as name, address, phone number, email and details around a potential transaction. This may occur, for example, when you register on Zillow, claim a home, correspond with a real estate agent via the Services, or complete other forms, such as a loan request. You may also provide information about a third party through the Services, for example, if you share a real estate listing with a recipient via email. We may combine this information with other information we collect from your interaction with the Services or from other companies.
     
     In addition, when you order products or services through the Services, Zillow may collect your credit/debit card information. This information is secured using industry-standard encryption technology. Zillow will use this information solely to complete your order and will not share this information with outside parties, except to the extent necessary to complete the order or comply with applicable law.
     
@@ -189,7 +189,7 @@ In general, Zillow uses the information collected from you to communicate with y
 
 Your privacy is important and we are committed to protecting information that identifies you personally, where you have chosen to keep it private ("Personal Information"). We will only share Personal Information that you provide outside the public areas of the Services in the following circumstances:
 
-*   **Consent.** When you consent or direct Zillow to share the Personal Information. For example, if you choose to contact a real estate agent or lender through the Services, your name and e-mail address will appear to the recipient of the message.
+*   **Consent.** When you consent or direct Zillow to share the Personal Information. For example, if you choose to contact a real estate agent or lender through the Services, your name and email address will appear to the recipient of the message.
 *   **Service providers to Zillow.** When Zillow hires a service provider to help operate the Services or our business, Zillow may give access to Personal Information only as necessary to perform the service for Zillow, and subject to the terms of this privacy policy.
 *   **Partners with whom we conduct business**.  Zillow may give business partners access to Personal Information only as necessary to offer products and services with those business partners, and subject to the terms of this privacy policy
 *   **Legal obligation or protection from harm.** When Zillow has a good faith belief that access, use, preservation or disclosure of the Personal Information is reasonably necessary to (a) satisfy any requirement of law, regulation, legal process, or enforceable governmental request, (b) enforce or investigate a potential violation of the Terms of Use, (c) detect, prevent, or otherwise respond to fraud, security or technical concerns, (d) support auditing and compliance functions, or (e) protect the rights, property, or safety of Zillow, its users, or the public against harm.
@@ -203,21 +203,25 @@ Real Estate Information
 
 Zillow strives to provide open and transparent information about real estate markets. For example, we make available past sales prices for homes, and allow any user to post a question or answer about a given home. Many times, this information is already publicly available. As long as discussion surrounds real estate and not individuals, we intend to keep this information freely available through the Services. Where a professional participates in the Zillow community, we may also allow users to comment on the professional, such as the lender ratings in the Zillow Mortgage Marketplace.
 
-E-mail Management
+Email Management
 
-You may receive e-mail from Zillow for a variety of reasons - for example, if you took an action through the Services, you signed up for a regular report, or you posted your home for sale and a buyer sent you a message. We respect your desire to manage e-mail correspondence. If you have an account with Zillow, you can select your preferences through your account tools. Also, you can manage your receipt of some types of communication by following the instructions included in the e-mail we send you. Please note that, even if you unsubscribe from certain e-mail correspondences, we may still need to e-mail you with important transactional or administrative information.
+You may receive email from Zillow for a variety of reasons - for example, if you took an action through the Services, you signed up for a regular report, or you posted your home for sale and a buyer sent you a message. We respect your desire to manage email correspondence. If you have an account with Zillow, you can select your preferences through your account tools. Also, you can manage your receipt of some types of communication by following the instructions included in the email we send you. Please note that, even if you unsubscribe from certain email correspondences, we may still need to email you with important transactional or administrative information.
+
+Behavioral Advertising
+
+We may participate in behavioral advertising. This means that, for example, third parties may use cookies or other similar technologies to collect information about your use of the Services, or we may use a scrambled, unreadable form (a hash) of an email address that you have provided, for the purpose of delivering advertisements that are relevant and useful to you, and this information may be associated with your unique browser or Internet Protocol address. These tailored advertisements may appear on the Services or on other websites. You may opt-out of cookie tracking and analysis as described in the section below entitled ‘Opting Out of Collection of Information’. The Services do not otherwise respond to ‘do not track’ signals.
 
 Opting Out of Collection of Information by Third Parties
 
 Zillow's third-party ad servers, ad network providers, and third-party advertisers (the "Zillow Ad Providers") may provide you with advertisements that you may see on the Services or on other affiliated websites. To improve the relevancy and help measure the effectiveness of such advertisements, the Zillow Ad Providers may use cookies, Web beacons, clear .gifs or similar technologies. These are used to record users' activity, such as the pages visited, and to learn what types of information are of most interest to the users.
 
-**Zillow Ad Providers.** Use of these technologies by Zillow Ad Providers is subject to their own privacy policies and is not covered by our privacy policy. Click here to learn more about Zillow Ad Providers participating in the Network Advertising Initiative, and the choices you have about these technologies (such as opting-out). Zillow has relationships with the following services: Advertising.com, Atlas, DoubleClick, Google, Intercept, Right Media  and BlueKai The Network Advertising Initiative offers some centralized opt-out tools. otherwise you must visit each provider's website individually and opt out.
+**Zillow Ad Providers.** Use of these technologies by Zillow Ad Providers is subject to their own privacy policies and is not covered by our privacy policy. For more information regarding the choices you have about these technologies (such as opting-out), click here to learn about Zillow Ad Providers participating in the Network Advertising Initiative, and click here to learn about the Zillow Ad Providers participating in the Digital Advertising Alliance. Zillow has relationships with the following services: Advertising.com, Atlas, DoubleClick, Google, Intercept, Right Media  and BlueKai The Network Advertising Initiative and Digital Advertising Alliance offer some centralized opt-out tools. otherwise you must visit each provider's website individually and opt out.
 
 **Zillow marketing service providers**. If you do not want Zillow and its marketing services providers to follow your usage of our Services via cookies and Web beacons, you can opt out of Cookies/Web beacons from: comScore, Google Analytics, Omniture and Yahoo! Opting out of these services does not mean you will no longer receive online advertising. It does mean that the service from which you opted out will no longer deliver ads tailored to your Web preferences and usage patterns.
 
 Location Data
 
-Zillow can provide you with helpful information based on where you are. If you tell Zillow where you are (eg., by allowing your mobile device to send Zillow your location), Zillow may use that information to provide you with location-based information and advertising. If you wish to deactivate this feature, you can disable location services on your mobile device.
+Zillow can provide you with helpful information based on where you are. If you tell Zillow where you are (e.g., by allowing your mobile device to send Zillow your location), Zillow may use that information to provide you with location-based information and advertising. If you wish to deactivate this feature, you can disable location services on your mobile device.
 
 Windows Live® Virtual Earth®
 
@@ -235,9 +239,9 @@ Zillow Rentals
 
 You understand that when you join Zillow Rentals, you will be added to the Zillow Rentals Directory, which is available to all Zillow Rentals users and which may be made publicly available. The directory information may include certain Personal Information you provide to us, such as your name, email and other contact information, unless you opt out of including such information in your directory listing by editing the settings in your Zillow Rentals account.
 
-Agentfolio
+Agentfolio®
 
-The folio portion of Agentfolio (the "Folio") is a collaborative workspace for all users who have access to that Folio. Listings added to the Folio, and the comments associated with them, are visible to all users of the Folio. For a prospective homebuyer(s) (the "Client") collaborating on a Folio with a real estate professional (the "Professional"), the Professional will have access to the information submitted by Client, such as email address and name, a summary of the recent interactions that a user or user(s) had with a Folio and the Client's search criteria. When a real estate brokerage (the "Brokerage") uses certain Agentfolio products, such as the Lead Manager product, the Brokerage will have access to the information submitted by Professionals, such as email address, title, and name, and a summary of the recent interactions that a Professional had with certain Folios. For additional information, please e-mail us or visit our online help site.
+The folio portion of Agentfolio (the "Folio") is a collaborative workspace for all users who have access to that Folio. Listings added to the Folio, and the comments associated with them, are visible to all users of the Folio. For a prospective homebuyer(s) (the "Client") collaborating on a Folio with a real estate professional (the "Professional"), the Professional will have access to the information submitted by Client, such as email address and name, a summary of the recent interactions that a user or user(s) had with a Folio and the Client's search criteria. When a real estate brokerage (the "Brokerage") uses certain Agentfolio products, such as the Lead Manager product, the Brokerage will have access to the information submitted by Professionals, such as email address, title, and name, and a summary of the recent interactions that a Professional had with certain Folios. For additional information, please email us or visit our online help site.
 
 Children Under the Age of 13
 
@@ -251,13 +255,13 @@ We will retain your Personal Information for as long as you have an active accou
 
 Contacting Zillow
 
-You can access, update, and delete Personal Information you provide to us in your account profile by logging into your account or e-mailing us at privacy@zillow.com. While we are ready to assist you in managing the Personal Information you provide to us, we cannot always delete records due to financial reporting, compliance, or other reasons.
+You can access, update, and delete Personal Information you provide to us in your account profile by logging into your account or emailing us at privacy@zillow.com. While we are ready to assist you in managing the Personal Information you provide to us, we cannot always delete records due to financial reporting, compliance, or other reasons.
 
-If you have any questions about this privacy statement, or the privacy practices of Zillow, please e-mail us at privacy@zillow.com.
+If you have any questions about this privacy statement, or the privacy practices of Zillow, please email us at privacy@zillow.com.
 
 Please note that this policy may be amended from time to time. You should check back for the most current version before relying on any of the provisions in this privacy policy. By using the Services, you agree to the terms of this Privacy Policy.
 
-_— Updated November 2013_
+_— Updated January 2014_
 
 *   About
 *   Zestimates
