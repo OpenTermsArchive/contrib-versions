@@ -63,7 +63,7 @@ Our privacy policy applies to your use of our products and services. We will alw
 ' + '*   **With other companies and entities, to**:
 ' + '
 
-' + '*   Respond to 911 calls and other emergencies or exigencies;
+' + '*   Respond to 911 requests and other emergencies or exigencies;
 ' + '*   Comply with court orders and other legal process.
 ' + '*   Assist with identity verification, and preventing fraud and identity theft;
 ' + '*   Enforce our agreements and property rights. and
@@ -150,9 +150,25 @@ Visit our Privacy Policy for more information.
 
 ' + '
 
-California Civil Code Section 1798.83 entitles California customers to request information concerning whether a business has disclosed Personal Information to any third parties for their direct marketing purposes. As stated in this Privacy Policy, we will not sell your Personal Information to other companies and we will not share it with other companies for their direct marketing purposes without your consent. California customers who wish to request further information about our compliance with this law or have questions or concerns about our privacy practices and policies may contact us at privacypolicy@att.com, or write to us at AT&T Privacy Policy, 1120 20th Street, N.W., 10th Floor, Washington, DC 20036.
+California Civil Code Section 1798.83 entitles California customers to request information concerning whether a business has disclosed Personal Information to any third parties for their direct marketing purposes. As stated in this Privacy Policy, we will not sell your Personal Information to other companies and we will not share it with other companies for them to use for their own marketing purposes without your consent.
 
-' + ' '). } function setFaqContent(sectionID) { document.getElementById(sectionID).scrollIntoView(true). menuItem = sectionID + 'A'. activeMenuItem = document.getElementById(menuItem). var menuItems = new Array('definitionsA','scopeA','collectA','locationA','trackingA','analyticsA','aggregateA','sharingA','childrenA','protectionA','controlsA','changesA','contactA'). for(m=0;m' + ' ' + '**Our AT&T Privacy Policy in easy, FAQ format.**' + '
+' + '
+
+**California Web Site Data Collection &. "Do Not Track" Notices**
+
+' + '
+
+**Web Site Data Collection:** We do not knowingly allow other parties to collect personally identifiable information about your online activities over time and across third-party web sites when you use our websites and services. AT&T provides information about the opt-out choices it makes available, and the opt-outs choices provided by certain third-party website and mobile application analytics companies we use here.
+
+' + '
+
+**"Do Not Track" Notice:** Because the providers of "do not track" and similar signals do not yet operate according to common, industry-accepted standards, AT&T currently does not respond to those signals. For more information on Do Not Track, please visit www.allaboutdnt.com.
+
+' + '
+
+California customers who wish to request further information about our compliance with these requirements, or have questions or concerns about our privacy practices and policies may contact us at privacypolicy@att.com, or write to us at AT&T Privacy Policy, 1120 20th Street, N.W., 10th Floor, Washington, DC 20036.
+
+' + ''). } function setFaqContent(sectionID) { document.getElementById(sectionID).scrollIntoView(true). menuItem = sectionID + 'A'. activeMenuItem = document.getElementById(menuItem). var menuItems = new Array('definitionsA','scopeA','collectA','locationA','trackingA','analyticsA','aggregateA','sharingA','childrenA','protectionA','controlsA','changesA','contactA'). for(m=0;m' + ' ' + '**Our AT&T Privacy Policy in easy, FAQ format.**' + '
 
 We understand that everyone thinks that privacy policies are long, complicated and difficult to understand. So we\\'re going to try to make this as simple as possible.
 
@@ -858,15 +874,15 @@ We understand that everyone thinks that privacy policies are long, complicated a
     
     ' + '
     
-    **Consumer Telemarketing:** Ask to be removed from our consumer telemarketing lists by contacting us at one of the numbers listed here, or by sending an e-mail to privacypolicy@att.com. You also can ask the AT&T representative to remove you from our telemarketing lists when you receive a marketing or promotional call from us.
+    **AT&T Consumer Telemarketing:** Ask to be removed from our consumer telemarketing lists by contacting us at one of the numbers listed here. You also can ask the AT&T representative to remove you from our telemarketing lists when you receive a marketing or promotional call from us.
     
     ' + '
     
-    **Business Telemarketing:** Where required by state laws and/or regulations, we honor requests to be removed from our telemarketing lists from business customers.
+    **AT&T Business Telemarketing:** Where required by state laws and/or regulations, we honor requests to be removed from our telemarketing lists from business customers.
     
     ' + '
     
-    **Do Not Call:** The FTC maintains a National Do Not Call Registry at donotcall.gov, and your state may maintain its own Do Not Call Registry. Putting your number on these Registries also may limit our telemarketing calls to that number.
+    **Federal Do Not Call:** The FTC maintains a National Do Not Call Registry at donotcall.gov, and your state may maintain its own Do Not Call Registry. Putting your number on these Registries also may limit our AT&T telemarketing calls to that number.
     
     ' + '
     
@@ -891,6 +907,8 @@ We understand that everyone thinks that privacy policies are long, complicated a
     ' + '
     
     We may use services provided by analytics companies to obtain information about website performance and how you use our mobile applications and other products and services. Go here for more information about the opt-outs made available by some of those vendors, and to make choices about participation.
+    
+' + '6.  These Choices and Controls also are available at www.att.com/yourchoices.
     
 ' + '
 
@@ -1202,7 +1220,7 @@ effective date **11/18/2010**. We invite you to learn more about our commitments
 
 **Welcome to the AT&T Privacy Policy. We will provide a preview of the updated privacy policy ��� before it goes into effect. Please check back soon for updates. The policy on these pages has an effective date of 11/18/2010.**
 
-' + '' + '' + '' + '' + '
+' + '' + '' + ' ' + '' + '
 
 AT&T has been awarded the TRUSTe Privacy Seal and you may contact TRUSTe if a privacy question is not properly addressed
 
@@ -1287,9 +1305,9 @@ For mobile, different devices use different technologies. Some mobile devices, f
 
 ' +'
 
-' + '' + '' + ' '). } else { document.write('' + 'Return to Privacy Policy Home' + ' '). document.write('' + '' + '' + '
+' + '' + '' + ' '). } else { document.write('' + 'Return to Privacy Policy Home' + ' '). document.write('' + ' ' + '' + '
 
-AT&T is a licensee of the TRUSTe Privacy Program and you may contact TRUSTe if a privacy question is not properly addressed.
+AT&T has been awarded the TRUSTe Privacy Seal and you may contact TRUSTe if a privacy question is not properly addressed
 
 ' + '' +'' + 'Your Rights and Choices' + '
 
