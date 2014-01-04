@@ -8,9 +8,75 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   WTF!!?!
+    *   by hotboy98
+    *   1 hour ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Need help... Cant write anything.
+    *   by Ah\_Wil
+    *   1 hour ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   I would like my old blog
+    *   by MsSigma6
+    *   4 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   oooooooooooooooomg my stuff!!!!
+    *   by AtraAngelus
+    *   4 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   I need my old blog back
+    *   by enniale
+    *   5 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   I can't post entries after $48 premium payment made
+    *   \[Resolved\] by cgdp001
+    *   1 week ago
+    *   in Adding &. Editing Entries
+    *   0 votes
+    *   2 (last comment by njipkam 7 hours ago)
+*   AHHHHH!!!! My DATA!!!
+    *   by Mystical\_Jaguar
+    *   8 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   AHHHHH!!!! My DATA!!!
+    *   by Mystical\_Jaguar
+    *   8 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Can u help me get back my xanga's history？
+    *   \[Resolved\] by boris\_law
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by boris\_law 12 hours ago)
+*   i can't find my blog . please help!!!!
+    *   \[Resolved\] by iwitowkm
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   3 (last comment by iwitowkm 13 hours ago)
+*   where is my blog??
+    *   by nicolas611
+    *   20 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Please Help
     *   by smilezx3
-    *   18 minutes ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,10 +85,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Privacy
     *   0 votes
-    *   4 (last comment by aprilrae4 1 hour ago)
+    *   4 (last comment by aprilrae4 1 day ago)
 *   Delete Account
     *   by aprilrae4
-    *   1 hour ago
+    *   1 day ago
     *   in Miscellaenous
     *   0 votes
     *   0
@@ -31,75 +97,9 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 months ago
     *   in Data Migration
     *   0 votes
-    *   34 (last comment by eugenia 2 hours ago)
-*   Can u help me get back my xanga's history？
-    *   \[Resolved\] by boris\_law
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 2 hours ago)
-*   i can't find my blog . please help!!!!
-    *   \[Resolved\] by iwitowkm
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 2 hours ago)
-*   get the archive of my blog
-    *   \[Resolved\] by billyhpy
-    *   13 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 2 hours ago)
-*   Can i archive new posts on 2.0
-    *   \[Resolved\] by Superbuds
-    *   5 days ago
-    *   in Miscellaenous
-    *   0 votes
-    *   1 (last comment by eugenia 2 hours ago)
-*   I can't find my old blogs &. don't think I met the archive criteria...
-    *   \[Resolved\] by In\_Your\_Care
-    *   6 days ago
-    *   in Data Migration
-    *   0 votes
-    *   3 (last comment by In\_Your\_Care 2 days ago)
-*   Is xanga no longer free?
-    *   \[Resolved\] by WC6F20
-    *   5 days ago
-    *   in Privacy
-    *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
-*   I met the criteria but am unable to see my old blogs?
-    *   \[Resolved\] by Bobfromsalesdepartment
-    *   5 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
-*   blog expired but I contributed to campaign
-    *   \[Resolved\] by deceitfulxobscurity
-    *   5 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
-*   Change Font Size in Editor
-    *   by routergenie
-    *   3 days ago
-    *   in Adding &. Editing Entries
-    *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
-*   Blog archive??
-    *   \[Resolved\] by Kevadi
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
-*   Clearly your networkers have no clue what they are doing
-    *   \[Resolved\] by kiss21ssik
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   4 (last comment by eugenia 3 days ago)
+    *   34 (last comment by eugenia 1 day ago)
 
-1 2 3 ... 108 Next
+1 2 3 ... 109 Next
 
 Help Categories
 
