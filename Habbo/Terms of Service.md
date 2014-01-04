@@ -1,6 +1,6 @@
 Terms of Service
 
-Jasper  
+Sam  
 posted this on January 29, 2013 13:59
 
 **Habbo.com - Terms of Service**
