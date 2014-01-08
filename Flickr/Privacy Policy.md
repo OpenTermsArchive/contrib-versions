@@ -42,7 +42,7 @@ Yahoo does not rent, sell, or share personal information about you with other pe
 
 *   We provide the information to trusted partners who work on behalf of or with Yahoo under confidentiality agreements. These companies may use your personal information to help Yahoo communicate with you about offers from Yahoo and our marketing partners. However, these companies do not have any independent right to share this information.
 *   We have a parent's permission to share the information if the user is a child under age 13. See Children's Privacy &. Family Accounts for more information about our privacy practices for children under 13 .
-*   We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
+*   We respond to subpoenas, court orders, or legal process (such as law enforcement requests), or to establish or exercise our legal rights or defend against legal claims.
 *   We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Yahoo's terms of use, or as otherwise required by law.
 *   We transfer information about you if Yahoo is acquired by or merged with another company. In this event, Yahoo will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
@@ -63,8 +63,9 @@ Yahoo lets other companies that show advertisements on some of our pages set and
 
 Yahoo uses web beacons to access Yahoo cookies inside and outside our network of web sites and in connection with Yahoo products and services.
 
-Your Ability to Edit and Delete Your Account Information and Preferences  
-General
+Return to top
+
+Your Ability to Edit and Delete Your Account Information and Preferences
 
 You can edit your Yahoo Account Information, including your marketing preferences, at any time.
 
@@ -102,6 +103,6 @@ Sunnyvale, CA 94089
 
 If you feel that your inquiry has not been satisfactorily addressed, please click here for information on consumer agencies that may be able to provide you with additional assistance.
 
-Last Updated: May 31, 2013
+Last Updated: January 7, 2013
 
 Return to top
