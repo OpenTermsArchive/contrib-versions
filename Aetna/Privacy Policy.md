@@ -99,8 +99,6 @@ Aetna may change this statement from time to time. when updates are made, the pr
 
 Privacy policy update: 1/1/14
 
-News
-
 *   Glossary
 *   Web Privacy
 *   Health Care Reform
