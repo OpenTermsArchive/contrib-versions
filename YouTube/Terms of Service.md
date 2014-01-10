@@ -13,7 +13,7 @@ Community Guidelines
 
 3\. YouTube Accounts
 
-1.  In order to access some features of the Service, you will have to create a YouTube or Google account. You may never use another's account without permission. When creating your account, you must provide accurate and complete information. You are solely responsible for the activity that occurs on your account, and you must keep your account password secure. You must notify YouTube immediately of any breach of security or unauthorized use of your account.
+1.  In order to access some features of the Service, you will have to create a YouTube or Google Account. You may never use another's account without permission. When creating your account, you must provide accurate and complete information. You are solely responsible for the activity that occurs on your account, and you must keep your account password secure. You must notify YouTube immediately of any breach of security or unauthorized use of your account.
 2.  Although YouTube will not be liable for your losses caused by any unauthorized use of your account, you may be liable for the losses of YouTube or others due to such unauthorized use.
 
 4\. General Use of the Service—Permissions and Restrictions
