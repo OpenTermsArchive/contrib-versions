@@ -2,7 +2,7 @@ Yahoo Terms of Service
 
 1\. ACCEPTANCE OF TERMS
 
-Yahoo! Inc. ("Yahoo") welcomes you. Yahoo provides the Yahoo Services (defined below) to you subject to the following Terms of Service ("TOS"), which may be updated by us from time to time without notice to you. You can review the most current version of the TOS at any time at: http://info.yahoo.com/legal/us/yahoo/utos/terms/. By accessing and using the Yahoo Services, you accept and agree to be bound by the terms and provision of the TOS. In addition, when using particular Yahoo owned or operated services, you and Yahoo shall be subject to any posted guidelines or rules applicable to such services, which may be posted and modified from time to time. All such guidelines or rules (including but not limited to our Spam Policy) are hereby incorporated by reference into the TOS. Yahoo may also offer other services that are governed by different Terms of Service. In such cases the other terms of service will be posted on the relevant service to which they apply.
+Yahoo! Inc. ("Yahoo") welcomes you. Yahoo provides the Yahoo Services (defined below) to you subject to the following Terms of Service ("TOS"), which may be updated by us from time to time without notice to you. You can review the most current version of the TOS at any time at: https://info.yahoo.com/legal/us/yahoo/utos/terms/. By accessing and using the Yahoo Services, you accept and agree to be bound by the terms and provision of the TOS. In addition, when using particular Yahoo owned or operated services, you and Yahoo shall be subject to any posted guidelines or rules applicable to such services, which may be posted and modified from time to time. All such guidelines or rules (including but not limited to our Spam Policy) are hereby incorporated by reference into the TOS. Yahoo may also offer other services that are governed by different Terms of Service. In such cases the other terms of service will be posted on the relevant service to which they apply.
 
 2\. DESCRIPTION OF YAHOO! SERVICES
 
@@ -18,7 +18,7 @@ In consideration of your use of the Yahoo Services, you represent that you are o
 
 4\. YAHOO! PRIVACY POLICY
 
-Registration Data and certain other information about you are subject to our applicable privacy policy. For more information, see the full Yahoo Privacy Policy at http://info.yahoo.com/privacy/us/yahoo/, or if you came from Yahoo Kids, then see our Yahoo Kids Privacy Policy at http://info.yahoo.com/privacy/us/yahoo/kids. You understand that through your use of the Yahoo Services you consent to the collection and use (as set forth in the applicable privacy policy) of this information, including the transfer of this information to the United States and/or other countries for storage, processing and use by Yahoo and its affiliates.
+Registration Data and certain other information about you are subject to our applicable privacy policy. For more information, see the full Yahoo Privacy Policy at https://info.yahoo.com/privacy/us/yahoo/, or if you came from Yahoo Kids, then see our Yahoo Kids Privacy Policy at https://info.yahoo.com/privacy/us/yahoo/kids. You understand that through your use of the Yahoo Services you consent to the collection and use (as set forth in the applicable privacy policy) of this information, including the transfer of this information to the United States and/or other countries for storage, processing and use by Yahoo and its affiliates.
 
 5\. MEMBER ACCOUNT, PASSWORD AND SECURITY
 
