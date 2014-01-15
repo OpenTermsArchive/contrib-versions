@@ -390,6 +390,7 @@ SUPPORT &. SERVICES
 *   Pay My Bill
 *   Shop/Upgrade
 *   Support
+*   \[+\] Submit Feedback
 
 XFINITY © 2014 Comcast
 
