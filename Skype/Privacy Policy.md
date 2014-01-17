@@ -176,7 +176,7 @@ Skype uses its own cookies for a variety of purposes, including to:
 
 **4.4 Third Party Cookies**
 
-In addition to Skype’s cookies, Skype’s analytics, ad-serving and affiliate partners may set cookies and access cookies on your computer, when you are using the Skype software client or visiting a Skype website.
+In addition to Skype’s cookies, Skype’s analytics, ad-serving and affiliate partners may set cookies and access cookies on your computer, when you are using the Skype software client or visiting a Skype website and may collect information about your online activities across websites or online services.
 
 **4.4.1 Analytics**
 
@@ -218,6 +218,12 @@ To opt out of Omniture analytic cookies, please visit: https://smetrics.skype.co
 
 To opt out of Google Analytics cookies, please visit: http://tools.google.com/dlpage/gaoptout
 
+**4.5.4 Browser Controls for “Do Not Track” and Tracking Protection.**
+
+Some newer browsers have incorporated “Do Not Track” features. Most of these features, when turned on, send a signal or preference to the web sites you visit indicating that you do not wish to be tracked. Those sites (or the third party content on those sites) may continue to engage in activities you might view as tracking even though you have expressed this preference, depending on the sites’ privacy practices.  Because there is not yet a common understanding of how to interpret the DNT signal, Microsoft does not currently respond to the browser DNT signals on its own websites or online services, or on third-party websites or online services where Microsoft provides advertisements, content or is otherwise able to collect information.  We continue to work with the online industry to define a common understanding of how to treat DNT signals. In the meantime, users may continue to opt-out of targeted ads from Microsoft as set forth below.
+
+Internet Explorer (versions 9 and up) have a feature called Tracking Protection that helps prevent the web sites you go to from automatically sending details about your visit to third-party content providers. When you add a Tracking Protection List, Internet Explorer will block third-party content, including cookies, from any site that is listed as a site to be blocked. By limiting calls to these sites, Internet Explorer will limit the information these third-party sites can collect about you. For more information about Tracking Protection Lists and Do Not Track, please see the Internet Explorer Privacy Statement or Internet Explorer Help.
+
 **5\. YOUR ADVERTISING CHOICES** **5.1 Third Party Advertisements**
 
 Skype websites and some Skype software clients enable third-party advertisements provided by Microsoft Advertising. In order to provide ads of greater interest to you, these ads may be targeted based on non-personally identifiable Skype profile information (including profile information from linked Microsoft accounts), such as age, gender, country of residence, and language preference, as well as other information Microsoft Advertising collects outside the Skype software client. For instance, Microsoft Advertising may utilize the same browser cookies set by Microsoft websites to enhance targeting within the Skype software client.  
@@ -225,13 +231,7 @@ To learn more about how Microsoft Advertising collects and uses information to t
 
 Except for the modern Skype client running on Windows 8, you may opt-out of Microsoft targeted ads in any Skype software client that enables targeted ads by visiting the privacy menu in the Skype software client toolbar. If you opt-out, you will still receive advertisements based on your country of residence, language preference, and IP address location, but other targeting information will not be used. For the modern Skype client running on Windows 8, you may opt-out of receiving targeted ads from Microsoft Advertising through your browser by visiting http://choice.live.com/advertisementchoice, or the NAI or DAA sites described below. For more information about how Microsoft Advertising collects and uses information, please see the Microsoft Advertising Privacy Supplement.
 
-In some instances, Microsoft Advertising may facilitate the placement of advertisements in Skype software client by other online advertising networks. These companies currently include, but are not limited to: 24/7 Real Media, aCerno,Inc, AdBlade, AdConion, AdFusion, Advertising.com, AppNexus, Bane Media, Brand.net, CasaleMedia, Collective Media, Fox Interactive, Interclick, Millennial, ROI Media, Social Media, SpecificMedia, Tribal Fusion, ValueClick, Yahoo!, YuMe and Zumobi. If you have opted-out of targeted ads in the Skype client as outlined above, Skype will not pass any profile information to such advertising providers with the ad request. However, because these third parties may place cookies on your computer that facilitate their own targeting, the Skype opt-out mechanism described above will not necessarily prevent ad targeting by these companies. These companies may offer you a way to opt-out of ad targeting based on their cookies. You may find more information by clicking on the company names above and following the links to the Web sites of each company. Many of them are also members of the Network Advertising Initiative (NAI) or the Digital Advertising Alliance (DAA), which each provide a simple way to opt-out of ad targeting from participating companies.
-
-**5.2 Skype Advertisements**
-
-You may also choose to opt-out of the use of your non-personally identifiable profile information in connection with Skype's advertising efforts on third party websites by clicking on the following link: http://media.skype.com/optout\_confirmation.html.
-
-If you choose to opt-out, Skype's advertisements will still be delivered to you but information about your relationship with Skype's websites or the Skype software will not be used for this purpose.
+In some instances, Microsoft Advertising may facilitate the placement of advertisements in Skype software client by other online advertising networks. In some cases, these third parties may also place cookies on your computer and may collect information about your online activities across websites or online services. These companies currently include, but are not limited to: 24/7 Real Media, aCerno,Inc, AdBlade, AdConion, AdFusion, Advertising.com, AppNexus, Bane Media, Brand.net, CasaleMedia, Collective Media, Fox Interactive, Interclick, Millennial, ROI Media, SpecificMedia, Tribal Fusion, ValueClick, Yahoo!, YuMe and Zumobi. If you have opted-out of targeted ads in the Skype client as outlined above, Skype will not pass any profile information to such advertising providers with the ad request. However, because these third parties may place cookies on your computer that facilitate their own targeting, the Skype opt-out mechanism described above will not necessarily prevent ad targeting by these companies. These companies may offer you a way to opt-out of ad targeting based on their cookies. You may find more information by clicking on the company names above and following the links to the Web sites of each company. Many of them are also members of the Network Advertising Initiative (NAI) or the Digital Advertising Alliance (DAA), which each provide a simple way to opt-out of ad targeting from participating companies.
 
 **6\. YOUR USER PROFILE**
 
@@ -320,4 +320,4 @@ Skype Inc.
 3210 Porter Drive  
 Palo Alto, California 94304, USA
 
-© Skype and/or Microsoft – Last updated: November 2013
+© Skype and/or Microsoft – Last updated: January 2014
