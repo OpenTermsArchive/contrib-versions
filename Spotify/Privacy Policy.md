@@ -1,6 +1,6 @@
 Spotify Privacy Policy
 
-Effective as from 17 October 2012
+Effective as from 9 January 2014
 
 1.  Introduction
 2.  The information we collect
@@ -134,9 +134,11 @@ We use cookies for four general purposes, as explained in this chart:
 
 Cookie Type Purpose Essential Operational These cookies are necessary to allow us to operate the Spotify Service as you have requested. For example, they let us recognise what type of subscriber you are and then provide you with services accordingly. Performance We use these cookies to analyse how the Spotify Service is used or is performing. We use this information to maintain, operate and continually improve the Spotify Service. Functional These cookies let us operate certain functions of the Spotify Service in line with the choices you make. These cookies mean that when you come back to the Spotify Service, we can provide you with our services as you have asked for them to be provided, such as knowing your username, remembering how you have customised our services and reminding you of music you have enjoyed. Targeting/advertising We use these cookies to serve you with advertisements through the Spotify Service. Some advertisements may be relevant to you and your interests. These cookies may also help us and our business partners regulate the advertisements you receive and measure their effectiveness.
 
-As above, our business partners may use their cookies on the Spotify Service, for the same general purposes identified above. For more information about the use of cookies and how to block them, visit www.allaboutcookies.org, www.youronlinechoices.eu (Europe) or www.aboutads.info/choices/ (United States). Most web browsers also allow you to manage your cookie preferences.
+As above, our business partners may use their cookies on the Spotify Service, for the same general purposes identified above. Third parties may use cookies and other similar technologies to collect information about your online activities over time and across different websites. For more information about the use of cookies and how to block them, visit www.allaboutcookies.org, www.youronlinechoices.eu (Europe) or www.aboutads.info/choices/ (United States). Most web browsers also allow you to manage your cookie preferences.
 
 You can set your browser to refuse cookies, or delete certain cookies. This may impair or prevent due functioning of the Service.
+
+Do Not Track is a standard that is currently under development. As it is not yet finalized, we adhere to the standards set out in this Privacy Policy.
 
 We may use standard Internet technologies similar to cookies like these:
 
