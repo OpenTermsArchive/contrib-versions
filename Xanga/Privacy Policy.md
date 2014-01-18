@@ -8,33 +8,51 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   delete my account
+    *   by jsunkistc
+    *   20 minutes ago
+    *   in Miscellaenous
+    *   0 votes
+    *   0
+*   More information
+    *   by ka\_ka\_karrrreenn
+    *   1 day ago
+    *   in Miscellaenous
+    *   0 votes
+    *   1 (last comment by routergenie 3 hours ago)
+*   Missing Blog!
+    *   by PoloBlueGirl88
+    *   7 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Please help to retrieve my blog back!!!
+    *   by yenzzzzzz
+    *   23 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Missed downloading my archives
     *   \[Resolved\] by jaggedjunky
     *   3 months ago
     *   in Data Migration
     *   0 votes
-    *   5 (last comment by super\_JOJO 27 minutes ago)
+    *   5 (last comment by super\_JOJO 1 day ago)
 *   lost my xanga
     *   by karen\_0212
-    *   13 hours ago
+    *   1 day ago
     *   in Themes
     *   0 votes
     *   0
 *   Sorry can i have my blog back:(?
     *   by AMaxOi
-    *   14 hours ago
+    *   1 day ago
     *   in Data Migration
-    *   0 votes
-    *   0
-*   More information
-    *   by ka\_ka\_karrrreenn
-    *   15 hours ago
-    *   in Miscellaenous
     *   0 votes
     *   0
 *   I can't find my blog
     *   by jack3iebus
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -43,63 +61,45 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 months ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by kiss21ssik 1 day ago)
+    *   2 (last comment by kiss21ssik 2 days ago)
 *   Where's my blog?
     *   by baBii\_LYT
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   bring back my blog
     *   by DaWildOne34
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   HELP ME PLZZZZZ
     *   \[Resolved\] by MsElsa
-    *   5 days ago
+    *   6 days ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Looking for my blog...
     *   \[Resolved\] by lazyphair
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 3 days ago)
+*   my blog is missing
+    *   \[Resolved\] by Wind1015
     *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
-*   my blog is missing
-    *   \[Resolved\] by Wind1015
-    *   5 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Download and Upgrade?
     *   \[Resolved\] by CatThang
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
-*   Retrieve Old Account
-    *   \[Resolved\] by anoiFace
-    *   4 days ago
-    *   in Passwords &. Sign-In
-    *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
-*   Please help, thanks!!!
-    *   \[Resolved\] by mrshorty
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
-*   old blog
-    *   \[Resolved\] by SuDohNihm
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 
-1 2 3 ... 110 Next
+1 2 3 ... 111 Next
 
 Help Categories
 
