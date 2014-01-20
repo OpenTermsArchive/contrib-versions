@@ -8,15 +8,39 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Participated in Campaign but cannot locate blog
+    *   by lOnEr\_4\_lYf
+    *   2 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Xanga site deemed malicious by anti virus program
+    *   by SusanPienHsu
+    *   8 hours ago
+    *   in Passwords &. Sign-In
+    *   0 votes
+    *   0
+*   Upgrade Xanga.
+    *   by doritos4breakfast
+    *   8 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Can't find my blog
+    *   by a\_ben
+    *   19 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Archive please
     *   by tootall101
-    *   10 minutes ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can't find my blog :(
     *   by juliakatrina
-    *   52 minutes ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -25,75 +49,51 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   5 (last comment by MommaMiaAna 2 hours ago)
+    *   5 (last comment by MommaMiaAna 1 day ago)
 *   Lost all my data!!!
     *   by KMTPHYLLIS
-    *   7 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   delete my account
     *   by jsunkistc
-    *   1 day ago
+    *   2 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   More information
     *   by ka\_ka\_karrrreenn
-    *   2 days ago
+    *   3 days ago
     *   in Miscellaenous
     *   0 votes
-    *   1 (last comment by routergenie 1 day ago)
+    *   1 (last comment by routergenie 2 days ago)
 *   Missing Blog!
     *   by PoloBlueGirl88
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help to retrieve my blog back!!!
     *   by yenzzzzzz
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Missed downloading my archives
     *   \[Resolved\] by jaggedjunky
-    *   3 months ago
+    *   4 months ago
     *   in Data Migration
     *   0 votes
-    *   5 (last comment by super\_JOJO 2 days ago)
+    *   5 (last comment by super\_JOJO 3 days ago)
 *   lost my xanga
     *   by karen\_0212
-    *   2 days ago
+    *   3 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Sorry can i have my blog back:(?
     *   by AMaxOi
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   I can't find my blog
-    *   by jack3iebus
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Blog does not appear
-    *   \[Resolved\] by kiss21ssik
-    *   4 months ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by kiss21ssik 3 days ago)
-*   Where's my blog?
-    *   by baBii\_LYT
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   bring back my blog
-    *   by DaWildOne34
     *   3 days ago
     *   in Data Migration
     *   0 votes
