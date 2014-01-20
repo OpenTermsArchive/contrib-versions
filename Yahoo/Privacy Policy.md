@@ -154,16 +154,10 @@ Haut de page
 
 A la une
 
-Exprimez vos choix  
-
-Vous ne souhaitez pas recevoir de publicité en relation avec vos intérêts? Cliquez ici pour exprimer vos choix.
+Cliquez ici si vous avez ouvert un compte Yahoo après le 19 janvier 2014
 
   
-  
-
-Des publicités pertinentes  
-
-En apportant du contenu et des publicités pertinents et adaptés à vos centres d’intérêts, Yahoo! vous propose une expérience utilisateur unique. Pour en savoir plus, cliquez ici!
+**DES PUBLICITÉS PERTINENTES** En vous apportant du contenu et des publicités pertinents, adaptés à vos centres d’intérêts, Yahoo transforme l'utilisation de ses services en une expérience unique. Pour en savoir plus sur les publicités pertinentes, cliquez ici. Gérez les catégories basées sur vos centres d’intérêts ou bloquez toutes les catégories sur notre outil de gestion des publicités basées sur les centres d’intérêts.
 
 Copyright © 2014 Yahoo Tous droits réservés.  
 Vie Privée | Conditions Générales d'Utilisation
