@@ -16,6 +16,7 @@ My Cart (Edit) My Location_:_ n/a
     
     *   Bundles
     *   Plans
+    *   Online Security
     
 *   Digital TV
     
