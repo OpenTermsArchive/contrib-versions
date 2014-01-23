@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   August 2013 Archive missing.
-    *   \[Resolved\] by erikafung\_1st
-    *   4 months ago
+*   bring back my blog
+    *   \[Resolved\] by DaWildOne34
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   5 (last comment by Isolated\_Igloo 8 hours ago)
-*   Please help me to get my posts back
-    *   by ytj
-    *   1 day ago
+    *   1 (last comment by eugenia 2 hours ago)
+*   Where's my blog?
+    *   \[Resolved\] by baBii\_LYT
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   Replying to comments
-    *   by peacenow
-    *   1 day ago
-    *   in Comments
-    *   0 votes
-    *   0
-*   Why did my account expire, it's renewed annually
-    *   by FoodIowa
-    *   1 day ago
-    *   in Premium
-    *   0 votes
-    *   0
-*   Participated in Campaign but cannot locate blog
-    *   by lOnEr\_4\_lYf
-    *   2 days ago
+    *   1 (last comment by eugenia 2 hours ago)
+*   I can't find my blog
+    *   \[Resolved\] by jack3iebus
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   Xanga site deemed malicious by anti virus program
-    *   by SusanPienHsu
-    *   2 days ago
-    *   in Passwords &. Sign-In
-    *   0 votes
-    *   0
-*   Upgrade Xanga.
-    *   by doritos4breakfast
-    *   2 days ago
+    *   1 (last comment by eugenia 2 hours ago)
+*   Sorry can i have my blog back:(?
+    *   \[Resolved\] by AMaxOi
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   Can't find my blog
-    *   by a\_ben
-    *   2 days ago
+    *   1 (last comment by eugenia 2 hours ago)
+*   lost my xanga
+    *   \[Resolved\] by karen\_0212
+    *   6 days ago
+    *   in Themes
+    *   0 votes
+    *   1 (last comment by eugenia 2 hours ago)
+*   Please help to retrieve my blog back!!!
+    *   \[Resolved\] by yenzzzzzz
+    *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   Archive please
-    *   by tootall101
-    *   3 days ago
+    *   1 (last comment by eugenia 2 hours ago)
+*   Missing Blog!
+    *   \[Resolved\] by PoloBlueGirl88
+    *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   Can't find my blog :(
-    *   by juliakatrina
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   i can't find my blog . please help!!!!
-    *   \[Resolved\] by iwitowkm
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   5 (last comment by MommaMiaAna 3 days ago)
-*   Lost all my data!!!
-    *   by KMTPHYLLIS
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
+    *   1 (last comment by eugenia 2 hours ago)
 *   delete my account
-    *   by jsunkistc
-    *   4 days ago
-    *   in Miscellaenous
-    *   0 votes
-    *   0
-*   More information
-    *   by ka\_ka\_karrrreenn
+    *   \[Resolved\] by jsunkistc
     *   5 days ago
     *   in Miscellaenous
     *   0 votes
-    *   1 (last comment by routergenie 4 days ago)
-*   Missing Blog!
-    *   by PoloBlueGirl88
+    *   1 (last comment by eugenia 2 hours ago)
+*   Lost all my data!!!
+    *   \[Resolved\] by KMTPHYLLIS
     *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   0
+    *   1 (last comment by eugenia 2 hours ago)
+*   Can't find my blog :(
+    *   \[Resolved\] by juliakatrina
+    *   4 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 2 hours ago)
+*   Archive please
+    *   \[Resolved\] by tootall101
+    *   4 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 2 hours ago)
+*   Can't find my blog
+    *   \[Resolved\] by a\_ben
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 2 hours ago)
+*   Xanga site deemed malicious by anti virus program
+    *   \[Resolved\] by SusanPienHsu
+    *   3 days ago
+    *   in Passwords &. Sign-In
+    *   0 votes
+    *   1 (last comment by eugenia 2 hours ago)
+*   Lost previous posts! Help!!
+    *   \[Resolved\] by iznaynus
+    *   12 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 2 hours ago)
+*   I cant find my blog!
+    *   \[Resolved\] by xxBleed\_N\_Unisonxx
+    *   5 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 2 hours ago)
 
 1 2 3 ... 111 Next
 
