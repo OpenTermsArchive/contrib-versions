@@ -135,10 +135,7 @@ Skip to contentZillow Real Estate &amp. Homes for Sale
     *   Agents
     *   Rental Pro
 
-*   Sign In   xSign In
-    
-    Need an account? Sign up here
-    
+*   Sign In
 
 Find home values and listings Location: Search
 
