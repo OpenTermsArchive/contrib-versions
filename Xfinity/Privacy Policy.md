@@ -30,6 +30,7 @@ XFINITY
     *   Live TV
     *   DVR Manager
     *   Sports on TV
+    *   Sochi 2014
     *   Even more...
 
 *   Shop/Upgrade
