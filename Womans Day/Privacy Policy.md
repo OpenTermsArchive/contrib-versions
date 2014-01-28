@@ -1,4 +1,4 @@
-���var Privacy01 = '
+var Privacy01 = '
 
 PRIVACY POLICY  
 '. Privacy01 += '
