@@ -234,6 +234,14 @@ More information on the SZM method is available from the website of INFOnline Gm
 
 If you wish to object to the processing of data via the SZM method, please click on the following link: http://optout.ivwbox.de
 
+Interest- and behavior-related information and advertising
+
+On our Websites we also use technologies to show you information and advertising based on your interests and behavior. To do so, we use data-protection-friendly technologies based on data anonymization and pseudonymization. To this end, we use an external service provider who gathers on our behalf certain information about your activities on our Websites. Said service provider is never able to assign the information it gathers to a specific person, and IP addresses are immediately anonymized. Said service provider never stores Personal Data. Instead it performs calculations based on this and other non-personal information, which we then receive as recommendations for showing your information or advertising based on your interests and behavior.
+
+If you would no longer like to receive such information or advertising, you can click on the link below to revoke your permission and deactivate data collection by setting an opt-out cookie: Opt-outcomplete
+
+Please note that data will again be collected should you delete the opt-out cookie.
+
 **13\. Log Files/Mobile Handshake**
 
 Each time you access a website from the XING Websites, XING will save the following data in a log file (the so called "server log"):
