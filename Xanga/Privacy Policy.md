@@ -8,9 +8,39 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   i can't find my blog, plz help..thz..
+    *   \[Resolved\] by akiko\_cloud
+    *   5 days ago
+    *   in Data Migration
+    *   0 votes
+    *   5 (last comment by RubyNectarina 2 hours ago)
+*   cherry\_lovepang's Xanga request
+    *   by StarSuchGirl
+    *   4 hours ago
+    *   in Miscellaenous
+    *   0 votes
+    *   0
 *   I can't find my blog
     *   by aelurophilia
-    *   1 hour ago
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by aelurophilia 4 hours ago)
+*   How do I get my blog archive?
+    *   by ItsAll\_A\_LoveWar
+    *   11 hours ago
+    *   in Adding &. Editing Entries
+    *   0 votes
+    *   0
+*   i want to get back my blog! Many thanks!
+    *   by alicecheungws
+    *   18 hours ago
+    *   in Miscellaenous
+    *   0 votes
+    *   0
+*   i want to get back my blog! Many thanks!
+    *   by jani\_fer
+    *   23 hours ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,85 +49,55 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 months ago
     *   in Data Migration
     *   0 votes
-    *   9 (last comment by lillypado 2 hours ago)
+    *   9 (last comment by lillypado 1 day ago)
 *   Deleting My Account
     *   \[Resolved\] by Omgwtf\_St
     *   4 months ago
     *   in Miscellaenous
     *   0 votes
-    *   35 (last comment by ayy\_lolita 5 hours ago)
+    *   35 (last comment by ayy\_lolita 1 day ago)
 *   Missing Blog!
     *   \[Resolved\] by PoloBlueGirl88
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by eugenia 7 hours ago)
-*   i can't find my blog, plz help..thz..
-    *   \[Resolved\] by akiko\_cloud
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   3 (last comment by eugenia 7 hours ago)
+    *   3 (last comment by eugenia 1 day ago)
 *   Where is my archive?
     *   \[Resolved\] by cowautlgc
     *   4 months ago
     *   in Data Migration
     *   0 votes
-    *   41 (last comment by eugenia 7 hours ago)
+    *   41 (last comment by eugenia 1 day ago)
 *   Premium member
     *   \[Resolved\] by SingingMom
-    *   5 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   Archived but opens as CODES
-    *   \[Resolved\] by Twahna
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   I couldn't see my blog :((
-    *   \[Resolved\] by rubyapril
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   Lost previous posts! Help!!
-    *   \[Resolved\] by iznaynus
     *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
+*   Archived but opens as CODES
+    *   \[Resolved\] by Twahna
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 2 days ago)
+*   I couldn't see my blog :((
+    *   \[Resolved\] by rubyapril
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 2 days ago)
+*   Lost previous posts! Help!!
+    *   \[Resolved\] by iznaynus
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   3 (last comment by eugenia 2 days ago)
 *   Lost Posts
     *   \[Resolved\] by AshaTrip
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   I lost my old posts
-    *   \[Resolved\] by MiniLeung
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by eugenia 1 day ago)
-*   May I have my blog back? Thanks!
-    *   \[Resolved\] by cho\_chun\_on
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   I have no site
-    *   \[Resolved\] by ndsoccer2000
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   My site is no longer up I would like it back!
-    *   \[Resolved\] by true\_relaxations
-    *   2 days ago
-    *   in Personal URLs
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 
 1 2 3 ... 112 Next
 
