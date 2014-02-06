@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Archives Unavailable?
-    *   by TeriyakiBoy87
-    *   7 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   IMPORT??
-    *   \[Resolved\] by XxCalifGirlxX2
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 10 hours ago)
 *   Where is my archive?
     *   \[Resolved\] by cowautlgc
     *   4 months ago
     *   in Data Migration
     *   0 votes
-    *   47 (last comment by eugenia 10 hours ago)
+    *   48 (last comment by Candyhorses 2 hours ago)
+*   Old Blogs
+    *   by Candyhorses
+    *   3 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by Candyhorses 3 hours ago)
+*   Lost entries
+    *   by HeidiCHIC
+    *   10 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Archives
+    *   by smithie04
+    *   10 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   My old blogs are gone
+    *   by tosexy4yew
+    *   21 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Archives Unavailable?
+    *   by TeriyakiBoy87
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   IMPORT??
+    *   \[Resolved\] by XxCalifGirlxX2
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 1 day ago)
 *   Please help to retrieve my blog back!!!
     *   \[Resolved\] by yenzzzzzz
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by eugenia 10 hours ago)
+    *   4 (last comment by eugenia 1 day ago)
 *   question about my past blogs
     *   \[Resolved\] by johnnymini
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by eugenia 10 hours ago)
+    *   3 (last comment by eugenia 1 day ago)
 *   Please help me retrieve my blog!
     *   \[Resolved\] by whatisupdog
-    *   12 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 10 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   My Blog
     *   \[Resolved\] by cat6178822000
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 2 days ago)
+*   Blog's missing.
+    *   \[Resolved\] by vaaalll
     *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   Blog's missing.
-    *   \[Resolved\] by vaaalll
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   My Past posts are missing, pls help
     *   \[Resolved\] by vAvA2006
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   Apparently I Misunderstood...
     *   \[Resolved\] by johnofallfaith
-    *   1 day ago
+    *   2 days ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   How can I get my archives?
     *   by vantha
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
-*   HELP! Premium Account Expiring!
-    *   \[Resolved\] by Threads\_of\_Faith
-    *   5 days ago
-    *   in Premium
-    *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
-*   Plx help me find my old posts
-    *   \[Resolved\] by con\_noodle
-    *   4 months ago
-    *   in Data Migration
-    *   0 votes
-    *   10 (last comment by eugenia 5 days ago)
-*   i want to get back my blog! Many thanks!
-    *   \[Resolved\] by jani\_fer
-    *   6 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
-*   i want to get back my blog! Many thanks!
-    *   \[Resolved\] by alicecheungws
-    *   6 days ago
-    *   in Miscellaenous
-    *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
 
 1 2 3 ... 113 Next
 
