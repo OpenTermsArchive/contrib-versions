@@ -219,6 +219,8 @@ Google: How Google uses cookies
 
 Yahoo!/Bing: Opt out of personalized advertising
 
+NEXT AUDIENCE: Privacy information
+
 The following information also applies to users in Germany:  
 Our website uses the "Scalable Centralized Measurement System" ("Skalierbares zentrales Messverfahren – SZM") developed by INFOnline in order to enable us to gather statistical information about the use of our website. Anonymous data is collected for this purpose. For the purpose of recognizing computer systems, the SZM method of audience measurement either uses a cookie with the identifier “ivwbox.de” or a signature which is created on the basis of various data automatically relayed by your computer. This method does not store IP addresses. these are processed in an anonymized form only.
 
