@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Retrieving old posts?
+    *   \[Resolved\] by kmgeekintraining
+    *   4 months ago
+    *   in Data Migration
+    *   0 votes
+    *   4 (last comment by babiegurl0004 4 hours ago)
+*   Please help
+    *   by justforu\_cyk
+    *   6 hours ago
+    *   in Comments
+    *   0 votes
+    *   1 (last comment by justforu\_cyk 5 hours ago)
+*   All my posts are missing, plz help
+    *   by love\_maxiao
+    *   16 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Premium member
+    *   \[Resolved\] by SingingMom
+    *   2 weeks ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by SingingMom 21 hours ago)
+*   Expired
+    *   by SingingMom
+    *   21 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Lost everything in xanga
+    *   by dewdel
+    *   23 hours ago
+    *   in Themes
+    *   0 votes
+    *   0
 *   my archives
     *   by Ravenseternalfire
-    *   5 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   xanga account
     *   by FoodIowa
-    *   6 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How to get back my old posts?
     *   by mi\_mdh
-    *   9 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Archives Unavailable?
     *   \[Resolved\] by TeriyakiBoy87
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 1 day ago)
+*   My old blogs are gone
+    *   \[Resolved\] by tosexy4yew
     *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 10 hours ago)
-*   My old blogs are gone
-    *   \[Resolved\] by tosexy4yew
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 10 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   Archives
     *   \[Resolved\] by smithie04
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 10 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   Old Blogs
     *   \[Resolved\] by Candyhorses
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by eugenia 10 hours ago)
+    *   2 (last comment by eugenia 1 day ago)
 *   Lost entries
     *   \[Resolved\] by HeidiCHIC
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 10 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   Where is my archive?
     *   \[Resolved\] by cowautlgc
     *   4 months ago
     *   in Data Migration
     *   0 votes
-    *   50 (last comment by eugenia 10 hours ago)
-*   Import Failed
-    *   \[Resolved\] by bfwhite88
-    *   21 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 10 hours ago)
-*   please help to retrieve my blog
-    *   \[Resolved\] by vickyisthebest
-    *   15 hours ago
-    *   in Passwords &. Sign-In
-    *   0 votes
-    *   1 (last comment by eugenia 10 hours ago)
-*   我想要返之前d日記...點搞???????有無人教我
-    *   by ckmtwt
-    *   5 months ago
-    *   in Adding &. Editing Entries
-    *   0 votes
-    *   1 (last comment by y\_u\_k\_i1204 10 hours ago)
-*   IMPORT??
-    *   \[Resolved\] by XxCalifGirlxX2
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
-*   Please help to retrieve my blog back!!!
-    *   \[Resolved\] by yenzzzzzz
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   4 (last comment by eugenia 2 days ago)
-*   question about my past blogs
-    *   \[Resolved\] by johnnymini
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   3 (last comment by eugenia 2 days ago)
+    *   50 (last comment by eugenia 1 day ago)
 
 1 2 3 ... 114 Next
 
