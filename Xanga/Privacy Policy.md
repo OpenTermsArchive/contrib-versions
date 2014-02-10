@@ -8,9 +8,45 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Help retrieve blog posts!
+    *   by x\_DyMoNd\_ChiCk\_x
+    *   1 hour ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Where is my archive?
+    *   \[Resolved\] by cowautlgc
+    *   5 months ago
+    *   in Data Migration
+    *   0 votes
+    *   53 (last comment by QuickMakeABreak4It 1 hour ago)
+*   MISSING POST
+    *   by yanyanchim
+    *   10 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Hello! I cannot see my blog anymore...
+    *   by PatCi
+    *   17 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Help Please Can't sign in/outdated email
+    *   by amazinglinesfantastictimes
+    *   22 hours ago
+    *   in Passwords &. Sign-In
+    *   0 votes
+    *   0
+*   Recovering old blog
+    *   by imperfectgirl13
+    *   23 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Recovering old posts?
     *   by JoLeE187
-    *   1 hour ago
+    *   1 day ago
     *   in Miscellaenous
     *   0 votes
     *   0
@@ -19,28 +55,28 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 months ago
     *   in Data Migration
     *   0 votes
-    *   6 (last comment by JoLeE187 1 hour ago)
+    *   6 (last comment by JoLeE187 1 day ago)
 *   How do you use this
     *   by phunkbunny04
-    *   15 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Is it possible to recover a deactivated/deleted site?
     *   by rockmeamadeus2
-    *   18 hours ago
+    *   1 day ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Please help
     *   by justforu\_cyk
-    *   1 day ago
+    *   2 days ago
     *   in Comments
     *   0 votes
-    *   1 (last comment by justforu\_cyk 1 day ago)
+    *   1 (last comment by justforu\_cyk 2 days ago)
 *   All my posts are missing, plz help
     *   by love\_maxiao
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -49,55 +85,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by SingingMom 1 day ago)
+    *   2 (last comment by SingingMom 2 days ago)
 *   Expired
     *   by SingingMom
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Lost everything in xanga
     *   by dewdel
-    *   1 day ago
+    *   2 days ago
     *   in Themes
     *   0 votes
     *   0
-*   my archives
-    *   by Ravenseternalfire
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   xanga account
-    *   by FoodIowa
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   How to get back my old posts?
-    *   by mi\_mdh
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Archives Unavailable?
-    *   \[Resolved\] by TeriyakiBoy87
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
-*   My old blogs are gone
-    *   \[Resolved\] by tosexy4yew
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
-*   Archives
-    *   \[Resolved\] by smithie04
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
 
 1 2 3 ... 114 Next
 
