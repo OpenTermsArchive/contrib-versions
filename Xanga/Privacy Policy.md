@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Help retrieve blog posts!
-    *   by x\_DyMoNd\_ChiCk\_x
-    *   1 hour ago
+*   Download Archives
+    *   \[Resolved\] by BlackDecal
+    *   11 hours ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   Where is my archive?
-    *   \[Resolved\] by cowautlgc
+    *   3 (last comment by BlackDecal 10 hours ago)
+*   How can I get my archives?
+    *   \[Resolved\] by vantha
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 11 hours ago)
+*   我想要返之前d日記...點搞???????有無人教我
+    *   \[Resolved\] by ckmtwt
     *   5 months ago
+    *   in Adding &. Editing Entries
+    *   0 votes
+    *   1 (last comment by eugenia 11 hours ago)
+*   How to get back my old posts?
+    *   \[Resolved\] by mi\_mdh
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   53 (last comment by QuickMakeABreak4It 1 hour ago)
-*   MISSING POST
-    *   by yanyanchim
-    *   10 hours ago
+    *   1 (last comment by eugenia 11 hours ago)
+*   xanga account
+    *   \[Resolved\] by FoodIowa
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   Hello! I cannot see my blog anymore...
-    *   by PatCi
-    *   17 hours ago
+    *   1 (last comment by eugenia 11 hours ago)
+*   my archives
+    *   \[Resolved\] by Ravenseternalfire
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   Help Please Can't sign in/outdated email
-    *   by amazinglinesfantastictimes
-    *   22 hours ago
-    *   in Passwords &. Sign-In
+    *   1 (last comment by eugenia 11 hours ago)
+*   Lost everything in xanga
+    *   \[Resolved\] by dewdel
+    *   3 days ago
+    *   in Themes
     *   0 votes
-    *   0
-*   Recovering old blog
-    *   by imperfectgirl13
-    *   23 hours ago
+    *   1 (last comment by eugenia 11 hours ago)
+*   Expired
+    *   \[Resolved\] by SingingMom
+    *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   Recovering old posts?
-    *   by JoLeE187
-    *   1 day ago
-    *   in Miscellaenous
-    *   0 votes
-    *   0
-*   Retrieving old posts?
-    *   \[Resolved\] by kmgeekintraining
-    *   4 months ago
-    *   in Data Migration
-    *   0 votes
-    *   6 (last comment by JoLeE187 1 day ago)
-*   How do you use this
-    *   by phunkbunny04
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Is it possible to recover a deactivated/deleted site?
-    *   by rockmeamadeus2
-    *   1 day ago
-    *   in Miscellaenous
-    *   0 votes
-    *   0
-*   Please help
-    *   by justforu\_cyk
-    *   2 days ago
-    *   in Comments
-    *   0 votes
-    *   1 (last comment by justforu\_cyk 2 days ago)
-*   All my posts are missing, plz help
-    *   by love\_maxiao
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
+    *   1 (last comment by eugenia 11 hours ago)
 *   Premium member
     *   \[Resolved\] by SingingMom
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by SingingMom 2 days ago)
-*   Expired
-    *   by SingingMom
+    *   3 (last comment by eugenia 11 hours ago)
+*   All my posts are missing, plz help
+    *   \[Resolved\] by love\_maxiao
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 11 hours ago)
+*   Please help
+    *   \[Resolved\] by justforu\_cyk
+    *   3 days ago
+    *   in Comments
+    *   0 votes
+    *   2 (last comment by eugenia 11 hours ago)
+*   Is it possible to recover a deactivated/deleted site?
+    *   \[Resolved\] by rockmeamadeus2
+    *   2 days ago
+    *   in Miscellaenous
+    *   0 votes
+    *   1 (last comment by eugenia 11 hours ago)
+*   How do you use this
+    *   \[Resolved\] by phunkbunny04
     *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   Lost everything in xanga
-    *   by dewdel
-    *   2 days ago
-    *   in Themes
+    *   1 (last comment by eugenia 11 hours ago)
+*   Retrieving old posts?
+    *   \[Resolved\] \[closed\] by kmgeekintraining
+    *   4 months ago
+    *   in Data Migration
     *   0 votes
-    *   0
+    *   7 (last comment by eugenia 11 hours ago)
+*   Recovering old posts?
+    *   \[Resolved\] by JoLeE187
+    *   2 days ago
+    *   in Miscellaenous
+    *   0 votes
+    *   1 (last comment by eugenia 11 hours ago)
 
 1 2 3 ... 114 Next
 
