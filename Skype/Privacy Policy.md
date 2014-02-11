@@ -18,10 +18,11 @@ Please note that Skype is now a part of Microsoft.
 10.  Contacting You
 11.  How can you access and amend your personal data?
 12.  How long is your personal data kept by Skype?
-13.  Children
-14.  Mobile Notifications
-15.  Can this Privacy Policy be modified?
-16.  How can you contact Skype?  
+13.  Microsoft Account
+14.  Children
+15.  Mobile Notifications
+16.  Can this Privacy Policy be modified?
+17.  How can you contact Skype?  
     
 
 **1\. WHAT INFORMATION DOES SKYPE COLLECT AND USE?**
@@ -287,10 +288,9 @@ Microsoft account (formerly known as Windows Live ID and Microsoft Passport) is 
   
 If you have a Skype account, you may connect it to a Microsoft account in order to view your contacts and other information from both accounts in one place. If you choose to connect your Skype account to your Microsoft account, Outlook.com users who communicate with you or who add you to their contacts may be invited to connect with you on Skype.  
 
-To use the Skype app on a Windows 8 or Windows 8.1 device, you must first sign into Windows with a Microsoft account. After you have launched the app for the first time, you will be signed into the app whenever you are signed into Windows with your Microsoft account on that same device. For more information about Windows 8 and Windows 8.1 , please visit their privacy statements, located here and here, respectively.  
+To use the Skype app on a Windows 8 or Windows 8.1 device, you must first sign into Windows with a Microsoft account. After you have launched the app for the first time, you will be signed into the app whenever you are signed into Windows with your Microsoft account on that same device. For more information about Windows 8 and Windows 8.1, please visit their privacy statements, located here and here, respectively.  
   
-  
-To view additional details about Microsoft account, including how to create and use a Microsoft account, how to edit account information, and how we collect and use information relating to a Microsoft account, please visit the Microsoft account privacy statement
+To view additional details about Microsoft account, including how to create and use a Microsoft account, how to edit account information, and how we collect and use information relating to a Microsoft account, please visit the Microsoft account privacy statement.
 
 **14\. CHILDREN**
 
