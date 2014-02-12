@@ -108,7 +108,7 @@ During the Term, Cloudant shall, upon Subscriber’s request, provide Subscriber
 
 Customer Support
 
-Subscriber has the option, but not the obligation, to order one (1) of the two (2) following customer support plans ("Support Services"), which shall be billed as set forth in the applicable Order Form. Subscriber may elect to change such Support Services at any time during the Term of this Agreement. **Gold** . Twenty-four (24) hour, seven (7) days a week service and support, which includes: less than four (4) hour response to email tickets and access to support staff by IM, IRC, and phone. Gold plan also includes two (2) hours a month of Integration Consulting Services.
+Subscriber has the option, but not the obligation, to order one (1) of the two (2) following customer support plans ("Support Services"), which shall be billed as set forth in the applicable Order Form. Subscriber may elect to change such Support Services at any time during the Term of this Agreement. **Gold** . Twenty-four (24) hour, seven (7) days a week service and support, which includes: less than four (4) hour response to email tickets and access to support staff by IM, IRC, and phone.
 
 Confidential Information
 
