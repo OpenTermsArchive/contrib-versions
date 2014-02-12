@@ -1,4 +1,12 @@
-Battle.net Terms of Use Last Revised April 19, 2013
+Battle.net Terms of Use
+
+NOTICE:
+
+IMPORTANT! PLEASE READ CAREFULLY.  
+  
+THIS VERSION OF THE BATTLE.NET END USER LICENSE AGREEMENT WILL BECOME EFFECTIVE ON MARCH 18, 2014 G.M.T.
+
+Last Revised February 10, 2014
 
 YOU SHOULD CAREFULLY READ THE FOLLOWING TERMS OF USE AGREEMENT.
 
@@ -14,7 +22,7 @@ Thank you for using the Battle.net service (the “Service”). These Terms of U
     6.  host, provide or develop matchmaking services for any Game or the Service, or intercept, emulate or redirect the communication protocols used by Blizzard in any way, for any purpose, including without limitation unauthorized play over the Internet, network play, or as part of content aggregation networks;
     7.  facilitate, create or maintain any unauthorized connection to any Game or the Service, including without limitation (a) any connection to any unauthorized server that emulates, or attempts to emulate, the Service or any Game. or (b) any connection using programs or tools not expressly approved by Blizzard. or
     8.  disrupt or assist in the disruption of (i) any computer used to support the Service or any Game environment (each a “Server”). or (ii) any other player’s Game experience. ANY ATTEMPT BY YOU TO DISRUPT THE SERVICE OR UNDERMINE THE LEGITIMATE OPERATION OF ANY GAME MAY BE A VIOLATION OF CRIMINAL AND CIVIL LAWS.
-3.  REQUIREMENTS. Before you can use the Service, you must read, understand and agree to these TOU, the Privacy Policy, the In Game Policies, and register an account on the Service (an “Account”). If you want to play a Game on the Service, you must obtain a valid license to use the Game(s) you will use with the Service, agree to the applicable Game-specific Terms of Use and EULA for each of the Game(s) you will use with the Service, and read, understand and agree to the In Game Policies specific to that particular game, which can be found here. You are responsible for any Internet connection fees that you incur when accessing the Service.
+3.  REQUIREMENTS. Before you can use the Service, you must read, understand and agree to these TOU, the Privacy Policy, the In Game Policies, review Blizzard’s Battle.net Account Security information and register an account on the Service (an “Account”). If you want to play a Game on the Service, you must obtain a valid license to use the Game(s) you will use with the Service, agree to the applicable Game-specific Terms of Use and EULA for each of the Game(s) you will use with the Service, and read, understand and agree to the In Game Policies specific to that particular game, which can be found here. You are responsible for any Internet connection fees that you incur when accessing the Service.
 4.  USE OF THE SERVICE BY MINORS. Subject to the laws of your country of residence, minor children may utilize an Account established by their parent or legal guardian with the approval of their parent or legal guardian. In the event that you permit your minor child or legal ward (collectively, your “Child”) to use an Account on the Service, you hereby agree to these TOU on behalf of yourself and your Child, and you understand and agree that you will be responsible for all uses of the Account by your Child whether or not such uses were authorized by you, including without limitation, your Child’s acceptance of the EULA for Games that are playable on the Service, or any Game-specific Terms of Use.
 5.  ACCESSING THE SERVICE.
     1.  Account Eligibility. You may establish an Account only if: (i) You are a “natural person” and an adult in your country of residence (Corporations, Limited Liability Companies, partnerships and other legal or business entities may not establish an Account). and (ii) You are not an individual specifically prohibited by Blizzard from using the Service. By accepting this Agreement, you hereby represent and warrant that you meet these eligibility requirements. If at any time Blizzard becomes aware that you have registered an Account without meeting the foregoing requirements, Blizzard reserves the right to suspend, terminate and/or delete the Account.
