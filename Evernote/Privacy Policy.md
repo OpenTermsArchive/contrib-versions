@@ -1,6 +1,6 @@
 Privacy Policy
 
-**Effective Date: January 6, 2014** - What’s new »
+**Effective Date: February 12, 2014** - What’s new »
 
 Evernote values your privacy in your personal information and your Content that you store in our Service. This Privacy Policy explains what information Evernote Corporation and its affiliated companies (together, “Evernote” or “we” and sometimes “us”) collect about you and why, what we may do with that information and how we handle your Content.
 
@@ -28,13 +28,13 @@ Evernote’s web site and applications also collect and receive information from
 
 Gathering this kind of information helps us administer the Service and the Evernote Market, provide convenient and personalized user access, improve the features and usability of our products and Service, analyze user trends and information about users’ use of our Service (including the extent to which our users share or make public notes and notebooks), collect information about use and growth of the Service in specific regions, and evaluate the content and organization of our site.
 
-We do not collect information about you to deliver any targeted advertising to you, or track your visits to any third-party websites. However, when you use our Web Clipper or Clearly browser extensions to view and/or save content from third-party websites, we will keep a record of the source website for you. This source-recording functionality will not be affected by your browser’s do-not-track settings.
+When you use our Web Clipper or Clearly browser extensions to view and/or save content from third-party websites, we will keep a record of the source website for you. This source-recording functionality will not be affected by your browser’s do-not-track settings.
 
 In addition, we automatically gather non-personally identifiable information that indicates your association with one of our business partners or certain promotions. We use this information to determine the amount of revenue share payments to make to partners with whom we might have such arrangements and to provide anonymized aggregate reports.
 
 Tell Me More About The Tracking Information Evernote Collects?
 
-Evernote uses cookies and tracking pixels to collect information that helps us provide our Service to you. For more information about these uses and your options, please visit our Cookie Information Page.
+Evernote uses cookies and tracking pixels to collect information that helps us provide our Service to you. We also use these technologies to help deliver ads for relevant Evernote products and services to you when you visit certain pages on our site and then visit certain third-party sites. For more information about these uses and your options, please visit our Cookie Information Page.
 
 What Is Evernote’s Approach to Information Collected From Children?
 
@@ -58,6 +58,8 @@ Evernote is not in the business of selling or renting user information, and we o
 Some third-party applications and services that work with our Service may ask for permission to access your Content or other information about your account. Those applications will provide you with notice and request your consent in order to obtain such access or information. Please consider your selection of such applications and services, and your permissions, carefully. We encourage you to review each party’s privacy policy. To learn more about some of these applications and what data they may access, click herevisit the 3rd Party App Permissions page.
 
 Some third parties’ embedded content or plugins on the Service, such as Facebook “Like” buttons on evernote.com, may allow their operators to learn that you have visited our website, and they may combine this information with other, identifiable information they have collected about your visits to other websites or online services. For more information with additional examples, see the “Social Media Features” section of our Cookie Information Page.
+
+We do not share your information with third parties for the purpose of enabling them to deliver their advertisements to you.
 
 Does Evernote Review My Notes?
 
@@ -89,13 +91,15 @@ Users who wish to (i) access any Personal Information that we hold about you. (i
 
 How Secure Is My Data?
 
-Evernote is committed to protecting the security of your information and implements reasonable measures to do so.
+Evernote is committed to protecting the security of your information and takes reasonable precautions to protect it. However, Internet data transmissions, whether wired or wireless, cannot be guaranteed to be 100% secure, and as a result, we cannot ensure the security of information you transmit to us. accordingly, you acknowledge that you do so at your own risk.
 
 We use industry standard encryption to protect your data in transit. This is commonly referred to as transport layer security (“TLS”) or secure socket layer (“SSL”) technology.
 
 Once we receive your data, we protect it on our servers using a combination of administrative, physical and logical security safeguards. The security of the information stored locally in the Evernote Software installed on your computing device requires that you make use of the security features of your device. We recommend that you take the appropriate steps to secure all computing devices that you use with our applications and service.
 
 Evernote also provides users with the ability to encrypt segments of text within any given note. You can learn how to encrypt text by reviewing this Knowledge Base article. Please note, however, that Evernote does not have the ability to decrypt encrypted contents, so we won’t be able to help you recover encrypted contents if you forget the passphrase you used for encryption.
+
+If Evernote learns of a security system breach, we may attempt to notify you and provide information on protective steps, if available, through the email address that you have provided to us or by posting a notice on our web site. Depending on where you live, you may have a legal right to receive such notices in writing.
 
 IV. Information Deletion What Happens If I Want to Stop Using Evernote?
 
