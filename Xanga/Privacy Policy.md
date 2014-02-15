@@ -10,31 +10,43 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Download Archives
     *   \[Resolved\] by BlackDecal
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   8 (last comment by eugenia 8 hours ago)
+    *   9 (last comment by Shaunna88 2 hours ago)
+*   I just want my years of blogs back
+    *   by Shaunna88
+    *   3 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   how to find pics on old page
+    *   by shouka217
+    *   22 hours ago
+    *   in Pictures
+    *   0 votes
+    *   0
 *   My blog doesn’t appear
     *   by joey\_him
-    *   11 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I want to get back my old page
     *   by iamRebeccaL
-    *   22 hours ago
+    *   1 day ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Can not access account to renew
     *   by peloha
-    *   1 day ago
+    *   2 days ago
     *   in Personal URLs
     *   0 votes
     *   0
 *   Archives needed
     *   by Arby0370
-    *   1 day ago
+    *   2 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -43,61 +55,49 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by TeriyakiBoy87 1 day ago)
+    *   2 (last comment by TeriyakiBoy87 2 days ago)
 *   My blog doesn’t appear
     *   \[Resolved\] by creamy\_yin
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   Lost entries
     *   \[Resolved\] by HeidiCHIC
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by eugenia 1 day ago)
+    *   3 (last comment by eugenia 2 days ago)
 *   Haven't signed in in years and all old posts are gone
     *   \[Resolved\] by SoccerChick872
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   Pictures
     *   by Miss\_Spunky91
-    *   2 days ago
+    *   3 days ago
     *   in Pictures
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   How can I get my archives?
     *   \[Resolved\] by vantha
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   我想要返之前d日記...點搞???????有無人教我
     *   \[Resolved\] by ckmtwt
     *   5 months ago
     *   in Adding &. Editing Entries
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   How to get back my old posts?
     *   \[Resolved\] by mi\_mdh
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
-*   xanga account
-    *   \[Resolved\] by FoodIowa
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
-*   my archives
-    *   \[Resolved\] by Ravenseternalfire
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 
 1 2 3 ... 115 Next
 
