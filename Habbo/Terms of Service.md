@@ -178,7 +178,7 @@ We grant you a limited, non-exclusive, revocable, non-assignable, personal and n
 
 You agree that we may notify you via postings on the Service, and via e-mail or any other reasonable communications means to contact you based on the information you provided to us when creating your Account, with respect to changes to these Terms or any applicable Additional Terms. You agree to promptly notify us if you change your e-mail or mailing address by updating your Account settings.
 
-All notices given by you or required from you under these Terms, any applicable Additional Terms and/or the Service’s Privacy Policy shall be in writing and addressed to: Sulake Corporation Oy, Legal, Porkkalankatu 1, 00180 Helsinki, Finland. Any notices that you provide without compliance with this Section on Notices shall have no legal effect.
+All notices given by you or required from you under these Terms, any applicable Additional Terms and/or the Service’s Privacy Policy shall be in writing and addressed to: Sulake Corporation Oy, Legal, Kaarlenkatu 11, 00530 Helsinki, Finland. Any notices that you provide without compliance with this Section on Notices shall have no legal effect.
 
 If you have a question about the Service, you may contact our Customer Service. You acknowledge that the provision of customer support is at Sulake’s sole discretion and that we have no obligation to provide you with customer support of any kind.
 
