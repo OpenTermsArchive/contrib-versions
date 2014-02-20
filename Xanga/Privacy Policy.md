@@ -8,98 +8,98 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Archive
-    *   by plurrpoe
-    *   6 hours ago
-    *   in Miscellaenous
-    *   0 votes
-    *   0
-*   Expired
-    *   \[Resolved\] by SingingMom
-    *   1 week ago
+*   Archives not available. Are they gone? Can someone check?
+    *   \[Resolved\] by tamponsaremyfriend
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by SingingMom 7 hours ago)
-*   Lost everything in xanga
-    *   \[Resolved\] by dewdel
+    *   2 (last comment by Mutzie 24 minutes ago)
+*   how to find pics on old page
+    *   \[Resolved\] by shouka217
+    *   5 days ago
+    *   in Pictures
+    *   0 votes
+    *   1 (last comment by eugenia 2 hours ago)
+*   Archives needed
+    *   \[Resolved\] by Arby0370
     *   1 week ago
-    *   in Themes
+    *   in Passwords &. Sign-In
     *   0 votes
-    *   2 (last comment by dewdel 23 hours ago)
-*   Private Blog Access
-    *   \[Resolved\] by greedy\_business
-    *   2 months ago
-    *   in Data Migration
-    *   0 votes
-    *   5 (last comment by greedy\_business 1 day ago)
-*   xanga next and precious page problem
-    *   by pepperwuwu
-    *   1 day ago
+    *   1 (last comment by eugenia 2 hours ago)
+*   I want to get back my old page
+    *   \[Resolved\] by iamRebeccaL
+    *   6 days ago
     *   in Adding &. Editing Entries
     *   0 votes
-    *   0
+    *   1 (last comment by eugenia 2 hours ago)
+*   My blog doesn’t appear
+    *   \[Resolved\] by joey\_him
+    *   6 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 2 hours ago)
+*   I just want my years of blogs back
+    *   \[Resolved\] by Shaunna88
+    *   5 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 2 hours ago)
+*   Replying to comments
+    *   \[Resolved\] by peacenow
+    *   2 days ago
+    *   in Comments
+    *   0 votes
+    *   1 (last comment by eugenia 2 hours ago)
+*   my archives
+    *   \[Resolved\] by Ravenseternalfire
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by Ravenseternalfire 8 hours ago)
+*   old photos/blog archives/data migration
+    *   \[Resolved\] by lEv3rLasTingl
+    *   15 hours ago
+    *   in Pictures
+    *   0 votes
+    *   1 (last comment by eugenia 10 hours ago)
 *   Download Archives
     *   \[Resolved\] by BlackDecal
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   11 (last comment by itsnerdbehaviour 1 day ago)
-*   Xanga front page
-    *   by peacenow
+    *   13 (last comment by eugenia 10 hours ago)
+*   xanga next and precious page problem
+    *   \[Resolved\] by pepperwuwu
+    *   2 days ago
+    *   in Adding &. Editing Entries
+    *   0 votes
+    *   1 (last comment by eugenia 10 hours ago)
+*   Private Blog Access
+    *   \[Resolved\] by greedy\_business
+    *   2 months ago
+    *   in Data Migration
+    *   0 votes
+    *   6 (last comment by eugenia 10 hours ago)
+*   Expired
+    *   \[Resolved\] by SingingMom
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   3 (last comment by eugenia 10 hours ago)
+*   Archive
+    *   \[Resolved\] by plurrpoe
     *   1 day ago
     *   in Miscellaenous
     *   0 votes
-    *   0
-*   Replying to comments
-    *   by peacenow
-    *   1 day ago
-    *   in Comments
-    *   0 votes
-    *   0
-*   Archives not available. Are they gone? Can someone check?
-    *   by tamponsaremyfriend
-    *   3 days ago
+    *   1 (last comment by eugenia 10 hours ago)
+*   Old Xanga Archives
+    *   \[Resolved\] by ap\_R\_il
+    *   13 hours ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   I just want my years of blogs back
-    *   by Shaunna88
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   how to find pics on old page
-    *   by shouka217
-    *   4 days ago
-    *   in Pictures
-    *   0 votes
-    *   0
-*   My blog doesn’t appear
-    *   by joey\_him
-    *   5 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   I want to get back my old page
-    *   by iamRebeccaL
-    *   5 days ago
-    *   in Adding &. Editing Entries
-    *   0 votes
-    *   0
-*   Can not access account to renew
-    *   by peloha
-    *   6 days ago
-    *   in Personal URLs
-    *   0 votes
-    *   0
-*   Archives needed
-    *   by Arby0370
-    *   6 days ago
-    *   in Passwords &. Sign-In
-    *   0 votes
-    *   0
+    *   1 (last comment by eugenia 11 hours ago)
 
-1 2 3 ... 115 Next
+1 2 3 ... 116 Next
 
 Help Categories
 
