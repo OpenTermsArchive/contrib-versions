@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Archives not available. Are they gone? Can someone check?
-    *   \[Resolved\] by tamponsaremyfriend
-    *   4 days ago
+*   Old blogs, migration
+    *   by LostInPeoria
+    *   5 minutes ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by Mutzie 24 minutes ago)
+    *   0
+*   how to upgrade to xanga 2.0?
+    *   \[Resolved\] by diannahatesyou
+    *   3 months ago
+    *   in Getting Started
+    *   0 votes
+    *   2 (last comment by dandenpillar 3 hours ago)
+*   I want to check on my old blogs
+    *   by The40thPresident
+    *   4 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Archives
+    *   by TeriyakiBoy87
+    *   10 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   where can i find my post in the past?
+    *   \[Resolved\] by suzhen\_717
+    *   4 months ago
+    *   in Data Migration
+    *   0 votes
+    *   9 (last comment by X0x\_DaRkChiLd\_x0X6 23 hours ago)
+*   Archives not available. Are they gone? Can someone check?
+    *   \[Resolved\] by tamponsaremyfriend
+    *   5 days ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by Mutzie 1 day ago)
 *   how to find pics on old page
     *   \[Resolved\] by shouka217
-    *   5 days ago
+    *   6 days ago
     *   in Pictures
     *   0 votes
-    *   1 (last comment by eugenia 2 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   Archives needed
     *   \[Resolved\] by Arby0370
     *   1 week ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   1 (last comment by eugenia 2 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   I want to get back my old page
     *   \[Resolved\] by iamRebeccaL
-    *   6 days ago
+    *   1 week ago
     *   in Adding &. Editing Entries
     *   0 votes
-    *   1 (last comment by eugenia 2 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   My blog doesn’t appear
     *   \[Resolved\] by joey\_him
-    *   6 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 2 hours ago)
-*   I just want my years of blogs back
-    *   \[Resolved\] by Shaunna88
-    *   5 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 2 hours ago)
-*   Replying to comments
-    *   \[Resolved\] by peacenow
-    *   2 days ago
-    *   in Comments
-    *   0 votes
-    *   1 (last comment by eugenia 2 hours ago)
-*   my archives
-    *   \[Resolved\] by Ravenseternalfire
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by Ravenseternalfire 8 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
+*   I just want my years of blogs back
+    *   \[Resolved\] by Shaunna88
+    *   6 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 1 day ago)
+*   Replying to comments
+    *   \[Resolved\] by peacenow
+    *   3 days ago
+    *   in Comments
+    *   0 votes
+    *   1 (last comment by eugenia 1 day ago)
+*   my archives
+    *   \[Resolved\] by Ravenseternalfire
+    *   2 weeks ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by Ravenseternalfire 1 day ago)
 *   old photos/blog archives/data migration
     *   \[Resolved\] by lEv3rLasTingl
-    *   15 hours ago
+    *   1 day ago
     *   in Pictures
     *   0 votes
-    *   1 (last comment by eugenia 10 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   Download Archives
     *   \[Resolved\] by BlackDecal
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   13 (last comment by eugenia 10 hours ago)
-*   xanga next and precious page problem
-    *   \[Resolved\] by pepperwuwu
-    *   2 days ago
-    *   in Adding &. Editing Entries
-    *   0 votes
-    *   1 (last comment by eugenia 10 hours ago)
-*   Private Blog Access
-    *   \[Resolved\] by greedy\_business
-    *   2 months ago
-    *   in Data Migration
-    *   0 votes
-    *   6 (last comment by eugenia 10 hours ago)
-*   Expired
-    *   \[Resolved\] by SingingMom
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   3 (last comment by eugenia 10 hours ago)
-*   Archive
-    *   \[Resolved\] by plurrpoe
-    *   1 day ago
-    *   in Miscellaenous
-    *   0 votes
-    *   1 (last comment by eugenia 10 hours ago)
-*   Old Xanga Archives
-    *   \[Resolved\] by ap\_R\_il
-    *   13 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 11 hours ago)
+    *   13 (last comment by eugenia 1 day ago)
 
 1 2 3 ... 116 Next
 
