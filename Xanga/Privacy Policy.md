@@ -8,9 +8,57 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   HTML from blogs?
+    *   by x0xfreakishx0x
+    *   3 hours ago
+    *   in Pictures
+    *   0 votes
+    *   0
+*   Old Account Still Active
+    *   by pnai\_bheb
+    *   13 hours ago
+    *   in Usernames
+    *   0 votes
+    *   0
+*   where can i find my post in the past?
+    *   \[Resolved\] by suzhen\_717
+    *   4 months ago
+    *   in Data Migration
+    *   0 votes
+    *   14 (last comment by justja 21 hours ago)
+*   How do I retrieve my old posts.
+    *   by justja
+    *   21 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   My old posts.
+    *   by xo\_darkangel\_xo
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   My Blog does not appear
+    *   by JAnetnet\_be
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Expired
+    *   \[Resolved\] by SingingMom
+    *   2 weeks ago
+    *   in Data Migration
+    *   0 votes
+    *   5 (last comment by SingingMom 3 days ago)
+*   Xanga missing
+    *   by Ducky79
+    *   3 days ago
+    *   in Themes
+    *   0 votes
+    *   0
 *   Old blogs, migration
     *   by LostInPeoria
-    *   5 minutes ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,85 +67,37 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 months ago
     *   in Getting Started
     *   0 votes
-    *   2 (last comment by dandenpillar 3 hours ago)
+    *   2 (last comment by dandenpillar 4 days ago)
 *   I want to check on my old blogs
     *   by The40thPresident
-    *   4 hours ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Archives
     *   by TeriyakiBoy87
-    *   10 hours ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
-*   where can i find my post in the past?
-    *   \[Resolved\] by suzhen\_717
-    *   4 months ago
-    *   in Data Migration
-    *   0 votes
-    *   9 (last comment by X0x\_DaRkChiLd\_x0X6 23 hours ago)
 *   Archives not available. Are they gone? Can someone check?
     *   \[Resolved\] by tamponsaremyfriend
-    *   5 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by Mutzie 1 day ago)
+    *   2 (last comment by Mutzie 5 days ago)
 *   how to find pics on old page
     *   \[Resolved\] by shouka217
-    *   6 days ago
+    *   1 week ago
     *   in Pictures
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 5 days ago)
 *   Archives needed
     *   \[Resolved\] by Arby0370
     *   1 week ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   I want to get back my old page
-    *   \[Resolved\] by iamRebeccaL
-    *   1 week ago
-    *   in Adding &. Editing Entries
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   My blog doesn’t appear
-    *   \[Resolved\] by joey\_him
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   I just want my years of blogs back
-    *   \[Resolved\] by Shaunna88
-    *   6 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   Replying to comments
-    *   \[Resolved\] by peacenow
-    *   3 days ago
-    *   in Comments
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   my archives
-    *   \[Resolved\] by Ravenseternalfire
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by Ravenseternalfire 1 day ago)
-*   old photos/blog archives/data migration
-    *   \[Resolved\] by lEv3rLasTingl
-    *   1 day ago
-    *   in Pictures
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   Download Archives
-    *   \[Resolved\] by BlackDecal
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   13 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 5 days ago)
 
 1 2 3 ... 116 Next
 
