@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   HTML from blogs?
-    *   by x0xfreakishx0x
+*   Blogs 2
+    *   by XxCaRriSsA\_bRoOkExX
     *   3 hours ago
-    *   in Pictures
+    *   in Adding &. Editing Entries
     *   0 votes
     *   0
-*   Old Account Still Active
-    *   by pnai\_bheb
-    *   13 hours ago
-    *   in Usernames
+*   Blog
+    *   by XxCaRriSsA\_bRoOkExX
+    *   3 hours ago
+    *   in Adding &. Editing Entries
     *   0 votes
     *   0
-*   where can i find my post in the past?
-    *   \[Resolved\] by suzhen\_717
-    *   4 months ago
+*   Can not access account to renew
+    *   \[Resolved\] by peloha
+    *   1 week ago
+    *   in Personal URLs
+    *   0 votes
+    *   1 (last comment by eugenia 7 hours ago)
+*   Old blogs, migration
+    *   \[Resolved\] by LostInPeoria
+    *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   14 (last comment by justja 21 hours ago)
-*   How do I retrieve my old posts.
-    *   by justja
-    *   21 hours ago
+    *   1 (last comment by eugenia 7 hours ago)
+*   Archives
+    *   \[Resolved\] by TeriyakiBoy87
+    *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   My old posts.
-    *   by xo\_darkangel\_xo
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   My Blog does not appear
-    *   by JAnetnet\_be
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
+    *   1 (last comment by eugenia 7 hours ago)
 *   Expired
     *   \[Resolved\] by SingingMom
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   5 (last comment by SingingMom 3 days ago)
-*   Xanga missing
-    *   by Ducky79
-    *   3 days ago
-    *   in Themes
-    *   0 votes
-    *   0
-*   Old blogs, migration
-    *   by LostInPeoria
-    *   4 days ago
+    *   6 (last comment by eugenia 7 hours ago)
+*   I want to check on my old blogs
+    *   \[Resolved\] by The40thPresident
+    *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   0
+    *   1 (last comment by eugenia 7 hours ago)
 *   how to upgrade to xanga 2.0?
     *   \[Resolved\] by diannahatesyou
-    *   3 months ago
+    *   4 months ago
     *   in Getting Started
     *   0 votes
-    *   2 (last comment by dandenpillar 4 days ago)
-*   I want to check on my old blogs
-    *   by The40thPresident
+    *   3 (last comment by eugenia 7 hours ago)
+*   Xanga missing
+    *   \[Resolved\] by Ducky79
     *   4 days ago
+    *   in Themes
+    *   0 votes
+    *   1 (last comment by eugenia 7 hours ago)
+*   My Blog does not appear
+    *   \[Resolved\] by JAnetnet\_be
+    *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   Archives
-    *   by TeriyakiBoy87
-    *   4 days ago
+    *   1 (last comment by eugenia 7 hours ago)
+*   My old posts.
+    *   \[Resolved\] by xo\_darkangel\_xo
+    *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   Archives not available. Are they gone? Can someone check?
-    *   \[Resolved\] by tamponsaremyfriend
-    *   1 week ago
+    *   1 (last comment by eugenia 7 hours ago)
+*   How do I retrieve my old posts.
+    *   \[Resolved\] by justja
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by Mutzie 5 days ago)
-*   how to find pics on old page
-    *   \[Resolved\] by shouka217
-    *   1 week ago
+    *   1 (last comment by eugenia 7 hours ago)
+*   where can i find my post in the past?
+    *   \[Resolved\] \[closed\] by suzhen\_717
+    *   4 months ago
+    *   in Data Migration
+    *   0 votes
+    *   15 (last comment by eugenia 7 hours ago)
+*   Old Account Still Active
+    *   \[Resolved\] by pnai\_bheb
+    *   1 day ago
+    *   in Usernames
+    *   0 votes
+    *   1 (last comment by eugenia 7 hours ago)
+*   HTML from blogs?
+    *   \[Resolved\] by x0xfreakishx0x
+    *   1 day ago
     *   in Pictures
     *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
-*   Archives needed
-    *   \[Resolved\] by Arby0370
-    *   1 week ago
-    *   in Passwords &. Sign-In
-    *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   1 (last comment by eugenia 7 hours ago)
 
 1 2 3 ... 116 Next
 
