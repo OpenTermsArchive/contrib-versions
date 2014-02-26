@@ -1,6 +1,6 @@
 Privacy policy
 
-Last update: March 8, 2011
+Last update: Jan 7, 2014
 
 eBuddy takes your privacy very seriously. Therefore, we have established and implemented this Privacy Policy in which we describe what information we collect and how we use it. We recommend that you read this Privacy Policy carefully to make an informed decision about whether you want to use or continue using eBuddy Sites, eBuddy Applications (“apps”), and/or eBuddy Services.
 
@@ -75,7 +75,7 @@ Use of collected information by eBuddy
 
 As a general matter, we use the information we collect, to provide the Service to you. We will also try to enhance and personalize your use of the eBuddy Services based on this information. eBuddy may offer you targeted advertisements based on for example your age, gender and type of device.
 
-In addition, eBuddy wants to keep you informed of developments of the eBuddy service and of any promotional actions by eBuddy. We may ask you to participate in surveys in order to help us enhance the Service. If you do not want to receive this kind of messages about the Service, you can unsubscribe via this Internet address: http://www.ebuddy.com/unsubscribe.html.
+In addition, eBuddy wants to keep you informed of developments of the eBuddy service and of any promotional actions by eBuddy. We may ask you to participate in surveys in order to help us enhance the Service.
 
 eBuddy uses the information it collects for statistical purposes and for reporting. This allows usfor example to monitor performance and detect technical problems. All analysis is done in an anonymous, aggregate manner, such that no part of the data can be traced back to individual users.
 
@@ -114,15 +114,15 @@ eBuddy will take reasonable technical and organizational measures to protect the
 
 6\. Sale, merger or bankruptcy of the company
 
-In the event of a further growth and development of eBuddy it may be that one or more parts of the assets of the company are transferred to a third party or that eBuddy merges with a third party. Also, in the unlikely event of a bankruptcy, insolvency or reorganization, parts of the company may be transferred to a third party. In those cases, the information we have collectedmay also be transferred. In such an event, we make every effort to ensure that the entity that gains control over the information will commit to at least the same level of protection as described in this Privacy Policy.
+In the event of a further growth and development of eBuddy it may be that one or more parts of the assets of the company are transferred to a third party or that eBuddy merges with a third party. Also, in the unlikely event of a bankruptcy, insolvency or reorganization, parts of the company may be transferred to a third party. In those cases, the information we have collected may also be transferred. In such an event, we make every effort to ensure that the entity that gains control over the information will commit to at least the same level of protection as described in this Privacy Policy.
 
-7\. Transfer to countries outside the eu
+7\. Transfer to countries outside the EU
 
 It may be required for technical and operational reasons that the information we collect, including your (personal) details are transferred to servers in the United States or other countries outside the European Union where the regulations in the field of privacy protection might not provide the same protection as in the European Union. By using the Service you are giving your consent to this, in so far as your consent is necessary. Notwithstanding the above, eBuddy will use reasonable endeavors to ensure that the necessary measures and relevant controls are in place in order to protect the confidentiality and security of the information we collect, including your (personal) data.
 
 8\. Viewing, changing or removing your personal information
 
-You can always request to view thepersonal informationwe have collected from you and if necessary change them. If you want to know which details eBuddy has recorded about you or if you want to change details which you cannot change in your account, you can contact our customer service via privacy@ebuddy.com. You can also request us to remove your personal details from our servers. Please note that we may be required by law to store the information we collect, even after you have terminated your use of the eBuddy Services.
+You can always request to view the personal information we have collected from you and if necessary change them. If you want to know which details eBuddy has recorded about you or if you want to change details which you cannot change in your account, you can contact our customer service via Support-xms@ebuddy.com. You can also request us to remove your personal details from our servers. Please note that we may be required by law to store the information we collect, even after you have terminated your use of the eBuddy Services.
 
 For technical reasons, it may be impossible for us to determine whether you have stopped using the eBuddy Services. For the mobile applications, it may also be impossible for eBuddy to determine whether you have deleted the application. In such cases, we reserve the right to remove your account and the information you have provided us if you have not used the Service for an extended period of time.
 
@@ -132,11 +132,11 @@ You may arrive at the eBuddy Services from another website. The eBuddy Services 
 
 10\. Changes to the privacy policy
 
-This Privacy Policywill be periodically revised and may be changed with or without notice. The updated Privacy Policy will be posted on the eBuddy Websites. By using or continuing to use the Service you agree to review the Privacy Policy periodically such that you are aware of any modifications. If you do not agree to the Terms of Use or this Privacy Policy, you should not use any of the eBuddy Services.
+This Privacy Policy will be periodically revised and may be changed with or without notice. The updated Privacy Policy will be posted on the eBuddy Websites. By using or continuing to use the Service you agree to review the Privacy Policy periodically such that you are aware of any modifications. If you do not agree to the Terms of Use or this Privacy Policy, you should not use any of the eBuddy Services.
 
 11\. Questions about the privacy policy
 
-If you have any questions about this Privacy Policy, please send an e-mail to privacy@ebuddy.com.
+If you have any questions about this Privacy Policy, please send an e-mail to Support-xms@ebuddy.com.
 
 12\. Applicable law
 
