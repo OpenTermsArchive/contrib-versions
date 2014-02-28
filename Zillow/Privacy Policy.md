@@ -26,6 +26,8 @@ Skip to contentZillow Real Estate &amp. Homes for Sale
     *   Houses For Rent
     *   Rental IQ Quiz
     
+    Renter Resources
+    
     Post a Rental For Free
     
 *   Mortgage Rates
