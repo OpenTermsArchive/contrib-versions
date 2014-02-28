@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Cannot migrate out ...
+    *   by journeytomia
+    *   2 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by journeytomia 48 minutes ago)
+*   Sufficient Permissions
+    *   \[Resolved\] by TeriyakiBoy87
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   3 (last comment by journeytomia 2 hours ago)
 *   Expiring Accounts
-    *   by SoullFire
-    *   1 hour ago
+    *   \[Resolved\] by SoullFire
+    *   1 day ago
     *   in Miscellaenous
     *   0 votes
-    *   0
-*   My data
-    *   by XxCaRriSsA\_bRoOkExX
-    *   4 hours ago
+    *   1 (last comment by eugenia 10 hours ago)
+*   Blogs 2
+    *   \[Resolved\] by XxCaRriSsA\_bRoOkExX
+    *   2 days ago
+    *   in Adding &. Editing Entries
+    *   0 votes
+    *   1 (last comment by eugenia 10 hours ago)
+*   Not sure...
+    *   \[Resolved\] by xXcutieChinkbebeXx
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   Sufficient Permissions
-    *   by TeriyakiBoy87
-    *   11 hours ago
+    *   1 (last comment by eugenia 10 hours ago)
+*   Old posts were disorder and shown as messy code
+    *   \[Resolved\] by Doramomo
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   Archives
-    *   \[Resolved\] by TeriyakiBoy87
-    *   6 days ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by TeriyakiBoy87 11 hours ago)
+    *   1 (last comment by eugenia 10 hours ago)
 *   I cannot find my xanga
-    *   by cherish\_1213
-    *   14 hours ago
+    *   \[Resolved\] by cherish\_1213
+    *   1 day ago
     *   in Premium
     *   0 votes
-    *   0
-*   Old posts were disorder and shown as messy code
-    *   by Doramomo
-    *   20 hours ago
+    *   1 (last comment by eugenia 10 hours ago)
+*   My data
+    *   \[Resolved\] by XxCaRriSsA\_bRoOkExX
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   Not sure...
-    *   by xXcutieChinkbebeXx
-    *   22 hours ago
+    *   1 (last comment by eugenia 10 hours ago)
+*   I want to read my old xanga blog
+    *   \[Resolved\] by ka\_ki907
+    *   19 hours ago
+    *   in Personal URLs
+    *   0 votes
+    *   1 (last comment by eugenia 10 hours ago)
+*   Archives
+    *   \[Resolved\] by TeriyakiBoy87
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   Blogs 2
-    *   by XxCaRriSsA\_bRoOkExX
-    *   1 day ago
-    *   in Adding &. Editing Entries
-    *   0 votes
-    *   0
-*   Blog
-    *   by XxCaRriSsA\_bRoOkExX
-    *   1 day ago
-    *   in Adding &. Editing Entries
-    *   0 votes
-    *   0
+    *   2 (last comment by TeriyakiBoy87 1 day ago)
 *   Can not access account to renew
     *   \[Resolved\] by peloha
     *   2 weeks ago
     *   in Personal URLs
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   Old blogs, migration
     *   \[Resolved\] by LostInPeoria
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   Expired
     *   \[Resolved\] by SingingMom
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   6 (last comment by eugenia 1 day ago)
+    *   6 (last comment by eugenia 2 days ago)
 *   I want to check on my old blogs
     *   \[Resolved\] by The40thPresident
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   how to upgrade to xanga 2.0?
     *   \[Resolved\] by diannahatesyou
     *   4 months ago
     *   in Getting Started
     *   0 votes
-    *   3 (last comment by eugenia 1 day ago)
-*   Xanga missing
-    *   \[Resolved\] by Ducky79
-    *   5 days ago
-    *   in Themes
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   3 (last comment by eugenia 2 days ago)
 
 1 2 3 ... 117 Next
 
