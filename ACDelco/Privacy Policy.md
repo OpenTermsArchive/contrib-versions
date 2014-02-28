@@ -214,7 +214,7 @@ A: No, many GM vehicles contain sensing and transmitting devices using the same 
     *   Future Vehicles
     *   Current Offers
     *   Dealer Locator
-    *   Owner Advantages
+    *   Owner Assistance
 *   Innovation
     *   Design &. Technology
     *   Environment
