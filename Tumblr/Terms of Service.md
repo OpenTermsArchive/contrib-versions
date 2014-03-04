@@ -218,9 +218,9 @@ New York, NY 10010
 
 You can find disclosures related to our use of open source software packages at the following locations:
 
-*   http://www.tumblr.com/policy/en/ios\_credits
-*   http://www.tumblr.com/policy/en/android\_credits
-*   http://www.tumblr.com/policy/en/web\_credits
+*   http://www.tumblr.com/policy/en/ios-credits
+*   http://www.tumblr.com/policy/en/android-credits
+*   http://www.tumblr.com/policy/en/web-credits
 
 Link to Prior Versions
 
