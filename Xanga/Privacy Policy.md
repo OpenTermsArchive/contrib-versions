@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   How do I delete my account
+    *   by Theone108
+    *   1 hour ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   How long to activate new subscription
+    *   by journeytorileyandleah
+    *   7 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Archives
+    *   \[Resolved\] by smithie04
+    *   3 weeks ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by smithie04 18 hours ago)
+*   Seeing old subcriptions
+    *   by the\_last\_great\_guy
+    *   23 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   I'd like my old entries back
     *   by thumbtackthief
-    *   1 hour ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Cannot migrate out ...
     *   by journeytomia
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by journeytorileyandleah 8 hours ago)
+    *   2 (last comment by journeytorileyandleah 1 day ago)
 *   How do i retrieve my old blog posts??
     *   by nolimitsnoregrets
-    *   9 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Xanga isn't archived
     *   by tornlight
-    *   21 hours ago
+    *   1 day ago
     *   in Themes
     *   0 votes
     *   0
 *   Will we be notified?
     *   by DarkCelestialDragon
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by justja 1 day ago)
+    *   1 (last comment by justja 2 days ago)
 *   How do I retrieve my old posts.
     *   \[Resolved\] by justja
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by justja 1 day ago)
+    *   2 (last comment by justja 2 days ago)
 *   Eugenia, recover my old blogs please
     *   by justja
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I just want to see my old blog entries
     *   by nolimitsnoregrets
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   My Xanga is missing.
     *   by alwaysamy
-    *   1 day ago
+    *   2 days ago
     *   in Themes
     *   0 votes
     *   0
 *   I can't log in to my old blog
     *   \[Resolved\] by sayimpretty
-    *   5 days ago
+    *   6 days ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   2 (last comment by sayimpretty 1 day ago)
+    *   2 (last comment by sayimpretty 2 days ago)
 *   Sufficient Permissions
     *   \[Resolved\] by TeriyakiBoy87
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   3 (last comment by journeytomia 3 days ago)
-*   Expiring Accounts
-    *   \[Resolved\] by SoullFire
-    *   4 days ago
-    *   in Miscellaenous
-    *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
-*   Blogs 2
-    *   \[Resolved\] by XxCaRriSsA\_bRoOkExX
     *   5 days ago
-    *   in Adding &. Editing Entries
-    *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
-*   Not sure...
-    *   \[Resolved\] by xXcutieChinkbebeXx
-    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
-*   Old posts were disorder and shown as messy code
-    *   \[Resolved\] by Doramomo
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   3 (last comment by journeytomia 4 days ago)
 
 1 2 3 ... 117 Next
 
