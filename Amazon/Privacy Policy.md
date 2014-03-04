@@ -1,6 +1,6 @@
 Amazon.com Privacy Notice
 
-**Last updated: April 6, 2012.** To see what has changed, click here.
+**Last updated: March 3, 2014.** To see what has changed, click here.
 
 Amazon.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting Amazon.com, you are accepting the practices described in this Privacy Notice.**
 
@@ -70,7 +70,11 @@ Amazon.com does not sell products for purchase by children. We sell children's p
 
 Does Amazon.com Participate in the Safe Harbor Program?
 
-Amazon.com is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and (1) the European Union and (2) Switzerland, respectively. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and (1) the E.U. and (2) Switzerland, respectively. For more information about the Safe Harbor and to view our certification, visit the U.S. Department of Commerce's Safe Harbor Web site. If you would like to contact Amazon.com directly about the Safe Harbor program, please send an e-mail to safeharbor@amazon.com.
+Amazon.com is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and (1) the European Union and (2) Switzerland, respectively. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and (1) the E.U. and (2) Switzerland, respectively. For more information about the Safe Harbor and to view our certification, visit the U.S. Department of Commerce's Safe Harbor Web site.
+
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, we endeavor to resolve all complaints about privacy and the collection or use of customer information. If you have questions about our participation in the Safe Harbor program or have a complaint, please send an e-mail to safeharbor@amazon.com.
+
+Under the Safe Harbor program, any unresolved privacy complaints can be referred to an independent dispute resolution mechanism. We use the BBB EU Safe Harbor Program, which is operated by the Council of Better Business Bureaus. If you feel that we have not satisfactorily addressed your complaint, you can visit the BBB EU Safe Harbor Program web site at www.bbb.org/us/safe-harbor-complaints for more information on how to file a complaint.
 
 Conditions of Use, Notices, and Revisions
 
@@ -89,7 +93,7 @@ Examples of Information Collected
 
 **Information You Give Us**
 
-You provide most such information when you search, buy, post, participate in a contest or questionnaire, or communicate with customer service. For example, you provide information when you search for a product. place an order through Amazon.com or one of our third-party sellers. provide information in Your Account (and you might have more than one if you have used more than one e-mail address when shopping with us) or Your Profile. communicate with us by phone, e-mail, or otherwise. complete a questionnaire or a contest entry form. use our services such as Amazon Instant Video. compile Wish Lists or other gift registries. participate in Discussion Boards or other community features. provide and rate Reviews. specify a Special Occasion Reminder. and employ Product Availability Alerts, such as Available to Order Notifications. As a result of those actions, you might supply us with such information as your name, address, and phone numbers. credit card information. people to whom purchases have been shipped, including addresses and phone number. people (with addresses and phone numbers) listed in 1-Click settings. e-mail addresses of your friends and other people. content of reviews and e-mails to us. personal description and photograph in Your Profile. and financial information, including Social Security and driver's license numbers.
+You provide most such information when you search, buy, post, participate in a contest or questionnaire, or communicate with customer service. For example, you provide information when you search for a product. place an order through Amazon.com or one of our third-party sellers. provide information in Your Account (and you might have more than one if you have used more than one e-mail address when shopping with us) or Your Profile. communicate with us by phone, e-mail, or otherwise. complete a questionnaire or a contest entry form. use our services such as Amazon Instant Video. compile Wish Lists or other gift registries. participate in Discussion Boards or other community features. provide and rate Reviews. and employ Product Availability Alerts, such as Available to Order Notifications. As a result of those actions, you might supply us with such information as your name, address, and phone numbers. credit card information. people to whom purchases have been shipped, including addresses and phone number. people (with addresses and phone numbers) listed in 1-Click settings. e-mail addresses of your friends and other people. content of reviews and e-mails to us. personal description and photograph in Your Profile. and financial information, including Social Security and driver's license numbers.
 
 **Automatic Information**
 
@@ -105,8 +109,8 @@ Examples of information we receive from other sources include updated delivery a
 
 **Co-branded and Joint Offerings**
 
-Examples of businesses with which we offer joint or co-branded products and other offerings include Starbucks, OfficeMax, American Apparel, Verizon Wireless, Sprint, T-Mobile, AT&T, J&R Electronics, PacSun, Eddie Bauer and Northern Tool + Equipment.
+Examples of businesses with which we offer joint or co-branded products and other offerings include Starbucks, OfficeMax, Verizon Wireless, Sprint, T-Mobile, AT&T, J&R Electronics, Eddie Bauer and Northern Tool + Equipment.
 
 **Information You Can Access**
 
-Examples of information you can access easily at Amazon.com include up-to-date information regarding recent orders. personally identifiable information (including name, e-mail, password, communications and personalized advertising preferences, address book, and 1-Click settings). payment settings (including credit card information and promotional certificate and gift card balances). e-mail notification settings (including Product Availability Alerts, Delivers, Special Occasion Reminders, and newsletters). Recommendations (including Recommended for You and Improve Your Recommendations). shopping lists and gift registries (including Wish Lists and Baby and Wedding Registries). Seller accounts. and Your Profile (including your product Reviews, Recommendations, Listmania lists, Reminders, personal profile, and Wish List).
+Examples of information you can access easily at Amazon.com include up-to-date information regarding recent orders. personally identifiable information (including name, e-mail, password, communications and personalized advertising preferences, address book, and 1-Click settings). payment settings (including credit card information and promotional certificate and gift card balances). e-mail notification settings (including Product Availability Alerts, Delivers, and newsletters). Recommendations (including Recommended for You and Improve Your Recommendations). shopping lists and gift registries (including Wish Lists and Baby and Wedding Registries). Seller accounts. and Your Profile (including your product Reviews, Recommendations, Listmania lists, Reminders, personal profile, and Wish List).
