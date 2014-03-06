@@ -117,4 +117,6 @@ Privacy policy update: 1/1/14
 *   Privacy Information
 *   State Directory
 
-Copyright © 2001-2014 Aetna Inc. Feedback
+Copyright © 2001-\[current-year\] Aetna Inc. Feedback You are now leaving the Aetna website. Continue >.
+
+Links to various non-Aetna sites are provided for your convenience only. Aetna Inc. and its subsidiary companies are not responsible or liable for the content, accuracy, or privacy practices of linked sites, or for products or services described on these sites.
