@@ -30,7 +30,8 @@ If you are a United States user, the mandatory arbitration provisions in the Ter
 
 Copyright © 2012 Spotify AB. All rights reserved.
 
-Spotify USA Inc., 45 W. 18th Street,  
+Spotify USA Inc.,  
+45 W. 18th Street,  
 7th Floor  
 New York, NY 10011  
 USA
