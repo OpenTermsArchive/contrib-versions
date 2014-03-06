@@ -1,6 +1,6 @@
 Spotify Terms and Conditions of Use
 
-Effective as from 20 June 2013
+Effective as from 5 March 2014
 
 1.  Introductions
 2.  Changes to the Agreements
@@ -32,7 +32,7 @@ Hello, and welcome to our Terms and Conditions of Use. This is important and aff
 
 Thanks for choosing Spotify **(“Spotify”, “we”, “us”, “our”).** By using the Spotify service, websites, or software applications (together, the “Spotify Service” or “Service”), including by purchasing or receiving Codes or Limited Offers, you are entering into a binding contract with our local company in your country of residence (your “Local Country”) if applicable or the company listed in this chart. Your agreement with us includes these Terms and Conditions of Use (**“Terms”**) and our Privacy Policy (together with the Mobile Terms where applicable, the **“Agreements”**). If you don’t agree with these Terms, then please don’t use the Service.
 
-We’re pleased to make our Service available to you. The Spotify Service includes social and interactive features. Learn more about the Spotify Service here.
+We’re pleased to make our Service available to you. The Spotify Service includes social and interactive features.
 
 In order to use the Spotify Service, you need to (a) be 18 or older, or be 13 or older and have your parent or guardian’s consent to these Terms, (b) have the power to enter a binding contract with us and are not barred from doing so under any applicable laws, and (c) be resident in the Local Country. You also warrant that any registration information that you submit to Spotify is true, accurate and complete, and you agree to keep it that way at all times.
 
@@ -147,7 +147,7 @@ Spotify may change the price for the Paid Subscriptions from time to time, and w
 
 14\. Term and termination
 
-These Terms will continue to apply to you until terminated by either you or Spotify. Spotify may terminate the Terms or suspend your access to the Spotify Service at any time, including in the event of your actual or suspected unauthorised use of the Spotify Service or non-compliance with the Terms. If you or Spotify terminate the Terms, or if Spotify suspends your access to the Spotify Service, you agree that Spotify shall have no liability or responsibility to you and Spotify will not refund any amounts that you have already paid, to the fullest extent permitted under applicable law. To learn how to terminate your Spotify account, please go here.
+These Terms will continue to apply to you until terminated by either you or Spotify. Spotify may terminate the Terms or suspend your access to the Spotify Service at any time, including in the event of your actual or suspected unauthorised use of the Spotify Service or non-compliance with the Terms. If you or Spotify terminate the Terms, or if Spotify suspends your access to the Spotify Service, you agree that Spotify shall have no liability or responsibility to you and Spotify will not refund any amounts that you have already paid, to the fullest extent permitted under applicable law. To learn how to terminate your Spotify account, please contact us through the Customer Service contact form.
 
 15\. Warranty
 
@@ -196,7 +196,8 @@ Thank you for reading our Terms. We hope you enjoy Spotify.
 
 Copyright © 2012 Spotify AB. All rights reserved.
 
-Spotify USA Inc., 45 W. 18th Street,  
+Spotify USA Inc.,  
+45 W. 18th Street,  
 7th Floor  
 New York, NY 10011  
 USA
