@@ -1,4 +1,4 @@
-Terms of Service The gist:
+Terms of Service The gist:
 
 We (the folks at Automattic) run a blog and web site hosting service called WordPress.com and would **love** for you to use it. Our basic service is free, and we offer paid upgrades for advanced features such as domain hosting and extra storage. Our service is designed to give you as much control and ownership over what goes on your site as possible and encourage you to express yourself freely. However, be responsible in what you publish. In particular, make sure that none of the prohibited items listed below appear on your site or get linked to from your site (things like spam, viruses, or hate content).
 
