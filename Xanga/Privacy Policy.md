@@ -8,9 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   i cannot see my blog
+    *   by x\_\_\_\_UNCONDiTiONALxL0V3
+    *   2 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Old post
+    *   \[Resolved\] by jen\_mui
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by jen\_mui 13 hours ago)
 *   blog revival
     *   by aka27
-    *   58 minutes ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,34 +31,34 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 months ago
     *   in Pictures
     *   0 votes
-    *   6 (last comment by Superbuds 6 hours ago)
+    *   6 (last comment by Superbuds 1 day ago)
 *   Viewing archive without Wordpress?
     *   by Amala\_of\_the\_Visigoth
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   URGENT: I can't access my old blog!
     *   by sayimpretty
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   LINK DOESN'T WORK
     *   by cary\_yu
-    *   1 day ago
+    *   2 days ago
     *   in Themes
     *   0 votes
     *   0
 *   browser for archives?
     *   \[Resolved\] by TeriyakiBoy87
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by TeriyakiBoy87 1 day ago)
+    *   4 (last comment by TeriyakiBoy87 2 days ago)
 *   Albums
     *   by TheKoehlers
-    *   1 day ago
+    *   2 days ago
     *   in Pictures
     *   0 votes
     *   0
@@ -55,49 +67,37 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 months ago
     *   in Data Migration
     *   0 votes
-    *   6 (last comment by eugenia 1 day ago)
+    *   6 (last comment by eugenia 2 days ago)
 *   I cant find my account
     *   \[Resolved\] by smily31
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   archive
     *   \[Resolved\] by jenniepuh
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   Expired
     *   \[Resolved\] by SingingMom
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   8 (last comment by eugenia 1 day ago)
-*   Old post
-    *   \[Resolved\] by jen\_mui
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   8 (last comment by eugenia 2 days ago)
 *   Lost my blog
     *   \[Resolved\] \[closed\] by EclipxeNightx3
     *   6 months ago
     *   in Themes
     *   0 votes
-    *   13 (last comment by eugenia 1 day ago)
+    *   13 (last comment by eugenia 2 days ago)
 *   how can i get back my old post?
     *   \[Resolved\] by yanyan\_bibi
-    *   1 day ago
+    *   2 days ago
     *   in Getting Started
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   Sufficient Permissions
-    *   \[Resolved\] by TeriyakiBoy87
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   5 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 
 1 2 3 ... 118 Next
 
