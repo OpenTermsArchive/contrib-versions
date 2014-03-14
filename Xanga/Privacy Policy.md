@@ -10,43 +10,49 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   i cannot see my blog
     *   by x\_\_\_\_UNCONDiTiONALxL0V3
-    *   2 hours ago
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by Ka\_08 12 hours ago)
+*   why i cant delete my account on The Account Management
+    *   by sum920
+    *   18 hours ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old post
     *   \[Resolved\] by jen\_mui
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by jen\_mui 13 hours ago)
+    *   2 (last comment by jen\_mui 1 day ago)
 *   blog revival
     *   by aka27
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Some pictures lost after 2.0 Migration.
     *   by SusanPienHsu
-    *   5 months ago
+    *   6 months ago
     *   in Pictures
     *   0 votes
-    *   6 (last comment by Superbuds 1 day ago)
+    *   6 (last comment by Superbuds 2 days ago)
 *   Viewing archive without Wordpress?
     *   by Amala\_of\_the\_Visigoth
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   URGENT: I can't access my old blog!
     *   by sayimpretty
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   LINK DOESN'T WORK
     *   by cary\_yu
-    *   2 days ago
+    *   3 days ago
     *   in Themes
     *   0 votes
     *   0
@@ -55,10 +61,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by TeriyakiBoy87 2 days ago)
+    *   4 (last comment by TeriyakiBoy87 3 days ago)
 *   Albums
     *   by TheKoehlers
-    *   2 days ago
+    *   3 days ago
     *   in Pictures
     *   0 votes
     *   0
@@ -67,37 +73,31 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 months ago
     *   in Data Migration
     *   0 votes
-    *   6 (last comment by eugenia 2 days ago)
+    *   6 (last comment by eugenia 3 days ago)
 *   I cant find my account
     *   \[Resolved\] by smily31
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   archive
     *   \[Resolved\] by jenniepuh
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Expired
     *   \[Resolved\] by SingingMom
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   8 (last comment by eugenia 2 days ago)
+    *   8 (last comment by eugenia 3 days ago)
 *   Lost my blog
     *   \[Resolved\] \[closed\] by EclipxeNightx3
     *   6 months ago
     *   in Themes
     *   0 votes
-    *   13 (last comment by eugenia 2 days ago)
-*   how can i get back my old post?
-    *   \[Resolved\] by yanyan\_bibi
-    *   2 days ago
-    *   in Getting Started
-    *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   13 (last comment by eugenia 3 days ago)
 
 1 2 3 ... 118 Next
 
