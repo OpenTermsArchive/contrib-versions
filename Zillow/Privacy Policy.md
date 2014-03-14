@@ -4,7 +4,6 @@ Skip to contentZillow Real Estate &amp. Homes for Sale
     
     *   Homes For Sale
     *   Homes For Sale By Owner
-    *   Houses for sale
     *   Foreclosures
     *   Open Houses
     *   New Homes
@@ -134,11 +133,11 @@ Skip to contentZillow Real Estate &amp. Homes for Sale
     
     Zillow Engineering
     
-
-*   Sign InorJoin
 *   For Pros
     *   Agents
     *   Rental Pro
+
+*   Sign InorJoin
 
 Find home values and listings Location: Search
 
