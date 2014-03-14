@@ -1,16 +1,16 @@
 iCLOUD TERMS AND CONDITIONS
 
-'Welcome to iCloud
+Welcome to iCloud
 
 THIS LEGAL AGREEMENT BETWEEN YOU AND APPLE GOVERNS YOUR USE OF THE iCLOUD PRODUCT, SOFTWARE, SERVICES, AND WEBSITES (COLLECTIVELY REFERRED TO AS THE “SERVICE”). IT IS IMPORTANT THAT YOU READ AND UNDERSTAND THE FOLLOWING TERMS. BY CLICKING &“AGREE,” YOU ARE AGREEING THAT THESE TERMS WILL APPLY IF YOU CHOOSE TO ACCESS OR USE THE SERVICE.
 
 Apple is the provider of the Service, which permits you to utilize certain Internet services, including storing your personal content (such as contacts, calendars, photos, notes, reminders, documents, app data, and iCloud email) and making it accessible on your compatible devices and computers, and certain location based services, only under the terms and conditions set forth in this Agreement. As soon as you enable iCloud, your content will be automatically sent to and stored by Apple, so you can later access that content or have content wirelessly pushed to your other iCloud-enabled devices or computers. “Apple” as used herein means:
 
-• Apple Inc., located at 1 Infinite Loop, Cupertino, California, for users in North, Central, and South America (excluding Canada), as well as United States territories and possessions. and French and British possessions in North America, South America, and the Caribbean.
+• Apple Inc., located at 1 Infinite Loop, Cupertino, California, for users in North, Central, and South America (excluding Canada), as well as United States territories and possessions. and French and British possessions in North America, South America, and the Caribbean;
 
-• Apple Canada, located at 7495 Birchmount Road, Markham, ON L3R 5G2 for users in Canada or its territories and possessions.
+• Apple Canada, located at 7495 Birchmount Road, Markham, ON L3R 5G2 for users in Canada or its territories and possessions;
 
-• iTunes K.K., located at Roppongi Hills, 6-10-1 Roppongi, Minato-ku, Tokyo 106-6140, Tokyo for users in Japan.
+• iTunes K.K., located at Roppongi Hills, 6-10-1 Roppongi, Minato-ku, Tokyo 106-6140, Tokyo for users in Japan;
 
 • Apple Pty Limited, located at Level 13, Capital Centre, 255 Pitt Street, Sydney NSW 2000, Australia, for users in Australia, New Zealand, including island possessions, territories, and affiliated jurisdictions. and
 
@@ -142,23 +142,23 @@ Your Conduct
 
 You agree that you will NOT use the Service to:
 
-a. upload, download, post, email, transmit, store or otherwise make available any Content that is unlawful, harassing, threatening, harmful, tortious, defamatory, libelous, abusive, violent, obscene, vulgar, invasive of another’s privacy, hateful, racially or ethnically offensive, or otherwise objectionable.
+a. upload, download, post, email, transmit, store or otherwise make available any Content that is unlawful, harassing, threatening, harmful, tortious, defamatory, libelous, abusive, violent, obscene, vulgar, invasive of another’s privacy, hateful, racially or ethnically offensive, or otherwise objectionable;
 
-b. stalk, harass, threaten or harm another.
+b. stalk, harass, threaten or harm another;
 
-c. if you are an adult, request personal or other information from a minor (any person under the age of 18 or such other age as local law defines as a minor) who is not personally known to you, including but not limited to any of the following: full name or last name, home address, zip/postal code, telephone number, picture, or the names of the minor’s school, church, athletic team or friends.
+c. if you are an adult, request personal or other information from a minor (any person under the age of 18 or such other age as local law defines as a minor) who is not personally known to you, including but not limited to any of the following: full name or last name, home address, zip/postal code, telephone number, picture, or the names of the minor’s school, church, athletic team or friends;
 
-d. pretend to be anyone, or any entity, you are not — you may not impersonate or misrepresent yourself as another person (including celebrities), entity, another iCloud user, an Apple employee, or a civic or government leader, or otherwise misrepresent your affiliation with a person or entity (Apple reserves the right to reject or block any Apple ID or email address which could be deemed to be an impersonation or misrepresentation of your identity, or a misappropriation of another person’s name or identity).
+d. pretend to be anyone, or any entity, you are not — you may not impersonate or misrepresent yourself as another person (including celebrities), entity, another iCloud user, an Apple employee, or a civic or government leader, or otherwise misrepresent your affiliation with a person or entity (Apple reserves the right to reject or block any Apple ID or email address which could be deemed to be an impersonation or misrepresentation of your identity, or a misappropriation of another person’s name or identity);
 
-e. engage in any copyright infringement or other intellectual property infringement (including uploading any content to which you do not have the right to upload), or disclose any trade secret or confidential information in violation of a confidentiality, employment, or nondisclosure agreement.
+e. engage in any copyright infringement or other intellectual property infringement (including uploading any content to which you do not have the right to upload), or disclose any trade secret or confidential information in violation of a confidentiality, employment, or nondisclosure agreement;
 
-f. post, send, transmit or otherwise make available any unsolicited or unauthorized email messages, advertising, promotional materials, junk mail, spam, or chain letters, including, without limitation, bulk commercial advertising and informational announcements.
+f. post, send, transmit or otherwise make available any unsolicited or unauthorized email messages, advertising, promotional materials, junk mail, spam, or chain letters, including, without limitation, bulk commercial advertising and informational announcements;
 
-g. forge any TCP-IP packet header or any part of the header information in an email or a news group posting, or otherwise putting information in a header designed to mislead recipients as to the origin of any Content transmitted through the Service (“spoofing”).
+g. forge any TCP-IP packet header or any part of the header information in an email or a news group posting, or otherwise putting information in a header designed to mislead recipients as to the origin of any Content transmitted through the Service (“spoofing”);
 
-h. upload, post, email, transmit, store or otherwise make available any material that contains viruses or any other computer code, files or programs designed to harm, interfere or limit the normal operation of the Service (or any part thereof), or any other computer software or hardware.
+h. upload, post, email, transmit, store or otherwise make available any material that contains viruses or any other computer code, files or programs designed to harm, interfere or limit the normal operation of the Service (or any part thereof), or any other computer software or hardware;
 
-i. interfere with or disrupt the Service (including accessing the Service through any automated means, like scripts or web crawlers), or any servers or networks connected to the Service, or any policies, requirements or regulations of networks connected to the Service (including any unauthorized access to, use or monitoring of data or traffic thereon).
+i. interfere with or disrupt the Service (including accessing the Service through any automated means, like scripts or web crawlers), or any servers or networks connected to the Service, or any policies, requirements or regulations of networks connected to the Service (including any unauthorized access to, use or monitoring of data or traffic thereon);
 
 j. plan or engage in any illegal activity. and/or
 
