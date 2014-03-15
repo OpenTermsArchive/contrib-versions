@@ -1,6 +1,6 @@
 Verizon Online Terms of Service  
   
-This Agreement is between you as our Subscriber and Verizon Online LLC (or its affiliates listed in Section 16 ("Verizon" or "Verizon Online") and it sets forth the terms and conditions under which you agree to use and we agree to provide the Service.  
+This Agreement is between you as our Subscriber and Verizon Online LLC , ("Verizon" or "Verizon Online") and it sets forth the terms and conditions under which you agree to use and we agree to provide the Service.  
   
 THIS IS A CONTRACT. PLEASE READ THESE TERMS CAREFULLY. IF YOU DO NOT AGREE TO THESE TERMS DO NOT USE THE SERVICE AND CONTACT US IMMEDIATELY TO TERMINATE IT.  
   
@@ -285,7 +285,7 @@ THIS IS A CONTRACT. PLEASE READ THESE TERMS CAREFULLY. IF YOU DO NOT AGREE TO TH
           
           
         
-    6.  You represent that when you transmit, upload, download, post or submit any content, images or data using the Service you have the legal right to do so and that your use of such content, images or data does not violate the copyright or trademark laws or any other third party rights. You understand and agree that any and all use of the Service is subject to the terms of Verizon’s Copyright Alert Program, a description of which can be found at http://www22.verizon.com/Support/Residential/Dotnetcontexthelp/DotNetContextHelp.htm.  
+    6.  You represent that when you transmit, upload, download, post or submit any content, images or data using the Service you have the legal right to do so and that your use of such content, images or data does not violate the copyright or trademark laws or any other third party rights. You understand and agree that any and all use of the Service is subject to the terms of Verizon’s Copyright Alert Program, a description of which can be found at http://www.verizon.com/Support/Residential/Dotnetcontexthelp/DotNetContextHelp.htm.  
           
           
         
@@ -387,7 +387,7 @@ THIS IS A CONTRACT. PLEASE READ THESE TERMS CAREFULLY. IF YOU DO NOT AGREE TO TH
     
 19.  **VOLUNTARY MEDIATION**  
       
-    Verizon offers customers the option of participating in a free internal mediation program. This program is entirely voluntary and does not affect either party's rights in any other aspect of the dispute resolution procedures outlined in Section 19. In our voluntary mediation program, we will assign an employee who is not directly involved in the dispute to help both sides reach an agreement. That person has all the rights and protections of a mediator and the process has all of the protections associated with mediation. For example, nothing said in the mediation can be used later in an arbitration or lawsuit. If you would like to know more, or you would like to start the mediation process, please contact us at NoticeofDispute@verizon.com or through Verizon Online Dispute Resolution Manager, One Verizon Way, VC54N090, Basking Ridge, NJ 07920, for a notice of customer dispute form.A copy of the Notice of Dispute form can also be found at www.verizon.com/terms/disputes. Fill out and send the Notice of Customer Dispute Form to us according to the directions on the form.  
+    Verizon offers customers the option of participating in a free internal mediation program. This program is entirely voluntary and does not affect either party's rights in any other aspect of the dispute resolution procedures outlined in Section 19. In our voluntary mediation program, we will assign an employee who is not directly involved in the dispute to help both sides reach an agreement. That person has all the rights and protections of a mediator and the process has all of the protections associated with mediation. For example, nothing said in the mediation can be used later in an arbitration or lawsuit. If you would like to know more, or you would like to start the mediation process, please contact us at NoticeofDispute@verizon.com or through Verizon Online Dispute Resolution Manager, One Verizon Way, VC54N090, Basking Ridge, NJ 07920, for a notice of customer dispute form. A copy of the Notice of Dispute form can also be found at www.verizon.com/terms/disputes. Fill out and send the Notice of Customer Dispute Form to us according to the directions on the form.  
       
       
     
@@ -395,10 +395,10 @@ THIS IS A CONTRACT. PLEASE READ THESE TERMS CAREFULLY. IF YOU DO NOT AGREE TO TH
       
     **WE HOPE TO MAKE YOU A HAPPY CUSTOMER, BUT IF THERE'S AN ISSUE THAT NEEDS TO BE RESOLVED, THIS SECTION OUTLINES WHAT'S EXPECTED OF BOTH OF US.** YOU AND VERIZON BOTH AGREE TO RESOLVE DISPUTES ONLY BY ARBITRATION OR IN SMALL CLAIMS COURT. THERE IS NO JUDGE OR JURY IN ARBITRATION, AND THE PROCEDURES MAY BE DIFFERENT, BUT AN ARBITRATOR CAN AWARD YOU THE SAME DAMAGES AND RELIEF, AND MUST HONOR THE SAME TERMS IN THIS AGREEMENT, AS A COURT WOULD. IF THE LAW ALLOWS FOR AN AWARD OF ATTORNEYS' FEES, AN ARBITRATOR CAN AWARD THEM TOO. WE ALSO BOTH AGREE THAT:  
       
-    1.  THE FEDERAL ARBITRATION ACT APPLIES TO THIS AGREEMENT. EXCEPT FOR SMALL CLAIMS COURT CASES THAT QUALIFY, ANY DISPUTE THAT IN ANY WAY RELATES TO OR ARISES OUT OF THIS AGREEMENT OR FROM ANY EQUIPMENT, PRODUCTS AND SERVICES YOU RECEIVE FROM US (OR FROM ANY ADVERTISING FOR ANY SUCH PRODUCTS OR SERVICES) WILL BE RESOLVED BY ONE OR MORE NEUTRAL ARBITRATORS BEFORE THE AMERICAN ARBITRATION ASSOCIATION ("AAA"). YOU CAN ALSO BRING ANY ISSUES YOU MAY HAVE TO THE BETTER BUSINESS BUREAU (“BBB”), ATTENTION OF FEDERAL, STATE, OR LOCAL GOVERNMENT AGENCIES, AND IF THE LAW ALLOWS, THEY CAN SEEK RELIEF AGAINST US FOR YOU.  
+    1.  THE FEDERAL ARBITRATION ACT APPLIES TO THIS AGREEMENT. EXCEPT FOR SMALL CLAIMS COURT CASES THAT QUALIFY, ANY DISPUTE THAT IN ANY WAY RELATES TO OR ARISES OUT OF THIS AGREEMENT OR FROM ANY EQUIPMENT, PRODUCTS AND SERVICES YOU RECEIVE FROM US (OR FROM ANY ADVERTISING FOR ANY SUCH PRODUCTS OR SERVICES) WILL BE RESOLVED BY ONE OR MORE NEUTRAL ARBITRATORS BEFORE THE AMERICAN ARBITRATION ASSOCIATION ("AAA"). YOU CAN ALSO BRING ANY ISSUES YOU MAY HAVE TO THE BETTER BUSINESS BUREAU ("BBB"), ATTENTION OF FEDERAL, STATE, OR LOCAL GOVERNMENT AGENCIES, AND IF THE LAW ALLOWS, THEY CAN SEEK RELIEF AGAINST US FOR YOU.  
         
       
-    3.  UNLESS YOU AND VERIZON AGREE OTHERWISE, THE ARBITRATION WILL TAKE PLACE IN THE COUNTY OF YOUR BILLING ADDRESS. FOR CLAIMS OVER $10,000, THE AAA'S ARBITRATION RULES WILL APPLY. IN SUCH CASES, THE LOSER CAN ASK FOR A PANEL OF THREE NEW ARBITRATORS TO REVIEW THE AWARD. FOR CLAIMS OF $10,000 OR LESS, THE PARTY BRINGING THE CLAIM CAN CHOOSE THE AAA'S RULES FOR BINDING ARBITRATION OR, ALTERNATIVELY, CAN BRING AN INDIVIDUAL ACTION IN SMALL CLAIMS COURT. YOU CAN GET PROCEDURES, RULES AND FEE INFORMATION FROM THE AAA (WWW.ADR.ORG), OR FROM US. FOR CLAIMS OF $10,000 OR LESS, YOU CAN CHOOSE WHETHER YOU WOULD LIKE THE ARBITRATION CARRIED OUT BASED ONLY ON DOCUMENTS SUBMITTED TO THE ARBITRATOR, OR BY A HEARING IN–PERSON OR BY PHONE.  
+    3.  2\. UNLESS YOU AND VERIZON AGREE OTHERWISE, THE ARBITRATION WILL TAKE PLACE IN THE COUNTY OF YOUR BILLING ADDRESS. FOR CLAIMS OVER $10,000, THE AAA'S ARBITRATION RULES WILL APPLY. IN SUCH CASES, THE LOSER CAN ASK FOR A PANEL OF THREE NEW ARBITRATORS TO REVIEW THE AWARD. FOR CLAIMS OF $10,000 OR LESS, THE PARTY BRINGING THE CLAIM CAN CHOOSE THE AAA'S RULES FOR BINDING ARBITRATION OR, ALTERNATIVELY, CAN BRING AN INDIVIDUAL ACTION IN SMALL CLAIMS COURT. YOU CAN GET PROCEDURES, RULES AND FEE INFORMATION FROM THE AAA (WWW.ADR.ORG), OR FROM US. FOR CLAIMS OF $10,000 OR LESS, YOU CAN CHOOSE WHETHER YOU WOULD LIKE THE ARBITRATION CARRIED OUT BASED ONLY ON DOCUMENTS SUBMITTED TO THE ARBITRATOR, OR BY A HEARING IN–PERSON OR BY PHONE.  
         
       
     5.  THIS AGREEMENT DOES NOT ALLOW CLASS OR COLLECTIVE ARBITRATIONS EVEN IF THE AAAPROCEDURES OR RULES WOULD. NOTWITHSTANDING ANY OTHER PROVISION OF THIS AGREEMENT, THE ARBITRATOR SHALL NOT HAVE THE POWER TO DETERMINE THAT CLASS ARBITRATION IS PERMISSIBLE. THE ARBITRATOR ALSO SHALL NOT HAVE THE POWER TO PRESIDE OVER CLASS OR COLLECTIVE ARBITRATION, OR TO AWARD ANY FORM OF CLASSWIDE OR COLLECTIVE REMEDY. INSTEAD, THE ARBITRATOR SHALL HAVE POWER TO AWARD MONEY OR INJUNCTIVE RELIEF ONLY IN FAVOR OF THE INDIVIDUAL PARTY SEEKING RELIEF AND ONLY TO THE EXTENT NECESSARY TO PROVIDE RELIEF WARRANTED BY THAT PARTY'S INDIVIDUAL CLAIM. NO CLASS OR REPRESENTATIVE OR PRIVATE ATTORNEY GENERAL THEORIES OF LIABILITY OR PRAYERS FOR RELIEF MAY BE MAINTAINED IN ANY ARBITRATION HELD UNDER THIS AGREEMENT. NO AAA RULE WILL APPLY IF IT CONFLICTS WITH THE PROVISIONS OF THIS AGREEMENT. IN ADDITION, NOTWITHSTANDING ANY CONTRARY PROVISION IN THE AAA OR BBB RULES, THE ARBITRATOR WILL BE BOUND TO APPLY LEGAL PRINCIPLES AND THE LAWS THAT GOVERN THIS AGREEMENT, AND DOES NOT HAVE THE POWER TO AWARD ANY RELIEF THAT IS NOT AUTHORIZED BY SUCH LAWS.  
@@ -428,7 +428,7 @@ ATTACHMENT A **ACCEPTABLE USE POLICY**
       
       
     
-2.  **Specific Examples of AUP Violations.** The following are examples of conduct which may lead to termination of your Service. Without limiting the general policy in Section 1, it is a violation of the Agreement and this AUP to: (a) access without permission or right the accounts or computer systems of others, to spoof the URL, DNS or IP addresses of Verizon or any other entity, or to penetrate the security measures of Verizon or any other person's computer system, or to attempt any of the foregoing. (b) transmit uninvited communications, data or information, or engage in other similar activities, including without limitation, "spamming", "flaming" or denial of service attacks. (c) intercept, interfere with or redirect email or other transmissions sent by or to others. (d) introduce viruses, worms, harmful code or Trojan horses on the Internet. (e) post off-topic information on message boards, chat rooms or social networking sites. (f) engage in conduct that is defamatory, fraudulent, obscene or deceptive. (g) violate Verizon's or any third party's copyright, trademark, proprietary or other intellectual property rights. (h) engage in any conduct harmful to the Verizon network, the Internet generally or other Internet users. (i) generate excessive amounts of email or other Internet traffic. (j) use the Service to violate any rule, policy or guideline of Verizon. (k) use the service in any fashion for the transmission or dissemination of images containing child pornography or in a manner that is obscene, sexually explicit, cruel or racist in nature or which espouses, promotes or incites bigotry, hatred or racism. or (l) download or use the Service in Cuba, Iran, North Korea, Sudan and Syria or to destinations that are otherwise controlled or embargoed under U.S. law, as modified from time to time by the Departments of Treasury and Commerce.  
+2.  **Specific Examples of AUP Violations.** The following are examples of conduct which may lead to termination of your Service. Without limiting the general policy in Section 1, it is a violation of the Agreement and this AUP to: (a) access without permission or right the accounts or computer systems of others, to spoof the URL, DNS or IP addresses of Verizon or any other entity, or to penetrate the security measures of Verizon or any other person’s computer system, or to attempt any of the foregoing. (b) transmit uninvited communications, data or information, or engage in other similar activities, including without limitation, “spamming”, “flaming” or denial of service attacks. (c) intercept, interfere with or redirect email or other transmissions sent by or to others. (d) introduce viruses, worms, harmful code or Trojan horses on the Internet. I post off-topic information on message boards, chat rooms or social networking sites. (f) engage in conduct that is defamatory, fraudulent, obscene or deceptive. (g) violate Verizon's or any third party's copyright, trademark, proprietary or other intellectual property rights. (h) engage in any conduct harmful to the Verizon network, the Internet generally or other Internet users. (i) generate excessive amounts of email or other Internet traffic. (j) use the Service to violate any rule, policy or guideline of Verizon. (k) use the service in any fashion for the transmission or dissemination of images containing child pornography or in a manner that is obscene, sexually explicit, cruel or racist in nature or which espouses, promotes or incites bigotry, hatred or racism. or (l) download or use the Service in Cuba, Iran, North Korea, Sudan and Syria or to destinations that are otherwise controlled or embargoed under U.S. law, as modified from time to time by the Departments of Treasury and Commerce.  
       
       
     
@@ -446,36 +446,7 @@ ATTACHMENT B **ADDITIONAL SERVICES TERMS**
 If you subscribe to any of the following services ("Additional Services"), the terms and conditions below apply to your use of the service(s) in addition to the terms of the Agreement.  
   
 
-1.  **PERSONAL WEB SPACE ("PWS") AND VERIZON ONLINE BACKUP &. STORAGE ("STORAGE SERVICES").**  
-      
-    
-    1.  If PWS and/or Storage Services are made available as a feature of the Service, you agree that you are solely responsible for all content you store on or retrieve from such services. Additional terms and conditions applicable to Storage Services are posted on the Website and are incorporated herein by reference. You understand that we do not provide telephone technical support for PWS or Storage Services. Storage Services may be accessed from any suitable Internet connection.  
-          
-          
-        
-    2.  If you breach this Agreement, we reserve the right immediately to suspend or terminate your Service and/or an Additional Service(s) with or without notice. In such case, you agree that we may immediately delete all data, files, and other content stored on your Storage Services, including archived data, without further notice to you. It is your responsibility to remove or copy any content stored on the Storage Services prior to closure of your account. otherwise, it may be lost.  
-          
-          
-        
-    3.  Verizon reserves the right to access your PWS or Storage Service account at any time with or without prior notice to you and to disable access to or remove content which in our sole discretion is or reasonably could be deemed unlawful.  
-          
-          
-        
-    4.  Use Requirements for Free Storage Services Accounts ("Free Account"). If you sign up for a Free Account, you must actively use it. To "actively use" your account means to upload, download, backup or restore content to it. In the event you do not use your Free Account for a period of sixty (60) calendar days or more, then Verizon reserves the right to cancel your Free Account. We will provide notice of cancellation by email to your Primary Email Address. Use of your Free Account within fourteen (14) calendar days of the date of your cancellation notice will prevent cancellation of your Free Account. **It is your responsibility to remove or copy any content in your Free Account prior to cancellation or termination. otherwise, it will be lost. Verizon may, at its election, also delete archived data.**  
-          
-          
-        
-    5.  5\. Inactivity Disconnect Policy. If your Storage Service is idle for fifteen (15) minutes, it will be subject to automatic log-off . Your Storage Service will be deemed to be idle if there appears to be no interactive, human-generated data received from the remote user's computer within a fifteen (15) minute period. Your Storage Service will not be subject to automatic log-off if you are accessing your account from a wireless device.  
-          
-        
-    6.  Verizon Online Backup &. Sharing is provided by DigiData Corporation, which is a third party beneficiary of this Agreement capable of enforcing its terms independently from Verizon.  
-          
-          
-        
-    
-      
-    
-2.  **EMAIL AND EMAIL MESSAGING SERVICE.**  
+1.  **EMAIL AND EMAIL MESSAGING SERVICE.**  
       
     
     1.  **Email Service.** Use of Verizon email service is subject to Verizon's email and anti-spam policies, which include important information about limitations on use of the email service such as the storage capacity and deletion of stored messages. More information is available at on the Website and these email policies are incorporated herein by reference.  
@@ -493,7 +464,7 @@ If you subscribe to any of the following services ("Additional Services"), the t
     
       
     
-3.  **VERIZON INTERNET SECURITY SUITE ("VISS").**  
+2.  **VERIZON INTERNET SECURITY SUITE ("VISS").**  
       
     
     1.  VISS by Radialpoint.  
@@ -516,7 +487,7 @@ If you subscribe to any of the following services ("Additional Services"), the t
               
               
             
-        2.  2\. Use of each license for VISS Powered by McAfee is limited to one computer. Updates to previous versions of VISS Powered by McAfee require a valid license to the previous version. After receiving an update, you may continue to use the previous version of VISS Powered by McAfee on the same computer to assist in transitioning to the update. Previous versions or copies thereof may not be transferred to another computer unless all copies of updates are also transferred. Prior versions of VISS Powered by McAfee will not be supported after an updated version has been installed. If You upgrade to VISS Multi-Device Powered by McAfee, you will no longer be able to use VISS Powered by McAfee.  
+        2.  Use of each license for VISS Powered by McAfee is limited to one computer. Updates to previous versions of VISS Powered by McAfee require a valid license to the previous version. After receiving an update, you may continue to use the previous version of VISS Powered by McAfee on the same computer to assist in transitioning to the update. Previous versions or copies thereof may not be transferred to another computer unless all copies of updates are also transferred. Prior versions of VISS Powered by McAfee will not be supported after an updated version has been installed. If You upgrade to VISS Multi-Device Powered by McAfee, you will no longer be able to use VISS Powered by McAfee.  
               
               
             
@@ -531,107 +502,9 @@ If you subscribe to any of the following services ("Additional Services"), the t
     
       
     
-4.  **VERIZON GAMES ON DEMAND.** Verizon Games on Demand are manufactured by Exent Technologies, Inc., which is a third party beneficiary of this Agreement capable of enforcing its terms independently from Verizon. Verizon Games on Demand are not available for purchase at this time.  
-      
-    
-5.  **VERIZON PREMIUM TECHNICAL SUPPORT SERVICE ("PTS").  
-      
-    **
-    
-    1.  **Service Description and Scope of Support.** PTS is a service intended to address issues outside the scope of Verizon's standard technical support. PTS includes: (a) configuration troubleshooting. (b) evaluation of and attempts to correct software, operating systems and networking issues. (c) virus/spyware support. and (d) software and peripherals support for network, video and sound cards, memory, hard drives, CD/DVD reader/writers, printers, scanners and networking equipment. All PTS services are offered in English only.  
-          
-          
-        
-    2.  **Limitations of PTS.  
-          
-        **
-        
-        1.  PTS does not support all software, hardware or Internet-related products, applications or features and we reserve the right to defer support issues to your equipment or software vendor. PTS does not include training on hardware or software use.  
-              
-              
-            
-        2.  PTS is not intended to replace the more advanced technical support that may be available from hardware or software manufacturers  
-              
-              
-            
-        3.  PTS is for incident-specific troubleshooting and problem resolution, and excludes: i) computer programming. ii) software development. iii) warranty repairs or product replacement. iv) support for Windows® 95 and earlier versions of Windows. v) support for Mac operating systems earlier than OS X. vi) problems or issues arising out of any impermissible or unauthorized use or modification of a product or vii) upgrades of firmware, software, operating systems, or applications. Use of PTS does not constitute a license to use the software, applications or equipment being supported, or an upgrade thereto. You are responsible for obtaining any necessary licenses to use your software and applications  
-              
-              
-            
-        4.  In some cases, we may not be able to diagnose or resolve a problem because of complications with your computer or its configuration. PTS is offered as a "best efforts" service and without warranty except as specifically set forth in this Agreement. We reserve the right to refuse to troubleshoot software not on our list of supported products.  
-              
-              
-            
-        5.  You understand and agree that technical problems may be the result of software or hardware errors not yet resolved by the product manufacturer, and that we may not have the ability to obtain the information necessary to resolve a specific technical problem.  
-              
-              
-            
-        6.  If you purchase the Thirty (30) Minute Premium Technical Support Service ("30 Minute PTS"), the Service is non-refundable. 30 Minute PTS has a maximum duration of thirty (30) minutes and must be used within twenty-four (24) hours from the time of purchase. and you must be a subscriber to Verizon High Speed Internet or Verizon FiOS Internet service.  
-              
-              
-            
-        
-          
-        
-    3.  **Your Responsibilities.  
-          
-        **
-        
-        1.  In order for us to provide PTS, you must first confirm that you have: a) full access (including any required licenses) to the hardware and/or software that is the basis of the problem. and (b) completed a back-up of any data, software, information or other files stored on your computer disks and/or drives that may be impacted. **Verizon is not responsible for the loss, corruption or alteration of data, software or files that may result from performance of PTS by our technicians.** You also acknowledge and agree that you are the owner or authorized user of any hardware or software about which you are contacting us. PTS is only available to you and those residing at your location. PTS is not transferrable.  
-              
-              
-            
-        2.  You agree to cooperate with and follow instructions provided by Verizon and acknowledge that such cooperation by you is essential to our delivery of PTS to you.  
-              
-              
-            
-        3.  You hereby grant Verizon permission to view, access and modify your computer, computer (including registry) settings and any related software or peripheral equipment, including all data, hardware and software components, in order to perform PTS.  
-              
-              
-            
-        4.  You are responsible for any and all restoration and reconstruction of lost or altered files, data, or programs, and for ensuring that any information or data disclosed to Verizon is not confidential or proprietary to you or any third party.  
-              
-              
-            
-        
-          
-        
-    4.  **Support Procedures.  
-          
-        **
-        
-        1.  Purchase Terms. PTS can be purchased either: (a) for an unlimited number of Incidents for a term beginning on the date you order PTS and continuing for the duration of the plan you selected ("Term Plan"). or (b) on a per-Incident basis (the "Per-Incident Service Plan"). For the Per-Incident Service Plan, Verizon will address a single Incident (as defined in Section 6.4.2 below) which shall include follow-up calls, as reasonable and necessary, regarding the Incident. Once an Incident is resolved (as set forth in Section 6.4.3, below), you may call back and obtain assistance on the same Incident for up to seventy-two (72) hours at no additional charge, after which the Incident will be considered closed. Once an Incident has been closed by Verizon, any further calls or requests for assistance will be considered a new Incident and additional fees will apply if you subscribe to our Per-Incident Service Plan. IF YOU PURCHASE PTS UNDER A TERM PLAN AND YOUR SERVICE IS TERMINATED BY YOU (OR BY US IF YOU BREACH THIS AGREEMENT) BEFORE COMPLETING YOUR TERM, THEN, UPON TERMINATION OF YOUR SERVICE, YOU AGREE TO PAY VERIZON AN EARLY TERMINATION FEE IN THE AMOUNT SET FORTH IN THE PLAN YOU HAVE CHOSEN.  
-              
-              
-            
-        2.  "Incident" means a specific, discrete problem for which Verizon will attempt to isolate its origin to a single cause. Verizon, in its sole discretion, will determine what constitutes an Incident.  
-              
-              
-            
-        3.  An Incident will be considered resolved when you receive one of the following: (a) information or advice that resolves the Incident. (b) information on how to obtain a software solution that will resolve the Incident. (c) notice that the Incident is caused by a known, unresolved issue or an incompatibility issue. (d) information that the Incident can be resolved by upgrading to a newer release of a product. (e) notice that the Incident has been identified as a hardware equipment issue. or if (f) you cannot, or elect not to, pursue the course of action we recommend.  
-              
-              
-            
-        4.  Our advice to you may include steps that you will need to take before the Incident can be resolved, such as buying cables or cords, acquiring software, etc. and we will keep your service request open for future reference when you are ready to resume the process.  
-              
-              
-            
-        
-          
-        
-    5.  **Third Party Warranties.** Third-party equipment, software and peripheral products are covered by the warranties provided by the original manufacturer or the seller of the product. Third party warranties may vary from product to product. It is your responsibility to consult the applicable product documentation for specific warranty information. **In addition, you acknowledge that certain third party equipment or software warranties may limit or void the remedies that they offer if unauthorized persons perform support service on the equipment or software. It is your responsibility to ensure that any impact that Verizon's delivery of PTS might have on third party warranties is acceptable to you.**  
-          
-          
-        
-    6.  **Customer Specific Service.** PTS is only available to you and to persons you authorize. In either case, the terms of this Agreement will apply to the PTS services we perform.  
-          
-          
-        
-    7.  **LIMITATION OF LIABILITY. VERIZON'S TOTAL LIABILITY ARISING OUT OF THE PTS SERVICE, OR FROM VERIZON'S NEGLIGENCE OR OTHER ACTS OR OMISSIONS, IF ANY, SHALL BE LIMITED, AT VERIZON'S SOLE DISCRETION AND OPTION, (A) TO REPERFORMING THE PTS SERVICE, OR (B) AS SET FORTH IN SECTION 12 OF THE AGREEMENT. EXCEPT THAT, IN THE CASE OF PER-INCIDENT SERVICE PLANS, YOUR REMEDIES WILL BE LIMITED TO A REFUND OF THE CHARGES AND FEES PAID FOR THE PTS SERVICE GIVING RISE TO THE CLAIM, IF ANY. THE REMEDIES FOR A FAILURE OR BREACH OF SUCH LIMITED WARRANTY ARE EXCLUSIVE.**  
-        
-    
+3.  **VERIZON GAMES ON DEMAND.** Verizon Games on Demand are manufactured by Exent Technologies, Inc., which is a third party beneficiary of this Agreement capable of enforcing its terms independently from Verizon. Verizon Games on Demand are not available for purchase at this time.  
       
     
 
   
-Version 14.1 Effective Date January 18, 2014
+Version 14.2 Effective Date March 15, 2014
