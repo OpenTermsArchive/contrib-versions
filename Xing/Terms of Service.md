@@ -2,18 +2,29 @@ Terms &. Conditions
 
 Print | Save
 
-1.  Subject Matter
-2.  Registration, and Warrants and Representations at Registration
-3.  Right of Cancellation for Consumers
-4.  Obligations of the User
-5.  Changes to the Services on XING Websites
-6.  Termination of the agreement, Reimbursement of Advance Payments
-7.  Responsibility for the User’s Content
-8.  Customer Service/Support
-9.  Liability of XING
-10.  Indemnity
-11.  Data Protection
-12.  Final Clauses
+Document
+
+*   A. General Terms and Conditions for using the XING service
+    1.  Subject and basis for using XING
+    2.  Conditions of use, conclusion of contract and warranties upon conclusion of contract
+    3.  Right of cancellation for consumers
+    4.  General obligations of the user and special provisions for using the social network
+    5.  Changes to services and contractual terms
+    6.  Fees, billing, invoicing, payment terms
+    7.  Term, termination of contract, sanctions, reimbursement of advance payments
+    8.  Responsibility for the user’s content, data and/or other information, availability
+    9.  Liability of XING
+    10.  Data protection
+    11.  Applicable law, place of jurisdiction, miscellaneous
+*   B. Additional terms for using the events platform
+    1.  Conditions of use, conclusion of contract and warranties upon conclusion of contract
+    2.  Right of cancellation for consumers
+    3.  Obligations of the user and special provisions for users
+    4.  Fees, billing, invoicing, payment terms
+    5.  Validity of the provisions of the General Terms and Conditions for using the XING service
+*   C. Additional terms for using the employer review platform
+    1.  Obligations of the user and special provisions for users
+    2.  Validity of the provisions of the General Terms and Conditions for using the XING service
 
   
 
@@ -21,88 +32,88 @@ General Terms and Conditions for the use of the XING Talent Manager
 
 General Terms and Conditions for the use of XING Company Profiles
 
-General Terms and Conditions for using XING Jobs
+General Terms and Conditions for the use of XING Jobs
 
-General Terms and Conditions for XING Jobs - Framework Agreements, Special Offers
+General Terms and Conditions for the use of XING Jobs - framework agreements, special offers
 
 General Terms and Conditions for the use of XING Projects
 
-General Terms and Conditions for the use of XING Applications
+General Terms and Conditions for the use of XING applications
 
-General Terms and Conditions for XING Enterprise Groups
+General Terms and Conditions for the use of XING Enterprise Groups
 
 General Terms and Conditions for the use of the AdCreator
 
-General Terms and Conditions for using XING
+General Terms and Conditions
 
-"XING” refers to the service provided subject to these General Terms and Conditions and/or XING AG.
+**“XING”** means the service as described below (including all applications) and/or the provider of this service, XING AG (together with XING S.á r.l. as of 1 May 2014 and in those cases listed in Section A.6.6 below).
 
-Preamble
+A. General Terms and Conditions for using the XING service
 
-By logging on to XING, users accept the following General Terms and Conditions (hereinafter the “GTC”) for using XING.
+The XING service is rendered via websites (e.g. xing.com, xing.de, amiando.com, amiando.de, amiando.ch, kununu.com, kununu.at, kununu.de, contaxt.de), a number of different sub-domains and domain aliases, and via mobile applications (“apps”), background applications, web services and third-party-site integrations (e.g. iFrame). All websites, sub-domains, aliases, mobile applications, background applications, web services and third-party-site integrations provided by XING and where XING is available are hereinafter referred to as **“XING Websites”**.
 
-XING operates XING services under various top-level domains (xing.com, xing.de etc.), as well as various sub-domains and aliases of these domains. All websites on which XING provides XING Services are hereinafter referred to as “XING Websites.”
+The XING service applications include, in particular, contact and communication forums (hereinafter referred to as **“social network”**) for which the user can obtain membership, an **“events platform”** and an **“employer review platform”**. Some of the XING applications may appear under other brand names or by using other XING Websites.
 
-These GTC shall govern the contract relationship between the User and XING, irrespective of which XING Website the User is registered with or logged on to.
+These General Terms and Conditions for using the XING service govern the contractual relationship between the user and XING, irrespective of which XING Websites the User visits to take use XING services.
 
-The User enters into this agreement on the use of XING Services with XING AG, Dammtorstraße 29-32, 20354 Hamburg. Additional contact information, commercial registry data, as well as the name of the authorized representative of XING AG can be found under “About this site”.
+Additional terms may also apply to the use of individual applications in addition to these General Terms and Conditions for using the XING service. In the event of an objection, the additional terms and conditions for the use of the respective application shall take precedence over these General Terms and Conditions for using the XING service, provided such precedence is not excluded in the additional terms for the use of the respective application.
 
-The services provided by XING are intended exclusively for persons of legal age.
+The General Terms and Conditions for using the XING service and any additional terms for the use of individual applications are hereinafter referred to as **“GTC”**.
 
-The User can call up, print out, download and or save these General Terms and Conditions at any time, even after the agreement has been closed, under the “Terms &. Conditions” link that appears on all XING Websites.
-
-   
-1\. Subject Matter
-
-**1.1** The XING Websites offer registered users two options: a) a free private contact forum (membership in the free contact forum is hereinafter referred to as “Free Membership”), and b) a private paid communication forum for arranging business contacts (membership in the paid communication forum is hereinafter referred to as “Premium Membership”). Special paid memberships such as the Sales Membership and the Recruiter Membership are memberships of the paid communication forum and will therefore also be referred to as "Premium Membership".
-
-**1.2** The fees listed under "Benefits" are binding. Payments for the entire term of Premium Membership shall be due immediately upon invoicing. Payment can be made using the various debiting procedures available, in particular with the credit cards accepted, or the available online payment systems. If XING is unable to collect any fees from an account designated by the User due to lack of funds, the User shall bear all costs arising therefrom, including bank charges related to any debit entries or similar charges, insofar as the User is responsible for the event that triggers these costs. XING may deliver invoices and payment reminders to the User electronically. XING shall make said invoices available for download by the User in the Premium Membership area of the XING Websites for at least one (1) year from the date of invoicing.
-
-**1.3** Any use of the services and contents offered on the XING Websites beyond the scope of options provided by XING requires the prior written consent of XING.
-
-**1.4** XING shall only make data and/or information provided by the User available for other uses provided that this data and/or information does not violate any laws or these GTC. XING is entitled to remove any illegal or prohibited data and/or information from XING Websites without prior notice to the User.
-
-**1.5** The User acknowledges and agrees that it is technically impossible to achieve 100% availability of the XING Websites. XING shall nonetheless endeavour to keep XING Websites available without interruption. Events related to maintenance, security or capacity requirements, and/or events beyond XING's control (e.g. disruptions in public communication networks, power failures etc.), may result in brief malfunctions or temporary interruptions of the services provided on XING Websites.
-
-**1.6** XING merely provides the User with a platform on which to establish contact with other users, and only provides those technical applications that allow users to contact one another. As regards content, XING does not take part in any communication between users. If users enter into agreements with one another over XING Websites, XING shall not be a contracting party to these agreements. The users alone are responsible for the execution and/or fulfillment of agreements in which they enter with one another. XING shall not be held liable if users are unable to contact one another over XING Websites regarding such agreements. Furthermore, XING shall not be liable for breaches of duty in relation to agreements entered into between users.
-
-**1.7** Group moderators are entitled to choose their members. They may freely choose whether or not a user may join their group.
-
-**1.8** Unless otherwise expressly defined, partner offers via Top Deals are only available to Premium Members and/or for member groups freely defined by XING.
-
-XING shall merely act as intermediary in the case of agreements entered into with partners.
-
-These partner offers are subject to the General Terms and Conditions and the privacy policies of the respective partner companies, which carry out the complete transaction themselves and are a party to an agreement with and serve as the contact for the User.
-
-**1.9** If XING offers the User the option to book one or more third-party supplementary services (e.g. secure.me reputation protection), the User will enter into separate agreements with the respective third party that have no legal connection to the User's XING membership. The termination of such third-party supplementary service agreements or any default of performance thereof does not have any impact on the contractual relationship between XING and the User in terms of the User's XING membership. The terms and conditions and privacy policies of the respective third parties, who are also the contractual and contact partners of the User, apply to all third-party supplementary services.
+The contract is concluded with XING AG, Dammtorstraße 29-32, 20354 Hamburg, Germany, and as of 1 May 2014, in those cases listed in Section A.6.6 below additionally with XING S.á r.l., 9, Avenue Guillaume, L-1651 Luxembourg. Further contact details, commercial register details as well as the name of a person authorised to represent XING AG and, as of 1 May 2014, XING S.á r.l. can be found in the “About this site” section.
 
    
-2\. Registration, and Representations and Warranties upon Registration
+1\. Subject and basis for using XING
 
-**2.1** The User must register prior to using any of the services on the XING Websites.
+**General**
 
-**2.2** The User warrants and represents that all of the data provided by the User for registration is accurate and complete. The User shall report any changes in the registration data to XING without undue delay.
+**1.1** XING is a service that pursues the aim of improving and simplifying the user’s working life by providing a variety of different applications.
 
-The User shall not use pseudonyms or pen names.
+**1.2** Working and private lives are converging all the time. In light of this, XING focuses both on professional and private domains.
 
-**2.3** The User warrants and represents that he or she is of legal age at the time of registration.
+**1.3** XING would particularly like to provide the user with new opportunities (mainly within a professional context, but also within a private context), make it easier for the user to form horizontal networks, democratise information, foster the exchange of information, and promote lifelong learning. In order to meet these aims, XING collects information in order to provide the user with certain information, offers, recommendations and services, and to promote interaction within the user’s network. This takes place in line with the user’s privacy settings and declarations of consent.
 
-**2.4** The User shall choose a password upon registration. The User is obliged to keep this password secret. XING shall not disclose the password to any third party and XING shall not ask for the User's password at any time.
+**1.4** The social network is the core application of the XING service. The profile page created by the user on the social network (hereinafter referred to as **“user profile”**) represents the identity of the user within the XING service, on XING Websites, and in the service’s applications. In order to use XING, the user requires a user profile that is visible on the social network. Only individual applications of the XING service can be used where the user profile is not visible on the social network. Also, there are individual applications of the XING service where the user does not appear and is not displayed with its user profile. Registration with the XING service is, however, always required.
 
-**2.5** By completing the registration process, the User consents to enter the agreement to use the services of the XING Websites. XING accepts this offer by activating the membership for the use of services on XING Websites. The agreement takes effect with the aforementioned acceptance by XING.
+**Social network**
 
-**2.6** Each User is entitled to register with XING only once, and the User may only establish one (1) user profile.
+**1.5** The social network provides the user with various options to present itself with a personal user profile and to present its activities on XING Websites and, where applicable, outside of the XING Websites, and to interact with other users and, where applicable, with third parties in real time.
 
-**2.7** It is technically impossible for XING to determine with certainty whether any user registered with XING is in fact the person he or she represents to be. Therefore, XING assumes no liability for the actual identity of a user. Each user is solely responsible for checking the actual identity of another user.
+**1.6** A user who registers with the social network initially becomes a free member of the social network (hereinafter referred to as **“free membership”**).
+
+**1.7** The user has the option of switching its free membership to a paid membership on the social network (paid membership on the social network is hereinafter referred to as **“Premium membership”**). In contrast to free membership, Premium membership provides a number of additional and advanced features. Special paid memberships for specific target groups, e.g. recruiters, are also covered by the term “Premium membership”. Depending on the user’s choice of payment method for the Premium membership as offered by XING, the specific provisions as laid out in Section 6.6 (“Special provisions regarding the payment methods offered by XING”) shall apply as of 1 May 2014. Free membership and Premium membership will hereinafter be collectively referred to as **“XING membership”**.
+
+**1.8** If XING offers the user the option to book one or more free or paid third-party supplementary services, the user shall enter into separate agreements with the respective third party that have no legal connection to the user's XING membership. The amendment, discontinuation, other termination or exchange of such third-party services or any default of performance thereof in relations between the user and third party does not have any impact on the contractual relationship between XING and the user in terms of the user's XING membership. The terms and conditions and privacy policies of the respective third parties, who are also the contractual and contact partners of the user, apply to all third-party supplementary services.
+
+   
+2\. Conditions of use, conclusion of contract and warranties upon conclusion of contract
+
+**General**
+
+**2.1** If the user uses a XING service application which can also be used by users without a user profile that is visible on the social network, a user account will be created for said user if it does not already have one. Thereby, the agreement to use XING is entered into by the user and XING. A user account is a user profile that is not initially visible on the social network. To start with, the user can only use its user account with XING service applications that can also be used without a user profile that is visible on the social network. If the user would like to use XING service applications that require a user profile that is visible on the social network, the user must first allow its user profile to be visible on the social network.
+
+**2.2** The option to use applications offered on the XING Websites does not constitute an offer, but merely an invitation to issue an offer. By completing the booking process, the user consents to enter into the agreement to use the corresponding XING application. XING in turn accepts the user’s consent by rendering the corresponding services. The agreement takes effect upon the aforementioned acceptance by XING. XING is not obliged to enter into the agreement. By using paid services, the user accepts the related payment obligation and, depending on the choice of payment method and as of 1 May 2014, the special provisions as laid out in Section 6.6 (“Special provisions regarding the payment methods offered by XING”) by clicking on the confirmation button which is displayed in such cases.
+
+**2.3** The user warrants and represents that all of the data it provides is accurate and complete. The user is obliged to ensure that the data for all of the applications it uses is accurate and complete for the entire duration of the agreement. In the event that the XING customer service team makes any manual changes to the user’s data on the user’s behalf, XING reserves the right to bill the user for any costs it incurs in connection with said changes, insofar as the user is responsible for the event that triggers these costs.
+
+**2.4** The user warrants that it is of legal age. In the event that the user acts on behalf of a legal person for certain applications, the user warrants that it is authorised to act in the name of the legal person. Upon request, the user shall submit proof thereof.
+
+**2.5** It is technically impossible for XING to determine with certainty whether any user registered on the XING Websites is in fact the person he or she claims to be. Therefore, XING assumes no liability for the actual identity of a user.
+
+**Social network**
+
+**2.6** In order to acquire XING membership, the user must register on the platform and select a password.
+
+**2.7** The user is obliged to keep this password secret. XING shall not disclose the password to any third party, shall only use it during the login process, and shall not ask for the user's password at any time other than during the login process. For security reasons and to prevent misuse, the user is recommended to change its password at regular intervals. The user is solely responsible for safeguarding and storing its XING member account login details (username and password).
+
+**2.8** Each user may only create one user profile. The user is not permitted to allow third parties to use its user profile.
 
    
 3\. Right of cancellation for consumers
 
-If you as a User are registered at XING for a purpose that is not related to either your commercial or professional freelance activity, the following provisions apply to you as a consumer in the sense of Par. 13 of the BGB (German Civil Code):
+Right of cancellation
 
-**3.1** Right of cancellation
-
-You may cancel your contractual agreement with XING in writing (e.g., by letter, fax or e-mail) within fourteen (14) days without stating a reason. The two-week period begins upon receipt of these instructions, but not before the contract has been executed, and also not prior to our fulfillment of our informational duties as per Par. 246 (2) in connection with Par. 1 (1 and 2) EGBGB, as well as our duties as per Par. 312e (1) line 1 BGB in connection with Par. 246 (3) EGBGB. The contract can be canceled by sending timely notification to:
+You may cancel your contractual agreement with XING in writing (e.g. by letter, fax or e-mail) within fourteen (14) days without stating a reason. The two-week period begins upon receipt of these instructions, but not before the contract has been executed, and also not prior to our fulfilment of our informational duties as per Article 246 Section 2 in connection with Section 1 (1 and 2) EGBGB, as well as our duties as per Section 312g (1) line 1 BGB in connection with Article 246 Section 3 EGBGB. The contract can be cancelled by sending timely notification to:
 
 XING AG  
 Dammtorstraße 29-32  
@@ -111,151 +122,425 @@ Germany
 Fax: +49 40 419 131 11  
 E-mail: en-invoice@xing.com
 
-You may also deliver notice of termination using the contact form available at all XING Websites.
+The user can submit notice of termination to XING using the contact form available on all XING Websites.
 
-**3.2** Consequences of cancellation
+Consequences of cancellation
 
-In the event of a valid contract termination, services and fees provided by both parties are to be returned, and any economic advantages gained (e.g., interest) are to be repaid. If you are not able to return the services and utilization (exercised benefits) rendered fully or in part, or only in a lesser form, you are obligated to reimburse us for the value lost. This can mean that you are required to fulfill the contractual payment obligations for the time period until cancellation. Obligations to reimburse costs must be fulfilled within 30 days. This period begins for you when you send your contract termination, for us when we receive it.
+In the event of a valid contract termination, services and fees provided by both parties are to be returned, and any economic advantages gained (e.g. interest) are to be repaid. If you are not able to return the services and utilisation (exercised benefits) rendered fully or in part, or only in a lesser form, you are obliged to reimburse us for the value lost. This may mean that you are required to fulfil the contractual payment obligations for the time period until cancellation. Obligations to reimburse payments must be fulfilled within 30 days. This period begins for you when you send your contract termination, for us when we receive it.
 
-**3.3** Additional information
+Additional information:
 
-The User’s right of cancellation lapses before the end of the right of cancellation period if the contract has been completely fulfilled to the satisfaction of both parties before the User exercises his or her right of cancellation.
+The user’s right of cancellation lapses before the end of the right of cancellation period if the contract has been completely fulfilled to the satisfaction of both parties before the user exercises its right of cancellation.
+
+\- End of right of cancellation -
+
+Exclusion of right of cancellation:
+
+The right of cancellation does not exist if, when entering into a legal transaction, you act in exercise of your trade, business or profession and are therefore deemed to be an entrepreneur (Section 14 BGB).
+
+The right of cancellation vis-à-vis XING does not apply to agreements you enter into with third parties, i.e. where XING is not legally involved. Any such rights of cancellation may only be brought against the respective third party.
+
+Other additional information:
+
+You expressly agree that we will start to render the service before the end of the cancellation period.
+
+You are required to pay the fees agreed for services we render up until the time you submit a cancellation.
 
    
+4\. General obligations of the user and special provisions for using the social network
 
-End of right of cancellation.
+**4.1** The user is obliged
+
+(a) to provide only true and non-misleading statements along with its real name, and to refrain from using pseudonyms or pen names,
+
+(b) to only use as the profile picture for its social network user profile a photo where the user can be clearly identified. The user warrants and represents that the public display of the profile photo delivered by the user to the XING Websites is not prohibited by applicable law. The user shall not use photos or images of any person other than the user, nor of non-existent persons or other beings (such as animals, imaginary creatures, etc.), nor use logos as its profile picture.
+
+(c) to comply with all applicable legislation and respect all third-party rights when using XING and the content served on XING Websites. In particular, the user shall not
+
+*   use any insulting or defamatory contents, regardless of whether said contents are directed at another user or XING personnel or other companies,
+*   use any pornographic, abusive, immoral or violence-glorifying materials or any contents that violate any applicable legislation for the protection of minors. or advertise or promote, offer or distribute any pornographic, abusive, immoral or violence-glorifying product or products which do not comply with any applicable legislation for the protection of minors,
+*   unreasonably annoy, particularly with spam, any other user (cf. Section 7 of the German Unfair Competition Act - UWG),
+*   use without authorisation any contents protected by law (e.g. by copyright, trademark, patent, utility patent, or design patent laws), or advertise, promote, offer or distribute any goods or services protected by law, or
+*   use or promote any commercial practices considered unfair competition, including progressive customer acquisition practices (such as chain distribution systems, multilevel selling or pyramid sales)
+
+(d) to refrain from engaging in any of the following annoying activities, even if they do not constitute a breach of any applicable laws:
+
+*   Sending chain letters
+*   Performing, advertising and promoting any form of structural distribution measures (such as multi-level marketing or multi-level network marketing) and
+*   Communicating in any insinuating or sexual way (suggestive or explicit).
+
+**4.2** The user is prohibited from the following:
+
+(a) Employing any mechanisms, software or scripts when using XING Websites. The user is also prohibited from directly or indirectly advertising or distributing such mechanisms, software or scripts. The user may, however, use, advertise or distribute interfaces or software that have been authorised by XING
+
+(b) Blocking, overwriting, modifying and copying any contents of the XING Websites, unless said actions are necessary for the proper use of XING
+
+(c) Distributing or publicly disclosing the contents of any of the XING Websites or any other user, unless such a distribution or public disclosure is intended within the scope of the respective XING application, or unless the other user consented to said distribution or public disclosure, and/or
+
+(d) Performing any actions which may impair the operability of XING's infrastructure, particularly actions which may overload said infrastructure.
+
+**4.3** XING is not obliged to serve data provided by the user and/or information to other users if said data and/or information is not in line with Sections 4.1 and 4.2. XING is entitled to remove from the XING Websites any data and/or information that is prohibited according to Sections 4.1 and 4.2, without notifying the user in advance.
+
+   
+5\. Changes to services and GTC
+
+**Changes to services**
+
+**5.1** XING reserves the right to modify the services offered on the XING Websites or to offer services different from those offered at the time of the user’s registration at any time unless this is unreasonable for the user.
+
+**5.2** XING furthermore reserves the right to modify the services offered on the XING Websites or to offer services different from those offered at the time of the user’s registration at any time
+
+(a) to the extent XING is obliged to ensure the services that it offers are in compliance with legislation incumbent upon the services, particularly in the event of a change to said legislation,
+
+(b) to the extent XING is therefore deemed to have complied with a legal judgement or decision by the authorities,
+
+(c) to the extent the respective modification is required to eliminate any existing security gaps,
+
+(d) if the modification is only beneficial to the user, or
+
+(e) if the modification is of a purely technical or process-related nature without any material impact on the user.
+
+**5.3** Modifications that only have a minor impact on XING’s functionality do not represent changes to the services described in this section. This shall apply in particular to changes of a purely graphical nature and to a change of layout and/or placement of features.
+
+**Changes to GTC**
+
+**5.4** XING reserves the right to amend these GTC at any time, without giving reasons, unless an amendment is unreasonable to the user. XING shall give due notice to the user regarding amendments to these GTC. If the user does not object to the validity of the revised GTC within six (6) weeks of receipt of said notice, the amended GTC shall be deemed accepted by the user. In its notice, XING shall inform the user about the user’s right to object and the importance of the objection deadline.
+
+**5.5** XING also reserves the right to modify the GTC
+
+(a) if the modification is only beneficial to the user,
+
+(b) if the modification is of a purely technical or process-related nature without any material impact for the user,
+
+(a) to the extent XING is obliged to ensure the GTC comply with legislation incumbent thereon, particularly in the event of a change to said legislation,
+
+(d) to the extent XING is therefore deemed to have complied with a legal judgement or decision by the authorities, or
+
+(e) to the extent XING introduces supplementary, completely new services or service components requiring a service description in the GTC, unless this has a detrimental impact on the use relationship to date.
+
+XING shall notify users of such changes to its GTC, e.g. via the XING Websites.
+
+**5.6** Products that are booked separately and not offered within the scope of a continuing obligation (e.g. booking ads or posting events) are subject to a separate agreement for which additional terms and conditions will be explicitly displayed prior to booking. The corresponding contractual terms and services can be modified for future bookings irrespective of the service modification requirements stipulated here.
+
+**5.7** The user’s right to cancellation pursuant to Section 7 remains unaffected in the event of modifications to services or GTC governed by this provision.
+
+   
+6\. Fees, billing, invoicing, payment terms
+
+**General**
+
+**6.1** The user can settle invoices using the payment methods offered by XING. If XING is unable to collect any fees from an account designated by the user due to lack of funds, the user shall bear all costs XING incurs as a result thereof, including bank charges related to any debit entries or similar charges, insofar as the user is responsible for the event that triggers these costs.
+
+**6.2** XING is permitted to only send invoices and payment reminders electronically.
+
+**6.3** Provided the user does not object, XING reserves the right to switch invoices from euros to the user’s respective local currency at any time.
+
+**Premium membership**
+
+**6.4** Premium membership fees are due immediately for the full term.
+
+**6.5** XING reserves the right to reasonably increase the fees charged for Premium membership with effect from the start of a new renewal period, either after the initial term or the respective current renewal period. Prices may only be increased once per calendar year. In such cases, XING shall inform the user at least six (6) weeks prior to expiry of the initial term or respective current renewal period. Should the user not agree to this increase, it may object to the validity of the increase within three (3) weeks of notification via the contact form, letter, fax or e-mail. The user’s submission of an objection is tantamount to cancelling its Premium membership, meaning that said membership will expire at the end of the initial term or respective current renewal period.
+
+_Please note: Section 6.5 does not apply to existing customers who registered with XING before 17 March 2014, except in the following cases:_
+
+_*   An older version of the GTC containing a corresponding price modification provision (in Section 12.2) in effect at the time of registration was already explicitly agreed to
+*   A price modification provision was already explicitly agreed to before 17 March 2014, e.g. when switching from the old Premium to the New Premium version
+*   A price modification provision was explicitly agreed to after 17 March 2014
+*   These GTC including the price modification provision (Section 6.5) are explicitly agreed to from 17 March 2014 (e.g. when taking out Premium membership)._
+
+_  
+This price modification provision (Section 6.5) shall apply without limitation to new customers._
+
+**6.6 Special provisions regarding the payment methods offered by XING  
+Please note: This Section 6.6 will become effective as of 1 May 2014.**  
+If case the user opts for a Premium membership as of 1 May 2014, chooses credit card as the applicable payment method, and pays with his MasterCard or Visa Card (not American Express), the following special provisions shall apply:  
+
+*   Party to the contract are both XING AG and XING S.á r.l. who are jointly and severally liable towards the user. This means, inter alia, that the provision of a service by one party fulfils the contractual obligation of the other. Events such as contestation, termination or withdrawal of the contract by the user, default or impossibility of performance or any other event listed in Section 425 (2) of the German Civil Code (BGB) will take effect for and against both parties.
+*   XING AG and XING S.á r.l. do not form one company but act for themselves respectively. XING AG and XING S.á r.l. exclusively act in their own name vis-à-vis the user unless expressly stated otherwise.
+*   Even though XING AG and XING S.á r.l. are both entitled to claim payment in the full amount from the user, the user is of course only obliged to make such payment once. The user must, however, bear in mind that it is not entitled (notwithstanding Section 428 sentence 1 of the German Civil Code) to make payment at its discretion to either XING AG or XING S.á r.l., but that it is required to exclusively make payment to the party demanding payment from it (unreal joint creditors, Section 428 sentence 1 of the German Civil Code). To this end, the user only needs to follow the instructions on the XING Websites.
+*   The user’s contact person for all questions regarding its membership or the XING Websites is exclusively XING AG. The contact details can be found on the XING Websites.
 
   
-4\. Obligations of the User
+When a user opts for a non-paid membership or chooses to pay for its Premium membership with a payment method other than MasterCard or Visa Card, only XING AG becomes a party to the contract (in this case the name “XING” in these GTC refers exclusively to XING AG). The special provisions regarding the joint and several liability and joint creditors in case of payment by MasterCard or Visa Card do not apply.  
+As soon as the user has chosen a payment method for its Premium membership, it will receive information stating the parties to the contract as well as details as to which party will provide the contractual service.    
+7\. Term, termination of contract, sanctions, reimbursement of advance payments
 
-**4.1** The User is obliged,
+**General**
 
-**4.1.1** To provide only true and non-misleading statements in the User profile and in communications with other users, and to refrain from using any pseudonyms or pen names.
+**7.1** Unless specifically precluded by separate terms and conditions regarding the term and termination of individual applications or XING memberships, the contractual relationship may be terminated by either party at any time.
 
-**4.1.2** To post on the XING Websites only photographs of the User in which the User can be clearly and plainly recognized. The User warrants and represents that the public display of the photographs delivered by the User to the XING Websites is not prohibited. The User shall not upload any photographs or images of any other person than of the User, or of non-existent persons or other beings (such as animals, imaginary creatures, etc.).
+**Unpaid membership**
 
-Group logos that contain company logos are not permitted. Enterprise Groups are exempt from this rule, however.
+**7.2** XING and the user may terminate free membership at any time without cause. In order to protect the user from unauthorised deletion of its user profile by third parties, XING may perform an identity check upon termination, e.g. by requesting the username and an e-mail address registered on the XING Websites.
 
-**4.1.3** To comply with all applicable legislation, and respect all third-party rights. In Particular, the User shall not
+**Premium membership**
 
-Use any insulting or defamatory contents, regardless of whether said contents are directed at another user or XING personnel or other companies
+**7.3** Premium membership shall run for the initial term selected by the user during the upgrade process. After this term, the Premium membership will be renewed by a term of the same length as the initial term, unless terminated in due time by the user or XING. The user and XING may each terminate Premium membership without cause to the end of the initial term selected by the user during registration process, or to the end of any renewal period after said minimum term expires, by serving notice of three (3) weeks via the contact form, letter, fax or e-mail. If Premium membership has been terminated, the user is entitled to retain free membership until this membership is terminated, meaning that the additional and advanced Premium membership features will no longer be available.
 
-Use any pornographic or violence-glorifying materials or any contents that violate any applicable legislation for the protection of minors. or advertise or promote, offer or distribute any pornographic or violence-glorifying product or products which do not comply with any applicable legislation for the protection of minors
+**Cancellation and suspension for good cause**
 
-Unreasonably annoy (particularly with spam) any other user (cf. section 7 of the German Unfair Competition Act)
+**7.4** Even if separate terms and conditions regarding term and cancellation are in place, both parties are entitled to immediate extraordinary termination for good cause at any time. Extraordinary termination for good cause is defined as an event which makes it unacceptable for the terminating party to continue the agreement until the end of the termination period, taking into account all circumstances of the individual case and weighing up the interests of both parties. A good cause for XING includes any of the following events:
 
-Use without authorization any contents protected by law (e.g. by copyright, trademark, patent, utility patent, or design patent laws), or advertise, promote, offer or distribute any goods or services protected by law.
+*   If the user fails to comply with any applicable legal provisions
+*   If the user breaches a contractual obligation
+*   If the reputation of the services offered on the XING Websites is substantially impaired by the online presence of the user (if, for example, it is discovered after registration that the user has been convicted of a criminal offence, and if said conviction is known to other users)
+*   If the user promotes any communities or associations, or any of their methods or activities, which are under surveillance by authorities responsible for public safety or the protection of minors
+*   If the user causes harm to any other user(s) or
+*   If the user is a member of a religious sect or a denomination that is controversial in Germany.
 
-Use or promote any commercial practices considered unfair competition, including progressive customer acquisition practices (such as chain distribution systems, multilevel selling or pyramid sales).
+**7.5** In the event of a good cause in accordance with Section 7.4 and notwithstanding XING’s right to terminate the contract in accordance with Section 7.4, XING is entitled to
 
-**4.1.4** To refrain from engaging in any of the following annoying actions, even if they do not constitute a breach of any applicable laws:
+*   delete contents posted by the user
+*   block the user’s access to the services on the XING Websites or to individual applications, or to
+*   issue a warning.
 
-Sending chain letters
+**7.6** The user's right to claim reimbursement of any advance payments upon termination shall be excluded unless the user has terminated the agreement for good cause attributable to XING. In the following cases, the user shall not be entitled to claim reimbursement of any advance payments:
 
-Performing, advertising and promoting any form of structural distribution measures (such as multi-level marketing or multi-level network marketing) or
-
-Communicating in any insinuating or sexual way (suggestive or explicit).
-
-**4.2** The User is prohibited from the following:
-
-Employing any mechanisms, software or scripts when using XING Websites. However, the User may use the interfaces or software provided by XING within the scope of the services available on the XING Websites.
-
-Blocking, overwriting, modifying and copying of any contents of the XING Websites, unless said actions are necessary for the proper use of the services on the XING Websites. For example, the use of the "Robot/Crawler" search engine technology is not required for proper use of the services, and is therefore prohibited.
-
-Distributing or publicly disclosing the contents of any of the Websites of XING or any other user
-
-Performing any actions which may impair the operability of XING's infrastructure, particularly actions which may overload said infrastructure.
+*   If XING has terminated the contract for good cause
+*   If XING has blocked the user’s access in accordance with Section 7.5
 
    
-5\. Changes to the Services on XING Websites
+8\. Responsibility for the user’s content, data and/or other information, availability
 
-XING reserves the right to modify the services offered on the XING Websites and/or to offer services different from those offered at the time of the User's registration at any time, unless this is unreasonable for the User.
+**8.1** XING does not accept any responsibility for any content, data and/or information provided or made available by users of the XING Websites on any external websites linked to them. In particular, XING does not warrant that said data and/or information is true or accurate, nor that it fulfils or serves any particular purpose.
 
-   
-6\. Term and Termination of Membership, Reimbursement of Advance Payments
+**8.2** The user may report any activities of any other user which violate applicable laws and/or any of these contractual terms (including the use of pseudonyms or false identities).
 
-**6.1** The User may terminate the Free Membership at any time without cause. The User may deliver notice of termination using the contact form available on all XING Websites at any time. The termination notice shall include the User’s registered name and an e-mail address of the User registered on one of the XING Websites.
+**8.3** XING is not obliged to prohibit third parties from saving data or content that is or was publicly available pursuant to the GTC, XING Privacy Policy or user settings.
 
-**6.2** Premium Membership shall run for the period selected by the user when purchasing the membership. After this term, the membership will be extended by a term of the same length as the original term, unless terminated in due time by the User or XING. The User and XING may each terminate without cause Premium membership to the end of the initial term chosen by the User in the course of the registration process, or to the end of any renewal period after said minimum term expires, by giving notice of fourteen (14) business days. The User may deliver notice of termination using the contact form available on all XING Websites. Furthermore, the User may deliver termination by sending a fax or letter to XING. The termination notice shall include the username of the User and an e-mail address of the User registered on the XING Websites. If Premium Membership has been terminated, the User is entitled to retain a Free Membership until this membership is terminated. The provisions of this section 6.2 shall not affect the right of both parties to terminate the agreement for good cause.
+**8.4** XING merely provides the user with a platform and is not involved in the content of communication between users. This does not apply if XING moderates a group. If users enter into agreements with one another via XING Websites, XING shall not be a contracting party to said agreements. Users are solely responsible for the execution and/or fulfilment of agreements they enter into with one another. XING shall not be liable for breaches of duty in relation to agreements entered into between users.
 
-**6.3** A good cause is defined as an event which makes it unacceptable for XING to continue the agreement to the end of the termination period, taking into account all circumstances of the individual case and weighing the interests of XING against the User's. A good cause includes any the following events:
-
-If the User fails to comply with any applicable legal provisions
-
-If the User breaches a contractual obligation, in particular an obligation set forth in sections 2 and 4 of these GTC
-
-If the reputation of the services offered on the XING Websites is substantially impaired by the online presence of the User (if, for example, it is discovered after registration that the User has been convicted of a criminal offence, and if said conviction is known to other users);
-
-If the User promotes any communities or associations (or any of their methods or activities) which are under surveillance by authorities responsible for public safety or the protection of minors, or;
-
-If the User causes harm to any other user(s)
-
-If the User is a member of a religious sect or a denomination that is controversial in Germany.
-
-**6.4** In the event of a good cause in accordance with section 6.3 and notwithstanding XING's right to terminate the contract in accordance with section 6.3, XING is entitled to:
-
-Delete the contents posted by the User
-
-Issue a warning, or
-
-Block the User's access to the services on the XING Websites.
-
-**6.5** In the following cases, the User shall not be entitled to claim reimbursement of any advance payments:
-
-If XING has terminated the contract for good cause pursuant to section 6.3,
-
-If XING has blocked the User’s access in accordance with section 6.4, or
-
-If the User has terminated the agreement. However, the User's right to claim reimbursement of any advance payments shall not be excluded in this case if the User has terminated the agreement for a good cause attributable to XING.
-
-   
-7\. Responsibility for the User’s Content, Data or other Information
-
-**7.1** XING does not make any warranties or representations regarding any data and/or information provided or made available by any user on any of the XING Websites or on any external websites linked to them. In particular, XING does not warrant or represent that said data and/or information is true or accurate, or that it fulfills or serves any particular purpose.
-
-**7.2** The User may report any activities of any other user which violate applicable laws and/or any of the terms and conditions of these GTC (including the use of pseudonyms or false identities) using the contact form available at all XING Websites.
-
-   
-8\. Customer Service/Support
-
-Queries regarding agreement with XING or regarding XING Services can be sent by the customer to XING using the contact form available at all times on all XING Websites, or by sending a fax or letter.
+**8.5** The user acknowledges and agrees that it is technically impossible to achieve 100% availability of the XING Websites. XING shall nonetheless endeavour to keep XING Websites available without interruption. Events related to maintenance, security or capacity requirements, and/or events beyond XING’s control (e.g. disruptions to public communications networks, power failures, etc.), may result in malfunctions of or temporary interruptions to the service provided on XING Websites.
 
    
 9\. Liability of XING
 
-Whatever the legal grounds, liability for damage claims based only on ordinary negligence against XING (including its vicarious agents) shall exist only if XING breaches a basic/cardinal obligation under this agreement. A cardinal obligation is an obligation the User can expect to be met, and which fulfillment is a prerequisite to the ordinary execution of the contract. In this event, the amount of claims are limited to typical and foreseeable damages.
+**9.1** XING shall be liable without limitation for damages resulting from injury to life, limb or health which occur due to a breach of duty by XING or one of its legal representatives or vicarious agents. XING shall also be liable without limitation for damages owing to a lack of a characteristic warranted by XING or due to malicious conduct by XING. In addition, XING shall be liable without limitation for damages due to intent or gross negligence by XING or one of its legal representatives or vicarious agents.
 
-Limits shall not apply to the extent damages are covered by XING's business liability insurance, provided the insurance company has effected payment to XING. XING undertakes to maintain the insurance coverage existing at the time this agreement is concluded.
+**9.2** Apart from the cases set out in sections 9.1 and 9.3, XING’s liability shall be limited to typical foreseeable contractual damages in the event of a breach of any of its cardinal contractual duties due to slight negligence. Cardinal contractual duties are an abstract description of those obligations whose fulfilment is indispensable for the proper implementation of an agreement and on whose fulfilment the contracting parties can usually rely. Any other liability on the part of XING is excluded.
 
-This shall not affect personal injury and property damage claims based on the German Product Liability Act. Furthermore, the above liability exclusions and limitations shall not apply in the event of the assumption of express guarantees by XING or its vicarious agents, or given the lack of promised features.
-
-   
-10\. Indemnity
-
-**10.1** The User shall indemnify and exempt XING from all actions, including damage claims, asserted by other users or third parties against XING resulting from an infringement of their rights by the contents posted by the User on XING Websites. Furthermore, the User shall indemnify and exempt XING from all actions, including damage claims, asserted by other users or third parties against XING resulting from an infringement of their rights regarding the use of the services on XING Websites by the User. The User assumes all reasonable costs XING incurs due to an infringement of third party rights, including all reasonable legal defense costs. All other rights, including damage claims by XING, are hereby unaffected. The User has the right to prove that XING incurred lesser charges than claims made.
-
-The aforementioned obligations shall not apply to the extent the User is not responsible for the infringement.
-
-**10.2** In the event the contents posted by the User infringes any rights of any third party, the User shall, at its own expense and at XING's discretion, either obtain the right to use said contents or render said contents free of any infringement. In the event the User infringes third-party rights when using the services of XING Websites, the User shall discontinue such use that violates these General Terms and Conditions and the law, if so requested by XING.
+**9.3** Liability pursuant to the German Product Liability Act shall remain unaffected.
 
    
-11\. Data Protection
+10\. Data protection
 
-XING recognizes that any data provided by the User to XING is extremely important to the User, and XING shall therefore be particularly sensitive in handling such data. XING shall comply with all applicable legal provisions regarding data protection (German Data Protection Laws, European Data Protection Directives and any other applicable data protection legislation). In particular, XING shall not provide or otherwise disclose any personal data of the User to any third party without authorization. Details on XING's treatment of the User's data are set forth in the Data Protection Policy of XING accessible from each of the XING Websites.
+**10.1** Personal data is only collected, processed and/or used if the user grants consent to do so or if permitted by law. XING uses personal data to the extent permitted by law, in particular to fulfil its contractual obligations vis-à-vis users. XING provides the user with a range of customised features, i.e. XING serves the user certain information, offers, recommendations and services, and promotes interaction within the user’s network based on collected data. In order to render these services, XING needs to process and use the user’s personal data.
+
+**10.2** XING provides users with the option of sending their personal data, in whole or in part, to other users, or to prevent other users from viewing their data. Such data is sent at the user’s own risk.
 
    
-12\. Contractual Amendments, Price Changes, Final Provisions
+11\. Applicable law, place of jurisdiction, miscellaneous
 
-**12.1** XING reserves the right to amend these GTC at any time, without giving reasons, unless an amendment is unreasonable to the User. XING shall give due notice of any amendments of these GTC to the User. If the User does not object to the applicability of the revised GTC within six (6) weeks after receipt of said notice, the amended GTC shall be deemed to be accepted by the User. XING shall inform the User about the User's right to object and of the relevance of the objection deadline in said notice.
+**11.1** XING is permitted to commission sub-contractors, but remains responsible for fulfilling its duties.
 
-**12.2** XING reserves the right to adequately increase the price of Premium Membership at most once per calendar year with effect from the start of a new renewal period following either the minimum usage period or the respective current renewal period. In such cases, XING will notify users accordingly at least six (6) weeks before the end of the minimum usage period or the respective current renewal period. If the User does not consent to this price increase, he or she can revoke it via the contact form, letter, fax or e-mail within three (3) weeks. Revoking the price increase is equivalent to the User cancelling his or her Premium Membership as of the end of his or her current minimum usage period.
+**11.2** XING is permitted to transfer rights and duties to third parties, in whole or in part.
 
-**12.3** Unless otherwise stated in these GTC, the User may submit all notices to XING using the contact form provided on each of the XING Websites, or by letter or fax. XING may send notices to the User by e-mail, fax or post to the addresses given in the User’s current contact data in his or her user account.
+**11.3** Unless revoked by the user, the user agrees that XING may transfer the contracts, in whole or in part, with users who registered with a Swiss address, to XING Switzerland GmbH, Enetriederstrasse 22, 6060 Sarnen, Switzerland, to facilitate billing in the user’s local currency.
 
-**12.4** If any provision of these GTC is, for any reason, invalid and/or unenforceable, the remaining provisions shall continue to be valid and enforceable to the fullest extent permitted by law.
+**11.4** Unless otherwise governed by these GTC, XING may send notices to the user by e-mail, fax or letter. XING may also send declarations to the user’s XING inbox which forms an integral part of the user’s XING membership.
 
-**12.5** The place of performance under these GTC shall be XING's main place of business.
+**11.5** The place of performance under these GTC shall be XING AG's main place of business.
 
-**12.6** Place of jurisdiction for merchants within the scope of the German Commercial Code (HGB) shall be the main place of business of XING.
+**11.6** Place of jurisdiction for merchants within the scope of the German Commercial Code (HGB) shall be the main place of business of XING AG.
 
-**12.7** These GTC and the contractual relationship shall be governed by German Law, excluding international private law and the provisions of the United Nations Convention on Contracts for the International Sale of Goods that have been adopted by German Law.
+**11.7** These GTC and the contractual relationship shall be governed by German law, excluding international private law and the provisions of the United Nations Convention on Contracts for the International Sale of Goods that have been adopted by German law.
+
+**11.8** These GTC are available in English, German, French and Spanish. In the event of any contradiction between the different language versions of these GTC, the German version shall take precedence.
+
+   
+B. Additional terms for using the events platform
+
+On its events platform, XING provides its users with the opportunity to plan, organise and advertise private or commercial events, meetings, celebrations, get-togethers, conferences, virtual events, etc. (hereinafter referred to as **"events"**), to register people for events, and to sell tickets and other products and services and to have them billed by XING (users who organise events shall hereinafter be referred to as **"organiser"**). XING may also offer organisers other related services.
+
+Conversely, XING provides its users with the opportunity to attend such events and purchase tickets and other related products and services (participating users are hereinafter referred to as **"participant"**).
+
+XING reserves the right to charge fees for certain services in connection with the events platform.
+
+These additional terms and conditions for the use of the events platform supplement the General Terms and Conditions for using the XING service.
+
+   
+1\. Conditions of use, conclusion of contract and warranties upon conclusion of contract
+
+**1.1** The contractual obligation pertaining to events and buying/selling tickets is only entered into between the organiser and the participants. In this regard, XING acts solely as a commercial representative or agent acting on behalf of and for the account of the organiser and processes the purchase agreement on the organiser’s behalf. For this reason, XING excludes all liability should the organiser go into administration or if an event is cancelled.
+
+**1.2** Information about the respective event, number of available tickets, ticket prices and payment methods is based entirely on the settings adopted by the respective organiser when posting an event on the XING Website. XING has absolutely no influence over these settings, and the organiser is responsible for ensuring that the settings used are correct.
+
+**1.3** The organiser may implement its own additional terms and conditions for an event it organises. XING has absolutely no influence in that regard.
+
+**1.4** An uploaded event that offers tickets, states the number of available tickets, ticket prices, and payment methods constitutes an offer to conclude a purchase agreement. The participant enters into a purchase agreement by clicking on the respective button on the ticket order form. Valid acceptance of the offer by participants is contingent upon their completing all of the mandatory fields on the ticket order form. Immediately after entering into a purchase agreement, the participant shall receive an e-mail to confirm conclusion of the purchase agreement. The participant is obliged to inform XING if it does not receive this confirmation e-mail at all or in good time.
+
+**1.5** XING is permitted to cancel a participant’s order (unilateral right of cancellation) if the participant breaches the terms of the event stipulated in advance by the organiser or XING, or if the participant attempts to circumvent said terms. A declaration of cancellation may also take place implicitly by means of crediting the paid fees. Section 350 BGB does not apply.
+
+**1.6** The organiser grants XING permission to only send invoices to participants in electronic form.
+
+   
+2\. Right of cancellation for consumers
+
+Right of cancellation
+
+You may cancel your contractual agreement with XING in writing (e.g. by letter, fax or e-mail) within fourteen (14) days without stating a reason. The two-week period begins upon receipt of these instructions, but not before the contract has been executed, and also not prior to fulfilment of our informational duties as per Article 246 Section 2 in connection with Section 1 (1 and 2) EGBGB, as well as our duties as per Section 312g (1) line 1 BGB in connection with Article 246 Section 3 EGBGB. The contract can be cancelled by sending timely notification to:
+
+XING Events GmbH  
+Sandstr. 33  
+80335 Munich  
+Germany  
+Fax: +49 89 552 73 58 10  
+E-mail: info@xing-events.com
+
+Consequences of cancellation
+
+In the event of a valid contract termination, services and fees provided by both parties are to be returned, and any economic advantages gained (e.g. interest) are to be repaid. If you are not able to return the services and utilisation (exercised benefits) rendered fully or in part, or only in a lesser form, you are obliged to reimburse us for the value lost. This can mean that you are required to fulfil the contractual payment obligations for the time period until cancellation. Obligations to reimburse payments must be fulfilled within 30 days. This period begins for you when you send your contract termination, for us when we receive it.
+
+Additional information:
+
+Your right of cancellation lapses before the end of the right of cancellation period if the contract has been completely fulfilled to the satisfaction of both parties before you exercise your right of cancellation.
+
+\- End of right of cancellation -
+
+Exclusion of right of cancellation:
+
+The right of cancellation does not exist if, when entering into a legal transaction, you act in exercise of your trade, business or profession and are therefore deemed to be an entrepreneur (Section 14 BGB).
+
+The right of cancellation vis-à-vis XING does not apply to agreements you enter into with third parties, i.e. where XING is not legally involved. Any such rights of cancellation may only be brought against the respective third party, which is why there is no right of cancellation vis-à-vis XING when purchasing tickets on the events platform.
+
+Other additional information:
+
+You expressly agree that we will start to render the service before the end of the cancellation period.
+
+You are required to pay the fees agreed for services we render up until the time you submit a cancellation.
+
+   
+3\. Obligations of the user and special provisions for users
+
+**Terms for participants**
+
+**3.1** Ticket delivery, loss and complaints
+
+(a) Immediately after receipt of payment or after ordering (only when buying tickets on account), XING will send a purchased ticket to the physical or e-mail address the participant entered during the order process unless an alternative option was agreed (e.g. ticket collection at the venue).
+
+(b) The participant is responsible for checking that the received tickets are correct, and for arranging any amendments by XING in good time before the event takes place.
+
+(c) The participant may request electronic tickets be sent again at any time.
+
+(d) XING shall not replace any tickets sent to the participant by post which the participant has lost or destroyed.
+
+**3.2** Return of tickets, reimbursement of purchase price
+
+(a) If an event is cancelled or postponed, the participant’s right to return a purchased ticket depends on the law as well as any agreements entered into between the participant and the organiser.
+
+(b) If the participant is entitled to return a ticket, XING shall reimburse the participant for the ticket price agreed on between the participant and the organiser (in particular any applicable cancellation fees) within fourteen (14) days of receipt of the returned ticket should XING not have already reimbursed the organiser for the ticket fees. If XING has already reimbursed the organiser for the ticket fees, the participant cannot demand a reimbursement from XING.
+
+**Terms for organisers**
+
+**3.3** General requirements
+
+(a) The organiser is obliged to correctly and sufficiently inform participants with regard to any cancellation or return rights. The organiser is obliged to provide terms and conditions should it be legally required to do so.
+
+(b) If an event is cancelled for which tickets are or were sold, or if the time, date, venue or other major factors were amended, the organiser shall inform XING about said amendments immediately after gaining knowledge thereof.
+
+(c) The organiser assures XING that (i) there is no agreement or other arrangement in place between the organiser and a venue, nor with the promoter or operator of a venue, nor with a third party which can limit or prevent the organiser from procuring the events platform services as defined by these GTC. (ii) upon conclusion of this agreement, the organiser is permitted and authorised to commission XING with advertising and selling tickets as defined by these GTC. (iii) the organiser is entitled to hold or advertise the event offered on the XING Websites. and (iv) the organiser is not aware of any reason preventing an event from being held. Upon request, the organiser is obliged to prove to XING that it has complied and complies with the assurances in this section.
+
+(d) For the term of this agreement, the organiser commissions and authorises XING, acting as representative on behalf of and for the account of the organiser, to publicly sell tickets to events which the organiser organises, plans or offers in any other way via the XING Websites, and to handle payment transactions with participants and/or their respective credit institutions, and to send tickets to participants.
+
+(e) The organiser is responsible for paying the VAT or any other taxes arising from ticket sales.
+
+**3.4** Ticket prices and fees
+
+(a) The organiser is at liberty to determine the base price for tickets. The organiser is entitled to receive the base price if the fees set out in Sections 3.4 (b) to 3.4 (f) are added to the base price and charged to the participants. When selecting ticket prices, the organiser can choose whether these fees should be added to the base price. This only applies to the indicated ticket price as the organiser is always charged these fees.
+
+(b) XING shall receive a fee (**“ticketing fee”**) from the organiser based on the current valid price list for handling the ticket payment process and for the organiser’s use of the XING Websites. This ticketing fee shall also be due if tickets are collected and paid for at the venue.
+
+(c) If XING offers to send tickets by post and the organiser accepts this offer, XING shall receive a fee (“delivery fee”) from the organiser for sending tickets by post. The delivery fee is based on the current valid price list.
+
+(d) Other fees based on the current valid price list shall, in particular, include the sale and delivery of merchandising, supplementary products and services, and in the event that tickets are to be refunded.
+
+(e) If an event is not held for reasons for which XING is not responsible, the fees for the services rendered by XING shall still be due.
+
+(f) If any fees for services rendered by XING do not appear in the price list, they shall be listed on the XING Websites upon use of the respective services. Unless governed otherwise, the abovementioned fees shall be subject to the current valid rate of VAT.
+
+**3.5** Refunds
+
+(a) If an event is cancelled or if tickets are legitimately returned by the participant due to some other change to the event, the organiser commissions XING to reimburse the participant for the amounts paid to acquire (an) event ticket(s), including any fees, within fourteen (14) days as stipulated in Section 3.4 (a). The organiser authorises XING to reimburse such amounts on behalf of and for the account of the organiser.
+
+(b) As set out in the current valid price list, the organiser shall also pay XING an additional cancellation fee per ticket for handling reimbursements as per Section 3.5 (a). Following the accounting process, the organiser shall receive a statement of due fees, at the latest however one (1) year after the originally planned event date. XING is permitted to provide interim statements, but is not obliged to do so. XING shall pay out to the organiser any reimbursements not claimed within one (1) year of the originally planned event date.
+
+(c) XING commits to handle a reversal on behalf of and for the account of the organiser if a ticket purchased via the XING Websites is cancelled should
+
+*   XING be legally obliged to do so, or
+*   should the organiser request or permit this.
+
+The organiser authorises XING to reimburse the ticket amounts paid by participants on behalf of and for the account of the organiser. As set out in the current valid price list, the organiser shall also pay XING an additional cancellation fee per ticket for handling reimbursements. After the accounting process, the organiser shall receive a statement of due fees, at the latest however one (1) year after the originally planned event date.
+
+**3.6** Protection against misuse and fraud
+
+(a) XING has a comprehensive security system in place that protects organisers from payment reversals, in particular with regard to tickets paid for by credit card. In exceptional cases, this fraud protection system may cause payments to be rejected by third-party payment providers/banks or the participant’s bank.
+
+(b) If there is any reason to suspect that the organiser is misusing the XING platform, XING reserves the right to deactivate the ticket sale function and prohibit the organiser from selling tickets. The following points constitute reasons to suspect that the organiser is misusing the XING platform:
+
+*   If it becomes known prior to the event that the event will not take place or at all or not as communicated to the participants
+*   If the event is purported to involve illegal or immoral activities
+*   If the reimbursement rate for the event is above average, or
+*   If information is available that implies that the organiser is not permitted to sell tickets for that particular event.
+
+If such a suspicion cannot be eliminated within thirty (30) days, XING reserves the right to reverse the transactions and reimburse participants for the amounts they paid for tickets.
+
+   
+4\. Fees, billing, invoicing, payment terms
+
+**Terms for organisers**
+
+**4.1** The organiser can choose which payment methods offered by XING (e.g. credit card, direct debit, advance payment, on account, PayPal) it would like to offer participants in order to collect funds via the XING platform. Based on the organiser’s selection, XING shall handle the collection of payments made by participants for tickets and manage collected funds in a separate account. The organiser hereby grants XING power of attorney to do so.
+
+**4.2** XING shall generally transfer the amounts collected in Section 4.1 less the fee to be paid to XING in Section 3.4 within fourteen (14) days of the event taking place. XING in particular reserves the right to deviate from this stipulation and retain event proceeds for longer periods of time if there is a suspicion of misuse. The amounts to be forwarded shall be transferred to the bank account the organiser entered on the XING Websites. Once said amounts have been transferred, XING shall be deemed to have fulfilled its contractual obligations. XING reserves the right to pay out amounts for recurring events before they are held. The organiser is not, however, entitled to demand this. XING shall not accept any liability for fees incurred due to payments being returned because the organiser supplied incorrect bank account details. To this end, XING reserves the right to bill the organiser for such fees. Transfers to account holders outside of the European Economic and Monetary Union (EMU) may be subject to currency conversion fluctuations and bank charges upon receipt of payment. The organiser shall bear the cost of such fluctuations and such charges, not XING.
+
+**4.3** The organiser is aware of the risk that participants are able to reverse payments with certain payment methods (e.g. direct debit or credit card) and that it bears sole responsibility for this risk. Reverse payments that occur following payment to the organiser as set out in Section 4.2 will be billed to the organiser plus a charge at the rate set out in the current valid price list.
+
+**4.4** The organiser is obliged to submit objections to invoices from XING as soon as possible, but no later than four (4) weeks of receipt of the invoice. Otherwise the invoice shall be deemed to have been accepted.
+
+**4.5** The organiser is aware that ticket invoice amounts may remain unpaid with certain payment methods (primarily on account and advance payment). The organiser bears this risk and is responsible for collecting such unpaid amounts.
+
+**Terms for participants**
+
+**4.6** Depending on the agreement reached between XING and the respective organiser, the fees for processing ticket sales shall be added on to the ticket price and listed separately during the ticket shop order process. The total purchase price may increase due to any supplementary products or services the participant has booked. Any charges or currency fluctuations that occur in connection with foreign transactions shall be borne by the participant. The ticket shop will state whether the ticket price is inclusive or exclusive of VAT.
+
+**4.7** The total purchase price is due for payment immediately upon receipt of the confirmation e-mail.
+
+   
+
+**4.8** XING will collect direct debit payments by serving advance notice of six (6) business days. This is in derogation to the regular advance notice of fourteen (14) calendar days.
+
+5\. Validity of the provisions of the General Terms and Conditions for using the XING service
+
+In any other respect, the GTC for use of the XING service shall apply (except for those stated in Section A.6.6 (“Special provisions regarding the payment methods offered by XING”)).
+
+   
+  
+C. Additional terms for using the employer review platform
+
+The employer review platform provides employees the opportunity to rate their employer on XING Websites.
+
+These additional terms for the use of the employer review platform supplement the General Terms and Conditions for using the XING service.
+
+   
+1\. Obligations of the user and special provisions for users
+
+**1.1** The user is obliged to
+
+(a) Accurately describe its employer and employment locations
+
+(b) Only submit a review if it currently works or has worked for the employer to be reviewed, or has applied for a vacancy with that employer
+
+(c) Refrain from submitting any untrue and/or unfounded reviews and/or statements about the employer, its employees or other relations pertaining to the employer
+
+(d) Refrain from naming any natural or legal persons
+
+(e) Refrain from adding any links to external content.
+
+**1.2** The user agrees that its employer review may be moved to other sections and parts of the XING Websites.
+
+**1.3** The user agrees that its employer review may be edited or shortened by XING.
+
+   
+2\. Validity of the provisions of the General Terms and Conditions for using the XING service
+
+In any other respect, the GTC for use of the XING service shall apply (except for those stated in Section A.6.6 (“Special provisions regarding the payment methods offered by XING”)).
