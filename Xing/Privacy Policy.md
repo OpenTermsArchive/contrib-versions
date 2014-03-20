@@ -12,13 +12,14 @@ The protection of your personal data is of utmost concern to XING.
 
 In these terms and conditions on data protection XING would like to inform you about how XING treats your personal data and how you can exchange this data with other users of XING.
 
-These terms and conditions supplement the General Terms and Conditions for using XING.
-
-Additional Privacy Policies apply to certain XING sections:
+Additional Privacy Policies apply to the following XING applications, which you can view on the application's respective website:
 
 *   XING applications
 *   XING Talent Manager
 *   XING AdCreator
+*   XING Events
+*   kununu(German only)
+*   Contaxt
 
 **1\. Basic Principles of XING for handling your Personal Data**
 
@@ -26,7 +27,7 @@ XING strictly adheres to the following basic principles in the protection of you
 
 *   XING shall collect, process and use your Personal Data in accordance with the laws and statutes on data protection of the Federal Republic of Germany and those of the European Union.
 *   XING shall use your Personal Data solely to provide you the XING Services on the Internet for which you have registered. XING will never pass your Personal Data on to any third party, neither for advertising, nor for marketing or for any other purposes without your consent.
-*   With the exception of some general information about your profession you alone decide which of the Personal Data you have made available to XING may be displayed by XING to other members of XING (cf. Section 3 of these Terms and Conditions on Data Protection).
+*   With the exception of some general information about your profession you alone decide which of the Personal Data you have made available to XING in your profile may be displayed by XING to other members of XING (cf. Section 3 of these Terms and Conditions on Data Protection).
 *   Persons not registered with XING may only view your Personal Data to the extent that you enable and allow them to do so (cf. Section 4).
 
 **2\. Definitions**
@@ -35,10 +36,11 @@ The following terms used in these Terms and Conditions on Data Protection shall 
 
 *   **"Personal Data"** shall mean all data and/or information about your profession or your person.
 *   **"XING Websites"** shall mean all websites on which XING provides the XING Services.
-*   **"XING Members"** shall mean all registered users of XING on the XING Websites.
+*   **"Social Network"** shall mean the contact and communication forums that belong to the applications of the XING service.
+*   **"Profile"** shall mean the XING Website where the Personal Data you have made available to XING is displayed in accordance with your specifications and your consent.
+*   **"XING Members"** shall mean all registered users with a visible profile in the Social Network.
 *   **"XING Services"** shall mean all registration based services provided by XING on the XING Websites.
 *   **"Registration Data"** shall mean the Personal Data you are obliged to make available to XING in the registration process for the XING Services (mandatory fields).
-*   **"Profile"** shall mean the XING Website where the Personal Data you have made available to XING is displayed in accordance with your specifications and your consent.
 
 **3\. What does XING know about you, what do you give XING and XING Members permission to do, and what happens with your Personal Data?**
 
@@ -51,7 +53,7 @@ In order for the XING Services to function, XING needs to collect and process ce
 
 Your password and/or your username are never visible to any XING Member at any time. XING shall never disclose or pass your password and/or your username on to any third party.
 
-Furthermore, you will need to fill out certain mandatory fields in the course of the registration process, such as:
+Furthermore, you will need to fill out certain mandatory fields in the course of creating a Profile, such as:
 
 *   Business e-mail account
 *   Business telephone number
@@ -63,7 +65,7 @@ Furthermore, you will need to fill out certain mandatory fields in the course of
 *   Industry
 *   Country, state and city of your company
 
-The following Personal Data from these mandatory fields is accessible to other XING Members without any restrictions:
+The following Personal Data from the Profile is accessible to other XING Members without any restrictions:
 
 *   First name, last name
 *   Professional status
@@ -72,17 +74,17 @@ The following Personal Data from these mandatory fields is accessible to other X
 *   Industry
 *   Country, state and city of your company
 
-With respect to the following mandatory Personal Data, you may choose in each individual case whether the data shall be displayed to a specific other XING Member or not:
+With respect to the following Personal Data in the Profile, you may choose in each individual case whether the data shall be displayed to a specific other XING Member or not:
 
 *   Business e-mail account
 *   Business telephone number
 *   Date of birth
 
-**3.2 Voluntary Data**
+**3.2 Voluntary Data in the Profile**
 
-If you wish, you may provide additional information about yourself apart from the mandatory data on a voluntary basis (hereinafter referred to as **"Voluntary Data"**), to allow other XING Members to get to know you better and possibly encourage them to choose you as an appropriate business contact. At the moment, you are able to choose from the following Voluntary Data, for example: your interests, your education, companies you have previously worked for, what you have to offer to other XING Members, what you are looking for from other XING Members, etc. You may also upload a photograph of yourself, if you wish.
+If you wish, you may add more information about yourself to your Profile on a voluntary basis (hereinafter referred to as **"Voluntary Data"**), to allow other XING Members to get to know you better and possibly encourage them to choose you as an appropriate business contact. At the moment, you are able to choose from the following Voluntary Data, for example: your interests, your education, companies you have previously worked for, what you have to offer to other XING Members, what you are looking for from other XING Members, etc. You may also upload a photograph of yourself, if you wish.
 
-The Voluntary Data you choose to provide to XING is accessible to all other XING Members, unless the data is particularly identified. With regard to such particularly identified data you may choose in each individual case if the data shall be displayed to a specific other XING Member.
+The Voluntary Data you choose to enter in your profile is accessible to all other XING Members. With some of the Voluntary Data you may choose in each individual case if the data shall be displayed to a specific other XING Member.
 
 You can revoke Voluntary Data at any time by deleting the data in question from your profile.
 
@@ -112,8 +114,6 @@ The following of your **personal statistics** are visible to all XING Members at
 
 On your Profile you will find a so-called **activity meter**. This meter indicates whether you use the XING Services regularly. However, it does not show any details about the way or the times you use the XING Services. The activity meter is intended as an indication for other XING Members to determine how often you use the XING Services so that the other XING Members can evaluate whether you will presumably react quickly to a request via the XING Services. You may choose to hide the activity meter at any time in your privacy settings under "Privacy" so that the activity meter is not visible to other XING Members.
 
-XING has provided a **guest book** on your Profile to invite other XING Members to leave a comment if they wish to do so. Entries in the guest book are visible to all other XING Members. XING has set your privacy settings under "Privacy" by default to the effect that a guest book is available and displayed to all XING Members on your Profile. You may change this setting at any time in your privacy settings under "Privacy", if you prefer not to have a guest book on your Profile.
-
 Other XING Members may send you **private messages** in order to establish contact with you. XING has set your privacy settings under "Privacy" by default so that all XING Members may send you private messages. You may restrict the ability of XING Members to send you private messages at any time to the effect that either no XING Members or only selected contacts may send you private messages, for example only the direct contacts of your contacts (i.e. second level contacts) or only third level or fourth level contacts.
 
 As you can see, XING gives you complete control over your own privacy at all times!
@@ -128,7 +128,7 @@ If you use any of XING's paid services, XING will collect and use your billing d
 
 **4\. Visibility of your Profile to Non-Members of XING**
 
-Under "Privacy" you can set the level of your privacy at any time. This means that you decide whether to increase your level of privacy or opt in favour of more visibility online, enabling more exposure of your profile for potential business partners. When you register, your default privacy settings rather promote the spirit of networking. The data contained in your profile is visible to non-members of XING and traceable by search engines on the Internet. This, however, does not include personal contact details such as e-mail addresses or phone numbers.
+Under "Privacy" you can set the level of your Profile's privacy at any time. This means that you decide whether to increase your level of privacy or opt in favour of more visibility online, enabling more exposure of your profile for potential business partners. When you register, your default privacy settings rather promote the spirit of networking. The data contained in your profile is visible to non-members of XING and traceable by search engines on the Internet. This, however, does not include personal contact details such as e-mail addresses or phone numbers.
 
 If you signed up to XING before 17.08.2007 the following regulation continues to apply:
 
@@ -152,7 +152,7 @@ Each event has one (1) or more hosts (organizers). The host decides for each eve
 
 **7\. API and data processing on behalf of users**
 
-XING provides the XING API to selected developers and companies ("API Partners") so that they can develop and manage applications that grant users of API Partner applications access to data and content beyond the XING platform while also allowing said users to integrate external content on the XING platform. The aim of integrating external applications is to make XING more appealing and useful to users. API stands for Application Programming Interface, meaning that the XING API is an interface provided by XING that allows API partners to integrate one or more applications on the XING platform provided they adhere to XING’s contractual terms. XING Members are required to provide their consent before using any of the applications.
+XING provides the XING API to selected developers and companies ("API Partners") so that they can develop and manage applications that grant users of API Partner applications access to data and content beyond the XING platform while also allowing said users to integrate external content on the XING platform. The aim of integrating external applications is to make XING more appealing and useful to XING Members. API stands for Application Programming Interface, meaning that the XING API is an interface provided by XING that allows API partners to integrate one or more applications on the XING platform provided they adhere to XING’s contractual terms. XING Members are required to provide their consent before using any of the applications.
 
 API Partners are required to register on XING and enter into an agreement with XING that governs both the rights and duties of both parties. The API Partners are in particular required to give their consent in terms of accessing, saving and using personal data. XING AG requires contractual agreements and has made technical provisions to prevent API Partners from potentially misusing personal data.
 
@@ -193,11 +193,9 @@ The XING Services offer various possibilities to search for particular XING Memb
 
 **11\. Newsletter, weekly status e-mails**
 
-XING regularly sends out newsletters or weekly status e-mails (collectively hereinafter referred to as the "newsletter(s)") to all XING Members. In these newsletters XING may inform you, among other things, about new features on XING, about your events in the upcoming week, and XING may also provide you with specific personal statistics from the respective past calendar week (i.e. the number of hits on your Profile, whether you have new contacts to be confirmed and/or new private messages, etc.).
+XING uses the electronic e-mail address(es) you entered to send you regular newsletters, status e-mails, advertising for similar products and services, and surveys for internal market research purposes (collectively hereinafter referred to as the "newsletter"), unless you object to such use. In these newsletters XING may inform you, among other things, about new features on XING, interesting contacts and certain personal statistics.
 
-Finally, XING may inform you about three (3) random XING Members who have visited your Profile in the past week. Of course, this may also apply to yourself vice versa, i.e. you may be one of those random XING Members with regard to another XING Member whose Profile you have visited in the past week.
-
-You may choose to unsubscribe from the newsletter at any time by changing you notification settings on XING or by sending an e-mail to the link provided at the end of each newsletter without costs arising by virtue thereof, other than transmission costs pursuant to the basic rates.
+You may choose to unsubscribe from the newsletter at any time by changing your notification settings on XING or by sending an e-mail to the link provided at the end of each newsletter without costs arising by virtue thereof, other than transmission costs pursuant to the basic rates.
 
 **12\. Cookies and pixels**
 
@@ -253,7 +251,7 @@ Each time you access a website from the XING Websites, XING will save the follow
 
 This log file will be stored by XING in the standardized "combined" log file format for the Apache web server. XING will not store your IP address once you leave the XING Websites. Except for legislation regarding the storage of data, Users’ IP addresses will be deleted or anonymized once they end their session on the XING Websites. Anonymization means that IP addresses are modified in such a way that specific personal and/or factual information cannot be attributed to a certain identified or identifiable person or can only be attributed by deploying a disproportionately large amount of time, effort and cost.
 
-XING uses the data from this log file in anonymous form without reference to your person for statistical purposes. In doing so, XING may analyze on which days and at which time the XING Websites are particularly frequented and how much data volume is created on the XING Websites. Furthermore, by using the log file, XING can identify defects on the XING Websites, such as defective hyperlinks or program defects, and thus continually improve the quality of the XING Websites. XING does not attribute the website demands stored in the log file to specific individual users. However, XING reserves the right to review the log files if XING has reasonable cause to believe that the member is using XING Services and/or XING Websites in breach of contractual agreements or the applicable legislation. In doing this, XING is protecting other XING Members, the safety of XING Members’ data, as well as XING Websites and the XING Services.
+XING uses the data from this log file in anonymous form without reference to your person for statistical purposes. In doing so, XING may analyze on which days and at which time the XING Websites are particularly frequented and how much data volume is created on the XING Websites. Furthermore, by using the log file, XING can identify defects on the XING Websites, such as defective hyperlinks or program defects, and thus continually improve the quality of the XING Websites. XING does not attribute the website demands stored in the log file to specific individual users. However, XING reserves the right to review the log files if XING has reasonable cause to believe that the member is using XING Services and/or XING Websites in breach of contractual agreements or the applicable legislation. In doing this, XING is protecting other XING Members and users, the safety of XING Members’ and users' data, as well as XING Websites and the XING Services.
 
 The "Mobile Handshake" function allows you to see if there are XING Members in your vicinity who are also using this function. It allows other XING Members to find you if you have the "Mobile Handshake" function activated. To do this, XING needs to determine your location for a short period of time. In doing so, XING saves your position (longitude and latitude) and the point in time at which you used the "Mobile Handshake" function in its server log file. This information is only stored while XING determines your location. Once this process has been completed, your data will be deleted or anonymized.
 
