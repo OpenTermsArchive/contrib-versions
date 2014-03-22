@@ -8,98 +8,98 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Old blog missing
+    *   by my\_life\_of\_poetic\_death
+    *   13 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Can I download my archived blog?
+    *   by anjhelaih
+    *   13 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   I cannot see my old blog
+    *   by Abby\_705
+    *   18 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   URGENT: Need to recover blogs ASAP for an appointment
     *   by xl0VEHATE
-    *   29 minutes ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   ARCHIVES
     *   by LHS\_couture05
-    *   1 hour ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Premium member
     *   by sherry12
-    *   7 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by dorelynn 4 hours ago)
+    *   1 (last comment by dorelynn 1 day ago)
 *   how can i restart my blog
     *   by fisyours
-    *   12 hours ago
+    *   1 day ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Where are my blogs?
     *   by I\_Love\_Manzuri
-    *   20 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Archive
     *   by TheWorthofaSoul
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   expired subscription =/
     *   by mlbncsga
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Cannot see my old blog
     *   \[Resolved\] by fcfdiary
+    *   5 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 2 days ago)
+*   CAN'T READ MY XANGA!!
+    *   \[Resolved\] by nolok
+    *   4 days ago
+    *   in Themes
+    *   0 votes
+    *   1 (last comment by eugenia 2 days ago)
+*   please help
+    *   \[Resolved\] by my\_corner\_korus
     *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   CAN'T READ MY XANGA!!
-    *   \[Resolved\] by nolok
-    *   3 days ago
-    *   in Themes
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   please help
-    *   \[Resolved\] by my\_corner\_korus
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Blog Archive
     *   \[Resolved\] by divine9
-    *   3 days ago
+    *   4 days ago
     *   in Miscellaenous
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Not all of my posts archived
     *   \[Resolved\] by bEnGaLSpIcE
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by eugenia 2 days ago)
-*   Why did my account expire, it's renewed annually
-    *   \[Resolved\] by FoodIowa
-    *   1 month ago
-    *   in Premium
-    *   0 votes
-    *   3 (last comment by eugenia 2 days ago)
-*   Old blog
-    *   \[Resolved\] by nisiz
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
-*   blog restoration
-    *   \[Resolved\] by octopusblue
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   3 (last comment by eugenia 3 days ago)
 
-1 2 3 ... 119 Next
+1 2 3 ... 120 Next
 
 Help Categories
 
