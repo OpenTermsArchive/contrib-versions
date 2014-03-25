@@ -149,7 +149,7 @@ HTML5 Local Storage: We use HTML5 local storage for frequency capping purposes a
 Copyright © 2012 Spotify AB or its affiliates. All rights reserved.
 
 Spotify USA Inc.,  
-45 W. 18th Street,  
+45 W. 18th Street  
 7th Floor  
 New York, NY 10011  
 USA
