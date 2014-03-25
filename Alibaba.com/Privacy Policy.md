@@ -1,4 +1,4 @@
-Hi
+Hi Menu
 
 *   My Alibaba
     *   Message Center
@@ -42,7 +42,11 @@ Hi
     *   For buyers
     *   For suppliers
 
-Alibaba.com or Post Buying Request Advanced Search
+*   About Alibaba Group
+
+Alibaba.com or Post Buying Request Save 40% off your time to get quotes
+
+Post Buying Request Advanced Search
 
 *   Homepage
 *   Safety &. Security
@@ -163,7 +167,7 @@ Connect with us: Facebook Twitter Youtube Linkedin Free APP: Available on the Ap
 
 Browse by:Manufacturers - Online Shopping - China Gold Suppliers - All Products - Countries - Importers - Customs Data - Buying Leads - China - India
 
-Alibaba Group | Alibaba.com International | Alibaba.com China | AliExpress | Taobao Marketplace | Tmall.com | Juhuasuan | eTao | Alimama | Alibaba Cloud Computing | Yun OS | HiChina | China Yahoo! | Alipay | Laiwang
+Alibaba Group | Alibaba.com International | Alibaba.com China | AliExpress | Taobao Marketplace | Tmall.com | Juhuasuan | eTao | Alimama | Alibaba Cloud Computing | Yun OS | HiChina | Alipay | Laiwang
 
   
 
