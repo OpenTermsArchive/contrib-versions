@@ -197,7 +197,7 @@ Thank you for reading our Terms. We hope you enjoy Spotify.
 Copyright © 2012 Spotify AB. All rights reserved.
 
 Spotify USA Inc.,  
-45 W. 18th Street,  
+45 W. 18th Street  
 7th Floor  
 New York, NY 10011  
 USA
