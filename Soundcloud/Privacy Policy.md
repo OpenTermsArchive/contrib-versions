@@ -44,7 +44,7 @@ Information provided by you
 
 You don’t need to provide us with any personal information in order to visit the Website. However, certain Services do require that you register for a SoundCloud® account and, by doing so, you will provide us with certain personal information:
 
-*   Essential Information: When you register any kind of SoundCloud® account, you will need to provide your email address and choose a password. In addition, if you register a premium account, you will also need to provide your real name, address and payment verification information.
+*   Essential Information: When you register any kind of SoundCloud® account, you will need to provide your email address, your month and year of birth, and choose a password. In addition, if you register a premium account, you will also need to provide your real name, address and payment verification information.
     
 *   Profile Information: You may choose, at your discretion, to provide additional information for your public profile on SoundCloud® – for example:
     
@@ -108,6 +108,8 @@ How we use your personal information
 We use the information that we collect about you for the following purposes:
 
 *   Your email address and password are used to identify you when you log into the Platform.
+    
+*   We use your month and year of birth to enable age restriction, to display appropriate content to you, and to perform analytics aimed at improving our products, services and technologies.
     
 *   Any additional information that you provide as part of your public profile, such as your real name, and links to your website and other social media profiles (but not your email address), will be published on your profile page. This information will be publicly accessible and may be viewed by anyone accessing the Website, or using our API or other Services. Please bear this in mind when considering whether to provide any additional information about yourself.
     
@@ -261,6 +263,10 @@ Don’t want to give us your information?
 
 If you decide that you do not want us to use your personal information in the manner described in the Privacy Policy (including our Cookies Policy), please do not use the Platform. If you have already registered an account, you can find out how to terminate or cancel your account here.
 
-**Last amended:**
+**Last amended:** 25 March 2014
 
-13 May 2013
+Link to prior versions
+
+You will find a link to prior versions of our Privacy Policy below.
+
+*   May 2013
