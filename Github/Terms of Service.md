@@ -109,7 +109,7 @@ G. General Conditions
     
 8.  Verbal, physical, written or other abuse (including threats of abuse or retribution) of any GitHub customer, employee, member, or officer will result in immediate account termination.
     
-9.  You understand that the technical processing and transmission of the Service, including your Content, may be transfered unencrypted and involve (a) transmissions over various networks. and (b) changes to conform and adapt to technical requirements of connecting networks or devices.
+9.  You understand that the technical processing and transmission of the Service, including your Content, may be transferred unencrypted and involve (a) transmissions over various networks. and (b) changes to conform and adapt to technical requirements of connecting networks or devices.
     
 10.  You must not upload, post, host, or transmit unsolicited email, SMSs, or "spam" messages.
     
