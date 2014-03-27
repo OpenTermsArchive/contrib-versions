@@ -77,7 +77,7 @@ The contract is concluded with XING AG, Dammtorstraße 29-32, 20354 Hamburg, Ger
 
 **Social network**
 
-**1.5** The social network provides the user with various options to present itself with a personal user profile and to present its activities on XING Websites and, where applicable, outside of the XING Websites, and to interact with other users and, where applicable, with third parties in real time.
+**1.5** The social network provides the user with various options to present themselves with a personal user profile and to present its activities on XING Websites and, where applicable, outside of the XING Websites, and to interact with other users and, where applicable, with third parties in real time.
 
 **1.6** A user who registers with the social network initially becomes a free member of the social network (hereinafter referred to as **“free membership”**).
 
