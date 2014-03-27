@@ -25,7 +25,7 @@ Skip to contentZillow Real Estate &amp. Homes for Sale
     *   Houses For Rent
     *   Rental IQ Quiz
     
-    Renter Resources
+    Renter's Guide
     
     Post a Rental For Free
     
@@ -119,9 +119,7 @@ Skip to contentZillow Real Estate &amp. Homes for Sale
     *   Real Estate Advertising
     *   Widgets, Badges &. Data
     *   Zillow Visuals
-    
-    Zillow Research
-    
+    *   Zillow Research
     *   Zillow TV Spots
     *   Help
     
