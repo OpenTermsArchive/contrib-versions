@@ -8,9 +8,63 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   No link for archives?
+    *   by phoenixphire
+    *   59 minutes ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   How can I read my old posts?
+    *   by Linzomatic
+    *   6 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Can't find my old posts and pictures
+    *   by tallarico00
+    *   10 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   WordPress App (iPhone) for Xanga users
+    *   by kangen
+    *   12 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   My blog is gone, and I can't start writing my blog, how can it be retreive?.
+    *   \[Resolved\] by cutehandy23
+    *   5 months ago
+    *   in Data Migration
+    *   0 votes
+    *   3 (last comment by kangen 12 hours ago)
+*   What is expired blogger? I am NOT dead
+    *   by w\_x\_y\_z
+    *   18 hours ago
+    *   in Passwords &. Sign-In
+    *   0 votes
+    *   0
+*   when I click upgrade to Xanga 2.0...
+    *   by MimiLiu
+    *   20 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Fix my blog please?
+    *   by Leakana
+    *   22 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   How can I restart blogging in Xanga
+    *   by fruitmonster
+    *   23 hours ago
+    *   in Adding &. Editing Entries
+    *   0 votes
+    *   0
 *   i cant shut down my xanga
     *   by disney\_marie1707
-    *   10 hours ago
+    *   1 day ago
     *   in Themes
     *   0 votes
     *   0
@@ -19,87 +73,33 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   6 months ago
     *   in Miscellaenous
     *   0 votes
-    *   38 (last comment by KR1SpykremeDnut 1 day ago)
+    *   38 (last comment by KR1SpykremeDnut 2 days ago)
 *   deactivate account
     *   by elfearlkuai
     *   6 months ago
     *   in Miscellaenous
     *   0 votes
-    *   1 (last comment by KR1SpykremeDnut 1 day ago)
+    *   1 (last comment by KR1SpykremeDnut 2 days ago)
 *   forgot other account info
     *   by Heart\_Pro
-    *   1 day ago
+    *   2 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   how can i restart my blog
     *   \[Resolved\] by fisyours
-    *   6 days ago
+    *   1 week ago
     *   in Adding &. Editing Entries
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Where are my blogs?
     *   \[Resolved\] by I\_Love\_Manzuri
-    *   6 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
-*   Old Archive
-    *   \[Resolved\] by TheWorthofaSoul
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
-*   Can I download my archived blog?
-    *   \[Resolved\] by anjhelaih
-    *   5 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
-*   mobile viewing and stats
-    *   by GrandFortuna
-    *   2 days ago
-    *   in Miscellaenous
-    *   0 votes
-    *   0
-*   lost password
-    *   by GrandFortuna
-    *   2 days ago
-    *   in Passwords &. Sign-In
-    *   0 votes
-    *   0
-*   Want to see my old blog
-    *   by hellotorie
-    *   2 days ago
-    *   in Adding &. Editing Entries
-    *   0 votes
-    *   0
-*   Can't download archive
-    *   by memories\_meanxeverything
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   expired subscription =/
-    *   by mlbncsga
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by Avenueoflight 3 days ago)
-*   I cannot open my old xanga
-    *   by dic\_0518
-    *   3 days ago
-    *   in Personal URLs
-    *   0 votes
-    *   0
-*   I cannot see my blog:(
-    *   by butterflywithtears
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
+    *   1 (last comment by eugenia 3 days ago)
 
-1 2 3 ... 120 Next
+1 2 3 ... 121 Next
 
 Help Categories
 
