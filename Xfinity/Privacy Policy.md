@@ -4,45 +4,45 @@ Your complete guide to the 2012 Summer Olympics. Every minute. Every Medal. Ever
 
 Your XFINITY Connect session has timed out due to inactivity. Click here to go back close
 
-XFINITY
+*   Skip to content
+*   Skip Logo Links
+*   XFINITY
+*   XFINITY
 
+*   Skip Navigation Links
+*   Shop
+*   Shop/Upgrade
+*   Shop/Upgrade
+*   My Account
+*   My Account
+*   Suppot
+*   Support
+*   xfinity.com
+
+*   Skip Personal Links
 *   TV
 *   Email
-*   Voicemail
-*   Home Security
-*   More
-    
-    *   Money
-    *   News
-    *   Sports
-    *   Jobs
-    *   Autos
-    *   Travel
-    *   Real Estate
-    *   Lifestyle
-    *   Entertainment
-    
-    *   TV Listings
-    *   Watchlist
-    *   TV Shows
-    *   Movies
-    *   Streampix
-    *   Live TV
-    *   DVR Manager
-    *   Sports on TV
-    *   Even more...
-
-*   Shop/Upgrade
-*   My Account
-*   Support
 *   Sign In
+*   Hello, Guest Not you? Sign Out
+*   Comcast Business
+*   Comcast Business
 
+More
+
+*   Shop
+*   Shop/Upgrade
 *   Shop/Upgrade
 *   My Account
+*   My Account
+*   Suppot
 *   Support
-*   Sign Out
+*   xfinity.com
+*   TV
+*   Email
+*   Comcast Business
+*   Comcast Business
 
-XFINITY Privacy Policy This is an archived privacy policy. It is not current. For the current policy, please click here. Privacy Policy Archive (Previous Versions) **Effective October 7, 2011 Learn More**Web Services Privacy Policy  
+Â  Â  Â  XFINITY Privacy Policy This is an archived privacy policy. It is not current. For the current policy, please click here. Privacy Policy Archive (Previous Versions) **Effective October 7, 2011 Learn More**Web Services Privacy Policy  
 October 7, 2011 Summary (Jump to Full Policy) What the Privacy Policy does
 
 The Web Services Privacy Policy describes the information Comcast collects about you, how Comcast uses that information, and how Comcast protects your privacy when you use the Websites and the services and software we offer here: www.comcast.net, customer.comcast.com, www.tunerfish.com, and www.plaxo.com.
@@ -330,8 +330,9 @@ You can find customer support and help information at http://customer.comcast.co
 
 Revised and Effective: October 7, 2011
 
-XFINITY
+Skip Footer Navigation Links XFINITY
 
+*   Skip XFINITY Links
 *   Dating
 *   Entertainment
 *   Games
@@ -341,8 +342,9 @@ XFINITY
 *   Sports
 *   Travel
 
-XFINITY TV
+Â  XFINITY TV
 
+*   Skip XFINITY TV Links
 *   Mobile Apps
 *   Parental Controls
 *   Watchlist
@@ -352,8 +354,9 @@ XFINITY TV
 *   XFINITY On Demandâ¢
 *   Send to TV BETA
 
-XFINITY CONNECT
+Â  XFINITY CONNECT
 
+*   Skip XFINITY CONNECT Links
 *   Address Book
 *   Calendar
 *   Create New Email Address
@@ -362,8 +365,9 @@ XFINITY CONNECT
 *   Preferences
 *   Voicemail
 
-XFINITY HOME
+Â  XFINITY HOME
 
+*   Skip XFINITY HOME Links
 *   Shop Services
 *   Equipment Store
 *   Subscriber Web Portal
@@ -371,8 +375,9 @@ XFINITY HOME
 *   Help &. Support
 *   Customer Forums
 
-ADD A CHANNEL
+Â  ADD A CHANNEL
 
+*   Skip ADD A CHANNEL Links
 *   HBO
 *   Showtime
 *   Starz
@@ -380,8 +385,9 @@ ADD A CHANNEL
 *   Streampix
 *   View All
 
-SUPPORT &. SERVICES
+Â  SUPPORT &. SERVICES
 
+*   Skip SUPPORT &. SERVICES Links
 *   Comcast Business
 *   Comcast Careers
 *   Constant Guard
@@ -392,8 +398,9 @@ SUPPORT &. SERVICES
 *   Support
 *   \[+\] Submit Feedback
 
-XFINITY © 2014 Comcast
+Â  XFINITY Â© 2014 Comcast
 
+*   Skip Copyright Links
 *   Privacy Policy
 *   Ad Choices
 *   Terms of Service
@@ -401,4 +408,4 @@ XFINITY © 2014 Comcast
 *   Comcast Corporation
 *   Contact Us
 
-Comcast
+Comcast Â  Â
