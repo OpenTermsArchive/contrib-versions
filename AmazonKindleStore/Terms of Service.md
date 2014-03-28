@@ -1,4 +1,4 @@
-Kindle Store Terms of Use
+Learn more about the Amazon Kindle Store Terms of Use. Kindle Store Terms of Use
 
 **Last updated: September 6, 2012**
 
@@ -49,5 +49,3 @@ For the purposes of this Agreement:
 **Contact Information.** For help with your Kindle, a Reading Application, the Service, the Kindle Store, Kindle Content, or resolving other issues, please contact Customer Service by e-mail: kindle-cs-support@amazon.com or by phone at 1-866-321-8851 (toll free) when dialing in the US or at 1-206-266-0927 (charges will apply) when dialing outside the US.
 
 For communications concerning this Agreement, please contact Amazon by e-mail: kindleterms@amazon.com.
-
-Learn more about the Amazon Kindle Store Terms of Use.
