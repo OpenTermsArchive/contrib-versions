@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   No link for archives?
-    *   by phoenixphire
-    *   59 minutes ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 *   How can I read my old posts?
-    *   by Linzomatic
-    *   6 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Can't find my old posts and pictures
-    *   by tallarico00
-    *   10 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   WordPress App (iPhone) for Xanga users
-    *   by kangen
-    *   12 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   My blog is gone, and I can't start writing my blog, how can it be retreive?.
-    *   \[Resolved\] by cutehandy23
-    *   5 months ago
-    *   in Data Migration
-    *   0 votes
-    *   3 (last comment by kangen 12 hours ago)
-*   What is expired blogger? I am NOT dead
-    *   by w\_x\_y\_z
-    *   18 hours ago
-    *   in Passwords &. Sign-In
-    *   0 votes
-    *   0
-*   when I click upgrade to Xanga 2.0...
-    *   by MimiLiu
-    *   20 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Fix my blog please?
-    *   by Leakana
-    *   22 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   How can I restart blogging in Xanga
-    *   by fruitmonster
-    *   23 hours ago
-    *   in Adding &. Editing Entries
-    *   0 votes
-    *   0
-*   i cant shut down my xanga
-    *   by disney\_marie1707
+    *   \[Resolved\] by Linzomatic
     *   1 day ago
-    *   in Themes
+    *   in Data Migration
     *   0 votes
-    *   0
-*   Deleting My Account
-    *   \[Resolved\] by Omgwtf\_St
-    *   6 months ago
-    *   in Miscellaenous
+    *   1 (last comment by eugenia 2 hours ago)
+*   Can't find my old posts and pictures
+    *   \[Resolved\] by tallarico00
+    *   1 day ago
+    *   in Data Migration
     *   0 votes
-    *   38 (last comment by KR1SpykremeDnut 2 days ago)
-*   deactivate account
-    *   by elfearlkuai
-    *   6 months ago
-    *   in Miscellaenous
-    *   0 votes
-    *   1 (last comment by KR1SpykremeDnut 2 days ago)
-*   forgot other account info
-    *   by Heart\_Pro
-    *   2 days ago
+    *   1 (last comment by eugenia 2 hours ago)
+*   What is expired blogger? I am NOT dead
+    *   \[Resolved\] by w\_x\_y\_z
+    *   1 day ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   0
-*   how can i restart my blog
-    *   \[Resolved\] by fisyours
-    *   1 week ago
+    *   1 (last comment by eugenia 2 hours ago)
+*   How can I restart blogging in Xanga
+    *   \[Resolved\] by fruitmonster
+    *   1 day ago
     *   in Adding &. Editing Entries
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
-*   Where are my blogs?
-    *   \[Resolved\] by I\_Love\_Manzuri
+    *   1 (last comment by eugenia 2 hours ago)
+*   when I click upgrade to Xanga 2.0...
+    *   \[Resolved\] by MimiLiu
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 2 hours ago)
+*   Fix my blog please?
+    *   \[Resolved\] by Leakana
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 2 hours ago)
+*   forgot other account info
+    *   \[Resolved\] by Heart\_Pro
+    *   3 days ago
+    *   in Passwords &. Sign-In
+    *   0 votes
+    *   1 (last comment by eugenia 2 hours ago)
+*   lost password
+    *   \[Resolved\] by GrandFortuna
+    *   4 days ago
+    *   in Passwords &. Sign-In
+    *   0 votes
+    *   1 (last comment by eugenia 2 hours ago)
+*   expired subscription =/
+    *   \[Resolved\] by mlbncsga
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   2 (last comment by eugenia 2 hours ago)
+*   Want to see my old blog
+    *   \[Resolved\] by hellotorie
+    *   4 days ago
+    *   in Adding &. Editing Entries
+    *   0 votes
+    *   1 (last comment by eugenia 3 hours ago)
+*   Can't download archive
+    *   \[Resolved\] by memories\_meanxeverything
+    *   5 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 3 hours ago)
+*   I cannot open my old xanga
+    *   \[Resolved\] by dic\_0518
+    *   5 days ago
+    *   in Personal URLs
+    *   0 votes
+    *   1 (last comment by eugenia 3 hours ago)
+*   I cannot see my blog:(
+    *   \[Resolved\] by butterflywithtears
+    *   5 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 3 hours ago)
+*   Old blog missing
+    *   \[Resolved\] by my\_life\_of\_poetic\_death
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 3 hours ago)
+*   I cannot see my old blog
+    *   \[Resolved\] by Abby\_705
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 3 hours ago)
 
 1 2 3 ... 121 Next
 
