@@ -1,6 +1,6 @@
-Privacy Policy
+Privacy Policy Information we collect How we use information we collect Transparency and choice Information you share Accessing and updating your personal information Information we share Information security When this Privacy Policy applies Compliance and cooperation with regulatory authorities Changes Specific product practices Hide examples Show examples Hide examples
 
-Last modified: December 20, 2013 (view archived versions)
+Last modified: March 31, 2014 (view archived versions)
 
 There are many different ways you can use our services – to search for and share information, to communicate with other people or to create new content. When you share information with us, for example by creating a Google Account, we can make those services even better – to show you more relevant search results and ads, to help you connect with people or to make sharing with others quicker and easier. As you use our services, we want you to be clear how we’re using information and the ways in which you can protect your privacy.
 
@@ -49,7 +49,7 @@ We collect information in two ways:
         
     *   **Cookies and anonymous identifiers**
         
-        We use various technologies to collect and store information when you visit a Google service, and this may include sending one or more cookies or anonymous identifiers to your device. We also use cookies and anonymous identifiers when you interact with services we offer to our partners, such as advertising services or Google features that may appear on other sites.
+        We and our partners use various technologies to collect and store information when you visit a Google service, and this may include sending one or more cookies or anonymous identifiers to your device. We also use cookies and anonymous identifiers when you interact with services we offer to our partners, such as advertising services or Google features that may appear on other sites.
         
 
 How we use information we collect
@@ -139,13 +139,13 @@ We work hard to protect Google and our users from unauthorized access to or unau
 *   We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems.
 *   We restrict access to personal information to Google employees, contractors and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
 
-Application
+When this Privacy Policy applies
 
 Our Privacy Policy applies to all of the services offered by Google Inc. and its affiliates, including services offered on other sites (such as our advertising services), but excludes services that have separate privacy policies that do not incorporate this Privacy Policy.
 
 Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you in search results, sites that may include Google services, or other sites linked from our services. Our Privacy Policy does not cover the information practices of other companies and organizations who advertise our services, and who may use cookies, pixel tags and other technologies to serve and offer relevant ads.
 
-Enforcement
+Compliance and cooperation with regulatory authorities
 
 We regularly review our compliance with our Privacy Policy. We also adhere to several self regulatory frameworks. When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly.
 
@@ -161,3 +161,24 @@ The following notices explain specific privacy practices with respect to certain
 *   Books
 *   Wallet
 *   Fiber
+
+Other useful privacy and security related materials
+
+Further useful privacy and security related materials can be found through Google’s policies and principles pages, including:
+
+*   Information about our technologies and principles, which includes, among other things, more information on
+    *   how Google uses cookies.
+    *   technologies we use for advertising.
+    *   how we recognize patterns like faces.
+*   A page that explains what data is shared with Google when you visit websites that use our advertising, analytics and social products.
+*   Google’s safety center, which provides information on how to stay safe and secure online.
+
+For example, with Google Dashboard you can quickly and easily see some of the data associated with your Google Account. Learn more. For example, if you frequently visit websites and blogs about gardening, you may see ads related to gardening as you browse the web. Learn more. For example, if you frequently visit websites and blogs about gardening that show our ads, you may start to see ads related to this interest as you browse the web. Learn more. This includes information like your usage data and preferences, Gmail messages, G+ profile, photos, videos, browsing history, map searches, docs, or other Google-hosted content. Learn more. For example, when you’re signed in to your Google Account and search on Google, you can see search results from the public web, along with pages, photos, and Google+ posts from your friends and people who know you or follow you on Google+ may see your posts and profile in their results. Learn more. For example, you could get suggestions of people you might know or want to connect with on Google+, based on the connections you have with people on other Google products, like Gmail and people who have a connection with you may see your profile as a suggestion. Learn more. Whilst we currently don’t ask for a credit card during sign up, verifying your age through a small credit card transaction is one way to confirm that you meet our age requirements in case your account was disabled after you have entered a birthday indicating you are not old enough to have a Google Account. Learn more. For example, Google’s spell checking software was developed by analyzing previous searches where users had corrected their own spelling. Learn more. Device identifiers let Google know which unique device you are using to access our services, which can be used to customise our service to your device or analyse any device issues related to our services. Learn more. For example, when you visit Google Play from your desktop, Google can use this information to help you decide on which devices you'd like your purchases to be available for use. Learn more. For example, cookies allow us to analyse how users interact with our services. Learn more. Like other technology and communications companies, Google regularly receives requests from governments and courts around the world to hand over user data. Learn more. For example, Google Maps can center the maps view on your current location. Learn more. For example, we use a cookie called ‘lbcs’ which makes it possible for you to open many Google Docs in one browser. Learn more. For example, if you add a phone number as a recovery option, if you forget your password Google can send you a text message with a code to enable you to reset it. Learn more. For example, if you're concerned about unauthorized access to your email, "Last account activity" in Gmail shows you information about recent activity in your email, such as the IP addresses that accessed your mail, the associated location, as well as the time and date. Learn more. For example, with Google+, you have many different sharing options. Learn more. For example, if someone is already a contact, Google will autocomplete their name if you want to add them to a message in Gmail. Learn more. For example, when you type an address in the To, Cc, or Bcc field of a message you're composing, Gmail will suggest addresses from your Contacts list. Learn more. For example, if you have communicated with someone via Gmail and want to add them to a Google Doc or an event in Google Calendar, Google makes it easy to do so by autocompleting their email address when you start to type in their name. Learn more. For example, we regularly report to advertisers on whether we served their ad to a page and whether that ad was likely to be seen by users (as opposed to, for example, being on part of the page to which users did not scroll). Learn more. When lots of people start searching for something, it can provide very useful information about particular trends at that time. Learn more.
+
+For example, we can make search more relevant and interesting for you by including photos, posts, and more from you and your friends.
+
+Learn more
+
+For example, you can delete your Web History, your blog, a Google Site you own, your YouTube Channel, your Google+ profile or your entire Google account.
+
+You can see some of these at Google Trends and YouTube Trends.
