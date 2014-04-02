@@ -15,7 +15,7 @@ Your XFINITY Connect session has timed out due to inactivity. Click here to go b
 *   Shop/Upgrade
 *   My Account
 *   My Account
-*   Suppot
+*   Support
 *   Support
 *   xfinity.com
 
@@ -34,7 +34,7 @@ More
 *   Shop/Upgrade
 *   My Account
 *   My Account
-*   Suppot
+*   Support
 *   Support
 *   xfinity.com
 *   TV
