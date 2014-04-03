@@ -46,6 +46,10 @@ General Terms and Conditions for the use of the AdCreator
 
 General Terms and Conditions
 
+Last updated: 17 March 2014
+
+  
+
 **“XING”** means the service as described below (including all applications) and/or the provider of this service, XING AG (together with XING S.á r.l. as of 1 May 2014 and in those cases listed in Section A.6.6 below).
 
 A. General Terms and Conditions for using the XING service
@@ -531,7 +535,7 @@ These additional terms for the use of the employer review platform supplement th
 
 (c) Refrain from submitting any untrue and/or unfounded reviews and/or statements about the employer, their employees or other relations pertaining to the employer
 
-(d) Refrain from naming any natural or legal persons
+(d) Refrain from naming any natural persons
 
 (e) Refrain from adding any links to external content.
 
