@@ -8,98 +8,98 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Private Blog Access
+    *   \[Resolved\] by greedy\_business
+    *   3 months ago
+    *   in Data Migration
+    *   0 votes
+    *   7 (last comment by greedy\_business 5 hours ago)
+*   Accessing my Xanga
+    *   by lexieleigh04
+    *   6 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   How can I read friend's blog?
+    *   \[Resolved\] by yuai
+    *   17 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 11 hours ago)
+*   how to have my old posts shown
+    *   \[Resolved\] by thee3
+    *   21 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 11 hours ago)
+*   old posts
+    *   \[Resolved\] by cutestuff5492
+    *   22 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 11 hours ago)
 *   I can't find my blog
     *   by Gustava
-    *   58 minutes ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   cant use Xanga. dont know how to deal with it
-    *   by pink6c
-    *   13 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   cant use Xanga. dont know how to deal with it
-    *   by pink6c
-    *   13 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Can I still access my old blogs?
-    *   by Gustava
-    *   16 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   I CANNOT SEE MY OLD SITE...
-    *   by SCKyutGirl2
     *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 11 hours ago)
+*   cant use Xanga. dont know how to deal with it
+    *   \[Resolved\] by pink6c
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 12 hours ago)
+*   Can I still access my old blogs?
+    *   \[Resolved\] by Gustava
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 15 hours ago)
+*   I CANNOT SEE MY OLD SITE...
+    *   \[Resolved\] by SCKyutGirl2
+    *   2 days ago
     *   in Premium
     *   0 votes
-    *   0
-*   No link for archives?
-    *   \[Resolved\] by phoenixphire
-    *   5 days ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by phoenixphire 2 days ago)
+    *   1 (last comment by eugenia 15 hours ago)
 *   是不是可以再打新文章?
-    *   by SHAN\_329
-    *   2 days ago
+    *   \[Resolved\] by SHAN\_329
+    *   3 days ago
     *   in Themes
     *   0 votes
-    *   0
+    *   1 (last comment by eugenia 15 hours ago)
 *   Old blog
-    *   by Pepperz08
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   My old blogs
-    *   by lostteensoul
+    *   \[Resolved\] by Pepperz08
     *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   0
+    *   1 (last comment by eugenia 15 hours ago)
+*   My old blogs
+    *   \[Resolved\] by lostteensoul
+    *   4 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 15 hours ago)
+*   No link for archives?
+    *   \[Resolved\] by phoenixphire
+    *   6 days ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by phoenixphire 3 days ago)
 *   Can't find my old posts and pictures
     *   \[Resolved\] by tallarico00
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by tallarico00 3 days ago)
+    *   2 (last comment by tallarico00 4 days ago)
 *   How can I read my old posts?
     *   \[Resolved\] by Linzomatic
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
-*   What is expired blogger? I am NOT dead
-    *   \[Resolved\] by w\_x\_y\_z
-    *   5 days ago
-    *   in Passwords &. Sign-In
-    *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
-*   How can I restart blogging in Xanga
-    *   \[Resolved\] by fruitmonster
-    *   5 days ago
-    *   in Adding &. Editing Entries
-    *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
-*   when I click upgrade to Xanga 2.0...
-    *   \[Resolved\] by MimiLiu
-    *   5 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
-*   Fix my blog please?
-    *   \[Resolved\] by Leakana
-    *   5 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
+    *   1 (last comment by eugenia 5 days ago)
 
-1 2 3 ... 121 Next
+1 2 3 ... 122 Next
 
 Help Categories
 
