@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Private Blog Access
-    *   \[Resolved\] by greedy\_business
-    *   3 months ago
+*   blog archives
+    *   by Tazice
+    *   12 hours ago
     *   in Data Migration
     *   0 votes
-    *   7 (last comment by greedy\_business 5 hours ago)
+    *   0
+*   How do I get to my xanga?
+    *   by Flipechickie
+    *   12 hours ago
+    *   in Themes
+    *   0 votes
+    *   0
+*   My old blogs
+    *   by ericcsw
+    *   14 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   retrieve old blog posts
+    *   by Palmtrees\_and\_Powerlines11
+    *   20 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Private Blog Access
+    *   \[Resolved\] by greedy\_business
+    *   4 months ago
+    *   in Data Migration
+    *   0 votes
+    *   7 (last comment by greedy\_business 1 day ago)
 *   Accessing my Xanga
     *   by lexieleigh04
-    *   6 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How can I read friend's blog?
     *   \[Resolved\] by yuai
-    *   17 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 11 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   how to have my old posts shown
     *   \[Resolved\] by thee3
-    *   21 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 11 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   old posts
     *   \[Resolved\] by cutestuff5492
-    *   22 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 11 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   I can't find my blog
     *   by Gustava
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 11 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   cant use Xanga. dont know how to deal with it
     *   \[Resolved\] by pink6c
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 12 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   Can I still access my old blogs?
     *   \[Resolved\] by Gustava
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 15 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   I CANNOT SEE MY OLD SITE...
     *   \[Resolved\] by SCKyutGirl2
-    *   2 days ago
+    *   3 days ago
     *   in Premium
     *   0 votes
-    *   1 (last comment by eugenia 15 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   是不是可以再打新文章?
     *   \[Resolved\] by SHAN\_329
-    *   3 days ago
+    *   4 days ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by eugenia 15 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   Old blog
     *   \[Resolved\] by Pepperz08
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 15 hours ago)
-*   My old blogs
-    *   \[Resolved\] by lostteensoul
     *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 15 hours ago)
-*   No link for archives?
-    *   \[Resolved\] by phoenixphire
-    *   6 days ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by phoenixphire 3 days ago)
-*   Can't find my old posts and pictures
-    *   \[Resolved\] by tallarico00
-    *   6 days ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by tallarico00 4 days ago)
-*   How can I read my old posts?
-    *   \[Resolved\] by Linzomatic
-    *   6 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   1 (last comment by eugenia 1 day ago)
 
 1 2 3 ... 122 Next
 
