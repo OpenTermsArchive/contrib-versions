@@ -396,7 +396,6 @@ Skip Footer Navigation Links XFINITY
 *   Pay My Bill
 *   Shop/Upgrade
 *   Support
-*   \[+\] Submit Feedback
 
 Â  XFINITY Â© 2014 Comcast
 
