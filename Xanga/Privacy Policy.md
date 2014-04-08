@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   What happened to my blog?
+    *   \[Resolved\] by KatieLepine
+    *   7 months ago
+    *   in Data Migration
+    *   0 votes
+    *   7 (last comment by ryan1213 7 hours ago)
+*   Please recover my blog
+    *   by daniellehrin
+    *   9 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Unable to Embed a YouTube Video
+    *   \[Resolved\] by routergenie
+    *   4 months ago
+    *   in Adding &. Editing Entries
+    *   0 votes
+    *   9 (last comment by JosephShen2004 11 hours ago)
+*   Please migrate for my xanga
+    *   by coincoin
+    *   14 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Restore please!
+    *   by DingoDance
+    *   18 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Please recover my blog
+    *   \[Resolved\] by bittentothequick
+    *   6 months ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by TreesOfSymphony 23 hours ago)
+*   Private Blog Archive
+    *   by sorry\_to\_a\_friend
+    *   23 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   shutdown
     *   by MartyFeehan
-    *   6 minutes ago
+    *   1 day ago
     *   in Comments
     *   0 votes
     *   0
 *   Images do not link up
     *   by garyfong1
-    *   6 hours ago
+    *   1 day ago
     *   in Themes
     *   0 votes
     *   0
 *   aquiring 2.0 and downloading blog
     *   by AvaesseLussa
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I can not create a blog
     *   by aosthir
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   It's been YEARS!!!
     *   by at12108
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   blog archives
     *   by Tazice
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How do I get to my xanga?
     *   by Flipechickie
-    *   3 days ago
+    *   4 days ago
     *   in Themes
     *   0 votes
     *   0
 *   My old blogs
     *   by ericcsw
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   retrieve old blog posts
-    *   by Palmtrees\_and\_Powerlines11
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Private Blog Access
-    *   \[Resolved\] by greedy\_business
-    *   4 months ago
-    *   in Data Migration
-    *   0 votes
-    *   7 (last comment by greedy\_business 4 days ago)
-*   Accessing my Xanga
-    *   by lexieleigh04
     *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
-*   How can I read friend's blog?
-    *   \[Resolved\] by yuai
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
-*   how to have my old posts shown
-    *   \[Resolved\] by thee3
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
-*   old posts
-    *   \[Resolved\] by cutestuff5492
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
-*   I can't find my blog
-    *   by Gustava
-    *   5 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
 
 1 2 3 ... 122 Next
 
