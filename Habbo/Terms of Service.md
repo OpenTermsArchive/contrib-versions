@@ -200,15 +200,17 @@ If you are accessing or using the Service through an Apple Device, the following
 
 (iv)       You acknowledge that Apple has no obligation whatsoever to furnish any maintenance any support services to you with respect to the Service.
 
-(v)        To the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the Service.
+(v)        In the event of any failure of the Service to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price you. and to the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the Service.
 
 (vi)       Notwithstanding anything to the contrary herein, and subject to the terms in these Terms, you acknowledge that, solely as between Apple and Sulake, Sulake, and not Apple is responsible for addressing any claims you may have relating to the Service, or your possession and/or use thereof, including, but not limited, to: (i) product liability claims, (ii) any claim that the Service fails to confirm to any applicable legal or regulatory requirement. and (iii) claims arising under consumer protection or similar legislation. 
 
 (vii)      Further, you agree that if the Service, or your possession and use of the Service, infringes on a third party's intellectual property rights, you will not hold Apple responsible for the investigation, defense, settlement and discharge of any such intellectual property infringement claims.
 
-(viii)     You acknowledge and agree that Apple, and Apple’s subsidiaries, are third-party beneficiaries of these Terms, and that, upon your acceptance of the terms and conditions of these Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce these Terms against you as a third-party beneficiary thereof.
+(viii) You represent and warrant that (i) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country. and (ii) you are not listed on any U.S. Government list of prohibited or restricted
 
-(ix)       When using the Service, you agree to comply with any and all third party terms that are applicable to any platform, website, technology or service that interacts with the Service.
+(ix)     You acknowledge and agree that Apple, and Apple’s subsidiaries, are third-party beneficiaries of these Terms, and that, upon your acceptance of the terms and conditions of these Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce these Terms against you as a third-party beneficiary thereof.
+
+(x)       When using the Service, you agree to comply with any and all third party terms that are applicable to any platform, website, technology or service that interacts with the Service.
 
 **Location-Based Features**. 
 
