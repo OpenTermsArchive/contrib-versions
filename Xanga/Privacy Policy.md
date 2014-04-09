@@ -8,16 +8,22 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   What happened to my blog?
-    *   \[Resolved\] by KatieLepine
-    *   7 months ago
+*   its been a long time
+    *   by x\_kln\_x\_jts\_x
+    *   1 hour ago
     *   in Data Migration
     *   0 votes
-    *   7 (last comment by ryan1213 7 hours ago)
-*   Please recover my blog
-    *   by daniellehrin
-    *   9 hours ago
+    *   0
+*   its been a long time
+    *   by x\_kln\_x\_jts\_x
+    *   1 hour ago
     *   in Data Migration
+    *   0 votes
+    *   0
+*   MY PHOTO'S ARE LISTED UNDER MY DASHBOARD...
+    *   by Avenueoflight
+    *   8 hours ago
+    *   in Pictures
     *   0 votes
     *   0
 *   Unable to Embed a YouTube Video
@@ -25,16 +31,58 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 months ago
     *   in Adding &. Editing Entries
     *   0 votes
-    *   9 (last comment by JosephShen2004 11 hours ago)
+    *   10 (last comment by routergenie 9 hours ago)
+*   Expired Account Help!
+    *   by D0lphinluver
+    *   15 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Expired Account Help!
+    *   by D0lphinluver
+    *   15 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   What happened to my blog?
+    *   \[Resolved\] by KatieLepine
+    *   7 months ago
+    *   in Data Migration
+    *   0 votes
+    *   8 (last comment by Oosuki1207oO 16 hours ago)
+*   so uh...
+    *   by xoxomandm
+    *   20 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   aquiring 2.0 and downloading blog
+    *   by AvaesseLussa
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by PleaseDontFeedTheBallerinas 20 hours ago)
+*   Deleting My Account
+    *   \[Resolved\] by Omgwtf\_St
+    *   6 months ago
+    *   in Miscellaenous
+    *   0 votes
+    *   39 (last comment by yordreamgirl 23 hours ago)
+*   Please recover my blog
+    *   by daniellehrin
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Please migrate for my xanga
     *   by coincoin
-    *   14 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Restore please!
     *   by DingoDance
-    *   18 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -43,63 +91,15 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   6 months ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by TreesOfSymphony 23 hours ago)
+    *   2 (last comment by TreesOfSymphony 1 day ago)
 *   Private Blog Archive
     *   by sorry\_to\_a\_friend
-    *   23 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   shutdown
-    *   by MartyFeehan
     *   1 day ago
-    *   in Comments
-    *   0 votes
-    *   0
-*   Images do not link up
-    *   by garyfong1
-    *   1 day ago
-    *   in Themes
-    *   0 votes
-    *   0
-*   aquiring 2.0 and downloading blog
-    *   by AvaesseLussa
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   I can not create a blog
-    *   by aosthir
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   It's been YEARS!!!
-    *   by at12108
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   blog archives
-    *   by Tazice
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   How do I get to my xanga?
-    *   by Flipechickie
-    *   4 days ago
-    *   in Themes
-    *   0 votes
-    *   0
-*   My old blogs
-    *   by ericcsw
-    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 
-1 2 3 ... 122 Next
+1 2 3 ... 123 Next
 
 Help Categories
 
