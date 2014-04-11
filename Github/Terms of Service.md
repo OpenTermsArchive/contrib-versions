@@ -19,7 +19,7 @@ A. Account Terms
     
 2.  You must be a human. Accounts registered by "bots" or other automated methods are not permitted.
     
-3.  You must provide your legal full name, a valid email address, and any other information requested in order to complete the signup process.
+3.  You must provide your name, a valid email address, and any other information requested in order to complete the signup process.
     
 4.  Your login may only be used by one person - a single login shared by multiple people is not permitted. You may create separate logins for as many people as your plan allows.
     
