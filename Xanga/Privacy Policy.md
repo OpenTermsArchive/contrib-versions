@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   dear xanga team, I can't find my blog!
+    *   by Ian0309
+    *   12 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Dear Xanga Team,My blogs can't find~
+    *   by carren\_wen
+    *   12 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Dear Xanga My Blog Is Gone
+    *   by schello
+    *   18 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Deleting My Account
+    *   \[Resolved\] by Omgwtf\_St
+    *   7 months ago
+    *   in Miscellaenous
+    *   0 votes
+    *   40 (last comment by irenesauceda 22 hours ago)
 *   couldn't 'archive' my old posts, how do i get them back?
     *   by iholdher
-    *   6 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How can I use the old blog?
     *   by kishitree
-    *   8 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How can I use the old blog?
     *   by kishitree
-    *   8 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Just paid for premium
     *   by D0lphinluver
-    *   13 hours ago
+    *   1 day ago
     *   in Premium
     *   0 votes
     *   0
 *   just want xanga send me back all my old post
     *   by Oosuki1207oO
-    *   19 hours ago
+    *   1 day ago
     *   in Personal URLs
     *   0 votes
     *   0
 *   upgrading xanga 2.0
     *   by boriss
-    *   19 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Recover Blog
     *   \[Resolved\] by robthegraves
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   so uh...
-    *   \[Resolved\] by xoxomandm
     *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
+*   so uh...
+    *   \[Resolved\] by xoxomandm
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 2 days ago)
 *   aquiring 2.0 and downloading blog
     *   \[Resolved\] by AvaesseLussa
-    *   5 days ago
-    *   in Data Migration
-    *   0 votes
-    *   3 (last comment by eugenia 1 day ago)
-*   Please recover my blog
-    *   \[Resolved\] by daniellehrin
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   Please migrate for my xanga
-    *   \[Resolved\] by coincoin
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   Restore please!
-    *   \[Resolved\] by DingoDance
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   Private Blog Archive
-    *   \[Resolved\] by sorry\_to\_a\_friend
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   shutdown
-    *   \[Resolved\] by MartyFeehan
-    *   4 days ago
-    *   in Comments
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   It's been YEARS!!!
-    *   \[Resolved\] by at12108
     *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   3 (last comment by eugenia 2 days ago)
+*   Please recover my blog
+    *   \[Resolved\] by daniellehrin
+    *   4 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 2 days ago)
+*   Please migrate for my xanga
+    *   \[Resolved\] by coincoin
+    *   4 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 2 days ago)
 
 1 2 3 ... 123 Next
 
