@@ -247,10 +247,10 @@ XING shall notify users of such changes to its GTC, e.g. via the XING Websites.
 
 _Please note: Section 6.5 does not apply to existing customers who registered with XING before 17 March 2014, except in the following cases:_
 
-_*   An older version of the GTC containing a corresponding price modification provision (in Section 12.2) in effect at the time of registration was already explicitly agreed to
-*   A price modification provision was already explicitly agreed to before 17 March 2014, e.g. when switching from the old Premium to the New Premium version
-*   A price modification provision was explicitly agreed to after 17 March 2014
-*   These GTC including the price modification provision (Section 6.5) are explicitly agreed to from 17 March 2014 (e.g. when taking out Premium membership)._
+*   _An older version of the GTC containing a corresponding price modification provision (in Section 12.2) in effect at the time of registration was already explicitly agreed to_
+*   _A price modification provision was already explicitly agreed to before 17 March 2014, e.g. when switching from the old Premium to the New Premium version_
+*   _A price modification provision was explicitly agreed to after 17 March 2014_
+*   _These GTC including the price modification provision (Section 6.5) are explicitly agreed to from 17 March 2014 (e.g. when taking out Premium membership)._
 
 _This price modification provision (Section 6.5) shall apply without limitation to new customers._
 
