@@ -8,9 +8,27 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Not all of my posts archived
+    *   \[Resolved\] by bEnGaLSpIcE
+    *   1 month ago
+    *   in Data Migration
+    *   0 votes
+    *   4 (last comment by bEnGaLSpIcE 11 hours ago)
+*   How can i upgrade to xanga 2.0?
+    *   by T2\_Shop
+    *   20 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   I can't find the download button
+    *   by T2\_Shop
+    *   21 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by T2\_Shop 21 hours ago)
 *   lost everything
     *   by pockyapple
-    *   1 hour ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,52 +37,52 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   7 months ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by rabbitmary 23 hours ago)
+    *   4 (last comment by rabbitmary 1 day ago)
 *   Please recover my blog
     *   \[Resolved\] by daniellehrin
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by daniellehrin 1 day ago)
+    *   2 (last comment by daniellehrin 2 days ago)
 *   May i get back my blog ? please help!
     *   by lvcream
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Recovering Videos From Old Xanga. PLEASE HELP!!!
     *   by StJimmy1300
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Weeping for lost blogs
     *   by Gustava
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Weeping for lost blogs
     *   by Gustava
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where can I find my blog entries?
     *   by EterNaLxDeath
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where can I find my blog entries?
     *   by EterNaLxDeath
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where can I find my blog entries?
     *   by EterNaLxDeath
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -73,27 +91,9 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by Gustava 3 days ago)
+    *   3 (last comment by Gustava 4 days ago)
 *   Crap
     *   by go\_to\_hell09
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   please restore my blog
-    *   by FallenTomorrow
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Grateful if my archive is available
-    *   by Peace6
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   dear xanga team, I can't find my blog!
-    *   by Ian0309
     *   4 days ago
     *   in Data Migration
     *   0 votes
