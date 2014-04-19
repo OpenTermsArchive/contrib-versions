@@ -6,41 +6,14 @@ Your XFINITY Connect session has timed out due to inactivity. Click here to go b
 
 *   Skip to content
 *   Skip Logo Links
-*   XFINITY
-*   XFINITY
 
 *   Skip Navigation Links
-*   Shop
-*   Shop/Upgrade
-*   Shop/Upgrade
-*   My Account
-*   My Account
-*   Support
-*   Support
-*   xfinity.com
 
 *   Skip Personal Links
-*   TV
-*   Email
 *   Sign In
 *   Hello, Guest Not you? Sign Out
-*   Comcast Business
-*   Comcast Business
 
 More
-
-*   Shop
-*   Shop/Upgrade
-*   Shop/Upgrade
-*   My Account
-*   My Account
-*   Support
-*   Support
-*   xfinity.com
-*   TV
-*   Email
-*   Comcast Business
-*   Comcast Business
 
 Â  Â  Â  XFINITY Privacy Policy This is an archived privacy policy. It is not current. For the current policy, please click here. Privacy Policy Archive (Previous Versions) **Effective October 7, 2011 Learn More**Web Services Privacy Policy  
 October 7, 2011 Summary (Jump to Full Policy) What the Privacy Policy does
