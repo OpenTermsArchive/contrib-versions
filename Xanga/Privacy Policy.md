@@ -8,21 +8,39 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Old blogs
+    *   by FindingDory
+    *   6 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Please help me access my old blogs!
+    *   by shirley\_yee
+    *   11 hours ago
+    *   in Adding &. Editing Entries
+    *   0 votes
+    *   0
+*   HOW CAN I GET BACK MY OLD DAIRY
+    *   by shirley\_yee
+    *   12 hours ago
+    *   in Personal URLs
+    *   0 votes
+    *   0
 *   Please help me access my old blogs!
     *   by Adriman
-    *   20 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   photographerno1
     *   by photographerno1
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   My blog
     *   by Voyagerdream
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -31,73 +49,55 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   6 months ago
     *   in Miscellaenous
     *   0 votes
-    *   14 (last comment by h20polo85 3 days ago)
+    *   14 (last comment by h20polo85 4 days ago)
 *   its been a long time
     *   \[Resolved\] by x\_kln\_x\_jts\_x
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   upgrading xanga 2.0
     *   \[Resolved\] by boriss
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   just want xanga send me back all my old post
     *   \[Resolved\] by Oosuki1207oO
     *   1 week ago
     *   in Personal URLs
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   How can I use the old blog?
     *   \[Resolved\] by kishitree
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   couldn't 'archive' my old posts, how do i get them back?
     *   \[Resolved\] by iholdher
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   Dear Xanga My Blog Is Gone
     *   \[Resolved\] by schello
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   Dear Xanga Team,My blogs can't find~
     *   \[Resolved\] by carren\_wen
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   dear xanga team, I can't find my blog!
     *   \[Resolved\] by Ian0309
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
-*   Grateful if my archive is available
-    *   \[Resolved\] by Peace6
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
-*   please restore my blog
-    *   \[Resolved\] by FallenTomorrow
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
-*   Crap
-    *   \[Resolved\] by go\_to\_hell09
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 
 1 2 3 ... 124 Next
 
