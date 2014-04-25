@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Will my blog be reactivated?
+    *   by leon0628
+    *   13 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Forgot Email
+    *   by OxInLoVxO
+    *   1 day ago
+    *   in Emails
+    *   0 votes
+    *   0
+*   Please help save my old blogs
+    *   by derekgrace
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   I can not create a blog
     *   \[Resolved\] by aosthir
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 9 hours ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   Request to delete my account
     *   \[Resolved\] by moscreations
-    *   6 months ago
+    *   7 months ago
     *   in Miscellaenous
     *   0 votes
-    *   15 (last comment by eugenia 9 hours ago)
+    *   15 (last comment by eugenia 2 days ago)
 *   My blog
     *   \[Resolved\] by Voyagerdream
-    *   3 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 10 hours ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   photographerno1
     *   \[Resolved\] by photographerno1
+    *   5 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 2 days ago)
+*   Please help me access my old blogs!
+    *   \[Resolved\] by Adriman
+    *   4 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 2 days ago)
+*   Please help me access my old blogs!
+    *   \[Resolved\] by shirley\_yee
+    *   3 days ago
+    *   in Adding &. Editing Entries
+    *   0 votes
+    *   1 (last comment by eugenia 2 days ago)
+*   Old blogs
+    *   \[Resolved\] by FindingDory
     *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 10 hours ago)
-*   Please help me access my old blogs!
-    *   \[Resolved\] by Adriman
+    *   1 (last comment by eugenia 2 days ago)
+*   Can't access archives
+    *   \[Resolved\] by Addytorials
     *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 11 hours ago)
-*   Please help me access my old blogs!
-    *   \[Resolved\] by shirley\_yee
-    *   1 day ago
-    *   in Adding &. Editing Entries
-    *   0 votes
-    *   1 (last comment by eugenia 14 hours ago)
-*   Old blogs
-    *   \[Resolved\] by FindingDory
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 14 hours ago)
-*   Can't access archives
-    *   \[Resolved\] by Addytorials
-    *   16 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 14 hours ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   Images do not link up
     *   by garyfong1
     *   2 weeks ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by eugenia 14 hours ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   its been a long time
     *   \[Resolved\] by x\_kln\_x\_jts\_x
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   upgrading xanga 2.0
     *   \[Resolved\] by boriss
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   just want xanga send me back all my old post
     *   \[Resolved\] by Oosuki1207oO
-    *   1 week ago
+    *   2 weeks ago
     *   in Personal URLs
     *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
-*   How can I use the old blog?
-    *   \[Resolved\] by kishitree
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
-*   couldn't 'archive' my old posts, how do i get them back?
-    *   \[Resolved\] by iholdher
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
-*   Dear Xanga My Blog Is Gone
-    *   \[Resolved\] by schello
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 
 1 2 3 ... 124 Next
 
