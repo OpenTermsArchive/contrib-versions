@@ -8,21 +8,27 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Help downloading archives
+    *   by lynds0611
+    *   7 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Will my blog be reactivated?
     *   by leon0628
-    *   13 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Forgot Email
     *   by OxInLoVxO
-    *   1 day ago
+    *   2 days ago
     *   in Emails
     *   0 votes
     *   0
 *   Please help save my old blogs
     *   by derekgrace
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -31,55 +37,55 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Request to delete my account
     *   \[Resolved\] by moscreations
     *   7 months ago
     *   in Miscellaenous
     *   0 votes
-    *   15 (last comment by eugenia 2 days ago)
+    *   15 (last comment by eugenia 3 days ago)
 *   My blog
     *   \[Resolved\] by Voyagerdream
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   photographerno1
     *   \[Resolved\] by photographerno1
+    *   6 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 3 days ago)
+*   Please help me access my old blogs!
+    *   \[Resolved\] by Adriman
     *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Please help me access my old blogs!
-    *   \[Resolved\] by Adriman
+    *   \[Resolved\] by shirley\_yee
+    *   4 days ago
+    *   in Adding &. Editing Entries
+    *   0 votes
+    *   1 (last comment by eugenia 3 days ago)
+*   Old blogs
+    *   \[Resolved\] by FindingDory
     *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
-*   Please help me access my old blogs!
-    *   \[Resolved\] by shirley\_yee
-    *   3 days ago
-    *   in Adding &. Editing Entries
-    *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
-*   Old blogs
-    *   \[Resolved\] by FindingDory
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Can't access archives
     *   \[Resolved\] by Addytorials
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Images do not link up
     *   by garyfong1
     *   2 weeks ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   its been a long time
     *   \[Resolved\] by x\_kln\_x\_jts\_x
     *   2 weeks ago
@@ -90,12 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   \[Resolved\] by boriss
     *   2 weeks ago
     *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
-*   just want xanga send me back all my old post
-    *   \[Resolved\] by Oosuki1207oO
-    *   2 weeks ago
-    *   in Personal URLs
     *   0 votes
     *   1 (last comment by eugenia 1 week ago)
 
