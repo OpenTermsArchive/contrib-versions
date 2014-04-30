@@ -10,67 +10,67 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Blog Recovery?
     *   by ImpulseAndNostalgia
-    *   12 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Getting blog archives
     *   by mylightishining
-    *   1 day ago
+    *   2 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Can I get back my photos and blog? Tks~~~
     *   by love\_gozi
-    *   1 day ago
+    *   2 days ago
     *   in Pictures
     *   0 votes
     *   0
 *   Can I get my blog and photo back?
     *   by love\_gozi
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can't retrieve my blog
     *   by wingyan00531
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieving my blog
     *   by Gustava
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Blogs
     *   by LookBehindYouHa
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Help downloading archives
     *   by lynds0611
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Will my blog be reactivated?
     *   by leon0628
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Forgot Email
     *   by OxInLoVxO
-    *   5 days ago
+    *   6 days ago
     *   in Emails
     *   0 votes
     *   0
 *   Please help save my old blogs
     *   by derekgrace
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -79,25 +79,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   Request to delete my account
     *   \[Resolved\] by moscreations
     *   7 months ago
     *   in Miscellaenous
     *   0 votes
-    *   15 (last comment by eugenia 6 days ago)
+    *   15 (last comment by eugenia 1 week ago)
 *   My blog
     *   \[Resolved\] by Voyagerdream
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   photographerno1
     *   \[Resolved\] by photographerno1
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 
 1 2 3 ... 125 Next
 
