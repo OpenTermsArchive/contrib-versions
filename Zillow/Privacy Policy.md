@@ -23,9 +23,10 @@ Skip to contentZillow Real Estate &amp. Homes for Sale
     
     *   Apartments For Rent
     *   Houses For Rent
-    *   Rental IQ Quiz
     
     Renter's Guide
+    
+    Rental IQ Quiz
     
     Post a Rental For Free
     
@@ -74,7 +75,7 @@ Skip to contentZillow Real Estate &amp. Homes for Sale
     
     Mortgage Education Center
     
-    Buyers Guide
+    Buyer's Guide
     
     Zillow Help Center
     
