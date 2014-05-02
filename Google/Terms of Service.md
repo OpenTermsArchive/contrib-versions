@@ -1,6 +1,8 @@
-Google Terms of Service Welcome to Google!
+Google Terms of Service
 
-The below terms are effective April 14, 2014. To view previous versions click here.
+Last modified: April 14, 2014 (view archived versions)
+
+Welcome to Google!
 
 Thanks for using our products and services (“Services”). The Services are provided by Google Inc. (“Google”), located at 1600 Amphitheatre Parkway, Mountain View, CA 94043, United States.
 
