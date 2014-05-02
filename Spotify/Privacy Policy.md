@@ -1,6 +1,6 @@
 Spotify Privacy Policy
 
-Effective as from 9 January 2014
+Effective as from 29 April 2014
 
 1.  Introduction
 2.  The information we collect
@@ -139,6 +139,8 @@ As above, our business partners may use their cookies on the Spotify Service, fo
 You can set your browser to refuse cookies, or delete certain cookies. This may impair or prevent due functioning of the Service.
 
 Do Not Track is a standard that is currently under development. As it is not yet finalized, we adhere to the standards set out in this Privacy Policy.
+
+Two of the third party services we use to track activity related to the Service, e.g. by placing cookies, are Google Analytics and Hasoffer Analytics. We may use third-party vendors, including Google, who use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to our websites, including Google Analytics for Display Advertising. If you don't want any information to be collected and used by Google Analytics, you can install an opt-out in your web browser (tools.google.com/dlpage/gaoptout?hl=None) and/or opt out from Google Analytics for Display Advertising or the Google Display Network. You can do so by using Google’s Ads Settings (www.google.com/settings/ads). If you don't want any information to be collected and used by Hasoffer Analytics you can opt out by clicking the following link: www.mobileapptracking.com/privacy-policy/.
 
 We may use standard Internet technologies similar to cookies like these:
 
