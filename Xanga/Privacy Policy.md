@@ -8,33 +8,39 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Exporting to Wordpress
-    *   by rAmOsEs
-    *   5 hours ago
+*   "Published" blogs not posting to site...
+    *   by thelesserman
+    *   1 hour ago
+    *   in Adding &. Editing Entries
+    *   0 votes
+    *   0
+*   When will we be getting our blogs back
+    *   by Babygirl42603
+    *   1 hour ago
     *   in Data Migration
     *   0 votes
     *   0
+*   manager
+    *   by pet\_rescuers
+    *   2 hours ago
+    *   in Pictures
+    *   0 votes
+    *   1 (last comment by pet\_rescuers 2 hours ago)
 *   Is Xanga 2.0 by paid subscription only?
-    *   by chopsticks4rent
+    *   \[Resolved\] by chopsticks4rent
     *   7 months ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by underwaterscreaming 5 hours ago)
-*   Log in issues
-    *   by warweasel
-    *   16 hours ago
-    *   in Personal URLs
-    *   0 votes
-    *   0
+    *   2 (last comment by underwaterscreaming 1 day ago)
 *   Old blog lost
     *   by angie\_grace
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   i still can not read my own blog
     *   by Karensit
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -43,57 +49,51 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by tchaiki 1 day ago)
+    *   2 (last comment by tchaiki 2 days ago)
 *   Blog Recovery?
     *   by ImpulseAndNostalgia
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by tchaiki 1 day ago)
+    *   1 (last comment by tchaiki 2 days ago)
 *   Getting blog archives
     *   by mylightishining
-    *   4 days ago
+    *   5 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Can I get back my photos and blog? Tks~~~
     *   by love\_gozi
-    *   4 days ago
+    *   5 days ago
     *   in Pictures
     *   0 votes
     *   0
 *   Can I get my blog and photo back?
     *   by love\_gozi
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can't retrieve my blog
     *   by wingyan00531
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieving my blog
     *   by Gustava
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Blogs
     *   by LookBehindYouHa
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Help downloading archives
     *   by lynds0611
-    *   6 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Will my blog be reactivated?
-    *   by leon0628
     *   1 week ago
     *   in Data Migration
     *   0 votes
