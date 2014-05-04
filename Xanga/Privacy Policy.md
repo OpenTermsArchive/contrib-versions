@@ -8,98 +8,98 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   "Published" blogs not posting to site...
-    *   by thelesserman
-    *   1 hour ago
-    *   in Adding &. Editing Entries
-    *   0 votes
-    *   0
-*   When will we be getting our blogs back
-    *   by Babygirl42603
-    *   1 hour ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   manager
-    *   by pet\_rescuers
-    *   2 hours ago
-    *   in Pictures
-    *   0 votes
-    *   1 (last comment by pet\_rescuers 2 hours ago)
 *   Is Xanga 2.0 by paid subscription only?
     *   \[Resolved\] by chopsticks4rent
     *   7 months ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by underwaterscreaming 1 day ago)
-*   Old blog lost
-    *   by angie\_grace
-    *   2 days ago
-    *   in Data Migration
+    *   3 (last comment by BrooklynHeart 2 minutes ago)
+*   where is my blog???
+    *   by bungalomurphy
+    *   9 hours ago
+    *   in Adding &. Editing Entries
     *   0 votes
-    *   0
-*   i still can not read my own blog
-    *   by Karensit
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   I can not create a blog
-    *   \[Resolved\] by aosthir
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by tchaiki 2 days ago)
-*   Blog Recovery?
-    *   by ImpulseAndNostalgia
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by tchaiki 2 days ago)
-*   Getting blog archives
-    *   by mylightishining
-    *   5 days ago
+    *   1 (last comment by BrooklynHeart 9 minutes ago)
+*   PROFILE, SITE, NEARLY EVERYTHING IS GONE!
+    *   by BrooklynHeart
+    *   14 minutes ago
     *   in Miscellaenous
     *   0 votes
     *   0
-*   Can I get back my photos and blog? Tks~~~
-    *   by love\_gozi
-    *   5 days ago
+*   Nearly EVERYTHING is gone, a decade of my life!
+    *   by BrooklynHeart
+    *   15 minutes ago
+    *   in Adding &. Editing Entries
+    *   0 votes
+    *   0
+*   Nearly EVERYTHING is gone, a decade of my life!
+    *   by BrooklynHeart
+    *   16 minutes ago
+    *   in Personal URLs
+    *   0 votes
+    *   0
+*   Nearly EVERYTHING is gone, a decade of my life!
+    *   by BrooklynHeart
+    *   16 minutes ago
+    *   in Themes
+    *   0 votes
+    *   0
+*   Nearly EVERYTHING is gone, a decade of my life!
+    *   by BrooklynHeart
+    *   17 minutes ago
+    *   in Emails
+    *   0 votes
+    *   0
+*   Nearly EVERYTHING is gone, a decade of my life!
+    *   by BrooklynHeart
+    *   18 minutes ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   99.9% OF ALL MY OLD PICTURES AND ART WORK ARE GONE
+    *   by BrooklynHeart
+    *   19 minutes ago
     *   in Pictures
     *   0 votes
     *   0
-*   Can I get my blog and photo back?
-    *   by love\_gozi
-    *   5 days ago
+*   Not all of my posts archived
+    *   \[Resolved\] by bEnGaLSpIcE
+    *   1 month ago
+    *   in Data Migration
+    *   0 votes
+    *   5 (last comment by BrooklynHeart 20 minutes ago)
+*   I lost my bloggings
+    *   by alicecheungws
+    *   2 hours ago
     *   in Data Migration
     *   0 votes
     *   0
-*   Can't retrieve my blog
-    *   by wingyan00531
-    *   6 days ago
+*   I lost my bloggings
+    *   by alicecheungws
+    *   2 hours ago
     *   in Data Migration
     *   0 votes
     *   0
-*   Retrieving my blog
-    *   by Gustava
-    *   6 days ago
+*   Premium Xanga Blogging Membership
+    *   by chocolatito
+    *   21 hours ago
     *   in Data Migration
     *   0 votes
     *   0
-*   Old Blogs
-    *   by LookBehindYouHa
-    *   6 days ago
-    *   in Data Migration
+*   "Published" blogs not posting to site...
+    *   by thelesserman
+    *   1 day ago
+    *   in Adding &. Editing Entries
     *   0 votes
     *   0
-*   Help downloading archives
-    *   by lynds0611
-    *   1 week ago
+*   When will we be getting our blogs back
+    *   by Babygirl42603
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 
-1 2 3 ... 125 Next
+1 2 3 ... 126 Next
 
 Help Categories
 
