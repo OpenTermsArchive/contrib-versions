@@ -107,7 +107,7 @@ Skip to contentZillow Real Estate &amp. Homes for Sale
     
     Compare Places
     
-*   Digs™
+*   Remodel
     *   Bathrooms
     *   Bedrooms
     *   Gardens
