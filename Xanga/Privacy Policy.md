@@ -8,27 +8,51 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Retrieve my blog
+    *   by jimothymartin
+    *   2 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Blog Recovery?
+    *   by ImpulseAndNostalgia
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   3 (last comment by ImpulseAndNostalgia 14 hours ago)
+*   Xanga 2.0 Heroku error and lost archives
+    *   by Addytorials
+    *   17 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Can you revive my blog?
+    *   by Charlottefranz
+    *   22 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Can't access archives
     *   \[Resolved\] by Addytorials
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by Addytorials 4 hours ago)
+    *   2 (last comment by Addytorials 1 day ago)
 *   Uhh...what happened
     *   by Dirge666
-    *   12 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   can you revive my blog?
     *   by timwong170
-    *   18 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   would love my blog restored please
     *   by TommyHotty
-    *   23 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -37,67 +61,43 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 months ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by BrooklynHeart 23 hours ago)
+    *   2 (last comment by BrooklynHeart 1 day ago)
 *   can you revive my blog?
     *   \[Resolved\] by bdholsinger
     *   7 months ago
     *   in Data Migration
     *   0 votes
-    *   7 (last comment by BrooklynHeart 23 hours ago)
+    *   7 (last comment by BrooklynHeart 1 day ago)
 *   Cannot see my old blog
     *   \[Resolved\] by fcfdiary
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by BrooklynHeart 23 hours ago)
+    *   2 (last comment by BrooklynHeart 1 day ago)
 *   blog restoration
     *   \[Resolved\] by octopusblue
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by BrooklynHeart 23 hours ago)
+    *   2 (last comment by BrooklynHeart 1 day ago)
 *   Please help save my old blogs
     *   by derekgrace
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by BrooklynHeart 23 hours ago)
+    *   1 (last comment by BrooklynHeart 1 day ago)
 *   Can I get my blog and photo back?
     *   by love\_gozi
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by BrooklynHeart 23 hours ago)
+    *   1 (last comment by BrooklynHeart 1 day ago)
 *   Can I get back my photos and blog? Tks~~~
     *   by love\_gozi
     *   1 week ago
     *   in Pictures
     *   0 votes
-    *   1 (last comment by BrooklynHeart 23 hours ago)
-*   Getting blog archives
-    *   by mylightishining
-    *   1 week ago
-    *   in Miscellaenous
-    *   0 votes
-    *   1 (last comment by BrooklynHeart 23 hours ago)
-*   Blog Recovery?
-    *   by ImpulseAndNostalgia
-    *   6 days ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by BrooklynHeart 23 hours ago)
-*   When will we be getting our blogs back
-    *   by Babygirl42603
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by BrooklynHeart 23 hours ago)
-*   Is Xanga 2.0 by paid subscription only?
-    *   \[Resolved\] by chopsticks4rent
-    *   7 months ago
-    *   in Data Migration
-    *   0 votes
-    *   3 (last comment by BrooklynHeart 1 day ago)
+    *   1 (last comment by BrooklynHeart 1 day ago)
 
 1 2 3 ... 126 Next
 
