@@ -109,7 +109,7 @@ Skip to contentZillow Real Estate &amp. Homes for Sale
     
     Compare Places
     
-*   Home Design
+*   Remodel
     *   Bathrooms
     *   Bedrooms
     *   Gardens
