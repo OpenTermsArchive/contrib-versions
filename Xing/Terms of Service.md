@@ -50,7 +50,7 @@ Last updated: 17 March 2014
 
   
 
-**“XING”** means the service as described below (including all applications) and/or the provider of this service, XING AG (together with XING S.á r.l. as of 1 May 2014 and in those cases listed in Section A.6.6 below).
+**“XING”** means the service as described below (including all applications) and/or the provider of this service, XING AG (together with XING S.à r.l. as of 1 May 2014 and in those cases listed in Section A.6.6 below).
 
 A. General Terms and Conditions for using the XING service
 
@@ -64,7 +64,7 @@ Additional terms may also apply to the use of individual applications in additio
 
 The General Terms and Conditions for using the XING service and any additional terms for the use of individual applications are hereinafter referred to as **“GTC”**.
 
-The contract is concluded with XING AG, Dammtorstraße 29-32, 20354 Hamburg, Germany, and as of 1 May 2014, in those cases listed in Section A.6.6 below additionally with XING S.á r.l., 9, Avenue Guillaume, L-1651 Luxembourg. Further contact details, commercial register details as well as the name of a person authorised to represent XING AG and, as of 1 May 2014, XING S.á r.l. can be found in the “About this site” section.
+The contract is concluded with XING AG, Dammtorstraße 29-32, 20354 Hamburg, Germany, and as of 1 May 2014, in those cases listed in Section A.6.6 below additionally with XING S.à r.l., 9, Avenue Guillaume, L-1651 Luxembourg. Further contact details, commercial register details as well as the name of a person authorised to represent XING AG and, as of 1 May 2014, XING S.à r.l. can be found in the “About this site” section.
 
    
 1\. Subject and basis for using XING
@@ -258,9 +258,9 @@ _This price modification provision (Section 6.5) shall apply without limitation 
 Please note: This Section 6.6 will become effective as of 1 May 2014.**  
 In case the user opts for a Premium membership as of 1 May 2014, chooses credit card as the applicable payment method, and pays with his MasterCard or Visa Card (not American Express), the following special provisions shall apply:  
 
-*   Party to the contract are both XING AG and XING S.á r.l. who are jointly and severally liable towards the user. This means, inter alia, that the provision of a service by one party fulfils the contractual obligation of the other. Events such as contestation, termination or withdrawal of the contract by the user, default or impossibility of performance or any other event listed in Section 425 (2) of the German Civil Code (BGB) will take effect for and against both parties.
-*   XING AG and XING S.á r.l. do not form one company but act for themselves respectively. XING AG and XING S.á r.l. exclusively act in their own name vis-à-vis the user unless expressly stated otherwise.
-*   Even though XING AG and XING S.á r.l. are both entitled to claim payment in the full amount from the user, the user is of course only obliged to make such payment once. The user must, however, bear in mind that they are not entitled (notwithstanding Section 428 sentence 1 of the German Civil Code) to make payment at their discretion to either XING AG or XING S.á r.l., but that they are required to exclusively make payment to the party demanding payment from them (unreal joint creditors, Section 428 sentence 1 of the German Civil Code). To this end, the user only needs to follow the instructions on the XING Websites.
+*   Party to the contract are both XING AG and XING S.à r.l. who are jointly and severally liable towards the user. This means, inter alia, that the provision of a service by one party fulfils the contractual obligation of the other. Events such as contestation, termination or withdrawal of the contract by the user, default or impossibility of performance or any other event listed in Section 425 (2) of the German Civil Code (BGB) will take effect for and against both parties.
+*   XING AG and XING S.à r.l. do not form one company but act for themselves respectively. XING AG and XING S.à r.l. exclusively act in their own name vis-à-vis the user unless expressly stated otherwise.
+*   Even though XING AG and XING S.à r.l. are both entitled to claim payment in the full amount from the user, the user is of course only obliged to make such payment once. The user must, however, bear in mind that they are not entitled (notwithstanding Section 428 sentence 1 of the German Civil Code) to make payment at their discretion to either XING AG or XING S.à r.l., but that they are required to exclusively make payment to the party demanding payment from them (unreal joint creditors, Section 428 sentence 1 of the German Civil Code). To this end, the user only needs to follow the instructions on the XING Websites.
 *   The user’s contact person for all questions regarding their membership or the XING Websites is exclusively XING AG. The contact details can be found on the XING Websites.
 
   
