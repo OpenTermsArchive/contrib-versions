@@ -14,13 +14,11 @@ My Cart (Edit) My Location_:_ n/a
 
 *   High-Speed Internet
     
-    *   Bundles
     *   Plans
     *   Online Security
     
 *   Digital TV
     
-    *   Bundles
     *   Plans
     
 *   Home Phone
