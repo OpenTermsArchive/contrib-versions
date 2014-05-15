@@ -325,13 +325,6 @@ The following third parties that collect information from you on the Myspace Ser
 *   Allows for end-user opt-outs.  
     See http://specificmedia.com/privacy
 
-*   Millennial Media, Inc.
-
-*   http://www.millennialmedia.com/privacy-policy
-*   Yes
-*   Allows for end-user opt-outs.  
-    See http://lp.mydas.mobi/rich/foundation/opt-out.php
-
 PLEASE NOTE: We are not responsible for third-party policies or practices. We try to keep this information current, and will add to and subtract from the chart above as appropriate, but it is provided as a courtesy and may not be current or accurate. Please contact the applicable third parties regarding their privacy and data security policies and practices.
 
 Key Terms
