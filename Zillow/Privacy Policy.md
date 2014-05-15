@@ -26,8 +26,6 @@ Skip to contentZillow Real Estate &amp. Homes for Sale
     
     Renter's Guide
     
-    Rental IQ Quiz
-    
     Post a Rental For Free
     
 *   Mortgages
@@ -108,7 +106,7 @@ Skip to contentZillow Real Estate &amp. Homes for Sale
     
     Compare Places
     
-*   Remodel
+*   Home Design
     *   Bathrooms
     *   Bedrooms
     *   Gardens
