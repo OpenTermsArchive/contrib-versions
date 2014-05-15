@@ -1,33 +1,16 @@
-*   Home
-*   Mail
-*   News
-*   Sports
-*   Finance
-*   Weather
-*   Games
-*   Groups
-*   Answers
-*   Screen
-*   Flickr
-*   Mobile
-*   More
-    *   Celebrity
-    *   Shine
-    *   Movies
-    *   Music
-    *   TV
-    *   Health
-    *   Shopping
-    *   Travel
-    *   Autos
-    *   Homes
+Ignorez pour effectuer la recherche.
 
-Yahoo Company Info Search Web Sign In Mail _Help_
-
-*   Account Info
+*   _Nouveau sur Yahoo ?_ Inscription
+*   _Connexion_
 *   Help
 
-Yahoo
+Nouveau Firefox 16, optimisé pour Yahoo
+
+*   Mail
+    
+*   Yahoo
+
+Yahoo Company Info Rechercher Recherche Web
 
 *   Accueil
 *   Produits
