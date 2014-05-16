@@ -1,4 +1,4 @@
-Couchsurfing Privacy Policy
+Privacy Policy
 
 **Effective Date: October 10, 2012**
 
