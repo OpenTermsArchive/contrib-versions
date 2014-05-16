@@ -1,6 +1,6 @@
 **A note to our members:** As a result of some productive feedback we received from the community, we recently made a few changes to our Terms of Use.  We’re always looking for better ways to serve and protect our members and we plan to continue to develop our policies based on member input. Please familiarize yourself with the terms below. For a complete index of every change we made, click here.  As always, we welcome your feedback here or to policies@couchsurfing.com. We apologize for any inconvenience, but our legal documents are only available in English.
 
-Couchsurfing Terms of Use
+Terms of Use
 
 **Last updated:** 06/03/2013
 
