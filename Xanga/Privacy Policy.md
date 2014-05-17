@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Need my archived data
-    *   by hamster143
-    *   56 minutes ago
+*   Archived Blogs in funky format
+    *   \[Resolved\] by TheGarbersofSeville
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   Can I archive my old blogs?
-    *   by delusionallygorgeous
-    *   1 hour ago
+    *   1 (last comment by eugenia 12 hours ago)
+*   can you revive my blog ?
+    *   \[Resolved\] by paste\_eater56
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   0
+    *   1 (last comment by eugenia 12 hours ago)
+*   Cannot receive a link to create a new password via email
+    *   \[Resolved\] by cclko
+    *   3 days ago
+    *   in Themes
+    *   0 votes
+    *   1 (last comment by eugenia 12 hours ago)
+*   Can my blog be revived?
+    *   \[Resolved\] by kaitlinellison
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 12 hours ago)
+*   please revive my blog
+    *   \[Resolved\] by twilight\_teardrops
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 12 hours ago)
+*   can you please revive my old blogs
+    *   \[Resolved\] by valdefaesia
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 12 hours ago)
+*   Please make my blog archive available!
+    *   \[Resolved\] by punkbaby138
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 12 hours ago)
+*   Needs to download deceased sibling's archive
+    *   \[Resolved\] by Roxbury\_Music\_Jesus\_Lover
+    *   2 days ago
+    *   in Miscellaenous
+    *   0 votes
+    *   1 (last comment by eugenia 12 hours ago)
+*   Make My old site, Premium
+    *   \[Resolved\] by Sacrifice\_it
+    *   2 days ago
+    *   in Premium
+    *   0 votes
+    *   1 (last comment by eugenia 12 hours ago)
+*   Lost my blog
+    *   \[Resolved\] by nganne
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 13 hours ago)
 *   blog archive unavailable?
-    *   by iheartyournamehere10
-    *   3 hours ago
+    *   \[Resolved\] by iheartyournamehere10
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   0
+    *   1 (last comment by eugenia 13 hours ago)
+*   Can I archive my old blogs?
+    *   \[Resolved\] by delusionallygorgeous
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 13 hours ago)
+*   Need my archived data
+    *   \[Resolved\] by hamster143
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 13 hours ago)
 *   couldn't 'archive' my old posts, how do i get them back?
     *   \[Resolved\] by iholdher
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by sillybuns819 10 hours ago)
-*   Lost my blog
-    *   by nganne
-    *   10 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Make My old site, Premium
-    *   by Sacrifice\_it
-    *   1 day ago
-    *   in Premium
-    *   0 votes
-    *   0
-*   Needs to download deceased sibling's archive
-    *   by Roxbury\_Music\_Jesus\_Lover
-    *   1 day ago
-    *   in Miscellaenous
-    *   0 votes
-    *   0
-*   Please make my blog archive available!
-    *   by punkbaby138
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   can you please revive my old blogs
-    *   by valdefaesia
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   please revive my blog
-    *   by twilight\_teardrops
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Can my blog be revived?
-    *   by kaitlinellison
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Cannot receive a link to create a new password via email
-    *   by cclko
-    *   2 days ago
-    *   in Themes
-    *   0 votes
-    *   0
-*   can you revive my blog ?
-    *   by paste\_eater56
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Archived Blogs in funky format
-    *   by TheGarbersofSeville
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
+    *   4 (last comment by sillybuns819 1 day ago)
 *   I lost my bloggings
     *   \[Resolved\] by alicecheungws
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 
 1 2 3 ... 125 Next
 
