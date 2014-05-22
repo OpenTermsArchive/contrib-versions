@@ -16,11 +16,9 @@ i. Amazon Cloud Drive Desktop applications
 ii. Amazon Cloud Drive Photos applications
 
 *   SLF4J, Copyright (c) 2004-2011, QOS.ch
-*   AFNetworking, Copyright (c) 2013 AFNetworking (http://afnetworking.com/)
+*   AFNetworking, Copyright (c) 2011, Gowalla
 *   GIKPopoverBackgroundView, Copyright (c) 2013, Geeks in Kilts (http://geeksinkilts.com/)
-*   UICKeyChainStore, Copyright (c) 2011 kishikawa katsumi
-*   ReactiveCocoa, Copyright (c) 2012 - 2014, GitHub, Inc.
-*   Libextobjc, Copyright (c) 2012 - 2013 Justin Spahr-Summers
+*   SSKeyChain, Copyright (c) 2010-2013, Sam Soffes
 
 b. MIT License (full text)
 
