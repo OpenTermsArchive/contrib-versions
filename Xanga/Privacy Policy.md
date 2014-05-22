@@ -8,98 +8,98 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   revive my blog
-    *   by Ilovemymarinekyle
-    *   2 hours ago
+*   bluesfrombutterflies, my blog
+    *   by bluesfrombutterflies
+    *   8 months ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   revive my blog
-    *   by Ilovemymarinekyle
-    *   2 hours ago
+    *   2 (last comment by Asenua 47 minutes ago)
+*   can you revive my blog please?
+    *   \[Resolved\] by cookiwing
+    *   18 hours ago
+    *   in Miscellaenous
+    *   0 votes
+    *   1 (last comment by eugenia 7 hours ago)
+*   Importing my archives and then starting a new blog
+    *   \[Resolved\] by JClivesinChris
+    *   13 hours ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   What happened to my Xanga account and entries?
-    *   by ReDStArROseS
-    *   10 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   My blog
-    *   by gameguy45
-    *   10 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   can you revive my blog ?
-    *   by horse\_child
+    *   1 (last comment by eugenia 7 hours ago)
+*   I cant find anything
+    *   \[Resolved\] by driggety
     *   12 hours ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   can you revive my blog ?
-    *   by freeming2005
-    *   21 hours ago
+    *   1 (last comment by eugenia 7 hours ago)
+*   I cannot see my blog article
+    *   \[Resolved\] by neo\_\_\_\_leo
+    *   10 hours ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   I can't find my blog
-    *   by lovemeasilovedyou
+    *   1 (last comment by eugenia 7 hours ago)
+*   Reviving my old blog
+    *   \[Resolved\] by Skyana14
     *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   Any way to recover my old xanga posts?
-    *   by Kennyhaha2
+    *   1 (last comment by eugenia 7 hours ago)
+*   Access to old xanga
+    *   \[Resolved\] by inscideout
     *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   Archived Blogs in funky format
-    *   \[Resolved\] by TheGarbersofSeville
-    *   6 days ago
+    *   1 (last comment by eugenia 7 hours ago)
+*   can you revive my blog, THX!!!
+    *   \[Resolved\] by bright\_km
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
-*   can you revive my blog ?
-    *   \[Resolved\] by paste\_eater56
-    *   6 days ago
+    *   1 (last comment by eugenia 7 hours ago)
+*   Can you revive my blog, THX!!!
+    *   \[Resolved\] by liam526
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
-*   Cannot receive a link to create a new password via email
-    *   \[Resolved\] by cclko
-    *   5 days ago
-    *   in Themes
-    *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
-*   Can my blog be revived?
-    *   \[Resolved\] by kaitlinellison
-    *   5 days ago
+    *   1 (last comment by eugenia 7 hours ago)
+*   revive blog
+    *   \[Resolved\] by winnng
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
-*   please revive my blog
-    *   \[Resolved\] by twilight\_teardrops
-    *   4 days ago
+    *   1 (last comment by eugenia 1 day ago)
+*   Revive my blog
+    *   \[Resolved\] by ching\_716
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
-*   can you please revive my old blogs
-    *   \[Resolved\] by valdefaesia
-    *   4 days ago
+    *   1 (last comment by eugenia 1 day ago)
+*   revive blog
+    *   \[Resolved\] by aubreyautumn
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
-*   Please make my blog archive available!
-    *   \[Resolved\] by punkbaby138
-    *   4 days ago
+    *   1 (last comment by eugenia 1 day ago)
+*   can you revive my blog
+    *   \[Resolved\] by karesse\_says
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 1 day ago)
+*   Blog, Shadowhart archived data?
+    *   \[Resolved\] by ShadowHart
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 1 day ago)
+*   My blog
+    *   \[Resolved\] by muiman62
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 1 day ago)
 
-1 2 3 ... 126 Next
+1 2 3 ... 127 Next
 
 Help Categories
 
