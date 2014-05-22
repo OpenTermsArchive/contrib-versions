@@ -164,7 +164,7 @@ Customer receives standard support which includes best available support during 
 
 Subscriber has the option, but not the obligation, to upgrade its standard customer support plan (“Support Services") to Gold Support, which shall be billed as set forth in the applicable Order Form.
 
-**Gold Support offers** twenty-four (24) hour, seven (7) days a week service and support, which includes: less than four (4) hour response to email tickets and access to support staff by Instant Messaging, Internet Relay Chat, and phone. Gold plan also includes two (2) hours a month of Integration Consulting Services.
+**Gold Support offers** twenty-four (24) hour, seven (7) days a week service and support, which includes: less than one (1) hour response to email tickets and access to support staff by Instant Messaging, Internet Relay Chat, and phone. Gold plan also includes two (2) hours a month of Integration Consulting Services.
 
 Confidential Information
 
