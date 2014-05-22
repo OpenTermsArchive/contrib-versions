@@ -2,15 +2,15 @@ _Privacy Policy_
 
 Our Privacy Policy has changed. Please click here for a summary of the changes.
 
-**Effective Date:** This Privacy Policy was last revised on June 10, 2013.
+**Effective Date:** This Privacy Policy was last revised on May 19, 2014.
 
-Myspace LLC ("**Myspace**," "**we**," "**our**," or "**us**") recognizes the importance of consumer privacy and we take this issue seriously. Accordingly, we have designed this Privacy Policy (this "**Policy**") in a format that is easy to navigate so that you can better understand our privacy practices with respect to the information provided or collected on or through any of the Myspace Services that contain a link to this Policy. The Myspace Services are operated by Myspace, a company with a mailing address of 8391 Beverly Blvd., #349, Los Angeles, CA 90048, which is owned by the digital media company Interactive Media Holdings, Inc. ("**IMH**").
+Myspace LLC ("**Myspace**," "**we**," "**our**," or "**us**") recognizes the importance of consumer privacy and we take this issue seriously. Accordingly, we have designed this Privacy Policy (this "**Policy**") in a format that is easy to navigate so that you can better understand our privacy practices with respect to the information provided or collected on or through any of the Myspace Services that contain a link to this Policy. The Myspace Services are operated by Myspace, a company with a mailing address of 8391 Beverly Blvd., #349, Los Angeles, CA 90048, which is owned by the digital media company Interactive Media Holdings, Inc. ("**IMH**"). IMH also owns, among other companies, Myspace's sister companies, Vindico LLC and Specific Media LLC. To review the privacy practices of Vindico LLC, Specific Media LLC, and certain other IMH affiliates, please click here and here.
 
 Please take a moment to familiarize yourself with this entire Policy prior to providing us with any information through the Myspace Services. Throughout the policy we use capitalized defined terms. These terms are intended to have the meaning given to them in the Policy. You should read the entire Policy, but to facilitate your review, here is a partial list of some of the key topics that are discussed in greater detail throughout the Policy.
 
 *   This Policy only applies to your activities on the Myspace Services that contain a link to the Policy, and it does not govern activities that are "offline" or unrelated to such Myspace Services. We encourage you to review the posted privacy policy on each of our websites and mobile applications prior to using them and providing us with information online.
 *   We collect certain information about you when you interact with the Myspace Services (_e.g._, Usage Information), both by directly asking you to provide us with such information and by automatically collecting it, including through the use of Web Technologies. Some of this information may be shared with third parties, including other Users and Visitors, advertisers, advertising related service providers and IMH affiliates.
-*   Third parties – including linked services (_e.g._, Twitter), advertisers, and advertising service providers –-may also collect certain information about you in connection with your use of the Myspace Services (_e.g._, Usage Information).
+*   Third parties – including linked services (_e.g._, Twitter), advertisers, and advertising service providers – may also collect certain information about you in connection with your use of the Myspace Services (_e.g._, Usage Information).
 *   Your media consumption activities (_e.g._, streaming and downloading music, streaming video, IPTV, digital video, _etc_.) may be tracked through your use of the Myspace Services, subject to some limited preference settings. We may retain, use and disclose this media content consumption information as provided below for up to two (2) years from the date in which you consent unless you otherwise withdraw your consent. If we obtain a new consent from you after the date that we obtain your original consent, this period will be extended for additional two (2) year periods each time we obtain a new consent from you. Please review the terms of our Video Privacy Policy, which supplements this Policy.
 *   You may be served with targeted advertising on the Myspace Services and on websites, applications, and other platforms owned or controlled by third parties based on information about you collected both on and off the Myspace Services, including advertisements based on your location and/or Usage Information.
 *   Any information collected about you in connection with your use of the Myspace Services may be transferred to the United States. If you are based outside of the U.S., you expressly consent to the processing of your information in accordance with the terms and conditions set forth in this Policy.
@@ -139,11 +139,11 @@ In addition, please review Myspace Services' Terms of Use, which governs your us
         *   Device location (including GPS and longitude and latitude location information)
         *   Other information that you choose to share with Myspace
         
-        We may supplement or otherwise combine the information we collect directly through the Myspace Services with information received or collected from IMH affiliates or other third parties .
+        We may supplement or otherwise combine the information we collect directly through the Myspace Services with information received or collected from IMH affiliates or other third parties.
         
         Myspace will treat any information received from third parties (including providers of Third-Party Linked Services) as set forth in this Policy. However, the information practices of third parties are not governed by this Policy. Myspace cannot control the treatment of your information by third parties and we are not responsible for their privacy practices, which may differ from those described in this Policy. We encourage you to review the privacy policies and terms of service of any such third parties prior to choosing to integrate and/or install them on your Account or disclosing information to them. If you have any questions regarding a third party's information practices, you must contact the relevant entity directly.
         
-        For additional details regarding how the IMH affiliates collect, use, and share information, please consult IMH’s privacy policy here.
+        For additional details regarding how the IMH affiliates collect, use, and share information, please consult IMH’s privacy policy here and here.
         
         **Information We Receive From Other Third Parties**
         
@@ -226,15 +226,15 @@ In addition, please review Myspace Services' Terms of Use, which governs your us
     
     For more information, please see Section 10 below titled "Managing Your Information On, And Communications From, Myspace."
     
-    20.  To Support And Improve The Myspace Services
+    20.  To Support And Improve The Myspace Services And The Services Of IMH Affiliates
     
-    Many of the Myspace Services are free to Users because they are supported by advertising. We strive to make the advertising on the Myspace Services as relevant to you as possible. As a result, you may be served ads that are personalized based on, for example, your location, age, gender, content consumption, connections and other information, and we and third parties may use Web Technologies to deliver these ads. Additionally, we may share your Personal Information, Demographic Information, Usage Information, Device Identifiers, and any other information that we receive or collect with our partners (including IMH affiliates and our third-party advertising partners) in order to enable customization of the advertising displayed on the Myspace Services, other websites across the internet and other platforms, services and networks, including mobile and other connected Device platforms, and for other purposes not prohibited by this Policy. The parties with whom we may share your information may in turn share your information with others. For additional information regarding the privacy practices of our third-party advertising partners, as well as the choices that they may make available to you, please click here.
+    Many of the Myspace Services are free to Users because they are supported by advertising. We strive to make the advertising on the Myspace Services as relevant to you as possible. As a result, you may be served ads that are personalized based on, for example, your location, age, gender, content consumption, connections and other information, and we and third parties may use Web Technologies to deliver these ads. Additionally, we may share your Personal Information, Demographic Information, Usage Information, Device Identifiers, and any other information that we receive or collect with our partners (including IMH affiliates and our third-party advertising partners) in order to enable customization of the advertising displayed on the Myspace Services, other websites across the internet and other platforms, services and networks, including mobile and other connected Device platforms, and for other purposes not prohibited by this Policy. The parties with whom we may share your information may in turn share your information with others. If you do not wish for Myspace to use or share your information for purposes of personalized advertising, please click here to adjust your Profile Settings. For additional information regarding the privacy practices of our third-party advertising partners, as well as the choices that they may make available to you, please click here.
     
     22.  To Deliver Social Advertising To You And Your Friends
     
     Myspace and Myspace’s ad-technology provider(s), including, for example, any IMH-affiliated company, and third-party providers, may also use Profile Content (both Public Information and Restricted Information) when delivering advertisements to you, your Myspace connections, other Users, and other users on any IMH-affiliated company advertising network or third-party advertising networks, including for example, by including your full name, username and/or photo in, or in connection with, sponsored content and advertisements.
     
-    We may, from time to time, offer you options to manage this type of social advertising via your Profile Settings, and Myspace will, and will require Specific Media or other providers to make good faith efforts to respect Profile Settings when delivering social advertisements. For any additional information on these setting options, please click here.
+    If you do not wish for Myspace to use or share your information for purposes of personalized advertising, please click here.
     
     25.  To Protect The Rights Of Myspace And Our Users, And To Comply With Legal Process
     
@@ -307,25 +307,6 @@ If you have questions about this Policy or any complaints about our procedures, 
     Attn: Customer Care - Privacy  
     8391 Beverly Blvd., #349  
     Los Angeles, California 90048
-
- 
-
-The following third parties that collect information from you on the Myspace Services have given us notice that you may obtain information on their policies and practices, and in some instances opt-out of certain of their activities, as follows:
-
-*   Party
-*   Service
-*   For More Information
-*   Use of Web Technologies
-*   Privacy Choices
-
-*   Specific Media LLC
-
-*   www.specificmedia.com/privacy
-*   Yes
-*   Allows for end-user opt-outs.  
-    See http://specificmedia.com/privacy
-
-PLEASE NOTE: We are not responsible for third-party policies or practices. We try to keep this information current, and will add to and subtract from the chart above as appropriate, but it is provided as a courtesy and may not be current or accurate. Please contact the applicable third parties regarding their privacy and data security policies and practices.
 
 Key Terms
 
