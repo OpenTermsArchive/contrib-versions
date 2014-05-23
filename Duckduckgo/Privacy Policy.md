@@ -1,4 +1,4 @@
-Privacy Check out our illustrated search privacy guides at donttrack.us and dontbubble.us.
+Check out our illustrated search privacy guides at donttrack.us and dontbubble.us.
 
 **DuckDuckGo does not collect or share personal information.** That is our privacy policy in a nutshell. The rest of this page tries to explain why you should care.
 
@@ -14,7 +14,7 @@ Privacy Check out our illustrated search privacy guides at donttrack.us and dont
 *   Before that, on 9/25/10. This paragraph was added.
 *   Before that, on 9/16/10. This paragraph was added.
 
-**Why You Should Care - Search Leakage**   \[top\]
+Why You Should Care Search Leakage   \[top\]
 
 At other search engines, when you do a search and then click on a link, your search terms are sent to that site you clicked on (in the HTTP referrer header). We call this sharing of personal information "search leakage."
 
@@ -38,7 +38,7 @@ You can enter !proxy domain into DuckDuckGo as well, and we will route you throu
 
 Because of these drawbacks in HTTPS, POST and proxies we decided to take the redirect approach to combat search leakage. However, we leave the choice up to you. You can deviate from the default on our settings page by toggling the redirect or address bar settings. You can also use our encrypted version.
 
-**Why You Should Care - Search History**   \[top\]
+Search History   \[top\]
 
 Other search engines save your search history. Usually your searches are saved along with the date and time of the search, some information about your computer (e.g. your IP address, User agent and often a unique identifier stored in a browser cookie), and if you are logged in, your account information (e.g. name and email address).
 
@@ -60,7 +60,7 @@ The bottom line is if search engines have your information, it could get out, ev
 
 For these reasons, DuckDuckGo takes the approach to not collect any personal information. The decisions of whether and how to comply with law enforcement requests, whether and how to anonymize data, and how to best protect your information from hackers are out of our hands. Your search history is safe with us because it cannot be tied to you in any way.
 
-**Information Not Collected**   \[top\]
+Information Information Not Collected   \[top\]
 
 When you search at DuckDuckGo, we don't know who you are and there is no way to tie your searches together.
 
@@ -78,7 +78,7 @@ What search engines generally do when they anonymize data is get rid of part of 
 
 However, in many cases, this so-called anonymous data can still tie your searches together, which can be used to reconstruct who you are and what you searched for. Additionally, search engines usually are silent on what they do with the User agent, which has been shown to also have enough information to often be personally identifiable, especially if isolated to a particular search session (day).
 
-**Information Collected**   \[top\]
+Information Collected   \[top\]
 
 At DuckDuckGo, no cookies are used by default. If you have changed any settings, then cookies are used to store those changes. However, in that case, they are not stored in a personally identifiable way. For example, the large size setting is stored as 's=l'. no unique identifier is in there. Furthermore, if you prefer not to use cookies to store settings, you can use URL parameters instead.
 
@@ -90,13 +90,13 @@ Similarly, we may add an affiliate code to some eCommerce sites (e.g. Amazon &. 
 
 Finally, if you give us feedback, it may be stored in our email. However, you can give anonymous feedback (by not entering your email or other personal info on the feedback form).
 
-**Information Shared**   \[top\]
+Information Shared   \[top\]
 
 If you turn redirects off in the settings and you don't either turn POST on or use our encrypted site, then your search could leak to sites you click on. Yet as explained above, this does not happen by default.
 
 Also, like anyone else, we will comply with court ordered legal requests. However, in our case, we don't expect any because there is nothing useful to give them since we don't collect any personal information.
 
-**Other Search Engines**   \[top\]
+Other Other Search Engines   \[top\]
 
 If you care about search privacy, you might also want to check out these other search engines that take it seriously by default.
 
@@ -104,10 +104,10 @@ If you care about search privacy, you might also want to check out these other s
 
 Each does things a bit differently in terms of privacy and very differently in terms of results. And not all go as far as DuckDuckGo in some aspects. However, none store your personal information by default, which make them all pretty safe in our opinion.
 
-**Updates**   \[top\]
+Updates   \[top\]
 
 If this policy is substantively updated, we will update the text of this page and provide notice to you at http://duckduckgo.com/about by writing '(Updated)' in red next to the link to this page (in the footer) for a period of at least 30 days.
 
-**Feedback**   \[top\]
+Feedback   \[top\]
 
 I (Gabriel Weinberg) am the founder of Duck Duck Go and personally wrote this privacy policy. If you have any questions or concerns, please submit feedback.
