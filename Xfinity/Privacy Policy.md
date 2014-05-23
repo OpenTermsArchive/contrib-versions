@@ -336,11 +336,11 @@ Skip Footer Navigation Links XFINITY
 *   Dating
 *   Entertainment
 *   Games
-*   Jobs
 *   News
 *   Real Estate
 *   Sports
 *   Travel
+*   XFINITY Toolbar
 
 Â  XFINITY TV
 
