@@ -3,37 +3,33 @@
 
   
 
-_Date of Last Revision: 28 January 2011 17:30 BST_
+_Date of Last Revision: 15 May 2014_
 
-The Flattr website (“Flattr Site”) is a social platform that lets you show love for the things you like. With the Flattr Site we want you to support the people you like and enable them to continue with what they do. We also want you to add your own things to it and receive appreciation from others.
-
-Flattr Networks Limited (“Flattr”, “we”, “us” or “our”), a United Kingdom limited company, is the data controller for the purpose of the Data Protection Act 1998 (“Act”). Flattr knows that you care about how your personal information is used and shared, and we are committed to treating your information with respect and sensitivity. Please read the following to learn more about this commitment and our privacy policy (“Privacy Policy”). By visiting the Flattr Site you are accepting the practices outlined in this Privacy Policy. The Privacy Policy covers Flattr’s treatment of personal data that Flattr gathers when you are on the Flattr Site and when you use the “Service” (defined in Flattr’s Terms of Use (“Terms”)). The Privacy Policy does not apply to the practices of third parties that Flattr does not own or control, or to individuals that Flattr does not employ or manage.
+Flattr AB (“Flattr”, “we”, “us” or “our”), a Swedish company, is the data controller for the purpose of the Data Protection Act 1998 (“Act”). Flattr knows that you care about how your personal information is used and shared, and we are committed to treating your information with respect and sensitivity. Please read the following to learn more about this commitment and our privacy policy (“Privacy Policy”). By visiting the Flattr Site you are accepting the practices outlined in this Privacy Policy. The Privacy Policy covers Flattr’s treatment of personal data that Flattr gathers when you are on the Flattr Site and when you use the “Service” (defined in Flattr’s Terms of Use (“Terms”)). The Privacy Policy does not apply to the practices of third parties that Flattr does not own or control, or to individuals that Flattr does not employ or manage.
 
 “You”, “your” and “yourself” refer to anyone visiting the Flattr Site or using the Service.
 
 **Changes to the Privacy Policy**
 
-As the Service evolves we may from time to time amend the Privacy Policy. We encourage you to check the Flattr Site frequently to see the current Privacy Policy and Terms in effect and any changes that may have been made to them. If we make changes to the Privacy Policy, we will post the revised Privacy Policy so you are always aware of what information we collect, how we use it and under what circumstances, if any, it is disclosed, along with the revised effective date, on the Flattr Site. Please check back here periodically or contact us at http://flattr.com/support/contact for the current version of the Privacy Policy.
+As the Service evolves we may from time to time amend the Privacy Policy. We encourage you to check the Flattr Site frequently to see the current Privacy Policy and Terms in effect and any changes that may have been made to them. If we make changes to the Privacy Policy, we will post the revised Privacy Policy so you are always aware of what information we collect, how we use it and under what circumstances, if any, it is disclosed, along with the revised effective date, on the Flattr Site.
 
 **Children’s Privacy (Under 18 Years of Age)**
 
 You must be 18 years or older to register to use the Flattr website. If you are under the age of 18, please do not use or access the Flattr Site or Service in any way. We will not knowingly collect or use any personal information from any children under the age of 18. If we learn that Flattr has collected information from a child under the age of 18, we will delete that information as quickly as possible.
 
-Information Collected by Flattr
+**Information Collected by Flattr**
 
 We only collect and process information that is relevant to the purpose of our Flattr Site and Service. This information allows us to provide you with a customised and efficient experience. We do not collect and process this information in a way that is incompatible with this purpose. You may choose not to provide us with certain information but then you may not be able to take advantage of many of our features. We collect the following types of information from you:
 
 **1\. Information You Provide to Us:**
 
-Registration: In order for you to use the Services you will provide us with information by filling in forms on the Flattr Site. This may include information provided at the time of registering to use the Flattr Site including your full name and e-mail address (“User Profile”), subscribing to the Service, posting material or requesting further services. We may also ask you for information when you report a problem with the Flattr Site.
+Registration: In order for you to use the Services you will provide us with information by filling in forms on the Flattr Site. We may also ask you for information when you report a problem with the Flattr Site. We also allow you to express yourself beyond just the information collected during registration, such as a bio or favorite URLs and photos of yourself in your profile. As indicated below, in the section titled “Sharing Your Information”, you can control how your information is displayed and used.
 
-User Profile: To allow you to express yourself beyond just the information collected during registration, we may eventually enable you to provide additional information, such as a bio or favorite URLs. In addition, you may eventually be able to include photos of yourself in your profile. As indicated below, in the section titled “Sharing Your Information”, you can control how your information is displayed and used.
+Once you start using the Flattr Site, we collect information about your activity on Flattr-enabled sites via cookies in order to recognise you. We do this so you can avoid having to re-identify yourself manually when you visit the sites you have chosen to support.
 
-Your Use of the Service: Once you start using the Flattr Site, we collect information about your activity on Flattr-enabled sites via cookies in order to recognise you. We do this so you can avoid having to re-identify yourself manually when you visit the sites you have chosen to support. Once activated, the “Flattr Button” (defined in the Terms) also keeps count of your Flattr Button clicks in order to allocate your “Flattring Amounts” as “Flattring Proceeds” (each defined in the Terms). We may keep details of any such allocations and any disbursements of the Flattring Proceeds as well as the information about any Site Owner’s “Designated Account” (defined in the Terms) required for any such disbursements. We encode our cookies so that only we can interpret the information stored in them. You can decline our cookie if your browser permits but doing so will interfere with the use of the Service.
+If you contact us, we may keep a record of that correspondence.
 
-Correspondence: If you contact us, we may keep a record of that correspondence.
-
-Surveys: We may also ask you to complete surveys that we use for research and to improve the Service we offer you, although you do not have to respond to them.
+We may also ask you to complete surveys that we use for research and to improve the Service we offer you, although you do not have to respond to them.
 
 **2\. Automatic Information:**
 
@@ -45,7 +41,7 @@ Many companies offer programs that help you visit websites anonymously. While Fl
 
 **E-mail Communications**
 
-Flattr is very concerned about your privacy and we will never provide your e-mail address to a third party without your explicit permission, as detailed in the “Sharing Your Information” section below. Flattr may send out e-mails with Flattr-related news, products, offers, surveys or promotions. You may also receive notification e-mails from Flattr, which inform you of actions that have been performed on the Flattr Site. If you do not want to receive e-mails from us, please visit http://flattr.com/support/contact or follow the instructions contained in the unwanted e-mail message. However, please note that in all cases you will continue to receive all system e-mails (e.g. those regarding forgotten user passwords) and legal notices (e.g. updates to our policies) from us.
+Flattr is very concerned about your privacy and we will never provide your e-mail address to a third party without your explicit permission, as detailed in the “Sharing Your Information” section below. Flattr may send out e-mails with Flattr-related news, products, offers, surveys or promotions. You may also receive notification e-mails from Flattr, which inform you of actions that have been performed on the Flattr Site. If you do not want to receive e-mails from us you can change this in your settings. However, please note that in all cases you will continue to receive all system e-mails (e.g. those regarding forgotten user passwords) and legal notices (e.g. updates to our policies) from us.
 
 Additionally, while we appreciate your feedback and other suggestions about the Flattr Site and Service, we are not responsible for maintaining the confidentiality of any such feedback that you provide us and you agree that we may use your feedback at our discretion without compensation or liability to you.
 
@@ -81,7 +77,7 @@ Because the Flattr Site enables people to discover and share information with on
 
 • Only employees who need personal information to perform a specific job (for example, a customer service representative) are granted access to it. All such employees are kept up to date on our privacy and security practices.
 
-• Personal information collected through the Flattr Site and/or the Service may be stored and processed in the United Kingdom or in any other country in which Flattr or its providers (or their affiliates or providers) maintain facilities. By using the Flattr Site and/or the Service, you consent to any such transfer and processing of information outside of your country. Flattr will take all steps reasonably necessary to ensure that your information is treated securely and in accordance with the Privacy Policy.
+• Personal information collected through the Flattr Site and/or the Service may be stored and processed in any country in which Flattr or its providers (or their affiliates or providers) maintain facilities. By using the Flattr Site and/or the Service, you consent to any such transfer and processing of information outside of your country. Flattr will take all steps reasonably necessary to ensure that your information is treated securely and in accordance with the Privacy Policy.
 
 • Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal information, we cannot guarantee the security of your information transmitted to the Flattr Site and any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
@@ -103,22 +99,12 @@ We use information held about you in the following ways:
 
 • By visiting your User Profile you can correct, amend, add or delete personal information on the Flattr Site. When you update information, however, we often maintain a copy of the unrevised information in our records.
 
-• You may request deletion of your Flattr User Account here http://flattr.com/support/contact.
-
-• As explained earlier, the “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, you will not be able to take advantage of some of our attractive features.
-
 **Site Owners’ Information**
 
 • Flattr Button activity may be publicly available on an opt-in basis: Please be aware that most of the information we collect through the Service related to a Site Owner and Flattr Buttons could be made available to the public on the Service. Except for the Designated Account information and your Flattr User Account login information (user name and password), all other information about activity through the Service involving any Flattr Button(s) could be publicly displayed to everyone with access to the Internet, whether or not they are a registered Flattr User or a Site Owner. This includes information on all monies (i.e. Flattring Amounts) received by each of the Flattr Buttons (“Revenue History”) and from which Flattr Users these monies (including amounts) are received (subject only to privacy constraints imposed by the Flattr Users) (“Contribution History”). We only use this information for display and accounting purposes and this information will not be used for any other purpose, and is only publicly visible if you opt-in by changing your Privacy settings.
 
 • Flattr Button activity remains publicly available even after suspension: Even after a Flattr Button is removed from a Site Owner’s site (“Site”) and marked as “inactive” on the Flattr Site, the history of that Flattr Button may remain in the Flattr system on an ongoing basis at Flattr’s discretion. This includes information about the Site, traffic to the Site, Flattr contributions to the Site accrued prior to the removal of the Flattr Button from the Site and other information relating to the Site in connection with the Service, as part of the Service, including the information used for historical financial tracking purposes as well as for publicly displaying the Contribution History of Flattr Users and the Revenue History of Site Owners.
 
-**Links to Other Websites**
-
-The Flattr Site may contain links to and from other websites. If you follow a link to one of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
-
 **Conditions of Use**
 
-If you decide to visit the Flattr Site, your visit and any possible dispute over privacy is fully subject to the Privacy Policy and the Terms including but not limited to the provisions within the Terms regarding limitation of liability, dispute resolution and application of English law.
-
-_Date of Last Revision: 28 January 2011 17:30 BST_
+If you decide to visit the Flattr Site, your visit and any possible dispute over privacy is fully subject to the Privacy Policy and the Terms including but not limited to the provisions within the Terms regarding limitation of liability, dispute resolution and application of Swedish law.
