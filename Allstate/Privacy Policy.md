@@ -107,11 +107,22 @@ Text Size
   
   
 
-**Revised August 13, 2012**
+**Revised May 22, 2014**
 
 Thank you for choosing Allstate. We value you, respect your privacy and work hard to protect your personal information.  
   
 This statement is provided on behalf of Allstate Insurance Company and the affiliates ("Allstate") listed at the end of this notice. We would like to explain how we collect, use and share the information we obtain about you in the course of doing business.
+
+The Truste certification covers:  
+  
+
+*   Allstate.com
+*   Miallstate.com
+*   M.allstate.com
+*   M.miallstate.com
+*   Goodhandsroadside.allstate.com
+*   Mobile application for Allstate
+*   Mobile application for Good Hands Roadside
 
 Our Privacy Assurance
 
@@ -123,7 +134,7 @@ Our Privacy Assurance
   
 As you can see, protecting your personal information is important to us. In addition to the practices described above, we use a variety of physical, technical and administrative security measures that help to safeguard your information. For Social Security Numbers (SSN), this includes restricting access to our employees, agents and others who use your SSN only as permitted by law, such as to comply with the law, to provide you with products and services or to handle your claims. Our privacy practices continue to apply to your information even if you cease to be an Allstate customer. What Personal Information Do We Have and Where Do We Get It
 
-We gather personal information from you and from outside sources for business purposes. Some examples of the information we collect from you may include your name, phone number, home and e-mail addresses, driver's license number, social security number, marital status, family member information and healthcare information. Also, we maintain records that include, but are not limited to, policy coverages, premiums, and payment history. We also collect information from outside sources that may include, but is not limited to, your driving record, claims history, medical information and credit information.  
+We gather personal information from you and from outside sources for business purposes. Some examples of the information we collect from you may include your name, phone number, home and e-mail addresses, driver's license number, social security number, marital status, family member information and healthcare information. Also, we maintain records that include, but are not limited to, policy coverages, premiums, and payment history. We also collect information from outside sources that may include, but is not limited to, your driving record, claims history, medical information and credit information. Your information is stored in an encrypted environment.  
   
 In addition, Allstate and its business partners gather information through Internet activity, which may include, for example, your operating system, links you used to visit allstate.com, web pages you viewed while visiting our site or applications, Internet Protocol (IP) addresses, and cookies. We use cookies, analytics and other technologies to help:
 
@@ -132,7 +143,20 @@ In addition, Allstate and its business partners gather information through Inter
 *   Develop new services
 *   Know how many visitors have seen or clicked on our ads
 
-Also, our business partners assist us with monitoring information including, but not limited to, IP addresses, domain names and browser data, which can help us to better understand how visitors use allstate.com. How We Use and Share Your Personal Information
+Also, our business partners assist us with monitoring information including, but not limited to, IP addresses, domain names and browser data, which can help us to better understand how visitors use allstate.com. Mobile Analytics
+
+We use Mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile app.
+
+Location Services
+
+If you choose, your location is obtained from the mobile device or the network using your device's GPS functionality, or directly from you. We use your location information to  
+
+*   search for information you request - including agent searches
+*   identify the location of an accident you are reporting
+
+  
+Your location information is stored on Allstate's servers and retained by Allstate until you delete the application from your device. When we execute such searches on your behalf we do not transfer your identity or personally identifiable information to third parties, other than with service providers necessary to help perform this function. This information is not used to create a profile about you or your activities.  
+To prevent Allstate from using your current location, you can disable the GPS functionality on your mobile device or choose not to submit current location when prompted. How We Use and Share Your Personal Information
 
 In the course of normal business activities, we use and share your personal information. We may provide your information to persons or organizations within and outside of Allstate. This would be done as required or permitted by law. For example, we may do this to:  
 
@@ -142,6 +166,7 @@ In the course of normal business activities, we use and share your personal info
 *   Prevent fraud
 *   Comply with requests from regulatory and law enforcement authorities
 *   Participate in insurance support organizations
+*   Send you push notifications
 
 The persons or organizations with whom we may share your personal information may include, among others:  
 
@@ -159,7 +184,7 @@ The Internet and Your Information Security
 
 Our web sites, allstate.com and miallstate.com, provides information about us, our products, and the agencies and brokers that represent us. You may also perform some transactions on the web site. This Privacy Statement applies to users of allstate.com and miallstate.com, regardless of whether the user is an Allstate customer.  
   
-We use cookies, analytics and other technology to help us provide users with a better service and a more customized web experience. Additionally, our business partners use tracking services, analytics and other technologies to monitor visits to allstate.com. The website may also use web beacons (also called "clear GIFs" or "pixel tags") in conjunction with cookies. If you prefer, you can choose to not accept cookies by changing the settings on your web browser. Many commercial Internet sites use cookies. a cookie enables the site to label you as a particular user, but it does not identify you by name or address unless you have provided us with such information (over the Internet or otherwise) or set up preferences in your browser to do so automatically.  
+We use cookies, analytics, remarketing and other technology to help us provide users with a better service and a more customized web experience. Additionally, our business partners use tracking services, analytics and other technologies to monitor visits to allstate.com. The website may also use web beacons (also called "clear GIFs" or "pixel tags") in conjunction with cookies. If you prefer, you can choose to not accept cookies by changing the settings on your web browser. Many commercial Internet sites use cookies. a cookie enables the site to label you as a particular user, but it does not identify you by name or address unless you have provided us with such information (over the Internet or otherwise) or set up preferences in your browser to do so automatically.  
   
 You may opt out of accepting cookies by changing the settings on your browser. However, rejecting cookies may prevent you from using certain functions and you may have to repeatedly enter information to take advantage of services or promotions.  
   
@@ -212,6 +237,10 @@ Whose Privacy Statement Applies to Links and Co-Branded Sites?
 
 Allstate provides links to other sites as a convenience to persons who visit the Allstate web site. If you choose to use the services provided by those sites, you may be asked by those sites to provide certain personally identifiable information (some of which may be shared with Allstate). Please be aware that Allstate is not responsible for the privacy practices of those sites. We encourage you to be aware when you leave our site and to read the privacy policies of every Web site that you visit, as the privacy policies of those sites may differ from ours. Our Privacy Statement applies solely to this Web site.
 
+Social Media Widgets
+
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
 Your Preference for Sharing Personal Information
 
 We would like to share your personal information with one or more Allstate affiliates in order to make you aware of different products, services and offers they can provide. However, you can request that Allstate and its affiliate companies not share your personal information with our affiliates for marketing products and services.  
@@ -232,7 +261,7 @@ Allstate Insurance Company
 
 About TRUSTe
 
-Allstate has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.  
+Allstate Insurance ("Allstate") has been awarded TRUST's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, http://www.allstate.com and http://www.miallstate.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.  
   
 If users have questions or concerns regarding this statement, they should first contact Allstate at customerprivacy@allstate.com. If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the TRUSTeWatchdog Dispute Resolution Process. TRUSTe will serve as a liaison with the Web site to resolve users concerns. All the rights in the TRUSTe mark(s) belong to TRUSTe.
 
