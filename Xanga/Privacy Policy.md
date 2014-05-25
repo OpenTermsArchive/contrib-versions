@@ -8,21 +8,39 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Revive!
+    *   by banadian
+    *   4 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   i cannot see my old blogs
+    *   by TISSUE\_YAN1122
+    *   15 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   please revive my blog... :(
-    *   by oddducky87
-    *   1 hour ago
+    *   by Fool\_Hei
+    *   22 hours ago
     *   in Data Migration
     *   0 votes
     *   0
 *   please revive my blog... :(
     *   by oddducky87
-    *   1 hour ago
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   please revive my blog... :(
+    *   by oddducky87
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can I have my site back?
     *   by heatxel
-    *   9 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -31,73 +49,55 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Themes
     *   0 votes
-    *   2 (last comment by cclko 10 hours ago)
+    *   2 (last comment by cclko 1 day ago)
 *   bluesfrombutterflies, my blog
     *   \[Resolved\] by bluesfrombutterflies
     *   8 months ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by eugenia 13 hours ago)
+    *   3 (last comment by eugenia 1 day ago)
 *   Is it too late?
     *   \[Resolved\] by Fastpitch\_girly
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 14 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   can you revive my blog? :(
     *   \[Resolved\] by pinko\_berrii
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 14 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   can u revive my blog?please
     *   \[Resolved\] by kevinlo0529
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 14 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   revive my blog
     *   \[Resolved\] by LEONG0419
-    *   1 day ago
+    *   2 days ago
     *   in Adding &. Editing Entries
     *   0 votes
-    *   1 (last comment by eugenia 14 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   Can you revive my blog pleaseeee? :(
     *   \[Resolved\] by Nice\_everyday
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 14 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   Can't find my blog...
     *   \[Resolved\] by MCOSantos
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 1 day ago)
+*   Where's my blog?
+    *   \[Resolved\] by thecontradict
     *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 14 hours ago)
-*   Where's my blog?
-    *   \[Resolved\] by thecontradict
-    *   20 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 14 hours ago)
-*   can you revive my blog please?
-    *   \[Resolved\] by cookiwing
-    *   2 days ago
-    *   in Miscellaenous
-    *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
-*   Importing my archives and then starting a new blog
-    *   \[Resolved\] by JClivesinChris
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
-*   I cant find anything
-    *   \[Resolved\] by driggety
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 1 day ago)
 
 1 2 3 ... 128 Next
 
