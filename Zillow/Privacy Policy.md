@@ -13,6 +13,12 @@ Skip to contentZillow Real Estate &amp. Homes for Sale
     
     Post a Home For Free
     
+    For Sale by Owner
+    
+    For Sale by Agent
+    
+    Make Me Move
+    
 *   Rentals
     
     *   Apartments For Rent
@@ -36,21 +42,45 @@ Skip to contentZillow Real Estate &amp. Homes for Sale
     
     Affordability Calculator
     
-    See All
-    
-    Resources
-    
-    Mortgage Education Center
-    
-    HARP Program
+    Popular
     
     FHA Loan
     
     Home Equity Loan
     
-*   Agents
+    Tools
     
-    Find Trusted Pros
+    Get Custom Quotes
+    
+    HARP Program
+    
+    Mortgage Education Center
+    
+*   Advice
+    
+    Join Our Discussions
+    
+    Real Estate Forum
+    
+    Mortgage Forum
+    
+    Using Zillow Forum
+    
+    Ask a Question
+    
+    Education Guides
+    
+    Foreclosure Center
+    
+    Mortgage Education Center
+    
+    Buyer's Guide
+    
+    Zillow Help Center
+    
+*   Find a Pro
+    
+    Find a Real Estate Professional
     
     Real Estate Agents
     
@@ -62,23 +92,13 @@ Skip to contentZillow Real Estate &amp. Homes for Sale
     
     Review an Agent, Lender or Pro
     
-    For Agents
+    Marketing on Zillow
     
     Real Estate Agent Advertising
     
-    Join the Agent Directory
-    
-    Access Agent Hub
-    
-    For Rental Pros
-    
-    Real Estate Advertising
-    
-    For Pros
-    
     Join the Professional Directory
     
-*   Local
+*   Local Info
     
     Popular
     
@@ -94,25 +114,14 @@ Skip to contentZillow Real Estate &amp. Homes for Sale
     *   Living Rooms
 *   More
     
-    Zillow Advice
-    
-    Real Estate Forum
-    
-    Mortgage Forum
-    
-    Using Zillow Forum
-    
-    Ask a Question
-    
-    Guides
-    
-    Foreclosure Center
-    
-    Mortgage Education Center
-    
-    Buyer's Guide
-    
-    Renter's Guide
+    *   Mobile
+    *   What Zillow Offers
+    *   Real Estate Advertising
+    *   Widgets, Badges &. Data
+    *   Zillow Visuals
+    *   Zillow Research
+    *   Zillow TV Spots
+    *   Help
     
     **Blogs**
     
@@ -122,28 +131,11 @@ Skip to contentZillow Real Estate &amp. Homes for Sale
     
     Zillow Engineering
     
-    **More**
-    
-    Real Estate Advertising
-    
-    Advertising Solutions
-    
-    Zillow Visuals
-    
-    Zillow Research
-    
-    Zillow TV Spots
-    
-    Widgets, Badges &. Data
-    
-    Zillow Mobile Apps
-    
-    Help
-    
 
-*   Advertise
+*   For Pros
+    *   Agents
+    *   Rental Pro
 *   Sign InorJoin
-*   ?
 
 Find home values and listings Location: Search
 
