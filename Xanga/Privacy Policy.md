@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Can I have my old layout back?
+    *   \[Resolved\] by daidaiisme
+    *   5 months ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by flyawayarlo 2 hours ago)
+*   Previous skin/script (updated)
+    *   by flyawayarlo
+    *   3 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   revive my blog
+    *   by arthur\_po
+    *   11 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   revive my blog
     *   by la\_keyko
-    *   9 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Revive my blog?
     *   by Stephnalamx
-    *   11 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please revive my blog!!
     *   by CaLi\_DaNz\_QuEeN
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Revive!
     *   by banadian
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   i cannot see my old blogs
     *   by TISSUE\_YAN1122
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   please revive my blog... :(
     *   by Fool\_Hei
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   please revive my blog... :(
-    *   by oddducky87
     *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   please revive my blog... :(
     *   by oddducky87
-    *   3 days ago
+    *   4 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   please revive my blog... :(
+    *   by oddducky87
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can I have my site back?
     *   by heatxel
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Cannot receive a link to create a new password via email
     *   \[Resolved\] by cclko
-    *   1 week ago
+    *   2 weeks ago
     *   in Themes
     *   0 votes
-    *   2 (last comment by cclko 3 days ago)
+    *   2 (last comment by cclko 4 days ago)
 *   bluesfrombutterflies, my blog
     *   \[Resolved\] by bluesfrombutterflies
     *   8 months ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by eugenia 3 days ago)
+    *   3 (last comment by eugenia 4 days ago)
 *   Is it too late?
     *   \[Resolved\] by Fastpitch\_girly
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
-*   can you revive my blog? :(
-    *   \[Resolved\] by pinko\_berrii
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
-*   can u revive my blog?please
-    *   \[Resolved\] by kevinlo0529
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
-*   revive my blog
-    *   \[Resolved\] by LEONG0419
-    *   4 days ago
-    *   in Adding &. Editing Entries
-    *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 
 1 2 3 ... 128 Next
 
