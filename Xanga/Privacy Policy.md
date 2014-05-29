@@ -8,75 +8,81 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Can you revive my blog, THX!!!
+    *   \[Resolved\] by liam526
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by liam526 22 hours ago)
 *   Can I have my old layout back?
     *   \[Resolved\] by daidaiisme
     *   5 months ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by flyawayarlo 2 hours ago)
+    *   2 (last comment by flyawayarlo 1 day ago)
 *   Previous skin/script (updated)
     *   by flyawayarlo
-    *   3 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   revive my blog
     *   by arthur\_po
-    *   11 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   revive my blog
     *   by la\_keyko
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Revive my blog?
     *   by Stephnalamx
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please revive my blog!!
     *   by CaLi\_DaNz\_QuEeN
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Revive!
     *   by banadian
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   i cannot see my old blogs
     *   by TISSUE\_YAN1122
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   please revive my blog... :(
     *   by Fool\_Hei
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   please revive my blog... :(
-    *   by oddducky87
     *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   please revive my blog... :(
     *   by oddducky87
-    *   4 days ago
+    *   5 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   please revive my blog... :(
+    *   by oddducky87
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can I have my site back?
     *   by heatxel
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -85,19 +91,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Themes
     *   0 votes
-    *   2 (last comment by cclko 4 days ago)
+    *   2 (last comment by cclko 5 days ago)
 *   bluesfrombutterflies, my blog
     *   \[Resolved\] by bluesfrombutterflies
     *   8 months ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by eugenia 4 days ago)
-*   Is it too late?
-    *   \[Resolved\] by Fastpitch\_girly
-    *   5 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
+    *   3 (last comment by eugenia 5 days ago)
 
 1 2 3 ... 128 Next
 
