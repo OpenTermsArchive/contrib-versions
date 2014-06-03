@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   My blog from when I was a kid is gone :(
-    *   by AbsentHeart
-    *   5 hours ago
+*   I would like to have my archive downloaded
+    *   by khang1231
+    *   21 minutes ago
     *   in Data Migration
     *   0 votes
     *   0
-*   How do I get my old blogs back?
-    *   by nocturnal\_spirit88
-    *   7 hours ago
+*   Please help me access my old blogs!
+    *   \[Resolved\] by Adriman
+    *   1 month ago
     *   in Data Migration
+    *   0 votes
+    *   3 (last comment by eugenia 10 hours ago)
+*   I need to delete my old blog and prevent archiving robots
+    *   by bellarmineforum
+    *   10 hours ago
+    *   in Adding &. Editing Entries
     *   0 votes
     *   0
-*   I cannot import back the archives into my xanga...
-    *   by debbie\_960813
-    *   1 day ago
+*   Images do not link up
+    *   by garyfong1
+    *   1 month ago
+    *   in Themes
+    *   0 votes
+    *   2 (last comment by BrooklynHeart 14 hours ago)
+*   Previous skin/script (updated)
+    *   by flyawayarlo
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   My 10 year old blog is GONE!
-    *   by vvbutterflyvv
-    *   9 months ago
-    *   in Data Migration
-    *   0 votes
-    *   12 (last comment by moonieshine 2 days ago)
+    *   1 (last comment by BrooklynHeart 14 hours ago)
 *   please help!
     *   by Jos3pH
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Can I have my site back?
-    *   \[Resolved\] by heatxel
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   3 (last comment by eugenia 2 days ago)
-*   Revive my blog
-    *   \[Resolved\] by mixedtapesx3
     *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by BrooklynHeart 14 hours ago)
+*   I cannot import back the archives into my xanga...
+    *   by debbie\_960813
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by BrooklynHeart 14 hours ago)
+*   can u revive my blog?please
+    *   \[Resolved\] by kevinlo0529
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by BrooklynHeart 14 hours ago)
+*   Is it too late?
+    *   \[Resolved\] by Fastpitch\_girly
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by BrooklynHeart 14 hours ago)
+*   When can we retrieve the blogs?
+    *   by Gustava
+    *   4 days ago
+    *   in Comments
+    *   0 votes
+    *   1 (last comment by BrooklynHeart 14 hours ago)
+*   Can you revive my blog, THX!!!
+    *   \[Resolved\] by liam526
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   4 (last comment by BrooklynHeart 14 hours ago)
 *   Some pictures lost after 2.0 Migration.
     *   by SusanPienHsu
     *   8 months ago
     *   in Pictures
     *   0 votes
-    *   7 (last comment by lht981051 3 days ago)
-*   十萬個請求!!!
-    *   by lht981051
-    *   3 days ago
-    *   in Themes
-    *   0 votes
-    *   0
-*   Please revive me!!!
-    *   \[Resolved\] by HerSoul07
-    *   3 days ago
+    *   8 (last comment by BrooklynHeart 14 hours ago)
+*   How do I get my old blogs back?
+    *   by nocturnal\_spirit88
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
-*   please revive my blog... :(
-    *   \[Resolved\] by Fool\_Hei
-    *   1 week ago
+    *   1 (last comment by BrooklynHeart 14 hours ago)
+*   My blog from when I was a kid is gone :(
+    *   by AbsentHeart
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
-*   i cannot see my old blogs
-    *   \[Resolved\] by TISSUE\_YAN1122
-    *   1 week ago
+    *   1 (last comment by BrooklynHeart 14 hours ago)
+*   cannot review my blog
+    *   by Annabelle\_kong
+    *   21 hours ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
-*   Revive!
-    *   \[Resolved\] by banadian
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
-*   Please revive my blog!!
-    *   \[Resolved\] by CaLi\_DaNz\_QuEeN
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
-*   Revive my blog?
-    *   \[Resolved\] by Stephnalamx
-    *   6 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by BrooklynHeart 14 hours ago)
 
 1 2 3 ... 129 Next
 
