@@ -1,4 +1,4 @@
-���// JavaScript Document // Updated 05-05-2014 KD5879 // if (location.pathname == '/Common/about\_us/privacy\_policy/print\_policy.html') { pid = 'printversion'. } else { var url = location.href. pid = url.split('='). pid = pid\[1\]. checkAnc = pid.indexOf('#'). if(checkAnc != '-1') { pid = pid.split('#'). pid = pid\[0\]. } } //alert(pid). function renderPrintLink() { document.write ('' + 'View our current policy' + ''). } function renderLandingPageContent() { document.write(' ' + ' About Our Privacy Policy' + '
+// JavaScript Document // Updated 05-05-2014 KD5879 // if (location.pathname == '/Common/about\_us/privacy\_policy/print\_policy.html') { pid = 'printversion'. } else { var url = location.href. pid = url.split('='). pid = pid\[1\]. checkAnc = pid.indexOf('#'). if(checkAnc != '-1') { pid = pid.split('#'). pid = pid\[0\]. } } //alert(pid). function renderPrintLink() { document.write ('' + 'View our current policy' + ''). } function renderLandingPageContent() { document.write(' ' + ' About Our Privacy Policy' + '
 
 Whenever you do something like buy one of our products, stream a movie or download an app, information is created. Because we know your privacy is important, we have a Privacy Policy to explain how we collect, use and protect that information. There’s a quick summary below, and the entire policy is written in an easy FAQ format. We want to simplify this, so you can make informed choices about your privacy, and then spend the rest of your time enjoying our products and services.
 
@@ -31,7 +31,7 @@ Our privacy policy applies to your use of our products and services. We will alw
 
 ' + '*   We get information from you when you do things like make a purchase from us.
 ' + '*   We collect it from how you use our products and services;
-' + '*   Other sources, like credit agencies and marketing companies, provide it to us.
+' + '*   Other sources, like credit agencies, marketing companies, and other service providers, provide it to us.
 ' + '
 
 ' + '
@@ -459,7 +459,7 @@ We understand that everyone thinks that privacy policies are long, complicated a
     
     ' + '
     
-    Companies that perform these services may be located outside the United States. If your Personal Information is shared with these companies, it could be accessible to government authorities according to the laws that govern those countries.
+    Companies that perform these services may be located outside the United States or the jurisdiction where you reside. If your Personal Information is shared with these companies, it could be accessible to government authorities according to the laws that govern those jurisdictions.
     
     ' + '
     
@@ -997,19 +997,19 @@ For assistance in other languages, please visit world.att.com.
 
 **Legacy AT&T Consumer** — 1-800-222-0300
 
-' + 'Customers of the following AT&T family of companies may contact us directly using the following:' + '
+' + 'Customers of the following AT&T family of companies may contact us directly using the following:' // + '
 
 **YELLOWPAGES** — Please contact YELLOWPAGES by sending an email to ypcsupport@yellowpages.com.
 
-' + '
+' // + '
 
 **AnyWho** — Please follow the opt-out instructions to remove your **residential** phone number from the AnyWho Web site.
 
-' + '
+' // + '
 
 **Ether** — Please contact Ether using the Customer Support request.
 
-' + '
+' // + '
 
 **Keen** — Please contact Keen using the Customer Support form.
 
@@ -1206,7 +1206,7 @@ AT&T | DISH interactive applications may be provided by third parties. Please be
 
 If we decide to Change this Privacy Policy, we will post those changes to this policy and other places we deem appropriate. If, however, we are going to use/disclose AT&T I DISH Network Customer Account Information in a manner different from that stated at the time of collection we will notify AT&T | DISH Network customers directly.
 
-' ). } function renderPrivacyRightCol() { if (pid == '2506') { document.write('' + 'En Español' + '' + '' + '
+' ). } function renderPrivacyRightCol() { if (pid == '2506') { document.write('' + 'En Español' + 'En Français' + '' + '' + '
 
 **Welcome.** The AT&T Privacy Policy lays out our commitments to privacy and describes our policies for helping to protect personal information. We invite you to learn more about our commitments, safeguards and customer choices by reviewing our AT&T Policy, and we welcome your feedback.
 
@@ -1307,7 +1307,7 @@ For mobile, different devices use different technologies. Some mobile devices, f
 
 ' +'
 
-' + '' + '' + ' '). } else { document.write(''). if (pid == '13692') { document.write('En Español'). } else if (pid == '11561') { document.write('En Español'). } document.write('Return to Privacy Policy Home' + ''). document.write('' + ' ' + '' + '
+' + '' + '' + ' '). } else { document.write(''). if (pid == '13692') { document.write('En Español' + 'En Français'). } else if (pid == '11561') { document.write('En Español' + 'En Français'). } document.write('Return to Privacy Policy Home' + ''). document.write('' + ' ' + '' + '
 
 AT&T has been awarded the TRUSTe Privacy Seal and you may contact TRUSTe if a privacy question is not properly addressed
 
