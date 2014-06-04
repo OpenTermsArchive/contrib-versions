@@ -4,11 +4,11 @@ Terms of Service Evernote’s 3 Laws of Data Protection
 *   **Your Data is _Protected_**
 *   **Your Data is _Portable_**
 
-Read our CEO’s blog postblog post on the Evernote Blog explaining these laws in detail.
+Read Evernote's 3 Laws of Data Protection3 Laws of Data Protection, written by our CEO, explaining these laws in detail.
 
 Terms of Service
 
-**Effective Date: January 6, 2014** - What’s new »
+**Effective Date: June 3, 2014** - What’s new »
 
 Welcome to Evernote! We invite you to access our web sites, use the Evernote Service and shop in the Evernote Market, but please note that your invitation is subject to your review and agreement with these Terms of Service. This document describes in detail your rights and our rights relating to the provision of the Service and the operation of the Evernote Market, so please review these Terms carefully.
 
@@ -38,9 +38,9 @@ If we do update these Terms, you are free to decide whether to accept the terms 
 
 What Do I Have To Do To Use the Evernote Service?
 
-First, you need to create an Evernote Service account. You create an account by providing us with an acceptable username and email address, and creating a password. We refer to this as your “Account Information.” We encourage you to use a distinct and non-obvious username and password combination that is different from what you use for other services. You are responsible for maintaining the accuracy, completeness and confidentiality of your Account Information, and you will be responsible for all activities that occur under your account, including activities of others to whom you have provided your Account Information. We will not be liable for any loss or damage arising from your failure to provide us with accurate information or to keep your Account Information secure. If you discover any unauthorized use of your Account Information or suspect that anyone may be able to access your private Content, you should immediately change your password and notify our Customer Support team.
+First, you need to create an Evernote Service account. You create an account by providing us with an acceptable username and email address, and creating a password. We refer to this as your “Account Information.” We encourage you to use a distinct and non-obvious username and password combination that is different from what you use for other services. You are responsible for maintaining the accuracy, completeness and confidentiality of your Account Information, and you will be responsible for all activities that occur under your account, including activities of others to whom you have provided your Account Information. We will not be liable for any loss or damage arising from your failure to provide us with accurate information or to keep your Account Information secure. If you discover any unauthorized use of your Account Information or suspect that anyone may be able to access your private Content without authorization, you should immediately change your password and notify our Customer Support team.
 
-Second, although you may use Evernote with only a web browser, in order to use Evernote on a variety of computing devices, you’ll need to install our client software on your computers, tablets and phones. Sorry, but obtaining those devices and paying for their connectivity and data plans is your responsibility. Evernote also has no responsibility for the availability of the Internet and other telecommunication services necessary to access the Service.
+Second, you may use Evernote with only a web browser, but in order to use Evernote on a variety of computing devices, you’ll need to install our client software on your computers, tablets and phones. Sorry, but obtaining those devices and paying for their connectivity and data plans is your responsibility. Evernote also has no responsibility for the availability of the Internet and other telecommunication services necessary to access the Service.
 
 Can I Share My Account With Someone Else?
 
@@ -56,9 +56,9 @@ You retain copyright and any other rights you already held in your Content befor
 
 What Is The License I Have To Grant To Evernote?
 
-In order to enable Evernote to operate the Service, we must obtain from you certain license and other rights to the Content you submit so that our processing, maintenance, storage, technical reproduction, back-up and distribution and related handling of your Content doesn’t infringe applicable copyright and other laws. This means that by using the Service and uploading Content, you grant Evernote a license to display, perform and distribute your Content and to modify (for technical purposes, e.g., making sure content is viewable on smart phones as well as computers and other devices) and reproduce such Content to enable Evernote to operate the Service. You also agree that Evernote has the right to elect not to accept, post, store, display, publish or transmit any Content in our sole discretion.
+In order to enable Evernote to operate the Service, we must obtain from you certain limited license rights to process your Content so that technical actions we take in operating the Service are not considered legal violations. For example, copyright laws could prevent us from processing, maintaining, storing, backing-up and distributing your Content, unless you give us these rights. Accordingly, by using the Service and uploading Content, you are granting Evernote a license to display, perform and distribute your Content and to modify (for technical purposes, e.g., making sure content is viewable on smart phones as well as computers and other devices) and reproduce such Content to enable Evernote to operate the Service. You also agree that Evernote has the right to elect not to accept, post, store, display, publish or transmit any Content in our sole discretion.
 
-You agree that these rights and licenses are royalty free, irrevocable and worldwide (for so long as your Content is stored with us), and include a right for Evernote to make such Content available to, and pass these rights along to, others with whom Evernote has contractual relationships related to the provision of the Evernote Service, solely for the purpose of providing such services, and to otherwise permit access to or disclose your Content to third parties if Evernote determines such access is necessary to comply with its legal obligations.
+You agree that these rights and licenses are royalty free, worldwide and irrevocable (for so long as your Content is stored with us), and include a right for Evernote to make such Content available to, and pass these rights along to, others with whom Evernote has contractual relationships related to the provision of the Evernote Service, solely for the purpose of providing such services, and to otherwise permit access to or disclose your Content to third parties if Evernote determines such access is necessary to comply with its legal obligations.
 
 If you elect to use any third party service or application that is integrated with Evernote, you also agree that the licenses granted to Evernote in the preceding paragraph shall apply to Content that is submitted or uploaded through such third party service or application. If the third party service or application you elect to use would access or extract Content, you grant Evernote the right and license to enable such access to and extraction of your Content. Evernote does not assume any responsibility for, or liability on account of, the actions or omissions of such third party applications or service providers.
 
@@ -68,7 +68,7 @@ Finally, you understand and agree that Evernote, in performing the required tech
 
 Are There Rules About What I Can Do On The Evernote Service?
 
-Yes. Your use of the Service must be in accordance with these Terms. When it comes to your use of Evernote, you agree that you are responsible for your own conduct and all conduct under your account. This means all Content – such as text, images, software, videos and anything else you can think of, no matter what the form or technical structure (collectively, “Content”) – created, transmitted, stored or displayed in your account, is your sole responsibility as the person who created the Content or introduced it into the Service. This applies whether the Content is kept private, shared or transmitted using the Service or any third party application or services integrated with the Evernote Service. The User Guidelines provide more specific details regarding the appropriate conduct on the Service. If we find that any shared Content in your account violates our Terms of Service (including by violating another person’s intellectual property rights), we reserve the right to unshare or take down such content.
+Yes. Your use of the Service must be in accordance with these Terms. When it comes to your use of Evernote, you agree that you are responsible for your own conduct and all conduct under your account. This means all Content – such as text, images, software, videos and anything else you can think of, no matter what the form or technical structure (collectively, “Content”) – created, transmitted, stored or displayed in your account, is your sole responsibility as the person who created the Content or introduced it into the Service. This applies whether the Content is kept private, shared or transmitted using the Service or any third party application or services integrated with the Evernote Service. Our User Guidelines provide more specific details regarding the appropriate conduct on the Service. If we find that any shared Content in your account violates our Terms of Service (including by violating another person’s intellectual property rights), we reserve the right to unshare or take down such content.
 
 Will Evernote Look At My Content?
 
@@ -98,7 +98,7 @@ You also acknowledge that a variety of Evernote actions may impair or prevent yo
 
 Right to Engage Third Parties.
 
-Evernote may from time to time engage certain affiliates or other third parties to provide technical or other services relating to all or part of the Service, or perform certain functions associated with the operation of the Evernote Market, and you hereby agree that such third party involvement is acceptable. Please see our Privacy Policy to understand the extent to which any affiliate or third party may have access to your account information or contents.
+Evernote may from time to time engage certain affiliates or other third parties to provide technical or other services relating to all or part of the Service, or perform certain functions associated with the operation of the Evernote Market, and you hereby agree that such third party involvement is acceptable. In addition, Evernote may contract with third party resellers of the Evernote Premium service, Evernote Business service and/or products in the Evernote Market, and payment processors to enable payments in your local currency and payment systems. Please see our Privacy Policy to understand the extent to which any affiliate or third party may have access to your account information or contents and our Commercial Terms to understand our relationship with any reseller or payment processor.
 
 Right to Use Third-Party Software.
 
@@ -122,7 +122,7 @@ We respond to clear and complete notices of alleged infringement of copyright, t
 
 Can Kids Use Evernote?
 
-Of course, but Evernote is not currently directed to children and we expect that use by children will only be done with the guidance, supervision and consent of their parents, guardians and/or authorized school officials. Further, we rely on parents and guardians to ensure minors only use the Service if they can understand their rights and responsibilities as stated in these Terms and our Privacy Policy.
+Of course, but Evernote is not currently directed to children, and we expect that use by children will only be done with the guidance, supervision and consent of their parents, guardians and/or authorized school officials. Further, we rely on parents and guardians to ensure minors only use the Service if they can understand their rights and responsibilities as stated in these Terms and our Privacy Policy.
 
 If you are a school, district or teacher in the United States and want your students who are under the age of 13 to create Evernote accounts, including in conjunction with the establishment of an Evernote Business account for the schools or a group of students at the school, you agree that you are responsible for complying with the U.S. Children's Online Privacy Protection Act (“COPPA”) and, to the extent applicable, The Family Educational Rights and Privacy Act (“FERPA”). This means you must notify those students’ parents/guardians of the personally identifiable information Evernote will collect and obtain parental/guardian consent before your students establish accounts or use the Service. When obtaining such consent, you must provide parents/guardians with a copy of our Privacy Policy. You must keep all consents on file and provide them to us if we request them. For more information on complying with COPPA, see the Federal Trade Commission’s website at http://www.ftc.gov/privacy/coppafaqs.shtm. If you are located outside of the United States, we will rely upon you to obtain any required consent or approval from the parent or guardian of any student covered by similar laws and, as a condition to your and your students’ use of the Service, you agree that you will be responsible for complying with such laws.
 
@@ -132,7 +132,7 @@ The Evernote Service is available worldwide, but our data processing operations 
 
 How Is My Account Closed?
 
-You may close your account with our Service at any time, for any reason (or no reason), and you don’t even have to give us notice. However, if you desire to deactivate your account you need to take certain specific steps, which are described in our Knowledge Base article entitled “How do I deactivate my account and remove its data?”.
+You may deactivate your account with our Service at any time, for any reason (or no reason), and you don’t even have to give us notice. However, if you desire to deactivate your account you need to take certain specific steps, which are described in our Knowledge Base article entitled “How do I deactivate my account and remove its data?”.
 
 Evernote may suspend access to your account, or close your account, with or without notice according to these Terms. Reasons for Evernote suspending or closing your account may include, without limitation: (i) breach or violation of these Terms or any Separate Agreement, (ii) an extended period of inactivity (determined in Evernote’s sole discretion), (iii) your nonpayment of any fees or other sums due Evernote or any other party related to your use of the Service, (iv) the discontinuance or material modification of the Service (or any part thereof) or (vi) unexpected technical or security issues or problems.
 
@@ -148,7 +148,7 @@ When you submit any ideas, suggestions, documents and/or proposals relating to t
 
 Does Evernote Serve Ads?
 
-Our business model is to make the Service so valuable that our users will opt to pay for a Premium Service. However, we may display advertisements and promotions on or in connection with the Service, some of which may be paid for by third parties. We also provide announcements within the Evernote Software. These messages may promote other Evernote products and services (including the Evernote Market), events, demonstrate various uses of our Service and promote certain third party applications and services that work with Evernote. We pledge to you that we will not engage in any data mining of your information or Content in order to target advertising at you.
+Our business model is to make the Service so valuable that our users will opt to pay for a Premium Service. However, we may display advertisements and promotions on or in connection with the Service, some of which may be paid for by third parties. We also provide announcements within the Evernote Software. These messages may promote other Evernote products and services (including the Evernote Market), events, demonstrate various uses of our Service and promote certain third party applications and services that work with Evernote. We pledge to you that we will not engage in any data mining of your Content in order to target advertising at you. For more information, please see our Privacy Policy and Cookie Information page.
 
 Inasmuch as some advertising or other messaging content we provide will be based upon information provided by third parties, we shall not be responsible or liable for any loss or damage of any sort incurred by you as a result of any advertisements or other messages. Furthermore, your interactions with advertisers found on or through the Service, including, without limitation, all reliance upon advertising, all commercial transactions and legal obligations associated therewith, are solely between you and such advertisers.
 
@@ -180,7 +180,7 @@ NOTHING IN THESE TERMS OF SERVICE (INCLUDING THE LIMITATION OF LIABILITY PROVISI
 
 If Evernote Has To Send Me Notice Of Something, How Will That Happen?
 
-This is another reason why it’s important for you to make sure your Account Information is accurate, complete and up to date. We may provide you with notices by email, regular mail or postings on the web site(s) related to the affected Service.
+This is another reason why it’s important for you to make sure your Account Information is accurate, complete and up to date. We may provide you with notices by email (to the email address associated with your account), regular mail or postings on the web site(s) related to the affected Service.
 
 How Can I Send A Notice to Evernote?
 
@@ -231,7 +231,7 @@ Except where our dispute is being resolved pursuant to an arbitration (as provid
 
 Except where our dispute is being resolved pursuant to an arbitration (as provided below), if you reside in Brasil, you agree that any claim or dispute you may have against Evernote must be resolved exclusively by the courts in São Paolo-SP, Brasil. You agree to submit to the exclusive personal jurisdiction of the courts located within São Paolo-SP, Brasil (and, for the avoidance of doubt, to exclude the jurisdiction of any other court) for the purpose of litigating all such claims or disputes.
 
-Except where our dispute is being resolved pursuant to an arbitration (as provided below), if you are not a resident of the United States, Canada, or Brasil you agree that any claim or dispute you may have against Evernote must be resolved exclusively by the courts in Zurich, Switzerland. You agree to submit to the exclusive personal jurisdiction of the courts located within Zurich, Switzerland (and, for the avoidance of doubt, to exclude the jurisdiction of any other court) for the purpose of litigating all such claims or disputes.
+Except where our dispute is being resolved pursuant to an arbitration (as provided below), if you are not a resident of the United States, Canada, or Brasil, you agree that any claim or dispute you may have against Evernote must be resolved exclusively by the courts in Zurich, Switzerland. You agree to submit to the exclusive personal jurisdiction of the courts located within Zurich, Switzerland (and, for the avoidance of doubt, to exclude the jurisdiction of any other court) for the purpose of litigating all such claims or disputes.
 
 Alternative Dispute Resolution Process.
 
