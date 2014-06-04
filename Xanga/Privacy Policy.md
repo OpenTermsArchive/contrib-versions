@@ -8,9 +8,15 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   My xanga doesn't appear
+    *   by whitemeteor0093
+    *   23 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   I would like to have my archive downloaded
     *   by khang1231
-    *   21 minutes ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,10 +25,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by eugenia 10 hours ago)
+    *   3 (last comment by eugenia 1 day ago)
 *   I need to delete my old blog and prevent archiving robots
     *   by bellarmineforum
-    *   10 hours ago
+    *   1 day ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
@@ -31,73 +37,67 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Themes
     *   0 votes
-    *   2 (last comment by BrooklynHeart 14 hours ago)
+    *   2 (last comment by BrooklynHeart 1 day ago)
 *   Previous skin/script (updated)
     *   by flyawayarlo
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by BrooklynHeart 14 hours ago)
+    *   1 (last comment by BrooklynHeart 1 day ago)
 *   please help!
     *   by Jos3pH
+    *   4 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by BrooklynHeart 1 day ago)
+*   I cannot import back the archives into my xanga...
+    *   by debbie\_960813
     *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by BrooklynHeart 14 hours ago)
-*   I cannot import back the archives into my xanga...
-    *   by debbie\_960813
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by BrooklynHeart 14 hours ago)
+    *   1 (last comment by BrooklynHeart 1 day ago)
 *   can u revive my blog?please
     *   \[Resolved\] by kevinlo0529
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by BrooklynHeart 14 hours ago)
+    *   2 (last comment by BrooklynHeart 1 day ago)
 *   Is it too late?
     *   \[Resolved\] by Fastpitch\_girly
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by BrooklynHeart 14 hours ago)
+    *   2 (last comment by BrooklynHeart 1 day ago)
 *   When can we retrieve the blogs?
     *   by Gustava
-    *   4 days ago
+    *   5 days ago
     *   in Comments
     *   0 votes
-    *   1 (last comment by BrooklynHeart 14 hours ago)
+    *   1 (last comment by BrooklynHeart 1 day ago)
 *   Can you revive my blog, THX!!!
     *   \[Resolved\] by liam526
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by BrooklynHeart 14 hours ago)
+    *   4 (last comment by BrooklynHeart 1 day ago)
 *   Some pictures lost after 2.0 Migration.
     *   by SusanPienHsu
     *   8 months ago
     *   in Pictures
     *   0 votes
-    *   8 (last comment by BrooklynHeart 14 hours ago)
+    *   8 (last comment by BrooklynHeart 1 day ago)
 *   How do I get my old blogs back?
     *   by nocturnal\_spirit88
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by BrooklynHeart 14 hours ago)
+    *   1 (last comment by BrooklynHeart 1 day ago)
 *   My blog from when I was a kid is gone :(
     *   by AbsentHeart
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by BrooklynHeart 14 hours ago)
-*   cannot review my blog
-    *   by Annabelle\_kong
-    *   21 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by BrooklynHeart 14 hours ago)
+    *   1 (last comment by BrooklynHeart 1 day ago)
 
 1 2 3 ... 129 Next
 
