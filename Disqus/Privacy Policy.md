@@ -77,7 +77,7 @@ We are not responsible for the practices employed by websites linked to or from 
 
 Safe Harbor
 
-Disqus complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Disqus has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Disqus’ certification, please visit http://www.export.gov/safeharbor/
+Disqus complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Disqus has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Disqus’ certification, please visit //www.export.gov/safeharbor/
 
 As part of our participation in safe harbor, we have agreed to the TRUSTe Dispute Resolution Requirements for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have complaints regarding our compliance with Safe Harbor email us at privacy@disqus.com. If contacting us does not resolve your complaint you may raise your complaint using TRUSTe's Feedback and Resolution System, by fax at 415-520-3420, or by mailing:
 
