@@ -230,7 +230,7 @@ A: No, many GM vehicles contain sensing and transmitting devices using the same 
 *   Contact Us
 *   Sitemap
 *   Press Room
-*   Ignition Recall
+*   Safety Recalls
 *   Investors
 *   Careers
 *   FAQs
