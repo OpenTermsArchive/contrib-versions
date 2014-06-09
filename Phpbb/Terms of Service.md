@@ -6,6 +6,6 @@ Our forums are powered by phpBB (hereinafter “they”, “them”, “their”
   
 You agree not to post any abusive, obscene, vulgar, slanderous, hateful, threatening, sexually-orientated or any other material that may violate any laws be it of your country, the country where “phpBB.com” is hosted or International Law. Doing so may lead to you being immediately and permanently banned, with notification of your Internet Service Provider if deemed required by us. The IP address of all posts are recorded to aid in enforcing these conditions. You agree that “phpBB.com” have the right to remove, edit, move, close or put on moderation queue any topic at any time should we see fit based on the site wide rules as well as forum specific rules (published within the specific forums). **Please note that currently any very first post is automatically placed in the moderation queue and will be approved/disapproved according to the site wide rules.**  
   
-As a user you agree to any information you have entered to being stored in a database. While this information will not be disclosed to any third party without your consent, neither “phpBB.com” nor phpBB shall be held responsible for any hacking attempt that may lead to the data being compromised.
+By using “phpBB.com”, you agree to any information you have entered on this website being stored in a database. You further agree to grant “phpBB.com” a royalty-free, perpetual, irrevocable, non-exclusive, transferable license to use, reproduce, modify, publish, and distribute any content you generate.
 
 Back to login screen
