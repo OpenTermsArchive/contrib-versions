@@ -13,76 +13,76 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by driggety 7 hours ago)
+    *   2 (last comment by driggety 1 day ago)
 *   how do i get to my old blogs!!!
     *   by lonepaperdoll
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   how do i get to my old blogs!!!
     *   by lonepaperdoll
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   HELLPPP
     *   by lonepaperdoll
-    *   1 day ago
+    *   2 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Unable to upgrade to xanga 2.0
     *   by cake00
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Blog revive
     *   by pAttiE\_03
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Nothing is working.
     *   by Lucky\_Pick
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Unable to upgrade to 2.0
     *   by HAMster85404
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   please revive my blog!
     *   by NOmoreBOUNCYballs
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   please revive my blog!
     *   by NOmoreBOUNCYballs
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Imported archive but pre 2006 posts in foreign language cannot show
     *   by Cora\_Tsang
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Eugenia...??????
-    *   by Gustava
     *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Eugenia...??????
     *   by Gustava
-    *   5 days ago
+    *   6 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Eugenia...??????
+    *   by Gustava
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -91,13 +91,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   1 (last comment by eugenia 6 days ago)
 *   My xanga doesn't appear
     *   \[Resolved\] by whitemeteor0093
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   1 (last comment by eugenia 6 days ago)
 
 1 2 3 ... 130 Next
 
