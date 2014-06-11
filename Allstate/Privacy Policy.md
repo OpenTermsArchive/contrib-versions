@@ -5,73 +5,6 @@ Skip Navigation
 *   Español
 *   Denver, CO, 80202
 
-Get a Quote?
-
-Your location is set for Denver, CO, 80202
-
-Edit Select a product to get a quote. Retrieve a saved quote
-
-Auto
-
-Home
-
-Renters
-
-Life
-
-Condo
-
-Motorcycle
-
-Boat
-
-ATV/Rec. Vehicle
-
-Business Insurance
-
-More Insurance
-
-Find An Agent
-
-*   Insurance &. More
-    
-    *   Auto
-    *   Home
-    *   Renters
-    *   Condo
-    *   Motorcycle
-    *   Business
-    *   Life
-    
-    *   Boat
-    *   Motorhome
-    *   Snowmobile
-    *   ATV &. 4X4
-    *   Landlord
-    *   Retirement &. Savings
-    *   Supplemental Health
-*   Claims
-    *   Overview
-    *   File A Claim
-    *   Track A Claim
-    *   Disaster Claims
-*   Support
-    *   Overview
-    *   Q &. A
-    *   Billing
-    *   Find An Agent
-    *   Contact Us
-*   Tools &. Resources
-    *   Welcome
-    *   Auto
-    *   Home
-    *   Life &. Retirement
-    *   Motorcycle
-    *   Renters
-    *   Power Sports
-    *   Business Insurance
-*   My Account Login Log in to My Account: User Name Password Password Forgot user ID?Forgot password? Log In Create an account
-
 About Allstate
 
 *   About Allstate
@@ -330,8 +263,8 @@ End Dialog. Retrieve a saved quote
 
 Agents Near 80202
 
-*   James Barthelemy 303-948-9879 1940 Blake St Ste 105 Denver, CO 80202 Visit website
 *   Denise Hoffman Insurance Service 303-628-0554 535 16th St # 350 Denver, CO 80202 Visit website
+*   James Barthelemy 303-948-9879 1940 Blake St Ste 105 Denver, CO 80202 Visit website
 *   K.D. Cox-Sakraida Insurance Agency, Inc. 303-433-2094 1932 W 33rd Ave Denver, CO 80211 Visit website
 *   Lou Toth 303-752-2999 1459 Ogden St # 5 Denver, CO 80218 Visit website
 
