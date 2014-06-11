@@ -43,9 +43,7 @@ IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE TO ANY PARTY FOR DIRECT, INDIRE
 
 THE COPYRIGHT HOLDER SPECIFICALLY DISCLAIMS ANY WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE SOFTWARE PROVIDED HEREUNDER IS ON AN "AS IS" BASIS, AND THE COPYRIGHT HOLDER HAS NO OBLIGATION TO PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.
 
-3\. Notices for Software Components Licensed Under the MIT License.
-
-a. Names and Copyright Notices.
+**a. Names and Copyright Notices.**
 
 \- giflib - © 1997 Eric S. Raymond.
 
@@ -55,7 +53,13 @@ a. Names and Copyright Notices.
 
 \- expat XML parser - Copyright (c) 1998, 1999, 2000 Thai Open Source Software Center Ltd and Clark Cooper. Copyright (c) 2001, 2002, 2003, 2004, 2005, 2006 Expat maintainers.
 
-b. MIT License (full text)
+\- Simple Logging Facade for Java (SLF4J), Copyright (c) 2004-2013
+
+\- Commons IO, Copyright © 2002-2014 The Apache Software Foundation
+
+\- Otto, Copyright 2013 Square, Inc.
+
+**b. MIT License (full text)**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
