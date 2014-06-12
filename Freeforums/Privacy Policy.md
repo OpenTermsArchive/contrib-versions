@@ -1,12 +1,6 @@
-Legal
-
-**→** **USER TERMS &. CONDITIONS**  
-**→** **PRIVACY POLICY**  
-**→** **SIMPLIFIED TERMS &. CONDITIONS OF MEMBERSHIP**
-
-User Terms and Conditions
-
-WWW.CROWDGATHER.COM
+**USER TERMS &. CONDITIONS**  
+**PRIVACY POLICY**  
+**SIMPLIFIED TERMS &. CONDITIONS OF MEMBERSHIP** User Terms and Conditions
 
 PLEASE READ THESE USER TERMS AND CONDITIONS CAREFULLY BEFORE USING THIS SITE.
 
@@ -107,7 +101,7 @@ Although Company cannot monitor the conduct of its users off the website, it is 
 **8\. Domain Administrators.** Any person designated as a domain administrator to administer and curate a forum or domain (each, a “Domain Administrator”) has additional capabilities and responsibilities with regard to the Users, users, and User Generated Content in any forum they administer. The Company and/or the Domain Administrator decides whether the domain they administer or any portion thereof is restricted to certain users or accessible to the public generally, and unless otherwise prohibited by Company, the Domain Administrator may change the access to such domain or any portion thereof at any time. In restricted areas, the Domain Administrator decides who may be a user, and can access and change the user list for the domain they administer subject to Company’s approval, which may be withheld in its sole discretion. A Domain Administrator may, at any time, transfer his or her administration of a domain to another user upon written approval of the Company. Any replacement Domain Administrator shall also be subject to any of Company’s then-current published rules governing Domain Administrators, if any. In regard to User Generated Content, a Domain Administrator shall be responsible for the maintenance and monitoring of the User Generated Content in the domain(s) they administer, including deciding to and deleting any domain, User Generated Content or archived User Generated Content at any time and in his or her reasonable discretion. Company may, at any time and in its sole discretion, override Domain Administrator’s decisions and reverse the Domain Administrator’s actions. Under no circumstances shall a Domain Administrator be considered an owner of the forum or domain or retain any rights to the User Generated Content posted by other Company users on such forum or domain. Any Domain Administrator can be removed from their position and blocked from accessing the Site at any time, without or without cause, and without notice by the Company.
 
 Domain Administrators must accurately categorize the group(s) they manage using the categorization tools provided by the Company. Categorization must be accurate and updated immediately should the Content of a domain no longer be represented by the previous categorization.  
-  
+
 **9\. Procedures for Claimed Copyright Infringement.** We respect the intellectual property rights of others, and ask that you do the same. As such, the infringement of others’ intellectual property rights will not be tolerated and may result in the suspension or termination of the infringing party’s account. Please note that we can only address infringing materials posted on our Site that have been reported to us, and cannot be responsible if any User Generated Content is repurposed or otherwise copied from the Site and used in other mediums prior to us removing such infringing content. If you believe that your work has been copied in a way that constitutes copyright infringement, in accordance with the Digital Millennium Copyright Act, please provide the following information to our agent:
 
 (a) your full name, address, telephone number, name of the forum and email address (also, please provide information, if possible, sufficient to permit CrowdGather to notify the owner/administrator of the allegedly infringing webpage or other content (email address is preferred);
