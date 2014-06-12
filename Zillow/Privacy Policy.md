@@ -7,6 +7,7 @@ Skip to contentZillow Real Estate &amp. Homes for Sale
     *   Foreclosures
     *   Open Houses
     *   New Homes
+    *   Coming Soon Homes
     *   Recent Home Sales
     *   Browse All Homes
     
