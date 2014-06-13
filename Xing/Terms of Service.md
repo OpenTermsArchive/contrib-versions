@@ -7,7 +7,7 @@ Document
 *   A. General Terms and Conditions for using the XING service
     1.  Subject and basis for using XING
     2.  Conditions of use, conclusion of contract and warranties upon conclusion of contract
-    3.  Right of cancellation for consumers
+    3.  Right of withdrawal for consumers
     4.  General obligations of the user and special provisions for using the social network
     5.  Changes to services and contractual terms
     6.  Fees, billing, invoicing, payment terms
@@ -18,7 +18,7 @@ Document
     11.  Applicable law, place of jurisdiction, miscellaneous
 *   B. Additional terms for using the events platform
     1.  Conditions of use, conclusion of contract and warranties upon conclusion of contract
-    2.  Right of cancellation for consumers
+    2.  Right of withdrawal for consumers
     3.  Obligations of the user and special provisions for users
     4.  Fees, billing, invoicing, payment terms
     5.  Validity of the provisions of the General Terms and Conditions for using the XING service
@@ -113,42 +113,43 @@ The contract is concluded with XING AG, Dammtorstraße 29-32, 20354 Hamburg, Ger
 **2.8** Each user may only create one user profile. The user is not permitted to allow third parties to use its user profile.
 
    
-3\. Right of cancellation for consumers
+3\. Right of Right of withdrawal for consumers
 
-Right of cancellation
+Instructions on withdrawal and model withdrawal form
 
-You may cancel your contractual agreement with XING in writing (e.g. by letter, fax or e-mail) within fourteen (14) days without stating a reason. The two-week period begins upon receipt of these instructions, but not before the contract has been executed, and also not prior to our fulfilment of our informational duties as per Article 246 Section 2 in connection with Section 1 (1 and 2) EGBGB, as well as our duties as per Section 312g (1) line 1 BGB in connection with Article 246 Section 3 EGBGB. The contract can be cancelled by sending timely notification to:
+You have the right to withdraw from this contract within 14 days without giving any reason. The withdrawal period will expire after 14 days from the date of contract conclusion.
+
+To exercise the right of withdrawal, you must inform us
 
 XING AG  
 Dammtorstraße 29-32  
 20354 Hamburg  
 Germany  
+Phone: +49 40 419 131 0  
 Fax: +49 40 419 131 11  
 E-mail: en-invoice@xing.com
 
-The user can submit notice of termination to XING using the contact form available on all XING Websites.
+of your decision to withdraw from this contract by an unequivocal statement (e.g. a letter sent by post, fax, e-mail or via the contact form available on each of our webpages). You may use this model withdrawal form, but it is not obligatory.
 
-Consequences of cancellation
+To meet the withdrawal deadline, it is sufficient for you to send your communication concerning your exercise of the right of withdrawal before the withdrawal period has expired.
 
-In the event of a valid contract termination, services and fees provided by both parties are to be returned, and any economic advantages gained (e.g. interest) are to be repaid. If you are not able to return the services and utilisation (exercised benefits) rendered fully or in part, or only in a lesser form, you are obliged to reimburse us for the value lost. This may mean that you are required to fulfil the contractual payment obligations for the time period until cancellation. Obligations to reimburse payments must be fulfilled within 30 days. This period begins for you when you send your contract termination, for us when we receive it.
+Effects of withdrawal
 
-Additional information:
+If you withdraw from this contract, we shall reimburse to you all payments received from you, including the costs of delivery (with the exception of the supplementary costs resulting from your choice of a type of delivery other than the least expensive type of standard delivery offered by us), without undue delay and in any event not later than 14 days from the day on which we are informed about your decision to withdraw from this contract. We will carry out such reimbursement using the same means of payment as you used for the initial transaction, unless you have expressly agreed otherwise. in any event, you will not incur any fees as a result of such reimbursement.
 
-The user’s right of cancellation lapses before the end of the right of cancellation period if the contract has been completely fulfilled to the satisfaction of both parties before the user exercises its right of cancellation.
+If you requested to begin the performance of services during the withdrawal period, you shall pay us an amount which is in proportion to what has been provided until you have communicated us your withdrawal from this contract, in comparison with the full coverage of the contract.
 
-\- End of right of cancellation -
+You may download and use the model withdrawal form available here as a PDF file.
 
 Exclusion of right of cancellation:
 
-The right of cancellation does not exist if, when entering into a legal transaction, you act in exercise of your trade, business or profession and are therefore deemed to be an entrepreneur (Section 14 BGB).
+The right of cancellation does not exist if, when entering into a legal transaction, you predominantly act in exercise of your trade, business or profession and are therefore deemed to be an entrepreneur (Section 14 BGB).
 
 The right of cancellation vis-à-vis XING does not apply to agreements you enter into with third parties, i.e. where XING is not legally involved. Any such rights of cancellation may only be brought against the respective third party.
 
 Other additional information:
 
 You expressly agree that we will start to render the service before the end of the cancellation period.
-
-You are required to pay the fees agreed for services we render up until the time you submit a cancellation.
 
    
 4\. General obligations of the user and special provisions for using the social network
