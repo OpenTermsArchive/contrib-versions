@@ -2,7 +2,7 @@ Privacy Statement Print A A
 
 **General Motors Company U.S. Consumer Privacy Statement**
 
-Last modified: April 29, 2014
+Last modified: May 28, 2014
 
 Your privacy is important to General Motors Company (“GM” or “we”) as is your trust in GM’s products and services. We want you to know that the information you share with us will be treated with care. This Privacy Statement addresses what personal information we collect and how we handle the personal information shared with us.
 
@@ -98,7 +98,7 @@ GM uses administrative, technical and physical security to protect the personal 
 
 **Cookies/Tracking Technologies**  
   
-GM websites use “cookies” to remember user preferences and to maximize the performance of our website and services. Using cookies on our websites provides benefits to you, such as allowing you to maintain your account login information or contact information on Request a Quote forms between visits, or locating a nearby dealer.  
+GM websites use “cookies” to remember user preferences and to maximize the performance of our website and services. Using cookies on our websites provides benefits to you, such as allowing you to maintain your account login information or contact information on Request a Quote forms between visits, or locating a nearby dealer. In addition, we use information gathered from cookies to autofill fields on forms such as the city, state or zip code associated with your IP address. This information can be corrected by you before submitting any form or inquiry or you can disable the cookie as discussed below and the information will not be collected.  
   
 Similarly, we may also place Web beacons in our emails to measure the effectiveness of our email campaigns by identifying the individuals who open or act upon an email message, when an email message is opened, how many times an email message is forwarded, the type of software, device, operating system and browser used to deliver the email and any URL accessed through our email message.  
   
@@ -188,7 +188,7 @@ We may update this Privacy Statement from time to time. We will do so by posting
 
 Effective date: September 1, 2011
 
-Last modified: April 29, 2014  
+Last modified: May 28, 2014  
  
 
 **Frequently Asked Questions**  
