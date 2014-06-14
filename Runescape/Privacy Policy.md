@@ -1,4 +1,4 @@
-Effective Date: 26th September, 2013
+Effective Date: 13th June, 2014
 
 Privacy Policy
 
@@ -152,7 +152,7 @@ If for data protection purposes you are concerned that the Personally Identifiab
 
   
 
-Effective Date: 26th September, 2013
+Effective Date: 13th June, 2014
 
 Privacy Policy
 
