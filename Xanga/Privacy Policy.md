@@ -8,21 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   My 10 year old blog is GONE!
-    *   by vvbutterflyvv
-    *   9 months ago
-    *   in Data Migration
-    *   0 votes
-    *   14 (last comment by BFK 9 hours ago)
 *   Missed downloading my archives
     *   \[Resolved\] by jaggedjunky
     *   8 months ago
     *   in Data Migration
     *   0 votes
-    *   6 (last comment by lwrcases\_n\_CAPS 13 hours ago)
+    *   7 (last comment by Chameleonperson 15 hours ago)
+*   My 10 year old blog is GONE!
+    *   by vvbutterflyvv
+    *   9 months ago
+    *   in Data Migration
+    *   0 votes
+    *   14 (last comment by BFK 1 day ago)
 *   please help cant find my music
     *   by RisingStar2009
-    *   20 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -31,10 +31,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   twistedthyme looking for my blog
     *   by twistedthyme
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -43,61 +43,61 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   please help!
     *   \[Resolved\] by Jos3pH
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   I need to delete my old blog and prevent archiving robots
     *   \[Resolved\] by bellarmineforum
     *   1 week ago
     *   in Adding &. Editing Entries
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   Unused Blog
     *   \[Resolved\] by speedingsausage30
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   please revive my blog!
     *   \[Resolved\] by NOmoreBOUNCYballs
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   Unable to upgrade to 2.0
     *   \[Resolved\] by HAMster85404
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   Nothing is working.
     *   \[Resolved\] by Lucky\_Pick
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 2 days ago)
+*   Blog revive
+    *   \[Resolved\] by pAttiE\_03
     *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   Blog revive
-    *   \[Resolved\] by pAttiE\_03
+    *   1 (last comment by eugenia 2 days ago)
+*   Unable to upgrade to xanga 2.0
+    *   \[Resolved\] by cake00
     *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   Unable to upgrade to xanga 2.0
-    *   \[Resolved\] by cake00
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   how do i get to my old blogs!!!
     *   \[Resolved\] by lonepaperdoll
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 
 1 2 3 ... 130 Next
 
