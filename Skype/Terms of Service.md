@@ -37,15 +37,15 @@ It is important that you read the entirety of and understand this document. Ther
 
 **1\. YOUR AGREEMENT WITH SKYPE**
 
-**1.1** Skype’s internet communication software applications (“**Internet Communications Software**”), other “Skype” branded software applications (together the “**Skype Software**”), the “**Qik**” branded software applications (“**Qik Software**”) and associated documentation (whether in printed or electronic form) including any improvements, modifications, enhancements, fixes, updates, upgrades and future versions thereto (“**Updates**”) and whether made available for free or for a fee, (collectively the “**Software**”) are licensed (not sold) to you by Skype Software Sàrl unless you are using a version of the Software that is included with Windows 8.1 or later. If you are using a version of the Software that is included with Windows 8.1 or later, the Software is licensed to you under the Microsoft Software License Terms for the version of Windows that you are running. These Terms (other than the software license in Section 4.1) will still apply to your use of the Software and Products.  
+**1.1** Skype’s internet communication software applications (“**Internet Communications Software**”), other “Skype” branded software applications (together the “**Skype Software**”) and associated documentation (whether in printed or electronic form) including any improvements, modifications, enhancements, fixes, updates, upgrades and future versions thereto (“**Updates**”) and whether made available for free or for a fee, (collectively the “**Software**”) are licensed (not sold) to you by Skype Software S.à r.l. unless you are using a version of the Software that is included with Windows 8.1 or later. If you are using a version of the Software that is included with Windows 8.1 or later, the Software is licensed to you under the Microsoft Software License Terms for the version of Windows that you are running. These Terms (other than the software license in Section 4.1) will still apply to your use of the Software and Products.
 
-**1.2** The features and products that are made available through the Software for free (excluding products or features available for free on a trial basis only) (“**Free Products**”) are provided to you by Skype Software Sàrl.
+**1.2** The features and products that are made available through the Software for free (excluding products or features available for free on a trial basis only) (“**Free Products**”) are provided to you by Skype Software S.à r.l.  
 
-**1.3** Any additional products or features of the Skype Software or Qik Software, or other “Skype” or “Qik” branded products, that you pay for (including products or features available for free on a trial basis only) (“**Paid For Products**”) are provided to you by Skype Communications Sàrl.
+**1.3** Any additional products or features of the Skype Software or other “Skype”” branded products, that you pay for (including products or features available for free on a trial basis only) (“Paid For Products”) are provided to you by Skype Communications S.à r.l.  
 
-**1.4** “**Skype Websites**” means www.skype.com, www.qik.com (both of which are operated by Skype Communications Sàrl) and any other websites authorised by Skype which link to these Terms.
+**1.4** “Skype Websites” means www.skype.com (operated by Skype Communications S.à r.l.) and any other websites authorised by Skype which link to these Terms.
 
-**1.5 “Skype’’** means Skype Software Sàrl, 23 – 29 Rives de Clausen, L-2165 Luxembourg or Skype Communications Sàrl, 23 – 29 Rives de Clausen, L-2165 Luxembourg as the context requires;  
+**1.5 “Skype’’** means Skype Software S.à r.l., 23 – 29 Rives de Clausen, L-2165 Luxembourg or Skype Communications S.à r.l., 23 – 29 Rives de Clausen, L-2165 Luxembourg as the context requires;  
 **“Products”** means collectively the Free Products and Paid For Products;  
 **“you”** or **“your”** means you, the registered holder of the User Account (as described in paragraph 6.1) and licensee under these Terms.
 
@@ -53,7 +53,7 @@ It is important that you read the entirety of and understand this document. Ther
 
 **2\. ACCEPTANCE OF THE TERMS**
 
-**2.1** In order to download and/or use the Software, Products and/or Skype Websites you must first accept these Terms. These Terms are accepted by you (a) when you click to accept or agree to the Terms. or (b) when you download and/or use the Software, Products and/or Skype Websites. We advise you to print a copy of these Terms for your records. These Terms remain effective from the date of acceptance until terminated by you or Skype in accordance with paragraph 11.
+**2.1** In order to download and/or use the Software, Products and/or Skype Websites you must first accept these Terms. These Terms are accepted by you (a) when you click to accept or agree to the Terms. or (b) when you download and/or use the Software, Products and/or Skype Websites. We advise you to print a copy of these Terms for your records. You can also download a copy of the Terms applicable to your purchases from your account page on www.skype.com. These Terms remain effective from the date of acceptance until terminated by you or Skype in accordance with paragraph 11.
 
 **2.2** You cannot accept these Terms if: (a) you are not lawfully entitled to use the Software, Products and/or Skype Websites in the country in which you are located or reside or (b) if you are not of legal age to form a binding agreement with Skype.
 
@@ -65,7 +65,7 @@ It is important that you read the entirety of and understand this document. Ther
 
 **4\. LICENCE**
 
-**4.1** **Licence**. Subject to your compliance with these Terms, you are granted a limited, non-exclusive, non-sublicensable, non-assignable, free of charge license to download and install the Software on a personal computer, mobile phone or other device. and personally use the Software through your individual Skype or Qik user account (as applicable) (“**User Account**”). For the avoidance of doubt, (a) IT administrators working on behalf of a company may download and install the Skype Software onto personal computers or other devices used by personnel of such company. and (b) you are permitted to use the Software at a university or other educational institution, or at work. Skype reserves all rights not expressly granted to you under these Terms.
+**4.1** Licence. Subject to your compliance with these Terms, you are granted a limited, non-exclusive, non-sublicensable, non-assignable, free of charge license to download and install the Software on a personal computer, mobile phone or other device. and personally use the Software through your individual Skype user account (“**User Account**”). For the avoidance of doubt, (a) IT administrators working on behalf of a company may download and install the Skype Software onto personal computers or other devices used by personnel of such company. and (b) you are permitted to use the Software at a university or other educational institution, or at work. Skype reserves all rights not expressly granted to you under these Terms.
 
 **4.2 Restrictions.** You may not and you agree not to:
 
@@ -95,7 +95,7 @@ It is important that you read the entirety of and understand this document. Ther
 
 **5.5 No Access to Emergency Services:** Neither the Products nor the Software are intended to support or carry emergency calls to any type of hospitals, law enforcement agencies, medical care unit or any other kind of services that connect a user to emergency services personnel or public safety answering points (“Emergency Services”). There are important differences between traditional telephone services and the Products. You acknowledge and agree that: (i) Skype is not required to offer access to Emergency Services under any applicable local and/or national rules, regulations or law. (ii) it is your responsibility to purchase, separately from the Products, traditional wireless (mobile) or fixed line telephone services that offer access to Emergency Services, and (iii) the Software and the Products are not a replacement for your primary telephone service. Find out more about calling 112, the dedicated emergency number for the EU at www.skype.com/go/emergency.
 
-**5.6 Limited Emergency Calling (Internet Communications Software Only and Not Applicable to the Qik Software)**
+**5.6 Limited Emergency Calling (Internet Communications Software Only)**
 
 **5.6.1** In a very limited number of countries, and for defined Internet Communications Software versions and platforms only, Skype will try to provide limited emergency calling as a stand-alone feature but can provide no commitment in this respect. See the full list of countries (“Enabled Countries”) and software versions and other platforms (“Enabled Versions”) that enable limited Skype emergency calling. Skype emergency calling is not available for any other countries, versions or platforms. You should keep traditional wireless (mobile) or fixed line telephone services available for your calls to Emergency Services and use Skype’s limited emergency calling only as an absolute last resort. In particular, please also note that:
 
@@ -109,7 +109,7 @@ It is important that you read the entirety of and understand this document. Ther
 
 **5.6.2** In Enabled Countries, you should configure the limited emergency calling functionality by setting your default location for emergency calling in the Call Settings page of your desktop Internet Communications Software (if you are using a 4.1 version for Windows (or later) or version 2.8 for Mac OS X (or later)). It is your responsibility to ensure that this location information is correct and kept up-to-date if your physical address changes. Skype does not support emergency calls in the majority of countries around the world. Where limited emergency calling is supported Skype will not charge you to make an emergency call and you do not need to have a Skype Credit balance. If however your country is not supported for limited emergency calling then you should not attempt to, and agree not to, make any emergency calls using your Internet Communications Software. If, with your permission, another user uses your User Account, it is your responsibility to inform that user of the limited circumstances in which limited emergency calling is available.
 
-**5.7** **Content of Communications:** Skype is not the source of, does not verify or endorse and takes no responsibility for the content of communications made using the Software, including but not limited to any media that is shared through our communication features. By using the Software, you agree that the content of communications that you submit may be transmitted to the recipient of your communication and that messages and content shared through messaging features may be stored on Skype servers (a) to convey and synchronize your messages and content and (b) to enable you and your recipients to view the messages and related content. Messages are generally stored by Skype until you have deleted a message or cleared your message history, unless otherwise permitted or required by law.
+**5.7** Content of Communications: Skype is not the source of, does not verify or endorse and takes no responsibility for the content of communications made using the Software, including but not limited to any media that is shared through our communication features. By using the Software, you agree that the content of communications that you submit may be transmitted to the recipient of your communication and that messages and content shared through messaging features may be stored on Skype servers (a) to convey and synchronize your messages and content and (b) to enable you and your recipients to view the messages and related content. Messages are generally stored by Skype until you have deleted a message or cleared your message history, or as otherwise described in our Privacy Policy unless otherwise permitted or required by law.
 
 Skype reserves the right to review content submitted on or through the Software, Products and Skype Websites for the purpose of enforcing these Terms. Skype may, in its sole discretion, block or otherwise prevent delivery of any instant message, SMS, video, media, or other communication to or from the Software, Products and Skype Websites as part of our efforts to protect the Software, Products, Skype Websites or our customers, or to otherwise enforce these Terms. The following rules apply to your conduct and content when using the Software, Products and Skype Websites:
 
@@ -143,11 +143,11 @@ We may ask you to remove your content if it violates these Terms or the law. Fai
 
 **5.12 Reports** Certain parts of the Skype Websites or the Software may ask for written suggestions or problem reports such as using our contact form or problem report form (“**Reports**”). Please read carefully any specific terms, which govern those Reports. The Reports shall be deemed the property of Skype. Skype shall exclusively own all now known or hereafter existing rights to the Reports throughout the universe in perpetuity and shall be entitled to use the Reports for any purpose whatsoever, commercial or otherwise, without compensation to the provider of the Reports. Any Reports you send to Skype will not be treated as confidential and Skype shall not be liable for any disclosure of the Reports.
 
-**5.13 Linking** You may link to the Skype Website from another website owned by you, provided you do so in a way that is fair and legal and does not damage our reputation or take advantage of it. You must not establish a link in such a way as to suggest any form of association, approval or endorsement by Skype where none exists. You may not frame the Site on any other site. Skype provides a Qik branded embeddable flash player feature which you may incorporate into your own personal, non-commercial website for use in accessing the materials on the Qik branded Skype Website. Skype may revoke the permission to link to the Skype Websites at any time at its sole discretion and will notify you in this respect.
+**5.13 Linking** You may link to the Skype Website from another website owned by you, provided you do so in a way that is fair and legal and does not damage our reputation or take advantage of it. You must not establish a link in such a way as to suggest any form of association, approval or endorsement by Skype where none exists. You may not frame the Site on any other site. Skype may revoke the permission to link to the Skype Websites at any time at its sole discretion and will notify you in this respect.
 
 **6\. YOUR OBLIGATIONS**
 
-**6.1 User Account.** Prior to your first use of the Skype Software and your first use of the Qik Software, you will be asked to create a User Account and choose a user ID and password. We recommend that you choose a password that is hard to guess and consists of letters, numbers and symbols. You may only use the Software through your User Account. You are solely responsible and liable for all activities conducted through your User Account. To prevent unauthorised use, you shall keep your password confidential and shall not share it with any third party or use it to access third party websites or services. If you suspect that someone else knows your password, then you shall immediately change it in order to protect the security of your User Account. It is your responsibility to ensure that you do not respond to any unsolicited requests for credit card details, passwords or other data. Skype takes no responsibility for your failure to comply with the obligations in this paragraph 6.1.
+**6.1 User Account.** Prior to your first use of the Skype Software, you will be asked to create a User Account and choose a user ID and password. We recommend that you choose a password that is hard to guess and consists of letters, numbers and symbols. You may only use the Software through your User Account. You are solely responsible and liable for all activities conducted through your User Account. To prevent unauthorised use, you shall keep your password confidential and shall not share it with any third party or use it to access third party websites or services. If you suspect that someone else knows your password, then you shall immediately change it in order to protect the security of your User Account. It is your responsibility to ensure that you do not respond to any unsolicited requests for credit card details, passwords or other data. Skype takes no responsibility for your failure to comply with the obligations in this paragraph 6.1.
 
 **6.2 Lawful Use:** You must use the Software, Products and Skype Websites in accordance with the laws of where you are located. In some countries there are restrictions on the download and use of the Software, Products and/or Skype Websites. It is your responsibility to ensure that you are legally allowed to use the Software, Products and/or Skype Websites where you are located.
 
@@ -193,7 +193,7 @@ You may not submit or publish through the Skype Website or Software any User Sub
 
 **7.1** The Software, Products and Skype Websites contain proprietary and confidential information that is protected by intellectual property laws and treaties.
 
-**7.2** The content and compilation of content included on the Skype Websites, (excluding User Submissions) such as sounds, text, graphics, logos, icons, images, audio clips, digital downloads and software, are the property of Skype, its affiliates or licensors and are protected by United States and international copyright laws. Such copyright protected content cannot be reproduced without Skype’s express permission. You may download and make personal, non-commercial use of User Submissions on www.qik.com that are displayed with a “download” or similar link. Skype reserves all rights not expressly granted in the Skype Websites.
+**7.2** The content and compilation of content included on the Skype Websites, (excluding User Submissions) such as sounds, text, graphics, logos, icons, images, audio clips, digital downloads and software, are the property of Skype, its affiliates or licensors and are protected by United States and international copyright laws. Such copyright protected content cannot be reproduced without Skype’s express permission. Skype reserves all rights not expressly granted in the Skype Websites.
 
 **7.3** Skype and/or its licensors retain exclusive ownership of the Software, Products and Skype Websites and all intellectual property therein (whether or not registered and anywhere in the world). You will not take any action to jeopardise, limit or interfere with Skype’s intellectual property rights in the Software, Products and/or Skype Websites.
 
@@ -215,7 +215,7 @@ You may not submit or publish through the Skype Website or Software any User Sub
 
 **8.3 Promotional Offers:** From time to time, Skype may offer Paid-For Products for free for a trial period. Skype reserves the right to charge you for such Products (at the normal rate) in the event that Skype determines (in its reasonable discretion) that you are abusing the terms of the offer, including if you are using any service, proxy or other devices or anonymous IP address that prevents us from locating you.
 
-**8.4 Tax:** Skype may collect VAT or other indirect taxes at the appropriate rate (as per applicable tax rules) at the time of purchase of Skype Credit. 15% Luxembourg VAT generally applies if you are located in the EU and the Products are purchased and used in the EU. 8% Swiss VAT applies if you are located in Switzerland. Other local taxes may apply in certain countries. When you purchase a voucher or pre-paid card, depending on the country, 15% Luxembourg VAT, local VAT or other taxes may apply and may be deducted from the value of the voucher or prepaid card upon redemption. You explicitly waive any right to VAT reimbursement from Skype if the amount of VAT ultimately payable by the latter to the tax authorities would for any reason be lower than the amount of VAT collected from you at the time of purchase. Your Skype Credit balance is displayed exclusive of any such taxes. The territories in the EU set out below are outside the scope of EU VAT under Council Directive 2006/112/EC on the common system of VAT, as amended. The Skype Website does not enable users in such territories to take advantage of this VAT exemption and we therefore do not provide the Products in such territories: Mount Athos, Canary Islands, French Overseas Departments, Aland Islands, Channel Islands, Heligoland Island, Büsingen / Buesingen Territory, Ceuta, Melilla, Livigno, Campione d'Italia and Italian Waters of Lake Lugano.
+**8.4 Tax:** Skype may collect VAT or other indirect taxes at the appropriate rate (as per applicable tax rules). 15% Luxembourg VAT generally applies if you are located in the EU and the Products are purchased and used in the EU. 8% Swiss VAT applies if you are located in Switzerland. Other local taxes may apply in certain countries. When you purchase a voucher or pre-paid card, depending on the country, 15% Luxembourg VAT, local VAT or other taxes may apply and may be deducted from the value of the voucher or prepaid card upon redemption. You explicitly waive any right to VAT reimbursement from Skype if the amount of VAT ultimately payable by the latter to the tax authorities would for any reason be lower than the amount of VAT collected from you at the time of purchase. The territories in the EU set out below are outside the scope of EU VAT under Council Directive 2006/112/EC on the common system of VAT, as amended. The Skype Website does not enable users in such territories to take advantage of this VAT exemption and we therefore do not provide the Products in such territories: Mount Athos, Canary Islands, French Overseas Departments, Aland Islands, Channel Islands, Heligoland Island, Büsingen / Buesingen Territory, Ceuta, Melilla, Livigno, Campione d'Italia and Italian Waters of Lake Lugano.
 
 **8.5 Third-Party Charges:** Using the Software on mobile applications will use some of the data allowance available on the data package to which you have subscribed with your mobile network operator. Out-of-country usage may lead to significantly higher costs than regular usage, and you are solely responsible for keeping yourself informed and paying for possible roaming and other applicable charges levied by your mobile network operator.
 
@@ -223,7 +223,7 @@ You may not submit or publish through the Skype Website or Software any User Sub
 
 **9.1 Skype Credit.** You can pay for select Paid-For Products using Skype Credit. You can purchase Skype Credit using any payment method made available to you by Skype from time to time. The Skype Credit that you purchase will be credited to your User Account at the time of purchase (or if you are using a Skype Credit voucher, at the time you redeem that voucher).
 
-**9.2 Inactive Skype Credit.** If you do not use your Skype Credit for a period of 180 days, (including Skype Credit that has been allocated to you by a Skype Manager administrator) Skype will place your Skype Credit on inactive status. You can reactivate the Skype Credit by following the reactivation link in My Account at https://secure.skype.com/account/credit-reactivate. Reactivated Skype Credit is not refundable. If you are located in Japan and you buy Skype Credit from the Skype Website, this paragraph does not apply to you and your Skype Credit shall expire 6 months from the date of purchase. You are not permitted to use any Skype Credit on or after the date of its expiry.
+**9.2 Inactive Skype Credit.** If you do not use your Skype Credit for a period of 180 days, (including Skype Credit that has been allocated to you by a Skype Manager administrator or another Skype user) Skype will place your Skype Credit on inactive status. You can reactivate the Skype Credit by following the reactivation link in My Account at https://secure.skype.com/account/credit-reactivate. Reactivated Skype Credit is not refundable. If you are located in Japan and you buy Skype Credit from the Skype Website, this paragraph does not apply to you and your Skype Credit shall expire 6 months from the date of purchase. You are not permitted to use any Skype Credit on or after the date of its expiry.
 
 **9.3 Other payment methods.** Skype does not guarantee that you will be able to use your Skype Credit balance to purchase all Products. Where Skype Credit cannot be used to pay for a Product, Skype will make another payment method available to you. Skype reserves the right to remove or amend the available payment methods at its sole discretion.
 
@@ -231,11 +231,11 @@ You may not submit or publish through the Skype Website or Software any User Sub
 
 **9.5 Auto-Recharge.**
 
-(a) The Auto-Recharge feature will be automatically enabled when you buy Skype Credit, unless you untick the appropriate box. Your Skype Credit balance will be recharged with the same amount and by the same payment method chosen when you first sign up for Auto-Recharge, unless you subsequently change the amount by accessing your User Account. For example, if you purchase 10 Euros of Skype Credit with your credit card, the recharge amount charged to your credit card will also be 10 Euros of Skype Credit. In future the same amount will be charged to your credit card every time your Skype account balance goes below the threshold set by Skype from time to time. If you do not want to enable Auto-Recharge, please untick the box.
+(a) You can enable the Auto Recharge feature when you buy Skype Credit by ticking the appropriate box. If enabled, your Skype Credit balance will be recharged with the same amount and by the same payment method chosen when you first sign up for Auto-Recharge. For example, if you purchase 10 Euros of Skype Credit with your credit card, the recharge amount charged to your credit card will also be 10 Euros of Skype Credit. In future the same amount will be charged to your credit card every time your Skype account balance goes below the threshold set by Skype from time to time.
 
 (b) If you purchased a subscription with a payment method other than credit card, PayPal or Moneybookers (Skrill), and you have enabled Auto-Recharge, your Skype Credit balance will be recharged with the amount necessary to purchase your next recurring subscription.
 
-(c) You can disable Auto-Recharge at any time by accessing your User Account.
+(c) You can disable Auto-Recharge at any time by accessing and changing your settings in your User Account.
 
 **10\. REFUND POLICY**
 
@@ -243,15 +243,17 @@ You may not submit or publish through the Skype Website or Software any User Sub
 
 **10.2** Outside of the Cooling-Off Period, only subscriptions are refundable unless used or expired.
 
-**10.3** Expenditure of Skype Credit, allocation of a Skype Number, or use of any aspect of a subscription amounts to “use” of a Paid-For-Product. You hereby expressly agree that Skype Numbers may be allocated before the end of the Cooling-Off Period.
+**10.3** Expenditure of Skype Credit, allocation of a Skype Number, or use of any aspect of a subscription amounts to “use” of a Paid-For-Product. You hereby expressly agree that Skype Numbers may be allocated before the end of the Cooling-Off Period and become non-refundable upon allocation.
 
-**10.4** The Cooling-Off Period and refunds do not apply to Paid-For-Products that are (i) purchased via a third party partner of Skype (please contact the partner directly, who may decide in its sole discretion whether or not to pay a refund), (ii) not directly acquired online from Skype (e.g. vouchers or pre-paid cards) (iii) paid for in cash using third party payment methods (such as a cash payment wallet) and (iv) paid for and allocated to your Skype Account by a Skype Manager administrator. They also do not apply to Membership of Skype Developer.
+**10.4** The Cooling-Off Period and refunds do not apply to Paid-For-Products that are (i) purchased via a third party partner of Skype (please contact the partner directly, who may decide in its sole discretion whether or not to pay a refund), (ii) not directly acquired online from Skype (e.g. vouchers or pre-paid cards) (iii) paid for in cash using third party payment methods (such as a cash payment wallet) and (iv) paid for and allocated to your Skype Account by a Skype Manager administrator or another Skype user. They also do not apply to Membership of Skype Developer.
 
-**10.5** If you believe that Skype has charged you in error, you must contact Skype within 90 days of such charge. No refunds will be given for any charges more than 90 days old.
+**10.5** If, within the Cooling-Off Period, you wish to cancel and obtain a refund for a Paid-For-Product which (i) has not been “used” in accordance with Section 10.3 and (ii) does not fall within Section 10.4, you can complete our Withdrawal Form found here. For more information on how to complete the Withdrawal Form see here.
 
-**10.6** Skype reserves the right to refuse a refund request if it reasonably believes (i) that you are trying to unfairly exploit this refund policy, for example, by making repetitive refund requests in respect of the same Product. (ii) if you are in breach of these Terms or (iii) if Skype reasonably suspects that you are using our Products or Software fraudulently or that your User Account is being used by a third party fraudulently.
+**10.6** If you believe that Skype has charged you in error, you must contact Skype Customer Services within 90 days of such charge. No refunds will be given for any charges more than 90 days old.
 
-**10.7** This refund policy does not affect your statutory rights.
+**10.7** Skype reserves the right to refuse a refund request if it reasonably believes (i) that you are trying to unfairly exploit this refund policy, for example, by making repetitive refund requests in respect of the same Product. (ii) if you are in breach of these Terms or (iii) if Skype reasonably suspects that you are using our Products or Software fraudulently or that your User Account is being used by a third party fraudulently.
+
+**10.8** This refund policy does not affect your statutory rights.
 
 **11\. ENDING YOUR RELATIONSHIP WITH SKYPE**
 
@@ -349,9 +351,7 @@ The Software and Documentation are “commercial computer software” and “com
 
 **17.1** To contact Skype in relation to the Skype Software or “Skype” branded Products, please submit a support request to support.skype.com.
 
-**17.2** To contact Skype in relation to the Qik Software or “Qik” branded Products, please submit a support request to support.qik.com.
-
-**17.3** If you contact Skype by any means other than as set out in paragraphs 17.1 or 17.2, your request may not be acknowledged.
+**17.2** If you contact Skype by any means other than as set out in paragraph 17.1, your request may not be acknowledged.
 
 **18\. MISCELLANEOUS**
 
@@ -405,7 +405,7 @@ The Software and Documentation are “commercial computer software” and “com
 
 (a) **Fair Usage Policy.** At Skype, we want all of our customers to get the best calling plans, known as ‘subscriptions’, at the lowest possible price. This Fair Usage Policy ("FUP") is designed to prevent fraud and abuse of our subscriptions by a small number of users.
 
-Subject to this FUP, Skype’s unlimited subscriptions allow unlimited calls to landlines (and mobiles in certain countries) in the applicable subscription countries (excluding special, premium, service and non-geographic numbers). The countries included within your subscription are set at the time of original purchase and remain the same upon renewal. &nbsp;All calls will be disconnected and require a re-dial after a 2-hour duration.  
+Subject to this FUP, Skype’s unlimited subscriptions allow unlimited calls to landlines (and mobiles in certain countries) in the applicable subscription countries (excluding special, premium, service and non-geographic numbers). The countries included within your subscription are set at the time of original purchase and remain the same upon renewal. All calls will be disconnected and require a re-dial after a 2-hour duration.
 
 Skype’s subscriptions are for individual use only (personal or business communications) in accordance with our Terms of Use and this FUP (“Legitimate Use”). The following is a non-exhaustive list of practices that would not be considered Legitimate Use:
 
@@ -435,29 +435,21 @@ Each SMS message has a limit of 160 characters. If you type a longer message it 
 
 **19.6 Group Video Calling**
 
-(a) A fair usage policy applies at www.skype.com/go/terms.gvc.fairusage and is incorporated herein by reference. Skype reserves the right to change the fair usage policy at any time. Changes shall become effective when published on the Skype Website. Your continued use of a Skype Premium Subscription after publication on the Skype Website shall constitute your acceptance to be bound by the terms and conditions of the revised fair usage policy.
+(a) A fair usage policy applies at www.skype.com/go/terms.gvc.fairusage and is incorporated herein by reference. Skype reserves the right to change the fair usage policy at any time. Changes shall become effective when published on the Skype Website. Your continued use of group video calling after publication on the Skype Website shall constitute your acceptance to be bound by the terms and conditions of the revised fair usage policy.
 
-(b) Number of Participants. The number of permitted participants on a group video call varies from 3 to a maximum of 10, subject to system requirements. You can find more details at www.skype.com/go/skypepremium.
+(b) Number of Participants. The number of permitted participants on a group video call varies from 3 to a maximum of 10, subject to system requirements. You can find more details at www.skype.com/go/gvc.
 
-(c) Audio Conversion. If a Skype Premium Subscription or Day Pass expires during a group video call, or it has exceeded the fair usage limit, or the owner of the Skype Premium Subscription leaves the call (and there is no other participant on the call who owns a Skype Premium Subscription), then the call will convert from video to audio.
+(c) Audio Conversion. If your group video call exceeds the fair usage limit, then the call will convert from video to audio.
 
-(d) Software Versions. If a participant of a group video call is not on a version of Internet Communications Software that supports group video calls, then the call will be an audio call only for that participant. For details of the system requirements for group video calling, please see www.skype.com/go/skypepremium.requirements.
+(d) Software Versions. If a participant of a group video call is not on a version of Internet Communications Software that supports group video calls, then the call will be an audio call only for that participant. For details of the system requirements for group video calling, please see www.skype.com/go/gvc
 
-(e) Live chat. Live chat customer support is available as part of the Skype Premium Subscription. This support is available 24 hours a day, every day, and only in English.
+**19.7 Skype Video Messaging (“Video Messaging”)**
 
-**19.7 Qik Premium Fair Usage Policy**
+Subject to our Fair Usage Policy (“FUP”) below, there are no limits on the number of Video Messages you can send. If you are not a Skype Premium subscriber, Video Messages will be kept for a minimum of 6 months from the date sent and may expire after that time.
 
-Qik Premium is subject to a fair usage policy of 15GB of video storage per user per month and each video can be no more than 90 minutes in duration. Once these limits have been reached you cannot upload any new videos in that month or continue recording beyond the 90-minute mark.
+**Fair Usage Policy:** This FUP is designed to prevent fraud and abuse of Video Messaging. Video Messaging is for personal, individual and non-commercial use only, and to be in accordance with these Terms at all times (“Legitimate Use”). Skype reserves the right to take any unlawful, prohibited, abnormal or unusual activity into account in making its determination as to whether your activity does not constitute Legitimate Use. Skype may in its option, terminate its relationship with you, or suspend your account immediately if it determines you are using Video Messaging contrary to this FUP or these Terms.
 
-Skype reserves the right to change the fair usage policy at any time. Changes shall become effective when published on the Skype Website. Your continued use of Qik Premium after publication on the Skype Website shall constitute your acceptance to be bound by the terms and conditions of the revised fair usage policy.
-
-**19.8 Skype Video Messaging (“Video Messaging”)**
-
-S19.8 Subject to our Fair Usage Policy (“FUP”) below, there are no limits on the number of Video Messages you can send. If you are not a Skype Premium subscriber, Video Messages will be kept for a minimum of 6 months from the date sent and may expire after that time.
-
-**Fair Us**age** Policy:** This FUP is designed to prevent fraud and abuse of Video Messaging. Video Messaging is for personal, individual and non-commercial use only, and to be in accordance with these Terms at all times (“Legitimate Use”). Skype reserves the right to take any unlawful, prohibited, abnormal or unusual activity into account in making its determination as to whether your activity does not constitute Legitimate Use. Skype may in its option, terminate its relationship with you, or suspend your account immediately if it determines you are using Video Messaging contrary to this FUP or these Terms.
-
-**19.9 Reverse Charge Calling:** Reverse charge calling is made available to the following destinations through a partner of Skype. There is no charge to you and a Skype Credit balance or a subscription is not required. However, you will be required to provide your name via voice prompt to the person you are calling and they will need to accept the fixed charges associated with the reverse charge call where this functionality is supported by their local communication provider. Reverse charge calls last no more than 60 minutes, after which time a re-dial will be required by you.
+**19.8 Reverse Charge Calling:** Reverse charge calling is made available to the following destinations through a partner of Skype. There is no charge to you and a Skype Credit balance or a subscription is not required. However, you will be required to provide your name via voice prompt to the person you are calling and they will need to accept the fixed charges associated with the reverse charge call where this functionality is supported by their local communication provider. Reverse charge calls last no more than 60 minutes, after which time a re-dial will be required by you.
 
 **20\. PAY BY MOBILE**
 
@@ -471,6 +463,6 @@ S19.8 Subject to our Fair Usage Policy (“FUP”) below, there are no limits on
 
 **YOU EXPRESSLY ACKNOWLEDGE THAT YOU HAVE READ THESE TERMS AND UNDERSTAND THE RIGHTS, OBLIGATIONS, TERMS AND CONDITIONS SET FORTH HEREIN. BY CLICKING ON THE ACCEPT BUTTON AND/OR CONTINUING TO INSTALL THE SOFTWARE OR USE THE SOFTWARE, PRODUCTS AND/OR SKYPE WEBSITES, YOU EXPRESSLY CONSENT TO BE BOUND BY ITS TERMS AND CONDITIONS AND GRANT TO SKYPE THE RIGHTS SET FORTH HEREIN.**
 
-© Skype and/or Microsoft – Last updated: March 2014
+© Skype and/or Microsoft – Last updated: June 2014
 
 Call Send SMS Add to Skype You'll need Skype CreditFree via Skype
