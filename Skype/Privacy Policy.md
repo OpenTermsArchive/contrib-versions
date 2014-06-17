@@ -1,6 +1,6 @@
 Skype is committed to respecting your privacy and the confidentiality of your personal data, traffic data and communications content.
 
-This Privacy Policy is designed to assist you in understanding how Skype uses and safeguards the information you provide in using Skype's internet communications, Skype's websites and/or Skype's products, including without limitation, the ‘Qik’ branded products.
+This Privacy Policy is designed to assist you in understanding how Skype uses and safeguards the information you provide in using Skype's internet communications, Skype's websites and/or Skype's products.
 
 Please note that Skype is now a part of Microsoft.
 
@@ -58,11 +58,11 @@ Skype may gather and use information about you, including (but not limited to) i
 
 (n) Content of instant messaging communications, Voice messages, and video messages (please see section 12);
 
-(o) Location information, derived from your mobile carrier or from the mobile device that you use, and as described in further detail in section 16, below. In connection with the Qik products, you control when your location is shared with others. Your location is displayed and shared with other Qik users only in accordance with your privacy settings. You also may create location information by "geo-tagging" your submitted content with location information. Please manage your privacy settings for location information carefully;
+(o) Location information, derived from your mobile carrier or from the mobile device that you use, and as described in further detail in section 16, below;
 
 (p) Mobile device information, such as manufacturer’s name, device model number, operating system, carrier network;
 
-(q) Location information and device identifiers, derived from your device, when you search for or connect to a Skype WiFi compatible hotspot. This information may be used to improve detection of eligibility to connect using Skype WiFi and for the purposes of offering, providing and marketing Skype WiFi to you;
+(q) Location information, device identifiers and standard identifiers of the Wi-Fi networks your device detects, when you search for or connect to a WiFi hotspot;
 
 (r) Access tokens for other accounts you associate with your Skype account (such as Microsoft account or Facebook), which are like an electronic key provided by the service that acts in place of a password for authentication.
 
@@ -73,7 +73,6 @@ Our primary purpose in collecting information is to provide you with a safe, smo
 *   provide internet communication, video sharing and other products in particular to convey the communications and videos you and others make by means of the Skype software and/or the Skype products;
 *   change and customize Skype features and functionality;
 *   take, process or deliver orders made via our websites, invoice you or notify you of the status of your order;
-*   display updates about your recent activity using the Qik products or connections to other Qik users;
 *   provide other services for you (as described when we collect the information);
 *   provide you with customer support and troubleshoot problems;
 *   compare information for accuracy;
@@ -236,7 +235,7 @@ These ads may also be targeted based on other information Microsoft Advertising 
   
 To learn more about how Microsoft Advertising collects and uses information to target ads on Skype and other properties, including how it uses information collected from Skype, such as age and gender and other information collected as part of delivering ads to or on behalf of Skype to target ads on other properties, please see the Microsoft Advertising Privacy Statement
 
-If you sign-in to Skype using a Microsoft account or a Skype account that you have linked to a Microsoft account, you may opt-out of receiving targeted ads from Microsoft Advertising by visiting http://choice.live.com/advertisementchoice.
+If you sign-in to Skype using a Microsoft account or a Skype account that you have linked to a Microsoft account, you may opt-out of receiving targeted ads from Microsoft Advertising by visiting http://go.microsoft.com/fwlink/?LinkID=286759.
 
 You can also opt out of receiving behaviourally-targeted ads from Microsoft and other advertising companies by visiting the following sites:
 
@@ -261,8 +260,6 @@ In some instances, Microsoft Advertising may facilitate the placement of adverti
 **6\. YOUR USER PROFILE**
 
 Your user profile is the information provided by you at registration or later which is displayed in your Skype profile in the Skype software client, in the Skype search directory and on your personal details page in your account on www.skype.com. It may include your Skype username, full name, address, telephone and mobile numbers, gender, date of birth, country, language, “about me” page URL, and any other information that you decide to make available. You can access your user profile from the “Skype” menu in the Skype software client or from your account on www.skype.com in order to view, correct or complete information, remove non-mandatory information. and to see the privacy settings associated with your profile information.
-
-If you use the Qik products, you will have a Qik user profile. A username and optional first name and last name is displayed when you stream videos, upload videos, or send messages. Based on your privacy settings, any content that you submit to Qik may be redistributed through the Internet and other media channels and may be viewed by the general public. You can access your profile from your account on www.qik.com in order to view, correct or complete information, remove non-mandatory information. and you can change your sharing settings from the settings menu in the Qik software application.
 
 **7\. LINKED WEBSITES AND THIRD PARTY APPLICATIONS**
 
@@ -292,7 +289,7 @@ If you have registered for or use co-branded Skype products, the emails or SMS t
 
 **11\. HOW CAN YOU ACCESS OR AMEND YOUR PERSONAL DATA?**
 
-You have the right to access and, where relevant, to amend your personal information. Some of your information may be viewed or edited online by signing into your account page on www.skype.com or www.qik.com. We will respond to requests to view, correct, complete or remove your personal information within a reasonable period of time and upon verification of your identity.
+You have the right to access and, where relevant, to amend your personal information. Some of your information may be viewed or edited online by signing into your account page on www.skype.com. We will respond to requests to view, correct, complete or remove your personal information within a reasonable period of time and upon verification of your identity.
 
 Skype will use all reasonable endeavours to accommodate requests to delete personal information unless it is required to be retained by law or for lawful business purposes. However, please note that due to the technical nature of the peer to peer network, it can sometimes take up to two weeks before your Skype ID disappears completely from the peer to peer network. Your details may still appear in the search directory during this time.
 
@@ -344,15 +341,17 @@ Skype will occasionally update this Privacy Policy to reflect changes in our sof
 
 **1**8**. HOW CAN YOU CONTACT SKYPE?**
 
-To contact Skype in relation to the “Skype” branded software or products, please submit a support request to customer support team. To contact Skype in relation to the “Qik” branded software or products, please submit a support request to http://support.qik.com  
+To contact Skype in relation to the “Skype” branded software or products, please submit a support request to customer support team.  
 Skype Software S.à r.l / Skype Communications S.à r.l.  
 23-29 Rives de Clausen  
 L-2165 Luxembourg  
-Luxembourg  
+Luxembourg
 
 For members of Skype Manager in the United States only:  
 Skype Inc.  
 3210 Porter Drive  
 Palo Alto, California 94304, USA
+
+To find the Microsoft subsidiary in your country or region, see http://www.microsoft.com/worldwide/.
 
 © Skype and/or Microsoft – Last updated: April 2014
