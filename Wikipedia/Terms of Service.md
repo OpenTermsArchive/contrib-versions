@@ -155,6 +155,20 @@ Certain activities, whether legal or illegal, may be harmful to other users and 
 *   you report any vulnerabilities to MediaWiki developers (or fix it yourself). and
 *   you do not undertake such actions with malicious or destructive intent.
 
+**Paid contributions without disclosure**
+
+These Terms of Use prohibit engaging in deceptive activities, including misrepresentation of affiliation, impersonation, and fraud. As part of these obligations, you must disclose your employer, client, and affiliation with respect to any contribution for which you receive, or expect to receive, compensation. You must make that disclosure in at least one of the following ways:
+
+*   a statement on your user page,
+*   a statement on the talk page accompanying any paid contributions, or
+*   a statement in the edit summary accompanying any paid contributions.
+
+Applicable law, or community and Foundation policies and guidelines, such as those addressing conflicts of interest, may further limit paid contributions or require more detailed disclosure.
+
+A Wikimedia Project community may adopt an alternative paid contribution disclosure policy. If a Project adopts an alternative disclosure policy, you may comply with that policy instead of the requirements in this section when contributing to that Project. An alternative paid contribution policy will only supersede these requirements if it is approved by the relevant Project community and listed in the alternative disclosure policy page.
+
+For more information, please read our FAQ on disclosure of paid contributions.
+
 We reserve the right to exercise our enforcement discretion with respect to the above terms.
 
 5\. Password Security
