@@ -252,8 +252,8 @@ In addition, if you wish for your notice to be considered as a notice pursuant t
 Your notice should be sent to us by email to copyright@soundcloud.com and/or by mail to the following address:
 
 SoundCloud Ltd  
-Greifswalder Str. 212-213  
-10405 Berlin  
+Rheinsberger Str. 76/77  
+10115 Berlin  
 Germany  
 Attn: Copyright Team
 
@@ -387,7 +387,7 @@ SoundCloud may change the features of any type of account, may withdraw or, or i
 
 Termination
 
-You may terminate this Agreement at any time by sending notice in writing to SoundCloud at Greifswalder Str. 212-213, 10405 Berlin, Germany confirming such termination, by removing all of Your Content from your account, by deleting your account and thereafter by ceasing to use the Platform. If you have a Pro Account, and terminate this Agreement before the end of your subscription, we are unable to offer any refund for any unexpired period of your subscription.
+You may terminate this Agreement at any time by sending notice in writing to SoundCloud at Rheinsberger Str. 76/77, 10115 Berlin, Germany confirming such termination, by removing all of Your Content from your account, by deleting your account and thereafter by ceasing to use the Platform. If you have a Pro Account, and terminate this Agreement before the end of your subscription, we are unable to offer any refund for any unexpired period of your subscription.
 
 SoundCloud may suspend your access to the Platform and/or terminate this Agreement at any time if (i) you are deemed to be a Repeat Infringer as described above. (ii) you are in breach of any of the material provision of these Terms of Use or our Community Guidelines, including without limitation, the provisions of the following sections: Your Use of the Platform, Your Content, Grant of Licence , and Your Representations and Warranties. (iii) SoundCloud elects at its discretion to cease providing access to the Platform in the jurisdiction where you reside or from where you are attempting to access the Platform, or (iv) in other reasonable circumstances as determined by SoundCloud at its discretion. If you have a Pro Account and your account is suspended or terminated by SoundCloud pursuant to (i) or (ii) above, you will not be entitled to any refund for any unexpired period of your subscription. If your account is terminated pursuant to (iii) or (iv), refunds may be payable at the reasonable discretion of SoundCloud.
 
@@ -425,6 +425,6 @@ The foregoing provisions of this Applicable Law and Jurisdiction section do not 
 
 Disclosures
 
-The services hereunder are offered by SoundCloud Limited, a company incorporated under the laws of England &. Wales and with its main place of business at Greifswalder Str. 212-213, 10405 Berlin, Germany. More information about SoundCloud is available here. You may contact us by sending correspondence to the foregoing address or by emailing us at contact (at)soundcloud.com. If you are a resident of the State of California, you may have these Terms of Use mailed to you electronically by sending a letter to the foregoing address with your electronic mail address and a request for these Terms of Use.
+The services hereunder are offered by SoundCloud Limited, a company incorporated under the laws of England &. Wales and with its main place of business at Rheinsberger Str. 76/77, 10115 Berlin, Germany. More information about SoundCloud is available here. You may contact us by sending correspondence to the foregoing address or by emailing us at contact (at)soundcloud.com. If you are a resident of the State of California, you may have these Terms of Use mailed to you electronically by sending a letter to the foregoing address with your electronic mail address and a request for these Terms of Use.
 
 Last Amended: 12 March 2013
