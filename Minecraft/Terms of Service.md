@@ -96,7 +96,7 @@ The main rules are:
 *   Only one promotion can be used at a time, and you can‘t use a promotion with another offer.
 *   Discounts are only valid until the date specified and they only apply to purchases made on the Website.
 *   Discounts are not refundable.
-*   We might cancel any promotion at a time./li>.
+*   We might cancel any promotion at any time.
 
 GENERAL STUFF
 
