@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Looking to retrieve my old blog
-    *   by paulaabdulfan1178\_dc
-    *   9 hours ago
+*   I cannot find my board
+    *   by twbad
+    *   7 hours ago
     *   in Data Migration
     *   0 votes
     *   0
+*   My blog from when I was a kid is gone :(
+    *   \[Resolved\] by AbsentHeart
+    *   2 weeks ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 8 hours ago)
+*   please help cant find my music
+    *   \[Resolved\] by RisingStar2009
+    *   4 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 8 hours ago)
+*   Imported archive but pre 2006 posts in foreign language cannot show
+    *   \[Resolved\] by Cora\_Tsang
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 8 hours ago)
+*   twistedthyme looking for my blog
+    *   \[Resolved\] by twistedthyme
+    *   5 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 8 hours ago)
+*   Eugenia...??????
+    *   \[Resolved\] by Gustava
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 8 hours ago)
+*   Deleting My Account
+    *   \[Resolved\] by Omgwtf\_St
+    *   9 months ago
+    *   in Miscellaenous
+    *   0 votes
+    *   41 (last comment by bella12345 9 hours ago)
+*   My 10 year old blog is GONE!
+    *   \[Resolved\] by vvbutterflyvv
+    *   9 months ago
+    *   in Data Migration
+    *   0 votes
+    *   15 (last comment by eugenia 9 hours ago)
+*   Looking to retrieve my old blog
+    *   \[Resolved\] by paulaabdulfan1178\_dc
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 9 hours ago)
 *   How can i upgrade to xanga 2.0?
     *   \[Resolved\] by T2\_Shop
     *   2 months ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by RisingStar2009 10 hours ago)
+    *   2 (last comment by RisingStar2009 1 day ago)
 *   Missed downloading my archives
     *   \[Resolved\] by jaggedjunky
     *   8 months ago
     *   in Data Migration
     *   0 votes
-    *   7 (last comment by Chameleonperson 2 days ago)
-*   My 10 year old blog is GONE!
-    *   by vvbutterflyvv
-    *   9 months ago
-    *   in Data Migration
-    *   0 votes
-    *   14 (last comment by BFK 3 days ago)
-*   please help cant find my music
-    *   by RisingStar2009
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
+    *   7 (last comment by Chameleonperson 3 days ago)
 *   How do I get my old blogs back?
     *   \[Resolved\] by nocturnal\_spirit88
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
-*   twistedthyme looking for my blog
-    *   by twistedthyme
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
+    *   1 (last comment by eugenia 5 days ago)
 *   十萬個請求!!!
     *   \[Resolved\] by lht981051
     *   2 weeks ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
+    *   1 (last comment by eugenia 5 days ago)
 *   please help!
     *   \[Resolved\] by Jos3pH
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
+    *   1 (last comment by eugenia 5 days ago)
 *   I need to delete my old blog and prevent archiving robots
     *   \[Resolved\] by bellarmineforum
-    *   1 week ago
+    *   2 weeks ago
     *   in Adding &. Editing Entries
     *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
-*   Unused Blog
-    *   \[Resolved\] by speedingsausage30
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
-*   please revive my blog!
-    *   \[Resolved\] by NOmoreBOUNCYballs
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
-*   Unable to upgrade to 2.0
-    *   \[Resolved\] by HAMster85404
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
-*   Nothing is working.
-    *   \[Resolved\] by Lucky\_Pick
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
-*   Blog revive
-    *   \[Resolved\] by pAttiE\_03
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
+    *   1 (last comment by eugenia 5 days ago)
 
 1 2 3 ... 130 Next
 
