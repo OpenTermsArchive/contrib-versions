@@ -378,11 +378,11 @@ These additional terms and conditions for the use of the events platform supplem
 **1.6** The organiser grants XING permission to only send invoices to participants in electronic form.
 
    
-2\. Right of cancellation for consumers
+2\. Right of withdrawal for consumers
 
-Right of cancellation
+Right of withdrawal
 
-You may cancel your contractual agreement with XING in writing (e.g. by letter, fax or e-mail) within fourteen (14) days without stating a reason. The two-week period begins upon receipt of these instructions, but not before the contract has been executed, and also not prior to fulfilment of our informational duties as per Article 246 Section 2 in connection with Section 1 (1 and 2) EGBGB, as well as our duties as per Section 312g (1) line 1 BGB in connection with Article 246 Section 3 EGBGB. The contract can be cancelled by sending timely notification to:
+You may withdraw from your contractual agreement with XING in writing (e.g. by letter, fax or e-mail) within fourteen (14) days without stating a reason. The two-week period begins upon receipt of these instructions, but not before the contract has been executed, and also not prior to fulfilment of our informational duties as per Article 246 Section 2 in connection with Section 1 (1 and 2) EGBGB, as well as our duties as per Section 312g (1) line 1 BGB in connection with Article 246 Section 3 EGBGB. You can withdraw from the contract by sending timely notification to:
 
 XING Events GmbH  
 Sandstr. 33  
@@ -391,27 +391,27 @@ Germany
 Fax: +49 89 552 73 58 10  
 E-mail: info@xing-events.com
 
-Consequences of cancellation
+Consequences of withdrawal
 
-In the event of a valid contract termination, services and fees provided by both parties are to be returned, and any economic advantages gained (e.g. interest) are to be repaid. If you are not able to return the services and utilisation (exercised benefits) rendered fully or in part, or only in a lesser form, you are obliged to reimburse us for the value lost. This can mean that you are required to fulfil the contractual payment obligations for the time period until cancellation. Obligations to reimburse payments must be fulfilled within 30 days. This period begins for you when you send your contract termination, for us when we receive it.
+In the event of a valid termination, services and fees provided by both parties are to be returned, and any economic advantages gained (e.g. interest) are to be repaid. If you are not able to return the services and utilisation (exercised benefits) rendered fully or in part, or only in a lesser form, you are obliged to reimburse us for the value lost. This can mean that you are required to fulfil the contractual payment obligations for the time period until withdrawal. Obligations to reimburse payments must be fulfilled within 30 days. This period begins for you when you send your contract termination, for us when we receive it.
 
 Additional information:
 
-Your right of cancellation lapses before the end of the right of cancellation period if the contract has been completely fulfilled to the satisfaction of both parties before you exercise your right of cancellation.
+Your right of withdrawal lapses before the end of the right of withdrawal period if the contract has been completely fulfilled to the satisfaction of both parties before you exercise your right of withdrawal.
 
-\- End of right of cancellation -
+\- End of right of withdrawal -
 
-Exclusion of right of cancellation:
+Exclusion of right of withdrawal:
 
-The right of cancellation does not exist if, when entering into a legal transaction, you act in exercise of your trade, business or profession and are therefore deemed to be an entrepreneur (Section 14 BGB).
+The right of withdrawal does not exist if, when entering into a legal transaction, you act in exercise of your trade, business or profession and are therefore deemed to be an entrepreneur (Section 14 BGB).
 
-The right of cancellation vis-à-vis XING does not apply to agreements you enter into with third parties, i.e. where XING is not legally involved. Any such rights of cancellation may only be brought against the respective third party, which is why there is no right of cancellation vis-à-vis XING when purchasing tickets on the events platform.
+The right of withdrawal vis-à-vis XING does not apply to agreements you enter into with third parties, i.e. where XING is not legally involved. Any such rights of withdrawal may only be brought against the respective third party, which is why there is no right of withdrawal vis-à-vis XING when purchasing tickets on the events platform.
 
 Other additional information:
 
 You expressly agree that we will start to render the service before the end of the cancellation period.
 
-You are required to pay the fees agreed for services we render up until the time you submit a cancellation.
+You are required to pay the fees agreed for services we render up until the time you withdraw from your contract.
 
    
 3\. Obligations of the user and special provisions for users
