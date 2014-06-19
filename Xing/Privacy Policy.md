@@ -2,9 +2,7 @@ Privacy policy
 
 Print | Save
 
-**Terms and Conditions on Data Protection**
-
-The additional Application Terms of Use apply when using XING Applications.
+p>**Terms and Conditions on Data Protection**
 
 “XING” refers to the service provided subject to these General Terms and Conditions and/or XING AG.
 
@@ -39,7 +37,7 @@ The following terms used in these Terms and Conditions on Data Protection shall 
 *   **"Social Network"** shall mean the contact and communication forums that belong to the applications of the XING service.
 *   **"Profile"** shall mean the XING Website where the Personal Data you have made available to XING is displayed in accordance with your specifications and your consent.
 *   **"XING Members"** shall mean all registered users with a visible profile in the Social Network.
-*   **"XING Services"** shall mean all registration based services provided by XING on the XING Websites.
+*   **"XING Services"** shall mean all registration-based services provided by XING on the XING Websites.
 *   **"Registration Data"** shall mean the Personal Data you are obliged to make available to XING in the registration process for the XING Services (mandatory fields).
 
 **3\. What does XING know about you, what do you give XING and XING Members permission to do, and what happens with your Personal Data?**
@@ -103,7 +101,7 @@ All other XING Members may access your Profile and view the information displaye
 
 If you send XING Members a request for personal contact, these XING Members are then saved in your Profile on a contact list. Should a XING Member confirm your request for contact, this XING Member shall be listed as a so called **"confirmed contact"**. Confirmed and unconfirmed contacts shall be registered separate from one another. Other XING Members may only ever view your list of confirmed contacts.
 
-XING has set your privacy settings under "Privacy" by default so that your list of confirmed contacts is displayed to all XING Members. However, you may change this setting at any time by yourself to the effect that your list of confirmed contacts is not visible to anybody at all or only to certain of your contacts, for example to the direct contacts of your contacts (i.e. second level contacts) or only to third level or fourth level contacts.
+XING has set your privacy settings under "Privacy" by default so that your list of confirmed contacts is displayed to all XING Members. However, you may change this setting at any time by yourself to the effect that your list of confirmed contacts is not visible to anybody at all or only to certain of your contacts, for example to the direct contacts of your contacts (i.e. second-level contacts) or only to third-level or fourth-level contacts.
 
 The following of your **personal statistics** are visible to all XING Members at all times:
 
@@ -112,11 +110,9 @@ The following of your **personal statistics** are visible to all XING Members at
 *   Month and year of your membership
 *   Type of membership
 
-On your Profile you will find a so-called **activity meter**. This meter indicates whether you use the XING Services regularly. However, it does not show any details about the way or the times you use the XING Services. The activity meter is intended as an indication for other XING Members to determine how often you use the XING Services so that the other XING Members can evaluate whether you will presumably react quickly to a request via the XING Services. You may choose to hide the activity meter at any time in your privacy settings under "Privacy" so that the activity meter is not visible to other XING Members.
+Other XING Members may send you **private messages** in order to establish contact with you. XING has set your privacy settings under "Privacy" by default so that all XING Members may send you private messages. You may restrict the ability of XING Members to send you private messages at any time to the effect that either no XING Members or only selected contacts may send you private messages, for example only the direct contacts of your contacts (i.e. second-level contacts) or only third-level or fourth-level contacts.
 
-Other XING Members may send you **private messages** in order to establish contact with you. XING has set your privacy settings under "Privacy" by default so that all XING Members may send you private messages. You may restrict the ability of XING Members to send you private messages at any time to the effect that either no XING Members or only selected contacts may send you private messages, for example only the direct contacts of your contacts (i.e. second level contacts) or only third level or fourth level contacts.
-
-As you can see, XING gives you complete control over your own privacy at all times!
+As you can see, XING gives you complete control over your own privacy at all times.
 
 **3.4 Your comments**
 
@@ -124,13 +120,13 @@ You can like, find interesting and comment on your contacts' activity (hereinaft
 
 **3.5 Billing details**
 
-If you use any of XING's paid services, XING will collect and use your billing details such as your credit card or bank details for billing and payment purposes. To the extent required, your billing details are sent to, collected and processed by service providers such as credit card companies in order to process payments. Your billing details are saved in order to process payments for automatic user account extensions.
+If you use any of XING's paid services, XING will collect and use your billing details such as your credit card or bank details for billing and payment purposes. If you select credit card as your method of payment and pay with your MasterCard or Visa credit card (not American Express), XING S.à r.l. shall process your billing data along with any other details required for billing purposes (e.g. name and billing address). In such cases, XING AG and XING S.à r.l. shall process your data in accordance with applicable Luxembourg law, in particular the Law of 2 August 2002 on the Protection of Persons with regard to the Processing of Personal Data. XING S.à r.l. shall not process your data in any other cases, including if you choose a payment method other than credit card. To the extent required, your billing details are sent to, collected and processed by service providers such as credit card companies in order to process payments. Your billing details are saved in order to process payments for automatic user account extensions.
 
 **4\. Visibility of your Profile to Non-Members of XING**
 
 Under "Privacy" you can set the level of your Profile's privacy at any time. This means that you decide whether to increase your level of privacy or opt in favour of more visibility online, enabling more exposure of your profile for potential business partners. When you register, your default privacy settings rather promote the spirit of networking. The data contained in your profile is visible to non-members of XING and traceable by search engines on the Internet. This, however, does not include personal contact details such as e-mail addresses or phone numbers.
 
-If you signed up to XING before 17.08.2007 the following regulation continues to apply:
+If you signed up to XING before 17/08/2007 the following regulation continues to apply:
 
 Your profile is preset to be invisible to non-members of XING and not traceable by search engines on the Internet. You can, of course, adjust these settings at any time. However, please note that if you do release your profile to non-members or search engines, this will automatically mean that the following sections of your registration data are displayed to non-members of XING: First name, last name, professional status, position (title), previous companies and positions, industry, country, state and city of your company
 
@@ -148,13 +144,13 @@ Please note: where a group is specified as "public" on the XING Website and in t
 
 On the XING Websites, XING offers you the possibility to enter your appointments, activities and events as well as similar services (collectively hereinafter referred to as "events"). With this function you may manage and coordinate your events with other XING Members and/or with non-members of XING, and you may also invite other XING Members and/or non-members to specific events.
 
-Each event has one (1) or more hosts (organizers). The host decides for each event if and which information about the event is visible to other XING Members and/or for non-members of XING. Among other things, this information may include whether the event is reserved to XING Members or whether it is a public event and as such accessible to non-members, whether the number of participants is limited, whether the guest list is visible without any restrictions or if and which restrictions should apply to the visibility of the guest list. The above information shall be displayed on the XING Websites for the relevant event. It is visible to XING Members, and it may also be visible to non-members, depending on the settings chosen by the host.
+Each event has one (1) or more hosts (organisers). The host decides for each event if and which information about the event is visible to other XING Members and/or for non-members of XING. Among other things, this information may include whether the event is reserved to XING Members or whether it is a public event and as such accessible to non-members, whether the number of participants is limited, whether the guest list is visible without any restrictions or if and which restrictions should apply to the visibility of the guest list. The above information shall be displayed on the XING Websites for the relevant event. It is visible to XING Members, and it may also be visible to non-members, depending on the settings chosen by the host.
 
 **7\. API and data processing on behalf of users**
 
 XING provides the XING API to selected developers and companies ("API Partners") so that they can develop and manage applications that grant users of API Partner applications access to data and content beyond the XING platform while also allowing said users to integrate external content on the XING platform. The aim of integrating external applications is to make XING more appealing and useful to XING Members. API stands for Application Programming Interface, meaning that the XING API is an interface provided by XING that allows API partners to integrate one or more applications on the XING platform provided they adhere to XING’s contractual terms. XING Members are required to provide their consent before using any of the applications.
 
-API Partners are required to register on XING and enter into an agreement with XING that governs both the rights and duties of both parties. The API Partners are in particular required to give their consent in terms of accessing, saving and using personal data. XING AG requires contractual agreements and has made technical provisions to prevent API Partners from potentially misusing personal data.
+API Partners are required to register on XING and enter into an agreement with XING that governs both the rights and duties of both parties. The API Partners are in particular required to give their consent in terms of accessing, saving and using personal data. XING requires contractual agreements and has made technical provisions to prevent API Partners from potentially misusing personal data.
 
 Every API Partner application that accesses the data and content of XING Members requires the prior consent of XING AG. XING has therefore compiled a list of criteria in order to ensure that XING Member data is both safe and secure.
 
@@ -199,17 +195,17 @@ You may choose to unsubscribe from the newsletter at any time by changing your n
 
 **12\. Cookies and pixels**
 
-"Cookies" are small files that enable us to store specific information related to you, the User, on your PC or other end device while using the XING services. Cookies help to analyze usage frequency, the number of people who use our website, user behavior on our website, advertising effectiveness, and to increased security and tailor our service offering to your needs.
+"Cookies" are small files that enable us to store specific information related to you, the User, on your PC or other end device while using the XING services. Cookies help to analyse usage frequency, the number of people who use our website, user behaviour on our website, advertising effectiveness, and to increased security and tailor our service offering to your needs.
 
 After you have logged in to the XING Services with your username and password, XING uses so-called "session cookies" in order to identify you during the course of your session. Upon the termination of your session, the session cookie will be automatically deleted. You can save session cookies on your computer to enable automatic login for subsequent sessions by activating the function: "Login automatically on this computer". Session cookies will then store parts of your login data in encrypted form. If you select automatic login, please be aware that this will then only be possible on the same computer on which the cookie was first saved, i.e. an automatic login on two (2) different computers is not possible.
 
-XING Services also use "permanent cookies" to record information about visitors to the XING Websites who repeatedly use the XING Services. Permanent cookies are designed to help us continually improve the products and services we offer you. Permanent cookies do not contain personal information such as your name, IP address, etc., meaning that we do not generate profiles based on user behavior.
+XING Services also use "permanent cookies" to record information about visitors to the XING Websites who repeatedly use the XING Services. Permanent cookies are designed to help us continually improve the products and services we offer you. Permanent cookies do not contain personal information such as your name, IP address, etc., meaning that we do not generate profiles based on user behaviour.
 
 You can edit the settings of your browser to prevent cookies from being stored, to limit the storage of cookies to certain websites, or such that your browser informs you every time a cookie is sent. You can also delete cookies from your PC’s hard drive at any time. However, please note that you will not be able to take advantage of the XING Services if session cookies are deactivated.
 
 Third-party cookies could also be stored on your PC or end device when using XING and/or XING applications which are partially or entirely provided by third parties. You can prevent such cookies from being stored in your browser by adjusting the browser settings accordingly.
 
-XING uses so-called pixels, Web beacons, clear GIFs and other similar mechanisms ("Pixels"). A pixel is an image file or link to an image file added to the Website code but not sent to your end device (e.g. PC, smartphone, etc.). Pixels are largely used for the same reasons as cookies, i.e. to analyze the number of people who use our website or, if the user's e-mail program allows HTML, to determine whether and when an e-mail was opened. Pixels help us to check and optimize the effectiveness of our Websites, offers and advertising campaigns. Pixels do not provide us with personal information and do not enable us to track users. Pixels are usually used in conjunction with cookies. If you have deactivated the use of cookies in your browser, then the pixel will only report an anonymous website visit.
+XING uses so-called pixels, Web beacons, clear GIFs and other similar mechanisms ("Pixels"). A pixel is an image file or link to an image file added to the Website code but not sent to your end device (e.g. PC, smartphone, etc.). Pixels are largely used for the same reasons as cookies, i.e. to analyse the number of people who use our website or, if the user's e-mail program allows HTML, to determine whether and when an e-mail was opened. Pixels help us to check and optimise the effectiveness of our Websites, offers and advertising campaigns. Pixels do not provide us with personal information and do not enable us to track users. Pixels are usually used in conjunction with cookies. If you have deactivated the use of cookies in your browser, then the pixel will only report an anonymous website visit.
 
 We also use pixel-based and cookie-based conversion tracking technologies in order to be able to measure the success of our advertising campaigns, for example. To this end we use technologies provided by Google, Yahoo!, Bing etc. The following links contain information these providers have published with regard to cookies and opting out:
 
@@ -219,8 +215,29 @@ Yahoo!/Bing: Opt out of personalized advertising
 
 NEXT AUDIENCE: Privacy information
 
-The following information also applies to users in Germany:  
-Our website uses the "Scalable Centralized Measurement System" ("Skalierbares zentrales Messverfahren – SZM") developed by INFOnline in order to enable us to gather statistical information about the use of our website. Anonymous data is collected for this purpose. For the purpose of recognizing computer systems, the SZM method of audience measurement either uses a cookie with the identifier “ivwbox.de” or a signature which is created on the basis of various data automatically relayed by your computer. This method does not store IP addresses. these are processed in an anonymized form only.
+Criteo: Opt-outcomplete
+
+Please note that data will again be collected should you delete the opt-out cookie.
+
+Web analysis
+
+We need to analyse the browsing behaviour of visitors to our platform in order to optimise our services. To this end, we use web analysis methods that track XING users and third parties who visit the XING platform. The purpose of collecting and evaluating this data is to enable us to fix bugs and, in particular, optimise XING in terms of user needs. Our web analyses methods also provide us with figures pertaining to the number of visitors, temporal distribution, preferred content, length of time spent on a page, etc.
+
+We use Adobe Digital Analytics as our web analysis tool in conjunction with cookies. Web analysis is performed pseudonymously, meaning that we are unable to directly deduce information regarding your person when performing web analyses. The cookies used during web analysis contain an ID which allows us to identify your end device’s browser.
+
+You can opt out of our Adobe Digital Analytics web analysis at any time by clicking on the following link and selecting the “opt-out” link: https://nats.xing.com/optout.html?popup=1&locale=en\_EN
+
+Please note that a cookie is set when you click on the opt-out link. This means that you cannot opt out of the web analysis process if you delete the respective cookie.
+
+The Adobe Digital Analytics version we use is fully compliant with data protection laws as we have concluded a corresponding data processing agreement. In order to comply with said agreement, we anonymise your IP addresses immediately after collection and personal data is processed within the European Union.
+
+ScorecardResearch
+
+We have implemented the ScorecardResearch service on our websites. This service collects data pertaining to browsing behaviour on the websites of companies that registered with ComScore, a leading global market research effort that studies and reports on Internet trends and behaviour. Click here to set an opt-out cookie which means that your browsing behaviour will no longer be tracked by ScorecardResearch. Please note that the ScorecardResearch service will commence again if you delete this cookie.
+
+The following information also applies to users in Germany:
+
+Our website uses the "Scalable Centralized Measurement System" ("Skalierbares zentrales Messverfahren – SZM") developed by INFOnline (https://www.infonline.de) in order to enable us to gather statistical information about the use of our website. Anonymous data is collected for this purpose. For the purpose of recognising computer systems, the SZM method of audience measurement either uses a cookie with the identifier “ivwbox.de” or a signature which is created on the basis of various data automatically relayed by your computer. This method does not store IP addresses. these are processed in an anonymised form only.
 
 The audience measurement method has been developed in accordance with the data protection regulations. The objective of audience measurement is to statistically determine the intensity of use and the number of users of a particular website. Specific users are not identified at any stage. Your identity always remains protected. No advertising will be communicated to you via this system.
 
@@ -234,14 +251,6 @@ More information on the SZM method is available from the website of INFOnline Gm
 
 If you wish to object to the processing of data via the SZM method, please click on the following link: http://optout.ivwbox.de
 
-Interest- and behavior-related information and advertising
-
-On our Websites we also use technologies to show you information and advertising based on your interests and behavior. To do so, we use data-protection-friendly technologies based on data anonymization and pseudonymization. To this end, we use an external service provider who gathers on our behalf certain information about your activities on our Websites. Said service provider is never able to assign the information it gathers to a specific person, and IP addresses are immediately anonymized. Said service provider never stores Personal Data. Instead it performs calculations based on this and other non-personal information, which we then receive as recommendations for showing your information or advertising based on your interests and behavior.
-
-If you would no longer like to receive such information or advertising, you can click on the link below to revoke your permission and deactivate data collection by setting an opt-out cookie: Opt-outcomplete
-
-Please note that data will again be collected should you delete the opt-out cookie.
-
 **13\. Log Files/Mobile Handshake**
 
 Each time you access a website from the XING Websites, XING will save the following data in a log file (the so called "server log"):
@@ -249,11 +258,11 @@ Each time you access a website from the XING Websites, XING will save the follow
 *   The time, status, and amount of the transferred data, as well as the website from which you have reached the requested page of the XING Websites (the so-called "referrer")
 *   The product and release information from your Internet browser (the so called "user agent").
 
-This log file will be stored by XING in the standardized "combined" log file format for the Apache web server. XING will not store your IP address once you leave the XING Websites. Except for legislation regarding the storage of data, Users’ IP addresses will be deleted or anonymized once they end their session on the XING Websites. Anonymization means that IP addresses are modified in such a way that specific personal and/or factual information cannot be attributed to a certain identified or identifiable person or can only be attributed by deploying a disproportionately large amount of time, effort and cost.
+This log file will be stored by XING in the standardised "combined" log file format for the Apache web server. XING will not store your IP address once you leave the XING Websites. Except for legislation regarding the storage of data, Users’ IP addresses will be deleted or anonymised once they end their session on the XING Websites. Anonymisation means that IP addresses are modified in such a way that specific personal and/or factual information cannot be attributed to a certain identified or identifiable person or can only be attributed by deploying a disproportionately large amount of time, effort and cost.
 
-XING uses the data from this log file in anonymous form without reference to your person for statistical purposes. In doing so, XING may analyze on which days and at which time the XING Websites are particularly frequented and how much data volume is created on the XING Websites. Furthermore, by using the log file, XING can identify defects on the XING Websites, such as defective hyperlinks or program defects, and thus continually improve the quality of the XING Websites. XING does not attribute the website demands stored in the log file to specific individual users. However, XING reserves the right to review the log files if XING has reasonable cause to believe that the member is using XING Services and/or XING Websites in breach of contractual agreements or the applicable legislation. In doing this, XING is protecting other XING Members and users, the safety of XING Members’ and users' data, as well as XING Websites and the XING Services.
+XING uses the data from this log file in anonymous form without reference to your person for statistical purposes. In doing so, XING may analyse on which days and at which time the XING Websites are particularly frequented and how much data volume is created on the XING Websites. Furthermore, by using the log file, XING can identify defects on the XING Websites, such as defective hyperlinks or program defects, and thus continually improve the quality of the XING Websites. XING does not attribute the website demands stored in the log file to specific individual users. However, XING reserves the right to review the log files if XING has reasonable cause to believe that the member is using XING Services and/or XING Websites in breach of contractual agreements or the applicable legislation. In doing this, XING is protecting other XING Members and users, the safety of XING Members’ and users' data, as well as XING Websites and the XING Services.
 
-The "Mobile Handshake" function allows you to see if there are XING Members in your vicinity who are also using this function. It allows other XING Members to find you if you have the "Mobile Handshake" function activated. To do this, XING needs to determine your location for a short period of time. In doing so, XING saves your position (longitude and latitude) and the point in time at which you used the "Mobile Handshake" function in its server log file. This information is only stored while XING determines your location. Once this process has been completed, your data will be deleted or anonymized.
+The "Mobile Handshake" function allows you to see if there are XING Members in your vicinity who are also using this function. It allows other XING Members to find you if you have the "Mobile Handshake" function activated. To do this, XING needs to determine your location for a short period of time. In doing so, XING saves your position (longitude and latitude) and the point in time at which you used the "Mobile Handshake" function in its server log file. This information is only stored while XING determines your location. Once this process has been completed, your data will be deleted or anonymised.
 
 **14\. Minors**
 
