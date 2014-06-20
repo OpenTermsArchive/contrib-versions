@@ -1,109 +1,145 @@
-GEGENSTAND DIESER DATENSCHUTZERKLÄRUNG, VERANTWORTLICHE STELLE
+Ignorez pour effectuer la recherche.
 
-Gegenstand dieser Erklärung ist die Erhebung, Verarbeitung und Nutzung („Verwendung“) von personenbezogenen Daten und sonstigen Informationen, die Yahoo erhebt und empfängt, wenn Sie unsere Angebote („Dienste“ oder „Services“) nutzen. „Personenbezogene Daten“ und „Informationen“ sind solche, die Ihnen eindeutig zugeordnet werden können und die nicht anderweitig öffentlich zugänglich sind, wie z. B. Ihr Name, Ihre Adresse, E-Mail-Adresse oder Telefonnummer. Auf die Verwendung personenbezogener Daten weisen wir innerhalb unserer Datenschutzerklärungen an den entsprechenden Stellen ausdrücklich hin. Alle sonstigen Daten sind aber für uns gänzlich anonym oder werden pseudonym verwendet.
+*   _Nouveau sur Yahoo ?_ Inscription
+*   _Connexion_
+*   Help
 
-Diese Datenschutzerklärung enthält auch Informationen über Cookies, die sowohl von Yahoo als auch von Drittanbietern gesetzt werden. Ferner finden Sie Informationen darüber, wie Sie Cookies deaktivieren können.
+Nouveau Firefox 16, optimisé pour Yahoo
 
-Diese Datenschutzerklärung gilt ausschließlich für die Verwendung von Informationen durch Yahoo und findet keine Anwendung auf Geschäftspraktiken von Unternehmen, die nicht von Yahoo beauftragt wurden oder im Besitz bzw. unter der Kontrolle von Yahoo stehen, oder auf Personen, die nicht von Yahoo beschäftigt werden. Einige Unternehmen der Yahoo Konzerngruppe haben darüber hinaus ihre eigenen Datenschutzerklärungen. Mehr Informationen zu diesen Unternehmen finden Sie hier.
+*   Mail
+    
+*   Yahoo
 
-Im Bereich „Themen“ finden Sie detaillierte Informationen zu besonderen Themenbereichen wie zum Beispiel Cookies und IP-Adressen. Im Bereich „Produkte“ finden Sie darüber hinaus produkt- und dienstspezifische Informationen zum Thema Datenschutz. Mit „Yahoo“ wird auf Yahoo! EMEA Limited (mit Sitz in Irland) verwiesen.
+Yahoo Company Info Rechercher Recherche Web
 
-**Wir werden nur die von uns über Sie erhobenen personenbezogenen Daten verwenden und uns dabei an die Irish Data Protection Acts 1988 – 2003 (die „Datenschutzgesetze“) halten.**
+*   Accueil
+*   Produits
+*   Thémes
+*   Préférences
+*   Aide
 
-Zum Seitenanfang zurückkehren
+*   OBJET DE LA POLITIQUE RELATIVE A LA VIE PRIVÉE
+*   COLLECTE ET UTILISATION DES DONNÉES
+*   PARTAGE ET DIVULGATION D’INFORMATIONS
+*   COOKIES
+*   MODIFICATION ET SUPPRESSION DES INFORMATIONS ET PRÉFÉRENCES RELATIVES À VOTRE COMPTE
+*   CONFIDENTIALITÉ ET SÉCURITÉ
+*   POSTER DES MESSAGES SUR DES ESPACES OUVERTS AU PUBLIC
+*   MODIFICATIONS DE LA PRÉSENTE POLITIQUE RELATIVE À LA VIE PRIVÉE
+*   QUESTIONS OU SUGGESTIONS
 
-ERHEBUNG UND VERWENDUNG IHRER DATEN
+Envoyer par email Imprimer cette page OBJET DE LA POLITIQUE RELATIVE A LA VIE PRIVÉE
 
-Yahoo erhebt (in seiner Eigenschaft als Verantwortliche Stelle) Informationen, wenn Sie ein Yahoo Nutzerkonto („Account“) einrichten, wenn Sie bestimmte Produkte oder Dienste besuchen oder nutzen, wenn Sie an Promotion-Aktionen oder Gewinnspielen teilnehmen und wenn Sie Yahoo Seiten oder Seiten von bestimmten Yahoo Partnern außerhalb des Yahoo Netzwerks besuchen. Yahoo verbindet in einigen Fällen Informationen (darunter personenbezogene Daten), die wir über Sie gespeichert haben, mit Informationen, die wir von Geschäftskunden oder anderen Firmen erhalten.
+La présente Politique relative à la vie privée couvre les modalités de traitement de la part de Yahoo des données personnelles et d’autres informations collectées et reçues par Yahoo, notamment tout renseignement relatif à votre utilisation des produits et services Yahoo. Les termes « données » et « informations » comprennent, notamment, les informations permettant de vous identifier, tels que votre nom, votre adresse postale, votre adresse e-mail ou votre numéro de téléphone, et qui ne sont pas accessibles publiquement par d’autres moyens. Le cas échéant, nous expliquons de manière plus détaillée l’utilisation de vos données personnelles dans nos politiques relatives à la vie privée. Toute autre donnée nous est anonyme ou utilisée par le biais d’un pseudonyme.
 
-Wenn Sie sich bei Yahoo registrieren, bitten wir Sie um bestimmte personenbezogene Daten zu Ihrer Person wie Name, E-Mail-Adresse, Geburtsdatum, Geschlecht.
+Cette Politique relative à la vie privée contient également des informations concernant les cookies, leur utilisation par Yahoo et par des tiers, ainsi que les modalités de désactivation de ces cookies.
 
-Yahoo erhebt ferner im Zusammenhang mit unseren Premium-Diensten Abrechnungs- bzw. Bezahlinformationen über Ihre Transaktionen mit uns und einigen unserer Geschäftspartner.
+Notre Politique relative à la vie privée ne s’applique en aucun cas aux activités des sociétés n’appartenant pas à Yahoo ou ne relevant pas de son contrôle, ni aux personnes ne faisant pas partie des employés ou des sous-traitants de Yahoo. En outre, certaines sociétés acquises par Yahoo possèdent leurs propres politiques de vie privée. Vous trouverez de plus amples informations à ce sujet sur notre page des sociétés acquises par Yahoo.
 
-Wenn Sie die Yahoo Dienste nutzen, erhebt und speichert Yahoo automatisch technische Informationen in sogenannten Server Log-Dateien. Diese Informationen werden uns von Ihrem Browser übermittelt. Dabei handelt es sich insbesondere um die IP-Adresse Ihres Computers, Daten, die Yahoo auf sogenannten Cookies ablegt, technische Informationen über Ihre Soft- und Hardware (z. B. das verwendete Betriebssystem) sowie die von Ihnen aufgerufenen Seiten. Beachten Sie aber, dass wenn Sie sich bei Yahoo registriert haben und mit Ihrem Account angemeldet sind, Sie nicht länger anonym für uns sind und Ihre Nutzungsdaten Ihrem Account zugeordnet werden.
+Au sein de notre section « Rubriques » vous trouverez des informations détaillées sur les cookies et les adresses IP. La section « Produits » vous apportera de plus amples informations sur nos pratiques en matière de respect de la vie privée se rapportant à chaque produit ou service. Dans le cadre des présentes, « Yahoo » signifie Yahoo EMEA Limited (basée en Irlande).
 
-Yahoo verwendet Daten und Informationen (dies beinhaltet anonyme und pseudonyme Informationen und personenbezogene Daten) für die folgenden allgemeinen Zwecke:
+Nous utiliserons uniquement les informations que nous recueillons à votre sujet (conformément à la loi irlandaise relative à la protection des informations personnelles ou Irish Data Protection Acts 1988 – 2003 (« DP Acts »).
 
-*   um die angezeigten Inhalte und Werbeanzeigen Ihren Interessen anzupassen
-*   um Ihre Anfragen zu Produkten und Services zu beantworten.
-*   um unsere Dienste zu verbessern.
-*   um Sie im Rahmen der Verwaltung des Nutzungsverhältnisses zu kontaktieren.
-*   zur Marktforschung.
-*   um unseren Geschäftskunden anonyme (Nutzungs-)Berichte zur Verfügung zu stellen.
-*   Weitere Informationen zu diesem Thema finden Sie in unserer Datenschutzerklärung zum Thema „Datentransfer“.
+Haut de page
 
-Zum Seitenanfang zurückkehren
+COLLECTE ET UTILISATION DES DONNÉES
 
-DATENÜBERMITTLUNG AN DRITTE
+Yahoo(en tant que responsable de traitement), collecte des données personnelles lors de la création d’un compte Yahoo, lors de l’utilisation de certains produits ou services Yahoo, lors de la participation à des promotions ou jeux-concours et lors de la consultation de pages des sites Web de Yahoo ou de certains partenaires de Yahoo ne revêtant pas la marque Yahoo. Yahoo peut associer des données, y compris des données personnelles, collectées sur ses sites et services aux informations obtenues grâce à ses partenaires commerciaux ou à d’autres sociétés.
 
-Yahoo betreibt keinen Datenhandel. Wir übermitteln grundsätzlich keine personenbezogenen Daten unserer Nutzer an Dritte bzw. nicht verbundene Unternehmen, es sei denn, dies ist erforderlich, um Ihnen unsere Dienste zur Verfügung zu stellen, Sie uns Ihre Zustimmung zur Übermittlung erteilt haben oder in den folgenden Fällen:
+Lorsque vous vous inscrivez sur Yahoo, nous vous demandons de nous communiquer des données personnelles telles que vos nom, adresse e-mail, date de naissance, sexe, code postal, profession, secteur d’activité ou encore centres d’intérêt personnels.
 
-*   Wir übermitteln personenbezogene Daten an Erfüllungsgehilfen, die diese für die Abwicklung unserer Dienste unbedingt benötigen und uns gegenüber eine entsprechende Vertraulichkeitsverpflichtung eingegangen sind. Diese Partner nutzen z. B. Ihre personenbezogenen Daten dazu, um in dem von Ihnen gewünschten Umfang die Kommunikation zwischen Ihnen und Yahoo oder unseren Marketingpartnern abzuwickeln (z. B. das Zusenden eines Newsletters). Diese Erfüllungsgehilfen haben jedoch keine Berechtigung, die Daten unabhängig von dieser Zweckbestimmung weiterzugeben oder zu verwenden.
-*   Wir müssen auf Anfragen staatlicher Stellen reagieren, die nach Maßgabe der anwendbaren Gesetze von uns ggf. Auskünfte und auch personenbezogene Daten zur Erfüllung ihrer gesetzlichen Aufgaben (z. B. zum Zwecke der Strafverfolgung) verlangen können. Außerdem behalten wir uns vor, Ihre Daten ggf. nach Maßgabe der anwendbaren gesetzlichen Bestimmungen auch zum Unterbinden von Leistungserschleichungen, bei Gefahr für Leib und Leben einer Person und sonstigen rechtswidrigen Inanspruchnahmen unserer Dienste an diese oder andere Stellen zu übermitteln.
-*   Yahoo übermittelt mit Ihrem Einverständnis personenbezogene Daten im Falle einer konzernrechtlichen Übernahme eines Drittunternehmens oder falls Yahoo selbst von einem Drittunternehmen übernommen wird bzw. mit diesem verschmilzt. In solchen Fällen wird Yahoo Sie vor der Übermittlung Ihrer personenbezogenen Daten informieren und es könnte dann möglicherweise auch eine andere Datenschutzerklärung in Kraft treten.
+Yahoo collecte des informations au sujet de vos transactions avec nous ou certains de nos partenaires commerciaux, notamment des renseignements concernant votre utilisation de nos produits et services financiers.
 
-Yahoo zeigt auf der Grundlage pseudonymer Nutzungsdaten und sonstiger anonymer Informationen interessenbasierte Werbung sowie auf der Grundlage von personenbezogenen Daten zielgerichtete Werbung. Yahoo übermittelt keine personenbezogenen Daten an Werbekunden, wenn Sie als Nutzer auf eine zielgerichtete Anzeige klicken oder sich diese ansehen. Unsere Werbekunden gehen jedoch unter Umständen davon aus, dass Nutzer eines bestimmten Webbrowsers, die eine interessenbasierte Werbung ansehen oder anklicken, die entsprechenden Zielgruppenkriterien erfüllen – z. B. Frauen im Alter von 18 bis 24 Jahren aus einer bestimmten Region.
+De plus, Yahoo reçoit et enregistre automatiquement sur les journaux de ses serveurs des informations fournies par votre navigateur, notamment votre adresse IP, des informations inclues dans les cookies Yahoo, certaines caractéristiques relatives à votre matériel et à vos logiciels ainsi que les pages que vous avez consultées. Une fois inscrit et connecté à nos services, un utilisateur Yahoo ne nous est dès lors plus inconnu. Toute information relative à son utilisation de nos produits et services sera ainsi reliée à son compte.
 
-Zum Seitenanfang zurückkehren
+Yahoo utilise les informations (y compris les informations anonymes, associées à un pseudonyme ou personnelles) aux fins suivantes : personnaliser les publicités et le contenu qui vous sont proposés . répondre à vos demandes concernant nos produits et services . améliorer nos services . vous contacter . réaliser des études . créer des rapports anonymes pour des clients internes ou externes. Yahoo pourra transférer vos données personnelles à toute entité Yahoo dans le monde entier à l'une des fins énoncées ci-dessus et ces entités pourront utiliser vos données personnelles comme indiqué ci-dessous. Vous trouverez plus d’informations à ce sujet à la rubrique « Transfert de données »
+
+Haut de page
+
+PARTAGE ET DIVULGATION D’INFORMATIONS
+
+En aucun cas, Yahoo ne loue, ne vend ou ne divulgue vos données (en ce compris vos données personnelles) à d’autres personnes ou sociétés non affiliées à Yahoo, sauf pour la fourniture de produits ou services que vous avez commandés, lorsque nous disposons de votre autorisation ou dans les situations suivantes :  
+
+*   Pour fournir ces informations à des partenaires de confiance travaillant pour Yahoo ou en son nom dans le respect de notre politique relative à la vie privée. Ces entreprises peuvent utiliser de telles informations pour aider Yahoo à vous faire part (selon les modalités de votre accord) d’offres publicitaires concernant Yahoo ou ses partenaires commerciaux. Ces entreprises n’ont cependant pas le droit de partager ces informations de façon indépendante.
+*   Dans le cadre de toute procédure judiciaire ou administrative, à la demande d’une autorité habilitée à laquelle nous devons nous soumettre, ou dans le cadre de l’exercice de nos droits ou de notre défense lorsque des poursuites sont engagées contre Yahoo.
+*   Nous pensons qu’il est nécessaire de partager de telles informations pour faciliter les enquêtes, la prévention ou les actions visant à mettre un terme à toute activité illégale, tentative de fraude ou situation comportant des menaces potentielles pour la sécurité physique des personnes, des violations des termes et conditions de Yahoo ou autre situation contraire à la législation.
+*   Nous pouvons transférer des informations vous concernant en cas de rachat d’une autre société par Yahoo, de fusion de Yahoo avec une autre société ou de rachat de Yahoo par une autre société. Dans une telle éventualité, Yahoo s’engage à vous avertir avant que des informations vous concernant ne soient transférées et soumises à de nouvelles règles relatives à la vie privée.
+
+Yahoo diffuse des offres publicitaires ciblées basées sur des données et des informations anonymisées ou pseudonymisées, ainsi que sur des données personnelles. Les annonceurs (y compris les agences de publicité) peuvent supposer que les personnes interagissant avec les offres publicitaires ciblées, cliquant sur celles-ci ou les visualisant, répondent à certains critères ou catégories, par exemple des femmes âgées de 18 à 24 ans et habitant dans une zone géographique donnée. Yahoo ne fournit à ces annonceurs aucune de vos données personnelles lorsque vous affichez ou interagissez avec une publicité ciblée. Toutefois, en interagissant avec une offre publicitaire ou en la visualisant, vous acceptez le fait que l’annonceur suppose votre appartenance au groupe/ à la catégorie visé(e) par l’affichage de l’annonce.
+
+Haut de page
 
 COOKIES
 
-Yahoo legt unter Umständen Cookies auf der Festplatte Ihres Computers ab und liest diese bei einem erneuten Besuch unserer Seiten wieder aus.
+Yahoo peut installer des cookies Yahoo sur votre ordinateur et y accéder.
 
-Wir gestatten ausgewählten Drittunternehmen, die Werbung auf unseren Diensten anzeigen, ebenfalls Cookies auf unseren Seiten zu verwenden. Die Verwendung dieser Cookies unterliegt den Datenschutzerklärungen der jeweiligen Drittunternehmen und nicht der Yahoo Datenschutzerklärung. Drittunternehmen und Werbekunden haben keinen Zugriff auf Cookies, die von Yahoo abgelegt und verwendet werden. Im Bereich „Cookies von Drittanbietern“ finden Sie weitere Informationen.
+Yahoo autorise certaines sociétés proposant des offres publicitaires sur certaines de nos pages à installer leurs propres cookies sur votre ordinateur et à y accéder. L’utilisation des cookies de la part d’autres sociétés est soumise aux conditions de leur propre politique relative à la vie privée et non à celles de la présente. Les annonceurs ou les autres sociétés n’ont pas accès aux cookies Yahoo. Vous trouverez davantage d’informations dans la rubrique « Cookies tiers ».
 
-Des Weiteren benutzt Yahoo innerhalb der Yahoo Dienste sogenannte Ein-Pixel-Bilder, um auf Yahoo Cookies innerhalb und außerhalb unseres Netzwerkes zuzugreifen.
+Yahoo utilise des balises Web pour accéder à nos cookies au sein et en dehors de notre réseau de sites Web et en rapport avec les produits et services Yahoo.
 
-Um mehr über Cookies zu erfahren und darüber, wie Sie Cookies deaktivieren können, klicken Sie hier.
+Pour plus d’informations sur notre utilisation des cookies et sur les modalités de désactivation, cliquez ici.
 
-Zum Seitenanfang zurückkehren
+Haut de page
 
-BEARBEITEN ODER LÖSCHEN VON DATEN IHRES ACCOUNTS
+MODIFICATION ET SUPPRESSION DES INFORMATIONS ET PRÉFÉRENCES RELATIVES À VOTRE COMPTE
 
-Sie können Ihre Yahoo Account-Informationen (einschließlich Ihrer Marketingeinstellungen) jederzeit ändern.
+Vous pouvez à tout moment modifier les informations de votre compte Yahoo, y compris vos préférences marketing.
 
-Innerhalb Ihrer Account-Einstellungen können Sie diese sowie Ihre Newsletter- und Marketingoptionen einsehen und sich vom Erhalt entsprechender Marketinginformationen abmelden. Um sich abzumelden, können Sie ebenso den Anweisungen innerhalb der erhaltenen Marketinginformationen folgen.
+De nouvelles catégories de communications publicitaires peuvent être ajoutées de manière ponctuelle à la page des préférences publicitaires. Les utilisateurs consultant cette page peuvent librement décider de ne recevoir aucune communication publicitaire de ces nouvelles catégories ou se désinscrire en suivant les instructions fournies dans les messages qu’ils recevront.
 
-Ferner sendet Yahoo Ihnen wichtige Benachrichtigungen über unsere Dienste oder administrative Informationen hinsichtlich Ihres Accounts. Von diesen Benachrichtigungen können Sie sich nicht abmelden.
+Nous nous réservons le droit de vous envoyer certaines communications, telles que des annonces de service, des messages administratifs et d’autres communications concernant les services Yahoo sans vous offrir la possibilité de ne pas recevoir celles-ci.
 
-Auf der Seite „Löschen Ihres Yahoo Accounts“ können Sie die Löschung Ihres Accounts vornehmen. Dazu müssen Sie Ihr Passwort eingeben und bestätigen, dass Sie Ihren Account wirklich löschen möchten. Hier erfahren Sie, welche Informationen möglicherweise vorübergehend in unseren Archiven verbleiben, nachdem Ihr Account gelöscht wurde.
+Vous pouvez supprimer votre compte Yahoo en accédant à la page Suppression de compte, en saisissant une nouvelle fois votre mot de passe et en confirmant votre intention de fermer le compte. Veuillez cliquer ici pour prendre connaissance des éventuelles informations restant temporairement dans nos archives après la suppression de votre compte.
 
-Zum Seitenanfang zurückkehren
+Haut de page
 
-VERTRAULICHKEIT UND SICHERHEIT
+CONFIDENTIALITÉ ET SÉCURITÉ
 
-Nur solche Mitarbeiter haben Zugriff auf personenbezogene Daten und Informationen, die diese unbedingt benötigen, um Ihnen unsere Produkte und Dienste bestmöglich anzubieten oder ihre Tätigkeit ordnungsgemäß auszuüben.
+Nous limitons l’accès à vos informations aux seuls employés dont les fonctions exigent la consultation de ces informations pour vous fournir les produits et services Yahoo.
 
-Yahoo unternimmt zu jeder Zeit größtmögliche Anstrengungen, Ihre Daten vor unbefugtem Zugriff, Verlust, Missbrauch oder Zerstörung zu schützen. Wir verfügen über physische, elektronische und verfahrensbezogene Sicherheitsmaßnahmen, die unseren rechtlichen Verpflichtungen zum Schutz Ihrer Daten entsprechen.
+Nous disposons de systèmes physiques et électroniques, ainsi que de procédures spécifiques pour garantir la protection de ces informations en conformité avec nos obligations légales.
 
-Weitere Informationen zur Sicherheit, zu unseren Schutzmaßnahmen und den Schritten, die Sie selbst zum Schutz Ihrer Daten unternehmen können, finden Sie unter „Sicherheit bei Yahoo“.
+Pour plus d’informations au sujet de la sécurité, notamment les mesures que nous avons prises et celles que vous pouvez prendre, veuillez lire la section Sécurité chez Yahoo.
 
-Zum Seitenanfang zurückkehren
+Haut de page
 
-VERÖFFENTLICHUNGEN IN ÖFFENTLICH ZUGÄNGLICHEN BEREICHEN UNSERER DIENSTE
+POSTER DES MESSAGES SUR DES ESPACES OUVERTS AU PUBLIC
 
-Öffentlich zugängliche Bereiche sind alle Bereiche unserer Dienste, die von der Allgemeinheit abgerufen werden und von Suchmaschinen indexiert werden können.
+Les espaces ouverts au public correspondent à toutes les pages de Yahoo ouvertes à la libre contribution et pouvant être indexées dans les moteurs de recherche.
 
-Sie haben die Möglichkeit, über öffentlich zugängliche Bereiche wie zum Beispiel Yahoo Groups, Yahoo Foren und Yahoo Clever Informationen oder Inhalte zu veröffentlichen oder auszutauschen.
+Yahoo vous offre la possibilité de publier, de soumettre et d’échanger des contenus et des informations sur les plateformes ouvertes au public, telles que Yahoo Groupes, Yahoo Forums et Yahoo Questions/Réponses.
 
-Sie sollten stets vorsichtig sein, wenn Sie personenbezogene Daten, Informationen und Beiträge in öffentlich zugänglichen Bereichen einstellen. Diese Informationen bleiben unter Umständen unbegrenzt öffentlich und für jedermann zugänglich. Je nach Ausgestaltung des entsprechenden Dienstes können andere Nutzer auch Ihre einzelnen Beiträge gesammelt einsehen.
+Vous devez redoubler de prudence lorsque vous décidez de divulguer des données personnelles sur l’un de ces services. N’oubliez pas que ces données pourront rester disponibles indéfiniment dans la partie publique de ce service. De plus, selon le service considéré, les autres utilisateurs ont parfois la possibilité d’afficher simultanément plusieurs de vos publications.
 
-Sie tragen die alleinige Verantwortung für jegliche Informationen, die Sie in öffentlich zugänglichen Bereichen offenlegen.
+Vous assumez l’entière responsabilité de toute information que vous divulguez et publiez sur des plateformes accessibles au public.
 
-Wenn Sie Bedenken hinsichtlich personenbezogener Daten haben, die Sie in einem öffentlich zugänglichen Bereich gepostet haben, und diese Daten nicht löschen oder bearbeiten können, wenden Sie sich bitte über unsere Hilfeseiten an unseren Kundendienst.
+Si vous avez publié des données personnelles sur une plateforme ouverte au public et que vous désirez les supprimer ou les modifier sans y parvenir, veuillez vous adresser à notre Service clients.
 
-Zum Seitenanfang zurückkehren
+Haut de page
 
-ÄNDERUNGEN DIESER DATENSCHUTZERKLÄRUNG
+MODIFICATIONS DE LA PRÉSENTE POLITIQUE RELATIVE À LA VIE PRIVÉE
 
-Yahoo wird diese Datenschutzerklärung von Zeit zu Zeit entsprechend künftigen Änderungen hinsichtlich der Verwendung von personenbezogenen Daten und Informationen anpassen. Erhebliche Änderungen in Bezug auf die Verwendung Ihrer Daten werden durch eine deutlich sichtbare Mitteilung auf unseren Seiten bekannt gegeben oder Ihnen per E-Mail mitgeteilt.
+Yahoo peut à tout moment modifier cette politique relative à la vie privée. En cas de changement important des modalités d’utilisation de vos informations de notre part, vous en serez averti par e-mail à l’adresse principale figurant dans les détails de votre compte Yahoo ou par un avis affiché bien en évidence sur nos pages.
 
-Zum Seitenanfang zurückkehren
+Haut de page
 
-FRAGEN ODER VORSCHLÄGE
+QUESTIONS OU SUGGESTIONS
 
-Wenn Sie Fragen oder Feedback zu unserer Datenschutzerklärung oder generell zum Datenschutz bei Yahoo haben, können Sie uns gerne über unser Hilfeformular kontaktieren.
+Pour toute question ou suggestion, veuillez remplir le formulaire Commentaires.
 
-Zuletzt aktualisiert: 20. Januar 2014
+Dernière mise à jour: 20 janvier 2014
 
-Zum Seitenanfang zurückkehren
+Haut de page
+
+A la une
+
+Cliquez ici si vous avez ouvert un compte Yahoo après le 19 janvier 2014
+
+  
+**DES PUBLICITÉS PERTINENTES** En vous apportant du contenu et des publicités pertinents, adaptés à vos centres d’intérêts, Yahoo transforme l'utilisation de ses services en une expérience unique. Pour en savoir plus sur les publicités pertinentes, cliquez ici. Gérez les catégories basées sur vos centres d’intérêts ou bloquez toutes les catégories sur notre outil de gestion des publicités basées sur les centres d’intérêts.
+
+DES PUBLICITÉS PERTINENTES
+
+En vous apportant du contenu et des publicités pertinents, adaptés à vos centres d’intérêts, Yahoo transforme l'utilisation de ses services en une expérience unique. Pour en savoir plus sur les publicités pertinentes, cliquez ici. Gérez les catégories basées sur vos centres d’intérêts ou bloquez toutes les catégories sur notre outil de gestion des publicités basées sur les centres d’intérêts.
+
+Vie Privée | Conditions Générales d'Utilisation
