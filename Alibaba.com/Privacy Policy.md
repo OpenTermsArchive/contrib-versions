@@ -148,10 +148,10 @@ If you are a user from Mainland China, please send us your comments and response
 
 Browse by:Manufacturers - Online Shopping - China Gold Suppliers - All Products - Countries - Importers - Customs Data - Buying Leads - China - India
 
-Alibaba Group | Alibaba.com International | Alibaba.com China | AliExpress | Taobao Marketplace | Tmall.com | Juhuasuan | eTao | Alimama | Taobao Trip | Xiami | Alibaba Cloud Computing | Yun OS | HiChina | Alipay | Laiwang
+Alibaba Group | Alibaba.com International | Alibaba.com China | AliExpress | Taobao Marketplace | Tmall.com | Juhuasuan | eTao | Alimama | Taobao Trip | Xiami | Alibaba Cloud Computing | YunOS | HiChina | Alipay | Laiwang
 
   
 
 Product Listing Policy - Intellectual Property Policy and Infringement Claims - Privacy Policy - Terms of Use
 
-Copyright Notice © 1999-2014 Alibaba.com Hong Kong Limited and licensors. All rights reserved.
+© 1999-2014 Alibaba.com. All rights reserved.
