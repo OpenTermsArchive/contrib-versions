@@ -8,45 +8,63 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Deleting My Account
+    *   \[Resolved\] by Omgwtf\_St
+    *   9 months ago
+    *   in Miscellaenous
+    *   0 votes
+    *   42 (last comment by cattdaddy 4 hours ago)
+*   HOW TO GET MY BLOG BACK
+    *   by pInk\_ming
+    *   19 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   My 10 year old blog is GONE!
+    *   \[Resolved\] by vvbutterflyvv
+    *   9 months ago
+    *   in Data Migration
+    *   0 votes
+    *   16 (last comment by vajda1ka 23 hours ago)
 *   Request to delete my account
     *   \[Resolved\] by moscreations
     *   9 months ago
     *   in Miscellaenous
     *   0 votes
-    *   16 (last comment by KathEyXiong 1 hour ago)
+    *   16 (last comment by KathEyXiong 1 day ago)
 *   i can't find my blog...
     *   by bbbyan
-    *   11 hours ago
+    *   1 day ago
     *   in Personal URLs
     *   0 votes
     *   0
 *   i can't find my blog...
     *   \[Resolved\] by juniper6782
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 1 day ago)
+*   Plz help
+    *   \[Resolved\] by shadow830
+    *   2 days ago
+    *   in Themes
+    *   0 votes
+    *   1 (last comment by eugenia 1 day ago)
+*   I cannot find my board
+    *   \[Resolved\] by lvcream
     *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 13 hours ago)
-*   Plz help
-    *   \[Resolved\] by shadow830
-    *   1 day ago
-    *   in Themes
-    *   0 votes
-    *   1 (last comment by eugenia 13 hours ago)
-*   I cannot find my board
-    *   \[Resolved\] by lvcream
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 13 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   Can i get my archives back?
     *   \[Resolved\] by auhclav
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 13 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   Blogs
     *   by MandaKaye87
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -55,49 +73,31 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
+    *   1 (last comment by eugenia 5 days ago)
 *   Cannot reset blog password
     *   \[Resolved\] by closingtime
     *   1 week ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
+    *   1 (last comment by eugenia 5 days ago)
 *   Archives are empty
     *   \[Resolved\] by cre13
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
+    *   1 (last comment by eugenia 5 days ago)
 *   I cannot import back the archives into my xanga...
     *   \[Resolved\] by debbie\_960813
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by eugenia 4 days ago)
+    *   3 (last comment by eugenia 5 days ago)
 *   How do I get my old blogs back?
     *   \[Resolved\] by nocturnal\_spirit88
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by eugenia 4 days ago)
-*   Renew Subscription / Move Blog
-    *   \[Resolved\] by TheKoehlers
-    *   4 days ago
-    *   in Premium
-    *   0 votes
-    *   2 (last comment by TheKoehlers 4 days ago)
-*   Lost blogs
-    *   \[Resolved\] by MariaBrookeXOXO
-    *   5 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
-*   My old blog
-    *   \[Resolved\] by ConanChica
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
+    *   3 (last comment by eugenia 5 days ago)
 
 1 2 3 ... 130 Next
 
