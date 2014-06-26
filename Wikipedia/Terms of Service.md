@@ -120,14 +120,14 @@ Certain activities, whether legal or illegal, may be harmful to other users and 
 
 **Violating the Privacy of Others**
 
-*   Infringing the privacy rights of others under the laws of the United States of America or other applicable laws (which may include the laws where you live or where you view or edit content).
+*   Infringing the privacy rights of others under the laws of the United States of America or other applicable laws (which may include the laws where you live or where you view or edit content);
 *   Soliciting personally identifiable information for purposes of harassment, exploitation, violation of privacy, or any promotional or commercial purpose not explicitly approved by the Wikimedia Foundation. and
 *   Soliciting personally identifiable information from anyone under the age of 18 for an illegal purpose or violating any applicable law regarding the health or well-being of minors.
 
 **Engaging in False Statements, Impersonation, or Fraud**
 
-*   Intentionally or knowingly posting content that constitutes libel or defamation.
-*   With the intent to deceive, posting content that is false or inaccurate.
+*   Intentionally or knowingly posting content that constitutes libel or defamation;
+*   With the intent to deceive, posting content that is false or inaccurate;
 *   Attempting to impersonate another user or individual, misrepresenting your affiliation with any individual or entity, or using the username of another user with the intent to deceive. and
 *   Engaging in fraud.
 
@@ -137,21 +137,21 @@ Certain activities, whether legal or illegal, may be harmful to other users and 
 
 **Misusing Our Services for Other Illegal Purposes**
 
-*   Posting child pornography or any other content that violates applicable law concerning child pornography.
+*   Posting child pornography or any other content that violates applicable law concerning child pornography;
 *   Posting or trafficking in obscene material that is unlawful under applicable law. and
 *   Using the services in a manner that is inconsistent with applicable law.
 
 **Engaging in Disruptive and Illegal Misuse of Facilities**
 
-*   Posting or distributing content that contains any viruses, malware, worms, Trojan horses, malicious code, or other device that could harm our technical infrastructure or system or that of our users.
-*   Engaging in automated uses of the site that are abusive or disruptive of the services and have not been approved by the Wikimedia community.
-*   Disrupting the services by placing an undue burden on a Project website or the networks or servers connected with a Project website.
-*   Disrupting the services by inundating any of the Project websites with communications or other traffic that suggests no serious intent to use the Project website for its stated purpose.
+*   Posting or distributing content that contains any viruses, malware, worms, Trojan horses, malicious code, or other device that could harm our technical infrastructure or system or that of our users;
+*   Engaging in automated uses of the site that are abusive or disruptive of the services and have not been approved by the Wikimedia community;
+*   Disrupting the services by placing an undue burden on a Project website or the networks or servers connected with a Project website;
+*   Disrupting the services by inundating any of the Project websites with communications or other traffic that suggests no serious intent to use the Project website for its stated purpose;
 *   Knowingly accessing, tampering with, or using any of our non-public areas in our computer systems without authorization. and
 *   Probing, scanning, or testing the vulnerability of any of our technical systems or networks unless all the following conditions are met:
 
-*   such actions do not unduly abuse or disrupt our technical systems or networks.
-*   such actions are not for personal gain (except for credit for your work).
+*   such actions do not unduly abuse or disrupt our technical systems or networks;
+*   such actions are not for personal gain (except for credit for your work);
 *   you report any vulnerabilities to MediaWiki developers (or fix it yourself). and
 *   you do not undertake such actions with malicious or destructive intent.
 
@@ -244,10 +244,10 @@ You are solely responsible for your use of any third-party websites or resources
 
 The community has the primary role in creating and enforcing policies applying to the different Project editions. At the Wikimedia Foundation, we rarely intervene in community decisions about policy and its enforcement. In an unusual case, the need may arise, or the community may ask us, to address an especially problematic user because of significant Project disturbance or dangerous behavior. In such cases, we reserve the right, but do not have the obligation to:
 
-*   Investigate your use of the service (a) to determine whether a violation of these Terms of Use, Project edition policy, or other applicable law or policy has occurred, or (b) to comply with any applicable law, legal process, or appropriate governmental request.
-*   Detect, prevent, or otherwise address fraud, security, or technical issues or respond to user support requests.
-*   Refuse, disable, or restrict access to the contribution of any user who violates these Terms of Use.
-*   Ban a user from editing or contributing or block a user's account or access for actions violating these Terms of Use, including repeat copyright infringement.
+*   Investigate your use of the service (a) to determine whether a violation of these Terms of Use, Project edition policy, or other applicable law or policy has occurred, or (b) to comply with any applicable law, legal process, or appropriate governmental request;
+*   Detect, prevent, or otherwise address fraud, security, or technical issues or respond to user support requests;
+*   Refuse, disable, or restrict access to the contribution of any user who violates these Terms of Use;
+*   Ban a user from editing or contributing or block a user's account or access for actions violating these Terms of Use, including repeat copyright infringement;
 *   Take legal action against users who violate these Terms of Use (including reports to law enforcement authorities). and
 *   Manage otherwise the Project websites in a manner designed to facilitate their proper functioning and protect the rights, property, and safety of ourselves and our users, licensors, partners, and the public.
 
@@ -317,4 +317,9 @@ Thank You!
 
 We appreciate your taking the time to read these Terms of Use, and we are very happy to have you contributing to the Projects and using our services. Through your contributions, you are helping to build something really big – not only an important collection of collaboratively edited reference Projects that provides education and information to millions who might otherwise lack access, but also a vibrant community of like-minded and engaged peers, focused on a very noble goal.
 
-_**The updated Terms of Use went into effect on May 25, 2012. The previous version, at http://wikimediafoundation.org/wiki/Terms\_of\_Use\_(2009), was effective until May 24, 2012. In the event of any differences in meaning between the original English version and a translation, the original English version takes precedence.**_
+**These Terms of Use went into effect on June 16, 2014. Previous versions of the terms:**
+
+*   **Terms of Use (2012-2014): effective from May 24, 2012 until June 16, 2014**
+*   **Terms of Use (2009): effective from 2009 until May May 24, 2012.**
+
+**In the event of any differences in meaning between the original English version and a translation, the original English version takes precedence.**
