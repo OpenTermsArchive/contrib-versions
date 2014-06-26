@@ -146,9 +146,9 @@ If you are a user from Mainland China, please send us your comments and response
 
   Connect with us: Facebook Twitter Youtube Linkedin Free APP: Available on the App Store Available on Android TradeManager:
 
-Browse by:Manufacturers - Online Shopping - China Gold Suppliers - All Products - Countries - Importers - Customs Data - Buying Leads - China - India
+Browse by:Manufacturers - Online Shopping - China Gold Suppliers - All Products - Countries - Importers - Customs Data - Buying Requests - China - India
 
-Alibaba Group | Alibaba.com International | Alibaba.com China | AliExpress | Taobao Marketplace | Tmall.com | Juhuasuan | eTao | Alimama | Taobao Trip | Xiami | Alibaba Cloud Computing | YunOS | HiChina | Alipay | Laiwang
+Alibaba Group | Alibaba.com International | Alibaba.com China | AliExpress | Taobao Marketplace | Tmall.com | Juhuasuan | eTao | Alimama | Taobao Travel | Xiami | Alibaba Cloud Computing | YunOS | HiChina | Alipay | Laiwang
 
   
 
