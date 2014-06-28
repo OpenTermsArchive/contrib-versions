@@ -8,22 +8,16 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Looking for my blog
-    *   by koei520
-    *   1 hour ago
-    *   in Data Migration
+*   i can't find my blog...
+    *   \[Resolved\] by bbbyan
+    *   3 days ago
+    *   in Personal URLs
     *   0 votes
-    *   0
-*   Deleting My Account
-    *   \[Resolved\] by Omgwtf\_St
-    *   9 months ago
-    *   in Miscellaenous
-    *   0 votes
-    *   42 (last comment by cattdaddy 1 day ago)
-*   HOW TO GET MY BLOG BACK
-    *   by pInk\_ming
-    *   1 day ago
-    *   in Data Migration
+    *   2 (last comment by OH\_SHUT\_UP\_please 7 hours ago)
+*   Blog recovery
+    *   by kslizzle36
+    *   10 hours ago
+    *   in Personal URLs
     *   0 votes
     *   0
 *   My 10 year old blog is GONE!
@@ -31,46 +25,58 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   9 months ago
     *   in Data Migration
     *   0 votes
-    *   16 (last comment by vajda1ka 1 day ago)
+    *   17 (last comment by eugenia 12 hours ago)
+*   HOW TO GET MY BLOG BACK
+    *   \[Resolved\] by pInk\_ming
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 12 hours ago)
+*   Looking for my blog
+    *   \[Resolved\] by koei520
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 12 hours ago)
+*   Deleting My Account
+    *   \[Resolved\] by Omgwtf\_St
+    *   9 months ago
+    *   in Miscellaenous
+    *   0 votes
+    *   42 (last comment by cattdaddy 2 days ago)
 *   Request to delete my account
     *   \[Resolved\] by moscreations
     *   9 months ago
     *   in Miscellaenous
     *   0 votes
-    *   16 (last comment by KathEyXiong 2 days ago)
-*   i can't find my blog...
-    *   by bbbyan
-    *   2 days ago
-    *   in Personal URLs
-    *   0 votes
-    *   0
+    *   16 (last comment by KathEyXiong 3 days ago)
 *   i can't find my blog...
     *   \[Resolved\] by juniper6782
+    *   5 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 3 days ago)
+*   Plz help
+    *   \[Resolved\] by shadow830
+    *   4 days ago
+    *   in Themes
+    *   0 votes
+    *   1 (last comment by eugenia 3 days ago)
+*   I cannot find my board
+    *   \[Resolved\] by lvcream
     *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
-*   Plz help
-    *   \[Resolved\] by shadow830
-    *   3 days ago
-    *   in Themes
-    *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
-*   I cannot find my board
-    *   \[Resolved\] by lvcream
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Can i get my archives back?
     *   \[Resolved\] by auhclav
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Blogs
     *   by MandaKaye87
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -79,25 +85,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   Cannot reset blog password
     *   \[Resolved\] by closingtime
     *   1 week ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   Archives are empty
     *   \[Resolved\] by cre13
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
-*   I cannot import back the archives into my xanga...
-    *   \[Resolved\] by debbie\_960813
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   3 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 
 1 2 3 ... 131 Next
 
