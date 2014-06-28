@@ -4,7 +4,7 @@ Please take a moment to familiarize yourself with our privacy practices and
 let us know if you have any questions.  
  
 
-California Do Not Track Disclosure
+California Do Not Track Disclosure | Information Regarding Commercial Electronic Messages in Canada
 
 Collection and Use of Personal Information
 
