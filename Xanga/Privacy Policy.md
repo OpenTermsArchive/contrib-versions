@@ -8,72 +8,72 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   i can't find my blog...
-    *   \[Resolved\] by bbbyan
-    *   3 days ago
-    *   in Personal URLs
-    *   0 votes
-    *   2 (last comment by OH\_SHUT\_UP\_please 7 hours ago)
-*   Blog recovery
-    *   by kslizzle36
-    *   10 hours ago
-    *   in Personal URLs
-    *   0 votes
-    *   0
 *   My 10 year old blog is GONE!
     *   \[Resolved\] by vvbutterflyvv
     *   9 months ago
     *   in Data Migration
     *   0 votes
-    *   17 (last comment by eugenia 12 hours ago)
+    *   18 (last comment by narre 12 hours ago)
+*   i can't find my blog...
+    *   \[Resolved\] by bbbyan
+    *   4 days ago
+    *   in Personal URLs
+    *   0 votes
+    *   2 (last comment by OH\_SHUT\_UP\_please 1 day ago)
+*   Blog recovery
+    *   by kslizzle36
+    *   1 day ago
+    *   in Personal URLs
+    *   0 votes
+    *   0
 *   HOW TO GET MY BLOG BACK
     *   \[Resolved\] by pInk\_ming
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 1 day ago)
+*   Looking for my blog
+    *   \[Resolved\] by koei520
     *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 12 hours ago)
-*   Looking for my blog
-    *   \[Resolved\] by koei520
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 12 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   Deleting My Account
     *   \[Resolved\] by Omgwtf\_St
     *   9 months ago
     *   in Miscellaenous
     *   0 votes
-    *   42 (last comment by cattdaddy 2 days ago)
+    *   42 (last comment by cattdaddy 3 days ago)
 *   Request to delete my account
     *   \[Resolved\] by moscreations
     *   9 months ago
     *   in Miscellaenous
     *   0 votes
-    *   16 (last comment by KathEyXiong 3 days ago)
+    *   16 (last comment by KathEyXiong 4 days ago)
 *   i can't find my blog...
     *   \[Resolved\] by juniper6782
+    *   6 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 4 days ago)
+*   Plz help
+    *   \[Resolved\] by shadow830
+    *   5 days ago
+    *   in Themes
+    *   0 votes
+    *   1 (last comment by eugenia 4 days ago)
+*   I cannot find my board
+    *   \[Resolved\] by lvcream
     *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
-*   Plz help
-    *   \[Resolved\] by shadow830
-    *   4 days ago
-    *   in Themes
-    *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
-*   I cannot find my board
-    *   \[Resolved\] by lvcream
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   Can i get my archives back?
     *   \[Resolved\] by auhclav
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   Blogs
     *   by MandaKaye87
     *   1 week ago
