@@ -2,6 +2,8 @@ Privacy Policy Information we collect How we use information we collect Transpar
 
 Last modified: March 31, 2014 (view archived versions)
 
+Download PDF version
+
 There are many different ways you can use our services – to search for and share information, to communicate with other people or to create new content. When you share information with us, for example by creating a Google Account, we can make those services even better – to show you more relevant search results and ads, to help you connect with people or to make sharing with others quicker and easier. As you use our services, we want you to be clear how we’re using information and the ways in which you can protect your privacy.
 
 Our Privacy Policy explains:
