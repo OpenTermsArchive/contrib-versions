@@ -153,7 +153,7 @@ We use the information you provide on your profile to customize your experience 
 
 We use information that you provide to us to customize your experience and the experiences of others on LinkedIn. For example, when you sign in to your account, we may display the names of new Members who have recently joined your network or recent updates from your connections and companies you follow. We also use aggregated information from your network and other users to show you content, such as news and presentations relevant to you, your industry, or your profession.
 
-2.5. Sharing Information with Affiliates We share your information accross different LinkedIn Services, among companies in the LinkedIn family.
+2.5. Sharing Information with Affiliates We share your information across different LinkedIn Services, among companies in the LinkedIn family.
 
 We may share your personal information with our LinkedIn affiliates (meaning entities controlled by, controlling or under common control with LinkedIn) outside of the LinkedIn entity that is your data controller (for example, LinkedIn Corporation may share your information with LinkedIn Ireland, or other LinkedIn operating entities) as necessary to provide the Services. By agreeing to this Privacy Policy, you are consenting to this sharing.
 
