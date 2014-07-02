@@ -15,11 +15,10 @@ Wix
 *   Support
 *    Back to My Apps
 
-Sign In   Hi, {username}  
+Sign In Hi, {username}
 
 *   Account Settings
 *   Billing &. Payments
 *   Vouchers
-*     English  
-    
+*   English
 *   Logout
