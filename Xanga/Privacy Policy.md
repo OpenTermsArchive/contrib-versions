@@ -8,54 +8,66 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   xanga posts gone?
+    *   by xXcRrAaZycHicXx
+    *   10 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   cant find my old blog
+    *   \[Resolved\] by jinyufang
+    *   21 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 10 hours ago)
 *   Blogs
     *   \[Resolved\] by MandaKaye87
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 9 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   Blog recovery
     *   \[Resolved\] by kslizzle36
-    *   4 days ago
+    *   5 days ago
     *   in Personal URLs
     *   0 votes
-    *   1 (last comment by eugenia 9 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   i can't find my blog...
     *   \[Resolved\] by bbbyan
     *   1 week ago
     *   in Personal URLs
     *   0 votes
-    *   3 (last comment by eugenia 9 hours ago)
+    *   3 (last comment by eugenia 1 day ago)
 *   My 10 year old blog is GONE!
     *   \[Resolved\] \[closed\] by vvbutterflyvv
     *   10 months ago
     *   in Data Migration
     *   0 votes
-    *   19 (last comment by eugenia 9 hours ago)
+    *   19 (last comment by eugenia 1 day ago)
 *   Retrieve my old blog
     *   \[Resolved\] by loveu\_2009
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 9 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   HOW TO GET MY BLOG BACK
     *   \[Resolved\] by pInk\_ming
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 5 days ago)
+*   Looking for my blog
+    *   \[Resolved\] by koei520
     *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
-*   Looking for my blog
-    *   \[Resolved\] by koei520
-    *   5 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
+    *   1 (last comment by eugenia 5 days ago)
 *   Deleting My Account
     *   \[Resolved\] by Omgwtf\_St
     *   9 months ago
     *   in Miscellaenous
     *   0 votes
-    *   42 (last comment by cattdaddy 6 days ago)
+    *   42 (last comment by cattdaddy 1 week ago)
 *   Request to delete my account
     *   \[Resolved\] by moscreations
     *   9 months ago
@@ -84,18 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   \[Resolved\] by auhclav
     *   1 week ago
     *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
-*   I cannot find my board
-    *   \[Resolved\] by twbad
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
-*   Cannot reset blog password
-    *   \[Resolved\] by closingtime
-    *   2 weeks ago
-    *   in Passwords &. Sign-In
     *   0 votes
     *   1 (last comment by eugenia 1 week ago)
 
