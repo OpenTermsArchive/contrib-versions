@@ -25,7 +25,7 @@ Cookies
 
 Data Storage
 
-GitHub uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run GitHub. Although GitHub owns the code, databases, and all rights to the GitHub application, you retain all rights to your data.
+GitHub uses third-party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run GitHub. Although GitHub owns the code, databases, and all rights to the GitHub application, you retain all rights to your data.
 
 Disclosure
 
