@@ -77,7 +77,7 @@ E. Modifications to the Service and Prices
     
 2.  Prices of all Services, including but not limited to monthly subscription plan fees to the Service, are subject to change upon 30 days notice from us. Such notice may be provided at any time by posting the changes to the GitHub Site (github.com) or the Service itself.
     
-3.  GitHub shall not be liable to you or to any third party for any modification, price change, suspension or discontinuance of the Service.
+3.  GitHub shall not be liable to you or to any third-party for any modification, price change, suspension or discontinuance of the Service.
     
 
 F. Copyright and Content Ownership
@@ -86,7 +86,7 @@ F. Copyright and Content Ownership
     
 2.  GitHub does not pre-screen Content, but GitHub and its designee have the right (but not the obligation) in their sole discretion to refuse or remove any Content that is available via the Service.
     
-3.  You shall defend GitHub against any claim, demand, suit or proceeding made or brought against GitHub by a third party alleging that Your Content, or Your use of the Service in violation of this Agreement, infringes or misappropriates the intellectual property rights of a third party or violates applicable law, and shall indemnify GitHub for any damages finally awarded against, and for reasonable attorney’s fees incurred by, GitHub in connection with any such claim, demand, suit or proceeding. provided, that GitHub (a) promptly gives You written notice of the claim, demand, suit or proceeding. (b) gives You sole control of the defense and settlement of the claim, demand, suit or proceeding (provided that You may not settle any claim, demand, suit or proceeding unless the settlement unconditionally releases GitHub of all liability). and (c) provides to You all reasonable assistance, at Your expense.
+3.  You shall defend GitHub against any claim, demand, suit or proceeding made or brought against GitHub by a third-party alleging that Your Content, or Your use of the Service in violation of this Agreement, infringes or misappropriates the intellectual property rights of a third-party or violates applicable law, and shall indemnify GitHub for any damages finally awarded against, and for reasonable attorney’s fees incurred by, GitHub in connection with any such claim, demand, suit or proceeding. provided, that GitHub (a) promptly gives You written notice of the claim, demand, suit or proceeding. (b) gives You sole control of the defense and settlement of the claim, demand, suit or proceeding (provided that You may not settle any claim, demand, suit or proceeding unless the settlement unconditionally releases GitHub of all liability). and (c) provides to You all reasonable assistance, at Your expense.
     
 4.  The look and feel of the Service is copyright ©2010 GitHub Inc. All rights reserved. You may not duplicate, copy, or reuse any portion of the HTML/CSS, Javascript, or visual design elements or concepts without express written permission from GitHub.
     
@@ -97,7 +97,7 @@ G. General Conditions
     
 2.  Support for GitHub services is only available in English, via email.
     
-3.  You understand that GitHub uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Service.
+3.  You understand that GitHub uses third-party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Service.
     
 4.  You must not modify, adapt or hack the Service or modify another website so as to falsely imply that it is associated with the Service, GitHub, or any other GitHub service.
     
@@ -119,7 +119,7 @@ G. General Conditions
     
 13.  GitHub does not warrant that (i) the service will meet your specific requirements, (ii) the service will be uninterrupted, timely, secure, or error-free, (iii) the results that may be obtained from the use of the service will be accurate or reliable, (iv) the quality of any products, services, information, or other material purchased or obtained by you through the service will meet your expectations, and (v) any errors in the Service will be corrected.
     
-14.  You expressly understand and agree that GitHub shall not be liable for any direct, indirect, incidental, special, consequential or exemplary damages, including but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses (even if GitHub has been advised of the possibility of such damages), resulting from: (i) the use or the inability to use the service. (ii) the cost of procurement of substitute goods and services resulting from any goods, data, information or services purchased or obtained or messages received or transactions entered into through or from the service. (iii) unauthorized access to or alteration of your transmissions or data. (iv) statements or conduct of any third party on the service. (v) or any other matter relating to the service.
+14.  You expressly understand and agree that GitHub shall not be liable for any direct, indirect, incidental, special, consequential or exemplary damages, including but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses (even if GitHub has been advised of the possibility of such damages), resulting from: (i) the use or the inability to use the service. (ii) the cost of procurement of substitute goods and services resulting from any goods, data, information or services purchased or obtained or messages received or transactions entered into through or from the service. (iii) unauthorized access to or alteration of your transmissions or data. (iv) statements or conduct of any third-party on the service. (v) or any other matter relating to the service.
     
 15.  The failure of GitHub to exercise or enforce any right or provision of the Terms of Service shall not constitute a waiver of such right or provision. The Terms of Service constitutes the entire agreement between you and GitHub and govern your use of the Service, superseding any prior agreements between you and GitHub (including, but not limited to, any prior versions of the Terms of Service). You agree that these Terms of Service and Your use of the Service are governed under California law.
     
