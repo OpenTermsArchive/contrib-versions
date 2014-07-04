@@ -1,4 +1,4 @@
-Kindle for PC Legal Notices
+See all alerts (alert-count more) Kindle for PC Legal Notices
 
 This page covers the legal notices for Kindle for PC.
 
