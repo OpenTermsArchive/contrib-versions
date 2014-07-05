@@ -1,4 +1,4 @@
-Learn more about the Amazon Kindle Store Terms of Use. Kindle Store Terms of Use
+See all alerts (alert-count more) Learn more about the Amazon Kindle Store Terms of Use. Kindle Store Terms of Use
 
 **Last updated: September 6, 2012**
 
