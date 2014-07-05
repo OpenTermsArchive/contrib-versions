@@ -10,70 +10,70 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   I can't find my xanga blog ~
     *   by ar4lam
-    *   12 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by ar4lam 12 hours ago)
+    *   1 (last comment by ar4lam 1 day ago)
 *   How to get my old posts back?
     *   by aivanda
-    *   13 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   xanga posts gone?
     *   by xXcRrAaZycHicXx
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   cant find my old blog
     *   \[Resolved\] by jinyufang
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   Blogs
     *   \[Resolved\] by MandaKaye87
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Blog recovery
     *   \[Resolved\] by kslizzle36
-    *   6 days ago
+    *   1 week ago
     *   in Personal URLs
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   i can't find my blog...
     *   \[Resolved\] by bbbyan
     *   1 week ago
     *   in Personal URLs
     *   0 votes
-    *   3 (last comment by eugenia 2 days ago)
+    *   3 (last comment by eugenia 3 days ago)
 *   My 10 year old blog is GONE!
     *   \[Resolved\] \[closed\] by vvbutterflyvv
     *   10 months ago
     *   in Data Migration
     *   0 votes
-    *   19 (last comment by eugenia 2 days ago)
+    *   19 (last comment by eugenia 3 days ago)
 *   Retrieve my old blog
     *   \[Resolved\] by loveu\_2009
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   HOW TO GET MY BLOG BACK
     *   \[Resolved\] by pInk\_ming
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   Looking for my blog
     *   \[Resolved\] by koei520
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   Deleting My Account
     *   \[Resolved\] by Omgwtf\_St
     *   9 months ago
