@@ -1,4 +1,4 @@
-Conditions of Use
+See all alerts (alert-count more) Conditions of Use
 
 **Last updated: December 5, 2012**
 
