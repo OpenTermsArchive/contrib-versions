@@ -1,4 +1,4 @@
-Kindle Cloud Reader Legal Notices
+See all alerts (alert-count more) Kindle Cloud Reader Legal Notices
 
 **A. INTELLECTUAL PROPERTY NOTICES**
 
