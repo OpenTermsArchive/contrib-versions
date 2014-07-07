@@ -176,7 +176,7 @@ Because everyone (not just lawyers) should be able to easily understand how and 
 
 When we say... ... we mean: "the Wikimedia Foundation" / "the Foundation" / "we" / "us" / "our" The Wikimedia Foundation, Inc., the non-profit organization that operates the Wikimedia Sites. "Wikimedia Sites" / "our services" Wikimedia websites and services (regardless of language), including our main projects, such as Wikipedia and Wikimedia Commons, as well as mobile applications, APIs, emails, and notifications. excluding, however, sites and services listed in the "What This Privacy Policy Doesn't Cover" section below. "you" / "your" / "me" You, regardless of whether you are an individual, group, or organization, and regardless of whether you are using the Wikimedia Sites or our services on behalf of yourself or someone else. "this Policy" / "this Privacy Policy" This document, entitled the "Wikimedia Foundation Privacy Policy". "contributions" Content you add or changes you make to any Wikimedia Sites. "personal information" Information you provide us or information we collect from you that could be used to personally identify you. To be clear, while we do not necessarily collect all of the following types of information, we consider at least the following to be “personal information” if it is otherwise nonpublic and can be used to identify you:
 
-(a) your real name, address, phone number, email address, password, identification number on government-issued ID, IP address, user-agent information, credit card number.
+(a) your real name, address, phone number, email address, password, identification number on government-issued ID, IP address, user-agent information, credit card number;
 
 (b) when associated with one of the items in subsection (a), any sensitive data such as date of birth, gender, sexual orientation, racial or ethnic origins, marital or familial status, medical conditions or disabilities, political affiliation, and religion. and
 
@@ -221,8 +221,8 @@ The Wikimedia Sites are collaborative labors of love that are constantly maintai
 *   **Administrative volunteers**, such as CheckUsers or Stewards. These are volunteers who enforce Wikimedia Site policies and ensure the safety of the Wikimedia Sites. When these administrators access nonpublic information, they are required to comply with our Access to Nonpublic Information Policy, as well as other, tool-specific policies.
 *   **Tool providers**. We support platforms for third-party developers to experiment and develop new tools and sites, such as Labs wmflabs.org. When you use one of the tools developed by these volunteers, you may transfer information to them. When these volunteers access nonpublic information, they are required to comply with the terms governing the particular platform the tool is available on.
 *   **Other users**. We provide several tools that allow users to communicate with each other. The communications may be covered by this Policy while they pass through our systems, but the users who receive these communications, and what they do with the communications once they receive them, are not covered by this Policy. Examples include:
-    *   posting to Foundation-hosted email lists.
-    *   requesting support from volunteers through our online ticketing system (email sent to info\[at\]wikimedia.org goes to this system).
+    *   posting to Foundation-hosted email lists;
+    *   requesting support from volunteers through our online ticketing system (email sent to info\[at\]wikimedia.org goes to this system);
     *   emailing other users through the Wikimedia Sites (for example, by using the "Email this user" feature). and
     *   chatting on IRC (such as on the #wikipedia channel).
 
@@ -413,7 +413,7 @@ To Protect You, Ourselves &. Others
 
 We, or users with certain administrative rights, may disclose information that is reasonably necessary to:
 
-*   enforce or investigate potential violations of Foundation or community-based policies.
+*   enforce or investigate potential violations of Foundation or community-based policies;
 *   protect our organization, infrastructure, employees, contractors, or the public. or
 *   prevent imminent or serious bodily harm or death to a person.
 
