@@ -14,7 +14,7 @@ We collect the e-mail addresses of those who communicate with us via e-mail, agg
 
 Information Gathering and Usage
 
-*   When you register for GitHub we ask for information such as your name, email address, billing address, credit card information. Members who sign up for the free account are not required to enter a credit card.
+*   When you register for GitHub we ask for information such as your name, email address, billing address, or payment information. Members who sign up for the free account are not required to enter any payment details.
 *   GitHub uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.
 
 Cookies
