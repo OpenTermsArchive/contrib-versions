@@ -8,66 +8,66 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   How do I look back at my posts?
-    *   by MADDwoaw
-    *   12 hours ago
+*   How to get my old posts back?
+    *   \[Resolved\] by aivanda
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   0
+    *   1 (last comment by eugenia 8 hours ago)
+*   What happened to blogrings?
+    *   \[Resolved\] by ArabianEyedPrincess
+    *   23 hours ago
+    *   in Miscellaenous
+    *   0 votes
+    *   1 (last comment by eugenia 8 hours ago)
+*   How do I look back at my posts?
+    *   \[Resolved\] by MADDwoaw
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 8 hours ago)
+*   REALLY FRUSTRATED!!
+    *   \[Resolved\] by frozenpenguin32
+    *   15 hours ago
+    *   in Premium
+    *   0 votes
+    *   1 (last comment by eugenia 8 hours ago)
 *   Private Blog Access
     *   \[Resolved\] by greedy\_business
     *   7 months ago
     *   in Data Migration
     *   0 votes
-    *   8 (last comment by greedy\_business 21 hours ago)
+    *   8 (last comment by greedy\_business 1 day ago)
 *   We have to pay for xanga now?
     *   by omgroxie
-    *   1 day ago
-    *   in Adding &. Editing Entries
-    *   0 votes
-    *   0
-*   Expired and lost???
-    *   by frozenpenguin32
-    *   1 day ago
-    *   in Premium
-    *   0 votes
-    *   0
-*   I can't find my audio!
-    *   by supersinger412
     *   2 days ago
-    *   in Data Migration
+    *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Heroku | No such app
     *   by snowyofsnow
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I can't find my xanga blog ~
     *   by ar4lam
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by ar4lam 5 days ago)
-*   How to get my old posts back?
-    *   by aivanda
-    *   5 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
+    *   1 (last comment by ar4lam 6 days ago)
 *   xanga posts gone?
     *   by xXcRrAaZycHicXx
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   cant find my old blog
     *   \[Resolved\] by jinyufang
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   Blogs
     *   \[Resolved\] by MandaKaye87
     *   2 weeks ago
