@@ -45,7 +45,7 @@ Customers may access their GitHub account data via an API (Application Program I
 
 C. Payment, Refunds, Upgrading and Downgrading Terms
 
-1.  All paid plans must enter a valid credit card. Free accounts are not required to provide a credit card number.
+1.  All paid plans must enter a valid payment account. Free accounts are not required to provide payment account information.
     
 2.  **An upgrade from the free plan to any paying plan will immediately bill you.**
     
