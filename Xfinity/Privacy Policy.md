@@ -390,7 +390,6 @@ Skip Footer Navigation Links XFINITY
 *   Skip SUPPORT &. SERVICES Links
 *   Comcast Business
 *   Comcast Careers
-*   Constant Guard
 *   Mover's Edge
 *   My Account
 *   Pay My Bill
