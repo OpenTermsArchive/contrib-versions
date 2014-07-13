@@ -13,55 +13,55 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by eugenia 7 hours ago)
+    *   3 (last comment by eugenia 1 day ago)
 *   cannot udpated my xanag
     *   by Aki\_CHEUNG
-    *   14 hours ago
+    *   1 day ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by eugenia 7 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   xanga posts gone?
     *   \[Resolved\] by xXcRrAaZycHicXx
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   I can't find my xanga blog ~
     *   \[Resolved\] by ar4lam
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by eugenia 1 day ago)
+    *   2 (last comment by eugenia 2 days ago)
 *   We have to pay for xanga now?
     *   \[Resolved\] by omgroxie
-    *   4 days ago
+    *   5 days ago
     *   in Adding &. Editing Entries
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   REALLY FRUSTRATED!!
     *   \[Resolved\] \[closed\] by frozenpenguin32
-    *   2 days ago
+    *   3 days ago
     *   in Premium
     *   0 votes
-    *   2 (last comment by frozenpenguin32 1 day ago)
+    *   2 (last comment by frozenpenguin32 2 days ago)
 *   What happened to blogrings?
     *   \[Resolved\] by ArabianEyedPrincess
-    *   2 days ago
+    *   3 days ago
     *   in Miscellaenous
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   How do I look back at my posts?
     *   \[Resolved\] by MADDwoaw
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Private Blog Access
     *   \[Resolved\] by greedy\_business
     *   7 months ago
     *   in Data Migration
     *   0 votes
-    *   8 (last comment by greedy\_business 3 days ago)
+    *   8 (last comment by greedy\_business 4 days ago)
 *   cant find my old blog
     *   \[Resolved\] by jinyufang
     *   1 week ago
