@@ -20,5 +20,5 @@ Sign In Hi, {username}
 *   Account Settings
 *   Billing &. Payments
 *   Vouchers
-*   English
+
 *   Logout
