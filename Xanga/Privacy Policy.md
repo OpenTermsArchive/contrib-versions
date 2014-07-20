@@ -8,48 +8,66 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Previous blogs disappear
+    *   by flyingwitch
+    *   10 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   How to get my old posts back?
     *   \[Resolved\] by aivanda
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   9 (last comment by Im\_SoO\_LiDO 6 minutes ago)
+    *   10 (last comment by Sanctus\_Everglow\_Real 10 hours ago)
+*   Gustava blog
+    *   by Gustava
+    *   11 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   I want my posts back
+    *   by Im\_SoO\_LiDO
+    *   23 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by Our\_051607\_story 21 hours ago)
 *   Plx help me find my old posts
     *   \[Resolved\] \[closed\] by con\_noodle
     *   9 months ago
     *   in Data Migration
     *   0 votes
-    *   12 (last comment by eugenia 10 hours ago)
+    *   12 (last comment by eugenia 1 day ago)
 *   Lost every post in xanga
     *   \[Resolved\] by foreverlove\_sz
-    *   1 day ago
+    *   2 days ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by eugenia 10 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   Lost every post in xanga
     *   \[Resolved\] by kevinming
-    *   1 day ago
+    *   2 days ago
     *   in Adding &. Editing Entries
     *   0 votes
-    *   1 (last comment by eugenia 10 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   Cant read old posts and my followers' xanga
     *   \[Resolved\] by tiffching1992
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   I have been trying to get my blog from the Archive
     *   \[Resolved\] by Harry\_fanfic
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Private Blog Access
     *   \[Resolved\] by greedy\_business
     *   7 months ago
     *   in Data Migration
     *   0 votes
-    *   9 (last comment by greedy\_business 2 days ago)
+    *   9 (last comment by greedy\_business 3 days ago)
 *   cannot udpated my xanag
     *   by Aki\_CHEUNG
     *   1 week ago
@@ -80,24 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Premium
     *   0 votes
     *   2 (last comment by frozenpenguin32 1 week ago)
-*   What happened to blogrings?
-    *   \[Resolved\] by ArabianEyedPrincess
-    *   1 week ago
-    *   in Miscellaenous
-    *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
-*   How do I look back at my posts?
-    *   \[Resolved\] by MADDwoaw
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
-*   cant find my old blog
-    *   \[Resolved\] by jinyufang
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 2 weeks ago)
 
 1 2 3 ... 132 Next
 
