@@ -46,9 +46,6 @@ You don’t need to provide us with any personal information in order to visit t
 
 *   Essential Information: When you register any kind of SoundCloud® account, you will need to provide your email address, your month and year of birth, and choose a password. In addition, if you register a premium account, you will also need to provide your real name, address and payment verification information.
     
-*   Non-essential information: Your gender if you wish to provide it.
-    
-
 *   Profile Information: You may choose, at your discretion, to provide additional information for your public profile on SoundCloud® – for example:
     
     *   your real name
@@ -100,7 +97,7 @@ If you sign up to SoundCloud® using Facebook, your SoundCloud® account will be
 
 Google+
 
-You can sign up and log in to SoundCloud using your Google+ account. When you sign up using Google+, Google will ask your permission to share certain information from your Google+ account with SoundCloud. This includes your first name, last name, gender, a link to your Google+ profile, your profile picture, and your list of friends. This information is collected by Google and is provided to us under the terms of Google's privacy policy.
+You can sign up and log in to SoundCloud using your Google+ account. When you sign up using Google+, Google will ask your permission to share certain information from your Google+ account with SoundCloud. This includes your first name, last name, a link to your Google+ profile, your profile picture, and your list of friends. This information is collected by Google and is provided to us under the terms of Google's privacy policy.
 
 If you sign up to SoundCloud® using Google+, by default information regarding your activity on SoundCloud® will be visible on Google to everyone in your Google+ circles and shared with Google according to Google's terms of service and Google's privacy policy. For more information on how to manage the activities you share back to your Google+ account, see Google's support page. You can manage who from your Google+ circles sees your SoundCloud® activity from within your Google+ App settings page. If you want to control the type of SoundCloud® activity that is shared with your Google+ circles, you can do this from the settings page of your SoundCloud account under the “Connections” tab.
 
@@ -113,8 +110,6 @@ We use the information that we collect about you for the following purposes:
 *   Your email address and password are used to identify you when you log into the Platform.
     
 *   We use your month and year of birth to enable age restriction, to display appropriate content to you, and to perform analytics aimed at improving our products, services and technologies.
-    
-*   We use your gender information to display and suggest appropriate content to you, and to perform analytics aimed at improving SoundCloud®.
     
 *   Any additional information that you provide as part of your public profile, such as your real name, and links to your website and other social media profiles (but not your email address), will be published on your profile page. This information will be publicly accessible and may be viewed by anyone accessing the Website, or using our API or other Services. Please bear this in mind when considering whether to provide any additional information about yourself.
     
@@ -268,12 +263,10 @@ Don’t want to give us your information?
 
 If you decide that you do not want us to use your personal information in the manner described in the Privacy Policy (including our Cookies Policy), please do not use the Platform. If you have already registered an account, you can find out how to terminate or cancel your account here.
 
-**Last amended:** 17 July 2014
+**Last amended:** 25 March 2014
 
 Link to prior versions
 
-You will find a link to prior versions of our Privacy Policy and a summary of the change(s) below.
+You will find a link to prior versions of our Privacy Policy below.
 
-*   March 2014 - Collecting month and year of birth.
-    
 *   May 2013
