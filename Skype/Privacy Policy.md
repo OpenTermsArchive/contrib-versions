@@ -208,7 +208,7 @@ Skype software browser cookies can be disabled by: accessing the File menu from 
 
 **4.5.2 Local Shared Objects (Flash Cookies)**
 
-You can manage the usage of flash cookies via http://www.macromedia.com/support/documentation/en/flashplayer/help/settings\_manager.html.
+You can manage the usage of flash cookies via http://www.macromedia.com/support/documentation/.
 
 You may also manage flash cookies through your browser depending on how recent the version of Internet Explorer (or other browser) and media player you are using. Please also visit the Adobe website at http://kb2.adobe.com/cps/526/52697ee8.html
 
