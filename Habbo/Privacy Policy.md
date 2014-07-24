@@ -146,6 +146,6 @@ To the extent any provision of this Privacy Policy is found by a competent tribu
 
 **16\. How To Contact Us**
 
-Questions and comments about our Privacy Policy should be mailed to: Sulake Corporation Oy, Porkkalankatu 1, 00180 Helsinki, Finland.
+Questions and comments about our Privacy Policy should be mailed to: Sulake Corporation Oy, Legal, Kaarlenkatu 11, 00530 Helsinki, Finland.
 
 //End Privacy Policy//
