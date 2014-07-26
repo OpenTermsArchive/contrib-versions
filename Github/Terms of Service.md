@@ -130,4 +130,4 @@ G. General Conditions
 18.  Map data copyright OpenStreetMap contributors and licensed under the Open Data Commons Open Database License. Map design and imagery subject to the MapBox Terms of Service.
     
 
-*   contact a human
+*   Contact a human
