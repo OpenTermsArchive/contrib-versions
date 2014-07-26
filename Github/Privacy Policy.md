@@ -47,4 +47,4 @@ Questions
 
 Any questions about this Privacy Policy should be addressed to support@github.com.
 
-*   contact a human
+*   Contact a human
