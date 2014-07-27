@@ -10,46 +10,46 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   I want my posts back
     *   \[Resolved\] by Im\_SoO\_LiDO
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   5 (last comment by chik83 9 hours ago)
+    *   5 (last comment by chik83 1 day ago)
 *   Where's all of my stuff?
     *   by lauren\_tori
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Gustava blog
     *   \[Resolved\] by Gustava
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   Previous blogs disappear
     *   \[Resolved\] by flyingwitch
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   Where did the themes go?
     *   \[Resolved\] by precept\_upon\_precept
-    *   4 days ago
+    *   5 days ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   How to get my old posts back?
     *   \[Resolved\] \[closed\] by aivanda
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   14 (last comment by eugenia 3 days ago)
+    *   14 (last comment by eugenia 4 days ago)
 *   Please restore my data!
     *   \[Resolved\] by mondaylily
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   Plx help me find my old posts
     *   \[Resolved\] \[closed\] by con\_noodle
     *   10 months ago
