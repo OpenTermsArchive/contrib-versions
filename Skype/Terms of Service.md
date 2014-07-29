@@ -20,6 +20,8 @@ Table of contents:
 18.  Miscellaneous
 19.  Product specific terms
 20.  Pay by mobile
+21.  Skype Manager and Managed Accounts
+22.  Skype Connect
 
 **PLEASE READ CAREFULLY BEFORE DOWNLOADING THE SOFTWARE OR USING THE PRODUCT(S) OR SKYPE WEBSITES**
 
@@ -215,7 +217,7 @@ You may not submit or publish through the Skype Website or Software any User Sub
 
 **8.3 Promotional Offers:** From time to time, Skype may offer Paid-For Products for free for a trial period. Skype reserves the right to charge you for such Products (at the normal rate) in the event that Skype determines (in its reasonable discretion) that you are abusing the terms of the offer, including if you are using any service, proxy or other devices or anonymous IP address that prevents us from locating you.
 
-**8.4 Tax:** Skype may collect VAT or other indirect taxes at the appropriate rate (as per applicable tax rules). 15% Luxembourg VAT generally applies if you are located in the EU and the Products are purchased and used in the EU. 8% Swiss VAT applies if you are located in Switzerland. Other local taxes may apply in certain countries. When you purchase a voucher or pre-paid card, depending on the country, 15% Luxembourg VAT, local VAT or other taxes may apply and may be deducted from the value of the voucher or prepaid card upon redemption. You explicitly waive any right to VAT reimbursement from Skype if the amount of VAT ultimately payable by the latter to the tax authorities would for any reason be lower than the amount of VAT collected from you at the time of purchase. The territories in the EU set out below are outside the scope of EU VAT under Council Directive 2006/112/EC on the common system of VAT, as amended. The Skype Website does not enable users in such territories to take advantage of this VAT exemption and we therefore do not provide the Products in such territories: Mount Athos, Canary Islands, French Overseas Departments, Aland Islands, Channel Islands, Heligoland Island, Büsingen / Buesingen Territory, Ceuta, Melilla, Livigno, Campione d'Italia and Italian Waters of Lake Lugano.
+**8.4 Tax:** Skype may collect VAT or other indirect taxes at the appropriate rate (as per applicable tax rules). 15% Luxembourg VAT generally applies if you are located in the EU and the Products are purchased and used in the EU. 8% Swiss VAT applies if you are located in Switzerland. Other local taxes may apply in certain countries. When you purchase a voucher or pre-paid card, depending on the country, 15% Luxembourg VAT, local VAT or other taxes may apply and may be deducted from the value of the voucher or prepaid card upon redemption. You explicitly waive any right to VAT reimbursement from Skype if the amount of VAT ultimately payable by the latter to the tax authorities would for any reason be lower than the amount of VAT collected from you. The territories in the EU set out below are outside the scope of EU VAT under Council Directive 2006/112/EC on the common system of VAT, as amended. The Skype Website does not enable users in such territories to take advantage of this VAT exemption and we therefore do not provide the Products in such territories: Mount Athos, Canary Islands, French Overseas Departments, Aland Islands, Channel Islands, Heligoland Island, Büsingen / Buesingen Territory, Ceuta, Melilla, Livigno, Campione d'Italia and Italian Waters of Lake Lugano.
 
 **8.5 Third-Party Charges:** Using the Software on mobile applications will use some of the data allowance available on the data package to which you have subscribed with your mobile network operator. Out-of-country usage may lead to significantly higher costs than regular usage, and you are solely responsible for keeping yourself informed and paying for possible roaming and other applicable charges levied by your mobile network operator.
 
@@ -223,7 +225,7 @@ You may not submit or publish through the Skype Website or Software any User Sub
 
 **9.1 Skype Credit.** You can pay for select Paid-For Products using Skype Credit. You can purchase Skype Credit using any payment method made available to you by Skype from time to time. The Skype Credit that you purchase will be credited to your User Account at the time of purchase (or if you are using a Skype Credit voucher, at the time you redeem that voucher).
 
-**9.2 Inactive Skype Credit.** If you do not use your Skype Credit for a period of 180 days, (including Skype Credit that has been allocated to you by a Skype Manager administrator or another Skype user) Skype will place your Skype Credit on inactive status. You can reactivate the Skype Credit by following the reactivation link in My Account at https://secure.skype.com/account/credit-reactivate. Reactivated Skype Credit is not refundable. If you are located in Japan and you buy Skype Credit from the Skype Website, this paragraph does not apply to you and your Skype Credit shall expire 6 months from the date of purchase. You are not permitted to use any Skype Credit on or after the date of its expiry.
+**9.2 Inactive Skype Credit.** If you do not use your Skype Credit for a period of 180 days, (including Skype Credit that has been allocated to you by a Skype Manager administrator (unless you are a Managed Account user, please see Section 21) or another Skype user) Skype will place your Skype Credit on inactive status. You can reactivate the Skype Credit by following the reactivation link in My Account at https://secure.skype.com/account/credit-reactivate. Reactivated Skype Credit is not refundable. If you are located in Japan and you buy Skype Credit from the Skype Website, this paragraph does not apply to you and your Skype Credit shall expire 6 months from the date of purchase. You are not permitted to use any Skype Credit on or after the date of its expiry.
 
 **9.3 Other payment methods.** Skype does not guarantee that you will be able to use your Skype Credit balance to purchase all Products. Where Skype Credit cannot be used to pay for a Product, Skype will make another payment method available to you. Skype reserves the right to remove or amend the available payment methods at its sole discretion.
 
@@ -461,7 +463,57 @@ Subject to our Fair Usage Policy (“FUP”) below, there are no limits on the n
 
 (b) You represent that you are the person or entity responsible for the mobile phone account associated with the mobile number you provide when using Pay by Mobile, or are authorised by that person or entity to incur such charges.
 
-**YOU EXPRESSLY ACKNOWLEDGE THAT YOU HAVE READ THESE TERMS AND UNDERSTAND THE RIGHTS, OBLIGATIONS, TERMS AND CONDITIONS SET FORTH HEREIN. BY CLICKING ON THE ACCEPT BUTTON AND/OR CONTINUING TO INSTALL THE SOFTWARE OR USE THE SOFTWARE, PRODUCTS AND/OR SKYPE WEBSITES, YOU EXPRESSLY CONSENT TO BE BOUND BY ITS TERMS AND CONDITIONS AND GRANT TO SKYPE THE RIGHTS SET FORTH HEREIN.**
+**21\. SKYPE MANAGER AND MANAGED ACCOUNTS**
+
+**21.1 Responsibility For Managed Accounts.** A “Managed Account” is a Skype account that is created and managed by you, acting as an individual administrator of your Skype Manager and not as a business entity. You may appoint additional administrators to your Skype Manager, subject to their acceptance of these terms. You are responsible for all usage of the Skype Products and Skype Software in connection with your Managed Accounts, including without limitation, any acts and omissions of any of additional administrators or Managed Account users. You shall ensure that additional administrators and Managed Account users comply with these Terms
+
+**21.2 Email and Password.** You shall allocate an email address to each of your Managed Accounts. The email address may only be changed by you, as administrator. You can allocate a password to your Managed Accounts or you may invite a Managed User to set up their own password. Passwords must not be shared.
+
+**21.3 Reallocation and Deletion of Managed Accounts.** Administrators may reallocate or delete Managed Accounts. Prior to deletion, you can reclaim remaining Skype Credit and Skype Numbers that you have allocated to Managed Accounts and re-allocate to other Managed Accounts. If you choose to delete a Managed Account then any allocated Subscriptions, and any unclaimed Skype Credit and Skype Numbers allocated to the Managed Account will be lost. Any call and SMS history associated with the deleted Managed Account will no longer be accessible to you. Skype reserves the right to cancel Managed Accounts that have been inactive for more than one year.
+
+**21.4 Individual Use Only.** Managed Accounts are for individual use only and may not be shared.
+
+**21.5 Data of Managed Account users.** You shall inform each of your Managed Account users that you and any administrators of your Skype Manager may have access to their personal and traffic data. You acknowledge and agree that you shall process (and shall ensure that your administrators shall process) such personal data in accordance with all applicable data protection laws.
+
+**21.6 Skype Numbers.** Subject to Section 19.1, you may purchase and allocate Skype Numbers to a Managed Account. You are responsible for compliance with any requirements related to the residence and/or the location of your Managed Account users. Skype Numbers allocated to a Managed Account may be used as the CLI for that Managed Account. No mobile or landline numbers can be allocated to a Managed Account as a CLI.
+
+**21.7 Skype Credit.** Unless you are located in Japan, Skype Credit purchased by you via your Skype Manager, that has not been allocated to a Skype account does not expire. Please refer to Section 10 for our Refund Policy. Skype Credit that has been allocated by you to a Managed Account can be withdrawn by you and re-allocated to your Skype Manager Credit Balance at any time. You cannot withdraw Skype Credit that you allocate to a Skype account that is not a Managed Account. If you are located in Japan, please refer to Section 9.2.
+
+**21.8 Skype Products.** Managed Account users cannot purchase Skype Products for use through their Managed Account and can only use Skype Products that have been allocated to their Managed Account by you.
+
+**22\. SKYPE CONNECT**
+
+**22.1 Permitted Use and Restrictions.**
+
+(a) Skype Connect is only available to use through a Managed Account that is set up through Skype Manager. Before using Skype Connect, you will be required to set up a SIP profile and purchase a Skype Connect Channel Subscription. You may set up and link one or more Managed Accounts to a SIP profile that you create in order to enable you to receive voice calls into your PBX and any other certified Skype Connect equipment.
+
+(b) You may delete a SIP profile at any time. If you choose to delete a SIP profile, you will lose all current configuration details and call history relating to this SIP profile and you will not be able to make or receive any calls using this SIP profile. Any Skype Numbers and Skype Credit that you have allocated to that SIP profile may be taken back to the Skype Manager and reallocated before the SIP Profile is deleted. Channel Subscriptions may not be taken back to the Skype Manager and will no longer be available once the SIP profile has been deleted.
+
+(c) Subject to Section 19.1, you may purchase and allocate Skype Numbers to a SIP Profile. The maximum number of Skype Numbers you can allocate to a SIP profile is 99. Skype Numbers allocated to a SIP Profile may be used as the CLI for that SIP Profile. No mobile or landline numbers can be allocated to a Managed Account as a CLI for a SIP Profile.
+
+(d) Managed Accounts using Skype Connect may only be used with your PBX and may not be used on a personal computer, mobile or other device unless and until you cease using it with Skype Connect.
+
+(e) Skype Connect should not be used as a standalone service but as a secondary communications channel only in connection with traditional telephone services. When using Skype Connect you shall configure your PBX and any other certified Skype Connect equipment so that all emergency calls are terminated through a standard landline connection or another telephone service that supports emergency calling.
+
+**22.2 Channel Subscriptions**
+
+(a) You must purchase a monthly Channel Subscription in order to set up a SIP Profile and use Skype Connect. You need to have a sufficient balance of Skype Credit in Your Skype Manager in order to purchase a Channel Subscription.
+
+(b) A Channel Subscription is payable monthly using the Skype Credit in Your Skype Manager. This is a recurring payment and payments shall be made to Skype at monthly intervals using Skype Credit until the Channel Subscription is terminated by you or by Skype. If you do not have sufficient Skype Credit then you will not be able to purchase the Channel Subscription or use Skype Connect with that SIP Profile, until you deposit sufficient Skype Credit into your Skype Manager. You must purchase a separate Channel Subscription for each SIP Profile that you set up.
+
+(c) The monthly fee payable for a Channel Subscription varies according to the number of concurrent calling channels that you wish to use with a SIP Profile. A SIP profile supports from 1 to 300 concurrent calling channels. A SIP Profile can have multiple concurrent calling channels and each channel allows one inbound or one outbound call at any time.
+
+(d) In addition to the monthly fee payable for a Channel Subscription, Skype rates for calling phones are payable for all outgoing calls made using Skype Connect. Such rates shall be payable using the Skype Credit in Your SIP Profile. You need a sufficient balance of Skype Credit in Your SIP Profile in order to make and pay for calls to phones. The minimum duration of a billed Skype Connect call is 30 seconds. After the first 30 seconds, Skype Connect calls are billed at increments of 6 seconds thereafter. Fractions of less than 6 seconds will be rounded up. Skype Connect calls do not incur a connection fee.
+
+(e) Other than the monthly fee for the Channel Subscription, no additional charges are payable for receiving incoming calls on Skype Connect.
+
+(f) The fees payable for a Channel Subscription are set out at: http://www.skype.com/go/business.sip.pricing.
+
+(g) You are not able to use Skype Connect unless you have purchased a Channel Subscription. If you do not purchase a Channel Subscription, any existing SIP Profile shall be disabled and you will not be able to make or receive calls using Skype Connect.
+
+(h) You may change the number of concurrent calling channels included in your Channel Subscription at any time by cancelling the current number and setting up a new recurring payment for the new number of concurrent calling channels. Skype will refund the unexpired amount of the most recent monthly fee that you paid for your current Channel Subscription. The new recurring monthly payment shall begin on the date upon which you change the number of concurrent calling channels.  
+
+**YOU EXPRESSLY ACKNOWLEDGE THAT YOU HAVE READ THESE TERMS AND UNDERSTAND THE RIGHTS, OBLIGATIONS, TERMS AND CONDITIONS SET FORTH HEREIN. BY CLICKING ON THE ACCEPT BUTTON AND/OR CONTINUING TO INSTALL THE SOFTWARE OR USE THE SOFTWARE, PRODUCTS AND/OR SKYPE WEBSITES, YOU EXPRESSLY CONSENT TO BE BOUND BY ITS TERMS AND CONDITIONS AND GRANT TO SKYPE THE RIGHTS SET FORTH HEREIN.**  
 
 © Skype and/or Microsoft – Last updated: June 2014
 
