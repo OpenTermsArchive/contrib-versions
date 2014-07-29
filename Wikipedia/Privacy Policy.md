@@ -512,7 +512,7 @@ Because things naturally change over time and we want to ensure our Privacy Poli
 *   In the event of substantial changes, we will provide the proposed changes to our users in at least three (3) languages (selected at our discretion) for open comment period lasting at least thirty (30) calendar days. Prior to the start of any comment period, we will provide notice of such changes and the opportunity to comment via the Wikimedia Sites, and via a notification on WikimediaAnnounce-L or a similar mailing list.
 *   For minor changes, such as grammatical fixes, administrative or legal changes, or corrections of inaccurate statements, we will post the changes and, when possible, provide at least three (3) calendar days' prior notice via WikimediaAnnounce-L or similar mailing list.
 
-We ask that you please review the most up-to-date version of our Privacy Policy. Your continued use of the Wikimedia Sites after this Privacy Policy becomes effective constitutes acceptance of this Privacy Policy on your part. Your continued use of the Wikimedia Sites after any subsequent version of this Privacy Policy becomes effective, following notice as outlined above, constitutes acceptance of that version of the Privacy Policy on your part.
+We ask that you please review the most up-to-date version of our **Privacy Policy**. Your continued use of the Wikimedia Sites after this Privacy Policy becomes effective constitutes acceptance of this Privacy Policy on your part. Your continued use of the Wikimedia Sites after any subsequent version of this Privacy Policy becomes effective, following notice as outlined above, constitutes acceptance of that version of the Privacy Policy on your part.
 
 Contact Us
 
@@ -521,6 +521,15 @@ If you have questions or suggestions about this Privacy Policy, or the informati
 Thank You!
 
 Thank you for reading our Privacy Policy. We hope you enjoy using the Wikimedia Sites and appreciate your participation in creating, maintaining, and constantly working to improve the largest repository of free knowledge in the world.
+
+  
+
+**This privacy policy was approved by the board on April 25th 2014 and went into effect on June 6, 2014. Previous versions can be found below:**
+
+*   **Privacy policy (November 2008 - June 2014): effective from November 25, 2008 until June 6, 2014**
+*   **Privacy policy (August 2008 - November 2008): effective from August 19, 2008 until November 25, 2008.**
+*   **Privacy policy (June 2006 - August 2008) : effective from June 21, 2006 until August 19, 2008.**
+*   **Privacy policy (April 2005 to June 2006): effective from April 2005 until June 21, 2006**
 
 **Please note that in the event of any differences in meaning or interpretation between the original English version of this Privacy Policy and a translation, the original English version takes precedence.**
 
