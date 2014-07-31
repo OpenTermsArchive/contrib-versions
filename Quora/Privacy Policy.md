@@ -1,8 +1,13 @@
-There are updates to this page that haven't been applied because you've entered text. Refresh this page to see updates. Hide this message. Quora Quora is your best source for knowledge.Signup in seconds. Remember Me Forgot Password?
+There are some updates to this page that haven't been applied yet because you've entered some data into a form. You can refresh this page to receive new updates. Trying to regain internet connection... Hide this message. Quora
+
+**Quora is your best source for knowledge.**  
+**Sign up** in seconds.
+
+Remember Me Forgot Password?
 
 Please confirm your email address. Resend Confirmation Link
 
-No account found for this email. Retry, or Sign up for Quora.Incorrect password. Reset Password
+No account found for this email. Retry, or Sign up for Quora.Incorrect password. Reset Password By logging in you indicate that you have read and agree to the Terms of Service.
 
 *   About
 *   Team
@@ -97,10 +102,10 @@ Mountain View, CA 94041
 
 March 4, 2014: We added more detail about social networking services, cookies and similar technologies.
 
-                               
-
 *   About
 *   Careers
 *   Privacy
 *   Terms
 *   Sitemap
+
+Loading...
