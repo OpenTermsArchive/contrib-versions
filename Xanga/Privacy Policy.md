@@ -8,9 +8,15 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   I want my old post back
+    *   by cm\_secretdiary
+    *   20 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   I want my posts back 2
     *   by magicpupple
-    *   10 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,31 +25,31 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   9 months ago
     *   in Getting Started
     *   0 votes
-    *   5 (last comment by eugenia 1 day ago)
+    *   5 (last comment by eugenia 2 days ago)
 *   Where's all of my stuff?
     *   \[Resolved\] by lauren\_tori
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   I want my posts back
     *   \[Resolved\] \[closed\] by Im\_SoO\_LiDO
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   6 (last comment by eugenia 1 day ago)
+    *   6 (last comment by eugenia 2 days ago)
 *   Old blog gone???
     *   \[Resolved\] by the\_imminent\_dusk
-    *   2 days ago
+    *   3 days ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   where are my blogs and how to?
     *   \[Resolved\] by lil\_azn\_cutie\_313
-    *   2 days ago
+    *   3 days ago
     *   in Adding &. Editing Entries
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   Gustava blog
     *   \[Resolved\] by Gustava
     *   1 week ago
@@ -90,12 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   \[Resolved\] by kevinming
     *   1 week ago
     *   in Adding &. Editing Entries
-    *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
-*   Cant read old posts and my followers' xanga
-    *   \[Resolved\] by tiffching1992
-    *   2 weeks ago
-    *   in Data Migration
     *   0 votes
     *   1 (last comment by eugenia 1 week ago)
 
