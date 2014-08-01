@@ -1,4 +1,4 @@
-See all alerts (alert-count more) Amazon.com Privacy Notice
+Amazon.com Privacy Notice
 
 **Last updated: March 3, 2014.** To see what has changed, click here.
 
