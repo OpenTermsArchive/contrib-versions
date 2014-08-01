@@ -1,4 +1,4 @@
-See all alerts (alert-count more) Kindle for Windows 8 Legal Notices
+Kindle for Windows 8 Legal Notices
 
 These are the Kindle for Windows 8 Legal Notices.
 
