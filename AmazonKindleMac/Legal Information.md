@@ -1,4 +1,4 @@
-See all alerts (alert-count more) Kindle for Mac Legal Notices
+Kindle for Mac Legal Notices
 
 This page covers the legal notices for Kindle for Mac.
 
