@@ -1,4 +1,4 @@
-See all alerts (alert-count more) Amazon App Suite Legal Notices
+Amazon App Suite Legal Notices
 
 **A. INTELLECTUAL PROPERTY NOTICES**
 
