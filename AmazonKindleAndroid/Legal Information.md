@@ -1,4 +1,4 @@
-See all alerts (alert-count more) Kindle for Android Legal Notices A. INTELLECTUAL PROPERTY NOTICES
+Kindle for Android Legal Notices A. INTELLECTUAL PROPERTY NOTICES
 
 1\. Patent Notices
 
