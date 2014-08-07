@@ -4,12 +4,9 @@ Your complete guide to the 2012 Summer Olympics. Every minute. Every Medal. Ever
 
 Your XFINITY Connect session has timed out due to inactivity. Click here to go back close
 
-*   Skip to content
-*   Skip Logo Links
 *   XFINITY
 *   XFINITY
 
-*   Skip Navigation Links
 *   Shop
 *   Shop/Upgrade
 *   Shop/Upgrade
@@ -19,7 +16,6 @@ Your XFINITY Connect session has timed out due to inactivity. Click here to go b
 *   Support
 *   xfinity.com
 
-*   Skip Personal Links
 *   TV
 *   Email
 *   Sign In
@@ -42,7 +38,7 @@ More
 *   Comcast Business
 *   Comcast Business
 
-Â  Â  Â  XFINITY Privacy Policy This is an archived privacy policy. It is not current. For the current policy, please click here. Privacy Policy Archive (Previous Versions) **Effective October 7, 2011 Learn More**Web Services Privacy Policy  
+Â  XFINITY Privacy Policy This is an archived privacy policy. It is not current. For the current policy, please click here. Privacy Policy Archive (Previous Versions) **Effective October 7, 2011 Learn More**Web Services Privacy Policy  
 October 7, 2011 Summary (Jump to Full Policy) What the Privacy Policy does
 
 The Web Services Privacy Policy describes the information Comcast collects about you, how Comcast uses that information, and how Comcast protects your privacy when you use the Websites and the services and software we offer here: www.comcast.net, customer.comcast.com, www.tunerfish.com, and www.plaxo.com.
@@ -330,9 +326,8 @@ You can find customer support and help information at http://customer.comcast.co
 
 Revised and Effective: October 7, 2011
 
-Skip Footer Navigation Links XFINITY
+XFINITY
 
-*   Skip XFINITY Links
 *   Dating
 *   Entertainment
 *   Games
@@ -342,9 +337,8 @@ Skip Footer Navigation Links XFINITY
 *   Travel
 *   XFINITY Toolbar
 
-Â  XFINITY TV
+XFINITY TV
 
-*   Skip XFINITY TV Links
 *   Mobile Apps
 *   Parental Controls
 *   Watchlist
@@ -354,9 +348,8 @@ Skip Footer Navigation Links XFINITY
 *   XFINITY On Demandâ¢
 *   Send to TV BETA
 
-Â  XFINITY CONNECT
+XFINITY CONNECT
 
-*   Skip XFINITY CONNECT Links
 *   Address Book
 *   Calendar
 *   Create New Email Address
@@ -365,9 +358,8 @@ Skip Footer Navigation Links XFINITY
 *   Preferences
 *   Voicemail
 
-Â  XFINITY HOME
+XFINITY HOME
 
-*   Skip XFINITY HOME Links
 *   Shop Services
 *   Equipment Store
 *   Subscriber Web Portal
@@ -375,9 +367,8 @@ Skip Footer Navigation Links XFINITY
 *   Help &. Support
 *   Customer Forums
 
-Â  ADD A CHANNEL
+ADD A CHANNEL
 
-*   Skip ADD A CHANNEL Links
 *   HBO
 *   Showtime
 *   Starz
@@ -385,9 +376,8 @@ Skip Footer Navigation Links XFINITY
 *   Streampix
 *   View All
 
-Â  SUPPORT &. SERVICES
+SUPPORT &. SERVICES
 
-*   Skip SUPPORT &. SERVICES Links
 *   Comcast Business
 *   Comcast Careers
 *   Mover's Edge
@@ -397,9 +387,8 @@ Skip Footer Navigation Links XFINITY
 *   Support
 *   Refer-A-Friend
 
-Â  XFINITY Â© 2014 Comcast
+XFINITY Â© 2014 Comcast
 
-*   Skip Copyright Links
 *   Privacy Policy
 *   Ad Choices
 *   Terms of Service
@@ -407,4 +396,4 @@ Skip Footer Navigation Links XFINITY
 *   Comcast Corporation
 *   Contact Us
 
-Comcast Â  Â
+Comcast
