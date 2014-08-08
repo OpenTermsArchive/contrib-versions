@@ -125,11 +125,7 @@ We are constantly innovating to improve our Services, which means we may create 
 
 LinkedIn is a dynamic, innovative environment, which means we are always seeking to improve the services we offer you. We often introduce new features, some of which may result in the collection of new information (for example, when the Endorsements feature launched, we began collecting information about skills for which Members were endorsed and the individuals who endorsed them). Furthermore, new partnerships or corporate acquisitions may result in new features, and we may potentially collect new types of information.
 
-Back to Top 2. How we use your personal information
-
-At LinkedIn, we take pride in our mantra of “Members first,” which means that above all else we strive to use your information to provide you world-class services in a professional and trustworthy manner.
-
-2.1. Consent to LinkedIn Processing Information About You
+Back to Top 2. How we use your personal information 2.1. Consent to LinkedIn Processing Information About You
 
 When you join LinkedIn, you acknowledge that information you provide on your profile can be seen by others and used by us as described in this Privacy Policy and our User Agreement.
 
