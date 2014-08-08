@@ -8,57 +8,75 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Thanks~
-    *   by juneorca
-    *   1 day ago
+*   Please restore my data
+    *   by iNkoFGoD
+    *   10 hours ago
     *   in Data Migration
     *   0 votes
     *   0
-*   I CANT FIND MY BLOG!
-    *   by mattmcdonald
-    *   1 day ago
+*   I need my old blog back
+    *   by OJillaThrillafromManila
+    *   10 hours ago
     *   in Data Migration
     *   0 votes
     *   0
-*   I want my xanga page back
-    *   by tangcheese\_520
-    *   1 day ago
-    *   in Data Migration
+*   How to see old posts
+    *   \[Resolved\] by SparklinEyez509
+    *   3 days ago
+    *   in Themes
     *   0 votes
-    *   0
+    *   1 (last comment by eugenia 13 hours ago)
 *   i can't find my blog...
     *   \[Resolved\] by juniper6782
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by juniper6782 1 day ago)
-*   How to see old posts
-    *   by SparklinEyez509
+    *   3 (last comment by eugenia 13 hours ago)
+*   I want my xanga page back
+    *   \[Resolved\] by tangcheese\_520
     *   2 days ago
-    *   in Themes
+    *   in Data Migration
     *   0 votes
-    *   0
+    *   1 (last comment by eugenia 13 hours ago)
+*   I CANT FIND MY BLOG!
+    *   \[Resolved\] by mattmcdonald
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 13 hours ago)
+*   Thanks~
+    *   \[Resolved\] by juneorca
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 13 hours ago)
+*   I can't find my blog
+    *   \[Resolved\] by apr9\_to\_forever
+    *   20 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 13 hours ago)
 *   Trouble signing in
     *   \[Resolved\] by t\_francis84
-    *   2 days ago
+    *   3 days ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   My blog is gone
     *   \[Resolved\] by nazukeoya
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Retrieve my old blogs
     *   \[Resolved\] by Ling\_allow
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Availability of old posts from users who didn't meet migration criteria
     *   by allbetsareoff29
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -67,37 +85,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   1 (last comment by eugenia 6 days ago)
 *   I want my old post back
     *   \[Resolved\] by cm\_secretdiary
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   1 (last comment by eugenia 6 days ago)
 *   How can I resume my account &. start writing?
     *   \[Resolved\] by catusting
     *   3 months ago
     *   in Themes
     *   0 votes
-    *   3 (last comment by eugenia 5 days ago)
-*   Expiring Accounts
-    *   \[Resolved\] by SoullFire
-    *   5 months ago
-    *   in Miscellaenous
-    *   0 votes
-    *   3 (last comment by eugenia 5 days ago)
-*   cannot udpated my xanag
-    *   by Aki\_CHEUNG
-    *   3 weeks ago
-    *   in Themes
-    *   0 votes
-    *   3 (last comment by eugenia 5 days ago)
-*   How to get back the data / upgrade to xanga 2.0?
-    *   \[Resolved\] by risho
-    *   6 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   3 (last comment by eugenia 6 days ago)
 
 1 2 3 ... 133 Next
 
