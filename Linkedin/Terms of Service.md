@@ -331,6 +331,30 @@ Back to Top How To Contact Us
 
 If you have questions or comments about this User Agreement, please contact us online or by physical mail at:
 
-For Members in the United States: LinkedIn Corporation Attn: User Agreement Issues 2029 Stierlin Court Mountain View, CA 94043 USA For Members outside the United States: LinkedIn Ireland Attn: User Agreement Issues Gardner House, Wilton Place, Wilton Plaza, Dublin 2 Ireland Back to Top
+For Members in the United States:
+
+LinkedIn Corporation
+
+Attn: User Agreement Issues
+
+2029 Stierlin Court
+
+Mountain View CA 94043
+
+USA
+
+For Members outside the United States:
+
+LinkedIn Ireland
+
+Attn: User Agreement Issues
+
+Gardner House, Wilton Place,
+
+Wilton Plaza Dublin 2 94043
+
+Ireland
+
+Back to Top
 
 LinkedIn Corporation, Mountain View, California, USA, and LinkedIn Ireland, Dublin, Ireland, March 26, 2014
