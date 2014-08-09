@@ -1,50 +1,52 @@
-Hi Menu
+Hi,
 
 *   My Alibaba
     *   Message Center
-    *   My favorites
+    *   My Favorites
     *   Buy
     *   Post Buying Requests
     *   Manage Buying Requests
     *   Manage Orders
     *   Sell
-    *   Display new products
+    *   Display New Products
     *   Manage Products
     *   Received RFQs
+
 *   For Buyers
+    *   Source Products &. Suppliers
+    *   By Category
+    *   Get Quotations
+    *   Wholesale Checkout
+    *   Trade Services
+    *   AliPrimeBuyer
+    *   Escrow Service
+    *   e-Credit Line
+    *   Inspection Service
+    *   Community
     *   Trade Intelligence
     *   Discussion Forums
-    
-    *   AliSourcePro
-    *   Escrow Service
-    *   Inspection Service
-    *   Customs Data
-    
-    *   Download Trademanager
-*   For Sellers
+    *   Trade Answers
+*   For Suppliers
     *   Supplier Memberships
     *   Learning Center
     *   Training Center
     
     *   AliSourcePro
     *   Customs Data
-    
-    *   Download Trademanager
 *   Help
     *   Help Center
+    *   New User Guide
     *   How to Buy
     *   How to Sell
-    *   Safety &. Security Center
-    *   Contact US
-    *   Submit a complaint
-    *   Report IPR infringement
-*   Mobile
-    *   For buyers
-    *   For suppliers
+    *   Suggestions
+    *   Contact Us
+    *   Submit a Complaint
+    *   Report IPR Infringement
+*   Safety &. Security
 
 *   About Alibaba Group
 
-Alibaba.com or Post Buying Request Save 40% off your time to get quotes
+Alibaba.com Categories Get Quotations Save 40% off your time to get quotes
 
 Post Buying Request Advanced Search
 
@@ -148,7 +150,8 @@ If you are a user from Mainland China, please send us your comments and response
 
 Browse by:Manufacturers - Online Shopping - China Gold Suppliers - All Products - Countries - Importers - Customs Data - Buying Requests - China - India
 
-Alibaba Group | Alibaba.com International | Alibaba.com China | AliExpress | Taobao Marketplace | Tmall.com | Juhuasuan | eTao | Alimama | Taobao Travel | Xiami | Alibaba Cloud Computing | YunOS | HiChina | Alipay | Laiwang
+Alibaba Group | Alibaba.com International | Alibaba.com China | AliExpress | Taobao Marketplace | Tmall.com | Juhuasuan | eTao | Alimama  
+| Taobao Travel | Xiami | Alibaba Cloud Computing | YunOS | AliTelecom | HiChina | Alipay | Laiwang
 
   
 
