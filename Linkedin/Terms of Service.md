@@ -1,3 +1,7 @@
+LinkedIn LinkedIn Pulse SlideShare
+
+SlideShare, a content sharing platform, and LinkedIn Pulse, a news reading application, are part of the LinkedIn family.
+
 User Agreement
 
 Welcome, and thanks for using LinkedIn.com, SlideShare.net, Pulse and/or other LinkedIn services and apps! When you use our products and services, you're agreeing to our terms, so please take a few minutes to read over the User Agreement below.
