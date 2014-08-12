@@ -446,7 +446,28 @@ ATTACHMENT B **ADDITIONAL SERVICES TERMS**
 If you subscribe to any of the following services ("Additional Services"), the terms and conditions below apply to your use of the service(s) in addition to the terms of the Agreement.  
   
 
-1.  **EMAIL AND EMAIL MESSAGING SERVICE.**  
+1.  **VERIZON ONLINE BACKUP &. STORAGE ("STORAGE SERVICES").**  
+      
+    1.  If Storage Services are made available as a feature of the Service, you agree that you are solely responsible for all content you store on or retrieve from such services. Additional terms and conditions applicable to Storage Services are posted on the Website and are incorporated herein by reference. You understand that we do not provide telephone technical support for Storage Services. Storage Services may be accessed from any suitable Internet connection.
+      
+      
+    4.  If you breach this Agreement, we reserve the right immediately to suspend or terminate your Service and/or an Additional Service(s) with or without notice. In such case, you agree that we may immediately delete all data, files, and other content stored on your Storage Services, including archived data, without further notice to you. It is your responsibility to remove or copy any content stored on the Storage Services prior to closure of your account. otherwise, it may be lost.
+      
+      
+    7.  Verizon reserves the right to access your Storage Service account at any time with or without prior notice to you and to disable access to or remove content which in our sole discretion is or reasonably could be deemed unlawful.
+      
+      
+    10.  Use Requirements for Free Storage Services Accounts ("Free Account"). If you sign up for a Free Account, you must actively use it. To "actively use" your account means to upload, download, backup or restore content to it. In the event you do not use your Free Account for a period of sixty (60) calendar days or more, then Verizon reserves the right to cancel your Free Account. We will provide notice of cancellation by email to your Primary Email Address. Use of your Free Account within fourteen (14) calendar days of the date of your cancellation notice will prevent cancellation of your Free Account. **It is your responsibility to remove or copy any content in your Free Account prior to cancellation or termination. otherwise, it will be lost. Verizon may, at its election, also delete archived data.**
+      
+      
+    13.  **Inactivity Disconnect Policy. If your Storage Service is idle for fifteen (15) minutes, it will be subject to automatic log-off. Your Storage Service will be deemed to be idle if there appears to be no interactive, human-generated data received from the remote user's computer within a fifteen (15) minute period. Your Storage Service will not be subject to automatic log-off if you are accessing your account from a wireless device.**
+      
+      
+    16.  Verizon Online Backup &. Sharing is provided by DigiData Corporation, which is a third party beneficiary of this Agreement capable of enforcing its terms independently from Verizon.
+      
+      
+    
+2.  **EMAIL AND EMAIL MESSAGING SERVICE.**  
       
     
     1.  **Email Service.** Use of Verizon email service is subject to Verizon's email and anti-spam policies, which include important information about limitations on use of the email service such as the storage capacity and deletion of stored messages. More information is available at on the Website and these email policies are incorporated herein by reference.  
@@ -464,7 +485,7 @@ If you subscribe to any of the following services ("Additional Services"), the t
     
       
     
-2.  **VERIZON INTERNET SECURITY SUITE ("VISS").**  
+3.  **VERIZON INTERNET SECURITY SUITE ("VISS").**  
       
     
     1.  VISS by Radialpoint.  
@@ -502,7 +523,7 @@ If you subscribe to any of the following services ("Additional Services"), the t
     
       
     
-3.  **VERIZON GAMES ON DEMAND.** Verizon Games on Demand are manufactured by Exent Technologies, Inc., which is a third party beneficiary of this Agreement capable of enforcing its terms independently from Verizon. Verizon Games on Demand are not available for purchase at this time.  
+4.  **VERIZON GAMES ON DEMAND.** Verizon Games on Demand are manufactured by Exent Technologies, Inc., which is a third party beneficiary of this Agreement capable of enforcing its terms independently from Verizon. Verizon Games on Demand are not available for purchase at this time.  
       
     
 
