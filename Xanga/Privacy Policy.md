@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   There is barely anything left on my account
+    *   by hugme\_please
+    *   9 hours ago
+    *   in Themes
+    *   0 votes
+    *   0
 *   Footprints Feature
     *   by nEyn
-    *   11 hours ago
+    *   1 day ago
     *   in Miscellaenous
     *   0 votes
-    *   0
-*   I want my old posts back please!
-    *   by ana\_trexia
-    *   13 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   get back all the post
-    *   by si\_wui
-    *   17 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Account Status
-    *   by JohnRunge316
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by MaskedWriter 1 day ago)
-*   please restore my important memory
-    *   by kwan19900125
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   I want my old posts back
-    *   by NCM246
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Please Restore my data too
-    *   by estoy\_viva\_y\_feliz85
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
+    *   1 (last comment by eugenia 13 hours ago)
 *   Can i get my old xanga back?
-    *   by Trusty\_Kathy
-    *   3 days ago
+    *   \[Resolved\] by Trusty\_Kathy
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   0
+    *   1 (last comment by eugenia 13 hours ago)
+*   Please Restore my data too
+    *   \[Resolved\] by estoy\_viva\_y\_feliz85
+    *   4 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 13 hours ago)
+*   I want my old posts back
+    *   \[Resolved\] by NCM246
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 13 hours ago)
+*   please restore my important memory
+    *   \[Resolved\] by kwan19900125
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 13 hours ago)
+*   Account Status
+    *   \[Resolved\] by JohnRunge316
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   3 (last comment by eugenia 13 hours ago)
+*   get back all the post
+    *   \[Resolved\] by si\_wui
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 13 hours ago)
+*   I want my old posts back please!
+    *   \[Resolved\] by ana\_trexia
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 13 hours ago)
 *   Please restore my data
     *   \[Resolved\] by iNkoFGoD
+    *   6 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 5 days ago)
+*   Data archive
+    *   \[Resolved\] by OTTER\_\_\_\_BABE
     *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
-*   Data archive
-    *   \[Resolved\] by OTTER\_\_\_\_BABE
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
+    *   1 (last comment by eugenia 5 days ago)
 *   I want my old posts back
     *   \[Resolved\] by tszyan2007
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
+    *   1 (last comment by eugenia 5 days ago)
 *   How to see old posts
     *   \[Resolved\] by SparklinEyez509
     *   1 week ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   1 (last comment by eugenia 6 days ago)
 *   i can't find my blog...
     *   \[Resolved\] by juniper6782
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by eugenia 5 days ago)
+    *   3 (last comment by eugenia 6 days ago)
 *   I want my xanga page back
     *   \[Resolved\] by tangcheese\_520
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
-*   I CANT FIND MY BLOG!
-    *   \[Resolved\] by mattmcdonald
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   1 (last comment by eugenia 6 days ago)
 
 1 2 3 ... 134 Next
 
