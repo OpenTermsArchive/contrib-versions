@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Activate Account
+    *   by judyrutrider
+    *   13 hours ago
+    *   in Getting Started
+    *   0 votes
+    *   0
+*   Missing Username/Email/Data Migration
+    *   by CourtneyInKansas
+    *   18 hours ago
+    *   in Usernames
+    *   0 votes
+    *   0
 *   Please restore my data :)
     *   by Jesus\_soso
-    *   5 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   my archive
     *   by mamisoserious
-    *   5 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Availability of old posts from users who didn't meet migration criteria
     *   by allbetsareoff29
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by allbetsareoff29 2 days ago)
+    *   1 (last comment by allbetsareoff29 3 days ago)
 *   I couldnt find the link for downloading the archive
     *   \[Resolved\] by I\_SUB\_JAN
     *   8 months ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by monkuguy 2 days ago)
+    *   2 (last comment by monkuguy 3 days ago)
 *   how to upgrade to xanga 2.0?
     *   \[Resolved\] by diannahatesyou
     *   9 months ago
     *   in Getting Started
     *   0 votes
-    *   6 (last comment by monkuguy 2 days ago)
+    *   6 (last comment by monkuguy 3 days ago)
 *   Old blogs
     *   by nickpluserall
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   There is barely anything left on my account
     *   by hugme\_please
-    *   4 days ago
+    *   5 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Footprints Feature
     *   by nEyn
-    *   5 days ago
+    *   6 days ago
     *   in Miscellaenous
     *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
+    *   1 (last comment by eugenia 5 days ago)
 *   Can i get my old xanga back?
     *   \[Resolved\] by Trusty\_Kathy
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
+    *   1 (last comment by eugenia 5 days ago)
 *   Please Restore my data too
     *   \[Resolved\] by estoy\_viva\_y\_feliz85
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
+    *   1 (last comment by eugenia 5 days ago)
 *   I want my old posts back
     *   \[Resolved\] by NCM246
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
+    *   1 (last comment by eugenia 5 days ago)
 *   please restore my important memory
     *   \[Resolved\] by kwan19900125
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
+    *   1 (last comment by eugenia 5 days ago)
 *   Account Status
     *   \[Resolved\] by JohnRunge316
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by eugenia 4 days ago)
-*   get back all the post
-    *   \[Resolved\] by si\_wui
-    *   5 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
-*   I want my old posts back please!
-    *   \[Resolved\] by ana\_trexia
-    *   5 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
+    *   3 (last comment by eugenia 5 days ago)
 
 1 2 3 ... 134 Next
 
