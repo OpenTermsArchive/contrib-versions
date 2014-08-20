@@ -482,7 +482,7 @@ Customer will remain liable to Skype for all charges related to Skype Products u
 **18.1** In addition to this Agreement, You, Your Administrators and Managed Account Users have to comply with the following Additional Terms when using the Skype Software, the Skype Products and the Skype Website. We expect You to read and comply with (and ensure that Your Administrators and Managed Account Users read and comply with) these Additional Terms carefully, all of which are made part of this Agreement:
 
 *   The Skype Etiquette http://www.skype.com/en/legal/etiquette provides guidelines to treat properly and respectfully the other members of Skype’s community;
-*   If You want to use the Skype API, then You will need to comply with the Skype API Terms of Use at https://developer.skype.com/accessories/terms ;
+*   If You want to use the Skype API, then You will need to comply with the Skype API Terms of Use at http://www.skype.com/en/legal/developer-tou/accessories-terms/ ;
 
 **18.2** If You wish to do anything that is not permitted under this Agreement or by one of the above Additional Terms, You will have to obtain Skype’s prior written consent and explicitly agree upon any further terms.
 
