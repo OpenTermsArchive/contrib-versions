@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Imported archive but pre 2006 posts in foreign language cannot show
-    *   \[Resolved\] by Cora\_Tsang
-    *   2 months ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by Cora\_Tsang 2 hours ago)
-*   Getting back my old information
-    *   by Lady\_Scarlett
-    *   9 hours ago
+*   Data Migration
+    *   by Y\_Yumi\_love
+    *   17 hours ago
     *   in Data Migration
     *   0 votes
     *   0
-*   Retrieve my old blogs
-    *   \[Resolved\] by Ling\_allow
-    *   3 days ago
+*   where are my Videos?
+    *   by tobemine77
+    *   20 hours ago
+    *   in Pictures
+    *   0 votes
+    *   0
+*   Still not entirely sure
+    *   by BrokenAndEmptee
+    *   22 hours ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by Lady\_Scarlett 9 hours ago)
-*   Migration and old blog posts
-    *   by PVFireNIce
-    *   13 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by Lady\_Scarlett 9 hours ago)
+    *   0
 *   Deleting My Account
     *   \[Resolved\] by Omgwtf\_St
     *   11 months ago
     *   in Miscellaenous
     *   0 votes
-    *   44 (last comment by eugenia 1 day ago)
-*   Pls Retrieve my old blogs!!
-    *   \[Resolved\] by city\_of\_love
-    *   2 days ago
+    *   45 (last comment by ptrpn 22 hours ago)
+*   Imported archive but pre 2006 posts in foreign language cannot show
+    *   \[Resolved\] by Cora\_Tsang
+    *   2 months ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   Please help to restore my past posts!
-    *   \[Resolved\] by puddinglovescupcake
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   Join Xanga 2.0
-    *   \[Resolved\] by nshamim
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   I don't know if I met criteria or not.
-    *   \[Resolved\] by Ravenstalons
+    *   2 (last comment by Cora\_Tsang 1 day ago)
+*   Getting back my old information
+    *   by Lady\_Scarlett
     *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   0
+*   Retrieve my old blogs
+    *   \[Resolved\] by Ling\_allow
+    *   4 days ago
+    *   in Data Migration
+    *   0 votes
+    *   4 (last comment by Lady\_Scarlett 1 day ago)
+*   Migration and old blog posts
+    *   by PVFireNIce
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by Lady\_Scarlett 1 day ago)
+*   Pls Retrieve my old blogs!!
+    *   \[Resolved\] by city\_of\_love
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 2 days ago)
+*   Please help to restore my past posts!
+    *   \[Resolved\] by puddinglovescupcake
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 2 days ago)
+*   Join Xanga 2.0
+    *   \[Resolved\] by nshamim
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 2 days ago)
+*   I don't know if I met criteria or not.
+    *   \[Resolved\] by Ravenstalons
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 2 days ago)
 *   Missing Username/Email/Data Migration
     *   \[Resolved\] by CourtneyInKansas
-    *   4 days ago
+    *   5 days ago
     *   in Usernames
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   Don't think I met criteria, but would like archives back
     *   \[Resolved\] by xlido\_strawberreex
     *   9 months ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by xlido\_strawberreex 2 days ago)
+    *   4 (last comment by xlido\_strawberreex 3 days ago)
 *   Activate Account
     *   \[Resolved\] by judyrutrider
-    *   4 days ago
+    *   5 days ago
     *   in Getting Started
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
-*   lost email
-    *   \[Resolved\] by SacredPowerOfRagingWinds
-    *   3 days ago
-    *   in Passwords &. Sign-In
-    *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
-*   Could you please restore my data?
-    *   \[Resolved\] by xx\_SUMMeRLovIN
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
-*   Please restore my data :)
-    *   by Jesus\_soso
-    *   5 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
+    *   1 (last comment by eugenia 4 days ago)
 
 1 2 3 ... 135 Next
 
