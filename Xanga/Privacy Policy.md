@@ -8,21 +8,33 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   lost videos
+    *   by ahas\_bulletin
+    *   5 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Data Migration
+    *   by unconsciousroute
+    *   22 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Data Migration
     *   by Y\_Yumi\_love
-    *   17 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   where are my Videos?
     *   by tobemine77
-    *   20 hours ago
+    *   1 day ago
     *   in Pictures
     *   0 votes
     *   0
 *   Still not entirely sure
     *   by BrokenAndEmptee
-    *   22 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -31,73 +43,61 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   11 months ago
     *   in Miscellaenous
     *   0 votes
-    *   45 (last comment by ptrpn 22 hours ago)
+    *   45 (last comment by ptrpn 1 day ago)
 *   Imported archive but pre 2006 posts in foreign language cannot show
     *   \[Resolved\] by Cora\_Tsang
     *   2 months ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by Cora\_Tsang 1 day ago)
+    *   2 (last comment by Cora\_Tsang 2 days ago)
 *   Getting back my old information
     *   by Lady\_Scarlett
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve my old blogs
     *   \[Resolved\] by Ling\_allow
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by Lady\_Scarlett 1 day ago)
+    *   4 (last comment by Lady\_Scarlett 2 days ago)
 *   Migration and old blog posts
     *   by PVFireNIce
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by Lady\_Scarlett 1 day ago)
-*   Pls Retrieve my old blogs!!
-    *   \[Resolved\] by city\_of\_love
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
-*   Please help to restore my past posts!
-    *   \[Resolved\] by puddinglovescupcake
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
-*   Join Xanga 2.0
-    *   \[Resolved\] by nshamim
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
-*   I don't know if I met criteria or not.
-    *   \[Resolved\] by Ravenstalons
     *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
-*   Missing Username/Email/Data Migration
-    *   \[Resolved\] by CourtneyInKansas
-    *   5 days ago
-    *   in Usernames
-    *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
-*   Don't think I met criteria, but would like archives back
-    *   \[Resolved\] by xlido\_strawberreex
-    *   9 months ago
+    *   1 (last comment by Lady\_Scarlett 2 days ago)
+*   Pls Retrieve my old blogs!!
+    *   \[Resolved\] by city\_of\_love
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by xlido\_strawberreex 3 days ago)
-*   Activate Account
-    *   \[Resolved\] by judyrutrider
-    *   5 days ago
-    *   in Getting Started
+    *   1 (last comment by eugenia 3 days ago)
+*   Please help to restore my past posts!
+    *   \[Resolved\] by puddinglovescupcake
+    *   4 days ago
+    *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
+    *   1 (last comment by eugenia 3 days ago)
+*   Join Xanga 2.0
+    *   \[Resolved\] by nshamim
+    *   4 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 3 days ago)
+*   I don't know if I met criteria or not.
+    *   \[Resolved\] by Ravenstalons
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 3 days ago)
+*   Missing Username/Email/Data Migration
+    *   \[Resolved\] by CourtneyInKansas
+    *   6 days ago
+    *   in Usernames
+    *   0 votes
+    *   1 (last comment by eugenia 3 days ago)
 
 1 2 3 ... 135 Next
 
