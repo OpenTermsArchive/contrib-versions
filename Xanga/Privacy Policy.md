@@ -10,43 +10,43 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   I couldnt find the link for download the archive
     *   by tingchun\_0312
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data Migration
     *   by arbao0327
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   lost videos
     *   by ahas\_bulletin
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data Migration
     *   by unconsciousroute
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data Migration
     *   by Y\_Yumi\_love
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   where are my Videos?
     *   by tobemine77
-    *   3 days ago
+    *   4 days ago
     *   in Pictures
     *   0 votes
     *   0
 *   Still not entirely sure
     *   by BrokenAndEmptee
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -55,16 +55,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   11 months ago
     *   in Miscellaenous
     *   0 votes
-    *   45 (last comment by ptrpn 3 days ago)
+    *   45 (last comment by ptrpn 4 days ago)
 *   Imported archive but pre 2006 posts in foreign language cannot show
     *   \[Resolved\] by Cora\_Tsang
     *   2 months ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by Cora\_Tsang 4 days ago)
+    *   2 (last comment by Cora\_Tsang 5 days ago)
 *   Getting back my old information
     *   by Lady\_Scarlett
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -73,31 +73,31 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by Lady\_Scarlett 4 days ago)
+    *   4 (last comment by Lady\_Scarlett 5 days ago)
 *   Migration and old blog posts
     *   by PVFireNIce
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Lady\_Scarlett 4 days ago)
+    *   1 (last comment by Lady\_Scarlett 5 days ago)
 *   Pls Retrieve my old blogs!!
     *   \[Resolved\] by city\_of\_love
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   1 (last comment by eugenia 6 days ago)
 *   Please help to restore my past posts!
     *   \[Resolved\] by puddinglovescupcake
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   1 (last comment by eugenia 6 days ago)
 *   Join Xanga 2.0
     *   \[Resolved\] by nshamim
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   1 (last comment by eugenia 6 days ago)
 
 1 2 3 ... 135 Next
 
