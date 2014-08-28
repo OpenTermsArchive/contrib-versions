@@ -38,8 +38,6 @@ General Terms and Conditions for the use of XING Jobs - framework agreements, sp
 
 General Terms and Conditions for the use of XING Projects
 
-General Terms and Conditions for the use of XING applications
-
 General Terms and Conditions for the use of XING Enterprise Groups
 
 General Terms and Conditions for the use of the AdCreator
