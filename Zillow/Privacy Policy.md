@@ -25,6 +25,7 @@ Skip to contentZillow Real Estate &amp. Homes for Sale
     
     *   Apartments For Rent
     *   Houses For Rent
+    *   All Rental Listings
     
     Renter's Guide
     
@@ -156,12 +157,11 @@ Skip to contentZillow Real Estate &amp. Homes for Sale
     
     Widgets, Badges &. Data
     
-    Zillow Mobile Apps
+    Mobile
     
     Help
     
 
-*   Advertise
 *   Sign InorJoin
 *   ?
 
