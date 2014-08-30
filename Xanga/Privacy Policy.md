@@ -8,57 +8,69 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   i want my old blogs
+    *   by HaNgiNg\_by\_theMoment
+    *   10 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Lost Email
+    *   by carpediem4jesus
+    *   14 hours ago
+    *   in Passwords &. Sign-In
+    *   0 votes
+    *   0
 *   i can sign in but.....all previous blogs missing
     *   by ken\_water\_yi
-    *   11 hours ago
+    *   1 day ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Not meeting requirements
     *   by teenah02
-    *   15 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I couldnt find the link for download the archive
     *   by tingchun\_0312
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data Migration
     *   by arbao0327
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   lost videos
     *   by ahas\_bulletin
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data Migration
     *   by unconsciousroute
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data Migration
     *   by Y\_Yumi\_love
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   where are my Videos?
     *   by tobemine77
-    *   5 days ago
+    *   6 days ago
     *   in Pictures
     *   0 votes
     *   0
 *   Still not entirely sure
     *   by BrokenAndEmptee
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -67,16 +79,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   11 months ago
     *   in Miscellaenous
     *   0 votes
-    *   45 (last comment by ptrpn 5 days ago)
+    *   45 (last comment by ptrpn 6 days ago)
 *   Imported archive but pre 2006 posts in foreign language cannot show
     *   \[Resolved\] by Cora\_Tsang
     *   2 months ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by Cora\_Tsang 6 days ago)
+    *   2 (last comment by Cora\_Tsang 1 week ago)
 *   Getting back my old information
     *   by Lady\_Scarlett
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -85,19 +97,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by Lady\_Scarlett 6 days ago)
-*   Migration and old blog posts
-    *   by PVFireNIce
-    *   6 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by Lady\_Scarlett 6 days ago)
-*   Pls Retrieve my old blogs!!
-    *   \[Resolved\] by city\_of\_love
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
+    *   4 (last comment by Lady\_Scarlett 1 week ago)
 
 1 2 3 ... 135 Next
 
