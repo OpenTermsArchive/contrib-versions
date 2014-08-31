@@ -8,98 +8,98 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Question about my old xangas
+    *   by smilezx3
+    *   5 hours ago
+    *   in Premium
+    *   0 votes
+    *   0
+*   Confused about 2.0
+    *   by GlimpseofTranquility
+    *   5 hours ago
+    *   in Themes
+    *   0 votes
+    *   0
+*   Missing Old Blogs
+    *   by XP\_Saturn
+    *   6 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Cannot import my files into Wordpress
+    *   by g0Lden\_divinity
+    *   8 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Blogging and finding other blogs
+    *   by canaznftsh44
+    *   20 hours ago
+    *   in Personal URLs
+    *   0 votes
+    *   0
 *   i want my old blogs
     *   by HaNgiNg\_by\_theMoment
-    *   10 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Lost Email
     *   by carpediem4jesus
-    *   14 hours ago
+    *   1 day ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   i can sign in but.....all previous blogs missing
     *   by ken\_water\_yi
-    *   1 day ago
+    *   2 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Not meeting requirements
     *   by teenah02
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I couldnt find the link for download the archive
     *   by tingchun\_0312
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data Migration
     *   by arbao0327
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   lost videos
     *   by ahas\_bulletin
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data Migration
     *   by unconsciousroute
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data Migration
     *   by Y\_Yumi\_love
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   where are my Videos?
     *   by tobemine77
-    *   6 days ago
+    *   1 week ago
     *   in Pictures
     *   0 votes
     *   0
-*   Still not entirely sure
-    *   by BrokenAndEmptee
-    *   6 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Deleting My Account
-    *   \[Resolved\] by Omgwtf\_St
-    *   11 months ago
-    *   in Miscellaenous
-    *   0 votes
-    *   45 (last comment by ptrpn 6 days ago)
-*   Imported archive but pre 2006 posts in foreign language cannot show
-    *   \[Resolved\] by Cora\_Tsang
-    *   2 months ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by Cora\_Tsang 1 week ago)
-*   Getting back my old information
-    *   by Lady\_Scarlett
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Retrieve my old blogs
-    *   \[Resolved\] by Ling\_allow
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   4 (last comment by Lady\_Scarlett 1 week ago)
 
-1 2 3 ... 135 Next
+1 2 3 ... 136 Next
 
 Help Categories
 
