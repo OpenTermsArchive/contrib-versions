@@ -8,9 +8,15 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Please retrieve my blog
+    *   by supersiuman
+    *   16 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   i can see the old blog messages by dl archives, but I can't read it...
     *   by ivy717
-    *   14 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,81 +25,75 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   11 months ago
     *   in Miscellaenous
     *   0 votes
-    *   46 (last comment by whatafunnygirl 20 hours ago)
+    *   46 (last comment by whatafunnygirl 1 day ago)
 *   Requesting an archive
     *   by changed\_for\_good
-    *   23 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Question about my old xangas
     *   by smilezx3
-    *   1 day ago
+    *   2 days ago
     *   in Premium
     *   0 votes
     *   0
 *   Confused about 2.0
     *   by GlimpseofTranquility
-    *   1 day ago
+    *   2 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Missing Old Blogs
     *   by XP\_Saturn
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Cannot import my files into Wordpress
     *   by g0Lden\_divinity
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Blogging and finding other blogs
     *   by canaznftsh44
-    *   1 day ago
+    *   2 days ago
     *   in Personal URLs
     *   0 votes
     *   0
 *   i want my old blogs
     *   by HaNgiNg\_by\_theMoment
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Lost Email
     *   by carpediem4jesus
-    *   2 days ago
+    *   3 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   i can sign in but.....all previous blogs missing
     *   by ken\_water\_yi
-    *   3 days ago
+    *   4 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Not meeting requirements
     *   by teenah02
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I couldnt find the link for download the archive
     *   by tingchun\_0312
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data Migration
     *   by arbao0327
-    *   6 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   lost videos
-    *   by ahas\_bulletin
     *   1 week ago
     *   in Data Migration
     *   0 votes
