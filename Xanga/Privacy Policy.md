@@ -8,15 +8,45 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   "We aren't showing any blog archives saved for this page."
+    *   by ines\_holloway
+    *   12 minutes ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   "We aren't showing any blog archives saved for this page."
+    *   by ines\_holloway
+    *   12 minutes ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Please restore archives of my two old Xanga sites?
+    *   by ai\_wo\_ba
+    *   20 minutes ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   paid in June
+    *   by mag\_1
+    *   11 hours ago
+    *   in Premium
+    *   0 votes
+    *   0
+*   Downloading an Archive of my Xanga
+    *   by xchris101
+    *   14 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Please retrieve my blog
     *   by supersiuman
-    *   16 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   i can see the old blog messages by dl archives, but I can't read it...
     *   by ivy717
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -25,76 +55,46 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   11 months ago
     *   in Miscellaenous
     *   0 votes
-    *   46 (last comment by whatafunnygirl 1 day ago)
+    *   46 (last comment by whatafunnygirl 2 days ago)
 *   Requesting an archive
     *   by changed\_for\_good
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Question about my old xangas
     *   by smilezx3
-    *   2 days ago
+    *   3 days ago
     *   in Premium
     *   0 votes
     *   0
 *   Confused about 2.0
     *   by GlimpseofTranquility
-    *   2 days ago
+    *   3 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Missing Old Blogs
     *   by XP\_Saturn
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Cannot import my files into Wordpress
     *   by g0Lden\_divinity
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Blogging and finding other blogs
     *   by canaznftsh44
-    *   2 days ago
+    *   3 days ago
     *   in Personal URLs
     *   0 votes
     *   0
 *   i want my old blogs
     *   by HaNgiNg\_by\_theMoment
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Lost Email
-    *   by carpediem4jesus
-    *   3 days ago
-    *   in Passwords &. Sign-In
-    *   0 votes
-    *   0
-*   i can sign in but.....all previous blogs missing
-    *   by ken\_water\_yi
     *   4 days ago
-    *   in Adding &. Editing Entries
-    *   0 votes
-    *   0
-*   Not meeting requirements
-    *   by teenah02
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   I couldnt find the link for download the archive
-    *   by tingchun\_0312
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Data Migration
-    *   by arbao0327
-    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
