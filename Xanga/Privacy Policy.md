@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   "We aren't showing any blog archives saved for this page."
-    *   by ines\_holloway
-    *   12 minutes ago
+*   Availability of old posts from users who didn't meet migration criteria
+    *   by allbetsareoff29
+    *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   "We aren't showing any blog archives saved for this page."
-    *   by ines\_holloway
-    *   12 minutes ago
+    *   2 (last comment by allbetsareoff29 56 minutes ago)
+*   There is barely anything left on my account
+    *   \[Resolved\] by hugme\_please
+    *   3 weeks ago
+    *   in Themes
+    *   0 votes
+    *   1 (last comment by eugenia 9 hours ago)
+*   Old blogs
+    *   \[Resolved\] by nickpluserall
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   Please restore archives of my two old Xanga sites?
-    *   by ai\_wo\_ba
-    *   20 minutes ago
+    *   1 (last comment by eugenia 9 hours ago)
+*   my archive
+    *   \[Resolved\] by mamisoserious
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   paid in June
-    *   by mag\_1
-    *   11 hours ago
-    *   in Premium
-    *   0 votes
-    *   0
-*   Downloading an Archive of my Xanga
-    *   by xchris101
-    *   14 hours ago
+    *   1 (last comment by eugenia 9 hours ago)
+*   Please restore my data :)
+    *   \[Resolved\] by Jesus\_soso
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   0
+    *   1 (last comment by eugenia 9 hours ago)
+*   Requesting an archive
+    *   \[Resolved\] by changed\_for\_good
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 9 hours ago)
 *   Please retrieve my blog
-    *   by supersiuman
+    *   \[Resolved\] by supersiuman
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 9 hours ago)
+*   Downloading an Archive of my Xanga
+    *   \[Resolved\] by xchris101
     *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   i can see the old blog messages by dl archives, but I can't read it...
-    *   by ivy717
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Deleting My Account
-    *   \[Resolved\] by Omgwtf\_St
-    *   11 months ago
-    *   in Miscellaenous
-    *   0 votes
-    *   46 (last comment by whatafunnygirl 2 days ago)
-*   Requesting an archive
-    *   by changed\_for\_good
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Question about my old xangas
-    *   by smilezx3
-    *   3 days ago
+    *   1 (last comment by eugenia 9 hours ago)
+*   paid in June
+    *   \[Resolved\] by mag\_1
+    *   1 day ago
     *   in Premium
     *   0 votes
-    *   0
+    *   1 (last comment by eugenia 9 hours ago)
+*   Please restore archives of my two old Xanga sites?
+    *   by ai\_wo\_ba
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 9 hours ago)
+*   "We aren't showing any blog archives saved for this page."
+    *   \[Resolved\] by ines\_holloway
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 9 hours ago)
+*   Question about my old xangas
+    *   \[Resolved\] by smilezx3
+    *   4 days ago
+    *   in Premium
+    *   0 votes
+    *   1 (last comment by eugenia 9 hours ago)
 *   Confused about 2.0
-    *   by GlimpseofTranquility
-    *   3 days ago
+    *   \[Resolved\] by GlimpseofTranquility
+    *   4 days ago
     *   in Themes
     *   0 votes
-    *   0
+    *   1 (last comment by eugenia 9 hours ago)
 *   Missing Old Blogs
-    *   by XP\_Saturn
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Cannot import my files into Wordpress
-    *   by g0Lden\_divinity
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Blogging and finding other blogs
-    *   by canaznftsh44
-    *   3 days ago
-    *   in Personal URLs
-    *   0 votes
-    *   0
-*   i want my old blogs
-    *   by HaNgiNg\_by\_theMoment
+    *   \[Resolved\] by XP\_Saturn
     *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   0
+    *   1 (last comment by eugenia 9 hours ago)
+*   Cannot import my files into Wordpress
+    *   \[Resolved\] by g0Lden\_divinity
+    *   4 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 10 hours ago)
 
 1 2 3 ... 136 Next
 
