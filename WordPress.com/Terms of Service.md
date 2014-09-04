@@ -6,7 +6,7 @@ You can check our page on types of blogs to get a sense of the types of sites th
 
 If you find a WordPress.com site that you believe violates our terms of service, please visit our dispute resolution &. reporting page.
 
-(Note, we’ve decided to make the below Terms of Service available under a **Creative Commons Sharealike** license, which means you’re more than welcome to steal it and repurpose it for your own use, just make sure to replace references to us with ones to you, and if you want we’d appreciate a link to WordPress.com somewhere on your site. We spent a lot of money and time on the below, and other people shouldn’t need to do the same.)
+(Note, we’ve decided to make the below Terms of Service available under a Creative Commons Sharealike license, which means you’re more than welcome to steal it and repurpose it for your own use, just make sure to replace references to us with ones to you, and if you don’t mind we’d appreciate a link to WordPress.com somewhere on your site. We spent a lot of money and time on the below, and other people shouldn’t need to do the same.)
 
 Terms of Service:
 
@@ -65,16 +65,17 @@ Please read this Agreement carefully before accessing or using the Website. By a
 
 **Change log:**
 
-July 7, 2009: Added “not pornographic” to paragraph 2 “Responsibility of Contributors”.  
-December 18, 2010: Added automatic renewal section to paragraph 3 “Payment and Renewal”.  
-February 1, 2011: Clarified procedure regarding termination of repeat infringers in paragraph 7.  
-April 27, 2011: Added “Advertisements” paragraph to clarify our ad policy (http://en.support.wordpress.com/advertising/).  
-May 17, 2011: Added “Friends of WordPress.com Themes” paragraph.  
-September 9, 2011: Added “Domain Names” paragraph.  
-October 17, 2011: Added “Firehose” paragraph.  
-March 6, 2012: Clarified definition of Website with addition of “Jetpack by WordPress.com”.  
-April 6, 2012: Added “Attribution” paragraph to clarify our attribution policy.  
-November 12, 2012: Replaced VIP Services terms and conditions with cross references to VIP Hosting/Support and VIP Support services terms and conditions, located at vip.wordpress.com. removed “towards individuals or entities” from prohibition against threats of violence in Section 2.  
-June 12, 2013: Edited “Attribution” paragraph to specify that footer credits and the WordPress.com toolbar may not be altered.  
-July 3, 2014: Elaborated on licensing with regards to Firehose, clarified our impersonation policy, added reblogging language, and removed our right to unilaterally change the Terms of Service.  
-July 15, 2014: Added “Translation” section.
+*   July 7, 2009: Added “not pornographic” to paragraph 2 “Responsibility of Contributors”.
+*   December 18, 2010: Added automatic renewal section to paragraph 3 “Payment and Renewal”.
+*   February 1, 2011: Clarified procedure regarding termination of repeat infringers in paragraph 7.
+*   April 27, 2011: Added “Advertisements” paragraph to clarify our ad policy.
+*   May 17, 2011: Added “Friends of WordPress.com Themes” paragraph.
+*   September 9, 2011: Added “Domain Names” paragraph.
+*   October 17, 2011: Added “Firehose” paragraph.
+*   March 6, 2012: Clarified definition of Website with addition of “Jetpack by WordPress.com”.
+*   April 6, 2012: Added “Attribution” paragraph to clarify our attribution policy.
+*   November 12, 2012: Replaced VIP Services terms and conditions with cross references to VIP Hosting/Support and VIP Support services terms and conditions, located at vip.wordpress.com. removed “towards individuals or entities” from prohibition against threats of violence in Section 2.
+*   June 12, 2013: Edited “Attribution” paragraph to specify that footer credits and the WordPress.com toolbar may not be altered.
+*   July 3, 2014: Elaborated on licensing with regards to Firehose, clarified our impersonation policy, added reblogging language, and removed our right to unilaterally change the Terms of Service.
+*   July 15, 2014: Added “Translation” section.
+*   September 2, 2014: Removed old non-retina Creative Commons graphic, added a link instead. Made this list bullets. Linked ad policy in April 27 changelog bullet.
