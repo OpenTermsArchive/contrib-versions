@@ -1,6 +1,6 @@
 Terms of Service
 
-These Terms of Service ("**Terms**") govern your access to and use of the services, including our various websites, SMS, APIs, email notifications, applications, buttons, and widgets, (the "**Services**" or “**Twitter**”), and any information, text, graphics, photos or other materials uploaded, downloaded or appearing on the Services (collectively referred to as "**Content**"). Your access to and use of the Services are conditioned on your acceptance of and compliance with these Terms. By accessing or using the Services you agree to be bound by these Terms.
+These Terms of Service ("**Terms**") govern your access to and use of the services, including our various websites, SMS, APIs, email notifications, applications, buttons, widgets, ads, and commerce services (the "**Services**" or “**Twitter**”), and any information, text, graphics, photos or other materials uploaded, downloaded or appearing on the Services (collectively referred to as "**Content**"). Your access to and use of the Services are conditioned on your acceptance of and compliance with these Terms. By accessing or using the Services you agree to be bound by these Terms.
 
 1\. Basic Terms
 
@@ -63,6 +63,8 @@ Tip Twitter does not disclose personally identifying information to third partie
 Except as permitted through the Services, these Terms, or the terms provided on dev.twitter.com, you have to use the Twitter API if you want to reproduce, modify, create derivative works, distribute, sell, transfer, publicly display, publicly perform, transmit, or otherwise use the Content or Services.
 
 Tip We encourage and permit broad re-use of Content. The Twitter API exists to enable this.
+
+If you use commerce features of the Services that require credit or debit card information, such as our Buy Now feature, you agree to our Twitter Commerce Terms.
 
 You may not do any of the following while accessing or using the Services: (i) access, tamper with, or use non-public areas of the Services, Twitter’s computer systems, or the technical delivery systems of Twitter’s providers. (ii) probe, scan, or test the vulnerability of any system or network or breach or circumvent any security or authentication measures. (iii) access or search or attempt to access or search the Services by any means (automated or otherwise) other than through our currently available, published interfaces that are provided by Twitter (and only pursuant to those terms and conditions), unless you have been specifically allowed to do so in a separate agreement with Twitter (NOTE: crawling the Services is permissible if done in accordance with the provisions of the robots.txt file, however, scraping the Services without the prior consent of Twitter is expressly prohibited). (iv) forge any TCP/IP packet header or any part of the header information in any email or posting, or in any way use the Services to send altered, deceptive or false source-identifying information. or (v) interfere with, or disrupt, (or attempt to do so), the access of any user, host or network, including, without limitation, sending a virus, overloading, flooding, spamming, mail-bombing the Services, or by scripting the creation of Content in such a manner as to interfere with or create an undue burden on the Services.
 
@@ -129,6 +131,6 @@ We may revise these Terms from time to time, the most current version will alway
 
 These Services are operated and provided by Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103. If you have any questions about these Terms, please contact us.
 
-_Effective: June 25, 2012_
+_Effective: September 8, 2014_
 
 Archive of Previous Terms
