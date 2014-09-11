@@ -130,7 +130,7 @@ User Content:
 
 *   be obscene, hateful, inflammatory, threatening, harassing, sexually explicit or deceptive or fraudulent in anyway;
 *   promote violence or discrimination, promote or endorse any illegal activity or otherwise be objectionable;
-*   be defamatory or an invasion of an individuals right to privacy;
+*   be defamatory or an invasion of an individual?s right to privacy;
 *   infringe the intellectual property or other rights of any third party, including copyrights, trade marks, database rights, any rights of confidentiality or any similar rights;
 *   attempt to or purport to impersonate any person or misrepresent your identity, affiliation or connection to any other person;
 *   include hyperlinks or connections to third party websites;
@@ -221,7 +221,7 @@ Redemption Items may have particular restrictions, or be consumed or extinguishe
 
 We may at any time decide to end part of or the entirety of the RuneScape Bond program. Before we delete the unused RuneScape Bond, we will endeavour to contact you to give you at least four weeks to redeem it.
 
-If your account for a Jagex Product remains dormant (i.e. is not used) for more than 12 months, and there is unredeemed Virtual Currency, Micro-Game Credits or RuneScape Bonds associated with your account, we may choose to credit your account with Items of equivalent value for this expired Virtual Currency, Micro-Game Credits or RuneScape Bonds.  We will endeavour to contact you by email prior to such action being taken.
+If your account for a Jagex Product remains dormant (i.e. is not used) for more than 12 months, and there is unredeemed Virtual Currency, Micro-Game Credits or RuneScape Bonds associated with your account, we may choose to credit your account with Items of equivalent value for this expired Virtual Currency, Micro-Game Credits or RuneScape Bonds.? We will endeavour to contact you by email prior to such action being taken.
 
 15\. Refund policy
 
@@ -269,7 +269,7 @@ YOU WILL BE LIABLE FOR ANY LOSS OR DAMAGE WE SUFFER ARISING FROM YOUR BREACH OF 
 
 20\. General
 
-These terms and conditions and any document incorporated by reference constitute the entire agreement between the parties with respect to its subject matter and supersedes any previous terms and conditions between the parties in relation to such matters. The limitations, exclusions and restrictions in these terms and conditions shall inure to the benefit of Jagexs licensors, successor and assigns. Nothing in these terms and conditions affects your statutory rights as a consumer. Headings above are for guidance only and not binding. If we fail to enforce any provision of these terms and conditions, that failure will not preclude us from enforcing either that provision (or any similar provision) on a later occasion. If any provision of these terms and conditions is found by a court to be invalid, we agree that the court should endeavour to give effect to the parties' intentions as reflected in the provision and that other provisions remain in full force and effect. We may transfer all or part of our rights or duties under this agreement provided we take reasonable steps to ensure that your rights under this agreement are not prejudiced. As this agreement is personal to you, you may not transfer any of your rights or duties under it without our prior written consent. A person who is not a party to this agreement shall have no rights to enforce any term of this agreement. These terms and conditions are governed by English law and any dispute connected with them or Jagex Products will be decided only by the courts of England.
+These terms and conditions and any document incorporated by reference constitute the entire agreement between the parties with respect to its subject matter and supersedes any previous terms and conditions between the parties in relation to such matters. The limitations, exclusions and restrictions in these terms and conditions shall inure to the benefit of Jagex?s licensors, successor and assigns. Nothing in these terms and conditions affects your statutory rights as a consumer. Headings above are for guidance only and not binding. If we fail to enforce any provision of these terms and conditions, that failure will not preclude us from enforcing either that provision (or any similar provision) on a later occasion. If any provision of these terms and conditions is found by a court to be invalid, we agree that the court should endeavour to give effect to the parties' intentions as reflected in the provision and that other provisions remain in full force and effect. We may transfer all or part of our rights or duties under this agreement provided we take reasonable steps to ensure that your rights under this agreement are not prejudiced. As this agreement is personal to you, you may not transfer any of your rights or duties under it without our prior written consent. A person who is not a party to this agreement shall have no rights to enforce any term of this agreement. These terms and conditions are governed by English law and any dispute connected with them or Jagex Products will be decided only by the courts of England.
 
 21\. Complaints
 
@@ -409,7 +409,7 @@ User Content:
 
 *   be obscene, hateful, inflammatory, threatening, harassing, sexually explicit or deceptive or fraudulent in anyway;
 *   promote violence or discrimination, promote or endorse any illegal activity or otherwise be objectionable;
-*   be defamatory or an invasion of an individuals right to privacy;
+*   be defamatory or an invasion of an individual?s right to privacy;
 *   infringe the intellectual property or other rights of any third party, including copyrights, trade marks, database rights, any rights of confidentiality or any similar rights;
 *   attempt to or purport to impersonate any person or misrepresent your identity, affiliation or connection to any other person;
 *   include hyperlinks or connections to third party websites;
@@ -500,7 +500,7 @@ Redemption Items may have particular restrictions, or be consumed or extinguishe
 
 We may at any time decide to end part of or the entirety of the RuneScape Bond program. Before we delete the unused RuneScape Bond, we will endeavour to contact you to give you at least four weeks to redeem it.
 
-If your account for a Jagex Product remains dormant (i.e. is not used) for more than 12 months, and there is unredeemed Virtual Currency, Micro-Game Credits or RuneScape Bonds associated with your account, we may choose to credit your account with Items of equivalent value for this expired Virtual Currency, Micro-Game Credits or RuneScape Bonds.  We will endeavour to contact you by email prior to such action being taken.
+If your account for a Jagex Product remains dormant (i.e. is not used) for more than 12 months, and there is unredeemed Virtual Currency, Micro-Game Credits or RuneScape Bonds associated with your account, we may choose to credit your account with Items of equivalent value for this expired Virtual Currency, Micro-Game Credits or RuneScape Bonds.? We will endeavour to contact you by email prior to such action being taken.
 
 15\. Refund policy
 
@@ -548,7 +548,7 @@ YOU WILL BE LIABLE FOR ANY LOSS OR DAMAGE WE SUFFER ARISING FROM YOUR BREACH OF 
 
 20\. General
 
-These terms and conditions and any document incorporated by reference constitute the entire agreement between the parties with respect to its subject matter and supersedes any previous terms and conditions between the parties in relation to such matters. The limitations, exclusions and restrictions in these terms and conditions shall inure to the benefit of Jagexs licensors, successor and assigns. Nothing in these terms and conditions affects your statutory rights as a consumer. Headings above are for guidance only and not binding. If we fail to enforce any provision of these terms and conditions, that failure will not preclude us from enforcing either that provision (or any similar provision) on a later occasion. If any provision of these terms and conditions is found by a court to be invalid, we agree that the court should endeavour to give effect to the parties' intentions as reflected in the provision and that other provisions remain in full force and effect. We may transfer all or part of our rights or duties under this agreement provided we take reasonable steps to ensure that your rights under this agreement are not prejudiced. As this agreement is personal to you, you may not transfer any of your rights or duties under it without our prior written consent. A person who is not a party to this agreement shall have no rights to enforce any term of this agreement. These terms and conditions are governed by English law and any dispute connected with them or Jagex Products will be decided only by the courts of England.
+These terms and conditions and any document incorporated by reference constitute the entire agreement between the parties with respect to its subject matter and supersedes any previous terms and conditions between the parties in relation to such matters. The limitations, exclusions and restrictions in these terms and conditions shall inure to the benefit of Jagex?s licensors, successor and assigns. Nothing in these terms and conditions affects your statutory rights as a consumer. Headings above are for guidance only and not binding. If we fail to enforce any provision of these terms and conditions, that failure will not preclude us from enforcing either that provision (or any similar provision) on a later occasion. If any provision of these terms and conditions is found by a court to be invalid, we agree that the court should endeavour to give effect to the parties' intentions as reflected in the provision and that other provisions remain in full force and effect. We may transfer all or part of our rights or duties under this agreement provided we take reasonable steps to ensure that your rights under this agreement are not prejudiced. As this agreement is personal to you, you may not transfer any of your rights or duties under it without our prior written consent. A person who is not a party to this agreement shall have no rights to enforce any term of this agreement. These terms and conditions are governed by English law and any dispute connected with them or Jagex Products will be decided only by the courts of England.
 
 21\. Complaints
 
