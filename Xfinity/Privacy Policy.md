@@ -1,9 +1,3 @@
-Come here often? Make XFINITY.com your homepage Â» close
-
-Your complete guide to the 2012 Summer Olympics. Every minute. Every Medal. Every Screen. Go Now close
-
-Your XFINITY Connect session has timed out due to inactivity. Click here to go back close
-
 *   XFINITY
 *   XFINITY
 
