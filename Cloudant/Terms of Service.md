@@ -12,11 +12,11 @@ You may not use the Hosting Services and may not accept these Terms of Service i
 
 Copy for Records
 
-Before you continue, you should print or save a local copy of these Terms of Service for your records.
+Before you continue, you should print or save a local copy of these Terms of Service for your record.
 
 Definitions
 
-"_Availability_ _Credit_" means the remedy Cloudant will provide for a validated claim. The Availability Credit will be applied in the form of a credit or discount against a future invoice of subscription charges for the Hosting Services.
+"_Availability Credit_" means the remedy Cloudant will provide for a validated claim. The Availability Credit will be applied in the form of a credit or discount against a future invoice of subscription charges for the Hosting Services.
 
 "_Derived Data_" means all indices and calculations derived from the Primary Data and stored on the Hosting Platform.
 
@@ -24,14 +24,12 @@ Definitions
 
 "_Hosting Platform_" means Cloudant’s data hosting platform currently known as “Cloudant,” which includes Cloudant software and certain third-party software, and any updated versions of such platform made available by Cloudant.
 
-“_Hosting Services”_ means the data hosting services for Subscriber Data that Cloudant provides through the Hosting Platform.
+“_Hosting Services_” means the data hosting services for Subscriber Data that Cloudant provides through the Hosting Platform.
 
-  
 "_Primary Data_" means any and all information that Cloudant receives from Subscriber and hosts in connection with these Terms of Service as an application service provider in whatever form or medium, in connection with the Hosting Services.
 
-“_Service_ _Level_” means the standard set forth below by which Cloudant measures the level of service it provides in these Terms of Service.
+“_Service Level_” means the standard set forth below by which Cloudant measures the level of service it provides in these Terms of Service.
 
-  
 "_Subscriber Data_" means the Primary Data and the Derived Data, collectively.
 
 License. Limits on Use Limited License
@@ -42,23 +40,23 @@ Limits on Use of Hosting Platform
 
 Subscriber shall not and shall not assist others to:
 
-· use the Hosting Platform to operate a service bureau or otherwise support data storage, indexing, coding, and retention processes of third parties;
-
-· create or enable the creation of derivative works, modifications, or adaptations of the Hosting Platform;
-
-· attempt to recompile, reverse engineer, or disassemble the Hosting Platform;
-
-· distribute or disclose the Hosting Platform to third parties including, but not limited to, by means of display;
-
-· remove or modify any proprietary marking or restrictive legends placed on the Hosting Platform;
-
-· use any robot, spider, other automatic device or program or manual process to copy or reproduce the Hosting Platform;
-
-· interfere with the functionality of the Hosting Platform by (i) uploading, storing, emailing, posting, linking, transmitting, distributing, publishing or otherwise disseminating any material that contains software viruses, Trojan horses, worms, time bombs, or any other computer code, file or program designed to interrupt, destroy or limit the functionality of the Hosting Platform. (ii) disrupting the normal flow of the Hosting Platform, causing a screen to scroll faster than it can be usable or acting in a manner that limits other user’s use of the Hosting Platform. (iii) otherwise modifying the Hosting Platform or interfering or attempting to interfere with the proper operation of the Hosting Platform or the use of the Hosting Platform by third parties, including through the use of any device, software or routine. or (iv) using the Hosting Platform to disrupt the servers or networks connected to the web servers with respect to the Hosting Platform;
-
-· upload, store, post, email, transmit, distribute, publish or otherwise disseminate on or through the Hosting Platform (i) any information that is unlawful, harmful, threatening, abusive, harassing, tortuous, defamatory, vulgar, obscene, libelous or racially or ethnically objectionable, or promotes such activity. (ii) any unauthorized advertising, junk mail, spam, chain letters, or any other form of solicitation. or (iii) any information or content that, to the best of Subscriber's knowledge, infringes any patent, trademark, trade secret, or other proprietary rights or any contractual rights of any Party. or
-
-· violate (intentionally or unintentionally) any applicable local, state, national, or international law or regulation, including, but not limited to, laws regarding the transmission through the Hosting Platform of technical data or software exported from the United States and/or the countries in which the Subscriber resides, and all local laws and regulations regarding online conduct and acceptable content.
+*   use the Hosting Platform to operate a service bureau or otherwise support data storage, indexing, coding, and retention processes of third parties;
+  
+*   create or enable the creation of derivative works, modifications, or adaptations of the Hosting Platform;
+  
+*   attempt to recompile, reverse engineer, or disassemble the Hosting Platform;
+  
+*   distribute or disclose the Hosting Platform to third parties including, but not limited to, by means of display;
+  
+*   remove or modify any proprietary marking or restrictive legends placed on the Hosting Platform;
+  
+*   use any robot, spider, other automatic device or program or manual process to copy or reproduce the Hosting Platform;
+  
+*   interfere with the functionality of the Hosting Platform by (i) uploading, storing, emailing, posting, linking, transmitting, distributing, publishing or otherwise disseminating any material that contains software viruses, Trojan horses, worms, time bombs, or any other computer code, file or program designed to interrupt, destroy or limit the functionality of the Hosting Platform. (ii) disrupting the normal flow of the Hosting Platform, causing a screen to scroll faster than it can be usable or acting in a manner that limits other user’s use of the Hosting Platform. (iii) otherwise modifying the Hosting Platform or interfering or attempting to interfere with the proper operation of the Hosting Platform or the use of the Hosting Platform by third parties, including through the use of any device, software or routine. or (iv) using the Hosting Platform to disrupt the servers or networks connected to the web servers with respect to the Hosting Platform;
+  
+*   upload, store, post, email, transmit, distribute, publish or otherwise disseminate on or through the Hosting Platform (i) any information that is unlawful, harmful, threatening, abusive, harassing, tortuous, defamatory, vulgar, obscene, libelous or racially or ethnically objectionable, or promotes such activity. (ii) any unauthorized advertising, junk mail, spam, chain letters, or any other form of solicitation. or (iii) any information or content that, to the best of Subscriber's knowledge, infringes any patent, trademark, trade secret, or other proprietary rights or any contractual rights of any Party. or
+  
+*   violate (intentionally or unintentionally) any applicable local, state, national, or international law or regulation, including, but not limited to, laws regarding the transmission through the Hosting Platform of technical data or software exported from the United States and/or the countries in which the Subscriber resides, and all local laws and regulations regarding online conduct and acceptable content.
 
 Sign-In Name. Password. Unique Identifiers
 
@@ -102,8 +100,7 @@ Where:
 2.  Failure of the Subscriber’s equipment
 3.  Act or omission of the Subscriber
 4.  Scheduled Maintenance as described below
-5.  Emergency Maintenance as described below
-6.  Region-wide failure at Amazon Web Services (“AWS”) (using the AWS service dashboard as indicator)
+5.  Region-wide failure at Amazon Web Services (“AWS”) (using the AWS service dashboard as indicator)
 
 Availability
 
@@ -118,13 +115,13 @@ Cloudant may temporarily limit or suspend the availability of all or part of the
 
 Availability Credits
 
-1\. In order to be eligible to receive a credit, you must submit your claim for an Availability Credit no later than two (2) weeks after the end of the contracted month that is the subject of the claim. You must provide all necessary detailed information about the Event, including but not limited to detailed descriptions of all relevant Events and the Service Level claimed not to have been met. You must also reasonably assist Cloudant with the diagnosis and resolution of the Event to the extent required.
-
-2\. Cloudant will then conduct an internal investigation within three (3) business days after receipt of such claim and will measure Availability. For each valid claim, Cloudant will apply the highest applicable Availability Credit based on the achieved Service Level during each contracted month, as shown on the table below. Cloudant will not be liable for multiple Availability Credits for the same Event(s) in the same contracted month.
-
-3\. Cloudant will use its reasonable judgment to validate claims based on information available in Cloudant's records, which will prevail in the event of a conflict with data in your records.
-
-4\. THE AVAILABILITY CREDITS PROVIDED TO YOU IN ACCORDANCE WITH THIS SLA ARE YOUR SOLE AND EXCLUSIVE REMEDY WITH RESPECT TO ANY CLAIM.
+1.  In order to be eligible to receive a credit, you must submit your claim for an Availability Credit no later than two (2) weeks after the end of the contracted month that is the subject of the claim. You must provide all necessary detailed information about the Event, including but not limited to detailed descriptions of all relevant Events and the Service Level claimed not to have been met. You must also reasonably assist Cloudant with the diagnosis and resolution of the Event to the extent required.
+  
+3.  Cloudant will then conduct an internal investigation within three (3) business days after receipt of such claim and will measure Availability. For each valid claim, Cloudant will apply the highest applicable Availability Credit based on the achieved Service Level during each contracted month, as shown on the table below. Cloudant will not be liable for multiple Availability Credits for the same Event(s) in the same contracted month.
+  
+5.  Cloudant will use its reasonable judgment to validate claims based on information available in Cloudant's records, which will prevail in the event of a conflict with data in your records.
+  
+7.  THE AVAILABILITY CREDITS PROVIDED TO YOU IN ACCORDANCE WITH THIS SLA ARE YOUR SOLE AND EXCLUSIVE REMEDY WITH RESPECT TO ANY CLAIM.
 
 Achieved Service Level
 
@@ -164,7 +161,7 @@ Customer receives standard support which includes best available support during 
 
 Subscriber has the option, but not the obligation, to upgrade its standard customer support plan (“Support Services") to Gold Support, which shall be billed as set forth in the applicable Order Form.
 
-**Gold Support offers** twenty-four (24) hour, seven (7) days a week service and support, which includes: less than one (1) hour response to email tickets and access to support staff by Instant Messaging, Internet Relay Chat, and phone. Gold plan also includes two (2) hours a month of Integration Consulting Services.
+**Gold Support** offers twenty-four (24) hour, seven (7) days a week service and support, which includes: less than four (4) hour response to email tickets and access to support staff by Instant Messaging, Internet Relay Chat, and phone. Gold plan also includes two (2) hours a month of Integration Consulting Services.
 
 Confidential Information
 
@@ -176,13 +173,13 @@ The term of the Hosting Services (the "_Term_") will commence upon your acceptan
 
 Termination
 
-Cloudant reserves the right, in its sole discretion, to restrict, suspend, or terminate these Terms of Service and your access to all or any part of the Hosting Services, at any time and for any reason (or no reason) without liability with thirty (30) days prior notice.  
-  
-Subscriber may terminate service at any time upon thirty (30) days written notice. Upon termination, Subscriber will liable for all charges incurred before termination.
+Cloudant reserves the right, in its sole discretion, to restrict, suspend, or terminate these Terms of Service and your access to all or any part of the Hosting Services, at any time and for any reason (or no reason) without liability with thirty (30) days prior notice.
+
+This agreement shall remain in effect for the Initial Term set forth on the Order Form and shall automatically renew for additional one year terms. Subscriber may terminate service at any time upon thirty (30) days written notice after the Initial Term. Upon termination, Subscriber will liable for all charges incurred before termination.
 
 Effect of Termination
 
-At the end of the Term and upon your written request (which may be made by email), Cloudant shall: (i) archive and export to Subscriber in an open format all Primary Data from the Hosting Platform. and (ii) to the extent technically feasible, use commercially reasonable efforts to export to Subscriber any Derived Data in an open format. provided, however, that Subscriber shall pay for any bandwidth costs associated with any such archiving and/or exporting listed under subparagraphs of the "_Subscriber Warranties_" section.
+At the end of the Term and upon your written request (which may be made by email), Cloudant shall: (i) archive and export to Subscriber in an open format all Primary Data from the Hosting Platform. and (ii) to the extent technically feasible, use commercially reasonable efforts to export to Subscriber any Derived Data in an open format. provided, however, that Subscriber shall pay for any bandwidth costs associated with any such archiving and/or exporting listed under subparagraphs of the "Subscriber Warranties" section.
 
 Survival
 
@@ -196,9 +193,9 @@ Subscriber Warranties
 
 Subscriber represents, warrants, and covenants that:
 
-· it shall not interfere with or attempt to interrupt the proper operation of the Hosting Platform through the use of any virus, device, software or routine, or access or attempt to gain access to any non-Subscriber data, files, or passwords related to the Hosting Platform through hacking, password mining, or any other improper means. and
-
-· it is the owner of all Subscriber Data or has full authority to have the Subscriber Data uploaded onto and maintained on the Hosting Platform.
+*   it shall not interfere with or attempt to interrupt the proper operation of the Hosting Platform through the use of any virus, device, software or routine, or access or attempt to gain access to any non-Subscriber data, files, or passwords related to the Hosting Platform through hacking, password mining, or any other improper means. and
+  
+*   it is the owner of all Subscriber Data or has full authority to have the Subscriber Data uploaded onto and maintained on the Hosting Platform.
 
 Cloudant Warranties
 
@@ -214,19 +211,16 @@ In the event of a material error or omission by Cloudant related to the provisio
 
 Limitation of Liability
 
-YOU EXPRESSLY UNDERSTAND AND AGREE THAT CLOUDANT, ITS SUBSIDIARIES, AFFILIATES AND PARENT, SHALL NOT BE LIABLE TO YOU (NOR TO ANY PERSON CLAIMING RIGHTS DERIVED FROM YOU) FOR:
+*   YOU EXPRESSLY UNDERSTAND AND AGREE THAT CLOUDANT, ITS SUBSIDIARIES, AFFILIATES AND PARENT, SHALL NOT BE LIABLE TO YOU (NOR TO ANY PERSON CLAIMING RIGHTS DERIVED FROM YOU) FOR:
+*   ANY CONSEQUENTIAL, PUNITIVE, EXEMPLARY OR INDIRECT DAMAGES OF ANY KIND (OR FOR LOST REVENUES OR PROFITS, LOSS OF USE, LOSS OF, OR DAMAGE TO, DATA, OR LOSS OF GOODWILL OR REPUTATION) WHETHER BASED ON CONTRACT, TORT OR OTHERWISE (INCLUDING NEGLIGENCE AND STRICT LIABILITY) ARISING FROM OR RELATING TO THE HOSTING SERVICES OR OTHERWISE ARISING FROM OR RELATING TO THESE TERMS OF SERVICE OR THE SUBJECT MATTER HEREOF, REGARDLESS OF WHETHER CLOUDANT WAS ADVISED, HAD OTHER REASON TO KNOW, OR IN FACT KNEW OF THE POSSIBILITY THEREOF. OR
+*   ANY LOSS OR DAMAGE WHICH MAY BE INCURRED BY YOU, INCLUDING BUT NOT LIMITED TO LOSS OR DAMAGE AS A RESULT OF:
 
-· ANY CONSEQUENTIAL, PUNITIVE, EXEMPLARY OR INDIRECT DAMAGES OF ANY KIND (OR FOR LOST REVENUES OR PROFITS, LOSS OF USE, LOSS OF, OR DAMAGE TO, DATA, OR LOSS OF GOODWILL OR REPUTATION) WHETHER BASED ON CONTRACT, TORT OR OTHERWISE (INCLUDING NEGLIGENCE AND STRICT LIABILITY) ARISING FROM OR RELATING TO THE HOSTING SERVICES OR OTHERWISE ARISING FROM OR RELATING TO THESE TERMS OF SERVICE OR THE SUBJECT MATTER HEREOF, REGARDLESS OF WHETHER CLOUDANT WAS ADVISED, HAD OTHER REASON TO KNOW, OR IN FACT KNEW OF THE POSSIBILITY THEREOF. OR
+*   ANY CHANGES WHICH CLOUDANT MAY MAKE TO THE HOSTING SERVICES, OR FOR ANY PERMANENT OR TEMPORARY CESSATION IN THE PROVISION OF THE HOSTING SERVICES (OR ANY FEATURES WITHIN THE HOSTING SERVICES);
+*   THE DELETION OF, CORRUPTION OF, OR FAILURE TO STORE, ANY SUBSCRIBER DATA.
+*   YOUR FAILURE TO PROVIDE CLOUDANT WITH ACCURATE ACCOUNT INFORMATION. OR
+*   YOUR FAILURE TO KEEP YOUR PASSWORD OR ACCOUNT DETAILS SECURE AND CONFIDENTIAL.
 
-· ANY LOSS OR DAMAGE WHICH MAY BE INCURRED BY YOU, INCLUDING BUT NOT LIMITED TO LOSS OR DAMAGE AS A RESULT OF:
-
-o ANY CHANGES WHICH CLOUDANT MAY MAKE TO THE HOSTING SERVICES, OR FOR ANY PERMANENT OR TEMPORARY CESSATION IN THE PROVISION OF THE HOSTING SERVICES (OR ANY FEATURES WITHIN THE HOSTING SERVICES);
-
-o THE DELETION OF, CORRUPTION OF, OR FAILURE TO STORE, ANY SUBSCRIBER DATA.
-
-o YOUR FAILURE TO PROVIDE CLOUDANT WITH ACCURATE ACCOUNT INFORMATION. OR
-
-o YOUR FAILURE TO KEEP YOUR PASSWORD OR ACCOUNT DETAILS SECURE AND CONFIDENTIAL.
+  
 
 IN NO EVENT SHALL CLOUDANT’S LIABILITY ARISING FROM OR RELATING TO THE HOSTING SERVICES OR OTHERWISE ARISING UNDER THESE TERMS OF SERVICE, REGARDLESS OF THE CAUSE OF ACTION (WHETHER IN CONTRACT, TORT, BREACH OF WARRANTY, INDEMNITY OR OTHERWISE), EXCEED THE AGGREGATE AMOUNT OF THE FEES PAID TO CLOUDANT BY SUBSCRIBER UNDER THIS AGREEMENT IN THE TWELVE (12) MONTHS IMMEDIATELY PROCEEDING THE DATE THE CLAIM AROSE.
 
