@@ -1,171 +1,121 @@
-Skip to contentZillow Real Estate &amp. Homes for Sale
+Skip to contentZillow Real Estate &amp. Homes for Sale MENU Homes
 
-*   Homes
-    
-    *   Homes For Sale
-    *   Homes For Sale By Owner
-    *   Foreclosures
-    *   Open Houses
-    *   New Homes
-    *   Coming Soon Homes
-    *   Recent Home Sales
-    *   Browse All Homes
-    
-    Post a Home For Free
-    
-    For Sale by Owner
-    
-    For Sale by Agent
-    
-    Coming Soon NEW!
-    
-    Make Me Move
-    
+*   Homes for sale
+    *   *   Homes for sale
+        *   For sale by owner
+        *   Foreclosures
+    *   *   Open houses
+        *   New homes
+        *   Coming soon
+    *   *   Recent home sales
+*   Post a home for sale
+    *   *   For sale by owner
+        *   For sale by agent
+        *   Coming Soon
+    *   *   Make Me Move
+
+Rentals
+
 *   Rentals
-    
-    *   Apartments For Rent
-    *   Houses For Rent
-    *   All Rental Listings
-    
-    Renter's Guide
-    
-    Post a Rental For Free
-    
-*   Mortgages
-    
-    *   Mortgage Rates
-    *   Refinance
-    *   Get Pre-Approved
-    
-    Calculators
-    
-    Mortgage Calculator
-    
-    Refinance Calculator
-    
-    Affordability Calculator
-    
-    See All
-    
-    Resources
-    
-    Mortgage Education Center
-    
-    HARP Program
-    
-    FHA Loan
-    
-    Home Equity Loan
-    
-*   Agents
-    
-    Find Trusted Pros
-    
-    Real Estate Agents
-    
-    Mortgage Lenders
-    
-    Property Managers
-    
-    Home Improvement Pros
-    
-    Review an Agent, Lender or Pro
-    
-    For Agents
-    
-    Real Estate Agent Advertising
-    
-    Join the Agent Directory
-    
-    Access Agent Hub
-    
-    For Rental Pros
-    
-    Real Estate Advertising
-    
-    For Pros
-    
-    Join the Professional Directory
-    
-*   Advice
-    
-    Join Our Discussions
-    
-    Real Estate Forum
-    
-    Mortgage Forum
-    
-    Using Zillow Forum
-    
-    Ask a Question
-    
-    Education Guides
-    
-    Foreclosure Center
-    
-    Mortgage Education Center
-    
-    Buyer's Guide
-    
-    Zillow Help Center
-    
+    *   *   Apartments for rent
+        *   Houses for rent
+        *   All rental listings
+*   Post a rental
+    *   Post a rental listing on the Zillow Rental Network, the largest rental network on the Web.
+        
+        *   Post a rental (It's free)
+
+Mortgages
+
+*   Shop mortgages
+    *   *   Get pre-approved
+        *   Mortgage rates
+*   Refinance
+    *   *   Refinance rates
+        *   HARP program
+*   Calculators
+    *   *   Mortgage calculator
+        *   Affordability calculator
+        *   Refinance calculator
+*   Resources
+    *   *   Mortgage education center
+
+Agents
+
+*   Looking for pros?
+    *   *   Real estate agents
+        *   Mortgage lenders
+        *   Property managers
+    *   *   Home improvement pros
+        *   Other pros
+*   I'm a pro
+    *   *   Agent Advertising
+        *   Join the Agent Directory
+        *   Access agent hub
+    *   *   Rental pro real estate advertising
+        *   Join the Professional Directory
+        *   Brokers and Zillow
+        *   MLS and Zillow
+
+Advice
+
+*   Discussion topics
+    *   *   All topics
+        *   Zillow questions
+        *   Home buying
+    *   *   Home selling
+        *   Mortgage
+        *   Rentals
+    *   *   Local topics
+        *   Home ownership
+        *   Pro-to-pro
+*   Zillow questions
+    *   *   Ask the forum about using Zillow
+
+Local
+
 *   Local
-    
-    Popular
-    
-    Real Estate Market Reports
-    
-    Compare Places
-    
-*   Home Design
-    *   Bathrooms
-    *   Bedrooms
-    *   Gardens
-    *   Kitchens
-    *   Living Rooms
-*   More
-    
-    Guides
-    
-    Foreclosure Center
-    
-    Mortgage Education Center
-    
-    Buyer's Guide
-    
-    Renter's Guide
-    
-    **Blogs**
-    
-    Zillow Blog
-    
-    Zillow Pros Blog
-    
-    Zillow Engineering
-    
-    **More**
-    
-    Real Estate Advertising
-    
-    Advertising Solutions
-    
-    Zillow Visuals
-    
-    Zillow Research
-    
-    Zillow TV Spots
-    
-    Widgets, Badges &. Data
-    
-    Mobile
-    
-    Help
-    
+    *   *   Home values
 
-*   Sign InorJoin
-*   ?
+Home design
 
-Find home values and listings Location: Search
+*   Explore spaces
+    *   *   All spaces
+        *   Bathrooms
+        *   Bedrooms
+    *   *   Dining rooms
+        *   Entryways
+        *   Gardens
+    *   *   Great rooms
+        *   Home offices
+        *   Kitchens
+*   Filter by styles
+    *   *   Contemporary
+        *   Traditional
+        *   Modern
+*   Filter by cost
+    *   *   Budget
+        *   Mid-range
+        *   Luxury
+
+More
+
+*   Guides &. help
+    *   *   Foreclosure Center
+        *   Buyer's Guide
+        *   Renter's Guide
+    *   *   Zillow Help Center
+*   Blogs
+    *   *   Zillow Blog
+        *   Zillow for Pros Blog
+        *   Zillow Engineering Blog
+*   Other
+    *   *   Zillow Research
+        *   Advertising solutions
+        *   Zillow Mobile Apps
+    *   *   Zillow Visuals
+
+Sign in or Join ? Find home values and listings Location: Search
 
 *   Terms of Use
 *   Privacy Policy
