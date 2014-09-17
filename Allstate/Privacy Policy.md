@@ -107,7 +107,7 @@ Text Size
   
   
 
-**Revised May 22, 2014**
+**Revised September 16, 2014**
 
 Thank you for choosing Allstate. We value you, respect your privacy and work hard to protect your personal information.  
   
@@ -184,7 +184,9 @@ The Internet and Your Information Security
 
 Our web sites, allstate.com and miallstate.com, provides information about us, our products, and the agencies and brokers that represent us. You may also perform some transactions on the web site. This Privacy Statement applies to users of allstate.com and miallstate.com, regardless of whether the user is an Allstate customer.  
   
-We use cookies, analytics, remarketing and other technology to help us provide users with a better service and a more customized web experience. Additionally, our business partners use tracking services, analytics and other technologies to monitor visits to allstate.com. The website may also use web beacons (also called "clear GIFs" or "pixel tags") in conjunction with cookies. If you prefer, you can choose to not accept cookies by changing the settings on your web browser. Many commercial Internet sites use cookies. a cookie enables the site to label you as a particular user, but it does not identify you by name or address unless you have provided us with such information (over the Internet or otherwise) or set up preferences in your browser to do so automatically.  
+As true of most sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.  
+  
+We or our third party marketing partners (such as Google Analytics and Adobe Analytics) use cookies, analytics, remarketing and other technology to help us provide users with a better service and a more customized web experience. Additionally, our business partners use tracking services, analytics and other technologies to monitor visits to allstate.com. The website may also use web beacons (also called "clear GIFs" or "pixel tags") in conjunction with cookies. If you prefer, you can choose to not accept cookies by changing the settings on your web browser. Many commercial Internet sites use cookies. a cookie enables the site to label you as a particular user, but it does not identify you by name or address unless you have provided us with such information (over the Internet or otherwise) or set up preferences in your browser to do so automatically.  
   
 You may opt out of accepting cookies by changing the settings on your browser. However, rejecting cookies may prevent you from using certain functions and you may have to repeatedly enter information to take advantage of services or promotions.  
   
@@ -211,6 +213,8 @@ Customer Privacy Inquiries
 P.O. Box 40047  
 Roanoke, VA 24022-0047  
 or email us at customerprivacy@allstate.com  
+  
+If you wish to update, delete inaccuracies, or modify your profile information, you may do so at any time by logging into your account. If you no longer wish to receive certain email communications from us, you may opt-out by following the unsubscribe link located at the bottom of each communication or by contacting us at the e-mail address listed above.
 
 Who Should Use Our Web Site?
 
@@ -241,6 +245,10 @@ Social Media Widgets
 
 Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
+Changes to the Online Privacy Policy
+
+We may modify our privacy policy from time to time. Please take a look at the revised date at the top of this page to see when this Privacy Policy was last revised. Each of our customers receives a copy of our privacy policy annually.
+
 Your Preference for Sharing Personal Information
 
 We would like to share your personal information with one or more Allstate affiliates in order to make you aware of different products, services and offers they can provide. However, you can request that Allstate and its affiliate companies not share your personal information with our affiliates for marketing products and services.  
@@ -267,7 +275,7 @@ If users have questions or concerns regarding this statement, they should first 
 
 Allstate Insurance Company
 
-List of affiliates to which this notice applies: Allstate County Mutual Insurance Company, Allstate Finance Company, Allstate Financial Services, LLC (LSA Securities in LA and PA), Allstate Fire and Casualty Insurance Company, Allstate Indemnity Company, Allstate Investment Management Company, Allstate Life Insurance Company, Allstate Life Insurance Company of New York, Allstate Motor Club, Inc., Allstate New Jersey Insurance Company , Allstate New Jersey Property and Casualty Insurance Company , Allstate Property and Casualty Insurance Company, Allstate Texas Lloyd's, Allstate Texas Lloyd's, Inc., Allstate Vehicle and Property Insurance Company, Deerbrook General Agency, Inc., Deerbrook Insurance Company, Lincoln Benefit Life Company, North Light Specialty Insurance Company, Northbrook Indemnity Company, Please Note: Allstate affiliates American Heritage Life Insurance Company, Castle Key Insurance Company and Castle Key Indemnity Company participate in information sharing with the affiliates listed above, but have a separate privacy notice for their customers.
+List of affiliates to which this notice applies: Allstate County Mutual Insurance Company, Allstate Finance Company, Allstate Financial Services, LLC (LSA Securities in LA and PA), Allstate Fire and Casualty Insurance Company, Allstate Indemnity Company, Allstate Investment Management Company, Allstate Life Insurance Company, Allstate Life Insurance Company of New York, Allstate Motor Club, Inc., Allstate New Jersey Insurance Company , Allstate New Jersey Property and Casualty Insurance Company , Allstate Property and Casualty Insurance Company, Allstate Texas Lloyd's, Allstate Texas Lloyd's, Inc., Allstate Vehicle and Property Insurance Company, Deerbrook General Agency, Inc., Deerbrook Insurance Company, North Light Specialty Insurance Company, Northbrook Indemnity Company, Please Note: Allstate affiliates American Heritage Life Insurance Company, Castle Key Insurance Company and Castle Key Indemnity Company participate in information sharing with the affiliates listed above, but have a separate privacy notice for their customers.
 
 State Specific Information
 
