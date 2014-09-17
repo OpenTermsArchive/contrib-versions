@@ -1,4 +1,4 @@
-There are updates to this page that haven't been applied because you've entered text. Refresh this page to see updates. Hide this message. Quora Quora is the best answer to any question.Sign up in seconds. Remember Me Forgot Password?
+There are updates to this page that haven't been applied because you've entered text. Refresh this page to see updates. Hide this message. Quora Quora is the best answer to any question.Sign up in seconds Remember Me Forgot Password?
 
 Please confirm your email address. Resend Confirmation Link
 
