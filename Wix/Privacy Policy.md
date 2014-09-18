@@ -23,6 +23,19 @@ Sign In Hi, {username}
 
 *   Logout
 
+*   Home
+*   Features
+*   Online Store
+*   Domains
+*   Mailboxes
+
+*   Facebook
+*   Twitter
+*   Google Plus
+*   Youtube
+*   Pinterest
+*   Instagram
+
 Wix.com Wix.com is a leading cloud-based web development platform with millions of users worldwide. We make it simple for everyone to create a beautiful, professional web presence. No creative limits, no coding skills needed to get your business online.
 
 *   Facebook
