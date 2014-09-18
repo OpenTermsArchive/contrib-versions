@@ -366,6 +366,13 @@ Other Important Privacy InformationOther Information
 *   If you have a general privacy question or a question for the Chief Privacy Officer of Microsoft or want to request access to your personal information, please contact us by using our Web form.
     *   By mail: Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052 USA
     *   By Phone: 425-882-8080
+*   Microsoft Ireland Operations Limited is our data protection representative for the European Economic Area and Switzerland. The data protection officer of Microsoft Ireland Operations Limited can be reached at the following address:
+    
+    > Microsoft Ireland Operations, Ltd.  
+    > Attn: Data Protection  
+    > Carmenhall Road  
+    > Sandyford, Dublin 18, Ireland
+    
 *   To find the Microsoft subsidiary in your country or region, see http://www.microsoft.com/worldwide/.
 
 Below you will find additional privacy information you may find important. Much of this describes practices that are common across the industry, but we want make sure you are aware of them. Please keep in mind that this information is not a complete description of our practices - this is all in addition to the other, more specific information contained elsewhere in this privacy statement.
