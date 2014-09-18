@@ -8,87 +8,87 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   i want my old blogs
-    *   \[Resolved\] by HaNgiNg\_by\_theMoment
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by HaNgiNg\_by\_theMoment 44 minutes ago)
 *   help
     *   \[Resolved\] by ving\_hkv
     *   1 week ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by eugenia 6 hours ago)
-*   Restore my blog
-    *   \[Resolved\] by EvilKeith
-    *   6 days ago
+    *   2 (last comment by vava53 9 hours ago)
+*   i want my old blogs
+    *   \[Resolved\] by HaNgiNg\_by\_theMoment
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 6 hours ago)
+    *   2 (last comment by HaNgiNg\_by\_theMoment 1 day ago)
+*   Restore my blog
+    *   \[Resolved\] by EvilKeith
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 1 day ago)
 *   Please retrieve my blog
     *   by YuNg\_TiNg
-    *   7 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Restore my blog
     *   by LikeaSunburn
-    *   23 hours ago
+    *   1 day ago
     *   in Comments
     *   0 votes
     *   0
 *   Paid to be able to edit old blog, but can't...???
     *   by anniemockingbird
-    *   1 day ago
+    *   2 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Please restore all my files!!!
     *   by doy512
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please retrieve my blog
     *   by yui\_s\_james
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please restore my blog
     *   by vicky\_\_nyh
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   please restore my blog!
     *   by ohtragicthoughtsx
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieving a deleted blog
     *   by futureastronaut
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   My Archive/Blog Not Visible
     *   by shaboozey
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please retrieve my blog
     *   by jasonsharon123
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please restore my blog!
     *   by BRiGuY10
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
