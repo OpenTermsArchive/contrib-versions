@@ -97,10 +97,4 @@ Mountain View, CA 94041
 
 March 4, 2014: We added more detail about social networking services, cookies and similar technologies.
 
-                               
-
-*   About
-*   Careers
-*   Privacy
-*   Terms
-*   Sitemap
+                                Sitemap # ABCDEFGHIJKLMNOPQRSTUVWXYZ About - Careers - Privacy - Terms
