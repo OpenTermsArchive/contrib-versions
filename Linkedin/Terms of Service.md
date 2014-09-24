@@ -8,7 +8,7 @@ Welcome, and thanks for using LinkedIn.com, SlideShare.net, Pulse and/or other L
 
 Note: You are entering into a legally binding agreement.
 
-1\. Introduction Last revised on March 26, 2014
+1\. Introduction Last revised on March 19, 2014
 
 We are a social network and online platform for professionals.
 
@@ -361,4 +361,4 @@ Ireland
 
 Back to Top
 
-LinkedIn Corporation, Mountain View, California, USA, and LinkedIn Ireland, Dublin, Ireland, March 26, 2014
+LinkedIn Corporation, Mountain View, California, USA, and LinkedIn Ireland, Dublin, Ireland, March 19, 2014
