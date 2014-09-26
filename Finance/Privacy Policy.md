@@ -55,11 +55,11 @@ Yahoo works with vendors, partners, advertisers, and other service providers in 
 
 Return to top
 
-COOKIES
+COOKIES AND SIMILAR TECHNOLOGIES
 
-Yahoo may set and access Yahoo cookies on your computer.
+Yahoo may set and access Yahoo cookies on your computer. We may also set and access device identifiers which could include IP address, user agent information (browser version, OS type and version), and device provided identifiers. Once you log into Yahoo on your device, Yahoo may recognize your device to provide you with a personalized experience, independent of your device settings. You can control your personalized experience across Yahoo through our Ad Interest Manager. Learn more.
 
-Yahoo lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Yahoo's cookies.
+Yahoo lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies and device identifiers is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Yahoo's cookies.
 
 Yahoo uses web beacons to access Yahoo cookies inside and outside our network of web sites and in connection with Yahoo products and services.
 
@@ -103,6 +103,6 @@ Sunnyvale, CA 94089
 
 If you feel that your inquiry has not been satisfactorily addressed, please click here for information on consumer agencies that may be able to provide you with additional assistance.
 
-Last Updated: January 7, 2013
+Last Updated: September 25, 2014
 
 Return to top
