@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Old Blog Posts
-    *   by EmblemIce3
-    *   1 hour ago
+*   How can I find my blog???
+    *   by CarinCk
+    *   2 hours ago
     *   in Data Migration
     *   0 votes
     *   0
+*   old private blogs
+    *   by starstuddedtalent
+    *   9 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Old Blog Posts
+    *   \[Resolved\] by EmblemIce3
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 9 hours ago)
 *   please find my old blog
     *   \[Resolved\] by xo\_cat
-    *   18 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 10 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   Datingish Blog
     *   \[Resolved\] by hamuda
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 10 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   Is it possible to retrieve my old blog?
     *   \[Resolved\] by LaurenSavesTheWorld
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 10 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   xanga
     *   \[Resolved\] by turkey68
-    *   5 days ago
+    *   6 days ago
     *   in Adding &. Editing Entries
     *   0 votes
-    *   1 (last comment by eugenia 10 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   Request to retrieve a blog
     *   \[Resolved\] by SandyCheung1130
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 10 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   christine\_yan xanga
     *   \[Resolved\] by christine\_yan
+    *   5 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 1 day ago)
+*   nothing is okay
+    *   \[Resolved\] by Juvin\_Akura\_Vynci
     *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 12 hours ago)
-*   nothing is okay
-    *   \[Resolved\] by Juvin\_Akura\_Vynci
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 12 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   lifetime subscription
     *   \[Resolved\] by mlee197231
-    *   2 days ago
+    *   3 days ago
     *   in Miscellaenous
     *   0 votes
-    *   1 (last comment by eugenia 13 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   Deleting My Account
     *   \[Resolved\] by Omgwtf\_St
     *   1 year ago
     *   in Miscellaenous
     *   0 votes
-    *   50 (last comment by hoop\_man 1 day ago)
+    *   50 (last comment by hoop\_man 2 days ago)
 *   Availability of old posts from users who didn't meet migration criteria
     *   \[Resolved\] by allbetsareoff29
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by eugenia 6 days ago)
+    *   3 (last comment by eugenia 1 week ago)
 *   Please retrieve my blog
     *   \[Resolved\] by jasonsharon123
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   My Archive/Blog Not Visible
     *   \[Resolved\] by shaboozey
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
-*   Retrieving a deleted blog
-    *   \[Resolved\] by futureastronaut
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
-*   please restore my blog!
-    *   \[Resolved\] by ohtragicthoughtsx
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 
 1 2 3 ... 138 Next
 
