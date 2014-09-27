@@ -9,77 +9,77 @@ Skip to toolbar
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
 *   How can I find my blog???
-    *   by CarinCk
-    *   2 hours ago
+    *   \[Resolved\] by CarinCk
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   0
+    *   1 (last comment by eugenia 11 hours ago)
 *   old private blogs
-    *   by starstuddedtalent
-    *   9 hours ago
+    *   \[Resolved\] by starstuddedtalent
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   0
+    *   1 (last comment by eugenia 11 hours ago)
 *   Old Blog Posts
     *   \[Resolved\] by EmblemIce3
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 9 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   please find my old blog
     *   \[Resolved\] by xo\_cat
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   Datingish Blog
     *   \[Resolved\] by hamuda
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   Is it possible to retrieve my old blog?
     *   \[Resolved\] by LaurenSavesTheWorld
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   xanga
     *   \[Resolved\] by turkey68
-    *   6 days ago
+    *   1 week ago
     *   in Adding &. Editing Entries
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   Request to retrieve a blog
     *   \[Resolved\] by SandyCheung1130
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   christine\_yan xanga
     *   \[Resolved\] by christine\_yan
+    *   6 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 2 days ago)
+*   nothing is okay
+    *   \[Resolved\] by Juvin\_Akura\_Vynci
     *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   nothing is okay
-    *   \[Resolved\] by Juvin\_Akura\_Vynci
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   lifetime subscription
     *   \[Resolved\] by mlee197231
-    *   3 days ago
+    *   4 days ago
     *   in Miscellaenous
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   Deleting My Account
     *   \[Resolved\] by Omgwtf\_St
     *   1 year ago
     *   in Miscellaenous
     *   0 votes
-    *   50 (last comment by hoop\_man 2 days ago)
+    *   50 (last comment by hoop\_man 3 days ago)
 *   Availability of old posts from users who didn't meet migration criteria
     *   \[Resolved\] by allbetsareoff29
     *   1 month ago
@@ -88,7 +88,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 (last comment by eugenia 1 week ago)
 *   Please retrieve my blog
     *   \[Resolved\] by jasonsharon123
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by eugenia 1 week ago)
