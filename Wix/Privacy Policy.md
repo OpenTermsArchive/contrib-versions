@@ -56,7 +56,6 @@ Wix.com Wix.com is a leading cloud-based web development platform with millions 
 *   App Market
 *   Domains
 *   Flash Templates
-*   Facebook Templates
 *   Developers
 
 *   COMPANY
