@@ -288,7 +288,7 @@ Payment Data is the information that you provide when you make online purchases.
 
 Payment Data is used to complete your transaction, as well as for the detection and prevention of fraud. In support of these uses, Microsoft may share your Payment Data with banks and other entities that process payment transactions or other financial services, and for fraud prevention and credit risk reduction.
 
-When you provide Payment Data while logged in with your Microsoft or organizational account we will store that data to help you complete future transactions. 
+When you provide Payment Data while logged in with your Microsoft or organizational account we will store some of that data to help you complete future transactions. 
 
 You may update or remove the payment instrument information associated with your Microsoft account by logging in at https://commerce.microsoft.com. You may remove the payment instrument information associated with your organizational account by contacting Customer Support. After you close your account or remove a payment instrument, however, Microsoft may retain your payment instrument data for as long as reasonably necessary to complete your existing transaction, to comply with Microsoft’s legal and reporting requirements, and for the detection and prevention of fraud.
 
