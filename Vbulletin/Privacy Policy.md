@@ -196,4 +196,4 @@ This privacy policy covers what information we collect and why we collect it, ho
     
     We may revise this privacy policy from time to time and, if we do, we will update it on this page and modify the "Last Updated" date. If our information practices change in a significant way, you will be provided notice by means of notice on our sites.
     
-    Last Updated: March 21, 2014
+    Last Updated: October 1, 2014
