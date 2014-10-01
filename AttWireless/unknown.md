@@ -743,9 +743,9 @@ In transmitting emergency alerts pursuant to federal law, AT&T, including its of
 
   
 
-******11.0   WHAT TERMS APPLY ONLY TO SPECIFIC STATES?******
+**11.0   WHAT TERMS APPLY ONLY TO SPECIFIC STATES?**
 
-******11.1   California: What If There Are Unauthorized Charges Billed To My Device?******
+**11.1   California: What If There Are Unauthorized Charges Billed To My Device?**
 
 You are not liable for charges you did not authorize, but the fact that a call was placed from your Device is evidence that the call was authorized. Unauthorized charges may include calls made to or from your phone or other Device after it was lost or stolen. Once you report to us that the Device is lost or stolen and your Device is suspended, you will not be responsible for subsequent charges incurred by that Device. You can report your Device as lost or stolen and suspend Services without a charge by contacting us at the phone number listed on your bill or at wireless.att.com.
 
@@ -763,4 +763,4 @@ If you have any questions or concerns about your AT&T Service, please call Custo
 
 If you are a Puerto Rico customer and we cannot resolve your issue, you may notify the Telecommunications Regulatory Board of Puerto Rico of your grievance. Mail: 500 Ave Roberto H. Todd, (Parada 18), San Juan, Puerto Rico 00907-3941. Phone: 1-787-756-0804 or 1-866-578-5500. Online: jrtpr.gobierno.pr, in addition to having available arbitration, as provided in Section 2.0.
 
-****Return to Table of Contents****
+Return to Table of Contents
