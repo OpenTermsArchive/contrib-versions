@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   No Data and Can't upgrade. HELP!
+    *   by Im\_Not\_That\_Girl\_14
+    *   2 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Old Datingish Posts
+    *   \[Resolved\] by JennyGee
+    *   22 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 10 hours ago)
 *   Please restore my blog
     *   \[Resolved\] by eileenlys
-    *   13 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 10 hours ago)
-*   Please restore my blog
-    *   \[Resolved\] by secretly\_waiting4u
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 10 hours ago)
-*   How do I retrieve my old blogs?
-    *   \[Resolved\] by Heat\_Hootch16
-    *   3 days ago
-    *   in Adding &. Editing Entries
-    *   0 votes
-    *   1 (last comment by eugenia 10 hours ago)
-*   Seem to have similiar troubles oh :(
-    *   \[Resolved\] by priorities
     *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 10 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
+*   Please restore my blog
+    *   \[Resolved\] by secretly\_waiting4u
+    *   4 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 1 day ago)
+*   How do I retrieve my old blogs?
+    *   \[Resolved\] by Heat\_Hootch16
+    *   4 days ago
+    *   in Adding &. Editing Entries
+    *   0 votes
+    *   1 (last comment by eugenia 1 day ago)
+*   Seem to have similiar troubles oh :(
+    *   \[Resolved\] by priorities
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 1 day ago)
 *   Deleting My Account
     *   \[Resolved\] by Omgwtf\_St
     *   1 year ago
     *   in Miscellaenous
     *   0 votes
-    *   52 (last comment by eugenia 11 hours ago)
+    *   52 (last comment by eugenia 1 day ago)
 *   Still waiting for my old blog :(
     *   \[Resolved\] by skatinguy311
-    *   19 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 11 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   How can I find my blog???
     *   \[Resolved\] by CarinCk
-    *   5 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
-*   old private blogs
-    *   \[Resolved\] by starstuddedtalent
-    *   5 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
-*   Old Blog Posts
-    *   \[Resolved\] by EmblemIce3
     *   6 days ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by eugenia 5 days ago)
-*   please find my old blog
-    *   \[Resolved\] by xo\_cat
+*   old private blogs
+    *   \[Resolved\] by starstuddedtalent
     *   6 days ago
     *   in Data Migration
     *   0 votes
+    *   1 (last comment by eugenia 5 days ago)
+*   Old Blog Posts
+    *   \[Resolved\] by EmblemIce3
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
     *   1 (last comment by eugenia 6 days ago)
+*   please find my old blog
+    *   \[Resolved\] by xo\_cat
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 1 week ago)
 *   Datingish Blog
     *   \[Resolved\] by hamuda
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   Is it possible to retrieve my old blog?
     *   \[Resolved\] by LaurenSavesTheWorld
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   xanga
     *   \[Resolved\] by turkey68
     *   1 week ago
     *   in Adding &. Editing Entries
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
-*   Request to retrieve a blog
-    *   \[Resolved\] by SandyCheung1130
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
-*   christine\_yan xanga
-    *   \[Resolved\] by christine\_yan
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 
 1 2 3 ... 139 Next
 
