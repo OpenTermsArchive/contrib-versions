@@ -110,6 +110,8 @@ The following of your **personal statistics** are visible to all XING Members at
 *   Month and year of your membership
 *   Type of membership
 
+On your profile you will find an **activity meter**. This meter indicates whether you use the XING services regularly, however, it does not show any details about the way or the times you use the XING services. The activity meter is intended as an indication for other XING members to determine how intensely you use the XING services so that the other XING members can evaluate whether you will presumably react fast on a request via the XING services. You may suppress the activity meter at any time in the settings to your privacy under "Privacy" to the effect that the activity meter is not visible to other XING members.
+
 Other XING Members may send you **private messages** in order to establish contact with you. XING has set your privacy settings under "Privacy" by default so that all XING Members may send you private messages. You may restrict the ability of XING Members to send you private messages at any time to the effect that either no XING Members or only selected contacts may send you private messages, for example only the direct contacts of your contacts (i.e. second-level contacts) or only third-level or fourth-level contacts.
 
 As you can see, XING gives you complete control over your own privacy at all times.
