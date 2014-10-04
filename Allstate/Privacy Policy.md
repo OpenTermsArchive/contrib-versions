@@ -340,8 +340,8 @@ End Dialog. Retrieve a saved quote
 
 Agents Near 80202
 
-*   Denise Hoffman Insurance Service 303-628-0554 535 16th St # 350 Denver, CO 80202 Visit website
 *   James Barthelemy 303-948-9879 1940 Blake St Ste 105 Denver, CO 80202 Visit website
+*   Denise Hoffman Insurance Service 303-628-0554 535 16th St # 350 Denver, CO 80202 Visit website
 *   K.D. Cox-Sakraida Insurance Agency, Inc. 303-433-2094 1932 W 33rd Ave Denver, CO 80211 Visit website
 *   Lou Toth 303-752-2999 1459 Ogden St # 5 Denver, CO 80218 Visit website
 
