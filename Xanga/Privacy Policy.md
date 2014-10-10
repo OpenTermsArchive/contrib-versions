@@ -8,54 +8,60 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Hi Looking to retrieve old posts
+    *   by sixflagstrip
+    *   5 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Looking to retrieve old blog
     *   by hearmysong918
-    *   4 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I can't see my old private blogs
     *   by miss\_yoursmile
-    *   9 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Cant blog
     *   by disappearingdee
-    *   3 days ago
+    *   4 days ago
     *   in Adding &. Editing Entries
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   I lost my old blogs
     *   \[Resolved\] by man0512
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   I have lost my blog!!
     *   \[Resolved\] by sIuL\_M
+    *   4 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 2 days ago)
+*   Please retrieve my blog... ><.
+    *   \[Resolved\] by sheri626
     *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   Please retrieve my blog... ><.
-    *   \[Resolved\] by sheri626
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   Where are my archives?
     *   \[Resolved\] by heartistakenbysoftball
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   No Data and Can't upgrade. HELP!
     *   \[Resolved\] by Im\_Not\_That\_Girl\_14
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   Old Datingish Posts
     *   \[Resolved\] by JennyGee
     *   1 week ago
@@ -92,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Miscellaenous
     *   0 votes
     *   52 (last comment by eugenia 1 week ago)
-*   Still waiting for my old blog :(
-    *   \[Resolved\] by skatinguy311
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
 
 1 2 3 ... 139 Next
 
