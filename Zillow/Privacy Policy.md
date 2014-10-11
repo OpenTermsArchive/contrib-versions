@@ -16,10 +16,10 @@ Skip to contentZillow Real Estate &amp. Homes for Sale MENU Homes
 
 Rentals
 
-*   Rentals
+*   CA rentals
     *   *   Apartments for rent
         *   Houses for rent
-        *   All rental listings
+        *   All Rental listings
 *   Post a rental
     *   Post a rental listing on the Zillow Rental Network, the largest rental network on the Web.
         
@@ -30,8 +30,10 @@ Mortgages
 *   Shop mortgages
     *   *   Get pre-approved
         *   Mortgage rates
+        *   CA mortgage rates
 *   Refinance
     *   *   Refinance rates
+        *   CA refinance rates
         *   HARP program
 *   Calculators
     *   *   Mortgage calculator
@@ -74,8 +76,9 @@ Advice
 
 Local
 
-*   Local
+*   CA
     *   *   Home values
+        *   Schools
 
 Home design
 
@@ -113,7 +116,8 @@ More
     *   *   Zillow Research
         *   Zillow Visuals
         *   Zillow Mobile Apps
-    
+    *   *   Most expensive homes
+        *   Most expensive rentals
 
 Sign in or Join ? Find home values and listings Location: Search
 
