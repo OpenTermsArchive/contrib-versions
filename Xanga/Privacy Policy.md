@@ -8,48 +8,60 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Hi Looking to retrieve old posts
-    *   by sixflagstrip
-    *   5 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Looking to retrieve old blog
-    *   by hearmysong918
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 *   I can't see my old private blogs
-    *   by miss\_yoursmile
+    *   \[Resolved\] by miss\_yoursmile
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 5 hours ago)
+*   Looking to retrieve old blog
+    *   \[Resolved\] by hearmysong918
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 5 hours ago)
+*   Hi Looking to retrieve old posts
+    *   \[Resolved\] by sixflagstrip
     *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   0
+    *   1 (last comment by eugenia 5 hours ago)
+*   Where is my blog
+    *   \[Resolved\] by matty327
+    *   20 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 5 hours ago)
+*   Retrieve my old blogs
+    *   \[Resolved\] by disolutedmynd
+    *   11 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 5 hours ago)
 *   Cant blog
     *   by disappearingdee
-    *   4 days ago
+    *   5 days ago
     *   in Adding &. Editing Entries
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   I lost my old blogs
     *   \[Resolved\] by man0512
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   I have lost my blog!!
     *   \[Resolved\] by sIuL\_M
+    *   5 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 3 days ago)
+*   Please retrieve my blog... ><.
+    *   \[Resolved\] by sheri626
     *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
-*   Please retrieve my blog... ><.
-    *   \[Resolved\] by sheri626
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Where are my archives?
     *   \[Resolved\] by heartistakenbysoftball
     *   1 week ago
@@ -86,18 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Adding &. Editing Entries
     *   0 votes
     *   1 (last comment by eugenia 1 week ago)
-*   Seem to have similiar troubles oh :(
-    *   \[Resolved\] by priorities
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
-*   Deleting My Account
-    *   \[Resolved\] by Omgwtf\_St
-    *   1 year ago
-    *   in Miscellaenous
-    *   0 votes
-    *   52 (last comment by eugenia 1 week ago)
 
 1 2 3 ... 139 Next
 
