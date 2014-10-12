@@ -8,60 +8,78 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   I can't see my old private blogs
-    *   \[Resolved\] by miss\_yoursmile
-    *   2 days ago
-    *   in Data Migration
+*   I fogot my email address for my account
+    *   by Imonlyvizitng
+    *   5 hours ago
+    *   in Emails
     *   0 votes
-    *   1 (last comment by eugenia 5 hours ago)
-*   Looking to retrieve old blog
-    *   \[Resolved\] by hearmysong918
-    *   2 days ago
-    *   in Data Migration
+    *   0
+*   I fogot my email address for my account
+    *   by Imonlyvizitng
+    *   5 hours ago
+    *   in Emails
     *   0 votes
-    *   1 (last comment by eugenia 5 hours ago)
-*   Hi Looking to retrieve old posts
-    *   \[Resolved\] by sixflagstrip
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 5 hours ago)
-*   Where is my blog
-    *   \[Resolved\] by matty327
-    *   20 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 5 hours ago)
-*   Retrieve my old blogs
-    *   \[Resolved\] by disolutedmynd
+    *   0
+*   Campaign Contribution. Creative Content
+    *   by sk8bs55
     *   11 hours ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 5 hours ago)
+    *   0
+*   I can't see my old private blogs
+    *   \[Resolved\] by miss\_yoursmile
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 1 day ago)
+*   Looking to retrieve old blog
+    *   \[Resolved\] by hearmysong918
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 1 day ago)
+*   Hi Looking to retrieve old posts
+    *   \[Resolved\] by sixflagstrip
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 1 day ago)
+*   Where is my blog
+    *   \[Resolved\] by matty327
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 1 day ago)
+*   Retrieve my old blogs
+    *   \[Resolved\] by disolutedmynd
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 1 day ago)
 *   Cant blog
     *   by disappearingdee
-    *   5 days ago
+    *   6 days ago
     *   in Adding &. Editing Entries
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   I lost my old blogs
     *   \[Resolved\] by man0512
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   I have lost my blog!!
     *   \[Resolved\] by sIuL\_M
+    *   6 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 4 days ago)
+*   Please retrieve my blog... ><.
+    *   \[Resolved\] by sheri626
     *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
-*   Please retrieve my blog... ><.
-    *   \[Resolved\] by sheri626
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   Where are my archives?
     *   \[Resolved\] by heartistakenbysoftball
     *   1 week ago
@@ -78,24 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   \[Resolved\] by JennyGee
     *   1 week ago
     *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
-*   Please restore my blog
-    *   \[Resolved\] by eileenlys
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
-*   Please restore my blog
-    *   \[Resolved\] by secretly\_waiting4u
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
-*   How do I retrieve my old blogs?
-    *   \[Resolved\] by Heat\_Hootch16
-    *   1 week ago
-    *   in Adding &. Editing Entries
     *   0 votes
     *   1 (last comment by eugenia 1 week ago)
 
