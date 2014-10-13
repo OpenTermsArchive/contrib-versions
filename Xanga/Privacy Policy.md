@@ -8,78 +8,84 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Paid and emailed. No response from the team.
+    *   by blazin\_dream
+    *   22 hours ago
+    *   in Premium
+    *   0 votes
+    *   0
 *   I fogot my email address for my account
     *   by Imonlyvizitng
-    *   5 hours ago
+    *   1 day ago
     *   in Emails
     *   0 votes
     *   0
 *   I fogot my email address for my account
     *   by Imonlyvizitng
-    *   5 hours ago
+    *   1 day ago
     *   in Emails
     *   0 votes
     *   0
 *   Campaign Contribution. Creative Content
     *   by sk8bs55
-    *   11 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I can't see my old private blogs
     *   \[Resolved\] by miss\_yoursmile
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   Looking to retrieve old blog
     *   \[Resolved\] by hearmysong918
+    *   4 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 2 days ago)
+*   Hi Looking to retrieve old posts
+    *   \[Resolved\] by sixflagstrip
     *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   Hi Looking to retrieve old posts
-    *   \[Resolved\] by sixflagstrip
+    *   1 (last comment by eugenia 2 days ago)
+*   Where is my blog
+    *   \[Resolved\] by matty327
     *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   Where is my blog
-    *   \[Resolved\] by matty327
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   Retrieve my old blogs
     *   \[Resolved\] by disolutedmynd
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   Cant blog
     *   by disappearingdee
-    *   6 days ago
+    *   1 week ago
     *   in Adding &. Editing Entries
     *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
+    *   1 (last comment by eugenia 5 days ago)
 *   I lost my old blogs
     *   \[Resolved\] by man0512
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
+    *   1 (last comment by eugenia 5 days ago)
 *   I have lost my blog!!
     *   \[Resolved\] by sIuL\_M
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 5 days ago)
+*   Please retrieve my blog... ><.
+    *   \[Resolved\] by sheri626
     *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
-*   Please retrieve my blog... ><.
-    *   \[Resolved\] by sheri626
-    *   5 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
+    *   1 (last comment by eugenia 5 days ago)
 *   Where are my archives?
     *   \[Resolved\] by heartistakenbysoftball
     *   1 week ago
@@ -88,12 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by eugenia 1 week ago)
 *   No Data and Can't upgrade. HELP!
     *   \[Resolved\] by Im\_Not\_That\_Girl\_14
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
-*   Old Datingish Posts
-    *   \[Resolved\] by JennyGee
     *   1 week ago
     *   in Data Migration
     *   0 votes
