@@ -8,98 +8,98 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Deleting My Account
+    *   \[Resolved\] by Omgwtf\_St
+    *   1 year ago
+    *   in Miscellaenous
+    *   0 votes
+    *   54 (last comment by bLuBoNic\_BaLLs 9 hours ago)
+*   Old Blog Post Hardrive
+    *   by speedingsausage30
+    *   9 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   I have lost all my blog posts
+    *   by eric\_on\_dog\_9
+    *   13 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Paid and emailed. No response from the team.
     *   by blazin\_dream
-    *   22 hours ago
+    *   1 day ago
     *   in Premium
     *   0 votes
     *   0
 *   I fogot my email address for my account
     *   by Imonlyvizitng
-    *   1 day ago
+    *   2 days ago
     *   in Emails
     *   0 votes
     *   0
 *   I fogot my email address for my account
     *   by Imonlyvizitng
-    *   1 day ago
+    *   2 days ago
     *   in Emails
     *   0 votes
     *   0
 *   Campaign Contribution. Creative Content
     *   by sk8bs55
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I can't see my old private blogs
     *   \[Resolved\] by miss\_yoursmile
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Looking to retrieve old blog
     *   \[Resolved\] by hearmysong918
+    *   5 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 3 days ago)
+*   Hi Looking to retrieve old posts
+    *   \[Resolved\] by sixflagstrip
     *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
-*   Hi Looking to retrieve old posts
-    *   \[Resolved\] by sixflagstrip
+    *   1 (last comment by eugenia 3 days ago)
+*   Where is my blog
+    *   \[Resolved\] by matty327
     *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
-*   Where is my blog
-    *   \[Resolved\] by matty327
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Retrieve my old blogs
     *   \[Resolved\] by disolutedmynd
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Cant blog
     *   by disappearingdee
     *   1 week ago
     *   in Adding &. Editing Entries
     *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   1 (last comment by eugenia 6 days ago)
 *   I lost my old blogs
     *   \[Resolved\] by man0512
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   1 (last comment by eugenia 6 days ago)
 *   I have lost my blog!!
     *   \[Resolved\] by sIuL\_M
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
-*   Please retrieve my blog... ><.
-    *   \[Resolved\] by sheri626
-    *   6 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
-*   Where are my archives?
-    *   \[Resolved\] by heartistakenbysoftball
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
-*   No Data and Can't upgrade. HELP!
-    *   \[Resolved\] by Im\_Not\_That\_Girl\_14
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
+    *   1 (last comment by eugenia 6 days ago)
 
-1 2 3 ... 139 Next
+1 2 3 ... 140 Next
 
 Help Categories
 
