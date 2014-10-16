@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Hi Looking to retrieve old posts
-    *   \[Resolved\] by sixflagstrip
-    *   5 days ago
+*   Looking to retrieved old posts
+    *   by shortie\_2323
+    *   3 hours ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by sixflagstrip 2 hours ago)
+    *   0
+*   please restore my blog
+    *   by juzzsimple
+    *   11 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Where is my old post?
+    *   by chiulm
+    *   17 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   lost all my post in xanga
+    *   by kawun2030
+    *   21 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Hi Looking to retrieve old posts
+    *   \[Resolved\] by sixflagstrip
+    *   6 days ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by sixflagstrip 1 day ago)
 *   Deleting My Account
     *   \[Resolved\] by Omgwtf\_St
     *   1 year ago
     *   in Miscellaenous
     *   0 votes
-    *   55 (last comment by soross 14 hours ago)
+    *   55 (last comment by soross 1 day ago)
 *   I want to pay my premium
     *   by Blue\_Moon1
-    *   21 hours ago
+    *   1 day ago
     *   in Premium
     *   0 votes
     *   0
 *   Old Blog Post Hardrive
     *   by speedingsausage30
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I have lost all my blog posts
     *   by eric\_on\_dog\_9
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Paid and emailed. No response from the team.
     *   by blazin\_dream
-    *   2 days ago
+    *   3 days ago
     *   in Premium
     *   0 votes
     *   0
 *   I fogot my email address for my account
     *   by Imonlyvizitng
-    *   3 days ago
+    *   4 days ago
     *   in Emails
     *   0 votes
     *   0
 *   I fogot my email address for my account
     *   by Imonlyvizitng
-    *   3 days ago
+    *   4 days ago
     *   in Emails
     *   0 votes
     *   0
 *   Campaign Contribution. Creative Content
     *   by sk8bs55
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I can't see my old private blogs
     *   \[Resolved\] by miss\_yoursmile
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
+    *   1 (last comment by eugenia 5 days ago)
 *   Looking to retrieve old blog
     *   \[Resolved\] by hearmysong918
-    *   6 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
-*   Where is my blog
-    *   \[Resolved\] by matty327
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
-*   Retrieve my old blogs
-    *   \[Resolved\] by disolutedmynd
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
-*   Cant blog
-    *   by disappearingdee
-    *   1 week ago
-    *   in Adding &. Editing Entries
-    *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
-*   I lost my old blogs
-    *   \[Resolved\] by man0512
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
+    *   1 (last comment by eugenia 5 days ago)
 
 1 2 3 ... 140 Next
 
