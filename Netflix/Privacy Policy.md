@@ -70,7 +70,7 @@ Back to top Social Sharing
 
 Back to top Profiles
 
-Profiles allow different members of your household to have a distinct, personalized Netflix experience, built around the movies and TV shows they enjoy, such as personalized recommendations and separate watch histories. For more information regarding profiles, see (https://help.netflix.com/article/en/node/10421?ba=GSButtonClick&q=profiles). Please note that profiles are freely available to everyone who uses your Netflix account, so that anyone with access to your Netflix account can navigate to and use, edit or delete any profile. You should explain this to others with access to your account, and if you do not wish them to use or update your profile, be sure to let them know.
+Profiles allow different members of your household to have a distinct, personalized Netflix experience, built around the movies and TV shows they enjoy, such as personalized recommendations and separate watch histories. For more information regarding profiles, see https://help.netflix.com/article/en/node/10421?ba=GSButtonClick&q=profiles. Please note that profiles are freely available to everyone who uses your Netflix account, so that anyone with access to your Netflix account can navigate to and use, edit or delete any profile. You should explain this to others with access to your account, and if you do not wish them to use or update your profile, be sure to let them know.
 
 Profiles can be used in connection with our social features to enable you to connect different Facebook accounts to separate profiles. See our Social Terms (https://www.netflix.com/socialterms) for more information.
 
