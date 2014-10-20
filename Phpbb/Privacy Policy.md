@@ -1,6 +1,6 @@
 phpBB.com - Privacy policy
 
-This policy explains in detail how “phpBB.com” along with its affiliated companies (hereinafter “we”, “us”, “our”, “phpBB.com”, “https://www.phpbb.com/community”) and phpBB (hereinafter “they”, “them”, “their”, “phpBB software”, “www.phpbb.com”, “phpBB Group”, “phpBB Teams”) use any information collected during any session of usage by you (hereinafter “your information”).  
+This policy explains in detail how “phpBB.com” along with its affiliated companies (hereinafter “we”, “us”, “our”, “phpBB.com”, “https://www.phpbb.com/community”) and phpBB (hereinafter “they”, “them”, “their”, “phpBB software”, “www.phpbb.com”, “phpBB Limited”, “phpBB Teams”) use any information collected during any session of usage by you (hereinafter “your information”).  
   
 Your information is collected via two ways. Firstly, by browsing “phpBB.com” will cause the phpBB software to create a number of cookies, which are small text files that are downloaded on to your computer’s web browser temporary files. The first two cookies just contain a user identifier (hereinafter “user-id”) and an anonymous session identifier (hereinafter “session-id”), automatically assigned to you by the phpBB software. A third cookie will be created once you have browsed topics within “phpBB.com” and is used to store which topics have been read, thereby improving your user experience.  
   
