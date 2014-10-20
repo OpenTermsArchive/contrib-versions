@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   worst idea to upgrade and delete people's blogs
+    *   by d0tdOtdoT
+    *   14 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Missed downloading my archives
+    *   \[Resolved\] by jaggedjunky
+    *   1 year ago
+    *   in Data Migration
+    *   0 votes
+    *   8 (last comment by iluvrhia 19 hours ago)
 *   can i retrieve my old blogs?
     *   by OM12steff143
-    *   4 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   What If We now Want to be a member?
     *   by boltnut55
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieving my blog
     *   by djva
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Restore blog
     *   by kavina2520
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   my xanga blogs
     *   \[Resolved\] by jennybennyy
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Looking to retrieved old posts
     *   \[Resolved\] by shortie\_2323
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   please restore my blog
     *   \[Resolved\] by juzzsimple
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Where is my old post?
     *   \[Resolved\] by chiulm
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   lost all my post in xanga
     *   \[Resolved\] by kawun2030
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   I want to pay my premium
     *   \[Resolved\] by Blue\_Moon1
-    *   4 days ago
+    *   5 days ago
     *   in Premium
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Old Blog Post Hardrive
     *   \[Resolved\] by speedingsausage30
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   I have lost all my blog posts
     *   \[Resolved\] by eric\_on\_dog\_9
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Paid and emailed. No response from the team.
     *   \[Resolved\] by blazin\_dream
-    *   6 days ago
+    *   1 week ago
     *   in Premium
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
-*   Campaign Contribution. Creative Content
-    *   \[Resolved\] by sk8bs55
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
-*   Hi Looking to retrieve old posts
-    *   \[Resolved\] by sixflagstrip
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by sixflagstrip 4 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 
 1 2 3 ... 140 Next
 
