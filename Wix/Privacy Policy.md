@@ -40,7 +40,7 @@ Wix.com Wix.com is a leading cloud-based web development platform with millions 
 
 *   Facebook
 *   Twitter
-*   Google Plus
+*   Google+
 *   Youtube
 *   Pinterest
 *   Instagram
@@ -66,15 +66,22 @@ Wix.com Wix.com is a leading cloud-based web development platform with millions 
 *   Privacy
 *   Abuse
 *   Contact Us
+*   Resellers
+*   Affiliates
 
 *   COMMUNITY
 *   Wix Blog
 *   Wix Stories
 *   Wix Arena
 *   Wix Lounge
+*   Facebook
+*   Twitter
+*   Google+
+*   Pinterest
+*   Youtube
 
 *   SUPPORT
 *   Support Center
 *   Training Videos
 
-Promote your business, showcase your art, set up an online shop or just test out new ideas. Wix is a website builder that has everything you need to build a fully-personalized, high-quality free website. Browse our collection of beautiful website templates. You'll find loads of stunning designs, ready to be customized. @ 2006-2014 Wix.com, Inc
+Promote your business, showcase your art, set up an online shop or just test out new ideas. Wix is a website builder that has everything you need to build a fully-personalized, high-quality free website. Browse our collection of beautiful website templates. You'll find loads of stunning designs, ready to be customized. © 2006-2014 Wix.com, Inc
