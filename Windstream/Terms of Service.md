@@ -256,7 +256,7 @@ Copyright © Windstream Communications. All rights reserved.
 *   Twitter
 *   Facebook
 
-Let's Get Started!
+Check Availability
 
 Please let us know who you are so we can check for the available services to your home!
 
