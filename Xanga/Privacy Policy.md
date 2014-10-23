@@ -8,98 +8,98 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   My profile photo is too small.
+    *   by sfiawong
+    *   47 minutes ago
+    *   in Avatars
+    *   0 votes
+    *   0
+*   missing data
+    *   by TracyShinMan
+    *   1 hour ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Missing photos
+    *   by lfespock
+    *   1 hour ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Retrieve blog
+    *   by milklover2010
+    *   8 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Retrieve my Blog
+    *   by jacobslilbrother
+    *   12 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Restore blog
     *   \[Resolved\] by kavina2520
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 13 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   Retrieving my blog
     *   \[Resolved\] by djva
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 13 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   What If We now Want to be a member?
     *   \[Resolved\] by boltnut55
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 13 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   can i retrieve my old blogs?
     *   \[Resolved\] by OM12steff143
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 13 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   Missed downloading my archives
     *   \[Resolved\] by jaggedjunky
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   9 (last comment by eugenia 13 hours ago)
+    *   9 (last comment by eugenia 1 day ago)
 *   worst idea to upgrade and delete people's blogs
     *   \[Resolved\] by d0tdOtdoT
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 1 day ago)
+*   Old blog
+    *   \[Resolved\] by babii\_siiiiiu
     *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 13 hours ago)
-*   Old blog
-    *   \[Resolved\] by babii\_siiiiiu
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 13 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   my xanga blogs
     *   \[Resolved\] by jennybennyy
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   1 (last comment by eugenia 6 days ago)
 *   Looking to retrieved old posts
     *   \[Resolved\] by shortie\_2323
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   1 (last comment by eugenia 6 days ago)
 *   please restore my blog
     *   \[Resolved\] by juzzsimple
-    *   6 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
-*   Where is my old post?
-    *   \[Resolved\] by chiulm
-    *   6 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
-*   lost all my post in xanga
-    *   \[Resolved\] by kawun2030
-    *   6 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
-*   I want to pay my premium
-    *   \[Resolved\] by Blue\_Moon1
-    *   1 week ago
-    *   in Premium
-    *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
-*   Old Blog Post Hardrive
-    *   \[Resolved\] by speedingsausage30
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
-*   I have lost all my blog posts
-    *   \[Resolved\] by eric\_on\_dog\_9
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   1 (last comment by eugenia 6 days ago)
 
-1 2 3 ... 140 Next
+1 2 3 ... 141 Next
 
 Help Categories
 
