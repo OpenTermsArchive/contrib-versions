@@ -66,7 +66,7 @@ Additional terms may also apply to the use of individual applications in additio
 
 The General Terms and Conditions for using the XING service and any additional terms for the use of individual applications are hereinafter referred to as **“GTC”**.
 
-The contract is concluded with XING AG, Dammtorstraße 29-32, 20354 Hamburg, Germany, and as of 1 May 2014, in those cases listed in Section A.6.6 below additionally with XING S.à r.l., 9, Avenue Guillaume, L-1651 Luxembourg. Further contact details, commercial register details as well as the name of a person authorised to represent XING AG and, as of 1 May 2014, XING S.à r.l. can be found in the “About this site” section.
+The contract is concluded with XING AG, Dammtorstraße 30, 20354 Hamburg, Germany, and as of 1 May 2014, in those cases listed in Section A.6.6 below additionally with XING S.à r.l., 9, Avenue Guillaume, L-1651 Luxembourg. Further contact details, commercial register details as well as the name of a person authorised to represent XING AG and, as of 1 May 2014, XING S.à r.l. can be found in the “About this site” section.
 
    
 1\. Subject and basis for using XING
@@ -124,7 +124,7 @@ You have the right to withdraw from this contract within 14 days without giving 
 To exercise the right of withdrawal, you must inform us
 
 XING AG  
-Dammtorstraße 29-32  
+Dammtorstraße 30  
 20354 Hamburg  
 Germany  
 Phone: +49 40 419 131 0  
