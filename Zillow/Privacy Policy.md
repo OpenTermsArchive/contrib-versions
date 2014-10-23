@@ -1,3 +1,5 @@
+**Your browser is out of date** and Zillow may not function correctly. Please upgrade to the latest version of one of these free browsers: Internet Explorer, Firefox, Safari or Chrome.
+
  MENU Homes
 
 *   Homes for sale
@@ -21,8 +23,8 @@ Rentals
         *   Houses for rent
         *   All rental listings
 *   Post a rental
-    *   Post a rental listing on the Zillow Rental Network, the largest rental network on the Web.
-        
+    *   *   Post a rental listing on the Zillow Rental Network, the largest rental network on the Web.
+            
         *   Post a rental (It's free)
 
 Mortgages
@@ -114,7 +116,7 @@ More
         *   Zillow Mobile Apps
     
 
-Advertise Sign in or Join Advertise
+Sign in or Join Advertise
 
 *   Terms of Use
 *   Privacy Policy
