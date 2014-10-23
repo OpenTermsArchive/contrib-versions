@@ -391,10 +391,10 @@ SUPPORT &. SERVICES
 
 XFINITY Â© 2014 Comcast
 
-*   Privacy Policy
+*   PolÃ­tica de Privacidad
 *   Ad Choices
-*   Terms of Service
-*   Advertise With Us
+*   Condiciones de Servicio
+*   Anuncie con Nosotros
 *   Comcast Corporation
 *   Contact Us
 
