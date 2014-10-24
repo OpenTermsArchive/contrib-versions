@@ -8,7 +8,7 @@ Welcome, and thanks for using LinkedIn.com, SlideShare.net, Pulse and/or other L
 
 Note: You are entering into a legally binding agreement.
 
-1\. Introduction Last revised on March 26, 2014
+1\. Introduction Last revised on October 23, 2014
 
 We are a social network and online platform for professionals.
 
@@ -16,330 +16,245 @@ Our User Agreement has been updated. click here for a summary of the changes.
 
 1.1. Purpose
 
-The mission of LinkedIn is to connect the world’s professionals to enable them to be more productive and successful. To achieve our mission, we make services available through our websites, mobile applications, and developer platforms, to help you, your connections, and millions of other professionals meet, exchange ideas, learn, make deals, find opportunities or employees, work, and make decisions in a network of trusted relationships and groups.
+Our mission is to connect the world's professionals to allow them to be more productive and successful. Our services are designed to promote economic opportunity for our members by enabling you and millions of other professionals to meet, exchange ideas, learn, and find opportunities or employees, work, and make decisions in a network of trusted relationships.
 
-1.2. Scope and Intent
+1.2. Agreement
 
-When you use LinkedIn's services and apps (including Slideshare and Pulse), you are entering into a legal agreement and you agree to all of these terms.
+When you use our Services (including Slideshare and Pulse), **you are entering into a legal agreement and you agree to all of these terms.**
 
-You also agree to our Privacy Policy, which covers how we collect, use, share, and store your personal information.
+**You also agree to our Privacy Policy, which covers how we collect, use, share, and store your personal information.**
 
-You agree that by registering on LinkedIn, SlideShare or Pulse or by using our websites, including our mobile applications, developer platforms, premium services, or any content or information provided as part of the LinkedIn services (collectively, including SlideShare and Pulse, “LinkedIn” or the “Services”), you are entering into a legally binding agreement with LinkedIn Corporation, 2029 Stierlin Court, Mountain View, California 94043, USA if you reside in the United States, and with LinkedIn Ireland, Gardner House, Wilton Plaza, Wilton Place, Dublin 2, Ireland, if you reside outside the United States (“we,” “us,” “our,” and “LinkedIn”) based on the terms of this LinkedIn User Agreement and the LinkedIn Privacy Policy, which is hereby incorporated by reference (collectively referred to as the “Agreement”), whether as a registered member on LinkedIn.com, SlideShare.net and/or other Service, as applicable (“Member”), or unregistered user (“Visitor”). If you are using LinkedIn on behalf of a company or other legal entity, you are nevertheless individually bound by this Agreement even if your company has a separate agreement with us. If you do not agree with this Agreement, do NOT click “Join Now” and do not access, view, download or otherwise use any LinkedIn webpage, content, information or services. By clicking “Join Now”, “Join LinkedIn”, “Sign Up” (on SlideShare.net) or similar, or by using any Service, you acknowledge that you have read and understood the terms and conditions of this Agreement and that you agree to be bound by all of its provisions. Please note that the LinkedIn User Agreement and Privacy Policy are also collectively referred to as LinkedIn’s “Terms of Service.”
+You agree that by clicking “Join Now” “Join LinkedIn”, “Sign Up” or similar, registering, accessing or using our services (including LinkedIn, SlideShare, Pulse, our related mobile apps, developer platforms, premium services, or any content or information provided as part of these services, collectively, “Services”), you are entering into a legally binding agreement (even if you are using our Services on behalf of a company). If you reside in the United States, your agreement is with LinkedIn Corporation and if you reside outside of the United States, your agreement is with LinkedIn Ireland (each, “LinkedIn” or “we”).
 
-Back to Top 2. Your Obligations 2.1. Applicable laws and this Agreement
+This “Agreement” includes this User Agreement and the Privacy Policy, and other terms that will be displayed to you at the time you first use certain features (such as starting a “Group,” downloading one of our software applications or purchasing advertisements or InMails™), as may be amended by LinkedIn from time to time. If you do not agree to this Agreement, do NOT click “Join Now” (or similar) and do not access or otherwise use any of our Services.
 
-**Some promises you make to us in this Agreement:**
+Registered users of our Services are “Members” and unregistered users are “Visitors”. This Agreement applies to both.
 
-You will follow the law and LinkedIn’s rules.
+Back to Top 2. Obligations 2.1. Service Eligibility
 
-You must comply with all applicable laws and this Agreement, as may be amended from time to time with or without advance notice, and the policies and processes explained in the following sections and related webpages:
+Here are some promises you make to us in this Agreement:
 
-*   DOs and DON’Ts;
-*   Complaints Regarding Content Posted on the LinkedIn Website;
-*   LinkedIn’s Privacy Policy. and
-*   Other specific rules for particular Services, such as Groups.
+You're eligible to enter into this Agreement and you are at least our “Minimum Age.”
 
-2.2. License and warranty for your submissions to LinkedIn
+To use the Services, you agree that: (1) you must be the “Minimum Age” (defined below) or older. (2) you will only have one LinkedIn account (and/or one SlideShare or Pulse account, if applicable), which must be in your real name. and (3) you are not already restricted by LinkedIn from using the Services.
 
-You still own what you own, but you grant us a license to the content and/or information you provide us.
+“Minimum Age” means (a) 18 years old for the People's Republic of China, (b) 16 years old for the Netherlands, (c) 14 years old for the United States, Canada, Germany, Spain, Australia and South Korea, and (d) 13 years old for all other countries. However, if law requires that you must be older in order for LinkedIn to lawfully provide the Services to you (including the collection, storage and use of your information) then the Minimum Age is such older age. The Services are not for use by anyone under the age of 13.
 
-As between you and LinkedIn, you own the content and information you provide LinkedIn under this Agreement, and may request its deletion at any time, unless you have shared information or content with others and they have not deleted it, or it was copied or stored by other users. Additionally, you grant LinkedIn a nonexclusive, irrevocable, worldwide, perpetual, unlimited, assignable, sublicenseable, fully paid up and royalty-free right to us to copy, prepare derivative works of, improve, distribute, publish, remove, retain, add, process, analyze, use and commercialize, in any way now known or in the future discovered, any information you provide, directly or indirectly to LinkedIn, including, but not limited to, any user generated content, ideas, concepts, techniques and/or data to the services, you submit to LinkedIn, without any further consent, notice and/or compensation to you or to any third parties.
+2.2. Your Membership
 
-We will respect the choices you make about who gets to see your information and content.
+You'll keep your password a secret.
 
-Pursuant to this license, LinkedIn may grant other Members and/or Visitors access and share rights to your content and information in accordance with this Agreement, your settings and degree of connection with them. With respect to your SlideShare content, you may choose to make it available to Members and Visitors under the Creative Commons license of your choice.
+You will not share an account with anyone else and will follow our rules and the law.
 
-You promise to only provide us information and content that you have the right to give us and you promise that your LinkedIn profile will be truthful.
+As between you and others, your account belongs to you. You agree to: (1) try to choose a strong and secure password. (2) keep your password secure and confidential. (3) not transfer any part of your account (e.g., connections, groups) and (4) follow the law and the Dos and Don'ts below. You are responsible for anything that happens through your account unless you close it or report misuse.
 
-Any content or information you submit to us is at your own risk of loss. By providing content or information to us, you represent and warrant that you are entitled to submit it and that it is not confidential and not in violation of any law, contractual restrictions or other third party rights (including any intellectual property rights).
+Note that for Premium Services purchased by another party for you to use (e.g. Recruiter seat bought by your employer), the party paying for the Premium Service controls such an account (which is different from your personal account) and may terminate your access to it.
 
-It is your responsibility to keep your LinkedIn profile information accurate and updated.
+2.3 Payment
 
-2.3. Service Eligibility
-
-You are eligible to enter into this contract and you are at least our “Minimum Age.”
-
-The information you provide is truthful.
-
-To be eligible to use the Services, you must meet the following criteria and represent and warrant that you: (1) are the “**Minimum Age**” (defined below) or older. (2) are not currently restricted from the Services, or not otherwise prohibited from having a LinkedIn account, (3) are not a competitor of LinkedIn or are not using the Services for reasons that are in competition with LinkedIn. (4) will only maintain one LinkedIn account (and/or one SlideShare or Pulse account, if applicable) at any given time. (5) will use your real name and only provide accurate information to LinkedIn. (6) have full power and authority to enter into this Agreement and doing so will not violate any other agreement to which you are a party. (7) will not violate any rights of LinkedIn or third party, including intellectual property rights such as copyright or trademark rights. and (8) agree to provide at your cost all equipment, software, mobile access, and internet access necessary to use the Services.
-
-“Minimum Age” means (a) 18 years old for the People’s Republic of China, (b) 16 years old for the Netherlands, (c) 14 years old for the United States, Canada, Germany, Spain, Australia and South Korea, and (d) 13 years old for all other countries. However, if applicable law requires that you must be older than such ages in order for LinkedIn to lawfully provide the Services to you (including the collection, storage and use of your information in accordance with our privacy policy) then the Minimum Age would be such older age. The Services are not designed nor intended for use by children or anyone else under the age of 13.
-
-2.4. Your Membership
-
-You will keep your password a secret.
-
-You will not share an account with anyone else.
-
-You will not copy or transfer any part of the Services.
-
-The profile you create on LinkedIn (including Slideshare) will become part of LinkedIn and except for the content and information that you license to us is owned by LinkedIn. However, between you and others, your account belongs to you. You agree to: (1) keep your password secure and confidential. (2) not permit others to use your account. (3) not use other’s accounts. (4) not sell, trade, or transfer your LinkedIn account to another party. and (5) not charge anyone for access to any portion of LinkedIn, or any information therein. Further, you are responsible for anything that happens through your account until you close down your account or prove that your account security was compromised due to no fault of your own. To close your LinkedIn, Pulse or Slideshare account, respectively, please visit LinkedIn’s Help Center (for LinkedIn or Pulse) or the applicable SlideShare settings.
-
-2.5. Indemnification
-
-You will pay us for any losses that you cause.
-
-You agree to indemnify us and hold us harmless for all damages, losses and costs (including, but not limited to, reasonable attorneys’ fees and costs) related to all third party claims, charges, and investigations, caused by (1) your failure to comply with this Agreement, including, without limitation, your submission of content that violates third party rights or applicable laws, (2) any content you submit to the Services, and (3) any activity in which you engage on or through LinkedIn.
-
-2.6. Payment
-
-You will honor your payment obligations and you are okay with us storing your payment information. Also, there may be fees and taxes that are added to our prices.
+You'll honor your payment obligations and you are okay with us storing your payment information. Also, there may be fees and taxes that are added to our prices.
 
 We don't guarantee refunds.
 
-If you purchase any services that we offer for a fee, either on a one-time or subscription basis (“Premium Services”), you agree to LinkedIn storing your payment information. You also agree to pay the applicable fees for the Premium Services (including, without limitation, periodic fees for premium accounts) as they become due plus all related taxes, and to reimburse us for all collection costs and interest for any overdue amounts. Failure to pay may result in the termination of your subscription. Depending on where you transact with us, the type of payment method used and where your payment method was issued, your transaction with us may be subject to foreign exchange fees or differences in prices, including because of exchange rates. LinkedIn does not support all payment methods, currencies or locations for payment. If the payment method you use with us, such as a credit card, reaches its expiration date and you do not edit your payment method information or cancel your account or such Premium Service, you authorize us to continue billing that payment method and you remain responsible for any uncollected amounts. Your obligation to pay fees continues through the end of the subscription period during which you cancel your subscription. All applicable taxes are calculated based on the billing information you provide us at the time of purchase. You may cancel or suspend your Premium Services here. LinkedIn’s refund policy is explained here. We do not guarantee refunds for lack of usage or dissatisfaction. You also acknowledge that LinkedIn’s Premium Services are subject to this Agreement and any additional terms related to the provision of the Premium Service. Additionally, if you require a printed invoice for your transaction with us, you may access it through your LinkedIn account settings under “Purchase History” or, for SlideShare related invoices, request one by contacting our Customer Support.
+If you purchase any of our paid Services (“Premium Services”), you agree to pay us the applicable fees and taxes. Failure to pay these fees may result in the termination of your subscription. Also:
 
-2.7. Notify us of acts contrary to the Agreement
+*   Your purchase may be subject to foreign exchange fees or differences in prices based on location (e.g. exchange rates).
+*   You authorize us to store and continue billing your payment method (e.g. credit card) even after it has expired, to avoid interruptions in your service (e.g. subscriptions) and to facilitate easy payment for new services.
+*   You must pay us for applicable fees and taxes unless you cancel the Premium Service, in which case you agree to still pay these fees through the end of the applicable subscription period. Learn how to cancel or change your Premium Services and read about LinkedIn's refund policy.
+*   Taxes are calculated based on the billing information that you provide us at the time of purchase.
 
-If you think you have to breach this Agreement, you will let us know beforehand.
+For LinkedIn, you can get a copy of your invoice through your account settings under “Purchase History” for SlideShare you can request your invoice through Customer Support.
 
-If you believe that you are entitled or obligated to act contrary to this Agreement under any mandatory law, you agree to provide us with detailed and substantiated explanation of your reasons in writing at least 30 days before you act contrary to this Agreement, to allow us to assess whether we may, at our sole discretion, provide an alternative remedy for the situation, though we are under no obligation to do so.
+2.4. Notifices and Service Messages
 
-2.8. Notifications and Service Messages
+You're okay with us using our websites, mobile apps, and email to provide you with important notices. This Agreement applies to mobile applications as well. Also, you agree certain additional information can be shared with us.
 
-You are okay with us providing you with important notices on our websites, mobile apps, or email.
+If the contact information you provide isn't up to date, you may miss out on these notices.
 
-The contact information you provide must be accurate or you may not receive important notices.
+You agree that we may provide notices to you in the following ways: (1) a banner notice on the Service, or (2) an email sent to an address you provided, or (3) through other means including mobile number, telephone, or mail. You agree to keep your contact information up to date.
 
-For purposes of service messages and notices about the Services, LinkedIn may place a banner notice across its pages to alert you to certain changes such as modifications to this Agreement. Alternatively, notice may consist of an email from LinkedIn to an email address associated with your account, even if we have other contact information. You also agree that LinkedIn may communicate with you through your LinkedIn account or through other means including email, mobile number, telephone, or delivery services including the postal service about your LinkedIn account or services associated with LinkedIn. Please review your LinkedIn.com and SlideShare.net settings to control and limit what kind of messages you receive from us. You acknowledge and agree that we shall have no liability associated with or arising from your failure to do so maintain accurate contact or other information, including, but not limited to, your failure to receive critical information about the Services.
+Please review your LinkedIn.com and Slideshare.net settings to control and limit what kind of messages you receive from us.
 
-2.9. LinkedIn Applications
-
-This Agreement applies to mobile applications as well. Also, you agree certain additional information can be shared with us.
-
-LinkedIn may offer the Services through applications built using LinkedIn’s platform (“LinkedIn Applications”). Examples of LinkedIn Applications include its smart phone applications (e.g. LinkedIn and Pulse for Android and iOS), and LinkedIn’s “Share” buttons and other interactive plugins distributed on websites across the web. LinkedIn Applications are distinct from third party Platform Applications addressed in Section 4.2. If you use a LinkedIn Application or interact with a website that has deployed a plugin, you agree that information about you and your use of the Services, including, but not limited to, your device, your mobile carrier, your internet access provider, your physical location, or web pages containing LinkedIn plugins that load in your browser may be communicated to us. Further, by importing any of your LinkedIn data through the LinkedIn Application, you represent that you have authority to share the transferred data with your mobile carrier or other access provider. In the event you change or deactivate your mobile account, you must promptly update your LinkedIn account information to ensure that your messages are not sent to the person that acquires your old number and failure to do so is your responsibility. You acknowledge you are responsible for all charges and necessary permissions related to accessing LinkedIn through your mobile access provider. Therefore, you should check with your provider to find out if the Services are available and the terms for these services for your specific mobile devices. Finally, by using any downloadable application to enable your use of the Services, you are explicitly confirming your acceptance of the terms of the End User License Agreement associated with the application provided at download or installation, or as may be updated from time to time.
-
-2.10. User-to-User Communication and Sharing (LinkedIn Groups, Updates, Company Pages, etc.)
+2.5. Messages and Sharing
 
 When you share information, others can see, copy and use that information.
 
-LinkedIn offers various forums such as LinkedIn Groups and Network Updates, where you can post your observations and comments on designated topics. LinkedIn also enables sharing of information by allowing users to post updates, including links to news articles and other information such as job opportunities, product recommendations, and other content to their profile and other Services, such as SlideShare, LinkedIn Groups and LinkedIn Company Pages. LinkedIn members can create LinkedIn Groups and Company Pages for free, however, LinkedIn, in its sole discretion, may close or transfer LinkedIn Groups or Company Pages, or remove content from them or from anywhere on the Services if the content violates this Agreement or others’ intellectual property rights. Please note that ideas you post and information you share may be seen and used by other Members or, if public, by Visitors (note also that all content you post on SlideShare is publicly visible unless you restrict it to a private audience as a premium subscriber), and LinkedIn cannot guarantee that other Members will or will not use the ideas and information that you share on LinkedIn, nor the manner of use. Therefore, if you have an idea or information that you would like to keep confidential or don’t want others to use, or that is subject to third party rights that may be infringed by your sharing it, do not post it to any LinkedIn Group, into your Network Updates, or elsewhere on LinkedIn. LINKEDIN IS NOT RESPONSIBLE FOR ANOTHER’S MISUSE OR MISAPPROPRIATION OF ANY CONTENT OR INFORMATION YOU POST ON LINKEDIN.
+Our Services allow messaging and sharing of information in many ways, such as your profile, slide deck, links to news articles, job postings, InMails and blogs. Information and content that you share or post may be seen by other Members or, if public, by Visitors. Where we have made settings available, we will honor the choices you make about who can see content or information (e.g., sharing to a group instead of your network, changing the default setting for SlideShare content from public to a more restricted view, limiting your profile visibility, or not letting people know when you change your profile, make recommendations or follow companies). Note that other activities, such as applying for a job or sending an InMail, are by default private, only visible to the addressee(s).
 
-2.11. Privacy
+We are not obligated to publish any information or content on our Service and can remove it in our sole discretion, with or without notice.
 
-You are okay with us collecting, using, storing, and disclosing information about you in keeping with our Privacy Policy.
+Back to Top 3. Rights and Limits 3.1. Your License to Linkedin
 
-You should carefully read our full Privacy Policy before using LinkedIn as it is hereby incorporated into this Agreement by reference, and governs our treatment of any information, including personally identifiable information you submit to us. Please note that certain information, statements, data, and content (such as photographs) which you may submit to LinkedIn, or groups you choose to join might, or are likely to, reveal your gender, ethnic origin, nationality, age, and/or other personal information about you. You acknowledge that your submission of any information, statements, data, and content to us is voluntary on your part and that LinkedIn may process such information, within the terms of the Privacy Policy.
+You own all of the content, feedback, and personal information you provide to us, but you also grant us a non-exclusive license to it.
 
-2.12. Export Control
+We'll honor the choices you make about who gets to see your information and content.
 
-You won’t break export laws.
+You promise to only provide information and content that you have the right to share, and that your LinkedIn profile will be truthful.
 
-Your use of LinkedIn services, including our software, is subject to export and re-export control laws and regulations, including the Export Administration Regulations (“EAR”) maintained by the United States Department of Commerce and sanctions programs maintained by the Treasury Department's Office of Foreign Assets Control. You shall not — directly or indirectly — sell, export, re-export, transfer, divert, or otherwise dispose of any software or service to any end-user without obtaining the required authorizations from the appropriate government authorities. You also warrant that you are not prohibited from receiving US origin products, including services or software.
+As between you and LinkedIn, you own the content and information that you submit or post to the Services and you are only granting LinkedIn the following non-exclusive license: A worldwide, transferable and sublicensable right to use, copy, modify, distribute, publish, and process, information and content that you provide through our Services, without any further consent, notice and/or compensation to you or others. These rights are limited in the following ways:
 
-2.13. Contributions to LinkedIn
+1.  You can end this license for specific content by deleting such content from the Services, or generally by closing your account, except (a) to the extent you shared it with others as part of the Service and they copied or stored it and (b) for the reasonable time it takes to remove from backup and other systems.
+2.  We will not include your content in advertisements for the products and services of others (including sponsored content) to others without your separate consent. However, we have the right, without compensation to you or others, to serve ads near your content and information, and your comments on sponsored content may be visible as noted in the Privacy Policy.
+3.  We will get your consent if we want to give others the right to publish your posts beyond the Service. However, other Members and/or Visitors may access and share your content and information, consistent with your settings and degree of connection with them.
+4.  While we may edit and make formatting changes to your content (such as translating it, modifying the size, layout or file type or removing metadata), we will not modify the meaning of your expression.
+5.  Because you own your content and information and we only have non-exclusive rights to it, you may choose to make it available to others, including under the terms of a Creative Commons license.
 
-If you provide feedback to us, make sure you don’t include confidential or infringing materials. You grant us rights to your feedback.
+You agree that we may access, store and use any information that you provide in accordance with the terms of the Privacy Policy and your privacy settings.
 
-By submitting suggestions or other feedback regarding our Services ("Contributions") in any way to LinkedIn, you acknowledge and agree that: (a) your Contributions do not contain confidential or proprietary information. (b) LinkedIn is not under any obligation of confidentiality, express or implied, with respect to the Contributions. (c) LinkedIn shall be entitled to use or disclose (or choose not to use or disclose) such Contributions for any purpose, in any way, in any media worldwide. (d) LinkedIn may have something similar to the Contributions already under consideration or in development. (e) you irrevocably non-exclusively license to LinkedIn rights to exploit your Contributions. and (f) you are not entitled to any compensation or reimbursement of any kind from LinkedIn under any circumstances.
+By submitting suggestions or other feedback regarding our Services to LinkedIn, you agree that LinkedIn can use and share (but does not have to) such feedback for any purpose without compensation to you.
 
-Back to Top 3. Your Rights
+You agree to only provide content or information if that does not violate the law nor anyone's rights (e.g., without violating any intellectual property rights or breaching a contract). You also agree that your profile information will be truthful. LinkedIn may be required by law to remove certain information or content in certain countries.
 
-If you follow this agreement, we grant you a limited right to use LinkedIn.
+3.2. Service Availability
 
-You will only access and use LinkedIn in the way this agreement allows you.
+We may change or discontinue any of our Services. We can't promise to store or keep showing any information and content you've posted.
 
-On the condition that you comply with all your obligations under this Agreement, including, but not limited to, the Do’s and Don’ts listed in Section 10, we grant you a limited, revocable, nonexclusive, nonassignable, nonsublicenseable license and right to access the Services, through a generally available web browser, mobile device or LinkedIn authorized application (but not through scraping, spidering, crawling or other technology or software used to access data without the express written consent of LinkedIn or its Members), to view content and information and otherwise use the Services, to the extent intended and permitted by the functionality thereof, the Members’ settings and your degree of connection with them, in accordance with this Agreement. Any other use of LinkedIn contrary to our mission and purpose (such as seeking to connect to someone you do not know or trust, or to use information gathered from LinkedIn commercially unless expressly authorized by LinkedIn) is strictly prohibited and a violation of this Agreement. We reserve all rights not expressly granted in this Agreement, including, without limitation, title, ownership, intellectual property rights, and all other rights and interest in LinkedIn and all related items, including any and all copies made of the LinkedIn websites.
+We may change, suspend or end any Service, or change and modify prices prospectively in our discretion. To the extent allowed under law, these changes may be effective upon notice provided to you.
 
-Back to Top 4. Our Rights &. Obligations 4.1. Services Availability
+LinkedIn is not a storage service. You agree that we have no obligation to store, maintain or provide you a copy of any content or information that you or others provide, except to the extent required by applicable law and as noted in Section 3.1 of our Privacy Policy
 
-We may change or discontinue Services, and in such case, we do not promise to keep showing or storing your information and content.
+3.3. Other Content, Sites and apps
 
-For as long as LinkedIn continues to offer the Services, LinkedIn shall provide and seek to update, improve and expand the Services. As a result, we allow you to access LinkedIn as it may exist and be available on any given day and we have no other obligations, except as expressly stated in this Agreement. We may modify, replace, refuse access to, suspend or discontinue LinkedIn, partially or entirely, or change and modify prices prospectively for all or part of the Services for you or for all our Members in our sole discretion. All of these changes shall be effective upon their posting on LinkedIn or by direct communication to you unless otherwise noted.
+When you see or use others' content and information posted on our Services, it's at your own risk.
 
-We may not keep showing the content or information you provide to us.
+Third parties may offer their own products and services through LinkedIn, and we aren't responsible for those third-party activities.
 
-LinkedIn further reserves the right to withhold, remove or discard any content available as part of your account, with or without notice if deemed by LinkedIn to be contrary to this Agreement. For avoidance of doubt, LinkedIn has no obligation to store, maintain or provide you a copy of any content that you or other Members provide when using the Services. LinkedIn may be required by local laws to remove certain information or content and so that information or content may not be available on our Service in those countries.
+By using the Services, you may encounter content or information that might be inaccurate, incomplete, delayed, misleading, illegal, offensive or otherwise harmful. LinkedIn generally does not review content provided by our Members. You agree that we are not responsible for third parties' (including other Members') content or information or for any damages as result of your use of or reliance on it.
 
-4.2. Third Party Content, Sites and Developers
+You are responsible for deciding if you want to access or use third party apps or sites that link from our Services. If you allow a third party app or site to authenticate you or connect with your LinkedIn account, that app or site can access information on LinkedIn related to you and your connections. Third party apps and sites have their own legal terms and privacy policies, and you may be giving others permission to use your information in ways we would not. Except to the limited extent it may be required by applicable law, LinkedIn is not responsible for these other sites and apps -- use these at your own risk. Please see Sections 2.6 and 2.7 of the Privacy Policy.
 
-Your access of other Members’ and third parties’ content and information posted on the Services is at your own risk.
+3.4. Limits
 
-By using the Services, you may be exposed to other Members’ or third party content or information that might be inaccurate, incomplete, delayed, misleading, illegal, offensive or otherwise harmful. Except for certain limited circumstances, such as where legally required, we generally do not review or filter such content. You agree and acknowledge that we are not responsible for other Members’ or third party content or information or for any damage of any kind incurred as result of your reliance thereon.
+We have the right to limit how you connect and interact on our Services.
 
-Third parties may offer their own products and services through LinkedIn, and we are not responsible for these third-party activities.
+We're providing you notice about our intellectual property rights.
 
-LinkedIn may include links to third party web sites (“Third Party Sites”) on our Services. LinkedIn also enables third party developers (“Platform Developers”) to create applications (“Platform Applications”) that provide features and functionality using data and developer tools made available by LinkedIn through its developer platform. You are responsible for evaluating whether you want to access or use a Third Party Site or Platform Application. You should review any applicable terms or privacy policy of a Third Party Site or Platform Application before using it or sharing any information with it, because you may give the third-party permission to use your information in ways we would not. LinkedIn is not responsible for and does not endorse any features, content, advertising, products or other materials on or available from Third Party Sites or Platform Applications. LinkedIn also does not screen, audit, or endorse Platform Applications. Accordingly, if you decide to use Third Party Sites or use Platform Applications, you do so at your own risk and agree that your use of any Platform Application is on an “as-is” basis without any warranty as to the Platform Developer’s actions, and that this Agreement does not apply to your use of any Third Party Site or Developer Application. Please note: If you allow a Platform Application or Third Party Site to authenticate you or connect with your LinkedIn account, that application or website can access information on LinkedIn related to you and your connections. For additional information regarding Platform Developers and Platform Applications, please refer to LinkedIn’s Privacy Policy.
+LinkedIn reserves the right to limit your use of the Services, including the number of your connections and your ability to contact other Members. LinkedIn reserves the right to restrict, suspend, or terminate your account if LinkedIn believes that you may be in breach of this Agreement or law or are misusing the Services (e.g. violating any Do and Don'ts).
 
-4.3. Disclosure of User Information
+LinkedIn reserves all of its intellectual property rights in the Services. For example, LinkedIn, SlideShare, LinkedIn (stylized), the SlideShare and “in” logos and other LinkedIn trademarks, service marks, graphics, and logos used in connection with LinkedIn are trademarks or registered trademarks of LinkedIn. Other trademarks and logos used in connection with the Services may be the trademarks of their respective owners.
 
-You agree that we can use, store, and share information about you as permitted in our Privacy Policy.
+Back to Top 4. Disclaimer and Limit of Liability 4.1. No Warranty
 
-You acknowledge, consent and agree that we may access, preserve, and disclose your registration and any other information you provide in accordance with the terms of the Privacy Policy if required to do so by law or in a good faith belief that such access preservation or disclosure is reasonably necessary in our opinion to: (1) comply with legal process, including, but not limited to, civil and criminal subpoenas, court orders or other compulsory disclosures. (2) enforce this Agreement. (3) respond to claims of a violation of the rights of third parties, whether or not the third party is a Member, individual, or government agency. (4) respond to customer service inquiries. or (5) protect the rights, property, or personal safety of LinkedIn, our Members or the public. Disclosures of Member information to third parties other than those required to provide customer support, administer this agreement, or comply with legal requirements are addressed in the Privacy Policy.
+This is our disclaimer of legal liability for the quality, safety, or reliability of our Services.
 
-4.4. Connections and Interactions with other Members
+TO THE EXTENT ALLOWED UNDER LAW, LINKEDIN (AND THOSE THAT LINKEDIN WORKS WITH TO PROVIDE THE SERVICES) (A) DISCLAIM ALL IMPLIED WARRANTIES AND REPRESENTATIONS (E.G. WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY OF DATA, AND NONINFRINGEMENT). (B) DO NOT GUARANTEE THAT THE SERVICES WILL FUNCTION WITHOUT INTERRUPTION OR ERRORS, AND (C) PROVIDE THE SERVICE (INCLUDING CONTENT AND INFORMATION) ON AN “AS IS” AND “AS AVAILABLE” BASIS.
 
-We have the right to limit the connections and interactions on the Services.
+SOME LAWS DO NOT ALLOW CERTAIN DISCLAIMERS, SO SOME OR ALL OF THESE DISCLAIMERS MAY NOT APPLY TO YOU.
 
-You are solely responsible for your interactions with other Members. LinkedIn may limit the number of connections you may have to other Members and may, in certain circumstances, prohibit you from contacting other Users through use of the Services or otherwise limit your use of the Services. LinkedIn reserves the right, but has no obligation, to monitor disputes between you and other members and to restrict, suspend, or close your account if LinkedIn determines, in our sole discretion, that doing so is necessary to enforce this Agreement.
+4.2. Exclusion of Liability
 
-4.5. Intellectual Property Notices
+These are the limits of legal liability we may have to you.
 
-We are providing you notice about our intellectual property rights.
+TO THE EXTENT PERMITTED UNDER LAW (AND UNLESS LINKEDIN HAS ENTERED INTO A SEPARATE WRITTEN AGREEMENT THAT SUPERSEDES THIS AGREEMENT), LINKEDIN (AND THOSE THAT LINKEDIN WORKS WITH TO PROVIDE THE SERVICES) SHALL NOT BE LIABLE TO YOU OR OTHERS FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR ANY LOSS OF DATA, OPPORTUNITIES, REPUTATION, PROFITS OR REVENUES, RELATED TO THE SERVICES (E.G. OFFENSIVE OR DEFAMATORY STATEMENTS, DOWN TIME OR LOSS, USE OR CHANGES TO YOUR INFORMATION OR CONTENT).
 
-The Services include the copyrights and Intellectual property rights of LinkedIn and except for the limited license granted to you in Section 3, LinkedIn reserves all of its intellectual property rights in the Services. LinkedIn, SlideShare, LinkedIn (stylized), the SlideShare and “in” logos and other LinkedIn trademarks, service marks, graphics, and logos used in connection with LinkedIn are trademarks or registered trademarks of LinkedIn or LinkedIn Affiliates in the U.S. and/or other countries. Other trademarks and logos used in connection with LinkedIn may be the trademarks of their respective owners. This Agreement does not grant you any right or license with respect to any such trademarks and logos.
+IN NO EVENT SHALL THE LIABILITY OF LINKEDIN (AND THOSE THAT LINKEDIN WORKS WITH TO PROVIDE THE SERVICES) EXCEED, IN THE AGGREGATE FOR ALL CLAIMS, AN AMOUNT THAT IS THE LESSER OF (A) FIVE TIMES THE MOST RECENT MONTHLY OR YEARLY FEE THAT YOU PAID FOR A PREMIUM SERVICE, IF ANY, OR (B) US $1000.
 
-Back to Top 5. Disclaimer
+THIS LIMITATION OF LIABILITY IS PART OF THE BASIS OF THE BARGAIN BETWEEN YOU AND LINKEDIN AND SHALL APPLY TO ALL CLAIMS OF LIABILITY (E.G. WARRANTY, TORT, NEGLIGENCE, CONTRACT, LAW) AND EVEN IF LINKEDIN HAS BEEN TOLD OF THE POSSIBILITY OF ANY SUCH DAMAGE, AND EVEN IF THESE REMEDIES FAIL THEIR ESSENTIAL PURPOSE.
 
-We disclaim any legal liability for the quality, safety, or reliability of LinkedIn.
+SOME LAWS DO NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY, SO THESE LIMITS MAY NOT APPLY TO YOU.
 
-SOME COUNTRIES AND JURISDICTIONS DO NOT ALLOW THE DISCLAIMER OF IMPLIED TERMS IN CONTRACTS WITH CONSUMERS AND AS A RESULT THE CONTENTS OF THIS SECTION MAY NOT APPLY TO YOU. DO NOT RELY ON LINKEDIN OR ITS SUPPLIERS, ANY INFORMATION THEREIN, OR ITS CONTINUATION. WE PROVIDE THE PLATFORM FOR LINKEDIN AND ALL INFORMATION AND SERVICES ON AN “AS IS” AND “AS AVAILABLE” BASIS. LINKEDIN DOES NOT CONTROL OR VET USER GENERATED CONTENT FOR ACCURACY. WE DO NOT PROVIDE ANY EXPRESS WARRANTIES OR REPRESENTATIONS. TO THE FULLEST EXTENT PERMISSIBLE UNDER APPLICABLE LAW, LINKEDIN AND ITS SUPPLIERS DISCLAIM ANY AND ALL IMPLIED WARRANTIES AND REPRESENTATIONS, INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, ACCURACY OF DATA, AND NONINFRINGEMENT. IF YOU ARE DISSATISFIED OR HARMED BY LINKEDIN OR ANYTHING RELATED TO LINKEDIN, YOU MAY CLOSE YOUR LINKEDIN ACCOUNT AND TERMINATE THIS AGREEMENT IN ACCORDANCE WITH SECTION 7 (“TERMINATION”) AND SUCH TERMINATION SHALL BE YOUR SOLE AND EXCLUSIVE REMEDY. LINKEDIN IS NOT RESPONSIBLE, AND MAKES NO REPRESENTATIONS OR WARRANTIES FOR THE DELIVERY OF ANY MESSAGES (SUCH AS INMAILS, POSTING OF ANSWERS OR TRANSMISSION OF ANY OTHER USER GENERATED CONTENT) SENT THROUGH LINKEDIN TO ANYONE. IN ADDITION, WE NEITHER WARRANT NOR REPRESENT THAT YOUR USE OF THE SERVICES WILL NOT INFRINGE THE RIGHTS OF THIRD PARTIES. ANY MATERIAL, SERVICE, OR TECHNOLOGY DESCRIBED OR USED ON OUR WEBSITES MAY BE SUBJECT TO INTELLECTUAL PROPERTY RIGHTS OWNED BY THIRD PARTIES WHO HAVE LICENSED SUCH MATERIAL, SERVICE, OR TECHNOLOGY TO US. LINKEDIN DOES NOT HAVE ANY OBLIGATION TO VERIFY THE IDENTITY OF THE PERSONS SUBSCRIBING TO ITS SERVICES, NOR DOES IT HAVE ANY OBLIGATION TO MONITOR THE USE OF ITS SERVICES BY OTHER USERS OF THE COMMUNITY. THEREFORE, LINKEDIN DISCLAIMS ALL LIABILITY FOR IDENTITY THEFT OR ANY OTHER MISUSE OF YOUR IDENTITY OR INFORMATION BY OTHERS. LINKEDIN DOES NOT GUARANTEE THAT THE SERVICES IT PROVIDES WILL FUNCTION WITHOUT INTERRUPTION OR ERRORS IN FUNCTIONING. IN PARTICULAR, THE OPERATION OF THE SERVICES MAY BE INTERRUPTED DUE TO MAINTENANCE, UPDATES, OR SYSTEM OR NETWORK FAILURES. LINKEDIN DISCLAIMS ALL LIABILITY FOR DAMAGES CAUSED BY ANY SUCH INTERRUPTION OR ERRORS IN FUNCTIONING. FURTHERMORE, LINKEDIN DISCLAIMS ALL LIABILITY FOR ANY MALFUNCTIONING, IMPOSSIBILITY OF ACCESS, OR POOR USE CONDITIONS OF THE LINKEDIN SITES DUE TO INAPPROPRIATE EQUIPMENT, DISTURBANCES RELATED TO INTERNET SERVICE PROVIDERS, TO THE SATURATION OF THE INTERNET NETWORK, AND FOR ANY OTHER REASON.
-
-Back to Top 6. Limitation of Liability
-
-We are trying to limit any legal liability we may have to you.
-
-LIMITATION OF LIABILITY. SOME COUNTRIES DO NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY IN CONTRACTS WITH CONSUMERS AND AS A RESULT THE CONTENTS OF THIS SECTION MAY NOT APPLY TO YOU. Neither LinkedIn nor any of our subsidiaries, affiliated companies, suppliers, employees, shareholders, or directors (“LinkedIn Affiliates”) shall be cumulatively liable for (a) any damages in excess of five times the most recent monthly fee that you paid for a Premium Service, if any, or US $100, whichever amount is greater, or (b) any special, incidental, indirect, punitive or consequential damages or loss of use, profit, revenue or data to you or any third person arising from your use of the Services, any Platform Applications or any of the content or other materials on, accessed through or downloaded from LinkedIn. This limitation of liability is part of the basis of the bargain between the parties and without it the terms and prices charged would be different. This limitation of liability shall:
-
-*   Apply regardless of whether (1) you base your claim on contract, tort, statute or any other legal theory, (2) we knew or should have known about the possibility of such damages, or (3) the limited remedies provided in this section fail of their essential purpose. and
-*   Not apply to any damage that LinkedIn may cause you intentionally or knowingly in violation of this Agreement or applicable law, or as otherwise mandated by applicable law that cannot be disclaimed in this Agreement.
-*   Not apply if you have entered into a separate agreement to purchase Premium Services with a separate Limitation of Liability provision that supersedes this section in relation to those Premium Services.
-
-Back to Top 7. Termination 7.1. Mutual rights of termination
+Back to Top 5. Termination
 
 We can each end this Agreement anytime we want.
 
-You may terminate this Agreement, for any or no reason, at any time, with notice to LinkedIn pursuant to Section 9.3. This notice will be effective upon LinkedIn processing your notice. LinkedIn may terminate this Agreement and your account for any reason or no reason, at any time, with or without notice. This cancellation shall be effective immediately or as may be specified in the notice. For avoidance of doubt, only LinkedIn or the party paying for the services may terminate your access to any Premium Services. Termination of your LinkedIn account includes disabling your access to LinkedIn and may also bar you from any future use of LinkedIn.
+LinkedIn or You may terminate this Agreement at any time with notice to the other. On termination, you lose the right to access or use the Services. The following shall survive termination:
 
-7.2. Misuse of the Services
+*   Our rights to use and disclose your feedback;
+*   Members and/or Visitors'r rights to further re-share content and information you shared through the Service to the extent copied or re-shared prior to termination;
+*   Sections 4, 6 and 7 of this Agreement;
+*   Any amounts owed by either party prior to termination remain owed after termination.
 
-LinkedIn may restrict, suspend or terminate the account of any Member who abuses or misuses the Services. Misuse of the Services includes inviting other Members with whom you do not know to connect. abusing the LinkedIn messaging services. creating multiple or false profiles. using the Services commercially without LinkedIn’s authorization, infringing any intellectual property rights, violating any of the Do’s and Don’ts listed in Section 10, or any other behavior that LinkedIn, in its sole discretion, deems contrary to its purpose. In addition, and without limiting the foregoing, LinkedIn has adopted a policy of terminating accounts of Members who, in LinkedIn’s sole discretion, are deemed to be repeat infringers under the United States Copyright Act.
+You can visit our Help Center to learn how to close your LinkedIn account, close your Pulse account, or close your Slideshare account.
 
-7.3. Effect of Termination
-
-Upon termination of your LinkedIn account, you lose access to the Services. The terms of this Agreement shall survive any termination, except Section 3 (“Your Rights”) and Sections 4.1., 4.2., and 4.3. (“Our Rights and Obligations”).
-
-Back to Top 8. Dispute Resolution 8.1. Law and Forum for Legal Disputes
+Back to Top 6. Dispute Resolution
 
 In the unlikely event we end up in a legal dispute, it will take place in California courts, applying California law.
 
-This Agreement or any claim, cause of action or dispute (“claim”) arising out of or related to this Agreement shall be governed by the laws of the state of California regardless of your country of origin or where you access LinkedIn, and notwithstanding of any conflicts of law principles and the United Nations Convention for the International Sale of Goods. You and LinkedIn agree that all claims arising out of or related to this Agreement must be resolved exclusively by a state or federal court located in Santa Clara County, California, except as otherwise agreed by the parties or as described in the Arbitration Option paragraph below. You and LinkedIn agree to submit to the personal jurisdiction of the courts located within Santa Clara County, California for the purpose of litigating all such claims. Notwithstanding the above, you agree that LinkedIn shall still be allowed to apply for injunctive remedies (or an equivalent type of urgent legal relief) in any jurisdiction.
+You agree that the laws of the State of California, U.S.A., excluding its conflict of laws rules, shall exclusively govern any dispute relating to this Agreement and/or the Services. We both agree that all of these claims can only be litigated in the federal or state courts of Santa Clara County, California, USA, and we each agree to personal jurisdiction in those courts.
 
-8.2. Arbitration Option
-
-Each of us will have the right to choose arbitration.
-
-For any claim (excluding claims for injunctive or other equitable relief) where the total amount of the award sought is less than $10,000, the party requesting relief may elect to resolve the dispute in a cost effective manner through binding non-appearance-based arbitration. In the event a party elects arbitration, they shall initiate such arbitration through an established alternative dispute resolution (“ADR”) provider mutually agreed upon by the parties. The ADR provider and the parties must comply with the following rules: (a) the arbitration shall be conducted by telephone, online and/or be solely based on written submissions, the specific manner shall be chosen by the party initiating the arbitration. (b) the arbitration shall not involve any personal appearance by the parties or witnesses unless otherwise mutually agreed by the parties. and (c) any judgment on the award rendered by the arbitrator shall be final and may be entered in any court of competent jurisdiction.
-
-Back to Top 9. General Terms 9.1. Severability
+Back to Top 7. General Terms
 
 Here are some important details about how to read the Agreement.
 
-If any provision of this Agreement is found by a court of competent jurisdiction or arbitrator to be illegal, void, or unenforceable, the unenforceable provision will be modified so as to render it enforceable and effective to the maximum extent possible in order to effect the intention of the provision. if a court or arbitrator finds the modified provision invalid, illegal, void or unenforceable, the validity, legality and enforceability of the remaining provisions of this Agreement will not be affected in any way.
+If a court with authority over this Agreement finds any part of it not enforceable, you and us agree that the court should modify the terms to make that part enforceable while still achieving its intent. If the court cannot do that, you and us agree to ask the court to remove that unenforceable part and still enforce the rest of this Agreement. To the extent allowed by law, the English version of this Agreement is binding and other translations are for convenience only. This Agreement (including additional terms that may be provided by us when you engage with a feature of the Services) is the only agreement between us regarding the Services and supersedes all prior agreements for the Services.
 
-9.2. Language
+If we don't act to enforce a breach of this Agreement, that does not mean that LinkedIn has waived its right to enforce this Agreement. You may not assign or transfer this Agreement (or your membership or use of Services) to anyone without our consent. However, you agree that LinkedIn may assign this Agreement to its affiliates or a party that buys it without your consent. There are no third party beneficiaries to this Agreement.
 
-Where LinkedIn has provided you with a translation of the English language version of this Agreement, the Privacy Policy, or any other documentation, you agree that the translation is provided for your convenience only and that the English language versions of this Agreement, the Privacy Policy, and any other documentation, including additional terms of service for Premium Services, will govern your relationship with LinkedIn.
+We reserve the right to change the terms of this Agreement and will provide you notice if we do and we agree that changes cannot be retroactive. If you don't agree to these changes, you must stop using the Services.
 
-9.3. Notices and Service of Process
+You agree that the only way to provide us legal notice is at the addresses provided in Section 10.
 
-In addition to Section 2.8. (“Notices and Service Messages”), we may notify you via postings on www.linkedin.com, www.slideshare.net or another LinkedIn site or app. You may contact us here. Or via mail or courier at: LinkedIn Corporation ATTN: Legal Department 2029 Stierlin Court Mountain View, CA 94043 USA Additionally, LinkedIn accepts service of process at this address. Any notices that you provide without compliance with this section shall have no legal effect.
+Back to Top 8. LinkedIn “DOs” and “DON’Ts.” 8.1. Dos. You agree that you will:
 
-9.4. Entire Agreement
+*   Comply with all applicable laws, including, without limitation, privacy laws, intellectual property laws, anti-spam laws, export control laws, tax laws, and regulatory requirements;
+*   Provide accurate information to us and keep it updated;
+*   Use your real name on your profile;
+*   Use the Services in a professional manner.
 
-You agree that this Agreement constitutes the entire, complete and exclusive agreement between you and LinkedIn regarding the Services and supersedes all prior agreements and understandings, whether written or oral, or whether established by custom, practice, policy or precedent, with respect to the subject matter of this Agreement. You also may be subject to additional terms and conditions that may apply when you use or purchase certain other LinkedIn services, third-party content or third party software.
+8.2. Don'ts. You agree that you will not:
 
-9.5. Amendments to This Agreement
+*   Act dishonestly or unprofessionally, including by posting inappropriate, inaccurate, or objectionable content;
+*   Add content that is not intended for, or inaccurate for, a designated field (e.g. submitting a telephone number in the “title” or any other field, or including telephone numbers, email addresses, street addresses or any personally identifiable information for which there is not a field provided by LinkedIn);
+*   Use an image that is not your likeness or a head-shot photo for your profile;
+*   Create a false identity on LinkedIn;
+*   Misrepresent your current or previous positions and qualifications;
+*   Misrepresent your affiliations with a person or entity, past or present;
+*   Misrepresent your identity, including but not limited to the use of a pseudonym;
+*   Create a Member profile for anyone other than yourself (a real person);
+*   Invite people you do not know to join your network;
+*   Use or attempt to use another's account;
+*   Harass, abuse or harm another person;
+*   Send spam or other unwelcomed communications to others;
+*   Scrape or copy profiles and information of others through any means (including crawlers, browser plugins and add-ons, and any other technology or manual work);
+*   Act in an unlawful, libelous, abusive, obscene, discriminatory or otherwise objectionable manner;
+*   Disclose information that you do not have the right to disclose (such as confidential information of others (including your employer));
+*   Violate intellectual property rights of others, including patents, trademarks, trade secrets, copyrights or other proprietary rights;
+*   Violate the intellectual property or other rights of LinkedIn, including, without limitation, using the word “LinkedIn” or our logos in any business name, email, or URL except as provided in the Brand Guidelines;
+*   Use LinkedIn invitations to send messages to people who don't know you or who are unlikely to recognize you as a known contact;
+*   Post any unsolicited or unauthorized advertising, “junk mail,” “spam,” “chain letters,” “pyramid schemes,” or any other form of solicitation unauthorized by LinkedIn;
+*   Send messages to distribution lists, newsgroup aliases, or group aliases;
+*   Post anything that contains software viruses, worms, or any other harmful code;
+*   Manipulate identifiers in order to disguise the origin of any message or post transmitted through the Services;
+*   Create profiles or provide content that promotes escort services or prostitution.
+*   Creating or operate a pyramid scheme, fraud or other similar practice;
+*   Copy or use the information, content or data of others available on the Services (except as expressly authorized);
+*   Copy or use the information, content or data on LinkedIn in connection with a competitive service (as determined by LinkedIn);
+*   Copy, modify or create derivative works of LinkedIn, the Services or any related technology (except as expressly authorized by LinkedIn);
+*   Reverse engineer, decompile, disassemble, decipher or otherwise attempt to derive the source code for the Services or any related technology, or any part thereof;
+*   Imply or state that you are affiliated with or endorsed by LinkedIn without our express consent (e.g., representing yourself as an accredited LinkedIn trainer);
+*   Rent, lease, loan, trade, sell/re-sell access to the Services or related any information or data;
+*   Sell, sponsor, or otherwise monetize a LinkedIn Group or any other feature of the Services, without LinkedIn's consent;
+*   Deep-link to our Services for any purpose other than to promote your profile or a Group on LinkedIn (as set forth in the Brand Guidelines), without LinkedIn's consent;
+*   Remove any copyright, trademark or other proprietary rights notices contained in or on our Service;
+*   Remove, cover or obscure any advertisement included on the Services;
+*   Collect, use, copy, or transfer any information obtained from LinkedIn without the consent of LinkedIn;
+*   Share or disclose information of others without their express consent;
+*   Use manual or automated software, devices, scripts robots, other means or processes to access, “scrape,” “crawl” or “spider” the Services or any related data or information;
+*   Use bots or other automated methods to access the Services, add or download contacts, send or redirect messages;
+*   Monitor the Services' availability, performance or functionality for any competitive purpose;
+*   Engage in “framing,” “mirroring,” or otherwise simulating the appearance or function of the Services;
+*   Access the Services except through the interfaces expressly provided by LinkedIn, such as its mobile applications, linkedin.com and slideshare.net;
+*   Override any security feature of the Services;
+*   Interfere with the operation of, or place an unreasonable load on, the Services (e.g., spam, denial of service attack, viruses, gaming algorithms). and/or
+*   Violate SlideShare's Community Guidelines or, if you're a commercial user of SlideShare, the SlideShare Commercial Terms of Service.
 
-We reserve the right to modify, supplement, or replace the terms of this Agreement, effective prospectively upon posting at www.linkedin.com or notifying you otherwise. For example, we may present a banner on the Services when we have amended this Agreement or the Privacy Policy so that you may access and review the changes prior to your continued use of the Services. If you do not want to agree to changes to this Agreement, you can terminate this Agreement at any time per Section 7 (Termination).
+Back to Top 9. Complaints Regarding Content
 
-9.6. No informal waivers, agreements or representations
+We respect the intellectual property rights of others. We require that information posted by Members be accurate and not in violation of the intellectual property rights or other rights of third parties. We provide a policy and process for complaints concerning content posted by our Members.
 
-Our failure to act with respect to a breach of this Agreement by you or others does not waive our right to act with respect to that breach or subsequent similar or other breaches. Except as expressly and specifically contemplated by the Agreement, no representations, statements, consents, waivers or other acts or omissions by any LinkedIn Affiliate shall be deemed legally binding on any LinkedIn Affiliate, unless documented in a physical writing hand signed by a duly appointed officer of LinkedIn.
+Back to Top 10. How To Contact Us
 
-9.7. No Injunctive Relief
+If you want to send us notices or service of process, please contact us:
 
-You waive your rights to try to stop LinkedIn, but we don’t waive our rights to ask a court to stop your actions.
+ONLINE at: https://help.linkedin.com/app/home
 
-In no event shall you seek or be entitled to rescission, injunctive or other equitable relief, or to enjoin or restrain the operation of the Services, exploitation of any advertising or other materials issued in connection therewith, or exploitation of the Services or any content or other material used or displayed through the Services.
-
-9.8. Beneficiaries
-
-Entities other than LinkedIn Corporation and LinkedIn Ireland, that LinkedIn Corporation owns a 50% or greater interest in (“Affiliate”) are not parties, but intended third party beneficiaries of this Agreement, with a right to enforce this Agreement directly against you.
-
-9.9. Assignment and Delegation
-
-You can’t assign your rights under this Agreement, but we can.
-
-You may not assign or delegate any rights or obligations under the Agreement. Any purported assignment and delegation shall be ineffective. We may freely assign or delegate all rights and obligations under the Agreement, fully or partially without notice to you. We may also substitute, by way of unilateral novation, effective upon notice to you, LinkedIn Corporation for any third party that assumes our rights and obligations under this Agreement.
-
-9.10. Potential Other Rights and Obligations
-
-You may have rights or obligations under local law other than those enumerated here if you are located outside the United States.
-
-Back to Top 10. LinkedIn “DOs” and “DON’Ts.”
-
-As a condition to access LinkedIn, you agree to this User Agreement and to strictly observe the following DOs and DON’Ts:
-
-10.1. Do undertake the following:
-
-Here’s a list of some of the specific things we ask you to do and not do on LinkedIn. If you want a high-level summary of these, please check out our Professional Community Guidelines.
-
-1.  Comply with all applicable laws, including, without limitation, privacy laws, intellectual property laws, export control laws, tax laws, and regulatory requirements;
-2.  Provide accurate information to us and update it as necessary;
-3.  Review and comply with our Privacy Policy.
-4.  Review and comply with notices sent by LinkedIn concerning the Services;
-5.  Use the Services in a professional manner. and
-6.  Use your real name on your profile.
-
-10.2. Don’t undertake the following:
-
-1.  Act dishonestly or unprofessionally by engaging in unprofessional behavior by posting inappropriate, inaccurate, or objectionable content to LinkedIn;
-2.  Publish inaccurate information in the designated fields on the profile form (e.g., do not include a link or an email address in the name field). Please also protect sensitive personal information such as your email address, phone number, street address, or other information that is confidential in nature;
-3.  Create a Member profile for anyone other than a natural person;
-4.  Harass, abuse or harm another person, including sending unwelcomed communications to others using LinkedIn;
-5.  Invite people you do not know to join your network;
-6.  Upload a profile image that is not your likeness or a head-shot photo;
-7.  Use or attempt to use another's account or create a false identity on LinkedIn;
-8.  Upload, post, email, InMail, transmit or otherwise make available or initiate any content that:
-    1.  Falsely states, impersonates or otherwise misrepresents your identity, including but not limited to the use of a pseudonym, or misrepresenting your current or previous positions and qualifications, or misrepresents your affiliations with a person or entity, past or present.
-    2.  Is unlawful, libelous, abusive, obscene, discriminatory or otherwise objectionable.
-    3.  Adds to a content field content that is not intended for such field (e.g. submitting a telephone number in the “title” or any other field, or including telephone numbers, email addresses, street addresses or any personally identifiable information for which there is not a field provided by LinkedIn).
-    4.  Includes information that you do not have the right to disclose or make available under any law or under contractual or fiduciary relationships (such as insider information, or proprietary and confidential information learned or disclosed as part of employment relationships or under nondisclosure agreements).
-    5.  Infringes upon patents, trademarks, trade secrets, copyrights or other proprietary rights.
-    6.  Includes any unsolicited or unauthorized advertising, promotional materials, “junk mail,” “spam,” “chain letters,” “pyramid schemes,” or any other form of solicitation. This prohibition includes but is not limited to (a) using LinkedIn invitations to send messages to people who don’t know you or who are unlikely to recognize you as a known contact. (b) using LinkedIn to connect to people who don’t know you and then sending unsolicited promotional messages to those direct connections without their permission. and (c) sending messages to distribution lists, newsgroup aliases, or group aliases.
-    7.  Contains software viruses, worms, or any other computer code, files or programs that interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment of LinkedIn or any user of LinkedIn.
-    8.  Forges headers or otherwise manipulate identifiers in order to disguise the origin of any communication transmitted through the Services. or
-    9.  Even if it is legal where you are located, create profiles or provide content that promotes escort services or prostitution.
-9.  Participate, directly or indirectly, in the setting up or development of a network that seeks to implement practices that are similar to sales by network or the recruitment of independent home salespeople for the purposes of creating a pyramid scheme or other similar practices;
-10.  Duplicate, license, sublicense, publish, broadcast, transmit, distribute, perform, display, sell, rebrand, or otherwise transfer information found on LinkedIn (excluding content posted by you) except as permitted in this Agreement, LinkedIn’s developer terms and policies, or as expressly authorized by LinkedIn;
-11.  Reverse engineer, decompile, disassemble, decipher or otherwise attempt to derive the source code for any underlying intellectual property used to provide the Services, or any part thereof;
-12.  Utilize or copy information, content or any data you view on or obtain from LinkedIn to provide any service that is competitive, in LinkedIn’s sole discretion, with LinkedIn;
-13.  Imply or state, directly or indirectly, that you are affiliated with or endorsed by LinkedIn unless you have entered into a written agreement with LinkedIn (this includes, but is not limited to, representing yourself as an accredited LinkedIn trainer if you have not been certified by LinkedIn as such);
-14.  Adapt, modify or create derivative works based on LinkedIn or technology underlying the Services, or other Members’ content, in whole or part, except as permitted under LinkedIn’s developer program;
-15.  Rent, lease, loan, trade, sell/re-sell access to LinkedIn or any information therein, or the equivalent, in whole or part;
-16.  Sell, sponsor, or otherwise monetize a LinkedIn Group or any other service or functionality of LinkedIn, without the express written permission of LinkedIn;
-17.  Deep-link to our sites for any purpose, (i.e. creating or posting a link to a LinkedIn web page other than LinkedIn’s home page) unless expressly authorized in writing by LinkedIn or for the purpose of promoting your profile or a Group on LinkedIn as set forth in the Brand Guidelines;
-18.  Remove any copyright, trademark or other proprietary rights notices contained in or on LinkedIn, including those of both LinkedIn and any of its licensors;
-19.  Remove, cover or otherwise obscure any form of advertisement included on LinkedIn;
-20.  Collect, use, copy, or transfer any information, including, but not limited to, personally identifiable information obtained from LinkedIn except as expressly permitted in this Agreement or as the owner of such information may expressly permit;
-21.  Share information of non- Members without their express consent;
-22.  Infringe or use LinkedIn’s brand, logos or trademarks, including, without limitation, using the word “LinkedIn” in any business name, email, or URL or including LinkedIn’s trademarks and logos except as provided in the Brand Guidelines or as expressly permitted by LinkedIn;
-23.  Use manual or automated software, devices, scripts robots, other means or processes to access, “scrape,” “crawl” or “spider” any web pages or other services contained in the site;
-24.  Use bots or other automated methods to access LinkedIn, add or download contacts, send or redirect messages, or perform other similar activities through LinkedIn, unless explicitly permitted by LinkedIn;
-25.  Access, via automated or manual means or processes, LinkedIn for purposes of monitoring LinkedIn’s availability, performance or functionality for any competitive purpose;
-26.  Engage in “framing,” “mirroring,” or otherwise simulating the appearance or function of LinkedIn’s website;
-27.  Attempt to or actually access LinkedIn by any means other than through the interfaces provided by LinkedIn such as its mobile application or by navigating to http://www.linkedin.com using a web browser. This prohibition includes accessing or attempting to access LinkedIn using any third-party service, including software-as-a-service platforms that aggregate access to multiple services, including LinkedIn;
-28.  Attempt to or actually override any security component included in or underlying LinkedIn;
-29.  Engage in any action that directly or indirectly interferes with the proper working of or places an unreasonable load on LinkedIn’s infrastructure, including, but not limited to, sending unsolicited communications to other Members or LinkedIn personnel, attempting to gain unauthorized access to LinkedIn, or transmitting or activating computer viruses through or on LinkedIn. and/or
-30.  Interfere or disrupt or game LinkedIn or the Services, including, but not limited to, any servers or networks connected to LinkedIn, or LinkedIn's search algorithms.
-31.  Violate SlideShare’s Community Guidelines or, if you’re a commercial user of SlideShare, the SlideShare Commercial Terms of Service
-
-Back to Top 11. Complaints Regarding Content Posted on the LinkedIn Website
-
-If you think someone has stolen or misused your intellectual property on LinkedIn, please check out our Copyright Policy.
-
-We built LinkedIn to help you be a more successful professional, and to help professionals succeed. To achieving this purpose, we encourage our Members to share accurate information. We also respect the intellectual property rights of others. Accordingly, this Agreement requires that information posted by Members be accurate and not in violation of the intellectual property rights or other rights of third parties. To promote these objectives, LinkedIn provides a process for submission of complaints concerning content posted by our Members. Our policy and procedures can be found here: LinkedIn Copyright Policy. Claims regarding Copyright Infringement. Claims regarding content (other than copyright).
-
-Back to Top How To Contact Us
-
-If you have questions or comments about this User Agreement, please contact us online or by physical mail at:
+OR BY MAIL at:
 
 For Members in the United States:
 
 LinkedIn Corporation
 
-Attn: User Agreement Issues
+Attn: Agreement Matters (Legal)
 
 2029 Stierlin Court
 
@@ -351,7 +266,7 @@ For Members outside the United States:
 
 LinkedIn Ireland
 
-Attn: User Agreement Issues
+Attn: Agreement Matters (Legal)
 
 Gardner House, Wilton Place,
 
@@ -361,4 +276,4 @@ Ireland
 
 Back to Top
 
-LinkedIn Corporation, Mountain View, California, USA, and LinkedIn Ireland, Dublin, Ireland, March 26, 2014
+LinkedIn Corporation, Mountain View, California, USA, and LinkedIn Ireland, Dublin, Ireland, October 23, 2014
