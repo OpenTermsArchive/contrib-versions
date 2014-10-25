@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Can i have my blog back?
-    *   by Tea\_bubble
-    *   1 hour ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   What happened to blogrings?
-    *   \[Resolved\] by ArabianEyedPrincess
-    *   3 months ago
-    *   in Miscellaenous
-    *   0 votes
-    *   2 (last comment by indie\_and\_infinite 4 hours ago)
-*   My profile photo is too small.
-    *   by sfiawong
-    *   1 day ago
-    *   in Avatars
-    *   0 votes
-    *   0
-*   missing data
-    *   by TracyShinMan
-    *   1 day ago
+*   How do I download an archive of my old blog?
+    *   by thibault
+    *   6 hours ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Missing photos
     *   by lfespock
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   Retrieve blog
-    *   by milklover2010
-    *   1 day ago
-    *   in Data Migration
+    *   1 (last comment by eugenia 11 hours ago)
+*   My profile photo is too small.
+    *   \[Resolved\] by sfiawong
+    *   2 days ago
+    *   in Avatars
     *   0 votes
-    *   0
+    *   1 (last comment by eugenia 11 hours ago)
 *   Retrieve my Blog
-    *   by jacobslilbrother
+    *   \[Resolved\] by jacobslilbrother
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 11 hours ago)
+*   Retrieve blog
+    *   \[Resolved\] by milklover2010
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 11 hours ago)
+*   missing data
+    *   \[Resolved\] by TracyShinMan
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 11 hours ago)
+*   What happened to blogrings?
+    *   \[Resolved\] by ArabianEyedPrincess
+    *   3 months ago
+    *   in Miscellaenous
+    *   0 votes
+    *   3 (last comment by eugenia 11 hours ago)
+*   Can i have my blog back?
+    *   \[Resolved\] by Tea\_bubble
     *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   0
+    *   1 (last comment by eugenia 11 hours ago)
 *   Restore blog
     *   \[Resolved\] by kavina2520
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Retrieving my blog
     *   \[Resolved\] by djva
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   What If We now Want to be a member?
     *   \[Resolved\] by boltnut55
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   can i retrieve my old blogs?
     *   \[Resolved\] by OM12steff143
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Missed downloading my archives
     *   \[Resolved\] by jaggedjunky
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   9 (last comment by eugenia 2 days ago)
+    *   9 (last comment by eugenia 3 days ago)
 *   worst idea to upgrade and delete people's blogs
     *   \[Resolved\] by d0tdOtdoT
+    *   5 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 3 days ago)
+*   Old blog
+    *   \[Resolved\] by babii\_siiiiiu
     *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
-*   Old blog
-    *   \[Resolved\] by babii\_siiiiiu
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
-*   my xanga blogs
-    *   \[Resolved\] by jennybennyy
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
+    *   1 (last comment by eugenia 3 days ago)
 
 1 2 3 ... 141 Next
 
