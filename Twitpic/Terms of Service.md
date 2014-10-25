@@ -67,6 +67,8 @@ Twitpic Inc
 PO Box 2692  
 Claremore, OK 74018-2692  
 
+Or via email: support@twitpic.zendesk.com
+
 You acknowledge that if you fail to comply with all of the requirements of this Section 8(A) your DMCA notice may not be valid.
 
 B. Counter-Notice. If you believe that your User Submission that was removed (or to which access was disabled) is not infringing, or that you have the authorization from the copyright owner, the copyright owners agent, or pursuant to the law, to post and use the content in your User Submission, you may send a counter-notice containing the following information to the Copyright Agent:
