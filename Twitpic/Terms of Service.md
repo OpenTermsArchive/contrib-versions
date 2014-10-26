@@ -62,12 +62,7 @@ A statement that the information in the notification is accurate, and under pena
 
 Twitpic's designated Copyright Agent to receive notifications of claimed infringement is:
 
-Attention: Copyright Agent  
-Twitpic Inc  
-PO Box 2692  
-Claremore, OK 74018-2692  
-
-Or via email: support@twitpic.zendesk.com
+Via email: twitpicsupport@twitter.com
 
 You acknowledge that if you fail to comply with all of the requirements of this Section 8(A) your DMCA notice may not be valid.
 
