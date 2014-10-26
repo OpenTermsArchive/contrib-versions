@@ -79,9 +79,4 @@ Questions or Concerns
 If you have any questions regarding this privacy policy or information that you have submitted to us you can contact us at:
 
 Email:  
-noah@twitpic.com
-
-Address:  
-TwitPic Inc.  
-PO Box 22126  
-Charleston, SC 29413
+twitpicsupport@twitter.com
