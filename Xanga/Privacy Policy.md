@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   updating and blogging
+    *   by aussiechica384
+    *   56 minutes ago
+    *   in Adding &. Editing Entries
+    *   0 votes
+    *   0
+*   Retrieve my Blog
+    *   \[Resolved\] by jacobslilbrother
+    *   5 days ago
+    *   in Data Migration
+    *   0 votes
+    *   3 (last comment by eugenia 8 hours ago)
+*   Where is my blog?
+    *   \[Resolved\] by lppphk
+    *   9 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 8 hours ago)
 *   Lost blogs
     *   by Gustava
-    *   1 hour ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old account
     *   by ncf\_kcf
-    *   12 hours ago
+    *   1 day ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Linking name for easier finding
     *   by Blue\_Moon1
-    *   1 day ago
+    *   2 days ago
     *   in Usernames
     *   0 votes
     *   0
 *   I need help
     *   by Mah\_Chelle
-    *   1 day ago
+    *   2 days ago
     *   in Themes
     *   0 votes
     *   0
 *   How do I download an archive of my old blog?
     *   by thibault
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Missing photos
     *   by lfespock
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   My profile photo is too small.
     *   \[Resolved\] by sfiawong
-    *   4 days ago
+    *   5 days ago
     *   in Avatars
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
-*   Retrieve my Blog
-    *   \[Resolved\] by jacobslilbrother
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Retrieve blog
     *   \[Resolved\] by milklover2010
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   missing data
     *   \[Resolved\] by TracyShinMan
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   What happened to blogrings?
     *   \[Resolved\] by ArabianEyedPrincess
     *   3 months ago
     *   in Miscellaenous
     *   0 votes
-    *   3 (last comment by eugenia 2 days ago)
+    *   3 (last comment by eugenia 3 days ago)
 *   Can i have my blog back?
     *   \[Resolved\] by Tea\_bubble
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Restore blog
     *   \[Resolved\] by kavina2520
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
-*   Retrieving my blog
-    *   \[Resolved\] by djva
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
-*   What If We now Want to be a member?
-    *   \[Resolved\] by boltnut55
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   1 (last comment by eugenia 6 days ago)
 
 1 2 3 ... 141 Next
 
