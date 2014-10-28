@@ -72,6 +72,7 @@ As described in more detail below, many websites and online services from Micros
 *   Coremetrics: http://www.coremetrics.com/company/privacy.php#optout
 *   Visible Measures: http://corp.visiblemeasures.com/viewer-settings
 *   Google Analytics: http://tools.google.com/dlpage/gaoptout (requires you to install a browser add-on)
+*   Kissmetrics: https://www.kissmetrics.com/user-privacy
 
   
   
