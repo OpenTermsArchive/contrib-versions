@@ -1,6 +1,6 @@
 Terms of Service Acceptance of Terms Acceptance
 
-Cloudant Inc., an IBM Company (“_Cloudant_”) provides its data hosting services (the “_Hosting Services_”) to you (“_you_” and “_your_” or “_Subscriber_”) (Cloudant and Subscriber each a “_Party_” and collectively “_Parties_”) subject to the following Terms of Service. In order to use the Hosting Services, you must first agree to these Terms of Service. You may not use the Hosting Services if you do not accept these Terms of Service. You can accept these Terms of Service by (i) clicking “I ACCEPT” where this option is made available to you in the user interface. or (ii) by accessing and using the Hosting Service, in which case you understand and agree that Cloudant will treat your use of the Hosting Services as acceptance of these Terms of Service from that point onwards.
+Cloudant Inc., an IBM Company ("_Cloudant_") provides its data hosting services (the "Hosting Services") to you ("you" and "your" or "Subscriber") (Cloudant and Subscriber each a "Party" and collectively "Parties") subject to the following Terms of Service. In order to use the Hosting Services, you must first agree to these Terms of Service. You may not use the Hosting Services if you do not accept these Terms of Service. You can accept these Terms of Service by (i) clicking "I ACCEPT" where this option is made available to you in the user interface. or (ii) by accessing and using the Hosting Service, in which case you understand and agree that Cloudant will treat your use of the Hosting Services as acceptance of these Terms of Service from that point onwards.
 
 Changes to these Terms of Service
 
@@ -20,15 +20,15 @@ Definitions
 
 "_Derived Data_" means all indices and calculations derived from the Primary Data and stored on the Hosting Platform.
 
-“_Event_” means a circumstance or set of circumstances taken together, resulting in a failure to meet a Service Level.
+"_Event_" means a circumstance or set of circumstances taken together, resulting in a failure to meet a Service Level.
 
-"_Hosting Platform_" means Cloudant’s data hosting platform currently known as “Cloudant,” which includes Cloudant software and certain third-party software, and any updated versions of such platform made available by Cloudant.
+"_Hosting Platform_" means Cloudant's data hosting platform currently known as "Cloudant," which includes Cloudant software and certain third-party software, and any updated versions of such platform made available by Cloudant.
 
-“_Hosting Services_” means the data hosting services for Subscriber Data that Cloudant provides through the Hosting Platform.
+"_Hosting Services_" means the data hosting services for Subscriber Data that Cloudant provides through the Hosting Platform.
 
 "_Primary Data_" means any and all information that Cloudant receives from Subscriber and hosts in connection with these Terms of Service as an application service provider in whatever form or medium, in connection with the Hosting Services.
 
-“_Service Level_” means the standard set forth below by which Cloudant measures the level of service it provides in these Terms of Service.
+"_Service Level_" means the standard set forth below by which Cloudant measures the level of service it provides in these Terms of Service.
 
 "_Subscriber Data_" means the Primary Data and the Derived Data, collectively.
 
@@ -52,7 +52,7 @@ Subscriber shall not and shall not assist others to:
   
 *   use any robot, spider, other automatic device or program or manual process to copy or reproduce the Hosting Platform;
   
-*   interfere with the functionality of the Hosting Platform by (i) uploading, storing, emailing, posting, linking, transmitting, distributing, publishing or otherwise disseminating any material that contains software viruses, Trojan horses, worms, time bombs, or any other computer code, file or program designed to interrupt, destroy or limit the functionality of the Hosting Platform. (ii) disrupting the normal flow of the Hosting Platform, causing a screen to scroll faster than it can be usable or acting in a manner that limits other user’s use of the Hosting Platform. (iii) otherwise modifying the Hosting Platform or interfering or attempting to interfere with the proper operation of the Hosting Platform or the use of the Hosting Platform by third parties, including through the use of any device, software or routine. or (iv) using the Hosting Platform to disrupt the servers or networks connected to the web servers with respect to the Hosting Platform;
+*   interfere with the functionality of the Hosting Platform by (i) uploading, storing, emailing, posting, linking, transmitting, distributing, publishing or otherwise disseminating any material that contains software viruses, Trojan horses, worms, time bombs, or any other computer code, file or program designed to interrupt, destroy or limit the functionality of the Hosting Platform. (ii) disrupting the normal flow of the Hosting Platform, causing a screen to scroll faster than it can be usable or acting in a manner that limits other user's use of the Hosting Platform. (iii) otherwise modifying the Hosting Platform or interfering or attempting to interfere with the proper operation of the Hosting Platform or the use of the Hosting Platform by third parties, including through the use of any device, software or routine. or (iv) using the Hosting Platform to disrupt the servers or networks connected to the web servers with respect to the Hosting Platform;
   
 *   upload, store, post, email, transmit, distribute, publish or otherwise disseminate on or through the Hosting Platform (i) any information that is unlawful, harmful, threatening, abusive, harassing, tortuous, defamatory, vulgar, obscene, libelous or racially or ethnically objectionable, or promotes such activity. (ii) any unauthorized advertising, junk mail, spam, chain letters, or any other form of solicitation. or (iii) any information or content that, to the best of Subscriber's knowledge, infringes any patent, trademark, trade secret, or other proprietary rights or any contractual rights of any Party. or
   
@@ -64,11 +64,11 @@ During the registration process, you will be asked to create an account, which i
 
 Payment Terms
 
-Subscriber will pay Cloudant the fees set forth in the applicable Order Form with respect to the Hosting Services, the Consulting Services (if any), and the Support Services (if any) provided hereunder during the Term (the "Fees"). Subscriber will reimburse Cloudant for expenses incurred by Cloudant in connection with its performance of these Terms of Service to the extent expressly agreed and approved in advance by Subscriber in writing (the "Expenses"). Cloudant will invoice Subscriber for any agreed and pre-approved Expenses monthly in arrears. Except as otherwise expressly agreed and approved in advance in writing by Subscriber, Cloudant will be responsible for all costs and expenses incurred in connection with its performance of these Terms of Service. All amounts stated in these Terms of Service or on any invoice are in U.S. dollars, and all payments will be made in U.S. dollars. All properly invoiced amounts are due and payable within thirty (30) days of receipt. Subscriber will pay applicable sales, use, and other such taxes related to the services provided hereunder, (excluding any taxes imposed or based on Cloudant’s income) or provide Cloudant evidence of exemption from such taxes. Overdue payments will accrue interest at an annual rate equal to two percent (2%) above the U.S. Prime Rate as published in the Wall Street Journal on the first day of the month in which the payment is due (or, if lower, the maximum allowable interest under applicable law) from due date until paid.
+Subscriber will pay Cloudant the fees set forth in the applicable Order Form with respect to the Hosting Services, the Consulting Services (if any), and the Support Services (if any) provided hereunder during the Term (the "Fees"). Subscriber will reimburse Cloudant for expenses incurred by Cloudant in connection with its performance of these Terms of Service to the extent expressly agreed and approved in advance by Subscriber in writing (the "Expenses"). Cloudant will invoice Subscriber for any agreed and pre-approved Expenses monthly in arrears. Except as otherwise expressly agreed and approved in advance in writing by Subscriber, Cloudant will be responsible for all costs and expenses incurred in connection with its performance of these Terms of Service. All amounts stated in these Terms of Service or on any invoice are in U.S. dollars, and all payments will be made in U.S. dollars. All properly invoiced amounts are due and payable within thirty (30) days of receipt. Subscriber will pay applicable sales, use, and other such taxes related to the services provided hereunder, (excluding any taxes imposed or based on Cloudant's income) or provide Cloudant evidence of exemption from such taxes. Overdue payments will accrue interest at an annual rate equal to two percent (2%) above the U.S. Prime Rate as published in the Wall Street Journal on the first day of the month in which the payment is due (or, if lower, the maximum allowable interest under applicable law) from due date until paid.
 
 Ownership Hosting Platform
 
-The Hosting Platform and any and all system-level intellectual property developed by Cloudant in the course of providing the Hosting Services hereunder (collectively, the "_Hosting Platform IP_") are the exclusive and confidential property of Cloudant, or the third parties from whom Cloudant has secured the right to use materials embedded or used in the Hosting Platform IP. Cloudant and such third parties shall retain all right and title, to the extent of their respective interests, to all proprietary rights in the Hosting Platform IP, and any other intellectual property owned or otherwise provided by Cloudant, including materials provided under attached Statements of Work (“SOWs”), if any. Subscriber shall have no right to use the Hosting Platform IP for any purpose other than in connection with utilizing the Hosting Services as set forth herein.
+The Hosting Platform and any and all system-level intellectual property developed by Cloudant in the course of providing the Hosting Services hereunder (collectively, the "_Hosting Platform IP_") are the exclusive and confidential property of Cloudant, or the third parties from whom Cloudant has secured the right to use materials embedded or used in the Hosting Platform IP. Cloudant and such third parties shall retain all right and title, to the extent of their respective interests, to all proprietary rights in the Hosting Platform IP, and any other intellectual property owned or otherwise provided by Cloudant, including materials provided under attached Statements of Work ("SOWs"), if any. Subscriber shall have no right to use the Hosting Platform IP for any purpose other than in connection with utilizing the Hosting Services as set forth herein.
 
 Subscriber Data
 
@@ -97,21 +97,21 @@ Where:
 **Excused Downtime** means the time (measured in minutes) in any month during which the Hosting Platform is not available due to any of the following:
 
 1.  A Force Majeure Event
-2.  Failure of the Subscriber’s equipment
+2.  Failure of the Subscriber's equipment
 3.  Act or omission of the Subscriber
 4.  Scheduled Maintenance as described below
-5.  Region-wide failure at Amazon Web Services (“AWS”) (using the AWS service dashboard as indicator)
+5.  Region-wide failure at Amazon Web Services ("AWS") (using the AWS service dashboard as indicator)
 
 Availability
 
   
 **Scheduled Maintenance**
 
-Cloudant will schedule maintenance to the Hosting Platform during non-peak usage hours. Any scheduled maintenance that may result in the Hosting Services being unavailable will be notified to Subscriber’s technical contact no less than 1 business day before the commencement of the maintenance unless maintenance is being conducted due to an emergency.
+Cloudant will schedule maintenance to the Hosting Platform during non-peak usage hours. Any scheduled maintenance that may result in the Hosting Services being unavailable will be notified to Subscriber's technical contact no less than 1 business day before the commencement of the maintenance unless maintenance is being conducted due to an emergency.
 
 **Emergency Maintenance**
 
-Cloudant may temporarily limit or suspend the availability of all or part of the Hosting Platform if it is necessary for reasons of public safety, security, maintenance of the Hosting Services, interoperability of services, data protection, or to perform work that is necessary for operational or technical reasons. If emergency maintenance is required as defined in this Section then Cloudant will notify Subscriber’s technical contact immediately upon commencement of the maintenance.
+Cloudant may temporarily limit or suspend the availability of all or part of the Hosting Platform if it is necessary for reasons of public safety, security, maintenance of the Hosting Services, interoperability of services, data protection, or to perform work that is necessary for operational or technical reasons. If emergency maintenance is required as defined in this Section then Cloudant will notify Subscriber's technical contact immediately upon commencement of the maintenance.
 
 Availability Credits
 
@@ -149,23 +149,27 @@ Availability less than 95%
 
 Consulting Services
 
-During the Term, Cloudant shall, upon Subscriber’s request, provide Subscriber some number of hours (as stated in the applicable Order Form) of integration coding consulting at no cost ("Integration Consulting Services"). Such Integration Consulting Services may include a review of the Subscriber Data structures, strategies of how to best migrate and store Subscriber Data in the Hosting Platform, and ways to convert existing Subscriber analytics algorithms into the Hosting Platform. Subscriber is responsible for structure and migration of Subscriber Data in the Hosting Platform and the evaluation of the Cloudant recommendations as well as all final decisions and implementations relating to, or resulting from, the Cloudant recommendations.
+During the Term, Cloudant shall, upon Subscriber's request, provide Subscriber some number of hours (as stated in the applicable Order Form) of integration coding consulting at no cost ("Integration Consulting Services"). Such Integration Consulting Services may include a review of the Subscriber Data structures, strategies of how to best migrate and store Subscriber Data in the Hosting Platform, and ways to convert existing Subscriber analytics algorithms into the Hosting Platform. Subscriber is responsible for structure and migration of Subscriber Data in the Hosting Platform and the evaluation of the Cloudant recommendations as well as all final decisions and implementations relating to, or resulting from, the Cloudant recommendations.
 
 All Integration Consulting Services in excess of the complimentary hours set forth on the Order Form and all other forms of consulting services (collectively, the "Consulting Services") shall be billed in accordance with the rate set forth in the applicable Order Form.
 
-At Subscriber’s request, Cloudant may offer additional Consulting Services. Such Consulting Services will be detailed in a mutually agreed Statement of Work (“SOW”) attached to and made part of these Terms of Service and may be ordered pursuant to the applicable Order Form.
+At Subscriber's request, Cloudant may offer additional Consulting Services. Such Consulting Services will be detailed in a mutually agreed Statement of Work ("SOW") attached to and made part of these Terms of Service and may be ordered pursuant to the applicable Order Form.
 
 Customer Support
 
-Customer receives standard support which includes best available support during Cloudant’s standard business hours.
+Customer receives standard support which includes best available support during Cloudant's standard business hours.
 
-Subscriber has the option, but not the obligation, to upgrade its standard customer support plan (“Support Services") to Gold Support, which shall be billed as set forth in the applicable Order Form.
+Subscriber has the option, but not the obligation, to upgrade its standard customer support plan ("Support Services") to Gold Support, which shall be billed as set forth in the applicable Order Form.
 
 **Gold Support** offers twenty-four (24) hour, seven (7) days a week service and support, which includes: less than four (4) hour response to email tickets and access to support staff by Instant Messaging, Internet Relay Chat, and phone. Gold plan also includes two (2) hours a month of Integration Consulting Services.
 
+Data Protection
+
+The Hosting Services comply with the US-EU and US-Swiss Safe Harbor Frameworks. If required by law, the parties or their relevant affiliates will enter into separate standard unmodified EU Model Clause agreements in their respective roles pursuant to EC Decision 2010/87/EU with the optional clauses removed. All disputes or liability arising under EU Model Clause agreements, even if entered into by affiliates, will be treated by the parties as if the dispute or liability arose under the terms of this Agreement. If you make personal data available to the Hosting Platform, as between you and Cloudant, you are considered the sole controller of the personal data and you appoint Cloudant as a processor to process (as those terms are defined in EU Directive 95/46/EC) such personal data. You will not use the Hosting Platform or the Hosting Services in conjunction with personal data to the extent that doing so would violate applicable data protection laws or any regulations requiring security measures beyond those specified for the Hosting Platform. Cloudant will only process such personal data to the extent required to make the Hosting Platform available in accordance with this Agreement and you agree that any such processing is in accordance with your instructions. This Agreement describes the applicable security functions and features, including technical and organizational security measures, which Cloudant will implement. By using the Hosting Platform or Hosting Services, you accept that the security measures are appropriate for the personal data being processed. You agree that Cloudant may use subcontractors worldwide, including other IBM companies, to provide the Hosting Platform or Hosting Services. Cloudant shall reasonably cooperate with you in its fulfilment of any legal requirement, including providing you with access to the personal data. You agree that Cloudant may process the Subscriber Data, including any personal data, across country borders to Cloudant in the United States. If Cloudant changes the way it processes or secures personal data and such change causes you to be noncompliant with applicable data protection laws, you may terminate the affected Hosting Platform or Hosting Service within 30 days of Cloudant's notification of the change.
+
 Confidential Information
 
-For purposes of these Terms of Service, Confidential Information shall mean any confidential or other proprietary information that is disclosed by or on behalf of a Party (the "Disclosing Party") to the other Party (the "Receiving Party"), whether disclosed orally or in writing, whether disclosed before or after the Effective Date, and whether or not marked or otherwise designated as confidential, including, without limitation, the Subscriber Data, the Hosting Platform, information relating to the Disclosing Party’s customers, potential customers, suppliers, financial and business information, technological information, specifications, business and product plans, the terms and conditions of these Terms of Service, and any other non-public information disclosed. Notwithstanding the foregoing, Confidential Information does not include information which: (i) is or becomes public knowledge without any action by, or involvement of, the Receiving Party. (ii) is publicly disclosed by the Receiving Party with the prior, written approval of the Disclosing Party. (iii) is independently developed by the Receiving Party without use of or access to Confidential Information. or (iv) is intentionally disclosed by the Disclosing Party to a third party without restriction on disclosure. Each Party agrees: (i) not to disclose, or permit any third party or entity access to, the Disclosing Party’s Confidential Information (or any portion thereof) without prior written permission of the Disclosing Party. (ii) not to utilize, except as permitted under these Terms of Service or as required to perform any obligations under these Terms of Service, the Disclosing Party’s Confidential Information (or any portion thereof). (iii) to ensure that its employees shall only be given access to the Disclosing Party’s Confidential Information to the extent necessary for such employees to perform their duties under these Terms of Service. and (iv) to ensure that any of its employees who receive access to the Disclosing Party’s Confidential Information are advised of the confidential and proprietary nature thereof and are prohibited from copying, utilizing or disclosing such Confidential Information, except as required to perform any obligations under these Terms of Service. In the event the Receiving Party becomes or may become legally compelled to disclose any of the Disclosing Party’s Confidential Information (whether by deposition, interrogatory, request for documents, subpoena, civil investigative demand or other process or otherwise), the Receiving Party shall provide to the Disclosing Party prompt prior written notice of such requirement so that the Disclosing Party may seek a protective order or other appropriate remedy and/or waive compliance with the terms of these Terms of Service. In the event that such protective order or other remedy is not obtained, or that the Disclosing Party waives compliance with the provisions hereof, the Receiving Party shall furnish only that portion of the Confidential Information which it is advised by counsel is legally required to be disclosed, and shall use its reasonable efforts to insure that confidential treatment shall be afforded such disclosed portion of the Confidential Information.
+For purposes of these Terms of Service, Confidential Information shall mean any confidential or other proprietary information that is disclosed by or on behalf of a Party (the "Disclosing Party") to the other Party (the "Receiving Party"), whether disclosed orally or in writing, whether disclosed before or after the Effective Date, and whether or not marked or otherwise designated as confidential, including, without limitation, the Subscriber Data, the Hosting Platform, information relating to the Disclosing Party's customers, potential customers, suppliers, financial and business information, technological information, specifications, business and product plans, the terms and conditions of these Terms of Service, and any other non-public information disclosed. Notwithstanding the foregoing, Confidential Information does not include information which: (i) is or becomes public knowledge without any action by, or involvement of, the Receiving Party. (ii) is publicly disclosed by the Receiving Party with the prior, written approval of the Disclosing Party. (iii) is independently developed by the Receiving Party without use of or access to Confidential Information. or (iv) is intentionally disclosed by the Disclosing Party to a third party without restriction on disclosure. Each Party agrees: (i) not to disclose, or permit any third party or entity access to, the Disclosing Party's Confidential Information (or any portion thereof) without prior written permission of the Disclosing Party. (ii) not to utilize, except as permitted under these Terms of Service or as required to perform any obligations under these Terms of Service, the Disclosing Party's Confidential Information (or any portion thereof). (iii) to ensure that its employees shall only be given access to the Disclosing Party's Confidential Information to the extent necessary for such employees to perform their duties under these Terms of Service. and (iv) to ensure that any of its employees who receive access to the Disclosing Party's Confidential Information are advised of the confidential and proprietary nature thereof and are prohibited from copying, utilizing or disclosing such Confidential Information, except as required to perform any obligations under these Terms of Service. In the event the Receiving Party becomes or may become legally compelled to disclose any of the Disclosing Party's Confidential Information (whether by deposition, interrogatory, request for documents, subpoena, civil investigative demand or other process or otherwise), the Receiving Party shall provide to the Disclosing Party prompt prior written notice of such requirement so that the Disclosing Party may seek a protective order or other appropriate remedy and/or waive compliance with the terms of these Terms of Service. In the event that such protective order or other remedy is not obtained, or that the Disclosing Party waives compliance with the provisions hereof, the Receiving Party shall furnish only that portion of the Confidential Information which it is advised by counsel is legally required to be disclosed, and shall use its reasonable efforts to insure that confidential treatment shall be afforded such disclosed portion of the Confidential Information.
 
 Term and Termination Term
 
@@ -183,7 +187,7 @@ At the end of the Term and upon your written request (which may be made by email
 
 Survival
 
-The following provisions shall survive any termination of the Hosting Services: “_Ownership_”. “_Effect of Termination_”. “_Representations and Warranties_”. “_Correction of Errors. Limitation of Liability_”. “_Indemnification_”. “_Miscellaneous Provisions_”. and this “_Survival_” section.
+The following provisions shall survive any termination of the Hosting Services: "_Ownership_". "_Effect of Termination_". "_Representations and Warranties_". "_Correction of Errors. Limitation of Liability_". "_Indemnification_". "_Miscellaneous Provisions_". and this "_Survival_" section.
 
 Representations and Warranties Power and Authority
 
@@ -203,11 +207,11 @@ Hosting Services are designed to be available 24/7 subject to maintenance. Cloud
 
 No Other Warranties
 
-YOU EXPRESSLY UNDERSTAND AND AGREE THAT YOUR USE OF THE HOSTING SERVICES IS AT YOUR SOLE RISK AND THAT THE HOSTING SERVICES ARE PROVIDED “AS IS” AND “AS AVAILABLE” AND THAT THE OPERATION OF THE HOSTING PLATFORM MAY NOT BE UNINTERRUPTED OR ERROR-FREE. EXCEPT AS EXPRESSLY SET FORTH IN SECTION “_CLOUDANT WARRANTIES_”, CLOUDANT MAKES NO WARRANTIES IN CONNECTION WITH THE HOSTING SERVICES OR OTHERWISE WITH RESPECT TO THESE TERMS OF SERVICE AND HEREBY DISCLAIMS ANY AND ALL IMPLIED OR STATUTORY WARRANTIES, INCLUDING ALL IMPLIED WARRANTIES OF TITLE, MERCHANTABILITY, NONINFRINGEMENT, FITNESS FOR A PARTICULAR PURPOSE, ERROR-FREE OR UNINTERRUPTED OPERATION AND ANY WARRANTIES ARISING FROM A COURSE OF DEALING OR USAGE OF TRADE. TO THE EXTENT THAT CLOUDANT MAY NOT AS A MATTER OF APPLICABLE LAW DISCLAIM ANY IMPLIED WARRANTY, THE SCOPE AND DURATION OF SUCH WARRANTY WILL BE THE MINIMUM PERMITTED UNDER SUCH LAW.
+YOU EXPRESSLY UNDERSTAND AND AGREE THAT YOUR USE OF THE HOSTING SERVICES IS AT YOUR SOLE RISK AND THAT THE HOSTING SERVICES ARE PROVIDED "AS IS" AND "AS AVAILABLE" AND THAT THE OPERATION OF THE HOSTING PLATFORM MAY NOT BE UNINTERRUPTED OR ERROR-FREE. EXCEPT AS EXPRESSLY SET FORTH IN SECTION "_CLOUDANT WARRANTIES_", CLOUDANT MAKES NO WARRANTIES IN CONNECTION WITH THE HOSTING SERVICES OR OTHERWISE WITH RESPECT TO THESE TERMS OF SERVICE AND HEREBY DISCLAIMS ANY AND ALL IMPLIED OR STATUTORY WARRANTIES, INCLUDING ALL IMPLIED WARRANTIES OF TITLE, MERCHANTABILITY, NONINFRINGEMENT, FITNESS FOR A PARTICULAR PURPOSE, ERROR-FREE OR UNINTERRUPTED OPERATION AND ANY WARRANTIES ARISING FROM A COURSE OF DEALING OR USAGE OF TRADE. TO THE EXTENT THAT CLOUDANT MAY NOT AS A MATTER OF APPLICABLE LAW DISCLAIM ANY IMPLIED WARRANTY, THE SCOPE AND DURATION OF SUCH WARRANTY WILL BE THE MINIMUM PERMITTED UNDER SUCH LAW.
 
 Correction of Errors. Limitation of Liability Correction of Errors
 
-In the event of a material error or omission by Cloudant related to the provision of the Hosting Services or cessation in the provision of the Hosting Services, Subscriber’s sole remedy shall be to have Cloudant use commercially reasonable efforts to correct such error, omission, or cessation. Subscriber shall advise Cloudant in writing of such error, omission, or cessation reasonably promptly after discovery thereof by Subscriber.
+In the event of a material error or omission by Cloudant related to the provision of the Hosting Services or cessation in the provision of the Hosting Services, Subscriber's sole remedy shall be to have Cloudant use commercially reasonable efforts to correct such error, omission, or cessation. Subscriber shall advise Cloudant in writing of such error, omission, or cessation reasonably promptly after discovery thereof by Subscriber.
 
 Limitation of Liability
 
@@ -222,15 +226,57 @@ Limitation of Liability
 
   
 
-IN NO EVENT SHALL CLOUDANT’S LIABILITY ARISING FROM OR RELATING TO THE HOSTING SERVICES OR OTHERWISE ARISING UNDER THESE TERMS OF SERVICE, REGARDLESS OF THE CAUSE OF ACTION (WHETHER IN CONTRACT, TORT, BREACH OF WARRANTY, INDEMNITY OR OTHERWISE), EXCEED THE AGGREGATE AMOUNT OF THE FEES PAID TO CLOUDANT BY SUBSCRIBER UNDER THIS AGREEMENT IN THE TWELVE (12) MONTHS IMMEDIATELY PROCEEDING THE DATE THE CLAIM AROSE.
+IN NO EVENT SHALL CLOUDANT'S LIABILITY ARISING FROM OR RELATING TO THE HOSTING SERVICES OR OTHERWISE ARISING UNDER THESE TERMS OF SERVICE, REGARDLESS OF THE CAUSE OF ACTION (WHETHER IN CONTRACT, TORT, BREACH OF WARRANTY, INDEMNITY OR OTHERWISE), EXCEED THE AGGREGATE AMOUNT OF THE FEES PAID TO CLOUDANT BY SUBSCRIBER UNDER THIS AGREEMENT IN THE TWELVE (12) MONTHS IMMEDIATELY PROCEEDING THE DATE THE CLAIM AROSE.
 
 Effect of Applicable Law
 
-TO THE EXTENT THE FOREGOING EXCLUSIONS OF LIABILITY ARE NOT PERMITTED UNDER APPLICABLE LAW, CLOUDANT’S LIABILITY IN SUCH CASE WILL BE LIMITED TO THE GREATEST EXTENT PERMITTED BY LAW.
+TO THE EXTENT THE FOREGOING EXCLUSIONS OF LIABILITY ARE NOT PERMITTED UNDER APPLICABLE LAW, CLOUDANT'S LIABILITY IN SUCH CASE WILL BE LIMITED TO THE GREATEST EXTENT PERMITTED BY LAW.
 
 Indemnification
 
-Subscriber will defend, indemnify, and hold harmless Cloudant and its affiliates, and each of their officers, directors, shareholders and employees from any and all claims, liabilities, costs and expenses (including reasonable attorney’s fees and expert and consulting fees) in connection with (i) any third-party claims that any information and/or data Subscriber provides to Cloudant for hosting infringes, misappropriates, or violates any third-party patents, copyrights, trade secrets, trademark, contractual, or other intellectual property or proprietary rights, and (ii) any claims arising from or relating to Subscriber’s breach or alleged breach of its representations and warranties hereunder.
+Subscriber will defend, indemnify, and hold harmless Cloudant and its affiliates, and each of their officers, directors, shareholders and employees from any and all claims, liabilities, costs and expenses (including reasonable attorney's fees and expert and consulting fees) in connection with (i) any third-party claims that any information and/or data Subscriber provides to Cloudant for hosting infringes, misappropriates, or violates any third-party patents, copyrights, trade secrets, trademark, contractual, or other intellectual property or proprietary rights, and (ii) any claims arising from or relating to Subscriber's breach or alleged breach of its representations and warranties hereunder.
+
+Beta and Early Release Terms and Conditions
+
+**If a service you are using is designated as beta or early release ("Beta Service"), the terms and conditions in this section apply to the Beta Service and override any inconsistent terms and conditions of the Terms of Service.**
+
+Beta Service Limitations
+
+A Beta Service may not have the level of performance or compatibility of generally available services Cloudant markets and its features may not be fully tested, including any data protection and security features. A Beta Service is not designed for use in a production environment or for commercial purposes and any such use is at your own risk. Cloudant does not guarantee that it will make a Beta Service or any similar services available, or if made available, that it will be similar to the Beta Service. If a generally available service is offered, Cloudant is under no obligation to offer migration capabilities or services. No integration, configuration or custom services are available.
+
+Beta Services do not comply with the US-EU and US-Swiss Safe Harbor Frameworks and are not designed to comply with any specific governmental regulation or specific security measures. You agree not to input content that may be subject to any such regulations or required additional security measures.
+
+Charges
+
+Generally there are no charges for use of a Beta Service during the beta period, unless specifically specified by Cloudant or a third party service provider. If any authority imposes a custom, duty, tax (including withholding tax), levy or fee for the import or export, transfer, access or use of a Beta Service or third party service, then you are responsible to pay any such amount imposed.
+
+Term
+
+You may use a Beta Service for the beta period Cloudant specified or until Cloudant withdraws or terminates the Beta Service. You may terminate use of a Beta Service at any time by notifying Cloudant. You are responsible to remove any of your proprietary content you wish to retain prior to expiration or termination of a Beta Service Cloudant may at any time suspend, revoke, limit or refuse participation in or use of a Beta Service. Content will be destroyed upon the expiration or cancellation of the Beta Service unless specific migration to the related generally available Cloud Services is available.
+
+Changes
+
+Cloudant may in its reasonable discretion, change the terms applicable to a Beta Service, modify the computing environment, or withdraw features of a Beta Service, in whole or in part by providing notice. Continued use is your acceptance of any such change. If you do not accept a change, you are responsible to discontinue use upon such notice.
+
+Liability and Indemnity
+
+If there are no charges, Cloudant's entire liability for all claims in the aggregate arising from your use of a Beta Service acquired hereunder will not exceed the amount of any actual direct damages up to U.S.$1,000.00 (or equivalent in local currency).
+
+No Warranty
+
+YOU EXPRESSLY UNDERSTAND AND AGREE THAT YOUR USE OF THE BETA SERVICE IS AT YOUR SOLE RISK AND THAT THE BETA SERVICE IS PROVIDED "AS IS" AND "AS AVAILABLE" AND THAT THE OPERATION OF THE BETA SERVICE MAY NOT BE UNINTERRUPTED OR ERROR-FREE. CLOUDANT MAKES NO WARRANTIES IN CONNECTION WITH THE BETA SERVICES AND HEREBY DISCLAIMS ANY AND ALL IMPLIED OR STATUTORY WARRANTIES, INCLUDING ALL IMPLIED WARRANTIES OF TITLE, MERCHANTABILITY, NONINFRINGEMENT, FITNESS FOR A PARTICULAR PURPOSE, ERROR-FREE OR UNINTERRUPTED OPERATION AND ANY WARRANTIES ARISING FROM A COURSE OF DEALING OR USAGE OF TRADE. TO THE EXTENT THAT CLOUDANT MAY NOT AS A MATTER OF APPLICABLE LAW DISCLAIM ANY IMPLIED WARRANTY, THE SCOPE AND DURATION OF SUCH WARRANTY WILL BE THE MINIMUM PERMITTED UNDER SUCH LAW.
+
+Enabling Software
+
+If a Beta Service includes enabling software, you may use the enabling software only in association with your use of the Beta Service for the specified term in accordance with the terms set forth in any documentation provided by Cloudant. To the extent that the enabling software contains sample code, you have the additional right to make derivative works of the sample code and use for the Beta Service.
+
+Additional Information
+
+You agree that Cloudant may use all feedback and suggestions you provide. Cloudant may use cookies and tracking technologies to collect personally identifiable information in gathering usage statistics and information designed to help improve user experience and/or to tailor interactions with users in accordance with http://www-01.ibm.com/software/info/product-privacy/index.html. Where required by applicable law, you have notified the users and obtained their consent to do all of the above.
+
+Confidentiality
+
+You agree to treat the following as "Confidential Information" in accordance with these Terms of Service,regardless of whether they contain restrictive markings indicating the confidential nature thereof or have been identified as Confidential Information prior to disclosure: (a) the Beta Service, (b) any information provided to you by Cloudant with regard to the Beta Service including, but not limited to, Beta Service related materials such as specifications, plans, trends, strategies, benchmarks, performance characteristics, comparisons and other assessments of the Beta Service, (c) any information related to your access to the Beta Service including, but not limited to, passwords or other access codes, and (d) all data, feedback, suggestions and/or written materials that you provide to Cloudant related to the Beta Service. You are authorized to use the Confidential Information for the purpose for which it was disclosed or otherwise for the benefit of Cloudant. Notwithstanding any other terms of this Agreement, you agree not to communicate, publish, disseminate or otherwise discuss with or disclose to any third party the Confidential Information (including but not limited to articles, papers or other written materials pertaining to the Confidential Information) prior to Cloudant making such Confidential Information publicly available without a non-disclosure obligation.
 
 Miscellaneous Provisions Notices
 
@@ -250,7 +296,7 @@ The rights and remedies of Cloudant are cumulative and not alternative. No waive
 
 Severability
 
-If any provision of these Terms of Service is held invalid or unenforceable by any court of competent jurisdiction, the other provisions of these Terms of Service will remain in full force and effect, and, if legally permitted, such offending provision will be replaced with an enforceable provision that as nearly as possible effects the Parties’ intent.
+If any provision of these Terms of Service is held invalid or unenforceable by any court of competent jurisdiction, the other provisions of these Terms of Service will remain in full force and effect, and, if legally permitted, such offending provision will be replaced with an enforceable provision that as nearly as possible effects the Parties' intent.
 
 Force Majeure
 
