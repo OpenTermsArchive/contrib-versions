@@ -8,75 +8,87 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   WHERE IS MY BLOG???
-    *   by big\_fat\_goalie
-    *   7 hours ago
+*   Help finding someone
+    *   by CavScout099
+    *   57 minutes ago
+    *   in Miscellaenous
+    *   0 votes
+    *   0
+*   Old account
+    *   \[Resolved\] by ncf\_kcf
+    *   4 days ago
+    *   in Passwords &. Sign-In
+    *   0 votes
+    *   2 (last comment by ncf\_kcf 2 hours ago)
+*   How do I download an archive of my old blog?
+    *   \[Resolved\] by thibault
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   0
+    *   1 (last comment by eugenia 6 hours ago)
+*   I need help
+    *   \[Resolved\] by Mah\_Chelle
+    *   5 days ago
+    *   in Themes
+    *   0 votes
+    *   1 (last comment by eugenia 6 hours ago)
+*   Linking name for easier finding
+    *   \[Resolved\] by Blue\_Moon1
+    *   5 days ago
+    *   in Usernames
+    *   0 votes
+    *   1 (last comment by eugenia 6 hours ago)
 *   not sure where my blog is
-    *   by littleBlackrosez
-    *   9 hours ago
+    *   \[Resolved\] by littleBlackrosez
+    *   1 day ago
     *   in Adding &. Editing Entries
     *   0 votes
-    *   0
+    *   1 (last comment by eugenia 6 hours ago)
+*   WHERE IS MY BLOG???
+    *   \[Resolved\] by big\_fat\_goalie
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 6 hours ago)
+*   Please restore my blog.
+    *   \[Resolved\] by Silver\_Straight\_Edge
+    *   6 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 6 hours ago)
 *   updating and blogging
     *   \[Resolved\] by aussiechica384
-    *   2 days ago
+    *   3 days ago
     *   in Adding &. Editing Entries
     *   0 votes
-    *   1 (last comment by eugenia 12 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   Can you restore my blog
     *   \[Resolved\] by arashi\_chan
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 12 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   where is my blog??
     *   \[Resolved\] by OmfgitsMegannnnn
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 12 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   Retrieve my Blog
     *   \[Resolved\] by jacobslilbrother
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by eugenia 2 days ago)
+    *   3 (last comment by eugenia 3 days ago)
 *   Where is my blog?
     *   \[Resolved\] by lppphk
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Lost blogs
     *   by Gustava
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Old account
-    *   by ncf\_kcf
-    *   3 days ago
-    *   in Passwords &. Sign-In
-    *   0 votes
-    *   0
-*   Linking name for easier finding
-    *   by Blue\_Moon1
     *   4 days ago
-    *   in Usernames
-    *   0 votes
-    *   0
-*   I need help
-    *   by Mah\_Chelle
-    *   4 days ago
-    *   in Themes
-    *   0 votes
-    *   0
-*   How do I download an archive of my old blog?
-    *   by thibault
-    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -85,21 +97,9 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
-*   My profile photo is too small.
-    *   \[Resolved\] by sfiawong
-    *   1 week ago
-    *   in Avatars
-    *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
-*   Retrieve blog
-    *   \[Resolved\] by milklover2010
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   1 (last comment by eugenia 6 days ago)
 
-1 2 3 ... 141 Next
+1 2 3 ... 142 Next
 
 Help Categories
 
