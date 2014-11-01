@@ -448,7 +448,7 @@ If you subscribe to any of the following services ("Additional Services"), the t
 
 1.  **VERIZON ONLINE BACKUP &. STORAGE ("STORAGE SERVICES").**  
       
-    1.  If Storage Services are made available as a feature of the Service, you agree that you are solely responsible for all content you store on or retrieve from such services. Additional terms and conditions applicable to Storage Services are posted on the Website and are incorporated herein by reference. You understand that we do not provide telephone technical support for Storage Services. Storage Services may be accessed from any suitable Internet connection.
+    1.  If Storage Services are made available as a feature of the Service, you agree that you are solely responsible for all content you store on or retrieve from such services. Additional terms and conditions applicable to Storage Services are posted on the Website and are incorporated herein by reference. You understand that we do not provide telephone technical support for Storage Services. Storage Services may be accessed from any suitable Internet connection. You acknowledge and agree that the Service is implemented without specific controls that may generally be required or customary for customers in any particular industry and are not designed to satisfy any specific legal obligations. You are solely responsible for determining that the Service satisfies any legal, regulatory or contractual obligations You may have. You agree to use the Services in accordance with all applicable laws and not to use the Services in any manner that may impose legal, regulatory or contractual obligations on Verizon other than those with which We have expressly agreed to comply in this Agreement. Without limiting the generality of the foregoing, You agree not to cause, or otherwise request that Verizon create, receive, maintain or transmit protected health information (as defined at 45 C.F.R. § 160.103) for You or on Your behalf in connection with the Services or in any manner that would make Verizon a business associate (as defined at 45 C.F.R. § 160.103) to You.
       
       
     4.  If you breach this Agreement, we reserve the right immediately to suspend or terminate your Service and/or an Additional Service(s) with or without notice. In such case, you agree that we may immediately delete all data, files, and other content stored on your Storage Services, including archived data, without further notice to you. It is your responsibility to remove or copy any content stored on the Storage Services prior to closure of your account. otherwise, it may be lost.
@@ -528,4 +528,4 @@ If you subscribe to any of the following services ("Additional Services"), the t
     
 
   
-Version 14.3 Effective Date August 1, 2014
+Version 14.4 Effective Date November 1, 2014
