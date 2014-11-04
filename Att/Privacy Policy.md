@@ -1,4 +1,4 @@
-���// JavaScript Document // Updated 10-28-2014 KD5879 // // JavaScript Document // Updated 05-05-2014 KD5879 // if (location.pathname == '/Common/about\_us/privacy\_policy/print\_policy.html') { pid = 'printversion'. } else { var url = location.href. pid = url.split('='). pid = pid\[1\]. checkAnc = pid.indexOf('#'). if(checkAnc != '-1') { pid = pid.split('#'). pid = pid\[0\]. } } //alert(pid). function renderPrintLink() { document.write ('' + 'View our current policy' + ''). } function renderLandingPageContent() { document.write(' ' + ' About Our Privacy Policy' + '
+// JavaScript Document // Updated 10-28-2014 KD5879 // // JavaScript Document // Updated 05-05-2014 KD5879 // if (location.pathname == '/Common/about\_us/privacy\_policy/print\_policy.html') { pid = 'printversion'. } else { var url = location.href. pid = url.split('='). pid = pid\[1\]. checkAnc = pid.indexOf('#'). if(checkAnc != '-1') { pid = pid.split('#'). pid = pid\[0\]. } } //alert(pid). function renderPrintLink() { document.write ('' + 'View our current policy' + ''). } function renderLandingPageContent() { document.write(' ' + ' About Our Privacy Policy' + '
 
 Whenever you do something like buy one of our products, stream a movie or download an app, information is created. Because we know your privacy is important, we have a Privacy Policy to explain how we collect, use and protect that information. There’s a quick summary below, and the entire policy is written in an easy FAQ format. We want to simplify this, so you can make informed choices about your privacy, and then spend the rest of your time enjoying our products and services.
 
@@ -839,9 +839,9 @@ We understand that everyone thinks that privacy policies are long, complicated a
 ' + '1.  You can choose not to receive some types of advertising online or on your wireless device.
     
     ' + '
-    ' + '*   Opt-out of all Relevant Advertising delivered by AT&T AdWorks online here, and on your mobile device here. You\\'ll need to opt-out on each computer browser and mobile device you want to exclude.
+    ' + '*   Opt-out of all Relevant Advertising delivered by AT&T AdWorks on your mobile device here. You\\'ll need to opt-out on each mobile device you want to exclude.
         
-    ' + '*   Opt-out of online behavioral advertising provided by AT&T and other advertisers by clicking the "Advertising Choices" link at the bottom of our web pages.
+    ' + '*   Opt-out of Relevant Advertising delivered by AT&T AdWorks and online behavioral advertising provided by AT&T and other advertisers by clicking the "Ad Choices" link at the bottom of our web pages. You\\'ll need to opt-out on each computer browser you want to exclude.
         
     ' + '*   Opt-out of interest-based advertising on att.net powered by Yahoo! here.
         
@@ -1094,7 +1094,7 @@ You have choices about how your information is collected and used, both by AT&T 
 ' + '*   **Online Advertising from AT&T Adworks**: You can opt-out of all Relevant Advertising delivered by AT&T AdWorks on your computer by visiting this page. You will need to opt-out on **each** computer browser you wish to exclude.
 ' + '*   **Mobile Advertising from AT&T Adworks**: You can opt-out of receiving Relevant Advertising delivered by AT&T AdWorks on your mobile device. You will need to opt-out on **each** mobile device you wish to exclude.' + '
     *   You can follow the steps below:' + '
-        *   From your AT&T mobile device you want to opt out, go to http://205.234.28.93/mobileoptout/
+        *   From your AT&T mobile device you want to opt out, go to http://www.mobileoptout.att.com/
         ' + '*   Make sure you are on the AT&T wireless network, and not on any Wi-Fi
         ' + '*   Choose the blue Opt-Out button. You should receive the following message: "Thank you. This device will not be receiving AT&T AdWorks Relevant Advertising"
         ' + '
