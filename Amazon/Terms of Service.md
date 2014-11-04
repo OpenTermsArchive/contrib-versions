@@ -52,7 +52,7 @@ All items purchased from Amazon are made pursuant to a shipment contract. This m
 
 **RETURNS, REFUNDS AND TITLE**
 
-Amazon does not take title to returned items until the item arrives at our fulfillment center. At our discretion, a refund may be issued without requiring a return. In this situation, Amazon does not take title to the refunded item. For more information about our returns and refunds, please see our Returns Center.
+Amazon does not take title to returned items until the item arrives at our fulfillment center. At our discretion, a refund may be issued without requiring a return. In this situation, Amazon does not take title to the refunded item. For more information about our returns and refunds, please see our Returns Center Returns Center
 
 **PRODUCT DESCRIPTIONS**
 
@@ -114,7 +114,7 @@ Please note also that providing detailed and accurate information at the outset 
 
 **Notice and Procedure for Making Claims of Copyright Infringement**
 
-If you believe that your work has been copied in a way that constitutes copyright infringement, please submit your complaint using our online form. We respond quickly to the concerns of rights owners about any alleged infringement.
+If you believe that your work has been copied in a way that constitutes copyright infringement, please submit your complaint using our online form form. We respond quickly to the concerns of rights owners about any alleged infringement.
 
 If you prefer to submit a report in writing, please provide us with this information:
 
