@@ -22,6 +22,10 @@ Rentals
     *   *   Apartments for rent
         *   Houses for rent
         *   All rental listings
+*   Create a renter profile
+    *   *   Capture the attention of property managers.
+            
+        *   Complete a pre-application
 *   Post a rental
     *   *   Post a rental listing on the Zillow Rental Network, the largest rental network on the Web.
             
@@ -102,21 +106,23 @@ More
     *   *   Foreclosure Center
         *   Buyer's Guide
         *   Renter's Guide
-    *   *   Zillow Help Center
+        *   Zillow Help Center
 *   Blogs
     *   *   Zillow Blog
         *   Zillow for Pros Blog
         *   Zillow Engineering Blog
-*   Other
-    *   *   Rental advertising
+*   Partners
+    *   *   Zillow Affiliates
         *   Brokers and Zillow
         *   MLS and Zillow
-    *   *   Zillow Research
+*   Other
+    *   *   Rental advertising
+        *   Zillow Research
         *   Zillow Visuals
         *   Zillow Mobile Apps
     
 
-Sign in or Join Advertise
+Sign in or Join
 
 *   Terms of Use
 *   Privacy Policy
