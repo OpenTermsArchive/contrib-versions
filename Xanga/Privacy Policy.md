@@ -8,51 +8,57 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   My blog?
-    *   by mavra
-    *   1 day ago
+*   My old posts?
+    *   by scaryfairie
+    *   12 hours ago
     *   in Data Migration
     *   0 votes
     *   0
+*   My blog?
+    *   by mavra
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by threshold 16 hours ago)
 *   Retrieving my Blog
     *   by luvinchihcky9
-    *   1 day ago
+    *   2 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   please restore my blog thanks
     *   by slc\_darrel
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   My premium expired!
     *   by thisiswhereItellyoueverything
-    *   2 days ago
+    *   3 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Expired membership and two more questions
     *   by oscar0203
-    *   2 days ago
+    *   3 days ago
     *   in Premium
     *   0 votes
     *   0
 *   My Xanga Expired
     *   by rara44
-    *   3 days ago
+    *   4 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Please restore my blog
     *   by siupo1111
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Help finding someone
     *   by CavScout099
-    *   5 days ago
+    *   6 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
@@ -61,43 +67,37 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   2 (last comment by ncf\_kcf 5 days ago)
+    *   2 (last comment by ncf\_kcf 6 days ago)
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   1 (last comment by eugenia 6 days ago)
 *   I need help
     *   \[Resolved\] by Mah\_Chelle
     *   1 week ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   1 (last comment by eugenia 6 days ago)
 *   Linking name for easier finding
     *   \[Resolved\] by Blue\_Moon1
     *   1 week ago
     *   in Usernames
     *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   1 (last comment by eugenia 6 days ago)
 *   not sure where my blog is
     *   \[Resolved\] by littleBlackrosez
-    *   6 days ago
+    *   1 week ago
     *   in Adding &. Editing Entries
     *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   1 (last comment by eugenia 6 days ago)
 *   WHERE IS MY BLOG???
     *   \[Resolved\] by big\_fat\_goalie
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
-*   Please restore my blog.
-    *   \[Resolved\] by Silver\_Straight\_Edge
-    *   5 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   1 (last comment by eugenia 6 days ago)
 
 1 2 3 ... 142 Next
 
