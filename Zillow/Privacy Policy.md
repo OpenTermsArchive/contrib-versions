@@ -122,7 +122,7 @@ More
         *   Zillow Mobile Apps
     
 
-Sign in or Join Advertise
+Sign in or Join
 
 *   Terms of Use
 *   Privacy Policy
