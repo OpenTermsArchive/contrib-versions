@@ -8,57 +8,63 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Please restore my blog. Thanks
+    *   by glorrr
+    *   18 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Expired membership and two more questions
     *   by oscar0203
-    *   6 days ago
+    *   1 week ago
     *   in Premium
     *   0 votes
-    *   1 (last comment by Champagne\_Matahari 14 hours ago)
+    *   1 (last comment by Champagne\_Matahari 1 day ago)
 *   I remember my user name, but forgot email.
     *   by Shaved\_Bird
-    *   1 day ago
+    *   2 days ago
     *   in Emails
     *   0 votes
     *   0
 *   How do I download an archive of my old blog?
     *   by LoveFiona811
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   please restore my blog thanks
     *   by slc\_darrel
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by nordstromsgirl 2 days ago)
+*   My old posts?
+    *   by scaryfairie
+    *   4 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by nordstromsgirl 2 days ago)
+*   My blog?
+    *   by mavra
     *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by nordstromsgirl 1 day ago)
-*   My old posts?
-    *   by scaryfairie
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by nordstromsgirl 1 day ago)
-*   My blog?
-    *   by mavra
-    *   5 days ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by nordstromsgirl 1 day ago)
+    *   2 (last comment by nordstromsgirl 2 days ago)
 *   This was not my old account
     *   by AppleBBoy
-    *   2 days ago
+    *   3 days ago
     *   in Usernames
     *   0 votes
-    *   1 (last comment by AppleBBoy 2 days ago)
+    *   1 (last comment by AppleBBoy 3 days ago)
 *   Retrieving my Blog
     *   by luvinchihcky9
-    *   5 days ago
+    *   6 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   My premium expired!
     *   by thisiswhereItellyoueverything
-    *   6 days ago
+    *   1 week ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
@@ -82,7 +88,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Old account
     *   \[Resolved\] by ncf\_kcf
-    *   1 week ago
+    *   2 weeks ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   2 (last comment by ncf\_kcf 1 week ago)
@@ -90,12 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   \[Resolved\] by thibault
     *   2 weeks ago
     *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
-*   I need help
-    *   \[Resolved\] by Mah\_Chelle
-    *   2 weeks ago
-    *   in Themes
     *   0 votes
     *   1 (last comment by eugenia 1 week ago)
 
