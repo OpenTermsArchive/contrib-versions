@@ -62,6 +62,7 @@ Wix.com Wix.com is a leading cloud-based web development platform with millions 
 *   About Wix
 *   Investor Relations
 *   Jobs
+*   Design Assets
 *   Terms of use
 *   Privacy
 *   Abuse
