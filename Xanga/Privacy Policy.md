@@ -9,26 +9,26 @@ Skip to toolbar
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
 *   Please restore my blog. Thanks
-    *   by glorrr
-    *   18 hours ago
+    *   \[Resolved\] by glorrr
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   0
+    *   1 (last comment by eugenia 10 hours ago)
 *   Expired membership and two more questions
     *   by oscar0203
     *   1 week ago
     *   in Premium
     *   0 votes
-    *   1 (last comment by Champagne\_Matahari 1 day ago)
+    *   1 (last comment by Champagne\_Matahari 2 days ago)
 *   I remember my user name, but forgot email.
     *   by Shaved\_Bird
-    *   2 days ago
+    *   3 days ago
     *   in Emails
     *   0 votes
     *   0
 *   How do I download an archive of my old blog?
     *   by LoveFiona811
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -37,28 +37,28 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by nordstromsgirl 2 days ago)
+    *   1 (last comment by nordstromsgirl 3 days ago)
 *   My old posts?
     *   by scaryfairie
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by nordstromsgirl 2 days ago)
+    *   1 (last comment by nordstromsgirl 3 days ago)
 *   My blog?
     *   by mavra
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by nordstromsgirl 2 days ago)
+    *   2 (last comment by nordstromsgirl 3 days ago)
 *   This was not my old account
     *   by AppleBBoy
-    *   3 days ago
+    *   4 days ago
     *   in Usernames
     *   0 votes
-    *   1 (last comment by AppleBBoy 3 days ago)
+    *   1 (last comment by AppleBBoy 4 days ago)
 *   Retrieving my Blog
     *   by luvinchihcky9
-    *   6 days ago
+    *   1 week ago
     *   in Miscellaenous
     *   0 votes
     *   0
