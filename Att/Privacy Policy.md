@@ -1094,7 +1094,7 @@ You have choices about how your information is collected and used, both by AT&T 
 ' + '*   **Online Advertising from AT&T Adworks**: You can opt-out of all Relevant Advertising delivered by AT&T AdWorks on your computer by visiting this page. You will need to opt-out on **each** computer browser you wish to exclude.
 ' + '*   **Mobile Advertising from AT&T Adworks**: You can opt-out of receiving Relevant Advertising delivered by AT&T AdWorks on your mobile device. You will need to opt-out on **each** mobile device you wish to exclude.' + '
     *   You can follow the steps below:' + '
-        *   From your AT&T mobile device you want to opt out, go to http://www.mobileoptout.att.com/
+        *   From your AT&T mobile device you want to opt out, go to http://mobileoptout.att.com/
         ' + '*   Make sure you are on the AT&T wireless network, and not on any Wi-Fi
         ' + '*   Choose the blue Opt-Out button. You should receive the following message: "Thank you. This device will not be receiving AT&T AdWorks Relevant Advertising"
         ' + '
