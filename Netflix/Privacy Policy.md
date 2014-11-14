@@ -110,7 +110,7 @@ You must be 18 years of age or older to subscribe to the Netflix service. In cer
 
 Back to top Changes to This Policy
 
-Netflix may, from time to time, make changes to this Privacy Policy, the Social Terms or the About Cookies and Internet Advertising notice. Such revisions shall take effect immediately, although will only apply to existing members 30 days after posting (unless otherwise stated). We will endeavor to post prior versions (including marked changes) of the Privacy Policy, if any, for the preceding 12-month period. You can see these prior versions of the Privacy Policy by visiting our website (www.netflix.com/privacypolicychanges).
+Netflix may, from time to time, make changes to this Privacy Policy, the Social Terms or the About Cookies and Internet Advertising notice. Such revisions shall take effect immediately, although will only apply to existing members 30 days after posting (unless otherwise stated). We will endeavor to post prior versions of the Privacy Policy, if any, for the preceding 12-month period. You can see these prior versions of the Privacy Policy by visiting our website (www.netflix.com/privacypolicychanges).
 
 Back to top Transfer of Information
 
