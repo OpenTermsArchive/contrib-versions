@@ -268,9 +268,9 @@ LinkedIn Ireland
 
 Attn: Agreement Matters (Legal)
 
-Gardner House, Wilton Place,
+Wilton Place,
 
-Wilton Plaza Dublin 2 94043
+Wilton Plaza, Dublin 2 94043
 
 Ireland
 
