@@ -39,7 +39,7 @@ Back to Top 1. What information we collect 1.1. Data Controllers
 
 Our Privacy Policy applies to any Member or Visitor. We collect information when you use our Services to offer you a personalized and relevant experience, including growing your network and enabling business opportunities.
 
-If you reside in the United States, then the personal information provided to or collected by our Services is controlled by LinkedIn Corporation, 2029 Stierlin Court, Mountain View, California 94043. If you reside outside the United States, then this personal information is controlled by LinkedIn Ireland, Gardner House, Wilton Place, Wilton Plaza, Dublin 2, Ireland. **If you have any concern about providing information to us or having such information displayed on our Services or otherwise used in any manner permitted in this Privacy Policy and the User Agreement, you should not become a Member, visit our websites, apps or otherwise use our Services.** If you have already registered, you can close your accounts (e.g., LinkedIn, SlideShare and Pulse).
+If you reside in the United States, then the personal information provided to or collected by our Services is controlled by LinkedIn Corporation, 2029 Stierlin Court, Mountain View, California 94043. If you reside outside the United States, then this personal information is controlled by LinkedIn Ireland, Wilton Plaza, Wilton Place, Dublin 2, Ireland. **If you have any concern about providing information to us or having such information displayed on our Services or otherwise used in any manner permitted in this Privacy Policy and the User Agreement, you should not become a Member, visit our websites, apps or otherwise use our Services.** If you have already registered, you can close your accounts (e.g., LinkedIn, SlideShare and Pulse).
 
 We collect your personal information in the following ways:
 
@@ -311,4 +311,4 @@ Back to Top How To Contact Us
 
 If you have questions or comments about this Privacy Policy, please contact us online or by physical mail at:
 
-For Members in the United States: LinkedIn Corporation Attn: Privacy Policy Issues 2029 Stierlin Court Mountain View, CA 94043 USA For Members outside the United States: LinkedIn Ireland Attn: Privacy Policy Issues Gardner House, Wilton Place, Wilton Plaza, Dublin 2 Ireland Back to Top
+For Members in the United States: LinkedIn Corporation Attn: Privacy Policy Issues 2029 Stierlin Court Mountain View, CA 94043 USA For Members outside the United States: LinkedIn Ireland Attn: Privacy Policy Issues Wilton Place Wilton Plaza, Dublin 2 Ireland Back to Top
