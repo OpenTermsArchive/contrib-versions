@@ -10,6 +10,7 @@
         *   New homes
         *   Coming soon
     *   *   Recent home sales
+        *   Browse all homes
 *   Post a home for sale
     *   *   For sale by owner
         *   For sale by agent
@@ -122,7 +123,7 @@ More
         *   Zillow Mobile Apps
     
 
-Sign in or Join
+Sign in or Join Advertise
 
 *   Terms of Use
 *   Privacy Policy
