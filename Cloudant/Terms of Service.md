@@ -1,4 +1,4 @@
-Terms of Service Acceptance of Terms Acceptance
+Terms of Service IMPORTANT NOTE: These Terms of Service apply only to the Cloudant Shared offering. For customers who have dedicated Cloudant environments, the applicable terms and conditions for the IBM Cloudant Dedicated Cluster are located here. Acceptance of Terms Acceptance
 
 IBM provides IBM Cloudant data hosting services (the "Hosting Services") to you ("you" and "your" or "Subscriber") (Cloudant and Subscriber each a "Party" and collectively "Parties") subject to the following Terms of Service. In order to use the Hosting Services, you must first agree to these Terms of Service. You may not use the Hosting Services if you do not accept these Terms of Service. You can accept these Terms of Service by (i) clicking "I ACCEPT" where this option is made available to you in the user interface. or (ii) by accessing and using the Hosting Service, in which case you understand and agree that Cloudant will treat your use of the Hosting Services as acceptance of these Terms of Service from that point onwards.
 
