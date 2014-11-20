@@ -8,78 +8,84 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   my whole xanga is gone
+    *   \[Resolved\] by bleedingblack74
+    *   1 week ago
+    *   in Themes
+    *   0 votes
+    *   1 (last comment by eugenia 7 hours ago)
 *   Old Posts?
-    *   by Marie\_2029
+    *   \[Resolved\] by Marie\_2029
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   3 (last comment by eugenia 7 hours ago)
+*   Blog not appearing
+    *   \[Resolved\] by gv0928
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 7 hours ago)
+*   Is there still have other options for the membership?
+    *   \[Resolved\] by dandenpillar
+    *   2 days ago
+    *   in Themes
+    *   0 votes
+    *   1 (last comment by eugenia 7 hours ago)
+*   recovering my blog
+    *   \[Resolved\] by justinechang
     *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by pepper\_ann\_girl 1 hour ago)
-*   Blog not appearing
-    *   by gv0928
-    *   9 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Is there still have other options for the membership?
-    *   by dandenpillar
-    *   1 day ago
-    *   in Themes
-    *   0 votes
-    *   0
-*   recovering my blog
-    *   by justinechang
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   0
+    *   1 (last comment by eugenia 8 hours ago)
 *   how can i get back my old post?
-    *   by hooilun
-    *   3 days ago
+    *   \[Resolved\] by hooilun
+    *   4 days ago
     *   in Getting Started
     *   0 votes
-    *   0
+    *   1 (last comment by eugenia 8 hours ago)
 *   where is my blog
-    *   by k1u\_0v0
-    *   3 days ago
+    *   \[Resolved\] by k1u\_0v0
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   0
+    *   1 (last comment by eugenia 8 hours ago)
 *   What was the circa 2005 URL format? Trying to find archived profile
-    *   by LZPageZoSoLZ
-    *   4 days ago
+    *   \[Resolved\] by LZPageZoSoLZ
+    *   5 days ago
     *   in Personal URLs
     *   0 votes
-    *   0
+    *   1 (last comment by eugenia 8 hours ago)
 *   Unresolved
-    *   by sk8bs55
-    *   5 days ago
+    *   \[Resolved\] by sk8bs55
+    *   6 days ago
     *   in Themes
     *   0 votes
-    *   0
+    *   1 (last comment by eugenia 8 hours ago)
 *   Deleting My Account
     *   \[Resolved\] by Omgwtf\_St
     *   1 year ago
     *   in Miscellaenous
     *   0 votes
-    *   57 (last comment by eugenia 5 days ago)
+    *   57 (last comment by eugenia 6 days ago)
 *   help retrieving an account...blog is not appearing
     *   by white\_ink
-    *   6 days ago
+    *   1 week ago
     *   in Miscellaenous
     *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   1 (last comment by eugenia 6 days ago)
 *   Please tell me how to pay my account premium.
     *   \[Resolved\] by goodthings8
-    *   5 days ago
+    *   6 days ago
     *   in Premium
     *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   1 (last comment by eugenia 6 days ago)
 *   Subscription Gone?
     *   \[Resolved\] by FatKi319
     *   1 week ago
     *   in Premium
     *   0 votes
-    *   2 (last comment by FatKi319 6 days ago)
+    *   2 (last comment by FatKi319 1 week ago)
 *   My Xanga Expired
     *   \[Resolved\] by rara44
     *   2 weeks ago
@@ -92,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Passwords &. Sign-In
     *   0 votes
     *   3 (last comment by eugenia 1 week ago)
-*   Help finding someone
-    *   \[Resolved\] by CavScout099
-    *   2 weeks ago
-    *   in Miscellaenous
-    *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
 
 1 2 3 ... 143 Next
 
