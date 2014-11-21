@@ -311,4 +311,4 @@ Back to Top How To Contact Us
 
 If you have questions or comments about this Privacy Policy, please contact us online or by physical mail at:
 
-For Members in the United States: LinkedIn Corporation Attn: Privacy Policy Issues 2029 Stierlin Court Mountain View, CA 94043 USA For Members outside the United States: LinkedIn Ireland Attn: Privacy Policy Issues Wilton Place Wilton Plaza, Dublin 2 Ireland Back to Top
+For Members in the United States: LinkedIn Corporation Attn: Privacy Policy Issues 2029 Stierlin Court Mountain View, CA 94043 USA For Members outside the United States: LinkedIn Ireland Attn: Privacy Policy Issues Wilton Plaza Wilton Place, Dublin 2 Ireland Back to Top
