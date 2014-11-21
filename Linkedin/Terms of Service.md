@@ -268,9 +268,9 @@ LinkedIn Ireland
 
 Attn: Agreement Matters (Legal)
 
-Wilton Place,
+Wilton Plaza,
 
-Wilton Plaza, Dublin 2 94043
+Wilton Place, Dublin 2
 
 Ireland
 
