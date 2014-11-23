@@ -10,70 +10,70 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Thanks. My blog is gone.
     *   by xXallyxXlove
-    *   9 hours ago
+    *   1 day ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Can't find my blog!
     *   by heartsR2BnotBroken
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Posts?
     *   \[Resolved\] by Marie\_2029
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by theskratchdj 1 day ago)
+    *   4 (last comment by theskratchdj 2 days ago)
 *   my whole xanga is gone
     *   \[Resolved\] by bleedingblack74
     *   1 week ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Blog not appearing
     *   \[Resolved\] by gv0928
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Is there still have other options for the membership?
     *   \[Resolved\] by dandenpillar
-    *   4 days ago
+    *   5 days ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   recovering my blog
     *   \[Resolved\] by justinechang
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   how can i get back my old post?
     *   \[Resolved\] by hooilun
-    *   6 days ago
+    *   1 week ago
     *   in Getting Started
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   where is my blog
     *   \[Resolved\] by k1u\_0v0
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   What was the circa 2005 URL format? Trying to find archived profile
     *   \[Resolved\] by LZPageZoSoLZ
     *   1 week ago
     *   in Personal URLs
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Unresolved
     *   \[Resolved\] by sk8bs55
     *   1 week ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Deleting My Account
     *   \[Resolved\] by Omgwtf\_St
     *   1 year ago
