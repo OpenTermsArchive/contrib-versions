@@ -95,4 +95,4 @@ Mountain View, CA 94041
 
 March 4, 2014: We added more detail about social networking services, cookies and similar technologies.
 
-                                Sign up to read Quora Continue with GoogleContinue with Facebook By continuing you indicate that you have read and agree to the Terms of Service. Sitemap # ABCDEFGHIJKLMNOPQRSTUVWXYZ About - Careers - Privacy - Terms
+                                Continue with GoogleContinue with Facebook By continuing you indicate that you have read and agree to the Terms of Service. Sitemap # ABCDEFGHIJKLMNOPQRSTUVWXYZ About - Careers - Privacy - Terms
