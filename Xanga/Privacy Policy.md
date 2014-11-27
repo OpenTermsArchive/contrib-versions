@@ -9,95 +9,95 @@ Skip to toolbar
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
 *   restore my posts
-    *   by peterspixie
-    *   6 hours ago
+    *   \[Resolved\] by peterspixie
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   0
+    *   1 (last comment by eugenia 8 hours ago)
+*   Hello would like my old post back
+    *   \[Resolved\] by angcap1228
+    *   11 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 8 hours ago)
 *   Old Posts?
     *   \[Resolved\] by Marie\_2029
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   5 (last comment by eugenia 7 hours ago)
+    *   5 (last comment by eugenia 1 day ago)
 *   Can't find my blog!
     *   \[Resolved\] by heartsR2BnotBroken
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 7 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   Thanks. My blog is gone.
     *   \[Resolved\] by xXallyxXlove
-    *   4 days ago
+    *   5 days ago
     *   in Adding &. Editing Entries
     *   0 votes
-    *   1 (last comment by eugenia 7 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   Hello, please help to retrieve my old blog!!
     *   \[Resolved\] by skymagic
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 7 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   Old Blog Post
     *   \[Resolved\] by OSUgoalie00
-    *   1 day ago
+    *   2 days ago
     *   in Miscellaenous
     *   0 votes
-    *   1 (last comment by eugenia 7 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   Expired Account
     *   \[Resolved\] by bjorn
     *   2 months ago
     *   in Premium
     *   0 votes
-    *   4 (last comment by eugenia 9 hours ago)
+    *   4 (last comment by eugenia 1 day ago)
 *   Please restore my blog
     *   \[Resolved\] by Lady\_of\_Rivendell17
-    *   14 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 10 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   my whole xanga is gone
     *   \[Resolved\] by bleedingblack74
     *   2 weeks ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   Blog not appearing
     *   \[Resolved\] by gv0928
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   Is there still have other options for the membership?
     *   \[Resolved\] by dandenpillar
     *   1 week ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   recovering my blog
     *   \[Resolved\] by justinechang
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   how can i get back my old post?
     *   \[Resolved\] by hooilun
     *   1 week ago
     *   in Getting Started
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   where is my blog
     *   \[Resolved\] by k1u\_0v0
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
-*   What was the circa 2005 URL format? Trying to find archived profile
-    *   \[Resolved\] by LZPageZoSoLZ
-    *   1 week ago
-    *   in Personal URLs
-    *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 
 1 2 3 ... 144 Next
 
