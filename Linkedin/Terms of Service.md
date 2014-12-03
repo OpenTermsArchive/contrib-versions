@@ -65,7 +65,7 @@ If you purchase any of our paid Services (“Premium Services”), you agree to 
 
 For LinkedIn, you can get a copy of your invoice through your account settings under “Purchase History” for SlideShare you can request your invoice through Customer Support.
 
-2.4. Notifices and Service Messages
+2.4. Notices and Service Messages
 
 You're okay with us using our websites, mobile apps, and email to provide you with important notices. This Agreement applies to mobile applications as well. Also, you agree certain additional information can be shared with us.
 
