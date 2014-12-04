@@ -10,13 +10,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Lost blogs
     *   by Gustava
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can I get my old post?
     *   by love\_kk\_forever
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -25,13 +25,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   Hello would like my old post back
     *   \[Resolved\] by angcap1228
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   Old Posts?
     *   \[Resolved\] by Marie\_2029
     *   2 weeks ago
@@ -79,25 +79,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 weeks ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
+    *   1 (last comment by eugenia 2 weeks ago)
 *   Blog not appearing
     *   \[Resolved\] by gv0928
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
+    *   1 (last comment by eugenia 2 weeks ago)
 *   Is there still have other options for the membership?
     *   \[Resolved\] by dandenpillar
     *   2 weeks ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
+    *   1 (last comment by eugenia 2 weeks ago)
 *   recovering my blog
     *   \[Resolved\] by justinechang
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
+    *   1 (last comment by eugenia 2 weeks ago)
 
 1 2 3 ... 144 Next
 
