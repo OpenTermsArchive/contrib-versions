@@ -8,18 +8,24 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Lost blogs
-    *   by Gustava
-    *   5 days ago
+*   Can I get my old post?
+    *   \[Resolved\] by love\_kk\_forever
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   Can I get my old post?
-    *   by love\_kk\_forever
+    *   1 (last comment by eugenia 13 hours ago)
+*   Lost blogs
+    *   \[Resolved\] by Gustava
     *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   0
+    *   1 (last comment by eugenia 13 hours ago)
+*   Please restore my blog
+    *   \[Resolved\] by elsiepac
+    *   19 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 13 hours ago)
 *   restore my posts
     *   \[Resolved\] by peterspixie
     *   1 week ago
@@ -40,7 +46,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 (last comment by eugenia 1 week ago)
 *   Can't find my blog!
     *   \[Resolved\] by heartsR2BnotBroken
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by eugenia 1 week ago)
@@ -64,7 +70,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by eugenia 1 week ago)
 *   Expired Account
     *   \[Resolved\] by bjorn
-    *   2 months ago
+    *   3 months ago
     *   in Premium
     *   0 votes
     *   4 (last comment by eugenia 1 week ago)
@@ -90,12 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   \[Resolved\] by dandenpillar
     *   2 weeks ago
     *   in Themes
-    *   0 votes
-    *   1 (last comment by eugenia 2 weeks ago)
-*   recovering my blog
-    *   \[Resolved\] by justinechang
-    *   2 weeks ago
-    *   in Data Migration
     *   0 votes
     *   1 (last comment by eugenia 2 weeks ago)
 
