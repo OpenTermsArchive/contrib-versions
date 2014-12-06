@@ -13,19 +13,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 13 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   Lost blogs
     *   \[Resolved\] by Gustava
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 13 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   Please restore my blog
     *   \[Resolved\] by elsiepac
-    *   19 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 13 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   restore my posts
     *   \[Resolved\] by peterspixie
     *   1 week ago
@@ -52,7 +52,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by eugenia 1 week ago)
 *   Thanks. My blog is gone.
     *   \[Resolved\] by xXallyxXlove
-    *   1 week ago
+    *   2 weeks ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   1 (last comment by eugenia 1 week ago)
