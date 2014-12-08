@@ -8,24 +8,42 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Where can i find my blog?
+    *   by DaLee\_Ogata
+    *   10 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Can't access my blog
+    *   by joyagirl12
+    *   12 hours ago
+    *   in Passwords &. Sign-In
+    *   0 votes
+    *   0
+*   Old account
+    *   \[Resolved\] by ncf\_kcf
+    *   1 month ago
+    *   in Passwords &. Sign-In
+    *   0 votes
+    *   4 (last comment by ncf\_kcf 15 hours ago)
 *   Can I get my old post?
     *   \[Resolved\] by love\_kk\_forever
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Lost blogs
     *   \[Resolved\] by Gustava
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Please restore my blog
     *   \[Resolved\] by elsiepac
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   restore my posts
     *   \[Resolved\] by peterspixie
     *   1 week ago
@@ -40,7 +58,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by eugenia 1 week ago)
 *   Old Posts?
     *   \[Resolved\] by Marie\_2029
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   5 (last comment by eugenia 1 week ago)
@@ -58,7 +76,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by eugenia 1 week ago)
 *   Hello, please help to retrieve my old blog!!
     *   \[Resolved\] by skymagic
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by eugenia 1 week ago)
@@ -80,24 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   1 (last comment by eugenia 1 week ago)
-*   my whole xanga is gone
-    *   \[Resolved\] by bleedingblack74
-    *   3 weeks ago
-    *   in Themes
-    *   0 votes
-    *   1 (last comment by eugenia 2 weeks ago)
-*   Blog not appearing
-    *   \[Resolved\] by gv0928
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 2 weeks ago)
-*   Is there still have other options for the membership?
-    *   \[Resolved\] by dandenpillar
-    *   2 weeks ago
-    *   in Themes
-    *   0 votes
-    *   1 (last comment by eugenia 2 weeks ago)
 
 1 2 3 ... 144 Next
 
