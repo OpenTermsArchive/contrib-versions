@@ -1,5 +1,3 @@
-Loading
-
 Wix
 
 *   My Sites
