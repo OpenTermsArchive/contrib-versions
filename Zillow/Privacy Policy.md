@@ -6,16 +6,17 @@
     *   *   Homes for sale
         *   For sale by owner
         *   Foreclosures
-    *   *   Open houses
-        *   New homes
+        *   Open houses
+    *   *   New homes
         *   Coming soon
-    *   *   Recent home sales
-        *   Browse all homes
+        *   Recent home sales
+        *   All homes
 *   Post a home for sale
     *   *   For sale by owner
         *   For sale by agent
         *   Coming Soon
-    *   *   Make Me Move
+        *   Make Me Move
+    
 
 Rentals
 
@@ -116,6 +117,7 @@ More
     *   *   Zillow Affiliates
         *   Brokers and Zillow
         *   MLS and Zillow
+        *   Widgets and data
 *   Other
     *   *   Rental advertising
         *   Zillow Research
