@@ -3,9 +3,9 @@ Skip Navigation
 *   Find An Agent
 *   Contact Us
 *   Español
-*   Denver, CO, 80202
+*   Denver, CO,80202
 
-Get a Quote?Get A Quote
+Get a Quote?
 
 Your location is set for Denver, CO, 80202
 
@@ -67,12 +67,58 @@ Find An Agent
     *   Welcome
     *   Auto
     *   Home
-    *   Life &. Retirement
     *   Motorcycle
     *   Renters
     *   Power Sports
     *   Business Insurance
-*   My Account Login Log in to My Account: User Name Password Password Forgot user ID?Forgot password? Log In Create an account
+*   My Account Login Log in to My Account: User Name Password Password Forgot user ID? Forgot password? Log In Create an account
+
+Toggle mobileNavigation Log in
+
+*   Update Zip Code expand
+    *   Denver, CO,80202 Edit
+*   Find A Local Agent
+*   Get A Quote in 80202 expand
+    *   Denver, CO,80202 Edit AutoHomeRentersLifeCondoMotorcycleBoatATV/Rec. VehicleBusiness InsuranceMore InsuranceRetrieve a saved quote Retrieve a saved quote
+*   Insurance &. More expand
+    *   My Offers
+    *   Auto
+    *   Home
+    *   Renters
+    *   Condo
+    *   Motorcycle
+    *   Business
+    *   Life
+    *   More expand
+        *   Boat
+        *   Motorhome
+        *   Snowmobile
+        *   ATV &. 4X4
+        *   Landlord
+        *   Retirement &. Savings
+        *   Supplemental Health
+*   Claims expand
+    *   Overview
+    *   File A Claim
+    *   Track A Claim
+    *   Disaster Claims
+*   Support expand
+    *   Overview
+    *   Q &. A
+    *   Billing
+    *   Find An Agent
+    *   Contact Us
+*   Tools &. Resources expand
+    *   Welcome
+    *   Auto
+    *   Home
+    *   Motorcycle
+    *   Renters
+    *   Power Sports
+    *   Business Insurance
+*   My Account Login
+*   Contact Us
+*   Español
 
 About Allstate
 
@@ -107,7 +153,7 @@ Home >. Allstate Overview >. Privacy Statement AIC
 
 Text Size
 
-  A A A allstate.com Important Notice Privacy Policy Statement
+  A A A allstate.com ﻿ Important Notice Privacy Policy Statement
 
   
   
