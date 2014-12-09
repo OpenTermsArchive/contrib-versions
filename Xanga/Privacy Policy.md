@@ -8,15 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Can you fix my blog site.
+    *   by Ps29v11
+    *   11 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Where can i find my blog?
     *   by DaLee\_Ogata
-    *   10 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can't access my blog
     *   by joyagirl12
-    *   12 hours ago
+    *   1 day ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -25,25 +31,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   4 (last comment by ncf\_kcf 15 hours ago)
+    *   4 (last comment by ncf\_kcf 1 day ago)
 *   Can I get my old post?
     *   \[Resolved\] by love\_kk\_forever
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   Lost blogs
     *   \[Resolved\] by Gustava
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   Please restore my blog
     *   \[Resolved\] by elsiepac
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   restore my posts
     *   \[Resolved\] by peterspixie
     *   1 week ago
@@ -82,7 +88,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by eugenia 1 week ago)
 *   Old Blog Post
     *   \[Resolved\] by OSUgoalie00
-    *   1 week ago
+    *   2 weeks ago
     *   in Miscellaenous
     *   0 votes
     *   1 (last comment by eugenia 1 week ago)
@@ -92,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Premium
     *   0 votes
     *   4 (last comment by eugenia 1 week ago)
-*   Please restore my blog
-    *   \[Resolved\] by Lady\_of\_Rivendell17
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
 
 1 2 3 ... 144 Next
 
