@@ -1,6 +1,8 @@
-There are updates to this page that haven't been applied because you've entered text. Refresh this page to see updates. Hide this message. Quora  
+There are updates to this page that haven't been applied because you've entered text. Refresh this page to see updates. Hide this message. Quora Quora is the best answer to any question.Sign up in seconds Remember Me Forgot Password?
 
-LoginSign Up
+Please confirm your email address. Resend Confirmation Link
+
+No account found for this email. Retry, or Sign up for Quora.Incorrect password. Reset Password
 
 *   About
 *   Team
