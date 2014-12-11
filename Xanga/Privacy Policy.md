@@ -13,61 +13,61 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   5 (last comment by eugenia 11 hours ago)
+    *   5 (last comment by eugenia 1 day ago)
 *   Can't access my blog
     *   \[Resolved\] by joyagirl12
-    *   2 days ago
+    *   3 days ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   1 (last comment by eugenia 11 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   Where can i find my blog?
     *   \[Resolved\] by DaLee\_Ogata
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 1 day ago)
+*   Can you fix my blog site.
+    *   \[Resolved\] by Ps29v11
     *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 11 hours ago)
-*   Can you fix my blog site.
-    *   \[Resolved\] by Ps29v11
+    *   1 (last comment by eugenia 1 day ago)
+*   where'd my website go?
+    *   \[Resolved\] by ASKstarz
     *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 11 hours ago)
-*   where'd my website go?
-    *   \[Resolved\] by ASKstarz
-    *   12 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 11 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   Can I get my old post?
     *   \[Resolved\] by love\_kk\_forever
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   1 (last comment by eugenia 6 days ago)
 *   Lost blogs
     *   \[Resolved\] by Gustava
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   1 (last comment by eugenia 6 days ago)
 *   Please restore my blog
     *   \[Resolved\] by elsiepac
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   1 (last comment by eugenia 6 days ago)
 *   restore my posts
     *   \[Resolved\] by peterspixie
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
+    *   1 (last comment by eugenia 2 weeks ago)
 *   Hello would like my old post back
     *   \[Resolved\] by angcap1228
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
+    *   1 (last comment by eugenia 2 weeks ago)
 *   Old Posts?
     *   \[Resolved\] by Marie\_2029
     *   3 weeks ago
