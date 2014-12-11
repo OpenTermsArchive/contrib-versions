@@ -59,4 +59,6 @@ hypster.com may disclose your personal information in the following circumstance
   
 18\. If you would like to unsubscribe from the Hypster.com mailing list please Click here. You will be unsubscribed within 24 hours.  
   
-19\. Your Comments - If you have any comments or questions about this Policy or your personal information, please contact hypster.com at info@baronsmedia.com
+19\. Your Comments - If you have any comments or questions about this Policy or your personal information, please contact hypster.com at info@baronsmedia.com  
+  
+We allow third-party companies to collect certain information when you visit our web site. These companies may utilize cookies, pixels or other technologies to collect and use both personally identifiable information (e.g., your name, phone number, physical or electronic address) and non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at www.aboutads.info or Networking Advertising Initiative at www.networkadvertising.org/choices.
