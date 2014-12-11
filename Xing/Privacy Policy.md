@@ -2,7 +2,7 @@ Privacy policy
 
 Print | Save
 
-p>**Terms and Conditions on Data Protection**
+**Terms and Conditions on Data Protection**
 
 “XING” refers to the service provided subject to these General Terms and Conditions and/or XING AG.
 
@@ -183,7 +183,7 @@ By using Clickpath you can see which Profiles of other XING Members you have vis
 
 Furthermore, Clickpath registers which XING Members have visited your XING "About me" page which you can set up within the framework of XING Services, and which XING Members have visited the website of one of your previous companies.
 
-Any information registered by Clickpath is deleted by XING automatically within one (1) week after its registration.
+Any information registered by Clickpath is deleted by XING automatically within three (3) months after its registration.
 
 **10\. Search Functions**
 
