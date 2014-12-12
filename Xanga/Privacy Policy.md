@@ -8,54 +8,60 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Logged into old account, cannot download archives
+    *   by zebrasunday
+    *   4 hours ago
+    *   in Passwords &. Sign-In
+    *   0 votes
+    *   0
 *   Old account
     *   \[Resolved\] by ncf\_kcf
     *   1 month ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   5 (last comment by eugenia 1 day ago)
+    *   5 (last comment by eugenia 2 days ago)
 *   Can't access my blog
     *   \[Resolved\] by joyagirl12
-    *   3 days ago
+    *   4 days ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   Where can i find my blog?
     *   \[Resolved\] by DaLee\_Ogata
+    *   4 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 2 days ago)
+*   Can you fix my blog site.
+    *   \[Resolved\] by Ps29v11
     *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   Can you fix my blog site.
-    *   \[Resolved\] by Ps29v11
+    *   1 (last comment by eugenia 2 days ago)
+*   where'd my website go?
+    *   \[Resolved\] by ASKstarz
     *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   where'd my website go?
-    *   \[Resolved\] by ASKstarz
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   Can I get my old post?
     *   \[Resolved\] by love\_kk\_forever
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   Lost blogs
     *   \[Resolved\] by Gustava
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   Please restore my blog
     *   \[Resolved\] by elsiepac
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   restore my posts
     *   \[Resolved\] by peterspixie
     *   2 weeks ago
@@ -76,7 +82,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 (last comment by eugenia 2 weeks ago)
 *   Can't find my blog!
     *   \[Resolved\] by heartsR2BnotBroken
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by eugenia 2 weeks ago)
@@ -90,12 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   \[Resolved\] by skymagic
     *   2 weeks ago
     *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 2 weeks ago)
-*   Old Blog Post
-    *   \[Resolved\] by OSUgoalie00
-    *   2 weeks ago
-    *   in Miscellaenous
     *   0 votes
     *   1 (last comment by eugenia 2 weeks ago)
 
