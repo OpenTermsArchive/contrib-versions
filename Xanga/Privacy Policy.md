@@ -8,15 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Delete Old Picture
+    *   by reegene
+    *   13 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   I can't see my old blog posts or figure out how to make new ones.
     *   by xPxMxSx
-    *   12 hours ago
+    *   1 day ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Logged into old account, cannot download archives
     *   by zebrasunday
-    *   1 day ago
+    *   2 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -25,31 +31,31 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   5 (last comment by eugenia 3 days ago)
+    *   5 (last comment by eugenia 4 days ago)
 *   Can't access my blog
     *   \[Resolved\] by joyagirl12
-    *   5 days ago
+    *   6 days ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   Where can i find my blog?
     *   \[Resolved\] by DaLee\_Ogata
+    *   6 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 4 days ago)
+*   Can you fix my blog site.
+    *   \[Resolved\] by Ps29v11
     *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
-*   Can you fix my blog site.
-    *   \[Resolved\] by Ps29v11
+    *   1 (last comment by eugenia 4 days ago)
+*   where'd my website go?
+    *   \[Resolved\] by ASKstarz
     *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
-*   where'd my website go?
-    *   \[Resolved\] by ASKstarz
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   Can I get my old post?
     *   \[Resolved\] by love\_kk\_forever
     *   2 weeks ago
@@ -90,12 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   \[Resolved\] by heartsR2BnotBroken
     *   3 weeks ago
     *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 2 weeks ago)
-*   Thanks. My blog is gone.
-    *   \[Resolved\] by xXallyxXlove
-    *   3 weeks ago
-    *   in Adding &. Editing Entries
     *   0 votes
     *   1 (last comment by eugenia 2 weeks ago)
 
