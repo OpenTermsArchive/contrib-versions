@@ -10,25 +10,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Old Blog
     *   by Ooh\_SoO\_PrEtTi
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Ooh\_SoO\_PrEtTi 1 day ago)
+    *   1 (last comment by Ooh\_SoO\_PrEtTi 2 days ago)
 *   Delete Old Picture
     *   by reegene
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I can't see my old blog posts or figure out how to make new ones.
     *   by xPxMxSx
-    *   3 days ago
+    *   4 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Logged into old account, cannot download archives
     *   by zebrasunday
-    *   4 days ago
+    *   5 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -37,31 +37,31 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   5 (last comment by eugenia 6 days ago)
+    *   5 (last comment by eugenia 1 week ago)
 *   Can't access my blog
     *   \[Resolved\] by joyagirl12
     *   1 week ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   Where can i find my blog?
     *   \[Resolved\] by DaLee\_Ogata
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   Can you fix my blog site.
     *   \[Resolved\] by Ps29v11
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   where'd my website go?
     *   \[Resolved\] by ASKstarz
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   Can I get my old post?
     *   \[Resolved\] by love\_kk\_forever
     *   2 weeks ago
@@ -82,7 +82,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by eugenia 1 week ago)
 *   restore my posts
     *   \[Resolved\] by peterspixie
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by eugenia 2 weeks ago)
@@ -94,10 +94,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by eugenia 2 weeks ago)
 *   Old Posts?
     *   \[Resolved\] by Marie\_2029
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   5 (last comment by eugenia 2 weeks ago)
+    *   5 (last comment by eugenia 3 weeks ago)
 
 1 2 3 ... 144 Next
 
