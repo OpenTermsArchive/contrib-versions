@@ -59,5 +59,3 @@ Although most changes are likely to be minor, Automattic may change its Privacy 
 *   _July 1, 2010:_ Revised paragraph about IP addresses to explain when they are collected and that commenter IPs are visible to blog administrators
 *   _October 29, 2009:_ Added Comments paragraph to explain Akismet comment storage policy
 *   _March 10, 2009:_ Added Ads paragraph to alert users that ads from third parties may use cookies
-
-Like this: Like Loading...
