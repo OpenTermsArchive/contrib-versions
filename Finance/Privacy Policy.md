@@ -32,7 +32,7 @@ Return to top
 
 CHILDREN
 
-When Yahoo has knowledge that a child under age 13 is attempting to register with Yahoo, we ask the child to have a parent or guardian create a Yahoo Family Account to obtain parental permission. Visit Children's Privacy &. Family Accounts to learn more about children’s privacy on Yahoo.
+With parental permission, a child under age 13 might have a Yahoo Family Account. Visit Children's Privacy &. Family Accounts to learn more about children’s privacy on Yahoo.
 
 Return to top
 
