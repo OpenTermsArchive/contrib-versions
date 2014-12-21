@@ -10,13 +10,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   how can see my blog?
     *   by karenyayaya
-    *   1 hour ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can't see any old posts
     *   by oOheathero7
-    *   1 day ago
+    *   2 days ago
     *   in Themes
     *   0 votes
     *   0
@@ -25,25 +25,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Adding &. Editing Entries
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Delete Old Picture
     *   \[Resolved\] by reegene
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 3 days ago)
+*   Old Blog
+    *   \[Resolved\] by Ooh\_SoO\_PrEtTi
     *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
-*   Old Blog
-    *   \[Resolved\] by Ooh\_SoO\_PrEtTi
-    *   5 days ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by eugenia 2 days ago)
+    *   2 (last comment by eugenia 3 days ago)
 *   Logged into old account, cannot download archives
     *   \[Resolved\] by zebrasunday
     *   1 week ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   3 (last comment by eugenia 2 days ago)
+    *   3 (last comment by eugenia 3 days ago)
 *   Old account
     *   \[Resolved\] by ncf\_kcf
     *   1 month ago
