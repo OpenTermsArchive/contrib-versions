@@ -9,7 +9,7 @@ Please take a moment to familiarize yourself with our privacy practices and
 let us know if you have any questions.  
  
 
-California Do Not Track Disclosure | Information Regarding Commercial Electronic Messages in Canada
+Your California Privacy Disclosures | Information Regarding Commercial Electronic Messages in Canada
 
 Collection and Use of Personal Information
 
@@ -135,6 +135,6 @@ Apple may update its Privacy Policy from time to time. When we change the policy
 
 Apple Inc. 1 Infinite Loop, Cupertino, California, USA, 95014
 
-Apple Inc. has been awarded TRUSTe’s Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s program requirements including transparency, accountability, and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. If you have questions or complaints regarding our Privacy Policy or practices, please contact us. If you are not satisfied with our response, you can contact TRUSTe.
+http://support.apple.com/kb/HT4228
 
 Last updated: 17 September, 2014
