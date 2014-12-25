@@ -10,52 +10,52 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Can't see any old posts
     *   \[Resolved\] by oOheathero7
-    *   5 days ago
+    *   6 days ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by eugenia 11 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   how can see my blog?
     *   \[Resolved\] by karenyayaya
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 11 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   Archive
     *   \[Resolved\] by love\_\_Katbaby
-    *   19 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 11 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   Delete Old Picture
     *   \[Resolved\] by reegene
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by reegene 1 day ago)
+    *   2 (last comment by reegene 2 days ago)
 *   Missed downloading my archives
     *   \[Resolved\] by jaggedjunky
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   10 (last comment by MakingPeopleHappy 1 day ago)
+    *   10 (last comment by MakingPeopleHappy 2 days ago)
 *   I can't see my old blog posts or figure out how to make new ones.
     *   \[Resolved\] by xPxMxSx
     *   1 week ago
     *   in Adding &. Editing Entries
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   Old Blog
     *   \[Resolved\] by Ooh\_SoO\_PrEtTi
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by eugenia 6 days ago)
+    *   2 (last comment by eugenia 1 week ago)
 *   Logged into old account, cannot download archives
     *   \[Resolved\] by zebrasunday
     *   1 week ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   3 (last comment by eugenia 6 days ago)
+    *   3 (last comment by eugenia 1 week ago)
 *   Old account
     *   \[Resolved\] by ncf\_kcf
     *   1 month ago
