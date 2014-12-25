@@ -67,7 +67,7 @@ Return to top
 
 Your Ability to Edit and Delete Your Account Information and Preferences
 
-You can edit your Yahoo Account Information, including your marketing preferences, at any time.
+You can edit your Yahoo Account Information, including your marketing preferences, at any time. You can also modify information you have provided to Yahoo through the Yahoo products or services you may use.
 
 New categories of marketing communications might be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive.
 
