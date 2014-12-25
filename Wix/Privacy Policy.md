@@ -53,7 +53,6 @@ Wix.com Wix.com is a leading cloud-based web development platform with millions 
 *   Online Store
 *   App Market
 *   Domains
-*   Flash Templates
 *   Developers
 
 *   COMPANY
@@ -64,9 +63,9 @@ Wix.com Wix.com is a leading cloud-based web development platform with millions 
 *   Terms of use
 *   Privacy
 *   Abuse
-*   Contact Us
 *   Resellers
 *   Affiliates
+*   Contact Us
 
 *   COMMUNITY
 *   Wix Blog
