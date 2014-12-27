@@ -1,4 +1,4 @@
-Grammarly Privacy Policy  
+Grammarly Privacy Policy
 
 Last updated on April 11, 2014
 
@@ -6,7 +6,7 @@ Grammarly values the privacy of your personal information and User Content. Thi
 
 What Is The Scope Of This Privacy Policy?
 
-This Policy is incorporated into Grammarly’s Terms of Service and License Agreement located at http://www.grammarly.com/terms (the “Terms of Service”), and applies to the information obtained by us through your use of the Site, the Services, the Software (together, “Products”) and other Grammarly products and services. Capitalized terms used in this Policy and not otherwise defined shall have the meanings provided for those terms in the Terms of Service.
+This Policy is incorporated into Grammarly’s Terms of Service and License Agreement located at https://nspl.grammarly.com/terms (the “Terms of Service”), and applies to the information obtained by us through your use of the Site, the Services, the Software (together, “Products”) and other Grammarly products and services. Capitalized terms used in this Policy and not otherwise defined shall have the meanings provided for those terms in the Terms of Service.
 
 Will This Privacy Policy Ever Change?
 
