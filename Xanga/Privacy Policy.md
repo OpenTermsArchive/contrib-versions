@@ -8,42 +8,42 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   I can't see my old blog posts or figure out how to make new ones.
+    *   \[Resolved\] by xPxMxSx
+    *   2 weeks ago
+    *   in Adding &. Editing Entries
+    *   0 votes
+    *   2 (last comment by saltypepper1357 9 hours ago)
 *   Can't see any old posts
     *   \[Resolved\] by oOheathero7
     *   1 week ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   how can see my blog?
     *   \[Resolved\] by karenyayaya
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Archive
     *   \[Resolved\] by love\_\_Katbaby
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Delete Old Picture
     *   \[Resolved\] by reegene
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by reegene 3 days ago)
+    *   2 (last comment by reegene 4 days ago)
 *   Missed downloading my archives
     *   \[Resolved\] by jaggedjunky
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   10 (last comment by MakingPeopleHappy 3 days ago)
-*   I can't see my old blog posts or figure out how to make new ones.
-    *   \[Resolved\] by xPxMxSx
-    *   1 week ago
-    *   in Adding &. Editing Entries
-    *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
+    *   10 (last comment by MakingPeopleHappy 4 days ago)
 *   Old Blog
     *   \[Resolved\] by Ooh\_SoO\_PrEtTi
     *   1 week ago
@@ -94,7 +94,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by eugenia 3 weeks ago)
 *   Lost blogs
     *   \[Resolved\] by Gustava
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by eugenia 3 weeks ago)
