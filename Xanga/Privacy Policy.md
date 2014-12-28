@@ -13,37 +13,37 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Adding &. Editing Entries
     *   0 votes
-    *   2 (last comment by saltypepper1357 9 hours ago)
+    *   2 (last comment by saltypepper1357 1 day ago)
 *   Can't see any old posts
     *   \[Resolved\] by oOheathero7
     *   1 week ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   how can see my blog?
     *   \[Resolved\] by karenyayaya
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   Archive
     *   \[Resolved\] by love\_\_Katbaby
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   Delete Old Picture
     *   \[Resolved\] by reegene
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by reegene 4 days ago)
+    *   2 (last comment by reegene 5 days ago)
 *   Missed downloading my archives
     *   \[Resolved\] by jaggedjunky
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   10 (last comment by MakingPeopleHappy 4 days ago)
+    *   10 (last comment by MakingPeopleHappy 5 days ago)
 *   Old Blog
     *   \[Resolved\] by Ooh\_SoO\_PrEtTi
     *   1 week ago
@@ -88,7 +88,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by eugenia 2 weeks ago)
 *   Can I get my old post?
     *   \[Resolved\] by love\_kk\_forever
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by eugenia 3 weeks ago)
