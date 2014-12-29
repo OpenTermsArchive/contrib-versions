@@ -8,45 +8,51 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Renew
+    *   by blhilton
+    *   8 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   I can't see my old blog posts or figure out how to make new ones.
     *   \[Resolved\] by xPxMxSx
     *   2 weeks ago
     *   in Adding &. Editing Entries
     *   0 votes
-    *   2 (last comment by saltypepper1357 1 day ago)
+    *   2 (last comment by saltypepper1357 2 days ago)
 *   Can't see any old posts
     *   \[Resolved\] by oOheathero7
     *   1 week ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
+    *   1 (last comment by eugenia 5 days ago)
 *   how can see my blog?
     *   \[Resolved\] by karenyayaya
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
+    *   1 (last comment by eugenia 5 days ago)
 *   Archive
     *   \[Resolved\] by love\_\_Katbaby
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
+    *   1 (last comment by eugenia 5 days ago)
 *   Delete Old Picture
     *   \[Resolved\] by reegene
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by reegene 5 days ago)
+    *   2 (last comment by reegene 6 days ago)
 *   Missed downloading my archives
     *   \[Resolved\] by jaggedjunky
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   10 (last comment by MakingPeopleHappy 5 days ago)
+    *   10 (last comment by MakingPeopleHappy 6 days ago)
 *   Old Blog
     *   \[Resolved\] by Ooh\_SoO\_PrEtTi
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   2 (last comment by eugenia 1 week ago)
@@ -64,13 +70,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 (last comment by eugenia 2 weeks ago)
 *   Can't access my blog
     *   \[Resolved\] by joyagirl12
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   1 (last comment by eugenia 2 weeks ago)
 *   Where can i find my blog?
     *   \[Resolved\] by DaLee\_Ogata
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by eugenia 2 weeks ago)
@@ -92,14 +98,8 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   1 (last comment by eugenia 3 weeks ago)
-*   Lost blogs
-    *   \[Resolved\] by Gustava
-    *   4 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 3 weeks ago)
 
-1 2 3 ... 144 Next
+1 2 3 ... 145 Next
 
 Help Categories
 
