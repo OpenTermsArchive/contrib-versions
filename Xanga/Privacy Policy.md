@@ -8,48 +8,54 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Renew
-    *   by blhilton
-    *   8 hours ago
+*   Blog with zero followers
+    *   \[Resolved\] by kingmaryhenry
+    *   23 hours ago
     *   in Data Migration
     *   0 votes
-    *   0
+    *   1 (last comment by eugenia 10 hours ago)
 *   I can't see my old blog posts or figure out how to make new ones.
     *   \[Resolved\] by xPxMxSx
     *   2 weeks ago
     *   in Adding &. Editing Entries
     *   0 votes
-    *   2 (last comment by saltypepper1357 2 days ago)
+    *   3 (last comment by eugenia 10 hours ago)
+*   Renew
+    *   \[Resolved\] by blhilton
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 10 hours ago)
 *   Can't see any old posts
     *   \[Resolved\] by oOheathero7
     *   1 week ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   1 (last comment by eugenia 6 days ago)
 *   how can see my blog?
     *   \[Resolved\] by karenyayaya
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   1 (last comment by eugenia 6 days ago)
 *   Archive
     *   \[Resolved\] by love\_\_Katbaby
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   1 (last comment by eugenia 6 days ago)
 *   Delete Old Picture
     *   \[Resolved\] by reegene
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by reegene 6 days ago)
+    *   2 (last comment by reegene 1 week ago)
 *   Missed downloading my archives
     *   \[Resolved\] by jaggedjunky
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   10 (last comment by MakingPeopleHappy 6 days ago)
+    *   10 (last comment by MakingPeopleHappy 1 week ago)
 *   Old Blog
     *   \[Resolved\] by Ooh\_SoO\_PrEtTi
     *   2 weeks ago
@@ -82,7 +88,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by eugenia 2 weeks ago)
 *   Can you fix my blog site.
     *   \[Resolved\] by Ps29v11
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by eugenia 2 weeks ago)
@@ -92,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   1 (last comment by eugenia 2 weeks ago)
-*   Can I get my old post?
-    *   \[Resolved\] by love\_kk\_forever
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 3 weeks ago)
 
 1 2 3 ... 145 Next
 
