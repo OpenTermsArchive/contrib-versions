@@ -1,4 +1,4 @@
-**Last Updated: August 5, 2014**
+**Last Updated: December 31, 2014**
 
 Foursquare Labs, Inc. Privacy Policy
 
@@ -94,7 +94,7 @@ Should you ever decide to delete your Services account, you may do so by clickin
 
 How Is Information Removed From My Account?
 
-Even after you remove information from your account or profile, copies of that information may remain viewable elsewhere, to the extent it has been shared with others, it was otherwise distributed pursuant to your privacy settings, or it was copied or stored by other users. Removed and deleted information may remain on backup media for up to ninety (90) days prior to being deleted from our servers.
+You can remove/change content or information that you have posted on the Services on your account and profile through the Services or you can ask us to remove it by writing to support@foursquare.com. Even after you remove information from your account or profile, copies of that information may remain viewable elsewhere, to the extent it has been shared with others, it was otherwise distributed pursuant to your privacy settings, or it was copied or stored by other users. Removed and deleted information may remain on backup media for up to ninety (90) days prior to being deleted from our servers.
 
 Will There Be Changes To This Privacy Policy?
 
