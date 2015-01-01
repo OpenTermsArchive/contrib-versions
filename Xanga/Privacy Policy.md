@@ -8,30 +8,36 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   I can not access my account
+    *   by bill\_tse
+    *   17 hours ago
+    *   in Themes
+    *   0 votes
+    *   0
 *   old archives
     *   by shortnsexymexican07
-    *   10 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Blog with zero followers
     *   \[Resolved\] by kingmaryhenry
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   I can't see my old blog posts or figure out how to make new ones.
     *   \[Resolved\] by xPxMxSx
     *   2 weeks ago
     *   in Adding &. Editing Entries
     *   0 votes
-    *   3 (last comment by eugenia 1 day ago)
+    *   3 (last comment by eugenia 2 days ago)
 *   Renew
     *   \[Resolved\] by blhilton
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   Can't see any old posts
     *   \[Resolved\] by oOheathero7
     *   1 week ago
@@ -67,13 +73,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by eugenia 1 week ago)
+    *   2 (last comment by eugenia 2 weeks ago)
 *   Logged into old account, cannot download archives
     *   \[Resolved\] by zebrasunday
     *   2 weeks ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   3 (last comment by eugenia 1 week ago)
+    *   3 (last comment by eugenia 2 weeks ago)
 *   Old account
     *   \[Resolved\] by ncf\_kcf
     *   2 months ago
@@ -88,12 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by eugenia 3 weeks ago)
 *   Where can i find my blog?
     *   \[Resolved\] by DaLee\_Ogata
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 3 weeks ago)
-*   Can you fix my blog site.
-    *   \[Resolved\] by Ps29v11
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
