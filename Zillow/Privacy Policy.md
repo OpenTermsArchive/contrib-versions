@@ -267,5 +267,5 @@ _— Updated February 2014_
 *   Mobile Apps
 
 *   Yahoo!-Zillow Real Estate Network
-*   © 2006-2014 Zillow
+*   © 2006-2015 Zillow
 *   Follow us
