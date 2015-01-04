@@ -1,4 +1,4 @@
-Terms of Service and License Agreement  
+Terms of Service and License Agreement
 
 Last updated on April 11, 2014
 
@@ -22,20 +22,20 @@ YOU MAY NOT CHECK MORE THAN 300 DOCUMENTS OR 150,000 WORDS IN ANY 30-DAY PER
 
 In addition, you may not:
 
-*   (a) copy, modify or create derivative works based on the Site, Services, Software or Documentation, or any portion(s) of any of the foregoing (individually and collectively, “Grammarly IP”);
+*   (a) copy, modify or create derivative works based on the Site, Services, Software or Documentation, or any portion(s) of any of the foregoing (individually and collectively, “Grammarly IP”).
 *   (b) distribute, transmit, publish or otherwise disseminate any Grammarly IP;
-*   (c) download or store any Grammarly IP except to the extent explicitly permitted on the Site;
+*   (c) download or store any Grammarly IP except to the extent explicitly permitted on the Site.
 *   (d) transfer to any third party any of your rights under this Agreement;
-*   (e) access or use the Services, Software or Grammarly IP for the benefit of any third party;
-*   (f) access content or data not intended for you, log onto a server or account that you are not authorized to access, or otherwise violate or attempt to violate any security or authentication feature or measures of the Site, Software or Services;
-*   (g) attempt to access or derive the source code or architecture of any Software;
-*   (h) attempt to probe, scan or test the vulnerability of the Site, Services and/or Software, or any associated system or network, or to breach any security or authentication feature or measures of the Site, Software or Services, and if you are blocked by Grammarly from accessing the Site, Software or Services (including by blocking your IP address), you will not implement any measures to circumvent such blocking (e.g., by masking your IP address or using a proxy IP address);
-*   (i) interfere or attempt to interfere with service to any user, host or network, including, without limitation, by means of submitting malicious software or computer code (“Malicious Code”) to the Site or Services, load testing, overloading, “flooding,” “spamming,” “mail bombing,” “crashing,”;
-*   (j) email or otherwise transmit any content that (i) infringes any intellectual property or other proprietary rights of any party. (ii) you do not have a right to upload under any law or under contractual or fiduciary relationships. (iii) contains any Malicious Code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment. (iv) poses or creates a privacy or security risk to any person or entity. (v) constitutes unsolicited or unauthorized materials. or (vi) is otherwise objectionable;
-*   (k) automate access to the Site or the Services, including, without limitation, through the use of APIs, bots, scrapers or other similar devices;
+*   (e) access or use the Services, Software or Grammarly IP for the benefit of any third party.
+*   (f) access content or data not intended for you, log onto a server or account that you are not authorized to access, or otherwise violate or attempt to violate any security or authentication feature or measures of the Site, Software or Services.
+*   (g) attempt to access or derive the source code or architecture of any Software.
+*   (h) attempt to probe, scan or test the vulnerability of the Site, Services and/or Software, or any associated system or network, or to breach any security or authentication feature or measures of the Site, Software or Services, and if you are blocked by Grammarly from accessing the Site, Software or Services (including by blocking your IP address), you will not implement any measures to circumvent such blocking (e.g., by masking your IP address or using a proxy IP address).
+*   (i) interfere or attempt to interfere with service to any user, host or network, including, without limitation, by means of submitting malicious software or computer code (“Malicious Code”) to the Site or Services, load testing, overloading, “flooding,” “spamming,” “mail bombing,” “crashing,”.
+*   (j) email or otherwise transmit any content that (i) infringes any intellectual property or other proprietary rights of any party. (ii) you do not have a right to upload under any law or under contractual or fiduciary relationships. (iii) contains any Malicious Code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment. (iv) poses or creates a privacy or security risk to any person or entity. (v) constitutes unsolicited or unauthorized materials. or (vi) is otherwise objectionable.
+*   (k) automate access to the Site or the Services, including, without limitation, through the use of APIs, bots, scrapers or other similar devices.
 *   (l) export or re-export any Grammarly IP;
-*   (m) use or access any Services, Software or Grammarly IP in order to build a competitive product, service or solution;
-*   (n) violate any applicable law or regulations in connection with your use of the Site, Services or Software;
+*   (m) use or access any Services, Software or Grammarly IP in order to build a competitive product, service or solution.
+*   (n) violate any applicable law or regulations in connection with your use of the Site, Services or Software.
 *   (o) impersonate any person or entity, or falsely state or otherwise misrepresent your affiliation with a person or entity, including, without limitation, an Enterprise Subscriber. or
 *   (p) permit any third party to do any of the foregoing.
 
@@ -109,7 +109,7 @@ Changes to Services or Terms
 
 Grammarly reserves the right at any time to (i) change any information, specifications, features or functions of the Site, Services or Software, including any Trial, (ii) suspend or discontinue, temporarily or permanently, any or all of the Services or any Trial, including the availability of any feature, database or content, or (iii) impose limits on certain features and Services or restrict access to parts or all of the Services, including any Trial, in each case with or without prior notice and without any liability to you or any third party. Grammarly will use its commercially reasonable efforts to notify you of changes to the Services and/or Software that, in Grammarly’s reasonable opinion, have the effect of materially and adversely diminishing the functionality of the Services to which you have subscribed.
 
-Grammarly may from time to time update or revise this Agreement. If Grammarly updates or revises this Agreement, Grammarly will notify you either by email to your most recently provided email address, by posting the updated or revised Terms of Service and End User License Agreement on the Site or by any other manner chosen by Grammarly in its commercially reasonable discretion. Your use of the Site, Services or Software following any such update or revision constitutes your agreement to be bound by and comply with this Agreement as updated or revised. You can view the most current Terms of Service and End User License Agreement at http://www.grammarly.com/terms. It is your responsibility to review the Terms of Service and End User License Agreement periodically.
+Grammarly may from time to time update or revise this Agreement. If Grammarly updates or revises this Agreement, Grammarly will notify you either by email to your most recently provided email address, by posting the updated or revised Terms of Service and End User License Agreement on the Site or by any other manner chosen by Grammarly in its commercially reasonable discretion. Your use of the Site, Services or Software following any such update or revision constitutes your agreement to be bound by and comply with this Agreement as updated or revised. You can view the most current Terms of Service and End User License Agreement at https://nspl.grammarly.com/terms. It is your responsibility to review the Terms of Service and End User License Agreement periodically.
 
 If you cancel your subscription within ten (10) days following such notice by Grammarly in accordance with the two preceding paragraphs, then Grammarly will refund you a pro-rated portion of any pre-paid Fees for the affected Services applicable to the cancelled portion of the pre-paid subscription term, if any.
 
@@ -127,7 +127,7 @@ Your registration to use the Site and/or Services constitutes your consent to 
 
 Data Collection and Privacy
 
-Grammarly does not collect personally identifiable information from you except to the extent you have explicitly given such information to Grammarly. Grammarly’s information practices are further described in its privacy policy, which is available at: http://www.grammarly.com/privacy-policy (the “Privacy Policy”). The Privacy Policy is an integral part of this Agreement and is expressly incorporated by reference, and by entering into this Agreement you agree to (i) all of the terms of the Privacy Policy, and (ii) Grammarly’s utilization of data as described in the Privacy Policy is not an actionable breach of your privacy or publicity rights.
+Grammarly does not collect personally identifiable information from you except to the extent you have explicitly given such information to Grammarly. Grammarly’s information practices are further described in its privacy policy, which is available at: https://nspl.grammarly.com/privacy-policy (the “Privacy Policy”). The Privacy Policy is an integral part of this Agreement and is expressly incorporated by reference, and by entering into this Agreement you agree to (i) all of the terms of the Privacy Policy, and (ii) Grammarly’s utilization of data as described in the Privacy Policy is not an actionable breach of your privacy or publicity rights.
 
 Grammarly may from time to time update or revise the Privacy Policy. If Grammarly updates or revises the Privacy Policy, Grammarly will notify you either by email to your most recently provided email address, by posting the updated or revised Privacy Policy on the Site or by any other manner chosen by Grammarly in its commercially reasonable discretion. Your use of the Site, Services or Software following any such update or revision constitutes your agreement to be bound by and comply with the Privacy Policy as updated or revised.
 
