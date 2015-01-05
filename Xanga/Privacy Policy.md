@@ -10,58 +10,58 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Missing Blog
     *   by calliroi
-    *   1 hour ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   blog recovery
     *   by envy\_dis\_leo
-    *   7 hours ago
+    *   1 day ago
     *   in Themes
     *   0 votes
     *   0
 *   Recovery my old archives
     *   by la\_lokita\_Bunnymc
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Would like to restore old archives
     *   by iloveyouchu
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I can not access my account
     *   by bill\_tse
-    *   3 days ago
+    *   4 days ago
     *   in Themes
     *   0 votes
     *   0
 *   old archives
     *   by shortnsexymexican07
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Blog with zero followers
     *   \[Resolved\] by kingmaryhenry
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   1 (last comment by eugenia 6 days ago)
 *   I can't see my old blog posts or figure out how to make new ones.
     *   \[Resolved\] by xPxMxSx
     *   3 weeks ago
     *   in Adding &. Editing Entries
     *   0 votes
-    *   3 (last comment by eugenia 5 days ago)
+    *   3 (last comment by eugenia 6 days ago)
 *   Renew
     *   \[Resolved\] by blhilton
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   1 (last comment by eugenia 6 days ago)
 *   Can't see any old posts
     *   \[Resolved\] by oOheathero7
     *   2 weeks ago
@@ -94,7 +94,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   10 (last comment by MakingPeopleHappy 1 week ago)
 *   Old Blog
     *   \[Resolved\] by Ooh\_SoO\_PrEtTi
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   2 (last comment by eugenia 2 weeks ago)
