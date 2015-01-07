@@ -8,57 +8,51 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Urgent: Would like to restore old post
-    *   by Leoishpigy
-    *   6 hours ago
+*   blog recovery
+    *   \[Resolved\] by envy\_dis\_leo
+    *   3 days ago
+    *   in Themes
+    *   0 votes
+    *   1 (last comment by eugenia 8 hours ago)
+*   Recovery my old archives
+    *   \[Resolved\] by la\_lokita\_Bunnymc
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   0
+    *   1 (last comment by eugenia 8 hours ago)
+*   Would like to restore old archives
+    *   \[Resolved\] by iloveyouchu
+    *   5 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 8 hours ago)
+*   I can not access my account
+    *   \[Resolved\] by bill\_tse
+    *   6 days ago
+    *   in Themes
+    *   0 votes
+    *   1 (last comment by eugenia 8 hours ago)
+*   old archives
+    *   \[Resolved\] by shortnsexymexican07
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 8 hours ago)
 *   Unable to find old post
-    *   by Leoishpigy
-    *   6 hours ago
+    *   \[Resolved\] by Leoishpigy
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   0
+    *   1 (last comment by eugenia 10 hours ago)
 *   Retrieving old posts
     *   by babarae
-    *   23 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Missing Blog
     *   by calliroi
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   blog recovery
-    *   by envy\_dis\_leo
-    *   2 days ago
-    *   in Themes
-    *   0 votes
-    *   0
-*   Recovery my old archives
-    *   by la\_lokita\_Bunnymc
     *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Would like to restore old archives
-    *   by iloveyouchu
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   I can not access my account
-    *   by bill\_tse
-    *   5 days ago
-    *   in Themes
-    *   0 votes
-    *   0
-*   old archives
-    *   by shortnsexymexican07
-    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -85,19 +79,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
+    *   1 (last comment by eugenia 2 weeks ago)
 *   how can see my blog?
     *   \[Resolved\] by karenyayaya
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
+    *   1 (last comment by eugenia 2 weeks ago)
 *   Archive
     *   \[Resolved\] by love\_\_Katbaby
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
+    *   1 (last comment by eugenia 2 weeks ago)
+*   Delete Old Picture
+    *   \[Resolved\] by reegene
+    *   3 weeks ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by reegene 2 weeks ago)
 
 1 2 3 ... 145 Next
 
