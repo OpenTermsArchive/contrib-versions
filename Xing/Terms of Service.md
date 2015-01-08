@@ -4,7 +4,7 @@ Print | Save
 
 Document
 
-*   A. General Terms and Conditions for using the XING service
+*   A. General Terms and Conditions for the use of the XING service
     1.  Subject and basis for using XING
     2.  Conditions of use, conclusion of contract and warranties upon conclusion of contract
     3.  Right of withdrawal for consumers
@@ -21,10 +21,10 @@ Document
     2.  Right of withdrawal for consumers
     3.  Obligations of the user and special provisions for users
     4.  Fees, billing, invoicing, payment terms
-    5.  Validity of the provisions of the General Terms and Conditions for using the XING service
+    5.  Validity of the provisions of the General Terms and Conditions for the use of the XING service
 *   C. Additional terms for using the employer review platform
     1.  Obligations of the user and special provisions for users
-    2.  Validity of the provisions of the General Terms and Conditions for using the XING service
+    2.  Validity of the provisions of the General Terms and Conditions for the use of the XING service
 
   
 
@@ -34,9 +34,9 @@ General Terms and Conditions for the use of the XING Talent Manager
 
 General Terms and Conditions for the use of XING Company Profiles
 
-General Terms and Conditions for the use of XING Jobs
+General Terms and Conditions for the use of XING Jobs – Online customers
 
-General Terms and Conditions for the use of XING Jobs - framework agreements, special offers
+General Terms and Conditions for the use of XING Jobs – Offline customers
 
 General Terms and Conditions for the use of XING Projects
 
@@ -54,17 +54,17 @@ Last updated: 17 March 2014
 
 **“XING”** means the service as described below (including all applications) and/or the provider of this service, XING AG (together with XING S.à r.l. as of 1 May 2014 and in those cases listed in Section A.6.6 below).
 
-A. General Terms and Conditions for using the XING service
+A. General Terms and Conditions for the use of the XING service
 
 The XING service is rendered via websites (e.g. xing.com, xing.de, amiando.com, amiando.de, amiando.ch, kununu.com, kununu.at, kununu.de, contaxt.de), a number of different sub-domains and domain aliases, and via mobile applications (“apps”), background applications, web services and third-party-site integrations (e.g. iFrame). All websites, sub-domains, aliases, mobile applications, background applications, web services and third-party-site integrations provided by XING and where XING is available are hereinafter referred to as **“XING Websites”**.
 
 The XING service applications include, in particular, contact and communication forums (hereinafter referred to as **“social network”**) for which the user can obtain membership, an **“events platform”** and an **“employer review platform”**. Some of the XING applications may appear under other brand names or by using other XING Websites.
 
-These General Terms and Conditions for using the XING service govern the contractual relationship between the user and XING, irrespective of which XING Websites the User visits to take use XING services.
+These General Terms and Conditions for the use of the XING service govern the contractual relationship between the user and XING, irrespective of which XING Websites the User visits to take use XING services.
 
-Additional terms may also apply to the use of individual applications in addition to these General Terms and Conditions for using the XING service. In the event of an objection, the additional terms and conditions for the use of the respective application shall take precedence over these General Terms and Conditions for using the XING service, provided such precedence is not excluded in the additional terms for the use of the respective application.
+Additional terms may also apply to the use of individual applications in addition to these General Terms and Conditions for using the XING service. In the event of an objection, the additional terms and conditions for the use of the respective application shall take precedence over these General Terms and Conditions for the use of the XING service, provided such precedence is not excluded in the additional terms for the use of the respective application.
 
-The General Terms and Conditions for using the XING service and any additional terms for the use of individual applications are hereinafter referred to as **“GTC”**.
+The General Terms and Conditions for the use of the XING service and any additional terms for the use of individual applications are hereinafter referred to as **“GTC”**.
 
 The contract is concluded with XING AG, Dammtorstraße 30, 20354 Hamburg, Germany, and as of 1 May 2014, in those cases listed in Section A.6.6 below additionally with XING S.à r.l., 9, Avenue Guillaume, L-1651 Luxembourg. Further contact details, commercial register details as well as the name of a person authorised to represent XING AG and, as of 1 May 2014, XING S.à r.l. can be found in the “About this site” section.
 
