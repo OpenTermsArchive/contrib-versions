@@ -389,7 +389,7 @@ SUPPORT &. SERVICES
 *   Support
 *   Refer-A-Friend
 
-XFINITY Â© 2014 Comcast
+XFINITY Â© 2015 Comcast
 
 *   Privacy Policy
 *   Ad Choices
