@@ -208,7 +208,7 @@ Opting Out of Collection of Information by Third Parties
 
 Zillow's third-party ad servers, ad network providers, and third-party advertisers (the "Zillow Ad Providers") may provide you with advertisements that you may see on the Services or on other affiliated websites. To improve the relevancy and help measure the effectiveness of such advertisements, the Zillow Ad Providers may use cookies, Web beacons, clear .gifs or similar technologies. These are used to record users' activity, such as the pages visited, and to learn what types of information are of most interest to the users.
 
-**Zillow Ad Providers.** Use of these technologies by Zillow Ad Providers is subject to their own privacy policies and is not covered by our privacy policy. For more information regarding the choices you have about these technologies (such as opting-out), click here to learn about Zillow Ad Providers participating in the Network Advertising Initiative, and click here to learn about the Zillow Ad Providers participating in the Digital Advertising Alliance. Zillow has relationships with the following services: Advertising.com, Atlas, DoubleClick, Google, Intercept, Right Media  and BlueKai The Network Advertising Initiative and Digital Advertising Alliance offer some centralized opt-out tools. otherwise you must visit each provider's website individually and opt out.
+**Zillow Ad Providers.** Use of these technologies by Zillow Ad Providers is subject to their own privacy policies and is not covered by our privacy policy. For more information regarding the choices you have about these technologies (such as opting-out), click here to learn about Zillow Ad Providers participating in the Network Advertising Initiative, and click here to learn about the Zillow Ad Providers participating in the Digital Advertising Alliance. Zillow has relationships with the following services: Advertising.com, Atlas, DoubleClick, Google, Intercept, Right Media, BlueKai, Xaxis and Microsoft Advertising. The Network Advertising Initiative and Digital Advertising Alliance offer some centralized opt-out tools. otherwise you must visit each provider's website individually and opt out.
 
 **Zillow marketing service providers**. If you do not want Zillow and its marketing services providers to follow your usage of our Services via cookies and Web beacons, you can opt out of Cookies/Web beacons from: comScore, Google Analytics, Omniture and Yahoo! Opting out of these services does not mean you will no longer receive online advertising. It does mean that the service from which you opted out will no longer deliver ads tailored to your Web preferences and usage patterns. Please note that, if you opt out and later delete your cookies, use a different browser, or use a different computer or other electronic device, you will need to renew your opt-out choices.
 
@@ -254,7 +254,7 @@ If you have any questions about this privacy statement, or the privacy practices
 
 Please note that this policy may be amended from time to time. You should check back for the most current version before relying on any of the provisions in this privacy policy. By using the Services, you agree to the terms of this Privacy Policy.
 
-_— Updated February 2014_
+_— Updated January 2015_
 
 *   About
 *   Zestimates
