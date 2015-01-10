@@ -8,57 +8,69 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   moving "new entries" into wordpress?
-    *   by Mr\_Tomcat
-    *   1 day ago
+*   Old Account
+    *   \[Resolved\] by BrownSugartst
+    *   8 hours ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   blog recovery
-    *   \[Resolved\] by envy\_dis\_leo
-    *   5 days ago
-    *   in Themes
-    *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
-*   Recovery my old archives
-    *   \[Resolved\] by la\_lokita\_Bunnymc
-    *   6 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 7 hours ago)
 *   Would like to restore old archives
     *   \[Resolved\] by iloveyouchu
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   3 (last comment by eugenia 7 hours ago)
+*   Logged into old account, cannot download archives
+    *   \[Resolved\] by zebrasunday
+    *   4 weeks ago
+    *   in Passwords &. Sign-In
+    *   0 votes
+    *   5 (last comment by eugenia 7 hours ago)
+*   moving "new entries" into wordpress?
+    *   \[Resolved\] by Mr\_Tomcat
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 7 hours ago)
+*   blog recovery
+    *   \[Resolved\] by envy\_dis\_leo
+    *   6 days ago
+    *   in Themes
+    *   0 votes
+    *   1 (last comment by eugenia 3 days ago)
+*   Recovery my old archives
+    *   \[Resolved\] by la\_lokita\_Bunnymc
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 3 days ago)
 *   I can not access my account
     *   \[Resolved\] by bill\_tse
     *   1 week ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   old archives
     *   \[Resolved\] by shortnsexymexican07
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Unable to find old post
     *   \[Resolved\] by Leoishpigy
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Retrieving old posts
     *   by babarae
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Missing Blog
     *   by calliroi
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -70,7 +82,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by eugenia 1 week ago)
 *   I can't see my old blog posts or figure out how to make new ones.
     *   \[Resolved\] by xPxMxSx
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   3 (last comment by eugenia 1 week ago)
@@ -84,18 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   \[Resolved\] by oOheathero7
     *   3 weeks ago
     *   in Themes
-    *   0 votes
-    *   1 (last comment by eugenia 2 weeks ago)
-*   how can see my blog?
-    *   \[Resolved\] by karenyayaya
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 2 weeks ago)
-*   Archive
-    *   \[Resolved\] by love\_\_Katbaby
-    *   2 weeks ago
-    *   in Data Migration
     *   0 votes
     *   1 (last comment by eugenia 2 weeks ago)
 
