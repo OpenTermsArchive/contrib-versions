@@ -7,11 +7,11 @@ Wix
     *   Features Why choose Wix?
     *   App Market Add popular web services
 *   Subscriptions
-    *   Premium Plans Buy &. Manage
-    *   Domains Your own web address
-    *   Mailboxes Personalized email
+    *   Premium Plans Pick the best for you
+    *   Domains Get your own web address
+    *   Mailboxes Add personalized emails
 *   Support
-*    Back to My Apps
+*   #ItsThatEasy
 
 Sign In Hi, {username}
 
@@ -21,18 +21,16 @@ Sign In Hi, {username}
 
 *   Logout
 
+*   Get Started
 *   Home
+*   #ItsThatEasy
 *   Features
-*   Online Store
 *   Domains
 *   Mailboxes
-
-*   Facebook
-*   Twitter
-*   Google Plus
-*   Youtube
-*   Pinterest
-*   Instagram
+*   Online Store
+*   Contact Us
+*   Wix Blog
+*   Wix Stories
 
 Wix.com Wix.com is a leading cloud-based web development platform with millions of users worldwide. We make it simple for everyone to create a beautiful, professional web presence. No creative limits, no coding skills needed to get your business online.
 
