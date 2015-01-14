@@ -13,9 +13,8 @@ WIRELESS CUSTOMER AGREEMENT ("Agreement") Documents
 *   ► Applications, Services, and Features
 *   AllAccess End User License Agreement
 *   Passport End User License Agreement
-*   Featured Apps End User License Agreement
 *   ► Policies and Processes
-*   Coverage Legend Terms
+*   AT&T Maps and Coverage Area Information
 *   Upgrade Advantage(SM)
 *   Information on Wireless Telephones and Health
 *   Online Pricing
