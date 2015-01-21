@@ -8,15 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   I cannot view my blog
+    *   by thesomenoone
+    *   23 hours ago
+    *   in Adding &. Editing Entries
+    *   0 votes
+    *   0
 *   Archives please!
     *   by hebrews\_four\_sixteen
-    *   4 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   where is my archives
     *   by wesley\_keung
-    *   11 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -25,40 +31,40 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   12 (last comment by Nere\_810 21 hours ago)
+    *   12 (last comment by Nere\_810 1 day ago)
 *   Deleting My Account
     *   \[Resolved\] by Omgwtf\_St
     *   1 year ago
     *   in Miscellaenous
     *   0 votes
-    *   58 (last comment by madamprez\_05 2 days ago)
+    *   58 (last comment by madamprez\_05 3 days ago)
 *   xanga 2.0 links not working/ trying to restore Archives
     *   by LolaBunny09
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Blog Restoration
     *   by MotherSky
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   old blog restore
     *   by footguards26
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   restore old blog scorpiohunni27
     *   by scorpiohunni27
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Xanga Account
     *   by alainn\_\_coimheach
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -67,37 +73,31 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by eugenia 6 days ago)
+    *   3 (last comment by eugenia 1 week ago)
 *   Retrieving old archive
     *   \[Resolved\] by Derek484
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   My old account xaragonx
     *   \[Resolved\] by xaragonx
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   Missed downloading my archives
     *   \[Resolved\] \[closed\] by jaggedjunky
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   16 (last comment by eugenia 6 days ago)
+    *   16 (last comment by eugenia 1 week ago)
 *   Delete Old Picture
     *   \[Resolved\] by reegene
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by reegene 6 days ago)
-*   Would like to restore old archives
-    *   \[Resolved\] by iloveyouchu
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   3 (last comment by eugenia 1 week ago)
+    *   3 (last comment by reegene 1 week ago)
 
 1 2 3 ... 146 Next
 
