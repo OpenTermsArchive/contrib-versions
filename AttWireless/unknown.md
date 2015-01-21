@@ -7,8 +7,6 @@ WIRELESS CUSTOMER AGREEMENT ("Agreement") Documents
 *   ► Customer Agreement and Plans - GoPhone®
 *   Terms of Service - GoPhone®
 *   Plan Terms - GoPhone®
-*   Pay As You Go - GoPhone®
-*   Pick Your Plan - GoPhone®
 *   Data Services Agreement
 *   ► Applications, Services, and Features
 *   AllAccess End User License Agreement
@@ -64,7 +62,7 @@ AT&T may interrupt, suspend or cancel your Services and terminate your Agreement
 
 *   Any conduct that we believe violates this Agreement or AT&T’s Acceptable Use Policy;
 *   Any conduct that involves the use of abusive, derogatory, insulting, threatening, vulgar or similarly unreasonable language or behavior directed at any of our employees or representatives whether it be in person, over the phone, or in writing;
-*   Any abusive use of our Network or Services;
+*   Any abusive use of our network or Services;
 *   You use your Device/Equipment and/or our Services for an unlawful or fraudulent purpose;
 *   You use your Device/Equipment and/or our Services in any way that: (a) is harmful to, interferes with, or negatively affects our network, other customers, or the network of any other provider, (b) is harmful to, interferes with, or negatively affects our Services or operations, (c) infringes intellectual property rights of AT&T or others, (d) results in the publication of threatening, offensive or illegal material, or (e) generates spam or other abusive messaging or calling, a security risk, or a violation of privacy;
 *   You resell our Services either alone or as part of any other good or service;
@@ -436,7 +434,7 @@ If you choose SMS (text) delivery, VMTT only converts the first 480 characters o
 
 Unlimited voice Services are provided primarily for reasonably uninterrupted live dialog between two individuals. If your use of unlimited voice Services for conference calling or call forwarding exceeds 750 minutes per month, AT&T may, at its option, terminate your Service or change your plan to one with no unlimited usage components.
 
-AT&T may, in its sole discretion, terminate your Service or change your plan to one with no unlimited voice usage if it reasonably determines or has a reasonable basis to believe that you are engaged in any of the following prohibited activities: (1) maintaining an open line of communication to provide dispatch or monitoring services. (2) accessing or providing access to multi-party chat line services. (3) using the Service with a SIM box or SIM server network to generate or simulate voice calls. (4) transmitting broadcasts. (5) transmitting pre-recorded materials. (6) telemarketing. (7) initiating autodialed calls. (8) initiating any other calls or connections that are not for the purposes of reasonably uninterrupted live dialog between individuals. (9) using the Service for any fraudulent purpose. (10) reselling or rebilling the Service either alone or as part of any other good or service. or (11) any abusive use of our Network or Services.
+AT&T may, in its sole discretion, terminate your Service or change your plan to one with no unlimited voice usage if it reasonably determines or has a reasonable basis to believe that you are engaged in any of the following prohibited activities: (1) maintaining an open line of communication to provide dispatch or monitoring services. (2) accessing or providing access to multi-party chat line services. (3) using the Service with a SIM box or SIM server network to generate or simulate voice calls. (4) transmitting broadcasts. (5) transmitting pre-recorded materials. (6) telemarketing. (7) initiating autodialed calls. (8) initiating any other calls or connections that are not for the purposes of reasonably uninterrupted live dialog between individuals. (9) using the Service for any fraudulent purpose. (10) reselling or rebilling the Service either alone or as part of any other good or service. or (11) any abusive use of our network or Services.
 
   
 
