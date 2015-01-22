@@ -10,19 +10,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   I cannot view my blog
     *   by thesomenoone
-    *   23 hours ago
+    *   1 day ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Archives please!
     *   by hebrews\_four\_sixteen
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   where is my archives
     *   by wesley\_keung
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -31,40 +31,40 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   12 (last comment by Nere\_810 1 day ago)
+    *   12 (last comment by Nere\_810 2 days ago)
 *   Deleting My Account
     *   \[Resolved\] by Omgwtf\_St
     *   1 year ago
     *   in Miscellaenous
     *   0 votes
-    *   58 (last comment by madamprez\_05 3 days ago)
+    *   58 (last comment by madamprez\_05 4 days ago)
 *   xanga 2.0 links not working/ trying to restore Archives
     *   by LolaBunny09
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Blog Restoration
     *   by MotherSky
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   old blog restore
     *   by footguards26
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   restore old blog scorpiohunni27
     *   by scorpiohunni27
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Xanga Account
     *   by alainn\_\_coimheach
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
