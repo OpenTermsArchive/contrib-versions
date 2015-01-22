@@ -149,6 +149,7 @@ About Allstate
 *   Advertising &. Marketing
 *   Allstate Affiliate Program
 *   Auto Insurance Fraud
+*   Videos en español
 
 Home >. Allstate Overview >. Privacy Statement AIC
 
