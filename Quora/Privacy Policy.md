@@ -1,4 +1,4 @@
-There are updates to this page that haven't been applied because you've entered text. Refresh this page to see updates. Hide this message. Quora  
+This page may be out of date. Save your draft before refreshing this page.Submit any pending changes before refreshing this page. Hide this message. Quora  
 
 LoginSign Up
 
