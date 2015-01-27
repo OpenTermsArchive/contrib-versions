@@ -208,7 +208,7 @@ You may also make money using videos and screen-shots if it is covered by so cal
 
 If something isn‘t covered by these Guidelines that probably means we don‘t want you to do it. In any case if it isn‘t covered please don‘t do it without getting permission from us. You can contact us at brands at mojang.com. If something is specifically covered and permitted by these Guidelines, our Account Terms or EULAs applicable to any of our games then you don‘t need to contact us.
 
-Updated: 12 November 2014 14:44
+Updated: 23 January 2015 18:00
 
 MOJANG PRIVACY POLICY 
 
