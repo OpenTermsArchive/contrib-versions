@@ -8,27 +8,45 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   How to reactivate my Xanga account?
+    *   by uncle\_philip
+    *   1 hour ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   How to reactivate my Xanga account?
+    *   by uncle\_philip
+    *   1 hour ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   moving "new entries" into wordpress?
     *   \[Resolved\] by Mr\_Tomcat
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by Mr\_Tomcat 1 day ago)
+    *   3 (last comment by eugenia 7 hours ago)
+*   xanga left unattended for a long time. Now need help restoring..
+    *   by BobsLeftNut
+    *   12 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 7 hours ago)
 *   My old posts.
     *   \[Resolved\] by xo\_darkangel\_xo
     *   11 months ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by xo\_darkangel\_xo 1 day ago)
+    *   2 (last comment by xo\_darkangel\_xo 2 days ago)
 *   old blog restore
     *   \[Resolved\] by footguards26
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by Pois0n\_Heart\_xxx 2 days ago)
+    *   2 (last comment by Pois0n\_Heart\_xxx 3 days ago)
 *   Oldder Blog Orphannie
     *   by Orphannie
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -37,67 +55,49 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   restore old blog scorpiohunni27
     *   \[Resolved\] by scorpiohunni27
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   Old Blog Restoration
     *   \[Resolved\] by MotherSky
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   xanga 2.0 links not working/ trying to restore Archives
     *   \[Resolved\] by LolaBunny09
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   Deleting My Account
     *   \[Resolved\] \[closed\] by Omgwtf\_St
     *   1 year ago
     *   in Miscellaenous
     *   0 votes
-    *   59 (last comment by eugenia 3 days ago)
+    *   59 (last comment by eugenia 4 days ago)
 *   where is my pictures???
     *   by cuteppsc
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   13 (last comment by eugenia 3 days ago)
+    *   13 (last comment by eugenia 4 days ago)
 *   where is my archives
     *   \[Resolved\] by wesley\_keung
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   Archives please!
     *   \[Resolved\] by hebrews\_four\_sixteen
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
-*   I cannot view my blog
-    *   \[Resolved\] by thesomenoone
-    *   5 days ago
-    *   in Adding &. Editing Entries
-    *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
-*   Trying to access my old blog
-    *   \[Resolved\] by Jedi\_Margie
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
-*   Old Account
-    *   \[Resolved\] by BrownSugartst
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   3 (last comment by eugenia 1 week ago)
+    *   1 (last comment by eugenia 4 days ago)
 
 1 2 3 ... 146 Next
 
