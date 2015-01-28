@@ -1,133 +1,206 @@
-  About the Allrecipes.com Privacy Policy
+Meredith Online Privacy Policy
 
-At Allrecipes.com, Inc. (“Allrecipes.com”), we recognize the importance of your privacy. That said, it’s understandable that you may be concerned with the information you provide to us or that is collected by us and how we use and disclose it. With these concerns in mind, we’ve developed the Allrecipes.com Privacy Policy, outlined below. This Privacy Policy explains Allrecipes’ privacy practices for visitors to our Web site at Allrecipes (the “Web site”). By using our Web site, you consent to the collection, use and disclosure of your personal information as described in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the Allrecipes Terms and Conditions. We reserve the right to change this Privacy Policy at any time. If we make any material changes to our Privacy Policy, we will post a new policy on the Web site and update the “last updated” date set forth above. Therefore, we encourage you to check our Privacy Policy whenever you visit the Web site to see if it has been updated since your last visit. If you have any questions about our Privacy Policy, you can contact us at CustomerRelations@allrecipes.com.
+_Effective Date: January 14, 2015_
 
-TOP Types of Information We Collect
+*   Online Privacy Policy
+*   Offline Privacy Policy
+*   Visitor Agreement
 
-*   **Personal Information:** Personal information is information to specifically identify an individual, such as a customer’s name, address, telephone number, e-mail address, credit card or other account number, and information about that individual’s activities when directly linked to that person such as information about his or her purchases. Personal information also includes demographic information, such as date of birth, gender, geographic area, and preferences, when such information is linked to other personal information that identifies the individual.
-*   **Aggregate Information:** Personal information does not include “aggregate” information. Aggregate information is data we collect about a group or category of products, services or customers, from which individual customer identities have been removed. In other words, information about how you use a service might be collected and combined with information about how others use the same service, but no personal information will be included in the resulting data. Likewise, information about the products you purchase might be collected and combined with information about the products purchased by others. Aggregate data helps us understand trends and customer needs so that we can better consider new products and services, and tailor existing products and services to customer desires. We might share aggregate information about our users with third parties for various purposes, such as helping us better understand and improve our services, and for advertising and marketing purposes.
+Online Privacy Policy
 
-TOP How We Collect and Use Personal Information
+Welcome! This Online Privacy Policy applies to your use of websites, interactive services, email programs and mobile device applications provided by Meredith Corporation or our affiliates (collectively, "Meredith," "we" or "us") that include an authorized link or reference to this policy (collectively, the "Services"). This Online Privacy Policy applies only to the information we collect through the Services. Please click here to see our separate Offline Privacy Policy.
 
-Allrecipes.com collects personal information from you at several different points on our Web site, as set forth below. In general, we use personal information for the purpose for which it was collected (such as to provide services or complete transactions you have requested, for billing purposes, and to anticipate and resolve problems with our Web site and our products and services), for our own internal business operations, to respond to customer support inquiries and for other purposes as described below. As technical and industry standards applicable to browser 'Do Not Track' signals are still developing, we do not currently respond to such signals or other mechanisms that provide choice regarding the collection of information about a consumer's online activities except for those choice mechanisms expressly described in this Policy.
+By using any of our Services, you agree that this Online Privacy Policy and our Visitor Agreement govern your use of our Services and any dispute concerning the Services. Please take a few minutes to read them before using or registering to access our Services.
 
-TOP Registration, Purchases. Other Information Submissions
+This Policy describes our privacy practices regarding:
 
-*   When you register to become a member on our Web site, you are asked to create a unique login and password, and are required to give certain personal information (such as your name, email address, and zip code). We might also request certain information about your tastes and preferences (such as your favorite food, purchases or recipes).
-*   Information you provide during registration might be used for some or all of the following:
+*   Children under 13
+*   Information Collected Through Our Services
+*   Information We May Obtain from Other Sources
+*   How We Use the Information We Collect
+*   How We Disclose Information and Your Related Opt-Out Choices
+*   Sites to Which We Link
+*   How to Correct or Update Your Information
+*   Security, Retention and Storage of Information
+*   Changes to Our Online Privacy Policy
 
-*   to provide services you have requested, or to otherwise fulfill your request. and
-*   to contact you from time to time (i) about services on our Web site for which you have expressed interest. (ii) with news, (iii) for internal marketing, informational, and promotional purposes. or (iv) for any other lawful purpose related to your use of the Web site.
+If you have questions about this Online Privacy Policy, please contact us at privacy@meredith.com
 
-*   Additionally, your registration information might be used, together with other information you submit to us in conjunction with your use of the Web site, for the following purposes:
+Return to top
 
-*   for editorial purposes, such as when you submit a recipe to us (e.g., to attribute your submitted recipe to you).
-*   to contact you for any reason regarding content you have submitted to the Web site (e.g., to ask you a question about a recipe you have submitted). and
-*   to identify you by name when posting content you submit to us on the Web site (e.g., when you request a recipe on the Web site, to post your name and a description of the recipe you are requesting).
+Children Under 13:
 
-*   If, during or immediately following registration, you choose to view offers for goods and services that are available from selected third party companies (“Co-Registration Vendors”), we will make certain contact and demographic information you provide during registration (e.g., name, age, and/or e-mail address) available to these vendors. If you request goods or services from a Co-Registration Vendor, you might be asked to submit additional demographic and other personal information. The Co-Registration Vendor might use your registration information which we provide to it, along with any information you submit directly to it, to fulfill, or secure fulfillment of, your request. For additional information about disclosure of your personal information to our Co-Registration Vendors, and their use thereafter, please see the “Disclosure of Personal Information” section below.
-*   We collect personal information such as your credit card, credit card billing address, and related billing information if you purchase products or services on our Web site. We use this information to fulfill your orders and bill you for them.
-*   Any information that is not personally identifiable information but is publicly displayed on the Web site (such as user name and photos) might appear in the results of searches conducted on Internet search engines while you are a member of the Web site and potentially for some time period after your membership is terminated, depending upon the search engine’s indexing practices.
+Meredith cares about protecting the privacy of children. We won't knowingly allow anyone under the age of 13 to provide us any personally identifying information online. Children should always get permission from their parents before sending any personal information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. We encourage you to become involved in your children's online experience, and to share your knowledge and experience with your young ones. If you're under 13, please do not register for any of our Services or provide us with any personally identifying information (such as your name, email address or phone number).
 
-**Communication**  
-As an Allrecipes member, you will receive our transactional business communications (e.g. membership communications, administrative messages, etc.) at your email address or street address. In addition you might be automatically enrolled in one or more of our email subscription programs. While we reserve the right to send you our transactional business communications without offering you the opportunity to opt-out of receiving them, we do provide you with the opportunity to select whether or not you wish to continue to receive our subscription-based emails. See the Email and Newsletters section below for information on how to manage your subscriptions.
+Return to top
 
-TOP Email and Newsletters
+Information Collected Through Our Services:
 
-When you submit your email address to us to initiate a subscription to one of our newsletters we ask for personal information such as your name and email address. This personal information is only used to send you the newsletter(s) you are opted in to receive. You may choose not to receive promotional emails or electronic newsletters from us by: (A) following the "unsubscribe" instructions in the specific email from which you wish to opt-out. (B) visiting the Manage My Email Subscriptions section of the Site and following the appropriate instructions or (C) contacting Customer Service and specifying the particular email(s) from which you wish to be removed.
+The information we gather through our Services falls into two categories: (1) information you voluntarily supply to us when you register, initiate transactions, participate in promotions or surveys, submit comments or questions or otherwise communicate with us or others through the Services, and (2) information collected automatically as you use our Services. Third-party providers and advertisers featured on, or linked to or from, our Services may also gather information through processes that we don't control and subject to their own separate privacy policies, which may differ from ours. Some of our Services also may participate in third-party advertising networks that collect information about your activity online to tailor some of the advertising that you see on sites in their networks to your interests.
 
-TOP E-mail-A-Friend
+Registration and Other Personally Identifying Information.
 
-When you elect to use our referral service for e-mailing a recipe or other content to a friend, we ask you for your friend’s name and e-mail address. Allrecipes will automatically send your friend a one-time e-mail on your behalf which contains the recipe or other content, and which invites your friend to visit the Web site. Allrecipes uses your friend’s name and e-mail address only to send this one-time e-mail, and does not store this information. If your friend does not wish to receive “e-mail-a-friend” messages to be sent on your behalf, he or she must contact you directly. Allrecipes users may not use our referral service to send unwanted spam to others.
+You may register to use certain features of our Services. When you register, we may collect personally identifying information, including your name, postal address, email address, user name and password, reminder questions and answers and communications preferences, such as which newsletters you would like to receive. We may also ask for information about your age, gender, hobbies, interests, preferences (such as your favorite foods, purchases or recipes) and the like, but you're free to register for most of our Services without providing this additional information. When you register for one of our Services, the information you provide may be added to a centralized Meredith database so that you may be simultaneously registered for our other Services as well. In addition, when you use various aspects of our Services, we may ask you for personally identifying information, including when you order products, complete a survey, enter a contest, or report a problem with our Services. We may also collect contact information for other individuals when you use the sharing and referral tools available within some of our Services to forward content or offers to your friends and associates. We use this information to facilitate the communications that you request. Please note that if you use any "send-to-a-friend" features of our Services, your email address may be included in the communication sent to your friend.
 
-TOP Invite-A-Friend
+Contests and Other Promotions.
 
-**When You Use “Invite-A-Friend” or other referral services**  
-If you elect to use any of our referral services for informing a friend about our Site or any portion thereof, you will be asked to provide your friend’s name and e-mail address. We will then automatically send the friend a one-time e-mail (usually including your name and email address) inviting them to visit the Site. We ask for this information for the sole purpose of sending this one-time e-mail and tracking the success of our referral program.
+From time to time, we may offer contests, sweepstakes or other promotions. Participation in these promotions may require registration for our Services (see “Registration and Other Personally Identifying Information,” above). We may also automatically enter our users in some promotions. If you choose to participate in promotions that require registration, we will collect contact information such as your name, address, and email address and we may share this information with co-sponsors or other third parties involved in the promotion that we identify in the rules or entry materials. We don't control these third parties' privacy practices, and our Privacy Policy does not apply to their collection and use of your information. We may also share some of your entry information with third parties or the public in connection with the administration of the promotion, such as winner selection and prize fulfillment, and as permitted by the promotion's official rules, such as on a winners' list.
 
-  
+Information Collected Automatically When You Use Our Services.
 
-**Public Forums**  
-We may offer chat rooms, message boards, bulletin boards, blogs or similar public forums where you and other users of our Website can communicate. The protections described in this Privacy Policy do not apply when you provide information (including personal information) in connection with your use of these public forums. We may use personally identifiable and non-personal information about you to identify you with a posting in a public forum. Any information you share in a public forum is public information and may be seen or collected by anyone, including third parties that do not adhere to our Privacy Policy. We are not responsible for events arising from the distribution of any information you choose to publicly post or share through our Website.
+Meredith or third-party contractors we engage may collect certain information automatically when you use our Services, including but not limited to:
 
-TOP Contests, Promotions, Offers, and Surveys
+*   Web pages, content and advertisements you view and links you click on while navigating within our Services;
+*   Information about your interactions with our video or audio content, such as the type of content accessed via our Services;
+*   Information about your interactions with our email messages, such as the links you click on and whether you open or forward a message, the date and time of these interactions and the device you use to read emails.
+*   The site you visited before visiting a Meredith website and the site you visited after visiting a Meredith website;
+*   Your Internet Protocol (IP) address (a numerical address assigned to your computer by your Internet service provider so that other computers connected to the Internet can communicate with you online) that can sometimes be used to derive your general geographic area;
+*   Search terms you enter using our Services or on a referral site;
+*   Unique identifiers, including mobile device identification numbers, that can identify the physical location of devices in accordance with applicable law;
+*   Your device type, screen size, browser type, language, plug-ins, Internet domain, TCP configuration parameters, operating system and versions of installed software;
+*   standard server log information. and
+*   Information collected through cookies, web beacons and other tracking technologies (see additional descriptions of these terms below).
 
-From time to time our Web site requests personal information from users via contests, promotions, offers and surveys. Participation in these contests, promotions, offers, and surveys is completely voluntary and you therefore may choose whether to disclose personal information in connection with these activities. Personal Information requested in these activities might include contact information (e.g., your name and shipping address) and demographic information (e.g., your zip code or age level). We use this information to notify you if you’ve won and to award prizes. We use information we collect in surveys for internal purposes, such as to ascertain the use of this Web site and improve its usefulness to you. We might also provide third parties with this information, and might combine it with some or all of your registration information. Third parties might use the information we provide them to contact you regarding products or services of interest to you. These disclosures are discussed in greater detail below in the “Disclosure of Personal Information” section. When we provide information collected during a contest, promotion, offer, or survey on the Web site to third parties, we always disclose this to you at the time of collection.
+Personalization and Tracking Technologies.
 
-TOP Customer Service
+Like most website and mobile application operators, we, or third parties acting on our behalf, use embedded scripts, "cookies," web beacons and other tracking technologies to operate, analyze and improve our Services and tailor content and advertising to user interests. Third-party companies that provide some of the tools and features accessible through our Services and advertisers and other companies involved in the delivery of advertisements you see on our Services and other websites also may use tracking technologies to collect information about your use of our Services. Cookies. Cookies are small amounts of data (often containing a unique identifier) that are stored in separate files within your computer or device’s Internet browser. Cookies are accessed and recorded by the websites you visit, and by the companies that deliver the advertisements you see on our services, so they can recognize the same browser navigating online. You can set your browser to accept or reject most cookies, or to notify you when a cookie is set. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.) It is up to you to decide whether to allow us or third parties to set cookies, but if you block cookies, you may not be able to view or access some of the features of our Services. Please be aware that certain browsers cannot block or delete so-called "Flash" cookies, which use a feature of the Adobe Flash video player to store information on your computer. For information about how to delete Flash cookies, please visit the Adobe website here.
 
-We collect personal information when you submit comments, questions or suggestions to our customer service department. We use the information you provide to respond to your submission and use the ideas to make site improvements.
+Web Beacons and Other Tracking Technologies.
 
-TOP Cookies, Web Beacons, and Log Files
+Web beacons (sometimes called "transparent GIFs," "clear GIFs," or "pixel tags") are small strings of code that embed a small graphic image (usually invisible) on a web page or in an email or advertisement. When your browser downloads a web beacon, the server that sends the corresponding image to your browser can recognize and store certain types of information such as cookies previously set, the time and date that you viewed the page embedded with the beacon and a description of that page.
 
-**Cookies:** We use “cookie” technology on our Web site. We might place one or more cookies in the browser file of your computer. Although such cookies do not contain any personally identifying information about you, we might link this information to personal information about you. If we do, we will treat it as personal information under this Privacy Policy. We use cookies to provide functional information about your browser, which is recorded in the Web site’s logs and which allows us to provide a better experience on our Website. We also use cookies to gather broad demographic information and general usage patterns about you and other users of our Web site. In the course of placing advertisements on this Web site, our third-party advertisers may place or recognize a unique cookie on your browser. We use cookies to enhance and personalize your experience on the Web site, including helping authenticate you when you use the Web site, remembering your preferences and registration information and customizing the content, and advertisements provided to you on the site. For example, storing a cookie on your computer allows you to log in without typing the registered e-mail address or registration number and password. We also use cookies to deliver information and fresh content specific to your interests. If you do not want these cookies stored on your computer you can reject cookies by modifying your browser settings accordingly (each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences). However, if you choose to reject cookies, you might not be able to access products and services we offer which require you to “login” or “sign in”. Please also note certain types of e-mails available through the Web site might automatically log you in to the Web site and/or set new cookies when you click on the links in the e-mails and you might need to manually remove such cookies if you do not want them to be set on your computer. See section titled “Third-Party Web site Advertising - General” below for additional information about cookies.
+Mobile Device IDs and Location-Based Information.
 
-*   **Web Beacons:** We use, and permit third parties to use, “Web beacons” (also known as Internet tags, pixel tags, single-pixel GIFs, clear GIFs, invisible GIFs, 1-by-1 GIFs, and Web bugs) on our Web site and in our e-mail newsletters, to monitor the effectiveness of advertising and for other lawful purposes. These Web beacons do not collect personally identifying information about you on our Web site.
-*   **Log Files:** We track log files on our Web site (i.e., we log your computer’s IP address into our log files when you visit a page on our Web site) and use them to analyze trends, administer the Web site, track your movements on the Web site, and gather broad demographic information for aggregate use. We might link some or all of this information to personally identifiable information that is stored on a cookie in your computer. We only use information gathered from these activities for our internal marketing and operational purposes.
+Certain mobile devices, including smart phones and tablet devices, contain unique device IDs that can be used to identify their physical location. Mobile devices also typically transmit caller ID data (which may include a phone number) when used to transmit a telephone call or text message. When you use mobile devices to access our Services, we may collect and transmit unique device IDs and collect caller ID data, information about your wireless carrier, the make, model, operating system and settings of your device and information about how you navigate within our Service. With your consent, we also may use precise geolocation technology such as GPS or Wi-Fi triangulation to collect information about the exact location of your mobile device.
 
-**Third Party Service with Cookies:** We may use one or more third party services to compile nonpersonal information regarding our user's browsing habits, such as page views, visits, unique visitors, etc. Click here to learn more information about how we use a third party service with cookies (flash and non-flash) and web beacons to collect and use information on this Web site.
+Social Network Posting Tools and "Share" Features.
 
-TOP Disclosure of Personal Information
+You can access various social network posting and sharing tools through our Services that are operated by third parties, including a "share" button that allows you to post links to content and features that you believe will be of interest to others on your social network pages. When you visit a page that includes one of these sharing tools, the third-party company that operates the tool may be collecting information about your browser, device and online activity through its own tracking technologies and subject to its own separate privacy policy, which may differ from ours.
 
-Allrecipes will not sell, rent, or share personal information with third parties without your prior consent except in the limited circumstances described in this Privacy Policy.
+Nielsen Online Campaign Ratings Service.
 
-*   **Consent:** With your consent, we might disclose your personal information to third parties in order to provide you with products and services that you have requested.
+Some of our advertisers may participate in a program operated by the Nielsen Company to develop an Online Campaign Ratings service that is comparable to Nielsen's television ratings. When one of their ads appears on our Services, it may contain a web beacon that will record your exposure to the ad, read certain cookies on your browser, and forward this information to one or more operators of third-party websites or other online service on which you may have registered. If the third-party operator recognizes a cookie that identifies you as one of its registered users, it will append the impression data it receives, which may identify you as a user our Services, with age and gender information before returning the data to Nielsen. Nielsen aggregates the data it receives about a given campaign to create ratings reports for advertisers and publishers. According to Nielsen, these reports measure campaign performance on an aggregate level within various demographic categories and do not identify you personally. For more information about Nielsen's information collection practices and any related opt-out choices, please see the Nielsen.com privacy policy here.
 
-*   During or immediately following registration, you have the option to view and select offers from various third party companies that may be of interest to you, such as retailers and consumer products manufacturers. These offers are made available to you by our Co-Registration Vendors. If you choose to view these offers we will make information you provide during registration available to these vendors. The vendors will forward this information, along with any other information you provide in conjunction with your request, to companies you have selected in order to fulfill, or facilitate fulfillment of, your request(s). Our Co-Registration Vendors are contractually obligated to keep all such information confidential and to only use it for the purposes for which it was provided. If you do not select any of the available offers, the vendors will delete your information which they have been provided. Please note, however, that any information that is passed on by these vendors to third party companies that you select is subject to those third parties’ privacy practices.
-*   With your consent, we might disclose information you provide to us during registration to third parties in conjunction with (i) your entry into a contest or promotion, (ii) your request of an offer, or (iii) your participation in a survey or similar activity on the Web site. You might be asked for additional information in order to enter the contest or promotion, request an offer, or participate in a survey. The third parties will use the information we provide to them, along with any information you provide during your entry, request, or participation, in order to (i) notify you if you have won a prize in a contest or sweepstakes, and (ii) to fulfill, or facilitate fulfillment of, requests for products or services you may make in connection with your entry, request, or participation. These third parties are contractually obligated to keep all such information confidential and to only use it for the purposes for which it was provided. When we provide information collected during a contest, promotion, offer, or survey on the Web site to third parties, we always disclose this to you at the time of collection.
+Return to top
 
-*   **Allrecipes’ Own Business Purposes:** We use and disclose information about you for our own internal statistical, design, or operational purposes, such as to estimate our audience size, measure aggregate traffic patterns, and understand demographic, user interest, purchasing and other trends among our users. We might outsource these tasks and disclose personal information about you to third parties, provided the use and disclosure of your personal information by these third parties is restricted to performance of such tasks. We might also share personal information with third-party vendors who assist us in performing internal functions necessary to operate our business. We require our third party vendors to keep such information confidential and to only use the information for the purpose it was provided.
-*   **Protection of Allrecipes and Others:** We disclose personal information when we believe it is appropriate to comply with the law (e.g., a lawful subpoena, warrant or court order). to enforce or apply this privacy policy or our other policies or agreements. to initiate, render, bill, and collect for amounts owed to us. to protect our or our users’ rights, property or safety. or to protect our users from fraudulent, abusive, or unlawful use of our Web site. or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of personal information without delay.
-*   **Business Transfers:** Information about our users, including personal information, might be disclosed as part of any merger, acquisition, debt financing, sale of company assets, as well as in the event of an insolvency, bankruptcy or receivership in which personally identifiable information could be transferred to third parties as one of the business assets of the company.
+Information We May Obtain From Other Sources:
 
-TOP Children
+We may combine any information collected through the Services with other information that we obtain about you, your computer, and/or device from other companies and sources, including third-party data suppliers and public databases. The following are examples of information we may collect from other sources:
 
-We do not intend, and the Website is not designed, to collect personal information from children under the age of 13. If you are under 13 years old, you should not register for our services or otherwise provide information on our Website and should ask your parent to do so for you.
+*   Name, postal address, email address and telephone number;
+*   Demographic data, such as age, gender, and income level;
+*   Your interests and purchase behavior;
+*   Publicly-visible data, such as your posts and submissions to blogs, video-sharing services, and other interactive forums. and
+*   Other navigation data, such as web sites visited and advertisements viewed or clicked on.
 
-TOP Third Party Web Site Advertising - General
+Return to top
 
-We use one or more third-party advertising companies to serve ads when you visit our Web site. We do not share personal information about you with any third party advertiser unless you give us permission to do so, separate from any permission you provide during the registration process. These advertisers might seek to use cookies and Web beacons to track session data about the ads you have seen and types of things in which you appear interested. These advertisers might also use combined information about your visits to our Web site and other Web sites in order to provide advertisements about related goods and services of interest to you. 3rd party advertising networks may place a cookie on your computer to tailor ad content both on Allrecipes.com and on sites within the third party network that you visit in the future. If you would like more information about this practice and how to opt-out of having this information used by Network Advertising Initiative (NAI) companies, please click here. Visit the Digital Advertising Alliance Self-Regulatory Program For Online Behavioral Advertising where you can find out more about online behavioral advertising or can opt-out from receiving online behavioral ads.
+How We Use The Information We Collect:
 
-*   **Third Party Advertising - DoubleClick**  
-    Many of the ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. For more information about DoubleClick, cookies, and how to “opt-out”, please click here.
-*   **Third Party Cookies - DoubleClick**  
-    In the course of serving advertisements to this site, our third-party advertiser might place or recognize a unique cookie on your browser.
-*   **Third Party Search Engines** - Allrecipes provides access to publicly viewed site information by third-party search engine “crawlers” (such as Google). Allrecipes blocks access by these engines to personal information beyond the publicly viewed information you agreed to upon registering for the site, and as indicated in this privacy policy and terms and conditions.
+Our primary goal in collecting information is to provide you with a customized experience when using our Services and to make them more valuable to you. Because our Services are supported by advertising, we also use the information we collect to help us and advertisers efficiently reach consumers who are most likely to be interested in particular products and services. We only use payment and identity verification information as necessary to complete a particular transaction, provide a requested service, enforce legal rights or comply with applicable law.
 
-TOP Third Party Links
+In addition, we and our authorized service providers generally use other information that we or they collect about you to:
 
-From time to time we might have links to other Web sites from our Web site. We do not control, and therefore cannot be responsible for, the collection, use, or disclosure of your information by any such third party Web site. Please carefully review the privacy policy of any third-party Web site that you link to from our Web site. The privacy policies of such Web sites might differ from that of our Web site. therefore, we encourage you to review and understand the privacy policies of such Web sites before providing them with any information.
+*   Customize the content you see when you use our Services and other services as you navigate online;
+*   Analyze, operate and improve our Services, and fulfill your requests for products, services, and information, including to send you email and electronic newsletters;
+*   Help recognize your browser as a previous visitor and save and remember any preferences that may have been set while your browser was visiting one of our Services.
+*   Enable you to participate in features such as surveys, polls, sweepstakes, and message boards;
+*   Attribute content that you post to forums we operate on our Services;
+*   Recognize the same users as they access online or mobile services using multiple browsers or devices and deliver to them appropriate interest-based content and advertising;
+*   Provide you with special offers, promotions and information from companies within our corporate family, and select third parties in accordance with applicable law;
+*   Control the display of advertising and develop and deliver advertising tailored to your interests, including advertising that you see on our Services, advertising you see on third-party websites and email programs, and offers and advertising you may receive offline.
+*   Help us measure and analyze visitor traffic and usage patterns and improve the quality and effectiveness of our content, features, advertisements, and other communications;
+*   Conduct market or audience analysis and related reporting.
+*   Understand whether our users read email messages and click on links contained within those messages.
+*   Prevent potentially prohibited or illegal activities, comply with applicable law and enforce our Visitor Agreement.
+*   For any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
 
-TOP Third Party Sources
+Return to top
 
-Allrecipes might also obtain information about you from third parties, such as demographic marketing information, address verification, or third party mailing lists, and add such information to, or combine it with, your personal information. Should we ever obtain this information and link it to you, we will treat it all as personal information under this Privacy Policy.
+How We Disclose Information and Your Related Opt-out Choices:
 
-TOP Security
+Except as otherwise expressly noted herein or within the Services, we may share any information collected through our Services, including without limitation, your name, postal address (and any other information we combine with that information) with our Meredith-affiliated companies, our provider partners and service providers, and with carefully selected third-party organizations and marketers of products and services potentially of interest to you. The following describes some of the circumstances in which we may share information about our users:
 
-We use reasonable security measures to store and maintain personally identifying information so as to protect it from loss, misuse, alteration or destruction by unauthorized parties while it is under our control. We use secure socket layer (“SSL”) encryption when transmitting certain kinds of information, such as payment information, over the Internet.  
-  
-**International Users**  
-We collect, process, and maintain your information in the United States, where privacy laws might not be as protective as in your home country. If you are using the Web site from outside of the United States, by providing your information to us you are consenting to the transfer of your information to the United States for processing and maintaining in a manner consistent with this Privacy Policy.
+Email.
 
-TOP Correcting/Updating Personal Information
+We share our users' email addresses with service providers that send email messages and deliver targeted advertising in our emails on our behalf. These service providers may collect data about how you interact with those messages (including information about whether and when you opened a particular message or clicked on a link within a message and the device you used to do so) and analyze it in conjunction with similar information they collect when you respond to emails they send on behalf of their other clients who are not affiliated with us. They use this email response information in combination with your email address to target and optimize the delivery of emails and email advertising they send on our behalf and for their other clients. We may also provide our service providers with lists of our user email addresses that they use in a hash-encrypted form to recognize our users when they subscribe to third-party email services and send them interest-based advertising on those services. We do not authorize our email service providers to share your email address with their other clients.
 
-We give you the opportunity to opt-out of receiving commercial e-mail from us by following the opt-out instructions provided in the message. Even if you opt-out in this manner, however, you will still receive account-related messages from us. To get placed on our “DO NOT E-MAIL” list, send a request to CustomerRelations@allrecipes.com. If your e-mail address is added to the “DO NOT E-MAIL” list, you will not receive any newsletters or other opt-in e-mail messages. Please note, however, that your e-mail address being placed on the “DO NOT E-MAIL” list does not prevent you from receiving “send-to-a-friend” e-mail messages, or email messages from third parties from which you requested information, products, or services from during or immediately after registration. To opt-out from messages from these third parties, or from any other communications that you receive directly from third parties, you must contact them directly in order to opt-out. Allrecipes.com believes in providing you with the ability to access and edit the personally identifying information that you have provided to us through our services. To update this information, please visit the Customer Support page area or comparable feature of the service you used to enter your information. If you cannot locate such a feature, send us an email at CustomerRelations@allrecipes.com.
+If you use our Services to sign up for special email offers from third-party advertisers, we will also share your email address and any other information you provided with your request with the advertisers you selected. Except as described in this policy, we will not sell or rent your email address to unaffiliated third parties for their email marketing purposes, without your consent.
 
-TOP California Privacy Rights
+Co-Registration Offers.
 
-California Civil Code Section 1798.83 permits customers who are California residents to request certain information regarding disclosure of personal information to third parties for their direct marketing purposes. We do not provide your personal information to any third party for their direct marketing purposes without your consent. If, having provided your consent, you would like to revoke your consent to future disclosure of your personal information to third parties, send a request to CustomerRelations@allrecipes.com with “California Opt-Out” in the subject line. Please note that this opt-out will not prevent the use of information that has already been disclosed to third parties with your consent and you should contact them directly to opt-out from such communications. If you would like more information with respect to your privacy rights under California law, you may contact us at CustomerRelations@allrecipes.com. Please indicate such a request by placing “California Disclosure Information” in the subject line.
+If, during or immediately following registration, you choose to access offers for goods or services that are available from selected third-party companies (“Co-Registration Vendors”), we may make certain contact and demographic information you provide (e.g., name, age, and/or email address) available to these vendors with your consent.
 
-TOP Contact Us
+Provider Partners and Service Providers.
 
-If you have any questions or comments about this Privacy Policy, the privacy practices of this Web site, or your dealings with Allrecipes.com, please contact us at CustomerRelations@allrecipes.com or use the following address phone or fax number:  
-  
-**Allrecipes.com**  
-413 Pine Street  
-Suite 500  
-Seattle, WA  
-98101  
-  
-Phone: 206.292.3990  
-Fax: 206.292.1793
+To make your experience with our Services more useful and enjoyable, we may offer some features (such as social sharing tools and chat rooms) in conjunction with third-party providers ("Provider Partners") that specialize in operating such services. We share with each of these Provider Partners such information as is useful or necessary to provide you with the services we offer through that Provider Partner. We also contract with other companies to provide specialized services to us, including but not limited to credit-card and billing processing, shipping, marketing, email and text message distribution, data processing, mobile and website analytics and promotions management. We reserve the right to share with these companies any information we collect about you and/or authorize them to collect information from you directly for purposes consistent with this Privacy Policy.
 
-TOP
+Aggregated and Anonymous Information.
+
+We and our service providers may combine information about you with information that we or they collect about other users of our Services and share it in a form that does not identify you personally. We and our service providers may also anonymize information by removing any information (such as your name) that makes the information personally identifying to you. We may use aggregated information or other anonymous information and disclose it to third parties as we deem appropriate.
+
+Information You Post to Blogs, Discussion Forums and Community or Social Networking Areas.
+
+Keep in mind that any information that you choose to post to blogs, discussion forums, or other community or social networking services that we offer can be seen, collected and used by anyone who has access to the applicable service. We cannot be responsible for any unauthorized third-party use of such information.
+
+Legal Compliance, Business Transfers and Other Disclosures.
+
+Notwithstanding anything to the contrary stated herein or within our Services, we may occasionally release information about users of our Services when we deem such release appropriate to comply with law, respond to compulsory process or law enforcement requests, enforce our Visitor Agreement, or protect the rights, property or safety of users of our Services, the public, Meredith Corporation, our affiliates, or any third party. Over time, we may reorganize or transfer various assets and lines of business. Notwithstanding anything to the contrary stated herein or on our Services, we reserve the right to disclose or transfer any information we collect to third parties in connection with any proposed or actual purchase, sale, lease, merger, foreclosure, liquidation, amalgamation or any other type of acquisition, disposal, transfer, conveyance or financing of all or any portion of Meredith or our affiliates.
+
+Return to top
+
+Opt-Out Choices. Postal Lists.
+
+To remove your name and postal address from postal lists that we sell or rent to third parties for their direct marketing purposes, please use the postal list opt-out form available here or send your request to us in a letter addressed to Meredith Corporation, Opt-Out Postal, Attn: Circulation, 1716 Locust Street, Des Moines, Iowa 50309).
+
+Email.
+
+You can opt-out from any Meredith email newsletter or commercial email list and prevent the collection of related email response information by our email service providers by using the unsubscribe link at the bottom of each message and/ or by visiting the Email Preferences page on our sites and updating your preferences. If you no longer want to receive third-party email offers that you requested through our Services, simply follow the advertiser's unsubscribe link or opt-out instructions that should be included in every commercial message you receive.
+
+Interest-Based Advertising.
+
+Meredith follows the Self-Regulatory Principles for Online Behavioral advertising released by the Digital Advertising Alliance ("DAA") in July 2009. To opt-out of our use of your online viewing behavior data to serve interest-based advertising on third-party websites and email newsletters, visit http://www.aboutads.info/. You can also click on the Ad Choices icon located in the footer of our web sites and navigate to the consumer opt-out page. Use the same links to opt-out of the delivery of interest-based advertising on our Services from the operators of the third-party ad networks we use. Note that you must opt-out separately from each computer or device and browser that you use to access our Services and if you clear your cookies, you will need to repeat the opt-out process.
+
+Most of the third-party advertising and data companies we work with, including DoubleClick and Google also subscribe to the DAA Principles and/or are members of the Network Advertising Initiative ("NAI"). To learn more about the information collection practices of NAI members and your related opt-out choices, please visit the NAI's website here. You can opt out of interest-based advertising from Google by visiting the About Google Ads page or permanently opt out of the DoubleClick cookie by installing the DoubleClick opt out extension. For information about Google Analytics’ information practices and related opt-out choices, click here.
+
+Adobe and Krux are other third parties we engage to track and analyze usage and browsing patterns of our users. For information about Adobe's information collection practices and related opt-out choices, click here. For information about Krux’s information collection practices and related opt-out choices, click here.
+
+Do Not Track.
+
+Do Not Track is a standard that is currently under development. As it is not yet finalized, we do not currently respond to browser do-not-track signals. Instead, we adhere to the standards set out in this privacy policy and offer the opt-out choices described above.
+
+Return to top
+
+Sites to Which We Link:
+
+We also may provide links to other websites or services, and provide access to products and services offered by third parties, whose privacy policies we don't control.
+
+Return to top
+
+How to Correct or Update Your Information:
+
+Meredith Corporation provides you with the ability to access and edit certain personally identifying information that you have provided to us through our Services. To update this information, please visit the "My Account" area or comparable feature of the Service you used to enter your information. If you cannot locate such a feature, send us an email at privacy@meredith.com.
+
+Return to top
+
+Security, Retention and Storage of Information:
+
+We use commercially reasonable procedures to protect the personally-identifying information that we collect. No security system is impenetrable, however. We cannot guarantee the security of our databases, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. Please see our Visitor Agreement for more information related to posting materials on our Services including our use of such materials.
+
+For the purposes set out in this Online Privacy Policy, personally-identifying information may be transferred to, processed, stored and accessed by us, our affiliates and our unaffiliated service providers in the United States and in other jurisdictions where we or they operate. Courts and other authorities in these jurisdictions may, in certain circumstances, be entitled to access your personally-identifying information. By using the Services, you consent to this transfer, processing, storage and access of your personally-identifying information in and/or outside of the jurisdiction in which you reside.
+
+Return to top
+
+Your California Privacy Rights
+
+(As provided by California Civil Code Section 1798.83)
+
+California residents have the right to request and obtain from us, once a year and free of charge, a list of the third parties to whom we have disclosed certain types of personal information (if any) for their direct marketing purposes in the prior calendar year. At our option, we may respond to such requests by providing instructions about how our users can exercise their options to prevent our disclosure of personal information to third parties for their direct marketing purposes. You can read these instructions above in the section of our Online Privacy Policy titled "How We Disclose Information and Your Related Opt-out Choices." Or, if you are a California resident and prefer that we send you a separate response, please email your request to privacy@meredith.com
+
+Return to top
+
+Changes to Our Online Privacy Policy:
+
+Digital technology is rapidly evolving. If we decide to change our Privacy Policy in the future, we'll post the changes here and indicate at the top of the policy the last date on which it was updated. Unless otherwise noted, all changes will be effective when posted.
+
+Return to top
