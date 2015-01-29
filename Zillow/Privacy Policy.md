@@ -23,7 +23,8 @@ Rentals
 *   Rentals
     *   *   Apartments for rent
         *   Houses for rent
-        *   All rental listings
+        *   Pet friendly rentals
+    *   *   All rental listings
 *   Create a renter profile
     *   *   Capture the attention of property managers.
             
