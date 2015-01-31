@@ -79,7 +79,8 @@ Grammarly may deny you access to all or any part of the Services or terminat
 
 Upon termination of your account(s), your right to use the Services and Software and to access the Site and any of its content will immediately cease. All provisions of this Agreement that by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity, limitations of liability and miscellaneous provisions.
 
-Except as may be expressly set forth herein, all Fees paid or accrued in connection with any Services are non-refundable, and Grammarly will not prorate any Fees paid for a subscription that is terminated before the end of its term.  
+Except as may be expressly set forth herein, all Fees paid or accrued in connection with any Services are non-refundable, and Grammarly will not prorate any Fees paid for a subscription that is terminated before the end of its term.
+
 Your subscription includes a 7-day money back guarantee. If you are dissatisfied with your subscription for any reason, you can receive a full refund of the subscription fees you paid if you cancel your subscription within 7 days of activation. Please email refund requests to support@grammarly.com. This money back guarantee applies only to new users and does not apply to users that breach any term or condition of this Agreement.
 
 Termination of Agreement with Enterprise Subscriber
