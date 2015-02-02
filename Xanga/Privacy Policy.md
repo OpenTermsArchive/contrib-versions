@@ -10,25 +10,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Restore my blog?
     *   by iGreenBunny
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Restore my blog?
     *   by iGreenBunny
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How to restore my site
     *   by Kluglanoch\_Corner
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   not all my posts are archived
     *   by sisi\_nsg
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -37,31 +37,31 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by eugenia 4 days ago)
+    *   3 (last comment by eugenia 5 days ago)
 *   Oldder Blog Orphannie
     *   \[Resolved\] by Orphannie
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
+    *   1 (last comment by eugenia 5 days ago)
 *   How to reactivate my Xanga account?
     *   by uncle\_philip
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
+    *   1 (last comment by eugenia 5 days ago)
 *   moving "new entries" into wordpress?
     *   \[Resolved\] by Mr\_Tomcat
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by eugenia 5 days ago)
+    *   3 (last comment by eugenia 6 days ago)
 *   xanga left unattended for a long time. Now need help restoring..
     *   by BobsLeftNut
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   1 (last comment by eugenia 6 days ago)
 *   My old posts.
     *   \[Resolved\] by xo\_darkangel\_xo
     *   11 months ago
