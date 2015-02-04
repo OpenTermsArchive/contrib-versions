@@ -8,60 +8,60 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Reset
-    *   by lXlCorkylXl
-    *   3 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Reset
-    *   by lXlCorkylXl
-    *   3 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Restore my blog?
-    *   by iGreenBunny
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Restore my blog?
-    *   by iGreenBunny
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   How to restore my site
-    *   by Kluglanoch\_Corner
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   not all my posts are archived
-    *   by sisi\_nsg
-    *   5 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 *   old blog restore
     *   \[Resolved\] by footguards26
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by eugenia 6 days ago)
+    *   5 (last comment by friday\_emily 2 hours ago)
+*   Reset
+    *   by lXlCorkylXl
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Reset
+    *   by lXlCorkylXl
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Restore my blog?
+    *   by iGreenBunny
+    *   4 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Restore my blog?
+    *   by iGreenBunny
+    *   4 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   How to restore my site
+    *   by Kluglanoch\_Corner
+    *   5 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   not all my posts are archived
+    *   by sisi\_nsg
+    *   6 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Oldder Blog Orphannie
     *   \[Resolved\] by Orphannie
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   How to reactivate my Xanga account?
     *   by uncle\_philip
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   moving "new entries" into wordpress?
     *   \[Resolved\] by Mr\_Tomcat
     *   3 weeks ago
