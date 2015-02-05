@@ -8,45 +8,63 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Please help me to get back my old data
+    *   by anson\_1944
+    *   7 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Please help me to get back my old data
+    *   by anson\_1944
+    *   7 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   please restore my blog
+    *   by sunflower2005
+    *   12 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   old blog restore
     *   \[Resolved\] by footguards26
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   5 (last comment by friday\_emily 2 hours ago)
+    *   5 (last comment by friday\_emily 1 day ago)
 *   Reset
     *   by lXlCorkylXl
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Reset
     *   by lXlCorkylXl
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Restore my blog?
     *   by iGreenBunny
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Restore my blog?
     *   by iGreenBunny
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How to restore my site
     *   by Kluglanoch\_Corner
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   not all my posts are archived
     *   by sisi\_nsg
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -64,7 +82,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by eugenia 1 week ago)
 *   moving "new entries" into wordpress?
     *   \[Resolved\] by Mr\_Tomcat
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   3 (last comment by eugenia 1 week ago)
@@ -80,24 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   2 (last comment by xo\_darkangel\_xo 1 week ago)
-*   Old Xanga Account
-    *   \[Resolved\] by alainn\_\_coimheach
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
-*   restore old blog scorpiohunni27
-    *   \[Resolved\] by scorpiohunni27
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
-*   Old Blog Restoration
-    *   \[Resolved\] by MotherSky
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
 
 1 2 3 ... 147 Next
 
