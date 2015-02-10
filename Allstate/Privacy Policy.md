@@ -394,15 +394,15 @@ Retrieve a saved quote
 
 Agents Near 80202
 
-*   Denise Hoffman 303-628-0554 535 16th St # 350 Denver, CO 80202 Visit website
 *   James Barthelemy 303-948-9879 1940 Blake St Ste 105 Denver, CO 80202 Visit website
+*   Denise Hoffman 303-628-0554 535 16th St # 350 Denver, CO 80202 Visit website
 *   K.D. Sakraida 303-433-2094 1932 W 33rd Ave Denver, CO 80211 Visit website
 *   Lou Toth 303-752-2999 1459 Ogden St # 5 Denver, CO 80218 Visit website
 
 Previous
 
-*   Denise Hoffman 535 16th St # 350 Denver, CO 80202 WEBSITE
 *   James Barthelemy 1940 Blake St Ste 105 Denver, CO 80202 WEBSITE
+*   Denise Hoffman 535 16th St # 350 Denver, CO 80202 WEBSITE
 *   K.D. Sakraida 1932 W 33rd Ave Denver, CO 80211 WEBSITE
 *   Lou Toth 1459 Ogden St # 5 Denver, CO 80218 WEBSITE
 
