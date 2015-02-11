@@ -4,7 +4,7 @@ Hi,
     *   Message Center
     *   My Favorites
     *   Buy
-    *   Post Buying Requests
+    *   Get Quotations Now
     *   Manage Buying Requests
     *   Manage Orders
     *   Sell
@@ -18,8 +18,9 @@ Hi,
     *   Get Quotations
     *   Wholesale Checkout
     *   Trade Services
-    *   AliPrimeBuyer
-    *   Escrow Service
+    *   Business Identity
+    *   Trade Assurance
+    *   Secure Payment
     *   e-Credit Line
     *   Inspection Service
     *   Community
@@ -38,50 +39,45 @@ Hi,
     *   New User Guide
     *   Submit a Complaint
     *   Report IPR Infringement
-*   Safe Trading Guide
+*   Trade Assurance
 
 *   About Alibaba Group
 
 Alibaba.com Categories Get Quotations Save 40% off your time to get quotes
 
-Post Buying Request Advanced Search
+Get Quotations Now Advanced Search
 
-*   Homepage
-*   Safety &. Security
+*   Home
+*   Rules Center
+*   Learning
 
-Quick Guide Home >. Help >. Safety &. Security >. Others >. **Privacy Policy** Services &. Products
+*   AliProtect System >.
+*   Penalty Record >.
 
-*   Escrow
-*   Verification Services
-*   Inspection Service
-*   Fair Play Fund
+Classification of Rules >. Alibaba.com User Agreement
 
-Safe Trading Class
+*   Classification of Rules
+    *   Alibaba.com User Agreement
+    *   Posting Rules
+    *   Trade Rules and Dispute Rules
+    *   Others
+*   Announcement
+*   Learning
 
-*   Account Security
-*   Safe Buying
-*   Safe Selling
-*   Fraud Case Studies
-*   Banned Paid Members
-
-Policies &. Rules
-
-*   Service Agreement
-*   Product Listing
-*   IPR Protection
-*   Fraud &. Dispute
-*   Others
-
-ALIBABA.COM AND ALIEXPRESS.COM PRIVACY POLICY
+<. Back to list Privacy Policy
 
 (Updated as of December 2014)  
+
 Alibaba.com and Aliexpress.com (each a "Site", together the "Sites") are electronic commerce platforms are predominantly used by business entities to facilitate electronic commerce and such business use does not generally involve the collection of personal information of individuals. Alibaba recognizes the importance of privacy as well as the importance of maintaining the confidentiality of personal information. This Privacy Policy applies to all products and services provided by us and sets out how we may collect, use and disclose information in relation to users of the Sites.
 
 You may use our services and products via a mobile device either through mobile applications or mobile optimized websites. This Privacy Policy also applies to such use of our services and products.
 
 All capitalized terms not defined in this document shall have the meanings ascribed to them in the Terms of Use of the Site, which can be found here. If you are a user from mainland China, the Alibaba entity that you are contracting with is Alibaba Advertising Co., Ltd. If you are a user from Hong Kong and Macau, you are contracting with Alibaba.com Hong Kong Limited. If you are a user outside mainland China, Hong Kong and Macau, you are contracting with Alibaba.com Singapore E-Commerce Private Limited (“Alibaba”, “we”, “us”, “our”).
 
-A. COLLECTION OF INFORMATION  
+**A. COLLECTION OF INFORMATION**
+
+  
+
 1\. Your privacy is important to us and we have taken steps to ensure that we do not collect more information from you than is necessary for us to provide you with our services and to protect your account.
 
 2\. Information including, but not limited to, user name, address, phone number, fax number and email address ("Registration Information") may be collected at the time of user registration on the Sites.
@@ -98,7 +94,11 @@ A. COLLECTION OF INFORMATION
 
 8\. It is mandatory for users of the Sites to provide certain categories of Business Data and Personal Data (as specified at the time of collection). In the event that users do not provide any or sufficient Business Data and/or Personal Data marked as mandatory, we may not be able to complete the registration process or provide such users with our products or services.
 
-B. USE OF PERSONAL DATA
+  
+
+**B. USE OF PERSONAL DATA**
+
+  
 
 If you provide any Personal Data to us, you are deemed to have authorized us to collect, retain and use that Personal Data for the following purposes:
 
@@ -120,7 +120,11 @@ If you provide any Personal Data to us, you are deemed to have authorized us to 
 
 9\. making such disclosures as may be required for any of the above purposes or as required by law or in respect of any claims or potential claims brought against us.
 
-C. DISCLOSURE OF PERSONAL DATA
+  
+
+**C. DISCLOSURE OF PERSONAL DATA**
+
+  
 
 1\. You further agree that we may disclose and transfer (whether within or outside the jurisdiction of the Alibaba entity that you are contracting with) your Personal Data to service providers engaged by us to assist us with providing you with our services (including but not limited to data entry, database management, promotions, products and services alerts, delivery services, payment extension services, and membership authentication and verification services) ("Service Providers"). These Service Providers are under a duty of confidentiality to us and are only permitted to use your Personal Data in connection with the purposes specified at B.1 to B.9 above, and not for their own purposes (including direct marketing).
 
@@ -138,7 +142,7 @@ C. DISCLOSURE OF PERSONAL DATA
 
 8\. We have established relationships with other parties and websites to offer you the benefit of products and services which we do not offer. We offer you access to these other parties and their websites either through the use of hyperlinks to these sites from the Sites or through offering "co-branded" sites in which both we and other parties share the same uniform resource locator, domain name or pages within a domain name on the Internet. In some cases you may be required to submit personal information to register or apply for products or services provided by such third parties or co-branded partners. This Privacy Policy does not apply to these third party sites or co-branded sites. The privacy policies of those other parties may differ from ours, and we have no control over the information that you submit to those third parties. You should read the relevant privacy policy for those third party sites and co-branded sites before responding to any offers, products or services advertised by those parties.
 
-D. RIGHT TO ACCESS/CORRECT PERSONAL DATA
+**D. RIGHT TO ACCESS/CORRECT PERSONAL DATA**
 
 Under the applicable laws, you have the right of access to personal information held by us and to request correction of the information.  
 If you have any questions regarding this Privacy Policy or if you wish to access or correct your Personal Data, you may send your request in writing to the following address:  
@@ -149,7 +153,7 @@ Legal Counsel, The Legal Department
 Alibaba Advertising Co., Ltd., No. 699, Wangshang Road, Bingjiang District, Hangzhou, the People’s Republic of China.  
 In accordance with the applicable laws, we reserve the right to charge you a reasonable fee for the processing of any data access or correction request.
 
-E. COOKIES
+**E. COOKIES**
 
 We use "cookies" to store specific information about you and track your visits to the Sites. It is not uncommon for websites to use cookies to enhance identification of their users.
 
@@ -159,11 +163,11 @@ Generally, we use cookies to identify you and enable us to i) access your Regist
 
 You can determine if and how a cookie will be accepted by configuring the browser which is installed in the computer you are using to access the Sites. If you choose, you can change those configurations. By setting your preferences in the browser, you can accept all cookies or you can choose to be notified when a cookie is sent or you can choose to reject all cookies. If you reject all cookies by choosing the cookie-disabling function in your browser, you may be required to re-enter information on the Sites more often and certain features of the Sites may be unavailable.
 
-F. MINORS
+**F. MINORS**
 
 The Sites and their contents are not targeted to minors (those under the age of 18) and we do not intend to sell any of our products or services to minors. However, we have no way of distinguishing the age of individuals who access our Site. If a minor has provided us with personal information without parental or guardian consent, the parent or guardian should contact our Legal Department at the address set out in paragraph D above to remove the information.
 
-G. SECURITY MEASURES
+**G. SECURITY MEASURES**
 
 We employ commercially reasonable security methods to prevent unauthorized access to the Sites, to maintain data accuracy and to ensure the correct use of the information we hold.
 
@@ -171,25 +175,25 @@ For registered users of the Sites, your Registration Information and Account Inf
 
 No data transmission over the internet or any wireless network can be guaranteed to be perfectly secure. As a result, while we try to protect the information we hold for you, we cannot guarantee the security of any information you transmit to us and you do so at your own risk.
 
-H. CHANGES TO THIS PRIVACY POLICY
+**H. CHANGES TO THIS PRIVACY POLICY**
 
 Any changes to this Privacy Policy will be communicated by us posting an amended and restated Privacy Policy on the Sites. Once posted on the Sites the new Privacy Policy will be effective immediately. You agree that any information we hold about you (as described in this Privacy Policy and whether or not collected prior to or after the new Privacy Policy became effective) will be governed by the latest version of the Privacy Policy.
 
-I. YOUR FEEDBACK
+**I. YOUR FEEDBACK**
 
 We welcome your input regarding our Privacy Policy and any comments on the services we provide to you. You may send us your comments and responses by post to: The Legal Department, Alibaba.com Hong Kong Limited, 26/F, Tower One, Times Square, 1 Matheson Street, Causeway Bay, Hong Kong.
 
 If you are a user from Mainland China, please send us your comments and responses to the following address: The Legal Department, Alibaba Advertising Co., Ltd., No. 699, Wangshang Road, Bingjiang District, Hangzhou, the People’s Republic of China.
 
-Connect with us: Facebook Twitter Youtube Linkedin Free APP: Available on the App Store Available on Android TradeManager:
+Free APP: Available on the App Store Available on Android Download TradeManager: Follow Us: Facebook Twitter Youtube In
 
-Browse by:Manufacturers - Online Shopping - China Gold Suppliers - All Products - Countries - Importers - Customs Data - Buying Requests - China - India
+Alibaba.com Site: International - Español - Português - Deutsch - Français - Italiano - Pусский - 한국어 - 日本語 - اللغة العربية - ภาษาไทย - Türk - Nederlands
 
-Alibaba Group | Alibaba.com International | Alibaba.com China | AliExpress | Taobao Marketplace | Tmall.com | Juhuasuan | eTao | Alimama  
-| Taobao Travel | Xiami | Alibaba Cloud Computing | YunOS | AliTelecom | HiChina | Alipay | Laiwang
+Alibaba Group | Taobao Marketplace | Tmall.com | Juhuasuan | AliExpress | Alibaba.com | 1688.com | Alimama | Alitrip  
+Alibaba Cloud Computing | YunOS | AliTelecom | HiChina | Autonavi | UCWeb | Umeng | Kanbox | Xiami | TTPod | Laiwang | DingTalk | 11 Main | Alipay
 
-  
+Browse Alphabetically: Showroom | Country Search | Manufacturers | Suppliers | Promotion | Wholesale
 
 Product Listing Policy - Intellectual Property Policy and Infringement Claims - Privacy Policy - Terms of Use
 
-© 1999-2014 Alibaba.com. All rights reserved.
+© 1999-2015 Alibaba.com. All rights reserved.
