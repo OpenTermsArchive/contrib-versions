@@ -16,7 +16,6 @@
         *   For sale by agent
         *   Coming Soon
         *   Make Me Move
-    
 
 Rentals
 
@@ -124,7 +123,6 @@ More
         *   Zillow Research
         *   Zillow Visuals
         *   Zillow Mobile Apps
-    
 
 Sign in or Join Advertise
 
