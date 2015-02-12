@@ -95,8 +95,9 @@ Phone: (919) 319-5737
 Fax: (919) 319-8154  
 E-mail: copyright@att.com
 
-**Contact Information:** Any notification that AT&T sends to its Customers pursuant to this AUP will be sent via e-mail to the e-mail address on file with AT&T, or may be in writing to Customer's address of record.It is Customer's responsibility to promptly notify AT&T of any change of contact information.  
+**Contact Information:** Any notification that AT&T sends to its Customers pursuant to this AUP will be sent via e-mail to the e-mail address on file with AT&T, or may be in writing to Customer's address of record. It is Customer's responsibility to promptly notify AT&T of any change of contact information.  
   
+ 
 
   
 _Effective Date: October 15, 2008_
