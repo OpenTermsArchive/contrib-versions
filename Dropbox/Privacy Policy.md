@@ -1,8 +1,6 @@
 Dropbox Privacy Policy
 
-Posted: February 20, 2014
-
-Effective: March 24, 2014
+Posted: February 13, 2015
 
 Thanks for using Dropbox! Here we describe how we collect, use and handle your information when you use our websites, software and services ("Services").
 
@@ -49,7 +47,7 @@ Where
 
 _Around the world_. To provide you with the Services, we may store, process and transmit information in locations around the world - including those outside your country. Information may also be stored locally on the devices you use to access the Services.
 
-_Safe Harbor_. Dropbox complies with the EU-U.S. and Swiss-U.S. Safe Harbor ("Safe Harbor") frameworks and principles. We have certified our compliance, and you can view our certifications here. You can learn more about Safe Harbor by visiting http://export.gov/safeharbor. TRUSTe is the independent organization responsible for reviewing and resolving complaints about our Safe Harbor compliance. We ask that you first submit any such complaints directly to us via privacy@dropbox.com. If you aren't satisfied with our response, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request.
+_Safe Harbor_. Dropbox complies with the EU-U.S. and Swiss-U.S. Safe Harbor ("Safe Harbor") frameworks and principles. We have certified our compliance, and you can view our certifications here. You can learn more about Safe Harbor by visiting http://export.gov/safeharbor. JAMS is the independent organization responsible for reviewing and resolving complaints about our Safe Harbor compliance. We ask that you first submit any such complaints directly to us via privacy@dropbox.com. If you aren't satisfied with our response, please contact JAMS at http://www.jamsinternational.com/rules-procedures/safeharbor/file-safe-harbor-claim.
 
 Changes
 
