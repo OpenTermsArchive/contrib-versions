@@ -11,7 +11,6 @@ Wix
     *   Domains Get your own web address
     *   Mailboxes Add personalized emails
 *   Support
-*   #ItsThatEasy
 
 Sign In Hi, {username}
 
