@@ -95,7 +95,7 @@ _Attn:_ DMCA Notice Disqus, Inc.
 
 _Address:_ 301 Howard St, Suite 300 San Francisco, CA 94105
 
-Telephone: N/A Fax: N/A Email: biz@disqus.com
+Telephone: N/A Fax: N/A Email: dmca@disqus.com
 
 UNDER FEDERAL LAW, IF YOU KNOWINGLY MISREPRESENT THAT ONLINE MATERIAL IS INFRINGING, YOU MAY BE SUBJECT TO CRIMINAL PROSECUTION FOR PERJURY AND CIVIL PENALTIES, INCLUDING MONETARY DAMAGES, COURT COSTS, AND ATTORNEYS’ FEES.
 
@@ -131,7 +131,7 @@ These Terms, and any rights and licenses granted hereunder, may not be transferr
 
 Notification Procedures and Changes to Terms
 
-Disqus may provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through posting of such notice on our website, as determined by Disqus in our sole discretion. Disqus reserves the right to determine the form and means of providing notifications to our Users, provided that you may opt out of certain means of notification as described in these Terms. Disqus is not responsible for any automatic filtering you or your network provider may apply to email notifications we send to the email address you provide us. Any notices must be sent to Disqus in English at biz@disqus.com. Disqus may, in its sole discretion, modify or update these Terms from time to time. When we change these Terms, we will update the ‘last modified’ date at the bottom of this page. Your continued use of the Service after any such change constitutes your acceptance of the new Terms of Service. If you do not agree to these Terms or to our Privacy Policy, please do not access or use the Service. We recommend that you review this page periodically.
+Disqus may provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through posting of such notice on our website, as determined by Disqus in our sole discretion. Disqus reserves the right to determine the form and means of providing notifications to our Users, provided that you may opt out of certain means of notification as described in these Terms. Disqus is not responsible for any automatic filtering you or your network provider may apply to email notifications we send to the email address you provide us. Disqus may, in its sole discretion, modify or update these Terms from time to time. When we change these Terms, we will update the ‘last modified’ date at the bottom of this page. Your continued use of the Service after any such change constitutes your acceptance of the new Terms of Service. If you do not agree to these Terms or to our Privacy Policy, please do not access or use the Service. We recommend that you review this page periodically.
 
 Other
 
