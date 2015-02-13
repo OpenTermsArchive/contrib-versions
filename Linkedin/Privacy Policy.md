@@ -277,7 +277,7 @@ You have to meet LinkedIn’s minimum age requirements to create an account.
 
 Visit our Safety Center for tips on using LinkedIn smartly and securely.
 
-As described in Section 2.3 of the User Agreement, persons must be of Minimum Age to use LinkedIn. Please visit our Safety Center for additional information about safely using our Services.
+As described in Section 2.1 of the User Agreement, persons must be of Minimum Age to use LinkedIn. Please visit our Safety Center for additional information about safely using our Services.
 
 4.2. TRUSTe and Safe Harbor
 
