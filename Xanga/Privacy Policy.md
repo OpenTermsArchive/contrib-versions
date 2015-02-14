@@ -8,45 +8,51 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   old blog restore
-    *   \[Resolved\] by footguards26
-    *   4 weeks ago
+*   Why can't I import my blogs to other websites?
+    *   by kabiikimkim
+    *   15 hours ago
     *   in Data Migration
     *   0 votes
-    *   8 (last comment by shadowoftheAlmighty81 14 minutes ago)
+    *   0
+*   old blog restore
+    *   \[Resolved\] by footguards26
+    *   1 month ago
+    *   in Data Migration
+    *   0 votes
+    *   8 (last comment by shadowoftheAlmighty81 1 day ago)
 *   My old posts.
     *   \[Resolved\] by xo\_darkangel\_xo
     *   11 months ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by xiaoshan\_zhang 10 hours ago)
+    *   3 (last comment by xiaoshan\_zhang 1 day ago)
 *   LOST ALL MY OLD PHOTOS.
     *   by ManpreetSingh
-    *   16 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   LOST ALL MY OLD PHOTOS.
     *   by ManpreetSingh
-    *   16 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can I please have my old data back?
     *   by adamBRODY4ever33
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retreiving my blog
     *   by basketballdude53
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I lost some of my archives
     *   by ckcchan\_x
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -55,10 +61,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by Mr\_Tomcat 3 days ago)
+    *   4 (last comment by Mr\_Tomcat 4 days ago)
 *   Can't see any old posts...
     *   by kalokwin
-    *   4 days ago
+    *   5 days ago
     *   in Themes
     *   0 votes
     *   0
@@ -76,7 +82,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by eugenia 1 week ago)
 *   Restore my blog?
     *   \[Resolved\] by iGreenBunny
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by eugenia 1 week ago)
@@ -88,12 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by eugenia 1 week ago)
 *   please restore my blog
     *   \[Resolved\] by sunflower2005
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
-*   Please help me to get back my old data
-    *   \[Resolved\] by anson\_1944
     *   1 week ago
     *   in Data Migration
     *   0 votes
