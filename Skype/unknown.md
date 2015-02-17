@@ -54,7 +54,7 @@ If you already have a written agreement with Skype which allows you to use some 
 
 If you do not already have a written agreement with Skype which governs your proposed use of the Skype Brand Elements you must request prior written permission from Skype for your proposed use of the relevant Skype Brand Elements, as explained below, unless your use falls within the exceptions listed in section 4 below.
 
-To request permission, for example, to use screen shots in academic text books or in films, you will need to send an email with your request to permissions@skype.net. Your request should provide details of which Skype Brand Elements you wish to use, as well as a detailed proposal of how you will be using those elements. You cannot use the Skype Brand Elements until we have expressly granted you permission. Any change to your initial proposal requires that you make an additional request for that use.
+To request permission, for example, to use screen shots in academic text books or in films, you will need to send an email with your request to skypebrand@microsoft.com. Your request should provide details of which Skype Brand Elements you wish to use, as well as a detailed proposal of how you will be using those elements. You cannot use the Skype Brand Elements until we have expressly granted you permission. Any change to your initial proposal requires that you make an additional request for that use.
 
 If you receive permission from Skype to use any Skype Brand Elements, these Guidelines govern that use, in addition to any specific requirements set out in the permissions. Skype reserves the right to withdraw its permission to use the Skype Brand Elements at any time, whereupon you agree that you will immediately cease any and all use of the relevant Skype Brand Elements.
 
@@ -75,7 +75,7 @@ You may use certain of our Word Marks (see selected list of Word Marks at the en
   
   
 
-If you have any questions or are uncertain about how to use our Word Marks, please contact permissions@skype.net.
+If you have any questions or are uncertain about how to use our Word Marks, please contact skypebrand@microsoft.com.
 
 **(b) Your Skype contact details**
 
@@ -87,7 +87,7 @@ You may use the Skype “S” logo on your business cards and/or on your website
 
 You may not use screen shots of Skype product boot-up screens, opening screens, "splash screens," or screens from beta release products or other products that have not been commercially released. You may use other screen shots in advertising, in documentation (including educational brochures), in tutorial books, in videotapes, or on websites, provided that, in addition to the requirements above, you:
 
-(i) contact permissions@skype.net with details of your request and the image you wish to use and do not use without their approval
+(i) contact skypebrand@microsoft.com with details of your request and the image you wish to use and do not use without their approval
 
 (ii) do not alter the screen shot except to resize it
 
@@ -229,4 +229,4 @@ Logos:
 
 *   **YOU EXPRESSLY ACKNOWLEDGE THAT YOU HAVE READ THESE SKYPE TRADE MARK GUIDELINES AND UNDERSTAND AND ACCEPT THE RIGHTS, OBLIGATIONS, TERMS AND CONDITIONS SET FORTH HEREIN. BY USING ANY OF THE SKYPE BRAND ELEMENTS, YOU EXPRESSLY CONSENT TO BE BOUND BY THESE TERMS AND CONDITIONS.**
 
-© Skype – Last revised: April 2014
+© Skype – Last revised: February 2015
