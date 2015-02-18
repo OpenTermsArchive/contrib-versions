@@ -1,10 +1,10 @@
 Terms of Service
 
-These Terms of Service ("**Terms**") govern your access to and use of the services, including our various websites, SMS, APIs, email notifications, applications, buttons, widgets, ads, and commerce services (the "**Services**" or “**Twitter**”), and any information, text, graphics, photos or other materials uploaded, downloaded or appearing on the Services (collectively referred to as "**Content**"). Your access to and use of the Services are conditioned on your acceptance of and compliance with these Terms. By accessing or using the Services you agree to be bound by these Terms.
+These Terms of Service (“**Terms**”) govern your access to and use of the services, including our various websites, SMS, APIs, email notifications, applications, buttons, widgets, ads, and commerce services (the “**Services**” or “**Twitter**”), and any information, text, graphics, photos or other materials uploaded, downloaded or appearing on the Services (collectively referred to as “**Content**”). Your access to and use of the Services are conditioned on your acceptance of and compliance with these Terms. By accessing or using the Services you agree to be bound by these Terms.
 
 1\. Basic Terms
 
-You are responsible for your use of the Services, for any Content you post to the Services, and for any consequences thereof. The Content you submit, post, or display will be able to be viewed by other users of the Services and through third party services and websites (go to the account settings page to control who sees your Content). You should only provide Content that you are comfortable sharing with others under these Terms.
+You are responsible for your use of the Services, for any Content you post to the Services, and for any consequences thereof. The Content you submit, post, or display will be able to be viewed by other users of the Services and through third party services and websites (go to the account settings (http://twitter.com/settings/security) page to control who sees your Content). You should only provide Content that you are comfortable sharing with others under these Terms.
 
 Tip What you say on Twitter may be viewed all around the world instantly. You are what you Tweet!
 
@@ -16,13 +16,13 @@ The Services may include advertisements, which may be targeted to the Content or
 
 2\. Privacy
 
-Any information that you provide to Twitter is subject to our Privacy Policy, which governs our collection and use of your information. You understand that through your use of the Services you consent to the collection and use (as set forth in the Privacy Policy) of this information, including the transfer of this information to the United States and/or other countries for storage, processing and use by Twitter. As part of providing you the Services, we may need to provide you with certain communications, such as service announcements and administrative messages. These communications are considered part of the Services and your Twitter account, which you may not be able to opt-out from receiving.
+Any information that you provide to Twitter is subject to our Privacy Policy (http://twitter.com/privacy), which governs our collection and use of your information. You understand that through your use of the Services you consent to the collection and use (as set forth in the Privacy Policy) of this information, including the transfer of this information to the United States and/or other countries for storage, processing and use by Twitter. As part of providing you the Services, we may need to provide you with certain communications, such as service announcements and administrative messages. These communications are considered part of the Services and your Twitter account, which you may not be able to opt-out from receiving.
 
 Tip You can opt-out of most communications from Twitter including our newsletter, new follower emails, etc. Please see the Notifications tab of Settings for more.
 
 3\. Passwords
 
-You are responsible for safeguarding the password that you use to access the Services and for any activities or actions under your password. We encourage you to use "strong" passwords (passwords that use a combination of upper and lower case letters, numbers and symbols) with your account. Twitter cannot and will not be liable for any loss or damage arising from your failure to comply with the above.
+You are responsible for safeguarding the password that you use to access the Services and for any activities or actions under your password. We encourage you to use “strong” passwords (passwords that use a combination of upper and lower case letters, numbers and symbols) with your account. Twitter cannot and will not be liable for any loss or damage arising from your failure to comply with the above.
 
 4\. Content on the Services
 
@@ -38,7 +38,7 @@ Tip This license is you authorizing us to make your Tweets available to the rest
 
 You agree that this license includes the right for Twitter to provide, promote, and improve the Services and to make Content submitted to or through the Services available to other companies, organizations or individuals who partner with Twitter for the syndication, broadcast, distribution or publication of such Content on other media and services, subject to our terms and conditions for such Content use.
 
-Tip Twitter has an evolving set of rules for how ecosystem partners can interact with your Content. These rules exist to enable an open ecosystem with your rights in mind. But what’s yours is yours – you own your Content (and your photos are part of that Content).
+Tip Twitter has an evolving set of rules (http://twitter.com/apirules) for how ecosystem partners can interact with your Content. These rules exist to enable an open ecosystem with your rights in mind. But what’s yours is yours – you own your Content (and your photos are part of that Content).
 
 Such additional uses by Twitter, or other companies, organizations or individuals who partner with Twitter, may be made with no compensation paid to you with respect to the Content that you submit, post, transmit or otherwise make available through the Services.
 
@@ -79,7 +79,7 @@ Attn: Copyright Agent
 1355 Market Street, Suite 900  
 San Francisco, CA 94103  
 Reports: https://support.twitter.com/forms/dmca  
-Email: copyright@twitter.com 10. Ending These Terms
+Email: copyright@twitter.com10. Ending These Terms
 
 The Terms will continue to apply until terminated by either you or Twitter as follows.
 
@@ -95,9 +95,9 @@ Nothing in this section shall affect Twitter’s rights to change, limit or stop
 
 Please read this section carefully since it limits the liability of Twitter and its parents, subsidiaries, affiliates, related companies, officers, directors, employees, agents, representatives, partners, and licensors (collectively, the “Twitter Entities”). Each of the subsections below only applies up to the maximum extent permitted under applicable law. Some jurisdictions do not allow the disclaimer of implied warranties or the limitation of liability in contracts, and as a result the contents of this section may not apply to you. Nothing in this section is intended to limit any rights you may have which may not be lawfully limited.
 
-A. The Services are Available "AS-IS"
+A. The Services are Available “AS-IS”
 
-Your access to and use of the Services or any Content are at your own risk. You understand and agree that the Services are provided to you on an "AS IS" and "AS AVAILABLE" basis. Without limiting the foregoing, to the maximum extent permitted under applicable law, THE TWITTER ENTITIES DISCLAIM ALL WARRANTIES AND CONDITIONS, WHETHER EXPRESS OR IMPLIED, OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+Your access to and use of the Services or any Content are at your own risk. You understand and agree that the Services are provided to you on an “AS IS” and “AS AVAILABLE” basis. Without limiting the foregoing, to the maximum extent permitted under applicable law, THE TWITTER ENTITIES DISCLAIM ALL WARRANTIES AND CONDITIONS, WHETHER EXPRESS OR IMPLIED, OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
 
 The Twitter Entities make no warranty and disclaim all responsibility and liability for: (i) the completeness, accuracy, availability, timeliness, security or reliability of the Services or any Content. (ii) any harm to your computer system, loss of data, or other harm that results from your access to or use of the Services or any Content. (iii) the deletion of, or the failure to store or to transmit, any Content and other communications maintained by the Services. and (iv) whether the Services will meet your requirements or be available on an uninterrupted, secure, or error-free basis. No advice or information, whether oral or written, obtained from the Twitter Entities or through the Services, will create any warranty not expressly made herein.
 
