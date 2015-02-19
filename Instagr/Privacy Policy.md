@@ -4,7 +4,6 @@ Instagram Help Center
 
 *   Community Guidelines
 *   Controlling Your Visibility
-*   Security Tips
 *   Learn How to Address Abuse
 *   Blocking People
 *   Safety Tips
