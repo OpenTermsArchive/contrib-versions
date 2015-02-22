@@ -10,19 +10,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
-    *   3 months ago
+    *   4 months ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by american\_lunatik 21 hours ago)
+    *   5 (last comment by mylifeingreaterhands 10 hours ago)
 *   Is there any hope?
     *   by Gustava
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by american\_lunatik 21 hours ago)
+    *   1 (last comment by american\_lunatik 1 day ago)
 *   How may I get my old posts back?
     *   by wallis\_wb
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -31,22 +31,22 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by matoro87 4 days ago)
+    *   2 (last comment by matoro87 5 days ago)
 *   Do not have access to old email
     *   by SomethingInTheWay\_\_x
-    *   5 days ago
+    *   6 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Lost every post in my xanga
     *   by ckm\_1224
-    *   5 days ago
+    *   6 days ago
     *   in Themes
     *   0 votes
     *   0
 *   lost xanga posts
     *   by babyfriends333
-    *   6 days ago
+    *   1 week ago
     *   in Themes
     *   0 votes
     *   0
@@ -55,43 +55,43 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   I lost some of my archives
     *   \[Resolved\] by ckcchan\_x
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   Can I please have my old data back?
     *   \[Resolved\] by adamBRODY4ever33
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   LOST ALL MY OLD PHOTOS.
     *   \[Resolved\] by ManpreetSingh
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   My old posts.
     *   \[Resolved\] by xo\_darkangel\_xo
     *   12 months ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by eugenia 6 days ago)
+    *   4 (last comment by eugenia 1 week ago)
 *   old blog restore
     *   \[Resolved\] by footguards26
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   10 (last comment by eugenia 6 days ago)
+    *   10 (last comment by eugenia 1 week ago)
 *   Why can't I import my blogs to other websites?
     *   \[Resolved\] by kabiikimkim
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   moving "new entries" into wordpress?
     *   \[Resolved\] by Mr\_Tomcat
     *   1 month ago
