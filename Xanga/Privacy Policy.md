@@ -8,21 +8,27 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   How to get my video back?
+    *   by doraemonica
+    *   1 hour ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   4 months ago
     *   in Data Migration
     *   0 votes
-    *   5 (last comment by mylifeingreaterhands 10 hours ago)
+    *   6 (last comment by hm3star45rv 13 hours ago)
 *   Is there any hope?
     *   by Gustava
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by american\_lunatik 1 day ago)
+    *   1 (last comment by american\_lunatik 2 days ago)
 *   How may I get my old posts back?
     *   by wallis\_wb
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -31,16 +37,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by matoro87 5 days ago)
+    *   2 (last comment by matoro87 6 days ago)
 *   Do not have access to old email
     *   by SomethingInTheWay\_\_x
-    *   6 days ago
+    *   1 week ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Lost every post in my xanga
     *   by ckm\_1224
-    *   6 days ago
+    *   1 week ago
     *   in Themes
     *   0 votes
     *   0
@@ -52,7 +58,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Can't see any old posts...
     *   \[Resolved\] by kalokwin
-    *   1 week ago
+    *   2 weeks ago
     *   in Themes
     *   0 votes
     *   1 (last comment by eugenia 1 week ago)
@@ -76,7 +82,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by eugenia 1 week ago)
 *   My old posts.
     *   \[Resolved\] by xo\_darkangel\_xo
-    *   12 months ago
+    *   1 year ago
     *   in Data Migration
     *   0 votes
     *   4 (last comment by eugenia 1 week ago)
@@ -92,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   1 (last comment by eugenia 1 week ago)
-*   moving "new entries" into wordpress?
-    *   \[Resolved\] by Mr\_Tomcat
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   4 (last comment by Mr\_Tomcat 1 week ago)
 
 1 2 3 ... 147 Next
 
