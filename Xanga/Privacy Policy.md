@@ -8,15 +8,27 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Retrieving my blog
+    *   by vicki\_8949
+    *   1 hour ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   please retrieve my blog
+    *   by Shirlita\_Love
+    *   2 hours ago
+    *   in Miscellaenous
+    *   0 votes
+    *   0
 *   old blog restore
     *   \[Resolved\] by footguards26
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   11 (last comment by raywillSAVEusall 16 hours ago)
+    *   12 (last comment by Blnknbklr 23 hours ago)
 *   How to get my video back?
     *   by doraemonica
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -25,22 +37,22 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 months ago
     *   in Data Migration
     *   0 votes
-    *   6 (last comment by hm3star45rv 1 day ago)
+    *   6 (last comment by hm3star45rv 2 days ago)
 *   Is there any hope?
     *   by Gustava
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by american\_lunatik 3 days ago)
+    *   1 (last comment by american\_lunatik 4 days ago)
 *   How may I get my old posts back?
     *   by wallis\_wb
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retreiving my blog
     *   \[Resolved\] by basketballdude53
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   2 (last comment by matoro87 1 week ago)
@@ -86,20 +98,8 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   1 (last comment by eugenia 1 week ago)
-*   My old posts.
-    *   \[Resolved\] by xo\_darkangel\_xo
-    *   1 year ago
-    *   in Data Migration
-    *   0 votes
-    *   4 (last comment by eugenia 1 week ago)
-*   Why can't I import my blogs to other websites?
-    *   \[Resolved\] by kabiikimkim
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
 
-1 2 3 ... 147 Next
+1 2 3 ... 148 Next
 
 Help Categories
 
