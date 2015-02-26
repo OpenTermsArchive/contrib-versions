@@ -177,7 +177,7 @@ Please note that the following sections of your Personal Data are displayed to t
 
 **9\. What does "Clickpath" mean?**
 
-"Clickpath" is a function of the XING Services which registers access to XING Members’ Profiles by other XING Members or access to specific information within XING Members’ Profiles. The information registered by Clickpath is only available to Premium Members of XING.
+"Clickpath" is a function of the XING Services which registers access to XING Members’ Profiles by other XING Members, to event pages or access to specific information within XING Members’ Profiles. The information registered by Clickpath is only available to Premium Members of XING XING and organizers who have booked the Event Plus option for their events.
 
 By using Clickpath you can see which Profiles of other XING Members you have visited. You can also check which other XING Members have visited your Profile. By the same token, all other Premium Members of XING can do the same, i.e. they may see whether you have visited their Profile. **This feature is an essential part of contact management on XING and as such an essential feature of the XING Services: you are not able to deactivate this feature in your privacy settings. If you do not agree that other XING Members may see that you have visited their Profile, you should not use the XING Services.**
 
