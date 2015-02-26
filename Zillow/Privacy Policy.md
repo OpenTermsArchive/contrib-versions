@@ -1,4 +1,13 @@
-**Your browser is out of date** and Zillow may not function correctly. Please upgrade to the latest version of one of these free browsers: Internet Explorer, Firefox, Safari or Chrome.
+**Your browser is out of date**  
+Download the Zillow app for a more immersive experience.  
+  
+Or try a newer browser:  
+
+*   Chrome
+*   ·
+*   Safari
+*   ·
+*   Firefox
 
  MENU Homes
 
