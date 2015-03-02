@@ -8,57 +8,75 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Old posts
+    *   by trutru127
+    *   9 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   How can I get my Blogs back?
+    *   by Lonley\_xLittle\_xStar
+    *   22 hours ago
+    *   in Themes
+    *   0 votes
+    *   0
+*   How can I get my Blogs back?
+    *   by Lonley\_xLittle\_xStar
+    *   22 hours ago
+    *   in Themes
+    *   0 votes
+    *   0
 *   how can i get my old post?
     *   by mamuima
-    *   10 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   how can i get my old post in xanga
     *   by katiekittyks
-    *   16 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   WANT MY POSTS BACK
     *   by sunrise\_carousel
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   how can i get my old post in xanga
     *   by Katherine\_Iong
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   how can i get my old post in xanga
     *   by Katherine\_Iong
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   how can i get my old post in xanga
     *   by Katherine\_Iong
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   how can i get my old post in xanga
     *   by Katherine\_Iong
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   trying to get my old blogs
     *   by tatatatori05
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Xanga blog
     *   by TwiNkleMePiNk06
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -67,37 +85,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   Lost every post in my xanga
     *   \[Resolved\] by ckm\_1224
-    *   1 week ago
+    *   2 weeks ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   Do not have access to old email
     *   \[Resolved\] by SomethingInTheWay\_\_x
-    *   1 week ago
+    *   2 weeks ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
-*   Retreiving my blog
-    *   \[Resolved\] by basketballdude53
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   3 (last comment by eugenia 3 days ago)
-*   How may I get my old posts back?
-    *   \[Resolved\] by wallis\_wb
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
-*   Is there any hope?
-    *   \[Resolved\] by Gustava
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   3 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 
 1 2 3 ... 148 Next
 
