@@ -22,7 +22,6 @@ Sign In Hi, {username}
 
 *   Get Started
 *   Home
-*   #ItsThatEasy
 *   Features
 *   Domains
 *   Mailboxes
