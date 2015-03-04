@@ -102,7 +102,7 @@ Written notification must be submitted to the following Designated Agent:
 
 Service Provider(s)**: SpiderOak**
 
-Name of Agent Designated to Receive Notification of Claimed Infringement: **Ethan Oberman**
+Name of Agent Designated to Receive Notification of Claimed Infringement: **Laura Gowans**
 
 Full Address of Designated Agent to Which Notification Should be Sent:
 
@@ -110,9 +110,9 @@ Full Address of Designated Agent to Which Notification Should be Sent:
 > 555 Huehl Road  
 > Northbrook, IL 60062
 
-Telephone Number of Designated Agent: **847.564.8900**
+Telephone Number of Designated Agent: **(866) 432-9888**
 
-Facsimile Number of Designated Agent: **847.564.1202**
+Facsimile Number of Designated Agent: **(847)564-1202**
 
 Email Address of Designated Agent: **copyright@spideroak.com**
 
