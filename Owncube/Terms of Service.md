@@ -45,9 +45,9 @@ Personal data should be relevant to the purposes for which it is to be used, and
 We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.  
 We will make readily available to customers information about our policies and practices relating to the management of personal information.  
 
-9\. Registration
+9\. TRIAL Registration
 
-Registration is limited to register only ONE account. If you are doing mass signup/register we are allowed to take your account and ip on our blocklist.  
+Registration for our trial accounts are limited to register only ONE account. If you are doing mass signup/register we are allowed to take your account and ip on our blocklist.  
   
 
 10\. Refund
