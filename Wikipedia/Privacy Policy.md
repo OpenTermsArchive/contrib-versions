@@ -145,9 +145,9 @@ Introduction Use of info Sharing Protection Important info Contents Contents
     *   5.4 Contact Us
     *   5.5 Thank You!
 
-Introduction
+§ Introduction
 
-Welcome!
+§Welcome!
 
 The Wikimedia Foundation is the nonprofit organization that operates collaborative, free knowledge websites, like Wikipedia, Wikimedia Commons, and Wiktionary.
 
@@ -168,7 +168,7 @@ We do not sell or rent your nonpublic information, nor do we give it to others t
 
 After all, it's people like you, the champions of free knowledge, who make it possible for the Wikimedia Sites to not only exist, but also grow and thrive.
 
-Definitions
+§Definitions
 
 Because everyone (not just lawyers) should be able to easily understand how and why their information is collected and used, we use common language instead of more formal terms throughout this Policy. To help ensure your understanding of some particular key terms, here is a table of translations:
 
@@ -186,7 +186,7 @@ When we say... ... we mean: "the Wikimedia Foundation" / "the Foundation" / "we"
 
 We recognize that only a minority of you are familiar with technical terms like “tracking pixels” and “cookies” used in the Privacy Policy. Whether you are brand new to privacy terminology or you are an expert who just wants a refresher, you might find our Glossary of Key Terms helpful.
 
-What This Privacy Policy Does &. Doesn't Cover
+§What This Privacy Policy Does &. Doesn't Cover
 
 Except as explained below, this Privacy Policy applies to our collection and handling of information about you that we receive as a result of your use of any of the Wikimedia Sites. This Policy also applies to information that we receive from our partners or other third parties. To understand more about what this Privacy Policy covers, please see below.
 
@@ -239,11 +239,11 @@ Where community policies govern information, such as the CheckUser policy, the r
 
 Back to top
 
-Use of info
+§ Use of info
 
-Types of Information We Receive From You, How We Get It, &. How We Use It
+§Types of Information We Receive From You, How We Get It, &. How We Use It
 
-Your Public Contributions
+§Your Public Contributions
 
 Whatever you post on Wikimedia Sites can be seen and used by everyone.
 
@@ -257,7 +257,7 @@ You should be aware that specific data made public by you or aggregated data tha
 
 Back to top
 
-Account Information &. Registration
+§Account Information &. Registration
 
 You do not need to create an account to use any Wikimedia Site.
 
@@ -277,7 +277,7 @@ To gain a better understanding of the demographics of our users, to localize our
 
 Back to top
 
-Information Related to Your Use of the Wikimedia Sites
+§Information Related to Your Use of the Wikimedia Sites
 
 We may use common technologies to collect information about how you use Wikimedia Sites.
 
@@ -287,7 +287,7 @@ We want to make the Wikimedia Sites better for you by learning more about how yo
 
 Back to top
 
-Information We Receive Automatically
+§Information We Receive Automatically
 
 Like other websites, we receive some information about you automatically when you visit the Wikimedia Sites. This information helps us administer the Wikimedia Sites and enhance your user experience.
 
@@ -297,7 +297,7 @@ Put simply, we use this information to enhance your experience with Wikimedia Si
 
 Back to top
 
-Information We Collect
+§Information We Collect
 
 We use a variety of commonly-used technologies, like cookies, to understand how you use the Wikimedia Sites, make our services safer and easier to use, and to help create a better and more personalized experience for you.
 
@@ -323,7 +323,7 @@ While the examples above concerning information about you collected through the 
 
 Back to top
 
-Emails
+§Emails
 
 If you choose to provide your email address, we will keep it confidential, except as provided in this Policy.
 
@@ -343,7 +343,7 @@ Direct communications between users (such as messages sent through the "Email th
 
 Back to top
 
-Surveys &. Feedback
+§Surveys &. Feedback
 
 We may ask you to provide us with information through a survey or provide feedback, but you will never be obligated to participate.
 
@@ -351,9 +351,9 @@ Participating in optional surveys or providing feedback helps us make the Wikime
 
 Back to top
 
-Location Information
+§Location Information
 
-GPS &. Other Location Technologies
+§GPS &. Other Location Technologies
 
 If you consent, we can use commonly-used location technologies to show you more relevant content.
 
@@ -361,7 +361,7 @@ Some features we offer work better if we know what area you are in. But it's com
 
 Back to top
 
-Metadata
+§Metadata
 
 We may automatically receive location data from your device. For example, if you upload a photo using the Wikimedia Commons mobile app, please be aware that the default setting on your mobile device typically results in the metadata associated with your photo being included in the upload.
 
@@ -369,7 +369,7 @@ Sometimes, we may automatically receive location data from your device. For exam
 
 Back to top
 
-IP Addresses
+§IP Addresses
 
 When you visit any Wikimedia Site, we automatically receive the IP address of the device you are using to access the Internet, which can be used to infer your geographical location.
 
@@ -377,19 +377,19 @@ Finally, when you visit any Wikimedia Site, we automatically receive the IP addr
 
 Back to top
 
-Sharing
+§ Sharing
 
-When May We Share Your Information?
+§When May We Share Your Information?
 
 We may share your information when you give us specific permission to do so.
 
-With Your Permission
+§With Your Permission
 
 We may share your information for a particular purpose, if you agree. You can find more information in the list of examples in our FAQ.
 
 Back to top
 
-For Legal Reasons
+§For Legal Reasons
 
 We will disclose your information in response to an official legal process only if we believe it to be legally valid. We will notify you of such requests when possible.
 
@@ -401,7 +401,7 @@ For more information, see our Subpoena FAQ.
 
 Back to top
 
-If the Organization is Transferred (Really Unlikely!)
+§If the Organization is Transferred (Really Unlikely!)
 
 In the unlikely event that the ownership of the Foundation changes, we will provide you 30 days notice before any personal information is transferred to the new owners or becomes subject to a different privacy policy.
 
@@ -409,7 +409,7 @@ In the extremely unlikely event that ownership of all or substantially all of th
 
 Back to top
 
-To Protect You, Ourselves &. Others
+§To Protect You, Ourselves &. Others
 
 We, or users with certain administrative rights, may disclose information that is reasonably necessary to:
 
@@ -425,7 +425,7 @@ We hope that this never comes up, but we may disclose your personal information 
 
 Back to top
 
-To Our Service Providers
+§To Our Service Providers
 
 We may disclose personal information to our third-party service providers or contractors to help run or improve the Wikimedia Sites and provide services in support of our mission.
 
@@ -433,7 +433,7 @@ As hard as we may try, we can't do it all. So sometimes we use third-party servi
 
 Back to top
 
-To Understand &. Experiment
+§To Understand &. Experiment
 
 We may give volunteer developers and researchers access to systems that contain your information to allow them to protect, develop, and contribute to the Wikimedia Sites.
 
@@ -449,7 +449,7 @@ When we give access to personal information to third-party developers or researc
 
 Back to top
 
-Because You Made It Public
+§Because You Made It Public
 
 Information that you post is public and can been seen and used by everyone.
 
@@ -457,9 +457,9 @@ Any information you post publicly on the Wikimedia Sites is just that – public
 
 Back to top
 
-Protection
+§ Protection
 
-How Do We Protect Your Data?
+§How Do We Protect Your Data?
 
 We use a variety of physical and technical measures, policies, and procedures to help protect your information from unauthorized access, use, or disclosure.
 
@@ -467,7 +467,7 @@ We strive to protect your information from unauthorized access, use, or disclosu
 
 Back to top
 
-How Long Do We Keep Your Data?
+§How Long Do We Keep Your Data?
 
 We only keep your personal information as long as necessary to maintain, understand, and improve the Wikimedia Sites or to comply with U.S. law.
 
@@ -477,11 +477,11 @@ Please remember that certain information is retained and displayed indefinitely,
 
 Back to top
 
-Important info
+§ Important info
 
 **For the protection of the Wikimedia Foundation and other users, if you do not agree with this Privacy Policy, you may not use the Wikimedia Sites.**
 
-Where is the Foundation &. What Does That Mean for Me?
+§Where is the Foundation &. What Does That Mean for Me?
 
 You are consenting to the use of your information in the U.S. and to the transfer of that information to other countries in connection to providing our services to you and others.
 
@@ -489,7 +489,7 @@ The Wikimedia Foundation is a non-profit organization based in San Francisco, Ca
 
 Back to top
 
-Our Response to Do Not Track (DNT) signals
+§Our Response to Do Not Track (DNT) signals
 
 We do not allow tracking by third-party websites you have not visited.
 
@@ -503,7 +503,7 @@ For more information regarding Do Not Track signals and how we handle them, plea
 
 Back to top
 
-Changes to This Privacy Policy
+§Changes to This Privacy Policy
 
 Substantial changes to this Policy will not be made until after a public comment period of at least 30 days.
 
@@ -514,11 +514,11 @@ Because things naturally change over time and we want to ensure our Privacy Poli
 
 We ask that you please review the most up-to-date version of our **Privacy Policy**. Your continued use of the Wikimedia Sites after this Privacy Policy becomes effective constitutes acceptance of this Privacy Policy on your part. Your continued use of the Wikimedia Sites after any subsequent version of this Privacy Policy becomes effective, following notice as outlined above, constitutes acceptance of that version of the Privacy Policy on your part.
 
-Contact Us
+§Contact Us
 
 If you have questions or suggestions about this Privacy Policy, or the information collected under this Privacy Policy, please email us at privacy@wikimedia.org or contact us directly.
 
-Thank You!
+§Thank You!
 
 Thank you for reading our Privacy Policy. We hope you enjoy using the Wikimedia Sites and appreciate your participation in creating, maintaining, and constantly working to improve the largest repository of free knowledge in the world.
 
