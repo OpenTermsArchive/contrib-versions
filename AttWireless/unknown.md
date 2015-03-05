@@ -5,8 +5,8 @@ WIRELESS CUSTOMER AGREEMENT ("Agreement") Documents
 *   ► Wireless
 *   Wireless Customer Agreement
 *   ► Customer Agreement and Plans - GoPhone®
-*   Terms of Service - GoPhone®
 *   Plan Terms - GoPhone®
+*   Terms of Service - GoPhone®
 *   Data Services Agreement
 *   ► Applications, Services, and Features
 *   AllAccess End User License Agreement
