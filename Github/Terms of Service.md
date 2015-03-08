@@ -70,6 +70,8 @@ D. Cancellation and Termination
     
 4.  GitHub, in its sole discretion, has the right to suspend or terminate your account and refuse any and all current or future use of the Service, or any other GitHub service, for any reason at any time. Such termination of the Service will result in the deactivation or deletion of your Account or your access to your Account, and the forfeiture and relinquishment of all Content in your Account. GitHub reserves the right to refuse service to anyone for any reason at any time.
     
+5.  In the event that GitHub takes action to suspend or terminate an account, we will make a reasonable effort to provide the affected account owner with a copy of their account contents upon request, unless the account was suspended or terminated due to unlawful conduct.
+    
 
 E. Modifications to the Service and Prices
 
@@ -129,5 +131,7 @@ G. General Conditions
     
 18.  Map data copyright OpenStreetMap contributors and licensed under the Open Data Commons Open Database License. Map design and imagery subject to the MapBox Terms of Service.
     
+
+Last Updated: March 7, 2015
 
 *   Contact a human
