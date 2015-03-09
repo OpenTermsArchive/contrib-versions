@@ -8,15 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Cannot Find Old Photos Or Posts
-    *   by pshleyanvelt
-    *   25 minutes ago
+*   Imported 0 posts and 0 comments
+    *   by HighPrrrr
+    *   3 minutes ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Cannot Find Old Photos Or Posts
     *   by pshleyanvelt
-    *   25 minutes ago
+    *   23 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Cannot Find Old Photos Or Posts
+    *   by pshleyanvelt
+    *   23 hours ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -25,10 +31,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   5 (last comment by xo\_darkangel\_xo 18 hours ago)
+    *   5 (last comment by xo\_darkangel\_xo 1 day ago)
 *   Why only some of my blog in archive?
     *   by mrsanaluna
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -37,65 +43,59 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 months ago
     *   in Data Migration
     *   0 votes
-    *   9 (last comment by cookiemonsta80 2 days ago)
+    *   9 (last comment by cookiemonsta80 3 days ago)
 *   My old posts?
     *   \[Resolved\] by scaryfairie
     *   4 months ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by bama\_babii\_333 3 days ago)
+    *   4 (last comment by bama\_babii\_333 4 days ago)
 *   Can't start blogging
     *   by drdana
-    *   3 days ago
+    *   4 days ago
     *   in Getting Started
     *   0 votes
     *   0
 *   How can I get my Blogs back?
     *   by Lonley\_xLittle\_xStar
-    *   6 days ago
+    *   1 week ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by Robertson\_Laurel 4 days ago)
+    *   1 (last comment by Robertson\_Laurel 5 days ago)
 *   how can i get the old post
     *   by lokyichan1234
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Process of joining membership?
     *   by yinyamcheung
-    *   4 days ago
+    *   5 days ago
     *   in Premium
     *   0 votes
     *   0
 *   Blog missing
     *   by sweetpea1432
-    *   5 days ago
+    *   6 days ago
     *   in Usernames
     *   0 votes
     *   0
 *   Hello, how do i retrieve my old posts?
     *   by yuuki\_03
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old posts
     *   by trutru127
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How can I get my Blogs back?
     *   by Lonley\_xLittle\_xStar
-    *   6 days ago
-    *   in Themes
-    *   0 votes
-    *   0
-*   how can i get my old post?
-    *   by mamuima
     *   1 week ago
-    *   in Data Migration
+    *   in Themes
     *   0 votes
     *   0
 
