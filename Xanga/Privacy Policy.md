@@ -8,21 +8,39 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   How can I retrieve my data?
+    *   by kaikitarek
+    *   19 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Lost Archive HELP :)
+    *   by Blue\_Moon1
+    *   22 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   I want to pay my premium
+    *   \[Resolved\] by Blue\_Moon1
+    *   4 months ago
+    *   in Premium
+    *   0 votes
+    *   3 (last comment by Blue\_Moon1 22 hours ago)
 *   Imported 0 posts and 0 comments
     *   by HighPrrrr
-    *   3 minutes ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Cannot Find Old Photos Or Posts
     *   by pshleyanvelt
-    *   23 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Cannot Find Old Photos Or Posts
     *   by pshleyanvelt
-    *   23 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -31,10 +49,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   5 (last comment by xo\_darkangel\_xo 1 day ago)
+    *   5 (last comment by xo\_darkangel\_xo 2 days ago)
 *   Why only some of my blog in archive?
     *   by mrsanaluna
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -43,16 +61,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 months ago
     *   in Data Migration
     *   0 votes
-    *   9 (last comment by cookiemonsta80 3 days ago)
+    *   9 (last comment by cookiemonsta80 4 days ago)
 *   My old posts?
     *   \[Resolved\] by scaryfairie
     *   4 months ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by bama\_babii\_333 4 days ago)
+    *   4 (last comment by bama\_babii\_333 5 days ago)
 *   Can't start blogging
     *   by drdana
-    *   4 days ago
+    *   5 days ago
     *   in Getting Started
     *   0 votes
     *   0
@@ -61,41 +79,23 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by Robertson\_Laurel 5 days ago)
+    *   1 (last comment by Robertson\_Laurel 6 days ago)
 *   how can i get the old post
     *   by lokyichan1234
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Process of joining membership?
     *   by yinyamcheung
-    *   5 days ago
+    *   6 days ago
     *   in Premium
     *   0 votes
     *   0
 *   Blog missing
     *   by sweetpea1432
-    *   6 days ago
+    *   1 week ago
     *   in Usernames
-    *   0 votes
-    *   0
-*   Hello, how do i retrieve my old posts?
-    *   by yuuki\_03
-    *   6 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Old posts
-    *   by trutru127
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   How can I get my Blogs back?
-    *   by Lonley\_xLittle\_xStar
-    *   1 week ago
-    *   in Themes
     *   0 votes
     *   0
 
