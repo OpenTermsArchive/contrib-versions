@@ -8,9 +8,7 @@ WIRELESS CUSTOMER AGREEMENT ("Agreement") Documents
 *   Plan Terms - GoPhone®
 *   Terms of Service - GoPhone®
 *   Data Services Agreement
-*   ► Applications, Services, and Features
-*   AllAccess End User License Agreement
-*   Passport End User License Agreement
+*   Applications, Services, and Features
 *   ► Policies and Processes
 *   AT&T Maps and Coverage Area Information
 *   Upgrade Advantage(SM)
