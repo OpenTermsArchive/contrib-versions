@@ -83,7 +83,7 @@ Our Services allow messaging and sharing of information in many ways, such as yo
 
 We are not obligated to publish any information or content on our Service and can remove it in our sole discretion, with or without notice.
 
-Back to Top 3. Rights and Limits 3.1. Your License to Linkedin
+Back to Top 3. Rights and Limits 3.1. Your License to LinkedIn
 
 You own all of the content, feedback, and personal information you provide to us, but you also grant us a non-exclusive license to it.
 
@@ -160,7 +160,7 @@ We can each end this Agreement anytime we want.
 LinkedIn or You may terminate this Agreement at any time with notice to the other. On termination, you lose the right to access or use the Services. The following shall survive termination:
 
 *   Our rights to use and disclose your feedback;
-*   Members and/or Visitors'r rights to further re-share content and information you shared through the Service to the extent copied or re-shared prior to termination;
+*   Members' and/or Visitors' rights to further re-share content and information you shared through the Service to the extent copied or re-shared prior to termination;
 *   Sections 4, 6 and 7 of this Agreement;
 *   Any amounts owed by either party prior to termination remain owed after termination.
 
