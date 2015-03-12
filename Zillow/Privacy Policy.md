@@ -246,7 +246,7 @@ Zillow Group will not knowingly collect personally identifiable information from
 
 Storage, Security and Retention of Information
 
-Personal Information will be processed and stored by Zillow Group in databases hosted in the United States. Zillow Group has taken reasonable steps to protect the information users share with us, including, but not limited to, setup of processes, equipment and software to avoid unauthorized access or disclosure of this information. No transmission of information via the Internet can be entirely secure, however, so please always use caution when submitting Personal Information.
+You acknowledge that Personal Information will be processed and stored by Zillow Group in databases hosted in the United States. Zillow Group has taken reasonable steps to protect the information users share with us, including, but not limited to, setup of processes, equipment and software to avoid unauthorized access or disclosure of this information. No transmission of information via the Internet can be entirely secure, however, so please always use caution when submitting Personal Information.
 
 We will retain your Personal Information for as long as you have an active account, as needed to provide you with the Services, to comply with our legal, financial reporting, or compliance obligations, and to enforce this privacy policy.
 
@@ -258,7 +258,7 @@ If you have any questions about this privacy statement, or the privacy practices
 
 Please note that this policy may be amended from time to time. You should check back for the most current version before relying on any of the provisions in this privacy policy. By using the Services, you agree to the terms of this Privacy Policy.
 
-_— Updated February 2015_
+_— Updated March 2015_
 
 *   About
 *   Zestimates
