@@ -8,27 +8,39 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   moving "new entries" into wordpress?
-    *   \[Resolved\] by Mr\_Tomcat
-    *   2 months ago
+*   how to upgrade to Xanga 2.0?
+    *   by katiekittyks
+    *   13 minutes ago
     *   in Data Migration
     *   0 votes
-    *   5 (last comment by Mr\_Tomcat 20 hours ago)
+    *   0
+*   Imported 0 posts and 0 comments
+    *   \[Resolved\] by HighPrrrr
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 10 hours ago)
+*   How can I retrieve my data?
+    *   \[Resolved\] by kaikitarek
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 10 hours ago)
 *   Linking name for easier finding
     *   \[Resolved\] by Blue\_Moon1
     *   4 months ago
     *   in Usernames
     *   0 votes
-    *   2 (last comment by Blue\_Moon1 21 hours ago)
-*   How can I retrieve my data?
-    *   by kaikitarek
-    *   1 day ago
+    *   3 (last comment by eugenia 11 hours ago)
+*   moving "new entries" into wordpress?
+    *   \[Resolved\] by Mr\_Tomcat
+    *   2 months ago
     *   in Data Migration
     *   0 votes
-    *   0
+    *   6 (last comment by eugenia 11 hours ago)
 *   Lost Archive HELP :)
     *   by Blue\_Moon1
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -37,22 +49,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 months ago
     *   in Premium
     *   0 votes
-    *   3 (last comment by Blue\_Moon1 1 day ago)
-*   Imported 0 posts and 0 comments
-    *   by HighPrrrr
-    *   2 days ago
+    *   3 (last comment by Blue\_Moon1 2 days ago)
+*   Cannot Find Old Photos Or Posts
+    *   by pshleyanvelt
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Cannot Find Old Photos Or Posts
     *   by pshleyanvelt
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Cannot Find Old Photos Or Posts
-    *   by pshleyanvelt
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -61,10 +67,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   5 (last comment by xo\_darkangel\_xo 3 days ago)
+    *   5 (last comment by xo\_darkangel\_xo 4 days ago)
 *   Why only some of my blog in archive?
     *   by mrsanaluna
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -73,16 +79,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 months ago
     *   in Data Migration
     *   0 votes
-    *   9 (last comment by cookiemonsta80 5 days ago)
+    *   9 (last comment by cookiemonsta80 6 days ago)
 *   My old posts?
     *   \[Resolved\] by scaryfairie
     *   4 months ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by bama\_babii\_333 6 days ago)
+    *   4 (last comment by bama\_babii\_333 1 week ago)
 *   Can't start blogging
     *   by drdana
-    *   6 days ago
+    *   1 week ago
     *   in Getting Started
     *   0 votes
     *   0
@@ -92,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Themes
     *   0 votes
     *   1 (last comment by Robertson\_Laurel 1 week ago)
-*   how can i get the old post
-    *   by lokyichan1234
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
 1 2 3 ... 149 Next
 
