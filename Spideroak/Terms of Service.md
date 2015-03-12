@@ -12,7 +12,7 @@ This Site, including all text, images, software and other content contained here
 
 Trademarks
 
-All SpiderOak marks, graphics, logos, designs and trade names used and displayed on this Site are service marks or trademarks of SpiderOak and are the sole and exclusive property of SpiderOak. The "look and feel" of this Site constitutes proprietary trade dress of SpiderOak. all other trademarks not owned by SpiderOak that appear on this site are the property of their respective owners. you may not use any such marks for any purpose whatsoever without the express prior written permission of the owner.
+All SpiderOak marks, graphics, logos, designs and trade names used and displayed on this Site are service marks or trademarks of SpiderOak and are the sole and exclusive property of SpiderOak. The "look and feel" of this Site constitutes proprietary trade dress of SpiderOak. All other trademarks not owned by SpiderOak that appear on this site are the property of their respective owners. You may not use any such marks for any purpose whatsoever without the express prior written permission of the owner.
 
 SpiderOak Intellectual Property
 
