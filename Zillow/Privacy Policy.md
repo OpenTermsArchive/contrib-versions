@@ -98,7 +98,7 @@ Home design
         *   Bedrooms
     *   *   Dining rooms
         *   Entryways
-        *   Gardens
+        *   Landscape Yard
     *   *   Great rooms
         *   Home offices
         *   Kitchens
