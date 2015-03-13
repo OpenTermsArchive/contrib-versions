@@ -1,4 +1,4 @@
-**Last Updated: January 29, 2013**
+**Last Updated: March 12, 2015**
 
 FOURSQUARE LABS, INC. TERMS OF USE
 
@@ -14,7 +14,7 @@ Subject to these Terms of Use, Foursquare may offer to provide the Services, as 
 
 Registration and Eligibility.
 
-You may browse the Site and view Content without registering, but as a condition to using certain aspects of the Service, you are required to register with Foursquare and represent, warrant and covenant that you provide Foursquare with accurate and complete registration information (including, but not limited to a user name ("User Name"), e-mail address and a password you will use to access the Service) and to keep your registration information accurate and up-to-date. Failure to do so shall constitute a breach of these Terms of Use, which may result in immediate termination of your Foursquare account. We recommend, but do not require, that you use your own name as your User Name so your friends can recognize you more easily.
+You may browse the Site and view Content without registering, but as a condition to using certain aspects of the Service, you are required to register with Foursquare and represent, warrant and covenant that you provide Foursquare with accurate and complete registration information (including, but not limited to a user name ("User Name"), e-mail address and/or mobile telephone number and a password you will use to access the Service) and to keep your registration information accurate and up-to-date. Failure to do so shall constitute a breach of these Terms of Use, which may result in immediate termination of your Foursquare account. We recommend, but do not require, that you use your own name as your User Name so your friends can recognize you more easily.
 
 You shall not:
 
@@ -26,6 +26,8 @@ You shall not:
 Foursquare reserves the right to refuse registration of, or cancel a User Name in its sole discretion. You are solely responsible and liable for activity that occurs on your account and shall be responsible for maintaining the confidentiality of your Foursquare password. You shall never use another user's account without such other user's prior express permission. You will immediately notify Foursquare in writing of any unauthorized use of your account, or other account related security breach of which you are aware.
 
 You represent and warrant that if you are an individual, you are of legal age to form a binding contract, or that if you are registering on behalf of an entity, that you are authorized to enter into, and bind the entity to, these Terms of Use and register for the Service. The Service is not available to individuals who are younger than 13 years old. Foursquare may, in its sole discretion, refuse to offer the Service to any person or entity and change its eligibility criteria at any time. You are solely responsible for ensuring that these Terms of Use are in compliance with all laws, rules and regulations applicable to you and the right to access the Service is revoked where these Terms of Use or use of the Service is prohibited and, in such circumstances, you agree not to use or access the Site or Services in any way.
+
+If you use a mobile device, please be aware that your carrier's normal rates and fees, such as text messaging and data charges, will still apply. In the event you change or deactivate your mobile telephone number, you agree that you will update your account information on the Services within 48 hours to ensure that your messages are not sent to the person who acquires your old number.
 
 Content.
 
