@@ -69,6 +69,7 @@ Find An Agent
     *   Home
     *   Motorcycle
     *   Renters
+    *   Life &. Retirement
     *   Power Sports
     *   Business Insurance
 *   My Account Login Log in to My Account: User Name Password Password Forgot user ID? Forgot password? Log In Create an account
@@ -114,6 +115,7 @@ Toggle mobileNavigation Log in
     *   Home
     *   Motorcycle
     *   Renters
+    *   Life &. Retirement
     *   Power Sports
     *   Business Insurance
 *   My Account Login
@@ -393,7 +395,7 @@ Retrieve a saved quote
 Agents Near 80202
 
 *   Denise Hoffman 303-628-0554 535 16th St # 350 Denver, CO 80202 Visit website
-*   James Barthelemy 303-948-9879 1940 Blake St Ste 105 Denver, CO 80202 Visit website
+*   J T Barthelemy 303-948-9879 1940 Blake St Ste 105 Denver, CO 80202 Visit website
 *   K.D. Sakraida 303-433-2094 1932 W 33rd Ave Denver, CO 80211 Visit website
 *   Lou Toth 303-752-2999 1800 Gaylord St Denver, CO 80206 Visit website
 *   Dan Jensen 303-755-2600 616 Washington St Ste 106 Denver, CO 80203 Visit website
@@ -406,7 +408,7 @@ Agents Near 80202
 Previous
 
 *   Denise Hoffman 535 16th St # 350 Denver, CO 80202 WEBSITE
-*   James Barthelemy 1940 Blake St Ste 105 Denver, CO 80202 WEBSITE
+*   J T Barthelemy 1940 Blake St Ste 105 Denver, CO 80202 WEBSITE
 *   K.D. Sakraida 1932 W 33rd Ave Denver, CO 80211 WEBSITE
 *   Lou Toth 1800 Gaylord St Denver, CO 80206 WEBSITE
 *   Dan Jensen 616 Washington St Ste 106 Denver, CO 80203 WEBSITE
