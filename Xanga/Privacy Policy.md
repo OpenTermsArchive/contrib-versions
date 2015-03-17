@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Xanga subscription expired
-    *   by new\_hand
-    *   1 day ago
-    *   in Themes
+*   also expired
+    *   by jenilyn
+    *   1 hour ago
+    *   in Data Migration
     *   0 votes
-    *   0
+    *   1 (last comment by jenilyn 1 hour ago)
+*   Some pictures lost after 2.0 Migration.
+    *   by SusanPienHsu
+    *   1 year ago
+    *   in Pictures
+    *   0 votes
+    *   9 (last comment by bamrocksnc 5 hours ago)
+*   Why only some of my blog in archive?
+    *   \[Resolved\] by mrsanaluna
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by Superbuds 6 hours ago)
+*   Can't start blogging
+    *   by drdana
+    *   1 week ago
+    *   in Getting Started
+    *   0 votes
+    *   1 (last comment by eugenia 8 hours ago)
+*   how to upgrade to Xanga 2.0?
+    *   \[Resolved\] by katiekittyks
+    *   5 days ago
+    *   in Data Migration
+    *   0 votes
+    *   3 (last comment by eugenia 8 hours ago)
 *   Can't see any old posts
     *   \[Resolved\] by oOheathero7
     *   2 months ago
     *   in Themes
     *   0 votes
-    *   2 (last comment by LINGLING\_918 2 days ago)
-*   how to upgrade to Xanga 2.0?
-    *   \[Resolved\] by katiekittyks
-    *   4 days ago
+    *   3 (last comment by eugenia 8 hours ago)
+*   Xanga subscription expired
+    *   \[Resolved\] by new\_hand
+    *   2 days ago
+    *   in Themes
+    *   0 votes
+    *   1 (last comment by eugenia 9 hours ago)
+*   Cannot Find Old Photos Or Posts
+    *   \[Resolved\] by pshleyanvelt
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by katiekittyks 2 days ago)
+    *   1 (last comment by eugenia 9 hours ago)
 *   Imported 0 posts and 0 comments
     *   \[Resolved\] by HighPrrrr
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
+    *   1 (last comment by eugenia 5 days ago)
 *   How can I retrieve my data?
     *   \[Resolved\] by kaikitarek
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
+    *   1 (last comment by eugenia 5 days ago)
 *   Linking name for easier finding
     *   \[Resolved\] by Blue\_Moon1
     *   4 months ago
     *   in Usernames
     *   0 votes
-    *   3 (last comment by eugenia 4 days ago)
+    *   3 (last comment by eugenia 5 days ago)
 *   moving "new entries" into wordpress?
     *   \[Resolved\] by Mr\_Tomcat
     *   2 months ago
     *   in Data Migration
     *   0 votes
-    *   6 (last comment by eugenia 4 days ago)
-*   Lost Archive HELP :)
-    *   by Blue\_Moon1
-    *   6 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
+    *   6 (last comment by eugenia 5 days ago)
 *   I want to pay my premium
     *   \[Resolved\] by Blue\_Moon1
     *   5 months ago
     *   in Premium
     *   0 votes
-    *   3 (last comment by Blue\_Moon1 6 days ago)
-*   Cannot Find Old Photos Or Posts
-    *   by pshleyanvelt
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Cannot Find Old Photos Or Posts
-    *   by pshleyanvelt
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
+    *   3 (last comment by Blue\_Moon1 1 week ago)
 *   My old posts.
     *   \[Resolved\] by xo\_darkangel\_xo
     *   1 year ago
     *   in Data Migration
     *   0 votes
     *   5 (last comment by xo\_darkangel\_xo 1 week ago)
-*   Why only some of my blog in archive?
-    *   by mrsanaluna
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   4 months ago
     *   in Data Migration
     *   0 votes
     *   9 (last comment by cookiemonsta80 1 week ago)
-*   My old posts?
-    *   \[Resolved\] by scaryfairie
-    *   4 months ago
-    *   in Data Migration
-    *   0 votes
-    *   4 (last comment by bama\_babii\_333 1 week ago)
 
 1 2 3 ... 149 Next
 
