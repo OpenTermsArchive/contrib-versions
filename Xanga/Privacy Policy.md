@@ -10,82 +10,82 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   how to upgrade to Xanga 2.0?
     *   \[Resolved\] by katiekittyks
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by katiekittyks 13 hours ago)
+    *   4 (last comment by katiekittyks 1 day ago)
 *   Xanga subscription expired
     *   \[Resolved\] by new\_hand
-    *   3 days ago
+    *   4 days ago
     *   in Themes
     *   0 votes
-    *   2 (last comment by new\_hand 18 hours ago)
+    *   2 (last comment by new\_hand 1 day ago)
 *   I really need all of my old blogs!
     *   by infinityx\_onhigh
-    *   23 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   also expired
     *   by jenilyn
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by jenilyn 1 day ago)
+    *   1 (last comment by jenilyn 2 days ago)
 *   Some pictures lost after 2.0 Migration.
     *   by SusanPienHsu
     *   1 year ago
     *   in Pictures
     *   0 votes
-    *   9 (last comment by bamrocksnc 1 day ago)
+    *   9 (last comment by bamrocksnc 2 days ago)
 *   Why only some of my blog in archive?
     *   \[Resolved\] by mrsanaluna
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by Superbuds 1 day ago)
+    *   2 (last comment by Superbuds 2 days ago)
 *   Can't start blogging
     *   by drdana
-    *   1 week ago
+    *   2 weeks ago
     *   in Getting Started
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   Can't see any old posts
     *   \[Resolved\] by oOheathero7
-    *   2 months ago
+    *   3 months ago
     *   in Themes
     *   0 votes
-    *   3 (last comment by eugenia 1 day ago)
+    *   3 (last comment by eugenia 2 days ago)
 *   Cannot Find Old Photos Or Posts
     *   \[Resolved\] by pshleyanvelt
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   Imported 0 posts and 0 comments
     *   \[Resolved\] by HighPrrrr
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   How can I retrieve my data?
     *   \[Resolved\] by kaikitarek
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   Linking name for easier finding
     *   \[Resolved\] by Blue\_Moon1
     *   4 months ago
     *   in Usernames
     *   0 votes
-    *   3 (last comment by eugenia 6 days ago)
+    *   3 (last comment by eugenia 1 week ago)
 *   moving "new entries" into wordpress?
     *   \[Resolved\] by Mr\_Tomcat
     *   2 months ago
     *   in Data Migration
     *   0 votes
-    *   6 (last comment by eugenia 6 days ago)
+    *   6 (last comment by eugenia 1 week ago)
 *   I want to pay my premium
     *   \[Resolved\] by Blue\_Moon1
     *   5 months ago
