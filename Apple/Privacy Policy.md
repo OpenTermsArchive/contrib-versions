@@ -1,7 +1,5 @@
   
-**The Apple Privacy Policy was updated on September 17, 2014.** The changes were made predominantly to cover new features that will be released with iOS 8 or to provide additional information on current data use such as date of birth and third party user data provided by our users (for example when sending products or gift certificates). None of the changes are retroactive.   
-  
-We added language to cover Spotlight Suggestions, Analytics, Family Sharing and AppleID for users under the age of 13 or equivalent age in their countries. Finally, we added a description of technologies used by location-based services, including GPS, Bluetooth, IP address, and crowd-source wi-fi hotspot and cell tower locations.
+**The Apple Privacy Policy was updated on September 17, 2014.**
 
 Your privacy is important to Apple. So we’ve developed a Privacy Policy  
 that covers how we collect, use, disclose, transfer, and store your information.   
@@ -134,7 +132,5 @@ All such communications are examined and replies issued where appropriate as soo
 Apple may update its Privacy Policy from time to time. When we change the policy in a material way, a notice will be posted on our website along with the updated Privacy Policy.
 
 Apple Inc. 1 Infinite Loop, Cupertino, California, USA, 95014
-
-http://support.apple.com/kb/HT4228
 
 Last updated: 17 September, 2014
