@@ -8,60 +8,66 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Please help restore my old blogs &. photos and let me download it again..
+    *   by bear\_elle
+    *   10 hours ago
+    *   in Adding &. Editing Entries
+    *   0 votes
+    *   0
 *   how to upgrade to Xanga 2.0?
     *   \[Resolved\] by katiekittyks
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by katiekittyks 2 days ago)
+    *   4 (last comment by katiekittyks 3 days ago)
 *   Xanga subscription expired
     *   \[Resolved\] by new\_hand
-    *   5 days ago
+    *   6 days ago
     *   in Themes
     *   0 votes
-    *   2 (last comment by new\_hand 2 days ago)
+    *   2 (last comment by new\_hand 3 days ago)
 *   I really need all of my old blogs!
     *   by infinityx\_onhigh
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   also expired
     *   by jenilyn
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by jenilyn 3 days ago)
+    *   1 (last comment by jenilyn 4 days ago)
 *   Some pictures lost after 2.0 Migration.
     *   by SusanPienHsu
     *   1 year ago
     *   in Pictures
     *   0 votes
-    *   9 (last comment by bamrocksnc 3 days ago)
+    *   9 (last comment by bamrocksnc 4 days ago)
 *   Why only some of my blog in archive?
     *   \[Resolved\] by mrsanaluna
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by Superbuds 3 days ago)
+    *   2 (last comment by Superbuds 4 days ago)
 *   Can't start blogging
     *   by drdana
     *   2 weeks ago
     *   in Getting Started
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   Can't see any old posts
     *   \[Resolved\] by oOheathero7
     *   3 months ago
     *   in Themes
     *   0 votes
-    *   3 (last comment by eugenia 3 days ago)
+    *   3 (last comment by eugenia 4 days ago)
 *   Cannot Find Old Photos Or Posts
     *   \[Resolved\] by pshleyanvelt
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   Imported 0 posts and 0 comments
     *   \[Resolved\] by HighPrrrr
     *   1 week ago
@@ -92,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Premium
     *   0 votes
     *   3 (last comment by Blue\_Moon1 1 week ago)
-*   My old posts.
-    *   \[Resolved\] by xo\_darkangel\_xo
-    *   1 year ago
-    *   in Data Migration
-    *   0 votes
-    *   5 (last comment by xo\_darkangel\_xo 1 week ago)
 
 1 2 3 ... 149 Next
 
