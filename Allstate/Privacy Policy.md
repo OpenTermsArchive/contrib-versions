@@ -157,7 +157,7 @@ Home >. Allstate Overview >. Privacy Statement AIC
 
 Text Size
 
-  A A A allstate.com ﻿ Important Notice Privacy Policy Statement
+  A A A allstate.com ﻿Important Notice Privacy Policy Statement
 
   
   
@@ -455,7 +455,7 @@ All Rights Reserved
 *   SITE MAP
 *   AD CHOICES
 
-Oops! You have entered an invalid ZIP. Please, try again. ZIP Code: Cancel City, Sate
+Oops! You have entered an invalid ZIP. Please, try again. ZIP Code: Cancel City, State
 
 Denver, CO
 
