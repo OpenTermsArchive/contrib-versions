@@ -16,7 +16,7 @@ Hi,
     *   Source Products &. Suppliers
     *   By Category
     *   Get Quotations
-    *   wholesale
+    *   Wholesale
     *   Trade Services
     *   Business Identity
     *   Trade Assurance
@@ -192,7 +192,7 @@ Alibaba.com Site: International - Español - Português - Deutsch - Français - 
 Alibaba Group | Taobao Marketplace | Tmall.com | Juhuasuan | AliExpress | Alibaba.com | 1688.com | Alimama | Alitrip  
 Alibaba Cloud Computing | YunOS | AliTelecom | HiChina | Autonavi | UCWeb | Umeng | Kanbox | Xiami | TTPod | Laiwang | DingTalk | 11 Main | Alipay
 
-Browse Alphabetically: Showroom | Country Search | Manufacturers | Suppliers | Promotion | wholesale
+Browse Alphabetically: Showroom | Country Search | Manufacturers | Suppliers | Promotion | Wholesale
 
 Product Listing Policy - Intellectual Property Policy and Infringement Claims - Privacy Policy - Terms of Use
 
