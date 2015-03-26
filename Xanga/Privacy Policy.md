@@ -8,9 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   How to access my old blog?
+    *   by joyagirl12
+    *   13 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Help Me Find My Page Please
+    *   by brewie\_0074
+    *   21 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Old Xanga from about 10 years ago
     *   by johnnylai423
-    *   6 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,34 +31,34 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by davedave84 1 day ago)
+    *   2 (last comment by davedave84 2 days ago)
 *   posts missing
     *   \[Resolved\] by serendipity805
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   6 (last comment by rabbitmary 2 days ago)
+    *   6 (last comment by rabbitmary 3 days ago)
 *   UPGRADED PICTURES
     *   by ann\_Laurel
-    *   3 days ago
+    *   4 days ago
     *   in Pictures
     *   0 votes
     *   0
 *   where is my old blog
     *   by LutyLouis
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help restore my old blogs &. photos and let me download it again..
     *   by bear\_elle
-    *   4 days ago
+    *   5 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   how to upgrade to Xanga 2.0?
     *   \[Resolved\] by katiekittyks
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   4 (last comment by katiekittyks 1 week ago)
@@ -82,24 +94,12 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 (last comment by Superbuds 1 week ago)
 *   Can't start blogging
     *   by drdana
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Getting Started
     *   0 votes
     *   1 (last comment by eugenia 1 week ago)
-*   Can't see any old posts
-    *   \[Resolved\] by oOheathero7
-    *   3 months ago
-    *   in Themes
-    *   0 votes
-    *   3 (last comment by eugenia 1 week ago)
-*   Cannot Find Old Photos Or Posts
-    *   \[Resolved\] by pshleyanvelt
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
 
-1 2 3 ... 149 Next
+1 2 3 ... 150 Next
 
 Help Categories
 
