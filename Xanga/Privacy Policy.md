@@ -10,25 +10,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   how to see my old blog?
     *   by setolubkary
-    *   4 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How to access my old blog?
     *   by joyagirl12
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Help Me Find My Page Please
     *   by brewie\_0074
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Xanga from about 10 years ago
     *   by johnnylai423
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -37,28 +37,28 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by davedave84 3 days ago)
+    *   2 (last comment by davedave84 4 days ago)
 *   posts missing
     *   \[Resolved\] by serendipity805
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   6 (last comment by rabbitmary 4 days ago)
+    *   6 (last comment by rabbitmary 5 days ago)
 *   UPGRADED PICTURES
     *   by ann\_Laurel
-    *   5 days ago
+    *   6 days ago
     *   in Pictures
     *   0 votes
     *   0
 *   where is my old blog
     *   by LutyLouis
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help restore my old blogs &. photos and let me download it again..
     *   by bear\_elle
-    *   6 days ago
+    *   1 week ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
@@ -94,7 +94,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   9 (last comment by bamrocksnc 1 week ago)
 *   Why only some of my blog in archive?
     *   \[Resolved\] by mrsanaluna
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   2 (last comment by Superbuds 1 week ago)
