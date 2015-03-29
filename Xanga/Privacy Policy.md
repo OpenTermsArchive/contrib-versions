@@ -8,27 +8,45 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Hi Eugenia
+    *   by Gustava
+    *   8 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Hi Eugenia
+    *   by Gustava
+    *   8 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Archive request for old high school blog
+    *   by thestevie
+    *   15 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   how to see my old blog?
     *   by setolubkary
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How to access my old blog?
     *   by joyagirl12
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Help Me Find My Page Please
     *   by brewie\_0074
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Xanga from about 10 years ago
     *   by johnnylai423
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -37,22 +55,22 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by davedave84 4 days ago)
+    *   2 (last comment by davedave84 5 days ago)
 *   posts missing
     *   \[Resolved\] by serendipity805
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   6 (last comment by rabbitmary 5 days ago)
+    *   6 (last comment by rabbitmary 6 days ago)
 *   UPGRADED PICTURES
     *   by ann\_Laurel
-    *   6 days ago
+    *   1 week ago
     *   in Pictures
     *   0 votes
     *   0
 *   where is my old blog
     *   by LutyLouis
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -70,7 +88,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 (last comment by katiekittyks 1 week ago)
 *   Xanga subscription expired
     *   \[Resolved\] by new\_hand
-    *   1 week ago
+    *   2 weeks ago
     *   in Themes
     *   0 votes
     *   2 (last comment by new\_hand 1 week ago)
@@ -80,24 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   also expired
-    *   by jenilyn
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by jenilyn 1 week ago)
-*   Some pictures lost after 2.0 Migration.
-    *   by SusanPienHsu
-    *   1 year ago
-    *   in Pictures
-    *   0 votes
-    *   9 (last comment by bamrocksnc 1 week ago)
-*   Why only some of my blog in archive?
-    *   \[Resolved\] by mrsanaluna
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by Superbuds 1 week ago)
 
 1 2 3 ... 150 Next
 
