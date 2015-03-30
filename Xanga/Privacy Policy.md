@@ -10,43 +10,43 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Hi Eugenia
     *   by Gustava
-    *   8 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Hi Eugenia
     *   by Gustava
-    *   8 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Archive request for old high school blog
     *   by thestevie
-    *   15 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   how to see my old blog?
     *   by setolubkary
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How to access my old blog?
     *   by joyagirl12
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Help Me Find My Page Please
     *   by brewie\_0074
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Xanga from about 10 years ago
     *   by johnnylai423
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -55,13 +55,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by davedave84 5 days ago)
+    *   2 (last comment by davedave84 6 days ago)
 *   posts missing
     *   \[Resolved\] by serendipity805
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   6 (last comment by rabbitmary 6 days ago)
+    *   6 (last comment by rabbitmary 1 week ago)
 *   UPGRADED PICTURES
     *   by ann\_Laurel
     *   1 week ago
