@@ -295,13 +295,13 @@ The Recurring Products include:
 
 **10.3** Ratable Products
 
-**10.3.1 Calling phones:** If You have not purchased a Subscription, then the ability to call phones is a Ratable Product, with charges consisting of a connection fee and a per-minute rate as set out on http://www.skype.com/en/rates/. The duration of a call for calling phones shall be based on one-minute increments. Fractions of minutes will be rounded up to the next minute. The connection fee, where applicable, will be charged when the call is answered.
+**10.3.1 Calling phones:** If You have not purchased a Subscription, then the ability to call phones is a Ratable Product, with charges consisting of a connection fee and a per-minute rate as set out on https://go.skype.com/prices. The duration of a call for calling phones shall be based on one-minute increments. Fractions of minutes will be rounded up to the next minute. The connection fee, where applicable, will be charged when the call is answered.
 
 **10.3.2 Premium rate numbers.** The duration of a call for calling premium rate numbers shall be based on one-minute increments. Fractions of minutes will be rounded up to the next minute. The connection fee, where applicable, will be charged at the beginning of the call.
 
 **10.3.3 Calls over Skype Connect:** The ability to call phones over a SIP Profile is a Ratable Product (except where calls are made using a US Minute Bundle). Rates for calling phones at http://www.skype.com/go/business.sip.pricing are payable for all outgoing calls made using Skype Connect. The minimum duration of a Skype Connect call is 30 seconds and the calling rate for the first 30 seconds is charged in advance, when the call is answered. After the first 30 seconds, Skype Connect calls are charged, in advance, at increments of 6 seconds thereafter. Fractions of less than 6 seconds will be rounded up. Skype Connect calls do not incur any additional connection fees.
 
-**10.3.4 SMS.** The charges payable for sending SMS consist of a per-message rate as set out at http://www.skype.com/en/rates/ .
+**10.3.4 SMS.** The charges payable for sending SMS consist of a per-message rate as set out at https://go.skype.com/prices.
 
 **10.3.5 Skype WiFi.** The charges payable for use of this Skype Product are set out at: www.skype.com/en/features/skype-wifi. Skype charges fractional usage charges in thousandths of a cent for all Ratable Products During the call, charges incurred will be applied automatically against the User Account from which the call is being made. In Your Users’ Skype Accounts and in Skype Manager, Skype will display charging information rounded up to the nearest cent. When the underlying charged value is €0.00500 or more, the display will round this up to the nearest cent, whereas when the underlying charged value is less than €0.00500, the display will round this down to the nearest cent unless otherwise stated.
 
@@ -341,7 +341,7 @@ The Recurring Products include:
 
 **10.5 Change of Charges and Tariffs**
 
-**10.5.1** Skype may change the rates for calling phones, including via Skype Connect, and premium rate numbers at any time without notice to You by posting such change at http://www.skype.com/intl/en/rates/ and http://www.skype.com/go/business.sip.pricing. The new rate will apply to Your next purchase after the new rates have been published. Please check the latest rates before You make Your call. If You do not accept the new rates, do not make Your call.
+**10.5.1** Skype may change the rates for calling phones, including via Skype Connect, and premium rate numbers at any time without notice to You by posting such change at https://go.skype.com/prices and http://www.skype.com/go/business.sip.pricing. The new rate will apply to Your next purchase after the new rates have been published. Please check the latest rates before You make Your call. If You do not accept the new rates, do not make Your call.
 
 **10.5.2** Skype may change the charges payable for the purchase of Recurring Products (such as Skype Numbers) at any time without any notice to You. You can choose whether or not to accept the new charges prior to completing Your next purchase of the applicable Skype Product. The new charge will apply to Your next purchase after the adjustments have been published on the Skype Website. You agree that by continuing to use the Skype Products following the adjustments of the charges, You accept the new charges.
 
