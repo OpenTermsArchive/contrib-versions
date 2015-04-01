@@ -127,7 +127,9 @@ C. Entire Agreement
 
 These Terms, the Twitter Rules and our Privacy Policy are the entire and exclusive agreement between Twitter and you regarding the Services (excluding any services for which you have a separate agreement with Twitter that is explicitly in addition or in place of these Terms), and these Terms supersede and replace any prior agreements between Twitter and you regarding the Services. Other than members of the group of companies of which Twitter, Inc. is the parent, no other person or company will be third party beneficiaries to the Terms.
 
-We may revise these Terms from time to time, the most current version will always be at twitter.com/tos. If the revision, in our sole discretion, is material we will notify you via an @Twitter update or e-mail to the email associated with your account. By continuing to access or use the Services after those revisions become effective, you agree to be bound by the revised Terms.
+We may revise these Terms from time to time, the most current version will always be at twitter.com/tos
+
+. If the revision, in our sole discretion, is material we will notify you via an @Twitter update or e-mail to the email associated with your account. By continuing to access or use the Services after those revisions become effective, you agree to be bound by the revised Terms.
 
 These Services are operated and provided by Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103. If you have any questions about these Terms, please contact us.
 
