@@ -1,4 +1,4 @@
-Flickr Community Guidelines NEW
+Flickr Community Guidelines
 
 **Flickr accounts are intended for members to share original photos and video that they themselves have created.**
 
