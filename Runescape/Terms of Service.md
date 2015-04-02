@@ -113,6 +113,17 @@ You will comply with and be bound by the policies and rules of a Jagex Product r
 
 We reserve the right without notice or refund to record, suspend, remove or delete User Content or to disclose to the relevant authorities any User Content if: (a) it is the subject of a complaint. (b) if we consider that it breaches our terms and conditions (including our content standards policy) or the rules of a Jagex Product. (c) if we consider that such steps are necessary to protect us or others. (d) a criminal act or civil wrong has been committed. or (e) we are required to do so by law or an appropriate authority.
 
+If you wish to notify Jagex of an allegedly defamatory statement contained on this website or you believe that material has been dealt with in a way which constitutes infringement of your intellectual property rights, please write to our registered office above stating the following:
+
+1.  Your contact details, including your full name, player name (if applicable), your postal address, telephone number and email address.
+2.  The full details of the material complained about and the reasons for the complaint.
+3.  The exact and full url where you found the material.
+4.  If the request relates to copyright, provide proof that you are the rights holder and a statement that, under penalty of perjury, you are the rights holder \[or an authorised representative\].
+
+Please mark the letter for the attention of the Customer Support Infringement Team and ensure the letter is signed and dated.
+
+You have the ability to remove content which you have posted on a Jagex Product forum. This can be done through the editing features within the Jagex Product. If you would like assistance with this, please contact Jagex via the customer support section of the website. You should be aware that removing content from public display may not ensure the complete or comprehensive deletion of the posted content.
+
 11\. Content standards policy
 
 This content standards policy sets out our requirements which apply to your User Content. This policy applies in addition to web page specific User Content policies, such as any policies on forum posts, in-game chat and private messaging or other policies on our websites from time to time.
@@ -391,6 +402,17 @@ You must comply with the current version of any rules, guidelines, codes of cond
 You will comply with and be bound by the policies and rules of a Jagex Product relating to User Content, including our content standards policy below.
 
 We reserve the right without notice or refund to record, suspend, remove or delete User Content or to disclose to the relevant authorities any User Content if: (a) it is the subject of a complaint. (b) if we consider that it breaches our terms and conditions (including our content standards policy) or the rules of a Jagex Product. (c) if we consider that such steps are necessary to protect us or others. (d) a criminal act or civil wrong has been committed. or (e) we are required to do so by law or an appropriate authority.
+
+If you wish to notify Jagex of an allegedly defamatory statement contained on this website or you believe that material has been dealt with in a way which constitutes infringement of your intellectual property rights, please write to our registered office above stating the following:
+
+1.  Your contact details, including your full name, player name (if applicable), your postal address, telephone number and email address.
+2.  The full details of the material complained about and the reasons for the complaint.
+3.  The exact and full url where you found the material.
+4.  If the request relates to copyright, provide proof that you are the rights holder and a statement that, under penalty of perjury, you are the rights holder \[or an authorised representative\].
+
+Please mark the letter for the attention of the Customer Support Infringement Team and ensure the letter is signed and dated.
+
+You have the ability to remove content which you have posted on a Jagex Product forum. This can be done through the editing features within the Jagex Product. If you would like assistance with this, please contact Jagex via the customer support section of the website. You should be aware that removing content from public display may not ensure the complete or comprehensive deletion of the posted content.
 
 11\. Content standards policy
 
