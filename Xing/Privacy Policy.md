@@ -16,8 +16,9 @@ Additional Privacy Policies apply to the following XING applications, which you 
 *   XING Talent Manager
 *   XING AdCreator
 *   XING Events
-*   kununu(German only)
-*   Contaxt
+*   kununu (German only)
+*   Contaxt (German only)
+*   Lebenslauf.com (German only)
 
 **1\. Basic Principles of XING for handling your Personal Data**
 
