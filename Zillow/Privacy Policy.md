@@ -33,6 +33,7 @@ Rentals
         *   Houses for rent
         *   Pet friendly rentals
     *   *   All rental listings
+        *   Rent affordability calculator
 *   Create a renter profile
     *   *   Capture the attention of property managers.
             
