@@ -129,7 +129,7 @@ In addition to the foregoing, the following terms and conditions shall apply to 
 
 You may terminate your Store account at any time in your sole discretion. 500px may terminate your store account at any time for any reason or no reason. All Store Images remaining in your Store account will be removed by 500px upon termination of your store account.
 
-**Basically,** If you are using the Market to sell prints and downloads of your photos for profit, you give us permission to print photos and deliver downloads. Your photos will be kept safe. Copyright Complaints
+**Basically,** If you are using the Market to sell your photos for profit, you give us permission to deliver downloads. Your photos will be kept safe. Copyright Complaints
 
 500px respects the intellectual property rights of others. It is our policy to respond promptly any claim that Content posted on the Site infringes the copyright or other intellectual property infringement (“Infringement”) of any person. 500px will use reasonable efforts to investigate notices of alleged Infringement and will take appropriate action under applicable intellectual property law and these Terms where it believes an Infringement has taken place, including removing or disabling access to the Content claimed to be infringing and/or terminating accounts and access to the Site.
 
