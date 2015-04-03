@@ -8,27 +8,45 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   No archives?
+    *   by xxstrwberie17xx
+    *   2 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   No archives?
+    *   by xxstrwberie17xx
+    *   2 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Retrieving old posts
+    *   by o2\_\_\_kawaii
+    *   22 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Cannot find old archive to download
     *   by yvonne108
-    *   13 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Help Me Find My Page Please
     *   by tszyan2007
-    *   16 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How can I get my Blogs back?
     *   by gordon\_wu215
-    *   2 days ago
+    *   3 days ago
     *   in Personal URLs
     *   0 votes
     *   0
 *   how to get back my old blogs?
     *   by superxchoco
-    *   2 days ago
+    *   3 days ago
     *   in Personal URLs
     *   0 votes
     *   0
@@ -37,40 +55,40 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   6 (last comment by bEnGaLSpIcE 2 days ago)
+    *   6 (last comment by bEnGaLSpIcE 3 days ago)
 *   how to get back my old blogs?
     *   by bubemonster
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old posts
     *   by heather12985
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Hi Eugenia
     *   by Gustava
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Hi Eugenia
     *   by Gustava
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Archive request for old high school blog
     *   by thestevie
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   how to see my old blog?
     *   by setolubkary
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -80,24 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   Help Me Find My Page Please
-    *   by brewie\_0074
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Old Xanga from about 10 years ago
-    *   by johnnylai423
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Where's my Xanga??
-    *   by mantiXcore
-    *   1 year ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by davedave84 1 week ago)
 
 1 2 3 ... 150 Next
 
