@@ -902,13 +902,19 @@ We understand that everyone thinks that privacy policies are long, complicated a
     
     Yes. Click here to opt-out. This opt-out also applies to the sharing of your anonymous information with other companies for their use in creating marketing and analytics reports. Although this opt out does not apply to Metrics Reports, it will apply if we combine Metrics Report information with other customer information (like demographics) to create reports that we provide to our business customers or service suppliers.
     
-' + '5.  Are there any other opt-out choices I should know about?
+' + '5.  What is DNS error assist?
+    
+    ' + '
+    
+    When you mistype a web address, or the address is not working, DNS Error Assist provides an automated list of similar pages – such as possibly the one you meant to type – for your consideration. The service is provided on your AT&T residential broadband connection, and you can opt-out here. You will get a standard “no results found” error message instead of the error-assist page.
+    
+' + '6.  Are there any other opt-out choices I should know about?
     
     ' + '
     
     We may use services provided by analytics companies to obtain information about website performance and how you use our mobile applications and other products and services. Go here for more information about the opt-outs made available by some of those vendors, and to make choices about participation.
     
-' + '6.  These Choices and Controls also are available at www.att.com/yourchoices.
+' + '7.  These Choices and Controls also are available at www.att.com/yourchoices.
     
 ' + '
 
@@ -1125,6 +1131,15 @@ Please keep in mind that in some cases, your choice will be linked to the specif
 ' + '
 
 ' + '*   Go here for more information about CPNI and your choices about our use of that information for marketing purposes.
+' + '
+
+' + '
+
+**DNS Error Assist**
+
+' + '
+
+' + '*   When you mistype a web address, or the address is not working, DNS Error Assist provides an automated list of similar pages – such as possibly the one you meant to type – for your consideration. The service is provided on your AT&T residential broadband connection, and you can opt-out here. You will get a standard “no results found” error message instead of the error-assist page.
 ' + '
 
 ' + '
