@@ -1,4 +1,4 @@
-This Privacy Policy specifies the manner in which Nabble collects, stores, uses, and discloses information about visitors. By using Nabble, you understand and accept the most recent version of this policy, which will be periodically updated. This document was last updated on August 17, 2012.
+This Privacy Policy specifies the manner in which Nabble collects, stores, uses, and discloses information about visitors. By using Nabble, you understand and accept the most recent version of this policy, which will be periodically updated. This document was last updated on April 03, 2015.
 
 Information we collect
 
@@ -23,4 +23,6 @@ A Nabble "site" is a forum, blog, or any other application created on Nabble wit
 
 Third Parties
 
-Nabble utilizes certain third parties for the normal operation of our service. This includes, but is not limited to, providers of hosting, payment gateways, statistical analysis software and advertising networks. Personal information we collect is not shared with third parties except when approved by you or necessary for the delivery of the service. Information may likewise be divulged to aid in the investigation of illegal or forbidden activities and as required by law. Information may be transferred in the event that Nabble is acquired by another organization.
+Nabble utilizes certain third parties for the normal operation of our service. This includes, but is not limited to, providers of hosting, payment gateways, statistical analysis software and advertising networks. We allow third-party companies to collect certain information when you visit our web site. These companies may utilize cookies, pixels or other technologies to collect and use non-personally identifiable information (e.g., hashed data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at www.aboutads.info and Networking Advertising Initiative at www.networkadvertising.org/choices/.
+
+Personal information we collect is not shared with third parties except when approved by you or necessary for the delivery of the service. Information may likewise be divulged to aid in the investigation of illegal or forbidden activities and as required by law. Information may be transferred in the event that Nabble is acquired by another organization.
