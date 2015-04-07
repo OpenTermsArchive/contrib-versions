@@ -44,7 +44,7 @@ This is a human-readable **summary** of the Terms of Use. Disclaimer: This summa
   
   
 
-§Our Terms of Use
+Our Terms of Use
 
 _**Imagine a world in which every single human being can freely share in the sum of all knowledge. That's our commitment.**_ – Our Vision Statement
 
@@ -54,7 +54,7 @@ To support our vibrant community, we provide the essential infrastructure and or
 
 We welcome you (“you” or the “user”) as a reader, editor, author, or contributor of the Wikimedia Projects, and we encourage you to join the Wikimedia community. Before you participate, however, we ask that you please read and agree to the following Terms of Use (“Terms of Use”).
 
-§Overview
+Overview
 
 These Terms of Use tell you about our public services at the Wikimedia Foundation, our relationship to you as a user, and the rights and responsibilities that guide us both. We want you to know that we host an incredible quantity of educational and informational content, all of which is contributed and made possible by users like yourself. Generally we do not contribute, monitor, or delete content (with the rare exception of policies like these Terms of Use or legal compliance for DMCA notices). This means that editorial control is in the hands of you and your fellow users who create and manage the content. We merely host this content.
 
@@ -91,23 +91,23 @@ Contents
 
   
 
-§1. Our Services
+1\. Our Services
 
 The Wikimedia Foundation is dedicated to encouraging the growth, development and distribution of free multilingual content, and to hosting the full content of these wiki-based Projects for the public free of charge. Our role is to host some of the largest collaboratively edited reference Projects in the world, which can be found here. However, we act only as a hosting service, maintaining the infrastructure and organizational framework that allows our users to build the Wikimedia Projects by contributing and editing content themselves. Because of our unique role, there are a couple of things you should be aware of when considering our relationship to you, the Projects, and the other users:
 
 1.  **We do not take an editorial role:** Because the Wikimedia Projects are collaboratively edited, all of the content that we host is provided by users like yourself, and we do not take an editorial role. This means that we generally do not monitor or edit the content of the Project websites, and we do not take any responsibility for this content. Similarly, we do not endorse any opinions expressed via our services, and we do not represent or guarantee the truthfulness, accuracy, or reliability of any submitted community content. Instead, we simply provide access to the content that your fellow users have contributed and edited.
 2.  **You are responsible for your own actions:** You are legally responsible for your edits and contributions on Wikimedia Projects, so for your own protection you should exercise caution and avoid contributing any content that may result in criminal or civil liability under any applicable laws. For clarity, applicable law includes at least the laws of the United States of America. Although we may not agree with such actions, we warn editors and contributors that authorities may seek to apply other country laws to you, including local laws where you live or where you view or edit content. WMF generally cannot offer any protection, guarantee, immunity or indemnification.
 
-§2. Privacy Policy
+2\. Privacy Policy
 
 We ask that you review the terms of our Privacy Policy, so that you are aware of how we collect and use your information. Because our services are used by people all over the world, personal information that we collect may be stored and processed in the United States of America or any other country in which we or our agents maintain facilities. By using our services, you consent to any such transfer of information outside your country.
 
-§3. Content We Host
+3\. Content We Host
 
 1.  **You may find some material objectionable or erroneous:** Because we provide a wide array of content that is produced or gathered by fellow users, you may encounter material that you find offensive, erroneous, misleading, mislabeled, or otherwise objectionable. We therefore ask that you use common sense and proper judgment when using our services.
 2.  **Our content is for general informational purposes only:** Although we host a great deal of information that pertains to professional topics, including medical, legal, or financial issues, this content is presented for general informational purposes only. It should not be taken as professional advice. Please seek independent professional counseling from someone who is licensed or qualified in the applicable area in lieu of acting on any information, opinion, or advice contained in one of the Project websites.
 
-§4. Refraining from Certain Activities
+4\. Refraining from Certain Activities
 
 The Projects hosted by the Wikimedia Foundation only exist because of the vibrant community of users like you who collaborate to write, edit, and curate the content. We happily welcome your participation in this community. We encourage you to be civil and polite in your interactions with others in the community, to act in good faith, and to make edits and contributions aimed at furthering the mission of the shared Project.
 
@@ -171,15 +171,15 @@ For more information, please read our FAQ on disclosure of paid contributions.
 
 We reserve the right to exercise our enforcement discretion with respect to the above terms.
 
-§5. Password Security
+5\. Password Security
 
 You are responsible for safeguarding your own password and should never disclose it to any third party.
 
-§6. Trademarks
+6\. Trademarks
 
 Although you have considerable freedoms for re-use of the content on the Project websites, it is important that, at the Wikimedia Foundation, we protect our trademark rights so that we can protect our users from fraudulent impersonators. Because of this, we ask that you please respect our trademarks. All Wikimedia Foundation trademarks belong to the Wikimedia Foundation, and any use of our trade names, trademarks, service marks, logos, or domain names must be in compliance with these Terms of Use and in compliance with our Trademark Policy.
 
-§7. Licensing of Content
+7\. Licensing of Content
 
 To grow the commons of free knowledge and free culture, all users contributing to the Projects are required to grant broad permissions to the general public to re-distribute and re-use their contributions freely, so long as that use is properly attributed and the same freedom to re-use and re-distribute is granted to any derivative works. In keeping with our goal of providing free information to the widest possible audience, we require that when necessary all submitted content be licensed so that it is freely reusable by anyone who cares to access it.
 
@@ -226,7 +226,7 @@ You agree to the following licensing requirements:
     
     With both text content and non-text media, you agree to clearly indicate that the original work has been modified. If you are re-using text content in a wiki, it is sufficient to indicate in the page history that you made a change to the imported text. For each copy or modified version that you distribute, you agree to include a licensing notice stating which license the work is released under, along with either a hyperlink or URL to the text of the license or a copy of the license itself.
 
-§8. DMCA Compliance
+8\. DMCA Compliance
 
 The Wikimedia Foundation wants to ensure that the content that we host can be re-used by other users without fear of liability and that it is not infringing the proprietary rights of others. In fairness to our users, as well as to other creators and copyright holders, our policy is to respond to notices of alleged infringement that comply with the formalities of the Digital Millennium Copyright Act (DMCA). Pursuant to the DMCA, we will terminate, in appropriate circumstances, users and account holders of our system and network who are repeat infringers.
 
@@ -236,11 +236,11 @@ If you are the owner of content that is being improperly used on one of the Proj
 
 Alternatively, you may make a request to our community, which often handles copyright issues faster and more effectively than prescribed under the DMCA. In that case, you can post a notice explaining your copyright concerns. For a non-exhaustive and non-authoritative list of the relevant processes for the different Project editions, look here. Before filing a DMCA claim, you also have the option of sending an email to the community at infowikimedia.org.
 
-§9. Third-party Websites and Resources
+9\. Third-party Websites and Resources
 
 You are solely responsible for your use of any third-party websites or resources. Although the Projects contain links to third-party websites and resources, we do not endorse and are not responsible or liable for their availability, accuracy, or the related content, products, or services (including, without limitation, any viruses or other disabling features), nor do we have any obligation to monitor such third-party content.
 
-§10. Management of Websites
+10\. Management of Websites
 
 The community has the primary role in creating and enforcing policies applying to the different Project editions. At the Wikimedia Foundation, we rarely intervene in community decisions about policy and its enforcement. In an unusual case, the need may arise, or the community may ask us, to address an especially problematic user because of significant Project disturbance or dangerous behavior. In such cases, we reserve the right, but do not have the obligation to:
 
@@ -259,15 +259,15 @@ Especially problematic users who have had accounts or access blocked on multiple
 
 The blocking of an account or access or the banning of a user under this provision shall be in accordance with Section 12 of these Terms of Use.
 
-§11. Resolutions and Project Policies
+11\. Resolutions and Project Policies
 
 The Wikimedia Foundation Board of Trustees releases official policies from time to time. Some of these policies may be mandatory for a particular Project or Project edition, and, when they are, you agree to abide by them as applicable.
 
-§12. Termination
+12\. Termination
 
 Though we hope you will stay and continue to contribute to the Projects, you can stop using our services any time. In certain (hopefully unlikely) circumstances it may be necessary for either ourselves or the Wikimedia community or its members (as described in Section 10) to terminate part or all of our services, terminate these Terms of Use, block your account or access, or ban you as a user. If your account or access is blocked or otherwise terminated for any reason, your public contributions will remain publicly available (subject to applicable policies), and, unless we notify you otherwise, you may still access our public pages for the sole purpose of reading publicly available content on the Projects. In such circumstances, however, you may not be able to access your account or settings. We reserve the right to suspend or end the services at any time, with or without cause, and with or without notice. Even after your use and participation are banned, blocked or otherwise suspended, these Terms of Use will remain in effect with respect to relevant provisions, including Sections 1, 3, 4, 6, 7, 9-15, and 17.
 
-§13. Disputes and Jurisdiction
+13\. Disputes and Jurisdiction
 
 _Highlighted for emphasis_
 
@@ -275,7 +275,7 @@ We hope that no serious disagreements arise involving you, but, in the event the
 
 To ensure that disputes are dealt with soon after they arise, you agree that regardless of any statute or law to the contrary, any claim or cause of action you might have arising out of or related to use of our services or these Terms of Use must be filed within the applicable statute of limitations or, if earlier, one (1) year after the pertinent facts underlying such claim or cause of action could have been discovered with reasonable diligence (or be forever barred).
 
-§14. Disclaimers
+14\. Disclaimers
 
 _Highlighted for emphasis_
 
@@ -287,17 +287,17 @@ Any material downloaded or otherwise obtained through your use of our services i
 
 Some states or jurisdictions do not allow the types of disclaimers in this section, so they may not apply to you either in part or in full depending on the law.
 
-§15. Limitation on Liability
+15\. Limitation on Liability
 
 _Highlighted for emphasis_
 
-The Wikimedia Foundation will not be liable to you or to any other party for any direct, indirect, incidental, special, consequential or exemplary damages, including but not limited to, damages for loss of profits, goodwill, use, data, or other intangible losses, regardless of whether we were advised of the possibility of such damage. In no event shall our liability exceed one thousand U.S. dollars (USD 1000.00) in aggregate. In the case that applicable law may not allow the limitation or exclusion of liability or incidental or consequential damages, the above limitation or exclusion may not apply to you, although our liability will be limited to the fullest extent permitted by applicable law. §16. Modifications to these Terms of Use
+The Wikimedia Foundation will not be liable to you or to any other party for any direct, indirect, incidental, special, consequential or exemplary damages, including but not limited to, damages for loss of profits, goodwill, use, data, or other intangible losses, regardless of whether we were advised of the possibility of such damage. In no event shall our liability exceed one thousand U.S. dollars (USD 1000.00) in aggregate. In the case that applicable law may not allow the limitation or exclusion of liability or incidental or consequential damages, the above limitation or exclusion may not apply to you, although our liability will be limited to the fullest extent permitted by applicable law. 16. Modifications to these Terms of Use
 
 Just as the Wikimedia community's input is essential for the growth and maintenance of the Projects, we believe that community input is essential for these Terms of Use to properly serve our users. It is also essential for a fair contract. Therefore, we will provide these Terms of Use, as well as any substantial future revisions of these Terms of Use, to the community for comment at least thirty (30) days before the end of the comment period. If a future proposed revision is substantial, we will provide an additional 30 days for comments after posting a translation of the proposed revision in at least three languages (selected at our discretion). The community will be encouraged to translate the proposed revision in other languages as appropriate. For changes for legal or administrative reasons, to correct an inaccurate statement, or changes in response to community comments, we will provide at least three (3) days' notice.
 
 Because it may be necessary to modify these Terms of Use from time to time, we will provide notice of such modifications and the opportunity to comment via the Project websites, and via a notification on WikimediaAnnounce-L. However, we ask that you please periodically review the most up-to-date version of these Terms of Use. Your continued use of our services after the new Terms of Use become official following the notice and review period constitutes an acceptance of these Terms of Use on your part. For the protection of the Wikimedia Foundation and other users like yourself, if you do not agree with our Terms of Use, you cannot use our services.
 
-§17. Other Terms
+17\. Other Terms
 
 These Terms of Use do not create an employment, agency, partnership, or joint venture relationship between you and us, the Wikimedia Foundation. If you have not signed a separate agreement with us, these Terms of Use are the entire agreement between you and us. If there is any conflict between these Terms of Use and a signed written agreement between you and us, the signed agreement will control.
 
@@ -313,7 +313,7 @@ These Terms of Use were written in English (U.S.). While we hope that translatio
 
 If any provision or part of a provision of these Terms of Use is found unlawful, void, or unenforceable, that provision or part of the provision is deemed severable from these Terms of Use and will be enforced to the maximum extent permissible, and all other provisions of these Terms of Use will remain in full force and effect.
 
-§Thank You!
+Thank You!
 
 We appreciate your taking the time to read these Terms of Use, and we are very happy to have you contributing to the Projects and using our services. Through your contributions, you are helping to build something really big – not only an important collection of collaboratively edited reference Projects that provides education and information to millions who might otherwise lack access, but also a vibrant community of like-minded and engaged peers, focused on a very noble goal.
 
