@@ -1,6 +1,6 @@
 Couchsurfing.com Privacy Policy
 
-Effective Date: November 18, 2014
+Effective Date: April 3, 2015
 
 Please read our Privacy Policy carefully to get a clear understanding of how we collect, use, disclose, protect and otherwise handle information about you.
 
@@ -59,16 +59,18 @@ Couchsurfing may store and process personal information in the United States and
 
 Sharing of Information
 
-We will not share information about you with outside parties except:
+We will not share information about you with outside parties except as described below or elsewhere in this Privacy Policy:
 
-*   With your consent, including if we notify you through our Services that the information you provide will be shared in a particular manner and you subsequently agree to provide such information;
+*   With your consent, including if we notify you through our Services that the information you provide will be shared in a particular manner and you subsequently agree to provide such information.
 *   With third party vendors, consultants and other service providers who need access to such information to carry out their work for us;
 *   With others who access or use our Services in accordance with the privacy settings you establish (please see “Your Information Choices” below for more information about how to manage your sharing preferences);
 *   With search engines in order to index the content you provide as part of a discussion forum or public profile;
 *   With partners who run contests, special offers or other events or activities in connection with our Services;
 *   In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company;
 *   If we believe that disclosure is reasonably necessary to comply with any applicable law, regulation, legal process or governmental request. and
-*   To enforce our agreements, policies and Terms of Use to protect the security or integrity of our Services. or to protect Couchsurfing, our users or the public from harm or illegal activities. We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.
+*   To enforce our agreements, policies and Terms of Use to protect the security or integrity of our Services. or to protect Couchsurfing, our users or the public from harm or illegal activities.
+
+We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.
 
 Social Media Tools
 
@@ -78,9 +80,9 @@ Third Party Links
 
 Occasionally, at our discretion, we may include or offer third party products or services as part of our Services. These third parties may have separate and independent privacy policies. We therefore have no responsibility or liability for the activities of these third parties and how they collect, use or share information about you. Nonetheless, we seek to protect the integrity of our Services and welcome any feedback about these third parties.
 
-Analytics Services Provided by Others
+Advertising and Analytics Services Provided by Others
 
-We may allow third parties to provide analytics services in relation to the use of our Services. These entities may use cookies, web beacons and other technologies to collect information about your use of the Services, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by Couchsurfing and others to, among other things, analyze and track data, determine the popularity of certain content, deliver content targeted to your interests on our Services and better understand your online activity.
+We may allow third parties to serve advertisements on our behalf across the Internet and to provide analytics services in relation to the use of our Services. These entities may use cookies, web beacons and other technologies to collect information about your use of the Services and other websites, including your IP address and information about your web browser and operating system, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by Couchsurfing and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites and better understand your online activity. Please note that we may share aggregated, non-personal information, or personal information in a hashed, non-human readable form, with these third parties. For example, we may engage a third party data provider who may collect web log data from you or place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies may reflect de-identified demographic or other data linked to information you voluntarily provide to us (e.g., an email address) in a hashed, non-human readable form. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit www.aboutads.info/choices.
 
 How Do We Protect Visitor Information?
 
@@ -100,7 +102,7 @@ You have the ability to turn location-based services on and off by adjusting the
 
 Cookies
 
-Most web browsers are set to accept cookies by default. However, you can choose to set your browser to remove or reject browser cookies. Each browser is a little different, so look at your browser's help menu to learn the correct way to modify your cookies, or visit \[www.allaboutcookies.org\]. Please note, however, that our Services may not function properly if your browser does not accept cookies.
+Most web browsers are set to accept cookies by default. However, you can choose to set your browser to remove or reject browser cookies. Each browser is a little different, so look at your browser's help menu to learn the correct way to modify your cookies, or visit www.allaboutcookies.org. Please note, however, that our Services may not function properly if your browser does not accept cookies.
 
 Promotional Communications 
 
