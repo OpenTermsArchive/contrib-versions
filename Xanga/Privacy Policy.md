@@ -8,33 +8,45 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   No archives?
-    *   by xxstrwberie17xx
-    *   4 days ago
+*   Blog Gone
+    *   by UpNcomingAna
+    *   4 hours ago
+    *   in Passwords &. Sign-In
+    *   0 votes
+    *   0
+*   Old posts
+    *   by chicagoFANgeorge
+    *   14 hours ago
     *   in Data Migration
     *   0 votes
     *   0
 *   No archives?
     *   by xxstrwberie17xx
-    *   4 days ago
+    *   5 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   No archives?
+    *   by xxstrwberie17xx
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieving old posts
     *   by o2\_\_\_kawaii
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Cannot find old archive to download
     *   by yvonne108
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Help Me Find My Page Please
     *   by tszyan2007
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -86,20 +98,8 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   how to see my old blog?
-    *   by setolubkary
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   How to access my old blog?
-    *   by joyagirl12
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
-1 2 3 ... 150 Next
+1 2 3 ... 151 Next
 
 Help Categories
 
