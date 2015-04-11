@@ -180,7 +180,7 @@ For GM Family First participants, you may correct your information by contacting
 *   GM Dealership Employee Discount
 *   GM College Discount
 *   GM Military Discount
-*   Credit Union Discount from GM
+*   GM Educator Discount
 
 **Changes to Privacy Statement**  
   
