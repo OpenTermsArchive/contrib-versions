@@ -380,8 +380,8 @@ ADD A CHANNEL
 
 SUPPORT &. SERVICES
 
-*   Comcast Business
-*   Comcast Careers
+*   Business
+*   Careers
 *   Mover's Edge
 *   My Account
 *   Pay My Bill
