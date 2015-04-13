@@ -8,27 +8,33 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   My Data is all gone!
+    *   by Wolf\_Goddess
+    *   10 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   cannot find my own blogs
     *   by blowfish
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Cannot download xml for Wordpress import
     *   by angel\_ci
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   can't post
     *   by RubyNectarina
-    *   2 days ago
+    *   3 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Can't sign in/email outdated
     *   by PiNA\_CLAUDiA
-    *   3 days ago
+    *   4 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -37,49 +43,49 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Personal URLs
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   How can I get my Blogs back?
     *   \[Resolved\] by gordon\_wu215
     *   1 week ago
     *   in Personal URLs
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   Help Me Find My Page Please
     *   \[Resolved\] by tszyan2007
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   Cannot find old archive to download
     *   \[Resolved\] by yvonne108
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   Retrieving old posts
     *   \[Resolved\] by o2\_\_\_kawaii
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   No archives?
     *   \[Resolved\] by xxstrwberie17xx
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   Old posts
     *   \[Resolved\] by chicagoFANgeorge
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   Blog Gone
     *   \[Resolved\] by UpNcomingAna
-    *   4 days ago
+    *   5 days ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   Not all of my posts archived
     *   \[Resolved\] by bEnGaLSpIcE
     *   1 year ago
@@ -88,12 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   6 (last comment by bEnGaLSpIcE 1 week ago)
 *   how to get back my old blogs?
     *   by bubemonster
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Old posts
-    *   by heather12985
     *   1 week ago
     *   in Data Migration
     *   0 votes
