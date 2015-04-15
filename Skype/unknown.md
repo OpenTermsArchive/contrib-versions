@@ -1,6 +1,6 @@
-Business Terms of Use (USA)
+Terms for US Customers using Skype Manager and Skype Connect
 
-Business Terms of Use (USA) Table of contents:
+Terms for US Customers using Skype Manager and Skype Connect Table of contents:
 
 1.  Definitions
 2.  Emergency Calls
@@ -24,6 +24,8 @@ Business Terms of Use (USA) Table of contents:
 20.  Product Specific Terms
 21.  Skype on a Mobile
 22.  Miscellaneous
+
+These terms apply to Skype’s consumer software applications and products. They do not apply to the Skype for Business product and online service offered by Microsoft Corporation.
 
 THESE TERMS APPLY TO MANAGED ACCOUNT USERS OF MANAGED ACCOUNTS AND/OR SKYPE MANAGER WHO ARE LOCATED IN THE U.S.. IF YOU WISH TO USE A MANAGED ACCOUNT AND/OR SKYPE MANAGER ON BEHALF OF THE U.S. GOVERNMENT OR AN AGENCY OF THE U.S. GOVERNMENT THESE TERMS DO NOT APPLY TO YOU. FOR APPLICABLE TERMS AND/OR FURTHER INFORMATION, PLEASE CONTACT USGOVERUSERS@MICROSOFT.COM.
 
