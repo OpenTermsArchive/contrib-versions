@@ -1,4 +1,4 @@
-**Last Updated: March 12, 2015**
+**Last Updated: April 14, 2015**
 
 Foursquare Labs, Inc. Privacy Policy
 
@@ -60,7 +60,7 @@ What About Cookies and Similar Technologies?
 
 We and our agents use technologies like cookies, pixels, and local storage (like on your browser or device, which is similar to a cookie but holds more information) and identifiers (including identifiers supplied by your browser or device or by app platform companies) on our website, in our emails, and within our apps to provide you with a range of products and services. You can control cookies through your browser settings and other tools. For more information, including the types of cookies and similar technologies found on Foursquare, please read Foursquare's 'Cookie Policy’. By continuing to use our Services through your computer or mobile device, you consent to our use of cookies, pixels and local storage in accordance with this Privacy Policy and Foursquare's Cookie Policy.
 
-We may work with advertisers or other partners and advertising service providers to serve ads or services to computers, mobile phones or other devices, which may use a cookie, pixel or other similar technology placed by Foursquare or the third party (although we would not share any other information that identifies you with an advertiser). This Privacy Policy and Foursquare's Cookie Policy covers the use of cookies by Foursquare and its service providers and does not cover the use of cookies by any advertisers. For information about how to opt out of receiving behavioral advertisements from our advertising partners, click here or click here. Also, certain versions of the iOS operating system permit you to limit ad tracking in the system settings. Additionally, you can opt-out of Foursquare serving behaviorally targeted ads outside of Foursquare's apps and websites in your account settings.
+We may work with advertisers or other partners and advertising service providers to serve ads or services that may be relevant to you based on your inferred interests or location (or both) to computers, mobile phones or other devices, which may use a device ID, cookie, pixel or other similar technology placed by Foursquare or the third party (although we would not share any other information that identifies you with an advertiser) on our Services, or on a third party website or app. This Privacy Policy and Foursquare's Cookie Policy covers the use of cookies by Foursquare and its service providers and does not cover the use of cookies by any advertisers. For information about how to opt out of receiving behavioral advertisements from our advertising partners, click here or click here. Also, certain versions of the iOS operating system permit you to limit ad tracking in the system settings. Additionally, you can opt-out of Foursquare serving behaviorally targeted ads outside of Foursquare's apps and websites in your account settings.
 
 Is Personal Information About Me Secure?
 
