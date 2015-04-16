@@ -8,63 +8,69 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Help Me Find My Page Please
+    *   \[Resolved\] by tszyan2007
+    *   2 weeks ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by itsn2beout 2 hours ago)
 *   Can't see other people xanga
     *   by CharmPrincessBabyGal
-    *   14 hours ago
+    *   1 day ago
     *   in Themes
     *   0 votes
     *   0
 *   Can't see other people xanga
     *   by CharmPrincessBabyGal
-    *   14 hours ago
+    *   1 day ago
     *   in Themes
     *   0 votes
     *   0
 *   blog retrieval
     *   by willemijndon
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   blog
     *   by willemijndon
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   blog archive
     *   by willemijndon
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   My Data is all gone!
     *   by Wolf\_Goddess
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   cannot find my own blogs
     *   by blowfish
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Cannot download xml for Wordpress import
     *   by angel\_ci
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   can't post
     *   by RubyNectarina
-    *   5 days ago
+    *   6 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Can't sign in/email outdated
     *   by PiNA\_CLAUDiA
-    *   6 days ago
+    *   1 week ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -73,31 +79,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Personal URLs
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   How can I get my Blogs back?
     *   \[Resolved\] by gordon\_wu215
     *   2 weeks ago
     *   in Personal URLs
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
-*   Help Me Find My Page Please
-    *   \[Resolved\] by tszyan2007
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   Cannot find old archive to download
     *   \[Resolved\] by yvonne108
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   Retrieving old posts
     *   \[Resolved\] by o2\_\_\_kawaii
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 
 1 2 3 ... 151 Next
 
