@@ -8,96 +8,96 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Can I get my old blog back please?
+    *   by smallfat\_leung
+    *   12 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by kelviny\_2005 2 hours ago)
+*   cant see my fd's xanga
+    *   by kelviny\_2005
+    *   2 hours ago
+    *   in Comments
+    *   0 votes
+    *   0
+*   Can I get my old blog back please?
+    *   by smallfat\_leung
+    *   12 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   How to get back my old blogs?
+    *   by kierachan3422
+    *   14 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   can you help me look for my website? I cant see the archive button
+    *   by sappyprnz92192
+    *   23 hours ago
+    *   in Miscellaenous
+    *   0 votes
+    *   0
 *   Help Me Find My Page Please
     *   \[Resolved\] by tszyan2007
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by itsn2beout 2 hours ago)
+    *   2 (last comment by itsn2beout 1 day ago)
 *   Can't see other people xanga
     *   by CharmPrincessBabyGal
-    *   1 day ago
+    *   2 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Can't see other people xanga
     *   by CharmPrincessBabyGal
-    *   1 day ago
+    *   2 days ago
     *   in Themes
     *   0 votes
     *   0
 *   blog retrieval
     *   by willemijndon
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   blog
     *   by willemijndon
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   blog archive
     *   by willemijndon
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   My Data is all gone!
     *   by Wolf\_Goddess
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   cannot find my own blogs
     *   by blowfish
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Cannot download xml for Wordpress import
     *   by angel\_ci
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   can't post
     *   by RubyNectarina
-    *   6 days ago
+    *   1 week ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
-*   Can't sign in/email outdated
-    *   by PiNA\_CLAUDiA
-    *   1 week ago
-    *   in Passwords &. Sign-In
-    *   0 votes
-    *   0
-*   how to get back my old blogs?
-    *   \[Resolved\] by superxchoco
-    *   2 weeks ago
-    *   in Personal URLs
-    *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
-*   How can I get my Blogs back?
-    *   \[Resolved\] by gordon\_wu215
-    *   2 weeks ago
-    *   in Personal URLs
-    *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
-*   Cannot find old archive to download
-    *   \[Resolved\] by yvonne108
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
-*   Retrieving old posts
-    *   \[Resolved\] by o2\_\_\_kawaii
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
 
 1 2 3 ... 151 Next
 
