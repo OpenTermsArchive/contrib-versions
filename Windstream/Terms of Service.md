@@ -46,6 +46,8 @@ My Cart (Edit) My Location_:_ n/a
     
     **PLEASE READ THESE TERMS AND CONDITIONS CAREFULLY. IT IS ESPECIALLY IMPORTANT FOR YOU TO READ SECTION 10 (DISPUTE RESOLUTION) CAREFULLY, AS SECTION 10 PROVIDES FOR RESOLUTION OF DISPUTES THROUGH FINAL AND BINDING ARBITRATION BEFORE A NEUTRAL ARBITRATOR INSTEAD OF IN A COURT BY A JUDGE OR JURY OR THROUGH A CLASS ACTION. YOU WILL CONTINUE TO HAVE CERTAIN RIGHTS TO OBTAIN RELIEF FROM FEDERAL OR STATE AGENCIES.**
     
+    **These terms and conditions do not apply to any wholesale carrier arrangement with Windstream.**
+    
     **1.  Definitions.**
     
      **“You”** or **“Customer”** means the person or entity that subscribes to Services or purchases or leases Equipment and anyone who accesses the Services and Equipment provided to you.
