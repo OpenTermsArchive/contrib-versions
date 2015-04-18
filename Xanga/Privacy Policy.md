@@ -8,33 +8,39 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Can I get my old blog back please?
-    *   by smallfat\_leung
-    *   12 hours ago
+*   How to get back my old blogs?
+    *   by VIckyyY95
+    *   10 hours ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by kelviny\_2005 2 hours ago)
+    *   0
+*   Can I get my old blog back please?
+    *   by smallfat\_leung
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by kelviny\_2005 1 day ago)
 *   cant see my fd's xanga
     *   by kelviny\_2005
-    *   2 hours ago
+    *   1 day ago
     *   in Comments
     *   0 votes
     *   0
 *   Can I get my old blog back please?
     *   by smallfat\_leung
-    *   12 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How to get back my old blogs?
     *   by kierachan3422
-    *   14 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   can you help me look for my website? I cant see the archive button
     *   by sappyprnz92192
-    *   23 hours ago
+    *   1 day ago
     *   in Miscellaenous
     *   0 votes
     *   0
@@ -43,46 +49,46 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by itsn2beout 1 day ago)
+    *   2 (last comment by itsn2beout 2 days ago)
 *   Can't see other people xanga
     *   by CharmPrincessBabyGal
-    *   2 days ago
+    *   3 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Can't see other people xanga
     *   by CharmPrincessBabyGal
-    *   2 days ago
+    *   3 days ago
     *   in Themes
     *   0 votes
     *   0
 *   blog retrieval
     *   by willemijndon
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   blog
     *   by willemijndon
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   blog archive
     *   by willemijndon
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   My Data is all gone!
     *   by Wolf\_Goddess
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   cannot find my own blogs
     *   by blowfish
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -90,12 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by angel\_ci
     *   1 week ago
     *   in Data Migration
-    *   0 votes
-    *   0
-*   can't post
-    *   by RubyNectarina
-    *   1 week ago
-    *   in Adding &. Editing Entries
     *   0 votes
     *   0
 
