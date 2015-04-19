@@ -10,37 +10,37 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   How to get back my old blogs?
     *   by VIckyyY95
-    *   10 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can I get my old blog back please?
     *   by smallfat\_leung
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by kelviny\_2005 1 day ago)
+    *   1 (last comment by kelviny\_2005 2 days ago)
 *   cant see my fd's xanga
     *   by kelviny\_2005
-    *   1 day ago
+    *   2 days ago
     *   in Comments
     *   0 votes
     *   0
 *   Can I get my old blog back please?
     *   by smallfat\_leung
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How to get back my old blogs?
     *   by kierachan3422
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   can you help me look for my website? I cant see the archive button
     *   by sappyprnz92192
-    *   1 day ago
+    *   2 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
@@ -49,40 +49,40 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by itsn2beout 2 days ago)
+    *   2 (last comment by itsn2beout 3 days ago)
 *   Can't see other people xanga
     *   by CharmPrincessBabyGal
-    *   3 days ago
+    *   4 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Can't see other people xanga
     *   by CharmPrincessBabyGal
-    *   3 days ago
+    *   4 days ago
     *   in Themes
     *   0 votes
     *   0
 *   blog retrieval
     *   by willemijndon
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   blog
     *   by willemijndon
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   blog archive
     *   by willemijndon
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   My Data is all gone!
     *   by Wolf\_Goddess
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
