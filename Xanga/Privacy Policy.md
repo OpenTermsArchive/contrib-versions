@@ -8,39 +8,51 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   nothing can be found except some pics.
+    *   by ozlai
+    *   2 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Do not see download for archive
+    *   by AlwaysNowNeverThen
+    *   8 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by AlwaysNowNeverThen 8 hours ago)
 *   How to get back my old blogs?
     *   by VIckyyY95
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can I get my old blog back please?
     *   by smallfat\_leung
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by kelviny\_2005 2 days ago)
+    *   1 (last comment by kelviny\_2005 3 days ago)
 *   cant see my fd's xanga
     *   by kelviny\_2005
-    *   2 days ago
+    *   3 days ago
     *   in Comments
     *   0 votes
     *   0
 *   Can I get my old blog back please?
     *   by smallfat\_leung
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How to get back my old blogs?
     *   by kierachan3422
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   can you help me look for my website? I cant see the archive button
     *   by sappyprnz92192
-    *   2 days ago
+    *   3 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
@@ -49,57 +61,45 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by itsn2beout 3 days ago)
+    *   2 (last comment by itsn2beout 4 days ago)
 *   Can't see other people xanga
     *   by CharmPrincessBabyGal
-    *   4 days ago
+    *   5 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Can't see other people xanga
     *   by CharmPrincessBabyGal
-    *   4 days ago
+    *   5 days ago
     *   in Themes
     *   0 votes
     *   0
 *   blog retrieval
     *   by willemijndon
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   blog
     *   by willemijndon
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   blog archive
     *   by willemijndon
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   My Data is all gone!
     *   by Wolf\_Goddess
-    *   6 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   cannot find my own blogs
-    *   by blowfish
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Cannot download xml for Wordpress import
-    *   by angel\_ci
     *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 
-1 2 3 ... 151 Next
+1 2 3 ... 152 Next
 
 Help Categories
 
