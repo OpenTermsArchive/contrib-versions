@@ -388,6 +388,7 @@ SUPPORT &. SERVICES
 *   Shop/Upgrade
 *   Support
 *   Refer-A-Friend
+*   Store Locator
 
 XFINITY Â© 2015 Comcast
 
