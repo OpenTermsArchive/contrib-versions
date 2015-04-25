@@ -8,39 +8,57 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Where are my blogs?
+    *   by fearcomesfullcircle
+    *   7 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by yeehello 1 hour ago)
+*   Please give me my old archives/blog back!
+    *   by tianaango
+    *   3 hours ago
+    *   in Usernames
+    *   0 votes
+    *   0
+*   Where is my page?
+    *   by lifeisonlyagame
+    *   7 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Data Migration
     *   by sLeEpYzgRL
-    *   8 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Posts after August 2013
     *   by katiekittyks
-    *   17 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data Migration
     *   by nharmny
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   nothing can be found except some pics.
     *   by ozlai
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Do not see download for archive
     *   by AlwaysNowNeverThen
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by AlwaysNowNeverThen 4 days ago)
+    *   1 (last comment by AlwaysNowNeverThen 5 days ago)
 *   How to get back my old blogs?
     *   by VIckyyY95
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -80,24 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   2 (last comment by itsn2beout 1 week ago)
-*   Can't see other people xanga
-    *   by CharmPrincessBabyGal
-    *   1 week ago
-    *   in Themes
-    *   0 votes
-    *   0
-*   Can't see other people xanga
-    *   by CharmPrincessBabyGal
-    *   1 week ago
-    *   in Themes
-    *   0 votes
-    *   0
-*   blog retrieval
-    *   by willemijndon
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
 1 2 3 ... 152 Next
 
