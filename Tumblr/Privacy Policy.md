@@ -116,7 +116,7 @@ We may amend this Privacy Policy from time to time, using the process for modifi
 
 Where to Direct Questions or Concerns
 
-If you have any questions or concerns regarding privacy using the Services, please send us a detailed message.
+If you have any questions or concerns regarding privacy using the Services, send us a detailed message.
 
 Link to Prior Versions
 
