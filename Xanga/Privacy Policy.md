@@ -10,52 +10,52 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Where are my blogs?
     *   by fearcomesfullcircle
-    *   7 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by yeehello 1 hour ago)
+    *   1 (last comment by yeehello 1 day ago)
 *   Please give me my old archives/blog back!
     *   by tianaango
-    *   3 hours ago
+    *   1 day ago
     *   in Usernames
     *   0 votes
     *   0
 *   Where is my page?
     *   by lifeisonlyagame
-    *   7 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data Migration
     *   by sLeEpYzgRL
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Posts after August 2013
     *   by katiekittyks
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data Migration
     *   by nharmny
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   nothing can be found except some pics.
     *   by ozlai
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Do not see download for archive
     *   by AlwaysNowNeverThen
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by AlwaysNowNeverThen 5 days ago)
+    *   1 (last comment by AlwaysNowNeverThen 6 days ago)
 *   How to get back my old blogs?
     *   by VIckyyY95
     *   1 week ago
