@@ -8,54 +8,60 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   6 months free
+    *   by wematter
+    *   6 hours ago
+    *   in Emails
+    *   0 votes
+    *   0
 *   Where are my blogs?
     *   by fearcomesfullcircle
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by yeehello 1 day ago)
+    *   1 (last comment by yeehello 2 days ago)
 *   Please give me my old archives/blog back!
     *   by tianaango
-    *   1 day ago
+    *   2 days ago
     *   in Usernames
     *   0 votes
     *   0
 *   Where is my page?
     *   by lifeisonlyagame
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data Migration
     *   by sLeEpYzgRL
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Posts after August 2013
     *   by katiekittyks
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data Migration
     *   by nharmny
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   nothing can be found except some pics.
     *   by ozlai
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Do not see download for archive
     *   by AlwaysNowNeverThen
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by AlwaysNowNeverThen 6 days ago)
+    *   1 (last comment by AlwaysNowNeverThen 1 week ago)
 *   How to get back my old blogs?
     *   by VIckyyY95
     *   1 week ago
@@ -92,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Miscellaenous
     *   0 votes
     *   0
-*   Help Me Find My Page Please
-    *   \[Resolved\] by tszyan2007
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by itsn2beout 1 week ago)
 
 1 2 3 ... 152 Next
 
