@@ -8,45 +8,57 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Retrieve Old Site
+    *   by timothy1098
+    *   7 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by PerfectIllusions 5 hours ago)
+*   Retrieve Old Site
+    *   by timothy1098
+    *   7 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   6 months free
     *   by wematter
-    *   6 hours ago
+    *   1 day ago
     *   in Emails
     *   0 votes
     *   0
 *   Where are my blogs?
     *   by fearcomesfullcircle
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by yeehello 2 days ago)
+    *   1 (last comment by yeehello 3 days ago)
 *   Please give me my old archives/blog back!
     *   by tianaango
-    *   2 days ago
+    *   3 days ago
     *   in Usernames
     *   0 votes
     *   0
 *   Where is my page?
     *   by lifeisonlyagame
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data Migration
     *   by sLeEpYzgRL
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Posts after August 2013
     *   by katiekittyks
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data Migration
     *   by nharmny
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -84,18 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by smallfat\_leung
     *   1 week ago
     *   in Data Migration
-    *   0 votes
-    *   0
-*   How to get back my old blogs?
-    *   by kierachan3422
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   can you help me look for my website? I cant see the archive button
-    *   by sappyprnz92192
-    *   1 week ago
-    *   in Miscellaenous
     *   0 votes
     *   0
 
