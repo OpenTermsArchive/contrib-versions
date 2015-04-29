@@ -8,57 +8,63 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Retrieve Old Site
-    *   by timothy1098
-    *   7 hours ago
+*   Retrieve blogs
+    *   by CareBearLvr4Lyfe
+    *   23 hours ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by PerfectIllusions 5 hours ago)
+    *   0
 *   Retrieve Old Site
     *   by timothy1098
-    *   7 hours ago
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by PerfectIllusions 1 day ago)
+*   Retrieve Old Site
+    *   by timothy1098
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   6 months free
     *   by wematter
-    *   1 day ago
+    *   2 days ago
     *   in Emails
     *   0 votes
     *   0
 *   Where are my blogs?
     *   by fearcomesfullcircle
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by yeehello 3 days ago)
+    *   1 (last comment by yeehello 4 days ago)
 *   Please give me my old archives/blog back!
     *   by tianaango
-    *   3 days ago
+    *   4 days ago
     *   in Usernames
     *   0 votes
     *   0
 *   Where is my page?
     *   by lifeisonlyagame
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data Migration
     *   by sLeEpYzgRL
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Posts after August 2013
     *   by katiekittyks
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data Migration
     *   by nharmny
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -90,12 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by kelviny\_2005
     *   1 week ago
     *   in Comments
-    *   0 votes
-    *   0
-*   Can I get my old blog back please?
-    *   by smallfat\_leung
-    *   1 week ago
-    *   in Data Migration
     *   0 votes
     *   0
 
