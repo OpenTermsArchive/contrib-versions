@@ -8,63 +8,69 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   where are my old blogs?
+    *   by cHeErlEaDiNeAgLe
+    *   2 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Retrieve blogs
     *   by CareBearLvr4Lyfe
-    *   23 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve Old Site
     *   by timothy1098
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by PerfectIllusions 1 day ago)
+    *   1 (last comment by PerfectIllusions 2 days ago)
 *   Retrieve Old Site
     *   by timothy1098
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   6 months free
     *   by wematter
-    *   2 days ago
+    *   3 days ago
     *   in Emails
     *   0 votes
     *   0
 *   Where are my blogs?
     *   by fearcomesfullcircle
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by yeehello 4 days ago)
+    *   1 (last comment by yeehello 5 days ago)
 *   Please give me my old archives/blog back!
     *   by tianaango
-    *   4 days ago
+    *   5 days ago
     *   in Usernames
     *   0 votes
     *   0
 *   Where is my page?
     *   by lifeisonlyagame
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data Migration
     *   by sLeEpYzgRL
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Posts after August 2013
     *   by katiekittyks
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data Migration
     *   by nharmny
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -92,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   1 (last comment by kelviny\_2005 1 week ago)
-*   cant see my fd's xanga
-    *   by kelviny\_2005
-    *   1 week ago
-    *   in Comments
-    *   0 votes
-    *   0
 
 1 2 3 ... 152 Next
 
