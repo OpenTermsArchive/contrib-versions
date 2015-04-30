@@ -19,6 +19,7 @@ Additional Privacy Policies apply to the following XING applications, which you 
 *   kununu (German only)
 *   Contaxt (German only)
 *   Lebenslauf.com (German only)
+*   Jobbörse.com (German only)
 
 **1\. Basic Principles of XING for handling your Personal Data**
 
@@ -240,19 +241,25 @@ We have implemented the ScorecardResearch service on our websites. This service 
 
 The following information also applies to users in Germany:
 
-Our website uses the "Scalable Centralized Measurement System" ("Skalierbares zentrales Messverfahren – SZM") developed by INFOnline (https://www.infonline.de) in order to enable us to gather statistical information about the use of our website. Anonymous data is collected for this purpose. For the purpose of recognising computer systems, the SZM method of audience measurement either uses a cookie with the identifier “ivwbox.de” or a signature which is created on the basis of various data automatically relayed by your computer. This method does not store IP addresses. these are processed in an anonymised form only.
+Our website uses the "Scalable Centralised Measurement System" ("Skalierbares zentrales Messverfahren – currently known as SZMng") developed by INFOnline in order to enable us to gather statistical information about the use of our website. The objective of audience measurement is to statistically determine the intensity of use, the number of users of a particular website, and their surfing behaviour based on a standardised process in order to obtain values that can be compared on a market level.
 
-The audience measurement method has been developed in accordance with the data protection regulations. The objective of audience measurement is to statistically determine the intensity of use and the number of users of a particular website. Specific users are not identified at any stage. Your identity always remains protected. No advertising will be communicated to you via this system.
+Websites, the operators of which are members of the Informationsgemeinschaft zur Feststellung der Verbreitung von Werbeträgern e.V. (IVW – German Information Association for Determining the Circulation of Advertising Media) or which participate in surveys organised by Arbeitsgemeinschaft Online-Forschung e.V. ((AGOF – German Working Group for Online Media Research), will have their utilisation statistics published regularly by the AGOF and the Arbeitsgemeinschaft Media-Analyse e.V. (German Media Analysis Working Group) as well as by the IVW. This information can be viewed on the respective websites.
 
-Websites, the operators of which are members of the Informationsgemeinschaft zur Feststellung der Verbreitung von Werbeträgern e.V. (IVW – German Information Association for Determining the Circulation of Advertising Media) or which participate in the “internet facts” survey organised by Arbeitsgemeinschaft Online-Forschung e.V. (AGOF – German Working Group for Online Media Research), will have their utilization statistics published monthly by the AGOF and the Arbeitsgemeinschaft Media-Analyse e.V. (German Media Analysis Working Group) as well as by the IVW. This information can be viewed at http://www.agof.de, http://www.agma-mmc.de and http://www.ivw.eu
+INFOnline GmbH collects and processes data according to German data protection law. Technical and organisational measures have been put in place to ensure that it is not possible to identify individual users at any time. Data that may contain a reference to a certain identifiable person will be anonymised as soon as possible.
 
-.
+Every device that accesses the internet to transfer data requires a unique address known as an IP address. Due to how the internet works, IP addresses have to be temporarily saved from a technical perspective. However, IP addresses are abridged prior to any processing and only processed in anonymised form. Full IP addresses are never saved or processed.
 
-Apart from publishing the recorded data, the IVW regularly reviews the SZM method to ensure that its use complies with legal and data protection regulations.
+Geolocation, i.e. the identification of the real-world geographic location of a website visitor, takes place solely on the basis of the anonymised IP address and only at a regional level. This means that it is never possible to determine the specific place of residence of a user as a result of geolocation.
 
-More information on the SZM method is available from the website of INFOnline GmbH, which operates the SZM method, the data protection webpage of the AGOF and the data protection webpage of the IVW.
+For the purpose of recognising computer systems, audience measurement either uses a cookie with the identifier “ioam.de”, a local storage object, or an anonymous signature which is created on the basis of various data automatically relayed by your browser. The cookie is valid for a maximum of one (1) year.
 
-If you wish to object to the processing of data via the SZM method, please click on the following link: http://optout.ivwbox.de
+In order to measure distributed use, i.e. the use of various devices to access a single service), the user identifier may, if present, be sent to INFOline as an anonymised checksum during login.
+
+The saved visits are deleted after a period of seven (7) months at the latest.
+
+If you wish to opt-out of the measurement of data, please click on the following link: http://optout.ioam.de
+
+More information about data protection within the scope of this method is available from the website of INFOnline GmbH, which operates the method, the data protection website of AGOF and the data protection website of IVW.
 
 **13\. Log Files/Mobile Handshake**
 
