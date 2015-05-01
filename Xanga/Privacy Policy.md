@@ -10,61 +10,61 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   where are my old blogs?
     *   by cHeErlEaDiNeAgLe
-    *   2 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve blogs
     *   by CareBearLvr4Lyfe
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve Old Site
     *   by timothy1098
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by PerfectIllusions 2 days ago)
+    *   1 (last comment by PerfectIllusions 3 days ago)
 *   Retrieve Old Site
     *   by timothy1098
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   6 months free
     *   by wematter
-    *   3 days ago
+    *   4 days ago
     *   in Emails
     *   0 votes
     *   0
 *   Where are my blogs?
     *   by fearcomesfullcircle
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by yeehello 5 days ago)
+    *   1 (last comment by yeehello 6 days ago)
 *   Please give me my old archives/blog back!
     *   by tianaango
-    *   5 days ago
+    *   6 days ago
     *   in Usernames
     *   0 votes
     *   0
 *   Where is my page?
     *   by lifeisonlyagame
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data Migration
     *   by sLeEpYzgRL
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Posts after August 2013
     *   by katiekittyks
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -94,10 +94,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Can I get my old blog back please?
     *   by smallfat\_leung
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by kelviny\_2005 1 week ago)
+    *   1 (last comment by kelviny\_2005 2 weeks ago)
 
 1 2 3 ... 152 Next
 
