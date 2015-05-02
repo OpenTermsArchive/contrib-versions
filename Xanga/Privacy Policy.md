@@ -8,51 +8,63 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Account expired? I thought I was on auto renew.
+    *   by not\_tamika
+    *   12 hours ago
+    *   in Premium
+    *   0 votes
+    *   0
+*   6 months free
+    *   by wematter
+    *   23 hours ago
+    *   in Premium
+    *   0 votes
+    *   0
 *   where are my old blogs?
     *   by cHeErlEaDiNeAgLe
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve blogs
     *   by CareBearLvr4Lyfe
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve Old Site
     *   by timothy1098
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by PerfectIllusions 3 days ago)
+    *   1 (last comment by PerfectIllusions 4 days ago)
 *   Retrieve Old Site
     *   by timothy1098
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   6 months free
     *   by wematter
-    *   4 days ago
+    *   5 days ago
     *   in Emails
     *   0 votes
     *   0
 *   Where are my blogs?
     *   by fearcomesfullcircle
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by yeehello 6 days ago)
+    *   1 (last comment by yeehello 1 week ago)
 *   Please give me my old archives/blog back!
     *   by tianaango
-    *   6 days ago
+    *   1 week ago
     *   in Usernames
     *   0 votes
     *   0
 *   Where is my page?
     *   by lifeisonlyagame
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -86,18 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   1 (last comment by AlwaysNowNeverThen 1 week ago)
-*   How to get back my old blogs?
-    *   by VIckyyY95
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Can I get my old blog back please?
-    *   by smallfat\_leung
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by kelviny\_2005 2 weeks ago)
 
 1 2 3 ... 152 Next
 
