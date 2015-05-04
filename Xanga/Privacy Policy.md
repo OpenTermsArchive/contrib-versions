@@ -8,45 +8,51 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   OLD blogs
+    *   by Keep\_frenzy\_nicky
+    *   22 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Account expired? I thought I was on auto renew.
     *   by not\_tamika
-    *   1 day ago
+    *   2 days ago
     *   in Premium
     *   0 votes
     *   0
 *   6 months free
     *   by wematter
-    *   1 day ago
+    *   2 days ago
     *   in Premium
     *   0 votes
     *   0
 *   where are my old blogs?
     *   by cHeErlEaDiNeAgLe
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve blogs
     *   by CareBearLvr4Lyfe
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve Old Site
     *   by timothy1098
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by PerfectIllusions 5 days ago)
+    *   1 (last comment by PerfectIllusions 6 days ago)
 *   Retrieve Old Site
     *   by timothy1098
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   6 months free
     *   by wematter
-    *   6 days ago
+    *   1 week ago
     *   in Emails
     *   0 votes
     *   0
@@ -88,18 +94,12 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   nothing can be found except some pics.
     *   by ozlai
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
-*   Do not see download for archive
-    *   by AlwaysNowNeverThen
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by AlwaysNowNeverThen 1 week ago)
 
-1 2 3 ... 152 Next
+1 2 3 ... 153 Next
 
 Help Categories
 
