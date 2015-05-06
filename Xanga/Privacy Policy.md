@@ -8,33 +8,51 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Where did they go?
+    *   by TriMiDaViTi
+    *   8 hours ago
+    *   in Pictures
+    *   0 votes
+    *   0
+*   Where did they go?
+    *   by TriMiDaViTi
+    *   8 hours ago
+    *   in Pictures
+    *   0 votes
+    *   0
+*   how to get back my old blogs?
+    *   \[Resolved\] by superxchoco
+    *   1 month ago
+    *   in Personal URLs
+    *   0 votes
+    *   2 (last comment by wreativecriter 11 hours ago)
 *   OLD blogs
     *   by Keep\_frenzy\_nicky
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Account expired? I thought I was on auto renew.
     *   by not\_tamika
-    *   3 days ago
+    *   4 days ago
     *   in Premium
     *   0 votes
     *   0
 *   6 months free
     *   by wematter
-    *   3 days ago
+    *   4 days ago
     *   in Premium
     *   0 votes
     *   0
 *   where are my old blogs?
     *   by cHeErlEaDiNeAgLe
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve blogs
     *   by CareBearLvr4Lyfe
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -77,24 +95,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 *   Data Migration
     *   by sLeEpYzgRL
     *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Posts after August 2013
-    *   by katiekittyks
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Data Migration
-    *   by nharmny
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   nothing can be found except some pics.
-    *   by ozlai
-    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
