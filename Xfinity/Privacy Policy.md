@@ -7,7 +7,6 @@ Your complete guide to the 2012 Summer Olympics. Every minute. Every Medal. Ever
 Your XFINITY Connect session has timed out due to inactivity. Click here to go back close
 
 *   XFINITY
-*   XFINITY
 
 *   Shop
 *   Shop/Upgrade
