@@ -10,13 +10,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Where did they go?
     *   by TriMiDaViTi
-    *   8 hours ago
+    *   1 day ago
     *   in Pictures
     *   0 votes
     *   0
 *   Where did they go?
     *   by TriMiDaViTi
-    *   8 hours ago
+    *   1 day ago
     *   in Pictures
     *   0 votes
     *   0
@@ -25,28 +25,28 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Personal URLs
     *   0 votes
-    *   2 (last comment by wreativecriter 11 hours ago)
+    *   2 (last comment by wreativecriter 1 day ago)
 *   OLD blogs
     *   by Keep\_frenzy\_nicky
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Account expired? I thought I was on auto renew.
     *   by not\_tamika
-    *   4 days ago
+    *   5 days ago
     *   in Premium
     *   0 votes
     *   0
 *   6 months free
     *   by wematter
-    *   4 days ago
+    *   5 days ago
     *   in Premium
     *   0 votes
     *   0
 *   where are my old blogs?
     *   by cHeErlEaDiNeAgLe
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
