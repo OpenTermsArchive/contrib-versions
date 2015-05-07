@@ -77,7 +77,7 @@ Find An Agent
 Toggle mobileNavigation Log in
 
 *   Update Zip Code expand
-    *   Denver, CO,80202 Edit
+    *   Denver, CO,80202Edit
 *   Find A Local Agent
 *   Get A Quote in 80202 expand
     *   Denver, CO,80202 Edit AutoHomeRentersLifeCondoMotorcycleBoatATV/Rec. VehicleBusiness InsuranceMore InsuranceRetrieve a saved quote Retrieve a saved quote
@@ -153,11 +153,7 @@ About Allstate
 *   Auto Insurance Fraud
 *   Videos en español
 
-Home >. Allstate Overview >. Privacy Statement AIC
-
-Text Size
-
-  A A A allstate.com ﻿Important Notice Privacy Policy Statement
+Home >. Allstate Overview >. Privacy Statement AIC Share allstate.com ﻿Important Notice Privacy Policy Statement
 
   
   
