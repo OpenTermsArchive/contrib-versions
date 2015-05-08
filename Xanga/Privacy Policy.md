@@ -8,15 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   My blog is gone :(
+    *   by Simi\_1986
+    *   8 hours ago
+    *   in Miscellaenous
+    *   0 votes
+    *   0
 *   Where did they go?
     *   by TriMiDaViTi
-    *   1 day ago
+    *   2 days ago
     *   in Pictures
     *   0 votes
     *   0
 *   Where did they go?
     *   by TriMiDaViTi
-    *   1 day ago
+    *   2 days ago
     *   in Pictures
     *   0 votes
     *   0
@@ -25,22 +31,22 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Personal URLs
     *   0 votes
-    *   2 (last comment by wreativecriter 1 day ago)
+    *   2 (last comment by wreativecriter 2 days ago)
 *   OLD blogs
     *   by Keep\_frenzy\_nicky
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Account expired? I thought I was on auto renew.
     *   by not\_tamika
-    *   5 days ago
+    *   6 days ago
     *   in Premium
     *   0 votes
     *   0
 *   6 months free
     *   by wematter
-    *   5 days ago
+    *   6 days ago
     *   in Premium
     *   0 votes
     *   0
@@ -88,12 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Where is my page?
     *   by lifeisonlyagame
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Data Migration
-    *   by sLeEpYzgRL
     *   1 week ago
     *   in Data Migration
     *   0 votes
