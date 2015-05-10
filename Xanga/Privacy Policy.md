@@ -8,33 +8,45 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   I want my old post back
+    *   by mamuima
+    *   19 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   I want my old post back
+    *   by mamuima
+    *   19 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   how to get back my old blogs?
     *   \[Resolved\] by superxchoco
     *   1 month ago
     *   in Personal URLs
     *   0 votes
-    *   3 (last comment by FAYTHxONE 16 hours ago)
+    *   3 (last comment by FAYTHxONE 1 day ago)
 *   My blog is gone :(
     *   by Simi\_1986
-    *   1 day ago
+    *   2 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Where did they go?
     *   by TriMiDaViTi
-    *   3 days ago
+    *   4 days ago
     *   in Pictures
     *   0 votes
     *   0
 *   Where did they go?
     *   by TriMiDaViTi
-    *   3 days ago
+    *   4 days ago
     *   in Pictures
     *   0 votes
     *   0
 *   OLD blogs
     *   by Keep\_frenzy\_nicky
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -86,18 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   1 (last comment by yeehello 2 weeks ago)
-*   Please give me my old archives/blog back!
-    *   by tianaango
-    *   2 weeks ago
-    *   in Usernames
-    *   0 votes
-    *   0
-*   Where is my page?
-    *   by lifeisonlyagame
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
 1 2 3 ... 153 Next
 
