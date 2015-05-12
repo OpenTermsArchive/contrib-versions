@@ -77,7 +77,7 @@ In consideration of 500px’s agreement to allow you to post Content to the Site
 3.  500px provides new premium account holders with a 14 day trial period and will provide a full refund if you choose to terminate your Awesome account within this period. If you choose to terminate your Awesome account after the 14 day trial period you will be responsible for paying your Awesome account fee up to and including the Termination Date.
 4.  Any refund owing to you will be paid within 30 days of the Termination Date provided your request for termination included your username and full name as it appears in your PayPal account or on your credit card.
 
-**Basically,** We offer free 14 day no-obligation trial to try all the features of Awesome and Plus accounts. Refunds apply only to services described on upgrade page. Fair Usage Policy
+**Basically,** We offer free 14 day no-obligation trial to try all the features of Awesome and Plus accounts. Refunds apply only to services described on upgrade page. This does not include third-party offerings such as Adobe products, which are non-refundable. Fair Usage Policy
 
 500px maintains a fair usage policy to ensure stable and fast service to all users.
 
