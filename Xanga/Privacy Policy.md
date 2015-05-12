@@ -8,27 +8,33 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Can I get my old blog ?
+    *   by love\_bb\_0102
+    *   21 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Get back my old blog
     *   by chingching\_32
-    *   10 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve Blocks
     *   by Mrs\_SuperAndroidSeventeen
-    *   19 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   I want my old post back
-    *   by mamuima
     *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I want my old post back
     *   by mamuima
-    *   1 day ago
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   I want my old post back
+    *   by mamuima
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -37,22 +43,22 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Personal URLs
     *   0 votes
-    *   3 (last comment by FAYTHxONE 2 days ago)
+    *   3 (last comment by FAYTHxONE 3 days ago)
 *   My blog is gone :(
     *   by Simi\_1986
-    *   3 days ago
+    *   4 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Where did they go?
     *   by TriMiDaViTi
-    *   5 days ago
+    *   6 days ago
     *   in Pictures
     *   0 votes
     *   0
 *   Where did they go?
     *   by TriMiDaViTi
-    *   5 days ago
+    *   6 days ago
     *   in Pictures
     *   0 votes
     *   0
@@ -88,16 +94,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Retrieve Old Site
     *   by timothy1098
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by PerfectIllusions 1 week ago)
-*   Retrieve Old Site
-    *   by timothy1098
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
+    *   1 (last comment by PerfectIllusions 2 weeks ago)
 
 1 2 3 ... 153 Next
 
