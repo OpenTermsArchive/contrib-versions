@@ -146,8 +146,6 @@ We may use standard Internet technologies similar to cookies like these:
 
 Clear GIFs: We may use “clear GIFs” (aka “web bugs”), which are small image files that we embed into our e-mail newsletters, to learn whether you opened or forwarded the newsletter or clicked on any of the content. This information tells us about our newsletters’ effectiveness and helps us ensure that we’re delivering information that you find interesting.
 
-HTML5 Local Storage: We use HTML5 local storage for frequency capping purposes and to provide you with relevant advertising. We do not use HTML5 local storage to collect any personal data or to track your activity on our websites.
-
 Copyright © 2012 Spotify AB or its affiliates. All rights reserved.
 
 Spotify USA Inc.,  
