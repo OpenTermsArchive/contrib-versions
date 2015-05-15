@@ -8,33 +8,45 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Can I get back my old blog please?
+    *   by cecilawhk
+    *   13 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Can I get my old blog ?
+    *   by crazy\_\_dog
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Can I get my old blog ?
     *   by love\_bb\_0102
-    *   1 day ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Get back my old blog
     *   by chingching\_32
-    *   2 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve Blocks
     *   by Mrs\_SuperAndroidSeventeen
-    *   2 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I want my old post back
     *   by mamuima
-    *   3 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I want my old post back
     *   by mamuima
-    *   3 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -43,10 +55,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Personal URLs
     *   0 votes
-    *   3 (last comment by FAYTHxONE 4 days ago)
+    *   3 (last comment by FAYTHxONE 6 days ago)
 *   My blog is gone :(
     *   by Simi\_1986
-    *   5 days ago
+    *   1 week ago
     *   in Miscellaenous
     *   0 votes
     *   0
@@ -82,22 +94,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   where are my old blogs?
     *   by cHeErlEaDiNeAgLe
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Retrieve blogs
-    *   by CareBearLvr4Lyfe
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
-*   Retrieve Old Site
-    *   by timothy1098
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by PerfectIllusions 2 weeks ago)
 
 1 2 3 ... 153 Next
 
