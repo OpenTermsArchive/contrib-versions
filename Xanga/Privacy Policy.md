@@ -10,43 +10,43 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Can I get back my old blog please?
     *   by cecilawhk
-    *   13 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Can I get my old blog ?
-    *   by crazy\_\_dog
     *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can I get my old blog ?
+    *   by crazy\_\_dog
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Can I get my old blog ?
     *   by love\_bb\_0102
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Get back my old blog
     *   by chingching\_32
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve Blocks
     *   by Mrs\_SuperAndroidSeventeen
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   I want my old post back
-    *   by mamuima
     *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I want my old post back
     *   by mamuima
-    *   5 days ago
+    *   6 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   I want my old post back
+    *   by mamuima
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -55,7 +55,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Personal URLs
     *   0 votes
-    *   3 (last comment by FAYTHxONE 6 days ago)
+    *   3 (last comment by FAYTHxONE 1 week ago)
 *   My blog is gone :(
     *   by Simi\_1986
     *   1 week ago
@@ -82,13 +82,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Account expired? I thought I was on auto renew.
     *   by not\_tamika
-    *   1 week ago
+    *   2 weeks ago
     *   in Premium
     *   0 votes
     *   0
 *   6 months free
     *   by wematter
-    *   1 week ago
+    *   2 weeks ago
     *   in Premium
     *   0 votes
     *   0
