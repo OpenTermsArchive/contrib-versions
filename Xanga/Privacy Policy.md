@@ -10,31 +10,31 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Can I get back my old blog please?
     *   by cecilawhk
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Can I get my old blog ?
-    *   by crazy\_\_dog
     *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can I get my old blog ?
+    *   by crazy\_\_dog
+    *   4 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Can I get my old blog ?
     *   by love\_bb\_0102
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Get back my old blog
     *   by chingching\_32
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve Blocks
     *   by Mrs\_SuperAndroidSeventeen
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -76,7 +76,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   OLD blogs
     *   by Keep\_frenzy\_nicky
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
