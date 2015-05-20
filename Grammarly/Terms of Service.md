@@ -1,6 +1,6 @@
 Terms of Service and License Agreement
 
-Last updated on January 26, 2015
+Last updated on May 18, 2015
 
 Grammarly, Inc., a Delaware corporation (together with its subsidiaries and other affiliates, “Grammarly”), owns and/or operates the web pages available at www.Grammarly.com and all sub-domains thereof (collectively, the “Site”). Access to and use of the software (“Software”) and services (“Services”) available on or through the Site (including, without limitation, Grammar Checker, Plagiarism Checker, Writing Handbook, Grammar Genie, Answers and Proofit, as well as any future Software or Services provided by Grammarly) are governed by this Terms of Service and License Agreement (this “Agreement”).
 
@@ -69,7 +69,7 @@ To ensure uninterrupted service, all subscriptions to the Site, Software and S
 
 Free trial
 
-Grammarly may offer a free trial membership from time to time with regard to certain Software or Services (a “Trial”). By accessing or using the Site, Services or Software, you agree to the terms of any such Trial and further agree to any changes Grammarly may make to such Trial as described in “Changes to Services or Terms” below. If you accept such an offer, no charges will be applied to your account until the end of the Trial period. If you do not wish to be charged, you must cancel the Services before the end of the Trial period. If you do not cancel the Services within the Trial period, you hereby authorize Grammarly to charge your payment card for the price of the subscription you choose at the beginning of the Trial. The subscription will renew automatically at the most current price until cancelled. Grammarly will not refund any fees that have accrued to your account(s) after the Trial period. If you cancel the Services before the end of the trial period, all your rights to any remaining free trial period will be waived and you will not be eligible to participate in any further Trials, except as allowed by Grammarly in its sole discretion.
+Grammarly may offer a free trial membership from time to time with regard to certain Software or Services (a “Trial”). By accessing or using the Site, Services or Software, you agree to the terms of any such Trial and further agree to any changes Grammarly may make to such Trial as described in “Changes to Services or Terms” below. If you cancel the Services before the end of the trial period, all your rights to any remaining free trial period will be waived and you will not be eligible to participate in any further Trials, except as allowed by Grammarly in its sole discretion.
 
 Termination and Refund Policy
 
@@ -114,10 +114,6 @@ Grammarly reserves the right at any time to (i) change any information, specif
 Grammarly may from time to time update or revise this Agreement. If Grammarly updates or revises this Agreement, Grammarly will notify you either by email to your most recently provided email address, by posting the updated or revised Terms of Service and End User License Agreement on the Site or by any other manner chosen by Grammarly in its commercially reasonable discretion. Your use of the Site, Services or Software following any such update or revision constitutes your agreement to be bound by and comply with this Agreement as updated or revised. You can view the most current Terms of Service and End User License Agreement at https://nspl.grammarly.com/terms. It is your responsibility to review the Terms of Service and End User License Agreement periodically.
 
 If you cancel your subscription within ten (10) days following such notice by Grammarly in accordance with the two preceding paragraphs, then Grammarly will refund you a pro-rated portion of any pre-paid Fees for the affected Services applicable to the cancelled portion of the pre-paid subscription term, if any.
-
-Proofreading Credits
-
-For promotional purposes, Grammarly may offer you certain proofreading credits for use with the Services or the Software in connection with a Trial or a subscription to the Site, Services or Software (“Proofreading Credits”). Any Proofreading Credits offered or granted to you by Grammarly are subject to the terms of this Agreement. Proofreading Credits shall accrue and expire as determined by Grammarly in its sole discretion, and in no event shall you be entitled to accrue more than one thousand five hundred (1,500) Proofreading Credits in the aggregate. Grammarly reserves the right to stop providing or revoke Proofreading Credits at any time in its sole discretion. Without limiting the foregoing, Grammarly may terminate any Proofreading Credits that you do not use within three (3) months of the grant date. In addition, all Proofreading Credits shall expire and shall be no longer be recognized by Grammarly upon the earlier to occur of any cancellation, termination or expiration of (a) any Trial, or (b) your subscription to the Site, Services or Software, in each case whether cancelled or terminated by you or by Grammarly. You agree that Grammarly has the right to manage, regulate, and/or modify the rights underlying such Proofreading Credits and that Grammarly will have no liability to you based on its exercise of this right. Grammarly makes no guarantee as to the nature, quality or value of the Services that may be obtained in exchange for your Proofreading Credits. Proofreading Credits are not real currency and they do not represent a credit balance of real currency or its equivalent or reflect any stored value.
 
 Links to Third Party Sites
 
