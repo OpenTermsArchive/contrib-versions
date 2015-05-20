@@ -10,13 +10,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Can I get back my old blog please?
     *   by cecilawhk
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can I get my old blog ?
     *   by crazy\_\_dog
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -64,13 +64,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Where did they go?
     *   by TriMiDaViTi
-    *   1 week ago
+    *   2 weeks ago
     *   in Pictures
     *   0 votes
     *   0
 *   Where did they go?
     *   by TriMiDaViTi
-    *   1 week ago
+    *   2 weeks ago
     *   in Pictures
     *   0 votes
     *   0
