@@ -8,9 +8,15 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Retrieve plssss
+    *   by kandi\_sor
+    *   3 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Can I get back my old blog please?
     *   by cecilawhk
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -58,7 +64,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 (last comment by FAYTHxONE 1 week ago)
 *   My blog is gone :(
     *   by Simi\_1986
-    *   1 week ago
+    *   2 weeks ago
     *   in Miscellaenous
     *   0 votes
     *   0
@@ -90,12 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by wematter
     *   2 weeks ago
     *   in Premium
-    *   0 votes
-    *   0
-*   where are my old blogs?
-    *   by cHeErlEaDiNeAgLe
-    *   3 weeks ago
-    *   in Data Migration
     *   0 votes
     *   0
 
