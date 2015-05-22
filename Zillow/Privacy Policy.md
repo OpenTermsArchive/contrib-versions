@@ -115,14 +115,14 @@ Home design
 More
 
 *   Guides &. help
-    *   *   Foreclosure Center
-        *   Buyer's Guide
-        *   Renter's Guide
+    *   *   Foreclosure center
+        *   Buyer's guide
+        *   Renter's guide
         *   Zillow Help Center
 *   Blogs
     *   *   Zillow Blog
-        *   Zillow for Pros Blog
-        *   Zillow Engineering Blog
+        *   Zillow for pros blog
+        *   Zillow engineering blog
 *   Partners
     *   *   Zillow Affiliates
         *   Brokers and Zillow
@@ -268,6 +268,7 @@ _— Updated March 2015_
 *   Advertise
 *   Terms of use &. Privacy
 *   Ad Choice
+
 *   Blog
 *   Mobile Apps
 
