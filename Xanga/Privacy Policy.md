@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Retrieve plssss
     *   by kandi\_sor
-    *   3 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -61,7 +61,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Personal URLs
     *   0 votes
-    *   3 (last comment by FAYTHxONE 1 week ago)
+    *   3 (last comment by FAYTHxONE 2 weeks ago)
 *   My blog is gone :(
     *   by Simi\_1986
     *   2 weeks ago
@@ -88,13 +88,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Account expired? I thought I was on auto renew.
     *   by not\_tamika
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Premium
     *   0 votes
     *   0
 *   6 months free
     *   by wematter
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Premium
     *   0 votes
     *   0
