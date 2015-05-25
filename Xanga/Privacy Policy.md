@@ -8,9 +8,15 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   nothing can be found except some pics
+    *   by YyCarLy
+    *   19 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Retrieve plssss
     *   by kandi\_sor
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -34,13 +40,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Get back my old blog
     *   by chingching\_32
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve Blocks
     *   by Mrs\_SuperAndroidSeventeen
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -82,18 +88,12 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   OLD blogs
     *   by Keep\_frenzy\_nicky
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Account expired? I thought I was on auto renew.
     *   by not\_tamika
-    *   3 weeks ago
-    *   in Premium
-    *   0 votes
-    *   0
-*   6 months free
-    *   by wematter
     *   3 weeks ago
     *   in Premium
     *   0 votes
