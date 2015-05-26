@@ -3,7 +3,6 @@ This page may be out of date. Save your draft before refreshing this page.Submit
 Login Sign Up
 
 *   About
-*   Team
 *   Jobs
 *   Blog
 *   Challenges
