@@ -4,7 +4,11 @@ Ignorez pour effectuer la recherche.
 *   _Connexion_
 *   Help
 
-Download the new Yahoo Mail app
+Yahoo en page d'accueil  
+
+Yahoo
+
+Fermer cette fenêtre Pour faire de Yahoo votre page d’accueil, faites glisser le logo Yahoo dans l’icône Accueil de votre barre d’outils Firefox.
 
 *   Mail
     
