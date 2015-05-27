@@ -8,15 +8,33 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   How can I find my blog and audio?
+    *   by meizi1314921
+    *   15 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Nothing is here!
+    *   by SuKey\_SuKie\_0624
+    *   18 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Nothing is here!
+    *   by SuKey\_SuKie\_0624
+    *   18 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   nothing can be found except some pics
     *   by YyCarLy
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve plssss
     *   by kandi\_sor
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -76,30 +94,12 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Where did they go?
     *   by TriMiDaViTi
-    *   2 weeks ago
-    *   in Pictures
-    *   0 votes
-    *   0
-*   Where did they go?
-    *   by TriMiDaViTi
-    *   2 weeks ago
-    *   in Pictures
-    *   0 votes
-    *   0
-*   OLD blogs
-    *   by Keep\_frenzy\_nicky
     *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Account expired? I thought I was on auto renew.
-    *   by not\_tamika
-    *   3 weeks ago
-    *   in Premium
+    *   in Pictures
     *   0 votes
     *   0
 
-1 2 3 ... 153 Next
+1 2 3 ... 154 Next
 
 Help Categories
 
