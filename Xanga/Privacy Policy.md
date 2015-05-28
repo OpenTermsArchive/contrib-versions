@@ -8,33 +8,51 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   forgot password
+    *   by franciswann
+    *   3 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Data Migration
+    *   by ysk\_kuen
+    *   12 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Data Migration
+    *   by ysk\_kuen
+    *   12 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   How can I find my blog and audio?
     *   by meizi1314921
-    *   15 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Nothing is here!
     *   by SuKey\_SuKie\_0624
-    *   18 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Nothing is here!
     *   by SuKey\_SuKie\_0624
-    *   18 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   nothing can be found except some pics
     *   by YyCarLy
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve plssss
     *   by kandi\_sor
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -46,7 +64,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Can I get my old blog ?
     *   by crazy\_\_dog
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -78,24 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by mamuima
     *   2 weeks ago
     *   in Data Migration
-    *   0 votes
-    *   0
-*   how to get back my old blogs?
-    *   \[Resolved\] by superxchoco
-    *   1 month ago
-    *   in Personal URLs
-    *   0 votes
-    *   3 (last comment by FAYTHxONE 2 weeks ago)
-*   My blog is gone :(
-    *   by Simi\_1986
-    *   2 weeks ago
-    *   in Miscellaenous
-    *   0 votes
-    *   0
-*   Where did they go?
-    *   by TriMiDaViTi
-    *   3 weeks ago
-    *   in Pictures
     *   0 votes
     *   0
 
