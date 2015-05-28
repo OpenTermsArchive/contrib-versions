@@ -14,7 +14,7 @@ Kindle Cloud Reader Legal Notices
     
 3.  **Copyright Notices**
     
-    Kindle Cloud Reader software © 2012 Amazon.com, Inc. or its affiliates. All rights reserved.
+    Kindle Cloud Reader software © 2012-2015 Amazon.com, Inc. or its affiliates. All rights reserved.
     
 4.  **Other Notices**
     
@@ -66,7 +66,10 @@ USA
 
 1.  **Components Licensed Under the MIT License.**
     
-    a. Names and Copyright Notices. - Gesture - © 2010 Matteo Spinelli, http://cubiq.org/.
+    a. Names and Copyright Notices.  
+    \- Gesture - © 2010 Matteo Spinelli, http://cubiq.org/.  
+      
+    \- Handlebars.js – © 2011 by Yehuda Katz.  
     
     \- iScroll Lite base on iScroll v4.1.6 - © 2011 Matteo Spinelli, http://cubiq.org/.
     
@@ -76,7 +79,7 @@ USA
     
     Amazon elects to use the following software packages under the MIT license:
     
-    \- jQuery - © Copyright 2012 jQuery Foundation and other contributors http://jquery.com/.
+    \- jQuery - 2012 jQuery Foundation and other contributors http://jquery.com/.
     
     \- jQuery Cookie Plugin - © 2010 Klaus Hartl (stilbuero.de).
     
@@ -131,6 +134,7 @@ USA
     *   Robert Penner's animation-easing algorithms: In the Animation Utility, YUI makes use of Robert Penner's algorithms for easing.
     *   Geoff Stearns's SWFObject: In the Charts Control and the Uploader versions through 2.7.0, YUI makes use of Geoff Stearns's SWFObject v1.5 for Flash Player detection and embedding. More information on SWFObject can be found here (http://blog.deconcept.com/swfobject/). SWFObject is (c) 2007 Geoff Stearns and is released under the MIT License (http://www.opensource.org/licenses/mit-license.php).
     *   Diego Perini's IEContentLoaded technique: The Event Utility employs a technique developed by Diego Perini and licensed under GPL. YUI's use of this technique is included under our BSD license with the author's permission.
+    
 4.  **Components Licensed Under The Apache License, Version 2.0.**
     
     a. Names and Copyright Notices. Google Closure Library. © 2006 The Closure Library Authors. All Rights Reserved.
@@ -192,17 +196,7 @@ You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
-**5\. Handlebars.js**
-
-Copyright (C) 2011 by Yehuda Katz
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-**6\. Porter-Stemmer**
+**5\. Porter-Stemmer**
 
 Copyright (c) 2012, various, All rights reserved.
 
