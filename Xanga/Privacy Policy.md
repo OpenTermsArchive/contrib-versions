@@ -8,57 +8,63 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Please give me my old archives/blog back!
+    *   by tianaango
+    *   1 month ago
+    *   in Usernames
+    *   0 votes
+    *   1 (last comment by tianaango 23 hours ago)
 *   forgot password
     *   by franciswann
-    *   3 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data Migration
     *   by ysk\_kuen
-    *   12 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data Migration
     *   by ysk\_kuen
-    *   12 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How can I find my blog and audio?
     *   by meizi1314921
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Nothing is here!
     *   by SuKey\_SuKie\_0624
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Nothing is here!
     *   by SuKey\_SuKie\_0624
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   nothing can be found except some pics
     *   by YyCarLy
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve plssss
     *   by kandi\_sor
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can I get back my old blog please?
     *   by cecilawhk
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -82,12 +88,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Retrieve Blocks
     *   by Mrs\_SuperAndroidSeventeen
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   I want my old post back
-    *   by mamuima
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
