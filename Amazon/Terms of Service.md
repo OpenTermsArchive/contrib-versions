@@ -6,7 +6,7 @@ Welcome to Amazon.com. Amazon Services LLC and/or its affiliates ("Amazon") prov
 
 **By using Amazon Services, you agree to these conditions. Please read them carefully.**
 
-We offer a wide range of Amazon Services, and sometimes additional terms may apply. When you use an Amazon Service (for example, Your Profile, Gift Cards, Amazon Instant Video, Your Media Library, or Amazon applications for mobile Amazon applications for mobile) you also will be subject to the guidelines, terms and agreements applicable to that Amazon Service ("Service Terms"). If these Conditions of Use are inconsistent with the Service Terms, those Service Terms will control.
+We offer a wide range of Amazon Services, and sometimes additional terms may apply. When you use an Amazon Service (for example, Your Profile, Gift Cards, Amazon Instant Video, Your Media Library, or Amazon applications for mobile ) you also will be subject to the guidelines, terms and agreements applicable to that Amazon Service ("Service Terms"). If these Conditions of Use are inconsistent with the Service Terms, those Service Terms will control.
 
 **PRIVACY**
 
@@ -22,11 +22,11 @@ All content included in or made available through any Amazon Service, such as te
 
 **TRADEMARKS**
 
-Click here to see a non-exhaustive list of Amazon trademarks Click here to see a non-exhaustive list of Amazon trademarks. In addition, graphics, logos, page headers, button icons, scripts, and service names included in or made available through any Amazon Service are trademarks or trade dress of Amazon in the U.S. and other countries. Amazon's trademarks and trade dress may not be used in connection with any product or service that is not Amazon's, in any manner that is likely to cause confusion among customers, or in any manner that disparages or discredits Amazon. All other trademarks not owned by Amazon that appear in any Amazon Service are the property of their respective owners, who may or may not be affiliated with, connected to, or sponsored by Amazon.
+Click here to see a non-exhaustive list of Amazon trademarks . In addition, graphics, logos, page headers, button icons, scripts, and service names included in or made available through any Amazon Service are trademarks or trade dress of Amazon in the U.S. and other countries. Amazon's trademarks and trade dress may not be used in connection with any product or service that is not Amazon's, in any manner that is likely to cause confusion among customers, or in any manner that disparages or discredits Amazon. All other trademarks not owned by Amazon that appear in any Amazon Service are the property of their respective owners, who may or may not be affiliated with, connected to, or sponsored by Amazon.
 
 **PATENTS**
 
-One or more patents owned by Amazon apply to the Amazon Services and to the features and services accessible via the Amazon Services. Portions of the Amazon Services operate under license of one or more patents. Click here to see a non-exhaustive list of applicable Amazon patents and applicable licensed patentsClick here to see a non-exhaustive list of applicable Amazon patents and applicable licensed patents .
+One or more patents owned by Amazon apply to the Amazon Services and to the features and services accessible via the Amazon Services. Portions of the Amazon Services operate under license of one or more patents. Click here to see a non-exhaustive list of applicable Amazon patents and applicable licensed patents .
 
 **LICENSE AND ACCESS**
 
@@ -52,7 +52,7 @@ All items purchased from Amazon are made pursuant to a shipment contract. This m
 
 **RETURNS, REFUNDS AND TITLE**
 
-Amazon does not take title to returned items until the item arrives at our fulfillment center. At our discretion, a refund may be issued without requiring a return. In this situation, Amazon does not take title to the refunded item. For more information about our returns and refunds, please see our Returns Center Returns Center
+Amazon does not take title to returned items until the item arrives at our fulfillment center. At our discretion, a refund may be issued without requiring a return. In this situation, Amazon does not take title to the refunded item. For more information about our returns and refunds, please see our Returns Center
 
 **PRODUCT DESCRIPTIONS**
 
@@ -102,7 +102,7 @@ Please review our other policies, such as our pricing policy, posted on this sit
 
 **OUR ADDRESS**
 
-Amazon.com, Inc. P.O. Box 81226 Seattle, WA 98108-1226 http://www.amazon.com http://amazon.com
+Amazon.com, Inc. P.O. Box 81226 Seattle, WA 98108-1226 http://www.amazon.com
 
 **How to Serve a Subpoena**
 
@@ -114,7 +114,7 @@ Please note also that providing detailed and accurate information at the outset 
 
 **Notice and Procedure for Making Claims of Copyright Infringement**
 
-If you believe that your work has been copied in a way that constitutes copyright infringement, please submit your complaint using our online form form. We respond quickly to the concerns of rights owners about any alleged infringement.
+If you believe that your work has been copied in a way that constitutes copyright infringement, please submit your complaint using our online form . We respond quickly to the concerns of rights owners about any alleged infringement.
 
 If you prefer to submit a report in writing, please provide us with this information:
 
