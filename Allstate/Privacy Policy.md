@@ -48,7 +48,7 @@ Find An Agent
     *   Boat
     *   Motorhome
     *   Snowmobile
-    *   ATV &. 4X4
+    *   ATV
     *   Landlord
     *   Retirement &. Savings
     *   Supplemental Health
@@ -94,7 +94,7 @@ Toggle mobileNavigation Log in
         *   Boat
         *   Motorhome
         *   Snowmobile
-        *   ATV &. 4X4
+        *   ATV
         *   Landlord
         *   Retirement &. Savings
         *   Supplemental Health
@@ -136,7 +136,7 @@ About Allstate
     *   Financial and Other Reports
     *   History and Timeline
     *   Awards and Recognition
-    *   Senior Leadership Team
+    *   Management
     *   Board of Directors
     *   Executive Speeches
 *   Our Story
@@ -158,7 +158,7 @@ Home >. Allstate Overview >. Privacy Statement AIC Share allstate.com ﻿Importa
   
   
 
-**Revised September 16, 2014**
+**Revised May 29, 2015**
 
 Thank you for choosing Allstate. We value you, respect your privacy and work hard to protect your personal information.  
   
@@ -196,7 +196,7 @@ In addition, Allstate and its business partners gather information through Inter
 
 Also, our business partners assist us with monitoring information including, but not limited to, IP addresses, domain names and browser data, which can help us to better understand how visitors use allstate.com. Mobile Analytics
 
-We use Mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile app.
+We use Mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We will link the information we store within the analytics software to any personally identifiable information you submit within the mobile app.
 
 Location Services
 
@@ -390,15 +390,15 @@ Retrieve a saved quote
 
 Agents Near 80202
 
-*   J T Barthelemy 303-948-9879 1940 Blake St Ste 105 Denver, CO 80202 Visit website
 *   Denise Hoffman 303-628-0554 535 16th St # 350 Denver, CO 80202 Visit website
+*   J T Barthelemy 303-948-9879 1940 Blake St Ste 105 Denver, CO 80202 Visit website
 *   K.D. Sakraida 303-433-2094 1932 W 33rd Ave Denver, CO 80211 Visit website
 *   Tiffany Mai 720-441-5608 2785 N Speer Blvd # Lw01 Denver, CO 80211 Visit website
 
 Previous
 
-*   J T Barthelemy 1940 Blake St Ste 105 Denver, CO 80202 WEBSITE
 *   Denise Hoffman 535 16th St # 350 Denver, CO 80202 WEBSITE
+*   J T Barthelemy 1940 Blake St Ste 105 Denver, CO 80202 WEBSITE
 *   K.D. Sakraida 1932 W 33rd Ave Denver, CO 80211 WEBSITE
 *   Tiffany Mai 2785 N Speer Blvd # Lw01 Denver, CO 80211 WEBSITE
 
