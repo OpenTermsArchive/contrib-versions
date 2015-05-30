@@ -13,46 +13,46 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Usernames
     *   0 votes
-    *   1 (last comment by tianaango 23 hours ago)
+    *   1 (last comment by tianaango 1 day ago)
 *   forgot password
     *   by franciswann
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data Migration
     *   by ysk\_kuen
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data Migration
     *   by ysk\_kuen
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How can I find my blog and audio?
     *   by meizi1314921
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Nothing is here!
     *   by SuKey\_SuKie\_0624
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Nothing is here!
     *   by SuKey\_SuKie\_0624
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   nothing can be found except some pics
     *   by YyCarLy
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
