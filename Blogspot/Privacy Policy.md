@@ -1,4 +1,8 @@
-Privacy Policy Information we collect How we use information we collect Transparency and choice Information you share Accessing and updating your personal information Information we share Information security When this Privacy Policy applies Compliance and cooperation with regulatory authorities Changes Specific product practices Other useful privacy and security related materials Hide examples Show examples Hide examples
+Welcome to the Google Privacy Policy
+
+When you use Google services, you trust us with your information. This Privacy Policy is meant to help you understand what data we collect, why we collect it, and what we do with it. This is important. we hope you will take time to read it carefully. And remember, you can find controls to manage your information and protect your privacy and security at My Account.
+
+Privacy Policy Hide examples Show examples Hide examples
 
 Last modified: May 1, 2015 (view archived versions)
 
@@ -14,7 +18,7 @@ Our Privacy Policy explains:
 
 We’ve tried to keep it as simple as possible, but if you’re not familiar with terms like cookies, IP addresses, pixel tags and browsers, then read about these key terms first. Your privacy matters to Google so whether you are new to Google or a long-time user, please do take the time to get to know our practices – and if you have any questions consult this page.
 
-Information we collect
+Back to top Information we collect
 
 We collect information to provide better services to all of our users – from figuring out basic stuff like which language you speak, to more complex things like which ads you’ll find most useful, the people who matter most to you online, or which YouTube videos you might like.
 
@@ -54,7 +58,7 @@ We collect information in two ways:
         We and our partners use various technologies to collect and store information when you visit a Google service, and this may include sending one or more cookies or anonymous identifiers to your device. We also use cookies and anonymous identifiers when you interact with services we offer to our partners, such as advertising services or Google features that may appear on other sites. Our Google Analytics product helps businesses and site owners analyze the traffic to their websites and apps. When used in conjunction with our advertising services, such as those using the DoubleClick cookie, Google Analytics information is linked, by the Google Analytics customer or by Google, using Google technology, with information about visits to multiple sites.
         
 
-How we use information we collect
+Back to top How we use information we collect
 
 We use the information we collect from all of our services to provide, maintain, protect and improve them, to develop new ones, and to protect Google and our users. We also use this information to offer you tailored content – like giving you more relevant search results and ads.
 
@@ -74,7 +78,7 @@ We will ask for your consent before using information for a purpose other than t
 
 Google processes personal information on our servers in many countries around the world. We may process your personal information on a server located outside the country where you live.
 
-Transparency and choice
+Back to top Transparency and choice
 
 People have different privacy concerns. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how it is used. For example, you can:
 
@@ -88,11 +92,11 @@ People have different privacy concerns. Our goal is to be clear about what infor
 
 You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it’s important to remember that many of our services may not function properly if your cookies are disabled. For example, we may not remember your language preferences.
 
-Information you share
+Back to top Information you share
 
 Many of our services let you share information with others. Remember that when you share information publicly, it may be indexable by search engines, including Google. Our services provide you with different options on sharing and removing your content.
 
-Accessing and updating your personal information
+Back to top Accessing and updating your personal information
 
 Whenever you use our services, we aim to provide you with access to your personal information. If that information is wrong, we strive to give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request.
 
@@ -100,7 +104,7 @@ We may reject requests that are unreasonably repetitive, require disproportionat
 
 Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems.
 
-Information we share
+Back to top Information we share
 
 We do not share personal information with companies, organizations and individuals outside of Google unless one of the following circumstances applies:
 
@@ -138,7 +142,7 @@ We may share aggregated, non-personally identifiable information publicly and wi
 
 If Google is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy.
 
-Information security
+Back to top Information security
 
 We work hard to protect Google and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular:
 
@@ -147,21 +151,21 @@ We work hard to protect Google and our users from unauthorized access to or unau
 *   We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems.
 *   We restrict access to personal information to Google employees, contractors and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
 
-When this Privacy Policy applies
+Back to top When this Privacy Policy applies
 
 Our Privacy Policy applies to all of the services offered by Google Inc. and its affiliates, including YouTube, and services offered on other sites (such as our advertising services), but excludes services that have separate privacy policies that do not incorporate this Privacy Policy.
 
 Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you in search results, sites that may include Google services, or other sites linked from our services. Our Privacy Policy does not cover the information practices of other companies and organizations who advertise our services, and who may use cookies, pixel tags and other technologies to serve and offer relevant ads.
 
-Compliance and cooperation with regulatory authorities
+Back to top Compliance and cooperation with regulatory authorities
 
 We regularly review our compliance with our Privacy Policy. We also adhere to several self regulatory frameworks. When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly.
 
-Changes
+Back to top Changes
 
 Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review.
 
-Specific product practices
+Back to top Specific product practices
 
 The following notices explain specific privacy practices with respect to certain Google products and services that you may use:
 
@@ -172,7 +176,7 @@ The following notices explain specific privacy practices with respect to certain
 
 For more information about some of our most popular services, you can visit the Google Product Privacy Guide.
 
-Other useful privacy and security related materials
+Back to top Other useful privacy and security related materials
 
 Further useful privacy and security related materials can be found through Google’s policies and principles pages, including:
 
@@ -182,6 +186,10 @@ Further useful privacy and security related materials can be found through Googl
     *   how we recognize patterns like faces.
 *   A page that explains what data is shared with Google when you visit websites that use our advertising, analytics and social products.
 *   Google’s safety center, which provides information on how to stay safe and secure online.
+
+We keep your personal information private and safe — and put you in control.
+
+Get answers to common questions about privacy and security.
 
 Example "access to your personal information"For example, with Google Dashboard you can quickly and easily see some of the data associated with your Google Account. Learn more. Example "ads you’ll find most useful"For example, if you frequently visit websites and blogs about gardening, you may see ads related to gardening as you browse the web. Learn more. Example "advertising services"For example, if you frequently visit websites and blogs about gardening that show our ads, you may start to see ads related to this interest as you browse the web. Learn more. Example "and other sensors"Your device may have sensors that provide information to assist in a better understanding of your location. For example, an accelerometer can be used to determine things like speed, or a gyroscope to figure out direction of travel. Learn more. Example "collect information"This includes information like your usage data and preferences, Gmail messages, G+ profile, photos, videos, browsing history, map searches, docs, or other Google-hosted content. Learn more. Example "combine personal information from one service with information, including personal information, from other Google services"For example, when you’re signed in to your Google Account and search on Google, you can see search results from the public web, along with pages, photos, and Google+ posts from your friends and people who know you or follow you on Google+ may see your posts and profile in their results. Learn more. Example "connect with people"For example, you could get suggestions of people you might know or want to connect with on Google+, based on the connections you have with people on other Google products, like Gmail and people who have a connection with you may see your profile as a suggestion. Learn more. Example "credit card"Whilst we currently don’t ask for a credit card during sign up, verifying your age through a small credit card transaction is one way to confirm that you meet our age requirements in case your account was disabled after you have entered a birthday indicating you are not old enough to have a Google Account. Learn more. Example "develop new ones"For example, Google’s spell checking software was developed by analyzing previous searches where users had corrected their own spelling. Learn more. Example "device identifiers"Device identifiers let Google know which unique device you are using to access our services, which can be used to customise our service to your device or analyse any device issues related to our services. Learn more. Example "device-specific information"For example, when you visit Google Play from your desktop, Google can use this information to help you decide on which devices you'd like your purchases to be available for use. Learn more. Example "improve your user experience"For example, cookies allow us to analyse how users interact with our services. Learn more. Example "legal process or enforceable governmental request"Like other technology and communications companies, Google regularly receives requests from governments and courts around the world to hand over user data. Learn more. Example "limit sharing or visibility settings"For example, you can choose your settings so your name and photo do not appear in an ad. Learn more. Example "linked with information about visits to multiple sites"Google Analytics is based on first-party cookies. Data generated through Google Analytics can be linked, by the Google Analytics customer or by Google, using Google technology, to third-party cookies, related to visits to other websites, for instance when an advertiser wants to use its Google Analytics data to create more relevant ads, or to further analyze its traffic. Learn more. Example "may collect and process information about your actual location"For example, Google Maps can center the maps view on your current location. Learn more. Example "may not function properly"For example, we use a cookie called ‘lbcs’ which makes it possible for you to open many Google Docs in one browser. Learn more. Example "and our partners"We allow trusted businesses to use cookies or similar technologies for advertising and research purposes on our services. Learn more. Example "phone number"For example, if you add a phone number as a recovery option, if you forget your password Google can send you a text message with a code to enable you to reset it. Learn more. Example "protect Google and our users"For example, if you're concerned about unauthorized access to your email, "Last account activity" in Gmail shows you information about recent activity in your email, such as the IP addresses that accessed your mail, the associated location, as well as the time and date. Learn more. Example "sharing"For example, with Google+, you have many different sharing options. Learn more. Example "sharing with others quicker and easier"For example, if someone is already a contact, Google will autocomplete their name if you want to add them to a message in Gmail. Learn more. Example "the people who matter most to you online"For example, when you type an address in the To, Cc, or Bcc field of a message you're composing, Gmail will suggest addresses from your Contacts list. Learn more. Example "to make it easier to share things with people you know"For example, if you have communicated with someone via Gmail and want to add them to a Google Doc or an event in Google Calendar, Google makes it easy to do so by autocompleting their email address when you start to type in their name. Learn more. Example "view and interact with our ads"For example, we regularly report to advertisers on whether we served their ad to a page and whether that ad was likely to be seen by users (as opposed to, for example, being on part of the page to which users did not scroll). Learn more. Example "We may share aggregated, non-personally identifiable information publicly"When lots of people start searching for something, it can provide very useful information about particular trends at that time. Learn more. Example "Wi-Fi access points and cell towers"For example, Google can approximate your device’s location based on the known location of nearby cell towers. Learn more. Example "more relevant search results"
 
