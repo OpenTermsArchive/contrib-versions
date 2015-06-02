@@ -8,33 +8,45 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Archives
+    *   by HotMamita
+    *   20 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Data migration
+    *   by ericalovessmap
+    *   22 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   blog recovery
     *   \[Resolved\] by envy\_dis\_leo
     *   4 months ago
     *   in Themes
     *   0 votes
-    *   2 (last comment by Icahbanjarmasin 23 hours ago)
+    *   2 (last comment by Icahbanjarmasin 1 day ago)
 *   Help
     *   by boricualove05
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Help
     *   by boricualove05
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Any progress in retrieving lost blogs
     *   by Gustava
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Bagaimana Tips Seo 2015
     *   by Icahbanjarmasin
-    *   1 day ago
+    *   2 days ago
     *   in Personal URLs
     *   0 votes
     *   0
@@ -43,34 +55,34 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by Icahbanjarmasin 1 day ago)
+    *   1 (last comment by Icahbanjarmasin 2 days ago)
 *   Trying to edit my themes...
     *   by Donkey\_Guy\_10
     *   1 year ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by Icahbanjarmasin 1 day ago)
+    *   1 (last comment by Icahbanjarmasin 2 days ago)
 *   Is there still have other options for the membership?
     *   \[Resolved\] by dandenpillar
     *   6 months ago
     *   in Themes
     *   0 votes
-    *   2 (last comment by Icahbanjarmasin 1 day ago)
+    *   2 (last comment by Icahbanjarmasin 2 days ago)
 *   I can not access my account
     *   \[Resolved\] by bill\_tse
     *   5 months ago
     *   in Themes
     *   0 votes
-    *   2 (last comment by Icahbanjarmasin 1 day ago)
+    *   2 (last comment by Icahbanjarmasin 2 days ago)
 *   all blogs do not appear
     *   by ho\_1115
     *   1 year ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by Icahbanjarmasin 1 day ago)
+    *   1 (last comment by Icahbanjarmasin 2 days ago)
 *   When A Posted Is Deleted....
     *   by routergenie
-    *   1 day ago
+    *   2 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
@@ -79,22 +91,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Usernames
     *   0 votes
-    *   1 (last comment by tianaango 3 days ago)
+    *   1 (last comment by tianaango 4 days ago)
 *   forgot password
     *   by franciswann
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Data Migration
-    *   by ysk\_kuen
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Data Migration
-    *   by ysk\_kuen
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
