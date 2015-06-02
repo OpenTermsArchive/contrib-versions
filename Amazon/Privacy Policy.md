@@ -114,3 +114,15 @@ Examples of businesses with which we offer joint or co-branded products and othe
 **Information You Can Access**
 
 Examples of information you can access easily at Amazon.com include up-to-date information regarding recent orders. personally identifiable information (including name, e-mail, password, communications and personalized advertising preferences, address book, and 1-Click settings). payment settings (including credit card information and promotional certificate and gift card balances). e-mail notification settings (including Product Availability Alerts, Delivers, and newsletters). Recommendations (including Recommended for You and Improve Your Recommendations). shopping lists and gift registries (including Wish Lists and Baby and Wedding Registries). Seller accounts. and Your Profile (including your product Reviews, Recommendations, Listmania lists, Reminders, personal profile, and Wish List).
+
+Was this information helpful?
+
+Yes No
+
+Thank you for your feedback.
+
+Please select what best describes the information:
+
+I was confused by what I found I couldn’t find what I was looking for I didn’t Like what I found Submit
+
+Thanks! While we're unable to respond directly to your feedback, we'll use this information to improve our online Help.
