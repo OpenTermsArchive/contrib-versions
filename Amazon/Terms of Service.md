@@ -140,3 +140,15 @@ Please note that this procedure is exclusively for notifying Amazon that your co
 3.  **No Reverse Engineering.** You may not, and you will not encourage, assist or authorize any other person to copy, modify, reverse engineer, decompile or disassemble, or otherwise tamper with, the Amazon Software, whether in whole or in part, or create any derivative works from or of the Amazon Software.
 4.  **Updates.** In order to keep the Amazon Software up-to-date, we may offer automatic or manual updates at any time and without notice to you.
 5.  **Export Regulations. Government End Users.** You must comply with all export and re-export restrictions and regulations of the Department of Commerce and other United States agencies and authorities that may apply to the Amazon Software. If you are a U.S. Government end user, we are licensing the Amazon Software to you as a "Commercial Item" as that term is defined in the U.S. Code of Federal Regulations (see 48 C.F.R. § 2.101), and the rights we grant you to the Amazon Software are the same as the rights we grant to all others under these Conditions of Use.
+
+Was this information helpful?
+
+Yes No
+
+Thank you for your feedback.
+
+Please select what best describes the information:
+
+I was confused by what I found I couldn’t find what I was looking for I didn’t Like what I found Submit
+
+Thanks! While we're unable to respond directly to your feedback, we'll use this information to improve our online Help.
