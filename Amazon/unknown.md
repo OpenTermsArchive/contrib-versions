@@ -1919,3 +1919,15 @@ Unless required by applicable law or agreed to in writing, software distributed 
 Amazon Cloud Drive uses icons from Silk Icons, a free icon set created by Mark James and licensed under the Creative Commons Attribution 2.5 License.
 
 The Amazon Cloud Drive Desktop App uses a photo titled "Flower" taken by Peter Dutton and licensed under the Creative Commons Attribution 2.0 License.
+
+Was this information helpful?
+
+Yes No
+
+Thank you for your feedback.
+
+Please select what best describes the information:
+
+I was confused by what I found I couldn’t find what I was looking for I didn’t Like what I found Submit
+
+Thanks! While we're unable to respond directly to your feedback, we'll use this information to improve our online Help.
