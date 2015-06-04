@@ -1928,6 +1928,6 @@ Thank you for your feedback.
 
 Please select what best describes the information:
 
-I was confused by what I found I couldn’t find what I was looking for I didn’t Like what I found Submit
+I was confused by what I found I couldn’t find what I was looking for I didn’t like what I found Submit
 
 Thanks! While we're unable to respond directly to your feedback, we'll use this information to improve our online Help.
