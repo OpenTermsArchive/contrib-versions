@@ -30,7 +30,32 @@ Sign In Hi, {username}
 *   Wix Blog
 *   Wix Stories
 
-Wix.com Wix.com is a leading cloud-based web development platform with millions of users worldwide. We make it simple for everyone to create a beautiful, professional web presence. No creative limits, no coding skills needed to get your business online.
+Get Started
+
+Sign up to create your  
+stunning website. It’s free
+
+Sign Up
+
+\* By signing up, you agree to our Terms of Use, Privacy and to receive Wix emails, newsletters &. updates.
+
+Thank you!
+
+Thank you for signing up to Wix.  
+We have sent an email to:
+
+Get Started
+
+To start creating your website,  
+please access the Wix website builder through your desktop.
+
+Hi again :)
+
+You already have an account at Wix.com
+
+To sign in to your Wix account,please go to your desktop or laptop
+
+OK Wix.com Wix.com is a leading cloud-based web development platform with millions of users worldwide. We make it simple for everyone to create a beautiful, professional web presence. No creative limits, no coding skills needed to get your business online.
 
 *   Facebook
 *   Twitter
