@@ -9,6 +9,7 @@ WIRELESS CUSTOMER AGREEMENT ("Agreement") Documents
 *   Terms of Service - GoPhone®
 *   Data Services Agreement
 *   Applications, Services, and Features
+*   Privacy Notice for AT&T Next Installment Agreements
 *   ► Policies and Processes
 *   AT&T Maps and Coverage Area Information
 *   Upgrade Advantage(SM)
