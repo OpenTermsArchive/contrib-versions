@@ -9,6 +9,7 @@ Search Search Windstream.com Search or Cancel
     *   View or Pay My Bill
     *   Move My Service
     *   Go to Windstream.net
+    *   What's New
 
 My Cart (Edit) My Location_:_ n/a
 
@@ -28,7 +29,7 @@ My Cart (Edit) My Location_:_ n/a
 *   Support
     
     *   Support Center
-    *   Meet Wendy
+    *   What's New
     *   Live Chat
     *   Blog
     
