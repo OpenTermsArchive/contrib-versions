@@ -10,37 +10,43 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Paid but nothing happens
     *   by midfielder7
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
+    *   0 votes
+    *   1 (last comment by weedyweedyweed 1 hour ago)
+*   Forgotten Password &. Old Email.
+    *   by This\_Iz\_My\_Revenge
+    *   23 hours ago
+    *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Paid for Upgrade, Nothing happened
     *   by weedyweedyweed
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can't see my blog
     *   by sepyul
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I can't view my blog :(
     *   by ohheytherexoxo
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Archives
     *   by HotMamita
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data migration
     *   by ericalovessmap
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -49,7 +55,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 months ago
     *   in Themes
     *   0 votes
-    *   2 (last comment by Icahbanjarmasin 6 days ago)
+    *   2 (last comment by Icahbanjarmasin 1 week ago)
 *   Help
     *   by boricualove05
     *   1 week ago
@@ -92,14 +98,8 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Themes
     *   0 votes
     *   2 (last comment by Icahbanjarmasin 1 week ago)
-*   I can not access my account
-    *   \[Resolved\] by bill\_tse
-    *   5 months ago
-    *   in Themes
-    *   0 votes
-    *   2 (last comment by Icahbanjarmasin 1 week ago)
 
-1 2 3 ... 154 Next
+1 2 3 ... 155 Next
 
 Help Categories
 
