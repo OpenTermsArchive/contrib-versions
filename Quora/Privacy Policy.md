@@ -1,27 +1,16 @@
-This page may be out of date. Save your draft before refreshing this page.Submit any pending changes before refreshing this page. Hide this message. Quora  
-
-Login Sign Up
-
-*   About
-*   Jobs
-*   Blog
-*   Challenges
-*   Privacy Policy
-*   Terms of Service
-*   Press
-*   Resources
-
-Quora Privacy Policy
+This page may be out of date. Save your draft before refreshing this page.Submit any pending changes before refreshing this page. Hide this message.                                 Quora AboutAbout CareersCareers PressPress BlogBlog Privacy Policy
 
 Last updated: March 4, 2014.
 
 We recognize that your privacy is very important and take it seriously. This Privacy Policy describes Quora's policies and procedures on the collection, use and disclosure of your information when you use the Quora Service, via the Quora website, Quora content embedded on another site (such as a Quora "Follow" button), your mobile phone, or through one of Quora's applications for mobile devices (e.g., the Quora iPhone application). We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our Terms of Service.
 
-**Information Collection and Use**
+Information Collection and Use
 
 Quora uses information we collect to analyze how the Service is used, diagnose service or technical problems, maintain security, personalize content, remember information to help you efficiently access your account, monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns, and track User Content and users as necessary to comply with the Digital Millennium Copyright Act and other applicable laws.
 
-**User-Provided Information:** You provide us information about yourself, such as your name and e-mail address, if you register for a member account with the Service. Your name and other information you choose to add to your profile will be available for public viewing on the Service. You may provide us with your mobile phone number if you choose to submit questions and receive answers via text message. We may use your email address to send you Service-related notices (including any notices required by law, in lieu of communication by postal mail). You can control receipt of certain Service-related messages on your Settings page. We may also use your contact information to send you marketing email messages. If you do not want to receive such messages, you may opt out by following the instructions in the message. If you correspond with us by email, we may retain the content of your email messages, your email address and our responses.
+User-Provided Information:
+
+You provide us information about yourself, such as your name and e-mail address, if you register for a member account with the Service. Your name and other information you choose to add to your profile will be available for public viewing on the Service. You may provide us with your mobile phone number if you choose to submit questions and receive answers via text message. We may use your email address to send you Service-related notices (including any notices required by law, in lieu of communication by postal mail). You can control receipt of certain Service-related messages on your Settings page. We may also use your contact information to send you marketing email messages. If you do not want to receive such messages, you may opt out by following the instructions in the message. If you correspond with us by email, we may retain the content of your email messages, your email address and our responses.
 
 If you use your Facebook, Twitter, or other social networking site ("SNS") account information to sign in to Quora, we will collect and store your SNS user ID. If you connect your Quora account with your SNS account (such as to enable posting from Quora), we ask for your permission to collect certain information from your SNS account (such as information from your SNS profile).
 
@@ -29,7 +18,9 @@ You also provide us information in User Content you post to the Service. Your qu
 
 If you choose to use our invitation service to invite a friend to the Service, we will ask you for that person's email address and automatically send an email invitation. You may also use our contact importer tool to help you upload your friends' email addresses so you can find friends who are already on Quora or invite friends to the Service. Quora stores this information to send invitations, to register your friend if your invitation is accepted, to track the success of our invitation service, and to identify your friends on Quora.
 
-**Information Collected Automatically:** When you use the Service, we use persistent and session cookies and other tracking technologies to: (a) store your username and password. (b) analyze the usage of the Service. (c) customize the Service to your preferences. and (d) control the advertising displayed by the Service. A persistent cookie remains on your computer after you close your browser so that it can be used by your browser on subsequent visits to the Service. Persistent cookies can be removed by following your web browser's directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
+Information Collected Automatically:
+
+When you use the Service, we use persistent and session cookies and other tracking technologies to: (a) store your username and password. (b) analyze the usage of the Service. (c) customize the Service to your preferences. and (d) control the advertising displayed by the Service. A persistent cookie remains on your computer after you close your browser so that it can be used by your browser on subsequent visits to the Service. Persistent cookies can be removed by following your web browser's directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
 
 We may also use other Internet technologies, log files, clear GIFs, Flash technologies, and other similar technologies, to deliver or communicate with cookies and track your use of the Service. We also may include clear GIFs in HTML-based emails sent to our users to determine whether the message has been opened. As we adopt additional technology, we may also gather additional information through other methods.
 
@@ -43,9 +34,9 @@ Quora may allow third parties to serve advertisements on the Service and on thir
 
 Quora itself does not respond to "do not track" signals, and we do not control whether third parties do. For more information about third-party ad networks that use cookies and the other technologies discussed above, and to opt-out of their tailoring of ads on third-party sites based on this information, see http://www.networkadvertising.org/managing/opt\_out.asp and http://www.aboutads.info/consumers.
 
-**How We Share Your Information**
+How We Share Your Information
 
-**Personally Identifiable Information:** Quora may share your personally identifiable information with third parties for the purpose of providing the Service to you or with third parties offering combined services with Quora. For example, we may share your personally identifiable information with third-party partners that display Quora questions and answers through their services so that such partners can tailor content and advertising to you. If we do this, such third parties' use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of Quora (for instance, on servers or databases co-located with hosting providers).
+Personally Identifiable Information: Quora may share your personally identifiable information with third parties for the purpose of providing the Service to you or with third parties offering combined services with Quora. For example, we may share your personally identifiable information with third-party partners that display Quora questions and answers through their services so that such partners can tailor content and advertising to you. If we do this, such third parties' use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of Quora (for instance, on servers or databases co-located with hosting providers).
 
 As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer or assign such information in the course of corporate divestitures, mergers, or dissolution.
 
@@ -53,33 +44,35 @@ We may share or disclose your information with your consent, such as if you choo
 
 Quora may disclose your personal information if required to do so by law or subpoena or if we believe that it is reasonably necessary to comply with a law, regulation or legal request. to protect the safety of any person. to address fraud, security or technical issues. or to protect Quora's rights or property.
 
-**Non-Personally Identifiable Information:** We may aggregate and/or anonymize information collected through the Service so that the information does not identify you. We may use aggregated, anonymized, and other non-personally identifiable information for any purpose, including for research and marketing purposes, and our use and disclosure of such information is not subject to any restrictions under this Privacy Policy.
+Non-Personally Identifiable Information:
+
+We may aggregate and/or anonymize information collected through the Service so that the information does not identify you. We may use aggregated, anonymized, and other non-personally identifiable information for any purpose, including for research and marketing purposes, and our use and disclosure of such information is not subject to any restrictions under this Privacy Policy.
 
 Quora may allow third-party ad servers or ad networks to serve advertisements on the Service and on third-party services. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on Quora. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. Quora does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks Quora to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad server may conclude that you fit the description of the audience they are trying to reach. The Quora Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers. Please consult the respective privacy policies of such advertisers for more information.
 
-**How We Protect Your Information**
+How We Protect Your Information
 
 Quora uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Quora or guarantee that your information on the Service may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
 In the event that personal information is compromised as a result of a breach of security, Quora will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
 
-**Your Choices About Your Information**
+Your Choices About Your Information
 
 You may, of course, decline to submit personally identifiable information through the Service, in which case Quora may not be able to provide certain services to you. You may update or correct your account information and email preferences at any time by logging in to your account.
 
-**Children's Privacy**
+Children's Privacy
 
 Protecting the privacy of young children is especially important. Quora does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register with the Service. If we become aware that we have collected personal information from a child under age 13 without verification of parental consent, we take steps to remove that information.
 
-**Links to Other Web Sites**
+Links to Other Web Sites
 
 We are not responsible for the practices employed by websites linked to or from the Service, nor the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including those that have a link on our website, is subject to that website's own rules and policies.
 
-**Your California Privacy Rights**
+Your California Privacy Rights
 
 California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their personally identifiable information (if any) for their direct marketing purposes in the prior calendar year, as well as the types of personally identifiable information disclosed to those parties. If you are a California resident and would like to request this information, please submit your request in an email to privacy@quora.com.
 
-**Changes to Our Privacy Policy**
+Changes to Our Privacy Policy
 
 If we change our privacy policies and procedures, we will post those changes on this page to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
 
@@ -90,8 +83,11 @@ Attn: Privacy
 650 Castro Street, Suite 450  
 Mountain View, CA 94041
 
-**Recent updates to this Privacy Policy**
+Recent updates to this Privacy Policy
 
 March 4, 2014: We added more detail about social networking services, cookies and similar technologies.
 
-                                Sitemap # ABCDEFGHIJKLMNOPQRSTUVWXYZ About - Careers - Privacy - Terms
+*   Challenges
+*   Privacy Policy
+*   Terms of Service
+*   Sitemap
