@@ -8,94 +8,94 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   I cannot find any of my past blogs
+    *   by XoBrItTnEyXo
+    *   1 hour ago
+    *   in Miscellaenous
+    *   0 votes
+    *   0
 *   Requesting my old blog
     *   by hesh
-    *   22 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by weedyweedyweed 11 hours ago)
+    *   1 (last comment by weedyweedyweed 1 day ago)
 *   Paid but nothing happens
     *   by midfielder7
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by weedyweedyweed 11 hours ago)
+    *   3 (last comment by weedyweedyweed 1 day ago)
 *   My blog is gone :(
     *   by Simi\_1986
     *   1 month ago
     *   in Miscellaenous
     *   0 votes
-    *   1 (last comment by Lisa\_Avery 13 hours ago)
+    *   1 (last comment by Lisa\_Avery 1 day ago)
 *   Find my blog posts
     *   by Lisa\_Avery
-    *   13 hours ago
+    *   1 day ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   I can't see my old blog posts or figure out how to make new ones.
     *   \[Resolved\] by xPxMxSx
-    *   5 months ago
+    *   6 months ago
     *   in Adding &. Editing Entries
     *   0 votes
-    *   4 (last comment by Icahbanjarmasin 1 day ago)
+    *   4 (last comment by Icahbanjarmasin 2 days ago)
 *   My blog is missing!
     *   by michelle2631
     *   1 year ago
     *   in Getting Started
     *   0 votes
-    *   1 (last comment by Icahbanjarmasin 1 day ago)
+    *   1 (last comment by Icahbanjarmasin 2 days ago)
 *   Can I get back my old blog please?
     *   by cecilawhk
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Icahbanjarmasin 1 day ago)
+    *   1 (last comment by Icahbanjarmasin 2 days ago)
 *   Can't see any old posts...
     *   \[Resolved\] by kalokwin
     *   4 months ago
     *   in Themes
     *   0 votes
-    *   2 (last comment by Icahbanjarmasin 1 day ago)
+    *   2 (last comment by Icahbanjarmasin 2 days ago)
 *   My URL address won't transfer
     *   \[Resolved\] by Artzybella
     *   1 year ago
     *   in Personal URLs
     *   0 votes
-    *   2 (last comment by Icahbanjarmasin 1 day ago)
+    *   2 (last comment by Icahbanjarmasin 2 days ago)
 *   I want to read my old xanga blog
     *   \[Resolved\] by ka\_ki907
     *   1 year ago
     *   in Personal URLs
     *   0 votes
-    *   3 (last comment by Icahbanjarmasin 1 day ago)
+    *   3 (last comment by Icahbanjarmasin 2 days ago)
 *   My URL is also missing!
     *   \[Resolved\] by lily\_scarlet
     *   1 year ago
     *   in Personal URLs
     *   0 votes
-    *   3 (last comment by Icahbanjarmasin 1 day ago)
+    *   3 (last comment by Icahbanjarmasin 2 days ago)
 *   Have Personal URL's Migrated?
     *   by pdvossen
     *   1 year ago
     *   in Personal URLs
     *   0 votes
-    *   2 (last comment by Icahbanjarmasin 1 day ago)
+    *   2 (last comment by Icahbanjarmasin 2 days ago)
 *   i can't find my blog...
     *   \[Resolved\] by bbbyan
     *   11 months ago
     *   in Personal URLs
     *   0 votes
-    *   4 (last comment by Icahbanjarmasin 1 day ago)
+    *   4 (last comment by Icahbanjarmasin 2 days ago)
 *   Forgotten Password &. Old Email.
     *   by This\_Iz\_My\_Revenge
-    *   2 days ago
+    *   3 days ago
     *   in Passwords &. Sign-In
-    *   0 votes
-    *   0
-*   Paid for Upgrade, Nothing happened
-    *   by weedyweedyweed
-    *   5 days ago
-    *   in Data Migration
     *   0 votes
     *   0
 
