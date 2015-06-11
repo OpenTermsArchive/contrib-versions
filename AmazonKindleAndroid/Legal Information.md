@@ -71,17 +71,23 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 a. Names and Copyright Notices.
 
-\- Android Bionic Linker - © 2007-2011 The Android Open Source Project.
+\- Android Bionic Linker - Copyright © 2007-2011 The Android Open Source Project.
 
-\- Apache Commons Codec - © 2002-2009 The Apache Software Foundation. This product includes software developed by The Apache Software Foundation (http://www.apache.org/).
+\- Apache Commons Codec - Copyright © 2002-2009 The Apache Software Foundation. This product includes software developed by The Apache Software Foundation (http://www.apache.org/).
 
-\- Fragment Support - © 2005-2011 The Android Open Source Project.
+\- Fragment Support - Copyright © 2005-2011 The Android Open Source Project.
 
-\- Skia - © 2006 The Android Open Source Project.
+\- Skia - Copyright © 2006 The Android Open Source Project.
 
-\- Android Java API Implementations - Copyright (c) 2007-2012, The Android Open Source Project
+\- Android Java API Implementations - Copyright © 2007-2012, The Android Open Source Project
 
-\- Lucene Copyright 2012 The Apache Software Foundation
+\- Lucene Copyright © 2012 The Apache Software Foundation
+
+\- Apache Commons Lange 3 - Copyright © 2001-2014 The Apache Software Foundation
+
+\- Volley - Copyright © 2011-2013 The Android Open Source Project
+
+\- Gson - Copyright © 2008-2014 Google Inc.
 
 b. Apache License, Version 2.0 (full text)
 
