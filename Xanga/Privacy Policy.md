@@ -8,46 +8,10 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   can not open my xanga
-    *   by kyying\_2
-    *   31 minutes ago
+*   Nothing is here
+    *   by raymond131913
+    *   20 minutes ago
     *   in Data Migration
-    *   0 votes
-    *   0
-*   Any progress in retrieving lost blogs
-    *   by Gustava
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by rabbitmary 13 hours ago)
-*   Request blog archive
-    *   by B3NJ2H0TR10T91RL
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Request blog archive
-    *   by B3NJ2H0TR10T91RL
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Requesting my old blog
-    *   by hesh
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by Icahbanjarmasin 1 day ago)
-*   My blog is gone :(
-    *   by Simi\_1986
-    *   1 month ago
-    *   in Miscellaenous
-    *   0 votes
-    *   2 (last comment by Icahbanjarmasin 1 day ago)
-*   I cannot find any of my past blogs
-    *   by XoBrItTnEyXo
-    *   2 days ago
-    *   in Miscellaenous
     *   0 votes
     *   0
 *   Paid but nothing happens
@@ -55,10 +19,58 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by weedyweedyweed 3 days ago)
+    *   4 (last comment by midfielder7 11 hours ago)
+*   kaptainsteve blog???
+    *   by kaptainsteve
+    *   16 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Request blog archive
+    *   by B3NJ2H0TR10T91RL
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by Icahbanjarmasin 22 hours ago)
+*   Any progress in retrieving lost blogs
+    *   by Gustava
+    *   2 weeks ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by Icahbanjarmasin 22 hours ago)
+*   can not open my xanga
+    *   by kyying\_2
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Request blog archive
+    *   by B3NJ2H0TR10T91RL
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Requesting my old blog
+    *   by hesh
+    *   4 days ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by Icahbanjarmasin 2 days ago)
+*   My blog is gone :(
+    *   by Simi\_1986
+    *   1 month ago
+    *   in Miscellaenous
+    *   0 votes
+    *   2 (last comment by Icahbanjarmasin 2 days ago)
+*   I cannot find any of my past blogs
+    *   by XoBrItTnEyXo
+    *   3 days ago
+    *   in Miscellaenous
+    *   0 votes
+    *   0
 *   Find my blog posts
     *   by Lisa\_Avery
-    *   3 days ago
+    *   4 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
@@ -67,37 +79,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   6 months ago
     *   in Adding &. Editing Entries
     *   0 votes
-    *   4 (last comment by Icahbanjarmasin 4 days ago)
+    *   4 (last comment by Icahbanjarmasin 5 days ago)
 *   My blog is missing!
     *   by michelle2631
     *   1 year ago
     *   in Getting Started
     *   0 votes
-    *   1 (last comment by Icahbanjarmasin 4 days ago)
+    *   1 (last comment by Icahbanjarmasin 5 days ago)
 *   Can I get back my old blog please?
     *   by cecilawhk
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Icahbanjarmasin 4 days ago)
+    *   1 (last comment by Icahbanjarmasin 5 days ago)
 *   Can't see any old posts...
     *   \[Resolved\] by kalokwin
     *   4 months ago
     *   in Themes
     *   0 votes
-    *   2 (last comment by Icahbanjarmasin 4 days ago)
-*   My URL address won't transfer
-    *   \[Resolved\] by Artzybella
-    *   1 year ago
-    *   in Personal URLs
-    *   0 votes
-    *   2 (last comment by Icahbanjarmasin 4 days ago)
-*   I want to read my old xanga blog
-    *   \[Resolved\] by ka\_ki907
-    *   1 year ago
-    *   in Personal URLs
-    *   0 votes
-    *   3 (last comment by Icahbanjarmasin 4 days ago)
+    *   2 (last comment by Icahbanjarmasin 5 days ago)
 
 1 2 3 ... 155 Next
 
