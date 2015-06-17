@@ -78,7 +78,7 @@ This Statement of Rights and Responsibilities ("Statement," "Terms," or "SRR") d
          
 10.  **Special Provisions Applicable to Advertisers**  
       
-    If you use our self-service advertising creation interfaces for creation, submission and/or delivery of any advertising or other commercial or sponsored activity or content (collectively, the “Self-Serve Ad Interfaces”), you agree to our Self-Serve Ad Terms. In addition, your advertising or other commercial or sponsored activity or content placed on Facebook or our publisher network will comply with our Advertising Guidelines.
+    If you use our self-service advertising creation interfaces for creation, submission and/or delivery of any advertising or other commercial or sponsored activity or content (collectively, the “Self-Serve Ad Interfaces”), you agree to our Self-Serve Ad Terms. In addition, your advertising or other commercial or sponsored activity or content placed on Facebook or our publisher network will comply with our Advertising Policies.
 11.  **Special Provisions Applicable to Pages**  
       
     If you create or administer a Page on Facebook, or run a promotion or an offer from your Page, you agree to our Pages Terms.  
@@ -143,7 +143,7 @@ By using or accessing Facebook Services, you agree that we can collect and use s
 *   Payment Terms: These additional terms apply to all payments made on or through Facebook, unless it is stated that other terms apply.
 *   Platform Page: This page helps you better understand what happens when you add a third-party application or use Facebook Connect, including how they may access and use your data.
 *   Facebook Platform Policies: These guidelines outline the policies that apply to applications, including Connect sites.
-*   Advertising Guidelines: These guidelines outline the policies that apply to advertisements placed on Facebook.
+*   Advertising Policies: These guidelines outline the policies that apply to advertisements placed on Facebook.
 *   Self-Serve Ad Terms: These terms apply when you use the Self-Serve Ad Interfaces to create, submit, or deliver any advertising or other commercial or sponsored activity or content.
 *   Promotions Guidelines: These guidelines outline the policies that apply if you offer contests, sweepstakes, and other types of promotions on Facebook.
 *   Facebook Brand Resources: These guidelines outline the policies that apply to use of Facebook trademarks, logos and screenshots.
