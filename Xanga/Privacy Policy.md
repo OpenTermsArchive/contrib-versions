@@ -8,27 +8,39 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Would Like To Renew Blog Subscription
+    *   by Applehead7
+    *   6 hours ago
+    *   in Premium
+    *   0 votes
+    *   0
+*   request for blog
+    *   by crystal\_waiwai
+    *   12 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Please delete my account (everything!)
     *   by TheUltimateDragon4888
-    *   15 hours ago
+    *   2 days ago
     *   in Usernames
     *   0 votes
     *   0
 *   Request for blog
     *   by Zeraphyn
-    *   1 day ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data Migration
     *   by ar\_hei88
-    *   2 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Nothing is here
     *   by raymond131913
-    *   3 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -37,34 +49,34 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by midfielder7 3 days ago)
+    *   4 (last comment by midfielder7 5 days ago)
 *   kaptainsteve blog???
     *   by kaptainsteve
-    *   3 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Request blog archive
     *   by B3NJ2H0TR10T91RL
-    *   5 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Icahbanjarmasin 3 days ago)
+    *   1 (last comment by Icahbanjarmasin 5 days ago)
 *   Any progress in retrieving lost blogs
     *   by Gustava
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by Icahbanjarmasin 3 days ago)
+    *   2 (last comment by Icahbanjarmasin 5 days ago)
 *   can not open my xanga
     *   by kyying\_2
-    *   4 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Request blog archive
     *   by B3NJ2H0TR10T91RL
-    *   5 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -73,31 +85,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by Icahbanjarmasin 5 days ago)
+    *   2 (last comment by Icahbanjarmasin 1 week ago)
 *   My blog is gone :(
     *   by Simi\_1986
     *   1 month ago
     *   in Miscellaenous
     *   0 votes
-    *   2 (last comment by Icahbanjarmasin 5 days ago)
+    *   2 (last comment by Icahbanjarmasin 1 week ago)
 *   I cannot find any of my past blogs
     *   by XoBrItTnEyXo
-    *   6 days ago
-    *   in Miscellaenous
-    *   0 votes
-    *   0
-*   Find my blog posts
-    *   by Lisa\_Avery
     *   1 week ago
     *   in Miscellaenous
     *   0 votes
     *   0
-*   I can't see my old blog posts or figure out how to make new ones.
-    *   \[Resolved\] by xPxMxSx
-    *   6 months ago
-    *   in Adding &. Editing Entries
-    *   0 votes
-    *   4 (last comment by Icahbanjarmasin 1 week ago)
 
 1 2 3 ... 155 Next
 
