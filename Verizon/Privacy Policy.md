@@ -2,7 +2,7 @@ Verizon is Committed to Protecting Your Privacy
 
 At Verizon, we are committed to maintaining strong and meaningful privacy protections for customers. Our privacy policy is designed to inform you about the information we collect, how we use it, and your options about certain uses of information. Key elements of our full privacy policy are summarized below.
 
-Verizon's privacy policy applies to customers of the Verizon family of companies in the United States and to visitors to Verizon websites. It does not apply to Verizon Business customers outside the United States.  
+Verizon's privacy policy applies to website visitors and customers of the Verizon family of companies in the United States. Additional privacy practices that apply to FiOS, Wireless, AOL and Verizon Vehicle services are also described in the full policy. Supplemental privacy policies for AOL companies and the services they provide are described in the AOL privacy policy.  
 Read more
 
 Information We Collect and How We Use It
@@ -16,13 +16,13 @@ Read more
 
 Information Provided to or Used by Third-Party Advertisers
 
-You may see third-party advertisements on some Verizon websites, services, or devices. In some instances, advertisers seek to provide advertising that may be more relevant to your interests. They do this, for example, by placing cookies on your browser and using them to collect information about your visit on our websites . They may combine this information with similar information obtained from other websites. We also may provide third-party advertisers with the ability to target their ads using geographic or demographic information about customers. This information does not identify you individually. You have choices and may limit the use of your information.  
+You may see third-party advertisements on some Verizon websites, services, or devices. In some instances, advertisers seek to provide advertising that may be more relevant to your interests. They do this, for example, by placing cookies on your browser and using them to collect information about your visit on our websites . They may combine this information with similar information obtained from other websites. We also may provide third-party advertisers with the ability to target their ads using certain information about customers. This information does not identify you individually. You have choices and may limit the use of your information.  
 Read more
 
 Information We Share  
 Within the Verizon Family of Companies:
 
-Verizon shares customer information within our family of companies. You can limit our sharing of certain types of customer information, known as Customer Proprietary Network Information, for marketing purposes.  
+Verizon shares customer information within our family of companies. You can limit our sharing of certain types of customer information, known as Customer Proprietary Network Information, for certain marketing uses.  
 Read more
 
 Outside the Verizon Family of Companies:
@@ -55,7 +55,7 @@ Your Choices
     
 *   Wireless Location Services:
     
-    Verizon Wireless services that use mobile device location data provide you with notice about the collection and use of this data as well as choices about whether specific location-tracking features available on your phone are turned on.  
+    Verizon apps that use location-based information provide user controls around the use of the location features.  
     Read more
     
 *   FiOS TV Services:
@@ -73,9 +73,13 @@ Your Choices
     Verizon Wireless customers may opt-out of allowing Verizon Wireless to use their information to create aggregated business and marketing reports.  
     Read more
     
+*   AOL:
+    
+    You have choices about how AOL uses information. To learn more, visit the AOL Privacy Policy.
+    
 *   Parental Controls:
     
-    Age-based content controls are available for parents of Verizon's Internet, Wireless and TV services.  
+    Age-based content controls are available for Verizon's Internet, Wireless and TV services.  
     Read more
     
 
@@ -108,6 +112,6 @@ Read more
 Verizon is a licensee of the TRUSTe Privacy Program.  
 Read more
 
-Updated November 2013
+Updated June, 2015
 
-© 2009, 2011-2013 Verizon. All Rights Reserved.
+© 2009, 2011-2015 Verizon. All Rights Reserved.
