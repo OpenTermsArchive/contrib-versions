@@ -2,7 +2,7 @@ Verizon is Committed to Protecting Your Privacy
 
 At Verizon, we are committed to maintaining strong and meaningful privacy protections for customers. Our privacy policy is designed to inform you about the information we collect, how we use it, and your options about certain uses of information. Key elements of our full privacy policy are summarized below.
 
-Verizon's privacy policy applies to website visitors and customers of the Verizon family of companies in the United States. Additional privacy practices that apply to FiOS, Wireless, AOL and Verizon Vehicle services are also described in the full policy. Supplemental privacy policies for AOL companies and the services they provide are described in the AOL privacy policy.  
+Verizon's privacy policy applies to website visitors and customers of the Verizon family of companies in the United States. Additional privacy practices that apply to FiOS, Verzion Wireless, AOL and Verizon Vehicle services are also described in the full policy. Supplemental privacy policies for AOL companies and the services they provide are described in the AOL privacy policy. In the event of a conflict between the Verizon privacy policy and the AOL privacy policy, the AOL policy will control when you are on an AOL site or using an AOL product or service.  
 Read more
 
 Information We Collect and How We Use It
@@ -16,7 +16,7 @@ Read more
 
 Information Provided to or Used by Third-Party Advertisers
 
-You may see third-party advertisements on some Verizon websites, services, or devices. In some instances, advertisers seek to provide advertising that may be more relevant to your interests. They do this, for example, by placing cookies on your browser and using them to collect information about your visit on our websites . They may combine this information with similar information obtained from other websites. We also may provide third-party advertisers with the ability to target their ads using certain information about customers. This information does not identify you individually. You have choices and may limit the use of your information.  
+You may see third-party advertisements on some Verizon websites, services, or devices. In some instances, advertisers seek to provide advertising that may be more relevant to your interests. They do this, for example, by placing cookies on your browser and using them to collect information about your visit on our websites. They may combine this information with similar information obtained from other websites. We also may provide third-party advertisers with the ability to target their ads using certain information about customers. This information does not identify you individually. You have choices and may limit the use of your information.  
 Read more
 
 Information We Share  
@@ -27,7 +27,7 @@ Read more
 
 Outside the Verizon Family of Companies:
 
-Except in circumstances explained in our Privacy Policy, in privacy policies for specific services, or in agreements with our customers, Verizon does not sell, license or share information that individually identifies our customers with others outside of Verizon for non-Verizon purposes without your consent. We may share information with our vendors and partners for business purposes and when necessary for them to perform work on our behalf. Verizon may also share certain non-personal identifiable information with outside companies to assist with the delivery of advertising campaigns or preparing and sharing aggregate business and marketing reports.  
+Except in circumstances explained in our Privacy Policy, in privacy policies for specific services, or in agreements with our customers, Verizon does not sell, license or share information that individually identifies our customers with others outside of Verizon who are not doing work on Verizon's behalf without your consent. We may share information with our vendors and partners for business purposes and when necessary for them to perform work on our behalf. Verizon may also share certain non-personal identifiable information with outside companies to assist with the delivery of advertising campaigns or preparing and sharing aggregate business and marketing reports.  
 Read more
 
 How to Limit the Sharing and Use of Your Information  
@@ -55,7 +55,7 @@ Your Choices
     
 *   Wireless Location Services:
     
-    Verizon apps that use location-based information provide user controls around the use of the location features.  
+    Verizon apps that use location information provide users with choices about controls around the use of this information.  
     Read more
     
 *   FiOS TV Services:
