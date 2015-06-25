@@ -33,11 +33,11 @@ Hi,
     *   Training Center
     
     *   AliSourcePro
-*   Help
-    *   Help Center for Buyers
-    *   Help Center for Suppliers
-    *   New User Guide
-    *   Submit a Complaint
+*   Customer Service
+    *   I Am a Buyer
+    *   I Am a Supplier
+    *   I Am a New User
+    *   Submit a Dispute
     *   Report IPR Infringement
 *   Trade Assurance
 
@@ -194,6 +194,6 @@ Alibaba Cloud Computing | YunOS | AliTelecom | HiChina | Autonavi | UCWeb | Umen
 
 Browse Alphabetically: Showroom | Country Search | Manufacturers | Suppliers | Promotion | Wholesale
 
-Product Listing Policy - Intellectual Property Policy and Infringement Claims - Privacy Policy - Terms of Use
+Contact Us - Product Listing Policy - Intellectual Property Policy and Infringement Claims - Privacy Policy - Terms of Use
 
 © 1999-2015 Alibaba.com. All rights reserved.
