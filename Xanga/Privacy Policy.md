@@ -10,85 +10,85 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Retrieve old posts
     *   by nycbutterfly21
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve old posts
     *   by nycbutterfly21
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieving old posts...
     *   by SoRa\_gum
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Trying to Retrieve Old Blogs
     *   by RedHeadedSluts
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Trying to Retrieve Old Blogs
     *   by RedHeadedSluts
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Help Recovering Blog
     *   by Hanau\_Hou
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How do I download an archive of my old xanga blog?
     *   by mablearch
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   XML export doesn't contain all posts
     *   by Stealthpsycho
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data Migration
     *   by tkp32
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve old blog
     *   by tangyingqian
-    *   4 days ago
+    *   5 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Data Migration
     *   by nonman94
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data Migration
     *   by nonman94
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Would Like To Renew Blog Subscription
     *   by Applehead7
-    *   5 days ago
+    *   6 days ago
     *   in Premium
     *   0 votes
     *   0
 *   request for blog
     *   by crystal\_waiwai
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
