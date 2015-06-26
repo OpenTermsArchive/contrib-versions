@@ -10,85 +10,85 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Retrieve old posts
     *   by nycbutterfly21
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve old posts
     *   by nycbutterfly21
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieving old posts...
     *   by SoRa\_gum
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Trying to Retrieve Old Blogs
     *   by RedHeadedSluts
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Trying to Retrieve Old Blogs
     *   by RedHeadedSluts
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Help Recovering Blog
     *   by Hanau\_Hou
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How do I download an archive of my old xanga blog?
     *   by mablearch
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   XML export doesn't contain all posts
     *   by Stealthpsycho
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data Migration
     *   by tkp32
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve old blog
     *   by tangyingqian
-    *   5 days ago
+    *   6 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Data Migration
     *   by nonman94
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data Migration
     *   by nonman94
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Would Like To Renew Blog Subscription
     *   by Applehead7
-    *   6 days ago
+    *   1 week ago
     *   in Premium
     *   0 votes
     *   0
 *   request for blog
     *   by crystal\_waiwai
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
