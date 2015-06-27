@@ -8,75 +8,81 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Retrieve old posts
-    *   by nycbutterfly21
-    *   3 days ago
+*   Old Blogs?
+    *   by ThisSiteSucksCock
+    *   22 hours ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve old posts
     *   by nycbutterfly21
-    *   3 days ago
+    *   4 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Retrieve old posts
+    *   by nycbutterfly21
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieving old posts...
     *   by SoRa\_gum
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Trying to Retrieve Old Blogs
     *   by RedHeadedSluts
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Trying to Retrieve Old Blogs
     *   by RedHeadedSluts
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Help Recovering Blog
     *   by Hanau\_Hou
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How do I download an archive of my old xanga blog?
     *   by mablearch
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   XML export doesn't contain all posts
     *   by Stealthpsycho
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data Migration
     *   by tkp32
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve old blog
     *   by tangyingqian
-    *   6 days ago
+    *   1 week ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Data Migration
     *   by nonman94
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data Migration
     *   by nonman94
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -90,12 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by crystal\_waiwai
     *   1 week ago
     *   in Data Migration
-    *   0 votes
-    *   0
-*   Please delete my account (everything!)
-    *   by TheUltimateDragon4888
-    *   1 week ago
-    *   in Usernames
     *   0 votes
     *   0
 
