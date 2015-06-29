@@ -10,43 +10,43 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Old Blogs?
     *   by ThisSiteSucksCock
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve old posts
     *   by nycbutterfly21
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve old posts
     *   by nycbutterfly21
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieving old posts...
     *   by SoRa\_gum
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Trying to Retrieve Old Blogs
     *   by RedHeadedSluts
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Trying to Retrieve Old Blogs
     *   by RedHeadedSluts
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Help Recovering Blog
     *   by Hanau\_Hou
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
