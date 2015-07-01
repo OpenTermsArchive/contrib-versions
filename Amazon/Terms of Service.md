@@ -68,7 +68,7 @@ We generally do not charge your credit card until after your order has entered t
 
 **APP PERMISSIONS**
 
-When you use apps created by Amazon, such as the Amazon App, Amazon Shopping App or Amazon Kindle App, you may grant certain permissions to us for your device. Most mobile devices provide you with information about these permissions. To learn more about these permissions, click here.
+When you use apps created by Amazon, such as the Amazon App, Amazon Shopping App, or Amazon Kindle App, you may grant certain permissions to us for your device. Most mobile devices provide you with information about these permissions. To learn more about these permissions, click here.
 
 **AMAZON SOFTWARE TERMS**
 
