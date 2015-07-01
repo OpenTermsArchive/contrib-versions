@@ -8,9 +8,27 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   No Response For 2 Months Now
+    *   by Applehead7
+    *   3 hours ago
+    *   in Premium
+    *   0 votes
+    *   0
+*   Old Post
+    *   by WildNcrazyA911
+    *   8 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Delete
+    *   by A\_Dream\_R
+    *   8 hours ago
+    *   in Miscellaenous
+    *   0 votes
+    *   0
 *   Old Blogs?
     *   by ThisSiteSucksCock
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -76,24 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Data Migration
     *   by nonman94
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Data Migration
-    *   by nonman94
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Would Like To Renew Blog Subscription
-    *   by Applehead7
-    *   1 week ago
-    *   in Premium
-    *   0 votes
-    *   0
-*   request for blog
-    *   by crystal\_waiwai
     *   1 week ago
     *   in Data Migration
     *   0 votes
