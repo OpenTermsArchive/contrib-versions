@@ -84,7 +84,6 @@ OK Wix.com Wix.com is a leading cloud-based web development platform with millio
 *   Terms of use
 *   Privacy
 *   Abuse
-*   Resellers
 *   Affiliates
 *   Contact Us
 
