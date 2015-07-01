@@ -108,7 +108,7 @@ We also use clear gifs in our HTML-based emails to let us know which emails have
 
 We use Local Storage Objects ("LSOs) such as HTML5 of Flash to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML5 or Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here
 
-We partner with third party ad networks to either display advertising on our websites or to manage our advertising on other sites. Our ad network partners may use cookies and web beacons to collect non-personally identifiable information about your activities on this and other websites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+We partner with third party ad networks to either display advertising on our websites or to manage our advertising on other sites. Our ad network partners may use cookies and web beacons to collect non-personally identifiable information about your activities on this and other websites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here. If you are located in the European Union, click here. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 What are Internet protocol addresses?
 
@@ -124,7 +124,7 @@ Please note that the deletion of your data will lead to the termination of your 
 
 How secure is my personal information?
 
-Blizzard has taken steps to assure that all information collected will remain secure and in its original form, i.e. free from any alteration. As such, access to all personal information is strictly controlled. When credit card information is transmitted, for example, we use industry standard, SSL (secure sockets layer) encryption. In addition, we will take reasonable steps to assure that third parties to whom we transfer any data will provide sufficient protection of personal information. We will retain your information for as long as needed to provide you services.
+Blizzard has taken steps to assure that all information collected will remain secure and in its original form, i.e. free from any alteration. As such, access to all personal information is strictly controlled. When credit card information is transmitted, for example, we use industry standard, SSL (secure sockets layer) encryption. In addition, we will take reasonable steps to assure that third parties to whom we transfer any data will provide sufficient protection of personal information. We will retain your informatirvine cion for as long as needed to provide you services.
 
 What if I have a question or complaint?
 
