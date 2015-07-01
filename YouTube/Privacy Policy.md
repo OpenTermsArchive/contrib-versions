@@ -4,7 +4,7 @@ When you use Google services, you trust us with your information. This Privacy P
 
 Privacy Policy Hide examples Show examples Hide examples
 
-Last modified: June 5, 2015 (view archived versions)
+Last modified: June 30, 2015 (view archived versions)
 
 Download PDF version
 
@@ -16,7 +16,7 @@ Our Privacy Policy explains:
 *   How we use that information.
 *   The choices we offer, including how to access and update information.
 
-We’ve tried to keep it as simple as possible, but if you’re not familiar with terms like cookies, IP addresses, pixel tags and browsers, then read about these key terms first. Your privacy matters to Google so whether you are new to Google or a long-time user, please do take the time to get to know our practices – and if you have any questions consult this page.
+We’ve tried to keep it as simple as possible, but if you’re not familiar with terms like cookies, IP addresses, pixel tags and browsers, then read about these key terms first. Your privacy matters to Google so whether you are new to Google or a long-time user, please do take the time to get to know our practices – and if you have any questions contact us.
 
 Back to top Information we collect
 
@@ -173,7 +173,7 @@ The following notices explain specific privacy practices with respect to certain
 
 *   Chrome and Chrome OS
 *   Books
-*   Wallet
+*   Payments
 *   Fiber
 
 For more information about some of our most popular services, you can visit the Google Product Privacy Guide.
