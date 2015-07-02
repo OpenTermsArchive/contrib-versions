@@ -8,93 +8,93 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   No Response For 2 Months Now
-    *   by Applehead7
-    *   3 hours ago
-    *   in Premium
-    *   0 votes
-    *   0
-*   Old Post
-    *   by WildNcrazyA911
-    *   8 hours ago
+*   Paid but nothing happens
+    *   by midfielder7
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   Delete
-    *   by A\_Dream\_R
-    *   8 hours ago
-    *   in Miscellaenous
-    *   0 votes
-    *   0
-*   Old Blogs?
-    *   by ThisSiteSucksCock
-    *   4 days ago
+    *   5 (last comment by dtechmkt 19 hours ago)
+*   Nothing is here
+    *   by raymond131913
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   Retrieve old posts
-    *   by nycbutterfly21
+    *   1 (last comment by dtechmkt 19 hours ago)
+*   Data Migration
+    *   by ar\_hei88
+    *   2 weeks ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by dtechmkt 19 hours ago)
+*   Request for blog
+    *   by Zeraphyn
+    *   2 weeks ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by dtechmkt 19 hours ago)
+*   request for blog
+    *   by crystal\_waiwai
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   Retrieve old posts
-    *   by nycbutterfly21
+    *   1 (last comment by dtechmkt 19 hours ago)
+*   Data Migration
+    *   by nonman94
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   Retrieving old posts...
-    *   by SoRa\_gum
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Trying to Retrieve Old Blogs
-    *   by RedHeadedSluts
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Trying to Retrieve Old Blogs
-    *   by RedHeadedSluts
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Help Recovering Blog
-    *   by Hanau\_Hou
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   How do I download an archive of my old xanga blog?
-    *   by mablearch
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   XML export doesn't contain all posts
-    *   by Stealthpsycho
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
+    *   1 (last comment by dtechmkt 19 hours ago)
 *   Data Migration
     *   by tkp32
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   0
-*   Retrieve old blog
-    *   by tangyingqian
+    *   1 (last comment by dtechmkt 19 hours ago)
+*   Retrieving old posts...
+    *   by SoRa\_gum
     *   1 week ago
-    *   in Passwords &. Sign-In
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by dtechmkt 19 hours ago)
+*   How do I download an archive of my old xanga blog?
+    *   by mablearch
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by dtechmkt 19 hours ago)
+*   Help Recovering Blog
+    *   by Hanau\_Hou
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by dtechmkt 19 hours ago)
+*   Old Post
+    *   by WildNcrazyA911
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by dtechmkt 19 hours ago)
+*   Trying to Retrieve Old Blogs
+    *   by RedHeadedSluts
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by dtechmkt 19 hours ago)
+*   No Response For 2 Months Now
+    *   by Applehead7
+    *   1 day ago
+    *   in Premium
     *   0 votes
     *   0
-*   Data Migration
-    *   by nonman94
-    *   1 week ago
+*   Delete
+    *   by A\_Dream\_R
+    *   1 day ago
+    *   in Miscellaenous
+    *   0 votes
+    *   0
+*   Old Blogs?
+    *   by ThisSiteSucksCock
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
