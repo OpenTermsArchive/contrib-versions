@@ -8,98 +8,98 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   can't see my friend xanga
+    *   by vandersar\_billy
+    *   1 hour ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Paid but nothing happens
     *   by midfielder7
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   5 (last comment by dtechmkt 19 hours ago)
+    *   5 (last comment by dtechmkt 1 day ago)
 *   Nothing is here
     *   by raymond131913
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by dtechmkt 19 hours ago)
+    *   1 (last comment by dtechmkt 1 day ago)
 *   Data Migration
     *   by ar\_hei88
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by dtechmkt 19 hours ago)
+    *   1 (last comment by dtechmkt 1 day ago)
 *   Request for blog
     *   by Zeraphyn
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by dtechmkt 19 hours ago)
+    *   1 (last comment by dtechmkt 1 day ago)
 *   request for blog
     *   by crystal\_waiwai
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by dtechmkt 19 hours ago)
+    *   1 (last comment by dtechmkt 1 day ago)
 *   Data Migration
     *   by nonman94
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by dtechmkt 19 hours ago)
+    *   1 (last comment by dtechmkt 1 day ago)
 *   Data Migration
     *   by tkp32
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by dtechmkt 19 hours ago)
+    *   1 (last comment by dtechmkt 1 day ago)
 *   Retrieving old posts...
     *   by SoRa\_gum
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by dtechmkt 19 hours ago)
+    *   1 (last comment by dtechmkt 1 day ago)
 *   How do I download an archive of my old xanga blog?
     *   by mablearch
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by dtechmkt 19 hours ago)
+    *   1 (last comment by dtechmkt 1 day ago)
 *   Help Recovering Blog
     *   by Hanau\_Hou
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by dtechmkt 19 hours ago)
+    *   1 (last comment by dtechmkt 1 day ago)
 *   Old Post
     *   by WildNcrazyA911
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by dtechmkt 19 hours ago)
+    *   1 (last comment by dtechmkt 1 day ago)
 *   Trying to Retrieve Old Blogs
     *   by RedHeadedSluts
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by dtechmkt 19 hours ago)
+    *   1 (last comment by dtechmkt 1 day ago)
 *   No Response For 2 Months Now
     *   by Applehead7
-    *   1 day ago
+    *   2 days ago
     *   in Premium
     *   0 votes
     *   0
 *   Delete
     *   by A\_Dream\_R
-    *   1 day ago
+    *   2 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
-*   Old Blogs?
-    *   by ThisSiteSucksCock
-    *   5 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
-1 2 3 ... 156 Next
+1 2 3 ... 157 Next
 
 Help Categories
 
