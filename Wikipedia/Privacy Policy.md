@@ -495,7 +495,7 @@ We do not allow tracking by third-party websites you have not visited.
 
 We do not share your data with third parties for marketing purposes.
 
-We are strongly committed to not sharing nonpublic information with third parties. In particular, we do not allow tracking by third-party websites you have not visited (including analytics services, advertising networks, and social platforms), nor do we share your information with any third parties for marketing purposes. Under this Policy, we may share your information only under particular situations, which you can learn more about in the “When May We Share Your Information” section of this Privacy Policy.
+We are strongly committed to not sharing nonpublic information with third parties. In particular, we do not allow tracking by third-party websites you have not visited (including analytics services, advertising networks, and social platforms), nor do we share your information with any third parties for marketing purposes. Under this Policy, we may share your information only under particular situations, which you can learn more about in the "When May We Share Your Information" section of this Privacy Policy.
 
 Because we protect all users in this manner, we do not change our behavior in response to a web browser's "do not track" signal.
 
@@ -528,7 +528,7 @@ Thank you for reading our Privacy Policy. We hope you enjoy using the Wikimedia 
 
 *   **Privacy policy (November 2008 - June 2014): effective from November 25, 2008 until June 6, 2014**
 *   **Privacy policy (August 2008 - November 2008): effective from August 19, 2008 until November 25, 2008.**
-*   **Privacy policy (June 2006 - August 2008) : effective from June 21, 2006 until August 19, 2008.**
+*   **Privacy policy (June 2006 - August 2008): effective from June 21, 2006 until August 19, 2008.**
 *   **Privacy policy (April 2005 to June 2006): effective from April 2005 until June 21, 2006**
 
 **Please note that in the event of any differences in meaning or interpretation between the original English version of this Privacy Policy and a translation, the original English version takes precedence.**
