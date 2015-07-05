@@ -75,7 +75,7 @@ Mortgages
     *   *   Mortgage education center
         *   Mortgages app
 
-Agent finder
+Agents
 
 *   Looking for pros?
     *   *   Real estate agents
