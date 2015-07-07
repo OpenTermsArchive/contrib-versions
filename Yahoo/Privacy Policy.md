@@ -74,7 +74,7 @@ Yahoo autorise certaines sociétés proposant des offres publicitaires sur certa
 
 Yahoo utilise des balises Web pour accéder à nos cookies au sein et hors de notre réseau de sites Web et en rapport avec les produits et services Yahoo.
 
-**Pour plus d'informations sur notre utilisation des cookies et sur les modalités de désactivation, cliquez ici.**  
+**Pour plus d'informations sur notre utilisation des cookies et sur les modalités de désactivation, cliquez ici.**
 
 VOS DROITS DE MODIFICATION ET DE SUPPRESSION DES DÉTAILS ET PRÉFÉRENCES CONCERNANT VOTRE COMPTE
 
@@ -92,7 +92,7 @@ Nous limitons l'accès aux informations aux seuls employés dont les fonctions e
 
 Nous disposons de systèmes physiques et électroniques, ainsi que de procédures spécifiques pour garantir la protection des données personnelles en conformité avec nos obligations légales.
 
-Pour plus d'informations au sujet de la sécurité, notamment les mesures que nous avons prises et celles que vous pouvez prendre, veuillez lire la section La sécurité chez Yahoo.  
+Pour plus d'informations au sujet de la sécurité, notamment les mesures que nous avons prises et celles que vous pouvez prendre, veuillez lire la section La sécurité chez Yahoo.
 
 PUBLICATION DANS LES ZONES ACCESSIBLES À TOUS
 
@@ -104,7 +104,7 @@ Usez de prudence lorsque vous décidez de divulguer des informations personnelle
 
 Vous assumez l'entière responsabilité de toute information divulguée et publiée dans les zones accessibles à tous.
 
-Si vous avez publié des données personnelles permettant l'identification dans une zone accessible à tous et désirez les supprimer ou les modifier sans y parvenir, veuillez vous adresser à notre Service clients.  
+Si vous avez publié des données personnelles permettant l'identification dans une zone accessible à tous et désirez les supprimer ou les modifier sans y parvenir, veuillez vous adresser à notre Service clients.
 
 AMENDEMENTS À CETTE POLITIQUE DE CONFIDENTIALITÉ
 
