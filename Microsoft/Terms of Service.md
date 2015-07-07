@@ -1,6 +1,8 @@
 Updated June 11, 2014  
 Effective July 31, 2014
 
+We’re updating our terms of use. New terms will take effect on August 1, 2015. See the new terms here.
+
 IF YOU LIVE IN THE UNITED STATES, SECTION 10 CONTAINS A BINDING ARBITRATION CLAUSE AND CLASS ACTION WAIVER. IT AFFECTS YOUR RIGHTS ABOUT HOW TO RESOLVE ANY DISPUTE WITH MICROSOFT. PLEASE READ IT.
 
 Thank you for choosing Microsoft!
@@ -225,7 +227,7 @@ Microsoft uses the process set out in Title 17, United States Code, Section 512(
 
 Notices and procedures regarding intellectual property concerns in advertising. Please review our Intellectual Property Guidelines (http://go.microsoft.com/fwlink/?LinkId=243207) regarding intellectual property concerns on our advertising network.
 
-Copyright and trademark notices. All portions of the Services are Copyright © 2013 Microsoft Corporation and/or its suppliers, One Microsoft Way, Redmond, WA 98052, U.S.A. All rights reserved. We or our suppliers own the title, copyright, and other intellectual property rights in the Services and its content. Microsoft and the names, logos, and icons of all Microsoft products, software, and services may be either trademarks or registered trademarks of Microsoft (http://www.microsoft.com/about/legal/en/us/IntellectualProperty/Trademarks/EN-US.aspx) in the United States and/or other countries. The names of actual companies and products may be the trademarks of their respective owners. Any rights not expressly granted in this Agreement are reserved. Certain software used in certain Microsoft website servers is based in part on the work of the Independent JPEG Group. Copyright © 1991-1996 Thomas G. Lane. All rights reserved. "gnuplot" software used in certain Microsoft website servers is copyright © 1986-1993 Thomas Williams, Colin Kelley. All rights reserved.
+Copyright and trademark notices. All portions of the Services are Copyright © 2013 Microsoft Corporation and/or its suppliers, One Microsoft Way, Redmond, WA 98052, U.S.A. All rights reserved. We or our suppliers own the title, copyright, and other intellectual property rights in the Services and its content. Microsoft and the names, logos, and icons of all Microsoft products, software, and services may be either trademarks or registered trademarks of Microsoft (http://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/en-us.aspx) in the United States and/or other countries. The names of actual companies and products may be the trademarks of their respective owners. Any rights not expressly granted in this Agreement are reserved. Certain software used in certain Microsoft website servers is based in part on the work of the Independent JPEG Group. Copyright © 1991-1996 Thomas G. Lane. All rights reserved. "gnuplot" software used in certain Microsoft website servers is copyright © 1986-1993 Thomas Williams, Colin Kelley. All rights reserved.
 
 Stock quotes and index data (including index values). © 2013 Morningstar, Inc. All Rights Reserved. The information contained herein: (1) is proprietary to Morningstar and/or its content providers. (2) may not be copied or distributed. and (3) isn't warranted to be accurate, complete or timely. Neither Morningstar nor its content providers are responsible for any damages or losses arising from any use of this information. Past performance is no guarantee of future results.
 
