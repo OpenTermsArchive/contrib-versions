@@ -132,4 +132,4 @@ If you have any questions or wish to file a complaint, please feel free to e-mai
 
 By using this website and/or any of Blizzard’s online or mobile products or services, you signify your assent to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. This Privacy Policy may change from time to time, so please check back periodically to ensure that you are aware of any changes. If we make a material change to this Privacy Policy, we will notify you by posting the change on this website or in this Privacy Policy and, if necessary, give you additional choices regarding such change prior to the change becoming effective. Your continued use of the Blizzard website will signify your acceptance of these changes.
 
-This Privacy Policy was last updated on July 28, 2014
+This Privacy Policy was last updated on July 1, 2015
