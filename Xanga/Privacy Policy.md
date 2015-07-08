@@ -8,21 +8,27 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Back up Xanga
+    *   by Ying9189
+    *   12 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Cannot post new entries
     *   by wellwornwings
-    *   4 hours ago
+    *   1 day ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Cannot post new entries
     *   by wellwornwings
-    *   4 hours ago
+    *   1 day ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Belanja Online di Elevenia Gratis Voucher 1 Juta ?
     *   by Icahbanjarmasin
-    *   2 days ago
+    *   3 days ago
     *   in Getting Started
     *   0 votes
     *   0
@@ -31,10 +37,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by Icahbanjarmasin 2 days ago)
+    *   2 (last comment by Icahbanjarmasin 3 days ago)
 *   can't see my friend xanga
     *   by vandersar\_billy
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -43,61 +49,55 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   5 (last comment by dtechmkt 5 days ago)
+    *   5 (last comment by dtechmkt 6 days ago)
 *   Nothing is here
     *   by raymond131913
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by dtechmkt 5 days ago)
+    *   1 (last comment by dtechmkt 6 days ago)
 *   Data Migration
     *   by ar\_hei88
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by dtechmkt 5 days ago)
+    *   1 (last comment by dtechmkt 6 days ago)
 *   Request for blog
     *   by Zeraphyn
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by dtechmkt 5 days ago)
+    *   1 (last comment by dtechmkt 6 days ago)
 *   request for blog
     *   by crystal\_waiwai
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by dtechmkt 5 days ago)
+    *   1 (last comment by dtechmkt 6 days ago)
 *   Data Migration
     *   by nonman94
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by dtechmkt 5 days ago)
+    *   1 (last comment by dtechmkt 6 days ago)
 *   Data Migration
     *   by tkp32
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by dtechmkt 5 days ago)
+    *   1 (last comment by dtechmkt 6 days ago)
 *   Retrieving old posts...
     *   by SoRa\_gum
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by dtechmkt 5 days ago)
+    *   1 (last comment by dtechmkt 6 days ago)
 *   How do I download an archive of my old xanga blog?
     *   by mablearch
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by dtechmkt 5 days ago)
-*   Old Post
-    *   by WildNcrazyA911
-    *   6 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by dtechmkt 5 days ago)
+    *   1 (last comment by dtechmkt 6 days ago)
 
 1 2 3 ... 157 Next
 
