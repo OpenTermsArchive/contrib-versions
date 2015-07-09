@@ -3,19 +3,16 @@
 *   Actualités
 *   Sport
 *   Finance
-*   Messenger
+*   Style
+*   People
+*   Cinéma
 *   Météo
 *   Questions/Réponses
 *   Screen
 *   Flickr
 *   Mobile
 *   **Plus** _⋁_
-    *   Pour Elles
-    *   Cinéma
-    *   TV
-    *   Musique
-    *   Auto
-    *   Fantasy LFP
+    *   Messenger
     *   Horoscopes
 
 Yahoo Settings
