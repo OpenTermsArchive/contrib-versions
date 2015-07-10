@@ -8,33 +8,45 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   WHERE ARE MY BLOGS?
+    *   by SPaniSHWaNDerING\_soUL
+    *   53 minutes ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   My posts/entries/ account retrieval
     *   by karameliscious
-    *   7 hours ago
+    *   1 day ago
     *   in Data Migration
+    *   0 votes
+    *   2 (last comment by phintly 9 hours ago)
+*   help!!! how can I see my previous blog?
+    *   by sosolovelok
+    *   13 hours ago
+    *   in Themes
     *   0 votes
     *   0
 *   Back up Xanga
     *   by Ying9189
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Cannot post new entries
     *   by wellwornwings
-    *   2 days ago
+    *   3 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Cannot post new entries
     *   by wellwornwings
-    *   2 days ago
+    *   3 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Belanja Online di Elevenia Gratis Voucher 1 Juta ?
     *   by Icahbanjarmasin
-    *   4 days ago
+    *   5 days ago
     *   in Getting Started
     *   0 votes
     *   0
@@ -43,10 +55,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by Icahbanjarmasin 4 days ago)
+    *   2 (last comment by Icahbanjarmasin 5 days ago)
 *   can't see my friend xanga
     *   by vandersar\_billy
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -76,24 +88,12 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by dtechmkt 1 week ago)
 *   request for blog
     *   by crystal\_waiwai
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by dtechmkt 1 week ago)
 *   Data Migration
     *   by nonman94
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by dtechmkt 1 week ago)
-*   Data Migration
-    *   by tkp32
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by dtechmkt 1 week ago)
-*   Retrieving old posts...
-    *   by SoRa\_gum
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
