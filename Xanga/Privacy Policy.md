@@ -8,45 +8,63 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   WHERE ARE MY BLOGS?
-    *   by SPaniSHWaNDerING\_soUL
-    *   1 day ago
+*   how to build a new blog?
+    *   by vy0\_0
+    *   19 hours ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by cliffsze 5 hours ago)
-*   My posts/entries/ account retrieval
-    *   by karameliscious
+    *   0
+*   how to build a new blog?
+    *   by vy0\_0
+    *   19 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   how to build a new blog?
+    *   by vy0\_0
+    *   19 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   WHERE ARE MY BLOGS?
+    *   by SPaniSHWaNDerING\_soUL
     *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by phintly 1 day ago)
+    *   2 (last comment by cliffsze 1 day ago)
+*   My posts/entries/ account retrieval
+    *   by karameliscious
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by phintly 2 days ago)
 *   help!!! how can I see my previous blog?
     *   by sosolovelok
-    *   1 day ago
+    *   2 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Back up Xanga
     *   by Ying9189
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Cannot post new entries
     *   by wellwornwings
-    *   4 days ago
+    *   5 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Cannot post new entries
     *   by wellwornwings
-    *   4 days ago
+    *   5 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Belanja Online di Elevenia Gratis Voucher 1 Juta ?
     *   by Icahbanjarmasin
-    *   6 days ago
+    *   1 week ago
     *   in Getting Started
     *   0 votes
     *   0
@@ -55,7 +73,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by Icahbanjarmasin 6 days ago)
+    *   2 (last comment by Icahbanjarmasin 1 week ago)
 *   can't see my friend xanga
     *   by vandersar\_billy
     *   1 week ago
@@ -70,30 +88,12 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 (last comment by dtechmkt 1 week ago)
 *   Nothing is here
     *   by raymond131913
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by dtechmkt 1 week ago)
 *   Data Migration
     *   by ar\_hei88
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by dtechmkt 1 week ago)
-*   Request for blog
-    *   by Zeraphyn
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by dtechmkt 1 week ago)
-*   request for blog
-    *   by crystal\_waiwai
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by dtechmkt 1 week ago)
-*   Data Migration
-    *   by nonman94
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
