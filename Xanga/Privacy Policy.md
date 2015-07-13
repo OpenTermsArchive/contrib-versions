@@ -10,55 +10,55 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   how to build a new blog?
     *   by vy0\_0
-    *   19 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   how to build a new blog?
     *   by vy0\_0
-    *   19 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   how to build a new blog?
     *   by vy0\_0
-    *   19 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   WHERE ARE MY BLOGS?
     *   by SPaniSHWaNDerING\_soUL
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by cliffsze 1 day ago)
-*   My posts/entries/ account retrieval
-    *   by karameliscious
     *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by phintly 2 days ago)
+    *   2 (last comment by cliffsze 2 days ago)
+*   My posts/entries/ account retrieval
+    *   by karameliscious
+    *   4 days ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by phintly 3 days ago)
 *   help!!! how can I see my previous blog?
     *   by sosolovelok
-    *   2 days ago
+    *   3 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Back up Xanga
     *   by Ying9189
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Cannot post new entries
     *   by wellwornwings
-    *   5 days ago
+    *   6 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Cannot post new entries
     *   by wellwornwings
-    *   5 days ago
+    *   6 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
@@ -70,7 +70,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Help Recovering Blog
     *   by Hanau\_Hou
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   2 (last comment by Icahbanjarmasin 1 week ago)
@@ -94,7 +94,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by dtechmkt 1 week ago)
 *   Data Migration
     *   by ar\_hei88
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by dtechmkt 1 week ago)
