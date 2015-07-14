@@ -10,55 +10,55 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   how to build a new blog?
     *   by vy0\_0
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   how to build a new blog?
     *   by vy0\_0
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   how to build a new blog?
     *   by vy0\_0
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   WHERE ARE MY BLOGS?
     *   by SPaniSHWaNDerING\_soUL
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by cliffsze 2 days ago)
-*   My posts/entries/ account retrieval
-    *   by karameliscious
     *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by phintly 3 days ago)
+    *   2 (last comment by cliffsze 3 days ago)
+*   My posts/entries/ account retrieval
+    *   by karameliscious
+    *   5 days ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by phintly 4 days ago)
 *   help!!! how can I see my previous blog?
     *   by sosolovelok
-    *   3 days ago
+    *   4 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Back up Xanga
     *   by Ying9189
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Cannot post new entries
     *   by wellwornwings
-    *   6 days ago
+    *   1 week ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Cannot post new entries
     *   by wellwornwings
-    *   6 days ago
+    *   1 week ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
@@ -88,7 +88,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 (last comment by dtechmkt 1 week ago)
 *   Nothing is here
     *   by raymond131913
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by dtechmkt 1 week ago)
