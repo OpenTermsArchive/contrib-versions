@@ -1,5 +1,6 @@
 *   Residential
-*   Business
+*   Small Business
+*   Enterprise
 
 Search Search Windstream.com Search or Cancel
 
@@ -39,6 +40,9 @@ My Cart (Edit) My Location_:_ n/a
 *   Home Phone
 *   Electronics
 *   Support
+*   Go To
+*   Small Business
+*   Enterprise
 
 *   Terms and Conditions
     
