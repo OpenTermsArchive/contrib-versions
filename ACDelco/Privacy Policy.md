@@ -2,7 +2,7 @@ Privacy Statement Print A A
 
 **General Motors Company U.S. Consumer Privacy Statement**
 
-Last modified: May 28, 2014
+Last modified: July 13, 2015
 
 Your privacy is important to General Motors Company (“GM” or “we”) as is your trust in GM’s products and services. We want you to know that the information you share with us will be treated with care. This Privacy Statement addresses what personal information we collect and how we handle the personal information shared with us.
 
@@ -12,8 +12,7 @@ View the California Privacy Policy
 
 This Privacy Statement applies to personal information we obtain from and about individuals interacting with GM and its websites, products and services. It does not apply to personal information we obtain in our capacity as an employer.
 
-This Privacy Statement covers all GM businesses and subsidiaries in the U.S. except for OnStar LLC and General Motors Financial Company, Inc. which have their own Privacy Statements. Additionally, mobile applications have separate privacy statements, as described in the Mobile Applications section below.  
- 
+This Privacy Statement covers all GM controlled subsidiaries and affiliates in the U.S. except for General Motors Financial Company, Inc. which has its own Privacy Statement. OnStar, LLC is covered by this Privacy Statement only with respect to the Data Transfer section below. OnStar, LLC’s privacy practices are otherwise covered in the separate OnStar, LLC Privacy Statement, which can be viewed at https://www.onstar.com/web/portal/privacy. Additionally, mobile applications have separate privacy statements, as described in the Mobile Applications section below.
 
 **Information Collected**  
   
@@ -66,8 +65,7 @@ Through the Infotainment system, GM may also offer applications developed by thi
 
 **Sharing**
 
-GM may share the information it collects about you or your vehicle in the following instances:  
- 
+GM may share the information it collects about you or your vehicle in the following instances:
 
 *   as required by law, such as in conjunction with a subpoena, government inquiry, litigation, dispute resolution or similar legal process
 *   when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud or respond to a law enforcement request
@@ -75,10 +73,9 @@ GM may share the information it collects about you or your vehicle in the follow
 *   with our business partners for GM marketing activities, business partner marketing activities or both
 *   with third parties for research and development purposes (such as university research institutes for improving highway safety)
 *   in connection with the sale, transfer or financing of a significant part of a GM business or its assets, including any such activities associated with a bankruptcy proceeding
-*   within GM, with our subsidiaries and affiliates, with GM dealers and with GM licensees. however, transaction information regarding your GM Card will not be shared with GM dealers.
+*   within GM, with our GM controlled subsidiaries and affiliates, with GM dealers and with GM licensees. however, transaction information regarding your GM Card will not be shared with GM dealers.
 
-Apart from the purposes listed above, GM will not share information about you or your vehicle with other third parties for their independent use without your permission.  
- 
+Apart from the purposes listed above, GM will not share information about you or your vehicle with other third parties for their independent use without your permission.
 
 **How to Manage Your Personal Information/Communications Preferences**  
   
@@ -96,26 +93,25 @@ If you opt out of receiving marketing communications from GM, your personal info
 GM uses administrative, technical and physical security to protect the personal information we maintain and to help ensure that it is used according to this Privacy Statement.  
  
 
-**Cookies/Tracking Technologies**  
-  
-GM websites use “cookies” to remember user preferences and to maximize the performance of our website and services. Using cookies on our websites provides benefits to you, such as allowing you to maintain your account login information or contact information on Request a Quote forms between visits, or locating a nearby dealer. In addition, we use information gathered from cookies to autofill fields on forms such as the city, state or zip code associated with your IP address. This information can be corrected by you before submitting any form or inquiry or you can disable the cookie as discussed below and the information will not be collected.  
-  
-Similarly, we may also place Web beacons in our emails to measure the effectiveness of our email campaigns by identifying the individuals who open or act upon an email message, when an email message is opened, how many times an email message is forwarded, the type of software, device, operating system and browser used to deliver the email and any URL accessed through our email message.  
-  
-To measure site activity and provide a better user experience, we may allow our service providers or business partners to compile information from the cookies, Web beacons or other technologies on our websites which may include information about your visit (such as demographic data, browser type, IP address, pages visited, activities conducted on the page and the day and time of your visit). We may also allow third party advertising and personalization partners to use this information to develop personalized content and appropriate advertising based on your visits over time on GM web sites and non-GM web sites.  
-  
+**Cookies/Tracking Technologies**
+
+GM websites use “cookies” to remember user preferences and to maximize the performance of our website and services. Using cookies on our websites provides benefits to you, such as allowing you to maintain your account login information or contact information on Request a Quote forms between visits, or locating a nearby dealer. In addition, we use information gathered from cookies to autofill fields on forms such as the city, state or zip code associated with your IP address. This information can be corrected by you before submitting any form or inquiry or you can disable the cookie as discussed below and the information will not be collected.
+
+Similarly, we may also place Web beacons in our emails to measure the effectiveness of our email campaigns by identifying the individuals who open or act upon an email message, when an email message is opened, how many times an email message is forwarded, the type of software, device, operating system and browser used to deliver the email and any URL accessed through our email message.
+
+To measure site activity and provide a better user experience, we may allow our service providers or business partners to compile information from the cookies, Web beacons or other technologies on our websites which may include information about your visit (such as demographic data, browser type, IP address, pages visited, activities conducted on the page and the day and time of your visit). We may also allow third party advertising and personalization partners to use this information to develop personalized content and appropriate advertising based on your visits over time on GM web sites  and non-GM web sites.
+
 This information may also be used to evaluate our online advertising campaigns or to tailor promotions and other marketing messages to you.
 
-At this time, we do not currently honor do no track signals from a web site browser. However, you may refuse or delete cookies. Please refer to your browser Help instructions to learn more about cookies and other technologies and how to manage their use. If you elect to refuse or delete cookies, you will need to repeat this process if you use another computer, or change browsers. If you choose to decline cookies, some of the functionality of a website may be impaired.
+At this time, we do not honor “do not track” signals from a web site browser. However, you may refuse or delete cookies. Please refer to your browser Help instructions to learn more about cookies and other technologies and how to manage their use. If you elect to refuse or delete cookies, you will need to repeat this process if you use another computer, or change browsers.  If you choose to decline cookies, some of the functionality of a website may be impaired.
 
 GM adheres to the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising (www.AboutAds.info).  If you do not wish to receive personalized advertising or content from us while visiting GM web sites, you may click on the AdChoices icon located at the bottom of the web site page or the Digital Advertising Alliance’s Opt-Out page (www.AboutAds.info/choices).
 
 If you do not wish to receive personalized advertising or content from us on non-GM websites, please visit the Digital Advertising Alliance’s Opt-Out page (www.AboutAds.info/choices) or click on the AboutAds icon on a GM advertisement and follow the instructions on how to opt out.
 
-Opting out of relevant advertising will not opt you out of all advertising, but rather only those advertisements that are personalized to your interests by GM or its agents or representatives.
-
-If you choose to decline cookies, some of the functionality of a website may be impaired.  
- 
+Opting out of relevant advertising will not opt you out of all advertising, but rather only those advertisements that are personalized to your interests by GM or its agents or representatives.  
+  
+If you choose to decline cookies, some of the functionality of a website may be impaired.
 
 **Linked Sites**  
   
@@ -134,12 +130,16 @@ When completing a purchase or lease agreement or signing a service repair order 
 **GM websites do not target or knowingly collect any information from children under the age of 13.  
  
 
-**Data Transfer  
-  
-**GM affiliates in the United States (“GM US”) adhere to the U.S.– EU Safe Harbor Privacy Principles and the U.S.-Swiss Safe Harbor Privacy Principles as set forth by the U.S. Department of Commerce (collectively, “European Safe Harbor”) as a data processor for certain European customer personal data transfers to the United States. Specifically, GM U.S. acts as a data processor for its GM affiliated companies in Europe (“GM Europe”) when it provides data hosting, technical support, or otherwise obtains incidental access to data about identified or identifiable users of GM Europe's products and services, including Infotainment services (“European Customer Data”). Each GM Europe company acts as a controller of its own European Customer Data, and GM U.S. acts as a data processor for these GM Europe companies.  Individuals that use products or services offered by a GM Europe company may therefore wish to raise any privacy questions with such GM Europe company directly, including filing any requests to access European Customer Data or exercise other privacy rights. Such individuals may also raise questions with GM U.S. as per the contact details below.  
-  
-Individuals also may raise privacy concerns with the International Centre for Dispute Resolution, the international division of the American Arbitration Association (ICDR/AAA) at the following website: https://apps.adr.org/webfile/.  To learn more about the Safe Harbor program, and to view GM U.S.’s certification, please visit http://www.export.gov/safeharbor/  
-   
+**Data Transfer**
+
+GM and its controlled subsidiaries and affiliates in the United States (“GM U.S.”), including OnStar, LLC, adhere to the U.S.-EU Safe Harbor Privacy Principles and the U.S.-Swiss Safe Harbor Privacy Principles as set forth by the U.S. Department of Commerce (collectively, “Safe Harbor”) as a data processor for certain European customer personal data transfers to the United States. GM U.S. acts as a data processor for its GM controlled subsidiaries and affiliates in Europe (collectively, “GM Europe companies”) by providing data hosting, maintenance, support, and troubleshooting of services, as well as other redundant back office support. GM U.S. acts as a data processor for OnStar Europe Ltd. by providing maintenance, support, and troubleshooting of services, as well as other redundant back office support. GM Europe companies and OnStar Europe Ltd. act as controllers of their own European customer data, and GM U.S. acts as a data processor for these companies.
+
+Individuals that use products or services offered by a GM Europe company or OnStar Europe Ltd. May wish to raise any privacy questions with such company directly, including filing any requests to access European customer data or exercise other privacy rights. Individuals may also raise questions with GM U.S. using the contact details below.  If the concerns of a GM Europe company or OnStar Europe Ltd. customer have not been satisfactorily resolved after contacting GM U.S., customers may also raise privacy concerns with the International Centre for Dispute Resolution, the international division of the American Arbitration Association (ICDR/AAA) at the following website: http://go.adr.org/safeharbor.
+
+To learn more about the Safe Harbor program, and to view the certification of General Motors Holdings LLC, please visit  
+http://www.export.gov/safeharbor/.
+
+In addition, anonymized and aggregated data from OnStar Europe Ltd. is shared with GM U.S. to evaluate or research the safety, quality, usage, and functionality of vehicles and services, including the OnStar Services. to provide OnStar Europe Ltd. customers with vehicle support and services. and to ensure accurate customer records and maintain customer relationships. Information also is shared with GM U.S. in order to contact OnStar Europe Ltd. customers about their vehicle or the services, or for marketing purposes, but only if the individual has opted in to receive marketing information.
 
 **Privacy Inquiries and Correcting Your Information**  
   
@@ -188,7 +188,7 @@ We may update this Privacy Statement from time to time. We will do so by posting
 
 Effective date: September 1, 2011
 
-Last modified: May 28, 2014  
+Last modified: July 13, 2015  
  
 
 **Frequently Asked Questions**  
