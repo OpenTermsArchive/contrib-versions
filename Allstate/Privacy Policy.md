@@ -50,7 +50,7 @@ Find An Agent
     *   Snowmobile
     *   ATV
     *   Landlord
-    *   Retirement &. Savings
+    *   Retirement &. Investments
     *   Supplemental Health
 *   Claims
     *   Overview
@@ -96,7 +96,7 @@ Toggle mobileNavigation Log in
         *   Snowmobile
         *   ATV
         *   Landlord
-        *   Retirement &. Savings
+        *   Retirement &. Investments
         *   Supplemental Health
 *   Claims expand
     *   Overview
@@ -385,24 +385,25 @@ Business Insurance
 
 More
 
-End Dialog. AutoHomeRentersLifeCondoMotorcycleBoatATV/Rec. VehicleBusiness InsuranceMoreGET A QUOTE  
+End Dialog. AutoHomeRentersLifeCondoMotorcycleBoatATV/Rec. VehicleBusiness InsuranceMore  
+GET A QUOTE  
 Retrieve a saved quote
 
 Agents Near 80202
 
-*   J T Barthelemy 303-948-9879 1940 Blake St Ste 105 Denver, CO 80202 Visit website
 *   Denise Hoffman 303-628-0554 535 16th St # 350 Denver, CO 80202 Visit website
+*   J T Barthelemy 303-948-9879 1940 Blake St Ste 105 Denver, CO 80202 Visit website
 *   K.D. Sakraida 303-433-2094 1932 W 33rd Ave Denver, CO 80211 Visit website
 *   Tiffany Mai 720-441-5608 2785 N Speer Blvd # Lw01 Denver, CO 80211 Visit website
 
 Previous
 
-*   J T Barthelemy 1940 Blake St Ste 105 Denver, CO 80202 WEBSITE
 *   Denise Hoffman 535 16th St # 350 Denver, CO 80202 WEBSITE
+*   J T Barthelemy 1940 Blake St Ste 105 Denver, CO 80202 WEBSITE
 *   K.D. Sakraida 1932 W 33rd Ave Denver, CO 80211 WEBSITE
 *   Tiffany Mai 2785 N Speer Blvd # Lw01 Denver, CO 80211 WEBSITE
 
-Next Agent finder map Agent finder map
+Next More Agents More Agents
 
 24-hour support
 
@@ -444,7 +445,8 @@ All Rights Reserved
 *   SITE MAP
 *   AD CHOICES
 
-Oops! You have entered an invalid ZIP. Please, try again. ZIP Code: Cancel City, State
+Oops! You have entered an invalid ZIP. Please, try again. Location data not available. Please enter zip code. ZIP Code: Cancel  
+Use My Current Location City, State
 
 Denver, CO
 
