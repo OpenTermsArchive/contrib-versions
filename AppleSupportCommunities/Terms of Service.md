@@ -1,8 +1,8 @@
 **Apple Support Communities Use Agreement**
 
-(revised 24 April 2014)
+(revised 13 July 2015)
 
-This Apple Support Communities Use Agreement (the "Agreement") provides important information about your use of the Apple Support Communities site (the "Site"). You should read it, understand it, and consider printing a reference copy as you use the Site.
+This Apple Support Communities Use Agreement (the "Agreement") provides important information about your use of the Apple Support Communities site (the "Site").
 
 **IMPORTANT: IF YOU CHOOSE TO ACCEPT THIS AGREEMENT, YOU MUST ACCEPT IT AS PRESENTED TO YOU, WITHOUT CHANGES. APPLE WILL ACCEPT NO ADDITIONS OR DELETIONS. At any time Apple may change, add, or remove any part of this Agreement or any part of the services and features provided at the Site. If it does so, Apple will update the Agreement here (Terms of Use) and may also post such changes elsewhere on the Site.**
 
@@ -19,9 +19,9 @@ This Apple Support Communities Use Agreement (the "Agreement") provides importan
     8.  Apple may use "cookies" and other technologies to track user activity within the Apple Support Communities. These technologies help us improve your experience and our products and services. Apple's use of this tracking information will conform to Apple's Privacy Policy (http://www.apple.com/legal/privacy)
     9.  Apple Support Communities includes a "connections" feature which allows an Apple Support Communities user to receive email notifications when another user submits a post. This feature requires an approval process where a user can deny connection requests and remove connections at anytime.
     10.  To submit information to the Site, each user must have a unique user name and password combination, known as an Apple ID. Please review Apple's Privacy Policy (http://www.apple.com/legal/privacy), which describes how Apple collects, uses and protects your personal information. Apple cannot and will not be responsible for any problems or liability that may arise if you do not provide accurate, truthful and complete information.
-    11.  By using the Site, you agree to receive certain communications from Apple in connection with Apple Support Communities. For example, you may receive reminder emails for posts if you have not visited Apple Support Communities for a certain period of time, a reminder to respond to answers that have helped you or solved your question, or a survey on improving the services offered at the Site. You can opt-out of communications here (http://appleid.apple.com).
-    12.  If you provide any ideas, suggestions, or recommendations on this site regarding Apple’s products, technologies or services (“Feedback”), Apple may use such Feedback and incorporate it in Apple products, technologies, and services without paying royalties and without any other obligations or restrictions.
-    13.  For questions or problems regarding your Apple Support Communities account, please post a question in the Using Apple Support Communities forum, or email **communityaccounts@apple.com**  
+    11.  If you provide any ideas, suggestions, or recommendations on this site regarding Apple’s products, technologies or services (“Feedback”), Apple may use such Feedback and incorporate it in Apple products, technologies, and services without paying royalties and without any other obligations or restrictions.
+    12.  By using the Site, you agree to receive certain communications from Apple in connection with Apple Support Communities. Apple may respond to your post directly in the Apple Support Communities or may attempt to contact you outside the site via telephone, email or other method of communication. For example, you may receive reminder emails for posts if you have not visited Apple Support Communities for a certain period of time, a reminder to respond to answers that have helped you or solved your question, or a survey on improving the services offered at the Site. You can opt-out of communications here (http://appleid.apple.com).
+    13.  For questions or problems regarding your Apple Support Communities account, please post a question in the Using Apple Support Communities site, or email **communityaccounts@apple.com**  
         
 2.  Submissions
     1.  Stay on topic. Apple Support Communities is here to help people use Apple products and technologies more effectively. Unless otherwise noted, do not add Submissions about nontechnical topics, including:
