@@ -8,45 +8,51 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Question about my old xangas
+    *   \[Resolved\] by smilezx3
+    *   10 months ago
+    *   in Premium
+    *   0 votes
+    *   2 (last comment by smilezx3 21 hours ago)
 *   how to build a new blog?
     *   by vy0\_0
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   how to build a new blog?
     *   by vy0\_0
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   how to build a new blog?
     *   by vy0\_0
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   WHERE ARE MY BLOGS?
     *   by SPaniSHWaNDerING\_soUL
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by cliffsze 3 days ago)
-*   My posts/entries/ account retrieval
-    *   by karameliscious
     *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by phintly 4 days ago)
+    *   2 (last comment by cliffsze 4 days ago)
+*   My posts/entries/ account retrieval
+    *   by karameliscious
+    *   6 days ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by phintly 5 days ago)
 *   help!!! how can I see my previous blog?
     *   by sosolovelok
-    *   4 days ago
+    *   5 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Back up Xanga
     *   by Ying9189
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -89,12 +95,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 *   Nothing is here
     *   by raymond131913
     *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by dtechmkt 1 week ago)
-*   Data Migration
-    *   by ar\_hei88
-    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by dtechmkt 1 week ago)
