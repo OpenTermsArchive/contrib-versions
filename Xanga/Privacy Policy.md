@@ -8,9 +8,27 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   I just want to view my old blog
+    *   by hick\_chick\_90
+    *   13 hours ago
+    *   in Getting Started
+    *   0 votes
+    *   0
+*   I just want to view my old blog
+    *   by hick\_chick\_90
+    *   13 hours ago
+    *   in Getting Started
+    *   0 votes
+    *   0
+*   help!!! how can I see my previous blog?
+    *   by sosolovelok
+    *   1 week ago
+    *   in Themes
+    *   0 votes
+    *   1 (last comment by cocodee442002 14 hours ago)
 *   My blog does not appear and an error pops up
     *   by charlotte\_311
-    *   19 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,43 +37,37 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   10 months ago
     *   in Premium
     *   0 votes
-    *   2 (last comment by smilezx3 1 day ago)
+    *   2 (last comment by smilezx3 2 days ago)
 *   how to build a new blog?
     *   by vy0\_0
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   how to build a new blog?
     *   by vy0\_0
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   how to build a new blog?
     *   by vy0\_0
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   WHERE ARE MY BLOGS?
     *   by SPaniSHWaNDerING\_soUL
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by cliffsze 5 days ago)
+    *   2 (last comment by cliffsze 6 days ago)
 *   My posts/entries/ account retrieval
     *   by karameliscious
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by phintly 6 days ago)
-*   help!!! how can I see my previous blog?
-    *   by sosolovelok
-    *   6 days ago
-    *   in Themes
-    *   0 votes
-    *   0
+    *   2 (last comment by phintly 1 week ago)
 *   Back up Xanga
     *   by Ying9189
     *   1 week ago
@@ -86,18 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   2 (last comment by Icahbanjarmasin 1 week ago)
-*   can't see my friend xanga
-    *   by vandersar\_billy
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Paid but nothing happens
-    *   by midfielder7
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   5 (last comment by dtechmkt 2 weeks ago)
 
 1 2 3 ... 157 Next
 
