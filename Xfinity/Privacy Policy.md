@@ -8,6 +8,7 @@ Your XFINITY Connect session has timed out due to inactivity. Click here to go b
 
 *   XFINITY
 
+*   Welcome
 *   Shop
 *   Shop/Upgrade
 *   Shop/Upgrade
@@ -26,6 +27,7 @@ Your XFINITY Connect session has timed out due to inactivity. Click here to go b
 
 More
 
+*   Welcome
 *   Shop
 *   Shop/Upgrade
 *   Shop/Upgrade
