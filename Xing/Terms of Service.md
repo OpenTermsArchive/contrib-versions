@@ -509,13 +509,22 @@ If such a suspicion cannot be eliminated within thirty (30) days, XING reserves 
 
 **Terms for participants**
 
-**4.6** Depending on the agreement reached between XING and the respective organiser, the fees for processing ticket sales shall be added on to the ticket price and listed separately during the ticket shop order process. The total purchase price may increase due to any supplementary products or services the participant has booked. Any charges or currency fluctuations that occur in connection with foreign transactions shall be borne by the participant. The ticket shop will state whether the ticket price is inclusive or exclusive of VAT.
+**4.6** Credit card payments for this service are processed by:
 
-**4.7** The total purchase price is due for payment immediately upon receipt of the confirmation e-mail.
+HUELLEMANN &. STRAUSS ONLINESERVICES S.à r.l.  
+1, Place du Marché, L-6755 Grevenmacher,  
+HR: B144133  
+E-mail: info@hso-services.com  
+Managing Directors:  
+Dipl. Vw. Mirko Hüllemann, Heiko Strauß  
+
+**4.7** Depending on the agreement reached between XING and the respective organiser, the fees for processing ticket sales shall be added on to the ticket price and listed separately during the ticket shop order process. The total purchase price may increase due to any supplementary products or services the participant has booked. Any charges or currency fluctuations that occur in connection with foreign transactions shall be borne by the participant. The ticket shop will state whether the ticket price is inclusive or exclusive of VAT.
+
+**4.8** The total purchase price is due for payment immediately upon receipt of the confirmation e-mail.
 
    
 
-**4.8** XING will collect direct debit payments by serving advance notice of six (6) business days. This is in derogation to the regular advance notice of fourteen (14) calendar days.
+**4.9** XING will collect direct debit payments by serving advance notice of six (6) business days. This is in derogation to the regular advance notice of fourteen (14) calendar days.
 
 5\. Validity of the provisions of the General Terms and Conditions for using the XING service
 
