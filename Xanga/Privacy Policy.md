@@ -8,15 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   how to upgrade my blog
+    *   by Long530
+    *   55 minutes ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   I just want to view my old blog
     *   by hick\_chick\_90
-    *   13 hours ago
+    *   1 day ago
     *   in Getting Started
     *   0 votes
     *   0
 *   I just want to view my old blog
     *   by hick\_chick\_90
-    *   13 hours ago
+    *   1 day ago
     *   in Getting Started
     *   0 votes
     *   0
@@ -25,10 +31,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by cocodee442002 14 hours ago)
+    *   1 (last comment by cocodee442002 1 day ago)
 *   My blog does not appear and an error pops up
     *   by charlotte\_311
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -37,22 +43,22 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   10 months ago
     *   in Premium
     *   0 votes
-    *   2 (last comment by smilezx3 2 days ago)
+    *   2 (last comment by smilezx3 3 days ago)
 *   how to build a new blog?
     *   by vy0\_0
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   how to build a new blog?
     *   by vy0\_0
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   how to build a new blog?
     *   by vy0\_0
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -61,7 +67,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by cliffsze 6 days ago)
+    *   2 (last comment by cliffsze 1 week ago)
 *   My posts/entries/ account retrieval
     *   by karameliscious
     *   1 week ago
@@ -92,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Getting Started
     *   0 votes
     *   0
-*   Help Recovering Blog
-    *   by Hanau\_Hou
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by Icahbanjarmasin 1 week ago)
 
 1 2 3 ... 157 Next
 
