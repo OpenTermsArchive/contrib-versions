@@ -8,21 +8,51 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   cannot view my xanga
+    *   by timyi1022
+    *   13 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Can't see my blogs
+    *   by omg147896325
+    *   13 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   How can I upgrade/ restore my xanga blog?
+    *   by ShirleyLo2006
+    *   19 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   How can I upgrade/ restore my xanga blog?
+    *   by ShirleyLo2006
+    *   19 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   How can I upgrade/ restore my xanga blog?
+    *   by ShirleyLo2006
+    *   19 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   how to upgrade my blog
     *   by Long530
-    *   55 minutes ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I just want to view my old blog
     *   by hick\_chick\_90
-    *   1 day ago
+    *   2 days ago
     *   in Getting Started
     *   0 votes
     *   0
 *   I just want to view my old blog
     *   by hick\_chick\_90
-    *   1 day ago
+    *   2 days ago
     *   in Getting Started
     *   0 votes
     *   0
@@ -31,10 +61,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by cocodee442002 1 day ago)
+    *   1 (last comment by cocodee442002 2 days ago)
 *   My blog does not appear and an error pops up
     *   by charlotte\_311
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -43,22 +73,22 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   10 months ago
     *   in Premium
     *   0 votes
-    *   2 (last comment by smilezx3 3 days ago)
+    *   2 (last comment by smilezx3 4 days ago)
 *   how to build a new blog?
     *   by vy0\_0
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   how to build a new blog?
     *   by vy0\_0
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   how to build a new blog?
     *   by vy0\_0
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -68,38 +98,8 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   2 (last comment by cliffsze 1 week ago)
-*   My posts/entries/ account retrieval
-    *   by karameliscious
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by phintly 1 week ago)
-*   Back up Xanga
-    *   by Ying9189
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Cannot post new entries
-    *   by wellwornwings
-    *   1 week ago
-    *   in Adding &. Editing Entries
-    *   0 votes
-    *   0
-*   Cannot post new entries
-    *   by wellwornwings
-    *   1 week ago
-    *   in Adding &. Editing Entries
-    *   0 votes
-    *   0
-*   Belanja Online di Elevenia Gratis Voucher 1 Juta ?
-    *   by Icahbanjarmasin
-    *   1 week ago
-    *   in Getting Started
-    *   0 votes
-    *   0
 
-1 2 3 ... 157 Next
+1 2 3 ... 158 Next
 
 Help Categories
 
