@@ -16,7 +16,7 @@ Or try a newer browser:
         *   Foreclosures
         *   For sale by owner
         *   Open houses
-    *   *   New homes
+    *   *   New construction
         *   Coming soon
         *   Recent home sales
         *   All homes
