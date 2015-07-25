@@ -1,10 +1,10 @@
-���// JavaScript Document // Updated 03-19-2015 | Keith Davis - KD5879 // // Updated 03-30-2015 | Keith Davis - KD5879 // // Updated 03-31-2015 | Keith Davis - KD5879 // // Updated 04-09-2015 | Keith Davis - KD5879 // // Updated 04-14-2015 | Keith Davis - KD5879 // // Updated 05-01-2015 | Keith Davis - KD5879 // if (location.pathname == '/Common/about\_us/privacy\_policy/print\_policy.html') { pid = 'printversion'. } else { var url = location.href. pid = url.split('='). pid = pid\[1\]. checkAnc = pid.indexOf('#'). if(checkAnc != '-1') { pid = pid.split('#'). pid = pid\[0\]. } } //alert(pid). function renderPrintLink() { document.write ('' + 'View our current policy' + ''). } function renderLandingPageContent() { document.write(' ' + ' About Our Privacy Policy' + '
+// JavaScript Document // Updated 03-19-2015 | Keith Davis - KD5879 // // Updated 03-30-2015 | Keith Davis - KD5879 // // Updated 03-31-2015 | Keith Davis - KD5879 // // Updated 04-09-2015 | Keith Davis - KD5879 // // Updated 04-14-2015 | Keith Davis - KD5879 // // Updated 05-01-2015 | Keith Davis - KD5879 // // Updated 05-08-2015 | Keith Davis - KD5879 // // Updated 05-21-2015 | Keith Davis - KD5879 // // Updated 05-26-2015 | Keith Davis - KD5879 // // Updated 05-27-2015 | Keith Davis - KD5879 // // Updated 05-28-2015 | Keith Davis - KD5879 // // Updated 05-29-2015 | Keith Davis - KD5879 // // Updated 06-04-2015 | Keith Davis - KD5879 // // Updated 06-05-2015 | Keith Davis - KD5879 // // Updated 06-08-2015 | Keith Davis - KD5879 // // Updated 06-09-2015 | Keith Davis - KD5879 // // Updated 06-10-2015 | Keith Davis - KD5879 // // Updated 06-11-2015 | Keith Davis - KD5879 // // Updated 06-17-2015 | Keith Davis - KD5879 // // Updated 07-01-2015 | Keith Davis - KD5879 // // Updated 07-24-2015 | Tammy Ritterskamp - TR108R // if (location.pathname == '/Common/about\_us/privacy\_policy/print\_policy.html') { pid = 'printversion'. } else { var url = location.href. pid = url.split('='). pid = pid\[1\]. checkAnc = pid.indexOf('#'). if(checkAnc != '-1') { pid = pid.split('#'). pid = pid\[0\]. } } //alert(pid). function renderPrintLink() { document.write ('' + 'View our current policy' + ''). } function renderLandingPageContent() { document.write(' ' + ' About Our Privacy Policy' + '
 
-Whenever you do something like buy one of our products, stream a movie or download an app, information is created. Because we know your privacy is important, we have a Privacy Policy to explain how we collect, use and protect that information. There’s a quick summary below, and the entire policy is written in an easy FAQ format. We want to simplify this, so you can make informed choices about your privacy, and then spend the rest of your time enjoying our products and services.
+Whenever you do something like buy one of our products, watch a show or download an app, information is created. Because we know your privacy is important, we have a Privacy Policy to explain how we collect, use and protect that information. There’s a quick summary below, and the entire policy is written in an easy FAQ format. We want to simplify this, so you can make informed choices about your privacy, and then spend the rest of your time enjoying our products and services.
 
 ' + '
 
-**Effective September 16, 2013**
+**Effective July 24, 2015**
 
 ' + ' A Quick Summary of Our Privacy Policy' + '
 
@@ -17,10 +17,10 @@ Our privacy policy applies to your use of our products and services. We will alw
 ' + '
 
 ' + '*   **_Account Information_** includes your name, address, telephone number, e-mail address, service-related details such as payment data, security codes, service history and other information like that;
-' + '*   **_Network Performance_** **_&. Usage Information_** tells us how you use our network, our products and our services, and how well our equipment and network is performing;
-' + '*   **_Web Browsing &. Wireless Application Information_** tells us about the websites you visit and the mobile applications you use on our network.
+' + '*   **_Network Performance_** **_&. Usage Information_** tells us how you use our networks, our products and our services, and how well our equipment and networks are performing;
+' + '*   **_Web Browsing &. Wireless Application Information_** tells us about the websites you visit and the mobile applications you use on our networks.
 ' +'*   **_Location Information_** tells us where your wireless device is located, as well as your ZIP-code and street address;
-' + '*   **_U-verse Information_** tells us about which programs you watch and record, the games you play, the applications you use and similar information about how you use our U-verse services and applications.
+' + '*   **_TV Viewing Information_** tells us about which programs you watch and record and similar information about how you use our video services and applications.
 ' + '
 
 ' + '
@@ -44,7 +44,7 @@ Our privacy policy applies to your use of our products and services. We will alw
 ' + '*   Send you bills for your services;
 ' + '*   Respond to your questions;
 ' + '*   Address network integrity and security issues.
-' + '*   Do research and analysis to maintain, protect, develop and improve our network and services;
+' + '*   Do research and analysis to maintain, protect, develop and improve our networks and services;
 ' + '*   Let you know about service updates, content, offers and promotions that may be of interest to you;
 ' + '*   Improve entertainment options;
 ' + '*   Deliver Relevant Advertising;
@@ -81,7 +81,7 @@ Our privacy policy applies to your use of our products and services. We will alw
 ' + '*   What is Personal Information? Information that identifies or reasonably can be used to identify you.
 ' + '*   What is Anonymous? This is information that doesn’t identify you and can't reasonably be used to identify you specifically.
 ' + '*   What is Aggregate? We take a whole bunch of people’s data and combine it into anonymous groups or categories.
-' + '*   How we use this information? We use and share this information in many ways including research, analysis, retail marketing and Relevant Advertising. This data is also included in External Marketing &. Analytics Reports
+' + '*   How do we use this information? We use and share this information in many ways including research, analysis, retail marketing, and Relevant Advertising. This data is also included in External Marketing &. Analytics Reports.
 ' + '*   Want to learn more? Go here.
 ' + '
 
@@ -103,7 +103,6 @@ Our privacy policy applies to your use of our products and services. We will alw
 ' + '
 
 ' + '*   We want you to know that we don't knowingly collect personally identifying information from anyone under the age of 13 unless we first obtain permission from the child's parent or legal guardian.
-' + '*   For information about safety and controls, view our AT&T Smart Controls parental tools.
 ' + '
 
 ' + '
@@ -112,10 +111,11 @@ Our privacy policy applies to your use of our products and services. We will alw
 
 ' + '
 
+' + '*   For information about children’s safety and parental controls, view our AT&T Smart Controls and DIRECTV Parental Controls.
 ' + '*   You have choices about certain types of advertising you get from us.
 ' + '*   You can control whether your anonymous information is used in our External Marketing &. Analytics Reports.
 ' + '*   You can choose whether to receive marketing calls, e-mails or text messages from us;
-' + '*   You have a choice about how we use your Customer Proprietary Network Information;
+' + '*   You have a choice about how we use your Customer Proprietary Network Information.
 ' + '
 
 ' + '
@@ -158,7 +158,7 @@ California Civil Code Section 1798.83 entitles California customers to request i
 
 ' + '
 
-**Web Site Data Collection:** We do not knowingly allow other parties to collect personally identifiable information about your online activities over time and across third-party web sites when you use our websites and services. AT&T provides information about the opt-out choices it makes available, and the opt-outs choices provided by certain third-party website and mobile application analytics companies we use here.
+**Web Site Data Collection:** We do not knowingly allow other parties to collect personally identifiable information about your online activities over time and across third-party web sites when you use our websites and services. AT&T provides information about the opt-out choices it makes available, and the opt-out choices provided by certain third-party website and mobile application analytics companies we use here.
 
 ' + '
 
@@ -214,32 +214,43 @@ We understand that everyone thinks that privacy policies are long, complicated a
     
     ' + '
     
+      
     This Privacy Policy covers our practices regarding the information we collect about our customers and users (how we collect it and how we use it). Use of our products and services, as well as visits to our websites, are subject to this Privacy Policy.
     
 ' + '2.  Do you have any Privacy Policies other than this one?
     
     ' + '
     
+      
     Yes. The Joint AT&T EchoStar Privacy Policy for AT&T|DISH Network Customer Account Information remains in effect for AT&T|DISH subscribers.
     
-    AT&T companies that do not operate under our brand may have separate privacy policies.
+    ' + '
     
-    Some areas outside the United States require us to work a little differently. In that case, AT&T may adopt separate privacy policies as necessary to reflect the requirements of applicable local laws.
+      
+    AT&T companies that do not operate under our brand, or certain co-branded services, may have separate privacy policies
+    
+    ' + '
+    
+      
+    Some areas outside the United States require us to work a little differently. In that case, AT&T may adopt separate privacy policies as necessary to reflect the requirements of applicable local laws. Satellite TV subscribers in certain U.S. Territories also may have separate privacy policies. Satellite TV subscribers in certain U.S. Territories also may have separate privacy policies.
     
 ' + '3.  What about my family members and other users of my AT&T account? Does this Policy apply to them?
     
     ' + '
     
+      
     Yes. You're responsible for making sure all family members or other users under your account understand and agree to this Policy. Get everyone together and talk about it. Or, send it by e-mail to make sure they're on board. Hang it on the fridge. Up to you, just share it!
     
 ' + '4.  When is information not covered by this Policy?
     
     ' + '
     
+      
     Any time you give information to companies other than AT&T. Some examples are:
     
     ' + '
-    ' + '*   When you use a non-AT&T Wi-Fi service;
+    ' + '  
+    *   When you use a non-AT&T Wi-Fi service;
         
     ' + '*   When you download applications or make purchases from other companies while using our Internet or wireless services;
         
@@ -258,6 +269,7 @@ We understand that everyone thinks that privacy policies are long, complicated a
     
     ' + '
     
+      
     Yes, that can happen. For example:
     
     ' + '
@@ -266,21 +278,25 @@ We understand that everyone thinks that privacy policies are long, complicated a
     
     ' + '
     
+      
     If you purchase one of our products or services from a retailer like Best Buy or Amazon.com, for example, any information you provide to them may be subject to both their policy and ours.
     
     ' + '
     
+      
     If you connect to our Wi-Fi service through another network, such as one provided in a hotel, airport or other venue, any information collected from your use of that network could be subject to either the AT&T policy or the venue policy, and sometimes both. The same thing applies if you connect to our network through your employer's corporate network, or any network operated by a non-AT&T company.
     
     ' + '
     
+      
     We think it's a great idea to take a look at the privacy policies of any companies you do business with to learn how they use your information.
     
 ' + '6.  What about business customers?
     
     ' + '
     
-    We have written product or service agreements with our business customers that contain specific provisions about confidentiality, security or handling of information. When one of these agreements differs from or conflicts with this Policy, the terms of those agreements will apply. In all other instances, the terms of this Policy apply.
+      
+    We may have written product or service agreements with our business customers that contain specific provisions about confidentiality, security or handling of information. When one of these agreements differs from or conflicts with this Policy, the terms of those agreements will apply. This Policy does not apply to commercial satellite TV customers. In all other instances, the terms of this Policy apply.
     
 ' + '
 
@@ -290,8 +306,10 @@ We understand that everyone thinks that privacy policies are long, complicated a
     
     ' + '
     
+      
     We may collect different types of information based on your use of our products and services and on our business relationship with you.
     
+      
     ' + '
     ' + '*   **Account Information:**
         
@@ -301,12 +319,12 @@ We understand that everyone thinks that privacy policies are long, complicated a
         ' + '*   **Billing Information** related to your financial relationship with us, such as the services we provide to you, the telephone numbers you call and text, your payment history, your credit history, your credit card numbers, Social Security number, security codes and your service history.
             
         ' + '
-    ' + '*   **Technical &. Usage Information** related to the services we provide to you, including information about how you use our network, services, products or websites. Some examples include:
+    ' + '*   **Technical &. Usage Information** related to the services we provide to you, including information about how you use our networks, services, products or websites. Some examples include:
         
         ' + '
-        ' + '*   **Equipment Information** that identifies your equipment on our network, such as equipment type, device IDs, device status, serial numbers, settings, configuration and software.
+        ' + '*   **Equipment Information** that identifies the equipment on our networks, such as equipment type, device IDs, device status, serial numbers, settings, configuration and software.
             
-        ' + '*   **Network Performance &. Usage Information** about the operation of the equipment, services and applications you use on our network. Examples of this might include wireless device location, the number of text messages sent and received, voice minutes used, bandwidth used, and resources you use when uploading, downloading or streaming data to and from the Internet. We also collect information like transmission rates and delays, data associated with remote monitoring services and security characteristics.
+        ' + '*   **Network Performance &. Usage Information** about the operation of the equipment, services and applications you use on our networks. Examples of this might include wireless device location, the number of text messages sent and received, voice minutes used, calling and texting records, bandwidth used, and resources you use when uploading, downloading or streaming data to and from the Internet. We also collect information like transmission rates and delays, data associated with remote monitoring services and security characteristics.
             
             ' + '
             *   ' + '
@@ -319,28 +337,32 @@ We understand that everyone thinks that privacy policies are long, complicated a
         ' + '
     ' + '*   **Location Information** includes your ZIP-code and street address, as well as the whereabouts of your wireless device. Location information is generated when your device communicates with cell towers, Wi-Fi routers or access points and/or with other technologies, including the satellites that comprise the Global Positioning System.
         
-    ' + '*   **U-verse Information** is generated when you use our U-verse suite of services including TV, On Demand, Total Home DVR®, High Speed Internet Service, Online, U-verse App for tablet or smartphone and similar AT&T services and products, including the programs and channels you and those in your household watch and record, the times you watch and how long you watch. It also includes information like the games you play and the applications you use. We also collect information related to your use and interaction with the U-verse equipment in your home, including the U-verse TV remote and Set Top Box.
+    ' + '*   **TV Viewing Information** is generated by your use of any of our satellite or IPTV (U-verse) services. These services may include video on demand, pay per view, DVR services, applications to watch your TV on the go for tablet or smartphone (such as the TV Everywhere app) and similar AT&T services and products, including the programs and channels you and those in your household watch and record, the times you watch and how long you watch. It also includes information like the interactive channels and games provided by U-verse or DirectTV. We also collect information related to your use and interaction with the equipment in your home, including the TV receivers, set top boxes, remotes and other devices you may use to access our services.
         
     ' + '
 ' + '2.  How Do You Collect Information?
     
     ' + '
     
-    In three basic ways:
+      
+    In three basic ways:  
+     
     
     ' + '
     ' + '*   **You Give It To Us** when you make a purchase or set up an account with us.
         
-    ' + '*   **We Automatically Collect Information** when you use our network, products and services. For example, we use network tools to collect your call records. we collect wireless device location from our network and from your device. and we also use cookies, web server logs and other technologies.
+    ' + '*   **We Automatically Collect Information** when you use our networks, products and services. For example, we use network tools to collect your call records. we collect wireless device location from our network and from your device. and we also use cookies, web server logs and other technologies.
         
-    ' + '*   **We Obtain Information from Outside Sources** like credit reports, marketing mailing lists, and commercially available geographic and demographic information.
+    ' + '*   **We Obtain Information from Outside Sources** like credit reports, marketing mailing lists, and commercially available geographic and demographic information along with other publicly available information, such as public posts to social networking sites.
         
     ' + '
-' + '3.  How Do You Use My Information?
+' + '3.  How Do You Use My Information?  
+     
     
     ' + '
     
-    We use your information to improve your experience and to make our business stronger. Some examples include:
+    We use your information to improve your experience and to make our business stronger. Some examples include:  
+     
     
     ' + '
     ' + '*   Providing and managing your services, responding to your questions and addressing problems;
@@ -353,9 +375,9 @@ We understand that everyone thinks that privacy policies are long, complicated a
         
     ' + '*   Network enhancement planning, engineering and technical support;
         
-    ' + '*   Conducting research and analysis for maintaining, protecting and developing our network and our services;
+    ' + '*   Conducting research and analysis for maintaining, protecting and developing our networks and our services;
         
-    ' + '*   Preventing illegal activities, suspected fraud, and potential threats to our network and our customers’ networks;
+    ' + '*   Preventing illegal activities, suspected fraud, and potential threats to our networks and our customers’ networks;
         
     ' + '*   Investigating violations of our Terms of Service, Acceptable Use Policies, or other service conditions or restrictions. and
         
@@ -366,51 +388,10 @@ We understand that everyone thinks that privacy policies are long, complicated a
     
     ' + '
     
+      
     We only use it to provide you with that service, unless we first get your permission to use it for something different.
     
-' /\*+ '5.  How do we use your information for local directory and directory assistance services?
-    
-    ' + '
-    
-    We include Customer names, addresses and telephone numbers in AT&T's local directories. We make the same information available through our directory assistance services unless you request that this information remain "non-published" as discussed further below. We will not include listing information for wireless numbers in either our local directories or our directory assistance services without your consent.
-    
-    ' + '
-    ' + '*   **Published Listing Information**
-        
-        ' + '
-        
-        Listings of AT&T local telephone and AT&T U-verse Voice Customers are made available in our directories and through directory assistance. We publish and distribute directories in print, on the Internet, and on CDs and/or other electronic media — some complimentary and some for a fee. These directories include published Customer names, addresses and telephone numbers. We also make that information available through directory assistance operators and systems (such as directory assistance, speech recognition, reverse number lookup and automated directory assistance services) and through the Internet.
-        
-        ' + '
-        
-        Published listing information may be used, sorted, packaged, repackaged and made available again in different formats by anyone.
-        
-    ' + '*   **Non-Published Information**
-        
-        ' + 'We offer Customers the opportunity to request that their name, number, and address not be published in our local directories or made available through directory assistance services. There is a fee for this service.
-    ' + '*   **Non-Listed Information**
-        
-        ' + 'We also give Customers the opportunity to request that their names, numbers and addresses be "non-listed" in AT&T directories, but still made publicly available through directory assistance services. There also is a fee for this service. Customers in Nevada do not have the option of a non-listed number.
-    ' + '*   **Sharing with Unaffiliated Entities**
-        
-        ' + 'We are required by law to provide published wireline Customer names, addresses and telephone numbers to unaffiliated directory publishers. We also provide the name and address of non-published and non-listed customers to unaffiliated directory publishers for directory delivery purposes. We do not provide non-published or non-listed telephone numbers to these companies.' + '
-        
-        We are also required by law to provide wireline directory assistance information to unaffiliated telephone companies and directory assistance providers on an unrestricted basis. However, we do not provide non-published telephone numbers to these providers.
-        
-        ' + '
-        
-        We provide non-published telephone numbers, where permitted by law, to government entities and public safety providers for public health or safety reasons such as responding to 911 calls and notifying the public of wide-spread emergencies.
-        
-        ' + '
-        
-        We may also provide Published Listing Information to government agencies, municipalities, utilities and other such entities for address and telephone number verification purposes.
-        
-        ' + '
-        
-        We share AT&T U-verse Voice Customer names, addresses and telephone numbers with unaffiliated entities as outlined above.
-        
-    ' + '
-'\*/ + '
+' + '
 
 ' + '**QUESTIONS ABOUT INFORMATION SHARING**' + '
 
@@ -418,31 +399,37 @@ We understand that everyone thinks that privacy policies are long, complicated a
     
     ' + '
     
+      
     Yes and No.
     
     ' + '
     
+      
     Yes, we share the names, addresses and telephone numbers of our wireline telephone and U-verse Voice customers with businesses that publish directories and provide directory assistance services. We are required by law to do that. We honor your request for non-published or non-listed phone numbers. Once we provide published listing information to those businesses, they may use, sort, package, repackage and make it available again in different formats to anyone.
     
     ' + '
     
-    We also provide wireline and wireless calling name and number information for CallerID, and related services like Call Trace, which allow persons receiving a call to obtain the name and number of the party calling them.
+      
+    Yes, We also provide wireline and wireless calling name and number information for CallerID, and related services like Call Trace, which allow a person receiving a call to obtain the name and number of the party calling them.
     
     ' + '
     
+      
     No, we do not give listing information for wireless numbers to phone book publishers or directory assistance services without your permission.
     
 ' + '2.  Do you share my Personal Information internally?
     
     ' + '
     
-    Yes. Our products and services are developed, managed, marketed and sold by a variety of AT&T companies. Sharing this information helps us offer you the high quality, seamless and innovative range of products you have come to expect from us. Some of these include:
+      
+    Yes. Our products and services are developed, managed, marketed and sold by a variety of AT&T companies. Sharing this information helps us offer you the high quality, seamless and innovative range of products you have come to expect from us. Some of these include:  
+     
     
     ' + '
     
     ' + '*   Wireless voice, data, Internet, home security, automation and remote monitoring services provided by AT&T Mobility and AT&T Digital Life; and
         
-    ' + '*   The U-verse suite of TV, Voice and High Speed Internet Access services offered by the AT&T telephone companies.
+    ' + '*   The suite of satellite and IPTV services, Voice and High Speed Internet Access services offered by AT&T companies.
         
     ' + '
     
@@ -452,6 +439,7 @@ We understand that everyone thinks that privacy policies are long, complicated a
     
     ' + '
     
+      
     We will only share your Personal Information with other companies for them to use for the marketing of their own products and services when we have your consent.
     
     ' + '
@@ -459,15 +447,19 @@ We understand that everyone thinks that privacy policies are long, complicated a
     
     ' + '
     
+      
     Yes. We share your Personal Information with companies that perform services for us, like processing your bill. Because we take our responsibility to safeguard your Personal Information seriously, we do not allow those companies to use it for any purpose other than to perform those services, and we require them to protect it in a way consistent with this Policy.
     
     ' + '
     
+      
     Companies that perform these services may be located outside the United States or the jurisdiction where you reside. If your Personal Information is shared with these companies, it could be accessible to government authorities according to the laws that govern those jurisdictions.
     
     ' + '
     
-    There are also occasions when we provide Personal Information to other companies or other entities, such as government agencies, credit bureaus and collection agencies, without your consent. Some examples include sharing to:
+      
+    There are also occasions when we provide Personal Information to other companies or other entities, such as government agencies, credit bureaus and collection agencies, without your consent. Some examples include sharing to:  
+     
     
     ' + '
     ' + '*   Comply with court orders, subpoenas, lawful discovery requests and other legal or regulatory requirements, and to enforce our legal rights or defend against legal claims;
@@ -482,20 +474,23 @@ We understand that everyone thinks that privacy policies are long, complicated a
         
     ' + '*   Notify the National Center for Missing and Exploited Children of information concerning child pornography of which we become aware through the provision of our services.
         
-' + '5.  Do you share my personally identifiable U-verse TV viewing information with other companies?
+' + '5.  Do you share my personally identifiable TV Viewing Information with other companies?
     
     ' + '
     
-    We don't share your personally identifiable U-verse TV information with other companies for them to use for the marketing of their own products and services without your consent. We are required to notify you about the special requirements we must follow when it comes to sharing your personally identifiable U-verse TV information in response to a Court Order:
+      
+    We don't share your personally identifiable TV Viewing Information with other companies for them to use for the marketing of their own products and services without your consent. We are required to notify you about the special requirements we must follow when it comes to sharing your personally identifiable TV Viewing Information in response to a Court Order:
     
     ' + '
     
-    **Notice Regarding Disclosure of Personally Identifiable Information of AT&T U-verse TV Subscribers in Response to Court Order**
+    **Notice Regarding Disclosure of Personally Identifiable Information of Satellite and IPTV Subscribers in Response to A Court Order**  
+     
     
     ' + '
-    ' + '*   In the case of a court order obtained by a non-governmental entity, AT&T is authorized to disclose personally identifiable information collected from AT&T U-verse TV subscribers as a result of the subscriber's use of AT&T's U-verse TV service only after providing prior notice to the subscriber.
+    ' + '*   In the case of a court order obtained by a non-governmental entity, AT&T is authorized to disclose personally identifiable information collected from TV subscribers as a result of the subscriber's use of TV service only after providing prior notice to the subscriber.
         
-    ' + '*   In the case of a court order obtained by a governmental entity, AT&T is authorized to disclose personally identifiable information collected from AT&T U-verse TV subscribers as a result of the subscriber's use of AT&T's U-verse TV service only if, in the court proceeding relevant to the order:
+    ' + '*   In the case of a court order obtained by a governmental entity, AT&T is authorized to disclose personally identifiable information collected from TV subscribers as a result of the subscriber's use of TV service only if, in the court proceeding relevant to the order:  
+         
         
         ' + '
         ' + '*   The governmental entity offers clear and convincing evidence that the subject of the information is reasonably suspected of engaging in criminal activity and that the information sought would be material evidence in the case. and
@@ -513,70 +508,84 @@ We understand that everyone thinks that privacy policies are long, complicated a
     
     ' + '
     
-    Yes. We may use information like the preferences you have expressed and interests you have demonstrated on our websites, in our stores and through use of our products and services, to provide you with marketing information and advertisements for AT&T products and services. Those ads may be delivered on our websites and mobile applications. This is called "first party" advertising. It is part of our service relationship and you are not able to opt-out from this type of advertising.
+      
+    Yes. We may use information like the preferences you have expressed and interests you have demonstrated on our websites, in our stores and through use of our products and services, to provide you with marketing information and advertisements for AT&T products and services. Those ads may be delivered on our websites and mobile applications. This is called "first party" advertising. It is part of our service relationship and you are not able to opt-out from this type of advertising.We or our advertising partners may use anonymous information gathered through cookies and similar technologies, as well as other anonymous and aggregate information that either of us may have to help us tailor the ads you see on non-AT&T sites. For example, if you see an ad from us on a non-AT&T sports-related website, you may later receive an ad for sporting equipment delivered by us on a different website. This is called Online Behavioral Advertising, which is a type of Relevant Advertising.
     
     ' + '
     
+      
     We or our advertising partners may also use anonymous information gathered through cookies and similar technologies, as well as other anonymous and aggregate information that either of us may have to help us tailor the ads you see on non-AT&T sites. For example, if you see an ad from us on a non-AT&T sports-related website, you may later receive an ad for sporting equipment delivered by us on a different website. This is called "online behavioral advertising," which is a type of Relevant Advertising.
     
 ' + '2.  Do you use my information for other types of Relevant Advertising?
     
     ' + '
     
+      
     Yes. We may also use information we get through your use of our products and services, from our advertising partners, and information like your age and gender to deliver Relevant Advertising that is not online behavioral advertising. We combine your anonymous information with that of other users into aggregate "audience segments." These segments are based on particular interests and/or factual characteristics that everyone in that audience segment is likely to share. We might use that information to send you advertisements that are relevant to those interests or characteristics.
     
     ' + '
     
+      
     We are careful to create Relevant Advertising with aggregate audience segments that are large enough that you can't be identified individually.
     
 ' + '3.  Do you use the location of my device for advertising purposes?
     
     ' + '
     
+      
     Yes. AT&T uses information about the locations you visit in order to create combined wireless location interest characteristics that can be used to provide Relevant Advertising to you and others like you.
     
     ' + '
     
+      
     Location characteristics are types of locations - like "movie theaters." People who live in a particular geographic area (a city, ZIP-code or ZIP+ 4 code, for example) might appear to have a high interest in movies, thanks to collective information that shows wireless devices from that area are often located in the vicinity of movie theaters. We might create a "movies characteristic" for that area, and deliver movie ads to the people who live there.
     
     ' + '
     
+      
     We may associate your wireless device with a particular geographic area, such as a city, ZIP-code, or ZIP + 4 code, based on your billing address or the cell towers you connect with most frequently.
     
     ' + '
     
+      
     In addition to other privacy protections, the process we use to create our audience segment includes a requirement that the ZIP + 4 or other geographic area to which a wireless location is assigned must contain a minimum of 25 households. ZIP + 4 codes with less than 25 households are combined with other ZIP + 4 codes to satisfy this requirement.
     
 ' + '4.  What's in it for me?
     
     ' + '
     
+      
     Just like the name says, you get advertising that's more relevant to your interests. For example, if a particular audience segment, like adults between the ages of 21 and 25 with a certain income range, has demonstrated a greater interest in movies than other segments, we might send them a movie ad for a movie geared toward young adults.This is just one way we deliver content that's more relevant.
     
-' + '5.  How do you use information about the programs I watch on U-verse TV to advertise to me?
+' + '5.  How do you use information about the programs I watch on TV to advertise to me?
     
     ' + '
     
+      
     We combine information about the shows that our customers are watching with their common interests to help us figure out what types of advertising they might be interested in seeing.
     
     ' + '
     
+      
     It sometimes works like this: We look at the group of people watching a particular show. We identify common characteristics within that group. We use those characteristics to identify and deliver advertising that might be most relevant to watchers of that TV show. We might also deliver that same advertising during shows that appear to have similar audiences.
     
 ' + '6.  Do I ever have a chance to tell you what I'm personally interested in?
     
     ' + '
     
-    Yes. With some programs you can sign up to receive text-message offers from businesses that are near your current location and match the interests you've selected. You can change your mind at any time and stop participating in these programs.
+      
+    Yes. With some programs offered or powered by AT&T you can sign up to receive text-message offers from businesses that are near your current location and match the interests you've selected. You can change your mind at any time and stop participating in these programs.
     
     ' + '
     
+      
     When we add new offers like AT&T Internet Preferences we'll let you know, so you can decide if you'd like to participate. For example, we may offer you free or discounted services in exchange for the use of your Personal Information for advertising and other similar purposes. We promise, before we use any of your Personal Information (including information we gather as an Internet service provider) for such purposes, we will always give you the opportunity to make an informed choice about whether to participate
     
 ' + '7.  What information do you provide to advertisers?
     
     ' + '
     
+      
     AT&T may provide reports to advertisers and other business customers about the success of its advertising campaigns. Those reports contain aggregate information about the number of times a particular ad was viewed, when it was viewed, whether it was viewed on a TV, a mobile device or a computer, demographics associated with the viewing audience and other similar information. Your anonymous information will not be included in aggregate reports about the success of Relevant Advertising campaigns if you have opted-out of Relevant Advertising delivered by AT&T.
     
 ' + '
@@ -587,14 +596,17 @@ We understand that everyone thinks that privacy policies are long, complicated a
     
     ' + '
     
+      
     Exactly what it sounds like! It includes your ZIP-code and street address, as well as the whereabouts of your wireless device.
     
 ' + '2.  How is it used?
     
     ' + '
     
+      
     We use it in all kinds of ways, here are some examples:
     
+      
     ' + '
     ' + '*   **We Provide Wireless Voice and Data Services**: We monitor, collect and use wireless location information, together with other information we get from our network and your wireless device, to maintain and improve our network. We also might use location information with your consent to provide you with a customized experience. For example, when you dial 411 Directory Assistance for a business telephone number, we might use your wireless location information to return the number of the business location closest to you.
         
@@ -608,16 +620,19 @@ We understand that everyone thinks that privacy policies are long, complicated a
     
     ' + '
     
+      
     It depends on the technology we're using. For example, we can locate your device based on the cell tower that's serving you. The range could be up to 1,000 meters in any direction from the tower in urban areas, and up to 10,000 meters in rural areas. Wi-Fi networks provide more accurate location information, associating you with the place where the network is located - like a coffee shop - or to an area within or around that place.
     
     ' + '
     
+      
     Services such as 411, 911, a "friend locator" application or a navigation/mapping application, require more precise information. So for those we develop a more precise estimate of location by associating the serving cell tower ID with other information, like the latitude and longitude of the tower, radio frequency parameters, GPS information and timing differences in radio signals. Depending on a variety of factors, those methods may estimate the location of your device to within 30 to 1000 meters.
     
 ' + '4.  Are you the only ones who can locate my wireless device?
     
     ' + '
     
+      
     Other companies may also be able to locate your device. For example, your handset manufacturer and your operating system provider may be able to locate your device. If you download mobile applications, those apps may be able to obtain your location directly from your handset or the operating system. Mobile applications that give you access to your employer's network may also give your employer the ability to locate your device.
     
     ' + '
@@ -632,24 +647,29 @@ We understand that everyone thinks that privacy policies are long, complicated a
     
     ' + '
     
+      
     Sometimes we'll collect information about how you use our products using cookies and other similar technologies. This information doesn't include your Personal Information and is considered anonymous.
     
     ' + '
     
+      
     When we collect information that identifies you personally, we may anonymize it for certain purposes. We remove data fields (such as name, address and telephone number) that can reasonably be used to identify you. We also use a variety of statistical techniques and operational controls to anonymize data. Anonymizing information is one of the tools we use to protect your privacy.
     
 ' + '2.  Tell me more about aggregate information.
     
     ' + '
     
+      
     Aggregate information is a form of anonymous information. We combine data that meet certain criteria into anonymous groups. For example, we might want to compare how customers in Beverly Hills, CA (or any city, county or ZIP-code) use their cell phones to how customers in Boulder, CO use their cell phones. In order to do that, we would combine customer data in each of the geographies into anonymous groups and look at all that aggregate data to understand how the two groups are different or similar.
     
 ' + '3.  Do you share anonymous or aggregate information?
     
     ' + '
     
+      
     Yes, we may share this information with other companies and entities for specific uses, which may include:
     
+      
     ' + '
     
     ' + '*   Universities, laboratories, think tanks and other entities that conduct networking, social, behavioral, environmental and other types of scientific research, for the purpose of creating fundamental new knowledge;
@@ -669,31 +689,37 @@ We understand that everyone thinks that privacy policies are long, complicated a
     
     ' + '
     
+      
     We use aggregate information to create External Marketing &. Analytics Reports that we may sell to other companies for their own marketing, advertising or other similar uses.
     
     ' + '
     
-    These reports may be a combination of information from wireless and Wi-Fi locations, U-verse, website browsing and mobile application usage and other information we have about you and other customers. You have a choice about whether your anonymous information is included in the reports that we sell or provide to other companies.
+      
+    These reports may be a combination of information from wireless and Wi-Fi locations, TV Viewing, calling and texting records, website browsing and mobile application usage and other information we have about you and other customers. You have a choice about whether your anonymous information is included in the reports that we sell or provide to other companies.
     
     ' + '
     
+      
     Some examples of External Marketing &. Analytics Reports include:
     
+      
     ' + '
     ' + '*   Reports for retail businesses that show the number of wireless devices in or near their store locations by time of day and day of the week, together with demographic characteristics or other information about the users (such as device type, age or gender) in those groups.
         
-    ' + '*   Reports that combine anonymous U-verse TV viewing behaviors with other aggregate information we may have about our subscribers to create reports that would help a TV network better understand the audiences that are viewing their programs, those that are not, how frequently they watch, when they watch and other similar information. and
+    ' + '*   Reports that combine anonymous TV Viewing behaviors with other aggregate information we may have about our subscribers to create reports that would help a TV network better understand the audiences that are viewing their programs, those that are not, how frequently they watch, when they watch and other similar information; and
         
     ' + '*   Reports for device manufacturers that combine information such as device type, make and model with demographic and regional location information to reflect the popularity of particular device types with various customer segments.
         
 ' + '2.  Do you provide companies with individual anonymous data as part of your External Marketing &. Analytics Program?
     
+      
     ' + '
     
-    Yes. For example, we might share anonymous U-verse TV viewing information with media research companies that combine this data with other information to provide audience analysis services about what shows certain audience segments are watching. When we provide individual anonymous information to businesses, we require that they only use it to compile aggregate reports, and for no other purpose. We also require businesses to agree they will not attempt to identify any person using this information, and that they will handle it in a secure manner, consistent with this Policy.
+    Yes. For example, we might share anonymous TV Viewing Information with media research companies that combine this data with other information to provide audience analysis services about what shows certain audience segments are watching. When we provide individual anonymous information to businesses, we require that they only use it to compile aggregate reports, and for no other purpose. We also require businesses to agree they will not attempt to identify any person using this information, and that they will handle it in a secure manner, consistent with this Policy.
     
 ' + '3.  Do you use my anonymous information in other types of external reports?
     
+      
     ' + '
     
     Yes, we may use your anonymous information to provide Metrics Reports to our business customers and service suppliers. These reports are considered part of the underlying service and we do not sell them to other customers or suppliers.
@@ -702,6 +728,7 @@ We understand that everyone thinks that privacy policies are long, complicated a
     
     For example, if you connect to our Wi-Fi service in a hotel, airport or other venue you should know the operator of that venue is our business customer, and that we will provide that operator with Metrics Reports about usage of and communications with the Wi-Fi network in their location. Those reports contain statistical information like:
     
+      
     ' + '
     
     ' + '*   The number of devices connecting to the Wi-Fi network, duration of Wi-Fi sessions and the amount of bandwidth used during those sessions. and
@@ -713,7 +740,7 @@ We understand that everyone thinks that privacy policies are long, complicated a
     
     ' + '
     
-    Another example, we also license U-verse video programming from content providers. As part of our agreement, we provide them with Metrics Reports. These reports contain combined measurements and statistical information related to the number of U-verse TV subscribers who watched or accessed a particular program at a particular time and other similar measurements.
+    Another example, we also license video programming from content providers. As part of our agreement, we provide them with Metrics Reports. These reports contain combined measurements and statistical information related to the number of TV subscribers who watched or accessed a particular program at a particular time and other similar measurements.
     
 ' + '
 
@@ -723,26 +750,31 @@ We understand that everyone thinks that privacy policies are long, complicated a
     
     ' + '
     
+      
     We do not knowingly collect personally identifying information from anyone under the age of 13 unless we first obtain permission from the child's parent or legal guardian.
     
 ' + '2.  What happens when my child is using an account not registered to them?
     
     ' + '
     
+      
     Internet and wireless devices and services purchased for family use may be used by children without our knowledge. When that happens, information collected may appear to us to be associated with the adult customer who subscribes to our services and will be treated as the adult's information under this Policy.
     
 ' + '3.  What can I do to help better protect my child's information?
     
     ' + '
     
+      
     We encourage you to spend time online with your children, and to participate in and monitor their online activity. We have developed a website that offers safety and control tools, expert resources and tips designed to help you manage technology choices and address safety concerns. Please visit AT&T Smart Controls for more information.
     
 ' + '4.  What if my child has an AT&T e-mail sub-account?
     
     ' + '
     
+      
     If you create an AT&T e-mail sub-account for a child under the age of 13:
     
+      
     ' + '
     
     ' + '*   With your permission we collect your child’s name, nicknames and aliases, alternative e-mail address, birth date, gender and ZIP-code.
@@ -767,26 +799,31 @@ We understand that everyone thinks that privacy policies are long, complicated a
     
     ' + '
     
+      
     No. We do not sell your Personal Information to anyone, for any purpose. Period.
     
 ' + '2.  How long do we keep your Personal Information?
     
     ' + '
     
-    We keep your Personal Information as long as we need for business, tax or legal purposes. After that, we destroy it by making it unreadable or undecipherable.
+      
+    We keep your Personal Information as long as we need it for business, tax or legal purposes. After that, we destroy it by making it unreadable or undecipherable.
     
     ' + '
 3.  What safeguards does AT&T have in place?
     
     ' + '
     
+      
     We've worked hard to protect your information. And we've established electronic and administrative safeguards designed to make the information we collect secure. Some examples of those safeguards include:
     
+      
     ' + '
     ' + '*   All of our employees are subject to the AT&T Code of Business Conduct (COBC) and certain state-mandated codes of conduct. Under the COBC, all employees must follow the laws, rules, regulations, court and/or administrative orders that apply to our business - including, specifically, the legal requirements and company policies surrounding the privacy of communications and the security and privacy of your records. We take this seriously, and any of our employees who fail to meet the standards we've set in the COBC are subject to disciplinary action. That includes dismissal.
         
     ' + '*   We've implemented technology and security features and strict policy guidelines to safeguard the privacy of your Personal Information. Some examples are:
         
+          
         ' + '
         ' + '*   Maintaining and protecting the security of computer storage and network equipment, and our security procedures require employee user names and passwords to access sensitive data;
             
@@ -804,20 +841,26 @@ We understand that everyone thinks that privacy policies are long, complicated a
     
     ' + '
     
+      
     Laws and regulations guide us in how to give you notification when certain types of sensitive information are involved in a security breach. We will provide you with notice in accordance with these laws and regulations.
     
 ' + '5.  Can I review and correct my Personal Information?
     
     ' + '
     
+      
     Yes. We are happy to help you review and correct the Personal Information we have associated with your account and billing records. Please contact us.
     
 ' + '6.  Have your privacy practices been certified?
     
     ' + '
     
+      
     Yes, and we're very proud of it! TRUSTe has awarded us the TRUSTe Privacy Seal. As an independent third party, TRUSTe's mission is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions.
     
+    ' + '
+    
+      
     Our TRUSTe Privacy Seal signifies that TRUSTe has reviewed our Privacy Policy and practices for compliance with TRUSTe's program requirements. These include transparency, accountability and choice regarding the collection and use of your Personal Information. The TRUSTe program covers only information that is collected through our certified web sites.
     
 ' + '
@@ -828,24 +871,29 @@ We understand that everyone thinks that privacy policies are long, complicated a
     
     ' + '
     
+      
     Information about our customers and users, including Personal Information, may be shared and transferred as part of any merger, acquisition, sale of company assets or transition of service to another provider. This also applies in the unlikely event of an insolvency, bankruptcy or receivership in which customer and user records would be transferred to another entity as a result of such a proceeding.
     
 ' + '2.  Will I be notified if there are changes to this policy?
     
     ' + '
     
+      
     We may update this Privacy Policy as necessary to reflect changes we make and to satisfy legal requirements. We will post a prominent notice of the change on our websites. We will provide you with other appropriate notice of important changes at least 30 days before the effective date.
     
 ' + '
 
 ' + ' **YOUR CHOICES &. CONTROLS**' + '
 
-' + '1.  You can choose not to receive some types of advertising online or on your wireless device.
+' + '1.  You can choose not to receive some types of advertising online, on your satellite TV service or on your wireless device.
     
+      
     ' + '
-    ' + '*   Opt-out of all Relevant Advertising delivered by AT&T on your mobile device here. You'll need to opt-out on each mobile device you want to exclude.
+    ' + '*   Opt-out of Relevant Advertising delivered online by AT&T here and you can opt out of Mobile Relevant Advertising on your mobile device here. You'll need to opt-out on each browser and mobile device you want to exclude.
         
-    ' + '*   Opt-out of Relevant Advertising delivered by AT&T and online behavioral advertising provided by AT&T and other advertisers by clicking the "Ad Choices" link at the bottom of our web pages. You'll need to opt-out on each computer browser you want to exclude.
+    ' + '*   Opt-out of Online Behavioral Advertising provided by AT&T and other advertisers on your computer by clicking the "Advertising Choices" " link at the bottom of our web pages.
+        
+    ' + '*   Opt-out of Relevant Advertising by AT&T on Satellite TV Viewing here.
         
     ' + '*   Opt-out of interest-based advertising on att.net powered by Yahoo! here.
         
@@ -860,62 +908,75 @@ We understand that everyone thinks that privacy policies are long, complicated a
     
     ' + '
     
+      
     Because first party advertising is part of the service you receive when you visit our websites and use our mobile applications, we don't offer an opt-out for first party advertising.
     
 ' + '3.  You can also choose not to receive other types of marketing from AT&T.
     
     ' + '
     
+      
     We realize that unwanted marketing contacts can be a hassle and we've worked hard to meet the expectations of customers and potential customers who have expressed a desire to limit certain types of solicitation communications from us.
     
     ' + '
     
+      
     **E-Mail:** Every marketing e-mail we send contains instructions and a link that will allow you to stop additional marketing e-mails for that product or service type. You also can unsubscribe from AT&T marketing e-mails here.
     
     ' + '
     
+      
     **Text Messages**: Opt-out of AT&T marketing text message contacts by replying "stop" to any message.
     
     ' + '
     
+      
     **AT&T Consumer Telemarketing:** Ask to be removed from our consumer telemarketing lists by contacting us at one of the numbers listed here. You also can ask the AT&T representative to remove you from our telemarketing lists when you receive a marketing or promotional call from us.
     
     ' + '
     
+      
     **AT&T Business Telemarketing:** Where required by state laws and/or regulations, we honor requests to be removed from our telemarketing lists from business customers.
     
     ' + '
     
+      
     **Federal Do Not Call:** The FTC maintains a National Do Not Call Registry at donotcall.gov, and your state may maintain its own Do Not Call Registry. Putting your number on these Registries also may limit our AT&T telemarketing calls to that number.
     
     ' + '
     
+      
     **Postal Mail:** To review our Residential Do Not Mail Policy Statement and to limit postal mail solicitations, click here. You will still receive billing statements, legal notices, product updates and other similar correspondence, and you may still receive some promotional mailings.
     
     ' + '
     
+      
     All of our practices are designed to satisfy state and federal legal requirements limiting marketing contacts. Those laws and regulations - such as the requirements governing the state and federal "Do Not Call" lists - generally permit companies to contact their own current and, in some cases, former customers, even when those customers are listed on the federal and state "Do Not Call" lists.
     
     ' + '
     
+      
     Restricting our use of your CPNI will not eliminate all types of our marketing contacts.
     
 ' + '4.  Can I choose to exclude my anonymous information from your External Marketing &. Analytics and other similar reports?
     
     ' + '
     
-    Yes. Click here to opt-out. This opt-out also applies to the sharing of your anonymous information with other companies for their use in creating marketing and analytics reports. Although this opt out does not apply to Metrics Reports, it will apply if we combine Metrics Report information with other customer information (like demographics) to create reports that we provide to our business customers or service suppliers.
+      
+    Yes. Click here to opt-out. Satellite TV-only customers who have recently joined the AT&T Family of Companies can opt out here. This opt-out also applies to the sharing of your anonymous information with other companies for their use in creating marketing and analytics reports. Although this opt out does not apply to Metrics Reports, it will apply if we combine Metrics Report information with other customer information (like demographics) to create reports that we provide to our business customers or service suppliers.
     
 ' + '5.  What is DNS error assist?
     
     ' + '
     
-    When you mistype a web address, or the address is not working, DNS Error Assist provides an automated list of similar pages – such as possibly the one you meant to type – for your consideration. The service is provided on your AT&T residential broadband connection, and you can opt-out here. You will get a standard “no results found” error message instead of the error-assist page.
+      
+    When you mistype a web address, or the address is not working, DNS Error Assist provides an automated list of similar pages – such as possibly the one you meant to type – for your consideration. The service is provided on your AT&T residential broadband connection, and you can opt-out here. If you opt-out, you will get a standard “no results found” error message instead of the error-assist page.
     
 ' + '6.  Are there any other opt-out choices I should know about?
     
     ' + '
     
+      
     We may use services provided by analytics companies to obtain information about website performance and how you use our mobile applications and other products and services. Go here for more information about the opt-outs made available by some of those vendors, and to make choices about participation.
     
 ' + '7.  These Choices and Controls also are available at www.att.com/yourchoices.
@@ -926,6 +987,7 @@ We understand that everyone thinks that privacy policies are long, complicated a
 
 ' + '*   We encourage you to contact us directly at either of these addresses below for any questions about this Privacy Policy.
     
+      
     ' + '
     *   E-mail us at privacypolicy@att.com
         
@@ -937,6 +999,8 @@ We understand that everyone thinks that privacy policies are long, complicated a
     
 ' + '*   You also have the option of filing a complaint with the FTC Bureau of Consumer Protection, using an online form, or by calling toll-free 877.FTC.HELP (877.328.4357. TTY: 866.653.4261). Other rights and remedies also may be available to you under federal or other applicable laws.
     
+' + '*   If you are a satellite TV subscriber, you also have certain rights under Section 338(i) of the Federal Communications Act.
+    
 ' + '
 
 ' + ' ' + ' '). } function renderCPNI() { document.write('What is CPNI?' + '
@@ -945,7 +1009,7 @@ Customer Proprietary Network Information (CPNI) is information that AT&T and oth
 
 ' + 'Use and Disclosure of CPNI' + '
 
-We use your CPNI to offer you additional services of the type you already purchase from AT&T. We also may use your CPNI to offer you products and services, packages, discounts and promotions from the AT&T companies, such as High Speed DSL Internet access, wireless service and U-verse TV services, which may be different from the types of services you already purchase.
+We use your CPNI to offer you additional services of the type you already purchase from AT&T. We also may use your CPNI to offer you products and services, packages, discounts and promotions from the AT&T companies, such as High Speed DSL Internet access, wireless service and TV services, which may be different from the types of services you already purchase.
 
 ' + '
 
@@ -983,7 +1047,7 @@ Legacy AT&T Consumer - 1-800-222-0300
 
 Restricting our use of your CPNI for marketing purposes will not affect the provision of any AT&T products or services to which you subscribe, nor will it eliminate all types of AT&T marketing contacts.
 
-'). if ( pid == 'printversion' ) { document.write('Customer Service Contact Numbers' + '
+' +'Customer Service Contact Numbers' + '
 
 **Wireless** — 1-800-331-0500
 
@@ -1001,33 +1065,21 @@ Restricting our use of your CPNI for marketing purposes will not affect the prov
 
 ' + '
 
+**Satellite TV Services** – 1-800-DIRECTV or 1-800-351-5000
+
+' + '
+
 For assistance in other languages, please visit world.att.com.
 
 ' + '
 
 **Legacy AT&T Consumer** — 1-800-222-0300
 
-' + 'Customers of the following AT&T family of companies may contact us directly using the following:' // + '
-
-**YELLOWPAGES** — Please contact YELLOWPAGES by sending an email to ypcsupport@yellowpages.com.
-
-' // + '
-
-**AnyWho** — Please follow the opt-out instructions to remove your **residential** phone number from the AnyWho Web site.
-
-' // + '
-
-**Ether** — Please contact Ether using the Customer Support request.
-
-' // + '
-
-**Keen** — Please contact Keen using the Customer Support form.
-
-' + '
+' + 'Customers of the following AT&T family of companies may contact us directly using the following:' + '
 
 **AT&T Internet Services** — Customers can manage newsletter subscriptions or other e-mail communications from Yahoo! by modifying their AT&T Yahoo! Marketing Preferences.
 
-'). } } function renderDNM() { document.write('
+'). } function renderDNM() { document.write('
 
 AT&T will maintain a company-specific (Internal) Do Not Mail (DNM) list of existing and prospective residential customers who request not to receive any AT&T marketing materials via US Postal Mail.' + '
 
@@ -1058,18 +1110,19 @@ AT&T reserves the right to discontinue this Consumer Marketing Residential DNM p
 
 ' + '
 
-' + '*   **Cookies** are small data files. Websites place them in your browser to recognize your device when you return to that site or when you visit other sites. There are a couple of important things to remember about cookies:
+' + '*   **Cookies** are small data files. Websites place them in your browser to recognize your computer or mobile device when you return to that site. Cookies are created to keep track of your movements within the site, help you resume where you left off, remember your registered username, preferences and other customizations.
+' + '*   There are a couple of important things to remember about cookies:
 ' + '
 
-' + '*   Disabling cookies may prevent you from using specific features on some websites.
-' + '*   If you delete cookies that tell advertisers you’ve opted-out of their programs, you’ll need to opt-out again to create a new cookie.
+' + '*   Disabling cookies may prevent you from using specific features on some websites. You’ll need to perform the opt out procedure if you opt out of a program or service and then change computers or Web browsers, or clear or erase the digital "cookie" that lets us know you opted out.
+' + '*   **Local Storage Cookies**. Local Storage is a convenient, flexible, secure and faster way to store HTTP state data. It is a method by which our web pages locally store named key/value pairs in a user’s web browser. Local storage on ATT.com is mainly used to store and retrieve data in HTML pages from our domains. Local storage data is session-based and will not persist once the session is over and the browser is closed.
 ' + '
 
-' + '*   **Flash Cookies** (also called Local Shared Objects or "LSOs") are similar to cookies, except that they can store more complex data. They are used to remember your settings, preferences and usage, interactive gaming, and other similar services.
+' + '*   **Flash Cookies** (also called Local Shared Objects or "LSOs") are similar to cookies, except that they can store more complex data. They are used to remember your settings, preferences and usage, and other similar services. Flash cookies allow functionality and availability of certain services. If disabled, these services may not function correctly. While browser cookies may be removed or blocked via web browser settings, flash cookies operate differently. Please note that setting the Flash Player to restrict or limit acceptance of Flash LSOs may reduce or impede the functionality of some Flash applications, To learn more about how to manage flash cookies, you can visit the Adobe website and make changes at Global Storage Settings Panel.
 ' + '*   **Web beacons** are small graphic images on a Web page or in an e-mail. They can be used for things like recording the pages and advertisements that users click on, or tracking how well an e-mail marketing campaign performs.
 ' + '*   A **widget** is a small program or application that can be embedded in a web page. It can provide real-time information, such as stock quotes or weather reports. Widgets are often provided by a third party and allow them to collect data about users viewing that page.
-' + '*   A **server log** records your web activity by your computer or device and plays a key role in improving web page performance and introducing new features. For example, it may record which search terms you’ve entered, or the links you’ve clicked on. It may also record your browser information, such as your IP address, device type, how long you spend on a Web page, and your browser's cookies.
-' + '*   Some websites have “**social network or other third-party plug-ins.**” These plug-ins may provide information back to those sites, even if you don't click on or interact with the plug-in. It may also apply even if you don’t have an account with them. Social networks or third parties may use an identifier when transmitting from your browser. This might include information about your browser type, operating system, device type, IP address and the URL of the web page where the plug-in appears. If you use social networking tools or sites, we recommend you take a moment to familiarize yourself with their privacy disclosures.
+' + '*   A **server log** records your web activity by your computer or mobile device and plays a key role in improving web page performance and introducing new features. For example, it may record which search terms you’ve entered, or the links you’ve clicked on. It may also record your browser information, such as your IP address, device type, how long you spend on a Web page, and your browser's cookies.
+' + '*   Some websites have “**social network or other third-party plug-ins.**” These plug-ins may provide information back to those sites, even if you don't click on or interact with the plug-in. It may also apply even if you don’t have an account with them. Social networks or third parties may use an identifier when transmitting from your browser. This might include information about your browser type, operating system, device type, IP address and the URL of the web page where the plug-in appears. If you use social networking tools or sites, we recommend you take a moment to familiarize yourself with their privacy policies.
 ' + '
 
 ' + 'Managing Cookies' + '
@@ -1084,10 +1137,13 @@ Most browsers will allow you to delete, disable and choose what cookies can be p
 **Individual Browsers**' + '
 
 ' + '*   Internet Explorer »
+' + '*   Internet Explorer (Mobile devices) »
 ' + '*   Safari »
 ' + '*   Safari Mobile (iPhones and iPads) »
 ' + '*   Firefox »
+' + '*   Firefox (Mobile devices) »
 ' + '*   Chrome »
+' + '*   Chrome (Mobile devices) »
 ' + '
 
 ' + '  
@@ -1097,27 +1153,28 @@ Most browsers will allow you to delete, disable and choose what cookies can be p
 
 '). } function renderOptOut() { document.write('
 
-You have choices about how your information is collected and used, both by AT&T and other companies. That includes "opting out" of some programs, setting privacy preferences, and unsubscribing from certain kinds of emails or letters. We've listed your choices below.
+You have choices about how your information is collected and used, both by AT&T and by other companies. That includes "opting out" of some programs, setting privacy preferences, and unsubscribing from certain kinds of emails or letters. We've listed your choices below.
 
 ' + '
 
-' + '*   **Online Advertising from AT&T**: You can opt-out of all Relevant Advertising delivered by AT&T on your computer by visiting this page. You will need to opt-out on **each** computer browser you wish to exclude.
+' + '*   **Online Advertising from AT&T**: You can opt-out of Relevant Advertising delivered by AT&T on your computer by going to Your Advertising Choices at att.com/internal/adchoices on **each** computer browser you wish to exclude.
 ' + '*   **Mobile Advertising from AT&T**: You can opt-out of receiving Relevant Advertising delivered by AT&T on your mobile device. You will need to opt-out on **each** mobile device you wish to exclude.' + '
     *   You can follow the steps below:' + '
-        *   From your AT&T mobile device you want to opt out, go to mobileoptout.att.com/
-        ' + '*   Make sure you are on the AT&T wireless network, and not on any Wi-Fi
+        *   Make sure you are on the AT&T wireless network, and not on any Wi-Fi
+        ' + '*   From your AT&T mobile device you want to opt out, go to mobileoptout.att.com/
         ' + '*   Choose the blue Opt-Out button. You should receive the following message: "Thank you. This device will not be receiving AT&T Relevant Advertising"
         ' + '
     ' + '
-' + '*   **Online Behavioral Advertising from AT&T and Other Advertisers:** You can opt out of online behavioral advertising from our advertising partners and others at the Network Advertising Initiative (NAI) here. You will need to opt-out on **each** computer browser you wish to exclude.
-' + '*   **Advertising on att.net**: You can opt-out of receiving targeted online ads from Yahoo! when using our att.net email service or other Yahoo! services here.
+' + '*   **Online Behavioral Advertising from AT&T and Other Advertisers:** You can opt out of online behavioral advertising from our advertising partners and others by going to Your Advertising Choices site. You will need to opt-out on **each** computer browser you wish to exclude.
+' + '*   **Advertising on Satellite TV:** You can opt out of Relevant Advertising by AT&T on Satellite TV by going to manage your privacy choices. If you are a satellite only subscriber by going to www.att.com/directvprivacy
+' + '*   **Advertising on att.net**: You can opt-out of receiving targeted online ads from Yahoo! when using our att.net email service or other Yahoo! services by accessing ATT.net marketing preferences through your account.
 ' + '*   **Additional Advertising Opt-Out Choices:** You can opt out of online behavioral advertising from other companies who have joined an association called the Network Advertising Initiative.
-' + '*   **Information about Cookies and Similar Technologies:** To limit collection of data on web sites that may be used for advertising, go here for information on how to manage cookies and other similar technologies on your computer.
+' + '*   **Information about Cookies and Similar Technologies:** To limit collection of data on web sites that may be used for advertising, see the Definitions for information on how to manage cookies and other similar technologies on your computer.
 ' + '
 
 ' + '
 
-Please keep in mind that in some cases, your choice will be linked to the specific phone, computer or web browser you're using, because that's how we know it's you. This means that in some cases, if you opt out of a program or service and then change computers or Web browsers, or clear or erase the digital "cookie" that lets us know you opted out, you'll need to perform the opt-out procedure again.
+Please keep in mind that in some cases, your choice will be linked to the specific phone, computer or web browser you're using, because that's how we know it's you. You’ll need to perform the opt out procedure again if you opt out of a program or service and then change computers or Web browsers, or clear or erase the digital "cookie" that lets us know you opted out.
 
 ' + '
 
@@ -1125,7 +1182,7 @@ Please keep in mind that in some cases, your choice will be linked to the specif
 
 ' + '
 
-' + '*   You can choose to exclude your anonymous information from our External Marketing &. Analytics and similar reports here.
+' + '*   You can choose to exclude your anonymous information from our External Marketing &. Analytics and similar reports by going to manage your privacy choices. Satellite TV only customers who have joined the AT&T Family of Companies can opt out www.att.com/directvprivacy.
 ' + '
 
 ' + '
@@ -1134,7 +1191,7 @@ Please keep in mind that in some cases, your choice will be linked to the specif
 
 ' + '
 
-' + '*   Go here for more information about CPNI and your choices about our use of that information for marketing purposes.
+' + '*   Go to CPNI Opt-Out, or go to https://www.wireless.att.com/ecpni/ for more information about CPNI and your choices about our use of that information for marketing purposes.
 ' + '
 
 ' + '
@@ -1143,7 +1200,7 @@ Please keep in mind that in some cases, your choice will be linked to the specif
 
 ' + '
 
-' + '*   When you mistype a web address, or the address is not working, DNS Error Assist provides an automated list of similar pages – such as possibly the one you meant to type – for your consideration. The service is provided on your AT&T residential broadband connection, and you can opt-out here. You will get a standard “no results found” error message instead of the error-assist page.
+' + '*   When you mistype a web address, or the address is not working, DNS Error Assist provides an automated list of similar pages – such as possibly the one you meant to type – for your consideration. The service is provided on your AT&T residential broadband connection, and you can opt-out by managing your privacy choices. You will get a standard “no results found” error message instead of the error-assist page.
 ' + '
 
 ' + '
@@ -1152,19 +1209,19 @@ Please keep in mind that in some cases, your choice will be linked to the specif
 
 ' + '
 
-' + '*   **AT&T Marketing E-Mails**: You can opt-out of marketing emails here.
-' + '*   **Postal Mail:** To review our Residential Do Not Mail Policy Statement and to limit postal mail solicitations, click here. You will still receive billing statements, legal notices, product updates and other similar correspondence, and you may still receive some promotional mailings.
+' + '*   **AT&T Marketing E-Mails**: You can opt-out of marketing emails by using email unsubscribe.
+' + '*   **Postal Mail:** To review our Residential Do Not Mail Policy Statement and to limit postal mail solicitations, visit visit AT&T Consumer Marketing. You will still receive billing statements, legal notices, product updates and other similar correspondence, and you may still receive some promotional mailings.
 ' + '*   **Consumer Telemarketing:** Ask to be removed from our consumer telemarketing lists by contacting us at one of the numbers listed here, or by sending an e-mail to privacypolicy@att.com. You also can ask the AT&T representative to remove you from our telemarketing lists when you receive a marketing or promotional call from us.
 ' + '*   **Do Not Call**: The FTC maintains a National Do Not Call Registry at donotcall.gov, and your state may maintain its own Do Not Call Registry. Putting your number on these Registries also may limit our telemarketing calls to that number.
 ' + '
 
 ' + '
 
-**Internet Preferences by AT&T Uverse GigaPower**
+**Internet Preferences by U-verse with AT&T GigaPower**
 
 ' + '
 
-AT&T U-verse with GigaPower customers can adjust their AT&T Internet Preferences selection at any time by calling AT&T Care at 1 (866) 324-4737. To learn more about U-verse with GigaPower with AT&T Internet Preferences, visit att.com/internetpreferences.
+U-verse with AT&T GigaPower customers can adjust their AT&T Internet Preferences selection at any time by calling AT&T Care at 866.324.4737. To learn more about U-verse with AT&T GigaPower Internet Preferences, visit att.com/internetpreferences.
 
 ' + '
 
@@ -1176,14 +1233,15 @@ We may use services provided by analytics companies to obtain information about 
 
 ' + '
 
-*   AT&T uses applications provided by **Flurry and Crittercism** to obtain information about how our U-verse App for tablet and smartphone is used on customer wireless devices. **Flurry and Crittercism** are enabled by software embedded in the U-verse App that transmits information to their respective servers for analysis and reportin.' + '
+*   AT&T uses applications provided by **Flurry and Crittercism** to obtain information about how our U-verse App for tablet and smartphone is used on customer wireless devices. **Flurry and Crittercism** are enabled by software embedded in the U-verse App that transmits information to their respective servers for analysis and reporting.' + '
     ' + '*   For more information about Flurry and its privacy policy, please go to http://www.flurry.com/about-us/legal/privacy.html. If you do not want Flurry Analytics to collect information related to the use of the U-verse App from your device, you may opt out of Flurry data collection by going to http://www.flurry.com/user-opt-out.html, and following the instructions at the site. If you opt-out, Flurry will cease collection of information related to your use of the U-verse App, as well as any other application on your device that contains the Flurry software agent.
-    ' + '*   For more information about Crittercism and its privacy policy, please go to http://www.crittercism.com. If you do not want Crittercism to collect information related to the use of the U-verse App from your device, you may opt out of Crittercism data collection by going to "Settings" in the U-verse App, selecting "Diagnostics" and turning the toggle switch for "Enable Diagnostics" to "OFF". If you opt-out, the U-verse App will no longer send information to Crittercism.
+    ' + '*   For more information about Crittercism and its privacy policy, please go to http://www.crittercism.com/privacy-policy If you do not want Crittercism to collect information related to the use of the U-verse App from your device, you may opt out of Crittercism data collection by going to "Settings" in the U-verse App, selecting "Diagnostics" and turning the toggle switch for "Enable Diagnostics" to "OFF". If you opt-out, the U-verse App will no longer send information to Crittercism.
     ' + '
 ' + '*   Criteo is a technology that anonymously measures advertising effectiveness. AT&T uses Criteo to measure the effectiveness of advertising shown on AT&T mobile applications. Learn more about Criteo, its privacy policy, and opt-out of its collection of information at http://www.criteo.com/privacy/. If you opt-out, AT&T mobile applications will no longer send anonymous information to Criteo.
+' + '*   AT&T uses Adobe Analytics on some of its websites. Website visitors that don't want their visit data reported by the Adobe Analytics JavaScript can install the Adobe Analytics opt-out browser add-on. This add-on instructs the Adobe Analytics JavaScript to prohibit sending visit information to Adobe Analytics. The browser add-on is available for most modern browsers. The Adobe Analytics opt-out browser add-on does not prevent information from being sent to the website itself or in other ways to web analytics services.
 ' + '*   AT&T uses Google Analytics on some of its websites. Website visitors that don't want their visit data reported by the Google Analytics JavaScript can install the Google Analytics opt-out browser add-on. This add-on instructs the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) to prohibit sending visit information to Google Analytics. The browser add-on is available for most modern browsers. The Google Analytics opt-out browser add-on does not prevent information from being sent to the website itself or in other ways to web analytics services. Learn more about the Google Analytics opt-out browser add-on.
-' + '*   AT&T uses Tapad to establish connections between a user’s devices and to provide behavioral targeting across devices. Tapad uses industry standard identifiers for each specific device (cookies, IDFA, etc.) Cross-device connections allow AT&T to understand that a single user is accessing AT&T services from multiple devices, and to synchronize content and advertising messages across those devices. To opt out of Tapad Please visit AT&T’s AdChoices on your PC or mobile device or http://www.tapad.com/privacy/ to opt out of Tapad’s Device GraphTM and learn more about how Tapad collects and uses data. If you opt-out of Tapad's Device GraphTM with a specific device, that device will no longer be associated with other devices for AT&T or any other Tapad client.
-' + '*   AT&T uses Drawbridge to establish connections between a user’s devices and to provide behavioral targeting across devices. Drawbridge uses industry standard identifiers for each specific device (cookies, IDFA, etc.) Cross-device connections allow AT&T to understand that a single user is accessing AT&T services from multiple devices, and to synchronize content and advertising messages across those devices. To opt out of Drawbridge Please visit AT&T’s AdChoices on your PC or mobile device or http://www.drawbrid.ge/optout to opt out of Drawbridge and learn more about how Drawbridge collects and uses data. You can also opt out through the AdChoices icon within the ad itself. If you opt-out of Drawbridge with a specific device, that device will no longer be associated with other devices for AT&T or any other Drawbridge client.
+' + '*   AT&T uses Tapad to establish connections between a user’s devices and to provide behavioral targeting across devices. Tapad uses industry standard identifiers for each specific device (cookies, Identifier for Advertisers (IDFA), etc.) Cross-device connections allow AT&T to understand that a single user is accessing AT&T services from multiple devices, and to synchronize content and advertising messages across those devices. To opt out of Tapad Please visit AT&T’s AdChoices on your PC or mobile device or http://www.tapad.com/privacy/ to opt out of Tapad’s Device GraphTM and learn more about how Tapad collects and uses data. If you opt-out of Tapad's Device GraphTM with a specific device, that device will no longer be associated with other devices for AT&T or any other Tapad client.
+' + '*   AT&T uses Drawbridge to establish connections between a user’s devices and to provide behavioral targeting across devices. Drawbridge uses industry standard identifiers for each specific device (cookies, IDFA, etc.) Cross-device connections allow AT&T to understand that a single user is accessing AT&T services from multiple devices, and to synchronize content and advertising messages across those devices. To opt out of Drawbridge Please visit AT&T’s AdChoices on your PC or mobile device or http://www.drawbrid.ge/optoutstart to opt out of Drawbridge and learn more about how Drawbridge collects and uses data. You can also opt out through the AdChoices icon within the ad itself. If you opt-out of Drawbridge with a specific device, that device will no longer be associated with other devices for AT&T or any other Drawbridge client.
 ' + '
 
 ' ). } function renderEchoStar() { document.write('OUR COMMITMENT. RESPECTING AND PROTECTING OUR CUSTOMERS' PRIVACY ' + '
@@ -1227,7 +1285,8 @@ If we decide to Change this Privacy Policy, we will post those changes to this p
 
 ' ). } function renderPrivacyRightCol() { if (pid == '2506') { document.write('' + 'En Español' + 'En Français' + '' + '' + '
 
-**Welcome.** The AT&T Privacy Policy lays out our commitments to privacy and describes our policies for helping to protect personal information. We invite you to learn more about our commitments, safeguards and customer choices by reviewing our AT&T Policy, and we welcome your feedback.
+Welcome DIRECTV Customers  
+DIRECTV is now part of the AT&T family. For convenience, all AT&T products and services are covered under a single, easy-to-read Privacy Policy. The policy lays out our commitments to privacy and describes our policies for helping to protect personal information. We invite you to learn more about our commitments, safeguards and customer choices by reviewing our AT&T Policy, and we welcome your feedback.
 
 ' // + '
 
@@ -1280,14 +1339,21 @@ Thanks for your feedback on our updated Privacy Policy. We heard you and, as a r
 
 ' + '' + '' //+ '
 
-Updated 7/16/13
+Updated 5/21/15
 
-' //+'
+' +'
 
-**Q.** How are you notifying customers about your new privacy policy?  
-' //+'
+**Q.** How is AT&T’s Privacy Policy different than DIRECTV’s?  
+' +'
 
-**A.** We are including information about our updated policy in a bill page message that every customer will see and also sending an email or postal mail letter to all customers whose information is impacted by this new policy.
+**A.** The AT&T Privacy Policy gives you an additional choice about how we use of your anonymous and aggregate information, for something we call “External Marketing &. Analytics Reports.” It also uses the term “Relevant Advertising” when describing advertising sent to audiences with common interests and characteristics.
+
+' +'
+
+**Q.** If I had previously chosen not to receive DIRECTV’s satellite TV advertising that is selected for me based on information about me, will AT&T honor my choice going forward?  
+' +'
+
+**A.** Yes. AT&T calls that Relevant Advertising, and we will continue to honor your previous choice going forward.
 
 ' +'
 
