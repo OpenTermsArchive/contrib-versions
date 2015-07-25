@@ -40,7 +40,7 @@ My Cart (Edit) My Location_:_ n/a
 *   Home Phone
 *   Electronics
 *   Support
-*   Go To
+*   Go To:
 *   Small Business
 *   Enterprise
 
