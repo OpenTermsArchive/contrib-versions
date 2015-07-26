@@ -8,63 +8,75 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Not able to see my blog
+    *   by IvY\_Zombie
+    *   43 minutes ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   pls recover my blog..... help!!
+    *   by saliormomo
+    *   10 hours ago
+    *   in Comments
+    *   0 votes
+    *   1 (last comment by klenner 7 hours ago)
 *   My Archive
     *   by fly33foratallguy
-    *   12 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   recovering blog
     *   by effy123
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I cannot view my xanga blog,anyone help me?
     *   by kiko\_2026
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by effy123 2 days ago)
+    *   1 (last comment by effy123 3 days ago)
 *   How can I upgrade/ restore my xanga blog?
     *   by hiusang0902
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   please help..
     *   by TING901
-    *   5 days ago
+    *   6 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   cannot view my xanga
     *   by timyi1022
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can't see my blogs
     *   by omg147896325
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How can I upgrade/ restore my xanga blog?
     *   by ShirleyLo2006
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How can I upgrade/ restore my xanga blog?
     *   by ShirleyLo2006
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How can I upgrade/ restore my xanga blog?
     *   by ShirleyLo2006
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -84,18 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by hick\_chick\_90
     *   1 week ago
     *   in Getting Started
-    *   0 votes
-    *   0
-*   help!!! how can I see my previous blog?
-    *   by sosolovelok
-    *   2 weeks ago
-    *   in Themes
-    *   0 votes
-    *   1 (last comment by cocodee442002 1 week ago)
-*   My blog does not appear and an error pops up
-    *   by charlotte\_311
-    *   1 week ago
-    *   in Data Migration
     *   0 votes
     *   0
 
