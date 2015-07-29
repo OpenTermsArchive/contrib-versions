@@ -51,7 +51,7 @@ Find An Agent
     *   ATV
     *   Landlord
     *   Retirement &. Investments
-    *   Supplemental Health
+    *   Supplemental &. Health
 *   Claims
     *   Overview
     *   File A Claim
@@ -97,7 +97,7 @@ Toggle mobileNavigation Log in
         *   ATV
         *   Landlord
         *   Retirement &. Investments
-        *   Supplemental Health
+        *   Supplemental &. Health
 *   Claims expand
     *   Overview
     *   File A Claim
