@@ -10,25 +10,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Not able to see my blog
     *   by IvY\_Zombie
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   pls recover my blog..... help!!
     *   by saliormomo
-    *   3 days ago
+    *   4 days ago
     *   in Comments
     *   0 votes
-    *   1 (last comment by klenner 3 days ago)
+    *   1 (last comment by klenner 4 days ago)
 *   My Archive
     *   by fly33foratallguy
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   recovering blog
     *   by effy123
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -37,10 +37,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by effy123 6 days ago)
+    *   1 (last comment by effy123 1 week ago)
 *   How can I upgrade/ restore my xanga blog?
     *   by hiusang0902
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
