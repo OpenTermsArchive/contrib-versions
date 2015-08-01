@@ -1,10 +1,8 @@
-Yahoo Terms of Service
+**1\. ACCEPTANCE OF TERMS**
 
-1\. ACCEPTANCE OF TERMS
+Yahoo! Inc. ("Yahoo") welcomes you. Yahoo provides the Yahoo Services (defined below) to you subject to the following Terms of Service ("TOS"), which may be updated by us from time to time without notice to you. You can review the most current version of the TOS at any time at: https://policies.yahoo.com/us/en/yahoo/terms/utos/index.html. By accessing and using the Yahoo Services, you accept and agree to be bound by the terms and provision of the TOS. In addition, when using particular Yahoo owned or operated services, you and Yahoo shall be subject to any posted guidelines or rules applicable to such services, which may be posted and modified from time to time. All such guidelines or rules (including but not limited to our Spam Policy) are hereby incorporated by reference into the TOS. Yahoo may also offer other services that are governed by different Terms of Service. In such cases the other terms of service will be posted on the relevant service to which they apply.
 
-Yahoo! Inc. ("Yahoo") welcomes you. Yahoo provides the Yahoo Services (defined below) to you subject to the following Terms of Service ("TOS"), which may be updated by us from time to time without notice to you. You can review the most current version of the TOS at any time at: http://info.yahoo.com/legal/us/yahoo/utos/terms/. By accessing and using the Yahoo Services, you accept and agree to be bound by the terms and provision of the TOS. In addition, when using particular Yahoo owned or operated services, you and Yahoo shall be subject to any posted guidelines or rules applicable to such services, which may be posted and modified from time to time. All such guidelines or rules (including but not limited to our Spam Policy) are hereby incorporated by reference into the TOS. Yahoo may also offer other services that are governed by different Terms of Service. In such cases the other terms of service will be posted on the relevant service to which they apply.
-
-2\. DESCRIPTION OF YAHOO! SERVICES
+**2\. DESCRIPTION OF YAHOO SERVICES**
 
 Yahoo provides users with access to a rich collection of resources, including without limitation various communications tools, forums, shopping services, search services, personalized content and branded programming through its network of properties which may be accessed through any various medium or device now known or hereafter developed (the "Yahoo Services"). You also understand and agree that the Yahoo Services may include advertisements and that these advertisements are necessary for Yahoo to provide the Yahoo Services. You also understand and agree that the Yahoo Services may include certain communications from Yahoo, such as service announcements, administrative messages and the Yahoo Newsletter, and that these communications are considered part of Yahoo membership and you will not be able to opt out of receiving them. Unless explicitly stated otherwise, any new features that augment or enhance the current Yahoo Services, including the release of new Yahoo properties, shall be subject to the TOS. You understand and agree that the Yahoo Services is provided "AS-IS" and that Yahoo assumes no responsibility for the timeliness, deletion, mis-delivery or failure to store any user communications or personalization settings. You are responsible for obtaining access to the Yahoo Services, and that access may involve third-party fees (such as Internet service provider or airtime charges). You are responsible for those fees, including those fees associated with the display or delivery of advertisements. In addition, you must provide and are responsible for all equipment necessary to access the Yahoo Services.
 
@@ -12,19 +10,19 @@ You understand that the technical processing and transmission of the Yahoo Servi
 
 Please be aware that Yahoo has created certain areas on the Yahoo Services that contain adult or mature content. You must be at least 18 years of age to access and view such areas.
 
-3\. YOUR REGISTRATION OBLIGATIONS
+**3\. YOUR REGISTRATION OBLIGATIONS**
 
 In consideration of your use of the Yahoo Services, you represent that you are of legal age to form a binding contract and are not a person barred from receiving the Yahoo Services under the laws of the United States or other applicable jurisdiction. You also agree to: (a) provide true, accurate, current and complete information about yourself as prompted by the Yahoo Service's registration form (the "Registration Data") and (b) maintain and promptly update the Registration Data to keep it true, accurate, current and complete. If you provide any information that is untrue, inaccurate, not current or incomplete, or Yahoo has reasonable grounds to suspect that such information is untrue, inaccurate, not current or incomplete, Yahoo has the right to suspend or terminate your account and refuse any and all current or future use of the Yahoo Services (or any portion thereof). You must be aged 13 or over to use the Services. If you have a pre-existing Family Account covering children aged under 13 then you have an ongoing responsibility to determine whether any of the Yahoo Services areas and/or Content (as defined in Section 6 below) are appropriate for your child.
 
-4\. YAHOO! PRIVACY POLICY
+**4\. YAHOO PRIVACY POLICY**
 
-Registration Data and certain other information about you are subject to our applicable privacy policy. For more information, see the full Yahoo Privacy Policy at http://info.yahoo.com/privacy/us/yahoo/. You understand that through your use of the Yahoo Services you consent to the collection and use (as set forth in the applicable privacy policy) of this information, including the transfer of this information to the United States and/or other countries for storage, processing and use by Yahoo and its affiliates.
+Registration Data and certain other information about you are subject to our applicable privacy policy. For more information, see the full Yahoo Privacy Policy at https://policies.yahoo.com/us/en/yahoo/privacy/index.html. You understand that through your use of the Yahoo Services you consent to the collection and use (as set forth in the applicable privacy policy) of this information, including the transfer of this information to the United States and/or other countries for storage, processing and use by Yahoo and its affiliates.
 
-5\. MEMBER ACCOUNT, PASSWORD AND SECURITY
+**5\. MEMBER ACCOUNT, PASSWORD AND SECURITY**
 
 You will receive a password and account designation upon completing the Yahoo Service's registration process. You are responsible for maintaining the confidentiality of the password and account and are fully responsible for all activities that occur under your password or account. You agree to (a) immediately notify Yahoo of any unauthorized use of your password or account or any other breach of security, and (b) ensure that you exit from your account at the end of each session. Yahoo cannot and will not be liable for any loss or damage arising from your failure to comply with this Section 5.
 
-6\. MEMBER CONDUCT
+**6\. MEMBER CONDUCT**
 
 You understand that all information, data, text, software, music, sound, photographs, graphics, video, messages, tags, or other materials ("Content"), whether publicly posted or privately transmitted, are the sole responsibility of the person from whom such Content originated. This means that you, and not Yahoo, are entirely responsible for all Content that you upload, post, email, transmit or otherwise make available via the Yahoo Services. Yahoo does not control the Content posted via the Yahoo Services and, as such, does not guarantee the accuracy, integrity or quality of such Content. You understand that by using the Yahoo Services, you may be exposed to Content that is offensive, indecent or objectionable. Under no circumstances will Yahoo be liable in any way for any Content, including, but not limited to, any errors or omissions in any Content, or any loss or damage of any kind incurred as a result of the use of any Content posted, emailed, transmitted or otherwise made available via the Yahoo Services.
 
@@ -64,15 +62,15 @@ You acknowledge, consent and agree that Yahoo may access, preserve and disclose 
 
 You understand that the Yahoo Services and software embodied within the Yahoo Services may include security components that permit digital materials to be protected, and that use of these materials is subject to usage rules set by Yahoo and/or content providers who provide content to the Yahoo Services. You may not attempt to override or circumvent any of the usage rules embedded into the Yahoo Services. Any unauthorized reproduction, publication, further distribution or public exhibition of the materials provided on the Yahoo Services, in whole or in part, is strictly prohibited.
 
-7\. INTERSTATE NATURE OF COMMUNICATIONS ON YAHOO! NETWORK
+**7\. INTERSTATE NATURE OF COMMUNICATIONS ON YAHOO NETWORK**
 
 When you register with Yahoo, you acknowledge that in using the Yahoo Services to send electronic communications (including but not limited to email, search queries, sending messages to Yahoo Chat or Yahoo Groups, uploading photos and files to Flickr, and other Internet activities), you will be causing communications to be sent through Yahoo's computer networks, portions of which are located in California, Texas, Virginia, and other locations in the United States and portions of which are located abroad. As a result, and also as a result of Yahoo's network architecture and business practices and the nature of electronic communications, even communications that seem to be intrastate in nature can result in the transmission of interstate communications regardless of where you are physically located at the time of transmission. Accordingly, by agreeing to this TOS, you acknowledge that use of the service results in interstate data transmissions.
 
-8\. SPECIAL ADMONITIONS FOR INTERNATIONAL USE AND EXPORT AND IMPORT COMPLIANCE
+**8\. SPECIAL ADMONITIONS FOR INTERNATIONAL USE AND EXPORT AND IMPORT COMPLIANCE**
 
 Recognizing the global nature of the Internet, you agree to comply with all local rules regarding online conduct and acceptable Content. Use of the Yahoo Services and transfer, posting and uploading of software, technology, and other technical data via the Yahoo Services may be subject to the export and import laws of the United States and other countries. You agree to comply with all applicable export and import laws and regulations, including without limitation the Export Administration Regulations (see http://www.access.gpo.gov/bis/ear/ear\_data.html) and sanctions control programs of the United States (see http://www.treasury.gov/resource-center/sanctions/Programs/Pages/Programs.aspx). In particular, you represent and warrant that you: (a) are not a prohibited party identified on any government export exclusion lists (see http://www.bis.doc.gov/complianceandenforcement/liststocheck.htm) or a member of a government of any other export-prohibited countries as identified in applicable export and import laws and regulations. (b) will not transfer software, technology, and other technical data via the Yahoo Services to export-prohibited parties or countries. (c) will not use the Yahoo Services for military, nuclear, missile, chemical or biological weaponry end uses in violation of U.S. export laws. and (d) will not transfer, upload, or post via the Yahoo Services any software, technology or other technical data in violation of U.S. or other applicable export or import laws.
 
-9\. CONTENT SUBMITTED OR MADE AVAILABLE FOR INCLUSION ON THE YAHOO! SERVICES
+**9\. CONTENT SUBMITTED OR MADE AVAILABLE FOR INCLUSION ON THE YAHOO SERVICES**
 
 Yahoo does not claim ownership of Content you submit or make available for inclusion on the Yahoo Services. However, with respect to Content you submit or make available for inclusion on publicly accessible areas of the Yahoo Services, you grant Yahoo the following worldwide, royalty-free and non-exclusive license(s), as applicable:
 
@@ -84,29 +82,29 @@ c. With respect to Content other than photos, graphics, audio or video you submi
 
 "Publicly accessible" areas of the Yahoo Services are those areas of the Yahoo network of properties that are intended by Yahoo to be available to the general public. By way of example, publicly accessible areas of the Yahoo Services would include Yahoo Message Boards and portions of Yahoo Groups and Flickr that are open to both members and visitors. However, publicly accessible areas of the Yahoo Services would not include portions of Yahoo Groups that are limited to members, Yahoo services intended for private communication such as Yahoo Mail or Yahoo Messenger, or areas off of the Yahoo network of properties such as portions of World Wide Web sites that are accessible via hypertext or other links but are not hosted or served by Yahoo.
 
-10\. CONTRIBUTIONS TO YAHOO!
+**10\. CONTRIBUTIONS TO YAHOO**
 
 By submitting ideas, suggestions, documents, and/or proposals ("Contributions") to Yahoo through its suggestion or feedback webpages, you acknowledge and agree that: (a) your Contributions do not contain confidential or proprietary information. (b) Yahoo is not under any obligation of confidentiality, express or implied, with respect to the Contributions. (c) Yahoo shall be entitled to use or disclose (or choose not to use or disclose) such Contributions for any purpose, in any way, in any media worldwide. (d) Yahoo may have something similar to the Contributions already under consideration or in development. (e) your Contributions automatically become the property of Yahoo without any obligation of Yahoo to you. and (f) you are not entitled to any compensation or reimbursement of any kind from Yahoo under any circumstances.
 
-11\. INDEMNITY
+**11\. INDEMNITY**
 
 You agree to indemnify and hold Yahoo and its subsidiaries, affiliates, officers, agents, employees, partners and licensors harmless from any claim or demand, including reasonable attorneys' fees, made by any third party due to or arising out of Content you submit, post, transmit, modify or otherwise make available through the Yahoo Services, your use of the Yahoo Services, your connection to the Yahoo Services, your violation of the TOS, or your violation of any rights of another.
 
-12\. NO COMMERCIAL REUSE OF YAHOO! SERVICES
+**12\. NO COMMERCIAL REUSE OF YAHOO SERVICES**
 
 You agree not to reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purposes, any portion or use of, or access to, the Yahoo Services (including Content, advertisements, Software and your Yahoo ID).
 
-13\. GENERAL PRACTICES REGARDING USE AND STORAGE
+**13\. GENERAL PRACTICES REGARDING USE AND STORAGE**
 
 You acknowledge that Yahoo may establish general practices and limits concerning use of the Yahoo Services, including without limitation the maximum number of days that email messages, message board postings or other uploaded Content will be retained by the Yahoo Services, the maximum number of email messages that may be sent from or received by an account on the Yahoo Services, the maximum size of any email message that may be sent from or received by an account on the Yahoo Services, the maximum disk space that will be allotted on Yahoo's servers on your behalf, and the maximum number of times (and the maximum duration for which) you may access the Yahoo Services in a given period of time. You agree that Yahoo has no responsibility or liability for the deletion or failure to store any messages and other communications or other Content maintained or transmitted by the Yahoo Services. You acknowledge that Yahoo reserves the right to log off accounts that are inactive for an extended period of time. You further acknowledge that Yahoo reserves the right to modify these general practices and limits from time to time.
 
 Yahoo Messenger, including any web-based versions, will allow you and the people with whom you communicate to save your conversations in your Yahoo accounts located on Yahoo servers. This means you can access and search your message history from any computer with access to the internet. Whether or not you use this feature, other users may choose to use it to save conversations with you in their account on Yahoo too. Your agreement to this TOS constitutes your consent to allow Yahoo to store these communications on its servers.
 
-14\. MODIFICATIONS TO YAHOO! SERVICES
+**14\. MODIFICATIONS TO YAHOO SERVICES**
 
 Yahoo reserves the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Yahoo Services (or any part thereof) with or without notice. You agree that Yahoo shall not be liable to you or to any third party for any modification, suspension or discontinuance of the Yahoo Services (or any part thereof).
 
-15\. TERMINATION
+**15\. TERMINATION**
 
 You may terminate your Yahoo account, any associated email address and access to the Yahoo Services by submitting such termination request to Yahoo.
 
@@ -114,59 +112,59 @@ You agree that Yahoo may, without prior notice, immediately terminate, limit you
 
 Termination of your Yahoo account includes any or all of the following: (a) removal of access to all or part of the offerings within the Yahoo Services, (b) deletion of your password and all related information, files and content associated with or inside your account (or any part thereof), and (c) barring of further use of all or part of the Yahoo Services.
 
-16\. DEALINGS WITH ADVERTISERS
+**16\. DEALINGS WITH ADVERTISERS**
 
 Your correspondence or business dealings with, or participation in promotions of, advertisers found on or through the Yahoo Services, including payment and delivery of related goods or services, and any other terms, conditions, warranties or representations associated with such dealings, are solely between you and such advertiser. You agree that Yahoo shall not be responsible or liable for any loss or damage of any sort incurred as the result of any such dealings or as the result of the presence of such advertisers on the Yahoo Services.
 
-17\. LINKS
+**17\. LINKS**
 
 The Yahoo Services may provide, or third parties may provide, links to other World Wide Web sites or resources. You acknowledge and agree that Yahoo is not responsible for the availability of such external sites or resources, and does not endorse and is not responsible or liable for any Content, advertising, products or other materials on or available from such sites or resources. You further acknowledge and agree that Yahoo shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such Content, goods or services available on or through any such site or resource.
 
-18\. YAHOO!'S PROPRIETARY RIGHTS
+**18\. YAHOO'S PROPRIETARY RIGHTS**
 
 You acknowledge and agree that the Yahoo Services and any necessary software used in connection with the Yahoo Services ("Software") contain proprietary and confidential information that is protected by applicable intellectual property and other laws. You further acknowledge and agree that Content contained in advertisements or information presented to you through the Yahoo Services or by advertisers is protected by copyrights, trademarks, service marks, patents or other proprietary rights and laws. Except as expressly permitted by applicable law or as authorized by Yahoo or the applicable licensor (such as an advertiser), you agree not to modify, rent, lease, loan, sell, distribute, transmit, broadcast, publicly perform or create derivative works based on the Yahoo Services, such Content or the Software, in whole or in part.
 
 Yahoo grants you a personal, non-transferable and non-exclusive right and license to use the object code of its Software on a single computer. provided that you do not (and do not allow any third party to) copy, modify, create a derivative work from, reverse engineer, reverse assemble or otherwise attempt to discover any source code, sell, assign, sublicense, grant a security interest in or otherwise transfer any right in the Software. You agree not to modify the Software in any manner or form, nor to use modified versions of the Software, including (without limitation) for the purpose of obtaining unauthorized access to the Yahoo Services. You agree not to access the Yahoo Services by any means other than through the interface that is provided by Yahoo for use in accessing the Yahoo Services.
 
-19\. DISCLAIMER OF WARRANTIES
+**19\. DISCLAIMER OF WARRANTIES**
 
 YOU EXPRESSLY UNDERSTAND AND AGREE THAT:
 
-a. YOUR USE OF THE YAHOO! SERVICES AND SOFTWARE ARE AT YOUR SOLE RISK. THE YAHOO! SERVICES AND SOFTWARE ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS. YAHOO AND ITS SUBSIDIARIES, AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, PARTNERS AND LICENSORS EXPRESSLY DISCLAIM ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+a. YOUR USE OF THE YAHOO SERVICES AND SOFTWARE ARE AT YOUR SOLE RISK. THE YAHOO SERVICES AND SOFTWARE ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS. YAHOO AND ITS SUBSIDIARIES, AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, PARTNERS AND LICENSORS EXPRESSLY DISCLAIM ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
 
-b. YAHOO! AND ITS SUBSIDIARIES, AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, PARTNERS AND LICENSORS MAKE NO WARRANTY THAT (i) THE YAHOO! SERVICES OR SOFTWARE WILL MEET YOUR REQUIREMENTS. (ii) THE YAHOO! SERVICES OR SOFTWARE WILL BE UNINTERRUPTED, TIMELY, SECURE OR ERROR-FREE. (iii) THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE YAHOO! SERVICES OR SOFTWARE WILL BE ACCURATE OR RELIABLE. (iv) THE QUALITY OF ANY PRODUCTS, SERVICES, INFORMATION OR OTHER MATERIAL PURCHASED OR OBTAINED BY YOU THROUGH THE YAHOO! SERVICES OR SOFTWARE WILL MEET YOUR EXPECTATIONS. AND (v) ANY ERRORS IN THE SOFTWARE WILL BE CORRECTED.
+b. YAHOO AND ITS SUBSIDIARIES, AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, PARTNERS AND LICENSORS MAKE NO WARRANTY THAT (i) THE YAHOO SERVICES OR SOFTWARE WILL MEET YOUR REQUIREMENTS. (ii) THE YAHOO SERVICES OR SOFTWARE WILL BE UNINTERRUPTED, TIMELY, SECURE OR ERROR-FREE. (iii) THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE YAHOO SERVICES OR SOFTWARE WILL BE ACCURATE OR RELIABLE. (iv) THE QUALITY OF ANY PRODUCTS, SERVICES, INFORMATION OR OTHER MATERIAL PURCHASED OR OBTAINED BY YOU THROUGH THE YAHOO SERVICES OR SOFTWARE WILL MEET YOUR EXPECTATIONS. AND (v) ANY ERRORS IN THE SOFTWARE WILL BE CORRECTED.
 
-c. ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE YAHOO! SERVICES OR SOFTWARE IS ACCESSED AT YOUR OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR AND HEREBY WAIVE ANY AND ALL CLAIMS AND CAUSES OF ACTION WITH RESPECT TO ANY DAMAGE TO YOUR COMPUTER SYSTEM, INTERNET ACCESS, DOWNLOAD OR DISPLAY DEVICE, OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF ANY SUCH MATERIAL.
+c. ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE YAHOO SERVICES OR SOFTWARE IS ACCESSED AT YOUR OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR AND HEREBY WAIVE ANY AND ALL CLAIMS AND CAUSES OF ACTION WITH RESPECT TO ANY DAMAGE TO YOUR COMPUTER SYSTEM, INTERNET ACCESS, DOWNLOAD OR DISPLAY DEVICE, OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF ANY SUCH MATERIAL.
 
-d. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM YAHOO! OR THROUGH OR FROM THE YAHOO! SERVICES OR SOFTWARE SHALL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN THE TOS.
+d. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM YAHOO OR THROUGH OR FROM THE YAHOO SERVICES OR SOFTWARE SHALL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN THE TOS.
 
-e. A SMALL PERCENTAGE OF USERS MAY EXPERIENCE EPILEPTIC SEIZURES WHEN EXPOSED TO CERTAIN LIGHT PATTERNS OR BACKGROUNDS ON A COMPUTER SCREEN OR WHILE USING THE YAHOO! SERVICE. CERTAIN CONDITIONS MAY INDUCE PREVIOUSLY UNDETECTED EPILEPTIC SYMPTOMS EVEN IN USERS WHO HAVE NO HISTORY OF PRIOR SEIZURES OR EPILEPSY. IF YOU, OR ANYONE IN YOUR FAMILY, HAVE AN EPILEPTIC CONDITION, CONSULT YOUR PHYSICIAN PRIOR TO USING THE YAHOO! SERVICE. IMMEDIATELY DISCONTINUE USE OF THE YAHOO! SERVICES AND CONSULT YOUR PHYSICIAN IF YOU EXPERIENCE ANY OF THE FOLLOWING SYMPTOMS WHILE USING THE YAHOO! SERVICE: DIZZINESS, ALTERED VISION, EYE OR MUSCLE TWITCHES, LOSS OF AWARENESS, DISORIENTATION, ANY INVOLUNTARY MOVEMENT, OR CONVULSIONS.
+e. A SMALL PERCENTAGE OF USERS MAY EXPERIENCE EPILEPTIC SEIZURES WHEN EXPOSED TO CERTAIN LIGHT PATTERNS OR BACKGROUNDS ON A COMPUTER SCREEN OR WHILE USING THE YAHOO SERVICE. CERTAIN CONDITIONS MAY INDUCE PREVIOUSLY UNDETECTED EPILEPTIC SYMPTOMS EVEN IN USERS WHO HAVE NO HISTORY OF PRIOR SEIZURES OR EPILEPSY. IF YOU, OR ANYONE IN YOUR FAMILY, HAVE AN EPILEPTIC CONDITION, CONSULT YOUR PHYSICIAN PRIOR TO USING THE YAHOO SERVICE. IMMEDIATELY DISCONTINUE USE OF THE YAHOO SERVICES AND CONSULT YOUR PHYSICIAN IF YOU EXPERIENCE ANY OF THE FOLLOWING SYMPTOMS WHILE USING THE YAHOO SERVICE: DIZZINESS, ALTERED VISION, EYE OR MUSCLE TWITCHES, LOSS OF AWARENESS, DISORIENTATION, ANY INVOLUNTARY MOVEMENT, OR CONVULSIONS.
 
-20\. LIMITATION OF LIABILITY
+**20\. LIMITATION OF LIABILITY**
 
-YOU EXPRESSLY UNDERSTAND AND AGREE THAT YAHOO! AND ITS SUBSIDIARIES, AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, PARTNERS AND LICENSORS SHALL NOT BE LIABLE TO YOU FOR ANY PUNITIVE, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES (EVEN IF YAHOO! HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), RESULTING FROM: (a) THE USE OR THE INABILITY TO USE THE YAHOO! SERVICE. (b) THE COST OF PROCUREMENT OF SUBSTITUTE GOODS AND SERVICES. (c) UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSIONS OR DATA. (d) STATEMENTS OR CONDUCT OF ANY THIRD PARTY ON THE YAHOO! SERVICE. OR (e) ANY OTHER MATTER RELATING TO THE YAHOO! SERVICE.
+YOU EXPRESSLY UNDERSTAND AND AGREE THAT YAHOO AND ITS SUBSIDIARIES, AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, PARTNERS AND LICENSORS SHALL NOT BE LIABLE TO YOU FOR ANY PUNITIVE, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES (EVEN IF YAHOO HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), RESULTING FROM: (a) THE USE OR THE INABILITY TO USE THE YAHOO SERVICE. (b) THE COST OF PROCUREMENT OF SUBSTITUTE GOODS AND SERVICES. (c) UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSIONS OR DATA. (d) STATEMENTS OR CONDUCT OF ANY THIRD PARTY ON THE YAHOO SERVICE. OR (e) ANY OTHER MATTER RELATING TO THE YAHOO SERVICE.
 
-21\. EXCLUSIONS AND LIMITATIONS
+**21\. EXCLUSIONS AND LIMITATIONS**
 
 SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES. ACCORDINGLY, SOME OF THE ABOVE LIMITATIONS OF SECTIONS 19 AND 20 MAY NOT APPLY TO YOU.
 
-22\. SPECIAL ADMONITION FOR YAHOO! SERVICES RELATING TO FINANCIAL MATTERS
+**22\. SPECIAL ADMONITION FOR YAHOO SERVICES RELATING TO FINANCIAL MATTERS**
 
 If you intend to create or join any service, receive or request any news, messages, alerts or other information from the Yahoo Services concerning companies, stock quotes, investments or securities, please read the above Sections 19 and 20 again. They go doubly for you. In addition, for this type of information particularly, the phrase "Let the investor beware" is apt. The Yahoo Services is provided for informational purposes only, and no Content included in the Yahoo Services is intended for trading or investing purposes. Yahoo and its licensors shall not be responsible or liable for the accuracy, usefulness or availability of any information transmitted or made available via the Yahoo Services, and shall not be responsible or liable for any trading or investment decisions based on such information.
 
-23\. NO THIRD-PARTY BENEFICIARIES
+**23\. NO THIRD-PARTY BENEFICIARIES**
 
 You agree that, except as otherwise expressly provided in this TOS, there shall be no third-party beneficiaries to this agreement.
 
-24\. NOTICE
+**24\. NOTICE**
 
 Yahoo may provide you with notices, including those regarding changes to the TOS, including by but not limited to email, regular mail, SMS, MMS, text message, postings on the Yahoo Services, or other reasonable means now known or hereafter developed. Such notices may not be received if you violate this TOS by accessing the Yahoo Services in an unauthorized manner. Your agreement to this TOS constitutes your agreement that you are deemed to have received any and all notices that would have been delivered had you accessed the Yahoo Services in an authorized manner.
 
-25\. TRADEMARK INFORMATION
+**25\. TRADEMARK INFORMATION**
 
 You agree that all of Yahoo’s trademarks, trade names, service marks and other Yahoo logos and brand features, and product and service names are trademarks and the property of Yahoo! Inc. (the "Yahoo Marks"). Without Yahoo's prior permission, you agree not to display or use in any manner the Yahoo Marks.
 
-26\. NOTICE AND PROCEDURE FOR MAKING CLAIMS OF COPYRIGHT OR INTELLECTUAL PROPERTY INFRINGEMENT
+**26\. NOTICE AND PROCEDURE FOR MAKING CLAIMS OF COPYRIGHT OR INTELLECTUAL PROPERTY INFRINGEMENT**
 
 Yahoo respects the intellectual property of others, and we ask our users to do the same. Yahoo may, in appropriate circumstances and at its discretion, disable and/or terminate the accounts of users who may be repeat infringers. If you believe that your work has been copied in a way that constitutes copyright infringement, or your intellectual property rights have been otherwise violated, please provide Yahoo's Copyright Agent the following information:
 
@@ -195,11 +193,11 @@ By fax: (408) 349-7821
 
 By email: copyright@yahoo-inc.com
 
-27\. CLOSED CAPTIONING
+**27\. CLOSED CAPTIONING**
 
-Yahoo complies with applicable Federal Communications Commission rules and regulations regarding the closed captioning of video content. Please visit info.yahoo.com/legal/us/yahoo/cc/en-us/ for more information or to register any concerns or complaints regarding video content accessible on the Yahoo network of properties.
+Yahoo complies with applicable Federal Communications Commission rules and regulations regarding the closed captioning of video content. Please visit https://info.yahoo.com/legal/us/en/yahoo/cc/index.htm for more information or to register any concerns or complaints regarding video content accessible on the Yahoo network of properties.
 
-28\. GENERAL INFORMATION
+**28\. GENERAL INFORMATION**
 
 Entire Agreement. The TOS constitutes the entire agreement between you and Yahoo and governs your use of the Yahoo Services, superseding any prior version of this TOS between you and Yahoo with respect to the Yahoo Services. You also may be subject to additional terms and conditions that may apply when you use or purchase certain other Yahoo services, affiliate services, third-party content or third-party software.
 
@@ -213,7 +211,7 @@ Statute of Limitations. You agree that regardless of any statute or law to the c
 
 The section titles in the TOS are for convenience only and have no legal or contractual effect.
 
-29\. VIOLATIONS
+**29\. VIOLATIONS**
 
 Please report any violations of the TOS to our Customer Care group.
 
