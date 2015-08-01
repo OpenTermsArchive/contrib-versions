@@ -1,3 +1,5 @@
+Privacy Policy
+
 Thank you for visiting SpiderOak, Inc.'s (“SpiderOak”) Internet web site (“Site”) located at the URL spideroak.com. This privacy policy (“Privacy Policy”) details certain policies implemented throughout SpiderOak governing SpiderOak's use of Personally-Identifiable Data about users of our Site and users of our backup and data storage services (the “Services”).
 
 Privacy Policy Updates
@@ -43,10 +45,6 @@ SpiderOak complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor
 In compliance with the US-EU and US-Swiss Safe Harbor Principles, SpiderOak commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first email SpiderOak at privacy@spideroak.com
 
 SpiderOak has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by SpiderOak please visit the BBB EU SAFE HARBOR web site for more information and to file a complaint: www.bbb.org/us/safe-harbor-complaints
-
-**SpiderOak is an accredited member of the BBB**
-
-If you have questions or concerns regarding this statement, you should first contact us at: privacy@spideroak.com. If your inquiry is not timely and adequately addressed, you should then contact BBB Online at: www.bbb.org. BBB Online will then serve as a liaison with SpiderOak to resolve your concerns.
 
 Correction/Updating Personally Identifiable Information
 
