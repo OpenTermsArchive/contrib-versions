@@ -1,6 +1,8 @@
-**NOTE:** _Please read this carefully before using this website._
+Terms of Use
 
-Welcome to the SpiderOak website (" **_Site_** "). SpiderOak maintains this Site to provide general information to our visitors. All use of this Site is subject to the following terms and conditions (" **_Terms of Use_** "). By accessing and browsing this Site, you agree to be bound by these Terms of Use.
+NOTE: Please read this carefully before using this website.
+
+Welcome to the SpiderOak website ("Site"). SpiderOak maintains this Site to provide general information to our visitors. All use of this Site is subject to the following terms and conditions ("Terms of Use"). By accessing and browsing this Site, you agree to be bound by these Terms of Use.
 
 Features Subject to Separate Terms
 
@@ -16,7 +18,7 @@ All SpiderOak marks, graphics, logos, designs and trade names used and displayed
 
 SpiderOak Intellectual Property
 
-SpiderOak grants you a personal, non-exclusive, non-transferable, limited license, exercisable solely during the term of this Agreement, to use SpiderOak technology and software furnished to you by SpiderOak (collectively, " **_SpiderOak Intellectual Property_** ") solely for the purpose of accessing and using the Services. You shall have no right to use the SpiderOak Intellectual Property for any purpose other than accessing and using the Services. You shall not (a) copy, reproduce, modify, adapt, create any derivative works from, distribute, transmit or otherwise exploit the SpiderOak Intellectual Property or (b) directly or indirectly reverse engineer, decompile, disassemble or otherwise attempt to derive source code or other trade secrets from any of the SpiderOak Intellectual Property. Except for the rights expressly granted above, all rights, title and interest in and to the SpiderOak Intellectual Property shall remain solely with and are hereby reserved to SpiderOak.
+SpiderOak grants you a personal, non-exclusive, non-transferable, limited license, exercisable solely during the term of this Agreement, to use SpiderOak technology and software furnished to you by SpiderOak (collectively, "SpiderOak Intellectual Property") solely for the purpose of accessing and using the Services. You shall have no right to use the SpiderOak Intellectual Property for any purpose other than accessing and using the Services. You shall not (a) copy, reproduce, modify, adapt, create any derivative works from, distribute, transmit or otherwise exploit the SpiderOak Intellectual Property or (b) directly or indirectly reverse engineer, decompile, disassemble or otherwise attempt to derive source code or other trade secrets from any of the SpiderOak Intellectual Property. Except for the rights expressly granted above, all rights, title and interest in and to the SpiderOak Intellectual Property shall remain solely with and are hereby reserved to SpiderOak.
 
 Use of Site. Restrictions
 
@@ -40,9 +42,9 @@ While SpiderOak uses reasonable efforts to furnish accurate and up-to-date infor
 
 Disclaimer of Warranties and Limitations of Liability
 
-**THIS SITE IS PROVIDED BY SPIDEROAK ON AN "AS IS" AND "AS AVAILABLE" BASIS. USE OF THIS SITE IS AT YOUR SOLE RISK. TO THE FULL EXTENT PERMISSIBLE BY APPLICABLE LAW, SPIDEROAK AND ITS AFFILIATES AND SUPPLIERS DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, SYSTEM INTEGRATION, TITLE AND NONINFRINGEMENT. WITHOUT LIMITING THE FOREGOING, SPIDEROAK AND ITS AFFILIATES AND SUPPLIERS MAKE NO REPRESENTATIONS OR WARRANTIES OF ANY KIND AS TO THE OPERATION OR AVAILABILITY OF THIS SITE OR THE INFORMATION, CONTENT, MATERIALS, PRODUCTS OR SERVICES INCLUDED ON OR MADE AVAILABLE THROUGH THIS SITE. SPIDEROAK DOES NOT WARRANT THAT THIS SITE WILL BE UNINTERRUPTED OR SECURE, OR THAT THIS SITE IS FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.**
+THIS SITE IS PROVIDED BY SPIDEROAK ON AN "AS IS" AND "AS AVAILABLE" BASIS. USE OF THIS SITE IS AT YOUR SOLE RISK. TO THE FULL EXTENT PERMISSIBLE BY APPLICABLE LAW, SPIDEROAK AND ITS AFFILIATES AND SUPPLIERS DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, SYSTEM INTEGRATION, TITLE AND NONINFRINGEMENT. WITHOUT LIMITING THE FOREGOING, SPIDEROAK AND ITS AFFILIATES AND SUPPLIERS MAKE NO REPRESENTATIONS OR WARRANTIES OF ANY KIND AS TO THE OPERATION OR AVAILABILITY OF THIS SITE OR THE INFORMATION, CONTENT, MATERIALS, PRODUCTS OR SERVICES INCLUDED ON OR MADE AVAILABLE THROUGH THIS SITE. SPIDEROAK DOES NOT WARRANT THAT THIS SITE WILL BE UNINTERRUPTED OR SECURE, OR THAT THIS SITE IS FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.
 
-**SPIDEROAK AND ITS AFFILIATES AND SUPPLIERS WILL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND ARISING FROM OR IN CONNECTION WITH THE USE OF THIS SITE, INCLUDING, BUT NOT LIMITED TO, DIRECT, INDIRECT, INCIDENTAL, PUNITIVE AND CONSEQUENTIAL DAMAGES (INCLUDING, WITHOUT LIMITATION, LOSS OF PROFITS, GOODWILL, DATA OR USE), EVEN IF SUCH PARTIES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE FOREGOING LIMITATION SHALL APPLY REGARDLESS OF THE FORM OF ACTION AND WHETHER IN CONTRACT, BREACH OF WARRANTY, TORT, NEGLIGENCE, STRICT LIABILITY OR OTHERWISE. CERTAIN STATE LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF THESE LAWS APPLY TO YOU, YOU MIGHT HAVE ADDITIONAL RIGHTS. IF YOU ARE DISSATISFIED WITH THIS SITE OR ANY PORTION HEREOF, OR WITH ANY OF THESE TERMS OF USE, YOUR SOLE AND EXCLUSIVE REMEDY IS TO DISCONTINUE USING THIS SITE.**
+SPIDEROAK AND ITS AFFILIATES AND SUPPLIERS WILL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND ARISING FROM OR IN CONNECTION WITH THE USE OF THIS SITE, INCLUDING, BUT NOT LIMITED TO, DIRECT, INDIRECT, INCIDENTAL, PUNITIVE AND CONSEQUENTIAL DAMAGES (INCLUDING, WITHOUT LIMITATION, LOSS OF PROFITS, GOODWILL, DATA OR USE), EVEN IF SUCH PARTIES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE FOREGOING LIMITATION SHALL APPLY REGARDLESS OF THE FORM OF ACTION AND WHETHER IN CONTRACT, BREACH OF WARRANTY, TORT, NEGLIGENCE, STRICT LIABILITY OR OTHERWISE. CERTAIN STATE LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF THESE LAWS APPLY TO YOU, YOU MIGHT HAVE ADDITIONAL RIGHTS. IF YOU ARE DISSATISFIED WITH THIS SITE OR ANY PORTION HEREOF, OR WITH ANY OF THESE TERMS OF USE, YOUR SOLE AND EXCLUSIVE REMEDY IS TO DISCONTINUE USING THIS SITE.
 
 Links to Third Party Websites
 
@@ -62,7 +64,7 @@ Any controversy or claim arising out of or relating to these Terms of Use or bre
 
 Applicable Laws. Exclusive Jurisdiction
 
-SpiderOak maintains this Site in the USA. SpiderOak makes no representation that this Site or any content on or accessed through this Site is appropriate or available for use in other jurisdictions. You are responsible for compliance with all local laws and regulations, as applicable. Use of this Site and any dispute arising therefrom shall be governed by the laws of the State of Illinois, USA, without regard to principles of conflict of laws. **SUBJECT TO THE DISPUTE RESOLUTION PROCEDURES SET FORTH ABOVE, ANY LEGAL ACTION OR PROCEEDING ARISING OUT OF OR RELATING TO THESE TERMS OF USE OR YOUR ACCESS TO OR USE OF THIS SITE SHALL BE INSTITUTED ONLY IN A STATE OR FEDERAL COURT LOCATED IN CHICAGO, COOK COUNTY, ILLINOIS, AND YOU EXPRESSLY CONSENT TO THE EXCLUSIVE JURISDICTION OF SUCH COURTS.**
+SpiderOak maintains this Site in the USA. SpiderOak makes no representation that this Site or any content on or accessed through this Site is appropriate or available for use in other jurisdictions. You are responsible for compliance with all local laws and regulations, as applicable. Use of this Site and any dispute arising therefrom shall be governed by the laws of the State of Illinois, USA, without regard to principles of conflict of laws. SUBJECT TO THE DISPUTE RESOLUTION PROCEDURES SET FORTH ABOVE, ANY LEGAL ACTION OR PROCEEDING ARISING OUT OF OR RELATING TO THESE TERMS OF USE OR YOUR ACCESS TO OR USE OF THIS SITE SHALL BE INSTITUTED ONLY IN A STATE OR FEDERAL COURT LOCATED IN CHICAGO, COOK COUNTY, ILLINOIS, AND YOU EXPRESSLY CONSENT TO THE EXCLUSIVE JURISDICTION OF SUCH COURTS.
 
 Modifications
 
@@ -86,7 +88,7 @@ When you visit SpiderOak or send e-mails to us, you are communicating with us el
 
 Minors
 
-This Site is not intended for use by or availability to minors under the age of 14. **IF YOU ARE UNDER 14 YEARS OF AGE, YOU MAY NOT ACCESS OR USE THIS SITE. By USING THIS SITE, YOU REPRESENT TO SPIDEROAK THAT YOU ARE 14 YEARS OF AGE OR OLDER. IF YOU ARE UNDER THE AGE OF 18, YOU HEREBY REPRESENT THAT YOU ARE USING THIS SITE WITH THE CONSENT OF YOUR PARENT OR LEGAL GUARDIAN, AND YOUR PARENT OR LEGAL GUARDIAN HEREBY AGREES ON YOUR BEHALF TO BE LEGALLY BOUND BY THESE TERMS OF USE.**
+This Site is not intended for use by or availability to minors under the age of 14. IF YOU ARE UNDER 14 YEARS OF AGE, YOU MAY NOT ACCESS OR USE THIS SITE. By USING THIS SITE, YOU REPRESENT TO SPIDEROAK THAT YOU ARE 14 YEARS OF AGE OR OLDER. IF YOU ARE UNDER THE AGE OF 18, YOU HEREBY REPRESENT THAT YOU ARE USING THIS SITE WITH THE CONSENT OF YOUR PARENT OR LEGAL GUARDIAN, AND YOUR PARENT OR LEGAL GUARDIAN HEREBY AGREES ON YOUR BEHALF TO BE LEGALLY BOUND BY THESE TERMS OF USE.
 
 Contact Information
 
@@ -100,29 +102,21 @@ NOTE: THE FOLLOWING INFORMATION IS PROVIDED SOLELY FOR NOTIFYING SPIDEROAK THAT 
 
 Written notification must be submitted to the following Designated Agent:
 
-Service Provider(s)**: SpiderOak**
-
-Name of Agent Designated to Receive Notification of Claimed Infringement: **Laura Gowans**
-
-Full Address of Designated Agent to Which Notification Should be Sent:
-
-> SpiderOak, Inc.  
-> 555 Huehl Road  
-> Northbrook, IL 60062
-
-Telephone Number of Designated Agent: **(866) 432-9888**
-
-Facsimile Number of Designated Agent: **(847)564-1202**
-
-Email Address of Designated Agent: **copyright@spideroak.com**
+*   Service Provider(s): SpiderOak
+*   Name of Agent Designated to Receive Notification of Claimed Infringement: Laura Gowans
+*   Full Address of Designated Agent to Which Notification Should be Sent:
+    *   SpiderOak, Inc., 555 Huehl Road, Northbrook, IL 60062
+*   Telephone Number of Designated Agent: (866) 432-9888
+*   Facsimile Number of Designated Agent: (847)564-1202
+*   Email Address of Designated Agent: copyright@spideroak.com
 
 Under Title 17, United States Code, Section 512(c)(3)(A), the Notification of Claimed Infringement must include the following:
 
-1.  An electronic or physical signature of the owner or of the person authorized to act on behalf of the owner of the copyright interest.
-2.  Identification of the copyrighted work (or works) that you claim has been infringed.
-3.  A description of the material that you claim is infringing, and the location where the original or an authorized copy of the copyrighted work exists (for example, the URL of the page of the website where it is lawfully posted. the name, edition and pages of a book from which an excerpt was copied. etc.).
-4.  A clear description of where the infringing material is located on our website, including as applicable its URL, so that we can locate the material.
-5.  Your address, telephone number and e-mail address.
+1.  An electronic or physical signature of the owner or of the person authorized to act on behalf of the owner of the copyright interest;
+2.  Identification of the copyrighted work (or works) that you claim has been infringed;
+3.  A description of the material that you claim is infringing, and the location where the original or an authorized copy of the copyrighted work exists (for example, the URL of the page of the website where it is lawfully posted. the name, edition and pages of a book from which an excerpt was copied. etc.);
+4.  A clear description of where the infringing material is located on our website, including as applicable its URL, so that we can locate the material;
+5.  Your address, telephone number and e-mail address;
 6.  A statement that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent or the law. and
 7.  A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.
 
