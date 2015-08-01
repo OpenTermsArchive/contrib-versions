@@ -394,11 +394,5 @@ SUPPORT &. SERVICES
 XFINITY Â© 2015 Comcast
 
 *   Privacy Policy
-*   Customer Agreements &. Policies
-*   Ad Choices
-*   Terms of Service
-*   Advertise With Us
-*   Corporate
-*   Contact Us
 
 Comcast
