@@ -1,22 +1,24 @@
-WHAT THIS PRIVACY POLICY COVERS Yahoo takes your privacy seriously. Please read the following to learn more about our privacy policy.
+Yahoo Privacy Center
+
+Welcome to the Yahoo Privacy Center -- take a look around. You'll learn how Yahoo treats your personal information, along with ways to control your preferences and settings. As always, Yahoo is committed to gaining your trust.
+
+**WHAT THIS PRIVACY POLICY COVERS** **Yahoo takes your privacy seriously. Please read the following to learn more about our privacy policy.**
 
 The federal government and technology industry have developed practical tips to help you guard against Internet fraud, secure your computer and protect your personal information.
 
-How Yahoo Uses Your Personal Information
+**How Yahoo Uses Your Personal Information**
 
 This policy covers how Yahoo treats personal information that Yahoo collects and receives, including information related to your past use of Yahoo products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.
 
-This privacy policy only applies to Yahoo
+**This privacy policy only applies to Yahoo**
 
 This policy does not apply to the practices of companies that Yahoo does not own or control, or to people that Yahoo does not employ or manage. In addition, some companies that Yahoo has acquired have their own, preexisting privacy policies which may be viewed on our acquired companies page.
 
-Yahoo's participation in the Safe Harbor program
+**Yahoo's participation in the Safe Harbor program**
 
 Yahoo participates in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. To view our certification, visit the U.S. Department of Commerce's Safe Harbor Web site. For more information about Yahoo's participation in the Safe Harbor program, please visit our Safe Harbor details page.
 
-Return to top
-
-INFORMATION COLLECTION AND USE General  
+**INFORMATION COLLECTION AND USE** **General**
 
 Yahoo collects personal information when you register with Yahoo, when you use Yahoo products or services, when you visit Yahoo pages or the pages of certain Yahoo partners, and when you enter promotions or sweepstakes. Yahoo may combine information about you that we have with information we obtain from business partners or other companies.
 
@@ -28,15 +30,11 @@ Yahoo automatically receives and records information from your computer and brow
 
 Yahoo uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
 
-Return to top
-
-CHILDREN
+**CHILDREN**
 
 With parental permission, a child under age 13 might have a Yahoo Family Account. Visit Children's Privacy &. Family Accounts to learn more about children’s privacy on Yahoo.
 
-Return to top
-
-INFORMATION SHARING AND DISCLOSURE
+**INFORMATION SHARING AND DISCLOSURE**
 
 Yahoo does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 
@@ -53,9 +51,7 @@ Yahoo displays targeted advertisements based on personal information. Advertiser
 
 Yahoo works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please read our detailed reference links.
 
-Return to top
-
-COOKIES AND SIMILAR TECHNOLOGIES
+**COOKIES AND SIMILAR TECHNOLOGIES**
 
 Yahoo may set and access Yahoo cookies on your computer. We may also set and access device identifiers which could include IP address, user agent information (browser version, OS type and version), and device provided identifiers. Once you log into Yahoo on your device, Yahoo may recognize your device to provide you with a personalized experience, independent of your device settings. You can control your personalized experience across Yahoo through our Ad Interest Manager. Learn more.
 
@@ -63,9 +59,7 @@ Yahoo lets other companies that show advertisements on some of our pages set and
 
 Yahoo uses web beacons to access Yahoo cookies inside and outside our network of web sites and in connection with Yahoo products and services.
 
-Return to top
-
-Your Ability to Edit and Delete Your Account Information and Preferences
+**Your Ability to Edit and Delete Your Account Information and Preferences**
 
 You can edit your Yahoo Account Information, including your marketing preferences, at any time. You can also modify information you have provided to Yahoo through the Yahoo products or services you may use.
 
@@ -75,9 +69,7 @@ We reserve the right to send you certain communications relating to the Yahoo se
 
 You can delete your Yahoo account by visiting our Account Deletion page. Please click here to read about information that might possibly remain in our archived records after your account has been deleted.
 
-Return to top
-
-CONFIDENTIALITY AND SECURITY
+**CONFIDENTIALITY AND SECURITY**
 
 We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
 
@@ -85,13 +77,11 @@ We have physical, electronic, and procedural safeguards that comply with federal
 
 To learn more about security, including the security steps we have taken and security steps you can take, please read Security at Yahoo.
 
-CHANGES TO THIS PRIVACY POLICY
+**CHANGES TO THIS PRIVACY POLICY**
 
 Yahoo may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Yahoo account or by placing a prominent notice on our site.
 
-Return to top
-
-QUESTIONS AND SUGGESTIONS
+**QUESTION AND SUGGESTIONS**
 
 If you have questions, suggestions, or wish to make a complaint, please complete a feedback form or you can contact us at:
 
@@ -104,5 +94,3 @@ Sunnyvale, CA 94089
 If you feel that your inquiry has not been satisfactorily addressed, please click here for information on consumer agencies that may be able to provide you with additional assistance.
 
 Last Updated: September 25, 2014
-
-Return to top
