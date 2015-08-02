@@ -10,34 +10,34 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Lost Blog Posts
     *   by sweetartz625
-    *   10 hours ago
+    *   1 day ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Newer photos there, older photos gone
     *   by eyebox
-    *   1 day ago
+    *   2 days ago
     *   in Pictures
     *   0 votes
     *   0
 *   Not able to see my blog
     *   by cherie123007
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Not able to see my blog
     *   by IvY\_Zombie
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   pls recover my blog..... help!!
     *   by saliormomo
-    *   6 days ago
+    *   1 week ago
     *   in Comments
     *   0 votes
-    *   1 (last comment by klenner 6 days ago)
+    *   1 (last comment by klenner 1 week ago)
 *   My Archive
     *   by fly33foratallguy
     *   1 week ago
@@ -70,31 +70,31 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   cannot view my xanga
     *   by timyi1022
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can't see my blogs
     *   by omg147896325
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How can I upgrade/ restore my xanga blog?
     *   by ShirleyLo2006
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How can I upgrade/ restore my xanga blog?
     *   by ShirleyLo2006
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How can I upgrade/ restore my xanga blog?
     *   by ShirleyLo2006
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
