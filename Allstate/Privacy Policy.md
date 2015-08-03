@@ -3,11 +3,11 @@ Skip Navigation
 *   Find An Agent
 *   Contact Us
 *   Español
-*   Set Your Location
+*   Denver, CO,80202
 
 Get a Quote?
 
-Enter a valid US ZIP Code to set your location.
+Your location is set for Denver, CO, 80202
 
 Edit Select a product to get a quote.  
 Retrieve a saved quote
@@ -77,10 +77,10 @@ Find An Agent
 Toggle mobileNavigation Log in
 
 *   Update Zip Code expand
-    *   Set Your LocationEdit
+    *   Denver, CO,80202Edit
 *   Find A Local Agent
-*   Get A Quote expand
-    *   Set Your Location Edit AutoHomeRentersLifeCondoMotorcycleBoatATV/Rec. VehicleBusiness InsuranceMore InsuranceRetrieve a saved quote Retrieve a saved quote
+*   Get A Quote in 80202 expand
+    *   Denver, CO,80202 Edit AutoHomeRentersLifeCondoMotorcycleBoatATV/Rec. VehicleBusiness InsuranceMore InsuranceRetrieve a saved quote Retrieve a saved quote
 *   Insurance &. More expand
     *   My Offers
     *   Auto
@@ -363,7 +363,7 @@ Get A Quote
 
 Your location is set for:
 
-Enter a valid US ZIP Code to set your location. Edit Beginning of dialog window. It begins with a link called "Get a Quote?". Escape will cancel and close the window. GET A QUOTE Select a product to get a quote.
+Denver, CO 80202 Edit Beginning of dialog window. It begins with a link called "Get a Quote?". Escape will cancel and close the window. GET A QUOTE Select a product to get a quote.
 
 Auto
 
@@ -389,11 +389,21 @@ End Dialog. AutoHomeRentersLifeCondoMotorcycleBoatATV/Rec. VehicleBusiness Insur
 GET A QUOTE  
 Retrieve a saved quote
 
-Find Your Local Agent
+Agents Near 80202
 
-Enjoy the personal attention you deserve. An Allstate agent is ready to help you with all your insurance needs. Find yours today.
+*   Denise Hoffman 303-628-0554 535 16th St # 350 Denver, CO 80202 Visit website
+*   J T Barthelemy 303-948-9879 1940 Blake St Ste 105 Denver, CO 80202 Visit website
+*   K.D. Sakraida 303-433-2094 1932 W 33rd Ave Denver, CO 80211 Visit website
+*   Tiffany Mai 720-441-5608 2785 N Speer Blvd # Lw01 Denver, CO 80211 Visit website
 
-Enter your Zip Code
+Previous
+
+*   Denise Hoffman 535 16th St # 350 Denver, CO 80202 WEBSITE
+*   J T Barthelemy 1940 Blake St Ste 105 Denver, CO 80202 WEBSITE
+*   K.D. Sakraida 1932 W 33rd Ave Denver, CO 80211 WEBSITE
+*   Tiffany Mai 2785 N Speer Blvd # Lw01 Denver, CO 80211 WEBSITE
+
+Next More Agents More Agents
 
 24-hour support
 
@@ -438,7 +448,7 @@ All Rights Reserved
 Oops! You have entered an invalid ZIP. Please, try again. Location data not available. Please enter zip code. ZIP Code: Cancel  
 Use My Current Location City, State
 
-Set Your Location
+Denver, CO
 
 Please Wait...Updating Location...  
 It's taking a bit longer than expected. Your update should be done soon.
