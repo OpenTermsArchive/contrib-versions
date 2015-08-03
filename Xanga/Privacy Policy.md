@@ -10,19 +10,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Lost Blog Posts
     *   by sweetartz625
-    *   1 day ago
+    *   2 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Newer photos there, older photos gone
     *   by eyebox
-    *   2 days ago
+    *   3 days ago
     *   in Pictures
     *   0 votes
     *   0
 *   Not able to see my blog
     *   by cherie123007
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -64,7 +64,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   please help..
     *   by TING901
-    *   1 week ago
+    *   2 weeks ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
