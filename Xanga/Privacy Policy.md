@@ -8,21 +8,39 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Can you retrieve my old Xanga Posts?
+    *   by daydreambeliever15
+    *   8 hours ago
+    *   in Miscellaenous
+    *   0 votes
+    *   0
+*   Cant see my blog.
+    *   by xbabyxteax
+    *   13 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Cant see my blog.
+    *   by xbabyxteax
+    *   13 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Lost Blog Posts
     *   by sweetartz625
-    *   2 days ago
+    *   3 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Newer photos there, older photos gone
     *   by eyebox
-    *   3 days ago
+    *   4 days ago
     *   in Pictures
     *   0 votes
     *   0
 *   Not able to see my blog
     *   by cherie123007
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -52,7 +70,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   I cannot view my xanga blog,anyone help me?
     *   by kiko\_2026
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by effy123 1 week ago)
@@ -80,26 +98,8 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   How can I upgrade/ restore my xanga blog?
-    *   by ShirleyLo2006
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   How can I upgrade/ restore my xanga blog?
-    *   by ShirleyLo2006
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   How can I upgrade/ restore my xanga blog?
-    *   by ShirleyLo2006
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
-1 2 3 ... 158 Next
+1 2 3 ... 159 Next
 
 Help Categories
 
