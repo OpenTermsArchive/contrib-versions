@@ -12,8 +12,6 @@ Note: You are entering into a legally binding agreement.
 
 We are a social network and online platform for professionals.
 
-Our User Agreement has been updated. click here for a summary of the changes.
-
 1.1. Purpose
 
 Our mission is to connect the world's professionals to allow them to be more productive and successful. Our services are designed to promote economic opportunity for our members by enabling you and millions of other professionals to meet, exchange ideas, learn, and find opportunities or employees, work, and make decisions in a network of trusted relationships.
