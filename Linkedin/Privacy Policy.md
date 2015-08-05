@@ -20,8 +20,6 @@ Introduction Last revised on October 23, 2014
 
 We are a social network and online platform for professionals.
 
-Our Privacy Policy has been updated. Please read our summary of the changes.
-
 LinkedIn’s mission is to connect the world’s professionals to allow them to be more productive and successful. Our registered users (“Members”) share their professional identities, engage with their network, exchange knowledge and professional insights, post and view relevant content, and find business and career opportunities. Content on some of our services is also visible to unregistered viewers (“Visitors”). We believe that our services allow our Members to effectively compete and achieve their full career potential. The cornerstone of our business is to focus on our Members first.
 
 We protect your personal information using industry-standard safeguards.
