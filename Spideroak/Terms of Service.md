@@ -105,9 +105,8 @@ Written notification must be submitted to the following Designated Agent:
 *   Service Provider(s): SpiderOak
 *   Name of Agent Designated to Receive Notification of Claimed Infringement: Laura Gowans
 *   Full Address of Designated Agent to Which Notification Should be Sent:
-    *   SpiderOak, Inc., 555 Huehl Road, Northbrook, IL 60062
+    *   SpiderOak, Inc., 4741 Central Street, #324, Kansas City, MO 64112
 *   Telephone Number of Designated Agent: (866) 432-9888
-*   Facsimile Number of Designated Agent: (847)564-1202
 *   Email Address of Designated Agent: copyright@spideroak.com
 
 Under Title 17, United States Code, Section 512(c)(3)(A), the Notification of Claimed Infringement must include the following:
@@ -120,4 +119,4 @@ Under Title 17, United States Code, Section 512(c)(3)(A), the Notification of Cl
 6.  A statement that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent or the law. and
 7.  A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.
 
-Last updated: November 23, 2007
+Last updated: November 23, 2007. Address updated August 4, 2015
