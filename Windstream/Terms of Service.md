@@ -301,17 +301,21 @@ My Cart (Edit) My Location_:_ n/a
 *   News
 *   Windstream.net
 *   WINside Track Blog
-
-Windstream is one of the largest providers of telecommunications services in rural communities in the United States, and we are a customer-focused telecommunications company that provides phone, high-speed Internet and digital television services. We also offer a wide range of IP-based voice and data services and advanced phone systems and equipment to businesses and government agencies.
-
-Copyright © Windstream Communications. All rights reserved.
-
 *   Privacy Policy
 *   Terms &. Conditions
 *   Legal Notices
 *   Broadband Network Statement
 *   Suppliers
 *   Site Map
+
+Windstream is one of the largest providers of telecommunications services in rural communities in the United States, and we are a customer-focused telecommunications company that provides phone, high-speed Internet and digital television services. We also offer a wide range of IP-based voice and data services and advanced phone systems and equipment to businesses and government agencies.
+
+*   Residential
+*   Small Business
+*   Enterprise
+*   Carrier
+
+Copyright © Windstream Communications. All rights reserved.
 
 *   FIND US ON
 *   Twitter
