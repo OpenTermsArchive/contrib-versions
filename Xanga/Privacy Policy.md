@@ -8,45 +8,63 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Please Cancel My Account
+    *   by ChocoPiexGurlie
+    *   2 hours ago
+    *   in Usernames
+    *   0 votes
+    *   0
+*   Finding Old Posts
+    *   by light\_in\_the\_dark5
+    *   9 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Can't see my blogs.
+    *   by ida\_tan
+    *   13 hours ago
+    *   in Adding &. Editing Entries
+    *   0 votes
+    *   0
 *   Cant see my blogs
     *   by drivethrutragedy
-    *   23 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can you retrieve my old Xanga Posts?
     *   by daydreambeliever15
-    *   1 day ago
+    *   2 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Cant see my blog.
     *   by xbabyxteax
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Cant see my blog.
     *   by xbabyxteax
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Lost Blog Posts
     *   by sweetartz625
-    *   4 days ago
+    *   5 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Newer photos there, older photos gone
     *   by eyebox
-    *   5 days ago
+    *   6 days ago
     *   in Pictures
     *   0 votes
     *   0
 *   Not able to see my blog
     *   by cherie123007
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -70,7 +88,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   recovering blog
     *   by effy123
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -79,25 +97,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by effy123 1 week ago)
-*   How can I upgrade/ restore my xanga blog?
-    *   by hiusang0902
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   please help..
-    *   by TING901
-    *   2 weeks ago
-    *   in Passwords &. Sign-In
-    *   0 votes
-    *   0
-*   cannot view my xanga
-    *   by timyi1022
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
+    *   1 (last comment by effy123 2 weeks ago)
 
 1 2 3 ... 159 Next
 
