@@ -41,10 +41,10 @@ Rent
     *   *   Capture the attention of property managers.
             
         *   Complete a pre-application
-*   Post a rental
+*   List your rental
     *   *   Post a rental listing on the Zillow Rental Network, the largest rental network on the Web.
             
-        *   Post a rental (It's free)
+        *   List your rental (it's free)
 
 Sell
 
@@ -84,7 +84,7 @@ Agent finder
     *   *   Home improvement pros
         *   Other pros
 *   I'm a pro
-    *   *   Agent advertising
+    *   *   Agent Advertising
         *   Join the Agent Directory
         *   Access agent hub
 
@@ -273,6 +273,5 @@ _— Updated March 2015_
 *   Blog
 *   Mobile Apps
 
-*   Yahoo!-Zillow Real Estate Network
 *   © 2006-2015 Zillow
 *   Follow us
