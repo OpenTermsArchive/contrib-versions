@@ -10,79 +10,79 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Old posts
     *   by RainWithinHerHands917
-    *   13 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old posts
     *   by RainWithinHerHands917
-    *   13 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   how to pay premium
     *   by tristata
-    *   14 hours ago
+    *   1 day ago
     *   in Premium
     *   0 votes
     *   0
 *   Lost my Al xanga post
     *   by magichun1208
-    *   18 hours ago
+    *   1 day ago
     *   in Themes
     *   0 votes
     *   0
 *   blog is missing
     *   by eternal\_emperor\_edison\_eden
-    *   20 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please Cancel My Account
     *   by ChocoPiexGurlie
-    *   1 day ago
+    *   2 days ago
     *   in Usernames
     *   0 votes
     *   0
 *   Finding Old Posts
     *   by light\_in\_the\_dark5
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can't see my blogs.
     *   by ida\_tan
-    *   1 day ago
+    *   2 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Cant see my blogs
     *   by drivethrutragedy
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can you retrieve my old Xanga Posts?
     *   by daydreambeliever15
-    *   3 days ago
+    *   4 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Cant see my blog.
     *   by xbabyxteax
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Cant see my blog.
     *   by xbabyxteax
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Lost Blog Posts
     *   by sweetartz625
-    *   6 days ago
+    *   1 week ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
