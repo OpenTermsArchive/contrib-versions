@@ -8,98 +8,98 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Looking for my blog...
+    *   by monosyllabic
+    *   1 minute ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   lost my blogs
+    *   by hey\_itz\_ck
+    *   11 minutes ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   blog lost
+    *   by Joyee\_sa
+    *   1 hour ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   blog lost
+    *   by Joyee\_sa
+    *   1 hour ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   how can i get back my old post pls?
+    *   by tomorrow\_is\_tea
+    *   13 hours ago
+    *   in Premium
+    *   0 votes
+    *   0
+*   how can i get back my old post pls?
+    *   by tomorrow\_is\_tea
+    *   13 hours ago
+    *   in Premium
+    *   0 votes
+    *   0
 *   Lost Blog?
     *   by CTfan4life
-    *   6 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old posts
     *   by RainWithinHerHands917
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old posts
     *   by RainWithinHerHands917
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   how to pay premium
     *   by tristata
-    *   2 days ago
+    *   3 days ago
     *   in Premium
     *   0 votes
     *   0
 *   Lost my Al xanga post
     *   by magichun1208
-    *   2 days ago
+    *   3 days ago
     *   in Themes
     *   0 votes
     *   0
 *   blog is missing
     *   by eternal\_emperor\_edison\_eden
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please Cancel My Account
     *   by ChocoPiexGurlie
-    *   3 days ago
+    *   4 days ago
     *   in Usernames
     *   0 votes
     *   0
 *   Finding Old Posts
     *   by light\_in\_the\_dark5
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can't see my blogs.
     *   by ida\_tan
-    *   3 days ago
-    *   in Adding &. Editing Entries
-    *   0 votes
-    *   0
-*   Cant see my blogs
-    *   by drivethrutragedy
     *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Can you retrieve my old Xanga Posts?
-    *   by daydreambeliever15
-    *   5 days ago
-    *   in Miscellaenous
-    *   0 votes
-    *   0
-*   Cant see my blog.
-    *   by xbabyxteax
-    *   5 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Cant see my blog.
-    *   by xbabyxteax
-    *   5 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Lost Blog Posts
-    *   by sweetartz625
-    *   1 week ago
     *   in Adding &. Editing Entries
-    *   0 votes
-    *   0
-*   Newer photos there, older photos gone
-    *   by eyebox
-    *   1 week ago
-    *   in Pictures
     *   0 votes
     *   0
 
-1 2 3 ... 159 Next
+1 2 3 ... 160 Next
 
 Help Categories
 
