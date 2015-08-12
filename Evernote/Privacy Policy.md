@@ -1,6 +1,6 @@
 Privacy Policy
 
-**Effective Date: April 29, 2015** - What’s new »
+**Effective Date: August 11, 2015** - What’s new »
 
 Evernote values your privacy in your personal information and Content that you store in our Service. This Privacy Policy explains what information Evernote Corporation and its affiliated companies (together, “Evernote” or “we” and sometimes “us”) collect about you and why, what we may do with that information and how we handle your Content.
 
@@ -22,6 +22,7 @@ We collect Why we collect it Your username, email address and contact preference
 *   To communicate with you.
 *   To enable other users to collaborate with you through Work Chat or shared Notes and Notebooks.
 *   To send you marketing emails and special offers, unless you opt-out as explained in the “Will Evernote Send Me Emails?” section below.
+*   To verify your email address to help prevent spam, fraud and abuse.
 
 Your name, image and other personal information, if you elect to share it To show in your user profile. The geographic area where you use your computing devices when you interact with the Service and the language you select
 
@@ -37,7 +38,10 @@ Your device identifier
 *   To calculate anonymous, aggregate statistics on the number of unique devices using the Evernote Service.
 *   Together with purchase information, to assist us in evaluating our compliance with export laws.
 
-Your telephone number – but only if you elect to share it or link it to your account
+Your telephone number
+
+*   To help prevent spam, fraud, and abuse, and to aid in account recovery.
+*   If you elect to otherwise share your telephone number or link it to your account, it may also be used:
 
 *   To enable two-step verification on your account.
 *   To enable other users to communicate with you through Work Chat.
@@ -86,7 +90,7 @@ Evernote does not knowingly collect personal information from children without p
 
 Will Evernote Contact Me?
 
-From time to time, we may contact you via email with information about product announcements, software updates and special offers. We also may contact you with information about products and services from our business partners. We consider your acceptance of this Privacy Policy as your acceptance of our offer to send you these emails. You may opt out of such communications at any time by clicking the “unsubscribe” link found within Evernote email updates or by logging into your Evernote Service account via our web site at www.evernote.com and going to Settings >. Personal Settings >. Contact Preferences and changing your contact preferences.
+From time to time, we may contact you via email with information about product announcements, service offerings that we think may be beneficial to you, software updates and special offers. We also may contact you with information about products and services from our business partners. We consider your acceptance of this Privacy Policy as your acceptance of our offer to send you these emails. You may opt out of such communications at any time by following the opt-out instructions provided in the emails or by logging into your Evernote Service account via our web site at www.evernote.com and going to Settings >. Personal Settings >. Contact Preferences and changing your contact preferences.
 
 You will continue to receive essential Service-related and account-related information, even if you unsubscribe from promotional emails.
 
@@ -97,7 +101,7 @@ II. Information Access and Disclosure Does Evernote Share My Personal Informatio
 Evernote is not in the business of selling or renting your information. Outside of actions you take within the Service to communicate via Work Chat, to share notes or notebooks, or to authorize third-party applications, we only disclose your information - and then only the minimum information necessary - when:
 
 *   We have your explicit consent to share the information.
-*   We need to share your information with service providers who process data on our behalf in order to operate the Service and/or complete your payment transactions. and these providers are subject to strict data protection requirements in keeping with our commitments under our US-EU and US-Switzerland Safe Harbor certifications as discussed below.
+*   We need to share your information with service providers who process data on our behalf in order to operate the Service, complete your payment transactions, and help us communicate with you as described elsewhere in this policy. these providers are subject to strict data protection requirements in keeping with our commitments under our US-EU and US-Switzerland Safe Harbor certifications as discussed below.
 *   We need to share your information with service providers to fulfill your product or service requests, including sales, delivery and support for certain products from the Evernote Market.
 *   We need to share your information with resellers of a Paid Service or product in order to ensure accuracy in the payment for such Paid Service or product, the management of your account and the delivery of your purchase and related support services.
 *   We believe it is necessary to investigate potential violations of our Terms of Service, to enforce those Terms of Service, or where we believe it is necessary to investigate, prevent or take action regarding illegal activities, suspected fraud or potential threats against persons, property or the systems on which we operate the Service.
