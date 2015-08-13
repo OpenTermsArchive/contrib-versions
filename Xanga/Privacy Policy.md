@@ -10,73 +10,73 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Looking for my blog...
     *   by kafai\_9086
-    *   1 day ago
+    *   2 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Looking for my blog...
     *   by kafai\_9086
-    *   1 day ago
+    *   2 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Looking for my blog...
     *   by kafai\_9086
-    *   1 day ago
+    *   2 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Looking for my blog...
     *   by kafai\_9086
-    *   1 day ago
+    *   2 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Looking for my blog...
     *   by kafai\_9086
-    *   1 day ago
+    *   2 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   SEE MY XANGAS
     *   by kafai\_9086
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   SEE MY XANGA
     *   by kafai\_9086
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Looking for my blog....
     *   by kafai\_9086
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Looking for my blog....
     *   by kafai\_9086
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Looking for my blog...
     *   by kafai\_9086
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Looking for my blog...
     *   by kafai\_9086
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Looking for my blog...
     *   by kafai\_9086
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -88,13 +88,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   lost my blogs
     *   by hey\_itz\_ck
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   blog lost
     *   by Joyee\_sa
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
