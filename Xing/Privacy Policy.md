@@ -215,11 +215,17 @@ We also use pixel-based and cookie-based conversion tracking technologies in ord
 
 Google: How Google uses cookies
 
-Yahoo!/Bing: Opt out of personalized advertising
+Yahoo!/Bing: Opt out of personalised advertising
 
 NEXT AUDIENCE: Privacy information
 
-Criteo: Opt-outcomplete
+Criteo: Opt out of AdClear tracking
+
+Interest- and behaviour-related information and advertising
+
+On our Websites we also use technologies to show you information and advertising based on your interests and behaviour. To do so, we use data-protection-friendly technologies based on data anonymisation and pseudonymisation. To this end, we use an external service provider who gathers on our behalf certain information about your activities on our Websites. Said service provider is never able to assign the information it gathers to a specific person, and IP addresses are immediately anonymised. Said service provider never stores Personal Data. Instead it performs calculations based on this and other non-personal information, which we then receive as recommendations for showing you information or advertising based on your interests and behaviour.
+
+If you would no longer like to receive such information or advertising, you can click on the link below to revoke your permission and deactivate data collection by setting an opt-out cookie: Opt-outcomplete
 
 Please note that data will again be collected should you delete the opt-out cookie.
 
