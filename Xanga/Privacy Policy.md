@@ -10,37 +10,37 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Lost everything
     *   by lXlCorkylXl
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by czechiegirl 1 day ago)
+    *   1 (last comment by czechiegirl 2 days ago)
 *   Looking for my blog...
     *   by kafai\_9086
-    *   5 days ago
+    *   6 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Looking for my blog...
     *   by monosyllabic
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   lost my blogs
     *   by hey\_itz\_ck
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   blog lost
     *   by Joyee\_sa
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   how can i get back my old post pls?
     *   by tomorrow\_is\_tea
-    *   6 days ago
+    *   1 week ago
     *   in Premium
     *   0 votes
     *   0
