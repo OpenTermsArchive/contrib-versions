@@ -1,6 +1,6 @@
 Meredith Online Privacy Policy
 
-_Effective Date: January 14, 2015_
+_Effective Date: August 13, 2015_
 
 *   Online Privacy Policy
 *   Offline Privacy Policy
@@ -19,7 +19,7 @@ This Policy describes our privacy practices regarding:
 *   Information We May Obtain from Other Sources
 *   How We Use the Information We Collect
 *   How We Disclose Information and Your Related Opt-Out Choices
-*   Sites to Which We Link
+*   Your Opt-Out Choices
 *   How to Correct or Update Your Information
 *   Security, Retention and Storage of Information
 *   Changes to Our Online Privacy Policy
@@ -36,7 +36,7 @@ Return to top
 
 Information Collected Through Our Services:
 
-The information we gather through our Services falls into two categories: (1) information you voluntarily supply to us when you register, initiate transactions, participate in promotions or surveys, submit comments or questions or otherwise communicate with us or others through the Services, and (2) information collected automatically as you use our Services. Third-party providers and advertisers featured on, or linked to or from, our Services may also gather information through processes that we don't control and subject to their own separate privacy policies, which may differ from ours. Some of our Services also may participate in third-party advertising networks that collect information about your activity online to tailor some of the advertising that you see on sites in their networks to your interests.
+The information we gather through our Services falls into two categories: (1) information you voluntarily supply to us when you register, initiate transactions, participate in promotions or surveys, submit comments or questions or otherwise communicate with us or others through the Services, and (2) information collected automatically as you use our Services, including without limitation, information that may be collected through our mobile applications while they are in use or running in the background of your device. Third-party providers and advertisers featured on, or linked to or from, our Services may also gather information through processes that we don't control and subject to their own separate privacy policies, which may differ from ours. Some of our Services also may participate in third-party advertising networks or similar services that collect information about your computer or device and your activity online and as a mobile user to tailor some of the advertising that you see on our Services and other third-party sites, mobile apps and marketing channels in their networks to your interests.
 
 Registration and Other Personally Identifying Information.
 
@@ -44,7 +44,7 @@ You may register to use certain features of our Services. When you register, we 
 
 Contests and Other Promotions.
 
-From time to time, we may offer contests, sweepstakes or other promotions. Participation in these promotions may require registration for our Services (see “Registration and Other Personally Identifying Information,” above). We may also automatically enter our users in some promotions. If you choose to participate in promotions that require registration, we will collect contact information such as your name, address, and email address and we may share this information with co-sponsors or other third parties involved in the promotion that we identify in the rules or entry materials. We don't control these third parties' privacy practices, and our Privacy Policy does not apply to their collection and use of your information. We may also share some of your entry information with third parties or the public in connection with the administration of the promotion, such as winner selection and prize fulfillment, and as permitted by the promotion's official rules, such as on a winners' list.
+From time to time, we may offer contests, sweepstakes or other promotions. Participation in these promotions may require registration for our Services (see "Registration and Other Personally Identifying Information,” above). We may also automatically enter our users in some promotions. If you choose to participate in promotions that require registration, we will collect contact information such as your name, address, and email address and we may share this information with co-sponsors or other third parties involved in the promotion that we identify in the rules or entry materials. We don't control these third parties' privacy practices, and our Privacy Policy does not apply to their collection and use of your information. We may also share some of your entry information with third parties or the public in connection with the administration of the promotion, such as winner selection and prize fulfillment, and as permitted by the promotion's official rules, such as on a winners' list.
 
 Information Collected Automatically When You Use Our Services.
 
@@ -57,13 +57,17 @@ Meredith or third-party contractors we engage may collect certain information au
 *   Your Internet Protocol (IP) address (a numerical address assigned to your computer by your Internet service provider so that other computers connected to the Internet can communicate with you online) that can sometimes be used to derive your general geographic area;
 *   Search terms you enter using our Services or on a referral site;
 *   Unique identifiers, including mobile device identification numbers, that can identify the physical location of devices in accordance with applicable law;
-*   Your device type, screen size, browser type, language, plug-ins, Internet domain, TCP configuration parameters, operating system and versions of installed software;
-*   standard server log information. and
+*   Your device type, screen size, browser type, language and other settings, memory capacity, plug-ins, Internet domain, TCP configuration parameters, operating system, carrier code, time zone and the names, versions and package IDs of software installed on your device;
+*   Standard server log information. and
 *   Information collected through cookies, web beacons and other tracking technologies (see additional descriptions of these terms below).
 
 Personalization and Tracking Technologies.
 
-Like most website and mobile application operators, we, or third parties acting on our behalf, use embedded scripts, "cookies," web beacons and other tracking technologies to operate, analyze and improve our Services and tailor content and advertising to user interests. Third-party companies that provide some of the tools and features accessible through our Services and advertisers and other companies involved in the delivery of advertisements you see on our Services and other websites also may use tracking technologies to collect information about your use of our Services. Cookies. Cookies are small amounts of data (often containing a unique identifier) that are stored in separate files within your computer or device’s Internet browser. Cookies are accessed and recorded by the websites you visit, and by the companies that deliver the advertisements you see on our services, so they can recognize the same browser navigating online. You can set your browser to accept or reject most cookies, or to notify you when a cookie is set. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.) It is up to you to decide whether to allow us or third parties to set cookies, but if you block cookies, you may not be able to view or access some of the features of our Services. Please be aware that certain browsers cannot block or delete so-called "Flash" cookies, which use a feature of the Adobe Flash video player to store information on your computer. For information about how to delete Flash cookies, please visit the Adobe website here.
+Like most website and mobile application operators, we, our service providers or other third parties acting on our behalf or with our permission, use embedded scripts, "cookies," web beacons, device identifiers and other tracking technologies to operate, analyze and improve our Services and tailor content and advertising to user interests. Third-party companies that provide some of the tools and features accessible through our Services and advertisers and other companies involved in the delivery of advertisements you see on our Services and other websites also may use tracking technologies to collect information about your use of our Services.
+
+Cookies.
+
+Cookies are small amounts of data (often containing a unique identifier) that are stored in separate files within your computer or device’s Internet browser. Cookies are accessed and recorded by the websites you visit, and by the companies that deliver the advertisements you see on our services, so they can recognize the same browser navigating online. You can set your browser to accept or reject most cookies, or to notify you when a cookie is set. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.) It is up to you to decide whether to allow us or third parties to set cookies, but if you block cookies, you may not be able to view or access some of the features of our Services. Please be aware that certain browsers cannot block or delete so-called "Flash" cookies, which use a feature of the Adobe Flash video player to store information on your computer. For information about how to delete Flash cookies, please visit the Adobe website here.
 
 Web Beacons and Other Tracking Technologies.
 
@@ -71,7 +75,7 @@ Web beacons (sometimes called "transparent GIFs," "clear GIFs," or "pixel tags")
 
 Mobile Device IDs and Location-Based Information.
 
-Certain mobile devices, including smart phones and tablet devices, contain unique device IDs that can be used to identify their physical location. Mobile devices also typically transmit caller ID data (which may include a phone number) when used to transmit a telephone call or text message. When you use mobile devices to access our Services, we may collect and transmit unique device IDs and collect caller ID data, information about your wireless carrier, the make, model, operating system and settings of your device and information about how you navigate within our Service. With your consent, we also may use precise geolocation technology such as GPS or Wi-Fi triangulation to collect information about the exact location of your mobile device.
+Certain mobile devices, including smart phones and tablet devices, contain unique device IDs that can be used to identify their physical location. Some mobile device IDs are persistent, while others may be resettable by accessing the device’s privacy settings. Mobile devices also typically transmit caller ID data (which may include a phone number) when used to transmit a telephone call or text message. When you use mobile devices to access our Services, we may collect and transmit unique device IDs and collect caller ID data, as well as other information about your device, including without limitation, your wireless carrier, the make, model, operating system, capacity and settings of your device, the names, package IDs and versions of other software you have downloaded to your device and information about how you interact with and navigate within our Service. With your consent, we or our authorized service providers and partners also may use precise geolocation technology such as GPS or Wi-Fi triangulation or mobile Bluetooth beacon technology to collect information about the exact location of your mobile device. Precise location information may be collected both while you are using one of our mobile applications and continuously over time while our apps are not in use but are running in the background of your device. This information may be used for the purposes described below in “How We Use The Information We Collect,” including to tailor special offers and advertising to your interests, both in our Services, and in third-party marketing channels. You can withdraw your consent to the further collection and use of your precise device location data through any of our mobile apps by accessing your device’s privacy settings as further explained below in “Opt-out Choices: Precise Device Location Tracking.” For information about how to reset your advertising identifier and your other opt-out choices relating to interest-based advertising in mobile applications, see “Opt-out Choices: Mobile App Advertising and Tracking.”
 
 Social Network Posting Tools and "Share" Features.
 
@@ -108,8 +112,8 @@ In addition, we and our authorized service providers generally use other informa
 *   Attribute content that you post to forums we operate on our Services;
 *   Recognize the same users as they access online or mobile services using multiple browsers or devices and deliver to them appropriate interest-based content and advertising;
 *   Provide you with special offers, promotions and information from companies within our corporate family, and select third parties in accordance with applicable law;
-*   Control the display of advertising and develop and deliver advertising tailored to your interests, including advertising that you see on our Services, advertising you see on third-party websites and email programs, and offers and advertising you may receive offline.
-*   Help us measure and analyze visitor traffic and usage patterns and improve the quality and effectiveness of our content, features, advertisements, and other communications;
+*   Control the display of advertising and develop and deliver advertising tailored to your interests, including advertising that you see on our Services, advertising you see on third-party websites, mobile applications and email programs, and offers and advertising you may receive offline or as push-notifications, from us or others.
+*   Measure and analyze visitor traffic and usage patterns and improve the quality and effectiveness of our content, features, advertisements, and other communications;
 *   Conduct market or audience analysis and related reporting.
 *   Understand whether our users read email messages and click on links contained within those messages.
 *   Prevent potentially prohibited or illegal activities, comply with applicable law and enforce our Visitor Agreement.
@@ -133,7 +137,7 @@ If, during or immediately following registration, you choose to access offers fo
 
 Provider Partners and Service Providers.
 
-To make your experience with our Services more useful and enjoyable, we may offer some features (such as social sharing tools and chat rooms) in conjunction with third-party providers ("Provider Partners") that specialize in operating such services. We share with each of these Provider Partners such information as is useful or necessary to provide you with the services we offer through that Provider Partner. We also contract with other companies to provide specialized services to us, including but not limited to credit-card and billing processing, shipping, marketing, email and text message distribution, data processing, mobile and website analytics and promotions management. We reserve the right to share with these companies any information we collect about you and/or authorize them to collect information from you directly for purposes consistent with this Privacy Policy.
+To make your experience with our Services more useful and enjoyable, we may offer some features (such as social sharing tools and chat rooms) in conjunction with third-party providers ("Provider Partners") that specialize in operating such services. We share with each of these Provider Partners such information as is useful or necessary to provide you with the services we offer through that Provider Partner. We also contract with other companies to provide specialized services to us, including but not limited to credit-card and billing processing, shipping, marketing, advertising optimization and interest-based targeting, email and text message distribution, data processing, mobile and website analytics and promotions management. We reserve the right to share with these companies any information we collect about you and/or authorize them to collect information from you directly for purposes consistent with this Privacy Policy.
 
 Aggregated and Anonymous Information.
 
@@ -149,7 +153,7 @@ Notwithstanding anything to the contrary stated herein or within our Services, w
 
 Return to top
 
-Opt-Out Choices. Postal Lists.
+Your Opt-Out Choices. Postal Lists.
 
 To remove your name and postal address from postal lists that we sell or rent to third parties for their direct marketing purposes, please use the postal list opt-out form available here or send your request to us in a letter addressed to Meredith Corporation, Opt-Out Postal, Attn: Circulation, 1716 Locust Street, Des Moines, Iowa 50309).
 
@@ -159,15 +163,25 @@ You can opt-out from any Meredith email newsletter or commercial email list and 
 
 Interest-Based Advertising.
 
-Meredith follows the Self-Regulatory Principles for Online Behavioral advertising released by the Digital Advertising Alliance ("DAA") in July 2009. To opt-out of our use of your online viewing behavior data to serve interest-based advertising on third-party websites and email newsletters, visit http://www.aboutads.info/. You can also click on the Ad Choices icon located in the footer of our web sites and navigate to the consumer opt-out page. Use the same links to opt-out of the delivery of interest-based advertising on our Services from the operators of the third-party ad networks we use. Note that you must opt-out separately from each computer or device and browser that you use to access our Services and if you clear your cookies, you will need to repeat the opt-out process.
+Meredith follows the Self-Regulatory Principles for Online Behavioral advertising released by the Digital Advertising Alliance ("DAA") in July 2009. To opt-out of our use of your website viewing data to serve interest-based advertising on third-party websites and email newsletters, visit the DAA’s Consumer Choice Page. You can also click on the Ad Choices icon located in the footer of our web sites and navigate to the consumer opt-out form. Use the same links to opt-out of the delivery of interest-based advertising on our web sites from the operators of the third-party ad networks we use. Note that you must opt-out separately from each computer or device and browser that you use to access our Services and if you clear your cookies, you will need to repeat the opt-out process. Also note that the preferences you select on the DAA’s Consumer Choice Page do not apply to the collection of cross-app data from your mobile device. The DAA offers a separate choice tool for the collection of cross-app data on a mobile device for interest-based advertising and other applicable uses. To exercise choice for companies participating in this choice tool, you can install the DAA’s AppChoices app available here. Please also review the “Mobile App Advertising and Tracking” section below for additional choices.
 
 Most of the third-party advertising and data companies we work with, including DoubleClick and Google also subscribe to the DAA Principles and/or are members of the Network Advertising Initiative ("NAI"). To learn more about the information collection practices of NAI members and your related opt-out choices, please visit the NAI's website here. You can opt out of interest-based advertising from Google by visiting the About Google Ads page or permanently opt out of the DoubleClick cookie by installing the DoubleClick opt out extension. For information about Google Analytics’ information practices and related opt-out choices, click here.
 
 Adobe and Krux are other third parties we engage to track and analyze usage and browsing patterns of our users. For information about Adobe's information collection practices and related opt-out choices, click here. For information about Krux’s information collection practices and related opt-out choices, click here.
 
+Mobile App Advertising and Tracking
+
+We, our authorized service providers and/or other third-party partners involved in the delivery of advertising you receive through our mobile applications may collect information about your mobile device, including unique anonymous advertising identifiers and the names and IDs of apps you have installed, as well as information about how you use our mobile applications and other unaffiliated applications. We and our partners use this information to enable interest-based advertising you receive through our Services and within third-party apps and other marketing channels. Depending on your device and operating system, you may be able to reset your mobile device's advertising identifier to limit this data collection or prevent the collection of usage data across unaffiliated applications for interest-based advertising purposes by accessing the privacy settings on your mobile device. Each operating system, iOS for Apple devices, Android for Android devices and Windows for Microsoft devices, provides its own instructions. Visit the privacy settings for your mobile device or contact your platform operator for more information.
+
+For information about the mobile data collection practices of the service providers we use to support interest-based advertising in our AllRecipes mobile applications and your additional opt-out choices, click here and here. To exercise choice over the companies participating in the DAA’s separate choice tool for the collection of cross-app data on a mobile device, download the DAA’s AppChoices app available here.
+
+Precise Device Location Tracking.
+
+If you authorized us and/or our service providers to collect and/or share information about the precise location of your device through a mobile application, you can always withdraw your consent and prevent the further collection and sharing of your precise device location information by accessing your device’s location privacy settings. Each operating system, iOS for Apple devices, Android for Android devices and Windows for Microsoft devices, provides its own instructions on how to turn off precise location sharing. Access the privacy settings for your mobile device or contact your platform operator for more information.
+
 Do Not Track.
 
-Do Not Track is a standard that is currently under development. As it is not yet finalized, we do not currently respond to browser do-not-track signals. Instead, we adhere to the standards set out in this privacy policy and offer the opt-out choices described above.
+We do not currently respond to browser do-not-track signals. Instead, we adhere to the standards set out in this privacy policy and offer the opt-out choices described above.
 
 Return to top
 
