@@ -16,6 +16,7 @@ Hi,
     *   Source Products &. Suppliers
     *   By Category
     *   Get Quotations
+    *   Global Expo
     *   Wholesale
     *   Trade Services
     *   Business Identity
