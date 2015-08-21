@@ -8,36 +8,42 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   How can I get my xanga back??
-    *   by loveyou\_noreason
-    *   2 hours ago
+*   missing entries in archive
+    *   by angelle
+    *   10 hours ago
     *   in Data Migration
-    *   0 votes
-    *   0
-*   How can I get my xanga back??
-    *   by loveyou\_noreason
-    *   2 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   I lost my xanga
-    *   by mies
-    *   17 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   I lost my xanga
-    *   by mies
-    *   17 hours ago
-    *   in Themes
     *   0 votes
     *   0
 *   Lost everything
     *   by lXlCorkylXl
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by jake041390 1 day ago)
+    *   3 (last comment by Gustava 14 hours ago)
+*   How can I get my xanga back??
+    *   by loveyou\_noreason
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   How can I get my xanga back??
+    *   by loveyou\_noreason
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   I lost my xanga
+    *   by mies
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   I lost my xanga
+    *   by mies
+    *   1 day ago
+    *   in Themes
+    *   0 votes
+    *   0
 *   Looking for my blog...
     *   by kafai\_9086
     *   1 week ago
@@ -76,26 +82,20 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Old posts
     *   by RainWithinHerHands917
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   how to pay premium
     *   by tristata
-    *   1 week ago
+    *   2 weeks ago
     *   in Premium
     *   0 votes
     *   0
 *   Lost my Al xanga post
     *   by magichun1208
-    *   1 week ago
+    *   2 weeks ago
     *   in Themes
-    *   0 votes
-    *   0
-*   blog is missing
-    *   by eternal\_emperor\_edison\_eden
-    *   1 week ago
-    *   in Data Migration
     *   0 votes
     *   0
 
