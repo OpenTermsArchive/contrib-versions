@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   missing entries in archive
     *   by angelle
-    *   10 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,28 +19,28 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by Gustava 14 hours ago)
+    *   3 (last comment by Gustava 1 day ago)
 *   How can I get my xanga back??
     *   by loveyou\_noreason
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How can I get my xanga back??
     *   by loveyou\_noreason
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I lost my xanga
     *   by mies
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I lost my xanga
     *   by mies
-    *   1 day ago
+    *   2 days ago
     *   in Themes
     *   0 votes
     *   0
