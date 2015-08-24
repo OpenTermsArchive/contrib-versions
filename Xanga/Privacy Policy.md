@@ -8,9 +8,27 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   how to upgrade to xanga 2.0
+    *   by SHAN\_329
+    *   17 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   how to upgrade to xanga 2.0
+    *   by SHAN\_329
+    *   17 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   how to upgrade to xanga 2.0
+    *   by SHAN\_329
+    *   17 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   missing entries in archive
     *   by angelle
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,28 +37,28 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by Gustava 2 days ago)
+    *   3 (last comment by Gustava 3 days ago)
 *   How can I get my xanga back??
     *   by loveyou\_noreason
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How can I get my xanga back??
     *   by loveyou\_noreason
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I lost my xanga
     *   by mies
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I lost my xanga
     *   by mies
-    *   3 days ago
+    *   4 days ago
     *   in Themes
     *   0 votes
     *   0
@@ -52,25 +70,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Looking for my blog...
     *   by monosyllabic
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   lost my blogs
     *   by hey\_itz\_ck
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   blog lost
     *   by Joyee\_sa
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   how can i get back my old post pls?
     *   by tomorrow\_is\_tea
-    *   1 week ago
+    *   2 weeks ago
     *   in Premium
     *   0 votes
     *   0
@@ -78,24 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by CTfan4life
     *   2 weeks ago
     *   in Data Migration
-    *   0 votes
-    *   0
-*   Old posts
-    *   by RainWithinHerHands917
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   how to pay premium
-    *   by tristata
-    *   2 weeks ago
-    *   in Premium
-    *   0 votes
-    *   0
-*   Lost my Al xanga post
-    *   by magichun1208
-    *   2 weeks ago
-    *   in Themes
     *   0 votes
     *   0
 
