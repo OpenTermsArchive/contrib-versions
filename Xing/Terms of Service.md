@@ -48,6 +48,8 @@ General Terms and Conditions for the use of ads on XING
 
 General Terms and Conditions for the use of News Pages on XING
 
+General Terms and Conditions for the use of XING Arbeitsrechtsschutz (German only)
+
 General Terms and Conditions
 
 Last updated: 17 March 2014
