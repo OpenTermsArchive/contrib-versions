@@ -9,7 +9,7 @@ Or try a newer browser:
 *   ·
 *   Firefox
 
- MENU Buy
+Homepage Buy
 
 *   Homes for sale
     *   *   Homes for sale
@@ -84,9 +84,10 @@ Agent finder
     *   *   Home improvement pros
         *   Other pros
 *   I'm a pro
-    *   *   Agent Advertising
+    *   *   Agent advertising
         *   Join the Agent Directory
         *   Access agent hub
+    *   *   Agent resource center
 
 Advice
 
@@ -123,7 +124,6 @@ More
 
 *   Blogs
     *   *   Zillow blog
-        *   Zillow for pros blog
         *   Zillow engineering blog
 *   Partners
     *   *   Zillow affiliates
