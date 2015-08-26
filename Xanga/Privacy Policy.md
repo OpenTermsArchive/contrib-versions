@@ -8,27 +8,45 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   how to upgrade to xanga 2.0
-    *   by SHAN\_329
-    *   1 day ago
+*   Can I get my blog back?
+    *   by punkrockangel734
+    *   50 minutes ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Still missing old blog
+    *   by junnnglecat
+    *   9 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Still missing old blog
+    *   by junnnglecat
+    *   9 hours ago
     *   in Data Migration
     *   0 votes
     *   0
 *   how to upgrade to xanga 2.0
     *   by SHAN\_329
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   how to upgrade to xanga 2.0
     *   by SHAN\_329
-    *   1 day ago
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   how to upgrade to xanga 2.0
+    *   by SHAN\_329
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   missing entries in archive
     *   by angelle
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -37,28 +55,28 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by Gustava 4 days ago)
+    *   3 (last comment by Gustava 5 days ago)
 *   How can I get my xanga back??
     *   by loveyou\_noreason
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How can I get my xanga back??
     *   by loveyou\_noreason
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I lost my xanga
     *   by mies
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I lost my xanga
     *   by mies
-    *   5 days ago
+    *   6 days ago
     *   in Themes
     *   0 votes
     *   0
@@ -76,24 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   lost my blogs
     *   by hey\_itz\_ck
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   blog lost
-    *   by Joyee\_sa
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   how can i get back my old post pls?
-    *   by tomorrow\_is\_tea
-    *   2 weeks ago
-    *   in Premium
-    *   0 votes
-    *   0
-*   Lost Blog?
-    *   by CTfan4life
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
