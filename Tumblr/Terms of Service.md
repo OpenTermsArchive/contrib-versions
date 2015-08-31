@@ -1,4 +1,4 @@
-Terms of Service Last Modified: 2014-01-27 Tumblrはアメリカ合衆国を拠点とする企業です。Tumblrでは法管轄区域をアメリカ合衆国のみと定めています。現時点では、これらの利用規約 (およびその他ユーザーに提供されている規約、ポリシー、ガイドラインなど) は英語のみで提供されています。
+Terms of Service Last Modified: 2014-01-27 Als US-Unternehmen unterliegt Tumblr ausschließlich dem amerikanischen Recht und der US-Gesetzgebung. Darum sind unsere Nutzungsbedingungen (und alle anderen Bedingungen und Richtlinien) vorerst nur auf Englisch verfügbar.
 
 Hello! Welcome to Tumblr’s Terms of Service. Please read this carefully before using our site, services, or products. This is a contract between you and Tumblr. We've also included several annotations that aren't a part of the contract itself, but are intended to emphasize key sections and help you follow the text. We’ve tried to be fair and straightforward. Please feel free to contact us if you have any questions or suggestions!
 
