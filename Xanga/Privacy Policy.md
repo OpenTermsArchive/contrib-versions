@@ -8,27 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Model Baju Wanita Terbaru
-    *   by herisetiyawan
-    *   2 days ago
-    *   in Getting Started
-    *   0 votes
-    *   0
 *   Can I get my blog back?
     *   by punkrockangel734
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Still missing old blog
     *   by junnnglecat
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Still missing old blog
     *   by junnnglecat
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -88,12 +82,18 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Looking for my blog...
     *   by kafai\_9086
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Looking for my blog...
     *   by monosyllabic
+    *   3 weeks ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   lost my blogs
+    *   by hey\_itz\_ck
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
