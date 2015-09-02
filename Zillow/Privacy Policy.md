@@ -9,31 +9,34 @@ Or try a newer browser:
 *   ·
 *   Firefox
 
-Homepage Homes
+Homepage Buy
 
 *   Homes for sale
     *   *   Homes for sale
-        *   For sale by owner
         *   Foreclosures
+        *   For sale by owner
         *   Open houses
     *   *   New construction
         *   Coming soon
         *   Recent home sales
         *   All homes
-*   Post a home for sale
-    *   *   For sale by owner
-        *   For sale by agent
-        *   Coming Soon
-        *   Make Me Move
+*   Resources
+    *   *   Buyer's guide
+        *   Foreclosure center
+        *   Real estate app
+        *   Find a buyer's agent
 
-Rentals
+Rent
 
 *   Rentals
     *   *   Apartments for rent
         *   Houses for rent
         *   Pet friendly rentals
-    *   *   All rental listings
-        *   Rent affordability calculator
+        *   All rental listings
+*   Resources
+    *   *   Rent affordability calculator
+        *   Renter's guide
+        *   Rentals app
 *   Create a renter profile
     *   *   Capture the attention of property managers.
             
@@ -42,6 +45,18 @@ Rentals
     *   *   Post a rental listing on the Zillow Rental Network, the largest rental network on the Web.
             
         *   List your rental (it's free)
+
+Sell
+
+*   Selling tools
+    *   *   How much is my home worth?
+        *   Home values
+        *   Find a seller's agent
+*   Post a home for sale
+    *   *   For sale by agent
+        *   For sale by owner
+        *   Coming soon
+        *   Make me move
 
 Mortgages
 
@@ -89,44 +104,29 @@ Advice
 *   Zillow questions
     *   *   Ask the forum about using Zillow
 
-Local
-
-*   Local
-    *   *   Home values
-
 Home design
 
-*   Explore spaces
-    *   *   All spaces
+*   Find design ideas
+    *   *   Kitchens
         *   Bathrooms
         *   Bedrooms
     *   *   Dining rooms
-        *   Entryways
-        *   Landscape Yard
-    *   *   Great rooms
-        *   Home offices
-        *   Kitchens
-*   Filter by styles
+        *   Living rooms
+        *   See all spaces
+*   Popular styles
     *   *   Contemporary
         *   Traditional
         *   Modern
-*   Filter by cost
-    *   *   Budget
-        *   Mid-range
-        *   Luxury
+*   Find a pro
+    *   *   Home improvement pros
 
 More
 
-*   Guides &. help
-    *   *   Foreclosure center
-        *   Buyer's guide
-        *   Renter's guide
-        *   Zillow Help Center
 *   Blogs
     *   *   Zillow blog
         *   Zillow engineering blog
 *   Partners
-    *   *   Zillow Affiliates
+    *   *   Zillow affiliates
         *   Brokers and Zillow
         *   MLS and Zillow
         *   Widgets and data
@@ -134,7 +134,7 @@ More
     *   *   Rental advertising
         *   Zillow research
         *   Zillow visuals
-        *   Zillow mobile apps
+        *   Zillow help center
 
 Sign in or Join Advertise
 
@@ -170,7 +170,7 @@ When you use the Services, we collect a variety of information.
     
     • **Cookies and Web beacons**. Cookies are bits of electronic information that can be transferred to your computer or other electronic device to uniquely identify your browser. When you use the Services, we may place one or more cookies on your computer or other electronic device.  We may use cookies to connect your activity on the Services with other information we store about you in your account profile or your prior interactions on the Services to, for example, store your preferences. The use of cookies helps us improve the quality of the Services to you, by identifying information which is most interesting to you, tracking trends, measuring the effectiveness of advertising, or storing information you may want to retrieve on a regular basis, such as your favorite homes. At any time, you may adjust settings on your browser to refuse cookies according to the instructions related to your browser. However, if you choose to disable cookies, many of the free features and Services will not operate properly. Also, the pages on the Services may include Web beacons or pixels, which are electronic files to count users who have visited that page, to track activity over time and across different Web sites, to identify certain cookies on the computer or other electronic device accessing that page, or to collect other related information, and this information may be associated with your unique browser, device identifier, or Internet Protocol address. We may, for example, implement a pixel on the pages of the Services where you view a certain advertisement so that we can track whether you visit a Web site associated with that advertisement at a later time.  
     
-*   **Third-party Cookies and Web beacons.** We work with service providers and advertising networks to track and manage cookie information and your activities while you're using the Services and your online activities over time and across different websites. For example, third-parties may use cookies to deliver advertisements to you based on your visit to the Services. For additional information, please refer to the section below entitled, "Behavioral Advertising." You may opt-out of cookie tracking and analysis from any of these service providers and advertising networks by Opting Out of Collection of Information, which is explained further below. 
+*   **Third-party Cookies and Web beacons.** We work with service providers and advertising networks to track and manage cookie information and your activities while you're using the Services and your online activities over time and across different websites and devices. For example, third-parties may use cookies to deliver advertisements to you based on your visit to the Services. For additional information, please refer to the section below entitled, "Behavioral Advertising." You may opt-out of cookie tracking and analysis from any of these service providers and advertising networks by Opting Out of Collection of Information, which is explained further below. 
     
      Some pages of the Services may use third-party Web beacons from Yahoo! In addition to our use of the data to analyze visitor activity on the Services, Yahoo! may use anonymous information about your visit in order to improve its products and services and to provide advertisements about goods and services that may be of interest to you.
     
@@ -260,7 +260,7 @@ If you have any questions about this privacy statement, or the privacy practices
 
 Please note that this policy may be amended from time to time. You should check back for the most current version before relying on any of the provisions in this privacy policy. By using the Services, you agree to the terms of this Privacy Policy.
 
-_— Updated March 2015_
+_— Updated September 2015_
 
 *   About
 *   Zestimates
