@@ -10,19 +10,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Can I get my blog back?
     *   by punkrockangel734
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Still missing old blog
     *   by junnnglecat
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Still missing old blog
     *   by junnnglecat
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
