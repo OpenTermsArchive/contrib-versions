@@ -8,6 +8,18 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Lost everything
+    *   by lXlCorkylXl
+    *   2 weeks ago
+    *   in Data Migration
+    *   0 votes
+    *   4 (last comment by h0P3L35S120MaNt1C 6 hours ago)
+*   My blog has gone
+    *   by kinwing921231
+    *   1 year ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by Icahbanjarmasin 12 hours ago)
 *   Can I get my blog back?
     *   by punkrockangel734
     *   1 week ago
@@ -50,33 +62,27 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   Lost everything
-    *   by lXlCorkylXl
+*   How can I get my xanga back??
+    *   by loveyou\_noreason
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by Gustava 1 week ago)
-*   How can I get my xanga back??
-    *   by loveyou\_noreason
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
     *   0
 *   How can I get my xanga back??
     *   by loveyou\_noreason
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I lost my xanga
     *   by mies
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I lost my xanga
     *   by mies
-    *   1 week ago
+    *   2 weeks ago
     *   in Themes
     *   0 votes
     *   0
@@ -88,12 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Looking for my blog...
     *   by monosyllabic
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   lost my blogs
-    *   by hey\_itz\_ck
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
