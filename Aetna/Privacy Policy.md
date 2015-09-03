@@ -98,9 +98,10 @@ For Small Businesses
 
 Helpful Links
 
-*   Find a Doctor or Hospital
 *   Manage Your Plan
 *   Get a Report
+*   Find a Doctor or Hospital
+*   Regional Sales Contact Tool
 
 *   Log In
 *   Contact
