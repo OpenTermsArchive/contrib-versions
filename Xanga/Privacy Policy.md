@@ -8,18 +8,36 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   I can't find all of the previous posts
+    *   by sophie\_yan
+    *   2 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   How can I download my xanga posts?
+    *   by shanbg
+    *   7 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Deleting account
+    *   \[Resolved\] by ANYIDEAS
+    *   1 year ago
+    *   in Usernames
+    *   0 votes
+    *   5 (last comment by revelife\_Jeff91199 11 hours ago)
 *   Lost everything
     *   by lXlCorkylXl
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by h0P3L35S120MaNt1C 6 hours ago)
+    *   4 (last comment by h0P3L35S120MaNt1C 1 day ago)
 *   My blog has gone
     *   by kinwing921231
-    *   1 year ago
+    *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Icahbanjarmasin 12 hours ago)
+    *   1 (last comment by Icahbanjarmasin 1 day ago)
 *   Can I get my blog back?
     *   by punkrockangel734
     *   1 week ago
@@ -58,7 +76,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   missing entries in archive
     *   by angelle
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -77,24 +95,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 *   I lost my xanga
     *   by mies
     *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   I lost my xanga
-    *   by mies
-    *   2 weeks ago
-    *   in Themes
-    *   0 votes
-    *   0
-*   Looking for my blog...
-    *   by kafai\_9086
-    *   3 weeks ago
-    *   in Adding &. Editing Entries
-    *   0 votes
-    *   0
-*   Looking for my blog...
-    *   by monosyllabic
-    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
