@@ -265,8 +265,6 @@ HOW TO CONTACT US
 *   If you have a technical or general support question, please visit http://support.microsoft.com/ to learn more about Microsoft Support offerings.
 *   If you have a general privacy question or a question for the Chief Privacy Officer of Microsoft or would like to request access to your personal information, please contact us by using our Web form. By mail: Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052 USA By Phone: +1- 425-882-8080 Microsoft Ireland Operations Limited is our data protection representative for the European Economic Area and Switzerland. The data protection officer of Microsoft Ireland Operations Limited can be reached at the following address: Microsoft Ireland Operations, Ltd. Attn: Data Protection Carmenhall Road Sandyford, Dublin 18, Ireland To find the Microsoft subsidiary in your country or region, see http://www.microsoft.com/worldwide/.
     
-*   If you have a technical or general support question, please visit http://support.microsoft.com/ to learn more about Microsoft Support offerings.
-    
 *   If you have a general privacy question or a question for the Chief Privacy Officer of Microsoft or want to request access to your personal information, please contact us by using our Web form.
     *   By mail: Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052 USA
     *   By Phone: 425-882-8080
