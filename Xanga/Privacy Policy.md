@@ -8,48 +8,54 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   2008 Xanga Page Lost
+    *   by nGoChOa
+    *   8 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Can I get my blog back?
     *   by punkrockangel734
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   My blog has gone
     *   by kinwing921231
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   Lost everything
     *   by lXlCorkylXl
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   5 (last comment by eugenia 1 day ago)
+    *   5 (last comment by eugenia 2 days ago)
 *   How can I download my xanga posts?
     *   by shanbg
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   I can't find all of the previous posts
     *   by sophie\_yan
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 2 days ago)
+*   how can i get my old posts back?
+    *   by jovial24
     *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
-*   how can i get my old posts back?
-    *   by jovial24
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   Deleting account
     *   \[Resolved\] by ANYIDEAS
     *   1 year ago
     *   in Usernames
     *   0 votes
-    *   5 (last comment by revelife\_Jeff91199 2 days ago)
+    *   5 (last comment by revelife\_Jeff91199 3 days ago)
 *   Still missing old blog
     *   by junnnglecat
     *   1 week ago
@@ -64,30 +70,24 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   how to upgrade to xanga 2.0
     *   by SHAN\_329
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   how to upgrade to xanga 2.0
     *   by SHAN\_329
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   how to upgrade to xanga 2.0
     *   by SHAN\_329
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   missing entries in archive
     *   by angelle
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   How can I get my xanga back??
-    *   by loveyou\_noreason
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
