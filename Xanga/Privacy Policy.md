@@ -8,54 +8,60 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   2008 Xanga Page Lost
-    *   by nGoChOa
-    *   2 days ago
+*   Any progress in retrieving lost blogs
+    *   by Gustava
+    *   3 months ago
     *   in Data Migration
     *   0 votes
-    *   0
+    *   2 (last comment by eugenia 11 hours ago)
+*   2008 Xanga Page Lost
+    *   by nGoChOa
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 11 hours ago)
 *   Can I get my blog back?
     *   by punkrockangel734
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
+    *   1 (last comment by eugenia 5 days ago)
 *   My blog has gone
     *   by kinwing921231
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
+    *   1 (last comment by eugenia 5 days ago)
 *   Lost everything
     *   by lXlCorkylXl
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   5 (last comment by eugenia 4 days ago)
+    *   5 (last comment by eugenia 5 days ago)
 *   How can I download my xanga posts?
     *   by shanbg
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
+    *   1 (last comment by eugenia 5 days ago)
 *   I can't find all of the previous posts
     *   by sophie\_yan
+    *   6 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 5 days ago)
+*   how can i get my old posts back?
+    *   by jovial24
     *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
-*   how can i get my old posts back?
-    *   by jovial24
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
+    *   1 (last comment by eugenia 5 days ago)
 *   Deleting account
     *   \[Resolved\] by ANYIDEAS
     *   1 year ago
     *   in Usernames
     *   0 votes
-    *   5 (last comment by revelife\_Jeff91199 5 days ago)
+    *   5 (last comment by revelife\_Jeff91199 6 days ago)
 *   Still missing old blog
     *   by junnnglecat
     *   2 weeks ago
@@ -88,12 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   missing entries in archive
     *   by angelle
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   How can I get my xanga back??
-    *   by loveyou\_noreason
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
