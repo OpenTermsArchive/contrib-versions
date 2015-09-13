@@ -8,18 +8,24 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Trying To Access Old Xanga Sites/Groups
+    *   by noxcat
+    *   11 hours ago
+    *   in Miscellaenous
+    *   0 votes
+    *   0
 *   Any progress in retrieving lost blogs
     *   by Gustava
     *   3 months ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by rabbitmary 1 day ago)
+    *   3 (last comment by rabbitmary 2 days ago)
 *   2008 Xanga Page Lost
     *   by nGoChOa
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Can I get my blog back?
     *   by punkrockangel734
     *   2 weeks ago
@@ -34,7 +40,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by eugenia 1 week ago)
 *   Lost everything
     *   by lXlCorkylXl
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   5 (last comment by eugenia 1 week ago)
@@ -89,12 +95,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 *   how to upgrade to xanga 2.0
     *   by SHAN\_329
     *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   missing entries in archive
-    *   by angelle
-    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
