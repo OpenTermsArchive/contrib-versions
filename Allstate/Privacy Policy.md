@@ -451,4 +451,6 @@ Use My Current Location City, State
 Denver, CO
 
 Please Wait...Updating Location...  
-It's taking a bit longer than expected. Your update should be done soon.
+It's taking a bit longer than expected. Your update should be done soon. This feature in not currently available.  
+Please try again later.  
+ECC Monitor: OK
