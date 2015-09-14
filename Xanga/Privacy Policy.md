@@ -8,9 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   How Do I Renew My Expired Subscription?
+    *   by MinutemanAD
+    *   21 hours ago
+    *   in Premium
+    *   0 votes
+    *   0
+*   Would Like To Renew Blog Subscription
+    *   by Applehead7
+    *   2 months ago
+    *   in Premium
+    *   0 votes
+    *   1 (last comment by MinutemanAD 22 hours ago)
 *   Trying To Access Old Xanga Sites/Groups
     *   by noxcat
-    *   11 hours ago
+    *   1 day ago
     *   in Miscellaenous
     *   0 votes
     *   0
@@ -19,13 +31,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 months ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by rabbitmary 2 days ago)
+    *   3 (last comment by rabbitmary 3 days ago)
 *   2008 Xanga Page Lost
     *   by nGoChOa
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   Can I get my blog back?
     *   by punkrockangel734
     *   2 weeks ago
@@ -82,19 +94,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   how to upgrade to xanga 2.0
     *   by SHAN\_329
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   how to upgrade to xanga 2.0
-    *   by SHAN\_329
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   how to upgrade to xanga 2.0
-    *   by SHAN\_329
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
