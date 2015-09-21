@@ -10,61 +10,61 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Old post recovery?
     *   by uonlyseethrume
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by B\_Eletters 1 day ago)
+    *   2 (last comment by B\_Eletters 2 days ago)
 *   blog
     *   by beachbabi17
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   blog
     *   by beachbabi17
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Missing Blog
     *   by YOU2theMURDERscene
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Missing blog
     *   by Lord\_Wu
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by B\_Eletters 3 days ago)
+    *   2 (last comment by B\_Eletters 4 days ago)
 *   how do i get my blog back?
     *   by p\_for\_polly
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I cannot see my blog site
     *   by sinyi1113
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How Do I Renew My Expired Subscription?
     *   \[Resolved\] by MinutemanAD
-    *   6 days ago
+    *   1 week ago
     *   in Premium
     *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   1 (last comment by eugenia 6 days ago)
 *   Old posts lost forever???
     *   by B\_Eletters
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Cannot Upload Xanga Posts
     *   by cslova53
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -73,7 +73,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 months ago
     *   in Premium
     *   0 votes
-    *   1 (last comment by MinutemanAD 6 days ago)
+    *   1 (last comment by MinutemanAD 1 week ago)
 *   Trying To Access Old Xanga Sites/Groups
     *   by noxcat
     *   1 week ago
@@ -88,7 +88,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 (last comment by rabbitmary 1 week ago)
 *   2008 Xanga Page Lost
     *   by nGoChOa
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by eugenia 1 week ago)
