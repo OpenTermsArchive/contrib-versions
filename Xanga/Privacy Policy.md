@@ -8,45 +8,51 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Can I still pay to upgrade my xanga account?
+    *   by vivian1113
+    *   12 hours ago
+    *   in Getting Started
+    *   0 votes
+    *   0
 *   Old post recovery?
     *   by uonlyseethrume
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by B\_Eletters 2 days ago)
+    *   2 (last comment by B\_Eletters 3 days ago)
 *   blog
     *   by beachbabi17
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   blog
     *   by beachbabi17
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Missing Blog
     *   by YOU2theMURDERscene
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Missing blog
     *   by Lord\_Wu
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by B\_Eletters 4 days ago)
+    *   2 (last comment by B\_Eletters 5 days ago)
 *   how do i get my blog back?
     *   by p\_for\_polly
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I cannot see my blog site
     *   by sinyi1113
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -55,16 +61,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Premium
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   Old posts lost forever???
     *   by B\_Eletters
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Cannot Upload Xanga Posts
     *   by cslova53
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -92,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   1 (last comment by eugenia 1 week ago)
-*   Can I get my blog back?
-    *   by punkrockangel734
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 2 weeks ago)
 
 1 2 3 ... 161 Next
 
