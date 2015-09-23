@@ -9,32 +9,35 @@ Or try a newer browser:
 *   ·
 *   Firefox
 
-Homepage Homes
+Homepage Buy
 
 *   Homes for sale
     *   *   Homes for sale
-        *   For sale by owner
         *   Foreclosures
+        *   For sale by owner
         *   Open houses
     *   *   New construction
         *   Coming soon
         *   Recent home sales
         *   All homes
-*   Post a home for sale
-    *   *   For sale by owner
-        *   For sale by agent
-        *   Coming Soon
-        *   Make Me Move
+*   Resources
+    *   *   Buyer's guide
+        *   Foreclosure center
+        *   Real estate app
+        *   Find a buyer's agent
 
-Rentals
+Rent
 
 *   Rentals
     *   *   Apartments for rent
         *   Houses for rent
         *   Pet friendly rentals
+        *   All rental listings
         *   All rental buildings
-    *   *   All rental listings
-        *   Rent affordability calculator
+*   Resources
+    *   *   Rent affordability calculator
+        *   Renter's guide
+        *   Rentals app
 *   Create a renter profile
     *   *   Capture the attention of property managers.
             
@@ -43,6 +46,18 @@ Rentals
     *   *   Post a rental listing on the Zillow Rental Network, the largest rental network on the Web.
             
         *   List your rental (it's free)
+
+Sell
+
+*   Selling tools
+    *   *   How much is my home worth?
+        *   Home values
+        *   Find a seller's agent
+*   Post a home for sale
+    *   *   For sale by agent
+        *   For sale by owner
+        *   Coming soon
+        *   Make me move
 
 Mortgages
 
@@ -58,7 +73,7 @@ Mortgages
         *   Affordability calculator
         *   Refinance calculator
 *   Resources
-    *   *   Mortgage education center
+    *   *   Mortgage learning center
         *   Mortgages app
 
 Agent finder
@@ -90,44 +105,29 @@ Advice
 *   Zillow questions
     *   *   Ask the forum about using Zillow
 
-Local
-
-*   Local
-    *   *   Home values
-
 Home design
 
-*   Explore spaces
-    *   *   All spaces
+*   Find design ideas
+    *   *   Kitchens
         *   Bathrooms
         *   Bedrooms
     *   *   Dining rooms
-        *   Entryways
-        *   Landscape Yard
-    *   *   Great rooms
-        *   Home offices
-        *   Kitchens
-*   Filter by styles
+        *   Living rooms
+        *   See all spaces
+*   Popular styles
     *   *   Contemporary
         *   Traditional
         *   Modern
-*   Filter by cost
-    *   *   Budget
-        *   Mid-range
-        *   Luxury
+*   Find a pro
+    *   *   Home improvement pros
 
 More
 
-*   Guides &. help
-    *   *   Foreclosure center
-        *   Buyer's guide
-        *   Renter's guide
-        *   Zillow Help Center
 *   Blogs
     *   *   Zillow blog
         *   Zillow engineering blog
 *   Partners
-    *   *   Zillow Affiliates
+    *   *   Zillow affiliates
         *   Brokers and Zillow
         *   MLS and Zillow
         *   Widgets and data
@@ -135,7 +135,7 @@ More
     *   *   Rental advertising
         *   Zillow research
         *   Zillow visuals
-        *   Zillow mobile apps
+        *   Zillow help center
 
 Sign in or Join Advertise
 
