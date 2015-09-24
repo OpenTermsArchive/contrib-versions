@@ -192,7 +192,7 @@ Free APP: Available on the App Store Available on Android Download TradeManager:
 Alibaba.com Site: International - Español - Português - Deutsch - Français - Italiano - Pусский - 한국어 - 日本語 - اللغة العربية - ภาษาไทย - Türk - Nederlands - tiếng Việt - Indonesian - עברית
 
 Alibaba Group | Taobao Marketplace | Tmall.com | Juhuasuan | AliExpress | Alibaba.com | 1688.com | Alimama | Alitrip  
-Alibaba Cloud Computing | YunOS | AliTelecom | HiChina | Autonavi | UCWeb | Umeng | Kanbox | Xiami | TTPod | Laiwang | DingTalk | 11 Main | Alipay
+Alibaba Cloud Computing | YunOS | AliTelecom | HiChina | Autonavi | UCWeb | Umeng | Xiami | TTPod | Laiwang | DingTalk | Alipay
 
 Browse Alphabetically: Showroom | Country Search | Manufacturers | Suppliers | Promotion | Wholesale
 
@@ -200,4 +200,4 @@ Contact Us - Product Listing Policy - Intellectual Property Policy and Infringem
 
 © 1999-2015 Alibaba.com. All rights reserved.
 
-icburule010100097058
+icburule010177021069
