@@ -10,31 +10,31 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Can I still pay to upgrade my xanga account?
     *   by vivian1113
-    *   2 days ago
+    *   3 days ago
     *   in Getting Started
     *   0 votes
     *   0
 *   Old post recovery?
     *   by uonlyseethrume
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by B\_Eletters 5 days ago)
+    *   2 (last comment by B\_Eletters 6 days ago)
 *   blog
     *   by beachbabi17
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   blog
     *   by beachbabi17
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Missing Blog
     *   by YOU2theMURDERscene
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -91,7 +91,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 months ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by rabbitmary 1 week ago)
+    *   3 (last comment by rabbitmary 2 weeks ago)
 *   2008 Xanga Page Lost
     *   by nGoChOa
     *   2 weeks ago
