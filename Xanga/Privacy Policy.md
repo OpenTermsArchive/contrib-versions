@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Can I still pay to upgrade my xanga account?
     *   by vivian1113
-    *   3 days ago
+    *   4 days ago
     *   in Getting Started
     *   0 votes
     *   0
@@ -19,7 +19,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by B\_Eletters 6 days ago)
+    *   2 (last comment by B\_Eletters 1 week ago)
 *   blog
     *   by beachbabi17
     *   1 week ago
