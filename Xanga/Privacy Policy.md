@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Can I still pay to upgrade my xanga account?
     *   by vivian1113
-    *   5 days ago
+    *   6 days ago
     *   in Getting Started
     *   0 votes
     *   0
@@ -58,7 +58,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   How Do I Renew My Expired Subscription?
     *   \[Resolved\] by MinutemanAD
-    *   1 week ago
+    *   2 weeks ago
     *   in Premium
     *   0 votes
     *   1 (last comment by eugenia 1 week ago)
@@ -79,7 +79,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 months ago
     *   in Premium
     *   0 votes
-    *   1 (last comment by MinutemanAD 1 week ago)
+    *   1 (last comment by MinutemanAD 2 weeks ago)
 *   Trying To Access Old Xanga Sites/Groups
     *   by noxcat
     *   2 weeks ago
@@ -88,13 +88,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Any progress in retrieving lost blogs
     *   by Gustava
-    *   3 months ago
+    *   4 months ago
     *   in Data Migration
     *   0 votes
     *   3 (last comment by rabbitmary 2 weeks ago)
 *   2008 Xanga Page Lost
     *   by nGoChOa
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by eugenia 2 weeks ago)
