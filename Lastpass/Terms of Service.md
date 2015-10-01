@@ -50,11 +50,15 @@ Indemnification.
 
 You agree to indemnify and hold harmless LastPass, its contractors, and its licensors, and their respective directors, officers, employees and agents from and against any and all claims and expenses, including attorneys’ fees, arising out of your use of the Website, including but not limited to out of your violation this Agreement.
 
-Use of LastPass by Kids
+Use of LastPass by Kids.
 
 LastPass can be used by kids, however LastPass is not currently developed for children specifically and any use by children should be done with the guidance, supervision and consent of their parents, guardians and/or authorized school officials. It is also the parents’ or guardian’s responsibility to understand our Terms and our Privacy Policy.
 
 If you are an educational organization or an educator like a school, district or teacher in the United States and want your students who to create LastPass accounts, including any use of a LastPass Enterprise account for the schools or a group of students at the school, you agree that you are responsible for complying with the U.S. Children’s Online Privacy Protection Act (“COPPA”) and, to the extent applicable, The Family Educational Rights and Privacy Act (“FERPA”). Students’ parents/guardians must be notified of the use of LastPass, of the personally identifiable information that LastPass will collect, and of the LastPass Terms and Privacy Policy and you must obtain parental/guardian consent before your students establish accounts or use the Service. Copies of any communication should be kept for LastPass’ review if needed. For more information on complying with COPPA, see the Federal Trade Commission’s website at http://www.ftc.gov/privacy/coppafaqs.shtm. If you are located outside of the United States, we will rely upon you to obtain any required consent or approval from the parent or guardian of any student covered by similar laws and, as a condition to your and your students’ use of the Service, you agree that you will be responsible for complying with such laws.
+
+Third Party Software.
+
+Certain portions of LastPass contain technology, software, and data owned by third parties and licensed to LastPass for use and redistribution under open-source and commercial licenses and in accordance to their terms. A list of disclosures and disclaimers in connection with LastPass' incorporation of third party licensed software into its products may be found at https://lastpass.com/docs/licenses.php. Notwithstanding any of the terms and conditions of your license agreement with LastPass, you agree to the terms and conditions of these third party licenses. The list of third party licenses may not be complete and may be updated from time to time. LastPass reserves the right, at its sole discretion, to modify, replace, or add to any part of this list. It is your responsibility to check the list periodically for changes. Your continued use of or access to the Website following the posting of any changes to the list constitutes acceptance of those changes.
 
 Miscellaneous.
 
