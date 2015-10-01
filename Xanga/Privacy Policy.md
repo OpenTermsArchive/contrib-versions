@@ -8,9 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Can I get my blog back?
+    *   by sum\_0912
+    *   19 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by eugenia 5 minutes ago)
+*   Can I get my blog back?
+    *   by sum\_0912
+    *   19 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   my blog
     *   by taskete\_kudasai
-    *   19 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,25 +31,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   blog
     *   \[Resolved\] by beachbabi17
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   Old post recovery?
     *   by uonlyseethrume
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by eugenia 1 day ago)
+    *   3 (last comment by eugenia 2 days ago)
 *   Can I still pay to upgrade my xanga account?
     *   \[Resolved\] by vivian1113
     *   1 week ago
     *   in Getting Started
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   blog
     *   by beachbabi17
     *   1 week ago
@@ -52,7 +64,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   how do i get my blog back?
     *   by p\_for\_polly
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -86,18 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Miscellaenous
     *   0 votes
     *   0
-*   Any progress in retrieving lost blogs
-    *   by Gustava
-    *   4 months ago
-    *   in Data Migration
-    *   0 votes
-    *   3 (last comment by rabbitmary 2 weeks ago)
-*   2008 Xanga Page Lost
-    *   by nGoChOa
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 2 weeks ago)
 
 1 2 3 ... 161 Next
 
