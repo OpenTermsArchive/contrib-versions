@@ -8,21 +8,27 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   !! Renew premium account
+    *   by KeNeLi
+    *   46 minutes ago
+    *   in Premium
+    *   0 votes
+    *   0
 *   Can I get my blog back?
     *   by sum\_0912
-    *   19 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 5 minutes ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   Can I get my blog back?
     *   by sum\_0912
-    *   19 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   my blog
     *   by taskete\_kudasai
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -31,34 +37,34 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   blog
     *   \[Resolved\] by beachbabi17
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Old post recovery?
     *   by uonlyseethrume
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by eugenia 2 days ago)
+    *   3 (last comment by eugenia 3 days ago)
 *   Can I still pay to upgrade my xanga account?
     *   \[Resolved\] by vivian1113
     *   1 week ago
     *   in Getting Started
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   blog
     *   by beachbabi17
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Missing Blog
     *   by YOU2theMURDERscene
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -92,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Premium
     *   0 votes
     *   1 (last comment by MinutemanAD 2 weeks ago)
-*   Trying To Access Old Xanga Sites/Groups
-    *   by noxcat
-    *   2 weeks ago
-    *   in Miscellaenous
-    *   0 votes
-    *   0
 
 1 2 3 ... 161 Next
 
