@@ -10,25 +10,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   !! Renew premium account
     *   by KeNeLi
-    *   46 minutes ago
+    *   1 day ago
     *   in Premium
     *   0 votes
-    *   0
+    *   1 (last comment by eugenia 7 hours ago)
 *   Can I get my blog back?
     *   by sum\_0912
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   Can I get my blog back?
     *   by sum\_0912
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   my blog
     *   by taskete\_kudasai
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -37,25 +37,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   blog
     *   \[Resolved\] by beachbabi17
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   Old post recovery?
     *   by uonlyseethrume
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by eugenia 3 days ago)
+    *   3 (last comment by eugenia 4 days ago)
 *   Can I still pay to upgrade my xanga account?
     *   \[Resolved\] by vivian1113
     *   1 week ago
     *   in Getting Started
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   blog
     *   by beachbabi17
     *   2 weeks ago
