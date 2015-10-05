@@ -2,7 +2,7 @@ Verizon is Committed to Protecting Your Privacy
 
 At Verizon, we are committed to maintaining strong and meaningful privacy protections for customers. Our privacy policy is designed to inform you about the information we collect, how we use it, and your options about certain uses of information. Key elements of our full privacy policy are summarized below.
 
-Verizon's privacy policy applies to website visitors and customers of the Verizon family of companies in the United States. Additional privacy practices that apply to FiOS, Verzion Wireless, AOL and Verizon Vehicle services are also described in the full policy. Supplemental privacy policies for AOL companies and the services they provide are described in the AOL privacy policy. In the event of a conflict between the Verizon privacy policy and the AOL privacy policy, the AOL policy will control when you are on an AOL site or using an AOL product or service.  
+Verizon's privacy policy applies to website visitors and customers of the Verizon family of companies in the United States. Additional privacy practices that apply to FiOS, Verzion Wireless, AOL and hum services are also described in the full policy. Supplemental privacy policies for AOL companies and the services they provide are described in the AOL privacy policy. In the event of a conflict between the Verizon privacy policy and the AOL privacy policy, the AOL policy will control when you are on an AOL site or using an AOL product or service.  
 Read more
 
 Information We Collect and How We Use It
@@ -65,12 +65,12 @@ Your Choices
     
 *   Relevant Advertising:
     
-    Customers may opt-out of participating in relevant advertising programs on their Internet access services or their FiOS television service.  
+    Customers may opt-out of participating in relevant online, mobile and tv advertising programs.  
     Read more
     
-*   Business and Marketing Reports:
+*   Business and Marketing Insights:
     
-    Verizon Wireless customers may opt-out of allowing Verizon Wireless to use their information to create aggregated business and marketing reports.  
+    Verizon Wireless customers may opt-out of allowing Verizon Wireless to use their information to create aggregated business and marketing insights.  
     Read more
     
 *   AOL:
@@ -96,7 +96,7 @@ Verizon Privacy Office
 1300 I Street, NW  
 Suite 400 West  
 Washington, DC 20005  
-Fax: 202-789-1432  
+Fax: 202-289-6781  
 Email: privacyoffice@verizon.com
 
 Accessing and Updating Your Information
@@ -112,6 +112,6 @@ Read more
 Verizon is a licensee of the TRUSTe Privacy Program.  
 Read more
 
-Updated June, 2015
+Updated October, 2015
 
 © 2009, 2011-2015 Verizon. All Rights Reserved.
