@@ -36,6 +36,7 @@ Rent
         *   All rental buildings
 *   Resources
     *   *   Rent affordability calculator
+        *   Rent vs. buy calculator
         *   Renter's guide
         *   Rentals app
 *   Create a renter profile
@@ -63,7 +64,6 @@ Mortgages
 
 *   Shop mortgages
     *   *   Find a lender
-        *   Find a lender
         *   Mortgage rates
 *   Refinance
     *   *   Refinance rates
@@ -88,7 +88,6 @@ Agent finder
     *   *   Agent advertising
         *   Join the Agent Directory
         *   Access agent hub
-    *   *   Agent resource center
 
 Advice
 
@@ -126,6 +125,7 @@ More
 *   Blogs
     *   *   Zillow blog
         *   Zillow engineering blog
+        *   Agent resource center
 *   Partners
     *   *   Zillow affiliates
         *   Brokers and Zillow
