@@ -10,43 +10,43 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Recover old accounts
     *   by notalotafish
-    *   2 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Recover old accounts
     *   by notalotafish
-    *   2 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   !! Renew premium account
     *   by KeNeLi
-    *   4 days ago
+    *   5 days ago
     *   in Premium
     *   0 votes
-    *   1 (last comment by eugenia 7 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   Can I get my blog back?
     *   by sum\_0912
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 7 hours ago)
+    *   1 (last comment by eugenia 1 day ago)
 *   Can I get my blog back?
     *   by sum\_0912
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   1 (last comment by eugenia 6 days ago)
 *   my blog
     *   by taskete\_kudasai
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I cannot see my blog site
     *   by sinyi1113
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by eugenia 1 week ago)
