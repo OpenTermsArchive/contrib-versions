@@ -1,3 +1,7 @@
+Aetna.com no longer supports Internet Explorer 10 or lower versions. Learn more >
+
+Aetna.com no longer supports versions lower than Safari 8. Learn more >
+
 *   Individuals &. Families  
 *   Employers &. Organizations  
 *   Health Care Professionals  
