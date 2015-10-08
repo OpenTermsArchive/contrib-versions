@@ -8,36 +8,42 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Recover old accounts
-    *   by notalotafish
-    *   1 day ago
+*   My previous posts all disappear
+    *   by hung901
+    *   12 hours ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Recover old accounts
     *   by notalotafish
-    *   1 day ago
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Recover old accounts
+    *   by notalotafish
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   !! Renew premium account
     *   by KeNeLi
-    *   5 days ago
+    *   6 days ago
     *   in Premium
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   Can I get my blog back?
     *   by sum\_0912
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   Can I get my blog back?
     *   by sum\_0912
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   my blog
     *   by taskete\_kudasai
     *   1 week ago
@@ -82,7 +88,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   how do i get my blog back?
     *   by p\_for\_polly
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -92,14 +98,8 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Premium
     *   0 votes
     *   1 (last comment by eugenia 3 weeks ago)
-*   Old posts lost forever???
-    *   by B\_Eletters
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
-1 2 3 ... 161 Next
+1 2 3 ... 162 Next
 
 Help Categories
 
