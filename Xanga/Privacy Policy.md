@@ -10,19 +10,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   My previous posts all disappear
     *   by hung901
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Recover old accounts
     *   by notalotafish
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Recover old accounts
     *   by notalotafish
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -31,13 +31,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Premium
     *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   1 (last comment by eugenia 6 days ago)
 *   Can I get my blog back?
     *   by sum\_0912
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 5 days ago)
+    *   1 (last comment by eugenia 6 days ago)
 *   Can I get my blog back?
     *   by sum\_0912
     *   1 week ago
@@ -94,7 +94,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   How Do I Renew My Expired Subscription?
     *   \[Resolved\] by MinutemanAD
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Premium
     *   0 votes
     *   1 (last comment by eugenia 3 weeks ago)
