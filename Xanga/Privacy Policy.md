@@ -10,19 +10,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   My previous posts all disappear
     *   by hung901
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Recover old accounts
     *   by notalotafish
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Recover old accounts
     *   by notalotafish
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -31,13 +31,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Premium
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   Can I get my blog back?
     *   by sum\_0912
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 6 days ago)
+    *   1 (last comment by eugenia 1 week ago)
 *   Can I get my blog back?
     *   by sum\_0912
     *   1 week ago
@@ -55,25 +55,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
+    *   1 (last comment by eugenia 2 weeks ago)
 *   blog
     *   \[Resolved\] by beachbabi17
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
+    *   1 (last comment by eugenia 2 weeks ago)
 *   Old post recovery?
     *   by uonlyseethrume
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by eugenia 1 week ago)
+    *   3 (last comment by eugenia 2 weeks ago)
 *   Can I still pay to upgrade my xanga account?
     *   \[Resolved\] by vivian1113
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Getting Started
     *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
+    *   1 (last comment by eugenia 2 weeks ago)
 *   blog
     *   by beachbabi17
     *   3 weeks ago
@@ -97,7 +97,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 weeks ago
     *   in Premium
     *   0 votes
-    *   1 (last comment by eugenia 3 weeks ago)
+    *   1 (last comment by eugenia 4 weeks ago)
 
 1 2 3 ... 162 Next
 
