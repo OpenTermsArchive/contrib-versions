@@ -1,6 +1,7 @@
 *   Residential
 *   Small Business
 *   Enterprise
+*   Carrier
 
 Search Search Windstream.com Search or Cancel
 
@@ -43,6 +44,7 @@ My Cart (Edit) My Location_:_ n/a
 *   Go To:
 *   Small Business
 *   Enterprise
+*   Carrier
 
 *   Terms and Conditions
     
@@ -294,6 +296,7 @@ My Cart (Edit) My Location_:_ n/a
 *   High-Speed Internet
 *   Digital TV
 *   Phone
+*   Available Services
 *   Electronics
 *   Support
 *   Store Finder
