@@ -8,9 +8,15 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   I want to read my old xanga blog
+    *   \[Resolved\] by ka\_ki907
+    *   1 year ago
+    *   in Personal URLs
+    *   0 votes
+    *   3 (last comment by crystalgypsi 2 hours ago)
 *   My previous posts all disappear
     *   by hung901
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -46,13 +52,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by eugenia 1 week ago)
 *   my blog
     *   by taskete\_kudasai
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I cannot see my blog site
     *   by sinyi1113
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by eugenia 2 weeks ago)
@@ -92,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   How Do I Renew My Expired Subscription?
-    *   \[Resolved\] by MinutemanAD
-    *   4 weeks ago
-    *   in Premium
-    *   0 votes
-    *   1 (last comment by eugenia 4 weeks ago)
 
 1 2 3 ... 162 Next
 
