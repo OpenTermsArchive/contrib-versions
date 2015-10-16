@@ -13,7 +13,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Personal URLs
     *   0 votes
-    *   4 (last comment by chinkylilgirl 15 hours ago)
+    *   4 (last comment by chinkylilgirl 1 day ago)
 *   My previous posts all disappear
     *   by hung901
     *   1 week ago
@@ -34,7 +34,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   !! Renew premium account
     *   by KeNeLi
-    *   1 week ago
+    *   2 weeks ago
     *   in Premium
     *   0 votes
     *   1 (last comment by eugenia 1 week ago)
@@ -58,19 +58,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   I cannot see my blog site
     *   by sinyi1113
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by eugenia 2 weeks ago)
 *   blog
     *   \[Resolved\] by beachbabi17
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by eugenia 2 weeks ago)
 *   Old post recovery?
     *   by uonlyseethrume
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   3 (last comment by eugenia 2 weeks ago)
@@ -82,13 +82,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by eugenia 2 weeks ago)
 *   blog
     *   by beachbabi17
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Missing Blog
     *   by YOU2theMURDERscene
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
