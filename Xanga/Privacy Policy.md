@@ -13,7 +13,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Personal URLs
     *   0 votes
-    *   4 (last comment by chinkylilgirl 1 day ago)
+    *   4 (last comment by chinkylilgirl 2 days ago)
 *   My previous posts all disappear
     *   by hung901
     *   1 week ago
@@ -94,7 +94,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   how do i get my blog back?
     *   by p\_for\_polly
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
