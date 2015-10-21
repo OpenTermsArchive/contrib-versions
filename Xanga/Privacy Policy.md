@@ -8,12 +8,18 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Cannot remember old email address
+    *   by just\_Kill\_The\_Whore
+    *   12 hours ago
+    *   in Passwords &. Sign-In
+    *   0 votes
+    *   0
 *   I want to read my old xanga blog
     *   \[Resolved\] by ka\_ki907
     *   1 year ago
     *   in Personal URLs
     *   0 votes
-    *   5 (last comment by yeeyyeey 1 day ago)
+    *   5 (last comment by yeeyyeey 2 days ago)
 *   My previous posts all disappear
     *   by hung901
     *   1 week ago
@@ -52,7 +58,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by eugenia 2 weeks ago)
 *   my blog
     *   by taskete\_kudasai
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -88,12 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Missing Blog
     *   by YOU2theMURDERscene
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   how do i get my blog back?
-    *   by p\_for\_polly
     *   1 month ago
     *   in Data Migration
     *   0 votes
