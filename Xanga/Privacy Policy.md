@@ -8,9 +8,15 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   How do I migrate to Xanga 2.0?
+    *   by scarletnevermore
+    *   13 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Cannot remember old email address
     *   by just\_Kill\_The\_Whore
-    *   12 hours ago
+    *   1 day ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -19,10 +25,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Personal URLs
     *   0 votes
-    *   5 (last comment by yeeyyeey 2 days ago)
+    *   5 (last comment by yeeyyeey 3 days ago)
 *   My previous posts all disappear
     *   by hung901
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -46,16 +52,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by eugenia 2 weeks ago)
 *   Can I get my blog back?
     *   by sum\_0912
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by eugenia 2 weeks ago)
 *   Can I get my blog back?
     *   by sum\_0912
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 weeks ago)
+    *   1 (last comment by eugenia 3 weeks ago)
 *   my blog
     *   by taskete\_kudasai
     *   3 weeks ago
@@ -82,18 +88,12 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 (last comment by eugenia 3 weeks ago)
 *   Can I still pay to upgrade my xanga account?
     *   \[Resolved\] by vivian1113
-    *   4 weeks ago
+    *   1 month ago
     *   in Getting Started
     *   0 votes
     *   1 (last comment by eugenia 3 weeks ago)
 *   blog
     *   by beachbabi17
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Missing Blog
-    *   by YOU2theMURDERscene
     *   1 month ago
     *   in Data Migration
     *   0 votes
