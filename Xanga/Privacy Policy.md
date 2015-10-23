@@ -10,13 +10,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   How do I migrate to Xanga 2.0?
     *   by scarletnevermore
-    *   13 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Cannot remember old email address
     *   by just\_Kill\_The\_Whore
-    *   1 day ago
+    *   2 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -25,7 +25,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Personal URLs
     *   0 votes
-    *   5 (last comment by yeeyyeey 3 days ago)
+    *   5 (last comment by yeeyyeey 4 days ago)
 *   My previous posts all disappear
     *   by hung901
     *   2 weeks ago
@@ -46,7 +46,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   !! Renew premium account
     *   by KeNeLi
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Premium
     *   0 votes
     *   1 (last comment by eugenia 2 weeks ago)
