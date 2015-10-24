@@ -8,15 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Download archive
+    *   by susan\_jason
+    *   10 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   How do I migrate to Xanga 2.0?
     *   by scarletnevermore
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Cannot remember old email address
     *   by just\_Kill\_The\_Whore
-    *   2 days ago
+    *   3 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -25,7 +31,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Personal URLs
     *   0 votes
-    *   5 (last comment by yeeyyeey 4 days ago)
+    *   5 (last comment by yeeyyeey 5 days ago)
 *   My previous posts all disappear
     *   by hung901
     *   2 weeks ago
@@ -92,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Getting Started
     *   0 votes
     *   1 (last comment by eugenia 3 weeks ago)
-*   blog
-    *   by beachbabi17
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
 1 2 3 ... 162 Next
 
