@@ -8,27 +8,33 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Old Xanga posts!
+    *   by sweetie\_pie\_27
+    *   2 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Download archive
     *   by love\_maxiao
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Download archive
     *   by susan\_jason
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How do I migrate to Xanga 2.0?
     *   by scarletnevermore
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Cannot remember old email address
     *   by just\_Kill\_The\_Whore
-    *   5 days ago
+    *   6 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -46,13 +52,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Recover old accounts
     *   by notalotafish
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Recover old accounts
     *   by notalotafish
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -61,13 +67,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 weeks ago
     *   in Premium
     *   0 votes
-    *   1 (last comment by eugenia 2 weeks ago)
+    *   1 (last comment by eugenia 3 weeks ago)
 *   Can I get my blog back?
     *   by sum\_0912
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 2 weeks ago)
+    *   1 (last comment by eugenia 3 weeks ago)
 *   Can I get my blog back?
     *   by sum\_0912
     *   3 weeks ago
@@ -85,19 +91,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 weeks ago)
+    *   1 (last comment by eugenia 4 weeks ago)
 *   blog
     *   \[Resolved\] by beachbabi17
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by eugenia 3 weeks ago)
-*   Old post recovery?
-    *   by uonlyseethrume
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   3 (last comment by eugenia 3 weeks ago)
+    *   1 (last comment by eugenia 4 weeks ago)
 
 1 2 3 ... 162 Next
 
