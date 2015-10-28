@@ -8,33 +8,39 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Old blog posts
+    *   by Dinosaur\_Darrell
+    *   14 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Old Xanga posts!
     *   by sweetie\_pie\_27
-    *   2 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Download archive
     *   by love\_maxiao
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Download archive
     *   by susan\_jason
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How do I migrate to Xanga 2.0?
     *   by scarletnevermore
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Cannot remember old email address
     *   by just\_Kill\_The\_Whore
-    *   6 days ago
+    *   1 week ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -82,18 +88,12 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by eugenia 3 weeks ago)
 *   my blog
     *   by taskete\_kudasai
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I cannot see my blog site
     *   by sinyi1113
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 4 weeks ago)
-*   blog
-    *   \[Resolved\] by beachbabi17
     *   1 month ago
     *   in Data Migration
     *   0 votes
