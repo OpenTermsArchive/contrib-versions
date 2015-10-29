@@ -8,33 +8,45 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   recover my old account.
+    *   by Fallen\_knight\_fox
+    *   6 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   can i have my xanga blog recover?
+    *   by joeyeung1210
+    *   11 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Old blog posts
     *   by Dinosaur\_Darrell
-    *   14 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Xanga posts!
     *   by sweetie\_pie\_27
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Download archive
     *   by love\_maxiao
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Download archive
     *   by susan\_jason
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How do I migrate to Xanga 2.0?
     *   by scarletnevermore
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -52,7 +64,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 (last comment by yeeyyeey 1 week ago)
 *   My previous posts all disappear
     *   by hung901
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -76,25 +88,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by eugenia 3 weeks ago)
 *   Can I get my blog back?
     *   by sum\_0912
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by eugenia 3 weeks ago)
 *   Can I get my blog back?
     *   by sum\_0912
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by eugenia 3 weeks ago)
-*   my blog
-    *   by taskete\_kudasai
     *   4 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   I cannot see my blog site
-    *   by sinyi1113
-    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by eugenia 4 weeks ago)
