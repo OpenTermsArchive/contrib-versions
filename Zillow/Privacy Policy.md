@@ -137,7 +137,7 @@ More
         *   Zillow visuals
         *   Zillow help center
 
-Sign in or Join Advertise
+Advertise Sign in or Join
 
 *   Terms of Use
 *   Privacy Policy
