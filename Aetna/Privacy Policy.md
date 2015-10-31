@@ -8,53 +8,50 @@ Aetna.com no longer supports versions lower than Safari 8. Learn more >
 *   Producers  
 *   About Us  
 
-Individuals &. Families Why Choose Us  
+Individuals &. Families Shop For  
  
 
-*   Benefits of Joining Aetna
-*   Find the Right Plan
-*   Aetna Navigator®
-*   Find a Doctor
-*   Find a Medication
-*   Health Care Tools &. Apps
-*   Health &. Insurance Resources
-
-Plans &. Services  
- 
-
-*   Health Plans
-*   Pharmacy
-*   Health Insurance Exchange
-*   Medicare Plans
-*   Medicaid Coverage
-*   Dental Insurance
-*   Vision Insurance
-*   Insurance Through Work
+*   Buy Health Insurance
+*   Plans on the Health Insurance Marketplace
+*   Buy Dental Coverage
 *   Student Insurance
 *   International Insurance
+*   Medicare
+*   Medicaid
+*   Benefits of Joining Aetna
+
+Insurance through an Employer
+
+*   Health Insurance Through Work
+*   Dental Insurance Through Work
+*   Vision Insurance
+*   Life Insurance
+*   Disability Insurance
 *   Government &. Labor Insurance
 *   Supplemental Insurance
 
-Healthier Living Resources
+Information &. Resources
 
+*   Pharmacy
+*   Find a Medication
+*   Find a Doctor
+*   Using Your Aetna Benefits
 *   Healthy Living Tips
 *   Women’s Health
 *   Dental Health
 *   Medication Safety &. Vaccines
 *   Mental &. Emotional Health
+*   Success Stories
 
-Helpful Links for Members  
+For Members  
  
 
-*   Plans &. Benefits
 *   Rights &. Resources
-*   Managing Your Costs
 *   Find a Form
-*   Pharmacy &. Prescription Drugs
 *   Clinical Policy Bulletins
 *   Pay Premium
 
-*   Search DocFind®
+*   Find a Doctor
 *   View Coverage
 *   Check a Claim
 *   Get an ID Card
@@ -63,7 +60,7 @@ Helpful Links for Members
 *   Log In
 *   Register
 *   Contact
-*   Shop
+*   Shop For Plans
 *   Find a Doctor
 *   Employers &. Organizations
 *   Health Care Professionals
@@ -401,4 +398,12 @@ You are now leaving the Aetna website
 
 Links to various non-Aetna sites are provided for your convenience only. Aetna Inc. and its subsidiary companies are not responsible or liable for the content, accuracy, or privacy practices of linked sites, or for products or services described on these sites.
 
-Continue >. This JavaScript enables OnlineOpinion, a method for collecting secure feedback data.
+Continue >. Member Log In
+
+Do you have Aetna insurance through an employer or are you a Medicare member? Yes No
+
+Continue My ZIP code is: Select your county
+
+Please enter a valid ZIP code
+
+Continue Please enter all of your information This JavaScript enables OnlineOpinion, a method for collecting secure feedback data.
