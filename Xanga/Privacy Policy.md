@@ -8,98 +8,98 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   How can I get my old blogs back?
+    *   by hungkityee
+    *   1 hour ago
+    *   in Emails
+    *   0 votes
+    *   0
+*   blog didnt appear...
+    *   by UK\_A
+    *   11 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   how do i get my blog back?
+    *   by sarahfung
+    *   12 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   All Blogs lost
     *   by isaacfeetabll
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   My blog disappear
     *   by isaacfeetabll
-    *   2 days ago
+    *   3 days ago
     *   in Themes
     *   0 votes
     *   0
 *   My blog disappear
     *   by isaacfeetabll
-    *   2 days ago
+    *   3 days ago
     *   in Themes
     *   0 votes
     *   0
 *   My blog disappear
     *   by isaacfeetabll
-    *   2 days ago
+    *   3 days ago
     *   in Themes
     *   0 votes
     *   0
 *   My blog disappear
     *   by isaacfeetabll
-    *   2 days ago
+    *   3 days ago
     *   in Themes
     *   0 votes
     *   0
 *   My blog disappear
     *   by isaacfeetabll
-    *   2 days ago
+    *   3 days ago
     *   in Themes
     *   0 votes
     *   0
 *   My blog disappear
     *   by isaacfeetabll
-    *   2 days ago
+    *   3 days ago
     *   in Themes
     *   0 votes
     *   0
 *   My blog disappear
     *   by isaacfeetabll
-    *   2 days ago
+    *   3 days ago
     *   in Themes
     *   0 votes
     *   0
 *   My blog disappear
     *   by isaacfeetabll
-    *   2 days ago
+    *   3 days ago
     *   in Themes
     *   0 votes
     *   0
 *   recover my old account.
     *   by Fallen\_knight\_fox
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   can i have my xanga blog recover?
     *   by joeyeung1210
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old blog posts
     *   by Dinosaur\_Darrell
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Old Xanga posts!
-    *   by sweetie\_pie\_27
     *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
-*   Download archive
-    *   by love\_maxiao
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Download archive
-    *   by susan\_jason
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
-1 2 3 ... 162 Next
+1 2 3 ... 163 Next
 
 Help Categories
 
