@@ -286,7 +286,7 @@ Membership of XING Services is reserved for persons who have reached the legal a
 
 **15\. Accessibility of these Terms and Conditions on Data Protection**
 
-These Terms and Conditions on Data Protection are accessible from any website of the XING Websites under the link "Data Protection".
+These Terms and Conditions on Data Protection are accessible from any website of the XING Websites under the link "Privacy Policy".
 
 Privacy and security at XING
 
