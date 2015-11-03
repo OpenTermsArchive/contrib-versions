@@ -8,92 +8,92 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Archive of old blogs
+    *   by HolySatan666
+    *   2 hours ago
+    *   in Adding &. Editing Entries
+    *   0 votes
+    *   0
+*   Archive of old blogs
+    *   by HolySatan666
+    *   2 hours ago
+    *   in Adding &. Editing Entries
+    *   0 votes
+    *   0
 *   How can I get my old blogs back?
     *   by hungkityee
-    *   1 hour ago
+    *   1 day ago
     *   in Emails
     *   0 votes
     *   0
 *   blog didnt appear...
     *   by UK\_A
-    *   11 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   how do i get my blog back?
     *   by sarahfung
-    *   12 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   All Blogs lost
     *   by isaacfeetabll
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   My blog disappear
     *   by isaacfeetabll
-    *   3 days ago
+    *   4 days ago
     *   in Themes
     *   0 votes
     *   0
 *   My blog disappear
     *   by isaacfeetabll
-    *   3 days ago
+    *   4 days ago
     *   in Themes
     *   0 votes
     *   0
 *   My blog disappear
     *   by isaacfeetabll
-    *   3 days ago
+    *   4 days ago
     *   in Themes
     *   0 votes
     *   0
 *   My blog disappear
     *   by isaacfeetabll
-    *   3 days ago
+    *   4 days ago
     *   in Themes
     *   0 votes
     *   0
 *   My blog disappear
     *   by isaacfeetabll
-    *   3 days ago
+    *   4 days ago
     *   in Themes
     *   0 votes
     *   0
 *   My blog disappear
     *   by isaacfeetabll
-    *   3 days ago
+    *   4 days ago
     *   in Themes
     *   0 votes
     *   0
 *   My blog disappear
     *   by isaacfeetabll
-    *   3 days ago
+    *   4 days ago
     *   in Themes
     *   0 votes
     *   0
 *   My blog disappear
     *   by isaacfeetabll
-    *   3 days ago
+    *   4 days ago
     *   in Themes
     *   0 votes
     *   0
 *   recover my old account.
     *   by Fallen\_knight\_fox
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   can i have my xanga blog recover?
-    *   by joeyeung1210
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Old blog posts
-    *   by Dinosaur\_Darrell
     *   5 days ago
     *   in Data Migration
     *   0 votes
