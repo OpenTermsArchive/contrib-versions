@@ -68,7 +68,7 @@ Classification of Rules >. Alibaba.com User Agreement
 
 <. Back to list Privacy Policy
 
-(Updated as of December 2014)  
+(Updated as of November 2015)
 
 Alibaba.com and Aliexpress.com (each a "Site", together the "Sites") are electronic commerce platforms are predominantly used by business entities to facilitate electronic commerce and such business use does not generally involve the collection of personal information of individuals. Alibaba recognizes the importance of privacy as well as the importance of maintaining the confidentiality of personal information. This Privacy Policy applies to all products and services provided by us and sets out how we may collect, use and disclose information in relation to users of the Sites.
 
@@ -78,11 +78,9 @@ All capitalized terms not defined in this document shall have the meanings ascri
 
 **A. COLLECTION OF INFORMATION**
 
-  
-
 1\. Your privacy is important to us and we have taken steps to ensure that we do not collect more information from you than is necessary for us to provide you with our services and to protect your account.
 
-2\. Information including, but not limited to, user name, address, phone number, fax number and email address ("Registration Information") may be collected at the time of user registration on the Sites.
+2\. Information including, but not limited to, user name, address, phone number, fax number, email address, gender, date and/or year of birth and user preferences ("Registration Information") may be collected at the time of user registration on the Sites.
 
 3\. In connection with any transaction and payment services or services under our buyer protection schemes we provide on the Sites, information, including but not limited to, bank account numbers, billing and delivery information, credit/debit card numbers and expiration dates and tracking information from cheques or money orders ("Account Information") may be collected to, among other things, facilitate the sale and purchase as well as the settlement of purchase price of the products or services transacted on or procured through the Sites.
 
@@ -96,11 +94,7 @@ All capitalized terms not defined in this document shall have the meanings ascri
 
 8\. It is mandatory for users of the Sites to provide certain categories of Business Data and Personal Data (as specified at the time of collection). In the event that users do not provide any or sufficient Business Data and/or Personal Data marked as mandatory, we may not be able to complete the registration process or provide such users with our products or services.
 
-  
-
 **B. USE OF PERSONAL DATA**
-
-  
 
 If you provide any Personal Data to us, you are deemed to have authorized us to collect, retain and use that Personal Data for the following purposes:
 
@@ -122,11 +116,7 @@ If you provide any Personal Data to us, you are deemed to have authorized us to 
 
 9\. making such disclosures as may be required for any of the above purposes or as required by law or in respect of any claims or potential claims brought against us.
 
-  
-
 **C. DISCLOSURE OF PERSONAL DATA**
-
-  
 
 1\. You further agree that we may disclose and transfer (whether within or outside the jurisdiction of the Alibaba entity that you are contracting with) your Personal Data to service providers engaged by us to assist us with providing you with our services (including but not limited to data entry, database management, promotions, products and services alerts, delivery services, payment extension services, and membership authentication and verification services) ("Service Providers"). These Service Providers are under a duty of confidentiality to us and are only permitted to use your Personal Data in connection with the purposes specified at B.1 to B.9 above, and not for their own purposes (including direct marketing).
 
@@ -200,4 +190,4 @@ Contact Us - Product Listing Policy - Intellectual Property Policy and Infringem
 
 © 1999-2015 Alibaba.com. All rights reserved.
 
-icburule010177021068
+icburule010100097058
