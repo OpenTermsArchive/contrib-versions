@@ -1,6 +1,6 @@
 Dropbox Privacy Policy
 
-Posted: February 13, 2015
+Posted: November 4, 2015
 
 Thanks for using Dropbox! Here we describe how we collect, use and handle your information when you use our websites, software and services ("Services").
 
@@ -26,7 +26,7 @@ _Other users_. Our Services display information like your name and email address
 
 _Other applications_. You can also give third parties access to your information and account - for example, via Dropbox APIs. Just remember that their use of your information will be governed by their privacy policies and terms.
 
-_Dropbox for Business Admins_. If you are a Dropbox for Business user, your administrator may have the ability to access and control your Dropbox for Business account. Please refer to your employer's internal policies if you have questions about this. If you are not a Dropbox for Business user but interact with a Dropbox for Business user (by, for example, joining a shared folder or accessing stuff shared by that user), members of that organization may be able to view the name, email address and IP address that were associated with your account at the time of that interaction.
+_Dropbox Business and Dropbox Enterprise Admins_. If you are a Dropbox Business or Dropbox Enterprise user, your administrator may have the ability to access and control your Dropbox Business or Dropbox Enterprise account. Please refer to your employer's internal policies if you have questions about this. If you are not a Dropbox Business user but interact with a Dropbox Business or Dropbox Enterprise user (by, for example, joining a shared folder or accessing stuff shared by that user), members of that organization may be able to view the name, email address and IP address that were associated with your account at the time of that interaction.
 
 _Law &. Order_. We may disclose your information to third parties if we determine that such disclosure is reasonably necessary to (a) comply with the law. (b) protect any person from death or serious bodily injury. (c) prevent fraud or abuse of Dropbox or our users. or (d) protect Dropbox's property rights.
 
