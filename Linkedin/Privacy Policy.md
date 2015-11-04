@@ -287,6 +287,8 @@ If you have questions or concerns regarding this Policy, you should first contac
 
 We comply with the U.S.-E.U. and U.S.-Swiss Safe Harbor Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. We have certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view LinkedIn’s certification, please visit http://www.export.gov/safeharbor/.
 
+**Note:** The U.S.-E.U. Safe Harbor Framework is no longer recognized as a legal mechanism to transfer personal data from the EU to the US. LinkedIn uses other legal mechanisms, including standard contractual clauses. Learn more.
+
 4.3. Changes to this Privacy Policy
 
 We will notify you when we change this Privacy Policy.
