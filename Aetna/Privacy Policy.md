@@ -11,9 +11,9 @@ Aetna.com no longer supports versions lower than Safari 8. Learn more >
 Individuals &. Families Shop For  
  
 
-*   Buy Health Insurance
+*   Health Insurance
 *   Plans on the Health Insurance Marketplace
-*   Buy Dental Coverage
+*   Dental Coverage
 *   Student Insurance
 *   International Insurance
 *   Medicare
