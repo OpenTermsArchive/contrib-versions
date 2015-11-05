@@ -8,93 +8,93 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Old posts
+    *   by dynomitemon
+    *   10 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Old post recovery
     *   by aloss4words16
-    *   13 minutes ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Is there any chance to get my blog data back?
     *   by tessacamp2007
-    *   15 minutes ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Archive of old blogs
     *   by HolySatan666
-    *   1 day ago
+    *   2 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Archive of old blogs
     *   by HolySatan666
-    *   1 day ago
+    *   2 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   How can I get my old blogs back?
     *   by hungkityee
-    *   2 days ago
+    *   3 days ago
     *   in Emails
     *   0 votes
     *   0
 *   blog didnt appear...
     *   by UK\_A
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   how do i get my blog back?
     *   by sarahfung
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   All Blogs lost
     *   by isaacfeetabll
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   My blog disappear
     *   by isaacfeetabll
-    *   5 days ago
+    *   6 days ago
     *   in Themes
     *   0 votes
     *   0
 *   My blog disappear
     *   by isaacfeetabll
-    *   5 days ago
+    *   6 days ago
     *   in Themes
     *   0 votes
     *   0
 *   My blog disappear
     *   by isaacfeetabll
-    *   5 days ago
+    *   6 days ago
     *   in Themes
     *   0 votes
     *   0
 *   My blog disappear
     *   by isaacfeetabll
-    *   5 days ago
+    *   6 days ago
     *   in Themes
     *   0 votes
     *   0
 *   My blog disappear
     *   by isaacfeetabll
-    *   5 days ago
+    *   6 days ago
     *   in Themes
     *   0 votes
     *   0
 *   My blog disappear
     *   by isaacfeetabll
-    *   5 days ago
-    *   in Themes
-    *   0 votes
-    *   0
-*   My blog disappear
-    *   by isaacfeetabll
-    *   5 days ago
+    *   6 days ago
     *   in Themes
     *   0 votes
     *   0
