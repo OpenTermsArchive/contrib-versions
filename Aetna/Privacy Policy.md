@@ -321,6 +321,8 @@ We may use Personal Information for the following purposes:      
 *   Verifying your identity so that we can be sure that all of our communications with you are secure and confidential, for Application security, and to help prevent fraud and data loss;
 *   Responding to inquiries or requests from you;
 *   Delivering web-based products and services to you, such as our health risk assessment.
+*   To send you marketing and promotional communications that we believe may be of interest to you, if permitted by law.  
+    
 
 If you are using this Application to enroll in a health plan, or to access information and services related to your health plan, please refer to your “Notices of Privacy Practices” which is available to you via a link on this Application.  These notices describes how Aetna may use and disclose your personal health and financial information when administering your benefits, and explains your legal rights.  If you receive benefits through a group health insurance plan, your employer will be able to tell you if your plan is insured or self-funded. If your plan is self-funded, you may want to ask for a copy of your employer’s privacy notice. You should read this notice before enrolling in a particular plan.
 
@@ -349,7 +351,7 @@ The security, integrity, and confidentiality of your information are extremely i
 
 **Behavioral Advertising**
 
-Aetna does not serve advertising on its Applications. However, we do engage online advertising service providers to serve ads on other sites, based on web pages you may have visited or your search engine activity. Currently, our Applications do not respond to “Do Not Track” signals from browsers.
+Aetna does not serve third-party advertising on its Applications. However, we do engage online advertising service providers to serve ads on other sites, based on web pages you may have visited or your search engine activity. Currently, our Applications do not respond to “Do Not Track” signals from browsers.
 
 **Your e-mail**
 
@@ -369,7 +371,7 @@ We may also provide links to other websites or mobile applications that are cont
 
 Aetna may change this Privacy Statement from time to time. when updates are made, the version date (located at the bottom of this Privacy Statement) will also be updated to reflect that a revision occurred. We encourage you to periodically reread this Privacy Statement to see if there have been any changes that may affect you. This Privacy Statement is not intended to and does not create any contractual or other legal rights in or on behalf of any party.
 
-Privacy statement update: 8/5/15
+Privacy statement update: 11/6/15
 
 *   Glossary
 *   Privacy Statement
