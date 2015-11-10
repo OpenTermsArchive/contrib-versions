@@ -8,75 +8,81 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Lost Blog Entries
+    *   by dialated\_sepia
+    *   21 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Help Recovering Blog
     *   by Hanau\_Hou
     *   4 months ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by Hanau\_Hou 6 hours ago)
+    *   2 (last comment by Hanau\_Hou 1 day ago)
 *   Photos Gone
     *   by oNcE\_uPon\_a\_fOb
-    *   22 hours ago
+    *   1 day ago
     *   in Pictures
     *   0 votes
     *   0
 *   Old Posts
     *   by peterim
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Posts
     *   by peterim
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help get my blog posts back!
     *   by so\_it\_was
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Didn't download old site
-    *   by ty\_lone
     *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Didn't download old site
     *   by ty\_lone
-    *   3 days ago
+    *   4 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Didn't download old site
+    *   by ty\_lone
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old posts
     *   by dynomitemon
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old post recovery
     *   by aloss4words16
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Is there any chance to get my blog data back?
     *   by tessacamp2007
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Archive of old blogs
     *   by HolySatan666
-    *   6 days ago
+    *   1 week ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Archive of old blogs
     *   by HolySatan666
-    *   6 days ago
+    *   1 week ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
@@ -88,12 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   blog didnt appear...
     *   by UK\_A
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   how do i get my blog back?
-    *   by sarahfung
     *   1 week ago
     *   in Data Migration
     *   0 votes
