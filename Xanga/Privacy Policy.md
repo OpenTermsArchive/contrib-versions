@@ -8,9 +8,15 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Download Archive
+    *   by smithw6079
+    *   21 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Lost Blog Entries
     *   by dialated\_sepia
-    *   21 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,58 +25,58 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 months ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by Hanau\_Hou 1 day ago)
+    *   2 (last comment by Hanau\_Hou 2 days ago)
 *   Photos Gone
     *   by oNcE\_uPon\_a\_fOb
-    *   1 day ago
+    *   2 days ago
     *   in Pictures
     *   0 votes
     *   0
 *   Old Posts
     *   by peterim
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Posts
     *   by peterim
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help get my blog posts back!
     *   by so\_it\_was
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Didn't download old site
-    *   by ty\_lone
     *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Didn't download old site
     *   by ty\_lone
-    *   4 days ago
+    *   5 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Didn't download old site
+    *   by ty\_lone
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old posts
     *   by dynomitemon
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old post recovery
     *   by aloss4words16
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Is there any chance to get my blog data back?
     *   by tessacamp2007
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -90,12 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by hungkityee
     *   1 week ago
     *   in Emails
-    *   0 votes
-    *   0
-*   blog didnt appear...
-    *   by UK\_A
-    *   1 week ago
-    *   in Data Migration
     *   0 votes
     *   0
 
