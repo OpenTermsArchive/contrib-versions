@@ -326,7 +326,46 @@ Copyright © Windstream Communications. All rights reserved.
 *   Twitter
 *   Facebook
 
-Check Availability
+Check Availability Address\*
+
+Enter address
+
+Unit #
+
+Unit cannot contain special characters
+
+Zip\*
+
+Enter a zip
+
+Confirm Existing Customers Sign In Phone Number\* Sign In
+
+Please enter a valid phone number
+
+**Sorry. We were unable to find an account for this phone number.** Ensure the phone number is correct or enter another number that is your account phone number.
+
+\* Required Fields You entered:
+
+address
+
+Did you mean:
+
+Use Selected
+
+**Is your address not listed above?** Please check that you entered it correctly.
+
+Enter your address again  
+Proceed with the address you entered
+
+We do not recognize this address:
+
+address
+
+Proceed with this Address Try Again Windstream isn't available for this address:
+
+160 Varick address
+
+Try Again View Carriers in Your Area Check Availability
 
 Please let us know who you are so we can check for the available services to your home!
 
