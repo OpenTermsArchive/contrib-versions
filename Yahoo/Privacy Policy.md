@@ -8,7 +8,6 @@
 *   Cinéma
 *   Météo
 *   Questions/Réponses
-*   Screen
 *   Flickr
 *   Mobile
 *   **Plus** _⋁_
