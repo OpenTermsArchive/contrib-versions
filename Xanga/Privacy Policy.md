@@ -10,31 +10,31 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   old blog recover
     *   by kara\_yly
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Need old blog back
     *   by LaOsBoiJurNy
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by wing105 2 days ago)
+    *   1 (last comment by wing105 3 days ago)
 *   Need old blog back
     *   by LaOsBoiJurNy
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Download Archive
     *   by smithw6079
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Lost Blog Entries
     *   by dialated\_sepia
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -43,10 +43,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 months ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by Hanau\_Hou 6 days ago)
+    *   2 (last comment by Hanau\_Hou 1 week ago)
 *   Photos Gone
     *   by oNcE\_uPon\_a\_fOb
-    *   6 days ago
+    *   1 week ago
     *   in Pictures
     *   0 votes
     *   0
