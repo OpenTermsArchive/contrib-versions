@@ -8,27 +8,39 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Where can I find my blog entries?
+    *   \[Resolved\] by EterNaLxDeath
+    *   1 year ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by EterNaLxDeath 8 hours ago)
+*   how can I...?
+    *   by dimena
+    *   17 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   old blog recover
     *   by kara\_yly
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Need old blog back
     *   by LaOsBoiJurNy
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by wing105 4 days ago)
+    *   1 (last comment by wing105 5 days ago)
 *   Need old blog back
     *   by LaOsBoiJurNy
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Download Archive
     *   by smithw6079
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -82,18 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Old posts
     *   by dynomitemon
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Old post recovery
-    *   by aloss4words16
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Is there any chance to get my blog data back?
-    *   by tessacamp2007
     *   1 week ago
     *   in Data Migration
     *   0 votes
