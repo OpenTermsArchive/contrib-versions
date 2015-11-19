@@ -13,28 +13,28 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by EterNaLxDeath 8 hours ago)
+    *   2 (last comment by EterNaLxDeath 1 day ago)
 *   how can I...?
     *   by dimena
-    *   17 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   old blog recover
     *   by kara\_yly
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Need old blog back
     *   by LaOsBoiJurNy
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by wing105 5 days ago)
+    *   1 (last comment by wing105 6 days ago)
 *   Need old blog back
     *   by LaOsBoiJurNy
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -52,7 +52,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Help Recovering Blog
     *   by Hanau\_Hou
-    *   4 months ago
+    *   5 months ago
     *   in Data Migration
     *   0 votes
     *   2 (last comment by Hanau\_Hou 1 week ago)
@@ -94,7 +94,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Old posts
     *   by dynomitemon
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
