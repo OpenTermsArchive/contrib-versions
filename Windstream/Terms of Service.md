@@ -334,7 +334,7 @@ Unit #
 
 Unit cannot contain special characters
 
-Zip\*
+ZIP\*
 
 Enter a zip
 
