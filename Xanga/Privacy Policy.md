@@ -13,10 +13,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by EterNaLxDeath 4 days ago)
+    *   2 (last comment by EterNaLxDeath 5 days ago)
 *   how can I...?
     *   by dimena
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -55,10 +55,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 months ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by Hanau\_Hou 1 week ago)
+    *   2 (last comment by Hanau\_Hou 2 weeks ago)
 *   Photos Gone
     *   by oNcE\_uPon\_a\_fOb
-    *   1 week ago
+    *   2 weeks ago
     *   in Pictures
     *   0 votes
     *   0
