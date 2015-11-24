@@ -14,9 +14,11 @@ This policy covers how Yahoo treats personal information that Yahoo collects and
 
 This policy does not apply to the practices of companies that Yahoo does not own or control, or to people that Yahoo does not employ or manage. In addition, some companies that Yahoo has acquired have their own, preexisting privacy policies which may be viewed on our acquired companies page.
 
-**Yahoo's participation in the Safe Harbor program**
+**Data Transfer**
 
-Yahoo participates in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. To view our certification, visit the U.S. Department of Commerce's Safe Harbor Web site. For more information about Yahoo's participation in the Safe Harbor program, please visit our Safe Harbor details page.
+Your personal information may be transferred to countries other than your own to process and store data in accordance with our Privacy Policy and to provide you with products and services. Some of these countries may not have the same data protection safeguards as the country where you reside. By using our products and services, you consent to us transferring your data to these countries. We are committed to ensuring your information is protected and apply safeguards in accordance with applicable law.
+
+Although the European Commission Safe Harbor Decision 2000/520/EC has been invalidated, Yahoo! Inc. continues to be a participant in the the U.S.-EU Safe Harbor and U.S.-Swiss Safe Harbor programs. Yahoo does not rely on Safe Harbor to legitimize exports from the EEA to the US. To view our certification, visit the U.S. Department of Commerce's Safe Harbor web site. For more information about Yahoo's participation in the Safe Harbor program, please visit our Data Transfer page.
 
 **INFORMATION COLLECTION AND USE** **General**
 
@@ -93,4 +95,4 @@ Sunnyvale, CA 94089
 
 If you feel that your inquiry has not been satisfactorily addressed, please click here for information on consumer agencies that may be able to provide you with additional assistance.
 
-Last Updated: September 25, 2014
+Last Updated: November 23, 2015
