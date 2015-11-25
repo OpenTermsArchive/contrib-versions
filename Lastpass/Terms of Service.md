@@ -66,6 +66,6 @@ This Agreement constitutes the entire agreement between LastPass and you concern
 
 The prevailing party in any action or proceeding to enforce this Agreement shall be entitled to costs and attorneys’ fees. If any part of this Agreement is held invalid or unenforceable, that part will be construed to reflect the parties’ original intent, and the remaining portions will remain in full force and effect. A waiver by either party of any term or condition of this Agreement or any breach thereof, in any one instance, will not waive such term or condition or any subsequent breach thereof. You may assign your rights under this Agreement to any party that consents to, and agrees to be bound by, its terms and conditions. LastPass may assign its rights under this Agreement without condition. This Agreement will be binding upon and will inure to the benefit of the parties, their successors and permitted assigns.
 
-Marvasol Inc. DBA LastPass
+LogMeIn Inc. DBA LastPass
 
 These terms are licensed under Creative Commons Share-Alike.
