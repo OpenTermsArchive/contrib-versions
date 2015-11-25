@@ -365,7 +365,7 @@ XFINITY HOME
 
 *   Shop Services
 *   Equipment Store
-*   Subscriber Web Portal
+*   Subscriber Portal
 *   Mobile App
 *   Help &. Support
 *   Customer Forums
