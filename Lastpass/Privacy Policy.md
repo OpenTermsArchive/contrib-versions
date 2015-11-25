@@ -35,6 +35,6 @@ Privacy Statement Changes
 
 Although most changes are likely to be minor, LastPass may change its Privacy Statement from time to time, and in LastPass’ sole discretion. LastPass encourages visitors to frequently check this page for any changes to its Privacy Statement.
 
-Marvasol Inc. DBA LastPass
+LogMeIn Inc. DBA LastPass
 
 This privacy statement available under a Creative Commons Share-alike license.
