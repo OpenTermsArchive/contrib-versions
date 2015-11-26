@@ -28,13 +28,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Need old blog back
     *   by LaOsBoiJurNy
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by wing105 1 week ago)
 *   Need old blog back
     *   by LaOsBoiJurNy
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -94,7 +94,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Old posts
     *   by dynomitemon
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
