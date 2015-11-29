@@ -8,6 +8,18 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Precious photos!!!!
+    *   by shorty9564
+    *   14 minutes ago
+    *   in Pictures
+    *   0 votes
+    *   0
+*   what happens to the old account (LOST IT?)
+    *   by z0da
+    *   20 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Where can I find my blog entries?
     *   \[Resolved\] by EterNaLxDeath
     *   1 year ago
@@ -64,13 +76,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Old Posts
     *   by peterim
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Posts
     *   by peterim
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -82,18 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Didn't download old site
     *   by ty\_lone
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Didn't download old site
-    *   by ty\_lone
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Old posts
-    *   by dynomitemon
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
