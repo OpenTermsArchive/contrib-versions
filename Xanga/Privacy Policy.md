@@ -10,13 +10,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Precious photos!!!!
     *   by shorty9564
-    *   14 minutes ago
+    *   1 day ago
     *   in Pictures
     *   0 votes
     *   0
 *   what happens to the old account (LOST IT?)
     *   by z0da
-    *   20 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -67,10 +67,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 months ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by Hanau\_Hou 2 weeks ago)
+    *   2 (last comment by Hanau\_Hou 3 weeks ago)
 *   Photos Gone
     *   by oNcE\_uPon\_a\_fOb
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Pictures
     *   0 votes
     *   0
