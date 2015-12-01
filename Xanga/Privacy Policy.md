@@ -8,15 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Old Blog
+    *   by SigmaBetaRho
+    *   2 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Precious photos!!!!
     *   by shorty9564
-    *   1 day ago
+    *   2 days ago
     *   in Pictures
     *   0 votes
     *   0
 *   what happens to the old account (LOST IT?)
     *   by z0da
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -58,7 +64,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Lost Blog Entries
     *   by dialated\_sepia
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -88,12 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Please help get my blog posts back!
     *   by so\_it\_was
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Didn't download old site
-    *   by ty\_lone
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
