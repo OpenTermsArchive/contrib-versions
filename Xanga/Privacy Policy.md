@@ -10,19 +10,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Old Blog
     *   by SigmaBetaRho
-    *   2 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Precious photos!!!!
     *   by shorty9564
-    *   2 days ago
+    *   3 days ago
     *   in Pictures
     *   0 votes
     *   0
 *   what happens to the old account (LOST IT?)
     *   by z0da
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -31,10 +31,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by EterNaLxDeath 1 week ago)
+    *   2 (last comment by EterNaLxDeath 2 weeks ago)
 *   how can I...?
     *   by dimena
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -58,7 +58,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Download Archive
     *   by smithw6079
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
