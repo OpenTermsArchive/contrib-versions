@@ -8,21 +8,27 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   lost my xanga account
+    *   by kshelton22
+    *   10 hours ago
+    *   in Themes
+    *   0 votes
+    *   0
 *   Old Blog
     *   by SigmaBetaRho
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Precious photos!!!!
     *   by shorty9564
-    *   3 days ago
+    *   4 days ago
     *   in Pictures
     *   0 votes
     *   0
 *   what happens to the old account (LOST IT?)
     *   by z0da
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -46,13 +52,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Need old blog back
     *   by LaOsBoiJurNy
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by wing105 2 weeks ago)
 *   Need old blog back
     *   by LaOsBoiJurNy
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -88,12 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Old Posts
     *   by peterim
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Please help get my blog posts back!
-    *   by so\_it\_was
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
