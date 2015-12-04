@@ -1,6 +1,6 @@
-Aetna.com no longer supports Internet Explorer 10 or lower versions. Learn more >
+Aetna.com works best with Internet Explorer 11 and above. Learn more >
 
-Aetna.com no longer supports versions lower than Safari 8. Learn more >
+Aetna.com works best with Safari 8 and above. Learn more >
 
 *   Individuals &. Families  
 *   Employers &. Organizations  
@@ -407,5 +407,19 @@ Do you have Aetna insurance through an employer or are you a Medicare member? Ye
 Continue My ZIP code is: Select your county
 
 Please enter a valid ZIP code
+
+Continue
+
+Continue
+
+Continue
+
+Continue
+
+Continue
+
+Continue
+
+Continue
 
 Continue Please enter all of your information This JavaScript enables OnlineOpinion, a method for collecting secure feedback data.
