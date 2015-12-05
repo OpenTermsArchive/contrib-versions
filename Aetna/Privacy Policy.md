@@ -373,6 +373,8 @@ Aetna may change this Privacy Statement from time to time. when updates are made
 
 Privacy statement update: 11/6/15
 
+*   español
+
 *   Glossary
 *   Privacy Statement
 *   Health Care Reform
