@@ -8,93 +8,93 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Getting started
+    *   by piecemaker420
+    *   3 hours ago
+    *   in Getting Started
+    *   0 votes
+    *   0
+*   Getting started
+    *   by piecemaker420
+    *   3 hours ago
+    *   in Getting Started
+    *   0 votes
+    *   0
+*   quilting and things used in quilting
+    *   by piecemaker420
+    *   3 hours ago
+    *   in Getting Started
+    *   0 votes
+    *   0
 *   account is active and cant find blogs
     *   by uhatemeandidontcare
-    *   10 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   account is active and cant find blogs
     *   by uhatemeandidontcare
-    *   10 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   account is active and cant find blogs
     *   by uhatemeandidontcare
-    *   10 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   account is active and cant find blogs
     *   by uhatemeandidontcare
-    *   10 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   account is active and cant find blogs
     *   by uhatemeandidontcare
-    *   10 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   account is active and cant find blogs
     *   by uhatemeandidontcare
-    *   10 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Request for blog archives
     *   by whitezephyr
-    *   19 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Request for blog archives
     *   by whitezephyr
-    *   19 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   lost my xanga account
     *   by kshelton22
-    *   2 days ago
+    *   3 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Old Blog
     *   by SigmaBetaRho
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Precious photos!!!!
     *   by shorty9564
-    *   6 days ago
+    *   1 week ago
     *   in Pictures
     *   0 votes
     *   0
 *   what happens to the old account (LOST IT?)
     *   by z0da
-    *   6 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Where can I find my blog entries?
-    *   \[Resolved\] by EterNaLxDeath
-    *   1 year ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by EterNaLxDeath 2 weeks ago)
-*   how can I...?
-    *   by dimena
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   old blog recover
-    *   by kara\_yly
-    *   3 weeks ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
