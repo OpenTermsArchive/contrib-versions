@@ -8,81 +8,81 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Request for blog archives
+    *   by whitezephyr
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by leena216 1 hour ago)
 *   Getting started
     *   by piecemaker420
-    *   3 hours ago
+    *   1 day ago
     *   in Getting Started
     *   0 votes
     *   0
 *   Getting started
     *   by piecemaker420
-    *   3 hours ago
+    *   1 day ago
     *   in Getting Started
     *   0 votes
     *   0
 *   quilting and things used in quilting
     *   by piecemaker420
-    *   3 hours ago
+    *   1 day ago
     *   in Getting Started
     *   0 votes
     *   0
 *   account is active and cant find blogs
     *   by uhatemeandidontcare
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   account is active and cant find blogs
     *   by uhatemeandidontcare
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   account is active and cant find blogs
     *   by uhatemeandidontcare
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   account is active and cant find blogs
     *   by uhatemeandidontcare
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   account is active and cant find blogs
     *   by uhatemeandidontcare
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   account is active and cant find blogs
     *   by uhatemeandidontcare
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Request for blog archives
     *   by whitezephyr
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Request for blog archives
-    *   by whitezephyr
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   lost my xanga account
     *   by kshelton22
-    *   3 days ago
+    *   4 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Old Blog
     *   by SigmaBetaRho
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
