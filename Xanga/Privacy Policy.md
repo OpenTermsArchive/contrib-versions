@@ -10,79 +10,79 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Request for blog archives
     *   by whitezephyr
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by leena216 1 hour ago)
+    *   1 (last comment by leena216 1 day ago)
 *   Getting started
     *   by piecemaker420
-    *   1 day ago
+    *   2 days ago
     *   in Getting Started
     *   0 votes
     *   0
 *   Getting started
     *   by piecemaker420
-    *   1 day ago
+    *   2 days ago
     *   in Getting Started
     *   0 votes
     *   0
 *   quilting and things used in quilting
     *   by piecemaker420
-    *   1 day ago
+    *   2 days ago
     *   in Getting Started
     *   0 votes
     *   0
 *   account is active and cant find blogs
     *   by uhatemeandidontcare
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   account is active and cant find blogs
     *   by uhatemeandidontcare
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   account is active and cant find blogs
     *   by uhatemeandidontcare
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   account is active and cant find blogs
     *   by uhatemeandidontcare
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   account is active and cant find blogs
     *   by uhatemeandidontcare
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   account is active and cant find blogs
     *   by uhatemeandidontcare
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Request for blog archives
     *   by whitezephyr
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   lost my xanga account
     *   by kshelton22
-    *   4 days ago
+    *   5 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Old Blog
     *   by SigmaBetaRho
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
