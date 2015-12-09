@@ -1,3 +1,5 @@
+Skip to main content
+
 Aetna.com works best with Internet Explorer 11 and above. Learn more >
 
 Aetna.com works best with Safari 8 and above. Learn more >
