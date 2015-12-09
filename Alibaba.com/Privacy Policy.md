@@ -33,7 +33,7 @@ Hi,
     *   Learning Center
     *   Training Center
     
-    *   AliSourcePro
+    *   AliSource
 *   Customer Service
     *   I Am a Buyer
     *   I Am a Supplier
@@ -184,7 +184,7 @@ Alibaba.com Site: International - Español - Português - Deutsch - Français - 
 Alibaba Group | Taobao Marketplace | Tmall.com | Juhuasuan | AliExpress | Alibaba.com | 1688.com | Alimama | Alitrip  
 Alibaba Cloud Computing | YunOS | AliTelecom | HiChina | Autonavi | UCWeb | Umeng | Xiami | TTPod | Laiwang | DingTalk | Alipay
 
-Browse Alphabetically: Showroom | Country Search | Manufacturers | Suppliers | Promotion | Wholesale
+Browse Alphabetically: Showroom | Country Search | Manufacturers | Suppliers | Promotion | Wholesaler
 
 Contact Us - Product Listing Policy - Intellectual Property Policy and Infringement Claims - Privacy Policy - Terms of Use
 
