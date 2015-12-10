@@ -1,5 +1,6 @@
 *   Explore
     *   Recent Photos
+    *   Flickr VR
     *   The Commons
     *   20under20
     *   Galleries
