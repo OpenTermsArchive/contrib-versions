@@ -8,93 +8,93 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Request for blog archives
-    *   by whitezephyr
-    *   5 days ago
+*   Need old blog back
+    *   by jochan0425
+    *   31 minutes ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by leena216 3 days ago)
+    *   0
+*   Need My Old Blog Baxk
+    *   by finestkhmerkid562
+    *   19 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Need My Old Blog Baxk
+    *   by finestkhmerkid562
+    *   19 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Need My Old Blog Baxk
+    *   by finestkhmerkid562
+    *   19 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   account is active and cant find blogs
+    *   by uhatemeandidontcare
+    *   6 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by wles32 23 hours ago)
+*   Request for blog archives
+    *   by whitezephyr
+    *   6 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by leena216 4 days ago)
 *   Getting started
     *   by piecemaker420
-    *   4 days ago
+    *   5 days ago
     *   in Getting Started
     *   0 votes
     *   0
 *   Getting started
     *   by piecemaker420
-    *   4 days ago
+    *   5 days ago
     *   in Getting Started
     *   0 votes
     *   0
 *   quilting and things used in quilting
     *   by piecemaker420
-    *   4 days ago
+    *   5 days ago
     *   in Getting Started
     *   0 votes
     *   0
 *   account is active and cant find blogs
     *   by uhatemeandidontcare
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   account is active and cant find blogs
     *   by uhatemeandidontcare
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   account is active and cant find blogs
     *   by uhatemeandidontcare
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   account is active and cant find blogs
     *   by uhatemeandidontcare
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   account is active and cant find blogs
     *   by uhatemeandidontcare
-    *   5 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   account is active and cant find blogs
-    *   by uhatemeandidontcare
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Request for blog archives
     *   by whitezephyr
-    *   5 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   lost my xanga account
-    *   by kshelton22
-    *   1 week ago
-    *   in Themes
-    *   0 votes
-    *   0
-*   Old Blog
-    *   by SigmaBetaRho
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Precious photos!!!!
-    *   by shorty9564
-    *   1 week ago
-    *   in Pictures
-    *   0 votes
-    *   0
-*   what happens to the old account (LOST IT?)
-    *   by z0da
-    *   1 week ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
