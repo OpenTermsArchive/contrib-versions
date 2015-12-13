@@ -8,33 +8,39 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Request for blog archives/xanga 2.0 update
+    *   by Heroin\_e
+    *   12 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by Heroin\_e 12 hours ago)
 *   I can't find my old blogs
     *   by kkm0299
-    *   7 minutes ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Need old blog back
     *   by jochan0425
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Need My Old Blog Baxk
     *   by finestkhmerkid562
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Need My Old Blog Baxk
     *   by finestkhmerkid562
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Need My Old Blog Baxk
     *   by finestkhmerkid562
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -43,35 +49,29 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by wles32 1 day ago)
+    *   1 (last comment by wles32 2 days ago)
 *   Request for blog archives
     *   by whitezephyr
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by leena216 5 days ago)
+    *   1 (last comment by leena216 6 days ago)
 *   Getting started
     *   by piecemaker420
-    *   6 days ago
+    *   1 week ago
     *   in Getting Started
     *   0 votes
     *   0
 *   Getting started
     *   by piecemaker420
-    *   6 days ago
+    *   1 week ago
     *   in Getting Started
     *   0 votes
     *   0
 *   quilting and things used in quilting
     *   by piecemaker420
-    *   6 days ago
-    *   in Getting Started
-    *   0 votes
-    *   0
-*   account is active and cant find blogs
-    *   by uhatemeandidontcare
     *   1 week ago
-    *   in Data Migration
+    *   in Getting Started
     *   0 votes
     *   0
 *   account is active and cant find blogs
