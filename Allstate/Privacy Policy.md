@@ -196,10 +196,8 @@ About Allstate
     *   Foundation Grants
     *   Financial and Other Reports
     *   History and Timeline
-    *   Awards and Recognition
-    *   Management
+    *   Leadership
     *   Board of Directors
-    *   Executive Speeches
 *   Our Story
 *   Doing Business with Allstate
 *   Corporate Advocacy
