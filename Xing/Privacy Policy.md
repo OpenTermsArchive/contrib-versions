@@ -241,6 +241,10 @@ Please note that a cookie is set when you click on the opt-out link. This means 
 
 The Adobe Digital Analytics version we use is fully compliant with data protection laws as we have concluded a corresponding data processing agreement. In order to comply with said agreement, we anonymise your IP addresses immediately after collection and personal data is processed within the European Union.
 
+Heat maps
+
+In order to make our website more user friendly, we use a system that records the activities of individual site visitors that are selected at random. When recording such activities, any and all personal references are removed so that we are unable to link users to the collected data. The recorded activities are mouse movements and clicks, while information about the operating system, browser, screen resolution and device type are also collected for statistical purposes. You can opt out from this web analysis on the following page (in German): http://overheat.de/opt-out.html
+
 ScorecardResearch
 
 We have implemented the ScorecardResearch service on our websites. This service collects data pertaining to browsing behaviour on the websites of companies that registered with ComScore, a leading global market research effort that studies and reports on Internet trends and behaviour. Click here to set an opt-out cookie which means that your browsing behaviour will no longer be tracked by ScorecardResearch. Please note that the ScorecardResearch service will commence again if you delete this cookie.
