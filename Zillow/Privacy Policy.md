@@ -117,8 +117,13 @@ Home design
     *   *   Contemporary
         *   Traditional
         *   Modern
-*   Find a pro
-    *   *   Home improvement pros
+*   Popular Features
+    *   *   Wallpaper
+        *   Chandelier
+        *   Kitchen Cabinets
+    *   *   Patio Furniture
+        *   Bathroom Vanities
+        *   Area Rugs
 
 More
 
