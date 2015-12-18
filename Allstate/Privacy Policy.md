@@ -191,26 +191,30 @@ About Allstate
 
 *   Allstate Overview expand
     *   General Information
-    *   Products Overview
-    *   The Agent Difference
-    *   Foundation Grants
     *   Financial and Other Reports
     *   History and Timeline
     *   Leadership
     *   Board of Directors
-*   Our Story
-*   Doing Business with Allstate
-*   Corporate Advocacy
-*   Diversity
-*   Corporate Governance
-*   Environment
-*   Corporate Responsibility
-*   Allstate Foundation
-*   Sponsorships &. Events
-*   Advertising &. Marketing
+    *   Corporate Advocacy
+*   The Agent Difference
+*   Doing Business with Allstate expand
+    *   Goods &. Services Purchased
+    *   Supplier Diversity
+    *   Process &. Expectations
+*   Diversity expand
+    *   Workforce Diversity
+    *   Marketplace Diversity
+    *   Community Diversity
+    *   Supply Chain Diversity
+    *   Employee Resource Groups
+    *   Events &. Initiatives
+*   Sponsorships expand
+    *   College Football
+    *   NCAA
+    *   Soccer
+*   Advertising expand
+    *   Mayhem
 *   Allstate Affiliate Program
-*   Auto Insurance Fraud
-*   Videos en español
 
 Home >. Allstate Overview >. Privacy Statement AIC Share allstate.com ﻿Important Notice Privacy Policy Statement
 
