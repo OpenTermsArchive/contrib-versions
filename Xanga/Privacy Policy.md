@@ -8,27 +8,27 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Request for blog archives/xanga 2.0 update
+    *   by Heroin\_e
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by StageDoorBabe 17 hours ago)
 *   cant find my old blog
     *   by gamestarted
-    *   2 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Request for Blog Archives
     *   by yourbestdeceptions
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Request for blog archives/xanga 2.0 update
-    *   by Heroin\_e
     *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Heroin\_e 5 days ago)
+    *   0
 *   I can't find my old blogs
     *   by kkm0299
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -58,43 +58,43 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   account is active and cant find blogs
     *   by uhatemeandidontcare
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by wles32 1 week ago)
 *   Request for blog archives
     *   by whitezephyr
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by leena216 1 week ago)
 *   Getting started
     *   by piecemaker420
-    *   1 week ago
+    *   2 weeks ago
     *   in Getting Started
     *   0 votes
     *   0
 *   Getting started
     *   by piecemaker420
-    *   1 week ago
+    *   2 weeks ago
     *   in Getting Started
     *   0 votes
     *   0
 *   quilting and things used in quilting
     *   by piecemaker420
-    *   1 week ago
+    *   2 weeks ago
     *   in Getting Started
     *   0 votes
     *   0
 *   account is active and cant find blogs
     *   by uhatemeandidontcare
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   account is active and cant find blogs
     *   by uhatemeandidontcare
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
