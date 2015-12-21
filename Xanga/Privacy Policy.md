@@ -13,16 +13,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by StageDoorBabe 17 hours ago)
+    *   2 (last comment by StageDoorBabe 1 day ago)
 *   cant find my old blog
     *   by gamestarted
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Request for Blog Archives
     *   by yourbestdeceptions
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -67,7 +67,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by leena216 1 week ago)
+    *   1 (last comment by leena216 2 weeks ago)
 *   Getting started
     *   by piecemaker420
     *   2 weeks ago
