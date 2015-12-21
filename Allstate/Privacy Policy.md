@@ -189,7 +189,7 @@ About Allstate
     
     expand
 
-*   Allstate Overview expand
+*   Company Overview expand
     *   General Information
     *   Financial and Other Reports
     *   History and Timeline
