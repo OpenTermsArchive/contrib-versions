@@ -228,7 +228,7 @@ A: No, many GM vehicles contain sensing and transmitting devices using the same 
 
 *   Contact Us
 *   Sitemap
-*   Press Room
+*   User Guidelines
 *   Ignition Recall
 *   Investors
 *   Careers
@@ -236,4 +236,4 @@ A: No, many GM vehicles contain sensing and transmitting devices using the same 
 *   Supply Chain Responsibility
 *   Copyright/Trademark
 *   Privacy
-*   User Guidelines
+*   Social Media Policy
