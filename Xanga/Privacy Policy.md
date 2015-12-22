@@ -8,21 +8,27 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   can't find my old blog
+    *   by JustMe628
+    *   3 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Request for blog archives/xanga 2.0 update
     *   by Heroin\_e
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by StageDoorBabe 1 day ago)
+    *   2 (last comment by StageDoorBabe 2 days ago)
 *   cant find my old blog
     *   by gamestarted
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Request for Blog Archives
     *   by yourbestdeceptions
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -84,12 +90,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by piecemaker420
     *   2 weeks ago
     *   in Getting Started
-    *   0 votes
-    *   0
-*   account is active and cant find blogs
-    *   by uhatemeandidontcare
-    *   2 weeks ago
-    *   in Data Migration
     *   0 votes
     *   0
 *   account is active and cant find blogs
