@@ -1,4 +1,4 @@
-Terms of Service Last Modified: 2014-01-27 Tumblr is a U.S. company and subject only to U.S. laws and jurisdiction, so for the moment these Terms of Service (and any other terms, policies, or guidelines that we provide to you) are only available in English.
+Terms of Service Last Modified: 2014-01-27 미국 회사인 Tumblr는 미국 법과 관할권을 따릅니다. 그래서 현재 서비스 약관 (기타 약관, 정책, 가이드라인 포함)은 영어로만 제공합니다.
 
 Hello! Welcome to Tumblr’s Terms of Service. Please read this carefully before using our site, services, or products. This is a contract between you and Tumblr. We've also included several annotations that aren't a part of the contract itself, but are intended to emphasize key sections and help you follow the text. We’ve tried to be fair and straightforward. Please feel free to contact us if you have any questions or suggestions!
 
