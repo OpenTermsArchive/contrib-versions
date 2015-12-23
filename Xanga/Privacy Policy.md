@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   can't find my old blog
     *   by JustMe628
-    *   3 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,10 +19,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by StageDoorBabe 2 days ago)
+    *   2 (last comment by StageDoorBabe 3 days ago)
 *   cant find my old blog
     *   by gamestarted
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
