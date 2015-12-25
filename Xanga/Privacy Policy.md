@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   can't find my old blog
     *   by JustMe628
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,7 +19,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by StageDoorBabe 4 days ago)
+    *   2 (last comment by StageDoorBabe 5 days ago)
 *   cant find my old blog
     *   by gamestarted
     *   1 week ago
@@ -40,25 +40,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Need old blog back
     *   by jochan0425
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Need My Old Blog Baxk
     *   by finestkhmerkid562
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Need My Old Blog Baxk
     *   by finestkhmerkid562
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Need My Old Blog Baxk
     *   by finestkhmerkid562
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -67,7 +67,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by wles32 1 week ago)
+    *   1 (last comment by wles32 2 weeks ago)
 *   Request for blog archives
     *   by whitezephyr
     *   2 weeks ago
