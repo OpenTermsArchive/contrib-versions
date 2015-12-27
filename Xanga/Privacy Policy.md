@@ -10,22 +10,22 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Looking for old blog posts
     *   by add\_some\_GREEN\_7
-    *   22 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   can't find my old blog
     *   by JustMe628
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Request for blog archives/xanga 2.0 update
     *   by Heroin\_e
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by StageDoorBabe 6 days ago)
+    *   2 (last comment by StageDoorBabe 1 week ago)
 *   cant find my old blog
     *   by gamestarted
     *   1 week ago
@@ -82,19 +82,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by leena216 2 weeks ago)
 *   Getting started
     *   by piecemaker420
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Getting Started
     *   0 votes
     *   0
 *   Getting started
     *   by piecemaker420
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Getting Started
     *   0 votes
     *   0
 *   quilting and things used in quilting
     *   by piecemaker420
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Getting Started
     *   0 votes
     *   0
