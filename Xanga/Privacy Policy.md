@@ -10,13 +10,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Looking for old blog posts
     *   by add\_some\_GREEN\_7
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   can't find my old blog
     *   by JustMe628
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -79,7 +79,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by leena216 2 weeks ago)
+    *   1 (last comment by leena216 3 weeks ago)
 *   Getting started
     *   by piecemaker420
     *   3 weeks ago
