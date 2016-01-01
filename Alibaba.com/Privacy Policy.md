@@ -20,6 +20,7 @@ Hi,
     *   Wholesaler
     *   Trade Services
     *   Business Identity
+    *   Logistics Service
     *   Trade Assurance
     *   Secure Payment
     *   e-Credit Line
@@ -190,4 +191,4 @@ Contact Us - Product Listing Policy - Intellectual Property Policy and Infringem
 
 © 1999-2015 Alibaba.com. All rights reserved.
 
-icburule010177021068
+icburule010177021069
