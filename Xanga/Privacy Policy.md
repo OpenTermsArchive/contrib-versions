@@ -8,9 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Footprints Feature
+    *   by nEyn
+    *   1 year ago
+    *   in Miscellaenous
+    *   0 votes
+    *   2 (last comment by cartla2 6 hours ago)
+*   data migration
+    *   by scaryfairie
+    *   8 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Looking for old blog posts
     *   by add\_some\_GREEN\_7
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -46,25 +58,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Need old blog back
     *   by jochan0425
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Need My Old Blog Baxk
     *   by finestkhmerkid562
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Need My Old Blog Baxk
     *   by finestkhmerkid562
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Need My Old Blog Baxk
     *   by finestkhmerkid562
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -73,7 +85,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by wles32 2 weeks ago)
+    *   1 (last comment by wles32 3 weeks ago)
 *   Request for blog archives
     *   by whitezephyr
     *   3 weeks ago
@@ -81,18 +93,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0 votes
     *   1 (last comment by leena216 3 weeks ago)
 *   Getting started
-    *   by piecemaker420
-    *   3 weeks ago
-    *   in Getting Started
-    *   0 votes
-    *   0
-*   Getting started
-    *   by piecemaker420
-    *   3 weeks ago
-    *   in Getting Started
-    *   0 votes
-    *   0
-*   quilting and things used in quilting
     *   by piecemaker420
     *   3 weeks ago
     *   in Getting Started
