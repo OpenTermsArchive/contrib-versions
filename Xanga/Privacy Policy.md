@@ -8,21 +8,33 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Blog archives not downloading. loading forever
+    *   by Supercilious\_Chuckle
+    *   22 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Request for blog archives/xanga 2.0 update
+    *   by Heroin\_e
+    *   2 weeks ago
+    *   in Data Migration
+    *   0 votes
+    *   3 (last comment by Supercilious\_Chuckle 22 hours ago)
 *   Footprints Feature
     *   by nEyn
     *   1 year ago
     *   in Miscellaenous
     *   0 votes
-    *   2 (last comment by cartla2 6 hours ago)
+    *   2 (last comment by cartla2 1 day ago)
 *   data migration
     *   by scaryfairie
-    *   8 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Looking for old blog posts
     *   by add\_some\_GREEN\_7
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -32,12 +44,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   Request for blog archives/xanga 2.0 update
-    *   by Heroin\_e
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by StageDoorBabe 1 week ago)
 *   cant find my old blog
     *   by gamestarted
     *   2 weeks ago
@@ -52,7 +58,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   I can't find my old blogs
     *   by kkm0299
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -82,24 +88,18 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   account is active and cant find blogs
     *   by uhatemeandidontcare
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by wles32 3 weeks ago)
 *   Request for blog archives
     *   by whitezephyr
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by leena216 3 weeks ago)
-*   Getting started
-    *   by piecemaker420
-    *   3 weeks ago
-    *   in Getting Started
-    *   0 votes
-    *   0
 
-1 2 3 ... 165 Next
+1 2 3 ... 166 Next
 
 Help Categories
 
