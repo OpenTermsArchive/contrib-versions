@@ -280,5 +280,5 @@ _— Updated September 2015_
 *   Blog
 *   Mobile Apps
 
-*   © 2006-2015 Zillow
+*   © 2006-2016 Zillow
 *   Follow us
