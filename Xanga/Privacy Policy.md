@@ -8,27 +8,33 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Xanga's post
+    *   by jerry0\_0
+    *   14 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Retrieve posts from 2005
     *   by Not49
-    *   2 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Xanga documents are disappear T^T
     *   by JOdiechoi
-    *   9 hours ago
+    *   1 day ago
     *   in Themes
     *   0 votes
     *   0
 *   Xanga documents are disappear T^T
     *   by JOdiechoi
-    *   9 hours ago
+    *   1 day ago
     *   in Themes
     *   0 votes
     *   0
 *   Blog archives not downloading. loading forever
     *   by Supercilious\_Chuckle
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -37,16 +43,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by Supercilious\_Chuckle 1 day ago)
+    *   3 (last comment by Supercilious\_Chuckle 2 days ago)
 *   Footprints Feature
     *   by nEyn
     *   1 year ago
     *   in Miscellaenous
     *   0 votes
-    *   2 (last comment by cartla2 2 days ago)
+    *   2 (last comment by cartla2 3 days ago)
 *   data migration
     *   by scaryfairie
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -82,12 +88,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Need old blog back
     *   by jochan0425
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Need My Old Blog Baxk
-    *   by finestkhmerkid562
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
