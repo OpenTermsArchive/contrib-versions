@@ -8,39 +8,51 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   old posts
+    *   by Bo\_On
+    *   9 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   old posts
+    *   by Bo\_On
+    *   9 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Retrieving Deleted Entries
     *   by tspmachina
     *   2 years ago
     *   in Miscellaenous
     *   0 votes
-    *   4 (last comment by OneLycheeNut 22 hours ago)
+    *   4 (last comment by OneLycheeNut 1 day ago)
 *   Xanga's post
     *   by jerry0\_0
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve posts from 2005
     *   by Not49
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Xanga documents are disappear T^T
     *   by JOdiechoi
-    *   2 days ago
+    *   3 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Xanga documents are disappear T^T
     *   by JOdiechoi
-    *   2 days ago
+    *   3 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Blog archives not downloading. loading forever
     *   by Supercilious\_Chuckle
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -49,16 +61,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by Supercilious\_Chuckle 3 days ago)
+    *   3 (last comment by Supercilious\_Chuckle 4 days ago)
 *   Footprints Feature
     *   by nEyn
     *   1 year ago
     *   in Miscellaenous
     *   0 votes
-    *   2 (last comment by cartla2 4 days ago)
+    *   2 (last comment by cartla2 5 days ago)
 *   data migration
     *   by scaryfairie
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -76,24 +88,12 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   cant find my old blog
     *   by gamestarted
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Request for Blog Archives
     *   by yourbestdeceptions
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   I can't find my old blogs
-    *   by kkm0299
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Need old blog back
-    *   by jochan0425
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
