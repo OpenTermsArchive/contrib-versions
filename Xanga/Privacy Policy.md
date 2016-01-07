@@ -8,15 +8,27 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   old posts
-    *   by Bo\_On
-    *   9 hours ago
+*   Request for blog archives please
+    *   by WickedX
+    *   21 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   migration
+    *   by AndThesongLiveson99
+    *   22 hours ago
     *   in Data Migration
     *   0 votes
     *   0
 *   old posts
     *   by Bo\_On
-    *   9 hours ago
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   old posts
+    *   by Bo\_On
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -25,34 +37,34 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Miscellaenous
     *   0 votes
-    *   4 (last comment by OneLycheeNut 1 day ago)
+    *   4 (last comment by OneLycheeNut 2 days ago)
 *   Xanga's post
     *   by jerry0\_0
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve posts from 2005
     *   by Not49
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Xanga documents are disappear T^T
     *   by JOdiechoi
-    *   3 days ago
+    *   4 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Xanga documents are disappear T^T
     *   by JOdiechoi
-    *   3 days ago
+    *   4 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Blog archives not downloading. loading forever
     *   by Supercilious\_Chuckle
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -61,16 +73,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by Supercilious\_Chuckle 4 days ago)
+    *   3 (last comment by Supercilious\_Chuckle 5 days ago)
 *   Footprints Feature
     *   by nEyn
     *   1 year ago
     *   in Miscellaenous
     *   0 votes
-    *   2 (last comment by cartla2 5 days ago)
+    *   2 (last comment by cartla2 6 days ago)
 *   data migration
     *   by scaryfairie
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -83,18 +95,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 *   can't find my old blog
     *   by JustMe628
     *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   cant find my old blog
-    *   by gamestarted
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Request for Blog Archives
-    *   by yourbestdeceptions
-    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
