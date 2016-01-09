@@ -247,7 +247,7 @@ You agree that this Agreement shall be deemed to have been made and executed in 
 
 This Section 11 shall apply to the maximum extent permitted by applicable law. If the laws of your jurisdiction prohibit the application of some or all of the provisions of this Section notwithstanding Section 10 (Applicable Law/Jurisdiction), such provisions will not apply to you. IN PARTICULAR, IF YOU ARE AN EU SUBSCRIBER, THIS SECTION 11 DOES NOT APPLY TO YOU.
 
-Most user concerns can be resolved by use of our Steam support site at https://support.steampowered.com/. If Valve is are unable to resolve your concerns and a dispute remains between you and Valve, this Section explains how the parties have agreed to resolve it.
+Most user concerns can be resolved by use of our Steam support site at https://support.steampowered.com/. If Valve is unable to resolve your concerns and a dispute remains between you and Valve, this Section explains how the parties have agreed to resolve it.
 
 YOU AND VALVE AGREE TO RESOLVE ALL DISPUTES AND CLAIMS BETWEEN US IN INDIVIDUAL BINDING ARBITRATION. THAT INCLUDES, BUT IS NOT LIMITED TO, ANY CLAIMS ARISING OUT OF OR RELATING TO: (i) ANY ASPECT OF THE RELATIONSHIP BETWEEN US. (ii) THIS AGREEMENT. OR (iii) YOUR USE OF STEAM, YOUR ACCOUNT OR THE CONTENT AND SERVICES. IT APPLIES REGARDLESS OF WHETHER SUCH CLAIMS ARE BASED IN CONTRACT, TORT, STATUTE, FRAUD, UNFAIR COMPETITION, MISREPRESENTATION OR ANY OTHER LEGAL THEORY.
 
