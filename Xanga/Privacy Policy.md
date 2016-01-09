@@ -8,39 +8,51 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   need my blog back
+    *   by FukedUpBeyondAllRecognition
+    *   6 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Xanga documents are disappear T^T
+    *   by JOdiechoi
+    *   6 days ago
+    *   in Themes
+    *   0 votes
+    *   1 (last comment by liko\_bb 11 hours ago)
 *   Need old blog back
     *   by horse\_child
-    *   12 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can I have my blog back?
     *   by monatang48b
-    *   17 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Request for blog archives please
     *   by WickedX
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   migration
     *   by AndThesongLiveson99
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   old posts
-    *   by Bo\_On
     *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   old posts
     *   by Bo\_On
-    *   2 days ago
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   old posts
+    *   by Bo\_On
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -49,34 +61,28 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Miscellaenous
     *   0 votes
-    *   4 (last comment by OneLycheeNut 3 days ago)
+    *   4 (last comment by OneLycheeNut 4 days ago)
 *   Xanga's post
     *   by jerry0\_0
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve posts from 2005
     *   by Not49
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Xanga documents are disappear T^T
     *   by JOdiechoi
-    *   5 days ago
-    *   in Themes
-    *   0 votes
-    *   0
-*   Xanga documents are disappear T^T
-    *   by JOdiechoi
-    *   5 days ago
+    *   6 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Blog archives not downloading. loading forever
     *   by Supercilious\_Chuckle
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -85,19 +91,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by Supercilious\_Chuckle 6 days ago)
+    *   3 (last comment by Supercilious\_Chuckle 1 week ago)
 *   Footprints Feature
     *   by nEyn
     *   1 year ago
     *   in Miscellaenous
     *   0 votes
     *   2 (last comment by cartla2 1 week ago)
-*   data migration
-    *   by scaryfairie
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
 1 2 3 ... 166 Next
 
