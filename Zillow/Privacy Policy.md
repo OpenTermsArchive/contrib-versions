@@ -9,7 +9,7 @@ Or try a newer browser:
 *   ·
 *   Firefox
 
-Homepage Buy
+Homepage Sign in or Join Advertise Buy
 
 *   Homes for sale
     *   *   Homes for sale
@@ -51,8 +51,10 @@ Rent
 Sell
 
 *   Selling tools
-    *   *   How much is my home worth?
-        *   Home values
+    *   *   See my home's Zestimate(r)
+        *   Price my home using comps
+        *   Sign Up for Home Report
+        *   Neighborhood Home Values
         *   Find a seller's agent
 *   Post a home for sale
     *   *   For sale by agent
@@ -65,6 +67,7 @@ Mortgages
 *   Shop mortgages
     *   *   Find a lender
         *   Mortgage rates
+        *   All mortgage rates
 *   Refinance
     *   *   Refinance rates
         *   HARP program
@@ -141,8 +144,6 @@ More
         *   Zillow research
         *   Zillow visuals
         *   Zillow help center
-
-Advertise Sign in or Join
 
 *   Terms of Use
 *   Privacy Policy
