@@ -1,3 +1,6 @@
+We also have a Copyright Policy.  
+  
+
 As of July 10th, 2013  
 Please read this agreement carefully before using the services offered by IFTTT Inc. ("IFTTT"). By using the website ifttt.com (the "Site") and other features, services or applications (including without limitation mobile applications (“Mobile Apps”)) offered by IFTTT (collectively, the "Service"), you agree to be bound by these terms of use (the "Terms of Use" or "TOU"). If you disagree with any of the terms below, you will not have a right to use the Service. The individual who accepts these terms and conditions, must be aged 18 years or older. You certify to IFTTT that if you are an individual (i.e., not a corporation) you are at least 18 years of age. You also certify that you are legally permitted to use the Service and access the Site, and take full responsibility for the selection and use of the Service and access of the Site. These Terms of Use are void where prohibited by law, and the right to access the Site and use the Service is revoked in such jurisdictions.  
   
