@@ -13,52 +13,52 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   10 (last comment by aloneinjersey 2 days ago)
+    *   10 (last comment by aloneinjersey 3 days ago)
 *   Where is my old blog
     *   by siyan11111
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where is my old blog
     *   by siyan11111
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   cant find my old blog
     *   by Ching111
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where is my blog?
     *   by SarSarBinks7
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   can I have my old blog entries back?
     *   by irene827
-    *   5 days ago
+    *   6 days ago
     *   in Personal URLs
     *   0 votes
     *   0
 *   Where is my blog?
     *   by aloneinjersey
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where is my blog?
     *   by aloneinjersey
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   My Old Blog
     *   by sanelyinsane7
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -70,7 +70,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Xanga documents are disappear T^T
     *   by JOdiechoi
-    *   1 week ago
+    *   2 weeks ago
     *   in Themes
     *   0 votes
     *   1 (last comment by liko\_bb 1 week ago)
