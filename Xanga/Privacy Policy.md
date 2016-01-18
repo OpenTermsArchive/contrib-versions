@@ -8,51 +8,57 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Deleting my account
+    *   by Vivi\_Ashina
+    *   10 hours ago
+    *   in Privacy
+    *   0 votes
+    *   0
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   10 (last comment by aloneinjersey 3 days ago)
+    *   10 (last comment by aloneinjersey 4 days ago)
 *   Where is my old blog
     *   by siyan11111
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where is my old blog
     *   by siyan11111
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   cant find my old blog
     *   by Ching111
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where is my blog?
     *   by SarSarBinks7
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   can I have my old blog entries back?
     *   by irene827
-    *   6 days ago
+    *   1 week ago
     *   in Personal URLs
     *   0 votes
     *   0
 *   Where is my blog?
     *   by aloneinjersey
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where is my blog?
     *   by aloneinjersey
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -88,12 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Request for blog archives please
     *   by WickedX
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   migration
-    *   by AndThesongLiveson99
     *   1 week ago
     *   in Data Migration
     *   0 votes
