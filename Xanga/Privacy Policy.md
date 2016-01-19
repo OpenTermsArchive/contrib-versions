@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Deleting my account
     *   by Vivi\_Ashina
-    *   10 hours ago
+    *   1 day ago
     *   in Privacy
     *   0 votes
     *   0
@@ -19,28 +19,28 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   10 (last comment by aloneinjersey 4 days ago)
+    *   10 (last comment by aloneinjersey 5 days ago)
 *   Where is my old blog
     *   by siyan11111
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where is my old blog
     *   by siyan11111
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   cant find my old blog
     *   by Ching111
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where is my blog?
     *   by SarSarBinks7
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
