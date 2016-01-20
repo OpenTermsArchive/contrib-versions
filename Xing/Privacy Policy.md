@@ -219,7 +219,11 @@ Yahoo!/Bing: Opt out of personalised advertising
 
 NEXT AUDIENCE: Privacy information
 
-Criteo: Opt out of AdClear tracking
+Criteo: Information about behaviour-related advertising
+
+AdClear: You can opt out of tracking performed by AdClear.
+
+Opt out of Adclear tracking
 
 Interest- and behaviour-related information and advertising
 
