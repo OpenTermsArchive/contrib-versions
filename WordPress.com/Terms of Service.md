@@ -72,7 +72,9 @@ This Agreement does not transfer from Automattic to you any Automattic or third 
 
 8\. Domain Names.
 
-If you are registering a domain name, using or transferring a previously registered domain name, you acknowledge and agree that use of the domain name is also subject to the policies of the Internet Corporation for Assigned Names and Numbers (“ICANN”) and the Domain Name Registration and Customer Service Agreement.
+We work with third-party registrars in order to provide our users with domain name services. When you register a domain name on WordPress.com, or when you renew or transfer an existing domain name on WordPress.com, you become bound by those registrar’s terms and conditions in addition to our Terms. Depending on the TLD you choose, you are bound either by the Tucows Domain Inc. Registration Agreement or this Domain Name Registration and Customer Service Agreement. Please see this page to determine which agreement(s) apply to you. These third-party registrar terms are incorporated by reference into these Terms.
+
+Further, your use of the domain name is also subject to the policies of the Internet Corporation for Assigned Names and Numbers (“ICANN”). A summary of your rights and responsibilities as a domain name registrant under ICANN’s 2009 Registrar Accreditation Agreement can be found here. You can learn more about domain name registration generally here.
 
 9\. Google Apps.
 
