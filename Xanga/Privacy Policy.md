@@ -8,9 +8,15 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Old Blogs!
+    *   by x\_heylove
+    *   7 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Deleting my account
     *   by Vivi\_Ashina
-    *   1 day ago
+    *   2 days ago
     *   in Privacy
     *   0 votes
     *   0
@@ -19,16 +25,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   10 (last comment by aloneinjersey 5 days ago)
+    *   10 (last comment by aloneinjersey 6 days ago)
 *   Where is my old blog
     *   by siyan11111
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where is my old blog
     *   by siyan11111
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -88,12 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Can I have my blog back?
     *   by monatang48b
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Request for blog archives please
-    *   by WickedX
     *   1 week ago
     *   in Data Migration
     *   0 votes
