@@ -2,7 +2,7 @@ Privacy Statement Print A A
 
 **General Motors Company U.S. Consumer Privacy Statement**
 
-Last modified: July 13, 2015
+Last modified: January 19, 2016
 
 Your privacy is important to General Motors Company (“GM” or “we”) as is your trust in GM’s products and services. We want you to know that the information you share with us will be treated with care. This Privacy Statement addresses what personal information we collect and how we handle the personal information shared with us.
 
@@ -132,12 +132,9 @@ When completing a purchase or lease agreement or signing a service repair order 
 
 **Data Transfer**
 
-GM and its controlled subsidiaries and affiliates in the United States (“GM U.S.”), including OnStar, LLC, adhere to the U.S.-EU Safe Harbor Privacy Principles and the U.S.-Swiss Safe Harbor Privacy Principles as set forth by the U.S. Department of Commerce (collectively, “Safe Harbor”) as a data processor for certain European customer personal data transfers to the United States. GM U.S. acts as a data processor for its GM controlled subsidiaries and affiliates in Europe (collectively, “GM Europe companies”) by providing data hosting, maintenance, support, and troubleshooting of services, as well as other redundant back office support. GM U.S. acts as a data processor for OnStar Europe Ltd. by providing maintenance, support, and troubleshooting of services, as well as other redundant back office support. GM Europe companies and OnStar Europe Ltd. act as controllers of their own European customer data, and GM U.S. acts as a data processor for these companies.
+When GM and its controlled subsidiaries and affiliates in the United States, including OnStar, LLC, (“GM U.S.”)receive information from GM controlled subsidiaries and affiliates in Europe, including OnStar Europe Ltd., (collectively “GM Europe companies”), we comply with applicable legal requirements providing adequate protection for the transfer of personal information to countries outside of the EEA or Switzerland.GM U.S. acts as a data processor for its GM controlled subsidiaries and affiliates in Europe (collectively, “GM Europe companies”) by providing data hosting, maintenance, support, and troubleshooting of services, as well as other redundant back office support. GM U.S. acts as a data processor for OnStar Europe Ltd. by providing maintenance, support, and troubleshooting of services, as well as other redundant back office support. GM Europe companies and OnStar Europe Ltd. act as controllers of their own European customer data, and GM U.S. acts as a data processor for these companies.
 
-Individuals that use products or services offered by a GM Europe company or OnStar Europe Ltd. May wish to raise any privacy questions with such company directly, including filing any requests to access European customer data or exercise other privacy rights. Individuals may also raise questions with GM U.S. using the contact details below.  If the concerns of a GM Europe company or OnStar Europe Ltd. customer have not been satisfactorily resolved after contacting GM U.S., customers may also raise privacy concerns with the International Centre for Dispute Resolution, the international division of the American Arbitration Association (ICDR/AAA) at the following website: http://go.adr.org/safeharbor.
-
-To learn more about the Safe Harbor program, and to view the certification of General Motors Holdings LLC, please visit  
-http://www.export.gov/safeharbor/.
+Individuals that use products or services offered by a GM Europe company or OnStar Europe Ltd. may wish to raise any privacy questions with such company directly, including filing any requests to access European customer data or exercise other privacy rights. Individuals may also raise questions with GM U.S. using the contact details below.
 
 In addition, anonymized and aggregated data from OnStar Europe Ltd. is shared with GM U.S. to evaluate or research the safety, quality, usage, and functionality of vehicles and services, including the OnStar Services. to provide OnStar Europe Ltd. customers with vehicle support and services. and to ensure accurate customer records and maintain customer relationships. Information also is shared with GM U.S. in order to contact OnStar Europe Ltd. customers about their vehicle or the services, or for marketing purposes, but only if the individual has opted in to receive marketing information.
 
@@ -188,7 +185,7 @@ We may update this Privacy Statement from time to time. We will do so by posting
 
 Effective date: September 1, 2011
 
-Last modified: July 13, 2015  
+Last modified: January 19, 2016  
  
 
 **Frequently Asked Questions**  
