@@ -10,13 +10,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Old Blogs!
     *   by x\_heylove
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Deleting my account
     *   by Vivi\_Ashina
-    *   3 days ago
+    *   4 days ago
     *   in Privacy
     *   0 votes
     *   0
@@ -88,13 +88,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by liko\_bb 1 week ago)
 *   Need old blog back
     *   by horse\_child
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can I have my blog back?
     *   by monatang48b
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
