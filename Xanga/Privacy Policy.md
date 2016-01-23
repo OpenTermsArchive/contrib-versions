@@ -8,15 +8,27 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Xanga Blog
+    *   by suyihung
+    *   21 hours ago
+    *   in Personal URLs
+    *   0 votes
+    *   1 (last comment by eugenia 4 hours ago)
+*   Deleted Entries
+    *   by tooBal0ney
+    *   22 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Old Blogs!
     *   by x\_heylove
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Deleting my account
     *   by Vivi\_Ashina
-    *   4 days ago
+    *   5 days ago
     *   in Privacy
     *   0 votes
     *   0
@@ -76,7 +88,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   need my blog back
     *   by FukedUpBeyondAllRecognition
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -85,19 +97,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by liko\_bb 1 week ago)
-*   Need old blog back
-    *   by horse\_child
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Can I have my blog back?
-    *   by monatang48b
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
+    *   1 (last comment by liko\_bb 2 weeks ago)
 
 1 2 3 ... 167 Next
 
