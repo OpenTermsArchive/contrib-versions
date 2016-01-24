@@ -8,36 +8,36 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Xanga Blog
-    *   by suyihung
-    *   21 hours ago
-    *   in Personal URLs
-    *   0 votes
-    *   1 (last comment by eugenia 4 hours ago)
-*   Deleted Entries
-    *   by tooBal0ney
-    *   22 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Old Blogs!
-    *   by x\_heylove
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Deleting my account
-    *   by Vivi\_Ashina
-    *   5 days ago
-    *   in Privacy
-    *   0 votes
-    *   0
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   10 (last comment by aloneinjersey 1 week ago)
+    *   11 (last comment by Maryiamlovesyou 1 hour ago)
+*   Xanga Blog
+    *   by suyihung
+    *   1 day ago
+    *   in Personal URLs
+    *   0 votes
+    *   1 (last comment by eugenia 1 day ago)
+*   Deleted Entries
+    *   by tooBal0ney
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Old Blogs!
+    *   by x\_heylove
+    *   4 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Deleting my account
+    *   by Vivi\_Ashina
+    *   6 days ago
+    *   in Privacy
+    *   0 votes
+    *   0
 *   Where is my old blog
     *   by siyan11111
     *   1 week ago
@@ -82,7 +82,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   My Old Blog
     *   by sanelyinsane7
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -94,7 +94,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Xanga documents are disappear T^T
     *   by JOdiechoi
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Themes
     *   0 votes
     *   1 (last comment by liko\_bb 2 weeks ago)
