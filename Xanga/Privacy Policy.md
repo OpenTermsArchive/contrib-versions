@@ -8,33 +8,39 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Would also like my old blog
+    *   by daysiee
+    *   3 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   11 (last comment by Maryiamlovesyou 1 hour ago)
+    *   12 (last comment by Keavy\_Odonagh 16 hours ago)
 *   Xanga Blog
     *   by suyihung
-    *   1 day ago
+    *   2 days ago
     *   in Personal URLs
     *   0 votes
-    *   1 (last comment by eugenia 1 day ago)
+    *   1 (last comment by eugenia 2 days ago)
 *   Deleted Entries
     *   by tooBal0ney
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Blogs!
     *   by x\_heylove
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Deleting my account
     *   by Vivi\_Ashina
-    *   6 days ago
+    *   1 week ago
     *   in Privacy
     *   0 votes
     *   0
@@ -64,19 +70,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   can I have my old blog entries back?
     *   by irene827
-    *   1 week ago
+    *   2 weeks ago
     *   in Personal URLs
     *   0 votes
     *   0
 *   Where is my blog?
     *   by aloneinjersey
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where is my blog?
     *   by aloneinjersey
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -92,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   Xanga documents are disappear T^T
-    *   by JOdiechoi
-    *   3 weeks ago
-    *   in Themes
-    *   0 votes
-    *   1 (last comment by liko\_bb 2 weeks ago)
 
 1 2 3 ... 167 Next
 
