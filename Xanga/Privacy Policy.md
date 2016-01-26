@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Would also like my old blog
     *   by daysiee
-    *   3 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,22 +19,22 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   12 (last comment by Keavy\_Odonagh 16 hours ago)
+    *   12 (last comment by Keavy\_Odonagh 1 day ago)
 *   Xanga Blog
     *   by suyihung
-    *   2 days ago
+    *   3 days ago
     *   in Personal URLs
     *   0 votes
-    *   1 (last comment by eugenia 2 days ago)
+    *   1 (last comment by eugenia 3 days ago)
 *   Deleted Entries
     *   by tooBal0ney
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Blogs!
     *   by x\_heylove
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -58,13 +58,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   cant find my old blog
     *   by Ching111
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where is my blog?
     *   by SarSarBinks7
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
