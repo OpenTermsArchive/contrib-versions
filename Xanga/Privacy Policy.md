@@ -8,9 +8,15 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Where is my blog?
+    *   by queenieAPPLE
+    *   2 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Would also like my old blog
     *   by daysiee
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,22 +25,22 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   12 (last comment by Keavy\_Odonagh 1 day ago)
+    *   12 (last comment by Keavy\_Odonagh 2 days ago)
 *   Xanga Blog
     *   by suyihung
-    *   3 days ago
+    *   4 days ago
     *   in Personal URLs
     *   0 votes
-    *   1 (last comment by eugenia 3 days ago)
+    *   1 (last comment by eugenia 4 days ago)
 *   Deleted Entries
     *   by tooBal0ney
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Blogs!
     *   by x\_heylove
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -88,12 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   My Old Blog
     *   by sanelyinsane7
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   need my blog back
-    *   by FukedUpBeyondAllRecognition
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
