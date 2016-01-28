@@ -8,15 +8,33 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   retrieving old blog
+    *   by kerryanne22
+    *   1 hour ago
+    *   in Miscellaenous
+    *   0 votes
+    *   0
+*   Request for blog archives
+    *   by himesamaz
+    *   3 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Request for blog archives
+    *   by himesamaz
+    *   3 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Where is my blog?
     *   by queenieAPPLE
-    *   2 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Would also like my old blog
     *   by daysiee
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -25,16 +43,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   12 (last comment by Keavy\_Odonagh 2 days ago)
+    *   12 (last comment by Keavy\_Odonagh 3 days ago)
 *   Xanga Blog
     *   by suyihung
-    *   4 days ago
+    *   5 days ago
     *   in Personal URLs
     *   0 votes
-    *   1 (last comment by eugenia 4 days ago)
+    *   1 (last comment by eugenia 5 days ago)
 *   Deleted Entries
     *   by tooBal0ney
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -52,13 +70,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Where is my old blog
     *   by siyan11111
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where is my old blog
     *   by siyan11111
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -78,24 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by irene827
     *   2 weeks ago
     *   in Personal URLs
-    *   0 votes
-    *   0
-*   Where is my blog?
-    *   by aloneinjersey
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Where is my blog?
-    *   by aloneinjersey
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   My Old Blog
-    *   by sanelyinsane7
-    *   2 weeks ago
-    *   in Data Migration
     *   0 votes
     *   0
 
