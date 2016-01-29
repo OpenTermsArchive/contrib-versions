@@ -410,7 +410,11 @@ Continue >. Member Log In
 
 Do you have Aetna insurance through an employer or are you a Medicare member? Yes No
 
-Continue My ZIP code is: Select your county
+Continue
+
+Log In
+
+My ZIP code is: Select your county
 
 Please enter a valid ZIP code
 
