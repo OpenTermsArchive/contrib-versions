@@ -10,7 +10,6 @@ Instagram Help Center
 *   Tips for Parents
 *   Information for Law Enforcement
 *   Report Something
-*   Regulated Goods and Services
 *   Sharing Photos Safely
 *   About Eating Disorders
 *   Privacy Policy
