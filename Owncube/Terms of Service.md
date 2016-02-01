@@ -55,25 +55,4 @@ Registration for our trial accounts are limited to register only ONE account. If
 OwnCube will not refund money from Premium/ownCloud admin,.... accounts if there is no possbile and clear reason. Whether there is a justification, decision is by OwnCube management.Data loss is no reason to refund because nobody can be 100% sure that technical things are working ALL the time. Also we dont refund any amount due the reason that we offer TRIAL/TEST accounts for all services to try before buy a package from OwnCube.  
   
 
-11\. Bandwidth
-
-1\. VPS: we offer unlimited bandwidth. Unlimited = max. 5TB / month. As soon as you've reached this amount, the vps is suspended till the next period.  
-  
-2\. Single Accounts: Unlimited = fair use. If you use more than 60% of all the other customers' traffic amount together, we will inform you about this. If you do not decrease your sharing, we suspend the account till the next period.  
-  
-When we do, we will revise the updated date at the bottom of this page and send you an email. We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
-
-12\. Disk usage unlimited packages
-
-We have some special unlimited disk space offers during the time, where we offer unlimited disk space packages. Unlimited "soft-limits" are for single packages 1TB and for Admin packages 1,5TB. Unlimited = fair use. If you use more than 60% of all the other customers' disk space amount together, we will inform you about this. If you do not decrease your upload and usage, we suspend the account till the next period.  
-The terms "unlimited" and "unmetered" are defined by our experience with similarly situated customers. This means that your use of our resources may not exceed that of similarly situated customers. Examples of primary purposes for an account that are not allowed include, but are not limited to:  
-Audio/Video streaming (other than that which is incidental to a site's operation)  
-Video archive hosting and content  
-Online file (FTP) serving  
-Distribution of large audio or video content  
-
-13\. VPS Abuse
-
-If we get a Abuse mails due copyrighted files or illegal bandwidh / usage including transfer protocoll or proofs, we will suspend your VPS instantly and we will close your account and you will not get any refund.
-
 **24.11.2012**
