@@ -13,46 +13,46 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   14 (last comment by Chinasaurus 2 days ago)
+    *   14 (last comment by Chinasaurus 3 days ago)
 *   Retrieving Deleted Entries
     *   by tspmachina
     *   2 years ago
     *   in Miscellaenous
     *   0 votes
-    *   5 (last comment by perfectsonshine 2 days ago)
+    *   5 (last comment by perfectsonshine 3 days ago)
 *   i need my blog
     *   by kerryanne22
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   retrieving old blog
     *   by kerryanne22
-    *   3 days ago
+    *   4 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Request for blog archives
     *   by himesamaz
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Request for blog archives
     *   by himesamaz
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where is my blog?
     *   by queenieAPPLE
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Would also like my old blog
     *   by daysiee
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -76,7 +76,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Deleting my account
     *   by Vivi\_Ashina
-    *   1 week ago
+    *   2 weeks ago
     *   in Privacy
     *   0 votes
     *   0
