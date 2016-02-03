@@ -8,45 +8,51 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   unpublished blog entries
+    *   by XAUGUSTINESxCONFESSIONSX
+    *   1 hour ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   14 (last comment by Chinasaurus 4 days ago)
+    *   14 (last comment by Chinasaurus 5 days ago)
 *   Retrieving Deleted Entries
     *   by tspmachina
     *   2 years ago
     *   in Miscellaenous
     *   0 votes
-    *   5 (last comment by perfectsonshine 4 days ago)
+    *   5 (last comment by perfectsonshine 5 days ago)
 *   i need my blog
     *   by kerryanne22
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   retrieving old blog
     *   by kerryanne22
-    *   5 days ago
+    *   6 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Request for blog archives
     *   by himesamaz
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Request for blog archives
     *   by himesamaz
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where is my blog?
     *   by queenieAPPLE
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -70,7 +76,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Old Blogs!
     *   by x\_heylove
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -92,14 +98,8 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   cant find my old blog
-    *   by Ching111
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
-1 2 3 ... 167 Next
+1 2 3 ... 168 Next
 
 Help Categories
 
