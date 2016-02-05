@@ -428,7 +428,7 @@ Do you have Aetna insurance through an employer or are you a Medicare member? Ye
 
 Continue
 
-Log In
+Continue
 
 My ZIP code is: Select your county
 
