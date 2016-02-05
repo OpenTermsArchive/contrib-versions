@@ -8,33 +8,51 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   How do I make my account private?
+    *   by am8182
+    *   9 hours ago
+    *   in Privacy
+    *   0 votes
+    *   0
+*   cannot remember blog address
+    *   by sheridan151
+    *   12 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   unable to find old blog
+    *   by outlawstar766
+    *   17 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Some pictures lost after 2.0 Migration.
     *   by SusanPienHsu
     *   2 years ago
     *   in Pictures
     *   0 votes
-    *   10 (last comment by weapons\_mass\_distruction 22 hours ago)
+    *   10 (last comment by weapons\_mass\_distruction 1 day ago)
 *   Precious photos!!!!
     *   by shorty9564
     *   2 months ago
     *   in Pictures
     *   0 votes
-    *   1 (last comment by weapons\_mass\_distruction 22 hours ago)
+    *   1 (last comment by weapons\_mass\_distruction 1 day ago)
 *   Where did my blog go?!
     *   by weapons\_mass\_distruction
-    *   22 hours ago
+    *   1 day ago
     *   in Themes
     *   0 votes
     *   0
 *   Where did my blog go?!
     *   by weapons\_mass\_distruction
-    *   22 hours ago
+    *   1 day ago
     *   in Themes
     *   0 votes
     *   0
 *   unpublished blog entries
     *   by XAUGUSTINESxCONFESSIONSX
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -43,16 +61,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   14 (last comment by Chinasaurus 6 days ago)
+    *   14 (last comment by Chinasaurus 1 week ago)
 *   Retrieving Deleted Entries
     *   by tspmachina
     *   2 years ago
     *   in Miscellaenous
     *   0 votes
-    *   5 (last comment by perfectsonshine 6 days ago)
+    *   5 (last comment by perfectsonshine 1 week ago)
 *   i need my blog
     *   by kerryanne22
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -76,24 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Where is my blog?
     *   by queenieAPPLE
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Would also like my old blog
-    *   by daysiee
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Xanga Blog
-    *   by suyihung
-    *   1 week ago
-    *   in Personal URLs
-    *   0 votes
-    *   1 (last comment by eugenia 1 week ago)
-*   Deleted Entries
-    *   by tooBal0ney
     *   1 week ago
     *   in Data Migration
     *   0 votes
