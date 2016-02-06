@@ -8,21 +8,27 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Please give me my blog back
+    *   by radz\_ro
+    *   23 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   How do I make my account private?
     *   by am8182
-    *   9 hours ago
+    *   1 day ago
     *   in Privacy
     *   0 votes
     *   0
 *   cannot remember blog address
     *   by sheridan151
-    *   12 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   unable to find old blog
     *   by outlawstar766
-    *   17 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -31,28 +37,28 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Pictures
     *   0 votes
-    *   10 (last comment by weapons\_mass\_distruction 1 day ago)
+    *   10 (last comment by weapons\_mass\_distruction 2 days ago)
 *   Precious photos!!!!
     *   by shorty9564
     *   2 months ago
     *   in Pictures
     *   0 votes
-    *   1 (last comment by weapons\_mass\_distruction 1 day ago)
+    *   1 (last comment by weapons\_mass\_distruction 2 days ago)
 *   Where did my blog go?!
     *   by weapons\_mass\_distruction
-    *   1 day ago
+    *   2 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Where did my blog go?!
     *   by weapons\_mass\_distruction
-    *   1 day ago
+    *   2 days ago
     *   in Themes
     *   0 votes
     *   0
 *   unpublished blog entries
     *   by XAUGUSTINESxCONFESSIONSX
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -88,12 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Request for blog archives
     *   by himesamaz
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Where is my blog?
-    *   by queenieAPPLE
     *   1 week ago
     *   in Data Migration
     *   0 votes
