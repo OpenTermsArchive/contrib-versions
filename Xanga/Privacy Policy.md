@@ -13,28 +13,28 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   15 (last comment by Jay\_Guevara 3 hours ago)
+    *   15 (last comment by Jay\_Guevara 1 day ago)
 *   Please give me my blog back
     *   by radz\_ro
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How do I make my account private?
     *   by am8182
-    *   2 days ago
+    *   3 days ago
     *   in Privacy
     *   0 votes
     *   0
 *   cannot remember blog address
     *   by sheridan151
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   unable to find old blog
     *   by outlawstar766
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -43,28 +43,28 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Pictures
     *   0 votes
-    *   10 (last comment by weapons\_mass\_distruction 3 days ago)
+    *   10 (last comment by weapons\_mass\_distruction 4 days ago)
 *   Precious photos!!!!
     *   by shorty9564
     *   2 months ago
     *   in Pictures
     *   0 votes
-    *   1 (last comment by weapons\_mass\_distruction 3 days ago)
+    *   1 (last comment by weapons\_mass\_distruction 4 days ago)
 *   Where did my blog go?!
     *   by weapons\_mass\_distruction
-    *   3 days ago
+    *   4 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Where did my blog go?!
     *   by weapons\_mass\_distruction
-    *   3 days ago
+    *   4 days ago
     *   in Themes
     *   0 votes
     *   0
 *   unpublished blog entries
     *   by XAUGUSTINESxCONFESSIONSX
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
