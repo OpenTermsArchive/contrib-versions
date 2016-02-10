@@ -183,7 +183,7 @@ We support middleware providers that offer archiving solutions to firms subject 
 
 Also, if you have opted to bind any of your Service accounts to your Twitter, Facebook or other similar account, you can easily share content from our Services to these third party services, in accordance with your account settings (which you may change at any time) and respective policies of these third parties. Further, we allow third parties to look-up profile information (subject to your privacy settings) using your email address or first and last name information through its profile API (see Section 2.7. below).
 
-Third parties (for example, your email provider) may give you the option to upload certain information in your contacts stored with us onto their own service. If you choose to share your contacts in this way, you will be granting your third party provider the right to store, access, disclose and use these contacts in the ways described in such third party's terms and privacy policy.
+Third parties (for example, your email provider) may give you the option to upload certain information in your contacts stored with us onto their own service. If you choose to share your contacts in this way, you will be granting your third party provider the right to store, access, disclose and use your these contacts in the ways described in such third party's terms and privacy policy.
 
 2.7. Third Parties Using LinkedIn Platform Services
 
