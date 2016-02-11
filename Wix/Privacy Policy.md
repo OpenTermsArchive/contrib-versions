@@ -2,7 +2,7 @@ Wix
 
 *   I Need a Site for...
 
-*   {"BUSINESS":"Business","MUSIC":"Music","PHOTOGRAPHY":"Photography","ONLINE\_STORE":"Online Store","DESIGNER":"Designer","RESTAURANTS":"Restaurants","ACCOMMODATION":"Accommodation","EVENTS":"Events","PORTFOLIO\_AND\_CV":"Portfolio &. CV","OTHER":"Other"}
+*   {"BUSINESS":"Business","MUSIC":"Music","PHOTOGRAPHY":"Photography","ONLINE\_STORE":"Online Store","DESIGNER":"Designer","RESTAURANTS":"Restaurants","ACCOMMODATION":"Accommodation","EVENTS":"Events","PORTFOLIO\_AND\_CV":"Portfolio &. CV","BEAUTY\_AND\_WELLNESS":"Beauty &. Wellness","OTHER":"Other"}
 *   My Sites
 *   Templates
 *   Explore
