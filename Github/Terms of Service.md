@@ -21,13 +21,13 @@ A. Account Terms
     
 3.  You must provide your name, a valid email address, and any other information requested in order to complete the signup process.
     
-4.  Your login may only be used by one person - a single login shared by multiple people is not permitted. You may create separate logins for as many people as your plan allows.
+4.  Your login may only be used by one person - i.e., a single login may not be shared by multiple people - except that a machine user's actions may be directed by multiple people. You may create separate logins for as many people as your plan allows.
     
 5.  You are responsible for maintaining the security of your account and password. GitHub cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
     
 6.  You are responsible for all Content posted and activity that occurs under your account (even when Content is posted by others who have accounts under your account).
     
-7.  One person or legal entity may not maintain more than one free account.
+7.  One person or legal entity may not maintain more than one free account, and one machine user account that is used exclusively for performing automated tasks.
     
 8.  You may not use the Service for any illegal or unauthorized purpose. You must not, in the use of the Service, violate any laws in your jurisdiction (including but not limited to copyright or trademark laws).
     
@@ -132,6 +132,6 @@ G. General Conditions
 18.  Map data copyright OpenStreetMap contributors and licensed under the Open Data Commons Open Database License. Map design and imagery subject to the MapBox Terms of Service.
     
 
-Last Updated: March 7, 2015
+Last Updated: February 11, 2016
 
 *   Contact a human
