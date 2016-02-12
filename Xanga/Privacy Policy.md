@@ -10,13 +10,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Can't remember old password
     *   by TwoWillDo2
-    *   14 minutes ago
+    *   1 day ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   I downloaded my archived blog, but files were missing
     *   by Ro0nilWazlib
-    *   1 hour ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -25,46 +25,46 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   16 (last comment by kisspoetry 12 hours ago)
+    *   16 (last comment by kisspoetry 1 day ago)
 *   Old Blogs
     *   by kisspoetry
-    *   12 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where is my old blog and how to post @@
     *   by pang\_kachun
-    *   21 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Hello
     *   by StarlahMantra
-    *   1 day ago
+    *   2 days ago
     *   in Premium
     *   0 votes
-    *   1 (last comment by StarlahMantra 1 day ago)
+    *   1 (last comment by StarlahMantra 2 days ago)
 *   Please give me my blog back
     *   by radz\_ro
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How do I make my account private?
     *   by am8182
-    *   6 days ago
+    *   1 week ago
     *   in Privacy
     *   0 votes
     *   0
 *   cannot remember blog address
     *   by sheridan151
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   unable to find old blog
     *   by outlawstar766
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
