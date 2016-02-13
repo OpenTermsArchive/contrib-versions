@@ -1,6 +1,6 @@
 Dropbox Privacy Policy
 
-Posted: November 4, 2015
+Posted: February 12, 2016
 
 Thanks for using Dropbox! Here we describe how we collect, use and handle your information when you use our websites, software and services ("Services").
 
@@ -45,9 +45,11 @@ _Retention_. We'll retain information you store on our Services for as long as w
 
 Where
 
-_Around the world_. To provide you with the Services, we may store, process and transmit information in locations around the world - including those outside your country. Information may also be stored locally on the devices you use to access the Services.
+_Around the world_. To provide you with the Services, we may store, process and transmit information in the United States and locations around the world - including those outside your country. Information may also be stored locally on the devices you use to access the Services.
 
 _Safe Harbor_. Dropbox complies with the EU-U.S. and Swiss-U.S. Safe Harbor ("Safe Harbor") frameworks and principles. We have certified our compliance, and you can view our certifications here. You can learn more about Safe Harbor by visiting http://export.gov/safeharbor. JAMS is the independent organization responsible for reviewing and resolving complaints about our Safe Harbor compliance. We ask that you first submit any such complaints directly to us via privacy@dropbox.com. If you aren't satisfied with our response, please contact JAMS at http://www.jamsinternational.com/rules-procedures/safeharbor/file-safe-harbor-claim.
+
+NOTE: When transferring data from the European Union, the European Economic Area, and Switzerland, Dropbox relies upon a variety of legal mechanisms, including contracts with our users. Dropbox doesn’t rely upon Safe Harbor as a legal basis for data transfer but does adhere to the Safe Harbor Privacy Principles while specific guidance for the forthcoming EU-US Privacy Shield program is developed. For information about data transfers from Europe to the United States, please visit this page.
 
 Changes
 
