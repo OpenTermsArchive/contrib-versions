@@ -8,15 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Retrieve Old Account
+    *   \[Resolved\] by anoiFace
+    *   2 years ago
+    *   in Passwords &. Sign-In
+    *   0 votes
+    *   2 (last comment by lyys\_0702 23 hours ago)
 *   Can't remember old password
     *   by TwoWillDo2
-    *   1 day ago
+    *   2 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   I downloaded my archived blog, but files were missing
     *   by Ro0nilWazlib
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -25,28 +31,28 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   16 (last comment by kisspoetry 1 day ago)
+    *   16 (last comment by kisspoetry 2 days ago)
 *   Old Blogs
     *   by kisspoetry
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where is my old blog and how to post @@
     *   by pang\_kachun
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Hello
     *   by StarlahMantra
-    *   2 days ago
+    *   3 days ago
     *   in Premium
     *   0 votes
-    *   1 (last comment by StarlahMantra 2 days ago)
+    *   1 (last comment by StarlahMantra 3 days ago)
 *   Please give me my blog back
     *   by radz\_ro
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -90,12 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by weapons\_mass\_distruction
     *   1 week ago
     *   in Themes
-    *   0 votes
-    *   0
-*   unpublished blog entries
-    *   by XAUGUSTINESxCONFESSIONSX
-    *   1 week ago
-    *   in Data Migration
     *   0 votes
     *   0
 
