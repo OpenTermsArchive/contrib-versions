@@ -8,21 +8,27 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   i don't know how to do any of this
+    *   by simplyrojo
+    *   2 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Retrieve Old Account
     *   \[Resolved\] by anoiFace
     *   2 years ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   2 (last comment by lyys\_0702 23 hours ago)
+    *   2 (last comment by lyys\_0702 1 day ago)
 *   Can't remember old password
     *   by TwoWillDo2
-    *   2 days ago
+    *   3 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   I downloaded my archived blog, but files were missing
     *   by Ro0nilWazlib
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -31,25 +37,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   16 (last comment by kisspoetry 2 days ago)
+    *   16 (last comment by kisspoetry 3 days ago)
 *   Old Blogs
     *   by kisspoetry
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where is my old blog and how to post @@
     *   by pang\_kachun
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Hello
     *   by StarlahMantra
-    *   3 days ago
+    *   4 days ago
     *   in Premium
     *   0 votes
-    *   1 (last comment by StarlahMantra 3 days ago)
+    *   1 (last comment by StarlahMantra 4 days ago)
 *   Please give me my blog back
     *   by radz\_ro
     *   1 week ago
@@ -86,12 +92,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Pictures
     *   0 votes
     *   1 (last comment by weapons\_mass\_distruction 1 week ago)
-*   Where did my blog go?!
-    *   by weapons\_mass\_distruction
-    *   1 week ago
-    *   in Themes
-    *   0 votes
-    *   0
 *   Where did my blog go?!
     *   by weapons\_mass\_distruction
     *   1 week ago
