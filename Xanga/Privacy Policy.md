@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   i don't know how to do any of this
     *   by simplyrojo
-    *   2 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,16 +19,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   2 (last comment by lyys\_0702 1 day ago)
+    *   2 (last comment by lyys\_0702 2 days ago)
 *   Can't remember old password
     *   by TwoWillDo2
-    *   3 days ago
+    *   4 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   I downloaded my archived blog, but files were missing
     *   by Ro0nilWazlib
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -37,25 +37,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   16 (last comment by kisspoetry 3 days ago)
+    *   16 (last comment by kisspoetry 4 days ago)
 *   Old Blogs
     *   by kisspoetry
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where is my old blog and how to post @@
     *   by pang\_kachun
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Hello
     *   by StarlahMantra
-    *   4 days ago
+    *   5 days ago
     *   in Premium
     *   0 votes
-    *   1 (last comment by StarlahMantra 4 days ago)
+    *   1 (last comment by StarlahMantra 5 days ago)
 *   Please give me my blog back
     *   by radz\_ro
     *   1 week ago
