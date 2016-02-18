@@ -8,9 +8,27 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Where did my blog go?!
+    *   by weapons\_mass\_distruction
+    *   2 weeks ago
+    *   in Themes
+    *   0 votes
+    *   1 (last comment by LoMing06 1 hour ago)
+*   wondering if there is any possibilities of getting data from a closed account
+    *   by fion\_fung
+    *   9 hours ago
+    *   in Passwords &. Sign-In
+    *   0 votes
+    *   0
+*   where is my old blog?
+    *   by chihzhenling
+    *   13 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   i don't know how to do any of this
     *   by simplyrojo
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,16 +37,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   2 (last comment by lyys\_0702 4 days ago)
+    *   2 (last comment by lyys\_0702 5 days ago)
 *   Can't remember old password
     *   by TwoWillDo2
-    *   6 days ago
+    *   1 week ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   I downloaded my archived blog, but files were missing
     *   by Ro0nilWazlib
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -37,16 +55,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   16 (last comment by kisspoetry 6 days ago)
+    *   16 (last comment by kisspoetry 1 week ago)
 *   Old Blogs
     *   by kisspoetry
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where is my old blog and how to post @@
     *   by pang\_kachun
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -78,24 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by outlawstar766
     *   1 week ago
     *   in Data Migration
-    *   0 votes
-    *   0
-*   Some pictures lost after 2.0 Migration.
-    *   by SusanPienHsu
-    *   2 years ago
-    *   in Pictures
-    *   0 votes
-    *   10 (last comment by weapons\_mass\_distruction 1 week ago)
-*   Precious photos!!!!
-    *   by shorty9564
-    *   2 months ago
-    *   in Pictures
-    *   0 votes
-    *   1 (last comment by weapons\_mass\_distruction 1 week ago)
-*   Where did my blog go?!
-    *   by weapons\_mass\_distruction
-    *   1 week ago
-    *   in Themes
     *   0 votes
     *   0
 
