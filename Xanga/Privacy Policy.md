@@ -13,22 +13,22 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by LoMing06 1 hour ago)
+    *   1 (last comment by LoMing06 1 day ago)
 *   wondering if there is any possibilities of getting data from a closed account
     *   by fion\_fung
-    *   9 hours ago
+    *   1 day ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   where is my old blog?
     *   by chihzhenling
-    *   13 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   i don't know how to do any of this
     *   by simplyrojo
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -37,7 +37,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   2 (last comment by lyys\_0702 5 days ago)
+    *   2 (last comment by lyys\_0702 6 days ago)
 *   Can't remember old password
     *   by TwoWillDo2
     *   1 week ago
@@ -82,19 +82,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   How do I make my account private?
     *   by am8182
-    *   1 week ago
+    *   2 weeks ago
     *   in Privacy
     *   0 votes
     *   0
 *   cannot remember blog address
     *   by sheridan151
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   unable to find old blog
     *   by outlawstar766
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
