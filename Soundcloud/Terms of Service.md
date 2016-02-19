@@ -1,5 +1,7 @@
 SoundCloud Terms of Use
 
+We are updating our Terms of Use on February 22nd 2016. See here for the updated version.
+
 Welcome to SoundCloud®, a service provided by SoundCloud Limited (“**SoundCloud**”, “**we**” “**our**”, or “**us**”).
 
 These Terms of Use govern your use of soundcloud.com and m.soundcloud.com (together, the “**Website**”), our mobile and desktop apps (our "**Apps**") and all related players, widgets, tools, applications, data, software, APIs (which may also be subject to separate API Terms of Use) and other services provided by SoundCloud (the “**Services**”).
