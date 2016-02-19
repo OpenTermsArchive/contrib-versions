@@ -119,7 +119,7 @@ The contract is concluded with XING AG, Dammtorstraße 30, 20354 Hamburg, German
 **2.8** Each user may only create one user profile. The user is not permitted to allow third parties to use its user profile.
 
    
-3\. Right of Right of withdrawal for consumers
+3\. Right of withdrawal for consumers
 
 Instructions on withdrawal and model withdrawal form
 
