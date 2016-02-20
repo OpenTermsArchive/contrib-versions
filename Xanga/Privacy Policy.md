@@ -8,27 +8,39 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Please help me find my blog
+    *   by qpalzmzmalqp
+    *   3 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Please help me find my blog
+    *   by qpalzmzmalqp
+    *   3 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Where did my blog go?!
     *   by weapons\_mass\_distruction
     *   2 weeks ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by LoMing06 1 day ago)
+    *   1 (last comment by LoMing06 2 days ago)
 *   wondering if there is any possibilities of getting data from a closed account
     *   by fion\_fung
-    *   1 day ago
+    *   2 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   where is my old blog?
     *   by chihzhenling
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   i don't know how to do any of this
     *   by simplyrojo
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -37,7 +49,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   2 (last comment by lyys\_0702 6 days ago)
+    *   2 (last comment by lyys\_0702 1 week ago)
 *   Can't remember old password
     *   by TwoWillDo2
     *   1 week ago
@@ -76,7 +88,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by StarlahMantra 1 week ago)
 *   Please give me my blog back
     *   by radz\_ro
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -86,20 +98,8 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Privacy
     *   0 votes
     *   0
-*   cannot remember blog address
-    *   by sheridan151
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   unable to find old blog
-    *   by outlawstar766
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
-1 2 3 ... 168 Next
+1 2 3 ... 169 Next
 
 Help Categories
 
