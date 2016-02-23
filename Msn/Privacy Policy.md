@@ -215,7 +215,7 @@ Finally, Microsoft services often contain web beacons or similar technologies fr
 *   Nielsen: http://www.nielsen-online.com/corp.jsp?section=leg\_prs&nav=1#Optoutchoices
 *   Omniture (Adobe): http://www.d1.sc.omtrdc.net/optout.html
 *   Visible Measures: http://corp.visiblemeasures.com/viewer-settings
-*   WebTrends: https://ondemand.webtrends.com/support/optout.aspx
+*   WebTrends: https://ondemand.webtrends.com/support/optout.asp
 
 **Other Similar Technologies**
 
