@@ -8,15 +8,27 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Trying to find old blog as everyone else
+    *   by tatecam
+    *   3 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Data Migration
+    *   by nonman94
+    *   8 months ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by nonman94 21 hours ago)
 *   Please help me find my blog
     *   by qpalzmzmalqp
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help me find my blog
     *   by qpalzmzmalqp
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -25,16 +37,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by LoMing06 5 days ago)
+    *   1 (last comment by LoMing06 6 days ago)
 *   wondering if there is any possibilities of getting data from a closed account
     *   by fion\_fung
-    *   5 days ago
+    *   6 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   where is my old blog?
     *   by chihzhenling
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -82,22 +94,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Hello
     *   by StarlahMantra
-    *   1 week ago
+    *   2 weeks ago
     *   in Premium
     *   0 votes
-    *   1 (last comment by StarlahMantra 1 week ago)
-*   Please give me my blog back
-    *   by radz\_ro
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   How do I make my account private?
-    *   by am8182
-    *   2 weeks ago
-    *   in Privacy
-    *   0 votes
-    *   0
+    *   1 (last comment by StarlahMantra 2 weeks ago)
 
 1 2 3 ... 169 Next
 
