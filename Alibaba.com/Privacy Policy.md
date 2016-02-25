@@ -181,7 +181,7 @@ If you are a user from Mainland China, please send us your comments and response
 
 Free APP: Available on the App Store Available on Android Download TradeManager: Follow Us: Facebook Twitter Youtube In
 
-Alibaba.com Site: International - Español - Português - Deutsch - Français - Italiano - अंग्रेज़ी - Pусский - 한국어 - 日本語 - اللغة العربية - ภาษาไทย - Türk - Nederlands - tiếng Việt - Indonesian - עברית
+Alibaba.com Site: International - Español - Português - Deutsch - Français - Italiano - हिंदी - Pусский - 한국어 - 日本語 - اللغة العربية - ภาษาไทย - Türk - Nederlands - tiếng Việt - Indonesian - עברית
 
 Alibaba Group | Taobao Marketplace | Tmall.com | Juhuasuan | AliExpress | Alibaba.com | 1688.com | Alimama | Alitrip  
 Alibaba Cloud Computing | YunOS | AliTelecom | HiChina | Autonavi | UCWeb | Umeng | Xiami | TTPod | Laiwang | DingTalk | Alipay
