@@ -1,5 +1,3 @@
-**We have updated our Privacy Policy as of 11 January 2016.**
-
 SoundCloud Privacy Policy
 
 Welcome to SoundCloud®, a service provided by SoundCloud Limited (“**SoundCloud**”, “**we**” “**our**”, “**us**”).
