@@ -8,9 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   i need my blog
+    *   by ying827
+    *   3 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   i need my blog
+    *   by ying827
+    *   3 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Trying to find old blog as everyone else
     *   by tatecam
-    *   3 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,34 +31,34 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   8 months ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by nonman94 21 hours ago)
+    *   2 (last comment by nonman94 1 day ago)
 *   Please help me find my blog
     *   by qpalzmzmalqp
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help me find my blog
     *   by qpalzmzmalqp
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where did my blog go?!
     *   by weapons\_mass\_distruction
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by LoMing06 6 days ago)
+    *   1 (last comment by LoMing06 1 week ago)
 *   wondering if there is any possibilities of getting data from a closed account
     *   by fion\_fung
-    *   6 days ago
+    *   1 week ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   where is my old blog?
     *   by chihzhenling
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -64,13 +76,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 (last comment by lyys\_0702 1 week ago)
 *   Can't remember old password
     *   by TwoWillDo2
-    *   1 week ago
+    *   2 weeks ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   I downloaded my archived blog, but files were missing
     *   by Ro0nilWazlib
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -79,25 +91,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   16 (last comment by kisspoetry 1 week ago)
+    *   16 (last comment by kisspoetry 2 weeks ago)
 *   Old Blogs
     *   by kisspoetry
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Where is my old blog and how to post @@
-    *   by pang\_kachun
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Hello
-    *   by StarlahMantra
     *   2 weeks ago
-    *   in Premium
+    *   in Data Migration
     *   0 votes
-    *   1 (last comment by StarlahMantra 2 weeks ago)
+    *   0
 
 1 2 3 ... 169 Next
 
