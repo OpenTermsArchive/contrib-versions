@@ -75,7 +75,7 @@ x Cancel
     *   Pontiac
     *   Oldsmobile
     *   Saturn
-    *   Hummer
+    *   HUMMER
 *   Select a Country
 *   Contact Us
 
@@ -337,7 +337,7 @@ Owner Assistance
 *   Pontiac
 *   Oldsmobile
 *   Saturn
-*   Hummer
+*   HUMMER
 
 Site Help
 
