@@ -10,19 +10,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   i need my blog
     *   by ying827
-    *   3 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   i need my blog
     *   by ying827
-    *   3 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Trying to find old blog as everyone else
     *   by tatecam
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -31,16 +31,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   8 months ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by nonman94 1 day ago)
+    *   2 (last comment by nonman94 2 days ago)
 *   Please help me find my blog
     *   by qpalzmzmalqp
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help me find my blog
     *   by qpalzmzmalqp
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
