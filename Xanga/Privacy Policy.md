@@ -8,21 +8,27 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   i need my blog
-    *   by ying827
-    *   1 day ago
+*   Request for (really) old posts
+    *   by lindapark
+    *   21 hours ago
     *   in Data Migration
     *   0 votes
     *   0
 *   i need my blog
     *   by ying827
-    *   1 day ago
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   i need my blog
+    *   by ying827
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Trying to find old blog as everyone else
     *   by tatecam
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -31,16 +37,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   8 months ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by nonman94 2 days ago)
+    *   2 (last comment by nonman94 3 days ago)
 *   Please help me find my blog
     *   by qpalzmzmalqp
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help me find my blog
     *   by qpalzmzmalqp
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -73,7 +79,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   2 (last comment by lyys\_0702 1 week ago)
+    *   2 (last comment by lyys\_0702 2 weeks ago)
 *   Can't remember old password
     *   by TwoWillDo2
     *   2 weeks ago
@@ -92,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   16 (last comment by kisspoetry 2 weeks ago)
-*   Old Blogs
-    *   by kisspoetry
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
 1 2 3 ... 169 Next
 
