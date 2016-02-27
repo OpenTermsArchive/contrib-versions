@@ -223,7 +223,7 @@ Home >. Allstate Overview >. Privacy Statement AIC Share allstate.com ﻿Importa
   
   
 
-**Revised May 29, 2015**
+**Revised February 26, 2016**
 
 Thank you for choosing Allstate. We value you, respect your privacy and work hard to protect your personal information.  
   
@@ -250,7 +250,7 @@ Our Privacy Assurance
   
 As you can see, protecting your personal information is important to us. In addition to the practices described above, we use a variety of physical, technical and administrative security measures that help to safeguard your information. For Social Security Numbers (SSN), this includes restricting access to our employees, agents and others who use your SSN only as permitted by law, such as to comply with the law, to provide you with products and services or to handle your claims. Our privacy practices continue to apply to your information even if you cease to be an Allstate customer. What Personal Information Do We Have and Where Do We Get It
 
-We gather personal information from you and from outside sources for business purposes. Some examples of the information we collect from you may include your name, phone number, home and e-mail addresses, driver's license number, social security number, marital status, family member information and healthcare information. Also, we maintain records that include, but are not limited to, policy coverages, premiums, and payment history. We also collect information from outside sources that may include, but is not limited to, your driving record, claims history, medical information and credit information. Your information is stored in an encrypted environment.  
+We gather personal information from you and from outside sources for business purposes. Some examples of the information we collect from you may include your name, phone number, home and e-mail addresses, driver's license number, social security number, marital status, family member information and healthcare information. Also, we maintain records that include, but are not limited to, policy coverages, premiums, and payment history. We also collect information from outside sources that may include, but is not limited to, your driving record, claims history, medical information and credit information.  
   
 In addition, Allstate and its business partners gather information through Internet activity, which may include, for example, your operating system, links you used to visit allstate.com, web pages you viewed while visiting our site or applications, Internet Protocol (IP) addresses, and cookies. We use cookies, analytics and other technologies to help:
 
