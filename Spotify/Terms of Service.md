@@ -1,203 +1,335 @@
 Spotify Terms and Conditions of Use
 
-Effective as from 5 March 2014
+Effective as of September 9, 2015
 
-1.  Introductions
-2.  Changes to the Agreements
-3.  Enjoying Spotify
-    *   3.1 Subscriptions
-    *   3.2 Codes and other Limited Offers
-    *   3.3 Trials
-4.  Licence and assignment
-5.  Third Party Applications
-6.  User generated content
-7.  Consideration
-8.  User Guidelines
-9.  Copyright infringement
-10.  Technology limitations and modifications
-11.  Brand accounts
-12.  Export control
-13.  Payments, cancellations and cooling off
-14.  Term and termination
-15.  Warranty
-16.  Limitation
-17.  Entire agreement
-18.  Severability
-19.  Choice of law, mandatory arbitration and venue
-20.  Local Country chart
+1 Introduction  
+2 Changes to the Agreements  
+3 Enjoying Spotify  
+4 Rights we grant you  
+5 Third Party Applications  
+6 User-Generated Content  
+7 Rights you grant us  
+8 User guidelines  
+9 Infringement and reporting User Content  
+10 Service limitations and modifications  
+11 Brand Accounts  
+12 Spotify Support Community  
+13 Customer support  
+14 Export control  
+15 Payments, cancellations, and cooling off  
+16 Term and termination  
+17 Warranty and disclaimer  
+18 Limitation  
+19 Third party rights  
+20 Entire agreement  
+21 Severability and waiver  
+22 Assignment  
+23 Indemnification  
+24 Choice of law, mandatory arbitration and venue  
+25 Contact us
 
-Hello, and welcome to our Terms and Conditions of Use. This is important and affects your legal rights, so please read them and our Privacy Policy carefully. We hope you’re sitting comfortably. Here we go…
+Hello, and welcome to our Terms and Conditions of Use. This is important and affects your legal rights, so please read them and our Privacy Policy and other terms referenced in this document carefully. We hope you’re sitting comfortably and listening to some great music. Here we go…
 
-1\. Introductions
+1 Introduction
 
-Thanks for choosing Spotify **(“Spotify”, “we”, “us”, “our”).** By using the Spotify service, websites, or software applications (together, the “Spotify Service” or “Service”), including by purchasing or receiving Codes or Limited Offers, you are entering into a binding contract with our local company in your country of residence (your “Local Country”) if applicable or the company listed in this chart. Your agreement with us includes these Terms and Conditions of Use (**“Terms”**) and our Privacy Policy (together with the Mobile Terms where applicable, the **“Agreements”**). If you don’t agree with these Terms, then please don’t use the Service.
+Thanks for choosing Spotify (“Spotify”, “we”, “us”, “our”). By signing up or otherwise using the Spotify service, websites, and software applications (together, the “Spotify Service” or “Service”), or accessing any content or material that is made available by Spotify through the Service (the “Content”) you are entering into a binding contract with the Spotify entity indicated at the bottom of this document. The Spotify Service also includes the Spotify Support Community as further described in the Spotify Support Community section.
 
-We’re pleased to make our Service available to you. The Spotify Service includes social and interactive features.
+The Spotify Service includes social and interactive features. Use of the Spotify Service relies on several technical requirements.
 
-In order to use the Spotify Service, you need to (a) be 18 or older, or be 13 or older and have your parent or guardian’s consent to these Terms, (b) have the power to enter a binding contract with us and are not barred from doing so under any applicable laws, and (c) be resident in the Local Country. You also warrant that any registration information that you submit to Spotify is true, accurate and complete, and you agree to keep it that way at all times.
+Your agreement with us includes these Terms and Conditions of Use (“Terms”) and our Privacy Policy. (The Terms, Privacy Policy, and any additional terms that you agree to, as discussed in the Entire Agreement section, are referred to together as the “Agreements”.) If you wish to review the terms of the Agreements, the effective version of the Agreements can be found on Spotify’s website. You acknowledge that you have read and understood the Agreements, accept these Agreements, and agree to be bound by them. If you don’t agree with (or cannot comply with) the Agreements, then you may not use the Spotify Service or consume any Content.
 
-2\. Changes to the Agreements
+**Please read the Agreements carefully.** They cover important information about Spotify Services provided to you and any charges, taxes, and fees we bill you. **The Agreements include information about future changes to the Agreements, export controls, automatic renewals, limitations of liability, privacy information, a class action waiver, and resolution of disputes by arbitration instead of in court.**
 
-Occasionally we may, in our discretion, make changes to the Spotify Service and Agreements. When we make changes to the Agreements that we consider material, we’ll notify you through the Service. By continuing to use the Service after those changes are made, you are expressing and acknowledging your acceptance of the changes.
+Any information that you provided during sign-up can be corrected during the sign-up process by returning to the previous screens and correcting erroneous information.
 
-3\. Enjoying Spotify
+In order to use the Spotify Service and access the Content, you need to (1) be 18 or older, or be 13 or older and have your parent or guardian’s consent to the Agreements (except as set forth in the chart below), (2) have the power to enter a binding contract with us and not be barred from doing so under any applicable laws, and (3) be resident in a country where the Service is available. You also promise that any registration information that you submit to Spotify is true, accurate, and complete, and you agree to keep it that way at all times.
+
+If you are a resident of one of the following countries, reference this chart for your country-specific age restrictions:
+
+Country Age Requirements Chile, Ecuador, Paraguay, Peru Must be 18 or older, or be 15 or older and have parent or guardian consent. Brazil Must be 18 or older, or be 16 or older and have parent or guardian consent. Nicaragua, Taiwan Must be 20 or older, or be 13 or older and have parent or guardian consent. Bulgaria, Hungary, Germany Must be 18 or older, or be 14 or older and have parent or guardian consent. Italy Must be 13 or older to use Free Service. To register for a Paid Subscription, you must be 18 or older, or be 13 or older and have parent or guardian consent (your parents/guardians will enter into contract on behalf of you). Malaysia Must be 18 or older, or if 13 to 18, parent or guardian consent is required, and guardian enters into agreement. Lithuania Must be 13 or older to use Service. For Paid Subscriptions, you must be 18 or older, or be 14 or older with parent or guardian consent. If you are 13 to 18, guardian enters into agreement. Canada Must be 13 or older to use Service. For Paid Subscriptions, you must be age of majority in your province or territory of residence, or 13 or older with parent or guardian consent. Spain Must be 14 or older to use Free Service. To register for a Paid Subscription, you must be 18 or older, or be 14 or older and have parent or guardian consent (your parents/guardians will enter into contract on behalf of you). 2 Changes to the Agreements
+
+Occasionally we may, in our discretion, make changes to the Agreements. When we make material changes to the Agreements, we’ll provide you with prominent notice as appropriate under the circumstances, e.g., by displaying a prominent notice within the Service or by sending you an email. In some cases, we will notify you in advance, and your continued use of the Service after the changes have been made will constitute your acceptance of the changes. Please therefore make sure you read any such notice carefully. If you do not wish to continue using the Service under the new version of the Agreements, you may terminate the Agreements by contacting us through the Customer Service contact form.
+
+3 Enjoying Spotify
 
 Here’s some information about all the ways you can enjoy Spotify.
 
-3.1 Subscriptions
+3.1 Our Services &. Paid Subscriptions
 
-Spotify account holders may access the Spotify Service by any of our several Subscriptions:
+Spotify provides streaming services offering a selection of music and other content. Certain Spotify services are provided to you free-of-charge. Other Spotify services require payment before you can access them. The Spotify services that may be accessed after payment are currently referred to as the “Premium Service” and the “Unlimited Service” (together, the “Paid Subscriptions”). The Spotify service that does not require payment is currently referred to as the “Free Service”. You can learn more about our services by visiting our website.
 
-*   **Free Service:** an ad-based, free-of-charge service;
-*   **Unlimited Service:** a subscription fee-based service;
-*   **Premium Service:** an ad-free, subscription fee-based service which enables you to listen to music while not connected to the internet, among other features. or
-*   **Mobile Service:** via a supported mobile handset.
+The Unlimited Service may not be available to all users. We will explain which services are available to you when you are signing up for the services. If you cancel your subscription to the Unlimited Service, or if your subscription to the Unlimited Service is interrupted (for example, if you change your payment details), you may not be able to re-subscribe for the Unlimited Service. Note that the Unlimited Service may be discontinued in the future, in which case you will no longer be charged for the Service.
 
-The Premium Service permits you to store cached content on up to three (3) personal computers, mobile handsets and/or other relevant devices (collectively “Devices”) while your Premium Service subscription is active. You may not transfer copies of cached content to any other device via any means. By using the Mobile Service, you agree to accept the Mobile Terms and to register for the Service as a mobile subscriber. The Premium Service and the Unlimited Service are hereinafter referred to as “Paid Subscriptions”
+If you reside in Turkey, your access to the Free Service may be limited to a fixed amount of listening hours per month.
 
-3.2 Codes and other Limited Offers
+3.2 Codes and other pre-paid offers
 
-If you have purchased a code sold by or on behalf of Spotify for access to the Unlimited Service or Premium Service for the time period indicated on your email, card or paper receipt (“Code”), or if you are accessing the service through some other limited offer which you received or purchased from Spotify (“Limited Offer”), these Agreements apply to your access to the Service. Any separate sets of terms and conditions presented to you along with the Code or other Limited Offer also apply to your access to the Service using the Code or Limited Offer.
-
-Subject to any rights you may have under Section 12, Codes are only redeemable in the country where you purchased such Code, not redeemable for cash and may not be returned for a cash refund, exchanged, resold or used to purchase other Codes.
+If you have purchased or received a code, gift card, pre-paid offer or other offer provided or sold by or on behalf of Spotify for access to a Paid Subscription (“Code”), separate terms and conditions presented to you along with the Code may also apply to your access to the Service and you agree to comply with any such terms and conditions.
 
 3.3 Trials
 
-From time to time, we may offer trials of the Premium Service and/or Mobile Service for a specified period without payment (a “Trial”). Spotify reserves the right, in its absolute discretion, to determine your eligibility for a Trial, and to withdraw or to modify a Trial at any time without prior notice and with no liability.
+From time to time, we or others on our behalf may offer trials of Paid Subscriptions for a specified period without payment or at a reduced rate (a “Trial”). Spotify reserves the right, in its absolute discretion, to determine your eligibility for a Trial, and, subject to applicable laws, to withdraw or to modify a Trial at any time without prior notice and with no liability, to the greatest extent permitted under the law.
 
-For some Trials, we’ll require you to provide your payment details to start the Trial. At the end of such Trials, we may automatically start to charge you for the Premium Service on the first day following the end of the Trial, on a recurring monthly basis. By providing your payment details in conjunction with the Trial, you agree to this charge. If you do not want this charge, you must change your Subscription to the Free Service through your Spotify account’s settings before the end of the Trial.
+For some Trials, we’ll require you to provide your payment details to start the Trial. AT THE END OF SUCH TRIALS, WE MAY AUTOMATICALLY START TO CHARGE YOU FOR THE APPLICABLE PAID SUBSCRIPTION ON THE FIRST DAY FOLLOWING THE END OF THE TRIAL, ON A RECURRING MONTHLY BASIS. BY PROVIDING YOUR PAYMENT DETAILS IN CONJUNCTION WITH THE TRIAL, YOU AGREE TO THIS CHARGE USING SUCH PAYMENT DETAILS. IF YOU DO NOT WANT THIS CHARGE, YOU MUST CANCEL THE APPLICABLE PAID SUBSCRIPTION THROUGH YOUR SPOTIFY ACCOUNT’S SUBSCRIPTION PAGE OR TERMINATE YOUR SPOTIFY ACCOUNT BEFORE THE END OF THE TRIAL. IF YOU DO NOT WANT TO CONTINUE TO BE CHARGED ON A RECURRING MONTHLY BASIS, YOU MUST CANCEL THE APPLICABLE PAID SUBSCRIPTION THROUGH YOUR SPOTIFY ACCOUNT’S SUBSCRIPTION PAGE OR TERMINATE YOUR SPOTIFY ACCOUNT BEFORE THE END OF THE RECURRING MONTHLY PERIOD. PAID SUBSCRIPTIONS CANNOT BE TERMINATED BEFORE THE END OF THE PERIOD FOR WHICH YOU HAVE ALREADY PAID, AND EXCEPT AS EXPRESSLY PROVIDED IN THESE TERMS, SPOTIFY WILL NOT REFUND ANY FEES THAT YOU HAVE ALREADY PAID. THE LIMITATION SECTION SETS FORTH ADDITIONAL TERMS REGARDING CANCELLATION OF YOUR PAID SUBSCRIPTION.
 
-4\. Licence and assignment
+4 Rights we grant you
 
-The Spotify Service and the content provided through it are the property of Spotify or Spotify's licensors, and we grant you a limited, non-exclusive, revocable licence to make personal, non-commercial (except as permitted under Section 11) use of the Spotify Service and to receive the media content made available through the Spotify Service in your Local Country, based on the Subscription or Trial, you have selected (the “Licence”). This Licence shall remain in effect for a period of 20 years unless terminated by you or Spotify.
+The Spotify Service and the Content are the property of Spotify or Spotify's licensors. We grant you a limited, non-exclusive, revocable licence to make use of the Spotify Service, and a limited, non-exclusive, revocable licence to make personal, non-commercial, entertainment use of the Content (the “Licence”). This Licence shall remain in effect until and unless terminated by you or Spotify. You promise and agree that you are using the Content for your own personal, non-commercial, entertainment use and that you will not redistribute or transfer the Spotify Service or the Content.
 
-The Spotify software applications are licensed, not sold, to you, and Spotify retains ownership of all copies of the Spotify software applications even after installation on your Devices. Spotify may assign these Agreements or any part of them without restrictions. You may not assign these Agreements or any part of them, nor transfer or sub-licence your rights under this Licence, to any third party.
+The Spotify software applications and the Content are licensed, not sold, to you, and Spotify and its licensors retain ownership of all copies of the Spotify software applications and Content even after installation on your personal computers, mobile handsets, tablets, and/or other relevant devices (“Devices”).
 
-All Spotify trademarks, service marks, trade names, logos, domain names, and any other features of the Spotify brand are the sole property of Spotify. This Licence does not grant you any rights to use the Spotify trademarks, service marks, trade names, logos, domain names, or any other features of the Spotify brand, whether for commercial or non-commercial use.
+All Spotify trademarks, service marks, trade names, logos, domain names, and any other features of the Spotify brand (“Spotify Brand Features”) are the sole property of Spotify or its licensors. The Agreements do not grant you any rights to use any Spotify Brand Features whether for commercial or non-commercial use.
 
-You agree to abide by our User Guidelines and not to use the Spotify Service (including but not limited to its content) in any manner not expressly permitted by the Terms.
+You agree to abide by our User guidelines and not to use the Spotify Service, the Content, or any part thereof in any manner not expressly permitted by the Agreements. Except for the rights expressly granted to you in these Agreements, Spotify grants no right, title, or interest to you in the Spotify Service or Content.
 
-Third party software libraries included in the Spotify Service are licensed to you either under these Terms, or under the relevant third party software library’s licence terms as published in the help or settings section of our desktop and mobile client and on our website.
+Third party software (for example, open source software libraries) included in the Spotify Service are licensed to you either under the Agreements or under the relevant third party software library’s licence terms as published in the help or settings section of our desktop and mobile client and/or on our website.
 
-5\. Third Party Applications
+5 Third Party Applications
 
-The Spotify Service provides a platform for third party applications, websites and services to make available products and services to you (**“Third Party Applications”**), and your use of these Third Party Applications is subject to their terms of use. You understand and agree that Spotify is not responsible or liable for the behavior, features, or content of any Third Party Application.
+The Spotify Service is integrated with third party applications, websites, and services (“Third Party Applications”) to make available content, products, and/or services to you. These Third Party Applications may have their own terms and conditions of use and privacy policies and your use of these Third Party Applications will be governed by and subject to such terms and conditions and privacy policies. You understand and agree that Spotify does not endorse and is not responsible or liable for the behavior, features, or content of any Third Party Application or for any transaction you may enter into with the provider of any such Third Party Applications.
 
-6\. User generated content
+6 User-Generated Content
 
-Spotify users may post, upload and/or contribute (“post”) content to the Service, including pictures, text and playlist compilations (“**User Content**”). You are solely responsible for any User Content you provide and for any consequences thereof. You represent that you have the right to post any User Content which you post to the Service, and that such User Content, or its use by us as contemplated by this Agreement, does not: (a) violate these Agreements, applicable law, or the intellectual property or publicity rights of others. or (b) imply any affiliation, endorsement, approval or cooperation with you or your User Content by Spotify or any artist, band, label, entity or individual without express written consent from such individual or entity. You grant us a non-exclusive, transferable, sub-licensable, royalty-free, worldwide license to use any User Content that you post on or in connection with Spotify. This license lasts until you terminate your Spotify account, except in the case of User Content that you have published, made public and/or share with others. Aside from the rights specifically granted herein, you retain ownership of all rights, including intellectual property rights, in the User Content that you post to the Spotify Service, except that, where applicable under Local Country law, you agree to waive your right to be identified as the author of any User Content on the Spotify Service and your right to object to derogatory treatment of such User Content.
+Spotify users may post, upload, and/or contribute (“post”) content to the Service (which may include, for example, pictures, text, messages, information, playlist compilations, and/or other types of content) (“User Content”). For the avoidance of doubt, “User Content” includes any such content posted to the Spotify Support Community as well as any other part of the Spotify Service.
 
-Spotify does not monitor, review, or edit User Content, but reserves the right to remove or disable access to any User Content for any or no reason, including but not limited to, User Content that, in Spotify’s sole discretion, violates these Agreements. Spotify may take these actions without prior notification to you. Removal or disabling of access to User Content shall be at our sole discretion, and we do not promise to remove or disable access to any specific User Content.
+You promise that, with respect to any User Content you post on Spotify, (1) you have the right to post such User Content, and (2) such User Content, or its use by Spotify as contemplated by the Agreements, does not violate the Agreements, applicable law, or the intellectual property (including without limitation copyright), publicity, personality, or other rights of others or imply any affiliation with or endorsement of you or your User Content by Spotify or any artist, band, label, entity or individual without express written consent from such individual or entity.
 
-Spotify is not responsible for User Content nor does it endorse any opinion contained in User Content. If you believe that any User Content infringes your intellectual property rights, please click here, or if you believe that any User Content does not comply with the User Guidelines (Section 8 below) or that your rights under applicable law have been otherwise infringed by any User Content, please contact us at legal-feedback@spotify.com.
+Spotify may, but has no obligation to, monitor, review, or edit User Content. In all cases, Spotify reserves the right to remove or disable access to any User Content for any or no reason, including but not limited to, User Content that, in Spotify’s sole discretion, violates the Agreements. Spotify may take these actions without prior notification to you or any third party. Removal or disabling of access to User Content shall be at our sole discretion, and we do not promise to remove or disable access to any specific User Content.
 
-7\. Consideration
+You are solely responsible for all User Content that you post. Spotify is not responsible for User Content nor does it endorse any opinion contained in any User Content. YOU AGREE THAT IF ANYONE BRINGS A CLAIM AGAINST SPOTIFY RELATED TO USER CONTENT THAT YOU POST, THEN, TO THE EXTENT PERMISSIBLE UNDER LOCAL LAW, YOU WILL INDEMNIFY AND HOLD SPOTIFY HARMLESS FROM AND AGAINST ALL DAMAGES, LOSSES, AND EXPENSES OF ANY KIND (INCLUDING REASONABLE ATTORNEY FEES AND COSTS) ARISING OUT OF SUCH CLAIM.
 
-In consideration for the rights granted to you under these Terms, you grant us the right (a) to allow the Spotify Service to use the processor, bandwidth and storage hardware on your Device in order to facilitate the operation of the Service, (b) to provide advertising and other information to you, if you subscribe to the Free Service, and (c) to allow our business partners to do the same.
+7 Rights you grant us
 
-You grant Spotify a non-exclusive, transferable, sub-licensable, royalty-free, perpetual, worldwide licence to use, reproduce, make available to the public, publish, translate and distribute any User Content that you post on or otherwise provide through the Spotify Service.
+In consideration for the rights granted to you under the Agreements, you grant us the right (1) to allow the Spotify Service to use the processor, bandwidth, and storage hardware on your Device in order to facilitate the operation of the Service, (2) to provide advertising and other information to you, and (3) to allow our business partners to do the same. In any part of the Spotify Service, the Content you view, including its selection and placement, may be influenced by commercial considerations, including agreements with third parties. Some Content licensed or provided to Spotify (e.g. podcasts) may contain advertising as part of the Content. In such cases, Spotify will make such Content available to you unmodified.
 
-These Terms are not intended to grant rights to anyone except you and Spotify, and in no event shall these Terms create any third party beneficiary rights. Any failure by Spotify to enforce these Terms or any provision thereof shall not waive Spotify’s right to do so.
+If you provide feedback, ideas or suggestions to Spotify in connection with the Spotify Service or Content (“Feedback”), you acknowledge that the Feedback is not confidential and you authorize Spotify to use that Feedback without restriction and without payment to you. Feedback is considered a type of User Content.
 
-8\. User Guidelines
+You grant Spotify a non-exclusive, transferable, sub-licensable, royalty-free, perpetual (or, in jurisdictions where this is not permitted, for a term equal to the duration of the Agreements plus twenty (20) years), irrevocable, fully paid, worldwide licence to use, reproduce, make available to the public (e.g. perform or display), publish, translate, modify, create derivative works from, and distribute any of your User Content in connection with the Service through any medium, whether alone or in combination with other content or materials, in any manner and by any means, method or technology, whether now known or hereafter created. Aside from the rights specifically granted herein, you retain ownership of all rights, including intellectual property rights, in the User Content. Where applicable and permitted under applicable law, you also agree to waive any “moral rights” (or the equivalent under applicable law) such as your right to be identified as the author of any User Content, including Feedback, and your right to object to derogatory treatment of such User Content.
 
-We’ve established a few ground rules for you to follow when using the Service, to make sure Spotify stays enjoyable for everyone. Please follow these rules and encourage other users to do the same.
+8 User guidelines
 
-Spotify respects intellectual property rights and expects you to do the same. This means, for example, that the following is not permitted: (a) Copying, reproducing, “ripping”, recording, or making available to the public any part of the Spotify Services or content delivered to you via the Spotify Services, or otherwise any making use of the Spotify Service which is not expressly permitted under these Terms. (b) using the Spotify service to import or copy any local files you do not have the legal right to import or copy in this way. (c) reverse-engineering, decompiling, disassembling, modification or creating derivative works based on the Spotify Services or any part thereof. (d) circumventing any technology used by Spotify, its licensors, or any third party to protect content accessible through the Service. (e) renting or leasing of any part of the Services. (f) circumventing of any territorial restrictions applied by Spotify. (g) artificially increasing play count or otherwise manipulating the Services by using a script or other automated process. (h) removing or altering any copyright, trademark or other intellectual property notices contained on or provided through the Spotify Service. (i) providing your password to any other person or using any other person’s user name and password.
+Spotify respects intellectual property rights and expects you to do the same. We’ve established a few ground rules for you to follow when using the Service, to make sure Spotify stays enjoyable for everyone. Please follow these rules and encourage other users to do the same.
 
-Please respect Spotify and other users of the Spotify Service. Don’t engage in any activity on the Service or upload User Content, including registering and/or using a username, which is or includes material that (a) is offensive, abusive, defamatory, pornographic or obscene. (b) is illegal, or intended to promote or commit an illegal act of any kind, including but not limited to, violations of intellectual property rights, privacy rights or proprietary rights of Spotify or a third party. (c) includes personal data of third parties or is intended to solicit such personal data, (d) includes malicious content such as malware, trojan horses or viruses, or otherwise interferes with any user’s access to the Service. (e) is intended or does harass or bully other users. (f) impersonates or misrepresents your affiliation with another user, person or entity, or is otherwise fraudulent, false, deceptive, or misleading. (g) uses automated means to artificially promote content. (h) involves the transmission of unsolicited mass mailing (“spam”), junk mail, chain letter, or similar, including through the Spotify inbox. (i) involves commercial or sales activities, such as advertising, contests, sweepstakes, or pyramid schemes. (j) promotes commercial products or services (except as permitted under Section 11). (k) interferes with the Spotify Service, tampers with or attempts to probe, scan, or test for vulnerabilities in the Service or Spotify’s computer systems or network, or breaches any of Spotify’s security or authentication measures, or (l) conflicts with the Agreement, as determined by Spotify. You agree that Spotify may also reclaim your username for any reason.
+The following is not permitted for any reason whatsoever:
 
-Please be thoughtful about what you make public on Spotify. The Spotify Service includes social and interactive features, including the ability to post User Content, share content, and make certain information about you public, as further described in your account settings. Remember that shared or publicly available information may be used and re-shared by other users on Spotify or across the web, so please use Spotify carefully and manage your account settings regularly. Spotify has no responsibility for your choices to make any actions or material public on the Service.
+*   copying, redistributing, reproducing, “ripping”, recording, transferring, performing or displaying to the public, broadcasting, or making available to the public any part of the Spotify Service or the Content, or otherwise making any use of the Spotify Service or the Content which is not expressly permitted under the Agreements or applicable law or which otherwise infringes the intellectual property rights (such as copyright) in the Spotify Service or the Content or any part of it;
+*   using the Spotify Service to import or copy any local files you do not have the legal right to import or copy in this way;
+*   transferring copies of cached Content from an authorized Device to any other Device via any means;
+*   reverse-engineering, decompiling, disassembling, modifying, or creating derivative works based on the Spotify Service, Content or any part thereof unless permitted by applicable law;
+*   circumventing any technology used by Spotify, its licensors, or any third party to protect the Content or the Service;
+*   selling, renting, sublicensing or leasing of any part of the Spotify Service or the Content;
+*   circumventing any territorial restrictions applied by Spotify or it licensors;
+*   artificially increasing play count or otherwise manipulating the Services by using a script or other automated process;
+*   removing or altering any copyright, trademark, or other intellectual property notices contained on or provided through the Spotify Service (including for the purpose of disguising or changing any indications of the ownership or source of any Content);
+*   providing your password to any other person or using any other person’s username and password;
+*   “crawling” the Spotify Service or otherwise using any automated means (including bots, scrapers, and spiders) to collect information from Spotify. or
+*   selling a user account or playlist, or otherwise accepting any compensation, financial or otherwise, to influence the name of an account or playlist or the content included on an account or playlist.
+
+Please respect Spotify, the owners of the Content, and other users of the Spotify Service. Don’t engage in any activity, post any User Content, or register and/or use a username, which is or includes material that:
+
+*   is offensive, abusive, defamatory, pornographic, threatening, or obscene;
+*   is illegal, or intended to promote or commit an illegal act of any kind, including but not limited to violations of intellectual property rights, privacy rights, or proprietary rights of Spotify or a third party;
+*   includes your password or purposely includes any other user’s password or purposely includes personal data of third parties or is intended to solicit such personal data;
+*   includes malicious content such as malware, Trojan horses, or viruses, or otherwise interferes with any user’s access to the Service;
+*   is intended to or does harass or bully other users;
+*   impersonates or misrepresents your affiliation with another user, person, or entity, or is otherwise fraudulent, false, deceptive, or misleading;
+*   uses automated means to artificially promote content;
+*   involves the transmission of unsolicited mass mailings or other forms of spam (“spam”), junk mail, chain letters, or similar, including through the Spotify inbox;
+*   involves commercial or sales activities, such as advertising, promotions, contests, sweepstakes, or pyramid schemes, that are not expressly authorized by Spotify;
+*   links to, references, or otherwise promotes commercial products or services, except as expressly authorized by Spotify;
+*   interferes with or in any way disrupts the Spotify Service, tampers with, breaches, or attempts to probe, scan, or test for vulnerabilities in the Service or Spotify’s computer systems, network, usage rules, or any of Spotify’s security components, authentication measures or any other protection measures applicable to the Service, the Content or any part thereof. or
+*   conflicts with the Agreements, as determined by Spotify.
+
+You acknowledge and agree that posting any such User Content may result in immediate termination or suspension of your Spotify account. You also agree that Spotify may also reclaim your username for any reason.
+
+Please be thoughtful about how you use the Spotify Service and what you share. The Spotify Service includes social and interactive features, including the ability to post User Content, share content, and make certain information about you public. Remember that shared or publicly available information may be used and re-shared by other users on Spotify or across the web, so please use Spotify carefully and be mindful of your account settings. Spotify has no responsibility for your choices to post material on the Service.
 
 Your password protects your user account, and you are solely responsible for keeping your password confidential and secure. You understand that you are responsible for all use of your username and password on the Service. If your username or password is lost or stolen, or if you believe there has been unauthorized access to your account by third parties, please notify us immediately and change your password as soon as possible.
 
-9\. Copyright infringement
+9 Infringement and reporting User Content
 
-Spotify respects the rights of intellectual property owners. For details on Spotify’s copyright policy, please click here.
+Spotify respects the rights of intellectual property owners. If you believe that any Content infringes your intellectual property rights or other rights, see Spotify’s copyright policy. If Spotify is notified by a copyright holder that any Content infringes a copyright, Spotify may in its absolute discretion take actions without prior notification to the provider of that Content. If the provider believes that the content is not infringing, the provider may submit a counter-notification to Spotify with a request to restore the removed content.
 
-10\. Technology limitations and modifications
+If you believe that any Content does not comply with the User guidelines, please fill out our notice form.
 
-Spotify will make reasonable efforts to keep the Spotify Service operational. However, certain technical difficulties or maintenance may, from time to time, result in temporary interruptions. Spotify reserves the right, periodically and at any time, to modify or discontinue, temporarily or permanently, functions and features of the Spotify Service, with or without notice, all without liability to you for any interruption, modification, or discontinuation of the Spotify Service or any function or feature thereof. You understand and agree that Spotify has no obligation to maintain, support, upgrade, or update the Service, or to provide all or any specific content through the Service.
+10 Service limitations and modifications
 
-11\. Brand Accounts
+Spotify will make reasonable efforts to keep the Spotify Service operational. However, certain technical difficulties or maintenance may, from time to time, result in temporary interruptions. To the extent permissible under applicable law, Spotify reserves the right, periodically and at any time, to modify or discontinue, temporarily or permanently, functions and features of the Spotify Service, with or without notice, all without liability to you, except where prohibited by law, for any interruption, modification, or discontinuation of the Spotify Service or any function or feature thereof. Notwithstanding the foregoing, if you have prepaid fees for Paid Subscriptions that Spotify permanently discontinues prior to the end of the Pre-Paid Period (defined in the Payments, cancellations, and cooling off section), Spotify will refund you the prepaid fees for the Pre-Paid Period after such discontinuation. You understand, agree, and accept that Spotify has no obligation to maintain, support, upgrade, or update the Service, or to provide all or any specific content through the Service. This section will be enforced to the extent permissible by applicable law. Spotify and/or the owners of any Content may, from time to time, remove any such Content without notice to the extent permitted by applicable law.
 
-If you establish a Spotify account on behalf of a company, organization, entity or brand (a “Brand Account”): (a) the terms “you” and “your”, as used throughout the Terms, apply to both you and the Brand (as defined below), as applicable. and (b) the following additional terms apply to your use of the Spotify Service for such purposes (the “Brand Account Terms”). To the extent of a conflict between these Brand Account Terms and the rest of the Terms, these Brand Account Terms shall apply, solely with respect to your Brand Account.
+11 Brand Accounts
 
-If you open a Brand Account, you represent and warrant that you are authorized to grant all permissions and licenses provided in these Terms and to bind the applicable company, organization, entity or brand (the “Brand”) to these Terms. Spotify has no obligation to promote the Brand Account profile or Brand Playlists (as defined below) and reserves the right to remove or disable access to a Brand’s User Content or profile, consistent with these Terms.
+If you establish a Spotify account on behalf of a company, organization, entity, or brand (a “Brand”, and such account a “Brand Account”), the terms “you” and “your”, as used throughout the Agreements, apply to both you and the Brand, as applicable.
 
-In addition to the User Guidelines set forth in Section 8, the following additional guidelines apply to the Brand’s use of the Spotify Service under a Brand Account:
+If you open a Brand Account, you represent and warrant that you are authorized to grant all permissions and licences provided in the Agreements and to bind the Brand to the Agreements.
 
-*   Brand Playlists.“Brand Playlist” means any song compilation that a Brand creates using the Spotify Service. Unless the Brand has obtained all necessary rights and authorizations from all applicable artists, composers, publishers, labels and other relevant third parties with respect to a Brand Playlist: (a) the Brand Playlist may not be used for commercial or promotional purposes. (b) the name of the Brand Playlist may not include the Brand’s name or the name of any specific entity, brand product, or service. and (c) the Brand Playlists must consist of at least 20 songs and may not include more than one track by a single artist or band.
-*   Following. Unless the Brand has obtained all necessary rights and authorizations from the applicable user: (a) the Brand may only follow users who first follow the Brand. (b) the Brand may not follow artists. and (c) the Brand may not follow a user in any manner that implies an endorsement or relationship between the Brand and the followed user. Spotify reserves the right to request that a Brand cease following any user(s), for any reason, in Spotify’s sole discretion. In such event, the Brand must cease following such user(s).
-*   Sharing. Unless the Brand has obtained all necessary rights and authorizations from all applicable artists, composers, labels and other third parties: (a) the Brand may only share (including but not limited to posting and messaging on an automatic or individual basis) Brand Playlists complying with the Brand Playlist requirements above , but not individual songs. and (b) the Brand may not use the Spotify Play Button to embed Brand Playlists on the Brand’s website(s), Facebook page(s) or other assets (but the Brand may use a Spotify link or Spotify Follow button on such assets complying with the Brand Playlist requirements above).
+11.1 Following
 
-12\. Export control
+The Brand may only follow users who first follow the Brand. and the Brand may not take any action that implies an endorsement or relationship between the Brand and the followed user, unless the Brand has independently obtained the rights to imply such an endorsement. Upon Spotify’s request, in its sole discretion, a Brand must cease following a user.
 
-Spotify’s products may be subject to U.S. export and reexport control laws and regulations, including the Export Administration Regulations (“EAR”) maintained by the U.S. Department of Commerce, trade and economic sanctions maintained by the Treasury Department’s Office of Foreign Assets Control (“OFAC”), and the International Traffic in Arms Regulations (“ITAR”) maintained by the Department of State. You warrant that you are (1) not located in Cuba, Iran, North Korea, Sudan, or Syria, and (2) are not a denied party as specified in the regulations listed above.
+11.2 Listening
 
-You agree to comply with all applicable export and reexport control laws and regulations, including the EAR, trade and economic sanctions maintained by OFAC, and the ITAR. Specifically, you agree that you shall not – directly or indirectly – sell, export, reexport, transfer, divert, or otherwise dispose of any products, software, or technology (including products derived from or based on such technology) received from Spotify under these Agreements to any destination, entity, or person prohibited by the laws or regulations of the United States, without obtaining prior authorization from the competent government authorities as required by those laws and regulations. This export control clause shall survive termination or cancellation of these Agreements.
+The Brand may not stream media.
 
-13\. Payments, cancellations and cooling off
+11.3 Messaging
 
-If you reside in a Local Country which is part of the European Union and have purchased a Paid Subscription or Code online, you have the right to change your mind and receive a full refund within fourteen (14) days of purchase (the “Cooling-off Period”), but only if you have not logged in or otherwise redeemed or started to consume them.
+The Brand may only send messages to users who first send messages to the Brand.
 
-If you have a Paid Subscription, your payment to Spotify will automatically renew at the end of the subscription period, unless you cancel your Paid Subscription through your subscription page before the end of the current subscription period. The cancellation will take effect the day after the last day of the current subscription period, and you will be downgraded to the Free Service. However, if you cancel your payment and/or terminate the Terms after the Cooling-off Period is over (where applicable), and/or before the end of the subscription period, we will not refund any subscription fees already paid to us.
+11.4 Brand Playlists and Sharing
 
-Spotify may change the price for the Paid Subscriptions from time to time, and will communicate any price changes to you. Price changes for Paid Subscriptions will take effect at the start of the next subscription period following the date of the price change. By continuing to use the Spotify Service after the price change takes effect, you accept the new price.
+The Brand may not create or share any Spotify playlists, whether within the Spotify Service or elsewhere, that imply an endorsement or relationship between the Brand and any artist or any other party, unless the Brand has independently obtained the rights to imply such an endorsement. Brands may wish to consult Spotify’s Brand Playlist Guidelines.
 
-14\. Term and termination
+12 Spotify Support Community
 
-These Terms will continue to apply to you until terminated by either you or Spotify. Spotify may terminate the Terms or suspend your access to the Spotify Service at any time, including in the event of your actual or suspected unauthorised use of the Spotify Service or non-compliance with the Terms. If you or Spotify terminate the Terms, or if Spotify suspends your access to the Spotify Service, you agree that Spotify shall have no liability or responsibility to you and Spotify will not refund any amounts that you have already paid, to the fullest extent permitted under applicable law. To learn how to terminate your Spotify account, please contact us through the Customer Service contact form.
+The Spotify Support Community is a place for discussions and exchange of information, tips, and other materials related to the Spotify Service. In order to use the Spotify Support Community, you must (1) have an existing Spotify account. and (2) authenticate your Spotify account for use on the Support Community (a “Spotify Support Account”). Instructions for creating a Spotify Support Account can be found on the Community registration page. In addition to the Agreements, you also agree to adhere to the Spotify Support Community Guidelines that you will be presented with upon registration (the “Support Community Guidelines”) when using the Spotify Support Community. If you do not agree to the Agreements or the Support Community Guidelines, you may not use the Spotify Support Community.
 
-15\. Warranty
+12.1 Spotify Support Accounts
 
-We endeavor to provide the best service we can, but you understand and agree that THE SPOTIFY SERVICE IS PROVIDED “AS IS”, WITHOUT EXPRESS OR IMPLIED WARRANTY OR CONDITION OF ANY KIND. YOU USE THE SPOTIFY SERVICE AT YOUR OWN RISK. SPOTIFY DISCLAIMS ANY WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT.
+By creating a Spotify Support Account, you confirm that any registration information that you submit to Spotify is true, accurate, and complete and that you will update such information in order to keep it current. It is strictly prohibited to include information in your profile that suggests that you are a Spotify employee or moderator or to otherwise pose as such an employee or moderator when using the Spotify Support Community. You also acknowledge and agree that Spotify may remove or reclaim your username at any time if Spotify in its absolute discretion considers such action appropriate.
 
-In addition, Spotify does not warrant, endorse, guarantee or assume responsibility for any Third Party Applications, Third Party Application content, User Content, or any other product or service advertised or offered by a third party on or through the Spotify Service or any hyperlinked website, or featured in any banner or other advertising. You understand and agree that Spotify is not responsible or liable for any transaction between you and third-party providers of Third Party Applications or products or services advertised on or through the Spotify Service. As with any purchase of a product or service through any medium or in any environment, you should use your judgment and exercise caution where appropriate. No advice or information whether oral or in writing obtained by you from Spotify shall create any warranty on behalf of Spotify in this regard. Some aspects of this section may not apply in some jurisdictions.
+12.2 No official support
 
-16\. Limitation
+No User Content or other content posted by Spotify employees, moderators and/or representatives on the Spotify Support Community should be construed as official support provided by Spotify. For details regarding official support, see the section Customer Support. Any content provided or made available to you on the Spotify Support Community by Spotify employees, moderators, and/or representatives is provided on an “as is” basis without warranties of any kind.
 
-You agree that, to the extent permitted by applicable law, your sole and exclusive remedy for any problems or dissatisfaction with the Spotify Service, the Third Party Applications or the Third Party Application content is to uninstall any Spotify software and to stop using the Spotify Service, the Third Party Applications or the Third Party Application content.
+You acknowledge that opinions expressed in User Content on the Spotify Support Community are those of contributors of such User Content only and do not reflect the opinions or policies of Spotify or any of its officers, shareholders, employees, agents, directors, subsidiaries, affiliates, suppliers, or licensors.
 
-TO THE FULLEST EXTENT PERMITTED BY LAW, IN NO EVENT WILL SPOTIFY, ITS OFFICERS, SHAREHOLDERS, EMPLOYEES, AGENTS, DIRECTORS, SUBSIDIARIES, AFFILIATES, SUCCESSORS, ASSIGNS, SUPPLIERS OR LICENSORS BE LIABLE FOR (i) ANY INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, EXEMPLARY OR CONSEQUENTIAL (INCLUDING LOSS OF USE, DATA, BUSINESS, OR PROFITS) DAMAGES, ARISING OUT OF THE USE OR INABILITY TO USE THE SPOTIFY SERVICE, THIRD PARTY APPLICATIONS OR THIRD PARTY APPLICATION CONTENT, REGARDLESS OF LEGAL THEORY, WITHOUT REGARD TO WHETHER SPOTIFY HAS BEEN WARNED OF THE POSSIBILITY OF THOSE DAMAGES, AND EVEN IF A REMEDY FAILS OF ITS ESSENTIAL PURPOSE. (ii) AGGREGATE LIABILITY FOR ALL CLAIMS RELATING TO THE SPOTIFY SERVICE, THIRD PARTY APPLICATIONS OR THIRD PARTY APPLICATION CONTENT MORE THAN THE AMOUNTS PAID BY YOU TO SPOTIFY DURING THE PRIOR THREE MONTHS IN QUESTION.
+12.3 Reward Program
 
-Nothing in these Agreements removes or limits Spotify’s liability for fraud, fraudulent misrepresentation, death or personal injury caused by its negligence. Some aspects of this section may not apply in some jurisdictions.
+The Spotify Support Community features a reward system whereby Spotify, in its sole discretion, may reward users based on the amount of “Kudos” received or quality of responses by a user. You agree to only give Kudos to other users (and not to yourself) and only when deserved, and to refrain from any attempts to manipulate the reward system, e.g., by creating multiple accounts or artificial responses. You acknowledge that Spotify’s decision in respect of any reward shall be final and binding.
 
-17\. Entire agreement
+13 Customer support
 
-These Agreements constitute all the terms and conditions agreed upon between you and Spotify and supersede any prior agreements in relation to the subject matter of these Agreements, whether written or oral. Any additional or different terms or conditions in relation to the subject matter of the Agreements in any written or oral communication from you to Spotify are void. You represent that you have not accepted the Agreements in reliance on any oral or written representations made by Spotify that are not contained in the Agreements.
+For customer support with account-related and payment-related questions (“Customer Support Queries”), please submit a ticket to our customer service department using the Customer Service contact form on the About Us section of our website. We will use reasonable endeavours to respond to all Customer Support Queries within a reasonable time frame but we make no guarantees or warranties of any kind that any Customer Support Queries will be responded to within any particular time frame and/or that we will be able to satisfactorily answer any such queries.
 
-Please note, however, that other aspects of your use of the Spotify Service may be governed by additional agreements. That could include, for example, access to the Spotify Community for customer support, access to the Spotify Service as a result of a gift card, or free or discounted Trials. You will agree to separate terms and conditions in those circumstances, which are listed in full here. Those terms and conditions shall govern only with regard to the aspect of the Service to which they apply, and are distinct from and supplemental to these Agreements, and do not supersede these Agreements. To the extent that there is any conflict between those agreements and these Agreements, these Agreements shall control, except as otherwise provided in these Terms.
+14 Export control
 
-Occasionally we may offer you the chance to participate in sweepstakes, contests, and surveys (“Special Promotions”) through the Service. Special Promotions may be governed by terms and conditions that are separate from these Terms. If the provisions of a Special Promotion’s terms and conditions conflict with these Terms, those separate terms and conditions shall prevail.
+Spotify’s products may be subject to U.S. export and re-export control laws and regulations or similar laws applicable in other jurisdictions, including the Export Administration Regulations (“EAR”) maintained by the U.S. Department of Commerce, trade and economic sanctions maintained by the Treasury Department’s Office of Foreign Assets Control (“OFAC”), and the International Traffic in Arms Regulations (“ITAR”) maintained by the Department of State. You warrant that you are (1) not located in Cuba, Iran, North Korea, Sudan, or Syria. and (2) are not a denied party as specified in the regulations listed above.
 
-18\. Severability
+You agree to comply with all applicable export and reexport control laws and regulations, including the EAR, trade and economic sanctions maintained by OFAC, and the ITAR. Specifically, you agree that you shall not – directly or indirectly – sell, export, reexport, transfer, divert, or otherwise dispose of any products, software, or technology (including products derived from or based on such technology) received from Spotify under the Agreements to any destination, entity, or person prohibited by any applicable laws or regulations of the United States or any other jurisdiction without obtaining prior authorization from the competent government authorities as required by those laws and regulations. This export control clause shall survive termination or cancellation of the Agreements.
 
-Should any provision of the Terms be held invalid or unenforceable for any reason or to any extent, such invalidity or enforceability shall not in any manner affect or render invalid or unenforceable the remaining provisions of the Terms, and the application of that provision shall be enforced to the extent permitted by law.
+15 Payments, cancellations, and cooling off
 
-19\. Choice of law, mandatory arbitration and venue
+Paid Subscriptions can be purchased either by (1) paying a monthly subscription fee. or (2) pre-payment giving you access to the Spotify Service for a specific time period (“Pre-Paid Period”). If you have purchased a Paid Subscription using a Code, your Paid Subscription will automatically terminate at the end of the Pre-Paid Period, or when there is an insufficient pre-paid balance to pay for the Service.
 
-Unless otherwise required by a mandatory law of a member state of the European Union or any other jurisdiction, these Agreements are subject to the law of the State of California, United States, without regard to choice or conflicts of law principles. Further, you and Spotify agree to the exclusive jurisdiction of the state and federal courts in San Francisco County, California or New York, New York to resolve any dispute, claim or controversy that arises in connection with these Agreements.
+When you register for a Paid Subscription, Trial, or Code online, you consent to get access to Spotify Premium immediately. If you reside outside the United States and register for a Paid Subscription or Code online, you may change your mind for any or no reason and receive a full refund of all monies paid within fourteen (14) days (the “Cooling-off Period”). Refunds will not, however, be provided if you have accessed Spotify at any time during the Cooling-off Period.
 
-If you are a United States user, the following mandatory arbitration provisions also apply to you:
+Unless your Paid Subscription has been purchased as a Pre-Paid Period, your payment to Spotify (or to a third party through whom you purchased the Paid Subscription, such as a telephone company) will automatically renew at the end of the subscription period, unless you cancel your Paid Subscription through your subscription page before the end of the current subscription period. The cancellation will take effect the day after the last day of the current subscription period, and you will be downgraded to the Free Service. However, if you cancel your payment or Paid Subscription and/or terminate any of the Agreements (1) after you have accessed Spotify during the Cooling-off Period, or (2) after the Cooling-off Period is over (where applicable), or (3) before the end of the current subscription period, we will not refund any subscription fees already paid to us.
 
-1.  You and Spotify agree that any dispute, claim or controversy arising out of or relating in any way to the Spotify Service or your use thereof, including our Agreements, shall be determined by mandatory binding arbitration. You agree that the U.S. Federal Arbitration Act governs the interpretation and enforcement of this provision, and that you and Spotify are each waiving the right to a trial by jury and the right to participate in a class or multi-party action. This arbitration provision shall survive termination of these Agreements and the termination of your Spotify account. The arbitration will be governed by the Commercial Arbitration Rules and the Supplementary Procedures for Consumer Related Disputes of the American Arbitration Association (the “AAA Rules”), as modified by these Agreements, and as administered by the AAA. You and Spotify agree that these Agreements involve interstate commerce and are subject to the Federal Arbitration Act.
-2.  You and Spotify agree that (a) any claims seeking to enforce, protect, or determine the validity or ownership of any intellectual property rights, and (b) any claims related to allegations of theft, piracy or unauthorized use of the Spotify Service are NOT subject to mandatory arbitration. Instead, you and Spotify agree that these claims (including but not limited to claims for injunctive or equitable relief) shall be exclusively decided by courts of competent jurisdiction in San Francisco County, California or New York, New York, and that applicable California and/or Federal law shall govern, without regard to choice of law principles.
-3.  YOU AND SPOTIFY AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A CLASS MEMBER OR IN ANY REPRESENTATIVE CAPACITY OR PROCEEDING. Further, no arbitrator shall consolidate any other person’s claims with your claims, and may not otherwise preside over any form of a multi-party or class proceeding. If this specific provision is found to be unenforceable in any way, then the entirety of this arbitration section shall be null and void. The arbitrator may not award declaratory or injunctive relief.
-4.  Any arbitration must be commenced by filing a demand for arbitration with the AAA within ONE (1) YEAR after the date the party asserting the claim first knows or reasonably should know of the act, omission or default giving rise to the claim. and there shall be no right to any remedy for any claim not asserted within that time period. If applicable law prohibits a one-year limitations period for asserting claims, any claim must be asserted within the shortest time period permitted by applicable law. Your arbitration fees and your share of arbitrator compensation will be limited to those fees set forth in the AAA's Consumer Rules with the remainder paid by Spotify. Any arbitration costs or fees deemed “excessive” will be paid by Spotify.
+If you wish to receive a full refund of all monies paid before the Cooling-off Period is over, you must contact Customer Support.
 
-20\. Local Country chart
+Spotify may change the price for the Paid Subscriptions, Pre-Paid Period (for periods not yet paid for), or Codes from time to time, and will communicate any price changes to you in advance and, if applicable, how to accept those changes. Price changes for Paid Subscriptions will take effect at the start of the next subscription period following the date of the price change. As permitted by local law, you accept the new price by continuing to use the Spotify Service after the price change takes effect. If you do not agree with the price changes, you have the right to reject the change by unsubscribing from the Spotify Service prior to the price change going into effect. Please therefore make sure you read any such notification of price changes carefully.
 
-This chart details the Spotify entity with which you are contracting by accepting these Agreements, depending on your Local Country of residence.
+16 Term and termination
 
-Local Country of Residence Spotify entity Australia or New Zealand Spotify Australia PTY. Ltd., registration number ACN 154 200 941 Austria Spotify Austria GmbH, registration number FN 354148 g Belgium Spotify NV, registration number 0841.023.949 Denmark Spotify Denmark ApS, registration number 33785348 Finland Spotify Finland Oy, registration number 2388862-0 France Spotify France SAS, registration number 51193072900013 Germany Spotify GmbH, registration number HRB 114 530 B Liechtenstein, Luxembourg, Monaco and Andorra Spotify AB, registration number 556703-7485 Netherlands Spotify Netherlands B.V., registration number 34388788 Norway Spotify Norway AS, registration number 994 445 820 Spain Spotify Spain S.L, registration number B85346294 Sweden Spotify Sweden AB, registration number 556786-5729 Switzerland Spotify Switzerland AG, registration number CH-020.3.037.242-8 United Kingdom or Ireland Spotify Limited, registration number 06436047 USA Spotify USA Inc, registered in Delaware with registration number 4664052  
+The Agreements will continue to apply to you until terminated by either you or Spotify. However, you acknowledge and agree that the perpetual licence granted by you in relation to User Content, including Feedback, is irrevocable and will therefore continue after expiry or termination of any of the Agreements for any reason. Spotify may terminate the Agreements or suspend your access to the Spotify Service at any time, including in the event of your actual or suspected unauthorised use of the Spotify Service and/or Content, or non-compliance with the Agreements. If you or Spotify terminate the Agreements, or if Spotify suspends your access to the Spotify Service, you agree that Spotify shall have no liability or responsibility to you and Spotify will not refund any amounts that you have already paid, to the fullest extent permitted under applicable law. To learn how to terminate your Spotify account, please contact us through the Customer Service contact form which is available on our About Us page. This section will be enforced to the extent permissible by applicable law. You may terminate the Agreements at any time.
 
-Thank you for reading our Terms. We hope you enjoy Spotify.
+Sections 6, 7, 8, 10, 14, 16, 17, 18, 19, 20, 21, 22, 23, and 24 herein, as well as any other sections of the Agreements that, either explicitly or by their nature, must remain in effect even after termination of the Agreements, shall survive termination.
 
-Copyright © 2012 Spotify AB. All rights reserved.
+17 Warranty and disclaimer
 
-Spotify USA Inc.,  
-45 W. 18th Street  
-7th Floor  
-New York, NY 10011  
+WE ENDEAVOUR TO PROVIDE THE BEST SERVICE WE CAN, BUT YOU UNDERSTAND AND AGREE THAT THE SPOTIFY SERVICE IS PROVIDED “AS IS” AND “AS AVAILABLE”, WITHOUT EXPRESS OR IMPLIED WARRANTY OR CONDITION OF ANY KIND. YOU USE THE SPOTIFY SERVICE AT YOUR OWN RISK. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, SPOTIFY AND ALL OWNERS OF THE CONTENT MAKE NO REPRESENTATIONS AND DISCLAIM ANY WARRANTIES OR CONDITIONS OF SATISFACTORY QUALITY, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. NEITHER SPOTIFY NOR ANY OWNER OF CONTENT WARRANTS THAT THE SPOTIFY SERVICE IS FREE OF MALWARE OR OTHER HARMFUL COMPONENTS. IN ADDITION, SPOTIFY MAKES NO REPRESENTATION NOR DOES IT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY THIRD PARTY APPLICATIONS (OR THE CONTENT THEREOF), USER CONTENT, OR ANY OTHER PRODUCT OR SERVICE ADVERTISED OR OFFERED BY A THIRD PARTY ON OR THROUGH THE SPOTIFY SERVICE OR ANY HYPERLINKED WEBSITE, OR FEATURED IN ANY BANNER OR OTHER ADVERTISING. YOU UNDERSTAND AND AGREE THAT SPOTIFY IS NOT RESPONSIBLE OR LIABLE FOR ANY TRANSACTION BETWEEN YOU AND THIRD PARTY PROVIDERS OF THIRD PARTY APPLICATIONS OR PRODUCTS OR SERVICES ADVERTISED ON OR THROUGH THE SPOTIFY SERVICE. AS WITH ANY PURCHASE OF A PRODUCT OR SERVICE THROUGH ANY MEDIUM OR IN ANY ENVIRONMENT, YOU SHOULD USE YOUR JUDGMENT AND EXERCISE CAUTION WHERE APPROPRIATE. NO ADVICE OR INFORMATION WHETHER ORAL OR IN WRITING OBTAINED BY YOU FROM SPOTIFY SHALL CREATE ANY WARRANTY ON BEHALF OF SPOTIFY IN THIS REGARD. SOME ASPECTS OF THIS SECTION MAY NOT APPLY IN SOME JURISDICTIONS IF PROHIBITED BY APPLICABLE LAW.
+
+THIS DOES NOT AFFECT YOUR STATUTORY RIGHTS AS A CONSUMER.
+
+18 Limitation
+
+YOU AGREE THAT, TO THE EXTENT PERMITTED BY APPLICABLE LAW, YOUR SOLE AND EXCLUSIVE REMEDY FOR ANY PROBLEMS OR DISSATISFACTION WITH THE SPOTIFY SERVICE IS TO UNINSTALL ANY SPOTIFY SOFTWARE AND TO STOP USING THE SPOTIFY SERVICE. WHILE SPOTIFY ACCEPTS NO RESPONSIBILITY FOR THIRD PARTY APPLICATIONS OR THE CONTENT THEREOF, AND WHILE YOUR RELATIONSHIP WITH SUCH THIRD PARTY APPLICATIONS MAY BE GOVERNED BY SEPARATE AGREEMENTS WITH SUCH THIRD PARTIES, TO THE EXTENT PERMITTED BY APPLICABLE LAW, YOUR SOLE AND EXCLUSIVE REMEDY, AS WITH RESPECT TO SPOTIFY, FOR ANY PROBLEMS OR DISSATISFACTION WITH THIRD PARTY APPLICATIONS OR THE CONTENT THEREOF, IS TO UNINSTALL AND/OR STOP USING ANY SUCH THIRD PARTY APPLICATIONS.
+
+TO THE FULLEST EXTENT PERMITTED BY LAW, IN NO EVENT WILL SPOTIFY, ITS OFFICERS, SHAREHOLDERS, EMPLOYEES, AGENTS, DIRECTORS, SUBSIDIARIES, AFFILIATES, SUCCESSORS, ASSIGNS, SUPPLIERS, OR LICENSORS BE LIABLE FOR (1) ANY INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, EXEMPLARY, OR CONSEQUENTIAL DAMAGES. (2) ANY LOSS OF USE, DATA, BUSINESS, OR PROFITS (WHETHER DIRECT OR INDIRECT), IN ALL CASES ARISING OUT OF THE USE OR INABILITY TO USE THE SPOTIFY SERVICE, THIRD PARTY APPLICATIONS, OR THIRD PARTY APPLICATION CONTENT, REGARDLESS OF LEGAL THEORY, WITHOUT REGARD TO WHETHER SPOTIFY HAS BEEN WARNED OF THE POSSIBILITY OF THOSE DAMAGES, AND EVEN IF A REMEDY FAILS OF ITS ESSENTIAL PURPOSE. OR (3) AGGREGATE LIABILITY FOR ALL CLAIMS RELATING TO THE SPOTIFY SERVICE, THIRD PARTY APPLICATIONS, OR THIRD PARTY APPLICATION CONTENT MORE THAN THE AMOUNTS PAID BY YOU TO SPOTIFY DURING THE PRIOR TWELVE MONTHS IN QUESTION, TO THE EXTENT PERMISSIBLE BY APPLICABLE LAW.
+
+Nothing in the Agreements removes or limits Spotify’s liability for fraud, fraudulent misrepresentation, death or personal injury caused by its negligence, and, if required by applicable law, gross negligence. Some aspects of this section may not apply in some jurisdictions if prohibited by applicable law.
+
+19 Third party rights
+
+You acknowledge and agree that the owners of the Content and certain distributors (such as app store providers) are intended beneficiaries of the Agreements and have the right to enforce the Agreements directly against you. Other than as set out in this section, the Agreements are not intended to grant rights to anyone except you and Spotify, and in no event shall the Agreements create any third party beneficiary rights. Furthermore, the rights to terminate, rescind, or agree to any variation, waiver, or settlement of the Agreements are not subject to the consent of any other person.
+
+If you have downloaded the App from the Apple, Inc. (“Apple”) App Store or if you are using the App on an iOS device, you acknowledge that you have read, understood, and agree to the following notice regarding Apple. This Agreement is between you and Spotify only, not with Apple, and Apple is not responsible for the Service and the content thereof. Apple has no obligation whatsoever to furnish any maintenance and support services with respect to the Service. In the event of any failure of the Service to conform to any applicable warranty, then you may notify Apple and Apple will refund any applicable purchase price for the App to you. and, to the maximum extent permitted by applicable law, Apple has no other warranty obligation whatsoever with respect to the Service. Apple is not responsible for addressing any claims by you or any third party relating to the Service or your possession and/or use of the Service, including, but not limited to: (1) product liability claims. (2) any claim that the Service fails to conform to any applicable legal or regulatory requirement. and (3) claims arising under consumer protection or similar legislation. Apple is not responsible for the investigation, defense, settlement and discharge of any third party claim that the Service and/or your possession and use of the App infringe that third party’s intellectual property rights. You agree to comply with any applicable third party terms, when using the Service. Apple, and Apple’s subsidiaries, are third party beneficiaries of this Agreement, and upon your acceptance of this Agreement, Apple will have the right (and will be deemed to have accepted the right) to enforce this Agreement against you as a third party beneficiary of this Agreement. You hereby represent and warrant that (1) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country. and (2) you are not listed on any U.S. Government list of prohibited or restricted parties.
+
+20 Entire agreement
+
+Other than as stated in this section or as explicitly agreed upon in writing between you and Spotify, the Agreements constitute all the terms and conditions agreed upon between you and Spotify and supersede any prior agreements in relation to the subject matter of these Agreements, whether written or oral.
+
+Please note, however, that other aspects of your use of the Spotify Service may be governed by additional agreements. That could include, for example, access to the Spotify Service as a result of a gift card or free or discounted Trials. When you are presented with an offer for such aspects of your use, you will be presented with any related additional agreement, and you may have an opportunity to agree to additional terms. Some of those additional terms are listed on Spotify’s website. To the extent that there is any irreconcilable conflict between any additional terms and these Terms, the additional terms shall prevail.
+
+21 Severability and waiver
+
+Unless as otherwise stated in the Agreements, should any provision of the Agreements be held invalid or unenforceable for any reason or to any extent, such invalidity or enforceability shall not in any manner affect or render invalid or unenforceable the remaining provisions of the Agreements, and the application of that provision shall be enforced to the extent permitted by law.
+
+Any failure by Spotify or any third party beneficiary to enforce the Agreements or any provision thereof shall not waive Spotify’s or the applicable third party beneficiary’s right to do so.
+
+22 Assignment
+
+Spotify may assign the Agreements or any part of them, and Spotify may delegate any of its obligations under the Agreements. You may not assign the Agreements or any part of them, nor transfer or sub-license your rights under the Agreements, to any third party.
+
+23 Indemnification
+
+To the fullest extent permitted by applicable law, you agree to indemnify and hold Spotify harmless from and against all damages, losses, and expenses of any kind (including reasonable attorney fees and costs) arising out of: (1) your breach of this Agreement. (2) any User Content. (3) any activity in which you engage on or through the Spotify Service. and (4) your violation of any law or the rights of a third party.
+
+24 Choice of law, mandatory arbitration and venue 24.1 Governing Law / Jurisdiction
+
+Unless otherwise required by a mandatory law of a member state of the European Union or any other jurisdiction, the Agreements (and any non-contractual disputes/claims arising out of or in connection with them) are subject to the laws of the state or country listed below, without regard to choice or conflicts of law principles.
+
+Further, you and Spotify agree to the jurisdiction of the courts listed below to resolve any dispute, claim, or controversy that arises in connection with the Agreements (and any non-contractual disputes/claims arising out of or in connection with them). (In some cases, that jurisdiction will be “exclusive”, meaning that no other countries’ courts can preside over the matter. have jurisdiction. in other cases, the jurisdiction is “non-exclusive”, meaning that other countries’ courts may have jurisdiction as well. This is indicated in the chart as well.)
+
+Country Choice of Law Jurisdiction Poland, Italy Laws of Sweden Exclusive. Courts of Local Country Turkey Laws of Sweden Non-exclusive. Courts and other tribunals in the Republic of Turkey Brazil Laws of Brazil Exclusive. State and Federal Courts of São Paulo, State of São Paulo, Brazil Canada Laws of the Province of Ontario Exclusive. Courts of Ontario, Canada United States, Argentina, Bolivia, Chile, Colombia, Costa Rica, Dominican Republic, Ecuador, El Salvador, Guatemala, Honduras, Nicaragua, Panama, Paraguay, Peru, Uruguay State of California, United States Exclusive. State and Federal Courts of San Francisco County, CA or New York, NY Estonia, Hong Kong, Latvia, Lithuania Laws of Sweden Non-exclusive. Courts of Sweden Spain Laws of Spain Exclusive. Courts of the consumer’s current domicile in Spain. All remaining countries Laws of Sweden Exclusive. Courts of Sweden
+
+Spotify does not accept any codes of conduct as mandatory in connection with the services provided under this agreement.
+
+24.2 CLASS ACTION WAIVER
+
+WHERE PERMITTED UNDER THE APPLICABLE LAW, YOU AND SPOTIFY AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE ACTION. Unless both you and Spotify agree, no arbitrator or judge may consolidate more than one person’s claims or otherwise preside over any form of a representative or class proceeding.
+
+24.3 ARBITRATION
+
+If you are located in, are based in, have offices in, or do business in a jurisdiction in which this Section 24.3. is enforceable, the following mandatory arbitration provisions apply to you:
+
+24.3.1 Dispute resolution and arbitration
+
+You and Spotify agree that any dispute, claim, or controversy between you and Spotify arising in connection with or relating in any way to these Agreements or to your relationship with Spotify as a user of the Service (whether based in contract, tort, statute, fraud, misrepresentation, or any other legal theory, and whether the claims arise during or after the termination of the Agreements) will be determined by mandatory binding individual arbitration. Arbitration is more informal than a lawsuit in court. THERE IS NO JUDGE OR JURY IN ARBITRATION, AND COURT REVIEW OF AN ARBITRATION AWARD IS LIMITED. There may be more limited discovery than in court. The arbitrator must follow this agreement and can award the same damages and relief as a court (including attorney fees), except that the arbitrator may not award declaratory or injunctive relief benefiting anyone but the parties to the arbitration. This arbitration provision will survive termination of the Agreements.
+
+24.3.2 Exceptions
+
+Notwithstanding clause (24.3.1) above, you and Spotify both agree that nothing herein will be deemed to waive, preclude, or otherwise limit either of our rights, at any time, to (1) bring an individual action in a U.S. small claims court, (2) pursue enforcement actions through applicable U.S. federal, state, or local agencies where such actions are available, (3) seek injunctive relief in a court of law, or (4) to file suit in a court of law to address intellectual property infringement claims.
+
+24.3.3 Arbitration rules
+
+Either you or we may start arbitration proceedings. If you are located in, are based in, have offices in, or do business in the United States, any arbitration between you and Spotify will be finally settled under the Commercial Dispute Resolution Procedures and the Supplementary Procedures for Consumer Related Disputes of the American Arbitration Association (“AAA”) then in force (the “AAA Rules”), as modified by the Agreements. You and Spotify agree that these Agreements affect interstate commerce, so the U.S. Federal Arbitration Act and federal arbitration law apply and govern the interpretation and enforcement of this provision (despite the choice of law provision above). The AAA Rules, as well as instructions on how to file an arbitration proceeding with the AAA, appear at adr.org, or you may call the AAA at 1-800-778-7879. Spotify can also help put you in touch with the AAA.
+
+Any arbitration hearings will take place at a location to be agreed upon in San Francisco, California or New York, New York, provided that if the claim is for $10,000 or less, you may choose whether the arbitration will be conducted (1) solely on the basis of documents submitted to the arbitrator. (2) through a non-appearance based telephonic hearing. or (3) by an in-person hearing as established by the AAA Rules in the county (or parish) of your billing address.
+
+Your arbitration fees and your share of arbitrator compensation will be limited to those fees set forth in the AAA’s Consumer Rules with the remainder paid by Spotify. If the arbitrator finds that either the substance of your claim or the relief sought in the Demand is frivolous or brought for an improper purpose (as measured by the standards set forth in Federal Rule of Civil Procedure 11(b)), then the payment of all fees will be governed by the AAA Rules. In such case, you agree to reimburse Spotify for all monies previously disbursed by it that are otherwise your obligation to pay under the AAA Rules. Regardless of the manner in which the arbitration is conducted, the arbitrator shall issue a reasoned written decision sufficient to explain the essential findings and conclusions on which the decision and award, if any, are based. The arbitrator may make rulings and resolve disputes as to the payment and reimbursement of fees or expenses at any time during the proceeding and upon request from either party made within 14 days of the arbitrator’s ruling on the merits.
+
+If you are not located in, are not based in, do not have offices in, and do not do business in the United States, any arbitration between you and Spotify will be finally settled under the Rules of Arbitration of the International Chamber of Commerce (the “ICC”) then in force (the “ICC Rules”) by one or more arbitrators appointed in accordance with the ICC Rules, as modified by these Developer Terms, and will be administered by the International Court of Arbitration of the ICC.
+
+Any arbitration will be conducted in the English language and unless otherwise required by a mandatory law of a member state of the European Union or any other jurisdiction, the law to be applied in any arbitration shall be the law of the State of California, United States, without regard to choice or conflicts of law principles.
+
+24.3.4 Time for filing
+
+Any arbitration must be commenced by filing a demand for arbitration within ONE (1) YEAR after the date the party asserting the claim first knows or reasonably should know of the act, omission, or default giving rise to the claim. and there shall be no right to any remedy for any claim not asserted within that time period. If applicable law prohibits a one-year limitation period for asserting claims, any claim must be asserted within the shortest time period permitted by applicable law.
+
+24.3.5 Notice. Process
+
+A party who intends to seek arbitration must first send a written notice of the dispute to the other, by certified mail or Federal Express (signature required), or in the event that we do not have a physical address on file for you, by electronic mail ("Notice"). Spotify's address for Notice is: Spotify, Attn: General Counsel, 45 W. 18th Street, 7th Floor, New York, New York 10011, USA. The Notice must (1) describe the nature and basis of the claim or dispute. and (2) set forth the specific relief sought ("Demand"). We agree to use good faith efforts to resolve the claim directly, but if we do not reach an agreement to do so within 30 days after the Notice is received, you or Spotify may commence an arbitration proceeding. During the arbitration, the amount of any settlement offer made by you or Spotify shall not be disclosed to the arbitrator until after the arbitrator makes a final decision and award, if any. In the event our dispute is finally resolved through arbitration in your favor, Spotify shall pay you (1) the amount awarded by the arbitrator, if any, (2) the last written settlement amount offered by Spotify in settlement of the dispute prior to the arbitrator’s award. or (3) $1,000.00, whichever is greater. All documents and information disclosed in the course of the arbitration shall be kept strictly confidential by the recipient and shall not be used by the recipient for any purpose other than for purposes of the arbitration or the enforcement of arbitrator’s decision and award and shall not be disclosed except in confidence to persons who have a need to know for such purposes or as required by applicable law. Except as required to enforce the arbitrator’s decision and award, neither you nor Spotify shall make any public announcement or public comment or originate any publicity concerning the arbitration, including, but not limited to, the fact that the parties are in dispute, the existence of the arbitration, or any decision or award of the arbitrator.
+
+24.3.6 Modifications
+
+In the event that Spotify makes any future change to this arbitration provision (other than a change to Spotify's address for Notice), you may reject any such change by sending us written notice within 30 days of the change to Spotify's address for Notice, in which case your account with Spotify shall be immediately terminated and this arbitration provision, as in effect immediately prior to the amendments you reject, shall survive.
+
+24.3.7 Enforceability
+
+If the class action waiver at Section 24.2 is found to be unenforceable in arbitration or if the entirety of this Section 24 is found to be unenforceable, then the entirety of this Section 24.3 shall be null and void and, in such case, the parties agree that the exclusive jurisdiction and venue described in Section 24.1 shall govern any action arising out of or related to the Agreements.
+
+25 Contact us
+
+If you have any questions concerning the Spotify Service or the Agreements, please contact Spotify customer service by visiting the About Us section of our website.
+
+If you are a California resident, you may have the Agreements mailed to you electronically by sending a letter to Spotify, Attn: General Counsel, 45 West 18th Street, 7th Floor, New York, New York 10011, USA with your email address and a request for the Agreements. In addition, under California Civil Code Section 1789.3, you may contact the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs in writing at 1625 N. Market Blvd., Suite S-202, Sacramento, California 95834, or by telephone at 1-800-952-5210 in order to resolve a complaint regarding the service or to receive further information regarding use of the service.
+
+Thank you for reading our Terms. We hope you enjoy Spotify!
+
+Contracting entity:
+
+Spotify USA Inc.  
+45 W 18th Street, Floor 7, New York, NY 10011  
 USA
+
+© Spotify AB.
