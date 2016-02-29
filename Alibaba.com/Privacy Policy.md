@@ -21,7 +21,6 @@ Hi,
     *   Trade Services
     *   Business Identity
     *   Logistics Service
-    *   Trade Assurance
     *   Secure Payment
     *   e-Credit Line
     *   Inspection Service
@@ -44,11 +43,9 @@ Hi,
     *   Report Suspicious Behavior
 *   Trade Assurance
 
-*   About Alibaba Group
-
 Alibaba.com Categories Get Quotations Save 40% off your time to get quotes
 
-Get Quotations Now Advanced Search
+Submit Buying Request Advanced Search
 
 *   Home
 *   Rules Center
@@ -184,12 +181,12 @@ Free APP: Available on the App Store Available on Android Download TradeManager:
 Alibaba.com Site: International - Español - Português - Deutsch - Français - Italiano - हिंदी - Pусский - 한국어 - 日本語 - اللغة العربية - ภาษาไทย - Türk - Nederlands - tiếng Việt - Indonesian - עברית
 
 Alibaba Group | Taobao Marketplace | Tmall.com | Juhuasuan | AliExpress | Alibaba.com | 1688.com | Alimama | Alitrip  
-Alibaba Cloud Computing | YunOS | AliTelecom | HiChina | Autonavi | UCWeb | Umeng | Xiami | TTPod | Laiwang | DingTalk | Alipay
+Alibaba Cloud Computing | YunOS | AliTelecom | HiChina | Autonavi | UCWeb | Umeng | Xiami | TTPod | DianDianChong | DingTalk | Alipay
 
-Browse Alphabetically: Global Expo | Showroom | Country Search | Manufacturers | Suppliers | Promotion | Wholesaler
+Browse Alphabetically: Global Expo | Onetouch | Showroom | Country Search | Manufacturers | Suppliers | Promotion | Wholesaler | Affiliate
 
-Contact Us - Product Listing Policy - Intellectual Property Policy and Infringement Claims - Privacy Policy - Terms of Use
+Product Listing Policy - Intellectual Property Policy and Infringement Claims - Privacy Policy - Terms of Use
 
-© 1999-2015 Alibaba.com. All rights reserved.
+© 1999-2016 Alibaba.com. All rights reserved.
 
-icburule010177021069
+icburule010100096070
