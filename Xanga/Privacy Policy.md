@@ -8,9 +8,15 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Mojibake in archive
+    *   by Alex\_Magic
+    *   15 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Can't Find My Blog
     *   by rachel20
-    *   6 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,28 +25,28 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   17 (last comment by XxHeArTbReAkEr08xX 1 day ago)
+    *   17 (last comment by XxHeArTbReAkEr08xX 2 days ago)
 *   Request for (really) old posts
     *   by lindapark
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   i need my blog
     *   by ying827
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   i need my blog
     *   by ying827
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Trying to find old blog as everyone else
     *   by tatecam
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -49,7 +55,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   8 months ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by nonman94 6 days ago)
+    *   2 (last comment by nonman94 1 week ago)
 *   Please help me find my blog
     *   by qpalzmzmalqp
     *   1 week ago
@@ -92,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Passwords &. Sign-In
     *   0 votes
     *   2 (last comment by lyys\_0702 2 weeks ago)
-*   Can't remember old password
-    *   by TwoWillDo2
-    *   2 weeks ago
-    *   in Passwords &. Sign-In
-    *   0 votes
-    *   0
 
 1 2 3 ... 169 Next
 
