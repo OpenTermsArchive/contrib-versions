@@ -10,13 +10,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Mojibake in archive
     *   by Alex\_Magic
-    *   15 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can't Find My Blog
     *   by rachel20
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -25,22 +25,22 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   17 (last comment by XxHeArTbReAkEr08xX 2 days ago)
+    *   17 (last comment by XxHeArTbReAkEr08xX 3 days ago)
 *   Request for (really) old posts
     *   by lindapark
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   i need my blog
     *   by ying827
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   i need my blog
     *   by ying827
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -70,19 +70,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Where did my blog go?!
     *   by weapons\_mass\_distruction
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by LoMing06 1 week ago)
+    *   1 (last comment by LoMing06 2 weeks ago)
 *   wondering if there is any possibilities of getting data from a closed account
     *   by fion\_fung
-    *   1 week ago
+    *   2 weeks ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   where is my old blog?
     *   by chihzhenling
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
