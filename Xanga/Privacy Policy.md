@@ -8,15 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Cannot find my blog
+    *   by fortunatemay
+    *   1 hour ago
+    *   in Getting Started
+    *   0 votes
+    *   0
 *   Mojibake in archive
     *   by Alex\_Magic
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can't Find My Blog
     *   by rachel20
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -25,10 +31,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   17 (last comment by XxHeArTbReAkEr08xX 3 days ago)
+    *   17 (last comment by XxHeArTbReAkEr08xX 4 days ago)
 *   Request for (really) old posts
     *   by lindapark
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -92,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   Retrieve Old Account
-    *   \[Resolved\] by anoiFace
-    *   2 years ago
-    *   in Passwords &. Sign-In
-    *   0 votes
-    *   2 (last comment by lyys\_0702 2 weeks ago)
 
 1 2 3 ... 169 Next
 
