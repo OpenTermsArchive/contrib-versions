@@ -90,7 +90,7 @@ F. Copyright and Content Ownership
     
 3.  You shall defend GitHub against any claim, demand, suit or proceeding made or brought against GitHub by a third-party alleging that Your Content, or Your use of the Service in violation of this Agreement, infringes or misappropriates the intellectual property rights of a third-party or violates applicable law, and shall indemnify GitHub for any damages finally awarded against, and for reasonable attorney’s fees incurred by, GitHub in connection with any such claim, demand, suit or proceeding. provided, that GitHub (a) promptly gives You written notice of the claim, demand, suit or proceeding. (b) gives You sole control of the defense and settlement of the claim, demand, suit or proceeding (provided that You may not settle any claim, demand, suit or proceeding unless the settlement unconditionally releases GitHub of all liability). and (c) provides to You all reasonable assistance, at Your expense.
     
-4.  The look and feel of the Service is copyright ©2010 GitHub Inc. All rights reserved. You may not duplicate, copy, or reuse any portion of the HTML/CSS, Javascript, or visual design elements or concepts without express written permission from GitHub.
+4.  The look and feel of the Service is copyright © GitHub, Inc. All rights reserved. You may not duplicate, copy, or reuse any portion of the HTML/CSS, Javascript, or visual design elements or concepts without express written permission from GitHub.
     
 
 G. General Conditions
