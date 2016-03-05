@@ -8,33 +8,33 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Cannot find my blog
-    *   by fortunatemay
-    *   1 hour ago
-    *   in Getting Started
-    *   0 votes
-    *   0
-*   Mojibake in archive
-    *   by Alex\_Magic
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Can't Find My Blog
-    *   by rachel20
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   17 (last comment by XxHeArTbReAkEr08xX 4 days ago)
+    *   18 (last comment by WildAngel047 2 hours ago)
+*   Cannot find my blog
+    *   by fortunatemay
+    *   1 day ago
+    *   in Getting Started
+    *   0 votes
+    *   0
+*   Mojibake in archive
+    *   by Alex\_Magic
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Can't Find My Blog
+    *   by rachel20
+    *   4 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Request for (really) old posts
     *   by lindapark
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -64,19 +64,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 (last comment by nonman94 1 week ago)
 *   Please help me find my blog
     *   by qpalzmzmalqp
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help me find my blog
     *   by qpalzmzmalqp
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where did my blog go?!
     *   by weapons\_mass\_distruction
-    *   4 weeks ago
+    *   1 month ago
     *   in Themes
     *   0 votes
     *   1 (last comment by LoMing06 2 weeks ago)
