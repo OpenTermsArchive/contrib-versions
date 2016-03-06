@@ -8,27 +8,33 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   I don't understand
+    *   by ac27r
+    *   5 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   18 (last comment by WildAngel047 2 hours ago)
+    *   19 (last comment by thefourthstar 10 hours ago)
 *   Cannot find my blog
     *   by fortunatemay
-    *   1 day ago
+    *   2 days ago
     *   in Getting Started
     *   0 votes
     *   0
 *   Mojibake in archive
     *   by Alex\_Magic
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can't Find My Blog
     *   by rachel20
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -88,12 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   where is my old blog?
     *   by chihzhenling
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   i don't know how to do any of this
-    *   by simplyrojo
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
