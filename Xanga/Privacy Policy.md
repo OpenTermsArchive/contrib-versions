@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   I don't understand
     *   by ac27r
-    *   5 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,22 +19,22 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   19 (last comment by thefourthstar 10 hours ago)
+    *   19 (last comment by thefourthstar 1 day ago)
 *   Cannot find my blog
     *   by fortunatemay
-    *   2 days ago
+    *   3 days ago
     *   in Getting Started
     *   0 votes
     *   0
 *   Mojibake in archive
     *   by Alex\_Magic
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can't Find My Blog
     *   by rachel20
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
