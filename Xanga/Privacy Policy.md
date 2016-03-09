@@ -8,27 +8,39 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   What happened to blogrings?
+    *   \[Resolved\] by ArabianEyedPrincess
+    *   1 year ago
+    *   in Miscellaenous
+    *   0 votes
+    *   4 (last comment by xbadguyx 7 hours ago)
+*   I lost my xanga
+    *   by mies
+    *   6 months ago
+    *   in Themes
+    *   0 votes
+    *   1 (last comment by fungkiead1318 10 hours ago)
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   20 (last comment by chocalatfreak 8 hours ago)
+    *   20 (last comment by chocalatfreak 1 day ago)
 *   I don't understand
     *   by ac27r
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Cannot find my blog
     *   by fortunatemay
-    *   4 days ago
+    *   5 days ago
     *   in Getting Started
     *   0 votes
     *   0
 *   Mojibake in archive
     *   by Alex\_Magic
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -58,7 +70,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Trying to find old blog as everyone else
     *   by tatecam
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -67,7 +79,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   8 months ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by nonman94 1 week ago)
+    *   2 (last comment by nonman94 2 weeks ago)
 *   Please help me find my blog
     *   by qpalzmzmalqp
     *   2 weeks ago
@@ -86,18 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Themes
     *   0 votes
     *   1 (last comment by LoMing06 2 weeks ago)
-*   wondering if there is any possibilities of getting data from a closed account
-    *   by fion\_fung
-    *   2 weeks ago
-    *   in Passwords &. Sign-In
-    *   0 votes
-    *   0
-*   where is my old blog?
-    *   by chihzhenling
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
 1 2 3 ... 169 Next
 
