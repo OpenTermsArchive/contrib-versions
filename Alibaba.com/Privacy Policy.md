@@ -48,7 +48,7 @@ Alibaba.com Categories Get Quotations Save 40% off your time to get quotes
 Submit Buying Request Advanced Search
 
 *   Home
-*   Rules Center
+*   Rules List
 *   Learning
 
 *   AliProtect System >.
@@ -189,4 +189,4 @@ Product Listing Policy - Intellectual Property Policy and Infringement Claims - 
 
 © 1999-2016 Alibaba.com. All rights reserved.
 
-icburule010177021069
+icburule010100096070
