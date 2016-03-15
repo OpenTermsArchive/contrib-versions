@@ -8,33 +8,45 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Where can I find my blog ?
+    *   by peggypang0911
+    *   12 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Where can I find my blog ?
+    *   by peggypang0911
+    *   12 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Old blog
     *   by allyk1988
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How do i access the my blog posts and subs?1
     *   by LifeIsFiction
-    *   1 day ago
+    *   2 days ago
     *   in Themes
     *   0 votes
     *   0
 *   huh?
     *   by k9bgood
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can I get my old pics?
     *   by kuironchef
-    *   4 days ago
+    *   5 days ago
     *   in Pictures
     *   0 votes
     *   0
 *   I need my old blog and pictures
     *   by kuironchef
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -43,19 +55,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Miscellaenous
     *   0 votes
-    *   4 (last comment by xbadguyx 5 days ago)
+    *   4 (last comment by xbadguyx 6 days ago)
 *   I lost my xanga
     *   by mies
     *   6 months ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by fungkiead1318 5 days ago)
+    *   1 (last comment by fungkiead1318 6 days ago)
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   20 (last comment by chocalatfreak 6 days ago)
+    *   20 (last comment by chocalatfreak 1 week ago)
 *   I don't understand
     *   by ac27r
     *   1 week ago
@@ -76,7 +88,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Can't Find My Blog
     *   by rachel20
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -86,20 +98,8 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   i need my blog
-    *   by ying827
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   i need my blog
-    *   by ying827
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
-1 2 3 ... 169 Next
+1 2 3 ... 170 Next
 
 Help Categories
 
