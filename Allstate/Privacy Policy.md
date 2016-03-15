@@ -4,6 +4,7 @@ Skip Navigation Explore Allstate
 *   Contact Us
 *   Español
 *   Denver, CO,80202
+*   Search
 
 *   Allstate
 *   *   We help customers realize their hopes and dreams by providing the best products and services to protect them from life's uncertainties and prepare them for the future.
@@ -138,6 +139,7 @@ Find An Agent
 
 Toggle mobileNavigation Log in
 
+*   Search
 *   Update Zip Code expand
     *   Denver, CO,80202Edit
 *   Find A Local Agent
@@ -510,6 +512,6 @@ Use My Current Location City, State
 Denver, CO
 
 Please Wait...Updating Location...  
-It's taking a bit longer than expected. Your update should be done soon. This feature in not currently available.  
+It's taking a bit longer than expected. Your update should be done soon. This feature is not currently available.  
 Please try again later.  
 ECC Monitor: OK
