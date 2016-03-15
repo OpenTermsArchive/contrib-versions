@@ -52,7 +52,7 @@ General Terms and Conditions for the use of XING Arbeitsrechtsschutz (German onl
 
 General Terms and Conditions
 
-Last updated: 17 March 2014
+Last updated: 7 March 2016
 
   
 
@@ -119,7 +119,7 @@ The contract is concluded with XING AG, Dammtorstraße 30, 20354 Hamburg, German
 **2.8** Each user may only create one user profile. The user is not permitted to allow third parties to use its user profile.
 
    
-3\. Right of withdrawal for consumers
+3\. Right of Right of withdrawal for consumers
 
 Instructions on withdrawal and model withdrawal form
 
@@ -558,6 +558,8 @@ These additional terms for the use of the employer review platform supplement th
 **1.2** The user agrees that their employer review may be moved to other sections and parts of the XING Websites.
 
 **1.3** The user agrees that their employer review may be edited or shortened by XING.
+
+**1.4** The user agrees that their employer review may be displayed worldwide, also by via third-party services.
 
    
 2\. Validity of the provisions of the General Terms and Conditions for using the XING service
