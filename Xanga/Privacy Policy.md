@@ -8,45 +8,57 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   help
+    *   by CoUrTnEcAe
+    *   14 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Old Blog Posts
+    *   by are\_they\_hanes
+    *   20 hours ago
+    *   in Passwords &. Sign-In
+    *   0 votes
+    *   0
 *   Where can I find my blog ?
     *   by peggypang0911
-    *   12 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where can I find my blog ?
     *   by peggypang0911
-    *   12 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old blog
     *   by allyk1988
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How do i access the my blog posts and subs?1
     *   by LifeIsFiction
-    *   2 days ago
+    *   3 days ago
     *   in Themes
     *   0 votes
     *   0
 *   huh?
     *   by k9bgood
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can I get my old pics?
     *   by kuironchef
-    *   5 days ago
+    *   6 days ago
     *   in Pictures
     *   0 votes
     *   0
 *   I need my old blog and pictures
     *   by kuironchef
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -55,13 +67,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Miscellaenous
     *   0 votes
-    *   4 (last comment by xbadguyx 6 days ago)
+    *   4 (last comment by xbadguyx 1 week ago)
 *   I lost my xanga
     *   by mies
     *   6 months ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by fungkiead1318 6 days ago)
+    *   1 (last comment by fungkiead1318 1 week ago)
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   1 year ago
@@ -82,18 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Mojibake in archive
     *   by Alex\_Magic
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Can't Find My Blog
-    *   by rachel20
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Request for (really) old posts
-    *   by lindapark
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
