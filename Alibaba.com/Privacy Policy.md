@@ -19,6 +19,7 @@ Hi,
     *   Global Expo
     *   Wholesaler
     *   Trade Services
+    *   Trade Assurance
     *   Business Identity
     *   Logistics Service
     *   Secure Payment
@@ -189,4 +190,4 @@ Product Listing Policy - Intellectual Property Policy and Infringement Claims - 
 
 © 1999-2016 Alibaba.com. All rights reserved.
 
-icburule010177021068
+icburule010100097058
