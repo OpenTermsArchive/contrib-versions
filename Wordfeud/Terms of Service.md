@@ -12,7 +12,7 @@ You agree not to (and not to attempt to) (i) use the Service for any use or purp
 
 If you violate these Terms, Bertheussen IT reserves the right to issue you a warning regarding the violation or immediately terminate or suspend any or all accounts you have created using the Service. You agree that Bertheussen IT need not provide you notice before terminating or suspending your account(s), but it may do so.
 
-Bertheussen IT reserves the right to refuse any user access to the Services without notice for any reason, including, but not limited to, a violation of the Terms.
+Bertheussen IT reserves the right to refuse any user access to the Services without notice for violation of the Terms.
 
 3\. Intellectual Property/Ownership
 
@@ -28,7 +28,9 @@ User Content is not confidential and will not be returned to the user.
 
 You represent and warrant that User Content you transmit or submit is original to you and that you exclusively own the rights to such content, including the right to grant all of the rights and licenses in these Terms without Bertheussen IT incurring any third party obligations or liability arising out of its exercise of such rights and licenses.
 
-You hereby grant to Bertheussen IT a worldwide, irrevocable, perpetual, non-exclusive, transferable, fully paid-up and royalty-free license, (with the right to sublicense), to use, copy, adapt, modify, distribute, license, sell, transfer, publicly display, publicly perform, transmit, stream, broadcast and otherwise exploit User Content you transmit or submit and all derivative works. To the extent permitted by applicable laws, you hereby waive any moral rights you may have in User Content.
+You hereby grant to Bertheussen IT a worldwide, irrevocable (as long as your account is not terminated), perpetual, non-exclusive, transferable, fully paid-up and royalty-free license, (with the right to sublicense), to use, copy, adapt, modify, distribute, license, sell, transfer, publicly display, publicly perform, transmit, stream, broadcast and otherwise exploit User Content you transmit or submit and all derivative works. To the extent permitted by applicable laws, you hereby waive any moral rights you may have in User Content.
+
+The foregoing license granted Bertheussen IT by you, expires in the event that your account is terminated, either by you, or by Bertheussen IT.
 
 Bertheussen IT reserves the right to remove and permanently delete any User Content from the Service with or without notice for any reason or no reason. You may notify Bertheussen IT of any User Content that you believe violates these Terms, or other inappropriate user behavior, by emailing support@wordfeud.com.
 
@@ -63,6 +65,6 @@ These rules of use are not meant to be exhaustive, and Bertheussen IT reserves t
 
 6\. Termination
 
-You may terminate your account at any time and for any reason by sending an email to support@wordfeud.com.
+You may terminate your account at any time and for any reason by sending an email to support@wordfeud.com. Such requests are usually processed by Bertheussen IT within 48 hour upon receipt.
 
-Bertheussen IT may terminate your account and your access to the Service (or, at Bertheussen IT’s sole option, applicable portions of the Service) at any time and for any reason. Bertheussen IT is not required to provide you with any notice or warning prior to any such termination.
+Bertheussen IT may terminate your account and your access to the Service (or, at Bertheussen IT’s sole option, applicable portions of the Service) at any time for violation of the Terms. Bertheussen IT is not required to provide you with any notice or warning prior to any such termination.
