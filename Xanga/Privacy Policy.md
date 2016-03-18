@@ -8,45 +8,51 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   how can i find my blog?
+    *   by nononoel1229
+    *   5 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Where can I find my blog ?
+    *   by peggypang0911
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by mobydick7 19 hours ago)
 *   help
     *   by CoUrTnEcAe
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Blog Posts
     *   by are\_they\_hanes
-    *   1 day ago
+    *   2 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Where can I find my blog ?
     *   by peggypang0911
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Where can I find my blog ?
-    *   by peggypang0911
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old blog
     *   by allyk1988
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How do i access the my blog posts and subs?1
     *   by LifeIsFiction
-    *   4 days ago
+    *   5 days ago
     *   in Themes
     *   0 votes
     *   0
 *   huh?
     *   by k9bgood
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -88,14 +94,8 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Cannot find my blog
     *   by fortunatemay
-    *   1 week ago
-    *   in Getting Started
-    *   0 votes
-    *   0
-*   Mojibake in archive
-    *   by Alex\_Magic
     *   2 weeks ago
-    *   in Data Migration
+    *   in Getting Started
     *   0 votes
     *   0
 
