@@ -8,51 +8,63 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Where is my blog/archives?
-    *   by dEsperAtIon\_08
-    *   12 hours ago
+*   How can I archive my hide post?
+    *   by In\_8
+    *   1 hour ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Daisuke111208 4 hours ago)
+    *   0
+*   Could I reactivate my blog?
+    *   by anjulihollman
+    *   6 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Where is my blog/archives?
+    *   by dEsperAtIon\_08
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by Daisuke111208 1 day ago)
 *   how can i find my blog?
     *   by nononoel1229
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where can I find my blog ?
     *   by peggypang0911
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by mobydick7 1 day ago)
+    *   1 (last comment by mobydick7 2 days ago)
 *   help
     *   by CoUrTnEcAe
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Blog Posts
     *   by are\_they\_hanes
-    *   3 days ago
+    *   4 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Where can I find my blog ?
     *   by peggypang0911
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old blog
     *   by allyk1988
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How do i access the my blog posts and subs?1
     *   by LifeIsFiction
-    *   6 days ago
+    *   1 week ago
     *   in Themes
     *   0 votes
     *   0
@@ -86,18 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Themes
     *   0 votes
     *   1 (last comment by fungkiead1318 1 week ago)
-*   How do I download an archive of my old blog?
-    *   \[Resolved\] by thibault
-    *   1 year ago
-    *   in Data Migration
-    *   0 votes
-    *   20 (last comment by chocalatfreak 1 week ago)
-*   I don't understand
-    *   by ac27r
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
 1 2 3 ... 170 Next
 
