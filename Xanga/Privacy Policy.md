@@ -10,49 +10,49 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   How can I archive my hide post?
     *   by In\_8
-    *   1 hour ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Could I reactivate my blog?
     *   by anjulihollman
-    *   6 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where is my blog/archives?
     *   by dEsperAtIon\_08
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Daisuke111208 1 day ago)
+    *   1 (last comment by Daisuke111208 2 days ago)
 *   how can i find my blog?
     *   by nononoel1229
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where can I find my blog ?
     *   by peggypang0911
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by mobydick7 2 days ago)
+    *   1 (last comment by mobydick7 3 days ago)
 *   help
     *   by CoUrTnEcAe
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Blog Posts
     *   by are\_they\_hanes
-    *   4 days ago
+    *   5 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Where can I find my blog ?
     *   by peggypang0911
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
