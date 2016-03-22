@@ -44,6 +44,7 @@ Sign In Hi, {username}
 *   App Market
 *   Domains
 *   Developers
+*   ShoutOut
 
 *   COMPANY
 *   About Wix
