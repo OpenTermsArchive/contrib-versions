@@ -8,51 +8,75 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Retrieve/recover blog entry
+    *   by kristinaangeli
+    *   18 minutes ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Data migration
+    *   by MrMarlonProductions
+    *   19 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Data migration
+    *   by MrMarlonProductions
+    *   19 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Data migration
+    *   by MrMarlonProductions
+    *   19 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   How can I archive my hide post?
     *   by In\_8
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Could I reactivate my blog?
     *   by anjulihollman
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where is my blog/archives?
     *   by dEsperAtIon\_08
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Daisuke111208 2 days ago)
+    *   1 (last comment by Daisuke111208 3 days ago)
 *   how can i find my blog?
     *   by nononoel1229
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where can I find my blog ?
     *   by peggypang0911
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by mobydick7 3 days ago)
+    *   1 (last comment by mobydick7 4 days ago)
 *   help
     *   by CoUrTnEcAe
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Blog Posts
     *   by are\_they\_hanes
-    *   5 days ago
+    *   6 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Where can I find my blog ?
     *   by peggypang0911
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -74,30 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   Can I get my old pics?
-    *   by kuironchef
-    *   1 week ago
-    *   in Pictures
-    *   0 votes
-    *   0
-*   I need my old blog and pictures
-    *   by kuironchef
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   What happened to blogrings?
-    *   \[Resolved\] by ArabianEyedPrincess
-    *   1 year ago
-    *   in Miscellaenous
-    *   0 votes
-    *   4 (last comment by xbadguyx 1 week ago)
-*   I lost my xanga
-    *   by mies
-    *   7 months ago
-    *   in Themes
-    *   0 votes
-    *   1 (last comment by fungkiead1318 1 week ago)
 
 1 2 3 ... 170 Next
 
