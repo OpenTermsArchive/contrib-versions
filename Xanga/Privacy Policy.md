@@ -8,51 +8,57 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Request for old posts
+    *   by BFFSivNJulz
+    *   18 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Retrieve/recover blog entry
     *   by kristinaangeli
-    *   18 minutes ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data migration
     *   by MrMarlonProductions
-    *   19 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data migration
     *   by MrMarlonProductions
-    *   19 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data migration
     *   by MrMarlonProductions
-    *   19 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How can I archive my hide post?
     *   by In\_8
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Could I reactivate my blog?
     *   by anjulihollman
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where is my blog/archives?
     *   by dEsperAtIon\_08
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Daisuke111208 3 days ago)
+    *   1 (last comment by Daisuke111208 4 days ago)
 *   how can i find my blog?
     *   by nononoel1229
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -61,16 +67,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by mobydick7 4 days ago)
+    *   1 (last comment by mobydick7 5 days ago)
 *   help
     *   by CoUrTnEcAe
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Blog Posts
     *   by are\_they\_hanes
-    *   6 days ago
+    *   1 week ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -90,12 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by LifeIsFiction
     *   1 week ago
     *   in Themes
-    *   0 votes
-    *   0
-*   huh?
-    *   by k9bgood
-    *   1 week ago
-    *   in Data Migration
     *   0 votes
     *   0
 
