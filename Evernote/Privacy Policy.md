@@ -208,5 +208,5 @@ V. Contact Us How Can I Contact Evernote?
 Evernote welcomes your feedback regarding this Privacy Policy. If you have questions, comments or concerns about this Policy, please contact us by email at compliance AT evernote DOT com or postal mail at:
 
 *   Evernote Corporation 305 Walnut Street Redwood City, California 94063 USA Attention: Legal Department
-*   Evernote GmbH Walchestrasse 98006 Zurich, Switzerland Attention: Legal Department
+*   Evernote GmbH Walchestrasse 9 8006 Zurich, Switzerland Attention: Legal Department
 *   Evernote Do Brasil Servicos De Aplicacoes Ltda Avenida Paulista, no 2.300 Andar Pilotis Edifício São Luiz Gonzaga CEP: 01310-300, São Paulo/SP Brasil Attention: Legal Department
