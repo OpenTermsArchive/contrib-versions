@@ -21,7 +21,7 @@ Homepage Sign in or Join Advertise Buy
         *   Recent home sales
         *   All homes
 *   Resources
-    *   *   Buyer's guide
+    *   *   Buyers Guide
         *   Foreclosure center
         *   Real estate app
         *   Find a buyer's agent
@@ -37,7 +37,7 @@ Rent
 *   Resources
     *   *   Rent affordability calculator
         *   Rent vs. buy calculator
-        *   Renter's guide
+        *   Renters Guide
         *   Rentals app
 *   Create a renter profile
     *   *   Capture the attention of property managers.
@@ -89,6 +89,7 @@ Agent finder
         *   Other pros
 *   I'm a pro
     *   *   Agent advertising
+        *   Agent resource center
         *   Join the Agent Directory
         *   Access agent hub
 
@@ -131,9 +132,8 @@ Home design
 More
 
 *   Blogs
-    *   *   Zillow blog
+    *   *   Zillow Porchlight
         *   Zillow engineering blog
-        *   Agent resource center
 *   Partners
     *   *   Zillow affiliates
         *   Brokers and Zillow
