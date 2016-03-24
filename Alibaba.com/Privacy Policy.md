@@ -53,7 +53,7 @@ Submit Buying Request Advanced Search
 *   Learning
 *   Rules Center
 
-*   AliProtect System >.
+*   Penalized List >.
 *   Penalty Record >.
 
 Classification of Rules >. Alibaba.com User Agreement
@@ -191,4 +191,4 @@ Product Listing Policy - Intellectual Property Policy and Infringement Claims - 
 
 © 1999-2016 Alibaba.com. All rights reserved.
 
-icburule010100096070
+icburule010177021068
