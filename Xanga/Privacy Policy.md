@@ -8,57 +8,69 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Xanga Blog
+    *   by suyihung
+    *   2 months ago
+    *   in Personal URLs
+    *   0 votes
+    *   2 (last comment by icekendi 8 hours ago)
+*   Where did my blog entries go? Miss the memories
+    *   \[Resolved\] by soleMates2112
+    *   2 years ago
+    *   in Data Migration
+    *   0 votes
+    *   3 (last comment by icekendi 9 hours ago)
 *   Request for old posts
     *   by BFFSivNJulz
-    *   18 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve/recover blog entry
     *   by kristinaangeli
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data migration
     *   by MrMarlonProductions
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data migration
     *   by MrMarlonProductions
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data migration
     *   by MrMarlonProductions
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How can I archive my hide post?
     *   by In\_8
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Could I reactivate my blog?
     *   by anjulihollman
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where is my blog/archives?
     *   by dEsperAtIon\_08
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Daisuke111208 4 days ago)
+    *   1 (last comment by Daisuke111208 5 days ago)
 *   how can i find my blog?
     *   by nononoel1229
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -67,7 +79,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by mobydick7 5 days ago)
+    *   1 (last comment by mobydick7 6 days ago)
 *   help
     *   by CoUrTnEcAe
     *   1 week ago
@@ -84,18 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by peggypang0911
     *   1 week ago
     *   in Data Migration
-    *   0 votes
-    *   0
-*   Old blog
-    *   by allyk1988
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   How do i access the my blog posts and subs?1
-    *   by LifeIsFiction
-    *   1 week ago
-    *   in Themes
     *   0 votes
     *   0
 
