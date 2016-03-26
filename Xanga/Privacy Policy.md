@@ -13,61 +13,61 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 months ago
     *   in Personal URLs
     *   0 votes
-    *   2 (last comment by icekendi 1 day ago)
+    *   2 (last comment by icekendi 2 days ago)
 *   Where did my blog entries go? Miss the memories
     *   \[Resolved\] by soleMates2112
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by icekendi 1 day ago)
+    *   3 (last comment by icekendi 2 days ago)
 *   Request for old posts
     *   by BFFSivNJulz
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve/recover blog entry
     *   by kristinaangeli
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data migration
     *   by MrMarlonProductions
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data migration
     *   by MrMarlonProductions
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data migration
     *   by MrMarlonProductions
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How can I archive my hide post?
     *   by In\_8
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Could I reactivate my blog?
     *   by anjulihollman
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where is my blog/archives?
     *   by dEsperAtIon\_08
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Daisuke111208 6 days ago)
+    *   1 (last comment by Daisuke111208 1 week ago)
 *   how can i find my blog?
     *   by nononoel1229
     *   1 week ago
