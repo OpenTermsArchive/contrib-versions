@@ -1,5 +1,3 @@
-**A note to our members:** A note to our members: We recently made a few changes to our Terms of Use. Please familiarize yourself with the terms below. We’re always looking for better ways to serve and protect our members and we plan to continue to develop our policies based on member input. As always, we welcome your feedback here or to policies@couchsurfing.com. As a result of some productive feedback we received from the community, we recently made a few changes to our Terms of Use.  We’re always looking for better ways to serve and protect our members and we plan to continue to develop our policies based on member input. Please familiarize yourself with the terms below. For a complete index of every change we made, click here.  As always, we welcome your feedback here or to policies@couchsurfing.com. We apologize for any inconvenience, but our legal documents are only available in English.
-
 Terms of Use
 
 Last updated: 18 November 2014
@@ -12,7 +10,7 @@ We reserve the right to make changes or modifications to these Terms, or any pol
 
 Please refer to our Privacy Policy for information about how Couchsurfing collects, uses and discloses information about our members. In addition, by accessing or using our Services, you agree to adhere to the Community Guidelines.
 
-Please Contact Us with any questions regarding these Terms. You can contact us by mail at PO Box 7775 ECM 86600, San Francisco, CA 94120, by email at policies@couchsurfing.com or by phone at +1.415.404.6611.
+Please Contact Us with any questions regarding these Terms. You can contact us by mail at PO Box 7775 ECM 86600, San Francisco, CA 94120, by email at support@couchsurfing.com or by phone at +1.415.404.6611.
 
 ELIGIBILITY, REGISTRATION AND ACCOUNT
 
