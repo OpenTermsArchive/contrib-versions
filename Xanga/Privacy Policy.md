@@ -8,45 +8,51 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   migrating
+    *   by hooligan1a
+    *   2 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Xanga Blog
     *   by suyihung
     *   2 months ago
     *   in Personal URLs
     *   0 votes
-    *   2 (last comment by icekendi 3 days ago)
+    *   2 (last comment by icekendi 4 days ago)
 *   Where did my blog entries go? Miss the memories
     *   \[Resolved\] by soleMates2112
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by icekendi 3 days ago)
+    *   3 (last comment by icekendi 4 days ago)
 *   Request for old posts
     *   by BFFSivNJulz
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve/recover blog entry
     *   by kristinaangeli
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data migration
     *   by MrMarlonProductions
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data migration
     *   by MrMarlonProductions
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data migration
     *   by MrMarlonProductions
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -90,12 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by are\_they\_hanes
     *   1 week ago
     *   in Passwords &. Sign-In
-    *   0 votes
-    *   0
-*   Where can I find my blog ?
-    *   by peggypang0911
-    *   1 week ago
-    *   in Data Migration
     *   0 votes
     *   0
 
