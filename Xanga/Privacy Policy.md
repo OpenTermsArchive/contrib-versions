@@ -10,13 +10,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Recover Blog
     *   by dreemsometruu
-    *   4 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   migrating
     *   by hooligan1a
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -25,13 +25,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 months ago
     *   in Personal URLs
     *   0 votes
-    *   2 (last comment by icekendi 6 days ago)
+    *   2 (last comment by icekendi 1 week ago)
 *   Where did my blog entries go? Miss the memories
     *   \[Resolved\] by soleMates2112
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by icekendi 6 days ago)
+    *   3 (last comment by icekendi 1 week ago)
 *   Request for old posts
     *   by BFFSivNJulz
     *   1 week ago
