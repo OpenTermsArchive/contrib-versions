@@ -87,6 +87,7 @@ Recent updates to this Privacy Policy
 
 March 4, 2014: We added more detail about social networking services, cookies and similar technologies.
 
+*   Prizes
 *   Challenges
 *   Privacy Policy
 *   Terms of Service
