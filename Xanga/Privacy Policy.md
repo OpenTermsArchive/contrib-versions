@@ -8,15 +8,27 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Can I get my blog archives back??
+    *   by Karaawr
+    *   4 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   I lost my blog ！ help
+    *   by Christalleho
+    *   12 hours ago
+    *   in Themes
+    *   0 votes
+    *   0
 *   Recover Blog
     *   by dreemsometruu
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   migrating
     *   by hooligan1a
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -76,30 +88,18 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Where is my blog/archives?
     *   by dEsperAtIon\_08
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Daisuke111208 1 week ago)
+    *   1 (last comment by Daisuke111208 2 weeks ago)
 *   how can i find my blog?
     *   by nononoel1229
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
-*   Where can I find my blog ?
-    *   by peggypang0911
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by mobydick7 2 weeks ago)
-*   help
-    *   by CoUrTnEcAe
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
-1 2 3 ... 170 Next
+1 2 3 ... 171 Next
 
 Help Categories
 
