@@ -408,7 +408,7 @@ Privacy statement update: 11/6/15
 *   Investor Info
 
 *   Legal Notices
-*   Member Disclosure
+*   Plan Disclosures
 
 *   Privacy Information
 *   State Directory
