@@ -14,7 +14,6 @@ Wix
     *   Domains
     *   Mailboxes
 *   Support
-*   #StartStunning
 
 Sign In Hi, {username}
 
