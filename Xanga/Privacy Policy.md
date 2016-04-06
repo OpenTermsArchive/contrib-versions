@@ -8,27 +8,45 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Request Access to Archives
+    *   by lovely\_15ran
+    *   11 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Recovering Old Blog
+    *   by SkiHigh05
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Old Blog Can I still recover?
+    *   by Lauragrl151
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Can I get my blog archives back??
     *   by Karaawr
-    *   4 hours ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I lost my blog ！ help
     *   by Christalleho
-    *   12 hours ago
+    *   4 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Recover Blog
     *   by dreemsometruu
-    *   3 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   migrating
     *   by hooligan1a
-    *   5 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -46,54 +64,36 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 (last comment by icekendi 1 week ago)
 *   Request for old posts
     *   by BFFSivNJulz
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve/recover blog entry
     *   by kristinaangeli
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data migration
     *   by MrMarlonProductions
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data migration
     *   by MrMarlonProductions
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data migration
     *   by MrMarlonProductions
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How can I archive my hide post?
     *   by In\_8
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Could I reactivate my blog?
-    *   by anjulihollman
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Where is my blog/archives?
-    *   by dEsperAtIon\_08
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by Daisuke111208 2 weeks ago)
-*   how can i find my blog?
-    *   by nononoel1229
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
