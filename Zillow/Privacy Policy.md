@@ -51,8 +51,8 @@ Rent
 Sell
 
 *   Selling tools
-    *   *   See your home's Zestimate
-        *   Price your home using comps
+    *   *   See my home's Zestimate
+        *   Price my home using comps
         *   Sign Up for Home Report
         *   Neighborhood Home Values
         *   Find a seller's agent
@@ -76,14 +76,14 @@ Mortgages
         *   Affordability calculator
         *   Refinance calculator
 *   Resources
-    *   *   Mortgage learning center
+    *   *   Lender directory
+        *   Mortgage learning center
         *   Mortgages app
 
 Agent finder
 
 *   Looking for pros?
     *   *   Real estate agents
-        *   Mortgage lenders
         *   Property managers
     *   *   Home improvement pros
         *   Other pros
