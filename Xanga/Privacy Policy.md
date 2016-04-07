@@ -8,33 +8,39 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   How can I get my old blogs?
+    *   by cloudreaverjournal
+    *   21 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Request Access to Archives
     *   by lovely\_15ran
-    *   11 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Recovering Old Blog
     *   by SkiHigh05
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Blog Can I still recover?
     *   by Lauragrl151
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can I get my blog archives back??
     *   by Karaawr
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I lost my blog ！ help
     *   by Christalleho
-    *   4 days ago
+    *   5 days ago
     *   in Themes
     *   0 votes
     *   0
@@ -55,13 +61,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 months ago
     *   in Personal URLs
     *   0 votes
-    *   2 (last comment by icekendi 1 week ago)
+    *   2 (last comment by icekendi 2 weeks ago)
 *   Where did my blog entries go? Miss the memories
     *   \[Resolved\] by soleMates2112
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by icekendi 1 week ago)
+    *   3 (last comment by icekendi 2 weeks ago)
 *   Request for old posts
     *   by BFFSivNJulz
     *   2 weeks ago
@@ -88,12 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Data migration
     *   by MrMarlonProductions
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   How can I archive my hide post?
-    *   by In\_8
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
