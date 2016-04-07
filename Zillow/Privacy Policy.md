@@ -51,8 +51,8 @@ Rent
 Sell
 
 *   Selling tools
-    *   *   See my home's Zestimate
-        *   Price my home using comps
+    *   *   See your home's Zestimate
+        *   Price your home using comps
         *   Sign Up for Home Report
         *   Neighborhood Home Values
         *   Find a seller's agent
