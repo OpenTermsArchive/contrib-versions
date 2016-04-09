@@ -8,39 +8,69 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   HELP! Please help get archive
+    *   by Monranzee
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   HELP! Please help get archive
+    *   by Monranzee
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   HELP! Please help get archive
+    *   by Monranzee
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   HELP! Please help get archive
+    *   by Monranzee
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   HELP! Please help get archive
+    *   by Monranzee
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   How can I get my old blogs?
     *   by cloudreaverjournal
-    *   21 hours ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Request Access to Archives
     *   by lovely\_15ran
-    *   1 day ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Recovering Old Blog
     *   by SkiHigh05
-    *   2 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Blog Can I still recover?
     *   by Lauragrl151
-    *   3 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can I get my blog archives back??
     *   by Karaawr
-    *   5 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I lost my blog ！ help
     *   by Christalleho
-    *   5 days ago
+    *   1 week ago
     *   in Themes
     *   0 votes
     *   0
@@ -68,36 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   3 (last comment by icekendi 2 weeks ago)
-*   Request for old posts
-    *   by BFFSivNJulz
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Retrieve/recover blog entry
-    *   by kristinaangeli
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Data migration
-    *   by MrMarlonProductions
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Data migration
-    *   by MrMarlonProductions
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Data migration
-    *   by MrMarlonProductions
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
 1 2 3 ... 171 Next
 
