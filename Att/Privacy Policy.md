@@ -989,7 +989,7 @@ We understand that everyone thinks that privacy policies are long, complicated a
     ' + '
     *   E-mail us at privacypolicy@att.com
         
-    ' + '*   Write to us at AT&T Privacy Policy, 1120 20th Street, N.W., 10th Floor, Washington, DC 20036.
+    ' + '*   Write to us at AT&T Privacy Policy, Chief Privacy Office, 208 S. Akard, Room 1033, Dallas, TX 75202.
         
 ' + '*   For questions not related to privacy click on the "Contact Us" link at the upper right hand corner of this page. You also can access your online account from the upper right hand corner of our home page at att.com for additional service options.
     
@@ -1273,7 +1273,7 @@ AT&T | DISH interactive applications may be provided by third parties. Please be
 
 If we decide to Change this Privacy Policy, we will post those changes to this policy and other places we deem appropriate. If, however, we are going to use/disclose AT&T I DISH Network Customer Account Information in a manner different from that stated at the time of collection we will notify AT&T | DISH Network customers directly.
 
-' ). } function renderPrivacyRightCol() { if (pid == '2506') { document.write('' + 'En Español' + 'En Français' + '' + '' + '
+' ). } function renderPrivacyRightCol() { if (pid == '2506') { document.write(//'' //+ 'En Español' // + 'En Français' //+ '' //+ '' //+ '
 
 Welcome DIRECTV Customers  
 DIRECTV is now part of the AT&T family. For convenience, all AT&T products and services are covered under a single, easy-to-read Privacy Policy. The policy lays out our commitments to privacy and describes our policies for helping to protect personal information. We invite you to learn more about our commitments, safeguards and customer choices by reviewing our AT&T Policy, and we welcome your feedback.
@@ -1290,7 +1290,7 @@ effective date **11/18/2010**. We invite you to learn more about our commitments
 
 **Welcome to the AT&T Privacy Policy. We will provide a preview of the updated privacy policy ��� before it goes into effect. Please check back soon for updates. The policy on these pages has an effective date of 11/18/2010.**
 
-' + '' + '' + ' ' + '' + '
+' //+ '' '' + ' ' + '' + '
 
 AT&T has been awarded the TRUSTe Privacy Seal and you may contact TRUSTe if a privacy question is not properly addressed
 
