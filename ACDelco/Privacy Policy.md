@@ -358,7 +358,7 @@ Follow GM
 *   Careers
 *   Copyright / Trademark
 *   User Guidelines
-*   Privacy Policy
+*   Privacy Statement
 *   California Privacy Policy
 *   Ignition Recall
 *   Social Media Policy
