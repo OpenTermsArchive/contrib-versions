@@ -8,57 +8,69 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   OLD BLOG POST
+    *   by Sheek
+    *   1 hour ago
+    *   in Personal URLs
+    *   0 votes
+    *   0
+*   Need my old post back
+    *   by involuntaryGasms
+    *   19 hours ago
+    *   in Miscellaenous
+    *   0 votes
+    *   0
 *   HELP! Please help get archive
     *   by Monranzee
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   HELP! Please help get archive
     *   by Monranzee
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   HELP! Please help get archive
     *   by Monranzee
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   HELP! Please help get archive
     *   by Monranzee
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   HELP! Please help get archive
     *   by Monranzee
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How can I get my old blogs?
     *   by cloudreaverjournal
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Request Access to Archives
     *   by lovely\_15ran
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Recovering Old Blog
     *   by SkiHigh05
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Blog Can I still recover?
     *   by Lauragrl151
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -86,18 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   Xanga Blog
-    *   by suyihung
-    *   2 months ago
-    *   in Personal URLs
-    *   0 votes
-    *   2 (last comment by icekendi 2 weeks ago)
-*   Where did my blog entries go? Miss the memories
-    *   \[Resolved\] by soleMates2112
-    *   2 years ago
-    *   in Data Migration
-    *   0 votes
-    *   3 (last comment by icekendi 2 weeks ago)
 
 1 2 3 ... 171 Next
 
