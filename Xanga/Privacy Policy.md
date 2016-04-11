@@ -10,67 +10,67 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   OLD BLOG POST
     *   by Sheek
-    *   1 hour ago
+    *   1 day ago
     *   in Personal URLs
     *   0 votes
     *   0
 *   Need my old post back
     *   by involuntaryGasms
-    *   19 hours ago
+    *   1 day ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   HELP! Please help get archive
     *   by Monranzee
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   HELP! Please help get archive
     *   by Monranzee
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   HELP! Please help get archive
     *   by Monranzee
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   HELP! Please help get archive
     *   by Monranzee
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   HELP! Please help get archive
     *   by Monranzee
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How can I get my old blogs?
     *   by cloudreaverjournal
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Request Access to Archives
     *   by lovely\_15ran
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Recovering Old Blog
     *   by SkiHigh05
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Blog Can I still recover?
     *   by Lauragrl151
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -94,7 +94,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   migrating
     *   by hooligan1a
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
