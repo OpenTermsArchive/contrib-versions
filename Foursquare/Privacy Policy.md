@@ -1,6 +1,6 @@
-**Last Updated: March 26, 2016**
+**Last Updated: April 11, 2016**
 
-See here for a Summary of Changes)
+See here for a Summary of Changes
 
 Foursquare Labs, Inc. Privacy Policy
 
@@ -41,7 +41,7 @@ Sharing Location with the Foursquare app (version 8.0.0 and later) - Your real-t
 
 Sharing Location with the Foursquare app (prior to version 8.0.0) - Your location data is ONLY shared with others when you proactively decide to "check in" on the Foursquare app to tell the Services you’re at a particular place or, if you have turned on 'check-in by friends,' when your friend mentions you in his or her check in. The location information shared with a "check in" is the location information of that place.
 
-Sharing Location with Swarm app - By default, neighborhood sharing is turned on and your location data, at a neighborhood level, is shared with your Swarm friends and is updated from time to time using your background location. You can turn off neighborhood sharing on the check-in page. Your location is also shared when you proactively decide to "check in" on the Swarm app to tell the Services you're at a particular place or, if you have turned on 'check-in by friends,' when your friend mentions you in his or her check in. The location information shared with a "check in" is the location information of that place. Additionally, when you send a message on Swarm, your mobile device's location is shared with all recipients of the message, including friends of friends on Swarm who have received the same message (e.g., if you respond to a group message sent by a friend, all of the participants in that group message may see your mobile device's location).
+Sharing Location with Swarm app - By default, neighborhood sharing is turned on and your location data, at a neighborhood level, is shared with your Swarm friends and is updated from time to time using your background location. You can turn off neighborhood sharing on the check-in page. Your location is also shared when you proactively decide to "check in" on the Swarm app to tell the Services you're at a particular place or, if you have turned on 'check-in by friends,' when your friend mentions you in his or her check in. The location information shared with a "check in" is the location information of that place. Additionally, when you send a message on Swarm, your mobile device's location is shared with all recipients of the message, including friends of friends on Swarm who have received the same message (e.g., if you respond to a group message sent by a friend, all of the participants in that group message may see your mobile device's location). If you want to check-in without sharing your specific whereabouts with friends, you can check-in "off-the-grid".
 
 Your Check-in History - Each of your check-ins using the Services is saved to your "Check-in History," which allows you and your friends to look back at all the locations you have checked in since you created your Services account. You can delete any or all of your check-ins from the check-in details page on our website and in the apps. If for some reason you ever decide to delete your Services account, your entire check-in history will be removed from our database.
 
@@ -81,7 +81,7 @@ Registered users of the Service can opt-out of Foursquare serving interest-based
 
 Any individual (whether or not they are a registered user of Foursquare) can opt out of receiving interest-based advertisements from Foursquare outside of Foursquare's apps and websites on their mobile device by using the DAA's "AppChoices application available at http://www.aboutads.info/appchoices.
 
-Additionally, for information about how to opt out of receiving interest-based advertisements from our third party advertising partners outside of Foursquare’s apps and websites, or to learn more about interest-based advertising in general and to access the opt-outs of other online advertising companies, visit the Network Advertising Initiative at http://www.networkadvertising.org/choices/ or the Digital Advertising Alliance (DAA) at http://www.aboutads.info/choices/or, for interest-based advertising in apps, by using the DAA’s “AppChoices application” available at http://http://www.aboutads.info/appchoices.
+Additionally, for information about how to opt out of receiving interest-based advertisements from our third party advertising partners outside of Foursquare’s apps and websites, or to learn more about interest-based advertising in general and to access the opt-outs of other online advertising companies, visit the Network Advertising Initiative at http://www.networkadvertising.org/choices/ or the Digital Advertising Alliance (DAA) at http://www.aboutads.info/choices/ or, for interest-based advertising in apps, by using the DAA’s “AppChoices application” available at http://http://www.aboutads.info/appchoices.
 
 Also, certain versions of the iOS operating system permit you to "Limit Ad Tracking" in the system settings and certain versions of the Android operating system allow you to "Opt out of Interest-Based Ads" in the system settings.
 
