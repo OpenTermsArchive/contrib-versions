@@ -43,7 +43,7 @@ Sign In Hi, {username}
 *   App Market
 *   Domains
 *   Developers
-*   ShoutOut
+*   Email Marketing
 
 *   COMPANY
 *   About Wix
