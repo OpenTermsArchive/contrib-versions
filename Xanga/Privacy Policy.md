@@ -10,61 +10,61 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Requesting old archives
     *   by GreatBast669
-    *   15 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Looking to restart Xanga with archives
     *   by cKY23
-    *   16 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   OLD BLOG POST
     *   by Sheek
-    *   3 days ago
+    *   4 days ago
     *   in Personal URLs
     *   0 votes
     *   0
 *   Need my old post back
     *   by involuntaryGasms
-    *   3 days ago
+    *   4 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   HELP! Please help get archive
     *   by Monranzee
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   HELP! Please help get archive
     *   by Monranzee
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   HELP! Please help get archive
     *   by Monranzee
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   HELP! Please help get archive
     *   by Monranzee
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   HELP! Please help get archive
     *   by Monranzee
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How can I get my old blogs?
     *   by cloudreaverjournal
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
