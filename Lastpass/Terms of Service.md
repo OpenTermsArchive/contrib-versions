@@ -16,10 +16,10 @@ These terms and conditions, together with the Order Form (defined below) and any
 
 1.  **Payment Terms and Fees**
 
-2.1. Accepted Payment Methods: Payments for subscriptions to LMI’s Services may generally be made by preauthorized credit card charge, direct debit, check, bank draft, wire transfer or other online payment services (such as PayPal®) as described further below. Please note that when Customer selects PayPal to make payments, the transaction is re-directed from LMI’s site to PayPal’s payment site and Customer’s financial information is not shared with LMI.
+2.1. Accepted Payment Methods: Payments for subscriptions to LMI’s Services may generally be made by preauthorized credit card charge, direct debit, check, bank draft, wire transfer or other online payment services (such as Stripe®) as described further below. Please note that when Customer selects credit card to make payments, the transaction is re-directed from LMI’s site to Stripe’s payment site and Customer’s financial information is not shared with LMI.
 
-*   Month-to-Month Subscriptions. In the event that Customer’s subscription to a Service is on a monthly basis, payment of the subscription fee must be by preauthorized credit card charge, direct debit or other online payment services accepted by LMI (such as PayPal®) only, and Customer’s subscription will automatically renew each calendar month unless Customer provides LMI with written notice of non-renewal during the prior calendar month. Customer will automatically be charged the applicable monthly subscription fee for each month or partial month that Customer’s month-to-month subscription is in effect.
-*   Annual Subscriptions by Payment Card. Customer may elect to purchase annual subscriptions to the Service by credit card, direct debit or other online payment services accepted by LMI (such as PayPal®). In the event that Customer cancels the payment card provided to LMI to pay for the Service or the card expires or is otherwise terminated, Customer must promptly provide LMI with a new valid card number in order to maintain its subscription to the Service and avoid any disruptions to its subscription renewal. Customer authorizes LMI, from time-to-time, to undertake steps to determine whether the card number provided to LMI is a valid card number and authorizes LMI to automatically update Customer’s credit card information using software designed for updating purposes.
+*   Month-to-Month Subscriptions. In the event that Customer’s subscription to a Service is on a monthly basis, payment of the subscription fee must be by preauthorized credit card charge, direct debit or other online payment services accepted by LMI (such as Stripe®) only, and Customer’s subscription will automatically renew each calendar month unless Customer provides LMI with written notice of non-renewal during the prior calendar month. Customer will automatically be charged the applicable monthly subscription fee for each month or partial month that Customer’s month-to-month subscription is in effect.
+*   Annual Subscriptions by Payment Card. Customer may elect to purchase annual subscriptions to the Service by credit card, direct debit or other online payment services accepted by LMI (such as Stripe®). In the event that Customer cancels the payment card provided to LMI to pay for the Service or the card expires or is otherwise terminated, Customer must promptly provide LMI with a new valid card number in order to maintain its subscription to the Service and avoid any disruptions to its subscription renewal. Customer authorizes LMI, from time-to-time, to undertake steps to determine whether the card number provided to LMI is a valid card number and authorizes LMI to automatically update Customer’s credit card information using software designed for updating purposes.
 *   Annual Subscriptions by Invoice. In the event that Customer’s subscription to the Service is for a year and the initial payment is by check or bank draft against an invoice from LMI, payment shall be due within thirty (30) days of the date of invoice. Additionally, Customer’s subscription will automatically renew at the beginning of each subsequent anniversary year unless Customer or LMI gives prior written notice of non-renewal at least thirty (30) days prior to the expiration of the current year subscription.
 
 2.2. Use of Free Subscriptions. Unless stated otherwise, Customer’s subscription to any of LMI’s free Services do not require the payment of a subscription fee. For the avoidance of doubt, Customer’s right and license to access, use, execute and deploy any of LMI’s free Services are not guaranteed for any period of time and LMI reserves the right, in its sole and absolute discretion, to restrict, limit or terminate the use of “free” or “basic” versions of any of the Services by any individual, entity or group of entities.
@@ -77,24 +77,18 @@ c/o LogMeIn Ireland Ltd.
 Attn.: Contracts Department  
 Bloodstone Building Block C  
 70 Sir John Rogerson’s Quay  
-Dublin 2, Ireland
-
-With a Copy to:  
+Dublin 2, IrelandWith a Copy to:  
 LogMeIn, Inc.  
 Attn.: Legal Department  
 320 Summer Street  
-Boston, MA 02210 
-
-Any country other than the United States of America or Brazil LogMeIn Ireland Limited  
+Boston, MA 02210  Any country other than the United States of America or Brazil LogMeIn Ireland Limited  
 Bloodstone Building Block C  
 70 Sir John Rogerson’s Quay  
 Dublin 2, Ireland LogMeIn Ireland Limited  
 Attn.: Contracts Department  
 Bloodstone Building Block C  
 70 Sir John Rogerson’s Quay  
-Dublin 2, Ireland
-
-With a Copy to:  
+Dublin 2, IrelandWith a Copy to:  
 LogMeIn, Inc.  
 Attn.: Legal Department  
 320 Summer Street  
