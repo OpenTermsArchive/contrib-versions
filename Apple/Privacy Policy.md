@@ -5,7 +5,7 @@ Your privacy is important to Apple. So we’ve developed a Privacy Policy
 that covers how we collect, use, disclose, transfer, and store your information.   
 Please take a moment to familiarize yourself with our privacy practices and  
 let us know if you have any questions.  
- 
+  
 
 Your California Privacy Disclosures | Information Regarding Commercial Electronic Messages in Canada
 
