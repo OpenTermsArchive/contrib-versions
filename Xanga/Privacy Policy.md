@@ -8,57 +8,75 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Xanga Blog
+    *   by suyihung
+    *   2 months ago
+    *   in Personal URLs
+    *   0 votes
+    *   3 (last comment by x452 13 hours ago)
+*   How can I download my old posts from 2004
+    *   by x452
+    *   13 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Data Migration (Help!)
+    *   by Jessica\_1684
+    *   22 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Requesting old archives
     *   by GreatBast669
-    *   1 day ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Looking to restart Xanga with archives
     *   by cKY23
-    *   1 day ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   OLD BLOG POST
     *   by Sheek
-    *   4 days ago
+    *   6 days ago
     *   in Personal URLs
     *   0 votes
     *   0
 *   Need my old post back
     *   by involuntaryGasms
-    *   4 days ago
+    *   6 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   HELP! Please help get archive
     *   by Monranzee
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   HELP! Please help get archive
     *   by Monranzee
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   HELP! Please help get archive
     *   by Monranzee
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   HELP! Please help get archive
     *   by Monranzee
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   HELP! Please help get archive
     *   by Monranzee
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -80,26 +98,8 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   Old Blog Can I still recover?
-    *   by Lauragrl151
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Can I get my blog archives back??
-    *   by Karaawr
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   I lost my blog ！ help
-    *   by Christalleho
-    *   1 week ago
-    *   in Themes
-    *   0 votes
-    *   0
 
-1 2 3 ... 171 Next
+1 2 3 ... 172 Next
 
 Help Categories
 
