@@ -166,7 +166,7 @@ California Civil Code Section 1798.83 entitles California customers to request i
 
 ' + '
 
-California customers who wish to request further information about our compliance with these requirements, or have questions or concerns about our privacy practices and policies may contact us at privacypolicy@att.com, or write to us at AT&T Privacy Policy, 1120 20th Street, N.W., 10th Floor, Washington, DC 20036.
+California customers who wish to request further information about our compliance with these requirements, or have questions or concerns about our privacy practices and policies may contact us at privacypolicy@att.com, or write to us at AT&T Privacy Policy, Chief Privacy Office, 208 S. Akard, Room 1033, Dallas, TX 75202.
 
 ' + ''). } function setFaqContent(sectionID) { document.getElementById(sectionID).scrollIntoView(true). menuItem = sectionID + 'A'. activeMenuItem = document.getElementById(menuItem). var menuItems = new Array('definitionsA','scopeA','collectA','locationA','trackingA','analyticsA','aggregateA','sharingA','childrenA','protectionA','controlsA','changesA','contactA'). for(m=0;m' + ' ' + '**Our AT&T Privacy Policy in easy, FAQ format.**' + '
 
@@ -789,7 +789,7 @@ We understand that everyone thinks that privacy policies are long, complicated a
     
     ' + '
     
-    You may e-mail us at privacypolicy@att.com, call us at 800.495.1547 or write to us at AT&T Privacy Policy, 1120 20th Street, N.W., 10th Floor, Washington, DC 20036 with any questions or concerns you may have about our Children's Online Privacy Policy.
+    You may e-mail us at privacypolicy@att.com, call us at 800.495.1547 or write to us at AT&T Privacy Policy, Chief Privacy Office, 208 S. Akard, Room 1033, Dallas, TX 75202with any questions or concerns you may have about our Children's Online Privacy Policy.
     
 ' + '
 
