@@ -13,28 +13,28 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 months ago
     *   in Personal URLs
     *   0 votes
-    *   3 (last comment by x452 1 day ago)
+    *   3 (last comment by x452 2 days ago)
 *   How can I download my old posts from 2004
     *   by x452
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data Migration (Help!)
     *   by Jessica\_1684
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Requesting old archives
     *   by GreatBast669
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Looking to restart Xanga with archives
     *   by cKY23
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
