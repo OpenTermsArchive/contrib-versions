@@ -8,33 +8,57 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Access to archives?
+    *   by kronicKonundrum
+    *   3 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Requesting Old Archives
+    *   by Theres\_No\_You
+    *   19 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   I can't see my old blogs
+    *   by n0odlenb0oger
+    *   20 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Where did my blog entries go? Miss the memories
+    *   \[Resolved\] by soleMates2112
+    *   2 years ago
+    *   in Data Migration
+    *   0 votes
+    *   4 (last comment by I\_am\_the\_short\_bus 1 day ago)
+*   Requesting old archives
+    *   by GreatBast669
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by I\_am\_the\_short\_bus 1 day ago)
 *   Xanga Blog
     *   by suyihung
     *   2 months ago
     *   in Personal URLs
     *   0 votes
-    *   3 (last comment by x452 2 days ago)
+    *   3 (last comment by x452 4 days ago)
 *   How can I download my old posts from 2004
     *   by x452
-    *   2 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data Migration (Help!)
     *   by Jessica\_1684
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Requesting old archives
-    *   by GreatBast669
-    *   5 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Looking to restart Xanga with archives
     *   by cKY23
-    *   5 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -70,30 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   HELP! Please help get archive
     *   by Monranzee
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   HELP! Please help get archive
-    *   by Monranzee
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   How can I get my old blogs?
-    *   by cloudreaverjournal
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Request Access to Archives
-    *   by lovely\_15ran
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Recovering Old Blog
-    *   by SkiHigh05
     *   1 week ago
     *   in Data Migration
     *   0 votes
