@@ -223,7 +223,11 @@ Third Party Websites and Services
 
 The Platform may provide you with access to third party websites, databases, networks, servers, information, software, programs, systems, directories, applications, products or services, including without limitation, Linked Services (hereinafter **“External Services”**). SoundCloud does not have or maintain any control over External Services, and is not and cannot be responsible for their content, operation or use. By linking or otherwise providing access to any External Services, SoundCloud does not give any representation, warranty or endorsement, express or implied, with respect to the legality, accuracy, quality or authenticity of content, information or services provided by such External Services.
 
-External Services may have their own terms of use and/or privacy policy, and may have different practices and requirements to those operated by SoundCloud with respect to the Platform. You are solely responsible for reviewing any terms of use, privacy policy or other terms governing your use of these External Services, which you use at your own risk. You are advised to make reasonable enquiries and investigations before entering into any transaction, financial or otherwise, and whether online or offline, with any third party related to any
+External Services may have their own terms of use and/or privacy policy, and may have different practices and requirements to those operated by SoundCloud with respect to the Platform. You are solely responsible for reviewing any terms of use, privacy policy or other terms governing your use of these External Services, which you use at your own risk. You are advised to make reasonable enquiries and investigations before entering into any transaction, financial or otherwise, and whether online or offline, with any third party related to any External Services.
+
+You are solely responsible for taking the precautions necessary to protect yourself from fraud when using External Services, and to protect your computer systems from viruses, worms, Trojan horses, and other harmful or destructive content and material that may be included on or may emanate from any External Services.
+
+SoundCloud disclaims any and all responsibility or liability for any harm resulting from your use of External Services, and you hereby irrevocably waive any claim against SoundCloud with respect to the content or operation of any External Services.
 
 External Services
 
@@ -243,7 +247,7 @@ SoundCloud will suspend or terminate your access to the Platform if SoundCloud d
 
 If we receive a valid notification from a third party in accordance with our reporting processes or applicable law that any of Your Content infringes the copyright or other rights of such third party, or if we believe that your behavior violates our Community Guidelines, we will send you a written warning to this effect. Any user that receives more than two of these warnings is liable to have their access to the Platform terminated forthwith.
 
-We will also suspend or terminate your account without warning if ordered to do so by a court, and/or in other appropriate circumstances, as determined by SoundCloud at its discretion. Please note we do not offer refunds to Pro and Pro Unlimited account holders whose accounts are terminated as a result of repeated infringement or any violation of these Terms of Use or our Community Guidelines.
+We will also suspend or terminate your account without warning if ordered to do so by a court, and/or in other appropriate circumstances, as determined by SoundCloud at its discretion. Please note we do not offer refunds to Subscription account holders whose accounts are terminated as a result of repeated infringement or any violation of these Terms of Use or our Community Guidelines.
 
 Disclaimer
 
