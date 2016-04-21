@@ -10,19 +10,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Access to archives?
     *   by kronicKonundrum
-    *   3 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   0
+    *   1 (last comment by WinKy\_PoP 1 hour ago)
 *   Requesting Old Archives
     *   by Theres\_No\_You
-    *   19 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I can't see my old blogs
     *   by n0odlenb0oger
-    *   20 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -31,28 +31,28 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by I\_am\_the\_short\_bus 1 day ago)
+    *   4 (last comment by I\_am\_the\_short\_bus 2 days ago)
 *   Requesting old archives
     *   by GreatBast669
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by I\_am\_the\_short\_bus 1 day ago)
+    *   1 (last comment by I\_am\_the\_short\_bus 2 days ago)
 *   Xanga Blog
     *   by suyihung
     *   2 months ago
     *   in Personal URLs
     *   0 votes
-    *   3 (last comment by x452 4 days ago)
+    *   3 (last comment by x452 5 days ago)
 *   How can I download my old posts from 2004
     *   by x452
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data Migration (Help!)
     *   by Jessica\_1684
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
