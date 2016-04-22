@@ -248,10 +248,10 @@ Investors
 *   Member Log In
 *   Member Register
 *   Contact
-*   Individuals &. Families
-*   Employers &. Organizations
-*   Health Care Professionals
-*   Producers
+*   For Individuals &. Families
+*   For Employers &. Organizations
+*   For Health Care Professionals
+*   For Producers
 *   News &amp Analysis
 
 *   Feedback
