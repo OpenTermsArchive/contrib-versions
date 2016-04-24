@@ -10,37 +10,37 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   How do I get my old posts?
     *   by complacent\_aspirations
-    *   8 minutes ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I wanna access my old posts
     *   by adelaide427
-    *   11 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Unable to Update Password
     *   by lilbrwnbrd
-    *   1 day ago
+    *   2 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Access to archives?
     *   by kronicKonundrum
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by WinKy\_PoP 2 days ago)
+    *   1 (last comment by WinKy\_PoP 3 days ago)
 *   Requesting Old Archives
     *   by Theres\_No\_You
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I can't see my old blogs
     *   by n0odlenb0oger
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -49,13 +49,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by I\_am\_the\_short\_bus 4 days ago)
+    *   4 (last comment by I\_am\_the\_short\_bus 5 days ago)
 *   Requesting old archives
     *   by GreatBast669
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by I\_am\_the\_short\_bus 4 days ago)
+    *   1 (last comment by I\_am\_the\_short\_bus 5 days ago)
 *   Xanga Blog
     *   by suyihung
     *   3 months ago
@@ -82,13 +82,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   OLD BLOG POST
     *   by Sheek
-    *   1 week ago
+    *   2 weeks ago
     *   in Personal URLs
     *   0 votes
     *   0
 *   Need my old post back
     *   by involuntaryGasms
-    *   1 week ago
+    *   2 weeks ago
     *   in Miscellaenous
     *   0 votes
     *   0
