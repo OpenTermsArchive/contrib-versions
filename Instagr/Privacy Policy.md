@@ -1,6 +1,6 @@
-Instagram Help Centre
+Instagram Help Center
 
-*   Instagram Help Centre
+*   Instagram Help Center
 
 *   Community Guidelines
 *   Controlling Your Visibility
