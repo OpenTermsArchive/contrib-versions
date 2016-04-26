@@ -3,7 +3,7 @@ Skip Navigation Explore Allstate
 *   Find An Agent
 *   Contact Us
 *   Español
-*   Denver, CO,80202
+*   Denver, CO80202
 *   Search
 
 *   Allstate
@@ -69,7 +69,7 @@ Skip Navigation Explore Allstate
 
 Get a Quote?
 
-Your location is set for Denver, CO, 80202
+Your location is set for Denver, CO 80202
 
 Edit Select a product to get a quote.  
 Retrieve a saved quote
@@ -141,10 +141,10 @@ Toggle mobileNavigation Log in
 
 *   Search
 *   Update Zip Code expand
-    *   Denver, CO,80202Edit
+    *   Denver, CO80202Edit
 *   Find A Local Agent
 *   Get A Quote in 80202 expand
-    *   Denver, CO,80202 Edit AutoHomeRentersLifeCondoMotorcycleBoatATV/Rec. VehicleBusiness InsuranceMore InsuranceRetrieve a saved quote Retrieve a saved quote
+    *   Denver, CO80202 Edit AutoHomeRentersLifeCondoMotorcycleBoatATV/Rec. VehicleBusiness InsuranceMore InsuranceRetrieve a saved quote Retrieve a saved quote
 *   Insurance &. More expand
     *   Auto
     *   Home
