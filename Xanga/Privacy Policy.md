@@ -8,39 +8,45 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   My old page doesn't exist anymore
+    *   by Palmtrees\_and\_Powerlines11
+    *   26 minutes ago
+    *   in Passwords &. Sign-In
+    *   0 votes
+    *   0
 *   How do I get my old posts?
     *   by complacent\_aspirations
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I wanna access my old posts
     *   by adelaide427
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Unable to Update Password
     *   by lilbrwnbrd
-    *   3 days ago
+    *   4 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Access to archives?
     *   by kronicKonundrum
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by WinKy\_PoP 4 days ago)
+    *   1 (last comment by WinKy\_PoP 5 days ago)
 *   Requesting Old Archives
     *   by Theres\_No\_You
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I can't see my old blogs
     *   by n0odlenb0oger
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -49,13 +55,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by I\_am\_the\_short\_bus 6 days ago)
+    *   4 (last comment by I\_am\_the\_short\_bus 1 week ago)
 *   Requesting old archives
     *   by GreatBast669
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by I\_am\_the\_short\_bus 6 days ago)
+    *   1 (last comment by I\_am\_the\_short\_bus 1 week ago)
 *   Xanga Blog
     *   by suyihung
     *   3 months ago
@@ -90,12 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by involuntaryGasms
     *   2 weeks ago
     *   in Miscellaenous
-    *   0 votes
-    *   0
-*   HELP! Please help get archive
-    *   by Monranzee
-    *   2 weeks ago
-    *   in Data Migration
     *   0 votes
     *   0
 
