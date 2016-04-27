@@ -8,45 +8,51 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Please help get archive
+    *   by ANKI520
+    *   18 minutes ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   My old page doesn't exist anymore
     *   by Palmtrees\_and\_Powerlines11
-    *   26 minutes ago
+    *   1 day ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   How do I get my old posts?
     *   by complacent\_aspirations
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I wanna access my old posts
     *   by adelaide427
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Unable to Update Password
     *   by lilbrwnbrd
-    *   4 days ago
+    *   5 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Access to archives?
     *   by kronicKonundrum
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by WinKy\_PoP 5 days ago)
+    *   1 (last comment by WinKy\_PoP 6 days ago)
 *   Requesting Old Archives
     *   by Theres\_No\_You
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I can't see my old blogs
     *   by n0odlenb0oger
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -58,7 +64,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 (last comment by I\_am\_the\_short\_bus 1 week ago)
 *   Requesting old archives
     *   by GreatBast669
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by I\_am\_the\_short\_bus 1 week ago)
@@ -82,7 +88,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Looking to restart Xanga with archives
     *   by cKY23
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -90,12 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by Sheek
     *   2 weeks ago
     *   in Personal URLs
-    *   0 votes
-    *   0
-*   Need my old post back
-    *   by involuntaryGasms
-    *   2 weeks ago
-    *   in Miscellaenous
     *   0 votes
     *   0
 
