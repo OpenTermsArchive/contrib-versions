@@ -155,9 +155,11 @@ Helpful Links
 *   Online Medicare Directory
 *   Search Drug Formularies
 
-*   Medical: Log in or register
-*   Dental: Log in or register
-*   Contact Us
+*   Medical: Log In
+*   Medical: Register
+*   Dental: Log In
+*   Dental: Register
+*   Contact
 *   For Individuals &. Families
 *   For Employers &. Organizations
 *   For Producers
@@ -198,7 +200,7 @@ Helpful Links
 *   SBC Lookup Tool
 
 *   Log In/Register
-*   Contact Us
+*   Contact
 *   Get a Quote
 *   Find a Doctor
 *   For Individuals &. Families
@@ -245,7 +247,7 @@ Investors
 
 *   Member Log In
 *   Member Register
-*   Contact Us
+*   Contact
 *   For Individuals &. Families
 *   For Employers &. Organizations
 *   For Health Care Professionals
@@ -259,7 +261,7 @@ Investors
 *   For Health Care Professionals
 *   For Producers
 *   About Us
-*   Contact Us
+*   Contact
 *   News &. Analysis
 
 *   Feedback
