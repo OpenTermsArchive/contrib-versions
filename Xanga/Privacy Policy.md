@@ -8,33 +8,39 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Where did my blog entries go? Miss the memories
+    *   \[Resolved\] by soleMates2112
+    *   2 years ago
+    *   in Data Migration
+    *   0 votes
+    *   5 (last comment by Barnabas\_Cheng 14 hours ago)
 *   Please help get archive
     *   by ANKI520
-    *   18 minutes ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   My old page doesn't exist anymore
     *   by Palmtrees\_and\_Powerlines11
-    *   1 day ago
+    *   2 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   How do I get my old posts?
     *   by complacent\_aspirations
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I wanna access my old posts
     *   by adelaide427
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Unable to Update Password
     *   by lilbrwnbrd
-    *   5 days ago
+    *   6 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -43,7 +49,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by WinKy\_PoP 6 days ago)
+    *   1 (last comment by WinKy\_PoP 1 week ago)
 *   Requesting Old Archives
     *   by Theres\_No\_You
     *   1 week ago
@@ -56,12 +62,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   Where did my blog entries go? Miss the memories
-    *   \[Resolved\] by soleMates2112
-    *   2 years ago
-    *   in Data Migration
-    *   0 votes
-    *   4 (last comment by I\_am\_the\_short\_bus 1 week ago)
 *   Requesting old archives
     *   by GreatBast669
     *   2 weeks ago
