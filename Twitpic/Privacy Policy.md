@@ -76,7 +76,4 @@ The Site is not directed to persons under 13. If a parent or guardian becomes aw
 
 Questions or Concerns
 
-If you have any questions regarding this privacy policy or information that you have submitted to us you can contact us at:
-
-Email:  
-twitpicsupport@twitter.com
+If you have any questions regarding this privacy policy or information that you have submitted to us you can contact us.
