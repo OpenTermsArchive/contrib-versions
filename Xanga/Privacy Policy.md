@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   i lost my blog
     *   by single\_2yan
-    *   19 hours ago
+    *   1 day ago
     *   in Themes
     *   0 votes
     *   0
@@ -19,28 +19,28 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   5 (last comment by Barnabas\_Cheng 1 day ago)
+    *   5 (last comment by Barnabas\_Cheng 2 days ago)
 *   Please help get archive
     *   by ANKI520
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   My old page doesn't exist anymore
     *   by Palmtrees\_and\_Powerlines11
-    *   3 days ago
+    *   4 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   How do I get my old posts?
     *   by complacent\_aspirations
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I wanna access my old posts
     *   by adelaide427
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -79,16 +79,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 months ago
     *   in Personal URLs
     *   0 votes
-    *   3 (last comment by x452 1 week ago)
+    *   3 (last comment by x452 2 weeks ago)
 *   How can I download my old posts from 2004
     *   by x452
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data Migration (Help!)
     *   by Jessica\_1684
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
