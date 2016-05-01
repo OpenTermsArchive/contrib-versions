@@ -8,9 +8,15 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   lost my xanga account
+    *   by kshelton22
+    *   5 months ago
+    *   in Themes
+    *   0 votes
+    *   1 (last comment by petite\_poetess 13 hours ago)
 *   i lost my blog
     *   by single\_2yan
-    *   1 day ago
+    *   2 days ago
     *   in Themes
     *   0 votes
     *   0
@@ -19,16 +25,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   5 (last comment by Barnabas\_Cheng 2 days ago)
+    *   5 (last comment by Barnabas\_Cheng 3 days ago)
 *   Please help get archive
     *   by ANKI520
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   My old page doesn't exist anymore
     *   by Palmtrees\_and\_Powerlines11
-    *   4 days ago
+    *   5 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -88,12 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Data Migration (Help!)
     *   by Jessica\_1684
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Looking to restart Xanga with archives
-    *   by cKY23
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
