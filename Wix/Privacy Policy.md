@@ -9,10 +9,13 @@ Wix
     *   Get Inspired
     *   Features
     *   App Market
+*   Features
+*   Explore
 *   Subscriptions
     *   Premium Plans
     *   Domains
     *   Mailboxes
+*   Templates
 *   Support
 
 Sign In Hi, {username}
