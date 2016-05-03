@@ -13,10 +13,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 months ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by petite\_poetess 1 day ago)
+    *   1 (last comment by petite\_poetess 2 days ago)
 *   i lost my blog
     *   by single\_2yan
-    *   3 days ago
+    *   4 days ago
     *   in Themes
     *   0 votes
     *   0
@@ -25,16 +25,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   5 (last comment by Barnabas\_Cheng 4 days ago)
+    *   5 (last comment by Barnabas\_Cheng 5 days ago)
 *   Please help get archive
     *   by ANKI520
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   My old page doesn't exist anymore
     *   by Palmtrees\_and\_Powerlines11
-    *   6 days ago
+    *   1 week ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -79,7 +79,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by I\_am\_the\_short\_bus 1 week ago)
+    *   1 (last comment by I\_am\_the\_short\_bus 2 weeks ago)
 *   Xanga Blog
     *   by suyihung
     *   3 months ago
