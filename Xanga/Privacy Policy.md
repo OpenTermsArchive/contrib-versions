@@ -8,15 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   I downloaded my archived blog, but files were missing
+    *   by Ro0nilWazlib
+    *   2 months ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by Ro0nilWazlib 4 hours ago)
 *   lost my xanga account
     *   by kshelton22
     *   5 months ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by petite\_poetess 2 days ago)
+    *   1 (last comment by petite\_poetess 3 days ago)
 *   i lost my blog
     *   by single\_2yan
-    *   4 days ago
+    *   5 days ago
     *   in Themes
     *   0 votes
     *   0
@@ -25,10 +31,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   5 (last comment by Barnabas\_Cheng 5 days ago)
+    *   5 (last comment by Barnabas\_Cheng 6 days ago)
 *   Please help get archive
     *   by ANKI520
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -58,25 +64,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Access to archives?
     *   by kronicKonundrum
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by WinKy\_PoP 1 week ago)
 *   Requesting Old Archives
     *   by Theres\_No\_You
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I can't see my old blogs
     *   by n0odlenb0oger
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Requesting old archives
     *   by GreatBast669
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by I\_am\_the\_short\_bus 2 weeks ago)
@@ -88,12 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 (last comment by x452 2 weeks ago)
 *   How can I download my old posts from 2004
     *   by x452
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Data Migration (Help!)
-    *   by Jessica\_1684
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
