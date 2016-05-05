@@ -34,15 +34,15 @@ Rent
         *   Pet friendly rentals
         *   All rental listings
         *   All rental buildings
+*   Create a renter profile
+    *   *   A renter profile will boost your chances of landing the perfect rental.
+            
+        *   Make yours to stand out!
 *   Resources
     *   *   Rent affordability calculator
         *   Rent vs. buy calculator
         *   Renters Guide
         *   Rentals app
-*   Create a renter profile
-    *   *   Capture the attention of property managers.
-            
-        *   Complete a pre-application
 *   List your rental
     *   *   Post a rental listing on the Zillow Rental Network, the largest rental network on the Web.
             
