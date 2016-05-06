@@ -13,16 +13,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 months ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Ro0nilWazlib 1 day ago)
+    *   1 (last comment by Ro0nilWazlib 2 days ago)
 *   lost my xanga account
     *   by kshelton22
     *   5 months ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by petite\_poetess 4 days ago)
+    *   1 (last comment by petite\_poetess 5 days ago)
 *   i lost my blog
     *   by single\_2yan
-    *   6 days ago
+    *   1 week ago
     *   in Themes
     *   0 votes
     *   0
