@@ -8,18 +8,30 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Footprints Feature
+    *   by nEyn
+    *   1 year ago
+    *   in Miscellaenous
+    *   0 votes
+    *   3 (last comment by a\_stuck\_creative 15 hours ago)
+*   How do I navigate to change my theme?
+    *   by a\_stuck\_creative
+    *   15 hours ago
+    *   in Themes
+    *   0 votes
+    *   0
 *   I downloaded my archived blog, but files were missing
     *   by Ro0nilWazlib
     *   2 months ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Ro0nilWazlib 2 days ago)
+    *   1 (last comment by Ro0nilWazlib 3 days ago)
 *   lost my xanga account
     *   by kshelton22
     *   5 months ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by petite\_poetess 5 days ago)
+    *   1 (last comment by petite\_poetess 6 days ago)
 *   i lost my blog
     *   by single\_2yan
     *   1 week ago
@@ -46,13 +58,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   How do I get my old posts?
     *   by complacent\_aspirations
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I wanna access my old posts
     *   by adelaide427
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -86,18 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   1 (last comment by I\_am\_the\_short\_bus 2 weeks ago)
-*   Xanga Blog
-    *   by suyihung
-    *   3 months ago
-    *   in Personal URLs
-    *   0 votes
-    *   3 (last comment by x452 2 weeks ago)
-*   How can I download my old posts from 2004
-    *   by x452
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
 1 2 3 ... 172 Next
 
