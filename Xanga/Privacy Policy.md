@@ -8,15 +8,27 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Request for archives
+    *   by KLove13
+    *   23 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Where did my blog entries go? Miss the memories
+    *   \[Resolved\] by soleMates2112
+    *   2 years ago
+    *   in Data Migration
+    *   0 votes
+    *   6 (last comment by KLove13 23 hours ago)
 *   Footprints Feature
     *   by nEyn
     *   1 year ago
     *   in Miscellaenous
     *   0 votes
-    *   3 (last comment by a\_stuck\_creative 15 hours ago)
+    *   3 (last comment by a\_stuck\_creative 1 day ago)
 *   How do I navigate to change my theme?
     *   by a\_stuck\_creative
-    *   15 hours ago
+    *   1 day ago
     *   in Themes
     *   0 votes
     *   0
@@ -25,25 +37,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 months ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Ro0nilWazlib 3 days ago)
+    *   1 (last comment by Ro0nilWazlib 4 days ago)
 *   lost my xanga account
     *   by kshelton22
     *   5 months ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by petite\_poetess 6 days ago)
+    *   1 (last comment by petite\_poetess 1 week ago)
 *   i lost my blog
     *   by single\_2yan
     *   1 week ago
     *   in Themes
     *   0 votes
     *   0
-*   Where did my blog entries go? Miss the memories
-    *   \[Resolved\] by soleMates2112
-    *   2 years ago
-    *   in Data Migration
-    *   0 votes
-    *   5 (last comment by Barnabas\_Cheng 1 week ago)
 *   Please help get archive
     *   by ANKI520
     *   1 week ago
@@ -92,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   Requesting old archives
-    *   by GreatBast669
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by I\_am\_the\_short\_bus 2 weeks ago)
 
 1 2 3 ... 172 Next
 
