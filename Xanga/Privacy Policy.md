@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Request for archives
     *   by KLove13
-    *   23 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,16 +19,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   6 (last comment by KLove13 23 hours ago)
+    *   6 (last comment by KLove13 1 day ago)
 *   Footprints Feature
     *   by nEyn
     *   1 year ago
     *   in Miscellaenous
     *   0 votes
-    *   3 (last comment by a\_stuck\_creative 1 day ago)
+    *   3 (last comment by a\_stuck\_creative 2 days ago)
 *   How do I navigate to change my theme?
     *   by a\_stuck\_creative
-    *   1 day ago
+    *   2 days ago
     *   in Themes
     *   0 votes
     *   0
@@ -37,7 +37,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 months ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Ro0nilWazlib 4 days ago)
+    *   1 (last comment by Ro0nilWazlib 5 days ago)
 *   lost my xanga account
     *   by kshelton22
     *   5 months ago
