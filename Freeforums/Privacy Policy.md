@@ -45,7 +45,7 @@ You agree that by using this Site, you will assume sole responsibility to exerci
 (j) Unsolicited Communications Prohibited. You may not post or transmit charity requests, petitions for signatures, chain letters or letters relating to pyramid schemes. You may not post or transmit any advertising, promotional materials or any other solicitation of other users to use goods or services.  
 (k) Other Prohibited Activities. You agree not to use the Site (or assist or encourage others to use the Site) in order to:
 
-1\. “Stalk” or otherwise harass any person, or contact any person who has requested not to be contacted.
+1\. “Stalk” or otherwise harass any person, or contact any person who has requested not to be contacted;
 
 2\. Exploit people in a sexual or violent manner;
 
@@ -63,7 +63,7 @@ You agree that by using this Site, you will assume sole responsibility to exerci
 
 9\. Promote, engage or otherwise make available any unsolicited or unauthorized advertising, promotional materials, pyramid schemes, chain letters, disruptive commercial messages, false or misleading information or any other form of solicitation;
 
-10\. Attempt to sell, modify, reverse engineer, disassemble, decompile, frame, decrypt, decompile, create derivative works of or otherwise exploit for any commercial purpose the Site, any portions thereof (including the Content), or any systems of CrowdGather or its affiliated organizations without CrowdGather’s prior written consent.
+10\. Attempt to sell, modify, reverse engineer, disassemble, decompile, frame, decrypt, decompile, create derivative works of or otherwise exploit for any commercial purpose the Site, any portions thereof (including the Content), or any systems of CrowdGather or its affiliated organizations without CrowdGather’s prior written consent;
 
 11\. Do anything that may interfere with the operation of the Site, including, but not limited to, hacking, spamming and flood attacking;
 
@@ -71,21 +71,21 @@ You agree that by using this Site, you will assume sole responsibility to exerci
 
 13\. Interfere with or disrupt the Site or servers or networks connected to the Site, or disobey any requirements, procedures, policies or regulations of networks connected to the Site;
 
-14\. Attempt to harvest, scrape, copy or otherwise collect information, User Generated Content or Content from the Site, to retrieve or index any portion of the Site or collect information about Company users for any purpose not expressly authorized by Company, including, without limitation, republishing the same on a third party website, either manually or through any engine, software, tool, agent, or other device or mechanism (including without limitation browsers, spiders, robots, avatars, site search/retrieval application, intelligent agents or other device).
+14\. Attempt to harvest, scrape, copy or otherwise collect information, User Generated Content or Content from the Site, to retrieve or index any portion of the Site or collect information about Company users for any purpose not expressly authorized by Company, including, without limitation, republishing the same on a third party website, either manually or through any engine, software, tool, agent, or other device or mechanism (including without limitation browsers, spiders, robots, avatars, site search/retrieval application, intelligent agents or other device);
 
-15\. Access content or data not intended for you, or log onto a server or account that you are not authorized to access.
+15\. Access content or data not intended for you, or log onto a server or account that you are not authorized to access;
 
 16\. Submit User Generated Content that falsely expresses or implies that such User Generated Content is sponsored or endorsed by Company;
 
 17\. Create user accounts by automated means, or under false or fraudulent pretenses. or provide false, misleading or inaccurate information to Company or any other user;
 
-18\. Impersonate, or otherwise misrepresent affiliation, connection or association with, any person or entity.
+18\. Impersonate, or otherwise misrepresent affiliation, connection or association with, any person or entity;
 
 19\. Use “ad blocking” software or similar built-in web browser options designed to hide, block or prevent the proper display of online advertising (if any) while using the Sites;
 
-20\. Modify or change the placement and location of any advertisement, if any, while using the Sites.
+20\. Modify or change the placement and location of any advertisement, if any, while using the Sites;
 
-21\. Harvest or otherwise collect information about Company users, including email addresses, passwords, user names and phone numbers.
+21\. Harvest or otherwise collect information about Company users, including email addresses, passwords, user names and phone numbers;
 
 22\. Use the Site to solicit or recruit Company users or Domain Administrators to another Site. or
 
@@ -174,8 +174,8 @@ SOME STATES DO NOT ALLOW THE EXCLUSION OF DAMAGES OR LIMITATION OF LIABILITY AS 
 **17\. Notice.** We may deliver notice to you under these Terms and Conditions by means of electronic mail, a general notice on the Site, or by written communication delivered by first class U. S. mail to your address on record in your account information, if any. You may give notice to us at any time by letter delivered by first class postage prepaid U. S. mail or overnight courier to the following address:
 
 Crowdgather Inc.  
-20300 Ventura Blvd. Suite 330  
-Woodland Hills, CA 91364  
+23945 Calabasas Rd  
+CALABASAS, CA 91302-1552  
 Attn: Legal Department
 
 Back to the top
