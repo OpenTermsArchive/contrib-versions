@@ -10,13 +10,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   I wanna access my old posts
     *   by zerolai18
-    *   7 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Request for archives
     *   by KLove13
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -25,16 +25,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   6 (last comment by KLove13 3 days ago)
+    *   6 (last comment by KLove13 4 days ago)
 *   Footprints Feature
     *   by nEyn
     *   1 year ago
     *   in Miscellaenous
     *   0 votes
-    *   3 (last comment by a\_stuck\_creative 4 days ago)
+    *   3 (last comment by a\_stuck\_creative 5 days ago)
 *   How do I navigate to change my theme?
     *   by a\_stuck\_creative
-    *   4 days ago
+    *   5 days ago
     *   in Themes
     *   0 votes
     *   0
@@ -82,7 +82,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Unable to Update Password
     *   by lilbrwnbrd
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -91,7 +91,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by WinKy\_PoP 2 weeks ago)
+    *   1 (last comment by WinKy\_PoP 3 weeks ago)
 *   Requesting Old Archives
     *   by Theres\_No\_You
     *   3 weeks ago
