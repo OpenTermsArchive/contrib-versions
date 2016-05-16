@@ -43,12 +43,10 @@ Rent
         *   Rent vs. buy calculator
         *   Renters Guide
         *   Rentals app
-*   Rental Manager
-    *   *   Manage your rental on Zillow Group Rentals, the largest rental network on the Web.
+*   List your rental
+    *   *   Post a rental listing on the Zillow Rental Network, the largest rental network on the Web.
             
-        *   Sign in to see your listings
-        *   List a rental (it's free)
-        *   How it works
+        *   List your rental (it's free)
 
 Sell
 
