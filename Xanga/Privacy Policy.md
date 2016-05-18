@@ -10,28 +10,28 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Access to archives?
     *   by kronicKonundrum
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by xx19sam91xx 3 days ago)
+    *   2 (last comment by xx19sam91xx 4 days ago)
 *   Where did my blog entries go? Miss the memories
     *   \[Resolved\] by soleMates2112
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   7 (last comment by pissantslover 3 days ago)
+    *   7 (last comment by pissantslover 4 days ago)
 *   Unable to Update Password
     *   by lilbrwnbrd
     *   3 weeks ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   1 (last comment by hysengde 4 days ago)
+    *   1 (last comment by hysengde 5 days ago)
 *   I wanna access my old posts
     *   by zerolai18
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by ELCYxo 4 days ago)
+    *   1 (last comment by ELCYxo 5 days ago)
 *   Request for archives
     *   by KLove13
     *   1 week ago
@@ -55,7 +55,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 months ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Ro0nilWazlib 1 week ago)
+    *   1 (last comment by Ro0nilWazlib 2 weeks ago)
 *   lost my xanga account
     *   by kshelton22
     *   5 months ago
@@ -70,7 +70,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Please help get archive
     *   by ANKI520
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -94,7 +94,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Requesting Old Archives
     *   by Theres\_No\_You
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
