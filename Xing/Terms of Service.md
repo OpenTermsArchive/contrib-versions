@@ -50,6 +50,8 @@ General Terms and Conditions for the use of News Pages on XING
 
 General Terms and Conditions for the use of XING Arbeitsrechtsschutz (German only)
 
+General Terms and Conditions for the use of XING Business Pages and accompanying services
+
 General Terms and Conditions
 
 Last updated: 7 March 2016
