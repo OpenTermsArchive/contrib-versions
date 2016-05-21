@@ -84,7 +84,7 @@ x Cancel
 *   Select a Country
 *   Contact Us
 
-Privacy Policy
+Privacy Statement
 
 **General Motors Company U.S. Consumer Privacy Statement**
 
