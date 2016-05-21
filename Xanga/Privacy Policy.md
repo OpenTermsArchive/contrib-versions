@@ -13,13 +13,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by Sunny\_Kitty 1 day ago)
+    *   3 (last comment by Sunny\_Kitty 2 days ago)
 *   Where did my blog entries go? Miss the memories
     *   \[Resolved\] by soleMates2112
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   7 (last comment by pissantslover 6 days ago)
+    *   7 (last comment by pissantslover 1 week ago)
 *   Unable to Update Password
     *   by lilbrwnbrd
     *   4 weeks ago
@@ -43,10 +43,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Miscellaenous
     *   0 votes
-    *   3 (last comment by a\_stuck\_creative 1 week ago)
+    *   3 (last comment by a\_stuck\_creative 2 weeks ago)
 *   How do I navigate to change my theme?
     *   by a\_stuck\_creative
-    *   1 week ago
+    *   2 weeks ago
     *   in Themes
     *   0 votes
     *   0
@@ -82,13 +82,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   How do I get my old posts?
     *   by complacent\_aspirations
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I wanna access my old posts
     *   by adelaide427
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
