@@ -10,19 +10,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Retrieve my old blog
     *   by tsaysdsays
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Netoangel 4 hours ago)
+    *   1 (last comment by Netoangel 1 day ago)
 *   Help!
     *   by Shannon6907
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve my old blog
     *   by tsaysdsays
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -52,7 +52,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by ELCYxo 2 weeks ago)
 *   Request for archives
     *   by KLove13
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -79,10 +79,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 months ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by petite\_poetess 3 weeks ago)
+    *   1 (last comment by petite\_poetess 4 weeks ago)
 *   i lost my blog
     *   by single\_2yan
-    *   4 weeks ago
+    *   1 month ago
     *   in Themes
     *   0 votes
     *   0
