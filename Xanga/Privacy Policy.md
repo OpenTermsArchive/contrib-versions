@@ -10,19 +10,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Retrieve my old blog
     *   by tsaysdsays
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Netoangel 1 day ago)
+    *   1 (last comment by Netoangel 2 days ago)
 *   Help!
     *   by Shannon6907
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve my old blog
     *   by tsaysdsays
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
