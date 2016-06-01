@@ -13,10 +13,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Netoangel 3 days ago)
+    *   1 (last comment by Netoangel 4 days ago)
 *   Help!
     *   by Shannon6907
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -46,7 +46,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by hysengde 2 weeks ago)
 *   I wanna access my old posts
     *   by zerolai18
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by ELCYxo 2 weeks ago)
@@ -73,7 +73,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 months ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Ro0nilWazlib 3 weeks ago)
+    *   1 (last comment by Ro0nilWazlib 4 weeks ago)
 *   lost my xanga account
     *   by kshelton22
     *   6 months ago
