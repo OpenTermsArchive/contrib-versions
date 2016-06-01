@@ -44,11 +44,10 @@ Rent
         *   Renters Guide
         *   Rentals app
 *   Rental Manager
-    *   *   Manage your rental on Zillow Group Rentals, the largest rental network on the Web.
-            
-        *   Sign in to see your listings
+    *   *   Sign in to see your listings
         *   List a rental (it's free)
         *   How it works
+        *   Resources
 
 Sell
 
