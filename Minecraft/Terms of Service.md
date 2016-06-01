@@ -245,15 +245,17 @@ You may also make money using videos and screen-shots if it is covered by so cal
 
 If something isn't covered by these Guidelines and we haven't otherwise said it's okay, that probably means we don't want you to do it. In any case if it isn't covered please don't do it without getting written permission from us. You can contact us at brands at mojang.com. If something is specifically covered and permitted by these Guidelines, our Account Terms or EULAs applicable to any of our games then you don't need to contact us.
 
-Updated: 27 October 2015 12:44
+Updated: 31 May 2016 11:52
 
 Minecraft Commercial Usage Guidelines
 
 The Minecraft EULA and Brand and Asset Usage Guidelines ("Policies") restrict the commercial use of the Minecraft Name, Brand, and Assets, including software, graphics and audio.
 
-However, since we do love the idea of people doing cool things and sharing them with the community, and we realize that sometimes you need to make a charge to cover your costs, the following explains what we (currently) consider to be commercial use / commercial things. This may change as time goes by but for now we hope that it helps you understand what you can and can't do, and helps Minecraft fans do more (and those that want to go too far do less).
+However, since we do love the idea of players and fans doing cool things and sharing them with the community, and we realize that sometimes you need to charge to cover your costs, the following explains what we (currently) consider to be commercial use / commercial things. This may change as time goes by but for now we hope that it helps you understand what you can and can't do, and helps Minecraft fans do more (and limit those that try to go too far).
 
 We have therefore drafted these Guidelines to allow some leniency with respect to limited commercial activity as outlined below. They don't form part of the Policies but they exist because we currently think it is a good idea to let some of these things happen. Please note that we reserve the right to change our mind at any time (such as if people start to take advantage of our good intentions). So please don't count on these Guidelines always being here or in the specific form they are right now.
+
+We also want to make it clear that these Guidelines are for the community of Minecraft players and fans. They do not authorize commercial companies, corporate brands, advertising agencies, non-profits, or governments to use or exploit Minecraft for promoting products or services unrelated to Minecraft. See below for more detail in the section, “Building Promotions into Minecraft.”
 
 Above all we are trying to find a way to let our brilliant fans do great things for each other without others coming along and spoiling it for everyone.
 
@@ -298,7 +300,7 @@ Videos and Streams
 
 If you comply with and follow the Essential Requirements (in the Brand and Asset Usage Guidelines) and Naming Guidelines YOU MAY create, use and distribute videos and streams of you playing or using Minecraft for any lawful reason and YOU MAY make money from them by adding or permitting advertising in them, so long as:
 
-*   all videos downloads are free to view (i.e. there is no pay wall or other charge to view the videos);
+*   all video downloads are free to view (i.e. there is no pay wall or other charge to view the videos);
 *   all streams are made free to view within 24 hours;
 *   you add your own unique content to the video or stream, such as audio commentary or footage of you making cool stuff;
 *   you don't create and use videos or streams whose purpose is to advertise or promote other products or services;
@@ -307,11 +309,11 @@ If you comply with and follow the Essential Requirements (in the Brand and Asset
 
 To help you understand this, the amount of unique content you add must be enough to make it reasonable for you to make money through advertising (and we reserve our right to decide on that).
 
-This means that you can upload your own unique content to sites such as YouTube and make money from advertising around the video but you cannot distribute those videos on iTunes and charge for the content. Nor can you charge for a subscription to a channel where those videos are available unless the Minecraft related videos are also readily available for free outside of that subscription channel. Basically, videos must be free to consumers at the point of consumption and any money you make should come from other sources like advertisers and sponsors.
+This means that you can upload your own unique content to sites such as YouTube and make money from advertising around the video but you cannot distribute those videos on iTunes and charge for the content. Nor can you charge for a subscription to a channel where those videos are available unless the Minecraft related videos are also readily available for free outside of that subscription channel. Basically, videos must be free to consumers at the point of consumption and any money you make should come from other sources like display ads and sponsors, subject to the section below on “Building Promotions with Minecraft.”
 
 Extended Functionality and "Mods"
 
-If you comply with and follow the Essential Requirements (in the Brand and Asset Usage Guidelines) and Naming Guidelines above YOU MAY distribute or make available plug-ins and other bits and pieces of extended functionality etc. that you create (together, "Mods") for free and without any charge. By "Mods," we mean something original that you created that doesn't contain a substantial part of our copyrightable code or content. We have the final say on what constitutes a Mod and what doesn't. When you combine your Mod with the Minecraft software, we will call that combination a "Modded Version" of the Game. You MAY NOT distribute any Modded Versions of our Game or software, though you may distribute Mods. You may make money from Mods as described below in the section, "Servers and Hosting."
+If you comply with and follow the Essential Requirements (in the Brand and Asset Usage Guidelines) and Naming Guidelines above YOU MAY distribute or make available plug-ins and other bits and pieces of extended functionality etc. that you create (together, "Mods") for free and without any charge, but not if the purpose of your Mod is to advertise or promote other products or services (see the section below on Building Promotions with Minecraft). By "Mods," we mean something original that you created that doesn't contain a substantial part of our copyrightable code or content. We have the final say on what constitutes a Mod and what doesn't. When you combine your Mod with the Minecraft software, we will call that combination a "Modded Version" of the Game. You MAY NOT distribute any Modded Versions of our Game or software, though you may distribute Mods. You may make money from Mods as described below in the section, "Servers and Hosting."
 
 Servers and Hosting
 
@@ -354,6 +356,24 @@ If you comply with and follow the Essential Requirements (in the Brand and Asset
     *   your website relates exclusively to Minecraft and not other third party games;
     *   any third party advertising does not damage our Brand;
     *   you don't do so for cybersquatting or principally to make money, including through affiliate services.
+
+Building Promotions with Minecraft
+
+Corporations, businesses, advertising agencies, non-profits, governments, and other entities MAY NOT use Minecraft gameplay to promote or market unrelated brands, products, campaigns, or services.
+
+Specifically, if you are one of these entities or someone who is hired by them, you MAY NOT exploit Minecraft or Minecraft assets to:
+
+*   build or commission others to build, a Minecraft mod, map or server that promotes or markets unrelated products or services in playable form. for example, you are NOT allowed to market or promote a branded automobile using a mod that depicts branded automobiles within Minecraft game play;
+*   build or commission others to build, a Minecraft mod/map/server that promotes or markets a company’s movie or TV show. for example, you are NOT allowed to build maps and/or videos using Minecraft blocks that build out the world or characters of a movie to promote and market your company’s or your client’s movie or TV program;
+*   offer Minecraft gameplay displayed or projected publicly within physical locations. for example, you are NOT allowed to promote or advertise big-screen Minecraft gameplay inside restaurants or other commercial venues. and you are NOT allowed to charge money for Minecraft gameplay, leagues, or competitions in theaters where gameplay is projected onto the movie screen.
+*   create or commission others to create promotional or marketing videos or movie trailers through Minecraft gameplay. for example, you are NOT allowed to create or produce movie trailers through Minecraft gameplay for promoting or marketing a movie;
+*   to promote your (or your client’s) corporate brands, products, or services.
+
+However YOU MAY:
+
+*   Pay to advertise your business in an advertisement window within a Minecraft video. for example, by displaying a banner ad or by selling your ads on YouTube where they may be shown in connection with Minecraft videos uploaded independently by players;
+*   Pay for advertisements of your business to be served on websites or servers related to Minecraft, so long as you are not hiring the server operator to design or host a Minecraft mod/map/server that builds an in-world representation of your brand, products, or services.
+*   Build products or movie environments that you are a fan of into a Minecraft mod/map/server so long as you have not been asked to do so by the entity who makes the product or by someone they have hired to promote their brand or products. likewise, you can express your support for a political candidate in a map/mod/server, but not if you have been hired to promote them.
 
 General
 
