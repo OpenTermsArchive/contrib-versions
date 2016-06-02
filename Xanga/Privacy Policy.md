@@ -8,12 +8,30 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Please help get archive
+    *   by state\_of\_flux
+    *   15 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Please help me retrieve my old photos
+    *   by Mapuan
+    *   22 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Please help me retrieve my old photos
+    *   by Mapuan
+    *   22 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Retrieve my old blog
     *   by tsaysdsays
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Netoangel 4 days ago)
+    *   1 (last comment by Netoangel 5 days ago)
 *   Help!
     *   by Shannon6907
     *   1 week ago
@@ -31,7 +49,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by Sunny\_Kitty 1 week ago)
+    *   3 (last comment by Sunny\_Kitty 2 weeks ago)
 *   Where did my blog entries go? Miss the memories
     *   \[Resolved\] by soleMates2112
     *   2 years ago
@@ -80,24 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Themes
     *   0 votes
     *   1 (last comment by petite\_poetess 1 month ago)
-*   i lost my blog
-    *   by single\_2yan
-    *   1 month ago
-    *   in Themes
-    *   0 votes
-    *   0
-*   Please help get archive
-    *   by ANKI520
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   My old page doesn't exist anymore
-    *   by Palmtrees\_and\_Powerlines11
-    *   1 month ago
-    *   in Passwords &. Sign-In
-    *   0 votes
-    *   0
 
 1 2 3 ... 173 Next
 
