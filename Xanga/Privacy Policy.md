@@ -8,21 +8,27 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Retrieving Deleted Entries
+    *   by tspmachina
+    *   2 years ago
+    *   in Miscellaenous
+    *   0 votes
+    *   6 (last comment by vthreee 14 hours ago)
 *   Please help get archive
     *   by state\_of\_flux
-    *   15 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help me retrieve my old photos
     *   by Mapuan
-    *   22 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help me retrieve my old photos
     *   by Mapuan
-    *   22 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -31,7 +37,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Netoangel 5 days ago)
+    *   1 (last comment by Netoangel 6 days ago)
 *   Help!
     *   by Shannon6907
     *   1 week ago
@@ -61,13 +67,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   1 (last comment by hysengde 2 weeks ago)
+    *   1 (last comment by hysengde 3 weeks ago)
 *   I wanna access my old posts
     *   by zerolai18
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by ELCYxo 2 weeks ago)
+    *   1 (last comment by ELCYxo 3 weeks ago)
 *   Request for archives
     *   by KLove13
     *   3 weeks ago
@@ -91,13 +97,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 months ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Ro0nilWazlib 4 weeks ago)
-*   lost my xanga account
-    *   by kshelton22
-    *   6 months ago
-    *   in Themes
-    *   0 votes
-    *   1 (last comment by petite\_poetess 1 month ago)
+    *   1 (last comment by Ro0nilWazlib 1 month ago)
 
 1 2 3 ... 173 Next
 
