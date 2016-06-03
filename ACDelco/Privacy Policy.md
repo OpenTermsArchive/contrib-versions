@@ -19,6 +19,7 @@ x Cancel
     *   Current Offers
     *   Fleet
     *   Certified Pre-Owned
+    *   Factory Pre-Owned
     *   Future Vehicles
     Learn More
 *   News and Stories
@@ -286,6 +287,7 @@ Shop for a Vehicle
 *   Current Offers
 *   Fleet
 *   Certified Pre-Owned
+*   Factory Pre-Owned
 *   Future Vehicles
 
 News and Stories
@@ -352,6 +354,7 @@ Site Help
 *   FAQ
 *   Additional GM Sites
 *   Ignition Recall
+*   Takata Information
 *   Dealers &. Suppliers
 
 Follow GM
@@ -366,10 +369,12 @@ Follow GM
 *   Privacy Statement
 *   California Privacy Policy
 *   Ignition Recall
+*   Takata Information
 *   Social Media Policy
 
 *   Site Map
 *   Ignition Recall
+*   Takata Information
 *   Privacy
 *   Copyright &. Trademark
 *   User Guidelines
