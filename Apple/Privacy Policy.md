@@ -132,5 +132,3 @@ All such communications are examined and replies issued where appropriate as soo
 Apple may update its Privacy Policy from time to time. When we change the policy in a material way, a notice will be posted on our website along with the updated Privacy Policy.
 
 Apple Inc. 1 Infinite Loop, Cupertino, California, USA, 95014
-
-Last updated: 31 May, 2016
