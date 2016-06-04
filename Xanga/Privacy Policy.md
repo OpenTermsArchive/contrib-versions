@@ -8,27 +8,33 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Where did my blog entries go? Miss the memories
+    *   \[Resolved\] by soleMates2112
+    *   2 years ago
+    *   in Data Migration
+    *   0 votes
+    *   8 (last comment by ysw625 18 hours ago)
 *   Retrieving Deleted Entries
     *   by tspmachina
     *   2 years ago
     *   in Miscellaenous
     *   0 votes
-    *   6 (last comment by vthreee 14 hours ago)
+    *   6 (last comment by vthreee 1 day ago)
 *   Please help get archive
     *   by state\_of\_flux
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help me retrieve my old photos
     *   by Mapuan
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help me retrieve my old photos
     *   by Mapuan
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -37,7 +43,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Netoangel 6 days ago)
+    *   1 (last comment by Netoangel 1 week ago)
 *   Help!
     *   by Shannon6907
     *   1 week ago
@@ -56,12 +62,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   3 (last comment by Sunny\_Kitty 2 weeks ago)
-*   Where did my blog entries go? Miss the memories
-    *   \[Resolved\] by soleMates2112
-    *   2 years ago
-    *   in Data Migration
-    *   0 votes
-    *   7 (last comment by pissantslover 2 weeks ago)
 *   Unable to Update Password
     *   by lilbrwnbrd
     *   1 month ago
@@ -85,10 +85,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Miscellaenous
     *   0 votes
-    *   3 (last comment by a\_stuck\_creative 3 weeks ago)
+    *   3 (last comment by a\_stuck\_creative 4 weeks ago)
 *   How do I navigate to change my theme?
     *   by a\_stuck\_creative
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Themes
     *   0 votes
     *   0
