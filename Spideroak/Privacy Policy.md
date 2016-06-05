@@ -1,57 +1,79 @@
-Privacy Policy
+Posted and effective as of 4 June, 2016
 
-Thank you for visiting SpiderOak, Inc.'s (“SpiderOak”) Internet web site (“Site”) located at the URL spideroak.com. This privacy policy (“Privacy Policy”) details certain policies implemented throughout SpiderOak governing SpiderOak's use of Personally-Identifiable Data about users of our Site and users of our backup and data storage services (the “Services”).
+SPIDEROAK PRIVACY POLICY
 
-Privacy Policy Updates
+Please read this privacy policy carefully. It applies to all interactions you have with SpiderOak’s web services and apps.
 
-Due to the Internet's rapidly evolving nature, SpiderOak may need to update this Privacy Policy from time to time. If so, SpiderOak will post its updated Privacy Policy on our Site located at spideroak.com and notify you of the updated posting. SpiderOak encourages you to review this Privacy Policy regularly for any changes. Your continued use of this Site and/or continued provision of Personally-Identifiable Data to us will be subject to the terms of the then-current Privacy Policy.
+Note that SpiderOak has several different products and services:
 
-Information Collection and Use
+*   SpiderOakONE, a consumer-focused cloud storage
+*   SpiderOak Groups, cloud storage for teams
+*   Enterprise Backup, cloud-based backup for companies
+*   SpiderOak Semaphor, a team collaboration tool
+*   SpiderOak Kloak, a private communications network
+*   SpiderOak Encryptr, a cloud-based password manager
 
-You can generally visit our Site without revealing any Personally-Identifiable Data about yourself. In order to use the Services, however, we will collect personally identifiable information, such as your name, address, email address, phone number, username, credit card number, and other information (“Personally-Identifiable Data”). Additionally, we may invite you to participate in surveys, questionnaires or contests, contact us with questions or comments or provide us with feedback, which due to the nature of some of these activities, may include the collection of “Personally-Identifiable Data”. Additionally, by accessing the Site or using the Services, we might collect additional data as set forth below in the “Aggregate Information” paragraph.
+When we collect, store, use, or share information differently among these products, we’ll note that below.
 
-We may use your Personally-Identifiable Data to register you to use our Services, confirm your identify, contact you to deliver certain services, news or information related to the Services, verify your authority to use our Services, and improve the content and general administration of the Site and our Services. If you are unwilling to allow your Personally-Identifiable Data to be used as described in this Section, you should not sign up for or use the Services.
+The Information We Collect
 
-Children's Privacy
+Account Information. When you create a SpiderOak account, we ask you to choose a username and passphrase. You may use your email address as your username, but it’s not required.
 
-SpiderOak recognizes the privacy interests of children and we encourage parents and guardians to take an active role in their children's online activities and interests. This Site is not intended for children under the age of 13. SpiderOak does not target its Services or this Site to children under 13. SpiderOak does not knowingly collect personally identifiable information from children under the age of 13.
+If you select a SpiderOak plan that requires payment, we’ll also ask you for billing information.
 
-Cookies
+Information About Your Use of SpiderOak. We receive some information automatically when you use any SpiderOak product. This includes data about your device, software, and the operating system you use when accessing our service, approximate amount of data stored on our service, your Internet Protocol address, system-generated error messages for your account, and the date and time of each request you make to SpiderOak. Additionally, some of our products have access to your team or group name and the number of members in a team.
 
-We may use small text files called cookies to improve overall Site experience. A cookie is a piece of data stored on the user's hard drive containing information about the user. Cookies generally do not permit us to personally identify you.
+How We Use Your Information
 
-Aggregate Information
+We use your personal information to keep SpiderOak running, understand how you use our service, customize your experience, prevent abuse, provide customer support, sell and market our products, and improve SpiderOak. We use your information internally only as necessary to accomplish these goals.
 
-The Site may track the total number of visitors to our Site, the number of visitors to each page of our Site, browser type, and IP addresses, and we may analyze this data for trends and statistics in the aggregate, but such information will be maintained, used and disclosed in aggregate form only and it will not contain personally identifiable information. We may use such aggregate information to analyze trends, administer the Site, track users' movement, and gather broad demographic information for aggregate use.
+How We Disclose Your Information
 
-Disclosure
+We share your personally identifiable information only in the limited circumstances below. SpiderOak never sells your information or shares it with third-party advertisers.
 
-We may provide your Personally-Identifiable Data and the data generated by cookies and the aggregate information to the vendors and service agencies that we may engage to assist us in providing our Services to you. For example, we may provide your Personally-Identifiable Data to a credit card processing company to process your payment or to a marketing, research and/or advertising agency to send advertising to you on our behalf. Such third party entities will be restricted from further distributing your Personally-Identifiable Data and from using your Personally-Identifiable Data for commercial purposes and may be obligated to a written confidentiality agreement that is at least as protective of your Personally-Identifiable Data as the terms of this Privacy Policy. We will disclose your Personally-Identifiable Data if we reasonably believe we are required to do so by law, regulation or other government authority. We will not sell your Personally-Identifiable Data to any company or organization except we may transfer your Personally-Identifiable Data to a successor entity upon a merger, consolidation or other corporate reorganization in which SpiderOak participates or to a purchaser of all or substantially all of SpiderOak's assets to which this Site relates.
+With your permission. We may share you information with your consent, after letting you know what information will be shared and with whom.
 
-SpiderOak's policy is to notify a user of a request for their personal data stored on our servers prior to disclosure unless prohibited from doing so by statute or court order \[e.g. U.S.C. § 2705(b)\].
+In response to the law. We may disclose your information if we believe it is reasonably necessary to comply with a law, regulation, or valid legal process. If we are going to release your information, our policy is to provide you with notice unless we are prohibited from doing so by law or court order (e.g., an order under 18 U.S.C. § 2705(b)). We may disclose your information without giving you prior notice if we believe it’s necessary to prevent imminent and serious bodily harm to a person. Nothing in this policy is intended to limit any legal objections or defenses you might have to demands to compel disclosure of your information, including demands from the government.
 
-Links to Third Party Sites
+With third parties helping us provide SpiderOak. We may share you information with third-party services helping us provide our products and services. Those third parties access and use the information we share with them only on our behalf. They include Stripe, PayPal, ZenDesk, and Base CRM. Please note that this Privacy Policy explains SpiderOak’s practices only, and doesn’t cover the practices of other services. Take a look at those companies’ privacy policies to learn more about their data practices.
 
-The Site may provide links to other Web sites or resources over which SpiderOak does not have control (“External Web Sites”). Such links do not constitute an endorsement by SpiderOak of those External Web Sites. You acknowledge that SpiderOak is providing these links to you only as a convenience, and further agree that SpiderOak is not responsible for the content of such External Web Sites. Your use of External Web Sites is subject to the terms of use and privacy policies located on the linked to External Web Sites.
+With Groups, Enterprise Backup, and Semaphor admins. If you use our Groups, Enterprise Backup, or Semaphor products, your administrator may be able to access and control your account. Refer to your organization’s internal policies for more information.
 
-Security
+With other users. When you share files with others through SpiderOak, your username, share id and/or first and last name may be visible to other people.
 
-We employ procedural and technological security measures that are reasonably designed to help protect your Personally-Identifiable Data from loss, unauthorized access, disclosure, alteration or destruction, which includes encryption, password protection, and other security measures to help prevent unauthorized access to your Personally-Identifiable Data. The data that you transmit as part of your use of the Services (“Storage Data”) is in encrypted form and SpiderOak does not have access to your Storage Data in its unencrypted form.
+Aggregate information. We may disclose aggregate, non-identifying information about how our users use SpiderOak products.
 
-Notice to European Users
+Sale or merger. If all or part of SpiderOak is sold, merged, or otherwise transferred to another company in the future, your information may be transferred as part of that transaction. If that happens, SpiderOak will take reasonable steps to make sure your information continues to be treated consistently with this privacy policy.
 
-SpiderOak complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. SpiderOak has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit http://www.export.gov/safeharbor/
+Web Tracking Policy
 
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, SpiderOak commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first email SpiderOak at privacy@spideroak.com
+We are proud that we don’t use Google Analytics. We don’t allow other third-party tracking on our service, either.
 
-SpiderOak has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by SpiderOak please visit the BBB EU SAFE HARBOR web site for more information and to file a complaint: www.bbb.org/us/safe-harbor-complaints
+We use cookies to enable our servers to recognize your web browser and tell us how and when you use the SpiderOak websites. We use cookies to identify whether you have logged in and recognize that your web browser has accessed our servers before, and we may associate that information with your account. Most browsers have an option for disabling cookies, but if you disable them you may not be able to log into your SpiderOak account.
 
-Correction/Updating Personally Identifiable Information
+Account Termination
 
-SpiderOak provides you with the ability to review, correct and delete any of the Personally-Identifiable Data that you have provided to us. provided, however upon deletion you must cease using the Services since we will no longer be able to provide the Services to you. If you wish to review or correct any Personally-Identifiable Data you have provided to us, you may access your account using the SpiderOak application.
+You can disable your SpiderOak account at any time by signing in and canceling it either online or in the application itself. This means your user account will no longer be active on our service, and your data will be automatically deleted in the normal course of business with no further notice to you.
 
-If you have any questions regarding this Privacy Policy please contact us via email at privacy@spideroak.com.
+Data Security
 
-This Privacy Policy was last updated: August 28, 2012
+SpiderOak products are designed to have several layers of security.
 
-This Privacy Policy is effective as of: August 28, 2012
+*   We encrypt files that you upload to SpiderOak servers using the AES- 256 algorithm. You control your encryption keys, and SpiderOak does not have access to them.
+*   We use Secure Sockets Layer (SSL)/Transport Layer Security (TLS) to create a secure tunnel to protect data in transit between SpiderOak apps and servers.
+*   We don’t store your account passphrase on our servers in any form. Your passphrase is only on your device, and we hash and salt it to help protect it against possible compromise.
+*   We limit the number of SpiderOak employees who have access to user data through policy and technical access controls.
+
+No transmission over the internet is completely secure, so we can’t absolutely guarantee that unauthorized parties won’t be able to defeat our security measures. You use SpiderOak at your own risk, and are responsible for taking reasonable measures to secure your account (such as choosing a strong, unique passphrase and keeping it secret).
+
+We are always on the lookout for vulnerabilities in SpiderOak. If you discover a vulnerability in our service, we would be grateful for your report and encourage you to let us know immediately. If you give us reasonable time to respond to your report before making any information public, and make a good-faith effort to avoid privacy violations, destruction of data, and interruption or degradation of our service during your research, we will not pursue any legal action against you or ask law enforcement to investigate your actions.
+
+To report a security vulnerability, please email security@spideroak.com.
+
+Changes to This Policy
+
+We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at https://spideroak.com/policy/privacy-policy. If we make changes that we believe will substantially alter your rights, we will post the revisions 7 days before they take effect so you can review them.
+
+Contact
+
+We would love to hear from you. SpiderOak welcomes questions, concerns, and feedback about this policy. If you have suggestions for us, let us know at privacy@spideroak.com.
