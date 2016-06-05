@@ -8,33 +8,39 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Want my old xanga uploaded to Xanga 2.0
+    *   by LaLaLovelyyy
+    *   5 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Where did my blog entries go? Miss the memories
     *   \[Resolved\] by soleMates2112
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   8 (last comment by ysw625 18 hours ago)
+    *   9 (last comment by phunkbunny04 14 hours ago)
 *   Retrieving Deleted Entries
     *   by tspmachina
     *   2 years ago
     *   in Miscellaenous
     *   0 votes
-    *   6 (last comment by vthreee 1 day ago)
+    *   6 (last comment by vthreee 2 days ago)
 *   Please help get archive
     *   by state\_of\_flux
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help me retrieve my old photos
     *   by Mapuan
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help me retrieve my old photos
     *   by Mapuan
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -76,7 +82,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by ELCYxo 3 weeks ago)
 *   Request for archives
     *   by KLove13
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -92,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Themes
     *   0 votes
     *   0
-*   I downloaded my archived blog, but files were missing
-    *   by Ro0nilWazlib
-    *   3 months ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by Ro0nilWazlib 1 month ago)
 
 1 2 3 ... 173 Next
 
