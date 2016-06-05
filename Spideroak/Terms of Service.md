@@ -1,122 +1,182 @@
-Terms of Use
+Posted and effective as of 4 June 2016
 
-NOTE: Please read this carefully before using this website.
+SPIDEROAK TERMS OF SERVICE
 
-Welcome to the SpiderOak website ("Site"). SpiderOak maintains this Site to provide general information to our visitors. All use of this Site is subject to the following terms and conditions ("Terms of Use"). By accessing and browsing this Site, you agree to be bound by these Terms of Use.
+Welcome to SpiderOak! We’re glad you’re here.
 
-Features Subject to Separate Terms
+These Terms of Service (“Terms”) apply to your use of SpiderOak’s website, products, and services. Please read them carefully and let us know if you have any questions.
 
-Some of the features offered through SpiderOak, such as our data storage services, are subject to terms of use, rules and policies in addition to or in lieu of these Terms of Use. If you choose to use those features, you agree that your use of those features will be subject to such additional or separate terms of use, rules and/or policies, as applicable.
+By using SpiderOak, you agree to be bound by these Terms. If you’re using SpiderOak on behalf of an organization, you agree to these Terms on behalf of that organization.
 
-Copyright.
+Content
 
-This Site, including all text, images, software and other content contained herein, is the property of SpiderOak or its suppliers and is protected by United States and international copyright laws. The compilation and arrangement of all content on this Site is the exclusive property of SpiderOak and is protected by United States and international copyright laws. All rights reserved.
+All content on SpiderOak is protected by United States and other intellectual property laws. You’ll find a few different types of content on our service.
 
-Trademarks
+Your Content. You can back up, host, store, and share your own files on SpiderOak, as well as collaborate and communicate with others using tools like Semaphor and SpiderOak Kloak.
 
-All SpiderOak marks, graphics, logos, designs and trade names used and displayed on this Site are service marks or trademarks of SpiderOak and are the sole and exclusive property of SpiderOak. The "look and feel" of this Site constitutes proprietary trade dress of SpiderOak. All other trademarks not owned by SpiderOak that appear on this site are the property of their respective owners. You may not use any such marks for any purpose whatsoever without the express prior written permission of the owner.
+The files and other materials you upload to SpiderOak are yours and yours alone. You give us permission to use that material solely to do what’s necessary to provide our services, including storing, displaying, reproducing, and distributing the content.
 
-SpiderOak Intellectual Property
+You’re responsible for the content you upload to SpiderOak and assume all risks associated with it, including intellectual property or other legal claims. By storing and sharing content through SpiderOak, you represent that you have the necessary rights to that material, and that your use of SpiderOak doesn’t conflict with any licenses you’ve granted to others.
 
-SpiderOak grants you a personal, non-exclusive, non-transferable, limited license, exercisable solely during the term of this Agreement, to use SpiderOak technology and software furnished to you by SpiderOak (collectively, "SpiderOak Intellectual Property") solely for the purpose of accessing and using the Services. You shall have no right to use the SpiderOak Intellectual Property for any purpose other than accessing and using the Services. You shall not (a) copy, reproduce, modify, adapt, create any derivative works from, distribute, transmit or otherwise exploit the SpiderOak Intellectual Property or (b) directly or indirectly reverse engineer, decompile, disassemble or otherwise attempt to derive source code or other trade secrets from any of the SpiderOak Intellectual Property. Except for the rights expressly granted above, all rights, title and interest in and to the SpiderOak Intellectual Property shall remain solely with and are hereby reserved to SpiderOak.
+You have the option to try out some SpiderOak services on a trial basis (Semaphor in particular). Please note that we don’t retain content past the timeframe for these trial plans. Even if you decide to upgrade to another plan later, the content you store with us during the trial period can’t be restored after the trial timeframe expires.
 
-Use of Site. Restrictions
+SpiderOakONE, SpiderOak Groups and SpiderOak Semaphor allow you to share your files with others. Please familiarize yourself with the settings and controls for those services and be careful about what you choose to share with and download from others.
 
-You may view and print material displayed on this Site subject to the following conditions: (a) the materials may be used solely for your own, personal information and not for commercial use. and (b) you must retain without modification all copyright, trademark and other proprietary notices affixed to or contained in the materials you print and all copies thereof. You may not copy or otherwise use this Site or any portion hereof, except as expressly provided above. You may not reproduce, download, republish, frame, transmit, distribute, sell, license, modify, alter, reverse engineer or prepare derivative works from this Site or any portion hereof, except with the express prior written permission of SpiderOak. Use of spiders, data mining tools, robots and similar data gathering and extraction tools is expressly prohibited, except by publicly available Internet search engine portals solely for purposes of indexing this Site. In the event you link to this Site, you agree to remove any such links to this Site (or any portion hereof) to which SpiderOak objects promptly upon request. Nothing contained in this Site shall be construed as conferring by implication, estoppel or otherwise any license or right under any copyright, patent, trademark or other proprietary interest of SpiderOak or any third party. Any rights not expressly granted herein are reserved.
+We don’t pre-screen anyone’s content. However, we have the right—but no duty—to review and remove files for any reason. We assume no liability for any content that you or anyone else stores with or shares through SpiderOak. SpiderOak’s Content and Brand Features. SpiderOak is protected by copyright, trademark, and other laws.
 
-Indemnification
+SpiderOak gives you a personal, worldwide, royalty-free, non-assignable and non-exclusive license to use the software we provide you to use our service. This license is for the sole purpose of enabling you to use SpiderOak as permitted by these Terms. If you violate these Terms, we may terminate this license.
 
-You agree to indemnify, defend and hold harmless SpiderOak, its affiliates and their respective directors, officers, employees and agents, licensors, representatives and third party providers to this Site from and against all losses, expenses, damages and costs, including reasonable attorneys' fees, resulting from any violation of these Terms of Use by you, including but not limited to any breach or alleged breach of any of your representations, warranties or undertakings hereunder. SpiderOak reserves the right to assume, at its sole expense, the exclusive defense and control of any matter subject to indemnification by you, in which event you will fully cooperate with SpiderOak in asserting any available defenses.
+All rights to SpiderOak —except third-party content—are the exclusive property of SpiderOak and its licensors. Nothing in these Terms authorizes you to use any of SpiderOak trademarks, logos, domain names, or other distinctive brand features, except as otherwise permitted by law.
 
-Notice and Procedure for Making Claims of Infringement
+Prohibited Activities
 
-SpiderOak respects the intellectual property of others, and we ask our users to do the same. If you believe your copyrighted materials have been copied in a way that constitutes copyright infringement, please follow our Procedure for Making Claims of Copyright, which includes instructions on how to contact us to report possible copyright infringement by our users. ALL INQUIRIES NOT RELATING TO SUCH A CLAIM WILL NOT RECEIVE A RESPONSE.
+We strive to maintain a great service. To that end, SpiderOak requires you to respect these limitations, and we may terminate your account if you don’t follow them.
 
-No Rendering of Advice
+*   Don’t use SpiderOak in a manner that violates any laws, regulations, ordinances, or directives.
+*   Don’t use SpiderOak contrary to our policies.
+*   Don’t use SpiderOak to do anything threatening, abusive, harassing, defamatory, tortious, obscene, profane, or invasive of another person’s privacy.
+*   Don’t interfere with the proper functioning of any software, hardware, or equipment on SpiderOak.
+*   Don’t engage in any conduct that inhibits anyone else’s use or enjoyment of our services, or which we determine may harm SpiderOak or our users.
+*   Don’t monitor or copy any material on SpiderOak, either manually or through automated means (i.e., scraping), without prior written consent.
+*   Please don’t use SpiderOak if you’re a minor.
 
-The information contained in or made available through this Site is provided for informational purposes only and should not be construed as rendering consulting, technical, security, engineering, legal or other professional advice of any kind. Your use of this Site does not give rise to a client, advisory, fiduciary or professional services relationship between you and SpiderOak.
+Our Rights
 
-Accuracy of Information
+We’re always working to improve SpiderOak and make our services better, so we do reserve some rights. In our sole discretion, we may, at any time—with or without notice—change, eliminate or restrict access to our services, and modify, suspend, or terminate a user account. SpiderOak is not liable for any damages as a result of these actions.
 
-While SpiderOak uses reasonable efforts to furnish accurate and up-to-date information, SpiderOak does not warrant that any information contained in or made available through this Site is accurate, complete, reliable, current or error-free. SpiderOak assumes no liability or responsibility for any errors or omissions in the content of this Site or such other materials or communications.
+Other Sites and Services
 
-Disclaimer of Warranties and Limitations of Liability
-
-THIS SITE IS PROVIDED BY SPIDEROAK ON AN "AS IS" AND "AS AVAILABLE" BASIS. USE OF THIS SITE IS AT YOUR SOLE RISK. TO THE FULL EXTENT PERMISSIBLE BY APPLICABLE LAW, SPIDEROAK AND ITS AFFILIATES AND SUPPLIERS DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, SYSTEM INTEGRATION, TITLE AND NONINFRINGEMENT. WITHOUT LIMITING THE FOREGOING, SPIDEROAK AND ITS AFFILIATES AND SUPPLIERS MAKE NO REPRESENTATIONS OR WARRANTIES OF ANY KIND AS TO THE OPERATION OR AVAILABILITY OF THIS SITE OR THE INFORMATION, CONTENT, MATERIALS, PRODUCTS OR SERVICES INCLUDED ON OR MADE AVAILABLE THROUGH THIS SITE. SPIDEROAK DOES NOT WARRANT THAT THIS SITE WILL BE UNINTERRUPTED OR SECURE, OR THAT THIS SITE IS FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.
-
-SPIDEROAK AND ITS AFFILIATES AND SUPPLIERS WILL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND ARISING FROM OR IN CONNECTION WITH THE USE OF THIS SITE, INCLUDING, BUT NOT LIMITED TO, DIRECT, INDIRECT, INCIDENTAL, PUNITIVE AND CONSEQUENTIAL DAMAGES (INCLUDING, WITHOUT LIMITATION, LOSS OF PROFITS, GOODWILL, DATA OR USE), EVEN IF SUCH PARTIES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE FOREGOING LIMITATION SHALL APPLY REGARDLESS OF THE FORM OF ACTION AND WHETHER IN CONTRACT, BREACH OF WARRANTY, TORT, NEGLIGENCE, STRICT LIABILITY OR OTHERWISE. CERTAIN STATE LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF THESE LAWS APPLY TO YOU, YOU MIGHT HAVE ADDITIONAL RIGHTS. IF YOU ARE DISSATISFIED WITH THIS SITE OR ANY PORTION HEREOF, OR WITH ANY OF THESE TERMS OF USE, YOUR SOLE AND EXCLUSIVE REMEDY IS TO DISCONTINUE USING THIS SITE.
-
-Links to Third Party Websites
-
-For your convenience, this Site may provide hyperlinks to websites, servers and other resources maintained by third parties over which SpiderOak does not have control, including, without limitation, message boards and/or links to Web sites or pages that are framed within this Site. Even if such materials are framed within this Site and appear to be a part of this Site, SpiderOak does not evaluate, endorse or guarantee content found in such sites. SpiderOak does not assume any responsibility or liability for the actions, products, services or content of these sites or the parties that operate them. You should carefully review their privacy statements and other conditions of use. Your use of these sites is entirely at your own risk.
-
-Feedback and Other Submissions
-
-All comments, feedback, suggestions, ideas and similar submissions furnished to SpiderOak in connection with your use of this Site shall be deemed assigned to and shall remain the exclusive property of SpiderOak. No such submissions shall be subject to any obligation of confidence on the part of SpiderOak, and SpiderOak shall be entitled to unrestricted use and disclosure of such submissions throughout the world for any purpose whatsoever, commercial or otherwise, without any obligation to compensate you for such use or disclosure. You represent that you have the lawful right to furnish such submissions to SpiderOak and agree that you will not submit any information unless you are legally entitled to do so.
-
-Termination or Suspension of Access. Modifications to Site
-
-SpiderOak reserves the right to terminate, suspend or otherwise restrict your access to this Site, or any portion hereof, with or without notice at any time for any reason whatsoever including, but not limited to, your violation of these Terms of Use or any inappropriate or unlawful behavior on your part. In addition, SpiderOak reserves the right to modify or discontinue this Site or any portion hereof at any time with or without notice. SpiderOak shall not be liable to you or any third party for any such termination, suspension, restriction, modification or discontinuance.
-
-Dispute Resolution
-
-Any controversy or claim arising out of or relating to these Terms of Use or breach hereof, or otherwise relating to this Site (with the exception of injunctive relief sought by SpiderOak for any violation of SpiderOak's proprietary rights), shall be settled by binding arbitration administered by the American Arbitration Association in accordance with its then-current rules. The arbitration shall be decided by one (1) arbitrator, who shall be an attorney having experience and familiarity with information technology disputes. The language of the arbitration shall be English. The location of arbitration shall be Kansas City, Missouri, USA. The arbitrator may award to the prevailing party, if any, as determined by the arbitrator, its costs and expenses, including reasonable attorneys' fees. Except as may be required by law, neither a party nor an arbitrator may disclose the existence, content or results of any arbitration hereunder without the prior written consent of both parties. To the fullest extent permitted by applicable law, no such arbitration shall be joined to an arbitration involving any other party subject to these Terms of Use, whether through class arbitration proceedings or otherwise. Each party hereby waives its right to a trial by jury for any disputes between the parties.
-
-Applicable Laws. Exclusive Jurisdiction
-
-SpiderOak maintains this Site in the USA. SpiderOak makes no representation that this Site or any content on or accessed through this Site is appropriate or available for use in other jurisdictions. You are responsible for compliance with all local laws and regulations, as applicable. Use of this Site and any dispute arising therefrom shall be governed by the laws of the State of Missouri, USA, without regard to principles of conflict of laws. SUBJECT TO THE DISPUTE RESOLUTION PROCEDURES SET FORTH ABOVE, ANY LEGAL ACTION OR PROCEEDING ARISING OUT OF OR RELATING TO THESE TERMS OF USE OR YOUR ACCESS TO OR USE OF THIS SITE SHALL BE INSTITUTED ONLY IN A STATE OR FEDERAL COURT LOCATED IN CHICAGO, COOK COUNTY, ILLINOIS, AND YOU EXPRESSLY CONSENT TO THE EXCLUSIVE JURISDICTION OF SUCH COURTS.
-
-Modifications
-
-SpiderOak reserves the right to modify these Terms of Use at any time upon posting. By continuing to use this Site after any changes are posted, you are signifying your acceptance of the revised terms and conditions, regardless of whether you have reviewed them. Please visit this page regularly to review the then-current Terms of Use to which you are bound.
+SpiderOak contains links to websites and services that we neither own nor control. We don’t endorse or assume responsibility for any third-party sites, information, materials, products, or services.
 
 Privacy
 
-Please review our Privacy Policy, which also governs your visit to this Site and is incorporated herein by reference, to understand our practices.
+Our Privacy Policy governs our collection and use of your personal information. Please review those provisions, too.
+
+Security
+
+We take the security of SpiderOak very seriously. We work to protect your content and account, but we can’t 100% guarantee that third parties won’t be able to defeat our security measures. Please let us know immediately if you discover any compromise or unauthorized use of your account.
+
+Copyright
+
+Where appropriate, SpiderOak may warn and suspend repeat copyright infringers. In more serious cases, we may permanently terminate user accounts.
+
+Section 512 of the DMCA sets out the legal requirements to formally report copyright infringement to a service provider like SpiderOak. It also explains how the person who posted the content can oppose a notice of alleged infringement by submitting a counter-notice.
+
+Please think carefully before sending us a copyright notice or counter-notice, because the DMCA imposes legal and financial penalties for making fraudulent or bad-faith claims. If you aren’t sure whether you’re the actual copyright holder or if you’re authorized to act on a rights holder’s behalf, check with an attorney before submitting a copyright notice or counter-notice to us.
+
+Copyright Infringement Notice Procedure.
+
+To send us a notice concerning copyright infringement, you’ll need to provide the following information:
+
+1.  A physical or electronic signature of the copyright owner or a person authorized to act on their behalf (typing your full name will do);
+    
+2.  Identification of the copyrighted work claimed to have been infringed (e.g., a copy of or link to your original work or clear description of the materials allegedly being infringed);
+    
+3.  Identification of the infringing material and information reasonably sufficient to permit us to locate the material on our services (e.g., a URL where the allegedly infringing material is located);
+    
+4.  Your contact information, including your address, telephone number, and an email address;
+    
+5.  Date you are sending the notice.
+    
+6.  A statement that you have a good-faith belief that the use of the material in the manner asserted is not authorized by the copyright owner, its agent, or the law. and
+    
+7.  A statement that the information in the notification is accurate, and, under penalty of perjury, that you are authorized to act on behalf of the copyright owner.
+    
+
+You can report alleged copyright infringement by emailing the above information to copyright@spideroak.com.
+
+You can also mail a copyright notice to: SpiderOak Copyright Agent, SpiderOak, Inc., 4741 Central Street # 324, Kansas City, MO 64112
+
+Our response to notices of alleged copyright infringement may include removing or restricting access to allegedly infringing material. If we remove or restrict access to content in response to a copyright notice, we’ll make a good-faith effort to get in touch with the affected account holder to provide information about the situation, including a copy of the takedown notice and instructions for filing a counter-notification.
+
+_Copyright Infringement Counter-Notice Procedure_. If you get a message from us about a DMCA complaint, it means that the content identified in the notice has been removed from SpiderOak or access to the content has been restricted.
+
+Please read our message carefully, because it’ll include information about the copyright notice we received and instructions about how to file a counter-notice.
+
+**_Note_** : If you re-post material removed in response to a DMCA notification, we may permanently suspend your account. If you believe content was removed in error, please consider filing a counter-notice instead of re-posting the material.
+
+If you receive a DMCA notification about material you’ve posted and you believe that material was misidentified or removed in error, you can file a counter-notice by following the instructions below.
+
+To submit a counter-notice, please send us the following information:
+
+1.  A physical or electronic signature (typing your full name will do);
+    
+2.  Identification of the material that has been removed or to which access has been disabled and the URL at which the material appeared before it was removed or access to it was disabled (the description from the DMCA notice is enough);
+    
+3.  A statement under penalty of perjury that you have a good-faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled. and
+    
+4.  Your name, address, and telephone number, and a statement that you consent to the jurisdiction of the federal district court for the judicial district in which your address is located, or if your address is outside of the United States, for any judicial district in which SpiderOak may be found, and that you will accept service of process from the person who provided the copyright notification or an agent of such person.
+    
+
+To submit a counter-notice, please respond to our original email letting you know about the removal, and include the above information in the body of your reply.
+
+When we receive a valid counter-notice, we’ll promptly forward a copy to the person who sent us the copyright notice. If we aren’t told within 10 business days that the original reporter is seeking a court order to prevent further infringement of the material, we may replace or cease disabling access to the material that was removed.
+
+Children
+
+SpiderOak is only for users 13 years old and older. If we learn a child under 13 is using our service, we’ll terminate the child’s account.
+
+SpiderOak Groups, Enterprise Backups, and SpiderOak Semaphor
+
+You must operate your SpiderOak Groups, Enterprise Backups and SpiderOak Semaphor account consistent with any policies your group or employer may require. Please note that an administrator of a group or team may be able to access, restrict, retain, terminate, or remove information from your account with or without notice to you. Cancellation
+
+You can cancel your account any time you’d like by simply signing in and canceling your service. Our policy is not to refund subscription fees unless required by law.
+
+Disclaimers _SpiderOak is provided “as is” without any warranties, express or implied. SpiderOak disclaims all conditions and warranties, whether express, implied, statutory or otherwise, including warranties of merchantability, fitness for a particular use, and non-infringement._
+
+(Some states don’t allow these disclaimers, so this provision might not apply to you.)
+
+Limitation of Liability
+
+_To the fullest extent allowed by law, SpiderOak shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses resulting from (A) your access to, use of, inability to access, or inability to use SpiderOak. (B) any third-party conduct or content on SpiderOak. or (C) any unauthorized access, use, or alteration of your content._
+
+(Some states don’t allow these limitations, so this provision might not apply to you.)
+
+Arbitration
+
+We like to resolve disputes fairly, quickly, and easily. Toward that end, if you have any issue with SpiderOak, please contact us and we’ll work with you in good faith to try to resolve the matter.
+
+If we can’t work out the problem informally, and if you are a resident of or have your principal place of business in the United States or Canada, you and SpiderOak agree to resolve any claim against each other through final and binding arbitration, including claims against SpiderOak affiliates, officers, directors, employees and agents, and SpiderOak affiliates’ officers, directors, employees and agents.
+
+You and SpiderOak agree to submit the dispute to a single arbitrator under the Commercial Arbitration Rules of the American Arbitration Association (AAA) including the Optional Rules for Emergency Measures of Protection and the Supplementary Procedures for Consumer-Related Disputes, or, by separate mutual agreement, to another arbitration institution. The AAA’s rules and a description of the arbitration process are available at www.adr.org.
+
+The arbitration will be held in Kansas City, Missouri, or any other location both parties agree to in writing. Allocation of fees and costs shall be determined under the AAA rules, except that SpiderOak will reimburse you for all AAA administrative fees in disputes that are subject to the Supplementary Procedures for Consumer-Related Disputes, unless the arbitrator determines that a claim or counterclaim was filed for purposes of harassment or is patently frivolous.
+
+The award rendered by the arbitrator shall include costs of arbitration, reasonable attorneys’ fees, and reasonable costs for expert and other witnesses. Any judgment on the award rendered by the arbitrator may be entered in any court of competent jurisdiction.
+
+The Federal Arbitration Act governs all disputes between you and SpiderOak. The arbitrator will decide whether a dispute can be arbitrated.
+
+If you opt out of the arbitration agreement (as provided below), or if the arbitration agreement is found to be unenforceable, or if you neither are a resident nor have a principal place of business in the United States or Canada, you agree to resolve any claim you have with SpiderOak exclusively in a state or federal court located in Kansas City, Missouri and to submit to the personal jurisdiction of those courts for purpose of litigating all such disputes.
+
+Nothing shall prevent either party from seeking injunctive or other equitable relief from the courts for matters related to data security, intellectual property, or unauthorized access to the services.
+
+YOUR RIGHT TO OPT OUT OF ARBITRATION
+
+You may opt out of the agreement to arbitrate. If you do so, neither you nor SpiderOak can require the other to participate in an arbitration proceeding. To opt out, you must notify SpiderOak within 90 days of the date that you first agreed to these Terms. Send your written opt-out notice to this address: Arbitration Opt-Out, SpiderOak, Inc., 4741 Central Street # 324, Kansas City, MO 64112.
+
+Your written opt-out notice must include (1) your name and residence address. (2) the email address and/or mobile telephone number associated with your account. (3) a clear statement that you want to opt out of this arbitration agreement. and (4) your signature.
+
+NO CLASS ACTIONS
+
+You may bring disputes only on an individual basis and not in a class, consolidated, or representative action.  
+Governing Law and Jurisdiction
+
+These Terms will be governed by the laws of the State of Missouri, except for its conflict of laws principles.
+
+For claims that aren’t subject to arbitration, we each agree to submit to the personal jurisdiction of a state court located in Kansas City, Missouri or in the United States District Court for the Western District of Missouri.
 
 Entire Agreement
 
-These Terms of Use, together with the SpiderOak Privacy Policy, constitutes the entire agreement between you and SpiderOak governing your use of this Site and supersedes any prior agreements between you and SpiderOak with respect to the subject matter hereof. Notwithstanding the foregoing, as stated above, you also may be subject to additional or separate terms of use, rules and/or policies that may apply when you use certain features made available through this Site.
+These Terms and our Privacy Policy constitute the entire agreement between you and SpiderOak. If any provision of these Terms is found to be unenforceable, the remaining provisions of these Terms will remain in full force and effect.
 
-Miscellaneous
+No Waiver
 
-If there is a determination that any provision of these Terms of Use is invalid or unenforceable under applicable law, that determination will not affect the rest of these Terms of Use, and these Terms of Use shall be deemed amended to the minimum extent necessary to make them valid and enforceable. The failure of SpiderOak to exercise or enforce any right or provision of these Terms of Use shall not constitute a waiver of such right or provision. Regardless of any statute or law to the contrary, any claim or cause of action against SpiderOak arising out of or related to use of this Site or under these Terms of Use must be filed within one (1) year after such claim or cause of action arose or be forever barred. The section titles in these Terms of Use are for convenience only and have no legal or contractual effect.
+No waiver of any provision of these Terms shall be a further or continuing waiver of that term. SpiderOak’s failure to assert any right or provision under these Terms does not constitute a waiver of that right or provision.
 
-Consent to Electronic Delivery of Notices
+Modification
 
-When you visit SpiderOak or send e-mails to us, you are communicating with us electronically. You consent to receive communications from us electronically, including without limitation by e-mail or by posting notices on this Site. You agree that all agreements, notices, disclosures and other communications that we provide to you electronically satisfy any legal requirement that such communications be in writing. To withdraw your consent to receive notices electronically, you must notify us of your withdrawal of such consent and discontinue your use of this Site.
+The Terms may be modified from time to time. The date of the most recent revisions will always be at https://spideroak.com/policy/terms-of-use, and older versions will be archived at spiderok.com. If we make changes that we believe will substantially alter your rights, we will post the revisions 7 days before they take effect so you can review them. You’ll agree to accept any changes or revisions to the Terms by continuing to use SpiderOak.
 
-Minors
+Contact
 
-This Site is not intended for use by or availability to minors under the age of 14. IF YOU ARE UNDER 14 YEARS OF AGE, YOU MAY NOT ACCESS OR USE THIS SITE. By USING THIS SITE, YOU REPRESENT TO SPIDEROAK THAT YOU ARE 14 YEARS OF AGE OR OLDER. IF YOU ARE UNDER THE AGE OF 18, YOU HEREBY REPRESENT THAT YOU ARE USING THIS SITE WITH THE CONSENT OF YOUR PARENT OR LEGAL GUARDIAN, AND YOUR PARENT OR LEGAL GUARDIAN HEREBY AGREES ON YOUR BEHALF TO BE LEGALLY BOUND BY THESE TERMS OF USE.
-
-Contact Information
-
-If you have any questions regarding this Site, please contact SpiderOak at termsofuse@spideroak.com and include the following statement in the subject line: "SpiderOak Terms of Use Question".
-
-PROCEDURE FOR MAKING CLAIMS OF COPYRIGHT INFRINGEMENT
-
-Pursuant to Title 17, United States Code, Section 512(c)(2), all notifications of claimed copyright infringement on this Site should be sent ONLY to our Designated Agent.
-
-NOTE: THE FOLLOWING INFORMATION IS PROVIDED SOLELY FOR NOTIFYING SPIDEROAK THAT YOUR COPYRIGHTED MATERIAL MAY HAVE BEEN INFRINGED BY OUR USERS. Do not send any inquiries unrelated to copyright infringement (e.g., requests for technical assistance or customer service) to the contact listed below. You will not receive a response if sent to that contact.
-
-Written notification must be submitted to the following Designated Agent:
-
-*   Service Provider(s): SpiderOak
-*   Name of Agent Designated to Receive Notification of Claimed Infringement: Laura Gowans
-*   Full Address of Designated Agent to Which Notification Should be Sent:
-    *   SpiderOak, Inc., 4741 Central Street, #324, Kansas City, MO 64112
-*   Telephone Number of Designated Agent: (866) 432-9888
-*   Email Address of Designated Agent: copyright@spideroak.com
-
-Under Title 17, United States Code, Section 512(c)(3)(A), the Notification of Claimed Infringement must include the following:
-
-1.  An electronic or physical signature of the owner or of the person authorized to act on behalf of the owner of the copyright interest;
-2.  Identification of the copyrighted work (or works) that you claim has been infringed;
-3.  A description of the material that you claim is infringing, and the location where the original or an authorized copy of the copyrighted work exists (for example, the URL of the page of the website where it is lawfully posted. the name, edition and pages of a book from which an excerpt was copied. etc.);
-4.  A clear description of where the infringing material is located on our website, including as applicable its URL, so that we can locate the material;
-5.  Your address, telephone number and e-mail address;
-6.  A statement that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent or the law. and
-7.  A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.
-
-Last Major Revisions: November 23, 2007 except. Address updated August 4, 2015, Jurisdiction and Arbitration location modified September 2, 2015.
+We welcome all questions, concerns, and feedback you might have about these terms. If you have suggestions for us, let us know at support@ spideroak.com.
