@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Want my old xanga uploaded to Xanga 2.0
     *   by LaLaLovelyyy
-    *   5 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,34 +19,34 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   9 (last comment by phunkbunny04 14 hours ago)
+    *   9 (last comment by phunkbunny04 1 day ago)
 *   Retrieving Deleted Entries
     *   by tspmachina
     *   2 years ago
     *   in Miscellaenous
     *   0 votes
-    *   6 (last comment by vthreee 2 days ago)
+    *   6 (last comment by vthreee 3 days ago)
 *   Please help get archive
     *   by state\_of\_flux
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help me retrieve my old photos
     *   by Mapuan
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help me retrieve my old photos
     *   by Mapuan
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve my old blog
     *   by tsaysdsays
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by Netoangel 1 week ago)
@@ -58,7 +58,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Retrieve my old blog
     *   by tsaysdsays
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -91,10 +91,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Miscellaenous
     *   0 votes
-    *   3 (last comment by a\_stuck\_creative 4 weeks ago)
+    *   3 (last comment by a\_stuck\_creative 1 month ago)
 *   How do I navigate to change my theme?
     *   by a\_stuck\_creative
-    *   4 weeks ago
+    *   1 month ago
     *   in Themes
     *   0 votes
     *   0
