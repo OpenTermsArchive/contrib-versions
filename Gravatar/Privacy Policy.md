@@ -53,10 +53,10 @@ Although most changes are likely to be minor, Automattic may change its Privacy 
 
 **Change log:**
 
+*   _February 18, 2015:_ Updated Creative Commons license from 2.5 to 4.0.
 *   _September 18, 2013:_  Added that blog commenter email addresses are disclosed to administrators of the blog where the comment was left.
-*   _February 1, 2011:_ Clarified subpoena language and added Business Transfers paragraph
-*   _January 3, 2011:_ Added court order and subpoena clarification
-*   _July 1, 2010:_ Revised paragraph about IP addresses to explain when they are collected and that commenter IPs are visible to blog administrators
-*   _October 29, 2009:_ Added Comments paragraph to explain Akismet comment storage policy
-*   _March 10, 2009:_ Added Ads paragraph to alert users that ads from third parties may use cookies
-*   _February 18, 2015:_ Updated Creative Commons license from 2.5 to 4.0
+*   _February 1, 2011:_ Clarified subpoena language and added Business Transfers paragraph.
+*   _January 3, 2011:_ Added court order and subpoena clarification.
+*   _July 1, 2010:_ Revised paragraph about IP addresses to explain when they are collected and that commenter IPs are visible to blog administrators.
+*   _October 29, 2009:_ Added Comments paragraph to explain Akismet comment storage policy.
+*   _March 10, 2009:_ Added Ads paragraph to alert users that ads from third parties may use cookies.
