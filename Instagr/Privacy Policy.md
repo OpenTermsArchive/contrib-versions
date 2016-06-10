@@ -14,7 +14,7 @@ Instagram Help Center
 *   About Eating Disorders
 *   Privacy Policy
 *   Terms of Use
-*   API Terms of Use
+*   Platform Policy
 *   Back
 
 Privacy Policy
