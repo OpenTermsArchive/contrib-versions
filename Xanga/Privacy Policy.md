@@ -10,13 +10,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Lost password and email account
     *   by KIN4040
-    *   1 day ago
+    *   2 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Old blogs entries
     *   by annabeth44
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -25,10 +25,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   10 (last comment by babygoth13 4 days ago)
+    *   10 (last comment by babygoth13 5 days ago)
 *   Want my old xanga uploaded to Xanga 2.0
     *   by LaLaLovelyyy
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -85,13 +85,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   1 (last comment by hysengde 4 weeks ago)
+    *   1 (last comment by hysengde 1 month ago)
 *   I wanna access my old posts
     *   by zerolai18
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by ELCYxo 4 weeks ago)
+    *   1 (last comment by ELCYxo 1 month ago)
 *   Request for archives
     *   by KLove13
     *   1 month ago
