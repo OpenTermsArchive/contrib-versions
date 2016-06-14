@@ -8,15 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Retrieve my old blog entries
+    *   by Mamaga
+    *   17 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Lost password and email account
     *   by KIN4040
-    *   2 days ago
+    *   4 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Old blogs entries
     *   by annabeth44
-    *   4 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -25,7 +31,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   10 (last comment by babygoth13 5 days ago)
+    *   10 (last comment by babygoth13 1 week ago)
 *   Want my old xanga uploaded to Xanga 2.0
     *   by LaLaLovelyyy
     *   1 week ago
@@ -58,7 +64,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Retrieve my old blog
     *   by tsaysdsays
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by Netoangel 2 weeks ago)
@@ -70,7 +76,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Retrieve my old blog
     *   by tsaysdsays
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -92,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   1 (last comment by ELCYxo 1 month ago)
-*   Request for archives
-    *   by KLove13
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
 1 2 3 ... 173 Next
 
