@@ -57,10 +57,10 @@ Submit Buying Request Advanced Search
 *   Penalized List >.
 *   Penalty Record >.
 
-Classification of Rules >. Alibaba.com User Agreement
+Classification of Rules >. Alibaba.com User Agreements
 
 *   Classification of Rules
-    *   Alibaba.com User Agreement
+    *   Alibaba.com User Agreements
     *   Posting Rules
     *   Trade Rules and Dispute Rules
     *   Others
