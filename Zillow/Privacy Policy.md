@@ -24,7 +24,6 @@ Homepage Advertise Sign in or Join Buy
     *   *   Buyers Guide
         *   Foreclosure center
         *   Real estate app
-        *   Find a buyer's agent
 
 Rent
 
@@ -56,7 +55,6 @@ Sell
         *   Price your home using comps
         *   Sign Up for Home Report
         *   Neighborhood Home Values
-        *   Find a seller's agent
 *   Post a home for sale
     *   *   For sale by agent
         *   For sale by owner
@@ -93,6 +91,9 @@ Agent finder
         *   Agent resource center
         *   Join the Agent Directory
         *   Access agent hub
+    *   *   Real estate marketing guide
+        *   Agent email scripts
+        *   Listing flyer templates
 
 Advice
 
