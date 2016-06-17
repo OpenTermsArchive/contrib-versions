@@ -8,15 +8,33 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Where is my old blog?
+    *   by womanofcode
+    *   9 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   I downloaded my archived blog, but files were missing
+    *   by Ro0nilWazlib
+    *   4 months ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by womanofcode 9 hours ago)
+*   Where did my blog entries go? Miss the memories
+    *   \[Resolved\] by soleMates2112
+    *   2 years ago
+    *   in Data Migration
+    *   0 votes
+    *   11 (last comment by womanofcode 9 hours ago)
 *   Retrieve my old blog entries
     *   by Mamaga
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Lost password and email account
     *   by KIN4040
-    *   6 days ago
+    *   1 week ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -26,12 +44,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   Where did my blog entries go? Miss the memories
-    *   \[Resolved\] by soleMates2112
-    *   2 years ago
-    *   in Data Migration
-    *   0 votes
-    *   10 (last comment by babygoth13 1 week ago)
 *   Want my old xanga uploaded to Xanga 2.0
     *   by LaLaLovelyyy
     *   1 week ago
@@ -43,7 +55,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Miscellaenous
     *   0 votes
-    *   6 (last comment by vthreee 1 week ago)
+    *   6 (last comment by vthreee 2 weeks ago)
 *   Please help get archive
     *   by state\_of\_flux
     *   2 weeks ago
@@ -86,18 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   3 (last comment by Sunny\_Kitty 4 weeks ago)
-*   Unable to Update Password
-    *   by lilbrwnbrd
-    *   1 month ago
-    *   in Passwords &. Sign-In
-    *   0 votes
-    *   1 (last comment by hysengde 1 month ago)
-*   I wanna access my old posts
-    *   by zerolai18
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by ELCYxo 1 month ago)
 
 1 2 3 ... 173 Next
 
