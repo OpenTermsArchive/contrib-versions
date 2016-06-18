@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Where is my old blog?
     *   by womanofcode
-    *   9 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,16 +19,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 months ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by womanofcode 9 hours ago)
+    *   2 (last comment by womanofcode 1 day ago)
 *   Where did my blog entries go? Miss the memories
     *   \[Resolved\] by soleMates2112
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   11 (last comment by womanofcode 9 hours ago)
+    *   11 (last comment by womanofcode 1 day ago)
 *   Retrieve my old blog entries
     *   by Mamaga
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -79,7 +79,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Netoangel 2 weeks ago)
+    *   1 (last comment by Netoangel 3 weeks ago)
 *   Help!
     *   by Shannon6907
     *   3 weeks ago
@@ -97,7 +97,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by Sunny\_Kitty 4 weeks ago)
+    *   3 (last comment by Sunny\_Kitty 1 month ago)
 
 1 2 3 ... 173 Next
 
