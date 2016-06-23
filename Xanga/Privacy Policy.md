@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Where is my old blog?
     *   by womanofcode
-    *   3 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,16 +19,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 months ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by womanofcode 3 days ago)
+    *   2 (last comment by womanofcode 6 days ago)
 *   Where did my blog entries go? Miss the memories
     *   \[Resolved\] by soleMates2112
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   11 (last comment by womanofcode 3 days ago)
+    *   11 (last comment by womanofcode 6 days ago)
 *   Retrieve my old blog entries
     *   by Mamaga
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -40,7 +40,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Old blogs entries
     *   by annabeth44
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -58,37 +58,37 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   6 (last comment by vthreee 2 weeks ago)
 *   Please help get archive
     *   by state\_of\_flux
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help me retrieve my old photos
     *   by Mapuan
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help me retrieve my old photos
     *   by Mapuan
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Retrieve my old blog
-    *   by tsaysdsays
-    *   4 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by Netoangel 3 weeks ago)
-*   Help!
-    *   by Shannon6907
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve my old blog
     *   by tsaysdsays
+    *   1 month ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by Netoangel 3 weeks ago)
+*   Help!
+    *   by Shannon6907
     *   4 weeks ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Retrieve my old blog
+    *   by tsaysdsays
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
