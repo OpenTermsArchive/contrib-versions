@@ -8,9 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Need my old blog posts / photos
+    *   by phenominal\_woman
+    *   10 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Can't upload xml files
+    *   \[Resolved\] by carrietotoro
+    *   2 years ago
+    *   in Themes
+    *   0 votes
+    *   7 (last comment by Doana\_Francois 1 day ago)
 *   Blog backup Request
     *   by sweetdiscourses
-    *   13 hours ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -34,7 +46,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   11 (last comment by womanofcode 1 week ago)
 *   Retrieve my old blog entries
     *   by Mamaga
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -52,7 +64,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Want my old xanga uploaded to Xanga 2.0
     *   by LaLaLovelyyy
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -85,19 +97,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Netoangel 4 weeks ago)
-*   Help!
-    *   by Shannon6907
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Retrieve my old blog
-    *   by tsaysdsays
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
+    *   1 (last comment by Netoangel 1 month ago)
 
 1 2 3 ... 173 Next
 
