@@ -1,6 +1,6 @@
 Terms of Service
 
-Balou  
+Cpt Nemo  
 posted this on January 29, 2013, 05:59
 
 **Habbo.com - Terms of Service**
