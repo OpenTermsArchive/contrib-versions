@@ -324,8 +324,8 @@ We may also use customer information to send you promotional communications abou
   
 Allstate Insurance Company  
 Customer Privacy Inquiries  
-P.O. Box 11904  
-Roanoke, VA 24022  
+P.O. Box 660598  
+Dallas, TX 75266-0598  
 or email us at customerprivacy@allstate.com
 
 How You Can Review and Correct Your Personal Information?
@@ -334,8 +334,8 @@ You can request to review your personal information contained in our records at 
   
 Allstate Insurance Company  
 Customer Privacy Inquiries  
-P.O. Box 40047  
-Roanoke, VA 24022-0047  
+P.O. Box 660598  
+Dallas, TX 75266-0598  
 or email us at customerprivacy@allstate.com  
   
 If you wish to update, delete inaccuracies, or modify your profile information, you may do so at any time by logging into your account. If you no longer wish to receive certain email communications from us, you may opt-out by following the unsubscribe link located at the bottom of each communication or by contacting us at the e-mail address listed above.
@@ -408,7 +408,7 @@ Pursuant to California law, we need to disclose to you that we would obtain your
   
 **For Montana residents:**  
 Pursuant to Montana law, you may also request a record of any disclosure of your medical information during the preceding three years. Please send requests to:  
-Allstate Insurance Company Customer Privacy Inquiries, P.O. Box 40047, Roanoke, VA 24022-0047  
+Allstate Insurance Company Customer Privacy Inquiries, P.O. Box 660598, Dallas, TX 75266-0598  
   
 **For Nevada Residents:**  
 Allstate is committed to serving you when and where you prefer as we help you protect what you have today and prepare you for the future. To that end, and as Nevada law requires, if you do not want to receive sales calls from Allstate, you have the option to be placed on our internal "do not call" list. (Please disregard this notice if you have already been added to Allstate's internal "do not call" list.) You may make this request in the following convenient ways:  
@@ -416,7 +416,7 @@ Allstate is committed to serving you when and where you prefer as we help you pr
 *   Contact your local Allstate agency
 *   Call 1-800-ALLSTATE and speak with a customer representative
 *   Visit allstate.com, click on Contact Us and send us an e-mail
-*   Write to us at Allstate Insurance Company, Attn: Customer Service, P.O.Box 40047, Roanoke, VA 24022-0047
+*   Write to us at Allstate Insurance Company, Attn: Customer Service, P.O.Box 660598, Dallas, TX 75266-0598
 
 In your discussion or correspondence with us, please be sure to provide us with your name, address and all telephone numbers you wish to include on our list. If you have questions about this notice, you may contact us at the address listed above or you may also contact the Nevada Attorney General's office at:  
   
