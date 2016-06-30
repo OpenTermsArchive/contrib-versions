@@ -8,15 +8,33 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   old posts are missing
+    *   by sandboxmagician
+    *   15 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Dead Email Lost Password, Any Hope?
+    *   by history\_is\_my\_thang
+    *   22 hours ago
+    *   in Passwords &. Sign-In
+    *   0 votes
+    *   0
+*   Dead Email Lost Password, Any Hope?
+    *   by history\_is\_my\_thang
+    *   22 hours ago
+    *   in Passwords &. Sign-In
+    *   0 votes
+    *   0
 *   I want access to my old blogs
     *   by bloodycherries
-    *   16 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Need my old blog posts / photos
     *   by phenominal\_woman
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -25,10 +43,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Themes
     *   0 votes
-    *   7 (last comment by Doana\_Francois 2 days ago)
+    *   7 (last comment by Doana\_Francois 3 days ago)
 *   Blog backup Request
     *   by sweetdiscourses
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -80,26 +98,8 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Miscellaenous
     *   0 votes
     *   6 (last comment by vthreee 3 weeks ago)
-*   Please help get archive
-    *   by state\_of\_flux
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Please help me retrieve my old photos
-    *   by Mapuan
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Please help me retrieve my old photos
-    *   by Mapuan
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
-1 2 3 ... 173 Next
+1 2 3 ... 174 Next
 
 Help Categories
 
