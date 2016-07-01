@@ -58,7 +58,7 @@ Overview
 
 These Terms of Use tell you about our public services at the Wikimedia Foundation, our relationship to you as a user, and the rights and responsibilities that guide us both. We want you to know that we host an incredible quantity of educational and informational content, all of which is contributed and made possible by users like yourself. Generally we do not contribute, monitor, or delete content (with the rare exception of policies like these Terms of Use or legal compliance for DMCA notices). This means that editorial control is in the hands of you and your fellow users who create and manage the content. We merely host this content.
 
-The community - the network of users who are constantly building and using the various sites or Projects - are the principal means through which the goals of the mission are achieved. The community contributes to and helps govern our sites. The community undertakes the critical function of creating and enforcing policies for the specific Project editions (such as the different language editions for the Wikipedia Project or the Wikimedia Commons multi-lingual edition).
+The community – the network of users who are constantly building and using the various sites or Projects – are the principal means through which the goals of the mission are achieved. The community contributes to and helps govern our sites. The community undertakes the critical function of creating and enforcing policies for the specific Project editions (such as the different language editions for the Wikipedia Project or the Wikimedia Commons multi-lingual edition).
 
 You are welcome to join as a contributor, editor, or author, but you should follow the policies that govern each of the independent Project editions. The largest of our Projects is Wikipedia, but we host other Projects too, each with different objectives and work methods. Each Project edition has a team of contributors, editors or authors who work together to create and manage the content on that Project edition. You are welcome to join these teams and work with them to improve these Projects. Because we are dedicated to making content freely accessible to the public, we generally require that all content you contribute is available under a free license or in the public domain.
 
@@ -88,8 +88,6 @@ Contents
 *   18 16. Modifications to these Terms of Use
 *   19 17. Other Terms
 *   20 Thank You!
-
-  
 
 1\. Our Services
 
@@ -192,7 +190,7 @@ You agree to the following licensing requirements:
     
     (Re-users may comply with either license or both.)
     
-    The only exception is if the Project edition or feature requires a different license. In that case, you agree to license any text you contribute under that particular license. For example, at the publication of this version of the Terms of Use, English Wikinews mandates that all text content is licensed under the Creative Commons Attribution 2.5 Generic License (CC BY 2.5) and does not require a dual license with GFDL.  
+    The only exception is if the Project edition or feature requires a different license. In that case, you agree to license any text you contribute under that particular license. For example, at the publication of this version of the Terms of Use, English Wikinews mandates that all text content is licensed under the Creative Commons Attribution 2.5 Generic License (CC BY 2.5) and does not require a dual license with GFDL.
     
     Please note that these licenses do allow commercial uses of your contributions, as long as such uses are compliant with the terms.
     
@@ -319,7 +317,7 @@ We appreciate your taking the time to read these Terms of Use, and we are very h
 
 **These Terms of Use went into effect on June 16, 2014. Previous versions of the terms:**
 
-*   **Terms of Use (2012-2014): effective from May 24, 2012 until June 16, 2014**
+*   **Terms of Use (2012–2014): effective from May 24, 2012 until June 16, 2014**
 *   **Terms of Use (2009): effective from 2009 until May 24, 2012.**
 
 **In the event of any differences in meaning between the original English version and a translation, the original English version takes precedence.**
