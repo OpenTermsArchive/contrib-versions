@@ -1,4 +1,4 @@
-���// JavaScript Document // Updated 03-19-2015 | Keith Davis - KD5879 // // Updated 03-30-2015 | Keith Davis - KD5879 // // Updated 03-31-2015 | Keith Davis - KD5879 // // Updated 04-09-2015 | Keith Davis - KD5879 // // Updated 04-14-2015 | Keith Davis - KD5879 // // Updated 05-01-2015 | Keith Davis - KD5879 // // Updated 05-08-2015 | Keith Davis - KD5879 // // Updated 05-21-2015 | Keith Davis - KD5879 // // Updated 05-26-2015 | Keith Davis - KD5879 // // Updated 05-27-2015 | Keith Davis - KD5879 // // Updated 05-28-2015 | Keith Davis - KD5879 // // Updated 05-29-2015 | Keith Davis - KD5879 // // Updated 06-04-2015 | Keith Davis - KD5879 // // Updated 06-05-2015 | Keith Davis - KD5879 // // Updated 06-08-2015 | Keith Davis - KD5879 // // Updated 06-09-2015 | Keith Davis - KD5879 // // Updated 06-10-2015 | Keith Davis - KD5879 // // Updated 06-11-2015 | Keith Davis - KD5879 // // Updated 06-17-2015 | Keith Davis - KD5879 // // Updated 07-01-2015 | Keith Davis - KD5879 // // Updated 07-24-2015 | Tammy Ritterskamp - TR108R // // Updated 07-27-2015 | Keith Davis - KD5879 // // Updated 07-29-2015 | Keith Davis - KD5879 // // Updated 08-11-2015 | Keith Davis - KD5879 // // Updated 08-12-2015 | Keith Davis - KD5879 // // Updated 08-27-2015 | Keith Davis - KD5879 // // Updated 08-28-2015 | Keith Davis - KD5879 // // Updated 09-15-2015 | Keith Davis - KD5879 // // Updated 09-17-2015 | Keith Davis - KD5879 // // Updated 10-06-2015 | Keith Davis - KD5879 // // Updated 10-12-2015 | Keith Davis - KD5879 // // Updated 12-21-2015 | Keith Davis - KD5879 // if (location.pathname == '/Common/about\_us/privacy\_policy/print\_policy.html') { pid = 'printversion'. } else { var url = location.href. pid = url.split('='). pid = pid\[1\]. checkAnc = pid.indexOf('#'). if(checkAnc != '-1') { pid = pid.split('#'). pid = pid\[0\]. } } //alert(pid). function renderPrintLink() { document.write ('' + 'View our current policy' + ''). } function renderLandingPageContent() { document.write(' ' + ' About Our Privacy Policy' + '
+���// JavaScript Document // Updated 03-19-2015 | Keith Davis - KD5879 // // Updated 03-30-2015 | Keith Davis - KD5879 // // Updated 03-31-2015 | Keith Davis - KD5879 // // Updated 04-09-2015 | Keith Davis - KD5879 // // Updated 04-14-2015 | Keith Davis - KD5879 // // Updated 05-01-2015 | Keith Davis - KD5879 // // Updated 05-08-2015 | Keith Davis - KD5879 // // Updated 05-21-2015 | Keith Davis - KD5879 // // Updated 05-26-2015 | Keith Davis - KD5879 // // Updated 05-27-2015 | Keith Davis - KD5879 // // Updated 05-28-2015 | Keith Davis - KD5879 // // Updated 05-29-2015 | Keith Davis - KD5879 // // Updated 06-04-2015 | Keith Davis - KD5879 // // Updated 06-05-2015 | Keith Davis - KD5879 // // Updated 06-08-2015 | Keith Davis - KD5879 // // Updated 06-09-2015 | Keith Davis - KD5879 // // Updated 06-10-2015 | Keith Davis - KD5879 // // Updated 06-11-2015 | Keith Davis - KD5879 // // Updated 06-17-2015 | Keith Davis - KD5879 // // Updated 07-01-2015 | Keith Davis - KD5879 // // Updated 07-24-2015 | Tammy Ritterskamp - TR108R // // Updated 07-27-2015 | Keith Davis - KD5879 // // Updated 07-29-2015 | Keith Davis - KD5879 // // Updated 08-11-2015 | Keith Davis - KD5879 // // Updated 08-12-2015 | Keith Davis - KD5879 // // Updated 08-27-2015 | Keith Davis - KD5879 // // Updated 08-28-2015 | Keith Davis - KD5879 // // Updated 09-15-2015 | Keith Davis - KD5879 // // Updated 09-17-2015 | Keith Davis - KD5879 // // Updated 10-06-2015 | Keith Davis - KD5879 // // Updated 10-12-2015 | Keith Davis - KD5879 // // Updated 12-21-2015 | Keith Davis - KD5879 // // Updated 04-04-2016 | Keith Davis - KD5879 // // Updated 04-07-2016 | Keith Davis - KD5879 // // Updated 05-03-2016 | Keith Davis - KD5879 // // Updated 06-28-2016 | Keith Davis - KD5879 (CPNI)// if (location.pathname == '/Common/about\_us/privacy\_policy/print\_policy.html') { pid = 'printversion'. } else { var url = location.href. pid = url.split('='). pid = pid\[1\]. checkAnc = pid.indexOf('#'). if(checkAnc != '-1') { pid = pid.split('#'). pid = pid\[0\]. } } //alert(pid). function renderPrintLink() { document.write ('' + 'View our current policy' + ''). } function renderLandingPageContent() { document.write(' ' + ' About Our Privacy Policy' + '
 
 Whenever you do something like buy one of our products, watch a show or download an app, information is created. Because we know your privacy is important, we have a Privacy Policy to explain how we collect, use and protect that information. There’s a quick summary below, and the entire policy is written in an easy FAQ format. We want to simplify this, so you can make informed choices about your privacy, and then spend the rest of your time enjoying our products and services.
 
@@ -166,7 +166,7 @@ California Civil Code Section 1798.83 entitles California customers to request i
 
 ' + '
 
-California customers who wish to request further information about our compliance with these requirements, or have questions or concerns about our privacy practices and policies may contact us at privacypolicy@att.com, or write to us at AT&T Privacy Policy, Chief Privacy Office, 208 S. Akard, Room 1033, Dallas, TX 75202.
+California customers who wish to request further information about our compliance with these requirements, or have questions or concerns about our privacy practices and policies may contact us at privacypolicy@att.com, or write to us atAT&T Privacy Policy, Chief Privacy Office, 208 S. Akard, Room 1033, Dallas, TX 75202
 
 ' + ''). } function setFaqContent(sectionID) { document.getElementById(sectionID).scrollIntoView(true). menuItem = sectionID + 'A'. activeMenuItem = document.getElementById(menuItem). var menuItems = new Array('definitionsA','scopeA','collectA','locationA','trackingA','analyticsA','aggregateA','sharingA','childrenA','protectionA','controlsA','changesA','contactA'). for(m=0;m' + ' ' + '**Our AT&T Privacy Policy in easy, FAQ format.**' + '
 
@@ -789,7 +789,7 @@ We understand that everyone thinks that privacy policies are long, complicated a
     
     ' + '
     
-    You may e-mail us at privacypolicy@att.com, call us at 800.495.1547 or write to us at AT&T Privacy Policy, Chief Privacy Office, 208 S. Akard, Room 1033, Dallas, TX 75202with any questions or concerns you may have about our Children's Online Privacy Policy.
+    You may e-mail us at privacypolicy@att.com, call us at 800.495.1547 or write to us at AT&T Privacy Policy, Chief Privacy Office, 208 S. Akard, Room 1033, Dallas, TX 75202 with any questions or concerns you may have about our Children's Online Privacy Policy.
     
 ' + '
 
@@ -1003,79 +1003,49 @@ We understand that everyone thinks that privacy policies are long, complicated a
 
 ' + ' ' + ' '). } function renderCPNI() { document.write('What is CPNI?' + '
 
-Customer Proprietary Network Information (CPNI) is information that AT&T and other telecommunications carriers obtain when providing your telecommunications services to you. CPNI includes the types of telecommunications services you currently purchase, how you use them, and the billing information related to those services, including items such as the types of local, long distance and wireless telecommunications services that you have purchased and your calling details. Your telephone number, name and address are not considered CPNI.
+“CPNI” is information about your phone service from us. Your phone service could be a cell phone or any sort of home or business phone. The “information” is things like what kind of services you have, how you use them, or billing information. (Your telephone number, name and address are not considered CPNI.)
 
 ' + 'Use and Disclosure of CPNI' + '
 
-We use your CPNI to offer you additional services of the type you already purchase from AT&T. We also may use your CPNI to offer you products and services, packages, discounts and promotions from the AT&T companies, such as High Speed DSL Internet access, wireless service and TV services, which may be different from the types of services you already purchase.
+We do not sell, trade or share your CPNI with anyone outside of the AT&T family of companies\* or our authorized agents, unless required by law (example: a court order).
 
 ' + '
 
-AT&T uses technology and security features and strict policy guidelines to safeguard the privacy of CPNI and protect it from unauthorized access or improper use. AT&T does not disclose CPNI outside of the AT&T companies or their agents without customer consent except as required or allowed by law. When AT&T uses third parties to perform services on its behalf that require the use of CPNI, AT&T requires that they protect CPNI consistent with this privacy policy. _AT&T does not sell CPNI to unaffiliated third parties._
+We do use your CPNI internally, however. We may share information about our customers among the AT&T companies and our agents in order to offer you new or enhanced services. For example, we might offer a discount or promotion for Internet or TV services based on your CPNI.
 
 ' + 'Restricting our use of your CPNI' + '
 
-If you wish to restrict our use of your CPNI for marketing purposes, you may contact a customer service representative at the customer service phone number located on your AT&T telephone bill or one of the following numbers:
+AT&T uses technology and security features, and strict policy guidelines with ourselves and our agents, to safeguard the privacy of CPNI. It is your right and our duty under federal law to protect the confidentiality of your CPNI.
 
 ' + '
 
-Wireless - 1-800-331-0500
+If you don’t want AT&T to use your CPNI internally for things like offers, here is what you can do:
 
 ' + '
 
-Business - 1-888-944-0447
+•  You can “opt out” online, at att.com/ecpnioptout, or
 
 ' + '
 
-Residential - 1-800-288-2020
+•  You can call 800.315.8303, any time of day, and follow the prompts, or
 
 ' + '
 
-Spanish Language - 1-800-870-5855
+•  You can speak to a service representative at 800.288.2020 (consumer) or 800.321.2000 (business).
 
 ' + '
 
-For assistance in other languages, please visit world.att.com.
+•  For languages other than English and Spanish, please visit world.att.com.
 
 ' + '
 
-Legacy AT&T Consumer - 1-800-222-0300
+If you choose to restrict our use of your CPNI, it won’t affect any of your services. You can change your mind at any time about allowing (or not allowing) us to use your CPNI, and we’ll honor your decision until you change it again. If you do restrict your CPNI use, you may still get marketing from us, but it won’t be from using CPNI.
 
 ' + '
 
-Restricting our use of your CPNI for marketing purposes will not affect the provision of any AT&T products or services to which you subscribe, nor will it eliminate all types of AT&T marketing contacts.
+\* The AT&T Family of Companies are those companies that provide voice, video and broadband-related products and/or services domestically and internationally, including the AT&T local and long distance companies, AT&T Corp., AT&T Mobility, DIRECTV, and other subsidiaries or affiliates of AT&T Inc. that provide, design, market, or sell these products and/or services.
 
-' +'Customer Service Contact Numbers' + '
-
-**Wireless** — 1-800-331-0500
-
-' + '
-
-**Business** — 1-888-944-0447
-
-' + '
-
-**Residential** — 1-800-288-2020
-
-' + '
-
-**Spanish Language** — 1-800-870-5855
-
-' + '
-
-**Satellite TV Services** – 1-800-DIRECTV or 1-800-351-5000
-
-' + '
-
-For assistance in other languages, please visit world.att.com.
-
-' + '
-
-**Legacy AT&T Consumer** — 1-800-222-0300
-
-' + 'Customers of the following AT&T family of companies may contact us directly using the following:' + '
-
-**AT&T Internet Services** — Customers can manage newsletter subscriptions or other e-mail communications from Yahoo! by modifying their AT&T Yahoo! Marketing Preferences.
+' + ' ' + '
 
 '). } function renderDNM() { document.write('
 
@@ -1175,7 +1145,7 @@ Please keep in mind that in some cases, your choice will be linked to the specif
 ' + '*   You can choose to exclude your anonymous information from our External Marketing &. Analytics and similar reports by going to manage your privacy choices. Satellite TV only customers who have joined the AT&T Family of Companies can opt out www.att.com/directvprivacy.
 ' + '
 
-' + '
+' /\* \*/ + '
 
 **Customer Proprietary Network Information (CPNI)**
 
@@ -1273,7 +1243,7 @@ AT&T | DISH interactive applications may be provided by third parties. Please be
 
 If we decide to Change this Privacy Policy, we will post those changes to this policy and other places we deem appropriate. If, however, we are going to use/disclose AT&T I DISH Network Customer Account Information in a manner different from that stated at the time of collection we will notify AT&T | DISH Network customers directly.
 
-' ). } function renderPrivacyRightCol() { if (pid == '2506') { document.write(//'' //+ 'En Español' // + 'En Français' //+ '' //+ '' //+ '
+' ). } function renderPrivacyRightCol() { if (pid == '2506') { document.write(//'' //+ 'En Español' //+ 'En Français' // + '' // + '' // + '
 
 Welcome DIRECTV Customers  
 DIRECTV is now part of the AT&T family. For convenience, all AT&T products and services are covered under a single, easy-to-read Privacy Policy. The policy lays out our commitments to privacy and describes our policies for helping to protect personal information. We invite you to learn more about our commitments, safeguards and customer choices by reviewing our AT&T Policy, and we welcome your feedback.
@@ -1290,7 +1260,7 @@ effective date **11/18/2010**. We invite you to learn more about our commitments
 
 **Welcome to the AT&T Privacy Policy. We will provide a preview of the updated privacy policy ��� before it goes into effect. Please check back soon for updates. The policy on these pages has an effective date of 11/18/2010.**
 
-' //+ '' '' + ' ' + '' + '
+' // + '' '' + ' ' + '' + '
 
 AT&T has been awarded the TRUSTe Privacy Seal and you may contact TRUSTe if a privacy question is not properly addressed
 
