@@ -8,33 +8,45 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Archives thread
+    *   by LyKGeTnutz
+    *   3 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Accessing Archives of the Deceased
+    *   by SpirishHildabrand
+    *   10 hours ago
+    *   in Miscellaenous
+    *   0 votes
+    *   0
 *   old posts are missing
     *   by sandboxmagician
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Dead Email Lost Password, Any Hope?
     *   by history\_is\_my\_thang
-    *   1 day ago
+    *   2 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Dead Email Lost Password, Any Hope?
     *   by history\_is\_my\_thang
-    *   1 day ago
+    *   2 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   I want access to my old blogs
     *   by bloodycherries
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Need my old blog posts / photos
     *   by phenominal\_woman
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -43,10 +55,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Themes
     *   0 votes
-    *   7 (last comment by Doana\_Francois 4 days ago)
+    *   7 (last comment by Doana\_Francois 5 days ago)
 *   Blog backup Request
     *   by sweetdiscourses
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -86,18 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   Want my old xanga uploaded to Xanga 2.0
-    *   by LaLaLovelyyy
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Retrieving Deleted Entries
-    *   by tspmachina
-    *   2 years ago
-    *   in Miscellaenous
-    *   0 votes
-    *   6 (last comment by vthreee 4 weeks ago)
 
 1 2 3 ... 174 Next
 
