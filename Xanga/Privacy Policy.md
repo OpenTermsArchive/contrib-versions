@@ -10,43 +10,43 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Archives thread
     *   by LyKGeTnutz
-    *   3 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Accessing Archives of the Deceased
     *   by SpirishHildabrand
-    *   10 hours ago
+    *   1 day ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   old posts are missing
     *   by sandboxmagician
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Dead Email Lost Password, Any Hope?
     *   by history\_is\_my\_thang
-    *   2 days ago
+    *   3 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Dead Email Lost Password, Any Hope?
     *   by history\_is\_my\_thang
-    *   2 days ago
+    *   3 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   I want access to my old blogs
     *   by bloodycherries
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Need my old blog posts / photos
     *   by phenominal\_woman
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -55,7 +55,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Themes
     *   0 votes
-    *   7 (last comment by Doana\_Francois 5 days ago)
+    *   7 (last comment by Doana\_Francois 6 days ago)
 *   Blog backup Request
     *   by sweetdiscourses
     *   1 week ago
