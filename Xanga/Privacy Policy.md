@@ -8,6 +8,12 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   I want access to my sons page again
+    *   by sheressence
+    *   16 hours ago
+    *   in Miscellaenous
+    *   0 votes
+    *   0
 *   Archives thread
     *   by LyKGeTnutz
     *   1 week ago
@@ -70,7 +76,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   I downloaded my archived blog, but files were missing
     *   by Ro0nilWazlib
-    *   4 months ago
+    *   5 months ago
     *   in Data Migration
     *   0 votes
     *   2 (last comment by womanofcode 3 weeks ago)
@@ -88,14 +94,8 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Lost password and email account
     *   by KIN4040
-    *   4 weeks ago
-    *   in Passwords &. Sign-In
-    *   0 votes
-    *   0
-*   Old blogs entries
-    *   by annabeth44
     *   1 month ago
-    *   in Data Migration
+    *   in Passwords &. Sign-In
     *   0 votes
     *   0
 
