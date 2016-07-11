@@ -8,9 +8,15 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Need help to retrieve my old xanga
+    *   by Manaho
+    *   13 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   I want access to my sons page again
     *   by sheressence
-    *   16 hours ago
+    *   1 day ago
     *   in Miscellaenous
     *   0 votes
     *   0
@@ -61,7 +67,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Themes
     *   0 votes
-    *   7 (last comment by Doana\_Francois 1 week ago)
+    *   7 (last comment by Doana\_Francois 2 weeks ago)
 *   Blog backup Request
     *   by sweetdiscourses
     *   2 weeks ago
@@ -90,12 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by Mamaga
     *   3 weeks ago
     *   in Data Migration
-    *   0 votes
-    *   0
-*   Lost password and email account
-    *   by KIN4040
-    *   1 month ago
-    *   in Passwords &. Sign-In
     *   0 votes
     *   0
 
