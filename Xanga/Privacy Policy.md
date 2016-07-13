@@ -8,15 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Retrieving old account
+    *   by Gambit\_Made
+    *   6 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Need help to retrieve my old xanga
     *   by Manaho
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I want access to my sons page again
     *   by sheressence
-    *   2 days ago
+    *   3 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
@@ -52,7 +58,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   I want access to my old blogs
     *   by bloodycherries
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -92,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   11 (last comment by womanofcode 3 weeks ago)
-*   Retrieve my old blog entries
-    *   by Mamaga
-    *   4 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
 1 2 3 ... 174 Next
 
