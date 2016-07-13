@@ -25,6 +25,7 @@ Yahoo Settings
 *   Vie privée
     *   Sujets
     *   Produits
+    *   Commandes
 *   Propriété intellectuelle
 
 Yahoo Vie Privée
