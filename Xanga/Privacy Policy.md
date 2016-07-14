@@ -8,21 +8,33 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Where is the Archive
+    *   by everythingfallstogether
+    *   9 hours ago
+    *   in Themes
+    *   0 votes
+    *   0
+*   Help find old blog
+    *   by Ay\_Enem
+    *   17 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Retrieving old account
     *   by Gambit\_Made
-    *   6 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Need help to retrieve my old xanga
     *   by Manaho
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I want access to my sons page again
     *   by sheressence
-    *   3 days ago
+    *   4 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
@@ -40,19 +52,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   old posts are missing
     *   by sandboxmagician
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Dead Email Lost Password, Any Hope?
     *   by history\_is\_my\_thang
-    *   1 week ago
+    *   2 weeks ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Dead Email Lost Password, Any Hope?
     *   by history\_is\_my\_thang
-    *   1 week ago
+    *   2 weeks ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -86,18 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   I downloaded my archived blog, but files were missing
-    *   by Ro0nilWazlib
-    *   5 months ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by womanofcode 3 weeks ago)
-*   Where did my blog entries go? Miss the memories
-    *   \[Resolved\] by soleMates2112
-    *   2 years ago
-    *   in Data Migration
-    *   0 votes
-    *   11 (last comment by womanofcode 3 weeks ago)
 
 1 2 3 ... 174 Next
 
