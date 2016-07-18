@@ -10,25 +10,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Where is the Archive
     *   by everythingfallstogether
-    *   3 days ago
+    *   4 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Help find old blog
     *   by Ay\_Enem
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieving old account
     *   by Gambit\_Made
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Need help to retrieve my old xanga
     *   by Manaho
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -85,7 +85,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Themes
     *   0 votes
-    *   7 (last comment by Doana\_Francois 2 weeks ago)
+    *   7 (last comment by Doana\_Francois 3 weeks ago)
 *   Blog backup Request
     *   by sweetdiscourses
     *   3 weeks ago
