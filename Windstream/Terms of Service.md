@@ -337,13 +337,13 @@ ZIP\*
 
 Enter a zip
 
-Confirm Existing Customers Sign In Phone Number\* Sign In
+Confirm Existing Customers Sign In You'll be taken to a secure sign on form. Sign In
 
 Please enter a valid phone number
 
 **Sorry. We were unable to find an account for this phone number.** Ensure the phone number is correct or enter another number that is your account phone number.
 
-\* Required Fields You entered:
+You entered:
 
 address
 
@@ -398,13 +398,13 @@ ZIP Code\*
 
 Enter a ZIP
 
-County Confirm Existing Customers Sign In Phone Number\* Sign In
+County Confirm Existing Customers Sign In You'll be taken to a secure sign on form. Sign In
 
 Please enter a valid phone number
 
 **Sorry. We were unable to find an account for this phone number.** Ensure the phone number is correct or enter another number that is your account phone number.
 
-\* Required Fields Check Availability
+Check Availability
 
 Please let us know who you are so we can check for the available services to your home!
 
@@ -418,7 +418,11 @@ I'm an **Existing** Customer
 
 *   Please enter a valid phone number
 
-Phone Number\* Sign In
+Phone Number\*
+
+Sign In
+
+Sign In
 
 If this is your Windstream account number, please call us at 1-866-445-5880 for help.
 
