@@ -10,13 +10,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Where is the Archive
     *   by everythingfallstogether
-    *   6 days ago
+    *   1 week ago
     *   in Themes
     *   0 votes
     *   0
 *   Help find old blog
     *   by Ay\_Enem
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -52,19 +52,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   old posts are missing
     *   by sandboxmagician
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Dead Email Lost Password, Any Hope?
     *   by history\_is\_my\_thang
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Dead Email Lost Password, Any Hope?
     *   by history\_is\_my\_thang
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
