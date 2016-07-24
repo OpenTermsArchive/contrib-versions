@@ -34,7 +34,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   I want access to my sons page again
     *   by sheressence
-    *   1 week ago
+    *   2 weeks ago
     *   in Miscellaenous
     *   0 votes
     *   0
