@@ -28,7 +28,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Need help to retrieve my old xanga
     *   by Manaho
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -85,10 +85,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Themes
     *   0 votes
-    *   7 (last comment by Doana\_Francois 3 weeks ago)
+    *   7 (last comment by Doana\_Francois 4 weeks ago)
 *   Blog backup Request
     *   by sweetdiscourses
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
