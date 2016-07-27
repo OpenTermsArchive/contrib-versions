@@ -8,21 +8,33 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   file size limit??
+    *   by JosephShen2004
+    *   1 hour ago
+    *   in Pictures
+    *   0 votes
+    *   0
+*   Membership expired in 2029??
+    *   by JosephShen2004
+    *   1 hour ago
+    *   in Premium
+    *   0 votes
+    *   0
 *   I have been using Xanga since high school
     *   by bobo\_luv\_keita
-    *   11 minutes ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Access to old blog posts
     *   by monkeyal353
-    *   11 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Blog
     *   by YouSawALight
-    *   15 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -40,7 +52,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Retrieving old account
     *   by Gambit\_Made
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -84,18 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by history\_is\_my\_thang
     *   3 weeks ago
     *   in Passwords &. Sign-In
-    *   0 votes
-    *   0
-*   I want access to my old blogs
-    *   by bloodycherries
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Need my old blog posts / photos
-    *   by phenominal\_woman
-    *   4 weeks ago
-    *   in Data Migration
     *   0 votes
     *   0
 
