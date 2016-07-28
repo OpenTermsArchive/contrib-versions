@@ -8,45 +8,51 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Old Account
+    *   by milkcartonss
+    *   7 hours ago
+    *   in Personal URLs
+    *   0 votes
+    *   0
 *   file size limit??
     *   by JosephShen2004
-    *   1 hour ago
+    *   1 day ago
     *   in Pictures
     *   0 votes
     *   0
 *   Membership expired in 2029??
     *   by JosephShen2004
-    *   1 hour ago
+    *   1 day ago
     *   in Premium
     *   0 votes
     *   0
 *   I have been using Xanga since high school
     *   by bobo\_luv\_keita
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Access to old blog posts
     *   by monkeyal353
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Blog
     *   by YouSawALight
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where is the Archive
     *   by everythingfallstogether
-    *   1 week ago
+    *   2 weeks ago
     *   in Themes
     *   0 votes
     *   0
 *   Help find old blog
     *   by Ay\_Enem
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -82,19 +88,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   old posts are missing
     *   by sandboxmagician
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Dead Email Lost Password, Any Hope?
     *   by history\_is\_my\_thang
-    *   3 weeks ago
-    *   in Passwords &. Sign-In
-    *   0 votes
-    *   0
-*   Dead Email Lost Password, Any Hope?
-    *   by history\_is\_my\_thang
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
