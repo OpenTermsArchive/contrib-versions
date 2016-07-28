@@ -1,6 +1,6 @@
-���// JavaScript Document // Updated 03-19-2015 | Keith Davis - KD5879 // // Updated 03-30-2015 | Keith Davis - KD5879 // // Updated 03-31-2015 | Keith Davis - KD5879 // // Updated 04-09-2015 | Keith Davis - KD5879 // // Updated 04-14-2015 | Keith Davis - KD5879 // // Updated 05-01-2015 | Keith Davis - KD5879 // // Updated 05-08-2015 | Keith Davis - KD5879 // // Updated 05-21-2015 | Keith Davis - KD5879 // // Updated 05-26-2015 | Keith Davis - KD5879 // // Updated 05-27-2015 | Keith Davis - KD5879 // // Updated 05-28-2015 | Keith Davis - KD5879 // // Updated 05-29-2015 | Keith Davis - KD5879 // // Updated 06-04-2015 | Keith Davis - KD5879 // // Updated 06-05-2015 | Keith Davis - KD5879 // // Updated 06-08-2015 | Keith Davis - KD5879 // // Updated 06-09-2015 | Keith Davis - KD5879 // // Updated 06-10-2015 | Keith Davis - KD5879 // // Updated 06-11-2015 | Keith Davis - KD5879 // // Updated 06-17-2015 | Keith Davis - KD5879 // // Updated 07-01-2015 | Keith Davis - KD5879 // // Updated 07-24-2015 | Tammy Ritterskamp - TR108R // // Updated 07-27-2015 | Keith Davis - KD5879 // // Updated 07-29-2015 | Keith Davis - KD5879 // // Updated 08-11-2015 | Keith Davis - KD5879 // // Updated 08-12-2015 | Keith Davis - KD5879 // // Updated 08-27-2015 | Keith Davis - KD5879 // // Updated 08-28-2015 | Keith Davis - KD5879 // // Updated 09-15-2015 | Keith Davis - KD5879 // // Updated 09-17-2015 | Keith Davis - KD5879 // // Updated 10-06-2015 | Keith Davis - KD5879 // // Updated 10-12-2015 | Keith Davis - KD5879 // // Updated 12-21-2015 | Keith Davis - KD5879 // // Updated 04-04-2016 | Keith Davis - KD5879 // // Updated 04-07-2016 | Keith Davis - KD5879 // // Updated 05-03-2016 | Keith Davis - KD5879 // // Updated 06-28-2016 | Keith Davis - KD5879 (CPNI)// if (location.pathname == '/Common/about\_us/privacy\_policy/print\_policy.html') { pid = 'printversion'. } else { var url = location.href. pid = url.split('='). pid = pid\[1\]. checkAnc = pid.indexOf('#'). if(checkAnc != '-1') { pid = pid.split('#'). pid = pid\[0\]. } } //alert(pid). function renderPrintLink() { document.write ('' + 'View our current policy' + ''). } function renderLandingPageContent() { document.write(' ' + ' About Our Privacy Policy' + '
+// JavaScript Document // Updated 03-19-2015 | Keith Davis - KD5879 // // Updated 03-30-2015 | Keith Davis - KD5879 // // Updated 03-31-2015 | Keith Davis - KD5879 // // Updated 04-09-2015 | Keith Davis - KD5879 // // Updated 04-14-2015 | Keith Davis - KD5879 // // Updated 05-01-2015 | Keith Davis - KD5879 // // Updated 05-08-2015 | Keith Davis - KD5879 // // Updated 05-21-2015 | Keith Davis - KD5879 // // Updated 05-26-2015 | Keith Davis - KD5879 // // Updated 05-27-2015 | Keith Davis - KD5879 // // Updated 05-28-2015 | Keith Davis - KD5879 // // Updated 05-29-2015 | Keith Davis - KD5879 // // Updated 06-04-2015 | Keith Davis - KD5879 // // Updated 06-05-2015 | Keith Davis - KD5879 // // Updated 06-08-2015 | Keith Davis - KD5879 // // Updated 06-09-2015 | Keith Davis - KD5879 // // Updated 06-10-2015 | Keith Davis - KD5879 // // Updated 06-11-2015 | Keith Davis - KD5879 // // Updated 06-17-2015 | Keith Davis - KD5879 // // Updated 07-01-2015 | Keith Davis - KD5879 // // Updated 07-24-2015 | Tammy Ritterskamp - TR108R // // Updated 07-27-2015 | Keith Davis - KD5879 // // Updated 07-29-2015 | Keith Davis - KD5879 // // Updated 08-11-2015 | Keith Davis - KD5879 // // Updated 08-12-2015 | Keith Davis - KD5879 // // Updated 08-27-2015 | Keith Davis - KD5879 // // Updated 08-28-2015 | Keith Davis - KD5879 // // Updated 09-15-2015 | Keith Davis - KD5879 // // Updated 09-17-2015 | Keith Davis - KD5879 // // Updated 10-06-2015 | Keith Davis - KD5879 // // Updated 10-12-2015 | Keith Davis - KD5879 // // Updated 12-21-2015 | Keith Davis - KD5879 // // Updated 04-04-2016 | Keith Davis - KD5879 // // Updated 04-07-2016 | Keith Davis - KD5879 // // Updated 05-03-2016 | Keith Davis - KD5879 // // Updated 06-28-2016 | Keith Davis - KD5879 (CPNI)// // Updated 07-19-2016 | Keith Davis - KD5879 // // Updated 07-22-2016 | Keith Davis - KD5879 // // Updated 07-25-2016 | Ashley Long - AL201Q // if (location.pathname == '/Common/about\_us/privacy\_policy/print\_policy.html') { pid = 'printversion'. } else { var url = location.href. pid = url.split('='). pid = pid\[1\]. checkAnc = pid.indexOf('#'). if(checkAnc != '-1') { pid = pid.split('#'). pid = pid\[0\]. } } //alert(pid). function renderPrintLink() { document.write ('' + 'View our current policy' + ''). } function renderLandingPageContent() { document.write(' ' + ' About Our Privacy Policy' + '
 
-Whenever you do something like buy one of our products, watch a show or download an app, information is created. Because we know your privacy is important, we have a Privacy Policy to explain how we collect, use and protect that information. There’s a quick summary below, and the entire policy is written in an easy FAQ format. We want to simplify this, so you can make informed choices about your privacy, and then spend the rest of your time enjoying our products and services.
+Whenever you do something like buy one of our products, watch a show or download an app, information is created. Because we know your privacy is important, we have a Privacy Policy to explain how we collect, use and protect that information. There’s a quick summary below, and the actual policy is written in an easy to understand “Frequently Asked Questions” (FAQ) format. We want to simplify this explanation, so you can make informed choices about your privacy, and then spend the rest of your time enjoying our products and services.
 
 ' + '
 
@@ -8,7 +8,18 @@ Whenever you do something like buy one of our products, watch a show or download
 
 ' + ' A Quick Summary of Our Privacy Policy' + '
 
-Our privacy policy applies to your use of our products and services. We will always provide you with notice of material changes to this Policy. In order to do things like constantly improve our services, products and relationship with you, we may collect different types of information that help us learn more about how you use our offerings.
+Our Privacy Policy applies to your use of all products, services and websites offered by AT&T and our AT&T affiliates, such as DIRECTV, unless they have a different privacy policy. We will always provide you with notice of material changes to this Policy. In order to do things like constantly improve our services, products and relationship with you, we may collect different types of information that help us learn more about how our offerings are used.
+
+' + '
+
+**Our privacy commitments**
+
+' + '
+
+' + '*   We don’t sell your Personal Information to anyone for any purpose. Period.
+' + '*   We keep your Personal Information in our business records while you are a customer, or until it is no longer needed for business, tax or legal purposes.
+' + '*   We will keep your information safe using encryption or other appropriate security controls.
+' + '
 
 ' + '
 
@@ -43,7 +54,7 @@ Our privacy policy applies to your use of our products and services. We will alw
 ' + '*   Provide services and improve your customer experience;
 ' + '*   Send you bills for your services;
 ' + '*   Respond to your questions;
-' + '*   Address network integrity and security issues.
+' + '*   Address network integrity, help in fraud prevention and network and device security issues;
 ' + '*   Do research and analysis to maintain, protect, develop and improve our networks and services;
 ' + '*   Let you know about service updates, content, offers and promotions that may be of interest to you;
 ' + '*   Improve entertainment options;
@@ -58,8 +69,8 @@ Our privacy policy applies to your use of our products and services. We will alw
 
 ' + '
 
-' + '*   **Across AT&T companies** to give you the best customer experience and to help you get everything we have to offer.
-' + '*   **With other companies that perform services on our behalf** only as needed for them to perform those services. We require them to protect your information consistent with our Policy.
+' + '*   **Across our companies** to give you the best customer experience and to help you get everything we have to offer.
+' + '*   **With other, non-AT&T companies that perform services on our behalf** only as needed for them to perform those services. We require them to protect your information consistent with our Policy.
 ' + '*   **With other companies and entities, to**:
 ' + '
 
@@ -74,26 +85,15 @@ Our privacy policy applies to your use of our products and services. We will alw
 
 ' + '
 
-**Details on Personal and Anonymous &. Aggregate Information**
+**Understanding Personal, Anonymous &. Aggregate Information**
 
 ' + '
 
 ' + '*   What is Personal Information? Information that identifies or reasonably can be used to identify you.
-' + '*   What is Anonymous? This is information that doesn’t identify you and can't reasonably be used to identify you specifically.
-' + '*   What is Aggregate? We take a whole bunch of people’s data and combine it into anonymous groups or categories.
+' + '*   What is Anonymous Information? This is information that doesn’t identify you and can't reasonably be used to identify you specifically.
+' + '*   What is Aggregate Information? We take a whole bunch of people’s data and combine it into anonymous groups or categories.
 ' + '*   How do we use this information? We use and share this information in many ways including research, analysis, retail marketing, and Relevant Advertising. This data is also included in External Marketing &. Analytics Reports.
 ' + '*   Want to learn more? Go here.
-' + '
-
-' + '
-
-**Our privacy commitments**
-
-' + '
-
-' + '*   We don't sell your Personal Information to anyone for any purpose. Period.
-' + '*   We keep your Personal Information in our business records while you are a customer, or until it is no longer needed for business, tax or legal purposes.
-' + '*   We will keep your information safe using encryption or other appropriate security controls.
 ' + '
 
 ' + '
@@ -158,19 +158,48 @@ California Civil Code Section 1798.83 entitles California customers to request i
 
 ' + '
 
-**Web Site Data Collection:** We do not knowingly allow other parties to collect personally identifiable information about your online activities over time and across third-party web sites when you use our websites and services. AT&T provides information about the opt-out choices it makes available, and the opt-out choices provided by certain third-party website and mobile application analytics companies we use here.
+**Web Site Data Collection:** We do not knowingly allow other parties to collect personally identifiable information about your online activities over time and across third-party web sites when you use our websites and services. We provide information about the opt-out choices available to customers, and the opt-out choices provided by certain third-party website and mobile application analytics companies we use here.
 
 ' + '
 
-**"Do Not Track" Notice:** Because the providers of "do not track" and similar signals do not yet operate according to common, industry-accepted standards, AT&T currently does not respond to those signals. For more information on Do Not Track, please visit www.allaboutdnt.com.
+**"Do Not Track" Notice:** Because the providers of "do not track" and similar signals do not yet operate according to common, industry-accepted standards, We currently do not respond to those signals. For more information on Do Not Track, please visit www.allaboutdnt.com.
 
 ' + '
 
-California customers who wish to request further information about our compliance with these requirements, or have questions or concerns about our privacy practices and policies may contact us at privacypolicy@att.com, or write to us atAT&T Privacy Policy, Chief Privacy Office, 208 S. Akard, Room 1033, Dallas, TX 75202
+California customers who wish to request further information about our compliance with these requirements, or have questions or concerns about our privacy practices and policies may contact us at privacypolicy@att.com, or write to us at AT&T Privacy Policy, Chief Privacy Office, 208 S. Akard, Room 1033, Dallas, TX 75202.
 
-' + ''). } function setFaqContent(sectionID) { document.getElementById(sectionID).scrollIntoView(true). menuItem = sectionID + 'A'. activeMenuItem = document.getElementById(menuItem). var menuItems = new Array('definitionsA','scopeA','collectA','locationA','trackingA','analyticsA','aggregateA','sharingA','childrenA','protectionA','controlsA','changesA','contactA'). for(m=0;m' + ' ' + '**Our AT&T Privacy Policy in easy, FAQ format.**' + '
+' + ''). } function setFaqContent(sectionID) { document.getElementById(sectionID).scrollIntoView(true). menuItem = sectionID + 'A'. activeMenuItem = document.getElementById(menuItem). var menuItems = new Array('definitionsA','scopeA','collectA','locationA','trackingA','analyticsA','aggregateA','sharingA','childrenA','protectionA','controlsA','changesA','contactA'). for(m=0;m' + ' ' + '**Our AT&T Privacy Policy in easy to understand, FAQ format.**' + '
 
 We understand that everyone thinks that privacy policies are long, complicated and difficult to understand. So we're going to try to make this as simple as possible.
+
+' + '**What is the purpose of AT&T’s Privacy Policy?**' + '
+
+Whenever you do something like buy or use one of our products or services or visit our websites, information is created. Because we know privacy is important to you, we have the AT&T Privacy Policy to explain how we collect, use, protect, and share that created information. Thus, the main purpose of the Policy is to help you understand our relationship and how we are able to deliver and improve the services we offer.
+
+' + '**How should this Policy be used?**' + '
+
+We encourage you to read the whole policy so you will understand fully our relationship. To find specific information, here is an outline of where you will find answers to your questions about key topics:
+
+' + '
+
+Visit these links for more information.
+
+' + '
+
+'). var privacyFAQlink = ''. // alert (pid). if ( pid == '2506' ) { privacyFAQlink = '/gen/privacy-policy?pid=13692'. } document.write('*   Definitions
+' + '*   Scope of this Policy
+' + '*   The Information We Collect, How We Collect It, And How We Use It
+' + '*   Information Sharing
+' + '*   Online Activity Tracking and Advertising
+' + '*   Location Information
+' + '*   Aggregate and Anonymous Information
+' + '*   External Marketing &. Analytics Reports
+' + '*   Online Privacy Policy for Children
+' + '*   Data Protection &. Security
+' + '*   Changes
+' + '*   Choices &. Controls
+' + '*   How to Contact Us
+' + '
 
 ' + '**DEFINITIONS**' + '
 
@@ -178,11 +207,15 @@ We understand that everyone thinks that privacy policies are long, complicated a
 
 ' + '
 
-**Aggregate Information:** Information that we combine into anonymous groups of customers or users. One way to think of it is in terms of a survey or opinion poll. Aggregate information would tell you that 80 percent of the people voted for a candidate, but not who actually voted. These groups are large enough to reasonably prevent individuals from being identified.
+**Aggregate Information:** We combine individual information into anonymous groups of customers or users. One way to think of it is in terms of a survey or opinion poll. Aggregate information would tell you that 80 percent of the people voted for a candidate, but not who actually voted. These groups are large enough to reasonably prevent individuals from being identified.
 
 ' + '
 
 **Anonymous Information:** Information that doesn't directly identify and can't reasonably be used to identify an individual customer or user.
+
+' + '
+
+**AT&T:** Throughout this Policy, references to “AT&T,” “we,” “us,” and “our” include the family of AT&T companies around the world except affiliates who have a separate privacy policy.
 
 ' + '
 
@@ -198,7 +231,7 @@ We understand that everyone thinks that privacy policies are long, complicated a
 
 ' + '
 
-**Relevant Advertising:** Uses aggregate information about groups of people (like age, ethnicity, income range, where those groups live and work, and their interests) to develop advertising that is more likely to be useful to that group. It does not use individual data about what a specific person might like. "Online behavioral advertising" is one type of relevant advertising. It uses interest categories based on the websites visited by groups of people to deliver advertising online.
+**Relevant Advertising:** Creates aggregate audience segments based on non-personally identifiable information about customers (like age, ethnicity, income range, a particular geographic area, and their interests) to serve advertising that is more likely to be useful to those audience segments. "Online behavioral advertising" is one type of Relevant Advertising. It uses interest categories based on the websites visited by people who are not personally identified to deliver advertising online.
 
 ' + '
 
@@ -210,43 +243,60 @@ We understand that everyone thinks that privacy policies are long, complicated a
 
 ' + '**QUESTIONS ABOUT THE SCOPE OF THIS POLICY**' + '
 
-' + '1.  What does this Policy cover?
+' + '1.  To whom does the Policy apply?
+    
+    ' + '
+    
+      
+    This Privacy Policy applies to customers and users of AT&T products and services, except customers and users of products or services provided by an affiliate with a different privacy policy.
+    
+' + '2.  What does this Policy cover?
     
     ' + '
     
       
     This Privacy Policy covers our practices regarding the information we collect about our customers and users (how we collect it and how we use it). Use of our products and services, as well as visits to our websites, are subject to this Privacy Policy.
     
-' + '2.  Do you have any Privacy Policies other than this one?
+' + '3.  Do you have any Privacy Policies other than this one?
     
     ' + '
     
       
-    Yes. Companies that do not operate under our brand, or certain co-branded services, may have separate privacy policies
+    Yes. Some AT&T affiliates may have separate privacy policies that describe how they collect, use and share information they collect from their customers and users. When we share Personal Information with those affiliates we require them to protect it in a way consistent with this Privacy Policy.
     
     ' + '
     
       
-    Some areas outside the United States require us to work a little differently. In that case, AT&T may adopt separate privacy policies as necessary to reflect the requirements of applicable local laws. Satellite TV subscribers in certain U.S. Territories also may have separate privacy policies.
+    Additionally, some of our applications may have terms and conditions that describe other privacy commitments or choices in addition to those in this Privacy Policy.
+    
+    ' + '
+    
+      
+    Some areas outside the United States require us to work a little differently. In that case, we may adopt separate privacy policies as necessary to reflect the requirements of applicable local laws. Satellite TV subscribers in certain U.S. Territories also may have separate privacy policies.
     
     ' + '
     
       
     The Joint AT&T EchoStar Privacy Policy for AT&T|DISH Network Customer Account Information remains in effect for AT&T|DISH subscribers.
     
-' + '3.  What about my family members and other users of my AT&T account? Does this Policy apply to them?
+' + '4.  What about my family members and other users of my AT&T account? Does this Policy apply to them?
     
     ' + '
     
       
     Yes. You're responsible for making sure all family members or other users under your account understand and agree to this Policy. Get everyone together and talk about it. Or, send it by e-mail to make sure they're on board. Hang it on the fridge. Up to you, just share it!
     
-' + '4.  When is information not covered by this Policy?
+' + '5.  When is information not covered by this Policy?
     
     ' + '
     
       
-    Any time you give information to companies other than AT&T. Some examples are:
+    If you purchase or use the products or services of an AT&T affiliate that has a different privacy policy than this one, that privacy policy will apply.
+    
+    ' + '
+    
+      
+    Additionally, this Privacy Policy does not apply any time you give information to companies other than AT&T. Some examples are:
     
     ' + '
     ' + '  
@@ -260,12 +310,12 @@ We understand that everyone thinks that privacy policies are long, complicated a
         
     ' + '*   Information about your location, usage and the numbers you dial when you're out and about and roaming on the network of another company;
         
-    ' + '*   When you purchase or use non-AT&T products (such as wireless devices, internet browsers and mobile applications) in combination with AT&T services;
+    ' + '*   When you purchase or use non-AT&T products (such as wireless devices, internet browsers and mobile applications) in combination with our services;
         
     ' + '*   When we license our brand to other companies for their use in marketing and selling certain non-AT&T products and services, information you give those companies is not covered by this Policy.
         
     ' + '' + '
-5.  Can my information be covered by this policy and other privacy policies at the same time?
+6.  Can my information be covered by this Policy and other privacy policies at the same time?
     
     ' + '
     
@@ -274,7 +324,7 @@ We understand that everyone thinks that privacy policies are long, complicated a
     
     ' + '
     
-    Sometimes we will provide a service with other companies. In that case your information may be subject to this Policy and that of the other companies. For example, if you use AT&T High Speed Internet services "powered by" Yahoo! Inc., your information may be covered by both this Policy and the Yahoo! Privacy Policy.
+    Sometimes we will work with other, unaffiliated companies to provide a service. In that case your information may be subject to this Policy and that of the other company. For example, if you use AT&T High Speed Internet services "powered by" Yahoo! Inc., your information may be covered by both this Policy and the Yahoo! Privacy Policy.
     
     ' + '
     
@@ -284,25 +334,25 @@ We understand that everyone thinks that privacy policies are long, complicated a
     ' + '
     
       
-    If you connect to our Wi-Fi service through another network, such as one provided in a hotel, airport or other venue, any information collected from your use of that network could be subject to either the AT&T policy or the venue policy, and sometimes both. The same thing applies if you connect to our network through your employer's corporate network, or any network operated by a non-AT&T company.
+    If you connect to our Wi-Fi service through another network, such as one provided in a hotel, airport or other venue, any information collected from your use of that network could be subject to either the AT&T Privacy Policy or the venue policy, and sometimes both. The same thing applies if you connect to our network through your employer's corporate network, or any network operated by a non-AT&T company.
     
     ' + '
     
       
     We think it's a great idea to take a look at the privacy policies of any companies you do business with to learn how they use your information.
     
-' + '6.  What about business customers?
+' + '7.  What about business customers?
     
     ' + '
     
       
-    We may have written product or service agreements with our business customers that contain specific provisions about confidentiality, security or handling of information. When one of these agreements differs from or conflicts with this Policy, the terms of those agreements will apply. This Policy does not apply to commercial satellite TV customers. In all other instances, the terms of this Policy apply.
+    We may have written product or service agreements with our business customers that contain specific provisions about confidentiality, security or handling of information. When one of these agreements differs from or conflicts with this Policy, the terms of those agreements will apply. In all other instances, the terms of this Policy apply.
     
 ' + '
 
 ' + '**QUESTIONS ABOUT THE INFORMATION WE COLLECT, HOW WE COLLECT IT AND HOW WE USE IT**' + '
 
-' + '1.  What information do we collect?
+' + '1.  What information do you collect?
     
     ' + '
     
@@ -322,7 +372,7 @@ We understand that everyone thinks that privacy policies are long, complicated a
     ' + '*   **Technical &. Usage Information** related to the services we provide to you, including information about how you use our networks, services, products or websites. Some examples include:
         
         ' + '
-        ' + '*   **Equipment Information** that identifies the equipment on our networks, such as equipment type, device IDs, device status, serial numbers, settings, configuration and software.
+        ' + '*   **Equipment Information** that identifies the equipment on our networks, such as equipment type, device identifiers, device status, serial numbers, settings, configuration and software.
             
         ' + '*   **Network Performance &. Usage Information** about the operation of the equipment, services and applications you use on our networks. Examples of this might include wireless device location, the number of text messages sent and received, voice minutes used, calling and texting records, bandwidth used, and resources you use when uploading, downloading or streaming data to and from the Internet. We also collect information like transmission rates and delays, data associated with remote monitoring services and security characteristics.
             
@@ -337,7 +387,7 @@ We understand that everyone thinks that privacy policies are long, complicated a
         ' + '
     ' + '*   **Location Information** includes your ZIP-code and street address, as well as the whereabouts of your wireless device. Location information is generated when your device communicates with cell towers, Wi-Fi routers or access points and/or with other technologies, including the satellites that comprise the Global Positioning System.
         
-    ' + '*   **TV Viewing Information** is generated by your use of any of our satellite or IPTV (U-verse) services. These services may include video on demand, pay per view, DVR services, applications to watch your TV on the go for tablet or smartphone (such as the TV Everywhere app) and similar AT&T services and products, including the programs and channels you and those in your household watch and record, the times you watch and how long you watch. It also includes information like the interactive channels and games provided by U-verse or DirectTV. We also collect information related to your use and interaction with the equipment in your home, including the TV receivers, set top boxes, remotes and other devices you may use to access our services.
+    ' + '*   **TV Viewing Information** is generated by your use of any of our satellite or IPTV (U-verse) services. These services may include video on demand, pay per view, DVR services, applications to watch your TV on the go for tablet or smartphone (such as the TV Everywhere app) and similar AT&T services and products, including the programs and channels you and those in your household watch and record, the times you watch and how long you watch. It also includes information like the interactive channels and games provided by U-verse or DIRECTV. We also collect information related to your use and interaction with the equipment in your home, including the TV receivers, set top boxes, remotes and other devices you may use to access our services.
         
     ' + '
 ' + '2.  How Do You Collect Information?
@@ -351,12 +401,12 @@ We understand that everyone thinks that privacy policies are long, complicated a
     ' + '
     ' + '*   **You Give It To Us** when you make a purchase or set up an account with us.
         
-    ' + '*   **We Automatically Collect Information** when you use our networks, products and services. For example, we use network tools to collect your call records. we collect wireless device location from our network and from your device. and we also use cookies, web server logs and other technologies.
+    ' + '*   **We Automatically Collect Information** when you use our networks, products and services. For example, we use network tools to collect your call records. we collect wireless device location from our networks and from your device. and we also use cookies, web server logs and other technologies.
         
     ' + '*   **We Obtain Information from Outside Sources** like credit reports, marketing mailing lists, and commercially available geographic and demographic information along with other publicly available information, such as public posts to social networking sites.
         
     ' + '
-' + '3.  How Do You Use My Information?  
+' + '3.  How Do You Use This Information?  
      
     
     ' + '
@@ -410,7 +460,7 @@ We understand that everyone thinks that privacy policies are long, complicated a
     ' + '
     
       
-    Yes, We also provide wireline and wireless calling name and number information for CallerID, and related services like Call Trace, which allow a person receiving a call to obtain the name and number of the party calling them.
+    Yes, we also provide wireline and wireless calling name and number information for CallerID, and related services like Call Trace, which allow a person receiving a call to obtain the name and number of the party calling them.
     
     ' + '
     
@@ -422,33 +472,37 @@ We understand that everyone thinks that privacy policies are long, complicated a
     ' + '
     
       
-    Yes. Our products and services are developed, managed, marketed and sold by a variety of AT&T companies. Sharing this information helps us offer you the high quality, seamless and innovative range of products you have come to expect from us. Some of these include:  
+    Yes. Our products and services are developed, managed, marketed and sold by a variety of our affiliated companies. We may share Personal Information internally, including with our affiliated companies that have a different privacy policy. When we share information with affiliates having a different privacy policy, we require them to protect it in a way consistent with this Privacy Policy. Sharing this information helps us offer you the high quality, seamless and innovative range of products you have come to expect from us. Some of these include:  
      
     
     ' + '
     
     ' + '*   Wireless voice, data, Internet, home security, automation and remote monitoring services provided by AT&T Mobility and AT&T Digital Life; and
         
-    ' + '*   The suite of satellite and IPTV services, Voice and High Speed Internet Access services offered by AT&T companies.
+    ' + '*   ' + '
         
+        The suite of satellite and IPTV services, Voice and High Speed Internet Access services offered by our companies.
+        
+    ' + '
+    
     ' + '
     
     If one of our subsidiaries does not operate under the AT&T brand, information sharing with that subsidiary is handled as though it is a non-AT&T company.
     
-' + '3.  Do you share my Personal Information with other companies for them to market to me?
+' + '3.  Do you share my Personal Information with other non-AT&T companies for them to market to me?
     
     ' + '
     
       
-    We will only share your Personal Information with other companies for them to use for the marketing of their own products and services when we have your consent.
+    We will only share your Personal Information with other non-AT&T companies for them to use for the marketing of their own products and services when we have your consent.
     
     ' + '
-4.  Are there any other times when you might provide my Personal Information to other companies or entities?
+4.  Are there any other times when you might provide my Personal Information to other non-AT&T companies or entities?
     
     ' + '
     
       
-    Yes. We share your Personal Information with companies that perform services for us, like processing your bill. Because we take our responsibility to safeguard your Personal Information seriously, we do not allow those companies to use it for any purpose other than to perform those services, and we require them to protect it in a way consistent with this Policy.
+    Yes. We share your Personal Information with other, non-AT&T companies that perform services for us, like processing your bill. Because we take our responsibility to safeguard your Personal Information seriously, we do not allow those companies to use it for any purpose other than to perform those services, and we require them to protect it in a way consistent with this Privacy Policy.
     
     ' + '
     
@@ -458,7 +512,7 @@ We understand that everyone thinks that privacy policies are long, complicated a
     ' + '
     
       
-    There are also occasions when we provide Personal Information to other companies or other entities, such as government agencies, credit bureaus and collection agencies, without your consent. Some examples include sharing to:  
+    There are also occasions when we provide Personal Information to other non-AT&T companies or other entities, such as government agencies, credit bureaus and collection agencies, without your consent. Some examples include sharing to:  
      
     
     ' + '
@@ -466,7 +520,7 @@ We understand that everyone thinks that privacy policies are long, complicated a
         
     ' + '*   Obtain payment or make refunds for products and services that appear on your AT&T billing statements, including the transfer or sale of delinquent accounts or refund obligations to third parties for collection or payment;
         
-    ' + '*   Enforce our agreements and protect our rights or property,
+    ' + '*   Enforce our agreements and protect our rights or property;
         
     ' + '*   Assist with identity verification and e-mail address validation.
         
@@ -474,12 +528,12 @@ We understand that everyone thinks that privacy policies are long, complicated a
         
     ' + '*   Notify the National Center for Missing and Exploited Children of information concerning child pornography of which we become aware through the provision of our services.
         
-' + '5.  Do you share my personally identifiable TV Viewing Information with other companies?
+' + '5.  Do you share my personally identifiable TV Viewing Information with other, non-AT&T companies?
     
     ' + '
     
       
-    We don't share your personally identifiable TV Viewing Information with other companies for them to use for the marketing of their own products and services without your consent. We are required to notify you about the special requirements we must follow when it comes to sharing your personally identifiable TV Viewing Information in response to a Court Order:
+    We don't share your personally identifiable TV Viewing Information with other non-AT&T companies for them to use for the marketing of their own products and services without your consent. We are required to notify you about the special requirements we must follow when it comes to sharing your personally identifiable TV Viewing Information in response to a Court Order:
     
     ' + '
     
@@ -487,9 +541,9 @@ We understand that everyone thinks that privacy policies are long, complicated a
      
     
     ' + '
-    ' + '*   In the case of a court order obtained by a non-governmental entity, AT&T is authorized to disclose personally identifiable information collected from TV subscribers as a result of the subscriber's use of TV service only after providing prior notice to the subscriber.
+    ' + '*   In the case of a court order obtained by a non-governmental entity, we are authorized to disclose personally identifiable information collected from TV subscribers as a result of the subscriber's use of TV service only after providing prior notice to the subscriber.
         
-    ' + '*   In the case of a court order obtained by a governmental entity, AT&T is authorized to disclose personally identifiable information collected from TV subscribers as a result of the subscriber's use of TV service only if, in the court proceeding relevant to the order:  
+    ' + '*   In the case of a court order obtained by a governmental entity, we are authorized to disclose personally identifiable information collected from TV subscribers as a result of the subscriber's use of TV service only if, in the court proceeding relevant to the order:  
          
         
         ' + '
@@ -509,36 +563,36 @@ We understand that everyone thinks that privacy policies are long, complicated a
     ' + '
     
       
-    Yes. We may use information like the preferences you have expressed and interests you have demonstrated on our websites, in our stores and through use of our products and services, to provide you with marketing information and advertisements for AT&T products and services. Those ads may be delivered on our websites and mobile applications. This is called "first party" advertising. It is part of our service relationship and you are not able to opt-out from this type of advertising.
+    Yes. We may use information like the preferences you have expressed and interests you have demonstrated on our websites, in our stores and through use of our products and services, to provide you with marketing information and advertisements for our products and services. Those ads may be delivered on our websites and mobile applications. This is called "first party" advertising. It is part of our service relationship and you are not able to opt-out from this type of advertising.
     
     ' + '
     
       
-    We or our advertising partners may also use anonymous information gathered through cookies and similar technologies, as well as other anonymous and aggregate information that either of us may have to help us tailor the ads you see on non-AT&T sites. For example, if you see an ad from us on a non-AT&T sports-related website, you may later receive an ad for sporting equipment delivered by us on a different website. This is called "online behavioral advertising," which is a type of Relevant Advertising.
+    We or our advertising partners may use anonymous information gathered through cookies and similar technologies, as well as other anonymous and aggregate information that either of us may have to help us tailor the ads you see on non-AT&T sites. For example, if you see an ad from us on a non-AT&T sports-related website, you may later receive an ad for sporting equipment delivered by us on a different website. This is called Online Behavioral Advertising, which is a type of Relevant Advertising.
     
 ' + '2.  Do you use my information for other types of Relevant Advertising?
     
     ' + '
     
       
-    Yes. We may also use information we get through your use of our products and services, from our advertising partners, and information like your age and gender to deliver Relevant Advertising that is not online behavioral advertising. We combine your anonymous information with that of other users into aggregate "audience segments." These segments are based on particular interests and/or factual characteristics that everyone in that audience segment is likely to share. We might use that information to send you advertisements that are relevant to those interests or characteristics.
+    Yes. We may also use information we get through your use of our products and services, from our advertising partners, and information like your age and gender to deliver Relevant Advertising that is not Online Behavioral Advertising. We combine your anonymous information with that of other users into aggregate "audience segments". These segments are based on particular interests and/or factual characteristics that everyone in that audience segment is likely to share. We might use that information to send you advertisements that are relevant to those interests or characteristics.
     
     ' + '
     
       
-    We are careful to create Relevant Advertising with aggregate audience segments that are large enough that you can't be identified individually.
+    We are careful to only use non-personally identifiable information to create Relevant Advertising with aggregate audience segments that are large enough that you can't be identified individually.
     
 ' + '3.  Do you use the location of my device for advertising purposes?
     
     ' + '
     
       
-    Yes. AT&T uses information about the locations you visit in order to create combined wireless location interest characteristics that can be used to provide Relevant Advertising to you and others like you.
+    Yes. We use information about the locations you visit in order to create combined wireless location interest characteristics that can be used to provide Relevant Advertising to you and others like you.
     
     ' + '
     
       
-    Location characteristics are types of locations - like "movie theaters." People who live in a particular geographic area (a city, ZIP-code or ZIP+ 4 code, for example) might appear to have a high interest in movies, thanks to collective information that shows wireless devices from that area are often located in the vicinity of movie theaters. We might create a "movies characteristic" for that area, and deliver movie ads to the people who live there.
+    Location characteristics are types of locations - like "movie theaters". People who live in a particular geographic area (a city, ZIP-code or ZIP+ 4 code, for example) might appear to have a high interest in movies, thanks to collective information that shows wireless devices from that area are often located in the vicinity of movie theaters. We might create a "movies characteristic" for that area, and deliver movie ads to the people who live there.
     
     ' + '
     
@@ -579,14 +633,14 @@ We understand that everyone thinks that privacy policies are long, complicated a
     ' + '
     
       
-    When we add new offers like AT&T Internet Preferences we'll let you know, so you can decide if you'd like to participate. For example, we may offer you free or discounted services in exchange for the use of your Personal Information for advertising and other similar purposes. We promise, before we use any of your Personal Information (including information we gather as an Internet service provider) for such purposes, we will always give you the opportunity to make an informed choice about whether to participate
+    When we add new offers like Internet Preferences we'll let you know, so you can decide if you'd like to participate. For example, we may offer you free or discounted services in exchange for the use of your Personal Information for advertising and other similar purposes. We promise, before we use any of your Personal Information (including information we gather as an Internet service provider) for such purposes, we will always give you the opportunity to make an informed choice about whether to participate
     
 ' + '7.  What information do you provide to advertisers?
     
     ' + '
     
       
-    AT&T may provide reports to advertisers and other business customers about the success of its advertising campaigns. Those reports contain aggregate information about the number of times a particular ad was viewed, when it was viewed, whether it was viewed on a TV, a mobile device or a computer, demographics associated with the viewing audience and other similar information. Your anonymous information will not be included in aggregate reports about the success of Relevant Advertising campaigns if you have opted-out of Relevant Advertising delivered by AT&T.
+    We may provide reports to advertisers and other business customers about the success of its advertising campaigns. Those reports contain aggregate information about the number of times a particular ad was viewed, when it was viewed, whether it was viewed on a TV, a mobile device or a computer, demographics associated with the viewing audience and other similar information. Your anonymous information will not be included in aggregate reports about the success of Relevant Advertising campaigns if you have opted-out of Relevant Advertising delivered by AT&T.
     
 ' + '
 
@@ -610,11 +664,11 @@ We understand that everyone thinks that privacy policies are long, complicated a
     ' + '
     ' + '*   **We Provide Wireless Voice and Data Services**: We monitor, collect and use wireless location information, together with other information we get from our network and your wireless device, to maintain and improve our network. We also might use location information with your consent to provide you with a customized experience. For example, when you dial 411 Directory Assistance for a business telephone number, we might use your wireless location information to return the number of the business location closest to you.
         
-    ' + '*   **Location Based Services (LBS):** Your device can be used to access a ton of services based on location. We offer these services via applications that have been pre-loaded or downloaded by you on your device. LBS also may be provided via text message or other functionality. We’ll give you prior notice and ask for your consent when your location is used or shared. The form of consent may vary, but will be appropriate for the type of AT&T LBS you use.
+    ' + '*   **Location Based Services (LBS):** Your device can be used to access a ton of services based on location. We offer these services via applications that have been pre-loaded or downloaded by you on your device. LBS also may be provided via text message or other functionality. We’ll give you prior notice and ask for your consent when your location is used or shared. The form of consent may vary, but will be appropriate for the type of LBS you use.
         
     ' + '*   **LBS from other providers**: With your consent (to us or the other company) we also may enable LBS from other companies by providing location information to their developers or location service providers.
         
-    ' + '*   We use it for Advertising.
+    ' + '*   We use it for Advertising
         
 ' + '3.  How accurate is wireless location information?
     
@@ -637,7 +691,7 @@ We understand that everyone thinks that privacy policies are long, complicated a
     
     ' + '
     
-    We urge you to review Policies of all providers.
+    We urge you to review policies of all providers.
     
 ' + '
 
@@ -779,7 +833,7 @@ We understand that everyone thinks that privacy policies are long, complicated a
     
     ' + '*   With your permission we collect your child’s name, nicknames and aliases, alternative e-mail address, birth date, gender and ZIP-code.
         
-    ' + '*   We use the information collected on sub-accounts to create and maintain those accounts, for research, to customize the advertising and content seen on our pages and for other marketing purposes. Your child can use their AT&T e-mail address and password to log onto websites and online services provided by us, like uverse.com. We and our advertising partners may collect and use information about customers who log onto those sites as described in the "Questions about the Information We Collect, How we Collect It and How We Use It" section of this Privacy Policy. A list of the advertising partners who collect information on our sites and the ability to opt-out of advertising provided by those partners is available here
+    ' + '*   We use the information collected on sub-accounts to create and maintain those accounts, for research, to customize the advertising and content seen on our pages and for other marketing purposes. Your child can use their AT&T e-mail address and password to log onto websites and online services provided by us, like uverse.com. We and our advertising partners may collect and use information about customers who log onto those sites as described in the "Questions about the Information We Collect, How we Collect It and How We Use It" section of this Privacy Policy. A list of the advertising partners who collect information on our sites and the ability to opt-out of advertising provided by those partners is available here.
         
     ' + '*   We will not contact a child under the age of 13 about special offers or for marketing purposes without parental consent.
         
@@ -825,7 +879,7 @@ We understand that everyone thinks that privacy policies are long, complicated a
         
           
         ' + '
-        ' + '*   Maintaining and protecting the security of computer storage and network equipment, and our security procedures require employee user names and passwords to access sensitive data;
+        ' + '*   Maintaining and protecting the security of computer storage and network equipment, and using our security procedures that require employee user names and passwords to access sensitive data;
             
         ' + '*   Applying encryption or other appropriate security controls to protect Personal Information when stored or transmitted by us;
             
@@ -879,7 +933,7 @@ We understand that everyone thinks that privacy policies are long, complicated a
     ' + '
     
       
-    We may update this Privacy Policy as necessary to reflect changes we make and to satisfy legal requirements. We will post a prominent notice of the change on our websites. We will provide you with other appropriate notice of important changes at least 30 days before the effective date.
+    We may update this Privacy Policy as necessary to reflect changes we make and to satisfy legal requirements. We will post a prominent notice of material changes on our websites. We will provide you with other appropriate notice of important changes at least 30 days before the effective date.
     
 ' + '
 
@@ -909,7 +963,7 @@ We understand that everyone thinks that privacy policies are long, complicated a
       
     Because first party advertising is part of the service you receive when you visit our websites and use our mobile applications, we don't offer an opt-out for first party advertising.
     
-' + '3.  You can also choose not to receive other types of marketing from AT&T.
+' + '3.  Can I choose not to receive other types of marketing from AT&T?
     
     ' + '
     
@@ -934,12 +988,12 @@ We understand that everyone thinks that privacy policies are long, complicated a
     ' + '
     
       
-    **AT&T Business Telemarketing:** Where required by state laws and/or regulations, we honor requests to be removed from our telemarketing lists from business customers.
+    **AT&T Business Telemarketing:** Where required by local laws and/or regulations, we honor requests to be removed from our telemarketing lists from business customers.
     
     ' + '
     
       
-    **Federal Do Not Call:** The FTC maintains a National Do Not Call Registry at donotcall.gov, and your state may maintain its own Do Not Call Registry. Putting your number on these Registries also may limit our AT&T telemarketing calls to that number.
+    **Federal Do Not Call:** The FTC maintains a National Do Not Call Registry at donotcall.gov, and some states in the United States may maintain its own Do Not Call Registry. Putting your number on these Registries also may limit our AT&T telemarketing calls to that number.
     
     ' + '
     
@@ -949,7 +1003,7 @@ We understand that everyone thinks that privacy policies are long, complicated a
     ' + '
     
       
-    All of our practices are designed to satisfy state and federal legal requirements limiting marketing contacts. Those laws and regulations - such as the requirements governing the state and federal "Do Not Call" lists - generally permit companies to contact their own current and, in some cases, former customers, even when those customers are listed on the federal and state "Do Not Call" lists.
+    All of our practices are designed to satisfy state, provincial and federal legal requirements limiting marketing contacts. Those laws and regulations - such as the requirements governing the state and federal "Do Not Call" lists - generally permit companies to contact their own current and, in some cases, former customers, even when those customers are listed on the federal and state "Do Not Call" lists.
     
     ' + '
     
@@ -991,7 +1045,7 @@ We understand that everyone thinks that privacy policies are long, complicated a
         
     ' + '*   Write to us at AT&T Privacy Policy, Chief Privacy Office, 208 S. Akard, Room 1033, Dallas, TX 75202.
         
-' + '*   For questions not related to privacy click on the "Contact Us" link at the upper right hand corner of this page. You also can access your online account from the upper right hand corner of our home page at att.com for additional service options.
+' + '*   For questions not related to privacy click on the "Contact Us" link at the bottom of any att.com page. You also can access your online account from the upper right hand corner of our home page at att.com for additional service options.
     
 ' + '*   If you do not receive acknowledgment of your privacy inquiry or your inquiry is not addressed to your satisfaction, you may contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process. TRUSTe will serve as a liaison to resolve your concerns.
     
@@ -1005,7 +1059,7 @@ We understand that everyone thinks that privacy policies are long, complicated a
 
 “CPNI” is information about your phone service from us. Your phone service could be a cell phone or any sort of home or business phone. The “information” is things like what kind of services you have, how you use them, or billing information. (Your telephone number, name and address are not considered CPNI.)
 
-' + 'Use and Disclosure of CPNI' + '
+' + 'How is CPNI Used and Disclosed?' + '
 
 We do not sell, trade or share your CPNI with anyone outside of the AT&T family of companies\* or our authorized agents, unless required by law (example: a court order).
 
@@ -1013,7 +1067,7 @@ We do not sell, trade or share your CPNI with anyone outside of the AT&T family 
 
 We do use your CPNI internally, however. We may share information about our customers among the AT&T companies and our agents in order to offer you new or enhanced services. For example, we might offer a discount or promotion for Internet or TV services based on your CPNI.
 
-' + 'Restricting our use of your CPNI' + '
+' + 'How may I limit the use of my CPNI?' + '
 
 AT&T uses technology and security features, and strict policy guidelines with ourselves and our agents, to safeguard the privacy of CPNI. It is your right and our duty under federal law to protect the confidentiality of your CPNI.
 
@@ -1023,19 +1077,11 @@ If you don’t want AT&T to use your CPNI internally for things like offers, her
 
 ' + '
 
-•  You can “opt out” online, at att.com/ecpnioptout, or
-
+' + '*   You can “opt out” online, at att.com/ecpnioptout, or
+' + '*   You can call 800.315.8303, any time of day, and follow the prompts, or
+' + '*   You can speak to a service representative at 800.288.2020 (consumer) or 800.321.2000 (business).
+' + '*   For languages other than English and Spanish, please visit world.att.com.
 ' + '
-
-•  You can call 800.315.8303, any time of day, and follow the prompts, or
-
-' + '
-
-•  You can speak to a service representative at 800.288.2020 (consumer) or 800.321.2000 (business).
-
-' + '
-
-•  For languages other than English and Spanish, please visit world.att.com.
 
 ' + '
 
@@ -1047,7 +1093,47 @@ If you choose to restrict our use of your CPNI, it won’t affect any of your se
 
 ' + ' ' + '
 
-'). } function renderDNM() { document.write('
+' + '
+
+**Customer Service Contact Numbers**
+
+' + '
+
+**Wireless** - 1-800-331-0500
+
+' + '
+
+**Business** - 1-800-321-2000
+
+' + '
+
+**Residential** - 1-800-288-2020
+
+' + '
+
+**Spanish Language** - 1-800-870-5855
+
+' + '
+
+**Satellite TV Services** - 1-800-DIRECTV or 1-800-531-5000
+
+' + '
+
+For assistance in other languages, please visit world.att.com.
+
+' + '
+
+**Legacy AT&T Consumer** - 1-800-222-0300
+
+' + '
+
+**Customers of the following AT&T family of companies may contact us directly using the following:**
+
+' + '
+
+**AT&T Internet Services** - Customers can manage newsletter subscriptions or other e-mail communications from Yahoo! by modifying their AT&T Yahoo! Marketing Preferences.
+
+' ). } function renderDNM() { document.write('
 
 AT&T will maintain a company-specific (Internal) Do Not Mail (DNM) list of existing and prospective residential customers who request not to receive any AT&T marketing materials via US Postal Mail.' + '
 
