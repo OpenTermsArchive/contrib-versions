@@ -8,39 +8,45 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Want to renew
+    *   by cjc2
+    *   7 hours ago
+    *   in Miscellaenous
+    *   0 votes
+    *   0
 *   Old Account
     *   by milkcartonss
-    *   3 days ago
+    *   4 days ago
     *   in Personal URLs
     *   0 votes
     *   0
 *   file size limit??
     *   by JosephShen2004
-    *   4 days ago
+    *   5 days ago
     *   in Pictures
     *   0 votes
     *   0
 *   Membership expired in 2029??
     *   by JosephShen2004
-    *   4 days ago
+    *   5 days ago
     *   in Premium
     *   0 votes
     *   0
 *   I have been using Xanga since high school
     *   by bobo\_luv\_keita
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Access to old blog posts
     *   by monkeyal353
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Blog
     *   by YouSawALight
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -64,7 +70,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Need help to retrieve my old xanga
     *   by Manaho
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -76,13 +82,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Archives thread
     *   by LyKGeTnutz
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Accessing Archives of the Deceased
     *   by SpirishHildabrand
-    *   4 weeks ago
+    *   1 month ago
     *   in Miscellaenous
     *   0 votes
     *   0
@@ -90,12 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by sandboxmagician
     *   1 month ago
     *   in Data Migration
-    *   0 votes
-    *   0
-*   Dead Email Lost Password, Any Hope?
-    *   by history\_is\_my\_thang
-    *   1 month ago
-    *   in Passwords &. Sign-In
     *   0 votes
     *   0
 
