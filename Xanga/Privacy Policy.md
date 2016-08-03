@@ -8,45 +8,51 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   wheres my entries from before??!!! its all gone!!!
+    *   by Sutyee
+    *   17 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Want to renew
     *   by cjc2
-    *   7 hours ago
+    *   2 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Old Account
     *   by milkcartonss
-    *   4 days ago
+    *   6 days ago
     *   in Personal URLs
     *   0 votes
     *   0
 *   file size limit??
     *   by JosephShen2004
-    *   5 days ago
+    *   1 week ago
     *   in Pictures
     *   0 votes
     *   0
 *   Membership expired in 2029??
     *   by JosephShen2004
-    *   5 days ago
+    *   1 week ago
     *   in Premium
     *   0 votes
     *   0
 *   I have been using Xanga since high school
     *   by bobo\_luv\_keita
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Access to old blog posts
     *   by monkeyal353
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Blog
     *   by YouSawALight
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -64,7 +70,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Retrieving old account
     *   by Gambit\_Made
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -92,14 +98,8 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Miscellaenous
     *   0 votes
     *   0
-*   old posts are missing
-    *   by sandboxmagician
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
-1 2 3 ... 174 Next
+1 2 3 ... 175 Next
 
 Help Categories
 
