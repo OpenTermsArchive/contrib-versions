@@ -10,19 +10,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   wheres my entries from before??!!! its all gone!!!
     *   by Sutyee
-    *   17 hours ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Want to renew
     *   by cjc2
-    *   2 days ago
+    *   4 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Old Account
     *   by milkcartonss
-    *   6 days ago
+    *   1 week ago
     *   in Personal URLs
     *   0 votes
     *   0
@@ -58,13 +58,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Where is the Archive
     *   by everythingfallstogether
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Themes
     *   0 votes
     *   0
 *   Help find old blog
     *   by Ay\_Enem
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
