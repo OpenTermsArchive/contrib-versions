@@ -77,7 +77,7 @@ Mortgages
 *   Resources
     *   *   Lender directory
         *   Mortgage learning center
-        *   Mortgages app
+        *   Lender resource center
 
 Agent finder
 
