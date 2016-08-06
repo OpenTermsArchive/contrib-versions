@@ -8,15 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   wheres my entries from before??!!! its all gone!!!
-    *   by Sutyee
-    *   2 days ago
+*   Can I get my blog back?
+    *   by sum\_0912
+    *   10 months ago
     *   in Data Migration
     *   0 votes
-    *   0
+    *   2 (last comment by dumbellChang 16 hours ago)
+*   wheres my entries from before??!!! its all gone!!!
+    *   by Sutyee
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by Ryoushi010 22 hours ago)
 *   Want to renew
     *   by cjc2
-    *   4 days ago
+    *   5 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
@@ -90,12 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by LyKGeTnutz
     *   1 month ago
     *   in Data Migration
-    *   0 votes
-    *   0
-*   Accessing Archives of the Deceased
-    *   by SpirishHildabrand
-    *   1 month ago
-    *   in Miscellaenous
     *   0 votes
     *   0
 
