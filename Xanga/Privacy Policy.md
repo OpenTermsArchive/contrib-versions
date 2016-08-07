@@ -13,16 +13,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   10 months ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by dumbellChang 16 hours ago)
+    *   2 (last comment by dumbellChang 1 day ago)
 *   wheres my entries from before??!!! its all gone!!!
     *   by Sutyee
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Ryoushi010 22 hours ago)
+    *   1 (last comment by Ryoushi010 1 day ago)
 *   Want to renew
     *   by cjc2
-    *   5 days ago
+    *   6 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
@@ -88,7 +88,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   I want access to my sons page again
     *   by sheressence
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Miscellaenous
     *   0 votes
     *   0
