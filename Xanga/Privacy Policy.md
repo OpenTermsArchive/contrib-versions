@@ -8,18 +8,30 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   I Want to Delete My Account
+    *   by angel\_undercover\_x
+    *   5 hours ago
+    *   in Privacy
+    *   0 votes
+    *   0
+*   I Want to Delete My Account
+    *   by angel\_undercover\_x
+    *   5 hours ago
+    *   in Privacy
+    *   0 votes
+    *   0
 *   Can I get my blog back?
     *   by sum\_0912
     *   10 months ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by dumbellChang 2 days ago)
+    *   2 (last comment by dumbellChang 3 days ago)
 *   wheres my entries from before??!!! its all gone!!!
     *   by Sutyee
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Ryoushi010 2 days ago)
+    *   1 (last comment by Ryoushi010 3 days ago)
 *   Want to renew
     *   by cjc2
     *   1 week ago
@@ -46,19 +58,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   I have been using Xanga since high school
     *   by bobo\_luv\_keita
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Access to old blog posts
     *   by monkeyal353
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Blog
     *   by YouSawALight
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -83,18 +95,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 *   Need help to retrieve my old xanga
     *   by Manaho
     *   4 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   I want access to my sons page again
-    *   by sheressence
-    *   4 weeks ago
-    *   in Miscellaenous
-    *   0 votes
-    *   0
-*   Archives thread
-    *   by LyKGeTnutz
-    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
