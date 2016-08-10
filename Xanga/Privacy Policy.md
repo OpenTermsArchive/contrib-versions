@@ -8,15 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Old style Youtube.
+    *   by NarutoxhokagexFox
+    *   2 hours ago
+    *   in Premium
+    *   0 votes
+    *   0
 *   I Want to Delete My Account
     *   by angel\_undercover\_x
-    *   5 hours ago
+    *   1 day ago
     *   in Privacy
     *   0 votes
     *   0
 *   I Want to Delete My Account
     *   by angel\_undercover\_x
-    *   5 hours ago
+    *   1 day ago
     *   in Privacy
     *   0 votes
     *   0
@@ -25,13 +31,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   10 months ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by dumbellChang 3 days ago)
+    *   2 (last comment by dumbellChang 4 days ago)
 *   wheres my entries from before??!!! its all gone!!!
     *   by Sutyee
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Ryoushi010 3 days ago)
+    *   1 (last comment by Ryoushi010 4 days ago)
 *   Want to renew
     *   by cjc2
     *   1 week ago
@@ -46,13 +52,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   file size limit??
     *   by JosephShen2004
-    *   1 week ago
+    *   2 weeks ago
     *   in Pictures
     *   0 votes
     *   0
 *   Membership expired in 2029??
     *   by JosephShen2004
-    *   1 week ago
+    *   2 weeks ago
     *   in Premium
     *   0 votes
     *   0
@@ -88,12 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Retrieving old account
     *   by Gambit\_Made
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Need help to retrieve my old xanga
-    *   by Manaho
     *   4 weeks ago
     *   in Data Migration
     *   0 votes
