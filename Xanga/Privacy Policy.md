@@ -8,21 +8,27 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Old entries
+    *   by cAnTHaNdLemE09
+    *   2 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Old style Youtube.
     *   by NarutoxhokagexFox
-    *   2 days ago
+    *   3 days ago
     *   in Premium
     *   0 votes
     *   0
 *   I Want to Delete My Account
     *   by angel\_undercover\_x
-    *   3 days ago
+    *   4 days ago
     *   in Privacy
     *   0 votes
     *   0
 *   I Want to Delete My Account
     *   by angel\_undercover\_x
-    *   3 days ago
+    *   4 days ago
     *   in Privacy
     *   0 votes
     *   0
@@ -31,13 +37,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   10 months ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by dumbellChang 6 days ago)
+    *   2 (last comment by dumbellChang 1 week ago)
 *   wheres my entries from before??!!! its all gone!!!
     *   by Sutyee
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Ryoushi010 6 days ago)
+    *   1 (last comment by Ryoushi010 1 week ago)
 *   Want to renew
     *   by cjc2
     *   1 week ago
@@ -82,18 +88,12 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Where is the Archive
     *   by everythingfallstogether
-    *   4 weeks ago
+    *   1 month ago
     *   in Themes
     *   0 votes
     *   0
 *   Help find old blog
     *   by Ay\_Enem
-    *   4 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Retrieving old account
-    *   by Gambit\_Made
     *   1 month ago
     *   in Data Migration
     *   0 votes
