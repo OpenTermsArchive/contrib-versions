@@ -21,11 +21,12 @@ WIRELESS CUSTOMER AGREEMENT ("Agreement") Documents
 *   Other Charges Applicable to Wireless Services
 *   ►AT&T Next
 *   Privacy Notice for AT&T Next Installment Agreements
-*   U-verse®
-*   Internet &. Email
-*   Home Phone
-*   Digital Life®
 *   Business
+*   Digital Life®
+*   DIRECTV
+*   Home Phone
+*   Internet &. Email
+*   U-verse®
 
 Print
 
