@@ -10,25 +10,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Old entries
     *   by cAnTHaNdLemE09
-    *   2 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old style Youtube.
     *   by NarutoxhokagexFox
-    *   3 days ago
+    *   4 days ago
     *   in Premium
     *   0 votes
     *   0
 *   I Want to Delete My Account
     *   by angel\_undercover\_x
-    *   4 days ago
+    *   5 days ago
     *   in Privacy
     *   0 votes
     *   0
 *   I Want to Delete My Account
     *   by angel\_undercover\_x
-    *   4 days ago
+    *   5 days ago
     *   in Privacy
     *   0 votes
     *   0
