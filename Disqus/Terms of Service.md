@@ -141,4 +141,6 @@ Other
 
 **General**. Disqus and you are independent entities, and nothing in the Terms, or via use of the Services, will create any partnership, joint venture, agency, franchise, sales representative, or employment relationship between Disqus and you. These Terms supersede any previous Terms of Service and represent the entire agreement between Disqus and you. If any provision of the Terms is adjudged to be illegal or unenforceable, the continuation in full force of the remainder of the Terms will not be prejudiced, and the illegal or unenforceable provision of the Terms shall be severed accordingly. No waiver of any term of these Terms shall be deemed a further or continuing waiver of such term or any other term, and Disqus’ failure to assert any right or provision under these Terms shall not constitute a waiver of such right or provision.
 
-These Terms were first published and made effective on August 27, 2012.
+These Terms were first published and made effective on August 27, 2012.  
+  
+If you are an federal agency, your use is governed by the Amendment found here.
