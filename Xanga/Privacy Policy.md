@@ -10,13 +10,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Old entries
     *   by cAnTHaNdLemE09
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old style Youtube.
     *   by NarutoxhokagexFox
-    *   6 days ago
+    *   1 week ago
     *   in Premium
     *   0 votes
     *   0
@@ -40,7 +40,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 (last comment by dumbellChang 1 week ago)
 *   wheres my entries from before??!!! its all gone!!!
     *   by Sutyee
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by Ryoushi010 1 week ago)
@@ -58,13 +58,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   file size limit??
     *   by JosephShen2004
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Pictures
     *   0 votes
     *   0
 *   Membership expired in 2029??
     *   by JosephShen2004
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Premium
     *   0 votes
     *   0
