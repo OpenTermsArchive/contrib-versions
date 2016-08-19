@@ -146,10 +146,11 @@ Helpful Links
 *   AetnaEducation.com
 *   Check Fee Schedules
 *   Check Precertification List
-*   Update Provider Demographic Data
-*   Online Provider Directory
 *   Online Medicare Directory
+*   Online Provider Directory
 *   Search Drug Formularies
+*   Update Pharmacy Demographic Data
+*   Update Provider Demographic Data
 
 *   Medical: Log In
 *   Medical: Register
