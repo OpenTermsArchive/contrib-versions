@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Old entries
     *   by cAnTHaNdLemE09
-    *   4 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -52,7 +52,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Old Account
     *   by milkcartonss
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Personal URLs
     *   0 votes
     *   0
