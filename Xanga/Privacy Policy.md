@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Old entries
     *   by cAnTHaNdLemE09
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -37,13 +37,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   10 months ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by dumbellChang 1 week ago)
+    *   2 (last comment by dumbellChang 2 weeks ago)
 *   wheres my entries from before??!!! its all gone!!!
     *   by Sutyee
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Ryoushi010 1 week ago)
+    *   1 (last comment by Ryoushi010 2 weeks ago)
 *   Want to renew
     *   by cjc2
     *   2 weeks ago
