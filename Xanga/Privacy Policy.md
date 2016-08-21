@@ -8,6 +8,36 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   I need my posts from 2004 to 2009, please
+    *   by skiwithmenes
+    *   10 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Old blogs
+    *   by SFTBLLQUEEN334
+    *   22 hours ago
+    *   in Adding &. Editing Entries
+    *   0 votes
+    *   0
+*   Old blogs
+    *   by SFTBLLQUEEN334
+    *   22 hours ago
+    *   in Adding &. Editing Entries
+    *   0 votes
+    *   0
+*   Old blogs
+    *   by SFTBLLQUEEN334
+    *   22 hours ago
+    *   in Adding &. Editing Entries
+    *   0 votes
+    *   0
+*   Old blogs
+    *   by SFTBLLQUEEN334
+    *   22 hours ago
+    *   in Adding &. Editing Entries
+    *   0 votes
+    *   0
 *   Old entries
     *   by cAnTHaNdLemE09
     *   1 week ago
@@ -66,36 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by JosephShen2004
     *   3 weeks ago
     *   in Premium
-    *   0 votes
-    *   0
-*   I have been using Xanga since high school
-    *   by bobo\_luv\_keita
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Access to old blog posts
-    *   by monkeyal353
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Old Blog
-    *   by YouSawALight
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Where is the Archive
-    *   by everythingfallstogether
-    *   1 month ago
-    *   in Themes
-    *   0 votes
-    *   0
-*   Help find old blog
-    *   by Ay\_Enem
-    *   1 month ago
-    *   in Data Migration
     *   0 votes
     *   0
 
