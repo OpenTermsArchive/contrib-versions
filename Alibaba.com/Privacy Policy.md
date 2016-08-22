@@ -64,6 +64,7 @@ Classification of Rules >. Alibaba.com User Agreements
     *   Posting Rules
     *   Trade Rules and Dispute Rules
     *   Others
+    *   Rules Center (German Language)
     *   Rules Center (Russian Language)
     *   Rules Center (Spanish Language)
 *   Announcement
