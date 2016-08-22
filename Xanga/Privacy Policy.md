@@ -10,31 +10,31 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   I need my posts from 2004 to 2009, please
     *   by skiwithmenes
-    *   10 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old blogs
     *   by SFTBLLQUEEN334
-    *   22 hours ago
+    *   1 day ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Old blogs
     *   by SFTBLLQUEEN334
-    *   22 hours ago
+    *   1 day ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Old blogs
     *   by SFTBLLQUEEN334
-    *   22 hours ago
+    *   1 day ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Old blogs
     *   by SFTBLLQUEEN334
-    *   22 hours ago
+    *   1 day ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
@@ -76,7 +76,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by Ryoushi010 2 weeks ago)
 *   Want to renew
     *   by cjc2
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Miscellaenous
     *   0 votes
     *   0
