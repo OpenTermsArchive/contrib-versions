@@ -64,6 +64,7 @@ Classification of Rules >. Alibaba.com User Agreements
     *   Posting Rules
     *   Trade Rules and Dispute Rules
     *   Others
+    *   Rules Center (French Language)
     *   Rules Center (German Language)
     *   Rules Center (Russian Language)
     *   Rules Center (Spanish Language)
@@ -194,4 +195,4 @@ Product Listing Policy - Intellectual Property Policy and Infringement Claims - 
 
 © 1999-2016 Alibaba.com. All rights reserved.
 
-icburule011226212177
+icburule011226212175
