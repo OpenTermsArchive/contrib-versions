@@ -249,86 +249,75 @@ A: GM vehicles, like other modern motor vehicles, have a number of sophisticated
 Q3: Does my vehicle have an RFID feature that transmits my personal information?  
 A: No, many GM vehicles contain sensing and transmitting devices using the same type of radio frequency transmission technology used in RFIDs that can contain personal information. These devices are used to perform functions such as checking tire pressure. The devices do not store or transmit personal information. To learn more about vehicle recording and privacy, refer to the Vehicle Data Recording and Privacy section of your vehicle’s owner manual.
 
-Shop for a Vehicle
-
-*   Our Brands
-*   Shop Chevrolet.com
-*   Shop Buick.com
-*   Shop GMC.com
-*   Shop Cadillac.com
-*   Dealer Locator
-*   Current Offers
-*   Fleet
-*   Certified Pre-Owned
-*   Factory Pre-Owned
-*   Future Vehicles
-
-News and Stories
-
-*   All News and Stories
-*   Most Recent
-*   Design
-*   Technology
-*   Sustainability
-*   Community
-*   Education
-*   Quality
-*   Safety
-
-Our Company
-
-*   Overview
-*   About GM
-*   Leadership
-*   Diversity
-*   History &. Heritage
-*   Sustainability
-*   Careers
-*   Giving Back
-*   Social Hub
-*   Awards
-
-Investors
-
-*   Investors Home
-*   Investor News
-*   Earnings Releases
-*   Announcements &. Events
-*   Sustainability Report
-*   Stockholder Information
-*   SEC Filings
-*   Sales
-*   Stock Information
-*   Analyst Coverage
-*   Historical Dividends
-*   Stock Repurchase Program
-*   Investor FAQ
-*   Investors Contacts
-*   Corporate Strategy
-*   Corporate Governance
-
-Owner Assistance
-
-*   All Brands
-*   Chevrolet
-*   Buick
-*   GMC
-*   Cadillac
-*   Pontiac
-*   Oldsmobile
-*   Saturn
-*   HUMMER
-
-Site Help
-
-*   Select a Country
-*   Contact Us
-*   Site Map
-*   FAQ
-*   Additional GM Sites
-*   Ignition Recall
-*   Takata Information
-*   Dealers &. Suppliers
+*   Shop for a Vehicle
+    *   Our Brands
+    *   Shop Chevrolet.com
+    *   Shop Buick.com
+    *   Shop GMC.com
+    *   Shop Cadillac.com
+    *   Dealer Locator
+    *   Current Offers
+    *   Fleet
+    *   Certified Pre-Owned
+    *   Factory Pre-Owned
+    *   Future Vehicles
+*   News and Stories
+    *   All News and Stories
+    *   Most Recent
+    *   Design
+    *   Technology
+    *   Sustainability
+    *   Community
+    *   Education
+    *   Quality
+    *   Safety
+*   Our Company
+    *   Overview
+    *   About GM
+    *   Leadership
+    *   Diversity
+    *   History &. Heritage
+    *   Sustainability
+    *   Careers
+    *   Giving Back
+    *   Social Hub
+    *   Awards
+*   Investors
+    *   Investors Home
+    *   Investor News
+    *   Earnings Releases
+    *   Announcements &. Events
+    *   Sustainability Report
+    *   Stockholder Information
+    *   SEC Filings
+    *   Sales
+    *   Stock Information
+    *   Analyst Coverage
+    *   Historical Dividends
+    *   Stock Repurchase Program
+    *   Investor FAQ
+    *   Investors Contacts
+    *   Corporate Strategy
+    *   Corporate Governance
+*   Owner Assistance
+    *   All Brands
+    *   Chevrolet
+    *   Buick
+    *   GMC
+    *   Cadillac
+    *   Pontiac
+    *   Oldsmobile
+    *   Saturn
+    *   HUMMER
+*   Site Help
+    *   Select a Country
+    *   Contact Us
+    *   Site Map
+    *   FAQ
+    *   Additional GM Sites
+    *   Ignition Recall
+    *   Takata Information
+    *   Dealers &. Suppliers
 
 Follow GM
 
@@ -355,4 +344,4 @@ Follow GM
 *   Social Media Policy
 *   Contact Us
 
-© 2016 General Motors Disclaimers
+© 2016 General Motors
