@@ -10,31 +10,31 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   I need my posts from 2004 to 2009, please
     *   by skiwithmenes
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old blogs
     *   by SFTBLLQUEEN334
-    *   1 day ago
+    *   2 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Old blogs
     *   by SFTBLLQUEEN334
-    *   1 day ago
+    *   2 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Old blogs
     *   by SFTBLLQUEEN334
-    *   1 day ago
+    *   2 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Old blogs
     *   by SFTBLLQUEEN334
-    *   1 day ago
+    *   2 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
@@ -52,13 +52,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   I Want to Delete My Account
     *   by angel\_undercover\_x
-    *   1 week ago
+    *   2 weeks ago
     *   in Privacy
     *   0 votes
     *   0
 *   I Want to Delete My Account
     *   by angel\_undercover\_x
-    *   1 week ago
+    *   2 weeks ago
     *   in Privacy
     *   0 votes
     *   0
