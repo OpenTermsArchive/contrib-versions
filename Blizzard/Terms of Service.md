@@ -1,4 +1,4 @@
-Battle.net® end user License Agreement  
+Battle.net® end user License Agreement Battle.net® end user License Agreement  
 Last Revised: February 28, 2015 IMPORTANT NOTICE:
 
 THIS VERSION OF THE BATTLE.NET END USER LICENSE AGREEMENT WILL BECOME EFFECTIVE ON FEBRUARY 28, 2015 G.M.T.
