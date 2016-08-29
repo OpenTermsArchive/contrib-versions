@@ -8,39 +8,51 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Shut down xanga
+    *   by ccicry
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Old Xanga
+    *   by angelfire103
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   I need my posts from 2004 to 2009, please
     *   by skiwithmenes
-    *   4 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old blogs
     *   by SFTBLLQUEEN334
-    *   4 days ago
+    *   1 week ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Old blogs
     *   by SFTBLLQUEEN334
-    *   4 days ago
+    *   1 week ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Old blogs
     *   by SFTBLLQUEEN334
-    *   4 days ago
+    *   1 week ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Old blogs
     *   by SFTBLLQUEEN334
-    *   4 days ago
+    *   1 week ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Old entries
     *   by cAnTHaNdLemE09
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -64,38 +76,26 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Can I get my blog back?
     *   by sum\_0912
-    *   10 months ago
+    *   11 months ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by dumbellChang 2 weeks ago)
+    *   2 (last comment by dumbellChang 3 weeks ago)
 *   wheres my entries from before??!!! its all gone!!!
     *   by Sutyee
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Ryoushi010 2 weeks ago)
+    *   1 (last comment by Ryoushi010 3 weeks ago)
 *   Want to renew
     *   by cjc2
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Old Account
     *   by milkcartonss
-    *   4 weeks ago
+    *   1 month ago
     *   in Personal URLs
-    *   0 votes
-    *   0
-*   file size limit??
-    *   by JosephShen2004
-    *   4 weeks ago
-    *   in Pictures
-    *   0 votes
-    *   0
-*   Membership expired in 2029??
-    *   by JosephShen2004
-    *   4 weeks ago
-    *   in Premium
     *   0 votes
     *   0
 
