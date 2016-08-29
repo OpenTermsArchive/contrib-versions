@@ -1,4 +1,4 @@
-Privacy Policy Blizzard Entertainment® Online Privacy Policy
+Privacy Policy Privacy Policy Blizzard Entertainment® Online Privacy Policy
 
 Blizzard Entertainment and its affiliate companies (collectively "Blizzard") respect the privacy of its on-line visitors and recognize the importance of providing a secure environment for them. We have adopted a company wide On-Line Privacy Policy that guides how we collect, store, and use the information you provide us. This Privacy Policy details how Blizzard safeguards the privacy of its on-line visitors and does not apply to information that may be collected by Blizzard off-line. Please note that when you link to other sites from a Blizzard website, this Privacy Policy does not apply to, and cannot control the activities on, those other sites.
 
