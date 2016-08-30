@@ -1,8 +1,8 @@
 Couchsurfing.com Privacy Policy
 
-Effective Date: April 3, 2015
+Effective Date: August 30, 2016
 
-Please read our Privacy Policy carefully to get a clear understanding of how we collect, use, disclose, protect and otherwise handle information about you.
+Please read our Privacy Policy carefully to get a clear understanding of how we collect, use, disclose, protect and otherwise handle information about you. By using Couchsurfing services, you consent to the collection and use of your data as described in this Privacy Policy.
 
 This Privacy Policy describes:
 
@@ -55,7 +55,7 @@ We use information about you for purposes described in this Privacy Policy or ot
 
 Transfers of Your Personal Information Abroad
 
-Couchsurfing may store and process personal information in the United States and other countries, where under local laws you may have fewer legal rights. However, wherever we store your information we will treat it in accordance with this Privacy Policy. Couchsurfing complies with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework and has certified our adherence to the Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement with respect to personal data collected from members in the EU and Switzerland. For more information about the Safe Harbor program and to view Couchsurfing’s certification, please visit the U.S. Department of Commerce’s Safe Harbor website.
+Couchsurfing may store and process personal information in the United States and other countries, where under local laws you may have fewer legal rights. However, wherever we store your information we will treat it in accordance with this Privacy Policy. Couchsurfing participates in the US-EU Privacy Shield Framework and has certified our adherence to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement, and Liability with respect to personal data collected from members in the EU. For more information about the Privacy Shield program and to view Couchsurfing’s certification, please review the Privacy Shield List on the U.S. Department of Commerce's Privacy Shield website.
 
 Sharing of Information
 
@@ -67,10 +67,12 @@ We will not share information about you with outside parties except as described
 *   With search engines in order to index the content you provide as part of a discussion forum or public profile;
 *   With partners who run contests, special offers or other events or activities in connection with our Services;
 *   In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company;
-*   If we believe that disclosure is reasonably necessary to comply with any applicable law, regulation, legal process or governmental request. and
+*   If we believe that disclosure is reasonably necessary to comply with any applicable law, regulation, legal process or governmental request, including to meet national security or law enforcement requirements. and
 *   To enforce our agreements, policies and Terms of Use to protect the security or integrity of our Services. or to protect Couchsurfing, our users or the public from harm or illegal activities.
 
 We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.
+
+Couchsurfing is responsible and liable if third-party agents that it uses to process the personal data on its behalf do so in a manner inconsistent with the Privacy Shield Principles, unless Couchsurfing proves that it is not responsible for the event that allowed the damage to occur.
 
 Social Media Tools
 
@@ -94,7 +96,7 @@ You may change your privacy settings and determine whether certain information a
 
 Account Information
 
-You may update or correct information about you or deactivate your account at any time by logging into your account and editing your profile. Even after you deactivate your account, we may retain certain information as required by law, for legitimate business purposes and to protect member safety.
+You may update or correct information about you or deactivate your account at any time by logging into your account and editing your profile. Couchsurfing will not provide members access to account data that is not already available to a logged in member. Even after you deactivate your account, we may retain certain information as required by law, for legitimate business purposes or to protect member safety. If your account is deactivated, Couchsurfing will provide access to the data associated with the deactivated account upon receipt of the required legal documentation.
 
 Location Information via Mobile Device 
 
@@ -112,4 +114,4 @@ Contact Us
 
 If you have any questions about this Privacy Policy, please contact us here or via mail at PO Box 7775 ECM 86600, San Francisco, CA 94120, United States or email at privacy@couchsurfing.com.
 
-In addition, EU and Swiss members can direct privacy-related inquiries or complaints to safeharbor@couchsurfing.com. If you do not receive timely acknowledgment of your inquiry or complaint, or if your inquiry or complaint is not satisfactorily addressed by Couchsurfing, you can refer your inquiry or complaint to TRUSTe, fax it to +1 415-520-3420, or mail it to TRUSTe Safe Harbor Compliance Department, 835 Market Street, Suite 800, Box 137, San Francisco, CA 94103, United States. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of the company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, click here or request this information from TRUSTe by using the contact information provided above. The TRUSTe dispute resolution process shall be conducted in English.
+In addition, EU members can direct privacy-related inquiries or complaints to privacy@couchsurfing.com. If you do not receive timely acknowledgment of your inquiry or complaint, or if your inquiry or complaint is not satisfactorily addressed by Couchsurfing, you can refer your inquiry or complaint to TRUSTe, fax it to +1 415-520-3420, or mail it to TRUSTe Safe Harbor Compliance Department, 835 Market Street, Suite 800, Box 137, San Francisco, CA 94103, United States. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of the company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. If neither Couchsurfing nor TRUSTe resolves your complaint, you may have the option of engaging in binding arbitration through the Privacy Shield Panel. For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, click here or request this information from TRUSTe by using the contact information provided above. The TRUSTe dispute resolution process shall be conducted in English. Couchsurfing is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
