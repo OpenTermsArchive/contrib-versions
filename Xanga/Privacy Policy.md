@@ -10,13 +10,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Shut down xanga
     *   by ccicry
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Xanga
     *   by angelfire103
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -64,13 +64,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   I Want to Delete My Account
     *   by angel\_undercover\_x
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Privacy
     *   0 votes
     *   0
 *   I Want to Delete My Account
     *   by angel\_undercover\_x
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Privacy
     *   0 votes
     *   0
