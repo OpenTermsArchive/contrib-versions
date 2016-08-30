@@ -32,6 +32,8 @@ When you register we ask for information such as your name, email address, birth
 
 Yahoo collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer.
 
+Yahoo analyzes and stores all communications content, including email content from incoming and outgoing email.
+
 Yahoo automatically receives and records information from your computer and browser, including your IP address, Yahoo cookie information, software and hardware attributes, and the page you request.
 
 Yahoo uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
