@@ -92,7 +92,7 @@ Couchsurfing takes reasonable measures to help protect information about you fro
 
 Your Information Choices Privacy Settings
 
-You may change your privacy settings and determine whether certain information about you will be shared with others by navigating to your profile on our website and editing your “Personal Designations.”
+You may change your privacy settings and determine whether certain information about you will be visible to others by navigating to "Account &. Settings" on our website and editing your "Privacy Settings."
 
 Account Information
 
