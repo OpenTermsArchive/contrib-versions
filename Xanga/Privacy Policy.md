@@ -10,13 +10,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Shut down xanga
     *   by ccicry
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Xanga
     *   by angelfire103
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
