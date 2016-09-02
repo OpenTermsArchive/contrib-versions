@@ -8,15 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Shut down xanga
-    *   by ccicry
-    *   4 days ago
-    *   in Data Migration
+*   Help Please Can't sign in/outdated email
+    *   by my\_eternal\_demise
+    *   2 hours ago
+    *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Old Xanga
     *   by angelfire103
-    *   6 days ago
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by Kool\_justin\_389 11 hours ago)
+*   Shut down xanga
+    *   by ccicry
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -82,7 +88,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 (last comment by dumbellChang 3 weeks ago)
 *   wheres my entries from before??!!! its all gone!!!
     *   by Sutyee
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by Ryoushi010 3 weeks ago)
@@ -90,12 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by cjc2
     *   1 month ago
     *   in Miscellaenous
-    *   0 votes
-    *   0
-*   Old Account
-    *   by milkcartonss
-    *   1 month ago
-    *   in Personal URLs
     *   0 votes
     *   0
 
