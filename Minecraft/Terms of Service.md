@@ -403,74 +403,11 @@ If something is specifically covered and permitted by these Guidelines and our M
 
 Thanks, Mojang
 
-Updated: 27 October 2015 12:44
+Updated: 01 September 2016 12:59
 
 MOJANG PRIVACY POLICY 
 
-It is important to us that your privacy and data are protected. Most importantly we would like you to know that we do not want to use your data unless it is ok with you. That is why we have made this privacy policy - so you can be clear on how we intend to use your data.
-
-Please be aware that Mojang is now part of Microsoft. When this policy says “we” or “our,” that means Microsoft, including Mojang and other controlled affiliates and subsidiaries.
-
-This privacy policy forms a part of the terms of use of any of our websites (“Account Terms”) and the end user license agreement of our games (“EULAs”). When you agree to our Account Terms or EULAs you are also agreeing to this privacy policy, so it is important that you read it carefully. Agreeing with this privacy policy is a condition of the Account Terms and EULA. This means, therefore, that if you do not agree with our privacy policy, you may not be able to play our games or use features in them and you may not be able to use our websites or parts of them. Sorry about that but we have taken this approach because there are a lot of people playing our games and using our site and it would be very difficult for us to keep track of who does and who does not agree to us using their data. We also depend on this data to enable us to continue to develop our games and websites in an efficient way. We hope you understand.
-
-Please also check back here from time to time because we will update this privacy policy every once in a while. When we do, we will revise the "last updated" date at the top of the policy.
-
-THE DATA WE COLLECT
-
-When you register on one of our websites or buy one of our games, you will be asked to provide some information about yourself, such as your email address. You may also provide information about yourself, such as your name, when you use other parts of our website or games or when you contact us. When you use our website or games, we collect data about your visit. This includes traffic data, location data and communication data.
-
-OUR USE OF COOKIES
-
-We also use internet cookies to collect information (like statistics) about your visit. An internet cookie is a small file which is placed on the device you use to access our website. Cookies also help us to know when you come back – and help you get going from the same point you left (or thereabouts).
-
-If you do not want us to place any cookies on your computer or other device, please change your browser settings so that your browser rejects cookies. You should be aware that, if you do this, some parts of our website may not work properly. If you keep using our website without changing your browser settings, we will take this as your consent to us using cookies.
-
-Some newer browsers have incorporated “Do Not Track” features. Most of these features, when turned on, send a signal or preference to the websites you visit indicating that you do not wish to be tracked. Those sites (or the third-party content on those sites) may continue to engage in activities you may view as tracking even though you have expressed this preference, depending on the sites’ privacy practices. Because there is not yet a common understanding of how to interpret the DNT signal, Microsoft does not currently respond to the browser DNT signals on its own websites or online services.
-
-WHAT WE DO WITH YOUR DATA
-
-We may use your data to send you information about our games, or to inform you about using our websites. We may also use your data if we have to tell you about changes to our products or services, or if we have to let you know about things affecting our games, we may also get in touch with you.
-
-The information we gather from cookies enables us to estimate the size of our community, to learn about how our community uses our website and games, to make the websites customisable and to remember you when you return to our website. This information enables us to understand how to improve our website and our games.
-
-SHARING DATA
-
-We may provide your data to another member of our group of companies, or to companies that we work with (such as payment providers like Skrill or PayPal). Generally, we will not provide your data to unrelated third parties but we might have to in some circumstances. For example, we may disclose your data in order to comply with a law or regulation, in order to protect our games, or if we get taken over.
-
-We may make it possible for you to post information on our website, for example, in a forum. If you choose to post information on our website, you should think very carefully beforehand. The information you post will be made public and could be used by other people.
-
-CHILDREN
-
-We do not knowingly collect, use, or disclose personal information from children under the age of 13 without parental consent, except as permitted by the Children’s Online Privacy Protection Act (“COPPA”) or other applicable laws.
-
-Parents may request to review the personal information of their children under 13, to have this information deleted, or to refuse to permit further collection or use of their children’s personal information by contacting us at https://account.mojang.com/terms#contact.
-
-ACCESSING YOUR DATA
-
-You have the right to know about the information which we hold about you. If you would like to know what information we are holding, you should get in touch with us. If the information we hold about you is wrong, insufficient or irrelevant, then you have the right to make sure that it gets corrected or removed.
-
-STORAGE AND SECURITY OF YOUR DATA
-
-The transmission of data on the internet is not totally secure. We will always do what we think is best to protect your personal data, but we cannot guarantee that the data you send us is totally safe. Although we use strict procedures and security to protect your data, the possibility that someone could get unauthorised access to your data cannot be ruled out.
-
-The data we collect may be stored and processed in the United States or any other country where Microsoft, Mojang or our affiliates, subsidiaries or service providers maintain facilities. Microsoft abides by the U.S.-EU Safe Harbour Framework and the U.S.-Swiss Safe Harbour Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of data from the European Economic Area and Switzerland. To learn more about the Safe Harbour program, and to view our certification, please visit http://www.export.gov/safeharbor/.
-
-HOW TO CONTACT US
-
-*   If you have a technical or general support question, please visit http://support.microsoft.com/ to learn more about Microsoft Support offerings.
-*   If you have a general privacy question or a question for the Chief Privacy Officer of Microsoft or would like to request access to your personal information, please contact us by using our Web form. By mail: Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052 USA By Phone: +1- 425-882-8080 Microsoft Ireland Operations Limited is our data protection representative for the European Economic Area and Switzerland. The data protection officer of Microsoft Ireland Operations Limited can be reached at the following address: Microsoft Ireland Operations, Ltd. Attn: Data Protection Carmenhall Road Sandyford, Dublin 18, Ireland To find the Microsoft subsidiary in your country or region, see http://www.microsoft.com/worldwide/.
-    
-*   If you have a technical or general support question, please visit http://support.microsoft.com/ to learn more about Microsoft Support offerings.
-    
-*   If you have a general privacy question or a question for the Chief Privacy Officer of Microsoft or want to request access to your personal information, please contact us by using our Web form.
-    *   By mail: Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052 USA
-    *   By Phone: 425-882-8080
-*   Microsoft Ireland Operations Limited is our data protection representative for the European Economic Area and Switzerland. The data protection officer of Microsoft Ireland Operations Limited can be reached at the following address:
-    *   Microsoft Ireland Operations, Ltd.  
-         Attn: Data Protection   
-        Carmenhall Road   
-        Sandyford, Dublin 18, Ireland
-*   To find the Microsoft subsidiary in your country or region, see http://www.microsoft.com/worldwide/.
+We have now adopted the privacy policy of our owners, Microsoft. Please find full details of the new policy here.
 
 Company information
 
