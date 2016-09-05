@@ -8,9 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Old Blog Post
+    *   by BlissfulSarah
+    *   2 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Old Posts
+    *   by reinventlovex3
+    *   4 hours ago
+    *   in Adding &. Editing Entries
+    *   0 votes
+    *   0
 *   Help Please Can't sign in/outdated email
     *   by my\_eternal\_demise
-    *   1 day ago
+    *   3 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -19,40 +31,40 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Kool\_justin\_389 1 day ago)
+    *   1 (last comment by Kool\_justin\_389 3 days ago)
 *   Shut down xanga
     *   by ccicry
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I need my posts from 2004 to 2009, please
     *   by skiwithmenes
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old blogs
     *   by SFTBLLQUEEN334
-    *   1 week ago
+    *   2 weeks ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Old blogs
     *   by SFTBLLQUEEN334
-    *   1 week ago
+    *   2 weeks ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Old blogs
     *   by SFTBLLQUEEN334
-    *   1 week ago
+    *   2 weeks ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Old blogs
     *   by SFTBLLQUEEN334
-    *   1 week ago
+    *   2 weeks ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
@@ -85,19 +97,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   11 months ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by dumbellChang 4 weeks ago)
-*   wheres my entries from before??!!! its all gone!!!
-    *   by Sutyee
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by Ryoushi010 4 weeks ago)
-*   Want to renew
-    *   by cjc2
-    *   1 month ago
-    *   in Miscellaenous
-    *   0 votes
-    *   0
+    *   2 (last comment by dumbellChang 1 month ago)
 
 1 2 3 ... 175 Next
 
