@@ -10,19 +10,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Old Blog Post
     *   by BlissfulSarah
-    *   2 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Posts
     *   by reinventlovex3
-    *   4 hours ago
+    *   1 day ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Help Please Can't sign in/outdated email
     *   by my\_eternal\_demise
-    *   3 days ago
+    *   4 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -31,7 +31,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Kool\_justin\_389 3 days ago)
+    *   1 (last comment by Kool\_justin\_389 4 days ago)
 *   Shut down xanga
     *   by ccicry
     *   1 week ago
@@ -82,13 +82,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   I Want to Delete My Account
     *   by angel\_undercover\_x
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Privacy
     *   0 votes
     *   0
 *   I Want to Delete My Account
     *   by angel\_undercover\_x
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Privacy
     *   0 votes
     *   0
