@@ -317,7 +317,7 @@ Windstream is one of the largest providers of telecommunications services in rur
 *   Residential
 *   Small Business
 *   Enterprise
-*   Carrier
+*   Wholesale
 
 Copyright © Windstream Communications. All rights reserved.
 
