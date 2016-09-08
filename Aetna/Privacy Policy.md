@@ -437,4 +437,30 @@ Continue
 
 Continue
 
+Continue Please enter all of your information Member Log In Help This question helps us get you to the correct log-in screen. Answer YES if you get Aetna coverage through your job or your spouse’s job, or if you have an Aetna Medicare plan.
+
+Do you have Aetna insurance through an employer or are you a Medicare member? Yes No
+
+Continue
+
+Continue
+
+My ZIP code is: Select your county
+
+Please enter a valid ZIP code
+
+Continue
+
+Continue
+
+Continue
+
+Continue
+
+Continue
+
+Continue
+
+Continue
+
 Continue Please enter all of your information This JavaScript enables OnlineOpinion, a method for collecting secure feedback data.
