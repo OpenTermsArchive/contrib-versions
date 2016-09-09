@@ -195,7 +195,7 @@ By email: copyright@yahoo-inc.com
 
 **27\. CLOSED CAPTIONING**
 
-Yahoo complies with applicable Federal Communications Commission rules and regulations regarding the closed captioning of video content. Please visit https://info.yahoo.com/legal/us/en/yahoo/cc/index.htm for more information or to register any concerns or complaints regarding video content accessible on the Yahoo network of properties.
+Yahoo complies with applicable Federal Communications Commission rules and regulations regarding the closed captioning of video content. Please visit https://policies.yahoo.com/us/en/yahoo/cc/index.htm for more information or to register any concerns or complaints regarding video content accessible on the Yahoo network of properties.
 
 **28\. GENERAL INFORMATION**
 
