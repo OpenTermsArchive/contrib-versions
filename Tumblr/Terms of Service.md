@@ -1,4 +1,4 @@
-Terms of Service Last Modified: 2014-01-27 Tumblr is a U.S. company and subject only to U.S. laws and jurisdiction, so for the moment these Terms of Service (and any other terms, policies, or guidelines that we provide to you) are only available in English.
+Terms of Service Last Modified: 2016-09-08 Tumblr is a U.S. company and subject only to U.S. laws and jurisdiction, so for the moment these Terms of Service (and any other terms, policies, or guidelines that we provide to you) are only available in English.
 
 Hello! Welcome to Tumblr’s Terms of Service. Please read this carefully before using our site, services, or products. This is a contract between you and Tumblr. We've also included several annotations that aren't a part of the contract itself, but are intended to emphasize key sections and help you follow the text. We’ve tried to be fair and straightforward. Please feel free to contact us if you have any questions or suggestions!
 
@@ -67,6 +67,8 @@ Note also that this license to your Subscriber Content continues even if you sto
 One thing you should consider before posting: When you make something publicly available on the Internet, it becomes practically impossible to take down all copies of it.
 
 You also agree that you will respect the intellectual property rights of others, and represent and warrant that you have all of the necessary rights to grant us this license for all Subscriber Content you transfer to us.
+
+Tumblr may add its own affiliate code to links posted on Tumblr at its discretion, provided a user has not previously included their own affiliate code into the applicable link. Users may opt out of this functionality here.
 
 Content License to You:
 
