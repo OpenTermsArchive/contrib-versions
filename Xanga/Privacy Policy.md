@@ -8,36 +8,42 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Old posts
+    *   by jenniisme
+    *   23 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   My Old Blog
     *   by sarakoo
-    *   13 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Blog Post
     *   by BlissfulSarah
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Posts
     *   by reinventlovex3
-    *   3 days ago
+    *   4 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Help Please Can't sign in/outdated email
     *   by my\_eternal\_demise
-    *   6 days ago
+    *   1 week ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Old Xanga
     *   by angelfire103
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Kool\_justin\_389 6 days ago)
+    *   1 (last comment by Kool\_justin\_389 1 week ago)
 *   Shut down xanga
     *   by ccicry
     *   1 week ago
@@ -82,14 +88,8 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Old style Youtube.
     *   by NarutoxhokagexFox
-    *   4 weeks ago
-    *   in Premium
-    *   0 votes
-    *   0
-*   I Want to Delete My Account
-    *   by angel\_undercover\_x
     *   1 month ago
-    *   in Privacy
+    *   in Premium
     *   0 votes
     *   0
 *   I Want to Delete My Account
