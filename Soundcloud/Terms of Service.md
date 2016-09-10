@@ -10,59 +10,59 @@ These Terms of Use are divided into the following sections:
 
 *   Acceptance of Terms of Use Basically, by using SoundCloud® you accept our Terms of Use, Privacy Policy, Cookies Policy and Community Guidelines and agree to abide by them.
     
-*   Changes to Terms of Use This section explains that our Terms of Use may change from time to time.
+*   Changes to Terms of Use This section explains that our terms of Use may change from time to time.
     
 *   Description of the Platform This provides a general description of the Platform, its features and functionality.
     
-*   Your SoundCloud Account This section explains your responsibilities should you choose to register for a SoundCloud® account.
+*   Your SoundCloud account This section explains your responsibilities should you choose to register for a SoundCloud® account.
     
-*   Your Use of the Platform This section sets out your right to use the Platform, and the conditions that apply to your use of the Platform.
+*   Your Use of the platform This section sets out your right to use the Platform, and the conditions that apply to your use of the Platform.
     
-*   Your Content This section deals with ownership of your content, and includes your agreement not to upload anything that infringes on anyone else’s rights.
+*   Your content This section deals with ownership of your content, and includes your agreement not to upload anything that infringes on anyone else’s rights.
     
-*   Grant of License This section explains how your content will be used on SoundCloud® and the permissions that you grant by uploading your content - for example, the right for other users to listen to your sounds.
+*   Grant of license This section explains how your content will be used on SoundCloud® and the permissions that you grant by uploading your content - for example, the right for other users to listen to your sounds.
     
-*   Representations and Warranties This section includes important promises and guarantees that you give when uploading content to SoundCloud® - in particular, your promise that everything you upload and share is owned by you and won’t infringe anyone else’s rights.
+*   Representations and warranties This section includes important promises and guarantees that you give when uploading content to SoundCloud® - in particular, your promise that everything you upload and share is owned by you and won’t infringe anyone else’s rights.
     
-*   Liability for Content This section explains that SoundCloud is a hosting service and that its users are solely liable for material that they upload to SoundCloud®.
+*   Liability for content This section explains that SoundCloud is a hosting service and that its users are solely liable for material that they upload to SoundCloud®.
     
-*   Reporting Infringements This section explains how to notify us of any content on SoundCloud® that you believe infringes your copyright or any other intellectual property right, or that is unlawful, abusive, defamatory or otherwise contrary to our Terms of Use or Community Guidelines. You can find further information on reporting copyright infringement on our Copyright Information pages.
+*   Reporting infringements This section explains how to notify us of any content on SoundCloud® that you believe infringes your copyright or any other intellectual property right, or that is unlawful, abusive, defamatory or otherwise contrary to our Terms of Use or Community Guidelines. You can find further information on reporting copyright infringement on our Copyright Information pages.
     
-*   Third Party Websites and Services Through SoundCloud® you may have access to other websites and services. This section explains that these are separate third party services that are not under the control of SoundCloud.
+*   Third party websites and services Through SoundCloud® you may have access to other websites and services. This section explains that these are separate third party services that are not under the control of SoundCloud.
     
-*   Blocking and Removal of Content This section makes it clear that SoundCloud may block or remove content from the Platform.
+*   Blocking and removal of content This section makes it clear that SoundCloud may block or remove content from the Platform.
     
-*   Repeat Infringers Users who repeatedly infringe third party rights or breach our Terms of Use or Community Guidelines risk having their SoundCloud® accounts suspended or terminated, as explained in this section.
+*   Repeat infringers Users who repeatedly infringe third party rights or breach our Terms of Use or Community Guidelines risk having their SoundCloud® accounts suspended or terminated, as explained in this section.
     
 *   Disclaimer This section explains that SoundCloud® cannot give any guarantees that the Platform will always be available – sometimes even a platform as awesome as ours will have a few problems.
     
-*   Limitation of Liability This section explains some of those things that SoundCloud will not be liable for. Please make sure you read and understand this section.
+*   Limitation of liability This section explains some of those things that SoundCloud will not be liable for. Please make sure you read and understand this section.
     
 *   Indemnification If you use the Platform in a way that results in damage to us, you will need to take responsibility for that.
     
-*   Data Protection, Privacy and Cookies It is really important to us that you understand how we use your personal information. All information is collected, stored and used in accordance with our Privacy Policy, so please make sure that you read and understand that policy. Like most other websites, we also use cookies to help us analyze how people use SoundCloud, so that we can keep improving our service. Our use of cookies is explained in our Cookies Policy. Please note: if you choose not to disable cookies within your browser, you will be indicating your consent to our use of cookies as described in our Cookies Policy, so please make sure that you read the policy carefully.
+*   Data protection, privacy and cookies It is really important to us that you understand how we use your personal information. All information is collected, stored and used in accordance with our Privacy Policy, so please make sure that you read and understand that policy. Like most other websites, we also use cookies to help us analyze how people use SoundCloud, so that we can keep improving our service. Our use of cookies is explained in our Cookies Policy. Please note: if you choose not to disable cookies within your browser, you will be indicating your consent to our use of cookies as described in our Cookies Policy, so please make sure that you read the policy carefully.
     
 *   Meetups This section deals with SoundCloud® meetups and explains that these are not “official’ SoundCloud events, so we cannot be responsible for anything that happens at meetups.
     
-*   Competitions and Other Promotions This section deals with competitions, contests and sweepstakes on SoundCloud®. These are not run by SoundCloud, and therefore we cannot be responsible for them. If you want to run your own competition on SoundCloud, make sure you read and understand our Competition Terms.
+*   Competitions and other promotions This section deals with competitions, contests and sweepstakes on SoundCloud®. These are not run by SoundCloud, and therefore we cannot be responsible for them. If you want to run your own competition on SoundCloud, make sure you read and understand our Competition Terms.
     
-*   Use of SoundCloud Players and Widget This section includes a few restrictions on how you can use our players and widgets – basically, don’t try to use our players to create a new music or audio streaming service.
+*   Use of SoundCloud players and widget This section includes a few restrictions on how you can use our players and widgets – basically, don’t try to use our players to create a new music or audio streaming service.
     
-*   Subscriptions and Gift Codes This section links you to information explaining how to purchase ”Pro” and “Pro Unlimited” plans and „SoundCloud Go“ subscriptions as well as gift codes and how you can cancel your purchases in certain circumstances.
+*   Subscriptions and gift codes This section links you to information explaining how to purchase "Pro" and "Pro Unlimited" plans and "SoundCloud Go" subscriptions as well as gift codes and how you can cancel your purchases in certain circumstances.
     
-*   Changes to the Platform, Accounts and Pricing From time to time, we may need to make some changes to SoundCloud®. This section explains your rights in this situation.
+*   Changes to the Platform, accounts and pricing From time to time, we may need to make some changes to SoundCloud®. This section explains your rights in this situation.
     
 *   Termination This section explains how you can terminate your SoundCloud® account, and the grounds on which we can terminate your use of SoundCloud®.
     
-*   Assignment to Third Parties This section deals with SoundCloud’s right to transfer this agreement to someone else.
+*   Assignment to third parties This section deals with SoundCloud’s right to transfer this agreement to someone else.
     
 *   Severability This is a standard legal provision, which says that any term that is not valid will be removed from the agreement without affecting the validity of the rest of the agreement.
     
-*   Entire Agreement Your use of SoundCloud® is governed by these Terms of Use, our Privacy Policy, Cookies Policy and Community Guidelines. Any changes need to be made in writing.
+*   Entire agreement Your use of SoundCloud® is governed by these Terms of Use, our Privacy Policy, Cookies Policy and Community Guidelines. Any changes need to be made in writing.
     
-*   Third Party Rights These Terms of Use apply to the relationship between you and SoundCloud only.
+*   Third party rights These Terms of Use apply to the relationship between you and SoundCloud only.
     
-*   Applicable Law and Jurisdiction All of our documents are generally governed by German law.
+*   Applicable law and jurisdiction All of our documents are generally governed by German law.
     
 *   Disclosures This section provides information about SoundCloud, including how to contact us.
     
@@ -83,7 +83,7 @@ The Platform is a hosting service. Registered users of the Platform may submit, 
 
 We may, from time to time, release new tools and resources on the Website, release new versions of our Apps, or introduce other services and/or features for the Platform. Any new services and features will be subject to these Terms of Use as well as any additional terms of use that we may release for those specific services or features.
 
-Your SoundCloud Account
+Your SoundCloud account
 
 You are not obliged to register to use the Platform. However, access to the Apps and certain Services is only available to registered users. As an example, our App, SoundCloud Pulse, enables registered users, who upload and make available their Content to other users, to receive instant feedback on their tracks, communicate with their listeners and manage their Content any time.
 
@@ -97,7 +97,7 @@ We reserve the right to disallow, cancel, remove or reassign certain usernames a
 
 You may terminate your account at any time as described in the Termination section below.
 
-Your Use of the Platform
+Your use of the Platform
 
 Subject to your strict compliance with these Terms of Use and our Community Guidelines at any and all times during your use of the Platform, SoundCloud grants you a limited, personal, non-exclusive, revocable, non-assignable and non-transferable right and license to use the Platform in order to view Content uploaded and posted to the Website, to listen to audio Content streamed from the Platform or offline and to share and download audio Content using the features of the Platform where the appropriate functionality has been enabled by the user who uploaded the relevant Content (the **“Uploader”**), and subject to the territorial availability of that feature and audio Content.
 
@@ -149,7 +149,7 @@ The above licenses are conditional upon your strict compliance with these Terms 
 
 You agree to comply with the above conditions at any and all times during your use of the Platform, and acknowledge and agree that SoundCloud has the right, in its sole discretion, to terminate your account or take such other action as we see fit if you breach any of the above conditions or any of the other terms of these Terms of Use. This may include taking court action and/or reporting offending users to the relevant authorities.
 
-Your Content
+Your content
 
 Any and all audio, text, photos, pictures, graphics, comments, and other content, data or information that you upload, store, transmit, submit, exchange or make available to or via the Platform (hereinafter **"Your Content"**) is generated, owned and controlled solely by you, and not by SoundCloud.
 
@@ -159,7 +159,7 @@ Without prejudice to the conditions set forth in Your Use of the Platform you mu
 
 We may, from time to time, invite or provide you with means to provide feedback regarding the Platform, and in such circumstances, any feedback you provide will be deemed non-confidential and SoundCloud shall have the right, but not the obligation, to use such feedback on an unrestricted basis.
 
-Grant of License
+Grant of license
 
 By uploading or posting Your Content to the Platform, you initiate an automated process to transcode any audio Content and direct SoundCloud to store Your Content on our servers, from where you may control and authorize the use, ways of reproduction, transmission, distribution, public display, public performance, making available (including whether users will be permitted to listen to your Content offline) and other communication to the public of Your Content on the Platform and elsewhere using the Services. To the extent it is necessary in order for SoundCloud to provide you with any of the aforementioned hosting services, to undertake any of the tasks set forth in these Terms of Use, including the distribution of advertising or other promotional material on our Platform and/or to enable your use of the Platform, you hereby grant such licenses to SoundCloud on a limited, worldwide, non-exclusive, royalty-free and fully paid basis.
 
@@ -171,7 +171,7 @@ Removal of audio Content from your account will automatically result in the dele
 
 Any Content other than Your Content is the property of the relevant Uploader, and is or may be subject to copyright, trademark rights or other intellectual property or proprietary rights. Such Content may not be downloaded, reproduced, distributed, transmitted, re-uploaded, republished, displayed, sold, licensed, made available or otherwise communicated to the public or exploited for any purposes except via the features of the Platform from time to time and within the parameters set by the Uploader on the Platform or with the express written consent of the Uploader. Where you repost another user’s Content, or include another user’s Content in a playlist or station or where you listen to another user’s Content offline, you acquire no ownership rights whatsoever in that Content. Subject to the rights expressly granted in this section, all rights in Content are reserved to the relevant Uploader.
 
-Representations and Warranties
+Representations and warranties
 
 You hereby represent and warrant to SoundCloud as follows: (i) Your Content, and each and every part thereof, is an original work by you, or you have obtained all rights, licenses, consents and permissions necessary in order to use at any and all times during any applicable use, and (if and where relevant) to authorize SoundCloud to use, Your Content pursuant to these Terms of Use, including, without limitation, the right to upload, reproduce, store, transmit, distribute, share, publicly display, publicly perform, make available (including for listening offline) and otherwise communicate to the public Your Content, and each and every part thereof, on, through or via the Platform, any and all Services and any Linked Services.
 
@@ -183,17 +183,17 @@ You hereby represent and warrant to SoundCloud as follows: (i) Your Content, and
 
 (v) Your Content does not and will not create any liability on the part of SoundCloud, its subsidiaries, affiliates, successors, and assigns, and their respective employees, agents, directors, officers and/or shareholders. SoundCloud reserves the right to remove Your Content, suspend or terminate your access to the Platform and/or pursue all legal remedies if we believe that any of Your Content breaches any of the foregoing representations or warranties, or otherwise infringes another person's rights or violates any law, rule or regulation.
 
-Liability for Content
+Liability for content
 
-You hereby acknowledge and agree that SoundCloud (i) stores Content and other information at the direction, request and with the authorization of its users, (ii) acts merely as a passive conduit and/or host for the uploading, storage and distribution of such Content, and (iii) plays no active role and gives no assistance in the presentation or use of the Content. You are solely responsible for all of Your Content that you upload, post or distribute to, on or through the Platform, and to the extent permissible by law, SoundCloud excludes all liability with respect to all Content (including Your Content) and the activities of its users with respect thereto.
+You hereby acknowledge and agree that SoundCloud (i) stores content and other information at the direction, request and with the authorization of its users, (ii) acts merely as a passive conduit and/or host for the uploading, storage and distribution of such content, and (iii) plays no active role and gives no assistance in the presentation or use of the content. You are solely responsible for all of Your Content that you upload, post or distribute to, on or through the Platform, and to the extent permissible by law, SoundCloud excludes all liability with respect to all content (including Your Content) and the activities of its users with respect thereto.
 
-You hereby acknowledge and agree that SoundCloud cannot and does not review the Content created or uploaded by its users, and neither SoundCloud nor its subsidiaries, affiliates, successors, assigns, employees, agents, directors, officers and shareholders has any obligation, and may, but does not undertake or assume any duty to, monitor the Platform for Content that is inappropriate, that does or might infringe any third party rights, or has otherwise been uploaded in breach of these Terms of Use or applicable law.
+You hereby acknowledge and agree that SoundCloud cannot and does not review the content created or uploaded by its users, and neither SoundCloud nor its subsidiaries, affiliates, successors, assigns, employees, agents, directors, officers and shareholders has any obligation, and may, but does not undertake or assume any duty to, monitor the Platform for content that is inappropriate, that does or might infringe any third party rights, or has otherwise been uploaded in breach of these Terms of Use or applicable law.
 
-SoundCloud and its subsidiaries, affiliates, successors, assigns, employees, agents, directors, officers and shareholders hereby exclude, to the fullest extent permitted by law, any and all liability which may arise from any Content uploaded to the Platform by users, including, but not limited to, any claims for infringement of intellectual property rights, rights of privacy or publicity rights, any claims relating to publication of abusive, defamatory, pornographic, or obscene material, or any claims relating to the completeness, accuracy, currency or reliability of any information provided by users of the Platform. By using the Platform, you irrevocably waive the right to assert any claim with respect to any of the foregoing against SoundCloud or any of its subsidiaries, affiliates, successors, assigns, employees, agents, directors, officers or shareholders.
+SoundCloud and its subsidiaries, affiliates, successors, assigns, employees, agents, directors, officers and shareholders hereby exclude, to the fullest extent permitted by law, any and all liability which may arise from any content uploaded to the Platform by users, including, but not limited to, any claims for infringement of intellectual property rights, rights of privacy or publicity rights, any claims relating to publication of abusive, defamatory, pornographic, or obscene material, or any claims relating to the completeness, accuracy, currency or reliability of any information provided by users of the Platform. By using the Platform, you irrevocably waive the right to assert any claim with respect to any of the foregoing against SoundCloud or any of its subsidiaries, affiliates, successors, assigns, employees, agents, directors, officers or shareholders.
 
-Reporting Infringements
+Reporting infringements
 
-If you discover any Content on the Platform that you believe infringes your copyright, please report this to us using any of the methods outlined on our Copyright Information pages.
+If you discover any content on the Platform that you believe infringes your copyright, please report this to us using any of the methods outlined on our Copyright Information pages.
 
 If you would prefer to send us your own written notification, please make sure that you include the following information:
 
@@ -219,29 +219,27 @@ SoundCloud Ltd c/o Music Reports Inc 21122 Erwin Street Woodland Hills CA 91367 
 
 The foregoing process applies to copyright only. If you discover any Content that you believe to be in violation of your trademark rights, please report this to us by email at legal@soundcloud.com. In all other cases, if you discover Content that infringes or violates any of your other rights, which you believe is defamatory, pornographic, obscene, racist or otherwise liable to cause widespread offense, or which constitutes impersonation, abuse, spam or otherwise violates these Terms of Use, our Community Guidelines or applicable law, please report this to us at legal \[at\] soundcloud.com.
 
-Third Party Websites and Services
+Third party websites and services
 
-The Platform may provide you with access to third party websites, databases, networks, servers, information, software, programs, systems, directories, applications, products or services, including without limitation, Linked Services (hereinafter **“External Services”**). SoundCloud does not have or maintain any control over External Services, and is not and cannot be responsible for their content, operation or use. By linking or otherwise providing access to any External Services, SoundCloud does not give any representation, warranty or endorsement, express or implied, with respect to the legality, accuracy, quality or authenticity of content, information or services provided by such External Services.
+The Platform may provide you with access to third party websites, databases, networks, servers, information, software, programs, systems, directories, applications, products or services, including without limitation, linked services (hereinafter **“External Services”**).
+
+SoundCloud does not have or maintain any control over External Services, and is not and cannot be responsible for their content, operation or use. By linking or otherwise providing access to any External Services, SoundCloud does not give any representation, warranty or endorsement, express or implied, with respect to the legality, accuracy, quality or authenticity of content, information or services provided by such External Services.
 
 External Services may have their own terms of use and/or privacy policy, and may have different practices and requirements to those operated by SoundCloud with respect to the Platform. You are solely responsible for reviewing any terms of use, privacy policy or other terms governing your use of these External Services, which you use at your own risk. You are advised to make reasonable enquiries and investigations before entering into any transaction, financial or otherwise, and whether online or offline, with any third party related to any External Services.
 
-You are solely responsible for taking the precautions necessary to protect yourself from fraud when using External Services, and to protect your computer systems from viruses, worms, Trojan horses, and other harmful or destructive content and material that may be included on or may emanate from any External Services.
-
-SoundCloud disclaims any and all responsibility or liability for any harm resulting from your use of External Services, and you hereby irrevocably waive any claim against SoundCloud with respect to the content or operation of any External Services.
-
-External Services
+External services
 
 You are solely responsible for taking the precautions necessary to protect yourself from fraud when using External Services, and to protect your computer systems from viruses, worms, Trojan horses, and other harmful or destructive content and material that may be included on or may emanate from any External Services.
 
 SoundCloud disclaims any and all responsibility or liability for any harm resulting from your use of External Services, and you hereby irrevocably waive any claim against SoundCloud with respect to the content or operation of any External Services.
 
-Blocking and Removal of Content
+Blocking and removal of content
 
-Notwithstanding the fact that SoundCloud has no legal obligation to monitor the Content on the Platform, SoundCloud reserves the right to block, remove or delete any Content at any time, and to limit or restrict access to any Content, for any reason and without liability, including without limitation, if we have reason to believe that such Content does or might infringe the rights of any third party, has been uploaded or posted in breach of these Terms of Use, our Community Guidelines or applicable law, or is otherwise unacceptable to SoundCloud.
+Notwithstanding the fact that SoundCloud has no legal obligation to monitor the content on the Platform, SoundCloud reserves the right to block, remove or delete any content at any time, and to limit or restrict access to any content, for any reason and without liability, including without limitation, if we have reason to believe that such content does or might infringe the rights of any third party, has been uploaded or posted in breach of these Terms of Use, our Community Guidelines or applicable law, or is otherwise unacceptable to SoundCloud.
 
-Please also note that individual Uploaders have control over the audio Content that they store in their account from time to time, and may remove any or all audio Content or other Content without notice. You have no right of continued access to any particular item of Content and SoundCloud shall have no liability in the event that you are unable to access an item of Content due to its removal from the Platform, whether by SoundCloud or the relevant Uploader.
+Please also note that individual Uploaders have control over the audio content that they store in their account from time to time, and may remove any or all audio content or other content without notice. You have no right of continued access to any particular item of content and SoundCloud shall have no liability in the event that you are unable to access an item of content due to its removal from the Platform, whether by SoundCloud or the relevant uploader.
 
-Repeat Infringers
+Repeat infringers
 
 SoundCloud will suspend or terminate your access to the Platform if SoundCloud determines, in its reasonable discretion, that you have repeatedly breached these Terms of Use or our Community Guidelines.
 
@@ -300,7 +298,7 @@ You hereby agree to indemnify, defend and hold harmless SoundCloud, its successo
 
 (iii) any activity related to your account, be it by you or by any other person accessing your account with or without your consent unless such activity was caused by the act or default of SoundCloud.
 
-Data Protection, Privacy and Cookies
+Data protection, privacy and cookies
 
 All personal data that you provide to us in connection with your use of the Platform is collected, stored, used and disclosed by SoundCloud in accordance with our Privacy Policy. In addition, in common with most online services, we use cookies to help us understand how people are using the Platform, so that we can continue to improve the service we offer. Our use of cookies, and how to disable cookies, is explained in our Cookies Policy. By accepting these Terms of Use and using the Platform, you also accept the terms of the Privacy Policy and our Cookies Policy.
 
@@ -308,13 +306,13 @@ Meetups
 
 SoundCloud has an active community of users, many of whom organize and attend face-to-face meetings at venues all over the world (**“Meetups”**). While SoundCloud is generally supportive of Meetups and may provide branded promotional materials to help organizers promote their Meetups, SoundCloud does not sponsor, oversee or in any way control such Meetups. You hereby acknowledge and agree that your attendance and participation in any Meetups is entirely at your own risk and SoundCloud does not bear any responsibility or liability for the actions of any SoundCloud users or any third parties who organize, attend or are otherwise involved in any Meetups.
 
-Competitions and Other Promotions
+Competitions and other promotions
 
 From time to time, some SoundCloud® users may promote competitions, promotions, prize draws and other similar opportunities on the Platform (**“Third Party Competitions”**). SoundCloud is not the sponsor or promoter of these Third Party Competitions, and does not bear any responsibility or liability for the actions or inactions of any third parties who organize, administer or are otherwise involved in any promotion of these Third Party Competitions. If you wish to participate in any of these Third Party Competitions, it is your responsibility to read the terms and conditions applicable to the relevant Third Party Competition and to ensure that you understand the rules and any eligibility requirements, and are lawfully able to participate in such Third Party Competitions in your country of residence.
 
 If you wish to run your own Third Party Competition on the Platform, you are free to do so provided you comply with our Competition Terms, which are available here.
 
-Use of SoundCloud Players and Widget
+Use of SoundCloud players and widget
 
 The Platform includes access to customizable players (**“Players”**), and an embeddable version of the SoundCloud waveform player (**“Widget”**) for incorporation into users’ own sites, third party sites or social media profiles, whether or not a Linked Service. This functionality is provided to enable Uploaders to put their Content wherever they wish, and to enable other users of the Platform to share and distribute Content within the parameters set by the Uploader.
 
@@ -322,7 +320,7 @@ You may not, without the prior written consent of SoundCloud, use the Players or
 
 SoundCloud reserves the right to block your use of the Players and the Widget at any time and for any reason in its sole discretion.
 
-Subscriptions and Gift Codes
+Subscriptions and gift codes
 
 Certain features of the Platform are only available to registered users who subscribe to a “Pro” or “Pro Unlimited” plan (together, **“Pro Accounts”**) or to SoundCloud Go (Pro Accounts and SoundCloud Go are each referred to as a **"Subscrpition"**).
 
@@ -332,7 +330,7 @@ The Pro Account Terms and the SoundCloud Go Terms include, amongst other things,
 
 The Pro Account Terms are applicable to Pro and Pro Unlimited Account users and the SoundCloud Go Terms are applicable to SoundCloud Go users in addition to these general Terms of Use when they purchase a Subscription. SoundCloud reserves the right to limit the availability of SoundCloud Go subscriptions to specific jurisdictions as may be determined by SoundCloud in its sole discretion from time to time.
 
-Changes to the Platform, Accounts and Pricing
+Changes to the Platform, accounts and pricing
 
 SoundCloud reserves the right at any time and for any reason to suspend, discontinue, terminate or cease providing access to the Platform or any part thereof, temporarily or permanently, and whether in its entirety or with respect to individual territories only. In the case of any temporary or permanent suspension, discontinuation, termination or cessation of access, SoundCloud shall use its reasonable endeavors to notify registered users of such decision in advance.
 
@@ -350,7 +348,7 @@ Once your account has been terminated, any and all Content residing in your acco
 
 If you access the Platform via any of our Apps or via any third party app connected to your account, deleting that app will not delete your account. If you wish to delete your account, you will need to do so from the Account page within your Settings on the Website. The provisions of these Terms of Use that are intended by their nature to survive the termination or cancellation of this Agreement will survive the termination of this Agreement, including, but not limited to, those Sections entitled Your SoundCloud Account, Your Content, Grant of License , Representations and Warranties, Liability for Content, Disclaimer, Limitation of Liability, Indemnification, Termination and Right of Cancellation, Assignment to Third Parties, Severability, Entire Agreement, and Applicable Law and Jurisdiction, respectively.
 
-Assignment to Third Parties
+Assignment to third parties
 
 SoundCloud may assign its rights and (where permissible by law) its obligations under this Agreement, in whole or in part, to any third party at any time without notice, including without limitation, to any person or entity acquiring all or substantially all of the assets or business of SoundCloud. You may not assign this Agreement or the rights and duties hereunder, in whole or in part, to any third party without the prior written consent of SoundCloud.
 
@@ -358,15 +356,15 @@ Severability
 
 Should one or more provisions of these Terms of Use be found to be unlawful, void or unenforceable, such provision(s) shall be deemed severable and will not affect the validity and/or enforceability of the remaining provisions of the Terms of Use, which will remain in full force and effect.
 
-Entire Agreement
+Entire agreement
 
 These Terms of Use, together with the Community Guidelines, Privacy Policy and Cookies Policy, constitute the entire agreement between you and SoundCloud with respect to your use of the Platform (other than any use of SoundCloud’s APIs which may also be subject to separate \[API Terms of Use\]), and supersede any prior agreement between you and SoundCloud. Any modifications to this Agreement must be made in writing.
 
-Third Party Rights
+Third party rights
 
 These Terms of Use are not intended to give rights to anyone except you and SoundCloud. This does not affect our right to transfer our rights or obligations to a third party as described in the Assignment to Third Parties section.
 
-Applicable Law and Jurisdiction
+Applicable law and jurisdiction
 
 Except where otherwise required by the mandatory law of the United States or any member state of the European Union
 
