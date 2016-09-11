@@ -8,27 +8,39 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   How to Retrieve My Blog Posts?
+    *   by BraveBelle
+    *   1 hour ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   How do I download an archive of my old blog?
+    *   \[Resolved\] by thibault
+    *   1 year ago
+    *   in Data Migration
+    *   0 votes
+    *   21 (last comment by BraveBelle 1 hour ago)
 *   Old posts
     *   by jenniisme
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   My Old Blog
     *   by sarakoo
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Blog Post
     *   by BlissfulSarah
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Posts
     *   by reinventlovex3
-    *   5 days ago
+    *   6 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
@@ -46,37 +58,37 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by Kool\_justin\_389 1 week ago)
 *   Shut down xanga
     *   by ccicry
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I need my posts from 2004 to 2009, please
     *   by skiwithmenes
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old blogs
     *   by SFTBLLQUEEN334
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Old blogs
     *   by SFTBLLQUEEN334
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Old blogs
     *   by SFTBLLQUEEN334
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Old blogs
     *   by SFTBLLQUEEN334
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
@@ -84,18 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by cAnTHaNdLemE09
     *   4 weeks ago
     *   in Data Migration
-    *   0 votes
-    *   0
-*   Old style Youtube.
-    *   by NarutoxhokagexFox
-    *   1 month ago
-    *   in Premium
-    *   0 votes
-    *   0
-*   I Want to Delete My Account
-    *   by angel\_undercover\_x
-    *   1 month ago
-    *   in Privacy
     *   0 votes
     *   0
 
