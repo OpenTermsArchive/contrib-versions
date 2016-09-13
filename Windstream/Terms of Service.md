@@ -11,7 +11,7 @@ Search Search Windstream.com Search or Cancel
     *   View or Pay My Bill
     *   Move My Service
     *   Go to Windstream.net
-    *   What's New
+    *   Windstream Blog
 
 My Cart (Edit) My Location_:_ n/a
 
@@ -31,9 +31,8 @@ My Cart (Edit) My Location_:_ n/a
 *   Support
     
     *   Support Center
-    *   What's New
-    *   Live Chat
     *   Blog
+    *   Live Chat
     
 
 *   High-Speed Internet
@@ -304,7 +303,7 @@ My Cart (Edit) My Location_:_ n/a
 *   Investor Relations
 *   News
 *   Windstream.net
-*   WINside Track Blog
+*   Windstream Blog
 *   Privacy Policy
 *   Terms &. Conditions
 *   Legal Notices
