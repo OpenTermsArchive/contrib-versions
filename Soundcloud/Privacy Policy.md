@@ -56,9 +56,9 @@ You don’t need to provide us with any personal data in order to visit the Webs
     *   a profile picture, profile header image or avatar
     *   information about how you categorize yourself with respect to your content (for example, whether you are a musician, a label or some other category of creator)
     *   details of your other websites and social media profiles, including links to those websites and profiles
-
-None of this profile information is mandatory, and any information you do provide may be deleted, edited, changed or amended by you at any time. For more information, see the Choice and Control section below.
-
+    
+    None of this profile information is mandatory, and any information you do provide may be deleted, edited, changed or amended by you at any time. For more information, see the Choice and Control section below.
+    
 *   Information from correspondence: You will provide certain personal data if you contact us by email, use any of the webforms on the Website, or contact us by mail, fax or other offline means.
     
 *   Survey information: If you participate in any survey, you will provide certain personal data as part of your response, unless you respond anonymously.
