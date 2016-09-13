@@ -8,27 +8,27 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   How to Retrieve My Blog Posts?
-    *   by BraveBelle
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   21 (last comment by BraveBelle 1 day ago)
+    *   22 (last comment by OUbaby1390 5 hours ago)
+*   How to Retrieve My Blog Posts?
+    *   by BraveBelle
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Old posts
     *   by jenniisme
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   My Old Blog
     *   by sarakoo
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
