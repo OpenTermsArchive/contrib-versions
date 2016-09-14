@@ -9,7 +9,7 @@ Or try a newer browser:
 *   ·
 *   Firefox
 
-Homepage Advertise Sign in or Join Buy
+Homepage Sign in or Join Buy
 
 *   Homes for sale
     *   *   Homes for sale
@@ -34,15 +34,16 @@ Rent
         *   Pet friendly rentals
         *   All rental listings
         *   All rental buildings
-*   Create a renter profile
-    *   *   A renter profile will boost your chances of landing the perfect rental.
+*   Build your Renter Profile
+    *   *   Boost your chances of landing the perfect rental by completing a profile.
             
-        *   Make yours to stand out!
+        *   Start yours and stand out!
 *   Resources
     *   *   Rent affordability calculator
         *   Rent vs. buy calculator
         *   Renters Guide
         *   Rentals app
+        *   Rental advertising
 *   Rental Manager
     *   *   Sign in to see your listings
         *   List a rental (it's free)
@@ -53,8 +54,6 @@ Sell
 
 *   Selling tools
     *   *   See your home's Zestimate
-        *   Price your home using comps
-        *   Sign Up for Home Report
         *   Neighborhood Home Values
 *   Post a home for sale
     *   *   For sale by agent
@@ -65,7 +64,7 @@ Sell
 Mortgages
 
 *   Shop mortgages
-    *   *   Find a lender
+    *   *   Mortgage lenders
         *   Mortgage rates
         *   All mortgage rates
 *   Refinance
@@ -99,17 +98,10 @@ Agent finder
 Advice
 
 *   Discussion topics
-    *   *   All topics
-        *   Zillow questions
-        *   Home buying
-    *   *   Home selling
-        *   Mortgage
+    *   *   Home buying
+        *   Home selling
+    *   *   Mortgage
         *   Rentals
-    *   *   Local topics
-        *   Home ownership
-        *   Pro-to-pro
-*   Zillow questions
-    *   *   Ask the forum about using Zillow
 
 Home design
 
@@ -137,16 +129,7 @@ More
 *   Blogs
     *   *   Zillow Porchlight
         *   Zillow engineering blog
-*   Partners
-    *   *   Zillow affiliates
-        *   Brokers and Zillow
-        *   MLS and Zillow
-        *   Widgets and data
-*   Other
-    *   *   Rental advertising
         *   Zillow research
-        *   Zillow visuals
-        *   Zillow help center
 
 *   Terms of Use
 *   Privacy Policy
