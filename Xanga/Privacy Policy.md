@@ -8,9 +8,15 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Retrieve Old Blogposts
+    *   by babymeryll
+    *   7 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Where is my old blog?
     *   by watshesreallythinking
-    *   13 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,16 +25,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   22 (last comment by OUbaby1390 2 days ago)
+    *   22 (last comment by OUbaby1390 3 days ago)
 *   How to Retrieve My Blog Posts?
     *   by BraveBelle
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old posts
     *   by jenniisme
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -52,16 +58,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Help Please Can't sign in/outdated email
     *   by my\_eternal\_demise
-    *   1 week ago
+    *   2 weeks ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Old Xanga
     *   by angelfire103
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Kool\_justin\_389 1 week ago)
+    *   1 (last comment by Kool\_justin\_389 2 weeks ago)
 *   Shut down xanga
     *   by ccicry
     *   2 weeks ago
@@ -72,12 +78,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by skiwithmenes
     *   3 weeks ago
     *   in Data Migration
-    *   0 votes
-    *   0
-*   Old blogs
-    *   by SFTBLLQUEEN334
-    *   3 weeks ago
-    *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Old blogs
