@@ -10,19 +10,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Retrieving old account
     *   by ksiazka
-    *   10 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   0
+    *   1 (last comment by gnashpol72 11 hours ago)
 *   Retrieve Old Blogposts
     *   by babymeryll
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where is my old blog?
     *   by watshesreallythinking
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -31,10 +31,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   22 (last comment by OUbaby1390 4 days ago)
+    *   22 (last comment by OUbaby1390 5 days ago)
 *   How to Retrieve My Blog Posts?
     *   by BraveBelle
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -76,25 +76,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by Kool\_justin\_389 2 weeks ago)
 *   Shut down xanga
     *   by ccicry
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I need my posts from 2004 to 2009, please
     *   by skiwithmenes
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old blogs
     *   by SFTBLLQUEEN334
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Old blogs
     *   by SFTBLLQUEEN334
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
