@@ -24,7 +24,6 @@ Homepage Sign in or Join Buy
     *   *   Buyers Guide
         *   Foreclosure center
         *   Real estate app
-        *   Change your address
 
 Rent
 
