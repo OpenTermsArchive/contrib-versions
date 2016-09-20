@@ -74,7 +74,7 @@ Classification of Rules >. Alibaba.com User Agreements
 
 <. Back to list Privacy Policy
 
-(Updated as of November 2015)
+(Updated as of 19 September 2016)
 
 Alibaba.com and Aliexpress.com (each a "Site", together the "Sites") are electronic commerce platforms are predominantly used by business entities to facilitate electronic commerce and such business use does not generally involve the collection of personal information of individuals. Alibaba recognizes the importance of privacy as well as the importance of maintaining the confidentiality of personal information. This Privacy Policy applies to all products and services provided by us and sets out how we may collect, use and disclose information in relation to users of the Sites.
 
@@ -112,21 +112,21 @@ If you provide any Personal Data to us, you are deemed to have authorized us to 
 
 4\. providing you with customer service and responding to your queries, feedback, claims or disputes;
 
-5\. to facilitate communication between buyers and sellers on the Sites;
+5\. to facilitate communication between buyers and sellers on the Sites and processing your transactions on the Sites;
 
 6\. performing research or statistical analysis in order to improve the content and layout of the Sites, to improve our product offerings and services and for marketing and promotional purposes;
 
-7\. subject to obtaining your consent in such form as may be required under the applicable law, we may use your name, phone number, residential address, email address and fax number ("Marketing Data") to provide notices, surveys, product alerts, communications and other marketing materials to you relating to goods and services offered by us on the Sites including Gold Suppliers membership, Verified Members membership, Free Members membership (each of Gold Suppliers membership, Verified Members membership, and Free Members membership, a “Membership” and collectively, the “Memberships”) the value added services ancillary to the Memberships, and other products and services offered by us from time to time to members of the Sites.
+7\. subject to obtaining your consent in such form as may be required under the applicable law, we (including our affiliated companies and their designated Service Providers (as defined in C.1 below)) may use your name, phone number, residential address, email address, fax number and other data ("Marketing Data") to provide notices, surveys, product alerts, communications and other marketing materials to you relating to goods and services offered by us on the Sites including but not limited to Gold Suppliers membership, Verified Members membership, Free Members membership (each of Gold Suppliers membership, Verified Members membership, and Free Members membership, a “Membership” and collectively, the “Memberships”) the value added services ancillary to the Memberships, and other products and services offered by us and/or our affiliated companies and their designated Service Providers from time to time to members of the Sites;
 
 8\. if you voluntarily submit any information to the Sites for publication on the Sites through the publishing tools, including but not limited to, Company Profile, Product Catalog, Trade Leads, TrustPass Profile and any discussion forum, then you are deemed to have given consent to the publication of such information on the Sites ("Voluntary Information"). and
 
-9\. making such disclosures as may be required for any of the above purposes or as required by law or in respect of any claims or potential claims brought against us.
+9\. making such disclosures as may be required for any of the above purposes or as required by law, regulations and guidelines or in respect of any investigations, claims or potential claims brought on or against us.
 
 **C. DISCLOSURE OF PERSONAL DATA**
 
-1\. You further agree that we may disclose and transfer (whether within or outside the jurisdiction of the Alibaba entity that you are contracting with) your Personal Data to service providers engaged by us to assist us with providing you with our services (including but not limited to data entry, database management, promotions, products and services alerts, delivery services, payment extension services, and membership authentication and verification services) ("Service Providers"). These Service Providers are under a duty of confidentiality to us and are only permitted to use your Personal Data in connection with the purposes specified at B.1 to B.9 above, and not for their own purposes (including direct marketing).
+1\. You further agree that we may disclose and transfer (whether within or outside the jurisdiction of the Alibaba entity that you are contracting with) your Personal Data to service providers engaged by us and/or other affiliated companies of the Alibaba Group to assist us with providing you with our services (including but not limited to data entry, database management, promotions, products and services alerts, delivery services, payment extension services, membership authentication and verification services and logistics services) ("Service Providers"). These Service Providers are under a duty of confidentiality to us and are only permitted to use your Personal Data in connection with the purposes specified at B.1 to B.9 above, and not for their own purposes.
 
-2\. You agree that we may disclose and transfer (whether within or outside the jurisdiction of the Alibaba entity that you are contracting with), for the purposes specified at B.1 to B.9 above, your Personal Data to other affiliated companies within the Alibaba Group, which comprises a group of companies operating leading online and mobile marketplaces in consumer and business-to-business commerce, as well as cloud computing and other services. 
+2\. You agree that we may disclose and transfer (whether within or outside the jurisdiction of the Alibaba entity that you are contracting with), for the purposes specified at B.1 to B.9 above, your Personal Data to other affiliated companies and/or their designated Service Providers of the Alibaba Group, which comprises a group of companies operating leading online and mobile marketplaces in consumer and business-to-business commerce, as well as cloud computing and other services. 
 
 3\. When necessary we may also disclose and transfer (whether within or outside the jurisdiction of the Alibaba entity that you are contracting with) your Personal Data to our professional advisers, law enforcement agencies, insurers, government and regulatory and other organizations for the purposes specified at B.9 above.
 
@@ -138,7 +138,7 @@ If you provide any Personal Data to us, you are deemed to have authorized us to 
 
 7\. We may provide statistical information to third parties, but when we do so, we do not provide personally-identifying information without your permission.
 
-8\. We have established relationships with other parties and websites to offer you the benefit of products and services which we do not offer. We offer you access to these other parties and their websites either through the use of hyperlinks to these sites from the Sites or through offering "co-branded" sites in which both we and other parties share the same uniform resource locator, domain name or pages within a domain name on the Internet. In some cases you may be required to submit personal information to register or apply for products or services provided by such third parties or co-branded partners. This Privacy Policy does not apply to these third party sites or co-branded sites. The privacy policies of those other parties may differ from ours, and we have no control over the information that you submit to those third parties. You should read the relevant privacy policy for those third party sites and co-branded sites before responding to any offers, products or services advertised by those parties.
+8\. We have established relationships with other parties and websites to offer you the benefit of products and services which we do not offer. We offer you access to these other parties and their websites either through the use of hyperlinks to these sites from the Sites or through offering "co-branded" sites in which both we and other parties share the same uniform resource locator, domain name or pages within a domain name on the Internet. In some cases you may be required to submit personal information to register or apply for products or services provided by such third parties or co-branded partners. This Privacy Policy does not apply to these third party sites or co-branded sites. The privacy policies of those other parties may differ from ours, and we have no control over the information that you submit to those third parties. You should read the relevant privacy policy for those third party sites and co-branded sites before responding to any offers, products or services advertised by those parties
 
 **D. RIGHT TO ACCESS/CORRECT PERSONAL DATA**
 
@@ -196,4 +196,4 @@ Product Listing Policy - Intellectual Property Policy and Infringement Claims - 
 
 © 1999-2016 Alibaba.com. All rights reserved.
 
-icburule011230144130
+icburule011226212175
