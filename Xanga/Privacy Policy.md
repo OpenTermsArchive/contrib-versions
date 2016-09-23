@@ -10,13 +10,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Retrieving old account
     *   by ksiazka
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by gnashpol72 4 days ago)
+    *   1 (last comment by gnashpol72 5 days ago)
 *   Retrieve Old Blogposts
     *   by babymeryll
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -40,7 +40,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Old posts
     *   by jenniisme
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -64,16 +64,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Help Please Can't sign in/outdated email
     *   by my\_eternal\_demise
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Old Xanga
     *   by angelfire103
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Kool\_justin\_389 2 weeks ago)
+    *   1 (last comment by Kool\_justin\_389 3 weeks ago)
 *   Shut down xanga
     *   by ccicry
     *   3 weeks ago
