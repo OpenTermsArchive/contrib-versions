@@ -52,13 +52,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Old Blog Post
     *   by BlissfulSarah
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Posts
     *   by reinventlovex3
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
