@@ -31,7 +31,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   22 (last comment by OUbaby1390 1 week ago)
+    *   22 (last comment by OUbaby1390 2 weeks ago)
 *   How to Retrieve My Blog Posts?
     *   by BraveBelle
     *   2 weeks ago
@@ -76,7 +76,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by Kool\_justin\_389 3 weeks ago)
 *   Shut down xanga
     *   by ccicry
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
