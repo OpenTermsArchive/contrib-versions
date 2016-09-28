@@ -1,7 +1,7 @@
 *   Residential
 *   Small Business
 *   Enterprise
-*   Carrier
+*   Wholesale
 
 Search Search Windstream.com Search or Cancel
 
