@@ -8,6 +8,12 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Membership expired in 2029??
+    *   by JosephShen2004
+    *   2 months ago
+    *   in Premium
+    *   0 votes
+    *   1 (last comment by rainy\_z 2 hours ago)
 *   Retrieving old account
     *   by ksiazka
     *   1 week ago
@@ -84,12 +90,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by skiwithmenes
     *   1 month ago
     *   in Data Migration
-    *   0 votes
-    *   0
-*   Old blogs
-    *   by SFTBLLQUEEN334
-    *   1 month ago
-    *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Old blogs
