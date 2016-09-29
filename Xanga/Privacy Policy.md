@@ -13,7 +13,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 months ago
     *   in Premium
     *   0 votes
-    *   1 (last comment by rainy\_z 2 hours ago)
+    *   1 (last comment by rainy\_z 1 day ago)
 *   Retrieving old account
     *   by ksiazka
     *   1 week ago
@@ -28,7 +28,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Where is my old blog?
     *   by watshesreallythinking
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -52,7 +52,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   My Old Blog
     *   by sarakoo
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
