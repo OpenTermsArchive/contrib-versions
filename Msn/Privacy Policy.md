@@ -95,7 +95,7 @@ Finally, we will access, transfer, disclose, and preserve personal data, includi
 3.  operate and maintain the security of our products, including to prevent or stop an attack on our computer systems or networks. or
 4.  protect the rights or property of Microsoft, including enforcing the terms governing the use of the services - however, if we receive information indicating that someone is using our services to traffic in stolen intellectual or physical property of Microsoft, we will not inspect a customer's private content ourselves, but we may refer the matter to law enforcement.
 
-For more information about data we disclose in response to requests from law enforcement and other government agencies, please see our Law Enforcement Transparency Report, available at http://microsoft.com/about/corporatecitizenship/en-us/reporting/transparency.
+For more information about data we disclose in response to requests from law enforcement and other government agencies, please see our Law Enforcement Transparency Report, available at microsoft.com/about/corporatecitizenship/en-us/reporting/transparency.
 
 Please note that some of our products include links to products of third parties whose privacy practices differ from Microsoft's. If you provide personal data to any of those products, your data is governed by their privacy statements.
 
@@ -109,12 +109,12 @@ Full text
 
 You can view or edit your personal data online for many Microsoft products. You can also make choices about Microsoft's collection and use of your data. How you can access or control your personal data will depend on which products you use. For example:
 
-*   **Microsoft account**. If you wish to access or edit the profile information and payment information in your Microsoft account, change your password, add security information or close your account, you can do so by visiting https://account.microsoft.com. From here, you can also access controls for other Microsoft products.
-*   **Bing and Cortana**. You can access or clear your Bing search history, redeem Bing Rewards, view and modify interests, and manage other Cortana data at https://www.bing.com/account/general.
-*   **Skype**. If you wish to access or edit the profile information and payment information in your Skype account or change your password, you can sign into your account at https://login.skype.com/login.
+*   **Microsoft account**. If you wish to access or edit the profile information and payment information in your Microsoft account, change your password, add security information or close your account, you can do so by visiting account.microsoft.com. From here, you can also access controls for other Microsoft products.
+*   **Bing and Cortana**. You can access or clear your Bing search history, redeem Bing Rewards, view and modify interests, and manage other Cortana data at www.bing.com/account/general.
+*   **Skype**. If you wish to access or edit the profile information and payment information in your Skype account or change your password, you can sign into your account at login.skype.com/login.
 *   **Xbox**. If you use Xbox Live or Xbox.com, you can view or edit your personal data, including billing and account information, privacy settings, online safety and data sharing preferences by accessing My Xbox on the Xbox console or on the Xbox.com website.
-*   **Microsoft Store**. You can access your Microsoft Store profile and account information by visiting https://www.microsoftstore.com/ and clicking on "View account" or "Order history."
-*   **Microsoft.com**. You can access and update your profile on microsoft.com by visiting the Microsoft.com Profile Center. If you have a Microsoft Developer Network public profile, you can access and edit it at https://connect.microsoft.com/profile.aspx.
+*   **Microsoft Store**. You can access your Microsoft Store profile and account information by visiting www.microsoftstore.com/ and clicking on "View account" or "Order history."
+*   **Microsoft.com**. You can access and update your profile on microsoft.com by visiting the Microsoft.com Profile Center. If you have a Microsoft Developer Network public profile, you can access and edit it at connect.microsoft.com/profile.aspx.
 
 If you cannot access certain personal data collected by Microsoft via the links above or directly through the Microsoft products you use, you can always contact Microsoft by using our web form. We will respond to requests to access or delete your personal data within 30 days.
 
@@ -209,20 +209,20 @@ In addition to placing web beacons on our own websites, we sometimes work with o
 
 Finally, Microsoft products often contain web beacons or similar technologies from third-party analytics providers, which help us compile aggregated statistics about the effectiveness of our promotional campaigns or other operations. These technologies enable the analytics providers to set or read their own cookies or other identifiers on your device, through which they can collect information about your online activities across applications, websites or other products. However, we prohibit these analytics providers from using web beacons on our sites to collect or access information that directly identifies you (such as your name or email address). You can opt out of data collection or use by some of these analytics providers by clicking the following links:
 
-*   Flurry Analytics: http://flurry.com/legal-privacy/end-user-opt-out
-*   Google Analytics: http://tools.google.com/dlpage/gaoptout (requires you to install a browser add-on)
-*   Kissmetrics: https://kissmetrics.com/user-privacy
-*   Mixpanel: https://mixpanel.com/optout
-*   Nielsen: http://www.nielsen-online.com/corp.jsp?section=leg\_prs&nav=1#Optoutchoices
-*   Omniture (Adobe): http://www.d1.sc.omtrdc.net/optout.html
-*   Visible Measures: http://corp.visiblemeasures.com/viewer-settings
-*   WebTrends: https://ondemand.webtrends.com/support/optout.asp
+*   Flurry Analytics: flurry.com/legal-privacy/end-user-opt-out
+*   Google Analytics: tools.google.com/dlpage/gaoptout (requires you to install a browser add-on)
+*   Kissmetrics: kissmetrics.com/user-privacy
+*   Mixpanel: mixpanel.com/optout
+*   Nielsen: www.nielsen-online.com/corp.jsp?section=leg\_prs&nav=1#Optoutchoices
+*   Omniture (Adobe): www.d1.sc.omtrdc.net/optout.html
+*   Visible Measures: corp.visiblemeasures.com/viewer-settings
+*   WebTrends: ondemand.webtrends.com/support/optout.asp
 
 **Other Similar Technologies**
 
 In addition to standard cookies and web beacons, our products can also use other similar technologies to store and read data files on your computer. This is typically done to maintain your preferences or to improve speed and performance by storing certain files locally. But, like standard cookies, these technologies can also be used to store a unique identifier for your computer, which can then be used to track behavior. These technologies include Local Shared Objects (or "Flash cookies") and Silverlight Application Storage.
 
-**Local Shared Objects or "Flash cookies."** Web sites that use Adobe Flash technologies can use Local Shared Objects or "Flash cookies" to store data on your computer. To manage or block Flash cookies, go to http://www.macromedia.com/support/documentation/en/flashplayer/help/settings\_manager.html.
+**Local Shared Objects or "Flash cookies."** Web sites that use Adobe Flash technologies can use Local Shared Objects or "Flash cookies" to store data on your computer. To manage or block Flash cookies, go to www.macromedia.com/support/documentation/en/flashplayer/help/settings\_manager.html.
 
 **Silverlight Application Storage.** Web sites or applications that use Microsoft Silverlight technology also have the ability to store data by using Silverlight Application Storage. To learn how to manage or block such storage, see the Silverlight section of this statement.
 
@@ -246,13 +246,13 @@ With a Microsoft account, you can sign into Microsoft products, as well as those
 
 **Personal Microsoft accounts received from third parties**. If you received your personal Microsoft account from a third party, like an Internet service provider, that third party may have rights over your account, including the ability to access or delete your Microsoft account. **You should carefully review any additional terms the third party provided you to understand what it can do with your account.**
 
-**Connecting your personal Microsoft account to your social network accounts**. You may connect your personal Microsoft account to your accounts on social networks such as Facebook, Twitter or LinkedIn in order to access data from those social networks from within Microsoft products. If you choose to do so, we will store data about your social network accounts on our servers so that we can display updated data from your social network account. You can disconnect a social network account from your personal Microsoft account at any time at https://profile.live.com/services.
+**Connecting your personal Microsoft account to your social network accounts**. You may connect your personal Microsoft account to your accounts on social networks such as Facebook, Twitter or LinkedIn in order to access data from those social networks from within Microsoft products. If you choose to do so, we will store data about your social network accounts on our servers so that we can display updated data from your social network account. You can disconnect a social network account from your personal Microsoft account at any time at profile.live.com/services.
 
 **Using work or school accounts**. If your employer or school uses Azure Active Directory (AAD) to issue and manage the account it provides you, you can use your work or school account to sign into Microsoft products that use AAD (such as Office 365 or Skype for Business). If required by your organization, you will also be asked to provide a phone number or an alternative email address for additional security verification. If you sign into Microsoft products with a work or school account, the owner of the domain associated with your email address may control and administer your account, and access and process your data, including the contents of your communications and files. Your use of the products may be subject to your organization's policies, if any. Microsoft is not responsible for the privacy or security practices of these organizations, which may differ from those of Microsoft. If your organization is administering your use of Microsoft products, please direct your privacy inquiries to your administrator.
 
 Other Important Privacy InformationOther Important Privacy InformationmainotherimportantprivacyinformationmoduleSummary
 
-Below you will find additional privacy information you may find important. You can also find more information on Microsoft's commitment to protecting your privacy at https://privacy.microsoft.com.
+Below you will find additional privacy information you may find important. You can also find more information on Microsoft's commitment to protecting your privacy at privacy.microsoft.com.
 
 Security of Personal DataSecurity of Personal DatamainsecurityofpersonaldatamoduleSummary
 
@@ -262,7 +262,7 @@ Where We Store and Process Personal DataWhere We Store and Process Personal Data
 
 Personal data collected by Microsoft may be stored and processed in your region, in the United States or in any other country where Microsoft or its affiliates, subsidiaries or service providers maintain facilities. We take steps to ensure that the data we collect under this privacy statement is processed according to the provisions of this statement and the requirements of applicable law wherever the data is located.
 
-When we transfer personal data from the European Economic Area to other countries, we use a variety of legal mechanisms, including contracts, to help ensure your rights and protections travel with your data. Microsoft adheres to the principles of the U.S.-Swiss Safe Harbor framework, and intends to adopt the forthcoming EU-U.S. Privacy Shield Principles, regarding the collection, use, and retention of data from the European Economic Area and Switzerland. To learn more about the Safe Harbor program, and to view our certification, please visit http://www.export.gov/safeharbor.
+When we transfer personal data from the European Economic Area to other countries, we use a variety of legal mechanisms, including contracts, to help ensure your rights and protections travel with your data. Microsoft adheres to the principles of the U.S.-Swiss Safe Harbor framework, and intends to adopt the forthcoming EU-U.S. Privacy Shield Principles, regarding the collection, use, and retention of data from the European Economic Area and Switzerland. To learn more about the Safe Harbor program, and to view our certification, please visit www.export.gov/safeharbor.
 
 Our Retention of Personal DataOur Retention of Personal DatamainOurretentionofpersonaldatamoduleSummary
 
@@ -278,7 +278,7 @@ When a Microsoft product collects age it will either block users under 13 or wil
 
 Once parental consent is granted, the child's account is treated much like any other account. The child may have access to communication services like email, instant messaging and online message boards and may be able to communicate freely with other users of all ages.
 
-Parents can change or revoke the consent choices previously made, and review, edit or request the deletion of their children's personal data. For example, parents can access their personal Microsoft account and click on "Permissions." For users of Minecraft and other Mojang games, parents can contact us at https://account.mojang.com/terms#contact.
+Parents can change or revoke the consent choices previously made, and review, edit or request the deletion of their children's personal data. For example, parents can access their personal Microsoft account and click on "Permissions." For users of Minecraft and other Mojang games, parents can contact us at account.mojang.com/terms#contact.
 
 Preview ReleasesPreview ReleasesmainpreviewreleasesmoduleSummary
 
@@ -290,7 +290,7 @@ We will update this privacy statement when necessary to reflect customer feedbac
 
 How to Contact UsHow to Contact UsmainhowtocontactusmoduleSummary
 
-If you have a technical or support question, please visit http://support.microsoft.com to learn more about Microsoft Support offerings. If you have a personal Microsoft account password question, please visit Microsoft account support.
+If you have a technical or support question, please visit support.microsoft.com to learn more about Microsoft Support offerings. If you have a personal Microsoft account password question, please visit Microsoft account support.
 
 If you have a privacy concern or a question for the Chief Privacy Officer of Microsoft, please contact us by using our Web form. We will respond to questions or concerns within 30 days.
 
@@ -300,7 +300,7 @@ Microsoft Ireland Operations Limited is our data protection representative for t
 
 Skype Communications S.à.r.l. 23-29 Rives de Clausen L-2165 Luxembourg, Luxembourg is a data controller for Skype. To contact us in relation to Skype software or products, please submit a support request to the Skype customer support team.
 
-To find the Microsoft subsidiary in your country or region, see http://www.microsoft.com/worldwide/.
+To find the Microsoft subsidiary in your country or region, see www.microsoft.com/worldwide/.
 
 BingBingmainbingmoduleSummary
 
@@ -366,7 +366,7 @@ Cortana is your personal assistant. Cortana works best when you sign in and let 
 *   **Connected Microsoft services**. If you choose to connect Cortana to your Xbox Live account, Cortana can access your Xbox Live data in order to learn about your gaming activity and provide you with relevant content and suggestions, notify you when your friends are available to play, and help you schedule game sessions. If you choose to connect Cortana to your Office 365 work or school account, Cortana can access data stored in Office 365 to help you stay up to date and get insights about your meetings, documents, and relationships.
 *   **Connected third-party services**. Cortana allows you to connect to third-party services to enable her to do more and provide additional personalized experiences based upon data from the third-party service, such as LinkedIn or Uber. For example, choosing to sign into LinkedIn within Cortana allows Microsoft to access your LinkedIn data so that Cortana can give you more personalized information and recommendations. **_When Cortana is connected to a third-party service, it can also send data to that service to enable the connected service_** . For instance, Cortana will send to LinkedIn the name, email address, job title, and company name of people you are meeting with, in order for Cortana to retrieve relevant information about those contacts. Similarly, Cortana will send your current location and destination to Uber when you ask Cortana to request a ride. You can manage Cortana's connections to third-party services in the Cortana Notebook.
 
-Remember that you can always sign out of Cortana, and when you do, Cortana will still be there to help, but your experiences will not be personalized. You can manage what data Cortana uses, and what it knows about you in Cortana Settings, Permissions, and Notebook. More about the individual features, and how to manage them can be found at http://go.microsoft.com/fwlink/?linkid=522360.
+Remember that you can always sign out of Cortana, and when you do, Cortana will still be there to help, but your experiences will not be personalized. You can manage what data Cortana uses, and what it knows about you in Cortana Settings, Permissions, and Notebook. More about the individual features, and how to manage them can be found at go.microsoft.com/fwlink/?linkid=522360.
 
 Groove Music/Movies &. TVGroove Music/Movies &. TVmaingroovemusicmoviestvmoduleSummary
 
@@ -447,11 +447,11 @@ Previous versions of MSN Money allow you to access personal finance information 
 
 OfficeOfficemainofficeservicesmoduleSummary
 
-Office is a collection of productivity applications including Word, Excel, PowerPoint, and Outlook among others. For more details about Outlook, see the Outlook section of this privacy statement. Various Office applications enable you to use content and functionality from other Microsoft and third-party connected services such as Bing. For detailed information about how to manage your privacy options, please see http://go.microsoft.com/fwlink/?LinkId=624445. If you work in an organization, your administrator can turn off connected services via Group Policy.
+Office is a collection of productivity applications including Word, Excel, PowerPoint, and Outlook among others. For more details about Outlook, see the Outlook section of this privacy statement. Various Office applications enable you to use content and functionality from other Microsoft and third-party connected services such as Bing. For detailed information about how to manage your privacy options, please see go.microsoft.com/fwlink/?LinkId=624445. If you work in an organization, your administrator can turn off connected services via Group Policy.
 
 Full text
 
-Office is a collection of productivity applications including Word, Excel, PowerPoint, and Outlook among others. For more details about Outlook, see the Outlook section of this privacy statement. Various Office applications enable you to use content and functionality from other Microsoft and third-party connected services such as Bing. For detailed information about how to manage your privacy options, please see http://go.microsoft.com/fwlink/?LinkId=624445. If you work in an organization, your administrator can turn off connected services via Group Policy.
+Office is a collection of productivity applications including Word, Excel, PowerPoint, and Outlook among others. For more details about Outlook, see the Outlook section of this privacy statement. Various Office applications enable you to use content and functionality from other Microsoft and third-party connected services such as Bing. For detailed information about how to manage your privacy options, please see go.microsoft.com/fwlink/?LinkId=624445. If you work in an organization, your administrator can turn off connected services via Group Policy.
 
 **Office Roaming Service**. The Office Roaming Service helps keep your Office settings up-to-date across your devices running Office. When you sign into Office with your Microsoft account, the Office Roaming Service is turned on and syncs some of your customized Office settings to Microsoft servers (such as a list of most recently used documents and the last location viewed within a document). When you sign into Office on another device with the same account, the Office Roaming Service downloads your settings from Microsoft servers and applies them to the additional device. The Office Roaming Service also applies some of your customized Office settings when you sign into Office.com. When you sign out of Office, the Office Roaming Service removes your Office settings from your device. Any changes you made to your customized Office settings are sent to Microsoft servers.
 
@@ -543,11 +543,11 @@ As part of providing these features, Microsoft collects usage data about your co
 
 **Skype Manager**. Skype Manager lets you manage a group’s (such as your family’s) Skype usage from one central place. When you set up a group, you will be the Skype Manager Administrator and can see the patterns of usage, including detailed information, like traffic data and details of purchases, of other members of the group who have consented to such access. If you add information like your name, other people in the group will be able to see it. Members of the group can withdraw consent for Skype Manager on their account page at www.skype.com.
 
-**Skype marketing affiliate program.** So that more people can learn about Skype, we encourage other companies and organizations to sign up as marketing affiliates to refer people to Skype. When the people they refer do things like buy Skype Credit, we pay them. We partner with another company, Conversant Media, to operate our affiliate network. Microsoft, our network partner, and the marketing affiliates use cookies and web beacons so we can know which marketing affiliate made a successful referral and earned a payment. Microsoft doesn’t control the cookies that the marketing affiliates set. For more information on the privacy practices of our network partner, visit http://www.conversantmedia.com/legal/privacy.
+**Skype marketing affiliate program.** So that more people can learn about Skype, we encourage other companies and organizations to sign up as marketing affiliates to refer people to Skype. When the people they refer do things like buy Skype Credit, we pay them. We partner with another company, Conversant Media, to operate our affiliate network. Microsoft, our network partner, and the marketing affiliates use cookies and web beacons so we can know which marketing affiliate made a successful referral and earned a payment. Microsoft doesn’t control the cookies that the marketing affiliates set. For more information on the privacy practices of our network partner, visit www.conversantmedia.com/legal/privacy.
 
 **Push notifications**. To let you know of incoming calls, chats and other messages, Skype apps use the notification service on your device. For many devices, these services are provided by a another company. To tell you who is calling, for example, or to give you the first few words of the new chat, Skype has to tell the notification service so that they can provide the notification to you. The company providing the notification service on your device will use this information in accordance with their own terms and privacy policy. Microsoft is not responsible for the data collected by company providing the notification service. If you don’t want to use the notification services for incoming Skype calls and messages, turn it off in the settings found in the Skype application or your device.
 
-**Skype advertising**. Some Skype software includes interest-based advertising, so that you’re more likely to see ads you’ll like. In some versions of the software, you can opt out of interest-based advertising in the privacy options or account settings menu. If you sign in to Skype with a Microsoft account, you can opt out of interest-based advertising at http://choice.microsoft.com. If you opt out, you’ll still see ads displayed in the Skype software based on your country of residence, language preference, and IP address location, but other data is not used for ad targeting.
+**Skype advertising**. Some Skype software includes interest-based advertising, so that you’re more likely to see ads you’ll like. In some versions of the software, you can opt out of interest-based advertising in the privacy options or account settings menu. If you sign in to Skype with a Microsoft account, you can opt out of interest-based advertising at choice.microsoft.com. If you opt out, you’ll still see ads displayed in the Skype software based on your country of residence, language preference, and IP address location, but other data is not used for ad targeting.
 
 **Translation features**. To help you communicate with people in different languages, some Skype apps offer audio and/or text translation features. When you use translation features, your voice and text data are used to provide and improve Microsoft speech recognition and translation services.
 
@@ -593,7 +593,7 @@ You may receive occasional notifications on your device alerting you to product 
 
 WindowsWindowsmainwindowsmoduleSummary
 
-Windows is a personalized computing environment that enables you to seamlessly roam and access services, preferences and content across your computing devices from phones to tablets to the Surface Hub. Rather than residing as a static software program on your device, key components of Windows are cloud-based, and both cloud and local elements of Windows are updated regularly, providing you with the latest improvements and features. In order to provide this computing experience, we collect data about you, your device, and the way you use Windows. And because Windows is personal to you, we give you choices about the personal data we collect and how we use it. Note that if your Windows device is managed by your organization (such as your employer or school), your organization may use centralized management tools provided by Microsoft or others to control device settings, device policies, software updates, data collection by us or the organization, or other aspects of your device. For more information about data collection and privacy in Windows, go to http://go.microsoft.com/fwlink/?LinkId=529552. Legacy versions of Windows (including Vista, 7, 8, and 8.1) are subject to their own privacy statements.
+Windows is a personalized computing environment that enables you to seamlessly roam and access services, preferences and content across your computing devices from phones to tablets to the Surface Hub. Rather than residing as a static software program on your device, key components of Windows are cloud-based, and both cloud and local elements of Windows are updated regularly, providing you with the latest improvements and features. In order to provide this computing experience, we collect data about you, your device, and the way you use Windows. And because Windows is personal to you, we give you choices about the personal data we collect and how we use it. Note that if your Windows device is managed by your organization (such as your employer or school), your organization may use centralized management tools provided by Microsoft or others to control device settings, device policies, software updates, data collection by us or the organization, or other aspects of your device. For more information about data collection and privacy in Windows, go to go.microsoft.com/fwlink/?LinkId=529552. Legacy versions of Windows (including Vista, 7, 8, and 8.1) are subject to their own privacy statements.
 
 ActivationActivationmainactivationmoduleSummary
 
@@ -617,7 +617,7 @@ Note that on mobile devices, your mobile operator will have access to your locat
 
 **General Location**. If you turn on the General Location feature, apps that cannot use your precise location will have access to your general location, such as your city, postal code, or region.
 
-**Find My Phone.** The Find My Phone feature allows you to find the location of your Windows phone from https://account.microsoft.com, even if you have turned off all access to the location service on the phone. If you have turned on the "save my location every few hours" feature in the Find My Phone settings on your phone, the Find My Phone feature will periodically send and store a single last known location of your phone, even if you have turned off location services on your phone. Each time a new location is sent, it replaces the previously-stored location.
+**Find My Phone.** The Find My Phone feature allows you to find the location of your Windows phone from account.microsoft.com, even if you have turned off all access to the location service on the phone. If you have turned on the "save my location every few hours" feature in the Find My Phone settings on your phone, the Find My Phone feature will periodically send and store a single last known location of your phone, even if you have turned off location services on your phone. Each time a new location is sent, it replaces the previously-stored location.
 
 **Find My Device.** The Find My Device feature allows an administrator of a Windows PC or tablet to find the location of that device if the administrator has enabled the location service for the device, even if other users have disabled location for themselves. When the administrator attempts to locate the device, users will see a notification in the notification center.
 
@@ -788,7 +788,7 @@ If you use an Xbox console that includes a storage device (hard drive or memory 
 *   Kinect's microphones enable voice chat between players during gameplay. They also enable voice commands for control of the console, game or app, or to enter search terms. See below for additional details on voice data collection.
 *   The Kinect sensor can also be used for audio and video communications through services such as Skype.
 
-To learn more about Kinect, please visit the Kinect FAQ.
+To learn more about Kinect, for Xbox 360, see Kinect and Xbox 360 privacy. For Xbox One, see Kinect and Xbox One Privacy.
 
 **Communications monitoring.** Xbox Live includes communications features such as text-based messaging and online voice chat between players during gameplay. In order to help provide a safe gaming environment and enforce the Microsoft Code of Conduct, we will collect, review, and monitor a sample of these communications, including Xbox Live game chats and party chat communications in live-hosted multiplayer gameplay sessions offered through the services.
 
@@ -804,13 +804,23 @@ Enterprise ProductsEnterprise ProductsmainenterpriseservicesmoduleSummary
 
 Enterprise Products are those Microsoft products and related offerings that that are offered or designed primarily for use by organizations and developers. They include subscription cloud services, such as Office 365, Microsoft Azure, Microsoft Dynamics CRM Online, Microsoft Intune, and Yammer, for which an organization (our "customer") contracts with Microsoft for the services (“Online Services”). They also include server and developer products customers run on their own premises, such as Windows Server, SQL Server, Visual Studio, and System Center (“On-Prem Products”).
 
-Some Enterprise Products have their own, separate privacy statements. **_In the event of a conflict between a Microsoft privacy statement and the terms of any agreement(s) between a customer and Microsoft, the terms of those agreement(s) will control._**
+Some Enterprise Products have their own, separate privacy statements. The following notices explain specific privacy practices with respect to certain Microsoft products you may use:
+
+*   Enterprise and developer
+*   Online services
+
+**In the event of a conflict between a Microsoft privacy statement the terms of any agreement(s) between a customer and Microsoft, the terms of those agreement(s) will control.**
 
 Full text
 
 Enterprise Products are those Microsoft products and related offerings that that are offered or designed primarily for use by organizations and developers. They include subscription cloud services, such as Office 365, Microsoft Azure, Microsoft Dynamics CRM Online, Microsoft Intune, and Yammer, for which an organization (our "customer") contracts with Microsoft for the services (“Online Services”). They also include server and developer products customers run on their own premises, such as Windows Server, SQL Server, Visual Studio, and System Center (“On-Prem Products”).
 
-Some Enterprise Products have their own, separate privacy statements. **_In the event of a conflict between a Microsoft privacy statement and the terms of any agreement(s) between a customer and Microsoft, the terms of those agreement(s) will control._**
+Some Enterprise Products have their own, separate privacy statements. The following notices explain specific privacy practices with respect to certain Microsoft products you may use:
+
+*   Enterprise and developer
+*   Online services
+
+**In the event of a conflict between a Microsoft privacy statement the terms of any agreement(s) between a customer and Microsoft, the terms of those agreement(s) will control.**
 
 When a customer purchases or subscribes to Enterprise Products, or obtains support for such products, Microsoft collects data to provide the best experiences with our products, operate our business, and communicate with the customer. For example:
 
