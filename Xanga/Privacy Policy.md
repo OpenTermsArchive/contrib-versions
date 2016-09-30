@@ -8,12 +8,18 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   No Archive Download Option
+    *   by theoremfortruth
+    *   23 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Membership expired in 2029??
     *   by JosephShen2004
     *   2 months ago
     *   in Premium
     *   0 votes
-    *   1 (last comment by rainy\_z 1 day ago)
+    *   1 (last comment by rainy\_z 2 days ago)
 *   Retrieving old account
     *   by ksiazka
     *   1 week ago
@@ -22,7 +28,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by gnashpol72 1 week ago)
 *   Retrieve Old Blogposts
     *   by babymeryll
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -46,7 +52,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Old posts
     *   by jenniisme
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -70,7 +76,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Help Please Can't sign in/outdated email
     *   by my\_eternal\_demise
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -79,7 +85,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Kool\_justin\_389 3 weeks ago)
+    *   1 (last comment by Kool\_justin\_389 4 weeks ago)
 *   Shut down xanga
     *   by ccicry
     *   1 month ago
@@ -90,12 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by skiwithmenes
     *   1 month ago
     *   in Data Migration
-    *   0 votes
-    *   0
-*   Old blogs
-    *   by SFTBLLQUEEN334
-    *   1 month ago
-    *   in Adding &. Editing Entries
     *   0 votes
     *   0
 
