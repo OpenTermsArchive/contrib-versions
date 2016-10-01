@@ -8,9 +8,15 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   " christy\_rainbowisland " can't retrieve of my xanga site
+    *   by christy\_rainbowisland
+    *   19 hours ago
+    *   in Themes
+    *   0 votes
+    *   0
 *   No Archive Download Option
     *   by theoremfortruth
-    *   23 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,10 +25,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 months ago
     *   in Premium
     *   0 votes
-    *   1 (last comment by rainy\_z 2 days ago)
+    *   1 (last comment by rainy\_z 3 days ago)
 *   Retrieving old account
     *   by ksiazka
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by gnashpol72 1 week ago)
@@ -88,12 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by Kool\_justin\_389 4 weeks ago)
 *   Shut down xanga
     *   by ccicry
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   I need my posts from 2004 to 2009, please
-    *   by skiwithmenes
     *   1 month ago
     *   in Data Migration
     *   0 votes
