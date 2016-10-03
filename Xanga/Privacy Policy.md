@@ -8,21 +8,27 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   MY OLD BLOG
+    *   by Tung\_1214
+    *   15 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Retrieving old account
     *   by hei\_hei88
-    *   9 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   " christy\_rainbowisland " can't retrieve of my xanga site
     *   by christy\_rainbowisland
-    *   1 day ago
+    *   2 days ago
     *   in Themes
     *   0 votes
     *   0
 *   No Archive Download Option
     *   by theoremfortruth
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -31,7 +37,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 months ago
     *   in Premium
     *   0 votes
-    *   1 (last comment by rainy\_z 4 days ago)
+    *   1 (last comment by rainy\_z 5 days ago)
 *   Retrieving old account
     *   by ksiazka
     *   2 weeks ago
@@ -76,13 +82,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Old Blog Post
     *   by BlissfulSarah
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Posts
     *   by reinventlovex3
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
@@ -92,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
-*   Old Xanga
-    *   by angelfire103
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by Kool\_justin\_389 1 month ago)
 
 1 2 3 ... 176 Next
 
