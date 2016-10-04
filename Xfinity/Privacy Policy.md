@@ -1,48 +1,6 @@
-Come here often? Make XFINITY.com your homepage Â» close
+This is an archived privacy policy. It is not current. For the current policy, please click here.
 
-Get instant access to XFINITY.com. Download the XFINITYÂ® One Click Google extensionÂ» close
-
-Your complete guide to the 2012 Summer Olympics. Every minute. Every Medal. Every Screen. Go Now close
-
-Your XFINITY Connect session has timed out due to inactivity. Click here to go back close
-
-*   XFINITY
-
-*   Welcome
-*   Shop
-*   Shop/Upgrade
-*   Shop/Upgrade
-*   My Account
-*   My Account
-*   Support
-*   Support
-*   My XFINITY
-
-*   TV
-*   Email
-*   Sign In
-*   Hello, Guest Sign Out
-*   Business
-*   Business
-
-More
-
-*   Welcome
-*   Shop
-*   Shop/Upgrade
-*   Shop/Upgrade
-*   My Account
-*   My Account
-*   Support
-*   Support
-*   My XFINITY
-*   TV
-*   Email
-*   Business
-*   Business
-
-Â  Â  XFINITY Privacy Policy This is an archived privacy policy. It is not current. For the current policy, please click here. Privacy Policy Archive (Previous Versions) **Effective October 7, 2011 Learn More**Web Services Privacy Policy  
-October 7, 2011 Summary (Jump to Full Policy) What the Privacy Policy does
+Privacy Policy Archive (Previous Versions) Web Services Privacy Policy Revised and Effective: October 7, 2011 Summary (Jump to Full Policy) What the Privacy Policy does
 
 The Web Services Privacy Policy describes the information Comcast collects about you, how Comcast uses that information, and how Comcast protects your privacy when you use the Websites and the services and software we offer here: www.comcast.net, customer.comcast.com, www.tunerfish.com, and www.plaxo.com.
 
@@ -78,7 +36,7 @@ The Web Services are provided by various companies that are part of Comcast. We 
 
 Disclosure of your Information
 
-We respect and protect your privacy, but it is possible that we may be required to provide information about you to a court or law enforcement agency. We will only disclose your information if we are legally required to do soâif we receive a valid subpoena, court order, or search warrant, for example.
+We respect and protect your privacy, but it is possible that we may be required to provide information about you to a court or law enforcement agency. We will only disclose your information if we are legally required to do so—if we receive a valid subpoena, court order, or search warrant, for example.
 
 Your Choices
 
@@ -98,7 +56,7 @@ Plaxo users have several choices about how to share information from their addre
 
 Advertising Networks
 
-Advertising networks help us display ads to you. They may use cookies and other technology to identify your interests so they can give you more useful ads. In the Privacy Policy, we give you the links to the âopt-outâ pages for the ad networks that we use. You can elect to tell them not to collect information from you.
+Advertising networks help us display ads to you. They may use cookies and other technology to identify your interests so they can give you more useful ads. In the Privacy Policy, we give you the links to the “opt-out” pages for the ad networks that we use. You can elect to tell them not to collect information from you.
 
 Blogs and Forums
 
@@ -110,7 +68,7 @@ You may choose to use social networking Websites to share information from your 
 
 Changes to Comcast's Business or the Privacy Policy
 
-If Comcast's business changesâfor example, if our company merges with another company or we sell one or more of the Comcast companies that provide the Web Servicesâwe may give the new owners of the Web Services your information. If this happens, we will tell you. We will also let you know if the Privacy Policy changes for any other reason, so you can decide whether you want to continue using the Web Services.
+If Comcast's business changes—for example, if our company merges with another company or we sell one or more of the Comcast companies that provide the Web Services—we may give the new owners of the Web Services your information. If this happens, we will tell you. We will also let you know if the Privacy Policy changes for any other reason, so you can decide whether you want to continue using the Web Services.
 
 Full Policy
 
@@ -235,7 +193,7 @@ Ad Choices
 
 Comcast may use your Registration Data to send you a confirmation e-mail verifying the ownership of the e-mail addresses provided in your Registration Data and to send you service-related communications about the Comcast Web Services. In addition, Comcast may send you promotional or commercial e-mail relating to each Comcast Site for which you have activated your account as permitted by applicable law. You can opt-out from receiving such promotional or commercial e-mail by following the instructions contained in the e-mails or by going to:
 
-http://xfinity.comcast.net/subscribe/
+http://my.xfinity.com/subscribe/
 
 http://www.plaxo.com/settings/email
 
@@ -263,7 +221,7 @@ Children under the age of 13 should not post in any of the blogs, forums, or oth
 
 Comcast uses industry standard approaches to securely store, control access to, and make appropriate use of Your Data, and we require our contractors and other providers to do so as well. However, no security measure is completely effective and Comcast cannot guarantee the complete security of Your Data. If you don't want Comcast to know any particular information about you, you should not register to use the Comcast Web Services or include it in anything that you submit or post to Comcast, including posts on the Comcast Sites or e-mails to Comcast. More information on Internet security can be found here: http://security.comcast.net/.
 
-Comcast also takes additional steps to increase the security and reliability of customer communications. We do not read your outgoing or incoming e-mail, file attachments, video mail, private chat, or instant messages. However, we (along with our third party providers) use software and hardware tools to help prevent and block "spam" e-mails, viruses, spyware, and other harmful or unwanted communications and programs from bring sent and received over Comcast.net e-mail and the Comcast Sites. These tools may automatically scan your e-mails, video mails, instant messages, file attachments, and other files and communications in order to help us protect you and the Service against these harmful or unwanted communications and programs. You can learn more about Comcast's anti-spam approach at http://help.comcast.net/content/faq/What-is-Comcast-doing-about-spam.
+Comcast also takes additional steps to increase the security and reliability of customer communications. We do not read your outgoing or incoming e-mail, file attachments, video mail, private chat, or instant messages. However, we (along with our third party providers) use software and hardware tools to help prevent and block "spam" e-mails, viruses, spyware, and other harmful or unwanted communications and programs from bring sent and received over Comcast.net e-mail and the Comcast Sites. These tools may automatically scan your e-mails, video mails, instant messages, file attachments, and other files and communications in order to help us protect you and the Service against these harmful or unwanted communications and programs. You can learn more about Comcast's anti-spam approach at http://customer.xfinity.com/help-and-support/internet/reducing-spam-email/.
 
 As an additional security precaution, neither Comcast nor any of our authorized service providers will ask you for your Comcast password in an e-mail, over the telephone, or in an online support forum or chat area. **Do not give your Comcast password to anyone in an e-mail, over the telephone, or in an online support area**.
 
@@ -325,80 +283,63 @@ Our computer systems are currently based in the United States, so your PII will 
 
 You can direct questions regarding this Privacy Policy to Comcast by e-mailing us at CIM\_privacy at Comcast dot com. You can also send a letter by mail to Comcast Interactive Media, LLC, Attn: Privacy Policy Questions, One Comcast Center, Philadelphia, PA 19103 USA.
 
-You can find customer support and help information at http://customer.comcast.com/Pages/Help.aspx. Some online support areas and tools may ask you to provide information to Comcast to help us address your questions or problems. We may also make software tools available to help configure your computer's or network's settings, or collect information from your computer or network to help us provide support to you. If you choose to provide this information to Comcast or use these tools, we will use the information only for customer support purposes.
+You can find customer support and help information at http://customer.xfinity.com/help-and-support/. Some online support areas and tools may ask you to provide information to Comcast to help us address your questions or problems. We may also make software tools available to help configure your computer's or network's settings, or collect information from your computer or network to help us provide support to you. If you choose to provide this information to Comcast or use these tools, we will use the information only for customer support purposes.
 
 Revised and Effective: October 7, 2011
 
-XFINITY
+I Want To
 
-*   Dating
-*   Entertainment
-*   Games
-*   News
-*   Real Estate
-*   Sports
-*   Travel
-*   XFINITY Toolbar
+*   View &. Pay Bill
+*   Check Email &. Voicemail
+*   Manage My Account
+*   Check TV Listings
+*   Watch TV Online
+*   Contact Customer Support
+*   Get Apps
+*   Check Local News &. Weather
+*   Manage Parental Controls
+*   Download Norton Security
+*   Manage Users &. Alerts
+*   Reset My Password
+*   Find My Account Number
+*   Monitor Home Security &. Automation
+*   Purchase Accessories
+*   Purchase a Movie
+*   Manage My DVR
+*   Upgrade My Service
+*   Find My Comcast ID
+*   Get Help &. Support
+*   Program My Remote
+*   Submit Feedback
+*   Find an XFINITY Store
+*   Move My Services
 
-XFINITY TV
+Shop
 
-*   Mobile Apps
-*   Parental Controls
-*   Watchlist
-*   Store
-*   TV Listings
-*   Watch Online
-*   XFINITY On Demandâ¢
-*   Send to TV BETA
+*   Deals &. Offers
+*   TV
+*   Internet
+*   Voice
+*   Home Security &. Automation
+*   Compare the Competition
+*   Comcast Business
+*   Deals in My Area
+*   Bundles
 
-XFINITY CONNECT
+About Comcast
 
-*   Address Book
-*   Calendar
-*   Create New Email Address
-*   Email
-*   Mobile App
-*   Preferences
-*   Voicemail
-
-XFINITY HOME
-
-*   Shop Services
-*   Equipment Store
-*   Subscriber Portal
-*   Mobile App
-*   Help &. Support
-*   Customer Forums
-
-ADD A CHANNEL
-
-*   HBO
-*   Showtime
-*   Starz
-*   Cinemax
-*   Streampix
-*   View All
-
-SUPPORT &. SERVICES
-
-*   Business
+*   About Comcast
+*   Advertise with Us
 *   Careers
-*   Mover's Edge
-*   My Account
-*   Pay My Bill
-*   Shop/Upgrade
-*   Support
-*   Refer-A-Friend
-*   Store Locator
-
-XFINITY Â© 2016 Comcast
-
-*   Privacy Policy
+*   Press Room
+*   Corporate Blog
+*   Corporate Site
 *   Customer Agreements &. Policies
-*   Ad Choices
-*   Terms of Service
-*   Advertise With Us
-*   Corporate
-*   Contact Us
+*   XFINITY Voice: Use of Personal Info
+*   Site Index
 
-Comcast
+*   Ad Choices
+*   Privacy Policy
+*   Terms of Service
+
+© 2016 Comcast
