@@ -1,8 +1,6 @@
 Dropbox Privacy Policy
 
-Posted: September 1, 2016
-
-**_Update: We've submitted an application to participate in the Privacy Shield framework for personal data transfers from the EU to the US, and have updated this Privacy Policy to reflect our application._**
+Posted: October 3, 2016
 
 Thanks for using Dropbox! Here we describe how we collect, use and handle your information when you use our websites, software and services (“Services”).
 
@@ -49,11 +47,9 @@ Where
 
 _Around the world_. To provide you with the Services, we may store, process and transmit information in the United States and locations around the world - including those outside your country. Information may also be stored locally on the devices you use to access the Services.
 
-**_\[Update September 1, 2016: Please note that Dropbox is currently applying to participate in the EU-U.S. Privacy Shield Program. This section now reflects our application. We hope that our application will be accepted and we'll update this section accordingly.\]_**
+_EU-U.S. Privacy Shield and U.S.-Swiss Safe Harbor._ When transferring data from the European Union, the European Economic Area, and Switzerland, Dropbox relies upon a variety of legal mechanisms, including contracts with our users. Dropbox complies with the U.S.-Swiss Safe Harbor (“Safe Harbor”) framework and its principles. We also participate in the EU-U.S. Privacy Shield Program (“Privacy Shield”) and comply with its framework and principles. You can find Dropbox's Safe Harbor certification here, and our Privacy Shield certification here. You can also learn more about Privacy Shield at https://www.privacyshield.gov and Safe Harbor at http://2016.export.gov/safeharbor/swiss/.
 
-_EU-U.S. Privacy Shield and U.S.-Swiss Safe Harbor._ When transferring data from the European Union, the European Economic Area, and Switzerland, Dropbox relies upon a variety of legal mechanisms, including contracts with our users. Dropbox complies with the U.S.-Swiss Safe Harbor (“Safe Harbor”) framework and its principles. We're also applying to participate in the EU-U.S. Privacy Shield Program (“Privacy Shield”) and comply with its framework and principles. You can find Dropbox's Safe Harbor certification here, and you'll be able to find our Privacy Shield certification here. You can also learn more about Privacy Shield at https://www.privacyshield.gov and Safe Harbor at http://2016.export.gov/safeharbor/swiss/.
-
-Dropbox is subject to oversight by the U.S. Federal Trade Commission. JAMS will be the US-based independent organization responsible for reviewing and resolving complaints about our Privacy Shield and Safe Harbor compliance - free of charge to you. We ask that you first submit any such complaints directly to us via privacyshield@dropbox.com. If you aren't satisfied with our response, please contact JAMS at https://www.jamsadr.com/eu-us-privacy-shield. In the event your concern still isn't addressed by JAMS, you may be entitled to a binding arbitration under Privacy Shield and its principles.
+Dropbox is subject to oversight by the U.S. Federal Trade Commission. JAMS is the US-based independent organization responsible for reviewing and resolving complaints about our Privacy Shield and Safe Harbor compliance - free of charge to you. We ask that you first submit any such complaints directly to us via privacyshield@dropbox.com. If you aren't satisfied with our response, please contact JAMS at https://www.jamsadr.com/eu-us-privacy-shield. In the event your concern still isn't addressed by JAMS, you may be entitled to a binding arbitration under Privacy Shield and its principles.
 
 Changes
 
