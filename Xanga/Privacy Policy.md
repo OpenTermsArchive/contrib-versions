@@ -10,31 +10,31 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Can I get back of my old data pls~
     *   by yuhoshun
-    *   19 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   MY OLD BLOG
     *   by Tung\_1214
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieving old account
     *   by hei\_hei88
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   " christy\_rainbowisland " can't retrieve of my xanga site
     *   by christy\_rainbowisland
-    *   3 days ago
+    *   4 days ago
     *   in Themes
     *   0 votes
     *   0
 *   No Archive Download Option
     *   by theoremfortruth
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -43,7 +43,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 months ago
     *   in Premium
     *   0 votes
-    *   1 (last comment by rainy\_z 6 days ago)
+    *   1 (last comment by rainy\_z 1 week ago)
 *   Retrieving old account
     *   by ksiazka
     *   2 weeks ago
@@ -88,13 +88,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Old Blog Post
     *   by BlissfulSarah
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Posts
     *   by reinventlovex3
-    *   4 weeks ago
+    *   1 month ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
