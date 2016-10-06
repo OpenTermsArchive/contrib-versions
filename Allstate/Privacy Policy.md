@@ -220,7 +220,6 @@ About Allstate
     *   Supply Chain Diversity
     *   Employee Resource Groups
     *   Events &. Initiatives
-*   Military Support
 *   Sponsorships expand
     *   College Football
     *   NCAA
