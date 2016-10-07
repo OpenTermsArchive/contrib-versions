@@ -10,7 +10,7 @@ Aetna.com works best with Safari 8 and above. Learn more >
 *   Producers  
 *   About Us  
 
-Individuals &. Families Shop For  
+Search Individuals &. Families Shop For  
  
 
 *   Health Insurance
@@ -258,6 +258,8 @@ Investors
 *   Contact
 
 *   News &. Analysis
+
+*   Search
 
 Web &. Mobile Privacy Statement
 
