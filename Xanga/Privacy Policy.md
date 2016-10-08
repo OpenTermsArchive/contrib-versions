@@ -8,27 +8,45 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Was My Blog From 2005 to 2007 Archived?
+    *   by monkeyfuzz69
+    *   1 hour ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   lost data
+    *   by TH4ever
+    *   14 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   I would like to Hv my old blog entries back
+    *   by giraffedith
+    *   14 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Can I get back of my old data pls~
     *   by yuhoshun
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   MY OLD BLOG
     *   by Tung\_1214
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieving old account
     *   by hei\_hei88
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   " christy\_rainbowisland " can't retrieve of my xanga site
     *   by christy\_rainbowisland
-    *   6 days ago
+    *   1 week ago
     *   in Themes
     *   0 votes
     *   0
@@ -46,7 +64,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by rainy\_z 1 week ago)
 *   Retrieving old account
     *   by ksiazka
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by gnashpol72 2 weeks ago)
@@ -78,24 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by jenniisme
     *   4 weeks ago
     *   in Data Migration
-    *   0 votes
-    *   0
-*   My Old Blog
-    *   by sarakoo
-    *   4 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Old Blog Post
-    *   by BlissfulSarah
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Old Posts
-    *   by reinventlovex3
-    *   1 month ago
-    *   in Adding &. Editing Entries
     *   0 votes
     *   0
 
