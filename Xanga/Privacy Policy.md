@@ -8,39 +8,51 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   my blog disappera, cannot retrieve
+    *   by polly2005200
+    *   8 hours ago
+    *   in Themes
+    *   0 votes
+    *   0
+*   My account has been shut down?!
+    *   by No\_xXx\_NamE
+    *   12 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Was My Blog From 2005 to 2007 Archived?
     *   by monkeyfuzz69
-    *   1 hour ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   lost data
     *   by TH4ever
-    *   14 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I would like to Hv my old blog entries back
     *   by giraffedith
-    *   14 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can I get back of my old data pls~
     *   by yuhoshun
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   MY OLD BLOG
     *   by Tung\_1214
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieving old account
     *   by hei\_hei88
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -67,7 +79,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by gnashpol72 2 weeks ago)
+    *   1 (last comment by gnashpol72 3 weeks ago)
 *   Retrieve Old Blogposts
     *   by babymeryll
     *   3 weeks ago
@@ -86,20 +98,8 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   22 (last comment by OUbaby1390 3 weeks ago)
-*   How to Retrieve My Blog Posts?
-    *   by BraveBelle
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Old posts
-    *   by jenniisme
-    *   4 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
-1 2 3 ... 176 Next
+1 2 3 ... 177 Next
 
 Help Categories
 
