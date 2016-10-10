@@ -10,43 +10,43 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   my blog disappera, cannot retrieve
     *   by polly2005200
-    *   8 hours ago
+    *   1 day ago
     *   in Themes
     *   0 votes
     *   0
 *   My account has been shut down?!
     *   by No\_xXx\_NamE
-    *   12 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Was My Blog From 2005 to 2007 Archived?
     *   by monkeyfuzz69
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   lost data
     *   by TH4ever
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I would like to Hv my old blog entries back
     *   by giraffedith
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can I get back of my old data pls~
     *   by yuhoshun
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   MY OLD BLOG
     *   by Tung\_1214
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
