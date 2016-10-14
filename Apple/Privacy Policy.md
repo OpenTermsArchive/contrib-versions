@@ -1,13 +1,15 @@
-  
-**The Apple Privacy Policy was updated on September 12, 2016.**
+Privacy Policy
 
+The Apple Privacy Policy was updated on September 12, 2016.  
+  
 Your privacy is important to Apple. So we’ve developed a Privacy Policy  
 that covers how we collect, use, disclose, transfer, and store your information.   
 Please take a moment to familiarize yourself with our privacy practices and  
 let us know if you have any questions.  
-  
+ 
 
-Your California Privacy Disclosures | Information Regarding Commercial Electronic Messages in Canada
+Your California Privacy Disclosures   
+Information Regarding Commercial Electronic Messages in Canada
 
 Collection and Use of Personal Information
 
@@ -47,7 +49,7 @@ Cookies and Other Technologies
 
 Apple’s websites, online services, interactive applications, email messages, and advertisements may use "cookies" and other technologies such as pixel tags and web beacons. These technologies help us better understand user behavior, tell us which parts of our websites people have visited, and facilitate and measure the effectiveness of advertisements and web searches. We treat information collected by cookies and other technologies as non‑personal information. However, to the extent that Internet Protocol (IP) addresses or similar identifiers are considered personal information by local law, we also treat these identifiers as personal information. Similarly, to the extent that non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this Privacy Policy.
 
-Ads that are delivered by Apple’s advertising platform may appear in Apple News and in the App Store. If you do not wish to receive ads targeted to your interests from Apple's advertising platform, you can chose to enable Limit Ad Tracking, which will opt your Apple ID out of receiving such ads regardless of what device you are using. If you enable Limit Ad Tracking on your mobile device, third-party apps cannot use the Advertising Identifier, a non-personal device identifier, to serve you targeted ads. You may still see ads in the App Store or News based on context like your search query or the channel you are reading. In third-party apps, you may see ads based on other information.
+Ads that are delivered by Apple’s advertising platform may appear in Apple News and in the App Store. If you do not wish to receive ads targeted to your interests from Apple's advertising platform, you can choose to enable Limit Ad Tracking, which will opt your Apple ID out of receiving such ads regardless of what device you are using. If you enable Limit Ad Tracking on your mobile device, third-party apps cannot use the Advertising Identifier, a non-personal device identifier, to serve you targeted ads. You may still see ads in the App Store or News based on context like your search query or the channel you are reading. In third-party apps, you may see ads based on other information.
 
 Apple and our partners also use cookies and other technologies to remember personal information when you use our website, online services, and applications. Our goal in these cases is to make your experience with Apple more convenient and personal. For example, knowing your first name lets us welcome you the next time you visit the Apple Online Store. Knowing your country and language − and if you are an educator, your school − helps us provide a customized and more useful shopping experience. Knowing someone using your computer or device has shopped for a certain product or used a particular service helps us make our advertising and email communications more relevant to your interests. And knowing your contact information, hardware identifiers, and information about your computer or device helps us personalize your operating system, set up your iCloud service, and provide you with better customer service.
 
