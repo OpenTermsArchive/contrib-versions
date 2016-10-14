@@ -8,45 +8,57 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   How do I download an archive of my old blog?
+    *   \[Resolved\] by thibault
+    *   1 year ago
+    *   in Data Migration
+    *   0 votes
+    *   24 (last comment by Narcissis2Sparrow 11 hours ago)
+*   Old Account
+    *   by SiMpLy\_i3riT
+    *   15 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Download issues...
     *   by GeorgiaInFlorida
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where is my blog?
     *   by big\_mimi
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   my blog disappera, cannot retrieve
     *   by polly2005200
-    *   4 days ago
+    *   5 days ago
     *   in Themes
     *   0 votes
     *   0
 *   My account has been shut down?!
     *   by No\_xXx\_NamE
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Was My Blog From 2005 to 2007 Archived?
     *   by monkeyfuzz69
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   lost data
     *   by TH4ever
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I would like to Hv my old blog entries back
     *   by giraffedith
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -76,7 +88,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   No Archive Download Option
     *   by theoremfortruth
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -86,18 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Premium
     *   0 votes
     *   1 (last comment by rainy\_z 2 weeks ago)
-*   Retrieving old account
-    *   by ksiazka
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by gnashpol72 3 weeks ago)
-*   Retrieve Old Blogposts
-    *   by babymeryll
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
 1 2 3 ... 177 Next
 
