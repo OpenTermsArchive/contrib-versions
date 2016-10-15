@@ -220,6 +220,7 @@ About Allstate
     *   Supply Chain Diversity
     *   Employee Resource Groups
     *   Events &. Initiatives
+*   Military Support
 *   Sponsorships expand
     *   College Football
     *   NCAA
@@ -486,6 +487,7 @@ Find Your Local Agent
 *   Connect With Us
 
 *   *   Company
+    *   About Allstate
     *   Our Story
     *   The Allstate Blog
     *   Careers
