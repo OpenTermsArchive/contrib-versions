@@ -400,11 +400,16 @@ Privacy statement update: 7/28/16
 
 *   Legal Notices
 *   Plan Disclosures
+*   Nondiscrimination Notice
 
 *   Privacy Center
 *   State Directory
 
-Copyright © 2001-\[current-year\] Aetna Inc. JavaScript is required
+Copyright © 2001-\[current-year\] Aetna Inc.
+
+ Language services can be provided by calling the number on your member ID card. For additional language assistance: Español | 中文 | Tiếng Việt | 한국어 | Tagalog | Pусский | العربية | Kreyòl | Français | Polski | Português | Italiano | Deutsch | 日本語 | فارسی | Other Languages…
+
+JavaScript is required
 
 In order to have the best experience on Aetna.com, Javascript needs to be enabled.  
 Learn how to change your browser settings to enable Javascript.
