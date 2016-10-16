@@ -13,34 +13,34 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   24 (last comment by Narcissis2Sparrow 1 day ago)
+    *   24 (last comment by Narcissis2Sparrow 2 days ago)
 *   Old Account
     *   by SiMpLy\_i3riT
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Download issues...
     *   by GeorgiaInFlorida
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where is my blog?
     *   by big\_mimi
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   my blog disappera, cannot retrieve
     *   by polly2005200
-    *   6 days ago
+    *   1 week ago
     *   in Themes
     *   0 votes
     *   0
 *   My account has been shut down?!
     *   by No\_xXx\_NamE
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -76,7 +76,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Retrieving old account
     *   by hei\_hei88
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
