@@ -8,27 +8,45 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Was My Blog From 2005 to 2007 Archived?
+    *   by monkeyfuzz69
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by BeccaLynn4738 1 hour ago)
+*   blog posts cannot be shown
+    *   by mecchakidman
+    *   10 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Where did my blog go?!
+    *   by weapons\_mass\_distruction
+    *   8 months ago
+    *   in Themes
+    *   0 votes
+    *   1 (last comment by speedrahman 18 hours ago)
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   24 (last comment by Narcissis2Sparrow 2 days ago)
+    *   24 (last comment by Narcissis2Sparrow 3 days ago)
 *   Old Account
     *   by SiMpLy\_i3riT
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Download issues...
     *   by GeorgiaInFlorida
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where is my blog?
     *   by big\_mimi
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -40,12 +58,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   My account has been shut down?!
     *   by No\_xXx\_NamE
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Was My Blog From 2005 to 2007 Archived?
-    *   by monkeyfuzz69
     *   1 week ago
     *   in Data Migration
     *   0 votes
@@ -70,7 +82,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   MY OLD BLOG
     *   by Tung\_1214
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -86,18 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Themes
     *   0 votes
     *   0
-*   No Archive Download Option
-    *   by theoremfortruth
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Membership expired in 2029??
-    *   by JosephShen2004
-    *   2 months ago
-    *   in Premium
-    *   0 votes
-    *   1 (last comment by rainy\_z 2 weeks ago)
 
 1 2 3 ... 177 Next
 
