@@ -8,15 +8,45 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Restore my old xanga site
+    *   by murble
+    *   5 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Old post
+    *   by fantasticPOYI\_0207
+    *   10 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Retrieving Old Posts
+    *   by solongandgoodnight413
+    *   12 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   recovering old xanga
+    *   by flyersfan2008
+    *   23 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   recovering old xanga
+    *   by flyersfan2008
+    *   23 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Was My Blog From 2005 to 2007 Archived?
     *   by monkeyfuzz69
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by BeccaLynn4738 1 hour ago)
+    *   1 (last comment by BeccaLynn4738 1 day ago)
 *   blog posts cannot be shown
     *   by mecchakidman
-    *   10 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -25,28 +55,28 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   8 months ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by speedrahman 18 hours ago)
+    *   1 (last comment by speedrahman 1 day ago)
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   24 (last comment by Narcissis2Sparrow 3 days ago)
+    *   24 (last comment by Narcissis2Sparrow 4 days ago)
 *   Old Account
     *   by SiMpLy\_i3riT
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Download issues...
     *   by GeorgiaInFlorida
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where is my blog?
     *   by big\_mimi
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -66,36 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by TH4ever
     *   1 week ago
     *   in Data Migration
-    *   0 votes
-    *   0
-*   I would like to Hv my old blog entries back
-    *   by giraffedith
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Can I get back of my old data pls~
-    *   by yuhoshun
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   MY OLD BLOG
-    *   by Tung\_1214
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Retrieving old account
-    *   by hei\_hei88
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   " christy\_rainbowisland " can't retrieve of my xanga site
-    *   by christy\_rainbowisland
-    *   2 weeks ago
-    *   in Themes
     *   0 votes
     *   0
 
