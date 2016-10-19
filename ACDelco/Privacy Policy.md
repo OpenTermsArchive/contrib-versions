@@ -347,4 +347,4 @@ Follow GM
 *   Social Media Policy
 *   Contact Us
 
-© 2016 General Motors
+© 2016 General Motors ×
