@@ -209,13 +209,13 @@ In addition to placing web beacons on our own websites, we sometimes work with o
 
 Finally, Microsoft products often contain web beacons or similar technologies from third-party analytics providers, which help us compile aggregated statistics about the effectiveness of our promotional campaigns or other operations. These technologies enable the analytics providers to set or read their own cookies or other identifiers on your device, through which they can collect information about your online activities across applications, websites or other products. However, we prohibit these analytics providers from using web beacons on our sites to collect or access information that directly identifies you (such as your name or email address). You can opt out of data collection or use by some of these analytics providers by clicking the following links:
 
-*   Flurry Analytics: flurry.com/legal-privacy/end-user-opt-out
+*   Flurry Analytics: dev.flurry.com/secure/optOut.do
 *   Google Analytics: tools.google.com/dlpage/gaoptout (requires you to install a browser add-on)
 *   Kissmetrics: kissmetrics.com/user-privacy
 *   Mixpanel: mixpanel.com/optout
 *   Nielsen: www.nielsen-online.com/corp.jsp?section=leg\_prs&nav=1#Optoutchoices
 *   Omniture (Adobe): www.d1.sc.omtrdc.net/optout.html
-*   Visible Measures: corp.visiblemeasures.com/viewer-settings
+*   Visible Measures: www.visiblemeasures.com/viewer-settings-opt-out
 *   WebTrends: ondemand.webtrends.com/support/optout.asp
 
 **Other Similar Technologies**
