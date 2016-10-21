@@ -156,7 +156,7 @@ Do Evernote Employees Access or Review My Notes?
 As a rule, Evernote employees do not monitor or view your personal information or Content stored in the Service, but we list below the limited circumstances in which our employees may need to access or review your personal information or account Content:
 
 *   We believe our Terms of Service has been violated and confirmation is required or we otherwise have an obligation to review your account Content as described in our Terms of Service;
-*   We need to do so in order for troubleshooting purposes;
+*   We need to do so for troubleshooting purposes;
 *   Where necessary to protect the rights, property or personal safety of Evernote and its users (including to protect against potential spam, malware or other security concerns). or
 *   In order to comply with our legal obligations, such as responding to warrants, court orders or other legal process. We vigilantly protect the privacy of your account Content and, whenever we determine it possible, we provide you with notice if we believe we are compelled to comply with a third party’s request for information about your account. Please visit our Information for Authorities page for more information.
 
