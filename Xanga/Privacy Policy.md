@@ -10,37 +10,37 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Please help restore my xanga blog
     *   by xBAbiExLoNeLYx
-    *   3 hours ago
+    *   1 day ago
     *   in Themes
     *   0 votes
     *   0
 *   Restore my old xanga site
     *   by murble
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old post
     *   by fantasticPOYI\_0207
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieving Old Posts
     *   by solongandgoodnight413
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   recovering old xanga
     *   by flyersfan2008
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   recovering old xanga
     *   by flyersfan2008
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -49,10 +49,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by BeccaLynn4738 3 days ago)
+    *   1 (last comment by BeccaLynn4738 4 days ago)
 *   blog posts cannot be shown
     *   by mecchakidman
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -61,16 +61,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   8 months ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by speedrahman 3 days ago)
+    *   1 (last comment by speedrahman 4 days ago)
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   24 (last comment by Narcissis2Sparrow 6 days ago)
+    *   24 (last comment by Narcissis2Sparrow 1 week ago)
 *   Old Account
     *   by SiMpLy\_i3riT
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
