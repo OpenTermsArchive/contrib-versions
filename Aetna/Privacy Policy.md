@@ -143,7 +143,6 @@ Helpful Links
 
 *   Secure Provider Website
 *   AetnaDental.com
-*   AetnaEducation.com
 *   Check Fee Schedules
 *   Check Precertification List
 *   Online Medicare Directory
