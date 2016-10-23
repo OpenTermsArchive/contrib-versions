@@ -10,37 +10,37 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Please help restore my xanga blog
     *   by xBAbiExLoNeLYx
-    *   2 days ago
+    *   3 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Restore my old xanga site
     *   by murble
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old post
     *   by fantasticPOYI\_0207
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieving Old Posts
     *   by solongandgoodnight413
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   recovering old xanga
     *   by flyersfan2008
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   recovering old xanga
     *   by flyersfan2008
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -49,10 +49,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by BeccaLynn4738 5 days ago)
+    *   1 (last comment by BeccaLynn4738 6 days ago)
 *   blog posts cannot be shown
     *   by mecchakidman
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -61,7 +61,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   8 months ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by speedrahman 5 days ago)
+    *   1 (last comment by speedrahman 6 days ago)
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   1 year ago
@@ -88,13 +88,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   my blog disappera, cannot retrieve
     *   by polly2005200
-    *   1 week ago
+    *   2 weeks ago
     *   in Themes
     *   0 votes
     *   0
 *   My account has been shut down?!
     *   by No\_xXx\_NamE
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
