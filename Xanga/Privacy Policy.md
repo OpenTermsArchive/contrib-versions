@@ -10,37 +10,37 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Restore my old xanga site
     *   by murble
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by BrokenSpiritx3 9 hours ago)
+    *   1 (last comment by BrokenSpiritx3 1 day ago)
 *   Please help restore my xanga blog
     *   by xBAbiExLoNeLYx
-    *   4 days ago
+    *   5 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Old post
     *   by fantasticPOYI\_0207
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieving Old Posts
     *   by solongandgoodnight413
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   recovering old xanga
     *   by flyersfan2008
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   recovering old xanga
     *   by flyersfan2008
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -82,7 +82,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Where is my blog?
     *   by big\_mimi
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
