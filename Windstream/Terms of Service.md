@@ -324,7 +324,16 @@ Copyright © Windstream Communications. All rights reserved.
 *   Twitter
 *   Facebook
 
-Check Availability Address\*
+﻿﻿ Check Availability
+
+Discover the services Windstream can bring to you.
+
+*   New Customers
+*   Current Customers
+
+Please enter your address to learn more about services available in your area.
+
+Address\*
 
 Enter address
 
@@ -334,13 +343,64 @@ Unit cannot contain special characters
 
 ZIP\*
 
-Enter a zip
+Enter a ZIP
 
-Confirm Existing Customers Sign In You'll be taken to a secure sign on form. Sign In
+Confirm \*Required
 
-Please enter a valid phone number
+To find out more about products and services available to  
+you, please follow the link below to our secure sign-in page.
 
-**Sorry. We were unable to find an account for this phone number.** Ensure the phone number is correct or enter another number that is your account phone number.
+Sign In Not sure if you're a current customer?
+
+Chat live with a representative.
+
+Check Availability
+
+Discover the services Windstream can bring to you.
+
+*   New Customers
+*   Current Customers
+
+Please enter your address to learn more about services available in your area.
+
+We couldn’t find your address. Please try again with our extended form. Street Number\*
+
+Enter a Street Number
+
+Street Name\*
+
+Enter a Street Name
+
+Street Type --ALYAVEBCHBLFBLVDBNDBRBRGBYPBYUCIRCORCORSCPCRKCRSTCTCTRCURVCVDRESTESTSEXTFLSFLTFLTSFRSTFRYFWYGLNGRVHBRHLHLSHOLWHTSHVNHWYISJCTKNLSLDGLKLKSLNLNDGLOOPMDWMDWSMLMLSMNRMTMTNMTWYPARKPASSPATHPKWYPLPLZPNEPTPTERDRDGRIVROWRUNSHLSSMTSPGSPGSSPURSQSTSTATERTLTPKETRCEVISVLGVLYVWWALKWAYXING
+
+Select Street Type
+
+Unit #
+
+Enter Unit #
+
+State\* --ALARFLGAIAKSKYMNMOMSNCNENMNYOHOKPASCTX
+
+Select State
+
+City\* -- Select --
+
+Select City
+
+ZIP Code\*
+
+Enter a ZIP
+
+\*Required
+
+County Confirm
+
+To find out more about products and services available to  
+you, please follow the link below to our secure sign-in page.
+
+Sign In Not sure if you're a current customer?
+
+Chat live with a representative.
 
 You entered:
 
@@ -369,73 +429,8 @@ Windstream isn't available for this address:
 
 160 Varick address
 
-Try Again View Carriers in Your Area Check Availability We couldn’t find your address. Please try again with our extended form. Street Number\*
-
-Enter a Street Number
-
-Street Name\*
-
-Enter a Street Name
-
-Street Type --ALYAVEBCHBLFBLVDBNDBRBRGBYPBYUCIRCORCORSCPCRKCRSTCTCTRCURVCVDRESTESTSEXTFLSFLTFLTSFRSTFRYFWYGLNGRVHBRHLHLSHOLWHTSHVNHWYISJCTKNLSLDGLKLKSLNLNDGLOOPMDWMDWSMLMLSMNRMTMTNMTWYPARKPASSPATHPKWYPLPLZPNEPTPTERDRDGRIVROWRUNSHLSSMTSPGSPGSSPURSQSTSTATERTLTPKETRCEVISVLGVLYVWWALKWAYXING
-
-Select Street Type
-
-Unit #
-
-Enter Unit #
-
-State\* --ALARFLGAIAKSKYMNMOMSNCNENMNYOHOKPASCTX
-
-Select State
-
-City\* -- Select --
-
-Select City
-
-ZIP Code\*
-
-Enter a ZIP
-
-County Confirm Existing Customers Sign In You'll be taken to a secure sign on form. Sign In
+Try Again View Carriers in Your Area Check Availability We couldn’t find your address. Please try again with our extended form. Confirm Existing Customers Sign In You'll be taken to a secure sign on form. Sign In
 
 Please enter a valid phone number
 
 **Sorry. We were unable to find an account for this phone number.** Ensure the phone number is correct or enter another number that is your account phone number.
-
-Check Availability
-
-Please let us know who you are so we can check for the available services to your home!
-
-I'm a **New** Customer
-
-Number\* Street\* Street Type --ALYAVEBCHBLFBLVDBNDBRBRGBYPBYUCIRCORCORSCPCRKCRSTCTCTRCURVCVDRESTESTSEXTFLSFLTFLTSFRSTFRYFWYGLNGRVHBRHLHLSHOLWHTSHVNHWYISJCTKNLSLDGLKLKSLNLNDGLOOPMDWMDWSMLMLSMNRMTMTNMTWYPARKPASSPATHPKWYPLPLZPNEPTPTERDRDGRIVROWRUNSHLSSMTSPGSPGSSPURSQSTSTATERTLTPKETRCEVISVLGVLYVWWALKWAYXING Apt # State\* --ALARFLGAIAKSKYMNMOMSNCNENMNYOHOKPASCTX City\* -- Select -- ZIP Code\* County Confirm Location \*Don't see your city listed? Please CLICK HERE for service providers in your area
-
-I'm an **Existing** Customer
-
-**Sorry. We were unable to find an account for this phone number.** Ensure the phone number is correct or enter another number that is your account phone number.
-
-*   Please enter a valid phone number
-
-Phone Number\*
-
-Sign In
-
-Sign In
-
-If this is your Windstream account number, please call us at 1-866-445-5880 for help.
-
-Verify Address
-
-**_You entered:_**
-
-**Did you mean one of the following addresses?**
-
-Use Selected Are none of the above your address? The entered address was not found
-
-Please check that you entered your address correctly.
-
-You entered:
-
-*   If it is **incorrect** please enter your address again.
-*   If you would like to **proceed** with this address click here.
