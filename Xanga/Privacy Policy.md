@@ -13,10 +13,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by BrokenSpiritx3 1 day ago)
+    *   1 (last comment by BrokenSpiritx3 2 days ago)
 *   Please help restore my xanga blog
     *   by xBAbiExLoNeLYx
-    *   5 days ago
+    *   6 days ago
     *   in Themes
     *   0 votes
     *   0
@@ -76,7 +76,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Download issues...
     *   by GeorgiaInFlorida
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
