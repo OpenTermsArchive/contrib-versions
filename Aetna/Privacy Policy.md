@@ -353,7 +353,9 @@ Back to top
 
 **Behavioral Advertising**
 
-Aetna does not serve third-party advertising on its Applications. However, we do engage online advertising service providers to serve ads on other sites, based on web pages you may have visited or your search engine activity.  See our Interest-Based Ads Policy for more information and to opt out of interest-based advertisements.  Currently, our Applications do not respond to “Do Not Track” signals from browsers.
+Aetna does not serve third-party advertising on its Applications. However, we do engage online advertising service providers to serve ads on other sites, based on web pages you may have visited or your search engine activity. For more information or to opt out of interest-based ads, please review our interest-based ads policy. Currently, our Applications do not respond to “Do Not Track” signals from browsers.
+
+See our interest-based ads policy 
 
 Back to top
 
