@@ -37,6 +37,8 @@ Fox News Network, LLC ("Fox News" or "we") wants you to be familiar with how we 
 
 As set forth in our Terms of Use, the Fox News Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age.
 
+This Privacy Policy applies to all users, including both those who use the Fox News Services without being registered with or subscribing to a Fox News Service and those who have registered with or subscribed to a Fox News Service. This Privacy Policy applies to Fox News' collection and use of your personal information (i.e., information that identifies a specific person, such as full name or email address). It also describes generally Fox News' practices for handling non-personal information (for example, interests, demographics and services usage).
+
 2) COLLECTION OF INFORMATION
 
 Fox News and our service providers collect the following information from and about you:
@@ -67,7 +69,7 @@ We use the information we collect from and about you for these additional purpos
 
 **To allow service providers to assist us in providing and managing the Fox News Services.** The information we collect from and about you may be made available to certain third party service providers, such as contractors, analytics and other measurement companies, agents or sponsors, who help us analyze and understand your use of the Fox News Services, and manage and/or provide the Fox News Services.
 
-**To allow social sharing functionality.** If you log in with or connect a social media service account with Fox News Services, we may share your user name, picture, and likes, as well as your activities and comments with other Fox News Services users and with your friends associated with your social media service. We may also share the same information with the social media service provider. By logging in with or connecting your Fox News Services account with a social media service, you are authorizing us to share information we collect from and about you with the social media service provider, other users and your friends and you understand that the social media service's use of the shared information will be governed by the social media service's privacy policy. If you do not want your personal information shared in this way, please do not connect your social media service account with your Fox News.
+**To allow social sharing functionality.** If you log in with or connect a social media service account with Fox News Services, we may share your user name, picture, and likes, as well as your activities and comments with other Fox News Services users and with your friends associated with your social media service. We may also share the same information with the social media service provider. By logging in with or connecting your Fox News Services account with a social media service, you are authorizing us to share information we collect from and about you with the social media service provider, other users and your friends and you understand that the social media service's use of the shared information will be governed by the social media service's privacy policy. If you do not want your personal information shared in this way, please do not connect your social media service account with your Fox News Services account and do not participate in social sharing on Fox News Services.
 
 **To provide co-branded services and features.** We may offer co-branded services or features, such as contests, sweepstakes or other promotions together with a third party ("Co-Branded Services"). These Co-Branded Services may be hosted on Fox News Services or on the third party's service. By virtue of these relationships, we may share the information you submit in connection with the Co-Branded Service with the third party. The third party's use of your information will be governed by the third party's privacy policy.
 
@@ -89,7 +91,7 @@ Fox News uses commercially reasonable administrative, technical, personnel and p
 
 5) USER ACCESS AND CONTROL
 
-If you would like to access, review, correct, update, suppress, or otherwise limit our use of your personal information you have previously provided directly to us, you may contact us as outlined in Section 7. In your request, please include your email address, name, address, and telephone number and specify clearly what information you would like to access, change, update, or suppress. We will try to comply with your request as soon as reasonably practicable
+If you would like to access, review, correct, update, suppress, or otherwise limit our use of your personal information you have previously provided directly to us, you may contact us as outlined in Section 7. In your request, please include your email address, name, address, and telephone number and specify clearly what information you would like to access, change, update, or suppress. We will try to comply with your request as soon as reasonably practicable.
 
 *   We give you many choices regarding our use and disclosure of your personal information for marketing purposes. You may opt-out from:
     
