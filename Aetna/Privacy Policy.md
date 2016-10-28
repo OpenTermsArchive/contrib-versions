@@ -419,15 +419,15 @@ You are now leaving the Aetna website
 
 Links to various non-Aetna sites are provided for your convenience only. Aetna Inc. and its subsidiary companies are not responsible or liable for the content, accuracy, or privacy practices of linked sites, or for products or services described on these sites.
 
-Continue >. Member Log In Help This question helps us get you to the correct log-in screen. Answer YES if you get Aetna coverage through your job or your spouse’s job, or if you have an Aetna Medicare plan.
+Continue >. Member Log In
 
 Do you have Aetna insurance through an employer or are you a Medicare member? Yes No
 
-Continue
+Help This question helps us get you to the correct log-in screen. Answer YES if you get Aetna coverage through your job or your spouse’s job, or if you have an Aetna Medicare plan.
 
 Continue
 
-My ZIP code is: Select your county
+My ZIP code is: Select your county Select your county
 
 Please enter a valid ZIP code
 
@@ -445,15 +445,15 @@ Continue
 
 Continue
 
-Continue Please enter all of your information Member Log In Help This question helps us get you to the correct log-in screen. Answer YES if you get Aetna coverage through your job or your spouse’s job, or if you have an Aetna Medicare plan.
+Continue Please enter all of your information Member Log In
 
 Do you have Aetna insurance through an employer or are you a Medicare member? Yes No
 
-Continue
+Help This question helps us get you to the correct log-in screen. Answer YES if you get Aetna coverage through your job or your spouse’s job, or if you have an Aetna Medicare plan.
 
 Continue
 
-My ZIP code is: Select your county
+My ZIP code is: Select your county Select your county
 
 Please enter a valid ZIP code
 
