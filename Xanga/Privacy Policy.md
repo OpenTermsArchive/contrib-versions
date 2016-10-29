@@ -8,15 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Old Account
+    *   by SiMpLy\_i3riT
+    *   2 weeks ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by FindingHarmony 4 hours ago)
 *   Restore my old xanga site
     *   by murble
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by inner\_scribbles 11 hours ago)
+    *   3 (last comment by FindingHarmony 4 hours ago)
 *   Recover old xanga
     *   by HangThuNguyen
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -52,7 +58,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Was My Blog From 2005 to 2007 Archived?
     *   by monkeyfuzz69
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by BeccaLynn4738 1 week ago)
@@ -74,12 +80,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   24 (last comment by Narcissis2Sparrow 2 weeks ago)
-*   Old Account
-    *   by SiMpLy\_i3riT
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 *   Download issues...
     *   by GeorgiaInFlorida
     *   2 weeks ago
