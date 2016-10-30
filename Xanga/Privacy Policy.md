@@ -13,16 +13,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by FindingHarmony 4 hours ago)
+    *   1 (last comment by FindingHarmony 1 day ago)
 *   Restore my old xanga site
     *   by murble
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by FindingHarmony 4 hours ago)
+    *   3 (last comment by FindingHarmony 1 day ago)
 *   Recover old xanga
     *   by HangThuNguyen
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -94,7 +94,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   my blog disappera, cannot retrieve
     *   by polly2005200
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Themes
     *   0 votes
     *   0
