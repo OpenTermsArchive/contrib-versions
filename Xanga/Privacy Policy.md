@@ -13,16 +13,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by FindingHarmony 1 day ago)
+    *   1 (last comment by FindingHarmony 2 days ago)
 *   Restore my old xanga site
     *   by murble
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by FindingHarmony 1 day ago)
+    *   3 (last comment by FindingHarmony 2 days ago)
 *   Recover old xanga
     *   by HangThuNguyen
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -61,19 +61,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by BeccaLynn4738 1 week ago)
+    *   1 (last comment by BeccaLynn4738 2 weeks ago)
 *   blog posts cannot be shown
     *   by mecchakidman
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where did my blog go?!
     *   by weapons\_mass\_distruction
-    *   8 months ago
+    *   9 months ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by speedrahman 1 week ago)
+    *   1 (last comment by speedrahman 2 weeks ago)
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   2 years ago
