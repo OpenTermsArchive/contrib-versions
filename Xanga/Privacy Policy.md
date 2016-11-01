@@ -8,21 +8,27 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Please help retrieve my account
+    *   by maybo\_mary
+    *   11 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Old Account
     *   by SiMpLy\_i3riT
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by FindingHarmony 2 days ago)
+    *   1 (last comment by FindingHarmony 3 days ago)
 *   Restore my old xanga site
     *   by murble
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by FindingHarmony 2 days ago)
+    *   3 (last comment by FindingHarmony 3 days ago)
 *   Recover old xanga
     *   by HangThuNguyen
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -34,25 +40,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Old post
     *   by fantasticPOYI\_0207
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieving Old Posts
     *   by solongandgoodnight413
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   recovering old xanga
     *   by flyersfan2008
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   recovering old xanga
     *   by flyersfan2008
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -88,14 +94,8 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Where is my blog?
     *   by big\_mimi
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   my blog disappera, cannot retrieve
-    *   by polly2005200
     *   3 weeks ago
-    *   in Themes
+    *   in Data Migration
     *   0 votes
     *   0
 
