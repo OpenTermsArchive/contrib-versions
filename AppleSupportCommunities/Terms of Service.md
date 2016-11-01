@@ -24,7 +24,7 @@ This Apple Support Communities Use Agreement (the "Agreement") provides importan
     13.  For questions or problems regarding your Apple Support Communities account, please post a question in the Using Apple Support Communities site, or email **communityaccounts@apple.com**  
         
 2.  Submissions
-    1.  Stay on topic. Apple Support Communities is here to help people use Apple products and technologies more effectively. Unless otherwise noted, do not add Submissions about no ntechnical topics, including:
+    1.  Stay on topic. Apple Support Communities is here to help people use Apple products and technologies more effectively. Unless otherwise noted, do not add Submissions about non technical topics, including:
         1.  Speculations or rumors about unannounced products.
         2.  Discussions of Apple policies or procedures or speculation on Apple decisions.
     2.  Be polite. Everyone should feel comfortable reading Submissions and participating in discussions. Apple will not tolerate flames or other inappropriate statements, material, or links. Most often, a "flame" is simply a statement that is taunting and thus arbitrarily inflammatory. However, this also includes those which are libelous, defamatory, indecent, harmful, harassing, intimidating, threatening, hateful, objectionable, discriminatory, abusive, vulgar, obscene, pornographic, sexually explicit, or offensive in a sexual, racial, cultural, or ethnic context.
