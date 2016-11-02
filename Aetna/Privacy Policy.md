@@ -445,7 +445,11 @@ Continue
 
 Continue
 
-Continue Please enter all of your information Member Log In
+Continue Please enter all of your information You are now leaving the Spanish part of the Aetna website
+
+The pages you are going to are in English.  Sorry for any inconvenience.
+
+Continue >. Member Log In
 
 Do you have Aetna insurance through an employer or are you a Medicare member? Yes No
 
