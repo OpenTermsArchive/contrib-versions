@@ -8,9 +8,15 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   recovering old xanga
+    *   by niya0220
+    *   3 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Please help retrieve my account
     *   by maybo\_mary
-    *   11 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,16 +25,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by FindingHarmony 3 days ago)
+    *   1 (last comment by FindingHarmony 4 days ago)
 *   Restore my old xanga site
     *   by murble
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by FindingHarmony 3 days ago)
+    *   3 (last comment by FindingHarmony 4 days ago)
 *   Recover old xanga
     *   by HangThuNguyen
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -88,12 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   24 (last comment by Narcissis2Sparrow 2 weeks ago)
 *   Download issues...
     *   by GeorgiaInFlorida
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Where is my blog?
-    *   by big\_mimi
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
