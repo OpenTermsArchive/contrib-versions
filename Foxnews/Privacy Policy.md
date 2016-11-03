@@ -37,8 +37,6 @@ Fox News Network, LLC ("Fox News" or "we") wants you to be familiar with how we 
 
 As set forth in our Terms of Use, the Fox News Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age.
 
-This Privacy Policy applies to all users, including both those who use the Fox News Services without being registered with or subscribing to a Fox News Service and those who have registered with or subscribed to a Fox News Service. This Privacy Policy applies to Fox News' collection and use of your personal information (i.e., information that identifies a specific person, such as full name or email address). It also describes generally Fox News' practices for handling non-personal information (for example, interests, demographics and services usage).
-
 2) COLLECTION OF INFORMATION
 
 Fox News and our service providers collect the following information from and about you:
