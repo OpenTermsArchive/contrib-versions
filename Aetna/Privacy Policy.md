@@ -216,7 +216,7 @@ Initiatives
 
 *   Corporate Responsibility
 *   Awards &. Recognition
-*   Racial &. Ethnic Equality
+*   Racial &. Ethnic Equity
 *   Physician Advisory Board
 *   Doing Business with Us
 
