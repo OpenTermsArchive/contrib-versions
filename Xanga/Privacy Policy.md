@@ -8,36 +8,48 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   old photos/blog archives/data migration
+    *   \[Resolved\] by lEv3rLasTingl
+    *   2 years ago
+    *   in Pictures
+    *   0 votes
+    *   2 (last comment by Thatonewiz 3 hours ago)
+*   Retrieve Old Account
+    *   \[Resolved\] by anoiFace
+    *   2 years ago
+    *   in Passwords &. Sign-In
+    *   0 votes
+    *   3 (last comment by Thatonewiz 4 hours ago)
 *   Please help recover old xanga blog
     *   by sHoRt\_LiL\_tRiNa
-    *   20 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   recovering old xanga
     *   by niya0220
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help retrieve my account
     *   by maybo\_mary
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Account
     *   by SiMpLy\_i3riT
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by FindingHarmony 5 days ago)
+    *   1 (last comment by FindingHarmony 6 days ago)
 *   Restore my old xanga site
     *   by murble
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by FindingHarmony 5 days ago)
+    *   3 (last comment by FindingHarmony 6 days ago)
 *   Recover old xanga
     *   by HangThuNguyen
     *   1 week ago
@@ -86,18 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   Where did my blog go?!
-    *   by weapons\_mass\_distruction
-    *   9 months ago
-    *   in Themes
-    *   0 votes
-    *   1 (last comment by speedrahman 2 weeks ago)
-*   How do I download an archive of my old blog?
-    *   \[Resolved\] by thibault
-    *   2 years ago
-    *   in Data Migration
-    *   0 votes
-    *   24 (last comment by Narcissis2Sparrow 2 weeks ago)
 
 1 2 3 ... 177 Next
 
