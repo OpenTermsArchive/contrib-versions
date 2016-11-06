@@ -10,13 +10,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Recovering old blogs
     *   by jazz951
-    *   8 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Pls help to recover
     *   by wilson2612
-    *   22 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -25,28 +25,28 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Pictures
     *   0 votes
-    *   2 (last comment by Thatonewiz 1 day ago)
+    *   2 (last comment by Thatonewiz 2 days ago)
 *   Retrieve Old Account
     *   \[Resolved\] by anoiFace
     *   2 years ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   3 (last comment by Thatonewiz 1 day ago)
+    *   3 (last comment by Thatonewiz 2 days ago)
 *   Please help recover old xanga blog
     *   by sHoRt\_LiL\_tRiNa
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   recovering old xanga
     *   by niya0220
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help retrieve my account
     *   by maybo\_mary
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
