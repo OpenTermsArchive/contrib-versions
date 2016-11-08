@@ -10,25 +10,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Please help me view my old account
     *   by sandiegosuperstar
-    *   27 minutes ago
+    *   1 day ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Please help me view my old account
     *   by sandiegosuperstar
-    *   27 minutes ago
+    *   1 day ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Recovering old blogs
     *   by jazz951
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Pls help to recover
     *   by wilson2612
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -37,28 +37,28 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Pictures
     *   0 votes
-    *   2 (last comment by Thatonewiz 3 days ago)
+    *   2 (last comment by Thatonewiz 4 days ago)
 *   Retrieve Old Account
     *   \[Resolved\] by anoiFace
     *   2 years ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   3 (last comment by Thatonewiz 3 days ago)
+    *   3 (last comment by Thatonewiz 4 days ago)
 *   Please help recover old xanga blog
     *   by sHoRt\_LiL\_tRiNa
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   recovering old xanga
     *   by niya0220
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help retrieve my account
     *   by maybo\_mary
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -70,7 +70,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by FindingHarmony 1 week ago)
 *   Restore my old xanga site
     *   by murble
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   3 (last comment by FindingHarmony 1 week ago)
@@ -88,13 +88,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Old post
     *   by fantasticPOYI\_0207
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieving Old Posts
     *   by solongandgoodnight413
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
