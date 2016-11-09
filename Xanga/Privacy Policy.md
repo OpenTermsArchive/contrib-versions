@@ -8,27 +8,33 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Archived blog
+    *   by Terry\_3108
+    *   1 hour ago
+    *   in Miscellaenous
+    *   0 votes
+    *   0
 *   Please help me view my old account
     *   by sandiegosuperstar
-    *   1 day ago
+    *   2 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Please help me view my old account
     *   by sandiegosuperstar
-    *   1 day ago
+    *   2 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Recovering old blogs
     *   by jazz951
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Pls help to recover
     *   by wilson2612
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -37,22 +43,22 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Pictures
     *   0 votes
-    *   2 (last comment by Thatonewiz 4 days ago)
+    *   2 (last comment by Thatonewiz 5 days ago)
 *   Retrieve Old Account
     *   \[Resolved\] by anoiFace
     *   2 years ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   3 (last comment by Thatonewiz 4 days ago)
+    *   3 (last comment by Thatonewiz 5 days ago)
 *   Please help recover old xanga blog
     *   by sHoRt\_LiL\_tRiNa
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   recovering old xanga
     *   by niya0220
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -88,12 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Old post
     *   by fantasticPOYI\_0207
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Retrieving Old Posts
-    *   by solongandgoodnight413
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
