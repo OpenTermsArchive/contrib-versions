@@ -8,33 +8,39 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Invalid username but blog has saved
+    *   by kaloveaaron
+    *   16 hours ago
+    *   in Usernames
+    *   0 votes
+    *   0
 *   Archived blog
     *   by Terry\_3108
-    *   1 hour ago
+    *   1 day ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Please help me view my old account
     *   by sandiegosuperstar
-    *   2 days ago
+    *   3 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Please help me view my old account
     *   by sandiegosuperstar
-    *   2 days ago
+    *   3 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Recovering old blogs
     *   by jazz951
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Pls help to recover
     *   by wilson2612
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -43,16 +49,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Pictures
     *   0 votes
-    *   2 (last comment by Thatonewiz 5 days ago)
+    *   2 (last comment by Thatonewiz 6 days ago)
 *   Retrieve Old Account
     *   \[Resolved\] by anoiFace
     *   2 years ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   3 (last comment by Thatonewiz 5 days ago)
+    *   3 (last comment by Thatonewiz 6 days ago)
 *   Please help recover old xanga blog
     *   by sHoRt\_LiL\_tRiNa
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -82,20 +88,14 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 (last comment by FindingHarmony 1 week ago)
 *   Recover old xanga
     *   by HangThuNguyen
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help restore my xanga blog
     *   by xBAbiExLoNeLYx
-    *   2 weeks ago
-    *   in Themes
-    *   0 votes
-    *   0
-*   Old post
-    *   by fantasticPOYI\_0207
     *   3 weeks ago
-    *   in Data Migration
+    *   in Themes
     *   0 votes
     *   0
 
