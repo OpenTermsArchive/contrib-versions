@@ -8,39 +8,45 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   How do I download an archive of my old blog?
+    *   \[Resolved\] by thibault
+    *   2 years ago
+    *   in Data Migration
+    *   0 votes
+    *   25 (last comment by Iam2misunderstood 12 hours ago)
 *   Invalid username but blog has saved
     *   by kaloveaaron
-    *   16 hours ago
+    *   1 day ago
     *   in Usernames
     *   0 votes
     *   0
 *   Archived blog
     *   by Terry\_3108
-    *   1 day ago
+    *   2 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Please help me view my old account
     *   by sandiegosuperstar
-    *   3 days ago
+    *   4 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Please help me view my old account
     *   by sandiegosuperstar
-    *   3 days ago
+    *   4 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Recovering old blogs
     *   by jazz951
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Pls help to recover
     *   by wilson2612
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -49,13 +55,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Pictures
     *   0 votes
-    *   2 (last comment by Thatonewiz 6 days ago)
+    *   2 (last comment by Thatonewiz 1 week ago)
 *   Retrieve Old Account
     *   \[Resolved\] by anoiFace
     *   2 years ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   3 (last comment by Thatonewiz 6 days ago)
+    *   3 (last comment by Thatonewiz 1 week ago)
 *   Please help recover old xanga blog
     *   by sHoRt\_LiL\_tRiNa
     *   1 week ago
@@ -76,7 +82,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Old Account
     *   by SiMpLy\_i3riT
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by FindingHarmony 1 week ago)
@@ -90,12 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by HangThuNguyen
     *   2 weeks ago
     *   in Data Migration
-    *   0 votes
-    *   0
-*   Please help restore my xanga blog
-    *   by xBAbiExLoNeLYx
-    *   3 weeks ago
-    *   in Themes
     *   0 votes
     *   0
 
