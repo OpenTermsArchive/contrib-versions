@@ -13,40 +13,40 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   25 (last comment by Iam2misunderstood 12 hours ago)
+    *   25 (last comment by Iam2misunderstood 1 day ago)
 *   Invalid username but blog has saved
     *   by kaloveaaron
-    *   1 day ago
+    *   2 days ago
     *   in Usernames
     *   0 votes
     *   0
 *   Archived blog
     *   by Terry\_3108
-    *   2 days ago
+    *   3 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Please help me view my old account
     *   by sandiegosuperstar
-    *   4 days ago
+    *   5 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Please help me view my old account
     *   by sandiegosuperstar
-    *   4 days ago
+    *   5 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Recovering old blogs
     *   by jazz951
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Pls help to recover
     *   by wilson2612
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -85,13 +85,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by FindingHarmony 1 week ago)
+    *   1 (last comment by FindingHarmony 2 weeks ago)
 *   Restore my old xanga site
     *   by murble
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by FindingHarmony 1 week ago)
+    *   3 (last comment by FindingHarmony 2 weeks ago)
 *   Recover old xanga
     *   by HangThuNguyen
     *   2 weeks ago
