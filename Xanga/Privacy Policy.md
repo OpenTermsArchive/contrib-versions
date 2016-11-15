@@ -13,16 +13,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   25 (last comment by Iam2misunderstood 3 days ago)
+    *   25 (last comment by Iam2misunderstood 4 days ago)
 *   Invalid username but blog has saved
     *   by kaloveaaron
-    *   4 days ago
+    *   5 days ago
     *   in Usernames
     *   0 votes
     *   0
 *   Archived blog
     *   by Terry\_3108
-    *   5 days ago
+    *   6 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
@@ -76,7 +76,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Please help retrieve my account
     *   by maybo\_mary
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -88,7 +88,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by FindingHarmony 2 weeks ago)
 *   Restore my old xanga site
     *   by murble
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   3 (last comment by FindingHarmony 2 weeks ago)
