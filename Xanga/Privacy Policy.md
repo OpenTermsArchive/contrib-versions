@@ -8,21 +8,45 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   how can i access my old blogs
+    *   \[Resolved\] by e\_e
+    *   3 years ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by SummitFireDeptsLittleGirl 9 hours ago)
+*   How to see old posts
+    *   \[Resolved\] by SparklinEyez509
+    *   2 years ago
+    *   in Themes
+    *   0 votes
+    *   2 (last comment by SummitFireDeptsLittleGirl 9 hours ago)
+*   I want to pay my premium
+    *   \[Resolved\] by Blue\_Moon1
+    *   2 years ago
+    *   in Premium
+    *   0 votes
+    *   4 (last comment by Blue\_Moon1 11 hours ago)
+*   Emailed Eugenia about paying for subscription
+    *   by Blue\_Moon1
+    *   11 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   25 (last comment by Iam2misunderstood 4 days ago)
+    *   25 (last comment by Iam2misunderstood 5 days ago)
 *   Invalid username but blog has saved
     *   by kaloveaaron
-    *   5 days ago
+    *   6 days ago
     *   in Usernames
     *   0 votes
     *   0
 *   Archived blog
     *   by Terry\_3108
-    *   6 days ago
+    *   1 week ago
     *   in Miscellaenous
     *   0 votes
     *   0
@@ -70,30 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   recovering old xanga
     *   by niya0220
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Please help retrieve my account
-    *   by maybo\_mary
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Old Account
-    *   by SiMpLy\_i3riT
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by FindingHarmony 2 weeks ago)
-*   Restore my old xanga site
-    *   by murble
-    *   4 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   3 (last comment by FindingHarmony 2 weeks ago)
-*   Recover old xanga
-    *   by HangThuNguyen
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
