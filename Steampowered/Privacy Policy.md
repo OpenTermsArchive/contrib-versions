@@ -67,6 +67,8 @@ Valve complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S
   
 In compliance with the Privacy Shield Principles, Valve commits to resolve complaints about our collection or use of your personal information. European Union individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Valve **here**. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request. As explained in the Privacy Shield documentation (https://www.privacyshield.gov/article?id=ANNEX-I-introduction) certain residual claims not resolved by other means may be subject to binding arbitration. In such event, an arbitration option will be made available to you.  
   
+The Privacy Shield Principles describe Valve's accountability for personal data that it subsequently transfers to a third party agent. Under the Principles, Valve shall remain liable if third party agents process the personal information in a manner inconsistent with the Principles, unless Valve proves it is not responsible for the event giving rise to the damage.  
+  
 The Federal Trade Commission has jurisdiction over Valve’s compliance with the Privacy Shield.  
   
-_Revision Date: October 20th 2016_
+_Revision Date: November 16th 2016_
