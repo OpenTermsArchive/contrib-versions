@@ -51,7 +51,7 @@ Skip Navigation Explore Allstate
     *   Digital Locker
     *   GoodRide
 
-*   Find an Agent
+*   Find an Agent ✖
 
 *   Get A Quote
 *   *   Auto
@@ -67,37 +67,30 @@ Skip Navigation Explore Allstate
 
 *   Connect With Us
 
-Get a Quote?
+Toggle navigation Log in Search Close Navigation
 
-Your location is set for Denver, CO 80202
-
-Edit Select a product to get a quote.  
-Retrieve a saved quote
-
-Auto
-
-Home
-
-Renters
-
-Life
-
-Condo
-
-Motorcycle
-
-Boat
-
-ATV/Rec. Vehicle
-
-Business Insurance
-
-More Insurance
-
-Find An Agent
-
-*   Insurance &. More
+*   Get a Quote
     
+    Your location is set for Denver, CO 80202
+    
+    Edit location
+    
+    Select a product to get a quote.
+    
+    Retrieve a saved quote
+    *   Auto
+    *   Home
+    *   Renters
+    *   Life
+    *   Condo
+    *   Motorcycle
+    *   Boat
+    *   ATV/Rec. Vehicle
+    *   Business Insurance
+    *   More Insurance
+    *   Find An Agent
+*   Insurance &. More
+    *   Roadside
     *   Auto
     *   Home
     *   Renters
@@ -106,29 +99,22 @@ Find An Agent
     *   Business
     *   Life
     *   Roadside
-    *   My Offers
-    
     *   Drivewise®
-    *   Boat
-    *   Motorhome
-    *   Snowmobile
-    *   ATV
-    *   Pet
-    *   Event
-    *   Landlord
-    *   Retirement &. Investments
-    *   Supplemental &. Health
+    *   More
+        *   Boat
+        *   Motorhome
+        *   Snowmobile
+        *   ATV
+        *   Pet
+        *   Event
+        *   Landlord
+        *   Retirement &. Investments
+        *   Supplemental &. Health
 *   Claims
     *   Overview
     *   File A Claim
     *   Track A Claim
     *   Disaster Claims
-*   Support
-    *   Overview
-    *   Q &. A
-    *   Billing
-    *   Find An Agent
-    *   Contact Us
 *   Tools &. Resources
     *   Welcome
     *   Auto
@@ -139,59 +125,24 @@ Find An Agent
     *   Retirement &. Investments
     *   Power Sports
     *   Business Insurance
-*   My Account Login Log in to My Account: User Name Password Password Forgot user ID? Forgot password? Log In Create an account
-
-Toggle mobileNavigation Log in
-
-*   Search
-*   Update Zip Code expand
-    *   Denver, CO80202Edit
+*   Get A Quote in 80202
+    
+    80202 Edit location
+    
+    Select a productAutoHomeRentersLifeCondoMotorcycleBoatATV/Rec. VehicleBusiness InsuranceMore InsuranceGet A Quote
+    
+    Retrieve a saved quote
+    
 *   Find A Local Agent
-*   Get A Quote in 80202 expand
-    *   Denver, CO80202 Edit AutoHomeRentersLifeCondoMotorcycleBoatATV/Rec. VehicleBusiness InsuranceMore InsuranceRetrieve a saved quote Retrieve a saved quote
-*   Insurance &. More expand
-    *   Auto
-    *   Home
-    *   Renters
-    *   Condo
-    *   Motorcycle
-    *   Business
-    *   Life
-    *   Roadside
-    *   My Offers
-    *   More expand
-        *   Drivewise®
-        *   Boat
-        *   Motorhome
-        *   Snowmobile
-        *   ATV
-        *   Pet
-        *   Event
-        *   Landlord
-        *   Retirement &. Investments
-        *   Supplemental &. Health
-*   Claims expand
-    *   Overview
-    *   File A Claim
-    *   Track A Claim
-    *   Disaster Claims
-*   Support expand
-    *   Overview
-    *   Q &. A
-    *   Billing
-    *   Find An Agent
-    *   Contact Us
-*   Tools &. Resources expand
-    *   Welcome
-    *   Auto
-    *   Home
-    *   Motorcycle
-    *   Renters
-    *   Life
-    *   Retirement &. Investments
-    *   Power Sports
-    *   Business Insurance
-*   My Account Login
+*   My Account Log in
+
+My Account Log in
+
+Log in to My Account
+
+Forgot user ID Forgot password Register new account
+
+*   Update zip code
 *   Contact Us
 *   Español
 
@@ -229,7 +180,29 @@ About Allstate
     *   Mayhem
 *   Allstate Affiliate Program
 
-Home >. Allstate Overview >. Privacy Statement AIC Share allstate.com ﻿Important Notice Privacy Policy Statement
+Home >. Allstate Overview >. Privacy Statement AIC Share allstate.com Find An Agent Close
+
+Agents near 80202
+
+*   Loading...
+
+Advanced agent search
+
+80202 Edit location
+
+Select a ProductAutoHomeRentersLifeCondoMotorcycleBoatATV/Rec. VehicleBusiness InsuranceGet a quote
+
+Retrieve a saved quote
+
+24-hour support
+
+1-800-ALLSTATE
+
+(1-800-255-7828)
+
+Smart Search   Try Smart Search An intelligent search tool to help you find the info you're looking for. Try it now <. Start Over Welcome to Smart Search Quickly locate tools, tips, resources, insurance information and more. For example: car insurance tips or common claims Popular Searches
+
+﻿Important Notice Privacy Policy Statement
 
   
   
@@ -433,88 +406,44 @@ Email: BCPINFO@ag.state.nv.us
 Please note that Allstate's "do not call" list is limited only to telephone solicitation calls. We may still contact you about your Allstate policy, billing issues, claims and other service matters.  
   
 **For Vermont residents:**  
-We won't share your personal information with Allstate companies for marketing purposes except as allowed by Vermont law. Contact Us &. Quote
+We won't share your personal information with Allstate companies for marketing purposes except as allowed by Vermont law.
 
-Get A Quote
+80202 Edit Location
 
-Your location is set for:
+Select a ProductAutoHomeRentersLifeCondoMotorcycleBoatATV/Rec. VehicleBusiness Insurance
 
-Denver, CO 80202 Edit Beginning of dialog window. It begins with a link called "Get a Quote?". Escape will cancel and close the window. GET A QUOTE Select a product to get a quote.
-
-Auto
-
-Home
-
-Renters
-
-Life
-
-Condo
-
-Motorcycle
-
-Boat
-
-ATV/Rec. Vehicle
-
-Business Insurance
-
-More
-
-End Dialog. AutoHomeRentersLifeCondoMotorcycleBoatATV/Rec. VehicleBusiness InsuranceMore  
-GET A QUOTE  
 Retrieve a saved quote
 
-Agents Near 80202
+© 2016 Allstate Insurance Company
 
-*   Loading...
+Connect With Us
 
-*   Loading...
+*   Company
+*   Our Story
+*   The Allstate Blog
+*   Careers
+*   Customer Support
+*   Contact Us
 
-More Agents More Agents
+*   Corporate Info
+*   Newsroom
+*   Allstate Investments
+*   Investor Relations
+*   Corporate Responsibility
 
-Find Your Local Agent
+*   Quick Links
+*   Auto Insurance
+*   Home Insurance
+*   Claims
+*   Agent Locator
 
-Enjoy the personal attention you deserve. An Allstate agent is ready to help you with all your insurance needs. Find yours today.
-
-Find Your Local Agent
-
-24-hour support
-
-1-800-ALLSTATE  
-(1-800-255-7828)
-
-*   Connect With Us
-
-*   *   Company
-    *   About Allstate
-    *   Our Story
-    *   The Allstate Blog
-    *   Careers
-    *   Customer Support
-    *   Contact Us
-
-**© 2016 Allstate Insurance Company**  
-All Rights Reserved
-
-*   *   Corporate Info
-    *   Newsroom
-    *   Allstate Investments
-    *   Investor Relations
-    *   Corporate Responsibility
-
-*   *   Quick Links
-    *   Auto Insurance
-    *   Home Insurance
-    *   Claims
-    *   Agent Locator
-
-*   SITE MAP
-*   TERMS OF USE
-*   PRIVACY &. SECURITY
+*   MORE
+*   Site Map
+*   Terms Of Use
+*   Privacy &. Security
 *   NY Domestic Violence Notice
-*   UNDERWRITING COMPANIES
-*   AD CHOICES
+*   Underwriting Companies
+*   Ad Choices
 
 Oops! You have entered an invalid ZIP. Please, try again. Location data not available. Please enter zip code. ZIP Code: Cancel  
 Use My Current Location City, State
