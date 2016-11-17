@@ -13,22 +13,22 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by SummitFireDeptsLittleGirl 9 hours ago)
+    *   2 (last comment by SummitFireDeptsLittleGirl 1 day ago)
 *   How to see old posts
     *   \[Resolved\] by SparklinEyez509
     *   2 years ago
     *   in Themes
     *   0 votes
-    *   2 (last comment by SummitFireDeptsLittleGirl 9 hours ago)
+    *   2 (last comment by SummitFireDeptsLittleGirl 1 day ago)
 *   I want to pay my premium
     *   \[Resolved\] by Blue\_Moon1
     *   2 years ago
     *   in Premium
     *   0 votes
-    *   4 (last comment by Blue\_Moon1 11 hours ago)
+    *   4 (last comment by Blue\_Moon1 1 day ago)
 *   Emailed Eugenia about paying for subscription
     *   by Blue\_Moon1
-    *   11 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -37,10 +37,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   25 (last comment by Iam2misunderstood 5 days ago)
+    *   25 (last comment by Iam2misunderstood 6 days ago)
 *   Invalid username but blog has saved
     *   by kaloveaaron
-    *   6 days ago
+    *   1 week ago
     *   in Usernames
     *   0 votes
     *   0
@@ -88,7 +88,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 (last comment by Thatonewiz 1 week ago)
 *   Please help recover old xanga blog
     *   by sHoRt\_LiL\_tRiNa
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
