@@ -66,17 +66,18 @@ Mortgages
 *   Shop mortgages
     *   *   Mortgage lenders
         *   Mortgage rates
+        *   Refinance rates
         *   All mortgage rates
-*   Refinance
-    *   *   Refinance rates
-        *   HARP program
 *   Calculators
     *   *   Mortgage calculator
         *   Affordability calculator
         *   Refinance calculator
+        *   Amortization calculator
+        *   Debt-to-Income calculator
 *   Resources
     *   *   Lender directory
         *   Mortgage learning center
+        *   Mortgages app
         *   Lender resource center
 
 Agent finder
