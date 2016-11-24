@@ -13,10 +13,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Premium
     *   0 votes
-    *   2 (last comment by angelofmusic930 2 hours ago)
+    *   2 (last comment by angelofmusic930 1 day ago)
 *   cant find achive from dashboard
     *   by PUI\_cHICHi
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -25,7 +25,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   2 (last comment by txcuti133 4 days ago)
+    *   2 (last comment by txcuti133 5 days ago)
 *   how can i access my old blogs
     *   \[Resolved\] by e\_e
     *   3 years ago
@@ -58,7 +58,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   25 (last comment by Iam2misunderstood 1 week ago)
 *   Invalid username but blog has saved
     *   by kaloveaaron
-    *   1 week ago
+    *   2 weeks ago
     *   in Usernames
     *   0 votes
     *   0
