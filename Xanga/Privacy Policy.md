@@ -8,15 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Nothing there..
+    *   \[Resolved\] by kan\_hung
+    *   3 years ago
+    *   in Data Migration
+    *   0 votes
+    *   6 (last comment by kan\_hung 17 hours ago)
 *   So basically Xanga isn't free anymore?
     *   \[Resolved\] by Endrizzle
     *   3 years ago
     *   in Premium
     *   0 votes
-    *   2 (last comment by angelofmusic930 4 days ago)
+    *   2 (last comment by angelofmusic930 5 days ago)
 *   cant find achive from dashboard
     *   by PUI\_cHICHi
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -70,13 +76,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Please help me view my old account
     *   by sandiegosuperstar
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Please help me view my old account
     *   by sandiegosuperstar
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -92,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   old photos/blog archives/data migration
-    *   \[Resolved\] by lEv3rLasTingl
-    *   2 years ago
-    *   in Pictures
-    *   0 votes
-    *   2 (last comment by Thatonewiz 3 weeks ago)
 
 1 2 3 ... 178 Next
 
