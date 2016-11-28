@@ -462,18 +462,4 @@ My ZIP code is: Select your county Select your county
 
 Please enter a valid ZIP code
 
-Continue
-
-Continue
-
-Continue
-
-Continue
-
-Continue
-
-Continue
-
-Continue
-
 Continue Please enter all of your information This JavaScript enables OnlineOpinion, a method for collecting secure feedback data.
