@@ -13,16 +13,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   6 (last comment by kan\_hung 17 hours ago)
+    *   6 (last comment by kan\_hung 1 day ago)
 *   So basically Xanga isn't free anymore?
     *   \[Resolved\] by Endrizzle
     *   3 years ago
     *   in Premium
     *   0 votes
-    *   2 (last comment by angelofmusic930 5 days ago)
+    *   2 (last comment by angelofmusic930 6 days ago)
 *   cant find achive from dashboard
     *   by PUI\_cHICHi
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
