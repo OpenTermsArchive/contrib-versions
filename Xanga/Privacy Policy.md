@@ -13,13 +13,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   6 (last comment by kan\_hung 1 day ago)
+    *   6 (last comment by kan\_hung 2 days ago)
 *   So basically Xanga isn't free anymore?
     *   \[Resolved\] by Endrizzle
     *   3 years ago
     *   in Premium
     *   0 votes
-    *   2 (last comment by angelofmusic930 6 days ago)
+    *   2 (last comment by angelofmusic930 1 week ago)
 *   cant find achive from dashboard
     *   by PUI\_cHICHi
     *   1 week ago
@@ -37,22 +37,22 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by SummitFireDeptsLittleGirl 1 week ago)
+    *   2 (last comment by SummitFireDeptsLittleGirl 2 weeks ago)
 *   How to see old posts
     *   \[Resolved\] by SparklinEyez509
     *   2 years ago
     *   in Themes
     *   0 votes
-    *   2 (last comment by SummitFireDeptsLittleGirl 1 week ago)
+    *   2 (last comment by SummitFireDeptsLittleGirl 2 weeks ago)
 *   I want to pay my premium
     *   \[Resolved\] by Blue\_Moon1
     *   2 years ago
     *   in Premium
     *   0 votes
-    *   4 (last comment by Blue\_Moon1 1 week ago)
+    *   4 (last comment by Blue\_Moon1 2 weeks ago)
 *   Emailed Eugenia about paying for subscription
     *   by Blue\_Moon1
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -70,7 +70,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Archived blog
     *   by Terry\_3108
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Miscellaenous
     *   0 votes
     *   0
