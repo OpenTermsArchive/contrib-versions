@@ -26,7 +26,7 @@ WIRELESS CUSTOMER AGREEMENT ("Agreement") Documents
 *   DIRECTV
 *   Home Phone
 *   Internet &. Email
-*   U-verse®
+*   U-verse® TV
 
 Print
 
