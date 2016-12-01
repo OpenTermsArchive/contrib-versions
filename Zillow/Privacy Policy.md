@@ -47,7 +47,6 @@ Rent
 *   Rental Manager
     *   *   Sign in to see your listings
         *   List a rental (it's free)
-        *   How it works
         *   Resources
 
 Sell
