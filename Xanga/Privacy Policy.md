@@ -8,12 +8,18 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   How do I download an archive of my old blog?
+    *   \[Resolved\] by thibault
+    *   2 years ago
+    *   in Data Migration
+    *   0 votes
+    *   26 (last comment by StormSlayerX 20 hours ago)
 *   Nothing there..
     *   \[Resolved\] by kan\_hung
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   6 (last comment by kan\_hung 3 days ago)
+    *   6 (last comment by kan\_hung 4 days ago)
 *   So basically Xanga isn't free anymore?
     *   \[Resolved\] by Endrizzle
     *   3 years ago
@@ -56,12 +62,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   How do I download an archive of my old blog?
-    *   \[Resolved\] by thibault
-    *   2 years ago
-    *   in Data Migration
-    *   0 votes
-    *   25 (last comment by Iam2misunderstood 2 weeks ago)
 *   Invalid username but blog has saved
     *   by kaloveaaron
     *   3 weeks ago
