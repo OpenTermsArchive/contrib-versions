@@ -12,6 +12,7 @@ Skip Navigation Explore Allstate
 *   Company Overview
 *   *   Our Story
     *   Good Home
+    *   My Offers
     *   The Allstate Blog
     *   Careers
 
@@ -50,6 +51,7 @@ Skip Navigation Explore Allstate
     *   Drivewise
     *   Digital Locker
     *   GoodRide
+    *   QuickTrip
 
 *   Find an Agent ✖
 
@@ -110,6 +112,7 @@ Toggle navigation Log in Search Close Navigation
         *   Landlord
         *   Retirement &. Investments
         *   Supplemental &. Health
+        *   My Offers
 *   Claims
     *   Overview
     *   File A Claim
