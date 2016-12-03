@@ -35,7 +35,7 @@ Insurance through an Employer
 Information &. Resources
 
 *   Pharmacy
-*   Find a Medication
+*   Look up Drug Coverage
 *   Find a Doctor
 *   Using Your Aetna Benefits
 *   Healthy Living Tips
