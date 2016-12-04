@@ -13,13 +13,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   26 (last comment by StormSlayerX 1 day ago)
+    *   26 (last comment by StormSlayerX 2 days ago)
 *   Nothing there..
     *   \[Resolved\] by kan\_hung
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   6 (last comment by kan\_hung 5 days ago)
+    *   6 (last comment by kan\_hung 6 days ago)
 *   So basically Xanga isn't free anymore?
     *   \[Resolved\] by Endrizzle
     *   3 years ago
