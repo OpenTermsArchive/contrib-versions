@@ -13,13 +13,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   26 (last comment by StormSlayerX 2 days ago)
+    *   26 (last comment by StormSlayerX 3 days ago)
 *   Nothing there..
     *   \[Resolved\] by kan\_hung
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   6 (last comment by kan\_hung 6 days ago)
+    *   6 (last comment by kan\_hung 1 week ago)
 *   So basically Xanga isn't free anymore?
     *   \[Resolved\] by Endrizzle
     *   3 years ago
@@ -76,25 +76,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Please help me view my old account
     *   by sandiegosuperstar
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Please help me view my old account
     *   by sandiegosuperstar
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Recovering old blogs
     *   by jazz951
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Pls help to recover
     *   by wilson2612
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
