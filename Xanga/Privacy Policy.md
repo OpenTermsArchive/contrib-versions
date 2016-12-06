@@ -8,12 +8,18 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   How to obtain archives blog?!
+    *   by DamnPapi
+    *   8 minutes ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   26 (last comment by StormSlayerX 3 days ago)
+    *   27 (last comment by DamnPapi 12 minutes ago)
 *   Nothing there..
     *   \[Resolved\] by kan\_hung
     *   3 years ago
@@ -28,7 +34,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 (last comment by angelofmusic930 1 week ago)
 *   cant find achive from dashboard
     *   by PUI\_cHICHi
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -88,12 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Recovering old blogs
     *   by jazz951
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Pls help to recover
-    *   by wilson2612
     *   1 month ago
     *   in Data Migration
     *   0 votes
