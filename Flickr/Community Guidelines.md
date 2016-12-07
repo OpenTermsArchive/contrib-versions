@@ -1,6 +1,6 @@
 *   Explore
     *   Recent Photos
-    *   TrendingNew
+    *   Trending
     *   Flickr VR
     *   The Commons
     *   Galleries
@@ -14,7 +14,7 @@
 *   Sign In
 *   Sign Up
 
-Explore Recent Photos TrendingNew The Commons Galleries The Weekly Flickr Flickr Blog Grass could be greener on this side
+Explore Recent Photos Trending The Commons Galleries The Weekly Flickr Flickr Blog Grass could be greener on this side
 
 You seem to be using an unsupported browser. To get the most out of Flickr please upgrade to the latest version of Chrome, Safari, Firefox, or Internet Explorer.
 
