@@ -115,7 +115,9 @@ The above licenses are conditional upon your strict compliance with these Terms 
 
 (ii) You must not adapt, copy, republish, make available or otherwise communicate to the public, display, perform, transfer, share, distribute or otherwise use or exploit any Content on or from the Platform at any and all times, except (i) where such Content is Your Content at any and all times during your use of the applicable Content, or (ii) as permitted under these Terms of Use, and within the parameters set by the Uploader (for example, under the terms of Creative Commons licenses selected by the Uploader).
 
-(iii) You must not use any Content (other than Your Content) in any way that is designed to create a separate content service or that replicates any part of the Platform offering. (iv) You must not employ scraping or similar techniques to aggregate, repurpose, republish or otherwise make use of any Content.
+(iii) You must not use any Content (other than Your Content) in any way that is designed to create a separate content service or that replicates any part of the Platform offering.
+
+(iv) You must not employ scraping or similar techniques to aggregate, repurpose, republish or otherwise make use of any Content.
 
 (v) You must not employ any techniques or make use of any services, automated or otherwise, designed to misrepresent the popularity of Your Content on the Platform, or to misrepresent your activity on the Platform, including without limitation by the use of bots, botnets, scripts, apps, plugins, extensions or other automated means to register accounts, log in, add followers to your account, play Content, follow or unfollow other users, send messages, post comments, or otherwise to act on your behalf, particularly where such activity occurs in a multiple or repetitive fashion. You must not offer or promote the availability of any such techniques or services to any other users of the Platform.
 
