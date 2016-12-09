@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   How to obtain archives blog?!
     *   by DamnPapi
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,7 +19,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   27 (last comment by DamnPapi 2 days ago)
+    *   27 (last comment by DamnPapi 3 days ago)
 *   Nothing there..
     *   \[Resolved\] by kan\_hung
     *   3 years ago
@@ -76,7 +76,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Archived blog
     *   by Terry\_3108
-    *   4 weeks ago
+    *   1 month ago
     *   in Miscellaenous
     *   0 votes
     *   0
