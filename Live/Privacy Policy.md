@@ -834,7 +834,7 @@ To learn more about Kinect, for Xbox 360, see Kinect and Xbox 360 privacy. For X
 
 Enterprise ProductsEnterprise ProductsmainenterpriseservicesmoduleSummary
 
-Enterprise Products are those Microsoft products and related offerings that that are offered or designed primarily for use by organizations and developers. They include subscription cloud services, such as Office 365, Microsoft Azure, Microsoft Dynamics CRM Online, Microsoft Intune, and Yammer, for which an organization (our "customer") contracts with Microsoft for the services (“Online Services”). They also include server and developer products customers run on their own premises, such as Windows Server, SQL Server, Visual Studio, and System Center (“On-Prem Products”). Microsoft Cognitive Services are not Enterprise Products under this privacy statement.
+Enterprise Products are those Microsoft products and related offerings that are offered or designed primarily for use by organizations and developers. They include subscription cloud services, such as Office 365, Microsoft Azure, Microsoft Dynamics CRM Online, Microsoft Intune, and Yammer, for which an organization (our "customer") contracts with Microsoft for the services (“Online Services”). They also include server and developer products customers run on their own premises, such as Windows Server, SQL Server, Visual Studio, and System Center (“On-Prem Products”). Microsoft Cognitive Services are not Enterprise Products under this privacy statement.
 
 Some Enterprise Products have their own, separate privacy statements. The following notices explain specific privacy practices with respect to certain Microsoft products you may use:
 
@@ -845,7 +845,7 @@ Some Enterprise Products have their own, separate privacy statements. The follow
 
 Full text
 
-Enterprise Products are those Microsoft products and related offerings that that are offered or designed primarily for use by organizations and developers. They include subscription cloud services, such as Office 365, Microsoft Azure, Microsoft Dynamics CRM Online, Microsoft Intune, and Yammer, for which an organization (our "customer") contracts with Microsoft for the services (“Online Services”). They also include server and developer products customers run on their own premises, such as Windows Server, SQL Server, Visual Studio, and System Center (“On-Prem Products”). Microsoft Cognitive Services are not Enterprise Products under this privacy statement.
+Enterprise Products are those Microsoft products and related offerings that are offered or designed primarily for use by organizations and developers. They include subscription cloud services, such as Office 365, Microsoft Azure, Microsoft Dynamics CRM Online, Microsoft Intune, and Yammer, for which an organization (our "customer") contracts with Microsoft for the services (“Online Services”). They also include server and developer products customers run on their own premises, such as Windows Server, SQL Server, Visual Studio, and System Center (“On-Prem Products”). Microsoft Cognitive Services are not Enterprise Products under this privacy statement.
 
 Some Enterprise Products have their own, separate privacy statements. The following notices explain specific privacy practices with respect to certain Microsoft products you may use:
 
