@@ -8,9 +8,15 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Emailed Eugenia about paying for subscription
+    *   by Blue\_Moon1
+    *   3 weeks ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by Cluesy 1 hour ago)
 *   How to obtain archives blog?!
     *   by DamnPapi
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,7 +25,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   27 (last comment by DamnPapi 4 days ago)
+    *   27 (last comment by DamnPapi 5 days ago)
 *   Nothing there..
     *   \[Resolved\] by kan\_hung
     *   3 years ago
@@ -62,12 +68,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Premium
     *   0 votes
     *   4 (last comment by Blue\_Moon1 3 weeks ago)
-*   Emailed Eugenia about paying for subscription
-    *   by Blue\_Moon1
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 *   Invalid username but blog has saved
     *   by kaloveaaron
     *   1 month ago
