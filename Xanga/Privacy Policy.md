@@ -13,10 +13,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Cluesy 1 hour ago)
+    *   1 (last comment by Cluesy 1 day ago)
 *   How to obtain archives blog?!
     *   by DamnPapi
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -25,13 +25,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   27 (last comment by DamnPapi 5 days ago)
+    *   27 (last comment by DamnPapi 6 days ago)
 *   Nothing there..
     *   \[Resolved\] by kan\_hung
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   6 (last comment by kan\_hung 1 week ago)
+    *   6 (last comment by kan\_hung 2 weeks ago)
 *   So basically Xanga isn't free anymore?
     *   \[Resolved\] by Endrizzle
     *   3 years ago
