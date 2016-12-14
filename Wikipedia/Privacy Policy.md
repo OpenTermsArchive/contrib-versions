@@ -1,11 +1,13 @@
 *   العربية
 *   azərbaycanca
+*   تۆرکجه
 *   български
+*   روچ کپتین بلوچی
 *   বাংলা
 *   bosanski
 *   català
 *   нохчийн
-*   ckh
+*   کوردیی ناوەندی
 *   čeština
 *   català
 *   Cymraeg
@@ -24,6 +26,7 @@
 *   suomi
 *   français
 *   Nordfriisk
+*   Frysk
 *   galego
 *   Avañe'ẽ
 *   עברית
@@ -36,24 +39,35 @@
 *   ქართული
 *   ភាសាខ្មែរ
 *   한국어
+*   Ripoarisch
 *   Кыргызча
 *   Lëtzebuergesch
+*   Ligure
 *   lietuvių
+*   Basa Banyumasan
+*   македонски
 *   മലയാളം
 *   Bahasa Melayu
+*   မြန်မာဘာသာ
+*   مازِرونی
 *   Napulitano
 *   norsk bokmål
+*   नेपाली
 *   Nederlands
 *   nl-formal
+*   Diné bizaad
 *   occitan
 *   ਪੰਜਾਬੀ
+*   Plautdietsch
 *   polski
 *   پښتو
 *   português
 *   português do Brasil
 *   română
 *   русский
-*   scp
+*   Scots
+*   سنڌي
+*   ၽႃႇသႃႇတႆး
 *   සිංහල
 *   Soomaaliga
 *   shqip
@@ -62,14 +76,20 @@
 *   Kiswahili
 *   தமிழ்
 *   తెలుగు
+*   тоҷикӣ
 *   ไทย
 *   Türkçe
+*   удмурт
 *   українська
 *   اردو
+*   Tiếng Việt
+*   მარგალური
 *   ייִדיש
 *   Yorùbá
+*   粵語
 *   中文
 *   中文（简体）‎
+*   中文（繁體）‎
 
 This policy is approved by the Wikimedia Foundation Board of Trustees to apply to all Wikimedia projects.  
 It may not be circumvented, eroded, or ignored by local policies.
