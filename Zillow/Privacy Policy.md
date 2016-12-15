@@ -74,7 +74,7 @@ Mortgages
         *   Amortization calculator
         *   Debt-to-Income calculator
 *   Resources
-    *   *   Lender directory
+    *   *   Lender reviews
         *   Mortgage learning center
         *   Mortgages app
         *   Lender resource center
