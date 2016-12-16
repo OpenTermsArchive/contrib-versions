@@ -42,6 +42,7 @@ Sign In Hi, {username}
 *   Features
 *   My Sites
 *   Premium Plans
+*   Wix SEO
 *   Online Store
 *   App Market
 *   Domains
@@ -58,6 +59,7 @@ Sign In Hi, {username}
 *   Privacy Policy
 *   Abuse
 *   Affiliates
+*   Updates &. Releases
 *   Contact Us
 
 *   COMMUNITY
@@ -79,8 +81,8 @@ Wix.com Wix.com is a leading cloud-based development platform with millions of u
 
 *   Facebook
 *   Twitter
-*   Google+
+
 *   Youtube
 *   Pinterest
-*   Instagram
+
 *   Linkedin
