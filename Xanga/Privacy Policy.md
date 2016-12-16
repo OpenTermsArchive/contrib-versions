@@ -10,10 +10,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Emailed Eugenia about paying for subscription
     *   by Blue\_Moon1
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Cluesy 4 days ago)
+    *   1 (last comment by Cluesy 5 days ago)
 *   How to obtain archives blog?!
     *   by DamnPapi
     *   1 week ago
@@ -55,19 +55,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by SummitFireDeptsLittleGirl 4 weeks ago)
+    *   2 (last comment by SummitFireDeptsLittleGirl 1 month ago)
 *   How to see old posts
     *   \[Resolved\] by SparklinEyez509
     *   2 years ago
     *   in Themes
     *   0 votes
-    *   2 (last comment by SummitFireDeptsLittleGirl 4 weeks ago)
+    *   2 (last comment by SummitFireDeptsLittleGirl 1 month ago)
 *   I want to pay my premium
     *   \[Resolved\] by Blue\_Moon1
     *   2 years ago
     *   in Premium
     *   0 votes
-    *   4 (last comment by Blue\_Moon1 4 weeks ago)
+    *   4 (last comment by Blue\_Moon1 1 month ago)
 *   Invalid username but blog has saved
     *   by kaloveaaron
     *   1 month ago
