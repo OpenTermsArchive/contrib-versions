@@ -8,12 +8,18 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Upgrading to xanga 2.0
+    *   by Nisticism2115
+    *   4 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Emailed Eugenia about paying for subscription
     *   by Blue\_Moon1
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Cluesy 5 days ago)
+    *   1 (last comment by Cluesy 6 days ago)
 *   How to obtain archives blog?!
     *   by DamnPapi
     *   1 week ago
@@ -46,10 +52,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Old Deleted Account
     *   \[Resolved\] by PaRtYiNg\_It\_Up\_WiTh\_BOB
-    *   2 years ago
+    *   3 years ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   2 (last comment by txcuti133 3 weeks ago)
+    *   2 (last comment by txcuti133 4 weeks ago)
 *   how can i access my old blogs
     *   \[Resolved\] by e\_e
     *   3 years ago
@@ -90,12 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by sandiegosuperstar
     *   1 month ago
     *   in Passwords &. Sign-In
-    *   0 votes
-    *   0
-*   Recovering old blogs
-    *   by jazz951
-    *   1 month ago
-    *   in Data Migration
     *   0 votes
     *   0
 
