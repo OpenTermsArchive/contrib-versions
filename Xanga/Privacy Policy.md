@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Upgrading to xanga 2.0
     *   by Nisticism2115
-    *   4 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,7 +19,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Cluesy 6 days ago)
+    *   1 (last comment by Cluesy 1 week ago)
 *   How to obtain archives blog?!
     *   by DamnPapi
     *   1 week ago
