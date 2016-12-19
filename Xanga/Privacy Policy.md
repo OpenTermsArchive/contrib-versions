@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Upgrading to xanga 2.0
     *   by Nisticism2115
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -37,7 +37,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   6 (last comment by kan\_hung 2 weeks ago)
+    *   6 (last comment by kan\_hung 3 weeks ago)
 *   So basically Xanga isn't free anymore?
     *   \[Resolved\] by Endrizzle
     *   3 years ago
@@ -55,7 +55,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   2 (last comment by txcuti133 4 weeks ago)
+    *   2 (last comment by txcuti133 1 month ago)
 *   how can i access my old blogs
     *   \[Resolved\] by e\_e
     *   3 years ago
