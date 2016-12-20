@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Upgrading to xanga 2.0
     *   by Nisticism2115
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -22,7 +22,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by Cluesy 1 week ago)
 *   How to obtain archives blog?!
     *   by DamnPapi
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -31,7 +31,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   27 (last comment by DamnPapi 1 week ago)
+    *   27 (last comment by DamnPapi 2 weeks ago)
 *   Nothing there..
     *   \[Resolved\] by kan\_hung
     *   3 years ago
@@ -46,7 +46,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 (last comment by angelofmusic930 3 weeks ago)
 *   cant find achive from dashboard
     *   by PUI\_cHICHi
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
