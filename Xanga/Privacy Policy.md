@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Upgrading to xanga 2.0
     *   by Nisticism2115
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -43,7 +43,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Premium
     *   0 votes
-    *   2 (last comment by angelofmusic930 3 weeks ago)
+    *   2 (last comment by angelofmusic930 4 weeks ago)
 *   cant find achive from dashboard
     *   by PUI\_cHICHi
     *   4 weeks ago
