@@ -4,8 +4,6 @@ Privacy Policy
 
 **We will revise our Privacy Policy in the coming months.** Learn more.
 
-**New Privacy Policy effective January 23, 2017** - click here to view
-
 Evernote values your privacy. We make this clear in our 3 Laws of Data Protection. This Privacy Policy explains more specifically what information Evernote Corporation and its affiliated companies (together, “Evernote” or “we” and sometimes “us”) collect about you and why, what we may do with that information and how we handle your Content.
 
 What is the Scope of This Privacy Policy?
