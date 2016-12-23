@@ -3,17 +3,16 @@
 *   Enterprise
 *   Wholesale
 
-Search Search Windstream.com Search or Cancel
+Search Windstream.com Search or Cancel Sign In
 
-*   My account
-    *   Special Offers
-    *   Check My Email
-    *   View or Pay My Bill
-    *   Move My Service
-    *   Go to Windstream.net
-    *   Windstream Blog
+Menu
 
-My Cart (Edit) My Location_:_ n/a
+*   Special Offers
+*   Move My Service
+*   Go to Windstream.net
+*   Windstream Blog
+
+(Edit) My Location_:_ n/a
 
 *   High-Speed Internet
     
@@ -35,15 +34,27 @@ My Cart (Edit) My Location_:_ n/a
     *   Live Chat
     
 
+*   Search
+
 *   High-Speed Internet
 *   Digital TV
 *   Home Phone
 *   Electronics
 *   Support
-*   Go To:
+*   *   More ▼▲
+    
+    *   Special Offers
+    *   Move My Service
+    *   Go to Windstream.net
+    *   Windstream Blog
+    
+*   My Location: n/a (Edit) My Location_:_ n/a
+
+*   Other Windstream Services ▼▲
+
 *   Small Business
 *   Enterprise
-*   Carrier
+*   Wholesale
 
 *   Terms and Conditions
     
