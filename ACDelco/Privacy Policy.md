@@ -47,7 +47,7 @@ x Cancel
     *   History &. Heritage
     *   Sustainability
     *   Careers
-    *   Giving Back
+    *   Philanthropy
     *   Social Hub
     *   Awards
     Learn More
@@ -282,7 +282,7 @@ A: No, many GM vehicles contain sensing and transmitting devices using the same 
     *   History &. Heritage
     *   Sustainability
     *   Careers
-    *   Giving Back
+    *   Philanthropy
     *   Social Hub
     *   Awards
 *   Investors
