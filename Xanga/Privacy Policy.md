@@ -19,7 +19,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Cluesy 1 week ago)
+    *   1 (last comment by Cluesy 2 weeks ago)
 *   How to obtain archives blog?!
     *   by DamnPapi
     *   2 weeks ago
