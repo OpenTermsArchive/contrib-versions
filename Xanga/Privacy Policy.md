@@ -37,7 +37,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   6 (last comment by kan\_hung 3 weeks ago)
+    *   6 (last comment by kan\_hung 4 weeks ago)
 *   So basically Xanga isn't free anymore?
     *   \[Resolved\] by Endrizzle
     *   3 years ago
