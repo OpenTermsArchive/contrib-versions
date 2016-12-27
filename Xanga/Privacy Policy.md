@@ -8,6 +8,12 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Old archive blog
+    *   by wwny
+    *   1 hour ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Upgrading to xanga 2.0
     *   by Nisticism2115
     *   1 week ago
@@ -22,7 +28,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by Cluesy 2 weeks ago)
 *   How to obtain archives blog?!
     *   by DamnPapi
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -31,7 +37,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   27 (last comment by DamnPapi 2 weeks ago)
+    *   27 (last comment by DamnPapi 3 weeks ago)
 *   Nothing there..
     *   \[Resolved\] by kan\_hung
     *   3 years ago
@@ -84,12 +90,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by Terry\_3108
     *   1 month ago
     *   in Miscellaenous
-    *   0 votes
-    *   0
-*   Please help me view my old account
-    *   by sandiegosuperstar
-    *   1 month ago
-    *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Please help me view my old account
