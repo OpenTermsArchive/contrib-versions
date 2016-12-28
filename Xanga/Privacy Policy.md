@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Old archive blog
     *   by wwny
-    *   1 hour ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -43,7 +43,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   6 (last comment by kan\_hung 4 weeks ago)
+    *   6 (last comment by kan\_hung 1 month ago)
 *   So basically Xanga isn't free anymore?
     *   \[Resolved\] by Endrizzle
     *   3 years ago
