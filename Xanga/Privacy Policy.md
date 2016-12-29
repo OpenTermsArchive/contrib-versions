@@ -8,9 +8,15 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   I need to download old Xanga
+    *   by hey\_its\_muah
+    *   10 hours ago
+    *   in Miscellaenous
+    *   0 votes
+    *   0
 *   Old archive blog
     *   by wwny
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -90,12 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by Terry\_3108
     *   1 month ago
     *   in Miscellaenous
-    *   0 votes
-    *   0
-*   Please help me view my old account
-    *   by sandiegosuperstar
-    *   1 month ago
-    *   in Passwords &. Sign-In
     *   0 votes
     *   0
 
