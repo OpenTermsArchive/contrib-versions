@@ -10,13 +10,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   I need to download old Xanga
     *   by hey\_its\_muah
-    *   10 hours ago
+    *   1 day ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Old archive blog
     *   by wwny
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
