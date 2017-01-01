@@ -8,15 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Missing Blog
+    *   by rosiebrowne
+    *   13 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   I need to download old Xanga
     *   by hey\_its\_muah
-    *   2 days ago
+    *   3 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Old archive blog
     *   by wwny
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -31,7 +37,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Cluesy 2 weeks ago)
+    *   1 (last comment by Cluesy 3 weeks ago)
 *   How to obtain archives blog?!
     *   by DamnPapi
     *   3 weeks ago
@@ -90,12 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by kaloveaaron
     *   1 month ago
     *   in Usernames
-    *   0 votes
-    *   0
-*   Archived blog
-    *   by Terry\_3108
-    *   1 month ago
-    *   in Miscellaenous
     *   0 votes
     *   0
 
