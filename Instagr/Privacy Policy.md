@@ -152,4 +152,4 @@ Instagram may modify or update this Privacy Policy from time to time, so please 
 *   Terms
 *   Privacy
 
-© 2016 Instagram, Inc.
+© 2017 Instagram, Inc.
