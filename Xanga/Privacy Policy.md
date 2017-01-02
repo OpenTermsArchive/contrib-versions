@@ -10,19 +10,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Missing Blog
     *   by rosiebrowne
-    *   13 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I need to download old Xanga
     *   by hey\_its\_muah
-    *   3 days ago
+    *   4 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Old archive blog
     *   by wwny
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
