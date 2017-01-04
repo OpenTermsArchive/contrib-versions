@@ -8,21 +8,33 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Looking for my old posts
+    *   by SinginGal75
+    *   10 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   I can't find my data
+    *   by miumiudydy
+    *   17 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   28 (last comment by berryballerina 2 hours ago)
+    *   28 (last comment by berryballerina 1 day ago)
 *   Missing Blog
     *   by rosiebrowne
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I need to download old Xanga
     *   by hey\_its\_muah
-    *   5 days ago
+    *   6 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
@@ -86,18 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Themes
     *   0 votes
     *   2 (last comment by SummitFireDeptsLittleGirl 1 month ago)
-*   I want to pay my premium
-    *   \[Resolved\] by Blue\_Moon1
-    *   2 years ago
-    *   in Premium
-    *   0 votes
-    *   4 (last comment by Blue\_Moon1 1 month ago)
-*   Invalid username but blog has saved
-    *   by kaloveaaron
-    *   1 month ago
-    *   in Usernames
-    *   0 votes
-    *   0
 
 1 2 3 ... 178 Next
 
