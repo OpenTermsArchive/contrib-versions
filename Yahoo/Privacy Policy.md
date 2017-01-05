@@ -133,7 +133,7 @@ DES PUBLICITÉS PERTINENTES En vous apportant du contenu et des publicités pert
 Yahoo et vos données
 
 Yahoo Vie Privée Nous vous proposons un grand nombre de liens décrivant le traitement de vos données personnelles dans les différents produits et services Yahoo. Cliquez ici pour la liste.  
- Informations générales
+  Informations générales
 
 *   Aide complémentaire
 *   Nous contacter
