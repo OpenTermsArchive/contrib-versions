@@ -4,6 +4,8 @@ Aetna.com works best with Internet Explorer 11 and above. Learn more >
 
 Aetna.com works best with Safari 8 and above. Learn more >
 
+If your browser is in Private mode, pages that use personal or geographic information may not work.
+
 *   Individuals &. Families  
 *   Employers &. Organizations  
 *   Health Care Professionals  
