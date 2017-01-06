@@ -10,13 +10,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Looking for my old posts
     *   by SinginGal75
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I can't find my data
     *   by miumiudydy
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -25,10 +25,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   28 (last comment by berryballerina 2 days ago)
+    *   28 (last comment by berryballerina 3 days ago)
 *   Missing Blog
     *   by rosiebrowne
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
