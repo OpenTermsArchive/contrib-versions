@@ -8,15 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Looking for a very old blog of mine
+    *   by Shylanes
+    *   4 minutes ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Looking for my old posts
     *   by SinginGal75
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I can't find my data
     *   by miumiudydy
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -25,7 +31,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   28 (last comment by berryballerina 6 days ago)
+    *   28 (last comment by berryballerina 1 week ago)
 *   Missing Blog
     *   by rosiebrowne
     *   1 week ago
@@ -40,7 +46,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Old archive blog
     *   by wwny
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -55,7 +61,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by Cluesy 4 weeks ago)
+    *   1 (last comment by Cluesy 1 month ago)
 *   How to obtain archives blog?!
     *   by DamnPapi
     *   1 month ago
@@ -92,14 +98,8 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   2 (last comment by SummitFireDeptsLittleGirl 1 month ago)
-*   How to see old posts
-    *   \[Resolved\] by SparklinEyez509
-    *   2 years ago
-    *   in Themes
-    *   0 votes
-    *   2 (last comment by SummitFireDeptsLittleGirl 1 month ago)
 
-1 2 3 ... 178 Next
+1 2 3 ... 179 Next
 
 Help Categories
 
