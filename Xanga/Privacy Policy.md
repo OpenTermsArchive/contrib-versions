@@ -8,15 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Old account
+    *   by Hiko\_SeijuroXIII
+    *   11 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Retrieving Old Account
     *   by Aikaliciouzz
-    *   7 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Looking for a very old blog of mine
     *   by Shylanes
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -46,7 +52,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   I need to download old Xanga
     *   by hey\_its\_muah
-    *   1 week ago
+    *   2 weeks ago
     *   in Miscellaenous
     *   0 votes
     *   0
@@ -92,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   Old Deleted Account
-    *   \[Resolved\] by PaRtYiNg\_It\_Up\_WiTh\_BOB
-    *   3 years ago
-    *   in Passwords &. Sign-In
-    *   0 votes
-    *   2 (last comment by txcuti133 1 month ago)
 
 1 2 3 ... 179 Next
 
