@@ -112,8 +112,8 @@ This is a summary of the Privacy Policy. To read the full terms, click here. Dis
 
 **We are committed to:**
 
-*   Describing how your information may be used or shared in this Privacy Policy. 
-*   Using reasonable measures to keep your information secure. 
+*   Describing how your information may be used or shared in this Privacy Policy.
+*   Using reasonable measures to keep your information secure.
 *   Never selling your information or sharing it with third parties for marketing purposes. 
 *   Only sharing your information in limited circumstances, such as to improve the Wikimedia Sites, to comply with the law, or to protect you and others.
 *   Retaining your data for the shortest possible time that is consistent with maintaining, understanding, and improving the Wikimedia Sites, and our obligations under law.
