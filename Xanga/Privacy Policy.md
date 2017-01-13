@@ -8,21 +8,27 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Retrieving Old Blog Posts
+    *   by horses5023
+    *   5 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by XxemoxX 4 hours ago)
 *   Old account
     *   by Hiko\_SeijuroXIII
-    *   11 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieving Old Account
     *   by Aikaliciouzz
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Looking for a very old blog of mine
     *   by Shylanes
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -92,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Premium
     *   0 votes
     *   2 (last comment by angelofmusic930 1 month ago)
-*   cant find achive from dashboard
-    *   by PUI\_cHICHi
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
 1 2 3 ... 179 Next
 
