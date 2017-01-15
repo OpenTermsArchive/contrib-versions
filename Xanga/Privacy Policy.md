@@ -10,25 +10,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Retrieving Old Blog Posts
     *   by horses5023
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by XxemoxX 1 day ago)
+    *   1 (last comment by XxemoxX 2 days ago)
 *   Old account
     *   by Hiko\_SeijuroXIII
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieving Old Account
     *   by Aikaliciouzz
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Looking for a very old blog of mine
     *   by Shylanes
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -52,7 +52,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   28 (last comment by berryballerina 1 week ago)
 *   Missing Blog
     *   by rosiebrowne
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -76,7 +76,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Emailed Eugenia about paying for subscription
     *   by Blue\_Moon1
-    *   1 month ago
+    *   2 months ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by Cluesy 1 month ago)
