@@ -153,7 +153,7 @@ Menu
     
     *   **Limitation of Liability:** This Section is subject to the Limitation of Liability Section in these Terms and Conditions.
     
-    **l.** **Limitations Period:** Any dispute must be brought by you or Windstream within two years after the date the basis for the claim or dispute first arises.
+    **l. Limitations Period:** Any dispute must be brought by you or Windstream within two years after the date the basis for the claim or dispute first arises.
     
     Notwithstanding any provision in these Terms and Conditions to the contrary, you and Windstream agree that if Windstream makes any future change to this arbitration provision (other than a change to the notice addresses), you may reject any such change by sending Windstream written notice within 30 days of the change to the Arbitration Notice Address provided above. By rejecting any such change, you are agreeing that you will arbitrate any dispute between us in accordance with the language of this provision.
     
