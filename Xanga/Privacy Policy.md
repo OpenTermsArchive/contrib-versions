@@ -8,21 +8,39 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Retrieving Old Blog Posts
-    *   by horses5023
-    *   4 days ago
+*   Please help retrieve my account
+    *   by blacks\_ying
+    *   9 hours ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by XxemoxX 4 days ago)
+    *   0
+*   Please help retrieve my account
+    *   by blacks\_ying
+    *   9 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Please help retrieve my account
+    *   by blacks\_ying
+    *   9 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Retrieving Old Blog Posts
+    *   by horses5023
+    *   5 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by XxemoxX 5 days ago)
 *   Old account
     *   by Hiko\_SeijuroXIII
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieving Old Account
     *   by Aikaliciouzz
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -34,13 +52,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Looking for my old posts
     *   by SinginGal75
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I can't find my data
     *   by miumiudydy
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -80,24 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   1 (last comment by Cluesy 1 month ago)
-*   How to obtain archives blog?!
-    *   by DamnPapi
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Nothing there..
-    *   \[Resolved\] by kan\_hung
-    *   3 years ago
-    *   in Data Migration
-    *   0 votes
-    *   6 (last comment by kan\_hung 1 month ago)
-*   So basically Xanga isn't free anymore?
-    *   \[Resolved\] by Endrizzle
-    *   3 years ago
-    *   in Premium
-    *   0 votes
-    *   2 (last comment by angelofmusic930 1 month ago)
 
 1 2 3 ... 179 Next
 
