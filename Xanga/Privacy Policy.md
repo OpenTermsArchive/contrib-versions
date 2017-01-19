@@ -8,33 +8,45 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Blog post recovery
+    *   by sarzilluh
+    *   8 hours ago
+    *   in Miscellaenous
+    *   0 votes
+    *   0
+*   Blog post recovery
+    *   by sarzilluh
+    *   8 hours ago
+    *   in Miscellaenous
+    *   0 votes
+    *   0
 *   Please help retrieve my account
     *   by blacks\_ying
-    *   9 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help retrieve my account
     *   by blacks\_ying
-    *   9 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help retrieve my account
     *   by blacks\_ying
-    *   9 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieving Old Blog Posts
     *   by horses5023
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by XxemoxX 5 days ago)
+    *   1 (last comment by XxemoxX 6 days ago)
 *   Old account
     *   by Hiko\_SeijuroXIII
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -76,7 +88,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   I need to download old Xanga
     *   by hey\_its\_muah
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Miscellaenous
     *   0 votes
     *   0
@@ -86,18 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   Upgrading to xanga 2.0
-    *   by Nisticism2115
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Emailed Eugenia about paying for subscription
-    *   by Blue\_Moon1
-    *   2 months ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by Cluesy 1 month ago)
 
 1 2 3 ... 179 Next
 
