@@ -34,20 +34,17 @@ Rent
         *   Pet friendly rentals
         *   All rental listings
         *   All rental buildings
-*   Build your Renter Profile
-    *   *   Boost your chances of landing the perfect rental by completing a profile.
-            
-        *   Start yours and stand out!
-*   Resources
-    *   *   Rent affordability calculator
-        *   Rent vs. buy calculator
-        *   Renters Guide
-        *   Rentals app
-        *   Rental advertising
 *   Rental Manager
     *   *   Sign in to see your listings
         *   List a rental (it's free)
         *   Resources
+*   Renter resources
+    *   *   Renter Profile
+        *   Rent affordability calculator
+        *   Rent vs. buy calculator
+        *   Renters Guide
+        *   Rentals app
+        *   Rental advertising
 
 Sell
 
