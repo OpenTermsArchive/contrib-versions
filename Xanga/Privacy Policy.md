@@ -10,40 +10,40 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Blog post recovery
     *   by sarzilluh
-    *   8 hours ago
+    *   1 day ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Blog post recovery
     *   by sarzilluh
-    *   8 hours ago
+    *   1 day ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Please help retrieve my account
     *   by blacks\_ying
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help retrieve my account
     *   by blacks\_ying
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help retrieve my account
     *   by blacks\_ying
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieving Old Blog Posts
     *   by horses5023
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by XxemoxX 6 days ago)
+    *   1 (last comment by XxemoxX 1 week ago)
 *   Old account
     *   by Hiko\_SeijuroXIII
     *   1 week ago
