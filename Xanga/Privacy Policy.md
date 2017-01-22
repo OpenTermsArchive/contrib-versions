@@ -10,31 +10,31 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Blog post recovery
     *   by sarzilluh
-    *   1 day ago
+    *   3 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Blog post recovery
     *   by sarzilluh
-    *   1 day ago
+    *   3 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Please help retrieve my account
     *   by blacks\_ying
-    *   2 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help retrieve my account
     *   by blacks\_ying
-    *   2 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help retrieve my account
     *   by blacks\_ying
-    *   2 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -82,7 +82,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   28 (last comment by berryballerina 2 weeks ago)
 *   Missing Blog
     *   by rosiebrowne
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
