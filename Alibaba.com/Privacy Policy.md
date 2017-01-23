@@ -54,7 +54,6 @@ Submit Buying Request Advanced Search
 *   Learning
 *   Rules Center
 
-*   Penalized List >.
 *   Penalty Record >.
 
 Classification of Rules >. Alibaba.com User Agreements
@@ -196,4 +195,4 @@ Product Listing Policy - Intellectual Property Policy and Infringement Claims - 
 
 © 1999-2016 Alibaba.com. All rights reserved.
 
-icburule011226212175
+icburule011230144131
