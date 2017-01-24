@@ -8,33 +8,45 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   trying to retrive old blog entries and audio files
+    *   by OrphiousJones
+    *   13 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   trying to retrive old blog entries and audio files
+    *   by OrphiousJones
+    *   13 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Blog post recovery
     *   by sarzilluh
-    *   4 days ago
+    *   5 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Blog post recovery
     *   by sarzilluh
-    *   4 days ago
+    *   5 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Please help retrieve my account
     *   by blacks\_ying
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help retrieve my account
     *   by blacks\_ying
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help retrieve my account
     *   by blacks\_ying
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -58,7 +70,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Looking for a very old blog of mine
     *   by Shylanes
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -79,21 +91,9 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   28 (last comment by berryballerina 2 weeks ago)
+    *   28 (last comment by berryballerina 3 weeks ago)
 *   Missing Blog
     *   by rosiebrowne
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   I need to download old Xanga
-    *   by hey\_its\_muah
-    *   3 weeks ago
-    *   in Miscellaenous
-    *   0 votes
-    *   0
-*   Old archive blog
-    *   by wwny
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
