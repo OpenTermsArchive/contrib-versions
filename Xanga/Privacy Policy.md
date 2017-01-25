@@ -8,45 +8,51 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   How do I download an archive of my old blog?
+    *   \[Resolved\] by thibault
+    *   2 years ago
+    *   in Data Migration
+    *   0 votes
+    *   29 (last comment by unspoken666 9 hours ago)
 *   trying to retrive old blog entries and audio files
     *   by OrphiousJones
-    *   13 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   trying to retrive old blog entries and audio files
     *   by OrphiousJones
-    *   13 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Blog post recovery
     *   by sarzilluh
-    *   5 days ago
+    *   6 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Blog post recovery
     *   by sarzilluh
-    *   5 days ago
+    *   6 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Please help retrieve my account
     *   by blacks\_ying
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help retrieve my account
     *   by blacks\_ying
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help retrieve my account
     *   by blacks\_ying
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -64,7 +70,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Retrieving Old Account
     *   by Aikaliciouzz
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -76,22 +82,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Looking for my old posts
     *   by SinginGal75
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I can't find my data
     *   by miumiudydy
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
-*   How do I download an archive of my old blog?
-    *   \[Resolved\] by thibault
-    *   2 years ago
-    *   in Data Migration
-    *   0 votes
-    *   28 (last comment by berryballerina 3 weeks ago)
 *   Missing Blog
     *   by rosiebrowne
     *   3 weeks ago
