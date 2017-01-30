@@ -2,7 +2,7 @@ Wix
 
 *   I Need a Site for...
 
-*   {"BUSINESS":"Business","MUSIC":"Music","PHOTOGRAPHY":"Photography","ONLINE\_STORE":"Online Store","DESIGNER":"Designer","RESTAURANTS":"Restaurants","ACCOMMODATION":"Accommodation","EVENTS":"Events","PORTFOLIO\_AND\_CV":"Portfolio &. CV","BEAUTY\_AND\_WELLNESS":"Beauty &. Wellness","BLOG":"Blog","OTHER":"Other"}
+*   {"BUSINESS":"Business","MUSIC":"Music","PHOTOGRAPHY":"Photography","ONLINE\_STORE":"Online Store","DESIGNER":"Designer","RESTAURANTS":"Restaurants &. Food","ACCOMMODATION":"Accommodation","EVENTS":"Events","PORTFOLIO\_AND\_CV":"Portfolio &. CV","BEAUTY\_AND\_WELLNESS":"Beauty &. Wellness","BLOG":"Blog","OTHER":"Other"}
 *   My Sites
 *   Templates
 *   Explore
@@ -33,6 +33,7 @@ Sign In Hi, {username}
 *   Mailboxes
 *   Online Store
 *   Contact Us
+*   Jobs
 *   Wix Blog
 *   Wix Stories
 
