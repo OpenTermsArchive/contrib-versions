@@ -28,13 +28,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Blog post recovery
     *   by sarzilluh
-    *   1 week ago
+    *   2 weeks ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Blog post recovery
     *   by sarzilluh
-    *   1 week ago
+    *   2 weeks ago
     *   in Miscellaenous
     *   0 votes
     *   0
@@ -64,7 +64,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by XxemoxX 2 weeks ago)
 *   Old account
     *   by Hiko\_SeijuroXIII
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
