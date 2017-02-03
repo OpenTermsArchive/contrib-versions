@@ -58,10 +58,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Retrieving Old Blog Posts
     *   by horses5023
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by XxemoxX 2 weeks ago)
+    *   1 (last comment by XxemoxX 3 weeks ago)
 *   Old account
     *   by Hiko\_SeijuroXIII
     *   3 weeks ago
@@ -82,13 +82,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Looking for my old posts
     *   by SinginGal75
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I can't find my data
     *   by miumiudydy
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
