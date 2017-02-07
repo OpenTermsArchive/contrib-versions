@@ -86,7 +86,7 @@ To meet the cancellation deadline, you must send your communication of cancellat
 
 Customers in the EU and Norway also have the right to inform us using the model cancellation form below:
 
-To:  Apple Distribution International, Luxembourg Branch, 31-33, rue Sainte Zithe, L-2763 Luxembourg:
+To:  Apple Distribution International, Hollyhill Industrial Estate, Hollyhill, Cork, Republic of Ireland:
 
 I hereby give notice that I withdraw from my contract for the following: 
 
@@ -276,4 +276,4 @@ This Agreement constitutes the entire agreement between you and Apple, governs y
 
 Your use of the Service includes the ability to enter into agreements and/or to make transactions electronically. YOU ACKNOWLEDGE THAT YOUR ELECTRONIC SUBMISSIONS CONSTITUTE YOUR AGREEMENT AND INTENT TO BE BOUND BY AND TO PAY FOR SUCH AGREEMENTS AND TRANSACTIONS. YOUR AGREEMENT AND INTENT TO BE BOUND BY ELECTRONIC SUBMISSIONS APPLIES TO ALL RECORDS RELATING TO ALL TRANSACTIONS YOU ENTER INTO ON THIS SERVICE, INCLUDING NOTICES OF CANCELLATION, POLICIES, CONTRACTS, AND APPLICATIONS. In order to access and retain your electronic records, you may be required to have certain hardware and software, which are your sole responsibility.
 
-Last revised: September 25, 2016
+Last revised: February 5, 2017
