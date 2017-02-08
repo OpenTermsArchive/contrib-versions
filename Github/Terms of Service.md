@@ -5,6 +5,8 @@ GitHub Terms of Service
 *   linux
 *   all
 
+**Please Note**: We will be updating our Terms of Service soon, and we want your feedback. Look over our proposed new Terms of Service, compare them to the current Terms (below), and tell us what you think.
+
 By using the GitHub.com web site ("Service"), or any services of GitHub, Inc ("GitHub"), you are agreeing to be bound by the following terms and conditions ("Terms of Service"). IF YOU ARE ENTERING INTO THIS AGREEMENT ON BEHALF OF A COMPANY OR OTHER LEGAL ENTITY, YOU REPRESENT THAT YOU HAVE THE AUTHORITY TO BIND SUCH ENTITY, ITS AFFILIATES AND ALL USERS WHO ACCESS OUR SERVICES THROUGH YOUR ACCOUNT TO THESE TERMS AND CONDITIONS, IN WHICH CASE THE TERMS "YOU" OR "YOUR" SHALL REFER TO SUCH ENTITY, ITS AFFILIATES AND USERS ASSOCIATED WITH IT. IF YOU DO NOT HAVE SUCH AUTHORITY, OR IF YOU DO NOT AGREE WITH THESE TERMS AND CONDITIONS, YOU MUST NOT ACCEPT THIS AGREEMENT AND MAY NOT USE THE SERVICES.
 
 Please note that if you are accessing any GitHub service in your capacity as a government entity, there are special terms that may apply to you. Please see Section G.17, below, for more details.
