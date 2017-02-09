@@ -13,7 +13,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   29 (last comment by unspoken666 2 weeks ago)
+    *   30 (last comment by madoodah06 23 hours ago)
 *   trying to retrive old blog entries and audio files
     *   by OrphiousJones
     *   2 weeks ago
@@ -28,13 +28,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Blog post recovery
     *   by sarzilluh
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Blog post recovery
     *   by sarzilluh
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Miscellaenous
     *   0 votes
     *   0
@@ -64,7 +64,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by XxemoxX 3 weeks ago)
 *   Old account
     *   by Hiko\_SeijuroXIII
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -76,7 +76,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Looking for a very old blog of mine
     *   by Shylanes
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
