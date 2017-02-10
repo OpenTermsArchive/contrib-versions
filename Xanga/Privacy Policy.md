@@ -8,12 +8,24 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Question about data migration and the Relaunch campaign
+    *   by you\_make\_me\_angry
+    *   3 years ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by ssguitarplayer08 13 hours ago)
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   30 (last comment by madoodah06 23 hours ago)
+    *   31 (last comment by ssguitarplayer08 13 hours ago)
+*   how can i access my old blogs
+    *   \[Resolved\] by e\_e
+    *   3 years ago
+    *   in Data Migration
+    *   0 votes
+    *   3 (last comment by ssguitarplayer08 13 hours ago)
 *   trying to retrive old blog entries and audio files
     *   by OrphiousJones
     *   2 weeks ago
@@ -58,10 +70,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Retrieving Old Blog Posts
     *   by horses5023
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by XxemoxX 3 weeks ago)
+    *   1 (last comment by XxemoxX 4 weeks ago)
 *   Old account
     *   by Hiko\_SeijuroXIII
     *   4 weeks ago
@@ -70,7 +82,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Retrieving Old Account
     *   by Aikaliciouzz
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -82,18 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Looking for my old posts
     *   by SinginGal75
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   I can't find my data
-    *   by miumiudydy
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Missing Blog
-    *   by rosiebrowne
     *   1 month ago
     *   in Data Migration
     *   0 votes
