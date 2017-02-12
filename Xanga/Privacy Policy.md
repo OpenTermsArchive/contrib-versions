@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   How do I get my old blogs back?
     *   by nocturnal\_spirit88
-    *   13 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,19 +19,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by ssguitarplayer08 1 day ago)
+    *   2 (last comment by ssguitarplayer08 2 days ago)
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   31 (last comment by ssguitarplayer08 1 day ago)
+    *   31 (last comment by ssguitarplayer08 2 days ago)
 *   how can i access my old blogs
     *   \[Resolved\] by e\_e
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by ssguitarplayer08 1 day ago)
+    *   3 (last comment by ssguitarplayer08 2 days ago)
 *   trying to retrive old blog entries and audio files
     *   by OrphiousJones
     *   2 weeks ago
@@ -76,10 +76,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Retrieving Old Blog Posts
     *   by horses5023
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by XxemoxX 4 weeks ago)
+    *   1 (last comment by XxemoxX 1 month ago)
 *   Old account
     *   by Hiko\_SeijuroXIII
     *   1 month ago
