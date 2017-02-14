@@ -304,8 +304,6 @@ I Want To
 *   Find My Account Number
 *   Monitor Home Security &. Automation
 *   Purchase Accessories
-*   View Movies You Own on XFINITY TV
-*   Manage My DVR
 *   Upgrade My Service
 *   Find My Comcast ID
 *   Get Help &. Support
