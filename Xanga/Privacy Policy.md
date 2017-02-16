@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Cant find old blogs
     *   by tung\_salina
-    *   3 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,28 +19,28 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 months ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by saltypepper1357 1 day ago)
+    *   2 (last comment by saltypepper1357 2 days ago)
 *   Please help retrieve my account
     *   by blacks\_ying
     *   4 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by saltypepper1357 1 day ago)
+    *   1 (last comment by saltypepper1357 2 days ago)
 *   Retrieving Old Account
     *   by Aikaliciouzz
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by saltypepper1357 1 day ago)
+    *   1 (last comment by saltypepper1357 2 days ago)
 *   Unable to pull of archive of old blog
     *   by Tigger41891
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How do I get my old blogs back?
     *   by nocturnal\_spirit88
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -49,19 +49,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by ssguitarplayer08 5 days ago)
+    *   2 (last comment by ssguitarplayer08 6 days ago)
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   31 (last comment by ssguitarplayer08 5 days ago)
+    *   31 (last comment by ssguitarplayer08 6 days ago)
 *   how can i access my old blogs
     *   \[Resolved\] by e\_e
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by ssguitarplayer08 5 days ago)
+    *   3 (last comment by ssguitarplayer08 6 days ago)
 *   trying to retrive old blog entries and audio files
     *   by OrphiousJones
     *   3 weeks ago
@@ -76,13 +76,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Blog post recovery
     *   by sarzilluh
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Blog post recovery
     *   by sarzilluh
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Miscellaenous
     *   0 votes
     *   0
