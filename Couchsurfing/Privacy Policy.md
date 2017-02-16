@@ -23,6 +23,7 @@ We collect information you provide to us, such as when you create an account, up
 *   Other background, contact and demographic information, such as your occupation, personal URL, IM username, emergency contact, home descriptions, travel history and plans and other interests and self-descriptions you choose to provide;
 *   Information stored on your mobile device, such as your photos, calendar information and contacts, if you have given us permission to access this information. and
 *   Information about you from other Couchsurfing users, such as trust ratings, friend connections, public references, and other interconnections and interactions between you and other Couchsurfing users.
+*   Information provided to us by you as a part of the identity verification process. This includes the identity document and images used in the process, as well as the information included on the identity document provided.
 
 Information We Collect Automatically
 
@@ -62,7 +63,7 @@ Sharing of Information
 We will not share information about you with outside parties except as described below or elsewhere in this Privacy Policy:
 
 *   With your consent, including if we notify you through our Services that the information you provide will be shared in a particular manner and you subsequently agree to provide such information.
-*   With third party vendors, consultants and other service providers who need access to such information to carry out their work for us;
+*   With third party vendors, consultants and other service providers who need access to such information to carry out their work for us. This includes Onfido, the provider of our Identity Verification product.
 *   With others who access or use our Services in accordance with the privacy settings you establish (please see “Your Information Choices” below for more information about how to manage your sharing preferences);
 *   With search engines in order to index the content you provide as part of a discussion forum or public profile;
 *   With partners who run contests, special offers or other events or activities in connection with our Services;
