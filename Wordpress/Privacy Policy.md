@@ -1,13 +1,13 @@
 Privacy Policy
 
-Your privacy is critically important to us. At Automattic we have a few fundamental principles:
+Your privacy is critically important to us. At Automattic, we have a few fundamental principles:
 
 *   We don’t ask you for personal information unless we truly need it. (We can’t stand services that ask you for things like your gender or income level for no apparent reason.)
 *   We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
-*   We don’t store personal information on our servers unless required for the on-going operation of one of our services.
+*   We don’t store personal information on our servers unless required for the ongoing operation of one of our services.
 *   In our blogging products, we aim to make it as simple as possible for you to control what’s visible to the public, seen by search engines, kept private, and permanently deleted.
 
-Below is our privacy policy which incorporates these goals: (Note, we’ve decided to make this privacy policy available under a Creative Commons Sharealike license, which means you’re more than welcome to steal it and repurpose it for your own use, just make sure to replace references to us with ones to you, and if you want we’d appreciate a link to Automattic.com somewhere on your site. We spent a lot of money and time on the below, and other people shouldn’t need to do the same.)
+Below is our privacy policy, which incorporates these goals. (Note: we’ve decided to make this privacy policy available under a Creative Commons ShareAlike license, which means you’re more than welcome to steal it and repurpose it for your own use. Just make sure to replace references to us with ones to you, and we’d appreciate a link to Automattic.com somewhere on your site. We spent a lot of money and time on the below, and other people shouldn’t need to do the same.)
 
 If you have questions about deleting or correcting your personal data please contact our support team.
 
