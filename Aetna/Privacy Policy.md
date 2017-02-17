@@ -259,7 +259,11 @@ Investors
 *   Contact
 *   News &. Analysis
 
+*   Español
+    
+     
 *   Contact
+*   Español
 
 *   Search
 
@@ -387,8 +391,6 @@ Aetna may change this Privacy Statement from time to time. when updates are made
 Back to top
 
 Privacy statement update: 7/28/16
-
-*   español
 
 *   Glossary
 *   Health Care Reform
