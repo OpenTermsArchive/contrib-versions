@@ -1,6 +1,6 @@
 Couchsurfing.com Privacy Policy
 
-Effective Date: August 30, 2016
+Effective Date: February 16, 2017
 
 Please read our Privacy Policy carefully to get a clear understanding of how we collect, use, disclose, protect and otherwise handle information about you. By using Couchsurfing services, you consent to the collection and use of your data as described in this Privacy Policy.
 
