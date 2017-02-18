@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Can't find blog
     *   by ReelBigBandit
-    *   9 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,16 +19,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 months ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by disunderstanded 11 hours ago)
+    *   3 (last comment by disunderstanded 1 day ago)
 *   Is Xanga still active?
     *   by disunderstanded
-    *   11 hours ago
+    *   1 day ago
     *   in Premium
     *   0 votes
     *   0
 *   Cant find old blogs
     *   by tung\_salina
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -37,22 +37,22 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by saltypepper1357 3 days ago)
+    *   1 (last comment by saltypepper1357 4 days ago)
 *   Retrieving Old Account
     *   by Aikaliciouzz
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by saltypepper1357 3 days ago)
+    *   1 (last comment by saltypepper1357 4 days ago)
 *   Unable to pull of archive of old blog
     *   by Tigger41891
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How do I get my old blogs back?
     *   by nocturnal\_spirit88
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -88,13 +88,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Blog post recovery
     *   by sarzilluh
-    *   4 weeks ago
+    *   1 month ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Blog post recovery
     *   by sarzilluh
-    *   4 weeks ago
+    *   1 month ago
     *   in Miscellaenous
     *   0 votes
     *   0
