@@ -156,7 +156,7 @@ These TOU grant you a limited, revocable, nonexclusive license to access our sit
     
 *   17\. Notice for California Residents
     
-    Under California Civil Code Section 1789.3, California users are entitled to the following consumer rights notice: If you have a question or complaint regarding the site, please send an email to \[email protected\] . You may also contact us by writing to Legal Deparment, Internet Brands, Inc., 909 N. Sepulveda Blvd, 11th Floor, El Segundo, California 90245. California residents may reach the Complaint Assistance Unit of the Division of Consumer Services by mail at 1625 North Market Blvd., Suite N 112, Sacramento, California 95834, or by telephone at (916) 445-1254 or (800) 952-5210. Please be sure to identify the specific website, software, or service about which you have a question or complaint and how we can contact you.
+    Under California Civil Code Section 1789.3, California users are entitled to the following consumer rights notice: If you have a question or complaint regarding the site, please send an email to legal@internetbrands.com . You may also contact us by writing to Legal Deparment, Internet Brands, Inc., 909 N. Sepulveda Blvd, 11th Floor, El Segundo, California 90245. California residents may reach the Complaint Assistance Unit of the Division of Consumer Services by mail at 1625 North Market Blvd., Suite N 112, Sacramento, California 95834, or by telephone at (916) 445-1254 or (800) 952-5210. Please be sure to identify the specific website, software, or service about which you have a question or complaint and how we can contact you.
     
 *   18\. Dispute Resolution. Arbitration
     
