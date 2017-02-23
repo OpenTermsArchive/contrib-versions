@@ -8,9 +8,27 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Where are my old posts???
+    *   by C\_Bpee
+    *   6 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   how can i access my old blogs
+    *   \[Resolved\] by e\_e
+    *   3 years ago
+    *   in Data Migration
+    *   0 votes
+    *   4 (last comment by C\_Bpee 6 hours ago)
+*   Can't find my blog
+    *   by bokuclosetokeita
+    *   9 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Can't find blog
     *   by ReelBigBandit
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,10 +37,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 months ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by disunderstanded 5 days ago)
+    *   3 (last comment by disunderstanded 6 days ago)
 *   Is Xanga still active?
     *   by disunderstanded
-    *   5 days ago
+    *   6 days ago
     *   in Premium
     *   0 votes
     *   0
@@ -68,34 +86,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   31 (last comment by ssguitarplayer08 1 week ago)
-*   how can i access my old blogs
-    *   \[Resolved\] by e\_e
-    *   3 years ago
-    *   in Data Migration
-    *   0 votes
-    *   3 (last comment by ssguitarplayer08 1 week ago)
 *   trying to retrive old blog entries and audio files
     *   by OrphiousJones
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
 *   trying to retrive old blog entries and audio files
     *   by OrphiousJones
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
-    *   0 votes
-    *   0
-*   Blog post recovery
-    *   by sarzilluh
-    *   1 month ago
-    *   in Miscellaenous
-    *   0 votes
-    *   0
-*   Blog post recovery
-    *   by sarzilluh
-    *   1 month ago
-    *   in Miscellaenous
     *   0 votes
     *   0
 
