@@ -311,6 +311,7 @@ I Want To
 *   Submit Feedback
 *   Find an XFINITY Store
 *   Move My Services
+*   Manage My WiFi On Demand Account
 
 Shop
 
