@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Where are my old posts???
     *   by C\_Bpee
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,10 +19,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by C\_Bpee 2 days ago)
+    *   4 (last comment by C\_Bpee 3 days ago)
 *   Can't find my blog
     *   by bokuclosetokeita
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
