@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Where are my old posts???
     *   by C\_Bpee
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,10 +19,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by C\_Bpee 4 days ago)
+    *   4 (last comment by C\_Bpee 5 days ago)
 *   Can't find my blog
     *   by bokuclosetokeita
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -55,13 +55,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by saltypepper1357 1 week ago)
+    *   1 (last comment by saltypepper1357 2 weeks ago)
 *   Retrieving Old Account
     *   by Aikaliciouzz
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by saltypepper1357 1 week ago)
+    *   1 (last comment by saltypepper1357 2 weeks ago)
 *   Unable to pull of archive of old blog
     *   by Tigger41891
     *   2 weeks ago
