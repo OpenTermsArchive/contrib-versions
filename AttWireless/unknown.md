@@ -36,6 +36,8 @@ Print
 
 This Agreement, including the AT&T Privacy Policy Located at att.com/privacy, Customer Service Summary, and terms of service for wireless products, features, applications, and services ("Services") not otherwise described herein that are posted on applicable AT&T websites or devices, and any documents expressly referred to herein or therein, make up the complete agreement between you and AT&T and supersede any and all prior agreements and understandings relating to the subject matter of this Agreement.
 
+AT&T's wireless network may provide broadband access to the Internet. For more information about how AT&T helps transmit information to points on the Internet and how we manage our network, please see the Broadband Information page which can be found at: www.att.com/broadbandinfo.
+
 1.0 TERM COMMITMENT, CHARGES, BILLING AND PAYMENT 1.1 What Is The Term Of My Service? How Can I Fulfill My Service Commitment? What are My Rights to Cancel Service and Terminate My Agreement?
 
 AT&T Wireless Service(s) may be used with: (a) a mobile device that contains a SIM that is assigned to your account ("Device") and/or, (b) a device that is designed and purchased for use exclusively on AT&T's network ("Equipment").
@@ -43,6 +45,10 @@ AT&T Wireless Service(s) may be used with: (a) a mobile device that contains a S
 Term of Service.
 
 Your Agreement begins on the day we activate your Service(s) and continues through the Term of Service, typically a 12 month or 24 month period ("Service Commitment"), specified on your Customer Service Summary. At the end of your service commitment, this Agreement will automatically continue on a month-to-month basis. If your Agreement has no Service Commitment, it is a month-to-month Agreement.
+
+Device Activation.
+
+If You purchased a device that was shipped to You, You agree to activate the device within seven (7) days of the shipment date. If Your device is not activated by You, we may activate the device for You within a month of shipping and Your monthly recurring charges, and any applicable Service Commitment, will begin.
 
 Fulfillment of Service Commitment.
 
@@ -135,7 +141,21 @@ You may receive Benefits because of your agreement to have the charges for your 
 
 1.10 Who Can Access My Account and for What Purpose?
 
-You authorize us to provide information about and to make changes to your account, including new or extended Service Commitments and the purchase of Products and/or Services, upon the direction of any person able to provide information we deem sufficient to identify you. Individuals that can provide information we deem sufficient to identify you and that also have access to a device that is billed to your account may register for secondary access to your account in AT&T's online account management system ("myAT&T"). Such access will include, but is not limited to, the ability to view your account information, make changes to the plans under your account, perform upgrades, view payment information, etc. You will receive a notification that secondary access through myAT&T has been granted to your account. You may terminate such secondary access by contacting customer service at 800.331.0500. In addition, you may designate individuals who are authorized to make certain changes to your account ("Authorized Users"). You are responsible for all changes made by such Authorized Users or action taken as a result of secondary access to your myAT&T account, including but not limited to new or extended Service Commitments and the purchase of Products or Services. You consent to the use by us or our authorized agents of regular mail, predictive or autodialing equipment, email, text messaging, facsimile or other reasonable means to contact you to advise you about our Services or other matters we believe may be of interest to you. In any event, we reserve the right to contact you by any means regarding customer service-related notifications, or other such information.
+You may add an Authorized/Approved User to Your account. Doing so authorizes Us to provide the Authorized/Approved User with information about, and access to, Your account. Authorized/Approved Users include:
+
+(a) A person authorized by You to act on Your behalf with respect to Your account when the person is in a retail store;
+
+(b) A person who calls into customer service and provides sufficient account information. and
+
+(c) A person who registers for secondary access to Your account in AT&T's online account management system, provides sufficient account information, and has access to a device that is billed to Your account.
+
+Authorized/Approved Users can view Your account and payment information, make changes to the plans under Your account, purchase devices including via financing agreements, add new lines of service, and perform other account functions. You are responsible for all changes made or actions taken by Authorized/Approved Users.
+
+By taking these actions as Your agent, Authorized/Approved Users authorize Us to perform a credit check on You, share Your credit information between Us and our Affiliates, and obtain a credit report on You from a consumer reporting agency.
+
+You may remove an Authorized/Approved User at any time by contacting Us. The removal will take effect after we have a reasonable opportunity to process the request. If You remove an Authorized/Approved User, we recommend that You reset your account passcode and online credentials.
+
+You consent to the use by us or our authorized agents of regular mail, predictive or autodialing equipment, email, text messaging, facsimile or other reasonable means to contact you to advise you about our Services or other matters we believe may be of interest to you. In any event, we reserve the right to contact you by any means regarding customer service-related notifications, or other such information.
 
 2.0 HOW DO I RESOLVE DISPUTES WITH AT&T? 2.1 Dispute Resolution By Binding Arbitration
 
@@ -177,7 +197,7 @@ For Puerto Rico customers, references to "small claims court" in sections 2.1 an
 
 3.0 TERMS RELATING TO YOUR DEVICE AND CONTENT 3.1 Your Device
 
-Your Device must be compatible with, and not interfere with, our Services and must comply with all applicable laws, rules, and regulations. We may periodically program your Device remotely with system settings for roaming service, to direct your Device to use network services most appropriate for your typical usage, and other features that cannot be changed manually.
+Your Device must be compatible with, and not interfere with, our Services and must comply with all applicable laws, rules, and regulations. We may periodically program your Device remotely with system settings for roaming service, to direct your Device to use network services most appropriate for your typical usage, and other features that cannot be changed manually. Some device manufacturers will no longer pre-load certain applications into the device memory. As a result, AT&T may remotely pre-load certain applications to your device at activation and periodically update those applications. You can delete any application that AT&T remotely pre-loads on your device.
 
 You agree that you won't make any modifications to your Equipment or its programming to enable the Equipment to operate on any other system. AT&T may, at its sole and absolute discretion, modify the programming to enable the operation of the Equipment on other systems.
 
@@ -288,7 +308,7 @@ If your use of minutes (including unlimited Services) on other carrier networks 
 
 4.5.2 Data
 
-If your use of the Data Services on other carriers' wireless networks ("offnet data usage") during any month exceeds your offnet data usage allowance, AT&T may at its option terminate your access to Data Services, deny your continued use of other carriers' coverage, or change your plan to one imposing usage charges for offnet data usage. Your offnet data usage allowance is equal to the lesser of 24 megabytes or 20% of the kilobytes included with your plan. You may be required to use a Device programmed with AT&T's preferred roaming database.
+If your use of the Data Services on other carriers' wireless networks ("offnet data usage") during any month exceeds your offnet data usage allowance, AT&T may at its option terminate your access to Data Services, deny your continued use of other carriers' coverage, or change your plan to one imposing usage charges for offnet data usage. Your offnet data usage allowance is equal to the lesser of 100 megabytes or 20% of the kilobytes included with your plan. You may be required to use a Device programmed with AT&T's preferred roaming database.
 
 4.5.3 Messaging
 
@@ -577,13 +597,13 @@ If your Home Base is used to roam on other carrier networks, AT&T's off-net usag
 
 Terms and conditions for certain features and applications are provided on the Device at the time of feature/application activation or first use. Certain features/applications will not be available in all areas at all times.
 
-9.0 WHAT IS AT&T ROADSIDE ASSISTANCE &. OPTIONAL AT&T MOBILE INSURANCE? 9.1 AT&T Roadside Assistance
+9.0 WHAT IS AT&T ROADSIDE ASSISTANCE &. OPTIONAL AT&T MOBILE INSURANCE, AT&T Mobile Protection Pack &. AT&T Multi-Device Protection Pack? 9.1 AT&T Roadside Assistance
 
-AT&T Roadside Assistance ("RA") is an optional feature that costs $2.99/month per enrolled phone and is automatically billed to the wireless account. Customers may cancel at any time. New RA customers get the first 30 days for free. To cancel RA without incurring charges, contact AT&T by dialing 611 from your wireless phone within the first 30 days. RA covers up to four events per year with a maximum benefit of $50/event. Towing services are for mechanical problems only. RA service will be provided by Asurion Roadside Assistance Services, LLC, a licensed motor club, until October 12, 2012. After October 12, 2012, RA service will be provided by Allstate Insurance Company. Refer to the RA Welcome Kit for complete terms and conditions wireless.att.com/learn/en\_US/pdf/roadside\_assistance.pdf.
+AT&T Roadside Assistance ("RA") is an optional feature that may be purchased separately and automatically billed to the wireless account. RA service is provided by American Traveler Motor Club, Inc., a licensed motor club. For complete RA Terms and Conditions, refer to your RA Welcome Kit or go to att.com/roadside.
 
-9.2 Optional AT&T Mobile Insurance
+9.2 Optional AT&T Mobile Insurance, AT&T Mobile Protection Pack &. AT&T Multi-Device Protection Pack
 
-Mobile Insurance covers lost, stolen, damaged and out of warranty malfunctions. Enrollment must occur within 30 days of an activation or upgrade. Key terms include: 1. A monthly premium of $6.99/month per mobile number enrolled. 2. Each approved replacement is subject to a $50 (Tier 1), $125 (Tier 2), or a $199 (Tier 3) non-refundable deductible, depending on device. 3. Claims are limited to 2 within any consecutive 12 months with a maximum device value of $1500 per occurrence. 4. Replacement devices may be new or remanufactured and/or a different model. 5. You can cancel your coverage at any time and receive a pro-rated refund of your unearned premium. To view enrollment eligibility, complete terms and the applicable deductibles, visit www.att.com/mobileinsurance. AT&T Mobile Insurance is underwritten by Continental Casualty Company, a CNA company (CNA) and administered by Asurion Protection Services, LLC (In California, Asurion Protection Services Insurance Agency, LLC, CA Lic. #OD63161. In Puerto Rico, Asurion Protection Services of Puerto Rico, Inc.), CNA's licensed agent for the customers of AT&T. Eligibility varies by device. Terms and conditions are subject to change.
+If eligible, you have 30 days from activation or upgrade to enroll in optional AT&T Mobile Insurance, AT&T Mobile Protection Pack or AT&T Multi-Device Protection Pack. For details visit www.att.com/deviceprotection. AT&T Mobile Insurance and AT&T Multi Device Insurance are underwritten by Continental Casualty Company, a CNA company (CNA) and administered by Asurion Protection Services, LLC (in California, Asurion Protection Services Insurance Agency, LLC, CA Lic. #OD63161, in Puerto Rico, Asurion Protection Services of Puerto Rico, Inc.), CNA's licensed agent for the customers of AT&T.
 
 10.0 WHAT OTHER TERMS AND CONDITIONS APPLY TO MY WIRELESS SERVICE? 10.1 Intellectual Property
 
@@ -641,6 +661,6 @@ If you are a Puerto Rico customer and we cannot resolve your issue, you may noti
 
 **Return to Table of Contents**
 
-V05202016R
+v022017R
 
 label.legal.backtopolicycenter
