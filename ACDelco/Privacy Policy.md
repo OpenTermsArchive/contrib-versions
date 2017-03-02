@@ -59,7 +59,7 @@ x Cancel
     *   Earnings Releases
     *   Announcements &. Events
     *   Sustainability Report
-    *   Stockholder Information
+    *   Shareholder Information
     *   SEC Filings
     *   Sales
     *   Stock Information
@@ -291,7 +291,7 @@ A: No, many GM vehicles contain sensing and transmitting devices using the same 
     *   Earnings Releases
     *   Announcements &. Events
     *   Sustainability Report
-    *   Stockholder Information
+    *   Shareholder Information
     *   SEC Filings
     *   Sales
     *   Stock Information
