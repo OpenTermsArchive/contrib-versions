@@ -4,7 +4,7 @@ When you use Google services, you trust us with your information. This Privacy P
 
 Privacy Policy Hide examples Show examples Hide examples
 
-Last modified: August 29, 2016 (view archived versions) (The hyperlinked examples are available at the end of this document.)
+Last modified: March 1, 2017 (view archived versions) (The hyperlinked examples are available at the end of this document.)
 
 Download PDF version
 
@@ -116,7 +116,7 @@ We do not share personal information with companies, organizations and individua
     
 *   **With domain administrators**
     
-    If your Google Account is managed for you by a domain administrator (for example, for Google Apps users) then your domain administrator and resellers who provide user support to your organization will have access to your Google Account information (including your email and other data). Your domain administrator may be able to:
+    If your Google Account is managed for you by a domain administrator (for example, for G Suite users) then your domain administrator and resellers who provide user support to your organization will have access to your Google Account information (including your email and other data). Your domain administrator may be able to:
     
     *   view statistics regarding your account, like statistics regarding applications you install.
     *   change your account password.
@@ -176,7 +176,7 @@ The following notices explain specific privacy practices with respect to certain
 *   Payments
 *   Fiber
 *   Project Fi
-*   Google Apps for Education
+*   G Suite for Education
 
 For more information about some of our most popular services, you can visit the Google Product Privacy Guide.
 
