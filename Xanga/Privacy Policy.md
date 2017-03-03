@@ -28,7 +28,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Can't find blog
     *   by ReelBigBandit
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -37,10 +37,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 months ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by disunderstanded 1 week ago)
+    *   3 (last comment by disunderstanded 2 weeks ago)
 *   Is Xanga still active?
     *   by disunderstanded
-    *   1 week ago
+    *   2 weeks ago
     *   in Premium
     *   0 votes
     *   0
@@ -79,13 +79,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by ssguitarplayer08 2 weeks ago)
+    *   2 (last comment by ssguitarplayer08 3 weeks ago)
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   31 (last comment by ssguitarplayer08 2 weeks ago)
+    *   31 (last comment by ssguitarplayer08 3 weeks ago)
 *   trying to retrive old blog entries and audio files
     *   by OrphiousJones
     *   1 month ago
