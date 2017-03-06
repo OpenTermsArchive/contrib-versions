@@ -8,6 +8,12 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   lost post
+    *   by ahtototo
+    *   16 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Where are my old posts???
     *   by C\_Bpee
     *   1 week ago
@@ -64,7 +70,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by saltypepper1357 2 weeks ago)
 *   Unable to pull of archive of old blog
     *   by Tigger41891
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -86,12 +92,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   31 (last comment by ssguitarplayer08 3 weeks ago)
-*   trying to retrive old blog entries and audio files
-    *   by OrphiousJones
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 *   trying to retrive old blog entries and audio files
     *   by OrphiousJones
     *   1 month ago
