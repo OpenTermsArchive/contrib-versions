@@ -8,15 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Cant access my old blog
+    *   by waiting\_u0909
+    *   15 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   lost post
     *   by ahtototo
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where are my old posts???
     *   by C\_Bpee
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -25,10 +31,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by C\_Bpee 1 week ago)
+    *   4 (last comment by C\_Bpee 2 weeks ago)
 *   Can't find my blog
     *   by bokuclosetokeita
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -92,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   31 (last comment by ssguitarplayer08 3 weeks ago)
-*   trying to retrive old blog entries and audio files
-    *   by OrphiousJones
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
 1 2 3 ... 180 Next
 
