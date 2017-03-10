@@ -51,7 +51,6 @@ Sell
 *   Selling tools
     *   *   See your home's Zestimate
         *   Neighborhood Home Values
-        *   Add a Home Inspection
         *   Sellers Guide
 *   Post a home for sale
     *   *   For sale by agent
