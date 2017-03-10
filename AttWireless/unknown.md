@@ -16,11 +16,11 @@ WIRELESS CUSTOMER AGREEMENT ("Agreement") Documents
 *   Online Pricing
 *   Returns Policy and Early Termination Fee
 *   Shipping Information
-*   Online Warranty Exchange Conditions and Disclosures
+*   Warranty Exchange Program Terms and Conditions
 *   Paperless Billing Disclosures
 *   Other Charges Applicable to Wireless Services
 *   ►AT&T Next
-*   Privacy Notice for AT&T Next Installment Agreements
+*   Privacy Notice For AT&T Next Installment Agreements
 *   Business
 *   Digital Life®
 *   DIRECTV
