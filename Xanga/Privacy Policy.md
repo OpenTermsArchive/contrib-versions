@@ -10,13 +10,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Cant access my old blog
     *   by waiting\_u0909
-    *   15 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   lost post
     *   by ahtototo
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -40,7 +40,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Can't find blog
     *   by ReelBigBandit
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -49,10 +49,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 months ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by disunderstanded 2 weeks ago)
+    *   3 (last comment by disunderstanded 3 weeks ago)
 *   Is Xanga still active?
     *   by disunderstanded
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Premium
     *   0 votes
     *   0
@@ -91,13 +91,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by ssguitarplayer08 3 weeks ago)
+    *   2 (last comment by ssguitarplayer08 4 weeks ago)
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   31 (last comment by ssguitarplayer08 3 weeks ago)
+    *   31 (last comment by ssguitarplayer08 4 weeks ago)
 
 1 2 3 ... 180 Next
 
