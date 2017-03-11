@@ -1,11 +1,3 @@
-Earn $75 at Amazon.com
-
-Take a quick survey to qualify.
-
-Help us better understand how we can improve your experience.
-
-Get Started X
-
 *   Residential
 *   Small Business
 *   Enterprise
