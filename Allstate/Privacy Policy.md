@@ -3,7 +3,7 @@ Skip Navigation Explore Allstate
 *   Find An Agent
 *   Contact Us
 *   Español
-*   Denver, CO80202
+*   DENVER, CO80201
 *   Search
 
 *   Allstate
@@ -73,7 +73,8 @@ Toggle navigation Log in Search Close Navigation
 
 *   Get a Quote
     
-    Your location is set for Denver, CO 80202
+    Your location is set for  
+    DENVER, CO 80201
     
     Edit location
     
@@ -128,11 +129,11 @@ Toggle navigation Log in Search Close Navigation
     *   Retirement &. Investments
     *   Power Sports
     *   Business Insurance
-*   Get A Quote in 80202
+*   Get A Quote in 80201
     
-    80202 Edit location
+    80201 Edit location
     
-    Select a productAutoHomeRentersLifeCondoMotorcycleBoatATV/Rec. VehicleBusiness InsuranceMore InsuranceGet A Quote
+    Select a ProductAutoHomeRentersLifeCondoMotorcycleBoatATV/Rec. VehicleBusiness InsuranceMore InsuranceGet A Quote
     
     Retrieve a saved quote
     
@@ -145,7 +146,7 @@ Log in to My Account
 
 Forgot user ID Forgot password Register new account
 
-*   Update zip code
+*   Update Zip Code
 *   Contact Us
 *   Español
 
@@ -185,13 +186,13 @@ About Allstate
 
 Home >. Allstate Overview >. Privacy Statement AIC Share allstate.com Find An Agent Close
 
-Agents near 80202
+Agents near 80201
 
 *   Loading...
 
 Advanced agent search
 
-80202 Edit location
+80201 Edit location
 
 Select a ProductAutoHomeRentersLifeCondoMotorcycleBoatATV/Rec. VehicleBusiness InsuranceGet a quote
 
@@ -414,7 +415,7 @@ Please note that Allstate's "do not call" list is limited only to telephone soli
 **For Vermont residents:**  
 We won't share your personal information with Allstate companies for marketing purposes except as allowed by Vermont law.
 
-80202 Edit Location
+80201 Edit Location
 
 Select a ProductAutoHomeRentersLifeCondoMotorcycleBoatATV/Rec. VehicleBusiness Insurance
 
@@ -443,7 +444,7 @@ Connect With Us
 *   Claims
 *   Agent Locator
 
-*   MORE
+*   More
 *   Site Map
 *   Terms Of Use
 *   Privacy &. Security
@@ -454,7 +455,7 @@ Connect With Us
 Oops! You have entered an invalid ZIP. Please, try again. Location data not available. Please enter zip code. ZIP Code: Cancel  
 Use My Current Location City, State
 
-Denver, CO
+DENVER, CO
 
 Please Wait...Updating Location...  
 It's taking a bit longer than expected. Your update should be done soon. This feature is not currently available.  
