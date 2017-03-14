@@ -13,10 +13,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   5 (last comment by Scornful\_Egotist 1 day ago)
+    *   5 (last comment by Scornful\_Egotist 2 days ago)
 *   Cant access my old blog
     *   by waiting\_u0909
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -67,13 +67,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by saltypepper1357 3 weeks ago)
+    *   1 (last comment by saltypepper1357 4 weeks ago)
 *   Retrieving Old Account
     *   by Aikaliciouzz
     *   2 months ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by saltypepper1357 3 weeks ago)
+    *   1 (last comment by saltypepper1357 4 weeks ago)
 *   Unable to pull of archive of old blog
     *   by Tigger41891
     *   4 weeks ago
