@@ -396,7 +396,7 @@ Privacy statement update: 7/28/16
 *   Health Care Reform
 *   Careers
 
-*   Site Map
+*   Accessibility Services
 *   Terms of Use
 *   Investor Info
 
@@ -408,6 +408,7 @@ Privacy statement update: 7/28/16
 *   Plan Disclosures
 *   Nondiscrimination Notice
 
+*   Site Map
 *   Privacy Center
 *   State Directory
 
