@@ -97,7 +97,6 @@ For Small Businesses
 *   Get a Quote
 *   Pay Your Bill
 *   Innovation Health Premium Payments
-*   Already Registered? Pay Monthly Premium Online
 *   Get SBC (Summary of Benefits and Coverage)
 *   Small Business Health Plans by State
 
