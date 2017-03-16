@@ -47,8 +47,6 @@ Sale or merger. If all or part of SpiderOak is sold, merged, or otherwise transf
 
 Web Tracking Policy
 
-We are proud that we don’t use Google Analytics. We don’t allow other third-party tracking on our service, either.
-
 We use cookies to enable our servers to recognize your web browser and tell us how and when you use the SpiderOak websites. We use cookies to identify whether you have logged in and recognize that your web browser has accessed our servers before, and we may associate that information with your account. Most browsers have an option for disabling cookies, but if you disable them you may not be able to log into your SpiderOak account.
 
 Account Termination
