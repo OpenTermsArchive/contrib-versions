@@ -1,3 +1,5 @@
+Apple Website Terms of Use
+
 Legal Information &. Notices
 
 Ownership of Site. Agreement to Terms of Use
