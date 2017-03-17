@@ -13,7 +13,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   5 (last comment by Scornful\_Egotist 4 days ago)
+    *   5 (last comment by Scornful\_Egotist 5 days ago)
 *   Cant access my old blog
     *   by waiting\_u0909
     *   1 week ago
@@ -40,7 +40,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Can't find blog
     *   by ReelBigBandit
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -49,16 +49,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 months ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by disunderstanded 3 weeks ago)
+    *   3 (last comment by disunderstanded 4 weeks ago)
 *   Is Xanga still active?
     *   by disunderstanded
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Premium
     *   0 votes
     *   0
 *   Cant find old blogs
     *   by tung\_salina
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
