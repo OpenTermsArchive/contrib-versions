@@ -8,12 +8,18 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Can I pay to get back my account?
+    *   by yiptinlok
+    *   23 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by yiptinlok 23 hours ago)
 *   how can i access my old blogs
     *   \[Resolved\] by e\_e
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   5 (last comment by Scornful\_Egotist 5 days ago)
+    *   5 (last comment by Scornful\_Egotist 6 days ago)
 *   Cant access my old blog
     *   by waiting\_u0909
     *   1 week ago
@@ -92,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   2 (last comment by ssguitarplayer08 1 month ago)
-*   How do I download an archive of my old blog?
-    *   \[Resolved\] by thibault
-    *   2 years ago
-    *   in Data Migration
-    *   0 votes
-    *   31 (last comment by ssguitarplayer08 1 month ago)
 
 1 2 3 ... 180 Next
 
