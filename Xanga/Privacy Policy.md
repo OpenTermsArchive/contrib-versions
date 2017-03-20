@@ -10,10 +10,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Can I pay to get back my account?
     *   by yiptinlok
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by yiptinlok 1 day ago)
+    *   1 (last comment by yiptinlok 2 days ago)
 *   how can i access my old blogs
     *   \[Resolved\] by e\_e
     *   3 years ago
@@ -28,7 +28,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   lost post
     *   by ahtototo
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
