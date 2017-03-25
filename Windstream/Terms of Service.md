@@ -11,6 +11,7 @@ Menu
 *   Move My Service
 *   Go to Windstream.net
 *   Windstream Blog
+*   Contact Us
 
 (Edit) My Location_:_ n/a
 
@@ -29,7 +30,7 @@ Menu
 *   Electronics
 *   Support
     
-    *   Support Center
+    *   Contact Us
     *   Blog
     *   Live Chat
     
@@ -437,6 +438,7 @@ Menu
 *   Available Services
 *   Electronics
 *   Support
+*   Contact Us
 *   Store Finder
 *   Windstream Overview
 *   Careers
