@@ -13,13 +13,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by tung810 3 days ago)
+    *   2 (last comment by tung810 4 days ago)
 *   how can i access my old blogs
     *   \[Resolved\] by e\_e
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   5 (last comment by Scornful\_Egotist 1 week ago)
+    *   5 (last comment by Scornful\_Egotist 2 weeks ago)
 *   Cant access my old blog
     *   by waiting\_u0909
     *   2 weeks ago
