@@ -8,12 +8,18 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Cant find old posts
+    *   by sanelyinsane7
+    *   2 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Can I pay to get back my account?
     *   by yiptinlok
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by tung810 4 days ago)
+    *   2 (last comment by tung810 5 days ago)
 *   how can i access my old blogs
     *   \[Resolved\] by e\_e
     *   3 years ago
@@ -28,7 +34,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   lost post
     *   by ahtototo
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -92,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   Question about data migration and the Relaunch campaign
-    *   by you\_make\_me\_angry
-    *   3 years ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by ssguitarplayer08 1 month ago)
 
 1 2 3 ... 180 Next
 
