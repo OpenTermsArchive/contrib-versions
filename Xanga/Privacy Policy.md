@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Cant find old posts
     *   by sanelyinsane7
-    *   2 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,7 +19,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by tung810 5 days ago)
+    *   2 (last comment by tung810 6 days ago)
 *   how can i access my old blogs
     *   \[Resolved\] by e\_e
     *   3 years ago
