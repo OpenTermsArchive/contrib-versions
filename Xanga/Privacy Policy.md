@@ -10,25 +10,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Retrieve my data
     *   by Karlyy7x
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve my data
     *   by Karlyy7x
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve my data
     *   by Karlyy7x
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Cant find old posts
     *   by sanelyinsane7
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -46,7 +46,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 (last comment by Scornful\_Egotist 2 weeks ago)
 *   Cant access my old blog
     *   by waiting\_u0909
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
