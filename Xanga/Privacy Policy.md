@@ -8,27 +8,33 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Emailed Eugenia about paying for subscription
+    *   by Blue\_Moon1
+    *   4 months ago
+    *   in Data Migration
+    *   0 votes
+    *   4 (last comment by jadetseng 6 hours ago)
 *   Retrieve my data
     *   by Karlyy7x
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve my data
     *   by Karlyy7x
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve my data
     *   by Karlyy7x
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Cant find old posts
     *   by sanelyinsane7
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -43,7 +49,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   5 (last comment by Scornful\_Egotist 2 weeks ago)
+    *   5 (last comment by Scornful\_Egotist 3 weeks ago)
 *   Cant access my old blog
     *   by waiting\_u0909
     *   3 weeks ago
@@ -74,12 +80,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   Emailed Eugenia about paying for subscription
-    *   by Blue\_Moon1
-    *   4 months ago
-    *   in Data Migration
-    *   0 votes
-    *   3 (last comment by disunderstanded 1 month ago)
 *   Is Xanga still active?
     *   by disunderstanded
     *   1 month ago
