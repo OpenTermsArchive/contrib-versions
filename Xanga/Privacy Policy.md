@@ -8,32 +8,56 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Emailed Eugenia about paying for subscription
-    *   by Blue\_Moon1
-    *   4 months ago
-    *   in Data Migration
-    *   0 votes
-    *   4 (last comment by jadetseng 6 hours ago)
-*   Retrieve my data
-    *   by Karlyy7x
-    *   5 days ago
+*   retrieve old Xanga blog, comments, photos
+    *   by mjfan125
+    *   10 hours ago
     *   in Data Migration
     *   0 votes
     *   0
-*   Retrieve my data
-    *   by Karlyy7x
-    *   5 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Retrieve my data
-    *   by Karlyy7x
-    *   5 days ago
+*   Access to archive
+    *   by bahtees
+    *   12 hours ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Cant find old posts
     *   by sanelyinsane7
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by ls\_lf 12 hours ago)
+*   Restore the Xanga
+    *   by charmaine\_ice
+    *   21 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Restore the Xanga
+    *   by charmaine\_ice
+    *   21 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Emailed Eugenia about paying for subscription
+    *   by Blue\_Moon1
+    *   4 months ago
+    *   in Data Migration
+    *   0 votes
+    *   4 (last comment by jadetseng 1 day ago)
+*   Retrieve my data
+    *   by Karlyy7x
+    *   6 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Retrieve my data
+    *   by Karlyy7x
+    *   6 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Retrieve my data
+    *   by Karlyy7x
     *   6 days ago
     *   in Data Migration
     *   0 votes
@@ -58,7 +82,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   lost post
     *   by ahtototo
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -74,30 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   Can't find blog
-    *   by ReelBigBandit
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Is Xanga still active?
-    *   by disunderstanded
-    *   1 month ago
-    *   in Premium
-    *   0 votes
-    *   0
-*   Cant find old blogs
-    *   by tung\_salina
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Please help retrieve my account
-    *   by blacks\_ying
-    *   2 months ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by saltypepper1357 1 month ago)
 
 1 2 3 ... 180 Next
 
