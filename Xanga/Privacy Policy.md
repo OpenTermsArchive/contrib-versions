@@ -10,13 +10,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   retrieve old Xanga blog, comments, photos
     *   by mjfan125
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Access to archive
     *   by bahtees
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -25,16 +25,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by ls\_lf 2 days ago)
+    *   1 (last comment by ls\_lf 3 days ago)
 *   Restore the Xanga
     *   by charmaine\_ice
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Restore the Xanga
     *   by charmaine\_ice
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -43,7 +43,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 months ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by jadetseng 3 days ago)
+    *   4 (last comment by jadetseng 4 days ago)
 *   Retrieve my data
     *   by Karlyy7x
     *   1 week ago
@@ -76,7 +76,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 (last comment by Scornful\_Egotist 3 weeks ago)
 *   Cant access my old blog
     *   by waiting\_u0909
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
