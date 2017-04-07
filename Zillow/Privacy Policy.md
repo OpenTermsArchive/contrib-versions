@@ -93,14 +93,6 @@ Agent finder
         *   Agent email scripts
         *   Listing flyer templates
 
-Advice
-
-*   Discussion topics
-    *   *   Home buying
-        *   Home selling
-    *   *   Mortgage
-        *   Rentals
-
 Home design
 
 *   Find design ideas
