@@ -13,16 +13,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   32 (last comment by WhiteLancer64 11 hours ago)
+    *   32 (last comment by WhiteLancer64 1 day ago)
 *   retrieve old Xanga blog, comments, photos
     *   by mjfan125
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Access to archive
     *   by bahtees
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -31,16 +31,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by ls\_lf 4 days ago)
+    *   1 (last comment by ls\_lf 5 days ago)
 *   Restore the Xanga
     *   by charmaine\_ice
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Restore the Xanga
     *   by charmaine\_ice
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -49,7 +49,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 months ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by jadetseng 5 days ago)
+    *   4 (last comment by jadetseng 6 days ago)
 *   Retrieve my data
     *   by Karlyy7x
     *   1 week ago
@@ -70,7 +70,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Can I pay to get back my account?
     *   by yiptinlok
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   2 (last comment by tung810 2 weeks ago)
@@ -82,7 +82,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 (last comment by Scornful\_Egotist 3 weeks ago)
 *   Cant access my old blog
     *   by waiting\_u0909
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
