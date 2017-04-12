@@ -8,21 +8,27 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   retrieving archived files
+    *   by ib\_sim\_neej
+    *   23 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   My blog
     *   by blong1119
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Data Migration Help
-    *   by xMazda\_6x
     *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data Migration Help
     *   by xMazda\_6x
-    *   2 days ago
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Data Migration Help
+    *   by xMazda\_6x
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -31,7 +37,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   32 (last comment by WhiteLancer64 4 days ago)
+    *   32 (last comment by WhiteLancer64 5 days ago)
 *   retrieve old Xanga blog, comments, photos
     *   by mjfan125
     *   1 week ago
@@ -91,13 +97,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by tung810 2 weeks ago)
-*   how can i access my old blogs
-    *   \[Resolved\] by e\_e
-    *   3 years ago
-    *   in Data Migration
-    *   0 votes
-    *   5 (last comment by Scornful\_Egotist 1 month ago)
+    *   2 (last comment by tung810 3 weeks ago)
 
 1 2 3 ... 181 Next
 
