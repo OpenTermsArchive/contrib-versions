@@ -40,7 +40,7 @@ Apple reserves the right to modify or stop the Service (or any part thereof), ei
 
 7\. Apple Privacy Policy
 
-You understand that by using the Service, you consent and agree to the collection and use of certain information about you and your use of the Service in accordance with Apple’s Privacy Policy. For more information please read our full privacy policy at http://www.apple.com/legal/privacy/. You further understand and agree that this information may be transferred to the United States and/or other countries for storage, processing and use by Apple and/or its affiliates.
+You understand that by using the Service, you consent and agree to the collection and use of certain information about you and your use of the Service in accordance with Apple’s Privacy Policy. For more information please read our full privacy policy at https://www.apple.com/legal/privacy/. You further understand and agree that this information may be transferred to the United States and/or other countries for storage, processing and use by Apple and/or its affiliates.
 
 8\. Software
 
