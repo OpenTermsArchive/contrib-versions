@@ -10,7 +10,7 @@ B. USING OUR SERVICES
 
 PAYMENTS, TAXES, AND REFUNDS
 
-You can acquire Content on our Services for free or for a charge, either of which is referred to as a “Transaction.” Each Transaction is an electronic contract between you and Apple, and/or you and the entity providing the Content on our Services. However, if you are a customer of Apple Distribution International and you acquire an App or a book, Apple Distribution International is the merchant of record. this means that you acquire the Content from Apple Distribution International, and it is licensed by the App Provider (as defined below) or book publisher. When you make your first Transaction, we will ask you to choose how frequently we should ask for your password for future Transactions. If you enable Touch ID for Transactions, we will ask you to authenticate all Transactions with your fingerprint. Manage your password settings at any time by following these instructions: https://support.apple.com/en-us/HT204030. Apple will charge your payment method (such as your credit card, debit card, gift card/code, or other method available in your Home Country) for any paid Transactions, including any applicable taxes. If you pre-order Content, you will be charged when the Content is delivered to you (unless you cancel prior to the Content’s availability). For details about how Transactions are billed, please visit http://support.apple.com/kb/HT5582. All Transactions are final. Content prices may change at any time. If technical problems prevent or unreasonably delay delivery of Content, your exclusive and sole remedy is either replacement of the Content or refund of the price paid, as determined by Apple. From time to time, Apple may refuse a refund request if we find evidence of fraud, refund abuse, or other manipulative behavior that entitles Apple to a corresponding counterclaim. Terms related to gift cards/codes are available here: http://www.apple.com/legal/internet-services/itunes/giftcards/.
+You can acquire Content on our Services for free or for a charge, either of which is referred to as a “Transaction.” Each Transaction is an electronic contract between you and Apple, and/or you and the entity providing the Content on our Services. However, if you are a customer of Apple Distribution International and you acquire an App or a book, Apple Distribution International is the merchant of record. this means that you acquire the Content from Apple Distribution International, and it is licensed by the App Provider (as defined below) or book publisher. When you make your first Transaction, we will ask you to choose how frequently we should ask for your password for future Transactions. If you enable Touch ID for Transactions, we will ask you to authenticate all Transactions with your fingerprint. Manage your password settings at any time by following these instructions: https://support.apple.com/en-us/HT204030. Apple will charge your payment method (such as your credit card, debit card, gift card/code, or other method available in your Home Country) for any paid Transactions, including any applicable taxes. If you pre-order Content, you will be charged when the Content is delivered to you (unless you cancel prior to the Content’s availability). For details about how Transactions are billed, please visit http://support.apple.com/kb/HT5582. All Transactions are final. Content prices may change at any time. If technical problems prevent or unreasonably delay delivery of Content, your exclusive and sole remedy is either replacement of the Content or refund of the price paid, as determined by Apple. From time to time, Apple may refuse a refund request if we find evidence of fraud, refund abuse, or other manipulative behavior that entitles Apple to a corresponding counterclaim. Terms related to gift cards/codes are available here: https://www.apple.com/legal/internet-services/itunes/giftcards/.
 
 APPLE ID
 
@@ -20,7 +20,7 @@ You must be age 13 (or equivalent minimum age in your Home Country, as set forth
 
 PRIVACY
 
-Your use of our Services is subject to Apple’s Privacy Policy, which is available at http://www.apple.com/legal/privacy/.
+Your use of our Services is subject to Apple’s Privacy Policy, which is available at https://www.apple.com/legal/privacy/.
 
 SERVICES AND CONTENT USAGE RULES
 
@@ -222,13 +222,13 @@ COPYRIGHT NOTICE
 
 If you believe that any Content available through the Services infringe a copyright claimed by you, please contact Apple at the following locations:
 
-\- iTunes Store: http://www.apple.com/legal/internet-services/itunes/itunesstorenotices/
+\- iTunes Store: https://www.apple.com/legal/internet-services/itunes/itunesstorenotices/
 
 \- App Store: https://www.apple.com/legal/internet-services/itunes/appstorenotices/
 
 \- iBooks Store: iBooks.Store.Notices@apple.com
 
-\- Apple Music: http://www.apple.com/legal/trademark/claimsofcopyright.html
+\- Apple Music: https://www.apple.com/legal/trademark/claimsofcopyright.html
 
 TERMINATION AND SUSPENSION OF SERVICES
 
