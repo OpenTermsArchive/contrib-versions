@@ -12,7 +12,7 @@ These Terms of Use (“Terms”) provide important information about ordering go
   
 Apple may change, add or remove any part of these Terms at any time. If it does so, Apple will post such changes on www.apple.com/internetservices/terms. IF ANY FUTURE CHANGES ARE UNACCEPTABLE TO YOU, YOU SHOULD DISCONTINUE USING THE SERVICES. YOUR CONTINUED USE OF THE SERVICES NOW, OR FOLLOWING THE POSTING OF NOTICE OF ANY SUCH CHANGES, WILL INDICATE YOUR ACCEPTANCE OF THESE TERMS, AND OF ANY SUCH CHANGES.  
   
-Your use of the Services is also subject to Apple’s Privacy Policy. http://www.apple.com/legal/privacy.  
+Your use of the Services is also subject to Apple’s Privacy Policy. https://www.apple.com/legal/privacy.  
   
 To use any of the Services, you must be at least 13 years old (or, for non-U.S. users, such older minimum age as may be required by applicable local law). If you are under the required age, you may still use the Services (subject to applicable local non-U.S. law), but only if the account you are using was created and registered by your parent or legal guardian.  
   
