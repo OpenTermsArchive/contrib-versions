@@ -8,33 +8,45 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   I can't see my old blog
+    *   by xiaoyu7
+    *   23 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   I can't see my old blog
+    *   by xiaoyu7
+    *   23 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   unable to read chinese
     *   by grace\_home
-    *   1 day ago
+    *   2 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   retrieving archived files
     *   by ib\_sim\_neej
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   My blog
     *   by blong1119
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Data Migration Help
-    *   by xMazda\_6x
     *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data Migration Help
     *   by xMazda\_6x
-    *   5 days ago
+    *   6 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Data Migration Help
+    *   by xMazda\_6x
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -76,22 +88,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Emailed Eugenia about paying for subscription
     *   by Blue\_Moon1
-    *   4 months ago
+    *   5 months ago
     *   in Data Migration
     *   0 votes
     *   4 (last comment by jadetseng 1 week ago)
-*   Retrieve my data
-    *   by Karlyy7x
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Retrieve my data
-    *   by Karlyy7x
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 *   Retrieve my data
     *   by Karlyy7x
     *   2 weeks ago
