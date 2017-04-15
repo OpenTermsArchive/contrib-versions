@@ -338,7 +338,7 @@ About Comcast
 *   Site Index
 
 *   Ad Choices
-*   Privacy Policy
-*   Terms of Service
+*   Privacy Policy (Update)
+*   Terms of Service (Update)
 
 © 2017 Comcast
