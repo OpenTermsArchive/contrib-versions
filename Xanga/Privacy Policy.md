@@ -8,33 +8,39 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   How to get password
+    *   by romyover
+    *   18 hours ago
+    *   in Passwords &. Sign-In
+    *   0 votes
+    *   0
 *   I can't see my old blog
     *   by xiaoyu7
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I can't see my old blog
     *   by xiaoyu7
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   unable to read chinese
     *   by grace\_home
-    *   3 days ago
+    *   4 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   retrieving archived files
     *   by ib\_sim\_neej
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   My blog
     *   by blong1119
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -58,31 +64,31 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   32 (last comment by WhiteLancer64 1 week ago)
 *   retrieve old Xanga blog, comments, photos
     *   by mjfan125
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Access to archive
     *   by bahtees
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Cant find old posts
     *   by sanelyinsane7
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by ls\_lf 1 week ago)
+    *   1 (last comment by ls\_lf 2 weeks ago)
 *   Restore the Xanga
     *   by charmaine\_ice
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Restore the Xanga
     *   by charmaine\_ice
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -92,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   4 (last comment by jadetseng 2 weeks ago)
-*   Retrieve my data
-    *   by Karlyy7x
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
 1 2 3 ... 181 Next
 
