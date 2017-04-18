@@ -10,31 +10,31 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   How to get password
     *   by romyover
-    *   18 hours ago
+    *   1 day ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   I can't see my old blog
     *   by xiaoyu7
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I can't see my old blog
     *   by xiaoyu7
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   unable to read chinese
     *   by grace\_home
-    *   4 days ago
+    *   5 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   retrieving archived files
     *   by ib\_sim\_neej
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
