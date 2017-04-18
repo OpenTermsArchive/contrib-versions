@@ -4,7 +4,7 @@ When you use Google services, you trust us with your information. This Privacy P
 
 Privacy Policy Hide examples Show examples Hide examples
 
-Last modified: March 1, 2017 (view archived versions) (The hyperlinked examples are available at the end of this document.)
+Last modified: April 17, 2017 (view archived versions) (The hyperlinked examples are available at the end of this document.)
 
 Download PDF version
 
@@ -161,7 +161,7 @@ Our Privacy Policy does not apply to services offered by other companies or indi
 
 Back to top Compliance and cooperation with regulatory authorities
 
-We regularly review our compliance with our Privacy Policy. We also adhere to several self regulatory frameworks, including the EU-US Privacy Shield Framework. When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly.
+We regularly review our compliance with our Privacy Policy. We also adhere to several self regulatory frameworks, including the EU-US and Swiss-US Privacy Shield Frameworks. When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly.
 
 Back to top Changes
 
