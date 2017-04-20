@@ -8,33 +8,39 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   i cannot see my old blog
+    *   by Cani\_Zares
+    *   12 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   I can't visit my old blog
     *   by waiting\_u0909
-    *   1 hour ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How to get password
     *   by romyover
-    *   2 days ago
+    *   3 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   I can't see my old blog
     *   by xiaoyu7
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I can't see my old blog
     *   by xiaoyu7
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   unable to read chinese
     *   by grace\_home
-    *   6 days ago
+    *   1 week ago
     *   in Miscellaenous
     *   0 votes
     *   0
@@ -86,12 +92,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   1 (last comment by ls\_lf 2 weeks ago)
-*   Restore the Xanga
-    *   by charmaine\_ice
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 *   Restore the Xanga
     *   by charmaine\_ice
     *   2 weeks ago
