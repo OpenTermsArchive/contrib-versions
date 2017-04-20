@@ -333,7 +333,7 @@ About Comcast
 *   Press Room
 *   Corporate Blog
 *   Corporate Site
-*   Customer Agreements &. Policies
+*   Cable Customer Agreement
 *   XFINITY Voice: Use of Personal Info
 *   Site Index
 
