@@ -10,31 +10,31 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   i cannot see my old blog
     *   by Cani\_Zares
-    *   12 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I can't visit my old blog
     *   by waiting\_u0909
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How to get password
     *   by romyover
-    *   3 days ago
+    *   4 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   I can't see my old blog
     *   by xiaoyu7
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I can't see my old blog
     *   by xiaoyu7
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -73,7 +73,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   32 (last comment by WhiteLancer64 1 week ago)
+    *   32 (last comment by WhiteLancer64 2 weeks ago)
 *   retrieve old Xanga blog, comments, photos
     *   by mjfan125
     *   2 weeks ago
