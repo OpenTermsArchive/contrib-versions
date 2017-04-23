@@ -10,31 +10,31 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   ok uebrbgtkerjhioporekpolpk9o.
     *   by ha513
-    *   23 hours ago
+    *   1 day ago
     *   in Usernames
     *   0 votes
     *   0
 *   ok uebrbgtkerjhioporekpolpk9o.
     *   by ha513
-    *   23 hours ago
+    *   1 day ago
     *   in Usernames
     *   0 votes
     *   0
 *   i cannot see my old blog
     *   by Cani\_Zares
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I can't visit my old blog
     *   by waiting\_u0909
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How to get password
     *   by romyover
-    *   5 days ago
+    *   6 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -70,13 +70,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Data Migration Help
     *   by xMazda\_6x
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data Migration Help
     *   by xMazda\_6x
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
