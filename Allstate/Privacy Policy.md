@@ -50,6 +50,7 @@ Skip Navigation Explore Allstate
     *   Allstate Motor Club
     *   Drivewise
     *   Digital Locker
+    *   GoodRide
     *   QuickTrip
 
 *   Find an Agent ✖
