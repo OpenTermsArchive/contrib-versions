@@ -8,27 +8,33 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Pls kindly retrieve my account
+    *   by CCT\_and\_NTM
+    *   16 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   ok uebrbgtkerjhioporekpolpk9o.
     *   by ha513
-    *   3 days ago
+    *   4 days ago
     *   in Usernames
     *   0 votes
     *   0
 *   ok uebrbgtkerjhioporekpolpk9o.
     *   by ha513
-    *   3 days ago
+    *   4 days ago
     *   in Usernames
     *   0 votes
     *   0
 *   i cannot see my old blog
     *   by Cani\_Zares
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I can't visit my old blog
     *   by waiting\_u0909
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -58,7 +64,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   retrieving archived files
     *   by ib\_sim\_neej
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -88,12 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   32 (last comment by WhiteLancer64 2 weeks ago)
 *   retrieve old Xanga blog, comments, photos
     *   by mjfan125
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Access to archive
-    *   by bahtees
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
