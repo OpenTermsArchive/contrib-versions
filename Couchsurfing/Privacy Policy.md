@@ -1,6 +1,6 @@
 Couchsurfing.com Privacy Policy
 
-Effective Date: February 16, 2017
+Effective Date: April 25, 2017
 
 Please read our Privacy Policy carefully to get a clear understanding of how we collect, use, disclose, protect and otherwise handle information about you. By using Couchsurfing services, you consent to the collection and use of your data as described in this Privacy Policy.
 
@@ -56,7 +56,7 @@ We use information about you for purposes described in this Privacy Policy or ot
 
 Transfers of Your Personal Information Abroad
 
-Couchsurfing may store and process personal information in the United States and other countries, where under local laws you may have fewer legal rights. However, wherever we store your information we will treat it in accordance with this Privacy Policy. Couchsurfing participates in the US-EU Privacy Shield Framework and has certified our adherence to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement, and Liability with respect to personal data collected from members in the EU. For more information about the Privacy Shield program and to view Couchsurfing’s certification, please review the Privacy Shield List on the U.S. Department of Commerce's Privacy Shield website.
+Couchsurfing may store and process personal information in the United States and other countries, where under local laws you may have fewer legal rights. However, wherever we store your information we will treat it in accordance with this Privacy Policy. Couchsurfing International Inc. complies with the EU-U.S. Privacy Shield Framework and the Swiss – U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. Couchsurfing International Inc. has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/.
 
 Sharing of Information
 
