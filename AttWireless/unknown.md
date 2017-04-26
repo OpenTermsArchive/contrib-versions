@@ -7,6 +7,8 @@ WIRELESS CUSTOMER AGREEMENT ("Agreement") Documents
 *   ► Customer Agreement and Plans - GoPhone®
 *   Plan Terms - GoPhone®
 *   Terms of Service - GoPhone®
+*   GoPhone AutoPay Terms for customers enrolled effective 4/24/17
+*   GoPhone AutoPay Terms for customers enrolled prior to 4/24/17
 *   Data Services Agreement
 *   Applications, Services, and Features
 *   ► Policies and Processes
