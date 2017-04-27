@@ -10,25 +10,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Pls kindly retrieve my account
     *   by CCT\_and\_NTM
-    *   16 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   0
+    *   1 (last comment by urm\_yea 5 hours ago)
 *   ok uebrbgtkerjhioporekpolpk9o.
     *   by ha513
-    *   4 days ago
+    *   5 days ago
     *   in Usernames
     *   0 votes
     *   0
 *   ok uebrbgtkerjhioporekpolpk9o.
     *   by ha513
-    *   4 days ago
+    *   5 days ago
     *   in Usernames
     *   0 votes
     *   0
 *   i cannot see my old blog
     *   by Cani\_Zares
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -58,7 +58,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   unable to read chinese
     *   by grace\_home
-    *   1 week ago
+    *   2 weeks ago
     *   in Miscellaenous
     *   0 votes
     *   0
