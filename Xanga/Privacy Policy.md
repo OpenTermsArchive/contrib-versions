@@ -10,19 +10,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Pls kindly retrieve my account
     *   by CCT\_and\_NTM
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by urm\_yea 5 hours ago)
+    *   1 (last comment by urm\_yea 1 day ago)
 *   ok uebrbgtkerjhioporekpolpk9o.
     *   by ha513
-    *   5 days ago
+    *   6 days ago
     *   in Usernames
     *   0 votes
     *   0
 *   ok uebrbgtkerjhioporekpolpk9o.
     *   by ha513
-    *   5 days ago
+    *   6 days ago
     *   in Usernames
     *   0 votes
     *   0
@@ -91,7 +91,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   32 (last comment by WhiteLancer64 2 weeks ago)
+    *   32 (last comment by WhiteLancer64 3 weeks ago)
 *   retrieve old Xanga blog, comments, photos
     *   by mjfan125
     *   3 weeks ago
