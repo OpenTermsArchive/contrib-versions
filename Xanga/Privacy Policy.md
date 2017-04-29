@@ -8,21 +8,33 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Pls kindly retrieve my account
-    *   by CCT\_and\_NTM
-    *   2 days ago
+*   Please Recover Old Blog Posts
+    *   by Madison321
+    *   8 hours ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by urm\_yea 1 day ago)
+    *   0
+*   Old blog missing
+    *   by chustephen
+    *   11 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Pls kindly retrieve my account
+    *   by CCT\_and\_NTM
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by urm\_yea 2 days ago)
 *   ok uebrbgtkerjhioporekpolpk9o.
     *   by ha513
-    *   6 days ago
+    *   1 week ago
     *   in Usernames
     *   0 votes
     *   0
 *   ok uebrbgtkerjhioporekpolpk9o.
     *   by ha513
-    *   6 days ago
+    *   1 week ago
     *   in Usernames
     *   0 votes
     *   0
@@ -46,13 +58,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   I can't see my old blog
     *   by xiaoyu7
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I can't see my old blog
     *   by xiaoyu7
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -83,18 +95,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 *   Data Migration Help
     *   by xMazda\_6x
     *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   How do I download an archive of my old blog?
-    *   \[Resolved\] by thibault
-    *   2 years ago
-    *   in Data Migration
-    *   0 votes
-    *   32 (last comment by WhiteLancer64 3 weeks ago)
-*   retrieve old Xanga blog, comments, photos
-    *   by mjfan125
-    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
