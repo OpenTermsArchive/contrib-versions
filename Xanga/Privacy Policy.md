@@ -10,22 +10,22 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Please Recover Old Blog Posts
     *   by Madison321
-    *   8 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old blog missing
     *   by chustephen
-    *   11 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Pls kindly retrieve my account
     *   by CCT\_and\_NTM
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by urm\_yea 2 days ago)
+    *   1 (last comment by urm\_yea 3 days ago)
 *   ok uebrbgtkerjhioporekpolpk9o.
     *   by ha513
     *   1 week ago
@@ -88,13 +88,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Data Migration Help
     *   by xMazda\_6x
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data Migration Help
     *   by xMazda\_6x
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
