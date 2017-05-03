@@ -8,24 +8,30 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Find my past posts
+    *   by MzZLaYzEe
+    *   22 hours ago
+    *   in Miscellaenous
+    *   0 votes
+    *   0
 *   Please Recover Old Blog Posts
     *   by Madison321
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old blog missing
     *   by chustephen
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Pls kindly retrieve my account
     *   by CCT\_and\_NTM
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by urm\_yea 5 days ago)
+    *   1 (last comment by urm\_yea 6 days ago)
 *   ok uebrbgtkerjhioporekpolpk9o.
     *   by ha513
     *   1 week ago
@@ -46,7 +52,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   I can't visit my old blog
     *   by waiting\_u0909
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -76,18 +82,12 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   retrieving archived files
     *   by ib\_sim\_neej
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   My blog
     *   by blong1119
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Data Migration Help
-    *   by xMazda\_6x
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
