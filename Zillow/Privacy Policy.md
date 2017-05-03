@@ -126,6 +126,7 @@ More
 *   Privacy Policy
 *   Good Neighbor Policy
 *   Listings Quality Policy
+*   Listing Feed Terms of Use
 
 Privacy Policy
 
