@@ -16,7 +16,7 @@
 *   Zazaki
 *   Ελληνικά
 *   emiliàn e rumagnòl
-*   **English**
+*   English
 *   Canadian English
 *   British English
 *   Esperanto
@@ -532,7 +532,7 @@ Because things naturally change over time and we want to ensure our Privacy Poli
 *   In the event of substantial changes, we will provide the proposed changes to our users in at least three (3) languages (selected at our discretion) for open comment period lasting at least thirty (30) calendar days. Prior to the start of any comment period, we will provide notice of such changes and the opportunity to comment via the Wikimedia Sites, and via a notification on WikimediaAnnounce-L or a similar mailing list.
 *   For minor changes, such as grammatical fixes, administrative or legal changes, or corrections of inaccurate statements, we will post the changes and, when possible, provide at least three (3) calendar days' prior notice via WikimediaAnnounce-L or similar mailing list.
 
-We ask that you please review the most up-to-date version of our **Privacy Policy**. Your continued use of the Wikimedia Sites after this Privacy Policy becomes effective constitutes acceptance of this Privacy Policy on your part. Your continued use of the Wikimedia Sites after any subsequent version of this Privacy Policy becomes effective, following notice as outlined above, constitutes acceptance of that version of the Privacy Policy on your part.
+We ask that you please review the most up-to-date version of our Privacy Policy. Your continued use of the Wikimedia Sites after this Privacy Policy becomes effective constitutes acceptance of this Privacy Policy on your part. Your continued use of the Wikimedia Sites after any subsequent version of this Privacy Policy becomes effective, following notice as outlined above, constitutes acceptance of that version of the Privacy Policy on your part.
 
 Contact Us
 
@@ -555,4 +555,4 @@ Thank you for reading our Privacy Policy. We hope you enjoy using the Wikimedia 
 
 Back to top ± **Privacy-related pages**
 
-**Privacy policy** **·** FAQ **·** Glossary of key terms **·** Wikimedia blog privacy policy **·** Subpoena FAQ **·** Access to nonpublic information **·** Data retention guidelines **·** Donor policy **·** Requests for user information
+Privacy policy **·** FAQ **·** Glossary of key terms **·** Wikimedia blog privacy policy **·** Subpoena FAQ **·** Access to nonpublic information **·** Data retention guidelines **·** Donor policy **·** Requests for user information
