@@ -10,19 +10,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Find my past posts
     *   by MzZLaYzEe
-    *   1 day ago
+    *   2 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Please Recover Old Blog Posts
     *   by Madison321
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old blog missing
     *   by chustephen
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
