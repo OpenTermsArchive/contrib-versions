@@ -8,21 +8,33 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   help retrieve years worth of xanga entries
+    *   by fadingredembers
+    *   23 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   help retrieve years worth of xanga entries
+    *   by fadingredembers
+    *   23 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Find my past posts
     *   by MzZLaYzEe
-    *   2 days ago
+    *   3 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Please Recover Old Blog Posts
     *   by Madison321
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old blog missing
     *   by chustephen
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -34,13 +46,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by urm\_yea 1 week ago)
 *   ok uebrbgtkerjhioporekpolpk9o.
     *   by ha513
-    *   1 week ago
+    *   2 weeks ago
     *   in Usernames
     *   0 votes
     *   0
 *   ok uebrbgtkerjhioporekpolpk9o.
     *   by ha513
-    *   1 week ago
+    *   2 weeks ago
     *   in Usernames
     *   0 votes
     *   0
@@ -64,13 +76,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   I can't see my old blog
     *   by xiaoyu7
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I can't see my old blog
     *   by xiaoyu7
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -86,20 +98,8 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   My blog
-    *   by blong1119
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Data Migration Help
-    *   by xMazda\_6x
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
-1 2 3 ... 181 Next
+1 2 3 ... 182 Next
 
 Help Categories
 
