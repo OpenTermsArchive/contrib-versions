@@ -8,33 +8,39 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   How to see old posts
+    *   \[Resolved\] by SparklinEyez509
+    *   2 years ago
+    *   in Themes
+    *   0 votes
+    *   3 (last comment by ILAR 19 hours ago)
 *   Eugenia, please can you help me recover my blog?
     *   by xfaithxfayex
-    *   9 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Need Archive
     *   by cuteyp33
-    *   11 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   help retrieve years worth of xanga entries
-    *   by fadingredembers
     *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   help retrieve years worth of xanga entries
     *   by fadingredembers
-    *   1 day ago
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   help retrieve years worth of xanga entries
+    *   by fadingredembers
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Find my past posts
     *   by MzZLaYzEe
-    *   4 days ago
+    *   5 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
@@ -82,14 +88,8 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   How to get password
     *   by romyover
-    *   2 weeks ago
-    *   in Passwords &. Sign-In
-    *   0 votes
-    *   0
-*   I can't see my old blog
-    *   by xiaoyu7
     *   3 weeks ago
-    *   in Data Migration
+    *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   I can't see my old blog
