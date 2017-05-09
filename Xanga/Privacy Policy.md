@@ -13,34 +13,34 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Themes
     *   0 votes
-    *   3 (last comment by ILAR 19 hours ago)
+    *   3 (last comment by ILAR 1 day ago)
 *   Eugenia, please can you help me recover my blog?
     *   by xfaithxfayex
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Need Archive
     *   by cuteyp33
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   help retrieve years worth of xanga entries
-    *   by fadingredembers
     *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   help retrieve years worth of xanga entries
     *   by fadingredembers
-    *   2 days ago
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   help retrieve years worth of xanga entries
+    *   by fadingredembers
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Find my past posts
     *   by MzZLaYzEe
-    *   5 days ago
+    *   6 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
