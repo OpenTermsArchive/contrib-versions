@@ -8,39 +8,45 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   How to restore my old blog
+    *   by x0\_unwanted\_x0
+    *   50 minutes ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   How to see old posts
     *   \[Resolved\] by SparklinEyez509
     *   2 years ago
     *   in Themes
     *   0 votes
-    *   3 (last comment by ILAR 1 day ago)
+    *   3 (last comment by ILAR 2 days ago)
 *   Eugenia, please can you help me recover my blog?
     *   by xfaithxfayex
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Need Archive
     *   by cuteyp33
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   help retrieve years worth of xanga entries
-    *   by fadingredembers
     *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   help retrieve years worth of xanga entries
     *   by fadingredembers
-    *   3 days ago
+    *   4 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   help retrieve years worth of xanga entries
+    *   by fadingredembers
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Find my past posts
     *   by MzZLaYzEe
-    *   6 days ago
+    *   1 week ago
     *   in Miscellaenous
     *   0 votes
     *   0
@@ -58,7 +64,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Pls kindly retrieve my account
     *   by CCT\_and\_NTM
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by urm\_yea 1 week ago)
@@ -82,7 +88,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   I can't visit my old blog
     *   by waiting\_u0909
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -90,12 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by romyover
     *   3 weeks ago
     *   in Passwords &. Sign-In
-    *   0 votes
-    *   0
-*   I can't see my old blog
-    *   by xiaoyu7
-    *   3 weeks ago
-    *   in Data Migration
     *   0 votes
     *   0
 
