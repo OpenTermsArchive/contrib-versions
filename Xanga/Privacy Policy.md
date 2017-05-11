@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   How to restore my old blog
     *   by x0\_unwanted\_x0
-    *   50 minutes ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,28 +19,28 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Themes
     *   0 votes
-    *   3 (last comment by ILAR 2 days ago)
+    *   3 (last comment by ILAR 3 days ago)
 *   Eugenia, please can you help me recover my blog?
     *   by xfaithxfayex
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Need Archive
     *   by cuteyp33
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   help retrieve years worth of xanga entries
-    *   by fadingredembers
     *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   help retrieve years worth of xanga entries
     *   by fadingredembers
-    *   4 days ago
+    *   5 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   help retrieve years worth of xanga entries
+    *   by fadingredembers
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -67,7 +67,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by urm\_yea 1 week ago)
+    *   1 (last comment by urm\_yea 2 weeks ago)
 *   ok uebrbgtkerjhioporekpolpk9o.
     *   by ha513
     *   2 weeks ago
@@ -82,7 +82,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   i cannot see my old blog
     *   by Cani\_Zares
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
