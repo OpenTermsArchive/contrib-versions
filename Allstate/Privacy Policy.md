@@ -35,7 +35,7 @@ Skip Navigation Explore Allstate
     *   STANDUP
     *   Teen Memory Wall
     *   Purple Purse
-    *   Allstate Code of Ethics
+    *   Global Code of Business Conduct
 
 *   Logins
 *   *   My Account
