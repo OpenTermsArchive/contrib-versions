@@ -8,9 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   will pay for premium in exchange for blog archive
+    *   by smilezx3
+    *   1 hour ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   will pay, please reply asap
+    *   by smilezx3
+    *   2 hours ago
+    *   in Premium
+    *   0 votes
+    *   0
 *   How to restore my old blog
     *   by x0\_unwanted\_x0
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,28 +31,28 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Themes
     *   0 votes
-    *   3 (last comment by ILAR 4 days ago)
+    *   3 (last comment by ILAR 5 days ago)
 *   Eugenia, please can you help me recover my blog?
     *   by xfaithxfayex
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Need Archive
     *   by cuteyp33
-    *   5 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   help retrieve years worth of xanga entries
-    *   by fadingredembers
     *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   help retrieve years worth of xanga entries
     *   by fadingredembers
-    *   6 days ago
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   help retrieve years worth of xanga entries
+    *   by fadingredembers
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -52,13 +64,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Please Recover Old Blog Posts
     *   by Madison321
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old blog missing
     *   by chustephen
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -70,13 +82,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by urm\_yea 2 weeks ago)
 *   ok uebrbgtkerjhioporekpolpk9o.
     *   by ha513
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Usernames
     *   0 votes
     *   0
 *   ok uebrbgtkerjhioporekpolpk9o.
     *   by ha513
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Usernames
     *   0 votes
     *   0
@@ -84,18 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by Cani\_Zares
     *   3 weeks ago
     *   in Data Migration
-    *   0 votes
-    *   0
-*   I can't visit my old blog
-    *   by waiting\_u0909
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   How to get password
-    *   by romyover
-    *   3 weeks ago
-    *   in Passwords &. Sign-In
     *   0 votes
     *   0
 
