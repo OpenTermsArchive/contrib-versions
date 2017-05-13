@@ -73,7 +73,7 @@ Dropbox Privacy Policy
 
 Posted: December 8, 2016
 
-Effective: February 10, 2017
+Effective: April 12, 2017
 
 Thanks for using Dropbox! Here we describe how we collect, use and handle your information when you use our websites, software and services ("**Services**").
 
