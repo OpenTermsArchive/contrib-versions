@@ -10,19 +10,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   will pay for premium in exchange for blog archive
     *   by smilezx3
-    *   1 hour ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   will pay, please reply asap
     *   by smilezx3
-    *   2 hours ago
+    *   1 day ago
     *   in Premium
     *   0 votes
     *   0
 *   How to restore my old blog
     *   by x0\_unwanted\_x0
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -31,16 +31,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Themes
     *   0 votes
-    *   3 (last comment by ILAR 5 days ago)
+    *   3 (last comment by ILAR 6 days ago)
 *   Eugenia, please can you help me recover my blog?
     *   by xfaithxfayex
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Need Archive
     *   by cuteyp33
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
