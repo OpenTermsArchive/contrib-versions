@@ -8,30 +8,30 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   will pay for premium in exchange for blog archive
-    *   by smilezx3
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   will pay, please reply asap
-    *   by smilezx3
-    *   1 day ago
-    *   in Premium
-    *   0 votes
-    *   0
-*   How to restore my old blog
-    *   by x0\_unwanted\_x0
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 *   How to see old posts
     *   \[Resolved\] by SparklinEyez509
     *   2 years ago
     *   in Themes
     *   0 votes
-    *   3 (last comment by ILAR 6 days ago)
+    *   4 (last comment by write\_measong 5 hours ago)
+*   will pay for premium in exchange for blog archive
+    *   by smilezx3
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   will pay, please reply asap
+    *   by smilezx3
+    *   2 days ago
+    *   in Premium
+    *   0 votes
+    *   0
+*   How to restore my old blog
+    *   by x0\_unwanted\_x0
+    *   5 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Eugenia, please can you help me recover my blog?
     *   by xfaithxfayex
     *   1 week ago
