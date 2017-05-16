@@ -13,22 +13,22 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Themes
     *   0 votes
-    *   4 (last comment by write\_measong 5 hours ago)
+    *   4 (last comment by write\_measong 1 day ago)
 *   will pay for premium in exchange for blog archive
     *   by smilezx3
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   will pay, please reply asap
     *   by smilezx3
-    *   2 days ago
+    *   3 days ago
     *   in Premium
     *   0 votes
     *   0
 *   How to restore my old blog
     *   by x0\_unwanted\_x0
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
