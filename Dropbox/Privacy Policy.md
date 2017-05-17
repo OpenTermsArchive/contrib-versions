@@ -71,7 +71,7 @@ Have questions or concerns about Dropbox, our Services and privacy? Contact us a
 
 Dropbox Privacy Policy
 
-Posted: December 8, 2016
+Posted: April 12, 2017
 
 Effective: April 12, 2017
 
