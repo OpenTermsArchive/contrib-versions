@@ -1,5 +1,3 @@
-_Please note: we are updating our Privacy Policy, effective May 17th, 2017. You can read the updated Privacy Policy in full here_
-
 SoundCloud Privacy Policy
 
 Welcome to SoundCloud®, a service provided by SoundCloud Limited (“**SoundCloud**”, “**we**” “**our**”, “**us**”).
@@ -157,7 +155,7 @@ For other purposes, provided we disclose this to you at the relevant time, and p
 
 Sharing of your information
 
-**We will not share your information with any third party, except as described in this Privacy Policy (including our Cookies Policy).** There are circumstances where we may need to share some of the information we collect about you or which you provide to us - these circumstances are as follows:
+**We will not share your information with any third party, except as described in this Privacy Policy (including our Cookies Policy).** There are circumstances where we may need to share some of the information we collect about you or which you provide to us for the purposes set out above - these circumstances are as follows:
 
 *   Other users: Any information in your public profile (other than your email address) will be accessible by other users of the Platform, who may view your profile information, listen to and comment on any of your public sounds, add themselves to your list of followers, and send you messages. If you listen to any sounds uploaded by a pro user, the fact that you have listened to those sounds will be shared with that pro user as well as that you are following that pro user now, so that they can track the popularity of their sounds. Similarly, if you comment on any sounds on the Platform, your comments will be available to all users of the Platform.
     
@@ -229,7 +227,7 @@ SoundCloud® has an open API, which allows third party developers to build some 
 
 Customizing the Platform and personalized ads
 
-We may also use third party services using cookies or similar technologies showing you personalized ads on our behalf. Please see our Cookies Policy for how to opt-out of those.
+You can opt out of the collection of your information when interacting with the Platform for purposes of customizing the Platform or personalized advertisement at any time for the future by checking the Anonymous Browsing box in the Account tab within your Settings on the Website. Please keep in mind that this may also have a substantial impact on your listening experience on the Platform (e.g. with regard to personalized recommendations for sounds to listen to or creator discovery). We may also use third party services using cookies or similar technologies showing you personalized ads on our behalf. Please see our Cookies Policy for how to opt-out of those.
 
 Please be aware that even if you opt out of interest-based ads, you may still see ads, which likely are not as appealing to you.
 
@@ -255,9 +253,15 @@ As described above, most of the personal data and other information you provide 
 
 If you ask us to delete your account (either via the Settings page or by email), we will do so within a reasonable period of time, but we may need to retain some of your personal data in order to satisfy our legal obligations, or where we have a legitimate reason for doing so.
 
+Data controller
+
+If you are a US user, your data is controlled by our United States entity SoundCloud Inc. If you are a user from outside the United States, your data is controlled by our European entity SoundCloud Limited. In order to determine whether you are a United States user or a user from outside the United States, we use your device’s IP address at time of registration. We may share your data with other companies within the SoundCloud Group. A sharing of data will only take place in accordance with the specific purposes outlined in this Privacy Policy. You can withdraw your consent at any time.
+
+United States users’ data may be processed by SoundCloud Limited on SoundCloud Inc.’s behalf.
+
 International data transfers
 
-SoundCloud is based in Europe, and your personal information is collected, stored, used and shared in accordance with European laws. However, from time to time, it may be necessary for us to transfer your personal data to the United States. You should be aware that privacy laws in the United States may not be equivalent to the laws in your country, and by using the Platform, you consent to the transfer, storage and processing of your personal data in the United States in accordance with this Privacy Policy and applicable law.
+SoundCloud Limited is based in Europe, and your personal information is collected, stored, used and shared in accordance with European laws. However, from time to time, it may be necessary for us to transfer your personal data to the United States. You should be aware that privacy laws in the United States may not be equivalent to the laws in your country, and by using the Platform, you consent to the transfer, storage and processing of your personal data in the United States in accordance with this Privacy Policy and applicable law.
 
 Children
 
@@ -277,12 +281,14 @@ Don’t want to give us your information?
 
 If you decide that you do not want us to use your information in the manner described in the Privacy Policy (including our Cookies Policy), please do not use the Platform. If you have already registered an account, you can find out how to terminate or cancel your account here.
 
-**Last amended:** 29 March 2016
+**Last amended:** 17 May 2017
 
 Link to prior versions
 
 You will find a link to prior versions of our Privacy Policy and a summary of the change(s) below.
 
+*   March 2016
+    
 *   January 2016 - Email-less sign-up and interest based advertising.
     
 *   June 2015 - Change in Analytics Services.
