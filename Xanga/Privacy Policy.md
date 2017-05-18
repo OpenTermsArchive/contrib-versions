@@ -13,16 +13,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Themes
     *   0 votes
-    *   4 (last comment by write\_measong 2 days ago)
+    *   4 (last comment by write\_measong 3 days ago)
 *   will pay for premium in exchange for blog archive
     *   by smilezx3
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   will pay, please reply asap
     *   by smilezx3
-    *   4 days ago
+    *   5 days ago
     *   in Premium
     *   0 votes
     *   0
@@ -79,7 +79,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by urm\_yea 2 weeks ago)
+    *   1 (last comment by urm\_yea 3 weeks ago)
 *   ok uebrbgtkerjhioporekpolpk9o.
     *   by ha513
     *   3 weeks ago
@@ -94,7 +94,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   i cannot see my old blog
     *   by Cani\_Zares
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
