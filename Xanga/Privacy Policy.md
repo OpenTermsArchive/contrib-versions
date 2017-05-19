@@ -13,16 +13,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Themes
     *   0 votes
-    *   4 (last comment by write\_measong 3 days ago)
+    *   4 (last comment by write\_measong 4 days ago)
 *   will pay for premium in exchange for blog archive
     *   by smilezx3
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   will pay, please reply asap
     *   by smilezx3
-    *   5 days ago
+    *   6 days ago
     *   in Premium
     *   0 votes
     *   0
