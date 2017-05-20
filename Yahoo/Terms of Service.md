@@ -2,7 +2,7 @@
 
 _May 12, 2017_
 
-If you haven’t heard, Yahoo plans to sell its operating business to Verizon. We anticipate the close to occur in June 2017. At the close, the Yahoo operating business will join the Verizon family of companies, and Yahoo Holdings, Inc. will be offering the Yahoo services you love and enjoy.
+If you haven’t heard, Yahoo plans to sell its operating business to Verizon. We anticipate the completion of the transaction to occur in June 2017. At the completion, the Yahoo operating business will join the Verizon family of companies, and Yahoo Holdings, Inc. will be offering the Yahoo services you love and enjoy.
 
 In connection with this proposed transaction, Yahoo is updating its terms of service to reflect the Yahoo Holdings, Inc. name and to add the following sentence to Section 28: “Yahoo may freely assign the TOS and all of the policies and other documents incorporated or referenced in it (including all rights, licenses, and obligations under it or them), in whole or in part and without notice.”
 
