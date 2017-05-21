@@ -13,7 +13,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Themes
     *   0 votes
-    *   4 (last comment by write\_measong 5 days ago)
+    *   4 (last comment by write\_measong 6 days ago)
 *   will pay for premium in exchange for blog archive
     *   by smilezx3
     *   1 week ago
@@ -34,13 +34,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Eugenia, please can you help me recover my blog?
     *   by xfaithxfayex
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Need Archive
     *   by cuteyp33
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
