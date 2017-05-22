@@ -13,7 +13,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Themes
     *   0 votes
-    *   4 (last comment by write\_measong 6 days ago)
+    *   4 (last comment by write\_measong 1 week ago)
 *   will pay for premium in exchange for blog archive
     *   by smilezx3
     *   1 week ago
@@ -82,13 +82,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by urm\_yea 3 weeks ago)
 *   ok uebrbgtkerjhioporekpolpk9o.
     *   by ha513
-    *   4 weeks ago
+    *   1 month ago
     *   in Usernames
     *   0 votes
     *   0
 *   ok uebrbgtkerjhioporekpolpk9o.
     *   by ha513
-    *   4 weeks ago
+    *   1 month ago
     *   in Usernames
     *   0 votes
     *   0
