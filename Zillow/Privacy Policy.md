@@ -89,7 +89,7 @@ Agent finder
     *   *   Agent advertising
         *   Agent resource center
         *   Join the Agent Directory
-        *   Premier Agent
+        *   Access agent hub
     *   *   Real estate marketing guide
         *   Agent email scripts
         *   Listing flyer templates
@@ -127,6 +127,7 @@ More
 *   Good Neighbor Policy
 *   Listings Quality Policy
 *   Listing Feed Terms of Use
+*   Instant Offer Terms of use
 
 Privacy Policy
 
