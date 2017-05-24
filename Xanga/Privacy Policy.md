@@ -28,7 +28,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   How to restore my old blog
     *   by x0\_unwanted\_x0
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -58,7 +58,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Find my past posts
     *   by MzZLaYzEe
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Miscellaenous
     *   0 votes
     *   0
@@ -76,7 +76,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Pls kindly retrieve my account
     *   by CCT\_and\_NTM
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by urm\_yea 3 weeks ago)
