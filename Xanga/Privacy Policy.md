@@ -76,7 +76,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Pls kindly retrieve my account
     *   by CCT\_and\_NTM
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by urm\_yea 4 weeks ago)
