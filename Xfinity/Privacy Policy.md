@@ -324,6 +324,7 @@ Shop
 *   Comcast Business
 *   Deals in My Area
 *   Bundles
+*   XFINITY Mobile
 
 About Comcast
 
