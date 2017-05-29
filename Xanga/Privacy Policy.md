@@ -8,12 +8,30 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   I want to activate my xanga for 2.0
+    *   by jarredorbagged89
+    *   2 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   I want to activate my xanga for 2.0
+    *   by jarredorbagged89
+    *   2 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Help retrieving old site
+    *   by Alice\_Incognito
+    *   11 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   How to see old posts
     *   \[Resolved\] by SparklinEyez509
     *   2 years ago
     *   in Themes
     *   0 votes
-    *   4 (last comment by write\_measong 1 week ago)
+    *   4 (last comment by write\_measong 2 weeks ago)
 *   will pay for premium in exchange for blog archive
     *   by smilezx3
     *   2 weeks ago
@@ -64,13 +82,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Please Recover Old Blog Posts
     *   by Madison321
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old blog missing
     *   by chustephen
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -80,24 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   1 (last comment by urm\_yea 1 month ago)
-*   ok uebrbgtkerjhioporekpolpk9o.
-    *   by ha513
-    *   1 month ago
-    *   in Usernames
-    *   0 votes
-    *   0
-*   ok uebrbgtkerjhioporekpolpk9o.
-    *   by ha513
-    *   1 month ago
-    *   in Usernames
-    *   0 votes
-    *   0
-*   i cannot see my old blog
-    *   by Cani\_Zares
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
 1 2 3 ... 182 Next
 
