@@ -19,6 +19,6 @@ When you visit our website, we, like most websites, send one or more cookiessm
 
 We may update or modify this Privacy Policy from time to time in the future. Any such updates or modifications shall be effective immediately upon their posting. Please refer back to this page often for the latest information.
 
-For information on policies related to the use of our software, see the _Mathematica_ Privacy Policy and _Mathematica Player_ Privacy Policy.
+For information on policies related to the use of our software, see our Legal portal.
 
 If you have any questions or concerns about this Privacy Policy, you may email us or contact us by U.S. mail at Wolfram Research, Inc., Attn: Legal Department, 100 Trade Center Drive, Champaign, IL 61820-7237, USA.
