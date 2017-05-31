@@ -217,8 +217,6 @@ Please note that this Privacy Policy does not apply to any third party sites or 
 
 Sharing with other users
 
-SoundCloud® is a very social place, but if you would prefer to browse the Website anonymously, you can do so by checking the Anonymous Listening box in the Account tab within your Settings on the Website. By checking this box, other users will not be able to see the sounds that you listened to, but we will still have access to this information.
-
 If any of your sounds contain any personal data or any other information which you would not like to share, you can control who has access to these sounds using the settings in the sound page (click on the pencil icon in the waveform player for the relevant sounds). By setting your sounds to “private”, rather than “public”, you can limit who has access to your sounds.
 
 Sharing with app developers
@@ -281,7 +279,7 @@ Don’t want to give us your information?
 
 If you decide that you do not want us to use your information in the manner described in the Privacy Policy (including our Cookies Policy), please do not use the Platform. If you have already registered an account, you can find out how to terminate or cancel your account here.
 
-**Last amended:** 17 May 2017
+**Last amended:** 30 May 2017
 
 Link to prior versions
 
