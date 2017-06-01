@@ -21,4 +21,4 @@ We may update or modify this Privacy Policy from time to time in the future. Any
 
 For information on policies related to the use of our software, see our Legal portal.
 
-If you have any questions or concerns about this Privacy Policy, you may email us or contact us by U.S. mail at Wolfram Research, Inc., Attn: Legal Department, 100 Trade Center Drive, Champaign, IL 61820-7237, USA.
+If you have any questions or concerns about this Privacy Policy, you may email us or contact us by US mail at Wolfram Research, Inc., Attn: Legal Department, 100 Trade Center Drive, Champaign, IL 61820-7237, USA.
