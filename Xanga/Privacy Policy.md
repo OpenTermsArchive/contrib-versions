@@ -8,33 +8,57 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Retrieve Old Account
+    *   \[Resolved\] by anoiFace
+    *   3 years ago
+    *   in Passwords &. Sign-In
+    *   0 votes
+    *   4 (last comment by BlueEyedDreamer86 10 hours ago)
+*   Can't find Old Username
+    *   by BlueEyedDreamer86
+    *   10 hours ago
+    *   in Usernames
+    *   0 votes
+    *   0
+*   Can't find Old Username
+    *   by BlueEyedDreamer86
+    *   10 hours ago
+    *   in Usernames
+    *   0 votes
+    *   0
+*   old archive retrieval
+    *   by trinitybandguyx2005
+    *   12 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Activate my xanga 2.0
     *   by evil\_amber
-    *   2 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve Archive Please
     *   by Sketchdoll
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   I want to activate my xanga for 2.0
-    *   by jarredorbagged89
     *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I want to activate my xanga for 2.0
     *   by jarredorbagged89
-    *   2 days ago
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   I want to activate my xanga for 2.0
+    *   by jarredorbagged89
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Help retrieving old site
     *   by Alice\_Incognito
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -71,30 +95,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 *   Need Archive
     *   by cuteyp33
     *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   help retrieve years worth of xanga entries
-    *   by fadingredembers
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   help retrieve years worth of xanga entries
-    *   by fadingredembers
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Find my past posts
-    *   by MzZLaYzEe
-    *   4 weeks ago
-    *   in Miscellaenous
-    *   0 votes
-    *   0
-*   Please Recover Old Blog Posts
-    *   by Madison321
-    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
