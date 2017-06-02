@@ -166,6 +166,7 @@ About Allstate
     *   Goods &. Services Purchased
     *   Supplier Diversity
     *   Process &. Expectations
+    *   Modern Slavery Act Statement
 *   Diversity expand
     *   Workforce Diversity
     *   Marketplace Diversity
