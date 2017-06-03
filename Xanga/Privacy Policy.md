@@ -10,25 +10,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   access to my archive
     *   by MeEsObUgGiE
-    *   11 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   please help me
     *   by fuhao0309
-    *   21 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   please help me
     *   by fuhao0309
-    *   21 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I want to activate my xanga for 2.0
     *   by kammyanka
-    *   23 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -37,52 +37,52 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   4 (last comment by BlueEyedDreamer86 1 day ago)
+    *   4 (last comment by BlueEyedDreamer86 2 days ago)
 *   Can't find Old Username
     *   by BlueEyedDreamer86
-    *   1 day ago
+    *   2 days ago
     *   in Usernames
     *   0 votes
     *   0
 *   Can't find Old Username
     *   by BlueEyedDreamer86
-    *   1 day ago
+    *   2 days ago
     *   in Usernames
     *   0 votes
     *   0
 *   old archive retrieval
     *   by trinitybandguyx2005
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Activate my xanga 2.0
     *   by evil\_amber
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve Archive Please
     *   by Sketchdoll
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   I want to activate my xanga for 2.0
-    *   by jarredorbagged89
     *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I want to activate my xanga for 2.0
     *   by jarredorbagged89
-    *   4 days ago
+    *   5 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   I want to activate my xanga for 2.0
+    *   by jarredorbagged89
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Help retrieving old site
     *   by Alice\_Incognito
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -94,7 +94,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 (last comment by write\_measong 2 weeks ago)
 *   will pay for premium in exchange for blog archive
     *   by smilezx3
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
