@@ -334,7 +334,7 @@ About Comcast
 *   Press Room
 *   Corporate Blog
 *   Corporate Site
-*   Cable Customer Agreement
+*   Customer Agreements &. Policies
 *   XFINITY Voice: Use of Personal Info
 *   Site Index
 
