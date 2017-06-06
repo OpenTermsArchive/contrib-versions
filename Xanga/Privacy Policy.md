@@ -10,37 +10,37 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Old journal
     *   by RoseWillow
-    *   3 hours ago
+    *   1 day ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Audio Files
     *   by supersinger412
-    *   5 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   access to my archive
     *   by MeEsObUgGiE
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   please help me
     *   by fuhao0309
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   please help me
     *   by fuhao0309
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I want to activate my xanga for 2.0
     *   by kammyanka
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -49,34 +49,34 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   4 (last comment by BlueEyedDreamer86 4 days ago)
+    *   4 (last comment by BlueEyedDreamer86 5 days ago)
 *   Can't find Old Username
     *   by BlueEyedDreamer86
-    *   4 days ago
+    *   5 days ago
     *   in Usernames
     *   0 votes
     *   0
 *   Can't find Old Username
     *   by BlueEyedDreamer86
-    *   4 days ago
+    *   5 days ago
     *   in Usernames
     *   0 votes
     *   0
 *   old archive retrieval
     *   by trinitybandguyx2005
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Activate my xanga 2.0
     *   by evil\_amber
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve Archive Please
     *   by Sketchdoll
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
