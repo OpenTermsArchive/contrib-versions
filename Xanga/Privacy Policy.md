@@ -8,39 +8,45 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Want to have archive
+    *   by ahyphyllis117
+    *   10 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Old journal
     *   by RoseWillow
-    *   1 day ago
+    *   2 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Audio Files
     *   by supersinger412
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   access to my archive
     *   by MeEsObUgGiE
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   please help me
     *   by fuhao0309
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   please help me
     *   by fuhao0309
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I want to activate my xanga for 2.0
     *   by kammyanka
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -49,28 +55,28 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   4 (last comment by BlueEyedDreamer86 5 days ago)
+    *   4 (last comment by BlueEyedDreamer86 6 days ago)
 *   Can't find Old Username
     *   by BlueEyedDreamer86
-    *   5 days ago
+    *   6 days ago
     *   in Usernames
     *   0 votes
     *   0
 *   Can't find Old Username
     *   by BlueEyedDreamer86
-    *   5 days ago
+    *   6 days ago
     *   in Usernames
     *   0 votes
     *   0
 *   old archive retrieval
     *   by trinitybandguyx2005
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Activate my xanga 2.0
     *   by evil\_amber
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -88,12 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   I want to activate my xanga for 2.0
     *   by jarredorbagged89
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Help retrieving old site
-    *   by Alice\_Incognito
     *   1 week ago
     *   in Data Migration
     *   0 votes
