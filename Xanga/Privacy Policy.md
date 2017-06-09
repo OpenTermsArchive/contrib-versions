@@ -8,45 +8,51 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   All Blogs and Photos GONE! :(
+    *   by BigRig37
+    *   11 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Want to have archive
     *   by ahyphyllis117
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old journal
     *   by RoseWillow
-    *   3 days ago
+    *   4 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Audio Files
     *   by supersinger412
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   access to my archive
     *   by MeEsObUgGiE
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   please help me
     *   by fuhao0309
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   please help me
     *   by fuhao0309
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I want to activate my xanga for 2.0
     *   by kammyanka
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -82,12 +88,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Retrieve Archive Please
     *   by Sketchdoll
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   I want to activate my xanga for 2.0
-    *   by jarredorbagged89
     *   1 week ago
     *   in Data Migration
     *   0 votes
