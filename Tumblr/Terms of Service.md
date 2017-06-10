@@ -1,4 +1,5 @@
-Terms of Service Last Modified: 2016-09-08 Tumblr is a U.S. company and subject only to U.S. laws and jurisdiction, so for the moment these Terms of Service (and any other terms, policies, or guidelines that we provide to you) are only available in English.
+Terms of Service Last Modified: 2016-09-08 June 7, 2017  
+Yahoo plans to sell its operating business, including Tumblr, to Verizon Communications Inc. and we anticipate the close to occur in June 2017. Upon the completion of this proposed transaction, Tumblr will be owned by a new Verizon-owned company called Yahoo Holdings, Inc. and these Terms of Service, which apply to your use of Tumblr, will be updated to reflect this change. Tumblr is a U.S. company and subject only to U.S. laws and jurisdiction, so for the moment these Terms of Service (and any other terms, policies, or guidelines that we provide to you) are only available in English.
 
 Hello! Welcome to Tumblr’s Terms of Service. Please read this carefully before using our site, services, or products. This is a contract between you and Tumblr. We've also included several annotations that aren't a part of the contract itself, but are intended to emphasize key sections and help you follow the text. We’ve tried to be fair and straightforward. Please feel free to contact us if you have any questions or suggestions!
 
