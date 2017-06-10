@@ -10,25 +10,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   All Blogs and Photos GONE! :(
     *   by BigRig37
-    *   11 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Want to have archive
     *   by ahyphyllis117
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old journal
     *   by RoseWillow
-    *   4 days ago
+    *   5 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Audio Files
     *   by supersinger412
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
