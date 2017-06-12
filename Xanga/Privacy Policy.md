@@ -10,31 +10,31 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   I would like to update to Xanga 2.0
     *   by ArmsAroundU4ever
-    *   6 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   All Blogs and Photos GONE! :(
     *   by BigRig37
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Want to have archive
     *   by ahyphyllis117
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old journal
     *   by RoseWillow
-    *   6 days ago
+    *   1 week ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Audio Files
     *   by supersinger412
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
