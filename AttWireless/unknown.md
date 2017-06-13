@@ -23,6 +23,7 @@ WIRELESS CUSTOMER AGREEMENT ("Agreement") Documents
 *   Other Charges Applicable to Wireless Services
 *   ►AT&T Next
 *   Privacy Notice For AT&T Next Installment Agreements
+*   Retail Installment Agreement
 *   Business
 *   Digital Life®
 *   DIRECTV
