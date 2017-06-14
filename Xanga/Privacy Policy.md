@@ -8,27 +8,27 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Can't remember password and email is old
-    *   by Stevek83
-    *   23 hours ago
-    *   in Emails
-    *   0 votes
-    *   0
 *   I would like to update to Xanga 2.0
     *   by ArmsAroundU4ever
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
+    *   0 votes
+    *   1 (last comment by philip\_wong852 11 hours ago)
+*   Can't remember password and email is old
+    *   by Stevek83
+    *   1 day ago
+    *   in Emails
     *   0 votes
     *   0
 *   All Blogs and Photos GONE! :(
     *   by BigRig37
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Want to have archive
     *   by ahyphyllis117
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -94,7 +94,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Activate my xanga 2.0
     *   by evil\_amber
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
