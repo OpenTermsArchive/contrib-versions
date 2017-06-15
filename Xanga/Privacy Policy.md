@@ -10,19 +10,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   I would like to update to Xanga 2.0
     *   by ArmsAroundU4ever
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by philip\_wong852 11 hours ago)
+    *   1 (last comment by philip\_wong852 1 day ago)
 *   Can't remember password and email is old
     *   by Stevek83
-    *   1 day ago
+    *   2 days ago
     *   in Emails
     *   0 votes
     *   0
 *   All Blogs and Photos GONE! :(
     *   by BigRig37
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -73,22 +73,22 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   4 (last comment by BlueEyedDreamer86 1 week ago)
+    *   4 (last comment by BlueEyedDreamer86 2 weeks ago)
 *   Can't find Old Username
     *   by BlueEyedDreamer86
-    *   1 week ago
+    *   2 weeks ago
     *   in Usernames
     *   0 votes
     *   0
 *   Can't find Old Username
     *   by BlueEyedDreamer86
-    *   1 week ago
+    *   2 weeks ago
     *   in Usernames
     *   0 votes
     *   0
 *   old archive retrieval
     *   by trinitybandguyx2005
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
