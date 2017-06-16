@@ -179,4 +179,4 @@ The Terms may be modified from time to time. The date of the most recent revisio
 
 Contact
 
-We welcome all questions, concerns, and feedback you might have about these terms. If you have suggestions for us, let us know at support@ spideroak.com.
+We welcome all questions, concerns, and feedback you might have about these terms. If you have suggestions for us, please contact our customer success team.
