@@ -8,21 +8,27 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   I would like to update to Xanga 2.0
-    *   by ArmsAroundU4ever
-    *   4 days ago
+*   Where is my old Xanga?
+    *   by laura\_hamby\_photos
+    *   3 hours ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by philip\_wong852 1 day ago)
+    *   0
+*   I would like to update to Xanga 2.0
+    *   by ArmsAroundU4ever
+    *   5 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by philip\_wong852 2 days ago)
 *   Can't remember password and email is old
     *   by Stevek83
-    *   2 days ago
+    *   3 days ago
     *   in Emails
     *   0 votes
     *   0
 *   All Blogs and Photos GONE! :(
     *   by BigRig37
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -46,25 +52,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   access to my archive
     *   by MeEsObUgGiE
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   please help me
     *   by fuhao0309
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   please help me
     *   by fuhao0309
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I want to activate my xanga for 2.0
     *   by kammyanka
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -88,12 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   old archive retrieval
     *   by trinitybandguyx2005
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Activate my xanga 2.0
-    *   by evil\_amber
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
