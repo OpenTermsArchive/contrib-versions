@@ -31,11 +31,11 @@ How We Disclose Your Information
 
 We share your personally identifiable information only in the limited circumstances below. SpiderOak never sells your information or shares it with third-party advertisers.
 
-With your permission. We may share you information with your consent, after letting you know what information will be shared and with whom.
+With your permission. We may share your information with your consent, after letting you know what information will be shared and with whom.
 
 In response to the law. We may disclose your information if we believe it is reasonably necessary to comply with a law, regulation, or valid legal process. If we are going to release your information, our policy is to provide you with notice unless we are prohibited from doing so by law or court order (e.g., an order under 18 U.S.C. § 2705(b)). We may disclose your information without giving you prior notice if we believe it’s necessary to prevent imminent and serious bodily harm to a person. Nothing in this policy is intended to limit any legal objections or defenses you might have to demands to compel disclosure of your information, including demands from the government.
 
-With third parties helping us provide SpiderOak. We may share you information with third-party services helping us provide our products and services. Those third parties access and use the information we share with them only on our behalf. They include Stripe, PayPal, ZenDesk, and Base CRM. Please note that this Privacy Policy explains SpiderOak’s practices only, and doesn’t cover the practices of other services. Take a look at those companies’ privacy policies to learn more about their data practices.
+With third parties helping us provide SpiderOak. We may share your information with third-party services helping us provide our products and services. Those third parties access and use the information we share with them only on our behalf. They include Stripe, PayPal, ZenDesk, and Base CRM. Please note that this Privacy Policy explains SpiderOak’s practices only, and doesn’t cover the practices of other services. Take a look at those companies’ privacy policies to learn more about their data practices.
 
 With Groups, Enterprise Backup, and Semaphor admins. If you use our Groups, Enterprise Backup, or Semaphor products, your administrator may be able to access and control your account. Refer to your organization’s internal policies for more information.
 
