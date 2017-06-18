@@ -10,19 +10,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Where is my old Xanga?
     *   by laura\_hamby\_photos
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I would like to update to Xanga 2.0
     *   by ArmsAroundU4ever
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by philip\_wong852 3 days ago)
+    *   1 (last comment by philip\_wong852 4 days ago)
 *   Can't remember password and email is old
     *   by Stevek83
-    *   4 days ago
+    *   5 days ago
     *   in Emails
     *   0 votes
     *   0
