@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Where is my old Xanga?
     *   by laura\_hamby\_photos
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,10 +19,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by philip\_wong852 4 days ago)
+    *   1 (last comment by philip\_wong852 5 days ago)
 *   Can't remember password and email is old
     *   by Stevek83
-    *   5 days ago
+    *   6 days ago
     *   in Emails
     *   0 votes
     *   0
@@ -40,13 +40,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Old journal
     *   by RoseWillow
-    *   1 week ago
+    *   2 weeks ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Audio Files
     *   by supersinger412
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
