@@ -107,13 +107,6 @@ Home design
     *   *   Contemporary
         *   Traditional
         *   Modern
-*   Popular Features
-    *   *   Wallpaper
-        *   Chandelier
-        *   Kitchen Cabinets
-    *   *   Patio Furniture
-        *   Bathroom Vanities
-        *   Area Rugs
 
 More
 
