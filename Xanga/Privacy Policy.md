@@ -8,9 +8,15 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   This is a long shot but I'll try...
+    *   by CloudStrife253
+    *   2 hours ago
+    *   in Passwords &. Sign-In
+    *   0 votes
+    *   0
 *   Where is my old Xanga?
     *   by laura\_hamby\_photos
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,7 +25,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by philip\_wong852 6 days ago)
+    *   1 (last comment by philip\_wong852 1 week ago)
 *   Can't remember password and email is old
     *   by Stevek83
     *   1 week ago
@@ -34,7 +40,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Want to have archive
     *   by ahyphyllis117
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -90,12 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by BlueEyedDreamer86
     *   2 weeks ago
     *   in Usernames
-    *   0 votes
-    *   0
-*   old archive retrieval
-    *   by trinitybandguyx2005
-    *   2 weeks ago
-    *   in Data Migration
     *   0 votes
     *   0
 
