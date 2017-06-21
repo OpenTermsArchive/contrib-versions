@@ -675,7 +675,7 @@ For more information about what is collected in Basic data, click here (English 
 *   Additional data about the device, connectivity and configuration, beyond that collected at Basic.
 *   Status and logging information about the health of operating system and other system components (in addition to data about the update and diagnostics systems collected at Basic).
 *   App usage, such as which programs are launched on a device, how long they run, and how quickly they respond to input.
-*   Browser usage, including browser history and search terms, on Microsoft browsers.
+*   Browser usage, including browsing history and search terms, on Microsoft browsers, such as Microsoft Edge or Internet Explorer.
 *   Small samples of inking and typing input, which is processed to remove identifiers, sequencing information, and other data (such as names, email addresses, and numeric values) which could be used to reconstruct the original content or associate the input to the user. This data is never used for Tailored experiences as described below.
 *   Enhanced error reporting, including the memory state of the device when a system or app crash occurs (which may unintentionally contain user content, such as parts of a file you were using when the problem occurred). Crash data is never used for Tailored experiences as described below.
 
