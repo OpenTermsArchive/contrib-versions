@@ -10,13 +10,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   This is a long shot but I'll try...
     *   by CloudStrife253
-    *   2 hours ago
+    *   1 day ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Where is my old Xanga?
     *   by laura\_hamby\_photos
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -85,16 +85,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   4 (last comment by BlueEyedDreamer86 2 weeks ago)
+    *   4 (last comment by BlueEyedDreamer86 3 weeks ago)
 *   Can't find Old Username
     *   by BlueEyedDreamer86
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Usernames
     *   0 votes
     *   0
 *   Can't find Old Username
     *   by BlueEyedDreamer86
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Usernames
     *   0 votes
     *   0
