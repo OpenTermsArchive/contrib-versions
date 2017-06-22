@@ -287,56 +287,7 @@ You can find customer support and help information at http://customer.xfinity.co
 
 Revised and Effective: October 7, 2011
 
-I Want To
-
-*   View &. Pay Bill
-*   Check Email &. Voicemail
-*   Manage My Account
-*   Check TV Listings
-*   Watch TV Online
-*   Contact Customer Support
-*   Get Apps
-*   Check Local News &. Weather
-*   Manage Parental Controls
-*   Download Norton Security
-*   Manage Users &. Alerts
-*   Reset My Password
-*   Find My Account Number
-*   Monitor Home Security &. Automation
-*   Purchase Accessories
-*   Upgrade My Service
-*   Find My Comcast ID
-*   Get Help &. Support
-*   Program My Remote
-*   Submit Feedback
-*   Find an XFINITY Store
-*   Move My Services
-*   Manage My WiFi On Demand Account
-
-Shop
-
-*   Deals &. Offers
-*   TV
-*   Internet
-*   Voice
-*   Home Security &. Automation
-*   Compare the Competition
-*   Comcast Business
-*   Deals in My Area
-*   Bundles
-*   XFINITY Mobile
-
-About Comcast
-
-*   About Comcast
-*   Advertise with Us
-*   Careers
-*   Press Room
-*   Corporate Blog
-*   Corporate Site
-*   Customer Agreements &. Policies
-*   XFINITY Voice: Use of Personal Info
-*   Site Index
+Comcast
 
 *   Ad Choices
 *   Web Privacy Policy
