@@ -8,9 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Is xanga no longer free?
+    *   \[Resolved\] by WC6F20
+    *   3 years ago
+    *   in Privacy
+    *   0 votes
+    *   2 (last comment by sora178 57 minutes ago)
+*   How to see old posts
+    *   \[Resolved\] by SparklinEyez509
+    *   2 years ago
+    *   in Themes
+    *   0 votes
+    *   5 (last comment by barbiegurl42788 11 hours ago)
 *   This is a long shot but I'll try...
     *   by CloudStrife253
-    *   2 days ago
+    *   3 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -86,18 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Passwords &. Sign-In
     *   0 votes
     *   4 (last comment by BlueEyedDreamer86 3 weeks ago)
-*   Can't find Old Username
-    *   by BlueEyedDreamer86
-    *   3 weeks ago
-    *   in Usernames
-    *   0 votes
-    *   0
-*   Can't find Old Username
-    *   by BlueEyedDreamer86
-    *   3 weeks ago
-    *   in Usernames
-    *   0 votes
-    *   0
 
 1 2 3 ... 183 Next
 
