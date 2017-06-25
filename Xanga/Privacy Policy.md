@@ -13,16 +13,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Privacy
     *   0 votes
-    *   2 (last comment by sora178 57 minutes ago)
+    *   2 (last comment by sora178 1 day ago)
 *   How to see old posts
     *   \[Resolved\] by SparklinEyez509
     *   2 years ago
     *   in Themes
     *   0 votes
-    *   5 (last comment by barbiegurl42788 11 hours ago)
+    *   5 (last comment by barbiegurl42788 1 day ago)
 *   This is a long shot but I'll try...
     *   by CloudStrife253
-    *   3 days ago
+    *   4 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -34,7 +34,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   I would like to update to Xanga 2.0
     *   by ArmsAroundU4ever
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by philip\_wong852 1 week ago)
