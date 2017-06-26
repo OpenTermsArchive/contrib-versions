@@ -8,21 +8,33 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Retrieve Old Account
+    *   \[Resolved\] by anoiFace
+    *   3 years ago
+    *   in Passwords &. Sign-In
+    *   0 votes
+    *   5 (last comment by megan\_val09 14 hours ago)
+*   How do I download an archive of my old blog?
+    *   \[Resolved\] by thibault
+    *   2 years ago
+    *   in Data Migration
+    *   0 votes
+    *   33 (last comment by megan\_val09 14 hours ago)
 *   Is xanga no longer free?
     *   \[Resolved\] by WC6F20
     *   3 years ago
     *   in Privacy
     *   0 votes
-    *   2 (last comment by sora178 1 day ago)
+    *   2 (last comment by sora178 2 days ago)
 *   How to see old posts
     *   \[Resolved\] by SparklinEyez509
     *   2 years ago
     *   in Themes
     *   0 votes
-    *   5 (last comment by barbiegurl42788 1 day ago)
+    *   5 (last comment by barbiegurl42788 2 days ago)
 *   This is a long shot but I'll try...
     *   by CloudStrife253
-    *   4 days ago
+    *   5 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -58,13 +70,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Old journal
     *   by RoseWillow
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Audio Files
     *   by supersinger412
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -86,18 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   I want to activate my xanga for 2.0
-    *   by kammyanka
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Retrieve Old Account
-    *   \[Resolved\] by anoiFace
-    *   3 years ago
-    *   in Passwords &. Sign-In
-    *   0 votes
-    *   4 (last comment by BlueEyedDreamer86 3 weeks ago)
 
 1 2 3 ... 183 Next
 
