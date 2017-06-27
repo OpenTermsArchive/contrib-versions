@@ -166,6 +166,7 @@ About Allstate
     *   Goods &. Services Purchased
     *   Supplier Diversity
     *   Process &. Expectations
+    *   Modern Slavery Act Statement
 *   Diversity expand
     *   Workforce Diversity
     *   Marketplace Diversity
@@ -450,12 +451,17 @@ Connect With Us
 *   Underwriting Companies
 *   Ad Choices
 
-Oops! You have entered an invalid ZIP. Please, try again. Location data not available. Please enter zip code. ZIP Code: Cancel  
-Use My Current Location City, State
+Not Your ZIP Code? Update Below.
+
+ZIP Code
+
+  
+
+City, State
 
 DENVER, CO
 
-Please Wait...Updating Location...  
+Oops! You have entered an invalid ZIP. Please try again. Location data not available. Please enter zip code. Please Wait...Updating Location...  
 It's taking a bit longer than expected. Your update should be done soon. This feature is not currently available.  
 Please try again later.  
 ECC Monitor: OK
