@@ -13,25 +13,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   5 (last comment by megan\_val09 3 days ago)
+    *   5 (last comment by megan\_val09 4 days ago)
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   33 (last comment by megan\_val09 3 days ago)
+    *   33 (last comment by megan\_val09 4 days ago)
 *   Is xanga no longer free?
     *   \[Resolved\] by WC6F20
     *   3 years ago
     *   in Privacy
     *   0 votes
-    *   2 (last comment by sora178 5 days ago)
+    *   2 (last comment by sora178 6 days ago)
 *   How to see old posts
     *   \[Resolved\] by SparklinEyez509
     *   2 years ago
     *   in Themes
     *   0 votes
-    *   5 (last comment by barbiegurl42788 5 days ago)
+    *   5 (last comment by barbiegurl42788 6 days ago)
 *   This is a long shot but I'll try...
     *   by CloudStrife253
     *   1 week ago
@@ -40,7 +40,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Where is my old Xanga?
     *   by laura\_hamby\_photos
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -58,7 +58,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   All Blogs and Photos GONE! :(
     *   by BigRig37
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -82,19 +82,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   access to my archive
     *   by MeEsObUgGiE
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   please help me
     *   by fuhao0309
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   please help me
     *   by fuhao0309
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
