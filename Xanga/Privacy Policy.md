@@ -13,25 +13,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   5 (last comment by megan\_val09 4 days ago)
+    *   5 (last comment by megan\_val09 5 days ago)
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   33 (last comment by megan\_val09 4 days ago)
+    *   33 (last comment by megan\_val09 5 days ago)
 *   Is xanga no longer free?
     *   \[Resolved\] by WC6F20
     *   3 years ago
     *   in Privacy
     *   0 votes
-    *   2 (last comment by sora178 6 days ago)
+    *   2 (last comment by sora178 1 week ago)
 *   How to see old posts
     *   \[Resolved\] by SparklinEyez509
     *   2 years ago
     *   in Themes
     *   0 votes
-    *   5 (last comment by barbiegurl42788 6 days ago)
+    *   5 (last comment by barbiegurl42788 1 week ago)
 *   This is a long shot but I'll try...
     *   by CloudStrife253
     *   1 week ago
