@@ -13,13 +13,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   5 (last comment by megan\_val09 6 days ago)
+    *   5 (last comment by megan\_val09 1 week ago)
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   33 (last comment by megan\_val09 6 days ago)
+    *   33 (last comment by megan\_val09 1 week ago)
 *   Is xanga no longer free?
     *   \[Resolved\] by WC6F20
     *   3 years ago
@@ -70,13 +70,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Old journal
     *   by RoseWillow
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Audio Files
     *   by supersinger412
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
