@@ -52,7 +52,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by philip\_wong852 2 weeks ago)
 *   Can't remember password and email is old
     *   by Stevek83
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Emails
     *   0 votes
     *   0
