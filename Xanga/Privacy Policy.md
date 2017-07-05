@@ -34,7 +34,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 (last comment by barbiegurl42788 1 week ago)
 *   This is a long shot but I'll try...
     *   by CloudStrife253
-    *   1 week ago
+    *   2 weeks ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -49,7 +49,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by philip\_wong852 2 weeks ago)
+    *   1 (last comment by philip\_wong852 3 weeks ago)
 *   Can't remember password and email is old
     *   by Stevek83
     *   3 weeks ago
@@ -64,19 +64,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Want to have archive
     *   by ahyphyllis117
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old journal
     *   by RoseWillow
-    *   4 weeks ago
+    *   1 month ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Audio Files
     *   by supersinger412
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
