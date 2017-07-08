@@ -13,7 +13,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   34 (last comment by myotismuttering 23 hours ago)
+    *   34 (last comment by myotismuttering 1 day ago)
 *   Retrieve Old Account
     *   \[Resolved\] by anoiFace
     *   3 years ago
@@ -25,13 +25,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Privacy
     *   0 votes
-    *   2 (last comment by sora178 1 week ago)
+    *   2 (last comment by sora178 2 weeks ago)
 *   How to see old posts
     *   \[Resolved\] by SparklinEyez509
     *   2 years ago
     *   in Themes
     *   0 votes
-    *   5 (last comment by barbiegurl42788 1 week ago)
+    *   5 (last comment by barbiegurl42788 2 weeks ago)
 *   This is a long shot but I'll try...
     *   by CloudStrife253
     *   2 weeks ago
