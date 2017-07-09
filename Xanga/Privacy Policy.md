@@ -13,7 +13,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   34 (last comment by myotismuttering 1 day ago)
+    *   34 (last comment by myotismuttering 2 days ago)
 *   Retrieve Old Account
     *   \[Resolved\] by anoiFace
     *   3 years ago
@@ -46,7 +46,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   I would like to update to Xanga 2.0
     *   by ArmsAroundU4ever
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by philip\_wong852 3 weeks ago)
@@ -58,7 +58,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   All Blogs and Photos GONE! :(
     *   by BigRig37
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
