@@ -13,13 +13,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   34 (last comment by myotismuttering 2 days ago)
+    *   34 (last comment by myotismuttering 3 days ago)
 *   Retrieve Old Account
     *   \[Resolved\] by anoiFace
     *   3 years ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   5 (last comment by megan\_val09 1 week ago)
+    *   5 (last comment by megan\_val09 2 weeks ago)
 *   Is xanga no longer free?
     *   \[Resolved\] by WC6F20
     *   3 years ago
