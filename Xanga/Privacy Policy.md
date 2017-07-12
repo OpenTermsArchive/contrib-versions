@@ -13,7 +13,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   34 (last comment by myotismuttering 4 days ago)
+    *   34 (last comment by myotismuttering 5 days ago)
 *   Retrieve Old Account
     *   \[Resolved\] by anoiFace
     *   3 years ago
@@ -34,7 +34,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 (last comment by barbiegurl42788 2 weeks ago)
 *   This is a long shot but I'll try...
     *   by CloudStrife253
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -49,7 +49,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by philip\_wong852 3 weeks ago)
+    *   1 (last comment by philip\_wong852 4 weeks ago)
 *   Can't remember password and email is old
     *   by Stevek83
     *   4 weeks ago
