@@ -8,12 +8,18 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   I would like to update to Xanga 2.0
+    *   by ArmsAroundU4ever
+    *   1 month ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by sharon12034 20 hours ago)
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   34 (last comment by myotismuttering 5 days ago)
+    *   34 (last comment by myotismuttering 6 days ago)
 *   Retrieve Old Account
     *   \[Resolved\] by anoiFace
     *   3 years ago
@@ -44,15 +50,9 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   I would like to update to Xanga 2.0
-    *   by ArmsAroundU4ever
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by philip\_wong852 4 weeks ago)
 *   Can't remember password and email is old
     *   by Stevek83
-    *   4 weeks ago
+    *   1 month ago
     *   in Emails
     *   0 votes
     *   0
