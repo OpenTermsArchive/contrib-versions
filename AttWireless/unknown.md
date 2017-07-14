@@ -4,11 +4,11 @@ WIRELESS CUSTOMER AGREEMENT ("Agreement") Documents
 *   General Policies
 *   ► Wireless
 *   Wireless Customer Agreement
-*   ► Customer Agreement and Plans - GoPhone®
-*   Terms of Service - GoPhone®
-*   Plan Terms - GoPhone®
-*   GoPhone AutoPay Terms for customers enrolled effective 4/24/17
-*   GoPhone AutoPay Terms for customers enrolled prior to 4/24/17
+*   ► Customer Agreement and Plans - AT&T PREPAID℠
+*   Terms of Service - AT&T PREPAID℠
+*   Plan Terms - AT&T PREPAID℠
+*   AT&T PREPAID℠ AutoPay Terms for customers enrolled effective 4/24/17
+*   AT&T PREPAID℠ AutoPay Terms for customers enrolled prior to 4/24/17
 *   Data Services Agreement
 *   Applications, Services, and Features
 *   ► Policies and Processes
