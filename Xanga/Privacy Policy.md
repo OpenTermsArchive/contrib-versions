@@ -13,7 +13,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by sharon12034 1 day ago)
+    *   2 (last comment by sharon12034 2 days ago)
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   2 years ago
@@ -31,13 +31,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Privacy
     *   0 votes
-    *   2 (last comment by sora178 2 weeks ago)
+    *   2 (last comment by sora178 3 weeks ago)
 *   How to see old posts
     *   \[Resolved\] by SparklinEyez509
     *   2 years ago
     *   in Themes
     *   0 votes
-    *   5 (last comment by barbiegurl42788 2 weeks ago)
+    *   5 (last comment by barbiegurl42788 3 weeks ago)
 *   This is a long shot but I'll try...
     *   by CloudStrife253
     *   3 weeks ago
