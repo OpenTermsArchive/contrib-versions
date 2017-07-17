@@ -110,13 +110,13 @@ Toggle navigation Log in Search Close Navigation
         *   Event
         *   Landlord
         *   Retirement &. Investments
-        *   Supplemental &. Health
+        *   Voluntary Employee Benefits
         *   My Offers
 *   Claims
     *   Overview
     *   File A Claim
     *   Track A Claim
-    *   Disaster Claims
+    *   Catastrophe Claims
 *   Tools &. Resources
     *   Welcome
     *   Auto
