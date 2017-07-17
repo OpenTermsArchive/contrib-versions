@@ -13,19 +13,31 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by sharon12034 3 days ago)
+    *   3 (last comment by NakedShawna 13 hours ago)
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   34 (last comment by myotismuttering 1 week ago)
+    *   35 (last comment by NakedShawna 13 hours ago)
+*   Precious photos!!!!
+    *   by shorty9564
+    *   1 year ago
+    *   in Pictures
+    *   0 votes
+    *   2 (last comment by tyli1122 18 hours ago)
+*   please help me find my old Xanga photos
+    *   by tyli1122
+    *   18 hours ago
+    *   in Pictures
+    *   0 votes
+    *   0
 *   Retrieve Old Account
     *   \[Resolved\] by anoiFace
     *   3 years ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   5 (last comment by megan\_val09 2 weeks ago)
+    *   5 (last comment by megan\_val09 3 weeks ago)
 *   Is xanga no longer free?
     *   \[Resolved\] by WC6F20
     *   3 years ago
@@ -82,18 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   access to my archive
     *   by MeEsObUgGiE
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   please help me
-    *   by fuhao0309
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   please help me
-    *   by fuhao0309
     *   1 month ago
     *   in Data Migration
     *   0 votes
