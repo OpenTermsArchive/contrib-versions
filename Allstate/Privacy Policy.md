@@ -148,13 +148,8 @@ Forgot user ID Forgot password Register new account
 *   Contact Us
 *   Español
 
-About Allstate
-
 *   About Allstate
-    
-    expand
-
-*   Company Overview expand
+*   About Allstate
     *   General Information
     *   Financial and Other Reports
     *   History and Timeline
@@ -162,12 +157,12 @@ About Allstate
     *   Board of Directors
     *   Corporate Advocacy
 *   The Agent Difference
-*   Doing Business with Allstate expand
+*   Doing Business with Allstate
     *   Goods &. Services Purchased
     *   Supplier Diversity
     *   Process &. Expectations
     *   Modern Slavery Act Statement
-*   Diversity expand
+*   Diversity
     *   Workforce Diversity
     *   Marketplace Diversity
     *   Community Diversity
@@ -175,15 +170,18 @@ About Allstate
     *   Employee Resource Groups
     *   Events &. Initiatives
 *   Military Support
-*   Sponsorships expand
+*   Sponsorships
     *   College Football
     *   NCAA
     *   Soccer
-*   Advertising expand
+*   Advertising
     *   Mayhem
 *   Allstate Affiliate Program
 
-Home >. Allstate Overview >. Privacy Statement AIC Share allstate.com Find An Agent Close
+2.  About Allstate
+3.  Privacy Statement
+
+Find An Agent Close
 
 Agents near 80201
 
@@ -205,7 +203,9 @@ Retrieve a saved quote
 
 Smart Search   Try Smart Search An intelligent search tool to help you find the info you're looking for. Try it now <. Start Over Welcome to Smart Search Quickly locate tools, tips, resources, insurance information and more. For example: car insurance tips or common claims Popular Searches
 
-﻿Important Notice Privacy Policy Statement
+﻿Important Notice
+
+Privacy Policy Statement En Español Download
 
   
   
@@ -413,6 +413,12 @@ Please note that Allstate's "do not call" list is limited only to telephone soli
   
 **For Vermont residents:**  
 We won't share your personal information with Allstate companies for marketing purposes except as allowed by Vermont law.
+
+Share this page
+
+allstate.com
+
+Top
 
 80201 Edit Location
 
