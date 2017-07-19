@@ -8,27 +8,33 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Archive
+    *   by kristah00
+    *   4 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   I would like to update to Xanga 2.0
     *   by ArmsAroundU4ever
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by NakedShawna 1 day ago)
+    *   3 (last comment by NakedShawna 2 days ago)
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   35 (last comment by NakedShawna 1 day ago)
+    *   35 (last comment by NakedShawna 2 days ago)
 *   Precious photos!!!!
     *   by shorty9564
     *   1 year ago
     *   in Pictures
     *   0 votes
-    *   2 (last comment by tyli1122 1 day ago)
+    *   2 (last comment by tyli1122 2 days ago)
 *   please help me find my old Xanga photos
     *   by tyli1122
-    *   1 day ago
+    *   2 days ago
     *   in Pictures
     *   0 votes
     *   0
@@ -52,7 +58,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 (last comment by barbiegurl42788 3 weeks ago)
 *   This is a long shot but I'll try...
     *   by CloudStrife253
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -88,12 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Audio Files
     *   by supersinger412
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   access to my archive
-    *   by MeEsObUgGiE
     *   1 month ago
     *   in Data Migration
     *   0 votes
