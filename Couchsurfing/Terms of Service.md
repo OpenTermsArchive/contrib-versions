@@ -1,6 +1,6 @@
 Terms of Use
 
-Last updated: 18 November 2014
+Last updated: 19 July 2017
 
 **PLEASE READ THESE TERMS OF USE CAREFULLY. BY REGISTERING FOR AN ACCOUNT OR BY ACCESSING OR USING THE SERVICES, YOU AGREE TO BE BOUND BY THESE TERMS OF USE AND ALL TERMS INCORPORATED BY REFERENCE. IF YOU DO NOT AGREE TO ALL OF THESE TERMS, DO NOT ACCESS OR USE THE SERVICES.**
 
@@ -145,6 +145,12 @@ In rare circumstances, when we feel it is necessary to protect the safety or the
 DISCONTINUANCE OF SERVICES
 
 We may, in our discretion and without liability to you, with or without prior notice and at any time, modify or discontinue, temporarily or permanently, any portion of our Services.
+
+PRICE CHANGES
+
+We reserve the right to adjust pricing for our service in any manner and at any time as we may determine in our sole discretion. Price changes related to Couchsurfing Verification will not affect members that have purchased a lifetime subscription.
+
+Paid Subscriptions automatically renew until cancelled. We will notify you if the price of a recurring subscription increases and seek your consent to continue before renewal.
 
 MEMBER’S REPRESENTATIONS AND WARRANTIES
 
