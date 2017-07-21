@@ -7,7 +7,7 @@
 *   bosanski
 *   català
 *   нохчийн
-*   کوردیی ناوەندی
+*   کوردی
 *   čeština
 *   català
 *   Cymraeg
