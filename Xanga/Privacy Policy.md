@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Archive
     *   by kristah00
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,22 +19,22 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by NakedShawna 4 days ago)
+    *   3 (last comment by NakedShawna 5 days ago)
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   35 (last comment by NakedShawna 4 days ago)
+    *   35 (last comment by NakedShawna 5 days ago)
 *   Precious photos!!!!
     *   by shorty9564
     *   1 year ago
     *   in Pictures
     *   0 votes
-    *   2 (last comment by tyli1122 4 days ago)
+    *   2 (last comment by tyli1122 5 days ago)
 *   please help me find my old Xanga photos
     *   by tyli1122
-    *   4 days ago
+    *   5 days ago
     *   in Pictures
     *   0 votes
     *   0
@@ -49,13 +49,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Privacy
     *   0 votes
-    *   2 (last comment by sora178 3 weeks ago)
+    *   2 (last comment by sora178 4 weeks ago)
 *   How to see old posts
     *   \[Resolved\] by SparklinEyez509
     *   2 years ago
     *   in Themes
     *   0 votes
-    *   5 (last comment by barbiegurl42788 3 weeks ago)
+    *   5 (last comment by barbiegurl42788 4 weeks ago)
 *   This is a long shot but I'll try...
     *   by CloudStrife253
     *   1 month ago
