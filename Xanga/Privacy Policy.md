@@ -10,31 +10,31 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Archive
     *   by kristah00
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   0
+    *   1 (last comment by SuiciDalSnYpER 7 minutes ago)
 *   I would like to update to Xanga 2.0
     *   by ArmsAroundU4ever
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by NakedShawna 6 days ago)
+    *   3 (last comment by NakedShawna 1 week ago)
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   35 (last comment by NakedShawna 6 days ago)
+    *   35 (last comment by NakedShawna 1 week ago)
 *   Precious photos!!!!
     *   by shorty9564
     *   1 year ago
     *   in Pictures
     *   0 votes
-    *   2 (last comment by tyli1122 6 days ago)
+    *   2 (last comment by tyli1122 1 week ago)
 *   please help me find my old Xanga photos
     *   by tyli1122
-    *   6 days ago
+    *   1 week ago
     *   in Pictures
     *   0 votes
     *   0
@@ -43,19 +43,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   5 (last comment by megan\_val09 3 weeks ago)
+    *   5 (last comment by megan\_val09 4 weeks ago)
 *   Is xanga no longer free?
     *   \[Resolved\] by WC6F20
     *   3 years ago
     *   in Privacy
     *   0 votes
-    *   2 (last comment by sora178 4 weeks ago)
+    *   2 (last comment by sora178 1 month ago)
 *   How to see old posts
     *   \[Resolved\] by SparklinEyez509
     *   2 years ago
     *   in Themes
     *   0 votes
-    *   5 (last comment by barbiegurl42788 4 weeks ago)
+    *   5 (last comment by barbiegurl42788 1 month ago)
 *   This is a long shot but I'll try...
     *   by CloudStrife253
     *   1 month ago
