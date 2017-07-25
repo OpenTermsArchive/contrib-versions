@@ -10,10 +10,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Archive
     *   by kristah00
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by SuiciDalSnYpER 7 minutes ago)
+    *   1 (last comment by SuiciDalSnYpER 1 day ago)
 *   I would like to update to Xanga 2.0
     *   by ArmsAroundU4ever
     *   1 month ago
