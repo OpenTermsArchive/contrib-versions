@@ -20,7 +20,7 @@ For your convenience, information relating to our use of cookies and similar tec
 
 Please take some time to read this Privacy Policy (including the Cookies Policy), and make sure you are happy with our use and disclosure of your information.
 
-**If you do not agree to any of the provisions of this Privacy Policy, you should not use the Website, the Apps or any of the Services**. If you have any questions or concerns, you can contact us at privacy@soundcloud.com.
+**If you do not agree to any of the provisions of this Privacy Policy, you should not use the Website, the Apps or any of the Services**. If you have any questions or concerns, you can contact us via our Help Center.
 
 Please note that this Privacy Policy only applies to the Website, the Apps and the Services (together, the “**Platform**”). When using the Platform, you may find links to other websites, apps and services, or tools that enable you to share information with other websites, apps and services. SoundCloud is not responsible for the privacy practices of these other websites, apps and services and we recommend that you review the privacy policies of each of these websites, apps or services before connecting your SoundCloud® account or sharing any personal data.
 
@@ -30,7 +30,7 @@ We have a pretty simple approach to data protection and privacy, which can be su
 
 You should know exactly what we do with your information
 
-This Privacy Policy is designed to give you full transparency regarding our data protection practices. If there’s anything that’s not clear from this Privacy Policy, please feel free to email us at privacy@soundcloud.com.
+This Privacy Policy is designed to give you full transparency regarding our data protection practices. If there’s anything that’s not clear from this Privacy Policy, please feel free to contact us via our Help Center.
 
 You should have full control over your information
 
@@ -97,7 +97,7 @@ SoundCloud allows you to sign up and log in using your Facebook account. If you 
 
 This information is collected by Facebook and is provided to us under the terms of Facebook’s privacy policy. You can control the information that we receive from Facebook using the privacy settings in your Facebook account.
 
-If you sign up to SoundCloud® using Facebook, your SoundCloud® account will be connected automatically to your Facebook account, and information regarding your activity on SoundCloud®, specifically any new public sounds that you post on SoundCloud® and any new favourites, will be shared with Facebook and will be published in your timeline and your Facebook friends’ newsfeeds. If you do not wish to share your SoundCloud® activity with your Facebook friends, you can control this from the Settings page on the Website – for more information, see the Choice and Control section below. If you signed up using Facebook by mistake, you can delete your account from the Account page within your Settings at any time, or you can email us at privacy@soundcloud.com.
+If you sign up to SoundCloud® using Facebook, your SoundCloud® account will be connected automatically to your Facebook account, and information regarding your activity on SoundCloud®, specifically any new public sounds that you post on SoundCloud® and any new favourites, will be shared with Facebook and will be published in your timeline and your Facebook friends’ newsfeeds. If you do not wish to share your SoundCloud® activity with your Facebook friends, you can control this from the Settings page on the Website – for more information, see the Choice and Control section below. If you signed up using Facebook by mistake, you can delete your account from the Account page within your Settings at any time, or you can contact us via our Help Center
 
 Google+
 
@@ -105,7 +105,7 @@ You can sign up and log in to SoundCloud using your Google+ account. When you si
 
 If you sign up to SoundCloud® using Google+, by default information regarding your activity on SoundCloud® will be visible on Google to everyone in your Google+ circles and shared with Google according to Google's terms of service and Google's privacy policy. For more information on how to manage the activities you share back to your Google+ account, see Google's support page. You can manage who from your Google+ circles sees your SoundCloud® activity from within your Google+ App settings page. If you want to control the type of SoundCloud® activity that is shared with your Google+ circles, you can do this from the settings page of your SoundCloud account under the “Connections” tab.
 
-If you signed up to SoundCloud® using Google+ by mistake, you can delete your account from the account page within your settings at any time, or you can email us at privacy@soundcloud.com.
+If you signed up to SoundCloud® using Google+ by mistake, you can delete your account from the account page within your settings at any time, or you can contact us via our Help Center.
 
 How we use your information
 
@@ -247,7 +247,7 @@ Please note that deleting any SoundCloud® Apps, or any third party apps to whic
 
 Access to your data
 
-As described above, most of the personal data and other information you provide to us can be accessed and updated in the Settings page of your SoundCloud® account. If you wish to access, amend or delete any other personal data we hold about you, or if you have any objection to the processing of any personal data that we hold about you, please contact us at privacy@soundcloud.com, or the address provided below.
+As described above, most of the personal data and other information you provide to us can be accessed and updated in the Settings page of your SoundCloud® account. If you wish to access, amend or delete any other personal data we hold about you, or if you have any objection to the processing of any personal data that we hold about you, please contact us via our Help Center, or the address provided below.
 
 If you ask us to delete your account (either via the Settings page or by email), we will do so within a reasonable period of time, but we may need to retain some of your personal data in order to satisfy our legal obligations, or where we have a legitimate reason for doing so.
 
@@ -263,7 +263,7 @@ SoundCloud Limited is based in Europe, and your personal information is collecte
 
 Children
 
-SoundCloud® is not intended for use by children. Anyone under the age of 13 is not permitted to use the Platform and must not attempt to register an account or submit any personal information to us. We do not knowingly collect any personal information from any person who is under the age of 13 or allow them to register an account. If it comes to our attention that we have collected personal data from a person under the age of 13, we will delete this information as quickly as possible. If you have reason to believe that we may have collected any such personal data, please notify us immediately at privacy@soundcloud.com.
+SoundCloud® is not intended for use by children. Anyone under the age of 13 is not permitted to use the Platform and must not attempt to register an account or submit any personal information to us. We do not knowingly collect any personal information from any person who is under the age of 13 or allow them to register an account. If it comes to our attention that we have collected personal data from a person under the age of 13, we will delete this information as quickly as possible. If you have reason to believe that we may have collected any such personal data, please notify us immediately at legal@soundcloud.com.
 
 Changes and updates to this Privacy Policy
 
@@ -271,7 +271,7 @@ We may occasionally update this Privacy Policy, and when we do so, we will also 
 
 Questions?
 
-If you have questions about this Privacy Policy, want to suggest changes to this Privacy Policy or want to know, what information we store about you, please contact us by email at privacy@soundcloud.com, or write to us at:
+If you have questions about this Privacy Policy, want to suggest changes to this Privacy Policy or want to know, what information we store about you, please contact us via our Help Center, or write to us at:
 
 SoundCloud Limited Rheinsberger Str. 76/77 10115 Berlin Germany Attention: Legal Department
 
