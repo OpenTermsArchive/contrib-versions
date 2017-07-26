@@ -10,10 +10,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Archive
     *   by kristah00
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by SuiciDalSnYpER 1 day ago)
+    *   1 (last comment by SuiciDalSnYpER 2 days ago)
 *   I would like to update to Xanga 2.0
     *   by ArmsAroundU4ever
     *   1 month ago
@@ -43,7 +43,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   5 (last comment by megan\_val09 4 weeks ago)
+    *   5 (last comment by megan\_val09 1 month ago)
 *   Is xanga no longer free?
     *   \[Resolved\] by WC6F20
     *   3 years ago
