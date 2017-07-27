@@ -41,6 +41,7 @@ Sign In Hi, {username}
 *   Templates
 *   Explore
 *   Features
+*   Wix Code
 *   My Sites
 *   Premium Plans
 *   Wix SEO
