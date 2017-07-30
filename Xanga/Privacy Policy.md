@@ -13,7 +13,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by SuiciDalSnYpER 5 days ago)
+    *   1 (last comment by SuiciDalSnYpER 6 days ago)
 *   I would like to update to Xanga 2.0
     *   by ArmsAroundU4ever
     *   1 month ago
