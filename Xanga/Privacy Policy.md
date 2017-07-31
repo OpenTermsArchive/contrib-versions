@@ -13,28 +13,28 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by SuiciDalSnYpER 6 days ago)
+    *   1 (last comment by SuiciDalSnYpER 1 week ago)
 *   I would like to update to Xanga 2.0
     *   by ArmsAroundU4ever
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by NakedShawna 1 week ago)
+    *   3 (last comment by NakedShawna 2 weeks ago)
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   35 (last comment by NakedShawna 1 week ago)
+    *   35 (last comment by NakedShawna 2 weeks ago)
 *   Precious photos!!!!
     *   by shorty9564
     *   1 year ago
     *   in Pictures
     *   0 votes
-    *   2 (last comment by tyli1122 1 week ago)
+    *   2 (last comment by tyli1122 2 weeks ago)
 *   please help me find my old Xanga photos
     *   by tyli1122
-    *   1 week ago
+    *   2 weeks ago
     *   in Pictures
     *   0 votes
     *   0
