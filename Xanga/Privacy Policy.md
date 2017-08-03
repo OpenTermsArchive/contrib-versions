@@ -8,18 +8,18 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   I would like to update to Xanga 2.0
+    *   by ArmsAroundU4ever
+    *   1 month ago
+    *   in Data Migration
+    *   0 votes
+    *   4 (last comment by kelvin\_stephytangfantasia 12 hours ago)
 *   Archive
     *   by kristah00
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by SuiciDalSnYpER 1 week ago)
-*   I would like to update to Xanga 2.0
-    *   by ArmsAroundU4ever
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   3 (last comment by NakedShawna 2 weeks ago)
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   2 years ago
