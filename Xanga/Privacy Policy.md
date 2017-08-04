@@ -13,7 +13,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by kelvin\_stephytangfantasia 12 hours ago)
+    *   4 (last comment by kelvin\_stephytangfantasia 1 day ago)
 *   Archive
     *   by kristah00
     *   2 weeks ago
@@ -52,7 +52,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 (last comment by sora178 1 month ago)
 *   How to see old posts
     *   \[Resolved\] by SparklinEyez509
-    *   2 years ago
+    *   3 years ago
     *   in Themes
     *   0 votes
     *   5 (last comment by barbiegurl42788 1 month ago)
@@ -88,13 +88,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Old journal
     *   by RoseWillow
-    *   1 month ago
+    *   2 months ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Audio Files
     *   by supersinger412
-    *   1 month ago
+    *   2 months ago
     *   in Data Migration
     *   0 votes
     *   0
