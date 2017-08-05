@@ -8,12 +8,18 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Have Xanga User Name but cannot access email to reset password
+    *   by billycyc2
+    *   15 hours ago
+    *   in Emails
+    *   0 votes
+    *   0
 *   I would like to update to Xanga 2.0
     *   by ArmsAroundU4ever
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by kelvin\_stephytangfantasia 1 day ago)
+    *   4 (last comment by kelvin\_stephytangfantasia 2 days ago)
 *   Archive
     *   by kristah00
     *   2 weeks ago
@@ -90,12 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by RoseWillow
     *   2 months ago
     *   in Miscellaenous
-    *   0 votes
-    *   0
-*   Audio Files
-    *   by supersinger412
-    *   2 months ago
-    *   in Data Migration
     *   0 votes
     *   0
 
