@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Have Xanga User Name but cannot access email to reset password
     *   by billycyc2
-    *   15 hours ago
+    *   1 day ago
     *   in Emails
     *   0 votes
     *   0
@@ -19,7 +19,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by kelvin\_stephytangfantasia 2 days ago)
+    *   4 (last comment by kelvin\_stephytangfantasia 3 days ago)
 *   Archive
     *   by kristah00
     *   2 weeks ago
@@ -88,7 +88,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Want to have archive
     *   by ahyphyllis117
-    *   1 month ago
+    *   2 months ago
     *   in Data Migration
     *   0 votes
     *   0
