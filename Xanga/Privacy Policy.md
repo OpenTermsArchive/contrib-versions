@@ -8,9 +8,15 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   how to restore my entries on xanga
+    *   by coffeeling
+    *   20 hours ago
+    *   in Premium
+    *   0 votes
+    *   0
 *   Have Xanga User Name but cannot access email to reset password
     *   by billycyc2
-    *   1 day ago
+    *   2 days ago
     *   in Emails
     *   0 votes
     *   0
@@ -19,28 +25,28 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by kelvin\_stephytangfantasia 3 days ago)
+    *   4 (last comment by kelvin\_stephytangfantasia 4 days ago)
 *   Archive
     *   by kristah00
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by SuiciDalSnYpER 1 week ago)
+    *   1 (last comment by SuiciDalSnYpER 2 weeks ago)
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   35 (last comment by NakedShawna 2 weeks ago)
+    *   35 (last comment by NakedShawna 3 weeks ago)
 *   Precious photos!!!!
     *   by shorty9564
     *   1 year ago
     *   in Pictures
     *   0 votes
-    *   2 (last comment by tyli1122 2 weeks ago)
+    *   2 (last comment by tyli1122 3 weeks ago)
 *   please help me find my old Xanga photos
     *   by tyli1122
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Pictures
     *   0 votes
     *   0
@@ -92,14 +98,8 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   Old journal
-    *   by RoseWillow
-    *   2 months ago
-    *   in Miscellaenous
-    *   0 votes
-    *   0
 
-1 2 3 ... 183 Next
+1 2 3 ... 184 Next
 
 Help Categories
 
