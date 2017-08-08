@@ -12,7 +12,7 @@ x Cancel
 *   Shop for a Vehicle
     *   Shop for a Vehicle
     *   Back
-    *   Shop GM Vehicles
+    *   Shop Our Vehicles
     *   Our Brands
     *   Shop Chevrolet.com
     *   Shop Buick.com
@@ -254,7 +254,7 @@ Q3: Does my vehicle have an RFID feature that transmits my personal information?
 A: No, many GM vehicles contain sensing and transmitting devices using the same type of radio frequency transmission technology used in RFIDs that can contain personal information. These devices are used to perform functions such as checking tire pressure. The devices do not store or transmit personal information. To learn more about vehicle recording and privacy, refer to the Vehicle Data Recording and Privacy section of your vehicle’s owner manual.
 
 *   Shop for a Vehicle
-    *   Shop GM Vehicles
+    *   Shop Our Vehicles
     *   Our Brands
     *   Shop Chevrolet.com
     *   Shop Buick.com
