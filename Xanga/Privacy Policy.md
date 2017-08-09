@@ -10,13 +10,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   how to restore my entries on xanga
     *   by coffeeling
-    *   1 day ago
+    *   2 days ago
     *   in Premium
     *   0 votes
     *   0
 *   Have Xanga User Name but cannot access email to reset password
     *   by billycyc2
-    *   3 days ago
+    *   4 days ago
     *   in Emails
     *   0 votes
     *   0
@@ -25,10 +25,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by kelvin\_stephytangfantasia 5 days ago)
+    *   4 (last comment by kelvin\_stephytangfantasia 6 days ago)
 *   Archive
     *   by kristah00
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by SuiciDalSnYpER 2 weeks ago)
