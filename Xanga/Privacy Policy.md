@@ -8,24 +8,30 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Where is my old Xanga?
+    *   by laura\_hamby\_photos
+    *   1 month ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by rambo\_60th 4 hours ago)
 *   how to restore my entries on xanga
     *   by coffeeling
-    *   2 days ago
+    *   3 days ago
     *   in Premium
     *   0 votes
     *   0
 *   Have Xanga User Name but cannot access email to reset password
     *   by billycyc2
-    *   4 days ago
+    *   5 days ago
     *   in Emails
     *   0 votes
     *   0
 *   I would like to update to Xanga 2.0
     *   by ArmsAroundU4ever
-    *   1 month ago
+    *   2 months ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by kelvin\_stephytangfantasia 6 days ago)
+    *   4 (last comment by kelvin\_stephytangfantasia 1 week ago)
 *   Archive
     *   by kristah00
     *   3 weeks ago
@@ -72,12 +78,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by CloudStrife253
     *   1 month ago
     *   in Passwords &. Sign-In
-    *   0 votes
-    *   0
-*   Where is my old Xanga?
-    *   by laura\_hamby\_photos
-    *   1 month ago
-    *   in Data Migration
     *   0 votes
     *   0
 *   Can't remember password and email is old
