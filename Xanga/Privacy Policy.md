@@ -8,21 +8,33 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   old xanga
+    *   by farahrasol
+    *   1 hour ago
+    *   in Premium
+    *   0 votes
+    *   0
+*   How do I download an archive of my old blog?
+    *   \[Resolved\] by thibault
+    *   2 years ago
+    *   in Data Migration
+    *   0 votes
+    *   36 (last comment by meowsquared 9 hours ago)
 *   Where is my old Xanga?
     *   by laura\_hamby\_photos
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by rambo\_60th 4 hours ago)
+    *   1 (last comment by rambo\_60th 1 day ago)
 *   how to restore my entries on xanga
     *   by coffeeling
-    *   3 days ago
+    *   4 days ago
     *   in Premium
     *   0 votes
     *   0
 *   Have Xanga User Name but cannot access email to reset password
     *   by billycyc2
-    *   5 days ago
+    *   6 days ago
     *   in Emails
     *   0 votes
     *   0
@@ -38,12 +50,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   1 (last comment by SuiciDalSnYpER 2 weeks ago)
-*   How do I download an archive of my old blog?
-    *   \[Resolved\] by thibault
-    *   2 years ago
-    *   in Data Migration
-    *   0 votes
-    *   35 (last comment by NakedShawna 3 weeks ago)
 *   Precious photos!!!!
     *   by shorty9564
     *   1 year ago
@@ -88,12 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   All Blogs and Photos GONE! :(
     *   by BigRig37
-    *   2 months ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Want to have archive
-    *   by ahyphyllis117
     *   2 months ago
     *   in Data Migration
     *   0 votes
