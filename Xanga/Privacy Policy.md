@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   old xanga
     *   by farahrasol
-    *   1 hour ago
+    *   1 day ago
     *   in Premium
     *   0 votes
     *   0
@@ -19,22 +19,22 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   36 (last comment by meowsquared 9 hours ago)
+    *   36 (last comment by meowsquared 1 day ago)
 *   Where is my old Xanga?
     *   by laura\_hamby\_photos
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by rambo\_60th 1 day ago)
+    *   1 (last comment by rambo\_60th 2 days ago)
 *   how to restore my entries on xanga
     *   by coffeeling
-    *   4 days ago
+    *   5 days ago
     *   in Premium
     *   0 votes
     *   0
 *   Have Xanga User Name but cannot access email to reset password
     *   by billycyc2
-    *   6 days ago
+    *   1 week ago
     *   in Emails
     *   0 votes
     *   0
@@ -88,7 +88,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Can't remember password and email is old
     *   by Stevek83
-    *   1 month ago
+    *   2 months ago
     *   in Emails
     *   0 votes
     *   0
