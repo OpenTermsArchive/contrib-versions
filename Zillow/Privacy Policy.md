@@ -9,7 +9,7 @@ Or try a newer browser:
 *   ·
 *   Firefox
 
-Homepage List your rental Sign in or Join Advertise Buy
+Homepage Sign in or Join Advertise Buy
 
 *   Homes for sale
     *   *   Homes for sale
