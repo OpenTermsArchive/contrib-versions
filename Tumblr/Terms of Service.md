@@ -1,4 +1,4 @@
-Terms of Service Last Modified: 2017-06-23 Tumblr is a U.S. company and subject only to U.S. laws and jurisdiction, so for the moment these Terms of Service (and any other terms, policies, or guidelines that we provide to you) are only available in English.
+Terms of Service Last Modified: 2017-06-23Tumblr is a U.S. company and subject only to U.S. laws and jurisdiction, so for the moment these Terms of Service (and any other terms, policies, or guidelines that we provide to you) are only available in English.
 
 Hello! Welcome to Tumblr’s Terms of Service. Please read this carefully before using our site, services, or products. This is a contract between you and Tumblr. We've also included several annotations that aren't a part of the contract itself, but are intended to emphasize key sections and help you follow the text. We’ve tried to be fair and straightforward. Please feel free to contact us if you have any questions or suggestions!
 
@@ -6,7 +6,9 @@ Hello! Welcome to Tumblr’s Terms of Service. Please read this carefully before
 
 Please read these Terms of Service and our Community Guidelines (collectively, the "**Agreement**") carefully before using tumblr.com (the "**Site**") and/or the other domains, websites, products, applications, mobile applications, services, and/or Content provided by Tumblr, Inc. (all of those collectively with the Site, the "**Services**") (Tumblr, Inc., a Delaware corporation and wholly-owned subsidiary of Yahoo Holdings, Inc., a Delaware corporation("Yahoo"), collectively with its agents, representatives, consultants, employees, officers, and directors, "**Tumblr**," "**we**," or "**us**"). By using or accessing the Services, you ("**Subscriber**" or "**you**") agree to be bound by all the terms and conditions of this Agreement. If you don’t agree to all the terms and conditions of this Agreement, you shouldn't, and aren't permitted to, use the Services.
 
-We’re just letting you know, here, that Tumblr, along with Yahoo, is now part of Oath, a digital and mobile media company with more than 50 brands globally, and a member of the Verizon family of companies, and these Terms of Service, which apply to your use of Tumblr, are being updated to reflect this change. This section also includes an agreement where you're agreeing to agree to the terms of this agreement. 2. Modifications to this Agreement
+We’re just letting you know, here, that Tumblr, along with Yahoo, is now part of Oath, a digital and mobile media company with more than 50 brands globally, and a member of the Verizon family of companies, and these Terms of Service, which apply to your use of Tumblr, are being updated to reflect this change. This section also includes an agreement where you're agreeing to agree to the terms of this agreement.
+
+2\. Modifications to this Agreement
 
 Tumblr reserves the right to modify this Agreement by (1) posting a revised Agreement on and/or through the Services and (2) providing notice to you that this Agreement has changed, generally via email where practicable, and otherwise through the Services (such as through a notification on your Tumblr Dashboard or in our mobile applications). Modifications will not apply retroactively. You are responsible for reviewing and becoming familiar with any modifications to this Agreement.
 
@@ -16,19 +18,27 @@ In cases where we do not ask for your explicit agreement to a modified version o
 
 Note that, if you have prepaid for any Paid Services (as defined below) prior to a modification of this Agreement, your use of such prepaid Paid Services is governed by the version of this Agreement in effect at the time Tumblr received your prepayment.
 
-As Tumblr grows and improves, we might have to make changes to these Terms of Service. When we do, we'll let you know. We're also going to make it a practice to post old versions so it's easy to see changes/additions/deletions. To see old versions, scroll down to the end of this document. 3. Use of the Services Eligibility:
+As Tumblr grows and improves, we might have to make changes to these Terms of Service. When we do, we'll let you know. We're also going to make it a practice to post old versions so it's easy to see changes/additions/deletions. To see old versions, scroll down to the end of this document.
+
+3\. Use of the ServicesEligibility:
 
 No individual under the age of thirteen (13) may use the Services, provide any personal information to Tumblr, or otherwise submit personal information through the Services (including, for example, a name, address, telephone number, or email address). You may only use the Services if you can form a binding contract with Tumblr and are not legally prohibited from using the Services.
 
-You have to be at least 13 years old to use Tumblr. We're serious: it's a hard rule, based on U.S. federal and state legislation. “But I’m, like, 12.9 years old!” you plead. Nope, sorry. If you're younger than 13, don't use Tumblr. Ask your parents for a Playstation 4, or try books. Service Changes and Limitations:
+You have to be at least 13 years old to use Tumblr. We're serious: it's a hard rule, based on U.S. federal and state legislation. “But I’m, like, 12.9 years old!” you plead. Nope, sorry. If you're younger than 13, don't use Tumblr. Ask your parents for a Playstation 4, or try books.
+
+Service Changes and Limitations:
 
 The Services change frequently, and their form and functionality may change without prior notice to you. Tumblr retains the right to create limits on and related to use of the Services in its sole discretion at any time with or without notice. Tumblr may also impose limits on certain Services or aspects of those Services or restrict your access to parts or all of the Services without notice or liability. Tumblr may change, suspend, or discontinue any or all of the Services at any time, including the availability of any product, feature, database, or Content (as defined below). Tumblr may also terminate or suspend Accounts (as defined below) at any time, in its sole discretion.
 
-Tumblr is an ever-evolving platform. With new products, services, and features launching all the time, we need flexibility to make changes, impose limits, and occasionally suspend or terminate certain offerings (like features that flop). We can also terminate or suspend any account at any time. That sounds harsh, but we only use that power when we have a reason, as outlined in these Terms of Service, our Privacy Policy, and our Community Guidelines. Limitations on Automated Use:
+Tumblr is an ever-evolving platform. With new products, services, and features launching all the time, we need flexibility to make changes, impose limits, and occasionally suspend or terminate certain offerings (like features that flop). We can also terminate or suspend any account at any time. That sounds harsh, but we only use that power when we have a reason, as outlined in these Terms of Service, our Privacy Policy, and our Community Guidelines.
+
+Limitations on Automated Use:
 
 You may not, without express prior written permission, do any of the following while accessing or using the Services: (a) tamper with, or use non-public areas of the Services, or the computer or delivery systems of Tumblr and/or its service providers. (b) probe, scan, or test any system or network (particularly for vulnerabilities), or otherwise attempt to breach or circumvent any security or authentication measures. (c) access or search or attempt to access or search the Services by any means (automated or otherwise) other than through our currently available, published interfaces that are provided by Tumblr (and only pursuant to those terms and conditions) or unless permitted by Tumblr's robots.txt file or other robot exclusion mechanisms. (d) scrape the Services, and particularly scrape Content (as defined below) from the Services. (e) use the Services to send altered, deceptive, or false source-identifying information, including without limitation by forging TCP-IP packet headers or email headers. or (f) interfere with, or disrupt, (or attempt to do so), the access of any Subscriber, host or network, including, without limitation, by sending a virus to, spamming, or overloading the Services, or by scripted use of the Services in such a manner as to interfere with or create an undue burden on the Services.
 
-Don't do bad things to Tumblr or to other users. Some particularly egregious examples of "bad things" are listed in this section. 4. Registration, Tumblr URLs, and Security
+Don't do bad things to Tumblr or to other users. Some particularly egregious examples of "bad things" are listed in this section.
+
+4\. Registration, Tumblr URLs, and Security
 
 As a condition to using certain of the Services, you may be required to create an account (an "**Account**") and select a password and Tumblr username, which will serve as a default link to your default Tumblr blog of the form \[username\].tumblr.com (a "**Tumblr URL**"). You must select a different Tumblr URL for each new blog you create.
 
@@ -42,7 +52,7 @@ You are also responsible for maintaining the confidentiality of your Account pas
 
 For information about how Tumblr collects, uses, and shares your information, please review our Privacy Policy. You agree that by using the Services you consent to the collection, use, and sharing (as set forth in the Privacy Policy) of such information, including the transfer of this information to the United States and/or other countries for storage, processing, and use by Tumblr and the Tumblr Affiliates (as defined below).
 
-6\. Content and Subscriber Content Definitions:
+6\. Content and Subscriber ContentDefinitions:
 
 For purposes of this Agreement: (1) the term "**Content**" means a creative expression and includes, without limitation, video, audio, photographs, images, illustrations, animations, logos, tools, written posts, replies, comments, information, data, text, software, scripts, executable files, graphics, Themes (as defined below), and interactive features, any of which may be generated, provided, or otherwise made accessible on or through the Services. (2) the term "**Subscriber Content**" means Content that a Subscriber submits, transfers, or otherwise provides to the Services. Content includes, without limitation, all Subscriber Content.
 
@@ -50,7 +60,9 @@ Your Rights in Subscriber Content:
 
 Subscribers retain ownership and/or other applicable rights in Subscriber Content, and Tumblr and/or third parties retain ownership and/or other applicable rights in all Content other than Subscriber Content.
 
-You retain ownership you have of any intellectual property you post to Tumblr. Subscriber Content License to Tumblr:
+You retain ownership you have of any intellectual property you post to Tumblr.
+
+Subscriber Content License to Tumblr:
 
 When you provide Subscriber Content to Tumblr through the Services, you grant Tumblr a non-exclusive, worldwide, royalty-free, sublicensable, transferable right and license to use, host, store, cache, reproduce, publish, display (publicly or otherwise), perform (publicly or otherwise), distribute, transmit, modify, adapt (including, without limitation, in order to conform it to the requirements of any networks, devices, services, or media through which the Services are available), and create derivative works of, such Subscriber Content. The rights you grant in this license are for the limited purposes of allowing Tumblr to operate the Services in accordance with their functionality, improve the Services, and develop new Services. The reference in this license to "creat\[ing\] derivative works" is not intended to give Tumblr a right to make substantive editorial changes or derivations, but does, for example, enable **reblogging**, which allows Tumblr Subscribers to redistribute Subscriber Content from one Tumblr blog to another in a manner that allows them to add their own text or other Content before or after your Subscriber Content.
 
@@ -177,7 +189,7 @@ This Agreement, as modified from time to time, constitutes the entire agreement 
 
 Tumblr provides global products and services and enables a global community for individuals to share and follow the things they love. Tumblr's servers and operations are, however, located in the United States, and Tumblr's policies and procedures are based on United States law. As such, the following provisions apply specifically to Subscribers located outside of the United States: (1) you consent to the transfer, storage, and processing of your information, including but not limited to Subscriber Content and any personal information, to and in the United States and/or other countries. and (2) if you are using the Services from a country embargoed by the United States, or are on the United States Treasury Department's list of "Specially Designated Nationals," you agree that you will not engage in financial transactions, or conduct any commercial activities using or through the Services (for example, purchasing Premium Themes).
 
-Submit an infringement notice 20. DMCA Copyright Policy
+Submit an infringement notice20. DMCA Copyright Policy
 
 Tumblr has adopted the following policy toward copyright infringement on the Services in accordance with the Digital Millennium Copyright Act (the "**DMCA**"). The address of Tumblr's Designated Agent for copyright takedown notices ("**Designated Agent**") is listed below. You may submit a notice under the DMCA using our copyright notice form.
 
