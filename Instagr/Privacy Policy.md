@@ -1,7 +1,3 @@
-Instagram Help Center
-
-*   Instagram Help Center
-
 Privacy Policy
 
 In September 2012, we announced that Instagram had been acquired by Facebook. We knew that by teaming up with Facebook, we could build a better Instagram for you. Since then, we've been collaborating with Facebook's team on ways to do just that. As part of our new collaboration, we've learned that by being able to share insights and information with each other, we can build better experiences for our users.
@@ -143,13 +139,3 @@ If you have any questions about this Privacy Policy or the Service, please find 
 10\. CHANGES TO OUR PRIVACY POLICY
 
 Instagram may modify or update this Privacy Policy from time to time, so please review it periodically. We may provide you additional forms of notice of modifications or updates as appropriate under the circumstances. Your continued use of Instagram or the Service after any modification to this Privacy Policy will constitute your acceptance of such modification.
-
-*   About us
-*   Help
-*   API
-*   Jobs
-*   Blog
-*   Terms
-*   Privacy
-
-© 2017 Instagram, Inc.
