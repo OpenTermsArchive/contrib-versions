@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   old xanga
     *   by farahrasol
-    *   1 day ago
+    *   2 days ago
     *   in Premium
     *   0 votes
     *   0
@@ -19,16 +19,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   36 (last comment by meowsquared 1 day ago)
+    *   36 (last comment by meowsquared 2 days ago)
 *   Where is my old Xanga?
     *   by laura\_hamby\_photos
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by rambo\_60th 2 days ago)
+    *   1 (last comment by rambo\_60th 3 days ago)
 *   how to restore my entries on xanga
     *   by coffeeling
-    *   5 days ago
+    *   6 days ago
     *   in Premium
     *   0 votes
     *   0
