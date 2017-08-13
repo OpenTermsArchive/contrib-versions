@@ -3,7 +3,7 @@ Skip Navigation Explore Allstate
 *   Find An Agent
 *   Contact Us
 *   Español
-*   DENVER, CO80201
+*   MONTEAGLE, TN37356
 *   Search
 
 *   Allstate
@@ -72,7 +72,7 @@ Toggle navigation Log in Search Close Navigation
 *   Get a Quote
     
     Your location is set for  
-    DENVER, CO 80201
+    MONTEAGLE, TN 37356
     
     Edit location
     
@@ -127,9 +127,9 @@ Toggle navigation Log in Search Close Navigation
     *   Retirement &. Investments
     *   Power Sports
     *   Business Insurance
-*   Get A Quote in 80201
+*   Get A Quote in 37356
     
-    80201 Edit location
+    37356 Edit location
     
     Select a ProductAutoHomeRentersLifeCondoMotorcycleBoatATV/Rec. VehicleBusiness InsuranceMore InsuranceGet A Quote
     
@@ -183,13 +183,13 @@ Forgot user ID Forgot password Register new account
 
 Find An Agent Close
 
-Agents near 80201
+Agents near 37356
 
 *   Loading...
 
 Advanced agent search
 
-80201 Edit location
+37356 Edit location
 
 Select a ProductAutoHomeRentersLifeCondoMotorcycleBoatATV/Rec. VehicleBusiness InsuranceGet a quote
 
@@ -224,7 +224,9 @@ Our Privacy Assurance
 *   We **require** our employees to protect your personal information and keep it confidential.
 
   
-As you can see, protecting your personal information is important to us. In addition to the practices described above, we use a variety of physical, technical and administrative security measures that help to safeguard your information. For Social Security Numbers (SSN), Date of Birth (DOB), payment information, and other sensitive personal information, this includes restricting access to our employees, agents and others who use such information only as permitted by law, such as to comply with the law, to provide you with products and services or to handle your claims. Our privacy practices continue to apply to your information even if you cease to be an Allstate customer. What Personal Information Do We Have and Where Do We Get It?
+As you can see, protecting your personal information is important to us. In addition to the practices described above, we use a variety of physical, technical and administrative security measures that help to safeguard your information. For Social Security Numbers (SSN), Date of Birth (DOB), payment information, and other sensitive personal information, this includes restricting access to our employees, agents and others who use such information only as permitted by law, such as to comply with the law, to provide you with products and services or to handle your claims. Our privacy practices continue to apply to your information even if you cease to be an Allstate customer.
+
+What Personal Information Do We Have and Where Do We Get It?
 
 We gather personal information from you and from outside sources for business purposes, including carrying out the requested product or services, responding to customer service requests, administering your account, and sending you newsletters and other service related correspondence. Some examples of the information we collect from you may include your name, phone number, home and e-mail addresses, driver's license number, date of birth, social security number, marital status, family member information, payment information, and healthcare information. Also, we maintain records that include, but are not limited to, policy coverages, premiums, and payment history. We also collect information from outside sources that may include, but is not limited to, your driving record, claims history, medical information and credit information.  
   
@@ -237,7 +239,10 @@ In addition, Allstate and its business partners gather information through Inter
 *   Develop new services
 *   Know how many visitors have seen or clicked on our ads
 
-Also, our business partners assist us with monitoring information including, but not limited to, IP addresses, domain names and browser data, which can help us to better understand how visitors use allstate.com. Mobile Analytics
+  
+Also, our business partners assist us with monitoring information including, but not limited to, IP addresses, domain names and browser data, which can help us to better understand how visitors use allstate.com.
+
+Mobile Analytics
 
 We use Mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We will link the information we store within the analytics software to any personally identifiable information you submit within the mobile app.
 
@@ -250,7 +255,9 @@ If you choose, your location is obtained from the mobile device or the network u
 
   
 Your location information is stored on Allstate's servers and retained by Allstate until you delete the application from your device. When we execute such searches on your behalf we do not transfer your identity or personally identifiable information to third parties, other than with service providers necessary to help perform this function. This information is not used to create a profile about you or your activities.  
-To prevent Allstate from using your current location, you can disable the GPS functionality on your mobile device or choose not to submit current location when prompted. How We Use and Share Your Personal Information
+To prevent Allstate from using your current location, you can disable the GPS functionality on your mobile device or choose not to submit current location when prompted.
+
+How We Use and Share Your Personal Information
 
 In the course of normal business activities, we use and share your personal information. We may provide your information to persons or organizations within and outside of Allstate. This would be done as required or permitted by law. For example, we may do this to:  
 
@@ -275,7 +282,9 @@ The persons or organizations with whom we may share your personal information ma
 *   Repair shops and recommended claims vendors
 
   
-We will share your personal information with third parties only in the ways that are described in this privacy statement. Social Media
+We will share your personal information with third parties only in the ways that are described in this privacy statement.
+
+Social Media
 
 Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your Internet protocol address, which page you are visiting on our website, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
@@ -416,11 +425,9 @@ We won't share your personal information with Allstate companies for marketing p
 
 Share this page
 
-allstate.com
-
 Top
 
-80201 Edit Location
+37356 Edit Location
 
 Select a ProductAutoHomeRentersLifeCondoMotorcycleBoatATV/Rec. VehicleBusiness Insurance
 
@@ -465,7 +472,7 @@ ZIP Code
 
 City, State
 
-DENVER, CO
+MONTEAGLE, TN
 
 Oops! You have entered an invalid ZIP. Please try again. Location data not available. Please enter zip code. Please Wait...Updating Location...  
 It's taking a bit longer than expected. Your update should be done soon. This feature is not currently available.  
