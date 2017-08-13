@@ -19,7 +19,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   36 (last comment by meowsquared 2 days ago)
+    *   36 (last comment by meowsquared 3 days ago)
 *   Where is my old Xanga?
     *   by laura\_hamby\_photos
     *   1 month ago
@@ -28,7 +28,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by rambo\_60th 3 days ago)
 *   how to restore my entries on xanga
     *   by coffeeling
-    *   6 days ago
+    *   1 week ago
     *   in Premium
     *   0 votes
     *   0
@@ -55,10 +55,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Pictures
     *   0 votes
-    *   2 (last comment by tyli1122 3 weeks ago)
+    *   2 (last comment by tyli1122 4 weeks ago)
 *   please help me find my old Xanga photos
     *   by tyli1122
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Pictures
     *   0 votes
     *   0
@@ -155,3 +155,5 @@ Contact Information
 *   **report inappropriate content**
 
 *   **back to xanga frontpage »**
+
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
