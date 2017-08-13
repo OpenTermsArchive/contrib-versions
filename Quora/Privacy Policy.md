@@ -1,4 +1,4 @@
-This page may be out of date. Save your draft before refreshing this page.Submit any pending changes before refreshing this page. Hide this message.                                 Quora AboutAbout CareersCareers PressPress BusinessesBusinesses BlogBlog Privacy Policy
+This page may be out of date. Save your draft before refreshing this page.Submit any pending changes before refreshing this page. Hide this message.                QuoraAboutAbout CareersCareers PressPress BusinessesBusinesses BlogBlog Privacy Policy
 
 Last updated: July 26, 2016.
 
