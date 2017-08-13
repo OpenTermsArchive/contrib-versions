@@ -1,3 +1,5 @@
+We don't collect or share personal information. That's our privacy policy in a nutshell. Add DuckDuckGo to Firefox
+
 **DuckDuckGo does not collect or share personal information.** That is our privacy policy in a nutshell. The rest of this page tries to explain why you should care.
 
 *   Why You Should Care - Search Leakage
@@ -109,3 +111,7 @@ If this policy is substantively updated, we will update the text of this page an
 Feedback   \[top\]
 
 I (Gabriel Weinberg) am the founder of Duck Duck Go and personally wrote this privacy policy. If you have any questions or concerns, please submit feedback.
+
+Add DuckDuckGo to Firefox
+
+© DuckDuckGo. The search engine that doesn't track you.
