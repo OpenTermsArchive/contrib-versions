@@ -1,135 +1,141 @@
-The following document outlines the terms of use of the 500px website. You can also review our Privacy policy, which outlines our practices towards handling any personal information that you may provide to us.
+Terms of Service
 
-Before using any of the 500px services, you are required to read, understand and agree to these terms. You may only create an account after reading and accepting these terms. The column on the right provides a short explanation of the terms of use and is not legally binding.
+The following document outlines the terms of use of the 500px website. Before using any of the 500px services, you are required to read, understand, and agree to these terms. The column on the right provides a short explanation of the terms of use and is not legally binding.
 
-  
+Description Of Service
+
+500px, Inc. (500px or “We”) provides a platform via its website and apps (the “Site”) to a community of registered users (“Users” or “you”) to upload and display photographs and video (“Visual Content”) share comments, opinions and ideas, promote Visual Content collections, participate in contests and promotions, register for premium membership accounts (“Premium Accounts”), and license Visual Content as part of our Marketplace to other users (the “Services”). Additional Services may be offered by us from time to time. The following are the terms of service (“Terms”) for using the Site and the Services.
+
+**Basically,**
+
+We develop a photo community and provide services to create online portfolios and license photos. We will develop more features and services in the future.
+
 Acceptance Of Terms
 
-The web pages available at 500px.com and all linked pages (“Site”), are owned and operated by 500px, Inc. (“500px”) a Canadian corporation and is accessed by you under the Terms of Use described below (“Terms”).
+BY USING THE SERVICES, YOU ARE AGREEING, ON BEHALF OF YOURSELF AND THOSE YOU REPRESENT, TO COMPLY WITH AND BE LEGALLY BOUND BY THESE TERMS AS WELL AS OUR PRIVACY POLICY AND ALL APPLICABLE LAWS. IF YOU, FOR YOURSELF OR ON BEHALF OF THOSE YOU REPRESENT, DO NOT AGREE TO ANY PROVISION OF THESE TERMS, YOU MUST, FOR YOURSELF AND ON BEHALF ANY SUCH PERSON(S), DISCONTINUE THE REGISTRATION PROCESS, DISCONTINUE YOUR USE OF THE SERVICES, AND, IF YOU ARE ALREADY REGISTERED, CANCEL YOUR ACCOUNT.
 
-Please read these terms carefully before using the services. By accessing the site, viewing any content or using any services available on the site (as each is defined below) you are agreeing to be bound by these terms, which together with our Privacy policy, governs our relationship with you in relation to the site. If you disagree with any part of the terms then you may not access the site.
+**Basically,**
 
-**Basically,** By using 500px you agree to all the terms below. Description Of Service
+By using 500px, you agree to all the terms below.
 
-The Site is an online community which enables photographers and graphic artists to post photographs and images, share comments, opinions and ideas, promote their work, participate in contests and promotions, and access and/or purchase services from time to time made available on the Site (“Services”). Services include, but are not limited to, any service and/or content 500px makes available to or performs for you, as well as the offering of any materials displayed, transmitted or performed on the Site or through the Services. Content (“Content”) includes, but is not limited to text, user comments, messages, information, data, graphics, news articles, photographs, images, illustrations, and software.
+Modification of Terms
 
-Your access to and use of the Site may be interrupted from time to time as a result of equipment malfunction, updating, maintenance or repair of the Site or any other reason within or outside the control of 500px. 500px reserves the right to suspend or discontinue the availability of the Site and/or any Service and/or remove any Content at any time at its sole discretion and without prior notice. 500px may also impose limits on certain features and Services or restrict your access to parts of or all of the Site and the Services without notice or liability. The Site should not be used or relied upon for storage of your photographs and images and you are directed to retain your own copies of all Content posted on the Site.
+500px reserves the right, at its sole discretion, to modify or replace the terms at any time. If the alterations constitute a material change to the terms, 500px will notify you by posting an announcement on the site. What constitutes a material change will be determined at 500px’s sole discretion. You shall be responsible for reviewing and becoming familiar with any such modifications. Using any Service or viewing any Visual Content shall constitute your acceptance of the Terms as modified.
 
-**Basically,** We develop a photo community and provide services to create online portfolios and we will develop more features and services in the future. At times things can go wrong and the service may be interrupted. Unlikely, but sometimes things can go really wrong. Registration
+In addition, when using particular features of the Services, you shall be subject to any posted guidelines or rules applicable to such Services.
 
-As a condition to using Services, you are required to open an account with 500px and select a password and username, and to provide registration information. The registration information you provide must be accurate, complete, and current at all times. Failure to do so constitutes a breach of the Terms, which may result in immediate termination of your 500px account.
+Your access to and use of the Site and our Services may be interrupted from time to time as a result of equipment malfunction, updating, maintenance or repair of the Site or any other reason within or outside the control of 500px. 500px reserves the right to suspend or discontinue the availability of the Site and/or any Service and/or remove any Visual Content at any time at its sole discretion and without prior notice. 500px may also impose limits on certain features and Services or restrict your access to parts of or all of the Site and the Services without notice or liability. The Site should not be used or relied upon for storage of your Visual Content and you are directed to retain your own copies of all Visual Content posted on the Site.
+
+**Basically,**
+
+If these terms change, we will notify you. As well, at times things can go wrong and the service may be interrupted. It’s unlikely, but sometimes things can go really wrong.
+
+Registration
+
+As a condition to using Services, you are required to open an account with 500px and select a password and username, and to provide registration information. The registration information you provide must be accurate, complete, and current at all times. Failure to do so constitutes a breach of the Terms, which may result in immediate termination of your access to the Services, by either terminating your email access or your account.
 
 You may not use as a username the name of another person or entity or that is not lawfully available for use, a name or trade mark that is subject to any rights of another person or entity other than you without appropriate authorization, or a name that is otherwise offensive, vulgar or obscene.
 
 You are responsible for maintaining the confidentiality of your password and are solely responsible for all activities resulting from the use of your password and conducted through your 500px account.
 
-Services are available only to individuals who are either (i) at least 18 years old, or (ii) at least 14 years old, and who are authorized to access the Site by a parent or legal guardian. If you have authorized a minor to use the Site, you are responsible for the online conduct of such minor, and the consequences of any misuse of the Site by the minor. Parents and legal guardians are warned that the Site does display photographs and images containing nudity and violence that may be offensive to some.
+Services are available authorized representatives of legal entities and to individuals who are either (i) at least 18 years old to access the Marketplace or to register for Premium Accounts, or (ii) at least 14 years old, and who are authorized to access the Site by a parent or legal guardian. If you have authorized a minor to use the Site, you are responsible for the online conduct of such minor, and the consequences of any misuse of the Site by the minor. Parents and legal guardians are warned that the Site does display Visual Content containing nudity and violence that may be offensive to some.
 
-The Services are for use by individuals who are photographers and graphic artists. Accounts may not be opened by galleries, agents and other market intermediaries and entities who represent photographers and graphic artists or sell their works. If you do not qualify for registration you are not permitted to open an account or use the Services.
+The Services are for use by a) individuals who own Visual Content. b) entities that represent owners of Visual Content including but not limited to galleries, agents, representatives, distributors other market intermediaries. and c) individuals and entities seeking to license Visual Content. We are currently not accepting illustration and graphic design content to upload on the Site. If you are the owner of the Visual Content, but not the creator, you are not allowed to upload content for the purposes of self advertising.
 
-**Basically,** To fully use the services you need to create your own account, without violating other peoples' rights. User Conduct
+**Basically,**
+
+To fully use the services, you need to create your own account, without violating other people’s rights.
+
+User Conduct
 
 All Content posted or otherwise submitted to the Site is the sole responsibility of the account holder from which such Content originates and you acknowledge and agree that you, and not 500px are entirely responsible for all Content that you post, or otherwise submit to the Site. 500px does not control user submitted Content and, as such, does not guarantee the accuracy, integrity or quality of such Content. You understand that by using the Site you may be exposed to Content that is offensive, indecent or objectionable.
 
 As a condition of use, you promise not to use the Services for any purpose that is unlawful or prohibited by these Terms, or any other purpose not reasonably intended by 500px. By way of example, and not as a limitation, you agree not to use the Services:
 
 1.  To abuse, harass, threaten, impersonate or intimidate any person;
-2.  To post or transmit, or cause to be posted or transmitted, any Content that is libellous, defamatory, obscene, pornographic, abusive, offensive, profane, or that infringes any copyright or other right of any person;
-3.  For any purpose (including posting or viewing Content) that is not permitted under the laws of the jurisdiction where you use the Services;
-4.  To post or transmit, or cause to be posted or transmitted, any communication or solicitation designed or intended to obtain password, account, or private information from any 500px user;
+2.  To post or transmit, or cause to be posted or transmitted, any Visual Content or Communications that are libelous, defamatory, obscene, pornographic, abusive, offensive, profane, or that infringes any copyright or other right of any person;
+3.  For any purpose (including posting or viewing Visual Content) that is not permitted under the laws of the jurisdiction where you use the Services;
+4.  To post or transmit, or cause to be posted or transmitted, any Communication designed or intended to obtain password, account, or private information from any 500px user;
 5.  To create or transmit unwanted ‘spam’ to any person or any URL
-6.  To create multiple accounts for the purpose of voting for or against users’ photographs or images;
-7.  To post copyrighted Content which doesn’t belong to you, with exception of Blogs, where you may post such Content with explicit mention of the author’s name and a link to the source of the Content;
-8.  With the exception of accessing RSS feeds, you will not use any robot, spider, scraper or other automated means to access the Site for any purpose without our express written permission. Additionally, you agree that you will not: (i) take any action that imposes, or may impose in our sole discretion an unreasonable or disproportionately large load on our infrastructure. (ii) interfere or attempt to interfere with the proper working of the Site or any activities conducted on the Site. or (iii) bypass any measures we may use to prevent or restrict access to the Site;
+6.  To create multiple accounts for the purpose of voting for or against users’ Visual Content;
+7.  To post copyrighted Visual Content or other Communications that do not belong to you or, with exception of commenting on Visual Content in Blogs, where you may post such Content with explicit mention of the author’s name and a link to the source of the Content;
+8.  With the exception of accessing RSS feeds, you agree not to use any robot, spider, scraper or other automated means to access the Site for any purpose without our express written permission. Additionally, you agree that you will not: (i) take any action that imposes, or may impose in our sole discretion an unreasonable or disproportionately large load on our infrastructure. (ii) interfere or attempt to interfere with the proper working of the Site or any activities conducted on the Site. or (iii) bypass any measures we may use to prevent or restrict access to the Site;
 9.  To artificially inﬂate or alter vote counts, blog counts, comments, or any other Service or for the purpose of giving or receiving money or other compensation in exchange for votes, or for participating in any other organized effort that in any way artificially alters the results of Services;
-10.  To advertise to, or solicit, any user to buy or sell any products or services, or to use any information obtained from the Services in order to contact, advertise to, solicit, or sell to any user without their prior explicit consent;
-11.  To promote or sell Content of another person
+10.  To advertise to, or solicit, any user to buy or sell any third party products or services, or to use any information obtained from the Services in order to contact, advertise to, solicit, or sell to any user without their prior explicit consent;
+11.  To promote or sell Visual Content of another person. or
 12.  To sell or otherwise transfer your profile.
 
 To report a suspected abuse of the Site or a breach of the Terms (other than relating to copyright infringement which is addressed under “COPYRIGHT COMPLAINTS” below) please send written notice to 500px at email: help@500px.com.
 
 You are solely responsible for your interactions with other users of the Site. 500px reserves the right, but has no obligation, to monitor disputes between you and other users.
 
-**Basically,** You cannot use our site to post pornographic material, harass people, send spam, negatively vote on all photos, and do other crazy stuff. Be reasonable and responsible, don't do anything stupid and you'll be fine. Content Submitted Or Made Available For Inclusion On The Service
+**Basically,**
 
-Please read this section carefully before posting, uploading, or otherwise submitting any Content to the site. By submitting content to the site you are granting 500px a worldwide, Non exclusive license to use the content and are representing and warranting to 500px That the content is owned or duly licensed by you, and that 500px is free to publish, Distribute and use the content as hereinafter provided for without obtaining permission Or license from any third party.
+You cannot use our site to post pornographic material, harass people, send spam, and do other crazy stuff. Be reasonable and responsible, don't do anything stupid, and you'll be fine.
 
-In consideration of 500px’s agreement to allow you to post Content to the Site and 500px’s agreement to publish such Content and for other valuable consideration the receipt and sufficiency of which are hereby expressly and irrevocably acknowledged, you agree with 500px as follows:
+Content Submitted Or Made Available For Inclusion On The Service
+
+Please read this section carefully before posting, uploading, or otherwise submitting any Visual Content to the Site. By submitting content to the Site you are granting 500px a worldwide, non-exclusive license to use the Visual Content and are representing and warranting to 500px that the Visual Content is either owned or you are authorized to represent or distribute the Visual Content, and that 500px is free to publish, distribute and use the Visual Content as provided in these Terms without obtaining permission, consent or any license from any third party.
+
+In consideration of 500px’s agreement to allow you to use the Services, you agree with 500px as follows:
 
 1.  You acknowledge that:
-    1.  By uploading your photographic or graphic works to 500px you retain full rights to those works that you had prior to uploading.
-    2.  By posting Content to the Site you hereby grant to 500px a non-exclusive, transferable, fully paid, worldwide license (with the right to sublicense) to use, distribute, reproduce, modify, adapt, publicly perform and publicly display such Content in connection with the Services. This license will exist for the period during which the Content is posted on the Site and will automatically terminate upon the removal of the Content from the Site;
-    3.  The license granted to 500px includes the right to use your Content fully or partially for promotional reasons and to distribute and redistribute your Content to other parties, web-sites, applications, and other entities, provided such Content is attributed to you in accordance with the credits (i.e. username, profile picture, photo title, descriptions, tags, and other accompanying information) if any and as appropriate, all as submitted to 500px by you;
-    4.  500px uses industry recognized software and measures to restrict the ability of users and visitors to the Site to make high resolution copies of Content posted on the Site. Notwithstanding this, 500px makes no representation and warranty that Content posted on the Site will not be unlawfully copied without your consent. 500px does not restrict the ability of users and visitors to the Site to make low resolution or ‘thumbnail’ copies of Content posted on the Site and you hereby expressly authorize 500px to permit users and visitors to the Site to make such low resolution copies of your Content. and
-    5.  Subject to the terms of the foregoing license, you retain full ownership or other rights in your Content and any intellectual property rights or other proprietary rights associated with your Content.
+    *   Any Visual Content uploaded to your account must be photographed by you;
+    *   By uploading your photographic or graphic works to 500px you retain full rights to those works that you had prior to uploading;
+    *   By posting Visual Content to the Site you grant to 500px a non-exclusive, transferable, fully paid, worldwide license (with the right to sublicense) to use, distribute, reproduce, modify, adapt, publicly perform and publicly display such Visual Content in connection with the Services. This license will exist for the period during which the Visual Content is posted on the Site and will automatically terminate upon the removal of the Visual Content from the Site;
+    *   The license granted to 500px includes the right to use Visual Content fully or partially for promotional reasons and to distribute and redistribute Visual Content to other parties, websites, authorized agents, applications, and other entities, provided such Visual Content is attributed in accordance with the credits (i.e. username or collection name, profile picture, photo title, descriptions, tags, and other accompanying information) if any and as appropriate, as submitted to 500px (notwithstanding the foregoing, no inadvertent failure to provide attribution shall be considered a breach of these Terms);
+    *   500px has the right to modify, alter and amend photo titles, descriptions, tags, and other accompanying information for any Visual Content and the right to submit Visual Content to other parties and authorized agents for the purpose of creating tags for Visual Content;
+    *   500px uses industry recognized software and measures to restrict the ability of users and visitors to the Site to make high resolution copies of Visual Content posted on the Site. Notwithstanding this, 500px makes no representation and warranty that Visual Content posted on the Site will not be unlawfully copied without your consent. 500px does not restrict the ability of users and visitors to the Site to make low resolution or ‘thumbnail’ copies of Visual Content posted on the Site and you hereby expressly authorize 500px to permit users and visitors to the Site to make such low resolution copies of the Visual Content. and
+    *   Subject to the terms of the foregoing license, ownership or other rights in the Visual Content including any intellectual property rights or other proprietary rights associated with the Visual Content are retained by you or the Visual Content owner represented by You.
 2.  You represent and warrant that:
-    1.  You are the owner of all rights, including all copy rights in and to all Content you submit to the site;
-    2.  You have the full and complete right to enter into this agreement and to grant to 500px the rights in the Content herein granted, and that no further permissions are required from, nor payments required to be made to any other person in connection with the use by 500px of the Content as contemplated herein. and
-    3.  The Content does not defame any person and does not infringe upon the copyright, moral rights, publicity rights, privacy rights or any other right of any person, or violate any law or judicial or governmental order.
-3.  You shall not have any right to terminate the permissions granted herein, nor to seek, obtain, or enforce any injunctive or other equitable relief against 500px, all of which such rights are hereby expressly and irrevocably waived by you in favour of 500px.
+    *   You are the owner or the authorized representative of the owner of all rights, including all copyrights in and to all Visual Content you submit to the site;
+    *   You have the full and complete authority and right to enter into this agreement and to grant to 500px the rights in the Visual Content herein granted, and that no further permissions are required from, nor payments required to be made to any other person in connection with the use by 500px of the Visual Content as contemplated herein. and
+    *   The Visual Content does not defame any person and does not infringe upon the copyright, moral rights, publicity rights, privacy rights or any other right of any person, or violate any law or judicial or governmental order.
+3.  You shall not have any right to terminate the permissions granted herein, nor to seek, obtain, or enforce any injunctive or other equitable relief against 500px, all of which such rights are hereby expressly and irrevocably waived by you in favor of 500px.
 
-**Basically,** Your photos will preserve whatever copyright they had before uploading to this site. We will protect the copyright and will not sell your photos without your permission. Premium Services
+**Basically,**
 
-500px provides premium services to holders of its 'Plus' or ‘Awesome’ ("premium") accounts. In addition to the general terms and conditions provided for by these Terms, the following terms and conditions apply specifically to premium account holders:
+Your photos will preserve whatever copyright they had before uploading to this site. We will protect the copyright and we will not sell your photos without your permission.
 
-1.  Services available to premium account holders are described on the account Upgrade page. Any feature that is not described on the account Upgrade page cannot be grounds for refund of an Awesome account.
-2.  500px may modify, suspend or discontinue Services provided to premium account holders at any time at its sole discretion and without prior notice.
-3.  500px provides new premium account holders with a 14 day trial period and will provide a full refund if you choose to terminate your Awesome account within this period. If you choose to terminate your Awesome account after the 14 day trial period you will be responsible for paying your Awesome account fee up to and including the Termination Date.
-4.  Any refund owing to you will be paid within 30 days of the Termination Date provided your request for termination included your username and full name as it appears in your PayPal account or on your credit card.
+Premium Account Services
 
-**Basically,** We offer free 14 day no-obligation trial to try all the features of Awesome and Plus accounts. Refunds apply only to services described on upgrade page. This does not include third-party offerings such as Adobe products, which are non-refundable. Fair Usage Policy
+500px provides premium services to holders of its ‘Awesome’, ‘Pro’ or ‘Pro+’ Premium Accounts. To register for a Premium Account, you must be at least 18 years of age and have a valid 500px account. In addition to the general terms and conditions provided for by these Terms, the following terms and conditions apply specifically to Premium Account holders:
 
-500px maintains a fair usage policy to ensure stable and fast service to all users.
+1.  Services available to Premium Account holders are described on the account Upgrade page. Premium Accounts are only available on an annual membership basis.
+2.  500px may modify, suspend or discontinue Services provided to Premium Account holders at any time at its sole discretion and without prior notice.
+3.  500px provides new Premium Account holders with a thirty (30) day trial period and will provide a full refund if you choose to terminate your Premium Account within this period by providing a notice in writing to 500px of your Account termination that will be effective upon receipt (the “Termination Date”). If you choose to terminate your Premium Account after the 30-day trial period, you are not entitled to any refund for any fees paid for your Premium Account. If your Premium Account includes any Adobe Creative Cloud Photography plan purchased as an additional feature (an “Adobe Add-On”), you are not entitled to any refund after purchasing such a Premium Account that includes an Adobe Add-On.
+4.  Any refund owing to you will be paid within 30 days of the Termination Date provided your written notice of termination includes your username and full name as it appears on your account or on your credit card.
+5.  The Format portfolio product offered by Ideaform Inc. (collectively, “Format”) is included with Pro+ Premium Accounts. Specific terms may apply to the use of Format that will be communicated to Pro+ Premium Account holders separately.
 
-Free accounts are limited to a maximum of 20 new photographs/images per week and 2,000 photographs/images in total (approximately 60Gb of storage) and 1Gb of data transfer from profile and portfolios per month. Any additional usage may result in restrictions on your account including limited access to your portfolio or a requirement to upgrade if the limit is exceeded for several months.
+**Basically,**
 
-Premium accounts are limited to maximum of 1,000 new photographs/images per week 100,000 photographs/ images in total (approximately 3,000Gb of storage) and 10Gb of data transfer per month. Awesome accounts that exceed a limit for several months will be notified of their usage and restrictions may be imposed if usage is not corrected.
+We offer a free 14 day no-obligation trial to try all the features of Pro accounts. Refunds apply only to services described on the Upgrade page.
 
-**Basically,** If you use more than your fair share, we may gradually limit your account. Store
+Fair Storage Policy
 
-If you choose to register to use the 500px Store (the “Store”) the following terms and conditions apply in addition to the general Terms. Throughout these Terms, a reference to the ‘purchase’ or ‘sale’(or similar words) of Store Images (as defined below) means the purchase or sale of a Customer License (as defined below) to use a Store Image.
+500px maintains a fair storage policy to ensure stable and fast service to all users.
 
-**About the Store**
+Free accounts are limited to a maximum of 7 new photographs/images per week and 2,000 photographs/images in total (approximately 60Gb of storage, and 1Gb of data transfer from profile and portfolios per month). Any additional storage may result in restrictions on your account including limited access to your Visual Content or a requirement to upgrade if the limit is exceeded for several months.
 
-The Store is a Service provided by 500px that allows users to post photos and images for sale to the public. Photos and images are sold by 500px pursuant to the license granted to 500px below. To use the Store you must be at least 18 years of age and have a valid 500px account. By uploading any photos or images to the Store (collectively your “Store Images”) you make the following additional representations and warranties to 500px:
+Premium Accounts are limited to maximum of 1,000 new photographs/images per week and 100,000 photographs/ images in total (approximately 3,000Gb of storage and 10Gb of data transfer per month). Premium Accounts that exceed a limit for several months will be notified of their usage and restrictions may be imposed if usage is not corrected.
 
-1.  You can lawfully enter into contracts under applicable law and you are at least 18 years old.
-2.  You hereby irrevocably waive all moral rights in your Store Images. and
-3.  You have obtained and have copies of model releases from all subjects depicted in your Store Images, and such persons voluntarily consented to publication and/or dissemination of their likeness for all legal purposes. Upon our request you will provide a copy of the model release from any subject depicted in your Store Images to 500px.
+**Basically,**
 
-**Use of the Content and Grant of License**
+If you use more than your fair share, we may gradually limit your account.
 
-500px will use your Store Images for the purpose licensing your Store Images to customers of the Store (“Customers”) in such formats as we may, from time to time make available to Customers, including without limiting the generality of the foregoing, via electronic download and print. In connection with the foregoing, in addition to the licenses you grant to 500px elsewhere in these Terms, you grant to 500px a non-exclusive, transferable, fully paid, worldwide license (with the right to sublicense) to use, publish, copy, publicly perform, publicly display, reformat, translate, excerpt (in whole or in part) and distribute copies of your Store Images (the “Store License”).
+Marketplace
 
-The Store License includes the right for 500px to use screen resolution images and thumbnails of your Store Images for display and promotional purposes on the 500px Site, the Store, third party sites, and in connection with internet search results, and embeddable codes. Screen resolution images will be accompanied by your credits.
+If you choose to register to use the 500px Marketplace (the “Marketplace”) the following terms and conditions apply in addition to the general Terms. Throughout these Terms, a reference to the ‘purchase’ or ‘sale’ (or similar words) of Marketplace Content (as defined below) means the acquisition of a Customer License (as defined below) to use Marketplace Content.
 
-Your Store Images will be licensed to Customers by 500px in accordance with the 500px Customer License in effect at the time the Customer purchases your Store Image. The 500px Customer License is available at: 500px.com/terms/download\_license.pdf.
+**About the Marketplace**
 
-**Removal of Store Images**
+The Marketplace is a Service provided by 500px that allows users who enter into a 500px Contributor Agreement to post Visual Content for sale to the public. Visual Content is licensed directly by 500px and through its third party Marketplace Content partners to users pursuant to an end user license agreement. To use the Marketplace you must be at least 18 years of age and have a valid 500px account. In order to upload Visual Content to the Marketplace ( your “Marketplace Content ”) you must agree to these additional contributor terms.
 
-At any time you can remove your Store Images from the Store automatically using the Store settings. In addition, 500px may remove any Store Images that it believes to be in breach of the Terms. In all cases copies of your Store Images posted on any third party sites and used for promotional purposes shall be removed within a reasonable period of time following your removal request, however submitted. Except as otherwise provided for herein, the Store License will exist for the period during which a Store Image is posted on the Store and will automatically terminate upon the removal of the Store Image from the Store. Notwithstanding the foregoing, the Store License will continue in respect of any Store Images which were purchased by Customers prior to their removal of the Store until fulfillment of such purchase requests.
+**Basically,**
 
-Subject to the licenses granted to 500px in these Terms you retain ownership of your Store Images.
+If you register to use the Marketplace, the following terms apply to you. You must also agree to the additional contributor terms.
 
-**Payment of Fees upon Sale of Store Images**
-
-You will be paid fees (“Fees”) for the sale of Store Images in accordance with the 500px fee schedule in effect at the time a Customer purchases a Store Image. 500px reserves the right to change the fee schedule from time to time and at any time at its sole discretion. We will notify you of changes to the fee schedule by posting an announcement on the Site. You shall be responsible for reviewing any such changes. Your continued use of the Store, including the continued posting of your Store Images in the Store after a change in fees will signify your acceptance of the revised fee schedule. The fee schedule is available at: 500px.com/terms/fee\_schedule.pdf.
-
-In addition to the foregoing, the following terms and conditions shall apply to payment of Fees to you for your Store Images sold through the Store:
-
-1.  The purchase and sale of your Store Images will be deemed to be complete 45 days after payment is received by 500px from the Customer.
-2.  Fees shall not be paid in respect of any Store Image that is returned by the Customer for exchange or refund.
-3.  Payment will be processed via PayPal as indicated in your 500px account or by cheque mailed to an address designated by you in your 500px account.
-4.  If you choose payment by cheque 500px will deduct a processing fee of $10 USD from the amount owing to you.
-5.  500px may deduct or withhold from any amount owing to you any withholding taxes, or other levies as required by applicable law. \[The 500px sales report will include all such deductions and withholdings.\] You are otherwise responsible for paying all taxes, etc. payable in respect of the Fees paid to you.
-
-500px shall not be obligated to pay any Fees in respect of Store Images that are used in the Store, the Site, third party sites, or in other locations for promotional purposes.
-
-**Termination**
-
-You may terminate your Store account at any time in your sole discretion. 500px may terminate your store account at any time for any reason or no reason. All Store Images remaining in your Store account will be removed by 500px upon termination of your store account.
-
-**Basically,** If you are using the Market to sell your photos for profit, you give us permission to deliver downloads. Your photos will be kept safe. Copyright Complaints
+Copyright Complaints
 
 500px respects the intellectual property rights of others. It is our policy to respond promptly any claim that Content posted on the Site infringes the copyright or other intellectual property infringement (“Infringement”) of any person. 500px will use reasonable efforts to investigate notices of alleged Infringement and will take appropriate action under applicable intellectual property law and these Terms where it believes an Infringement has taken place, including removing or disabling access to the Content claimed to be infringing and/or terminating accounts and access to the Site.
 
@@ -139,38 +145,95 @@ If we remove or disable access to Content in response to a notice of Infringemen
 
 If you are uncertain whether an activity constitutes Infringement, we recommended seeking advice of an attorney.
 
-**Basically,** We respect copyright. If anything is wrong, please send an email with all the details to help@500px.com. Links
+**Digital Millennium Copyright Act - Notification of Alleged Copyright Infringement**
+
+500px has registered an agent with the United States Copyright Office in accordance with the terms of the Digital Millennium Copyright Act (the “Act”) and avails itself of the protections under the Act. 500px reserves the right to remove any Visual Content or Communications that allegedly infringes another person’s copyright. 500px will terminate, in appropriate circumstances, Users who are repeat infringers of another person’s copyright. Notices to 500px regarding any alleged copyright infringement should be directed to 500px via email at: copyrightinfringement@500px.com.
+
+**Filing a DMCA Notice to Remove Copyright-Protected Content**
+
+If you believe in good faith that your work has been copied in a way that constitutes copyright infringement, please provide us with a written notice containing the following information:
+
+*   Your name, address, telephone number, and email address (if any);
+*   A description of the copyrighted work that you claim has been infringed;
+*   A description of where on the Website the material that you claim is infringing may be found, sufficient for 500px to locate the material (e.g., the URL);
+*   A statement that you have a good faith belief that the use of the copyrighted work is not authorized by the copyright 500px, its agent, or the law and is not a fair use;
+*   A statement by you UNDER PENALTY OF PERJURY that the information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf. and
+*   Your electronic or physical signature.
+
+**Filing a DMCA Counter-Notice to Restore Content Removed from the Website**
+
+If you believe that your material has been removed by mistake or misidentification, please provide 500px with a written counter-notification containing the following information:
+
+*   Your name, address, telephone number, and email address (if any);
+*   A description of the material that was removed and the location on the Website (e.g., the URL) where it previously appeared;
+*   A statement UNDER PENALTY OF PERJURY that you have a good faith belief that the material was removed or disabled as a result of mistake or misidentification;
+*   A statement that you consent to the jurisdiction of the Federal District Court for the judicial district in which your address is located, or if your address is outside of the United States, any judicial district in which 500px may be found (which includes the United States District Court for the Southern District of New York), and that you will accept service of process from the person who filed the original DMCA notice or an agent of that person. and
+*   Your electronic or physical signature.
+
+**Basically,**
+
+We respect copyright. If anything is wrong, please send an email with all the details to help@500px.com.
+
+Links
 
 The Services may provide, or third parties may provide, links to other World Wide Web sites or resources. Because 500px has no control over such sites and resources, you acknowledge and agree that 500px is not responsible for the availability of such external sites or resources, and does not endorse and is not responsible or liable for any content, advertising, products or other materials on or available from such sites or resources. You further acknowledge and agree that 500px shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such site or resource.
 
-**Basically,** Some people may post links, we are not responsible for those links. Release And Indemnity
+**Basically,**
+
+Some people may post links. we are not responsible for those links.
+
+Release And Indemnity
 
 You hereby expressly and irrevocably release and forever discharge 500px, its affiliated and associated companies, and their respective directors, officers, employees, agents, representatives, independent and dependent contractors, licensees, successors and assigns of and from any and all actions, causes of action, suits, proceedings, liability, debts, judgments, claims and demands whatsoever in law or equity which you ever had, now have, or hereafter can, shall or may have, for or by reason of, or arising directly or indirectly out of your use of the Site and the Services.
 
-You hereby agree to indemnify and hold harmless 500px, its affiliated and associated companies, and their respective directors, officers, employees, agents, representatives, independent and dependent contractors, licensees, successors and assigns from and against all claims, losses, expenses, damages and costs (including, but not limited to, direct, incidental, consequential, exemplary and indirect damages), and reasonable attorneys' fees, resulting from or arising out of (i) a breach of these Terms, (ii) Content posted on the Site, (iii) the use of the Services, by you or any person using your account or 500px Username and password, (iv) the sale or use of your Store Images, or (v) any violation of any rights of a third party.
+You hereby agree to indemnify and hold harmless 500px, its affiliated and associated companies, and their respective directors, officers, employees, agents, representatives, independent and dependent contractors, licensees, successors and assigns from and against all claims, losses, expenses, damages and costs (including, but not limited to, direct, incidental, consequential, exemplary and indirect damages), and reasonable attorneys' fees, resulting from or arising out of (i) a breach of these Terms, (ii) Content posted on the Site, (iii) the use of the Services, by you or any person using your account or 500px Username and password, (iv) the sale or use of your Marketplace Images, or (v) any violation of any rights of a third party.
 
-**Basically,** We are not liable if something goes really wrong. Always have a backup of your photos. Limitation Of Liability
+**Basically,**
 
-In no event shall 500px be liable under contract, tort, strict liability, negligence or other Legal theory with respect to the site, the service or any content (i) for any lost profits or Special, indirect, incidental, punitive, or consequential damages of any kind whatsoever, (ii)
+We are not liable if something goes really wrong. Always have a backup of your photos.
 
-To provide substitute goods or services (however arising), or (iii) for any direct damages in Excess of (in the aggregate) $100.
-
-**Basically,** Again, we are not liable. But we may pay you $100 if our server flies into your window. Trademarks
+Trademarks
 
 500px, 500px.com and other 500px graphics, logos, designs, page headers, button icons, scripts, and service names are registered trademarks, trademarks or trade dress of 500px. 500px’s trademarks and trade dress may not be used in connection with any product or service without the prior written consent of 500px. The images and icons available in the 500px icon pack may used by partners and third party sites in connection with providing appropriate links to the 500px Site.
 
-**Basically,** Please respect our trademarks and brands. Termination
+**Basically,**
+
+Please respect our trademarks and brands.
+
+Termination
 
 500px may terminate or suspend any and all Services and/or your 500px account immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms. Upon termination of your account, your right to use the Services will immediately cease. If you wish to terminate your 500px account, you may simply discontinue using the Services. All provisions of the Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.
 
-It is your responsibility to remove all Content from your account prior to termination. Upon termination of your account 500px will automatically remove all Content posted to your account.
+It is your responsibility to remove all Visual Content from your account prior to termination. Upon termination of your account 500px will automatically remove all Visual Content posted to your account.
 
-**Basically,** We may stop providing services at any time. You can stop using your account or close it at any time as well. Change
+**Basically,**
 
-500px reserves the right, at its sole discretion, to modify or replace the terms at any time. If the alterations constitute a material change to the terms, 500px will notify you by posting an announcement on the site. What constitutes a material change will be determined at 500px’s sole discretion. You shall be responsible for reviewing and becoming familiar with any such modifications. Using any service or viewing any content following notification of a material change to the terms shall constitute your acceptance of the Terms as modified.
+We may stop providing services at any time. You can also stop using your account or close your account at any time.
 
-**Basically,** If these terms of use change, we will notify you. Miscellaneous
+WARRANTY DISCLAIMER
 
-No agency, partnership, joint venture, or employment is created as a result of the Terms and you do not have any authority of any kind to bind 500px in any respect whatsoever. The failure of either party to exercise in any respect any right provided for herein shall not be deemed a waiver of any further rights hereunder. 500px shall not be liable for any failure to perform its obligations hereunder where such failure results from any cause beyond 500px’s reasonable control, including, without limitation, mechanical, electronic or communications failure or degradation (including "line-noise" interference). If any provision of the Terms is found to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary so that the Terms shall otherwise remain in full force and effect and enforceable. 500px may transfer, assign or delegate the Terms and its rights and obligations without consent. The Terms shall be governed by and construed in accordance with the laws of Ontario, as if made within Ontario between two residents thereof, and the parties submit to the exclusive jurisdiction of Ontario courts. Both parties agree that the Terms is the complete and exclusive statement of the mutual understanding of the parties and supersedes and cancels all previous written and oral agreements, communications and other understandings relating to the subject matter of the Terms, and that all modifications must be in a writing signed by both parties, except as otherwise provided herein.
+YOU USE THE SITE AND THE SERVICES AT YOUR OWN RISK. THE SITE AND THE SERVICES ARE PROVIDED ON AN “AS IS, AS AVAILABLE” BASIS. 500PX EXPRESSLY DISCLAIMS ALL WARRANTIES, INCLUDING THE WARRANTIES OF MERCHANTABILITY, TITLE, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. 500PX DISCLAIMS ALL RESPONSIBILITY FOR ANY LOSS, INJURY, CLAIM, LIABILITY, OR DAMAGE OF ANY KIND RESULTING FROM, ARISING OUT OF OR IN ANY WAY RELATED TO (A) ANY ERRORS IN OR OMISSIONS FROM THIS SITE AND THE SERVICES, INCLUDING, BUT NOT LIMITED TO, TECHNICAL INACCURACIES AND TYPOGRAPHICAL ERRORS, (B) THIRD PARTY COMMUNICATIONS, (C) ANY THIRD PARTY WEBSITES OR CONTENT DIRECTLY OR INDIRECTLY ACCESSED THROUGH LINKS IN THE SITE, INCLUDING BUT NOT LIMITED TO ANY ERRORS OR OMISSIONS, (D) THE UNAVAILABILITY OF ALL OR ANY PART OF THE SITE OR THE SERVICES, (E) YOUR USE OF THE SITE OR THE SERVICES, OR (F) YOUR USE OF ANY EQUIPMENT OR SOFTWARE IN CONNECTION WITH THE SITE OR THE SERVICES.
 
-**Basically,** Things can happen — we are not responsible.
+LIMITATION OF LIABILITY
+
+EXCEPT AS OTHERWISE PROVIDED BY LAW, NEITHER 500PX NOR ANY OF ITS AFFILIATES, PARENTS, SUBSIDIARIES, DIRECTORS, SHAREHOLDERS, EMPLOYEES OR AGENTS SHALL BE LIABLE FOR ANY LOSS, INJURY, CLAIM, LIABILITY, OR DAMAGE OF ANY KIND RESULTING FROM YOUR USE OF THE SITE, ANY FACTS OR OPINIONS APPEARING THEREON, OR THE SERVICES. 500PX SHALL NOT BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, INCIDENTAL, PUNITIVE OR CONSEQUENTIAL DAMAGES OF ANY KIND WHATSOEVER (INCLUDING, WITHOUT LIMITATION, ATTORNEYS’ FEES) IN ANY WAY DUE TO, RESULTING FROM, OR ARISING IN CONNECTION WITH THE USE OF OR INABILITY TO USE THE SITE OR SERVICES. TO THE EXTENT THE FOREGOING LIMITATION OF LIABILITY IS PROHIBITED OR FAILS OF ITS ESSENTIAL PURPOSE, 500PX’ SOLE OBLIGATION TO YOU FOR DAMAGES SHALL BE LIMITED TO $100.00.
+
+YOU AND 500PX AGREE THAT ANY PROCEEDINGS TO RESOLVE OR LITIGATE ANY DISPUTE ARISING HEREUNDER WILL BE CONDUCTED SOLELY ON AN INDIVIDUAL BASIS, AND THAT YOU WILL NOT SEEK TO HAVE ANY DISPUTE HEARD AS A CLASS ACTION, A REPRESENTATIVE ACTION, A COLLECTIVE ACTION, A PRIVATE ATTORNEY-GENERAL ACTION, OR IN ANY PROCEEDING IN WHICH YOU ACT OR PROPOSE TO ACT IN A REPRESENTATIVE CAPACITY. YOU FURTHER AGREE THAT NO PROCEEDING WILL BE JOINED, CONSOLIDATED, OR COMBINED WITH ANOTHER PROCEEDING WITHOUT THE PRIOR WRITTEN CONSENT OF 500PX AND ALL PARTIES TO ANY SUCH PROCEEDING.
+
+Miscellaneous
+
+The Terms shall be governed by and construed in accordance with the laws of the State of New York, as if made within New York between two residents thereof, The United Nations Convention on the International Sale of Goods shall not apply and is expressly excluded.
+
+Any controversies or disputes arising out of or relating to these Terms shall be resolved by binding arbitration in accordance with the then current Commercial Arbitration Rules of the American Arbitration Association or of the International Center for Dispute Resolution to be held in one of the following jurisdictions (whichever is closest to you): \[New York, New York. San Francisco, California. or Toronto, Canada\]. The parties shall select a mutually acceptable arbitrator knowledgeable about issues relating to the subject matter of these Terms. The arbitration proceeding shall be conducted in English and all documentation shall be presented and filed in English. All documents, materials and information in the possession of each party that are in any way relevant to the dispute shall be made available to the other party for review and copying no later than 30 days after the notice of arbitration is served. The arbitrator shall not have the authority to modify any provision of these Terms or to award punitive damages. The arbitrator shall have the power to issue mandatory orders and restraint orders in connection with the arbitration. The decision rendered by the arbitrator shall be final and binding on the parties, and judgment may be entered in conformity with the decision in any court having jurisdiction. The prevailing party shall be entitled to recover its reasonable legal costs relating to that aspect of its claim or defense on which it prevails, and any opposing costs awards shall be offset. The agreement to arbitration shall be specifically enforceable under the prevailing arbitration law. During the continuance of any arbitration proceeding, the parties shall continue to perform their respective obligations under these Terms. The parties agree that, notwithstanding any otherwise applicable statute(s) of limitation, any arbitration proceeding shall be commenced within two years of the acts, events, or occurrences giving rise to the claim.
+
+**Indemnification of 500px**
+
+You, agree to defend, indemnify and hold 500px, its affiliates and its sponsors, partners, other co-branders and the respective directors, officers and employees of each harmless from and against any and all claims, losses, damages, liabilities and costs (including, without limitation, reasonable attorneys' fees and court costs) arising out of or relating to your breach of any of these Terms or use by you or any third party of the Services. 500px reserves the right, at its own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you.
+
+**General**
+
+These Terms constitute the entire understanding of the parties and supersede all prior and contemporaneous written and oral agreements with respect to the subject matter hereof. Any rule of construction stating that ambiguities are to be resolved against the drafting party will not be applied in the construction or interpretation of these Terms. If one or more of the provisions herein shall be held invalid, illegal or unenforceable in any respect, the validity, legality and enforcement of the remaining provisions shall not be affected or impaired. Any inconsistency between these Terms in English and these Terms in any other language shall, to the fullest extent permitted by applicable law, be resolved by reference to the English version. The failure to enforce or the waiver by either party of a default or breach of the other party shall not be considered to be a waiver of any prior, subsequent or other default or breach.
+
+**Basically,**
+
+We are not liable if things go really wrong. Things can happen — we are not responsible.
