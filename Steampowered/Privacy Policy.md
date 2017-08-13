@@ -1,5 +1,3 @@
-  
-  
 Valve® Corporation respects the privacy of its online visitors and users of its products and services and complies with the Privacy Shield Framework as agreed to by the US Department of Commerce and the European Commission. Valve recognizes the importance of protecting information collected from users and has adopted this privacy policy to inform users about how Valve gathers, stores, and uses information derived from their use of Valve products, services and online sites.  
   
 This policy is current as of its last revision date. However, please note that this policy may be amended from time to time to reflect changes and additions to the privacy policy. Please check back for the most current version before relying on any of the provisions in this privacy policy.  
