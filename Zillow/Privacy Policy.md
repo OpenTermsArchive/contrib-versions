@@ -1,15 +1,8 @@
-**Your browser is out of date**  
-Download the Zillow app for a more immersive experience.  
-  
-Or try a newer browser:  
+<iframe width="0" style="display:none;visibility:hidden" src="//www.googletagmanager.com/ns.html?id=GTM-P6HT97" height="0"></iframe>. Homepage Sign in or Join Sign In
 
-*   Chrome
-*   ·
-*   Safari
-*   ·
-*   Firefox
+Need an account?  Sign up here
 
-Homepage List your rental Sign in or Join Advertise Buy
+Advertise Buy
 
 *   Homes for sale
     *   *   Homes for sale
@@ -255,3 +248,5 @@ _— Updated February 2016_
 
 *   © 2006-2017 Zillow
 *   Follow us
+
+<div style="position:fixed. top:0. left:0. display:none" width="1" height="1"><img src="//collector-PXHYx10rg3.perimeterx.net/api/v1/collector/noScript.gif?appId=PXHYx10rg3"></img></div><img src="https://sb.scorecardresearch.com/b2?c1=2&amp;c2=6036206&amp;c3=&amp;c4=www.zillow.com/corp/Privacy.htm&amp;c5=&amp;c6=&amp;c15=&amp;cv=1.3&amp;cj=1" alt="" width="0" style="display:none" height="0"></img>
