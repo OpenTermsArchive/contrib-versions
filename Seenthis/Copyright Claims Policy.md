@@ -14,7 +14,7 @@ Récupérer son propre contenu
 
 Tout utilisateur peut, d’ors et déjà, récupérer l’intégralité de ses contenus dans un fichier XML au format ATOM. Ce fichier est accessible à l’adresse :
 
-https://LOGIN:PASSWD@seenthis.net/?page=xml\_export
+❝quote❞ (shift+tab)\__italic_\_\***bold**\* https://LOGIN:PASSWD@seenthis.net/?page=xml\_exportLiens:https://LOGIN:PASSWD@seenthis.net/?page=xml\_exportImages:
 
 (remplacez LOGIN et PASSWD par votre login et votre mot de passe personnel).
 
