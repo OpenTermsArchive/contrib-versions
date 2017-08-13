@@ -248,6 +248,7 @@ AGREEMENT
         *   offering to sell, barter or trade, or selling, bartering or trading for your vote in any aspect of the Myspace Services that provides a voting functionality;
         *   modifying, adapting, translating, altering, reverse engineering, copying, decompiling, reverse assembling, disassembling, unencrypting, unhashing, or creating derivative works (as defined by the U.S. Copyright Act) or improvements (as defined by U.S. patent law) from any portion of the Myspace Services or the data or technology underlying their operation. or
         *   using the Myspace Services in a manner inconsistent with this Agreement or Applicable Law.
+        
 9.  Profiles and Profile Settings
     
     Myspace may allow you to create multiple Profiles associated with your Account on certain aspects of, or all of the Myspace Services. Examples of such Profiles are "Real Name Profiles", "Alias Profiles", "Parody Profiles", "Role Playing Profiles", "Fan Profiles", "Artist Profiles", or other Profiles that Myspace may authorize from time to time. We may offer you, from time to time, the ability to choose how you share or make your Profile, or aspects of it, available to others by means of "**Profile Settings**", which functionality may change as the Myspace Services evolve. Myspace currently makes all Profiles of Members aged 18 and older public by default. Profiles of Members whose ages are 13 to 17 are currently "restricted" by default, as further detailed in the Privacy Policy. You may adjust the public or restricted status of your Profile in your Profile Settings. We will make good faith efforts to honor Profile Settings, but are not responsible for errors and reserve the right to change the way Settings and preferences work from time to time, so visit your Profile Settings regularly to ensure that the reflect your preferences and to see how we may have added or changed how you can exercise choice. For more information on how to use Profile Settings, and how they are intended to work, click here. You may not use any Profile for purpose of impersonation, deception or confusion.
@@ -275,6 +276,7 @@ AGREEMENT
         
     3.  Ads, Affiliate Programs, and Links. Myspace may participate in various advertising and/or affiliate marketing programs. These programs are designed to provide a means for companies like Myspace to earn advertising fees by advertising and linking to other websites that sell products or services. Myspace may generate revenue from these other websites when you either click these links or purchase products and/or services from these links on those other websites.
         
+    
 12.  Member Disputes
     
     You are solely responsible for your interactions with other Users, third party developers and any other parties with whom you interact through the Myspace Services and/or Linked Services so use caution when dealing with others. Myspace reserves the right, but has no obligation, to become involved in any way with these disputes.
