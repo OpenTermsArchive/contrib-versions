@@ -1,8 +1,3 @@
-Privacy Policy
-
-Cpt Nemo  
-posted this on January 29, 2013, 05:49
-
 **PRIVACY POLICY**
 
 **Effective Date:**  This Privacy Policy was last revised on August 21, 2013.
