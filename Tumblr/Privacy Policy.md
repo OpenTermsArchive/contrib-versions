@@ -1,4 +1,4 @@
-Privacy Policy Last Modified: 2017-06-13 Tumblr is a U.S. company and subject only to U.S. laws and jurisdiction, so for the moment these Terms of Service (and any other terms, policies, or guidelines that we provide to you) are only available in English.
+Privacy Policy Last Modified: 2017-06-13Tumblr is a U.S. company and subject only to U.S. laws and jurisdiction, so for the moment these Terms of Service (and any other terms, policies, or guidelines that we provide to you) are only available in English.
 
 Tumblr, Inc. ("**Tumblr**," "**we**," "**us**," or "**our**") takes the private nature of your information very seriously. This policy regarding our privacy practices (the "**Privacy Policy**") describes how we treat the information we collect when you visit and use tumblr.com (the "**Site**") and/or Tumblr's other domains, products, advertising products, services, and/or content, including our iOS and Android mobile applications (collectively with the Site, the "**Services**"). Tumblr, along with Yahoo, is now part of Oath, a digital and mobile media company with more than 50 brands globally, and a member of the Verizon family of companies. The way we handle your information hasn’t changed, so this Privacy Policy still governs when you are on Tumblr, using a Tumblr app or interacting with our products, services or technologies. We may share non-personal information with our family companies for purposes such as product improvements, research and analysis, and to help them provide you with more relevant experiences. When you use the Services, you also consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. please read it carefully.
 
@@ -98,7 +98,9 @@ Your Account Information is protected by a password for your privacy and securit
 
 We seek to protect your information (including your Account Information) to ensure that it is kept private. however, we can't guarantee the security of any information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of user information at any time.
 
-It’s really important that you have a unique password for all of your accounts on the internet, including your Tumblr account. If you have trouble remembering passwords then you might consider using a service like 1Password or LastPass. What Information You Can Access
+It’s really important that you have a unique password for all of your accounts on the internet, including your Tumblr account. If you have trouble remembering passwords then you might consider using a service like 1Password or LastPass.
+
+What Information You Can Access
 
 If you are a registered user, you can access most information associated with your Account by logging into the Services and checking your Account Settings page. Registered and unregistered users can access and delete cookies through their web browser settings.
 
