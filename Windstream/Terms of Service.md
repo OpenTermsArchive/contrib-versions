@@ -5,7 +5,7 @@
 
 Search Windstream.com Search or Cancel Sign In
 
-Menu
+Menu▼▲
 
 *   Special Offers
 *   Move My Service
@@ -460,7 +460,7 @@ Windstream is one of the largest providers of telecommunications services in rur
 *   Enterprise
 *   Wholesale
 
-Copyright © Windstream Communications. All rights reserved.
+Copyright © 2017 Windstream Communications. All rights reserved.
 
 *   FIND US ON
 *   Twitter
@@ -552,7 +552,8 @@ Did you mean:
 
 Use Selected
 
-**Is your address not listed above?** Please check that you entered it correctly.
+**Is your address not listed above?**  
+Please check that you entered it correctly.
 
 Enter your address again  
 Proceed with the address you entered  
@@ -576,3 +577,5 @@ Try Again View Carriers in Your Area Check Availability We couldn’t find your 
 Please enter a valid phone number
 
 **Sorry. We were unable to find an account for this phone number.** Ensure the phone number is correct or enter another number that is your account phone number.
+
+<iframe src="https://bs.serving-sys.com/BurstingPipe?cn=ot&amp;onetagid=5442&amp;ns=1&amp;activityValues=$$Session=\[Session\]$$&amp;retargetingValues=$$$$&amp;dynamicRetargetingValues=$$$$&amp;acp=$$$$&amp;" style="display: none. width: 0px. height: 0px"></iframe>. <img src="https://windstream.d2.sc.omtrdc.net/b/ss/winwindstream/1/H.25.2--NS/0" height="1" width="1" border="0" alt="" />.
