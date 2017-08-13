@@ -1,4 +1,4 @@
-Welcome to disqus.com, the website and online service of Disqus, Inc. (“Disqus,” “we,” or “us” or “our”). This page explains the terms by which you may use our online service, web site, and software provided on or in connection with the service (collectively the “Service”). By accessing or using the Service you signify that you have read, understood and agree to be bound by these Terms of Service ("Terms") and to the collection and use of your information as set forth in the Disqus Privacy Policy at https://help.disqus.com/customer/en/portal/articles/466259-privacy-policy, whether or not you are a registered user of our Service. These Terms apply to all visitors, users, and others who access the Service (“Users”).
+Terms of Service Welcome to disqus.com, the website and online service of Disqus, Inc. (“Disqus,” “we,” or “us” or “our”). This page explains the terms by which you may use our online service, web site, and software provided on or in connection with the service (collectively the “Service”). By accessing or using the Service you signify that you have read, understood and agree to be bound by these Terms of Service ("Terms") and to the collection and use of your information as set forth in the Disqus Privacy Policy at https://help.disqus.com/customer/en/portal/articles/466259-privacy-policy, whether or not you are a registered user of our Service. These Terms apply to all visitors, users, and others who access the Service (“Users”).
 
 THESE TERMS CONTAIN A MANDATORY ARBITRATION OF DISPUTES PROVISION THAT REQUIRES THE USE OF ARBITRATION ON AN INDIVIDUAL BASIS TO RESOLVE DISPUTES, RATHER THAN JURY TRIALS OR CLASS ACTIONS, AND ALSO LIMITS THE REMEDIES AVAILABLE TO YOU IN THE EVENT OF A DISPUTE.
 
@@ -177,3 +177,14 @@ These Terms were first published and made effective on February 14th, 2017.
 If you are an federal agency, your use is governed by the Amendment found here.  
   
 Click here to view the Privacy Policy.
+
+Did you find this article helpful?
+
+Yes I found this article helpful No I did not find this article helpful
+
+Last Updated - Apr 04, 2017 02:37PM PDT
+
+Get Support:
+
+*   Discuss Disqus
+*   Support Hub
