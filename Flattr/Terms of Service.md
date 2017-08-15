@@ -1,194 +1,203 @@
-*   Terms of use
-*   Privacy policy
+Terms of Flattr  
+Terms of our Payment Provider MangoPay
 
-  
+Welcome to Flattr, a product and service provided by Flattr AB, Box 4111, 20312 Malmö, Sweden (“**Flattr**”, “**we**”, “**our**”, or “**us**”). We have developed the browser extension Flattr ("**Extension**") which can be downloaded at flattr.com (“**Website**”) and other domains and / or App Stores. The Extension is a browser add-on that allows users to easily contribute to content they like based on a smart algorithm that measures each individual user’s engagement on the websites he / she visits, and then automatically distributes the right amount of funds to the respective content.
 
-_Date of Last Revision: 15 may 2014_
+1\. Scope: To whom and what do these terms apply?
 
-Please read these terms of use carefully before using the Flattr website. By accessing this site or using any part of the site or any content or service on the site, you agree to be bound by these terms of use. If you do not agree to all the terms of use, you may not access the site or use the content or any service in the site.
+These terms of use (“**Terms**”) govern the use of the Extension and the processing of contributions (“**Transactions**”. Extension and Transactions together “**Services**”) by contributors, content creators and content publishing companies (all together “**Users**” or individually addressed “**You**”). All Users that are natural persons must be of full legal age, meaning at least 18 years (“**Adults**”). AS A MINOR YOU ARE NOT ENTITLED TO USE FLATTR. Please read these Terms carefully before using Flattr. By opening a Flattr account, You agree to the Terms. If You do not agree to the Terms, do not open an account or use our Services. Your own terms and conditions will only become part of this agreement if we have explicitly agreed upon this in writing.
 
-**1\. BACKGROUND**
+We can agree with You on additional terms with respect to certain new functions in connection with the Extension. However, we will duly inform You of such additional terms beforehand.
 
-The Flattr Site and the Service (defined below) are owned and operated by Flattr AB (“Flattr”, “we”, “us” or “our”), a Swedish company, and are accessed by you under these terms of use (“Terms”) which outline your obligations when using the Flattr service (“Service”). The Service includes but is not limited to the use of Flattr website or the web pages available at Flattr.com (“Flattr Site”), the Flattr button (“Button”), and the network of Button-enabled sites (“Network”) or Button-enabled sites contained within but not limited to text, user comments, messages, information, data, graphics, news articles, photographs, images, illustrations, software, audio clips and video clips (“Content”). You should also review our Privacy Policy (defined in clause 8), which outlines our obligations and practices towards handling any personal information that you may provide to us. “You” and “your” refer to anyone using the Flattr Site or using the Service.
+We reserve the right to offer additional services. If we do so, we may provide You with additional terms.
 
-**2\. MODIFICATIONS OF TERMS**
+These Terms are aimed at both end users and businesses. End users are persons who conclude legal transactions for a purpose that can be ascribed neither to their commercial nor self-employed professional activities. Businesses are either natural persons, legal entities or legally capable partnerships who exercise their commercial or self-employed professional activities when concluding a legal transaction.
 
-Flattr reserves the right to modify or replace at its sole discretion the Terms at any time. Flattr will notify all Flattr users of any changes to the Terms via the Flattr system and email. You will be responsible for reviewing and becoming familiar with any such modifications. Use of the Service or the Flattr Site by you following such notification constitutes your acceptance of the Terms as modified. We encourage you to periodically check the Flattr Site for any changes to the Terms.
+2\. When and how do we modify these Terms?
 
-**3\. SERVICE**
+We reserve the right to amend and adapt these Terms with future effect. You can always request the currently applicable version of these Terms via flattr.com/contact, or access them on our website. We will notify You via the email prior to their planned introduction, outlining any new regulations and their effective date. We will allow You a reasonable period of time, equating to at least six weeks, to declare whether they agree to the amended Terms for the continued use of Services. If You do not object within the given time period, which begins on receipt of the notification, the new regulations will be regarded by Flattr as agreed upon. We will advise You at the start of the given time period of Your right of objection, the objection period and the implications of not responding. This amendment mechanism does not apply to changes to major contractual obligations between us and You.
 
-Subject to your full compliance with the Terms and at Flattr’s sole discretion Flattr may provide you with the Service. The Service will include but not be limited to the use of the Flattr Site, the Button, the Network, the Content, the Button-enabled sites contained within the Content, any other service and content Flattr offers you, as well as the offering of any materials displayed, transmitted or performed on the Flattr Site or through the Service. Flattr may change, suspend or discontinue the Service, including the availability of any feature or content, for any reason and at any time. Flattr may also impose limits on certain features of the Service or restrict your access to parts or the whole of the Service without notice or liability.
+3\. What do I need to do to use your Services?
 
-4\. YOUR CONDUCT
+In order to use our Services, You must:
 
-As a condition of use of the Flattr Site and the Service, you agree that you are responsible for any activity that occurs under your account and that you are responsible for keeping your password secure.
+1.  install the Extension to contribute to content and
+2.  sign up for an account.
 
-Additionally, you agree not to use the Service for any purpose that is unlawful or prohibited by these Terms or any other purpose not reasonably intended by Flattr. By way of example only, and not as a limitation, you agree not to use the Service:
+3.1 Installation of the Extension
 
-(i) to abuse, harass, threaten, impersonate or intimidate other Flattr users or anyone else;
+You can install the Extension on Your desktop browser by clicking on the “Add to” button on flattr.com. Here You will find a list of the browsers we currently support.
 
-(ii) to post or transmit, or cause to be posted or transmitted, any Content that is infringing, libelous, defamatory, obscene, abusive, offensive, profane or otherwise violates any law or right of any third party;
+3.2 How to sign up and conclusion of the agreement Registration
 
-(iii) for any illegal or unauthorised purpose. If you are an international user, you agree to comply with all local laws regarding online conduct and acceptable content;
+You cannot use the Services without registration. the Extension will not be active without registration. You can register and open an account by including the required information truthfully in the signup form and submit this information by clicking the “Sign up” button. We will send You a confirmation of Your registration via email including the confirmation link after You have clicked the “Sign up” button. You will enter into an agreement with us as soon as You have clicked the confirmation link.  
+If requested by us, You agree to provide us with additional information about You or Your services within a reasonable time. Failure to do so may result in Your account being terminated or suspended.
 
-(iv) to post or transmit, or cause to be posted or transmitted, any communication or solicitation designed or intended to obtain password, account or private information from any Flattr user;
+Payment Account
 
-(v) to create or submit unwanted email, also known as “spam”, to any other Flattr user or any URL;
+If you want to contribute or receive contributions, You must open a payment account, which is technically operated by our Payment Provider (Section 8), but integrated in Your Flattr account in our Services.  
+To open a payment account You must be either:
 
-(vi) to submit stories or comments linking to affiliate programs, multi-level marketing schemes, sites/blogs repurposing existing stories (source hops) or off-topic content;
+*   a natural person being an Adult, with capacity to enter into legally binding contracts, or
+*   a legal person, resident or registered in a member State of the European Union or in a state that is party to the agreement relating to the European Economic Area, or in a third country that imposes the equivalent requirements regarding money laundering and the financing of terrorism.
 
-(vii) with the exception of accessing RSS feeds, you will not use any robot, spider, scraper or other automated means to access the Flattr Site for any purpose without our express written permission. Additionally, you agree that you will not: (i) take any action that imposes or may impose at our sole discretion an unreasonable or disproportionately large load on our infrastructure. (ii) interfere or attempt to interfere with the proper working of the Flattr Site or any activities conducted on the Flattr Site. or (iii) bypass any measures we may use to prevent or restrict access to the Flattr Site;
+Opening a payment account requires additional information, which must be provided by You. For more information on what information is required, please refer to our Privacy Policy.
 
-(viii) with the intention of artificially inflating or altering the number of Button clicks, comments or any other Flattr service, including by way of creating separate user accounts for the purpose of artificially altering any Flattr’s services (including but not limited to the Service). or participating in any other organised effort that in any way artificially alters the results of any Flattr’s services (including but not limited to the Service);
+KYC
 
-(ix) to use any information obtained from the Service in order to contact, advertise to, solicit or sell to any user without their prior explicit consent;
+Pursuant to the laws for the prevention of money laundering and terrorism financing, the Payment Provider (Section 8) is obliged to identify every User and to collect certain documents and information in this regard for the purpose of receiving money or withdrawing money. This so called “Know your customer” (“**KYC**”) information is mandatory for contributing and / or receiving contributions. For more information, please refer to our Privacy Policy. KYC might take up to three (3) working days.  
+We reserve the right to refuse the registration of, or cancel an account at our sole discretion, at any time and for no reason at all.
 
-(x) sell or otherwise transfer your profile.
+4\. Scope: What we offer to You when You use our Services
 
-In addition, you agree that you will not use the Service (including, without limitation, by “flattring” any Content) on behalf of or at the request or instruction of any third party. Furthermore, you will not request any third party, pay or otherwise attempt to influence any third party to manipulate or otherwise affect the Flattr Site in any manner. Flattr may remove any part of the Content or Flattr User Accounts (defined below) at any time for any reason (including but not limited to upon receipt of claims or allegations from third parties or authorities relating to such Content and Flattr User Accounts) or for no reason at all. To report Service abuse, please complete the form at: https://flattr.com/contact.
+Subject of our Services is both (i) the use of the Extension free of charge, including the manual maintenance of flattered content, and (ii) the processing and receiving of contributions (the receiving of contributions subject to valuable consideration).
 
-You are solely responsible for your interactions with other users of the Flattr Site. Flattr reserves the right but has no obligation to monitor disputes between you and other Flattr users. If you breach any part of this clause 4, Flattr has the right to immediately terminate your access to the Service.
+4.1 Use of our Extension
 
-The Service involves the placement of the Buttons on third party sites. You understand and agree that Flattr may not have reviewed and cannot review all of the material, including but not limited to computer software and any content, made available through the websites and web pages on which the Buttons reside. Furthermore, Flattr does not represent or endorse any such website or webpage.
+Both the installation and the use of the Extension are free of charge. The Extension runs in Your browser on Your device and automatically collects the data necessary to flatter content. For further details on data collection and processing, please read our Privacy Policy. Only websites that are on our whitelist and sites you enabled flattr for will receive flattrs based on Your browsing engagement. You can review Your flatters and You can always change them manually in Your account before a transaction has been generated. For further information on how to give flattrs, please read our FAQ.  
+Upon Your proper registration with our Services, we grant to You the non-exclusive right to access and use our Services for the term of this agreement and only in accordance with these Terms. Our Service is available only to Adults, whether acting on their own behalf or as authorized employees or representatives of an entity. If You do not so qualify, do not attempt to register for, or use, our Services.
 
-Subject to clause 12 Flattr disclaims any responsibility or liability of any kind for any harm or damage resulting from your use of Flattr-enabled sites, including any damage arising from viruses, worms, Trojan horses and other harmful or destructive content, and with respect to your dealings and transactions with any Flattr users, Site Owners (defined below) or any third party.
+4.2 Processing and receiving of contributions
 
-**5\. YOUR FLATTR ACCOUNT AND REGISTRATION OBLIGATIONS**
+The main part of our Services is the contribution to content, which is free of charge for the User contributing, but is subject to the fee for the Users receiving the contributions as stated in Section 6 of these Terms.
 
-If you register with Flattr and submit any content, add a service connection or install a Button on your own website, you are a “Site Owner”. If you are a visitor to a Site Owner’s website (“Site”) and have already registered with Flattr, you are a “Flattr User”.
+4.2.3 Contributions
 
-Flattr Users: Registering as a Flattr User involves creating an account on the Service (“Flattr User Account”), providing needed information about you. Site Owners: In order to be a Site Owner, you must be a Flattr User. Site Owners creates one or more Buttons to be placed on their Site(s), add at least one service connection or submit one or more pieces of content to Flattr. Site Owners and Flattr Users: You may choose to use as your User Name your real name or a made up name and other information about you provided: (i) the name or the information is not that of another person and is not given with the intent to impersonate that other person. (ii) the name or the information is not subject to any rights of a person or an entity other than your rights or the rights of a person or an entity on whose behalf you are legally authorised to act. or (iii) the name is not offensive, vulgar or obscene, or otherwise a violation of these Terms. Flattr will be the sole arbiter of these restrictions, however, Flattr does not monitor User Names directly. Objectionable names or information may be reported to Flattr via https://flattr.com/contact on the Flattr Site. Flattr reserves the right to refuse the registration of or cancel a Flattr User Account at its sole discretion at any time and for no reason at all. However, Flattr cannot and does not guarantee that any User Name will not be offensive or objectionable to you and Flattr is not responsible for any harm or damage to you based on any Flattr User’s or Site Owner’s selection of a User Name.
+To contribute, You need to choose a monthly budget, which You can change at any time before the end of a calendar month. Based on Your specific surfing engagement, manual flattrs and Your manual changes and / or restrictions – if any – Your monthly budget will be automatically contributed to the respective Users. Normally contributions will take place on the first of each month. In the event of a technical reason, it may happen a few days later (“Contribution Date”). If during a given month a User has not engaged on any flattrable site, the respective monthly contribution amount will remain in the User’s Flattr account.
 
-If requested by Flattr, you agree to provide Flattr with additional information on you or your services within a reasonable time and failure to do so may result in your Flattr User Account being terminated or suspended.
+4.2.3 Refunds
 
-Upon your proper registration with the Service, Flattr gives you the limited non-exclusive right to access and use the Service only in accordance with these Terms. The Service is available only to individuals who are at least 18 years old, whether acting on their own behalf or as authorised employees or representatives of an entity. If you do not so qualify, do not attempt to register for or use the Service.
+Until the contributions have been transferred to the respective receiving Users, the User can refund his budget by sending a refund request via the contact form at least three (3) working days before the Contribution Date. For sending the request, the User must be logged in and use our contact form in order to ensure that he / she is the legitimate account owner.
 
-**6\. FLATTR USERS’ USE OF SERVICE**
+4.2.4 Receiving contributions
 
-Flattring: To flattr a Site a Flattr User must click on a Button displayed on the Site, in on flattr.com or via a service offering flattr integration. (“flattring”, “flattred” or “flattr”). To be eligible to flattr in a given calendar month, a Flattr User must:
+As a User receiving contributions, You need to add one or more websites or one or more social accounts (find out more) containing content which can be subject to flattrs. In order to withdraw any money received You must add a valid bank account to Your profile and verify Your account (KYC).
 
-(i) have a valid Flattr User Account;
+4.3 Availability of our Services
 
-(ii) place funds into his Flattr User Account following the relevant instructions on the Flattr Site (“Flattring Amount”).
+Our Services will be available for use ("**system uptime**") 24 hours a day, 365 days a year with 96% availability on average ("**SLA**"). If maintenance work is necessary and if our Services are not available for maintenance reasons, we will duly inform You. Disruptions to our Services for maintenance reasons will not be counted as part of SLA time. We will not be responsible for internet/network-related downtimes and, in particular, for downtimes in which our Services cannot be accessed due to technical or other problems outside our area of influence, e.g. force majeure, fault of third parties, etc.
 
-(iii) allocate from the Flattring Amount the monthly contribution for flattring of Sites (“Monthly Contribution”);
+5\. Your obligations when using our Services 5.1 Payment of transaction fees
 
-(iv) at least once in that calendar month log onto the Flattr Site and click at least one Button on the Network.
+Users receiving contributions are obliged to pay the transaction fee as stated in Section 6 of these Terms, which will be automatically deducted from Your account.
 
-Trust Account: Each Flattr User agrees that all Flattring Amounts are held on trust by Flattr for the benefit of Site Owners, charities and other non-profit organisations and authorises Flattr to allocate and disburse the Flattring Amounts according to these Terms. All Flattring Amounts will be disbursed to the Site Owners, in which case Flattr will take a Flattr Fee (defined below). Each Flattr User agrees that Flattr may act as a paid commercial agent of the Site Owners. Monthly Contribution: A Flattr User can change the Monthly Contribution at any time before the end of the calendar month. Individual Contribution: A Flattr User’s individual contribution to each Site Owner is determined by taking his Monthly Contribution and dividing it by the number of individual Buttons he has flattred during the calendar month (“Individual Contribution”).
+5.2 Not permitted use
 
-Transaction Fees: Any fees, foreign exchange or penalties charged by any payment providers or processors in relation to the Flattring Amount are the Flattr User’s sole responsibility.
+You are responsible for keeping Your login credentials, including Your password, confidential. This means that You do not give it to anyone else, that You do not permit or enable third parties to gain knowledge of it and that You take the necessary steps to guarantee its confidentiality. If Your credentials are lost or misused, or if You suspect that they have been lost or misused, You must notify us of this immediately via our contact form to make sure that Your account is blocked immediately.
 
-NO REFUNDS AND NO REDEMPTION: THERE ARE NO REFUNDS AND NO REDEMPTION OF THE FLATTRING AMOUNTS PLACED ON TRUST WITH FLATTR EXCEPT AS DETERMINED BY FLATTR AT ITS SOLE DISCRETION.
+Additionally, You agree not to use our Services for any purpose that is unlawful or prohibited by these Terms, or any other purpose not reasonably intended by Flattr. By way of example only, and not as a limitation, You agree not to use our Services:
 
-Distributions: If during a given month a Flattr User has not flattred any Sites, their Monthly Contribution will remain on the users trust account. If the Flattr User has not flattred any Sites for six (6) months, Flattr has a right to take any Flattring Amount remaining on his Flattr User Account less the Trustee Fee and any other applicable fees and dispose of it as permitted under applicable law. All Trustee Fees will be retained by Flattr and any other applicable fees will be paid as appropriate.
+1.  to add any website or social account which provides, supports or promotes illegal content, as but not limited to content that is infringing upon third party’s IP rights, libelous, defamatory, obscene, abusive, offensive, profane or otherwise violates any law or right of any third party;
+2.  for any illegal or unauthorised purpose. If You are an international user, You agree to comply with all local laws regarding online conduct and acceptable content;
+3.  to use any information obtained from our Services in order to contact, advertise to, solicit or sell to any User without their prior explicit consent;
+4.  sell or otherwise transfer Your profile.
 
-Termination of Flattr User Account: If a Flattr user terminates his account any Flattring Amount remaining on his Flattr User Account less the Trustee Fee and any other applicable fees and dispose of it as permitted under applicable law.
+In addition, You agree that You will not use our Services on behalf of, or at the request or instruction of, any third party. Furthermore, You will not request any third party, pay or otherwise attempt to influence any third party to manipulate or otherwise affect our Services in any manner.
 
-Ability to Flattr: A Flattr User’s ability to Flattr will be suspended if the Flattring Amount in his Flattr User Account reaches €0. See our https://flattr.com/support/faq for details. If a Flattr User Ability to Flattr is suspended as described above the Flattr User can reactivate his Flattr User Account by adding more funds.Once the Flattr User Account is reactivated, the Flattr User can change the Monthly Contribution at any time before the end of the calendar month.
+5.3 Types of websites not permitted
 
-If the Flattr User has not logged in to his account after six (6) months, Flattr may dispose any Flattring Amount remaining on his Flattr User Account as permitted under applicable law.
+Please note that You are not permitted to flattr or to add some websites for legal reasons. Websites that are not permitted to be flattred or added are websites which include or promote:
 
-Your Flattr User Account and Activity Will Remain Viewable: Even after a Flattr User Account has been terminated or suspended, any previous flattring activity will be viewable by all Flattr Users for historical financial tracking and other purposes. Flattr reserves the right to store and share all flattring activity subject to the Privacy Policy (defined in clause 8).
+*   Hate speech, which includes:
+    *   content that incites hatred or promotes violence against individuals or groups based on race or ethnic origin, religion, disability, gender, age, veteran status, or sexual orientation / gender identity;
+    *   assaults the human dignity of others by insulting, maliciously maligning an aforementioned group, segments of the population or individuals because of their belonging to one of the aforementioned groups or segments of the population, or defaming segments of the population;
+    *   denial of the Holocaust.
+*   Hacking / cracking content and warez or the promotion of those.
+*   Sale of products that are replicas or imitations of designer goods or otherwise protected by intellectual property rights.
+*   Online gambling or online casino-related content, sale of alcohol or sale of prescription drugs.
+*   Pornographic or highly suggestive content or images that violate the applicable laws.
+*   Sale of weapons or ammunition.
+*   Anything that facilitates or promotes copyright infringement.
+*   Extreme violence.
+*   Promotion of illegal drugs or drug paraphernalia.
+*   Any other content that is illegal, promotes illicit or harmful activity, or infringes on the rights of others. This includes in particular sites that provide “how-to” information on bomb-making, lock-picking and similar topics.
+*   Defamatory or libelous content.
+*   Distribution of viruses, malware.
 
-**7\. SITE OWNERS’ USE OF BUTTON**
+5.4 Breaches of Your obligations
 
-Placement / Modification of Button: Each Button has a unique tracking code. A Site Owner may (i) duplicate and install it with the same tracking code either throughout his Site, which may include but is not limited to a website, blog or service, or across his Sites, or (ii) use separate Buttons with unique tracking codes for different pages or sections of his Site(s).
+If You breach any part of Section 5.2, we have the right to immediately terminate Your access to our Services. Any other rights we may have shall remain unaffected.
 
-No Misguiding: The name of a Site a Site Owner chooses to assign to a Button must be consistent with the actual webpage where the Button is displayed and must not be an attempt to mislead users or visitors into thinking the Site is a different site or that the Button is associated with a different site.
+We are also entitled to immediately suspend or withdraw Your right to make any transactions from Your payment account where:
 
-Licence and Restrictions: If a Site Owner submits a URL, connects a service or installs a Button on his Site, he warrants that he or the entity he is legally authorised to represent owns or has been granted the appropriate licence to all intellectual property rights relating to the URL submitted or used for the button and/or content on the connected service.
+*   we have reasonable grounds to believe that there may be a breach in the security of Your account details;
+*   we suspect the unauthorized or fraudulent use of Your account details, or due to European or national law applying to us.
 
-Button: All rights, titles and interests in and to any Button, including but not limited to all intellectual property rights, are the exclusive property of Flattr. Each Site Owner acknowledges and agrees that the Buttons are provided by a non-exclusive licence, and not sold or transferred, as part of the Service and that he will not use them for any use other than his permitted use of the Service. There is no cost to license Buttons but their use is subject to these Terms and a Site Owner may only use and display a Button if he has a valid Flattr User Account.
+Where possible and reasonable, we will inform You in advance that we are intending to do so and the reasons for these actions. If such advanced information is not possible or reasonable, we will inform You at the earliest opportunity after and in any event within the time that You would expect a transaction to take place.
 
-Flattring Proceeds: Each Site Owner who has been flattred at least once per calendar month will be eligible to receive funds in his Flattr User Account (“Flattring Proceeds”) for that calendar month based upon the following formula: Flattering Proceeds equal the sum of the Individual Contributions of each Flattr User who flattrs the Site Owner’s Site(s) during that calendar month (“Sum”) less 10% of the Sum (“Flattr Fees”). Flattr receives and retains Flattr Fees from Site Owners in consideration for providing the Service to them and for its services as their commercial agent.
+Apart from that, we will not inform You where this would compromise our reasonable security measures or is otherwise contrary to any applicable law, rule or regulation.
 
-AUTOMATIC TRANSFER OF FLATTRING PROCEEDS: IF A SITE OWNER’S FLATTRING AMOUNT (WHICH HE ALLOCATED IN HIS CAPACITY AS A FLATTR USER) FALLS BELOW HIS CHOSEN MONTHLY CONTRIBUTION, FLATTR WILL TRANSFER FROM HIS FLATTERING PROCEEDS THE AMOUNT NECESSARY TO INCREASE HIS FLATTRING AMOUNT TO HIS CHOSEN MONTHLY CONTRIBUTION. AS DESCRIBED IN CLAUSE 6 ABOVE, ANY FLATTRING AMOUNT, INCLUDING ANY TRANSFERRED FLATTRING AMOUNT, CANNOT BE REFUNDED OR REDEEMED. A FLATTR USER CAN CHANGE THE MONTHLY CONTRIBUTION AT ANY TIME BEFORE THE END OF THE CALENDAR MONTH.
+Where the reasons for our actions then cease to exist, we will then either reinstate Your access to Your account or issue you with new account details as soon as practicable.
 
-Breaching the Agreement: Flattr reserves the right to withhold the Flattring Proceeds (defined below) or other amounts due to a Site Owner if there is any suspected breach of these Terms by the Site Owner, pending reasonable investigation by Flattr.
+6\. What are our fees?
 
-Allocation of Flattring Proceeds: Flattring Proceeds for a calendar month will be allocated to Site Owners within ten (10) business days of the end of that calendar month by crediting them to the Site Owner’s Flattr User Account (“Allocation”). Flattr will not pay for any payment processing fees, including but not limited to the fees associated with collecting money from Flattr Users, disbursing the Flattring Proceeds and any currency conversion, and, if necessary, any such fees will be deducted from the relevant Flattring Proceeds prior to the Allocation. Flattr reserves the right to vary the Flattr Fees at any time.
+The use of the Extension is free of charge.
 
-Disbursement of Flattring Proceeds: Each month Site Owners will have three options for disbursing the Flattring Proceeds. They may either: (i) instruct Flattr to transfer the Flattring Proceeds to the Site Owner’s Designated Account. (ii) instruct Flattr to allocate the Flattring Proceeds as their Flattring Amount subject to the restrictions and obligations of Flattr Users as set out in these Terms. or (iii) do a combination of (i) and (ii) above. Any such instructions should be noted in the Flattr dashboard. If Flattr does not receive any disbursement instructions from a Site Owner before the end of a calendar month, Flattr will transfer the Site Owner’s Flattring Proceeds for that calendar month to the Site Owner’s Designated Account subject to these Terms and to any Automatic Transfer of Flattring Proceeds as described in this clause above.
+When receiving contributions, we charge a transaction fee of 10% of Your total monthly received contributions. This fee includes all payment provider fees.
 
-ANY FLATTRING PROCEEDS A SITE OWNER INSTRUCTS FLATTR TO ALLOCATE AS A FLATTRING AMOUNT ARE NON-REFUNDABLE AND NON-REDEEMABLE.
+All fees are gross prices including the applicable value added tax, if any.
 
-In the event that a Site Owner’s Flattr User Account is terminated and subject to these Terms, Flattr will disburse to the Site Owner’s Designated Account all Flattring Proceeds accumulated in the Site Owner’s Flattr User Account that have not been allocated as Flattring Amounts less any amounts due to Flattr as Flattr Fees or otherwise.
+7\. Term and termination of this agreement
 
-Tax Obligations: Flattr is not responsible for the reporting, collection, calculation or payment of any taxes applicable to Flattr Users or Site Owners whatsoever. Each Flattr User and Site Owner is solely responsible for the collection and payment of any such taxes and for the provision and maintenance of all necessary information and records associated with their Flattr User Accounts.
+The use of our Services shall be concluded for an indefinite term. Both parties have the right to terminate the agreement with prior written notice (electronic means is sufficient) of one (1) week until the end of a calendar month.
 
-Maintenance of the Designated Account: It is the sole responsibility of the Site Owner to maintain updated and correct contact information and provide a valid and active Designated Account for receiving disbursements. Failure to do so will relieve Flattr of any obligation to disburse the Site Owner’s Flattring Proceeds. If such information is not updated for a period of six (6) months or more, the Site Owner is deemed to have acknowledged and agreed that Flattr may without further notice dispose of it as permitted under applicable law any Flattring Proceeds accumulated in the Site Owner’s Flattr User Account that have not been allocated as Flattring Amounts less any amounts due to Flattr as Flattr Fees or otherwise and less any fees that may arise on disbursement.
+The right to terminate the agreement for just cause remains unaffected.
 
-Suspending or Canceling a Button by Site Owners: Buttons cannot be cancelled since they contain historical traffic and financial information that must be preserved. However, a Site Owner may remove a Button from any or all of his pages for any reason and at any time. This involves deleting the Button’s JavaScript, static HTML code or similar programming from the site. When a Site Owner removes a Button from his site, the listing and button on the Flattr Site may not be removed automatically. To ensure they are removed, the Site Owner must use the “delete thing” function found on the Flattr Site.
+Deletion of Your Account and withdrawal of budget
 
-You understand and agree that any historical activity and information of any Site Owner’s Site will not be removed from the Flattr Site.
+For a full deletion of Your account and all data related to it, Your payment account must be empty. All budget of the months in which the termination took place will be contributed according to these Terms. If there is any money in Your payment account which cannot be contributed, You must withdraw Your budget first. Until all budget is contributed or withdrawn we will block Your account for use, but are not entitled to delete Your data due to payment regulatory provisions.  
+Following Your withdrawal of the money, the credit balance of the account will be transferred without undue delay, to the User’s bank account after deduction of any fees due and payable to Flattr. After having transferred the respective amount to the bank account of the User, we as well as the Payment Provider have no more obligations towards You.
 
-**8\. FLATTR PRIVACY POLICY &. 3RD PARTY SERVICE TERMS**
+8\. Use and Terms of Payment Provider
 
-You agree to Flattr’s privacy policy (“Privacy Policy”) which is incorporated by reference into these Terms. You agree Flattr may update its Privacy Policy from time to time and such modifications will be effective immediately once posted in accordance with the Terms. The Privacy Policy is available at https://flattr.com/privacy.
+For contributions we use the external third party platform MangoPay, SA, seated in Luxembourg (“**Payment Provider**”). All transactions in connection with the contributions are carried out by, and in the sole responsibility of, the Payment Provider. Therefore, You must enter into a Framework Agreement for Payment Services (“**Payment Provider Agreement**”) with the Payment Provider. By opting the Payment Provider Agreement and / or clicking the sign up button, You agree to the terms and conditions of the Payment Provider Agreement.
 
-Flattr uses the 3rd party platform MangoPay for all payments and money transactions. By signing up to Flattr you also agree to the MangoPay Terms &. Conditions ("General terms and conditions of use of the electronic money MANGOPAY").
+9\. Indemnification
 
-**9\. INDEMNITY**
+You will indemnify us from all claims, including damages claims, asserted against us by other Users or other third parties, including public authorities, due to violations of their rights due to or arising out of:
 
-Each Flattr User and Site Owner indemnifies and holds harmless Flattr, its parents, subsidiaries, affiliates, customers, vendors, officers and employees from any liability, damage or cost, including but not limited to all legal fees and costs, and from any claim or demand made by a third party due to or arising out of:
+*   any User’s activities, practices, websites and services of any sort whether performed directly or indirectly;
+*   any violation of the Terms or applicable law by the User;
+*   the infringement by the User of any intellectual property rights or other rights of any person or entity.
 
-(i) any Flattr User’s or Site Owner’s activities, practices, websites and services of any sort whether performed directly or indirectly;
+You will bear all appropriate costs, including appropriate costs incurred for legal defence that we have to pay as a result of your violation of the rights of third parties. All of our further rights and damage claims will remain unaffected. You are entitled to provide evidence that we have incurred lower costs than stated.  
+The above-mentioned obligations will only apply if You are responsible for the violation of rights in question. in other words, if you have knowingly or deliberately omitted to exercise due diligence.
 
-(ii) any third party’s access to any Site or use of any Buttons.
+10\. Warranty in connection with defects
 
-(iii) any violation of the Terms or applicable law by the Flatter User or Site Owner.
+We are only liable for defects in connection with our Services provided. the impairments are not due to the restrictions in availability (SLA) described in Section 4.3.
 
-(iv) the infringement by the Flatter User or Site Owner of any intellectual property rights or other rights of any person or entity. or
+A defect will always be deemed to exist if the suitability for contractual use is suspended or considerably restricted. Where contributions cannot be made, You must not pay any fee under these Terms.
 
-(v) any third party using a Flattr User Account or Flattr User Name.
+You must immediately inform us of the defect via our contact form.
 
-**10\. WARRANTY DISCLAIMERS**
+You are not entitled to claim damages due to a defect with our Services, or due to a circumstance for which we are not responsible – either existing when you sign the agreement or occurring thereafter.
 
-Flattr is providing the Flattr Site and the Service “AS IS” and “AS AVAILABLE” without any express or implied warranties. Each Flattr User and Site Owner acknowledges that Flattr has no control over and no duty to take any action regarding: (i) who gains access to the Flattr Site or the Network or who uses the Service. (ii) what effects the Content may have on any person or entity. (iii) how any person or entity may interpret or use the Content. or (iv) what actions any person or entity may take as a result of having been exposed to the Content. Each Flattr User and Site Owner releases Flattr from all liability for any person or entity having acquired or not acquired Content through the Flattr Site or the Service. The Flattr Site or Service may contain, or direct any person or entity to sites containing, information that some people may find offensive or inappropriate. Flattr makes no representations concerning any content contained in or accessed through the Flattr Site or the Service and Flattr will not be responsible or liable for the accuracy, copyright compliance, legality or decency of material contained in or accessed through the Flattr Site or the Service.
+Further claims and rights for defects to our Services – other than those explicitly named in this Section 10 – will not be recognized except if we are held liable for them by statutory provisions.
 
-The Service, the Buttons, the Network, the Content and the Flattr Site are provided on an “AS IS” basis without warranties of any kind either express or implied, including without limitation implied warranties of merchantability, fitness for a particular purpose or non-infringement. No advice or information, whether oral or written, obtained by a Flattr User or Site Owner from Flattr, any of its agents, employees or contractors or through or from the service will create any warranty not expressly stated in these Terms.
+11\. Limitation of liability 11.1 Free use of the Extension
 
-**11\. LINKS**
+Our liability for use of the free Extension is restricted to intention and gross negligence or the absence of a guaranteed characteristic. We will be fully liable in cases of intention. in cases of gross negligence and the absence of a guaranteed feature, our liability will be restricted to typical and foreseeable damage. Any further liability is excluded.
 
-The Service may provide, or third parties may provide, links to other World Wide Web sites or resources. Each Flattr User and Site Owner acknowledges and agrees that Flattr is not responsible for the availability of such external sites or resources, and does not endorse and is not responsible or liable for any content, advertising, products or other materials on or available from such sites or resources. Each Flattr User and Site Owner further acknowledges and agrees that Flattr is not responsible or liable, directly or indirectly, for any damage or loss caused or allegedly caused by or in connection with use of or reliance on any such content, goods or services available on or through any such site or resource.
+11.2 Use of the contribution of Services
 
-**12\. LIMITATION OF LIABILITY**
+We will be liable as follows for use of all Services in connection with the contributions:
 
-IN NO EVENT WILL FLATTR OR ITS SUPPLIERS BE LIABLE UNDER CONTRACT, TORT, STRICT LIABILITY, NEGLIGENCE OR OTHER LEGAL THEORY (I) WITH RESPECT TO THE SITE, THE SERVICE OR ANY CONTENT FOR ANY LOST PROFITS OR SPECIAL, INDIRECT, INCIDENTAL, PUNITIVE OR CONSEQUENTIAL DAMAGES OF ANY KIND WHATSOEVER, SUBSTITUTE GOODS OR SERVICES (HOWEVER ARISING) OR (II) FOR ANY DIRECT DAMAGES IN EXCESS OF (IN THE AGGREGATE) €100. THIS DOES NOT AFFECT FLATTR’S LIABILITY FOR DEATH OR PERSONAL INJURY ARISING FROM FLATTR’S NEGLIGENCE OR FLATTR’S LIABILITY FOR FRAUDULENT MISREPRESENTATION OR MISREPRESENTATION AS TO A FUNDAMENTAL MATTER OR ANY OTHER LIABILITY WHICH CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW.
+1.  Claims for compensation on the part of the User are excluded from these Terms. Exceptions to this exclusion of liability are claims for compensation on the part of the Company for loss of life, bodily injuries, damage to health, the violation of essential contractual obligations (cardinal obligations) or damages resulting from a deliberate or grossly negligent breach of duty on the part of Flattr, its legal representatives or agents. Cardinal obligations within the meaning of these Terms are the obligations that ensure the proper execution of the agreement and the fulfilment of its purpose and the observance of which the users can therefore regularly rely upon.
+2.  In case of a breach of fundamental contractual obligations, we are only liable for contract-typical, foreseeable damage caused by simple negligence, except claims made by Users for compensation resulting from loss of life, bodily injury or damage to health.
+3.  The regulations outlined in this Section 11 (2) and (3) also apply to legal representatives and agents of Flattr if the claims are made directly against them.
 
-**13\. TERMINATION**
+12\. Miscellaneous 12.1 Governing law and dispute resolution
 
-Flattr may terminate or suspend the whole or any part of the Service and any Flattr User Account immediately and without prior notice or liability if the relevant Flattr User or Site Owner breaches any of the Terms. Upon termination of the Flattr User Account the relevant Flattr User’s or Site Owner’s right to use the Service will immediately cease. If a Flattr User or Site Owner wishes to terminate his Flattr User Account, he may simply discontinue using the Service. All provisions of the Terms which by their nature should survive termination will survive termination, including without limitation ownership provisions, warranty disclaimers, indemnity and limitations of liability.
+These Terms shall be governed by Swedish law to the exclusion of the UN Convention on Contracts for the International Sale of Goods. The Swedish courts will have exclusive jurisdiction to settle any dispute or claim that arises out of or in connection with the terms or their subject matter or formation (including non-contractual disputes or claims).  
+In any action or proceeding to enforce rights under the terms, the prevailing party will be entitled to recover the costs of the proceedings including, but not limited to, any reasonable legal fees and costs.
 
-**14\. MISCELLANEOUS**
+12.2. Governing language
 
-No agency, partnership, joint venture or employment is created as a result of the Terms and parties do not have any authority of any kind to bind each other in any respect whatsoever. The failure of either party to exercise in any respect any right provided for under the Terms will not be deemed a waiver of any further rights under the Terms. Flattr is not liable for any failure to perform its obligations hereunder where such failure results from any cause beyond Flattr's reasonable control, including without limitation mechanical, electronic or communications failure or degradation (including “line-noise” interference). If any provision of the Terms is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary so that all the remaining provisions of the Terms remain in full force and effect and enforceable.
+These Terms are drawn up in the English language and may be translated into any language other than English provided that the English text will in any event prevail.
 
-A Flattr User Account and these Terms are personal to the relevant Flattr User or Site Owner. The Terms are not assignable, transferable or sublicensable by a Flattr User or Site Owner except with Flattr’s prior written consent. Flattr may transfer, assign or delegate the Terms and its rights and obligations without a Flattr User’s or Site Owner’s consent. The singular includes the plural and vice versa and any gender includes any other gender, whenever required by context.
+12.3 Severability
 
-**15\. COMPLAINTS PROCEDURE**
+Should any individual provision of these Terms be or become invalid and / or contrary to the statutory provisions, this will not affect the validity remaining terms of these Terms. In place of the invalid, unenforceable term, the parties shall mutually agree on such valid commercial terms which the parties would reasonably have agreed otherwise. The above mentioned provision will apply correspondingly in the case of omissions in these provisions.
 
-If a Flattr User or a Site Owner disputes any Flattring Amount, Monthly Contribution, Individual Contribution, Distribution, Allocation or Disbursement, he must notify Flattr in writing within twenty (20) business days of the disputed event occurring otherwise he will be deemed to have waived any claim relating to the disputed event. Any dispute will be determined solely based on records maintained and calculations made by Flattr. No other measurements or statistics of any kind will be used in resolving any dispute under these Terms.
-
-If a Flattr User or Site Owner is not satisfied with the Service or a matter related to these Terms and he wishes to complain, he agrees to in the first instance contact Flattr at http://flattr.com/contact. Flattr will investigate the complaint and may ask the complainant, who agrees to fully cooperate with Flattr during the course of the investigation, for further information to help the investigation. Flattr will try to resolve any complaint within one (1) month of the complaint but this may take longer depending on the complexity of the complaint and the investigation required.
-
-Before resorting to any legal proceedings the parties agree to use their best efforts to negotiate in good faith and settle amicably any dispute that may arise out of or relate to these Terms or their breach.
-
-**16\. GOVERNING LAW AND DISPUTE RESOLUTION**
-
-The Terms and any dispute or claim arising out of or in connection with them or their subject matter or formation (including non-contractual dispute or claims) will be governed by and construed in accordance with Swedish law.
-
-Subject to clause 15 the parties to the Terms agree that the Swedish courts will have exclusive jurisdiction to settle any dispute or claim that arises out of or in connection with the Terms or their subject matter or formation (including non-contractual disputes or claims).
-
-In any action or proceeding to enforce rights under the Terms, the prevailing party will be entitled to recover the costs of the proceedings including but not limited to any reasonable legal fees and costs.
-
-Both parties to the Terms agree that the Terms are the complete and exclusive statement of the mutual understanding of the parties and supersede and cancel all previous written and oral agreements, communications and other understandings relating to the subject matter of the Terms, and that all modifications to the Terms must be in writing signed by both parties, except as otherwise provided in the Terms.
-
-**17\. GOVERNING LANGUAGE**
-
-The Terms are drawn up in the English language and may be translated into any language other than English provided that the English text will in any event prevail.
-
-**18\. TRADEMARKS**
-
-FLATTR, FLATTR IT, FLATTRED, FLATTR THIS, TO FLATTR, FLATTRING and other Flattr graphics, logos, designs, page headers, button icons, scripts and service names are registered trademarks, trademarks or trade dress of Flattr in the United Kingdom and/or other countries. Flattr’s trademarks and trade dress may not be used, including as part of trademarks or as part of domain names, in connection with any product or service in any manner that is likely to cause confusion or in an attempt to impersonate Flattr.
+May 8th, 2017
