@@ -1,31 +1,31 @@
-Skip to toolbar
-
-*   Xanga
-
-*   Log In
-
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   old xanga
-    *   by farahrasol
-    *   2 days ago
-    *   in Premium
-    *   0 votes
-    *   0
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   36 (last comment by meowsquared 3 days ago)
-*   Where is my old Xanga?
-    *   by laura\_hamby\_photos
-    *   1 month ago
+    *   37 (last comment by XpiemanX 3 hours ago)
+*   Retrieve my old blog?
+    *   by Jessica\_6190
+    *   4 hours ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by rambo\_60th 3 days ago)
+    *   0
+*   old xanga
+    *   by farahrasol
+    *   4 days ago
+    *   in Premium
+    *   0 votes
+    *   0
+*   Where is my old Xanga?
+    *   by laura\_hamby\_photos
+    *   2 months ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by rambo\_60th 5 days ago)
 *   how to restore my entries on xanga
     *   by coffeeling
     *   1 week ago
@@ -49,7 +49,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by SuiciDalSnYpER 2 weeks ago)
+    *   1 (last comment by SuiciDalSnYpER 3 weeks ago)
 *   Precious photos!!!!
     *   by shorty9564
     *   1 year ago
@@ -90,12 +90,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by Stevek83
     *   2 months ago
     *   in Emails
-    *   0 votes
-    *   0
-*   All Blogs and Photos GONE! :(
-    *   by BigRig37
-    *   2 months ago
-    *   in Data Migration
     *   0 votes
     *   0
 
@@ -156,4 +150,8 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
+
+*   Xanga
+
+*   Log In
