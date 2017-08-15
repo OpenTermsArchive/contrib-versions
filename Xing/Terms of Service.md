@@ -30,7 +30,7 @@ Document
 
 Additional Terms and Conditions for the use of Premium Add-ons
 
-General Terms and Conditions for the use of the XING Talent Manager
+General Terms and Conditions for the use of the XING TalentManager
 
 General Terms and Conditions for the use of XING Employer Branding Profiles
 
@@ -52,9 +52,19 @@ General Terms and Conditions for the use of XING Arbeitsrechtsschutz (German onl
 
 General Terms and Conditions for the use of XING Business Pages and accompanying services
 
+Terms and Conditions of use and publication for XING Industry Insiders
+
+General Terms and Conditions for providing the ReferralManager
+
+General Terms and Conditions for XING Groups Professional
+
+XING API General Terms and Conditions of Use
+
+XING News Plus General Terms and Conditions of Use
+
 General Terms and Conditions
 
-Last updated: 7 March 2016
+Last updated: 1 April 2017
 
   
 
@@ -135,7 +145,7 @@ Dammtorstraße 30
 Germany  
 Phone: +49 40 419 131 0  
 Fax: +49 40 419 131 11  
-E-mail: en-invoice@xing.com
+E-mail: widerruf@xing.com
 
 of your decision to withdraw from this contract by an unequivocal statement (e.g. a letter sent by post, fax, e-mail or via the contact form available on each of our webpages). You may use this model withdrawal form, but it is not obligatory.
 
@@ -274,7 +284,9 @@ In case the user opts for a Premium membership as of 1 May 2014, chooses credit 
 
   
 When a user opts for a non-paid membership or chooses to pay for their Premium membership with a payment method other than MasterCard or Visa Card, only XING AG becomes a party to the contract (in this case the name “XING” in these GTC refers exclusively to XING AG). The special provisions regarding the joint and several liability and joint creditors in case of payment by MasterCard or Visa Card do not apply.  
-As soon as the user has chosen a payment method for their Premium membership, they will receive information stating the parties to the contract as well as details as to which party will provide the contractual service.    
+As soon as the user has chosen a payment method for their Premium membership, they will receive information stating the parties to the contract as well as details as to which party will provide the contractual service.
+
+   
 7\. Term, termination of contract, sanctions, reimbursement of advance payments
 
 **General**
@@ -351,11 +363,13 @@ As soon as the user has chosen a payment method for their Premium membership, th
 
 **11.4** Unless otherwise governed by these GTC, XING may send notices to the user by e-mail, fax or letter. XING may also send declarations to the user’s XING inbox which forms an integral part of the user’s XING membership.
 
-**11.5** The place of performance under these GTC shall be XING AG's main place of business.
+**11.5** We do not participate in dispute resolution procedures handled by dispute resolution bodies.
 
-**11.6** Place of jurisdiction for merchants within the scope of the German Commercial Code (HGB) shall be the main place of business of XING AG.
+**11.6** The place of performance under these GTC shall be XING AG's main place of business.
 
-**11.7** These GTC and the contractual relationship shall be governed by German law, excluding international private law and the provisions of the United Nations Convention on Contracts for the International Sale of Goods that have been adopted by German law.
+**11.7** Place of jurisdiction for merchants within the scope of the German Commercial Code (HGB) shall be the main place of business of XING AG.
+
+**11.8** These GTC and the contractual relationship shall be governed by German law, excluding international private law and the provisions of the United Nations Convention on Contracts for the International Sale of Goods that have been adopted by German law.
 
 **11.8** These GTC are available in English, German, French and Spanish. In the event of any contradiction between the different language versions of these GTC, the German version shall take precedence.
 
@@ -401,7 +415,7 @@ E-mail: info@xing-events.com
 
 Consequences of withdrawal
 
-In the event of a valid termination, services and fees provided by both parties are to be returned, and any economic advantages gained (e.g. interest) are to be repaid. If you are not able to return the services and utilisation (exercised benefits) rendered fully or in part, or only in a lesser form, you are obliged to reimburse us for the value lost. This can mean that you are required to fulfil the contractual payment obligations for the time period until withdrawal. Obligations to reimburse payments must be fulfilled within 30 days. This period begins for you when you send your contract termination, for us when we receive it.
+In the event of a valid withdrawal, services and fees provided by both parties are to be returned, and any economic advantages gained (e.g. interest) are to be repaid. If you are not able to return the services and utilisation (exercised benefits) rendered fully or in part, or only in a lesser form, you are obliged to reimburse us for the value lost. This can mean that you are required to fulfil the contractual payment obligations for the time period until withdrawal. Obligations to reimburse payments must be fulfilled within 30 days. This period begins for you when you send your contract withdrawal, for us when we receive it.
 
 Additional information:
 
@@ -417,7 +431,7 @@ The right of withdrawal vis-à-vis XING does not apply to agreements you enter i
 
 Other additional information:
 
-You expressly agree that we will start to render the service before the end of the cancellation period.
+You expressly agree that we will start to render the service before the end of the withdrawal period.
 
 You are required to pay the fees agreed for services we render up until the time you withdraw from your contract.
 
@@ -503,7 +517,7 @@ If such a suspicion cannot be eliminated within thirty (30) days, XING reserves 
 
 **4.1** The organiser can choose which payment methods offered by XING (e.g. credit card, direct debit, advance payment, on account, PayPal) they would like to offer participants in order to collect funds via the XING platform. Based on the organiser’s selection, XING shall handle the collection of payments made by participants for tickets and manage collected funds in a separate account. The organiser hereby grants XING power of attorney to do so.
 
-**4.2** XING shall generally transfer the amounts collected in Section 4.1 less the fee to be paid to XING in Section 3.4 within fourteen (14) days of the event taking place. XING in particular reserves the right to deviate from this stipulation and retain event proceeds for longer periods of time if there is a suspicion of misuse. The amounts to be forwarded shall be transferred to the bank account the organiser entered on the XING Websites. Once said amounts have been transferred, XING shall be deemed to have fulfilled its contractual obligations. XING reserves the right to pay out amounts for recurring events before they are held. The organiser is not, however, entitled to demand this. XING shall not accept any liability for fees incurred due to payments being returned because the organiser supplied incorrect bank account details. To this end, XING reserves the right to bill the organiser for such fees. Transfers to account holders outside of the European Economic and Monetary Union (EMU) may be subject to currency conversion fluctuations and bank charges upon receipt of payment. The organiser shall bear the cost of such fluctuations and such charges, not XING.
+**4.2** XING shall generally transfer the amounts collected in Section 4.1 less the fee to be paid to XING in Section 3.4 by the 10th day of the following month. XING in particular reserves the right to deviate from this stipulation and retain event proceeds for longer periods of time if there is a suspicion of misuse. The amounts to be forwarded shall be transferred to the bank account the organiser entered on the XING Websites. Once said amounts have been transferred, XING shall be deemed to have fulfilled its contractual obligations. XING reserves the right to pay out amounts for recurring events before they are held. The organiser is not, however, entitled to demand this. XING shall not accept any liability for fees incurred due to payments being returned because the organiser supplied incorrect bank account details. To this end, XING reserves the right to bill the organiser for such fees. Transfers to account holders outside of the European Economic and Monetary Union (EMU) may be subject to currency conversion fluctuations and bank charges upon receipt of payment. The organiser shall bear the cost of such fluctuations and such charges, not XING.
 
 **4.3** The organiser is aware of the risk that participants are able to reverse payments with certain payment methods (e.g. direct debit or credit card) and that they bear sole responsibility for this risk. Reverse payments that occur following payment to the organiser as set out in Section 4.2 will be billed to the organiser plus a charge at the rate set out in the current valid price list.
 
