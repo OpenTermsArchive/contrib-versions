@@ -1,6 +1,8 @@
+To be notified of changes to the Acceptable Use Policy, please complete the form available at http://www.corp.att.com/aup/subscribe.html.
+
 Introduction
 
-AT&T is at all times committed to complying with the laws and regulations governing use of the Internet, e-mail transmission and text messaging and preserving for all of its Customers the ability to use AT&T's network and the Internet without interference or harassment from other users. The AT&T AUP ("AUP") is designed to help achieve these goals.
+AT&T is at all times committed to complying with the laws and regulations governing use of the Internet, e-mail transmission and text messaging and preserving for all of its Customers the ability to use AT&T's network and the Internet without interference or harassment from other users. The AT&T Acceptable Use Policy ("AUP") is designed to help achieve these goals.
 
 **By using IP Service(s), as defined below, Customer(s) agrees to comply with this Acceptable Use Policy and to remain responsible for its users. AT&T reserves the right to change or modify the terms of the AUP at any time, effective when posted on AT&T's web site at www.att.com/aup. Customer's use of the IP Service(s) after changes to the AUP are posted shall constitute acceptance of any changed or additional terms.**
 
@@ -8,27 +10,39 @@ Scope of the AUP
 
 The AUP applies to the AT&T services that provide (or include) access to the Internet, including hosting services (software applications and hardware), or are provided over the Internet or wireless data networks (collectively "IP Services").
 
-Prohibited Activities
+Prohibited Activities General Prohibitions:
 
-**General Prohibitions:** AT&T prohibits use of the IP Services in any way that is unlawful, harmful to or interferes with use of AT&T's network or systems, or the network of any other provider, interferes with the use or enjoyment of services received by others, infringes intellectual property rights, results in the publication of threatening or offensive material, or constitutes Spam/E-mail/Usenet abuse, a security risk or a violation of privacy.
+AT&T prohibits use of the IP Services in any way that is unlawful, harmful to or interferes with use of AT&T's network or systems, or the network of any other provider, interferes with the use or enjoyment of services received by others, infringes intellectual property rights, results in the publication of threatening or offensive material, or constitutes Spam/E-mail/Usenet abuse, a security risk or a violation of privacy.
 
 Failure to adhere to the rules, guidelines or agreements applicable to search engines, subscription Web services, chat areas, bulletin boards, Web pages, USENET, applications, or other services that are accessed via a link from the AT&T-branded website or from a website that contains AT&T-branded content is a violation of this AUP.
 
-**Unlawful Activities:** IP Services shall not be used in connection with any criminal, civil or administrative violation of any applicable local, state, provincial, federal, national or international law, treaty, court order, ordinance, regulation or administrative rule.
+Unlawful Activities:
 
-**Violation of Intellectual Property Rights:** IP Service(s) shall not be used to publish, submit/receive upload/download, post, use, copy or otherwise reproduce, transmit, re-transmit, distribute or store any content/material or to engage in any activity that infringes, misappropriates or otherwise violates the intellectual property rights or privacy or publicity rights of AT&T or any individual, group or entity, including but not limited to any rights protected by any copyright, patent, trademark laws, trade secret, trade dress, right of privacy, right of publicity, moral rights or other intellectual property right now known or later recognized by statute, judicial decision or regulation.
+IP Services shall not be used in connection with any criminal, civil or administrative violation of any applicable local, state, provincial, federal, national or international law, treaty, court order, ordinance, regulation or administrative rule.
 
-**Threatening Material or Content:** IP Services shall not be used to host, post, transmit, or re-transmit any content or material (or to create a domain name or operate from a domain name), that harasses, or threatens the health or safety of others. In addition, for those IP Services that utilize AT&T provided web hosting, AT&T reserves the right to decline to provide such services if the content is determined by AT&T to be obscene, indecent, hateful, malicious, racist, defamatory, fraudulent, libelous, treasonous, excessively violent or promoting the use of violence or otherwise harmful to others.
+Violation of Intellectual Property Rights:
 
-**Inappropriate Interaction with Minors:** AT&T complies with all applicable laws pertaining to the protection of minors, including when appropriate, reporting cases of child exploitation to the National Center for Missing and Exploited Children. For more information about online safety, visit www.ncmec.org or www.att.com/safety.
+IP Service(s) shall not be used to publish, submit/receive, upload/download, post, use, copy or otherwise reproduce, transmit, re-transmit, distribute or store any content/material or to engage in any activity that infringes, misappropriates or otherwise violates the intellectual property rights or privacy or publicity rights of AT&T or any individual, group or entity, including but not limited to any rights protected by any copyright, patent, trademark laws, trade secret, trade dress, right of privacy, right of publicity, moral rights or other intellectual property right now known or later recognized by statute, judicial decision or regulation.
 
-**Child Pornography:** IP Services shall not be used to publish, submit/receive, upload/download, post, use, copy or otherwise produce, transmit, distribute or store child pornography. Suspected violations of this prohibition may be reported to AT&T at the following e-mail address: cp@abuse-att.net. AT&T will report any discovered violation of this prohibition to the National Center for Missing and Exploited Children and take steps to remove child pornography (or otherwise block access to the content determined to contain child pornography) from its servers.
+Threatening Material or Content:
 
-**Spam/E-mail/Usenet Abuse:** Violation of the CAN-SPAM Act of 2003, or any other applicable law regulating e-mail services, constitutes a violation of this AUP.
+IP Services shall not be used to host, post, transmit, or re-transmit any content or material (or to create a domain name or operate from a domain name), that harasses, or threatens the health or safety of others. In addition, for those IP Services that utilize AT&T provided web hosting, AT&T reserves the right to decline to provide such services if the content is determined by AT&T to be obscene, indecent, hateful, malicious, racist, defamatory, fraudulent, libelous, treasonous, excessively violent or promoting the use of violence or otherwise harmful to others.
+
+Inappropriate Interaction with Minors:
+
+AT&T complies with all applicable laws pertaining to the protection of minors, including when appropriate, reporting cases of child exploitation to the National Center for Missing and Exploited Children. For more information about online safety, visit www.ncmec.org or www.att.com/safety.
+
+Child Pornography:
+
+IP Services shall not be used to publish, submit/receive, upload/download, post, use, copy or otherwise produce, transmit, distribute or store child pornography. Suspected violations of this prohibition may be reported to AT&T at the following e-mail address: cp@abuse-att.net. AT&T will report any discovered violation of this prohibition to the National Center for Missing and Exploited Children and take steps to remove child pornography (or otherwise block access to the content determined to contain child pornography) from its servers.
+
+Spam/E-mail/Usenet Abuse:
+
+Violation of the CAN-SPAM Act of 2003, or any other applicable law regulating e-mail services, constitutes a violation of this AUP.
 
 Spam/E-mail or Usenet abuse is prohibited using IP Services. Examples of Spam/E-mail or Usenet abuse include but are not limited to the following activities:
 
-*   sending multiple unsolicited electronic mail messages or "mail-bombing" - to one or more recipient;
+*   sending multiple unsolicited electronic mail messages or "mail-bombing" – to one or more recipient;
 *   sending unsolicited commercial e-mail, or unsolicited electronic messages directed primarily at the advertising or promotion of products or services;
 *   sending unsolicited electronic messages with petitions for signatures or requests for charitable donations, or sending any chain mail related materials;
 *   sending bulk electronic messages without identifying, within the message, a reasonable means of opting out from receiving additional messages from the sender;
@@ -72,32 +86,37 @@ Customers remain solely and fully responsible for the content of any material po
 
 Customers are responsible for taking prompt corrective action(s) to remedy a violation of AUP and to help prevent similar future violations.
 
-**AUP Enforcement and Notice**
+AUP Enforcement and Notice
 
 **Customer's failure to observe the guidelines set forth in this AUP may result in AT&T taking actions anywhere from a warning to a suspension or termination of Customer's IP Services.** When feasible, AT&T may provide Customer with a notice of an AUP violation via e-mail or otherwise allowing the Customer to promptly correct such violation.
 
-**AT&T reserves the right, however, to act immediately and without notice to suspend or terminate affected IP Services in response to a court order or government notice that certain conduct must be stopped or when AT&T reasonably determines, that the conduct may: (1) expose AT&T to sanctions, prosecution, civil action or any other liability, (2) cause harm to or interfere with the integrity or normal operations of AT&T's network or networks with which AT&T is interconnected, (3) interfere with another AT&T Customer's use of IP Services or the Internet (4) violate any applicable law, rule or regulation, or (5) otherwise present an imminent risk of harm to AT&T or AT&T Customers.**
+**AT&T reserves the right, however, to act immediately and without notice to suspend or terminate affected IP Services in response to a court order or government notice that certain conduct must be stopped, or when AT&T reasonably determines that the Customer's use of the affected IP Services may: (1) expose AT&T to sanctions, prosecution, civil action or any other liability. (2) cause harm to or interfere with the integrity or normal operations of AT&T's network or networks with which AT&T is interconnected. (3) interfere with another AT&T Customer's use of IP Services or the Internet. (4) violate any applicable law, rule or regulation. or (5) otherwise present an imminent risk of harm to AT&T or AT&T Customers.**
 
-AT&T has no obligation to monitor content of any materials distributed or accessed using the IP Services. However, AT&T may monitor content of any such materials as necessary to comply with applicable laws, regulations or other governmental or judicial requests. or to protect the AT&T network and its customers.
+Copyright Infringement &. Digital Millennium Copyright Act
+
+AT&T respects the intellectual property rights of others. The Digital Millennium Copyright Act of 1998 (the "DMCA" found at 17 U.S.C. § 512) provides that owners of copyrighted works who believe that their rights under U.S. copyright law have been infringed may report alleged infringements to service providers like AT&T. In accordance with the DMCA and other applicable laws, AT&T maintains a policy that provides for the termination of IP Services, under appropriate circumstances, if Customers are found to be a repeat infringer and/or if Customers' IP Services are used repeatedly for infringement (the "Repeat Infringer Policy"). AT&T may terminate IP Services at any time with or without notice to Customers.
+
+AT&T has no obligation to investigate possible copyright infringements with respect to materials transmitted by Customer or any other users of the IP Services. However, AT&T will process valid notifications of claimed infringement under the DMCA, and continued receipt of infringement notifications for Customer's account will be used as a factor in determining whether Customer is a repeat infringer. In addition, AT&T may voluntarily participate, on terms acceptable to AT&T, in copyright alert and graduated response programs.
 
 Incident Reporting
 
-Any complaints (other than claims of copyright or trademark infringement) regarding violation of this AUP by an AT&T Customer (or its user) should be directed to abuse@att.net. Where possible, include details that would assist AT&T in investigating and resolving such complaint (e.g. expanded headers, IP address(s), a copy of the offending transmission and any log files).
+Any complaints (other than claims of copyright infringement) regarding violation of this AUP by an AT&T Customer (or its user) should be directed to abuse@att.net. Where possible, include details that would assist AT&T in investigating and resolving such complaint (e.g., expanded headers, IP address(s), a copy of the offending transmission and any log files).
 
-**Copyright complaints**: If you believe that your work has been copied and posted, stored or transmitted using the IP Services in a way that constitutes copyright infringement, please submit a notification pursuant to the Digital Millennium Copyright Act ("DMCA") in accordance with the process detailed at http://www.att.net/general-info/claims.html and directed to the designated agent listed below:
+DMCA Copyright Notifications:
 
-AT&T's Designated Copyright Agent for notice of claims of copyright or trademark infringement on the sites can be reached as follows:
+Pursuant to 17 U.S.C. §§ 512(b)–(d), a copyright holder may send AT&T a valid notification of claimed copyright infringement under the DMCA. For further information regarding such notifications, see https://www.att.com/legal/terms.dmca.html. AT&T's designated agent to receive notifications of claimed infringement as described in DMCA subsection 512(c)(3) is:
 
-Designated Agent: Manager of Security &. Copyright Infringement  
+Manager of Security &. Copyright Infringement  
 1800 Perimeter Park Drive, Suite 100  
 Morrisville, NC 27560  
-Phone: (919) 319-5737  
-Fax: (919) 319-8154  
 E-mail: copyright@att.com
 
-**Contact Information:** Any notification that AT&T sends to its Customers pursuant to this AUP will be sent via e-mail to the e-mail address on file with AT&T, or may be in writing to Customer's address of record. It is Customer's responsibility to promptly notify AT&T of any change of contact information.  
-  
- 
+Due to the substantial volume of notifications of claimed infringement that AT&T receives and processes, we are unable to accept notices of alleged copyright infringement via this designated agent or email address other than notifications of claimed infringement sent pursuant to Sections 512(b)–(d).
 
-  
-_Effective Date: October 15, 2008_
+AT&T also provides transitory digital network communications services, pursuant to 17 U.S.C. § 512(a). In connection with such services, AT&T provides an online form that copyright holders should use to send notifications related to alleged copyright infringement by its users based on the standards of the Automated Copyright Notice System (ANCS). Copyright holders should use this online form to submit complaints related to alleged peer-to-peer file sharing (i.e. sharing media files via peer-to-peer networking technology), or other forms of copyright notice other than those sent pursuant to Sections 512(b)–(d) of the DMCA ("ISP Conduit Notices"). By submitting complaints using this online form, we are able to more efficiently manage and process ISP Conduit Notices. Due to the substantial volume of copyright notices that AT&T receives, we are unable to guarantee processing of ISP Conduit Notices that are sent by other means. Copyright holders can access AT&T's online form at att.com/p2pnotices. Please note that copyright holders must complete all fields in the online form before submitting.
+
+Contact Information:
+
+Any notification that AT&T sends to its Customers pursuant to this AUP will be sent via e-mail to the e-mail address on file with AT&T, or may be in writing to Customer's address of record. It is Customer's responsibility to promptly notify AT&T of any change of contact information.
+
+Effective Date: July 28, 2017
