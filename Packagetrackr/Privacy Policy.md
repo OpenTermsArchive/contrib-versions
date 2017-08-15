@@ -1,35 +1,17 @@
 Privacy Policy
 
-Last Updated: November 15, 2011
+Last modified: April 1, 2015
 
-Welcome to Fara! Fara is a web-based service and website available at www.faranow.com (the "Service"), a service provided by Packagetrackr LLC. It is our policy to respect your privacy regarding any information we may collect while operating the Service and our website. In general, we don’t require personal information unless we truly need it. In addition, we don’t share your personal information with anyone, except to comply with the law, develop our products, or protect our rights.
+Thanks for visiting our site. Without your trust, we would have to just go back to tracking our own shipments. That would make us sad. So, this page explains how you can expect us to treat the information that you choose share with us, and what we collect when you track packages on our site.
 
-Definitions:
+We automatically collect some technical information from your computer when you visit our site. This information is provided by your browser and may include your IP address, OS, browser details, and referring site. To provide you with tracking information, we query shippers with any tracking number you provide us. However, we do not submit any of your personally identifiable information to any carrier, or other third party. We respect the confidentiality of this information and use it exclusively for internal business purposes, such as administration, security, analysis, and site development. We also aggregate this information, so that we can better understand our site and develop our business. In aggregation, usage data is anonymized, and does not allow any detail to be tied to any individual user. For instance, we love to brag that we tracked more than 3 million packages last year. that makes our heads spin!
 
-The terms "we" and "us" refer to Packagetrack LLC. (the operators of the Fara Service and www.faranow.com website), or any successor or assignee of the Company. The terms "you" and "user" refer to the particular visitors to our website or users of the Service.
+We provide online customer satisfaction surveys on behalf of our customers. In addition to the information we collect through our online survey, we may request additional personal information, which may be shared with the customer for whom we provide the survey. Such information might include the survey participant’s name, telephone number, and email address. Your disclosure of personal information in our surveys is always optional, but is intended to allow our customers to follow-up with you in the case of problems with their service.
 
-Gathering of Information:
+We use the information collected from the online surveys to compile reports on customer satisfaction for our customers. Due to the sensitive nature of research data, any information that is collected is treated with the utmost confidentiality. We will not sell any personal information gathered from individual respondents. All information gathered through our online survey tool will be the property of Packagetrackr LLC, and may be licensed to customers, in an anonymous form.
 
-Fara gathers information from users from the emails your provide us relating to your online shopping activities such as order confirmation, invoices, receipts, shipment notifications and the like. By registering an account on Fara, you grant us the right to collect, parse, retain, modify, analyze and organize the information given to us as consistent with this Privacy Policy. Fara provides a free service to users by collecting, parsing, analyzing and organizing the information in the emails you give us.
+We compile data collected from its online surveys to produce benchmark reports for our customers as well as media and other interested parties. Such information is based on aggregated, anonymous information and does not include any personally identifiable information about Packagetrackr users.
 
-Like most web-based services, we collect non-personally-identifying information that web browsers and servers typically make available. This includes information like language preference, referring site, the browser type, and the date and time of each visitor request. Our purpose in collecting this information is to better understand how visitors and customer use the Service. From time to time, we may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of the Service.
+We do use cookies to make the site work harder for you, by remembering your preferences and session details. You may choose to reject these cookies, however, in doing so, you will reduce the functionality of the site. Additionally, Google, as a third party vendor, uses cookies to serve ads on this site. Google uses the DoubleClick DART cookie to serve ads to your users based on their visit to this and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-We also collect some potentially personally-identifying information. This includes information that web browser and servers typically make available like IP addresses. In addition, Some visitors to our website and users of the Service choose to interact in ways that require the collection of personally-identifying information. For example, we ask visitors who create an account to provide an email address. We do not disclose any of this potentially personally-identifying or personally-identifying information other than as described below. Visitors and users can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain activities or using certain features that are part of the Service.
-
-Protection of Personally-Identifying Information:
-
-We disclose potentially personally-identifying and personally-identifying information only to employees, contractors and affiliated organizations that (i) need to know that information in order to process it on our behalf or to provide services available as part of the Service, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country. by using the Service, you consent to the transfer of such information to them. We will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to employees, contractors and affiliated organizations, as described above, We disclose potentially personally-identifying and personally-identifying information only when required to do so by law, or when we believe in good faith that disclosure is reasonably necessary to protect the property or our rights, third parties or the public at large.
-
-If you have registered an account with the Service, We may occasionally send you an email to tell you about new developments, new features, promotions, or to solicit your feedback. If you send us a support request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish as an anonymous post on our company blogs or micro-blogs in order to help us respond and clarify for other users. We take all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
-
-Cookies:
-
-Like many web-based services and websites, we also use “cookies” to collect information. A cookie is a small data file that a website stores on a visitor’s computer for record-keeping purposes, and that the visitor’s browser provides to the website each time the visitor returns. We use cookies to track visitors, their usage of the Service, and their access preferences. Users who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using the Service, but recognize that certain features of the Service may not function properly without the use of cookies.
-
-Opt-Out Option:
-
-If at any time after registering for information or subscribing to the Service, you change your mind about receiving information from us, send a request to \[email protected\].
-
-Privacy Policy Changes:
-
-We may change the Privacy Policy at our sole discretion, with or without notice at anytime. We encourages users to check this page frequently for any changes to the Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+If you have questions about our privacy policy, please email us at privacy\[at\]packagetrackr.com
