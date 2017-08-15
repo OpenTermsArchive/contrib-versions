@@ -1,4 +1,4 @@
-Apple Support Communities Use Agreement
+Apple Support Communities Use Agreement Apple Support Communities Use Agreement
 
 (revised 13 July 2015)
 
@@ -54,3 +54,7 @@ This Apple Support Communities Use Agreement (the "Agreement") provides importan
     1.  If you fail to abide by these terms Apple may remove your submission. Apple may also send an email that informs you that your Submission has been deleted or edited. Repeated inappropriate Submissions may result in your relevant account or accounts being placed into temporary or permanent suspension of your ability to participate in any or all of the areas on the Site.
     2.  If you post or send offensive or inappropriate content anywhere on or to the Site or otherwise engage in any disruptive behavior which Apple considers to be serious and/or repeated, Apple may use all available information about you to stop any further infringements. This may include informing relevant third parties such as your employer, school, Internet service provider, or law enforcement authorities of the infringement.
     3.  Apple reserves the right to delete any Submission, or take action against any account, at any time, for any reason.
+
+Delete User Tip
+
+Are you sure you want to delete this user tip?
