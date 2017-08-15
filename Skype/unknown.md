@@ -1,3 +1,5 @@
+Minute Fair Usage
+
 Calls to phones and mobiles in the US and Canada are included in your US Minute Bundle subject to a usage limit of 5,000 minutes per month, per US Minute Bundle. The maximum duration for a call using a US Minute Bundle is 12 hours. The number of US Minute Bundles cannot exceed the number of Skype Connect Channels that you have purchased for a Sip Profile. The minutes included in the US Minute Bundle do not roll over from month to month and will be lost if not used within that month. Once the minutes included in your US Minute Bundle have been used any additional calls made through Skype Connect will be charged and billed at Skype Connect’s standard calling rates and billing intervals.
 
 Calls to the following US and Canadian prefixes are not included within the US Minute bundle and may be subject to change with immediate effect. The current prefix’s that are not included in the US Minute Bundle are also published at http://www.skype.com/go/business.sip.pricing. Calls to these US and Canadian prefixes will be charged at Skype Connect’s standard calling rates:
