@@ -1,520 +1,847 @@
-Table of contents:
+Published: July 15, 2016What's new?Effective: September 15, 2016   PrintMicrosoft Services Agreement
 
-1.  Your agreement with Skype
-2.  Acceptance of the Terms
-3.  Changes to the Terms
-4.  Licence
-5.  Use of the software and products and Skype websites
-6.  Your obligations
-7.  Proprietary rights
-8.  Charges
-9.  Payment
-10.  Refund Policy
-11.  Ending Your relationship with Skype
-12.  Exclusion of warranties, limitation of liability and indemnity
-13.  Third party websites products and services
-14.  Additional Terms
-15.  Your confidential information and your privacy
-16.  For Government users only
-17.  How to contact Skype
-18.  Miscellaneous
-19.  Product specific terms
-20.  Pay by mobile
-21.  Skype Manager and Managed Accounts
-22.  Skype Connect
+**IF YOU LIVE IN (OR YOUR PRINCIPAL PLACE OF BUSINESS IS IN) THE UNITED STATES, PLEASE READ THE BINDING ARBITRATION CLAUSE AND CLASS ACTION WAIVER IN SECTION 15. IT AFFECTS HOW DISPUTES ARE RESOLVED.**
 
-**PLEASE READ CAREFULLY BEFORE DOWNLOADING THE SOFTWARE OR USING THE PRODUCT(S) OR SKYPE WEBSITES**
+These terms (“**Terms**”) cover the use of those Microsoft’s consumer products, websites, and services listed here (the “**Services**”). Many of these products previously had separate terms that were called different names, such as “Xbox Live Terms of Use” or “Skype Terms of Use,” and these Terms replace those separate terms. You accept these Terms by creating a Microsoft account or Skype account, through your use of the Services, or by continuing to use the Services after being notified of a change to these Terms.
 
-**Key Points**
+Your PrivacyYour Privacy
 
-It is important that you read the entirety of and understand this document. There are, however, a few key points that we need to emphasise:
+1\. **Your Privacy.** Your privacy is important to us. Please read the Microsoft Privacy Statement (the "**Privacy Statement**") as it describes the types of data we collect from you and your devices ("**Data**") and how we use your Data. The Privacy Statement also describes how Microsoft uses your content, which is your communications with others. postings or feedback submitted by you to Microsoft via the Services. and the files, photos, documents, audio, digital works, and videos that you upload, store or share through the Services ("**Your Content**"). By using the Services or agreeing to these Terms, you consent to Microsoft’s collection, use and disclosure of Your Content and Data as described in the Privacy Statement.
 
-**NO ACCESS TO EMERGENCY SERVICES:** The Software is not a replacement for your ordinary mobile or fixed line telephone. In particular, apart from in the very limited circumstances set out in paragraph 5.6 of these Terms (applicable to Skype’s Internet Communications Software only), the Software does not allow you to make emergency calls to emergency services. You must make alternative communications arrangements to ensure that you can make emergency calls if needed.
+Top of pageYour ContentYour Content
 
-**CHECK RESTRICTIONS ON USE:** In some regions there are restrictions on the use of the Software. It is your responsibility to ensure that you are legally allowed to use the Software where you are located.
+2\. **Your Content.** Many of our Services allow you to store or share Your Content or receive material from others. We don’t claim ownership of Your Content. Your Content remains Your Content and you are responsible for it.
 
-**NO OWNERSHIP OF NUMBERS:** If Skype allocates to you a Skype Number or Skype To Go Number, you do not own the number or have a right to retain that number forever. Skype may need to change or withdraw the number allocated to you from time to time. You will not transfer or attempt to transfer your Skype Number or Skype To Go Number to anyone else. You must ensure you comply with any allocation requirements displayed when purchasing a Skype Number as failure to do so could result in the number being withdrawn. Please see also paragraph 19.1.
+*   a. When you share Your Content with other people, you understand that they may be able to, on a worldwide basis, use, save, record, reproduce, transmit, display (and on HealthVault delete) Your Content without compensating you. If you do not want others to have that ability, do not use the Services to share Your Content. You represent and warrant that for the duration of these Terms, you have (and will have) all the rights necessary for Your Content that is uploaded, stored, or shared on or through the Services and that the collection, use, and retention of Your Content will not violate any law or rights of others. Microsoft cannot be held responsible for Your Content or the material others upload, store or share using the Services.
+*   b. To the extent necessary to provide the Services to you and others, to protect you and the Services, and to improve Microsoft products and services, you grant to Microsoft a worldwide and royalty-free intellectual property license to use Your Content, for example, to make copies of, retain, transmit, reformat, display, and distribute via communication tools Your Content on the Services. If you publish Your Content in areas of the Service where it is available broadly online without restrictions, Your Content may appear in demonstrations or materials that promote the Service. Some of the Services are supported by advertising. Controls for how Microsoft personalizes advertising are available on the Security &. privacy page of the Microsoft account management website. We do not use what you say in email, chat, video calls or voice mail, or your documents, photos or other personal files to target advertising to you. Our advertising policies are covered in detail in the Privacy Statement.
 
-**SKYPE CREDIT BECOMES INACTIVE AFTER 180 DAYS:** If you purchase Skype Credit please be aware that it becomes inactive after 180 days of inactivity. Please see also paragraph 9.2.
+Top of pageCode of ConductCode of Conduct
 
-**1\. YOUR AGREEMENT WITH SKYPE**
+3\. **Code of Conduct.**
 
-**1.1** Skype’s internet communication software applications (“**Internet Communications Software**”), other “Skype” branded software applications (together the “**Skype Software**”) and associated documentation (whether in printed or electronic form) including any improvements, modifications, enhancements, fixes, updates, upgrades and future versions thereto (“**Updates**”) and whether made available for free or for a fee, (collectively the “**Software**”) are licensed (not sold) to you by Skype Software S.à r.l. unless you are using a version of the Software that is included with Windows 8.1 or later. If you are using a version of the Software that is included with Windows 8.1 or later, the Software is licensed to you under the Microsoft Software License Terms for the version of Windows that you are running. These Terms (other than the software license in Section 4.1) will still apply to your use of the Software and Products.
+*   a. By agreeing to these Terms, you’re agreeing that, when using the Services, you will follow these rules:
 
-**1.2** The features and products that are made available through the Software for free (excluding products or features available for free on a trial basis only) (“**Free Products**”) are provided to you by Skype Software S.à r.l.  
+*   i. Don’t do anything illegal.
+*   ii. Don’t engage in any activity that exploits, harms, or threatens to harm children.
+*   iii. Don’t send spam. Spam is unwanted or unsolicited bulk email, postings, contact requests, SMS (text messages), or instant messages.
+*   iv. Don’t publicly display or use the Services to share inappropriate Content or material (involving, for example, nudity, bestiality, pornography, graphic violence, or criminal activity).
+*   v. Don’t engage in activity that is false or misleading (e.g., asking for money under false pretenses, impersonating someone else, manipulating the Services to increase play count, or affect rankings, ratings, or comments).
+*   vi. Don’t circumvent any restrictions on access to or availability of the Services.
+*   vii. Don’t engage in activity that is harmful to you, the Services, or others (e.g., transmitting viruses, stalking, posting terrorist content, communicating hate speech, or advocating violence against others).
+*   viii. Don’t infringe upon the rights of others (e.g., unauthorized sharing of copyrighted music or other copyrighted material, resale or other distribution of Bing maps, or photographs).
+*   ix. Don’t engage in activity that violates the privacy of others.
+*   x. Don’t help others break these rules.
 
-**1.3** Any additional products or features of the Skype Software or other “Skype”” branded products, that you pay for (including products or features available for free on a trial basis only) (“Paid For Products”) are provided to you by Skype Communications S.à r.l.  
+*   b. **Enforcement.** If you violate these Terms, we may stop providing Services to you or we may close your Microsoft account or Skype account. We may also block delivery of a communication (like email or instant message) to or from the Services in an effort to enforce these Terms or we may remove or refuse to publish Your Content for any reason. When investigating alleged violations of these Terms, Microsoft reserves the right to review Your Content in order to resolve the issue. However, we cannot monitor the entire Services and make no attempt to do so.
+*   c. **Application to Xbox Services.** Click here for more information about how this Code of Conduct applies to Xbox Live, Games for Windows Live and Microsoft Studios games, applications, services and content provided by Microsoft.
 
-**1.4** “Skype Websites” means www.skype.com (operated by Skype Communications S.à r.l.) and any other websites authorised by Skype which link to these Terms.
+Top of pageUsing the Services &. SupportUsing the Services &. Support
 
-**1.5 “Skype’’** means Skype Software S.à r.l., 23 – 29 Rives de Clausen, L-2165 Luxembourg or Skype Communications S.à r.l., 23 – 29 Rives de Clausen, L-2165 Luxembourg as the context requires;  
-**“Products”** means collectively the Free Products and Paid For Products;  
-**“you”** or **“your”** means you, the registered holder of the User Account (as described in paragraph 6.1) and licensee under these Terms.
+4\. **Using the Services &. Support.**
 
-**1.6** Your agreement with Skype is made up of the terms and conditions set out in this document, together with any fair usage policies described in this document and Additional Terms referred to in paragraph 14 (collectively the “**Terms**”). To the extent of any inconsistency between the fair usage policies or any Additional Terms and this document, this document shall take precedence.
+*   a. **Microsoft account or Skype account.** You’ll need a Microsoft account to access many of the Services. Your Microsoft account lets you sign in to products, websites and services provided by Microsoft and some Microsoft partners. To access Skype on certain platforms, you have the option of using a Skype account or a Microsoft account.
+    *   i. **Creating an Account.** You can create a Microsoft account or a Skype account by signing up online. You agree not to use any false, inaccurate or misleading information when signing up for your Microsoft account or Skype account. In some cases, a third party, like your Internet service provider, may have assigned a Microsoft account to you. If you received your Microsoft account from a third party, the third party may have additional rights over your account, like the ability to access or delete your Microsoft account. Please review any additional terms the third party provided you, as Microsoft has no responsibility regarding these additional terms. If you create a Microsoft account on behalf of an entity, such as your business or employer, you represent that you have the legal authority to bind that entity to these Terms. You cannot transfer your Microsoft account or Skype account to another user or entity. To protect your account, keep your account details and password confidential. You are responsible for all activity that occurs under your Microsoft account or Skype account.
+    *   ii. **Account Use.** You must use your Microsoft account to keep it active. This means you must sign in at least once in a five-year period to keep your Microsoft account, and associated Services, active, unless provided otherwise in an offer for a paid portion of the Services. If you don’t sign in during this time, we will assume your Microsoft account is inactive and will close it for you. Please see section 4(a)(iv)(2) for the consequences of a closed Microsoft account. You must sign into your Outlook.com inbox and your OneDrive (separately) at least once in a one-year period, otherwise we will close your Outlook.com inbox and your OneDrive for you. You must sign into the Xbox Services (defined in section 14(a)(i)) at least once in a five-year period to keep the gamertag associated with your Microsoft account. If we reasonably suspect that your Microsoft account or Skype account is being used by a third party fraudulently (for example, as a result of an account compromise), Microsoft may suspend your account until you can reclaim ownership. Based on the nature of the compromise, we may be required to disable access to some or all of Your Content. If you are having trouble accessing your Microsoft account, please visit this website: http://go.microsoft.com/fwlink/?LinkId=238656. To manage your Skype account, you must "Sign In" at www.skype.com.
+        
+    *   iii. **Kids and Accounts.** By using the Services, you represent that you have either reached the age of "majority" where you live or have valid parent or legal guardian consent to be bound by these Terms. If you do not know whether you have reached the age of majority where you live, or do not understand this section, please ask your parent or legal guardian for help before you create a Microsoft account or Skype account. If you are the parent or legal guardian of a minor that creates a Microsoft account or Skype account, you accept these Terms on the minor’s behalf and are responsible for all use of the Microsoft account, Skype account, or Services, including purchases, whether the minor’s account is now open or created later.
+    *   iv. **Closing Your Account.**
+        *   1\. You can cancel specific Services or close your Microsoft account or Skype account at any time and for any reason. To close your Microsoft account, please visit http://go.microsoft.com/fwlink/p/?linkid=618278. When you ask us to close your Microsoft account, we will put it in a suspended state for 60 days just in case you change your mind. After that 60-day period, your Microsoft account will be closed. Please see section 4(a)(iv)(2) below for a detailed explanation as to what happens when your Microsoft account is closed. Logging back in during that 60-day period will reactivate your Microsoft account. To cancel your Skype account please submit a support request to http://go.microsoft.com/fwlink/p/?linkid=618280.
+        *   2\. If your Services are canceled or your Microsoft account or Skype account is closed (whether by you or us), a few things happen. First, your right to use the Services stops immediately and your license to use the software related to the Services ends. Second, we’ll delete Data or Your Content associated with your Microsoft account or Skype account or will otherwise disassociate it from you and your Microsoft account or Skype account (unless we are required by law to keep it). You should have a regular backup plan as Microsoft won’t be able to retrieve Your Content or Data once your account is closed. Third, you may lose access to material or products you’ve acquired.
+*   b. **Work or School Accounts.** You can sign into certain Microsoft services with a work or school email address. If you do, you agree that the owner of the domain associated with your email address may control and administer your account, and access and process your data, including the contents of your communications and files. You further agree that your use of the services may be subject to the agreements that Microsoft has with you or your organization and these terms do not apply. If you use a work or school email address to access Services covered under these Terms, you may be prompted to update the email address associated with your Microsoft account in order to continue accessing such Services.
+*   c. **Additional Equipment/Data Plans.** To use many of the Services, you’ll need an internet connection and/or data/cellular plan. You might also need additional equipment, like a headset, camera or microphone. You are responsible for providing all connections, plans, and/or equipment needed to use the Services and for paying the fees charged by the provider(s) of your connections, plans, and equipment. Those fees are in addition to any fees you pay us for the Services and we will not reimburse you for such fees. Check with your provider(s) to determine if there are any such fees that may apply to you.
+*   d. **Service Notifications.** When there’s something important to tell you about a Service you use, we’ll send you Service notifications to the email associated with your Microsoft account or, for Skype notifications, your Skype account. If you gave us your phone number in connection with your Microsoft account or Skype account, then we may send Service notifications to you via SMS (text message), including to verify your identity before registering your mobile phone number. **Data or messaging rates may apply when receiving notifications via SMS.**
+*   e. **Support.** Customer support for the Services is available at http://support.microsoft.com.
 
-**2\. ACCEPTANCE OF THE TERMS**
+Top of pageUsing Third-Party Apps and ServicesUsing Third-Party Apps and Services
 
-**2.1** In order to download and/or use the Software, Products and/or Skype Websites you must first accept these Terms. These Terms are accepted by you (a) when you click to accept or agree to the Terms. or (b) when you download and/or use the Software, Products and/or Skype Websites. We advise you to print a copy of these Terms for your records. You can also download a copy of the Terms applicable to your purchases from your account page on www.skype.com. These Terms remain effective from the date of acceptance until terminated by you or Skype in accordance with paragraph 11.
+5\. **Using Third-Party Apps and Services.** The Services may allow you to access or acquire products, services, websites, links, content, material, games or applications from third parties (companies or people who aren’t Microsoft) (**"Third-Party Apps and Services"**). Many of our Services also help you find Third-Party Apps and Services, and you understand that you are directing our Services to provide Third-Party Apps and Services to you. The Third-Party Apps and Services may also allow you to store Your Content or Data with the publisher, provider, or operator of the Third-Party Apps and Services. The Third-Party Apps and Services may present you with a privacy policy or require you to accept additional terms of use before you can install or use the Third-Party App or Service. See section 14(b) for additional terms for applications acquired through the Office Store, the Xbox Store or the Windows Store. You should review any additional terms and privacy policies before acquiring or using any Third-Party Apps and Services. Any additional terms do not modify any of these Terms. You are responsible for your dealings with third parties. Microsoft does not license any intellectual property to you as part of any Third-Party Apps and Services and is not responsible for information provided by third parties.
 
-**2.2** You cannot accept these Terms if: (a) you are not lawfully entitled to use the Software, Products and/or Skype Websites in the country in which you are located or reside or (b) if you are not of legal age to form a binding agreement with Skype.
+Top of pageService AvailabilityService Availability
 
-**2.3** In some countries the Products may be provided to you by Skype’s local partner. If so, that local partner may ask you to accept its own terms of service (**“local terms”**). If there is any inconsistency between those local terms and these Terms, then the local terms shall govern to the extent of that inconsistency.
+6\. **Service Availability.**
 
-**3\. CHANGES TO THE TERMS**
+*   a. The Services, Third-Party Apps and Services, or material or products offered through the Services may be unavailable from time to time, may be offered for a limited time, or may vary depending on your region or device. If you change the location associated with your Microsoft account, you may need to re-acquire the material or applications that were available to you and paid for in your previous region.
+*   b. We strive to keep the Services up and running. however, all online services suffer occasional disruptions and outages, and Microsoft is not liable for any disruption or loss you may suffer as a result. In the event of an outage, you may not be able to retrieve Your Content or Data that you’ve stored. We recommend that you regularly backup Your Content that you store on the Services or store using Third-Party Apps and Services.
 
-**3.1** Skype may make changes to these Terms from time to time. Skype will publish the changes at www.skype.com/go/tou. Changes to the fair usage policies and/or Additional Terms will be posted on the applicable Skype Website. The changes will be effective when published. Please review the Terms on a regular basis. You understand and agree that your express acceptance of the Terms or your use of the Software, Products and/or Skype Websites after the date of publication shall constitute your agreement to the updated Terms. If you do not agree with the amended Terms, you may terminate your relationship with Skype in accordance with paragraph 11 below.
+Top of pageUpdates to the Services or Software, and Changes to These TermsUpdates to the Services or Software, and Changes to These Terms
 
-**4\. LICENCE**
+7\. **Updates to the Services or Software, and Changes to These Terms.**
 
-**4.1 Licence.** Subject to your compliance with these Terms, you are granted a limited, non-exclusive, non-sublicensable, non-assignable, free of charge license to download and install the Software on a personal computer, mobile phone or other device. and personally use the Software through your individual Skype user account, acting as an individual and not as a business entity (“**User Account**”). For the avoidance of doubt, (a) IT administrators working on behalf of a company may download and install the Skype Software onto personal computers or other devices used by personnel of such company. and (b) you are permitted to use the Software at a university or other educational institution, or at work. Skype reserves all rights not expressly granted to you under these Terms.
+*   a. We may change these Terms at any time, and we’ll tell you when we do. Using the Services after the changes become effective means you agree to the new terms. If you don’t agree to the new terms, you must stop using the Services, close your Microsoft account and/or Skype account and, if you are a parent or guardian, help your minor child close his or her Microsoft account or Skype account.
+*   b. Sometimes you’ll need software updates to keep using the Services. We may automatically check your version of the software and download software updates or configuration changes. You may also be required to update the software to continue using the Services. Such updates are subject to these Terms unless other terms accompany the updates, in which case, those other terms apply. Microsoft isn’t obligated to make any updates available and we don’t guarantee that we will support the version of the system for which you licensed the software.
+*   c. Additionally, there may be times when we need to remove or change features or functionality of the Service or stop providing a Service or access to Third-Party Apps and Services altogether. Except to the extent required by applicable law, we have no obligation to provide a re-download or replacement of any material, Digital Goods (defined in section 14(k)), or applications previously purchased. We may release the Services or their features in a beta version, which may not work correctly or in the same way the final version may work.
+*   d. So that you can use material protected with digital rights management (DRM), like some music, games, movies and more, DRM software may automatically contact an online rights server and download and install DRM updates.
 
-**4.2 Restrictions.** You may not and you agree not to:
+Top of pageSoftware LicenseSoftware License
 
-(a) sub-license, sell, assign, rent, lease, export, import, distribute or transfer or otherwise grant rights to any third party in the Software;
+8\. **Software License.** Unless accompanied by a separate Microsoft license agreement (for example, if you are using a Microsoft application that is included with and a part of Windows, then the Microsoft Software License Terms for the Windows Operating System govern such software), and except as provided in section 14(b)(i) below for applications available through the Office Store, the Windows Store or the Xbox Store, any software provided by us to you as part of the Services is subject to these Terms.
 
-(b) undertake, cause, permit or authorise the modification, creation of derivative works or improvements, translation, reverse engineering, decompiling, disassembling, decryption, emulation, hacking, discovery or attempted discovery of the source code or protocols of the Software or any part or features thereof (except to the extent permitted by law);
+*   a. If you comply with these Terms, we grant you the right to install and use one copy of the software per device on a worldwide basis for use by only one person at a time as part of your use of the Services. The software or website that is part of the Services may include third-party code. Any third-party scripts or code, linked to or referenced from the software or website, are licensed to you by the third parties that own such code, not by Microsoft. Notices, if any, for the third-party code are included for your information only.
+*   b. The software is licensed, not sold, and Microsoft reserves all rights to the software not expressly granted by Microsoft, whether by implication, estoppel, or otherwise. This license does not give you any right to, and you may not:
+    *   i. circumvent or bypass any technological protection measures in or relating to the software or Services;
+    *   ii. disassemble, decompile, decrypt, hack, emulate, exploit, or reverse engineer any software or other aspect of the Services that is included in or accessible through the Services, except and only to the extent that the applicable copyright law expressly permits doing so;
+    *   iii. separate components of the software or Services for use on different devices;
+    *   iv. publish, copy, rent, lease, sell, export, import, distribute, or lend the software or the Services, unless Microsoft expressly authorizes you to do so;
+    *   v. transfer the software, any software licenses, or any rights to access or use the Services;
+    *   vi. use the Services in any unauthorized way that could interfere with anyone else’s use of them or gain access to any service, data, account, or network;
+    *   vii. enable access to the Services or modify any Microsoft-authorized device (e.g., Xbox One, Xbox 360, Microsoft Surface, etc.) by unauthorized third-party applications.
 
-(c) remove, obscure or alter any copyright notices or other proprietary notices included in the Software;
+Top of pagePayment TermsPayment Terms
 
-(d) use the Software or cause the Software (or any part of it) to be used within or to provide commercial products or services to third parties. The foregoing shall not preclude you using the Software for your own business communications, subject to paragraph 4.1 above;
+9\. **Payment Terms.** If you purchase a Service, then these payment terms apply to your purchase and you agree to them.
 
-(e) other than for the purposes of download and installation, use the Software except through your User Account.
+*   a. **Charges.** If there is a charge associated with a portion of the Services, you agree to pay that charge. The price stated for the Services excludes all applicable taxes and currency exchange settlements, unless stated otherwise. The price for Skype paid products includes a charge for the product and a charge for taxes. You are solely responsible for paying such taxes or other charges. Taxes are calculated based on your location at the time your Microsoft or Skype account was registered. We may suspend or cancel the Services if we do not receive an on time, full payment from you. Suspension or cancellation of the Services for non-payment could result in a loss of access to and use of your account and its content. Connecting to the Internet via a corporate or other private network which masks your location may cause charges to be different from those displayed for your actual location.
+*   b. **Your Billing Account.** To pay the charges for a Service, you will be asked to provide a payment method at the time you sign up for that Service. You can access and change your billing information and payment method on the Microsoft account management website and for your Skype billing account by signing into your account at www.skype.com. Additionally, you agree to permit Microsoft to use any updated account information regarding your selected payment method provided by your issuing bank or the applicable payment network. You agree to promptly update your account and other information, including your email address and payment method details, so we can complete your transactions and contact you as needed in connection with your transactions. Changes made to your billing account will not affect charges we submit to your billing account before we could reasonably act on your changes to your billing account.
+*   c. **Billing.** By providing Microsoft with a payment method, you (i) represent that you are authorized to use the payment method that you provided and that any payment information you provide is true and accurate. (ii) authorize Microsoft to charge you for the Services or available content using your payment method. and (iii) authorize Microsoft to charge you for any paid feature of the Services that you choose to sign up for or use while these Terms are in force. We may bill you (a) in advance. (b) at the time of purchase. (c) shortly after purchase. or (d) on a recurring basis for subscription Services. Also, we may charge you up to the amount you have approved, and we will notify you in advance of any change in the amount to be charged for recurring subscription Services. We may bill you at the same time for more than one of your prior billing periods for amounts that haven't previously been processed.
+*   d. **Recurring Payments.** When you purchase the Services on a subscription basis (e.g., monthly, every 3 months or annually (as applicable)), you acknowledge and agree that you are authorizing recurring payment, and payments shall be made to Microsoft by the method you have chosen at the recurring intervals chosen by you, until the subscription for that Service is terminated by you or by Microsoft. By authorizing recurring payments, you are authorizing Microsoft to process such payments as either electronic debits or fund transfers, or as electronic drafts from your designated account (in the case of Automated Clearing House or similar payments), or as charges to your designated account (in the case of credit card or similar payments) (collectively, **"Electronic Payments"**). Subscription fees are generally billed or charged in advance of the applicable subscription period. If any payment is returned unpaid or if any credit card or similar transaction is rejected or denied, Microsoft or its service providers reserve the right to collect any applicable return item, rejection or insufficient funds fee and to process any such payment as an Electronic Payment.
+*   e. **Automatic Renewal.** Provided that automatic renewals are allowed in your state, you may choose for Services to automatically renew at the end of a fixed service period.  We will remind you by email before any Services renew for a new term, and notify you of any price changes in accordance with section 9(k).  Once we have reminded you that you elected to automatically renew the Services, we may automatically renew your Services at the end of the current service period and charge you the then current price for the renewal term, unless you have chosen to cancel the Services as described below. We will also remind you that we will bill your chosen payment method for the Services renewal, whether it was on file on the renewal date or provided later. We will also provide you with instructions on how you may cancel the Services. You must cancel the Services before the renewal date to avoid being billed for the renewal.
+*   f. **Online Statement and Errors.** Microsoft will provide you with an online billing statement on the Microsoft account management website, where you can view and print your statement. For Skype accounts you can access your online statement by signing into your account at www.skype.com. This is the only billing statement that we provide. If we make an error on your bill, you must tell us within 90 days after the error first appears on your bill. We will then promptly investigate the charge. If you do not tell us within that time, you release us from all liability and claims of loss resulting from the error and we won't be required to correct the error or provide a refund. If Microsoft has identified a billing error, we will correct that error within 90 days.
+*   g. **Refund Policy.** Unless otherwise provided by law or by a particular Service offer, all purchases are final and non-refundable. If you believe that Microsoft has charged you in error, you must contact us within 90 days of such charge. No refunds will be given for any charges more than 90 days old. We reserve the right to issue refunds or credits at our sole discretion. If we issue a refund or credit, we are under no obligation to issue the same or similar refund in the future. This refund policy does not affect any statutory rights that may apply. For more refund information, please visit our help topic.
+*   h. **Canceling the Services.** You may cancel a Service at any time, with or without cause. To cancel a Service and request a refund, if you are entitled to one, visit the Microsoft account management website. You can request a refund from Skype using the Cancellation and Refund form. You should refer back to the offer describing the Services as (i) you may not receive a refund at the time of cancellation. (ii) you may be obligated to pay cancellation charges. (iii) you may be obligated to pay all charges made to your billing account for the Services before the date of cancellation. or (iv) you may lose access to and use of your account when you cancel the Services. If you cancel, your access to the Services ends at the end of your current Service period or, if we bill your account on a periodic basis, at the end of the period in which you canceled.
+*   i. **Trial-Period Offers.** If you are taking part in any trial-period offer, you must cancel the trial Service(s) by the end of the trial period to avoid incurring new charges, unless we notify you otherwise. If you do not cancel the trial Service(s) by the end of the trial period, we may charge you for the Service(s).
+*   j. **Promotional Offers.** From time to time, Microsoft may offer Services for a trial period during which Microsoft will not charge you for the Services. Microsoft reserves the right to charge you for such Services (at the normal rate) in the event that Microsoft determines (in its reasonable discretion) that you are breaching the terms and conditions of the offer.
+*   k. **Price Changes.** We may change the price of the Services at any time and if you have a recurring purchase, we will notify you by email at least 15 days before the price change. If you do not agree to the price change, you must cancel and stop using the Services before the price change takes effect. If there is a fixed term and price for your Service offer, that price will remain in force for the fixed term.
+*   l. **Payments to You.** If we owe you a payment, then you agree to timely and accurately provide us with any information we need to get that payment to you. You are responsible for any taxes and charges you may incur as a result of this payment to you. You must also comply with any other conditions we place on your right to any payment. If you receive a payment in error, we may reverse or require return of the payment. You agree to cooperate with us in our efforts to do this. We may also reduce the payment to you without notice to adjust for any previous overpayment.
+*   m. **Gift Cards.** Redemption and use of gift cards (other than Skype gift cards) are governed by the Microsoft Gift Card Terms and Conditions. Information on Skype gift cards is available on Skype’s Help page.
 
-**4.3 Other Technology**. If you are using Software pre-loaded on, embedded in, combined, distributed or used with or downloaded onto other products, hardware, software applications, programs or devices (“**Other Technology**”), you agree and acknowledge that: (a) you may be required to (i) enter into a separate licence agreement with. and/or (ii) purchase a subscription from. and/or (iii) pay a fee, to the relevant third party owner or licensor for the use of such Other Technology. (b) some Products and/or functionality may not be accessible through the Other Technology and (c) Skype cannot guarantee that the Software shall always be available on or in connection with such Other Technology. Additionally, our Software may contain features that allow you to submit information to, or plot yourself on a map using, a mapping service. By using those features, you agree to the terms that apply to those mapping services, which may include, as applicable, the Bing Maps End User Terms of Use available at http://www.microsoft.com/maps/assets/docs and the Google Maps available at http://www.google.com/intl/en\_ALL/help.  
+Top of pageContracting Entity, Choice of Law, JurisdictionContracting Entity, Choice of Law, Jurisdiction
 
-**4.4 Third Party Notices.** The Software and Skype Websites may include third party code that Skype, not the third party, licenses to you under this agreement. Notices, if any, for the third party code are included for your information only. Third party scripts, linked to, called or referenced from the Software, are licensed to you by the third parties that own such code, not by Skype.
+10\. **Contracting Entity.** For use of free, consumer Skype-branded Services, you're contracting with, and all references to "Microsoft" in these Terms mean, Skype Software S.à.r.l, 23 – 29 Rives de Clausen, L-2165 Luxembourg, and for paid, consumer Skype-branded Services, you’re contracting with, and all references to "Microsoft" in these Terms mean, Skype Communications S.à.r.l, 23 – 29 Rives de Clausen, L-2165 Luxembourg. For all other Services, you're contracting with Microsoft Corporation, One Microsoft Way, Redmond, WA 98052, U.S.A.
 
-**5\. USE OF THE SOFTWARE AND PRODUCTS AND SKYPE WEBSITES**
+11\. **Choice of Law and Place to Resolve Disputes.** If you live in (or, if a business, your principal place of business is in) the United States, the laws of the state where you live govern all claims, regardless of conflict of laws principles, except that the Federal Arbitration Act governs all provisions relating to arbitration. You and we irrevocably consent to the exclusive jurisdiction and venue of the state or federal courts in King County, Washington, for all disputes arising out of or relating to these Terms or the Services that are heard in court (excluding arbitration and small claims court).
 
-**5.1 Equipment:** In order to use the Software and the Products you will need an Internet broadband connection. You are responsible for providing all equipment required to access the Internet or enable communications such as headsets, microphones and webcams. Connecting to the Internet via a corporate or other private network which masks your location may cause charges to be different from those displayed for your actual location.  
+Top of pageWarrantiesWarranties
 
-**5.2 Use of Your Equipment:** The Internet Communications Software may use the processing capabilities, memory and bandwidth of the computer (or other applicable device) you are using, for the limited purpose of facilitating the communication and establishing the connection between Internet Communications Software users. If your use of the Internet Communications Software is dependent upon the use of a processor and bandwidth owned or controlled by a third party, you acknowledge and agree that your licence to use the Internet Communications Software is subject to you obtaining consent from the relevant third party for such use. You represent and warrant that by accepting these Terms, you have obtained such consent.
+12. **Warranties. MICROSOFT, AND OUR AFFILIATES, RESELLERS, DISTRIBUTORS, AND VENDORS, MAKE NO WARRANTIES, EXPRESS OR IMPLIED, GUARANTEES OR CONDITIONS WITH RESPECT TO YOUR USE OF THE SERVICES. YOU UNDERSTAND THAT USE OF THE SERVICES IS AT YOUR OWN RISK AND THAT WE PROVIDE THE SERVICES ON AN "AS IS" BASIS "WITH ALL FAULTS" AND "AS AVAILABLE." YOU BEAR THE ENTIRE RISK OF USING THE SERVICES. MICROSOFT DOESN'T GUARANTEE THE ACCURACY OR TIMELINESS OF INFORMATION AVAILABLE FROM THE SERVICES. TO THE EXTENT PERMITTED UNDER YOUR LOCAL LAW, WE EXCLUDE ANY IMPLIED WARRANTIES, INCLUDING FOR MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, WORKMANLIKE EFFORT, AND NON-INFRINGEMENT. YOU MAY HAVE CERTAIN RIGHTS UNDER YOUR LOCAL LAW. NOTHING IN THESE TERMS IS INTENDED TO AFFECT THOSE RIGHTS, IF THEY ARE APPLICABLE. YOU ACKNOWLEDGE THAT COMPUTER AND TELECOMMUNICATIONS SYSTEMS ARE NOT FAULT-FREE AND OCCASIONAL PERIODS OF DOWNTIME OCCUR. WE DO NOT GUARANTEE THE SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE OR THAT CONTENT LOSS WON'T OCCUR, NOR DO WE GUARANTEE ANY CONNECTION TO OR TRANSMISSION FROM THE COMPUTER NETWORKS.**
 
-**5.3 Updates to the Software:** Skype may automatically check your version of the Skype Software. We may also automatically download configuration changes and updates to the Software from time to time. You may be required to update the Software in order to continue using Skype. You agree to accept such updates subject to these Terms unless other terms accompany the updates. If you do not agree, please discontinue use of and uninstall the Software. Skype is not obligated to make any updates available and does not guarantee that we will continue to support the version of the operating system or device for which you licensed the Software or that updated Software will be compatible for use with end users running older versions of the Software. Microsoft Corporation or its affiliates and subsidiaries may also automatically download updates to the Skype Software for Windows, if you have chosen to receive Microsoft Updates. Updates may be required to maintain software compatibility, provide security updates or bug fixes, or offer new features, functionality or versions.
+Top of pageLimitation of LiabilityLimitation of Liability
 
-**5.4 Suspension, technical improvement and maintenance:** From time to time, Skype may need to perform maintenance on or upgrade the Software, Products or Skype Websites or the underlying infrastructure that enables you to use the Software, Products or Skype Websites. This may require Skype to temporarily suspend or limit your use of some or all of the Software, Products or Skype Websites until such time as this maintenance and/or upgrade can be completed. To the extent possible and unless an intervention is urgently required, Skype will publish the time and date of such suspension or limitation on the Skype Website in advance. You will not be entitled to claim damages for such suspension or limitation of the use of any Software, Product or Skype Website.
+13\. **Limitation of Liability. If you have any basis for recovering damages (including breach of these Terms), you agree that your exclusive remedy is to recover, from Microsoft or any affiliates, resellers, distributors, Third-Party Apps and Services providers, and vendors, direct damages up to an amount equal to your Services fee for the month during which the breach occurred (or up to $10.00 if the Services are free). You can't recover any other damages or losses, including direct, consequential, lost profits, special, indirect, incidental, or punitive.** These limitations and exclusions apply even if this remedy doesn't fully compensate you for any losses or fails of its essential purpose or if we knew or should have known about the possibility of the damages. To the maximum extent permitted by law, these limitations and exclusions apply to anything or any claims related to these Terms, the Services, or the software related to the Services.
 
-**5.5 No Access to Emergency Services:** Neither the Products nor the Software are intended to support or carry emergency calls to any type of hospitals, law enforcement agencies, medical care unit or any other kind of services that connect a user to emergency services personnel or public safety answering points (“Emergency Services”). There are important differences between traditional telephone services and the Products. You acknowledge and agree that: (i) Skype is not required to offer access to Emergency Services under any applicable local and/or national rules, regulations or law. (ii) it is your responsibility to purchase, separately from the Products, traditional wireless (mobile) or fixed line telephone services that offer access to Emergency Services, and (iii) the Software and the Products are not a replacement for your primary telephone service. Find out more about calling 112, the dedicated emergency number for the EU at www.skype.com/go/emergency.
+Top of pageService-Specific TermsService-Specific Terms
 
-**5.6 Limited Emergency Calling (Internet Communications Software Only)**
+14\. **Service-Specific Terms.** The terms before and after section 14 apply generally to all Services. This section contains service-specific terms that are in addition to the general terms.
 
-**5.6.1** In a very limited number of countries, and for defined Internet Communications Software versions and platforms only, Skype will try to provide limited emergency calling as a stand-alone feature but can provide no commitment in this respect. See the full list of countries (“Enabled Countries”) and software versions and other platforms (“Enabled Versions”) that enable limited Skype emergency calling. Skype emergency calling is not available for any other countries, versions or platforms. You should keep traditional wireless (mobile) or fixed line telephone services available for your calls to Emergency Services and use Skype’s limited emergency calling only as an absolute last resort. In particular, please also note that:
+Top of pageXbox Live and Microsoft Studios Games and ApplicationsXbox Live and Microsoft Studios Games and Applications
 
-(i) power cut, battery failure or internet connection failure can lead to a Skype call failure, including your call to Emergency Services. Additionally, any of the quality limitations set out in paragraph 5.9 below, may otherwise affect successful call connection.
+*   a. **Xbox Live and Microsoft Studios Games and Applications.**
+    *   i. **Personal Noncommercial Use.** Xbox Live, Games for Windows Live and Microsoft Studios games, applications, services and content provided by Microsoft (collectively, the "**Xbox Services**") are only for your personal and noncommercial use.
+    *   ii. **Sharing Limited Account Information.** As part of delivering the Xbox Services, we make information pertaining to your gamertag, gameplay, Your Content that you make public, and activity on and usage of any Xbox Service available for the operation and delivery of (a) other Xbox Services and (b) third-party games that use Xbox Services. If you choose to link your Microsoft Xbox Services account with your account on a non-Microsoft service (for example, a non-Microsoft game publisher of Third-Party Apps and Services), you agree that: (a) Microsoft may share limited account information (including without limitation gamertag, gamerscore, game score, game history, and friends list), with that non-Microsoft party as stated in the Microsoft Privacy Statement, and (b) if allowed by your Xbox privacy settings, the non-Microsoft party may also have access to Your Content from in-game communications when you are signed into your account with that non-Microsoft party. Also, if allowed by your Xbox privacy settings, Microsoft can publish your name, gamertag, gamerpic, motto, avatar, and games that you’ve played in communications to people on your Xbox friends list.
+    *   iii. **Your Content.** As part of building the Xbox Services community, you grant to Microsoft, its affiliates and sublicensees a free and worldwide right to use, modify, reproduce, distribute, and display Your Content or your name, gamertag, motto, or avatar that you posted for any Xbox Services.
+    *   iv. **Game Managers.** Some games may use game managers and hosts. Game managers and hosts are not authorized Microsoft spokespersons. Their views do not necessarily reflect those of Microsoft.
+    *   v. **Kids on Xbox.** If you are a minor using Xbox Live, your parent or guardian may have control over many aspects of your account and may receive reports about your use of Xbox Live.
+    *   vi. **Game Currency or Virtual Goods.** The Services may include a virtual, game currency (like gold, coins or points) that may be purchased from Microsoft using actual monetary instruments if you have reached the age of "majority" where you live. The Services may also include virtual, digital items or goods that may be purchased from Microsoft using actual monetary instruments or using game currency. Game currency and virtual goods may never be redeemed for actual monetary instruments, goods or other items of monetary value from Microsoft or any other party. Other than a limited, personal, revocable, non-transferable, non-sublicensable license to use the game currency and virtual goods in the Services only, you have no right or title in or to any such game currency or virtual goods appearing or originating in the Services, or any other attributes associated with use of the Services or stored within the Services. Microsoft may at any time regulate, control, modify and/or eliminate the game currency and/or virtual goods as it sees fit in its sole discretion.
+    *   vii. **Software Updates.** For any device that can connect to Xbox Services, we may automatically check your version of Xbox console software or the Xbox App software and download Xbox console or Xbox App software updates or configuration changes, including those that prevent you from accessing the Xbox Services, using unauthorized Xbox games or Xbox apps, or using unauthorized hardware peripheral devices with an Xbox console.
+    *   viii. **Gamertag Expiration.** You must sign into Xbox Services at least once in a five-year period, otherwise you may lose access to the gamertag associated with your account and that gamertag may become available for use by others.
 
-(ii) where available, an emergency call made using the Internet Communications Software in an enabled country may not receive the same network priority as a call made using traditional wireless (mobile) or fixed line telephone services.
+Top of pageStoreStore
 
-(iii) if your emergency call is connected, you will need to tell the Emergency Services operator that you speak to where you are physically located so that the correct emergency organisation can respond to your emergency and knows where to find you. If you do not provide this information when prompted, you acknowledge that your emergency call may not be completed and you will not be able to gain access to your required Emergency Services using the Internet Communications Software. Skype will have no liability for your failed emergency call in such circumstances.
+*   b. **Store.** "Store" refers to a Service that allows you to browse, download, purchase, and rate and review applications (the term "application" includes games) and other digital content. These Terms cover use of Office Store, Xbox Store and Windows Store. **"Office Store"** means a Store for Office products and apps for Office, SharePoint, Exchange, Access and Project (2013 versions or later). **"Windows Store"** means a Store for Windows devices such as phone, PC and tablet, or any other experience that is branded Windows Store. **"Xbox Store"** means a Store for Xbox ONE and Xbox 360 consoles, or any other experience that is branded Xbox Store.
+    *   i. **License Terms.** We will identify the publisher of each application available in the relevant Store. The Standard Application License Terms (**"SALT"**) at the end of these Terms are an agreement between you and the application publisher setting forth the license terms that apply to your use of an application you download through the Windows Store or the Xbox Store, unless different license terms are provided with the application. Section 5 of these Terms applies to any Third-Party Apps and Services acquired through a Store. Applications downloaded through the Office Store are not governed by the SALT and have separate license terms that apply.
+    *   ii. **Updates.** Microsoft will automatically check for and download updates to your applications, even if you’re not signed into the relevant Store. You can change your Store or system settings if you prefer not to receive automatic updates to Store applications. However, certain Office Store applications that are entirely or partly hosted online may be updated at any time by the application developer and may not require your permission to update.
+    *   iii. **Ratings and Reviews.** If you rate or review an application in the Store, you may receive email from Microsoft containing content from the publisher of the application. Any such email comes from Microsoft. we do not share your email address with publishers of applications you acquire through the Store.
+    *   iv. **Safety Warning.** To avoid possible injury, discomfort or eye strain, you should take periodic breaks from use of games or other applications, especially if you feel any pain or fatigue resulting from usage. If you experience discomfort, take a break. Discomfort might include feelings of nausea, motion sickness, dizziness, disorientation, headache, fatigue, eye strain, or dry eyes. Using applications can distract you and obstruct your surroundings. Avoid trip hazards, stairs, low ceilings, fragile or valuable items that could be damaged. A very small percentage of people may experience seizures when exposed to certain visual images like flashing lights or patterns that may appear in applications. Even people with no history of seizures may have an undiagnosed condition that can cause these seizures. Symptoms may include lightheadedness, altered vision, twitching, jerking or shaking of limbs, disorientation, confusion, loss of consciousness, or convulsions. Immediately stop using and consult a doctor if you experience any of these symptoms, or consult a doctor before using the applications if you’ve ever suffered symptoms linked to seizures. Parents should monitor their children’s use of applications for signs of symptoms.
 
-(iv) other than for the Enabled Countries and Enabled Versions, Skype does not provide limited emergency calling in any country or for or in conjunction with any Products or using any platforms, devices, services or operating systems (including any products, platforms, devices, services or operating systems developed by third parties using Skype’s APIs, any of Skype’s software development kits or otherwise).
+Top of pageMicrosoft Family FeaturesMicrosoft Family Features
 
-**5.6.2** In Enabled Countries, you should configure the limited emergency calling functionality by setting your default location for emergency calling in the Call Settings page of your desktop Internet Communications Software (if you are using a 4.1 version for Windows (or later) or version 2.8 for Mac OS X (or later)). It is your responsibility to ensure that this location information is correct and kept up-to-date if your physical address changes. Skype does not support emergency calls in the majority of countries around the world. Where limited emergency calling is supported Skype will not charge you to make an emergency call and you do not need to have a Skype Credit balance. If however your country is not supported for limited emergency calling then you should not attempt to, and agree not to, make any emergency calls using your Internet Communications Software. If, with your permission, another user uses your User Account, it is your responsibility to inform that user of the limited circumstances in which limited emergency calling is available.
+*   c. **Microsoft Family Features.** Parents and kids can use Microsoft family features to build trust based on a shared understanding of what behaviors, websites, apps, games, physical locations, and spending is right in their family. Parents can create a family by going to https://account.microsoft.com/family (or by following the instructions on their Windows device or Xbox console) and inviting kids or other parents to join. There are many features available to family members, so please carefully review the information provided when you agree to create or join a family. By creating or joining a family, you represent that you will use the family in accordance with its purpose and won’t use it in an unauthorized way to unlawfully gain access to another person’s information.
 
-**5.7 Content of Communications:** Skype is not the source of, does not verify or endorse and takes no responsibility for the content of communications made using the Software, including but not limited to any media that is shared through our communication features. By using the Software, you grant Skype an intellectual property license to use the content of communications to provide the Products, for example to transmit your communication to the intended recipient.
+Top of pageGroup MessagingGroup Messaging
 
-Skype reserves the right to review content submitted on or through the Software, Products and Skype Websites for the purpose of enforcing these Terms. Skype may, in its sole discretion, block or otherwise prevent delivery of any instant message, SMS, video, media, or other communication to or from the Software, Products and Skype Websites as part of our efforts to protect the Software, Products, Skype Websites or our customers, or to otherwise enforce these Terms. The following rules apply to your conduct and content when using the Software, Products and Skype Websites:
+*   d. **Group Messaging.** Various Microsoft services allow you to send messages to others via voice or SMS ("messages"), and/or allow Microsoft and Microsoft-controlled affiliates to send such messages to you and one or more other users on your behalf. WHEN YOU INSTRUCT MICROSOFT AND MICROSOFT-CONTROLLED AFFILIATES TO SEND SUCH MESSAGES TO YOU OR TO OTHERS, YOU REPRESENT AND WARRANT TO US THAT YOU AND EACH PERSON YOU HAVE INSTRUCTED US TO MESSAGE CONSENT TO RECEIVE SUCH MESSAGES AND ANY OTHER RELATED ADMINISTRATIVE TEXT MESSAGES FROM MICROSOFT AND MICROSOFT-CONTROLLED AFFILIATES. "Administrative text messages" are periodic transactional messages from a particular Microsoft service, including but not limited to a "welcome message" or instructions on how to stop receiving messages. You or group members no longer wishing to receive such messages can opt-out of receiving further messages from Microsoft or Microsoft-controlled affiliates at any time by following the instructions provided. If you no longer wish to receive such messages or participate in the group, you agree that you will opt out through the instructions provided by the applicable program or service. If you have reason to believe that a group member no longer wishes to receive such messages or participate in the group, you agree to remove them from the group. You also represent and warrant to us that you and each person you have instructed us to message understands that each group member is responsible for the costs of any message charges assessed by his or her mobile carrier, including any international message charges that may apply when messages are transmitted from US-based numbers.
 
-(a) Do not use the Software, Products or Skype Websites to do anything illegal. You are responsible for your actions and the consequences of your actions.
+Top of pageSkype and GroupMeSkype and GroupMe
 
-(b) Do not send spam or use your account to help others send spam. Spam is unsolicited bulk email, calls, instant messages, other communications and bulk contact requests.
+*   e. **Skype and GroupMe.**
+    *   i. **No Access to Emergency Services.** There are important differences between traditional telephone services and Skype. Skype is not required to offer access to Emergency Services under any applicable local and/or national rules, regulations, or law. Skype’s software and products are not intended to support or carry emergency calls to any type of hospitals, law enforcement agencies, medical care units or any other kind of services that connect a user to emergency services personnel or public safety answering points (**"Emergency Services"**). You acknowledge and agree that: (i) it is your responsibility to purchase traditional wireless (mobile) or fixed-line telephone services that offer access to Emergency Services, and (ii) Skype is not a replacement for your primary telephone service.
+    *   ii. **APIs or Broadcasting.** If you want to use Skype in connection with any broadcast, you must comply with the "Broadcast TOS" at http://www.skype.com/legal/broadcast. If you want to use any application program interface (**"API"**) exposed or made available by Skype you must comply with the applicable licensing terms, which are available at www.skype.com/go/legal.
+    *   iii. **Fair Use Policies.** Fair usage policies may apply to your use of Skype. Please review these policies which are designed to protect against fraud and abuse and may place limits on the type, duration or volume of calls or messages that you are able to make. These policies are incorporated in these Terms by reference. You can find these policies at: http://www.skype.com/en/legal/fair-usage/
+    *   iv. **Mapping.** Skype contains features that allow you to submit information to, or plot yourself on a map using, a mapping service. By using those features, you agree to these Terms and the Google Maps terms available at http://www.google.com/intl/en\_ALL/help/terms\_maps.html.
+    *   v. **Government Users.** If you wish to use a business account and/or Skype Manager on behalf of the U.S. Government or an agency of the U.S. Government, these Terms do not apply to that use. For applicable terms and/or further information, please contact usgovusers@skype.net.
+    *   vi. **Personal/Noncommercial Use.** The use of Skype is for your personal and noncommercial use. You are permitted to use your personal Skype account at work for your own business communications.
+    *   vii. **Skype Number/Skype To Go.** If Skype provides you with a Skype Number or Skype To Go number, you agree that you do not own the number or have a right to retain that number forever.
+    *   viii. **Skype Manager.** A "Skype Manager Admin Account" is a Skype account that is created and managed by you, acting as an individual administrator of a Skype Manager group and not as a business entity. Personal Skype accounts can be linked to a Skype Manager group (**"Linked Account"**). You may appoint additional administrators to your Skype Manager group subject to their acceptance of these Terms. If you allocate Skype Numbers to a Linked Account, you are responsible for compliance with any requirements related to the residency or location of your Linked Account users. If you choose to unlink a Linked Account from a Skype Manager group, any allocated subscriptions, Skype Credit or Skype Numbers will not be retrievable and Your Content or material associated with the unlinked Skype account will no longer be accessible by you. You agree to process any personal information of your Linked Account users in accordance with all applicable data protection laws.
+    *   ix. **Skype Charges.** Skype paid products are sold to you by Skype Communications S.à.r.l, however the seller-of-record accountable for taxes is Skype Communications US Corporation. Taxes means the amount of taxes, regulatory fees, surcharges or other fees that we are required to collect from you and must pay to any United States (federal, state or local) or foreign government, agency, commission or quasi-governmental body as a result of our provision of Skype paid products to you. These taxes are listed at www.skype.com/go/ustax. All prices for Skype paid products are inclusive of a charge for your product and a charge for taxes, unless otherwise stated. The charges payable for calling phones outside of a subscription consist of a connection fee (charged once per call) and a per-minute rate as set out at www.skype.com/go/allrates. Call charges will be deducted from your Skype Credit balance. Skype may change its calling rates at any time without notice to you by posting such change at www.skype.com/go/allrates. The new rate will apply to your next call after publication of the new rates. Please check the latest rates before you make your call. Fractional call minutes and fractional cent charges will be rounded up to the next whole unit.
+    *   x. **Skype Credit.** Skype does not guarantee that you will be able to use your Skype Credit balance to purchase all Skype paid products. If you do not use your Skype Credit for a period of 180 days, Skype will place your Skype Credit on inactive status. You can reactivate the Skype Credit by following the reactivation link at http://www.skype.com/go/store.reactivate.credit. You can enable the Auto Recharge feature when you buy Skype Credit by ticking the appropriate box. If enabled, your Skype Credit balance will be recharged with the same amount and by your chosen payment method every time your Skype account balance goes below the threshold set by Skype from time to time. If you purchased a subscription with a payment method other than credit card, PayPal or Moneybookers (Skrill), and you have enabled Auto-Recharge, your Skype Credit balance will be recharged with the amount necessary to purchase your next recurring subscription. You can disable Auto-Recharge at any time by accessing and changing your settings in your Skype account.
+    *   xi. **International Message Fees.** GroupMe currently uses US-based numbers for each group created. Every text message sent to or received from a GroupMe number will count as an international text message sent to or received from the United States. Please check with your provider for the associated international rates.
 
-(c) Do not upload, download or share inappropriate images (e.g. nudity, bestiality, pornography).
+Top of pageBing and MSNBing and MSN
 
-(d) Do not upload or share images or engage in any activity that exploits or harms children.
+*   f. **Bing and MSN.**
+    *   i. **Bing and MSN Materials.** The articles, text, photos, maps, videos, video players, and third-party material available on Bing and MSN are for your noncommercial, personal use only. Other uses, including downloading, copying, or redistributing these materials, are permitted only to the extent specifically authorized by Microsoft or rights holders, or allowed by applicable copyright law. Microsoft or other rights holders reserve all rights to the material not expressly granted by Microsoft under the license terms, whether by implication, estoppel, or otherwise.
+    *   ii. **Bing Maps.** You may not use Bird’s eye imagery of the United States, Canada, Mexico, New Zealand, Australia or Japan for governmental use without our separate written approval.
+    *   iii. **Rewards.** Rewards (the **"Program"**) enables you to earn redeemable points for your qualified searches, acquisitions, and other offers from Microsoft. A search is the act of an individual user manually entering text for the good faith purpose of obtaining Bing search results for such user’s own research purposes and does not include any query entered by a bot, macro, or other automated or fraudulent means of any kind (**"Search"**). An acquisition is the process of purchasing goods or downloading and acquiring a license for digital content from Microsoft, whether free or paid (**"Acquisition"**). Microsoft in its sole discretion determines what constitutes a Search or Acquisition that qualifies for points. Your earned points can be redeemed for items (**"Rewards"**) in the redemption center. For more information see the Frequently Asked Questions (**"FAQ"**).
+        *   1\. Program Requirements. You need a valid Microsoft account and your devices must meet the minimum system requirements. The Program is open to users who reside in the markets listed in the FAQ. Individuals can have no more than one Program account, even if an individual has multiple email addresses, and households are limited to six accounts. The Program is solely for your personal and noncommercial use.
+        *   2\. Points. Except for donating your points to a nonprofit organization listed in the redemption center, you cannot transfer points. Points are not your personal property, and you may not obtain any cash or money in exchange for them. Points are awarded to you on a promotional basis. You cannot purchase points. Microsoft may limit the quantity of points or Rewards per person, per household, or over a set period (e.g., a day). You may redeem no more than 550,000 points per calendar year in the Program. Points earned in the Program are not valid in, and may not be used in combination with, any other program offered by Microsoft or third parties. **Unredeemed points expire if you do not earn or redeem any points for 90 days.**
+        *   3\. Rewards. You may redeem your points by visiting the redemption center or you may contribute points to a listed nonprofit organization. There may be a limited number of a particular Reward available, and those Rewards will be delivered on a first-come, first-served basis. You may be required to provide additional information, like your mailing address and a telephone number (other than a VOIP or toll-free number), and you may also be asked to enter a fraud-prevention code or sign additional legal documents to redeem points for Rewards. Once you order a Reward, you cannot cancel it or return it for a refund of points. If you order a Reward that is out of stock or unavailable for other reasons Microsoft determines in its sole discretion, we may substitute a Reward of comparable value or refund your points. Microsoft may update the Rewards offered in the redemption center or discontinue to offer specific Rewards. Some Rewards may have age eligibility requirements. You are responsible for all federal, state, and local taxes and any other costs of accepting and using the Reward. Rewards will be emailed to the email address you provide when ordering your Reward, so keep your email address up to date. Rewards that are undeliverable will not be reissued and are therefore forfeited. Rewards are not for resale.
+        *   4\. Cancelling Your Participation in the Program. Your Program account will be cancelled if you do not log in at least once in a 180-day period. Additionally, Microsoft reserves the right to cancel the Program account of a specific user without cause and without providing a reason. Upon Program cancellation (by you or us) or if the Program is suspended, you will have 90 days to redeem your points. otherwise, those points will be forfeited. At the point of cancellation, your right to use the Program and accrue future points ends.
+        *   5\. Other Conditions. Microsoft reserves the right to disqualify you. disable your access to the Program or your Rewards account. and/or withhold points, Rewards and charitable contributions, if Microsoft believes you are tampering with or abusing any aspect of the Program or may be engaging in activities that violate these Terms.
+    *   iv. **Bing Places.** When you provide your Data or Your Content to Bing Places, you grant Microsoft a worldwide, royalty-free intellectual property license to use, reproduce, save, modify, aggregate, promote, transmit, display or distribute as part of a service, and sub-license those rights to third parties.
 
-(e) Do not engage in activity that is false or misleading (e.g. attempting to ask for money under false pretenses or impersonating someone else).
+Top of pageCortanaCortana
 
-(f) Do not engage in activity that is harmful to our Software, Products, Skype Websites or their users (e.g. viruses, stalking, engaging in hate speech, advocating violence against others).
+*   g. **Cortana.** Cortana is Microsoft’s personal assistant Service. Cortana provides information for your planning purposes only and you should exercise your own independent judgment when reviewing and relying on this information. Microsoft does not guarantee the accuracy, completeness, reliability, availability or timeliness of inferences and personalized experiences provided by Cortana. Microsoft is not responsible if a Cortana communication management feature delays or prevents you from reviewing or sending a communication.
 
-(g) Do not infringe upon the legal rights of others (e.g. unauthorized sharing of copyrighted music, photographs and other content).
+Top of pageOutlook.comOutlook.com
 
-(h) Do not engage in activity that violates the privacy of others.
+*   h. **Outlook.com.** The Outlook.com (or @msn, @hotmail, or @live) email address that you use to create your Microsoft account will be unique to you for as long as your Outlook.com inbox or Microsoft account is still active. In the event your Outlook.com inbox or Microsoft account is closed either by you or by Microsoft pursuant to these Terms, the email address or username may be recycled into our system and assigned to another user.
 
-(i) Do not circumvent, disable or otherwise interfere with the security related features of the Software, Products or Skype Websites or features that prevent or restrict the use of any content.
+Top of pageOffice-based ServicesOffice-based Services
 
-We may ask you to remove your content if it violates these Terms or the law. Failure to comply may result in loss of access to, or cancellation of, your User Account. Additionally, Skype may remove your content without asking you if we determine it is in violation these Terms or the law or if we receive a notice of intellectual property infringement from a third party.
+*   i. **Office-based Services.** Office consumer-based services, applications, or products (including Sway and OneNote) are for your personal, noncommercial use, unless you have commercial use rights under a separate agreement with Microsoft.
 
-**5.8 Notice and Take-Down:** If Skype receives any notification that any material that you post, upload, edit, host, share and/or publish on the Skype Website or through the Software (excluding your private communications) (“**User Submission**”) is inappropriate, infringes any rights of any third party, or if Skype wishes to remove your User Submission for any reason whatsoever, Skype reserves the right to automatically remove such User Submission for any reason immediately or within such other timescales as may be decided from time to time by Skype in its sole discretion. The User Submission shall be taken down without any admission as to liability and without prejudice to any rights, remedies or defenses, all of which are expressly reserved. You acknowledge and agree that Skype is under no obligation to put back such User Submission at any time. If User Submissions infringe, or if you believe that User Submissions infringe any of your rights (including intellectual property rights) or are unlawful, please contact us immediately by following our notice and takedown procedure. Click here to view the Notice and Takedown Procedure. Skype reserves the right to ask for verification of your identity and to seek further information to verify your complaint. You agree that you are solely responsible for the consequences resulting from your complaint (including but not limited to removal or blocking of the User Submission) and you acknowledge and agree that any complaint may be used in court proceedings. Any false, misleading or inaccurate information provided by you may result in civil and criminal liability.
+Top of pageMicrosoft Health ServicesMicrosoft Health Services
 
-**5.9 Quality:** Skype cannot guarantee that the Software, Products or Skype Websites will always function without disruptions, delay or errors. A number of factors may impact the quality of your communications and use of the Software, Products (depending on the Products used) or Skype Websites, and may result in the failure of your communications including but not limited to: your local network, firewall, your internet service provider, the public internet, the public switched telephone network and your power supply. Skype takes no responsibility for any disruption, interruption or delay caused by any failure of or inadequacy in any of these items or any other items over which we have no control.
+*   j. **Microsoft Health Services.**
+    *   i. **HealthVault.** HealthVault is intended for you to store your personal health-related information and information about other people (such as your family) with their consent. HealthVault accounts are not for use by healthcare providers or for any other commercial or non-personal purpose. The information in your account may not always be accurate or up-to-date and should be viewed by any health care provider as informational only. The HealthVault Service does not hold records for healthcare providers or other medical or case management purposes. For example, HealthVault records are not designated record sets as defined under U.S. regulations. If a healthcare provider decides to include any data made available from HealthVault in its records, it should store a copy in its own system. If there is a co-custodian of a record in your account (because one of you invited the other), you acknowledge that the co-custodian has full control over that record and may cancel your access to the record, manage other peoples' access to the record, and view the record's data including how and when the record is used. Microsoft does not support non-Microsoft credentials (such as Facebook and OpenID), so HealthVault customer support will not be able to help with sign-in issues for those. If you lose your sign-in credentials, or if the account where you got your credentials closes, you will not be able to recover your stored data. To help maintain continued access, we suggest you use more than one sign-in credential with your HealthVault account. Microsoft does not endorse or control, and is not responsible for, the operation, support, or security of non-Microsoft credentials you may use.
+    *   ii. **Microsoft Health and Microsoft Band.** Microsoft Health and the Microsoft Band are not medical devices and are intended for fitness and wellness purposes only. They are not designed or intended for use in the diagnosis of disease or other conditions, or in the cure, mitigation, treatment, or prevention of disease. Before starting or modifying any activity or sleep program using Microsoft Health, consult your physician. Microsoft is not responsible for any decision you make based on information you receive from Microsoft.
 
-**5.10 Changes to Products:** Skype is constantly improving the Software and Products and may change them at any time. Additionally, there are reasons why Skype may stop providing the Software and Products (or portions thereof) including (without limitation) that it is no longer feasible for us to provide it, the technology advances, customer feedback indicates a change is needed, external issues arise that make it imprudent or impractical to continue, or any reason set out in paragraph 11.2. As a result of such changes, you may need to use an upgraded version of the Software. Technical requirements for use of Products and Software and feature descriptions are available on the Skype Website. If you do not agree with any changes to Software and Products you may terminate your relationship with Skype in accordance with paragraph 11. You may need to upgrade to a new version in order to enjoy the benefit of certain Products. In addition, you acknowledge and agree that certain Products may be subject to usage limits or geographical restrictions, which may vary from time to time. Please check the Skype Website for details of the most up-to-date usage restrictions that apply to the Products that you are using.
+Top of pageDigital GoodsDigital Goods
 
-**5.11 Unsolicited Ideas** Skype does not consider or accept unsolicited proposals or ideas, including without limitation ideas for new products, technologies, promotions, product names, product feedback and product improvements (“Unsolicited Feedback”). If you send any Unsolicited Feedback to Skype through the Skype Website or otherwise, you acknowledge and agree that Skype shall not be under any obligation of confidentiality with respect to the Unsolicited Feedback.
+*   k. **Digital Goods.** Through Microsoft Groove, Microsoft Movies &. TV, Store and any other related and future services, Microsoft may enable you to obtain, listen to, view, play or read (as the case may be) music, images, video, text, books, games or other material (**"Digital Goods"**) that you may get in digital form. The Digital Goods are only for your personal, noncommercial entertainment use. You agree not to redistribute, broadcast, publicly perform or publicly display or transfer any copies of the Digital Goods. Digital Goods may be owned by Microsoft or by third parties. In all circumstances, you understand and acknowledge that your rights with respect to Digital Goods are limited by these Terms, copyright law, and the usage rules located at http://go.microsoft.com/fwlink/p/?LinkId=723143. You agree that you will not attempt to modify any Digital Goods obtained through any of the Services for any reason whatsoever, including for the purpose of disguising or changing ownership or source of the Digital Goods. Microsoft or the owners of the Digital Goods may, from time to time, remove Digital Goods from the Services without notice.
 
-**5.12 Reports** Certain parts of the Skype Websites or the Software may ask for written suggestions or problem reports such as using our contact form or problem report form (“**Reports**”). Please read carefully any specific terms, which govern those Reports. The Reports shall be deemed the property of Skype. Skype shall exclusively own all now known or hereafter existing rights to the Reports throughout the universe in perpetuity and shall be entitled to use the Reports for any purpose whatsoever, commercial or otherwise, without compensation to the provider of the Reports. Any Reports you send to Skype will not be treated as confidential and Skype shall not be liable for any disclosure of the Reports.
+Top of pageOneDriveOneDrive
 
-**5.13 Linking** You may link to the Skype Website from another website owned by you, provided you do so in a way that is fair and legal and does not damage our reputation or take advantage of it. You must not establish a link in such a way as to suggest any form of association, approval or endorsement by Skype where none exists. You may not frame the Site on any other site. Skype may revoke the permission to link to the Skype Websites at any time at its sole discretion and will notify you in this respect.
+*   l. **OneDrive.**
+    *   i. **Storage Allocation.** If you have more content stored in your OneDrive account than is provided to you under the terms of your free or paid subscription service for OneDrive and you do not respond to notice from Microsoft to fix your account by removing excess content or moving to a new subscription plan with more storage, we reserve the right to close your account and delete or disable access to Your Content on OneDrive.
+    *   ii. **Service Performance.** Depending on factors such as your equipment, internet connection and Microsoft’s efforts to maintain the performance and integrity of its service, you may occasionally experience delays in uploading or syncing content on OneDrive.
 
-**6\. YOUR OBLIGATIONS**
+Top of pageBinding Arbitration and Class Action WaiverBinding Arbitration and Class Action Waiver
 
-**6.1 User Account.** Prior to your first use of the Skype Software, you will be asked to create a User Account and choose a user ID and password. We recommend that you choose a password that is hard to guess and consists of letters, numbers and symbols. You may only use the Software through your User Account. You are solely responsible and liable for all activities conducted through your User Account. To prevent unauthorised use, you shall keep your password confidential and shall not share it with any third party or use it to access third party websites or services. If you suspect that someone else knows your password, then you shall immediately change it in order to protect the security of your User Account. It is your responsibility to ensure that you do not respond to any unsolicited requests for credit card details, passwords or other data. Skype takes no responsibility for your failure to comply with the obligations in this paragraph 6.1.
+15\. **Binding Arbitration and Class Action Waiver If You Live In (or If a Business Your Principal Place of Business Is In) the United States.** We hope we never have a dispute, but if we do, you and we agree to try for 60 days to resolve it informally. If we can’t, you and we agree to **binding individual arbitration before the American Arbitration Association ("AAA") under the Federal Arbitration Act ("FAA"), and not to sue in court in front of a judge or jury**. Instead, a neutral arbitrator will decide and the arbitrator’s decision will be final except for a limited right of review under the FAA. **Class action lawsuits, class-wide arbitrations, private attorney-general actions, and any other proceeding where someone acts in a representative capacity aren’t allowed. Nor is combining individual proceedings without the consent of all parties.** "We," "our," and "us" includes Microsoft, Skype (see section 10) and Microsoft’s affiliates and, if you use Skype Pay by Mobile, your mobile phone carrier.
 
-**6.2 Lawful Use:** You must use the Software, Products and Skype Websites in accordance with the laws of where you are located. In some countries there are restrictions on the download and use of the Software, Products and/or Skype Websites. It is your responsibility to ensure that you are legally allowed to use the Software, Products and/or Skype Websites where you are located.
+*   a. **Disputes Covered—Everything Except IP.** The term "dispute" is as broad as it can be. It includes any claim or controversy between you and us concerning the Services, the software related to the Services, the Services’ or software’s price, your Microsoft account, your Skype account, or these Terms, under any legal theory including contract, warranty, tort, statute, or regulation, **except disputes relating to the enforcement or validity of your, your licensors’, our, or our licensors’ intellectual property rights**.
+*   b. **Mail a Notice of Dispute First.** If you have a dispute and our customer service representatives can’t resolve it, send a Notice of Dispute by U.S. Mail to **Microsoft Corporation, ATTN: CELA Arbitration, One Microsoft Way, Redmond, WA 98052-6399, U.S.A.** (or to your mobile phone carrier at its principal place of business in the United States marked ATTN: Legal Department). Tell us your name, address, how to contact you, what the problem is, and what you want. A form is available at http://go.microsoft.com/fwlink/?LinkId=245499. We’ll do the same if we have a dispute with you. After 60 days, you or we may start an arbitration if the dispute is unresolved.
+*   c. **Small Claims Court Option.** Instead of mailing a Notice of Dispute, you may sue us in small claims court in your county of residence (or if a business your principal place of business) or King County, Washington, U.S.A. if you meet the court’s requirements.
+*   d. **Arbitration Procedure.** The AAA will conduct any arbitration under its Commercial Arbitration Rules (or if you are an individual and use the Services for personal or household use, or if the value of the dispute is $75,000 or less whether or not you are an individual or how you use the Services, its Consumer Arbitration Rules). For more information, see www.adr.org or call 1-800-778-7879. To start an arbitration, submit the form available at http://go.microsoft.com/fwlink/?LinkId=245497 to the AAA and mail a copy to us. In a dispute involving $25,000 or less, any hearing will be telephonic unless the arbitrator finds good cause to hold an in-person hearing instead. Any in-person hearing will take place in your county of residence (or if a business your principal place of business) or our principal place of business—King County, Washington if your dispute is with Microsoft. You choose. The arbitrator may award the same damages to you individually as a court could. The arbitrator may award declaratory or injunctive relief only to you individually to satisfy your individual claim.
+*   e. **Arbitration Fees and Payments.**
+    *   i. **Disputes Involving $75,000 or Less.** We will promptly reimburse your filing fees and pay the AAA’s and arbitrator’s fees and expenses. If you reject our last written settlement offer made before the arbitrator was appointed, your dispute goes all the way to an arbitrator’s decision (called an “award”), and the arbitrator awards you more than this last written offer, we will: (i) pay the greater of the award or $1,000. (ii) pay your reasonable attorney’s fees, if any. and (iii) reimburse any expenses (including expert witness fees and costs) that your attorney reasonably accrues for investigating, preparing, and pursuing your claim in arbitration.
+    *   ii. **Disputes Involving More than $75,000.** The AAA rules will govern payment of filing fees and the AAA’s and arbitrator’s fees and expenses.
+*   f. **Conflict with AAA Rules.** These Terms govern to the extent they conflict with the AAA’s Commercial Arbitration Rules or Consumer Arbitration Rules.
+*   g. **Must File Within One Year.** You and we must file in small claims court or arbitration any claim or dispute (except intellectual property disputes—see section 15(a)) within one year from when it first could be filed. Otherwise, it's permanently barred.
+*   h. **Rejecting Future Arbitration Changes.** You may reject any change we make to section 15 (except address changes) by sending us notice within 30 days of the change by U.S. Mail to the address in section 15(b). If you do, the most recent version of section 15 before the change you rejected will apply.
+*   i. **Severability.** If the class action waiver is found to be illegal or unenforceable as to all or some parts of a dispute, then those parts won’t be arbitrated but will proceed in court, with the rest proceeding in arbitration. If any other provision of section 15 is found to be illegal or unenforceable, that provision will be severed but the rest of section 15 still applies.
+*   j. **Mobile Phone Carrier as Third-Party Beneficiary.** If you use Skype Pay by Mobile, your mobile phone carrier is a third-party beneficiary of your agreement with Microsoft and Skype to resolve disputes through informal negotiation and arbitration. Your mobile phone carrier agrees to do everything Microsoft and Skype agree to do in section 15.
 
-**6.3 Prohibited Use:** You may not:
+Top of pageMiscellaneousMiscellaneous
 
-(a) intercept or monitor, damage or modify any communication which is not intended for you;
+16\. **Miscellaneous.** This section, and sections 1, 9 (for amounts incurred before the end of these Terms), 10, 11, 12, 13, 15, and those that by their terms apply after the Terms end will survive any termination or cancellation of these Terms. We may assign these Terms, in whole or in part, at any time without notice to you. You may not assign your rights or obligations under these Terms or transfer any rights to use the Services. This is the entire agreement between you and Microsoft for your use of the Services. It supersedes any prior agreements between you and Microsoft regarding your use of the Services. All parts of these Terms apply to the maximum extent permitted by relevant law. If a court or arbitrator holds that we can't enforce a part of these Terms as written, we may replace those terms with similar terms to the extent enforceable under the relevant law, but the rest of these Terms won't change. Section 15(i) says what happens if parts of section 15 (arbitration and class action waiver) are found to be illegal or unenforceable. Section 15(i) prevails over this section if inconsistent with it. Except for section 15 (arbitration and class action waiver) these Terms are solely for your and our benefit. they aren’t for the benefit of any other person, except for Microsoft’s successors and assigns.
 
-(b) use any type of spider, virus, worm, trojan-horse, time bomb or any other codes or instructions that are designed to distort, delete, damage, emulate or disassemble the Software, Products, Skype Websites, communication or protocols;
+17\. **Export Laws.** You must comply with all domestic and international export laws and regulations that apply to the software and/or Services, which include restrictions on destinations, end users, and end use. For further information on geographic and export restrictions, visit http://go.microsoft.com/fwlink/?linkid=141397 and http://www.microsoft.com/exporting.
 
-(c) send unsolicited communications (also referred to as “SPAM”, “SPIM” or “SPIT”) or any communication not permitted by applicable law or use the Software, Products or Skype Websites for the purposes of phishing or pharming or impersonating or misrepresenting affiliation with another person or entity;
+18\. **Unsolicited Ideas.** Microsoft does not consider or accept unsolicited proposals or ideas, including without limitation ideas for new products, technologies, promotions, product names, product feedback and product improvements (**"Unsolicited Feedback"**). If you send any Unsolicited Feedback to Microsoft through the Services or otherwise, you acknowledge and agree that Microsoft shall not be under any obligation of confidentiality with respect to the Unsolicited Feedback.
 
-(d) expose any third party to material which is offensive, harmful to minors, indecent or otherwise objectionable in any way;
+Top of pageNOTICESNOTICES
 
-(e) use the Software, Products or Skype Websites to cause or intend to cause embarrassment or distress to, or to threaten, harass or invade the privacy of, any third party. or
+**Notices and procedure for making claims of intellectual property infringement.** Microsoft respects the intellectual property rights of third parties. If you wish to send a notice of intellectual property infringement, including claims of copyright infringement, please use our procedures for submitting Notices of Infringement. **ALL INQUIRIES NOT RELEVANT TO THIS PROCEDURE WILL NOT RECEIVE A RESPONSE.**
 
-(f) use (including as part of your User ID and/or profile picture) any material or content that is subject to any third party proprietary rights, unless you have a licence or permission from the owner of such rights. or
+Microsoft uses the processes set out in Title 17, United States Code, Section 512 to respond to notices of copyright infringement. In appropriate circumstances, Microsoft may also disable or terminate accounts of users of Microsoft services who may be repeat infringers.
 
-(g) collect or harvest any personally identifiable information, including account names, from the Software, Products or Skype Websites;
+**Notices and procedures regarding intellectual property concerns in advertising.** Please review our Intellectual Property Guidelines regarding intellectual property concerns on our advertising network.
 
-(h) impact or attempt to impact the availability of the Software, Products or Skype Websites for example, with a denial of service (DOS) or distributed denial of service (DDoS) attack;
+**Copyright and trademark notices.** The Services are copyright © 2016 Microsoft Corporation and/or its suppliers, One Microsoft Way, Redmond, WA 98052, U.S.A. All rights reserved. Microsoft and the names, logos, and icons of all Microsoft products, software, and services may be either trademarks or registered trademarks of Microsoft in the United States and/or other countries. The names of actual companies and products may be the trademarks of their respective owners. Any rights not expressly granted in these Terms are reserved. Certain software used in certain Microsoft website servers is based in part on the work of the Independent JPEG Group. Copyright © 1991-1996 Thomas G. Lane. All rights reserved. "gnuplot" software used in certain Microsoft website servers is copyright © 1986-1993 Thomas Williams, Colin Kelley. All rights reserved.
 
-(i) use or launch any automated system, including without limitation, robots, spiders or offline readers that access the Software, Products or Skype Websites. Notwithstanding the foregoing, you agree that Skype grants to the operators of public search engines permission to use spiders to copy materials from the Skype Website for the sole purpose of creating publicly available searchable indices of the materials, but not caches or archives of such materials. Skype reserves the right to revoke these exceptions at any time.
+**Medical notice.** Microsoft does not provide medical or any other health care advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health care provider with any questions you may have regarding a medical condition, diet, fitness, or wellness program. Never disregard professional medical advice or delay in seeking it because of information you accessed on or through the Services.
 
-**6.4 User Submissions** Please exercise respect when participating in any features of the Skype Websites or Software such as Forums, Blogs, email functions, video hosting, sharing and/or publishing or any other function on the Skype Websites or of the Skype Software which allows you to post, upload, edit, host, share and/or publish content. You acknowledge and agree that: (i) by using the Skype Websites and/or Software you may be exposed to content that you may find offensive or indecent and you do so at your own risk. (ii) you are solely responsible for, and Skype has no responsibility to you or any third party for any User Submissions that you create, submit, post or publish on the Skype Websites or through the Software. (iii) Skype does not guarantee any confidentiality with respect to User Submissions, whether or not they are published (iv) Skype is not responsible for any User Submissions that you may have access to through your use of the Skype Websites or Software and all User Submissions are the responsibility of the person from whom such User Submissions originated. Skype does not endorse any User Submissions or any opinion, recommendation, or advice expressed therein, and expressly disclaims any and all liability in connection with User Submissions.
+**Stock quotes and index data (including index values).** © 2013 Morningstar, Inc. All Rights Reserved. The information contained herein: (1) is proprietary to Morningstar and/or its content providers. (2) may not be copied or distributed. and (3) is not warranted to be accurate, complete or timely. Neither Morningstar nor its content providers are responsible for any damages or losses arising from any use of this information. Past performance is no guarantee of future results.
 
-In connection with your User Submissions, you represent and warrant that you
+You may not use any of the Dow Jones IndexesSM, index data, or the Dow Jones marks in connection with the issuance, creation, sponsorship, trading, marketing, or promotion of any financial instruments or investment products (for example, derivatives, structured products, investment funds, exchange-traded funds, investment portfolios, etc., where the price, return and/or performance of the instrument or investment product is based on, related to, or intended to track any of the Indexes or a proxy for any of the Indexes) without a separate written agreement with Dow Jones.
 
-(i) own or have the necessary licenses, rights, consents, and permissions to use and authorise Skype to use all copyrights, trade marks, trade secrets, patents and other intellectual property or proprietary rights in and to any and all User Submissions in accordance with these Terms. and
+**Financial notice.** Microsoft isn't a broker/dealer or registered investment advisor under United States federal securities law or securities laws of other jurisdictions and doesn't advise individuals as to the advisability of investing in, purchasing, or selling securities or other financial products or services. Nothing contained in the Services is an offer or solicitation to buy or sell any security. Neither Microsoft nor its licensors of stock quotes or index data endorse or recommend any particular financial products or services. Nothing in the Services is intended to be professional advice, including but not limited to, investment or tax advice.
 
-(ii) you have the written consent, release and /or permission of each and every identifiable individual person in the User Submission to use the name and/or likeness of each and every such individual in the User Submission, to enable inclusion and use thereof in the manner contemplated by these Terms. You shall not copy, post or use text, photos, pictures, music, sounds, images or any other content from any third party or source (“Third Party Content”) without specific permission from the owner. Such Third Party Content may be protected by intellectual property laws and the owners of the intellectual property rights in such content may object to its use. You must not use any Third Party Content without first obtaining the permission of the owner of the intellectual property rights in such content.
+**Notice about the H.264/AVC, MPEG-4 Visual, and VC-1 Video Standards.** The software may include H.264/AVC, MPEG-4 Visual and/or VC-1 codec technology that may be licensed by MPEG LA, L.L.C. This technology is a format for data compression of video information. MPEG LA, L.L.C. requires this notice:
 
-Notwithstanding any rights or obligations governed by the Additional Terms (as defined below) if, at any time you choose to upload or post User Submissions to the Skype Websites or through the Software (excluding Reports and excluding the content of your communications) you automatically grant Skype a non-exclusive, worldwide, irrevocable, royalty-free, perpetual, sub-licensable and transferable license of all rights to use, edit, modify, include, incorporate, adapt, record, publicly perform, display, transmit and reproduce the User Submissions including, without limitation, all trade marks associated therewith, in connection with the Skype Websites and Skype’s Software and Products including for the purpose of promoting or redistributing part or all of the Skype Websites and/or the Software or Products, in any and all media now known or hereafter devised. You also hereby grant each user of the Skype Website and/or Skype’s Software or Products a non-exclusive license to access your User Submission through the Skype Website and/or Software or Products and to use, copy, distribute, prepare derivative works of, display, perform and transmit such User Submissions solely as permitted through the functionality of the Skype Websites and/or Software or Products and pursuant to these Terms of Use. In addition, you waive any so-called “moral rights” in and to the User Submissions, to the extent permitted by applicable law.
+THIS PRODUCT IS LICENSED UNDER THE H.264/AVC, MPEG-4 VISUAL, AND THE VC-1 PATENT PORTFOLIO LICENSES FOR THE PERSONAL AND NONCOMMERCIAL USE OF A CONSUMER TO (A) ENCODE VIDEO IN COMPLIANCE WITH THE STANDARDS ("VIDEO STANDARDS") AND/OR (B) DECODE H.264/AVC, MPEG-4 VISUAL, AND VC-1 VIDEO THAT WAS ENCODED BY A CONSUMER ENGAGED IN A PERSONAL AND NONCOMMERCIAL ACTIVITY AND/OR WAS OBTAINED FROM A VIDEO PROVIDER LICENSED TO PROVIDE SUCH VIDEO. NONE OF THE LICENSES EXTEND TO ANY OTHER PRODUCT REGARDLESS OF WHETHER SUCH PRODUCT IS INCLUDED WITH THIS SOFTWARE IN A SINGLE ARTICLE. NO LICENSE IS GRANTED OR SHALL BE IMPLIED FOR ANY OTHER USE. ADDITIONAL INFORMATION MAY BE OBTAINED FROM MPEG LA, L.L.C. SEE THE MPEG LA WEBSITE.
 
-You may not submit or publish through the Skype Website or Software any User Submissions that are libelous, defamatory, pornographic, harassing, hateful, an invasion of privacy, obscene, abusive, illegal, racist, offensive, harmful to a minor or an infringement of any intellectual property rights or a trade secret of a third party, or would otherwise violate the rights of any third party or give rise to civil or criminal liability. Furthermore, you may not submit or publish User Submissions that contain falsehoods or misrepresentations, solicit funds or services, contain advertising, promotional materials, junk mail, spam, chain letters or any form of solicitation, impersonate others or include programs that contain viruses or any other programs designed to impair the functionality of any computer. You agree not to solicit, for commercial purposes, any users of the Skype Website or Software with respect to their User Submissions. You agree not to circumvent, disable or otherwise interfere with the security related features of the Skype Website or Software or features that prevent or restrict the use of any content thereof.
+For clarification purposes only, this notice does not limit or inhibit the use of the software provided under these Terms for normal business uses that are personal to that business which do not include (i) redistribution of the software to third parties, or (ii) creation of material with the VIDEO STANDARDS compliant technologies for distribution to third parties.
 
-**6.5 Your Information:** From time to time, Skype may request information from you for the purpose of supplying the Software or Products to you. You shall ensure that any such information (including, where applicable, your billing information) is complete, up-to-date and accurate.
+Top of pageSTANDARD APPLICATION LICENSE TERMSSTANDARD APPLICATION LICENSE TERMS
 
-**6.6 No Reselling.** The Software and Products are for your individual use. You shall not resell or commercialise the Software and/or Products to any third party.
+**STANDARD APPLICATION LICENSE TERMS**
 
-**6.7 Export Restrictions:** The Software may be subject to international rules that govern the export of software. You shall comply with all applicable international and national laws that apply to the Software as well as end-user, end-use, destination restrictions issued by national governments or similar bodies, and restrictions on embargoed nations.
+**WINDOWS STORE AND XBOX STORE**
 
-**7\. PROPRIETARY RIGHTS**
+These license terms are an agreement between you and the application publisher. Please read them. They apply to the software applications you download from the Windows Store or the Xbox Store, including any updates or supplements for the application, unless the application comes with separate terms, in which case those terms apply.
 
-**7.1** The Software, Products and Skype Websites contain proprietary and confidential information that is protected by intellectual property laws and treaties.
+**BY DOWNLOADING OR USING THE APPLICATION, OR ATTEMPTING TO DO ANY OF THESE, YOU ACCEPT THESE TERMS. IF YOU DO NOT ACCEPT THEM, YOU HAVE NO RIGHT TO AND MUST NOT DOWNLOAD OR USE THE APPLICATION.**
 
-**7.2** The content and compilation of content included on the Skype Websites, (excluding User Submissions) such as sounds, text, graphics, logos, icons, images, audio clips, digital downloads and software, are the property of Skype, its affiliates or licensors and are protected by United States and international copyright laws. Such copyright protected content cannot be reproduced without Skype’s express permission. Skype reserves all rights not expressly granted in the Skype Websites.
+**The application publisher means the entity licensing the application to you, as identified in the Windows Store or Xbox Store.**
 
-**7.3** Skype and/or its licensors retain exclusive ownership of the Software, Products and Skype Websites and all intellectual property therein (whether or not registered and anywhere in the world). You will not take any action to jeopardise, limit or interfere with Skype’s intellectual property rights in the Software, Products and/or Skype Websites.
+**If you comply with these license terms, you have the rights below.**
+
+*   1\. **INSTALLATION AND USE RIGHTS. EXPIRATION.** For applications you download from the Windows Store: (a) you may install and use the application on a Windows device or devices that are affiliated with the Microsoft account that you use to access the Windows Store. and (b) the device limit for the application is displayed in the Store or, for some applications downloaded on the Xbox console, in our Usage Rules. For applications you download from the Xbox Store, you may install and use the application on Xbox consoles as described in our Usage Rules. Microsoft reserves the right to modify our Usage Rules at any time.
+*   2\. **INTERNET-BASED SERVICES.**
+    *   a. **Consent for Internet-based or wireless services.** If the application connects to computer systems over the Internet, which may include via a wireless network, using the application operates as your consent to the transmission of standard device information (including but not limited to technical information about your device, system, and application software, and peripherals) for Internet-based or wireless services. If other terms are presented in connection with your use of services accessed using the application, those terms also apply.
+    *   b. **Misuse of Internet-based services.** You may not use any Internet-based service in any way that could harm it or impair anyone else’s use of it or the wireless network. You may not use the service to try to gain unauthorized access to any service, data, account, or network by any means.
+*   3\. **SCOPE OF LICENSE.** The application is licensed, not sold. This agreement only gives you some rights to use the application. If Microsoft disables the ability to use the applications on your devices pursuant to your agreement with Microsoft, any associated license rights will terminate. Application publisher reserves all other rights. Unless applicable law gives you more rights despite this limitation, you may use the application only as expressly permitted in this agreement. In doing so, you must comply with any technical limitations in the application that only allow you to use it in certain ways. You may not:
+    *   a. Work around any technical limitations in the application.
+    *   b. Reverse engineer, decompile, or disassemble the application, except and only to the extent that applicable law expressly permits, despite this limitation.
+    *   c. Make more copies of the application than specified in this agreement or allowed by applicable law, despite this limitation.
+    *   d. Publish or otherwise make the application available for others to copy.
+    *   e. Rent, lease, or lend the application.
+    *   f. Transfer the application or this agreement to any third party.
+*   4\. **DOCUMENTATION.** If documentation is provided with the application, you may copy and use the documentation for personal reference purposes.
+*   5\. **TECHNOLOGY AND EXPORT RESTRICTIONS.** The application may be subject to United States or international technology control or export laws and regulations. You must comply with all domestic and international export laws and regulations that apply to the technology used or supported by the application. These laws include restrictions on destinations, end users, and end use. For information on Microsoft branded products, go to the Microsoft exporting website.
+*   6\. **SUPPORT SERVICES.** Contact the application publisher to determine if any support services are available. Microsoft, your hardware manufacturer and your wireless carrier (unless one of them is the application publisher) aren’t responsible for providing support services for the application.
+*   7\. **ENTIRE AGREEMENT.** This agreement, any applicable privacy policy, any additional terms that accompany the application, and the terms for supplements and updates are the entire license agreement between you and application publisher for the application.
+*   8\. **APPLICABLE LAW.**
+    *   a. **United States and Canada. If you acquired the application in the United States or Canada, the laws of the state or province where you live (or, if a business, where your principal place of business is located) govern the interpretation of these terms, claims for breach of them, and all other claims (including consumer protection, unfair competition, and tort claims), regardless of conflict of laws principles.**
+    *   b. **Outside the United States and Canada. If you acquired the application in any other country, the laws of that country apply.**
+*   9\. **LEGAL EFFECT**. This agreement describes certain legal rights. You may have other rights under the laws of your state or country. This agreement doesn’t change your rights under the laws of your state or country if the laws of your state or country don’t permit it to do so.
+*   10\. **DISCLAIMER OF WARRANTY. The application is licensed "as is," "with all faults," and "as available." You bear the entire risk as to its quality, safety, comfort, and performance. Should it prove defective, you assume the entire cost of all necessary servicing or repair. The application publisher, on behalf of itself, Microsoft, wireless carriers over whose network the application is provided, and each of our respective affiliates, vendors, agents, and suppliers ("Covered Parties"), gives no express warranties, guarantees, or conditions in relation to the application. You may have additional consumer rights under your local laws that this agreement can't change. To the extent permitted under your local laws, Covered Parties exclude any implied warranties or conditions, including those of merchantability, fitness for a particular purpose, safety, comfort, and non-infringement. If your local laws impose a warranty, guarantee or condition even though these terms do not, its duration is limited to 90 days from when you download the application.**
+*   11\. **LIMITATION ON AND EXCLUSION OF REMEDIES AND DAMAGES. To the extent not prohibited by law, if you have any basis for recovering damages, you can recover from the application publisher only direct damages up to the amount you paid for the application or $1.00, whichever is greater. You will not, and waive any right to, seek to recover any other damages, including lost profits and consequential, special, direct, indirect, or incidental damages, from the application publisher.**
+
+**This limitation applies to:**
+
+*   **Anything related to the application or services made available through the application. and**
+*   **Claims for breach of contract, warranty, guarantee or condition. strict liability, negligence, or other tort. violation of a statute or regulation. unjust enrichment. or under any other theory. all to the extent permitted by applicable law.**
+
+**It also applies even if:**
+
+*   **This remedy doesn’t fully compensate you for any losses. or**
+*   **The application publisher knew or should have known about the possibility of the damages.**
+
+Top of pageCovered ServicesCovered Services
+
+The following products, apps and services are covered by the Microsoft Services Agreement, but may not be available in your market.
+
+*   Account.microsoft.com
+*   Advertising.microsoft.com
+*   Arrow Launcher
+*   Ask Cortana
+*   Bing
+*   Bing Apps
+*   Bing Bots
+*   Bing Desktop
+*   Bing Dictionary
+*   Bing Image Bot
+*   Bing in the Classroom
+*   Bing Input
+*   Bing Maps
+*   Bing Music Bot
+*   Bing Navigation
+*   Bing News Bot
+*   Bing Reader
+*   Bing Rewards
+*   Bing Search app
+*   Bing Toolbar
+*   Bing Torque
+*   Bing Translator
+*   Bing Webmaster
+*   Bing Wikipedia Browser
+*   Bing.com
+*   Bingplaces.com
+*   Choice.microsoft.com
+*   Citizen Next
+*   Conditional Action Programmer
+*   Cortana
+*   Default Homepage and New Tab Page on Microsoft Edge
+*   Dev Center App
+*   Device Health App
+*   Dictate
+*   Docs.com
+*   Education.minecraft.net
+*   Forzamotorsport.net
+*   Groove
+*   Groove Music Pass
+*   GroupMe
+*   HealthVault
+*   HealthVault Insights
+*   Home
+*   LineBack
+*   Maps App
+*   Microsoft account
+*   Microsoft Add-Ins for Skype
+*   Microsoft Bots
+*   Microsoft Family
+*   Microsoft Health
+*   Microsoft Movies &. TV
+*   Microsoft Support and Recovery Assistant for Office 365
+*   Microsoft Translator
+*   Microsoft Wallpaper
+*   Microsoft XiaoIce
+*   MSN Dial Up
+*   MSN Explorer
+*   MSN Food &. Drink
+*   MSN Health &. Fitness
+*   MSN Money
+*   MSN News
+*   MSN Premium
+*   MSN Sports
+*   MSN Travel
+*   MSN Weather
+*   MSN.com
+*   News Pro App and Website
+*   Next Lock Screen
+*   Office 365 Consumer
+*   Office 365 Home
+*   Office 365 Personal
+*   Office 365 University
+*   Office Online
+*   Office Store
+*   Office Sway
+*   Office.com
+*   OneDrive
+*   OneDrive.com
+*   OneNote.com
+*   Outlook.com
+*   Paint 3D
+*   Picturesque Lock Screen
+*   Pix Lock
+*   Pocket Skills
+*   Presentation Translator
+*   Remix 3D
+*   Seeing AI
+*   Send
+*   Skype
+*   Skype in the Classroom
+*   Skype Manager
+*   Skype Qik
+*   Skype.com
+*   Smart Search
+*   Spreadsheet Keyboard
+*   Store
+*   Sway.com
+*   Todo.microsoft.com
+*   Tossup
+*   Translator
+*   Translator for Microsoft Edge
+*   Translator Live
+*   UrWeather
+*   Video Breakdown
+*   Visio Online
+*   Windows Live Mail
+*   Windows Live Writer
+*   Windows Movie Maker
+*   Windows Photo Gallery
+*   Windows Store
+*   Word Flow
+*   Xbox and Windows Games, apps and websites published by Microsoft
+*   Xbox Game Pass
+*   Xbox Live
+*   Xbox Live Gold
+*   Xbox Music
+*   Xbox Store
+*   Zo
+
+Top of pageYour PrivacyYour Privacy1\_YourPrivacySummary
+
+1\. **Your Privacy.** Your privacy is important to us. Please read the Microsoft Privacy Statement (the "**Privacy Statement**") as it describes the types of data we collect from you and your devices ("**Data**") and how we use your Data. The Privacy Statement also describes how Microsoft uses your content, which is your communications with others. postings or feedback submitted by you to Microsoft via the Services. and the files, photos, documents, audio, digital works, and videos that you upload, store or share through the Services ("**Your Content**"). By using the Services or agreeing to these Terms, you consent to Microsoft’s collection, use and disclosure of Your Content and Data as described in the Privacy Statement.
+
+Full textYour ContentYour Content2\_yourContentSummary
+
+2\. **Your Content.** Many of our Services allow you to store or share Your Content or receive material from others. We don’t claim ownership of Your Content. Your Content remains Your Content and you are responsible for it.
+
+*   a. When you share Your Content with other people, you understand that they may be able to, on a worldwide basis, use, save, record, reproduce, transmit, display (and on HealthVault delete) Your Content without compensating you. If you do not want others to have that ability, do not use the Services to share Your Content. You represent and warrant that for the duration of these Terms, you have (and will have) all the rights necessary for Your Content that is uploaded, stored, or shared on or through the Services and that the collection, use, and retention of Your Content will not violate any law or rights of others. Microsoft cannot be held responsible for Your Content or the material others upload, store or share using the Services.
+*   b. To the extent necessary to provide the Services to you and others, to protect you and the Services, and to improve Microsoft products and services, you grant to Microsoft a worldwide and royalty-free intellectual property license to use Your Content, for example, to make copies of, retain, transmit, reformat, display, and distribute via communication tools Your Content on the Services. If you publish Your Content in areas of the Service where it is available broadly online without restrictions, Your Content may appear in demonstrations or materials that promote the Service. Some of the Services are supported by advertising. Controls for how Microsoft personalizes advertising are available on the Security &. privacy page of the Microsoft account management website. We do not use what you say in email, chat, video calls or voice mail, or your documents, photos or other personal files to target advertising to you. Our advertising policies are covered in detail in the Privacy Statement.
+
+Full textCode of ConductCode of Conduct3\_codeOfConductSummary
+
+3\. **Code of Conduct.**
+
+*   a. By agreeing to these Terms, you’re agreeing that, when using the Services, you will follow these rules:
+
+*   i. Don’t do anything illegal.
+*   ii. Don’t engage in any activity that exploits, harms, or threatens to harm children.
+*   iii. Don’t send spam. Spam is unwanted or unsolicited bulk email, postings, contact requests, SMS (text messages), or instant messages.
+*   iv. Don’t publicly display or use the Services to share inappropriate Content or material (involving, for example, nudity, bestiality, pornography, graphic violence, or criminal activity).
+*   v. Don’t engage in activity that is false or misleading (e.g., asking for money under false pretenses, impersonating someone else, manipulating the Services to increase play count, or affect rankings, ratings, or comments).
+*   vi. Don’t circumvent any restrictions on access to or availability of the Services.
+*   vii. Don’t engage in activity that is harmful to you, the Services, or others (e.g., transmitting viruses, stalking, posting terrorist content, communicating hate speech, or advocating violence against others).
+*   viii. Don’t infringe upon the rights of others (e.g., unauthorized sharing of copyrighted music or other copyrighted material, resale or other distribution of Bing maps, or photographs).
+*   ix. Don’t engage in activity that violates the privacy of others.
+*   x. Don’t help others break these rules.
+
+*   b. **Enforcement.** If you violate these Terms, we may stop providing Services to you or we may close your Microsoft account or Skype account. We may also block delivery of a communication (like email or instant message) to or from the Services in an effort to enforce these Terms or we may remove or refuse to publish Your Content for any reason. When investigating alleged violations of these Terms, Microsoft reserves the right to review Your Content in order to resolve the issue. However, we cannot monitor the entire Services and make no attempt to do so.
+*   c. **Application to Xbox Services.** Click here for more information about how this Code of Conduct applies to Xbox Live, Games for Windows Live and Microsoft Studios games, applications, services and content provided by Microsoft.
+
+Full textUsing the Services &. SupportUsing the Services &. Support4\_usingTheServicesSupportSummary
+
+4\. **Using the Services &. Support.**
+
+*   a. **Microsoft account or Skype account.** You’ll need a Microsoft account to access many of the Services. Your Microsoft account lets you sign in to products, websites and services provided by Microsoft and some Microsoft partners. To access Skype on certain platforms, you have the option of using a Skype account or a Microsoft account.
+    *   i. **Creating an Account.** You can create a Microsoft account or a Skype account by signing up online. You agree not to use any false, inaccurate or misleading information when signing up for your Microsoft account or Skype account. In some cases, a third party, like your Internet service provider, may have assigned a Microsoft account to you. If you received your Microsoft account from a third party, the third party may have additional rights over your account, like the ability to access or delete your Microsoft account. Please review any additional terms the third party provided you, as Microsoft has no responsibility regarding these additional terms. If you create a Microsoft account on behalf of an entity, such as your business or employer, you represent that you have the legal authority to bind that entity to these Terms. You cannot transfer your Microsoft account or Skype account to another user or entity. To protect your account, keep your account details and password confidential. You are responsible for all activity that occurs under your Microsoft account or Skype account.
+    *   ii. **Account Use.** You must use your Microsoft account to keep it active. This means you must sign in at least once in a five-year period to keep your Microsoft account, and associated Services, active, unless provided otherwise in an offer for a paid portion of the Services. If you don’t sign in during this time, we will assume your Microsoft account is inactive and will close it for you. Please see section 4(a)(iv)(2) for the consequences of a closed Microsoft account. You must sign into your Outlook.com inbox and your OneDrive (separately) at least once in a one-year period, otherwise we will close your Outlook.com inbox and your OneDrive for you. You must sign into the Xbox Services (defined in section 14(a)(i)) at least once in a five-year period to keep the gamertag associated with your Microsoft account. If we reasonably suspect that your Microsoft account or Skype account is being used by a third party fraudulently (for example, as a result of an account compromise), Microsoft may suspend your account until you can reclaim ownership. Based on the nature of the compromise, we may be required to disable access to some or all of Your Content. If you are having trouble accessing your Microsoft account, please visit this website: http://go.microsoft.com/fwlink/?LinkId=238656. To manage your Skype account, you must "Sign In" at www.skype.com.
+        
+    *   iii. **Kids and Accounts.** By using the Services, you represent that you have either reached the age of "majority" where you live or have valid parent or legal guardian consent to be bound by these Terms. If you do not know whether you have reached the age of majority where you live, or do not understand this section, please ask your parent or legal guardian for help before you create a Microsoft account or Skype account. If you are the parent or legal guardian of a minor that creates a Microsoft account or Skype account, you accept these Terms on the minor’s behalf and are responsible for all use of the Microsoft account, Skype account, or Services, including purchases, whether the minor’s account is now open or created later.
+    *   iv. **Closing Your Account.**
+        *   1\. You can cancel specific Services or close your Microsoft account or Skype account at any time and for any reason. To close your Microsoft account, please visit http://go.microsoft.com/fwlink/p/?linkid=618278. When you ask us to close your Microsoft account, we will put it in a suspended state for 60 days just in case you change your mind. After that 60-day period, your Microsoft account will be closed. Please see section 4(a)(iv)(2) below for a detailed explanation as to what happens when your Microsoft account is closed. Logging back in during that 60-day period will reactivate your Microsoft account. To cancel your Skype account please submit a support request to http://go.microsoft.com/fwlink/p/?linkid=618280.
+        *   2\. If your Services are canceled or your Microsoft account or Skype account is closed (whether by you or us), a few things happen. First, your right to use the Services stops immediately and your license to use the software related to the Services ends. Second, we’ll delete Data or Your Content associated with your Microsoft account or Skype account or will otherwise disassociate it from you and your Microsoft account or Skype account (unless we are required by law to keep it). You should have a regular backup plan as Microsoft won’t be able to retrieve Your Content or Data once your account is closed. Third, you may lose access to material or products you’ve acquired.
+*   b. **Work or School Accounts.** You can sign into certain Microsoft services with a work or school email address. If you do, you agree that the owner of the domain associated with your email address may control and administer your account, and access and process your data, including the contents of your communications and files. You further agree that your use of the services may be subject to the agreements that Microsoft has with you or your organization and these terms do not apply. If you use a work or school email address to access Services covered under these Terms, you may be prompted to update the email address associated with your Microsoft account in order to continue accessing such Services.
+*   c. **Additional Equipment/Data Plans.** To use many of the Services, you’ll need an internet connection and/or data/cellular plan. You might also need additional equipment, like a headset, camera or microphone. You are responsible for providing all connections, plans, and/or equipment needed to use the Services and for paying the fees charged by the provider(s) of your connections, plans, and equipment. Those fees are in addition to any fees you pay us for the Services and we will not reimburse you for such fees. Check with your provider(s) to determine if there are any such fees that may apply to you.
+*   d. **Service Notifications.** When there’s something important to tell you about a Service you use, we’ll send you Service notifications to the email associated with your Microsoft account or, for Skype notifications, your Skype account. If you gave us your phone number in connection with your Microsoft account or Skype account, then we may send Service notifications to you via SMS (text message), including to verify your identity before registering your mobile phone number. **Data or messaging rates may apply when receiving notifications via SMS.**
+*   e. **Support.** Customer support for the Services is available at http://support.microsoft.com.
+
+Full textUsing Third-Party Apps and ServicesUsing Third-Party Apps and Services5\_usingThird-PartyAppsAndServicesSummary
+
+5\. **Using Third-Party Apps and Services.** The Services may allow you to access or acquire products, services, websites, links, content, material, games or applications from third parties (companies or people who aren’t Microsoft) (**"Third-Party Apps and Services"**). Many of our Services also help you find Third-Party Apps and Services, and you understand that you are directing our Services to provide Third-Party Apps and Services to you. The Third-Party Apps and Services may also allow you to store Your Content or Data with the publisher, provider, or operator of the Third-Party Apps and Services. The Third-Party Apps and Services may present you with a privacy policy or require you to accept additional terms of use before you can install or use the Third-Party App or Service. See section 14(b) for additional terms for applications acquired through the Office Store, the Xbox Store or the Windows Store. You should review any additional terms and privacy policies before acquiring or using any Third-Party Apps and Services. Any additional terms do not modify any of these Terms. You are responsible for your dealings with third parties. Microsoft does not license any intellectual property to you as part of any Third-Party Apps and Services and is not responsible for information provided by third parties.
+
+Full textService AvailabilityService Availability6\_serviceAvailabilitySummary
+
+6\. **Service Availability.**
+
+*   a. The Services, Third-Party Apps and Services, or material or products offered through the Services may be unavailable from time to time, may be offered for a limited time, or may vary depending on your region or device. If you change the location associated with your Microsoft account, you may need to re-acquire the material or applications that were available to you and paid for in your previous region.
+*   b. We strive to keep the Services up and running. however, all online services suffer occasional disruptions and outages, and Microsoft is not liable for any disruption or loss you may suffer as a result. In the event of an outage, you may not be able to retrieve Your Content or Data that you’ve stored. We recommend that you regularly backup Your Content that you store on the Services or store using Third-Party Apps and Services.
+
+Full textUpdates to the Services or Software, and Changes to These TermsUpdates to the Services or Software, and Changes to These Terms7\_updatesToTheServicesOrSoftwareAndChangesToTheseTermsSummary
+
+7\. **Updates to the Services or Software, and Changes to These Terms.**
+
+*   a. We may change these Terms at any time, and we’ll tell you when we do. Using the Services after the changes become effective means you agree to the new terms. If you don’t agree to the new terms, you must stop using the Services, close your Microsoft account and/or Skype account and, if you are a parent or guardian, help your minor child close his or her Microsoft account or Skype account.
+*   b. Sometimes you’ll need software updates to keep using the Services. We may automatically check your version of the software and download software updates or configuration changes. You may also be required to update the software to continue using the Services. Such updates are subject to these Terms unless other terms accompany the updates, in which case, those other terms apply. Microsoft isn’t obligated to make any updates available and we don’t guarantee that we will support the version of the system for which you licensed the software.
+*   c. Additionally, there may be times when we need to remove or change features or functionality of the Service or stop providing a Service or access to Third-Party Apps and Services altogether. Except to the extent required by applicable law, we have no obligation to provide a re-download or replacement of any material, Digital Goods (defined in section 14(k)), or applications previously purchased. We may release the Services or their features in a beta version, which may not work correctly or in the same way the final version may work.
+*   d. So that you can use material protected with digital rights management (DRM), like some music, games, movies and more, DRM software may automatically contact an online rights server and download and install DRM updates.
+
+Full textSoftware LicenseSoftware License8\_softwareLicenseSummary
+
+8\. **Software License.** Unless accompanied by a separate Microsoft license agreement (for example, if you are using a Microsoft application that is included with and a part of Windows, then the Microsoft Software License Terms for the Windows Operating System govern such software), and except as provided in section 14(b)(i) below for applications available through the Office Store, the Windows Store or the Xbox Store, any software provided by us to you as part of the Services is subject to these Terms.
+
+*   a. If you comply with these Terms, we grant you the right to install and use one copy of the software per device on a worldwide basis for use by only one person at a time as part of your use of the Services. The software or website that is part of the Services may include third-party code. Any third-party scripts or code, linked to or referenced from the software or website, are licensed to you by the third parties that own such code, not by Microsoft. Notices, if any, for the third-party code are included for your information only.
+*   b. The software is licensed, not sold, and Microsoft reserves all rights to the software not expressly granted by Microsoft, whether by implication, estoppel, or otherwise. This license does not give you any right to, and you may not:
+    *   i. circumvent or bypass any technological protection measures in or relating to the software or Services;
+    *   ii. disassemble, decompile, decrypt, hack, emulate, exploit, or reverse engineer any software or other aspect of the Services that is included in or accessible through the Services, except and only to the extent that the applicable copyright law expressly permits doing so;
+    *   iii. separate components of the software or Services for use on different devices;
+    *   iv. publish, copy, rent, lease, sell, export, import, distribute, or lend the software or the Services, unless Microsoft expressly authorizes you to do so;
+    *   v. transfer the software, any software licenses, or any rights to access or use the Services;
+    *   vi. use the Services in any unauthorized way that could interfere with anyone else’s use of them or gain access to any service, data, account, or network;
+    *   vii. enable access to the Services or modify any Microsoft-authorized device (e.g., Xbox One, Xbox 360, Microsoft Surface, etc.) by unauthorized third-party applications.
+
+Full textfPayment TermsPayment Terms9\_paymentTermsSummary
+
+9\. **Payment Terms.** If you purchase a Service, then these payment terms apply to your purchase and you agree to them.
+
+*   a. **Charges.** If there is a charge associated with a portion of the Services, you agree to pay that charge. The price stated for the Services excludes all applicable taxes and currency exchange settlements, unless stated otherwise. The price for Skype paid products includes a charge for the product and a charge for taxes. You are solely responsible for paying such taxes or other charges. Taxes are calculated based on your location at the time your Microsoft or Skype account was registered. We may suspend or cancel the Services if we do not receive an on time, full payment from you. Suspension or cancellation of the Services for non-payment could result in a loss of access to and use of your account and its content. Connecting to the Internet via a corporate or other private network which masks your location may cause charges to be different from those displayed for your actual location.
+*   b. **Your Billing Account.** To pay the charges for a Service, you will be asked to provide a payment method at the time you sign up for that Service. You can access and change your billing information and payment method on the Microsoft account management website and for your Skype billing account by signing into your account at www.skype.com. Additionally, you agree to permit Microsoft to use any updated account information regarding your selected payment method provided by your issuing bank or the applicable payment network. You agree to promptly update your account and other information, including your email address and payment method details, so we can complete your transactions and contact you as needed in connection with your transactions. Changes made to your billing account will not affect charges we submit to your billing account before we could reasonably act on your changes to your billing account.
+*   c. **Billing.** By providing Microsoft with a payment method, you (i) represent that you are authorized to use the payment method that you provided and that any payment information you provide is true and accurate. (ii) authorize Microsoft to charge you for the Services or available content using your payment method. and (iii) authorize Microsoft to charge you for any paid feature of the Services that you choose to sign up for or use while these Terms are in force. We may bill you (a) in advance. (b) at the time of purchase. (c) shortly after purchase. or (d) on a recurring basis for subscription Services. Also, we may charge you up to the amount you have approved, and we will notify you in advance of any change in the amount to be charged for recurring subscription Services. We may bill you at the same time for more than one of your prior billing periods for amounts that haven't previously been processed.
+*   d. **Recurring Payments.** When you purchase the Services on a subscription basis (e.g., monthly, every 3 months or annually (as applicable)), you acknowledge and agree that you are authorizing recurring payment, and payments shall be made to Microsoft by the method you have chosen at the recurring intervals chosen by you, until the subscription for that Service is terminated by you or by Microsoft. By authorizing recurring payments, you are authorizing Microsoft to process such payments as either electronic debits or fund transfers, or as electronic drafts from your designated account (in the case of Automated Clearing House or similar payments), or as charges to your designated account (in the case of credit card or similar payments) (collectively, **"Electronic Payments"**). Subscription fees are generally billed or charged in advance of the applicable subscription period. If any payment is returned unpaid or if any credit card or similar transaction is rejected or denied, Microsoft or its service providers reserve the right to collect any applicable return item, rejection or insufficient funds fee and to process any such payment as an Electronic Payment.
+*   e. **Automatic Renewal.** Provided that automatic renewals are allowed in your state, you may choose for Services to automatically renew at the end of a fixed service period.  We will remind you by email before any Services renew for a new term, and notify you of any price changes in accordance with section 9(k).  Once we have reminded you that you elected to automatically renew the Services, we may automatically renew your Services at the end of the current service period and charge you the then current price for the renewal term, unless you have chosen to cancel the Services as described below. We will also remind you that we will bill your chosen payment method for the Services renewal, whether it was on file on the renewal date or provided later. We will also provide you with instructions on how you may cancel the Services. You must cancel the Services before the renewal date to avoid being billed for the renewal.
+*   f. **Online Statement and Errors.** Microsoft will provide you with an online billing statement on the Microsoft account management website, where you can view and print your statement. For Skype accounts you can access your online statement by signing into your account at www.skype.com. This is the only billing statement that we provide. If we make an error on your bill, you must tell us within 90 days after the error first appears on your bill. We will then promptly investigate the charge. If you do not tell us within that time, you release us from all liability and claims of loss resulting from the error and we won't be required to correct the error or provide a refund. If Microsoft has identified a billing error, we will correct that error within 90 days.
+*   g. **Refund Policy.** Unless otherwise provided by law or by a particular Service offer, all purchases are final and non-refundable. If you believe that Microsoft has charged you in error, you must contact us within 90 days of such charge. No refunds will be given for any charges more than 90 days old. We reserve the right to issue refunds or credits at our sole discretion. If we issue a refund or credit, we are under no obligation to issue the same or similar refund in the future. This refund policy does not affect any statutory rights that may apply. For more refund information, please visit our help topic.
+*   h. **Canceling the Services.** You may cancel a Service at any time, with or without cause. To cancel a Service and request a refund, if you are entitled to one, visit the Microsoft account management website. You can request a refund from Skype using the Cancellation and Refund form. You should refer back to the offer describing the Services as (i) you may not receive a refund at the time of cancellation. (ii) you may be obligated to pay cancellation charges. (iii) you may be obligated to pay all charges made to your billing account for the Services before the date of cancellation. or (iv) you may lose access to and use of your account when you cancel the Services. If you cancel, your access to the Services ends at the end of your current Service period or, if we bill your account on a periodic basis, at the end of the period in which you canceled.
+*   i. **Trial-Period Offers.** If you are taking part in any trial-period offer, you must cancel the trial Service(s) by the end of the trial period to avoid incurring new charges, unless we notify you otherwise. If you do not cancel the trial Service(s) by the end of the trial period, we may charge you for the Service(s).
+*   j. **Promotional Offers.** From time to time, Microsoft may offer Services for a trial period during which Microsoft will not charge you for the Services. Microsoft reserves the right to charge you for such Services (at the normal rate) in the event that Microsoft determines (in its reasonable discretion) that you are breaching the terms and conditions of the offer.
+*   k. **Price Changes.** We may change the price of the Services at any time and if you have a recurring purchase, we will notify you by email at least 15 days before the price change. If you do not agree to the price change, you must cancel and stop using the Services before the price change takes effect. If there is a fixed term and price for your Service offer, that price will remain in force for the fixed term.
+*   l. **Payments to You.** If we owe you a payment, then you agree to timely and accurately provide us with any information we need to get that payment to you. You are responsible for any taxes and charges you may incur as a result of this payment to you. You must also comply with any other conditions we place on your right to any payment. If you receive a payment in error, we may reverse or require return of the payment. You agree to cooperate with us in our efforts to do this. We may also reduce the payment to you without notice to adjust for any previous overpayment.
+*   m. **Gift Cards.** Redemption and use of gift cards (other than Skype gift cards) are governed by the Microsoft Gift Card Terms and Conditions. Information on Skype gift cards is available on Skype’s Help page.
+
+Full textContracting Entity, Choice of Law, JurisdictionContracting Entity, Choice of Law, Jurisdiction10\_11\_contractingEntityChoiceOfLawSummary
+
+10\. **Contracting Entity.** For use of free, consumer Skype-branded Services, you're contracting with, and all references to "Microsoft" in these Terms mean, Skype Software S.à.r.l, 23 – 29 Rives de Clausen, L-2165 Luxembourg, and for paid, consumer Skype-branded Services, you’re contracting with, and all references to "Microsoft" in these Terms mean, Skype Communications S.à.r.l, 23 – 29 Rives de Clausen, L-2165 Luxembourg. For all other Services, you're contracting with Microsoft Corporation, One Microsoft Way, Redmond, WA 98052, U.S.A.
+
+11\. **Choice of Law and Place to Resolve Disputes.** If you live in (or, if a business, your principal place of business is in) the United States, the laws of the state where you live govern all claims, regardless of conflict of laws principles, except that the Federal Arbitration Act governs all provisions relating to arbitration. You and we irrevocably consent to the exclusive jurisdiction and venue of the state or federal courts in King County, Washington, for all disputes arising out of or relating to these Terms or the Services that are heard in court (excluding arbitration and small claims court).
+
+Full textWarrantiesWarranties12\_WarrantiesSummary
+
+12. **Warranties. MICROSOFT, AND OUR AFFILIATES, RESELLERS, DISTRIBUTORS, AND VENDORS, MAKE NO WARRANTIES, EXPRESS OR IMPLIED, GUARANTEES OR CONDITIONS WITH RESPECT TO YOUR USE OF THE SERVICES. YOU UNDERSTAND THAT USE OF THE SERVICES IS AT YOUR OWN RISK AND THAT WE PROVIDE THE SERVICES ON AN "AS IS" BASIS "WITH ALL FAULTS" AND "AS AVAILABLE." YOU BEAR THE ENTIRE RISK OF USING THE SERVICES. MICROSOFT DOESN'T GUARANTEE THE ACCURACY OR TIMELINESS OF INFORMATION AVAILABLE FROM THE SERVICES. TO THE EXTENT PERMITTED UNDER YOUR LOCAL LAW, WE EXCLUDE ANY IMPLIED WARRANTIES, INCLUDING FOR MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, WORKMANLIKE EFFORT, AND NON-INFRINGEMENT. YOU MAY HAVE CERTAIN RIGHTS UNDER YOUR LOCAL LAW. NOTHING IN THESE TERMS IS INTENDED TO AFFECT THOSE RIGHTS, IF THEY ARE APPLICABLE. YOU ACKNOWLEDGE THAT COMPUTER AND TELECOMMUNICATIONS SYSTEMS ARE NOT FAULT-FREE AND OCCASIONAL PERIODS OF DOWNTIME OCCUR. WE DO NOT GUARANTEE THE SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE OR THAT CONTENT LOSS WON'T OCCUR, NOR DO WE GUARANTEE ANY CONNECTION TO OR TRANSMISSION FROM THE COMPUTER NETWORKS.**
+
+Full textLimitation of LiabilityLimitation of Liability13\_limitationOfLiabilitySummary
+
+13\. **Limitation of Liability. If you have any basis for recovering damages (including breach of these Terms), you agree that your exclusive remedy is to recover, from Microsoft or any affiliates, resellers, distributors, Third-Party Apps and Services providers, and vendors, direct damages up to an amount equal to your Services fee for the month during which the breach occurred (or up to $10.00 if the Services are free). You can't recover any other damages or losses, including direct, consequential, lost profits, special, indirect, incidental, or punitive.** These limitations and exclusions apply even if this remedy doesn't fully compensate you for any losses or fails of its essential purpose or if we knew or should have known about the possibility of the damages. To the maximum extent permitted by law, these limitations and exclusions apply to anything or any claims related to these Terms, the Services, or the software related to the Services.
+
+Full textService-Specific TermsService-Specific Terms14\_service-SpecificTermsSummary
+
+14\. **Service-Specific Terms.** The terms before and after section 14 apply generally to all Services. This section contains service-specific terms that are in addition to the general terms.
+
+Full textXbox Live and Microsoft Studios Games and ApplicationsXbox Live and Microsoft Studios Games and Applications14a\_XboxLiveSummary
+
+*   a. **Xbox Live and Microsoft Studios Games and Applications.**
+    *   i. **Personal Noncommercial Use.** Xbox Live, Games for Windows Live and Microsoft Studios games, applications, services and content provided by Microsoft (collectively, the "**Xbox Services**") are only for your personal and noncommercial use.
+    *   ii. **Sharing Limited Account Information.** As part of delivering the Xbox Services, we make information pertaining to your gamertag, gameplay, Your Content that you make public, and activity on and usage of any Xbox Service available for the operation and delivery of (a) other Xbox Services and (b) third-party games that use Xbox Services. If you choose to link your Microsoft Xbox Services account with your account on a non-Microsoft service (for example, a non-Microsoft game publisher of Third-Party Apps and Services), you agree that: (a) Microsoft may share limited account information (including without limitation gamertag, gamerscore, game score, game history, and friends list), with that non-Microsoft party as stated in the Microsoft Privacy Statement, and (b) if allowed by your Xbox privacy settings, the non-Microsoft party may also have access to Your Content from in-game communications when you are signed into your account with that non-Microsoft party. Also, if allowed by your Xbox privacy settings, Microsoft can publish your name, gamertag, gamerpic, motto, avatar, and games that you’ve played in communications to people on your Xbox friends list.
+    *   iii. **Your Content.** As part of building the Xbox Services community, you grant to Microsoft, its affiliates and sublicensees a free and worldwide right to use, modify, reproduce, distribute, and display Your Content or your name, gamertag, motto, or avatar that you posted for any Xbox Services.
+    *   iv. **Game Managers.** Some games may use game managers and hosts. Game managers and hosts are not authorized Microsoft spokespersons. Their views do not necessarily reflect those of Microsoft.
+    *   v. **Kids on Xbox.** If you are a minor using Xbox Live, your parent or guardian may have control over many aspects of your account and may receive reports about your use of Xbox Live.
+    *   vi. **Game Currency or Virtual Goods.** The Services may include a virtual, game currency (like gold, coins or points) that may be purchased from Microsoft using actual monetary instruments if you have reached the age of "majority" where you live. The Services may also include virtual, digital items or goods that may be purchased from Microsoft using actual monetary instruments or using game currency. Game currency and virtual goods may never be redeemed for actual monetary instruments, goods or other items of monetary value from Microsoft or any other party. Other than a limited, personal, revocable, non-transferable, non-sublicensable license to use the game currency and virtual goods in the Services only, you have no right or title in or to any such game currency or virtual goods appearing or originating in the Services, or any other attributes associated with use of the Services or stored within the Services. Microsoft may at any time regulate, control, modify and/or eliminate the game currency and/or virtual goods as it sees fit in its sole discretion.
+    *   vii. **Software Updates.** For any device that can connect to Xbox Services, we may automatically check your version of Xbox console software or the Xbox App software and download Xbox console or Xbox App software updates or configuration changes, including those that prevent you from accessing the Xbox Services, using unauthorized Xbox games or Xbox apps, or using unauthorized hardware peripheral devices with an Xbox console.
+    *   viii. **Gamertag Expiration.** You must sign into Xbox Services at least once in a five-year period, otherwise you may lose access to the gamertag associated with your account and that gamertag may become available for use by others.
+
+Full textStoreStore14b\_StoreSummary
+
+*   b. **Store.** "Store" refers to a Service that allows you to browse, download, purchase, and rate and review applications (the term "application" includes games) and other digital content. These Terms cover use of Office Store, Xbox Store and Windows Store. **"Office Store"** means a Store for Office products and apps for Office, SharePoint, Exchange, Access and Project (2013 versions or later). **"Windows Store"** means a Store for Windows devices such as phone, PC and tablet, or any other experience that is branded Windows Store. **"Xbox Store"** means a Store for Xbox ONE and Xbox 360 consoles, or any other experience that is branded Xbox Store.
+    *   i. **License Terms.** We will identify the publisher of each application available in the relevant Store. The Standard Application License Terms (**"SALT"**) at the end of these Terms are an agreement between you and the application publisher setting forth the license terms that apply to your use of an application you download through the Windows Store or the Xbox Store, unless different license terms are provided with the application. Section 5 of these Terms applies to any Third-Party Apps and Services acquired through a Store. Applications downloaded through the Office Store are not governed by the SALT and have separate license terms that apply.
+    *   ii. **Updates.** Microsoft will automatically check for and download updates to your applications, even if you’re not signed into the relevant Store. You can change your Store or system settings if you prefer not to receive automatic updates to Store applications. However, certain Office Store applications that are entirely or partly hosted online may be updated at any time by the application developer and may not require your permission to update.
+    *   iii. **Ratings and Reviews.** If you rate or review an application in the Store, you may receive email from Microsoft containing content from the publisher of the application. Any such email comes from Microsoft. we do not share your email address with publishers of applications you acquire through the Store.
+    *   iv. **Safety Warning.** To avoid possible injury, discomfort or eye strain, you should take periodic breaks from use of games or other applications, especially if you feel any pain or fatigue resulting from usage. If you experience discomfort, take a break. Discomfort might include feelings of nausea, motion sickness, dizziness, disorientation, headache, fatigue, eye strain, or dry eyes. Using applications can distract you and obstruct your surroundings. Avoid trip hazards, stairs, low ceilings, fragile or valuable items that could be damaged. A very small percentage of people may experience seizures when exposed to certain visual images like flashing lights or patterns that may appear in applications. Even people with no history of seizures may have an undiagnosed condition that can cause these seizures. Symptoms may include lightheadedness, altered vision, twitching, jerking or shaking of limbs, disorientation, confusion, loss of consciousness, or convulsions. Immediately stop using and consult a doctor if you experience any of these symptoms, or consult a doctor before using the applications if you’ve ever suffered symptoms linked to seizures. Parents should monitor their children’s use of applications for signs of symptoms.
+
+Full textMicrosoft Family FeaturesMicrosoft Family Features14c\_MicrosoftFamilyFeaturesSummary
+
+*   c. **Microsoft Family Features.** Parents and kids can use Microsoft family features to build trust based on a shared understanding of what behaviors, websites, apps, games, physical locations, and spending is right in their family. Parents can create a family by going to https://account.microsoft.com/family (or by following the instructions on their Windows device or Xbox console) and inviting kids or other parents to join. There are many features available to family members, so please carefully review the information provided when you agree to create or join a family. By creating or joining a family, you represent that you will use the family in accordance with its purpose and won’t use it in an unauthorized way to unlawfully gain access to another person’s information.
 
-**7.4** “Skype”, associated trademarks and logos and the “S” logo are trademarks of Skype. Skype has registered and filed applications to register its trademarks in many countries worldwide. Skype’s trademarks and trade dress may not be used in connection with any product or service that is not Skype’s, in any manner that is likely to cause confusion among customers, or in any manner that disparages or discredits Skype. All other trademarks not owned by Skype or any of its related companies that appear on this site are the property of their respective owners. You are not permitted to and shall not register or use any trade name, trademark, logo, domain name or any other name or sign that incorporates any of Skype’s intellectual property (in whole or part) or that is confusingly similar thereto. Please also see Skype’s Trademark Guidelines for further details on use of its marks.
+Full textGroup MessagingGroup Messaging14d\_GroupMessagingSummary
 
-**8\. CHARGES**
+*   d. **Group Messaging.** Various Microsoft services allow you to send messages to others via voice or SMS ("messages"), and/or allow Microsoft and Microsoft-controlled affiliates to send such messages to you and one or more other users on your behalf. WHEN YOU INSTRUCT MICROSOFT AND MICROSOFT-CONTROLLED AFFILIATES TO SEND SUCH MESSAGES TO YOU OR TO OTHERS, YOU REPRESENT AND WARRANT TO US THAT YOU AND EACH PERSON YOU HAVE INSTRUCTED US TO MESSAGE CONSENT TO RECEIVE SUCH MESSAGES AND ANY OTHER RELATED ADMINISTRATIVE TEXT MESSAGES FROM MICROSOFT AND MICROSOFT-CONTROLLED AFFILIATES. "Administrative text messages" are periodic transactional messages from a particular Microsoft service, including but not limited to a "welcome message" or instructions on how to stop receiving messages. You or group members no longer wishing to receive such messages can opt-out of receiving further messages from Microsoft or Microsoft-controlled affiliates at any time by following the instructions provided. If you no longer wish to receive such messages or participate in the group, you agree that you will opt out through the instructions provided by the applicable program or service. If you have reason to believe that a group member no longer wishes to receive such messages or participate in the group, you agree to remove them from the group. You also represent and warrant to us that you and each person you have instructed us to message understands that each group member is responsible for the costs of any message charges assessed by his or her mobile carrier, including any international message charges that may apply when messages are transmitted from US-based numbers.
 
-**8.1 Calling phones and premium rate numbers with Skype Credit:**
+Full textSkype and GroupMeSkype and GroupMe14e\_SkypeSummary
 
-(i) **Calling landlines and mobiles:** The charges payable for calling phones (outside of a subscription) consist of a connection fee (charged once, per call) and a per-minute rate as set out on www.skype.com/go/allrates. All calls will be disconnected and require a re-dial after a 4-hour duration and an additional connection fee will be charged on re-dial.
+*   e. **Skype and GroupMe.**
+    *   i. **No Access to Emergency Services.** There are important differences between traditional telephone services and Skype. Skype is not required to offer access to Emergency Services under any applicable local and/or national rules, regulations, or law. Skype’s software and products are not intended to support or carry emergency calls to any type of hospitals, law enforcement agencies, medical care units or any other kind of services that connect a user to emergency services personnel or public safety answering points (**"Emergency Services"**). You acknowledge and agree that: (i) it is your responsibility to purchase traditional wireless (mobile) or fixed-line telephone services that offer access to Emergency Services, and (ii) Skype is not a replacement for your primary telephone service.
+    *   ii. **APIs or Broadcasting.** If you want to use Skype in connection with any broadcast, you must comply with the "Broadcast TOS" at http://www.skype.com/legal/broadcast. If you want to use any application program interface (**"API"**) exposed or made available by Skype you must comply with the applicable licensing terms, which are available at www.skype.com/go/legal.
+    *   iii. **Fair Use Policies.** Fair usage policies may apply to your use of Skype. Please review these policies which are designed to protect against fraud and abuse and may place limits on the type, duration or volume of calls or messages that you are able to make. These policies are incorporated in these Terms by reference. You can find these policies at: http://www.skype.com/en/legal/fair-usage/
+    *   iv. **Mapping.** Skype contains features that allow you to submit information to, or plot yourself on a map using, a mapping service. By using those features, you agree to these Terms and the Google Maps terms available at http://www.google.com/intl/en\_ALL/help/terms\_maps.html.
+    *   v. **Government Users.** If you wish to use a business account and/or Skype Manager on behalf of the U.S. Government or an agency of the U.S. Government, these Terms do not apply to that use. For applicable terms and/or further information, please contact usgovusers@skype.net.
+    *   vi. **Personal/Noncommercial Use.** The use of Skype is for your personal and noncommercial use. You are permitted to use your personal Skype account at work for your own business communications.
+    *   vii. **Skype Number/Skype To Go.** If Skype provides you with a Skype Number or Skype To Go number, you agree that you do not own the number or have a right to retain that number forever.
+    *   viii. **Skype Manager.** A "Skype Manager Admin Account" is a Skype account that is created and managed by you, acting as an individual administrator of a Skype Manager group and not as a business entity. Personal Skype accounts can be linked to a Skype Manager group (**"Linked Account"**). You may appoint additional administrators to your Skype Manager group subject to their acceptance of these Terms. If you allocate Skype Numbers to a Linked Account, you are responsible for compliance with any requirements related to the residency or location of your Linked Account users. If you choose to unlink a Linked Account from a Skype Manager group, any allocated subscriptions, Skype Credit or Skype Numbers will not be retrievable and Your Content or material associated with the unlinked Skype account will no longer be accessible by you. You agree to process any personal information of your Linked Account users in accordance with all applicable data protection laws.
+    *   ix. **Skype Charges.** Skype paid products are sold to you by Skype Communications S.à.r.l, however the seller-of-record accountable for taxes is Skype Communications US Corporation. Taxes means the amount of taxes, regulatory fees, surcharges or other fees that we are required to collect from you and must pay to any United States (federal, state or local) or foreign government, agency, commission or quasi-governmental body as a result of our provision of Skype paid products to you. These taxes are listed at www.skype.com/go/ustax. All prices for Skype paid products are inclusive of a charge for your product and a charge for taxes, unless otherwise stated. The charges payable for calling phones outside of a subscription consist of a connection fee (charged once per call) and a per-minute rate as set out at www.skype.com/go/allrates. Call charges will be deducted from your Skype Credit balance. Skype may change its calling rates at any time without notice to you by posting such change at www.skype.com/go/allrates. The new rate will apply to your next call after publication of the new rates. Please check the latest rates before you make your call. Fractional call minutes and fractional cent charges will be rounded up to the next whole unit.
+    *   x. **Skype Credit.** Skype does not guarantee that you will be able to use your Skype Credit balance to purchase all Skype paid products. If you do not use your Skype Credit for a period of 180 days, Skype will place your Skype Credit on inactive status. You can reactivate the Skype Credit by following the reactivation link at http://www.skype.com/go/store.reactivate.credit. You can enable the Auto Recharge feature when you buy Skype Credit by ticking the appropriate box. If enabled, your Skype Credit balance will be recharged with the same amount and by your chosen payment method every time your Skype account balance goes below the threshold set by Skype from time to time. If you purchased a subscription with a payment method other than credit card, PayPal or Moneybookers (Skrill), and you have enabled Auto-Recharge, your Skype Credit balance will be recharged with the amount necessary to purchase your next recurring subscription. You can disable Auto-Recharge at any time by accessing and changing your settings in your Skype account.
+    *   xi. **International Message Fees.** GroupMe currently uses US-based numbers for each group created. Every text message sent to or received from a GroupMe number will count as an international text message sent to or received from the United States. Please check with your provider for the associated international rates.
 
-(ii) **Premium rate numbers:** The charges payable for calling premium rate numbers consist of a per-minute rate available at www.skype.com/go/rates-premium. No connection fee is payable.
+Full textBing and MSNBing and MSN14f\_BingandMSNSummary
 
-(iii) Skype may change the rates for calling phones and premium rate numbers at any time without notice to you by posting such change at www.skype.com/go/allrates. The new rate will apply to your next use after the new rates have been published. Please check the latest rates before you make your call. If you do not accept the new rates, do not make your call.
+*   f. **Bing and MSN.**
+    *   i. **Bing and MSN Materials.** The articles, text, photos, maps, videos, video players, and third-party material available on Bing and MSN are for your noncommercial, personal use only. Other uses, including downloading, copying, or redistributing these materials, are permitted only to the extent specifically authorized by Microsoft or rights holders, or allowed by applicable copyright law. Microsoft or other rights holders reserve all rights to the material not expressly granted by Microsoft under the license terms, whether by implication, estoppel, or otherwise.
+    *   ii. **Bing Maps.** You may not use Bird’s eye imagery of the United States, Canada, Mexico, New Zealand, Australia or Japan for governmental use without our separate written approval.
+    *   iii. **Rewards.** Rewards (the **"Program"**) enables you to earn redeemable points for your qualified searches, acquisitions, and other offers from Microsoft. A search is the act of an individual user manually entering text for the good faith purpose of obtaining Bing search results for such user’s own research purposes and does not include any query entered by a bot, macro, or other automated or fraudulent means of any kind (**"Search"**). An acquisition is the process of purchasing goods or downloading and acquiring a license for digital content from Microsoft, whether free or paid (**"Acquisition"**). Microsoft in its sole discretion determines what constitutes a Search or Acquisition that qualifies for points. Your earned points can be redeemed for items (**"Rewards"**) in the redemption center. For more information see the Frequently Asked Questions (**"FAQ"**).
+        *   1\. Program Requirements. You need a valid Microsoft account and your devices must meet the minimum system requirements. The Program is open to users who reside in the markets listed in the FAQ. Individuals can have no more than one Program account, even if an individual has multiple email addresses, and households are limited to six accounts. The Program is solely for your personal and noncommercial use.
+        *   2\. Points. Except for donating your points to a nonprofit organization listed in the redemption center, you cannot transfer points. Points are not your personal property, and you may not obtain any cash or money in exchange for them. Points are awarded to you on a promotional basis. You cannot purchase points. Microsoft may limit the quantity of points or Rewards per person, per household, or over a set period (e.g., a day). You may redeem no more than 550,000 points per calendar year in the Program. Points earned in the Program are not valid in, and may not be used in combination with, any other program offered by Microsoft or third parties. **Unredeemed points expire if you do not earn or redeem any points for 90 days.**
+        *   3\. Rewards. You may redeem your points by visiting the redemption center or you may contribute points to a listed nonprofit organization. There may be a limited number of a particular Reward available, and those Rewards will be delivered on a first-come, first-served basis. You may be required to provide additional information, like your mailing address and a telephone number (other than a VOIP or toll-free number), and you may also be asked to enter a fraud-prevention code or sign additional legal documents to redeem points for Rewards. Once you order a Reward, you cannot cancel it or return it for a refund of points. If you order a Reward that is out of stock or unavailable for other reasons Microsoft determines in its sole discretion, we may substitute a Reward of comparable value or refund your points. Microsoft may update the Rewards offered in the redemption center or discontinue to offer specific Rewards. Some Rewards may have age eligibility requirements. You are responsible for all federal, state, and local taxes and any other costs of accepting and using the Reward. Rewards will be emailed to the email address you provide when ordering your Reward, so keep your email address up to date. Rewards that are undeliverable will not be reissued and are therefore forfeited. Rewards are not for resale.
+        *   4\. Cancelling Your Participation in the Program. Your Program account will be cancelled if you do not log in at least once in a 180-day period. Additionally, Microsoft reserves the right to cancel the Program account of a specific user without cause and without providing a reason. Upon Program cancellation (by you or us) or if the Program is suspended, you will have 90 days to redeem your points. otherwise, those points will be forfeited. At the point of cancellation, your right to use the Program and accrue future points ends.
+        *   5\. Other Conditions. Microsoft reserves the right to disqualify you. disable your access to the Program or your Rewards account. and/or withhold points, Rewards and charitable contributions, if Microsoft believes you are tampering with or abusing any aspect of the Program or may be engaging in activities that violate these Terms.
+    *   iv. **Bing Places.** When you provide your Data or Your Content to Bing Places, you grant Microsoft a worldwide, royalty-free intellectual property license to use, reproduce, save, modify, aggregate, promote, transmit, display or distribute as part of a service, and sub-license those rights to third parties.
 
-(iv) The duration of a call shall be based on one-minute increments. Fractions of minutes will be rounded up to the next minute. The connection fee, where applicable, will be charged at the beginning of the call. Any fractional currency unit charges will be rounded up to the nearest whole minimum currency unit, for example a total call price of €0.034 will be rounded up to €0.04. Charges incurred will be deducted automatically from the Skype Credit balance in your User Account.
+Full textCortanaCortana14g\_CortanaSummary
 
-**8.2 Charges for other Paid For Products:** The charges for other Paid For Products will be confirmed to you before you complete a purchase from Skype. Skype may change the charges payable for the purchase of such Products at any time without any notice to you. You can choose whether or not to accept the new charges prior to completing your next purchase of the applicable Product. The new charges will apply to your next purchase after the new charges have been published. Fractional currency unit charges for SMS and Skype WiFi usage will be rounded up to the nearest whole minimum currency unit. For example, if you send three SMS at the same time to a single destination at the rate of €0.056, you will be charged €0.17.
+*   g. **Cortana.** Cortana is Microsoft’s personal assistant Service. Cortana provides information for your planning purposes only and you should exercise your own independent judgment when reviewing and relying on this information. Microsoft does not guarantee the accuracy, completeness, reliability, availability or timeliness of inferences and personalized experiences provided by Cortana. Microsoft is not responsible if a Cortana communication management feature delays or prevents you from reviewing or sending a communication.
 
-**8.3 Promotional Offers:** From time to time, Skype may offer Paid-For Products for free for a trial period. Skype reserves the right to charge you for such Products (at the normal rate) in the event that Skype determines (in its reasonable discretion) that you are abusing the terms of the offer, including if you are using any service, proxy or other devices or anonymous IP address that prevents us from locating you.
+Full textOutlook.comOutlook.com14h\_Outlook\_comSummary
 
-**8.4 Tax:** All prices for Paid For Products are inclusive of applicable taxes, including VAT, unless otherwise stated. You explicitly waive any right to VAT reimbursement from Skype if the amount of VAT ultimately payable by the latter to the tax authorities would for any reason be lower than the amount of VAT collected from you. The territories in the EU set out below are outside the scope of EU VAT under Council Directive 2006/112/EC on the common system of VAT, as amended. The Skype Website does not enable users in such territories to take advantage of this VAT exemption and we therefore do not provide the Products in such territories: Mount Athos, Canary Islands, French Overseas Departments, Aland Islands, Channel Islands, Heligoland Island, Büsingen / Buesingen Territory, Ceuta, Melilla, Livigno, Campione d'Italia and Italian Waters of Lake Lugano.
+*   h. **Outlook.com.** The Outlook.com (or @msn, @hotmail, or @live) email address that you use to create your Microsoft account will be unique to you for as long as your Outlook.com inbox or Microsoft account is still active. In the event your Outlook.com inbox or Microsoft account is closed either by you or by Microsoft pursuant to these Terms, the email address or username may be recycled into our system and assigned to another user.
 
-**8.5 Third-Party Charges:** Using the Software on mobile applications will use some of the data allowance available on the data package to which you have subscribed with your mobile network operator. Out-of-country usage may lead to significantly higher costs than regular usage, and you are solely responsible for keeping yourself informed and paying for possible roaming and other applicable charges levied by your mobile network operator.
+Full textOffice-based ServicesOffice-based Services14i\_officeBasedServicesSummary
 
-**9\. PAYMENT**
+*   i. **Office-based Services.** Office consumer-based services, applications, or products (including Sway and OneNote) are for your personal, noncommercial use, unless you have commercial use rights under a separate agreement with Microsoft.
 
-**9.1 Skype Credit.** You can pay for select Paid-For Products using Skype Credit. You can purchase Skype Credit using any payment method made available to you by Skype from time to time. The Skype Credit that you purchase will be credited to your User Account at the time of purchase (or if you are using a Skype Credit voucher, at the time you redeem that voucher).
+Full textMicrosoft Health ServicesMicrosoft Health Services14j\_MicrosoftHealthServicesSummary
 
-**9.2 Inactive Skype Credit.** If you do not use your Skype Credit for a period of 180 days, (including Skype Credit that has been allocated to you by a Skype Manager administrator (unless you are a Managed Account user, please see Section 21) or another Skype user) Skype will place your Skype Credit on inactive status. You can reactivate the Skype Credit by following the reactivation link in My Account at https://secure.skype.com/account/credit-reactivate. Reactivated Skype Credit is not refundable. If you are located in Japan and you buy Skype Credit from the Skype Website, this paragraph does not apply to you and your Skype Credit shall expire 6 months from the date of purchase. You are not permitted to use any Skype Credit on or after the date of its expiry.
+*   j. **Microsoft Health Services.**
+    *   i. **HealthVault.** HealthVault is intended for you to store your personal health-related information and information about other people (such as your family) with their consent. HealthVault accounts are not for use by healthcare providers or for any other commercial or non-personal purpose. The information in your account may not always be accurate or up-to-date and should be viewed by any health care provider as informational only. The HealthVault Service does not hold records for healthcare providers or other medical or case management purposes. For example, HealthVault records are not designated record sets as defined under U.S. regulations. If a healthcare provider decides to include any data made available from HealthVault in its records, it should store a copy in its own system. If there is a co-custodian of a record in your account (because one of you invited the other), you acknowledge that the co-custodian has full control over that record and may cancel your access to the record, manage other peoples' access to the record, and view the record's data including how and when the record is used. Microsoft does not support non-Microsoft credentials (such as Facebook and OpenID), so HealthVault customer support will not be able to help with sign-in issues for those. If you lose your sign-in credentials, or if the account where you got your credentials closes, you will not be able to recover your stored data. To help maintain continued access, we suggest you use more than one sign-in credential with your HealthVault account. Microsoft does not endorse or control, and is not responsible for, the operation, support, or security of non-Microsoft credentials you may use.
+    *   ii. **Microsoft Health and Microsoft Band.** Microsoft Health and the Microsoft Band are not medical devices and are intended for fitness and wellness purposes only. They are not designed or intended for use in the diagnosis of disease or other conditions, or in the cure, mitigation, treatment, or prevention of disease. Before starting or modifying any activity or sleep program using Microsoft Health, consult your physician. Microsoft is not responsible for any decision you make based on information you receive from Microsoft.
 
-**9.3 Other payment methods.** Skype does not guarantee that you will be able to use your Skype Credit balance to purchase all Products. Where Skype Credit cannot be used to pay for a Product, Skype will make another payment method available to you. Skype reserves the right to remove or amend the available payment methods at its sole discretion.
+Full textDigital GoodsDigital Goods14k\_DigitalGoodsSummary
 
-**9.4 Recurring Payments.** Where you purchase Products on a subscription basis (monthly, every 3 months or annually (as applicable)), you acknowledge and agree that this is a recurring payment and payments shall be made to Skype by the method you have chosen at the recurring intervals chosen by you, until the subscription for that Product is terminated by you or by Skype.
+*   k. **Digital Goods.** Through Microsoft Groove, Microsoft Movies &. TV, Store and any other related and future services, Microsoft may enable you to obtain, listen to, view, play or read (as the case may be) music, images, video, text, books, games or other material (**"Digital Goods"**) that you may get in digital form. The Digital Goods are only for your personal, noncommercial entertainment use. You agree not to redistribute, broadcast, publicly perform or publicly display or transfer any copies of the Digital Goods. Digital Goods may be owned by Microsoft or by third parties. In all circumstances, you understand and acknowledge that your rights with respect to Digital Goods are limited by these Terms, copyright law, and the usage rules located at http://go.microsoft.com/fwlink/p/?LinkId=723143. You agree that you will not attempt to modify any Digital Goods obtained through any of the Services for any reason whatsoever, including for the purpose of disguising or changing ownership or source of the Digital Goods. Microsoft or the owners of the Digital Goods may, from time to time, remove Digital Goods from the Services without notice.
 
-**9.5 Auto-Recharge.**
+Full textOneDriveOneDrive14l\_OneDriveSummary
 
-(a) You can enable the Auto Recharge feature when you buy Skype Credit by ticking the appropriate box. If enabled, your Skype Credit balance will be recharged with the same amount and by the same payment method chosen when you first sign up for Auto-Recharge. For example, if you purchase 10 Euros of Skype Credit with your credit card, the recharge amount charged to your credit card will also be 10 Euros of Skype Credit. In future the same amount will be charged to your credit card every time your Skype account balance goes below the threshold set by Skype from time to time.
+*   l. **OneDrive.**
+    *   i. **Storage Allocation.** If you have more content stored in your OneDrive account than is provided to you under the terms of your free or paid subscription service for OneDrive and you do not respond to notice from Microsoft to fix your account by removing excess content or moving to a new subscription plan with more storage, we reserve the right to close your account and delete or disable access to Your Content on OneDrive.
+    *   ii. **Service Performance.** Depending on factors such as your equipment, internet connection and Microsoft’s efforts to maintain the performance and integrity of its service, you may occasionally experience delays in uploading or syncing content on OneDrive.
 
-(b) If you purchased a subscription with a payment method other than credit card, PayPal or Moneybookers (Skrill), and you have enabled Auto-Recharge, your Skype Credit balance will be recharged with the amount necessary to purchase your next recurring subscription.
+Full textBinding Arbitration and Class Action WaiverBinding Arbitration and Class Action Waiver15\_bindingArbitrationSummary
 
-(c) You can disable Auto-Recharge at any time by accessing and changing your settings in your User Account.
+15\. **Binding Arbitration and Class Action Waiver If You Live In (or If a Business Your Principal Place of Business Is In) the United States.** We hope we never have a dispute, but if we do, you and we agree to try for 60 days to resolve it informally. If we can’t, you and we agree to **binding individual arbitration before the American Arbitration Association ("AAA") under the Federal Arbitration Act ("FAA"), and not to sue in court in front of a judge or jury**. Instead, a neutral arbitrator will decide and the arbitrator’s decision will be final except for a limited right of review under the FAA. **Class action lawsuits, class-wide arbitrations, private attorney-general actions, and any other proceeding where someone acts in a representative capacity aren’t allowed. Nor is combining individual proceedings without the consent of all parties.** "We," "our," and "us" includes Microsoft, Skype (see section 10) and Microsoft’s affiliates and, if you use Skype Pay by Mobile, your mobile phone carrier.
 
-**10\. REFUND POLICY**
+*   a. **Disputes Covered—Everything Except IP.** The term "dispute" is as broad as it can be. It includes any claim or controversy between you and us concerning the Services, the software related to the Services, the Services’ or software’s price, your Microsoft account, your Skype account, or these Terms, under any legal theory including contract, warranty, tort, statute, or regulation, **except disputes relating to the enforcement or validity of your, your licensors’, our, or our licensors’ intellectual property rights**.
+*   b. **Mail a Notice of Dispute First.** If you have a dispute and our customer service representatives can’t resolve it, send a Notice of Dispute by U.S. Mail to **Microsoft Corporation, ATTN: CELA Arbitration, One Microsoft Way, Redmond, WA 98052-6399, U.S.A.** (or to your mobile phone carrier at its principal place of business in the United States marked ATTN: Legal Department). Tell us your name, address, how to contact you, what the problem is, and what you want. A form is available at http://go.microsoft.com/fwlink/?LinkId=245499. We’ll do the same if we have a dispute with you. After 60 days, you or we may start an arbitration if the dispute is unresolved.
+*   c. **Small Claims Court Option.** Instead of mailing a Notice of Dispute, you may sue us in small claims court in your county of residence (or if a business your principal place of business) or King County, Washington, U.S.A. if you meet the court’s requirements.
+*   d. **Arbitration Procedure.** The AAA will conduct any arbitration under its Commercial Arbitration Rules (or if you are an individual and use the Services for personal or household use, or if the value of the dispute is $75,000 or less whether or not you are an individual or how you use the Services, its Consumer Arbitration Rules). For more information, see www.adr.org or call 1-800-778-7879. To start an arbitration, submit the form available at http://go.microsoft.com/fwlink/?LinkId=245497 to the AAA and mail a copy to us. In a dispute involving $25,000 or less, any hearing will be telephonic unless the arbitrator finds good cause to hold an in-person hearing instead. Any in-person hearing will take place in your county of residence (or if a business your principal place of business) or our principal place of business—King County, Washington if your dispute is with Microsoft. You choose. The arbitrator may award the same damages to you individually as a court could. The arbitrator may award declaratory or injunctive relief only to you individually to satisfy your individual claim.
+*   e. **Arbitration Fees and Payments.**
+    *   i. **Disputes Involving $75,000 or Less.** We will promptly reimburse your filing fees and pay the AAA’s and arbitrator’s fees and expenses. If you reject our last written settlement offer made before the arbitrator was appointed, your dispute goes all the way to an arbitrator’s decision (called an “award”), and the arbitrator awards you more than this last written offer, we will: (i) pay the greater of the award or $1,000. (ii) pay your reasonable attorney’s fees, if any. and (iii) reimburse any expenses (including expert witness fees and costs) that your attorney reasonably accrues for investigating, preparing, and pursuing your claim in arbitration.
+    *   ii. **Disputes Involving More than $75,000.** The AAA rules will govern payment of filing fees and the AAA’s and arbitrator’s fees and expenses.
+*   f. **Conflict with AAA Rules.** These Terms govern to the extent they conflict with the AAA’s Commercial Arbitration Rules or Consumer Arbitration Rules.
+*   g. **Must File Within One Year.** You and we must file in small claims court or arbitration any claim or dispute (except intellectual property disputes—see section 15(a)) within one year from when it first could be filed. Otherwise, it's permanently barred.
+*   h. **Rejecting Future Arbitration Changes.** You may reject any change we make to section 15 (except address changes) by sending us notice within 30 days of the change by U.S. Mail to the address in section 15(b). If you do, the most recent version of section 15 before the change you rejected will apply.
+*   i. **Severability.** If the class action waiver is found to be illegal or unenforceable as to all or some parts of a dispute, then those parts won’t be arbitrated but will proceed in court, with the rest proceeding in arbitration. If any other provision of section 15 is found to be illegal or unenforceable, that provision will be severed but the rest of section 15 still applies.
+*   j. **Mobile Phone Carrier as Third-Party Beneficiary.** If you use Skype Pay by Mobile, your mobile phone carrier is a third-party beneficiary of your agreement with Microsoft and Skype to resolve disputes through informal negotiation and arbitration. Your mobile phone carrier agrees to do everything Microsoft and Skype agree to do in section 15.
 
-**10.1** When you purchase Paid-For-Products directly from Skype you will be entitled to a cancellation period of fifteen (15) days (a **“Cooling-Off Period”**) unless you have made use of the Paid-For-Products in any way, in which case the Cooling-Off Period will be extinguished and your purchase cannot be cancelled or refunded.
-
-**10.2** Outside of the Cooling-Off Period, only subscriptions are refundable unless used or expired.
-
-**10.3** Expenditure of Skype Credit, allocation of a Skype Number, or use of any aspect of a subscription amounts to “use” of a Paid-For-Product. You hereby expressly agree that Skype Numbers may be allocated before the end of the Cooling-Off Period and become non-refundable upon allocation.
-
-**10.4** The Cooling-Off Period and refunds do not apply to Paid-For-Products that are (i) purchased via a third party partner of Skype (please contact the partner directly, who may decide in its sole discretion whether or not to pay a refund), (ii) not directly acquired online from Skype (e.g. vouchers or pre-paid cards) (iii) paid for in cash using third party payment methods (such as a cash payment wallet) and (iv) paid for and allocated to your Skype Account by a Skype Manager administrator or another Skype user. They also do not apply to Membership of Skype Developer.
-
-**10.5** If, within the Cooling-Off Period, you wish to cancel and obtain a refund for a Paid-For-Product which (i) has not been “used” in accordance with Section 10.3 and (ii) does not fall within Section 10.4, you can complete our Withdrawal Form found here. For more information on how to complete the Withdrawal Form see here.
-
-**10.6** If you believe that Skype has charged you in error, you must contact Skype Customer Services within 90 days of such charge. No refunds will be given for any charges more than 90 days old.
-
-**10.7** Skype reserves the right to refuse a refund request if it reasonably believes (i) that you are trying to unfairly exploit this refund policy, for example, by making repetitive refund requests in respect of the same Product. (ii) if you are in breach of these Terms or (iii) if Skype reasonably suspects that you are using our Products or Software fraudulently or that your User Account is being used by a third party fraudulently.
-
-**10.8** This refund policy does not affect your statutory rights.
-
-**11\. ENDING YOUR RELATIONSHIP WITH SKYPE**
-
-**11.1** You may terminate your relationship with Skype at any time and without recourse to the courts by requesting closure of your User Account, ceasing to use the Software, Products and/or Skype Websites and cancelling any recurring payments.
-
-**11.2** Skype may terminate its relationship with you, or may terminate or suspend your use of the Software, User Account(s), Products or Skype Websites at any time and without recourse to the courts:
-
-(a) if you are in breach of these Terms;
-
-(b) if Skype reasonably suspects that you are using the Software, the Products and/or Skype Websites to break the law or infringe third party rights;
-
-(c) if Skype reasonably suspects that you are trying to unfairly exploit or misuse the refund policy, or any of our policies.
-
-(d) if Skype reasonably suspects that you are using our Products, Software and/or Skype Websites fraudulently or that your User Account is being used by a third party fraudulently;
-
-(e) if you have purchased Skype Credit from an unauthorised reseller;
-
-(f) in respect of a particular Product, on thirty (30) days notice if Skype decides to cease offering that Product;
-
-(g) immediately, if (in Skype’s reasonable discretion) required due to a change in or adverse interpretation of laws/regulation or where required by a regulator or authority with a lawful mandate, or by any of Skype’s partners;  
-
-(h) on thirty (30) days notice if Skype decides to cease offering the Software to users in your jurisdiction generally.
-
-**11.3** Skype shall effect such termination by preventing your access to your User Account, the Software, Products and/or Skype Websites (as applicable). We reserve the right to cancel User Accounts that have been inactive for more than one (1) year.
-
-**11.4 Consequences of Termination:** Upon termination of your relationship with Skype: (a) all licenses and rights to use the Software, Products and/or Skype Websites shall immediately terminate. (b) you will immediately cease any and all use of the Software, Products and/or Skype Websites. and (c) you will immediately remove the Software from all hard drives, networks and other storage media and destroy all copies of the Software in your possession or under your control.
-
-**12\. EXCLUSION OF WARRANTIES, LIMITATION OF LIABILITY AND INDEMNITY**
-
-**12.1** For the purposes of this paragraph 12, "Skype" includes its subsidiary companies and affiliated legal entities and all their directors, officers, agents, licensors and employees.
-
-**12.2** No Warranties: TO THE MAXIMUM EXTENT PERMITTED BY LAW: THE SOFTWARE, PRODUCTS AND SKYPE WEBSITES ARE PROVIDED “AS IS” AND USED AT YOUR SOLE RISK WITH NO WARRANTIES WHATSOEVER. SKYPE DOES NOT MAKE ANY WARRANTIES, CLAIMS OR REPRESENTATIONS AND EXPRESSLY DISCLAIMS ALL SUCH WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED OR STATUTORY, WITH RESPECT TO THE SOFTWARE, PRODUCTS AND/OR SKYPE WEBSITES INCLUDING, WITHOUT LIMITATION, WARRANTIES OR CONDITIONS OF QUALITY, PERFORMANCE, NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR USE FOR A PARTICULAR PURPOSE. SKYPE FURTHER DOES NOT REPRESENT OR WARRANT THAT THE SOFTWARE, PRODUCTS AND/OR SKYPE WEBSITES WILL ALWAYS BE AVAILABLE, ACCESSIBLE, UNINTERRUPTED, TIMELY, SECURE, ACCURATE, COMPLETE AND ERROR-FREE OR WILL OPERATE WITHOUT PACKET LOSS, NOR DOES SKYPE WARRANT ANY CONNECTION TO OR TRANSMISSION FROM THE INTERNET, OR ANY QUALITY OF CALLS MADE THROUGH THE SOFTWARE.
-
-**12.3** Nothing in these Terms shall exclude or restrict Skype's liability for (a) death or personal injury, (b) loss resulting from Skype's wilful default or gross negligence, (c) fraud or deliberate misrepresentation, or (d) any liability which cannot be limited or excluded by applicable law.
-
-**12.4 No Liability:** YOU ACKNOWLEDGE AND AGREE THAT SKYPE WILL HAVE NO LIABILITY WHATSOEVER, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE) OR ANY OTHER THEORY OF LIABILITY, AND WHETHER OR NOT THE POSSIBILITY OF SUCH DAMAGES OR LOSSES HAS BEEN NOTIFIED TO SKYPE, IN CONNECTION WITH OR ARISING FROM YOUR USE OF SKYPE WEBSITES, OR THE INTERNET COMMUNICATIONS SOFTWARE OR OTHER SOFTWARE THAT IS PROVIDED FREE OF CHARGE. YOUR ONLY RIGHT OR REMEDY WITH RESPECT TO ANY PROBLEMS OR DISSATISFACTION WITH SUCH SOFTWARE AND/OR SKYPE WEBSITES IS TO IMMEDIATELY DEINSTALL SUCH SOFTWARE AND CEASE USE OF SUCH SOFTWARE AND/OR SKYPE WEBSITES.
-
-**12.5 Limitation of Liability:** Subject to paragraphs 12.3 and 12.4 above, Skype shall not be liable to you, whether in contract, tort (including negligence) or any other theory of liability, and whether or not the possibility of such damages or losses has been notified to Skype, for:
-
-(a) any indirect, special, incidental or consequential damages. or
-
-(b) any loss of income, business, actual or anticipated profits, opportunity, goodwill or reputation (whether direct or indirect). or
-
-(c) any damage to or corruption of data (whether direct or indirect);
-
-(d) any claim, damage or loss (whether direct or indirect ) arising from or relating to:
-
-(i) your inability to use the Software, including any Enabled Versions, to contact Emergency Services;
-
-(ii) your failure to make additional arrangements to access Emergency Services in accordance with paragraph 5.5 above;
-
-(iii) the limitations set out in paragraph 5.6;
-
-(iv) your failure to provide accurate physical location information to an Emergency Services operative. or
-
-(v) conduct of third party Emergency Services operatives and calling centres to which you may be connected.
-
-(e) any claim, damage or loss (whether direct or indirect) arising from or relating to:
-
-(i) any product or service provided by a third party under their own terms of service, including without limitation, Skype WiFi;
-
-(ii) any Other Technology;  
-
-(iii) any third party website.
-
-**12.6** Subject to paragraphs 12.3 - 12.5 above, Skype’s total liability to you under or in connection with these Terms (whether in contract, tort (including negligence) or any other theory of liability)) SHALL NOT EXCEED IN AGGREGATE THE AMOUNT PAID BY YOU FOR THE PRODUCTS IN THE 12 MONTH PERIOD IMMEDIATELY PRIOR TO THE DATE OF THE EVENT GIVING RISE TO THE RELEVANT CLAIM, SUBJECT TO A MAXIMUM OF FIVE THOUSAND EUROS IN ALL CASES.
-
-**12.7** If any third party brings a claim against Skype in connection with, or arising out of (i) your breach of these Terms. (ii) your breach of any applicable law of regulation. (iii) your infringement or violation of the rights of any third parties (including intellectual property rights). (iv) your User Submissions or (v) your complaint in relation to any User Submission, you will indemnify and hold Skype harmless from and against all damages, liability, loss, costs and expenses (including reasonable legal fees and costs) related to such claim.
-
-**13\. THIRD-PARTY WEBSITES, PRODUCTS AND SERVICES**
-
-**13.1** Third parties may offer products or services via the Software and/or Skype Websites, including games, applications, images, ring tones, or avatars. Whilst Skype takes no responsibility for such products or services, if you encounter any problems with payment for or download, use of installation of such products or services, Skype will use commercially reasonable endeavours to assist or resolve the problems. The third party products or services may be subject to the third party provider’s own terms and privacy policy that you may have to accept upon download or installation. You should review such terms before making any purchase or using any third party product or service and Skype shall not be responsible for your failure to do so.
-
-**13.2** You acknowledge and agree that any third-party product information and pricing that is shown on the Skype Websites regarding third-party products and services is given to Skype by the applicable third-party merchant (“Merchant”). The Merchant has the ability to change its pricing or terminate its product availability at any time. Skype is not involved in any transactions between you and any Merchant whose products and/or services are listed on the Skype Websites. Skype does not control, is not responsible for and does not guarantee: (i) the pricing, quality, performance, availability or terms and conditions of purchase of products or services provided by the Merchant. (ii) any payment transactions, delivery, returns or after sales activities related to the products or services purchased on the Merchants’ websites. (iii) the availability of the Merchant’s websites. (iv) the completeness, truth or accuracy of any advertising or other materials on, or available from, the Merchants’ websites, nor any listing or other content about such products and services displayed on the Skype Websites. (v) links to the Merchants’ websites that are featured on the Skype Websites. Any questions, complaints, or claims related to any product or service provided by a Merchant should be directed to the applicable Merchant.
-
-**13.3** The Software and Skype Websites may include hyperlinks to other third party websites. Skype is not responsible for such third party websites or the availability of such websites and does not endorse any content or material on such third party websites. Your use of each of these third party websites is subject to the terms and conditions posted on the applicable website.
-
-**14\. ADDITIONAL TERMS**
-
-**14.1** The Skype Etiquette provides guidelines on how to use Skype and how to treat the other members of Skype’s community properly and respectfully. Please read these guidelines carefully which form part of the Terms.
-
-**14.2** If you want to use the Internet Communications Software in connection with any Broadcast, you must comply with the Broadcast TOS at http://www.skype.com/legal/broadcast
-
-**14.3** Software Development Kits and APIs. Software development kits provided through Skype Developer on the Skype Website (including “SkypeKit”) and the use of any application program interface (“API”) exposed or made available by Skype are subject to their own licensing terms in which case such licensing terms will govern your use of that software. If you use any such software development kit or API (as applicable) you agree that you have read and will comply with the applicable licensing terms, which are available on http://developer.skype.com/.
-
-**15\. YOUR CONFIDENTIAL INFORMATION AND YOUR PRIVACY**
-
-Skype is committed to respecting your privacy and the confidentiality of your personal information. We will process your personal information, the traffic data and the content of your communication(s) in accordance with our Privacy Policy: http://www.skype.com/go/privacy.
-
-**16\. FOR GOVERNMENT USERS ONLY**
-
-The Software and Documentation are “commercial computer software” and “commercial computer software documentation,” respectively, as such terms are used in United States Federal Acquisition Regulations paragraph 12.212. Any use, duplication or disclosure of the Software or the Documentation by or on behalf of the U.S. Government is subject to restrictions as set forth in this Agreement.
-
-**17\. HOW TO CONTACT SKYPE**
-
-**17.1** To contact Skype in relation to the Skype Software or “Skype” branded Products, please submit a support request to support.skype.com.
-
-**17.2** If you contact Skype by any means other than as set out in paragraph 17.1, your request may not be acknowledged.
-
-**18\. MISCELLANEOUS**
-
-**18.1** You agree to the use of electronic communication in order to enter into contracts, place orders, and create other records and to the electronic delivery of notices, policies and changes thereto and records of transactions with Skype.
-
-**18.2** For your convenience, Skype may provide you with a translation of the English language version of these Terms. In the event of any inconsistency between a non-English version of these Terms and the English version, the English version shall govern your relationship with Skype.
-
-**18.3** These Terms (and where applicable, the Microsoft Software License Agreement) constitute the entire agreement between you and Skype with respect to your use of the Software, Products and/or Skype Websites and replace any prior agreements between you and Skype with respect to the Software, Products and/or Skype Websites.
-
-**18.4** If any provision of these Terms (or part of it), is found by any court or administrative body of competent jurisdiction or an arbitrator to be illegal, invalid or unenforceable, then such provision (or part of it) shall be removed from the Terms without affecting the legality, validity or enforceability of the remainder of the Terms. Paragraph 20.3(i) says what happens if parts of paragraph 20.3 (arbitration and class action waiver) are found to be illegal, invalid or unenforceable. Paragraph 20.3(i) prevails over this paragraph if inconsistent with it. In the event of any direct conflict between these Terms and the Microsoft Software License Agreement, the Microsoft Software License Agreement will apply if you are using a version of the Software that is included with Windows 8.1 or later.
-
-**18.5** The failure by Skype to exercise, or delay in exercising, a legal right or remedy provided by these Terms or by law shall not constitute a waiver of Skype’s right or remedy. If Skype waives a breach of these Terms, this shall not operate as a waiver of a subsequent breach of the Terms.
-
-**18.6** You may not assign these Terms or any rights or obligations contained in them. Skype may, without prior notice, assign these Terms or any rights or obligations contained in them to any third party.
-
-**18.7** This paragraph 18, along with paragraphs, 4.2, 12, 20.3 and any other provisions, which are expressed or clearly intended to survive or operate in the event of termination, shall survive termination of the Terms.
-
-**18.8** You acknowledge and agree that if Skype is unable to provide the Software, Products and/or Skype Websites as a result of a force majeure event, Skype will not be in breach of any of its obligations towards you under these Terms. A force majeure event means any event beyond the control of Skype.
-
-**18.9** These Terms other than paragraph 20.3 shall be governed by and interpreted in accordance with the laws of Luxembourg and shall be subject to the jurisdiction of the courts of the district of Luxembourg. Paragraph 20.3 is governed by the United States Federal Arbitration Act.
-
-**18.10** AVC/H.264 NOTICE: If the Software is used to make video calls (i) between a personal computer and a device that is not a personal computer or (ii) between devices that are not personal computers, the AVC/H.264 codec may be used to facilitate video functionality in which case the following notice applies: THE AVC VIDEO FUNCTIONALITY IN THIS PRODUCT IS LICENSED UNDER THE AVC PATENT PORTFOLIO LICENSE FOR THE PERSONAL AND NON-COMMERCIAL USE OF A CONSUMER TO (i) ENCODE VIDEO IN COMPLIANCE WITH THE AVC STANDARD (“AVC VIDEO”) AND/OR (ii) DECODE AVC VIDEO THAT WAS ENCODED BY A CONSUMER ENGAGED IN A PERSONAL AND NON-COMMERCIAL ACTIVITY AND/OR WAS OBTAINED FROM A VIDEO PROVIDER LICENSED TO PROVIDE AVC VIDEO. NO LICENSE IS GRANTED OR SHALL BE IMPLIED FOR ANY OTHER USE. ADDITIONAL INFORMATION MAY BE OBTAINED FROM MPEG LA, L.L.C. SEE www.mpegla.com.
-
-**19\. PRODUCT SPECIFIC TERMS**
-
-**19.1 Skype Numbers and Skype To Go numbers**
-
-(a) **Availability and use.** Where we provide you with a Skype Number or Skype To Go number, you agree that:
-
-(i) you do not own the number or have a right to retain that number forever;
-
-(ii) the number provided to you is subject to applicable numbering rules and regulatory practices;
-
-(iii) you will comply on an ongoing basis with any specific number allocation requirements that we make you aware of, or any reasonable instructions that Skype or Skype’s partners may give to you with regard to the use of the numbers and the Products;
-
-(iv) you will not transfer or attempt to transfer your number to any third party. In particular, you are responsible for compliance with any requirements related to residency and or location. and
-
-(v) you will supply accurate, complete and up-to-date information to us where we request it and inform us where such information changes. Skype reserves the right to change the terms related to Skype Numbers and/or Skype To Go numbers, including without limitation to impose or amend any residency requirements and/or require the provision of further user information for continued access to such numbers. In certain countries, a number may be made available to you by a Skype partner rather than Skype, and you may need to enter into a separate agreement with such partner.
-
-(b) **Other changes to numbers.** If Skype needs to withdraw or change the number that has been made available to you, Skype will use commercially reasonable endeavours to notify you by e-mail, stating the effective date of the change and where possible, your new number. If you do not wish to accept this new number, you are entitled to terminate your number.
-
-**19.2 User Account on Skype Manager**
-
-(a) You are not permitted to belong to more than one Skype Manager at the same time.
-
-(b) Any Skype Number purchased before 21 July 2009 and allocated to you by a Skype Manager administrator shall be taken back by the administrator of the Skype Manager, if you leave the Skype Manager account for any reason. The right to use the number and the cancellation of such right rest with the Skype Manager administrator at his/her sole discretion and not you.
-
-(c) Personal and traffic data – Members. As a member of a Skype Manager account you acknowledge and agree that the administrator of the Skype Manager may, if you agree, view detailed information about the activity on your User Account including the time, date, duration and destination number of calls and SMS made and details of your purchases and downloads. You can withdraw your agreement at any time by changing the settings on your User Account. If you provide personal data including your name and job title to be included on the Skype Manager directory, you acknowledge that other members of that Skype Manager may view such data.
-
-**19.3 Subscriptions**
-
-(a) **Fair Usage Policy.** At Skype, we want all of our customers to get the best calling plans, known as ‘subscriptions’, at the lowest possible price. This Fair Usage Policy ("FUP") is designed to prevent fraud and abuse of our subscriptions by a small number of users.
-
-Subject to this FUP, Skype’s unlimited subscriptions allow unlimited calls to landlines (and mobiles in certain countries) in the applicable subscription countries (excluding special, premium, service and non-geographic numbers). The countries included within your subscription are set at the time of original purchase and remain the same upon renewal. All calls will be disconnected and require a re-dial after a 2-hour duration.
-
-Skype’s subscriptions are for individual use only (personal or business communications) in accordance with our Terms of Use and this FUP (“Legitimate Use”). The following is a non-exhaustive list of practices that would not be considered Legitimate Use:
-
-(i) Using subscriptions for telemarketing or call centre operations;
-
-(ii) Re-selling subscription minutes;
-
-(iii) Sharing subscriptions between users whether via a PBX, call centre, computer or any other means;
-
-(iv) Calling numbers (whether singly, sequentially or automatically) to generate income for yourself or others as a result of merely placing the call, other than for your individual business communications (and subject to paragraph 4.1 of the Terms of Use). and
-
-(v) Unusual calling patterns inconsistent with normal, individual subscription use, for example, regular calls of short duration or calls to multiple numbers in a short period of time.
-
-Other practices may be relevant in determining Legitimate Use and Skype reserves the right to take any unlawful, prohibited, abnormal or unusual activity into account in making its determination. Skype may at its option, terminate its relationship with you, or may suspend your subscription immediately if it determines you are using your subscription contrary to this FUP or Skype’s Terms of Use. Where reasonable, Skype will provide you with notice of improper usage before suspension or termination of your subscription and, if appropriate, Skype may offer you an alternative subscription.
-
-(b) Skype reserves the right to withdraw or change the subscriptions at any time. If Skype changes the Products included in your subscription, Skype will notify you by email stating the changes and their effective date. If you do not wish to accept these changes, you are entitled to terminate your subscription, with effect from the date on which the changes are due to take effect.
-
-(c) The “Unlimited World Extra” subscription has a minimum fixed term of 2 years from the date of purchase. You are not permitted to terminate it before the expiry of the 2-year minimum term except in case of breach by Skype of the Terms. This subscription is billed monthly as a recurring payment.
-
-**19.4 Skype WiFi**
-
-Skype WiFi is provided by one of Skype’s WiFi partners. Your use of Skype WiFi is subject to that partner’s terms of service. Before you start a Skype WiFi session at a specific WiFi hotspot, you will be notified of the identity of the WiFi provider and their terms of service. You will have to read their terms of service, which you agree to be subject to by proceeding with the Skype WiFi session. You can pay for Skype WiFi using your Skype Credit balance, and your use of Skype Credit is subject to these Terms of Service.
-
-**19.5 SMS**
-
-Each SMS message has a limit of 160 characters. If you type a longer message it will be broken down into several SMS messages and you will be charged for each message sent. If you send SMS messages to more than one person you will be charged for each SMS sent to each recipient. If Skype cannot (for whatever reason) send your SMS, Skype will continue to try and send the message for up to 24 hours after which time the SMS charge will be refunded to your Skype Credit balance automatically if delivery is unsuccessful.
-
-**19.6 Group Video Calling**
-
-(a) A fair usage policy applies at www.skype.com/go/terms.gvc.fairusage and is incorporated herein by reference. Skype reserves the right to change the fair usage policy at any time. Changes shall become effective when published on the Skype Website. Your continued use of group video calling after publication on the Skype Website shall constitute your acceptance to be bound by the terms and conditions of the revised fair usage policy.
-
-(b) Number of Participants. The number of permitted participants on a group video call varies from 3 to a maximum of 10, subject to system requirements. You can find more details at www.skype.com/go/gvc.
-
-(c) Audio Conversion. If your group video call exceeds the fair usage limit, then the call will convert from video to audio.
-
-(d) Software Versions. If a participant of a group video call is not on a version of Internet Communications Software that supports group video calls, then the call will be an audio call only for that participant. For details of the system requirements for group video calling, please see www.skype.com/go/gvc
-
-**19.7 Skype Video Messaging (“Video Messaging”)**
-
-Subject to our Fair Usage Policy (“FUP”) below, there are no limits on the number of Video Messages you can send. If you are not a Skype Premium subscriber, Video Messages will be kept for a minimum of 6 months from the date sent and may expire after that time.
-
-**Fair Usage Policy:** This FUP is designed to prevent fraud and abuse of Video Messaging. Video Messaging is for personal, individual and non-commercial use only, and to be in accordance with these Terms at all times (“Legitimate Use”). Skype reserves the right to take any unlawful, prohibited, abnormal or unusual activity into account in making its determination as to whether your activity does not constitute Legitimate Use. Skype may in its option, terminate its relationship with you, or suspend your account immediately if it determines you are using Video Messaging contrary to this FUP or these Terms.
-
-**19.8 Reverse Charge Calling:** Reverse charge calling is made available to the following destinations through a partner of Skype. There is no charge to you and a Skype Credit balance or a subscription is not required. However, you will be required to provide your name via voice prompt to the person you are calling and they will need to accept the fixed charges associated with the reverse charge call where this functionality is supported by their local communication provider. Reverse charge calls last no more than 60 minutes, after which time a re-dial will be required by you.
-
-**20\. PAY BY MOBILE**
-
-**20.1** This section applies if you select a third-party payment system that enables you to pay for Skype Credit and certain Paid for Products via your mobile phone bill where applicable (**“Pay by Mobile”**).
-
-**20.2** By selecting or using Pay by Mobile:
-
-(a) You authorise your mobile phone carrier to charge appropriate fees directly to your mobile phone bill. and
-
-(b) You represent that you are the person or entity responsible for the mobile phone account associated with the mobile number you provide when using Pay by Mobile, or are authorised by that person or entity to incur such charges.
-
-**21\. SKYPE MANAGER AND MANAGED ACCOUNTS**
-
-**21.1 Responsibility For Managed Accounts.** A “Managed Account” is a Skype account that is created and managed by you, acting as an individual administrator of your Skype Manager and not as a business entity. You may appoint additional administrators to your Skype Manager, subject to their acceptance of these terms. You are responsible for all usage of the Skype Products and Skype Software in connection with your Managed Accounts, including without limitation, any acts and omissions of any of additional administrators or Managed Account users. You shall ensure that additional administrators and Managed Account users comply with these Terms
-
-**21.2 Email and Password.** You shall allocate an email address to each of your Managed Accounts. The email address may only be changed by you, as administrator. You can allocate a password to your Managed Accounts or you may invite a Managed User to set up their own password. Passwords must not be shared.
-
-**21.3 Reallocation and Deletion of Managed Accounts.** Administrators may reallocate or delete Managed Accounts. Prior to deletion, you can reclaim remaining Skype Credit and Skype Numbers that you have allocated to Managed Accounts and re-allocate to other Managed Accounts. If you choose to delete a Managed Account then any allocated Subscriptions, and any unclaimed Skype Credit and Skype Numbers allocated to the Managed Account will be lost. Any call and SMS history associated with the deleted Managed Account will no longer be accessible to you. Skype reserves the right to cancel Managed Accounts that have been inactive for more than one year.
-
-**21.4 Individual Use Only.** Managed Accounts are for individual use only and may not be shared.
-
-**21.5 Data of Managed Account users.** You shall inform each of your Managed Account users that you and any administrators of your Skype Manager may have access to their personal and traffic data. You acknowledge and agree that you shall process (and shall ensure that your administrators shall process) such personal data in accordance with all applicable data protection laws.
-
-**21.6 Skype Numbers.** Subject to Section 19.1, you may purchase and allocate Skype Numbers to a Managed Account. You are responsible for compliance with any requirements related to the residence and/or the location of your Managed Account users. Skype Numbers allocated to a Managed Account may be used as the CLI for that Managed Account. No mobile or landline numbers can be allocated to a Managed Account as a CLI.
-
-**21.7 Skype Credit.** Unless you are located in Japan, Skype Credit purchased by you via your Skype Manager, that has not been allocated to a Skype account does not expire. Please refer to Section 10 for our Refund Policy. Skype Credit that has been allocated by you to a Managed Account can be withdrawn by you and re-allocated to your Skype Manager Credit Balance at any time. You cannot withdraw Skype Credit that you allocate to a Skype account that is not a Managed Account. If you are located in Japan, please refer to Section 9.2.
-
-**21.8 Skype Products.** Managed Account users cannot purchase Skype Products for use through their Managed Account and can only use Skype Products that have been allocated to their Managed Account by you.
-
-**22\. SKYPE CONNECT**
-
-**22.1 Permitted Use and Restrictions.**
-
-(a) Skype Connect is only available to use through a Managed Account that is set up through Skype Manager. Before using Skype Connect, you will be required to set up a SIP profile and purchase a Skype Connect Channel Subscription. You may set up and link one or more Managed Accounts to a SIP profile that you create in order to enable you to receive voice calls into your PBX and any other certified Skype Connect equipment.
-
-(b) You may delete a SIP profile at any time. If you choose to delete a SIP profile, you will lose all current configuration details and call history relating to this SIP profile and you will not be able to make or receive any calls using this SIP profile. Any Skype Numbers and Skype Credit that you have allocated to that SIP profile may be taken back to the Skype Manager and reallocated before the SIP Profile is deleted. Channel Subscriptions may not be taken back to the Skype Manager and will no longer be available once the SIP profile has been deleted.
-
-(c) Subject to Section 19.1, you may purchase and allocate Skype Numbers to a SIP Profile. The maximum number of Skype Numbers you can allocate to a SIP profile is 99. Skype Numbers allocated to a SIP Profile may be used as the CLI for that SIP Profile. No mobile or landline numbers can be allocated to a Managed Account as a CLI for a SIP Profile.
-
-(d) Managed Accounts using Skype Connect may only be used with your PBX and may not be used on a personal computer, mobile or other device unless and until you cease using it with Skype Connect.
-
-(e) Skype Connect should not be used as a standalone service but as a secondary communications channel only in connection with traditional telephone services. When using Skype Connect you shall configure your PBX and any other certified Skype Connect equipment so that all emergency calls are terminated through a standard landline connection or another telephone service that supports emergency calling.
-
-**22.2 Channel Subscriptions**
-
-(a) You must purchase a monthly Channel Subscription in order to set up a SIP Profile and use Skype Connect. You need to have a sufficient balance of Skype Credit in Your Skype Manager in order to purchase a Channel Subscription.
-
-(b) A Channel Subscription is payable monthly using the Skype Credit in Your Skype Manager. This is a recurring payment and payments shall be made to Skype at monthly intervals using Skype Credit until the Channel Subscription is terminated by you or by Skype. If you do not have sufficient Skype Credit then you will not be able to purchase the Channel Subscription or use Skype Connect with that SIP Profile, until you deposit sufficient Skype Credit into your Skype Manager. You must purchase a separate Channel Subscription for each SIP Profile that you set up.
-
-(c) The monthly fee payable for a Channel Subscription varies according to the number of concurrent calling channels that you wish to use with a SIP Profile. A SIP profile supports from 1 to 300 concurrent calling channels. A SIP Profile can have multiple concurrent calling channels and each channel allows one inbound or one outbound call at any time.
-
-(d) In addition to the monthly fee payable for a Channel Subscription, Skype rates for calling phones are payable for all outgoing calls made using Skype Connect. Such rates shall be payable using the Skype Credit in Your SIP Profile. You need a sufficient balance of Skype Credit in Your SIP Profile in order to make and pay for calls to phones. The minimum duration of a billed Skype Connect call is 30 seconds. After the first 30 seconds, Skype Connect calls are billed at increments of 6 seconds thereafter. Fractions of less than 6 seconds will be rounded up. Skype Connect calls do not incur a connection fee.
-
-(e) Other than the monthly fee for the Channel Subscription, no additional charges are payable for receiving incoming calls on Skype Connect.
-
-(f) The fees payable for a Channel Subscription are set out at: http://www.skype.com/go/business.sip.pricing.
-
-(g) You are not able to use Skype Connect unless you have purchased a Channel Subscription. If you do not purchase a Channel Subscription, any existing SIP Profile shall be disabled and you will not be able to make or receive calls using Skype Connect.
-
-(h) You may change the number of concurrent calling channels included in your Channel Subscription at any time by cancelling the current number and setting up a new recurring payment for the new number of concurrent calling channels. Skype will refund the unexpired amount of the most recent monthly fee that you paid for your current Channel Subscription. The new recurring monthly payment shall begin on the date upon which you change the number of concurrent calling channels.  
-
-**YOU EXPRESSLY ACKNOWLEDGE THAT YOU HAVE READ THESE TERMS AND UNDERSTAND THE RIGHTS, OBLIGATIONS, TERMS AND CONDITIONS SET FORTH HEREIN. BY CLICKING ON THE ACCEPT BUTTON AND/OR CONTINUING TO INSTALL THE SOFTWARE OR USE THE SOFTWARE, PRODUCTS AND/OR SKYPE WEBSITES, YOU EXPRESSLY CONSENT TO BE BOUND BY ITS TERMS AND CONDITIONS AND GRANT TO SKYPE THE RIGHTS SET FORTH HEREIN.**
-
-© Skype and/or Microsoft – Last updated: 31 December 2014
-
-Call Send SMS Add to Skype You'll need Skype CreditFree via Skype
+Full textMiscellaneousMiscellaneous16\_17\_18\_miscellaneousSummary
+
+16\. **Miscellaneous.** This section, and sections 1, 9 (for amounts incurred before the end of these Terms), 10, 11, 12, 13, 15, and those that by their terms apply after the Terms end will survive any termination or cancellation of these Terms. We may assign these Terms, in whole or in part, at any time without notice to you. You may not assign your rights or obligations under these Terms or transfer any rights to use the Services. This is the entire agreement between you and Microsoft for your use of the Services. It supersedes any prior agreements between you and Microsoft regarding your use of the Services. All parts of these Terms apply to the maximum extent permitted by relevant law. If a court or arbitrator holds that we can't enforce a part of these Terms as written, we may replace those terms with similar terms to the extent enforceable under the relevant law, but the rest of these Terms won't change. Section 15(i) says what happens if parts of section 15 (arbitration and class action waiver) are found to be illegal or unenforceable. Section 15(i) prevails over this section if inconsistent with it. Except for section 15 (arbitration and class action waiver) these Terms are solely for your and our benefit. they aren’t for the benefit of any other person, except for Microsoft’s successors and assigns.
+
+17\. **Export Laws.** You must comply with all domestic and international export laws and regulations that apply to the software and/or Services, which include restrictions on destinations, end users, and end use. For further information on geographic and export restrictions, visit http://go.microsoft.com/fwlink/?linkid=141397 and http://www.microsoft.com/exporting.
+
+18\. **Unsolicited Ideas.** Microsoft does not consider or accept unsolicited proposals or ideas, including without limitation ideas for new products, technologies, promotions, product names, product feedback and product improvements (**"Unsolicited Feedback"**). If you send any Unsolicited Feedback to Microsoft through the Services or otherwise, you acknowledge and agree that Microsoft shall not be under any obligation of confidentiality with respect to the Unsolicited Feedback.
+
+Full textNOTICESNOTICESNOTICESSummary
+
+**Notices and procedure for making claims of intellectual property infringement.** Microsoft respects the intellectual property rights of third parties. If you wish to send a notice of intellectual property infringement, including claims of copyright infringement, please use our procedures for submitting Notices of Infringement. **ALL INQUIRIES NOT RELEVANT TO THIS PROCEDURE WILL NOT RECEIVE A RESPONSE.**
+
+Microsoft uses the processes set out in Title 17, United States Code, Section 512 to respond to notices of copyright infringement. In appropriate circumstances, Microsoft may also disable or terminate accounts of users of Microsoft services who may be repeat infringers.
+
+**Notices and procedures regarding intellectual property concerns in advertising.** Please review our Intellectual Property Guidelines regarding intellectual property concerns on our advertising network.
+
+**Copyright and trademark notices.** The Services are copyright © 2016 Microsoft Corporation and/or its suppliers, One Microsoft Way, Redmond, WA 98052, U.S.A. All rights reserved. Microsoft and the names, logos, and icons of all Microsoft products, software, and services may be either trademarks or registered trademarks of Microsoft in the United States and/or other countries. The names of actual companies and products may be the trademarks of their respective owners. Any rights not expressly granted in these Terms are reserved. Certain software used in certain Microsoft website servers is based in part on the work of the Independent JPEG Group. Copyright © 1991-1996 Thomas G. Lane. All rights reserved. "gnuplot" software used in certain Microsoft website servers is copyright © 1986-1993 Thomas Williams, Colin Kelley. All rights reserved.
+
+**Medical notice.** Microsoft does not provide medical or any other health care advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health care provider with any questions you may have regarding a medical condition, diet, fitness, or wellness program. Never disregard professional medical advice or delay in seeking it because of information you accessed on or through the Services.
+
+**Stock quotes and index data (including index values).** © 2013 Morningstar, Inc. All Rights Reserved. The information contained herein: (1) is proprietary to Morningstar and/or its content providers. (2) may not be copied or distributed. and (3) is not warranted to be accurate, complete or timely. Neither Morningstar nor its content providers are responsible for any damages or losses arising from any use of this information. Past performance is no guarantee of future results.
+
+You may not use any of the Dow Jones IndexesSM, index data, or the Dow Jones marks in connection with the issuance, creation, sponsorship, trading, marketing, or promotion of any financial instruments or investment products (for example, derivatives, structured products, investment funds, exchange-traded funds, investment portfolios, etc., where the price, return and/or performance of the instrument or investment product is based on, related to, or intended to track any of the Indexes or a proxy for any of the Indexes) without a separate written agreement with Dow Jones.
+
+**Financial notice.** Microsoft isn't a broker/dealer or registered investment advisor under United States federal securities law or securities laws of other jurisdictions and doesn't advise individuals as to the advisability of investing in, purchasing, or selling securities or other financial products or services. Nothing contained in the Services is an offer or solicitation to buy or sell any security. Neither Microsoft nor its licensors of stock quotes or index data endorse or recommend any particular financial products or services. Nothing in the Services is intended to be professional advice, including but not limited to, investment or tax advice.
+
+**Notice about the H.264/AVC, MPEG-4 Visual, and VC-1 Video Standards.** The software may include H.264/AVC, MPEG-4 Visual and/or VC-1 codec technology that may be licensed by MPEG LA, L.L.C. This technology is a format for data compression of video information. MPEG LA, L.L.C. requires this notice:
+
+THIS PRODUCT IS LICENSED UNDER THE H.264/AVC, MPEG-4 VISUAL, AND THE VC-1 PATENT PORTFOLIO LICENSES FOR THE PERSONAL AND NONCOMMERCIAL USE OF A CONSUMER TO (A) ENCODE VIDEO IN COMPLIANCE WITH THE STANDARDS ("VIDEO STANDARDS") AND/OR (B) DECODE H.264/AVC, MPEG-4 VISUAL, AND VC-1 VIDEO THAT WAS ENCODED BY A CONSUMER ENGAGED IN A PERSONAL AND NONCOMMERCIAL ACTIVITY AND/OR WAS OBTAINED FROM A VIDEO PROVIDER LICENSED TO PROVIDE SUCH VIDEO. NONE OF THE LICENSES EXTEND TO ANY OTHER PRODUCT REGARDLESS OF WHETHER SUCH PRODUCT IS INCLUDED WITH THIS SOFTWARE IN A SINGLE ARTICLE. NO LICENSE IS GRANTED OR SHALL BE IMPLIED FOR ANY OTHER USE. ADDITIONAL INFORMATION MAY BE OBTAINED FROM MPEG LA, L.L.C. SEE THE MPEG LA WEBSITE.
+
+For clarification purposes only, this notice does not limit or inhibit the use of the software provided under these Terms for normal business uses that are personal to that business which do not include (i) redistribution of the software to third parties, or (ii) creation of material with the VIDEO STANDARDS compliant technologies for distribution to third parties.
+
+Full textSTANDARD APPLICATION LICENSE TERMSSTANDARD APPLICATION LICENSE TERMSSTANDARDAPPLICATIONLICENSETERMSSummary
+
+**STANDARD APPLICATION LICENSE TERMS**
+
+**WINDOWS STORE AND XBOX STORE**
+
+These license terms are an agreement between you and the application publisher. Please read them. They apply to the software applications you download from the Windows Store or the Xbox Store, including any updates or supplements for the application, unless the application comes with separate terms, in which case those terms apply.
+
+**BY DOWNLOADING OR USING THE APPLICATION, OR ATTEMPTING TO DO ANY OF THESE, YOU ACCEPT THESE TERMS. IF YOU DO NOT ACCEPT THEM, YOU HAVE NO RIGHT TO AND MUST NOT DOWNLOAD OR USE THE APPLICATION.**
+
+**The application publisher means the entity licensing the application to you, as identified in the Windows Store or Xbox Store.**
+
+**If you comply with these license terms, you have the rights below.**
+
+*   1\. **INSTALLATION AND USE RIGHTS. EXPIRATION.** For applications you download from the Windows Store: (a) you may install and use the application on a Windows device or devices that are affiliated with the Microsoft account that you use to access the Windows Store. and (b) the device limit for the application is displayed in the Store or, for some applications downloaded on the Xbox console, in our Usage Rules. For applications you download from the Xbox Store, you may install and use the application on Xbox consoles as described in our Usage Rules. Microsoft reserves the right to modify our Usage Rules at any time.
+*   2\. **INTERNET-BASED SERVICES.**
+    *   a. **Consent for Internet-based or wireless services.** If the application connects to computer systems over the Internet, which may include via a wireless network, using the application operates as your consent to the transmission of standard device information (including but not limited to technical information about your device, system, and application software, and peripherals) for Internet-based or wireless services. If other terms are presented in connection with your use of services accessed using the application, those terms also apply.
+    *   b. **Misuse of Internet-based services.** You may not use any Internet-based service in any way that could harm it or impair anyone else’s use of it or the wireless network. You may not use the service to try to gain unauthorized access to any service, data, account, or network by any means.
+*   3\. **SCOPE OF LICENSE.** The application is licensed, not sold. This agreement only gives you some rights to use the application. If Microsoft disables the ability to use the applications on your devices pursuant to your agreement with Microsoft, any associated license rights will terminate. Application publisher reserves all other rights. Unless applicable law gives you more rights despite this limitation, you may use the application only as expressly permitted in this agreement. In doing so, you must comply with any technical limitations in the application that only allow you to use it in certain ways. You may not:
+    *   a. Work around any technical limitations in the application.
+    *   b. Reverse engineer, decompile, or disassemble the application, except and only to the extent that applicable law expressly permits, despite this limitation.
+    *   c. Make more copies of the application than specified in this agreement or allowed by applicable law, despite this limitation.
+    *   d. Publish or otherwise make the application available for others to copy.
+    *   e. Rent, lease, or lend the application.
+    *   f. Transfer the application or this agreement to any third party.
+*   4\. **DOCUMENTATION.** If documentation is provided with the application, you may copy and use the documentation for personal reference purposes.
+*   5\. **TECHNOLOGY AND EXPORT RESTRICTIONS.** The application may be subject to United States or international technology control or export laws and regulations. You must comply with all domestic and international export laws and regulations that apply to the technology used or supported by the application. These laws include restrictions on destinations, end users, and end use. For information on Microsoft branded products, go to the Microsoft exporting website.
+*   6\. **SUPPORT SERVICES.** Contact the application publisher to determine if any support services are available. Microsoft, your hardware manufacturer and your wireless carrier (unless one of them is the application publisher) aren’t responsible for providing support services for the application.
+*   7\. **ENTIRE AGREEMENT.** This agreement, any applicable privacy policy, any additional terms that accompany the application, and the terms for supplements and updates are the entire license agreement between you and application publisher for the application.
+*   8\. **APPLICABLE LAW.**
+    *   a. **United States and Canada. If you acquired the application in the United States or Canada, the laws of the state or province where you live (or, if a business, where your principal place of business is located) govern the interpretation of these terms, claims for breach of them, and all other claims (including consumer protection, unfair competition, and tort claims), regardless of conflict of laws principles.**
+    *   b. **Outside the United States and Canada. If you acquired the application in any other country, the laws of that country apply.**
+*   9\. **LEGAL EFFECT**. This agreement describes certain legal rights. You may have other rights under the laws of your state or country. This agreement doesn’t change your rights under the laws of your state or country if the laws of your state or country don’t permit it to do so.
+*   10\. **DISCLAIMER OF WARRANTY. The application is licensed "as is," "with all faults," and "as available." You bear the entire risk as to its quality, safety, comfort, and performance. Should it prove defective, you assume the entire cost of all necessary servicing or repair. The application publisher, on behalf of itself, Microsoft, wireless carriers over whose network the application is provided, and each of our respective affiliates, vendors, agents, and suppliers ("Covered Parties"), gives no express warranties, guarantees, or conditions in relation to the application. You may have additional consumer rights under your local laws that this agreement can't change. To the extent permitted under your local laws, Covered Parties exclude any implied warranties or conditions, including those of merchantability, fitness for a particular purpose, safety, comfort, and non-infringement. If your local laws impose a warranty, guarantee or condition even though these terms do not, its duration is limited to 90 days from when you download the application.**
+*   11\. **LIMITATION ON AND EXCLUSION OF REMEDIES AND DAMAGES. To the extent not prohibited by law, if you have any basis for recovering damages, you can recover from the application publisher only direct damages up to the amount you paid for the application or $1.00, whichever is greater. You will not, and waive any right to, seek to recover any other damages, including lost profits and consequential, special, direct, indirect, or incidental damages, from the application publisher.**
+
+**This limitation applies to:**
+
+*   **Anything related to the application or services made available through the application. and**
+*   **Claims for breach of contract, warranty, guarantee or condition. strict liability, negligence, or other tort. violation of a statute or regulation. unjust enrichment. or under any other theory. all to the extent permitted by applicable law.**
+
+**It also applies even if:**
+
+*   **This remedy doesn’t fully compensate you for any losses. or**
+*   **The application publisher knew or should have known about the possibility of the damages.**
+
+Full textCovered ServicesCovered ServicesserviceslistSummary
+
+The following products, apps and services are covered by the Microsoft Services Agreement, but may not be available in your market.
+
+*   Account.microsoft.com
+*   Advertising.microsoft.com
+*   Arrow Launcher
+*   Ask Cortana
+*   Bing
+*   Bing Apps
+*   Bing Bots
+*   Bing Desktop
+*   Bing Dictionary
+*   Bing Image Bot
+*   Bing in the Classroom
+*   Bing Input
+*   Bing Maps
+*   Bing Music Bot
+*   Bing Navigation
+*   Bing News Bot
+*   Bing Reader
+*   Bing Rewards
+*   Bing Search app
+*   Bing Toolbar
+*   Bing Torque
+*   Bing Translator
+*   Bing Webmaster
+*   Bing Wikipedia Browser
+*   Bing.com
+*   Bingplaces.com
+*   Choice.microsoft.com
+*   Citizen Next
+*   Conditional Action Programmer
+*   Cortana
+*   Default Homepage and New Tab Page on Microsoft Edge
+*   Dev Center App
+*   Device Health App
+*   Dictate
+*   Docs.com
+*   Education.minecraft.net
+*   Forzamotorsport.net
+*   Groove
+*   Groove Music Pass
+*   GroupMe
+*   HealthVault
+*   HealthVault Insights
+*   Home
+*   LineBack
+*   Maps App
+*   Microsoft account
+*   Microsoft Add-Ins for Skype
+*   Microsoft Bots
+*   Microsoft Family
+*   Microsoft Health
+*   Microsoft Movies &. TV
+*   Microsoft Support and Recovery Assistant for Office 365
+*   Microsoft Translator
+*   Microsoft Wallpaper
+*   Microsoft XiaoIce
+*   MSN Dial Up
+*   MSN Explorer
+*   MSN Food &. Drink
+*   MSN Health &. Fitness
+*   MSN Money
+*   MSN News
+*   MSN Premium
+*   MSN Sports
+*   MSN Travel
+*   MSN Weather
+*   MSN.com
+*   News Pro App and Website
+*   Next Lock Screen
+*   Office 365 Consumer
+*   Office 365 Home
+*   Office 365 Personal
+*   Office 365 University
+*   Office Online
+*   Office Store
+*   Office Sway
+*   Office.com
+*   OneDrive
+*   OneDrive.com
+*   OneNote.com
+*   Outlook.com
+*   Paint 3D
+*   Picturesque Lock Screen
+*   Pix Lock
+*   Pocket Skills
+*   Presentation Translator
+*   Remix 3D
+*   Seeing AI
+*   Send
+*   Skype
+*   Skype in the Classroom
+*   Skype Manager
+*   Skype Qik
+*   Skype.com
+*   Smart Search
+*   Spreadsheet Keyboard
+*   Store
+*   Sway.com
+*   Todo.microsoft.com
+*   Tossup
+*   Translator
+*   Translator for Microsoft Edge
+*   Translator Live
+*   UrWeather
+*   Video Breakdown
+*   Visio Online
+*   Windows Live Mail
+*   Windows Live Writer
+*   Windows Movie Maker
+*   Windows Photo Gallery
+*   Windows Store
+*   Word Flow
+*   Xbox and Windows Games, apps and websites published by Microsoft
+*   Xbox Game Pass
+*   Xbox Live
+*   Xbox Live Gold
+*   Xbox Music
+*   Xbox Store
+*   Zo
+
+Full textJuly 15, 20160Top of pageYour Privacy Your Content Code of Conduct Using the Services &. Support Using Third-Party Apps and Services Service Availability Updates to the Services or Software, and Changes to These Terms Software License Payment Terms Contracting Entity, Choice of Law, Jurisdiction Warranties Limitation of Liability Service-Specific Terms Xbox Live and Microsoft Studios Games and Applications Store Microsoft Family Features Group Messaging Skype and GroupMe Bing and MSN Cortana Outlook.com Office-based Services Microsoft Health Services Digital Goods OneDrive Binding Arbitration and Class Action Waiver Miscellaneous NOTICES STANDARD APPLICATION LICENSE TERMS Covered Services
