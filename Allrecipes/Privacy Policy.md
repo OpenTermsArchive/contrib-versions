@@ -1,12 +1,97 @@
-Meredith Privacy Policy
+Meredith Privacy PolicyEffective February 16, 2017Quick Links
 
-_Effective Date: May 3, 2016_
+*   To read our detailed privacy policy click here
+*   To opt-out of many third-party tracking technologies for interest-based advertising, follow the instructions here
+*   To opt-out of precise location tracking of your mobile device, follow the instructions here
+*   To opt-out of promotions sent by mail from third parties, click here.
+*   To opt-out of promotions sent by mail from Meredith Corporation, click here.
+*   To update or correct your information with Meredith, click here
+
+Changes Made in Our Most Recent Update:
+
+*   We’ve updated our description of how our service providers and provider partners may collect information directly from you to support services they perform for us and services or features they provide to our users through our sites.
+
+Please read this **summary** and our updated privacy policy carefully so you understand what types of information Meredith collects about you, how we use and share that information and your related choices.
+
+Your California Privacy Rights
+
+(As provided by California Civil Code Section 1798.83)
+
+California residents have the right to request and obtain from us, once a year and free of charge, a list of the third parties to whom we have disclosed certain types of personal information (if any) for their direct marketing purposes in the prior calendar year. At our option, we may respond by providing instructions about how our users can prevent our disclosure of personal information to third parties for their direct marketing purposes. You can read these instructions in the section of our Online Privacy Policy titled "How We Disclose Information and Your Related Opt-out Choices". Or, if you are a California resident and prefer that we send you a separate response, please email your request to privacy@meredith.com
+
+More
+
+Children and Privacy
+
+Meredith cares about protecting the privacy of children. We won’t knowingly allow anyone under the age of 13 to provide us any personally identifying information online. Children should always get permission from their parents before sending any personal information about themselves. If you’re under 13, please do not register for any of our services or provide us information about yourself.
+
+More
+
+What Information Do We Collect?
+
+Meredith and our service providers collect a variety of information about you including:
+
+*   Information you choose to provide to us directly when using our Services and information about the computers and devices you use to access our services, including their location.
+*   Information about your browsing activity as you use our Services and interact with our content, email messages and advertising. Some information may be collected automatically through cookies, beacons and other tracking and personalization technologies.
+*   Information about the general location of your computer or device. With your prior consent, we may also collect or allow authorized service providers to collect information about your precise mobile device location, including when you interact directly with one of our mobile services and continuously over time while an application is not in use but is running in the background.
+*   Information about you or your household that we obtain from other sources where permitted by law.
+
+More
+
+How We Use the Information We Collect
+
+*   We and our service providers and provider partners use the information about you we or they collect for a variety purposes including to:
+*   Customize the content and advertising you see on our Services and other services and marketing channels and recognize you as a previous visitor.
+*   Provide the services you request and improve these services.
+*   Tell you about offers we think you will value.
+*   Conduct market research and audience analysis
+*   Authenticate users and protect the security of our sites.
+*   For any other purpose described at the point of collection or with your consent.
+
+More
+
+How Do We Share Information?
+
+We may share anonymous or aggregated information about you in a way that does not identify you personally as we deem appropriate. Except as otherwise noted in our Privacy Policy, we may share your other information in various circumstances, including:
+
+*   When we have obtained your consent.
+*   With business partners that co-sponsor promotions we offer or provide a tool or feature accessible through our Services.
+*   Within the family of Meredith sites and Services and with other Meredith businesses.
+*   With our service providers, select third-party advertisers and other companies involved in the delivery of the advertising you see online and offline.
+*   To protect or defend the rights of Meredith or our users.
+*   Together with other assets, if a Meredith website or Service is sold to another company.
+*   When required by law or as we deem necessary or appropriate to respond to requests from public authorities.
+
+More
+
+Your Choices
+
+*   You can update any contact information you provide to us by using the “My Account” feature available on many of our sites or emailing us at privacy@meredith.com.
+*   You can stop the delivery of commercial email messages you receive from any Meredith brand by using the unsubscribe link in any such email you receive.
+*   You can remove your name and postal address from lists we sell or rent to third parties for their direct marketing purposes by using the opt-out form here.
+*   You can opt-out of our use of your Web Site viewing behavior data to serve you interest-based advertising on third-party sites and email newsletters here or by clicking on the Ad Choices icon in the footer of our websites and navigating to the consumer opt-out form. Use the same links to opt-out of interest-based advertising on our Web Sites from any third-party advertising networks we may use.
+*   You can stop the collection of precise location information you previously authorized by accessing the privacy settings of your mobile device and/or through the settings in the applicable mobile application.
+*   If you are a mobile app user, you may be able to reset the advertising identifier used to deliver interest-based ads to your device or prevent the related collection of user data across unaffiliated applications for interest-based advertising by accessing the privacy settings in your device. Each operating system, iOS for Apple devices, Android for Android devices and Windows for Microsoft devices, provides its own instructions.
+*   You can also exercise choice over the collection of cross-app data on your mobile device by companies participating in the Digital Advertising Alliance choice tool by installing the AppChoices app available here.
+
+More
+
+Other Information
+
+*   Meredith is committed to working with you to obtain a fair resolution of any privacy concern.
+*   We have adopted commercially reasonable procedures to help us secure your information but no data transmissions or storage can be guaranteed to be 100% secure.
+*   For more complete information about our privacy practices, please review our full Meredith Privacy Policy.
+*   If you have any questions, please email us at privacy@meredith.com.
+
+Read MoreMeredith Privacy Policy
+
+_Effective Date: February 16, 2017_
 
 Privacy Policy
 
 Welcome! This Privacy Policy applies to your use of websites, interactive services, email programs and mobile device applications provided by Meredith Corporation or our affiliates (collectively, "Meredith," "we" or "us") that include an authorized link or reference to this policy (collectively, the "Services"). Except as specified herein, this policy does not apply to information you may provide to us offline.
 
-By using any of our Services, you agree that this Online Privacy Policy and our Visitor Agreement govern your use of our Services and any dispute concerning the Services. Please take a few minutes to read them before using or registering to access our Services.
+By using any of our Services, you agree that this Online Privacy Policy and our Terms of Service Agreement govern your use of our Services and any dispute concerning the Services. Please take a few minutes to read them before using or registering to access our Services.
 
 This Policy describes our privacy practices regarding:
 
@@ -48,8 +133,8 @@ Information Collected Automatically When You Use Our Services.
 Meredith or third-party contractors we engage may collect certain information automatically when you use our Services, including but not limited to:
 
 *   Web pages, content and advertisements you view and links you click on while navigating within our Services;
-*   Information about your interactions with our video or audio content, such as the type of content accessed via our Services;
-*   Information about your interactions with our email messages, such as the links you click on and whether you open or forward a message, the date and time of these interactions and the device you use to read emails.
+*   Information about your interactions with our content, including video or audio content, such as the type of content accessed via our Services;
+*   Information about your interactions with our email messages, such as the links you click on and whether you open or forward a message, the date and time of these interactions and the device you use to read emails;
 *   The site you visited before visiting a Meredith website and the site you visited after visiting a Meredith website;
 *   Your Internet Protocol (IP) address (a numerical address assigned to your computer by your Internet service provider so that other computers connected to the Internet can communicate with you online) that can sometimes be used to derive your general geographic area;
 *   Search terms you enter using our Services or on a referral site;
@@ -60,7 +145,7 @@ Meredith or third-party contractors we engage may collect certain information au
 
 Personalization and Tracking Technologies.
 
-Like most website and mobile application operators, we, our service providers or other third parties acting on our behalf or with our permission, use embedded scripts, "cookies," web beacons, device identifiers and other tracking technologies to operate, analyze and improve our Services and tailor content and advertising to user interests. Third-party companies that provide some of the tools and features accessible through our Services and advertisers and other companies involved in the delivery of advertisements you see on our Services and other websites also may use tracking technologies to collect information about your use of our Services.
+Like most website and mobile application operators, we, our service providers or other third parties acting on our behalf or with our permission, use embedded scripts, "cookies," web beacons, device identifiers and other tracking technologies to operate, analyze, improve and protect the security of our Services and tailor content and advertising to user interests. Third-party companies that provide some of the tools and features accessible through our Services and advertisers and other companies involved in the delivery of advertisements you see on our Services and other websites also may use tracking technologies to collect information about your use of our Services.
 
 Cookies.
 
@@ -104,16 +189,16 @@ In addition, we and our authorized service providers generally use other informa
 
 *   Customize the content you see when you use our Services and other services as you navigate online;
 *   Analyze, operate and improve our Services, and fulfill your requests for products, services, and information, including to send you email and electronic newsletters;
-*   Help recognize your browser as a previous visitor and save and remember any preferences that may have been set while your browser was visiting one of our Services.
+*   Help recognize your browser as a previous visitor and save and remember any preferences that may have been set while your browser was visiting one of our Services;
 *   Enable you to participate in features such as surveys, polls, sweepstakes, and message boards;
 *   Attribute content that you post to forums we operate on our Services;
 *   Recognize the same users as they access online or mobile services using multiple browsers or devices and deliver to them appropriate interest-based content and advertising;
 *   Provide you with special offers, promotions and information from companies within our corporate family, and select third parties in accordance with applicable law;
-*   Control the display of advertising and develop and deliver advertising tailored to your interests, including advertising that you see on our Services, advertising you see on third-party websites, mobile applications and email programs, and offers and advertising you may receive offline or as push-notifications, from us or others.
+*   Control the display of advertising and develop and deliver advertising tailored to your interests, including advertising that you see on our Services, advertising you see on third-party websites, mobile applications and email programs, and offers and advertising you may receive offline or as push-notifications, from us or others;
 *   Measure and analyze visitor traffic and usage patterns and improve the quality and effectiveness of our content, features, advertisements, and other communications;
-*   Conduct market or audience analysis and related reporting.
-*   Understand whether our users read email messages and click on links contained within those messages.
-*   Prevent potentially prohibited or illegal activities, comply with applicable law and enforce our Visitor Agreement.
+*   Conduct market or audience analysis and related reporting;
+*   Understand whether our users read email messages and click on links contained within those messages;
+*   Prevent potentially prohibited or illegal activities, comply with applicable law and enforce our Terms of Service Agreement;
 *   For any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
 
 Return to top
@@ -134,7 +219,7 @@ If, during or immediately following registration, you choose to access offers fo
 
 Provider Partners and Service Providers.
 
-To make your experience with our Services more useful and enjoyable, we may offer some features (such as social sharing tools and chat rooms) in conjunction with third-party providers ("Provider Partners") that specialize in operating such services. We share with each of these Provider Partners such information as is useful or necessary to provide you with the services we offer through that Provider Partner. We also contract with other companies to provide specialized services to us, including but not limited to credit-card and billing processing, shipping, marketing, advertising optimization and interest-based targeting, email and text message distribution, data processing, mobile and website analytics and promotions management. We reserve the right to share with these companies any information we collect about you and/or authorize them to collect information from you directly for purposes consistent with this Privacy Policy.
+To make your experience with our Services more useful and enjoyable, we may offer some features (such as social sharing tools and chat rooms) in conjunction with third-party providers ("Provider Partners") that specialize in operating such services. We share with each of these Provider Partners such information as is useful or necessary to provide you with the services we offer through that Provider Partner. Some of our Provider Partners may collect information directly from you pursuant to their own separate privacy policies which may differ from ours. For example, our affiliated company Meredith Performance Marketing, LLC operates the home contractor referral tools available through some of our sites and collects information through such features pursuant to its separate privacy policy available here. We also contract with other companies to provide specialized services to us, including but not limited to credit-card and billing processing, shipping, marketing, advertising optimization and interest-based targeting, email and text message distribution, data processing, mobile and website analytics, user authentication, security and promotions management. We reserve the right to share with these companies any information we collect about you and/or authorize them to collect information from you directly to support the services they provide to us. For example, some of our Services integrate with Google’s reCAPTCHA widget to help us distinguish authentic human users from “bots” and protect our sites from spam and abuse. Through cookies and other tracking technologies, Google collects information about user activity to provide us with this service and processes and stores such information pursuant to its privacy policy available here.
 
 Aggregated and Anonymous Information.
 
@@ -146,11 +231,11 @@ Keep in mind that any information that you choose to post to blogs, discussion f
 
 Legal Compliance, Business Transfers and Other Disclosures.
 
-Notwithstanding anything to the contrary stated herein or within our Services, we may occasionally release information about users of our Services when we deem such release appropriate to comply with law, respond to compulsory process or law enforcement requests, enforce our Visitor Agreement, or protect the rights, property or safety of users of our Services, the public, Meredith Corporation, our affiliates, or any third party. Over time, we may reorganize or transfer various assets and lines of business. Notwithstanding anything to the contrary stated herein or on our Services, we reserve the right to disclose or transfer any information we collect to third parties in connection with any proposed or actual purchase, sale, lease, merger, foreclosure, liquidation, amalgamation or any other type of acquisition, disposal, transfer, conveyance or financing of all or any portion of Meredith or our affiliates.
+Notwithstanding anything to the contrary stated herein or within our Services, we may occasionally release information about users of our Services when we deem such release appropriate to comply with law, respond to compulsory process or law enforcement requests, enforce our Terms of Service Agreement, or protect the rights, property or safety of users of our Services, the public, Meredith Corporation, our affiliates, or any third party. Over time, we may reorganize or transfer various assets and lines of business. Notwithstanding anything to the contrary stated herein or on our Services, we reserve the right to disclose or transfer any information we collect to third parties in connection with any proposed or actual purchase, sale, lease, merger, foreclosure, liquidation, amalgamation or any other type of acquisition, disposal, transfer, conveyance or financing of all or any portion of Meredith or our affiliates.
 
 Return to top
 
-Your Opt-Out Choices. Postal Mail.
+Your Opt-Out Choices.Postal Mail.
 
 To remove your name and postal address from lists that we sell or rent to third parties for their direct marketing purposes, or to opt-out of receiving marketing offers for other Meredith magazines and products by mail, please use the opt-out form available here or send your request to us in a letter addressed to Meredith Corporation, Opt-Out Postal, Attn: Circulation, 1716 Locust Street, Des Moines, Iowa 50309. Please note that if you choose to opt-out of Meredith’s promotional mailings, you may still receive renewal notices and related offers for any magazines to which you subscribe.
 
@@ -196,7 +281,7 @@ Return to top
 
 Security, Retention and Storage of Information:
 
-We use commercially reasonable procedures to protect the personally-identifying information that we collect. No security system is impenetrable, however. We cannot guarantee the security of our databases, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. Please see our Visitor Agreement for more information related to posting materials on our Services including our use of such materials.
+We use commercially reasonable procedures to protect the personally-identifying information that we collect. No security system is impenetrable, however. We cannot guarantee the security of our databases, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. Please see our Terms of Service Agreement for more information related to posting materials on our Services including our use of such materials.
 
 For the purposes set out in this Online Privacy Policy, personally-identifying information may be transferred to, processed, stored and accessed by us, our affiliates and our unaffiliated service providers in the United States and in other jurisdictions where we or they operate. Courts and other authorities in these jurisdictions may, in certain circumstances, be entitled to access your personally-identifying information. By using the Services, you consent to this transfer, processing, storage and access of your personally-identifying information in and/or outside of the jurisdiction in which you reside.
 
