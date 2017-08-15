@@ -1,44 +1,28 @@
-Fara Terms of Service
+Terms of Service
 
-Last Updated: November 15, 2011
+Last modified: April 1, 2015
 
-Welcome to Fara! Fara is a web-based service and website available at www.faranow.com (the "Service"), a service provided by Packagetrackr LLC. By using the Service you are agreeing to be bound by the following terms and conditions ("Terms of Service" or "TOS"). Violation of any of these terms will result in the termination of your Fara account.
+By using Packagetrackr.com, you are agreeing to the following terms and conditions ("Terms of Service"). These Terms apply to anyone who uses any version of the Packagetrackr website (the "Service") including any information stream derived thereof. We use data available from a variety of shipping service providers (the "Carrier") to help you know where your packages are, and when to expect them to be delivered. A list of currently supported Carriers is available here. We have built this site to be a trusted resource. to protect our Users (that's you), our Carriers, and our Service from abuse, we’ve laid out these clear guidelines. Our goal is to have the best package tracking service online. Please let us know how we can do better! Drop us a note with your suggestions here. These Terms may change from time to time. you can always check in on the most current version at https://www.packagetrackr.com/terms. By your continuing use of the service, you're agreeing to these terms.
 
-Definitions:
+*   YOUR USE OF CONTENT
+    
+    Use of Packagetrackr content (tracking results, whitepapers, graphics, logos, feedback, feeds, etc.) is for informational use only. You may not modify any content, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, post on any network, broadcast in any media or sell any information, software, products or services obtained from the Services unless expressly permitted by Packagetrackr. Elements of Packagetrackr websites are protected by trademark, copyright, and other laws and may not be copied or imitated in whole or in part. Content other than that belonging to Packagetrackr may be licensed or otherwise published by Packagetrackr with the permission of the owner of the material. All rights in such materials are reserved to their respective owners. Packagetrackr reserves the right to review information saved to the Service and to remove any materials at its sole discretion.
+    
+*   WE CAN MODIFY OR DISCONTINUE THE SERVICE
+    
+    Packagetrackr reserves the right at any time to modify or discontinue, temporarily or permanently, the Service (or any part thereof) with or without notice, without liability to you or any third party.
+    
+*   OUR PROPRIETARY RIGHTS
+    
+    We've worked hard to build this site, so you acknowledge and agree that the Service and any necessary software used in connection with the Service ("Software") contain proprietary and confidential information that is protected by applicable intellectual property and other laws.
+    
+*   WE CAN TERMINATE YOUR USE OF THE SERVICE
+    
+    It sounds mean, but Packagetrackr, in its sole discretion, may terminate your password, account or use of or access to the Service, and remove and discard any saved information, for any reason. The most likely reasons for termination include hacking the Service, unauthorized reuse of tracking information, use of the Service for illegal purposes, and otherwise acting in violation of the terms or the spirit of these Terms of Service or other policies. If Packagetrackr terminates your use of the Service, your saved information may be immediately taken down. In this event, Packagetrackr will not be responsible to you or any third party for any termination of your access to the Service.
+    
+*   DISCLAIMER OF WARRANTIES AND AFFILIATIONS
+    
+    The Service is provided on an "as is" and "as available" basis. We want the information we provide you to be available 24/7 and flawlessly accurate, but the information we display is subject to availability and accuracy from the Carriers. As such, you expressly understand and agree that your use of the Service is at your sole risk. Packagetrackr expressly disclaims all warranties of any kind, whether express or implied. Packagetrackr makes no warranty that the service will be uninterrupted, timely, secure, or error-free, or that the quality of any information obtained by you through the Service will be complete or correct, or that any errors in the software will be corrected. In no event shall Packagetrackr, its agents, or anyone else who has been involved in the creation, production, or delivery of these pages, be liable for any direct, incidental, or consequential damages resulting from the use of this website. Links to other websites do not imply an affiliation with those websites, nor does the existence of a link to another site imply that the organization or person publishing at that site endorses any of the materials at this site. Links to Carrier websites and Carrier contact information are provided by Packagetrackr as a convenience to its users. Packagetrackr is not responsible for the materials contained at any website linked to this site, or from any information provided directly from any Carrier or their agents.
+    
 
-The terms "we" and "us" refer to Packagetrackr LLC. (the operators of the Fara Service and www.faranow.com website), or any successor or assignee of the Company. The terms "you" and "user" refer to the particular visitors to our website or users of the Service.
-
-Basic Account and Use Terms
-
-*   When you use Fara, you agree to allow us to collect, parse, retain, modify, analyze and organize the information given to us as consistent with our Privacy Policy.
-*   You must be 13 years or older to use the Service.
-*   You are responsible for any activity that occurs under your username and your account.
-*   You must not use the Service for any illegal or unauthorized purpose. International users agree to comply with all local laws regarding online conduct and acceptable content.
-*   In your use of the Service, you must not violate any laws in your jurisdiction, including but not limited to copyright laws.
-*   You must provide a valid email address, and any other information requested in order to complete the signup process.
-*   Accounts registered by "bots" or automated methods are not permitted. You must be a human to create and maintain an account. If you would like to discuss partnerships or access to our API, please contact us at: \[email protected\]
-*   You are responsible for keeping your password secure.
-*   You must not (or attempt to) modify, adapt or hack the Service or modify another website so as to falsely imply that it is associated with the Service.
-*   You must not (or attempt to) transmit or upload any viruses, worms, or any code of a destructive nature.
-
-General Conditions
-
-*   We reserve the right to modify or terminate the Service (or any part thereof) for any reason, with or without notice at any time.
-*   We reserve the right to impose usage, storage, bandwidth, or feature restrictions upon your account for any reason, with or without notice at any time.
-*   We shall not be liable to you or to any third party for any modification, price change, suspension or discontinuance of the Service.
-*   We reserve the right, In accordance with any applicable laws, to refuse service to anyone for any reason at any time.
-*   We reserve the right to modify prices or fees for the Service, including monthly subscription fees, with 15 days notice. Such notice may be provided at any time by posting the changes to the Fara website (www.faranow.com) or the Service, or by providing electronic mail communication to the relevant accounts. You will have the option to opt-in to any paid services we provide.
-*   We reserve the right to remove Content and accounts for any reason. This may include Content that we consider to be unlawful, offensive, threatening, libelous, defamatory, obscene, or otherwise objectionable or that violates any party's intellectual property or this TOS.
-*   Verbal, physical, written or other abuse or threats of abuse directed at any Fara user, customer, employee, partner or officer will result in immediate account termination.
-*   You understand the Service may at times make use of third party vendors and hosting partners to provide the necessary hardware, networking, storage, software, and related technology necessary to operate the Service.
-*   We reserve the right to alter these Terms of Service at any time. Any alterations will be posted to the Fara website at www.faranow.com/terms.
-
-Disclaimer of Warranties
-
-PACKAGETRACKR LLC AND ITS LICENSORS MAKE NO REPRESENTATION, WARRANTY, OR GUARANTY AS TO THE RELIABILITY, TIMELINESS, QUALITY, SUITABILITY, TRUTH, AVAILABILITY, ACCURACY OR COMPLETENESS OF THE SERVICE OR ANY CONTENT. CHEDDR MEDIA, INC AND ITS LICENSORS DO NOT REPRESENT OR WARRANT THAT (1) THE USE OF THE SERVICE WILL BE SECURE, TIMELY, UNINTERRUPTED OR ERROR-FREE OR OPERATE IN COMBINATION WITH ANY OTHER HARDWARE, SOFTWARE, SYSTEM OR DATA, (2) THE SERVICE WILL MEET YOUR REQUIREMENTS OR EXPECTATIONS, (3) ANY STORED DATA WILL BE ACCURATE OR RELIABLE,(4) ERRORS OR DEFECTS WILL BE CORRECTED, OR (5) THE SERVICE OR THE SERVER(S) THAT MAKE THE SERVICE AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. THE SERVICE AND ALL CONTENT IS PROVIDED TO YOU STRICTLY ON AN "AS IS" AND "AS AVAILABLE" BASIS. ALL CONDITIONS, REPRESENTATIONS AND WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT OF THIRD PARTY RIGHTS, ARE HEREBY DISCLAIMED TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW BY CHEDDR MEDIA, INC. AND ITS LICENSORS.
-
-Limitation of Liability
-
-YOU EXPRESSLY UNDERSTAND AND AGREE THAT PACKAGETRACKR LLC AND ITS SUBSIDIARIES, AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, PARTNERS AND LICENSORS SHALL NOT BE LIABLE TO YOU FOR ANY PUNITIVE, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES (EVEN IF PACKAGETRACKR LLC HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), RESULTING FROM: (1) THE USE OR THE INABILITY TO USE THE SERVICE. (2) THE COST OF PROCUREMENT OF SUBSTITUTE GOODS AND SERVICES. (3) UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSIONS OR DATA. (4) STATEMENTS OR CONDUCT OF ANY THIRD PARTY ON THE SERVICE. OR (5) ANY OTHER MATTER RELATING TO THE SERVICE.
-
-Please direct any question about the TOS to \[email protected\].
+That being said, if you've experience a bug or a technicality, or you just don't like our site, we hope you'll share your feedback with us before leaving the site.
