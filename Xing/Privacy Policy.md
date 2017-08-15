@@ -13,7 +13,7 @@ In these terms and conditions on data protection XING would like to inform you a
 Additional Privacy Policies apply to the following XING applications, which you can view on the application's respective website:
 
 *   XING applications
-*   XING Talent Manager
+*   XING TalentManager
 *   XING AdCreator
 *   XING Events
 *   kununu (German only)
@@ -179,9 +179,9 @@ Please note that the following sections of your Personal Data are displayed to t
 
 **9\. What does "Clickpath" mean?**
 
-"Clickpath" is a function of the XING Services which registers access to XING Members’ Profiles by other XING Members, to event pages or access to specific information within XING Members’ Profiles. The information registered by Clickpath is only available to Premium Members of XING XING and organizers who have booked the Event Plus option for their events.
+"Clickpath" is a function of the XING Services which registers access to XING Members’ Profiles by other XING Members, to event pages, to job ads, to Business Pages, to Employer Branding Profiles or access to specific information within XING Members’ Profiles. The information registered by Clickpath is only available to Premium Members of XING, people who post job ads, operators of Business Pages and Employer Branding Profiles, and organizers who have booked the Event Plus option for their events.
 
-By using Clickpath you can see which Profiles of other XING Members you have visited. You can also check which other XING Members have visited your Profile. By the same token, all other Premium Members of XING can do the same, i.e. they may see whether you have visited their Profile. **This feature is an essential part of contact management on XING and as such an essential feature of the XING Services: you are not able to deactivate this feature in your privacy settings. If you do not agree that other XING Members may see that you have visited their Profile, you should not use the XING Services.**
+By using Clickpath you can see which Profiles of other XING Members you have visited. You can also check which other XING Members have visited your Profile. By the same token, all other Premium Members of XING can do the same, i.e. they may see whether you have visited their Profile, event page, Business Page, Employer Branding Profile or job ad. **This feature is an essential part of contact management on XING and as such an essential feature of the XING Services: you are not able to deactivate this feature in your privacy settings. If you do not agree that other XING Members may see that you have visited their Profile, you should not use the XING Services.**
 
 Furthermore, Clickpath registers which XING Members have visited your XING "About me" page which you can set up within the framework of XING Services, and which XING Members have visited the website of one of your previous companies.
 
@@ -197,11 +197,13 @@ XING uses the electronic e-mail address(es) you entered to send you regular news
 
 You may choose to unsubscribe from the newsletter at any time by changing your notification settings on XING or by sending an e-mail to the link provided at the end of each newsletter without costs arising by virtue thereof, other than transmission costs pursuant to the basic rates.
 
+Individual XING applications may enable you to unsubscribe from the newsletter and notifications. In the XING ReferralManager you can deactivate the newsletter via your XING ReferralManager profile settings.
+
 **12\. Cookies and pixels**
 
 "Cookies" are small files that enable us to store specific information related to you, the User, on your PC or other end device while using the XING services. Cookies help to analyse usage frequency, the number of people who use our website, user behaviour on our website, advertising effectiveness, and to increased security and tailor our service offering to your needs.
 
-After you have logged in to the XING Services with your username and password, XING uses so-called "session cookies" in order to identify you during the course of your session. Upon the termination of your session, the session cookie will be automatically deleted. You can save session cookies on your computer to enable automatic login for subsequent sessions by activating the function: "Login automatically on this computer". Session cookies will then store parts of your login data in encrypted form. If you select automatic login, please be aware that this will then only be possible on the same computer on which the cookie was first saved, i.e. an automatic login on two (2) different computers is not possible.
+After you have logged in to the XING Services with your username and password, XING uses so-called "session cookies" in order to identify you during the course of your session. Upon the termination of your session, the session cookie will be automatically deleted if you deactivated the function "Login automatically on this computer" during login. Otherwise these session cookies will be permanently saved in the browser of your end device. The session cookies will then store parts of your login data in encrypted form. You can delete these cookies from the browser of your end device at any time.
 
 XING Services also use "permanent cookies" to record information about visitors to the XING Websites who repeatedly use the XING Services. Permanent cookies are designed to help us continually improve the products and services we offer you. Permanent cookies do not contain personal information such as your name, IP address, etc., meaning that we do not generate profiles based on user behaviour.
 
@@ -221,17 +223,27 @@ NEXT AUDIENCE: Privacy information
 
 Criteo: Information about behaviour-related advertising
 
+LinkedIn: Advertising preferences
+
 AdClear: You can opt out of tracking performed by AdClear.
 
 Opt out of Adclear tracking
 
-Interest- and behaviour-related information and advertising
+Sociomantic: Advertising Privacy Policy &. Opt-Out
 
-On our Websites we also use technologies to show you information and advertising based on your interests and behaviour. To do so, we use data-protection-friendly technologies based on data anonymisation and pseudonymisation. To this end, we use an external service provider who gathers on our behalf certain information about your activities on our Websites. Said service provider is never able to assign the information it gathers to a specific person, and IP addresses are immediately anonymised. Said service provider never stores Personal Data. Instead it performs calculations based on this and other non-personal information, which we then receive as recommendations for showing you information or advertising based on your interests and behaviour.
+Outbrain: Privacy Policy &. Opt Out
 
-If you would no longer like to receive such information or advertising, you can click on the link below to revoke your permission and deactivate data collection by setting an opt-out cookie: Opt-outcomplete
+Facebook Custom Audience
 
-Please note that data will again be collected should you delete the opt-out cookie.
+We use Facebook Custom Audience on our Websites. A so-called pixel is added to our site which triggers a call on Facebook's servers. In connection with this data call and the Facebook cookies saved in your browser, Facebook is able to create a link to your person and will then send back advertising recommendations to our Websites or to the marketer of the Website. You can deactivate Facebook advertising targeting based on your interests here.
+
+Twitter
+
+We use Twitter, a service provided by Twitter Inc., to track conversion and to post target-group-based online advertisements. To do so, we implemented a Twitter tag on our website. When you visit our website, this tag creates a direct link to the Twitter servers so that Twitter knows you visited our website and whether you performed any requests or similar. Twitter assigns this information to your personal Twitter user account. We are then able to serve (remarketing) advertisements based on your previous page views and activity. The data Twitter processes in this regard do not allow us to identify you. These pseudonyms are also not linked to any of your other personal data. To learn about your rights and privacy options, and for more information about how Twitter collects and uses data, visit the Twitter Privacy Policy: https://twitter.com/privacy?lang=en. You can also edit your browser settings to prevent cookies from being saved. Twitter also complies with your browser’s do-not-track setting. As a Twitter user, you can prevent your data from being processed by unchecking the “sponsored content” box available in the security and privacy settings on https://twitter.com/settings/security.
+
+Interest-related information and advertising
+
+On our Websites we also use technologies to show you information and advertising based on your interests.
 
 Web analysis
 
@@ -252,6 +264,10 @@ In order to make our website more user friendly, we use a system that records th
 ScorecardResearch
 
 We have implemented the ScorecardResearch service on our websites. This service collects data pertaining to browsing behaviour on the websites of companies that registered with ComScore, a leading global market research effort that studies and reports on Internet trends and behaviour. Click here to set an opt-out cookie which means that your browsing behaviour will no longer be tracked by ScorecardResearch. Please note that the ScorecardResearch service will commence again if you delete this cookie.
+
+intelliAd
+
+We use services rendered by intelliAd Media GmbH to provide our users with suitable offerings and advertising. Within this context, cookies are used to create and update pseudonymous usage profiles. You can opt out of this data processing at any time by clicking the following link: Opt-out/a>
 
 The following information also applies to users in Germany:
 
@@ -295,11 +311,3 @@ Membership of XING Services is reserved for persons who have reached the legal a
 **15\. Accessibility of these Terms and Conditions on Data Protection**
 
 These Terms and Conditions on Data Protection are accessible from any website of the XING Websites under the link "Privacy Policy".
-
-Privacy and security at XING
-
-Find out what XING does to make sure your data is safe, who is responsible for security issues within the company, and what you can do to network in a secure environment.
-
-IT security and privacy
-
-Public procedure directory
