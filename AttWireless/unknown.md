@@ -1,38 +1,3 @@
-WIRELESS CUSTOMER AGREEMENT ("Agreement") Documents
-
-*   Policy Center Home
-*   General Policies
-*   ► Wireless
-*   Wireless Customer Agreement
-*   ► Customer Agreement and Plans - AT&T PREPAID℠
-*   Terms of Service - AT&T PREPAID℠
-*   Plan Terms - AT&T PREPAID℠
-*   AT&T PREPAID℠ AutoPay Terms for customers enrolled effective 4/24/17
-*   AT&T PREPAID℠ AutoPay Terms for customers enrolled prior to 4/24/17
-*   Data Services Agreement
-*   Applications, Services, and Features
-*   ► Policies and Processes
-*   AT&T Maps and Coverage Area Information
-*   Upgrade Advantage(SM)
-*   Information on Wireless Telephones and Health
-*   Online Pricing
-*   Returns Policy and Early Termination Fee
-*   Shipping Information
-*   Warranty Exchange Program Terms and Conditions
-*   Paperless Billing Disclosures
-*   Other Charges Applicable to Wireless Services
-*   ►AT&T Next
-*   Privacy Notice For AT&T Next Installment Agreements
-*   Retail Installment Agreement
-*   Business
-*   Digital Life®
-*   DIRECTV
-*   Home Phone
-*   Internet &. Email
-*   U-verse® TV and AT&T Phone
-
-Print
-
 "AT&T" or "we," "us," or "our" refers to AT&T Mobility LLC, acting on behalf of its FCC-licensed affiliates doing business as AT&T. "You" or "your" refers to the person or entity that is the customer of record.
 
 **PLEASE READ THIS AGREEMENT CAREFULLY TO ENSURE THAT YOU UNDERSTAND EACH PROVISION, INCLUDING OUR USE OF YOUR LOCATION INFORMATION (SEE SECTION 3.6). THIS AGREEMENT REQUIRES THE USE OF ARBITRATION ON AN INDIVIDUAL BASIS TO RESOLVE DISPUTES, RATHER THAN JURY TRIALS OR CLASS ACTIONS, AND ALSO LIMITS THE REMEDIES AVAILABLE TO YOU IN THE EVENT OF A DISPUTE.**
@@ -665,5 +630,3 @@ If you are a Puerto Rico customer and we cannot resolve your issue, you may noti
 **Return to Table of Contents**
 
 V03022017
-
-label.legal.backtopolicycenter
