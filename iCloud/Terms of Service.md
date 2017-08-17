@@ -122,7 +122,7 @@ Nothing in this Agreement shall be construed to convey to you any interest, titl
 
  **D. No Right of Survivorship**
 
-Unless otherwise required by law, You agree that your Account is non-transferable and that any rights to your Apple ID or Content within your Account terminate upon your death. Upon receipt of a copy of a death certificate your Account may be terminated and all Content within your Account deleted. Contact iCloud Support at www.apple.com/support/iCloud for further assistance.
+Unless otherwise required by law, You agree that your Account is non-transferable and that any rights to your Apple ID or Content within your Account terminate upon your death. Upon receipt of a copy of a death certificate your Account may be terminated and all Content within your Account deleted. Contact iCloud Support at support.apple.com/icloud for further assistance.
 
  **E. No Resale of Service**
 
