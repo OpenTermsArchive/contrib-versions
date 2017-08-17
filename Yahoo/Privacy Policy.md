@@ -30,7 +30,11 @@ Yahoo Settings
 
 Yahoo Vie Privée
 
-_Yahoo fait désormais partie de la société de médias numériques et mobiles Oath qui compte plus de 50 marques à travers le monde et qui est membre de la famille d’entreprises Verizon. Votre vie privée est importante pour Yahoo, Oath et Verizon. La manière dont Yahoo gère vos données personnelles, et communique certaines d’entre elles à des tiers et au sein de sa nouvelle famille d’entreprises, n’a pas changé. Les Conditions Générales d'Utilisation et la Politique relative à la vie privée de Yahoo s’appliquent toujours lorsque vous êtes sur un site Yahoo, que vous utilisez une application Yahoo ou que vous interagissez avec nos produits, services ou technologies. En cas de changement substantiel dans la manière dont Yahoo EMEA gère ou partage vos données personnelles, nous vous en informerons dans notre Politique relative à la vie privée._
+_Yahoo fait désormais partie de Oath, société de médias numériques et mobiles regroupant plus de 50 marques à travers le monde et qui est membre de la famille d’entreprises Verizon. À compter du 18 septembre 2017, nous prévoyons de partager certaines des informations utilisateur avec Oath et la famille d’entreprises Verizon afin de pouvoir proposer des publicités plus personnalisées, des contenus engageants, des produits innovants, et également à d’autres fins d’analyse. Pour en savoir plus sur les informations que nous pouvons partager, ainsi que sur les préférences de gestion des informations qui sont à votre disposition, veuillez consulter la FAQ._
+
+_Votre vie privée est importante pour Yahoo, Oath et Verizon. Aucun changement n’a été apporté à la façon dont Yahoo gère vos données personnelles ni aux données partagées avec des tiers ne faisant pas partie de la famille d’entreprises Oath/Verizon. Les Conditions Générales d'Utilisation et la Politique relative à la vie privée concernant la région EMEA de Yahoo qui figurent ci-dessous s’appliquent toujours lorsque vous êtes sur un site Yahoo, que vous utilisez une application Yahoo ou interagissez avec nos produits, services ou technologies._
+
+_L’intégration de Yahoo dans la nouvelle organisation Oath est actuellement en cours. Pendant cette période de transition, nous gérons vos données avec soin et nous vous informerons, conformément à la Politique relative à la vie privée ci-dessous, dès que d’autres changements notables seront apportés._
 
 Bienvenue dans Yahoo Vie Privée ! Vous découvrirez ici comment Yahoo traite vos données personnelles, ainsi que les moyens de contrôler vos préférences et paramètres. Comme toujours, Yahoo s’engage à gagner votre confiance.
 
@@ -124,7 +128,7 @@ Yahoo! EMEA Limited
 North Wall Quay, Dublin 1  
 Irlande
 
-_Dernière mise à jour : 13 juin 2017_
+_Dernière mise à jour : 16 août 2017_
 
 A la une
 
