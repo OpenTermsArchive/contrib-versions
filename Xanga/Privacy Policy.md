@@ -7,16 +7,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   37 (last comment by XpiemanX 1 day ago)
+    *   37 (last comment by XpiemanX 2 days ago)
 *   Retrieve my old blog?
     *   by Jessica\_6190
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   old xanga
     *   by farahrasol
-    *   5 days ago
+    *   6 days ago
     *   in Premium
     *   0 votes
     *   0
@@ -25,7 +25,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 months ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by rambo\_60th 6 days ago)
+    *   1 (last comment by rambo\_60th 1 week ago)
 *   how to restore my entries on xanga
     *   by coffeeling
     *   1 week ago
@@ -43,7 +43,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 months ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by kelvin\_stephytangfantasia 1 week ago)
+    *   4 (last comment by kelvin\_stephytangfantasia 2 weeks ago)
 *   Archive
     *   by kristah00
     *   4 weeks ago
