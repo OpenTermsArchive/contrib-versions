@@ -515,4 +515,4 @@ Wix.com Wix.com is a leading cloud-based development platform with millions of u
 *   Instagram
 *   Linkedin
 
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=704136006388169&amp;ev=PageView&amp;noscript=1">.
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=704136006388169&amp;ev=PageView&amp;noscript=1">
