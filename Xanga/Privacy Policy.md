@@ -7,10 +7,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   38 (last comment by tade\_inc 21 hours ago)
+    *   38 (last comment by tade\_inc 1 day ago)
 *   Retrieve my old blog?
     *   by Jessica\_6190
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -34,7 +34,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Have Xanga User Name but cannot access email to reset password
     *   by billycyc2
-    *   1 week ago
+    *   2 weeks ago
     *   in Emails
     *   0 votes
     *   0
