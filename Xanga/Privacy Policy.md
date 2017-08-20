@@ -7,10 +7,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   38 (last comment by tade\_inc 1 day ago)
+    *   38 (last comment by tade\_inc 2 days ago)
 *   Retrieve my old blog?
     *   by Jessica\_6190
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -82,7 +82,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 (last comment by barbiegurl42788 1 month ago)
 *   This is a long shot but I'll try...
     *   by CloudStrife253
-    *   1 month ago
+    *   2 months ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
