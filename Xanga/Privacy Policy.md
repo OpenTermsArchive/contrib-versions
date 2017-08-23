@@ -7,7 +7,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   38 (last comment by tade\_inc 4 days ago)
+    *   38 (last comment by tade\_inc 5 days ago)
 *   Retrieve my old blog?
     *   by Jessica\_6190
     *   1 week ago
@@ -49,7 +49,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by SuiciDalSnYpER 4 weeks ago)
+    *   1 (last comment by SuiciDalSnYpER 1 month ago)
 *   Precious photos!!!!
     *   by shorty9564
     *   1 year ago
@@ -73,13 +73,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Privacy
     *   0 votes
-    *   2 (last comment by sora178 1 month ago)
+    *   2 (last comment by sora178 2 months ago)
 *   How to see old posts
     *   \[Resolved\] by SparklinEyez509
     *   3 years ago
     *   in Themes
     *   0 votes
-    *   5 (last comment by barbiegurl42788 1 month ago)
+    *   5 (last comment by barbiegurl42788 2 months ago)
 *   This is a long shot but I'll try...
     *   by CloudStrife253
     *   2 months ago
