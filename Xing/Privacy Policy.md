@@ -227,7 +227,7 @@ LinkedIn: Advertising preferences
 
 AdClear: You can opt out of tracking performed by AdClear.
 
-Opt out of Adclear tracking
+Opt out of data collection by AdClear Allow data collection by AdClear.
 
 Sociomantic: Advertising Privacy Policy &. Opt-Out
 
