@@ -1,4 +1,4 @@
-<iframe width="0" style="display:none;visibility:hidden" src="//www.googletagmanager.com/ns.html?id=GTM-P6HT97" height="0"></iframe>. Homepage Sign in or Join Sign In
+<iframe width="0" style="display:none;visibility:hidden" src="//www.googletagmanager.com/ns.html?id=GTM-P6HT97" height="0"></iframe>. Homepage List your rental Sign in or Join Sign In
 
 Need an account?  Sign up here
 
@@ -56,6 +56,7 @@ Mortgages
 
 *   Shop mortgages
     *   *   Mortgage lenders
+        *   HELOC lenders
         *   Mortgage rates
         *   Refinance rates
         *   All mortgage rates
@@ -76,8 +77,11 @@ Agent finder
 *   Looking for pros?
     *   *   Real estate agents
         *   Property managers
-    *   *   Home improvement pros
+        *   Home inspectors
         *   Other pros
+    *   *   Home improvement pros
+        *   Home builders
+        *   Real estate photographers
 *   I'm a pro
     *   *   Agent advertising
         *   Agent resource center
