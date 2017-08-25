@@ -7,7 +7,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   38 (last comment by tade\_inc 6 days ago)
+    *   38 (last comment by tade\_inc 1 week ago)
 *   Retrieve my old blog?
     *   by Jessica\_6190
     *   1 week ago
@@ -16,7 +16,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   old xanga
     *   by farahrasol
-    *   1 week ago
+    *   2 weeks ago
     *   in Premium
     *   0 votes
     *   0
@@ -67,7 +67,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   5 (last comment by megan\_val09 1 month ago)
+    *   5 (last comment by megan\_val09 2 months ago)
 *   Is xanga no longer free?
     *   \[Resolved\] by WC6F20
     *   3 years ago
