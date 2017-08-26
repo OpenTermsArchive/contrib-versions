@@ -34,7 +34,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Have Xanga User Name but cannot access email to reset password
     *   by billycyc2
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Emails
     *   0 votes
     *   0
