@@ -2,6 +2,12 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Blogs
+    *   by aamazing1990
+    *   2 hours ago
+    *   in Themes
+    *   0 votes
+    *   0
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   2 years ago
@@ -84,12 +90,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by CloudStrife253
     *   2 months ago
     *   in Passwords &. Sign-In
-    *   0 votes
-    *   0
-*   Can't remember password and email is old
-    *   by Stevek83
-    *   2 months ago
-    *   in Emails
     *   0 votes
     *   0
 
