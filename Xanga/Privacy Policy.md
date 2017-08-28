@@ -4,7 +4,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Blogs
     *   by aamazing1990
-    *   2 hours ago
+    *   1 day ago
     *   in Themes
     *   0 votes
     *   0
@@ -34,7 +34,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by rambo\_60th 2 weeks ago)
 *   how to restore my entries on xanga
     *   by coffeeling
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Premium
     *   0 votes
     *   0
