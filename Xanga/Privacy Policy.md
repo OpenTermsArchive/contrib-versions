@@ -2,9 +2,21 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Download my content
+    *   by pearlbamboo
+    *   11 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Download my content
+    *   by pearlbamboo
+    *   11 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Blogs
     *   by aamazing1990
-    *   1 day ago
+    *   2 days ago
     *   in Themes
     *   0 votes
     *   0
@@ -16,7 +28,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   38 (last comment by tade\_inc 1 week ago)
 *   Retrieve my old blog?
     *   by Jessica\_6190
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -80,18 +92,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Privacy
     *   0 votes
     *   2 (last comment by sora178 2 months ago)
-*   How to see old posts
-    *   \[Resolved\] by SparklinEyez509
-    *   3 years ago
-    *   in Themes
-    *   0 votes
-    *   5 (last comment by barbiegurl42788 2 months ago)
-*   This is a long shot but I'll try...
-    *   by CloudStrife253
-    *   2 months ago
-    *   in Passwords &. Sign-In
-    *   0 votes
-    *   0
 
 1 2 3 ... 184 Next
 
