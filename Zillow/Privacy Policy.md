@@ -241,7 +241,7 @@ _— Updated February 2016_
 *   About
 *   Zestimates
 *   Research
-*   Jobs
+*   Careers
 *   Help
 *   Advertise
 *   Terms of use &. Privacy
