@@ -2,21 +2,27 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Download my content
-    *   by pearlbamboo
-    *   11 hours ago
+*   My blogpost were deleted
+    *   by ceres\_14
+    *   4 hours ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Download my content
     *   by pearlbamboo
-    *   11 hours ago
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Download my content
+    *   by pearlbamboo
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Blogs
     *   by aamazing1990
-    *   2 days ago
+    *   3 days ago
     *   in Themes
     *   0 votes
     *   0
@@ -86,12 +92,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Passwords &. Sign-In
     *   0 votes
     *   5 (last comment by megan\_val09 2 months ago)
-*   Is xanga no longer free?
-    *   \[Resolved\] by WC6F20
-    *   3 years ago
-    *   in Privacy
-    *   0 votes
-    *   2 (last comment by sora178 2 months ago)
 
 1 2 3 ... 184 Next
 
