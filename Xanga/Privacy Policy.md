@@ -4,25 +4,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   My blogpost were deleted
     *   by ceres\_14
-    *   4 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Download my content
-    *   by pearlbamboo
     *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Download my content
     *   by pearlbamboo
-    *   1 day ago
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Download my content
+    *   by pearlbamboo
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Blogs
     *   by aamazing1990
-    *   3 days ago
+    *   4 days ago
     *   in Themes
     *   0 votes
     *   0
@@ -49,7 +49,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 months ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by rambo\_60th 2 weeks ago)
+    *   1 (last comment by rambo\_60th 3 weeks ago)
 *   how to restore my entries on xanga
     *   by coffeeling
     *   3 weeks ago
@@ -67,7 +67,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 months ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by kelvin\_stephytangfantasia 3 weeks ago)
+    *   4 (last comment by kelvin\_stephytangfantasia 4 weeks ago)
 *   Archive
     *   by kristah00
     *   1 month ago
