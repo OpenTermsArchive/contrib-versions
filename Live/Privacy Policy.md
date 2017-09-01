@@ -358,7 +358,7 @@ This data is used to provide the Enterprise and Developer Products, operate our 
 
 The Enterprise and Developer Products enable you to purchase, subscribe to or use other products and online services from Microsoft or third parties with different privacy practices, and those other products and online services will be governed by their respective privacy statements and policies.
 
-Top of page Enterprise Online ServicesEnterprise Online Services
+Learn MoreTop of page Enterprise Online ServicesEnterprise Online Services
 
 To provide the Enterprise Online Services, Microsoft collects Customer Data, Administrator Data, Payment Data, and Support Data.
 
@@ -394,7 +394,7 @@ Top of page Productivity and Communications ProductsProductivity &. Communicatio
 
 Productivity and Communications products are applications, software and services you can use to create, store and share documents, as well as communicate with others.
 
-Top of page OfficeOffice
+Learn MoreTop of page OfficeOffice
 
 Office is a collection of productivity applications including Word, Excel, PowerPoint, and Outlook among others. For more details about Outlook, see the Outlook section of this privacy statement. Various Office applications enable you to use content and functionality from other Microsoft services, such as Bing, and third-party connected services. For detailed information about how to manage your privacy options, please see go.microsoft.com/fwlink/?LinkId=624445. If you work in an organization, your administrator can turn off connected services via Group Policy.
 
@@ -470,7 +470,7 @@ Top of page Search and Artificial IntelligenceSearch &. Artificial Intelligence
 
 Search and Artificial Intelligence products connect you with information and intelligently sense, process and act on information—learning and adapting over time.
 
-Top of page BingBing
+Learn MoreTop of page BingBing
 
 Bing services include search and mapping services, as well as the Bing Toolbar and Bing Desktop apps. Bing services are also included within other Microsoft services, such as MSN Apps and Cortana, and certain features in Windows (which we refer to as Bing-powered experiences).
 
@@ -730,7 +730,7 @@ Top of page Entertainment and Related ServicesEntertainment and Related Services
 
 Entertainment and Related Services power rich experiences and enable you to access a variety of content, applications and games.
 
-Top of page XboxXbox
+Learn MoreTop of page XboxXbox
 
 Xbox consoles are hardware devices that you can use to access and play games, movies, music, and other forms of digital entertainment. Xbox Live (including Games for Windows Live) is Microsoft's online gaming and entertainment service and social network. It provides ways for you to connect with your friends on Xbox Live and other gaming and social networks. Xbox services can be accessed from a variety of devices, including Xbox consoles, PCs (including via xbox.com and the Xbox app), and mobile devices.
 
