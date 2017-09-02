@@ -4,25 +4,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   My blogpost were deleted
     *   by ceres\_14
-    *   2 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Download my content
-    *   by pearlbamboo
     *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Download my content
     *   by pearlbamboo
-    *   3 days ago
+    *   4 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Download my content
+    *   by pearlbamboo
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Blogs
     *   by aamazing1990
-    *   5 days ago
+    *   6 days ago
     *   in Themes
     *   0 votes
     *   0
@@ -58,7 +58,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Have Xanga User Name but cannot access email to reset password
     *   by billycyc2
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Emails
     *   0 votes
     *   0
@@ -67,7 +67,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 months ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by kelvin\_stephytangfantasia 4 weeks ago)
+    *   4 (last comment by kelvin\_stephytangfantasia 1 month ago)
 *   Archive
     *   by kristah00
     *   1 month ago
