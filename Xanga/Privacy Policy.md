@@ -2,27 +2,45 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Pls check my acc
+    *   by chcolate\_jose
+    *   2 hours ago
+    *   in Miscellaenous
+    *   0 votes
+    *   0
+*   I can't see any things for my side
+    *   by chcolate\_jose
+    *   2 hours ago
+    *   in Adding &. Editing Entries
+    *   0 votes
+    *   0
+*   I can't see any things for my side
+    *   by chcolate\_jose
+    *   3 hours ago
+    *   in Adding &. Editing Entries
+    *   0 votes
+    *   0
 *   My blogpost were deleted
     *   by ceres\_14
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Download my content
-    *   by pearlbamboo
     *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Download my content
     *   by pearlbamboo
-    *   4 days ago
+    *   5 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Download my content
+    *   by pearlbamboo
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Blogs
     *   by aamazing1990
-    *   6 days ago
+    *   1 week ago
     *   in Themes
     *   0 votes
     *   0
@@ -74,24 +92,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   1 (last comment by SuiciDalSnYpER 1 month ago)
-*   Precious photos!!!!
-    *   by shorty9564
-    *   1 year ago
-    *   in Pictures
-    *   0 votes
-    *   2 (last comment by tyli1122 1 month ago)
-*   please help me find my old Xanga photos
-    *   by tyli1122
-    *   1 month ago
-    *   in Pictures
-    *   0 votes
-    *   0
-*   Retrieve Old Account
-    *   \[Resolved\] by anoiFace
-    *   3 years ago
-    *   in Passwords &. Sign-In
-    *   0 votes
-    *   5 (last comment by megan\_val09 2 months ago)
 
 1 2 3 ... 184 Next
 
