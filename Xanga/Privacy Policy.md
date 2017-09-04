@@ -4,37 +4,37 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Pls check my acc
     *   by chcolate\_jose
-    *   2 hours ago
+    *   1 day ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   I can't see any things for my side
     *   by chcolate\_jose
-    *   2 hours ago
+    *   1 day ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   I can't see any things for my side
     *   by chcolate\_jose
-    *   3 hours ago
+    *   1 day ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   My blogpost were deleted
     *   by ceres\_14
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Download my content
-    *   by pearlbamboo
     *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Download my content
     *   by pearlbamboo
-    *   5 days ago
+    *   6 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Download my content
+    *   by pearlbamboo
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -70,13 +70,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by rambo\_60th 3 weeks ago)
 *   how to restore my entries on xanga
     *   by coffeeling
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Premium
     *   0 votes
     *   0
 *   Have Xanga User Name but cannot access email to reset password
     *   by billycyc2
-    *   4 weeks ago
+    *   1 month ago
     *   in Emails
     *   0 votes
     *   0
