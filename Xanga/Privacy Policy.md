@@ -4,37 +4,37 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Pls check my acc
     *   by chcolate\_jose
-    *   1 day ago
+    *   2 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   I can't see any things for my side
     *   by chcolate\_jose
-    *   1 day ago
+    *   2 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   I can't see any things for my side
     *   by chcolate\_jose
-    *   1 day ago
+    *   2 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   My blogpost were deleted
     *   by ceres\_14
-    *   5 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Download my content
-    *   by pearlbamboo
     *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Download my content
     *   by pearlbamboo
-    *   6 days ago
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Download my content
+    *   by pearlbamboo
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -52,7 +52,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   38 (last comment by tade\_inc 2 weeks ago)
 *   Retrieve my old blog?
     *   by Jessica\_6190
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
