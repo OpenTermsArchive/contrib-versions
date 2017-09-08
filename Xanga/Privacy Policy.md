@@ -4,19 +4,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Pls check my acc
     *   by chcolate\_jose
-    *   4 days ago
+    *   5 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   I can't see any things for my side
     *   by chcolate\_jose
-    *   4 days ago
+    *   5 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   I can't see any things for my side
     *   by chcolate\_jose
-    *   4 days ago
+    *   5 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
@@ -49,7 +49,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   38 (last comment by tade\_inc 2 weeks ago)
+    *   38 (last comment by tade\_inc 3 weeks ago)
 *   Retrieve my old blog?
     *   by Jessica\_6190
     *   3 weeks ago
@@ -58,7 +58,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   old xanga
     *   by farahrasol
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Premium
     *   0 votes
     *   0
