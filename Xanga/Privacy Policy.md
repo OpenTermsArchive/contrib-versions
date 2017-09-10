@@ -2,21 +2,33 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Login Email No Longer Exists
+    *   by crimefightingicecreaman
+    *   1 hour ago
+    *   in Emails
+    *   0 votes
+    *   0
+*   Please help me view my old account
+    *   by sandiegosuperstar
+    *   10 months ago
+    *   in Passwords &. Sign-In
+    *   0 votes
+    *   1 (last comment by fallentoseductions 4 hours ago)
 *   Pls check my acc
     *   by chcolate\_jose
-    *   6 days ago
+    *   1 week ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   I can't see any things for my side
     *   by chcolate\_jose
-    *   6 days ago
+    *   1 week ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   I can't see any things for my side
     *   by chcolate\_jose
-    *   6 days ago
+    *   1 week ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
@@ -40,7 +52,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Blogs
     *   by aamazing1990
-    *   1 week ago
+    *   2 weeks ago
     *   in Themes
     *   0 votes
     *   0
@@ -58,7 +70,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   old xanga
     *   by farahrasol
-    *   4 weeks ago
+    *   1 month ago
     *   in Premium
     *   0 votes
     *   0
@@ -80,18 +92,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Emails
     *   0 votes
     *   0
-*   I would like to update to Xanga 2.0
-    *   by ArmsAroundU4ever
-    *   3 months ago
-    *   in Data Migration
-    *   0 votes
-    *   4 (last comment by kelvin\_stephytangfantasia 1 month ago)
-*   Archive
-    *   by kristah00
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by SuiciDalSnYpER 1 month ago)
 
 1 2 3 ... 184 Next
 
