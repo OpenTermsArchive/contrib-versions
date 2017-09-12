@@ -4,7 +4,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Login Email No Longer Exists
     *   by crimefightingicecreaman
-    *   1 day ago
+    *   2 days ago
     *   in Emails
     *   0 votes
     *   0
@@ -13,7 +13,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   10 months ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   1 (last comment by fallentoseductions 1 day ago)
+    *   1 (last comment by fallentoseductions 2 days ago)
 *   Pls check my acc
     *   by chcolate\_jose
     *   1 week ago
@@ -40,13 +40,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Download my content
     *   by pearlbamboo
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Download my content
     *   by pearlbamboo
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -64,7 +64,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   38 (last comment by tade\_inc 3 weeks ago)
 *   Retrieve my old blog?
     *   by Jessica\_6190
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
