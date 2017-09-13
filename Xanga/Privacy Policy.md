@@ -2,9 +2,21 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   I would like to update to Xanga 2.0
+    *   by ArmsAroundU4ever
+    *   3 months ago
+    *   in Data Migration
+    *   0 votes
+    *   5 (last comment by ExiledEntertainment 10 hours ago)
+*   Retrieve my old blog?
+    *   by Jessica\_6190
+    *   4 weeks ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by ExiledEntertainment 11 hours ago)
 *   Login Email No Longer Exists
     *   by crimefightingicecreaman
-    *   2 days ago
+    *   3 days ago
     *   in Emails
     *   0 votes
     *   0
@@ -13,7 +25,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   10 months ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   1 (last comment by fallentoseductions 2 days ago)
+    *   1 (last comment by fallentoseductions 3 days ago)
 *   Pls check my acc
     *   by chcolate\_jose
     *   1 week ago
@@ -34,7 +46,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   My blogpost were deleted
     *   by ceres\_14
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -62,12 +74,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   38 (last comment by tade\_inc 3 weeks ago)
-*   Retrieve my old blog?
-    *   by Jessica\_6190
-    *   4 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 *   old xanga
     *   by farahrasol
     *   1 month ago
@@ -84,12 +90,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by coffeeling
     *   1 month ago
     *   in Premium
-    *   0 votes
-    *   0
-*   Have Xanga User Name but cannot access email to reset password
-    *   by billycyc2
-    *   1 month ago
-    *   in Emails
     *   0 votes
     *   0
 
