@@ -4,7 +4,7 @@ Print | Save
 
 **Terms and Conditions on Data Protection**
 
-“XING” refers to the service provided subject to these General Terms and Conditions and/or XING AG.
+“XING” refers to the service provided subject to these General Terms and Conditions and/or XING SE.
 
 The protection of your personal data is of utmost concern to XING.
 
@@ -124,7 +124,7 @@ You can like, find interesting and comment on your contacts' activity (hereinaft
 
 **3.5 Billing details**
 
-If you use any of XING's paid services, XING will collect and use your billing details such as your credit card or bank details for billing and payment purposes. If you select credit card as your method of payment and pay with your MasterCard or Visa credit card (not American Express), XING S.à r.l. shall process your billing data along with any other details required for billing purposes (e.g. name and billing address). In such cases, XING AG and XING S.à r.l. shall process your data in accordance with applicable Luxembourg law, in particular the Law of 2 August 2002 on the Protection of Persons with regard to the Processing of Personal Data. XING S.à r.l. shall not process your data in any other cases, including if you choose a payment method other than credit card. To the extent required, your billing details are sent to, collected and processed by service providers such as credit card companies in order to process payments. Your billing details are saved in order to process payments for automatic user account extensions.
+If you use any of XING's paid services, XING will collect and use your billing details such as your credit card or bank details for billing and payment purposes. If you select credit card as your method of payment and pay with your MasterCard or Visa credit card (not American Express), XING S.à r.l. shall process your billing data along with any other details required for billing purposes (e.g. name and billing address). In such cases, XING SE and XING S.à r.l. shall process your data in accordance with applicable Luxembourg law, in particular the Law of 2 August 2002 on the Protection of Persons with regard to the Processing of Personal Data. XING S.à r.l. shall not process your data in any other cases, including if you choose a payment method other than credit card. To the extent required, your billing details are sent to, collected and processed by service providers such as credit card companies in order to process payments. Your billing details are saved in order to process payments for automatic user account extensions.
 
 **4\. Visibility of your Profile to Non-Members of XING**
 
@@ -156,7 +156,7 @@ XING provides the XING API to selected developers and companies ("API Partners")
 
 API Partners are required to register on XING and enter into an agreement with XING that governs both the rights and duties of both parties. The API Partners are in particular required to give their consent in terms of accessing, saving and using personal data. XING requires contractual agreements and has made technical provisions to prevent API Partners from potentially misusing personal data.
 
-Every API Partner application that accesses the data and content of XING Members requires the prior consent of XING AG. XING has therefore compiled a list of criteria in order to ensure that XING Member data is both safe and secure.
+Every API Partner application that accesses the data and content of XING Members requires the prior consent of XING SE. XING has therefore compiled a list of criteria in order to ensure that XING Member data is both safe and secure.
 
 If an application involves personal data being processed in countries outside of the European Union ("third countries"), XING will stipulate the privacy policy required in order to ensure that API Partners in third countries maintain an appropriate level of data protection. If you would like to use an API Partner application, you need to grant the application access to data on XING. Depending on the application in question, a separate declaration of consent for data processing may be required. When API Partners process XING Member data, this is performed on behalf of the XING Member that activated the application.
 
