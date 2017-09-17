@@ -7,16 +7,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 months ago
     *   in Data Migration
     *   0 votes
-    *   5 (last comment by ExiledEntertainment 3 days ago)
+    *   5 (last comment by ExiledEntertainment 4 days ago)
 *   Retrieve my old blog?
     *   by Jessica\_6190
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by ExiledEntertainment 3 days ago)
+    *   2 (last comment by ExiledEntertainment 4 days ago)
 *   Login Email No Longer Exists
     *   by crimefightingicecreaman
-    *   6 days ago
+    *   1 week ago
     *   in Emails
     *   0 votes
     *   0
@@ -25,22 +25,22 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   10 months ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   1 (last comment by fallentoseductions 6 days ago)
+    *   1 (last comment by fallentoseductions 1 week ago)
 *   Pls check my acc
     *   by chcolate\_jose
-    *   1 week ago
+    *   2 weeks ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   I can't see any things for my side
     *   by chcolate\_jose
-    *   1 week ago
+    *   2 weeks ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   I can't see any things for my side
     *   by chcolate\_jose
-    *   1 week ago
+    *   2 weeks ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
@@ -64,7 +64,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Blogs
     *   by aamazing1990
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Themes
     *   0 votes
     *   0
@@ -73,7 +73,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   38 (last comment by tade\_inc 4 weeks ago)
+    *   38 (last comment by tade\_inc 1 month ago)
 *   old xanga
     *   by farahrasol
     *   1 month ago
