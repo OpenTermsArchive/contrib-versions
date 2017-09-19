@@ -7,13 +7,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 months ago
     *   in Data Migration
     *   0 votes
-    *   6 (last comment by lub\_dark 14 hours ago)
+    *   6 (last comment by lub\_dark 1 day ago)
 *   Retrieve my old blog?
     *   by Jessica\_6190
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by ExiledEntertainment 5 days ago)
+    *   2 (last comment by ExiledEntertainment 6 days ago)
 *   Login Email No Longer Exists
     *   by crimefightingicecreaman
     *   1 week ago
@@ -52,13 +52,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Download my content
     *   by pearlbamboo
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Download my content
     *   by pearlbamboo
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
