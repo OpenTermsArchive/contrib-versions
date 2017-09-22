@@ -116,7 +116,7 @@ Comcast applies a monthly data consumption threshold to XFINITY Internet account
 V. Violation of this Acceptable Use Policy  
 What happens if you violate this Policy?
 
-Comcast reserves the right immediately to suspend or terminate your Service account and terminate the Subscriber Agreement if you violate the terms of this Policy or the Subscriber Agreement, or if anyone else you permit to access the Service violates this Policy.
+Comcast reserves the right immediately to suspend or apply other interim measures in its sole discretion to your Service, or terminate your Service account and terminate the Subscriber Agreement if you violate the terms of this Policy or the Subscriber Agreement, or if anyone else you permit to access the Service violates this Policy. In that event, Comcast also reserves the right to downgrade, suspend, or terminate other Comcast services you receive.
 
 How does Comcast enforce this Policy?
 
@@ -133,7 +133,7 @@ Comcast is committed to complying with U.S. copyright and related laws, and requ
 
 What is Comcast's DMCA policy?
 
-Owners of copyrighted works who believe that their rights under U.S. copyright law have been infringed may take advantage of certain provisions of the Digital Millennium Copyright Act of 1998 (the “DMCA”) to report alleged infringements. It is Comcast's policy in accordance with the DMCA and other applicable laws to reserve the right to terminate the Service provided to any customer or user who is either found to infringe third party copyright or other intellectual property rights, including repeat infringers, or who Comcast, in its sole discretion, believes is infringing these rights. Comcast may terminate the Service at any time with or without notice for any affected customer or user.
+Owners of copyrighted works who believe that their rights under U.S. copyright law have been infringed may take advantage of certain provisions of the Digital Millennium Copyright Act of 1998 (the “DMCA”) to report alleged infringements to us. In accordance with the DMCA and other applicable laws, Comcast also maintains a policy to terminate the Service, in appropriate circumstances, provided to any customer or user who is a repeat infringer of third party copyright rights. Comcast’s repeat infringer policy includes graduated or escalated alerts of alleged infringements, acknowledgement of alerts, suspension of the Service, the application of other interim measures determined in its sole discretion to the Service, and, in appropriate circumstances, termination of the Service (and other services provided by Comcast to you). You can learn more about Comcast’s DMCA and repeat infringer policies here. Comcast also reserves the right to terminate the Service at any time with or without notice for any affected customer or user who Comcast, in its sole discretion, believes is infringing any copyright or other intellectual property rights.
 
 How do copyright owners report alleged infringements to Comcast under the DMCA?
 
@@ -141,11 +141,11 @@ Copyright owners may report alleged infringements of their works by sending Comc
 
 Copyright owners may send Comcast a notification of claimed infringement to report alleged infringements of their works under the DMCA to:
 
-M. Moleski/DMCA Notifications  
+DMCA Notifications  
 Comcast Cable Communications, LLC  
-1800 Bishops Gate Drive  
-Mount Laurel, NJ 08054 U.S.A.  
-Phone: 888.565.4329  
+141 Woodcrest Road  
+Cherry Hill, NJ 08003 U.S.A.  
+Phone: 877.842.2112  
 Fax: 856.324.2940  
 Email: dmca@comcast.net
 
@@ -157,6 +157,6 @@ If you receive a DMCA notification of alleged infringement as described above, a
 
 If a notification of claimed infringement has been filed against you, you can file a counter notification with Comcast's designated agent using the contact information shown above. All counter notifications must satisfy the requirements of Section 512(g)(3) of the U.S. Copyright Act.
 
-Revised and effective: March 1, 2017
+Revised and effective: September 21, 2017
 
 <. Back
