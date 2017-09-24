@@ -2,12 +2,24 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   How do I download an archive of my old blog?
+    *   \[Resolved\] by thibault
+    *   2 years ago
+    *   in Data Migration
+    *   0 votes
+    *   39 (last comment by BurningInWaterDr0wningInFlames 1 hour ago)
+*   How to see old posts
+    *   \[Resolved\] by SparklinEyez509
+    *   3 years ago
+    *   in Themes
+    *   0 votes
+    *   6 (last comment by BurningInWaterDr0wningInFlames 1 hour ago)
 *   I would like to update to Xanga 2.0
     *   by ArmsAroundU4ever
     *   3 months ago
     *   in Data Migration
     *   0 votes
-    *   6 (last comment by lub\_dark 5 days ago)
+    *   6 (last comment by lub\_dark 6 days ago)
 *   Retrieve my old blog?
     *   by Jessica\_6190
     *   1 month ago
@@ -16,7 +28,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 (last comment by ExiledEntertainment 1 week ago)
 *   Login Email No Longer Exists
     *   by crimefightingicecreaman
-    *   1 week ago
+    *   2 weeks ago
     *   in Emails
     *   0 votes
     *   0
@@ -25,22 +37,22 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   10 months ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   1 (last comment by fallentoseductions 1 week ago)
+    *   1 (last comment by fallentoseductions 2 weeks ago)
 *   Pls check my acc
     *   by chcolate\_jose
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   I can't see any things for my side
     *   by chcolate\_jose
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   I can't see any things for my side
     *   by chcolate\_jose
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
@@ -64,16 +76,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Blogs
     *   by aamazing1990
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Themes
     *   0 votes
     *   0
-*   How do I download an archive of my old blog?
-    *   \[Resolved\] by thibault
-    *   2 years ago
-    *   in Data Migration
-    *   0 votes
-    *   38 (last comment by tade\_inc 1 month ago)
 *   old xanga
     *   by farahrasol
     *   1 month ago
@@ -86,12 +92,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   1 (last comment by rambo\_60th 1 month ago)
-*   how to restore my entries on xanga
-    *   by coffeeling
-    *   1 month ago
-    *   in Premium
-    *   0 votes
-    *   0
 
 1 2 3 ... 184 Next
 
