@@ -1,3 +1,9 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
@@ -7,19 +13,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   39 (last comment by BurningInWaterDr0wningInFlames 1 hour ago)
+    *   39 (last comment by BurningInWaterDr0wningInFlames 1 day ago)
 *   How to see old posts
     *   \[Resolved\] by SparklinEyez509
     *   3 years ago
     *   in Themes
     *   0 votes
-    *   6 (last comment by BurningInWaterDr0wningInFlames 1 hour ago)
+    *   6 (last comment by BurningInWaterDr0wningInFlames 1 day ago)
 *   I would like to update to Xanga 2.0
     *   by ArmsAroundU4ever
     *   3 months ago
     *   in Data Migration
     *   0 votes
-    *   6 (last comment by lub\_dark 6 days ago)
+    *   6 (last comment by lub\_dark 1 week ago)
 *   Retrieve my old blog?
     *   by Jessica\_6190
     *   1 month ago
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
