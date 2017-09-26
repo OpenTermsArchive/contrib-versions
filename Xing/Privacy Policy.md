@@ -14,6 +14,7 @@ Additional Privacy Policies apply to the following XING applications, which you 
 
 *   XING applications
 *   XING TalentManager
+*   XING TalentpoolManager
 *   XING AdCreator
 *   XING Events
 *   kununu (German only)
