@@ -24,35 +24,35 @@ If you are a covered entity, business associate or representative of a covered e
 
 **II. FEATURES AND SERVICES**
 
-**A. Use of Location-based Services**
+ **A. Use of Location-based Services**
 
 Apple and its partners and licensors may provide certain features or services (e.g., Find My iPhone, Find My Friends) that rely upon device-based location information using GPS (where available) and crowd-sourced Wi-Fi hotspot and cell tower locations. To provide such features or services, where available, Apple and its partners and licensors must collect, use, transmit, process and maintain your location data, including but not limited to the geographic location of your device and information related to your iCloud account (“Account”) and any devices registered thereunder, including but not limited to your Apple ID, device ID and name, and device type. 
 
 You may withdraw consent to Apple and its partners’ and licensors’ collection, use, transmission, processing and maintenance of location and Account data at any time by not using the location-based features and turning off the Find My iPhone, Find My Friends, or Location Services settings (as applicable) on your device. When using third party services that use or provide location data as part of the Service, you are subject to and should review such third party’s terms and privacy policy on use of location data by such third party services. Any location data provided by the Service is not intended to be relied upon in situations where precise location information is needed or where erroneous, inaccurate, time-delayed or incomplete location data may lead to death, personal injury, property or environmental damage. Apple shall use reasonable skill and due care in providing the Service, but neither Apple nor any of its service and/or content providers guarantees the availability, accuracy, completeness, reliability, or timeliness of location data or any other data displayed by the Service. LOCATION-BASED SERVICES ARE NOT INTENDED OR SUITABLE FOR USE AS AN EMERGENCY LOCATOR SYSTEM.
 
-**B. Find My iPhone**
+ **B. Find My iPhone**
 
 Find My iPhone is automatically enabled on iOS devices running iOS 8 or later, and any Apple accessory paired with your iPhone, when iCloud is enabled. When Find My iPhone is enabled on iOS devices running iOS 7 or later, your iOS device will be automatically linked to your Apple ID.  Your Apple ID password will be required before anyone (including you) can turn off Find My iPhone, sign out of iCloud, erase or activate the device.  Apple and its authorized agents may not perform hardware or software support services, including services under Apple’s limited warranty, unless you disable Find My iPhone prior to service.  Apple shall bear no responsibility for your failure to protect your iOS device with a passcode, enable Lost Mode, and/or receive or respond to notices and communications.  Apple shall also bear no responsibility for returning your iOS device to you or for any loss of data on your iOS device.
 
-**C. Backup**
+ **C. Backup**
 
-iCloud Backup periodically creates automatic backups for iOS devices, when the device is screen locked, connected to a power source, and connected to the Internet via a Wi-Fi network. If a device has not backed up to iCloud for a period of one hundred and eighty (180) days, Apple reserves the right to delete any backups associated with that device. Backup may include device settings, device characteristics, photos and videos, documents, your messages, ringtones, Health app data and other app data. For additional information, please go to https://support.apple.com/en-us/HT207428. The following content is not included in your iCloud backup: content purchased from the iTunes Store, App Store, or iBooks Store, media synced from your computer, and your photo library if you have enabled iCloud Photo Library. Apple shall use reasonable skill and due care in providing the Service, but, TO THE GREATEST EXTENT PERMISSIBLE BY APPLICABLE LAW, APPLE DOES NOT GUARANTEE OR WARRANT THAT ANY CONTENT YOU MAY STORE OR ACCESS THROUGH THE SERVICE WILL NOT BE SUBJECT TO INADVERTENT DAMAGE, CORRUPTION, LOSS, OR REMOVAL IN ACCORDANCE WITH THE TERMS OF THIS AGREEMENT, AND APPLE SHALL NOT BE RESPONSIBLE SHOULD SUCH DAMAGE, CORRUPTION, LOSS, OR REMOVAL OCCUR. It is your responsibility to maintain appropriate alternate backup of your information and data.
+iCloud Backup periodically creates automatic backups for iOS devices, when the device is screen locked, connected to a power source, and connected to the Internet via a Wi-Fi network. If a device has not backed up to iCloud for a period of one hundred and eighty (180) days, Apple reserves the right to delete any backups associated with that device. Backup may include device settings, device characteristics, photos and videos, documents, your messages, ringtones, Health app data and other app data. For additional information, please go to https://support.apple.com/en-us/HT207428.  The following content is not included in your iCloud backup: content purchased from the iTunes Store, App Store, or iBooks Store, media synced from your computer, and your photo library if you have enabled iCloud Photo Library. Apple shall use reasonable skill and due care in providing the Service, but, TO THE GREATEST EXTENT PERMISSIBLE BY APPLICABLE LAW, APPLE DOES NOT GUARANTEE OR WARRANT THAT ANY CONTENT YOU MAY STORE OR ACCESS THROUGH THE SERVICE WILL NOT BE SUBJECT TO INADVERTENT DAMAGE, CORRUPTION, LOSS, OR REMOVAL IN ACCORDANCE WITH THE TERMS OF THIS AGREEMENT, AND APPLE SHALL NOT BE RESPONSIBLE SHOULD SUCH DAMAGE, CORRUPTION, LOSS, OR REMOVAL OCCUR. It is your responsibility to maintain appropriate alternate backup of your information and data.
 
-**D. Photos**
+ **D. Photos**
 
- **1.  iCloud Photo Library.** When you enable iCloud Photo Library, your photos, videos, metadata and any edits that you make in the Photos App on your iOS device, macOS computer, or Windows PC will be automatically uploaded and stored in iCloud, and then pushed to all of your other iCloud Photo Library-enabled devices and computers. The photo and video resolution may vary depending on your device settings and available storage. You may download full resolution photos and videos at any time.
+ **1.** **iCloud Photo Library** **.** When you enable iCloud Photo Library, your photos, videos, metadata and any edits that you make in the Photos App on your iOS device, macOS computer, or Windows PC will be automatically uploaded and stored in iCloud, and then pushed to all of your other iCloud Photo Library-enabled devices and computers. The photo and video resolution may vary depending on your device settings and available storage.  You may download full resolution photos and videos at any time.
 
- **2. iCloud Photo Sharing.**  When you use iCloud Photo Sharing, Apple stores any photos and videos you share until you delete them. You can access your shared photos and videos from any of your Apple devices that have iCloud Photo Sharing enabled. People you invite to shared albums may view, save, copy, and share these photos and videos, as well as contribute photos and videos, and comments.  If you choose to use iCloud Photo Sharing to share photos via a web link, these photos will be publicly available to anyone who has been provided or has access to the web link. If you want to stop sharing individual photos, videos, comments or entire shared albums, you may delete them at any time. However, any content previously copied from a shared album to another device or computer will not be deleted. 
+ **2.** **iCloud Photo Sharing** **.**  When you use iCloud Photo Sharing, Apple stores any photos and videos you share until you delete them. You can access your shared photos and videos from any of your Apple devices that have iCloud Photo Sharing enabled. People you invite to shared albums may view, save, copy, and share these photos and videos, as well as contribute photos and videos, and comments.  If you choose to use iCloud Photo Sharing to share photos via a web link, these photos will be publicly available to anyone who has been provided or has access to the web link. If you want to stop sharing individual photos, videos, comments or entire shared albums, you may delete them at any time.  However, any content previously copied from a shared album to another device or computer will not be deleted. 
 
- **3. My Photo Stream.** When you use My Photo Stream, Apple stores photos taken on your iOS device or uploaded from your computer for a limited period of time and automatically pushes the photos to your other Apple devices that have My Photo Stream enabled. A limited number of photos may be stored in iCloud or on your devices at any one time, and older photos will be automatically deleted from My Photo Stream over time. To keep these photos permanently, you must save them to the camera roll on your iOS device or the photo library on your computer.
+ **3.** **My Photo Stream** **.** When you use My Photo Stream, Apple stores photos taken on your iOS device or uploaded from your computer for a limited period of time and automatically pushes the photos to your other Apple devices that have My Photo Stream enabled. A limited number of photos may be stored in iCloud or on your devices at any one time, and older photos will be automatically deleted from My Photo Stream over time. To keep these photos permanently, you must save them to the camera roll on your iOS device or the photo library on your computer. 
 
- **E. Family Sharing.** With Family Sharing, you can share certain content and services including iTunes Store, iBooks Store and App Store purchases, an Apple Music subscription, and an iCloud storage subscription with members of your family. You may also share a calendar, a shared photo album, and your location with your family members. For more information regarding sharing your content purchases, please see the Apple Media Services Terms and Conditions at https://www.apple.com/legal/internet-services/itunes/ww/.
+          **E. Family Sharing.** With Family Sharing, you can share certain content and services including iTunes Store, iBooks Store and App Store purchases, an Apple Music subscription, and an iCloud storage subscription with members of your family. You may also share a calendar, a shared photo album, and your location with your family members.  For more information regarding sharing your content purchases, please see the Apple Media Services Terms and Conditions at https://www.apple.com/legal/internet-services/itunes/ww/ .
 
- **F. File Sharing.** When you use iCloud File Sharing, Apple stores any files you share until you delete them. You can access your shared files from any of your Apple devices with iCloud Drive enabled. You may give access to people to view, save, copy or edit these files. You have the option to give people the right to edit the files or to only view them. If you use iCloud File Sharing to share files via a web link, these files will be publicly accessible to anyone who has been provided the web link. You can stop sharing files at any time. If you stop sharing, files will be removed from iCloud Drive on everyone’s devices. However, any file previously copied to another device or computer will not be deleted.
+          **F. File Sharing.** When you use iCloud File Sharing, Apple stores any files you share until you delete them.  You can access your shared files from any of your Apple devices with iCloud Drive enabled. You may give access to people to view, save, copy or edit these files.  You have the option to give people the right to edit the files or to only view them.  If you use iCloud File Sharing to share files via a web link, these files will be publicly accessible to anyone who has been provided the web link.  You can stop sharing files at any time.  If you stop sharing, files will be removed from iCloud Drive on everyone’s devices. However, any file previously copied to another device or computer will not be deleted.
 
- **G. Mail Drop.** If you are logged in to iCloud and you use the macOS Mail app or iCloud Mail on the web to send emails with large attachments, you will have the option of using Mail Drop. With Mail Drop, your large attachments will be temporarily stored on iCloud servers in order to facilitate their delivery. Apple will either send a link or a preview of the attachment to recipients, depending on your recipient’s email client application. Temporary storage of large email attachments will not count towards your iCloud storage quota. For more information about Mail Drop, please go to https://support.apple.com/en-us/HT203093.
+          **G. Mail Drop.** If you are logged in to iCloud and you use the macOS Mail app or iCloud Mail on the web to send emails with large attachments, you will have the option of using Mail Drop.  With Mail Drop, your large attachments will be temporarily stored on iCloud servers in order to facilitate their delivery. Apple will either send a link or a preview of the attachment to recipients, depending on your recipient’s email client application. Temporary storage of large email attachments will not count towards your iCloud storage quota. For more information about Mail Drop, please go to https://support.apple.com/en-us/HT203093. 
 
- **H. Third Party Apps.** If you sign in to certain third party Apps with your iCloud credentials, you agree to allow that App to store data in your personal iCloud account and for Apple to collect, store and process such data on behalf of the relevant third-party App Developer in association with your use of the Service and such Apps. The data that the App stores in your personal iCloud account will count towards your storage limit.  Such data may be shared with another App that you download from the same App Developer. 
+          **H. Third Party Apps.** If you sign in to certain third party Apps with your iCloud credentials, you agree to allow that App to store data in your personal iCloud account and for Apple to collect, store and process such data on behalf of the relevant third-party App Developer in association with your use of the Service and such Apps. The data that the App stores in your personal iCloud account will count towards your storage limit.  Such data may be shared with another App that you download from the same App Developer. 
 
  **I. iCloud web-only account.** If you sign up for the Service with a web-only account on a non-Apple-branded device or computer, you will have access to only a limited set of Service functionality. You will receive 1 GB of free storage and you will not be able to increase this amount with a web-only account. As a condition to accessing the Service with a web-only account, you agree to all relevant terms and conditions found in this Agreement, including, without limitation, all requirements for use of the Service, limitations on use, availability, public beta, disclaimers of warranties, rules regarding your content and conduct, and termination. Terms found in this Agreement relating to features not available for web-only users will not be applicable to you. These include, for example, use of location based services and payment of fees for iCloud storage upgrades. You further agree that if you subsequently access your web-only account from an Apple-branded device or Apple-branded computer, whether or not you own such device or computer, Apple may automatically upgrade your web-only account to a full iCloud account and provide all available functionality of the Service to you, including increased free storage capacity. If you choose to access your web-only account from an Apple-branded device or Apple-branded computer and you are subsequently upgraded to full functionality of the Service, you agree that all of the terms and conditions contained herein apply to your use of the Service. If you do not want to have a full iCloud account, do not sign in to your web-only account from an Apple-branded device or computer.
 
@@ -62,7 +62,7 @@ iCloud Backup periodically creates automatic backups for iOS devices, when the d
 
 Additional storage is available for purchase on a subscription basis.
 
-**A. Payment**
+ **A. Payment**
 
 By upgrading your storage on your device or computer, Apple will automatically charge on a recurring basis the payment method associated with your Apple ID (e.g., the payment method you use to shop on the iTunes Store, App Store, or iBooks Store, if available) or the payment method associated with your Family account. If you are a Family organizer, you agree to have Apple charge your payment method on a recurring basis for members of your Family who upgrade their storage. Apple may also obtain preapproval for an amount up to the amount of the transaction and contact you periodically by email to the email address associated with your Apple ID for billing reminders and other storage account-related communications.  
 
@@ -72,7 +72,7 @@ The applicable storage fee for an upgraded storage plan will take effect immedia
 
 Your total price will include the price of the upgrade plus any applicable credit card fees and any sales, use, goods and services (GST), value added (VAT), or other similar tax, under applicable law and based on the tax rate in effect at the time you purchase the upgrade. We will charge tax when required to do so under the tax rules applicable to the Service.
 
-**B. Right of Withdrawal**
+ **B. Right of Withdrawal**
 
 If you choose to cancel your subscription following its initial purchase or, if you are on an annual payment plan, following the commencement of any renewal term, you may do so by informing Apple with a clear statement (see applicable address details in section “General” below) within 14 days from when you received your e-mail confirmation by contacting Customer Support. You do not need to provide a reason for cancellation. 
 
@@ -100,35 +100,35 @@ We will reduce your storage back to 5 GB and reimburse you no later than 14 days
 
 **IV. Your Use of the Service**
 
-**A. Your Account**
+ **A. Your Account**
 
 As a registered user of the Service, you must establish an Account. Don’t reveal your Account information to anyone else. You are solely responsible for maintaining the confidentiality and security of your Account and for all activities that occur on or through your Account, and you agree to immediately notify Apple of any security breach of your Account. You further acknowledge and agree that the Service is designed and intended for personal use on an individual basis and you should not share your Account and/or password details with another individual. Provided we have exercised reasonable skill and due care, Apple shall not be responsible for any losses arising out of the unauthorized use of your Account resulting from you not following these rules.
 
 In order to use the Service, you must enter your Apple ID and password to authenticate your Account. You agree to provide accurate and complete information when you register with, and as you use, the Service (“Service Registration Data”), and you agree to update your Service Registration Data to keep it accurate and complete. Failure to provide accurate, current and complete Service Registration Data may result in the suspension and/or termination of your Account. You agree that Apple may store and use the Service Registration Data you provide for use in maintaining and billing fees to your Account.
 
-**B. Use of Other Apple Products and Services**
+ **B. Use of Other Apple Products and Services**
 
 Particular components or features of the Service provided by Apple and/or its licensors, including but not limited to the ability to download previous purchases and iTunes Match and/or iCloud Music Library (additional fees apply), require separate software or other license agreements or terms of use. You must read, accept, and agree to be bound by any such separate agreement as a condition of using these particular components or features of the Service.
 
-**C. No Conveyance**
+ **C. No Conveyance**
 
 Nothing in this Agreement shall be construed to convey to you any interest, title, or license in an Apple ID, email address, domain name, iChat ID, or similar resource used by you in connection with the Service.
 
-**D. No Right of Survivorship**
+ **D. No Right of Survivorship**
 
 Unless otherwise required by law, You agree that your Account is non-transferable and that any rights to your Apple ID or Content within your Account terminate upon your death. Upon receipt of a copy of a death certificate your Account may be terminated and all Content within your Account deleted. Contact iCloud Support at https://support.apple.com/icloud for further assistance.
 
-**E. No Resale of Service**
+ **E. No Resale of Service**
 
 You agree that you will not reproduce, copy, duplicate, sell, resell, rent or trade the Service (or any part thereof) for any purpose.
 
 **V. Content and Your Conduct**
 
-**A. Content**
+ **A. Content**
 
 “Content” means any information that may be generated or encountered through use of the Service, such as data files, device characteristics, written text, software, music, graphics, photographs, images, sounds, videos, messages and any other like materials. You understand that all Content, whether publicly posted or privately transmitted on the Service is the sole responsibility of the person from whom such Content originated. This means that you, and not Apple, are solely responsible for any Content you upload, download, post, email, transmit, store or otherwise make available through your use of the Service. You understand that by using the Service you may encounter Content that you may find offensive, indecent, or objectionable, and that you may expose others to Content that they may find objectionable. Apple does not control the Content posted via the Service, nor does it guarantee the accuracy, integrity or quality of such Content. You understand and agree that your use of the Service and any Content is solely at your own risk.
 
-**B. Your Conduct**
+ **B. Your Conduct**
 
 You agree that you will NOT use the Service to:
 
@@ -154,27 +154,27 @@ j. plan or engage in any illegal activity. and/or
 
 k. gather and store personal information on any other users of the Service to be used in connection with any of the foregoing prohibited activities.
 
-**C. Removal of Content**
+ **C. Removal of Content**
 
 You acknowledge that Apple is not responsible or liable in any way for any Content provided by others and has no duty to pre-screen such Content. However, Apple reserves the right at all times to determine whether Content is appropriate and in compliance with this Agreement, and may pre-screen, move, refuse, modify and/or remove Content at any time, without prior notice and in its sole discretion, if such Content is found to be in violation of this Agreement or is otherwise objectionable.
 
-**D. Back up Your Content**
+ **D. Back up Your Content**
 
 You are responsible for backing up, to your own computer or other device, any important documents, images or other Content that you store or access via the Service. Apple shall use reasonable skill and due care in providing the Service, but Apple does not guarantee or warrant that any Content you may store or access through the Service will not be subject to inadvertent damage, corruption or loss.
 
-**E. Access to Your Account and Content**
+ **E. Access to Your Account and Content**
 
 Apple reserves the right to take steps Apple believes are reasonably necessary or appropriate to enforce and/or verify compliance with any part of this Agreement. You acknowledge and agree that Apple may, without liability to you, access, use, preserve and/or disclose your Account information and Content to law enforcement authorities, government officials, and/or a third party, as Apple believes is reasonably necessary or appropriate, if legally required to do so or if Apple has a good faith belief that such access, use, disclosure, or preservation is reasonably necessary to: (a) comply with legal process or request. (b) enforce this Agreement, including investigation of any potential violation thereof. (c) detect, prevent or otherwise address security, fraud or technical issues. or (d) protect the rights, property or safety of Apple, its users, a third party, or the public as required or permitted by law.
 
-**F. Copyright Notice - DMCA**
+ **F. Copyright Notice - DMCA**
 
 If you believe that any Content in which you claim copyright has been infringed by anyone using the Service, please contact Apple’s Copyright Agent as described in our Copyright Policy at https://www.apple.com/legal/trademark/claimsofcopyright.html. Apple may, in its sole discretion, suspend and/or terminate Accounts of users that are found to be repeat infringers.
 
-**G. Violations of this Agreement**
+ **G. Violations of this Agreement**
 
 If while using the Service, you encounter Content you find inappropriate, or otherwise believe to be a violation of this Agreement, you may report it by sending an email to abuse@iCloud.com.
 
-**H. Content Submitted or Made Available by You on the Service**
+ **H. Content Submitted or Made Available by You on the Service**
 
 **1\. License from You.** Except for material we may license to you, Apple does not claim ownership of the materials and/or Content you submit or make available on the Service. However, by submitting or posting such Content on areas of the Service that are accessible by the public or other users with whom you consent to share such Content, you grant Apple a worldwide, royalty-free, non-exclusive license to use, distribute, reproduce, modify, adapt, publish, translate, publicly perform and publicly display such Content on the Service solely for the purpose for which such Content was submitted or made available, without any compensation or obligation to you. You agree that any Content submitted or posted by you shall be your sole responsibility, shall not infringe or violate the rights of any other party or violate any laws, contribute to or encourage infringing or otherwise unlawful conduct, or otherwise be obscene, objectionable, or in poor taste. By submitting or posting such Content on areas of the Service that are accessible by the public or other users, you are representing that you are the owner of such material and/or have all necessary rights, licenses, and authorization to distribute it.
 
@@ -196,15 +196,15 @@ If while using the Service, you encounter Content you find inappropriate, or oth
 
 **VII. Termination**
 
-**A. Voluntary Termination by You**
+ **A. Voluntary Termination by You**
 
 You may delete your Apple ID and/or stop using the Service at any time. If you wish to stop using iCloud on your device, you may disable iCloud from a device by opening Settings on your device, tapping iCloud, and tapping ”Sign Out”. To terminate your Account and delete your Apple ID, contact Apple Support at https://support.apple.com/contact. If you terminate your Account and delete your Apple ID, you will not have access to other Apple products and services with that Apple ID. This action may be non-reversible. Any fees paid by you prior to your termination are nonrefundable (except as expressly permitted otherwise by this Agreement), including any fees paid in advance for the billing year during which you terminate. Termination of your Account shall not relieve you of any obligation to pay any accrued fees or charges.
 
-**B. Termination by Apple**
+ **B. Termination by Apple**
 
 Apple may at any time, under certain circumstances and without prior notice, immediately terminate or suspend all or a portion of your Account and/or access to the Service. Cause for such termination shall include: (a) violations of this Agreement or any other policies or guidelines that are referenced herein and/or posted on the Service. (b) a request by you to cancel or terminate your Account. (c) a request and/or order from law enforcement, a judicial body, or other government agency. (d) where provision of the Service to you is or may become unlawful. (e) unexpected technical or security issues or problems. (f) your participation in fraudulent or illegal activities. or (g) failure to pay any fees owed by you in relation to the Service, provided that in the case of non-material breach, Apple will be permitted to terminate only after giving you 30 days’ notice and only if you have not cured the breach within such 30-day period. Any such termination or suspension shall be made by Apple in its sole discretion and Apple will not be responsible to you or any third party for any damages that may result or arise out of such termination or suspension of your Account and/or access to the Service. In addition, Apple may terminate your Account upon 30 days’ prior notice via email to the address associated with your Account if (a) your Account has been inactive for one (1) year. or (b) there is a general discontinuance of the Service or any part thereof. Notice of general discontinuance of service will be provided as set forth herein, unless it would not be reasonable to do so due to circumstances arising from legal, regulatory, or governmental action. to address user security, user privacy, or technical integrity concerns. to avoid service disruptions to other users. or due to a natural disaster, a catastrophic event, war, or other similar occurrence outside of Apple’s reasonable control. In the event of such termination, Apple will provide you with a pro rata refund of any pre-payment for your then-current paid term. Apple shall not be liable to you for any modifications to the Service or terms of service in accordance with this Section VIIB.
 
-**C. Effects of Termination**
+ **C. Effects of Termination**
 
 Upon termination of your Account you may lose all access to the Service and any portions thereof, including, but not limited to, your Account, Apple ID, email account, and Content. In addition, after a period of time, Apple will delete information and data stored in or as a part of your account(s). Any individual components of the Service that you may have used subject to separate software license agreements will also be terminated in accordance with those license agreements.
 
@@ -226,7 +226,7 @@ APPLE DOES NOT REPRESENT OR GUARANTEE THAT THE SERVICE WILL BE FREE FROM LOSS, C
 
 ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICE IS ACCESSED AT YOUR OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR DEVICE, COMPUTER, OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF ANY SUCH MATERIAL. YOU FURTHER ACKNOWLEDGE THAT THE SERVICE IS NOT INTENDED OR SUITABLE FOR USE IN SITUATIONS OR ENVIRONMENTS WHERE THE FAILURE OR TIME DELAYS OF, OR ERRORS OR INACCURACIES IN, THE CONTENT, DATA OR INFORMATION PROVIDED BY THE SERVICE COULD LEAD TO DEATH, PERSONAL INJURY, OR SEVERE PHYSICAL OR ENVIRONMENTAL DAMAGE.
 
-**LIMITATION OF LIABILITY**
+ **LIMITATION OF LIABILITY**
 
 SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY BY SERVICE PROVIDERS. TO THE EXTENT SUCH EXCLUSIONS OR LIMITATIONS ARE SPECIFICALLY PROHIBITED BY APPLICABLE LAW, SOME OF THE EXCLUSIONS OR LIMITATIONS SET FORTH BELOW MAY NOT APPLY TO YOU.
 
@@ -234,17 +234,17 @@ APPLE SHALL USE REASONABLE SKILL AND DUE CARE IN PROVIDING THE SERVICE. THE FOLL
 
 YOU EXPRESSLY UNDERSTAND AND AGREE THAT APPLE AND ITS AFFILIATES, SUBSIDIARIES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, PARTNERS AND LICENSORS SHALL NOT BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA, COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, OR OTHER INTANGIBLE LOSSES (EVEN IF APPLE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), RESULTING FROM: (I) THE USE OR INABILITY TO USE THE SERVICE (II) ANY CHANGES MADE TO THE SERVICE OR ANY TEMPORARY OR PERMANENT CESSATION OF THE SERVICE OR ANY PART THEREOF. (III) THE UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSIONS OR DATA. (IV) THE DELETION OF, CORRUPTION OF, OR FAILURE TO STORE AND/OR SEND OR RECEIVE YOUR TRANSMISSIONS OR DATA ON OR THROUGH THE SERVICE. (V) STATEMENTS OR CONDUCT OF ANY THIRD PARTY ON THE SERVICE. AND (VI) ANY OTHER MATTER RELATING TO THE SERVICE.
 
-**INDEMNIFICATION**
+ **INDEMNIFICATION**
 
 You agree to defend, indemnify and hold Apple, its affiliates, subsidiaries, directors, officers, employees, agents, partners, contractors, and licensors harmless from any claim or demand, including reasonable attorneys’ fees, made by a third party, relating to or arising from: (a) any Content you submit, post, transmit, or otherwise make available through the Service. (b) your use of the Service. (c) any violation by you of this Agreement. (d) any action taken by Apple as part of its investigation of a suspected violation of this Agreement or as a result of its finding or decision that a violation of this Agreement has occurred. or (e) your violation of any rights of another. This means that you cannot sue Apple, its affiliates, subsidiaries, directors, officers, employees, agents, partners, contractors, and licensors as a result of its decision to remove or refuse to process any information or Content, to warn you, to suspend or terminate your access to the Service, or to take any other action during the investigation of a suspected violation or as a result of Apple’s conclusion that a violation of this Agreement has occurred. This waiver and indemnity provision applies to all violations described in or contemplated by this Agreement. This obligation shall survive the termination or expiration of this Agreement and/or your use of the Service. You acknowledge that you are responsible for all use of the Service using your Account, and that this Agreement applies to any and all usage of your Account. You agree to comply with this Agreement and to defend, indemnify and hold harmless Apple from and against any and all claims and demands arising from usage of your Account, whether or not such usage is expressly authorized by you.
 
 **X. GENERAL**
 
-**A. Notices**
+ **A. Notices**
 
 Apple may provide you with notices regarding the Service, including changes to this Agreement, by email to your iCloud email address (and/or other alternate email address associated with your Account if provided), iMessage or SMS, by regular mail, or by postings on our website and/or the Service.
 
-**B. Governing Law**
+ **B. Governing Law**
 
 Except to the extent expressly provided in the following paragraph, this Agreement and the relationship between you and Apple shall be governed by the laws of the State of California, excluding its conflicts of law provisions. You and Apple agree to submit to the personal and exclusive jurisdiction of the courts located within the county of Santa Clara, California, to resolve any dispute or claim arising from this Agreement. If (a) you are not a U.S. citizen. (b) you do not reside in the U.S.. (c) you are not accessing the Service from the U.S.. and (d) you are a citizen of one of the countries identified below, you hereby agree that any dispute or claim arising from this Agreement shall be governed by the applicable law set forth below, without regard to any conflict of law provisions, and you hereby irrevocably submit to the non-exclusive jurisdiction of the courts located in the state, province or country identified below whose law governs:
 
@@ -252,11 +252,11 @@ If you are a citizen of any European Union country or Switzerland, Norway or Ice
 
 Specifically excluded from application to this Agreement is that law known as the United Nations Convention on the International Sale of Goods.
 
-**C. Entire Agreement**
+ **C. Entire Agreement**
 
 This Agreement constitutes the entire agreement between you and Apple, governs your use of the Service and completely replaces any prior agreements between you and Apple in relation to the Service. You may also be subject to additional terms and conditions that may apply when you use affiliate services, third-party content, or third-party software. If any part of this Agreement is held invalid or unenforceable, that portion shall be construed in a manner consistent with applicable law to reflect, as nearly as possible, the original intentions of the parties, and the remaining portions shall remain in full force and effect. The failure of Apple to exercise or enforce any right or provision of this Agreement shall not constitute a waiver of such right or provision. You agree that, except as otherwise expressly provided in this Agreement, there shall be no third-party beneficiaries to this agreement.
 
-**D. “Apple” as used herein means:**
+ **D. “Apple” as used herein means:**
 
 • Apple Inc., located at 1 Infinite Loop, Cupertino, California, for users in North, Central, and South America (excluding Canada), as well as United States territories and possessions. and French and British possessions in North America, South America, and the Caribbean;
 
