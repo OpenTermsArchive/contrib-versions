@@ -62,10 +62,6 @@ You may also want to check out our FAQs and Privacy Policy. If you ever have any
 
 The Flickreenos, October 2014
 
-Flickr and Yahoo are now part of “Oath” and are members of the Verizon family of companies. Beginning 15 September 2017, we plan to share some user information within our new family. Learn more
-
-Dismiss
-
 *   About
 *   Jobs
 *   Blog
