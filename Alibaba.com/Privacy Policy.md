@@ -84,13 +84,13 @@ Classification of Rules >. Alibaba.com User Agreements
 
 <. Back to list Privacy Policy
 
-(Updated as of 19 September 2016)
+(Updated as of 28 September 2017)
 
-Alibaba.com and Aliexpress.com (each a "Site", together the "Sites") are electronic commerce platforms are predominantly used by business entities to facilitate electronic commerce and such business use does not generally involve the collection of personal information of individuals. Alibaba recognizes the importance of privacy as well as the importance of maintaining the confidentiality of personal information. This Privacy Policy applies to all products and services provided by us and sets out how we may collect, use and disclose information in relation to users of the Sites.
+Alibaba.com and Aliexpress.com (each a "Site", together the "Sites") are electronic commerce platforms  predominantly used by business entities to facilitate electronic commerce and such business use does not generally involve the collection of personal information of individuals. Alibaba recognizes the importance of privacy as well as the importance of maintaining the confidentiality of personal information. This Privacy Policy applies to all products and services provided by us and sets out how we may collect, use and disclose information in relation to users of the Sites.
 
 You may use our services and products via a mobile device either through mobile applications or mobile optimized websites. This Privacy Policy also applies to such use of our services and products.
 
-All capitalized terms not defined in this document shall have the meanings ascribed to them in the Terms of Use of the Site, which can be found here. If you are a user from mainland China, the Alibaba entity that you are contracting with is Alibaba Advertising Co., Ltd. If you are a user from Hong Kong and Macau, you are contracting with Alibaba.com Hong Kong Limited. If you are a user outside mainland China, Hong Kong and Macau, you are contracting with Alibaba.com Singapore E-Commerce Private Limited (“Alibaba”, “we”, “us”, “our”).
+All capitalized terms not defined in this document shall have the meanings ascribed to them in the Terms of Use of the Site, which can be found here. If you are a user from mainland China, the Alibaba entity that you are contracting with is Alibaba Advertising Co., Ltd. If you are a user from Hong Kong and Macau, you are contracting with Alibaba.com Hong Kong Limited. If you are a user outside mainland China, Hong Kong and Macau, you are contracting with Alibaba.com Singapore E-Commerce Private Limited (“Alibaba”, “we”, “us”, “our”).
 
 **A. COLLECTION OF INFORMATION**
 
@@ -100,7 +100,7 @@ All capitalized terms not defined in this document shall have the meanings ascri
 
 3\. In connection with any transaction and payment services or services under our buyer protection schemes we provide on the Sites, information, including but not limited to, bank account numbers, billing and delivery information, credit/debit card numbers and expiration dates and tracking information from cheques or money orders ("Account Information") may be collected to, among other things, facilitate the sale and purchase as well as the settlement of purchase price of the products or services transacted on or procured through the Sites.
 
-4\. We record and retain details of users’ activities on the Sites. Information relating to such transactions including, but not limited to, the types and specifications of the goods, pricing and delivery information and any trade dispute records (“Activities Information”) may be collected when sale and purchase transactions are conducted on or facilitated through the Sites
+4\. We record and retain details of users’ activities on the Sites. Information relating to such transactions including, but not limited to, the types and specifications of the goods, pricing and delivery information, any trade dispute records and any information disclosed in any discussion forum provided by us and/or other affiliated companies of the Alibaba Group (“Activities Information”) may be collected when sale and purchase transactions are conducted on or facilitated through the Sites
 
 5\. From time to time, we collect information about our users and prospective users during trade shows, industry events and other functions. The information we may collect at these locations may include, but is not limited to, user name, address, phone number, fax number and email address ("Event Information").
 
@@ -128,7 +128,7 @@ If you provide any Personal Data to us, you are deemed to have authorized us to 
 
 7\. subject to obtaining your consent in such form as may be required under the applicable law, we (including our affiliated companies and their designated Service Providers (as defined in C.1 below)) may use your name, phone number, residential address, email address, fax number and other data ("Marketing Data") to provide notices, surveys, product alerts, communications and other marketing materials to you relating to goods and services offered by us on the Sites including but not limited to Gold Suppliers membership, Verified Members membership, Free Members membership (each of Gold Suppliers membership, Verified Members membership, and Free Members membership, a “Membership” and collectively, the “Memberships”) the value added services ancillary to the Memberships, and other products and services offered by us and/or our affiliated companies and their designated Service Providers from time to time to members of the Sites;
 
-8\. if you voluntarily submit any information to the Sites for publication on the Sites through the publishing tools, including but not limited to, Company Profile, Product Catalog, Trade Leads, TrustPass Profile and any discussion forum, then you are deemed to have given consent to the publication of such information on the Sites ("Voluntary Information"). and
+8\. if you voluntarily submit any information to the Sites for publication on the Sites through the publishing tools, including but not limited to, Company or Business Profile, Product Catalog, Trade Leads, TrustPass Profile, Business Trust System and any discussion forum, then you are deemed to have given consent to the publication of such information on the Sites ("Voluntary Information"). and
 
 9\. making such disclosures as may be required for any of the above purposes or as required by law, regulations and guidelines or in respect of any investigations, claims or potential claims brought on or against us.
 
@@ -152,13 +152,23 @@ If you provide any Personal Data to us, you are deemed to have authorized us to 
 
 **D. RIGHT TO ACCESS/CORRECT PERSONAL DATA**
 
-Under the applicable laws, you have the right of access to personal information held by us and to request correction of the information.  
-If you have any questions regarding this Privacy Policy or if you wish to access or correct your Personal Data, you may send your request in writing to the following address:  
+Under the applicable laws, you have the right of access to personal information held by us and to request correction of the information.
+
+  
+If you have any questions regarding this Privacy Policy or if you wish to access or correct your Personal Data, you may send your request in writing to the following address:
+
+  
 Legal Counsel, The Legal Department  
-Alibaba.com Hong Kong Limited, 26/F, Tower One, Times Square, 1 Matheson Street, Causeway Bay, Hong Kong.  
-If you are a user from Mainland China, please send your request in writing to the following address:  
+Alibaba.com Hong Kong Limited, 26/F, Tower One, Times Square, 1 Matheson Street, Causeway Bay, Hong Kong.
+
+  
+If you are a user from Mainland China, please send your request in writing to the following address:
+
+  
 Legal Counsel, The Legal Department  
-Alibaba Advertising Co., Ltd., No. 699, Wangshang Road, Bingjiang District, Hangzhou, the People’s Republic of China.  
+Alibaba Advertising Co., Ltd., No. 699, Wangshang Road, Bingjiang District, Hangzhou, the People’s Republic of China.
+
+  
 In accordance with the applicable laws, we reserve the right to charge you a reasonable fee for the processing of any data access or correction request.
 
 **E. COOKIES**
@@ -206,4 +216,4 @@ Product Listing Policy - Intellectual Property Policy and Infringement Claims - 
 
 © 1999-2016 Alibaba.com. All rights reserved.
 
-icburule011230144130
+icburule011230144131
