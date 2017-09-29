@@ -6,13 +6,21 @@ Aetna.com works best with Safari 8 and above. Learn more >
 
 If your browser is in Private mode, pages that use personal or geographic information may not work. Learn more about private mode. >
 
+*   Español
+    
+     
+*   Contact
+*   Español
+
+*   Search
+
 *   Individuals &. Families  
 *   Employers &. Organizations  
 *   Health Care Professionals  
 *   Producers  
 *   About Us  
 
-Search Individuals &. Families Shop For
+Search Individuals &. Families Shop For Shop For
 
 *   Health Insurance
 *   Plans on the Health Insurance Marketplace
@@ -22,7 +30,7 @@ Search Individuals &. Families Shop For
 *   Medicare
 *   Medicaid
 
-Insurance through an Employer
+Insurance through an Employer Insurance through an Employer
 
 *   Health Insurance Through Work
 *   Dental Insurance Through Work
@@ -32,7 +40,7 @@ Insurance through an Employer
 *   Government &. Labor Insurance
 *   Voluntary Benefits
 
-Information &. Resources
+Information &. Resources Information &. Resources
 
 *   Pharmacy
 *   Look up Drug Coverage
@@ -45,7 +53,7 @@ Information &. Resources
 *   Mental &. Emotional Health
 *   Success Stories
 
-For Members
+For Members For Members
 
 *   Rights &. Resources
 *   Find a Form
@@ -69,7 +77,7 @@ For Members
 *   About Us
 *   News &. Analysis
 
-Employers &. Organizations Support &. Resources
+Employers &. Organizations Support &. Resources Support &. Resources
 
 *   Working with Aetna
 *   Health Insurance Exchanges
@@ -78,7 +86,7 @@ Employers &. Organizations Support &. Resources
 *   Tools, Manuals, &. Forms for Administrators
 *   Crisis Response Support &. Toolkit
 
-Products &. Programs
+Products &. Programs Products &. Programs
 
 *   Small Business
 *   Mid-Sized Business
@@ -89,7 +97,7 @@ Products &. Programs
 *   Voluntary Benefits
 *   Aetna International Insurance
 
-For Small Businesses
+For Small Businesses For Small Businesses
 
 *   Get a Quote
 *   Pay Your Bill
@@ -97,7 +105,7 @@ For Small Businesses
 *   Get SBC (Summary of Benefits and Coverage)
 *   Small Business Health Plans by State
 
-Helpful Links
+Helpful Links Helpful Links
 
 *   Manage Your Plan
 *   Get a Report
@@ -112,7 +120,7 @@ Helpful Links
 *   About Us
 *   News &. Analysis
 
-Health Care Professionals Working with Us
+Health Care Professionals Working with Us Working with Us
 
 *   Join the Network
 *   Claims, Payment &. Reimbursement
@@ -123,20 +131,21 @@ Health Care Professionals Working with Us
 *   Dispute &. Appeal Process
 
 Products &. Programs for  
+Health Care Professionals Products &. Programs for  
 Health Care Professionals
 
 *   Patient Care Programs &. Quality Assurance
 *   Pharmacy Services
 *   Medicare
 
-Resources for Health Care Professionals
+Resources for Health Care Professionals Resources for Health Care Professionals
 
 *   Newsletters &. News
 *   Forms
 *   Education &. Manuals
 *   Insurance Regulations by State
 
-Helpful Links
+Helpful Links Helpful Links
 
 *   Secure Provider Website
 *   AetnaDental.com
@@ -159,14 +168,14 @@ Helpful Links
 *   About Us
 *   News &. Analysis
 
-Producers Working with Us
+Producers Working with Us Working with Us
 
 *   Become Appointed with Aetna
 *   Producer World Tools &. Resources
 *   Working with Aetna
 *   Health Insurance Exchange for Producers
 
-Plans &. Services
+Plans &. Services Plans &. Services
 
 *   Health Plans &. Insurance
 *   Dental Plans &. Programs
@@ -180,7 +189,7 @@ Plans &. Services
 *   International Insurance
 *   Voluntary Benefits
 
-Helpful Links
+Helpful Links Helpful Links
 
 *   Get a Quote
 *   Find a Document or Form
@@ -200,7 +209,7 @@ Helpful Links
 *   About Us
 *   News &. Analysis
 
-About Us Who We Are
+About Us Who We Are Who We Are
 
 *   Aetna Values
 *   Diversity &. Inclusion
@@ -211,7 +220,7 @@ About Us Who We Are
 *   News &. Analysis
 *   Health Care Reform
 
-Initiatives
+Initiatives Initiatives
 
 *   Corporate Responsibility
 *   Awards &. Recognition
@@ -219,14 +228,14 @@ Initiatives
 *   Physician Advisory Board
 *   Doing Business with Us
 
-Working with Us
+Working with Us Working with Us
 
 *   Working at Aetna
 *   Aetna Careers
 *   Student Programs
 *   Executive Briefing Center
 
-Investors
+Investors Investors
 
 *   Financial Fundamentals
 *   Stock Details
@@ -252,14 +261,6 @@ Investors
 *   About Us
 *   Contact
 *   News &. Analysis
-
-*   Español
-    
-     
-*   Contact
-*   Español
-
-*   Search
 
 Web &. Mobile Privacy Statement
 
@@ -444,7 +445,21 @@ My ZIP code is: Select your county Select your county
 
 Please enter a valid ZIP code
 
-<div class="par parsys"><div class="progressivePageDeepLinksSection section">. <div class="deep-link-section hidden-element" data-name="ldl-find-doc">. <div class="articleModule parbase section">. <div class="articleModule ">. <p><a class="blueBtn whiteBtn full-width " href="https://member.aetna.com/appConfig/login/login.fcc?TYPE=33554433&amp;REALMOID=06-36d8cb4d-4ac1-44c7-b12d-a80fba4b718e&amp;GUID=&amp;SMAUTHREASON=0&amp;METHOD=GET&amp;SMAGENTNAME=-SM-jRs63Nsa3LlO0w8DBRJePrGDb%2fSrW4lCcEp3BCF2N5CYudNJWAZ6IAjtTBQZYxKV&amp;TARGET=-SM-HTTPS%3a%2f%2fmember%2eaetna%2ecom%2fMbrLanding%2fRoutingServlet%3fcreateSession%3dtrue%26navDeepLink%3dDOCFINDDEEPLINK" onclick="ClientContext.set('/profile/audience/member', 'returning');Aetna.analytics.omniture.linkCode('aeMemLnkSecA','Deep Link:Find A Doctor',this);s.tl(this,'e',linkText);">Continue</a></p>. </div></div>. </div>. </div>. <div class="progressivePageDeepLinksSection section">. <div class="deep-link-section hidden-element" data-name="ldl-view-coverage">. <div class="articleModule parbase section">. <div class="articleModule ">. <p><a class="blueBtn whiteBtn full-width " href="https://member.aetna.com/appConfig/login/login.fcc?TYPE=33554433&amp;REALMOID=06-36d8cb4d-4ac1-44c7-b12d-a80fba4b718e&amp;GUID=&amp;SMAUTHREASON=0&amp;METHOD=GET&amp;SMAGENTNAME=-SM-jRs63Nsa3LlO0w8DBRJePrGDb%2fSrW4lCcEp3BCF2N5CYudNJWAZ6IAjtTBQZYxKV&amp;TARGET=-SM-HTTPS%3a%2f%2fmember%2eaetna%2ecom%2fMbrLanding%2fRoutingServlet%3fcreateSession%3dtrue%26custNumSel%3dA%26serviceName%3dhome%26navDeepLink%3dBENEFITSUMMARYLNK" onclick="ClientContext.set('/profile/audience/member', 'returning');Aetna.analytics.omniture.linkCode('aeMemLnkSecA','Deep Link:View Coverage',this);s.tl(this,'e',linkText);">Continue</a></p>. </div></div>. </div>. </div>. <div class="progressivePageDeepLinksSection section">. <div class="deep-link-section hidden-element" data-name="ldl-check-claim">. <div class="articleModule parbase section">. <div class="articleModule ">. <p><a class="blueBtn whiteBtn full-width " href="https://member.aetna.com/appConfig/login/login.fcc?TYPE=33554433&amp;REALMOID=06-36d8cb4d-4ac1-44c7-b12d-a80fba4b718e&amp;GUID=&amp;SMAUTHREASON=0&amp;METHOD=GET&amp;SMAGENTNAME=-SM-jRs63Nsa3LlO0w8DBRJePrGDb%2fSrW4lCcEp3BCF2N5CYudNJWAZ6IAjtTBQZYxKV&amp;TARGET=-SM-HTTPS%3a%2f%2fmember%2eaetna%2ecom%2fMbrLanding%2fRoutingServlet%3fcreateSession%3dtrue%26custNumSel%3dA%26serviceName%3dhome%26navDeepLink%3dviewClaimsLNK" onclick="ClientContext.set('/profile/audience/member', 'returning');Aetna.analytics.omniture.linkCode('aeMemLnkSecA','Deep Link:Check Claim',this);s.tl(this,'e',linkText);">Continue</a></p>. </div></div>. </div>. </div>. <div class="progressivePageDeepLinksSection section">. <div class="deep-link-section hidden-element" data-name="ldl-get-id-card">. <div class="articleModule parbase section">. <div class="articleModule ">. <p><a class="blueBtn whiteBtn full-width " href="https://member.aetna.com/MbrLanding/RoutingServlet?createSession=true&amp;custNumSel=A&amp;serviceName=home&amp;navDeepLink=IDCARDLNK" onclick="ClientContext.set('/profile/audience/member', 'returning');Aetna.analytics.omniture.linkCode('aeMemLnkSecA','Deep Link:Get an ID Card',this);s.tl(this,'e',linkText);">Continue</a></p>. </div></div>. </div>. </div>. <div class="progressivePageDeepLinksSection section">. <div class="deep-link-section hidden-element" data-name="ldl-update-account">. <div class="articleModule parbase section">. <div class="articleModule ">. <p><a class="blueBtn whiteBtn full-width " href="https://member.aetna.com/MbrLanding/RoutingServlet?createSession=true&amp;custNumSel=A&amp;serviceName=home&amp;navDeepLink=PERSONALPROFILELNK" onclick="ClientContext.set('/profile/audience/member', 'returning');Aetna.analytics.omniture.linkCode('aeMemLnkSecA','Deep Link:Update Account',this);s.tl(this,'e',linkText);">Continue</a></p>. </div></div>. </div>. </div>. <div class="progressivePageDeepLinksSection section">. <div class="deep-link-section hidden-element" data-name="ldl-login">. <div class="articleModule parbase section">. <div class="articleModule ">. <p style="font-family: tahoma, arial, helvetica, sans-serif. font-size: 12px;"><a class="blueBtn whiteBtn full-width " href="https://member.aetna.com/appConfig/login/login.fcc?TYPE=33554433&amp;REALMOID=06-36d8cb4d-4ac1-44c7-b12d-a80fba4b718e&amp;GUID=&amp;SMAUTHREASON=0&amp;METHOD=GET&amp;SMAGENTNAME=-SM-xU5km2Pz5%2f9A%2f2FCwUlXE48HlDkyH9ruz3da8Iqw6pwcy09mgHFN5RmlkMNqguY5&amp;TARGET=-SM-HTTPS%3a%2f%2fmember%2eaetna%2ecom%2fMbrLanding%2fRoutingServlet%3fcreateSession%3dtrue&amp;WT.svl=Login\_nav" onclick="ClientContext.set('/profile/audience/member', 'returning');Aetna.analytics.omniture.linkCode('aeLoginClkA','Deep Link:Log In',this);s.tl(this,'e',linkText);">Continue</a></p>. </div></div>. </div>. </div>. <div class="progressivePageDeepLinksSection section">. <div class="deep-link-section hidden-element" data-name="ldl-register">. <div class="articleModule parbase section">. <div class="articleModule ">. <p style="font-family: tahoma, arial, helvetica, sans-serif. font-size: 12px;"><a class="blueBtn whiteBtn full-width " href="https://member.aetna.com/appConfig/navRegistration/regRedirect.html" onclick="ClientContext.set('/profile/audience/member', 'returning');Aetna.analytics.omniture.linkCode('aeRegClkA','Deep Link:Register',this);s.tl(this,'e',linkText);">Continue</a></p>. </div></div>. </div>. </div>. </div>. Continue Please enter all of your information Member Log In
+Continue
+
+Continue
+
+Continue
+
+Continue
+
+Continue
+
+Continue
+
+Continue
+
+Continue Please enter all of your information Member Log In
 
 Do you have Aetna insurance through an employer or are you a Medicare member? Yes No
 
