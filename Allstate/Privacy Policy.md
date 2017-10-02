@@ -11,10 +11,11 @@ Skip Navigation Explore Allstate
 
 *   Company Overview
 *   *   Our Story
-    *   Good Home
+    *   GoodHome
     *   My Offers
     *   The Allstate Blog
     *   Careers
+    *   Customer Support
 
 *   Contact Us
 *   *   1-800-ALLSTATE
@@ -157,7 +158,7 @@ Forgot user ID Forgot password Register new account
     *   Board of Directors
     *   Corporate Advocacy
 *   The Agent Difference
-*   Doing Business with Allstate
+*   Procurement Home
     *   Goods &. Services Purchased
     *   Supplier Diversity
     *   Process &. Expectations
@@ -455,6 +456,8 @@ Connect With Us
 *   Home Insurance
 *   Claims
 *   Agent Locator
+*   Quick Pay
+*   Quick ID Cards
 
 *   More
 *   Site Map
@@ -462,6 +465,7 @@ Connect With Us
 *   Privacy &. Security
 *   NY Domestic Violence Notice
 *   Underwriting Companies
+*   Allstate Canada
 *   Ad Choices
 
 Not Your ZIP Code? Update Below.
