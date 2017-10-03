@@ -40,25 +40,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Please help me view my old account
     *   by sandiegosuperstar
-    *   10 months ago
+    *   11 months ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   1 (last comment by fallentoseductions 3 weeks ago)
 *   Pls check my acc
     *   by chcolate\_jose
-    *   4 weeks ago
+    *   1 month ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   I can't see any things for my side
     *   by chcolate\_jose
-    *   4 weeks ago
+    *   1 month ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   I can't see any things for my side
     *   by chcolate\_jose
-    *   4 weeks ago
+    *   1 month ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
