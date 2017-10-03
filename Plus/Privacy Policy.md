@@ -4,7 +4,7 @@ When you use Google services, you trust us with your information. This Privacy P
 
 Privacy Policy Hide examples Show examples Hide examples
 
-Last modified: April 17, 2017 (view archived versions) (The hyperlinked examples are available at the end of this document.)
+Last modified: October 2, 2017 (view archived versions) (The hyperlinked examples are available at the end of this document.)
 
 Download PDF version
 
@@ -155,7 +155,7 @@ We work hard to protect Google and our users from unauthorized access to or unau
 
 Back to top When this Privacy Policy applies
 
-Our Privacy Policy applies to all of the services offered by Google Inc. and its affiliates, including YouTube, services Google provides on Android devices, and services offered on other sites (such as our advertising services), but excludes services that have separate privacy policies that do not incorporate this Privacy Policy.
+Our Privacy Policy applies to all of the services offered by Google LLC and its affiliates, including YouTube, services Google provides on Android devices, and services offered on other sites (such as our advertising services), but excludes services that have separate privacy policies that do not incorporate this Privacy Policy.
 
 Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you in search results, sites that may include Google services, or other sites linked from our services. Our Privacy Policy does not cover the information practices of other companies and organizations who advertise our services, and who may use cookies, pixel tags and other technologies to serve and offer relevant ads.
 
@@ -177,6 +177,8 @@ The following notices explain specific privacy practices with respect to certain
 *   Fiber
 *   Project Fi
 *   G Suite for Education
+*   YouTube Kids
+*   Google Accounts Managed with Family Link
 
 For more information about some of our most popular services, you can visit the Google Product Privacy Guide.
 
