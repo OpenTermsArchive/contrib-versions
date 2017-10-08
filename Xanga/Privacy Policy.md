@@ -7,13 +7,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   40 (last comment by paco0e 2 days ago)
+    *   40 (last comment by paco0e 3 days ago)
 *   How to see old posts
     *   \[Resolved\] by SparklinEyez509
     *   3 years ago
     *   in Themes
     *   0 votes
-    *   6 (last comment by BurningInWaterDr0wningInFlames 1 week ago)
+    *   6 (last comment by BurningInWaterDr0wningInFlames 2 weeks ago)
 *   I would like to update to Xanga 2.0
     *   by ArmsAroundU4ever
     *   3 months ago
@@ -28,7 +28,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 (last comment by ExiledEntertainment 3 weeks ago)
 *   Login Email No Longer Exists
     *   by crimefightingicecreaman
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Emails
     *   0 votes
     *   0
@@ -37,7 +37,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   11 months ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   1 (last comment by fallentoseductions 3 weeks ago)
+    *   1 (last comment by fallentoseductions 4 weeks ago)
 *   Pls check my acc
     *   by chcolate\_jose
     *   1 month ago
