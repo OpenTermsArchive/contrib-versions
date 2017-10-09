@@ -1,16 +1,16 @@
-Privacy Policy Welcome to Envato's Privacy Policy
+Privacy Policy Welcome to Envato’s Privacy Policy
 
-1.  Hi, we're Envato Pty Ltd (ABN 11 119 159 741) and welcome to our privacy policy. This policy sets out how we handle personal information and applies across all of Envato's businesses, including Envato Market, Envato Studio, Envato Sites, Envato Elements and Envato Tuts+ (the Sites).
-2.  When we say 'we', 'us' or 'Envato' it's because that's who we are and we own and run the Sites. If we say 'policy' we're talking about this privacy policy. If we say 'user terms' we're talking about the rules for using each of the Sites. Take the time to read this policy because it forms a part of the user terms for each of our Sites. By using any of our Sites, you agree to this policy. If you do not agree to this policy we won't take it personally, but please do not use our Sites.
+1.  Hi, we’re Envato and welcome to our privacy policy. This policy sets out how we handle personal information. It covers Envato Pty Ltd (ABN 11 119 159 741) and its wholly owned subsidiaries, and applies across all of Envato’s businesses, including Envato Market, Envato Studio, Envato Sites, Envato Elements and Envato Tuts+ (the Sites).
+2.  When we say ‘we’, ‘us’ or ‘Envato’ it’s because that’s who we are and we own and run the Sites. If we say ‘policy’ we’re talking about this privacy policy. If we say ‘user terms’ we’re talking about the rules for using each of the Sites. Take the time to read this policy because it forms a part of the user terms for each of our Sites. By using any of our Sites, you agree to this policy. If you do not agree to this policy we won’t take it personally, but please do not use our Sites.
 
 What type of personal information do we collect?
 
-1.  We collect certain personal information about visitors and users of our Sites. The most common types of information we collect are things like: user names, member names, email addresses, other contact details, payment information such as payment agent details, transactional details, support queries, forum comments and web analytics data. We may also collect personal information from job applications and this information may be used to assess an applicant's suitability for employment. Information or an opinion is your "personal information" if it is about you as an identified or identifiable individual.
+1.  We collect certain personal information about visitors and users of our Sites. The most common types of information we collect are things like: user names, member names, email addresses, other contact details, payment information such as payment agent details, transactional details, support queries, forum comments and web analytics data. We may also collect personal information from job applications and this information may be used to assess an applicant’s suitability for employment. Information or an opinion is your “personal information” if it is about you as an identified or identifiable individual.
 
 How we collect personal information
 
 1.  We may collect personal information directly when you provide it to us, automatically as you navigate through the Sites or through other people when you use services associated with the Sites.
-2.  When you provide personal information to us via the Sites you're consenting to us collecting and using that information in line with this policy and the user terms of each of the Sites. You are likely to provide personal information when you complete membership registration and buy or provide items or services on our Sites, subscribe to a newsletter, email list, submit feedback, enter a contest, fill out a survey, or send us a communication.
+2.  When you provide personal information to us via the Sites you’re consenting to us collecting and using that information in line with this policy and the user terms of each of the Sites. You are likely to provide personal information when you complete membership registration and buy or provide items or services on our Sites, subscribe to a newsletter, email list, submit feedback, enter a contest, fill out a survey, or send us a communication.
 3.  If you choose not to provide personal information, we may not be able to provide you with our services and you may not be able to carry out transactions or access the full range of features available through our Sites.
 
 Personal information we collect about you from others
@@ -52,15 +52,15 @@ How can you access your personal information?
 
 Choices regarding control of your personal information
 
-1.  Where we have your consent to do so (e.g if you have subscribed to one of our e-mail lists or have otherwise indicated that you are interested in receiving offers or information from us), we may send you marketing communications about products and services that we feel may be of interest to you. You can 'opt-out' of such communications if you would prefer not to receive them in the future.
+1.  Where we have your consent to do so (e.g if you have subscribed to one of our e-mail lists or have otherwise indicated that you are interested in receiving offers or information from us), we may send you marketing communications about products and services that we feel may be of interest to you. You can ‘opt-out’ of such communications if you would prefer not to receive them in the future.
 2.  If your e-mail address has changed and you would like to continue to receive our e-mails, you will need to access your account and update your e-mail address information in your account and sign-up again for those e-mails that you want to receive.
-3.  If we send e-mails with commercial content we will generally include an "unsubscribe" facility that you can use to opt-out of further communications – to opt-out, just follow the instructions in the e-mail. We might not include an opt-out facility in important operational and service-based e-mails concerning things like your purchases, the user terms, important updates and need-to-know messages. By using our Sites you agree that we do not need to include opt-out facilities in those messages.
+3.  If we send e-mails with commercial content we will generally include an “unsubscribe” facility that you can use to opt-out of further communications – to opt-out, just follow the instructions in the e-mail. We might not include an opt-out facility in important operational and service-based e-mails concerning things like your purchases, the user terms, important updates and need-to-know messages. By using our Sites you agree that we do not need to include opt-out facilities in those messages.
 4.  You also have choices about cookies, as described below. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject cookies some parts of our Sites may not work properly in your case.
 
 Cookies (not the type you eat!) and web analytics
 
 1.  For more information about how we use cookies, web beacons and similar technologies see our cookie policy here and for more general information on cookies, see http://www.allaboutcookies.org.
-2.  Generally speaking, when you visit our Sites, there's certain information that's recorded which is generally anonymous information and may not reveal your true super-hero identity. If you're logged into your account some of this information could be associated with your account. We're talking about the following kinds of details:
+2.  Generally speaking, when you visit our Sites, there’s certain information that’s recorded which is generally anonymous information and may not reveal your true super-hero identity. If you’re logged into your account some of this information could be associated with your account. We’re talking about the following kinds of details:
     1.  your IP or proxy server IP
     2.  basic domain information
     3.  your Internet service provider is sometimes captured depending on the configuration of your ISP connection
@@ -75,22 +75,22 @@ Cookies (not the type you eat!) and web analytics
 
 Information about children
 
-1.  Our Sites are not suitable for children under the age of 13 years, so if you are under 13 we ask that you do not use our Sites or give us your personal information (if you are a young tech wiz, please direct your nearest responsible adult to use the Sites for you!). If you are from 13 to 18 years, you can browse the Sites but will need the supervision of a parent or guardian to become a registered user. It is the responsibility of parents or guardians to monitor their children's use of our Sites.
+1.  Our Sites are not suitable for children under the age of 13 years, so if you are under 13 we ask that you do not use our Sites or give us your personal information (if you are a young tech wiz, please direct your nearest responsible adult to use the Sites for you!). If you are from 13 to 18 years, you can browse the Sites but will need the supervision of a parent or guardian to become a registered user. It is the responsibility of parents or guardians to monitor their children’s use of our Sites.
 
 Information you make public or give to others
 
-1.  If you make your personal information available to other people, we can't control or accept responsibility for the way they will use or manage that information. There are lots of ways that you may find yourself providing information to other people, like when you post a public message on a forum thread, share information via social media, or make contact with another user via our Sites. Before making your information publicly available or giving your information to anyone else, think carefully. If giving information to another user via our Sites, ask them how they will handle your information. If you're sharing information via another website, check the privacy policy for that site to understand its information management practices as this privacy policy will not apply.
+1.  If you make your personal information available to other people, we can’t control or accept responsibility for the way they will use or manage that information. There are lots of ways that you may find yourself providing information to other people, like when you post a public message on a forum thread, share information via social media, or make contact with another user via our Sites. Before making your information publicly available or giving your information to anyone else, think carefully. If giving information to another user via our Sites, ask them how they will handle your information. If you’re sharing information via another website, check the privacy policy for that site to understand its information management practices as this privacy policy will not apply.
 
 When we need to update this policy
 
-1.  We may need to change this policy from time to time in order to make sure it stays up to date with the latest legal requirements and any changes to our privacy management practices. When we do amend the policy, the changes will be effective straightaway. We'll usually publish information about changes to be made to this policy on our Sites – but please be aware that it is your responsibility to check in and make sure you keep up to date with any changes to this policy.
+1.  We may need to change this policy from time to time in order to make sure it stays up to date with the latest legal requirements and any changes to our privacy management practices. When we do amend the policy, the changes will be effective straightaway. We’ll usually publish information about changes to be made to this policy on our Sites – but please be aware that it is your responsibility to check in and make sure you keep up to date with any changes to this policy.
 
 How can you contact us?
 
 1.  If you have any questions about our privacy practices, please contact our privacy champion in writing at PO Box 16122 Collins Street West Victoria 8007 Australia or privacy.champion@envato.com.
-2.  If you have any concerns about how we have been managing your personal information, or if you think we have not been complying with Australian privacy law, you can make a complaint in writing to our privacy champion. We will consider your complaint and contact you to resolve the matter. For more information about privacy issues in Australia and protecting your privacy, please visit the Office of the Australian Information Commissioner's website at www.oaic.gov.au.
-3.  We're really glad you made it to the end of the privacy policy, because knowing this stuff is the best way to understand how your personal information is used and how to best manage it!
+2.  If you have any concerns about how we have been managing your personal information, or if you think we have not been complying with Australian privacy law, you can make a complaint in writing to our privacy champion. We will consider your complaint and contact you to resolve the matter. For more information about privacy issues in Australia and protecting your privacy, please visit the Office of the Australian Information Commissioner’s website at www.oaic.gov.au.
+3.  We’re really glad you made it to the end of the privacy policy, because knowing this stuff is the best way to understand how your personal information is used and how to best manage it!
 
-Envato Privacy Policy v2.0, effective date 1 May 2015
+Envato Privacy Policy v2.1, effective date 9th October 2017
 
 Learn more about Envato
