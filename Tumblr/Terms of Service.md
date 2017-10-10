@@ -1,4 +1,4 @@
-Terms of Service Last Modified: 2017-09-26Als US-Unternehmen unterliegt Tumblr ausschließlich dem amerikanischen Recht und der US-Gesetzgebung. Darum sind unsere Nutzungsbedingungen (und alle anderen Bedingungen und Richtlinien) vorerst nur auf Englisch verfügbar.
+Terms of Service Last Modified: 2017-09-26Tumblr является американской компанией и подчиняется только американскому законодательству и юрисдикции, поэтому эти Условия использования (а также другие предоставленные вам условия, правила и политики) доступны только на английском языке.
 
 Hello! Welcome to Tumblr’s Terms of Service. Please read this carefully before using our site, services, or products. This is a contract between you and Tumblr. We've also included several annotations that aren't a part of the contract itself, but are intended to emphasize key sections and help you follow the text. We’ve tried to be fair and straightforward. Please feel free to contact us if you have any questions or suggestions!
 
