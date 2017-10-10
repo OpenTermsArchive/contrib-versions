@@ -13,7 +13,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   40 (last comment by paco0e 4 days ago)
+    *   40 (last comment by paco0e 5 days ago)
 *   How to see old posts
     *   \[Resolved\] by SparklinEyez509
     *   3 years ago
@@ -34,7 +34,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 (last comment by ExiledEntertainment 3 weeks ago)
 *   Login Email No Longer Exists
     *   by crimefightingicecreaman
-    *   4 weeks ago
+    *   1 month ago
     *   in Emails
     *   0 votes
     *   0
@@ -43,7 +43,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   11 months ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   1 (last comment by fallentoseductions 4 weeks ago)
+    *   1 (last comment by fallentoseductions 1 month ago)
 *   Pls check my acc
     *   by chcolate\_jose
     *   1 month ago
@@ -88,7 +88,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   old xanga
     *   by farahrasol
-    *   1 month ago
+    *   2 months ago
     *   in Premium
     *   0 votes
     *   0
