@@ -62,8 +62,8 @@ Mortgages
         *   All mortgage rates
 *   Calculators
     *   *   Mortgage calculator
-        *   Affordability calculator
         *   Refinance calculator
+        *   Affordability calculator
         *   Amortization calculator
         *   Debt-to-Income calculator
 *   Resources
@@ -118,6 +118,7 @@ More
 *   Listings Quality Policy
 *   Listing Feed Terms of Use
 *   Instant Offer Terms of use
+*   Public Data Terms
 
 Privacy Policy
 
