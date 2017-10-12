@@ -117,7 +117,6 @@ More
 *   Good Neighbor Policy
 *   Listings Quality Policy
 *   Listing Feed Terms of Use
-*   Instant Offer Terms of use
 *   Public Data Terms
 
 Privacy Policy
