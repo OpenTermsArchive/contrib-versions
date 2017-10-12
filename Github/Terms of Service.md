@@ -9,7 +9,7 @@ Thank you for using GitHub! We're happy you're here. Please read this Terms of S
 
 Summary Section What can you find there? A. Definitions Some basic terms, defined in a way that will help you understand this agreement. Refer back up to this section for clarification. B. Account Terms These are the basic requirements of having an account on GitHub. C. Acceptable Use These are the basic rules you must follow when using your GitHub account. D. User-Generated Content You own the content you post on GitHub. However, you have some responsibilities regarding it, and we ask you to grant us some rights so we can provide services to you. E. Private Repositories This section talks about how GitHub will treat content you post in private repositories. F. Copyright &. DMCA Policy This section talks about how GitHub will respond if you believe someone is infringing your copyrights on GitHub. G. Intellectual Property Notice This describes GitHub's rights in the website and service. H. API Terms These are the rules for using GitHub's APIs, whether you are using the API for development or data collection. I. Additional Terms for GitHub Pages We have a few specific rules for content hosted using GitHub Pages. J. Additional Terms for GitHub Marketplace We have another set of terms for GitHub Marketplace. K. Advertising on GitHub If you want to promote your content on GitHub, this section lays out some rules you must follow. L. Payment You are responsible for payment. We are responsible for billing you accurately. M. Cancellation and Termination You may cancel this agreement and close your account at any time. N. Communications with GitHub We only use email and other electronic means to stay in touch with our users. We do not provide phone support. O. Disclaimer of Warranties We provide our service as is, and we make no promises or guarantees about this service. **Please read this section carefully. you should understand what to expect.** P. Limitation of Liability We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement. **Please read this section carefully. it limits our obligations to you.** Q. Release and Indemnification You are fully responsible for your use of the service. R. Changes to these Terms of Service We may modify this agreement, but we will give you 30 days' notice of changes that affect your rights. S. Miscellaneous Please see this section for legal details including our choice of law. The GitHub Terms of Service
 
-Effective date: August 7, 2017
+Effective date: October 11, 2017
 
 A. Definitions
 
@@ -177,7 +177,10 @@ GitHub employees may only access the content of your private repositories in the
 *   With your consent and knowledge, for support reasons. If GitHub accesses a private repository for support reasons, we will only do so with the owner’s consent and knowledge.
 *   When access is required for security reasons.
 
-You may also grant a third-party application authorization to use, access, and disclose the contents of your private repositories. Your use of third-party applications is at your sole risk. GitHub is not liable for disclosures to third parties that you authorize to access a private repository.
+You may choose to enable additional access to your private repositories. For example:
+
+*   You may enable various GitHub services or features that require additional rights to Your Content in private repositories. These rights may vary depending on the service or feature, but GitHub will continue to treat your private repository Content as confidential. If those services or features require rights in addition to those we need to provide the GitHub Service, we will provide an explanation of those rights.
+*   You may also grant a third-party application authorization to use, access, and disclose the contents of your private repositories. Your use of third-party applications is at your sole risk. GitHub is not liable for disclosures to third parties that you authorize to access a private repository.
 
 4\. Exclusions.
 
@@ -203,17 +206,13 @@ If you’d like to use GitHub’s trademarks, you must follow all of our tradema
 
 3\. License to GitHub Policies
 
-This Agreement is licensed under the Creative Commons Attribution license. You may use it freely under the terms of the Creative Commons license.
+This Agreement is licensed under this Creative Commons Zero license. For details, see our site-policy repository.
 
 H. API Terms
 
 **Short version:** _You agree to these Terms of Service, plus this Section H, when using any of GitHub's APIs (Application Provider Interface), including use of the API through a third party product that accesses GitHub._
 
-1\. Limitation of Liability for API Use
-
-You understand and agree that GitHub is not liable for any direct, indirect, incidental, special, consequential or exemplary damages, including but not limited to damages for loss of profits, goodwill, use, data or other intangible losses (even if GitHub has been advised of the possibility of such damages), resulting from your use of the API or third-party products that access data via the API.
-
-2\. No Abuse or Overuse of the API
+No Abuse or Overuse of the API
 
 Abuse or excessively frequent requests to GitHub via the API may result in the temporary or permanent suspension of your account's access to the API. GitHub, in our sole discretion, will determine abuse or excessive usage of the API. We will make a reasonable attempt to warn you via email prior to suspension.
 
@@ -224,10 +223,6 @@ You may not use the API to download data or Content from GitHub for spamming pur
 All use of the GitHub API is subject to these Terms of Service and the GitHub Privacy Statement.
 
 GitHub may offer subscription-based access to our API for those Users who require high-throughput access or access that would result in resale of GitHub's Service.
-
-3\. GitHub May Terminate Your Use of the API
-
-We reserve the right at any time to modify or discontinue, temporarily or permanently, your access to the API or any part of it with or without notice.
 
 I. Additional Terms for GitHub Pages
 
