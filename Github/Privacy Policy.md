@@ -5,7 +5,7 @@ GitHub Privacy Statement
 *   linux
 *   all
 
-Effective date: **January 26, 2017**
+Effective date: **October 11, 2017**
 
 Thanks for entrusting GitHub with your source code, your projects, and your personal information. Holding onto your private information is a serious responsibility, and we want you to know how we're handling it.
 
@@ -171,7 +171,7 @@ Although most changes are likely to be minor, GitHub may change our Privacy Stat
 
 License
 
-This Privacy Statement is licensed under the Creative Commons Attribution license. You may use it freely under the terms of the Creative Commons license.
+This Privacy Statement is licensed under this Creative Commons Zero license. For details, see our site-policy repository.
 
 Contacting GitHub
 
