@@ -243,10 +243,10 @@ Updated June, 2017
 
 Contact us
 
-If you have questions, concerns or suggestions related to our Privacy Policy or our privacy practices, e-mail us or contact us at:  
-  
+If you have questions, concerns or suggestions related to our Privacy Policy or our privacy practices, e-mail us or contact us at:
+
 Verizon Privacy Office  
 1300 I Street, NW  
-Suite 400 West  
+Suite 500 East  
 Washington, DC 20005  
 Fax: 202-789-1432
