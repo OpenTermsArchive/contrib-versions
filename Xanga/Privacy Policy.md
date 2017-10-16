@@ -19,7 +19,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 months ago
     *   in Data Migration
     *   0 votes
-    *   6 (last comment by lub\_dark 3 weeks ago)
+    *   6 (last comment by lub\_dark 4 weeks ago)
 *   Retrieve my old blog?
     *   by Jessica\_6190
     *   2 months ago
