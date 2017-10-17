@@ -147,8 +147,8 @@ Resources for Health Care Professionals Resources for Health Care Professionals
 
 Helpful Links Helpful Links
 
-*   Secure Provider Website
-*   AetnaDental.com
+*   Aetna Secure Provider Website
+*   Aetna Dental
 *   Check Fee Schedules
 *   Check Precertification List
 *   Online Medicare Directory
@@ -157,10 +157,8 @@ Helpful Links Helpful Links
 *   Update Pharmacy Demographic Data
 *   Update Provider Demographic Data
 
-*   Medical: Log In
-*   Medical: Register
-*   Dental: Log In
-*   Dental: Register
+*   Aetna Secure Site
+*   Dental Secure Site
 *   Contact
 *   For Individuals &. Families
 *   For Employers &. Organizations
@@ -457,4 +455,4 @@ My ZIP code is: Select your county Select your county
 
 Please enter a valid ZIP code
 
-Continue Please enter all of your information FeedbackWill open a new window This JavaScript enables OnlineOpinion, a method for collecting secure feedback data.
+Continue Please enter all of your information
