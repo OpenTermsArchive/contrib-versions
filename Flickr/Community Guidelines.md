@@ -40,11 +40,17 @@ Here's the deal: We like to give second chances. However, when we discover you s
 *   Don't be creepy. You know the guy. Don't be that guy.
 *   Don't use your account to host web graphics or as a replacement for a content distribution network. If we find you using your account to host generic graphic elements of web page designs, logos, banners, icons, and other non-photographic elements on other web sites, or if you show suspicious upload behavior that impacts the stability of our servers, we will warn you or delete your account.
 *   Don’t spam We don't tolerate spam, deceptive tagging, deceptive photo titles and descriptions, resource abuse, or other abusive means to generate revenue and traffic to your photos on Flickr or elsewhere. Don’t know what we mean by spam? Check out Yahoo’s Anti-Spam policy and Terms of Service.
-*   Don't use Flickr for unauthorized commercial activity. We offer tools for the community to license their works to others. if interested, visit our Marketplace. Flickr generally supports photographer entrepreneurs big and small, but we don’t want to be a platform for your commercial activity or your business transactions, except for photos you enroll directly in our Marketplace.  
+*   Don't use Flickr for unauthorized commercial activity. If you are a photographer and you are specifically promoting your own work, you can use your Flickr account to link to other sites where you share or sell your work. If you have a free account and don’t have a Flickr Pro account, you may not link directly to a shopping cart, checkout page, or pricing pages on other sites, and you may not list prices on your Flickr photo descriptions.  
       
-    In your photo descriptions and on your profile page, you are welcome to link to your website or blog where you might also sell your work, but do not link directly to a shopping cart, checkout page, or pricing pages on other sites, and don’t list prices on your Flickr photo descriptions.  
+    If you are a Flickr Pro member, you can use Flickr to promote your photography business, your products, your photography classes, etc. You can link directly to a shopping cart, checkout page, or pricing pages on other sites, and you can list prices for your images in your Flickr photo descriptions. As long as you are promoting your own photography and you aren’t violating Yahoo’s Anti-Spam policy, you are good with us.  
       
-    Your links need to be human readable (no shortened URLs) and they should be relevant to the photo, such as links to your website, to social media sites, or to your blog. Don’t turn your photo descriptions into link spam. Again, we enforce Yahoo’s Anti-Spam policy.
+    Your links need to be human readable (no shortened URLs) and they should be relevant to the photo, such as links to your website, to social media sites, or to your blog. Don’t turn your photo descriptions into link spam. Again, we enforce Yahoo’s Anti-Spam policy.  
+      
+    Some examples of acceptable use of Flickr if you are a Pro:
+    *   If you are a wedding photographer, you can share albums with your clients and use Flickr to promote your work.
+    *   If you make photo books through Blurb or other companies and want to promote them on Flickr, that’s ok.
+    *   If you teach photography classes and you want to promote those classes, that’s fine with us.
+    *   If you make and sell products (e.g. cookbooks, origami, custom bricks, craftwork, jewelry, digital products, etc), so long as you are a Flickr Pro member, you can promote them on Flickr.Regardless of whether you have a free account or a Flickr Pro account, your links need to be human readable (no shortened URLs) and they should be relevant to the photo, such as links to your website, to social media sites, or to your blog. Don’t turn your photo descriptions into link spam. Again, we enforce Yahoo’s Anti-Spam policy.
 
 Oh, and one more thing:
 
@@ -60,7 +66,7 @@ If you don't feel that you can abide by our Community Guidelines as outlined abo
 
 You may also want to check out our FAQs and Privacy Policy. If you ever have any questions or comments, we'd love to hear from you. Please feel free to drop us a line through Help by Email.
 
-The Flickreenos, October 2014
+The Flickreenos, October 2017
 
 *   About
 *   Jobs
