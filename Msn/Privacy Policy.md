@@ -1,4 +1,4 @@
-Microsoft Privacy StatementLast Updated: September 2017 What's new? Expand All Collapse AllPrint
+Microsoft Privacy StatementLast Updated: October 2017 What's new? Expand All Collapse AllPrint
 
 Your privacy is important to us. This privacy statement explains what personal data Microsoft collects from you, through our interactions with you and through our products, and how we use that data.
 
@@ -62,9 +62,13 @@ The data we collect depends on the context of your interactions with Microsoft, 
 *   audio and video recording of a video message, and
 *   audio recording and transcript of a voice message you receive or a text message you dictate.
 
+**Video**. If you enter our retail stores or other facilities, or attend a Microsoft event, your image may be captured by our security cameras.
+
+If you use Spend, at your direction, we may also collect payment card information, receipt data, or financial transaction data, to provide the service.
+
 If you use Enterprise Online Services, Microsoft collects **Customer Data** (including content), **Support Data**, and **Administrator Data**, defined below in the Enterprise and Developer Products section.
 
-We also collect information you provide to us and the content of messages you send to us, such as feedback and product reviews you write, or questions and information you provide for customer support. When you contact us, such as for customer support, phone conversations or chat sessions with our representatives may be monitored and recorded. If you enter our retail stores or other facilities, your image may be captured by our security cameras.
+We also collect information you provide to us and the content of messages you send to us, such as feedback and product reviews you write, or questions and information you provide for customer support. When you contact us, such as for customer support, phone conversations or chat sessions with our representatives may be monitored and recorded.
 
 Product-specific sections below describe data collection practices applicable to use of those products.
 
@@ -110,7 +114,7 @@ Further details regarding our advertising-related uses of data include:
 *   **Children and Advertising**. We do not deliver interest-based advertising to children whose birthdate in their Microsoft account identifies them as under 13 years of age.
 *   **Data Retention**. For interest-based advertising, we retain data for no more than 13 months, unless we obtain your consent to retain the data longer.
 *   **Data Sharing**. In some cases, we share with advertisers reports about the data we have collected on their sites or ads.
-*   **Data Collected by Other Advertising Companies**. Advertisers sometimes include their own web beacons (or those of their other advertising partners) within their advertisements that we display, enabling them to set and read their own cookie. Additionally, Microsoft partners with third-party ad companies to help provide some of our advertising services, and we also allow other third-party ad companies to display advertisements on our sites. These third parties may place cookies on your computer and collect data about your online activities across websites or online services. These companies currently include, but are not limited to: A9, Oath, AppNexus, Criteo, Facebook, MediaMath, nugg.adAG, Rocket Fuel, Yahoo!. You may find more information on each company's practices, including the choices it offers, by clicking on the company names above. Many of them are also members of the NAI or DAA, which each provide a simple way to opt out of ad targeting from participating companies.
+*   **Data Collected by Other Advertising Companies**. Advertisers sometimes include their own web beacons (or those of their other advertising partners) within their advertisements that we display, enabling them to set and read their own cookie. Additionally, Microsoft partners with third-party ad companies to help provide some of our advertising services, and we also allow other third-party ad companies to display advertisements on our sites. These third parties may place cookies on your computer and collect data about your online activities across websites or online services. These companies currently include, but are not limited to: A9, AppNexus, Criteo, Facebook, MediaMath, nugg.adAG, Oath, Rocket Fuel, Yahoo!. You may find more information on each company's practices, including the choices it offers, by clicking on the company names above. Many of them are also members of the NAI or DAA, which each provide a simple way to opt out of ad targeting from participating companies.
 
 Learn MoreTop of page Reasons We Share Personal DataReasons We Share Personal Data
 
@@ -199,7 +203,7 @@ Microsoft uses cookies and similar technologies for several purposes, depending 
 
 Some of the cookies we commonly use are listed below. This list is not exhaustive, but it is intended to illustrate the main reasons we typically set cookies. If you visit one of our websites, the site may set some or all of the following cookies:
 
-*   **MUID** - Identifies unique web browsers visiting Microsoft sites. It is used for advertising, site analytics and other operational purposes.
+*   **MUID, MC1 and MSFPC** - Identifies unique web browsers visiting Microsoft sites. These cookies are used for advertising, site analytics and other operational purposes.
 *   **ANON** - Contains the ANID, a unique identifier derived from your Microsoft account, which is used for advertising, personalization, and operational purposes. It is also used to preserve your choice to opt out of interest-based advertising from Microsoft if you have chosen to associate the opt-out with your Microsoft account.
 *   **CC** - Contains a country code as determined from your IP address.
 *   **PPAuth, MSPAuth, MSNRPSAuth, KievRPSAuth** - Helps to authenticate you when you sign in with your Microsoft account.
@@ -268,8 +272,6 @@ With a Microsoft account, you can sign into Microsoft products, as well as those
 
 **Personal Microsoft accounts received from third parties**. If you received your personal Microsoft account from a third party, like an Internet service provider, that third party may have rights over your account, including the ability to access or delete your Microsoft account. **You should carefully review any additional terms the third party provided you to understand what it can do with your account.**
 
-**Connecting your personal Microsoft account to your social network accounts**. You may connect your personal Microsoft account to your accounts on social networks such as Facebook, Twitter, or LinkedIn in order to access data from those social networks from within Microsoft products. If you choose to do so, we will store data about your social network accounts on our servers so that we can display updated data from your social network account. You can disconnect a social network account from your personal Microsoft account at any time at profile.live.com/services.
-
 **Using work or school accounts**. If your employer or school uses Azure Active Directory (AAD) to issue and manage the account it provides you, you can use your work or school account to sign into Microsoft products that use AAD (such as Office 365 or Skype for Business). If required by your organization, you will also be asked to provide a phone number or an alternative email address for additional security verification. If you sign into Microsoft products with a work or school account, the owner of the domain associated with your email address may control and administer your account, and access and process your data, including the contents of your communications and files. Your use of the products may be subject to your organization's policies, if any. Microsoft is not responsible for the privacy or security practices of these organizations, which may differ from those of Microsoft. If your organization is administering your use of Microsoft products, please direct your privacy inquiries to your administrator. See also, Notice to End Users.
 
 Learn MoreTop of page Other Important Privacy InformationOther Important Privacy Information
@@ -284,7 +286,7 @@ Top of page Where We Store and Process Personal DataWhere We Store and Process P
 
 Personal data collected by Microsoft may be stored and processed in your region, in the United States or in any other country where Microsoft or its affiliates, subsidiaries or service providers maintain facilities. Microsoft maintains major data centers in the Australia, Austria, Brazil, Canada, Finland, France, Germany, Hong Kong, India, Ireland, Japan, Korea, Malaysia, the Netherlands, Singapore, the United Kingdom and the United States. Typically, the primary storage location is in the customer’s region or in the United States, often with a backup to a data center in another region. The storage location(s) are chosen in order to operate efficiently, to improve performance, and to create redundancies in order to protect the data in the event of an outage or other problem. We take steps to ensure that the data we collect under this privacy statement is processed according to the provisions of this statement and the requirements of applicable law wherever the data is located.
 
-When we transfer personal data from the European Economic Area and Switzerland to other countries, some of which have not been determined by the European Commission to have an adequate level of data protection. When we do, we use a variety of legal mechanisms, including contracts, to help ensure your rights and protections travel with your data.
+We transfer personal data from the European Economic Area and Switzerland to other countries, some of which have not been determined by the European Commission to have an adequate level of data protection. When we do, we use a variety of legal mechanisms, including contracts, to help ensure your rights and protections travel with your data. To learn more about the European Commission’s decisions on the adequacy of the protection of personal data in the countries where Microsoft processes personal data, please visit: ec.europa.eu/justice/data-protection/international-transfers/adequacy/index\_en.htm
 
 Microsoft Corporation complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Microsoft Corporation has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If third-party agents process personal data on our behalf in a manner inconsistent with the principles of either Privacy Shield framework, we remain liable unless we prove we are not responsible for the event giving rise to the damage. The controlled U.S. subsidiaries of Microsoft Corporation, as identified in our self-certification submission and listed here, also adhere to the Privacy Shield Principles.
 
@@ -324,7 +326,7 @@ Top of page How to Contact UsHow to Contact Us
 
 If you have a technical or support question, please visit support.microsoft.com to learn more about Microsoft Support offerings. If you have a personal Microsoft account password question, please visit Microsoft account support.
 
-If you have a privacy concern or a question for the Chief Privacy Officer/Data Protection Officer of Microsoft, please contact us by using our Web form. We will respond to questions or concerns within 30 days.
+If you have a privacy concern, complaint, or a question for the Chief Privacy Officer/Data Protection Officer of Microsoft, please contact us by using our Web form. We will respond to questions or concerns within 30 days.
 
 Unless otherwise stated, Microsoft Corporation is a data controller for personal data we collect through the products subject to this statement. Our address is Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052, USA. Telephone: (+1) 425-882-8080.
 
@@ -342,6 +344,7 @@ Enterprise and Developer Products are Microsoft products and related software of
 *   Server and developer products, such as Windows Server, SQL Server, Visual Studio, and System Center (“Enterprise and Developer Software”).
 *   Appliances and hardware used for storage infrastructure, such as StorSimple (“Enterprise Appliances”). and
 *   Cognitive Services, such as Emotion API, Bing Speech API, Recommendations API, for which an organization or developer (our customer) contracts with Microsoft for the services (“Cognitive Services”).
+*   Developer services such as Bot Framework, Cortana Skills Kit, and Botlet Store.
 
 **_In the event of a conflict between this Microsoft privacy statement and the terms of any agreement(s) between a customer and Microsoft for Enterprise and Developer Products, the terms of those agreement(s) will control._**
 
@@ -349,14 +352,12 @@ Enterprise and Developer Products are Microsoft products and related software of
 
 If any of the terms below are not defined in this Privacy Statement or the OST, they have the definitions below.
 
-**General**. When a customer tries, purchases or subscribes to Enterprise and Developer Products, or obtains support for such products, Microsoft collects data to provide the service including uses compatible with providing the service, providing the best experiences with our products, operate our business, and communicate with the customer. For example:
+**General**. When a customer tries, purchases, uses, or subscribes to Enterprise and Developer Products, or obtains support for such products, Microsoft collects data to provide the service, including uses compatible with providing the service, provide the best experiences with our products, operate our business, and communicate with the customer. For example:
 
 *   When a customer engages with a Microsoft sales representative, we collect the customer’s name and contact data, along with information about the customer’s organization, to support that engagement.
 *   When a customer interacts with a Microsoft support professional, we collect Device and Usage data or error reports to diagnose and resolve problems.
 *   When a customer pays for products, we collect contact and payment data to process the payment.
-*   When a customer receives communications for Microsoft, we use data to personalize the content of the communication.
-
-This data is used to provide the Enterprise and Developer Products, operate our business, improve our products and personalize your experiences. For example, we may use this data to personalize the contents of our communications to you.
+*   When a customer receives communications from Microsoft, we use data to personalize the content of the communication.
 
 The Enterprise and Developer Products enable you to purchase, subscribe to or use other products and online services from Microsoft or third parties with different privacy practices, and those other products and online services will be governed by their respective privacy statements and policies.
 
@@ -372,17 +373,19 @@ As needed, we use Administrator Data to contact you to provide information about
 
 We use payment data to complete transactions, as well as to detect and prevent fraud.
 
-Some Enterprise Online Services may require, or may be enhanced by, the installation of local software (e.g., agents, device management applications) on a device. At your direction, the local software may transmit (i) data, which may include Customer Data, from a device or appliance to or from the Enterprise Online Services. or (ii) logs or errors reports to Microsoft for troubleshooting purposes. The Enterprise Online Services, including local software, may also collect Device and Usage data that may be transmitted to Microsoft and analyzed to improve the quality, security, and integrity of our products.
+Some Enterprise Online Services may require, or may be enhanced by, the installation of local software (e.g., agents, device management applications) on a device. At your direction, the local software may transmit (i) data, which may include Customer Data, from a device or appliance to or from the Enterprise Online Services. or (ii) logs or error reports to Microsoft for troubleshooting purposes. The Enterprise Online Services, including local software, may also collect Device and Usage data that may be transmitted to Microsoft and analyzed to improve the quality, security, and integrity of our products.
 
 Top of page Enterprise and Developer Software and Enterprise AppliancesEnterprise and Developer Software and Appliances
 
 Enterprise and Developer Software and Enterprise Appliances collect data to operate effectively and provide you the best experiences. The data we collect depends on the features you use, as well as your configuration and settings, but it is generally limited to Device and Usage data. Customers have choices about the data they provide. For example:
 
-*   During installation or when you upgrade an Enterprise Software, we may collect Device and Usage data to learn whether you experience any difficulties.
+*   During installation or when you upgrade an Enterprise and Developer Software, we may collect Device and Usage data to learn whether you experience any difficulties.
 *   When you use Enterprise Software or Enterprise Appliances, we may collect Device and Usage data to learn about your operating environment to improve security features.
 *   When you experience a crash using Enterprise Software or Enterprise Appliances, you may choose to send Microsoft an error report to help us diagnose the problem and deliver customer support.
 
 Microsoft uses the data we collect from Enterprise and Developer Software and Enterprise Appliances to provide and improve our products, to deliver customer support, to activate the product, to communicate with you, and to operate our business.
+
+Microsoft SQL Server is a relational database management platform and includes products that can be installed separately (such as SQL Server Management Studio). For detailed information about what data we collect, how we use it, and how to manage your privacy options, please see the SQL Server Privacy Supplement here. If you work in an organization, your administrator can set certain telemetry settings via Group Policy.
 
 Top of page Cognitive ServicesCognitive Services
 
@@ -675,12 +678,10 @@ Some Microsoft browser information saved on your device will be synced across ot
 
 Microsoft Edge and Internet Explorer use your search queries and browsing history to provide you with faster browsing and more relevant search results. These features include:
 
-*   **AutoSearch and Search Suggestions** in Internet Explorer automatically sends the information you type into the browser address bar to your default search provider (such as Bing) and offer search recommendations as you type each character. In Microsoft Edge, this feature automatically sends this information to Bing even if you have selected another default search provider.
-*   **Suggested Sites** recommends web contents that you might be interested in based on your search and browsing history. 
+*   **Search Suggestions** in Internet Explorer automatically sends the information you type into the browser address bar to your default search provider (such as Bing) to offer search recommendations as you type each character.
+*   **Search and Site suggestions** in Microsoft Edge automatically sends the information you type into the browser address bar to Bing (even if you have selected another default search provider) to offer search recommendations as you type each character.
 
-Browsing data collected in connection with these features is used in the aggregate and you can turn off any of these features at any time. These features will not collect browsing history while you have InPrivate Browsing enabled.
-
-In order to provide search results, Microsoft Edge and Internet Explorer send your search queries, standard device information, and location (if you have location enabled) to your default search provider. If Bing is your default search provider, we use this data as described in the Bing section of this privacy statement.
+You can turn off these features at any time. In order to provide search results, Microsoft Edge and Internet Explorer send your search queries, standard device information, and location (if you have location enabled) to your default search provider. If Bing is your default search provider, we use this data as described in the Bing section of this privacy statement.
 
 Cortana can assist you with your web browsing in Microsoft Edge with features such as Ask Cortana. You can disable Cortana assistance in Microsoft Edge at any time in Microsoft Edge Settings. To learn more about how Cortana uses data and how you can control that, go to the Cortana section of this privacy statement.
 
@@ -926,9 +927,13 @@ The data we collect depends on the context of your interactions with Microsoft, 
 *   audio and video recording of a video message, and
 *   audio recording and transcript of a voice message you receive or a text message you dictate.
 
+**Video**. If you enter our retail stores or other facilities, or attend a Microsoft event, your image may be captured by our security cameras.
+
+If you use Spend, at your direction, we may also collect payment card information, receipt data, or financial transaction data, to provide the service.
+
 If you use Enterprise Online Services, Microsoft collects **Customer Data** (including content), **Support Data**, and **Administrator Data**, defined below in the Enterprise and Developer Products section.
 
-We also collect information you provide to us and the content of messages you send to us, such as feedback and product reviews you write, or questions and information you provide for customer support. When you contact us, such as for customer support, phone conversations or chat sessions with our representatives may be monitored and recorded. If you enter our retail stores or other facilities, your image may be captured by our security cameras.
+We also collect information you provide to us and the content of messages you send to us, such as feedback and product reviews you write, or questions and information you provide for customer support. When you contact us, such as for customer support, phone conversations or chat sessions with our representatives may be monitored and recorded.
 
 Product-specific sections below describe data collection practices applicable to use of those products.
 
@@ -976,7 +981,7 @@ Further details regarding our advertising-related uses of data include:
 *   **Children and Advertising**. We do not deliver interest-based advertising to children whose birthdate in their Microsoft account identifies them as under 13 years of age.
 *   **Data Retention**. For interest-based advertising, we retain data for no more than 13 months, unless we obtain your consent to retain the data longer.
 *   **Data Sharing**. In some cases, we share with advertisers reports about the data we have collected on their sites or ads.
-*   **Data Collected by Other Advertising Companies**. Advertisers sometimes include their own web beacons (or those of their other advertising partners) within their advertisements that we display, enabling them to set and read their own cookie. Additionally, Microsoft partners with third-party ad companies to help provide some of our advertising services, and we also allow other third-party ad companies to display advertisements on our sites. These third parties may place cookies on your computer and collect data about your online activities across websites or online services. These companies currently include, but are not limited to: A9, Oath, AppNexus, Criteo, Facebook, MediaMath, nugg.adAG, Rocket Fuel, Yahoo!. You may find more information on each company's practices, including the choices it offers, by clicking on the company names above. Many of them are also members of the NAI or DAA, which each provide a simple way to opt out of ad targeting from participating companies.
+*   **Data Collected by Other Advertising Companies**. Advertisers sometimes include their own web beacons (or those of their other advertising partners) within their advertisements that we display, enabling them to set and read their own cookie. Additionally, Microsoft partners with third-party ad companies to help provide some of our advertising services, and we also allow other third-party ad companies to display advertisements on our sites. These third parties may place cookies on your computer and collect data about your online activities across websites or online services. These companies currently include, but are not limited to: A9, AppNexus, Criteo, Facebook, MediaMath, nugg.adAG, Oath, Rocket Fuel, Yahoo!. You may find more information on each company's practices, including the choices it offers, by clicking on the company names above. Many of them are also members of the NAI or DAA, which each provide a simple way to opt out of ad targeting from participating companies.
 
 Reasons We Share Personal DataReasons We Share Personal DatamainreasonswesharepersonaldatamoduleSummary
 
@@ -1071,7 +1076,7 @@ Microsoft uses cookies and similar technologies for several purposes, depending 
 
 Some of the cookies we commonly use are listed below. This list is not exhaustive, but it is intended to illustrate the main reasons we typically set cookies. If you visit one of our websites, the site may set some or all of the following cookies:
 
-*   **MUID** - Identifies unique web browsers visiting Microsoft sites. It is used for advertising, site analytics and other operational purposes.
+*   **MUID, MC1 and MSFPC** - Identifies unique web browsers visiting Microsoft sites. These cookies are used for advertising, site analytics and other operational purposes.
 *   **ANON** - Contains the ANID, a unique identifier derived from your Microsoft account, which is used for advertising, personalization, and operational purposes. It is also used to preserve your choice to opt out of interest-based advertising from Microsoft if you have chosen to associate the opt-out with your Microsoft account.
 *   **CC** - Contains a country code as determined from your IP address.
 *   **PPAuth, MSPAuth, MSNRPSAuth, KievRPSAuth** - Helps to authenticate you when you sign in with your Microsoft account.
@@ -1142,8 +1147,6 @@ With a Microsoft account, you can sign into Microsoft products, as well as those
 
 **Personal Microsoft accounts received from third parties**. If you received your personal Microsoft account from a third party, like an Internet service provider, that third party may have rights over your account, including the ability to access or delete your Microsoft account. **You should carefully review any additional terms the third party provided you to understand what it can do with your account.**
 
-**Connecting your personal Microsoft account to your social network accounts**. You may connect your personal Microsoft account to your accounts on social networks such as Facebook, Twitter, or LinkedIn in order to access data from those social networks from within Microsoft products. If you choose to do so, we will store data about your social network accounts on our servers so that we can display updated data from your social network account. You can disconnect a social network account from your personal Microsoft account at any time at profile.live.com/services.
-
 **Using work or school accounts**. If your employer or school uses Azure Active Directory (AAD) to issue and manage the account it provides you, you can use your work or school account to sign into Microsoft products that use AAD (such as Office 365 or Skype for Business). If required by your organization, you will also be asked to provide a phone number or an alternative email address for additional security verification. If you sign into Microsoft products with a work or school account, the owner of the domain associated with your email address may control and administer your account, and access and process your data, including the contents of your communications and files. Your use of the products may be subject to your organization's policies, if any. Microsoft is not responsible for the privacy or security practices of these organizations, which may differ from those of Microsoft. If your organization is administering your use of Microsoft products, please direct your privacy inquiries to your administrator. See also, Notice to End Users.
 
 Other Important Privacy InformationOther Important Privacy InformationmainotherimportantprivacyinformationmoduleSummary
@@ -1158,7 +1161,7 @@ Where We Store and Process Personal DataWhere We Store and Process Personal Data
 
 Personal data collected by Microsoft may be stored and processed in your region, in the United States or in any other country where Microsoft or its affiliates, subsidiaries or service providers maintain facilities. Microsoft maintains major data centers in the Australia, Austria, Brazil, Canada, Finland, France, Germany, Hong Kong, India, Ireland, Japan, Korea, Malaysia, the Netherlands, Singapore, the United Kingdom and the United States. Typically, the primary storage location is in the customer’s region or in the United States, often with a backup to a data center in another region. The storage location(s) are chosen in order to operate efficiently, to improve performance, and to create redundancies in order to protect the data in the event of an outage or other problem. We take steps to ensure that the data we collect under this privacy statement is processed according to the provisions of this statement and the requirements of applicable law wherever the data is located.
 
-When we transfer personal data from the European Economic Area and Switzerland to other countries, some of which have not been determined by the European Commission to have an adequate level of data protection. When we do, we use a variety of legal mechanisms, including contracts, to help ensure your rights and protections travel with your data.
+We transfer personal data from the European Economic Area and Switzerland to other countries, some of which have not been determined by the European Commission to have an adequate level of data protection. When we do, we use a variety of legal mechanisms, including contracts, to help ensure your rights and protections travel with your data. To learn more about the European Commission’s decisions on the adequacy of the protection of personal data in the countries where Microsoft processes personal data, please visit: ec.europa.eu/justice/data-protection/international-transfers/adequacy/index\_en.htm
 
 Microsoft Corporation complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Microsoft Corporation has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If third-party agents process personal data on our behalf in a manner inconsistent with the principles of either Privacy Shield framework, we remain liable unless we prove we are not responsible for the event giving rise to the damage. The controlled U.S. subsidiaries of Microsoft Corporation, as identified in our self-certification submission and listed here, also adhere to the Privacy Shield Principles.
 
@@ -1198,7 +1201,7 @@ How to Contact UsHow to Contact UsmainhowtocontactusmoduleSummary
 
 If you have a technical or support question, please visit support.microsoft.com to learn more about Microsoft Support offerings. If you have a personal Microsoft account password question, please visit Microsoft account support.
 
-If you have a privacy concern or a question for the Chief Privacy Officer/Data Protection Officer of Microsoft, please contact us by using our Web form. We will respond to questions or concerns within 30 days.
+If you have a privacy concern, complaint, or a question for the Chief Privacy Officer/Data Protection Officer of Microsoft, please contact us by using our Web form. We will respond to questions or concerns within 30 days.
 
 Unless otherwise stated, Microsoft Corporation is a data controller for personal data we collect through the products subject to this statement. Our address is Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052, USA. Telephone: (+1) 425-882-8080.
 
@@ -1216,6 +1219,7 @@ Enterprise and Developer Products are Microsoft products and related software of
 *   Server and developer products, such as Windows Server, SQL Server, Visual Studio, and System Center (“Enterprise and Developer Software”).
 *   Appliances and hardware used for storage infrastructure, such as StorSimple (“Enterprise Appliances”). and
 *   Cognitive Services, such as Emotion API, Bing Speech API, Recommendations API, for which an organization or developer (our customer) contracts with Microsoft for the services (“Cognitive Services”).
+*   Developer services such as Bot Framework, Cortana Skills Kit, and Botlet Store.
 
 **_In the event of a conflict between this Microsoft privacy statement and the terms of any agreement(s) between a customer and Microsoft for Enterprise and Developer Products, the terms of those agreement(s) will control._**
 
@@ -1223,14 +1227,12 @@ Enterprise and Developer Products are Microsoft products and related software of
 
 If any of the terms below are not defined in this Privacy Statement or the OST, they have the definitions below.
 
-**General**. When a customer tries, purchases or subscribes to Enterprise and Developer Products, or obtains support for such products, Microsoft collects data to provide the service including uses compatible with providing the service, providing the best experiences with our products, operate our business, and communicate with the customer. For example:
+**General**. When a customer tries, purchases, uses, or subscribes to Enterprise and Developer Products, or obtains support for such products, Microsoft collects data to provide the service, including uses compatible with providing the service, provide the best experiences with our products, operate our business, and communicate with the customer. For example:
 
 *   When a customer engages with a Microsoft sales representative, we collect the customer’s name and contact data, along with information about the customer’s organization, to support that engagement.
 *   When a customer interacts with a Microsoft support professional, we collect Device and Usage data or error reports to diagnose and resolve problems.
 *   When a customer pays for products, we collect contact and payment data to process the payment.
-*   When a customer receives communications for Microsoft, we use data to personalize the content of the communication.
-
-This data is used to provide the Enterprise and Developer Products, operate our business, improve our products and personalize your experiences. For example, we may use this data to personalize the contents of our communications to you.
+*   When a customer receives communications from Microsoft, we use data to personalize the content of the communication.
 
 The Enterprise and Developer Products enable you to purchase, subscribe to or use other products and online services from Microsoft or third parties with different privacy practices, and those other products and online services will be governed by their respective privacy statements and policies.
 
@@ -1246,17 +1248,19 @@ As needed, we use Administrator Data to contact you to provide information about
 
 We use payment data to complete transactions, as well as to detect and prevent fraud.
 
-Some Enterprise Online Services may require, or may be enhanced by, the installation of local software (e.g., agents, device management applications) on a device. At your direction, the local software may transmit (i) data, which may include Customer Data, from a device or appliance to or from the Enterprise Online Services. or (ii) logs or errors reports to Microsoft for troubleshooting purposes. The Enterprise Online Services, including local software, may also collect Device and Usage data that may be transmitted to Microsoft and analyzed to improve the quality, security, and integrity of our products.
+Some Enterprise Online Services may require, or may be enhanced by, the installation of local software (e.g., agents, device management applications) on a device. At your direction, the local software may transmit (i) data, which may include Customer Data, from a device or appliance to or from the Enterprise Online Services. or (ii) logs or error reports to Microsoft for troubleshooting purposes. The Enterprise Online Services, including local software, may also collect Device and Usage data that may be transmitted to Microsoft and analyzed to improve the quality, security, and integrity of our products.
 
 Enterprise and Developer Software and Enterprise AppliancesEnterprise and Developer Software and AppliancesmainenterprisedevsoftwareappsmoduleSummary
 
 Enterprise and Developer Software and Enterprise Appliances collect data to operate effectively and provide you the best experiences. The data we collect depends on the features you use, as well as your configuration and settings, but it is generally limited to Device and Usage data. Customers have choices about the data they provide. For example:
 
-*   During installation or when you upgrade an Enterprise Software, we may collect Device and Usage data to learn whether you experience any difficulties.
+*   During installation or when you upgrade an Enterprise and Developer Software, we may collect Device and Usage data to learn whether you experience any difficulties.
 *   When you use Enterprise Software or Enterprise Appliances, we may collect Device and Usage data to learn about your operating environment to improve security features.
 *   When you experience a crash using Enterprise Software or Enterprise Appliances, you may choose to send Microsoft an error report to help us diagnose the problem and deliver customer support.
 
 Microsoft uses the data we collect from Enterprise and Developer Software and Enterprise Appliances to provide and improve our products, to deliver customer support, to activate the product, to communicate with you, and to operate our business.
+
+Microsoft SQL Server is a relational database management platform and includes products that can be installed separately (such as SQL Server Management Studio). For detailed information about what data we collect, how we use it, and how to manage your privacy options, please see the SQL Server Privacy Supplement here. If you work in an organization, your administrator can set certain telemetry settings via Group Policy.
 
 Cognitive ServicesCognitive ServicesmainmicrosoftcognitiveservicesmoduleSummary
 
@@ -1549,12 +1553,10 @@ Some Microsoft browser information saved on your device will be synced across ot
 
 Microsoft Edge and Internet Explorer use your search queries and browsing history to provide you with faster browsing and more relevant search results. These features include:
 
-*   **AutoSearch and Search Suggestions** in Internet Explorer automatically sends the information you type into the browser address bar to your default search provider (such as Bing) and offer search recommendations as you type each character. In Microsoft Edge, this feature automatically sends this information to Bing even if you have selected another default search provider.
-*   **Suggested Sites** recommends web contents that you might be interested in based on your search and browsing history. 
+*   **Search Suggestions** in Internet Explorer automatically sends the information you type into the browser address bar to your default search provider (such as Bing) to offer search recommendations as you type each character.
+*   **Search and Site suggestions** in Microsoft Edge automatically sends the information you type into the browser address bar to Bing (even if you have selected another default search provider) to offer search recommendations as you type each character.
 
-Browsing data collected in connection with these features is used in the aggregate and you can turn off any of these features at any time. These features will not collect browsing history while you have InPrivate Browsing enabled.
-
-In order to provide search results, Microsoft Edge and Internet Explorer send your search queries, standard device information, and location (if you have location enabled) to your default search provider. If Bing is your default search provider, we use this data as described in the Bing section of this privacy statement.
+You can turn off these features at any time. In order to provide search results, Microsoft Edge and Internet Explorer send your search queries, standard device information, and location (if you have location enabled) to your default search provider. If Bing is your default search provider, we use this data as described in the Bing section of this privacy statement.
 
 Cortana can assist you with your web browsing in Microsoft Edge with features such as Ask Cortana. You can disable Cortana assistance in Microsoft Edge at any time in Microsoft Edge Settings. To learn more about how Cortana uses data and how you can control that, go to the Cortana section of this privacy statement.
 
