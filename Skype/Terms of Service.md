@@ -395,6 +395,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Send
 *   Skype
 *   Skype in the Classroom
+*   Skype Interviews
 *   Skype Manager
 *   Skype Qik
 *   Skype.com
@@ -815,6 +816,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Send
 *   Skype
 *   Skype in the Classroom
+*   Skype Interviews
 *   Skype Manager
 *   Skype Qik
 *   Skype.com
