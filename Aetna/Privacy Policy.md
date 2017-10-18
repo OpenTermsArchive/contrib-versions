@@ -149,6 +149,7 @@ Helpful Links Helpful Links
 
 *   Aetna Secure Provider Website
 *   Aetna Dental
+*   Coventry Secure Provider Website
 *   Check Fee Schedules
 *   Check Precertification List
 *   Online Medicare Directory
@@ -159,6 +160,7 @@ Helpful Links Helpful Links
 
 *   Aetna Secure Site
 *   Dental Secure Site
+*   Coventry Secure Site
 *   Contact
 *   For Individuals &. Families
 *   For Employers &. Organizations
