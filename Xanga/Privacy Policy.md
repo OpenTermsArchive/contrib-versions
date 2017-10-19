@@ -2,12 +2,24 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Photos
+    *   by Kandle24ii
+    *   3 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Recover old account
+    *   by l3eauty\_Kills
+    *   6 hours ago
+    *   in Passwords &. Sign-In
+    *   0 votes
+    *   0
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   2 years ago
     *   in Data Migration
     *   0 votes
-    *   40 (last comment by paco0e 1 week ago)
+    *   40 (last comment by paco0e 2 weeks ago)
 *   How to see old posts
     *   \[Resolved\] by SparklinEyez509
     *   3 years ago
@@ -80,18 +92,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Themes
     *   0 votes
     *   0
-*   old xanga
-    *   by farahrasol
-    *   2 months ago
-    *   in Premium
-    *   0 votes
-    *   0
-*   Where is my old Xanga?
-    *   by laura\_hamby\_photos
-    *   4 months ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by rambo\_60th 2 months ago)
 
 1 2 3 ... 184 Next
 
