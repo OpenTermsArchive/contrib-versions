@@ -4,13 +4,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Photos
     *   by Kandle24ii
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Recover old account
     *   by l3eauty\_Kills
-    *   2 days ago
+    *   3 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -25,7 +25,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Themes
     *   0 votes
-    *   6 (last comment by BurningInWaterDr0wningInFlames 3 weeks ago)
+    *   6 (last comment by BurningInWaterDr0wningInFlames 4 weeks ago)
 *   I would like to update to Xanga 2.0
     *   by ArmsAroundU4ever
     *   4 months ago
