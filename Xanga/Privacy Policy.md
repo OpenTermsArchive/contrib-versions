@@ -2,21 +2,27 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Retrieve my old blog?
+    *   by Jessica\_6190
+    *   2 months ago
+    *   in Data Migration
+    *   0 votes
+    *   3 (last comment by CrazyGirl\_x3 3 hours ago)
 *   Photos
     *   by Kandle24ii
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Recover old account
     *   by l3eauty\_Kills
-    *   4 days ago
+    *   5 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
-    *   2 years ago
+    *   3 years ago
     *   in Data Migration
     *   0 votes
     *   40 (last comment by paco0e 2 weeks ago)
@@ -25,19 +31,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Themes
     *   0 votes
-    *   6 (last comment by BurningInWaterDr0wningInFlames 4 weeks ago)
+    *   6 (last comment by BurningInWaterDr0wningInFlames 1 month ago)
 *   I would like to update to Xanga 2.0
     *   by ArmsAroundU4ever
     *   4 months ago
     *   in Data Migration
     *   0 votes
     *   6 (last comment by lub\_dark 1 month ago)
-*   Retrieve my old blog?
-    *   by Jessica\_6190
-    *   2 months ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by ExiledEntertainment 1 month ago)
 *   Login Email No Longer Exists
     *   by crimefightingicecreaman
     *   1 month ago
