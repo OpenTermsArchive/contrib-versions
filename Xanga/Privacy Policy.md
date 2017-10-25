@@ -1,22 +1,34 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Retrieve Old Blog
+    *   by flipsk8er1928
+    *   9 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Retrieve my old blog?
     *   by Jessica\_6190
     *   2 months ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by CrazyGirl\_x3 3 hours ago)
+    *   3 (last comment by CrazyGirl\_x3 1 day ago)
 *   Photos
     *   by Kandle24ii
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Recover old account
     *   by l3eauty\_Kills
-    *   5 days ago
+    *   6 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -86,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   Blogs
-    *   by aamazing1990
-    *   1 month ago
-    *   in Themes
-    *   0 votes
-    *   0
 
 1 2 3 ... 184 Next
 
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
