@@ -391,6 +391,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Pocket Skills
 *   Presentation Translator
 *   Remix 3D
+*   Ruuh
 *   Seeing AI
 *   Send
 *   Skype
@@ -812,6 +813,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Pocket Skills
 *   Presentation Translator
 *   Remix 3D
+*   Ruuh
 *   Seeing AI
 *   Send
 *   Skype
