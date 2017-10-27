@@ -8,7 +8,7 @@ Please read the product-specific details in this privacy statement, which provid
 
 The most recent version of this privacy statement can be found at aka.ms/privacy.
 
-Personal Data We CollectHow We Use Personal DataReasons We Share Personal DataHow to Access &. Control Your Personal DataCookies &. Similar TechnologiesNotice to End UsersMicrosoft accountOther Important Privacy Information Security of Personal DataWhere We Store and Process Personal DataOur Retention of Personal DataCollection of Data From ChildrenPreview or Free of Charge ReleasesChanges to This Privacy StatementHow to Contact UsProduct-specific details:Enterprise &. Developer Products Enterprise Online ServicesEnterprise and Developer Software and AppliancesCognitive ServicesProductivity &. Communications Products OfficeOneDriveOutlookSkypeSearch &. Artificial Intelligence BingCortanaMicrosoft TranslatorSwiftKeyWindows ActivationAdvertising IDDiagnosticsLocation Services, Motion Sensing, &. RecordingSecurity and Safety FeaturesSpeech, Inking and TypingSync SettingsUpdate ServicesWeb Browsers: Microsoft Edge and Internet ExplorerWi-Fi Connecting to suggested open hotspotsWindows AppsWindows Media PlayerWindows HelloWindows SearchEntertainment and Related Services XboxStoreMSNGroove Music/Movies &. TVSilverlightMicrosoft Health Services Health ServicesHealthVaultCookies
+Personal Data We CollectHow We Use Personal DataReasons We Share Personal DataHow to Access &. Control Your Personal DataCookies &. Similar TechnologiesNotice to End UsersMicrosoft accountOther Important Privacy Information Security of Personal DataWhere We Store and Process Personal DataOur Retention of Personal DataCollection of Data From ChildrenPreview or Free of Charge ReleasesChanges to This Privacy StatementHow to Contact UsProduct-specific details:Enterprise &. Developer Products Enterprise Online ServicesEnterprise and Developer Software and AppliancesCognitive ServicesProductivity &. Communications Products OfficeOneDriveOutlookSkypeSearch &. Artificial Intelligence BingCortanaMicrosoft TranslatorSwiftKeyWindows ActivationAdvertising IDDiagnosticsLocation Services, Motion Sensing, &. RecordingSecurity and Safety FeaturesSpeech, Inking and TypingSync SettingsUpdate ServicesWeb Browsers: Microsoft Edge and Internet ExplorerWi-Fi Connecting to suggested open hotspotsWindows AppsWindows Media PlayerWindows HelloWindows SearchEntertainment and Related Services XboxMicrosoft StoreMSNGroove Music/Movies &. TVSilverlightMicrosoft Health Services Health ServicesHealthVaultCookies
 
 Most Microsoft Sites use "cookies," small text files that can be read by a web server in the domain that put the cookie on your hard drive. We may use cookies to store your preferences and settings. help with sign-in. provide targeted ads. and analyze site operations. Click here to learn more.
 
@@ -62,7 +62,7 @@ The data we collect depends on the context of your interactions with Microsoft, 
 *   audio and video recording of a video message, and
 *   audio recording and transcript of a voice message you receive or a text message you dictate.
 
-**Video**. If you enter our retail stores or other facilities, or attend a Microsoft event, your image may be captured by our security cameras.
+**Video**. If you enter Microsoft Store locations or other facilities, or attend a Microsoft event, your image may be captured by our security cameras.
 
 If you use Spend, at your direction, we may also collect payment card information, receipt data, or financial transaction data, to provide the service.
 
@@ -78,7 +78,7 @@ Microsoft uses the data we collect to operate our business and provide you the p
 
 Microsoft uses the data we collect for three basic purposes, described in more detail below: (1) to operate our business and provide (including improving and personalizing) the products we offer, (2) to send communications, including promotional communications, and (3) to show advertising, whether in our own products supported by advertising like MSN and Bing, or in products offered by third parties.
 
-In carrying out these purposes, we combine data we collect to give you a more seamless, consistent and personalized experience. For example, Cortana can use the favorite sports teams you add to the Microsoft Sports app to provide information relevant to your interests, Windows Store can use information about the apps and services you use to make personalized app recommendations. However, to enhance privacy, we have built in technological and procedural safeguards designed to prevent certain data combinations. For example, we store data we collect from you when you are unauthenticated (not signed in) separately from any account information that directly identifies you, such as your name, email address or phone number.
+In carrying out these purposes, we combine data we collect to give you a more seamless, consistent and personalized experience. For example, Cortana can use the favorite sports teams you add to the Microsoft Sports app to provide information relevant to your interests, Microsoft Store can use information about the apps and services you use to make personalized app recommendations. However, to enhance privacy, we have built in technological and procedural safeguards designed to prevent certain data combinations. For example, we store data we collect from you when you are unauthenticated (not signed in) separately from any account information that directly identifies you, such as your name, email address or phone number.
 
 **Providing and improving our products**. We use data to provide and improve the products we offer and perform essential business operations. This includes operating the products, maintaining and improving the performance of the products, developing new features, conducting research, and providing customer support. Examples of such uses include the following:
 
@@ -512,7 +512,7 @@ Cortana is your personal assistant. Depending on the capabilities of your device
 **Signed in**. If you sign in, you enable Cortana to perform additional tasks and to provide personalized experiences and relevant suggestions. and you give Cortana permission to collect or access the following additional types of data, some of which depend on the capabilities of the version of Cortana you are using (e.g., Windows, Android, iOS, etc.) and the app or device you are using into which Cortana is integrated (e.g. Skype):
 
 *   **Microsoft account**. Cortana can access the demographic data (such as your age, postal code and gender) you provided when you created your personal Microsoft account.
-*   **Other Microsoft product usage**. Cortana uses data collected through other Microsoft services to provide personalized suggestions. For example, Cortana uses data collected by the Sports app, so it can automatically display information about the teams you follow. It also learns your favorite places from Microsoft's Maps app, your favorite songs and artists from the music you play in Groove Music, and what you view and purchase in the Windows Store so it can offer better suggestions. Your interests in Cortana's Notebook can be used by other Microsoft services, such as Bing or MSN, to customize your interests, preferences, and favorites in those experiences as well.
+*   **Other Microsoft product usage**. Cortana uses data collected through other Microsoft services to provide personalized suggestions. For example, Cortana uses data collected by the Sports app, so it can automatically display information about the teams you follow. It also learns your favorite places from Microsoft's Maps app, your favorite songs and artists from the music you play in Groove Music, and what you view and purchase in Microsoft Store so it can offer better suggestions. Your interests in Cortana's Notebook can be used by other Microsoft services, such as Bing or MSN, to customize your interests, preferences, and favorites in those experiences as well.
 
 **Location**. You can choose whether Cortana accesses your location information in order to give you the most relevant notices and results and to make suggestions that help save you time, such as traffic information and location-based reminders. If you grant permission, Cortana will regularly collect and use your current location, location history, and other location signals (such as locations tagged on photos you upload to OneDrive). Location information collected by Cortana may also be used in de-identified form to improve the Windows Location Services. See more details in the Location Services subsection.
 
@@ -532,6 +532,12 @@ Cortana is your personal assistant. Depending on the capabilities of your device
 When you provide Cortana with permission to access your information from a device or service, this information may be used to seamlessly personalize your Cortana experience on any device or service on which you have enabled Cortana. Remember that you can always sign out of Cortana. When you sign out on Windows, Cortana will still be there to help, but your experiences will not be personalized. You can manage what data Cortana uses, and what it knows about you in Cortana Settings, Permissions, and Notebook. More about the individual features, and how to manage them can be found at http://go.microsoft.com/fwlink/?linkid=522360.
 
 Top of page Microsoft TranslatorMicrosoft Translator
+
+Microsoft Translator is a statistical machine translation system designed to automatically translate text and speech between numerous supported languages. Translator may be incorporated into other Microsoft products and services, such as Office, SharePoint, and Bing. Third parties may also incorporate Translator into their own services and offerings. For information on the privacy practices of third-parties’ services and offerings, consult their privacy statements.
+
+Microsoft Translator collects and uses the text, image, and speech data you submit, as well as information about how you are accessing the Translator service, such as operating system version, browser type and language. We use your data to provide the Translator service, which includes improving and personalizing your experiences. Microsoft has implemented business and technical measures designed to help de-identify the data Translator retains. For example, we randomly sample text to improve Translator and delete strings of numbers that may include personal identifiable information that we detect in the sample.
+
+If you subscribe to the Microsoft Translator API with a monthly volume of 250 million characters or more, you may request to have logging turned off for the text you submit to Microsoft Translator by submitting a request using the process detailed at https://www.microsoft.com/en-us/translator/notrace.aspx.
 
 Microsoft Translator is a statistical machine translation system designed to automatically translate text and speech between numerous supported languages. Translator may be incorporated into other Microsoft products and services, such as Office, SharePoint, and Bing. Third parties may also incorporate Translator into their own services and offerings. For information on the privacy practices of third-parties’ services and offerings, consult their privacy statements.
 
@@ -565,7 +571,7 @@ Windows generates a unique advertising ID for each user on a device. When the ad
 
 Top of page DiagnosticsDiagnostics
 
-As you use Windows, we collect diagnostic data that helps us fix problems and improve Microsoft products. If you choose to turn on **Tailored experiences**, this data can also be used to personalize your experiences with Microsoft products. This data is transmitted to Microsoft and stored with one or more unique identifiers that can help us recognize an individual user on an individual device and understand the device's service issues and use patterns. There are two levels of diagnostic and usage data: **Basic** and **Full**. At the lowest level, **Basic**, we collect only data necessary to keep Windows devices up-to-date and secure. Basic data includes data about the device itself, the proper functioning of Windows and Store updates, and basic error data. We collect the following data at the Basic level:
+As you use Windows, we collect diagnostic data that helps us fix problems and improve Microsoft products. If you choose to turn on **Tailored experiences**, this data can also be used to personalize your experiences with Microsoft products. This data is transmitted to Microsoft and stored with one or more unique identifiers that can help us recognize an individual user on an individual device and understand the device's service issues and use patterns. There are two levels of diagnostic and usage data: **Basic** and **Full**. At the lowest level, **Basic**, we collect only data necessary to keep Windows devices up-to-date and secure. Basic data includes data about the device itself, the proper functioning of Windows and Microsoft Store updates, and basic error data. We collect the following data at the Basic level:
 
 *   Device, connectivity and configuration data:
     *   Data about the device such as the processor type, OEM manufacturer, type of battery and capacity, number and type of cameras, firmware, and memory attributes.
@@ -645,11 +651,11 @@ When you sign into Windows with a Microsoft account, Windows syncs some of your 
 
 Some of the settings that are synced include:
 
-*   Apps you've installed from the Windows Store
+*   Apps you've installed from Microsoft Store
 *   Language preferences
 *   Ease of Access preferences
 *   Personalization settings such as your account picture, background, and mouse settings
-*   Settings for Windows Store apps
+*   Settings for Microsoft Store apps
 *   Spell checker dictionaries, input method editor (IME) dictionaries, and personal dictionaries
 *   Internet Explorer browser history, favorites, and websites you have open
 *   Saved app, website, mobile hotspot, and Wi-Fi network names and passwords
@@ -660,7 +666,7 @@ Top of page Update ServicesUpdate Services
 
 Update Services for Windows includes Windows Update and Microsoft Update. Windows Update is a service that provides you with software updates for Windows software and other supporting software, such as drivers and firmware supplied by device manufacturers. Microsoft Update is a service that provides you with software updates for other Microsoft software such as Office.
 
-Windows Update automatically downloads Windows software updates to your device. You can configure Windows Update to automatically install these updates as they become available (recommended) or have Windows notify you when a restart is required to finish installing updates. Apps available through the Windows Store are automatically updated through the Store, as described in the Store section above.
+Windows Update automatically downloads Windows software updates to your device. You can configure Windows Update to automatically install these updates as they become available (recommended) or have Windows notify you when a restart is required to finish installing updates. Apps available through Microsoft Store are automatically updated through Microsoft Store, as described in the Microsoft Store section above.
 
 Top of page Web Browsers: Microsoft Edge and Internet ExplorerWeb Browsers: Microsoft Edge and Internet Explorer
 
@@ -691,7 +697,7 @@ If you turn it on Connect to suggested open hotspots in Wi-Fi settings, you will
 
 Top of page Windows AppsWindows Apps
 
-A number of Microsoft apps are included with Windows and others are available in the Windows Store. Some of those apps include:
+A number of Microsoft apps are included with Windows and others are available in Microsoft Store. Some of those apps include:
 
 **Maps app.** The Maps app provides location-based services and uses Bing services to process your searches within the Maps app. Please see the Bing section of this privacy statement to learn more about these Bing-powered experiences. When the Maps app has access to your location, even when the app is not in use, Microsoft may collect de-identified location data from your device to improve Microsoft's services. You can disable the Maps app's access to your location by turning off the location service or turning off the Maps app's access to the location service.
 
@@ -777,23 +783,23 @@ To learn more about Kinect, for Xbox 360, see Kinect and Xbox 360 privacy. For X
 
 **Children and online safety**. If you have children who use Xbox services, you can set up child accounts for them. Children 17 and younger cannot create an account on Xbox Live without parental consent. Adults in the family can change consent choices and online safety settings for child accounts on xbox.com.
 
-Top of page StoreStore
+Top of page Microsoft StoreMicrosoft Store
 
-The Store is an online service that allows you to browse, download, purchase, rate, and review applications and other digital content. It includes:
+Microsoft Store is an online service that allows you to browse, download, purchase, rate, and review applications and other digital content. It includes:
 
-*   Windows Store for apps and content for Windows devices such as phones, PCs, and tablets,
-*   Xbox Store for games and other apps for Xbox ONE and Xbox 360 consoles, and
-*   Office Store for products and apps for Office, SharePoint, Exchange, Access and Project (2013 versions or later).
+*   Apps and content for Windows devices such as phones, PCs, and tablets,
+*   Games and other apps for Xbox consoles, and
+*   Products and apps for Office, SharePoint, Exchange, Access and Project (2013 versions or later).
 
-We collect data about how you access and use the Store. the products you've viewed, purchased, or installed. the preferences you set for viewing apps in the Store. and any ratings, reviews or problem reports you submit. Your Microsoft account is associated with your ratings and reviews. and if you write a review, the name and picture from your Microsoft account will be published with your review.
+We collect data about how you access and use Microsoft Store. the products you've viewed, purchased, or installed. the preferences you set for viewing apps in Microsoft Store. and any ratings, reviews or problem reports you submit. Your Microsoft account is associated with your ratings and reviews. and if you write a review, the name and picture from your Microsoft account will be published with your review.
 
-**Permission for Store apps**. Many apps you install from the Windows Store are designed to take advantage of specific hardware and software features of your device. An app's use of certain hardware and software features may give the app or its related service access to your data. For example, a photo editing app might access your device's camera to let you take a new photo or access photos or videos stored on your device for editing, and a restaurant guide might use your location to provide nearby recommendations. Information about the features that an app uses is provided on the app's product description page in the Store. Many of the features that Windows Store apps use can be turned on or off through your device’s privacy settings. In Windows, in many cases, you can choose which apps can use a particular feature. Go to **Start >. Settings >. Privacy**. Select the feature (for example, Calendar) and select which app permissions are on or off. The lists of apps in Windows privacy settings that can use hardware and software features will not include "Classic Windows" applications, and these applications are not affected by these settings.
+**Permission for Microsoft Store apps**. Many apps you install from Microsoft Store are designed to take advantage of specific hardware and software features of your device. An app's use of certain hardware and software features may give the app or its related service access to your data. For example, a photo editing app might access your device's camera to let you take a new photo or access photos or videos stored on your device for editing, and a restaurant guide might use your location to provide nearby recommendations. Information about the features that an app uses is provided on the app's product description page in Microsoft Store. Many of the features that Microsoft Store apps use can be turned on or off through your device’s privacy settings. In Windows, in many cases, you can choose which apps can use a particular feature. Go to **Start >. Settings >. Privacy**. Select the feature (for example, Calendar) and select which app permissions are on or off. The lists of apps in Windows privacy settings that can use hardware and software features will not include "Classic Windows" applications, and these applications are not affected by these settings.
 
-**App updates**. Unless you have turned off automatic app updates in the relevant Store settings, the Store will automatically check for, download, and install app updates to ensure that you have the latest versions. Updated apps might use different Windows hardware and software features from the previous versions, which could give them access to different data on your device. You will be prompted for consent if an updated app accesses certain features, such as location. You can also review the hardware and software features an app uses by viewing its product description page in the Windows Store.
+**App updates**. Unless you have turned off automatic app updates in the relevant Microsoft Store settings, Microsoft Store will automatically check for, download, and install app updates to ensure that you have the latest versions. Updated apps might use different Windows hardware and software features from the previous versions, which could give them access to different data on your device. You will be prompted for consent if an updated app accesses certain features, such as location. You can also review the hardware and software features an app uses by viewing its product description page in Microsoft Store.
 
-Each app's use of your data collected through any of these features is subject to the app developer's privacy policies. If an app available through the Windows Store collects and uses any of your personal data, the app developer is required to provide a privacy policy, and a link to the privacy policy is available on the app's product description page in the Store.
+Each app's use of your data collected through any of these features is subject to the app developer's privacy policies. If an app available through Microsoft Store collects and uses any of your personal data, the app developer is required to provide a privacy policy, and a link to the privacy policy is available on the app's product description page in Microsoft Store.
 
-**Sideloaded apps and developer mode**. Developer features such as the "developer mode" setting are intended for development use only. If you enable developer features, your device may become unreliable or unusable, and expose you to security risks. Downloading or otherwise acquiring apps from sources other than the Store, also known as "sideloading" apps, may make your device and personal data more vulnerable to attack or unexpected use by apps. Windows policies, notifications, permissions and other features intended to help protect your privacy when apps access your data may not function as described in this statement for sideloaded apps or when developer features are enabled.
+**Sideloaded apps and developer mode**. Developer features such as the "developer mode" setting are intended for development use only. If you enable developer features, your device may become unreliable or unusable, and expose you to security risks. Downloading or otherwise acquiring apps from sources other than Microsoft Store, also known as "sideloading" apps, may make your device and personal data more vulnerable to attack or unexpected use by apps. Windows policies, notifications, permissions and other features intended to help protect your privacy when apps access your data may not function as described in this statement for sideloaded apps or when developer features are enabled.
 
 Top of page MSNMSN
 
@@ -927,7 +933,7 @@ The data we collect depends on the context of your interactions with Microsoft, 
 *   audio and video recording of a video message, and
 *   audio recording and transcript of a voice message you receive or a text message you dictate.
 
-**Video**. If you enter our retail stores or other facilities, or attend a Microsoft event, your image may be captured by our security cameras.
+**Video**. If you enter Microsoft Store locations or other facilities, or attend a Microsoft event, your image may be captured by our security cameras.
 
 If you use Spend, at your direction, we may also collect payment card information, receipt data, or financial transaction data, to provide the service.
 
@@ -945,7 +951,7 @@ Full text
 
 Microsoft uses the data we collect for three basic purposes, described in more detail below: (1) to operate our business and provide (including improving and personalizing) the products we offer, (2) to send communications, including promotional communications, and (3) to show advertising, whether in our own products supported by advertising like MSN and Bing, or in products offered by third parties.
 
-In carrying out these purposes, we combine data we collect to give you a more seamless, consistent and personalized experience. For example, Cortana can use the favorite sports teams you add to the Microsoft Sports app to provide information relevant to your interests, Windows Store can use information about the apps and services you use to make personalized app recommendations. However, to enhance privacy, we have built in technological and procedural safeguards designed to prevent certain data combinations. For example, we store data we collect from you when you are unauthenticated (not signed in) separately from any account information that directly identifies you, such as your name, email address or phone number.
+In carrying out these purposes, we combine data we collect to give you a more seamless, consistent and personalized experience. For example, Cortana can use the favorite sports teams you add to the Microsoft Sports app to provide information relevant to your interests, Microsoft Store can use information about the apps and services you use to make personalized app recommendations. However, to enhance privacy, we have built in technological and procedural safeguards designed to prevent certain data combinations. For example, we store data we collect from you when you are unauthenticated (not signed in) separately from any account information that directly identifies you, such as your name, email address or phone number.
 
 **Providing and improving our products**. We use data to provide and improve the products we offer and perform essential business operations. This includes operating the products, maintaining and improving the performance of the products, developing new features, conducting research, and providing customer support. Examples of such uses include the following:
 
@@ -1387,7 +1393,7 @@ Cortana is your personal assistant. Depending on the capabilities of your device
 **Signed in**. If you sign in, you enable Cortana to perform additional tasks and to provide personalized experiences and relevant suggestions. and you give Cortana permission to collect or access the following additional types of data, some of which depend on the capabilities of the version of Cortana you are using (e.g., Windows, Android, iOS, etc.) and the app or device you are using into which Cortana is integrated (e.g. Skype):
 
 *   **Microsoft account**. Cortana can access the demographic data (such as your age, postal code and gender) you provided when you created your personal Microsoft account.
-*   **Other Microsoft product usage**. Cortana uses data collected through other Microsoft services to provide personalized suggestions. For example, Cortana uses data collected by the Sports app, so it can automatically display information about the teams you follow. It also learns your favorite places from Microsoft's Maps app, your favorite songs and artists from the music you play in Groove Music, and what you view and purchase in the Windows Store so it can offer better suggestions. Your interests in Cortana's Notebook can be used by other Microsoft services, such as Bing or MSN, to customize your interests, preferences, and favorites in those experiences as well.
+*   **Other Microsoft product usage**. Cortana uses data collected through other Microsoft services to provide personalized suggestions. For example, Cortana uses data collected by the Sports app, so it can automatically display information about the teams you follow. It also learns your favorite places from Microsoft's Maps app, your favorite songs and artists from the music you play in Groove Music, and what you view and purchase in Microsoft Store so it can offer better suggestions. Your interests in Cortana's Notebook can be used by other Microsoft services, such as Bing or MSN, to customize your interests, preferences, and favorites in those experiences as well.
 
 **Location**. You can choose whether Cortana accesses your location information in order to give you the most relevant notices and results and to make suggestions that help save you time, such as traffic information and location-based reminders. If you grant permission, Cortana will regularly collect and use your current location, location history, and other location signals (such as locations tagged on photos you upload to OneDrive). Location information collected by Cortana may also be used in de-identified form to improve the Windows Location Services. See more details in the Location Services subsection.
 
@@ -1407,6 +1413,12 @@ Cortana is your personal assistant. Depending on the capabilities of your device
 When you provide Cortana with permission to access your information from a device or service, this information may be used to seamlessly personalize your Cortana experience on any device or service on which you have enabled Cortana. Remember that you can always sign out of Cortana. When you sign out on Windows, Cortana will still be there to help, but your experiences will not be personalized. You can manage what data Cortana uses, and what it knows about you in Cortana Settings, Permissions, and Notebook. More about the individual features, and how to manage them can be found at http://go.microsoft.com/fwlink/?linkid=522360.
 
 Microsoft TranslatorMicrosoft TranslatormainMicrosoftTranslatormoduleSummary
+
+Microsoft Translator is a statistical machine translation system designed to automatically translate text and speech between numerous supported languages. Translator may be incorporated into other Microsoft products and services, such as Office, SharePoint, and Bing. Third parties may also incorporate Translator into their own services and offerings. For information on the privacy practices of third-parties’ services and offerings, consult their privacy statements.
+
+Microsoft Translator collects and uses the text, image, and speech data you submit, as well as information about how you are accessing the Translator service, such as operating system version, browser type and language. We use your data to provide the Translator service, which includes improving and personalizing your experiences. Microsoft has implemented business and technical measures designed to help de-identify the data Translator retains. For example, we randomly sample text to improve Translator and delete strings of numbers that may include personal identifiable information that we detect in the sample.
+
+If you subscribe to the Microsoft Translator API with a monthly volume of 250 million characters or more, you may request to have logging turned off for the text you submit to Microsoft Translator by submitting a request using the process detailed at https://www.microsoft.com/en-us/translator/notrace.aspx.
 
 Microsoft Translator is a statistical machine translation system designed to automatically translate text and speech between numerous supported languages. Translator may be incorporated into other Microsoft products and services, such as Office, SharePoint, and Bing. Third parties may also incorporate Translator into their own services and offerings. For information on the privacy practices of third-parties’ services and offerings, consult their privacy statements.
 
@@ -1440,7 +1452,7 @@ Windows generates a unique advertising ID for each user on a device. When the ad
 
 DiagnosticsDiagnosticsmaindiagnosticsmoduleSummary
 
-As you use Windows, we collect diagnostic data that helps us fix problems and improve Microsoft products. If you choose to turn on **Tailored experiences**, this data can also be used to personalize your experiences with Microsoft products. This data is transmitted to Microsoft and stored with one or more unique identifiers that can help us recognize an individual user on an individual device and understand the device's service issues and use patterns. There are two levels of diagnostic and usage data: **Basic** and **Full**. At the lowest level, **Basic**, we collect only data necessary to keep Windows devices up-to-date and secure. Basic data includes data about the device itself, the proper functioning of Windows and Store updates, and basic error data. We collect the following data at the Basic level:
+As you use Windows, we collect diagnostic data that helps us fix problems and improve Microsoft products. If you choose to turn on **Tailored experiences**, this data can also be used to personalize your experiences with Microsoft products. This data is transmitted to Microsoft and stored with one or more unique identifiers that can help us recognize an individual user on an individual device and understand the device's service issues and use patterns. There are two levels of diagnostic and usage data: **Basic** and **Full**. At the lowest level, **Basic**, we collect only data necessary to keep Windows devices up-to-date and secure. Basic data includes data about the device itself, the proper functioning of Windows and Microsoft Store updates, and basic error data. We collect the following data at the Basic level:
 
 *   Device, connectivity and configuration data:
     *   Data about the device such as the processor type, OEM manufacturer, type of battery and capacity, number and type of cameras, firmware, and memory attributes.
@@ -1520,11 +1532,11 @@ When you sign into Windows with a Microsoft account, Windows syncs some of your 
 
 Some of the settings that are synced include:
 
-*   Apps you've installed from the Windows Store
+*   Apps you've installed from Microsoft Store
 *   Language preferences
 *   Ease of Access preferences
 *   Personalization settings such as your account picture, background, and mouse settings
-*   Settings for Windows Store apps
+*   Settings for Microsoft Store apps
 *   Spell checker dictionaries, input method editor (IME) dictionaries, and personal dictionaries
 *   Internet Explorer browser history, favorites, and websites you have open
 *   Saved app, website, mobile hotspot, and Wi-Fi network names and passwords
@@ -1535,7 +1547,7 @@ Update ServicesUpdate ServicesmainupdateservicesmoduleSummary
 
 Update Services for Windows includes Windows Update and Microsoft Update. Windows Update is a service that provides you with software updates for Windows software and other supporting software, such as drivers and firmware supplied by device manufacturers. Microsoft Update is a service that provides you with software updates for other Microsoft software such as Office.
 
-Windows Update automatically downloads Windows software updates to your device. You can configure Windows Update to automatically install these updates as they become available (recommended) or have Windows notify you when a restart is required to finish installing updates. Apps available through the Windows Store are automatically updated through the Store, as described in the Store section above.
+Windows Update automatically downloads Windows software updates to your device. You can configure Windows Update to automatically install these updates as they become available (recommended) or have Windows notify you when a restart is required to finish installing updates. Apps available through Microsoft Store are automatically updated through Microsoft Store, as described in the Microsoft Store section above.
 
 Web Browsers: Microsoft Edge and Internet ExplorerWeb Browsers: Microsoft Edge and Internet ExplorermainwebbrowsersmoduleSummary
 
@@ -1566,7 +1578,7 @@ If you turn it on Connect to suggested open hotspots in Wi-Fi settings, you will
 
 Windows AppsWindows AppsmainwindowsappsmoduleSummary
 
-A number of Microsoft apps are included with Windows and others are available in the Windows Store. Some of those apps include:
+A number of Microsoft apps are included with Windows and others are available in Microsoft Store. Some of those apps include:
 
 **Maps app.** The Maps app provides location-based services and uses Bing services to process your searches within the Maps app. Please see the Bing section of this privacy statement to learn more about these Bing-powered experiences. When the Maps app has access to your location, even when the app is not in use, Microsoft may collect de-identified location data from your device to improve Microsoft's services. You can disable the Maps app's access to your location by turning off the location service or turning off the Maps app's access to the location service.
 
@@ -1652,23 +1664,23 @@ To learn more about Kinect, for Xbox 360, see Kinect and Xbox 360 privacy. For X
 
 **Children and online safety**. If you have children who use Xbox services, you can set up child accounts for them. Children 17 and younger cannot create an account on Xbox Live without parental consent. Adults in the family can change consent choices and online safety settings for child accounts on xbox.com.
 
-StoreStoremainwindowsstoremoduleSummary
+Microsoft StoreMicrosoft StoremainwindowsstoremoduleSummary
 
-The Store is an online service that allows you to browse, download, purchase, rate, and review applications and other digital content. It includes:
+Microsoft Store is an online service that allows you to browse, download, purchase, rate, and review applications and other digital content. It includes:
 
-*   Windows Store for apps and content for Windows devices such as phones, PCs, and tablets,
-*   Xbox Store for games and other apps for Xbox ONE and Xbox 360 consoles, and
-*   Office Store for products and apps for Office, SharePoint, Exchange, Access and Project (2013 versions or later).
+*   Apps and content for Windows devices such as phones, PCs, and tablets,
+*   Games and other apps for Xbox consoles, and
+*   Products and apps for Office, SharePoint, Exchange, Access and Project (2013 versions or later).
 
-We collect data about how you access and use the Store. the products you've viewed, purchased, or installed. the preferences you set for viewing apps in the Store. and any ratings, reviews or problem reports you submit. Your Microsoft account is associated with your ratings and reviews. and if you write a review, the name and picture from your Microsoft account will be published with your review.
+We collect data about how you access and use Microsoft Store. the products you've viewed, purchased, or installed. the preferences you set for viewing apps in Microsoft Store. and any ratings, reviews or problem reports you submit. Your Microsoft account is associated with your ratings and reviews. and if you write a review, the name and picture from your Microsoft account will be published with your review.
 
-**Permission for Store apps**. Many apps you install from the Windows Store are designed to take advantage of specific hardware and software features of your device. An app's use of certain hardware and software features may give the app or its related service access to your data. For example, a photo editing app might access your device's camera to let you take a new photo or access photos or videos stored on your device for editing, and a restaurant guide might use your location to provide nearby recommendations. Information about the features that an app uses is provided on the app's product description page in the Store. Many of the features that Windows Store apps use can be turned on or off through your device’s privacy settings. In Windows, in many cases, you can choose which apps can use a particular feature. Go to **Start >. Settings >. Privacy**. Select the feature (for example, Calendar) and select which app permissions are on or off. The lists of apps in Windows privacy settings that can use hardware and software features will not include "Classic Windows" applications, and these applications are not affected by these settings.
+**Permission for Microsoft Store apps**. Many apps you install from Microsoft Store are designed to take advantage of specific hardware and software features of your device. An app's use of certain hardware and software features may give the app or its related service access to your data. For example, a photo editing app might access your device's camera to let you take a new photo or access photos or videos stored on your device for editing, and a restaurant guide might use your location to provide nearby recommendations. Information about the features that an app uses is provided on the app's product description page in Microsoft Store. Many of the features that Microsoft Store apps use can be turned on or off through your device’s privacy settings. In Windows, in many cases, you can choose which apps can use a particular feature. Go to **Start >. Settings >. Privacy**. Select the feature (for example, Calendar) and select which app permissions are on or off. The lists of apps in Windows privacy settings that can use hardware and software features will not include "Classic Windows" applications, and these applications are not affected by these settings.
 
-**App updates**. Unless you have turned off automatic app updates in the relevant Store settings, the Store will automatically check for, download, and install app updates to ensure that you have the latest versions. Updated apps might use different Windows hardware and software features from the previous versions, which could give them access to different data on your device. You will be prompted for consent if an updated app accesses certain features, such as location. You can also review the hardware and software features an app uses by viewing its product description page in the Windows Store.
+**App updates**. Unless you have turned off automatic app updates in the relevant Microsoft Store settings, Microsoft Store will automatically check for, download, and install app updates to ensure that you have the latest versions. Updated apps might use different Windows hardware and software features from the previous versions, which could give them access to different data on your device. You will be prompted for consent if an updated app accesses certain features, such as location. You can also review the hardware and software features an app uses by viewing its product description page in Microsoft Store.
 
-Each app's use of your data collected through any of these features is subject to the app developer's privacy policies. If an app available through the Windows Store collects and uses any of your personal data, the app developer is required to provide a privacy policy, and a link to the privacy policy is available on the app's product description page in the Store.
+Each app's use of your data collected through any of these features is subject to the app developer's privacy policies. If an app available through Microsoft Store collects and uses any of your personal data, the app developer is required to provide a privacy policy, and a link to the privacy policy is available on the app's product description page in Microsoft Store.
 
-**Sideloaded apps and developer mode**. Developer features such as the "developer mode" setting are intended for development use only. If you enable developer features, your device may become unreliable or unusable, and expose you to security risks. Downloading or otherwise acquiring apps from sources other than the Store, also known as "sideloading" apps, may make your device and personal data more vulnerable to attack or unexpected use by apps. Windows policies, notifications, permissions and other features intended to help protect your privacy when apps access your data may not function as described in this statement for sideloaded apps or when developer features are enabled.
+**Sideloaded apps and developer mode**. Developer features such as the "developer mode" setting are intended for development use only. If you enable developer features, your device may become unreliable or unusable, and expose you to security risks. Downloading or otherwise acquiring apps from sources other than Microsoft Store, also known as "sideloading" apps, may make your device and personal data more vulnerable to attack or unexpected use by apps. Windows policies, notifications, permissions and other features intended to help protect your privacy when apps access your data may not function as described in this statement for sideloaded apps or when developer features are enabled.
 
 MSNMSNmainmainmoduleSummary
 
