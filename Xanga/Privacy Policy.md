@@ -8,9 +8,15 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   how can i access my old blogs
+    *   \[Resolved\] by e\_e
+    *   3 years ago
+    *   in Data Migration
+    *   0 votes
+    *   6 (last comment by drumminfurjesus 10 hours ago)
 *   Retrieve Old Blog
     *   by flipsk8er1928
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,7 +25,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 months ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by CrazyGirl\_x3 2 days ago)
+    *   3 (last comment by CrazyGirl\_x3 3 days ago)
 *   Photos
     *   by Kandle24ii
     *   1 week ago
@@ -82,12 +88,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   My blogpost were deleted
     *   by ceres\_14
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Download my content
-    *   by pearlbamboo
     *   1 month ago
     *   in Data Migration
     *   0 votes
