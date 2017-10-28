@@ -1,3 +1,5 @@
+Site feedback
+
 **MICROSOFT TERMS OF SALE  
 United States and Canada Consumer Store**  
 Updated February 2017
