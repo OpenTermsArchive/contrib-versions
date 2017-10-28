@@ -178,6 +178,7 @@ Forgot user ID Forgot password Register new account
 *   Advertising
     *   Mayhem
 *   Allstate Affiliate Program
+*   Website Accessibility
 
 2.  About Allstate
 3.  Privacy Statement
@@ -414,7 +415,7 @@ In your discussion or correspondence with us, please be sure to provide us with 
   
 Office of the Nevada Attorney General  
 Bureau of Consumer Protection  
-555 E.Washington Avenue.. Suite 3900  
+555 E. Washington Avenue.. Suite 3900  
 Las Vegas, NV 89101  
 Phone: (702) 486-3132  
 Email: BCPINFO@ag.state.nv.us  
@@ -450,6 +451,7 @@ Connect With Us
 *   Allstate Investments
 *   Investor Relations
 *   Corporate Responsibility
+*   Allstate Canada
 
 *   Quick Links
 *   Auto Insurance
@@ -465,7 +467,7 @@ Connect With Us
 *   Privacy &. Security
 *   NY Domestic Violence Notice
 *   Underwriting Companies
-*   Allstate Canada
+*   Website Accessibility
 *   Ad Choices
 
 Not Your ZIP Code? Update Below.
