@@ -13,10 +13,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   6 (last comment by drumminfurjesus 10 hours ago)
+    *   6 (last comment by drumminfurjesus 1 day ago)
 *   Retrieve Old Blog
     *   by flipsk8er1928
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -25,7 +25,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 months ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by CrazyGirl\_x3 3 days ago)
+    *   3 (last comment by CrazyGirl\_x3 4 days ago)
 *   Photos
     *   by Kandle24ii
     *   1 week ago
@@ -94,7 +94,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Download my content
     *   by pearlbamboo
-    *   1 month ago
+    *   2 months ago
     *   in Data Migration
     *   0 votes
     *   0
