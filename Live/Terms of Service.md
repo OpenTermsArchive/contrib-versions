@@ -404,7 +404,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Spreadsheet Keyboard
 *   Store
 *   Sway.com
-*   Todo.microsoft.com
+*   to-do.microsoft.com
 *   Tossup
 *   Translator
 *   Translator for Microsoft Edge
@@ -826,7 +826,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Spreadsheet Keyboard
 *   Store
 *   Sway.com
-*   Todo.microsoft.com
+*   to-do.microsoft.com
 *   Tossup
 *   Translator
 *   Translator for Microsoft Edge
