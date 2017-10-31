@@ -48,7 +48,7 @@ Cette Politique ne s’applique pas aux pratiques d’entreprises n’étant pas
 
 Dans la section « Thèmes », vous trouverez des informations détaillées sur des sujets précis, tels que les cookies et les adresses IP. Dans la section « Produits », vous trouverez des indications supplémentaires sur nos pratiques en matière de vie privée concernant certains produits ou services.
 
-« Yahoo » renvoie à Yahoo! EMEA Limited qui respecte et est soumis à la législation irlandaise sur la protection des données. Cependant, si vous utilisez Sky | Yahoo Mail, « Yahoo » fait référence à Yahoo UK Services Limited à l’égard de votre utilisation de Mail, Messenger (messagerie Web), Agenda et Adresses. Si vous utilisez BT | Yahoo Mail, « Yahoo » renvoie à Yahoo! UK Services Limited qui fournit Mail, Messenger (messagerie Web), Agenda et Adresses en tant que service de traitement de données pour les clients BT.
+« Yahoo » renvoie à Oath (EMEA) Limited (anciennement dénommée Yahoo! EMEA Limited) qui respecte et est soumis à la législation irlandaise sur la protection des données. Cependant, si vous utilisez Sky | Yahoo Mail, « Yahoo » fait référence à Yahoo UK Services Limited à l’égard de votre utilisation de Mail, Messenger (messagerie Web), Agenda et Adresses. Si vous utilisez BT | Yahoo Mail, « Yahoo » renvoie à Yahoo! UK Services Limited qui fournit Mail, Messenger (messagerie Web), Agenda et Adresses en tant que service de traitement de données pour les clients BT.
 
 **Collecte et utilisation des données**
 
@@ -123,12 +123,12 @@ Yahoo peut modifier de manière ponctuelle la présente Politique. Si nous appor
 
 Si vous avez des questions ou des suggestions, remplissez le formulaire de commentaires ou contactez-nous à l’adresse suivante :
 
-Yahoo! EMEA Limited  
-5-7 Point Village  
+Oath (EMEA) Limited  
+5-7 Point Square  
 North Wall Quay, Dublin 1  
 Irlande
 
-_Dernière mise à jour : 16 août 2017_
+_Dernière mise à jour : 30 octobre 2017_
 
 A la une
 
