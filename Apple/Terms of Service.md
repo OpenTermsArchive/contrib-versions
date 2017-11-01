@@ -4,8 +4,8 @@
 
 Sales Policies
 
-**INTRODUCTION**  
-  
+INTRODUCTION
+
 These Terms of Use (“Terms”) provide important information about ordering goods or services (“Products”) from Apple, through any of Apple’s application-based services (the “Services”), so you should take the time to read and understand them. You may review, save or print any part of these Terms. We encourage you to print out a copy of this entire document and refer to it as you use the Services.  
   
 **IMPORTANT: PLEASE READ THESE TERMS CAREFULLY, SINCE YOUR USE OF ANY OF THE SERVICES CONSTITUTES ACCEPTANCE OF THESE TERMS AND CREATES A BINDING LEGAL AGREEMENT. YOU MUST ACCEPT THESE TERMS IF YOU WISH TO USE ANY OF THE SERVICES. IF YOU CHOOSE TO ACCEPT THESE TERMS, YOU MUST DO SO AS THEY ARE PRESENTED TO YOU. NO CHANGES (ADDITIONS OR DELETIONS) WILL BE ACCEPTED BY APPLE. APPLICABLE LOCAL (NON-U.S.) LAW MAY ALTER OR AFFECT THE RIGHTS OF EITHER PARTY UNDER THESE TERMS.**  
