@@ -7,7 +7,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   6 (last comment by drumminfurjesus 5 days ago)
+    *   6 (last comment by drumminfurjesus 6 days ago)
 *   Retrieve Old Blog
     *   by flipsk8er1928
     *   1 week ago
@@ -22,13 +22,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 (last comment by CrazyGirl\_x3 1 week ago)
 *   Photos
     *   by Kandle24ii
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Recover old account
     *   by l3eauty\_Kills
-    *   1 week ago
+    *   2 weeks ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -37,7 +37,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   40 (last comment by paco0e 3 weeks ago)
+    *   40 (last comment by paco0e 4 weeks ago)
 *   How to see old posts
     *   \[Resolved\] by SparklinEyez509
     *   3 years ago
@@ -58,25 +58,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Please help me view my old account
     *   by sandiegosuperstar
-    *   11 months ago
+    *   12 months ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   1 (last comment by fallentoseductions 1 month ago)
 *   Pls check my acc
     *   by chcolate\_jose
-    *   1 month ago
+    *   2 months ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   I can't see any things for my side
     *   by chcolate\_jose
-    *   1 month ago
+    *   2 months ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   I can't see any things for my side
     *   by chcolate\_jose
-    *   1 month ago
+    *   2 months ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
