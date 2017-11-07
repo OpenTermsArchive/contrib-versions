@@ -55,7 +55,7 @@ Rights
 Reporting Copyright and Other IP Violations
 
 1.  We respect other people's rights, and expect you to do the same.
-2.  We provide you with tools to help you protect your intellectual property rights. To learn more about how to report claims of intellectual property infringement, visit: https://help.instagram.com/customer/portal/articles/270501
+2.  We provide you with tools to help you protect your intellectual property rights. To learn more about how to report claims of intellectual property infringement, visit here.
 3.  If you repeatedly infringe other people's intellectual property rights, we will disable your account when appropriate.
 
 Disclaimer of Warranties
