@@ -124,7 +124,7 @@ Further, your use of the domain name is also subject to the policies of the Inte
 
 For details about what happens during the domain expiration process, and how we may notify you of domain expiration, please see the Domain Expiration support page.
 
-Please refer to this page for details about fees associated with domain registrations, renewals, and redemptions.
+Please refer to the domain pricing and available TLDs page for details about fees associated with domain registrations, renewals, and redemptions.
 
 12\. G Suite.
 
