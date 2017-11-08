@@ -4,13 +4,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Retrieve Old Blog Posts
     *   by JAZADON101
-    *   11 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve Old Blog Posts
     *   by JAZADON101
-    *   11 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -22,7 +22,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   6 (last comment by drumminfurjesus 1 week ago)
 *   Retrieve Old Blog
     *   by flipsk8er1928
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -58,7 +58,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   6 (last comment by BurningInWaterDr0wningInFlames 1 month ago)
 *   I would like to update to Xanga 2.0
     *   by ArmsAroundU4ever
-    *   4 months ago
+    *   5 months ago
     *   in Data Migration
     *   0 votes
     *   6 (last comment by lub\_dark 1 month ago)
