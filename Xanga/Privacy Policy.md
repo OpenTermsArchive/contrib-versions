@@ -1,16 +1,22 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
 *   Retrieve Old Blog Posts
     *   by JAZADON101
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve Old Blog Posts
     *   by JAZADON101
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -34,13 +40,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 (last comment by CrazyGirl\_x3 2 weeks ago)
 *   Photos
     *   by Kandle24ii
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Recover old account
     *   by l3eauty\_Kills
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -64,7 +70,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   6 (last comment by lub\_dark 1 month ago)
 *   Login Email No Longer Exists
     *   by crimefightingicecreaman
-    *   1 month ago
+    *   2 months ago
     *   in Emails
     *   0 votes
     *   0
@@ -73,7 +79,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   1 (last comment by fallentoseductions 1 month ago)
+    *   1 (last comment by fallentoseductions 2 months ago)
 *   Pls check my acc
     *   by chcolate\_jose
     *   2 months ago
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
