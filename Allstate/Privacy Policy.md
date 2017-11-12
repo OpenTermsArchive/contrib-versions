@@ -50,7 +50,7 @@ Skip Navigation Explore Allstate
 *   *   Allstate Mobile
     *   Allstate Motor Club
     *   Digital Locker
-    *   QuickTrip
+    *   QuickTrip®
 
 *   Find an Agent ✖
 
@@ -458,8 +458,7 @@ Connect With Us
 *   Home Insurance
 *   Claims
 *   Agent Locator
-*   Quick Pay
-*   Quick ID Cards
+*   Express Access
 
 *   More
 *   Site Map
