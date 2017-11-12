@@ -488,13 +488,16 @@ ZIP\*
 
 Enter a ZIP
 
-Confirm \*Required Phone Number\* Sign In
+Confirm \*Required
 
-Please enter a valid phone number
+To find out more about products and services available to  
+you, please follow the link below to our secure sign-in page.
 
-**Sorry. We were unable to find an account for this phone number.** Ensure the phone number is correct or enter another number that is your account phone number.
+Sign In Not sure if you're a current customer?
 
-\* Required Fields Check Availability
+Chat live with a representative.
+
+Check Availability
 
 Discover the services Windstream can bring to you.
 
@@ -533,13 +536,16 @@ Enter a ZIP
 
 \*Required
 
-County Confirm Phone Number\* Sign In
+County Confirm
 
-Please enter a valid phone number
+To find out more about products and services available to  
+you, please follow the link below to our secure sign-in page.
 
-**Sorry. We were unable to find an account for this phone number.** Ensure the phone number is correct or enter another number that is your account phone number.
+Sign In Not sure if you're a current customer?
 
-\* Required Fields You entered:
+Chat live with a representative.
+
+You entered:
 
 address
 
