@@ -277,7 +277,7 @@ _This price modification provision (Section 6.5) shall apply without limitation 
 
 **6.6 Special provisions regarding the payment methods offered by XING  
 Please note: This Section 6.6 will become effective as of 1 May 2014.**  
-In case the user opts for a Premium membership as of 1 May 2014, chooses credit card as the applicable payment method, and pays with his MasterCard or Visa Card (not American Express), the following special provisions shall apply:  
+In case the user opts for a Premium membership as of 1 May 2014, chooses credit card as the applicable payment method, and pays with his Mastercard or Visa Card (not American Express), the following special provisions shall apply:  
 
 *   Party to the contract are both XING SE and XING S.à r.l. who are jointly and severally liable towards the user. This means, inter alia, that the provision of a service by one party fulfils the contractual obligation of the other. Events such as contestation, termination or withdrawal of the contract by the user, default or impossibility of performance or any other event listed in Section 425 (2) of the German Civil Code (BGB) will take effect for and against both parties.
 *   XING SE and XING S.à r.l. do not form one company but act for themselves respectively. XING SE and XING S.à r.l. exclusively act in their own name vis-à-vis the user unless expressly stated otherwise.
@@ -285,7 +285,7 @@ In case the user opts for a Premium membership as of 1 May 2014, chooses credit 
 *   The user’s contact person for all questions regarding their membership or the XING Websites is exclusively XING SE. The contact details can be found on the XING Websites.
 
   
-When a user opts for a non-paid membership or chooses to pay for their Premium membership with a payment method other than MasterCard or Visa Card, only XING SE becomes a party to the contract (in this case the name “XING” in these GTC refers exclusively to XING SE). The special provisions regarding the joint and several liability and joint creditors in case of payment by MasterCard or Visa Card do not apply.  
+When a user opts for a non-paid membership or chooses to pay for their Premium membership with a payment method other than Mastercard or Visa Card, only XING SE becomes a party to the contract (in this case the name “XING” in these GTC refers exclusively to XING SE). The special provisions regarding the joint and several liability and joint creditors in case of payment by Mastercard or Visa Card do not apply.  
 As soon as the user has chosen a payment method for their Premium membership, they will receive information stating the parties to the contract as well as details as to which party will provide the contractual service.
 
    
