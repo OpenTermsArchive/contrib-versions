@@ -374,11 +374,11 @@ Opt out of Neustar cross device linking and advertising 
 
 Back to top
 
-**Your e-mail**
+**Your email**
 
-We welcome your comments or questions about our Applications and have provided e-mail boxes for that purpose. We will share your comments and questions with our customer service representatives and those employees most capable of addressing your questions and concerns.
+We welcome your comments or questions about our Applications and have provided email boxes for that purpose. We will share your comments and questions with our customer service representatives and those employees most capable of addressing your questions and concerns.
 
-Please note that your e-mail, like most, if not all, non-encrypted Internet e-mail communications, may be accessed and viewed by other Internet users, without your knowledge and permission, while in transit to us. For that reason, to protect your privacy, please do not use e-mail to communicate information to us that you consider confidential. If you wish, you may contact us instead via telephone at the numbers provided at various locations on our Applications or, in the case of our health plan members, at the Member Services toll-free number that appears on your ID card.
+Please note that your email, like most, if not all, non-encrypted Internet email communications, may be accessed and viewed by other Internet users, without your knowledge and permission, while in transit to us. For that reason, to protect your privacy, please do not use email to communicate information to us that you consider confidential. If you wish, you may contact us instead via telephone at the numbers provided at various locations on our Applications or, in the case of our health plan members, at the Member Services toll-free number that appears on your ID card.
 
 There are some locations on our Applications where we have made special provisions for a more secure environment in which we can exchange information with you. At each of these locations, we will provide you with appropriate instructions.
 
