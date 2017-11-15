@@ -1,7 +1,37 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Retrieve Old Blog
+    *   by harrisonlo
+    *   1 hour ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Retrieve Old Blog
+    *   by harrisonlo
+    *   1 hour ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Blogs
+    *   by XXDropsOfRainXX
+    *   15 hours ago
+    *   in Themes
+    *   0 votes
+    *   0
+*   How to see old posts
+    *   \[Resolved\] by SparklinEyez509
+    *   3 years ago
+    *   in Themes
+    *   0 votes
+    *   7 (last comment by XXDropsOfRainXX 15 hours ago)
 *   Retrieve Old Blog Posts
     *   by JAZADON101
     *   1 week ago
@@ -22,7 +52,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   6 (last comment by drumminfurjesus 2 weeks ago)
 *   Retrieve Old Blog
     *   by flipsk8er1928
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -50,12 +80,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   40 (last comment by paco0e 1 month ago)
-*   How to see old posts
-    *   \[Resolved\] by SparklinEyez509
-    *   3 years ago
-    *   in Themes
-    *   0 votes
-    *   6 (last comment by BurningInWaterDr0wningInFlames 1 month ago)
 *   I would like to update to Xanga 2.0
     *   by ArmsAroundU4ever
     *   5 months ago
@@ -74,24 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Passwords &. Sign-In
     *   0 votes
     *   1 (last comment by fallentoseductions 2 months ago)
-*   Pls check my acc
-    *   by chcolate\_jose
-    *   2 months ago
-    *   in Miscellaenous
-    *   0 votes
-    *   0
-*   I can't see any things for my side
-    *   by chcolate\_jose
-    *   2 months ago
-    *   in Adding &. Editing Entries
-    *   0 votes
-    *   0
-*   I can't see any things for my side
-    *   by chcolate\_jose
-    *   2 months ago
-    *   in Adding &. Editing Entries
-    *   0 votes
-    *   0
 
 1 2 3 ... 185 Next
 
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
