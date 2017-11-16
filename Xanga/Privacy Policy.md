@@ -1,28 +1,28 @@
-Skip to toolbar
-
-*   Xanga
-
-*   Log In
-
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Retrieve Old Blog
-    *   by harrisonlo
-    *   1 hour ago
+*   retrieve old blog
+    *   by anamoleejane
+    *   7 hours ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve Old Blog
     *   by harrisonlo
-    *   1 hour ago
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Retrieve Old Blog
+    *   by harrisonlo
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Blogs
     *   by XXDropsOfRainXX
-    *   15 hours ago
+    *   1 day ago
     *   in Themes
     *   0 votes
     *   0
@@ -31,7 +31,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Themes
     *   0 votes
-    *   7 (last comment by XXDropsOfRainXX 15 hours ago)
+    *   7 (last comment by XXDropsOfRainXX 1 day ago)
 *   Retrieve Old Blog Posts
     *   by JAZADON101
     *   1 week ago
@@ -64,13 +64,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 (last comment by CrazyGirl\_x3 3 weeks ago)
 *   Photos
     *   by Kandle24ii
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Recover old account
     *   by l3eauty\_Kills
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -92,12 +92,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Emails
     *   0 votes
     *   0
-*   Please help me view my old account
-    *   by sandiegosuperstar
-    *   1 year ago
-    *   in Passwords &. Sign-In
-    *   0 votes
-    *   1 (last comment by fallentoseductions 2 months ago)
 
 1 2 3 ... 185 Next
 
@@ -156,4 +150,8 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
+
+*   Xanga
+
+*   Log In
