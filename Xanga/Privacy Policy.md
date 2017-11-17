@@ -4,25 +4,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   retrieve old blog
     *   by anamoleejane
-    *   7 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Retrieve Old Blog
-    *   by harrisonlo
     *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve Old Blog
     *   by harrisonlo
-    *   1 day ago
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Retrieve Old Blog
+    *   by harrisonlo
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Blogs
     *   by XXDropsOfRainXX
-    *   1 day ago
+    *   2 days ago
     *   in Themes
     *   0 votes
     *   0
@@ -31,7 +31,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Themes
     *   0 votes
-    *   7 (last comment by XXDropsOfRainXX 1 day ago)
+    *   7 (last comment by XXDropsOfRainXX 2 days ago)
 *   Retrieve Old Blog Posts
     *   by JAZADON101
     *   1 week ago
@@ -49,7 +49,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 years ago
     *   in Data Migration
     *   0 votes
-    *   6 (last comment by drumminfurjesus 2 weeks ago)
+    *   6 (last comment by drumminfurjesus 3 weeks ago)
 *   Retrieve Old Blog
     *   by flipsk8er1928
     *   3 weeks ago
@@ -85,7 +85,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 months ago
     *   in Data Migration
     *   0 votes
-    *   6 (last comment by lub\_dark 1 month ago)
+    *   6 (last comment by lub\_dark 2 months ago)
 *   Login Email No Longer Exists
     *   by crimefightingicecreaman
     *   2 months ago
