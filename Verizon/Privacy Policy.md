@@ -8,7 +8,7 @@ This policy applies to website visitors, app users and Verizon customers in the 
 
 Verizon has acquired Yahoo and combined it with AOL to form a new company named Oath. Oath consists of over 50 digital and mobile brands globally, including HuffPost, Yahoo News, Yahoo Sports, Tumblr and AOL, as well as advertising platforms such as ONE by AOL, BrightRoll, and Gemini. Oath and Yahoo each have their own privacy policies. In the event of a conflict between the Verizon privacy policy and the Oath or Yahoo privacy policies, the Oath policy will control when you use a site, product or service that links to the Oath privacy policy and the Yahoo privacy policy will apply when you use a site, service, or technology that links to the Yahoo policy.
 
-There are separate policies that govern Verizon Enterprise Solutions customers outside the United States. Also, certain services offered to consumers as well as contracts between Verizon and its business customers (both U.S. and international) may contain additional privacy-related terms and conditions that are presented to you in other ways.
+There are separate policies that govern Verizon Enterprise Solutions customers outside the United States. Also, certain services offered to consumers as well as contracts between Verizon and its business customers (both U.S. and international) may contain additional privacy-related terms and conditions that are presented to you in other ways.
 
 **See recent changes to the privacy policy** Information we collect and how it is used
 
