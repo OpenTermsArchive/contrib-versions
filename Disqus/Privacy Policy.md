@@ -79,7 +79,7 @@ We may also share certain information such as your location, browser and cookie 
 
 Please note that an advertiser may ask Disqus to show an ad to a certain audience of Users (e.g., based on demographics or other interests). In that situation, Disqus determines the target audience and Disqus serves the advertising to that audience and only provides anonymous aggregated data to the advertiser. If you respond to such an ad, the advertiser or ad server may conclude that you fit the description of the audience they are trying to reach.
 
-The Disqus Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers. Please consult the respective privacy policies of such advertisers or contact such advertisers for more information.
+The Disqus Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers. Please consult the respective privacy policies of such advertisers or contact such advertisers for more information. To learn more about targeted advertising (also called interest-based advertising), analytics services and your choices, including how to opt-out of some third party ads, advertising networks and ad servers, you may wish to visit the DAA Consumer Opt-Out Page, NAI Consumer Opt-Out Page, and Google's information page.
 
 Information posted in Public Forums
 
@@ -142,7 +142,7 @@ Did you find this article helpful?
 
 Yes I found this article helpful No I did not find this article helpful
 
-Last Updated - Jun 21, 2017 12:11PM PDT
+Last Updated - Nov 22, 2017 10:23AM PST
 
 Get Support:
 
