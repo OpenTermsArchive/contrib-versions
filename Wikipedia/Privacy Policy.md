@@ -127,7 +127,7 @@ This is a summary of the Privacy Policy. To read the full terms, click here. Dis
 *   As part of our commitment to education and research around the world, we occasionally release public information and aggregated or non-personal information to the general public through data dumps and data sets.
 *   For the protection of the Wikimedia Foundation and other users, if you do not agree with this Privacy Policy, you may not use the Wikimedia Sites.
 
-Introduction Use of info Sharing Protection Important info Contents Contents
+Introduction Use of info Sharing Protection Important info \[show\]Contents Contents \[hide\] 
 
 *   1 Introduction
     *   1.1 Welcome!
@@ -210,7 +210,7 @@ What This Privacy Policy Does &. Doesn't Cover
 
 Except as explained below, this Privacy Policy applies to our collection and handling of information about you that we receive as a result of your use of any of the Wikimedia Sites. This Policy also applies to information that we receive from our partners or other third parties. To understand more about what this Privacy Policy covers, please see below.
 
-Examples of What This Privacy Policy Covers
+\[Expand\]Examples of What This Privacy Policy Covers
 
 For the sake of clarity, this Privacy Policy covers, regardless of language:
 
@@ -221,7 +221,7 @@ For the sake of clarity, this Privacy Policy covers, regardless of language:
 
 This Privacy Policy, however, does not cover some situations where we may gather or process information. For example, some uses may be covered by separate privacy policies (like those of the Wikimedia Shop) or sites or services run by third parties (such as third-party developer projects on Wikimedia Labs). To understand more about what this Privacy Policy does not cover, please see below.
 
-More on what this Privacy Policy doesn’t cover
+\[Expand\]More on what this Privacy Policy doesn’t cover
 
 This section is part of the Privacy Policy and is meant to explain in detail which situations are not covered by our Privacy Policy.
 
