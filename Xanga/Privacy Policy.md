@@ -7,7 +7,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by VmprFrvr 6 days ago)
+    *   1 (last comment by VmprFrvr 1 week ago)
 *   Retrieve Old Blog
     *   by harrisonlo
     *   1 week ago
@@ -49,7 +49,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 years ago
     *   in Data Migration
     *   0 votes
-    *   6 (last comment by drumminfurjesus 4 weeks ago)
+    *   6 (last comment by drumminfurjesus 1 month ago)
 *   Retrieve Old Blog
     *   by flipsk8er1928
     *   1 month ago
