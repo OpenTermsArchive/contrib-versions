@@ -1,3 +1,5 @@
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MDD5C4" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
+
 *   Get Started
 *   Home
 *   Features
@@ -87,6 +89,8 @@ Sign In  Hi, {username}
 ,*   Dansk
 ,*   हिन्दी
 ,*   Čeština
+
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=704136006388169&amp;ev=PageView&amp;noscript=1">.
 
 *   PRODUCT
 *   Templates
