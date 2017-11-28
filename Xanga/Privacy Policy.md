@@ -1,7 +1,19 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   I can't read my post
+    *   by maygoo
+    *   22 hours ago
+    *   in Themes
+    *   0 votes
+    *   0
 *   retrieve old blog
     *   by anamoleejane
     *   1 week ago
@@ -34,13 +46,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   7 (last comment by XXDropsOfRainXX 1 week ago)
 *   Retrieve Old Blog Posts
     *   by JAZADON101
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve Old Blog Posts
     *   by JAZADON101
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -86,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   6 (last comment by lub\_dark 2 months ago)
-*   Login Email No Longer Exists
-    *   by crimefightingicecreaman
-    *   2 months ago
-    *   in Emails
-    *   0 votes
-    *   0
 
 1 2 3 ... 185 Next
 
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
