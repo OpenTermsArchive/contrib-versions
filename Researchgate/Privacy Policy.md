@@ -1,4 +1,4 @@
-Last updated: October 23rd, 2017.This Privacy Policy (“**Privacy Policy**”) will be effective from December 1st, 2017. To review a copy of the Privacy Policy effective prior to December 1st, 2017, click here.**ResearchGate Privacy Policy** **Table of contents:**
+Last updated: October 23rd, 2017.**ResearchGate Privacy Policy** **Table of contents:**
 
 1.  Introduction
 2.  Information we collect and how we collect it
