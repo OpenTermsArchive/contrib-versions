@@ -64,6 +64,8 @@ XING API General Terms and Conditions of Use
 
 XING News Plus General Terms and Conditions of Use
 
+XING Worklife Plus General Terms and Conditions of Use
+
 General Terms and Conditions
 
 Last updated: 1 April 2017
