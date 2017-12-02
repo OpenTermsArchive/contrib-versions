@@ -30,7 +30,8 @@ Skip Navigation Explore Allstate
     *   Sponsorships
 
 *   Corporate Responsibility
-*   *   Allstate Foundation
+*   *   Sustainability Report
+    *   Allstate Foundation
     *   Give it Up For Good
     *   Allstate Gives Back
     *   STANDUP
@@ -450,7 +451,7 @@ Connect With Us
 *   Newsroom
 *   Allstate Investments
 *   Investor Relations
-*   Corporate Responsibility
+*   Sustainability Report
 *   Allstate Canada
 
 *   Quick Links
