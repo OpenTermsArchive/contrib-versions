@@ -4,7 +4,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   I can't read my post
     *   by maygoo
-    *   4 days ago
+    *   5 days ago
     *   in Themes
     *   0 votes
     *   0
@@ -13,7 +13,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by VmprFrvr 1 week ago)
+    *   1 (last comment by VmprFrvr 2 weeks ago)
 *   Retrieve Old Blog
     *   by harrisonlo
     *   2 weeks ago
