@@ -4,7 +4,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   I can't read my post
     *   by maygoo
-    *   5 days ago
+    *   6 days ago
     *   in Themes
     *   0 votes
     *   0
@@ -85,7 +85,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   40 (last comment by paco0e 1 month ago)
+    *   40 (last comment by paco0e 2 months ago)
 *   I would like to update to Xanga 2.0
     *   by ArmsAroundU4ever
     *   5 months ago
