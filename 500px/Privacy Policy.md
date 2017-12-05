@@ -12,15 +12,16 @@ We only collect personal information that is relevant to the purpose of our webs
 **Basically,** We collect information to make 500px useful for you and to provide a personalized experience. Information You Provide to Us
 
 1.  We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.
-2.  Registration: In order for you to use 500px services you must complete a registration form. As part of this registration form, we require select personal information.
+2.  Registration: In order for you to use 500px services you must complete a registration form. As part of this registration form, we require certain personal information.
 3.  User Profile: To allow you to express yourself beyond just the information collected during registration, we enable you to provide additional information, such as your first and last names, email address, social media account names, your birthday, a bio, favorite URLs, and instant messaging IDs. In addition, you may choose to include photos of yourself in your profile. As indicated below, in the section titled "Sharing Your Information", you can control how your information is displayed and used.
 
 Automatic Information
 
-1.  We receive and store certain types of information whenever you interact with us. 500px and its authorized agents automatically receive and record certain "traffic data" on their server logs from your browser including your IP address, 500px cookie information, and the page you requested. 500px uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.
-2.  500px may collect and use information regarding the geographic location of your devices. If the location data contains your personal information, then 500px will treat this location data in accordance with this Policy.
-3.  500px may collect and, on any page, display the total counts that page has been viewed. This includes User Profile pages.
-4.  Many companies offer programs that help you to visit websites anonymously. While 500px will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
+1.  We receive and store certain types of information whenever you interact with us. 500px and its authorized agents automatically receive and record certain "traffic data" on their server logs from your browser including your IP address, 500px cookie information, and the page you requested. 500px uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website. This does not involve collecting any of your personal information.
+2.  In addition to the "traffic data", 500px and its authorized agents may collect information about the device you're using to access 500px, its operating system, unique device identifier, device settings such as language and crash data. Which data is specifically collected depends on the type of device and/or system running on that device. This data is again used to help us diagnose problems with the site and/or mobile apps and analyze usage trends. This does not involve collecting any of your personal information.
+3.  500px may collect and use information regarding the geographic location of your devices. If the location data contains your personal information, then 500px will treat this location data in accordance with this Policy.
+4.  500px may collect and, on any page, display the total counts that page has been viewed. This includes User Profile pages.
+5.  Many companies offer programs that help you to visit websites anonymously. While 500px will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
 
 **Basically,** We collect your registration and user profile data. Our servers also collect log information used to make the website faster and better. We also collect geographic location data. this allows us to present a more personalized experience. E-mail Communications
 
@@ -34,9 +35,13 @@ Cookies are alphanumeric identifiers that we transfer to your computer's hard dr
 
 The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of 500px's coolest features. Some of our business partners, like our advertisers, may use cookies on our website. We have no access to, or control over, these cookies.
 
-**Basically,** To remember you, our system will give you a cookie. It's safe. Third-party services that help us analyze how our site is used also use cookies to collect information about visitors to our site. Sharing Your Information
+**Basically,** To remember you, our system will give you a cookie. It's safe. Third-party services that help us analyze how our site is used also use cookies to collect information about visitors to our site. Analytics
 
-Because 500px enables people to discover and share information with one another, information about the people who use 500px is an integral part of the 500px experience. Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below.
+500px uses services like Google Analytics and/or Amplitude to help analyze and understand how our site and mobile applications are used, so that we can make 500px products more interesting to you. These tools capture data about how individual users are using our site and mobile applications. This includes event logs, device type and device configuration settings such as language, crash data and other data but never personal information. These third-party services treat the analytics data in accordance with this privacy policy and 500px does not disclose your personal information to any third parties through our use of these services.
+
+**Basically,** We use third-party analytics services that help us better understand usage trends and make decisions based on those trends. These tools don't collect personal information, and all information collected is used in accordance with this policy. Sharing Your Information
+
+Because 500px enables people to discover and share information with one another, information about the people who use 500px is an integral part of the 500px experience. Rest assured that we will not rent or sell your personal information to anyone and that we will share your personal information only as described below:
 
 *   500px Personnel: 500px personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of 500px business.
 *   Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if 500px, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred.
@@ -64,16 +69,16 @@ Because 500px enables people to discover and share information with one another,
 
 You must be 14 years and older to register to use the 500px website. As a result, 500px does not specifically collect information about children. If we learn that 500px has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 14 and 18 ask and receive their parents' permission before using 500px or sending information about themselves or anyone else over the Internet.
 
-**Basically,** Please register only when you reach 18 years of age, or ask for your parents' permission if you are between 14 and 18 years old. Changes to this Privacy Policy
+**Basically,** Please register only when you reach 18 years of age, or ask for your parents' permission if you are between 14 and 18 years old. You are not allowed to register if you are under 14. Changes to this Privacy Policy
 
 500px may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the 500px website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
 
 **Basically,** The Privacy Policy may change. Conditions of Use
 
-If you decide to visit 500px website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of Ontario law.
+If you decide to visit the 500px website or use any of our official mobile applications, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of Ontario law.
 
-**Basically,** Visiting 500px is subject to Terms and Privacy Policy. Effective Date of this Privacy Policy
+**Basically,** Visiting 500px or using any of our official mobile applications is subject to our Terms of Use and Privacy Policy. Effective Date of this Privacy Policy
 
-This Privacy Policy is effective as of June 10, 2016.
+This Privacy Policy is effective as of December 4, 2017.
 
-**Basically,** Effective as of June 10, 2016.
+**Basically,** Effective as of December 4, 2017.
