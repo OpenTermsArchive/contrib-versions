@@ -2,9 +2,15 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Recovering my Old Account
+    *   by owlenthusiast
+    *   21 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   I can't read my post
     *   by maygoo
-    *   6 days ago
+    *   1 week ago
     *   in Themes
     *   0 votes
     *   0
@@ -40,13 +46,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   7 (last comment by XXDropsOfRainXX 2 weeks ago)
 *   Retrieve Old Blog Posts
     *   by JAZADON101
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve Old Blog Posts
     *   by JAZADON101
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -86,12 +92,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   40 (last comment by paco0e 2 months ago)
-*   I would like to update to Xanga 2.0
-    *   by ArmsAroundU4ever
-    *   5 months ago
-    *   in Data Migration
-    *   0 votes
-    *   6 (last comment by lub\_dark 2 months ago)
 
 1 2 3 ... 185 Next
 
