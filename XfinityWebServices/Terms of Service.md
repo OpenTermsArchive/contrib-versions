@@ -1,4 +1,4 @@
-Terms of Service |  Web Terms of Service |  Software License |  Residential Services Policies |  Report Abuse to Comcast |  Terms for Feedback |  Media Sharing Terms and Conditions |  Purchased Content Terms and Conditions
+Terms of Service |  Web Terms of Service |  Software License |  Residential Services Policies |  Report Abuse to Comcast |  Terms for Feedback |  Purchased Content Terms and Conditions
 
 Web Services Terms of Service Archive (Previous Versions) Web Services Terms of Service Revised and Effective: April 14, 2017 1. About the Web Services Terms of Service and Comcast Web Services
 
