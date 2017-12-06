@@ -1,10 +1,28 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Just bought premium.
+    *   by xStarvingForWordsx
+    *   4 hours ago
+    *   in Adding &. Editing Entries
+    *   0 votes
+    *   0
+*   active my old account
+    *   by ling727
+    *   11 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Recovering my Old Account
     *   by owlenthusiast
-    *   21 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -22,19 +40,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by VmprFrvr 2 weeks ago)
 *   Retrieve Old Blog
     *   by harrisonlo
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve Old Blog
     *   by harrisonlo
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Blogs
     *   by XXDropsOfRainXX
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Themes
     *   0 votes
     *   0
@@ -43,7 +61,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Themes
     *   0 votes
-    *   7 (last comment by XXDropsOfRainXX 2 weeks ago)
+    *   7 (last comment by XXDropsOfRainXX 3 weeks ago)
 *   Retrieve Old Blog Posts
     *   by JAZADON101
     *   4 weeks ago
@@ -80,18 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   Recover old account
-    *   by l3eauty\_Kills
-    *   1 month ago
-    *   in Passwords &. Sign-In
-    *   0 votes
-    *   0
-*   How do I download an archive of my old blog?
-    *   \[Resolved\] by thibault
-    *   3 years ago
-    *   in Data Migration
-    *   0 votes
-    *   40 (last comment by paco0e 2 months ago)
 
 1 2 3 ... 185 Next
 
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
