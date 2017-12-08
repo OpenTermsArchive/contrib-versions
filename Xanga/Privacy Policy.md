@@ -4,19 +4,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Just bought premium.
     *   by xStarvingForWordsx
-    *   1 day ago
+    *   2 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   active my old account
     *   by ling727
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Recovering my Old Account
     *   by owlenthusiast
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
