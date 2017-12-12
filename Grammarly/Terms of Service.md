@@ -1,4 +1,4 @@
-Terms of Service and License AgreementLast updated on July 20, 2017
+Terms of Service and License AgreementGrammarly’s new Terms of Service will be effective on January 11th, 2018
 
 Grammarly, Inc., a Delaware corporation (together with its subsidiaries and other affiliates, “Grammarly”), owns and/or operates the web pages available at www.Grammarly.com and all sub-domains thereof (collectively, the “Site”). Access to and use of the software (“Software”) and services (“Services”) available on or through the Site (including, without limitation, Grammar Checker, Plagiarism Checker, Writing Handbook, Grammar Genie, Answers and Proofit, as well as any future Software or Services provided by Grammarly) are governed by this Terms of Service and License Agreement (this “Agreement”).
 
