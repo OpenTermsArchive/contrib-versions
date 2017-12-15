@@ -465,6 +465,8 @@ Sign In  Hi, {username}
 ,*   हिन्दी
 ,*   Čeština
 
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=704136006388169&amp;ev=PageView&amp;noscript=1">.
+
 *   PRODUCT
 *   Templates
 *   Explore
@@ -517,5 +519,3 @@ Wix.com Wix.com is a leading cloud-based development platform with millions of u
 *   Pinterest
 *   Instagram
 *   Linkedin
-
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=704136006388169&amp;ev=PageView&amp;noscript=1">.
