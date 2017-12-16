@@ -1,14 +1,8 @@
-This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Ally Toolbar, press space bar. The toolbar contains the following
-
-The AudioEye Help Desk to report accessibility and usability related issues.
-
-The AudioEye Certification Statement to explain the ongoing web accessibility and usability enhancements for this website.
-
 <meta id="mtaJSCheck" content="0;/Anon/TestHarnesses/ShowJSErrorPage.aspx" http-equiv="refresh"></meta>. Skip Navigation Explore Allstate
 
-*   Find An Agent Opens a New Window.
+*   Find An Agent
 *   Contact Us
-*   Español Opens a New Window.
+*   Español
 *   DENVER, CO80201
 *   Search
 
@@ -16,41 +10,41 @@ The AudioEye Certification Statement to explain the ongoing web accessibility an
 *   *   We help customers realize their hopes and dreams by providing the best products and services to protect them from life's uncertainties and prepare them for the future.
 
 *   Company Overview
-*   *   Our Story Opens a New Window.
-    *   GoodHome Opens a New Window.
-    *   My Offers Opens a New Window.
-    *   The Allstate Blog Opens a New Window.
+*   *   Our Story
+    *   GoodHome
+    *   My Offers
+    *   The Allstate Blog
     *   Careers
     *   Customer Support
 
 *   Contact Us
-*   *   1-800-ALLSTATE Opens a New Window.
-    *   Email Us Opens a New Window.
-    *   Tweet for Help Opens a New Window.
+*   *   1-800-ALLSTATE
+    *   Email Us
+    *   Tweet for Help
 
 *   Corporate Info
-*   *   Newsroom Opens a New Window.
-    *   Allstate Investments Opens a New Window.
-    *   Investor Relations Opens a New Window.
+*   *   Newsroom
+    *   Allstate Investments
+    *   Investor Relations
     *   Allstate Program
     *   Sponsorships
 
-*   Corporate Responsibility Opens a New Window.
-*   *   Sustainability Report Opens a New Window.
-    *   Allstate Foundation Opens a New Window.
-    *   Give it Up For Good Opens a New Window.
-    *   Allstate Gives Back Opens a New Window.
-    *   STANDUP Opens a New Window.
-    *   Teen Memory Wall Opens a New Window.
-    *   Purple Purse Opens a New Window.
-    *   Global Code of Business Conduct Opens a New Window.
+*   Corporate Responsibility
+*   *   Sustainability Report
+    *   Allstate Foundation
+    *   Give it Up For Good
+    *   Allstate Gives Back
+    *   STANDUP
+    *   Teen Memory Wall
+    *   Purple Purse
+    *   Global Code of Business Conduct
 
-*   Logins Opens a New Window.
-*   *   My Account Opens a New Window.
-    *   Allstate Rewards Opens a New Window.
-    *   Financial Opens a New Window.
-    *   Flood Insurance Opens a New Window.
-    *   Motor Club Opens a New Window.
+*   Logins
+*   *   My Account
+    *   Allstate Rewards
+    *   Financial
+    *   Flood Insurance
+    *   Motor Club
     *   Roadside Service
 
 *   Mobile Apps
@@ -59,28 +53,21 @@ The AudioEye Certification Statement to explain the ongoing web accessibility an
     *   Digital Locker
     *   QuickTrip®
 
-*   Find an Agent Opens a New Window. ✖
+*   Find an Agent ✖
 
-*   Get A Quote Opens a New Window.
-*   *   Auto Opens a New Window.
-    *   Home Opens a New Window.
-    *   Renters Opens a New Window.
-    *   Life Opens a New Window.
-    *   Condo Opens a New Window.
-    *   Motorcycle Opens a New Window.
-    *   Boat Opens a New Window.
-    *   ATV/Rec. Vehicle Opens a New Window.
-    *   Business Insurance Opens a New Window.
-    *   Retrieve a Saved Quote Opens a New Window.
+*   Get A Quote
+*   *   Auto
+    *   Home
+    *   Renters
+    *   Life
+    *   Condo
+    *   Motorcycle
+    *   Boat
+    *   ATV/Rec. Vehicle
+    *   Business Insurance
+    *   Retrieve a Saved Quote
 
 *   Connect With Us
-*   *   Opens a New Window.
-    *   Opens a New Window.
-    *   Opens a New Window.
-    *   Opens a New Window.
-    *   Opens a New Window.
-    *   Opens a New Window.
-    *   Opens a New Window.
 
 Toggle navigation Log in Search Close Navigation
 
@@ -126,7 +113,7 @@ Toggle navigation Log in Search Close Navigation
         *   Landlord
         *   Retirement &. Investments
         *   Voluntary Employee Benefits
-        *   My Offers Opens a New Window.
+        *   My Offers
 *   Claims
     *   Overview
     *   File A Claim
@@ -196,11 +183,10 @@ Register new account
     *   NCAA
     *   Soccer
 *   Advertising  
-    *   Mayhem Opens a New Window.
+    *   Mayhem
 *   Allstate Affiliate Program
 *   Website Accessibility
 
-1.  home
 2.  About Allstate
 3.  Privacy Statement
 
@@ -233,8 +219,6 @@ Privacy Policy Statement En Español Download
   
   
 
-Opens a New Window.
-
 **Revised February 13, 2017**
 
 Thank you for choosing Allstate. We value you, respect your privacy and work hard to protect your personal information.  
@@ -265,7 +249,7 @@ In addition, Allstate and its business partners gather information through Inter
 *   Know how many visitors have seen or clicked on our ads
 
   
-Also, our business partners assist us with monitoring information including, but not limited to, IP addresses, domain names and browser data, which can help us to better understand how visitors use allstate.com Opens a New Window. .
+Also, our business partners assist us with monitoring information including, but not limited to, IP addresses, domain names and browser data, which can help us to better understand how visitors use allstate.com.
 
 Mobile Analytics
 
@@ -315,7 +299,7 @@ Our Web site includes Social Media Features, such as the Facebook Like button an
 
 The Internet and Your Information Security
 
-Our web sites, allstate.com Opens a New Window. and miallstate.com Opens a New Window. , provides information about us, our products, and the agencies and brokers that represent us. You may also perform some transactions on the web site. This Privacy Statement applies to users of allstate.com Opens a New Window. and miallstate.com Opens a New Window. , regardless of whether the user is an Allstate customer.  
+Our web sites, allstate.com and miallstate.com, provides information about us, our products, and the agencies and brokers that represent us. You may also perform some transactions on the web site. This Privacy Statement applies to users of allstate.com and miallstate.com, regardless of whether the user is an Allstate customer.  
   
 As true of most sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.  
   
@@ -328,11 +312,11 @@ Cookies allow us to provide you with a more customized service and are used to t
   
 You may opt out of accepting cookies by changing the settings on your browser. However, rejecting cookies may prevent you from using certain functions and you may have to repeatedly enter information to take advantage of services or promotions.  
   
-We partner with third parties to display advertising on our website. Our third party partner may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising click here Opens a New Window. . Please note you will continue to receive generic ads.  
+We partner with third parties to display advertising on our website. Our third party partner may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising click here. Please note you will continue to receive generic ads.  
   
 Although we believe that each of the sites to which we target our ads or from which we collect data should post a privacy statement that fully describes the advertising and data collection activities on its site, we cannot guarantee that all of those sites post such a statement.  
   
-We participate in the Adobe Marketing Cloud Device Co-op to better understand how you use our website and apps across the various devices you use, and to deliver tailored promotions. Learn more at https://cross-device-privacy.adobe.com Opens a New Window. about how Adobe does this.  
+We participate in the Adobe Marketing Cloud Device Co-op to better understand how you use our website and apps across the various devices you use, and to deliver tailored promotions. Learn more at https://cross-device-privacy.adobe.com about how Adobe does this.  
   
 We may also use customer information to send you promotional communications about products, features, and options that we believe may be of interest to you. If we have your e-mail address, we may do this by e-mail. If you do not wish to receive promotional e-mails from us, please contact us at the following address:  
   
@@ -384,8 +368,8 @@ Some steps you can take to maintain the security of your information include:
 
 *   Utilize the latest, updated version of your Web browser.
 *   Keep your User ID and PIN or password confidential. Utilize a PIN or password unique to you and, if possible, change it frequently.
-*   Make sure others are not watching you enter your User ID, PIN or password on your keyboard when using the Customer Care Center or when using other protected areas of Allstate.com Opens a New Window. .
-*   Do not leave your computer unattended while logged onto our Customer Care Center or other protected areas of Allstate.com Opens a New Window. . After you've finished accessing your information, exit the Customer Care Center or other protected area within Allstate.com Opens a New Window. , and close your browser window.
+*   Make sure others are not watching you enter your User ID, PIN or password on your keyboard when using the Customer Care Center or when using other protected areas of Allstate.com.
+*   Do not leave your computer unattended while logged onto our Customer Care Center or other protected areas of Allstate.com. After you've finished accessing your information, exit the Customer Care Center or other protected area within Allstate.com, and close your browser window.
 
 Whose Privacy Statement Applies to Links and External Sites?
 
@@ -464,27 +448,27 @@ Retrieve a saved quote
 
 © 2017 Allstate Insurance Company
 
-Connect With Us Opens a New Window. Opens a New Window. Opens a New Window. Opens a New Window. Opens a New Window. Opens a New Window. Opens a New Window.
+Connect With Us
 
 *   Company
-*   Our Story Opens a New Window.
-*   The Allstate Blog Opens a New Window.
+*   Our Story
+*   The Allstate Blog
 *   Careers
 *   Customer Support
 *   Contact Us
 
-*   Corporate Info Opens a New Window.
-*   Newsroom Opens a New Window.
-*   Allstate Investments Opens a New Window.
-*   Investor Relations Opens a New Window.
-*   Sustainability Report Opens a New Window.
-*   Allstate Canada Opens a New Window.
+*   Corporate Info
+*   Newsroom
+*   Allstate Investments
+*   Investor Relations
+*   Sustainability Report
+*   Allstate Canada
 
 *   Quick Links
 *   Auto Insurance
 *   Home Insurance
 *   Claims
-*   Agent Locator Opens a New Window.
+*   Agent Locator
 *   Express Access
 
 *   More
@@ -509,4 +493,4 @@ DENVER, CO
 Oops! You have entered an invalid ZIP. Please try again. Location data not available. Please enter zip code. Please Wait...Updating Location...  
 It's taking a bit longer than expected. Your update should be done soon. This feature is not currently available.  
 Please try again later.  
-****ECC Monitor: OK** Explore your accessibility options. transfer close carousel
+****ECC Monitor: OK**
