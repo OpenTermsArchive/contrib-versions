@@ -123,7 +123,7 @@ This is a summary of the Privacy Policy. To read the full terms, click here. Dis
 *   Any content you add or any change that you make to a Wikimedia Site will be publicly and permanently available. 
 *   If you add content or make a change to a Wikimedia Site without logging in, that content or change will be publicly and permanently attributed to the IP address used at the time rather than a username. 
 *   Our community of volunteer editors and contributors is a self-policing body. Certain administrators of the Wikimedia Sites, who are chosen by the community, use tools that grant them limited access to nonpublic information about recent contributions so they may protect the Wikimedia Sites and enforce policies. 
-*   This Privacy Policy does not apply to all sites and services run by the Wikimedia Foundation, such as sites or services that have their own privacy policy (like the Wikimedia Shop) or sites or services run by third parties (like third-party developer projects on Wikimedia Labs).
+*   This Privacy Policy does not apply to all sites and services run by the Wikimedia Foundation, such as sites or services that have their own privacy policy (like the Wikimedia Shop) or sites or services run by third parties (like third-party developer projects on Wikimedia Cloud Services).
 *   As part of our commitment to education and research around the world, we occasionally release public information and aggregated or non-personal information to the general public through data dumps and data sets.
 *   For the protection of the Wikimedia Foundation and other users, if you do not agree with this Privacy Policy, you may not use the Wikimedia Sites.
 
@@ -219,7 +219,7 @@ For the sake of clarity, this Privacy Policy covers, regardless of language:
 *   Our mobile sites and applications, which can be found on our official list.
 *   Emails, SMS, and notifications from us or sent to us from you.
 
-This Privacy Policy, however, does not cover some situations where we may gather or process information. For example, some uses may be covered by separate privacy policies (like those of the Wikimedia Shop) or sites or services run by third parties (such as third-party developer projects on Wikimedia Labs). To understand more about what this Privacy Policy does not cover, please see below.
+This Privacy Policy, however, does not cover some situations where we may gather or process information. For example, some uses may be covered by separate privacy policies (like those of the Wikimedia Shop) or sites or services run by third parties (such as third-party developer projects on Wikimedia Cloud Services). To understand more about what this Privacy Policy does not cover, please see below.
 
 \[Expand\]More on what this Privacy Policy doesn’t cover
 
@@ -239,7 +239,7 @@ Community members
 The Wikimedia Sites are collaborative labors of love that are constantly maintained and updated by a global community of volunteers. As a result, some volunteers have access to certain nonpublic information, and use of that information may not be governed by this Privacy Policy. Examples include:
 
 *   **Administrative volunteers**, such as CheckUsers or Stewards. These are volunteers who enforce Wikimedia Site policies and ensure the safety of the Wikimedia Sites. When these administrators access nonpublic information, they are required to comply with our Access to Nonpublic Information Policy, as well as other, tool-specific policies.
-*   **Tool providers**. We support platforms for third-party developers to experiment and develop new tools and sites, such as Labs wmflabs.org. When you use one of the tools developed by these volunteers, you may transfer information to them. When these volunteers access nonpublic information, they are required to comply with the terms governing the particular platform the tool is available on.
+*   **Tool providers**. We support platforms for third-party developers to experiment and develop new tools and sites, such as Cloud Services wmflabs.org. When you use one of the tools developed by these volunteers, you may transfer information to them. When these volunteers access nonpublic information, they are required to comply with the terms governing the particular platform the tool is available on.
 *   **Other users**. We provide several tools that allow users to communicate with each other. The communications may be covered by this Policy while they pass through our systems, but the users who receive these communications, and what they do with the communications once they receive them, are not covered by this Policy. Examples include:
     *   posting to Foundation-hosted email lists;
     *   requesting support from volunteers through our online ticketing system (email sent to info\[at\]wikimedia.org goes to this system);
