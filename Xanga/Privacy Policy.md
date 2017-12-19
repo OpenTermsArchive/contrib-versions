@@ -4,19 +4,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Retrieve blog from archive
     *   by annabeth44
-    *   9 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve my old blog.
     *   by candiexbaby
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by hooverchunk 2 days ago)
+    *   1 (last comment by hooverchunk 3 days ago)
 *   Retrieve my old blog
     *   by Candie\_1985
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -34,13 +34,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Recovering my Old Account
     *   by owlenthusiast
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I can't read my post
     *   by maygoo
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Themes
     *   0 votes
     *   0
@@ -49,7 +49,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by VmprFrvr 4 weeks ago)
+    *   1 (last comment by VmprFrvr 1 month ago)
 *   Retrieve Old Blog
     *   by harrisonlo
     *   1 month ago
