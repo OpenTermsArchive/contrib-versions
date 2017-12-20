@@ -227,15 +227,15 @@ This statement is provided on behalf of Allstate Insurance Company and the affil
 
 Our Privacy Assurance
 
-*   We do **not/ sell your personal or medical information to anyone.**
-***   We do **not** share your information with non-affiliate companies that would use it to contact you about their own products and services, unless permitted pursuant to a joint marketing agreement.
+*   We do **not** sell your personal or medical information to anyone.
+*   We do **not** share your information with non-affiliate companies that would use it to contact you about their own products and services, unless permitted pursuant to a joint marketing agreement.
 *   We **require** persons or organizations that represent or assist us in servicing your policy and claims to keep your information confidential.
-*   We **require** our employees to protect your personal information and keep it confidential.**
+*   We **require** our employees to protect your personal information and keep it confidential.
 
-**  
+  
 As you can see, protecting your personal information is important to us. In addition to the practices described above, we use a variety of physical, technical and administrative security measures that help to safeguard your information. For Social Security Numbers (SSN), Date of Birth (DOB), payment information, and other sensitive personal information, this includes restricting access to our employees, agents and others who use such information only as permitted by law, such as to comply with the law, to provide you with products and services or to handle your claims. Our privacy practices continue to apply to your information even if you cease to be an Allstate customer.
 
-****What Personal Information Do We Have and Where Do We Get It?
+What Personal Information Do We Have and Where Do We Get It?
 
 We gather personal information from you and from outside sources for business purposes, including carrying out the requested product or services, responding to customer service requests, administering your account, and sending you newsletters and other service related correspondence. Some examples of the information we collect from you may include your name, phone number, home and e-mail addresses, driver's license number, date of birth, social security number, marital status, family member information, payment information, and healthcare information. Also, we maintain records that include, but are not limited to, policy coverages, premiums, and payment history. We also collect information from outside sources that may include, but is not limited to, your driving record, claims history, medical information and credit information.  
   
@@ -432,13 +432,9 @@ Please note that Allstate's "do not call" list is limited only to telephone soli
 **For Vermont residents:**  
 We won't share your personal information with Allstate companies for marketing purposes except as allowed by Vermont law.
 
-****
-
 Share this page
 
 Top
-
-****
 
 80201 Edit Location
 
@@ -480,7 +476,7 @@ Connect With Us
 *   Website Accessibility
 *   Ad Choices
 
-****Not Your ZIP Code? Update Below.
+Not Your ZIP Code? Update Below.
 
 ZIP Code
 
@@ -493,4 +489,4 @@ DENVER, CO
 Oops! You have entered an invalid ZIP. Please try again. Location data not available. Please enter zip code. Please Wait...Updating Location...  
 It's taking a bit longer than expected. Your update should be done soon. This feature is not currently available.  
 Please try again later.  
-****ECC Monitor: OK**
+ECC Monitor: OK
