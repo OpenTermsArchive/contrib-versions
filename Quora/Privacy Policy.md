@@ -56,7 +56,7 @@ We share information as set forth below, and where individuals have otherwise co
 
 **_Ad Metrics._** We may share with users of our Ad Services aggregate statistics, metrics and other reports about the performance of their ads or content in the Quora Platform such as the number of unique user views, demographics about the users who saw their ads or content, conversion rates, and date and time information. We do not share IP addresses or personal information. We may also allow our advertisers to use Pixels on the Quora Platform in order to collect information about the performance of their ads.
 
-**_Anonymized and Aggregated Data._** We may share aggregate or de-identified information with third parties for research, marketing, analytics and other purposes, provided such information does not identify a particular individual.
+**_Anonymized and Aggregated Data._** We may share aggregate or de-identified information with third parties for research, https://quora.com/about/cookies\_... marketing, analytics and other purposes, provided such information does not identify a particular individual.
 
 **Cookies, Pixels and Tracking**
 
@@ -90,7 +90,7 @@ You may update or correct your account information at any time by logging in to 
 
 You may, of course, decline to submit information through the Quora Platform, in which case we may not be able to provide certain services to you. You may also control the types of notifications and communications we send, limit the information shared within the Quora Platform about you, and otherwise amend certain privacy settings. Here is some further information about some of your choices:
 
-**_Anonymous Posts_** . You may post certain content anonymously, including questions and answers. In such event, your name is not displayed along with the content, and Quora does not associate such content with your user ID and other profile data. For information see _how anonymity works on Quora_.
+**_Anonymous Posts_** . You may post certain content anonymously, including questions and answers. In such event, your name is not displayed along with the content, and Quora does not associate such content with your user ID and other profile data. For information see _how anonymity works on Quora._
 
 **_Your Content._** You may edit or delete the answers that you post at any time. Any questions you have posted may remain on the Quora Platform and be edited by other users. Any deleted content will be removed from third party sites from which it has been shared via Quora’s sharing features. however we have no control over deletions or changes to Your Content if it has been shared manually by others. When you make edits to Your Content, other users will be able to see the history of those edits in your profile activity.
 
