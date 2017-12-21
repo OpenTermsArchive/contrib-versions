@@ -4,11 +4,11 @@ Protecting our customers' privacy is an important priority at Verizon and we are
 
 Our Privacy Policy is designed to inform you about the information we collect, how we use it, and your options regarding certain uses of this information. This policy also describes privacy rights you have under certain federal laws.
 
-This policy applies to website visitors, app users and Verizon customers in the United States. It applies across the Verizon family of companies and the products and services we provide. The Verizon family of companies includes the companies and joint ventures controlled by Verizon, including the Verizon telephone companies, Verizon Enterprise Solutions, Verizon Wireless, Verizon Online and  Oath. Certain services we offer such as go90, MapQuest and Verizon apps have additional privacy practices that are presented separately. 
+This policy applies to website visitors, app users, applicants and Verizon customers in the United States. It applies across the Verizon family of companies and the products and services we provide. The Verizon family of companies includes the companies and joint ventures controlled by Verizon, including the Verizon telephone companies, Verizon Enterprise Solutions, Verizon Wireless, Verizon Online and  Oath. Certain services we offer such as go90, MapQuest and Verizon apps have additional privacy practices that are presented separately. 
 
 Verizon has acquired Yahoo and combined it with AOL to form a new company named Oath. Oath consists of over 50 digital and mobile brands globally, including HuffPost, Yahoo News, Yahoo Sports, Tumblr and AOL, as well as advertising platforms such as ONE by AOL, BrightRoll, and Gemini. Oath and Yahoo each have their own privacy policies. In the event of a conflict between the Verizon privacy policy and the Oath or Yahoo privacy policies, the Oath policy will control when you use a site, product or service that links to the Oath privacy policy and the Yahoo privacy policy will apply when you use a site, service, or technology that links to the Yahoo policy.
 
-There are separate policies that govern Verizon Enterprise Solutions customers outside the United States. Also, certain services offered to consumers as well as contracts between Verizon and its business customers (both U.S. and international) may contain additional privacy-related terms and conditions that are presented to you in other ways.
+A separate policy governs the collection of personal data by the Verizon family of companies outside the United States. Also, certain services offered to consumers as well as contracts between Verizon and its business customers (both U.S. and international) may contain additional privacy-related terms and conditions that are presented in other ways.
 
 **See recent changes to the privacy policy** Information we collect and how it is used
 
@@ -38,9 +38,9 @@ We also obtain contact information and other marketing lead information from thi
 
 Information collected on Verizon websites and apps
 
-When you use Verizon websites and apps, information is collected about your device and your visit including browsing, searching and buying activity as you interact with our sites and apps. IP address. mobile telephone, device numbers and identifiers. account information. web addresses of the sites you come from and go to next. and information about your connection, including your device's browser, operating system, platform type and Internet connection speed. We use this information for operational, performance measurement and other business purposes. and to help us deliver more relevant Verizon marketing messages on our websites, on non-Verizon websites, by our representatives, via email, or via other Verizon services or devices. This information is also used to tailor the content you see, manage the frequency with which you see an advertisement, tailor advertisements to better match your interests and understand the effectiveness of our advertising. We also may use this information to assess the effectiveness of our sites and to help you should you request help with navigation problems on our sites. Additional information about data collected by Oath on websites, apps and services is described in the Oath and Yahoo privacy policies.  
+When you use Verizon websites and apps, information is collected about your device and your visit including browsing, searching and buying activity as you interact with our sites and apps. IP address. mobile telephone, device numbers and identifiers. account information. web addresses of the sites you come from and go to next. and information about your connection, including your device's browser, operating system, platform type and Internet connection speed. We use this information for operational, performance measurement and other business purposes. and to help us deliver more relevant Verizon marketing messages on our websites, on non-Verizon websites, by our representatives, via mail and email, or via other Verizon services or devices. This information is also used to tailor the content you see, manage the frequency with which you see an advertisement, tailor advertisements to better match your interests and understand the effectiveness of our advertising. We also may use this information to assess the effectiveness of our sites and to help you should you request help with navigation problems on our sites. Additional information about data collected by Oath on websites, apps and services is described in the Oath and Yahoo privacy policies.  
 
-Certain Verizon vendors may place and read cookies on our sites to help us deliver Verizon marketing messages on our sites and on non-Verizon sites. We require that these vendors provide consumers with the ability to opt out of their use of information for these purposes. In accordance with industry self-regulatory principles, you should see this icon in or around Verizon advertisements that are delivered on other sites using information collected on our sites. Clicking on this icon provides information about the companies and data practices that were used to deliver the ad and also describes how you may opt out of this type of advertising program. Additional information on choices you have about the use of information for advertising purposes can be found in the "How to limit the sharing and use of your information" section below. View information about "cookies" and related technologies.
+Certain Verizon vendors may place and read cookies on our sites to help us deliver Verizon marketing messages as described above.  We require that these vendors provide consumers with the ability to opt out of their use of information for these purposes. When information is used to deliver Verizon marketing messages on non-Verizon sites, in accordance with industry self-regulatory principles, you should see this icon in  or around Verizon ads  shown on other sites using information collected on our sites. Clicking on this icon provides information about the companies and data practices that were used to deliver the ad and also describes how you may opt out of this type of advertising program. You can find out more  about choices you have in the "How to limit the sharing and use of your information" section below. View information about "cookies" and related technologies.
 
 Information you provide
 
@@ -88,7 +88,7 @@ The Relevant Online Advertising program helps make online ads you see more inter
 
 Relevant TV Advertising Verizon’s Relevant TV Advertising program helps make Fios TV ads you see more interesting and useful using your postal address. certain information about your Verizon products and services (such as service packages purchased, video on-demand purchases and program viewing data. and demographic and interest information you provide or that we obtain from other companies - such as gender, family size, and luxury car owner. The ads may appear on a variety of platforms where Fios television customers can access video content. We do not share information that identifies you personally as part of these programs other than with vendors and partners who do work for us. We require that these vendors and partners protect the information and use it only for the services they are providing us. You have a choice about receiving this type of advertising and you can opt out online.   Additional information for Oath services
 
-Oath consists of over 50 digital and mobile brands globally, including  HuffPost, Yahoo News, Yahoo Sports, Tumblr and AOL,  as well as advertising platforms such as ONE by AOL, BrightRoll, and Gemini.  Many free services provided by Oath brands are supported by advertising displayed on those services. Oath  advertising platforms also provide a variety of online advertising services that place other companies’ ads across the sites, services and devices you use.
+Oath consists of over 50 digital and mobile brands globally, including HuffPost, Yahoo News, Yahoo Sports, Tumblr and AOL, as well as advertising platforms such as ONE by AOL, BrightRoll, and Gemini. Many free services provided by Oath brands are supported by advertising displayed on those services. Oath advertising platforms also provide a variety of online advertising services that place other companies’ ads across the sites, services and devices you use.
 
 Additional information about the collection and use of information from devices you use to access or connect to Oath sites, products and services is described in the Oath Privacy Policy for websites, services and software that link to that policy.  Similarly, the Yahoo Privacy Policy provides detail about the collection and use of information from devices you use to access or connect to Yahoo websites, services and technologies that link to the Yahoo policy.   These policies also describe the collection and use of information by Oath advertising platforms and your related choices.
 
@@ -96,9 +96,9 @@ In the event of a conflict between the Verizon privacy policy and the Oath or Ya
 
 Information we share Information shared within the Verizon family of companies:
 
-Verizon shares customer information within our family of companies for a variety of purposes, including, for example, providing you with the latest information about our products and services and offering you our latest promotions. You can limit the sharing of certain types of customer information, known as Customer Proprietary Network Information, or CPNI, within the Verizon family of companies for marketing services to you different from your current services.
+Verizon shares customer information within our family of companies for a variety of purposes, including, for example, providing you with the latest information about our products and services and offering you our latest promotions. You can limit the sharing of certain types of customer information, specifically, Customer Proprietary Network Information (CPNI) and certain credit information,  within the Verizon family of companies for marketing services to you different from your current services.
 
-Customer Proprietary Network Information (CPNI) is information that relates to the type, quantity, destination, technical configuration, location, amount of use and related billing information of your telecommunications or interconnected Voice over Internet Protocol (VoIP) services. Federal law governs our use and sharing of CPNI.
+Customer Proprietary Network Information (CPNI) is information that relates to the type, quantity, destination, technical configuration, location, amount of use and related billing information of your telecommunications or interconnected Voice over Internet Protocol (VoIP) services. Federal law governs our use and sharing of CPNI. Credit information includes your credit score, information found in your consumer reports, and your account history.
 
 Information shared outside the Verizon family of companies:
 
@@ -118,7 +118,7 @@ We may disclose information that individually identifies our customers or identi
 *   to advance or defend against complaints or legal claims in court, administrative proceedings and elsewhere;
 *   to credit bureaus or collection agencies to determine credit risk, for reporting purposes or to obtain payment for Verizon-billed products and services;
 *   to a third-party that you have authorized to verify your account information;
-*   to outside auditors and regulators. or
+*   when you have authorized others to authenticate you or verify your account information. to outside auditors and regulators. or
 *   with your consent.
 
 When you purchase services offered jointly by Verizon and one of our partners, customer information may be received by both Verizon and our partner that is providing your service. For these jointly offered services, you should also review the partner company's privacy policy which may include practices that are different from the practices described here.
@@ -151,9 +151,11 @@ Customers of Verizon telecommunications and VoIP services may choose to limit th
 
 Verizon Wireline consumers and certain business customers may opt out by calling 1-866-483-9700. Verizon Wireless consumer and certain business customers may call 1-800-333-9956. Other customers may decline to provide or withdraw CPNI consent by following the instructions in the Verizon notice seeking consent.
 
-View CPNI notices for Verizon Wireline and Verizon Wireless.
+View CPNI-related notices for Verizon Wireline and Verizon Wireless.     Information about Your Credit
 
-  Telemarketing
+Verizon Wireline consumers may limit the sharing of credit information for our marketing of new services to you.  You may opt-out of this sharing by following the instructions in the notice provided on your monthly bill, or by calling 1-844-366-2879.  
+
+View notice for Verizon Wireline     Telemarketing
 
 Federal "Do Not Call" laws allow you to place your phone numbers on the National Do Not Call Registry to prohibit many telemarketing calls to those numbers. To add your numbers to this list, please call 1-888-382-1222 or visit the National Do Not Call Registry.
 
@@ -193,7 +195,7 @@ Working together to keep children safe.
 
 Verizon recognizes that online service providers must be vigilant in protecting the safety and privacy of children online. We do not knowingly market to or solicit personal information from children under the age of 13 without obtaining verifiable parental consent.
 
-To learn more about AOL's information practices with respect to children under 13, please review  AOL's Important Note to Parents. To learn more about Yahoo’s practices for children under age 13 please visit Yahoo’s Children's Privacy &. Family Accounts policy.
+To learn more about AOL's information practices with respect to children under 13, please review AOL's Important Note to Parents. To learn more about Yahoo’s practices for children under age 13 please visit Yahoo’s Children's Privacy &. Family Accounts policy.
 
 If you have a complaint about child pornography, the soliciting of children for sexual activity, or any other illegal or inappropriate activity involving children on a Verizon service, report it to us by sending an e-mail. Please include the words "child porn" in the subject line of your email. You can also make a report directly to the National Center for Missing and Exploited Children through CyberTipline.
 
@@ -237,7 +239,7 @@ We reserve the right to make changes to this privacy policy, so please check bac
 
 View recent changes to privacy policy
 
-Updated June, 2017
+Updated December, 2017
 
 © 2009, 2011-2017 Verizon. All Rights Reserved.
 
