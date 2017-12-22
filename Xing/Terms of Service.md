@@ -34,6 +34,8 @@ General Terms and Conditions for the use of the XING TalentManager
 
 General Terms and Conditions for the use of the XING TalentpoolManager
 
+General Terms and Conditions for the use of XING Coaches
+
 General Terms and Conditions for the use of XING Employer Branding Profiles
 
 General Terms and Conditions for the use of XING Jobs – Online customers
