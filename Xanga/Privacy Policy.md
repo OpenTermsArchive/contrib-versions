@@ -4,19 +4,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   My site didn't appear
     *   by HoPuiYi325
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   libbyruth
     *   by Libbyruth
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve blog from archive
     *   by annabeth44
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -25,7 +25,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by hooverchunk 6 days ago)
+    *   1 (last comment by hooverchunk 1 week ago)
 *   Retrieve my old blog
     *   by Candie\_1985
     *   1 week ago
