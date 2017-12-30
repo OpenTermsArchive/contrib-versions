@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Retrieve blog from archive
     *   by LaiYatTo
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -37,7 +37,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by hooverchunk 1 week ago)
+    *   1 (last comment by hooverchunk 2 weeks ago)
 *   Retrieve my old blog
     *   by Candie\_1985
     *   2 weeks ago
