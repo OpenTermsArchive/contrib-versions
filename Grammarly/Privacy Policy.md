@@ -138,4 +138,4 @@ Google Plus
 Pinterest  
 LinkedIn  
 Wikipedia  
-2017 © Grammarly Inc.
+2018 © Grammarly Inc.
