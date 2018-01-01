@@ -2,9 +2,27 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   retrieve old blog
+    *   by taarauchiha1
+    *   2 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   retrieve old blog
+    *   by taarauchiha1
+    *   2 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   retrieve old blog
+    *   by taarauchiha1
+    *   2 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Retrieve blog from archive
     *   by LaiYatTo
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -22,7 +40,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Retrieve blog from archive
     *   by annabeth44
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -74,26 +92,8 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   Retrieve Old Blog
-    *   by harrisonlo
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Blogs
-    *   by XXDropsOfRainXX
-    *   1 month ago
-    *   in Themes
-    *   0 votes
-    *   0
-*   How to see old posts
-    *   \[Resolved\] by SparklinEyez509
-    *   3 years ago
-    *   in Themes
-    *   0 votes
-    *   7 (last comment by XXDropsOfRainXX 1 month ago)
 
-1 2 3 ... 185 Next
+1 2 3 ... 186 Next
 
 Help Categories
 
