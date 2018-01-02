@@ -620,4 +620,4 @@ Windstream is one of the largest providers of telecommunications services in rur
 
 Residential Small Business Enterprise Wholesale FIND US ON Twitter Facebook
 
-Copyright © 2017 Windstream Communications. All rights reserved.
+Copyright © 2018 Windstream Communications. All rights reserved.
