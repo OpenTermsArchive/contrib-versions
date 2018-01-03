@@ -23,7 +23,6 @@ If your browser is in Private mode, pages that use personal or geographic inform
 Search Individuals &. Families Shop For Shop For
 
 *   Health Insurance
-*   Plans on the Health Insurance Marketplace
 *   Dental Coverage
 *   Student Insurance
 *   International Insurance
