@@ -90,8 +90,6 @@ Sign In  Hi, {username}
 ,*   हिन्दी
 ,*   Čeština
 
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=704136006388169&amp;ev=PageView&amp;noscript=1">.
-
 *   PRODUCT
 *   Templates
 *   Explore
@@ -129,18 +127,20 @@ Sign In  Hi, {username}
 *   Twitter
 *   Google+
 *   Pinterest
-*   Youtube
-*   Linkedin
+*   YouTube
+*   LinkedIn
 
 *   SUPPORT
 *   Support Center
 
-Wix.com Wix.com is a leading cloud-based development platform with millions of users worldwide. We make it easy for everyone to create a beautiful, professional web presence. Promote your business, showcase your art, set up an online shop or just test out new ideas. The Wix website builder has everything you need to create a fully personalized, high-quality free website. © 2006-2017 Wix.com, Inc
+Wix.com Wix.com is a leading cloud-based development platform with millions of users worldwide. We make it easy for everyone to create a beautiful, professional web presence. Promote your business, showcase your art, set up an online shop or just test out new ideas. The Wix website builder has everything you need to create a fully personalized, high-quality free website. © 2006-2018 Wix.com, Inc
 
 *   Facebook
 *   Twitter
 *   Google+
-*   Youtube
+*   YouTube
 *   Pinterest
 *   Instagram
-*   Linkedin
+*   LinkedIn
+
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=704136006388169&amp;ev=PageView&amp;noscript=1">.
