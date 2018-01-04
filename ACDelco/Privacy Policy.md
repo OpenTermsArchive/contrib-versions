@@ -355,7 +355,7 @@ A: No, many GM vehicles contain sensing and transmitting devices using the same 
 
 Follow GM
 
-© 2017 General Motors
+© 2018 General Motors
 
 *   Press Room
 *   Supply Chain Responsibility
@@ -378,4 +378,4 @@ Follow GM
 *   Social Media Policy
 *   Contact Us
 
-© 2017 General Motors × <iframe src="//s.thebrighttag.com/iframe?c=9sLDeEW" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>.
+© 2018 General Motors × <iframe src="//s.thebrighttag.com/iframe?c=9sLDeEW" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>.
