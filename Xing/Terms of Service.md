@@ -70,25 +70,25 @@ XING Worklife Plus General Terms and Conditions of Use
 
 General Terms and Conditions
 
-Last updated: 1 April 2017
+Last updated: 4 January 2018
 
   
 
-**“XING”** means the service as described below (including all applications) and/or the provider of this service, XING SE (together with XING S.à r.l. as of 1 May 2014 and in those cases listed in Section A.6.6 below).
+**“XING”** means the service as described below (including all applications) and/or the provider of this service, XING SE (together with XING S.à r.l. in those cases listed in Section A.6.6 below).
 
 A. General Terms and Conditions for the use of the XING service
 
-The XING service is rendered via websites (e.g. xing.com, xing.de, amiando.com, amiando.de, amiando.ch, kununu.com, kununu.at, kununu.de, contaxt.de), a number of different sub-domains and domain aliases, and via mobile applications (“apps”), background applications, web services and third-party-site integrations (e.g. iFrame). All websites, sub-domains, aliases, mobile applications, background applications, web services and third-party-site integrations provided by XING and where XING is available are hereinafter referred to as **“XING Websites”**.
+The XING service is rendered via websites (e.g. xing.com, xing.de, xing-events.com, kununu.com, lebenslauf.com, bewerbung.com), a number of different sub-domains and domain aliases, and via mobile applications (“apps”), background applications, web services and third-party-site integrations (e.g. iFrame). All websites, sub-domains, aliases, mobile applications, background applications, web services and third-party-site integrations provided by XING and where XING is available are hereinafter referred to as **“XING Websites”**.
 
 The XING service applications include, in particular, contact and communication forums (hereinafter referred to as **“social network”**) for which the user can obtain membership, an **“events platform”** and an **“employer review platform”**. Some of the XING applications may appear under other brand names or by using other XING Websites.
 
 These General Terms and Conditions for the use of the XING service govern the contractual relationship between the user and XING, irrespective of which XING Websites the User visits to take use XING services.
 
-Additional terms may also apply to the use of individual applications in addition to these General Terms and Conditions for using the XING service. In the event of an objection, the additional terms and conditions for the use of the respective application shall take precedence over these General Terms and Conditions for the use of the XING service, provided such precedence is not excluded in the additional terms for the use of the respective application.
+Additional terms (e.g. code of conduct for group moderators or commenting rules for XING News) may also apply to the use of individual applications in addition to these General Terms and Conditions for using the XING service. In the event of an objection, the additional terms and conditions for the use of the respective application shall take precedence over these General Terms and Conditions for the use of the XING service, provided such precedence is not excluded in the additional terms for the use of the respective application.
 
 The General Terms and Conditions for the use of the XING service and any additional terms for the use of individual applications are hereinafter referred to as **“GTC”**.
 
-The contract is concluded with XING SE, Dammtorstraße 30, 20354 Hamburg, Germany, and as of 1 May 2014, in those cases listed in Section A.6.6 below additionally with XING S.à r.l., 9, Avenue Guillaume, L-1651 Luxembourg. Further contact details, commercial register details as well as the name of a person authorised to represent XING SE and, as of 1 May 2014, XING S.à r.l. can be found in the “About this site” section.
+The contract is concluded with XING SE, Dammtorstraße 30, 20354 Hamburg, Germany, and, in those cases listed in Section A.6.6 below, additionally with XING S.à r.l., 9, Avenue Guillaume, L-1651 Luxembourg. Further contact details, commercial register details as well as the name of a person authorised to represent XING SE and XING S.à r.l. can be found in the “About this site” section.
 
    
 1\. Subject and basis for using XING
@@ -99,17 +99,17 @@ The contract is concluded with XING SE, Dammtorstraße 30, 20354 Hamburg, German
 
 **1.2** Working and private lives are converging all the time. In light of this, XING focuses both on professional and private domains.
 
-**1.3** XING would particularly like to provide the user with new opportunities (mainly within a professional context, but also within a private context), make it easier for the user to form horizontal networks, democratise information, foster the exchange of information, and promote lifelong learning. In order to meet these aims, XING collects information in order to provide the user with certain information, offers, recommendations and services, and to promote interaction within the user’s network. This takes place in line with the user’s privacy settings and declarations of consent.
+**1.3** XING would particularly like to provide the user with new opportunities (mainly within a professional context, but also within a private context), make it easier for the user to form horizontal networks, democratise information, foster the exchange of information, and promote lifelong learning. In order to meet these aims, XING collects information in order to provide the user with certain information, offers, recommendations and services, and to promote interaction within and outside of the user’s network. This takes place in line with the user’s privacy settings and declarations of consent.
 
-**1.4** The social network is the core application of the XING service. The profile page created by the user on the social network (hereinafter referred to as **“user profile”**) represents the identity of the user within the XING service, on XING Websites, and in the service’s applications. In order to use XING, the user requires a user profile that is visible on the social network. Only individual applications of the XING service can be used where the user profile is not visible on the social network. Also, there are individual applications of the XING service where the user does not appear and is not displayed with their user profile. Registration with the XING service is, however, always required.
+**1.4** The social network is the core application of the XING service. The profile page created by the user on the social network (hereinafter referred to as **“user profile”**) represents the identity of the user within the XING service, on XING Websites, and in the service’s applications. In order to use XING, the user requires a user profile that is visible on and outside of the social network. Only individual applications of the XING service can be used where the user profile is not visible on the social network. Also, there are individual applications of the XING service where the user does not appear and is not displayed with their user profile. Registration with the XING service is, however, always required.
 
 **Social network**
 
-**1.5** The social network provides the user with various options to present themselves with a personal user profile and to present its activities on XING Websites and, where applicable, outside of the XING Websites, and to interact with other users and, where applicable, with third parties in real time.
+**1.5** The social network provides the user with various options to present themselves with a personal user profile and to present its activities on XING Websites and outside of the XING Websites, and to interact with other users and with third parties in real time. The full effect of the social network can only be achieved if the user’s profile can be accessed by non-users and found by search engines. For this reason, user profile default settings enable non-users and search engines to find and access user profiles.
 
 **1.6** A user who registers with the social network initially becomes a free member of the social network (hereinafter referred to as **“free membership”**).
 
-**1.7** The user has the option of switching its free membership to a paid membership on the social network (paid membership on the social network is hereinafter referred to as **“Premium membership”**). In contrast to free membership, Premium membership provides a number of additional and advanced features. Special paid memberships for specific target groups, e.g. recruiters, are also covered by the term “Premium membership”. Depending on the user’s choice of payment method for the Premium membership as offered by XING, the specific provisions as laid out in Section 6.6 (“Special provisions regarding the payment methods offered by XING”) shall apply as of 1 May 2014. Free membership and Premium membership will hereinafter be collectively referred to as **“XING membership”**.
+**1.7** The user has the option of switching its free membership to a paid membership on the social network (paid membership on the social network is hereinafter referred to as **“Premium membership”**). In contrast to free membership, Premium membership provides a number of additional and advanced features. Special paid memberships for specific target groups, e.g. coaches, are also covered by the term “Premium membership”. Depending on the user’s choice of payment method for the Premium membership as offered by XING, the specific provisions as laid out in Section 6.6 (“Special provisions regarding the payment methods offered by XING”) shall apply. Free membership and Premium membership will hereinafter be collectively referred to as **“XING membership”**.
 
 **1.8** If XING offers the user the option to book one or more free or paid third-party supplementary services, the user shall enter into separate agreements with the respective third party that have no legal connection to the user's XING membership. The amendment, discontinuation, other termination or exchange of such third-party services or any default of performance thereof in relations between the user and third party does not have any impact on the contractual relationship between XING and the user in terms of the user's XING membership. The terms and conditions and privacy policies of the respective third parties, who are also the contractual and contact partners of the user, apply to all third-party supplementary services.
 
@@ -120,7 +120,7 @@ The contract is concluded with XING SE, Dammtorstraße 30, 20354 Hamburg, German
 
 **2.1** If the user uses a XING service application which can also be used by users without a user profile that is visible on the social network, a user account will be created for said user if they do not already have one. Thereby, the agreement to use XING is entered into by the user and XING. A user account is a user profile that is not initially visible on the social network. To start with, the user can only use its user account with XING service applications that can also be used without a user profile that is visible on the social network. If the user would like to use XING service applications that require a user profile that is visible on the social network, the user must first allow its user profile to be visible on the social network.
 
-**2.2** The option to use applications offered on the XING Websites does not constitute an offer, but merely an invitation to issue an offer. By completing the booking process, the user consents to enter into the agreement to use the corresponding XING application. XING in turn accepts the user’s consent by rendering the corresponding services. The agreement takes effect upon the aforementioned acceptance by XING. XING is not obliged to enter into the agreement. By using paid services, the user accepts the related payment obligation and, depending on the choice of payment method and as of 1 May 2014, the special provisions as laid out in Section 6.6 (“Special provisions regarding the payment methods offered by XING”) by clicking on the confirmation button which is displayed in such cases.
+**2.2** The option to use applications offered on the XING Websites does not constitute an offer, but merely an invitation to issue an offer. By completing the booking process, the user consents to enter into the agreement to use the corresponding XING application. XING in turn accepts the user’s consent by rendering the corresponding services. The agreement takes effect upon the aforementioned acceptance by XING. XING is not obliged to enter into the agreement. By using paid services, the user accepts the related payment obligation and, depending on the choice of payment method, the special provisions as laid out in Section 6.6 (“Special provisions regarding the payment methods offered by XING”) by clicking on the confirmation button which is displayed in such cases.
 
 **2.3** The user warrants and represents that all of the data they provide is accurate and complete. The user is obliged to ensure that the data for all of the applications they use is accurate and complete for the entire duration of the agreement. In the event that the XING customer service team makes any manual changes to the user’s data on the user’s behalf, XING reserves the right to bill the user for any costs they incur in connection with said changes, insofar as the user is responsible for the event that triggers these costs.
 
@@ -132,7 +132,7 @@ The contract is concluded with XING SE, Dammtorstraße 30, 20354 Hamburg, German
 
 **2.6** In order to acquire XING membership, the user must register on the platform and select a password.
 
-**2.7** The user is obliged to keep this password secret. XING shall not disclose the password to any third party, shall only use it during the login process, and shall not ask for the user's password at any time other than during the login process. For security reasons and to prevent misuse, the user is recommended to change its password at regular intervals. The user is solely responsible for safeguarding and storing its XING member account login details (username and password).
+**2.7** The user is obliged to keep this password secret. XING shall not disclose the password to any third party, shall only use it during the login process, and shall not ask for the user's password at any time other than during the login process. For security reasons and to prevent misuse, the user is recommended to change its password at regular intervals. The user is solely responsible for safeguarding and storing its XING member account login details (particularly its password).
 
 **2.8** Each user may only create one user profile. The user is not permitted to allow third parties to use its user profile.
 
@@ -272,25 +272,28 @@ XING shall notify users of such changes to its GTC, e.g. via the XING Websites.
 
 _Please note: Section 6.5 does not apply to existing customers who registered with XING before 17 March 2014, except in the following cases:_
 
-*   _An older version of the GTC containing a corresponding price modification provision (in Section 12.2) in effect at the time of registration was already explicitly agreed to_
-*   _A price modification provision was already explicitly agreed to before 17 March 2014, e.g. when switching from the old Premium to the New Premium version_
-*   _A price modification provision was explicitly agreed to after 17 March 2014_
-*   _These GTC including the price modification provision (Section 6.5) are explicitly agreed to from 17 March 2014 (e.g. when taking out Premium membership)._
+_(a) An older version of the GTC containing a corresponding price modification provision (in Section 12.2) in effect at the time of registration was already explicitly agreed to_
 
-_This price modification provision (Section 6.5) shall apply without limitation to new customers._
+_(b) A price modification provision was already explicitly agreed to before 17 March 2014, e.g. when switching from the old Premium to the New Premium version_
 
-**6.6 Special provisions regarding the payment methods offered by XING  
-Please note: This Section 6.6 will become effective as of 1 May 2014.**  
-In case the user opts for a Premium membership as of 1 May 2014, chooses credit card as the applicable payment method, and pays with his Mastercard or Visa Card (not American Express), the following special provisions shall apply:  
+_(c) A price modification provision was explicitly agreed to after 17 March 2014_
 
-*   Party to the contract are both XING SE and XING S.à r.l. who are jointly and severally liable towards the user. This means, inter alia, that the provision of a service by one party fulfils the contractual obligation of the other. Events such as contestation, termination or withdrawal of the contract by the user, default or impossibility of performance or any other event listed in Section 425 (2) of the German Civil Code (BGB) will take effect for and against both parties.
-*   XING SE and XING S.à r.l. do not form one company but act for themselves respectively. XING SE and XING S.à r.l. exclusively act in their own name vis-à-vis the user unless expressly stated otherwise.
-*   Even though XING SE and XING S.à r.l. are both entitled to claim payment in the full amount from the user, the user is of course only obliged to make such payment once. The user must, however, bear in mind that they are not entitled (notwithstanding Section 428 sentence 1 of the German Civil Code) to make payment at their discretion to either XING SE or XING S.à r.l., but that they are required to exclusively make payment to the party demanding payment from them (unreal joint creditors, Section 428 sentence 1 of the German Civil Code). To this end, the user only needs to follow the instructions on the XING Websites.
-*   The user’s contact person for all questions regarding their membership or the XING Websites is exclusively XING SE. The contact details can be found on the XING Websites.
+_(d) These GTC including the price modification provision (Section 6.5) are explicitly agreed to from 17 March 2014 (e.g. when taking out Premium membership)._
 
-  
-When a user opts for a non-paid membership or chooses to pay for their Premium membership with a payment method other than Mastercard or Visa Card, only XING SE becomes a party to the contract (in this case the name “XING” in these GTC refers exclusively to XING SE). The special provisions regarding the joint and several liability and joint creditors in case of payment by Mastercard or Visa Card do not apply.  
-As soon as the user has chosen a payment method for their Premium membership, they will receive information stating the parties to the contract as well as details as to which party will provide the contractual service.
+_This price modification provision (Section 6.5) shall apply without limitation to new customers as of 17 March 2014._
+
+**6.6 Special provisions regarding the payment methods offered by XING**  
+If the user opts for a Premium membership, chooses credit card as the applicable payment method, and pays with his Mastercard or Visa Card (not American Express), the following special provisions shall apply:
+
+(a) Party to the contract are both XING SE and XING S.à r.l. who are jointly and severally liable towards the user. This means, inter alia, that the provision of a service by one party fulfils the contractual obligation of the other. Events such as contestation, termination or withdrawal of the contract by the user, default or impossibility of performance or any other event listed in Section 425 (2) of the German Civil Code (BGB) will take effect for and against both parties.
+
+(b) XING SE and XING S.à r.l. do not form one company but act for themselves respectively. XING SE and XING S.à r.l. exclusively act in their own name vis-à-vis the user unless expressly stated otherwise.
+
+(c) Even though XING SE and XING S.à r.l. are both entitled to claim payment in the full amount from the user, the user is of course only obliged to make such payment once. The user must, however, bear in mind that they are not entitled (notwithstanding Section 428 sentence 1 of the German Civil Code) to make payment at their discretion to either XING SE or XING S.à r.l., but that they are required to exclusively make payment to the party demanding payment from them (unreal joint creditors, Section 428 sentence 1 of the German Civil Code). To this end, the user only needs to follow the instructions on the XING Websites.
+
+(d) The user’s contact person for all questions regarding their membership or the XING Websites is exclusively XING SE. The contact details can be found on the XING Websites.
+
+If a user opts for a non-paid membership or chooses to pay for their Premium membership with a payment method other than Mastercard or Visa Card, only XING SE becomes a party to the contract (in this case the name “XING” in these GTC refers exclusively to XING SE). The special provisions regarding the joint and several liability and joint creditors in case of payment by Mastercard or Visa Card do not apply.
 
    
 7\. Term, termination of contract, sanctions, reimbursement of advance payments
@@ -311,23 +314,31 @@ As soon as the user has chosen a payment method for their Premium membership, th
 
 **7.4** Even if separate terms and conditions regarding term and cancellation are in place, both parties are entitled to immediate extraordinary termination for good cause at any time. Extraordinary termination for good cause is defined as an event which makes it unacceptable for the terminating party to continue the agreement until the end of the termination period, taking into account all circumstances of the individual case and weighing up the interests of both parties. A good cause for XING includes any of the following events:
 
-*   If the user fails to comply with any applicable legal provisions
-*   If the user breaches a contractual obligation
-*   If the reputation of the services offered on the XING Websites is substantially impaired by the online presence of the user (if, for example, it is discovered after registration that the user has been convicted of a criminal offence, and if said conviction is known to other users)
-*   If the user promotes any communities or associations, or any of their methods or activities, which are under surveillance by authorities responsible for public safety or the protection of minors
-*   If the user causes harm to any other user(s) or
-*   If the user is a member of a religious sect or a denomination that is controversial in Germany.
+(a) If the user fails to comply with any applicable legal provisions
+
+(b) If the user breaches a contractual obligation
+
+(c) If the reputation of the services offered on the XING Websites is substantially impaired by the online presence of the user (if, for example, it is discovered after registration that the user has been convicted of a criminal offence, and if said conviction is known to other users)
+
+(d) If the user promotes any communities or associations, or any of their methods or activities, which are under surveillance by authorities responsible for public safety or the protection of minors
+
+(e) If the user causes harm to any other user(s) or
+
+(f) If the user is a member of a religious sect or a denomination that is controversial in Germany.
 
 **7.5** In the event of a good cause in accordance with Section 7.4 and notwithstanding XING’s right to terminate the contract in accordance with Section 7.4, XING is entitled to
 
-*   delete contents posted by the user
-*   block the user’s access to the services on the XING Websites or to individual applications, or to
-*   issue a warning.
+(a) delete contents posted by the user
+
+(b) block the user’s access to the services on the XING Websites or to individual applications, or to
+
+issue a warning.
 
 **7.6** The user's right to claim reimbursement of any advance payments upon termination shall be excluded unless the user has terminated the agreement for good cause attributable to XING. In the following cases, the user shall not be entitled to claim reimbursement of any advance payments:
 
-*   If XING has terminated the contract for good cause
-*   If XING has blocked the user’s access in accordance with Section 7.5
+(a) If XING has terminated the contract for good cause
+
+(b) If XING has blocked the user’s access in accordance with Section 7.5
 
    
 8\. Responsibility for the user’s content, data and/or other information, availability
@@ -365,7 +376,7 @@ As soon as the user has chosen a payment method for their Premium membership, th
 
 **11.2** XING is permitted to transfer rights and duties to third parties, in whole or in part.
 
-**11.3** Unless revoked by the user, the user agrees that XING may transfer the contracts, in whole or in part, with users who registered with a Swiss address, to XING Switzerland GmbH, Enetriederstrasse 22, 6060 Sarnen, Switzerland, to facilitate billing in the user’s local currency.
+**11.3** Unless revoked by the user, the user agrees that XING may transfer the contracts, in whole or in part, with users who registered with a Swiss address, to XING Switzerland GmbH, Gartenstrasse 25, 8002 Zurich, Switzerland, to facilitate billing in the user’s local currency.
 
 **11.4** Unless otherwise governed by these GTC, XING may send notices to the user by e-mail, fax or letter. XING may also send declarations to the user’s XING inbox which forms an integral part of the user’s XING membership.
 
