@@ -118,13 +118,15 @@ Sign In  Hi, {username}
 *   Affiliates
 *   Updates &. Releases
 *   Contact Us
+*   Patent Notice
 
 *   COMMUNITY
 *   Wix Blog
 *   Wix Stories
 *   Wix Arena
 *   Wix Lounge
-*   Wix on the Road
+*   Wix Meetups
+*   Wix Ambassadors
 *   Facebook
 *   Twitter
 *   Google+
