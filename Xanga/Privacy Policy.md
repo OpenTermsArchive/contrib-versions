@@ -4,25 +4,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Retrieve old blog
     *   by Going\_Back
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   retrieve old blog
     *   by taarauchiha1
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   retrieve old blog
     *   by taarauchiha1
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   retrieve old blog
     *   by taarauchiha1
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -64,13 +64,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Just bought premium.
     *   by xStarvingForWordsx
-    *   4 weeks ago
+    *   1 month ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   active my old account
     *   by ling727
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
