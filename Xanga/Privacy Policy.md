@@ -2,27 +2,33 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   blog recovery
+    *   \[Resolved\] by envy\_dis\_leo
+    *   3 years ago
+    *   in Themes
+    *   0 votes
+    *   2 (last comment by XxAlizexX 17 hours ago)
 *   Retrieve old blog
     *   by Going\_Back
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   retrieve old blog
     *   by taarauchiha1
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   retrieve old blog
     *   by taarauchiha1
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   retrieve old blog
     *   by taarauchiha1
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -86,12 +92,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Themes
     *   0 votes
     *   0
-*   retrieve old blog
-    *   by anamoleejane
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by VmprFrvr 1 month ago)
 
 1 2 3 ... 186 Next
 
