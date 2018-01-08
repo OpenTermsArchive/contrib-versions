@@ -7,28 +7,28 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Themes
     *   0 votes
-    *   2 (last comment by XxAlizexX 17 hours ago)
+    *   2 (last comment by XxAlizexX 1 day ago)
 *   Retrieve old blog
     *   by Going\_Back
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   retrieve old blog
     *   by taarauchiha1
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   retrieve old blog
     *   by taarauchiha1
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   retrieve old blog
     *   by taarauchiha1
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -52,7 +52,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Retrieve blog from archive
     *   by annabeth44
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
