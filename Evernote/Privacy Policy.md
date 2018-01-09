@@ -136,7 +136,7 @@ We are committed to protecting the privacy of your information. Below, we descri
 *   Suggesting Evernote service features or products to you that we think will help you get the most out of our Service.
 *   For Evernote Business users, recommending people for you to collaborate with.
 
-*   To provide troubleshooting and customer support, our Customer Support team may need to access your information, such as your account email address and information about the Evernote application you are using, subject to the protections described above.  
+*   To provide troubleshooting and customer support, our Customer Support team may need to access your information, such as your account email address and information about the Evernote application you are using, subject to the protections described below.  
 *   As part of our efforts to protect your account and the functionality of the Service, our systems may analyze the emails you send to and from your Evernote account and the notes you share to detect spam, malware, or other potential security concerns. If we determine that such material constitutes a Terms of Service or User Guidelines violation, we may block delivery of or unshare the problematic material, much like a spam filter works for your email inbox.  
     Learn more about steps you can take to protect your account, such as using strong passwords, two-step verification, and encryption.
 *   In accordance with your communication preferences, we’ll occasionally contact you to announce new products and features we build for you, share tips for using Evernote to get more done, make special offers, and provide information about how Evernote works with products and services from our business partners.Learn MoreShow Less
