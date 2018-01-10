@@ -2,15 +2,39 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   retrieve my old blog posts
+    *   by sarahtonin
+    *   3 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Posts
+    *   by XxAlizexX
+    *   15 hours ago
+    *   in Miscellaenous
+    *   0 votes
+    *   0
+*   Posts
+    *   by XxAlizexX
+    *   15 hours ago
+    *   in Miscellaenous
+    *   0 votes
+    *   0
+*   retrieve old blog
+    *   by tine\_ha
+    *   17 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   blog recovery
     *   \[Resolved\] by envy\_dis\_leo
     *   3 years ago
     *   in Themes
     *   0 votes
-    *   2 (last comment by XxAlizexX 2 days ago)
+    *   2 (last comment by XxAlizexX 3 days ago)
 *   Retrieve old blog
     *   by Going\_Back
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -46,7 +70,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   libbyruth
     *   by Libbyruth
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -66,30 +90,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by Candie\_1985
     *   3 weeks ago
     *   in Data Migration
-    *   0 votes
-    *   0
-*   Just bought premium.
-    *   by xStarvingForWordsx
-    *   1 month ago
-    *   in Adding &. Editing Entries
-    *   0 votes
-    *   0
-*   active my old account
-    *   by ling727
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Recovering my Old Account
-    *   by owlenthusiast
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   I can't read my post
-    *   by maygoo
-    *   1 month ago
-    *   in Themes
     *   0 votes
     *   0
 
