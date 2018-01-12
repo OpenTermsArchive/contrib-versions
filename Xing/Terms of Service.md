@@ -2,8 +2,6 @@ Terms &. Conditions
 
 Print | Save
 
-Document
-
 *   A. General Terms and Conditions for the use of the XING service
     1.  Subject and basis for using XING
     2.  Conditions of use, conclusion of contract and warranties upon conclusion of contract
