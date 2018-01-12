@@ -17,29 +17,16 @@
     *   Check My Email
     *   Sign Out
 
-*   Shop
-*   Products
-    *   Internet
-    *   TV
-    *   Phone
-    *   Electronics
-    *   Available Services
-*   Learn
-    *   Support
-    *   Store Finder
-    *   Windstream Blog
-    *   Windstream.net
-*   Company
-    *   Windstream Overview
-    *   Careers
-    *   Investor Relations
-    *   News
-    *   Privacy Policy
-    *   Terms &. Conditions
-    *   Offer Conditions
-    *   Legal Notices
-    *   Broadband Network Statement
-    *   Suppliers
+*   Internet
+    *   Internet Overview
+    *   Plans
+    *   Bundles
+    *   Internet Security
+*   TV
+*   Home Phone
+*   Electronics
+*   Support
+*   Menu
 *   Other Windstream Services
     *   Residential
     *   Small Business
