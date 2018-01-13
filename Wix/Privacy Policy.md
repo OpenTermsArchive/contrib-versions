@@ -146,5 +146,3 @@ Wix.com Wix.com is a leading cloud-based development platform with millions of u
 *   Pinterest
 *   Instagram
 *   LinkedIn
-
-.
