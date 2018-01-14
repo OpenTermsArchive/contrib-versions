@@ -2,39 +2,45 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   I never shut down my old account but now i can not sign in???
+    *   by victor\_\_kaman
+    *   15 hours ago
+    *   in Passwords &. Sign-In
+    *   0 votes
+    *   0
 *   Retrieve old blog
     *   by abstract\_hunnayee
-    *   22 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data migration
     *   by hooligan1a
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   retrieve my old blog posts
     *   by sarahtonin
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Posts
     *   by XxAlizexX
-    *   3 days ago
+    *   4 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Posts
     *   by XxAlizexX
-    *   3 days ago
+    *   4 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   retrieve old blog
     *   by tine\_ha
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -43,7 +49,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Themes
     *   0 votes
-    *   2 (last comment by XxAlizexX 6 days ago)
+    *   2 (last comment by XxAlizexX 1 week ago)
 *   Retrieve old blog
     *   by Going\_Back
     *   1 week ago
@@ -82,12 +88,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   libbyruth
     *   by Libbyruth
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Retrieve blog from archive
-    *   by annabeth44
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
