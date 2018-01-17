@@ -280,6 +280,26 @@ Privacy Policy
 Menlo Park, California 94025  
 United States of America
 
+WHATSAPP INC., THE EU-U.S. PRIVACY SHIELD AND THE SWISS-U.S. PRIVACY SHIELD
+
+WhatsApp Inc. (“WhatsApp”) has certified to the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework with the U.S. Department of Commerce regarding the collection and processing of personal data from our business partners in the European Union and Switzerland (“Partners”) in connection with the products and services described in the Scope section below and in our certification. To learn more about the Privacy Shield program please visit www.privacyshield.gov.
+
+**Scope:** WhatsApp adheres to the Privacy Shield Principles for the following areas of our business (collectively the “Partner Services”):
+
+*   WhatsApp Business Products: WhatsApp creates apps, services, features, APIs, software, or website that enable businesses to interact with users of WhatsApp's products and services (“Business Products”). Partners (the data controllers) may submit personal information about their customers to WhatsApp using WhatsApp's Business Products. While Partners decide what information to submit, it typically includes things like customer phone numbers and other information under the Partner's control. For more information, customers may contact the relevant Partner. WhatsApp uses the personal data provided by Partners to provide Business Products in accordance with the terms applicable to the relevant Business Product and otherwise with the Partners' instructions. WhatsApp works with its Partners to ensure that individuals are offered appropriate choices in accordance with the Privacy Shield Principles.
+
+**Access.** Within the scope of our authorization to do so, and in accordance with our commitments under Privacy Shield, WhatsApp will work with its Partners to provide individuals access to personal data about them that WhatsApp holds on behalf of its Partners. WhatsApp will also take reasonable steps to enable individuals, either directly or in connection with the Partners, to correct, amend, or delete personal data that is demonstrated to be inaccurate.
+
+**Third Parties.** WhatsApp may transfer data within the Facebook family of companies and to third parties, including service providers and other partners. In accordance with the Privacy Shield Principles, WhatsApp is liable for any processing of personal data by such third parties that is inconsistent with the Privacy Shield Principles unless WhatsApp was not responsible for the event giving rise to any alleged damage.
+
+**Legal Requests.** Personal data that is transferred to us by our Partners may be subject to disclosure pursuant to legal requests or other judicial and government process, such as subpoenas, warrants, or orders. For more information, review the “Law and Protection” section of the WhatsApp Privacy Policy.
+
+**Enforcement.** WhatsApp's compliance with the Privacy Shield Principles is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission.
+
+**Questions and Disputes.** Please contact us with any questions or concerns relating to our Privacy Shield certification. You have the option to resolve any applicable disputes you have with us in connection with our certification through TrustArc, an alternative dispute resolution provider based in the United States. You can contact TrustArc through their website. In certain circumstances, the Privacy Shield Framework provides the right to invoke binding arbitration to resolve complaints not resolved by other means, as described in Annex I to the Privacy Shield Principles. Additionally, as part of the Privacy Shield Framework, the U.S. State Department Senior Coordinator serves as the Ombudsperson to facilitate the processing of requests relating to national security access to data transmitted from the EU or Switzerland to the U.S.
+
+For more information about WhatsApp's privacy practices please review our Privacy Policy.
+
 Intellectual Property Policy: Your Copyrights and Trademarks
 
 WhatsApp Inc. ("WhatsApp," "our," "we," or "us") is committed to helping people and organizations protect their intellectual property rights. Our users agree to our Terms of Service ("Terms") by installing, accessing, or using our apps, services, features, software, or website (together, "Services"). Our Terms do not allow our users to violate someone else's intellectual property rights when using our Services, including their copyrights and trademarks.
