@@ -239,9 +239,9 @@ We reserve the right to make changes to this privacy policy, so please check bac
 
 View recent changes to privacy policy
 
-Updated December, 2017
+Updated January, 2018
 
-© 2009, 2011-2017 Verizon. All Rights Reserved.
+© 2009, 2011-2018 Verizon. All Rights Reserved.
 
 Contact us
 
