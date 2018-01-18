@@ -4,19 +4,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   I never shut down my old account but now i can not sign in???
     *   by victor\_\_kaman
-    *   3 days ago
+    *   4 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Retrieve old blog
     *   by abstract\_hunnayee
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data migration
     *   by hooligan1a
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -82,7 +82,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   My site didn't appear
     *   by HoPuiYi325
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
