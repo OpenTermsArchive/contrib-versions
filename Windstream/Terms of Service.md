@@ -18,15 +18,10 @@
     *   Sign Out
 
 *   Internet
-    *   Internet Overview
-    *   Plans
-    *   Bundles
-    *   Internet Security
 *   TV
 *   Home Phone
 *   Electronics
 *   Support
-*   Menu
 *   Other Windstream Services
     *   Residential
     *   Small Business
