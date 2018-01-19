@@ -2,21 +2,27 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Old Blog Post
+    *   by yaminobakura
+    *   18 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   I never shut down my old account but now i can not sign in???
     *   by victor\_\_kaman
-    *   4 days ago
+    *   5 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Retrieve old blog
     *   by abstract\_hunnayee
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Data migration
     *   by hooligan1a
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -82,12 +88,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   My site didn't appear
     *   by HoPuiYi325
-    *   4 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   libbyruth
-    *   by Libbyruth
     *   4 weeks ago
     *   in Data Migration
     *   0 votes
