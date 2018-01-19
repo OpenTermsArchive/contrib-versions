@@ -1,4 +1,4 @@
-Terms of Service |  Web Terms of Service |  Software License |  Residential Services Policies |  Report Abuse to Comcast |  Terms for Feedback |  Purchased Content Terms and Conditions
+Terms of Service |  Web Terms of Service |  Software License |  Residential Services Policies |  Report Abuse to Comcast |  Terms for Feedback |  Open Source Software |  Purchased Content Terms and Conditions
 
 Comcast Software License Agreement Archive (Previous Versions) Comcast Software License Agreement Effective Date: April 14, 2017
 
