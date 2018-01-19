@@ -80,11 +80,21 @@ International Data Transfers.
 
 Personally Identifiable Information and Non-Personally Identifiable Information that Disqus collects may be transferred to and stored and processed in countries other than the country in which you reside, which means that laws different from the laws in your country may apply. Disqus may transfer Personally Identifiable Information and Non-Personally Identifiable Information to the United States of America. By using the Disqus Service, you consent to the transfer of your Personally Identifiable Information and Non-Personally Identifiable Information to other countries including the United States of America.
 
+Disqus and the EU-U.S. Privacy Shield.
+
+Disqus complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personally identifiable information transferred from the European Union to the United States. Disqus has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit www.privacyshield.gov.
+
+Disqus's participation in the Privacy Shield applies to all Personally Identifiable Information that is subject to this Privacy Policy and is received from the European Union, European Economic Area, or Switzerland and stored by Disqus (the "EU Personal Information"). Disqus will comply with the Privacy Shield Principles in respect of such EU Personal Information.
+
+Disqus' accountability for personal data that it receives under the Privacy Shield and subsequently transfers to a third party is described in the Privacy Shield Principles. In particular, Disqus remains responsible and liable under the Privacy Shield Principles if third-party agents that it engages to process the personal data on its behalf do so in a manner inconsistent with the Principles, unless Disqus proves that it is not responsible for the event giving rise to the damage.
+
+If you are located in the EU, you have the right to access, correct, or have removed from our systems any of your EU Personal Information that Disqus may store. If you would like to may such a request you can do so by emailing us at privacy@disqus.com, or by postal mail to one of the addresses listed below and we will promptly respond to your requests.
+
+We encourage you to contact us using the information provided below should you have a Privacy Shield-related (or general privacy-related) complaint. For any complaints that cannot be resolved with Disqus directly. As further explained in the Privacy Shield Principles, a binding arbitration option will also be made available to you in order to address residual complaints not resolved by any other means. Disqus subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
+
 Dispute Resolution
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request .
-
-Disqus has further committed to cooperate with EU data protection authorities (DPAs) with regard to unresolved Privacy Shield complaints concerning human resources data transferred from the EU in the context of the employment relationship.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
 
 Contact
 
@@ -102,7 +112,7 @@ Did you find this article helpful?
 
 Yes I found this article helpful No I did not find this article helpful
 
-Last Updated - Jan 08, 2018 11:17AM PST
+Last Updated - Jan 18, 2018 01:18PM PST
 
 Get Support:
 
