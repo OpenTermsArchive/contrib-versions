@@ -1,4 +1,4 @@
-Valve® Corporation respects the privacy of its online visitors and users of its products and services and complies with the Privacy Shield Framework as agreed to by the US Department of Commerce and the European Commission. Valve recognizes the importance of protecting information collected from users and has adopted this privacy policy to inform users about how Valve gathers, stores, and uses information derived from their use of Valve products, services and online sites.  
+Valve® Corporation respects the privacy of its online visitors and users of its products and services and complies with the Privacy Shield Frameworks as agreed to between the US Department of Commerce and the regulatory bodies of Switzerland and the European Union. Valve recognizes the importance of protecting information collected from users and has adopted this privacy policy to inform users about how Valve gathers, stores, and uses information derived from their use of Valve products, services and online sites.  
   
 This policy is current as of its last revision date. However, please note that this policy may be amended from time to time to reflect changes and additions to the privacy policy. Please check back for the most current version before relying on any of the provisions in this privacy policy.  
   
@@ -10,7 +10,7 @@ By using Valve's online sites, products, and services, users agree that Valve co
   
 "Personally identifiable information" is information that can be used to uniquely identify a user such as name, address or credit card number. If you are an EU user, "personally identifiable information" means "personal data" within the meaning of article 2 a) of the Directive 95/46 of 24 October 1995. You may be asked to provide personally identifiable information during the sign in process, and then in connection with the use of Valve’s products, services and online sites. While Valve collects personally identifiable information on a voluntary basis, for certain products and services Valve's collection of personally identifiable information may be a requirement for access to the product or service or to process a user’s order.  
   
-**Use of personally identifiable information**  
+**Use of Personally Identifiable Information**  
   
 Personally identifiable information is used internally by Valve to deliver, develop and improve products, content and services, to which users have subscribed, and to answer users’ requests. In addition, Valve may allow third parties performing services under contract with Valve, such as order or payment processors or merchandise warehouse and fulfillment services, located in and outside the European Union, to access and use personally identifiable information, but only to the extent necessary to provide those services.  
   
@@ -57,16 +57,16 @@ If you have any questions or complaints about this privacy policy, or the privac
   
 Valve Corporation  
 P.O. Box 1688  
-Bellevue, WA 98004  
+Bellevue, WA 98009  
   
 **Privacy Shield**  
   
-Valve complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Valve has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit http://www.privacyshield.gov.  
+Valve complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Valve has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit http://www.privacyshield.gov.  
   
-In compliance with the Privacy Shield Principles, Valve commits to resolve complaints about our collection or use of your personal information. European Union individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Valve **here**. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request. As explained in the Privacy Shield documentation (https://www.privacyshield.gov/article?id=ANNEX-I-introduction) certain residual claims not resolved by other means may be subject to binding arbitration. In such event, an arbitration option will be made available to you.  
+In compliance with the Privacy Shield Principles, Valve commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Valve **here**. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request. As explained in the Privacy Shield documentation (https://www.privacyshield.gov/article?id=ANNEX-I-introduction) certain residual claims not resolved by other means may be subject to binding arbitration. In such event, an arbitration option will be made available to you.  
   
 The Privacy Shield Principles describe Valve's accountability for personal data that it subsequently transfers to a third party agent. Under the Principles, Valve shall remain liable if third party agents process the personal information in a manner inconsistent with the Principles, unless Valve proves it is not responsible for the event giving rise to the damage.  
   
 The Federal Trade Commission has jurisdiction over Valve’s compliance with the Privacy Shield.  
   
-_Revision Date: August 31st, 2017_
+_Revision Date: January 23, 2018_
