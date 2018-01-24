@@ -2,9 +2,21 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Help Please
+    *   by Dark\_Rose0120
+    *   11 hours ago
+    *   in Themes
+    *   0 votes
+    *   0
+*   Cant see blog, visit site /blog broken?
+    *   by gothic012faust
+    *   12 hours ago
+    *   in Themes
+    *   0 votes
+    *   0
 *   Old Blog Post
     *   by yaminobakura
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -28,25 +40,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   retrieve my old blog posts
     *   by sarahtonin
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Posts
     *   by XxAlizexX
-    *   1 week ago
+    *   2 weeks ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Posts
     *   by XxAlizexX
-    *   1 week ago
+    *   2 weeks ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   retrieve old blog
     *   by tine\_ha
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -58,12 +70,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 (last comment by XxAlizexX 2 weeks ago)
 *   Retrieve old blog
     *   by Going\_Back
-    *   2 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   retrieve old blog
-    *   by taarauchiha1
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
@@ -80,15 +86,9 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   Retrieve blog from archive
-    *   by LaiYatTo
-    *   4 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   My site didn't appear
-    *   by HoPuiYi325
-    *   1 month ago
+*   retrieve old blog
+    *   by taarauchiha1
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
