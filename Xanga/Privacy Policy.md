@@ -4,25 +4,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Can not open and read my preceding posts in blog
     *   by VivianChun717
-    *   22 hours ago
+    *   1 day ago
     *   in Getting Started
     *   0 votes
     *   0
 *   Help Please
     *   by Dark\_Rose0120
-    *   1 day ago
+    *   2 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Cant see blog, visit site /blog broken?
     *   by gothic012faust
-    *   1 day ago
+    *   2 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Old Blog Post
     *   by yaminobakura
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -40,7 +40,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Data migration
     *   by hooligan1a
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
