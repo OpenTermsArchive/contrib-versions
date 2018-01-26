@@ -26,7 +26,7 @@ This privacy policy covers what information we collect and why we collect it, ho
     
     In each of the above instances, you will know what personal information we collect through our sites and services because you voluntarily and directly provide it.
     
-2.  How We Use Personal Information :
+2.  How We Use Personal Information:
     
     We may use information collected from you in one or more of the following ways:
     
@@ -101,7 +101,7 @@ This privacy policy covers what information we collect and why we collect it, ho
     
     *   To the extent permitted by law, you may receive all disclosures and notices regarding your loan transaction in electronic form, including, but not limited to, any notices (such as adverse action notices and privacy policy notices) required by the Equal Credit Opportunity Act, Gramm-Leach, Bliley Act, other federal law, and any implementing regulations. Your consent applies to any loan request submitted to a lender or dealer through the Site or Services and to any other dealings or transactions you may have with that lender or dealer.
     *   Hardware and Software. Before you decide to do business electronically with a third party lender or dealer, you should consider whether you have the required hardware and software described below. By submitting your information, you acknowledge that you have the required hardware and software designated below to access the documents.
-        *   The documents may be provided to you either on the third party’s website, in an email message, or as an attachment to an email message sent to the email address you provide as part of your request through the Site or Services and/or application or registration with the lender or dealer. To access the documents, you will need an email account and may need Adobe Acrobat Reader version 7 or higher, and a personal computer or other access device which is capable of accessing the Internet. To retain the documents, your access device must have the ability to either download the documents to your computer's hard drive or have must have a printer to print the documents. You should send any questions regarding the hardware and software requirements directly to the third party lender or dealer.
+        *   The documents may be provided to you either on the third party’s website, in an email message, or as an attachment to an email message sent to the email address you provide as part of your request through the Site or Services and/or application or registration with the lender or dealer. To access the documents, you will need an email account and may need Adobe Acrobat Reader version 7 or higher, and a personal computer or other access device which is capable of accessing the Internet. To retain the documents, your access device must have the ability to either download the documents to your computer's hard drive or have must have a printer to print the documents. You should send any questions regarding the hardware and software requirements directly to the third party lender or dealer.
     *   Right to Paper Copies. You have the right to have any documents provided to you in paper form rather than electronic form. You can request the paper copies for your loan transaction or other communications from the third party lender or dealer that you are contacting for a loan. For convenience, if you wish to obtain documents in paper form from CarFinance Capital, LLC you may contact ElectronicRecords@CarFinance.com and from Santander by calling (855) 563-5635.
     *   Right to Withdraw Consent. Update Contact Information. You may withdraw your consent to use and receive electronic signatures, records and disclosures in connection with your loan transaction or other communications or update your contact information at any time by contacting the third party lender or dealer that you are contacting for a loan. For convenience, you may withdraw consent from, or update your contact information with, CarFinance Capital, LLC by emailing ElectronicRecords@CarFinance.com and Santander by calling (855) 563-5635.
     
@@ -167,30 +167,20 @@ This privacy policy covers what information we collect and why we collect it, ho
     
     Text Messaging
     
-    Opt-In Messages. We may make available text messaging services through which you can receive messages from us and send messages to us on your mobile phone, which will be governed by the text messaging terms and conditions for the applicable service. . You will receive a text message from us after opting in to the text messaging service by sending a message to us from your mobile phone or signing up through our site(s) or a third party website. If you sign up for the text messaging services, you consent to the use of an automatic dialing system to deliver text messages to the mobile phone number which you have provided for the transmission of these text messages. We will use the information we obtain in connection with the text messaging services in accordance with this Privacy Policy. Your consent to receiving text messaging from us is a not a condition of purchase. The number of text messages you receive will be based upon the text messaging service(s) you sign up for. The text messaging services may not be compatible with all mobile phone devices.
-    
-    Automatic Messages. If your healthcare provider has signed up for our text messaging services, you may automatically receive appointment reminder messages and other health care messages, as defined by the Health Insurance Portability and Accountability Act of 1996, which are exempt from the Telephone Consumer Protection Act and sent at the request of your healthcare provider. Your healthcare provider has represented and warranted to us that they have received your consent to the use of an automatic dialing system to the deliver appointment reminder messages and other informational health-related messages to the phone number you provided. The number of appointment reminders and other healthcare messages sent to you will depend on the number of messages sent from your healthcare provider. Please see more information about the Health Insurance Portability and Accountability Act of 1996 below. If you have questions about the health care messages sent on behalf of your healthcare provider, you should contact your healthcare provider directly.
-    
-    Rates. Standard message and data rates may apply to any messages sent by us or you. Please contact your wireless provider with any questions regarding text messaging or data rates and plans.
-    
-    Security. You acknowledge and agree that the text messages are provided via wireless systems which use radios (and other means) to transmit communications over complex networks. We do not guarantee that your use of the text messaging service will be private or secure, and we are not liable to you for any lack of privacy or security you may experience. You are fully responsible for taking precautions and providing security measures best suited for your situation and intended use of the text messaging service(s).
-    
-    Help. You can reply “HELP” to any text message from us if you need assistance with the text messaging services.
+    We may make available text messaging services in which you can receive messages from us and send messages to us on your mobile phone, which will be governed by our Text Messaging Services Policy.
     
     Opting Out of Requested Communications
     
     Requested communications include, for instance, email newsletters or software updates that may be expressly requested by you or which you consented to receive. After you request such communications, you may "opt out" of receiving them by using one of the following methods:
     
     *   Select the email "opt out" or "unsubscribe" link, or follow the opt-out instructions included in each email communication.
-    *   To unsubscribe from text messages delivered to mobile devices, reply to the message with the words "STOP" or "END" or contact the applicable site or company affiliate.
     *   Return to the web page(s) where you originally registered your preferences and follow the opt-out instructions.
     *   Contact us. Please provide your name, contact information, and specific relevant information that you no longer wish to receive.
-    *   To re-opt in, reply “START”, unless otherwise provided by the text messaging terms and conditions applicable to the text message program.
     
       
     Opting Out of Transactional or Relationship Communications
     
-    Communications that are sent by or on behalf of a user are indicated as being "From" that user. Communications that are sent by us are indicated as being from us or one of our account or support specialists assigned to assist you. Either type of communication may be "real time" communications or communications triggered automatically upon the occurrence of certain events or dates, such as appointment reminders. Email communications received from users and our administrative announcements are often transactional or relationship messages, such as appointment requests, reminders and cancellations. You may not be able to opt out of receiving certain messages although our services may provide a means to modify the frequency of receiving them.
+    Communications that are sent by or on behalf of a user are indicated as being "From" that user. Communications that are sent by us are indicated as being from us or one of our account or support specialists assigned to assist you. Either type of communication may be "real time" communications or communications triggered automatically upon the occurrence of certain events or dates, such as appointment reminders. Email communications received from users and our administrative announcements are often transactional or relationship messages, such as appointment requests, reminders and cancellations. You may not be able to opt-out of receiving certain email messages although our services may provide a means to modify the frequency of receiving them.
     
       
     Opting Out of General or Promotional Communications
@@ -198,7 +188,6 @@ This privacy policy covers what information we collect and why we collect it, ho
     General communications provide information about products, services, and/or support and may include special offers, new product information, or invitations to participate in market research. You may opt out of receiving these general communications by using one of the following methods:
     
     *   Select the email "opt out" or "unsubscribe" link, or follow the opt-out instructions included in each email communication.
-    *   To unsubscribe from text messages delivered to mobile devices, reply to the message with the words "STOP" or "END" or contact the applicable site or company affiliate.
     *   Contact us. Please provide your name, relevant contact information, and specific relevant information about your privacy preferences.
 9.  Protecting Personal and Protected Health Information
     
@@ -272,4 +261,4 @@ This privacy policy covers what information we collect and why we collect it, ho
     
     We may revise this privacy policy from time to time and, if we do, we will update it on this page and modify the "Last Updated" date. If our information practices change in a significant way, you will be provided notice by means of notice on our sites or otherwise in writing. Because our privacy policy can change at any time, we encourage you to reread it periodically to see if there have been any changes that affect you. If you disagree with any changes to this privacy policy and do not wish your information to be subject to the revised privacy policy, you will need to deactivate your account or terminate your services. Your use of our sites and services following any such change constitutes your agreement that all information collected from or about you through our sites and services after the revised privacy policy is posted will be subject to the terms of the revised privacy policy.
     
-    Last Updated: November 10, 2016
+    Last Updated: January 24, 2018
