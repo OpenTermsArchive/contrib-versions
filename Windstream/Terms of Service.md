@@ -17,6 +17,7 @@
     *   Check My Email
     *   Sign Out
 
+*   Shop
 *   Internet
 *   TV
 *   Home Phone
