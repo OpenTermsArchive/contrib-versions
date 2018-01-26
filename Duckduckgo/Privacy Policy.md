@@ -106,7 +106,7 @@ Each does things a bit differently in terms of privacy and very differently in t
 
 Updates   \[top\]
 
-If this policy is substantively updated, we will update the text of this page and provide notice to you at http://duckduckgo.com/about by writing '(Updated)' in red next to the link to this page (in the footer) for a period of at least 30 days.
+If this policy is substantively updated, we will update the text of this page and provide notice to you at https://duckduckgo.com/about by writing '(Updated)' in red next to the link to this page (in the footer) for a period of at least 30 days.
 
 Feedback   \[top\]
 
