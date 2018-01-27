@@ -541,6 +541,8 @@ The 1984 Cable Act, as amended by the 1992 Cable Act, was enacted by the U.S. Co
 
 This federal theft-of-service law supplements any existing state or local laws. The federal law prohibits the interception or receipt of any communication service over a cable system, unless authorized by the operator. This includes the theft of audio, video, textual, data or other service, including data transmitted to or from a subscriber over a system that has interactive capability. Further, the law pertains to both the manufacturers and distributors of equipment, as well as individuals. The Cable Act provides a cable operator the right to seek substantial monetary damages with regard to theft of its cable services. In addition, violators may face substantial fines or imprisonment if found guilty of criminal charges. Congress has taken the foregoing actions because it believes that theft of cable service poses a major threat to the economic viability of cable operators and cable program suppliers, and it creates unfair burdens on cable subscribers who are forced to subsidize the benefits that other individuals are getting by receiving cable service without paying for it. Also, tampering with cable lines often causes reception problems for paying customers. Therefore, if a customer is aware of persons receiving unauthorized cable service, please call us confidentially. We will follow up to ensure that their cable TV service reception is not affected by someone else's tampering.
 
+Call (866) 819-1239 to order by phone.
+
 Discover the Services Windstream Can Bring to You
 
 Please enter your address to see services available in your area.
