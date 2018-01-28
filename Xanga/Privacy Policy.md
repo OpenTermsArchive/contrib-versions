@@ -1,22 +1,34 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   The hotmail account associated with my Xanga was deleted
+    *   by xxx\_soco\_xxx
+    *   2 hours ago
+    *   in Passwords &. Sign-In
+    *   0 votes
+    *   0
 *   Can not open and read my preceding posts in blog
     *   by VivianChun717
-    *   2 days ago
+    *   3 days ago
     *   in Getting Started
     *   0 votes
     *   0
 *   Help Please
     *   by Dark\_Rose0120
-    *   3 days ago
+    *   4 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Cant see blog, visit site /blog broken?
     *   by gothic012faust
-    *   3 days ago
+    *   4 days ago
     *   in Themes
     *   0 votes
     *   0
@@ -28,7 +40,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   I never shut down my old account but now i can not sign in???
     *   by victor\_\_kaman
-    *   1 week ago
+    *   2 weeks ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -73,7 +85,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Themes
     *   0 votes
-    *   2 (last comment by XxAlizexX 2 weeks ago)
+    *   2 (last comment by XxAlizexX 3 weeks ago)
 *   Retrieve old blog
     *   by Going\_Back
     *   3 weeks ago
@@ -86,14 +98,8 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   retrieve old blog
-    *   by taarauchiha1
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
-1 2 3 ... 186 Next
+1 2 3 ... 187 Next
 
 Help Categories
 
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
