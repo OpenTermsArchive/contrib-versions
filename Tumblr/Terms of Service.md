@@ -1,4 +1,4 @@
-Terms of Service Last Modified: 2017-09-26Tumblr is a U.S. company and subject only to U.S. laws and jurisdiction, so for the moment these Terms of Service (and any other terms, policies, or guidelines that we provide to you) are only available in English.
+Terms of Service Last Modified: 2017-09-26Tumblr 是一家美国公司，只接受美国法律和管辖权，因此目前这些服务条款（以及我们提供给你的任何其他条款、策略或准则）仅有英文版本。
 
 Hello! Welcome to Tumblr’s Terms of Service. Please read this carefully before using our site, services, or products. This is a contract between you and Tumblr. We've also included several annotations that aren't a part of the contract itself, but are intended to emphasize key sections and help you follow the text. We’ve tried to be fair and straightforward. Please feel free to contact us if you have any questions or suggestions!
 
