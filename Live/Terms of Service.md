@@ -335,6 +335,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Citizen Next
 *   Conditional Action Programmer
 *   Cortana
+*   Cortana skills by Microsoft
 *   Default Homepage and New Tab Page on Microsoft Edge
 *   Dev Center App
 *   Device Health App
@@ -758,6 +759,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Citizen Next
 *   Conditional Action Programmer
 *   Cortana
+*   Cortana skills by Microsoft
 *   Default Homepage and New Tab Page on Microsoft Edge
 *   Dev Center App
 *   Device Health App
