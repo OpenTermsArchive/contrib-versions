@@ -2,27 +2,27 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Help Please
+    *   by Dark\_Rose0120
+    *   6 days ago
+    *   in Themes
+    *   0 votes
+    *   1 (last comment by angelic\_amy9 10 hours ago)
 *   The hotmail account associated with my Xanga was deleted
     *   by xxx\_soco\_xxx
-    *   1 day ago
+    *   2 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Can not open and read my preceding posts in blog
     *   by VivianChun717
-    *   4 days ago
-    *   in Getting Started
-    *   0 votes
-    *   0
-*   Help Please
-    *   by Dark\_Rose0120
     *   5 days ago
-    *   in Themes
+    *   in Getting Started
     *   0 votes
     *   0
 *   Cant see blog, visit site /blog broken?
     *   by gothic012faust
-    *   5 days ago
+    *   6 days ago
     *   in Themes
     *   0 votes
     *   0
