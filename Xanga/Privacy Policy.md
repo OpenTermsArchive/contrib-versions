@@ -4,25 +4,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Help Please
     *   by Dark\_Rose0120
-    *   6 days ago
+    *   1 week ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by angelic\_amy9 10 hours ago)
+    *   1 (last comment by angelic\_amy9 1 day ago)
 *   The hotmail account associated with my Xanga was deleted
     *   by xxx\_soco\_xxx
-    *   2 days ago
+    *   3 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Can not open and read my preceding posts in blog
     *   by VivianChun717
-    *   5 days ago
+    *   6 days ago
     *   in Getting Started
     *   0 votes
     *   0
 *   Cant see blog, visit site /blog broken?
     *   by gothic012faust
-    *   6 days ago
+    *   1 week ago
     *   in Themes
     *   0 votes
     *   0
@@ -52,25 +52,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   retrieve my old blog posts
     *   by sarahtonin
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Posts
     *   by XxAlizexX
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Posts
     *   by XxAlizexX
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   retrieve old blog
     *   by tine\_ha
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -82,13 +82,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 (last comment by XxAlizexX 3 weeks ago)
 *   Retrieve old blog
     *   by Going\_Back
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   retrieve old blog
     *   by taarauchiha1
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
