@@ -7,16 +7,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by angelic\_amy9 1 day ago)
+    *   1 (last comment by angelic\_amy9 2 days ago)
 *   The hotmail account associated with my Xanga was deleted
     *   by xxx\_soco\_xxx
-    *   3 days ago
+    *   4 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Can not open and read my preceding posts in blog
     *   by VivianChun717
-    *   6 days ago
+    *   1 week ago
     *   in Getting Started
     *   0 votes
     *   0
