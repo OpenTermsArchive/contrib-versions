@@ -149,7 +149,4 @@ Informations générales
 
 Ajout et correspondance des données
 
-Yahoo peut être amené à ajouter et utiliser des données relatives aux utilisateurs, lesquelles sont publiquement disponibles ou agrégées par des fournisseurs de données tiers, et ce afin de fournir de la publicité et des contenus personnalisés. Cliquez-ici pour en savoir plus.  
- 
-
-<p><img src="//analytics-cs.yahoo.com/piwik.php?idsite=10" style="border:0;" alt="" /></p>.
+Yahoo peut être amené à ajouter et utiliser des données relatives aux utilisateurs, lesquelles sont publiquement disponibles ou agrégées par des fournisseurs de données tiers, et ce afin de fournir de la publicité et des contenus personnalisés. Cliquez-ici pour en savoir plus.
