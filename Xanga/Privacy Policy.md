@@ -7,10 +7,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by angelic\_amy9 2 days ago)
+    *   1 (last comment by angelic\_amy9 3 days ago)
 *   The hotmail account associated with my Xanga was deleted
     *   by xxx\_soco\_xxx
-    *   4 days ago
+    *   5 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -28,7 +28,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Old Blog Post
     *   by yaminobakura
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -46,7 +46,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Data migration
     *   by hooligan1a
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -82,7 +82,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 (last comment by XxAlizexX 3 weeks ago)
 *   Retrieve old blog
     *   by Going\_Back
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
