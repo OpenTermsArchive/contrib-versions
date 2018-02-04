@@ -4,7 +4,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Retrieve Old Blog
     *   by Gotasha
-    *   5 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -13,10 +13,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by angelic\_amy9 4 days ago)
+    *   1 (last comment by angelic\_amy9 5 days ago)
 *   The hotmail account associated with my Xanga was deleted
     *   by xxx\_soco\_xxx
-    *   6 days ago
+    *   1 week ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -40,7 +40,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   I never shut down my old account but now i can not sign in???
     *   by victor\_\_kaman
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -85,7 +85,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Themes
     *   0 votes
-    *   2 (last comment by XxAlizexX 3 weeks ago)
+    *   2 (last comment by XxAlizexX 4 weeks ago)
 *   Retrieve old blog
     *   by Going\_Back
     *   1 month ago
