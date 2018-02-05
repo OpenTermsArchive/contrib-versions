@@ -4,7 +4,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Retrieve Old Blog
     *   by Gotasha
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -13,7 +13,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by angelic\_amy9 5 days ago)
+    *   1 (last comment by angelic\_amy9 6 days ago)
 *   The hotmail account associated with my Xanga was deleted
     *   by xxx\_soco\_xxx
     *   1 week ago
