@@ -1,4 +1,4 @@
-**Last Updated: Jan 8, 2018**
+**Last Updated: Feb 1, 2018**
 
 See here for Foursquare Privacy Basics
 
