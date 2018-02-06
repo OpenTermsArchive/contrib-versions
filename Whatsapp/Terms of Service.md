@@ -355,3 +355,243 @@ We use cookies to understand, secure, operate, and provide our Services. For exa
 How to control cookies
 
 You can follow the instructions provided by your browser or device (usually located under "Settings" or "Preferences") to modify your cookie settings. Please note that if you set your browser or device to disable cookies, certain of our Services may not function properly.
+
+WhatsApp Payments
+
+We're beta testing the payments feature for a limited number of users in India. At this time, we don't have any updates for making the feature more widely available.
+
+India Payments Terms of Service
+
+Last modified: February 5, 2018
+
+WhatsApp Inc. ("WhatsApp," "our," "we," or "us") provides messaging, Internet calling, and other services to users around the world, including the ability to send and receive payments through designated payment service providers ("PSPs") in India ("Payments"). Payments is a "Service" as defined in the WhatsApp Terms of Service ("Terms"), and the following WhatsApp Payments Terms of Service ("Payments Terms") supplement the Terms and apply to your use of Payments. You agree to the Payments Terms when you use Payments.
+
+About our payment service
+
+**Our Role**. Payments is a service we provide through, and in coordination with, designated PSPs. We provide a convenient platform that enables you to submit transaction instructions to PSPs for processing via the Unified Payments Interface ("UPI"). We are not a licensed financial institution, do not receive, transfer, or store any funds in connection with Payments, and are not responsible for UPI service interruptions or acts or omissions of PSPs or your bank including the payment, settlement, and clearance of funds. You have a separate relationship with your bank regarding your bank account, and WhatsApp has no affiliation with your bank in this respect.
+
+**PSP's Role**. When you initiate a transaction through Payments, a designated PSP receives the instructions and processes the transaction via UPI. By using Payments, you will also need to agree to the PSP's terms and privacy policy, which will be presented to you when you first use Payments. The PSP's terms and privacy policy are also available here. These Payments Terms govern the relationship between WhatsApp and you regarding Payments, and the PSP's terms govern the relationship between the PSP and you.
+
+**Eligibility**. To use Payments, you must use a phone number with the country code for India and have a bank account with a bank that supports UPI. The phone number you use for our Services must be the same phone number linked to your bank account used for Payments.
+
+**Registration**. You must be an owner of the bank account you use to send and receive funds through Payments. After you provide information to confirm your mobile banking account, WhatsApp creates a virtual payment address that is associated with your WhatsApp account. We will ask you to create an UPI PIN for your bank account if you do not already have one.
+
+**Age**. You must be at least 18 years old to use Payments.
+
+**Fees and Taxes**. You must pay any applicable fees arising out of your use of Payments, including any overdraft, transaction, or other fees charged by your bank, PSPs, or WhatsApp. You must comply with applicable tax laws in connection with your use of Payments, including reporting and payment of any taxes related to transactions made through Payments and any income received from such transactions. WhatsApp is not responsible for withholding, collecting, reporting, or remitting any sales, use, value added, or other tax arising from any transaction you complete using Payments.
+
+Privacy policy and user data
+
+WhatsApp cares about your privacy. Our Privacy Policy applies to your use of Payments. Because additional information will be collected and processed when you use Payments, the WhatsApp Payments Privacy Policy also applies to your use of Payments. The WhatsApp Payments Privacy Policy describes additional information practices applicable to Payments, including the types of information we receive and collect from you when you use Payments and how we use and share this information. If you use Payments, you agree to our data practices, including the collection, use, processing, and sharing of your information as described in our Privacy Policy and our Payments Privacy Policy, as well as the transfer and processing of your information to the United States and other countries globally where we have or use facilities, service providers, or partners, regardless of where you use Payments. You acknowledge that the laws, regulations, and standards of the country in which your information is stored or processed may be different from those of your own country.
+
+Use of payments
+
+**Payment Amount**. You are responsible for the total payment amount. You must ensure that you have sufficient funds in your bank account before executing any transaction through Payments.
+
+**Acceptable Use of Payments**. You must access and use Payments only for legal, authorized, and acceptable purposes, according to our Terms and posted policies. A PSP or WhatsApp may impose limits on your ability to send or receive payments, including transaction limits. A PSP or WhatsApp may also cancel any transaction if we believe the transaction violates the Terms, these Payments Terms, posted policies, or the PSP's terms.
+
+**Purchase Transactions**. If you use Payments to pay for goods or services, you agree to make legitimate purchases and to be bound by any terms of the sale. We have no responsibility for any goods or services purchased using Payments, including for any claims, damages, losses, liabilities, chargebacks or disputes associated with transactions. WE MAKE NO WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, WITH RESPECT TO ANY PRODUCTS OR SERVICES SOLD USING PAYMENTS.
+
+**Payments Transactions Are Final**. Once you submit a payment, it is final. WhatsApp does not provide refunds or facilitate chargebacks. WhatsApp is not liable for unauthorized transactions. We assume no responsibility for the underlying transaction of funds, or the actions or identity of any transfer recipient or sender.
+
+**Business Use of Payments**. If you are a business and use our Services, you must comply with all applicable laws associated with your use of our Services, including Payments. You must clearly disclose any applicable terms and fees to your customers and promptly fulfill any goods or services you sell using Payments in accordance with any sale terms and applicable laws. WhatsApp is not a party to the transaction.
+
+Other
+
+*   If there is any conflict between these Payments Terms and the Terms, these Payments Terms control solely with respect to your use of Payments and only to the extent of the conflict.
+    
+*   We may amend or update these Payments Terms. We will provide you notice of amendments to our Payments Terms, as appropriate, and update the "Last Modified" date at the top of our Payments Terms. Your continued use of Payments confirms your acceptance of our Payments Terms, as amended. If you do not agree to our Payments Terms, as amended, you must stop using Payments. Please review our Payments Terms from time to time.
+    
+
+India Payments Privacy Policy
+
+Last modified: February 5, 2018
+
+The WhatsApp Privacy Policy helps explain our information practices. Our Services may include enabling you to send and receive payments ("Payments"), a service we provide through, and in coordination with, designated payment service providers ("PSPs").
+
+This Payments Privacy Policy helps explain our information practices when you use Payments. PSPs may also collect, use, and share information as set forth in their privacy policies, in conjunction with helping to provide Payments to you.
+
+This Payments Privacy Policy supplements our Privacy Policy, which applies to the use of our Services, including Payments. Please also see WhatsApp's Terms of Service ("Terms"), which describe the terms under which you use our Services including Payments, and the WhatsApp Payments Terms of Service ("Payments Terms"), which supplement the Terms, govern your use of Payments, and describe Payments in more detail. Please read all of these documents carefully.
+
+Information We Collect
+
+In addition to what is described in our Privacy Policy, we receive information when we provide Payments.
+
+**Information You Provide**
+
+*   **Registration Information**. When you register to use Payments, you provide your bank's name, partial debit card number, and debit card expiration date. You will also be asked to provide your ATM PIN or UPI PIN, or to set up an UPI PIN for payment transactions if you do not already have one. We receive your debit card details and ATM PIN or UPI PIN securely, and we do not retain this information.
+*   **Payment Transaction Information**. When you send a payment, you identify the recipient or provide the recipient's virtual payment address ("VPA") and designate the transaction amount. This payment transaction information is handled securely. Messages sent with payments are delivered once the transaction has processed and are treated as described in our Privacy Policy.
+
+**Automatically Collected Information**
+
+*   **Information to Enable Payments**. We collect information when you send or receive a payment, including the date and time, the sender and receiver's VPA and name, and reference transaction number.
+
+**Third-Party Information**
+
+*   **Third-Party Providers and Services**. We work with third-party providers and services to help us operate Payments and provide customer support. These providers and services may provide us information about you or your Payments transactions in certain circumstances. for example, we may receive information about you or your transactions from a PSP such as information to confirm your registration, your name, account status, transaction reference IDs, risk or fraud alerts, and the like. Please note that the third-party's terms and privacy policies will govern your use of its services.
+
+How We Use Information
+
+We use all the information we have to help us operate, provide, improve, understand, customize, support, and market Payments. This includes using the information to provide Payments and customer support, to protect you and others using our Services from fraud, abuse, or other misconduct, and to review your account activity to determine whether you continue to meet our Terms and Payments Terms.
+
+Information You and We Share
+
+In addition to what is described in our Privacy Policy, you share your information when you use Payments, and we share your information to help us operate, provide, improve, understand, customize, support, and market our Services, including Payments.
+
+*   **Payment Senders and Recipients**. You and users with whom you send or receive payments may store or reshare your VPA, name, or transaction information with others on and off our Services.
+*   **Third-Party Providers and Services**. We share information with third-party providers and services to help us operate and improve Payments. To send payment instructions to PSPs, maintain your transaction history, provide customer support, and keep our Services safe and secure, including to detect, prevent, or otherwise address fraud, safety, security, abuse, or other misconduct, we share information we collect under this Payments Privacy Policy with third-party service providers including Facebook. To provide Payments to you, we share information with third-party services including PSPs, such as your mobile phone number, registration information, device identifiers, VPAs, the sender's UPI PIN, and payment amount.
+
+Managing Your Information
+
+If you would like to manage, change, limit, or delete your information, we allow you to do that through your payment settings or by deleting your WhatsApp account. With your payment settings, you may register additional bank account(s), deregister existing bank account(s) from your VPA, and clear your transaction history. When you delete your WhatsApp account, your bank account will be deregistered from your VPA automatically.
+
+Updates to Our Policy
+
+We may amend or update this Payments Privacy Policy. We will provide you notice of amendments to this Payments Privacy Policy, as appropriate, and update the "Last Modified" date at the top of this Payments Privacy Policy. Your continued use of Payments confirms your acceptance of our Payments Privacy Policy, as amended. If you do not agree to our Payments Privacy Policy, as amended, you must stop using Payments and deregister your bank account from your WhatsApp VPA. Please review our Payments Privacy Policy from time to time.
+
+ICICI Bank's Payment Service Terms
+
+These terms and conditions ("Terms") apply to and regulate the provision of a Unified Payments Interface Service–based electronic fund transfer and fund collection facility provided by ICICI Bank to its Users through the application owned and maintained by WhatsApp ("Facility") subject to the Terms herein specified.
+
+The User may apply for the Facility by installing the WhatsApp mobile application on their device and completing a one-time activation/registration for the Facility. The User will have an option to set a virtual payment address ("VPA") by linking an Account maintained with any bank in India through a one-time registration process defined and standardised by NPCI/ICICI Bank and then start transacting. The process of registration is:
+
+*   WhatsApp customers need to select their bank followed by the account they want to link. Thereafter, they need to enter the last six digits of their debit card number along with the expiry details to create a VPA.
+*   By applying for and accessing the Facility, the User accepts these terms, which shall govern the provision of the Facility by ICICI Bank. The Terms shall be in addition to and not in derogation of the regulatory guidelines issued from time to time.
+
+**1\. Definitions**
+
+In this document, the following words and phrases have the meanings set opposite them unless the context indicates otherwise. Words or expressions used in this form, but not specifically defined herein, shall have the respective meanings assigned to them by NPCI.
+
+1.1. "Account(s)" refers to the resident Indian savings and/or current bank account(s) held and maintained with any bank in India which is used for operations through the Facility.
+
+1.2. "User" means the applicant/remitter availing of the Facility through the Account(s) and satisfying the following conditions:
+
+1.  has a valid mobile phone number;
+2.  has downloaded the WhatsApp mobile application on the device. and
+3.  has an Account(s).
+
+1.3. "ICICI Bank" means ICICI Bank Limited, a company incorporated under the Companies Act, 1956, and licensed as a bank under the Banking Regulation Act, 1949, and having its corporate office at ICICI Bank Towers, Bandra Kurla Complex, Mumbai 400 051 (which expression shall, unless it be repugnant to the subject or context thereof, include its successors and assigns).
+
+1.4. "NPCI UPI System" means the switch and related equipment and software owned by NPCI to provide the UPI-based fund transfer and funds collection facility including the National Financial Switch.
+
+1.5. "Payment Order" means an unconditional instruction issued by the User through the WhatsApp Platform to effect a fund transfer for a certain sum of money expressed in Indian rupees, to the designated account of a designated beneficiary by debiting the Account(s) of the User.
+
+1.6. "PSP (Payment Service Provider)" refers to banks which are allowed to acquire Users and provide payment services to Users and entities.
+
+1.7. "UPI" refers to the Unified Payments Interface Service offered by NPCI in collaboration with its member banks.
+
+1.8. "WhatsApp" means WhatsApp Inc., a Delaware, United States, company with offices at 1601 Willow Road, Menlo Park, CA 94025. It provides smartphone users with certain services via their phone's Internet connection, including sending and receiving messages, calls, photos, videos, documents and voice messages.
+
+1.9. "WhatsApp Application" means WhatsApp's existing and future applications and services including its business and consumer applications and services for mobile, desktop and web.
+
+**2\. Applicability of Terms**
+
+The User hereby acknowledges that the User has read and understood the Terms and agrees that the rights and obligations provided therein and in these Terms insofar as it relates to the User shall be binding on the User with regard to every Payment Order issued by them for execution in the NPCI UPI System. The User understands and agrees that nothing in terms of availing the Facility shall be construed as creating any contractual or other rights against NPCI or any participant in the NPCI UPI System other than ICICI Bank. Notwithstanding anything contained herein, all terms and conditions stipulated by ICICI Bank in connection with the Account(s) shall continue to apply. The Privacy Policy and Customer Rights Policy of ICICI Bank shall continue to apply on the Users. These Terms and Conditions are in addition to any terms and conditions that WhatsApp may prescribe for the use of its WhatsApp Application.
+
+**3\. Scope of the Facility**
+
+The Facility offers an instant, 24x7, interbank electronic fund transfer or fund collection service to the customers of UPI member banks. Users can put in a request for fund transfers or respond to funds collection in a secure manner for any of their linked Account(s) as per the Terms, which may be changed by ICICI Bank as it deems fit.
+
+**Rights and Obligations of the User**
+
+3.1. The User shall be entitled, subject to Terms, to issue Payment Orders for execution by ICICI Bank.
+
+3.2. The Payment Order shall be issued by the User, in the form as prescribed by ICICI Bank, which is complete in all particulars. The User shall be responsible for the accuracy of the particulars given in the Payment Order for the Facility and shall be liable to compensate ICICI Bank for any loss arising on account of any error in the Payment Order.
+
+3.3. The User shall be bound by any Payment Order executed by ICICI Bank if ICICI Bank has executed the Payment Order in good faith and in compliance with the instructions given by the User on the WhatsApp Application.
+
+3.4. The User authorises ICICI Bank to act as a PSP and debit Account(s) as per instructions received by way of Payment Orders. The User understands that although multiple bank accounts can be linked with the Facility, debit/credit transactions can be done from the default account which is selected by the User before transactions until changed by the User for subsequent transactions. Each Account that may be linked with the UPI facility can be opened with a separate username. The User shall ensure availability of funds in their Account(s) towards the fulfillment of the Payment Order before/at the time of the execution of the Payment Order by ICICI Bank. The User hereby authorises ICICI Bank to debit the Account(s) of the User for any liability incurred by ICICI Bank on behalf of the User for execution of the Payment Order issued by the User. The User understands and agrees that once a fund collection request is accepted, the default account will automatically be credited with such amounts as may be mentioned in the Payment Order. The User understands and agrees that such amounts once credited to the default account cannot be reversed by the User.
+
+3.5. The User agrees that the Payment Order shall become irrevocable when it is executed by ICICI Bank.
+
+3.6. The User agrees that they shall not be entitled to make any claim against Reserve Bank of India ("RBI") and/or National Payment Corporation of India ("NPCI") in respect to the Facility.
+
+3.7. The User shall provide correct beneficiary details to ICICI Bank at the time of availing the Facility. The User shall be solely responsible for entering wrong beneficiary details including but not limited to incorrect VPA, incorrect Aadhaar number or incorrect mobile number, due to which the funds are transferred to an incorrect beneficiary.
+
+3.8. The User shall not hold ICICI Bank responsible for any damage, claim or issue arising out of or in connection with any purchase of goods/services from merchants through Payment Orders issued by the Facility. The User understands and agrees that all such losses, damages and issues shall constitute a claim against such merchants.
+
+3.9. The User agrees that the Facility is offered in line with the RBI's guidelines on mobile banking which are subject to change from time to time.
+
+3.10. The User shall inform ICICI Bank immediately of any inquiry, question or issue raised by any authority including but not limited to any statutory authority or official regarding and relating to ICICI Bank, as well as expeditiously notify ICICI Bank of any show causes, seizure or similar action and provide copies of any notices, memos or correspondences received from such authority. The User shall not unilaterally file any response/reply to such an authority without the prior approval of and vetting by ICICI Bank.
+
+3.11. The User shall be solely liable for ensuring the availability of sufficient funds in the Account(s) at all times for the purpose of availing the Facility. The User agrees that in the event there are insufficient funds in the Account, ICICI Bank can decline the transaction instruction.
+
+**4\. Undertakings and Representations**
+
+The User hereby undertakes, represents and warrants to ICICI Bank that:
+
+4.1. The role of ICICI Bank hereunder is limited to acting as a Payment Service Provider, which would include receiving from WhatsApp, bank information/data of the User for the purpose of (i) creation of the VPA. and (ii) processing the transactions initiated by the User using the UPI Facility as per applicable law.
+
+4.2. The User shall be in compliance at all times with applicable laws regarding the use of the Facility and shall not use the Facility in violation of the applicable laws.
+
+**5\. General Terms**
+
+5.1. The laws of India shall govern these terms and conditions and/or the operations in the Account(s) maintained with ICICI Bank. Any legal action or proceedings arising out of these Terms shall be brought in the courts or tribunals at Mumbai in India. ICICI Bank may, however, in its absolute discretion commence any legal action or proceedings arising out of these Terms in any other court, tribunal or other appropriate forum, and the User hereby consents to that jurisdiction.
+
+5.2. The clause headings in these Terms are only for convenience and do not affect the meaning of the relative clause.
+
+5.3. ICICI Bank may subcontract and employ agents to carry out any of its obligations hereunder.
+
+5.4. ICICI Bank has the absolute discretion to amend or supplement any of the Terms as stated herein at any time and will endeavour to give prior notice of 15 days for such changes wherever feasible. By using the new services, the User shall be deemed to have accepted the changed terms and conditions.
+
+5.5. Notices under these Terms may be given in writing by delivering them by hand, or on ICICI Bank's website www.icicibank.com, or by sending them by post to the last address given by the User and, in the case of ICICI Bank, to its corporate office address. In addition, ICICI Bank may also publish notices of general nature, which are applicable to all Users, in a newspaper or on its website at www.icicibank.com. Such notices will have the same effect as a notice served individually to each User. Notice and instructions will be deemed served 7 days after posting or upon receipt in the case of hand delivery, cable, telex or facsimile.
+
+5.6. Any provision of these Terms which is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of prohibition or unenforceability but shall not invalidate the remaining provisions of these Terms or affect such provision in any other jurisdiction. ICICI Bank shall have the right of set-off and lien, irrespective of any other lien or charge, present as well as future on the deposits held in the Account(s) to the extent of all outstanding dues, whatsoever, arising as a result of the Facility extended to and/or used by the User.
+
+**6\. Sharing of Information**
+
+6.1. The User irrevocably and unconditionally authorises ICICI Bank to access all the User's Account(s) and records for the purpose of providing the Facility. The User agrees that ICICI Bank and its affiliates (or their contractors) may hold and process their personal information and all other information concerning their Account(s) on computer or otherwise in connection with the Facility as well as for analysis, credit scoring and marketing.
+
+6.2. The User hereby expressly consents to and permits ICICI Bank, its affiliates and all the parties involved in the payment system including but not limited to Payments System Providers, acquiring banks, partner banks, the issuer bank of the sender's funding account, the issuer bank of the beneficiary's bank account, NPCI and RBI to collect, store and share such information including but not limited to their personal information such as name, address, all transaction details carried out through the WhatsApp Platform or information with respect to third parties and the beneficiary including bank account number.
+
+6.3. In the event the User is a beneficiary, the User hereby consents ICICI Bank to permit the remitter to store their information including but not limited to bank account number for the purpose of sending the payments.
+
+6.4. The User understands and agrees that certain information collected by ICICI Bank, including information obtained from Payments System Providers, acquiring banks, partner banks, the issuer bank of the sender's funding account, the issuer bank of the beneficiary's bank account, NPCI and RBI or third parties, is shared between ICICI Bank and WhatsApp to provide the Facility. In addition, the User understands and agrees that ICICI Bank is required to share their personal information, such as name, email address and payment instrument details, with third parties for the purposes of processing transactions or for the use of the services to register their complaints. ICICI Bank will abide by NPCI guidelines and adhere to the customer dispute management process specified by NPCI.
+
+6.5. The User agrees and understands that the transaction will be recorded in the statement of account as given to the User by the User's bank. The User agrees that they shall not be entitled to dispute the correctness of the execution of the Payment Order or the amount debited to their Account(s) if they fail to report the discrepancy as per NPCI guidelines.
+
+**7\. Disclaimer of Liability**
+
+7.1. ICICI Bank does not hold out any warranty and makes no representation about the quality of the Facility. The User agrees and acknowledges that ICICI Bank shall not be liable and shall in no way be held responsible for any damages whatsoever, whether such damages are direct, indirect, incidental or consequential and irrespective of whether any claim is based on loss of revenue, interruption of business, transaction carried out by the User and processed by ICICI Bank, information provided or disclosed by ICICI Bank regarding Account(s) or any loss of any character or nature whatsoever and whether sustained by the User or by any other person. While ICICI Bank shall endeavour to promptly execute and process the transactions as proposed to be made by the User, ICICI Bank shall not be responsible for any non-response or delay in responding due to any reason whatsoever, including due to failure of operational systems or any requirement of law. ICICI Bank shall not be liable for any loss, claim or damage suffered by the User and/or any other third party arising out of or resulting from failure of a UPI transaction on account of time-out transaction. i.e., where no response is received from NPCI or the beneficiary bank to the transaction request and/or where mobile number or account number of the beneficiary does not exist. Further, ICICI Bank shall also not be liable for any loss, damage and/or claim arising out of or resulting from wrong beneficiary details, mobile number and/or account details being provided by the Customer. ICICI Bank shall, under no circumstance, be held liable to the User if Facility access is not available in the desired manner for reasons including but not limited to natural calamities, legal restraints, faults in the telecommunication network or network failure, or any other reason beyond the control of ICICI Bank.
+
+7.2. The User is responsible for the accuracy and authenticity of the Payment Order provided to ICICI Bank and the same, if in the form and manner prescribed by ICICI Bank, shall be considered to be sufficient to operate the UPI Facility. ICICI Bank shall not be required to independently verify the Payment Order. ICICI Bank has no liability if it does not or is unable to stop or prevent the implementation of any Payment Order issued by the User. Once a Payment Order is issued by the User, the same cannot be subsequently revoked by the User.
+
+7.3. ICICI Bank states that it has no liability or obligation to keep a record of the Payment Orders to provide information to the User or for verifying the Payment Orders. ICICI Bank shall refuse to comply with the Payment Orders without assigning any reason and shall not be under any duty to assess the prudence or otherwise of any Payment Order. ICICI Bank has the right to suspend the transactions with respect to the UPI Facility if it has reason to believe that the User's Payment Orders will lead to or expose to direct or indirect loss to ICICI Bank or may require an indemnity from the User before continuing to operate the UPI Facility.
+
+7.4. All Payment Orders, requests, directives, orders and directions, entered by the User, are based upon the User's decisions and are the sole responsibility of the User.
+
+7.5. Users shall not hold ICICI Bank responsible and/or liable in any manner whatsoever for any losses/damages/costs incurred by the User for creation of the VPA and/or initiating/processing/cancelling any transaction on the WhatsApp Platform.
+
+**8\. Fraud or Unauthorised Use**
+
+ICICI Bank shall not be responsible for, and the User shall solely be responsible for, any unauthorised access or use of their personal or financial information through the WhatsApp Platform.
+
+**9\. Indemnity**
+
+The User agrees, at their own expense, to indemnify, defend and hold harmless ICICI Bank against any claim, suit, action or other proceeding brought against ICICI Bank, to the extent that such claim, suit, action or other proceeding brought against ICICI Bank is based on or arises in connection with the use of the Facility with reference to:
+
+1.  a violation of the Terms by the User;
+2.  any deletions, additions, insertions or alterations to, or any unauthorised use of, the Facility by the User;
+3.  any misrepresentation or breach of representation or warranty made by the User contained herein;
+4.  any breach of any covenant or obligation to be performed by the User hereunder;
+5.  any loss incurred by or threatened to be incurred by NPCI/RBI and/or any regulatory proceeding arising out of or in connection with the User's use of the Facility.
+
+**10\. Assignment**
+
+ICICI Bank shall be entitled to sell, assign, securitise or transfer ICICI Bank's rights and obligations under these Terms and any security in favour of ICICI Bank (including all guarantee\[s\]) to any person of ICICI Bank's choice in whole or in part and in such manner and on such terms and conditions as ICICI Bank may decide. Any such sale, assignment, securitisation or transfer shall conclusively bind the User and all other persons. The User, their successors and assigns are bound by these Terms. However, the User shall not be entitled to transfer or assign any of their rights and obligations under these Terms.
+
+**11\. Termination and Suspension**
+
+11.1. The User may request for termination of the UPI Facility anytime by giving a prior written notice of at least 15 days to ICICI Bank. The User will remain responsible for all the transactions made through the UPI Facility until the time of such termination.
+
+11.2. ICICI Bank may withdraw or terminate the UPI Facility anytime either entirely or with reference to a specific UPI Facility without assigning any reasons whatsoever. ICICI Bank may suspend or terminate the UPI Facility without prior notice if the User has breached any of these Terms.
+
+11.3. ICICI Bank may suspend or terminate the UPI Facility anytime without assigning any reason whatsoever without any prior notice upon the request of WhatsApp.
+
+**12\. Miscellaneous**
+
+12.1. The laws of India shall govern these terms and conditions and/or the operations in the Account(s) maintained with ICICI Bank. Any legal action or proceedings arising out of these Terms shall be brought in the courts or tribunals at Mumbai in India.
+
+12.2. ICICI Bank has the absolute discretion to amend or supplement any of the Terms as stated herein at any time and will endeavour to give prior notice of 15 days for such changes wherever feasible. By using the new services, the User shall be deemed to have accepted the changed terms and conditions. Notices under these Terms may be given in writing by delivering them by hand, or on ICICI Bank's website www.icicibank.com, or by sending them by post to the last address given by the User and, in the case of ICICI Bank, to its corporate office address.
+
+12.3. Notice and instructions will be deemed served 7 days after posting or upon receipt in the case of hand delivery, cable, telex or facsimile.
