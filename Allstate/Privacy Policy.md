@@ -32,10 +32,6 @@
 *   Corporate Responsibility
 *   *   Sustainability Report
     *   Allstate Foundation
-    *   Give it Up For Good
-    *   Allstate Gives Back
-    *   STANDUP
-    *   Teen Memory Wall
     *   Purple Purse
     *   Global Code of Business Conduct
 
@@ -432,8 +428,6 @@ Please note that Allstate's "do not call" list is limited only to telephone soli
 **For Vermont residents:**  
 We won't share your personal information with Allstate companies for marketing purposes except as allowed by Vermont law.
 
-Share this page
-
 Top
 
 33780 Edit Location
@@ -442,7 +436,7 @@ Select a ProductAutoHomeRentersLifeCondoMotorcycleBoatATV/Rec. VehicleBusiness I
 
 Retrieve a saved quote
 
-© 2017 Allstate Insurance Company
+© 2018 Allstate Insurance Company
 
 Connect With Us
 
