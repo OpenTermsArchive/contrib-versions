@@ -4,13 +4,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Retrieve Old Blog
     *   by Gotasha
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Help Please
     *   by Dark\_Rose0120
-    *   1 week ago
+    *   2 weeks ago
     *   in Themes
     *   0 votes
     *   1 (last comment by angelic\_amy9 1 week ago)
@@ -28,7 +28,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Cant see blog, visit site /blog broken?
     *   by gothic012faust
-    *   1 week ago
+    *   2 weeks ago
     *   in Themes
     *   0 votes
     *   0
@@ -58,25 +58,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   retrieve my old blog posts
     *   by sarahtonin
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Posts
     *   by XxAlizexX
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Posts
     *   by XxAlizexX
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   retrieve old blog
     *   by tine\_ha
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
