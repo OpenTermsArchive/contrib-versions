@@ -1,4 +1,4 @@
-Privacy Policy Disqus Privacy Policy
+Disqus Privacy Policy Disqus Privacy Policy
 
 Disqus, Inc. ("Disqus," "we," or "us") provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use, disclosure and protection of information that apply to our Service (as defined below), as well as your choices regarding the collection and use of information.
 
@@ -98,7 +98,7 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 Contact
 
-If you have any questions about this Privacy Policy, please email us at privacy@disqus.com, or contact us by mail at 717 Market Street, Suite 700, San Francisco, CA 94103.
+If you have any questions about this Disqus Privacy Policy, please email us at privacy@disqus.com, or contact us by mail at 717 Market Street, Suite 700, San Francisco, CA 94103.
 
 Changes to Privacy Policy
 
@@ -112,7 +112,7 @@ Did you find this article helpful?
 
 Yes I found this article helpful No I did not find this article helpful
 
-Last Updated - Jan 18, 2018 01:18PM PST
+Last Updated - Feb 07, 2018 02:56PM PST
 
 Get Support:
 
