@@ -1,4 +1,4 @@
-<meta id="mtaJSCheck" content="0;/Anon/TestHarnesses/ShowJSErrorPage.aspx" http-equiv="refresh"></meta>. Skip Navigation Explore Allstate
+<meta id="mtaJSCheck" content="0;/Anon/Refer/ShowJSErrorPage.aspx" http-equiv="refresh"></meta>. Skip Navigation Explore Allstate
 
 *   Find An Agent
 *   Contact Us
