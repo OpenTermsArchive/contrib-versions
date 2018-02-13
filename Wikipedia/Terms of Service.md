@@ -1,4 +1,4 @@
-**In other languages** **English**  · العربية · asturianu · български · català · čeština · Deutsch · English · español · suomi · français · galego · עברית · Bahasa Indonesia · italiano · 日本語 · 한국어 · македонски · മലയാളം · Nederlands · polski · português do Brasil · русский · ไทย · Tiếng Việt
+**In other languages** **English**  · العربية · asturianu · български · বাংলা · català · čeština · Deutsch · English · español · suomi · français · galego · עברית · Bahasa Indonesia · italiano · 日本語 · 한국어 · македонски · മലയാളം · Nederlands · polski · português do Brasil · русский · ไทย · Tiếng Việt
 
   
 
