@@ -1,16 +1,10 @@
-Skip to toolbar
-
-*   Xanga
-
-*   Log In
-
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
 *   Retrieve Old Blog
     *   by ever\_for\_river
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -25,7 +19,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by angelic\_amy9 1 week ago)
+    *   1 (last comment by angelic\_amy9 2 weeks ago)
 *   The hotmail account associated with my Xanga was deleted
     *   by xxx\_soco\_xxx
     *   2 weeks ago
@@ -52,7 +46,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   I never shut down my old account but now i can not sign in???
     *   by victor\_\_kaman
-    *   4 weeks ago
+    *   1 month ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -156,4 +150,8 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
+
+*   Xanga
+
+*   Log In
