@@ -66,6 +66,8 @@ XING News Plus General Terms and Conditions of Use
 
 XING Worklife Plus General Terms and Conditions of Use
 
+Additional Terms and Conditions for the Use of XING Executive
+
 General Terms and Conditions
 
 Last updated: 4 January 2018
@@ -149,7 +151,7 @@ Dammtorstraße 30
 Germany  
 Phone: +49 40 419 131 0  
 Fax: +49 40 419 131 11  
-E-mail: widerruf@xing.com
+E-mail: withdraw@xing.com
 
 of your decision to withdraw from this contract by an unequivocal statement (e.g. a letter sent by post, fax, e-mail or via the contact form available on each of our webpages). You may use this model withdrawal form, but it is not obligatory.
 
