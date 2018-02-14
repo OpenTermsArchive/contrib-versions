@@ -2,9 +2,15 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Retrieve old blog
+    *   by lovewinnie
+    *   2 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Retrieve Old Blog
     *   by ever\_for\_river
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -16,7 +22,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Help Please
     *   by Dark\_Rose0120
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Themes
     *   0 votes
     *   1 (last comment by angelic\_amy9 2 weeks ago)
@@ -34,7 +40,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Cant see blog, visit site /blog broken?
     *   by gothic012faust
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Themes
     *   0 votes
     *   0
@@ -86,12 +92,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   blog recovery
-    *   \[Resolved\] by envy\_dis\_leo
-    *   3 years ago
-    *   in Themes
-    *   0 votes
-    *   2 (last comment by XxAlizexX 1 month ago)
 
 1 2 3 ... 187 Next
 
