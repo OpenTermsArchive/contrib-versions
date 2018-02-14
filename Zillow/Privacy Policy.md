@@ -86,7 +86,7 @@ Agent finder
     *   *   Agent advertising
         *   Agent resource center
         *   Join the Agent Directory
-        *   Access agent hub
+        *   Create a free agent account
     *   *   Real estate marketing guide
         *   Agent email scripts
         *   Listing flyer templates
