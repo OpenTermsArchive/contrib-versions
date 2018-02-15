@@ -4,13 +4,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Retrieve old blog
     *   by lovewinnie
-    *   2 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve Old Blog
     *   by ever\_for\_river
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -34,7 +34,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Can not open and read my preceding posts in blog
     *   by VivianChun717
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Getting Started
     *   0 votes
     *   0
