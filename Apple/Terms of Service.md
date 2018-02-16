@@ -120,6 +120,6 @@ Any feedback you provide at this site shall be deemed to be non-confidential. Ap
 
 _The information contained in this web site is subject to change without notice.  
 Copyright © 1997-2009 Apple Inc. All rights reserved.  
-Apple Inc., 1 Infinite Loop, Cupertino, CA 95014, USA._
+Apple Inc., One Apple Park Way, Cupertino, CA 95014, USA._
 
 Updated by The Apple Legal Team on Nov. 20, 2009
