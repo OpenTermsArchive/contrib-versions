@@ -60,7 +60,7 @@ x Cancel
     *   GMC
     *   Cadillac
     *   Holden
-    *   Autobaojun
+    *   Baojun
     *   Wuling
     *   Jiefang
     *   Maven
@@ -382,7 +382,7 @@ Last modified: January 5, 2018
     *   GMC
     *   Cadillac
     *   Holden
-    *   Autobaojun
+    *   Baojun
     *   Wuling
     *   Jiefang
     *   Maven
