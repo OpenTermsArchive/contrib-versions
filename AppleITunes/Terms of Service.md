@@ -194,7 +194,7 @@ DEFINITION OF APPLE
 
 Depending on your Home Country, “Apple” means:
 
-Apple Inc., located at 1 Infinite Loop, Cupertino, California, for users in North, Central, and South America (including Canada for use of iTunes Store and Apple Music), as well as United States territories and possessions. and French and British possessions in North America, South America, and the Caribbean;
+Apple Inc., located at One Apple Park Way, Cupertino, California, for users in North, Central, and South America (including Canada for use of iTunes Store and Apple Music), as well as United States territories and possessions. and French and British possessions in North America, South America, and the Caribbean;
 
 Apple Canada Inc., located at 120 Bremner Blvd., Suite 1600, Toronto ON M5J 0A8, Canada for users of App Store and iBooks Store in Canada or its territories and possessions;
 
