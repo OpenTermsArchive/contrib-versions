@@ -1,5 +1,3 @@
-Yahoo Privacy Center
-
 _Yahoo is now part of Oath, a digital and mobile media company with more than 50 brands globally, and a member of the Verizon family of companies. The way we handle your information hasn’t changed, so Yahoo’s Privacy Policy still governs when you are on a Yahoo site, using a Yahoo app or interacting with our products, services or technologies. We may share non-personal information with our family companies for purposes such as product improvements, research and analysis, and to help them provide you with more relevant experiences. We will notify you about significant changes in the way we treat your information by sending a notice to the primary email address specified in your Yahoo account or by placing a prominent notice on our site._
 
 Welcome to the Yahoo Privacy Center -- take a look around. You'll learn how Yahoo treats your personal information, along with ways to control your preferences and settings. As always, Yahoo is committed to gaining your trust.
