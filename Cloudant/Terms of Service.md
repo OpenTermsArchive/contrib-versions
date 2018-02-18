@@ -1,192 +1,61 @@
-Terms of Service IMPORTANT NOTE: These Terms of Service apply only to the Cloudant Shared offering. For customers who have dedicated Cloudant environments, the applicable terms and conditions for the IBM Cloudant Dedicated Cluster are located here. Acceptance of Terms Acceptance
+Date: August 15, 2015   Overview
 
-IBM provides IBM Cloudant data hosting services (the "Hosting Services") to you ("you" and "your" or "Subscriber") (Cloudant and Subscriber each a "Party" and collectively "Parties") subject to the following Terms of Service. In order to use the Hosting Services, you must first agree to these Terms of Service. You may not use the Hosting Services if you do not accept these Terms of Service. You can accept these Terms of Service by (i) clicking "I ACCEPT" where this option is made available to you in the user interface. or (ii) by accessing and using the Hosting Service, in which case you understand and agree that Cloudant will treat your use of the Hosting Services as acceptance of these Terms of Service from that point onwards.
+The following are the terms of an agreement between you and IBM. By accessing, or using this Web site, you acknowledge that you have read, understand, and agree to be bound by these terms and to comply with all applicable laws and regulations, including export and re-export control laws and regulations. If you do not agree to these terms, please do not use this Web site.
 
-Changes to these Terms of Service
+IBM may, without notice to you, at any time, revise these Terms of Use and any other information contained in this Web site. IBM may also make improvements or changes in the products, services, or programs described in this site at any time without notice.
 
-IBM may make changes to these Terms of Service from time to time. When these changes are made, Cloudant will make a revised version of these Terms of Service available at cloudant.com/terms. You understand and agree that if you use the Hosting Services after the date on which these Terms of Service have changed, IBM will treat your continued use as acceptance of the revised Terms of Service.
+General
 
-Persons Not Eligible to Use the Hosting Services
+This Web site contains proprietary notices and copyright information, the terms of which must be observed and followed. Please see the tab entitled “Copyright and trademark information” for related information.
 
-You may not use the Hosting Services and may not accept these Terms of Service if (i) you are not of legal age to form a binding contract with IBM, or (ii) you are a person barred from receiving the Hosting Services under the laws of the United States or other countries including the country in which you are resident or from which you use the Hosting Services.
+IBM grants you a non-exclusive, non-transferable, limited permission to access and display the Web pages within this site as a customer or potential customer of IBM provided you comply with these Terms of Use, and all copyright, trademark, and other proprietary notices remain intact. You may only use a crawler to crawl this Web site as permitted by this Web site’s robots.txt protocol, and IBM may block any crawlers in its sole discretion. The use authorized under this agreement is non-commercial in nature (e.g., you may not sell the content you access on or through this Web site.) All other use of this site is prohibited.
 
-Copy for Records
+Except for the limited permission in the preceding paragraph, IBM does not grant you any express or implied rights or licenses under any patents, trademarks, copyrights, or other proprietary or intellectual property rights. You may not mirror any of the content from this site on another Web site or in any other media. Any software and other materials that are made available for downloading, access, or other use from this site with their own license terms will be governed by such terms, conditions, and notices. Your failure to comply with such terms or any of the terms on this site will result in automatic termination of any rights granted to you, without prior notice, and you must immediately destroy all copies of downloaded materials in your possession, custody or control.
 
-Before you continue, you should print or save a local copy of these Terms of Service for your record.
+Disclaimer
 
-Definitions
+From time to time, this Web site may contain technical inaccuracies or typographical errors, and we do not warrant the accuracy of any posted information. Please confirm you are using the most up-to-date pages on this Web site, and confirm the accuracy and completeness of information before using it to make decisions relating to services, products, or other matters described in this Web site.
 
-"_Derived Data_" means all indices and calculations derived from the Primary Data and stored on the Hosting Platform.
+If any term in this Terms of Use is found by competent judicial authority to be unenforceable in any respect, the validity of the remainder of this Terms of Use will be unaffected, provided that such unenforceability does not materially affect the parties’ rights under this Terms of Use.
 
-"_Hosting Platform_" means Cloudant's data hosting platform currently known as "Cloudant," which includes Cloudant software and certain third-party software, and any updated versions of such platform made available by Cloudant.
+Forward-looking and cautionary statements
 
-"_Hosting Services_" means the data hosting services for Subscriber Data that Cloudant provides through the Hosting Platform.
+Except for historical information and discussions, statements set forth throughout this web site may constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 or other applicable laws. These statements involve a number of risks, uncertainties, and other factors that could cause actual results to differ materially, as discussed in the company's filings with the U.S. Securities and Exchange Commission. See the “SEC filings” tab under “Investor relations” on this Web site for copies of such filings.
 
-"_Primary Data_" means any and all information that Cloudant receives from Subscriber and hosts in connection with these Terms of Service as an application service provider in whatever form or medium, in connection with the Hosting Services.
+Confidential information
 
-"_Service Level_" means the standard set forth below by which Cloudant measures the level of service it provides in these Terms of Service.
+IBM does not want to receive confidential or proprietary information from you through our Web site. Please note that any information or material sent to IBM will be deemed NOT to be confidential. By sending IBM any information or material, you grant IBM an unrestricted, irrevocable license to copy, reproduce, publish, upload, post, transmit, distribute, publicly display, perform, modify, create derivative works from, and otherwise freely use, those materials or information. You also agree that IBM is free to use any ideas, concepts, know-how, or techniques that you send us for any purpose. However, we will not release your name or otherwise publicize the fact that you submitted materials or other information to us unless: (a) we obtain your permission to use your name. or (b) we first notify you that the materials or other information you submit to a particular part of this site will be published or otherwise used with your name on it. or (c) we are required to do so by law. Personally-identifiable information that you submit to IBM for the purpose of receiving products or services will be handled in accordance with our privacy policies. Please see the tab entitled “Privacy” for information regarding IBM’s privacy policies.
 
-"_Subscriber Data_" means the Primary Data and the Derived Data, collectively.
+U.S. government restricted rights
 
-License. Limits on Use Limited License
+IBM provides the software downloaded from this Web site to U.S. Government users with “RESTRICTED RIGHTS." Use, reproduction, or disclosure is subject to the restrictions set forth in IBM’s GSA ADP Schedule contract.
 
-Subject to the terms and conditions of these Terms of Service, IBM hereby grants to Subscriber a personal, non-exclusive, non-transferable, and non-sublicensable license for the Term (as defined below) to access and use the Hosting Platform.
+Global availability
 
-Limits on Use of Hosting Platform
+Information IBM publishes on the Internet may contain references or cross references to IBM products, programs and services that are not announced or available in your country. Such references do not imply that IBM intends to announce or make available such products, programs, or services in your country. Please consult your local IBM business contact for information regarding the products, programs, and services that may be available to you.
 
-Subscriber shall not and shall not assist others to:
+Business relationships
 
-*   use the Hosting Platform to operate a service bureau or otherwise support data storage, indexing, coding, and retention processes of third parties;
-  
-*   create or enable the creation of derivative works, modifications, or adaptations of the Hosting Platform;
-  
-*   attempt to recompile, reverse engineer, or disassemble the Hosting Platform;
-  
-*   distribute or disclose the Hosting Platform to third parties including, but not limited to, by means of display;
-  
-*   remove or modify any proprietary marking or restrictive legends placed on the Hosting Platform;
-  
-*   use any robot, spider, other automatic device or program or manual process to copy or reproduce the Hosting Platform;
-  
-*   interfere with the functionality of the Hosting Platform by (i) uploading, storing, emailing, posting, linking, transmitting, distributing, publishing or otherwise disseminating any material that contains software viruses, Trojan horses, worms, time bombs, or any other computer code, file or program designed to interrupt, destroy or limit the functionality of the Hosting Platform. (ii) disrupting the normal flow of the Hosting Platform, causing a screen to scroll faster than it can be usable or acting in a manner that limits other user's use of the Hosting Platform. (iii) otherwise modifying the Hosting Platform or interfering or attempting to interfere with the proper operation of the Hosting Platform or the use of the Hosting Platform by third parties, including through the use of any device, software or routine. or (iv) using the Hosting Platform to disrupt the servers or networks connected to the web servers with respect to the Hosting Platform;
-  
-*   upload, store, post, email, transmit, distribute, publish or otherwise disseminate on or through the Hosting Platform (i) any information that is unlawful, harmful, threatening, abusive, harassing, tortuous, defamatory, vulgar, obscene, libelous or racially or ethnically objectionable, or promotes such activity. (ii) any unauthorized advertising, junk mail, spam, chain letters, or any other form of solicitation. or (iii) any information or content that, to the best of Subscriber's knowledge, infringes any patent, trademark, trade secret, or other proprietary rights or any contractual rights of any Party. or
-  
-*   violate (intentionally or unintentionally) any applicable local, state, national, or international law or regulation, including, but not limited to, laws regarding the transmission through the Hosting Platform of technical data or software exported from the United States and/or the countries in which the Subscriber resides, and all local laws and regulations regarding online conduct and acceptable content.
+This Web site may provide links or references to non-IBM Web sites and resources. IBM makes no representations, warranties, or other commitments or endorsements whatsoever about any non-IBM Web sites or third-party resources (including any Lenovo Web site) that may be referenced, accessible from, or linked to any IBM site. In addition, IBM is not a party to or responsible for any transactions you may enter into with third parties, even if you learn of such parties (or use a link to such parties) from an IBM site. When you access a non-IBM Web site, even one that may contain the IBM-logo, please understand that it is independent from IBM, and that IBM does not control the content on that Web site. It is up to you to take precautions to protect yourself from viruses, worms, Trojan horses, and other potentially destructive programs, and to protect your information.
 
-Sign-In Name. Password. Unique Identifiers
+Linking to this site
 
-During the registration process, you will be asked to create an account, which includes a unique sign-in name ("_Sign-In Name_"), password ("_Password_"), and perhaps certain additional information that will assist in authenticating your identity when you log-in in the future ("_Unique Identifiers_"). When creating your account, you must provide true, accurate, current, and complete information. Each Sign-In Name and corresponding Password can be used by only one subscriber. You are solely responsible for the confidentiality and use of your Sign-In Name, Password, and Unique Identifiers, as well as for any use or misuse of the Hosting Services using one or more of them. You will promptly inform IBM of any need to deactivate a Password or Sign-In Name, or change any Unique Identifier. IBM reserves the right to delete or change your Password, Sign-In Name, or Unique Identifier at any time and for any reason. IBM will not be liable for any loss or damage caused by any unauthorized use of your account.
+IBM consents only to links to this Web site in which the link and the pages that are activated by the link do not: (a) create frames around any page on this Web site or use other techniques that alter in any way the visual presentation or appearance of any content within this site. (b) misrepresent your relationship with IBM. (c) imply that IBM approves or endorses you, your Web site, or your service or product offerings. and (d) present false or misleading impressions about IBM or otherwise damage the goodwill associated with the IBM name or trademarks. As a further condition to being permitted to link to this site, you agree that IBM may at any time, in its sole discretion, terminate permission to link to this Web site. In such event, you agree to immediately remove all links to this Web site and to cease any related use of IBM trademarks.
 
-Payment Terms
+DISCLAIMER OF WARRANTY
 
-Subscriber will pay IBM the fees set forth in the applicable Order Form with respect to the Hosting Services, the Consulting Services (if any), and the Support Services (if any) provided hereunder during the Term (the "Fees"). Subscriber will reimburse Cloudant for expenses incurred by IBM in connection with its performance of these Terms of Service to the extent expressly agreed and approved in advance by Subscriber in writing (the "Expenses"). Cloudant will invoice Subscriber for any agreed and pre-approved Expenses monthly in arrears. Except as otherwise expressly agreed and approved in advance in writing by Subscriber, IBM will be responsible for all costs and expenses incurred in connection with its performance of these Terms of Service. All amounts stated in these Terms of Service or on any invoice are in U.S. dollars, and all payments will be made in U.S. dollars. All properly invoiced amounts are due and payable within thirty (30) days of receipt. Subscriber will pay applicable sales, use, and other such taxes related to the services provided hereunder, (excluding any taxes imposed or based on IBM's income) or provide IBM evidence of exemption from such taxes. Overdue payments will accrue interest at an annual rate equal to two percent (2%) above the U.S. Prime Rate as published in the Wall Street Journal on the first day of the month in which the payment is due (or, if lower, the maximum allowable interest under applicable law) from due date until paid.
+USE OF THIS SITE IS AT YOUR SOLE RISK. ALL MATERIALS, INFORMATION, PRODUCTS, SOFTWARE, PROGRAMS, AND SERVICES ARE PROVIDED "AS IS," WITH NO WARRANTIES OR GUARANTEES WHATSOEVER. IBM EXPRESSLY DISCLAIMS TO THE FULLEST EXTENT PERMITTED BY LAW ALL EXPRESS, IMPLIED, STATUTORY, AND OTHER WARRANTIES, GUARANTEES, OR REPRESENTATIONS, INCLUDING, WITHOUT LIMITATION, THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT OF PROPRIETARY AND INTELLECTUAL PROPERTY RIGHTS. WITHOUT LIMITATION, IBM MAKES NO WARRANTY OR GUARANTEE THAT THIS WEB SITE WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE.
 
-Ownership Hosting Platform
+YOU UNDERSTAND AND AGREE THAT IF YOU DOWNLOAD OR OTHERWISE OBTAIN MATERIALS, INFORMATION, PRODUCTS, SOFTWARE, PROGRAMS, OR SERVICES FROM THIS WEB SITE, YOU DO SO AT YOUR OWN DISCRETION AND RISK AND THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGES THAT MAY RESULT, INCLUDING LOSS OF DATA OR DAMAGE TO YOUR COMPUTER SYSTEM. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF WARRANTIES, SO THE ABOVE EXCLUSIONS MAY NOT APPLY TO YOU.
 
-The Hosting Platform and any and all system-level intellectual property developed by IBM in the course of providing the Hosting Services hereunder (collectively, the "_Hosting Platform IP_") are the exclusive and confidential property of IBM, or the third parties from whom Cloudant has secured the right to use materials embedded or used in the Hosting Platform IP. Cloudant and such third parties shall retain all right and title, to the extent of their respective interests, to all proprietary rights in the Hosting Platform IP, and any other intellectual property owned or otherwise provided by IBM, including materials provided under attached Statements of Work ("SOWs"), if any. Subscriber shall have no right to use the Hosting Platform IP for any purpose other than in connection with utilizing the Hosting Services as set forth herein.
+LIMITATION OF LIABILITY
 
-Subscriber Data
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL IBM BE LIABLE TO ANY PARTY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES OF ANY TYPE WHATSOEVER RELATED TO OR ARISING FROM THIS WEB SITE OR ANY USE OF THIS WEB SITE, OR OF ANY SITE OR RESOURCE LINKED TO, REFERENCED, OR ACCESSED THROUGH THIS WEB SITE, OR FOR THE USE OR DOWNLOADING OF, OR ACCESS TO, ANY MATERIALS, INFORMATION, PRODUCTS, OR SERVICES, INCLUDING, WITHOUT LIMITATION, ANY LOST PROFITS, BUSINESS INTERRUPTION, LOST SAVINGS OR LOSS OF PROGRAMS OR OTHER DATA, EVEN IF IBM IS EXPRESSLY ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THIS EXCLUSION AND WAIVER OF LIABILITY APPLIES TO ALL CAUSES OF ACTION, WHETHER BASED ON CONTRACT, WARRANTY, TORT, OR ANY OTHER LEGAL THEORIES.
 
-All Subscriber Data and any and all design documents (e.g., analysis algorithms) furnished by Subscriber in whatever form (collectively, the "_Subscriber IP_") are and shall remain the exclusive and confidential property of the Subscriber or of those third parties designated by Subscriber as having an interest therein. Subscriber and such third parties shall retain all right and title (including, without limitation, all proprietary rights), to the extent of their respective interests, in and to the Subscriber IP. IBM shall have no right to copy, transfer, sell, disclose, license, alter, or otherwise use the Subscriber IP for any purpose, except pursuant to the terms set forth herein in connection with the Hosting Services.
+Uses
 
-**Scheduled Maintenance**
-
-IBM will schedule maintenance to the Hosting Platform during non-peak usage hours. Any scheduled maintenance that may result in the Hosting Services being unavailable will be notified to Subscriber's technical contact no less than 1 business day before the commencement of the maintenance unless maintenance is being conducted due to an emergency.
-
-**Emergency Maintenance**
-
-IBM may temporarily limit or suspend the availability of all or part of the Hosting Platform if it is necessary for reasons of public safety, security, maintenance of the Hosting Services, interoperability of services, data protection, or to perform work that is necessary for operational or technical reasons. If emergency maintenance is required as defined in this Section then IBM will notify Subscriber's technical contact immediately upon commencement of the maintenance.
-
-Customer Support
-
-Customer receives standard support which includes best available support during IBM's standard business hours.
-
-Subscriber has the option, but not the obligation, to upgrade its standard customer support plan ("Support Services") to Gold Support, which shall be billed as set forth in the applicable Order Form.
-
-**Gold Support** offers twenty-four (24) hour, seven (7) days a week service and support, which includes: less than four (4) hour response to email tickets. Gold plan also includes two (2) hours a month of Integration Consulting Services.
-
-Confidential Information
-
-For purposes of these Terms of Service, Confidential Information shall mean any confidential or other proprietary information that is disclosed by or on behalf of a Party (the "Disclosing Party") to the other Party (the "Receiving Party"), whether disclosed orally or in writing, whether disclosed before or after the Effective Date, and whether or not marked or otherwise designated as confidential, including, without limitation, the Subscriber Data, the Hosting Platform, information relating to the Disclosing Party's customers, potential customers, suppliers, financial and business information, technological information, specifications, business and product plans, the terms and conditions of these Terms of Service, and any other non-public information disclosed. Notwithstanding the foregoing, Confidential Information does not include information which: (i) is or becomes public knowledge without any action by, or involvement of, the Receiving Party. (ii) is publicly disclosed by the Receiving Party with the prior, written approval of the Disclosing Party. (iii) is independently developed by the Receiving Party without use of or access to Confidential Information. or (iv) is intentionally disclosed by the Disclosing Party to a third party without restriction on disclosure. Each Party agrees: (i) not to disclose, or permit any third party or entity access to, the Disclosing Party's Confidential Information (or any portion thereof) without prior written permission of the Disclosing Party. (ii) not to utilize, except as permitted under these Terms of Service or as required to perform any obligations under these Terms of Service, the Disclosing Party's Confidential Information (or any portion thereof). (iii) to ensure that its employees shall only be given access to the Disclosing Party's Confidential Information to the extent necessary for such employees to perform their duties under these Terms of Service. and (iv) to ensure that any of its employees who receive access to the Disclosing Party's Confidential Information are advised of the confidential and proprietary nature thereof and are prohibited from copying, utilizing or disclosing such Confidential Information, except as required to perform any obligations under these Terms of Service. In the event the Receiving Party becomes or may become legally compelled to disclose any of the Disclosing Party's Confidential Information (whether by deposition, interrogatory, request for documents, subpoena, civil investigative demand or other process or otherwise), the Receiving Party shall provide to the Disclosing Party prompt prior written notice of such requirement so that the Disclosing Party may seek a protective order or other appropriate remedy and/or waive compliance with the terms of these Terms of Service. In the event that such protective order or other remedy is not obtained, or that the Disclosing Party waives compliance with the provisions hereof, the Receiving Party shall furnish only that portion of the Confidential Information which it is advised by counsel is legally required to be disclosed, and shall use its reasonable efforts to insure that confidential treatment shall be afforded such disclosed portion of the Confidential Information.
-
-Data Protection
-
-The Hosting Services comply with Privacy Shield certification. Cloudant is included in IBM’s Privacy Shield certification when Client chooses to host content in the United States, and is subject to IBM’s Privacy Shield Privacy Policy, available here. You will not use the Hosting Platform or the Hosting Services in conjunction with personal data to the extent that doing so would violate applicable data protection laws or any regulations requiring security measures beyond those specified for the Hosting Platform. IBM will only process such personal data to the extent required to make the Hosting Platform available in accordance with this Agreement and you agree that any such processing is in accordance with your instructions. This Agreement describes the applicable security functions and features, including technical and organizational security measures, which IBM will implement. By using the Hosting Platform or Hosting Services, you accept that the security measures are appropriate for the personal data being processed. You agree that IBM may use subcontractors worldwide, including other IBM companies, to provide the Hosting Platform or Hosting Services. IBM shall reasonably cooperate with you in its fulfilment of any legal requirement, including providing you with access to the personal data. You agree that IBM may process the Subscriber Data, including any personal data, across country borders to IBM in the United States. If IBM changes the way it processes or secures personal data and such change causes you to be noncompliant with applicable data protection laws, you may terminate the affected Hosting Platform or Hosting Service within 30 days of IBM's notification of the change.
-
-Term and Termination Term
-
-The term of the Hosting Services (the "_Term_") will commence upon your acceptance of these Terms of Service and will continue for the term specified in the applicable Order Form unless terminated as set forth in the following section.
-
-Termination
-
-IBM reserves the right, in its sole discretion, to restrict, suspend, or terminate these Terms of Service and your access to all or any part of the Hosting Services, at any time and for any reason (or no reason) without liability with thirty (30) days prior notice.
-
-This agreement shall remain in effect for the Initial Term set forth on the Order Form and shall automatically renew for additional one year terms. Subscriber may terminate service at any time upon thirty (30) days written notice after the Initial Term. Upon termination, Subscriber will liable for all charges incurred before termination.
-
-Effect of Termination
-
-At the end of the Term and upon your written request (which may be made by email), IBM shall: (i) archive and export to Subscriber in an open format all Primary Data from the Hosting Platform. and (ii) to the extent technically feasible, use commercially reasonable efforts to export to Subscriber any Derived Data in an open format. provided, however, that Subscriber shall pay for any bandwidth costs associated with any such archiving and/or exporting listed under subparagraphs of the "Subscriber Warranties" section.
-
-Survival
-
-The following provisions shall survive any termination of the Hosting Services: "_Ownership_". "_Effect of Termination_". "_Representations and Warranties_". "_Correction of Errors. Limitation of Liability_". "_Indemnification_". "_Miscellaneous Provisions_". and this "_Survival_" section.
-
-Representations and Warranties Power and Authority
-
-Each Party represents and warrants that it has the full right, power and authority to enter into these Terms of Service and to discharge its obligations hereunder.
-
-Subscriber Warranties
-
-Subscriber represents, warrants, and covenants that:
-
-*   it shall not interfere with or attempt to interrupt the proper operation of the Hosting Platform through the use of any virus, device, software or routine, or access or attempt to gain access to any non-Subscriber data, files, or passwords related to the Hosting Platform through hacking, password mining, or any other improper means. and
-  
-*   it is the owner of all Subscriber Data or has full authority to have the Subscriber Data uploaded onto and maintained on the Hosting Platform.
-
-Warranties
-
-Hosting Services are designed to be available 24/7 subject to maintenance. IBM warrants it will provide the Hosting Services, Consulting Services and Support Services using commercially reasonable care and skill and subject to the current descriptions for such services in these Terms of Service or an Order Form.
-
-No Other Warranties
-
-YOU EXPRESSLY UNDERSTAND AND AGREE THAT YOUR USE OF THE HOSTING SERVICES IS AT YOUR SOLE RISK AND THAT THE HOSTING SERVICES ARE PROVIDED "AS IS" AND "AS AVAILABLE" AND THAT THE OPERATION OF THE HOSTING PLATFORM MAY NOT BE UNINTERRUPTED OR ERROR-FREE. EXCEPT AS EXPRESSLY SET FORTH IN SECTION "_WARRANTIES_", IBM MAKES NO WARRANTIES IN CONNECTION WITH THE HOSTING SERVICES OR OTHERWISE WITH RESPECT TO THESE TERMS OF SERVICE AND HEREBY DISCLAIMS ANY AND ALL IMPLIED OR STATUTORY WARRANTIES, INCLUDING ALL IMPLIED WARRANTIES OF TITLE, MERCHANTABILITY, NONINFRINGEMENT, FITNESS FOR A PARTICULAR PURPOSE, ERROR-FREE OR UNINTERRUPTED OPERATION AND ANY WARRANTIES ARISING FROM A COURSE OF DEALING OR USAGE OF TRADE. TO THE EXTENT THAT IBM MAY NOT AS A MATTER OF APPLICABLE LAW DISCLAIM ANY IMPLIED WARRANTY, THE SCOPE AND DURATION OF SUCH WARRANTY WILL BE THE MINIMUM PERMITTED UNDER SUCH LAW.
-
-Correction of Errors. Limitation of Liability Correction of Errors
-
-In the event of a material error or omission by IBM related to the provision of the Hosting Services or cessation in the provision of the Hosting Services, Subscriber's sole remedy shall be to have IBM use commercially reasonable efforts to correct such error, omission, or cessation. Subscriber shall advise IBM in writing of such error, omission, or cessation reasonably promptly after discovery thereof by Subscriber.
-
-Limitation of Liability
-
-*   YOU EXPRESSLY UNDERSTAND AND AGREE THAT IBM, ITS SUBSIDIARIES, AFFILIATES AND PARENT, SHALL NOT BE LIABLE TO YOU (NOR TO ANY PERSON CLAIMING RIGHTS DERIVED FROM YOU) FOR:
-*   ANY CONSEQUENTIAL, PUNITIVE, EXEMPLARY OR INDIRECT DAMAGES OF ANY KIND (OR FOR LOST REVENUES OR PROFITS, LOSS OF USE, LOSS OF, OR DAMAGE TO, DATA, OR LOSS OF GOODWILL OR REPUTATION) WHETHER BASED ON CONTRACT, TORT OR OTHERWISE (INCLUDING NEGLIGENCE AND STRICT LIABILITY) ARISING FROM OR RELATING TO THE HOSTING SERVICES OR OTHERWISE ARISING FROM OR RELATING TO THESE TERMS OF SERVICE OR THE SUBJECT MATTER HEREOF, REGARDLESS OF WHETHER IBM WAS ADVISED, HAD OTHER REASON TO KNOW, OR IN FACT KNEW OF THE POSSIBILITY THEREOF. OR
-*   ANY LOSS OR DAMAGE WHICH MAY BE INCURRED BY YOU, INCLUDING BUT NOT LIMITED TO LOSS OR DAMAGE AS A RESULT OF:
-
-*   ANY CHANGES WHICH IBM MAY MAKE TO THE HOSTING SERVICES, OR FOR ANY PERMANENT OR TEMPORARY CESSATION IN THE PROVISION OF THE HOSTING SERVICES (OR ANY FEATURES WITHIN THE HOSTING SERVICES);
-*   THE DELETION OF, CORRUPTION OF, OR FAILURE TO STORE, ANY SUBSCRIBER DATA.
-*   YOUR FAILURE TO PROVIDE IBM WITH ACCURATE ACCOUNT INFORMATION. OR
-*   YOUR FAILURE TO KEEP YOUR PASSWORD OR ACCOUNT DETAILS SECURE AND CONFIDENTIAL.
-
-  
-
-IN NO EVENT SHALL IBM'S LIABILITY ARISING FROM OR RELATING TO THE HOSTING SERVICES OR OTHERWISE ARISING UNDER THESE TERMS OF SERVICE, REGARDLESS OF THE CAUSE OF ACTION (WHETHER IN CONTRACT, TORT, BREACH OF WARRANTY, INDEMNITY OR OTHERWISE), EXCEED THE AGGREGATE AMOUNT OF THE FEES PAID TO IBM BY SUBSCRIBER UNDER THIS AGREEMENT IN THE TWELVE (12) MONTHS IMMEDIATELY PROCEEDING THE DATE THE CLAIM AROSE.
-
-Effect of Applicable Law
-
-TO THE EXTENT THE FOREGOING EXCLUSIONS OF LIABILITY ARE NOT PERMITTED UNDER APPLICABLE LAW, IBM 'S LIABILITY IN SUCH CASE WILL BE LIMITED TO THE GREATEST EXTENT PERMITTED BY LAW.
-
-Indemnification
-
-Subscriber will defend, indemnify, and hold harmless IBM and its affiliates, and each of their officers, directors, shareholders and employees from any and all claims, liabilities, costs and expenses (including reasonable attorney's fees and expert and consulting fees) in connection with (i) any third-party claims that any information and/or data Subscriber provides to IBM for hosting infringes, misappropriates, or violates any third-party patents, copyrights, trade secrets, trademark, contractual, or other intellectual property or proprietary rights, and (ii) any claims arising from or relating to Subscriber's breach or alleged breach of its representations and warranties hereunder.
-
-Miscellaneous Provisions Notices
-
-The parties may provide notice, including IBM's changes to these Terms of Service, by email, regular mail, or postings on the Hosting Services.
-
-Choice of Law
-
-These Terms of Service, and any disputes directly or indirectly arising from or relating to these Terms of Service, will be governed by and construed in accordance with the laws of the State of New York, without regard to principles of conflicts of law.
-
-Forum
-
-The Parties hereby consent and agree to the exclusive jurisdiction of the state and federal courts located in New York for all suits, actions or proceedings directly or indirectly arising out of or relating to these Terms of Service, and waive any and all objections to such courts, including but not limited to objections based on improper venue or inconvenient forum, and each Party hereby irrevocably submits to the jurisdiction of such courts in any suits, actions, or proceedings arising out of or relating to these Terms of Service.
-
-No Waiver
-
-The rights and remedies of IBM are cumulative and not alternative. No waiver of any rights is to be charged against IBM unless such waiver is in writing signed by an authorized representative of IBM. Neither the failure nor any delay by IBM in exercising any right, power, or privilege under these Terms of Service will operate as a waiver of such right, power, or privilege, and no single or partial exercise of any such right, power, or privilege will preclude any other or further exercise of such right, power, or privilege or the exercise of any other right, power, or privilege.
-
-Severability
-
-If any provision of these Terms of Service is held invalid or unenforceable by any court of competent jurisdiction, the other provisions of these Terms of Service will remain in full force and effect, and, if legally permitted, such offending provision will be replaced with an enforceable provision that as nearly as possible effects the Parties' intent.
-
-Force Majeure
-
-Nonperformance of either Party shall be excused to the extent that performance is rendered impossible by strike, fire, flood, governmental acts, orders or restrictions, or any other non-economic reason where failure to perform is beyond the control and not caused by the negligence of the non-performing Party (collectively, a "Force Majeure Event"), provided that such Party gives the other Party prompt written notice of the failure to perform and the reason therefor and uses commercially reasonable efforts to limit the resulting delay in its performance.
-
-Export
-
-Each Party will comply with all applicable export and import laws and associated embargo and economic sanction regulations, including those of the United States, that prohibit or restrict the export, re-export, or transfer of products, technology, services or data, directly or indirectly, to certain countries, or for certain end uses or end users.
-
-Entire Agreement
-
-These Terms of Service (including the Schedules hereto) contain the entire understanding of the Parties with respect to the subject matter hereof and supersede all prior agreements and commitments with respect thereto. There are no other oral or written understandings, terms, or conditions, and neither Party has relied upon any representation, express or implied, not contained in these Terms of Service.
+*   Copyright and trademark information
+*   Patent information
+*   Digital Millennium Copyright Act Notices
+*   Subpoena Policy
+*   Copyright Infringement
