@@ -1,6 +1,6 @@
-Posted and effective as of 4 June 2016
-
 SPIDEROAK TERMS OF SERVICE
+
+_Posted and effective as of 4 June 2016_
 
 Welcome to SpiderOak! We’re glad you’re here.
 
@@ -50,7 +50,7 @@ SpiderOak contains links to websites and services that we neither own nor contro
 
 Privacy
 
-Our Privacy Policy governs our collection and use of your personal information. Please review those provisions, too.
+Our Privacy Policy governs our collection and use of your personal information. Please review those provisions, too.
 
 Security
 
@@ -122,7 +122,7 @@ You must operate your SpiderOak Groups, Enterprise Backups and SpiderOak Semapho
 
 You can cancel your account any time you’d like by simply signing in and canceling your service. Our policy is not to refund subscription fees unless required by law.
 
-Disclaimers _SpiderOak is provided “as is” without any warranties, express or implied. SpiderOak disclaims all conditions and warranties, whether express, implied, statutory or otherwise, including warranties of merchantability, fitness for a particular use, and non-infringement._
+**Disclaimers** _SpiderOak is provided “as is” without any warranties, express or implied. SpiderOak disclaims all conditions and warranties, whether express, implied, statutory or otherwise, including warranties of merchantability, fitness for a particular use, and non-infringement._
 
 (Some states don’t allow these disclaimers, so this provision might not apply to you.)
 
@@ -167,7 +167,7 @@ For claims that aren’t subject to arbitration, we each agree to submit to the 
 
 Entire Agreement
 
-These Terms and our Privacy Policy constitute the entire agreement between you and SpiderOak. If any provision of these Terms is found to be unenforceable, the remaining provisions of these Terms will remain in full force and effect.
+These Terms and our Privacy Policy constitute the entire agreement between you and SpiderOak. If any provision of these Terms is found to be unenforceable, the remaining provisions of these Terms will remain in full force and effect.
 
 No Waiver
 
@@ -179,4 +179,4 @@ The Terms may be modified from time to time. The date of the most recent revisio
 
 Contact
 
-We welcome all questions, concerns, and feedback you might have about these terms. If you have suggestions for us, please contact our customer success team.
+We welcome all questions, concerns, and feedback you might have about these terms. If you have suggestions for us, please contact our customer success team.
