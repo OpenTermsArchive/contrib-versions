@@ -388,7 +388,7 @@ issue a warning.
 
 **11.8** These GTC and the contractual relationship shall be governed by German law, excluding international private law and the provisions of the United Nations Convention on Contracts for the International Sale of Goods that have been adopted by German law.
 
-**11.8** These GTC are available in English, German, French and Spanish. In the event of any contradiction between the different language versions of these GTC, the German version shall take precedence.
+**11.9** These GTC are available in English, German, French and Spanish. In the event of any contradiction between the different language versions of these GTC, the German version shall take precedence.
 
    
 B. Additional terms for using the events platform
