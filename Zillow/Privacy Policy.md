@@ -21,23 +21,19 @@ Advertise Buy
 
 Rent
 
-*   Rentals
+*   Search for rentals
     *   *   Apartments for rent
         *   Houses for rent
-        *   Pet friendly rentals
         *   All rental listings
         *   All rental buildings
-*   Rental Manager
+*   I'm a rental manager
     *   *   Sign in to see your listings
         *   List a rental (it's free)
-        *   Resources
-*   Renter resources
+        *   Resource center
+*   I'm a renter
     *   *   Renter Profile
         *   Rent affordability calculator
-        *   Rent vs. buy calculator
         *   Renters Guide
-        *   Rentals app
-        *   Rental advertising
 
 Sell
 
