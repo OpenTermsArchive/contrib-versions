@@ -1,4 +1,4 @@
-Microsoft Privacy StatementLast Updated: October 2017 What's new? Expand All Collapse AllPrint
+Microsoft Privacy StatementLast Updated: February 2018 What's new? Expand All Collapse AllPrint
 
 Your privacy is important to us. This privacy statement explains what personal data Microsoft collects from you, through our interactions with you and through our products, and how we use that data.
 
@@ -44,7 +44,7 @@ The data we collect depends on the context of your interactions with Microsoft, 
 
 **Device and Usage data**. We collect data about your device and how you and your device interact with Microsoft and our products. For example, we collect:
 
-*   _Product use data_. We collect data about the features you use, the items you purchase, and the web pages you visit. This data includes your voice and text search queries or commands to Bing, Cortana, and our chat bots. This also includes the settings you select and the software configurations your use most.
+*   _Product use data_. We collect data about the features you use, the items you purchase, and the web pages you visit. This data includes your voice and text search queries or commands to Bing, Cortana, and our chat bots. This also includes the settings you select and the software configurations you use most.
 *   _Device, connectivity and configuration data_. We collect data about your device and the network you use to connect to our products. It includes data about the operating systems and other software installed on your device, including product keys. It also includes IP address, device identifiers (such as the IMEI number for phones), regional and language settings.
 *   _Error reports and performance data_. We collect data about the performance of the products and any problems you experience with them. This data helps us to diagnose problems in the products you use, and to improve our products and provide solutions. Depending on your product and settings, error reports (sometimes called “crash dumps”) can include data such as the type or severity of the problem, details of the software or hardware related to an error, contents of files you were using when an error occurred, and data about other software on your device.
 *   _Troubleshooting and Help Data_. When you engage Microsoft for troubleshooting and help, we collect data about you and your hardware, software, and other details related to the incident. Such data includes contact or authentication data, the content of your chats and other communications with Microsoft, data about the condition of the machine and the application when the fault occurred and during diagnostics, and system and registry data about software installations and hardware configurations.
@@ -230,7 +230,9 @@ In addition to placing web beacons on our own websites, we sometimes work with o
 
 Finally, Microsoft products often contain web beacons or similar technologies from third-party analytics providers, which help us compile aggregated statistics about the effectiveness of our promotional campaigns or other operations. These technologies enable the analytics providers to set or read their own cookies or other identifiers on your device, through which they can collect information about your online activities across applications, websites or other products. However, we prohibit these analytics providers from using web beacons on our sites to collect or access information that directly identifies you (such as your name or email address). You can opt out of data collection or use by some of these analytics providers by clicking the following links:
 
+*   Adjust: www.adjust.com/opt-out
 *   AppsFlyer: www.appsflyer.com/optout
+*   Clicktale: www.clicktale.net/disable.html
 *   Flurry Analytics: https://aim.yahoo.com/aim/us/en/optout/
 *   Google Analytics: tools.google.com/dlpage/gaoptout (requires you to install a browser add-on)
 *   Kissmetrics: kissmetrics.com/user-privacy
@@ -536,6 +538,12 @@ Top of page Microsoft TranslatorMicrosoft Translator
 Microsoft Translator is a statistical machine translation system designed to automatically translate text and speech between numerous supported languages. Translator may be incorporated into other Microsoft products and services, such as Office, SharePoint, and Bing. Third parties may also incorporate Translator into their own services and offerings. For information on the privacy practices of third-parties’ services and offerings, consult their privacy statements.
 
 Microsoft Translator collects and uses the text, image, and speech data you submit, as well as information about how you are accessing the Translator service, such as operating system version, browser type and language. We use your data to provide the Translator service, which includes improving and personalizing your experiences. Microsoft has implemented business and technical measures designed to help de-identify the data Translator retains. For example, we randomly sample text to improve Translator and delete strings of numbers that may include personal identifiable information that we detect in the sample.
+
+If you subscribe to the Microsoft Translator API with a monthly volume of 250 million characters or more, you may request to have logging turned off for the text you submit to Microsoft Translator by submitting a request using the process detailed at https://www.microsoft.com/en-us/translator/notrace.aspx.
+
+Microsoft Translator is a statistical machine translation system designed to automatically translate text and speech between numerous supported languages. Translator may be incorporated into other Microsoft products and services, such as Office, SharePoint, and Bing. Third parties may also incorporate Translator into their own services and offerings. For information on the privacy practices of third-parties’ services and offerings, consult their privacy statements.
+
+Microsoft Translator collects and uses the text, image, and speech data you submit, as well as information about how you are accessing the Translator service, such as operating system version, browser type and language. We use your data to provide the Translator service, which includes improving and personalizing your experiences. Microsoft has implemented business and technical measures designed to help de-identify the data Translator retains. For example, we randomly sample text to improve Translator and mask or delete strings of numbers and other personally identifiable information we detect in the sample.
 
 If you subscribe to the Microsoft Translator API with a monthly volume of 250 million characters or more, you may request to have logging turned off for the text you submit to Microsoft Translator by submitting a request using the process detailed at https://www.microsoft.com/en-us/translator/notrace.aspx.
 
@@ -909,7 +917,7 @@ The data we collect depends on the context of your interactions with Microsoft, 
 
 **Device and Usage data**. We collect data about your device and how you and your device interact with Microsoft and our products. For example, we collect:
 
-*   _Product use data_. We collect data about the features you use, the items you purchase, and the web pages you visit. This data includes your voice and text search queries or commands to Bing, Cortana, and our chat bots. This also includes the settings you select and the software configurations your use most.
+*   _Product use data_. We collect data about the features you use, the items you purchase, and the web pages you visit. This data includes your voice and text search queries or commands to Bing, Cortana, and our chat bots. This also includes the settings you select and the software configurations you use most.
 *   _Device, connectivity and configuration data_. We collect data about your device and the network you use to connect to our products. It includes data about the operating systems and other software installed on your device, including product keys. It also includes IP address, device identifiers (such as the IMEI number for phones), regional and language settings.
 *   _Error reports and performance data_. We collect data about the performance of the products and any problems you experience with them. This data helps us to diagnose problems in the products you use, and to improve our products and provide solutions. Depending on your product and settings, error reports (sometimes called “crash dumps”) can include data such as the type or severity of the problem, details of the software or hardware related to an error, contents of files you were using when an error occurred, and data about other software on your device.
 *   _Troubleshooting and Help Data_. When you engage Microsoft for troubleshooting and help, we collect data about you and your hardware, software, and other details related to the incident. Such data includes contact or authentication data, the content of your chats and other communications with Microsoft, data about the condition of the machine and the application when the fault occurred and during diagnostics, and system and registry data about software installations and hardware configurations.
@@ -1103,7 +1111,9 @@ In addition to placing web beacons on our own websites, we sometimes work with o
 
 Finally, Microsoft products often contain web beacons or similar technologies from third-party analytics providers, which help us compile aggregated statistics about the effectiveness of our promotional campaigns or other operations. These technologies enable the analytics providers to set or read their own cookies or other identifiers on your device, through which they can collect information about your online activities across applications, websites or other products. However, we prohibit these analytics providers from using web beacons on our sites to collect or access information that directly identifies you (such as your name or email address). You can opt out of data collection or use by some of these analytics providers by clicking the following links:
 
+*   Adjust: www.adjust.com/opt-out
 *   AppsFlyer: www.appsflyer.com/optout
+*   Clicktale: www.clicktale.net/disable.html
 *   Flurry Analytics: https://aim.yahoo.com/aim/us/en/optout/
 *   Google Analytics: tools.google.com/dlpage/gaoptout (requires you to install a browser add-on)
 *   Kissmetrics: kissmetrics.com/user-privacy
@@ -1411,6 +1421,12 @@ Microsoft TranslatorMicrosoft TranslatormainMicrosoftTranslatormoduleSummary
 Microsoft Translator is a statistical machine translation system designed to automatically translate text and speech between numerous supported languages. Translator may be incorporated into other Microsoft products and services, such as Office, SharePoint, and Bing. Third parties may also incorporate Translator into their own services and offerings. For information on the privacy practices of third-parties’ services and offerings, consult their privacy statements.
 
 Microsoft Translator collects and uses the text, image, and speech data you submit, as well as information about how you are accessing the Translator service, such as operating system version, browser type and language. We use your data to provide the Translator service, which includes improving and personalizing your experiences. Microsoft has implemented business and technical measures designed to help de-identify the data Translator retains. For example, we randomly sample text to improve Translator and delete strings of numbers that may include personal identifiable information that we detect in the sample.
+
+If you subscribe to the Microsoft Translator API with a monthly volume of 250 million characters or more, you may request to have logging turned off for the text you submit to Microsoft Translator by submitting a request using the process detailed at https://www.microsoft.com/en-us/translator/notrace.aspx.
+
+Microsoft Translator is a statistical machine translation system designed to automatically translate text and speech between numerous supported languages. Translator may be incorporated into other Microsoft products and services, such as Office, SharePoint, and Bing. Third parties may also incorporate Translator into their own services and offerings. For information on the privacy practices of third-parties’ services and offerings, consult their privacy statements.
+
+Microsoft Translator collects and uses the text, image, and speech data you submit, as well as information about how you are accessing the Translator service, such as operating system version, browser type and language. We use your data to provide the Translator service, which includes improving and personalizing your experiences. Microsoft has implemented business and technical measures designed to help de-identify the data Translator retains. For example, we randomly sample text to improve Translator and mask or delete strings of numbers and other personally identifiable information we detect in the sample.
 
 If you subscribe to the Microsoft Translator API with a monthly volume of 250 million characters or more, you may request to have logging turned off for the text you submit to Microsoft Translator by submitting a request using the process detailed at https://www.microsoft.com/en-us/translator/notrace.aspx.
 
