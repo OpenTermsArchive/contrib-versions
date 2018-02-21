@@ -66,7 +66,7 @@ Please be aware that you are legally responsible for all of your contributions, 
 
 For clarity, other organizations, such as local Wikimedia chapters and associations, that may share in the same mission are nevertheless legally independent and separate from the Wikimedia Foundation and have no responsibility for the operations of the website or its content.
 
-Contents \[hide\] 
+Contents
 
 *   1 Our Terms of Use
 *   2 Overview
