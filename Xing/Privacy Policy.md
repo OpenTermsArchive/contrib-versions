@@ -163,6 +163,19 @@ If an application involves personal data being processed in countries outside of
 
 XING provides its members with services allowing them to process their own data and/or that of third parties. If you activate such a XING application or service, you are responsible for the personal data processed on your behalf. XING provides you with features for managing and, in particular, for deleting data that XING processes on your behalf. You have the right and option to terminate personal data processing on your behalf at any time.
 
+We enable XING members to grow their network on XING and to invite non-members to join XING. XING members who would like to grow their personal network and who already have data pertaining to other persons can upload said data to XING. Use of the address book upload feature involves processing of the following data which can be extracted from another person’s vCard:
+
+*   First and last name
+*   E-mail addresses
+*   Phone numbers
+*   Job title and company name
+*   Location: City and country
+*   Twitter and Facebook handle
+
+Third parties are unable to access the uploaded data. We save this data until the respective XING member deletes it or until the user account is deleted.
+
+Non-members invited to join XING can click on an opt-out link provided in the invitation e-mail to stop sending further invitations or invitation reminders to the respective e-mail address.
+
 **8\. Invitations**
 
 As a XING Member you may invite others to join XING. XING shall process personal data collected in the course of the invitation on behalf of the XING member solely for expanding their network, e.g. through contact suggestions, and shall not use it for any other purposes.
