@@ -96,10 +96,12 @@ Sign In  Hi, {username}
 *   Templates
 *   Explore
 *   Features
+*   Website Builder
 *   Wix Code
 *   My Sites
 *   Premium Plans
 *   Wix SEO
+*   Logo Maker
 *   Online Store
 *   App Market
 *   Domains
@@ -124,7 +126,6 @@ Sign In  Hi, {username}
 *   Wix Blog
 *   Wix Stories
 *   Wix Arena
-*   Wix Lounge
 *   Wix Meetups
 *   Wix Ambassadors
 *   Facebook
