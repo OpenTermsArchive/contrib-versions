@@ -4,25 +4,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Can't get my old posts
     *   by FectedExosus
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can't get my old posts
     *   by FectedExosus
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can't get my old posts
     *   by FectedExosus
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve Old Blog Posts
     *   by pointe2087
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -58,7 +58,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by angelic\_amy9 3 weeks ago)
 *   The hotmail account associated with my Xanga was deleted
     *   by xxx\_soco\_xxx
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
