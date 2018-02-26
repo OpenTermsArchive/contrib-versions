@@ -4,25 +4,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Can't get my old posts
     *   by FectedExosus
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can't get my old posts
     *   by FectedExosus
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can't get my old posts
     *   by FectedExosus
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve Old Blog Posts
     *   by pointe2087
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
