@@ -2,32 +2,44 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Retrieve old blog
+    *   by nharmny
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by miss\_pepper1112 10 hours ago)
+*   retrieve my old blog posts
+    *   by sarahtonin
+    *   1 month ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by hola\_gatito 10 hours ago)
 *   Can't get my old posts
     *   by FectedExosus
-    *   5 days ago
+    *   6 days ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by hola\_gatito 10 hours ago)
+*   Open letter to Xanga
+    *   by miss\_pepper1112
+    *   10 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by hola\_gatito 10 hours ago)
+*   Can't get my old posts
+    *   by FectedExosus
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can't get my old posts
     *   by FectedExosus
-    *   5 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Can't get my old posts
-    *   by FectedExosus
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve Old Blog Posts
     *   by pointe2087
-    *   1 week ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Retrieve old blog
-    *   by nharmny
     *   1 week ago
     *   in Data Migration
     *   0 votes
@@ -55,10 +67,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by angelic\_amy9 3 weeks ago)
+    *   1 (last comment by angelic\_amy9 4 weeks ago)
 *   The hotmail account associated with my Xanga was deleted
     *   by xxx\_soco\_xxx
-    *   4 weeks ago
+    *   1 month ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -76,18 +88,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Old Blog Post
     *   by yaminobakura
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   I never shut down my old account but now i can not sign in???
-    *   by victor\_\_kaman
-    *   1 month ago
-    *   in Passwords &. Sign-In
-    *   0 votes
-    *   0
-*   Retrieve old blog
-    *   by abstract\_hunnayee
     *   1 month ago
     *   in Data Migration
     *   0 votes
