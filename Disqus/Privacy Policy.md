@@ -31,7 +31,19 @@ Cookies and other Technology.
 
 Targeted Ads and Analytics Services.
 
-We may, and we may engage third parties who may, place advertisements on our behalf onto other websites, perform tracking and reporting functions for those sites and our advertisements, and place third party advertisements on the Service. Information that may be collected includes, but may not be limited to, information about the websites you've viewed and advertisements you've interacted with, along with your IP address, date and time of interaction, your ISP and the browser you use to visit or use the Service. Such information may be combined with Personally Identifiable Information like your name or email address or other information that could be used to identify you, which may be used, among other things, to deliver advertising, including by email, from us and from other companies targeted to your preferences and interests derived from your interaction with the Service, Partner Sites or other third party websites, and to better understand your interactions with the Service, Partner Sites and other websites and advertisements observed by these advertising companies. To learn more about this type of targeted advertising (also called interest-based advertising), analytics services and your choices, including how to opt-out of some third party ads, advertising networks and ad servers, you may wish to visit the DAA Consumer Opt-Out Page , NAI Consumer Opt-Out Page and Google's information page.
+We may, and we may engage third parties who may, collect information, by using technologies such as cookies and web beacons, across various websites and devices, for the purpose of delivering more relevant advertisements on our behalf, or on the behalf of third parties, to you on the Service or third party websites, and to perform tracking and reporting functions for our Service, Partner Sites, or other third party websites, and the advertisements you view or click on. Information that may be collected includes, but may not be limited to, information about the websites you’ve viewed and advertisements you’ve interacted with, your IP address, date and time of interaction, your ISP and browser type, device ID, unique cookie recognized on your browser (“Cookie ID”), and the information associated with such Cookie ID. We, or third parties we engage, may combine this with Personally Identifiable Information like your name or email address or other information that could be used to identify you, which may be used, among other things, to deliver advertising, including by email, targeted to your preferences and interests derived from your interaction with the Service, Partner Sites or other third party websites, and to better understand your interactions with the Service, Partner Sites and other websites. To learn more about this type of targeted advertising (also called interest-based advertising), analytics services and your choices, including how to opt-out of some interest based advertising, advertising networks and ad servers, please visit https://www.youronlinechoices.com or http://youronlinechoices.eu/, DAA Consumer Opt-Out Page, NAI Consumer Opt-Out Page and Google’s information page.
+
+You can also refuse cookies via the settings of your browser as follows:
+
+For Edge, click here
+
+For Internet Explorer, click here
+
+For Mozilla Firefox, click here
+
+For Google Chrome, click here
+
+For Safari, click here
 
 How We May Use the Information We Collect.
 
@@ -112,7 +124,7 @@ Did you find this article helpful?
 
 Yes I found this article helpful No I did not find this article helpful
 
-Last Updated - Feb 07, 2018 02:56PM PST
+Last Updated - Feb 26, 2018 10:55AM PST
 
 Get Support:
 
