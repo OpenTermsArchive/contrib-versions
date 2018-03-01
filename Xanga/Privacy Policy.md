@@ -7,25 +7,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by miss\_pepper1112 1 day ago)
+    *   1 (last comment by miss\_pepper1112 2 days ago)
 *   retrieve my old blog posts
     *   by sarahtonin
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by hola\_gatito 1 day ago)
+    *   2 (last comment by hola\_gatito 2 days ago)
 *   Can't get my old posts
     *   by FectedExosus
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by hola\_gatito 1 day ago)
+    *   2 (last comment by hola\_gatito 2 days ago)
 *   Open letter to Xanga
     *   by miss\_pepper1112
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by hola\_gatito 1 day ago)
+    *   1 (last comment by hola\_gatito 2 days ago)
 *   Can't get my old posts
     *   by FectedExosus
     *   1 week ago
@@ -67,7 +67,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by angelic\_amy9 4 weeks ago)
+    *   1 (last comment by angelic\_amy9 1 month ago)
 *   The hotmail account associated with my Xanga was deleted
     *   by xxx\_soco\_xxx
     *   1 month ago
