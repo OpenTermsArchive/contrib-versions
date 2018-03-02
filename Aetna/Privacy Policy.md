@@ -172,7 +172,6 @@ Producers Working with Us Working with Us
 *   Become Appointed with Aetna
 *   Producer World Tools &. Resources
 *   Working with Aetna
-*   Health Insurance Exchange for Producers
 
 Plans &. Services Plans &. Services
 
