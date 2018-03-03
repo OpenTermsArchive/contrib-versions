@@ -199,8 +199,6 @@ By using Clickpath you can see which Profiles of other XING Members you have vis
 
 Furthermore, Clickpath registers which XING Members have visited your XING "About me" page which you can set up within the framework of XING Services, and which XING Members have visited the website of one of your previous companies.
 
-Any information registered by Clickpath is deleted by XING automatically within three (3) months after its registration.
-
 **10\. Search Functions**
 
 The XING Services offer various possibilities to search for particular XING Members, including a Power Search feature and a Search Agent feature. These various search functions may assist you, for example, in finding other XING Members with similar interests. The search functions can also help you to initiate contact with other XING Members who offer exactly what you are looking for. Thus, you can find the contacts you need - and systematically expand your personal network.
