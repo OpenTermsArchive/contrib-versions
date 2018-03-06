@@ -4,7 +4,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Am I able to retrieve my old posts?
     *   by V\_banners
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -13,25 +13,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by miss\_pepper1112 6 days ago)
+    *   1 (last comment by miss\_pepper1112 1 week ago)
 *   retrieve my old blog posts
     *   by sarahtonin
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by hola\_gatito 6 days ago)
+    *   2 (last comment by hola\_gatito 1 week ago)
 *   Can't get my old posts
     *   by FectedExosus
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by hola\_gatito 6 days ago)
+    *   2 (last comment by hola\_gatito 1 week ago)
 *   Open letter to Xanga
     *   by miss\_pepper1112
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by hola\_gatito 6 days ago)
+    *   1 (last comment by hola\_gatito 1 week ago)
 *   Can't get my old posts
     *   by FectedExosus
     *   1 week ago
