@@ -4,7 +4,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Am I able to retrieve my old posts?
     *   by V\_banners
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
