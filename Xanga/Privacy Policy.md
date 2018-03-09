@@ -1,16 +1,28 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Custom HTML
+    *   by matrix01fan
+    *   55 minutes ago
+    *   in Adding &. Editing Entries
+    *   0 votes
+    *   0
 *   Am I able to retrieve my old posts?
     *   by V\_banners
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve old blog
     *   by nharmny
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by miss\_pepper1112 1 week ago)
@@ -58,7 +70,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Retrieve Old Blog
     *   by ever\_for\_river
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -84,12 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by VivianChun717
     *   1 month ago
     *   in Getting Started
-    *   0 votes
-    *   0
-*   Cant see blog, visit site /blog broken?
-    *   by gothic012faust
-    *   1 month ago
-    *   in Themes
     *   0 votes
     *   0
 
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
