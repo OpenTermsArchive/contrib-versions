@@ -50,7 +50,7 @@ SpiderOak contains links to websites and services that we neither own nor contro
 
 Privacy
 
-Our Privacy Policy governs our collection and use of your personal information. Please review those provisions, too.
+OurPrivacy Policy governs our collection and use of your personal information. Please review those provisions, too.
 
 Security
 
@@ -175,7 +175,7 @@ No waiver of any provision of these Terms shall be a further or continuing waive
 
 Modification
 
-The Terms may be modified from time to time. The date of the most recent revisions will always be at https://spideroak.com/policy/terms-of-use, and older versions will be archived at spiderok.com. If we make changes that we believe will substantially alter your rights, we will post the revisions 7 days before they take effect so you can review them. You’ll agree to accept any changes or revisions to the Terms by continuing to use SpiderOak.
+The Terms may be modified from time to time. The date of the most recent revisions will always be at https://spideroak.com/policy/terms-of-use, and older versions will be archived at spideroak.com. If we make changes that we believe will substantially alter your rights, we will post the revisions 7 days before they take effect so you can review them. You’ll agree to accept any changes or revisions to the Terms by continuing to use SpiderOak.
 
 Contact
 
