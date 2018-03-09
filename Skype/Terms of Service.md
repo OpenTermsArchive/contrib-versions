@@ -227,7 +227,7 @@ Top of pageMiscellaneousMiscellaneous
 
 16\. **Miscellaneous.** This section, and sections 1, 9 (for amounts incurred before the end of these Terms), 10, 11, 12, 13, 15, and those that by their terms apply after the Terms end will survive any termination or cancellation of these Terms. We may assign these Terms, in whole or in part, at any time without notice to you. You may not assign your rights or obligations under these Terms or transfer any rights to use the Services. This is the entire agreement between you and Microsoft for your use of the Services. It supersedes any prior agreements between you and Microsoft regarding your use of the Services. All parts of these Terms apply to the maximum extent permitted by relevant law. If a court or arbitrator holds that we can't enforce a part of these Terms as written, we may replace those terms with similar terms to the extent enforceable under the relevant law, but the rest of these Terms won't change. Section 15(i) says what happens if parts of section 15 (arbitration and class action waiver) are found to be illegal or unenforceable. Section 15(i) prevails over this section if inconsistent with it. Except for section 15 (arbitration and class action waiver) these Terms are solely for your and our benefit. they aren’t for the benefit of any other person, except for Microsoft’s successors and assigns.
 
-17\. **Export Laws.** You must comply with all domestic and international export laws and regulations that apply to the software and/or Services, which include restrictions on destinations, end users, and end use. For further information on geographic and export restrictions, visit http://go.microsoft.com/fwlink/?linkid=141397 and http://www.microsoft.com/exporting.
+17\. **Export Laws.** You must comply with all domestic and international export laws and regulations that apply to the software and/or Services, which include restrictions on destinations, end users, and end use. For further information on geographic and export restrictions, visit https://go.microsoft.com/fwlink/?linkid=868968 and http://www.microsoft.com/exporting.
 
 18\. **Unsolicited Ideas.** Microsoft does not consider or accept unsolicited proposals or ideas, including without limitation ideas for new products, technologies, promotions, product names, product feedback and product improvements (**"Unsolicited Feedback"**). If you send any Unsolicited Feedback to Microsoft through the Services or otherwise, you acknowledge and agree that Microsoft shall not be under any obligation of confidentiality with respect to the Unsolicited Feedback.
 
@@ -390,7 +390,6 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Paint 3D
 *   Picturesque Lock Screen
 *   Pix Lock
-*   Pocket Skills
 *   Presentation Translator
 *   Remix 3D
 *   Ruuh
@@ -651,7 +650,7 @@ Full textMiscellaneousMiscellaneous16\_17\_18\_miscellaneousSummary
 
 16\. **Miscellaneous.** This section, and sections 1, 9 (for amounts incurred before the end of these Terms), 10, 11, 12, 13, 15, and those that by their terms apply after the Terms end will survive any termination or cancellation of these Terms. We may assign these Terms, in whole or in part, at any time without notice to you. You may not assign your rights or obligations under these Terms or transfer any rights to use the Services. This is the entire agreement between you and Microsoft for your use of the Services. It supersedes any prior agreements between you and Microsoft regarding your use of the Services. All parts of these Terms apply to the maximum extent permitted by relevant law. If a court or arbitrator holds that we can't enforce a part of these Terms as written, we may replace those terms with similar terms to the extent enforceable under the relevant law, but the rest of these Terms won't change. Section 15(i) says what happens if parts of section 15 (arbitration and class action waiver) are found to be illegal or unenforceable. Section 15(i) prevails over this section if inconsistent with it. Except for section 15 (arbitration and class action waiver) these Terms are solely for your and our benefit. they aren’t for the benefit of any other person, except for Microsoft’s successors and assigns.
 
-17\. **Export Laws.** You must comply with all domestic and international export laws and regulations that apply to the software and/or Services, which include restrictions on destinations, end users, and end use. For further information on geographic and export restrictions, visit http://go.microsoft.com/fwlink/?linkid=141397 and http://www.microsoft.com/exporting.
+17\. **Export Laws.** You must comply with all domestic and international export laws and regulations that apply to the software and/or Services, which include restrictions on destinations, end users, and end use. For further information on geographic and export restrictions, visit https://go.microsoft.com/fwlink/?linkid=868968 and http://www.microsoft.com/exporting.
 
 18\. **Unsolicited Ideas.** Microsoft does not consider or accept unsolicited proposals or ideas, including without limitation ideas for new products, technologies, promotions, product names, product feedback and product improvements (**"Unsolicited Feedback"**). If you send any Unsolicited Feedback to Microsoft through the Services or otherwise, you acknowledge and agree that Microsoft shall not be under any obligation of confidentiality with respect to the Unsolicited Feedback.
 
@@ -814,7 +813,6 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Paint 3D
 *   Picturesque Lock Screen
 *   Pix Lock
-*   Pocket Skills
 *   Presentation Translator
 *   Remix 3D
 *   Ruuh
