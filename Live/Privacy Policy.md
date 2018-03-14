@@ -541,12 +541,6 @@ Microsoft Translator collects and uses the text, image, and speech data you subm
 
 If you subscribe to the Microsoft Translator API with a monthly volume of 250 million characters or more, you may request to have logging turned off for the text you submit to Microsoft Translator by submitting a request using the process detailed at https://www.microsoft.com/en-us/translator/notrace.aspx.
 
-Microsoft Translator is a statistical machine translation system designed to automatically translate text and speech between numerous supported languages. Translator may be incorporated into other Microsoft products and services, such as Office, SharePoint, and Bing. Third parties may also incorporate Translator into their own services and offerings. For information on the privacy practices of third-parties’ services and offerings, consult their privacy statements.
-
-Microsoft Translator collects and uses the text, image, and speech data you submit, as well as information about how you are accessing the Translator service, such as operating system version, browser type and language. We use your data to provide the Translator service, which includes improving and personalizing your experiences. Microsoft has implemented business and technical measures designed to help de-identify the data Translator retains. For example, we randomly sample text to improve Translator and mask or delete strings of numbers and other personally identifiable information we detect in the sample.
-
-If you subscribe to the Microsoft Translator API with a monthly volume of 250 million characters or more, you may request to have logging turned off for the text you submit to Microsoft Translator by submitting a request using the process detailed at https://www.microsoft.com/en-us/translator/notrace.aspx.
-
 Top of page SwiftKeySwiftKey
 
 SwiftKey Keyboard and related apps and services use data about how you type – including the emoji you use and the words that matter to you – to learn your writing style and provide personalized autocorrect and predictive text that adapts to you.
@@ -1421,12 +1415,6 @@ Microsoft TranslatorMicrosoft TranslatormainMicrosoftTranslatormoduleSummary
 Microsoft Translator is a statistical machine translation system designed to automatically translate text and speech between numerous supported languages. Translator may be incorporated into other Microsoft products and services, such as Office, SharePoint, and Bing. Third parties may also incorporate Translator into their own services and offerings. For information on the privacy practices of third-parties’ services and offerings, consult their privacy statements.
 
 Microsoft Translator collects and uses the text, image, and speech data you submit, as well as information about how you are accessing the Translator service, such as operating system version, browser type and language. We use your data to provide the Translator service, which includes improving and personalizing your experiences. Microsoft has implemented business and technical measures designed to help de-identify the data Translator retains. For example, we randomly sample text to improve Translator and delete strings of numbers that may include personal identifiable information that we detect in the sample.
-
-If you subscribe to the Microsoft Translator API with a monthly volume of 250 million characters or more, you may request to have logging turned off for the text you submit to Microsoft Translator by submitting a request using the process detailed at https://www.microsoft.com/en-us/translator/notrace.aspx.
-
-Microsoft Translator is a statistical machine translation system designed to automatically translate text and speech between numerous supported languages. Translator may be incorporated into other Microsoft products and services, such as Office, SharePoint, and Bing. Third parties may also incorporate Translator into their own services and offerings. For information on the privacy practices of third-parties’ services and offerings, consult their privacy statements.
-
-Microsoft Translator collects and uses the text, image, and speech data you submit, as well as information about how you are accessing the Translator service, such as operating system version, browser type and language. We use your data to provide the Translator service, which includes improving and personalizing your experiences. Microsoft has implemented business and technical measures designed to help de-identify the data Translator retains. For example, we randomly sample text to improve Translator and mask or delete strings of numbers and other personally identifiable information we detect in the sample.
 
 If you subscribe to the Microsoft Translator API with a monthly volume of 250 million characters or more, you may request to have logging turned off for the text you submit to Microsoft Translator by submitting a request using the process detailed at https://www.microsoft.com/en-us/translator/notrace.aspx.
 
