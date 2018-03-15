@@ -94,7 +94,7 @@ Once a child states that his/her age is under 13, they will be unable to registe
 
 **Note to Parents**
 
-We recognize a special obligation to protect personal information about young children. We urge parents to instruct their children to never give out their real names, addresses, or phone numbers, without permission, when on-line. Teenagers under the age of 17 and over the age of 12 should encourage their parents to review this policy and to contact us if they would like to evoke our opt-out policy or to raise any concerns. For more information, you may visit our Parental Controls area at https://us.battle.net/account/parental-controls/index.html.
+We recognize a special obligation to protect personal information about young children. We urge parents to instruct their children to never give out their real names, addresses, or phone numbers, without permission, when on-line. Teenagers under the age of 17 and over the age of 12 should encourage their parents to review this policy and to contact us if they would like to evoke our opt-out policy or to raise any concerns. For more information, you may visit our Parental Controls area at https://us.account.blizzard.com/en-us/parental-controls/index.html.
 
 Back to top 10. What is Real ID?
 
