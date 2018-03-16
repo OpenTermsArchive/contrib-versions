@@ -2,21 +2,33 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   how can i access my old blogs
+    *   \[Resolved\] by e\_e
+    *   4 years ago
+    *   in Data Migration
+    *   0 votes
+    *   7 (last comment by lpbaby89 6 hours ago)
+*   Old blog
+    *   by BRITT\_\_LOVE
+    *   14 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Custom HTML
     *   by matrix01fan
-    *   5 days ago
+    *   6 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Am I able to retrieve my old posts?
     *   by V\_banners
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve old blog
     *   by nharmny
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by miss\_pepper1112 2 weeks ago)
@@ -58,7 +70,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Retrieve old blog
     *   by lovewinnie
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -80,18 +92,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Themes
     *   0 votes
     *   1 (last comment by angelic\_amy9 1 month ago)
-*   The hotmail account associated with my Xanga was deleted
-    *   by xxx\_soco\_xxx
-    *   1 month ago
-    *   in Passwords &. Sign-In
-    *   0 votes
-    *   0
-*   Can not open and read my preceding posts in blog
-    *   by VivianChun717
-    *   1 month ago
-    *   in Getting Started
-    *   0 votes
-    *   0
 
 1 2 3 ... 187 Next
 
