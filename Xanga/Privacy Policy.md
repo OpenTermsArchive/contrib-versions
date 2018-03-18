@@ -13,10 +13,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 years ago
     *   in Data Migration
     *   0 votes
-    *   7 (last comment by lpbaby89 1 day ago)
+    *   7 (last comment by lpbaby89 2 days ago)
 *   Old blog
     *   by BRITT\_\_LOVE
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -34,7 +34,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Retrieve old blog
     *   by nharmny
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by miss\_pepper1112 2 weeks ago)
