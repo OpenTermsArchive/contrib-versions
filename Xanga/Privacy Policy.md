@@ -7,10 +7,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 years ago
     *   in Data Migration
     *   0 votes
-    *   7 (last comment by lpbaby89 3 days ago)
+    *   7 (last comment by lpbaby89 4 days ago)
 *   Old blog
     *   by BRITT\_\_LOVE
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -31,25 +31,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by miss\_pepper1112 2 weeks ago)
+    *   1 (last comment by miss\_pepper1112 3 weeks ago)
 *   retrieve my old blog posts
     *   by sarahtonin
     *   2 months ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by hola\_gatito 2 weeks ago)
+    *   2 (last comment by hola\_gatito 3 weeks ago)
 *   Can't get my old posts
     *   by FectedExosus
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by hola\_gatito 2 weeks ago)
+    *   2 (last comment by hola\_gatito 3 weeks ago)
 *   Open letter to Xanga
     *   by miss\_pepper1112
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by hola\_gatito 2 weeks ago)
+    *   1 (last comment by hola\_gatito 3 weeks ago)
 *   Can't get my old posts
     *   by FectedExosus
     *   3 weeks ago
