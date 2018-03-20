@@ -237,12 +237,6 @@ Criteo: Information about behaviour-related advertising
 
 LinkedIn: Advertising preferences
 
-AdClear: You can opt out of tracking performed by AdClear.
-
-Opt out of Adclear tracking
-
-Sociomantic: Advertising Privacy Policy &. Opt-Out
-
 Outbrain: Privacy Policy &. Opt Out
 
 Facebook Custom Audience
