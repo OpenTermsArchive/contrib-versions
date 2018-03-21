@@ -555,7 +555,7 @@ Unit (optional) Zip Code Continue DISCOVER THE SERVICES WINDSTREAM CAN BRING TO 
 
 Please enter your address to see services available in your area
 
-Please try again Sign In
+Please try again Sign in
 
 Please try again, or Proceed with this address
 
