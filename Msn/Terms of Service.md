@@ -309,7 +309,6 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Advertising.microsoft.com
 *   Arrow Launcher
 *   Ask Cortana
-*   Bing
 *   Bing Apps
 *   Bing Bots
 *   Bing Desktop
@@ -330,12 +329,13 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Bing Webmaster
 *   Bing Wikipedia Browser
 *   Bing.com
+*   Bing
 *   Bingplaces.com
 *   Choice.microsoft.com
 *   Citizen Next
 *   Conditional Action Programmer
-*   Cortana
 *   Cortana skills by Microsoft
+*   Cortana
 *   Default Homepage and New Tab Page on Microsoft Edge
 *   Dev Center App
 *   Device Health App
@@ -343,17 +343,18 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Docs.com
 *   Education.minecraft.net
 *   Forzamotorsport.net
-*   Groove
 *   Groove Music Pass
+*   Groove
 *   GroupMe
-*   HealthVault
 *   HealthVault Insights
+*   HealthVault
 *   Home
 *   LineBack
 *   Maps App
 *   Microsoft account
 *   Microsoft Add-Ins for Skype
 *   Microsoft Bots
+*   Microsoft Educator Community
 *   Microsoft Family
 *   Microsoft Health
 *   Microsoft Movies &. TV
@@ -383,8 +384,8 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Office Store
 *   Office Sway
 *   Office.com
-*   OneDrive
 *   OneDrive.com
+*   OneDrive
 *   OneNote.com
 *   Outlook.com
 *   Paint 3D
@@ -395,21 +396,21 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Ruuh
 *   Seeing AI
 *   Send
-*   Skype
 *   Skype in the Classroom
 *   Skype Interviews
 *   Skype Manager
 *   Skype Qik
 *   Skype.com
+*   Skype
 *   Smart Search
 *   Spreadsheet Keyboard
 *   Store
 *   Sway.com
 *   to-do.microsoft.com
 *   Tossup
-*   Translator
 *   Translator for Microsoft Edge
 *   Translator Live
+*   Translator
 *   UrWeather
 *   Video Breakdown
 *   Visio Online
@@ -421,8 +422,8 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Word Flow
 *   Xbox and Windows Games, apps and websites published by Microsoft
 *   Xbox Game Pass
-*   Xbox Live
 *   Xbox Live Gold
+*   Xbox Live
 *   Xbox Music
 *   Xbox Store
 *   Zo
@@ -732,7 +733,6 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Advertising.microsoft.com
 *   Arrow Launcher
 *   Ask Cortana
-*   Bing
 *   Bing Apps
 *   Bing Bots
 *   Bing Desktop
@@ -753,12 +753,13 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Bing Webmaster
 *   Bing Wikipedia Browser
 *   Bing.com
+*   Bing
 *   Bingplaces.com
 *   Choice.microsoft.com
 *   Citizen Next
 *   Conditional Action Programmer
-*   Cortana
 *   Cortana skills by Microsoft
+*   Cortana
 *   Default Homepage and New Tab Page on Microsoft Edge
 *   Dev Center App
 *   Device Health App
@@ -766,17 +767,18 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Docs.com
 *   Education.minecraft.net
 *   Forzamotorsport.net
-*   Groove
 *   Groove Music Pass
+*   Groove
 *   GroupMe
-*   HealthVault
 *   HealthVault Insights
+*   HealthVault
 *   Home
 *   LineBack
 *   Maps App
 *   Microsoft account
 *   Microsoft Add-Ins for Skype
 *   Microsoft Bots
+*   Microsoft Educator Community
 *   Microsoft Family
 *   Microsoft Health
 *   Microsoft Movies &. TV
@@ -806,8 +808,8 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Office Store
 *   Office Sway
 *   Office.com
-*   OneDrive
 *   OneDrive.com
+*   OneDrive
 *   OneNote.com
 *   Outlook.com
 *   Paint 3D
@@ -818,21 +820,21 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Ruuh
 *   Seeing AI
 *   Send
-*   Skype
 *   Skype in the Classroom
 *   Skype Interviews
 *   Skype Manager
 *   Skype Qik
 *   Skype.com
+*   Skype
 *   Smart Search
 *   Spreadsheet Keyboard
 *   Store
 *   Sway.com
 *   to-do.microsoft.com
 *   Tossup
-*   Translator
 *   Translator for Microsoft Edge
 *   Translator Live
+*   Translator
 *   UrWeather
 *   Video Breakdown
 *   Visio Online
@@ -844,8 +846,8 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Word Flow
 *   Xbox and Windows Games, apps and websites published by Microsoft
 *   Xbox Game Pass
-*   Xbox Live
 *   Xbox Live Gold
+*   Xbox Live
 *   Xbox Music
 *   Xbox Store
 *   Zo
