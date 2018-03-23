@@ -346,7 +346,6 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Groove Music Pass
 *   Groove
 *   GroupMe
-*   HealthVault Insights
 *   HealthVault
 *   Home
 *   LineBack
@@ -770,7 +769,6 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Groove Music Pass
 *   Groove
 *   GroupMe
-*   HealthVault Insights
 *   HealthVault
 *   Home
 *   LineBack
