@@ -1,6 +1,6 @@
 _Effective on June 7, 2017_
 
-See a guided tour of the main changes.
+We will update our Privacy Policy soon. Please see the preview.
 
 Your Privacy Matters
 
