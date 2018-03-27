@@ -2,9 +2,15 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   how can I find other blogs to follow
+    *   by Amoreno45
+    *   6 hours ago
+    *   in Following
+    *   0 votes
+    *   0
 *   Really need my old blogs, how to retrieve them?
     *   by i\_like\_tsro
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -13,10 +19,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by steven\_and\_alycia 4 days ago)
+    *   3 (last comment by steven\_and\_alycia 5 days ago)
 *   How can I retrieve my old posts?
     *   by Chokie\_Cheng
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -49,25 +55,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by miss\_pepper1112 3 weeks ago)
+    *   1 (last comment by miss\_pepper1112 4 weeks ago)
 *   retrieve my old blog posts
     *   by sarahtonin
     *   2 months ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by hola\_gatito 3 weeks ago)
+    *   2 (last comment by hola\_gatito 4 weeks ago)
 *   Can't get my old posts
     *   by FectedExosus
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by hola\_gatito 3 weeks ago)
+    *   2 (last comment by hola\_gatito 4 weeks ago)
 *   Open letter to Xanga
     *   by miss\_pepper1112
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by hola\_gatito 3 weeks ago)
+    *   1 (last comment by hola\_gatito 4 weeks ago)
 *   Can't get my old posts
     *   by FectedExosus
     *   1 month ago
@@ -86,14 +92,8 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   Retrieve old blog
-    *   by lovewinnie
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
-1 2 3 ... 187 Next
+1 2 3 ... 188 Next
 
 Help Categories
 
