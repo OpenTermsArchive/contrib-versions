@@ -4,13 +4,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   how can I find other blogs to follow
     *   by Amoreno45
-    *   6 hours ago
+    *   1 day ago
     *   in Following
     *   0 votes
     *   0
 *   Really need my old blogs, how to retrieve them?
     *   by i\_like\_tsro
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,10 +19,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by steven\_and\_alycia 5 days ago)
+    *   3 (last comment by steven\_and\_alycia 6 days ago)
 *   How can I retrieve my old posts?
     *   by Chokie\_Cheng
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
