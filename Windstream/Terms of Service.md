@@ -51,8 +51,6 @@
 
 Terms and Conditions Windstream Information ▼ About us
 
-*   MassComm Information▼
-    *   MassComm Tariffs
 *   Windstream Information▼
     *   Company Overview
     *   Company History
@@ -77,6 +75,8 @@ Terms and Conditions Windstream Information ▼ About us
     *   Protecting CPNI: Your Rights and Opinions
     *   PAETEC Service Charges and Surcharges Description
     *   Terms and Conditions for McLeodUSA Communications' Customers
+*   MassComm Information▼
+    *   MassComm Tariffs
 *   Legal▲
     *   Acceptable Use Policy
     *   Broadband Network Statement
