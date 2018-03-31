@@ -4,7 +4,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   how can I find other blogs to follow
     *   by Amoreno45
-    *   3 days ago
+    *   4 days ago
     *   in Following
     *   0 votes
     *   0
@@ -40,7 +40,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Custom HTML
     *   by matrix01fan
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
