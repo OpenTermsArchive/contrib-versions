@@ -4,7 +4,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   how can I find other blogs to follow
     *   by Amoreno45
-    *   4 days ago
+    *   5 days ago
     *   in Following
     *   0 votes
     *   0
@@ -46,7 +46,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Am I able to retrieve my old posts?
     *   by V\_banners
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
