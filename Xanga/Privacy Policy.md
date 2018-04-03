@@ -4,7 +4,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   how can I find other blogs to follow
     *   by Amoreno45
-    *   6 days ago
+    *   1 week ago
     *   in Following
     *   0 votes
     *   0
