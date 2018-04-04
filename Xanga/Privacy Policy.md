@@ -22,7 +22,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 (last comment by steven\_and\_alycia 1 week ago)
 *   How can I retrieve my old posts?
     *   by Chokie\_Cheng
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
