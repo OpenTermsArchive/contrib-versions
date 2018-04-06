@@ -68,7 +68,6 @@ List of techniques and tools we use for data collection:
 2.  On our websites:
     *   Cookies
     *   Analytics service
-    *   Facebook pixel
     *   Newsletter
 
 Why do we need to collect your data?
@@ -200,17 +199,6 @@ When deleting an account, all account data will be deleted directly, except for 
 
 1.  **Contributors**: Flattrs, meaning the number of flattrs including the flattred URL, will be retained for a period of six (6) months after deletion of the account. This is required for Content creators’ and/or Publisher’s accounting. The flattrs cannot be connected to you.
 2.  **Content creators/Publishers**: For accounting reasons the profile name, flattred URL and the public profile will be retained for a period of three (3) months.
-
-Conversion tracking and remarketing
-
-We are using the Facebook pixel, a JavaScript pixel which allows to:
-
-*   create custom audiences for ads.
-*   measure conversion rates for that audience as activity on our website.
-*   use this data to target people on Facebook with relevant ads.
-*   determine the effectiveness of marketing campaigns and channels.
-
-This pixel is provided by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, US ("**Facebook**"). Any of you data is hashed locally on your browser before it goes to the Facebook servers for matching. Adblock is not able to identify you with this data. This hashing process turns your data into short encrypted messages that are difficult to reverse engineer. Facebook typically deletes all matched and unmatched hashes within 48 hours after the matching process ends, unless we need to retain any data for troubleshooting or product improvement. Please note, Facebook may connect those data with your user profile and may use them in accordance with Facebook’s privacy policy. **You can deactivate conversion tracking and remarketing in your Facebook profile under facebook.com, therefore you must be logged in.**
 
 Web Analytics
 
