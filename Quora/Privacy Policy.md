@@ -1,4 +1,4 @@
-This page may be out of date. Save your draft before refreshing this page.Submit any pending changes before refreshing this page. Hide this message.                QuoraAboutAbout CareersCareers PressPress BusinessesBusinesses BlogBlog Privacy Policy
+This page may be out of date. Save your draft before refreshing this page.Submit any pending changes before refreshing this page. Hide this message.                QuoraAboutAbout CareersCareers PressPress AdvertiseAdvertise BlogBlog Privacy Policy
 
 _Last updated: December 18, 2017_
 
@@ -144,3 +144,5 @@ Mountain View, CA 94041
 If we change our privacy policies and procedures, we will post those changes on this page. If we make any changes to this Privacy Policy that materially change how we treat your personal information, we will endeavor to provide you with reasonable notice of such changes, such as via prominent notice in the Quora Platform or to your email address of record, and where required by law, we will obtain your consent or give you the opportunity to opt out of such changes.
 
 _Prior Versions_
+
+BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
