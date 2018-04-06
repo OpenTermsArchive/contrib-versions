@@ -1,3 +1,5 @@
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-THS7L57" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
+
 *   Residential
 *   Small Business
 *   Enterprise
@@ -561,7 +563,7 @@ Please try again Sign in
 
 Please try again, or Proceed with this address
 
-Street Number Street Name Street TypeALYAVEBCHBLFBLVDBNDBRBRGBYPBYUCIRCORCORSCPCRKCRSTCTCTRCURVCVDRESTESTSEXTFLSFLTFLTSFRSTFRYFWYGLNGRVHBRHLHLSHOLWHTSHVNHWYISJCTKNLSLDGLKLKSLNLNDGLOOPMDWMDWSMLMLSMNRMTMTNMTWYPARKPASSPATHPKWYPLPLZPNEPTPTERDRDGRIVROWRUNSHLSSMTSPGSPGSSPURSQSTSTATERTLTPKETRCEVISVLGVLYVWWALKWAYXING Unit (optional) State City Zip Code Continue Windstream is not available in your area
+Street Number Street Name Street TypeALYAVEBCHBLFBLVDBNDBRBRGBYPBYUCIRCORCORSCPCRKCRSTCTCTRCURVCVDRESTESTSEXTFLSFLTFLTSFRSTFRYFWYGLNGRVHBRHLHLSHOLWHTSHVNHWYISJCTKNLSLDGLKLKSLNLNDGLOOPMDWMDWSMLMLSMNRMTMTNMTWYPARKPASSPATHPKWYPLPLZPNEPTPTERDRDGRIVROWRUNSHLSSMTSPGSPGSSPURSQSTSTATERTLTPKETRCEVISVLGVLYVWWALKWAYXING Unit (optional) StateALARFLGAIAKSKYMNMSMONENMNYNCOHOKPASCTX City Zip Code Continue Windstream is not available in your area
 
 View Carriers in Your Area Enter Your Address Again
 
@@ -608,3 +610,5 @@ Windstream is one of the largest providers of telecommunications services in rur
 Residential Small Business Enterprise Wholesale FIND US ON Twitter Facebook
 
 Copyright © 2018 Windstream Communications. All rights reserved.
+
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1819151935020592&amp;ev=PageView&amp;noscript=1">. <iframe src="https://bs.serving-sys.com/BurstingPipe? cn=ot&amp. onetagid=5442&amp. ns=1&amp. activityValues=$$Session=\[Session\]$$&amp. retargetingValues=$$$$&amp. dynamicRetargetingValues=$$$$&amp. acp=$$$$&amp;" style="display:none;width:0px;height:0px"></iframe>.
