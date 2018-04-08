@@ -2,6 +2,12 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   My site didn't appear
+    *   by HoPuiYi325
+    *   3 months ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by NickyPat 16 hours ago)
 *   how can I find other blogs to follow
     *   by Amoreno45
     *   1 week ago
@@ -82,12 +88,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Can't get my old posts
     *   by FectedExosus
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Retrieve Old Blog Posts
-    *   by pointe2087
     *   1 month ago
     *   in Data Migration
     *   0 votes
