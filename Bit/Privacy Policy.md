@@ -28,13 +28,13 @@ The information we collect is primarily used to provide the Services, to process
 
 Registered User Information:
 
-When you create an Account, we will collect personal information from you, such as your name and email address. If you create an Account using your login from another account, such as Facebook or Twitter, we will acess and collect the personal information about you that the account provides (which is based on your privacy settings), so that you can create your Account with us. We use your contact information to send you information about our Services. You may unsubscribe from receiving certain types of these messages through your Account settings, although Bitly reserves the right to contact you when we believe it is necessary, such as for administrative and account management purposes.
+When you create an Account, we will collect personal information from you, such as your name and email address. If you create an Account using your login from another account, such as Facebook or Twitter, we will access and collect the personal information about you that the account provides (which is based on your privacy settings), so that you can create your Account with us. We use your contact information to send you information about our Services. You may unsubscribe from receiving certain types of these messages through your Account settings, although Bitly reserves the right to contact you when we believe it is necessary, such as for administrative and account management purposes.
 
-_Note regarding children:_ We do not knowingly collect personal information from children. If we learn that we have collected personal information of a child under 13, we will take steps to delete such information from our files as soon as possible
+_Note regarding children:_ We do not knowingly collect personal information from children. If we learn that we have collected personal information of a child under 13, we will take steps to delete such information from our files as soon as possible.
 
 URL Information:
 
-One feature of the Services is the ability to create shortened uniform resource locators (URLs) of websites ("Bitly Links"). When you create a Bitly Link, Bitly collects and stores both the original URL and the shortened URL and, if you are logged in to your Account, we will associate that information with your Account. Bitly also collects and stores your IP address and the time and date on which you shortened the original URL and when you share the Bitly Link and information on the channels through which the Bitly Link was shared.
+One feature of the Services is the ability to create shortened uniform resource locators (URLs) of websites ("Bitly Links"). When you create a Bitly Link, Bitly collects and stores both the original URL and the shortened URL and, if you are logged in to your Account, we will associate that information with your Account. Bitly also collects and stores your IP address, the time and date on which you shortened the original URL, and when you share the Bitly Link and information on the channels through which the Bitly Link was shared.
 
 Metrics and Analytics:
 
