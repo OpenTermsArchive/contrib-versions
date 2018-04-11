@@ -83,5 +83,3 @@ The Flickreenos, October 2017
 *   Terms
 *   Yahoo Safely
 *   Help
-
-Flickr, a Yahoo company
