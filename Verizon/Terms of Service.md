@@ -85,7 +85,7 @@ If you're a Postpay customer and we don't get your payment on time, we will char
 
 If you're a Prepaid customer, you may replenish your balance at any time before the expiration date by providing us with another payment. If you maintain a Prepaid account balance, it may not exceed $1,000 and you may be prevented from replenishing if your balance reaches $1,000. We may apply your payments to any amounts you may owe us if your earlier account replenishment payments had been reversed. We will suspend service when your account reaches the expiration date and any unused balance will be forfeited.
 
-We may charge you up to $25 for any returned check.
+We may charge you up to $25 for any returned check. If you make a payment, or make a payment arrangement, through a call center representative, we may charge you an Agent Assistance Fee of $7.00
 
 What if my wireless device gets lost or stolen?
 
@@ -105,7 +105,7 @@ DISCLAIMER OF WARRANTIES
 
 WAIVERS AND LIMITATIONS OF LIABILITY
 
-**You and Verizon both agree to limit claims against each other for damages or other monetary relief to direct damages. This limitation and waiver will apply regardless of the theory of liability. That means neither of us will try to get any indirect, special, consequential, treble or punitive damages from the other. This limitation and waiver also applies if you bring a claim against one of our suppliers, to the extent we would be required to indemnify the supplier for the claim.** You agree we aren't responsible for problems caused by you or others, or by any act of God. You also agree we aren't liable for missed or deleted voice mails or other messages, or for any information (like pictures) that gets lost or deleted if we work on your device. If another wireless carrier is involved in any problem (for example, while you're roaming), you also agree to any limitations of liability that it imposes.
+**You and Verizon both agree to limit claims against each other solely to direct damages. That means neither of us will claim any damages that are indirect, special, consequential, incidental, treble or punitive. For example, disallowed damages include those arising out of a Service or device failure, unauthorized access or changes to your account or device, or the use of your account or device to access or make changes to an account with another entity, such as a financial entity, without authorization. This limitation and waiver will apply regardless of the theory of liability. It also applies if you bring a claim against one of our suppliers, to the extent we would be required to indemnify the supplier for the claim.**You agree we aren't responsible for problems caused by you or others, or by any act of God. You also agree we aren't liable for missed or deleted voice mails or other messages, or for any information (like pictures) that gets lost or deleted if we work on your device. If another wireless carrier is involved in any problem (for example, while you're roaming), you also agree to any limitations of liability that it imposes.
 
 HOW DO I RESOLVE DISPUTES WITH VERIZON?
 
@@ -141,4 +141,4 @@ If we don't enforce our rights under this agreement in one instance, that doesn'
 
 **This agreement and the documents it incorporates form the entire agreement between us. You can't rely on any other documents, or on what's said by any Sales or Customer Service Representatives, and you have no other rights regarding Service or this agreement.** This Agreement isn't for the benefit of any third party except our parent companies, affiliates, subsidiaries, agents, and predecessors and successors in interest. Except where we've agreed otherwise elsewhere in this agreement, this agreement and any disputes covered by it are governed by federal law and the laws of the state encompassing the area code of your wireless phone number when you accepted this agreement, without regard to the conflicts of laws and rules of that state.
 
-October 20, 2017
+April 13, 2018
