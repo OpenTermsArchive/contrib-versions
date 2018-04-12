@@ -7,7 +7,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 months ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by NickyPat 3 days ago)
+    *   1 (last comment by NickyPat 4 days ago)
 *   how can I find other blogs to follow
     *   by Amoreno45
     *   2 weeks ago
@@ -25,7 +25,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by steven\_and\_alycia 2 weeks ago)
+    *   3 (last comment by steven\_and\_alycia 3 weeks ago)
 *   How can I retrieve my old posts?
     *   by Chokie\_Cheng
     *   3 weeks ago
