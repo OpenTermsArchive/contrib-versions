@@ -350,6 +350,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Home
 *   LineBack
 *   Maps App
+*   Microsoft Academic
 *   Microsoft account
 *   Microsoft Add-Ins for Skype
 *   Microsoft Bots
@@ -773,6 +774,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Home
 *   LineBack
 *   Maps App
+*   Microsoft Academic
 *   Microsoft account
 *   Microsoft Add-Ins for Skype
 *   Microsoft Bots
