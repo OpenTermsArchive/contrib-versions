@@ -1,3 +1,5 @@
+_SoundCloud is updating its Terms of Use on May 25, 2018. See the updated terms at https://soundcloud.com/terms-of-use/05-2018._
+
 SoundCloud Terms of Use
 
 Welcome to SoundCloud®, a service provided by SoundCloud Limited (**“SoundCloud”**, **“we”** **“our”**, or **“us”**).
