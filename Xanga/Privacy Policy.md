@@ -1,13 +1,37 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   HELP
+    *   by babypink131
+    *   19 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   HELP
+    *   by babypink131
+    *   19 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   HELP
+    *   by babypink131
+    *   19 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   My site didn't appear
     *   by HoPuiYi325
     *   3 months ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by NickyPat 4 days ago)
+    *   1 (last comment by NickyPat 5 days ago)
 *   how can I find other blogs to follow
     *   by Amoreno45
     *   2 weeks ago
@@ -16,13 +40,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Really need my old blogs, how to retrieve them?
     *   by i\_like\_tsro
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where can I find my blog entries?
     *   \[Resolved\] by EterNaLxDeath
-    *   3 years ago
+    *   4 years ago
     *   in Data Migration
     *   0 votes
     *   3 (last comment by steven\_and\_alycia 3 weeks ago)
@@ -37,10 +61,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 years ago
     *   in Data Migration
     *   0 votes
-    *   7 (last comment by lpbaby89 3 weeks ago)
+    *   7 (last comment by lpbaby89 4 weeks ago)
 *   Old blog
     *   by BRITT\_\_LOVE
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -74,24 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   2 (last comment by hola\_gatito 1 month ago)
-*   Open letter to Xanga
-    *   by miss\_pepper1112
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by hola\_gatito 1 month ago)
-*   Can't get my old posts
-    *   by FectedExosus
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Can't get my old posts
-    *   by FectedExosus
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
 1 2 3 ... 188 Next
 
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
