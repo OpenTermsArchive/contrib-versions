@@ -4,19 +4,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   HELP
     *   by babypink131
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   HELP
     *   by babypink131
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   HELP
     *   by babypink131
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -25,7 +25,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 months ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by NickyPat 6 days ago)
+    *   1 (last comment by NickyPat 1 week ago)
 *   how can I find other blogs to follow
     *   by Amoreno45
     *   2 weeks ago
@@ -55,10 +55,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 years ago
     *   in Data Migration
     *   0 votes
-    *   7 (last comment by lpbaby89 4 weeks ago)
+    *   7 (last comment by lpbaby89 1 month ago)
 *   Old blog
     *   by BRITT\_\_LOVE
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
