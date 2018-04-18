@@ -4,6 +4,8 @@ Posted: April 12, 2017
 
 Effective: April 12, 2017
 
+Dropbox’s Privacy Policy will be changing effective May 25, 2018. Click here to review.
+
 Thanks for using Dropbox! Here we describe how we collect, use and handle your information when you use our websites, software and services ("**Services**").
 
 What &. Why
