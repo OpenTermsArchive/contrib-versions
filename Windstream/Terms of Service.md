@@ -5,7 +5,7 @@
 *   Enterprise
 *   Wholesale
 
-*   Denver, CO
+*   Denver CO
 
 *   Menu▼
     *   Special Offers
@@ -36,7 +36,7 @@
     *   Go to Windstream.net
     *   Windstream Blog
     *   Contact Us
-*   Denver, CO
+*   Denver CO
 
 *   Manage My Account
 *   View or Pay my Bill
