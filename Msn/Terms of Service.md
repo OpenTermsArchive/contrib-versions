@@ -331,7 +331,6 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Bing.com
 *   Bing
 *   Bingplaces.com
-*   Choice.microsoft.com
 *   Citizen Next
 *   Conditional Action Programmer
 *   Cortana skills by Microsoft
@@ -755,7 +754,6 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Bing.com
 *   Bing
 *   Bingplaces.com
-*   Choice.microsoft.com
 *   Citizen Next
 *   Conditional Action Programmer
 *   Cortana skills by Microsoft
