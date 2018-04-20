@@ -1,4 +1,4 @@
-Disqus Privacy Policy Disqus Privacy Policy
+Disqus Privacy Policy
 
 Disqus, Inc. ("Disqus," "we," or "us") provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use, disclosure and protection of information that apply to our Service (as defined below), as well as your choices regarding the collection and use of information.
 
@@ -6,7 +6,11 @@ Overview.
 
 Discuss offers an online public comment sharing platform where users may login and create profiles to participate in conversations with peers and enjoy an interactive experience. By using our comment sharing platform, software and website (collectively the "Service") you understand and agree to the terms of this Privacy Policy. You further understand that the Service is a public platform and that we or other users may search for, see, use, or re-post any of your User Content (as defined below) that you post through the Service.
 
-Advertising. Advertising is the primary way Disqus makes money. We are paid by advertisers to serve and share advertising content. We may collect, use and share information from you when you use the Service in order to provide you with more relevant advertising. Detailed information about how we collect, use and share your information for advertising and other purposes is set forth below. Applicability and third-party websites and services.
+Advertising.
+
+Advertising is the primary way Disqus makes money. We are paid by advertisers to serve and share advertising content. We may collect, use and share information from you when you use the Service in order to provide you with more relevant advertising. Detailed information about how we collect, use and share your information for advertising and other purposes is set forth below.
+
+Applicability and third-party websites and services.
 
 This Privacy Policy only applies to the Service and does not apply to any website that uses the Service or other website linked to from the Service. We are not responsible for the practices employed by websites linked to or from the Service, or the information or content contained thereon. Please remember that when you use a link to go from the Service to another website, our Privacy Policy is no longer applicable. Your browsing activity and interaction with any other website, including those that you link to from the Service or our website, is subject to that website's privacy policy.
 
@@ -14,7 +18,7 @@ Information Collection on the Service.
 
 We may collect information about you when you register for and use the Service. Such information may include "Personally Identifiable Information" which means information that identifies you as an individual, such information may include, but is not limited to, your name, email address, telephone number, username or account ID, and "Non-Personally Identifiable Information" which means information that does not identify you as an individual. Non-Personally Identifiable Information may include, but is not limited to, information about your browser, your IP address, device ID, what pages you visit on our Partner Sites, which website you came from, what advertisements you clicked on, whether on our Partner Websites, the Service or other third party websites, and other information about your online activity that does not identify you as an individual. The ways in which we collect, use and share both your Personally Identifiable Information and your Non-Personally Identifiable Information are described below.
 
-*   **Personally Identifiable Information:** We collect Personally Identifiable Information about you when you provide such information in connection with the Service such as when you register for the Service or when you send us an email. If you access the Service through a third-party connection or log-in, for example, through Facebook Connect, Google or Twitter, by "following," "liking," or linking your account to the Service, that third party may pass Personally Identifiable Information to us in connection with your account.  
+*   **Personally Identifiable Information:** We collect Personally Identifiable Information about you when you provide such information in connection with the Service such as when you register for the Service or when you send us an email. If you access the Service through a third-party connection or log-in, for example, through Facebook Connect, Google or Twitter, by "following," "liking," or linking your account to the Service, that third party may pass Personally Identifiable Information to us in connection with your account.
 *   **Non-Personally Identifiable Information:** We may automatically collect and use Non-Personally Identifiable Information when you view and interact with the Service, Partner Sites or third party sites using tracking technologies such as cookies, web beacons, log files (described further below in the Cookies and Other Technology section) and other similar technology. Non-Personally Identifiable Information may include, but is not limited to your browser information. device information, including unique device identifies ("UID"). location information, including IP address, GPS information. and other information about your use of the Service, your actions on the Service, Partner Sites, or third party websites , such as information about the content you viewed or interacted with, what pages you clicked on, what images or articles you viewed, whether you clicked on one of the advertisements, date and time information, navigation and click-through information, and other information about your online activity.
 
 We may combine such Non-Personally Identifiably Information with Personally Identifiable Information like your name or email address or other information that could be used to identify you in order to provide you with relevant advertising when visiting or using the Service, Partner Sites, third party websites or to send you email advertisements. We treat this combined information as personally identifiable information.
@@ -25,9 +29,9 @@ We may receive and collect information from Partner Sites or other third parties
 
 Cookies and other Technology.
 
-*   **Cookie Information:** When you visit or use the Service, we may send one or more cookies - a small text file containing a string of alphanumeric characters — to your computer that uniquely identifies your browser and lets Disqus help you log in faster and enhance your navigation through the site. A cookie may also convey information to us about how you use the Service and Partner Sites (e.g., the pages you view, the links you click and other actions you take) and allows us to track your usage of the Service on Partner Sites over time. We may use both persistent cookies, which remain on your hard drive after you close your browser, and session cookies which terminate when you close your browser. If you have questions about disabling cookies, you should consult with your browser's manufacturer. However, some features of the Service may not function properly if the ability to accept cookies is disabled. 
-*   **Log File Information:** Log file information is automatically reported by your browser each time you access a web page. When you use our Service, our servers automatically record certain log file information. These server logs may include information such as your web request, IP address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, Partner Sites, domain names, landing pages, pages viewed, and other such information. 
-*   **Clear Gifs/Web Beacons Information:** When you use the Service, we may employ clear gifs (also known as web beacons) which are used to track the online usage patterns of our users. We may also use clear gifs in HTML-based emails sent to our users to track which emails are opened and which links or advertisements are clicked by recipients. The information allows for more accurate reporting and improvement of the Service and for us to provide you with advertisements that may interest you. 
+*   **Cookie Information:** When you visit or use the Service, we may send one or more cookies - a small text file containing a string of alphanumeric characters — to your computer that uniquely identifies your browser and lets Disqus help you log in faster and enhance your navigation through the site. A cookie may also convey information to us about how you use the Service and Partner Sites (e.g., the pages you view, the links you click and other actions you take) and allows us to track your usage of the Service on Partner Sites over time. We may use both persistent cookies, which remain on your hard drive after you close your browser, and session cookies which terminate when you close your browser. If you have questions about disabling cookies, you should consult with your browser's manufacturer. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
+*   **Log File Information:** Log file information is automatically reported by your browser each time you access a web page. When you use our Service, our servers automatically record certain log file information. These server logs may include information such as your web request, IP address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, Partner Sites, domain names, landing pages, pages viewed, and other such information.
+*   **Clear Gifs/Web Beacons Information:** When you use the Service, we may employ clear gifs (also known as web beacons) which are used to track the online usage patterns of our users. We may also use clear gifs in HTML-based emails sent to our users to track which emails are opened and which links or advertisements are clicked by recipients. The information allows for more accurate reporting and improvement of the Service and for us to provide you with advertisements that may interest you.
 
 Targeted Ads and Analytics Services.
 
@@ -69,12 +73,12 @@ Disqus reserves the right, but has no obligation, to monitor the User Content yo
 
 Your Choices Regarding Collection of Your Information.
 
-*   **Your Account**. All registered users may review, update or correct the Personally Identifiable Information provided in their registration or account profile by changing their "user preferences" in their account. To delete your account entirely, please follow these steps . However, you understand and agree that we are not able to remove your Personally Identifiable Information from the records of any third party who has previously been provided with your information . 
-*   **Opting Out of Targeted Advertising**. We strive to make the Disqus experience as personalized and relevant as possible for all users. In doing so, we may deliver you targeted ads based on information collected on the Service, Partner Sites or other third party sites (as described above). 
-    *   **Targeted Ads Opt-Out.** If you prefer to opt out of targeted advertising (also called interest based advertising) by Disqus, you may do so by clicking on the "opt-out page" link here: opt out page . Our opt-out mechanism is managed through cookies, if you delete cookies from your browser or use a different browser, you will need to opt-out again. Please note that even if you choose to opt-out of targeted advertising from Disqus, you will still see ads from us, they just won't be targeted to you based on the information derived from your interaction with the Service,Partner Sites or third party sites. The ads you continue to see from us may be selected for you based on information such as your age or gender or other demographic information. Also note, you will still see targeted ads (interest based ads) from third parties. You can opt-out from targeted advertising from third parties in general if they are members of the Network Advertising Initiative (NAI), or Participate in the Digital Advertising Alliance's Ad Choices Tool (DAA) by visiting the respective opt-out pages on the NAI or DAA websites (you may also link to these opt-out pages from the Targeted Ads and Analytics Services section above).  
+*   **Your Account**. All registered users may review, update or correct the Personally Identifiable Information provided in their registration or account profile by changing their "user preferences" in their account. To delete your account entirely, please follow these steps . However, you understand and agree that we are not able to remove your Personally Identifiable Information from the records of any third party who has previously been provided with your information .
+*   **Opting Out of Targeted Advertising**. We strive to make the Disqus experience as personalized and relevant as possible for all users. In doing so, we may deliver you targeted ads based on information collected on the Service, Partner Sites or other third party sites (as described above).
+*   **_Targeted Ads Opt-Out_** . If you prefer to opt out of targeted advertising (also called interest based advertising) by Disqus, you may do so by clicking on the "opt-out page" link here: opt out page . Our opt-out mechanism is managed through cookies, if you delete cookies from your browser or use a different browser, you will need to opt-out again. Please note that even if you choose to opt-out of targeted advertising from Disqus, you will still see ads from us, they just won't be targeted to you based on the information derived from your interaction with the Service,Partner Sites or third party sites. The ads you continue to see from us may be selected for you based on information such as your age or gender or other demographic information. Also note, you will still see targeted ads (interest based ads) from third parties. You can opt-out from targeted advertising from third parties in general if they are members of the Network Advertising Initiative (NAI), or Participate in the Digital Advertising Alliance's Ad Choices Tool (DAA) by visiting the respective opt-out pages on the NAI or DAA websites (you may also link to these opt-out pages from the Targeted Ads and Analytics Services section above).
 *   **Opting Out of Our Promotional Emails**. Opting Out of Our Promotional Emails. You may opt-out of receiving targeted and other marketing and promotional emails from us at any time by using the opt-out mechanism contained in such emails (also referred to as "unsubscribe"). You may also unsubscribe or manage your email subscription by clicking this link: Manage My Disqus Email Settings. Please note, unsubscribing from Disqus emails will unsubscribe your from Disqus notification emails and Disqus digest emails. You will still receive transactional emails necessary for the Disqus service to function, these include, but may not be limited to, emails confirming you created a new account, emails helping you reset your password etc.
-*   **Declining Cookies.** If you do not want to accept our cookies, you can adjust your browser settings to decline cookies. You should note, however, that certain areas of the Site may not operate properly if you decide not to accept cookies.
-*   **Do Not Track**. This site does not respond to "do not track" or similar signals.  
+*   **Declining Cookies**. If you do not want to accept our cookies, you can adjust your browser settings to decline cookies. You should note, however, that certain areas of the Site may not operate properly if you decide not to accept cookies.
+*   **Do Not Track**. This site does not respond to "do not track" or similar signals.
 
 Security.
 
@@ -110,7 +114,7 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 Contact
 
-If you have any questions about this Disqus Privacy Policy, please email us at privacy@disqus.com, or contact us by mail at 717 Market Street, Suite 700, San Francisco, CA 94103.
+If you have any questions about this Disqus Privacy Policy, please email us at privacy@disqus.com, or contact us by mail at 717 Market Street, Suite 700, San Francisco, CA 94103.
 
 Changes to Privacy Policy
 
@@ -119,14 +123,3 @@ Disqus may, in its sole discretion, modify or update this Privacy Policy from ti
 This Privacy Policy was last modified on December 21, 2017.
 
 Click here to view the Terms of Service.
-
-Did you find this article helpful?
-
-Yes I found this article helpful No I did not find this article helpful
-
-Last Updated - Mar 13, 2018 11:44AM PDT
-
-Get Support:
-
-*   Discuss Disqus
-*   Support Hub
