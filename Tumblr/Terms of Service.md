@@ -276,4 +276,4 @@ https://www.tumblr.com/policy/web-credits
 
 You will find prior versions of our Terms of Service on GitHub, which will allow you to compare historical versions and see which terms have been updated.
 
-https://github.com/tumblr/policy/commits/master/terms\_of\_service/en
+https://github.com/tumblr/policy/commits/master/terms-of-service.txt
