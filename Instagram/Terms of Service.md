@@ -1,4 +1,4 @@
-Terms of Use**These Terms of Use are effective on January 19, 2013.** To access our previous Terms of Use, please click here.  
+Terms of Use**Note:** Our Terms of Use are changing. You can view our new Terms of Use here.**These Terms of Use are effective on January 19, 2013.** To access our previous Terms of Use, please click here.  
   
 By accessing or using the Instagram website, the Instagram service, or any applications (including mobile applications) made available by Instagram (together, the "Service"), however accessed, you agree to be bound by these terms of use ("Terms of Use"). The Service is owned or controlled by Instagram, LLC ("Instagram"). **These Terms of Use affect your legal rights and obligations. If you do not agree to be bound by all of these Terms of Use, do not access or use the Service.**  
   
