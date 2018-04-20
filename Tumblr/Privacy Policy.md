@@ -124,4 +124,4 @@ Link to Prior Versions
 
 You will find a link to prior versions of our Privacy Policy below. We have stored these versions on GitHub, which will also allow you to compare different versions and see what terms have changed:
 
-http://github.com/tumblr/policy/commits/master/privacy-policy.txt
+https://github.com/tumblr/policy/commits/master/privacy-policy.txt
