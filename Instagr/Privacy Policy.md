@@ -1,4 +1,4 @@
-Privacy Policy
+Privacy Policy**Note:** Our Privacy Policy is changing. You can view our new Data Policy here.
 
 In September 2012, we announced that Instagram had been acquired by Facebook. We knew that by teaming up with Facebook, we could build a better Instagram for you. Since then, we've been collaborating with Facebook's team on ways to do just that. As part of our new collaboration, we've learned that by being able to share insights and information with each other, we can build better experiences for our users.
 
