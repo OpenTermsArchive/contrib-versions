@@ -4,31 +4,31 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Help
     *   by these\_hazel\_eyes\_cry
-    *   4 hours ago
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by yaminobakura 10 hours ago)
+*   HELP
+    *   by babypink131
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   HELP
     *   by babypink131
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   HELP
     *   by babypink131
-    *   6 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   HELP
-    *   by babypink131
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   My site didn't appear
     *   by HoPuiYi325
-    *   3 months ago
+    *   4 months ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by NickyPat 1 week ago)
@@ -40,7 +40,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Really need my old blogs, how to retrieve them?
     *   by i\_like\_tsro
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -52,7 +52,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 (last comment by steven\_and\_alycia 4 weeks ago)
 *   How can I retrieve my old posts?
     *   by Chokie\_Cheng
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
