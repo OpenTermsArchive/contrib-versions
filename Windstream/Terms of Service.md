@@ -57,7 +57,6 @@ Terms and Conditions Windstream Information ▼ About us
     *   Company Overview
     *   Company History
     *   Tariffs
-    *   Company History
     *   Cavalier Tariffs
     *   Coverage Map
     *   Lifeline Assistance Program
