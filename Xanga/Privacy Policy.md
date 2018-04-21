@@ -4,10 +4,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Help
     *   by these\_hazel\_eyes\_cry
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by yaminobakura 10 hours ago)
+    *   1 (last comment by yaminobakura 1 day ago)
 *   HELP
     *   by babypink131
     *   1 week ago
@@ -49,7 +49,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 years ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by steven\_and\_alycia 4 weeks ago)
+    *   3 (last comment by steven\_and\_alycia 1 month ago)
 *   How can I retrieve my old posts?
     *   by Chokie\_Cheng
     *   1 month ago
