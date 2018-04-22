@@ -2,12 +2,18 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Help
-    *   by these\_hazel\_eyes\_cry
-    *   2 days ago
+*   All Blogs and Photos GONE! :(
+    *   by BigRig37
+    *   10 months ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by yaminobakura 1 day ago)
+    *   1 (last comment by DiddleMySkittleForever 2 hours ago)
+*   Help
+    *   by these\_hazel\_eyes\_cry
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by yaminobakura 2 days ago)
 *   HELP
     *   by babypink131
     *   1 week ago
@@ -31,7 +37,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 months ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by NickyPat 1 week ago)
+    *   1 (last comment by NickyPat 2 weeks ago)
 *   how can I find other blogs to follow
     *   by Amoreno45
     *   3 weeks ago
@@ -40,7 +46,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Really need my old blogs, how to retrieve them?
     *   by i\_like\_tsro
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -86,12 +92,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   1 (last comment by miss\_pepper1112 1 month ago)
-*   retrieve my old blog posts
-    *   by sarahtonin
-    *   3 months ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by hola\_gatito 1 month ago)
 
 1 2 3 ... 188 Next
 
