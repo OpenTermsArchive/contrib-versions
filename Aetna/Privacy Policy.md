@@ -121,7 +121,7 @@ Products &. programs Products &. programs
 *   Pharmacy services
 *   Medicare
 
-Resources &. reporting Resources &. reporting
+Resources &. reports Resources &. reports
 
 *   Newsletters &. news
 *   Forms
