@@ -563,7 +563,7 @@ Please try again Sign in
 
 Please try again, or Proceed with this address
 
-Street Number Street Name Street TypeALYAVEBCHBLFBLVDBNDBRBRGBYPBYUCIRCORCORSCPCRKCRSTCTCTRCURVCVDRESTESTSEXTFLSFLTFLTSFRSTFRYFWYGLNGRVHBRHLHLSHOLWHTSHVNHWYISJCTKNLSLDGLKLKSLNLNDGLOOPMDWMDWSMLMLSMNRMTMTNMTWYPARKPASSPATHPKWYPLPLZPNEPTPTERDRDGRIVROWRUNSHLSSMTSPGSPGSSPURSQSTSTATERTLTPKETRCEVISVLGVLYVWWALKWAYXING Unit (optional) State City Zip Code Continue Windstream is not available in your area
+Street Number Street Name Street TypeALYAVEBCHBLFBLVDBNDBRBRGBYPBYUCIRCORCORSCPCRKCRSTCTCTRCURVCVDRESTESTSEXTFLSFLTFLTSFRSTFRYFWYGLNGRVHBRHLHLSHOLWHTSHVNHWYISJCTKNLSLDGLKLKSLNLNDGLOOPMDWMDWSMLMLSMNRMTMTNMTWYPARKPASSPATHPKWYPLPLZPNEPTPTERDRDGRIVROWRUNSHLSSMTSPGSPGSSPURSQSTSTATERTLTPKETRCEVISVLGVLYVWWALKWAYXING Unit (optional) StateALARFLGAIAKSKYMNMSMONENMNYNCOHOKPASCTX City Zip Code Continue Windstream is not available in your area
 
 View Carriers in Your Area Enter Your Address Again
 
@@ -575,7 +575,7 @@ Use Selected Enter Your Address Again Try a different method
 
 Proceed with entered address
 
-Products▼
+Products
 
 *   Internet
 *   TV
@@ -583,14 +583,14 @@ Products▼
 *   Electronics
 *   Available Services
 
-Learn▼
+Learn
 
 *   Support
 *   Store Finder
 *   Windstream Blog
 *   Windstream.net
 
-Company▼
+Company
 
 *   Windstream Overview
 *   Careers
