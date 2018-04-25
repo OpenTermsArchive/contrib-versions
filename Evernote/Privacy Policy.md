@@ -1,3 +1,5 @@
+**Please view our new privacy policy, which will become effective May 25, 2018.**
+
 **Effective Date: July 3, 2017 – What’s New >>**
 
 **Return to Privacy Center**
