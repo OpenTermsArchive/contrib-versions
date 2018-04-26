@@ -358,6 +358,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Microsoft Health
 *   Microsoft Movies &. TV
 *   Microsoft Pay
+*   Microsoft Research Interactive Science
 *   Microsoft Support and Recovery Assistant for Office 365
 *   Microsoft Translator
 *   Microsoft Wallpaper
@@ -781,6 +782,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Microsoft Health
 *   Microsoft Movies &. TV
 *   Microsoft Pay
+*   Microsoft Research Interactive Science
 *   Microsoft Support and Recovery Assistant for Office 365
 *   Microsoft Translator
 *   Microsoft Wallpaper
