@@ -4,16 +4,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Help
     *   by these\_hazel\_eyes\_cry
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by DiddleMySkittleForever 1 day ago)
+    *   3 (last comment by eeyorewendy 19 hours ago)
 *   All Blogs and Photos GONE! :(
     *   by BigRig37
     *   10 months ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by DiddleMySkittleForever 3 days ago)
+    *   1 (last comment by DiddleMySkittleForever 4 days ago)
 *   HELP
     *   by babypink131
     *   1 week ago
@@ -40,7 +40,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by NickyPat 2 weeks ago)
 *   how can I find other blogs to follow
     *   by Amoreno45
-    *   4 weeks ago
+    *   1 month ago
     *   in Following
     *   0 votes
     *   0
