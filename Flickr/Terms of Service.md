@@ -205,9 +205,8 @@ Europe, Middle East and Africa
         1.  Customer Support (English)
         2.  Customer Support (French)
     5.  _Updates_. Oath may automatically download and install the latest version of the Services on your device once a new version or feature is available.
-    6.  _Personal Data of Friends and Contacts_. By using the Services you agree that you have obtained the consent of your friends and contacts to provide their personal information (for example: their email address or telephone number) to Oath or a third party, as applicable, and that Oath or a third party may use your name to send messages on your behalf to make the Services available to your friends and contacts. The Services are not to be used for any form of spam. 
-    7.  Some provinces and territories do not allow for the exclusion of warranties (including the province of Quebec). In these provinces and territories, you have only the warranties that are expressly required to be provided in accordance with applicable law.
-    8.  Some provinces and territories do not provide exclusion of limitation of liability for all types of damages (including the province of Quebec). In these provinces, Oath will only be liable to you for damages that we are expressly required to be liable to you under applicable law.
+    6.  Some provinces and territories do not allow for the exclusion of warranties (including the province of Quebec). In these provinces and territories, you have only the warranties that are expressly required to be provided in accordance with applicable law.
+    7.  Some provinces and territories do not provide exclusion of limitation of liability for all types of damages (including the province of Quebec). In these provinces, Oath will only be liable to you for damages that we are expressly required to be liable to you under applicable law.
 
 **Asia Pacific**
 
