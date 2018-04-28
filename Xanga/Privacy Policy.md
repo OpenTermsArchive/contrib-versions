@@ -7,13 +7,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by eeyorewendy 1 day ago)
+    *   3 (last comment by eeyorewendy 2 days ago)
 *   All Blogs and Photos GONE! :(
     *   by BigRig37
     *   10 months ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by DiddleMySkittleForever 5 days ago)
+    *   1 (last comment by DiddleMySkittleForever 6 days ago)
 *   HELP
     *   by babypink131
     *   2 weeks ago
@@ -91,7 +91,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 months ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by miss\_pepper1112 1 month ago)
+    *   1 (last comment by miss\_pepper1112 2 months ago)
 
 1 2 3 ... 188 Next
 
