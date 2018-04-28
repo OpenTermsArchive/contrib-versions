@@ -60,8 +60,8 @@ Throughout this Privacy Policy we refer to the Spotify Service or the Service. T
 
 By using or interacting with the Service, you are consenting to:
 
-1.  the use of cookies and other technologies.
-2.  the transfer of your information outside of the country where you live.
+1.  the use of cookies and other technologies;
+2.  the transfer of your information outside of the country where you live;
 3.  the collection, use, sharing, and other processing of your information, including for advertising-related purposes (as described in the rest of this Privacy Policy, so please keep on reading!). and
 4.  the public availability of your information and the controls over such information as described in Sharing information.
 
@@ -128,7 +128,7 @@ Consistent with the permissions you give us to collect the information, we may u
 2.  to ensure technical functionality of the Service, develop new products and services, and analyse your use of the Service, including your interaction with applications, advertising, products, and services that are made available, linked to, or offered through the Service;
 3.  to communicate with you for Service-related or research purposes including via emails, notifications, text messages, or other messages, which you agree to receive;
 4.  to communicate with you, either directly or through one of our partners, for marketing and promotional purposes via emails, notifications, or other messages, consistent with any permissions you may have communicated to us (e.g., through your Spotify account settings). in the section Your preferences below, we inform you of the controls you can use to opt out from receiving certain messages;
-5.  to, if you explicitly provide us your permission, use your mobile phone number to send you informational, marketing and promotional text messages using an automatic dialing system. you are not required to provide consent as a condition of signing up for Spotify’s services.
+5.  to, if you explicitly provide us your permission, use your mobile phone number to send you informational, marketing and promotional text messages using an automatic dialing system. you are not required to provide consent as a condition of signing up for Spotify’s services;
 6.  to enable and promote the Service and other services or products, either within or outside the Service, including features and content of the Service and products and services made available through the Service;
 7.  to process your payment or prevent or detect fraud;
 8.  to enforce this Privacy Policy, the Terms and Conditions of Use, and any other terms that you have agreed to, including to protect the rights, property, or safety of Spotify, its users, or any other person, or the copyright-protected content of the Service;
