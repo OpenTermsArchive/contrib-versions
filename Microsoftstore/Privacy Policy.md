@@ -8,7 +8,7 @@ Please read the product-specific details in this privacy statement, which provid
 
 The most recent version of this privacy statement can be found at aka.ms/privacy.
 
-Personal Data We CollectHow We Use Personal DataReasons We Share Personal DataHow to Access &. Control Your Personal DataCookies &. Similar TechnologiesNotice to End UsersMicrosoft accountOther Important Privacy Information Security of Personal DataWhere We Store and Process Personal DataOur Retention of Personal DataCollection of Data From ChildrenPreview or Free of Charge ReleasesChanges to This Privacy StatementHow to Contact UsEnterprise &. Developer Products Enterprise Online ServicesEnterprise and Developer Software and AppliancesCognitive ServicesProductivity &. Communications Products OfficeOneDriveOutlookSkypeSearch &. Artificial Intelligence BingCortanaMicrosoft TranslatorSwiftKeyWindows ActivationAdvertising IDDiagnosticsLocation Services, Motion Sensing, &. RecordingSecurity and Safety FeaturesSpeech, Inking and TypingSync SettingsUpdate ServicesWeb Browsers: Microsoft Edge and Internet ExplorerWi-Fi Connecting to suggested open hotspotsWindows AppsWindows Media PlayerWindows HelloWindows SearchEntertainment and Related Services XboxMicrosoft StoreMSNGroove Music/Movies &. TVSilverlightMicrosoft Health Services Health ServicesHealthVaultCookies
+Personal Data We CollectHow We Use Personal DataReasons We Share Personal DataHow to Access &. Control Your Personal DataCookies &. Similar TechnologiesNotice to End UsersMicrosoft accountOther Important Privacy Information Security of Personal DataWhere We Store and Process Personal DataOur Retention of Personal DataCollection of Data From ChildrenPreview or Free of Charge ReleasesChanges to This Privacy StatementHow to Contact UsProduct-specific details:Enterprise &. Developer Products Enterprise Online ServicesEnterprise and Developer Software and AppliancesCognitive ServicesProductivity &. Communications Products OfficeOneDriveOutlookSkypeSearch &. Artificial Intelligence BingCortanaMicrosoft TranslatorSwiftKeyWindows ActivationAdvertising IDDiagnosticsLocation Services, Motion Sensing, &. RecordingSecurity and Safety FeaturesSpeech, Inking and TypingSync SettingsUpdate ServicesWeb Browsers: Microsoft Edge and Internet ExplorerWi-Fi Connecting to suggested open hotspotsWindows AppsWindows Media PlayerWindows HelloWindows SearchEntertainment and Related Services XboxMicrosoft StoreMSNGroove Music/Movies &. TVSilverlightMicrosoft Health Services Health ServicesHealthVaultCookies
 
 Most Microsoft Sites use "cookies," small text files that can be read by a web server in the domain that put the cookie on your hard drive. We may use cookies to store your preferences and settings. help with sign-in. provide targeted ads. and analyze site operations. Click here to learn more.
 
@@ -338,7 +338,7 @@ Skype Communications S.à.r.l. 23-29 Rives de Clausen L-2165 Luxembourg, Luxembo
 
 To find the Microsoft subsidiary in your country or region, see www.microsoft.com/worldwide/.
 
-Top of page Enterprise and Developer ProductsEnterprise &. Developer Products
+Top of page Product-specific details:Enterprise and Developer ProductsEnterprise &. Developer Products
 
 Enterprise and Developer Products are Microsoft products and related software offered and designed primarily for use by organizations and developers. They include:
 
