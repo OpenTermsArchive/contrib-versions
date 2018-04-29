@@ -1,3 +1,5 @@
+_If you live in the European Region, WhatsApp Ireland Limited provides WhatsApp to you under this Terms of Service and Privacy Policy._
+
 Key Updates
 
 Respect for your privacy is coded into our DNA. Since we started WhatsApp, we’ve built our Services with a set of strong privacy principles in mind. In our updated Terms and Privacy Policy you’ll find:
@@ -9,7 +11,7 @@ Respect for your privacy is coded into our DNA. Since we started WhatsApp, we’
 *   **New ways to use WhatsApp.** We will explore ways for you and businesses to communicate with each other using WhatsApp, such as through order, transaction, and appointment information, delivery and shipping notifications, product and service updates, and marketing. For example, you may receive flight status information for upcoming travel, a receipt for something you purchased, or a notification when a delivery will be made. Messages you may receive containing marketing could include an offer for something that might interest you. We do not want you to have a spammy experience. as with all of your messages, you can manage these communications, and we will honor the choices you make.
 *   **The choices you have.** If you are an existing user, you can choose not to have your WhatsApp account information shared with Facebook to improve your Facebook ads and products experiences. Existing users who accept our updated Terms and Privacy Policy will have an additional 30 days to make this choice by going to Settings >. Account.
 
-WhatsApp Terms Of Service Last modified: August 25, 2016 (archived versions)
+WhatsApp Terms Of ServiceLast modified: August 25, 2016 (archived versions)
 
 WhatsApp Inc. (“WhatsApp,” “our,” “we,” or “us”) provides messaging, Internet calling, and other services to users around the world. Please read our Terms of Service so you understand what’s up with your use of WhatsApp. You agree to our Terms of Service (“Terms”) by installing, accessing, or using our apps, services, features, software, or website (together, “Services”).
 
@@ -162,7 +164,7 @@ WhatsApp Intellectual Property Policy
 
 WhatsApp Brand Guidelines
 
-WhatsApp Privacy Policy Last modified: August 25, 2016 (archived versions)
+WhatsApp Privacy PolicyLast modified: August 25, 2016 (archived versions)
 
 Respect for your privacy is coded into our DNA. Since we started WhatsApp, we’ve aspired to build our Services with a set of strong privacy principles in mind.
 
@@ -339,7 +341,7 @@ Please include all of the following information when reporting a copyright or tr
     *   You declare, under penalty of perjury, that you are the owner or authorized to act on behalf of the owner of an exclusive copyright or trademark that is allegedly infringed.
 *   Your electronic signature or physical signature.
 
-Cookies About cookies
+CookiesAbout cookies
 
 A cookie is a small text file that a website you visit asks your browser to store on your computer or mobile device.
 
