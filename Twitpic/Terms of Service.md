@@ -11,9 +11,9 @@ Twitter Terms of Service
 
   Twitter Terms of Service If you live in the United States **Effective: September 30, 2016**  
 
-We have made revisions to these Terms of Service, effective May 25th, 2018. You can see the new Terms of Service here \[https://twitter.com/tos#update\]. By continuing to use our services after May 25th, you agree to the new Terms of Service. A summary of changes can be found on our Help Center \[https://help.twitter.com/rules-and-policies/update-privacy-policy\].  
+We have made revisions to these Terms of Service, effective May 25th, 2018. You can see the new Terms of Service here \[https://twitter.com/tos#update\]. By continuing to use our services after May 25th, you agree to the new Terms of Service. A summary of changes can be found on our Help Center \[https://help.twitter.com/rules-and-policies/update-privacy-policy\].
 
-These Terms of Service (“**Terms**”) govern your access to and use of our services, including our various websites, SMS, APIs, email notifications, applications, buttons, widgets, ads, commerce services, and our other covered services  (https://support.twitter.com/articles/20172501) that link to these Terms (collectively, the “**Services**”), and any information, text, links, graphics, photos, videos, or other materials or arrangements of materials uploaded, downloaded or appearing on the Services (collectively referred to as “**Content**”). By using the Services you agree to be bound by these Terms.
+These Terms of Service (“**Terms**”) govern your access to and use of our services, including our various websites, SMS, APIs, email notifications, applications, buttons, widgets, ads, commerce services, and our other covered services (https://support.twitter.com/articles/20172501) that link to these Terms (collectively, the “**Services**”), and any information, text, links, graphics, photos, videos, or other materials or arrangements of materials uploaded, downloaded or appearing on the Services (collectively referred to as “**Content**”). By using the Services you agree to be bound by these Terms.
 
  
 
@@ -47,13 +47,13 @@ You are responsible for your use of the Services and for any Content you provide
 
 Any use or reliance on any Content or materials posted via the Services or obtained by you through the Services is at your own risk. We do not endorse, support, represent or guarantee the completeness, truthfulness, accuracy, or reliability of any Content or communications posted via the Services or endorse any opinions expressed via the Services. You understand that by using the Services, you may be exposed to Content that might be offensive, harmful, inaccurate or otherwise inappropriate, or in some cases, postings that have been mislabeled or are otherwise deceptive. All Content is the sole responsibility of the person who originated such Content. We may not monitor or control the Content posted via the Services and, we cannot take responsibility for such Content.
 
-Twitter respects the intellectual property rights of others and expects users of the Services to do the same. We reserve the right to remove Content alleged to be infringing without prior notice, at our sole discretion, and without liability to you. We will respond to notices of alleged copyright infringement that comply with applicable law and are properly provided to us, as described in our Copyright policy  (https://support.twitter.com/articles/15795). If you believe that your Content has been copied in a way that constitutes copyright infringement, please report this by visiting our Copyright reporting form (https://support.twitter.com/forms/dmca) or contacting our designated copyright agent at:
+Twitter respects the intellectual property rights of others and expects users of the Services to do the same. We reserve the right to remove Content alleged to be infringing without prior notice, at our sole discretion, and without liability to you. We will respond to notices of alleged copyright infringement that comply with applicable law and are properly provided to us, as described in our Copyright policy (https://support.twitter.com/articles/15795). If you believe that your Content has been copied in a way that constitutes copyright infringement, please report this by visiting our Copyright reporting form (https://support.twitter.com/forms/dmca) or contacting our designated copyright agent at:
 
 Twitter, Inc.  
 Attn: Copyright Agent  
 1355 Market Street, Suite 900  
 San Francisco, CA 94103  
-Reports: https://support.twitter.com/forms/dmca  
+Reports: https://support.twitter.com/forms/dmca  
 Email: copyright@twitter.com
 
 Your Rights
@@ -92,9 +92,9 @@ The Services are protected by copyright, trademark, and other laws of both the U
 
 Ending These Terms
 
-You may end your legal agreement with Twitter at any time by deactivating your accounts and discontinuing your use of the Services. See http://support.twitter.com/articles/15358-how-to-deactivate-your-account for instructions on how to deactivate your account and the Privacy Policy for more information on what happens to your information.  
+You may end your legal agreement with Twitter at any time by deactivating your accounts and discontinuing your use of the Services. See http://support.twitter.com/articles/15358-how-to-deactivate-your-account for instructions on how to deactivate your account and the Privacy Policy for more information on what happens to your information.
 
-We may suspend or terminate your account or cease providing you with all or part of the Services at any time for any or no reason, including, but not limited to, if we reasonably believe: (i) you have violated these Terms or the Twitter Rules, (ii) you create risk or possible legal exposure for us. (iii) your account should be removed due to prolonged inactivity. or (iv) our provision of the Services to you is no longer commercially viable. We will make reasonable efforts to notify you by the email address associated with your account or the next time you attempt to access your account, depending on the circumstances. In all such cases, the Terms shall terminate, including, without limitation, your license to use the Services, except that the following sections shall continue to apply: II, III, V, and VI.
+We may suspend or terminate your account or cease providing you with all or part of the Services at any time for any or no reason, including, but not limited to, if we reasonably believe: (i) you have violated these Terms or the Twitter Rules, (ii) you create risk or possible legal exposure for us. (iii) your account should be removed due to prolonged inactivity. or (iv) our provision of the Services to you is no longer commercially viable. We will make reasonable efforts to notify you by the email address associated with your account or the next time you attempt to access your account, depending on the circumstances. In all such cases, the Terms shall terminate, including, without limitation, your license to use the Services, except that the following sections shall continue to apply: II, III, V, and VI.
 
   5. Disclaimers and Limitations of Liability The Services are Available "AS-IS"
 
@@ -123,6 +123,8 @@ Archive of Previous Terms
 
   Twitter Terms of Service If you live in the United States **Effective: May 25, 2018**
 
+These Terms of Service (“Terms”) govern your access to and use of our services, including our various websites, SMS, APIs, email notifications, applications, buttons, widgets, ads, commerce services, and our other covered services  (https://support.twitter.com/articles/20172501) that link to these Terms (collectively, the “Services”), and any information, text, links, graphics, photos, audio, videos, or other materials or arrangements of materials uploaded, downloaded or appearing on the Services (collectively referred to as “Content”). By using the Services you agree to be bound by these Terms.  
+
 *   1\. Who May Use the Services
 *   2\. Privacy
 *   3\. Content on the Services
@@ -139,8 +141,6 @@ Archive of Previous Terms
 *   5\. Disclaimers and Limitaions of Liability
 *   6\. General
 
-These Terms of Service (“Terms”) govern your access to and use of our services, including our various websites, SMS, APIs, email notifications, applications, buttons, widgets, ads, commerce services, and our other covered services  (https://support.twitter.com/articles/20172501) that link to these Terms (collectively, the “Services”), and any information, text, links, graphics, photos, audio, videos, or other materials or arrangements of materials uploaded, downloaded or appearing on the Services (collectively referred to as “Content”). By using the Services you agree to be bound by these Terms.  
-
   1. Who May Use the Services
 
 You may use the Services only if you agree to form a binding contract with Twitter and are not a person barred from receiving services under the laws of the applicable jurisdiction. In any case, you must be at least 13 years old, or in the case of Periscope 16 years old, to use the Services. If you are accepting these Terms and using the Services on behalf of a company, organization, government, or other legal entity, you represent and warrant that you are authorized to do so and have the authority to bind such entity to these Terms, in which case the words “you” and “your” as used in these Terms shall refer to such entity.
@@ -155,7 +155,7 @@ You are responsible for your use of the Services and for any Content you provide
 
 Any use or reliance on any Content or materials posted via the Services or obtained by you through the Services is at your own risk. We do not endorse, support, represent or guarantee the completeness, truthfulness, accuracy, or reliability of any Content or communications posted via the Services or endorse any opinions expressed via the Services. You understand that by using the Services, you may be exposed to Content that might be offensive, harmful, inaccurate or otherwise inappropriate, or in some cases, postings that have been mislabeled or are otherwise deceptive. All Content is the sole responsibility of the person who originated such Content. We may not monitor or control the Content posted via the Services and, we cannot take responsibility for such Content.
 
-We reserve the right to remove Content that violates the User Agreement, including for example, copyright or trademark violations, impersonation, unlawful conduct, or harassment.  Information regarding specific policies and the process for reporting or appealing violations can be found in our Help Center (https://support.twitter.com/articles/15789#specific-violations and https://support.twitter.com/articles/15790).
+We reserve the right to remove Content that violates the User Agreement, including for example, copyright or trademark violations, impersonation, unlawful conduct, or harassment. Information regarding specific policies and the process for reporting or appealing violations can be found in our Help Center (https://support.twitter.com/articles/15789#specific-violations and https://support.twitter.com/articles/15790).
 
 If you believe that your Content has been copied in a way that constitutes copyright infringement, please report this by visiting our Copyright reporting form (https://support.twitter.com/forms/dmca) or contacting our designated copyright agent at:
 
@@ -163,7 +163,7 @@ Twitter, Inc.
 Attn: Copyright Agent  
 1355 Market Street, Suite 900  
 San Francisco, CA 94103  
-Reports: https://support.twitter.com/forms/dmca  
+Reports: https://support.twitter.com/forms/dmca  
 Email: copyright@twitter.com  
 (for content on Twitter)
 
@@ -185,7 +185,7 @@ Twitter has an evolving set of rules for how ecosystem partners can interact wit
 
 You represent and warrant that you have, or have obtained, all rights, licenses, consents, permissions, power and/or authority necessary to grant the rights granted herein for any Content that you submit, post or display on or through the Services. You agree that such Content will not contain material subject to copyright or other proprietary rights, unless you have necessary permission or are otherwise legally entitled to post the material and to grant Twitter the license described above.
 
-    4. Using the Services
+  4. Using the Services
 
 Please review the Twitter Rules (and, for Periscope, the Periscope Community Guidelines at https://www.pscp.tv/content), which are part of the User Agreement and outline what is prohibited on the Services. You may use the Services only in compliance with these Terms and all applicable laws, rules and regulations.
 
@@ -193,11 +193,11 @@ Our Services evolve constantly. As such, the Services may change from time to ti
 
 In consideration for Twitter granting you access to and use of the Services, you agree that Twitter and its third-party providers and partners may place advertising on the Services or in connection with the display of Content or information from the Services whether submitted by you or others. You also agree not to misuse our Services, for example, by interfering with them or accessing them using a method other than the interface and the instructions that we provide. You may not do any of the following while accessing or using the Services: (i) access, tamper with, or use non-public areas of the Services, Twitter’s computer systems, or the technical delivery systems of Twitter’s providers. (ii) probe, scan, or test the vulnerability of any system or network or breach or circumvent any security or authentication measures. (iii) access or search or attempt to access or search the Services by any means (automated or otherwise) other than through our currently available, published interfaces that are provided by Twitter (and only pursuant to the applicable terms and conditions), unless you have been specifically allowed to do so in a separate agreement with Twitter (NOTE: crawling the Services is permissible if done in accordance with the provisions of the robots.txt file, however, scraping the Services without the prior consent of Twitter is expressly prohibited). (iv) forge any TCP/IP packet header or any part of the header information in any email or posting, or in any way use the Services to send altered, deceptive or false source-identifying information. or (v) interfere with, or disrupt, (or attempt to do so), the access of any user, host or network, including, without limitation, sending a virus, overloading, flooding, spamming, mail-bombing the Services, or by scripting the creation of Content in such a manner as to interfere with or create an undue burden on the Services. We also reserve the right to access, read, preserve, and disclose any information as we reasonably believe is necessary to (i) satisfy any applicable law, regulation, legal process or governmental request, (ii) enforce the Terms, including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security or technical issues, (iv) respond to user support requests, or (v) protect the rights, property or safety of Twitter, its users and the public. Twitter does not disclose personally-identifying information to third parties except in accordance with our Privacy Policy.
 
-If you use developer features of the Services, including but not limited to Twitter for Websites (https://dev.twitter.com/web/overview), Twitter Cards (https://dev.twitter.com/cards/overview), Public API (https://dev.twitter.com/streaming/public), or Sign in with Twitter (https://dev.twitter.com/web/sign-in), you agree to our Developer Agreement (https://dev.twitter.com/overview/terms/agreement) and Developer Policy (https://dev.twitter.com/overview/terms/policy). If you want to reproduce, modify, create derivative works, distribute, sell, transfer, publicly display, publicly perform, transmit, or otherwise use the Services or Content on the Services, you must use the interfaces and instructions we provide, except as permitted through the Twitter Services, these Terms, or the terms provided on dev.twitter.com.  
+If you use developer features of the Services, including but not limited to Twitter for Websites (https://dev.twitter.com/web/overview), Twitter Cards (https://dev.twitter.com/cards/overview), Public API (https://dev.twitter.com/streaming/public), or Sign in with Twitter (https://dev.twitter.com/web/sign-in), you agree to our Developer Agreement (https://dev.twitter.com/overview/terms/agreement) and Developer Policy (https://dev.twitter.com/overview/terms/policy). If you want to reproduce, modify, create derivative works, distribute, sell, transfer, publicly display, publicly perform, transmit, or otherwise use the Services or Content on the Services, you must use the interfaces and instructions we provide, except as permitted through the Twitter Services, these Terms, or the terms provided on dev.twitter.com.  
 
-If you use advertising features of the Services, you must agree to our Twitter Master Services Agreement (https://ads.twitter.com/terms).  
+If you use advertising features of the Services, you must agree to our Twitter Master Services Agreement (https://ads.twitter.com/terms).  
 
-If you use Super Hearts, Coins, or Stars on Periscope, you agree to our Super Hearts Terms (https://legal.twitter.com/en/periscope/super/terms.html).
+If you use Super Hearts, Coins, or Stars on Periscope, you agree to our Super Hearts Terms (https://legal.twitter.com/en/periscope/super/terms.html).
 
 Your Account
 
@@ -213,11 +213,11 @@ The Services are protected by copyright, trademark, and other laws of both the U
 
 Ending These Terms
 
-You may end your legal agreement with Twitter at any time by deactivating your accounts and discontinuing your use of the Services. See http://support.twitter.com/articles/15358-how-to-deactivate-your-account (and for Periscope,  https://help.pscp.tv/customer/portal/articles/2460220) for instructions on how to deactivate your account and the Privacy Policy for more information on what happens to your information.  
+You may end your legal agreement with Twitter at any time by deactivating your accounts and discontinuing your use of the Services. See http://support.twitter.com/articles/15358-how-to-deactivate-your-account (and for Periscope, https://help.pscp.tv/customer/portal/articles/2460220) for instructions on how to deactivate your account and the Privacy Policy for more information on what happens to your information.  
 
-We may suspend or terminate your account or cease providing you with all or part of the Services at any time for any or no reason, including, but not limited to, if we reasonably believe: (i) you have violated these Terms or the Twitter Rules or Periscope Community Guidelines, (ii) you create risk or possible legal exposure for us. (iii) your account should be removed due to prolonged inactivity. or (iv) our provision of the Services to you is no longer commercially viable. We will make reasonable efforts to notify you by the email address associated with your account or the next time you attempt to access your account, depending on the circumstances. In all such cases, the Terms shall terminate, including, without limitation, your license to use the Services, except that the following sections shall continue to apply: II, III, V, and VI.
+We may suspend or terminate your account or cease providing you with all or part of the Services at any time for any or no reason, including, but not limited to, if we reasonably believe: (i) you have violated these Terms or the Twitter Rules or Periscope Community Guidelines, (ii) you create risk or possible legal exposure for us. (iii) your account should be removed due to prolonged inactivity. or (iv) our provision of the Services to you is no longer commercially viable. We will make reasonable efforts to notify you by the email address associated with your account or the next time you attempt to access your account, depending on the circumstances. In all such cases, the Terms shall terminate, including, without limitation, your license to use the Services, except that the following sections shall continue to apply: II, III, V, and VI.
 
-    5. Disclaimers and Limitations of Liability The Services are Available "AS-IS"
+  5. Disclaimers and Limitations of Liability The Services are Available "AS-IS"
 
 Your access to and use of the Services or any Content are at your own risk. You understand and agree that the Services are provided to you on an “AS IS” and “AS AVAILABLE” basis. The “Twitter Entities” refers to Twitter, its parents, affiliates, related companies, officers, directors, employees, agents, representatives, partners, and licensors. Without limiting the foregoing, to the maximum extent permitted under applicable law, THE TWITTER ENTITIES DISCLAIM ALL WARRANTIES AND CONDITIONS, WHETHER EXPRESS OR IMPLIED, OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. The Twitter Entities make no warranty or representation and disclaim all responsibility and liability for: (i) the completeness, accuracy, availability, timeliness, security or reliability of the Services or any Content. (ii) any harm to your computer system, loss of data, or other harm that results from your access to or use of the Services or any Content. (iii) the deletion of, or the failure to store or to transmit, any Content and other communications maintained by the Services. and (iv) whether the Services will meet your requirements or be available on an uninterrupted, secure, or error-free basis. No advice or information, whether oral or written, obtained from the Twitter Entities or through the Services, will create any warranty or representation not expressly made herein.  
 
@@ -243,6 +243,10 @@ Archive of Previous Terms
 
   Twitter Terms of Service If you live outside of the United States **Effective: October 2, 2017**
 
+We have made revisions to these Terms of Service, effective May 25th, 2018. You can see the new Terms of Service here \[https://twitter.com/tos#update-intlTerms\]. By continuing to use our services after May 25th, you agree to the new Terms of Service. A summary of changes can be found on our Help Center \[https://help.twitter.com/rules-and-policies/update-privacy-policy\].  
+
+These Terms of Service (“Terms”) govern your access to and use of our services, including our various websites, SMS, APIs, email notifications, applications, buttons, widgets, ads, commerce services, and our other covered services (https://support.twitter.com/articles/20172501) that link to these Terms (collectively, the “Services”), and any information, text, links, graphics, photos, videos, or other materials or arrangements of materials uploaded, downloaded or appearing on the Services (collectively referred to as “Content”). By using the Services you agree to be bound by these Terms.  
+
 *   1\. Who May Use the Services
 *   2\. Privacy
 *   3\. Content on the Services
@@ -259,10 +263,6 @@ Archive of Previous Terms
 *   5\. Limitations of Liability
 *   6\. General
 
-We have made revisions to these Terms of Service, effective May 25th, 2018. You can see the new Terms of Service here \[https://twitter.com/tos#update-intlTerms\]. By continuing to use our services after May 25th, you agree to the new Terms of Service. A summary of changes can be found on our Help Center \[https://help.twitter.com/rules-and-policies/update-privacy-policy\].  
-
-These Terms of Service (“Terms”) govern your access to and use of our services, including our various websites, SMS, APIs, email notifications, applications, buttons, widgets, ads, commerce services, and our other covered services (https://support.twitter.com/articles/20172501) that link to these Terms (collectively, the “Services”), and any information, text, links, graphics, photos, videos, or other materials or arrangements of materials uploaded, downloaded or appearing on the Services (collectively referred to as “Content”). By using the Services you agree to be bound by these Terms.  
-
   1. Who May Use the Services
 
 You may use the Services only if you agree to form a binding contract with Twitter and are not a person barred from receiving services under the laws of the applicable jurisdiction. If you are accepting these Terms and using the Services on behalf of a company, organization, government, or other legal entity, you represent and warrant that you are authorized to do so.  
@@ -277,7 +277,7 @@ You are responsible for your use of the Services and for any Content you provide
 
 Any use or reliance on any Content or materials posted via the Services or obtained by you through the Services is at your own risk. We do not endorse, support, represent or guarantee the completeness, truthfulness, accuracy, or reliability of any Content or communications posted via the Services or endorse any opinions expressed via the Services. You understand that by using the Services, you may be exposed to Content that might be offensive, harmful, inaccurate or otherwise inappropriate, or in some cases, postings that have been mislabeled or are otherwise deceptive. All Content is the sole responsibility of the person who originated such Content. We may not monitor or control the Content posted via the Services and, we cannot take responsibility for such Content.
 
-We reserve the right to remove Content that violates the User Agreement, including for example, copyright or trademark violations, impersonation, unlawful conduct, or harassment.  Information regarding specific policies and the process for reporting or appealing violations can be found in our Help Center (https://support.twitter.com/articles/15789#specific-violations and https://support.twitter.com/articles/15790).
+We reserve the right to remove Content that violates the User Agreement, including for example, copyright or trademark violations, impersonation, unlawful conduct, or harassment. Information regarding specific policies and the process for reporting or appealing violations can be found in our Help Center (https://support.twitter.com/articles/15789#specific-violations and https://support.twitter.com/articles/15790).
 
 If you believe that your Content has been copied in a way that constitutes copyright infringement, please report this by visiting our Copyright reporting form (https://support.twitter.com/forms/dmca) or contacting our designated copyright agent at:
 
@@ -285,12 +285,12 @@ Twitter, Inc.
 Attn: Copyright Agent  
 1355 Market Street, Suite 900  
 San Francisco, CA 94103  
-Reports: https://support.twitter.com/forms/dmca  
+Reports: https://support.twitter.com/forms/dmca  
 Email: copyright@twitter.com
 
 Your Rights
 
-You retain your rights to any Content you submit, post or display on or through the Services. What’s yours is yours — you own your Content (and your photos and videos are part of the Content).  
+You retain your rights to any Content you submit, post or display on or through the Services. What’s yours is yours — you own your Content (and your photos and videos are part of the Content).
 
 By submitting, posting or displaying Content on or through the Services, you grant us a worldwide, non-exclusive, royalty-free license (with the right to sublicense) to use, copy, reproduce, process, adapt, modify, publish, transmit, display and distribute such Content in any and all media or distribution methods (now known or later developed). This license authorizes us to make your Content available to the rest of the world and to let others do the same. You agree that this license includes the right for Twitter to provide, promote, and improve the Services and to make Content submitted to or through the Services available to other companies, organizations or individuals for the syndication, broadcast, distribution, promotion or publication of such Content on other media and services, subject to our terms and conditions for such Content use. Such additional uses by Twitter, or other companies, organizations or individuals, may be made with no compensation paid to you with respect to the Content that you submit, post, transmit or otherwise make available through the Services.
 
@@ -344,6 +344,8 @@ Archive of Previous Terms
 
   Twitter Terms of Service If you live outside of the United States **Effective: May 25, 2018**
 
+These Terms of Service (“Terms”) govern your access to and use of our services, including our various websites, SMS, APIs, email notifications, applications, buttons, widgets, ads, commerce services, and our other covered services (https://support.twitter.com/articles/20172501) that link to these Terms (collectively, the “Services”), and any information, text, links, graphics, photos, audio, videos, or other materials or arrangements of materials uploaded, downloaded or appearing on the Services (collectively referred to as “Content”). By using the Services you agree to be bound by these Terms.  
+
 *   1\. Who May Use the Services
 *   2\. Privacy
 *   3\. Content on the Services
@@ -360,8 +362,6 @@ Archive of Previous Terms
 *   5\. Limitations of Liability
 *   6\. General
 
-These Terms of Service (“Terms”) govern your access to and use of our services, including our various websites, SMS, APIs, email notifications, applications, buttons, widgets, ads, commerce services, and our other covered services (https://support.twitter.com/articles/20172501) that link to these Terms (collectively, the “Services”), and any information, text, links, graphics, photos, audio, videos, or other materials or arrangements of materials uploaded, downloaded or appearing on the Services (collectively referred to as “Content”). By using the Services you agree to be bound by these Terms.  
-
   1. Who May Use the Services
 
 You may use the Services only if you agree to form a binding contract with Twitter and are not a person barred from receiving services under the laws of the applicable jurisdiction. In any case, you must be at least 13 years old, or in the case of Periscope 16 years old, to use the Services. If you are accepting these Terms and using the Services on behalf of a company, organization, government, or other legal entity, you represent and warrant that you are authorized to do so and have the authority to bind such entity to these Terms, in which case the words “you” and “your” as used in these Terms shall refer to such entity.  
@@ -376,7 +376,7 @@ You are responsible for your use of the Services and for any Content you provide
 
 Any use or reliance on any Content or materials posted via the Services or obtained by you through the Services is at your own risk. We do not endorse, support, represent or guarantee the completeness, truthfulness, accuracy, or reliability of any Content or communications posted via the Services or endorse any opinions expressed via the Services. You understand that by using the Services, you may be exposed to Content that might be offensive, harmful, inaccurate or otherwise inappropriate, or in some cases, postings that have been mislabeled or are otherwise deceptive. All Content is the sole responsibility of the person who originated such Content. We may not monitor or control the Content posted via the Services and, we cannot take responsibility for such Content.
 
-We reserve the right to remove Content that violates the User Agreement, including for example, copyright or trademark violations, impersonation, unlawful conduct, or harassment.  Information regarding specific policies and the process for reporting or appealing violations can be found in our Help Center (https://support.twitter.com/articles/15789#specific-violations and https://support.twitter.com/articles/15790).
+We reserve the right to remove Content that violates the User Agreement, including for example, copyright or trademark violations, impersonation, unlawful conduct, or harassment. Information regarding specific policies and the process for reporting or appealing violations can be found in our Help Center (https://support.twitter.com/articles/15789#specific-violations and https://support.twitter.com/articles/15790).
 
 If you believe that your Content has been copied in a way that constitutes copyright infringement, please report this by visiting our Copyright reporting form (https://support.twitter.com/forms/dmca) or contacting our designated copyright agent at:
 
@@ -384,7 +384,7 @@ Twitter, Inc.
 Attn: Copyright Agent  
 1355 Market Street, Suite 900  
 San Francisco, CA 94103  
-Reports: https://support.twitter.com/forms/dmca  
+Reports: https://support.twitter.com/forms/dmca  
 Email: copyright@twitter.com  
 (for content on Twitter)
 
@@ -392,13 +392,13 @@ Twitter, Inc.
 Attn: Copyright Agent - Periscope  
 1355 Market Street, Suite 900  
 San Francisco, CA 94103  
-Reports: https://support.twitter.com/forms/dmca  
+Reports: https://support.twitter.com/forms/dmca  
 Email: copyright@pscp.tv  
 (for content on Periscope)
 
 Your Rights and Grant of Rights in the Content
 
-You retain your rights to any Content you submit, post or display on or through the Services. What’s yours is yours — you own your Content (and your incorporated audio, photos and videos are considered part of the Content).  
+You retain your rights to any Content you submit, post or display on or through the Services. What’s yours is yours — you own your Content (and your incorporated audio, photos and videos are considered part of the Content).
 
 By submitting, posting or displaying Content on or through the Services, you grant us a worldwide, non-exclusive, royalty-free license (with the right to sublicense) to use, copy, reproduce, process, adapt, modify, publish, transmit, display and distribute such Content in any and all media or distribution methods (now known or later developed). This license authorizes us to make your Content available to the rest of the world and to let others do the same. You agree that this license includes the right for Twitter to provide, promote, and improve the Services and to make Content submitted to or through the Services available to other companies, organizations or individuals for the syndication, broadcast, distribution, promotion or publication of such Content on other media and services, subject to our terms and conditions for such Content use. Such additional uses by Twitter, or other companies, organizations or individuals, may be made with no compensation paid to you with respect to the Content that you submit, post, transmit or otherwise make available through the Services.
 
@@ -408,19 +408,19 @@ You represent and warrant that you have, or have obtained, all rights, licenses,
 
   4. Using the Services
 
-Please review the Twitter Rules (and, for Periscope, the Periscope Community Guidelines at https://pscp.tv/content), which are part of the User Agreement and outline what is prohibited on the Services. You may use the Services only in compliance with these Terms and all applicable laws, rules and regulations.
+Please review the Twitter Rules (and, for Periscope, the Periscope Community Guidelines at https://pscp.tv/content), which are part of the User Agreement and outline what is prohibited on the Services. You may use the Services only in compliance with these Terms and all applicable laws, rules and regulations.
 
 Our Services evolve constantly. As such, the Services may change from time to time, at our discretion. We may stop (permanently or temporarily) providing the Services or any features within the Services to you or to users generally. We also retain the right to create limits on use and storage at our sole discretion at any time. We may also remove or refuse to distribute any Content on the Services, suspend or terminate users, and reclaim usernames without liability to you.
 
 In consideration for Twitter granting you access to and use of the Services, you agree that Twitter and its third-party providers and partners may place advertising on the Services or in connection with the display of Content or information from the Services whether submitted by you or others. You also agree not to misuse our Services, for example, by interfering with them or accessing them using a method other than the interface and the instructions that we provide. You may not do any of the following while accessing or using the Services: (i) access, tamper with, or use non-public areas of the Services, Twitter’s computer systems, or the technical delivery systems of Twitter’s providers. (ii) probe, scan, or test the vulnerability of any system or network or breach or circumvent any security or authentication measures. (iii) access or search or attempt to access or search the Services by any means (automated or otherwise) other than through our currently available, published interfaces that are provided by Twitter (and only pursuant to the applicable terms and conditions), unless you have been specifically allowed to do so in a separate agreement with Twitter (NOTE: crawling the Services is permissible if done in accordance with the provisions of the robots.txt file, however, scraping the Services without the prior consent of Twitter is expressly prohibited). (iv) forge any TCP/IP packet header or any part of the header information in any email or posting, or in any way use the Services to send altered, deceptive or false source-identifying information. or (v) interfere with, or disrupt, (or attempt to do so), the access of any user, host or network, including, without limitation, sending a virus, overloading, flooding, spamming, mail-bombing the Services, or by scripting the creation of Content in such a manner as to interfere with or create an undue burden on the Services. We also reserve the right to access, read, preserve, and disclose any information as we reasonably believe is necessary to (i) satisfy any applicable law, regulation, legal process or governmental request, (ii) enforce the Terms, including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security or technical issues, (iv) respond to user support requests, or (v) protect the rights, property or safety of Twitter, its users and the public. Twitter does not disclose personally-identifying information to third parties except in accordance with our Privacy Policy.
 
-If you use developer features of the Services, including but not limited to Twitter for Websites (https://dev.twitter.com/web/overview), Twitter Cards (https://dev.twitter.com/cards/overview), Public API (https://dev.twitter.com/streaming/public), or Sign in with Twitter (https://dev.twitter.com/web/sign-in), you agree to our Developer Agreement (https://dev.twitter.com/overview/terms/agreement) and Developer Policy (https://dev.twitter.com/overview/terms/policy). If you want to reproduce, modify, create derivative works, distribute, sell, transfer, publicly display, publicly perform, transmit, or otherwise use the Services or Content on the Services, you must use the interfaces and instructions we provide, except as permitted through the Twitter Services, these Terms, or the terms provided on dev.twitter.com.
+If you use developer features of the Services, including but not limited to Twitter for Websites (https://dev.twitter.com/web/overview), Twitter Cards (https://dev.twitter.com/cards/overview), Public API (https://dev.twitter.com/streaming/public), or Sign in with Twitter (https://dev.twitter.com/web/sign-in), you agree to our Developer Agreement (https://dev.twitter.com/overview/terms/agreement) and Developer Policy (https://dev.twitter.com/overview/terms/policy). If you want to reproduce, modify, create derivative works, distribute, sell, transfer, publicly display, publicly perform, transmit, or otherwise use the Services or Content on the Services, you must use the interfaces and instructions we provide, except as permitted through the Twitter Services, these Terms, or the terms provided on dev.twitter.com.
 
-If you use advertising features of the Services, you must agree to our Twitter Master Services Agreement (https://ads.twitter.com/terms).
+If you use advertising features of the Services, you must agree to our Twitter Master Services Agreement (https://ads.twitter.com/terms).
 
-If you use commerce features of the Services that require credit or debit card information, such as our Buy Now feature, you agree to our Twitter Commerce Terms (https://support.twitter.com/articles/20171943).
+If you use commerce features of the Services that require credit or debit card information, such as our Buy Now feature, you agree to our Twitter Commerce Terms (https://support.twitter.com/articles/20171943).
 
-If you use Super Hearts, Coins, or Stars on Periscope, you agree to our Super Hearts Terms (https://legal.twitter.com/en/periscope/super/terms.html).
+If you use Super Hearts, Coins, or Stars on Periscope, you agree to our Super Hearts Terms (https://legal.twitter.com/en/periscope/super/terms.html).
 
 Your Account
 
@@ -436,9 +436,9 @@ The Services are protected by copyright, trademark, and other laws of both the U
 
 Ending These Terms
 
-You may end your legal agreement with Twitter at any time by deactivating your accounts and discontinuing your use of the Services. See http://support.twitter.com/articles/15358-how-to-deactivate-your-account (and for Periscope, https://help.pscp.tv/customer/portal/articles/2460220) for instructions on how to deactivate your account and the Privacy Policy for more information on what happens to your information.  
+You may end your legal agreement with Twitter at any time by deactivating your accounts and discontinuing your use of the Services. See http://support.twitter.com/articles/15358-how-to-deactivate-your-account (and for Periscope, https://help.pscp.tv/customer/portal/articles/2460220) for instructions on how to deactivate your account and the Privacy Policy for more information on what happens to your information.
 
-We may suspend or terminate your account or cease providing you with all or part of the Services at any time for any or no reason, including, but not limited to, if we reasonably believe: (i) you have violated these Terms or the Twitter Rules or Periscope Community Guidelines, (ii) you create risk or possible legal exposure for us. (iii) your account should be removed due to unlawful conduct, (iv) your account should be removed due to prolonged inactivity. or (v) our provision of the Services to you is no longer commercially viable. We will make reasonable efforts to notify you by the email address associated with your account or the next time you attempt to access your account, depending on the circumstances. In all such cases, the Terms shall terminate, including, without limitation, your license to use the Services, except that the following sections shall continue to apply: II, III, V, and VI.  If you believe your account was terminated in error you can file an appeal following the steps found in our Help Center (https://support.twitter.com/forms/general?subtopic=suspended).
+We may suspend or terminate your account or cease providing you with all or part of the Services at any time for any or no reason, including, but not limited to, if we reasonably believe: (i) you have violated these Terms or the Twitter Rules or Periscope Community Guidelines, (ii) you create risk or possible legal exposure for us. (iii) your account should be removed due to unlawful conduct, (iv) your account should be removed due to prolonged inactivity. or (v) our provision of the Services to you is no longer commercially viable. We will make reasonable efforts to notify you by the email address associated with your account or the next time you attempt to access your account, depending on the circumstances. In all such cases, the Terms shall terminate, including, without limitation, your license to use the Services, except that the following sections shall continue to apply: II, III, V, and VI. If you believe your account was terminated in error you can file an appeal following the steps found in our Help Center (https://support.twitter.com/forms/general?subtopic=suspended).
 
   5. Limitations of Liability
 
@@ -446,11 +446,11 @@ By using the Services you agree that Twitter, its parents, affiliates, related c
 
   6. General
 
-We may revise these Terms from time to time. The changes will not be retroactive, and the most current version of the Terms, which will always be at twitter.com/tos, will govern our relationship with you. Other than for changes addressing new functions or made for legal reasons, we will notify you 30 days in advance of making effective changes to these Terms that impact the rights or obligations of any party to these Terms, for example via a service notification or an email to the email associated with your account. By continuing to access or use the Services after those revisions become effective, you agree to be bound by the revised Terms.
+We may revise these Terms from time to time. The changes will not be retroactive, and the most current version of the Terms, which will always be at twitter.com/tos, will govern our relationship with you. Other than for changes addressing new functions or made for legal reasons, we will notify you 30 days in advance of making effective changes to these Terms that impact the rights or obligations of any party to these Terms, for example via a service notification or an email to the email associated with your account. By continuing to access or use the Services after those revisions become effective, you agree to be bound by the revised Terms.
 
 In the event that any provision of these Terms is held to be invalid or unenforceable, then that provision will be limited or eliminated to the minimum extent necessary, and the remaining provisions of these Terms will remain in full force and effect. Twitter’s failure to enforce any right or provision of these Terms will not be deemed a waiver of such right or provision.
 
-These Terms are an agreement between you and Twitter International Company, an Irish company with its registered office at One Cumberland Place, Fenian Street Dublin 2, D02 AX07 Ireland. If you have any questions about these Terms, please contact us.
+These Terms are an agreement between you and Twitter International Company, an Irish company with its registered office at One Cumberland Place, Fenian Street Dublin 2, D02 AX07 Ireland. If you have any questions about these Terms, please contact us.
 
 **Effective:** May 25, 2018
 
