@@ -129,7 +129,7 @@ These Terms of Service (“Terms”) govern your access to and use of our servic
 *   2\. Privacy
 *   3\. Content on the Services
 *   4\. Using the Services
-*   5\. Disclaimers and Limitaions of Liability
+*   5\. Disclaimers and Limitations of Liability
 *   6\. General
 
 1\. Who May Use the Services
@@ -138,7 +138,7 @@ These Terms of Service (“Terms”) govern your access to and use of our servic
 *   2\. Privacy
 *   3\. Content on the Services
 *   4\. Using the Services
-*   5\. Disclaimers and Limitaions of Liability
+*   5\. Disclaimers and Limitations of Liability
 *   6\. General
 
   1. Who May Use the Services
