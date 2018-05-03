@@ -1,4 +1,4 @@
-BITLY PRIVACY POLICY
+\- Language -EnglishFrançaisDeutscheEspañol日本語 BITLY PRIVACY POLICY
 
 Effective Date: 11/01/2017
 
