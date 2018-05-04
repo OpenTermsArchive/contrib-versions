@@ -20,7 +20,7 @@ Bienvenue dans Oath Vie Privée
 
 En juin 2017, nous avions annoncé que Yahoo et AOL s'étaient associées pour devenir Oath, une société de médias numériques et mobiles appartenant à Verizon. Oath et Yahoo ont désormais la même Politique relative à la vie privée.  Certains aspects n'ont pas changé, comme les outils de contrôle que nous mettons à votre disposition pour vous aider à paramétrer votre expérience sur nos Services.  Si vous possédez déjà un compte Yahoo ou AOL, vous devrez accepter certaines conditions de la présente Politique relative à la vie privée.  Si vous n’avez pas encore accepté la présente Politique relative à la vie privée, votre compte est toujours soumis à l’ ancienne Politique relative à la vie privée de Yahoo ou à l’ancienne Politique relative à la vie privée d’Oath (pour AOL).  La présente Politique relative à la vie privée s’appliquera à compter du \[25 mai 2018\] pour les produits ou services Oath auxquels vous accédez sans vous connecter à votre compte.  Si vous créez un nouveau compte, les conditions ci-dessous s'appliquent dès aujourd'hui.  
 
-Dernière mise à jour : April 2018
+Dernière mise à jour : Avril 2018
 
 Notre engagement de protection de la vie privée
 
