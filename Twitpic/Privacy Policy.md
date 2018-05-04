@@ -2,13 +2,13 @@ Privacy Policy
 
 *   Download PDF
 *   Download PDF
-    *   1\. Information You Share With Us
-    *   2\. Additional Information We Recieve About You
-    *   3\. Information We Share and Disclose
-    *   4\. Managing Your Personal Information With Us
-    *   5\. Children and Our Services
-    *   6\. Our Global Operations and Privacy Shield
-    *   7\. Changes to This Privacy Policy
+    *   Information You Share With Us
+    *   Additional Information We Receive About You
+    *   Information We Share and Disclose
+    *   Managing Your Personal Information With Us
+    *   Children and Our Services
+    *   Our Global Operations and Privacy Shield
+    *   Changes to This Privacy Policy
     *   Download PDF
 
 We have made revisions to this Privacy Policy, effective May 25th, 2018. You can see the new version here. By continuing to use our services after May 25th, you agree to the new Privacy Policy. A summary of changes can be found on our Help Center.
