@@ -2,7 +2,7 @@ Welcome to the Oath Privacy Center
 
 _In June 2017, we announced that Yahoo and AOL had joined to become Oath, a digital and mobile media company and part of Verizon.  We’re now bringing Oath and Yahoo under a single privacy policy.  Some things haven’t changed, like the control tools we provide to help you manage your experience with us.  If you have an existing Yahoo or AOL account, you will need to agree to this Privacy Policy.  If you have not yet agreed to this Privacy Policy, the legacy Yahoo Privacy Policy or legacy Oath Privacy Policy (for AOL) still apply to your account.  For Oath products or services that are accessed without signing into an account, this Privacy Policy applies to those products and services starting May 25, 2018.  If you are creating a new account, the terms below apply starting today._ 
 
-_Last updated:_ April 2018
+_Last updated: April 2018_
 
 Our Privacy Pledge
 
