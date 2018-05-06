@@ -13,7 +13,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   11 months ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by DiddleMySkittleForever 1 week ago)
+    *   1 (last comment by DiddleMySkittleForever 2 weeks ago)
 *   HELP
     *   by babypink131
     *   3 weeks ago
@@ -37,7 +37,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 months ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by NickyPat 3 weeks ago)
+    *   1 (last comment by NickyPat 4 weeks ago)
 *   how can I find other blogs to follow
     *   by Amoreno45
     *   1 month ago
