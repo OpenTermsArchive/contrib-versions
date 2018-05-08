@@ -211,6 +211,6 @@ If there is any contradiction between what the English language version of these
 
 Contact.
 
-You may contact Foursquare at the following address: 568 Broadway, 10th Floor, New York, NY 10012.
+You may contact Foursquare at the following address: 50 W 23rd St, 8th Floor, New York, NY 10010.
 
 **Effective Date: January 29, 2013**
