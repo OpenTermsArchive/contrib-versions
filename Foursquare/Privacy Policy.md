@@ -215,4 +215,4 @@ Foursquare may amend this Privacy Policy from time to time. We encourage you to 
 
 Contact Us
 
-If you have any questions or concerns regarding this Privacy Policy, please send a detailed message to: privacy@foursquare.com or Foursquare Labs, Inc., 568 Broadway, New York, NY 10012. We will make every effort to resolve your concerns.
+If you have any questions or concerns regarding this Privacy Policy, please send a detailed message to: privacy@foursquare.com or Foursquare Labs, Inc., 50 W 23rd St, New York, NY 10010. We will make every effort to resolve your concerns.
