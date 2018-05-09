@@ -76,7 +76,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Custom HTML
     *   by matrix01fan
-    *   1 month ago
+    *   2 months ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
