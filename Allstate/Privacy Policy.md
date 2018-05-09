@@ -3,7 +3,7 @@
 *   Find An Agent
 *   Contact Us
 *   Español
-*   DALLAS, TX75201
+*   ATLANTA, GA30301
 *   Search
 
 *   Allstate
@@ -70,7 +70,7 @@ Toggle navigation Log in Search Close Navigation
 *   Get a Quote
     
     Your location is set for  
-    DALLAS, TX 75201
+    ATLANTA, GA 30301
     
     Edit location
     
@@ -124,9 +124,9 @@ Toggle navigation Log in Search Close Navigation
     *   Retirement &. Investments
     *   Power Sports
     *   Business Insurance
-*   Get A Quote in 75201
+*   Get A Quote in 30301
     
-    75201 Edit location
+    30301 Edit location
     
     Select a ProductAutoHomeRentersLifeCondoMotorcycleBoatATV/Rec. VehicleBusiness InsuranceMore InsuranceGet A Quote
     
@@ -187,13 +187,13 @@ Register new account
 
 Find An Agent Close
 
-Agents near 75201
+Agents near 30301
 
 *   Loading...
 
 Advanced agent search
 
-75201 Edit location
+30301 Edit location
 
 Select a ProductAutoHomeRentersLifeCondoMotorcycleBoatATV/Rec. VehicleBusiness InsuranceGet a quote
 
@@ -429,7 +429,7 @@ We won't share your personal information with Allstate companies for marketing p
 
 Top
 
-75201 Edit Location
+30301 Edit Location
 
 Select a ProductAutoHomeRentersLifeCondoMotorcycleBoatATV/Rec. VehicleBusiness Insurance
 
@@ -477,7 +477,7 @@ ZIP Code
 
 City, State
 
-DALLAS, TX
+ATLANTA, GA
 
 Oops! You have entered an invalid ZIP. Please try again. Location data not available. Please enter zip code. Please Wait...Updating Location...  
 It's taking a bit longer than expected. Your update should be done soon. This feature is not currently available.  
