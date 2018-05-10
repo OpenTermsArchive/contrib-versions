@@ -128,4 +128,9 @@ Please note that deletion of your personally identifiable information from 123Gr
 Corporate Info :: Company Profile :: Careers :: Investor Relations :: Media Kit :: Press Room  
   
 Copyright © 123Greetings.com  
-All Rights Reserved
+All Rights Reserved  
+  
+
+This site uses cookies. By continuing to browse 123Greetings website, you accept the use of cookies by us or our partners.
+
+Ok
