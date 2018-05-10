@@ -4,10 +4,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Help
     *   by these\_hazel\_eyes\_cry
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by eeyorewendy 1 week ago)
+    *   3 (last comment by eeyorewendy 2 weeks ago)
 *   All Blogs and Photos GONE! :(
     *   by BigRig37
     *   11 months ago
