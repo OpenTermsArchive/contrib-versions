@@ -375,20 +375,7 @@ You may also contact us by mail at: 40 Namal Tel Aviv St., Tel Aviv, Israel, at 
 
 As Have any questions or suggestions? We’d love to hear them!
 
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MDD5C4" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
-
-*   Get Started
-*   Home
-*   Features
-*   Domains
-*   Mailboxes
-*   Online Store
-*   Contact Us
-*   Jobs
-*   Wix Blog
-*   Wix Stories
-
-Wix
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MDD5C4" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Wix
 
 *   I Need a Site for...
 
@@ -408,64 +395,24 @@ Wix
 *   Templates
 *   Support
 
-*   Deutsch
-*   Español
-*   Français
-*   Italiano
-*   Nederlands
-*   Norsk
-*   Polski
-*   Português
-*   Русский
-*   Svenska
-*   日本語
-*   한국어
-*   Türkçe
-*   Dansk
-*   हिन्दी
-*   Čeština
-
-Sign In  Hi, {username}
+Sign In Hi, {username}
 
 *   Account Settings
 *   Billing &. Payments
 *   Vouchers
-*   English
-    *   Deutsch
-    *   Español
-    *   Français
-    *   Italiano
-    *   Nederlands
-    *   Norsk
-    *   Polski
-    *   Português
-    *   Русский
-    *   Svenska
-    *   日本語
-    *   한국어
-    *   Türkçe
-    *   Dansk
-    *   हिन्दी
-    *   Čeština
+
 *   Logout
 
-*   English
-*   Deutsch
-,*   Español
-,*   Français
-,*   Italiano
-,*   Nederlands
-,*   Norsk
-,*   Polski
-,*   Português
-,*   Русский
-,*   Svenska
-,*   日本語
-,*   한국어
-,*   Türkçe
-,*   Dansk
-,*   हिन्दी
-,*   Čeština
+*   Get Started
+*   Home
+*   Features
+*   Domains
+*   Mailboxes
+*   Online Store
+*   Contact Us
+*   Jobs
+*   Wix Blog
+*   Wix Stories
 
 *   PRODUCT
 *   Templates
