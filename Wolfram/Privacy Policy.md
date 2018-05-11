@@ -19,6 +19,8 @@ When you visit our website, we, like most websites, send one or more cookies—s
 
 We may update or modify this Privacy Policy from time to time in the future. Any such updates or modifications shall be effective immediately upon their posting. Please refer back to this page often for the latest information.
 
+We collect and hold personal data about our customers, users and enthusiasts, employees and others in the European Union who access our resources and services in a manner consistent with the lawful bases as outlined in the European Union's General Data Protection Regulation (GDPR). Please see the Data Retention Policy Addendum to Wolfram's Privacy Policies, which outlines our GDPR compliance in collecting, processing and using your personal data. It also describes how you can contact us to review any personal data and withdraw any consent you have given us to store it.
+
 For information on policies related to the use of our software, see our Legal portal.
 
 If you have any questions or concerns about this Privacy Policy, you may email us or contact us by US mail at Wolfram Research, Inc., Attn: Legal Department, 100 Trade Center Drive, Champaign, IL 61820-7237, USA.
