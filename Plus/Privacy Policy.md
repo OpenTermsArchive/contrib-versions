@@ -1,4 +1,4 @@
-Welcome to the Google Privacy Policy
+Welcome to the Google Privacy PolicyAn updated version of our Privacy Policy takes effect on May 25, 2018. See the updated version of the policy
 
 When you use Google services, you trust us with your information. This Privacy Policy is meant to help you understand what data we collect, why we collect it, and what we do with it. This is important. we hope you will take time to read it carefully. And remember, you can find controls to manage your information and protect your privacy and security at My Account.
 
