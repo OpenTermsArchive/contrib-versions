@@ -2,6 +2,12 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Eugenia, recover my old blogs please
+    *   \[Resolved\] by justja
+    *   4 years ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by neko\_skater\_girl 3 hours ago)
 *   Help
     *   by these\_hazel\_eyes\_cry
     *   3 weeks ago
@@ -86,12 +92,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   Retrieve old blog
-    *   by nharmny
-    *   2 months ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by miss\_pepper1112 2 months ago)
 
 1 2 3 ... 188 Next
 
