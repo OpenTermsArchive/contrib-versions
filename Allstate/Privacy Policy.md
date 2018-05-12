@@ -3,7 +3,7 @@
 *   Find An Agent
 *   Contact Us
 *   Español
-*   ATLANTA, GA30301
+*   atlanta, GA 30301
 *   Search
 
 *   Allstate
@@ -34,6 +34,7 @@
     *   Allstate Foundation
     *   Purple Purse
     *   Global Code of Business Conduct
+    *   Our Shared Purpose
 
 *   Logins
 *   *   My Account
@@ -70,7 +71,9 @@ Toggle navigation Log in Search Close Navigation
 *   Get a Quote
     
     Your location is set for  
-    ATLANTA, GA 30301
+    atlanta, GA 30301
+    
+    Enter a valid US ZIP Code to set your location.
     
     Edit location
     
@@ -124,7 +127,9 @@ Toggle navigation Log in Search Close Navigation
     *   Retirement &. Investments
     *   Power Sports
     *   Business Insurance
-*   Get A Quote in 30301
+*   Get A Quote in
+    
+    30301
     
     30301 Edit location
     
@@ -147,7 +152,7 @@ What's This?
 
 Register new account
 
-*   Update Zip Code
+*   atlanta, GA 30301
 *   Contact Us
 *   Español
 
@@ -429,7 +434,7 @@ We won't share your personal information with Allstate companies for marketing p
 
 Top
 
-30301 Edit Location
+30301Edit Location
 
 Select a ProductAutoHomeRentersLifeCondoMotorcycleBoatATV/Rec. VehicleBusiness Insurance
 
@@ -477,7 +482,7 @@ ZIP Code
 
 City, State
 
-ATLANTA, GA
+atlanta, GA
 
 Oops! You have entered an invalid ZIP. Please try again. Location data not available. Please enter zip code. Please Wait...Updating Location...  
 It's taking a bit longer than expected. Your update should be done soon. This feature is not currently available.  
