@@ -30,7 +30,7 @@ Information provided to us by third parties
 
 When you purchase products or apply for service with us, we may obtain credit information about you from outside credit reporting agencies to help us with customer authentication and credit-related decisions. If you lease your residence, we may have information about how to reach your landlord and whether landlord permission is required to install our facilities.
 
-Verizon obtains information from outside companies such as those that collect consumer information including demographic and interest data. Examples of this information include gender, age range, education, sports enthusiast, frequent diner or pet owner. We use this data and combine it with other information we have about you to help us predict your preferences, to direct marketing offers that might be more relevant to you, and to help us better analyze customer information for business modeling purposes.
+Verizon obtains information from outside companies including demographic and interest data (such as gender, age range, education level, sports enthusiast, or frequent diner), as well as information such as device type, carrier, city and state. We use this data and combine it with other information we have about you to help make marketing offers more relevant to you, and to help us better analyze customer information for business modeling purposes.
 
 When you use social media credentials to login to or interact with a Verizon site or offer, we may collect information about your social media profile, such as your interests, “likes” and friends list. We use this information, for example, to personalize your Verizon experiences and marketing communications, to enhance our services and to better serve you. You can control this data sharing via options in your social media accounts.
 
@@ -50,7 +50,7 @@ If you provide information to us in the context of an event or promotion that Ve
 
 We also collect information from you when you participate in surveys or provide other feedback to us regarding our products or services, when you register to receive news or public policy updates, or when you apply for a job with or a grant from Verizon. We use this information only for the purpose for which you provide it.
 
-Verizon may send you emails that communicate information about your account or about products, services, marketing offers or promotions that may be of interest to you. When you open a Verizon email or click on links within these emails, we may collect and retain information to provide you with future communications that may be more interesting to you. Please note that Verizon will not ask you to send us, via email, sensitive personal or account information
+Verizon may send you emails about your account or about products, services, and promotions that may be of interest to you. We may collect information when you open these emails or click on links within the emails.  This information is used to personalize the content of the emails themselves and make future communications and marketing more interesting to you. Please note that Verizon will not ask you to send sensitive personal or account information via email.
 
 Additional information for Verizon Wireless customers
 
@@ -216,7 +216,7 @@ We reserve the right to make changes to this privacy policy, so please check bac
 
 **View recent changes to privacy policy**
 
-Updated April, 2018
+Updated May, 2018
 
 © 2009, 2011-2018 Verizon. All Rights Reserved.
 
