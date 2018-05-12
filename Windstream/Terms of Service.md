@@ -88,6 +88,7 @@ Terms and Conditions Windstream Information ▼ About us
     *   Privacy Policy
     *   Procurement Terms and Conditions
     *   Terms and Conditions
+    *   Thank You Rewards Terms and Conditions
 *   Additional Information▼
     *   Investor Relations
     *   News Center
