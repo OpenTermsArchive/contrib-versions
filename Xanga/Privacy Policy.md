@@ -7,7 +7,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 years ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by neko\_skater\_girl 2 days ago)
+    *   2 (last comment by neko\_skater\_girl 3 days ago)
 *   Help
     *   by these\_hazel\_eyes\_cry
     *   3 weeks ago
@@ -73,10 +73,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 years ago
     *   in Data Migration
     *   0 votes
-    *   7 (last comment by lpbaby89 1 month ago)
+    *   7 (last comment by lpbaby89 2 months ago)
 *   Old blog
     *   by BRITT\_\_LOVE
-    *   1 month ago
+    *   2 months ago
     *   in Data Migration
     *   0 votes
     *   0
