@@ -10,7 +10,7 @@ Capitalized terms which are not defined herein shall have the meaning ascribed t
 
 1\. Please read carefully!
 
-This Wix.com Privacy Policy (“Privacy Policy”) describes how we (Wix.com Ltd., together with its affiliated companies worldwide, including DeviantArt, Inc – “Wix”, “we” or “us”) collect and use information pertaining to each of our unregistered visitors and registered users including premium users (each, a “Visitor” or “User” (respectively), or “you”), in connection with their access to and use of Wix’s websites (including www.wix.com and any of its subdomains, the “Website”), web applications (“Wix Apps”), mobile applications (“Mobile Apps”), and related services (collectively, the “Services”).
+This Wix.com Privacy Policy (“Privacy Policy”) describes how we (Wix.com Ltd., together with its affiliated companies worldwide, including DeviantArt, Inc – “Wix”, “we” or “us”) collect and use information pertaining to each of our unregistered visitors and registered users, including users with Paid Services (each, a “Visitor” or “User” (respectively), or “you”), in connection with their access to and use of Wix’s websites (including www.wix.com and any of its subdomains, the “Website”), web applications (“Wix Apps”), mobile applications (“Mobile Apps”), and related services (collectively, the “Services”).
 
 The purpose of this Privacy Policy is to provide you with a clear explanation of when, why and how we collect and use your personal information, as well as an explanation of your statutory rights.  This Privacy Policy is not intended to override the terms of any contract you have with us, nor any rights you might have under applicable data privacy laws.
 
@@ -30,7 +30,7 @@ We collect two types of information regarding our Visitors and Users:
 
 1.  Un-identified and non-identifiable information pertaining to a Visitor or un-identified User, which may be made available to us, or collected automatically via his/her use of the Services (“Non-personal Information”). Such Non-personal Information does not enable us to identify the Visitor or User from whom it was collected. The Non-personal Information collected by us mainly consists of technical and aggregated usage information, such as Visitors’ and Users’ browsing and ‘click-stream’ activity on the Services, session heatmaps and scrolls, non-identifying information regarding the Visitor’s or User’s device, operating system, internet browser, screen resolution, language and keyboard settings, internet service provider, referring/exit pages, date/time stamps, etc.
     
-2.  Individually identifiable information, namely information that identifies an individual or may with reasonable efforts cause the identification of an individual, or may be of private or sensitive nature (“Personal Information”). The Personal Information collected by us mainly consists of contact details (e.g., e-mail address or phone number), billing details (name, physical billing address, payment method and transaction details), which are only collected from Users with Paid Services details regarding a browsing or usage session (IP address, Geo-location and/or device unique identifier), details regarding connected third party accounts (such as the e-mail or username for a connected PayPal, Google or Facebook account), scanned identification documents provided to us (such as an ID card, driver’s license, passport or official company registration documents), correspondences (including those made through or uploaded to our Services), and any other Personal Information provided to us by Visitors and/or Users through their access to and/or use of the Services. For the avoidance of doubt, any Non-personal Information that is connected or linked to Personal Information (for example, in order to improve the Services we offer) is deemed and treated by us as Personal Information, as long as such connection or linkage exists.
+2.  Individually identifiable information, namely information that identifies an individual or may with reasonable efforts cause the identification of an individual, or may be of private or sensitive nature (“Personal Information”). The Personal Information collected by us mainly consists of contact details (e.g., e-mail address or phone number), billing details (name, physical billing address, payment method and transaction details), which are only collected from Users with Paid Services, details regarding a browsing or usage session (IP address, Geo-location and/or device unique identifier), details regarding connected third party accounts (such as the e-mail or username for a connected PayPal, Google or Facebook account), scanned identification documents provided to us (such as an ID card, driver’s license, passport or official company registration documents), correspondences (including those made through or uploaded to our Services), and any other Personal Information provided to us by Visitors and/or Users through their access to and/or use of the Services. For the avoidance of doubt, any Non-personal Information that is connected or linked to Personal Information (for example, in order to improve the Services we offer) is deemed and treated by us as Personal Information, as long as such connection or linkage exists.
     
 
 #ItsThatEasy
@@ -55,7 +55,7 @@ There are two main methods we use:
     
 2.  We collect information which you provide us voluntarily. For example, we collect the Personal Information you provide us when you register to our Services. when you sign in to our Services via third party services such as Facebook or Google. when you place purchases and/or register domain names. when you submit or upload such Personal Information as you use any of our Services. and/or when you contact us directly by any communication channel (e.g., Wix’s support tickets, emails). 
     
-3.  We also collect information from third - party sources as described in Section 8 below.
+3.  We also collect information from third party sources as described in Section 8 below.
     
 
 #ItsThatEasy
@@ -104,6 +104,12 @@ Our Services are not permitted to children under 18 years of age.  No one under
 
 We collect and use information in order to provide our services and make them better and safer.
 
+​
+
+​
+
+​
+
 We also collect and use information in order to contact our visitors, users and job applicants, and in order to comply with the laws applicable to us.
 
 5\. Where do we store your information?
@@ -119,6 +125,10 @@ Wix.com Ltd. is based in Israel, which is considered by the European Commission 
 Wix affiliates and service providers that store or process your Personal Information on Wix’s behalf are each contractually committed to keep it protected and secured, in accordance with industry standards and regardless of any lesser legal requirements which may apply in their jurisdiction.
 
 5.1.
+
+#ItsThatEasy
+
+We may store and process Personal Information in the USA, Europe, Israel, or other jurisdictions, whether by ourselves or with the help of our affiliates and service providers.ֿ
 
 EU-U.S. Privacy Shield &. Swiss-U.S. Privacy Shield Disclosure : Wix.com participates in, and has certified its compliance with, the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. Wix.com is committed to subjecting all Personal Information received from European Union (EU) member countries and Switzerland, respectively, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List, here.
 
@@ -138,6 +148,8 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 Under certain conditions, more fully described on the Privacy Shield website, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
+​
+
 Upon request Wix will provide you with information about whether we hold any of your Personal Information. You may access, correct, or request deletion of your Personal Information by following the instructions provided in these Help Center articles: “GDPR: Retrieving Your Wix Account Data” or “GDPR: Permanently Deleting Your Wix Account. We will respond to your request within a timeframe imposed by local laws or a reasonable timeframe.
 
 ​
@@ -146,23 +158,19 @@ Please note that permanently deleting your Wix account erases all of your inform
 
 5.2.
 
-#ItsThatEasy
-
-We may store and process Personal Information in the USA, Europe, Israel, or other jurisdictions, whether by ourselves or with the help of our affiliates and service providers.
-
 Wix’s data storage providers are contractually committed to protect and secure your data.
 
 Among other things, Wix adheres to the EU – US &. to the Swiss-US Privacy Shield Principles, for further protecting and enhancing our users’ privacy.
-
-#ItsThatEasy
-
-Some jurisdictions require us to maintain and store their residents’ information locally. We may also collect, process, store and use such information elsewhere, including in the USA.
 
 Data Localisation Obligations: If you reside in a jurisdiction that imposes “data localisation” or “data residency” obligations (i.e., requiring that Personal Information of its residents be kept within the territorial boundaries of such jurisdiction), and this fact comes to our attention, we may maintain your Personal Information within such territorial boundaries, if we are legally obligated to do so. 
 
 You acknowledge that while doing so, we may continue to collect, store and use your Personal Information elsewhere, including in the United States of America as explained above.
 
 5.3.
+
+#ItsThatEasy
+
+Some jurisdictions require us to maintain and store their residents’ information locally. We may also collect, process, store and use such information elsewhere, including in the USA.
 
 6\. Users-of-users’ information
 
@@ -206,17 +214,19 @@ Wix may share your Personal Information with third parties (or otherwise allow t
 
 8.1. Third Party Services:
 
-Wix has partnered with a number of selected service providers, whose services and solutions complement, facilitate and enhance our own. These include hosting and server co-location services, communications and content delivery networks (CDNs), data and cyber security services, billing and payment processing services, domain name registrars, fraud detection and prevention services, web analytics, e-mail distribution and monitoring services, session recording and remote access services, performance measurement data optimization and marketing services, content providers, and our legal and financial advisors (collectively, “Third Party Service(s)”). 
+Wix has partnered with a number of selected service providers, whose services and solutions complement, facilitate and enhance our own. These include hosting and server co-location services, communications and content delivery networks (CDNs), data and cyber security services, billing and payment processing services, domain name registrars, fraud detection and prevention services, web analytics, e-mail distribution and monitoring services, session recording and remote access services, performance measurement, data optimization and marketing services, content providers, and our legal and financial advisors (collectively, “Third Party Service(s)”). 
 
 Such Third Party Services may receive or otherwise have access to our Visitors’ and Users’ Personal Information and/or Users-of-Users’ Personal Information, in its entirety or in part – depending on each of their particular roles and purposes in facilitating and enhancing our Services and business, and may only use it for such purposes.
 
-Note that while our Services may contain links to other websites or services, we are not responsible for such websites’ or services’ privacy practices. encourage you to be aware when you leave our Services and read the privacy statements of each and every website and service you visit before providing your Personal Information. This Privacy Policy does not apply to such linked third -party websites and services.
+Note that while our Services may contain links to other websites or services, we are not responsible for such websites’ or services’ privacy practices. We encourage you to be aware when you leave our Services and read the privacy statements of each and every website and service you visit before providing your Personal Information. This Privacy Policy does not apply to such linked third -party websites and services.
 
 Wix is accountable for Personal Information that it receives under the Privacy Shield and subsequently transfers to a third party as described in the Privacy Shield Principles. In particular, Wix remains responsible and liable under the Privacy Shield Principles if third-party agents that it engages to process the Personal Information on its behalf do so in a manner inconsistent with the Principles, unless Wix proves that it is not responsible for the event giving rise to the damage.
 
 #ItsThatEasy
 
 We may share the information of our visitors, users and their users-of-users with various third parties, including certain service providers, law enforcement officials and application developers.
+
+​
 
 The information may be shared solely in accordance with this policy.
 
@@ -230,7 +240,7 @@ Wix may share your Personal Information with others if we believe in good faith 
 
 8.4. Social Media Features and Framed Pages:
 
-Our Services include certain Social Media features and widgets,  single sign on features, such as the “Facebook Connect” or “Google Sign-in” the “Facebook Like” button, the “Share this” button or other interactive mini-programs (“Social Media Features”).These Social Media Features may collect information such as your IP address or which page you are visiting on our Website, and may set a cookie to enable them to function properly. Social Media Features are either hosted by a third party or hosted directly on our Services. Your interactions with these third parties’ Social Media Features are governed by their policies and not ours.
+Our Services include certain Social Media features and widgets,  single sign on features, such as the “Facebook Connect” or “Google Sign-in”, the “Facebook Like” button, the “Share this” button or other interactive mini-programs (“Social Media Features”).These Social Media Features may collect information such as your IP address or which page you are visiting on our Website, and may set a cookie to enable them to function properly. Social Media Features are either hosted by a third party or hosted directly on our Services. Your interactions with these third parties’ Social Media Features are governed by their policies and not ours.
 
 In addition, our Services may enable you to share your Personal Information with third parties directly, such as via page framing techniques to serve content to or from Third Party Services or other parties, while preserving the look and feel of our Website and Services (“Frames”). Please be aware that if you choose to interact or share any Personal Information via such Frames, you are in fact providing it to these third parties and not to us, and such interactions and sharing too are governed by such third parties’ policies and not ours.
 
@@ -238,7 +248,7 @@ In addition, our Services may enable you to share your Personal Information with
 
 As part of our App Market program, we allow third party developers (“Third Party Developer(s)”) to develop and offer their own applications via the Wix App Market (“Third Party App(s)”), in conjunction with Wix.
 
-Each Third Party Developer is bound by the Wix App Market – Partner Program Agreement, which among others contains restrictions on how they may access, store and use the Non-personal and Personal Information you and/or your Users-of-Users provide them or us. We encourage you to review any privacy policy accompanying a Third Party App and ask Third Party Developers for any clarifications you may need before deciding to install and use their Third Party App. Wix does not control and is not responsible for the actions or policies of any Third Party Developers, and your use of any Third Party App is at your own risk.
+Each Third Party Developer is bound by the Wix App Market – Partner Program Agreement, which among others, contains restrictions on how they may access, store and use the Non-personal and Personal Information you and/or your Users-of-Users provide them or us. We encourage you to review any privacy policy accompanying a Third Party App and ask Third Party Developers for any clarifications you may need before deciding to install and use their Third Party App. Wix does not control and is not responsible for the actions or policies of any Third Party Developers, and your use of any Third Party App is at your own risk.
 
 8.6. WixHive API:
 
@@ -252,7 +262,7 @@ To prevent the collection or sharing of Personal Information via the WixHive API
 
 8.7. Wix Subsidiaries and Affiliated Companies:
 
-We may share Personal Information internally within our family of companies, for the purposes described in this Privacy Policy. For example, we may share your Personal Information with Wix.com Inc., our US-based subsidiary, in the course of facilitating and providing you (and your Users-of-Users) with our Services. In addition, should Wix or any of its affiliates undergo any change in control, including by means of merger, acquisition or purchase of substantially all of its assets, your Personal Information may be shared with the parties involved in such event. If we have a good faith belief that such change in control might materially affect your Personal Information then stored with us, we will notify you via e-mail and/or prominent notice on our Website of this event and certain choices you may have regarding your Personal Information. 
+We may share Personal Information internally within our family of companies, for the purposes described in this Privacy Policy. For example, we may share your Personal Information with Wix.com Inc., our US-based subsidiary, in the course of facilitating and providing you (and your Users-of-Users) with our Services. In addition, should Wix or any of its affiliates undergo any change in control, including by means of merger, acquisition or purchase of substantially all of its assets, your Personal Information may be shared with the parties involved in such event. If we have good faith that such change in control might materially affect your Personal Information stored with us, we will notify you via e-mail and/or prominent notice on our Website of this event and certain choices you may have regarding your Personal Information. 
 
 Sharing of Personal Information from Wix subsidiaries and affiliated companies in the European Union and Switzerland to Wix’ United States subsidiary, adheres to the EU-US and Swiss-US Privacy Shield frameworks.
 
@@ -294,7 +304,7 @@ You may block, opt-out of or otherwise manage such tracking technologies by your
 
 10\. Communications from Wix 10.1. Promotional Messages:
 
-We may use your Personal Information to send you promotional content and, messages by e-mail, text messages, direct text messages, marketing calls and similar forms of communication from Wix or our partners (acting on Wix’s behalf) through such means.
+We may use your Personal Information to send you promotional content and messages by e-mail, text messages, direct text messages, marketing calls and similar forms of communication from Wix or our partners (acting on Wix’s behalf) through such means.
 
 If you do not wish to receive such promotional messages or calls, you may notify Wix at any time or follow the “unsubscribe” or STOP instructions contained in the promotional communications you receive.
 
@@ -321,7 +331,7 @@ It is imperative that you have control over your Personal Information. That’s
 
 ​
 
-Before disclosing the requested Personal Information, we may ask you for additional information in order to confirm your identity and for security purposes. We reserve the right to charge a fee where permitted by law if your request is unfounded or excessive).
+Before disclosing the requested Personal Information, we may ask you for additional information in order to confirm your identity and for security purposes. We reserve the right to charge a fee where permitted by law (e.g., if your request is unfounded or excessive).
 
 ​
 
@@ -340,7 +350,7 @@ Please note that permanently deleting your Wix account erases all of your inform
 
 #ItsThatEasy
 
-a copy of, update, amend, delete, or limit the use of your Personal Information you have stored with us. Just send us an e-mail or fill out our dedicated GDPR form. You may also correct and/ or, update your information through your account or website settings.
+You may request to access, receive a copy of, update, amend, delete, or limit the use of your Personal Information you have stored with us. Just send us an e-mail or fill out our dedicated GDPR form. You may also correct and/or update your information through your account or website settings.
 
 You can delete your Personal Information by deleting  your entire account. 
 
@@ -378,7 +388,7 @@ However, as we can’t guarantee absolute protection – we encourage you to be 
 
 Our Services offer publicly accessible blogs, communities and support forums. Please be aware that any information you provide in any such areas may be read, collected, and used by others who access them. To request removal of your Personal Information from our blogs, communities or forums, feel free to contact us at: privacy@wix.com. In some cases, we may not be able to remove your Personal Information from such areas. For example, if you use a third party application to post a comment (e.g., the Facebook social plugin application) while logged in to your related profile with such third party, you must login into such application or contact its provider if you want to remove the Personal Information you posted on that platform.
 
-In any event, advise against posting any information (or use any posting means to post information) you don’t wish to publicize on these platforms.
+In any event, we advise against posting any information (or use any posting means to post information) you don’t wish to publicize on these platforms.
 
 If you upload any User Content to your User Account or post it on your User Website and provide it in any other way as part of the use of any Service, you do so at your own risk.
 
@@ -386,11 +396,11 @@ We have put adequate security measures in place to protect your Personal Informa
 
 #ItsThatEasy
 
-Please avoid posting any information to any of the public areas on our Services, or to your own website, if you don’t want it to become publicly available.
+Avoid posting any information to any of the public areas on our Services, or to your own website, if you don’t want it to become publicly available.
 
-Updates and Interpretation
+15\. Updates and interpretation
 
-We may update this Privacy Policy as required by applicable law, and to reflect changes to our information collection, usage and storage practices. If we make any changes that we deem as “material” (in our sole good faith discretion), we will notify you (sing one of the notification methods set forth in Section 15.3 of the Terms of Use) prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+We may update this Privacy Policy as required by applicable law, and to reflect changes to our information collection, usage and storage practices. If we make any changes that we deem as “material” (in our sole good faith discretion), we will notify you (using one of the notification methods set forth in Section 15.3 of the Terms of Use) prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 Unless stated otherwise, our most current Privacy Policy applies to all information that we have about you and your Users-of-Users, with respect to our Website, Wix Apps, Mobile Apps and other Services.
 
@@ -408,13 +418,11 @@ Only the left column is legally binding (this column is just for clarity).
 
 Translated (non-English) versions of these terms are provided for convenience only.
 
-16. Contacting Us
+16. Contacting us
 
-If you have any questions  about this Privacy Policy or wish to exercise any of your rights as described in Section 11,, please contact us the Data Protection Officer team at privacy@wix.com. We will attempt to resolve any complaints regarding the use of your Personal Information in accordance with this Privacy Policy.
+If you have any questions about this Privacy Policy or wish to exercise any of your rights as described in Section 11, please contact us the Data Protection Officer team at privacy@wix.com. We will attempt to resolve any complaints regarding the use of your Personal Information in accordance with this Privacy Policy.
 
 ​
-
-If you have any questions about this Privacy Policy, please contact us at privacy@wix.com.
 
 You may also contact us by mail at: 40 Namal Tel Aviv St., Tel Aviv, Israel, at Wix.com Inc. , 500 Terry A. Francois Boulevard, 6th Floor, San Francisco, CA, 94158, or at Wix.com Luxembourg S.a.r.l, 5, rue Guillaume Kroll, L-1882 Luxembourg.
 
