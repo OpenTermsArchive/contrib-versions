@@ -2,12 +2,18 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Can not retrieve old posts
+    *   by kelsey11111
+    *   4 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Eugenia, recover my old blogs please
     *   \[Resolved\] by justja
     *   4 years ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by neko\_skater\_girl 3 days ago)
+    *   2 (last comment by neko\_skater\_girl 4 days ago)
 *   Help
     *   by these\_hazel\_eyes\_cry
     *   3 weeks ago
@@ -84,12 +90,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by matrix01fan
     *   2 months ago
     *   in Adding &. Editing Entries
-    *   0 votes
-    *   0
-*   Am I able to retrieve my old posts?
-    *   by V\_banners
-    *   2 months ago
-    *   in Data Migration
     *   0 votes
     *   0
 
