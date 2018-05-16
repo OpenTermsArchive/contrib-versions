@@ -428,7 +428,7 @@ You may also contact us by mail at: 40 Namal Tel Aviv St., Tel Aviv, Israel, at 
 
 #ItsThatEasy
 
-As Have any questions or suggestions? We’d love to hear them!
+Have any questions or suggestions? We’d love to hear them!
 
 <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MDD5C4" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
 
