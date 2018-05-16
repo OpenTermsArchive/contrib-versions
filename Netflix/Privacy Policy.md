@@ -130,7 +130,7 @@ We and our Service Providers use cookies and other technologies (such as web bea
     Netflix supports the following self-regulatory programs, which provide additional privacy choices for interest-based advertising:
     
     *   In the US: Digital Advertising Alliance (DAA)
-    *   In Europe: European Interactive Digital Advertising Alliance (EDA)
+    *   In Europe: European Interactive Digital Advertising Alliance (EDAA)
     *   In Canada: Ad Choices: Digital Advertising Alliance of Canada (DAAC) / Choix de Pub: l'Alliance de la publicité numérique du Canada (DAAC)
     
     At this time, we do not respond to Web browser "do not track" signals.
