@@ -1,3 +1,5 @@
+_SoundCloud is updating its Privacy Policy on May 25, 2018. See the updated policy at https://soundcloud.com/pages/privacy/05-2018._
+
 SoundCloud Privacy Policy
 
 Welcome to SoundCloud®, a service provided by SoundCloud Limited (“**SoundCloud**”, “**we**” “**our**”, “**us**”).
