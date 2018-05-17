@@ -4,7 +4,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Can not retrieve old posts
     *   by kelsey11111
-    *   4 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -13,13 +13,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 years ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by neko\_skater\_girl 4 days ago)
+    *   2 (last comment by neko\_skater\_girl 5 days ago)
 *   Help
     *   by these\_hazel\_eyes\_cry
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by eeyorewendy 2 weeks ago)
+    *   3 (last comment by eeyorewendy 3 weeks ago)
 *   All Blogs and Photos GONE! :(
     *   by BigRig37
     *   11 months ago
