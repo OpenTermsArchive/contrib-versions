@@ -50,6 +50,7 @@ For members For members
 *   Check a claim
 *   Rights &. resources
 *   Find a form
+*   Pay your premium
 
 *   Log in
 *   Register
@@ -151,7 +152,15 @@ Helpful links Helpful links
 *   About us
 *   News &. analysis
 
-Agents/Brokers Agents/Brokers overview Working with us Working with us
+Agents/Brokers Agents/Brokers overview Producer World Producer World
+
+*   Log In or Register
+*   Compensation
+*   Medicare Reporting
+*   Commercial Reporting
+*   Enrollment
+
+Working with us Working with us
 
 *   Become appointed with Aetna
 *   Producer World tools &. resources
@@ -174,9 +183,6 @@ Plans &. services Plans &. services
 Helpful links Helpful links
 
 *   Get a quote
-*   Find a document or form
-*   Manage your profile
-*   Producer news
 *   Find doctors, dentists &. hospitals
 *   Regional sales contact tool
 *   SBC lookup tool
