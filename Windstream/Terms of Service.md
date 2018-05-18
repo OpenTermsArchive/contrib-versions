@@ -7,7 +7,7 @@
 
 *   Denver, CO
 
-*   Menu▼
+*   Menu_arrow\_drop\_down_
     *   Special Offers
     *   Move My Service
     *   Go to Windstream.net
@@ -48,8 +48,8 @@
 *   TV
 *   Phone
 *   Electronics
-*   Support
-    *   Contact Us▼
+*   Support _arrow\_drop\_down_
+    *   Contact Us
 
 Terms and Conditions Windstream Information ▼ About us
 
@@ -549,35 +549,65 @@ The 1984 Cable Act, as amended by the 1992 Cable Act, was enacted by the U.S. Co
 
 This federal theft-of-service law supplements any existing state or local laws. The federal law prohibits the interception or receipt of any communication service over a cable system, unless authorized by the operator. This includes the theft of audio, video, textual, data or other service, including data transmitted to or from a subscriber over a system that has interactive capability. Further, the law pertains to both the manufacturers and distributors of equipment, as well as individuals. The Cable Act provides a cable operator the right to seek substantial monetary damages with regard to theft of its cable services. In addition, violators may face substantial fines or imprisonment if found guilty of criminal charges. Congress has taken the foregoing actions because it believes that theft of cable service poses a major threat to the economic viability of cable operators and cable program suppliers, and it creates unfair burdens on cable subscribers who are forced to subsidize the benefits that other individuals are getting by receiving cable service without paying for it. Also, tampering with cable lines often causes reception problems for paying customers. Therefore, if a customer is aware of persons receiving unauthorized cable service, please call us confidentially. We will follow up to ensure that their cable TV service reception is not affected by someone else's tampering.
 
-Call (866) 819-1239 to order by phone.
+_close_ Discover the Services We Can Bring to You
 
-Discover the Services Windstream Can Bring to You
+Existing customer?
 
-Please enter your address to see services available in your area.
+Sign in to use your current address.
 
-Already a Windstream customer? Sign in
+Sign in
 
-Street Address, City State
+Forgot Username or Password?
 
-Unit (optional) Zip Code Continue DISCOVER THE SERVICES WINDSTREAM CAN BRING TO YOU
+New to Windstream?
+
+Enter your address to see everything we have to offer you.
+
+Street Address
+
+Unit (optional) Zip Code Use This Address
+
+Need assistance? Call 1-866-819-1239 or Chat Now.
+
+Discover the Services We Can Bring to You
 
 Please enter your address to see services available in your area
 
-Please try again Sign in
+Please try again.
 
-Please try again, or Proceed with this address
+Please try again, or continue with this address
 
-Street Number Street Name Street Type Street TypeALYAVEBCHBLFBLVDBNDBRBRGBYPBYUCIRCORCORSCPCRKCRSTCTCTRCURVCVDRESTESTSEXTFLSFLTFLTSFRSTFRYFWYGLNGRVHBRHLHLSHOLWHTSHVNHWYISJCTKNLSLDGLKLKSLNLNDGLOOPMDWMDWSMLMLSMNRMTMTNMTWYPARKPASSPATHPKWYPLPLZPNEPTPTERDRDGRIVROWRUNSHLSSMTSPGSPGSSPURSQSTSTATERTLTPKETRCEVISVLGVLYVWWALKWAYXING Unit (optional) State StateALARFLGAIAKSKYMNMSMONENMNYNCOHOKPASCTX City City Zip Code Continue Windstream is not available in your area
+Street Address Unit # (optional) State StateALARFLGAIAKSKYMNMSMONENMNYNCOHOKPASCTX City City Zip Code Use This Address
 
-View Carriers in Your Area Enter Your Address Again
+Need assistance? Call 1-866-819-1239 or Chat Now.
 
-You entered
+Sorry, we're having trouble locating
 
-Did you mean
+To ensure you’re in a Windstream service area, please speak to one of our representatives.
 
-Use Selected Enter Your Address Again Try a different method
+1-866-819-1239
 
-Proceed with entered address
+or Chat Now.
+
+You can also enter your address again or view other carriers in your area.
+
+Sorry, we're having trouble locating
+
+Continue with this address
+
+We found these potential matches. Is one of them yours?
+
+Use This Address
+
+Want to make a change?
+
+Try Again
+
+Want to make a change?
+
+Try Again
+
+Need assistance? Call 1-866-819-1239 or Chat Now.
 
 Products
 
@@ -615,4 +645,9 @@ Residential Small Business Enterprise Wholesale FIND US ON Twitter Facebook
 
 Copyright © 2018 Windstream Communications. All rights reserved.
 
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1819151935020592&amp;ev=PageView&amp;noscript=1">.
+Windstream Virtual Agent Wendy:   
+Hello, I am Wendy, Windstream’s Virtual Agent. What can I help you with?  
+Service Availability  
+Plan Pricing  
+Internet speeds in my area Ask Wendy your question ASK Thanks for helping us improve!  
+Please take a few moments to complete the survey below. Print Email Text Size <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1819151935020592&amp;ev=PageView&amp;noscript=1">.
