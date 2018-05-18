@@ -294,7 +294,7 @@ what you receive when you become a Member which gives you access to any of the E
 
 EU Member State:
 
-the countries listed here: http://europa.eu/about-eu/countries/index\_en.htm
+the countries listed here: https://europa.eu/about-eu/countries/index\_en.htm
 
 Guest:
 
