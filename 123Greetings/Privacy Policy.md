@@ -104,8 +104,8 @@ If you have any questions, comments or suggestions regarding our website's priva
   
 You can also post your views to our office at:  
   
-1674 Broadway, Suite 403,  
-New York, NY 10019.
+255 Executive Drive, Suite 400  
+Plainview, New York, NY-11803.
 
 **Special Note for Parents**  
   
@@ -123,7 +123,7 @@ Please note that deletion of your personally identifiable information from 123Gr
 
 **Non-U.S. Users:** The Website is hosted in the United States. If you are accessing the Website from a jurisdiction with privacy laws or regulations that differ from United States laws, please be advised that through your continued use of the Website, you are transferring your personal information to the United States and you consent to that transfer.
 
-**Last Updated:** September 20, 2010
+**Last Updated:** May 18, 2018
 
 Corporate Info :: Company Profile :: Careers :: Investor Relations :: Media Kit :: Press Room  
   
