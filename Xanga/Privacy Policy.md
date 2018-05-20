@@ -4,7 +4,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Can not retrieve old posts
     *   by kelsey11111
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -25,7 +25,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   11 months ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by DiddleMySkittleForever 3 weeks ago)
+    *   1 (last comment by DiddleMySkittleForever 4 weeks ago)
 *   HELP
     *   by babypink131
     *   1 month ago
@@ -46,7 +46,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   My site didn't appear
     *   by HoPuiYi325
-    *   4 months ago
+    *   5 months ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by NickyPat 1 month ago)
@@ -70,7 +70,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 (last comment by steven\_and\_alycia 1 month ago)
 *   How can I retrieve my old posts?
     *   by Chokie\_Cheng
-    *   1 month ago
+    *   2 months ago
     *   in Data Migration
     *   0 votes
     *   0
