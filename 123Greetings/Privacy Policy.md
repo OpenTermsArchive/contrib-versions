@@ -131,6 +131,6 @@ Copyright © 123Greetings.com
 All Rights Reserved  
   
 
-This site uses cookies. By continuing to browse 123Greetings website, you accept the use of cookies by us or our partners.
+This site uses cookies. By continuing to browse 123Greetings website, you accept the use of cookies by us and our partners.
 
 Ok
