@@ -202,7 +202,6 @@ This Agreement, as modified from time to time, constitutes the entire agreement 
 
 *   Tumblr, Inc.
 *   770 Broadway
-*   Ground Floor
 *   New York, NY, 10003,
 *   Attn: Legal Department
 
