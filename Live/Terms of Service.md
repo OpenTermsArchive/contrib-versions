@@ -390,6 +390,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Microsoft Translator
 *   Microsoft Wallpaper
 *   Microsoft XiaoIce
+*   Mixer
 *   MSN Dial Up
 *   MSN Explorer
 *   MSN Food &. Drink
@@ -841,6 +842,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Microsoft Translator
 *   Microsoft Wallpaper
 *   Microsoft XiaoIce
+*   Mixer
 *   MSN Dial Up
 *   MSN Explorer
 *   MSN Food &. Drink
