@@ -193,7 +193,7 @@ We do not sell or rent your Personal Information, nor do we give it to others to
 
 After all, it's people like you, the champions of free knowledge, who make it possible for the Wikimedia Sites to not only exist, but also grow and thrive.
 
-Definitions {{{arrow text}}}
+Definitions Back to top
 
 We recognize that only a minority of you are familiar with technical terms like “tracking pixels” and “cookies” used in the Privacy Policy. Whether you are brand new to privacy terminology or you are an expert who just wants a refresher, you might find our Glossary of Key Terms helpful.
 
@@ -210,8 +210,6 @@ When we say... ... we mean: "the Wikimedia Foundation" / "the Foundation" / "we"
 (c) any of the items in subsections (a) or (b) when associated with your user account.
 
 "third party" / "third parties" Individuals, entities, websites, services, products, and applications that are not controlled, managed, or operated by the Wikimedia Foundation. This includes other Wikimedia users and independent organizations or groups who help promote the Wikimedia movement such as Wikimedia chapters, thematic organizations, and user groups as well as volunteers, employees, directors, officers, grant recipients, and contractors of those organizations or groups.
-
-}}
 
 What This Privacy Policy Does &. Doesn't Cover
 
@@ -592,6 +590,17 @@ Thank you for reading our Privacy Policy. We hope you enjoy using the Wikimedia 
 
 **Please note that in the event of any differences in meaning or interpretation between the original English version of this Privacy Policy and a translation, the original English version takes precedence.**
 
-Back to top ± **Privacy-related pages**
+Back to top
+
+**This privacy policy was approved by the board on April 25th 2014 and went into effect on June 6, 2014. Previous versions can be found below:**
+
+*   **Privacy policy (November 2008 - June 2014): effective from November 25, 2008 until June 6, 2014**
+*   **Privacy policy (August 2008 - November 2008): effective from August 19, 2008 until November 25, 2008.**
+*   **Privacy policy (June 2006 - August 2008): effective from June 21, 2006 until August 19, 2008.**
+*   **Privacy policy (April 2005 to June 2006): effective from April 2005 until June 21, 2006**
+
+**Please note that in the event of any differences in meaning or interpretation between the original English version of this Privacy Policy and a translation, the original English version takes precedence.**
+
+± **Privacy-related pages**
 
 Privacy policy **·** FAQ **·** Glossary of key terms **·** Wikimedia blog privacy policy **·** Subpoena FAQ **·** Access to nonpublic information **·** Data retention guidelines **·** Donor policy **·** Requests for user information
