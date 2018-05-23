@@ -2,9 +2,15 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Can’t get my old post
+    *   by mm911029
+    *   14 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Can not retrieve old posts
     *   by kelsey11111
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -84,12 +90,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by BRITT\_\_LOVE
     *   2 months ago
     *   in Data Migration
-    *   0 votes
-    *   0
-*   Custom HTML
-    *   by matrix01fan
-    *   2 months ago
-    *   in Adding &. Editing Entries
     *   0 votes
     *   0
 
