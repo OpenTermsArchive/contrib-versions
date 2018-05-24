@@ -421,6 +421,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Pix Lock
 *   Presentation Translator
 *   Remix 3D
+*   rise4fun
 *   Ruuh
 *   Seeing AI
 *   Send
@@ -873,6 +874,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Pix Lock
 *   Presentation Translator
 *   Remix 3D
+*   rise4fun
 *   Ruuh
 *   Seeing AI
 *   Send
