@@ -2,9 +2,15 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Can't upload xml files
+    *   \[Resolved\] by carrietotoro
+    *   4 years ago
+    *   in Themes
+    *   0 votes
+    *   8 (last comment by jacobthestupendous 14 hours ago)
 *   Can’t get my old post
     *   by mm911029
-    *   14 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -25,7 +31,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by eeyorewendy 3 weeks ago)
+    *   3 (last comment by eeyorewendy 4 weeks ago)
 *   All Blogs and Photos GONE! :(
     *   by BigRig37
     *   11 months ago
@@ -86,12 +92,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   7 (last comment by lpbaby89 2 months ago)
-*   Old blog
-    *   by BRITT\_\_LOVE
-    *   2 months ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
 1 2 3 ... 188 Next
 
