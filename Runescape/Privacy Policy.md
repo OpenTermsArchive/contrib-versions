@@ -1,137 +1,382 @@
 Privacy Policy
 
-1\. Introduction
+Version 0.1
 
-This is the privacy policy of Jagex Limited and any companies within our group (referred to collectively as "Jagex"). It applies to all of our websites/services (referred to collectively as "our websites") on which it appears.
+Date May 25th, 2018.
 
-"Jagex Product(s)" is used as shorthand for our online games including all Jagex websites used to play those games and products published by Jagex on behalf of third parties. The ongoing supply of any particular Jagex Product is not guaranteed.
+**INTRODUCTION**
 
-"Personally Identifiable Information" is information that identifies you and can be used to contact or locate you in real life, such as your real full name, e-mail address, mobile telephone number, postal address or credit card information.
+Jagex respects your privacy and is committed to protecting your personal data. This privacy policy will inform you as to how we look after your personal data when you visit our website (regardless of where you visit it from) and tell you about your privacy rights and how the law protects you.
 
-We are committed to protecting your privacy and take special measures to ensure the confidentiality of Personally Identifiable Information collected from or about you. This privacy policy explains how we collect, store and use such Personally Identifiable Information.
+**1\. IMPORTANT INFORMATION AND WHO WE ARE**
 
-Please read this policy carefully. You must accept this policy in full in order to use our website or any Jagex Product (whether or not you are a subscriber). If you do not agree with this policy, or any part, please do not use our websites or any Jagex Products. Your using any of our websites or Jagex Products is treated as an acceptance of the version of this policy in effect at the time of your use.
+**PURPOSE OF THIS PRIVACY POLICY**
 
-We may change this policy at any time, and will post any changes made on the site. Please check it whenever you return to the site. We will treat your continued use of our websites or any Jagex Product as acceptance of these changes from their effective date as shown above.
+This privacy policy aims to give you information on how Jagex collects and processes your personal data through your use of this website, including any data you may provide through this website when you sign up to play any of our games, subscribe to our newsletter, purchase a product or service or take part in a competition or a survey.
 
-If you have any questions about this privacy policy, please contact us by emailing privacy@jagex.com and do not use our websites or Jagex Products until you are satisfied and can accept this policy in its entirety.
+This website is not intended for children under 13 years old and we do not knowingly collect data relating to children under 13 years old.
 
-2\. What Personally Identifiable Information do we collect and store?
+It is important that you read this privacy policy together with any other policies we may provide on specific occasions when we are collecting or processing personal data about you so that you are fully aware of how and why we are using your data. This privacy policy supplements the other policies and is not intended to override them.
 
-No Personally Identifiable Information is collected when you merely access the public areas of our websites.
+**CONTROLLER**
 
-We collect and store information which our users voluntarily provide via forms or otherwise on our Jagex Products, and in electronic or other communications with us. You may opt-out of providing any such information by simply choosing not to complete the form requesting the information, and hence choosing not to use that particular service.
+Jagex Limited is the controller and responsible for your personal data (collectively referred to as “COMPANY”, “we”, “us” or “our” in this privacy policy).
 
-For example:
+We have appointed an external data protection officer (DPO) who is responsible for overseeing questions in relation to this privacy policy. If you have any questions about this privacy policy, including any requests to exercise your legal rights, please contact the external DPO using the details set out below.
 
-*   To use many of the features of Jagex Products you will need to open an account by choosing a username and password.
-*   To make use of our customer support service you will need to access the customer support section using your username and password and supply information relating to your query via the online form.
-*   To enable us to provide a better customer support service we may also ask you to provide contact information including: name, email address, postcode and country, and to provide a number of security questions which we can use to verify your identity if you require assistance in the future. (Note that the questions and the answers you provide are up to you. You may opt-out of providing some of this information but it will limit the availability or effectiveness of our support service if you do, or you may not be eligible for a particular support service.)
-*   We may give you the option of supplying a valid email address so we can contact you in the future with email newsletters about Jagex Products, including new game features and special offers.
+**CONTACT DETAILS**
 
-Some users may not be eligible for certain elements detailed above, for example because there are restrictions on the collection of Personally Identifiable Information from those users.
+Our full details are:
 
-3\. What other information is collected and stored?
+Full name of legal entity: Jagex Limited
 
-We use Cookies, collect and store IP-addresses, alphanumeric IDs and other unique identifiers in order to identify specific computers that access the Jagex Products. We identify and store the versions of Java and .NET (if any) on your computer along with your browser and operating system, and details of your device's hardware and software specifications.
+Name of external DPO: Robert Healey
 
-For more information about Cookies, the information they collect and how to disable them, please visit our Cookies page.
+Email address: robert.healey@relentless-privacy-compliance.co.uk
 
-We generate and store logs indicating usage of the Jagex Products such as activity in our games and public and private chat communications. This includes monitoring play patterns and anti-tamper checks which verify the correct internal operation of our software and are designed to spot abusive or inappropriate activities.
+Postal address: Suite 511, The Greenhouse, The Custard Factory, Gibb Street, Birmingham, B9 4AA.
 
-We may track your use of certain features and areas of the Jagex Products to help us improve them.
+You have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues (_www.ico.org.uk_). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance.
 
-If our client software held on your computer fails, it sends an automatic error report to our server to help us fix it. This error report only includes information about the internal state of our own client software and which browser/java version it is running on. It does not include data from elsewhere on your system and so does not reveal Personally Identifiable Information to us.
+**CHANGES TO THE PRIVACY POLICY AND YOUR DUTY TO INFORM US OF CHANGES**
 
-We store 'save game' and 'game settings' information to enable us to provide a better games service in which your activities and achievements are remembered in the game, and we conduct polls to find better ways of serving the needs of our users.
+This version was last updated on May 2018 and historic versions can be obtained by contacting us.
 
-4\. Information about you received from third parties
+It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.
 
-If you access Jagex's Products through an integrated and approved third party then you are allowing Jagex access to certain information from that third party. The information you allow Jagex to access may vary per Jagex Product and across different third party platforms and is affected by the privacy settings you have on your computer or internet device and the choices you make with that third party.
+**THIRD-PARTY LINKS**
 
-By playing a Jagex Product through a third party site or application you are authorising Jagex to collect, store and use in accordance with this Privacy Policy any and all information that you agreed the third party could provide to Jagex through that third party site or application including Personally Identifiable Information.
+This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy policy of every website you visit.
 
-5\. What happens to the information provided/collected?
+**2\. THE DATA WE COLLECT ABOUT YOU**
 
-The information we collect may be used:
+Personal data, or personal information, means any information about an individual from which that person can be identified. It does not include data where the identity has been removed (anonymous data).
 
-1.  To process your payment for membership subscriptions or other goods or services ordered on our site or to fulfil such orders.
-2.  To provide our customer support service, and to verify any claims or requests you make if you use our customer support service.
-3.  To enforce our terms and conditions, and prevent or detect hacking activities, security breaches or safety risks in connection with our websites and Jagex Products.
-4.  To send service announcements and messages (for example, a reminder sent to the members' Message Centre if a subscription payment is due or if member credit has expired).
-5.  To aggregate information to generate anonymous statistics regarding use of the Jagex Products. We may share this anonymous information with our partners and advertisers. This is not linked to any Personally Identifiable Information.
-6.  For our own internal marketing and demographic studies and to help us improve our websites or the Jagex Products or to show you adverts on our site which are relevant to your demographic profile.
-7.  In the event of an actual or proposed (including as part of negotiations for any) merger, or business combination or sale of substantially all of our assets or a business operation to which such information relates, or as provided under bankruptcy or applicable insolvency laws or by the enforcement of equitable rights.
-8.  To disclose information to the extent required by law, court order, as requested by other government, regulatory or law enforcement authority, to protect or assist in protecting our users, systems or the public, or to otherwise enforce legal rights as determined in our sole and absolute discretion.
-9.  If you have agreed on our websites, to send you email newsletters about our games, including new game features and special offers.
-10.  As set out elsewhere in our privacy policy.
+We may collect, use, store and transfer different kinds of personal data about you which we have grouped together as follows:
 
-We care about protecting your privacy, and with the exception of the uses specified above or where you explicitly consent, we will not sell, transfer, rent out, share or disclose your Personally Identifiable Information to other companies.
+*   **Identity Data** includes first name, last name, username or similar identifier, title and date of birth.
 
-6\. Passing your personal information to third parties
+*   **Contact Data** includes billing address, home address, email address and telephone numbers.
 
-We may supply your Personally Identifiable Information to external third parties who provide a service to us (such as fulfilment of orders placed for Jagex Product merchandise or to assist us in the supply of customer support) and purely for the purpose of that service.
+*   **Transaction Data** includes details about payments to and from you and other details of products and services you have purchased from us.
 
-We partner with a number of external payment service provider companies to enable you to make payment via a wide range of payment options. We share your billing information with such companies insofar as is necessary for the processing of your payment or to prevent or detect fraud. These companies have agreed not to retain, share, store or use your Personally Identifiable Information which we pass to them for any secondary purposes.
+*   **Technical Data** includes internet protocol (IP) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access this website.
 
-Your personal information may be transferred to, stored and processed in countries outside your country of residence both in and outside the European Union including the United States, and used for the purposes set out in this Privacy Policy.
+*   **Profile Data** includes your username and password, purchases or orders made by you, your interests, preferences, feedback and survey responses.
 
-You should be aware that the data protection laws of other countries may not be the same as the data protection laws of your country of residence. By submitting your personal information to Jagex, you agree to the transfer, storage and processing of your personal information as described in this section.
+*   **Usage Data** includes information about how you use our website, products and services.
 
-Please note that this privacy policy does not apply to any of your Personally Identifiable Information which is collected by the external payment provider companies themselves or to the websites or services of other companies to which we link or which link to us, or which provide goods or services to our users from their websites (such as co-branded, white label or affiliate sites or other sites selling Jagex Product merchandise). Please note that those companies (and not Jagex) are responsible for the information which they collect. Please check their privacy polices where appropriate.
+*   **Marketing and Communications Data** includes your preferences in receiving marketing from us and our third parties and your communication preferences.
 
-We use external companies to provide and serve advertisements or other technologies on the Jagex Products (eg to collect website statistics or to enable sharing of buttons or widgets). These companies may use information (not including Personally Identifiable Information) about your visits to this and other websites in order to personalize advertisements on this site or other sites and/or to personalize certain features on our site and/or to provide anonymised aggregated statistics concerning use of our site or use of certain features on our site which are shared with other sites (eg buttons or widgets linking to our site). We do not have access to or control over cookies or other technologies that these third parties may use and the information practices of these advertisers and technology companies are not covered by this policy. If you would like more information about some of these practices and to know your choices about preventing this information being used by certain of these companies, please click here.
+If you decide to make a payment for any of our products and services, your **Financial Data**, which includes your bank account and payment card details, will be collected by our external payment service provider. We will not have access, collect, use, store or transfer your Financial Data.
 
-Furthermore, information collected from our users by third parties providing goods or services (including advertisements) at or via the Jagex Products may be shared by those third parties with us and stored by us for the purposes stated in this policy.
+We also collect, use and share **Aggregated Data** such as statistical or demographic data for any purpose. Aggregated Data may be derived from your personal data but is not considered personal data in law as this data does **not** directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific website feature. However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this privacy policy.
 
-Be very careful before making or posting any communications whilst using Jagex Products. Certain information is visible to other players of the game including: public and private chat communications, the appearance of your characters and your experience points. Players who include you on their friends list can see which in-game world you are playing on. We may share Game Data with third parties, such as survey and data analysis companies, to help improve the products and services we offer to our players and improve the player experience. "Game Data" includes, but is not limited to, communications posted on Jagex Products and player communications. Game Data may contain Personally Identifiable Information.
+We do not collect any **Special Categories of Personal Data** about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data). Nor do we collect any information about criminal convictions and offences.
 
-If you have agreed on our websites, we may provide your email address to our business partners so that they can send you emails with details of goods or services which may be of interest to you including information about special offers or promotions.
+**IF YOU FAIL TO PROVIDE PERSONAL DATA**
 
-7\. Safeguarding your Personally Identifiable Information
+Where we need to collect personal data by law, or under the terms of a contract we have with you and you fail to provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example, to provide you with goods or services). In this case, we may have to cancel a product or service you have with us but we will notify you if this is the case at the time.
 
-We will only collect Personally Identifiable Information to the extent we believe it reasonably necessary to serve our legitimate business purposes, and will protect it using the same level of safeguards we use to ensure the security, integrity and privacy of our own equivalent proprietary information. In addition, we will take reasonable steps to ensure that third parties to whom we transfer any Personally Identifiable Information in accordance with this policy will agree to provide sufficient protection.
+**3\. HOW IS YOUR PERSONAL DATA COLLECTED?**
 
-Note that while we strive to protect all our Personally Identifiable Information, we have all heard of data breaches in well-respected financial and governmental institutions and we cannot ever fully guarantee that such breaches will not happen. We will inform you of any material data breaches that we discover that may compromise your Personally Identifiable Information.
+We use different methods to collect data from and about you including, but not limited to:
 
-8\. Jagex’s privacy practices in relation to children
+*   **Direct interactions.** You may give us your Identity, Contact and Financial Data by filling in forms or by corresponding with us by post, phone, email or otherwise. This includes personal data you provide when you:
 
-We do not knowingly collect or store any Personally Identifiable Information from children under 13. If a Jagex Product allows under 13s to create an account, Jagex will need to collect information that is reasonably necessary for participation in the Jagex Product, such as a user-name, password and a parent or guardian's email address.
+*   apply for our products or services;
 
-If we become aware that we hold or have inadvertently disclosed any Personally Identifiable Information for any player aged under 13 (other than an irreversible hash of an email address username in a non-retrievable form), it will be deleted from our system to ensure the protection of the child's privacy.
+*   create an account on our website;
 
-Jagex will not require a user under 13 to provide Personally Identifiable Information in order to use Jagex forums or messaging features within Jagex Products. In addition, we enable users of Jagex Products to chat online through our products, but we take measures so that users under 13 cannot communicate personal information through this chat function. These measures include filters and post-submission moderation. Nonetheless, if you use the chat function within a Jagex Product and disclose Personally Identifiable Information, you should be aware that such information could be read, collected or used by other users. We strongly encourage you not to disclose Personally Identifiable Information (such as real name, email address, telephone number, etc.) about you or about any third party. Jagex is not responsible for the use of Personally Identifiable Information you choose to submit through Jagex Products.
+*   subscribe to our service or publications;
 
-If a Jagex Product asks you for your email address as your username and you are under 13, we will not store the email address. Instead the email address will automatically create an encrypted record on our system (known as a hash), which cannot be used by us to re-create the email address. Next time you login, you will be asked for your email address as your username. This will then automatically create a new hash which will then be compared against our existing records in order to allow you to log you in. We will not store your email address in any form that can be used to contact you, although you may be asked to provide your parent's email address.
+*   request marketing to be sent to you;
 
-On top of what we state above, we also have a number of provisions regarding the Personally Identifiable Information of children. These are that a parent/guardian has the right to review the information the site has collected from their child, have their child's Personally Identifiable Information deleted from the site and also request us to stop collecting further Personally Identifiable Information from their child in the future. This can be done through either faxing or posting us an affidavit, along with a copy of your passport or driving license, to the fax number or address below:
+*   enter a competition, promotion or survey. or
 
-*   UK: 0844 588 6690
-*   USA, Canada: 01144 844 588 6690
-*   Australia: 001144 844 588 6690
-*   Rest of the world: 0044 844 588 6690
+*   give us some feedback.
 
-  
-Jagex Ltd.   
-220 Cambridge Science Park    
-Milton Road   
-Cambridge   
-CB4 0WA   
-United Kingdom   
- 
+*   **Automated technologies or interactions.** As you interact with our website, we may automatically collect Technical Data about your equipment, browsing actions and patterns. We collect this personal data by using cookies, pixels, server logs and other similar technologies. We may also receive Technical Data about you if you visit other websites employing our cookies. Please see our Cookie Policy for further details.
 
-Phone number: 0844 588 8880
+*   **Third parties or publicly available sources.** We may receive personal data about you from various third parties and public sources as set out below:
 
-The affidavit has to be signed by and in the presence of 'notary public'. This is someone who is qualified and has the legal authority, to administer oaths. Upon receipt of this, we will be able to action your request. Specifically, the affidavit must state:
+*   Technical Data from the following parties:
 
-*   You are the custodial parent;
-*   Your e-mail address;
-*   Confirmation that your child is under the age of 18;
-*   The correct spelling of your child's username for the relevant Jagex Product;
-*   Whether you wish to have the right to review the information the site has collected from your child, have your child's Personally Identifiable Information deleted from the site and/or request us to stop collecting further Personally Identifiable Information from your child in the future.
+**(a)** analytics providers such as Google based inside **AND** outside the EU;
 
-If you are submitting an affidavit for a child that is under 13 years of age, then please do not include any of their Personally Identifiable Information. If you do include any Personally Identifiable Information of the child, your submission is your express consent for Jagex to receive and store the Personally Identifiable Information as reasonably necessary to fulfil your request.
+**(b)** advertising networks such as Facebook based inside **AND** outside the EU. and
 
-9\. Review and correction of information from our records
+**(c)** search information providers such as Google based inside **AND** outside the EU.
 
-If for data protection purposes you are concerned that the Personally Identifiable Information which we hold about you is not accurate please see our Data Protection Policy.
+*   Contact, and Transaction Data from providers of technical, payment and delivery services based inside **AND** outside the EU.
+
+*   Identity and Contact Data from data brokers or aggregators based inside **AND** outside the EU.
+
+*   Identity and Contact Data from publicly availably sources such as Companies House and the Electoral Register based inside the EU.
+
+**4\. HOW WE USE YOUR PERSONAL DATA**
+
+We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:
+
+*   Where we need to perform the contract we are about to enter into or have entered into with you.
+
+*   Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
+
+*   Where we need to comply with a legal or regulatory obligation.
+
+Generally, we do not rely on consent as a legal basis for processing your personal data other than in relation to sending third party direct marketing communications to you. You have the right to withdraw consent to marketing at any time by Contacting us.
+
+**PURPOSES FOR WHICH WE WILL USE YOUR PERSONAL DATA**
+
+We have set out below, in a table format, a description of all the ways we plan to use your personal data, and which of the legal bases we rely on to do so. We have also identified what our legitimate interests are where appropriate.
+
+Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data.
+
+**Purpose/Activity**
+
+**Type of data**
+
+**Lawful basis for processing including basis of legitimate interest**
+
+To register you as a new customer
+
+(a) Identity
+
+(b) Contact
+
+(c) Technical
+
+(d) Profile
+
+(e) Usage
+
+Performance of a contract with you
+
+To process and deliver your order including:
+
+(a) Manage payments, fees and charges
+
+(b) Obtain consent for marketing activities performed by third parties
+
+(a) Identity
+
+(b) Contact
+
+(c) Transaction
+
+(d) Marketing and Communications
+
+(a) Performance of a contract with you
+
+(b) explicit consent
+
+To manage our relationship with you which will include:
+
+(a) Notifying you about changes to our terms or privacy policy
+
+(b) Asking you to leave a review or take a survey
+
+(a) Identity
+
+(b) Contact
+
+(c) Profile
+
+(d) Marketing and Communications
+
+(a) Performance of a contract with you
+
+(b) Necessary to comply with a legal obligation
+
+(c) Necessary for our legitimate interests (to keep our records updated and to study how customers use our products/services)
+
+To enable you to partake in a prize draw, competition or complete a survey
+
+(a) Identity
+
+(b) Contact
+
+(c) Profile
+
+(d) Usage
+
+(e) Marketing and Communications
+
+(a) Performance of a contract with you
+
+(b) Necessary for our legitimate interests (to study how customers use our products/services, to develop them and grow our business)
+
+To administer and protect our business and this website (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data)
+
+(a) Identity
+
+(b) Contact
+
+(c) Technical
+
+(d) Transaction
+
+(e) Usage
+
+(a) Performance of contract
+
+(b) Necessary for our legitimate interests (for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise)
+
+(c) Necessary to comply with a legal obligation
+
+To deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you
+
+(a) Identity
+
+(b) Contact
+
+(c) Profile
+
+(d) Usage
+
+(e) Marketing and Communications
+
+(f) Technical
+
+Necessary for our legitimate interests (to study how customers use our products/services, to develop them, to grow our business and to inform our marketing strategy)
+
+To use data analytics to improve our website, products/services, marketing, customer relationships and experiences
+
+(a) Technical
+
+(b) Usage
+
+(c) Marketing and Communications
+
+(d) Profile
+
+Necessary for our legitimate interests (to define types of customers for our products and services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy)
+
+To make suggestions and recommendations to you about goods or services that may be of interest to you
+
+(a) Identity
+
+(b) Contact
+
+(c) Technical
+
+(d) Usage
+
+(e) Profile
+
+Necessary for our legitimate interests (to develop our products/services and grow our business)
+
+**MARKETING**
+
+We provide you with choices regarding certain personal data uses, particularly around marketing and advertising. We have established the following personal data control mechanisms:
+
+**PROMOTIONAL OFFERS FROM US**
+
+We may use your Identity, Contact, Technical, Usage and Profile Data to form a view on what we think you may want or need, or what may be of interest to you. This is how we decide which products, services and offers may be relevant for you (we call this marketing).
+
+You will receive marketing communications from us if you have requested information from us or registered to play our games or purchased goods or services from us or if you provided us with your details when you entered a competition or registered for a promotion.
+
+**THIRD-PARTY MARKETING**
+
+We will get your explicit opt-in consent before we share your personal data with any company outside Jagex for marketing purposes.
+
+**OPTING OUT**
+
+You can ask us or third parties to stop sending you marketing messages at any time by logging into the website and checking or unchecking relevant boxes to adjust your marketing preferences or by following the opt-out links on any marketing message sent to you or by Contacting us at any time.
+
+Where you opt out of receiving these marketing messages, this will not apply to personal data provided to us as a result of a product/service purchase, product/service experience or other transactions.
+
+**COOKIES**
+
+You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see our Cookie Policy.
+
+**CHANGE OF PURPOSE**
+
+We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose.
+
+If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
+
+Please note that we may process your personal data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
+
+**5\. DISCLOSURES OF YOUR PERSONAL DATA**
+
+We may have to share your personal data with third parties set out below for the purposes set out in the table in paragraph 4 above.
+
+*   Specific marketing partners listed here.
+*   We may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy policy.
+
+We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
+
+**6\. INTERNATIONAL TRANSFERS**
+
+Some of our external third parties are based outside the European Economic Area (**EEA**) so their processing of your personal data will involve a transfer of data outside the EEA.
+
+Whenever we transfer your personal data out of the EEA, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented:
+
+*   We will only transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the European Commission.
+
+*   Where we use certain service providers, we may use specific contracts approved by the European Commission which give personal data the same protection it has in Europe.
+
+*   Where we use providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between the Europe and the US.
+
+**7\. DATA SECURITY**
+
+We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.
+
+We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.
+
+**8\. DATA RETENTION**
+
+**HOW LONG WILL YOU USE MY PERSONAL DATA FOR?**
+
+We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
+
+To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
+
+By law we have to keep basic information about our customers (including Contact, Identity, Financial and Transaction Data) for six years plus current year after they cease being customers for tax purposes.
+
+In some circumstances you can ask us to delete your data: see _Request erasure_ below for further information.
+
+In some circumstances we may anonymise your personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
+
+**9\. YOUR LEGAL RIGHTS**
+
+Under certain circumstances, you have rights under data protection laws in relation to your personal data. We set out below a brief description of such rights:
+
+*   **Request access to your personal data** **(commonly known as a “data subject access request”):** This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
+*   **Request correction of your personal data** **:** This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.
+*   **Request erasure of your personal data** **:** This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request.
+*   **Object to processing** **of your personal data:** Where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your personal data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms
+*   **Request restriction of processing your personal data** **:** This enables you to ask us to suspend the processing of your personal data in the following scenarios: (a) if you want us to establish the data’s accuracy. or (b) you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it
+*   **Request the transfer** **of your personal data to you or to a third party:** We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you.
+*   **Withdraw consent at any time** **where we are relying on consent to process your personal data:** However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent
+
+If you wish to exercise any of the rights set out above, please Contact us.
+
+**NO FEE USUALLY REQUIRED**
+
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
+
+**WHAT WE MAY NEED FROM YOU**
+
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
+
+**TIME LIMIT TO RESPOND**
+
+We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests, in which case we will inform you of an extension period of up to 2 months. In this case, we will keep you informed on progress.
+
+**10\. GLOSSARY**
+
+**LAWFUL BASIS**
+
+**Legitimate Interest** means the interest of our business in conducting and managing our business to enable us to give you the best service/product and the best and most secure experience. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law). You can obtain further information about how we assess our legitimate interests against any potential impact on you in respect of specific activities by Contacting us.
+
+**Performance of Contract** means processing your data where it is necessary for the performance of a contract to which you are a party or to take steps at your request before entering into such a contract.
+
+**Comply with a legal or regulatory obligation** means processing your personal data where it is necessary for compliance with a legal or regulatory obligation that we are subject to.
+
+**Explicit consent** **for external marketing** means your personal data will not be disclosed to any third party unless you have given your explicit consent to such disclosure.
+
+**11\. POLICY UPDATES**
+
+We may update our Privacy Policy from time to time to reflect changes in technology, legislation, our operations, or as we otherwise determine is necessary or appropriate. Any such changes will become effective when we make the revised policy available on our website. We encourage you to review the date above frequently to ensure you are aware of when our policy was last revised, and to help you better understand the nature of your interactions with us.
