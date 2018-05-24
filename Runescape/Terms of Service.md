@@ -1,5 +1,9 @@
 Terms and Conditions
 
+Version 0.1
+
+Date May 25th, 2018.
+
 1\. Introduction
 
 This website is owned and operated by Jagex Limited ( **"Jagex"**), a company registered in England and Wales (registered number 3982706). Our registered office is at St John's Innovation Centre, Cowley Road, Cambridge, CB4 0WS, United Kingdom. Our VAT number is 791 951 784. 
@@ -218,11 +222,7 @@ If, after reading the above, you wish to request that we consider a refund, then
 
 Please also review our "Cancellation Policy" which can be found by clicking here, which is incorporated into these terms and conditions.
 
-16\. Privacy policy and data protection policy
-
-The terms of the Privacy Policy and Data Protection Policy are incorporated into this document by reference. For a description of how we use your personal data, please see our Privacy Policy. For a description of how you can make a request concerning your personal data, please see our Data Protection Policy.
-
-17\. Functioning of Jagex Products
+16\. Functioning of Jagex Products
 
 We will use reasonable endeavours to maintain operation of Jagex Products and rectify faults as quickly as possible. Jagex reserves the right to modify, including by way of regular updates, the Jagex Products and we may have to suspend operation of a Jagex Product without notice for repair, maintenance, improvement, security or any other reason. If so, we will do our best to ensure that the suspension is as short as possible. We cannot accept responsibility for such suspensions, interruptions or errors caused by circumstances outside our reasonable control.
 
@@ -232,13 +232,13 @@ Minimum technical specs and compatibility information is available on the websit
 
 We cannot guarantee the ongoing supply of any particular Jagex Product.
 
-18\. Third party sites and technologies
+17\. Third party sites and technologies
 
 JAGEX PRODUCTS MAY INCLUDE LINKS TO INTERNET SITES OR OTHER TECHNOLOGIES SUPPLIED BY THIRD PARTIES INCLUDING SITES/TECHNOLOGIES WHICH ENABLE YOU TO PAY BY MEANS OF PAYMENT METHODS PROVIDED BY THIRD PARTIES. WE MAKE NO PROMISES ABOUT THOSE SITES OR THEIR CONTENT, PRODUCTS OR SERVICES AS THESE ARE OUTSIDE OUR REASONABLE CONTROL.
 
 ANY THIRD PARTY SITES OR TECHNOLOGIES SUGGESTED ARE NOT ENDORSED, CONTROLLED OR VERIFIED BY JAGEX. JAGEX DOES NOT GUARANTEE THAT ANY SUGGESTED TECHNOLOGIES WILL WORK ON YOUR COMPUTER OR BE VIRUS FREE. ANY SUGGESTIONS MADE ARE NOT A WARRANTY OF ANY KIND AND JAGEX IS NOT RESPONSIBLE FOR ANY DISRUPTION, PROBLEM, DAMAGE, DATA LOSS, COST OR INCONVENIENCE CAUSED BY THE SUGGESTED SITES OR TECHNOLOGIES. JAGEX WILL NOT PROVIDE SUPPORT FOR ANY SITES OR TECHNOLOGIES WHICH ARE NOT ITS OWN. JAGEX EXERCISES NO CONTROL OVER THE COPYRIGHT, PATENT OR TRADEMARK COMPLIANCE OR LEGALITY OF THE SUGGESTED SITES OR TECHNOLOGIES.
 
-19\. OUR AND YOUR LEGAL RESPONSIBILITY
+18\. OUR AND YOUR LEGAL RESPONSIBILITY
 
 JAGEX PRODUCTS ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS. WE DO NOT WARRANT THAT YOU WILL BE ABLE TO ACCESS OR USE A JAGEX PRODUCT AT THE TIMES OR LOCATIONS OF YOUR CHOOSING OR THAT A JAGEX PRODUCT WILL BE UNINTERRUPTED OR FREE OF ERRORS. ACCORDINGLY, JAGEX IS NOT LIABLE TO YOU FOR ANY LOSS OR DAMAGE THAT MIGHT ARISE, FOR EXAMPLE, FROM THE INOPERABILITY, UNAVAILABILITY OR SECURITY VULNERABILITIES OF THE JAGEX PRODUCT OR FROM YOUR RELIANCE ON THE QUALITY, ACCURACY, OR RELIABILITY OF THE JAGEX PRODUCT.
 
@@ -250,10 +250,10 @@ YOU WILL BE LIABLE FOR ANY LOSS OR DAMAGE WE SUFFER ARISING FROM YOUR BREACH OF 
 
 NOTHING IN THESE TERMS AND CONDITIONS AFFECTS YOUR STATUTORY RIGHTS AS A CONSUMER. 
 
-20\. General
+19\. General
 
 These terms and conditions and any document incorporated by reference constitute the entire agreement between the parties with respect to its subject matter and supersedes any previous terms and conditions between the parties in relation to such matters. The limitations, exclusions and restrictions in these terms and conditions shall inure to the benefit of Jagex's licensors, successor and assigns. Headings above are for guidance only and not binding. If we fail to enforce any provision of these terms and conditions, that failure will not preclude us from enforcing either that provision (or any similar provision) on a later occasion. If any provision of these terms and conditions is found by a court to be invalid, we agree that the court should endeavour to give effect to the parties' intentions as reflected in the provision and that other provisions remain in full force and effect. We may transfer all or part of our rights or duties under this agreement provided we take reasonable steps to ensure that your rights under this agreement are not prejudiced. As this agreement is personal to you, you may not transfer any of your rights or duties under it without our prior written consent. A person who is not a party to this agreement shall have no rights to enforce any term of this agreement. These terms and conditions are governed by English law and any dispute connected with them or Jagex Products will be decided only by the courts of England.
 
-21\. Complaints
+20\. Complaints
 
 If you are dissatisfied with this website or any aspect of it, please contact us via the customer support section of the Jagex Product website. If you are unhappy with the outcome of your complaint, please write to our registered office above providing us with the following information: your name, username, email address, the full details of your complaint, Jagex’s previous response to your complaint and why you disagree with the outcome. Please mark the letter for the attention of the “Customer Support Complaints Team”.
