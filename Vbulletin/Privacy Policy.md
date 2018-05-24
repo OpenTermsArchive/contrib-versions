@@ -1,264 +1,300 @@
 Privacy Policy Print this page
 
-Internet Brands, Inc. and its subsidiaries and corporate affiliates (collectively, "Internet Brands," "our," "us," or "we") operate websites, provide products and services through mobile and other applications, and develop software. We refer to these as "site(s)," "service(s)," or "our sites and services."
+MH Sub I, LLC dba Internet Brands and its subsidiaries and corporate affiliates (collectively, "Internet Brands," "our," "us," or "we") operate websites, provide products and services through mobile and other applications, and develop software. We refer to these as "site(s)," "service(s)," or "our sites and services."
 
 This privacy policy applies to our sites and services on which we display or post a direct link to this privacy policy. This privacy policy does not apply to those sites and services that do not display or link to this privacy policy, or that have their own privacy policies. However, we often acquire new companies to expand our business. Some acquired companies may operate under their own privacy policies until we integrate their privacy practices with ours.
 
-This privacy policy covers what information we collect and why we collect it, how we use the information we collect, and the choices you have to access and update that information. Please familiarize yourself with our practices and let us know if you have any questions. By using our sites and services, you expressly consent to our collection, use, disclosure, and retention of your personal information as described in this privacy policy. If you do not agree to this privacy policy, please do not use our sites or services.
+This privacy policy applies to all users of our sites and services and covers what information we collect and why we collect it, how we use the information we collect, and the choices you have to access and update that information. Please familiarize yourself with our practices and let us know if you have any questions. By using our sites and services, you expressly consent to our collection, use, disclosure, and retention of your personal information as described in this privacy policy. Each time you use our sites and services, the current version of this privacy policy will apply. If you do not agree to this privacy policy, please do not use our sites or services.
 
-1.  Personal Information We Collect
+Data Controller and Contracting Parties
+
+For the purposes of the General Data Protection Regulation 2016/679 (the “GDPR”), the Data Controller is MH Sub I, LLC registered in the State of Delaware, United States of America with a registered address at 909 N. Sepulveda Blvd. 11th Floor., El Segundo CA 90245.
+
+You can contact our Data Protection Officer by sending an email to privacy@internetbrands.com or by writing to:
+
+MH Sub I, LLC  
+Attn: Legal Department  
+909 N. Sepulveda Blvd., 11th Floor  
+El Segundo, California 90245 U.S.A.  
+
+6.  Personal Information that You Provide to Us
     
-    Personal information is information that can be used to identify, locate, or contact an individual, and includes other information that may be associated with personal information. When you interact with our sites and services, depending on the site or service, we may ask for the following personal information directly from you:
+    Personal information is information that can be used to identify, locate, or contact an individual, and includes other information that may be associated with personal information. When you interact with our sites and services, depending on the site or service, we may collect the following personal information directly from you:
     
-    *   Contact Information allows us to communicate with you and generally includes your name, addresses, email addresses, social media website user account names, and/or telephone numbers.
-    *   Payment Information needed to process payments such as your credit or debit card number, expiration date, and card verification number.
-    *   Personal Profile or Service Information helps us with the administration and personalization of your personal profiles or services, such as areas of interest, information from social media interactions (such as Facebook, Twitter, or Google+), preferences, physical characteristics (such as height, weight), photographs and, biographical, health information and/or demographic information (such as gender).
-    *   Transaction Information about how you interact with and use our sites and services, email, other communications, and applications. and how you interact with merchants, business partners, and service providers.
-    *   Geographic Location Information but only if your mobile or other device transmits location data and/or your IP address, and you have activated a location-enabled site or service.
-    *   Job-Search-Related Information for recruitment purposes and may include educational and employment background, driver's license number and social security number.
-    *   Survey Data for functionality of certain services, which generally includes survey data (questions and responses) and may allow you to import email addresses and names for ease of allowing you to send surveys or to allow us to send surveys on your behalf.
-    *   Medical Information for functionality of certain services to connect you with your healthcare provider, and may include your medical history, present symptoms, future conditions or treatments, insurance carrier and plan, and any other medical and health information you or your healthcare provider choose to share with us.
-    *   Appointment Information to schedule an appointment or consultation using one of our online appointment or consultation services and includes the requested appointment information, which may be linked with health or legal related information that you choose to share with us.
-    *   Access to Your Data if you are our customer and use certain services, interactive tools or authorize us to retrieve information from another database, user, or other third party on your behalf, such as integrating a practice management system with your services, then you may elect to download certain installed tools, which may collect and transmit information from your computer system solely relating to the use of the installed tools and for the purpose of providing you with relevant services.
-    *   Your Submissions help us with administration of our sites and services and includes any information you voluntarily provide, generally through free form text boxes, forums, uploading a document or authorizing us to retrieve and import information from another user or third party on your behalf.
+    1.  **Account or Registration Information** where needed to use our sites and services, and may include your name, address, email address, telephone number, birthday, user account name, and password;
+    2.  **Contact Information**, which generally includes your name, addresses, email addresses, social media website user account names, and/or telephone numbers;
+    3.  **Payment Information** where needed to process payments and generally includes your credit or debit card number, expiration date, and card verification number;
+    4.  **Personal Profile or Service Information**, which  may include areas of interest, information from social media interactions (such as Facebook, Twitter, or Google+), preferences, physical characteristics (such as height, weight), photographs and, biographical, health information and/or demographic information (such as gender);
+    5.  **Transaction Information**, which may include information about how you interact with and use our sites and services, email, other communications, and applications, and how you interact with merchants, business partners, and service providers;
+    6.  **Geographic Location Information**, but only if your device transmits location data and/or your IP address and you have activated a location-enabled site or service;
+    7.  **Job-Search-Related Information** where needed for recruitment purposes and may include educational and employment background, driver's license number, and social security number;
+    8.  **Survey Data** where needed for the functionality of certain services and generally includes survey questions and responses, and may allow you to import email addresses and names in order to send surveys or to allow us to send surveys on your behalf;
+    9.  **Medical Information**, where needed for the functionality of certain services, such as to connect you with your healthcare provider, and may include your medical history, present symptoms, future conditions or treatments, insurance carrier and plan, and any other medical and health information you or your healthcare provider choose to provide to us;
+    10.  **Appointment Information**, where needed to schedule an appointment or consultation through our online appointment or consultation services and may include the requested appointment information, which may be linked with health or legal information that you choose to provide to us;
+    11.  **Access to Your Data**, but only if you use certain services, interactive tools, or authorize us to retrieve information from another database, user, or other third party on your behalf, such as integrating a practice management system with your services; 
+    12.  **Your Submissions**, which generally includes information you voluntarily provide through free form text boxes, forums, document upload, or data retrieval or import; 
     
-      
+    In each of the above instances, you will know what personal information we collect through our sites and services because you voluntarily and directly provide it to us.
     
-    In each of the above instances, you will know what personal information we collect through our sites and services because you voluntarily and directly provide it.
+7.  Other Information We Automatically Collect through Cookies and Other Technologies
     
-2.  How We Use Personal Information:
+    We or our third-party service providers may collect and store certain technical information when you use our sites and services. For example, our servers receive and automatically collect information about your computer and browser, including, for instance, your IP address, browser type, domain name from which you accessed the site or service, device size and other software or hardware information. If you access our sites and services from a mobile or other device, we may collect a unique device identifier assigned to that device (UDID), type of device, general GPS location, or other transactional information for that device in order to serve content to it and to improve your experience in using the sites or services.
     
-    We may use information collected from you in one or more of the following ways:
+    In addition, we or our third-party service providers may collect information about how you use of our sites, including but not limited to, the date and time you visit the sites, the areas or pages of the sites that you visit, the amount of time you spend viewing the sites, the number of times you return to the sites, visits to sites outside our network, preferred language, and other click-stream data. 
     
-    *   to enable site features such as geographically specific pricing or logging, and retrieving and providing analysis of data you choose to enter into the site,
-    *   to send you important notices, such as communications about changes to your account, and our sites' and services' terms, conditions, or policies,
-    *   to process payments and to send you emails, invoices, receipts, notices of delinquency, alerting you if we need different or updated payment card information or other communications in connection with processing and collecting payments,
-    *   to verify the information you provide through the Site, including income and employment information, in connection with a loan request sent through the Site;
-    *   to retain your loan request for the length of time determined by us or by applicable law;
-    *   to solicit input and feedback to improve our sites and services and customize your user experience,
-    *   to enable you to communicate with other site or service users via private messaging or other service specific communication channels,
-    *   to contact you via email, telephone, text or chat in a manner required by law,
-    *   to meet contractual obligations,
-    *   to send you reminders, technical notices, updates, security alerts, support and administrative messages, and service bulletins,
-    *   to inform you about new products or promotional offers, or other opportunities which we feel will be of interest to you, and to provide advertisements to you through our sites, email messages, text messages, applications, or other methods of communication,
-    *   to manage our sites' and services' administration, forum management, or fulfillment,
-    *   to provide customer service and technical support,
-    *   to administer surveys, sweepstakes, giveaways, contests, or similar promotions or events sponsored by us or our partners,
-    *   to prevent fraud or potentially illegal activities, enforce our sites' terms of use or to comply with applicable law,
-    *   for internal purposes such as auditing, data analysis, and research to improve our products, services, and communications,
-    *   to allow you to apply for a job or sign up for special offers from third parties through our sites,
-    *   to help you contact or schedule an appointment with a healthcare provider or legal professional listed in one of our directories and remind you of upcoming or follow-up appointments,
-    *   to perform services in conjunction with interactive tools, such as integrating practice management systems, making a referral, sending a prescription to a pharmacy, or sending a test to a clinical laboratory, and
-    *   to use anonymized personal information to run (or authorize third parties to run) statistical research on individual or aggregate trends.
+    2.1 Cookies
     
-      
+    We or our third-party service providers may use cookies and other tracking technologies (including browser cookies, pixels, beacons, mobile application identifiers, and Adobe Flash technology) to help us recognize you across different sites and services, improve your experience, increase security, measure use and effectiveness of our services, and serve advertising. You can control cookies through your browser settings and other tools. For more information about our use of cookies, please read our Cookie Policy. 
+    
+    By visiting our sites and services, you consent to the placement of cookies and beacons in your browser and HTML-based emails in accordance with this privacy policy and our Cookie Policy.
+    
+    2.2 Do Not Track
+    
+    You can opt-out of being targeted by certain third party advertising companies online by visiting the Network Advertising Initiative, Omniture, Aperture, PrivacyChoice, and/or Digital Advertising Alliance.
+    
+    We currently do not respond to "Do Not Track" browser signals. Accordingly, your navigation on our sites and services may be tracked as part of our efforts to gather user information described above. If you arrive at our sites and services by way of a link from a third-party site that does respond to “Do Not Track” browser signals, such “Do Not Track” browser signal recognition will end as soon as you reach our sites and services. 
+    
+8.  Our Legal Bases for Processing 
+    
+    We will only collect and process personal information, including sharing it with third parties, where we have a legal basis for such collection and processing. We rely on a number of legal bases, including:
+    
+    1.  our legitimate interests in providing and improving our sites and services;
+    2.  our legitimate interests in keeping our sites and services safe and secure; 
+    3.  our third party service providers’ legitimate interests as described in “Other Information We Automatically Collect Through Cookies and Other Technologies” above;
+    4.  your consent to the processing of your personal information, which you can revoke at any time;
+    5.  where the processing of personal information is necessary for the performance of a contract to which you are a party to, such as our Terms of Use, Service Agreement, and License Agreement;
+    6.  where the processing of your personal information is required to protect your vital interests or those of another person, such as other users of our sites and services; 
+    7.  where the processing of personal information is necessary to comply with a legal obligation such as a law, regulation, search warrant, subpoena, or court order.
+9.  How We Use Personal Information
+    
+    4.1 Personal Information that You Provide to Us
+    
+    We may use the personal information that you provide in one or more of the following ways:
+    
+    1.  to carry out our obligations arising from your purchase of, or subscription to, our services or any other contract entered into between you and us;
+    2.  to enable site features such as geographically specific pricing or logging, and retrieving and providing analysis of data; 
+    3.  to send you important notices, such as communications about changes to your account, and our sites' and services' terms, conditions, or policies;
+    4.  to process payments and to send you emails, invoices, receipts, notices of delinquency, alerting you if we need different or updated payment card information or other communications in connection with processing and collecting payments;
+    5.  to verify the information you provide through our sites and services, including income and employment information, in connection with a loan request sent through our sites and services;
+    6.  to retain your loan request for the length of time determined by us or by applicable law;
+    7.  to solicit input and feedback to improve our sites and services and customize your user experience;
+    8.  to enable you to communicate with other site or service users via private messaging or other service specific communication channels;
+    9.  to contact you via email, telephone, text or chat in a manner required by law;
+    10.  to meet contractual obligations;
+    11.  to send you reminders, technical notices, updates, security alerts, support and administrative messages, and service bulletins;
+    12.  to inform you about new products or promotional offers, or other opportunities which we feel will be of interest to you, and to provide advertisements to you through our sites, email messages, text messages, applications, or other methods of communication;
+    13.  to manage our sites' and services' administration, forum management, or fulfillment;
+    14.  to provide customer service and technical support;
+    15.  to administer surveys, sweepstakes, giveaways, contests, or similar promotions or events sponsored by us or our partners;
+    16.  to prevent fraud or potentially illegal activities, enforce our sites' terms of use, or to comply with applicable law;
+    17.  for internal purposes such as auditing, data analysis, and research to improve our products, services, and communications;
+    18.  to allow you to apply for a job or sign-up for special offers from third parties through our sites and services;
+    19.  to help you contact or schedule an appointment with a healthcare provider or a legal professional listed in one of our directories and to remind you of upcoming or follow-up appointments;
+    20.  to perform services in conjunction with interactive tools, such as integrating practice management systems, making a referral, sending a prescription to a pharmacy, or sending a test to a clinical laboratory. and
+    21.  to run (or authorize third parties to run) statistical research on individual or aggregate trends.
     
     In addition to the uses described above, we may use personal information that we collect for other purposes that are disclosed to you at the time we collect the information, or with your consent.
     
-3.  Sharing Personal Information
+    4.2 Other Information We Automatically Collect Through Cookies and Other Technologies
     
-    We may share personal information about you with third parties in the following circumstances:
+    We may use information collected from you through cookies and other tracking technologies in one or more of the following ways:
     
-    *   We may engage third parties to perform services on our behalf, including maintenance services, hosting, data storage, security, analytics and data analysis, payment processing, assisting in marketing efforts, email and text message distribution, customer service, providing certain interactive tools, and conducting surveys and sweepstakes.
-    *   When you communicate with us by email, submit an online form through the Site, request a quote or information, request financing, purchase a product or service, or otherwise submit a request through the Site, the personal information you provide may be shared with third parties to process or respond to your request, provide you with the products or services you requested or complete a transaction, including a third party broker, aggregator or other referral service to share and/or sell your information to a lender, dealer or other financial institution in connection with your online request.
-    *   We may share your contact data, insurance data, and medical data with healthcare providers you choose to schedule through the services.
-    *   Your personal information, and the contents of all of your online communications on or through our sites and services may be accessed and monitored as necessary to operate our sites and perform our services, and may be disclosed:
-        *   to satisfy any applicable laws or regulations,
-        *   to defend ourselves in litigation or a regulatory action,
-        *   in order to protect the rights or property of Internet Brands and our subsidiaries and corporate affiliates, including to enforce our sites' or services' terms of use,
-        *   when we have a good faith belief that we are required to disclose the information in response to legal process (for example, a subpoena, court order, or search warrant),
-        *   where we believe our sites and services are being used in the commission of a crime, including to report such criminal activity or to exchange information with other companies and organizations for the purposes of fraud protection and risk management, and
-        *   when we have a good faith belief that there is an emergency that poses a threat to the health and/or safety of you, another person, or the public generally.
-    *   In the event of a merger, acquisition, debt financing, restructure, sale of Internet Brands' assets by or with another company, or a similar corporate transaction takes place, we may need to disclose and transfer all information about you, including personal information, to the successor company.
-    *   We may share information about you with Internet Brands' subsidiaries and affiliates and companies acquired by or merged with Internet Brands and its affiliates, including without limitation, to enable such acquired or merged companies to advertise to you products and services in which you may be interested.
-    *   Some of our services are co-branded by Internet Brands and other companies with which we partner. If you register to or use such a service, both our privacy policy and the partner's privacy policy may be displayed and apply. If that is the case, both Internet Brands and the partner will receive personal information you provide.
-    *   We may share personal information about you for any other purpose(s) disclosed to you at the time we collect your information or with your consent.
-4.  Loan Requests
+    1.  to remember you when you return to our sites; 
+    2.  to understand and analyze trends, to monitor usage, and learn about user behavior;
+    3.  to gather demographic information about our user base as a whole; 
+    4.  to customize ads, content, or offers on our sites and services. and
+    5.  to conduct market research and measurement in order to improve our sites, content, and services and to make our sites, content, and services more useful for users.
+10.   Sharing Personal and Non-Personal Information
     
-    *   We are not a lender or a broker. When you submit a loan request form using our services, we may share your loan request and related information with one or more consumer finance lending institutions, other lenders or dealers in order for such consumer finance lending institutions, other lenders or dealers to evaluate your loan request in accordance with their loan terms and requirements. You authorize those consumer finance lending institutions, other lenders or dealers to access your credit report in order to evaluate your credit history and loan request and to verify the information in your loan request.
-    *   We may also share the information you submit through a loan request using our services to a third party broker, aggregator or other referral service who will send your information to other lenders or dealers in connection with your loan request and in accordance with their privacy policies.
-    *   Lender Specific Information: Your loan request and information submitted using our services may be shared with one or more third party consumer finance lending institutions, other lenders or dealers, including the consumer finance lending institutions listed below, and you consent to be contacted by these third party consumer finance lending institutions, other lenders or dealers in connection with your loan request, including by autodialer, text messaging and/or prerecorded messages:  
-          
-        CarFinance Capital LLC  
-        7525 Irvine Center Drive  
-        Suite 250  
-        Irvine, CA 92618  
-          
-        Santander  
-        8585 N. Stemmons Freeway  
-        Suite 1100 – North  
-        Dallas, TX 75247  
-          
-        DriveTime  
-        1720\. West Rio Salado Pkwy  
-        Tempe, AZ 85281  
-        
+    We may share your personal information with third parties in the following circumstances:
     
+    1.  when we engage third parties to perform services on our behalf, such services include maintenance, hosting, data storage, security, analytics and data analysis, payment processing, marketing, email and text message distribution, customer service, and surveys and sweepstakes;
+    2.  when you communicate with us by email, submit an online form through our sites and services, request a quote or information, request financing, purchase a product or service, or otherwise submit a request through our sites and services, the personal information you provide may be shared with third parties to process or respond to your request, provide you with the products or services you requested, or complete a transaction, including a third party broker, aggregator, or other referral service to share and/or sell your information to a lender, dealer, or other financial institution in connection with your online request.
+    3.  when you schedule an appointment with a healthcare provider or legal professional, we may share your contact data, insurance data, and medical data with such healthcare provider or legal professional; 
+    4.  where necessary to operate our sites and services, your personal information and the contents of all of your online communications on or through our sites and services may be accessed and monitored: 
+    
+    1.  to satisfy any applicable laws or regulations,
+    2.  to defend ourselves in litigation or a regulatory action,
+    3.  in order to protect the rights or property of Internet Brands and our subsidiaries and corporate affiliates, including to enforce our sites' or services' terms of use,
+    4.  when we have a good faith belief that we are required to disclose the information in response to legal process (for example, a subpoena, court order, or search warrant),
+    5.  where we believe our sites and services are being used in the commission of a crime, including to report such criminal activity or to exchange information with other companies and organizations for the purposes of fraud protection and risk management, and
+    6.  when we have a good faith belief that there is an emergency that poses a threat to the health and/or safety of you, another person, or the public generally;
+    
+    6.  in the event of a merger, acquisition, debt financing, restructure, sale of Internet Brands' assets by or with another company, or a similar corporate transaction, we may need to disclose and transfer all information about you, including personal information, to the successor company;
+    7.  we may share information about you with Internet Brands' subsidiaries and affiliates and companies acquired by or merged with Internet Brands and its affiliates, including without limitation, to enable such acquired or merged companies to advertise to you products and services in which you may be interested.
+    8.  when you register to use a service co-branded by Internet Brands and other companies with which we partner, we may share the personal information you provide with such companies. in this instance, both our privacy policy and the partner's privacy policy will apply; 
+    
+    We may share personal information about you for any other purpose(s) disclosed to you at the time we collect your information or with your consent. 
+    
+    Non-personal information may be shared with our partners who referred you to our site(s) and who may use the data for their market research and measurement purpose. User information may also be shared with our partners who help us deliver ads to you on websites not controlled by us. for instance, when we put a pixel on a conversion page on our site and a marketing partner uses that pixel to optimize the traffic that they send to us.
+    
+11.  User Generated Content, Online Communities and Forums, Profiles, Surveys, Reviews and Ratings
+    
+    You may choose to publicly disclose personal information about yourself and others in the course of (i) contributing user generated content (for instance articles, blogs, surveys, reviews, ratings, or podcasts), (ii) communicating with others in our online forums, communities, or chat rooms, (iii) creating user profiles for public view, or (iv) posting images, photos, or videos. Be aware, information that you voluntarily disclose in any of these areas of our sites or services is unencrypted, public information and, therefore, there can be no expectation of privacy or confidentiality, except if the terms of use of the site or service specifically limit use of the content (for example, we may let you know how such survey and rating responses will be used and if anonymity is an option). **Any personal information you submit in the course of interacting in these public activities can be read, collected, or used by other users. Prior to posting in these areas, we encourage you to read the specific site's or service's terms of use, as we are not responsible for the personal information you choose to make public in any of these areas and strongly recommend against sharing any personal health or other sensitive information that could directly or indirectly be traced to any individual, including yourself.**
+    
+12.  Loan Requests
+    
+    We are not a lender or a broker. When you submit a loan request form using our services, we may share your loan request and related information with one or more consumer finance lending institutions and/or other lenders and dealers to evaluate your loan request in accordance with their loan terms and requirements. You authorize those consumer finance lending institutions and other lenders or dealers to access your credit report in order to evaluate your credit history and loan request and to verify the information in your loan request.
+    
+    We may also share the information you provide through a loan request using our services to a third-party broker, aggregator, or other referral service that will send your information to other lenders and/or dealers in connection with your loan request and in accordance with their privacy policies.
+    
+    7.1 Lender Specific Information
+    
+    Your loan request and information submitted using our services may be shared with one or more third party consumer finance lending institutions, other lenders, or dealers, including the consumer finance lending institutions listed below, and you consent to be contacted by these third-party consumer finance lending institutions and other lenders or dealers in connection with your loan request, including by autodialer, text messaging, and/or prerecorded messages:
+    
+    CarFinance Capital LLC  
+    7525 Irvine Center Drive  
+    Suite 250  
+    Irvine, CA 92618  
       
-    Consent to Electronic Signatures, Records and Disclosures 
+    Santander  
+    8585 N. Stemmons Freeway  
+    Suite 1100 – North  
+    Dallas, TX 75247  
+    
+    7.2 Consent to Electronic Signatures, Records and Disclosures 
     
     When you submit a request using our services to send your information to a third party lender in connection with obtaining a loan, such lender needs your consent to use and accept electronic signatures, records and disclosures related to your loan transaction and other communications with the lender. Below are your rights when receiving such electronic signatures, records and disclosures. By submitting your loan request, you are acknowledging receipt of this disclosure and consent to conduct transactions with the third party lender using electronic signatures, records and disclosures.
     
-    *   To the extent permitted by law, you may receive all disclosures and notices regarding your loan transaction in electronic form, including, but not limited to, any notices (such as adverse action notices and privacy policy notices) required by the Equal Credit Opportunity Act, Gramm-Leach, Bliley Act, other federal law, and any implementing regulations. Your consent applies to any loan request submitted to a lender or dealer through the Site or Services and to any other dealings or transactions you may have with that lender or dealer.
-    *   Hardware and Software. Before you decide to do business electronically with a third party lender or dealer, you should consider whether you have the required hardware and software described below. By submitting your information, you acknowledge that you have the required hardware and software designated below to access the documents.
-        *   The documents may be provided to you either on the third party’s website, in an email message, or as an attachment to an email message sent to the email address you provide as part of your request through the Site or Services and/or application or registration with the lender or dealer. To access the documents, you will need an email account and may need Adobe Acrobat Reader version 7 or higher, and a personal computer or other access device which is capable of accessing the Internet. To retain the documents, your access device must have the ability to either download the documents to your computer's hard drive or have must have a printer to print the documents. You should send any questions regarding the hardware and software requirements directly to the third party lender or dealer.
-    *   Right to Paper Copies. You have the right to have any documents provided to you in paper form rather than electronic form. You can request the paper copies for your loan transaction or other communications from the third party lender or dealer that you are contacting for a loan. For convenience, if you wish to obtain documents in paper form from CarFinance Capital, LLC you may contact ElectronicRecords@CarFinance.com and from Santander by calling (855) 563-5635.
-    *   Right to Withdraw Consent. Update Contact Information. You may withdraw your consent to use and receive electronic signatures, records and disclosures in connection with your loan transaction or other communications or update your contact information at any time by contacting the third party lender or dealer that you are contacting for a loan. For convenience, you may withdraw consent from, or update your contact information with, CarFinance Capital, LLC by emailing ElectronicRecords@CarFinance.com and Santander by calling (855) 563-5635.
+    1.  To the extent permitted by law, you may receive all disclosures and notices regarding your loan transaction in electronic form, including, but not limited to, any notices (such as adverse action notices and privacy policy notices) required by the Equal Credit Opportunity Act, Gramm-Leach, Bliley Act, other federal law, and any implementing regulations. Your consent applies to any loan request submitted to a lender or dealer through the Site or Services and to any other dealings or transactions you may have with that lender or dealer.
+    2.  Hardware and Software. Before you decide to do business electronically with a third party lender or dealer, you should consider whether you have the required hardware and software described below. By submitting your information, you acknowledge that you have the required hardware and software designated below to access the documents.
     
-      
-    Fair Lending Practices – Regulation B Disclosures
+    1.  The documents may be provided to you either on the third party’s website, in an email message, or as an attachment to an email message sent to the email address you provide as part of your request through the Site or Services and/or application or registration with the lender or dealer. To access the documents, you will need an email account and may need Adobe Acrobat Reader version 7 or higher, and a personal computer or other access device which is capable of accessing the Internet. To retain the documents, your access device must have the ability to either download the documents to your computer's hard drive or have must have a printer to print the documents. You should send any questions regarding the hardware and software requirements directly to the third party lender or dealer.
     
-    *   Under the Equal Credit Opportunity Act (ECOA), financial institutions are prohibited from discriminating in any aspect of a credit transaction. Prohibited bases are: sex, marital status, race, color, religion, national origin, age (provided the applicant is of legal age), income derived from public assistance and the fact that a consumer has — in good faith — exercised any right under the Consumer Protection Act (i.e. the right to lodge a complaint). We recommend you review the privacy policy on the website of the financial institution or other lender with whom you are contracting for a loan and make and retain a copy of their privacy policy. You may also request a copy of the financial institution’s or other lender’s privacy policy by contacting them directly.
-    *   Alimony, child support, or separate maintenance income need not be revealed if you do not choose to have it considered as a basis for repaying an auto loan.
+    4.  Right to Paper Copies. You have the right to have any documents provided to you in paper form rather than electronic form. You can request the paper copies for your loan transaction or other communications from the third party lender or dealer that you are contacting for a loan. For convenience, if you wish to obtain documents in paper form from CarFinance Capital, LLC you may contact ElectronicRecords@CarFinance.com and from Santander by calling (855) 563-5635.
+    5.  Right to Withdraw Consent. Update Contact Information. You may withdraw your consent to use and receive electronic signatures, records and disclosures in connection with your loan transaction or other communications or update your contact information at any time by contacting the third party lender or dealer that you are contacting for a loan. For convenience, you may withdraw consent from, or update your contact information with, CarFinance Capital, LLC by emailing ElectronicRecords@CarFinance.com and Santander by calling (855) 563-5635.
     
-      
-    Opting-Out
-    *   Any opt-out requests related to a third party’s products or services must be submitted to directly to the third party providing the products or services.
-5.  Other Information We Automatically Collect and Cookies
+    7.3 Fair Lending Practices – Regulation B Disclosures
     
-    We, or our third party service providers, may also collect and store certain technical information when you use our sites and services. For example, our servers receive and automatically collect information about your computer and browser, including, for instance, your IP address, browser type, domain name from which you accessed the site or service, device size and other software or hardware information. If you access our sites and services from a mobile or other device, we may collect a unique device identifier assigned to that device (UDID), type of device, general GPS location, or other transactional information for that device in order to serve content to it and to improve your experience in using the sites or services.
+    1.  Under the Equal Credit Opportunity Act (ECOA), financial institutions are prohibited from discriminating in any aspect of a credit transaction. Prohibited bases are: sex, marital status, race, color, religion, national origin, age (provided the applicant is of legal age), income derived from public assistance and the fact that a consumer has — in good faith — exercised any right under the Consumer Protection Act (i.e. the right to lodge a complaint). We recommend you review the privacy policy on the website of the financial institution or other lender with whom you are contracting for a loan and make and retain a copy of their privacy policy. You may also request a copy of the financial institution’s or other lender’s privacy policy by contacting them directly.
+    2.  Alimony, child support, or separate maintenance income need not be revealed if you do not choose to have it considered as a basis for repaying an auto loan.
     
-    In addition, we, or our third party service providers, may collect other non-personal information about you and how you use our sites, including but not limited to, the date and time you visit the sites, the areas or pages of the sites that you visit, the amount of time you spend viewing the sites, the number of times you return to the sites, visits to sites outside our network, preferred language and other click-stream data. We and our third party service providers may use non-personal information for any purpose, including, to make the sites and services more useful for users. Non-personal information may be shared with partners who referred you to our site(s), who may use the data for their business purposes, including to optimize who else they refer to our site(s). Non-personal information may also be shared with partners who help us deliver ads to you on websites not controlled by us, for instance, when we put a pixel on a conversion page on our site and a marketing partner uses that to optimize what traffic they send to us, or using another example, when we create a re-targeting list through DFP Small Business by Google or placing a partners’ pixel on our sites, and then delivering targeted ads across the Internet.
+    7.4 Opting-Out
     
-    Cookies
+    1.  Any opt-out requests related to a third party’s products or services must be submitted to directly to the third party providing the products or services.
+13.   Accessing and Updating Personal Information
     
-    We, or our third party service providers, also may use cookies and other tracking technologies (including browser cookies, pixels, beacons, mobile application identifiers, and Adobe Flash technology) to help us recognize you across different sites and services, improve your experience, increase security, measure use and effectiveness of our services, and serve advertising. You can control cookies through your browser settings and other tools. For more information, please read our Cookie Policy. We also have implemented and use Google Analytics Display Advertising, specifically the Demographics and Interest Reporting feature to advertise online, sell advertising, and develop content. You can opt-out of Google Analytics for Display Advertising and customize Google’s Display Network ads using Google’s Ad Settings. You can opt-out of Google Analytics by using Google Analytics Opt-out Browser Add-on.
+    We encourage you to keep your personal information up-to-date and accurate. The methods for accessing, viewing, correcting, and deleting your personal information will depend on which sites or services you use and their features. You have several choices. for instance:
     
-    You can set your browser to warn you about attempts to place cookies on your computer or limit the type of cookies you allow. Adobe Flash cookies operate differently than browser cookies and cookie management tools available in a web browser may not remove flash cookies. If you disable cookies, you may lose some of the features and functionality of our sites and services. Please note that companies delivering advertisements on our sites may also use cookies or other technologies, and those practices are subject to their own policies. By visiting our sites and services, you consent to the placement of cookies and beacons in your browser and HTML-based emails in accordance with this privacy policy and our Cookie Policy.
+    1.  to view and change the personal information that you directly provided to us, you can return to the web page on our site where you originally submitted the data and follow the instructions on that web page;
+    2.  to correct or update your account information, you can log into the site or service where you are registered and navigate to your account;
+    3.  to close your account, you can log into the site or service where you are registered and navigate to your account;
+    4.  to change your email preferences, you can visit the email preferences page for the relevant site or follow the opt-out or unsubscribe instructions included in each email (for more information about email preferences, please see “Email and Other Communications” below). or
+    5.  to access, change, or remove your protected health information, please see the “HIPAA” section below.
     
-    Do Not Track
+    You can also manage certain aspects of information collection and use, including disabling geo-location, by going to the settings of your mobile device and reviewing the permissions of each application. 
     
-    You can opt out of being targeted by certain third party advertising companies online by visiting the Network Advertising Initiative, Omniture, Aperture, PrivacyChoice, and/or Digital Advertising Alliance.
+    If you have questions about your options, please fill out our Privacy Contact Form. Protecting your privacy and security is important and we also take reasonable steps to verify your identity before granting access to your data.
     
-    We do not currently actively respond to "Do Not Track" browser signals or mechanisms that indicate a request to disable online tracking of individual users who use our sites and services.
+    Please be aware that certain records and information will be retained for specific purposes such as legal, payment, accounting, technical, dispute resolution, enforcement of our sites' and services' terms of use, or customer service. If you have posted comments or user generated content on our site, we may not be able to delete it. Further, we take no responsibility for removing or editing any of your public activities or any submissions or content that is a result of your public activities. We may reject requests that are unreasonably repetitive or impractical, require disproportionate technical effort, or risk the privacy of others. 
     
-    In general, we use these technologies to remember you when you return to our sites, to understand and analyze trends, to monitor usage and administer the sites, to learn about user behavior on the sites and gather demographic information about our user base as a whole, to customize content or offers on our sites and through our services, and to conduct research to improve our sites, content and services.
+14.  Storing Personal Information 
     
-6.  User Generated Content, Online Communities and Forums, Profiles, Surveys, Reviews and Ratings
+    We retain your personal information while your account is active or as needed to provide you services. Additionally, we may retain personal information even after your account has been closed if retention is reasonably necessary to comply with our legal or regulatory obligations, resolve disputes, prevent fraud and abuse, enforce our Terms of Use or any other contract entered into between you and us, or if it is not technically feasible to delete your personal information.
     
-    You may choose to publicly disclose personal information about yourself and others in the course of (i) contributing user generated content (for instance articles, blogs, surveys, reviews, ratings, or podcasts), (ii) communicating with others in our online forums, communities, or chat rooms, (iii) creating user profiles for public view, or (iv) posting images, photos, or videos. Be aware, information that you voluntarily disclose in any of these areas of our sites or services is unencrypted, public information and, therefore, there can be no expectation of privacy or confidentiality, except if the terms and conditions of the site or service specifically limit use of the content (for example, we may let you know how such survey and rating responses will be used and if anonymity is an option). **Any personal information you submit in the course of interacting in these public activities can be read, collected, or used by other users. Prior to posting in these areas, we encourage you to read the specific site's or service's terms of use, as we are not responsible for the personal information you choose to make public in any of these areas and strongly recommend against sharing any personal health or other sensitive information that could directly or indirectly be traced to any individual, including yourself.**
+15.  Email and Other Communications
     
-7.  Accessing and Updating Personal Information
+    Our sites and services may allow us or other users to communicate with you or other users through our in-product instant messaging services, service-branded emails, SMS, and other electronic communication channels.
     
-    We encourage you to keep your personal information updated and accurate. We provide you reasonable access to your personal information and the ability to review, correct, or delete it. For instance, some of our sites and services give you the ability to view and/or edit your personal information online. The methods for accessing your personal information will depend on which sites or services you use and their features. You have several choices. for instance:
+    10.1 Text Messaging
     
-    *   To view and change the personal information that you directly provided to us, you can return to the web page on our site where you originally submitted the data and follow the instructions on that web page.
-    *   You may correct or update your account information at any time by logging on the site onto which you are registered and navigating to your account.
-    *   You may deactivate your profile at any time by visiting the preferences page for your profile.
-    *   You may close your account at any time by logging onto the site on which you are registered and navigating to your account.
-    *   You can manage certain aspects of information collection and use by going to the settings of your mobile device and reviewing the permissions of each application. You may stop further use of your geo-location by visiting your device's settings for the relevant application.
-    *   You may change your email preferences at any time by visiting your email preferences page for the relevant site.
-    *   To access, change, or remove your protected health information, please see the HIPAA section below.
-    *   If you have additional questions about your options, contact us.
+    We may make available text messaging services in which you can receive messages from us and send messages to us on your mobile phone, which will be governed by our Text Messaging Services Policy.
     
-      
+    10.2 Opting Out of Requested Communications
     
-    Protecting your privacy and security is important and we also take reasonable steps to verify your identity before granting access to your data.
+    Requested communications include, for instance, email newsletters and software updates that may be expressly requested by you or which you consented to receive. After you request such communications, you may "opt-out" of receiving them by using one of the following methods:
     
-    Please be aware that certain records and information will be retained for specific purposes such as legal, payment, accounting, technical, dispute resolution, enforcement of our sites' and services' terms of use, or customer service. If you have posted comments or user generated content on our site, we may not be able to delete it. Further, we take no responsibility for removing or editing any of your public activities or any submissions or content that is a result of your public activities, except as provided in this privacy policy or the sites' or services' terms of use.
+    1.  selecting the email "opt-out" or "unsubscribe" link, or following the opt-out instructions included in each email communication;
+    2.  returning to the web page(s) where you originally registered your preferences and following the opt-out instructions. or
+    3.  filling out our Privacy Contact Form. 
     
-    We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes).
+    10.3 Opting Out of Transactional or Relationship Communications
     
-    We will retain your personal information for the period necessary to fulfill the purposes outlined in this privacy policy, unless a longer retention period is required or permitted by applicable law.
+    Communications that are sent by or on behalf of a user are indicated as being from that user. Communications that are sent by us are indicated as being from us or one of our account or support specialists. Either type of communication may be "real time" communications or communications triggered automatically upon the occurrence of certain events or dates, such as appointment reminders. Email communications received from users and our administrative announcements are often transactional or relationship messages, such as appointment requests, reminders, and cancellations. You may not be able to opt-out of receiving certain email messages, although our services may provide a means to modify the frequency of receiving them.
     
-8.  Email and Other Communications
+    10.4 Opting Out of General or Promotional Communications
     
-    Our sites and services may allow us or other users to communicate with you or other users through our in-product instant messaging services, service-branded emails, SMS and other electronic communication channels.
+    General communications provide information about products, services, and/or support and may include special offers, new product information, or invitations to participate in market research. You may opt-out of receiving these general communications by using one of the following methods:
     
-    Text Messaging
+    1.  selecting the email "opt-out" or "unsubscribe" link, or following the opt-out instructions included in each email communication. or
+    2.  filling out our Privacy Contact Form. 
+16.  Protecting Personal and Protected Health Information
     
-    We may make available text messaging services in which you can receive messages from us and send messages to us on your mobile phone, which will be governed by our Text Messaging Services Policy.
-    
-    Opting Out of Requested Communications
-    
-    Requested communications include, for instance, email newsletters or software updates that may be expressly requested by you or which you consented to receive. After you request such communications, you may "opt out" of receiving them by using one of the following methods:
-    
-    *   Select the email "opt out" or "unsubscribe" link, or follow the opt-out instructions included in each email communication.
-    *   Return to the web page(s) where you originally registered your preferences and follow the opt-out instructions.
-    *   Contact us. Please provide your name, contact information, and specific relevant information that you no longer wish to receive.
-    
-      
-    Opting Out of Transactional or Relationship Communications
-    
-    Communications that are sent by or on behalf of a user are indicated as being "From" that user. Communications that are sent by us are indicated as being from us or one of our account or support specialists assigned to assist you. Either type of communication may be "real time" communications or communications triggered automatically upon the occurrence of certain events or dates, such as appointment reminders. Email communications received from users and our administrative announcements are often transactional or relationship messages, such as appointment requests, reminders and cancellations. You may not be able to opt-out of receiving certain email messages although our services may provide a means to modify the frequency of receiving them.
-    
-      
-    Opting Out of General or Promotional Communications
-    
-    General communications provide information about products, services, and/or support and may include special offers, new product information, or invitations to participate in market research. You may opt out of receiving these general communications by using one of the following methods:
-    
-    *   Select the email "opt out" or "unsubscribe" link, or follow the opt-out instructions included in each email communication.
-    *   Contact us. Please provide your name, relevant contact information, and specific relevant information about your privacy preferences.
-9.  Protecting Personal and Protected Health Information
-    
-    The security of our sites and services and the information they store, process and transmit is a top priority. To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of the information we collect, we deploy a wide range of technical, physical and administrative safeguards, including: Transport Layer Security (TLS), firewalls, system alerts and other information system security technologies. housing health data in secure facilities that restrict physical and network access. and regular evaluation and enhancement of our information technology systems, facilities, and information collection, storage and processing practices. We seek to use reasonable and appropriate administrative, physical, technical, and data security procedures and controls to safeguard your personal and protected health information against unauthorized access, disclosure, loss, misuse, and alteration. Under applicable law, we are required to apply reasonable and appropriate measures to safeguard the confidentiality, integrity and availability of individually identifiable health information (as such term is defined by HIPAA) residing on and processed by our sites and services.
+    To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of the information we collect, we deploy a wide range of technical, physical, and administrative safeguards, including: Transport Layer Security (TLS), firewalls, system alerts, and other information system security technologies. housing health data in secure facilities that restrict physical and network access. and regular evaluation and enhancement of our information technology systems, facilities, and information collection, storage, and processing practices. We use reasonable and appropriate administrative, physical, technical, and data security procedures and controls to safeguard your personal and protected health information against unauthorized access, disclosure, loss, misuse, and alteration. Under applicable law, we are required to apply reasonable and appropriate measures to safeguard the confidentiality, integrity and availability of Protected Health Information (“PHI”), as such term is defined by the Health Insurance Portability and Accountability Act, the Health Information Technology for Economic and Clinical Health Act (collectively referred to herein as HIPAA), residing on and processed by our sites and services.
     
     We use third-party service providers to manage credit card and payment processing. These service providers are not permitted to store, retain, or use billing Information except for the sole purpose of credit card and payment processing on our behalf. When you enter payment information to be processed by our third party service providers, we encrypt the transmission of that information using transport layer security (TLS) technology and do not store it on our systems.
     
-    It is important to remember, however, that no system can guarantee 100% security at all times. Accordingly, we cannot guarantee the security of information stored on or transmitted to or from our services. We cannot assume responsibility or liability for unauthorized access to our servers and systems. When disclosing any personal or protected health information, you should remain mindful of the fact that it is potentially accessible to the public and, consequently, can be collected and used by others without your consent. Accordingly, you should consider carefully if you want to submit sensitive information that you would not want disclosed to the public and should recognize that your use of the Internet and our sites and services is solely at your risk. You are ultimately responsible for maintaining the secrecy for all your personal information, including your protected health information. Except as provided in a Business Associate Agreement between us and a healthcare provider, we have no responsibility or liability to anyone for the security of your personal or protected health information transmitted via the Internet.
+    It is important to remember, however, that no system can guarantee 100% security at all times. Accordingly, we cannot guarantee the security of information stored on or transmitted to or from our services. We cannot assume responsibility or liability for unauthorized access to our servers and systems. When disclosing any personal or protected health information, you should remain mindful of the fact that it is potentially accessible to the public and, consequently, can be collected and used by others without your consent. Accordingly, you should carefully consider if you want to submit sensitive information that you would not want disclosed to the public and should recognize that your use of the Internet and our sites and services is solely at your risk. You are ultimately responsible for maintaining the secrecy for all your personal information, including your protected health information. Except as provided in a Business Associate Agreement between us and a healthcare provider, we have no responsibility or liability to anyone for the security of your personal or protected health information transmitted via the Internet.
     
-    Steps You Can Take
-    *   Install malware detection programs that regularly scan your system and incoming traffic for malicious code such as computer viruses, worms, Trojan Horses and spyware. Because viruses and malware are continuously created and modified, regular malware protection software typically requires frequent updates.
-    *   Use a firewall to prevent unauthorized access to your device.
-    *   Because malware often targets vulnerabilities in existing operating systems, browsers, plug-ins and other programs, software vendors frequently update their products with security patches to guard against known or commonly exploited vulnerabilities. Vendors often try to alert their users and recommend immediate installation of these security patches.
-    *   Use a strong password using a combination of letters and numbers that are not easily guessed. Do not share your password with others.
-    *   If you use a shared device, always close all active programs and log out before leaving it unattended.
-    *   Avoid using a public wireless network, if possible. If you do use a public network, use the most restrictive wireless network settings on your device.
-    *   If you use file-sharing programs, be sure to restrict all other folders or directories to "no share".
-    *   Be very cautious with any email requesting you to share personal information. On websites, look for the lock symbol on or near your browser's address bar which signifies a secure website before supplying personal information.
-    *   When participating in one of our communities, blogs, forums, surveys or other open communication platforms, exercise care in selecting what information you share, particularly personal or health information.
-10.  Linked Websites and Services
+17.   Linked Websites and Services
     
-    Our sites and services may link to other sites or services operated by our affiliates or third parties, and may carry advertisements or offer content, functionality, newsletters, contests or sweepstakes, or applications developed and maintained by third parties. We do not exercise control over third party sites or services. We are not responsible for the privacy practices of any such third parties. Once you leave our sites or services via a link, enable a third-party service, or click an advertisement, you should check the applicable privacy policy of the third-party's site or service. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices.
+    Our sites and services may link to other sites or services operated by our affiliates or third parties, and may carry advertisements or offer content, functionality, newsletters, contests or sweepstakes, or applications developed and maintained by third parties. We do not exercise control over third party sites or services. We are not responsible for the privacy practices of any such third parties. Once you leave our sites or services via a link, enable a third-party service, or click an advertisement, you should check the applicable privacy policy of the third-party's site or service. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization, or representation of our affiliation with that third party nor is it an endorsement of their privacy or information security policies or practices.
     
     We may also provide social media features on our sites and services that enable you to share personal information with your social network(s) and to interact with our sites and services. Depending on the features, your use of these features may result in the collection or sharing of personal information about you. We encourage you to review the privacy policies and settings on the social media site(s) with which you interact.
     
-11.  HIPAA
+18.   HIPAA
     
-    Our sites and services may include collection, transmission and storage of protected health information you submit for healthcare providers or that healthcare providers submit to us and is subject to special rules under the Health Insurance Portability and Accountability Act of 1996 or "HIPAA". Our use and disclosure of your protected health information or a healthcare providers data that you or the healthcare provider submits with certain sites and services, is governed by HIPAA.
+    Our sites and services may collect, disclose, use, and store PHI that you submit to your healthcare provider or that your healthcare provider submits to us. Our collection, disclosure, use, and storage of PHI, is governed by HIPAA.
     
-    Use and Disclosure of Your Protected Health Information
+    13.1 Use and Disclosure of Your Protected Health Information
     
-    When you use certain services (for example, appointment request) all protected health information that you submit is used and disclosed by us as a Business Associate (as defined by HIPAA) according to the terms of a Business Associate Agreement between us and that healthcare provider. This means that we may only use and disclose your protected health information on behalf of, or to provide services to, the healthcare provider according to the Business Associate Agreement. There are three exceptions to this use and disclosure rule. We may use and disclose your protected health information (i) for our internal management and administration. (ii) to carry out our legal responsibilities. and (iii) to perform certain data aggregation services for the healthcare provider and other healthcare providers. provided that, any disclosures for our internal management and administration or to carry out our legal responsibilities are either required by law or made after we obtain reasonable assurances from the person to whom the protected health information is disclosed that it will be held confidentially and used or further disclosed only as required by law or for the purpose for which it was disclosed to that person.
+    When you use certain services (for example, appointment request) the PHI that you submit is used and disclosed by us as a Business Associate, as defined by HIPAA, according to the terms of the Business Associate Agreement between us and your healthcare provider. Accordingly, we may only use and disclose your PHI on behalf of, or to provide services to, your healthcare provider according to the terms of the Business Associate Agreement. There are exceptions to this use and disclosure restriction. Under such exceptions, we may use and disclose your PHI (i) for our internal management and administration. (ii) to carry out our legal obligations. and (iii) to perform data aggregation services for your healthcare provider and other healthcare providers. provided that, any disclosures for our internal management and administration or to carry out our legal obligations are either required by law or made after we obtain reasonable assurances from the party to whom the PHI is disclosed that such PHI will be held confidentially and used or further disclosed only as required by law or for the purpose for which it was disclosed to such party.  
     
-    Some of the services for a particular healthcare provider may be provided by our subcontractors. The subcontractor must comply with the same terms and conditions for the protected health information that apply to us as a Business Associate of the healthcare provider.
+    We may subcontract some of our services. In doing so, we require our subcontractors to comply with the same terms and conditions for PHI that apply to us as a Business Associate.
     
-    As a Business Associate of a particular healthcare provider, we may be permitted to de-identify your protected health information created or received by us for that healthcare provider. This de-identified information must be created according to criteria prescribed by HIPAA so that there is no reasonable basis to believe that this information can be traced back to you. We may use and disclose any such de-identified information in the same manner as personal information under this privacy policy.
+    As a Business Associate, we may be permitted to de-identify your PHI. We de-identify PHI in accordance with the criteria prescribed by HIPAA. We may use and disclose any such de-identified information in the same manner as personal information under this privacy policy.
     
-    The descriptions in this privacy policy of the HIPAA responsibilities and obligations of Internet Brands and any subcontractor do not provide any right to you under this privacy policy, HIPAA, or any other law.
+    This section does not provide you with any right under this privacy policy, HIPAA, or any other law or regulation.
     
-    How to Access, Change, or Remove Your Protected Health Information
+    13.2 How to Access, Change, or Remove Your PHI 
     
-    To comply with HIPAA, your healthcare provider must provide you with rights in certain circumstances with respect to your protected health information. Very generally described, these rights are a right to restrict the uses and disclosures of, a right of access to, a right to amend, and a right to receive an accounting of, the disclosures of your protected health information. These limited rights will be described in detail in the healthcare provider's notice of privacy practices. If you wish to restrict the uses and disclosures of your protected health information, amend, or receive an accounting of the disclosures of your protected health information, then you must do so through your healthcare provider.
+    Subject to certain exceptions, HIPAA establishes rights with respect to your PHI. These rights generally include the right to restrict the uses and disclosures of your PHI, the right to access and receive a copy of your PHI, the right to amend your PHI, and the right to receive an accounting of the disclosures of your PHI. If you wish to exercise any of these rights, please contact your healthcare provider.
     
-    Please note that you are not entitled to review the content of another user's account. Accordingly, if you have used our sites and services to share personal information with another user or other party, you will not be able to access, update or delete that shared information pursuant to this privacy policy. Please also note that other users may submit personal information that identifies you. You will also not be able to access, update or delete that information pursuant to this privacy policy. In either case, certain users, such as healthcare providers, may be required under HIPAA and other applicable laws or regulations to retain such information for extended periods of time.
+    Please note that you are not entitled to review the content of another user's account. Accordingly, if you have used our sites and services to share personal information with another user or third-party, you may not be entitled to access, update, or delete the information that you shared. Further, please note that other users may submit information that identifies you, and you may not be entitled to access, update, or delete that information. In either case, certain users, such as healthcare providers, may be required by HIPAA and other applicable laws or regulations to retain such information for extended periods of time.
     
-    Upon termination of our Business Associate Agreement with a particular healthcare provider, we generally must return or destroy all protected health information received on behalf of or created for that particular healthcare provider and then maintained in any form by us or a subcontractor. If you engaged in our sites and services with that healthcare provider, any protected health information that you submitted with our sites and services or otherwise maintained by us or a subcontractor in connection with our sites and services will be returned to the healthcare provider or destroyed by us or such subcontractor. This means that until the Business Associate Agreement is terminated with that healthcare provider, we or a subcontractor can use and disclose your protected health information as described in the "Use and Disclosure of Your Protected Health Information" section above.
+    Most of our Business Associate Agreements require us and our subcontractors to either return or destroy PHI received or created pursuant to the business associate relationship upon the termination of the Business Associate Agreement. Accordingly, if the Business Associate Agreement between us and your healthcare provider has been terminated, then any PHI that you submitted to our sites and services, or otherwise maintained by us or a subcontractor in connection with our sites and services, will be returned to the healthcare provider or destroyed by us or such subcontractor. 
     
-12.  Children's and Minor's Privacy
+19.   Children's and Minor's Privacy
     
-    Our sites and services are intended for general audiences and are not targeted to children under 13. We do notknowingly collect personal information from children under the age of 13 or utilize plug-ins or ad networks that collectpersonal information through child-directed third party websites or online services. If you are under 13, please do notdisclose or provide any information. If we learn that we have collected personal information from a child under 13,we will take steps to promptly delete the information. Should this policy change, we would comply with the Children's Online Privacy Protection Act, which requires us to notify and obtain consent from a parent or guardian before wecollect, use and disclose the personal information of children who are under 13 years of age.
+    Children under the age of 13 are not permitted to use our sites and services. We do not knowingly collect personal information from children under the age of 13 or utilize plug-ins or ad networks that collect personal information through child-directed third-party websites or online services. If we learn that we have collected personal information from a child under 13, we will take steps to promptly delete such information. 
     
-    Unless our sites and services contain the "Privacy Rights for California Minors in the Digital World" supplemental terms, our sites and services do not collect age from users under 18. If you reside in California and are a minor (youare under 18 years of age) and you are using a site or service that collects your age as a registration requirement andyou submit content, please follow the instructions on the supplemental terms to request removal of public content. If such supplemental terms are not available, you can request the removal of content or information you have posted by emailing legal@internetbrands.com with “California Minor Content Removal Request” in the subject line and in the body of your message. Please specify in your request the site(s) or service(s) to which your request relates, including any URLs where the content or information is posted, and the specific content or information you posted for which you are requesting removal. Please note that this removal does not ensure complete or comprehensive removal of the content or informationposted on our sites and services if the content you posted has been shared or reposted. We are only obligated toremove content that you post, where you posted it. There are certain circumstances in which we do not have to remove your content, including if any other state or federal law requires us to maintain the information, we anonymize the content by removing identifying characteristics, the content was stored, republished or reposted by a third party, you do not follow the instructions in this Section or we paid you or you were otherwise compensated for the content you posted. Without limiting the generality of the foregoing, our services may allow users above the age of 18 (such as healthcare providers, parents and guardians) to submit personal information about others, including minors. Such users assume full responsibility over their submission, use and transmission of such information.
+    Our sites and services generally require users to be at least 18 years of age. Unless our sites and services contain the "Privacy Rights for California Minors in the Digital World" supplemental terms, our sites and services do not collect age from users under 18. Without limiting the generality of the foregoing, our services may allow users above the age of 18 (such as healthcare providers, parents, and guardians) to submit personal information of minors. Such users assume full responsibility over their submission, use, and transmission of such information.
     
-13.  International Users
+20.  International Users
     
-    We are headquartered in the United States. Our sites and services are hosted and administrated in the United States or hosted with cloud service providers who are headquartered in the United States and are intended for users in the United States. If you are located outside the United States, be aware that information you provide to us or that we obtain as a result of your use of our sites and services may be processed in, transferred to and stored in the United States and will be subject to U.S. law. U.S. privacy and data protection laws may not be equivalent to the laws of your country of residence. By using our sites and services or providing us with your information, you consent to the collection, transfer, storage, and processing of information to and in the United States.
+    We are headquartered in the United States. Our sites and services are hosted and administrated in the United States or hosted with cloud service providers who are headquartered in the United States and are intended for users in the United States. If you are located outside the United States, be aware that information you provide to us or that we obtain as a result of your use of our sites and services may be processed in, transferred to, and stored in the United States and will be subject to United States law. The privacy and data protection laws of the United States may be different from the laws of your country of residence. 
     
-14.  California Privacy Rights
+    By using our sites and services or providing us with your information, you consent to the transfer of your information to the United States for processing and storage.
     
-    We do not share personal information with third parties for their direct marketing purposes unless you affirmatively agree to such disclosure, typically by "opting in" to receive information from a third party that is participating in a sweepstakes or other promotion on one of our sites, for example. If you ask us to share your personal information with a third party for its marketing purposes, we will only share information in connection with that specific promotion since we do not share information with any third party (other than our service providers) on an ongoing basis. To prevent disclosure of your personal information for use in direct marketing by a third party, do not "opt in" to such use when you provide personal information on one of our sites.
+21.   California Privacy Rights
     
-    Users residing in certain jurisdictions, like California, have a right to access personal information held by us about them and their right of access can be exercised in accordance with applicable law. California law requires certain businesses to respond to requests from California residents asking about the business's practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the resident has exercised an option to opt-out of such information-sharing. We have such a policy in place.
+    FOR RESIDENTS OF CALIFORNIA ONLY. Section 1798.83 of the California Civil Code requires select businesses to disclose policies relating to the sharing of certain categories of your personal information with third parties. If you reside in California and you have provided us with your personal information, you may request information about our disclosures of certain categories of your personal information to third parties for direct marketing purposes. To make such a request, please fill out our Privacy Contact Form with “California Privacy Rights” in the subject line and allow 30 days for a response. We will not accept requests via the telephone, mail, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
     
-    California residents may request further information about our approach to this law by writing to us. When writing to us, you must put the statement "Your California Privacy Rights" in the body or subject line of your request, and include (i) the name of the site about which you are contacting us, (ii) any unique site identifier associated with you (like member number or forum handle), (iii) your name, and (iv) your contact information. Please submit requests using our Privacy Contact form and allow 30 days for a response. We will not accept requests via the telephone, mail, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
+    FOR RESIDENTS OF CALIFORNIA UNDER THE AGE OF 18. In accordance with Section 22581 of the California Business and Professions Code, you may request and obtain the removal of content or information you have publicly posted. To make such a request, please fill out our Privacy Contact Form with “California Privacy Rights” in the subject line. Please specify the site(s) or service(s) to which your removal request relates, including any URLs where the content or information is posted, and the specific content or information you posted for which you are requesting removal. Please be aware that such a request does not ensure complete or comprehensive removal of the content or information you have posted and that there may be circumstances in which the law does not require or allow removal even if requested.
     
-15.  Contacting Us
+22.  EU Privacy Rights
     
-    If you have any questions or concerns about this privacy policy or our practices you can contact us or write to us at Internet Brands, Inc., Privacy Office, 909 N. Sepulveda Blvd., 11th Floor, El Segundo, California 90245 U.S.A. Please be sure to identify the specific website, software, or service about which you have a question or concern and how we can contact you.
+    FOR RESIDENTS OF THE EUROPEAN UNION ONLY. Under European data protection law, in certain circumstances, you have the right to:
     
-16.  Changes to This Privacy Policy
+    1.  request access to your personal information;
+    2.  request correction of your personal information;
+    3.  request erasure of your personal information;
+    4.  object to processing of your personal information;
+    5.  request restriction of processing your personal information;
+    6.  request transfer of your personal information. and
+    7.  withdraw your consent.
+    
+    In addition, you have the right to ask us not to process your personal information for marketing purposes. We will usually inform you (before collecting your personal information) if we intend to use your personal information for such purposes or if we intend to disclose your information to any third party for such purposes. 
+    
+    You can exercise any of these rights by filling out our Privacy Contact Form or sending an email to privacy@internetbrands.com with “EU Privacy Rights” in the subject line. If you believe that we have not complied with its obligations under this Privacy Policy or European law, you have the right to make a complaint to an EU Data Protection Authority.
+    
+23.   Contacting Us
+    
+    If you have any questions or concerns about this privacy policy or our practices you can contact us or write to us at Internet Brands, Inc., Privacy Office, 909 N. Sepulveda Blvd., 11th Floor, El Segundo, California 90245 U.S.A. Please be sure to identify the specific website, software, or service about which you have a question or concern and how we can contact you.
+    
+24.   Changes to This Privacy Policy
     
     We may revise this privacy policy from time to time and, if we do, we will update it on this page and modify the "Last Updated" date. If our information practices change in a significant way, you will be provided notice by means of notice on our sites or otherwise in writing. Because our privacy policy can change at any time, we encourage you to reread it periodically to see if there have been any changes that affect you. If you disagree with any changes to this privacy policy and do not wish your information to be subject to the revised privacy policy, you will need to deactivate your account or terminate your services. Your use of our sites and services following any such change constitutes your agreement that all information collected from or about you through our sites and services after the revised privacy policy is posted will be subject to the terms of the revised privacy policy.
     
-    Last Updated: January 24, 2018
+
+Last Updated: May 18, 2018
