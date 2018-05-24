@@ -177,18 +177,10 @@ If you reside outside of the Designated Countries  (for services other than tho
 San Francisco, CA 94110 If you reside in the Designated Countries (for services other than those offered at WooCommerce.com): **Aut O’Mattic A8C Ireland Ltd.**  
 Business Centre, No.1 Lower Mayor Street  
 International Financial Services Centre  
-Dublin 1, Ireland
-
-**Automattic Inc.** is also the controller for some of the processing activities related to Services provided by Aut O’Mattic A8C Ireland Ltd.
-
-If you are using our Services offered at WooCommerce.com: **Bubblestorm Management (Pty) Ltd (WooCommerce.com)**  
+Dublin 1, Ireland**Automattic Inc.** is also the controller for some of the processing activities related to Services provided by Aut O’Mattic A8C Ireland Ltd. If you are using our Services offered at WooCommerce.com: **Bubblestorm Management (Pty) Ltd (WooCommerce.com)**  
 Unit A206, The Old Biscuit Mill (TOBM)  
 373 – 375 Albert Road, Woodstock  
-Cape Town, South Africa
-
-**Automattic Inc.** is also the controller for some of the processing activities related to Services provided by Bubblestorm Management (Pty) Ltd (WooCommerce.com).
-
-How to Reach Us
+Cape Town, South Africa**Automattic Inc.** is also the controller for some of the processing activities related to Services provided by Bubblestorm Management (Pty) Ltd (WooCommerce.com). How to Reach Us
 
 If you have a question about this Privacy Policy, or you would like to contact us about any of the rights mentioned in the Your Rights section above, please contact us.
 
@@ -289,7 +281,7 @@ We also collect some information automatically:
 *   **Usage Information:** We collect information about your usage of our Services. For example, we collect information about the actions that site administrators and users perform on a site–in other words, who did what, when and to what thing on a site (e.g., \[WordPress.com username\] deleted “\[title of post\]” at \[time/date\]). We also collect information about what happens when you use our Services (e.g., page views, support document searches at en.support.wordpress.com, button clicks) along with information about your device (e.g., mobile screen size, name of cellular network, and mobile device manufacturer). We use this information to, for example, provide our Services to you, as well as get insights on how people use our Services, so we can make our Services better.
 *   **Location Information:** We may determine the approximate location of your device from your IP address. We collect and use this information to, for example, calculate how many people visit our Services from certain geographic regions. We may also collect information about your precise location via our mobile apps (when, for example, you post a photograph with location information) if you allow us to do so through your mobile device operating system’s permissions.
 *   **Stored Information:** We may access information stored on your mobile device via our mobile app. We access this stored information through your device operating system’s permissions. For example, if you give us permission to access the photographs on your mobile device’s camera roll, our Services may access the photos stored on your device when you upload a really amazing photograph of the sunrise to your website.
-*   **Information from Cookies &. Other Technologies:** A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Pixel tags (also called web beacons) are small blocks of code placed on websites and e-mails. Automattic uses cookies and other technologies like pixel tags to help us identify and track visitors, usage, and access preferences for our Services, as well as track and understand e-mail campaign effectiveness and to deliver targeted ads. For more information about our use of cookies and other technologies for tracking, including how you can control the use of cookies, please see here for information on WordPress.com and here for information on Jetpack.
+*   **Information from Cookies &. Other Technologies:** A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Pixel tags (also called web beacons) are small blocks of code placed on websites and emails. Automattic uses cookies and other technologies like pixel tags to help us identify and track visitors, usage, and access preferences for our Services, as well as track and understand email campaign effectiveness and to deliver targeted ads. For more information about our use of cookies and other technologies for tracking, including how you can control the use of cookies, please see here for information on WordPress.com and here for information on Jetpack.
 
 _Information We Collect from Other Sources_
 
