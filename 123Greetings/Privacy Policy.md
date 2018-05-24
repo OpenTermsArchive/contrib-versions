@@ -27,6 +27,7 @@
     *   Copyright Policy
     *   Terms of Use
     *   Privacy Policy
+    *   Cookie Policy
     *   Contact Us
 *   Careers
 *   Investor Relations
@@ -72,8 +73,7 @@ We may receive information about you from third parties. For example, if you are
 We also may supplement the information we collect with outside records from third parties in order to provide you with information, services or goods you have requested, to enhance our ability to serve you, and to tailor our content to you. We may combine the information we receive from those other sources with information we collect through the Platforms. In those cases, we will apply this Privacy Notice to the combined information.
 
 **Cookies**  
-123Greetings may use cookies, web beacons or similar technologies to enhance and personalize your experience of the Website, including to operate and improve offerings through the Website. to help authenticate your identity when you visit and transact with the Website. to remember your preferences and registration information. to present and help measure and research the effectiveness of the various offerings, advertisements, and e-mail communications (by determining which e-mails you open and act upon). and to customize the content and advertisements provided to you.
-
+123Greetings may use cookies, web beacons or similar technologies to enhance and personalize your experience of the Website, including to operate and improve offerings through the Website. to help authenticate your identity when you visit and transact with the Website. to remember your preferences and registration information. to present and help measure and research the effectiveness of the various offerings, advertisements, and e-mail communications (by determining which e-mails you open and act upon). and to customize the content and advertisements provided to you.  
 **Read our Cookie Policy:**
 
 **Website analytics.**  
@@ -151,13 +151,11 @@ Note: Because mailings often are prepared well in advance you may, for a period 
 123Greetings has implemented security policies, rules and technical measures to protect and safeguard the personally identifiable information under our control from unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss. All our personnel that have access to, and are associated with the processing of your personally identifiable information, are obligated to respect the confidentiality of the information.  
 123Greetings's Privacy Policy is to share personal information only with the owner's informed consent. With your consent, from time-to-time, 123Greetings may provide its business partners with contact details for direct marketing purposes of relevant services, products, and programs. If you no longer wish your information to be shared, please let us know. If you have further inquires regarding 123Greetings's information sharing practices, please let us know. The designated contact for these queries is Privacy Agent, privacy@123greetings-inc.com.
 
-**Questions and Comments**
-
+**Questions and Comments**  
 If you have any questions, comments or suggestions regarding our website's privacy policy, or regarding any other aspects of our website, please write to us.  
   
 You can also post your views to our office at:  
-  
-**123Greetings.com, Inc.**  
+123Greetings.com, Inc.  
 255 Executive Drive, Suite 400,  
 Plainview, New York NY-11803;
 
@@ -165,6 +163,7 @@ Plainview, New York NY-11803;
 Protecting the privacy of young children is especially important. For that reason, 123Greetings does not knowingly collect or maintain personally identifiable information on the Website from persons under 13 years of age, and no part of our Website is directed to persons under 13. If you are under 13 years of age, then please do not use or access the Website at any time or in any manner. If 123Greetings learns that personally identifiable information of persons under 13 years of age has been collected on the Website without verified parental consent, then 123Greetings will take the appropriate steps to delete this information.
 
 **Modification and Deletion of Personally Identifiable Information**  
+  
 **Deletion (Opt-Out):** In order to delete the personally identifiable information you submitted, notify us at support@123greetings.com that you wish to delete your personally identifiable information or any part thereof contained at our databases.  
   
 If you make a request to delete your personal data and that data is necessary for the products or services you have purchased, the request will be honored only to the extent it is no longer necessary for any Services purchased or required for our legitimate business purposes or legal or contractual record keeping requirements.  
