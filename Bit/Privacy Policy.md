@@ -64,6 +64,11 @@ Bitly and its partners use cookies or similar technologies to analyze trends, ad
 *   Bitly cookies also allow Bitly to track when you have clicked on a Bitly Link. Each click of a Bitly Link is tracked using a unique identifier assigned to you in one or more cookies stored by your web browser and associated with Bitly. We may associate the unique identifier in our cookies with the other information we automatically collect when you use the Services, as described above, including your IP address, Bitly Links you click, Bitly Links you create, and information with your Account if you have one.
 *   Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. If you disable cookies, you will not be able to use some features of the Services. Bitly cookies are set to automatically expire after 6 months from when they are set.
 *   You may also ask Bitly not to place cookies on your web browser. When cookies are disabled in this manner, clicks on Bitly Links are not tied back to or associated with your web browser. However, we will still automatically collect the IP addresses of computers or mobile devices that click on or create Bitly Links.
+    
+    Cookies on Bitly Links:
+    
+    Cookies on Bitly.com:
+    
 *   You can also manage other companies’ cookies used for online advertising here: Consumer Choice Page
 *   We partner with third parties to track utilization and behavior on our websites, display advertising on our websites, and to manage our advertising on other sites. Our third party partners may use cookies, web beacons, pixel tags or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising click here or if located in the European Union click here.
 *   This Privacy Policy covers the use of cookies by Bitly only and does not cover the use of cookies by any Third Party Services. Bitly does not control when or how third parties place cookies on your computer, such as when you visit the website from a Bitly Link.
