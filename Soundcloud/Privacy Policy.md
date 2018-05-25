@@ -1,292 +1,305 @@
-_SoundCloud is updating its Privacy Policy on May 25, 2018. See the updated policy at https://soundcloud.com/pages/privacy/05-2018._
-
 SoundCloud Privacy Policy
 
-Welcome to SoundCloud®, a service provided by SoundCloud Limited (“**SoundCloud**”, “**we**” “**our**”, “**us**”).
+Welcome to SoundCloud, a service provided by SoundCloud Limited and its subsidiaries, including SoundCloud, Inc. (“**SoundCloud**”, “**we**”, “**our**”, “**us**”).
 
-Your privacy is important to us. This Privacy Policy explains how we collect, store, use and disclose your information when you use soundcloud.com and m.soundcloud.com (together, the “**Website**”), our mobile and desktop apps (the "**Apps**") and all related sites, players, widgets, tools, apps, data, software, APIs and other services provided by SoundCloud (the “**Services**”).
+Your privacy is important to us. This Privacy Policy explains how we collect, store, use, disclose and otherwise process your information when you use soundcloud.com and m.soundcloud.com (together, the “**Website**”), our mobile and desktop apps (the “**Apps**”) and all related sites, players, widgets, tools, apps, data, software, APIs and other services provided by SoundCloud (the “**Services**”).
 
 This Privacy Policy explains the following, amongst other things:
 
-*   Our principles with respect to your information and your privacy
-*   The information we collect about you
-*   How we use your information
-*   How we share your information
-*   How we use cookies and similar technology
-*   Your choices with respect to your information
-*   How to contact us regarding privacy issues
+*   Our Privacy Principles
+*   The Information We Collect
+*   How We Use Your information
+*   How We Share Your Information
+*   Cookies and Similar Technology
+*   Your Choices and Controls
+*   Contact Information
 
-By using the Website, the Apps or any of the Services, and in particular by registering a SoundCloud® account, you are consenting to the use of your information in the manner set out in this Privacy Policy.
+Information relating to our use of cookies and similar technologies is set out in our Cookie Policy, which forms part of the Privacy Policy. When we refer to the Privacy Policy, we are referring to the Privacy Policy and Cookie Policy.
 
-For your convenience, information relating to our use of cookies and similar technologies is set out in a separate Cookies Policy. The Cookies Policy forms part of the Privacy Policy, and whenever we refer to the Privacy Policy, we are referring to the Privacy Policy incorporating the Cookies Policy.
-
-Please take some time to read this Privacy Policy (including the Cookies Policy), and make sure you are happy with our use and disclosure of your information.
-
-**If you do not agree to any of the provisions of this Privacy Policy, you should not use the Website, the Apps or any of the Services**. If you have any questions or concerns, you can contact us via our Help Center.
+Please take some time to read this Privacy Policy, including the Cookie Policy, along with our Terms of Use, in order to ensure you understand and are comfortable with our use and disclosure of your personal information. If you see an undefined term in this Privacy Policy, it has the same meaning given to it in our Terms of Use.
 
 Please note that this Privacy Policy only applies to the Website, the Apps and the Services (together, the “**Platform**”). When using the Platform, you may find links to other websites, apps and services, or tools that enable you to share information with other websites, apps and services. SoundCloud is not responsible for the privacy practices of these other websites, apps and services and we recommend that you review the privacy policies of each of these websites, apps or services before connecting your SoundCloud® account or sharing any personal data.
 
-Our principles
+**If you do not agree to any of the provisions of this Privacy Policy, you should not use the Platform**. If you have any questions or concerns about this Privacy Policy, you can contact us through the Help Center or at dataprotection@soundcloud.com.
 
-We have a pretty simple approach to data protection and privacy, which can be summarized as follows:
+Data Controllers
 
-You should know exactly what we do with your information
+When this policy mentions “SoundCloud,” “we,” “us,” or “our,” it refers to the SoundCloud entity that is responsible for your information under this Privacy Policy (the “**Data Controller**”).
 
-This Privacy Policy is designed to give you full transparency regarding our data protection practices. If there’s anything that’s not clear from this Privacy Policy, please feel free to contact us via our Help Center.
-
-You should have full control over your information
-
-We’ve designed the Website to give you control over the information you publish and share using SoundCloud® and other sites and services to which you connect your SoundCloud® account. Please take full advantage of these tools and make sure you only share what you want to share.
-
-Information we collect about you
-
-We collect information about you from various sources:
-
-Information provided by you
-
-You don’t need to provide us with any personal data in order to visit the Website. However, certain Services do require that you register for a SoundCloud® account and, by doing so, you will provide us with certain information:
-
-*   Essential information: When you register any kind of SoundCloud® account, you will need to provide your email address (except when you sign-up with Facebook and don’t give your permission to share it with SoundCloud), your month and year of birth, and choose a password. In addition, if you purchase a Subscription, you will also need to provide your real name, billing address and payment verification information.
+*   If you are located in the United States, SoundCloud Inc. is the Data Controller of your personal data provided to, or collected by or for, or processed in connection with, our Platform;
     
-*   Non-essential information: Your gender if you wish to provide it.
+*   If you are located outside the United States, SoundCloud Ltd. is the Data Controller of your personal data provided to, or collected by or for, or processed in connection with, our Platform;
     
-*   Profile information: You may choose, at your discretion, to provide additional information for your public profile on SoundCloud® – for example:
+*   We may share your data within our corporate group of companies that are related by common ownership or control (“SoundCloud Group”) and data of US users may be processed by SoundCloud Ltd. on SoundCloud Inc.’s behalf.
+    
+
+Our Privacy Principles
+
+SoundCloud is committed to putting users first and believes you should know what data we collect about you, why we collect it, and how we use and share it. That’s why we’ve designed this Privacy Policy to give you simple, clear, and actionable information about our privacy and data protection practices.
+
+We believe users should also have meaningful choices over the data we collect, use and share as described in this Privacy Policy, your Settings and the Help Center. We encourage you to take full advantage of these tools so you can make the best decisions about the data you share.
+
+Information We Collect
+
+All the personal information we collect is related to providing the Platform and its features and falls into three general categories:
+
+*   Information you provide to us
+*   Information collected automatically
+*   Information we obtain from third parties
+
+Information You Provide
+
+We ask for and collect the below personal information when you use the Platform. This information is necessary for the adequate performance of the contract between you and us and to allow us to comply with our legal obligations.
+
+We process this information in light of our legitimate interest in improving the Platform and giving our users the best experience, and where it is necessary for the adequate performance of the contract between us and you. Without it, we may not be able to provide you with all the requested services and features of the Platform.
+
+You don’t need to register for a SoundCloud account in order to visit or use our Platform. However, certain Services require that you register for an account and, by doing so, you will need to provide us with certain information:
+
+*   **Account Information** - When you register any kind of SoundCloud account, you will need to provide your email address (except when you sign-up with Facebook or Google and don’t give your permission to share it with SoundCloud), your age, and choose a password. In addition, if you purchase a Subscription, you will also need to provide your real name, billing address, and payment verification information.
+    
+*   **Profile Information** - you may choose, at your discretion, to provide additional information for your public profile on SoundCloud® – for example:
     
     *   your real name
     *   a user name (which may be your real name or a pseudonym)
     *   the city and country in which you live
     *   a profile picture, profile header image or avatar
     *   information about how you categorize yourself with respect to your content (for example, whether you are a musician, a label or some other category of creator)
-    *   details of your other websites and social media profiles, including links to those websites and profiles
+    *   details of your other websites and social media profiles, including links to those pages
+    *   your gender if you wish to provide it
+    *   any additional information you provide as part of your public profile, such as your real name, and links to your website and other social media profiles (but not your email address), will be published on your profile page. This information will be publicly accessible and may be viewed by anyone accessing the Website, or using our API or other Services. Please bear this in mind when considering whether to provide any additional information about yourself
+*   **Communications** - When you communicate with SoundCloud by email or through the Platform, or use the Platform to communicate with other users, we collect information about your communication and any information you choose to provide.
     
-    None of this profile information is mandatory, and any information you do provide may be deleted, edited, changed or amended by you at any time. For more information, see the Choice and Control section below.
+*   **Survey Information** - If you participate in any survey, you may provide certain personal data as part of your response, unless you respond anonymously.
     
-*   Information from correspondence: You will provide certain personal data if you contact us by email, use any of the webforms on the Website, or contact us by mail, fax or other offline means.
-    
-*   Survey information: If you participate in any survey, you will provide certain personal data as part of your response, unless you respond anonymously.
-    
-*   Information that you post: You may provide personal data when you upload sounds to the Platform, or when you post comments, or contribute to community discussions.
-    
-
-Information we collect automatically
-
-There is certain information that we collect automatically as the result of your use of the Platform, or through the use of web analytics services as described in our Cookies Policy. This information includes but is not limited to:
-
-*   the Internet Protocol (IP) address of the device from which you access the Platform (this can sometimes be used to derive the country or city from which you are accessing the Platform)
-    
-*   the site that you visited immediately prior to visiting the Website
-    
-*   the specific actions that you take on the Platform, including the pages that you visit, streaming, offline listening or downloading tracks, uploading or recording tracks, connecting your Facebook or Google+ account, sharing a sound with another user, following or unfollowing another user, joining or leaving a group, posting a comment, or performing a search
-    
-*   any search terms that you may enter on the Website
-    
-*   the time, frequency and duration of your visits to the Platform
-    
-*   your browser type and operating system
-    
-*   the nature of the device from which you are accessing the Platform, for example, whether you are accessing the Platform from a personal computer or from a mobile device and its device-ID
-    
-*   your location data (e.g. GPS) when using SoundCloud Apps,
-    
-*   information collected through cookies and similar technology, as described in our Cookies Policy
-    
-*   information regarding your interaction with email messages, for example, whether you opened, clicked on, or forwarded the email message
+*   **Information You Post** - You may provide personal data when you upload Sounds to the Platform, or when you post comments, or contribute to community discussions.
     
 
-Information from other sources Facebook Connect
+Information We Collect Automatically
 
-SoundCloud allows you to sign up and log in using your Facebook account. If you sign up using Facebook, Facebook will ask your permission to share certain information from your Facebook account with SoundCloud. This includes your first name, last name, email address in order for us to verify your identity and gender, general location, a link to your Facebook profile, your timezone, birthday, profile picture, your "likes" and your list of friends.
+There is certain information that we collect automatically as the result of your use of the Platform, or through the use of cookies and other web analytics services as described in our Cookie Policy. This information generally includes:
 
-This information is collected by Facebook and is provided to us under the terms of Facebook’s privacy policy. You can control the information that we receive from Facebook using the privacy settings in your Facebook account.
-
-If you sign up to SoundCloud® using Facebook, your SoundCloud® account will be connected automatically to your Facebook account, and information regarding your activity on SoundCloud®, specifically any new public sounds that you post on SoundCloud® and any new favourites, will be shared with Facebook and will be published in your timeline and your Facebook friends’ newsfeeds. If you do not wish to share your SoundCloud® activity with your Facebook friends, you can control this from the Settings page on the Website – for more information, see the Choice and Control section below. If you signed up using Facebook by mistake, you can delete your account from the Account page within your Settings at any time, or you can contact us via our Help Center
-
-Google+
-
-You can sign up and log in to SoundCloud using your Google+ account. When you sign up using Google+, Google will ask your permission to share certain information from your Google+ account with SoundCloud. This includes your first name, last name, email address in order for us to verify your identity and gender, a link to your Google+ profile, your profile picture, and your list of friends. This information is collected by Google and is provided to us under the terms of Google's privacy policy.
-
-If you sign up to SoundCloud® using Google+, by default information regarding your activity on SoundCloud® will be visible on Google to everyone in your Google+ circles and shared with Google according to Google's terms of service and Google's privacy policy. For more information on how to manage the activities you share back to your Google+ account, see Google's support page. You can manage who from your Google+ circles sees your SoundCloud® activity from within your Google+ App settings page. If you want to control the type of SoundCloud® activity that is shared with your Google+ circles, you can do this from the settings page of your SoundCloud account under the “Connections” tab.
-
-If you signed up to SoundCloud® using Google+ by mistake, you can delete your account from the account page within your settings at any time, or you can contact us via our Help Center.
-
-How we use your information
-
-We use the information that we collect about you for the following purposes:
-
-Use of and interaction with the Platform:
-
-*   To operate and maintain your SoundCloud® account, and to provide you with access to the Website and use of the Apps and any Services that you may request from time to time. Your email address and password are used to identify you when you sign into the Platform. Your device-IDs are used to ensure that you are in control of the devices that have access to your Subscription.
+*   **Usage Information** - We collect information about your interactions with the Platform, including the pages that you visit and links you click on, streaming, offline listening or downloading tracks, uploading or recording tracks, connecting your Facebook or Google+ account, sharing a sound with another user, following or unfollowing another user, joining or leaving a group, posting a comment, performing a search, the time, frequency and duration of your visits to the Platform, and whether you interact with email messages, for example, if you opened, clicked on, or forwarded the email message.
     
-*   To identify you as the creator of the sounds that you upload, the comments that you post and/or the other contributions that you make to the Platform.
+*   **Log Data** – We automatically collect log information when you use the Platform, even if you have not registered for an account or logged in. That information includes, among other things: details about how you’ve used the Platform (including links to third party sites or services), Internet Protocol (IP) address, access times, your browser type and operating system, device information, device event information (e.g., crashes, browser type), and the page you’ve viewed or engaged with before or after using the Platform.
     
-*   To seek your participation in surveys, and to conduct and analyze the results of those surveys if you choose to participate.
+*   **Cookies** – We use cookies and other similar technologies, such as pixels, local storage, and mobile device identifiers and may also allow our business partners to use these tracking technologies on the Platform, or engage others to track your behavior on our behalf. For more information on our use of these technologies, see our Cookie Policy.
     
-*   To provide you with technical support.
+*   **Location Data** – When you use certain features of the Platform, we may collect data about your general location (e.g. IP address). We use this data to provide you with location-based services (such as advertising and personalized content). Most mobile devices allow you to control or disable the use of location services for applications in the device’s settings.
     
-*   To respond to you about any comment or enquiry you have submitted.
+*   **Device Information** – We collect information from and about the devices you use, including how you interact with the Platform and information about device itself, such as the hardware model, operating system, IP addresses, cookie information, device settings, mobile device and advertising identifiers, apps installed, browser type, language, battery level and time zone. Apple’s iOS Advertising Identifier (IDFA) and Google’s Android Advertising ID are examples of device identifiers. This information allows us to recognize and associate your activity, and provide personalized content and advertising, consistently across all of your devices.
     
-*   To provide other users with data regarding people's listening behavior of their sounds, i.e. streaming and downloading their sounds or playlists or following their profiles.
+*   **Software Development Kits** – We may use third parties including our business partners and service providers who use mobile SDKs to collect information and information related to how mobile devices interact with the Platform. An SDK is computer code that app developers can include in their apps to enable ads to be shown, data to be collected and related services and functionality to be implemented. A mobile SDK is in effect the mobile app version of a pixel tag or beacon. We may use this technology, for instance, to analyze how you interact with content and advertisements and to enable analytics or other features through mobile devices.
     
-*   To prevent or take action against activities that are, or may be, in breach of our Terms of Use, Community Guidelines or applicable law.
-    
-*   We use your month and year of birth to enable age restriction.
-    
-*   Any additional information that you provide as part of your public profile, such as your real name, and links to your website and other social media profiles (but not your email address), will be published on your profile page. This information will be publicly accessible and may be viewed by anyone accessing the Website, or using our API or other Services. Please bear this in mind when considering whether to provide any additional information about yourself.
-    
-*   If you purchase a Subscription, your name, address and payment verification information will be used to process your account subscription and renewals and to collect your payment. All payment verification information is transmitted using industry-standard SSL (Secure Socket Layer) encryption. SoundCloud also complies with the Payment Card Industry Security Standards.
-    
-*   Your email address will be used to send you service updates and notifications regarding your account, and (if you have elected to receive them using your account preferences) newsletters, marketing messages and certain email notifications. For information about how to change your preferences, and to unsubscribe from newsletters, marketing messages and email notifications, please see the Choice and Control section, below.
-    
-*   If you are a Facebook or Google+ user, and one of your Facebook or Google+ friends registers for a SoundCloud® account, we may let your friends who already are on SoundCloud know that you joined or will suggest to your Facebook or Google+ friend that you might be someone they may wish to follow on SoundCloud.
-    
-*   If you are a Facebook or Google+ user and sign up using Facebook or Google+ , we may also use the information we receive about you from Facebook or Google to suggest or connect you to users that you may wish to follow on SoundCloud®. It will be up to you if you choose to follow these users and you can unfollow them at any time.
+*   **SoundCloud Widget** – Other websites may integrate SoundCloud widgets. when you visit a website with a SoundCloud widget embedded, we may receive certain information, including information about the website you visited. SoundCloud and the widget may be able to recognize you, and in some cases the widget may be used to show personalized content. We know when you interact with a widget, and websites containing the widgets may receive this information as well.
     
 
-Improving and customizing the Platform and advertising:
+Information From Third Parties
 
-*   To analyze the use of the Platform, and the people visiting the Website and using the Apps and Services, in order to improve SoundCloud® and customize it to your needs and interests.
+*   **Single-Sign Ons** – If you sign up for SoundCloud through a third party application like Facebook or Google, you authorize us to collect your authentication information, such as your username and encrypted access credentials, and other information available through the third party application account, including the following information:
     
-*   To show you interesting SoundCloud ads, when you visit third party websites. When you see our ads on a third party website or apps, we or third party services we engage for this purpose, may collect information your browser or mobile app makes available when seeing the ad (e.g. ip-addresses, referral URL, browser details, timestamp of request). Third party websites or apps may also allow us to measure the success of our ads on their websites. This may include e.g. whether a click converted to an actual purchase of a Subscription. Please see the privacy policy of such third party websites to understand what data may be collected and how to opt-out.
-    
-*   To show you ads on behalf of advertisers, we use information that you make available to us when you interact with the Platform (e.g. by listening, liking or creating playlists), including location data, together with information you provide to us through the Platform, e.g. demographic information, you choose to make available to us (such as your age or gender) directly or through third party services as well as information your browser sends us when using the Platform (e.g. referral URLs, device type or location data). This allows us to show you ads that are more relevant and interesting to you. Please note that we do not share personal data with advertisers. Instead, advertisers pre-define a specific audience by certain generic criteria (e.g. the city of residence, the age range, or the number of followers of an unidentified user) for a specific ad campaign. If your profile matches these generic criteria, we may choose to display a suitable ad to you. We may also display ads based on the content that you have recently viewed or searched. Before we may use location data from the app for the first time, your mobile device will generally ask you for permission first. In case you gave permission to do so, location based services in your device will collect location data for a couple of seconds. These will then be shared with us or a respective service provider. When we engage third party services such as ad-networks that enable us showing you interest based ads, we may also allow them to collect certain information such as cookie data from you. This information would allow these third-parties to deliver targeted advertisements that they believe will be of most interest to you. If you allow third party websites to collect and share data when you interact with their platform, ad-networks may use that information together with the information we allow them to collect on the Platform. Please see the privacy policy of such third party websites to understand what data may be collected and how to opt-out.
-    
-*   To customize your use of the Platform and/or the content of any email newsletter or other material that we may send to you from time to time.
-    
-
-For other purposes, provided we disclose this to you at the relevant time, and provided that you agree to the proposed use of your personal data.
-
-Sharing of your information
-
-**We will not share your information with any third party, except as described in this Privacy Policy (including our Cookies Policy).** There are circumstances where we may need to share some of the information we collect about you or which you provide to us for the purposes set out above - these circumstances are as follows:
-
-*   Other users: Any information in your public profile (other than your email address) will be accessible by other users of the Platform, who may view your profile information, listen to and comment on any of your public sounds, add themselves to your list of followers, and send you messages. If you listen to any sounds uploaded by a pro user, the fact that you have listened to those sounds will be shared with that pro user as well as that you are following that pro user now, so that they can track the popularity of their sounds. Similarly, if you comment on any sounds on the Platform, your comments will be available to all users of the Platform.
-    
-*   With your consent: We will disclose your information if you have explicitly agreed that we may do so. We will make this clear to you at the point at which we collect your information.
-    
-*   Service providers: We use certain reputable third parties, some of whom may be located outside of the European Economic Area, to provide us with certain specialized services related to the Platform. These third parties will have access to certain information about you, but only where this is necessary in order for those third parties to provide their services to us. Where we transfer personal data to these third parties, we ask and require these third parties to implement appropriate organizational and technical security measures to protect against unauthorized disclosure of personal data, and only to process personal data in accordance with our instructions and to the extent necessary to provide their services to us.
-    
-*   Users of our API: SoundCloud has an open API, which enables application developers to integrate elements of the Platform into exciting new apps. Some of these developers may be located outside of the European Economic Area. Any information that you choose to make public on the Platform, including your public profile information and any public sounds, may be accessible to these developers. Please bear this in mind when deciding what information to publish on your profile. For information on how to limit the information that is available over the API, please see the Choice and Control section below.
-    
-*   Other networks and connected apps: If you choose to connect your SoundCloud® account to other apps or social networks such as Facebook, Google+, Tumblr or Twitter, you will be sharing certain information with these apps or networks. In the case of Facebook, Google+, Tumblr or Twitter, any new public sounds that you post or listen to on SoundCloud® or any new favourites will be shared to those networks and will be visible to your followers and friends on those networks. In the case of connected apps, you will need to provide the app developer with full access to your SoundCloud® account in order to upload and download sounds, or comment on, favourite or repost sounds from within the app. This will mean sharing your public information, plus access to your private sounds. SoundCloud is not responsible for these other apps or networks, so please make sure you only connect your account with apps or services that you trust. For information on how to control the information that your share, and how to disconnect your account from other networks or apps, please see the Choice and Control section below.
-    
-*   Advertisers may use third party services to ensure their ads are properly served and to measure the success of their campaigns on websites and apps. We allow these services to collect and use the information for such purposes.
-    
-*   As aggregated data: We may aggregate your personal data with similar data relating to other users of the Platform in order to create statistical information regarding the Platform and its use, which we may then share with third parties or make publicly available. However, none of this information would include any email address or other contact information, or anything that could be used to identify you individually, either online or in real life.
-    
-*   If required by law: We will disclose your information if we believe in good faith that we are permitted or required to do so by law, including in response to a court order, subpoena or other legal demand or request.
-    
-*   To protect our interests: We may disclose your information if we feel this is necessary in order to protect or defend our legitimate rights and interests, or those of our users, employees, directors or shareholders, and/or to ensure the safety and security of the Platform and/or the SoundCloud® community.
-    
-*   In the context of a business transfer: We may transfer your information to any person or company that acquires all or substantially all of the assets or business of SoundCloud, or on a merger of our business, or in the event of our insolvency.
+    *   **Facebook Connect** – SoundCloud allows you to sign up and sign in using your Facebook account. If you sign up using Facebook, Facebook will ask your permission to share certain information from your Facebook account with SoundCloud. This includes your Facebook user ID, first name, last name, email address (optional), gender, locale, your time zone, birthday and profile picture. This information is collected by Facebook and is provided to SoundCloud under the terms of Facebook’s Privacy Policy. You can control the information that we receive from Facebook using the privacy and data settings in your Facebook account. If you signed up using Facebook by mistake, you can delete your account from the Account page within your Settings at any time, or you can contact us via the Help Center.
+        
+    *   **Google+** – You can sign up and log in to SoundCloud using your Google+ account. When you sign up using Google+, Google will ask your permission to share certain information from your Google+ account with SoundCloud. This includes your Google+ user ID, username, email address, birthdate or -range (optional), gender (optional), and avatar (optional). This information is collected by Google and is provided to us under the terms of Google’s Privacy Policy. You can regulate the information that we receive from Google using your Google activity controls. If you signed up using Google by mistake, you can delete your account from the Account page within your Settings at any time, or you can contact us via the Help Center.
+        
+*   **Service Providers and Business Partners** – We may also receive information about you from our service providers and business partners, including companies that assist with payment processing, analytics, data processing and management (e.g. to measure ad quality and responses to ads, and to display ads that are more likely to be relevant to you, including for SoundCloud products) account management, hosting, customer and technical support, and other services which we use to personalize your SoundCloud experience. We explain in more detail why and how we use this information below.
     
 
-Cookies and similar technology
+How We Use Your Information
 
-In common with most websites, we use cookies and other standard Internet technologies to help us improve the Website and the Apps and Services we provide. We have included information about our use of cookies and similar technology in a separate Cookies Policy that forms part of this Privacy Policy. The Cookies Policy also includes information about how you can block or disable third party cookies (which we only use for the purposes of analyzing the use of our Platform and optimizing the content on our Platform), and how to opt out of other technologies such as bug reporting within our mobile apps.
+We use the personal information we collect from you, including with the help of automated systems and decision making, for a range of different business purposes according to different legal bases of processing and subject to the choices you make in your Settings.
 
-Ads displayed to you are in some cases provided by third parties. These may and as far as allowed by your settings or your device, use information about your visit and interaction with the Platform in order to show you personalized ads of products and services that may be of interest to you. Personal information such as your name or email address will not be shared with these.
+*   **Provide, Improve, and Develop the Platform**
+    
+    *   To operate and maintain your SoundCloud account, and to provide you with access to and use of the Platform. Your email address and password are used to identify you when you log into the Platform. Your device-IDs are used to ensure that you are in control of the devices that have access to your Subscription.
+        
+    *   To identify you as the creator of the Sounds that you upload, the comments that you post and/or the other contributions that you make to the Platform.
+        
+    *   To provide creators with stats and insights about users’ listening behavior of their Sounds, (i.e. streaming and downloading their Sounds or following their profiles).
+        
+    *   We conduct surveys and research, test features in development, and analyze the information we have to evaluate and improve products and services, develop new features, and conduct audits and troubleshooting activities.
+        
+    *   If you purchase a Subscription, your name, address and payment verification information will be used to process your account subscription and renewals and to collect your payment. All payment verification information is transmitted using industry-standard SSL (Secure Socket Layer) encryption. SoundCloud also complies with the Payment Card Industry Security Standards.
+        
+    *   Your email will be used to send you service updates and notifications about your account.
+        
+    *   To respond to you about any comment or enquiry you have submitted.
+        
+    *   We use your age to enable age restrictions.
+        
+    
+    We process this information in light of our legitimate interest in improving the Platform and giving our users the best experience, and where it is necessary for the adequate performance of the contract with you (e.g. Terms of Use).
+    
+*   **Maintain a Safe and Secure Environment**
+    
+    *   Detect and prevent fraud, spam, abuse, security incidents, and other suspicious activity.
+        
+    *   Verify and authenticate your identity and prevent unauthorized or illegal activity.
+        
+    *   Enhance the safety and security of our products and services.
+        
+    *   Conduct security investigations and risk assessments.
+        
+    *   To prevent or take action against activities that are, or may be, in breach of our Terms of Use, Community Guidelines or applicable law.
+        
+    *   To provide you with customer and technical support.
+        
+    
+    We process this information in light of our legitimate interest in improving the Platform and giving our users the best experience, and where it is necessary for the adequate performance of the contract with you (e.g. Terms of Use).
+    
+*   **Personalize Content, Advertising and Marketing**
+    
+    *   To improve your experience on the Platform by providing personalized content, recommendations, and features.
+        
+    *   To customize the content and measure performance of any email, push notification, or in-app message we may send to you.
+        
+    *   Administer sweepstakes, contests, or other promotional activities or events sponsored or managed by SoundCloud or its partners.
+        
+    *   Use automated systems and decision making to profile user characteristics and infer preferences based on information that you provide to us, your interactions with the Platform and content, your profile information, and information obtained from third parties. This data is used to create groups of users, called segments, who share similar characteristics and interests. we use segments to serve personalized content, advertising, and marketing messages. We also use automated systems to associate your activity over time across devices, and may associate activity and accounts under a single user ID, in order to determine that certain devices are related to each other and provide you with a personalized experience across devices and platforms.
+        
+    *   To deliver targeted marketing for SoundCloud products on and off the Platform and measure the success of those campaigns. When you see our ads on a third party website or apps, we or third party services we engage for this purpose, may collect information that your browser or mobile app makes available when seeing the ad (e.g IP address, referral URL, browser details, timestamp of request), including whether a click converted to an actual purchase of a Subscription. Please see the privacy policy of such third party websites to understand what data may be collected and how to opt-out.
+        
+    *   Ads are more effective when they are shown to people who are likely to be interested in the product or service advertised. For this reason, we use the information we collect and receive to help us select which ads to show you on behalf of advertisers. This includes information you choose to provide to us (e.g. age and gender) and make available to us when you interact with the Platform (e.g. by listening, liking or creating playlists), as well as general location data. We may also display ads based on the page you’re on or content you have recently viewed, searched, or listened to. This allows us to show you ads that will likely be more relevant and interesting to you.
+        
+    *   When we engage third party services such as ad-networks and exchanges that enable us showing you targeted ads, we may also allow them to collect certain information such as cookie data and device identifiers. That information is used to synch or match users to segments and serve targeted advertising, including based on device activity, inferred interests, and general location information.
+        
+    *   Combine information we collect about you with information from business partners and use it to serve more relevant advertising.
+        
+    
+    We may use your data for other purposes, provided we disclose the purposes and use to you at the relevant time, and provided that you consent to the proposed use of your personal data.
+    
 
-We have done our best to provide you with as much information as possible about our use of cookies and similar technology. **If you choose to use the Platform without blocking or disabling these cookies or opting out of other technologies as described in our Cookies Policy, you will indicate your consent to our use of these technologies and to our use (in accordance with this Privacy Policy and our Cookies Policy) of any personal data that we collect using these technologies.**
+Sharing of Your Information
 
-Choice and control
+This section describes how the information collected or generated through your use of the Platform may be shared by you or by us.
 
-We do our best to give you as much choice as possible regarding the amount of information you provide to us, and the control you have over that information.
+*   **Through Your Profile** – Any information in your public profile (other than your email address) will be accessible by other users of the Platform, who may view your profile information, listen to and comment on any of your public Sounds, add themselves to your list of followers, and send you messages. If you listen to any Sounds uploaded by a SoundCloud Pro user, the fact that you have listened to those Sounds will be shared with that Pro user, and that you are following that Pro user, so that they can track the popularity of their Sounds. Similarly, if you comment on any Sounds on the Platform, your comments will be available to all users of the Platform.
+    
+*   **With Your Consent** – We will disclose your information if you have agreed that we may do so. We will make this clear to you at the point at which we collect your information, including the purpose(s) for which we will use the data.
+    
+*   **Service Providers** – We use a variety of third party service providers, some of who may be located outside of the European Economic Area (“EEA”), to provide services to us or to our users on our behalf. These service providers have access to your information solely to perform these tasks on our behalf, and are contractually bound to implement appropriate organizational and technical security measures to protect against unauthorized disclosure of personal data, and only to process personal data in accordance with our instructions and to the extent necessary to provide their services to us. We need to share your information, including personal information, in order to ensure the adequate performance of our contract with you.
+    
+*   **Content Partners** – The Platform allows you to listen to a variety of content, including licensed streaming content from our content partners. We share information with these content partners that license this content to help them understand how the content they provide is performing, including insights about general user listening trends and preferences. We use technical measures to ensure the data is de-identified and/or aggregated so it does not identify you directly. We share this data based on our legitimate interest in helping content partners deliver high performing content and to ensure the fulfillment of our contract with those partners.
+    
+*   **Advertising** – We share the data collected about you, generally in hashed, aggregated, or de-identified forms with advertisers and advertising service providers and business partners in order to serve ads based on your interests and measure the reach and effectiveness of those ads, including whether a user took an action (e.g. purchase a product). We may also share cookie data and device identifiers with service providers for data matching purposes, in order to improve ad targeting.
+    
+*   **Social Media** – For users outside of the EU/EEA, where permissible under applicable law, we may share your email address (in hashed form, so that it does not identify you) with Facebook in order to target you with ads for SoundCloud products on Facebook and on third party websites and applications in the Facebook Audience Network. We also allow Facebook and other social media platforms to collect information through cookies and similar technologies like pixels in order to serve ads for SoundCloud on those third party websites and apps and drive users to our Platform. In order to measure the effectiveness of and optimize these marketing campaigns, these technologies track activity taken across devices after a user sees a SoundCloud ad, in order to determine performance metrics like sign ups, visits to the Platform, and purchases. We undertake these activities based on our legitimate interest in acquiring new customers and offering products we think you may be interested in. Any questions regarding how these social media platform service provider processes your personal data should be directed to such third party platform.
+    
+*   **Aggregated Data** – We may also share aggregated information (information about our users that we render in such a way that it no longer identifies or references an individual user) and other pseudononimized information for regulatory compliance, industry and market analysis, demographic profiling, marketing and advertising, and other business purposes.
+    
+*   **API Integrations** – SoundCloud has an open application-programming interface (API), which enables application developers to integrate elements of the Platform into other apps. Some of these developers may be located outside of the EEA. Any information you choose to make public on the Platform, including your public profile information and any public Sounds, may be accessible to these developers, subject to our API Terms of Use. Please bear this in mind when deciding what information to publish on your profile. For information on how to limit the information that is available through the API, please see the Your Choices and Controls section below.
+    
+*   **Third Party Applications** – If you choose to connect your SoundCloud® account to other apps or social networks such as Facebook and Google+ you may be sharing certain information with these apps or networks. Content that you share with Facebook will appear on your timeline and in your Facebook friends’ newsfeeds. Content you share with Google will be seen by the people from your Google+ circles when they visit your Google+ profile, make relevant Google searches, on Google-served ads, and the services selected in your Google account settings. In the case of connected apps, you will need to provide the app developer with full access to your SoundCloud® account in order to upload and download Sounds, or comment on, favorite, or repost Sounds from within the app. This means sharing your public information, plus access to your private Sounds. SoundCloud is not responsible for these other apps or networks, so please make sure you only connect your account with apps or services that you trust. For information on how to control the information that you share, and how to disconnect your account from these apps, please see the Your Choices and Controls section below. **If you do not want this information shared with Facebook or Google, please change your SoundCloud Settings on our Platform or in those networks.**
+    
+*   **Compliance with Laws** – We may disclose your information to courts, law enforcement agencies, and governmental authorities (i) to comply with our legal obligations, (ii) to comply with legal process and to respond to claims asserted against SoundCloud, (iii) to respond to verified requests relating to a criminal investigation or alleged or suspected illegal activity or any other activity that may expose us, you, or any other of our users to legal liability, (iv) to enforce and administer our Terms of Use and other agreements with users, or (v) to protect the rights, property or personal safety of SoundCloud, its employees, and members of the public.
+    
+*   **Protecting our Rights** – We may disclose your information if we feel this is necessary in order to protect or defend our legitimate rights and interests, or those of our users, employees, directors, officers, or shareholders, and/or to ensure the safety and security of the Platform and/or the SoundCloud® community.
+    
+*   **To Our Affiliates** – To enable and support us in providing the Platform and Services, we may share your information, including personal information, within the SoundCloud Group. The data sharing is necessary for the performance of the contract between you and us and is based on our legitimate interests in providing the Platform globally.
+    
+*   **Change of Control** – We may also share your personal data as part of a sale, merger or change in control of SoundCloud, or in preparation for any of these events. Any other entity that buys us or part of our business will have the right to continue to use your data, but only in the manner set out in this Privacy Policy unless you agree otherwise.
+    
 
-It is not necessary for you to provide us with any personal data in order to visit the Website, although certain information will be collected automatically by virtue of your visit (as described above). However, if you do decide to register a SoundCloud® account, you can control your information in the following ways.
+Cookies and Similar Technology
 
-Email and notification preferences
+As further described in our Cookie Policy we use cookies and similar technologies (e.g., pixels, local storage, and device identifiers) to recognize you and/or your device(s) on and off the Platform, and across devices and devices. To the extent allowed by your settings or your device, we also allow third parties to use cookies as described in our Cookie Policy in order to track user behavior on and off the Platform in order to show you ads based on your interests and preferences. You can control cookies through your browser and other tools as described in the Cookie Policy, as well as through your SoundCloud Settings.
 
-When you are signed into your account, you can access your Settings by clicking on the three-dots-tab at the top right of the screen, and selecting Settings from the drop down menu.
+Information Security
 
-From the Notifications tab you can tell us:
+SoundCloud maintains technical, administrative, and physical safeguards that are designed to prevent unauthorized access, use or disclosure of personal information we collect or store. We regularly monitor our systems for possible vulnerabilities and attacks. However, it is not possible to guarantee the security of information transmitted over the Internet. You use the Platform and provide us with information at your own discretion and risk.
 
-*   which email notifications (if any) you would like to receive from us. and
-*   which Activity Notifications (if any) you would like to receive from us.
+International Data Transfers
 
-You can also turn off email notifications from the Notifications tab within your Settings. This will immediately disable all email notifications, other than essential account notifications such as important service updates, reports of copyright infringement and other essential information relating to your account and your use of the Platform.
-
-It is also possible to unsubscribe from email newsletters and notifications (other than essential account notifications) at any time by clicking on the link at the end of each email.
-
-You can add additional or alternative email addresses that you may wish us to use to communicate with you in your Account Settings tab.
-
-Sharing with other apps and networks
-
-The Connections tab within your Settings on the Website enables you to control the information you share with other networks and applications. As well as selecting those of your social networks you wish to share to, you can also control access to other services and applications to which you have connected your SoundCloud® account.
-
-If you sign up for SoundCloud® using your Facebook or Google+ account, your SoundCloud® account and your Facebook or Google+ account respectively will be connected automatically. Information regarding the public sounds that you post, listen or favourite on SoundCloud®, will be shared with the connected Facebook or Google+ account. Content that you share with Facebook will appear on your timeline and in your Facebook friends’ newsfeeds. Content you share with Google will be seen by the people from your Google+ circles when they visit your Google+ profile, make relevant Google searches, on Google-served ads, and the services selected in your Google account settings. **If you do not want this information shared with Facebook or Google, please change your Settings.**
-
-Please note that this Privacy Policy does not apply to any third party sites or applications, and we cannot control the activities of those sites or applications. You are advised to read the privacy policies of those sites or applications before sharing your information with, or connecting your SoundCloud® account to, any of these third party sites or applications.
-
-Sharing with other users
-
-If any of your sounds contain any personal data or any other information which you would not like to share, you can control who has access to these sounds using the settings in the sound page (click on the pencil icon in the waveform player for the relevant sounds). By setting your sounds to “private”, rather than “public”, you can limit who has access to your sounds.
-
-Sharing with app developers
-
-SoundCloud® has an open API, which allows third party developers to build some really cool apps as an extension of the Platform. If you would prefer that your sounds are not made available to third party app developers, you can disable API access within the sound page for each of the sounds that you upload. Click on the pencil icon in the waveform player, and uncheck the “Apps enabled” box at the bottom of the page. Please note that your public profile information will still be accessible, but this does not include anything that is not publicly available on the Website.
-
-Customizing the Platform and personalized ads
-
-You can opt out of the collection of your information when interacting with the Platform for purposes of customizing the Platform or personalized advertisement at any time for the future by checking the Anonymous Browsing box in the Account tab within your Settings on the Website. Please keep in mind that this may also have a substantial impact on your listening experience on the Platform (e.g. with regard to personalized recommendations for sounds to listen to or creator discovery). We may also use third party services using cookies or similar technologies showing you personalized ads on our behalf. Please see our Cookies Policy for how to opt-out of those.
-
-Please be aware that even if you opt out of interest-based ads, you may still see ads, which likely are not as appealing to you.
-
-Cookies
-
-Information on how to block or disable cookies is included in our Cookies Policy. Further information is available at http://aboutcookies.org.
-
-App preferences
-
-You can use the settings within your iOS device or within the Android app to opt-out of analytics tracking and bug reporting. For the opt-out, if you are using our iOS app, go to the settings of your iOS device and open the SoundCloud® tab. With an Android device you need to open the SoundCloud® app and open the basic settings tab within. From there you can simply disable analytics and/or bug reporting to stop any analytics data or bug reporting information being sent from the app. Further information is available in our Cookies Policy.
-
-Deleting your account
-
-You can delete your account from the Account page within your Settings on the Website at any time. Please bear in mind that, if you delete your account, all data associated with your account, including the sounds that you have uploaded and the usage data associated with those sounds, will be deleted and may not be recoverable. You are therefore advised to copy or back up all content uploaded to your account before you delete your account.
-
-Even if you delete your SoundCloud® account, it is possible that your information may still show up in some internet search results for a short while afterwards, if the search engine maintains a temporary cache of web pages. Search engines' caching processes are outside of SoundCloud’s control and therefore we cannot be responsible for any information that remains cached by search engines after that information has been removed from the Platform.
-
-Please note that deleting any SoundCloud® Apps, or any third party apps to which your SoundCloud® account is connected, will not delete your SoundCloud® account. If you wish to delete your account, you will need to do so from the Account tab in your Settings on the Website. Similarly, if you delete a third party app that is connected to your SoundCloud® account over our API, this will not necessarily delete all data from within that third party app. You will need to refer to the app provider’s terms of use and privacy policy to find out how to delete your data from that third party app.
-
-Access to your data
-
-As described above, most of the personal data and other information you provide to us can be accessed and updated in the Settings page of your SoundCloud® account. If you wish to access, amend or delete any other personal data we hold about you, or if you have any objection to the processing of any personal data that we hold about you, please contact us via our Help Center, or the address provided below.
-
-If you ask us to delete your account (either via the Settings page or by email), we will do so within a reasonable period of time, but we may need to retain some of your personal data in order to satisfy our legal obligations, or where we have a legitimate reason for doing so.
-
-Data controller
-
-If you are a US user, your data is controlled by our United States entity SoundCloud Inc. If you are a user from outside the United States, your data is controlled by our European entity SoundCloud Limited. In order to determine whether you are a United States user or a user from outside the United States, we use your device’s IP address at time of registration. We may share your data with other companies within the SoundCloud Group. A sharing of data will only take place in accordance with the specific purposes outlined in this Privacy Policy. You can withdraw your consent at any time.
-
-United States users’ data may be processed by SoundCloud Limited on SoundCloud Inc.’s behalf.
-
-International data transfers
-
-SoundCloud Limited is based in Europe, and your personal information is collected, stored, used and shared in accordance with European laws. However, from time to time, it may be necessary for us to transfer your personal data to the United States. You should be aware that privacy laws in the United States may not be equivalent to the laws in your country, and by using the Platform, you consent to the transfer, storage and processing of your personal data in the United States in accordance with this Privacy Policy and applicable law.
+SoundCloud operates globally and may share your information internally within the SoundCloud Group, and third parties for the purposes described in this Privacy Policy. Information collected within the EEA may, for example, be transferred to countries outside of the EEA for the purposes as described in this Privacy Policy. We utilize appropriate safeguards such as Standard Contractual Clauses approved by the European Commission, or another legally approved mechanism, to ensure the lawful transfer of your personal data outside of the EEA.
 
 Children
 
-SoundCloud® is not intended for use by children. Anyone under the age of 13 is not permitted to use the Platform and must not attempt to register an account or submit any personal information to us. We do not knowingly collect any personal information from any person who is under the age of 13 or allow them to register an account. If it comes to our attention that we have collected personal data from a person under the age of 13, we will delete this information as quickly as possible. If you have reason to believe that we may have collected any such personal data, please notify us immediately at legal@soundcloud.com.
+SoundCloud is not intended for use by children. Anyone under the age of 16 in the EEA, or 13 in the United States and the rest of the world, is not permitted to use the Platform and must not attempt to register an account or submit any personal information to us. We do not knowingly collect any personal information from any person who is under the age of 16 or 13, as the case may be, or allow them to register an account. If it comes to our attention that we have collected personal data from a person under the age of 16 or 13, as applicable, we will delete this information as quickly as possible. If you have reason to believe that we may have collected any such personal data, please notify us immediately at dataprotection@soundcloud.com.
 
-Changes and updates to this Privacy Policy
+Your Choices and Controls
 
-We may occasionally update this Privacy Policy, and when we do so, we will also revise the Effective Date set out below. Any changes to our Privacy Policy will always be available here so that SoundCloud® users are always aware of what information we gather, and how we might use and share that information. Please be sure to check back here from time to time to ensure that you are aware of any changes to this Privacy Policy. Any material changes to this Privacy Policy will be communicated to registered users by a notification to their account and/or by posting a notice of the change on the Website.
+We do our best to give you as much choice as possible regarding the amount of information you provide to us, and the control you have over that information.
 
-Questions?
+*   **Managing SoundCloud Settings**. If you register an account, you may manage the content and information you share when you use SoundCloud through your account Settings, including for the features explained below. You are solely responsible for keeping your Settings up-to-date.
+    
+    *   **Email** – You can adjust your Settings in the Notification tab to disable email and desktop notifications (other than important service updates and essential notifications about the Platform or your account). All commercial emails and newsletters also allow you to unsubscribe at any time.
+        
+    *   **Analytics** – To control whether we collect analytics and usage information, including through cookies and similar technologies, you can adjust your Settings in the “Analytics” tab.
+        
+    *   **Marketing** – If you do not want to receive personalized ads, offers or other marketing messages for SoundCloud products or services, you can adjust your Settings in the “Communications” tab.
+        
+    *   **Advertising** – If you do not want SoundCloud to deliver “interest based” or personalized ads for third party products, you can adjust your settings in the “Advertising” tab. Please note, however, that even if you opt out of personalized ads, you may still see ads, but they will likely not be as relevant or useful to you.
+        
+    *   **Content Sharing** – It’s not possible to make your account entirely private. However, you do have the option to make all of your tracks, playlists and other uploads private. This means that no one will be able to access and listen to your Sounds without your explicit permission. You can learn more about these settings here.
+        
+    *   **Third Party Apps** – If you have chosen to connect your account to a third-party application, like Facebook or Google, you can disable permission for the app by adjusting your Settings in the “Connections” tab.
+        
+    *   **Third Party Developers** – SoundCloud® has an open API, which allows third party developers to build some really cool apps as an extension of the Platform. If you would prefer that your Sounds are not made available to third party app developers, you can disable API access within the sound page for each of the Sounds that you upload. Click on the pencil icon in the waveform player, and uncheck the “Apps enabled” box at the bottom of the page. Please note that your public profile information will still be accessible, but this does not include anything that is not publicly available on the Website.
+        
+    *   **Deleting Your Account** – If you have an account and would like to delete it, you may do so by adjusting you Settings in the Account tab. If you delete your account, all data associated with your account (except for backup copies), including the Sounds that you have uploaded and the usage data associated with those Sounds, will be deleted and may not be recoverable. We therefore advise you to copy or backup all content uploaded to your account before deletion. Even if you delete your SoundCloud account, it is possible that your information may still show up in some internet search results for a short while afterwards, if the search engine maintains a temporary cache of web pages. Search engines’ caching processes are outside of SoundCloud’s control and therefore we cannot be responsible for any information that remains cached by search engines after that information has been removed from the Platform. Please note that deleting any SoundCloud Apps, or any third party apps to which your SoundCloud account is connected, will not delete your SoundCloud account. Similarly, if you delete a third party app that is connected to your SoundCloud account over our API, this will not necessarily delete all data about your SoundCloud activity from within that third party app. You will need to refer to the app provider’s terms of use and privacy policy to find out how to delete data about your SoundCloud activity from that third party app.
+        
+*   **Managing Device Settings**
+    
+    *   On your mobile device, enable the “Limit Ad Tracking” setting in your iOS phone’s settings, or the setting to “Opt out of Ads Personalization” in your Android phone’s settings. To opt-out of location tracking when using our Apps, you can use the settings of your device. You can disable mobile analytics and bug reporting through these same settings as well.
+*   **Managing Browser Settings**
+    
+    *   To control cookies, you can modify your settings in most web browsers to accept or deny cookies or to request your permission each time a site attempts to set a cookie. You can also manually delete previously stored cookies at any time. Please note that if you choose to block cookies, doing so may impair the Platform or prevent certain elements of it from functioning.
+*   **Additional Choices and Controls**
+    
+    *   For more information about analytics and advertising cookies and how you can opt out, you can visit the Network Advertising Initiative’s opt-out page, the Digital Advertising Alliance’s opt-out page, or http://youronlinechoices.eu.
 
-If you have questions about this Privacy Policy, want to suggest changes to this Privacy Policy or want to know, what information we store about you, please contact us via our Help Center, or write to us at:
+Exercising Your Rights
 
-SoundCloud Limited Rheinsberger Str. 76/77 10115 Berlin Germany Attention: Legal Department
+In some jurisdictions, including the EU/EEA, you may exercise any of the rights described in this section through the Help Center. Please note that we may ask you to verify your identity before taking further action on your request.
 
-Don’t want to give us your information?
+*   **Data Access and Portability**
+    
+    *   You may be entitled to request copies of your personal information held by us. While a lot of the personal information you provide to us can be accessed in your account Settings, you may also be entitled to request copies of personal information you have provided to us in machine-readable format.
+*   **Change or Correct Data**
+    
+    *   Where you cannot update data yourself through an account, you have the right to ask us to correct change, update or rectify your data.
+*   **Data Retention and Deletion**
+    
+    *   We generally retain data for as long as your account is in existence or as needed to provide the Platform. However, specific retention times can vary based on context of the processing we perform and on our legal obligations.
+        
+    *   You have the right to ask us to delete all or some of the personal data we hold about you. If you have an account, you can also delete your account through the Settings at any time as described below.
+        
+    *   We may need to retain some of your personal data even after you have closed your account if reasonably necessary to comply with our legal obligations, or where we have a legitimate interest in doing so (e.g. to prevent fraud and abuse and maintain and enhance security).
+        
+*   **Objection to Processing**
+    
+    *   You may object to processing your personal information in some circumstances (in particular, where we don’t have to process the information to meet a contractual or other legal requirement, or where we are using the information for direct marketing).
+        
+    *   If you object to such processing SoundCloud will no longer process your personal information for these purposes unless we can demonstrate compelling legitimate grounds for such processing or such processing is required for the establishment, exercise or defense of legal claims or obligations.
+        
+    *   Where your personal information is processed for direct marketing purposes, you may, under certain circumstances, ask SoundCloud to cease processing your data for these direct marketing purposes.
+        
+*   **Restriction of Processing**
+    
+    *   Under certain circumstances, you may have the right to limit the ways in which we use your personal information.
+*   **Withdrawing Consent**
+    
+    *   Where you provide consent to the processing of your personal information by SoundCloud, you may withdraw your consent at any time by changing your account Settings or by sending a communication to SoundCloud specifying the specific consent you are withdrawing. Please note that the withdrawal of your consent does not affect the lawfulness of any processing activities based on such consent before its withdrawal.
 
-If you decide that you do not want us to use your information in the manner described in the Privacy Policy (including our Cookies Policy), please do not use the Platform. If you have already registered an account, you can find out how to terminate or cancel your account here.
+Lodging Complaints
 
-**Last amended:** 30 May 2017
+You have the right to lodge complaints about the data processing activities carried out by SoundCloud before a competent data protection authority.
+
+Contact Information
+
+If you have questions or complaints about this Privacy Policy or our practices, please contact our Data Protection Officer by email at dataprotection@soundcloud.com or write to us at SoundCloud Limited, Rheinsberger Str. 76/77 10115 Berlin, Germany Attention: Data Protection Officer.
+
+Changes to this Privacy Policy
+
+We may update this Privacy Policy from time to time in our sole discretion. If we make changes to this Privacy Policy, we will post the revised Privacy Policy on the Platform and update the “Last Amended” date below. Please be sure to periodically check this page to ensure that you are aware of any changes to this Privacy Policy. Any material changes to this Privacy Policy will be communicated to registered users by a notification to their account and/or by posting a notice of the change on the Website. Your continued access to or use of the Platform after the effective date of such changes will be subject to the revised Privacy Policy.
+
+**Last Amended:** 25 May 2018
 
 Link to prior versions
 
 You will find a link to prior versions of our Privacy Policy and a summary of the change(s) below.
 
+*   Mai 2017
+    
 *   March 2016
     
 *   January 2016 - Email-less sign-up and interest based advertising.
