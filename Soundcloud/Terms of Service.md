@@ -1,16 +1,16 @@
-_SoundCloud is updating its Terms of Use on May 25, 2018. See the updated terms at https://soundcloud.com/terms-of-use/05-2018._
-
 SoundCloud Terms of Use
 
 Welcome to SoundCloud®, a service provided by SoundCloud Limited (**“SoundCloud”**, **“we”** **“our”**, or **“us”**).
 
-These Terms of Use govern your use of soundcloud.com and m.soundcloud.com (together, the **“Website”**), our mobile and desktop apps (our **"Apps"**) and all related players, widgets, tools, applications, data, software, APIs (which may also be subject to separate API Terms of Use) and other services provided by SoundCloud (the **“Services”**).
+These Terms of Use govern your use of soundcloud.com and m.soundcloud.com (together, the **“Website”**), our mobile and desktop apps (our **"Apps"**) and all related players, widgets, tools, features, applications, data, software, APIs (which may also be subject to separate API Terms of Use) and other services provided by SoundCloud (the **“Services”**).
 
-These Terms of Use, together with our Privacy Policy, Cookies Policy, Community Guidelines and any other terms specifically referred to in any of those documents, constitute a legally binding agreement (the **“Agreement”**) between you and SoundCloud in relation to your use of the Website, Apps and Services (together, the **“Platform”**).
+These Terms of Use, together with our Community Guidelines and any other terms specifically referred to in any of those documents, all of which are incorporated by reference into these Terms of Use, constitute a legally binding contract (the **“Agreement”**), between you and SoundCloud in relation to your use of the Website, Apps and Services (together, the **“Platform”**).
 
-These Terms of Use are divided into the following sections:
+Please also be sure to review our Privacy Policy and Cookies Policy for more information on how we collect and use data relating to the use and performance of the Platform, as well as our responsibilities and your rights in relation to any processing of your personal data.
 
-*   Acceptance of Terms of Use Basically, by using SoundCloud® you accept our Terms of Use, Privacy Policy, Cookies Policy and Community Guidelines and agree to abide by them.
+These Terms of Use consist of the following sections:
+
+*   Acceptance of Terms of Use Basically, by using SoundCloud® you accept our Terms of Use and Community Guidelines and agree to abide by them.
     
 *   Changes to Terms of Use This section explains that our terms of Use may change from time to time.
     
@@ -42,7 +42,7 @@ These Terms of Use are divided into the following sections:
     
 *   Indemnification If you use the Platform in a way that results in damage to us, you will need to take responsibility for that.
     
-*   Data protection, privacy and cookies It is really important to us that you understand how we use your personal information. All information is collected, stored and used in accordance with our Privacy Policy, so please make sure that you read and understand that policy. Like most other websites, we also use cookies to help us analyze how people use SoundCloud, so that we can keep improving our service. Our use of cookies is explained in our Cookies Policy. Please note: if you choose not to disable cookies within your browser, you will be indicating your consent to our use of cookies as described in our Cookies Policy, so please make sure that you read the policy carefully.
+*   Data protection, privacy and cookies It is really important to us that you understand how we use your personal information. All information is collected, stored and used in accordance with our Privacy Policy, so please make sure that you read and understand that policy. Like most other websites, we also use cookies to help us analyze how people use SoundCloud, so that we can keep improving our service. Our use of cookies is explained in our Cookies Policy.
     
 *   Meetups This section deals with SoundCloud® meetups and explains that these are not “official’ SoundCloud events, so we cannot be responsible for anything that happens at meetups.
     
@@ -71,23 +71,33 @@ These Terms of Use are divided into the following sections:
 
 Acceptance of Terms of Use
 
-Please read these Terms of Use, Privacy Policy, Cookies Policy and Community Guidelines, very carefully. **If you do not agree to any of the provisions set out in those documents, you should not use the Website, Apps or any of the Services.** By accessing or using the Platform, registering an account, or by viewing, accessing, streaming, uploading or downloading any information or content from or to the Platform, you represent and warrant that you have read and understood the Terms of Use, Privacy Policy, Cookies Policy and Community Guidelines, will abide by them, and that you are either 18 years of age or more, or the applicable age of majority in your jurisdiction, or if you are under 18 years of age or the age of majority in your jurisdiction, you are 13 years of age or more and have your parent(s)’ or legal guardian(s)’ permission to use the Platform.
+Please read these Terms of Use, Privacy Policy, Cookies Policy and Community Guidelines, very carefully. **If you do not agree to any of the provisions set out in those documents, you should not use the Website, Apps or any of the Services.** By accessing or using the Platform, registering an account, or by viewing, accessing, streaming, uploading or downloading any information or content from or to the Platform, you represent and warrant that you have read and understood the Terms of Use and Community Guidelines, will abide by them, and that you are either 18 years of age or more, or the applicable age of majority in your jurisdiction, or if you are under 18 years of age or the age of majority in your jurisdiction, you are 16 years of age or more if you reside in the European Union or 13 years of age or more if you reside in the United States or anywhere else.
 
 Changes to Terms of Use
 
-We reserve the right to change, alter, replace or otherwise modify these Terms of Use at any time. The date of last modification is stated at the end of these Terms of Use. It is your responsibility to check this page from time to time for updates.
+We reserve the right to change, alter, replace or otherwise modify these Terms of Use at any time, for example to address legal or regulatory changes or changes to features or functionality made available through the Platform, in our discretion. The date of last modification is stated at the end of these Terms of Use. It is your responsibility to check this page from time to time for updates.
 
-When we make any updates to these Terms of Use, we will highlight this fact on the Website. In addition, if you register an account and these Terms of Use are subsequently changed in any material respect (for example, for security, legal, or regulatory reasons), we will notify you in advance by sending a message to your SoundCloud® account and/or an email to the email address that you have provided to us, and the revised Terms of Use will become effective six (6) weeks after such notification. You will have no obligation to continue using the Platform following any such notification, but if you do not terminate your account as described in the Termination section below during such six (6) week period, your continued use of the Platform after the end of that six (6) week period will constitute your acceptance of the revised Terms of Use.
+When we make any material changes to these Terms of Use, we will provide you with prominent notice under the circumstances, including for example displaying a notice within the Platform and/or by sending you an email to the email address that you have provided us or a message to your SoundCloud account, and the revised Terms of Use will become effective two (2) weeks after such notification.
+
+You will have no obligation to continue using the Platform following any such notification, but if you do not terminate your account as described in the Termination section below during such two (2) week period, your continued use of the Platform after the end of that two (2) week period will constitute your acceptance of the revised Terms of Use.
 
 Description of the Platform
 
 The Platform is a hosting service. Registered users of the Platform may submit, upload and post audio, text, photos, pictures, graphics, comments, and other content, data or information (**“Content”**), which will be stored by SoundCloud at the direction of such registered users, and may be shared and distributed by such registered users, and other users of the Platform, using the tools and features provided as part of the Platform and accessible via the Website, Apps and elsewhere. The Platform also enables registered users to interact with one another and to contribute to discussions, and enables any user of the Website, Apps or certain Services (who may or may not be registered users of the Platform) to view, listen to and share Content uploaded and made available by registered users.
 
-We may, from time to time, release new tools and resources on the Website, release new versions of our Apps, or introduce other services and/or features for the Platform. Any new services and features will be subject to these Terms of Use as well as any additional terms of use that we may release for those specific services or features.
+The Platform also includes social and interactive features that enable users to engage with and learn from the SoundCloud community in order to build a following and ensure you get the content that inerests you most. For example, users who upload content to SoundCloud will gain access to our creator stats feature, which provides creators with insights into how the content they upload fares among users, including which users are top listeners and downloaders of such content.
+
+Some features of our Platform are only available to registered users who subscribe to a certain Service (see Subscriptions and Gift Codes below). SoundCloud however remains free for users that choose not to subscribe to such Services. In order to make the Platform available for free and provide you with personally relevant features, we serve tailored ads on the Platform on behalf of third party advertisers. To that end, we use information that you make available to us when you interact with the Platform to inform the nature of the ads we show you and provide you with a customized experience. More information on how we use data to show you personalized ads is described in our Privacy Policy.
+
+We may, from time to time, release new tools and resources on the Website, release new versions of our Apps, or introduce other services and/or features for the Platform. Any new services and features will be subject to these Terms of Use as well as any additional terms and conditions that we may release for those specific services or features.
 
 Your SoundCloud account
 
-You are not obliged to register to use the Platform. However, access to the Apps and certain Services is only available to registered users. As an example, our App, SoundCloud Pulse, enables registered users, who upload and make available their Content to other users, to receive instant feedback on their tracks, communicate with their listeners and manage their Content any time.
+You are not obliged to register to use the Platform. However, access to the Apps and certain Services is only available to registered users. As an example, our App, SoundCloud Pulse, enables registered users, who upload and make available their Content to other users, to receive instant feedback on the performance of their tracks, communicate with their listeners, and manage their Content anytime.
+
+In order for you to enagage with other SoundCloud listeners and creators, we enable you to create and personalize a public profile on SoundCloud. To enable you to do that, you must provide us with the information you want to display on such profile.
+
+In order to help you to navigate and discover content on the Platform that interests you, as a registered user you will also receive auto-generated personalized recommendations of other content that might appeal to you, based on your listening habits.
 
 When you register to use the Platform, you will provide us with your email address, and will choose a username and password for your account. You must ensure that the email address that you provide is, and remains, valid. Your email address and any other information you chose to provide about yourself will be treated in accordance with our Privacy Policy.
 
@@ -304,7 +314,7 @@ You hereby agree to indemnify, defend and hold harmless SoundCloud, its successo
 
 Data protection, privacy and cookies
 
-All personal data that you provide to us in connection with your use of the Platform is collected, stored, used and disclosed by SoundCloud in accordance with our Privacy Policy. In addition, in common with most online services, we use cookies to help us understand how people are using the Platform, so that we can continue to improve the service we offer. Our use of cookies, and how to disable cookies, is explained in our Cookies Policy. By accepting these Terms of Use and using the Platform, you also accept the terms of the Privacy Policy and our Cookies Policy.
+All personal data that you provide to us in connection with your use of the Platform is collected, stored, used, disclosed and otherwise processed by SoundCloud in accordance with our Privacy Policy. In addition, in common with most online services, we use cookies to help us understand how people are using the Platform, so that we can continue to improve the service we offer. Our use of cookies, and how to disable cookies, is explained in our Cookies Policy.
 
 Meetups
 
@@ -362,7 +372,7 @@ Should one or more provisions of these Terms of Use be found to be unlawful, voi
 
 Entire agreement
 
-These Terms of Use, together with the Community Guidelines, Privacy Policy and Cookies Policy, constitute the entire agreement between you and SoundCloud with respect to your use of the Platform (other than any use of SoundCloud’s APIs which may also be subject to separate \[API Terms of Use\]), and supersede any prior agreement between you and SoundCloud. Any modifications to this Agreement must be made in writing.
+These Terms of Use, together with the Community Guidelines, constitute the entire agreement between you and SoundCloud with respect to your use of the Platform (other than any use of SoundCloud’s APIs which may also be subject to separate \[API Terms of Use\]), and supersede any prior agreement between you and SoundCloud. Any modifications to this Agreement must be made in writing.
 
 Third party rights
 
@@ -382,12 +392,12 @@ Disclosures
 
 The services hereunder are offered by SoundCloud Limited, a company incorporated under the laws of England &. Wales and with its main place of business at Rheinsberger Str. 76/77, 10115 Berlin, Germany. More information about SoundCloud is available here. You may contact us by sending correspondence to the foregoing address or by emailing us at contact@soundcloud.com. If you are a resident of the State of California, you may have these Terms of Use mailed to you electronically by sending a letter to the foregoing address with your electronic mail address and a request for these Terms of Use.
 
-**Last Amended:** 29 March 2016
+**Last Amended:** 25 May 2018
 
 Link to prior versions
 
 You will find a link to prior versions of our Terms of Use below.
 
+*   March 2016
 *   January 2016
-    
 *   March 2013
