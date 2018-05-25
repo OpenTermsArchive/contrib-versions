@@ -1,5 +1,6 @@
 Meredith Privacy PolicyEffective February 16, 2017Quick Links
 
+*   To read our EU privacy policy click here
 *   To read our detailed privacy policy click here
 *   To opt-out of many third-party tracking technologies for interest-based advertising, follow the instructions here
 *   To opt-out of precise location tracking of your mobile device, follow the instructions here
