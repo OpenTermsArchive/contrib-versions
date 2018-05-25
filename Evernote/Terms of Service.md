@@ -265,3 +265,5 @@ A couple of final, but important, points. First, these Terms constitute the enti
 Second, you acknowledge and agree that each affiliate of Evernote shall be a third party beneficiary to these Terms and that such other companies shall be entitled to directly enforce, and rely upon, any provision of these Terms which confers a benefit on (or provides rights in favor of) them. Other than this, no other person or company shall be a third party beneficiary to these Terms. 
 
 Finally, the section headings in these Terms of Service are for convenience only and have no legal or contractual effect.
+
+In the event of a conflict, the English language version shall govern.
