@@ -1,106 +1,170 @@
-Welcome to the Oath Privacy Center
+*   CGU
+*   Vie privée Back
+    *   Sujets
+    *   Produits
+    *   Commandes
+    *   Tableau de bord
+    *   Publicités pertinentes
+*   Propriété Intellectuelle
 
-_In June 2017, we announced that Yahoo and AOL had joined to become Oath, a digital and mobile media company and part of Verizon.  We’re now bringing Oath and Yahoo under a single privacy policy.  Some things haven’t changed, like the control tools we provide to help you manage your experience with us.  If you have an existing Yahoo or AOL account, you will need to agree to this Privacy Policy.  If you have not yet agreed to this Privacy Policy, the legacy Yahoo Privacy Policy or legacy Oath Privacy Policy (for AOL) still apply to your account.  For Oath products or services that are accessed without signing into an account, this Privacy Policy applies to those products and services starting May 25, 2018.  If you are creating a new account, the terms below apply starting today._ 
+*   CGU
+*   Vie privée
+    *   Sujets
+    *   Produits
+    *   Commandes
+    *   Tableau de bord
+    *   Publicités pertinentes
+*   Propriété Intellectuelle
 
-_Last updated: April 2018_
+Bienvenue dans Oath Vie Privée
 
-Our Privacy Pledge
+_En juin 2017, nous avions annoncé que Yahoo et AOL s'étaient associées pour devenir Oath, une société de médias numériques et mobiles appartenant à Verizon. Oath et Yahoo ont désormais la même Politique relative à la vie privée.  Certains aspects n'ont pas changé, comme les outils de contrôle que nous mettons à votre disposition pour vous aider à paramétrer votre expérience sur nos Services.  Si vous possédez déjà un compte Yahoo ou AOL, vous devrez accepter certaines conditions de la présente Politique relative à la vie privée.  Si vous n’avez pas encore accepté la présente Politique relative à la vie privée, votre compte est toujours soumis à l’ ancienne Politique relative à la vie privée de Yahoo ou à l’ancienne Politique relative à la vie privée d’Oath (pour AOL).  La présente Politique relative à la vie privée s’appliquera à compter du 25 mai 2018 pour les produits ou services Oath auxquels vous accédez sans vous connecter à votre compte.  Si vous créez un nouveau compte, les conditions ci-dessous s'appliquent dès aujourd'hui._ 
 
-Our commitment is to put users first.  We strive to be transparent about how we collect and use your information, to keep your information secure and to provide you meaningful choices.  This Privacy Policy is meant to help you understand what information Oath, its affiliates and its house of global brands (“Oath,” “us,” “our” or “we”) collect, why we collect it and what we do with it. This policy applies to Oath brands, websites, apps, advertising services, products, services or technologies (we’ll collectively refer to these as “Services”).  Additional privacy practices for certain Services can be found in Details for Specific Products and Services.
+_Dernière mise à jour : mai 2018_
 
-Your Controls
+Notre engagement de protection de la vie privée
 
-We believe you should have tools to control your information. You can find controls to manage or review your account information, marketing preferences, location data, and search history at Privacy Controls.  Some of our Services provide additional controls and privacy practices.  (See, Details for Specific Products and Services)
+Notre engagement est de donner la priorité aux utilisateurs.  Nous nous efforçons d’être transparents sur la façon dont nous collectons et utilisons vos informations, afin d’assurer la sécurité de vos informations et de vous permettre de faire des choix judicieux.  La présente Politique relative à la vie privée a pour but de vous aider à comprendre quelles informations sont collectées par Oath, ses filiales et l’ensemble de sa famille de marques internationales, les raisons pour lesquelles nous les collectons et ce que nous en faisons. Si vous êtes situé en Europe, au Moyen-Orient ou en Afrique (« EMEA »), la présente Politique relative à la vie privée s'applique à vous.  Elle explique comment Oath (EMEA) Limited (« Oath ), société établie en Irlande qui vous fournit les services d’Oath, contrôle et traite vos informations dans le cadre de ses marques, sites web, applications, services publicitaires, produits, services ou technologies (ci-après dénommés collectivement les « Services »).  Consultez la page Informations sur des produits et services spécifiques pour prendre connaissance de règles de confidentialité additionnelles relatives à certains Services.  
 
-Information Collection and Use - General
+La présente Politique relative à la vie privée ne s'applique pas aux pratiques des sociétés affiliées à Oath ou des sociétés qui ne sont pas détenues ou contrôlées par Oath.
 
-We may collect and combine information when you interact with Oath Services including:
+Vos droits et choix en matière de confidentialité 
 
-*   **Information You Provide to Us.** We may collect the information that you provide to us, such as:
-    *   When you create an account with an Oath Service or brand. (Please note, when you use our Services, we may recognize you or your devices even if you are not signed in to our Services.)  Oath may use device IDs, cookies, and other signals, including information obtained from third parties, to associate accounts and/or devices with you.
-    *   When you use our Services to communicate with others or post, upload or store content (such as comments, photos, voice inputs, videos, emails, messaging services and attachments).
-    *   Oath analyzes and stores all communications content, including email content from incoming and outgoing mail.  This allows us to deliver, personalize and develop relevant features, content, advertising and Services.
-    *   When you otherwise use our Services, such as title queries, watch history, page views, search queries, view the content we make available or install any Oath software such as plugins.
-    *   When you sign up for paid Services, use Services that require your financial information or complete transactions with us or our business partners, we may collect your payment and billing information.
-*   **Device Information.**  We collect information from your devices (computers, mobile phones, tablets, etc.), including information about how you interact with our Services and those of our third-party partners and information that allows us to recognize and associate your activity across devices and Services.  This information includes device specific identifiers and information such as IP address, cookie information, mobile device and advertising identifiers, browser version, operating system type and version, mobile network information, device settings, and software data.  We may recognize your devices to provide you with personalized experiences and advertising across the devices you use. 
-*   **Location Information.**  We collect location information from a variety of sources.  You can learn more about and manage your location permissions on our Locations page and by visiting the location settings tool on your devices.  
-*   **Information from Cookies and Other Technologies.**
-    *   We collect information when you access content, advertising, sites, interactive widgets, applications, and other products (both on and off of our Services) where Oath’s data collection technologies (such as web beacons, development tools, cookies and other technologies, etc.) are present. These data collection technologies allow us to understand your activity on and off our Services and to collect and store information when you interact with Services we offer to partners.
-    *   This information also includes the kind of content or ads served, viewed or clicked on. the frequency and duration of your activities. the sites or apps you used before accessing our Services and where you went next. whether you engaged with specific content or ads. and whether you went on to visit an advertiser's website, downloaded an advertiser’s app, purchased a product or service advertised, or took other actions. 
-*   **Information from Others.**  We collect information about you when we receive it from other users, third-parties, and affiliates, such as: 
-    *   When you connect your account to third-party services or sign in using a third-party partner (like Facebook or Twitter).
-    *   From publicly-available sources.
-    *   From advertisers about your experiences or interactions with their offerings.
-    *   When we obtain information from third-parties or other companies, such as those that use our Services. This may include your activity on other sites and apps as well as information those third-parties provide to you or us. 
-    *   We may also receive information from Verizon and will honor the choices Verizon customers have made about the uses of this information when we receive and use this data.
+Nous pensons que vous devez avoir le contrôle de vos informations. Dans certains cas, vous pouvez accéder au Tableau de bord sur la vie privée pour consulter ou modifier les informations de votre compte, notamment votre historique de recherche, vos préférences marketing, données de localisation, choix mobiles, paramètres publicitaires et paramètres de suppression de votre compte. Certains de nos Services proposent des paramètres supplémentaires.  Pour en savoir plus, veuillez consulter notre page Informations sur des produits et services spécifiques.  
+  
+Dans de nombreux cas où nous traitons vos informations, vous pouvez également être en droit de restreindre ou de limiter la manière dont nous utilisons vos informations.  Dans certaines circonstances, lorsque nous nous basons sur les « Intérêts légitimes » pour traiter vos informations tel que décrit à la section « Bases juridiques » figurant ci-dessous, vous avez également le droit de vous opposer au traitement de vos informations par nos soins.  
+  
+Vous pouvez également demander que nous rectifiions vos informations.  et que nous les supprimions. Dans ce cas, Oath satisfera à cette demande, à moins que certaines circonstances exceptionnelles se présentent et permettent à Oath de conserver certaines informations vous concernant.  
+  
+Vous êtes également en droit de demander une copie de vos informations dans un format facilement accessible.  Dans certaines circonstances, vous pouvez également nous demander de transmettre certaines de vos informations à des tiers.  Oath vous aidera à exercer ces droits importants. Veuillez utiliser le « formulaire d’avis » disponible à la section Questions et suggestions ci-dessous pour découvrir comment recevoir un soutien dans l’exercice de ces droits.
 
-How We Use This Information
+Retrait de votre accord
 
-We are able to deliver, personalize, and improve our Services by combining and using the information we have about you (including information we receive on and off our Services) to understand how you use and interact with our Services and the people or things you’re connected to and interested in.  We also may use the information we have about you for the following purposes: 
+Vous êtes en droit de retirer à tout moment votre accord quant au traitement de vos informations et à l'utilisation de nos Services. Vous pouvez exercer ce droit à l’aide des contrôles disponibles dans le Tableau de bord sur la vie privée, ou en utilisant le « formulaire d’avis » disponible à la section Questions et suggestions ci-dessous pour recevoir un soutien dans l’exercice de ces droits. De la même façon que vous pouvez donner votre accord en interagissant avec nos Services, vous pouvez également le retirer par le biais de nos Services. Vous pouvez choisir de supprimer votre compte Oath en accédant aux paramètres de votre compte, auquel cas nous supprimerons vos informations.   
+  
+Si vous retirez votre accord quant à l'utilisation ou au partage de vos informations aux fins énoncées dans la présente Politique relative à la vie privée, il se peut que vous n'ayez pas accès à tout ou partie de nos Services et que nous ne soyons pas en mesure de vous fournir tout ou partie des Services en vertu de la présente Politique relative à la vie privée et de nos Conditions Générales d’Utilisation. Dans certains cas, nous pouvons continuer à traiter vos informations après que vous ayez retiré votre accord si nous disposons d’une base juridique nous permettant de le faire, ou si le retrait de votre accord se limite à certaines activités de traitement. Par exemple, nous pouvons conserver des informations si nous sommes dans l’obligation légale de le faire, pour résoudre des litiges et faire respecter nos accords.
 
-*   Provide, maintain, improve, and develop relevant features, content, and Services.  
-*   Analyze your content and other information (including emails, instant messages, posts photos, attachments, and other communications).  You can review and control certain types of information tied to your Oath account by using Privacy Controls. 
-*   Fulfill your requests and when authorized by you. 
-*   Help advertisers and publishers connect to offer relevant advertising in their apps and websites.
-*   Match and serve targeted advertising (across devices and both on and off of our Services) and provide targeted advertising based on your device activity, inferred interests and location information.  
-*   Contact you with information about your account or with marketing messages, which you can also control. 
-*   Associate your activity across our Services and your different devices as well as associate any accounts you may use across Oath Services together.  We may associate activity and accounts under a single user ID. 
-*   Carry out or support promotions.
-*   Conduct research and support innovation. 
-*   Create analytics and reports for external parties, including partners, publishers, advertisers, apps, third-parties and the public regarding the use of and trends within our Services and ads, including showing trends to partners regarding general preferences, the effectiveness of ads and information on user experiences. These analytics and reports may include aggregate or pseudonymized information.
-*   Provide location-based Services, advertising, search results, and other content consistent with your location settings.
-*   Combine information we have about you with information we obtain from business partners or other companies, such as your activities on other sites and apps.
-*   Detect and defend against fraudulent, abusive, or unlawful activity.
+Collecte et utilisation des données - Généralités
 
-We provide you with controls to manage your experience with us.  For example, you can review or edit your account information, manage your marketing preferences, or opt out of targeted ads.  If you opt out, you will continue to see ads, but they may not be as relevant or useful to you. 
+Certaines catégories d’informations collectées par Oath sont nécessaires pour utiliser nos Services, comme les informations que vous devez fournir lorsque vous souscrivez à certains Services.  Nous pouvons collecter et combiner des informations lorsque vous interagissez avec des Services Oath, notamment les informations décrites ci-dessous.
 
-How We Share This Information
+*   **Informations que vous nous fournissez.** Nous collectons les informations que vous nous fournissez afin de nous permettre de faire fonctionner nos Services et de les mettre à votre disposition, notamment : 
+    *   Lorsque vous créez un compte pour un Service ou une marque Oath. (veuillez noter que lorsque vous utilisez nos Services, nous pouvons être en mesure de vous identifier ou d’identifier vos appareils, même si vous n'êtes pas connecté à nos Services.)  Oath peut utiliser des identifiants d'appareils, des cookies et d'autres données d’identification, notamment des informations obtenues auprès de tiers, pour vous associer à des comptes et/ou à des appareils.  
+    *   Lorsque vous utilisez nos Services pour communiquer avec d'autres personnes ou publier, télécharger ou stocker du contenu (comme des commentaires, photos, entrées vocales, vidéos, emails, services de messagerie et pièces jointes).
+    *   Lorsque vous utilisez autrement nos Services, comme lorsque vous consultez le contenu que nous mettons à votre disposition, lorsque vous effectuez des recherches et lorsque vous installez tous logiciels Oath, tels que des plug-ins.
+    *   Lorsque vous souscrivez à des Services payants, lorsque vous utilisez des Services qui requièrent vos coordonnées bancaires ou lorsque vous effectuez des transactions auprès de nous ou de nos partenaires commerciaux, nous pouvons collecter vos informations de paiement et de facturation afin de vous fournir lesdits Services payants. Nous pouvons garder en mémoire les informations de paiement que vous avez saisies lors d’un achat antérieur sur un Service payant et nous pouvons vous donner la possibilité d’utiliser ces informations de paiement lors de l'achat d'un nouveau produit. 
+*   **Informations sur les appareils.** Nous collectons des informations à partir de vos appareils (ordinateurs, téléphones portables, tablettes, etc.) afin de vous fournir nos Services, notamment des informations sur la façon dont vous interagissez avec nos Services et ceux de nos partenaires tiers, ainsi que des informations qui nous permettent de reconnaître et d’associer votre activité sur tous vos appareils et pour tous les Services.  Ces informations comprennent des identifiants et informations spécifiques aux appareils, comme l’adresse IP, les informations de cookies, les identifiants publicitaires et d’appareils mobiles, la version du navigateur, le type et la version du système d’exploitation, les informations relatives au réseau mobile, les paramètres de l’appareil, ainsi que les données logicielles.  
+*   **Informations de localisation.** Nous collectons des informations de localisation à partir de diverses sources.  Pour obtenir des informations supplémentaires sur les autorisations de localisation et les gérer, consultez notre page Localisations ou accédez aux paramètres de localisation sur vos appareils.  
+*   **Informations provenant des cookies et d’autres technologies.**
+    *   Nous collectons des informations lorsque vous accédez à du contenu, des publicités, sites, widgets interactifs, applications et à d’autres produits (dans le cadre de nos Services et en dehors) qui intègrent des technologies Oath de collecte de données (comme des balises web, des outils de développement, des cookies et autres technologies, etc.). Ces technologies de collecte de données nous permettent de comprendre votre activité, dans le cadre de nos Services et en dehors, et de collecter et stocker des informations lorsque vous interagissez avec les Services que nous proposons à nos partenaires.
+    *   Ces informations incluent le type de contenus ou de publicités diffusés, visionnés ou sur lequel vous avez cliqué, la fréquence et la durée de vos activités, les sites ou applications que vous avez utilisés avant d'accéder à nos Services et ce que vous avez consulté ensuite . si vous avez consulté un contenu ou une publicité spécifique et, enfin, si vous avez visité le site d'un annonceur, téléchargé l’application d'un annonceur, acheté un produit ou un service faisant l’objet d’une publicité, ou si vous avez effectué d’autres actions. 
+*   **Informations fournies par des tiers.**  Nous collectons des informations sur vous lorsque nous les recevons d’autres utilisateurs, de tiers et d’affiliées, notamment : 
+    *   Lorsque vous liez votre compte à des services tiers ou lorsque vous vous connectez par l’intermédiaire d’un tiers partenaire (comme Facebook ou Twitter).
+    *   De sources publiques.
+    *   D’annonceurs concernant votre expérience ou vos interactions avec leurs offres.
+    *   Lorsque nous obtenons des informations de la part de tiers ou d’ autres sociétés, comme celles qui utilisent nos Services. Ces informations peuvent inclure votre activité sur d'autres sites et applications, ainsi que des informations que ces tiers vous envoient ou nous envoient. 
+    *   Les informations que nous recevons de la part de Verizon seront utilisées conformément à la politique de confidentialité de Verizon.
 
-Oath shares information within its affiliated brands and companies and with Verizon.  We also share information we have about you for the purposes described in this Privacy Policy, including to provide Services that you have requested (including when you connect with third-party apps and widgets).  We do not sell, license or share information that individually identifies our customers with companies, organizations or individuals outside of Oath unless one of the following circumstances applies:
+Utilisation de ces informations
 
-*   **With Your Consent.** We will share information with companies, organizations or individuals outside of Oath when we have your consent. 
-*   **With Verizon.** As part of Verizon, Oath and its affiliates may, to the extent permitted by law and consistent with user controls, share information with Verizon and Verizon affiliates. This information will be used consistent with Verizon’s privacy policy.    
-*   **Within Oath.** Information may also be shared within Oath, including with other Oath Services and affiliates.  Oath affiliates may use the information in a manner consistent with their privacy policies.
-*   **With Partners.** We may share your information with nonaffiliated companies who are:
-    *   **Trusted Partners.** We provide user information to trusted partners who work on behalf of or with Oath based on our directions and in compliance with appropriate confidentiality measures.  Learn more. 
-    *   **Advertising, Analytics and Business Partners (Limited to Non-Personally Identifiable Information).** We may share aggregated or pseudonymous information (including demographic information) with partners, such as publishers, advertisers, measurement analytics, apps, or other companies.  For example, we may tell an advertiser how its ads performed or report how many people installed an app after seeing a promotion.  We do not share information that personally identifies you (personally identifiable information is information like name or email address) with these partners, such as publishers, advertisers, measurement analytics, apps, or other companies.   
-        When you use third-party apps, websites or other products integrated with our Services, they may collect information about your activities subject to their own terms and privacy policies.   
-        We allow other companies that show advertisements on our webpages or apps to collect information from your browsers or devices.  Other companies' use of cookies and other data collection technologies are subject to their own privacy policies, not this one.  Like many companies, we may allow cookie matching with select partners.  But, these parties are not authorized to access Oath cookies.  
-*   **For Legal and Other Purposes.**  We may access, preserve and disclose information to investigate, prevent, or take action in connection with: (i) legal process and legal requests. (ii) enforcement of the Terms. (iii) claims that any content violates the rights of third-parties. (iv) requests for customer service. (v) technical issues. (vi) protecting the rights, property or personal safety of Oath, its users or the public. (vii) establishing or exercising our legal rights or defending against legal claims. or (viii) as otherwise required by law.
-    *   This may include responding to lawful governmental requests.  Learn more about how we evaluate and respond to these requests. 
-*   **New Ownership.**  If the ownership or control of all or part of Verizon, Oath or a specific Services changes as a result of a merger, acquisition or sale of assets, we may transfer your information to the new owner. 
+Afin de fournir, personnaliser et améliorer nos Services, nous combinons et utilisons les informations dont nous disposons sur vous (notamment les informations que nous recevons dans le cadre de nos Services et en dehors) pour comprendre comment vous utilisez nos Services et interagissez avec eux, ainsi que les personnes ou choses auxquelles vous êtes lié et qui vous intéressent. Nous pouvons également utiliser les informations que nous détenons à votre sujet des manières et aux fins suivantes :
 
-Details for Specific Products and Services
+*   Pour fournir, assurer la maintenance, améliorer et développer des fonctionnalités, contenus et Services pertinents.  
+*   Pour analyser votre contenu et d’autres informations (notamment les emails entrants et sortants, messages instantanés, publications, photos, pièces jointes et autres communications) afin d'assurer la sécurité de nos Services et nous aider à personnaliser davantage le contenu, les Services et les publicités que nous vous fournissons.  Vous pouvez consulter et gérer certains types d’informations associées à votre compte Oath en accédant à vos paramètres de confidentialité.
+*   Pour répondre à vos demandes et lorsque vous nous donnez votre autorisation. 
+*   Pour permettre aux annonceurs et éditeurs d’interagir afin de proposer des publicités pertinentes dans leurs applications et sur leurs sites web.
+*   Pour associer et diffuser des publicités ciblées (sur l’ensemble des appareils, dans le cadre de nos Services et en dehors) et proposer des publicités ciblées selon l’activité sur votre appareil, vos centres d’intérêt présumés et vos informations de localisation.  
+*   Pour vous communiquer des informations sur votre compte ou des messages marketing, que vous pouvez également contrôler. 
+*   Pour associer votre activité sur l'ensemble de nos Services et sur vos différents appareils, et pour associer tous les comptes que vous pouvez utiliser sur l'ensemble des Services Oath. Nous pouvons associer l'activité et les comptes sous un seul et même identifiant d’utilisateur. 
+*   Pour réaliser ou prendre en charge des promotions.
+*   Pour mener des recherches et soutenir l’innovation. 
+*   Pour effectuer des analyses statistiques et générer des rapports destinés à des acteurs extérieurs, notamment à des partenaires, éditeurs, annonceurs, applications, tiers et au public, concernant l'utilisation et les tendances au sein de nos Services et de nos publicités, notamment la communication aux partenaires des tendances relatives aux préférences générales, à l'efficacité des publicités et aux informations sur l’expérience des utilisateurs. Ces analyses statistiques et rapports peuvent inclure des informations regroupées ou rendues anonymes.
+*   Pour fournir des Services, des publicités, des résultats de recherche basés sur la localisation et d’autres contenus pertinents au regard de vos paramètres de localisation.
+*   Pour combiner des informations que nous détenons sur vous avec des informations que nous obtenons auprès de nos partenaires commerciaux ou d’autres sociétés, comme vos activités sur d'autres sites et applications, afin de garantir que les publicités, Services et contenus que nous vous fournissons correspondent davantage à vos intérêts.
+*   Pour détecter toute activité frauduleuse, abusive ou illégale et vous en préserver, et garantir la sécurité de nos Services.
 
-Additional privacy practices for certain Oath Services are included here.
+Nous mettons à votre disposition des paramètres pour que vous puissiez gérer votre expérience dans nos Services et produits. Pour évaluer et gérer vos paramètres de confidentialité, veuillez visiter notre Tableau de bord sur la vie privée.  
 
-**Information Security and Data Retention**  
-Oath has technical, administrative and physical safeguards in place to help protect against unauthorized access, use or disclosure of customer information we collect or store.      
-To learn more about security, including the steps we have taken and steps you can take, please read Security at Oath.
+Quelles sont nos bases juridiques pour l'utilisation de l'information
 
-Protecting Children’s Privacy
+Le traitement légal de vos informations s’appuie sur trois principes distincts. Premièrement, nous devons traiter vos informations de façons particulières afin de vous fournir nos Services, conformément à nos Conditions Générales d’Utilisation. Ce traitement est nécessaire à l'exécution du contrat conclu entre vous et nous. En effet, nos Conditions Générales d’Utilisation stipulent clairement que le traitement de vos informations dans le but de personnaliser votre contenu et les publicités est un aspect nécessaire des Services que nous fournissons. Deuxièmement, nous respectons rigoureusement l’accord que vous nous avez donné quant à l’utilisation de vos informations à des fins particulières. Troisièmement, dans certains cas, il est possible que nous traitions vos informations quand cela s’avère nécessaire pour défendre nos intérêts légitimes ou les intérêts légitimes de tiers, dans les cas où vos droits ou intérêts ne prévalent pas sur nos intérêts légitimes.  De temps à autre, Oath peut s'appuyer sur d'autres bases juridiques pour traiter vos informations, notamment pour protéger les intérêts vitaux d'un utilisateur (comme en cas de risque de préjudice imminent) ou pour se conformer à une obligation légale. Veuillez consulter notre page Bases juridiques.   
+ 
 
-Our Services are for a general audience.  We do not knowingly collect, use, or share information that could reasonably be used to identify children under age 13 without prior parental consent or consistent with applicable law.  With parental permission, a child under age 13 might have an Oath Family Account. Visit Children's Privacy &. Family Accounts to learn more about children’s privacy at Oath.
+Partage de ces informations
 
-Data Processing and Transfers
+Oath partage vos informations avec ses marques et sociétés affiliées, ainsi qu’avec Verizon. Nous partageons également les informations que nous détenons sur vous conformément à la présente Politique relative à la vie privée, notamment pour fournir les Services que vous avez demandés (notamment lorsque vous vous connectez à des applications et widgets tiers). Nous ne vendons, n'autorisons ou ne partageons pas d’informations permettant d’identifier individuellement nos clients avec des sociétés, organisations ou personnes externes à Oath, à moins que l'une des circonstances suivantes ne se présente :
 
-When you use or interact with any of our Services, you consent to the data processing, sharing, transferring and uses of your information as outlined in this Privacy Policy. Regardless of the country where you reside, you authorize us to transfer, process, store and use your information in countries other than your own in accordance with this Privacy Policy and to provide you with Services.  Some of these countries may not have the same data protection safeguards as the country where you reside. 
+*   **Avec votre consentement.** Nous partagerons vos informations avec des entreprises, des organisations ou des personnes externes à Oath uniquement après avoir recueilli votre consentement. 
+*   **Avec Verizon.** En tant que filiale de Verizon, Oath peut, dans la mesure permise par la loi et conformément aux préférences des utilisateurs, partager des informations avec Verizon et ses affiliées. Ces informations seront utilisées conformément à la Politique relative à la vie privée de Verizon.    
+*   **Au sein d’Oath.** Vos informations peuvent également être partagées au sein d’Oath, notamment avec d’autres Services et affiliées d’Oath. Les affiliées d’Oath peuvent utiliser ces informations conformément à leurs propres politiques de confidentialité.
+*   **Avec nos partenaires.** Nous pouvons partager vos informations avec des entreprises non affiliées à Oath, à savoir :
+    *   **Partenaires** **fiables.**  Nous communiquons des informations sur les utilisateurs à des partenaires de confiance, qui travaillent pour le compte d’Oath conformément à nos instructions et en respectant des mesures appropriées en matière de confidentialité. En savoir plus. 
+    *   **Partenaires publicitaires, d’analyse statistique et commerciaux.** Nous pouvons partager des informations agrégées ou anonymes (notamment des informations démographiques) avec nos partenaires, par exemple avec des éditeurs, annonceurs, sociétés d’analyse statistique, applications ou d’autres sociétés. Par exemple, nous pouvons indiquer à un annonceur les performances de ses publicités ou signaler combien de personnes ont installé une application après avoir vu une publicité. Nous ne partageons pas d'informations permettant de vous identifier personnellement (comme votre nom ou votre adresse email) avec ces partenaires, tels que des éditeurs, annonceurs, sociétés d’analyse statistique, applications ou d’autres sociétés.   
+        Lorsque vous utilisez des applications, des sites web ou d'autres produits tiers intégrés à nos Services, ceux-ci peuvent collecter des informations sur vos activités conformément aux conditions d’utilisation et politiques de confidentialité des sociétés auxquelles ils appartiennent.   
+        Nous autorisons d’autres sociétés qui diffusent des publicités sur nos pages web ou dans nos applications à collecter des informations provenant de vos navigateurs ou appareils. L'utilisation de cookies et d’autres technologies de collecte de données par d'autres sociétés est régie par les politiques de confidentialité de ces sociétés, et non pas par la Politique relative à la vie privée d’Oath. Comme beaucoup de sociétés, nous pouvons autoriser le placement de cookies par des partenaires sélectionnés par nos soins. Cependant, ces tiers ne sont pas autorisés à accéder aux cookies d’Oath.  
+*   **À des fins juridiques.**  Nous pouvons accéder à des informations, les conserver et les divulguer pour enquêter, prévenir ou prendre des mesures en rapport avec : (i) toute procédure judiciaire et demande d’organismes gouvernementaux et juridiques . (ii) l'exécution des Conditions Générales d’Utilisation . (iii) les réclamations portant sur du contenu qui enfreint les droits de tiers . (iv) les demandes relatives au service clientèle . (v) les problèmes techniques . (vi) la protection des droits, des biens ou de la sécurité personnelle d’Oath, de ses utilisateurs ou du public . (vii) l’établissement ou l’exercice de droits légaux ou les mesures de défense contre des poursuites judiciaires . ou (viii) tel que prévu autrement par la loi.
+    *   Cela peut comprendre les réponses à des requêtes gouvernementales légitimes. Obtenez plus d’informations sur la manière dont nous examinons et répondons à ces demandes.  
+*   **Transfert de propriété.**  Si la propriété ou le contrôle de tout ou partie de Verizon, Oath ou d'un Service particulier change à la suite d’une fusion, d’une acquisition ou d’une vente d'actifs, nous pouvons transférer vos informations au nouveau propriétaire. 
 
-Oath may process information related to individuals in the EU/EEA and may transfer that information from the EU/EEA through various compliance mechanisms, including data processing agreements based on the EU/EEA Standard Contractual Clauses.  By using our Services, you consent to us transferring information about you to these countries.  For more information, please visit our Data Transfer page.
+Informations sur des produits et services spécifiques
 
-Other Important Information
+Cliquez sur ce lien pour prendre connaissance de pratiques de confidentialité additionnelles relatives à certains Services Oath.
 
-**This Privacy Policy Applies Only to Oath.** This Privacy Policy does not apply to the practices of companies that Oath does not own or control, or to people that Oath does not employ or manage.  In addition, some affiliated products (such as Tumblr) may have different privacy policies and practices that are not subject to this Privacy Policy. 
+Sécurité des informations et conservation des données  
+Oath a mis en place des mesures de protection techniques, administratives et physiques afin de se protéger contre l'accès non autorisé, l'utilisation ou la divulgation des informations de clients que nous collectons ou stockons.  
+Pour plus d’informations au sujet de la sécurité, notamment les mesures que nous avons prises et celles que vous pouvez prendre, veuillez consulter la page La sécurité chez Oath.
 
-Changes
+Oath ne conservera vos informations que le temps nécessaire aux fins énoncées dans la présente Politique relative à la vie privée, aussi longtemps que votre compte Oath est actif ou que nécessaire pour vous fournir les Services. Si vous ne souhaitez plus qu’Oath utilise vos informations pour vous fournir les Services, vous pouvez fermer votre compte, et Oath supprimera alors les informations qu’elle détient sur vous, à moins d’être tenus de les conserver et de les utiliser pour respecter nos obligations légales, résoudre des litiges et faire respecter nos accords. 
 
-We may update this Privacy Policy from time to time, so you should check it periodically.  If we make changes that are material we will provide you with appropriate notice before such changes take effect.  
+Protection de la vie privée des enfants
 
-Questions &. Suggestions
+Nos services s'adressent au grand public. Nous ne collectons, n'utilisons ou ne partageons pas sciemment des informations qui pourraient raisonnablement être utilisées pour identifier des enfants de moins de 16 ans sans le consentement préalable des parents ou de manière contraire à la loi applicable.
 
-If you have questions, suggestions, or wish to make a complaint, please complete a feedback form or you can contact us at:
+Traitement et transferts des données
 
-Oath  
-Customer Care - Privacy Policy Issues  
-701 First Avenue  
-Sunnyvale, CA 94089
+Lorsque vous utilisez l’un de nos Services ou interagissez avec l'un d’eux, vous acceptez le traitement, le partage, le transfert et l'utilisation de vos informations, comme décrit dans la présente Politique relative à la vie privée.  Quel que soit le pays dans lequel vous résidez, vous nous autorisez à transférer, traiter, stocker et utiliser vos informations dans des pays autres que le vôtre, conformément à la présente Politique relative à la vie privée, et à vous fournir des Services.  Certains de ces pays peuvent ne pas disposer des mêmes garanties en matière de protection des données que le pays dans lequel vous résidez. 
+
+Oath peut traiter des informations relatives à des résidents de l’UE/EEE et transférer ces informations depuis l’UE/EEE par le biais de différents mécanismes de mise en conformité, notamment des contrats de traitement de données s’appuyant sur des clauses contractuelles types de l’UE/EEE.  En utilisant nos Services, vous nous autorisez à transférer des informations sur vous vers ces pays.  Pour en savoir plus, veuillez consultez la page Transfert des données.
+
+Oath est un service à portée mondiale et partage donc des informations avec ses affiliées et d'autres sociétés établies en dehors de l'Espace économique européen (« EEE ») aux fins décrites dans la présente Politique relative à la vie privée. 
+
+Les États-Unis et d’autres pays ne faisant pas partie de l’EEE disposent de différentes lois sur la protection des données et règles liées à l’accès du gouvernement à ces informations. Si vous résidez dans l’EEE, lorsque vos données sont transférées de votre pays d’origine vers un pays situé en dehors de l’EEE, il se peut que certains pays ne disposent pas des mêmes garanties en matière de protection des données que votre pays d’origine. 
+
+Dans la mesure où Oath est réputée transférer les informations vous concernant en dehors de l’EEE, Oath s’appuie séparément, parallèlement et indépendamment sur les bases juridiques suivantes pour transférer vos informations : 
+
+**Clauses contractuelles types.** La Commission européenne a adopté des clauses contractuelles types qui prévoient des garanties pour les données personnelles transférées en dehors de l'EEE. Nous nous appuyons souvent sur ces clauses lorsque nous transférons des données personnelles en dehors de l’EEE, y compris à nos affiliées. 
+
+**Nécessité contractuelle.** Vous pouvez décider si vous souhaitez utiliser nos Services ou non. Cependant, si vous souhaitez utiliser nos Services, vous devez accepter nos Conditions Générales d’Utilisation, qui établissent les conditions du contrat nous liant à vous. Comme nous sommes présents dans des pays du monde entier (y compris aux États-Unis) et que nous utilisons une infrastructure technique dans ces pays, pour être en mesure de vous offrir nos Services conformément au contrat nous liant, nous devrons peut-être transférer vos informations vers d’autres juridictions, le cas échéant. Nous ne pouvons pas vous fournir nos Services sans transférer vos données d’un pays à l’autre.  
+
+**Privacy Shield.** Certaines sociétés auxquelles nous pouvons transférer vos informations aux États-Unis peuvent être certifiées pour recevoir vos informations dans le cadre du programme Privacy Shield. Pour en savoir plus, veuillez consulter notre page transfert de données.
+
+Autres informations importantes
+
+**La présente Politique relative à la vie privée s’applique uniquement à Oath.** Cette Politique relative à la vie privée ne s’applique pas aux pratiques d’entreprises n’étant pas détenues ou contrôlées par Oath, ni aux personnes n’étant pas employées ou dirigées par Oath. En outre, certains produits affiliés (comme Tumblr) peuvent disposer de politiques et pratiques de confidentialité différentes, qui ne sont pas soumises à la présente Politique relative à la vie privée. 
+
+Modifications
+
+Nous pouvons parfois être amenés à modifier ou mettre à jour la présente Politique relative à la vie privée, vous devez donc la consulter régulièrement.  Si nous apportons des modifications importantes, nous vous en informerons avant leur entrée en vigueur.  
+
+Questions et suggestions
+
+Si vous avez des questions ou des suggestions concernant vos informations, ou si vous souhaitez présenter une réclamation, veuillez remplir un formulaire de commentaires ou nous contacter à l’adresse suivante :
+
+Service client - Questions relatives à la Politique relative à la vie privée  
+Oath (EMEA) Limited  
+5-7 Point Square  
+North Wall Quay  
+Dublin 1 
+
+Pour toute question relative au traitement de vos informations, vous pouvez également contacter notre responsable de la protection des données au :  
+Oath (EMEA) Limited  
+Attention : Responsable de la protection des données  
+5-7 Point Square  
+North Wall Quay  
+Dublin 1
+
+Sans préjudice de tout autre droit dont vous pouvez disposer, vous avez également le droit d’introduire une réclamation à notre encontre auprès du Data Protection Commissioner d’Irlande, qui est l'autorité de contrôle chef de file d'Oath.  Vous pouvez également introduire une réclamation auprès de l'autorité de contrôle de l'État membre de l’UE dans lequel vous résidez. \[Cliquez ici\] pour trouver l’autorité de contrôle correspondant à votre pays.
+
+Build Brands People Love
+
+©2018 Oath Inc. All Rights Reserved.
