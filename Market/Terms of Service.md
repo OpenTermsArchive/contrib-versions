@@ -21,7 +21,7 @@ Welcome to Envato Market
 
 4\. The items on Envato Market are owned by the authors, not by us. The items on Envato Market are uploaded at the direction of the author. We provide the platform services. we do not take ownership of the items.
 
-5\. During your time with us you agree to follow the ground rules outlined in these terms so please read and understand them. If you don’t accept the terms then we’ll be sad, but you will need to leave because your presence on and use of the Envato Market sites is conditional on your acceptance to be bound by these terms, the Privacy Policy and the Acceptable Use Policy whether you become a member or not.
+5\. During your time with us you agree to follow the ground rules outlined in these terms so please read and understand them. If you don’t accept the terms then we’ll be sad, but you will need to leave because your presence on and use of the Envato Market sites is conditional on your acceptance to be bound by these terms and the Acceptable Use Policy whether you become a member or not.
 
 Envato Websites
 
@@ -29,7 +29,7 @@ Envato Websites
 
 How browsing and membership works
 
-7\. **Browsing**: You need to be 13 years or over to browse the Envato Market sites. We don’t knowingly collect any information from anyone aged 13 or under. When browsing the sites you agree to follow our guidelines or instructions and keep in mind that these terms apply to any use of our Envato Market sites whether or not you’re a member.
+7\. **Browsing**: You need to be 16 years or over to browse the Envato Market sites. We don’t knowingly collect any information from anyone aged 16 or under. When browsing the sites you agree to follow our guidelines or instructions and keep in mind that these terms apply to any use of our Envato Market sites whether or not you’re a member.
 
 Membership
 
@@ -105,6 +105,7 @@ It is important that you understand the terms on which you are making a purchase
 7.  the item and its description do not violate any applicable law or regulation (including those governing export control, consumer protection, unfair competition, criminal law, pornography, anti-discrimination, trade practices or fair trading).
 8.  the item does not contain viruses or other computer codes, files or programs which are designed to limit or destroy the functionality of other computer software or hardware.
 9.  if the item is marked as 'supported', they will provide you with the services as outlined in the item support policy.
+10.  they will process your data in accordance with applicable privacy law and data protection regulations.
 
 This is what authors are promising you when you buy an item.
 
@@ -135,7 +136,7 @@ Refunds
 
 It is important that you understand how refunds work on Envato Market.
 
-30\. **Disputes lodged with payment agents**: If, as a buyer via your Envato Market account, you lodge a dispute with a payment agent, this will result in a freezing of your Envato Market account until the dispute raised with the payment agent has been closed. This makes it very complex to resolve any related issues, and means we cannot make payments or issue refunds out of your Envato Market account, so we encourage buyers to contact us directly first to see if we can help resolve any concerns.
+30\. **Disputes lodged with payment agents**: If, as a buyer via your Envato Market account, you lodge a dispute with a payment agent, this will result in a freezing of your Envato Market account until the dispute raised with the payment agent has been cancelled. This makes it very complex to resolve any related issues, and means we cannot make payments or issue refunds out of your Envato Market account, so we encourage buyers to contact us directly first to see if we can help resolve any concerns.
 
 31\. **Fine print**: We are not a bank or licensed deposit taker in Australia or elsewhere, your credits are not deposits under Australian law about banks, and that means you don’t get the benefit of any deposit insurance or guarantee under those laws. We don’t act as a fiduciary or as a trustee for you, and we’re not a licensed financial service provider.
 
@@ -157,11 +158,11 @@ Our Intellectual Property Policy is where you will find all the information rela
 
 Our use of your information
 
-37\. **Privacy**: We respect your privacy. When you become a member or buy items on Envato Market as a Guest you will be asked to provide some information about yourself. This information may be used by us and contractors in connection with providing the Envato Market sites and their services, including marketing activities.
+37\. **Privacy**: We respect your privacy and process your personal information in accordance with our Privacy Policy
 
-Our Privacy Policy explains how we deal with your information and it forms part of these terms.
+Our Privacy Policy explains how we deal with your information.
 
-38\. **Confidential Information**: We value your information and take reasonable precautions to protect it. While we take reasonable steps to preserve the security of your information, please be aware that we can’t promise that your use of the Envato Market will be confidential, and we can’t promise that any information you provide to us is perfectly secure. While using the Envato Market, you may also become aware of confidential information about us or another member. You promise to not disclose any confidential information made available to you through the Envato Market to any other person.
+38\. **Confidential Information**: We value your information and take reasonable precautions to protect it. While using the Envato Market, you may also become aware of confidential information about us or another member. You promise to not disclose any confidential information made available to you through the Envato Market to any other person.
 
 Playing fair
 
@@ -340,4 +341,4 @@ Your content:
 
 everything that you post on the Envato Market, or send via the Envato Market to other members and to us including items, files, communications and materials.
 
-Version 6.2 - Effective date: March 2, 2018.
+Version 7 - Effective date: May 25, 2018.
