@@ -1,29 +1,29 @@
-**Please view our new privacy policy, which will become effective May 25, 2018.**
-
-**Effective Date: July 3, 2017 – What’s New >>**
+**Effective Date: May 25, 2018 – What’s New >>**
 
 **Return to Privacy Center**
 
 Introduction
 
-As we state in our 3 Laws of Data Protection, we are committed to protecting the privacy of your data. This Privacy Policy explains more specifically what information Evernote Corporation and its Group Companies (together, “Evernote,” “we” or “us”) collect and receive from Account Holders and End Users (“you”) through Evernote’s websites and applications, which we refer to collectively as “the Service.” The Service includes the Evernote Software.
+As we state in our 3 Laws of Data Protection, we are committed to protecting the privacy of your data. This Privacy Policy explains more specifically what information Evernote Corporation and its Group Companies (together, “Evernote,” “we” or “us”) collect from Account Holders and End Users (“you”) through Evernote’s websites and applications, which we refer to collectively as “the Service.” The Service includes the Evernote Software.
 
-Please note, if you use Evernote Basic, Plus, or Premium, you are both the Account Holder and End User of an Evernote service account. If you use Evernote Business, the Account Holder is the Customer who has contracted with Evernote as defined in our Evernote Business Agreement and the End Users are the individuals whose user accounts are linked to that Evernote Business account. You can find these and other defined terms used in this policy in our Glossary at the end of this page.
+Please note, if you use Evernote Basic, Plus, or Premium, you are both the Account Holder and End User of an Evernote service account. If you use Evernote Business, the Account Holder is the Customer who has contracted with Evernote as defined in our Evernote Business Agreement and the End Users are the individuals whose user accounts are linked to that Evernote Business account. You can find these and other defined terms used in this policy in our Glossary at the end of this page.
 
 Although significant changes are rare, this policy may be amended as new features, technology, or legal requirements arise, so please check back from time to time. We’ll notify you if we make a significant change and, where required, seek your consent. 
 
-What information does Evernote collect and receive? 
+What information does Evernote collect? 
 
-We built Evernote to help you remember and organize your ideas, thoughts, and memories. That means you can input, upload, or store in Evernote any text, images, and other data that you choose (collectively, “Content”). We also collect and receive the following types of information:
+We built Evernote to help you remember and organize your ideas, thoughts, and memories. That means you can input, upload, or store in Evernote any text, images, and other data that you choose—we refer to that information as“Content”. We also collect and receive the following types of information:
 
-*   **Basic subscriber information.** To open your account and process payments, we collect and receive basic information like your email address and, depending on how you purchase a subscription to Evernote Plus, Evernote Premium or Evernote Business (each a “Paid Service”), your billing address and other payment information.  
-*   **Log data.** When you use Evernote, we collect data to understand how you and others access and use the Service, as well as information about actions you take when using the Service (such as the act of creating a note or sharing a note). This includes the use of cookies, tracking pixels, and similar analytics technologies, as described more fully in our Cookie Information page. This information helps us provide the Service to you, learn how the Service is used, and identify and suggest ways we can make the Service more useful to you.             
-*   **Location information.** We collect the IP address you use to connect to the Service, and — if you choose to share it — your location information from a mobile device. This helps us localize the Service for you and, depending on your location settings, allows us to show you relevant content accessible from your account.
-*   **Device information.** We collect information about the number and type of devices you use to connect to the Service, as well as information about the operating systems on those devices (e.g., iOS, Android, Windows) to ensure the Service works as expected for you. Learn more about information our applications collect from your device on our Data Usage page.
+*   **Basic subscriber information.** To open your account and process payments, we collect and receive basic information like your email address and, depending on how you purchase a subscription to Evernote Plus, Evernote Premium or Evernote Business (each a “Paid Service”), your billing address and other payment information.  
+*   **Usage data.** We collect and log data on how you and others access and use Evernote, for example, the act of creating a note or sharing a note. Usage data may be collected through cookies, and similar technologies. For more information, including how to opt-out, visit our Cookie Information page. 
+*   **Location information.** We collect the IP address you use to connect to the Service, and — if you choose to share it — your location information from a mobile device. 
+*   **Device information.** We collect information about the number and type of devices you use to connect to the Service, as well as information about the operating systems on those devices (e.g., iOS, Android, Windows). Learn more about information our applications collect from your device on our Data Usage page.
 
-We also may link your subscriber information with data we receive from our partners and other third parties to help understand your needs and provide you with a better experience.  For example, if you create or log into an Evernote account using your Google Apps credentials via single sign-on, we will have access to certain information such as your name and email address as authorized in your Google Apps profile settings.Learn MoreShow Less
+We also may link your subscriber information with data we receive from our partners and other third parties to help understand your needs and provide you with a better experience.  For example, if you create or log into an Evernote account using your Google Apps credentials via single sign-on, we will have access to certain information such as your name and email address as authorized in your Google Apps profile settings.
 
-We’ve listed the types of information we collect and receive more specifically in the chart below. Generally, we collect this information to support your account and to help us understand how you use the Service so we can make it better.
+Learn MoreShow Less
+
+We’ve listed the types of information we collect and receive more specifically in the chart below. Generally, we collect this information to support your account and to help us understand how you use the Service so we can make it better. We have noted which types of information are not collected unless you choose to provide it.
 
  If you register for or maintain an Evernote service account:
 
@@ -55,7 +55,7 @@ Your device information
 *   To provide account support.
 *   Together with purchase information, to help us comply with export laws.
 
-Your telephone number
+Your telephone number, if you choose to share it
 
 *   To help prevent spam, fraud, and abuse.
 *   To enable two-step verification to provide an additional layer of security for your account.
@@ -173,13 +173,13 @@ Evernote is not in the business of selling or renting your information. Here are
 *   Fulfill your sales and support requests
 *   Communicate with you as described elsewhere in this policy
 
-We require these providers to agree to strict data protection requirements in keeping with our privacy policy standards and our commitments under our EU-US Privacy Shield and Swiss-US Privacy Shield certifications as discussed below.Learn MoreShow Less
+We require these providers to agree to strict data protection requirements in keeping with our privacy policy standards, the European Union's General Data Protection Regulation ("GDPR"), and our commitments under our EU-US Privacy Shield and Swiss-US Privacy Shield certifications as discussed below. You can view the vendors we use to help us provide the Service on our Vendors page.
+
+We do not share your information with any third parties for their own advertising purposes.Learn MoreShow Less
 
 Examples of our service providers include PayPal and Adyen for processing payments from our paid users, Salesforce for helping us with our email communications and Evernote Business sales outreach, and analytics providers like Google Analytics. Other service providers include resellers that we work with to help distribute Evernote. If you purchase a Paid Service from a reseller instead of directly from Evernote, we may need to share limited information with the reseller to ensure accuracy in payment, account management, and delivery of services to you.
 
-We do not share your information with any third parties for their own advertising purposes.
-
-*   Your Content is private unless you decide you want to share it. You may choose to share using public links or through any of the Service’s features that allow you to share or collaborate on Content (“Collaboration Features”). If you choose to share, we may need to take steps to facilitate your collaboration.  Learn MoreShow Less
+*   Your Content is private unless you decide you want to share it. You may choose to share using public links or through any of the Service’s features that allow you to share or collaborate on Content (“Collaboration Features”). If you choose to share, we may need to take steps to facilitate your collaboration.  Learn MoreShow Less
 
 There are features in Evernote that allow you to publish and share some of your notes and notebooks publicly, but these are optional. Any information that you post in these locations, or in our user forum, can be read, collected, and used by anyone and could enable others to send you unsolicited messages. Evernote enables you to determine whether to post personal or otherwise sensitive information to publicly accessible areas of our site, so you should carefully consider how you use the Service. Evernote is not responsible for any publication or use of any information you choose to post in these locations.
 
@@ -193,7 +193,7 @@ In addition, when you use Collaboration Features, the information you share is n
 Depending on the permission levels you set when sharing Content, anyone who has access to the shared material may be able to see the Content, information about where and when the Content was created, as well as the note history, tags, and reminders associated with a particular note.
 
 *   In the event of a merger, sale, or reorganization of all or part of our business, information covered by this policy may be transferred in connection with that deal.  
-*   As described on our Cookie Information page, we contract with third-party advertising networks in order to deliver relevant Evernote advertisements to you across the Internet and to manage our communications with you. We do not use your Content for these purposes. In addition, we may share with partners or Service Providers a hashed identifier to serve you relevant Evernote ads when you visit partners’ and providers’ websites, applications or platforms. We may, for instance, participate in the Twitter Tailored Audience and Facebook Custom Audience services. To learn more about the privacy controls that Twitter and Facebook offer and honor for those respective services, please visit here for Twitter and here for Facebook. You may opt out of certain ad targeting and retargeting services by visiting the Digital Advertising Alliance’s opt-out page, or the Network Advertising Initiative’s opt-out page.
+*   As described on our Cookie Information page, we contract with third-party advertising networks in order to deliver relevant Evernote advertisements to you across the Internet and to manage our communications with you. We do not use your Content for these purposes. In addition, we may share with partners or Service Providers a hashed identifier to serve you relevant Evernote ads when you visit partners’ and providers’ websites, applications or platforms. We may, for instance, participate in the Google Adwords Remarketing, Twitter Tailored Audience and Facebook Custom Audience services. To learn more about the privacy controls that Google, Twitter and Facebook offer and honor for those respective services, please visit here for Google, here for Twitter, and here for Facebook. You may opt out of certain ad targeting and retargeting services by visiting the Digital Advertising Alliance’s opt-out page, or the Network Advertising Initiative’s opt-out page.
 *   We also may share information about you with third parties whenever you consent to or direct such sharing. This includes, for example, if you connect your Evernote account with a third-party app in our App Center.Learn MoreShow Less
 
 Evernote works with a number of third-party applications and services. In some cases, Evernote will partner with another company to provide an integration. In addition, in our App Center, you can find a number of third-party applications and services that work with Evernote. If you connect your Evernote account to these third-party services, you may be giving the partner access to some or all of your data, including, in some cases, your Content.
@@ -216,13 +216,41 @@ Consistent with our first law of data protection—your data is yours—in most 
 
 However, if you prefer, you can contact us at compliance@evernote.com to ask us to provide access to, correct, update, or delete your personal information. Please note that we may ask you for proof of account ownership and/or identity before fulfilling your request. We will comply with such requests to the extent required by applicable law or the US-Swiss Privacy Shield and US-EU Privacy Shield.
 
-**What happens if I want to stop using Evernote?**
+**A Note for our European Users about our Data Processing Grounds and Data Access Rights**
 
-You can delete your Content at any time, and you can stop using the Evernote service at any time. And as we promise in our third law of data protection, your data is portable. You can export your notes at any time, as explained here.
+The European Union's GDPR requires that we provide notice in a specific way to our European users about their privacy rights. We process Account Holder or End User personal information on one of three grounds, depending on the circumstances: (i) your affirmative consent, in which case you will have the right to withdraw consent at any time. (ii) contractual necessity. or (iii) our legitimate interest in providing the Service. In addition, we are required to list the data access right available to all users in a specific way.
+
+Learn MoreShow Less
+
+**YOUR RIGHTS** **WHAT DOES IT MEAN FOR YOU?** Right to access
+
+*   You can request Evernote to provide you with information on how we collect, use, and store your personal information, including provide you with a copy of your personal information we store in Evernote.
+
+Right of rectification
+
+*   You can request that we correct certain inaccurate information if you are no longer using the Service. For more information, see the section: "What happens if I want to stop using Evernote?"
+
+Right to data portability
+
+*   You can export your information from Evernote to a competing service. See our Third Law of Data Protection for more information.
+
+Right to object 
+
+*   You can object to the processing of your information in certain cases, as well as request that Evernote not use your personal information for direct marketing purposes. Direct marketing includes emails which help us keep you informed about the latest improvements to our Service. See our Help and Learning page on opting-out for more information.
+
+**How long does Evernote store my information?**
+
+Evernote's mission is to help you remember everything important in your life. In order to do that, we make the Content you store in Evernote readily accessible to you, until you make the decision to delete it.
 
 If you delete your Content and then sync, it will no longer be accessible to you or others who may access the Service. The Evernote service’s back-up systems may retain residual copies of your deleted Content for up to one year due to the nature of those systems’ operations.
 
 Evernote provides you with features that allow you to communicate and collaborate with other users. Please note that deleting your copy of these communications (such as messages) won't delete copies existing in the accounts of people you were interacting with.
+
+For users who are inactive for extended periods of time, we may close your account to satisfy our obligations under applicable law, and in accordance with our data retention policy. If that happens, we will try to notify you before taking any action.
+
+**What happens if I want to stop using Evernote?**
+
+As described above, you can delete your Content at any time, and you can stop using the Evernote service at any time. And as we promise in our third law of data protection, your data is portable. You can export your notes at any time, as explained here.
 
 **What happens if Evernote closes my account?**
 
@@ -234,7 +262,7 @@ When you use Evernote Software on your computing device, such as by using one of
 
 When you sync your computing device with the Service, that data will be replicated on servers maintained in the United States. This means that if you store information in or submit data to the Evernote website or Evernote Software and sync such Evernote Software with the Evernote service, you acknowledge your personal information will be transmitted to, hosted, and accessed in the United States.
 
-Data privacy laws or regulations in your home country may differ from those in the United States. We will collect, store, and use your personal information in accordance with this Privacy Policy and applicable laws, wherever it is processed.
+Data privacy laws or regulations in your home country may differ from, or be more protective than, those in the United States. We will collect, store, and use your personal information in accordance with this Privacy Policy and applicable laws, wherever it is processed.
 
 **Which Evernote company is my data controller?**
 
@@ -244,7 +272,7 @@ How does Evernote comply with data transfer rules?
 
 If you are a resident of the European Economic Area (“EEA”) or Switzerland, please note that we use standard contractual clauses approved by the European Commission to transfer your personal Information from the EEA or Switzerland to the United States and other countries.
 
-In addition, Evernote Corporation has certified its compliance with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from EU member countries and Switzerland.Learn MoreShow Less
+In addition, Evernote Corporation has certified its compliance with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from EU member countries and Switzerland.Learn MoreShow Less
 
 The following statements apply to both the personal information Evernote Corporation receives from individuals or data controllers in the European Union and Switzerland, and the procedures discussed may be used by individuals from the EU and Switzerland.
 
@@ -257,8 +285,11 @@ Under the Privacy Shield, Evernote Corporation will remain liable if its third-p
 Residents of the European Union or Switzerland who believe that their personal information has not been processed in compliance with the Privacy Shield Principles may raise their complaint in the following ways:
 
 1.  You can contact Evernote Corporation directly using the details in the "How can I contact Evernote?" section in our Privacy Policy. We will respond to your complaint within 45 days of receipt.
+    
 2.  We have further committed to refer unresolved privacy complaints under the Privacy Shield to JAMS, an alternative dispute resolution provider located in the United States. If you do not receive a timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please visit https://www.jamsadr.com/eu-us-privacy-shield for more information about the scheme. This JAMS service will be provided to complainants free of charge. To file a complaint directly with JAMS, go here: https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim
-3.  For residual disputes that cannot be resolved by the methods above, you may be able to invoke a binding arbitration process under certain conditions. To find out more about the Privacy Shield's binding arbitration scheme, please see: https://www.privacyshield.gov/article?id=ANNEX-I-introduction. 
+    
+3.  For residual disputes that cannot be resolved by the methods above, you may be able to invoke a binding arbitration process under certain conditions. To find out more about the Privacy Shield's binding arbitration scheme, please see: https://www.privacyshield.gov/article?id=ANNEX-I-introduction.
+    
 
 You may have the right to access personal information that we hold about you and request that we correct, amend, or delete it if it is inaccurate or processed in violation of Privacy Shield. Please contact us, as provided above, to make such a request and we will consider it in accordance with the Privacy Shield's Principles.
 
@@ -281,12 +312,12 @@ Walchestrasse 9
 Attention: Privacy Team
 
 EVERNOTE DO BRASIL SERVIÇOS DE APLICAÇÕES LTDA.  
-Avenida Paulista, 2300  
+Avenida Paulista, no 2.300  
 Andar Pilotis  
 Edifício São Luís Gonzaga  
-CEP: 01310-300 São Paulo, SP  
+CEP: 01310-300 São Paulo/SP  
 Brasil  
-ATN: Equipe de Privacidade
+Attention: Privacy Team
 
 GLOSSARY
 
@@ -299,3 +330,5 @@ GLOSSARY
 *   **Evernote Software** means the software hosted on Evernote’s servers and the software we make available to be deployed by you or a third party to enable capturing of Content originating outside the Service, such as Evernote Scannable or Evernote Web Clipper or any of the Evernote software applications for compatible computing devices that enable access and use of the Service through such device
 *   **Group Companies** means Evernote Corporation and its wholly owned subsidiaries, which include Evernote GmbH and Evernote do Brasil Serviços de Aplicaçōes Ltda.
 *   **Paid Service** means Evernote Plus, Evernote Premium, Evernote Business, and any other Evernote offering for which we collect payment (in the form of currency, Evernote points, coupon codes).
+
+In the event of a conflict, the Enlgish language version shall govern.
