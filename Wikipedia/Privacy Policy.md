@@ -148,9 +148,10 @@ Introduction Use of info Sharing Protection Important info \[show\]Contents Cont
         *   2.2.2 Information We Collect
     *   2.3 How We Use Information We Receive From You
     *   2.4 Other
-        *   2.4.1 GPS &. Other Location Technologies
-        *   2.4.2 Metadata
-        *   2.4.3 IP Addresses
+        *   2.4.1 Location Information
+            *   2.4.1.1 GPS &. Other Location Technologies
+            *   2.4.1.2 Metadata
+            *   2.4.1.3 IP Addresses
 *   3 Sharing
     *   3.1 When May We Share Your Information?
         *   3.1.1 With Your Permission
@@ -221,7 +222,7 @@ For the sake of clarity, this Privacy Policy covers, regardless of language:
 
 *   All of our major sites (found at list of major projects), such as Wikipedia, including user pages, discussion pages, and noticeboards.
 *   Our blogs and APIs (unless we have provided a separate policy for those services).
-*   Our mobile sites and applications, which can be found on our official list.
+*   Official Wikimedia Foundation mobile applications.
 *   Emails, SMS, and notifications from us or sent to us from you.
 
 This Privacy Policy, however, does not cover some situations where we may gather or process information. For example, some uses may be covered by separate privacy policies (like those of the Wikimedia Shop) or sites or services run by third parties (such as third-party developer projects on Wikimedia Cloud Services). To understand more about what this Privacy Policy does not cover, please see below.
@@ -303,7 +304,7 @@ ExpandMore on Usernames
 
 Your username will be publicly visible, so please be careful about using your real name as your username. Your password is only used to verify that the account is yours. Your IP address is also automatically submitted to us, and we record it temporarily to help prevent abuse. No other personal information is required: no name, no email address, no date of birth, no credit card information.
 
-Once created, user accounts cannot be removed entirely (although you can usually hide the information on your user page if you choose to). This is because your public contributions must be associated with their author (you!). In some circumstances, the Wikimedia communities can assist users with removing additional information related to their account from the projects through the.
+Once created, user accounts cannot be removed entirely (although you can usually hide the information on your user page if you choose to). This is because your public contributions must be associated with their author (you!). In some circumstances, the Wikimedia communities can assist users with removing additional information related to their account from the projects.
 
 To gain a better understanding of the demographics of our users, to localize our services and to learn how we can improve our services, we may ask you for more demographic information, such as gender or age, about yourself. We will tell you if such information is intended to be public or private, so that you can make an informed decision about whether you want to provide us with that information. Providing such information is always completely optional. If you don't want to, you don't have to—it's as simple as that.
 
@@ -423,7 +424,13 @@ We engage in these activities to further our legitimate charitable purpose and/o
 
 Back to top
 
-Other GPS &. Other Location Technologies
+Other
+
+Location Information
+
+  
+
+GPS &. Other Location Technologies
 
 As stated above, we can use commonly-used location technologies to show you more relevant content. For example, our mobile apps can identify articles from the Wikimedia sites about points of interest near your location. As a reminder, you can deactivate our access to these location technologies at any time, and still use the Wikimedia Sites.
 
