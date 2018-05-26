@@ -331,4 +331,4 @@ GLOSSARY
 *   **Group Companies** means Evernote Corporation and its wholly owned subsidiaries, which include Evernote GmbH and Evernote do Brasil Serviços de Aplicaçōes Ltda.
 *   **Paid Service** means Evernote Plus, Evernote Premium, Evernote Business, and any other Evernote offering for which we collect payment (in the form of currency, Evernote points, coupon codes).
 
-In the event of a conflict, the Enlgish language version shall govern.
+In the event of a conflict, the English language version shall govern.
