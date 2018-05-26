@@ -1,12 +1,166 @@
-**PRIVACY POLICY**
+ Privacy Policy
 
-**Effective Date:**  This Privacy Policy was last revised on August 21, 2013.
+**Updated**: 25.5.2018
 
-Welcome to Habbo Hotel, an online social entertainment site where people can create their own Habbos, have fun, hang out, play games, and make friends.  Habbo Hotel is owned and operated by Sulake Corporation Oy (“**Sulake**,” “**we**,” “**our**” or “**us**”).  Sulake respects your privacy concerns and recognizes that visitors to Habbo Hotel need to understand how their information may be used or shared. 
+The confidentiality of personal data and the protection of customer privacy are important, basic values in all of our operations. We observe legislation, authority guidelines and good _data processing_ practice when dealing with the data of our users, employees and partners.
 
-This “**Privacy Policy**” governs your use of our site at www.habbo.com, and any other of our sites that post a copy of it  (including both mobile and online versions of our site), including such interactive features, widgets, applications, content or downloads that we own and make available in connection with such site(s) (collectively, the “**Service**”) regardless of how you access or use them, whether via personal computers, mobile devices or otherwise, but does not apply to data we receive from third parties, except to the extent we combine such data with Customer Data (defined below) that we have ourselves collected under this Privacy Policy.  This Privacy Policy does not apply to our data collection activities offline or otherwise outside of our Service (unless otherwise stated below). 
+At Sulake, we maintain an extremely high level of data protection. We process your _personal data_ only for appropriate purposes defined in advance, and only when it is necessary.
 
-**1\. Data Controller**
+We protect our Service with technically appropriate measures and we train our personnel regularly in areas related to data processing.
+
+In this privacy policy, we have compiled the most significant principles relating to data protection. We abide by these principles in order to ensure the confidentiality of data and communications inside our games. This privacy policy applies to all of our games and concerns the processing of all _personal data_ inside our Services.
+
+We regularly check that these pages are up to date and we update them when needed.
+
+**Confidentiality and Data Protection**
+
+We respect your privacy and we are committed to safeguarding the privacy of those persons ("user(s)" or "you") who access and use our games, apps, websites and related services, e.g. Habbo and Hotel Hideaway (the “Services”, the “Service”).
+
+In all of our operations, we protect data at the highest levels and process it in a confidential manner. To ensure this confidentiality, we use appropriate technology and data security solutions in conjunction with specific administrative measures.
+
+**Your rights regarding the processing of your data**
+
+You have the right to influence the processing of your own data.
+
+**Right of access and Right to data portability**
+
+You can check your own data or receive the data you have provided yourself while using our Services in machine-readable form. Do this by accessing Settings or by contacting our customer service desk.
+
+**Right to rectification**
+
+If you notice incorrect or expired data in the _personal data_ we process, we ask you to correct the data via our customer service desk. We need the correct personal information from you in order to provide the best possible service.
+
+**Right to erasure**
+
+You have the right to request the deletion of data that are no longer needed. We do our best to remove such data automatically, but if, for one reason or another, you detect unnecessary information in our system, you can contact our customer service desk.
+
+**Right to restriction of processing**
+
+You can ask us to restrict or object to data processing in certain situations. We have aimed to describe all of our data processing methods in an open and comprehensible manner in this privacy policy.
+
+**What data do we collect?** Why do we collect your personal data?
+
+In order to provide our Services, we require sufficient personal information. We need your contact information in order to communicate with you, e.g. to allow you to reset your password if you forget it.
+
+In addition, our Services require different kinds of data so that we can identify you individually and then tailor the service to you.
+
+In some cases, such as where online purchases or payments are concerned, we have a _legal obligation_ to collect sufficient data about you in order to provide the Service.
+
+Due to the nature of our products, the processing of personal data is an essential and inseparable part of our Services, even though in the Service itself we do not process your name or any other information that directly identifies you as a person.
+
+**Personal data to be processed**
+
+We only process personal data where it is appropriate and necessary to do so. The type of data we collect and store varies depending on the game you are playing and your activity within it. Broadly, the data we collect about you relates to the type of device you are using, how you play the game (such as levels attempted and purchases made) and may include information you submit during registration (see below) or information which you allow us to access after you connect your social network accounts through our Services.
+
+Examples of personal data processed in our Services:
+
+*   Contact information, such as e-mail address and social media contact information.
+*   Device information, such as device model and operating system version.
+*   Payment transaction information.
+*   Customer history. For example, if you contact us through our customer service desk we may keep a record of that correspondence.
+*   Chat logs. We may keep chat log records for safety and moderation purposes.
+*   Data generated from the use of the Services, such as the technical data generated when playing our games or visiting our websites.
+*   Information about cookies and third-party cookies as well as corresponding web analytics data.
+*   Advertising identifiers.
+*   You may have the ability to register or login to the Service via third-party sign-in service or login (for example Facebook or Game Center on Apple devices). If this is the case, we collect the identifier number of the third-party service profile.
+
+**Data generated from using the Services**
+
+We collect data about your interactions with our Services and with other users inside the Service. For example, this could be chat logs, purchase and transaction information, usage behaviour, preference settings, access logs, and moderation actions. Some of this information is _personal data_, meaning that it may be connected with your account, and some may only be collected and used in aggregate form (as a statistical measure that wouldn’t identify you or your account). We may use this information for a number of things, generally related to enhancing, improving, protecting and developing the Service. We also use the information to help keep our users and community safe.
+
+When you visit our website, the following data may be collected automatically: IP addresses, unique identifiers, operating system, access times, browser and device type and data, language and referring website addresses. We use this information to monitor, develop and analyse your use of the Service.
+
+**Cookies**
+
+Personal information may be collected through the use of cookies and similar technologies, such as pixels (tags, beacons or gifs), local shared objects and digital fingerprinting. For the purposes of this privacy policy, we refer to all such technologies as “cookies”.
+
+We use cookies and similar technologies to collect information from registered users and to help us improve the Service. Most devices and web browsers automatically accept cookies, but you can usually modify your device or browser settings to refuse cookies. Please be aware that if you alter your device or browser settings to reject cookies, you may not be able to use some of the Service’s features and functionality.
+
+**Essential cookies**: Some cookies are essential for us to use in order to provide you with the Service. These cookies will be used to manage the delivery of the Service, and if you do not accept these cookies you will not be able to access it. These cookies do not gather personal information that could be used for marketing purposes.
+
+**Remembering your preferences**: We also use cookies to remember your preferences - this changes the way the Service behaves or looks.
+
+**Analytics cookies**: These cookies collect information that is used in aggregate form to help us understand how the Service is being used and where users are originating from.
+
+**Local storage cookies**: Local storage cookies are ‘persistent’. They remain on your device for a period of time (set individually for each cookie). We use these cookies to record how many times you use the Service, to confirm you are a registered user, to save your login details when accessing the Service and to collect statistics on the use of the Service.
+
+**How to refuse or opt out of cookies**: You have the right to choose whether to accept or refuse cookies and similar technologies. If you choose to use the Service without blocking or disabling cookies, you will indicate your consent to our use of these cookies and other technologies. You also indicate your consent to our use (in accordance with this privacy policy) of any personal information that we collect using these technologies.
+
+**How and why are we using your data?** Grounds for data processing
+
+The following personal data is processed based on _performance of a contract_:
+
+*   Contact information for delivering the Services and for customer service.
+*   Payment information for online and in-app purchases.
+*   Online identifiers and customer profile information used for the smooth running of our Services.
+
+The following personal data is processed based on our _legitimate interest_:
+
+*   Contact and payment information for fraud prevention.
+*   Customer profile information for content moderation and targeted in-game offers.
+*   Device information for customer service, advertising and analytics.
+*   Online identifiers for analytics.
+
+We may process parts of your personal data based on _the_ _consent_ that you have provided. You can withdraw this consent at any time.
+
+In addition, we process personal data in order to comply with _a legal obligation_, such as the prevention of crime or fraud, or to maintain records related to purchases.
+
+**Profiling**
+
+We want to customise and develop our Services so they are more relevant to you. We use anonymised in-game behavioural data to deliver content that is more relevant to you and at better prices. This data can also be used to guide and support content and feature production, allowing us to provide more interesting and relevant content in the future. Personal data is processed in a secure and confidential manner.
+
+**The retention period for personal data**
+
+We only retain your personal data for as long as it takes to fulfill the purpose for which it was collected, and for a reasonable time thereafter. We do this as it is required by law in order for us to be able to comply with our _legal obligations_, to resolve any potential disputes and to enforce our agreements. The retention period for your personal data varies depending on the service and the nature of the data.
+
+When the retention period for the data has ended, we dispose of the personal data either by removing them or making them anonymous (i.e. anonymisation of the data in question). We process some of your personal data - such as contact information - for the entire duration of our relationship with you as the customer. Conversely, the retention period of data collected in connection to actually producing and running the Services (for example, server logs) may be relatively short.
+
+**Marketing**
+
+We may use personal information we collect to target you with marketing communications about our Services based on your interests. For example, we may send push notifications, email messages, serve ads inside our Services or place ads on third party websites and apps.
+
+We may send you push notifications via our mobile app if you have given us permission to send  them on our Service. You may at any time change the settings of your push notifications. We may send you marketing emails, but only if you opt-in to receive them. You may opt-out of receiving email marketing communications at any time by following the instructions contained in our promotional emails. If you opt-out, we may still send you non-promotional emails such as emails relating to your account.
+
+**Advertising**
+
+Our Services may include ads for third-party products and services. To show you relevant and interesting third-party ads, we and our advertising partners will use information about you. An example of this sort of information could be when you bought a product from a certain website or entered a specific term into a search engine. You can opt-out of interest-based ads, however this does not mean that you will no longer receive ads, only that the ads you receive will be less relevant to your interests.
+
+**Withdrawing your consent**
+
+If we process your data based exclusively on the consent you have given, you have the opportunity to withdraw it if you change your mind. This can be done easily within your user preferences in the Service. Please note, however, that this does not affect data processing that is carried out before the withdrawal of consent.
+
+**Disclosing personal data**
+
+When we provide services, we may also disclose your _personal data_ to our subcontractors or partner operators who may need to use your data. This includes hosting providers such as Amazon Web Services and payment processors such as Adyen.
+
+  
+On our websites, we use tools such as cookies and web beacons. These are also used by our cooperation partners for analysis and marketing purposes. In connection with this, we may disclose _personal data_ to the service provider, such as your IP address and cookie information. In these cases, we do not disclose personal data that directly identifies you.
+
+Some parts of our Services (for example, payment processing) are implemented via cooperation partners like Adyen. In a situation like this, we may disclose some of your personal data to the service provider concerned. In some cases, using the Service requires that you approve the privacy policy or terms of the service provider beforehand.
+
+Third parties that act as _data controllers_ process your data in accordance with their own privacy policies. For example, payment processors may process your personal data as part of their own fraud prevention measures. Before disclosing personal data to any third parties, we ensure that the disclosure is in full compliance with the law.
+
+**Assisting authorities**
+
+Your personal data may be disclosed to third parties if required under any applicable law or regulation or order by competent authorities or in order to enforce the Terms of Service and to investigate possible infringing use of the Services, as well as to guarantee the safety of the Services.
+
+**Subcontractors and processing data outside EU/EEA**
+
+We use subcontractors such as Amazon Web Services to process and store your _personal data_ outside the European Economic Area (EEA). When your _personal data_ is processed outside the EEA, we will ensure that appropriate safeguards are in place. These safeguards include using Privacy Shield certified subcontractors and contractual means, such as EU Model Clauses and Data Protection Agreements.
+
+**Data security**
+
+We ensure data security when processing your personal data. We always use appropriate protective measures, such as access control based on passwords and other protective methods as well as technical encryption of the data. Our operating environment has been secured with firewalls and appropriate anti-virus software.  
+  
+We primarily process your data in a form where an outsider cannot identify you as a person. We do not ask for or store your real name or identity and our systems use a numeric identifier to identify you both internally and across systems as opposed to something like your email address. With these measures, we protect the confidentiality of your communication and prevent irrelevant connections to your identity.  
+  
+Everyone is responsible for looking after data security. In order to ensure the protection of your data, we ask you to pay attention to the data security of your own devices.
+
+**The coverage of our privacy policy, our contact information and other information** **The coverage of our privacy policy**
+
+This privacy policy concerns the processing of personal data in the Services offered by Sulake Corporation.
+
+Our contact information
 
 Sulake Corporation Oy
 
@@ -18,135 +172,12 @@ Tel. +358 10 656 7000
 
 Fax: +358 10 656 7010
 
-**2\. Name of the Register**
+Hotel Hideaway customer service: https://hideaway.helpshift.com/a/hotel-hideaway/
 
-Habbo.com Customer Database
+Habbo customer service: https://help.habbo.com/
 
-**3\. The Purpose For Processing Your Data and the Use of Our Register**
+Privacy contact: privacy@sulake.com
 
-We use Customer Data (defined below) and other data about you for the following purposes:
+Right to Appeal
 
-*   Administering and maintaining the customer relationship with our customers and operating the Service.
-*   If the customer has agreed, to sending newsletters and other information (including marketing information) about Habbo and other Sulake products.
-*   For keeping the Habbo Hotel safe and other administrative and safety reasons, e.g. investigating fraud and other criminal actions and helping the police with the investigations.
-*   Complying with applicable law, and to the extent permitted by applicable law, cooperating with requests by government and by third parties that allege their rights have been violated.
-*   Planning and developing our business activities, as well as our affiliates and subsidiaries, with the help of different research methods.
-*   Serving you content and advertising directly, as well as through our affiliates and subsidiaries and our relationships with third-party vendors.
-
-**4\. Content of the Register**
-
-*   “**Customer Data**” includes:
-
-\- E-mail address.
-
-\- IP-address, and other persistent identifiers (“**Device Identifiers**”).
-
-\- Date of birth.
-
-\- Telephone/mobile number if the customer has submitted it upon registration, has made purchases with a telephone/mobile or otherwise submitted that information.
-
-\- The identifier number of a Third-Party Site or Apps profile and the profile data relating to that identity if the customer registers through a Third-Party Site or Apps login (for example Facebook, Twitter). The profile data may include, but is not limited to, your name, profile picture, gender, customer ID, email address, your country, your language, your time zone, the organizations and links on your profile page, the names and profile pictures of your social networking site “friends” and other information you have included in your social networking site profile
-
-*   “**Usage Data**” (transaction information, usage behavior and preferences, purchase information, access logs, moderation actions).
-
-*   **Chat Log**.  We may log chats for safety and moderation reasons.
-
-*   **Submissions**. Content and other data you submit to us.
-
-*   **Location data**. To the extent Sulake makes location enabled Service available and you use such Service, Sulake may collect and process your location data to provide location related Service and advertisements. For example, your Habbo friends nearby your location may get information about your location or you may get friend suggestions about Habbo customers nearby your location. Sulake may use various technologies to determine location, such as GPS, Wi-Fi or other network-based data such as IP address. Your GPS geo-location is not accessed without your consent. Notwithstanding Sulake’s partners who are providing location related parts of the Service, Sulake will not share your GPS geo-location with third parties without your consent. To the extent Sulake makes available GPS geo-location to third parties in accordance with this Privacy Policy, it will be provided anonymously.
-
-**5\. Regular Sources of Information**
-
-Data is collected through customers’ interaction with us, including our affiliates and subsidiaries, as well as by third-party vendors, including without limitation:
-
-*   completion of online forms (such as the registration form).
-*   participation in contests and surveys.
-*   subscription for certain newsletters and enhanced services.
-*   posting of messages to the message boards and chat services.
-*   emails or other communications with us.
-*   Tracking Technologies (defined below) such as cookies and web beacons.
-
-**6\. Regular Destinations of Disclosed Data and Whether the Data is Transferred to Countries**
-
-**Outside the European Union or the European Economic Area  
-**
-
-We do not regularly disclose data to third parties, except to our affiliates and third parties we engage to provide services for us (e.g., site development, operations and moderation).  Some of these third parties such as analytics providers, advertising services providers and advertisers, may collect data from you themselves via our Service or services, but we are not responsible for them and their own privacy policies govern their practices. 
-
-Notwithstanding anything to the contrary, the data may be disclosed to police or other authorities, or to third parties alleging a violation of their rights, if required or allowed by the law.
-
-Information may also be disclosed for research and marketing purposes if the customer has given a consent for such disclosure.
-
-Your data may also be disclosed to financial institutions, and authorities and our payment partners in specific cases when a fraud is inspected as well as to the payment partners as part of the normal payment process and risk management.
-
-Furthermore, the data may be transferred to other companies within Sulake.
-
-We may transfer information that we collect about you to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world in accordance with mandatory legislation and this Privacy Policy.  If you are located in the European Union / European Economic Area, or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring information, including Customer Data, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. and the use and disclosure of information about you, including personal information, as described in this Policy.
-
-**7\. The Principles of How the Data File / Register is Secured**
-
-Access to Sulake data relating to our customers is granted to Sulake’s employees or contractors if reasonably required by their work duties.  Access is controlled through security procedures such as by using individual Sulake-issued certificates and user-names/passwords and logging data access and actions.  Although we take measures to secure your data, no data security is without risk and we cannot guarantee security and you transmit data to us at your own risk. 
-
-**8\. The Use of Cookies, Web Beacons and Other Technologies**
-
-We may use a variety of now and later developed methods and technologies, such as “cookies”, that automatically (or passively) collect and/or store certain information whenever you visit or interact with the Service (**“Tracking Technologies”**), which technologies may be downloaded to your computer or device and may set or modify settings on your computer or device.  A “cookie” is a data file placed on a computer or device (such as your browser) when it is used to visit the Service. We use Tracking Technologies that are strictly necessary to allow you to use and access the Service, including cookies required to prevent fraudulent activity or improve security.  We may decide in the future to use Tracking Technologies to help us deliver content, including advertisements, relevant to your interests as part of your use of the Service and third-party sites.  By using this Service, we are seeking to obtain your consent to use these various Tracking Technologies.
-
-You may exercise control over regular cookies insofar as they may generally be disabled or removed by tools that are available as part of most commercial browsers, and in some instances can be blocked in the future by selecting certain settings.  Each browser you use will need to be set separately and different browsers offer different functionality and options in this regard.  By choosing to disable cookies, however, you may not be able to benefit fully from the Service (e.g., some or all of it may not continue to work as intended).
-
-A “web beacon” is another type of Tracking Technologies we may use, which we may use to track who is reading a web page or e-mail, when, and from what computer or other device.  We use them to provide better service to you.  We may use web beacons to recognize the visitors generated from our online and e-mail campaigns as well as to monitor our customers’ readership levels to identify aggregate trends and individual usage.  We may link Customer Data and other data about you to the web beacons. We may decide in the future to use web beacons to help us deliver content, including advertisements, relevant to your interests as part of your use of the Service and third-party sites.
-
-This Privacy Policy does not govern the Tracking Technologies that may be employed by others in connection with our Service, such as analytics vendors, advertising networks, advertisers and third-party applications and plug-ins (e.g., social media site apps and plug-ins) that you may access via our Service.  You should refer to the privacy policies of these parties with regard to their data practices. 
-
-**9\. Children**
-
-Our Service is a general audience website intended for customers 13 and over and we do not intend to collect personal information from customers under the age of 13. If you are a U.S. parent and suspect your child under 13 years of age has submitted Customer Data to us, contact us **here**.
-
-**10\. Information Third Parties Provide About You**
-
-We may receive information about you from your friends and others that use the Service, such as when they submit content to us or post on the Service.  Additionally, we may, from time to time, supplement the information we collect directly from you on our Service with outside records from third parties for various purposes, including to enhance our ability to serve you, to tailor our content and advertising to you and to offer you opportunities that may be of interest to you.  To the extent we combine information we receive from those sources with Customer Data we collect on the Service, it will be treated as Customer Data and we will apply this Privacy Policy to such combined information, unless we have disclosed otherwise.  In no other circumstances do our statements under this Privacy Policy apply to information we receive about you from third parties.
-
-**11\. Information You Provide About a Third Party**
-
-You may send someone else a message from the Service, such as an invitation to a friend on the condition that you have the consent of such person.  Sulake may offer you the opportunity to invite your contacts from Third-Party Sites, (such as your Facebook friends or Google address book contacts) so that those contacts can be located in Habbo and/or you can invite them to friend you in Habbo. The information you provide or allow the Service to access (names, e-mail addresses, mobile number, Third-Party Site or App identifier number, location data etc.) is used to facilitate the communication and is not used by us for any other marketing purpose unless we obtain consent from that person or we explicitly say otherwise.  Please be aware that when you use any share-with-a-friend functionality on our Service, your e-mail address, mobile number, name or user-name, and message may be included in the communication sent to your addressee(s).  Some of these tools may be third-party tools subject to third-party privacy policies as further detailed in Section 12. You or the friend may contact us at sarrequests@sulake.com to request a removal of this information from our database.
-
-**12\. Interactions with Third-Party Sites, Apps and Content**
-
-The Service may include functionality that allows certain kinds of interactions between the Service and your account on a third-party website or application. We may also use third parties to facilitate e-mails, tweets or Facebook postings and we may provide links off of our Service to third-party sites (including of advertisers), including facilitating you sending a message from the Service or accessing third-party content or locations.  The use of this functionality may involve the third-party operator providing certain information, including Customer Data, to us.  For example, when you register with the Service, you may have an option to use your Facebook, Google or other account provided by a third-party site or application to facilitate the registration and log-in or transaction process on the Service.  If we offer and you choose to use this functionality to access our Service, the third-party site or application may send Customer Data about you to the Service.  If so, we will then treat it as Customer Data under this Privacy Policy, since we are collecting it as a result of your accessing of and interaction on our Service. The Service may also contain content that is supplied by a third party, and those third parties may collect Usage Data and your Device Identifier when pages from the Service containing third-party content are served to you.  We are not responsible for the data collection and privacy practices employed by any of these third parties, and they may associate their own Tracking Technologies with you, independently collect data about you, including Customer Data, and may or may not have their own published privacy policies.  We also encourage you to note when you leave our Service or otherwise interact with third-party content or applications and to review the applicable third-party privacy policies and exercise caution in dealing with third parties.
-
-**13\. You May Request Changes to the Information We Collect About You and Set Communication Preferences**
-
-You are responsible for maintaining the accuracy of the information you submit to us, such as your contact information provided as part of registration.  The Service may allow you to review, correct or update Customer Data you have provided through the Service’s registration forms or otherwise, and you may provide registration updates and changes by contacting us .   
-
-If so, we will make good faith efforts to make requested changes in our then active databases as soon as reasonably practicable.  With respect to our mobile and other applications (i.e., when we are the application publisher), you can prospectively stop all collection of information by the application by uninstalling the application.  You may use the standard uninstall process as may be available as part of your applicable Device or potentially via the appropriate application or app marketplace. 
-
-When you edit your Customer Data or change your preferences on the Service, information that you remove may persist internally for our administrative purposes.  Also, please note that it is not always possible to completely remove or delete all of your Customer Data from our databases and that residual data may remain on backup media.  In addition, if you have made any public postings on the Service such as in forums or blogs, these communications will not generally be removed.   
-
-You may opt-out of receiving e-mail marketing communications from us by following the instructions contained within our promotional e-mails or in some cases by logging into your Service account and changing your communication preferences**.** This will not affect subsequent subscriptions and if your opt-out is limited to certain types of e-mails the opt-out will be so limited.  If you subscribe to text messages from us, you can terminate a particular text message subscription by reply texting “STOP.”  Subsequent or different subscriptions will be unaffected.  Please note that we reserve the right to send you certain communications relating to your account or use of our Service, such as administrative and service announcements and these transactional account messages may be unaffected if you choose to opt-out from receiving our marketing communications.  If you have any questions about the Privacy Policy or practices described in it, you should contact us in the following ways:
-
-Postal Mail:
-
-Sulake Corporation Oy
-
-Kaarlenkatu 11
-
-00530 Helsinki, Finland
-
-E-mail: sarrequests@sulake.com 
-
-**14\. Security**
-
-Sulake takes reasonable measures to protect your information from unauthorized access or against loss, misuse or alteration by third parties.  Although we make good faith efforts to store the customer information collected on the Service in a secure operating environment that is not available to the public (excepting information you have posted publicly on the Service), we cannot guarantee the absolute security of that information during its transmission or its storage on our systems.  Further, while we attempt to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party “hackers” from illegally obtaining access to this information.  We do not warrant or represent that your information will be protected against, loss, misuse, or alteration by third parties.
-
-**15\. Changes To The Privacy Policy**
-
-We will continue to evaluate this Privacy Policy in order to keep up with changing customer needs, enhanced technologies, and as we develop new service offerings, and we may make changes to the Privacy Policy accordingly.  We reserve the right to modify this Privacy Policy at any time, so please review it frequently.  When changes are made to this Privacy Policy, we will revise the “**Effective Date**” found at the beginning of this Privacy Policy.
-
-If we make any material changes to our privacy practices that may impact you, we will prominently send you a minimail or post other notice of the changes on our Service for a period of at least 30 days.
-
-To the extent any provision of this Privacy Policy is found by a competent tribunal to be invalid or unenforceable, such provision shall be severed to the extent necessary for the remainder to be valid and enforceable.
-
-**16\. How To Contact Us**
-
-Questions and comments about our Privacy Policy should be mailed to: Sulake Corporation Oy, Legal, Kaarlenkatu 11, 00530 Helsinki, Finland.
-
-//End Privacy Policy//
+Please contact us if you wish to make an appeal or present development suggestions about our processing of personal data. You can find the contact information on this page in the contact information section. You can make an appeal concerning privacy or processing of personal data to a supervising authority, such as the Finnish Communications Regulatory Authority in matters related to communication or to the Data Protection Officer in matters concerning other personal data.
