@@ -1,20 +1,43 @@
-Grammarly’s new Terms of Service will be effective on May 25, 2018Terms of Service and License AgreementLast updated on January 11, 2018
+Terms of Service and License AgreementEffective as of May 25, 2018
 
-Grammarly, Inc., a Delaware corporation (together with its subsidiaries and other affiliates, “Grammarly”), owns and/or operates the web pages available at www.Grammarly.com and all sub-domains thereof (collectively, the “Site”). Access to and use of the software (“Software”) and services (“Services”) available on or through the Site (including, without limitation, Grammar Checker, Plagiarism Checker, Writing Handbook, Grammar Genie, Answers and Proofit) or otherwise provided by Grammarly (including, without limitation, any mobile applications), as well as any future Software or Services provided by Grammarly are governed by this Terms of Service and License Agreement (this “Agreement”).
+Together with its subsidiaries and other affiliates, Grammarly, Inc., a Delaware corporation (“Grammarly”), makes available the “Site” (websites including, without limitation, www.grammarly.com and all sub-domains), “Software” (software and mobile applications), and “Services” (including, without limitation, writing feedback suggestions and/or corrections, plagiarism detection, and human proofreading services) to help people communicate more effectively. Access to and use of Grammarly’s existing Site, Software and Services, as well as any future Sites, Software or Services provided by Grammarly are governed by this Terms of Service and License Agreement (this “Agreement”).
 
-THIS IS A LEGALLY BINDING AGREEMENT. IF YOU DO NOT UNDERSTAND THIS AGREEMENT, OR DO NOT AGREE TO BE BOUND BY IT OR THE PRIVACY POLICY REFERENCED HEREIN, YOU MUST IMMEDIATELY LEAVE THE SITE AND YOU ARE NOT AUTHORIZED TO ACCESS OR USE ANY OF THE SERVICES OR SOFTWARE. BY ACCESSING OR USING THE SITE, SERVICES AND/OR SOFTWARE, YOU CONFIRM THAT YOU ARE AT LEAST 18 YEARS OLD (OR IF YOU ARE BETWEEN 13 AND 17 YEARS OLD, INCLUSIVE, THAT YOU ARE USING THE SITE, SERVICES AND/OR SOFTWARE ONLY WITH THE APPROVAL OF YOUR PARENT OR GUARDIAN), THAT YOU ARE LEGALLY ABLE TO ENTER INTO THIS AGREEMENT, AND THAT YOU HAVE READ, UNDERSTAND AND AGREE TO BE BOUND BY THIS AGREEMENT.
+THIS IS A LEGALLY BINDING AGREEMENT. IF YOU DO NOT UNDERSTAND THIS AGREEMENT, OR DO NOT AGREE TO BE BOUND BY IT OR THE PRIVACY POLICY REFERENCED HEREIN, YOU MUST IMMEDIATELY LEAVE THE SITE AND YOU ARE NOT AUTHORIZED TO ACCESS OR USE ANY OF THE SERVICES OR SOFTWARE. BY ACCESSING OR USING THE SITE, SERVICES AND/OR SOFTWARE, YOU CONFIRM THAT YOU ARE AT LEAST 18 YEARS OLD (OR IF YOU ARE BETWEEN 13 AND 17 YEARS OLD, INCLUSIVE, THAT YOU ARE USING THE SITE, SERVICES AND/OR SOFTWARE ONLY WITH THE APPROVAL OF YOUR PARENT OR GUARDIAN), THAT YOU ARE LEGALLY ABLE TO ENTER INTO THIS AGREEMENT, AND THAT YOU HAVE READ, UNDERSTAND AND AGREE TO BE BOUND BY THIS AGREEMENT.
 
-If you are an individual paying subscriber, or are accessing the Site to use a Trial (as defined below) of the Services or Software, or are otherwise browsing the Site, this Agreement is between you, individually, and Grammarly.
+If you are an individual subscriber, or are accessing the Site to use a Trial (as defined below) of the Services or Software, or are otherwise browsing the Site, this Agreement is between you, individually, and Grammarly.
 
-If you are an employee, faculty member or student of a university, school or other entity or organization that has subscribed to the Services and Software (an “Enterprise Subscriber”), you are an “Authorized User” of your Enterprise Subscriber and (i) you represent that you have your Enterprise Subscriber’s permission and authority to use the Site, Services, Software and your Enterprise Subscriber’s “User Content” (as defined below) subject to this Agreement, (ii) this Agreement is an agreement between you, individually, and Grammarly, and (iii) your Enterprise Subscriber is jointly responsible for your use of the Site, Services and Software.
+If you are an employee, faculty member or student of a university, school or other entity or organization that has subscribed to the Services and Software (an “Enterprise Subscriber”), you are an “Authorized User” of your Enterprise Subscriber and (i) you represent that you have your Enterprise Subscriber’s permission and authority to use the Site, Services, Software and your Enterprise Subscriber’s “User Content” (as defined below) subject to this Agreement, (ii) this Agreement is an agreement between you, individually, and Grammarly, and (iii) your Enterprise Subscriber is jointly responsible for your use of the Site, Services and Software.
 
-If you are entering into this Agreement on behalf of an Enterprise Subscriber, you represent that you have the authority to bind the Enterprise Subscriber to this Agreement, in which case references to “you” in this Agreement shall mean the Enterprise Subscriber. If you do not have such authority, you must not accept this Agreement and may not use the Site, Software or Services.
+If you are entering into this Agreement on behalf of an Enterprise Subscriber, you represent that you have the authority to bind the Enterprise Subscriber to this Agreement, in which case references to “you” in this Agreement shall mean the Enterprise Subscriber. If you do not have such authority, you must not accept this Agreement and may not use the Site, Software or Services.
 
-THIS AGREEMENT CONTAINS AN ARBITRATION AGREEMENT, WHICH WILL, WITH LIMITED EXCEPTIONS, REQUIRE YOU TO SUBMIT CLAIMS YOU HAVE AGAINST GRAMMARLY AND ITS LICENSORS AND ITS SUPPLIERS TO BINDING AND FINAL ARBITRATION. UNDER THE ARBITRATION AGREEMENT (1) YOU WILL ONLY BE PERMITTED TO PURSUE CLAIMS AGAINST GRAMMARLY AND ITS LICENSORS AND ITS SUPPLIERS ON YOUR OWN BEHALF, NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY CLASS OR REPRESENTATIVE ACTION OR PROCEEDING, (2) YOU WILL ONLY BE PERMITTED TO SEEK RELIEF (INCLUDING MONETARY, INJUNCTIVE, AND DECLARATORY RELIEF) ON YOUR OWN BEHALF, AND (3) YOU ARE WAIVING YOUR RIGHT TO A JURY TRIAL AND YOUR RIGHT TO HAVE YOUR CLAIMS DECIDED BY A JUDGE OR JURY.
+THIS AGREEMENT CONTAINS AN ARBITRATION AGREEMENT, WHICH WILL, WITH LIMITED EXCEPTIONS, REQUIRE YOU TO SUBMIT CLAIMS YOU HAVE AGAINST GRAMMARLY AND ITS LICENSORS AND ITS SUPPLIERS TO BINDING AND FINAL ARBITRATION. UNDER THE ARBITRATION AGREEMENT (1) YOU WILL ONLY BE PERMITTED TO PURSUE CLAIMS AGAINST GRAMMARLY AND ITS LICENSORS AND ITS SUPPLIERS ON YOUR OWN BEHALF, NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY CLASS OR REPRESENTATIVE ACTION OR PROCEEDING, (2) YOU WILL ONLY BE PERMITTED TO SEEK RELIEF (INCLUDING MONETARY, INJUNCTIVE, AND DECLARATORY RELIEF) ON YOUR OWN BEHALF, AND (3) YOU ARE WAIVING YOUR RIGHT TO A JURY TRIAL AND YOUR RIGHT TO HAVE YOUR CLAIMS DECIDED BY A JUDGE OR JURY.
+
+Table of contents
+
+*   Licenses
+*   Registration and security
+*   Enterprise Subscriber responsibility for Authorized Users
+*   Fees, payment, and trial memberships
+*   Termination and refund policy
+*   Termination of Agreement with Enterprise Subscriber
+*   Access to Services
+*   Mobile Services
+*   User Content
+*   Changes to Services or Terms
+*   Links to third party sites
+*   Consent to receive email
+*   Data collection and privacy
+*   Ownership
+*   Indemnity
+*   Warranty disclaimers
+*   Limitation of liability
+*   Dispute resolution by binding arbitration
+*   General provisions
+*   Notice for California users
 
 Licenses
 
-If you are an individual subscriber: In consideration for your agreement to this Agreement and your payment of all applicable Fees (as defined below), Grammarly grants you a personal, limited, non-exclusive, non-sublicensable, non-transferable, revocable license to access and make use of the Site, the Services and the Software solely for your own personal purposes.
+If you are an individual subscriber: In consideration for your acceptance of this Agreement and your payment of all applicable Fees (as defined below), Grammarly grants you a personal, limited, non-exclusive, non-sublicensable, non-transferable, revocable license to access and use the Site, the Services and the Software solely for your own personal purposes.
 
 If you are an Enterprise Subscriber: In consideration for your agreement to this Agreement and your payment of all applicable Fees (as defined below), Grammarly grants you a limited, non-exclusive, non-sublicensable, non-transferable, revocable license to access and make use of the Site, the Services and the Software solely for your internal business purposes. In addition, you may permit such number of Authorized Users as has been agreed between you and Grammarly to access and make use of the Site, Services and Software.
 
@@ -22,34 +45,51 @@ If you are an Authorized User: In consideration for your agreement to this Agree
 
 You may access and use the Site, Services and Software only in accordance with any instruction manuals, user guides and other documentation as made available by Grammarly from time to time (“Documentation”).
 
-YOU MAY NOT CHECK MORE THAN 300 DOCUMENTS OR 150,000 WORDS IN ANY 30-DAY PERIOD OR 100 DOCUMENTS OR 50,000 WORDS IN ANY 24-HOUR PERIOD. If you are an Enterprise Subscriber, this restriction applies to each of your Authorized Users individually, not to your overall use of the Site, Services and Software.
+YOU MAY NOT CHECK MORE THAN 300 DOCUMENTS OR 150,000 WORDS IN ANY 30-DAY PERIOD OR 100 DOCUMENTS OR 50,000 WORDS IN ANY 24-HOUR PERIOD.
+
+If you are an Enterprise Subscriber, this restriction applies to each of your Authorized Users individually, not to your overall use of the Site, Services and Software.
 
 In addition, you may not:
 
-*   (a) copy, modify or create derivative works based on the Site, Services, Software or Documentation, or any portion(s) of any of the foregoing (individually and collectively, “Grammarly IP”);
-*   (b) distribute, transmit, publish or otherwise disseminate any Grammarly IP;
-*   (c) download or store any Grammarly IP except to the extent explicitly permitted on the Site;
-*   (d) transfer to any third party any of your rights under this Agreement (except to the extent that an Enterprise Subscriber may permit such number of Authorized Users as has been agreed between the Enterprise Subscriber and Grammarly to access and make use of the Site, Services and Software);
-*   (e) access or use the Services, Software or Grammarly IP for the benefit of any third party (except to the extent that Authorized Users may access and make use of the Site, the Services and the Software solely for the internal business purposes of their Enterprise Subscriber);
-*   (f) access content or data not intended for you, log onto a server or account that you are not authorized to access, or otherwise violate or attempt to violate any security or authentication feature or measures of the Site, Software or Services;
-*   (g) attempt to access or derive the source code or architecture of any Software;
-*   (h) attempt to probe, scan or test the vulnerability of the Site, Services and/or Software, or any associated system or network, or to breach any security or authentication feature or measures of the Site, Software or Services, and if you are blocked by Grammarly from accessing the Site, Software or Services (including by blocking your IP address), you will not implement any measures to circumvent such blocking (e.g., by masking your IP address or using a proxy IP address);
-*   (i) interfere or attempt to interfere with service to any user, host or network, including, without limitation, by means of submitting malicious software or computer code (“Malicious Code”) to the Site or Services, load testing, overloading, “flooding,” “spamming,” “mail bombing,” “crashing,”;
-*   (j) email or otherwise transmit any content that (i) infringes any intellectual property or other proprietary rights of any party. (ii) you do not have a right to upload under any law or under contractual or fiduciary relationships. (iii) contains any Malicious Code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment. (iv) poses or creates a privacy or security risk to any person or entity. (v) constitutes unsolicited or unauthorized materials. or (vi) is otherwise objectionable;
-*   (k) automate access to the Site or the Services, including, without limitation, through the use of APIs, bots, scrapers or other similar devices;
-*   (l) export or re-export any Grammarly IP;
-*   (m) use or access any Services, Software or Grammarly IP in order to build a competitive product, service or solution;
-*   (n) violate any applicable law or regulations in connection with your use of the Site, Services or Software;
-*   (o) impersonate any person or entity, or falsely state or otherwise misrepresent your affiliation with a person or entity, including, without limitation, an Enterprise Subscriber. or
-*   (p) permit any third party to do any of the foregoing.
+**a.** copy, modify or create derivative works based on the Site, Services, Software or Documentation, or any portion(s) of any of the foregoing (individually and collectively, “Grammarly IP”);
 
-Grammarly may offer certain Software, including certain interfaces, for download from the Site (“Ancillary Software”). Subject to the other terms and conditions of this Agreement, you may install and use Ancillary Software on computers owned, leased or otherwise controlled by you, solely for in conjunction with your authorized use of the Services. Upon expiration or termination of this Agreement for any reason, you shall cease any further use of the Ancillary Software and shall promptly destroy all copies thereof in your possession.
+**b.** distribute, transmit, publish or otherwise disseminate any Grammarly IP;
+
+**c.** download or store any Grammarly IP except to the extent explicitly permitted on the Site;
+
+**d.** transfer to any third party any of your rights under this Agreement (except to the extent that an Enterprise Subscriber may permit such number of Authorized Users as has been agreed between the Enterprise Subscriber and Grammarly to access and make use of the Site, Services and Software);
+
+**e.** access or use the Services, Software or Grammarly IP for the benefit of any third party (except to the extent that Authorized Users may access and make use of the Site, the Services and the Software solely for the internal business purposes of their Enterprise Subscriber);
+
+**f.** access content or data not intended for you, log onto a server or account that you are not authorized to access, or otherwise violate or attempt to violate any security or authentication feature or measures of the Site, Software or Services;
+
+**g.** attempt to access or derive the source code or architecture of any Software;
+
+**h.** attempt to probe, scan or test the vulnerability of the Site, Services and/or Software, or any associated system or network, or to breach any security or authentication feature or measures of the Site, Software or Services (except with Grammarly’s express permission in connection with your participation in one of Grammarly’s security testing programs), and if you are blocked by Grammarly from accessing the Site, Software or Services (including by blocking your IP address), you will not implement any measures to circumvent such blocking (e.g., by masking your IP address or using a proxy IP address);
+
+**i.** interfere or attempt to interfere with service to any user, host or network, including, without limitation, by means of submitting malicious software or computer code (“Malicious Code”) to the Site or Services, load testing, overloading, “flooding,” “spamming,” “mail bombing,” “crashing,”;
+
+**j.** email or otherwise transmit any content that (i) infringes any intellectual property or other proprietary rights of any party. (ii) you do not have a right to upload under any law or under contractual or fiduciary relationships. (iii) contains any Malicious Code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment. (iv) poses or creates a privacy or security risk to any person or entity. (v) constitutes unsolicited or unauthorized materials. or (vi) is otherwise objectionable;
+
+**k.** automate access to the Site or the Services, including, without limitation, through the use of APIs, bots, scrapers or other similar devices;
+
+**l.** export or re-export any Grammarly IP;
+
+**m.** use or access any Services, Software or Grammarly IP in order to build a competitive product, service or solution;
+
+**n.** violate any applicable law or regulations in connection with your use of the Site, Services or Software;
+
+**o.** impersonate any person or entity, or falsely state or otherwise misrepresent your affiliation with a person or entity, including, without limitation, an Enterprise Subscriber. or
+
+**p.** permit any third party to do any of the foregoing.
+
+Grammarly may offer certain Software, including certain interfaces, for download from the Site (“Ancillary Software”). Subject to the other terms and conditions of this Agreement, you may install and use Ancillary Software on computers owned, leased or otherwise controlled by you, solely in conjunction with your authorized use of the Services. Upon expiration or termination of this Agreement for any reason, you shall cease any further use of the Ancillary Software and shall promptly destroy all copies thereof in your possession.
 
 Certain Services or Software (including Ancillary Software) may be subject to additional limitations, restrictions, terms and/or conditions specific to such Services or Software (“Specific Terms”). In such cases, the applicable Specific Terms will be made available to you and your access to and use of the relevant Services or Software will be contingent upon your acceptance of and compliance with such Specific Terms.
 
-Certain Services or Software (including Ancillary Software) may contain or otherwise make use of software, code or related materials from third parties, including “open source” or “freeware” software (“Third Party Components”). Certain Third Party Components may be subject to separate license terms that accompany such Third Party Components that, to the extent they conflict with the terms of this Agreement, supersede the terms of this Agreement. For your convenience, Grammarly makes available a list of Third Party Components on its website at https://www.grammarly.com/terms/thirdpartynotices. If required by any license for a particular Third Party Component, Grammarly makes the source code of such Third Party Component, and any of Grammarly’s modifications to such Third Party Component, as required, available upon written request to Grammarly.
+Certain Services or Software (including Ancillary Software) may contain or otherwise make use of software, code or related materials from third parties, including “open source” or “freeware” software (“Third Party Components”). Certain Third Party Components may be subject to separate license terms that accompany such Third Party Components that, to the extent they conflict with the terms of this Agreement, supersede the terms of this Agreement. For your convenience, Grammarly makes available a list of Third Party Components on its website at https://grammarly.com/terms/thirdpartynotices. If required by any license for a particular Third Party Component, Grammarly makes the source code of such Third Party Component, and any of Grammarly’s modifications to such Third Party Component, as required, available upon written request to Grammarly.
 
-Registration and Security
+Registration and security
 
 By completing the registration process for any given Services, you are agreeing to subscribe to the selected Services, subject to the terms and conditions of this Agreement. You agree to provide Grammarly with accurate and complete registration information and to promptly notify Grammarly in the event of any changes to any such information.
 
@@ -57,29 +97,29 @@ You shall be solely responsible for the security and proper use of all user ID
 
 You are solely responsible for all activity in connection with access to the Site and/or Services through your account or using your password, and for the security of your computer systems, and in no event shall Grammarly be liable for any loss or damages relating to such activity.
 
-Enterprise Subscriber Responsibility for Authorized Users
+Enterprise Subscriber responsibility for Authorized Users
 
 Enterprise Subscribers shall ensure that the total number of Authorized Users does not exceed the maximum number of seats authorized by and purchased from Grammarly (each of which seats represents a unique (named) Authorized User). Enterprise Subscribers may assign different Authorized Users to the seats authorized by and purchased from Grammarly, so long as the total number of Authorized Users at any time does not exceed the maximum number of seats authorized by and purchased from Grammarly, but Authorized Users may not transfer (including by way of sublicense, lease, assignment or other transfer, including by operation of law) their seat, user name or right to use the Site, Services or Software to any third party. You, the Enterprise Subscriber, and your Authorized Users are jointly responsible for your Authorized Users’ use of the Site, Services and Software. You are also responsible for ensuring that all of your Authorized Users comply with all of the terms and conditions of this Agreement. Any violation of the terms and/or conditions of this Agreement by any of your Authorized Users shall be deemed to be a violation thereof by you.
 
-Fees, Payment and Trial Memberships
+Fees, payment, and trial memberships
 
 If you have registered to use certain Services and/or Software on a trial basis, then you may use such Services and Software only for noncommercial evaluation purposes during the applicable trial period.
 
-Your access to or use of the Services and/or Software shall be contingent upon your payment of all applicable fees as described on the Site from time to time (“Fees”). unless you are an Authorized User, in which case your access to or use of the Services and/or Software shall be contingent upon your Enterprise Subscriber’s payment of the Fees.
+Your access to or use of the Services and/or Software shall be contingent upon your payment of all applicable fees as described on the Site at the time (“Fees”). unless you are an Authorized User, in which case your access to or use of the Services and/or Software shall be contingent upon your Enterprise Subscriber’s payment of the Fees.
 
-Upon registering for Services, unless you are an Authorized User, you will be required to designate a valid credit card or PayPal™ account. You hereby authorize Grammarly to charge to your designated account all Fees relating to the Services you select, and you agree to pay all such Fees in accordance with the applicable card member agreement or PayPal™ terms and conditions.
+Upon registering for Services, unless you are an Authorized User, you will be required to designate a valid credit card or PayPal® account. You hereby authorize Grammarly to charge to your designated account all Fees relating to the Services you select, and you agree to pay all such Fees in accordance with the applicable card member agreement or PayPal® terms and conditions.
 
 Grammarly reserves the right to revise its Fees, including by increasing or adding new Fees, at any time on ten (10) days’ notice. Such notice may be sent to you by email to your most recently provided email address or posted on the Site or by any other manner chosen by Grammarly in its commercially reasonable discretion. You will be deemed to have received any such notice that is posted on the Site on the day it was posted. Your use of the Services after the ten (10) day notice period constitutes your acceptance of the new or revised Fees. If you do not agree to the revised Fees, you may cancel your subscription by following the “View cancellation instructions” link below.
 
 Continuous membership
 
-To ensure uninterrupted service, all subscriptions to the Site, Software and Services are renewed automatically. You hereby authorize Grammarly to charge subscription Fees for the renewal period to the credit card or PayPal™ account on file. All subscriptions are renewed at the subscription level(s) in effect at the time the then-current subscription term ends. You may cancel the subscription at any time by following the “View cancellation instructions” link below.
+To ensure uninterrupted service, all subscriptions to the Site, Software and Services are renewed automatically. You hereby authorize Grammarly to charge subscription Fees for the renewal period to the credit card or PayPal® account on file. All subscriptions are renewed at the subscription level(s) and Fees in effect at the time the then-current subscription term ends. You may cancel the subscription at any time by following the “View cancellation instructions” link below.
 
 Free trial
 
 Grammarly may offer a free trial membership from time to time with regard to certain Software or Services (a “Trial”). By accessing or using the Site, Services or Software, you agree to the terms of any such Trial and further agree to any changes Grammarly may make to such Trial as described in “Changes to Services or Terms” below. If you cancel the Services before the end of the trial period, all your rights to any remaining free trial period will be waived and you will not be eligible to participate in any further Trials, except as allowed by Grammarly in its sole discretion.
 
-Termination and Refund Policy
+Termination and refund policy
 
 This Agreement shall continue until you cancel your subscription or until terminated by Grammarly. You may cancel your subscription at any time, although only an authorized representative of an Enterprise Subscriber may cancel the Enterprise Subscriber’s account. View cancellation instructions at https://support.grammarly.com/hc/en-us/articles/115000090172-How-do-I-cancel-my-subscription. If you cancel after your subscription renewal date, you will not receive a refund for any amounts that have been charged. Your cancellation will be effective at the end of your then-current subscription period, subject to applicable law, and you may use the Services until your cancellation is effective (unless your access is suspended or terminated as set forth below).
 
@@ -131,17 +171,21 @@ Grammarly may from time to time update or revise this Agreement. If Grammarly
 
 If you cancel your subscription within ten (10) days following such notice by Grammarly in accordance with the two preceding paragraphs, then Grammarly will refund you a pro-rated portion of any pre-paid Fees for the affected Services applicable to the cancelled portion of the pre-paid subscription term, if any.
 
-Links to Third Party Sites
+Links to third party sites
 
 Any links on the Site to third party websites are provided for your convenience only. If you choose to access third party websites or obtain products or services from third parties, you do so entirely at your own risk and such access is between you and such third party. Grammarly does not warrant or make any representation regarding the legality, accuracy or authenticity of content presented by such websites or any products or services offered by third parties and shall have no liability for any loss or damages arising from the access or use of such websites, products or services.
 
-Consent to Receive Email
+Consent to receive emailFor users located outside of the European Economic Area (EEA):
 
 Your registration to use the Site and/or Services constitutes your consent to receive email communications from Grammarly, including messages regarding customer service issues and other matters. You may opt not to receive email correspondence, other than technical notifications and email regarding issues related to your account and your use of the Site and Services, at any time by following the link included in the email messages.
 
-Data Collection and Privacy
+For users located in the European Economic Area (EEA):
 
-Grammarly does not collect personally identifiable information from you except to the extent you have explicitly given such information to Grammarly. Grammarly’s information practices are further described in its privacy policy, which is available at: grammarly.com/privacy-policy (the “Privacy Policy”). The Privacy Policy is an integral part of this Agreement and is expressly incorporated by reference, and by entering into this Agreement you agree to (i) all of the terms of the Privacy Policy, and (ii) Grammarly’s utilization of data as described in the Privacy Policy is not an actionable breach of your privacy or publicity rights.
+We only send marketing communications to users located in the European Economic Area (EEA) with your prior consent, and you may withdraw your consent at any time by clicking the “unsubscribe” link found within Grammarly emails and changing your contact preferences. Please note you will continue to receive transactional messages related to our Services, even if you unsubscribe from marketing emails.
+
+Data collection and privacy
+
+Grammarly does not collect personally identifiable information from you except to the extent you have explicitly given such information to Grammarly. Grammarly’s information practices are further described in its privacy policy, which is available at: grammarly.com/privacy-policy (the “Privacy Policy”). The Privacy Policy is an integral part of this Agreement and is expressly incorporated by reference, and by entering into this Agreement you agree to (i) all of the terms of the Privacy Policy, and (ii) Grammarly’s use of data as described in the Privacy Policy is not an actionable breach of your privacy or publicity rights.
 
 Grammarly may from time to time update or revise the Privacy Policy. If Grammarly updates or revises the Privacy Policy, Grammarly will notify you either by email to your most recently provided email address, by posting the updated or revised Privacy Policy on the Site or by any other manner chosen by Grammarly in its commercially reasonable discretion. Your use of the Site, Services or Software following any such update or revision constitutes your agreement to be bound by and comply with the Privacy Policy as updated or revised.
 
@@ -149,7 +193,7 @@ In addition, Grammarly may engage third parties to conduct risk control and fr
 
 Ownership
 
-All intellectual property rights in and to the User Content are and shall remain your property, and Grammarly shall acquire no right of ownership or use with respect to any User Content except in connection with its provision of the Services under this Agreement.
+All intellectual property rights in and to the User Content are and shall remain your property, and Grammarly shall acquire no right of ownership with respect to your User Content.
 
 All intellectual property rights in and to the Software, Site and Services and other Grammarly IP are and shall remain the sole property of Grammarly and its affiliates and licensors, as applicable, and you shall acquire no right of ownership or use with respect to any Software or other Grammarly IP except as specified in this Agreement. Without limiting the foregoing, you acknowledge that the Software and the Service and the inventions, know-how and methodology embodied therein are proprietary to, and contain valuable trade secrets of, Grammarly and its affiliates and licensors, as applicable, and that the Software constitutes Confidential Information of Grammarly. You may from time to time provide Grammarly with suggestions, comments, recommendations, improvements, solutions, bug fixes, features, concepts, techniques, ideas, know-how and/or any feedback regarding the Services, the Software, the Site and/or any of Grammarly’s related technologies (“Feedback”). Any and all Feedback is and shall be given entirely voluntarily. As between the you, Grammarly and, if applicable, your Enterprise Subscriber, all Feedback shall be exclusively owned by Grammarly, and you hereby make all assignments necessary to accomplish the foregoing ownership, and as a result Grammarly shall be freely entitled to reproduce, prepare derivative works, disclose to third parties, display and perform (publicly or otherwise), sell, lease, license, distribute and otherwise use and exploit any and all such Feedback as it deems appropriate, at its sole discretion, without obligation or liability of any kind to you, your Enterprise Subscriber (if applicable) or any other person or entity.
 
@@ -157,11 +201,11 @@ Indemnity
 
 You shall indemnify, release and hold harmless Grammarly and its parents, subsidiaries, affiliates, licensors and suppliers, and each of their respective officers, directors, employees and agents, from and against any loss, liability (including settlements, judgments, fines and penalties) and costs (including reasonable attorney fees, court costs and other litigation expenses) relating to any claim or demand made by any third party due to or arising out of your access to the Site, use of the Services or Software, violation of this Agreement, or infringement of any intellectual property or other right of any person or entity. If you are a California resident, you waive California Civil Code Section 1542, which says: “A general release does not extend to claims which the creditor does not know or suspect to exist in his favor at the time of executing the release, which if known by him must have materially affected his settlement with the debtor.” If you are a resident of another jurisdiction, you waive any comparable statute or doctrine.
 
-Warranty Disclaimers
+Warranty disclaimers
 
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, GRAMMARLY, ITS LICENSORS AND ITS SUPPLIERS EXPRESSLY DISCLAIM ANY AND ALL WARRANTIES AND CONDITIONS, EXPRESS OR IMPLIED, REGARDING THE SITE, SERVICES, AND SOFTWARE, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, MERCHANTABLE QUALITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NONINFRINGEMENT, SATISFACTORY QUALITY OR ARISING FROM A COURSE OF DEALING, LAW, USAGE, OR TRADE PRACTICE, OR REGARDING SECURITY, QUIET ENJOYMENT, RELIABILITY, TIMELINESS AND PERFORMANCE. YOU AGREE THAT YOUR USE OF THE SITE, SERVICES AND SOFTWARE ARE AT YOUR OWN SOLE RISK AND THAT THE SITE, SERVICES AND ANY SOFTWARE ARE PROVIDED ON AN “AS IS,” “WHERE IS,” “AS AVAILABLE,” “WITH ALL FAULTS” BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. WITHOUT LIMITING THE FOREGOING, GRAMMARLY AND ITS LICENSORS AND ITS SUPPLIERS DO NOT WARRANT THAT THE OPERATION OF THE SITE, SERVICES AND/OR SOFTWARE WILL MEET YOUR REQUIREMENTS OR WILL BE UNINTERRUPTED OR ERROR-FREE.
 
-Limitation of Liability
+Limitation of liability
 
 IN NO EVENT SHALL GRAMMARLY BE LIABLE WITH RESPECT TO THE SITE, SERVICES AND/ OR SOFTWARE FOR (I) ANY AMOUNT IN THE AGGREGATE IN EXCESS OF THE FEES YOU HAVE ACTUALLY PAID TO GRAMMARLY DURING THE TWELVE (12) MONTH PERIOD IMMEDIATELY PRECEDING THE EVENT(S) GIVING RISE TO SUCH LIABILITY. (II) ANY LOST PROFITS, LOST OR DAMAGED USER CONTENT OR OTHER DATA, OR FAILURE TO MEET ANY DUTY, INCLUDING WITHOUT LIMITATION GOOD FAITH AND REASONABLE CARE. OR (III) ANY INDIRECT, INCIDENTAL, PUNITIVE, SPECIAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES OF ANY KIND WHATSOEVER.
 
@@ -171,13 +215,13 @@ CERTAIN STATES DO NOT ALLOW THE LIMITATION OF CERTAIN DAMAGES, SO SOME OR AL
 
 IF YOU ARE A USER FROM NEW JERSEY, THE FOREGOING SECTIONS TITLED “WARRANTY DISCLAIMERS” AND “LIMITATION OF LIABILITY” ARE INTENDED TO BE ONLY AS BROAD AS IS PERMITTED UNDER THE LAWS OF THE STATE OF NEW JERSEY. IF ANY PORTION OF THESE SECTIONS IS HELD TO BE INVALID UNDER THE LAWS OF THE STATE OF NEW JERSEY, THE INVALIDITY OF SUCH PORTION SHALL NOT AFFECT THE VALIDITY OF THE REMAINING PORTIONS OF THE APPLICABLE SECTIONS.
 
-Dispute Resolution by Binding Arbitration
+Dispute resolution by binding arbitration
 
 PLEASE READ THIS SECTION CAREFULLY AS IT AFFECTS YOUR RIGHTS.
 
 a. Agreement to Arbitrate
 
-This Section titled “Dispute Resolution By Binding Arbitration” is referred to in this Agreement as the “Arbitration Agreement.” You agree that any and all disputes or claims that have arisen or may arise between you and Grammarly, whether arising out of or relating to this Agreement (including any alleged breach thereof), the Site, Software or Services, any advertising or any aspect of the relationship or transactions between us, shall be resolved exclusively through final and binding arbitration, rather than a court, in accordance with the terms of this Arbitration Agreement, except that you may assert individual claims in small claims court, if your claims qualify. Further, this Arbitration Agreement does not preclude you from bringing issues to the attention of federal, state, or local agencies, and such agencies can, if the law allows, seek relief against us on your behalf. You agree that, by entering into this Agreement, you and Grammarly are each waiving the right to a trial by jury or to participate in a class action. Your rights will be determined by a neutral arbitrator, not a judge or jury. The Federal Arbitration Act governs the interpretation and enforcement of this Arbitration Agreement.
+This Section titled “Dispute resolution by binding arbitration” is referred to in this Agreement as the “Arbitration Agreement.” You agree that any and all disputes or claims that have arisen or may arise between you and Grammarly, whether arising out of or relating to this Agreement (including any alleged breach thereof), the Site, Software or Services, any advertising or any aspect of the relationship or transactions between us, shall be resolved exclusively through final and binding arbitration, rather than a court, in accordance with the terms of this Arbitration Agreement, except that you may assert individual claims in small claims court, if your claims qualify. Further, this Arbitration Agreement does not preclude you from bringing issues to the attention of federal, state, or local agencies, and such agencies can, if the law allows, seek relief against us on your behalf. You agree that, by entering into this Agreement, you and Grammarly are each waiving the right to a trial by jury or to participate in a class action. Your rights will be determined by a neutral arbitrator, not a judge or jury. The Federal Arbitration Act governs the interpretation and enforcement of this Arbitration Agreement.
 
 b. Prohibition of Class and Representative Actions and Non-Individualized Relief
 
@@ -209,11 +253,11 @@ h. Future Changes to Arbitration Agreement
 
 Notwithstanding any provision in this Agreement to the contrary, Grammarly agrees that if it makes any future change to this Arbitration Agreement (other than a change to the Notice Address) while you are a user of the Services, you may reject any such change by sending Grammarly written notice within thirty (30) calendar days of the change to the Notice Address provided above. By rejecting any future change, you are agreeing that you will arbitrate any dispute between us in accordance with the language of this Arbitration Agreement.
 
-General Provisions
+General provisions
 
 This Agreement shall be governed by, and construed in accordance with, the laws of the State of California, without regard to any choice of law, conflicts of law or other principles that would result in the applicable of the laws or regulations of any other jurisdiction. Subject to the section titled “Arbitration”, any legal action or proceeding relating to this Agreement shall be instituted in a state or federal court in San Francisco County, California. You and Grammarly agree to submit to the jurisdiction of, and agree that venue is proper in, these courts in any such legal action or proceeding.
 
-This Agreement and the rights and obligations herein are personal to you, and you may not assign or otherwise transfer this Agreement or any of your rights or obligations hereunder, by operation of law or otherwise, without the prior written consent of Grammarly. Grammarly may freely assign this Agreement.
+This Agreement and the rights and obligations herein are personal to you, and you may not assign or otherwise transfer this Agreement or any of your rights or obligations hereunder, by operation of law or otherwise, without the prior written consent of Grammarly. Grammarly may freely assign this Agreement, including, without limitation, in connection with a merger, acquisition, bankruptcy, reorganization, or sale of some or all of our assets or stock.
 
 If any one or more of the provisions of this Agreement are for any reason held to be invalid, illegal or unenforceable by a court of competent jurisdiction, the remaining provisions of this Agreement shall be unimpaired and shall remain in full force and effect, and the invalid, illegal or unenforceable provision(s) shall be replaced by a valid, legal and enforceable provision or provisions that comes closest to the intent of the parties underlying the invalid, illegal or unenforceable provision(s).
 
@@ -223,7 +267,7 @@ If Grammarly is unable to perform any obligation under this Agreement because
 
 If you and Grammarly have executed a separate Subscription Agreement applicable to your access to and use of the Site, Services and/or Software, then the terms and conditions of such Subscription Agreement shall prevail to the extent of any conflict with the terms and conditions of this Agreement. In all other cases, this Agreement constitutes the entire agreement between Grammarly and you with respect to its subject matter, and supersedes all prior communications and proposals, whether electronic, oral or written, between Grammarly and you. No waiver or modification of any of the provisions of this Agreement shall be binding unless in writing and signed by a duly authorized representative of each party.
 
-Notice for California Users
+Notice for California users
 
 Under California Civil Code Section 1789.3, users of the Site, Software or Services from California are entitled to the following specific consumer rights notice: The Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs may be contacted in writing at 1625 North Market Blvd., Suite N 112, Sacramento, CA 95834, or by telephone at (916) 445-1254 or (800) 952-5210. You may contact Grammarly at:
 
