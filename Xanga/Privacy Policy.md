@@ -7,10 +7,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 years ago
     *   in Themes
     *   0 votes
-    *   8 (last comment by jacobthestupendous 1 day ago)
+    *   8 (last comment by jacobthestupendous 2 days ago)
 *   Can’t get my old post
     *   by mm911029
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -25,13 +25,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 years ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by neko\_skater\_girl 1 week ago)
+    *   2 (last comment by neko\_skater\_girl 2 weeks ago)
 *   Help
     *   by these\_hazel\_eyes\_cry
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by eeyorewendy 4 weeks ago)
+    *   3 (last comment by eeyorewendy 1 month ago)
 *   All Blogs and Photos GONE! :(
     *   by BigRig37
     *   11 months ago
@@ -64,7 +64,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by NickyPat 1 month ago)
 *   how can I find other blogs to follow
     *   by Amoreno45
-    *   1 month ago
+    *   2 months ago
     *   in Following
     *   0 votes
     *   0
