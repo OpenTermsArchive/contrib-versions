@@ -129,7 +129,7 @@ What rights do you have?
 
 Questions?
 
-Email our Data Protection Officer, Judith Nink:
+Email our Data Protection Officer, Judith Nink: privacy AT flattr DOT com
 
 Privacy Policy (long version)
 
@@ -148,8 +148,7 @@ Contact our Data Protection Officer
 
 If you have any questions regarding your personal data, please contact our Data Protection Officer:
 
-Dr. Judith Nink **Phone**: +49 (0) 221 / 65028 598 **Email**:  
-**Fax**: +49 (0) 221 / 65028 599
+Dr. Judith Nink **Phone**: +49 (0) 221 / 65028 598 **Email**: privacy AT flattr DOT com **Fax**: +49 (0) 221 / 65028 599
 
 What is personal data?
 
