@@ -7,10 +7,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 years ago
     *   in Themes
     *   0 votes
-    *   8 (last comment by jacobthestupendous 2 days ago)
+    *   8 (last comment by jacobthestupendous 3 days ago)
 *   Can’t get my old post
     *   by mm911029
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
