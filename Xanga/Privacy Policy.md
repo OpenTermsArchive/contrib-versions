@@ -2,15 +2,21 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Can't see my old posts!
+    *   by NobodyLoser
+    *   51 minutes ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Can't upload xml files
     *   \[Resolved\] by carrietotoro
     *   4 years ago
     *   in Themes
     *   0 votes
-    *   8 (last comment by jacobthestupendous 3 days ago)
+    *   8 (last comment by jacobthestupendous 4 days ago)
 *   Can’t get my old post
     *   by mm911029
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -86,12 +92,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   how can i access my old blogs
-    *   \[Resolved\] by e\_e
-    *   4 years ago
-    *   in Data Migration
-    *   0 votes
-    *   7 (last comment by lpbaby89 2 months ago)
 
 1 2 3 ... 188 Next
 
