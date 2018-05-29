@@ -4,7 +4,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Can't see my old posts!
     *   by NobodyLoser
-    *   51 minutes ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -13,10 +13,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 years ago
     *   in Themes
     *   0 votes
-    *   8 (last comment by jacobthestupendous 4 days ago)
+    *   8 (last comment by jacobthestupendous 5 days ago)
 *   Can’t get my old post
     *   by mm911029
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
