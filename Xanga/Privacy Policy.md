@@ -2,9 +2,21 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Help Wanted
+    *   by xXxBrokenEmoHeartxXx
+    *   4 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Please help to retrieve my blogs
+    *   by tracyrosa
+    *   21 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Can't see my old posts!
     *   by NobodyLoser
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -13,16 +25,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 years ago
     *   in Themes
     *   0 votes
-    *   8 (last comment by jacobthestupendous 5 days ago)
+    *   8 (last comment by jacobthestupendous 6 days ago)
 *   Can’t get my old post
     *   by mm911029
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can not retrieve old posts
     *   by kelsey11111
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -76,18 +88,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Really need my old blogs, how to retrieve them?
     *   by i\_like\_tsro
-    *   2 months ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Where can I find my blog entries?
-    *   \[Resolved\] by EterNaLxDeath
-    *   4 years ago
-    *   in Data Migration
-    *   0 votes
-    *   3 (last comment by steven\_and\_alycia 2 months ago)
-*   How can I retrieve my old posts?
-    *   by Chokie\_Cheng
     *   2 months ago
     *   in Data Migration
     *   0 votes
