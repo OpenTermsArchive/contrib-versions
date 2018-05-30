@@ -16,6 +16,7 @@ c) where it is necessary for the purposes of the legitimate and legal interests 
 d) where you have given consent to it.  
   
 These reasons for collecting and processing Personal Data determine and limit what Personal Data we collect and how we use it (section 3. below), how long we store it (section 4. below), who has access to it (section 5. below) and what rights and other control mechanisms are available to you as a user (section 6. below).  
+  
 **3\. What Data We Collect and Process**  
   
 3.1 Basic Account Data  
