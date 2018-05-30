@@ -1,7 +1,9 @@
 Twitter Terms of Service
 
+*   Download: Twitter User Agreement
 *   *   Terms of Service- If you live in the United States
     *   Terms of Service- If you live outside of the United States
+    *   Download: Twitter User Agreement
 
 Twitter Terms of Service
 
