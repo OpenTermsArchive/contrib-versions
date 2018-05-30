@@ -90,7 +90,7 @@ Public information on GitHub
 
 Much of GitHub is public-facing. If your content is public-facing, third parties may access and use it in compliance with our Terms of Service, such as by viewing your profile or repositories or pulling data via our API. We do not sell that content. it is yours. However, we do allow third parties, such as research organizations or archives, to compile public-facing GitHub information. Other third parties, such as data brokers, have been known to scrape GitHub and compile data as well.
 
-Your Personal Information, associated with your content, could be gathered by third parties in these compilations of GitHub data. If you do not want your Personal Information to appear in third parties’ compilations of GitHub data, please do not make your Personal Information publicly available and be sure to configure your email address to be private in your user profile. We set current users' email address private by default, but legacy GitHub users may need to update their settings.
+Your Personal Information, associated with your content, could be gathered by third parties in these compilations of GitHub data. If you do not want your Personal Information to appear in third parties’ compilations of GitHub data, please do not make your Personal Information publicly available and be sure to configure your email address to be private in your user profile and in your git commit settings. We currently set users' email address private by default, but legacy GitHub users may need to update their settings.
 
 If you would like to compile GitHub data, you must comply with our Terms of Service regarding scraping and privacy, and you may only use any public-facing Personal Information you gather for the purpose for which our user has authorized it. For example, where a GitHub user has made an email address public-facing for the purpose of identification and attribution, do not use that email address for commercial advertising. We expect you to reasonably secure any Personal Information you have gathered from GitHub, and to respond promptly to complaints, removal requests, and "do not contact" requests from GitHub or GitHub users.
 
@@ -112,7 +112,7 @@ Data portability
 
 As a GitHub User, you can always take your data with you. You can clone your repositories to your desktop, for example, or you can use our Data Portability tools to download all of the data we have about you.
 
-Data retention and deletion
+Data retention and deletion of data
 
 Generally, GitHub will retain User Personal Information for as long as your account is active or as needed to provide you services.
 
@@ -120,7 +120,9 @@ We may retain certain User Personal Information indefinitely, unless you delete 
 
 If you would like to cancel your account or delete your User Personal Information, you may do so in your user profile. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, we will delete your full profile (within reason) within 90 days. You may contact GitHub Support to request the erasure of the data we process on the basis of consent within 30 days.
 
-After an account has been deleted, certain data, such as contributions to others' repositories and comments in others' issues, will remain. However, we will delete or deidentify your personal information, including your user name and email address, from the author field (see https://github.com/ghost).
+After an account has been deleted, certain data, such as contributions to others' repositories and comments in others' issues, will remain. However, we will delete or deidentify your personal information, including your user name and email address, from the author field of issues, pull requests, and comments by associating them with the ghost user.
+
+The email address you have supplied via your Git commit settings will always be associated with your commits in the Git system. If you chose to make your email address private, you should also update your Git commit settings. We are unable to change or delete data in the Git commit history — the Git software is designed to maintain a record — but we do enable you to control what information you put in that record.
 
 Our use of cookies and tracking Cookies
 
@@ -147,7 +149,7 @@ GitHub enforces a written security information program. Our program:
 *   includes incident response and data breach notification processes. and
 *   complies with applicable information security related laws and regulations in the geographic regions where GitHub does business.
 
-In the event of a data breach that affects your User Personal Information, we will act promptly to mitigate the impact of a breach and notify any affected users.
+In the event of a data breach that affects your User Personal Information, we will act promptly to mitigate the impact of a breach and notify any affected users without undue delay.
 
 Transmission of data on GitHub is encrypted using SSH, HTTPS, and SSL/TLS. While our data is not encrypted at rest, we manage our own cages and racks at top-tier data centers with excellent physical and network security, and when data is stored with a third party storage provider, it is encrypted.
 
