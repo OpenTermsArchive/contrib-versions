@@ -57,7 +57,6 @@ Terms and Conditions Windstream Information ▼ About us
     *   Company Overview
     *   Company History
     *   Tariffs
-    *   Cavalier Tariffs
     *   Coverage Map
     *   Lifeline Assistance Program
         *   Lifeline Applications
@@ -72,7 +71,6 @@ Terms and Conditions Windstream Information ▼ About us
 *   PAETEC Information▼
     *   PAETEC Interstate and International Telecommunications Rates
     *   PAETEC Service Charges and Surcharges Glossary
-    *   PAETEC Tariffs
     *   PAETEC Terms and Conditions
     *   Protecting CPNI: Your Rights and Opinions
     *   PAETEC Service Charges and Surcharges Description
