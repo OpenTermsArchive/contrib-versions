@@ -16,7 +16,7 @@ The purpose of this Privacy Policy is to provide you with a clear explanation of
 
 ​
 
-Read this policy and make sure you fully understand our practices in relation to your personal information, before you access or use any of our Services.  If you read and fully understand this Privacy Policy, and emain opposed to our practices, you must immediately leave this website, application or service, and avoid or discontinue all use of any of our Services.  If you have any questions or concerns regarding this policy, please contact us at privacy@wix.com.
+Read this policy and make sure you fully understand our practices in relation to your personal information, before you access or use any of our Services.  If you read and fully understand this Privacy Policy, and remain opposed to our practices, you must immediately leave this website, application or service, and avoid or discontinue all use of any of our Services.  If you have any questions or concerns regarding this policy, please contact us at privacy@wix.com.
 
 #ItsThatEasy
 
