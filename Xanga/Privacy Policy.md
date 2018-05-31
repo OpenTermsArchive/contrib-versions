@@ -4,19 +4,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Help Wanted
     *   by xXxBrokenEmoHeartxXx
-    *   4 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help to retrieve my blogs
     *   by tracyrosa
-    *   21 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can't see my old posts!
     *   by NobodyLoser
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -25,7 +25,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 years ago
     *   in Themes
     *   0 votes
-    *   8 (last comment by jacobthestupendous 6 days ago)
+    *   8 (last comment by jacobthestupendous 1 week ago)
 *   Can’t get my old post
     *   by mm911029
     *   1 week ago
