@@ -2,21 +2,27 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   My Xanga Page content missing
+    *   by MissVaBarBie
+    *   3 hours ago
+    *   in Miscellaenous
+    *   0 votes
+    *   0
 *   Help Wanted
     *   by xXxBrokenEmoHeartxXx
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help to retrieve my blogs
     *   by tracyrosa
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can't see my old posts!
     *   by NobodyLoser
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -84,12 +90,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by Amoreno45
     *   2 months ago
     *   in Following
-    *   0 votes
-    *   0
-*   Really need my old blogs, how to retrieve them?
-    *   by i\_like\_tsro
-    *   2 months ago
-    *   in Data Migration
     *   0 votes
     *   0
 
