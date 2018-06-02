@@ -156,7 +156,7 @@ Learn MoreTop of page How to Access &. Control Your Personal DataHow to Access &
 You can also make choices about Microsoft's collection and use of your data. You can control your personal data that Microsoft has obtained, and exercise your data protection rights, by contacting Microsoft or using various tools we provide. How you can access or control your personal data will depend on which products you use. For example, you can:
 
 *   Control the use of your data for interest-based advertising from Microsoft by visiting our opt-out page.
-*   Choose whether you wish to receive promotional emails, SMS messages, telephone calls, and postal mail from Microsoft.
+*   You can always choose whether you wish to receive promotional emails, SMS messages, telephone calls, and postal mail from Microsoft. You can also
 *   Access and clear your data through the Microsoft privacy dashboard.
 
 You can access and control your personal data that Microsoft has obtained with tools Microsoft provides to you, described below, or by contacting Microsoft. For instance:
@@ -429,7 +429,7 @@ If you have a privacy concern, complaint, or a question for Microsoft’s Chief 
 Unless otherwise stated, Microsoft Corporation and, for those in the European Economic Area and Switzerland, Microsoft Ireland Operations Limited are data controllers for personal data we collect through the products subject to this statement. Our addresses are:
 
 *   Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052, USA. Telephone: (+1) 425-882-8080.
-*   Microsoft Ireland Operations Limited, Attn: Data Protection Officer, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Ireland. Telephone: (+353) 1-706-4099.
+*   Microsoft Ireland Operations Limited, Attn: Data Protection Officer, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Ireland. Telephone: (+353) 1 850 940 940.
 
 Skype Communications S.à.r.l. 23-29 Rives de Clausen L-2165 Luxembourg, Luxembourg is a data controller for Skype. To contact us in relation to Skype software or products, please submit a support request to the Skype customer support team.
 
@@ -1157,7 +1157,7 @@ How to Access &. Control Your Personal DataHow to Access &. Control Your Persona
 You can also make choices about Microsoft's collection and use of your data. You can control your personal data that Microsoft has obtained, and exercise your data protection rights, by contacting Microsoft or using various tools we provide. How you can access or control your personal data will depend on which products you use. For example, you can:
 
 *   Control the use of your data for interest-based advertising from Microsoft by visiting our opt-out page.
-*   Choose whether you wish to receive promotional emails, SMS messages, telephone calls, and postal mail from Microsoft.
+*   You can always choose whether you wish to receive promotional emails, SMS messages, telephone calls, and postal mail from Microsoft. You can also
 *   Access and clear your data through the Microsoft privacy dashboard.
 
 Full text
@@ -1436,7 +1436,7 @@ If you have a privacy concern, complaint, or a question for Microsoft’s Chief 
 Unless otherwise stated, Microsoft Corporation and, for those in the European Economic Area and Switzerland, Microsoft Ireland Operations Limited are data controllers for personal data we collect through the products subject to this statement. Our addresses are:
 
 *   Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052, USA. Telephone: (+1) 425-882-8080.
-*   Microsoft Ireland Operations Limited, Attn: Data Protection Officer, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Ireland. Telephone: (+353) 1-706-4099.
+*   Microsoft Ireland Operations Limited, Attn: Data Protection Officer, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Ireland. Telephone: (+353) 1 850 940 940.
 
 Skype Communications S.à.r.l. 23-29 Rives de Clausen L-2165 Luxembourg, Luxembourg is a data controller for Skype. To contact us in relation to Skype software or products, please submit a support request to the Skype customer support team.
 
