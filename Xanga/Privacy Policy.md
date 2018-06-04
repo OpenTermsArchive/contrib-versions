@@ -1,34 +1,34 @@
-Skip to toolbar
-
-*   Xanga
-
-*   Log In
-
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Need old blog entries
+    *   by starlessnight99
+    *   8 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   My Xanga Page content missing
     *   by MissVaBarBie
-    *   2 days ago
+    *   3 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Help Wanted
     *   by xXxBrokenEmoHeartxXx
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help to retrieve my blogs
     *   by tracyrosa
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can't see my old posts!
     *   by NobodyLoser
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -64,7 +64,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 (last comment by eeyorewendy 1 month ago)
 *   All Blogs and Photos GONE! :(
     *   by BigRig37
-    *   11 months ago
+    *   12 months ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by DiddleMySkittleForever 1 month ago)
@@ -92,12 +92,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   1 (last comment by NickyPat 1 month ago)
-*   how can I find other blogs to follow
-    *   by Amoreno45
-    *   2 months ago
-    *   in Following
-    *   0 votes
-    *   0
 
 1 2 3 ... 188 Next
 
@@ -156,4 +150,8 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
+
+*   Xanga
+
+*   Log In
