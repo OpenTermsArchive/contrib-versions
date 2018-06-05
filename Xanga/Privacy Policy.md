@@ -4,25 +4,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Need old blog entries
     *   by starlessnight99
-    *   8 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   My Xanga Page content missing
     *   by MissVaBarBie
-    *   3 days ago
+    *   4 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Help Wanted
     *   by xXxBrokenEmoHeartxXx
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help to retrieve my blogs
     *   by tracyrosa
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
