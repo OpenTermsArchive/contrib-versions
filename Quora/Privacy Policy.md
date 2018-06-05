@@ -146,5 +146,3 @@ Mountain View, CA 94041
 If we change our privacy policies and procedures, we will post those changes on this page. If we make any changes to this Privacy Policy that materially change how we treat your personal information, we will endeavor to provide you with reasonable notice of such changes, such as via prominent notice in the Quora Platform or to your email address of record, and where required by law, we will obtain your consent or give you the opportunity to opt out of such changes.
 
 Prior Versions
-
-BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
