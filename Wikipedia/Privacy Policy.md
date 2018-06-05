@@ -171,7 +171,7 @@ Introduction Use of info Sharing Protection Important info \[show\]Contents Cont
     *   5.4 Contact Us
     *   5.5 Thank You!
 
-This is a translation. For the official, binding version of this document, please see the English language original. Introduction
+Introduction
 
 Welcome!
 
