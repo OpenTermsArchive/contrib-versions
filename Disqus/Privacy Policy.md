@@ -148,9 +148,9 @@ vi. **Request the transfer** of your personal data to you or to a third party. W
 
 vii. **Withdraw consent at any time** where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
 
-b.If you wish to exercise any of the above rights please contact privacy@disqus.com.You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances. We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response. We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
+b. If you wish to exercise any of the above rights please follow the instructions here. You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances. We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response. We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
 
-**11\. INTERNATIONAL DATA TRANSFERS.**
+**12\. INTERNATIONAL DATA TRANSFERS.**
 
 For users based in the European Economic Area (EEA) we may share your personal data within the Disqus Group or with external third parties. This may involve transferring your data outside the EEA.
 
@@ -174,7 +174,7 @@ If you have a Privacy Shield-related complaint, please contact us at privacy@dis
 
 Disqus is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC). Under certain circumstances, participants may be liable for transfer of personal data from the EU to third parties outside the EU. 
 
-**12\. GENERAL**
+**13\. GENERAL**
 
 a. Contact.If you have any questions about this Privacy Policy, please email us at privacy@disqus.com, or contact us by mail at 717 Market Street, Suite 700, San Francisco, CA 94103.
 
