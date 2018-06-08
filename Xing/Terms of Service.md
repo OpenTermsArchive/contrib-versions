@@ -64,8 +64,6 @@ XING API General Terms and Conditions of Use
 
 XING News Plus General Terms and Conditions of Use
 
-XING Worklife Plus General Terms and Conditions of Use
-
 Additional Terms and Conditions for the Use of XING Executive
 
 General Terms and Conditions
