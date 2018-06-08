@@ -1,5 +1,6 @@
 *   CGU
 *   Vie privée Back
+    *   Vie privée
     *   Sujets
     *   Produits
     *   Commandes
