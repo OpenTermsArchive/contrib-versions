@@ -1,9 +1,3 @@
-Skip to toolbar
-
-*   Xanga
-
-*   Log In
-
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
@@ -76,19 +70,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by DiddleMySkittleForever 1 month ago)
 *   HELP
     *   by babypink131
-    *   1 month ago
+    *   2 months ago
     *   in Data Migration
     *   0 votes
     *   0
 *   HELP
     *   by babypink131
-    *   1 month ago
+    *   2 months ago
     *   in Data Migration
     *   0 votes
     *   0
 *   HELP
     *   by babypink131
-    *   1 month ago
+    *   2 months ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -156,4 +150,8 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
+
+*   Xanga
+
+*   Log In
