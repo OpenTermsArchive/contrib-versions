@@ -39,7 +39,7 @@ We will collect and process Personal Data whenever you explicitly provide it to 
 3.4 Your Use of the Steam Client and Websites  
 We collect a variety of information through your general interaction with the websites, Content and Services offered by Steam.  
 Personal Data we collect may include, but is not limited to, browser and device information, data collected through automated electronic interactions and application usage data.  
-Likewise, we will track your process across your websites and applications to verify that you are not a bot and to optimize our services.  
+Likewise, we will track your process across our websites and applications to verify that you are not a bot and to optimize our services.  
   
 3.5 Your Use of Games and other Subscriptions  
 In order to provide you with services, we need to collect, store and use various information about your activity in our Content and Services. "Content-Related Information" includes your Steam ID, as well as what is usually referred to as "game statistics". By game statistics we mean information about your games' preferences, progress in the games, playtime, as well as information about the device you are using, including what operating system you are using, device settings, unique device identifiers, and crash data.  
@@ -108,7 +108,7 @@ You have the right to access your Personal Data that we hold about you, i.e. the
 If we process your Personal Data, we shall endeavor to ensure by implementing suitable measures that your Personal Data is accurate and up-to-date for the purposes for which it was collected. If your Personal Data is inaccurate or incomplete, you can change the information you provided via the Privacy Dashboard.  
   
 6.3. Right to Erasure.  
-You have the right to obtain deletion by us of Personal Data concerning you by deleting your Steam User Account via the Steam support page.  
+You have the right to obtain deletion of Personal Data concerning you if the reason why we could collect it (see section 2. above) does not exist anymore or if there is another legal ground for its deletion. For individual items of Personal Data please edit them through the Privacy Dashboard or request the deletion via the Steam support page. You can also request the deletion of your Steam user account via the Steam support page.  
   
 As a result of deleting your Steam User Account, you will lose access to Steam services, including the Steam User Account, Subscriptions and game-related information linked to the Steam User Account and the possibility to access other services you are using the Steam User Account for.  
   
