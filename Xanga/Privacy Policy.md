@@ -2,6 +2,18 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Can't access my blog Kirbym
+    *   by kirbym
+    *   5 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   How do I download an archive of my old blog?
+    *   \[Resolved\] by thibault
+    *   3 years ago
+    *   in Data Migration
+    *   0 votes
+    *   41 (last comment by espanola\_z 10 hours ago)
 *   Need old blog entries
     *   by starlessnight99
     *   1 week ago
@@ -16,13 +28,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Help Wanted
     *   by xXxBrokenEmoHeartxXx
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help to retrieve my blogs
     *   by tracyrosa
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -40,13 +52,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   8 (last comment by jacobthestupendous 2 weeks ago)
 *   Can’t get my old post
     *   by mm911029
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can not retrieve old posts
     *   by kelsey11111
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -80,18 +92,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   HELP
-    *   by babypink131
-    *   2 months ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   My site didn't appear
-    *   by HoPuiYi325
-    *   5 months ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by NickyPat 2 months ago)
 
 1 2 3 ... 188 Next
 
