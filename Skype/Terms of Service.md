@@ -444,6 +444,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   UrWeather
 *   Video Breakdown
 *   Visio Online
+*   whiteboard.microsoft.com
 *   Windows Live Mail
 *   Windows Live Writer
 *   Windows Movie Maker
@@ -898,6 +899,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   UrWeather
 *   Video Breakdown
 *   Visio Online
+*   whiteboard.microsoft.com
 *   Windows Live Mail
 *   Windows Live Writer
 *   Windows Movie Maker
