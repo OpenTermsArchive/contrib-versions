@@ -14,7 +14,14 @@
 *   Log In
 *   Sign Up
 
-Explore Recent Photos Trending The Commons Galleries The Weekly Flickr Flickr Blog Policies &. Guidelines Flickr Community guidelines  
+Explore Recent Photos Trending The Commons Galleries The Weekly Flickr Flickr Blog Policies &. Guidelines
+
+*   Terms
+*   Privacy
+*   API
+*   Community
+
+Flickr Community guidelines  
   
 **Flickr accounts are intended for members to share original photos and video that they themselves have created.**  
   
