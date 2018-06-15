@@ -1,3 +1,4 @@
+Grammarly’s new Privacy Policy will be effective on June 28, 2018  
 Privacy PolicyEffective as of May 25, 2018
 
 At Grammarly, we care about the privacy of your data and are committed to protecting it. This Privacy Policy explains what information we collect about you and why, what we do with that information, and how we handle that information. Throughout this policy, when we write “Grammarly” or “we” or “us,” we’re referring to Grammarly, Inc., a Delaware corporation, and our subsidiaries and other affiliates.
