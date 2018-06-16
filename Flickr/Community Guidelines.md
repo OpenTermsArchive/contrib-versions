@@ -134,5 +134,4 @@ The Flickreenos, May 9, 2018
 
 *   Privacy
 *   Terms
-*   Yahoo Safely
 *   Help
