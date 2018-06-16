@@ -219,7 +219,6 @@ Affiliate
 Careers &. Culture  
 Blog  
 Press Room  
-Reviews  
 Contact Us  
 Premium  
 SupportHelp Center  
@@ -232,8 +231,5 @@ Grammar Checker
 CommunityFacebook  
 Instagram  
 Twitter  
-Google Plus  
-Pinterest  
 LinkedIn  
-Wikipedia  
 2018 © Grammarly Inc.
