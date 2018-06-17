@@ -2,9 +2,27 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Blog archive help
+    *   by iliketofish891
+    *   2 hours ago
+    *   in Themes
+    *   0 votes
+    *   0
+*   Blog archive help
+    *   by iliketofish891
+    *   2 hours ago
+    *   in Themes
+    *   0 votes
+    *   0
+*   Can't access old account Dogo\_Bobo
+    *   by Dogo\_Bobo
+    *   13 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Can't access my blog Kirbym
     *   by kirbym
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -13,7 +31,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   41 (last comment by espanola\_z 3 days ago)
+    *   41 (last comment by espanola\_z 4 days ago)
 *   Need old blog entries
     *   by starlessnight99
     *   1 week ago
@@ -74,26 +92,8 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   3 (last comment by eeyorewendy 1 month ago)
-*   All Blogs and Photos GONE! :(
-    *   by BigRig37
-    *   1 year ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by DiddleMySkittleForever 1 month ago)
-*   HELP
-    *   by babypink131
-    *   2 months ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   HELP
-    *   by babypink131
-    *   2 months ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
-1 2 3 ... 188 Next
+1 2 3 ... 189 Next
 
 Help Categories
 
