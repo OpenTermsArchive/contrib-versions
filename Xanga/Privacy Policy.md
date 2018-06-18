@@ -4,25 +4,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Blog archive help
     *   by iliketofish891
-    *   2 hours ago
+    *   1 day ago
     *   in Themes
     *   0 votes
     *   0
 *   Blog archive help
     *   by iliketofish891
-    *   2 hours ago
+    *   1 day ago
     *   in Themes
     *   0 votes
     *   0
 *   Can't access old account Dogo\_Bobo
     *   by Dogo\_Bobo
-    *   13 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can't access my blog Kirbym
     *   by kirbym
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -31,10 +31,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   41 (last comment by espanola\_z 4 days ago)
+    *   41 (last comment by espanola\_z 5 days ago)
 *   Need old blog entries
     *   by starlessnight99
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -58,7 +58,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Can't see my old posts!
     *   by NobodyLoser
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -88,7 +88,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 (last comment by neko\_skater\_girl 1 month ago)
 *   Help
     *   by these\_hazel\_eyes\_cry
-    *   1 month ago
+    *   2 months ago
     *   in Data Migration
     *   0 votes
     *   3 (last comment by eeyorewendy 1 month ago)
