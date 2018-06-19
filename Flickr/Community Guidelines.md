@@ -124,10 +124,8 @@ The Flickreenos, May 9, 2018
 *   About
 *   Jobs
 *   Blog
-*   Mobile
 *   Developers
 *   Guidelines
-*   Feedback
 *   Report abuse
 *   Help forum
 *   English
