@@ -425,6 +425,7 @@ Last modified: January 5, 2018
     *   Additional GM Sites
     *   Ignition Recall
     *   Takata Information
+    *   Recalls
     *   Dealers &. Suppliers
 
 Follow GM
@@ -440,6 +441,7 @@ Follow GM
 *   California Privacy Policy
 *   Ignition Recall
 *   Takata Information
+*   Recalls
 *   Social Media Policy
 
 *   Site Map
