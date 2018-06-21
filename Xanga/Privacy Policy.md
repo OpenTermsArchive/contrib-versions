@@ -4,19 +4,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Blog archive help
     *   by iliketofish891
-    *   3 days ago
+    *   4 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Blog archive help
     *   by iliketofish891
-    *   3 days ago
+    *   4 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Can't access old account Dogo\_Bobo
     *   by Dogo\_Bobo
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -67,7 +67,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 years ago
     *   in Themes
     *   0 votes
-    *   8 (last comment by jacobthestupendous 3 weeks ago)
+    *   8 (last comment by jacobthestupendous 4 weeks ago)
 *   Can’t get my old post
     *   by mm911029
     *   4 weeks ago
