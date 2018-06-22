@@ -69,7 +69,7 @@ It’s probably no surprise that we collect information that you provide to us. 
 
 *   **Basic Account Information:** We ask for basic information from you in order to set up your account. For example, we require individuals who sign up for a WordPress.com account to provide a username and email address–and that’s it. You may provide us with more information–like your name–but we don’t require that information to create a WordPress.com account.
 *   **Public Profile Information:** If you have an account with us, we collect the information that you provide for your public profile. For example, if you have a WordPress.com account, your username is part of that public profile, along with any other information you put into your public profile, such as a photo or an “About Me” description. Your public profile information is just that–public–so please keep that in mind when deciding what information you would like to include.
-*   **Transaction and Billing Information:** If you buy something from us–a subscription to a WordPress.com plan, a premium theme, or a custom domain, for example–you will provide additional personal and payment information that is required to process the transaction and your payment, such as your name, credit card information, and contact information.
+*   **Transaction and Billing Information:** If you buy something from us–a subscription to a WordPress.com plan, a premium theme, or a custom domain, for example–you will provide additional personal and payment information that is required to process the transaction and your payment, such as your name, credit card information, and contact information.
 *   **Ecommerce Site Information:** If you use our ecommerce Services to sell products or services to others through your site (including Stores on WordPress.com, the WooCommerce Services extension, or other purchases on WooCommerce.com), you will have to create a WordPress.com account or connect an existing account and, for some of our ecommerce Services, provide your site URL. You may also provide us with information about your financial account to set up a payments integration, such as the email address for your Stripe or PayPal account or your bank account information.
 *   **Content Information:** Depending on the Services you use, you may also provide us with information about you in draft and published content (such as for your website or your Polldaddy survey). For example, if you write a blog post that includes biographic information about you, we will have that information, and so will anyone with access to the Internet if you choose to publish the post publicly. This might be obvious to you…but it’s not to everyone!
 *   **Credentials:** Depending on the Services you use, you may provide us with credentials for your website (like SSH, FTP, and SFTP username and password). For example, Jetpack and VaultPress users may provide us with these credentials in order to use our one-click restore feature if there is a problem with their site, or to allow us to troubleshoot problems on their site more quickly.
@@ -199,18 +199,10 @@ If you reside outside of the Designated Countries  (for services other than tho
 San Francisco, CA 94110 If you reside in the Designated Countries (for services other than those offered at WooCommerce.com): **Aut O’Mattic A8C Ireland Ltd.**  
 Business Centre, No.1 Lower Mayor Street  
 International Financial Services Centre  
-Dublin 1, Ireland
-
-**Automattic Inc.** is also the controller for some of the processing activities related to Services provided by Aut O’Mattic A8C Ireland Ltd.
-
-If you are using our Services offered at WooCommerce.com: **Bubblestorm Management (Pty) Ltd (WooCommerce.com)**  
+Dublin 1, Ireland**Automattic Inc.** is also the controller for some of the processing activities related to Services provided by Aut O’Mattic A8C Ireland Ltd. If you are using our Services offered at WooCommerce.com: **Bubblestorm Management (Pty) Ltd (WooCommerce.com)**  
 Unit A206, The Old Biscuit Mill (TOBM)  
 373 – 375 Albert Road, Woodstock  
-Cape Town, South Africa
-
-**Automattic Inc.** is also the controller for some of the processing activities related to Services provided by Bubblestorm Management (Pty) Ltd (WooCommerce.com).
-
-How to Reach Us
+Cape Town, South Africa**Automattic Inc.** is also the controller for some of the processing activities related to Services provided by Bubblestorm Management (Pty) Ltd (WooCommerce.com). How to Reach Us
 
 If you have a question about this Privacy Policy, or you would like to contact us about any of the rights mentioned in the Your Rights section above, please contact us.
 
