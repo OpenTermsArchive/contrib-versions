@@ -599,8 +599,9 @@ Thank you for reading our Privacy Policy. We hope you enjoy using the Wikimedia 
 
 Back to top
 
-**This privacy policy was approved by the board on April 25th 2014 and went into effect on June 6, 2014. Previous versions can be found below:**
+**This version was approved by Katherine Maher on May 17, 2018, pursuant to the Delegation of policy-making authority by the Board, and went into effect on May 24, 2018. Previous versions can be found below:**
 
+*   **Privacy policy (June 2014 - May 2018): effective from June 6, 2014 until May 24, 2018**
 *   **Privacy policy (November 2008 - June 2014): effective from November 25, 2008 until June 6, 2014**
 *   **Privacy policy (August 2008 - November 2008): effective from August 19, 2008 until November 25, 2008.**
 *   **Privacy policy (June 2006 - August 2008): effective from June 21, 2006 until August 19, 2008.**
