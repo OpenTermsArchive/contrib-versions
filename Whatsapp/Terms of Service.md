@@ -366,6 +366,8 @@ India Payments Terms of Service
 
 Last modified: February 5, 2018
 
+_We will be updating our India Payments Terms of Service and Privacy Policy. Learn More about the updated Terms and Privacy Policy that will take effect at a future date._
+
 WhatsApp Inc. ("WhatsApp," "our," "we," or "us") provides messaging, Internet calling, and other services to users around the world, including the ability to send and receive payments through designated payment service providers ("PSPs") in India ("Payments"). Payments is a "Service" as defined in the WhatsApp Terms of Service ("Terms"), and the following WhatsApp Payments Terms of Service ("Payments Terms") supplement the Terms and apply to your use of Payments. You agree to the Payments Terms when you use Payments.
 
 About our payment service
@@ -408,6 +410,8 @@ Other
 India Payments Privacy Policy
 
 Last modified: February 5, 2018
+
+_We will be updating our India Payments Terms of Service and Privacy Policy. Learn More about the updated Terms and Privacy Policy that will take effect at a future date._
 
 The WhatsApp Privacy Policy helps explain our information practices. Our Services may include enabling you to send and receive payments ("Payments"), a service we provide through, and in coordination with, designated payment service providers ("PSPs").
 
