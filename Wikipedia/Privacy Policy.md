@@ -91,8 +91,6 @@
 *   中文（简体）‎
 *   中文（繁體）‎
 
-**On May 21, 2018, we posted minor updates to our Privacy Policy that will take effect on May 24, 2018. If you have any feedback on the Privacy Policy, we invite you to comment on the Talk Page for the next 30 calendar days.**
-
 This policy is approved by the Wikimedia Foundation Board of Trustees to apply to all Wikimedia projects.  
 It may not be circumvented, eroded, or ignored by local policies.
 
