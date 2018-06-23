@@ -106,8 +106,8 @@ If you do not want to receive future marketing communications from IBM, includin
 
 Other useful privacy links
 
-IBM Software Products and Software-as-a-Service Privacy Statement
-
 IBM Mobile Application Privacy Statement
 
 IBM Privacy Shield Privacy Policy for Certified IBM Cloud Services
+
+IBM Controller Binding Corporate Rules
