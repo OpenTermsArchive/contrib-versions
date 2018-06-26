@@ -146,7 +146,7 @@ These TOU grant you a limited, revocable, nonexclusive license to access our sit
     *   Health Sites and Services:  www.internetbrands.com/ibterms/supplementalhealthterms
     *   Legal Sites and Services:  www.internetbrands.com/ibterms/supplementallegalterms
     *   Money &. Business Sites and Services:  www.internetbrands.com/ibterms/supplementalfinanceterms
-    *   Shopping Sites and Services:  www.internetbrands.com/ibterms/supplmentalshoppingterms
+    *   Shopping Sites and Services:  www.internetbrands.com/ibterms/supplementalshoppingterms
     *   Travel &. Leisure Sites and Services: www.internetbrands.com/ibterms/supplementaltravelleisureterms
     *   Classified Sites and Services:  www.internetbrands.com/ibterms/supplementalclassifiedsterms
     *   Car Related Sites and Services: www.internetbrands.com/ibterms/supplementalcarrelatedterms
