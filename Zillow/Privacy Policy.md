@@ -13,6 +13,7 @@ Advertise Buy
         *   Coming soon
         *   Recent home sales
         *   All homes
+        *   Condo Buildings
 *   Resources
     *   *   Buyers Guide
         *   Foreclosure center
@@ -22,7 +23,8 @@ Advertise Buy
 Rent
 
 *   Search for rentals
-    *   *   Apartments for rent
+    *   *   Rental Buildings
+        *   Apartments for rent
         *   Houses for rent
         *   All rental listings
         *   All rental buildings
@@ -83,7 +85,6 @@ Agent finder
 *   I'm a pro
     *   *   Agent advertising
         *   Agent resource center
-        *   Join the Agent Directory
         *   Create a free agent account
     *   *   Real estate marketing guide
         *   Agent email scripts
