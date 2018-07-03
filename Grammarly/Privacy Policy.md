@@ -1,5 +1,4 @@
-Grammarly’s new Privacy Policy will be effective on June 28, 2018  
-Privacy PolicyEffective as of May 25, 2018
+Privacy PolicyEffective as of June 28, 2018
 
 At Grammarly, we care about the privacy of your data and are committed to protecting it. This Privacy Policy explains what information we collect about you and why, what we do with that information, and how we handle that information. Throughout this policy, when we write “Grammarly” or “we” or “us,” we’re referring to Grammarly, Inc., a Delaware corporation, and our subsidiaries and other affiliates.
 
@@ -24,6 +23,7 @@ Table of contents
     *   How can I delete my Personal Data from Grammarly?
     *   How long is Personal Data retained?
     *   What happens if Grammarly closes my account?
+    *   EU-US &. Swiss-US Privacy Shield
 *   For EEA users
 *   *   What rights do I have, and how can I exercise them?
     *   Who is our EEA Representative?
@@ -167,6 +167,16 @@ What happens if Grammarly closes my account?
 
 If Grammarly closes your account due to your violation of the Terms of Service, then you may contact Grammarly to request deletion of your data. Grammarly will evaluate such requests on a case by case basis, pursuant to our legal obligations.
 
+EU-US &. Swiss-US Privacy Shield
+
+Grammarly complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Grammarly has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit http://www.privacyshield.gov.
+
+In compliance with the Privacy Shield Principles, Grammarly commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Grammarly at the contact address below. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, dispute resolution is available through a third party arbitrator by contacting our designated Privacy Shield independent recourse mechanism, JAMS. In certain circumstances, the Privacy Shield Framework provides the right to invoke binding arbitration to resolve complaints not resolved by other means, as described in Annex I to the Privacy Shield Principles.
+
+The Privacy Shield Principles describe Grammarly’s accountability for personal data that it subsequently transfers to a third-party agent. Under the Principles, Grammarly shall remain liable if third-party agents process the personal information in a manner inconsistent with the Principles, unless Grammarly proves it is not responsible for the event giving rise to the damage.
+
+The Federal Trade Commission has jurisdiction over Grammarly’s compliance with the Privacy Shield.
+
 For EEA users
 
 Grammarly uses, processes, and stores Personal Data, including those listed in the “What Information does Grammarly collect about me?” section, as necessary to perform our contract with you, and based on our legitimate interests in order to provide the Services. We rely on your consent to process Personal Data to send promotional emails and to place cookies on your devices. In some cases, Grammarly may process Personal Data pursuant to legal obligation or to protect your vital interests or those of another person.
@@ -218,7 +228,7 @@ CompanyAbout
 Affiliate  
 Careers &. Culture  
 Blog  
-Press Room  
+Press  
 Contact Us  
 Premium  
 SupportHelp Center  
