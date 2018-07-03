@@ -283,7 +283,7 @@ CompanyAbout
 Affiliate  
 Careers &. Culture  
 Blog  
-Press Room  
+Press  
 Contact Us  
 Premium  
 SupportHelp Center  
