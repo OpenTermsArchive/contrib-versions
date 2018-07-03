@@ -1,45 +1,31 @@
-Find more solutions
+Saving Your Wi-Fi Passwords to Amazon FAQs
 
-Digital Services and Device Support › Amazon Device Terms, Warranties, and Notices › Location Services FAQ
+**1\. What's the benefit of saving my Wi-Fi passwords to Amazon?**
 
-How do location services work on Fire tablets?
+Once you save your Wi-Fi passwords to Amazon, we can configure your compatible devices so that you won’t need to re-enter your Wi-Fi passwords on each device.
 
-When you enable location services, the approximate location of your device is determined based on information including:
+**2\. Are my Wi-Fi passwords secure?**
 
-*   for all devices, the networks detected by your device (like Wi-Fi routers, their signal strengths, and the type of security they use).
-*   for cellular enabled devices (like a 4G Fire tablet), the cellular networks detected by your device (like the signal strengths of cell towers).
-*   for devices with a GPS feature, latitude and longitude, altitude, direction, and the accuracy of these readings.
+Once saved to Amazon, your Wi-Fi passwords are sent over a secured connection and are stored in an encrypted file on an Amazon server. Amazon will only use your Wi-Fi passwords to connect your compatible devices and will not share them with any third party without your permission. Amazon handles any information it receives, including your Wi-Fi passwords, in accordance with the Amazon.com Privacy Notice .
 
-Amazon and third-party apps and websites use location information to provide you location services. We also may use and store this information to provide and improve our services, such as voice services, the Maps app, and Find Your Device, and to monitor the performance and accuracy of our location services. Similarly, we use your location to process your mapping-related requests and improve the Maps experience. All information we collect is subject to the Amazon.com Privacy Notice.
+**3\. Can I choose not to save my password?**
 
-How is my location data used by third-party apps?
+Yes, you can opt out of this feature when connecting your device to a Wi-Fi network.
 
-A wide range of apps and websites may access your location information, including, for instance, those that provide directions, weather information, or information on local attractions or restaurants. These apps and websites may collect, use, and share your location data in different ways depending on the type of location services they provide. Any location data and other information collected by a third-party app or website are subject to that app's or website's privacy policy and other terms, not the Amazon.com Privacy Notice. You should carefully review the privacy policies and other terms for third-party apps and websites before installing or using them on your device to understand how they work and how each app or website provider will use your information (including whether they directly access or use Wi-Fi, GPS, or other features to gather information for other purposes).
+**4\. What should I do if I change my Wi-Fi passwords?**
 
-How can I tell which third-party apps have access to location services on my Fire tablet?
+You can save your updated Wi-Fi passwords to Amazon by re-running any compatible device through its Wi-Fi setup process. Once reconnected to your Wi-Fi network, your updated Wi-Fi password will be automatically saved to Amazon.
 
-For apps downloaded from the Amazon Appstore, you can tell which apps have access to location services by checking whether the “permissions” listed on the app’s detail page in the Amazon Appstore includes access to location information. A location icon will appear in the upper right corner of your device (near the battery life icon) when an app or website is accessing location information from your device.
+**5\. How do I delete my Wi-Fi passwords from Amazon?**
 
-Can I turn off location services?
+To delete Wi-Fi passwords saved to Amazon using your web browser:  
 
-Yes, you can turn off location services at any time by going to the Settings menu of your device and disabling the feature. For information about how to disable specific devices, click here. If you disable location services, you may not be able to access or use certain apps or features on your device that require those services.
+1.  Go to Manage Your Content and Devices
+2.  Click the **Settings** tab.
+3.  Under **Saved Wi-Fi Passwords**, click **Delete**.
 
-What are Enhanced Location Services?
+To delete Wi-Fi passwords saved to Amazon from your compatible Kindle e-reader:  
 
-When enabled, Enhanced Location Services help us improve Maps and other services by allowing us to store location history and associate it with your Amazon account. You may enable Enhanced Location Services by going to Settings >. Location Services.
-
-Can I delete my location history collected by Enhanced Location Services?
-
-Yes, you can choose to delete the location history collected by Enhanced Location Services from this device and currently associated with your Amazon account by visiting the Manage Your Content and Devices page on Amazon.com. You also can contact customer service. This process will not delete location information collected from your other devices and is limited to deletion of data collected through Enhanced Location Services.
-
-Was this information helpful?
-
-Yes No
-
-Thank you for your feedback.
-
-Please select what best describes the information:
-
-This information is confusing or wrong This isn't the information I was looking for I don't like this policy Submit
-
-Thanks! While we're unable to respond directly to your feedback, we'll use this information to improve our online Help.
+1.  Tap the **Menu** icon from the **Home** screen, and then tap **Settings**.
+2.  Tap **Device Options**, and then tap **Advanced Options**.
+3.  Tap **Delete Saved Wi-Fi Passwords**, and then tap **Delete** to confirm.
