@@ -1,51 +1,51 @@
-Learn more about the Amazon Kindle Store Terms of Use.Kindle Store Terms of Use
+Kindle Store Terms of Use
 
-**Last updated: September 6, 2012**
+**Last updated: October 5, 2016**
 
-This is an agreement between you and Amazon Digital Services, Inc. (with its affiliates, "Amazon" or "we"). Please read these Amazon Kindle Store Terms of Use, the Amazon.com Privacy Notice, the Amazon.com Conditions of Use, and the other applicable rules, policies, and terms posted on the Amazon.com website or the Kindle Store (collectively, this "Agreement") before purchasing or using any Kindle Content. By using the Kindle Store or purchasing or using any Kindle Content, you agree to be bound by the terms of this Agreement. If you do not accept the terms of this Agreement, then you may not use the Kindle Store or any Kindle Content.
-
-Versions of the Kindle Store Terms of Use in other languages
+This is an agreement between you and Amazon Digital Services LLC (with its affiliates, "Amazon", "we" or "us"). Please read these Amazon Kindle Terms of Use, the Amazon.com Privacy Notice , the Amazon.com Conditions of Use, and the other applicable rules, policies, and terms posted on the Amazon.com website or the Kindle Store or provided with any Service (collectively, this "Agreement") before purchasing or using any aspect of the Service. By using the Kindle Store, purchasing or using any Kindle Content, using any Kindle Application, or using any aspect of the Service, you agree to be bound by the terms of this Agreement. If you do not accept the terms of this Agreement, then you may not use the Kindle Store, any Kindle Content, any Kindle Application or the Service.
 
 For the purposes of this Agreement:
 
-"Content Provider" means the party offering Kindle Content in the Kindle Store, which may be us or a third party. however for Kindle Content designated as active content in the Kindle Store, "Content Provider" means the publisher of the Kindle Content.
+"Content Provider" means the party offering Kindle Content in the Kindle Store, which may be us or a third party.
 
-"Kindle" means our portable electronic reading devices.
+"Kindle Applications" means software we make available that permits users to shop for, download, browse, or use the Kindle Store or Kindle Content on a Supported Device.
 
-"Kindle Content" means digitized electronic content obtained through the Kindle Store, such as books, newspapers, magazines, journals, blogs, RSS feeds, games, and other static and interactive electronic content.
+"Kindle Content" means digitized content obtained through the Kindle Store, such as books, newspapers, magazines, and other content.
 
-"Kindle Store" means our stores on Kindle, on Reading Applications and on our website, the homepage of which is located at www.amazon.com/kindlestore.
+"Kindle Store" means our stores, on Kindle Applications and on our website, the homepage of which is located at www.amazon.com/kindlestore.
 
-"Periodicals" means Kindle Content made available to you on a subscription basis, such as electronic newspapers, magazines, journals, blogs, and other subscription-based content.
+"Subscription Content" means Kindle Content made available for access only for so long as you remain an active member of a subscription or membership program, such as Kindle Unlimited or Amazon Prime.
 
-"Reading Application" means software (including any updates/upgrades to that software) we make available that permits users to shop for, download, browse, and/or use Kindle Content on a Supported Device.
+"Service" means the provision of the Kindle Store, Kindle Content, Kindle Application, and support and other services that we provide Kindle Store, Kindle Content, and Kindle Application users.
 
-"Service" means the wireless connectivity that we provide Kindle users, the provision of Kindle Content, Software, and support and other services that we provide Kindle and Reading Application users.
-
-"Software" means the Reading Applications and all software on the Kindle (including any updates/upgrades to that software), and any related documentation that we make available to you.
-
-"Supported Device" means a mobile, computer or other supported electronic device other than a Kindle on which you are authorized to operate a Reading Application.
+"Supported Device" means a mobile, computer or other supported electronic device on which you are authorized to operate a Kindle Application.
 
 **1\. Kindle Content**
 
-**Use of Kindle Content.** Upon your download of Kindle Content and payment of any applicable fees (including applicable taxes), the Content Provider grants you a non-exclusive right to view, use, and display such Kindle Content an unlimited number of times, solely on the Kindle or a Reading Application or as otherwise permitted as part of the Service, solely on the number of Kindles or Supported Devices specified in the Kindle Store, and solely for your personal, non-commercial use. Kindle Content is licensed, not sold, to you by the Content Provider. The Content Provider may include additional terms for use within its Kindle Content. Those terms will also apply, but this Agreement will govern in the event of a conflict. Some Kindle Content, such as Periodicals, may not be available to you through Reading Applications.
+**Use of Kindle Content.** Upon your download or access of Kindle Content and payment of any applicable fees (including applicable taxes), the Content Provider grants you a non-exclusive right to view, use, and display such Kindle Content an unlimited number of times (for Subscription Content, only as long as you remain an active member of the underlying membership or subscription program), solely through a Kindle Application or as otherwise permitted as part of the Service, solely on the number of Supported Devices specified in the Kindle Store, and solely for your personal, non-commercial use. Kindle Content is licensed, not sold, to you by the Content Provider. The Content Provider may include additional terms for use within its Kindle Content. Those terms will also apply, but this Agreement will govern in the event of a conflict. Some Kindle Content, such as interactive or highly formatted content, may not be available to you on all Kindle Applications.
 
-**Limitations.** Unless specifically indicated otherwise, you may not sell, rent, lease, distribute, broadcast, sublicense, or otherwise assign any rights to the Kindle Content or any portion of it to any third party, and you may not remove or modify any proprietary notices or labels on the Kindle Content. In addition, you may not bypass, modify, defeat, or circumvent security features that protect the Kindle Content.
+**Limitations.** Unless specifically indicated otherwise, you may not sell, rent, lease, distribute, broadcast, sublicense, or otherwise assign any rights to the Kindle Content or any portion of it to any third party, and you may not remove or modify any proprietary notices or labels on the Kindle Content. In addition, you may not attempt to bypass, modify, defeat, or otherwise circumvent any digital rights management system or other content protection or features used as part of the Service.
 
-**Periodicals.** You may cancel your subscription as permitted in our cancellation policy in the Kindle Store. A subscription may be terminated at any time, for example, if a Periodical is no longer available. If a subscription is terminated before the end of its term, you will receive a prorated refund. We reserve the right to change subscription terms and fees from time to time, effective as of the beginning of the next subscription term.
+**Book Returns and Subscription Cancellations Terminations.**You may return a book you purchase from the Kindle Store or cancel newspaper and magazine subscriptions as permitted in our return and cancellation policy in the Kindle Store. A newspaper or magazine subscription may be terminated at any time, for example, if a magazine is no longer available. If a magazine or newspaper subscription is terminated before the end of its term, you will receive a prorated refund. We reserve the right to change newspaper and magazine subscription terms and fees from time to time, effective as of the beginning of the next subscription term.
 
 **Risk of Loss.** Risk of loss for Kindle Content transfers when you download or access the Kindle Content.
 
-**2\. General**
+**2\. Use of Kindle Applications.** You may use the Kindle Applications only on Supported Devices. For additional terms that apply to the Kindle Applications, see the Additional Amazon Software Terms contained in the Amazon.com Conditions of Use and the terms contained in the Legal or similar section in the Settings menu of your Kindle Application.
 
-**Termination.** Your rights under this Agreement will automatically terminate if you fail to comply with any term of this Agreement. In case of such termination, you must cease all use of the Kindle Store and the Kindle Content, and Amazon may immediately revoke your access to the Kindle Store and the Kindle Content without refund of any fees. Amazon's failure to insist upon or enforce your strict compliance with this Agreement will not constitute a waiver of any of its rights.
+**3\. General**
 
-**Governing Language**.If this Agreement is translated into a language other than English, the English version will govern and prevail to the extent that there is any conflict or discrepancy.
+**Information Provided to Amazon.**The Kindle Application will provide Amazon with information about use of your Kindle Application and its interaction with Kindle Content and the Service (such as last page read, content archiving, available memory, up-time, log files, and signal strength). Information provided to Amazon may be stored on servers outside the country in which you live. We will handle any information we receive in accordance with the Amazon.com Privacy Notice.
 
-**Disputes/Binding Arbitration. Any dispute or claim arising from or relating to this Agreement the Kindle Store, or Kindle Content is subject to the binding arbitration, governing law, disclaimer of warranties and limitation of liability and all other terms in the Amazon.com Conditions of Use . You agree to those terms by entering into this Agreement, using the Kindle Store, or purchasing or using Kindle Content.**
+**Information Provided To Others.**You are responsible for any information you provide to others using the Service. Use of information you provide to these third parties will be subject to any privacy notice or other terms that they may provide to you.
 
-**Limitation of Liability. Without limiting the Disclaimer of Warranties and Limitation of Liability in the Amazon.com Conditions of Use, (1) in no event will Amazon's or any other Content Provider's aggregate liability under this Agreement with respect to any claim relating to the purchase of Kindle Content exceed the amount you actually paid for the Kindle Content. and (2) in no event will Amazon's or any other Content Provider's aggregate liability under this Agreement with respect to any other claim exceed the amount you actually paid for your Kindle.**
+**Termination.** Your rights under this Agreement will automatically terminate if you fail to comply with any term of this Agreement. In case of such termination, you must cease all use of the Service, and Amazon may immediately revoke your access to the Service without refund of any fees. Amazon's failure to insist upon or enforce your strict compliance with this Agreement will not constitute a waiver of any of its rights.
 
-**Contact Information.** For help with your Kindle, a Reading Application, the Service, the Kindle Store, Kindle Content, or resolving other issues, please contact Customer Service by e-mail: kindle-cs-support@amazon.com or by phone at 1-866-321-8851 (toll free) when dialing in the US or at 1-206-266-0927 (charges will apply) when dialing outside the US.
+**Changes to Service. Amendments.**We may change, suspend, or discontinue the Service, in whole or in part, including adding or removing Subscription Content from a Service, at any time without notice. We may amend any of this Agreement's terms at our sole discretion by posting the revised terms on the Amazon.com website. Your continued use of the Kindle Application or any aspect of the Service after the effective date of the revised Agreement terms constitutes your acceptance of the terms.
 
-For communications concerning this Agreement, please contact Amazon by e-mail: kindleterms@amazon.com.
+**Disputes/Binding Arbitration. Any dispute or claim arising from or relating to this Agreement or the Service is subject to the binding arbitration, governing law, disclaimer of warranties and limitation of liability and all other terms in the Amazon.com Conditions of Use. You agree to those terms by entering into this Agreement, using the Kindle Store, purchasing or using Kindle Content, or using any aspect of the Service.**
+
+**Limitation of Liability. Without limiting the Disclaimer of Warranties and Limitation of Liability in the Amazon.com Conditions of Use, (1) in no event will our or our software licensors' total liability to you for all damages (other than as may be required by applicable law in cases involving personal injury) arising out of or related to your use or inability to use the Kindle Application exceed the amount of fifty dollars ($50.00). and (2) in no event will our or any other Content Provider's aggregate liability to you for all damages arising from your use of the Service (excluding the Kindle Application) exceed the amount you actually paid for the Kindle Content or for the aspect of the Service related to your claim for damages. These limitations will apply to you even if the remedies fail of their essential purpose.**
+
+**Contact Information.** For help with your Kindle Application, the Service, the Kindle Store, Kindle Content, or resolving other issues, please contact Customer Service at www.amazon.com/contact-us/ (or by email at kindle-cs-support@amazon.com).
+
+For communications concerning this Agreement, please write to Amazon, Attn: Legal Department, P.O. Box 81226, Seattle, WA 98108-1226.
