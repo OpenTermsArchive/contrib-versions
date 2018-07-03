@@ -1,6 +1,6 @@
  Privacy Policy
 
-**Updated**: 25.5.2018
+**Updated**: 14.6.2018
 
 The confidentiality of personal data and the protection of customer privacy are important, basic values in all of our operations. We observe legislation, authority guidelines and good _data processing_ practice when dealing with the data of our users, employees and partners.
 
@@ -139,6 +139,8 @@ On our websites, we use tools such as cookies and web beacons. These are also us
 Some parts of our Services (for example, payment processing) are implemented via cooperation partners like Adyen. In a situation like this, we may disclose some of your personal data to the service provider concerned. In some cases, using the Service requires that you approve the privacy policy or terms of the service provider beforehand.
 
 Third parties that act as _data controllers_ process your data in accordance with their own privacy policies. For example, payment processors may process your personal data as part of their own fraud prevention measures. Before disclosing personal data to any third parties, we ensure that the disclosure is in full compliance with the law.
+
+At the bottom of this page, you are able to download a document named ¨Controller privacy policies¨. In this document, we have listed the third parties who process personal data through our Service and then use this data in accordance with their own policies.
 
 **Assisting authorities**
 
