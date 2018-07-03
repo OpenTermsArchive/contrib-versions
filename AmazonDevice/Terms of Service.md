@@ -1,0 +1,51 @@
+Amazon Device Terms of Use
+
+**Last updated: June 7, 2018**
+
+This is an agreement between you and Amazon Digital Services LLC (with its affiliates, "Amazon" or "we"). Please read these Amazon Device Terms of Use, the Amazon.com Privacy Notice (www.amazon.com/privacy), the Amazon.com Conditions of Use (www.amazon.com/conditionsofuse), and the other applicable rules, policies, and terms available at the Amazon.com website, or on or through the Amazon Device or its companion app (collectively, this "Agreement") before using the Amazon Device. By using the Amazon Device, you agree to be bound by the terms of this Agreement. If you do not accept the terms of this Agreement, then you may not use the Amazon Device, and you may return it in accordance with the applicable return policy. You may need your own Amazon.com account to register and use your Amazon Device, and you may be required to be logged in to the account and have a valid payment method associated with it. Your use of any of the Services is subject to any additional rules, policies and terms that apply to those Services.
+
+For the purpose of these Amazon Device Terms of Use:
+
+"Amazon Device" means Kindle e-readers, Fire tablets, Amazon Fire TV devices (but, for clarity, not Fire TV Edition televisions), Amazon Echo devices, Amazon Tap, Amazon Dash Button, Amazon Dash Wand, Amazon Cloud Cam, and, in each case, any Amazon accessories for these devices.
+
+"Digital Content" means digitized content (including third-party content), such as books, newspapers, magazines, journals, music, videos, apps, games, skills, photos, audio, and related features and functionality.
+
+"Services" means our provision of Digital Content, Software, and support and other services that we provide Amazon Device users, including the wireless connectivity that we provide Kindle users.
+
+"Software" means all software we make available to you for use on an Amazon Device, but excludes third-party Digital Content.
+
+**1\. Features and Software**
+
+**a. Location Services.** Your Amazon Device may have a feature that allows maps, other applications, and Amazon to use and access location and related information from your device. Learn more about location services at www.amazon.com/locationservices/faq. If you are using location services on your Amazon Device for navigation, you are solely responsible for driving safely, observing all traffic rules, and using your own judgment while driving and selecting routes. Amazon does not guarantee the accuracy or completeness of any location services.
+
+**b. Backup and Restore.** Your Amazon Device may have a feature that backs up to the cloud certain data on your device, including account settings, notes, email and wireless configurations, bookmarks, search history, communications, and call history, so that you can restore that data later to an Amazon Device. Learn more about backup and restore at www.amazon.com/backup/faq.
+
+**c. Voice Services.** Your Amazon Device may have features that allow you to access Alexa voice services or otherwise use your voice to perform certain tasks, such as check the weather, add a calendar entry, perform a search, or operate other connected products. When you use voice services, we may process your voice input and other information (such as location) in the cloud to respond to your requests and to improve your experience and our products and services. Your use of Alexa is subject to the Alexa Terms of Use (www.amazon.com/alexa/terms). Learn more about Alexa voice services and how it works at www.amazon.com/alexa/voice, including wake word processing, and how to delete voice recordings associated with your account.
+
+**d. Other Image, Video, and Audio Services.** Some Amazon Devices, such as Echo Look, Amazon Cloud Cam, or Amazon Devices with Firefly, have features that allow you to capture images, video, or audio. When you use these features, we may process and store your captured images, video, or audio in the cloud to provide and improve our products and services. For some Amazon Devices and features, we may limit cloud storage or offer service plans with different storage limits and fees. Learn more about Echo Look, including how to delete photos and video associated with your account, at www.amazon.com/echolook/faq. Learn more about Firefly, including how to delete images and audio associated with your account, at www.amazon.com/firefly/faq. Learn more about Cloud Cam, including how to delete recordings associated with your account at www.amazon.com/help/amazoncloudcam/faq.https://www.amazon.com/help/amazoncloudcam/faq
+
+**e. Use of the Software.** Except as provided in this section, you may use the Software only on an Amazon Device. For additional terms that apply to the Software, see the Additional Amazon Software Terms contained in the Amazon.com Conditions of Use (www.amazon.com/conditionsofuse) and the terms contained in the Legal or similar section in the Settings menu of your Amazon Device or companion app. Software licensed under an open source license is governed solely by the terms of that open source license.
+
+**2\. Connectivity and Availability**
+
+**a. Internet and Wireless Connectivity.** Your Amazon Device may require an Internet connection or data plan from a third-party provider in order to use some features. In such cases, your Internet connection or data plan is subject to the fees, restrictions, terms and limitations imposed by your provider.
+
+**b. Availability.** Some Services may be unavailable, vary (by device or geography, for example), be offered for a limited time, or require separate subscriptions. In addition, if your Amazon Device requires wireless data services and is located in an area where it cannot access such services, you may not be able to use some or all of the Services or other features of your Amazon Device. We are not responsible for the unavailability of wireless data services or any corresponding loss of Services.
+
+**c. Kindle e-Reader Connectivity.** The Kindle e-Reader uses wireless connectivity to allow you to shop for, download, browse and use Digital Content. If your Kindle is not subject to a data plan or other third-party fees, we generally do not charge you for use of wireless connectivity. However, your Kindle may use wireless connectivity to make other services available to you for which we may charge you a fee, such as personal file download and subscriptions when you are located in another country. The fees and terms for such services are available at the Amazon.com website or on or through your Kindle and may change from time to time. You may use the wireless connectivity provided by us only in connection with Digital Content, Software, and support and other services that we provide Kindle users as permitted by this Agreement and not for any other purpose. Events beyond our reasonable control (such as changes in service or terms by wireless carriers) may impact the terms or circumstances under which we provide you wireless connectivity and may result in a temporary or permanent modification or loss of wireless connectivity for your Kindle.
+
+**3\. General**
+
+**a. Information Received.** The Software will provide Amazon with information about use of your Amazon Device and its interaction with Digital Content and the Services (such as last page read, content archiving, available memory, up-time, log files, network diagnostics, content usage, search queries, location, voice information, connectivity and signal strength). Information provided to Amazon may be processed in the cloud to improve your experience and our products and services, and may be stored on servers outside the country in which you live. We will handle any information we receive in accordance with the Amazon.com Privacy Notice (www.amazon.com/privacy).
+
+**b. Information Provided To Others.** You are responsible for any information you provide to others, including third-party Digital Content providers, using an Amazon Device. Use of information you provide to these third parties will be subject to any privacy notice or other terms that they may provide to you.
+
+**c. Changes to Services. Amendments.** We may change, suspend, or discontinue the Services, or any part of them, at any time without notice. We may amend any of this Agreement's terms at our sole discretion by posting the revised terms on the Amazon.com website. Your continued use of the Amazon Device after the effective date of the revised Agreement constitutes your acceptance of the terms.
+
+**d. Termination.** Your rights under this Agreement will automatically terminate without notice if you fail to comply with any of its terms. In case of such termination, Amazon may immediately revoke your access to the Services without refund of any fees. Amazon's failure to insist upon or enforce your strict compliance with this Agreement will not constitute a waiver of any of its rights.
+
+**e. Disputes/Binding Arbitration. Any dispute or claim arising from or relating to this Agreement, an Amazon Device, the Software, the Digital Content, or the Services is subject to the binding arbitration, governing law, disclaimer of warranties, limitation of liability, and all other terms in the Amazon.com Conditions of Use (www.amazon.com/conditionsofuse). You agree to those terms by entering into this Agreement or using an Amazon Device or the Services.**
+
+**f. Disclaimer of Warranties and Limitation of Liability. Without limiting the Disclaimer of Warranties and Limitation of Liability terms in the Amazon.com Conditions of Use, (1) unless otherwise provided by Amazon, your Amazon Device may be subject to a limited warranty, and (2) unless otherwise required by applicable law, in no event will our or our licensors' aggregate liability for any claim arising from or relating to this Agreement or use of your Amazon Device with respect to any claim exceed the greater of fifty dollars ($50.00) and the amount you actually paid for your Amazon Device.**
+
+**g. Contact Information.** For help with your Amazon Device, the Services, Digital Content, Software or resolving other issues, please contact Customer Service at www.amazon.com/contact-us/ (or by email at devicetou-support@amazon.com).
