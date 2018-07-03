@@ -386,7 +386,7 @@ About our payment service
 
 Privacy policy and user data
 
-WhatsApp cares about your privacy. Our Privacy Policy applies to your use of Payments. Because additional information will be collected and processed when you use Payments, the WhatsApp Payments Privacy Policy also applies to your use of Payments. The WhatsApp Payments Privacy Policy describes additional information practices applicable to Payments, including the types of information we receive and collect from you when you use Payments and how we use and share this information. If you use Payments, you agree to our data practices, including the collection, use, processing, and sharing of your information as described in our Privacy Policy and our Payments Privacy Policy, as well as the transfer and processing of your information to the United States and other countries globally where we have or use facilities, service providers, or partners, regardless of where you use Payments. You acknowledge that the laws, regulations, and standards of the country in which your information is stored or processed may be different from those of your own country.
+WhatsApp cares about your privacy. Our Privacy Policy applies to your use of Payments. Because additional information will be collected and processed when you use Payments, the WhatsApp Payments Privacy Policy also applies to your use of Payments. The WhatsApp Payments Privacy Policy describes additional information practices applicable to Payments, including the types of information we receive and collect from you when you use Payments and how we use and share this information. If you use Payments, you agree to our data practices, including the collection, use, processing, and sharing of your information as described in our Privacy Policy and our Payments Privacy Policy, as well as the transfer and processing of your information to the United States and other countries globally where we have or use facilities, service providers, or partners, regardless of where you use Payments. You acknowledge that the laws, regulations, and standards of the country in which your information is stored or processed may be different from those of your own country.
 
 Use of payments
 
@@ -486,7 +486,7 @@ In this document, the following words and phrases have the meanings set opposite
 
 1.7. "UPI" refers to the Unified Payments Interface Service offered by NPCI in collaboration with its member banks.
 
-1.8. "WhatsApp" means WhatsApp Inc., a Delaware, United States, company with offices at 1601 Willow Road, Menlo Park, CA 94025. It provides smartphone users with certain services via their phone's Internet connection, including sending and receiving messages, calls, photos, videos, documents and voice messages.
+1.8. "WhatsApp" means WhatsApp Inc., a Delaware, United States, company with offices at 1601 Willow Road, Menlo Park, CA 94025. It provides smartphone users with certain services via their phone's Internet connection, including sending and receiving messages, calls, photos, videos, documents and voice messages.
 
 1.9. "WhatsApp Application" means WhatsApp's existing and future applications and services including its business and consumer applications and services for mobile, desktop and web.
 
@@ -542,7 +542,7 @@ The User hereby undertakes, represents and warrants to ICICI Bank that:
 
 5.5. Notices under these Terms may be given in writing by delivering them by hand, or on ICICI Bank's website www.icicibank.com, or by sending them by post to the last address given by the User and, in the case of ICICI Bank, to its corporate office address. In addition, ICICI Bank may also publish notices of general nature, which are applicable to all Users, in a newspaper or on its website at www.icicibank.com. Such notices will have the same effect as a notice served individually to each User. Notice and instructions will be deemed served 7 days after posting or upon receipt in the case of hand delivery, cable, telex or facsimile.
 
-5.6. Any provision of these Terms which is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of prohibition or unenforceability but shall not invalidate the remaining provisions of these Terms or affect such provision in any other jurisdiction. ICICI Bank shall have the right of set-off and lien, irrespective of any other lien or charge, present as well as future on the deposits held in the Account(s) to the extent of all outstanding dues, whatsoever, arising as a result of the Facility extended to and/or used by the User.
+5.6. Any provision of these Terms which is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of prohibition or unenforceability but shall not invalidate the remaining provisions of these Terms or affect such provision in any other jurisdiction. ICICI Bank shall have the right of set-off and lien, irrespective of any other lien or charge, present as well as future on the deposits held in the Account(s) to the extent of all outstanding dues, whatsoever, arising as a result of the Facility extended to and/or used by the User.
 
 **6\. Sharing of Information**
 
