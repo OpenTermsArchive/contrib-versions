@@ -21,7 +21,7 @@ Explore Recent Photos Trending The Commons Galleries The Weekly Flickr Flickr Bl
 *   API
 *   Community
 
-Flickr Community guidelines  
+Flickr Community Guidelines  
   
 **Flickr accounts are intended for members to share original photos and video that they themselves have created.**  
   
