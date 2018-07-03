@@ -1,4 +1,4 @@
-STEAM® SUBSCRIBER AGREEMENT  
+Home Steam Subscriber Agreement ﻿ STEAM® SUBSCRIBER AGREEMENT  
 
 Table of contents:
 
@@ -296,3 +296,5 @@ Valve’s obligations are subject to existing laws and legal process and Valve m
 You agree to comply with all applicable import/export laws and regulations. You agree not to export the Content and Services or Hardware or allow use of your Account by individuals of any terrorist supporting countries to which encryption exports are at the time of exportation restricted by the U.S. Bureau of Export Administration. You represent and warrant that you are not located in, under the control of, or a national or resident of any such prohibited country.
 
 This Agreement was last updated on August 31st, 2017 ("Revision Date"). If you were a Subscriber before the Revision Date, it replaces your existing agreement with Valve or Valve SARL on the day that you explicitly accept it. If you prefer to continue using Steam and your existing Subscriptions under the version of the Agreement in effect prior to the Revision Date, you are free to do so.
+
+Privacy Feedback
