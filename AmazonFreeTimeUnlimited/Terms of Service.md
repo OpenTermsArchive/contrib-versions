@@ -1,4 +1,4 @@
-Amazon FreeTime Unlimited Terms &. Conditions and Kindle FreeTime Unlimited Terms &. Conditions
+Amazon Device Support  › Amazon Device Terms, Warranties, and Notices › Amazon FreeTime Unlimited Terms &. Conditions and Kindle FreeTime Unlimited Terms &. Conditions
 
 **Last updated: April 25, 2018**
 
@@ -16,3 +16,17 @@ Amazon FreeTime Unlimited Terms &. Conditions and Kindle FreeTime Unlimited Term
 *   The content available in the FreeTime Unlimited subscription may change at any time. We cannot guarantee that any specific book, movie, TV show, app, skill, game, or other content will remain available via the subscription, and certain content is only available on compatible devices.
 *   Amazon may collect taxes applicable to the subscription fee.
 *   We may terminate your access to the subscription at our discretion without notice. If we do so, we will give you a prorated refund. However, we will not give any refund for termination related to conduct that we determine, in our discretion, violates any applicable law or terms of use, or involves fraud or misuse of the subscription.
+
+Was this information helpful?
+
+Yes No
+
+Thank you for your feedback.
+
+Please select what best describes the information:
+
+This information is confusing or wrong This isn't the information I was looking for I don't like this policy Submit
+
+Thanks! While we're unable to respond directly to your feedback, we'll use this information to improve our online Help.
+
+Go
