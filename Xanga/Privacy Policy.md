@@ -1,40 +1,34 @@
-Skip to toolbar
-
-*   Xanga
-
-*   Log In
-
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
 *   Help retrieve my old posts
     *   by joon20
-    *   5 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Blog archive help
     *   by iliketofish891
-    *   1 week ago
+    *   2 weeks ago
     *   in Themes
     *   0 votes
     *   0
 *   Blog archive help
     *   by iliketofish891
-    *   1 week ago
+    *   2 weeks ago
     *   in Themes
     *   0 votes
     *   0
 *   Can't access old account Dogo\_Bobo
     *   by Dogo\_Bobo
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can't access my blog Kirbym
     *   by kirbym
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -43,28 +37,28 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   41 (last comment by espanola\_z 2 weeks ago)
+    *   41 (last comment by espanola\_z 3 weeks ago)
 *   Need old blog entries
     *   by starlessnight99
-    *   3 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
 *   My Xanga Page content missing
     *   by MissVaBarBie
-    *   3 weeks ago
+    *   1 month ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Help Wanted
     *   by xXxBrokenEmoHeartxXx
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help to retrieve my blogs
     *   by tracyrosa
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -156,4 +150,8 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
+
+*   Xanga
+
+*   Log In
