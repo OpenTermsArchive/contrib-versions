@@ -1,43 +1,45 @@
 Privacy Policy
 
-Effective as of October 26, 2016
+_Effective as of October 26, 2016_
 
-Table of Contents:*   **1) SCOPE AND APPLICATION:**
+Table of Contents:
+
+1.  **Scope and Application**
     
     What and who this Policy covers
     
-*   **2) COLLECTION OF INFORMATION:**
+2.  **Collection of Information**
     
     The sources of and methods by which we, our service providers and our advertisers collect information from and about you, including information about your interaction with the Fox News Services
     
-*   **3) USE AND DISCLOSURE:**
+3.  **Use and Disclosure**
     
     How we use the information we collect from and about you, and who we might share it with and why.
     
-*   **4) SECURITY:**
+4.  **Security**
     
     How we protect your information from loss or misuse
     
-*   **5) USER ACCESS AND CONTROL:**
+5.  **User Access and Control**
     
     How you can access and control the information we maintain about you
     
-*   **6) OTHER IMPORTANT INFORMATION:**
+6.  **Other Important Information**
     
     Other things you should know about this Policy and how we handle your information
     
-*   **7) CONTACT US:**
+7.  **Contact Us**
     
     How to contact Fox News about this Policy
     
 
-1) SCOPE AND APPLICATION
+Scope and Application
 
 Fox News Network, LLC ("Fox News" or "we") wants you to be familiar with how we collect, use and disclose information from and about you.This Privacy Policy describes our practices in connection with information collected through services such as websites, mobile sites, applications ("apps"), and widgets (collectively, the "Fox News Services"). By using Fox News Services, you agree to the terms and conditions of this Privacy Policy. A list of our affiliated companies ("Company Affiliates") is available at www.21cf.com.
 
 As set forth in our Terms of Use, the Fox News Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age.
 
-2) COLLECTION OF INFORMATION
+Collection of Information
 
 Fox News and our service providers collect the following information from and about you:
 
@@ -59,7 +61,7 @@ Most browsers are initially set to accept cookies, but you can change your setti
 
 **Do Not Track Signals.** At this time we do not respond to browser 'Do Not Track' signals, as we await the work of interested stakeholders and others to develop standards for how such signals should be interpreted.
 
-3) USE AND DISCLOSURE
+Use and Disclosure
 
 We use the information we collect from and about you to provide the Fox News Services and features to you, including: to measure and improve those Fox News Services and features and to develop new products and services. to improve your experience with both online and off-line Fox News Services by delivering content you will find relevant and interesting, including advertising and marketing messages. to allow you to comment on content, and participate in online games, contests, other promotions, or rewards programs. to provide you with customer support and to respond to inquiries. In order to provide you with content and advertising that is more interesting and relevant to you, we may use the information from and about you to make inferences and predictions about your potential areas of interest. When the information collected from or about you does not identify you as a specific person, we may use that information for any purpose or share it with third parties, to the extent permitted by applicable law.
 
@@ -83,22 +85,20 @@ We use the information we collect from and about you for these additional purpos
 
 **To complete a merger or sale of assets.** If Fox News sells all or part of its business or makes a sale or transfer of its assets or is otherwise involved in a merger or transfer of all or a material part of its business (including in connection with a bankruptcy or similar proceedings), Fox News may transfer your information to the party or parties involved in the transaction as part of that transaction.
 
-4) SECURITY
+Security
 
 Fox News uses commercially reasonable administrative, technical, personnel and physical measures to safeguard information in its possession against loss, theft and unauthorized use, disclosure or modification. However, no one can guarantee the complete safety of your information.
 
-5) USER ACCESS AND CONTROL
+User Access and Control
 
 If you would like to access, review, correct, update, suppress, or otherwise limit our use of your personal information you have previously provided directly to us, you may contact us as outlined in Section 7. In your request, please include your email address, name, address, and telephone number and specify clearly what information you would like to access, change, update, or suppress. We will try to comply with your request as soon as reasonably practicable.
 
-*   We give you many choices regarding our use and disclosure of your personal information for marketing purposes. You may opt-out from:
-    
-*   **Receiving electronic communications from us:** If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt-out of receiving these marketing-related emails by following the unsubscribe instructions in the email.
-    
-*   **Cancelling your account.** To cancel your account, email deleteaccount@foxnews.com, subject, "Delete My Account" and include the email address that you registered your account with (if different from the email address you're sending the email from). Remember that even after you cancel your account, copies of some information from your account may remain viewable in some circumstances - where, for example, you have shared information with a third-party application or web site. We may also retain backup information related to your account on our servers for some time after cancelation for fraud detection or to comply with applicable law or our internal security policies. Because of the nature of caching technology, your account may not be instantly inaccessible to others, and there may be a delay in the removal of the content from elsewhere on the Internet and from search engines.
-    
+We give you many choices regarding our use and disclosure of your personal information for marketing purposes. You may opt-out from:
 
-6) OTHER IMPORTANT INFORMATION
+*   **Receiving electronic communications from us:** If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt-out of receiving these marketing-related emails by following the unsubscribe instructions in the email.
+*   **Cancelling your account.** To cancel your account, email deleteaccount@foxnews.com, subject, "Delete My Account" and include the email address that you registered your account with (if different from the email address you're sending the email from). Remember that even after you cancel your account, copies of some information from your account may remain viewable in some circumstances - where, for example, you have shared information with a third-party application or web site. We may also retain backup information related to your account on our servers for some time after cancelation for fraud detection or to comply with applicable law or our internal security policies. Because of the nature of caching technology, your account may not be instantly inaccessible to others, and there may be a delay in the removal of the content from elsewhere on the Internet and from search engines.
+
+Other Important Information
 
 **Updates to Privacy Policy.** Fox News may modify this Privacy Policy. Please look at the Effective Date at the top of this Privacy Policy to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Fox News Services.
 
@@ -114,18 +114,14 @@ Remember that even after you cancel your account, copies of some information fro
 
 **Sensitive Information.** We ask that you not send us, and you not disclose, any sensitive personal information (such as social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through the Fox News Services or otherwise.
 
-7) CONTACT US
+Contact Us
 
 If you have questions about this Privacy Policy, please contact us at:
 
 Email: ldepartment@foxnews.com
 
-Mail:
-
-Fox News Network, LLC
-
-1211 Avenue of the Americas, 15th Floor
-
-New York, NY 10036
-
+Mail:  
+Fox News Network, LLC  
+1211 Avenue of the Americas, 15th Floor  
+New York, NY 10036  
 Attention: Legal Department
