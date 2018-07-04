@@ -1,66 +1,252 @@
-Reporting Copyright and Trademark Violations
+Data and Encryption Policies Certifications and Assessments
 
-_Effective starting: November 1, 2018_
+Trello is PCI-DSS certified and complies with Privacy Shield. Trello is not itself ISO27001 or SOC certified—however, Trello receives and reviews its cloud providers’ SOC1 and SOC2 reports every 6 months under NDA.
 
-Atlassian respects the rights of copyright and trademark holders, as described in this policy. This policy is incorporated by reference into the Atlassian Cloud Terms of Service (the **“Agreement”**). Terms used in this policy shall have the same definitions as in the Agreement or our Acceptable Use Policy, as applicable, except where otherwise noted.
+Vulnerability Detection and Penetration Tests
 
-Copyright
+Automated scans of Trello's production site are conducted a minimum of every 7 days. All changes are peer reviewed and vulnerability and security lists are actively monitored for CVE and other vulnerability disclosures with appropriate actions taken. A penetration test is commissioned annually, with all findings mitigated as appropriate. We also maintain an active bug bounty program on HackerOne.
 
-Atlassian does not allow copyright infringing activities on Atlassian’s Cloud Products or websites (our “**Services**”). We will remove a party’s data or content from our Services if properly notified that such data or content infringes on another's copyright rights. Atlassian has a policy of terminating, in appropriate circumstances, the accounts of parties who repeatedly infringe copyright holders’ copyrights. You are a “repeat infringer” if, on more than two occasions, you have been notified of infringing activity or have had Your Data or content removed from our Services. Atlassian also reserves the right to terminate Your accounts suspected of infringing copyrights upon the first incident without further notice, at our sole discretion.
+As a general matter, issues that come to our attention through penetration tests, or other means, are fixed as quickly as reasonably possible.
 
-If you believe that any content in our Services violates your copyright, you should notify Atlassian's copyright agent in writing pursuant to the Digital Millennium Copyright Act (“**DMCA**”), 17 U.S.C. § 512(c)(3). The contact information for Atlassian's copyright agent is at the bottom of this section.
+Data Center
 
-In order for Atlassian to take action, you must do the following in your notice:
+Trello production services are hosted on Amazon Web Services’ (“AWS”) EC2 platform. The physical servers are located in AWS’s secure data centers. From Amazon’s documentation:
 
-(1) provide your physical or electronic signature;
+_AWS has achieved ISO 27001 certification and has been validated as a Level 1 service provider under the Payment Card Industry (PCI) Data Security Standard (DSS). We undergo annual SOC 1 audits and have been successfully evaluated at the Moderate level for Federal government systems as well as DIACAP Level 2 for DoD systems._
 
-(2) identify the copyrighted work that you believe is being infringed, or, if multiple copyrighted works are covered by the notice, a representative list of such works;
+Further information on the security of AWS EC2 data centers is available directly from Amazon1.
 
-(3) identify the item that you think is infringing and which is to be removed or access to which is to be disabled, and include sufficient information about where the material is located (including which website) so that Atlassian can find it (such as the item’s URL);
+Where is my data hosted?
 
-(4) provide Atlassian with a way to contact you (such as address, telephone number, or email);
+All user content is stored within US regions of AWS and Google Cloud Storage ("GCS"). Trello’s production environment is hosted on an AWS EC2 platform. User content can also be found in Trello backups, stored in AWS EC2, S3, Glacier, and GCS.
 
-(5) provide a statement that you believe in good faith that the item identified as infringing is not authorized by the copyright owner, its agent, or the law to be used by Atlassian. and
+We currently do not offer customers the option of hosting Trello on a private server, or to otherwise use Trello on a separate infrastructure.
 
-(6) provide a statement that the information you provide in your notice is
+Production Environment
 
-*   accurate, and that
-*   under penalty of perjury, you are the copyright owner or are authorized to act on behalf of the copyright owner whose work is allegedly being infringed.
+Separate and distinct production, staging, and development environments are maintained, and production data is not replicated outside of the production restricted environments.
 
-We will promptly notify the alleged infringer that you have claimed ownership of the rights in this content and that we have complied with your takedown notice for the content.
+Authorized and trained members of Trello's SRE and Server Engineering teams who have undergone background checks authenticate to the VPN using unique strong passwords and TOTP based 2FA and then only access the production environment via ssh terminal connections using passphrase protected personal RSA certificates. An IDS system is in place on all production servers, which includes realtime monitoring and alerting of any changes to the production system files or configuration and anomalous security events. For those authorized and trained members of the operations team with access to the production system, any workstations running Windows or OS X used for ssh terminal access to the production environment must be running current and active anti-virus software. Customer data is not replicated onto employee workstations or mobile devices. Users of Trello can access data via mobile apps.
 
-Here is the contact information for Atlassian's copyright agent:
+Network Security
 
-Atlassian Pty Ltd  
-c/o Atlassian, Inc.  
-465 Pine Street  
-San Francisco, CA 94104  
-Attn: Copyright Agent  
-E-Mail: copyright@atlassian.com
+Trello uses Akamai for DDoS protection and Web Application Firewall service. A host based IDS is in place on production servers with real time monitoring and alerting on abnormal behavior or system configuration changes. AWS does not provide a SPAN port for reliable traditional network based IDS.
 
-Trademark
+Login security
 
-Trademark owners should make an effort to directly contact an offending third party before submitting a trademark infringement report to Atlassian.
+SAML 2.0 SSO is supported for Trello Enterprise customers. All customers can enable 2FA on their accounts or use Google OAuth. If SSO or OAuth is used to access Trello, Trello will inherit the login security settings in the user's IdP or Google account.
 
-If you are a trademark owner and you believe in good faith that any content on our Services or infringes on your trademark rights, please inform us in writing trademarks@atlassian.com or at the notice address for Atlassian indicated in the Agreement. Your notice must include:
+If logging in directly to Trello using a username or email and password, Trello requires a minimum of 8 characters. Repeated failed login attempts trigger a 30 second lock before a user can retry. Passwords are stored in a hashed form and will never be sent via email—upon account creation and password reset, Trello will send a link to the email associated with the account that will enable the user to create a new password.
 
-(1) Identification of the trademark(s) claimed to have been infringed, and, if registered with the United States Patent and Trademark Office or similar foreign entity, the registration number of the mark(s);
+Password complexity and session length requirements cannot be customized within the app. However, these can be set within an IdP for an SSO-enforced team.
 
-(2) Identification of the material claimed to be infringing and information sufficient to permit Atlassian to locate the material, such as the specific URL where the trademark appears on the Services;
+Access Control
 
-(3) A statement that the complaining party has a good faith belief that use of the trademark in the manner complained of is an infringement of the rights granted under United States or foreign trademark law;
+All customer data is considered highly sensitive and protected and access is least privilege. Only authorized and trained members of the Trello team have direct access to production systems and user data. Those who do have direct access to data are only permitted to view it in aggregate or for troubleshooting purposes. User data is only viewed by Trello employees for troubleshooting purposes when consent has expressly been provided ahead of time by the account owner or team administrator.
 
-(4) A statement that the information in the letter is:
+We maintain a list of members of the Trello team with access to the production environment. These members undergo criminal background checks and are approved by the VP of Engineering. Another list allows all relevant roles to access code, as well as the development and staging environments. These lists are reviewed quarterly and on role change.
 
-*   accurate, and
-*   under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of the allegedly infringed trademark. and
+Trained members of the Trello customer support team have case-specific, limited access to user data through restricted access customer support tools. Customer support team members cannot review user-generated content without an express and revocable grant of permission. When a Trello user submits a support ticket, they have the option of authorizing the customer support team to view their data. The Trello Support team will only receive access to the account if it is explicitly granted by the user, either by selecting the "Give Trello support staff temporary access to your account" option when submitting a help request, or by clicking a link sent to the user's email by the Trello Support team. Only after authorization has been provided by the account owner will members of the support team use their account view tool to view the account owner’s data. The account owner can revoke access at any time.2 Upon role change or leaving the company, or before firing, the production credentials of Trello employees are deactivated, and their sessions are forcibly logged out. From there, all accounts are removed or changed.
 
-(5) A physical or electronic signature of a person authorized to act on behalf of the owner of the trademark that is allegedly infringed.
+Third Party Access
 
-Once you submit the report to Atlassian, our team will begin a brief investigation and will take action that it deems appropriate under the circumstances.  If more information is needed from you, we will reach out via e-mail.
+Select customer data in very limited cases is shared only with third parties service providers acting as our agent (a user's email address for an email delivery provider, for example) and in strict compliance with signed service agreements.
 
-Atlassian reserves the right to reclaim usernames on behalf of businesses or individuals that hold legal claim or trademark on those usernames. Accounts using business names or logos to mislead others may be permanently suspended.
+Physical Security
 
-But please note that Atlassian is not in a position to adjudicate complicated trademark disputes between third parties.  Therefore, we are not in a position to act on reports that require a complex legal analysis or factual investigation.  In those instances, we encourage you to contact the third party directly to try and resolve the matter.  In fact, you should consider doing so even before filing a report with us, as it is often more effective in resolving the dispute.
+Customer data is never to be replicated outside of the production environment and is never to be replicated onto employee workstations. Because of this, Trello relies on AWS for physical security compliance. Trello's production services are hosted on Amazon Web Services’ (“AWS”) EC2 platform. The physical servers are located in AWS’s secure data centers. Production critical data is never to be stored on physical media outside of the cloud provider's production environments. From Amazon’s documentation:
 
-If we decide to take down content in response your report, please note that we will provide your report and contact information to the affected party, who may contact you directly regarding the matter.
+_AWS has achieved ISO 27001 certification and has been validated as a Level 1 service provider under the Payment Card Industry (PCI) Data Security Standard (DSS). AWS undergo annual SOC 1 audits and have been successfully evaluated at the Moderate level for Federal government systems as well as DIACAP Level 2 for DoD systems._
+
+Further information on the security of AWS EC2 data centers is available directly from Amazon.3
+
+Corporate Environment and Removable Media
+
+Strict firewall rules prohibit access to necessary ports for the usage of the service (e.g., 443), to ensure limited access to the production environment to our VPN network and authorized systems. The corporate network has no additional access to the production environment, with authorized employees still required to connect to the VPN in order to access any special systems or environments.
+
+Production customer data is never to be stored on employee workstations or removable media. Employee devices are required to time out and lock after a maximum of ten minutes of inactivity. Trello does not have a clean desk policy.
+
+Encryption In-Transit
+
+Trello uses industry standard Transport Layer Security (“TLS”) to create a secure connection using 128­bit Advanced Encryption Standard (“AES”) encryption. This includes all data sent between the web, iOS, and Android apps and the Trello servers. There is no non-­TLS option for connecting to Trello. All connections are made securely over https.
+
+Encryption At –Rest
+
+Data drives on servers holding user data use full disk, industry-standard AES encryption with a unique encryption key for each server. For Enterprise customers, Trello guarantees that file attachments uploaded after June 3, 2015 will be encrypted at rest using industry standard AES encryption. File attachments to Trello cards are stored in Amazon’s S3 service. Each attachment is assigned a unique link with an unguessable, cryptographically strong random component, and are only accessible using a secure HTTPS connection. File attachments uploaded after June 3, 2015 are encrypted using Amazon S3 server side 256­bit AES encryption. The encryption, key management, and decryption process is inspected and verified internally by Amazon on a regular basis as part of their existing audit process. At an Enterprise customer’s request, attachments uploaded prior to June 3, 2015 can be retro­actively encrypted within Amazon S3. All backups are encrypted with AES encryption.
+
+Encryption on Mobile Devices
+
+To be clear, while customer data is never to be stored on the workstations or removable media of Trello employees, some data may be stored in an unencrypted form on the phones of users who are using the Trello iOS and Android apps. For both operating systems, if someone can get around the native operating system sandboxing because of a compromised or rooted device or the like, additional measures that could be taken within the application could be easily circumvented at that point.
+
+Encryption Keys
+
+Encryption keys for Trello attachments, stored in S3, are managed by Amazon. The encryption, key management, and decryption process is inspected and verified internally by Amazon on a regular basis as part of their existing audit process. Trello-managed keys are rotated upon relevant changes of roles or employment status. Encryption keys are not stored outside of the production backup environment and are managed by the Trello Site Reliability Engineering team. Backups are of the entire data set and so are encrypted using a shared key.
+
+Removing/Deleting Data from Trello
+
+Production customer data is never to be replicated outside of the production cloud environments and is never to be stored on employee workstations or removable media. On termination of a Trello Enterprise contract, and at the request of the customer, the data belonging to the Enterprise teams will be completely removed from the live production database and all file attachments uploaded directly to Trello will be removed within 30 days. The team’s data will remain in encrypted Trello database backups until those backups fall out of the 90-day backup retention window and are destroyed in accordance with Trello’s data retention policy. In the event that a database restore is necessary within 90 days of a requested data deletion, the Trello operations team will re-delete the data as soon as reasonably possible after the live production system is fully restored.
+
+Development, Patch and Configuration Management
+
+All changes to the production system, be they code or system configuration changes, require review prior to deployment to the production environment. Thousands of automated unit tests are run against all production code prior to deployment, as well as regularly conducted automated vulnerability scans and commissioned penetration tests. All changes are tested in a staging environment prior to deployment to production. Patches to the web client are deployed on a rolling basis, usually several times per week. Production servers are managed via a centralized configuration system. All system changes are peer reviewed and patches are deployed as relevant to their level of security and stability impact, with critical patches able to be deployed well within 24 hours of availability as appropriate.
+
+Trello restricts access and maintains separate lists of relevant roles with access to source code, development, staging, and production environments. These lists are reviewed quarterly and on role change. We use source code management tools and repositories.
+
+All production servers are running a LTS (Long Term Support) distribution of their operating system to ensure timely updates are available. CVE lists and notifications are actively monitored and any systems can be patched in a timeline relevant to the severity of the issue. A centralized configuration system is used for the management of production servers, and when needed a patch can be deployed within hours of its availability.
+
+A full list of the open-source libraries used in Trello can be found on Trello's "open source libraries" page.4
+
+Event Logging
+
+Actions which manipulate data are stored within the Trello service and are available for the client/user (e.g., when viewing the action history on a card, board, or team). This information is available within the app unless a card is deleted (not archived), at which point it cannot be restored.
+
+The following information is available internally:
+
+All API calls and application logs are kept for at least 30 days without sensitive information (no full user tokens, no user generated content), and available only for authorized employees as required by their role for monitoring of the Trello service to ensure service availability and performance and to prevent abuse. Some anonymous analytical information including browser user agent, geographical location based on IP, etc, is collected along with usage events (e.g., a list was created) with no user generated content (no list names, card content) for analytical purposes on usage of our service.
+
+Application logs are centrally collected in an ElasticSearch cluster for a minimum of 30 days for monitoring and analysis. Security, authentication, and Intrusion Detection System (IDS) logs are additionally retained in S3 CloudWatch buckets with a 12 month lifecycle to ensure retention.
+
+Asset Management
+
+While some assets are not owned by a specific individual, ownership and maintenance of the confidentiality, integrity, and availability of our systems is distributed amongst the Site Reliability Engineering and Operations teams. Assets are transferred upon role change or leaving the company.
+
+Data Within Trello
+
+Upon account creation, Trello users are asked for a username, full name, and email, though these do not need to be verified. Trello makes no assumptions about the types of data that a given customer may choose to store within its service. Trello is a visual collaboration tool that supports organizing of data into cards, lists, and boards and can include attachments, but the specific nature of what is stored is up to the client.
+
+Trello validates files for well-formedness and the like, however, we have explicitly designed the product to support any type of content users may choose to store within the Trello service. All attachments are stored and accessed from a completely separate domain to prevent any potential access to user data, cookies, etc. As an example, Trello very well could have a security researcher storing examples of malicious XSS attacks as attachments on their Trello board, and Trello would be able to support that without risk to the codebase underpinning the actual Trello Service.
+
+User Team Management and Access
+
+Admins for an Enterprise account will be set via your account manager. Admin, regular, and read-only (“observer”) roles can be assigned within the app itself.
+
+It is not possible to limit the geolocations allowed to access data within Trello. Data can be accessed by users who have access to such data within the app from any geolocation. All access to user data is via the API which includes strict authorization checks. All server role interactions go through strict security group/firewall rules which limits access to authorized instance roles on authorized ports required for them to fulfill their role.
+
+Power-Ups cannot be restricted within a team. Power-Ups which connect Trello to other services (such as Evernote or Dropbox) will require authentication with an existing account in that service before the Power-Up is active. If working within a corporate environment, the domain used to authenticate that account can be blocked in your environment's firewall.
+
+Backup, Business Continuity, and Disaster Recovery Policy Backup Policy
+
+Data entered into Trello is backed up regularly. All backups are encrypted and stored at multiple offsite locations to ensure that they are available in the unlikely event that a restore is necessary.
+
+Files uploaded to Trello as card attachments are not backed up on the same schedule, and instead rely on Amazon S3’s internal redundancy mechanism.
+
+Files associated with Trello cards from a supported cloud storage provider are subject to the storage provider’s own backup procedures and policies and are not included in the Trello backup procedures.
+
+All backups are immediately encrypted with 256-bit AES encryption using GNU Privacy Guard (“GPG”) with a password-protected symmetric cipher. Encrypted backups can only be decrypted by members of the Trello operations team who have received training and have been authorized to decrypt the backups.
+
+Because user data is on a shared infrastructure, it is not uniquely identifiable. As such, it is not possible for us to recover a subset of that information from backups. If a user is particularly concerned with maintaining a complete record of their information in Trello, we suggest you frequently export your data or use our API5 to connect a DLP tool to Trello.
+
+Backup Interval
+
+A rolling live replica of Trello’s primary database is constantly being taken on a 1-hour delay. Additionally, a full backup snapshot of the primary database is taken once every 24 hours.
+
+Backup Storage
+
+All Trello backups are retained on the following schedule and at the following locations:
+
+*   AWS EC2 on a dedicated backup server for two days
+*   AWS S3 for 7 days
+*   Google Cloud Storage for 30 days
+*   AWS Glacier for 90 days
+
+Only authorized members of the Trello operations team have access to the backup locations, so that they are able to monitor the performance of the backup processes, and in the very unlikely event that a restore becomes necessary. After 90 days, the encrypted backup files are destroyed.
+
+Attachments directly uploaded to Trello are handled differently than the primary database backups. To backup file attachments, Trello primarily relies on S3’s internal redundancy mechanism, which Amazon states provides 99.999999999% yearly data durability. Attachments are also backed up to Google Cloud Storage for additional redundancy.
+
+Data Portability
+
+Trello board data is available for export by board members in JSON format via the Trello REST API. File attachments can be individually retrieved directly from Amazon S3 using the file’s unique hyperlink.
+
+Trello Business Class and Enterprise editions offer a simplified data export process for all team data and attachments. Each Business Class and Enterprise team includes one-click export of all Boards within the team. Optionally, file attachments uploaded directly to Trello can be included in the export file. Within the export, each board’s data is included in both JSON and Comma Separated Values (“CSV”) format.
+
+Business Continuity
+
+The Trello operations team has designed systems to keep the service running even if the underlying infrastructure experiences an outage or other significant issue. Every critical Trello service has a secondary, replicated service running simultaneously with mirrored data in a different AWS availability zone than the primary server. Additionally, each database server has a replicated service running in a third availability zone with data that is mirrored on a one hour delay.
+
+Because it is critical to have reliable access to your business’ important projects and data, Trello has been architected to survive a single availability zone outage without significant service interruptions.
+
+Disaster Recovery
+
+In the unlikely event that two Amazon EC2 availability zones have long-term service interruptions, Trello has been designed to recover with limited service interruption and a maximum of 1 hour of data loss.
+
+In the even more unlikely event that Trello’s entire AWS EC2 region is irrecoverably lost, Trello will restore servers using automated configuration systems. In this event, user data would be recovered from backups as quickly as possible, with no more than of 24 hours of data loss.
+
+Trello's Site Reliability Team regularly tests the various components of its Business Continuity architecture to ensure continued operations. Trello does not currently run anything like Chaos Monkey.
+
+Trello does not have an SLA or credit policy. Trello had over 99.99% uptime in 2015 and 2016, and any downtime is documented at Trello's status page.6
+
+Incidents and Response
+
+A Trello problem impacting a Trello Enterprise customer will be assigned a Severity Level and handled according to the resolutions in Table 1.
+
+Table 1: Incidents and Response Severity Levels:
+
+Level Description Resolution Examples Severity 1 Trello is not available or is unusable. Work begins within 1 hour from report, temporary resolution within 4 hours, final resolution within 7 hours. The site is not responding. all text on the site is being translated into elven runes. Severity 2 Service or performance is substantially degraded in a way that prevents normal use. Work begins within 2 hours from report, temporary resolution within 48 hours, final resolution within 14 days. Search only finds cards with the search terms in the title. Trello cannot be used with the new Firefox version that came out today. Severity 3 A service not essential to Trello’s main functionality is unavailable or degraded. Work begins within 72 hours from report, temporary resolution within 7 days, final resolution within 30 days. Activity indicators are not showing who is active. updates are taking 30 seconds to propagate to other board viewers. Severity 4 Minor or cosmetic issues with Trello services, and all feature requests. Resolution at Trello team’s discretion. Board background images aren’t scaling properly. feature request for dependencies between cards. Employee Policies Anti-virus and anti-malware
+
+Trello does not have a centrally managed anti-virus solution. For those authorized and trained members of the operations team with access to the production system, any workstations running Windows or OS X used for ssh terminal access to the production environment must be running reputable, current, and active anti-virus software with real-time monitoring and at-least-daily updates.
+
+Members of Trello's technical staff with access to the production environment may choose to run linux as their workstation operating system. Given the inadequate state of linux antivirus software and the lack of prevalence of viruses for that platform, policy does not require those workstations to run antivirus. All of the existing controls, including restricting access from those workstations to the production environment via ssh terminal connections only and with no replication of user data onto those workstations, still apply.
+
+Trello's linux servers run an Intrusion Detection System (IDS) which includes scanning for common rootkit signatures and File Integrity Monitoring which alerts on any changes to the system configuration and operating system files.
+
+Remote access
+
+Many of Trello’s employees work remotely. Customer data is never to be replicated outside of the production environment, which is stored within AWS' secure servers. Strict firewall rules are in place thus limiting access to the production environment to our VPN network and authorized systems.
+
+Authorized and trained members of Trello's SRE and Server Engineering teams who have undergone background checks authenticate to the VPN using unique strong passwords and TOTP based 2FA and then only access the production environment via ssh terminal connections using passphrase protected personal RSA certificates.
+
+The corporate network has no additional access to the production environment, with authorized employees still required to connect to the VPN in order to access any special systems or environments.
+
+Security Awareness and Confidentiality
+
+Security awareness and customer data access policies are covered during employee onboarding as appropriate to the role and employees are updated as relevant policies or practices change. Employees also sign a Confidential Information and Inventions Agreement.
+
+In the event that a security policy is breached by an employee, Trello reserves the right to determine the appropriate response, which may include termination.
+
+Vetting
+
+All employees undergo an extensive interview process before hiring. Employees with direct access to the production environment undergo a criminal background check. Other employees may undergo a check depending on their role (academic for legal roles, credit for finance, etc). Appropriate NDAs are in place with third parties as appropriate.
+
+Password Requirements
+
+Employees are required to enforce 2FA when available and use a password manager with random, secure passwords. Authorized employees access the production environment by authenticating to the VPN using unique strong passwords and TOTP based 2FA and then only via ssh terminal connections using passphrase protected personal RSA certificates.
+
+Maintenance Policy Planned Maintenance
+
+When it is necessary to perform planned maintenance on Trello services, the Trello operations team will perform the work during one of two scheduled weekly maintenance windows. We will make reasonable efforts to announce maintenance procedures that could potentially impact users of Trello on the @trellostatus Twitter account7 at least 24 hours prior to the event, and via an in-app announcement at least 30 minutes prior to the event.
+
+Planned Maintenance Windows
+
+*   Tuesday from 10:00 PM US Eastern Time through Wednesday at 2:00 AM US Eastern Time
+*   Saturday from 10:00 PM US Eastern Time through Sunday at 2:00 AM US Eastern Time
+
+These windows have been selected with the goal of minimizing service downtime, slowness, or other impact to the people and businesses that rely on Trello.
+
+We do our best to make outages as short as possible. Additionally, our maintenance schedule will frequently be evaluated to ensure that we keep user impact as low as reasonably possible. Should we need to reschedule these windows, the updated schedule will be announced on our Status Blog and Twitter accounts with reasonable advance notice.
+
+Unplanned Maintenance
+
+Due to unforeseen events, we may have to infrequently perform unplanned maintenance on Trello infrastructure or software components. This maintenance might cause some or all of the Trello services to be inaccessible by our users for a period of time. It is our goal to do this as infrequently as possible. Any unplanned or emergency maintenance will be announced on the Trello Status Blog and in-app with as much advance notice as reasonably possible. As with planned maintenance, we do our best to minimize disruption caused by service outages.
+
+It is not possible for us to customize the maintenance window, as our users are on a shared infrastructure. However, we've used this maintenance window extremely rarely—about once a year, for under 15 minutes each time.
+
+**Footnotes:**
+
+1http://aws.amazon.com/security/
+
+2https://trello.com/your/account
+
+3http://aws.amazon.com/security/
+
+4https://trello.com/b/dpX2j6lT/open-source-libraries
+
+5http://developers.trello.com/
+
+6http://www.trellostatus.com/
+
+7https://twitter.com/trellostatus
+
+Changelog
+
+*   **22 Feb 2018** - Updates to links or cross-references in the following Sections: Data Center, Access Control, Physical Security, Encryption In-Transit, Development, Patch and Configuration Management, Backup Policy, Disaster Recovery Policy and Planned Maintenance.
+*   **20 Sep 2017** - First version of page goes live. Replaces previous Operations &. Security Guide PDF.
