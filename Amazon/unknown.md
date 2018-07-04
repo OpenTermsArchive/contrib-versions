@@ -1,29 +1,45 @@
-Firefly FAQ
+Amazon Device Support  › Amazon Device Terms, Warranties, and Notices › Location Services FAQ
 
-**How do I launch Firefly?**
+How do location services work on Fire tablets?
 
-If you have a Fire tablet that supports Firefly, you can launch Firefly by swiping down from the top of the screen and then tapping the Firefly icon in the Quick Settings menu, by tapping the Firefly icon in the carousel, or by tapping Apps, then the Firefly icon. Then, just point your camera at items you want Firefly to recognize, and Firefly will process the images and audio in the Cloud and return results on the items to allow you to take action, including buying the item or sharing it on social media. You can also use the music and video icons at the top of the screen to identify music or movies and TV shows that are playing nearby. Firefly will automatically pause after a period of inactivity. simply touch the display to restart Firefly.
+When you enable location services, the approximate location of your device is determined based on information including:
 
-**How do I delete an item from my on-device Firefly history?**
+*   for all devices, the networks detected by your device (like Wi-Fi routers, their signal strengths, and the type of security they use).
+*   for cellular enabled devices (like a 4G Fire tablet), the cellular networks detected by your device (like the signal strengths of cell towers).
+*   for devices with a GPS feature, latitude and longitude, altitude, direction, and the accuracy of these readings.
 
-Swipe up from within the Firefly app to see your history. Then select an item and tap "Delete from history". This will delete the item from your device.
+Amazon and third-party apps and websites use location information to provide you location services. We also may use and store this information to provide and improve our services, such as voice services, the Maps app, and Find Your Device, and to monitor the performance and accuracy of our location services. Similarly, we use your location to process your mapping-related requests and improve the Maps experience. All information we collect is subject to the Amazon.com Privacy Notice.
 
-**How do I prevent my Firefly history from showing in my carousel?**
+How is my location data used by third-party apps?
 
-Touch and hold the Firefly icon in the carousel and then click the "Remove from Carousel" message that appears.
+A wide range of apps and websites may access your location information, including, for instance, those that provide directions, weather information, or information on local attractions or restaurants. These apps and websites may collect, use, and share your location data in different ways depending on the type of location services they provide. Any location data and other information collected by a third-party app or website are subject to that app's or website's privacy policy and other terms, not the Amazon.com Privacy Notice. You should carefully review the privacy policies and other terms for third-party apps and websites before installing or using them on your device to understand how they work and how each app or website provider will use your information (including whether they directly access or use Wi-Fi, GPS, or other features to gather information for other purposes).
 
-**What happens to my Firefly images and audio?**
+How can I tell which third-party apps have access to location services on my Fire tablet?
 
-We process and retain Firefly images and audio in the Cloud to provide and improve our services. You can delete Firefly images and audio stored in the Cloud that are currently associated with your Amazon account by visiting the Manage Your Content and Devices page on Amazon.com. You also can contact customer service.
+For apps downloaded from the Amazon Appstore, you can tell which apps have access to location services by checking whether the “permissions” listed on the app’s detail page in the Amazon Appstore includes access to location information. A location icon will appear in the upper right corner of your device (near the battery life icon) when an app or website is accessing location information from your device.
 
-**Can I delete my Firefly images and audio that are retained in the Cloud?**
+Can I turn off location services?
 
-Yes, you can delete Firefly images and audio stored in the Cloud that are currently associated with your Amazon account by visiting the Manage Your Content and Devices page on Amazon.com. You also can contact customer service. This process will not delete items from your on-device Firefly history. To delete items from your on-device history, swipe up from within the Firefly app to see your history, select an item, and then tap "Delete from history".
+Yes, you can turn off location services at any time by going to the Settings menu of your device and disabling the feature. For information about how to disable specific devices, click here. If you disable location services, you may not be able to access or use certain apps or features on your device that require those services.
 
-**Does Backup and Restore backup my Firefly history?**
+What are Enhanced Location Services?
 
-If you have enabled Backup and Restore on your Fire tablet, it will automatically backup your on-device Firefly history. If you have a Fire tablet that supports Firefly, you can choose to delete the backup of your Firefly history by disabling Backup and Restore in Settings on your Fire tablet. By doing so, you will also delete other data backed up by Backup and Restore.
+When enabled, Enhanced Location Services help us improve Maps and other services by allowing us to store location history and associate it with your Amazon account. You may enable Enhanced Location Services by going to Settings >. Location Services.
 
-**Do third party apps have access to Firefly?**
+Can I delete my location history collected by Enhanced Location Services?
 
-Yes, certain third party apps can access items you identify with Firefly and provide you additional information about the items. In addition, you can choose to send images to certain third party apps for identification of items in the image. To determine which apps have access to Firefly, check the "Key Details" section of the app detail page. Also, in the left panel of your Fire tablet, you can view a list of installed apps that have access to Firefly and, if you wish, disable access to Firefly for individual apps. You also may share items in your Firefly history with social media and other apps by tapping "Share this item" within your Firefly history.
+Yes, you can choose to delete the location history collected by Enhanced Location Services from this device and currently associated with your Amazon account by visiting the Manage Your Content and Devices page on Amazon.com. You also can contact customer service. This process will not delete location information collected from your other devices and is limited to deletion of data collected through Enhanced Location Services.
+
+Was this information helpful?
+
+Yes No
+
+Thank you for your feedback.
+
+Please select what best describes the information:
+
+This information is confusing or wrong This isn't the information I was looking for I don't like this policy Submit
+
+Thanks! While we're unable to respond directly to your feedback, we'll use this information to improve our online Help.
+
+Go
