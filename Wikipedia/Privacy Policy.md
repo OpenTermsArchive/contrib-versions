@@ -225,10 +225,6 @@ For the sake of clarity, this Privacy Policy covers, regardless of language:
 
 This Privacy Policy, however, does not cover some situations where we may gather or process information. For example, some uses may be covered by separate privacy policies (like those of the Wikimedia Shop) or sites or services run by third parties (such as third-party developer projects on Wikimedia Cloud Services). To understand more about what this Privacy Policy does not cover, please see below.
 
-**Want to help translate? Translate the missing messages.**
-
-</noinclude>.
-
 ExpandMore on what this Privacy Policy doesn’t cover
 
 This section is part of the Privacy Policy and is meant to explain in detail which situations are not covered by our Privacy Policy.
