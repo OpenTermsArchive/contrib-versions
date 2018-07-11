@@ -358,43 +358,37 @@ How to control cookies
 
 You can follow the instructions provided by your browser or device (usually located under "Settings" or "Preferences") to modify your cookie settings. Please note that if you set your browser or device to disable cookies, certain of our Services may not function properly.
 
-WhatsApp Payments
+WhatsApp PaymentsWhatsApp Payments Terms of ServiceLast modified: July 9, 2018 (archived versions)
 
-We're beta testing the payments feature for a limited number of users in India. At this time, we don't have any updates for making the feature more widely available.
-
-India Payments Terms of Service
-
-Last modified: February 5, 2018
-
-_We will be updating our India Payments Terms of Service and Privacy Policy. Learn More about the updated Terms and Privacy Policy that will take effect at a future date._
-
-WhatsApp Inc. ("WhatsApp," "our," "we," or "us") provides messaging, Internet calling, and other services to users around the world, including the ability to send and receive payments through designated payment service providers ("PSPs") in India ("Payments"). Payments is a "Service" as defined in the WhatsApp Terms of Service ("Terms"), and the following WhatsApp Payments Terms of Service ("Payments Terms") supplement the Terms and apply to your use of Payments. You agree to the Payments Terms when you use Payments.
+WhatsApp Inc. (“WhatsApp,” “our,” “we,” or “us”) provides messaging, Internet calling, and other services to users around the world, including the ability to send and receive payments through designated payment service providers (“PSPs”) in India (“Payments”) via Unified Payments Interface (“UPI”) developed by the National Payments Corporation of India (“NPCI”). Payments is a “Service” as defined in the WhatsApp Terms of Service (“Terms”), and the following WhatsApp Payments Terms of Service (“Payments Terms”) supplement the Terms and apply to your use of Payments. You agree to the Payments Terms when you use Payments.
 
 About our payment service
 
-**Our Role**. Payments is a service we provide through, and in coordination with, designated PSPs. We provide a convenient platform that enables you to submit transaction instructions to PSPs for processing via the Unified Payments Interface ("UPI"). We are not a licensed financial institution, do not receive, transfer, or store any funds in connection with Payments, and are not responsible for UPI service interruptions or acts or omissions of PSPs or your bank including the payment, settlement, and clearance of funds. You have a separate relationship with your bank regarding your bank account, and WhatsApp has no affiliation with your bank in this respect.
+**Our Role**. Payments is a service we provide through, and in coordination with, designated PSPs. We provide a convenient platform that enables you to submit transaction instructions to PSPs for processing via UPI. We are not a licensed financial institution, do not receive, transfer, or store any funds in connection with Payments, and are not responsible for UPI service interruptions or acts or omissions of PSPs or banks including the payment, settlement, and clearance of funds. You have a separate relationship with your bank regarding your bank account, and WhatsApp has no affiliation with your bank in this respect.
 
-**PSP's Role**. When you initiate a transaction through Payments, a designated PSP receives the instructions and processes the transaction via UPI. By using Payments, you will also need to agree to the PSP's terms and privacy policy, which will be presented to you when you first use Payments. The PSP's terms and privacy policy are also available here. These Payments Terms govern the relationship between WhatsApp and you regarding Payments, and the PSP's terms govern the relationship between the PSP and you.
+**PSP’s Role**. When you send or receive funds through Payments, a designated PSP receives the instructions and processes the transaction via UPI. By using Payments, you will also need to agree to the PSP’s terms and privacy policy, which will be presented to you when you first use Payments. The PSP’s terms and privacy policy are also available here. These Payments Terms govern the relationship between WhatsApp and you regarding Payments, and the PSP’s terms govern the relationship between the PSP and you.
 
 **Eligibility**. To use Payments, you must use a phone number with the country code for India and have a bank account with a bank that supports UPI. The phone number you use for our Services must be the same phone number linked to your bank account used for Payments.
 
-**Registration**. You must be an owner of the bank account you use to send and receive funds through Payments. After you provide information to confirm your mobile banking account, WhatsApp creates a virtual payment address that is associated with your WhatsApp account. We will ask you to create an UPI PIN for your bank account if you do not already have one.
+**Registration and UPI PIN setup**. You must be an owner of the bank account you use to send and receive funds through Payments. After you provide information to confirm your mobile banking account, WhatsApp facilitates creation of a UPI ID (virtual payment address) that is associated with your WhatsApp account. Since your transaction instructions are processed via UPI, you must have a UPI PIN to send payments. We will ask you to create a UPI PIN to send payments if you do not already have one for your bank account.
 
 **Age**. You must be at least 18 years old to use Payments.
+
+**Credits**. We may credit your bank account for purposes including rewards and special offers. Our affiliate WhatsApp Application Services Private Limited provides such credits on our behalf.
 
 **Fees and Taxes**. You must pay any applicable fees arising out of your use of Payments, including any overdraft, transaction, or other fees charged by your bank, PSPs, or WhatsApp. You must comply with applicable tax laws in connection with your use of Payments, including reporting and payment of any taxes related to transactions made through Payments and any income received from such transactions. WhatsApp is not responsible for withholding, collecting, reporting, or remitting any sales, use, value added, or other tax arising from any transaction you complete using Payments.
 
 Privacy policy and user data
 
-WhatsApp cares about your privacy. Our Privacy Policy applies to your use of Payments. Because additional information will be collected and processed when you use Payments, the WhatsApp Payments Privacy Policy also applies to your use of Payments. The WhatsApp Payments Privacy Policy describes additional information practices applicable to Payments, including the types of information we receive and collect from you when you use Payments and how we use and share this information. If you use Payments, you agree to our data practices, including the collection, use, processing, and sharing of your information as described in our Privacy Policy and our Payments Privacy Policy, as well as the transfer and processing of your information to the United States and other countries globally where we have or use facilities, service providers, or partners, regardless of where you use Payments. You acknowledge that the laws, regulations, and standards of the country in which your information is stored or processed may be different from those of your own country.
+WhatsApp cares about your privacy. Our Privacy Policy applies to your use of Payments. Because additional information will be collected and processed when you use Payments, the WhatsApp Payments Privacy Policy also applies to your use of Payments. The WhatsApp Payments Privacy Policy describes additional information practices applicable to Payments, including the types of information we receive and collect from you when you use Payments and how we use and share this information. If you use Payments, you agree to our data practices, including the collection, use, processing, and sharing of your information as described in our Privacy Policy and our Payments Privacy Policy.
 
 Use of payments
 
-**Payment Amount**. You are responsible for the total payment amount. You must ensure that you have sufficient funds in your bank account before executing any transaction through Payments.
+**Payment Amount**. You are responsible for the total payment amount. You must ensure that you have sufficient funds in your bank account before executing any transaction through Payments. Your payment will not be sent if the PSP or your bank determines that your bank account lacks sufficient funds to cover the entire transaction amount.
 
-**Acceptable Use of Payments**. You must access and use Payments only for legal, authorized, and acceptable purposes, according to our Terms and posted policies. A PSP or WhatsApp may impose limits on your ability to send or receive payments, including transaction limits. A PSP or WhatsApp may also cancel any transaction if we believe the transaction violates the Terms, these Payments Terms, posted policies, or the PSP's terms.
+**Acceptable Use of Payments**. You must access and use Payments only for legal, authorized, and acceptable purposes, according to our Terms and posted policies including merchant policies as may be published from time to time. A PSP or WhatsApp may impose limits on your ability to send or receive payments, including transaction limits. A PSP or WhatsApp may also cancel any transaction if we believe the transaction violates the Terms, these Payments Terms, posted policies, or the PSP’s terms.
 
-**Purchase Transactions**. If you use Payments to pay for goods or services, you agree to make legitimate purchases and to be bound by any terms of the sale. We have no responsibility for any goods or services purchased using Payments, including for any claims, damages, losses, liabilities, chargebacks or disputes associated with transactions. WE MAKE NO WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, WITH RESPECT TO ANY PRODUCTS OR SERVICES SOLD USING PAYMENTS.
+**Purchase Transactions**. If you use Payments to pay for goods or services, you agree to make legitimate purchases and to be bound by any terms of the sale. We have no responsibility for any goods or services purchased using Payments, including for any claims, damages, losses, liabilities, chargebacks or disputes associated with transactions. WE MAKE NO WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, WITH RESPECT TO ANY PRODUCTS OR SERVICES PURCHASED USING PAYMENTS.
 
 **Payments Transactions Are Final**. Once you submit a payment, it is final. WhatsApp does not provide refunds or facilitate chargebacks. WhatsApp is not liable for unauthorized transactions. We assume no responsibility for the underlying transaction of funds, or the actions or identity of any transfer recipient or sender.
 
@@ -404,58 +398,59 @@ Other
 
 *   If there is any conflict between these Payments Terms and the Terms, these Payments Terms control solely with respect to your use of Payments and only to the extent of the conflict.
     
-*   We may amend or update these Payments Terms. We will provide you notice of amendments to our Payments Terms, as appropriate, and update the "Last Modified" date at the top of our Payments Terms. Your continued use of Payments confirms your acceptance of our Payments Terms, as amended. If you do not agree to our Payments Terms, as amended, you must stop using Payments. Please review our Payments Terms from time to time.
+*   We may amend or update these Payments Terms. We will provide you notice of amendments to our Payments Terms, as appropriate, and update the “Last Modified” date at the top of our Payments Terms. Your continued use of Payments confirms your acceptance of our Payments Terms, as amended. If you do not agree to our Payments Terms, as amended, you must stop using Payments. Please review our Payments Terms from time to time.
     
 
-India Payments Privacy Policy
+WhatsApp Payments Privacy PolicyLast modified: July 9, 2018 (archived versions)
 
-Last modified: February 5, 2018
+The WhatsApp Privacy Policy helps explain our information practices. Our Services may include enabling you to send and receive payments (“Payments”), a service we provide through, and in coordination with, designated payment service provider (“PSP”) banks.
 
-_We will be updating our India Payments Terms of Service and Privacy Policy. Learn More about the updated Terms and Privacy Policy that will take effect at a future date._
+This Payments Privacy Policy helps explain our information practices when you use Payments. We use all the information we have to operate, provide, improve, understand, customize, support, and market our Services. PSPs may also collect, use, and share information as set forth in their privacy policies, in conjunction with helping to provide Payments to you.
 
-The WhatsApp Privacy Policy helps explain our information practices. Our Services may include enabling you to send and receive payments ("Payments"), a service we provide through, and in coordination with, designated payment service providers ("PSPs").
-
-This Payments Privacy Policy helps explain our information practices when you use Payments. PSPs may also collect, use, and share information as set forth in their privacy policies, in conjunction with helping to provide Payments to you.
-
-This Payments Privacy Policy supplements our Privacy Policy, which applies to the use of our Services, including Payments. Please also see WhatsApp's Terms of Service ("Terms"), which describe the terms under which you use our Services including Payments, and the WhatsApp Payments Terms of Service ("Payments Terms"), which supplement the Terms, govern your use of Payments, and describe Payments in more detail. Please read all of these documents carefully.
+This Payments Privacy Policy supplements our Privacy Policy, which applies to the use of our Services, including Payments. Please also see WhatsApp’s Terms of Service (“Terms”), which describe the terms under which you use our Services including Payments, and the WhatsApp Payments Terms of Service (“Payments Terms”), which supplement the Terms, govern your use of Payments, and describe Payments in more detail. Please read all of these documents carefully.
 
 Information We Collect
 
 In addition to what is described in our Privacy Policy, we receive information when we provide Payments.
 
-**Information You Provide**
+Information You Provide
 
-*   **Registration Information**. When you register to use Payments, you provide your bank's name, partial debit card number, and debit card expiration date. You will also be asked to provide your ATM PIN or UPI PIN, or to set up an UPI PIN for payment transactions if you do not already have one. We receive your debit card details and ATM PIN or UPI PIN securely, and we do not retain this information.
-*   **Payment Transaction Information**. When you send a payment, you identify the recipient or provide the recipient's virtual payment address ("VPA") and designate the transaction amount. This payment transaction information is handled securely. Messages sent with payments are delivered once the transaction has processed and are treated as described in our Privacy Policy.
+*   **Registration and BHIM UPI PIN Setup Information**. When you register to use Payments, you provide your bank’s name and confirm the bank account for use with Payments. If you do not have a BHIM UPI PIN already for your bank account, you can set one using your partial debit card number, expiry date, PIN (if required by your bank), and bank-issued one-time password (OTP) to set up a BHIM UPI PIN. We do not retain Customer Payment Sensitive Data (partial debit card number, expiry date, PIN, OTP, or BHIM UPI PIN). WhatsApp does not have access to the BHIM UPI PIN because it is encrypted by Common Library (CL) software provided by National Payment Corporation of India.
+*   **Payment Transaction Information**. When you send, receive, or request payments, you provide or confirm transaction information such as the receiver’s name and BHIM UPI ID (virtual payment address), and payment amount. To authorize every payment you make, you need to use your BHIM UPI PIN. This payment transaction information is handled securely. WhatsApp messages sent with payments are delivered once the transaction has processed and are treated as described in our Privacy Policy.
 
-**Automatically Collected Information**
+Automatically Collected Information
 
-*   **Information to Enable Payments**. We collect information when you send or receive a payment, including the date and time, the sender and receiver's VPA and name, and reference transaction number.
+*   **Information To Enable Payments**. We collect information when you send, receive, or request a payment, including the date and time and reference transaction number. When the sender makes a payment to a WhatsApp contact, we collect the sender and receiver’s names and BHIM UPI IDs.
 
-**Third-Party Information**
+Information We Receive From Service Providers, PSPs, And NPCI
 
-*   **Third-Party Providers and Services**. We work with third-party providers and services to help us operate Payments and provide customer support. These providers and services may provide us information about you or your Payments transactions in certain circumstances. for example, we may receive information about you or your transactions from a PSP such as information to confirm your registration, your name, account status, transaction reference IDs, risk or fraud alerts, and the like. Please note that the third-party's terms and privacy policies will govern your use of its services.
+*   **Service Providers**. We work with service providers to help us operate, provide, improve, understand, customize, support, and market Payments. provide customer support. and keep our system safe and secure. For example, we work with companies to assist with customer support, and we receive information from them that you provide over the phone or email.
+*   **PSP Banks and NPCI**. We enable Payments by working with multiple PSP banks and the National Payments Corporation of India (NPCI) to facilitate the movement of funds between the sender and receiver’s bank accounts. They provide us information about you or your Payments transactions in certain circumstances. for example, we may receive information about you or your transactions from a PSP such as information to confirm your registration, the payment sender or receiver’s name, account status and balance sufficiency, transaction reference IDs, risk or fraud alerts, and the like. BHIM UPI transaction information is stored in encrypted format. Please note that the PSP or NPCI’s terms and privacy policies will govern your use of its services.
 
 How We Use Information
 
-We use all the information we have to help us operate, provide, improve, understand, customize, support, and market Payments. This includes using the information to provide Payments and customer support, to protect you and others using our Services from fraud, abuse, or other misconduct, and to review your account activity to determine whether you continue to meet our Terms and Payments Terms.
+We use all the information we have to operate, provide, improve, understand, customize, support, and market our Services. This includes using the information to provide Payments and customer support, to protect you and others using our Services from fraud, abuse, or other misconduct, and to review your account activity to determine whether you continue to meet our Terms and Payments Terms. WhatsApp works with the other Facebook Companies to provide Payments, including to send payment instructions to PSPs.
 
-Information You and We Share
+Information You And We Share
 
-In addition to what is described in our Privacy Policy, you share your information when you use Payments, and we share your information to help us operate, provide, improve, understand, customize, support, and market our Services, including Payments.
+In addition to what is described in our Privacy Policy, you share your information when you use Payments, and we share your information to help us operate, provide, improve, understand, customize, support, and market Payments.
 
-*   **Payment Senders and Recipients**. You and users with whom you send or receive payments may store or reshare your VPA, name, or transaction information with others on and off our Services.
-*   **Third-Party Providers and Services**. We share information with third-party providers and services to help us operate and improve Payments. To send payment instructions to PSPs, maintain your transaction history, provide customer support, and keep our Services safe and secure, including to detect, prevent, or otherwise address fraud, safety, security, abuse, or other misconduct, we share information we collect under this Payments Privacy Policy with third-party service providers including Facebook. To provide Payments to you, we share information with third-party services including PSPs, such as your mobile phone number, registration information, device identifiers, VPAs, the sender's UPI PIN, and payment amount.
+*   **Payment Senders And Recipients**. You and people with whom you send or receive payments may store or reshare your BHIM UPI ID, name, or transaction information with others on or off our Services.
+    
+*   **Service Providers**. In conformance with our relationship with PSPs, WhatsApp works with service providers including Facebook. To send payment instructions to PSPs. maintain your transaction history. provide customer support. improve, understand, customize, support, and market Payments. and keep our Services safe and secure, including to detect, prevent, or otherwise address fraud, safety, security, abuse, or other misconduct, we share information we collect under this Payments Privacy Policy with service providers including Facebook. Facebook will have no access to encrypted BHIM UPI transaction information in clear format. When we share information with service providers, we require them to use your information on our behalf in accordance with our instructions and terms.
+    
+*   **PSP Banks and NPCI**. We share information with PSPs and NPCI to help us operate Payments. The PSP and NPCI receive transaction information such as payment amount and BHIM UPI IDs, so they can facilitate the movement of funds between the sender’s and receiver’s bank accounts. Please note that when you use PSP and NPCI services, their own terms and privacy policies will govern your use of those services.
+    
 
-Managing Your Information
+Managing And Deleting Your Information
 
-If you would like to manage, change, limit, or delete your information, we allow you to do that through your payment settings or by deleting your WhatsApp account. With your payment settings, you may register additional bank account(s), deregister existing bank account(s) from your VPA, and clear your transaction history. When you delete your WhatsApp account, your bank account will be deregistered from your VPA automatically.
+If you would like to manage, change, limit, or delete your Payments information, we allow you to do that through your payment settings or by deleting your WhatsApp account. With your payment settings, you may register additional bank account(s), deregister existing bank account(s) from your BHIM UPI ID, change the PSP bank, and clear your transaction history. When you delete your WhatsApp account, your bank account will be deregistered from your BHIM UPI ID automatically.
 
-Updates to Our Policy
+Updates To Our Policy
 
-We may amend or update this Payments Privacy Policy. We will provide you notice of amendments to this Payments Privacy Policy, as appropriate, and update the "Last Modified" date at the top of this Payments Privacy Policy. Your continued use of Payments confirms your acceptance of our Payments Privacy Policy, as amended. If you do not agree to our Payments Privacy Policy, as amended, you must stop using Payments and deregister your bank account from your WhatsApp VPA. Please review our Payments Privacy Policy from time to time.
+We will notify you before we make changes to this Payments Privacy Policy and give you the opportunity to review the revised Payments Privacy Policy before you choose to continue using Payments.
 
-ICICI Bank's Payment Service Terms
+PSP Terms and Privacy Policy ICICI Bank's Payment Service Terms
 
 These terms and conditions ("Terms") apply to and regulate the provision of a Unified Payments Interface Service–based electronic fund transfer and fund collection facility provided by ICICI Bank to its Users through the application owned and maintained by WhatsApp ("Facility") subject to the Terms herein specified.
 
@@ -601,3 +596,257 @@ ICICI Bank shall be entitled to sell, assign, securitise or transfer ICICI Bank'
 12.2. ICICI Bank has the absolute discretion to amend or supplement any of the Terms as stated herein at any time and will endeavour to give prior notice of 15 days for such changes wherever feasible. By using the new services, the User shall be deemed to have accepted the changed terms and conditions. Notices under these Terms may be given in writing by delivering them by hand, or on ICICI Bank's website www.icicibank.com, or by sending them by post to the last address given by the User and, in the case of ICICI Bank, to its corporate office address.
 
 12.3. Notice and instructions will be deemed served 7 days after posting or upon receipt in the case of hand delivery, cable, telex or facsimile.
+
+HDFC Bank's Payment Service Terms
+
+These terms and conditions shall be in addition to HDFC Bank Privacy Policy.
+
+To read HDFC Bank Privacy Policy, click here.
+
+The user of this HDFC Bank UPI facility (the “User”) should have his mobile number registered with the Bank and should have existing relationship with his/her Bank for availing this Facility/Service, using HDFC Bank UPI facility.
+
+The Facility/Service shall be made available only to the User satisfying the eligibility criteria and shall be provided at the sole discretion of HDFC Bank Ltd and may be discontinued by HDFC Bank Ltd at any time without notice.
+
+The User shall be solely responsible and liable:
+
+1.  For the accuracy of any personal or other information provided for availing this Facility/Service.
+2.  For Pay or Collect requests initiated through HDFC Bank UPI facility.
+3.  To comply with the applicable laws, rules and regulations governing such funds transfers as stipulated by the Reserve Bank of India, from time to time.
+4.  For all loss, cost and damage, if he/she has breached the terms and conditions contained herein and in the HDFC Bank Mobile Banking Policy.
+
+HDFC Bank Ltd shall not be held responsible and liable for any loss, cost and damage suffered by the User due to disclosure of his personal or other information to a third party including but not limited to statutory/regulatory authority by HDFC Bank Ltd for whatsoever reason, e.g., participation in any telecommunication or electronic clearing network in compliance with a legal or regulatory directive for statistical analysis or for credit rating or for any legal or regulatory compliance.
+
+Axis Bank's Payment Service Terms
+
+These terms and conditions form the contract between the User and the Axis Bank and shall be in addition to and not in derogation of other terms and conditions of any account or any other facility/services offered by the Bank and/or such other terms and conditions as may be specified by the Bank.
+
+**Definitions**:
+
+The following words and phrases shall have the meanings set out herein below in this document unless repugnant to the context:
+
+“**Application**” or “**Mobile Payment Application**” refers to ‘WhatsApp’ mobile application by WhatsApp Inc that has tied up with Axis Bank for Unified Payment Interface services, which can be downloaded from Google Play store or Apple Store to avail UPI Services through this mobile application.
+
+"**Account(s)**" shall mean an operative bank account maintained by the User with Axis Bank or any other Bank Account which User provides at the time of authentication process of Application, for availing the facility which is being offered.
+
+“**Account Holder**” shall mean a User holding an Account, excluding Non-Resident Indians, Corporate Account Holders and Foreign Account Holders.
+
+"**Bank**" and "**Axis Bank**" shall mean Axis Bank Limited, a company incorporated under the Companies Act 1956 and licensed as a bank under Banking Regulation Act, 1949 having its registered office at 'Trishul', 3rd Floor, Opposite Samartheshwar Temple, Law Garden, Ellis Bridge, Ahmedabad 380 006, Gujarat and corporate office at 131, Maker Towers 'F', Cuffe Parade, Mumbai. This term shall be inclusive of any 'affiliates' of the Bank which shall mean and include any company which a holding company or a subsidiary of . a person under the control of the Bank or any person in which the bank has a direct/beneficial interest in more than 26% of the voting securities of such person. For the purpose of this definition, "control", when used with respect to any person would mean the power to direct the management and policies of such person, directly or indirectly, whether through the ownership of the vote carrying securities, by contract or otherwise howsoever. and "person" would mean a company, corporation, a partnership, trust or any other entity or organization or other body whatsoever.
+
+“**Debit Card**” shall means and includes the debit card issued to the User in respect of an operative bank account maintained by the User with Axis Bank or any other Bank Account.
+
+"**Facility**" shall mean UPI services offered by Axis Bank through WhatsApp to facilitate User to send or receive money via UPI platform, through said Mobile Application.
+
+“**Issuing Bank**” shall mean member banks participating in UPI network to identify the bank account basis Mobile No in case of customer is registering through any PSP App.
+
+"**Mobile Phone Number**" shall mean the mobile number of the User used during registration for Mobile/SMS Banking via secured channel with Axis Bank or for the Whatapp Application, for the purpose of availing the facility.
+
+“**UPI**” shall mean unified payments interface is a service provided by NPCI that allows transfer of money using a virtual address (UPI ID) that is mapped to an account of the User after complete validation.
+
+“**NPCI**” shall mean National Payment Corporation of India. The funds transfer feature (send and ask) is provided using UPI service of NPCI.
+
+“**Virtual Address/UPI ID**” shall mean an identifier that can be uniquely mapped to an individual account using a translation service.
+
+"**Mobile Phone**" shall mean a valid SIM card enabled smartphone (running on Android operating system/ iphone), which is owned by the User.
+
+"**Personal information**" shall mean any information about the User provided by the User to and obtained by Axis Bank in relation to the facility.
+
+“**Services**” shall mean UPI services offered by Axis Bank under the said facility on WhatsApp Application.
+
+“**Transaction**” shall mean the fund transfer service to send or receive money. offered under the said facility on WhatsApp application.
+
+"**User**" shall mean an Account Holder of Axis Bank as well as any other person (not necessary having any relationship with Bank) who has downloaded the WhatsApp application and who is eligible for availing fund transfer facility to send or receive money offered thereunder.
+
+For the purposes of this document, all reference to the User in masculine gender shall be deemed to include feminine gender also.
+
+**Eligibility and Usage**:
+
+This facility shall be available to the Users in India, using WhatsApp Application. The User should have his/her Mobile Phone Number registered with his/her Bank for SMS/Mobile Banking and should have existing relationship with his/her Bank for availing this Facility and services thereunder, using this Mobile Payment Application.
+
+This facility shall be made available only to the Users satisfying the eligibility criteria and shall be provided at the sole discretion of Axis Bank and may be discontinued by Axis Bank at any time, with or without prior intimation to the Users.
+
+The User understands and accepts that any other condition that is a pre-requisite to access and avail benefits under the facility, including, but not limited to a Mobile Phone, Data Connection, etc. will be the sole responsibility of the User.
+
+**Authorization**:
+
+The User irrevocably and unconditionally authorizes Axis Bank to access his Account and the Personal details registered while authentication of Application for availing the service including effecting Banking or other transactions of the user through the facility.
+
+The User expressly authorizes Axis Bank to disclose to the service provider or any other third party, all user information in its possession, as may be required by them to provide the services offered under the said facility to the User.
+
+The authority to record the User’s details and transaction details is hereby expressly granted by the User to Axis Bank. All records generated by the transactions arising out of use of the facility, including the time of the transaction, beneficiary details, etc. recorded shall be conclusive proof of the genuineness and accuracy of the transactions.
+
+The User authorizes Axis Bank to send any message or make calls to his mobile phone Number to enquire about any transaction/UPI related services and/or to inform him about any promotional offers including information regarding Banks' new products either now available or which Axis Bank may come up with in the future, or any other message that Axis Bank may consider appropriate to the User.
+
+The User irrevocably and unconditionally agrees that such calls or messages made by the Axis Bank and/or its Agents shall not be construed as a breach of the privacy of the User and shall not be proceeded against accordingly.
+
+The User authorizes Axis Bank to send any rejection message or to reject any transaction/request if it finds that the request sent by the User is not as per the requirements stipulated by Axis Bank for availing the facility.
+
+Axis Bank shall make all reasonable efforts to ensure that the User’s information is kept confidential. Axis Bank, however, shall not be responsible for any divulgence or leakage of confidential User information.
+
+The User expressly authorizes Axis Bank to carry out all request(s) or transaction(s) for and/or at the request of the User through WhatsApp Application and the Bank shall solely rely upon authenticity of any request or transaction purporting to have been received from the User through WhatsApp Application.
+
+**Liabilities and Responsibilities of the User**:
+
+1.  The User shall be responsible for the accuracy of any information provided by the user for availing the facility.
+2.  The USER shall be solely responsible for fund transfer through the Facility to the correct Beneficiary/ virtual address.
+3.  The USER shall also be responsible to comply with the applicable Anti-Money Laundering (AML) norms governing such funds transfers as stipulated by Reserve Bank of India (“RBI”), from time to time.
+4.  The USER shall be liable and responsible in case of any discrepancy found in the information provided by him for availing fund transfer service offered through the Facility.
+5.  If, the USER suspects that, there is an error in the information supplied by Axis Bank, he shall inform the Bank immediately. Axis Bank will endeavor to correct the error promptly wherever possible on a best effort basis.
+6.  Axis Bank shall not be held liable for any loss suffered by the User due to disclosure of the Personal information to any service provider or third party by the Bank, for reasons including but not limited to participation in any telecommunication or electronic clearing network, in compliance with any legal or regulatory directives, for statistical analysis or for credit rating or for any legal or regulatory compliance.
+7.  The User shall be solely responsible for protecting his Mobile Phone and UPI PIN for the use of the said facility.
+8.  The User shall be liable to the Bank for any kind of unauthorized or unlawful use of any of the above mentioned UPI PIN /passwords or of the said Facility or any fraudulent or erroneous instruction given and any financial charges thus incurred shall be payable by the User only.
+9.  The User accepts that for the purposes of the said facility any transaction emanating from the Mobile Phone Number registered by User shall be assumed to have initiated by the User at his sole discretion.
+10.  It is the sole responsibility of the User to request the Bank, to suspend the said facility due to change of his registered Mobile Phone Number or if his Mobile Phone has been lost or has been allotted to some other person. The User shall also be obliged to inform the Bank, if any, unauthorized transaction in his account, of which he has knowledge.
+11.  It shall be the responsibility of the User to update him with regard to any information relating to the services as Axis Bank may decide to provide certain other additional services under the said facility. Axis Bank shall not be responsible for any disregard on the part of the User.
+12.  The User shall be liable for all loss if he has breached the Terms and conditions contained herein and other applicable terms &. conditions or contributed or caused the loss by negligent actions or a failure on his part to advise Axis Bank within a reasonable time about any unauthorized access made on his behalf in the WhatsApp Application.
+13.  The User shall agree that by use of this facility, he shall be deemed to have agreed to all the above terms and conditions and such terms and conditions shall be binding on me/us in the same manner as if he has agreed to the same in writing.
+
+**Terms of Service**:
+
+These terms &. conditions are in addition to the general terms &. conditions of any account or any other facility provided by Axis Bank to its Customers.
+
+1.  This facility is available only to the User having a bank account with any bank in India providing Immediate Payment Service (IMPS), Unified Payment Interface (UPI), including the fund transfer service.
+2.  User shall register him for using the Application in such manner and through such modes as may be specified and made available by WhatsApp from time to time for availment and use of the facility.
+3.  Axis Bank reserves right to charge the User for the services offered under the said facility.
+4.  This facility will be provided by Axis Bank at the request of the User to enable them to Send or receive the funds through Application to the accounts/virtual addresses added in the application based on the instructions received from User.
+5.  The User irrevocably and unconditionally authorizes Axis Bank to debit or Credit his account/s with the Bank registered for availing the facility.
+6.  User agrees and confirms that, for the purpose of availing said facility :  
+      
+    a) User has to add his existing account maintained with Axis Bank or any other Bank, to the WhatsApp application.  
+      
+    b) User has to select the appropriate bank details where his account is maintained, for the purpose of adding his account to WhatsApp application. The account details will be fetched by the Axis Bank through WhatsApp application via NPCI and the Issuing bank, basis the mobile number shared by User. The account details which will be fetched by the Bank will be displayed to the User on his mobile phone/device in the message format.  
+      
+    c) After the successful account addition in the WhatsApp application, the User has to only authorize the transaction by entering the UPI PIN set-up by said User. This UPI PIN will be set-up by the User directly on the NPCI library and Axis bank would not be able to read or copy such UPI PIN, thus Axis Bank will not be responsible to maintain the confidentiality of such UPI PIN.  
+      
+    d) The User should act in good faith, exercise reasonable care and diligence and shall be solely responsible for the confidentiality of his account details, debit card details, OTP or UPI PIN and any personal information (“credentials”). User acknowledges, represents and confirms that his credentials are personal to the him and the User shall ensure at all times to keep the same confidential and Axis Bank shall not be held liable or responsible if the User discloses his credentials to any third party in any manner whatsoever or authorizes any third party to operate account or hands over his WhatsApp application or if third party changes/modifies the credentials in the WhatsApp application due to disclosure of such credentials by the User or misuse the WhatsApp application permitted by User to use by third party. Therefore, Bank shall not be held liable or responsible in case of any details including UPI PIN are compromised by User and/or any misuse of WhatsApp application by third party, in such case the User shall be solely liable and responsible and shall keep Axis Bank indemnified, harmless and absolved from any liability in this regard including from any loss, cost, penalty, charges, including legal fees/charge, etc.. which may cause to Axis Bank due to User’s disclosure of his credentials/UPI PIN to any third party/person or any misused thereof in any manner whatsoever including the misuse of WhatsApp Application by third party. The User shall be solely liable and responsible, in case if the said details are compromised by the Customer knowingly or unknowingly, in any manner whatsoever.  
+      
+    e) Axis Bank account and Non Axis Bank account details of the User would be stored at Axis Bank server database to the extant details provided by NPCI as per NPCI guidelines.  
+      
+    f) User shall adhere to the limit set Axis Bank for making any fund transfer under said facility.
+7.  For the purpose of availing this facility, User shall take all necessary precautions to prevent unauthorized and illegal use of Application and services offered through the facility.
+8.  The User will be required to register his details including bank account details after downloading the Application to Send and Receive the funds through said facility.
+9.  The User shall be responsible for maintaining the confidentiality of UPI PIN/ OTP/Code/password and for all the consequences which may arise due to use or misuse of such UPI PIN/OTP/Passcode/password.
+10.  The User shall be responsible for any and all the fund transferred to beneficiaries at their request or received by using the Facility.
+11.  The User shall be liable for all loss caused due to negligent actions or a failure on his part to immediately notify Axis Bank within a reasonable time, about any unauthorized use/access made on his behalf in the Application or misuse of UPI PIN/ OTP/Passcode/password or any other breach of security regarding the facility, of which he has knowledge.
+12.  The User irrevocably and unconditionally authorise Axis Bank to access all the necessary information for effecting transactions executed by him under the facility and to share his necessary information with any third parties for the purpose of accepting/ executing such requests.
+13.  Axis Bank may keep records of the transactions in any form it wishes. In the event of any dispute, Bank's records shall be binding as the conclusive evidence of the transactions carried out through the said Application.
+14.  The User shall not to use/access the Facility and/or services offered through the same in any manner other than as authorized by Axis Bank. In case the User uses the Facility for any purpose which is illegal, improper or which is not authorised under these terms /other specified terms &. conditions then Axis Bank has a right to take all reasonable measures in order to prevent such unauthorised access by the User.
+15.  The User confirms that, any instructions given by him shall be effected only after validation of authentic UPI PIN/ OTP/Passcode/Password used by him for availing such facility.
+16.  The User agrees and confirms that, once the transaction is materialized, any stop-payment instructions given by him cannot be accepted and acted upon by Axis Bank.
+17.  The User shall while utilizing the facility ensure that:  
+      
+    a) he has authority to access and avail the services obtained and shall duly comply with the applicable laws and regulations prevailing in India.  
+      
+    b) he shall provide Axis Bank with such information and/or assistance as is required by Axis Bank for the performance of the service and /or any other obligations of Axis Bank under this facility.  
+      
+    c) he shall be responsible for providing the accurate and authentic information/instructions to Axis Bank for availing such facility.  
+      
+    d) he shall not at any time provide to any person, with any details of accounts held by him with Axis Bank or any other Bank including the passwords, account number which are allotted, from time to time.
+18.  The User acknowledges that, the services offered by Axis Bank under the said facility shall be availed by him at his own risk and these risks shall include the following risks:  
+      
+    a) any technical error, failure, glitch, network failure, legal restraints and other reasons which is beyond control of Axis Bank and for which Axis Bank shall not hold in any manner.  
+      
+    b) any loss, damages, etc. that may be incurred/suffered by User, for the reason that the information provided by him turns out to be wrong/incorrect/inaccurate, for which Axis Bank shall not be held responsible.  
+      
+    c) for the performance of any service provider/other third party/entity involved in the process. and for any loss or damage incurred or suffered by User for any error, defect, failure or interruption of the service or consequences arising out of delayed fund transfer.  
+      
+    d) any loss of damage arising or resulting from delay in transmission delivery or non-delivery of online/electronic instructions or any mistake, omission or error in transmission or delivery thereof or in decrypting the instructions from any cause whatsoever or from its misinterpretation received or any act or even beyond control of Axis Bank.  
+      
+    e) The technology for enabling the transfer of funds and the other services offered by Axis Bank under the said facility could be affected by virus or other malicious, destructive or corrupting code, program or macro. It may be possible that the said Application/ server of Axis Bank may require maintenance and during such time it may not be possible to process the request/transaction of the Users. This could result in delays in the processing of instructions or failure in the processing of instructions and other such failures and inability. User understand that Axis Bank disclaims all and any liability, whether direct or indirect, whether arising out of loss or otherwise arising out of any failure or inability by the Bank to honour any User instruction for whatsoever reason.  
+      
+    f) The User shall be entering his sensitive information, OTP or UPI PIN in NPCI library for authorizing any transaction initiated by the User and the final authorisation of any such transaction which will be done by the Issuing bank only after confirmation received from the Issuing bank from the User. User agrees and confirms that, he shall be alone responsible for use/disclosure of his details as mentioned herein, for initiating/authorizing any transaction through the Facility via NPCI and the Issuing bank and shall keep Axis Bank indemnified, harmless and absolved from any liability in this regard including from any loss, cost, penalty, charges, including legal fees/charge, etc. which may cause to Axis Bank due to use/disclosure of User’s details mentioned herein by User, over NPCI Library and to the Issuing bank for seeking their confirmations, in respect of any transaction initiated/authorized by the User. Therefore, the User shall be solely liable and responsible, in such case if any loss, cost, penalty, charges, including legal fees/charge, etc. incurred to the User, in any manner whatsoever in this regard.
+19.  The User agrees that Axis Bank shall assume no responsibility in respect of:  
+      
+    a) Transactions carried out under the service in good faith relying on User’s instructions.  
+      
+    b) Not carrying out transactions where Axis Bank has reason to believe in its sole discretion that the instructions are not genuine or are otherwise unclear, improper, vague or doubtful.  
+      
+    c) For any loss or damage incurred or suffered by User for any error, defect, failure or interruption of the service or consequences arising out of delayed transfer/remittance and for any reason which is beyond control of Axis Bank.  
+      
+    d) User acknowledges and agrees that Axis Bank remains a mere facilitator for this service and that Axis Bank does not warrant or claim any responsibility for this facility nor does Axis Bank endorse any such service and/or its standing or reputation whatsoever and Axis Bank shall not liable for any deficient or bad services in any manner whatsoever and for any loss, whatsoever that User may suffer. The risk in this regard is entirely on the User.  
+      
+    e) Unauthorized access of any third party to the information/instructions given by user to third party using said facility.  
+      
+    f) For any direct, indirect or consequential damages occurred to User while availing this facility, arising out of any error in the facility and which are beyond control of Axis Bank.  
+      
+    g) When Axis Bank acted in good faith.  
+      
+    h) Any loss, damage, liability caused or suffered by User due to disclosure of all information of confidential nature  
+      
+    i) In respect of UPI System, as the connectivity to UPI System is extended to the Axis Bank only and any/all secure credentials that are required to process the transaction shall be provided by the User which will be captured and encrypted as per the construct and requirement of UPI only, by NPCI. Therefore, the secure mechanism or interface will be extended by NPCI through UPI system to Axis Bank including but not limited to secured credentials or sensitive information such as User’s UPI PIN, OTP in encrypted manner.
+20.  User agrees that, charges if any for the facility offered by Axis Bank will be at the sole discretion of Axis Bank and Axis Bank is at the liberty to withdraw/modify/vary the same from time to time, without giving any notice to me/us.
+21.  The Bank at its sole discretion reserves the exclusive right to block, temporarily or permanently, virtual payment address(es) of the User, if it identifies that the user-name or words used in the virtual payment address(es), as misleading, offensive, prohibited, promotional or brand-names, trademark or copyright pertaining to any third party, with or without prior intimation to the User, for which the Bank shall not be held liable or responsible in any manner whatsoever.
+22.  The User agrees that, if his bank account is closed/ blocked pursuant using the facility, for any reason whatsoever, user shall settle the issue directly with his Bank and shall not hold Axis Bank any way responsible for the same.
+23.  The User shall remain responsible for any and all the transactions made through the facility. Axis Bank may withdraw or terminate the facility anytime or in case of breach of terms by me/us without a prior notice. or if Axis Bank learns of demise, bankruptcy or lack of legal capacity of the User or for any reason whatsoever.
+24.  The User agrees that, User is not entitled to consolidate amounts available in his different bank accounts maintained with his bank(s) for making payments using said Facility. Therefore, at one given point of time User is entitled to use funds available in particular bank account which he has chosen for making payment using the said Facility.
+25.  The User agrees to indemnify, defend and hold harmless Axis Bank and its directors, officers, owners, agents, co-branders or other partners, employees, information providers, licensors, licensees, consultants, contractors and other applicable third parties (collectively "Indemnified Parties") from and against any and all claims, demands, causes of action, debt or liability, including reasonable attorney's fees, and costs incurred by the Indemnified Parties arising out of, related to, or which may arise from:  
+      
+    a) any breach or non-compliance by User of any term of these Terms of Service or any other additional terms &. conditions and policies of Axis Bank;  
+      
+    b) any dispute or litigation caused by Users actions or omissions;  
+      
+    c) any negligence or violation or alleged violation of any law or rights of a third party
+26.  Axis Bank may provide the any services through this Facility, directly or through its associates or contracted service providers on its behalf.
+
+**Limitations on transactions**
+
+Transaction limits as prescribed by the regulator for the UPI facility shall be applicable to each User
+
+**Indemnity**:
+
+In consideration of Axis bank agreeing to provide the Facility and/or services to the User, the User shall, at his own expense, hereby irrevocably agrees, to indemnify and keep Axis bank its directors and employees, representatives, agents and/or affiliates (hereinafter referred to as “the related parties”), as the case may be, indemnified and harmless, at all times hereafter, from all losses, damages, costs, legal fees, charges and expenses and consequences whatsoever, on full indemnity basis, suffered or incurred or likely to suffer by Axis bank or the related parties on account of any claims, actions, suits or otherwise instituted by the User, or any third party whatsoever, arising out of or in connection with the use of the Facility and any and all transactions initiated by the use of the Facility, whether with or without the knowledge of the User, or whether the same have been initiated bona fide or otherwise which transactions, the User hereby acknowledges, Axis bank or the related parties has processed on the User’s transaction instructions and authority of the User in accordance with these terms and conditions and other applicable specific terms and conditions, as the case may be. The User further agrees and confirms that this indemnity shall remain valid and subsisting and binding upon the User notwithstanding partial withdrawal of the Facility.
+
+The User will pay Axis Bank and /or the related parties such amount as may be determined by Axis Bank and/or the related parties to be sufficient to indemnify it against any such loss or expenses even though they may not have arisen or are contingent in nature.
+
+The User agrees to pay any and all costs, damages and expenses, including, but not limited to, reasonable attorneys' fees and costs awarded against it or otherwise incurred by or in connection with or arising from any such claim, suit, action or proceeding attributable to any such claim.
+
+**Confidentiality and Disclosure**:
+
+To the extent not prohibited by applicable law, the Axis bank shall be entitled to transfer any information relating to the User and/or any other information given by the User for utilization of the Facility to and between its branches, representative offices, affiliates, representatives, auditors and third parties selected by Axis bank, wherever situated, for confidential use in and in connection with the Facility. Further, Axis bank shall be entitled at any time to disclose any and all information concerning the User within the knowledge and possession of Axis bank to any other bank/association/financial institution or any other body. This clause will survive the termination of this agreement.
+
+**Accuracy of Information**:
+
+The User takes the responsibility for the correctness of the information supplied by him to the Bank through the use of the said facility or through use of the Application or by any other means.
+
+The User herein accepts that in case of any discrepancy in the information provided by him with regard to this facility the onus shall lie upon the User only and thus agrees to furnish accurate information at all times to Axis Bank. If the User suspects that there is an error in the information supplied by Axis Bank to him, he shall inform the Bank immediately. Axis Bank will endeavor to correct the error promptly wherever possible on a best effort basis. Axis Bank shall also not be responsible for any incidental error which occurs inspite of necessary steps being taken by the Bank to ensure the accuracy of the information provided to the User and the User shall not have any claim against Axis bank in an event of any loss/damage suffered by the User as a consequence of the inaccurate information provided by the Bank.
+
+**Termination**:
+
+Axis Bank may, at its discretion, withdraw temporarily or terminate the Facility, either wholly or in part, at any time without giving prior notice to the User. Axis Bank may, without prior notice, suspend the Facility at any time during which any maintenance work or repair is required to be carried out or in case of any emergency or for security reasons, which require the suspension of the Facility. The closure of the account of the User will automatically terminate the Facility. Axis Bank may suspend or terminate Facility without prior notice if the User has breached these terms and conditions or Axis Bank learns of the death, bankruptcy or lack of legal capacity of the User. Except as otherwise provided by the applicable law or regulation, Axis bank reserves the right to terminate the Facility and/or expand, reduce or suspend the transactions allowed using this Facility, change the process and transaction limits associated with this Facility based on security issues, at any time, without any prior notice to the User.
+
+**Disclaimers**:
+
+Axis bank shall be absolved of any liability in case:
+
+The User fails to avail the facility due to force majeure conditions including but not limited to not being in the required geographical range or any other reason including natural calamities. legal restraints any technical lapses in the telecommunication network or any other reasons beyond the actual control of Axis Bank, the Bank shall not be accountable. Also the Bank is herein absolved of any kind of liability arising due to a loss. direct or indirect incurred by the User or any other person due to any lapse in the facility owing to the above-mentioned reasons.
+
+The User is acting in good faith on any transaction instructions received by Axis bank;
+
+There is any unauthorized use of the User's UPI PIN, Password, Passcode, OTP or Mobile Phone or Mobile Phone Number for any fraudulent, duplicate or erroneous transaction instructions given by use of the User's UPI PIN, Password, Passcode, OTP or Mobile Phone or Mobile Phone Number;
+
+There is loss of any information during processing or transmission or any unauthorized access by any other person or breach of confidentiality.
+
+There is any lapse or failure on the part of the service providers or any third party affecting the said facility and that Axis bank makes no warranty as to the quality of the service provided by any such service provider or any third party.
+
+Axis Bank does not warrant the confidentiality or security of the messages or notifications whether personal or otherwise transmitted through the Application in respect of the said Facility. Axis Bank makes no warranty or representation of any kind in relation to the system and the network or their function or performance or for any loss or damage whenever and howsoever suffered or incurred by the User or by any person resulting from or in connection with the Facility.
+
+Axis Bank, its directors and employees, agent or contractors, shall not be liable for and in respect of any loss or damage whether direct, indirect or consequential, including but not limited to loss of revenue, profit, business, contracts, anticipated savings or goodwill, loss of use or value of any equipment including software, whether foreseeable or not, suffered by the User or any person howsoever arising from or relating to any delay, interruption, suspension, resolution or error of the Bank in receiving and processing the request and in formulating and returning responses or any failure, delay, interruption, suspension, restriction, or error in transmission of any information or message to and from the telecommunication equipment of the User and the network of any service provider and the Bank's system or any breakdown, interruption, suspension or failure of the telecommunication equipment of the User, the Bank's system or the network of any service provider and/or any third party who provides such services as is necessary to provide the Facility.
+
+Notwithstanding anything in the contrary provided in this terms and conditions, Axis Bank shall not be involved in or in any way liable to the User for any dispute between the User and a cellular services provider or any third party service provider (whether appointed by the Bank in that behalf or otherwise).
+
+Any loss incurred by the user due to use of the facility by any other person with an express or implied permission of the User. Axis bank shall not be held responsible for the confidentiality, secrecy and security of the personal or account information being sent through the facility for effecting the User's instructions.
+
+Axis bank shall not be held liable for any loss suffered by the user due to disclosure of the personal information to a third party by the Bank, for reasons inclusive but not limited to participation in any telecommunication or electronic clearing network, in compliance with a legal directive, for statistical analysis or for credit rating.
+
+**Modification / Alterations To The Facility**: Axis Bank reserves the absolute discretionary right to make any amendments in the given terms and condition at any time as it may deem fit without any prior notice to the User. Any such amendment shall be communicated to the User by displaying on the website http://www.axisbank.com (http://www.axisbank.com/) and the User shall be bound by such amended terms and conditions.
+
+**Communication**:
+
+Axis Bank and the User may give notice under these terms and conditions electronically to the mailbox of the User (which will be regarded as being in writing) or in writing by delivering them by hand or by sending them by post to the last address given by the User and in case of Axis Bank at its office at Service Quality Department, Axis Bank Limited, Corporate Office, Bombay Dyeing Mills Compound,Pandurang Budhkar Marg, Worli, Mumbai - 400025, Tel: (022) 2425 2525. In addition, Axis Bank shall also provide notice of general nature regarding the facility and terms and conditions, which are applicable to all Users of the Facility, on the website http://www.axisbank.com and/ or also by means the customized messages and notifications sent to the User over his Mobile Phone Number as short messaging service ("SMS"). In addition Axis bank may also publish notices of general nature, which are applicable to all users of the facility. Such notices will be deemed to have been served individually to each User.
+
+**Governing law and jurisdiction**:
+
+The construction, validity and performance of these terms and conditions shall be governed in all respects by the laws of India. The parties hereby submit to the exclusive jurisdiction of the competent Courts at Mumbai, India which courts shall have jurisdiction in the matter to the exclusion of any other courts, irrespective of whether such other courts have similar jurisdiction in the matter. Axis Bank is absolved of any liability arising, direct or indirect, for non-compliance with the laws of any country other than India where the facility is accessible.
+
+**Privacy Policy**
+
+The user adheres to the Privacy policy of the bank that is detailed out in https://www.axisbank.com/privacy-policy.
