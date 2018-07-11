@@ -28,7 +28,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Can't access my blog Kirbym
     *   by kirbym
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -37,7 +37,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   41 (last comment by espanola\_z 3 weeks ago)
+    *   41 (last comment by espanola\_z 4 weeks ago)
 *   Need old blog entries
     *   by starlessnight99
     *   1 month ago
@@ -91,7 +91,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 years ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by neko\_skater\_girl 1 month ago)
+    *   2 (last comment by neko\_skater\_girl 2 months ago)
 
 1 2 3 ... 189 Next
 
