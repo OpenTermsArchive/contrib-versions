@@ -1,8 +1,4 @@
-Terms of Use
-
-**Note:** Our Terms of Use are changing. You can view our previous Terms of Use here.
-
-Welcome to Instagram!  
+Terms of Use Welcome to Instagram!  
   
 These Terms of Use govern your use of Instagram and provide information about the Instagram Service, outlined below. When you create an Instagram account or use Instagram, you agree to these terms.  
   
