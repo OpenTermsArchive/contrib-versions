@@ -1,13 +1,13 @@
-Skip to toolbar
-
-*   Xanga
-
-*   Log In
-
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   waiting for blog recovery since 2014
+    *   by so\_it\_was
+    *   5 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Help retrieve my old posts
     *   by joon20
     *   3 weeks ago
@@ -16,19 +16,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Blog archive help
     *   by iliketofish891
-    *   4 weeks ago
+    *   1 month ago
     *   in Themes
     *   0 votes
     *   0
 *   Blog archive help
     *   by iliketofish891
-    *   4 weeks ago
+    *   1 month ago
     *   in Themes
     *   0 votes
     *   0
 *   Can't access old account Dogo\_Bobo
     *   by Dogo\_Bobo
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -92,12 +92,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   Eugenia, recover my old blogs please
-    *   \[Resolved\] by justja
-    *   4 years ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by neko\_skater\_girl 2 months ago)
 
 1 2 3 ... 189 Next
 
@@ -156,4 +150,8 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
+
+*   Xanga
+
+*   Log In
