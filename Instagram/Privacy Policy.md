@@ -1,8 +1,4 @@
-Data Policy
-
-**Note:** Our Data Policy is changing. You can view our previous Privacy Policy here.
-
-This policy describes the information we process to support Facebook, Instagram, Messenger and other products and features offered by Facebook (Facebook Products or Products). You can find additional tools and information in the Facebook Settings and Instagram Settings. **I. What kinds of information do we collect?** To provide the Facebook Products, we must process information about you. The types of information we collect depend on how you use our Products. You can learn how to access and delete information we collect by visiting the Facebook Settings and Instagram Settings.
+Data Policy This policy describes the information we process to support Facebook, Instagram, Messenger and other products and features offered by Facebook (Facebook Products or Products). You can find additional tools and information in the Facebook Settings and Instagram Settings. **I. What kinds of information do we collect?** To provide the Facebook Products, we must process information about you. The types of information we collect depend on how you use our Products. You can learn how to access and delete information we collect by visiting the Facebook Settings and Instagram Settings.
 
 > **Things you and others do and provide**
 > 
