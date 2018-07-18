@@ -31,7 +31,6 @@
     *   Enterprise
     *   Wholesale
 *   More
-    *   Special Offers
     *   Move My Service
     *   Go to Windstream.net
     *   Windstream Blog
@@ -47,7 +46,7 @@
 *   Internet
 *   TV
 *   Phone
-*   Electronics
+*   Community
 *   Support _arrow\_drop\_down_
     *   Contact Us
 
