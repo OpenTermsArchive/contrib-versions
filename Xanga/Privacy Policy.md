@@ -2,9 +2,21 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   i can't see all my old post
+    *   by DR\_KENCHAN
+    *   4 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   i can't see all my old post
+    *   by DR\_KENCHAN
+    *   4 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   waiting for blog recovery since 2014
     *   by so\_it\_was
-    *   5 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -80,18 +92,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Themes
     *   0 votes
     *   8 (last comment by jacobthestupendous 1 month ago)
-*   Can’t get my old post
-    *   by mm911029
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Can not retrieve old posts
-    *   by kelsey11111
-    *   2 months ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
 1 2 3 ... 189 Next
 
