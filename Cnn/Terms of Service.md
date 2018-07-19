@@ -1,4 +1,4 @@
-FacebookTwitterShareCNN Terms of Use
+FacebookCNN Terms of Use
 
 **UPDATED MOBILE APPS/WEBSITE TERMS OF USE** **What's New in the Updated Terms of Use?**We, Cable News Network, Inc. ("CNN"), have revised the Terms of Use for our current and future online and mobile websites, platforms, services, applications, and networks owned or operated by CNN, including without limitation, CNN.com, CNNMoney.com, HLNtv.com, CNNI.com (edition.cnn.com) and cnnespanol.com, and/or for which CNN currently or in the future provides services and/or technology (the "Site" or "Sites"). Some of the key changes are summarized below, but please take the time to read the full Terms of Use. You accept and agree to be bound by these Terms of Use when you use any of the Sites, without limitation, when you view or access content or videos on any of the Sites.
 
@@ -36,5 +36,3 @@ Any conduct that in CNN's sole discretion restricts or inhibits anyone else from
 Legal Department  
 One CNN Center  
 Atlanta, GA 30303-2762Phone: (404) 878-2276 Fax: (404) 827-1995 Email: copyrightagent@turner.com For web posting, reprint, transcript or licensing requests for CNN material, please contact licensing.agent@turner.com For any questions or requests other than copyright issues or licensing requests, please contact cnn.com/feedback._These Terms of Use were last updated on July 19, 2017._
-
-FacebookTwitterShare
