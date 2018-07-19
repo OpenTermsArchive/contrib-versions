@@ -127,7 +127,7 @@ Privacy Policy This is a summary of the Privacy Policy. To read the full terms, 
 *   As part of our commitment to education and research around the world, we occasionally release public information and aggregated or non-personal information to the general public through data dumps and data sets.
 *   For the protection of the Wikimedia Foundation and other users, if you do not agree with this Privacy Policy, you may not use the Wikimedia Sites.
 
-Introduction Use of info Sharing Protection Important info \[show\]Contents Contents \[hide\] 
+Introduction Use of info Sharing Protection Important info \[show\]Contents Contents
 
 *   1 Introduction
     *   1.1 Welcome!
