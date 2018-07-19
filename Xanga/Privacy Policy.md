@@ -4,19 +4,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   i can't see all my old post
     *   by DR\_KENCHAN
-    *   4 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   i can't see all my old post
     *   by DR\_KENCHAN
-    *   4 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   waiting for blog recovery since 2014
     *   by so\_it\_was
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
