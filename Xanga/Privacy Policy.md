@@ -2,27 +2,33 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   i can't see all my old post
-    *   by DR\_KENCHAN
-    *   1 day ago
+*   Been waiting on recovery
+    *   by BSanden69
+    *   7 hours ago
     *   in Data Migration
     *   0 votes
     *   0
 *   i can't see all my old post
     *   by DR\_KENCHAN
-    *   1 day ago
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   i can't see all my old post
+    *   by DR\_KENCHAN
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   waiting for blog recovery since 2014
     *   by so\_it\_was
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Help retrieve my old posts
     *   by joon20
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -86,12 +92,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   Can't upload xml files
-    *   \[Resolved\] by carrietotoro
-    *   4 years ago
-    *   in Themes
-    *   0 votes
-    *   8 (last comment by jacobthestupendous 1 month ago)
 
 1 2 3 ... 189 Next
 
