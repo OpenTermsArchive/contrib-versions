@@ -14,7 +14,7 @@ If you place an order for or register any Kindle e-reader device, any Fire table
 If you purchase or use Amazon Prime, Amazon or Kindle FreeTime Unlimited, or Kindle Unlimited with your compatible Kindle e-reader, Fire tablet or reading application, then you agree to the following terms:
 
 *   Amazon Prime Terms &. Conditions
-*   Amazon FreeTime Unlimited and Kindle FreeTime Unlimited Terms &. Conditions
+*   Amazon FreeTime Unlimited Terms &. Conditions and Kindle FreeTime Unlimited Terms &. Conditions
 *   Kindle Unlimited Terms of Use
 
 If you purchase a Kindle e-reader or Fire tablet using monthly payments, then you agree to the following terms:
