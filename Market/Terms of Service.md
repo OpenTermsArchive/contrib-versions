@@ -15,9 +15,9 @@ Welcome to Envato Market
 
 1\. Hi, we’re Envato and welcome! We’re happy to have you here and we hope you enjoy your stay. When we say ‘**we**’, ‘**us**’ or ‘**Envato**’ it’s because that’s who we are and we own and run the **Envato Market** sites.
 
-2\. Envato’s ecosystem of digital marketplaces helps millions of people around the world get creative and earn online. When you create an account and accept these terms you become a **member** of our community. You will have an **Envato Market account** that will allow you to buy and sell **items** like the ones found on the Envato Market sites and make other related transactions. You can also buy items on Envato Market as a **Guest**.
+2\. Envato’s ecosystem of digital marketplaces helps millions of people around the world get creative and earn online. When you create an account and accept these terms you become a **member** of our community. You will have an **Envato Market account** that will allow you to buy and sell **items** like the ones found on the Envato Market sites and make other related transactions.
 
-3\. The Envato Market sites are platforms that allow members to buy and sell licenses to use digital items like website themes, production music, motion graphics project files, software code, vectors, images and much, much more. On Envato Market, buyers and authors (sellers) transact with each other directly and we provide the platform to allow the transactions to happen. If you have an Envato Market account, any transactions are logged on your member’s statement, which records the payments made by you to authors via Envato Market (as a **buyer**) and by buyers via Envato Market to you (as an **author**). If you buy items as a Guest, then you will be emailed details of those payments.
+3\. The Envato Market sites are platforms that allow members to buy and sell licenses to use digital items like website themes, production music, motion graphics project files, software code, vectors, images and much, much more. On Envato Market, buyers and authors (sellers) transact with each other directly and we provide the platform to allow the transactions to happen. If you have an Envato Market account, any transactions are logged on your member’s statement, which records the payments made by you to authors via Envato Market (as a **buyer**) and by buyers via Envato Market to you (as an **author**).
 
 4\. The items on Envato Market are owned by the authors, not by us. The items on Envato Market are uploaded at the direction of the author. We provide the platform services. we do not take ownership of the items.
 
@@ -27,17 +27,17 @@ Envato Websites
 
 6\. You can also access Envato Websites via the Envato Market sites. The products offered on Envato Websites (which include hosted theme and hosted starter site subscriptions) are offered by Envato Hosted and Envato Sites and are subject to separate terms and conditions, which you can access here: Envato Hosted Terms and Envato Sites Terms. To avoid any doubt, the Envato Market terms do not apply to the products offered via Envato Websites.
 
+7\. **Preview Files**: If you stream or download a preview file from our Envato Market sites, you agree that you will not remove any watermarking or other protective measures from the preview file. You agree that you will use the preview file solely for the purposes of evaluating a purchase from Envato Market sites and not for any other purpose.
+
 How browsing and membership works
 
-7\. **Browsing**: You need to be 16 years or over to browse the Envato Market sites. We don’t knowingly collect any information from anyone aged 16 or under. When browsing the sites you agree to follow our guidelines or instructions and keep in mind that these terms apply to any use of our Envato Market sites whether or not you’re a member.
+8\. **Browsing**: You need to be 16 years or over to browse the Envato Market sites. We don’t knowingly collect any information from anyone aged 16 or under. When browsing the sites you agree to follow our guidelines or instructions and keep in mind that these terms apply to any use of our Envato Market sites whether or not you’re a member.
 
 Membership
 
-8\. **Age**: You need to be 18 years or over to become a member or to buy items as a Guest. If you’re under 18 you will need to get a parent or guardian to buy items as a Guest or use the account of a parent or legal guardian who is at least 18 years of age, with their permission, and this adult will be responsible for all your activities.
+9\. **Age**: You need to be 18 years or over to become a member or to buy items. If you’re under 18 you will need to get a parent or guardian to buy items or use the account of a parent or legal guardian who is at least 18 years of age, with their permission, and this adult will be responsible for all your activities.
 
-9\. **Envato Account**: Membership is free. When you become a member you get an Envato Market account that is accessible from any of our Envato Market sites (and is also your Envato account for other Envato services). Your membership will allow you to ‘buy’ (license) items from authors, participate in our online forums, and generally contribute to our ecosystem of Envato Market sites that help people get creative. Membership also gives you the opportunity to become an author (see **section 32 – Becoming an Author**) or earn referral income (see **section 12 – Referrals**).
-
-10\. **Guest Checkout**: You may purchase an item from any of our Envato Market sites as a Guest. Unless otherwise stated, these terms and conditions apply to Guests in the same way they apply to buyers who have an Envato Market account. Guests don’t receive an Envato Market account, but can of course register for one at any time. If you buy items as a Guest, your access to our ecosystem will be limited.
+10\. **Envato Account**: Membership is free. When you become a member you get an Envato Market account that is accessible from any of our Envato Market sites (and is also your Envato account for other Envato services). Your membership will allow you to ‘buy’ (license) items from authors, participate in our online forums, and generally contribute to our ecosystem of Envato Market sites that help people get creative. Membership also gives you the opportunity to become an author (see **section 32 – Becoming an Author**) or earn referral income (see **section 12 – Referrals**).
 
 11\. **Your responsibility**: You promise that information you give us is true, accurate and complete and, if you sign up for an Envato Market account, that you will keep your account information up-to-date (including a current email address). Your membership is not transferable, that means you cannot sell your account. You are responsible for any use of the Envato Market sites including any activity that occurs in conjunction with your username and password, if you have an Envato Market account, so keep your password secure and don’t let any other person use your username or password. If you realise there’s any unauthorized use of your password or any breach of security you need to let us know immediately. You must not use a virtual private network or VPN or any other means to avoid compliance with these terms and conditions, or for any fraudulent or illegal reasons.
 
@@ -50,7 +50,7 @@ How buying items works This section will help you understand what you are buying
 13\. **What you're buying:**
 
 1.  **License**: When you **buy** an item, you acquire the right to use that item. you're not actually acquiring the item itself. What you get includes a license directly from the author to use that item. Items are subject to specific terms of use, and these terms are the ‘license’ that we set on Envato Market. This license also applies to you if you download an item that someone else has bought for you (because anyone downloading an item needs to be an Envato Market member). Different license types are available for you to choose when you have selected an item. You’ll need to think about the way you want to use the item so that you can pick the right license to allow that use. It’s your responsibility to choose the correct license.
-2.  **Item support**: Authors can choose whether or not to support certain items. If an author chooses to support an item, this will be identified on the item page.  All supported items include a support period. You can buy support extensions on these items. Your right to access Item Support requires an Envato Market account. If you buy an item as a Guest you will not be able to access Item Support if it is offered by the Author of the item. To learn more about item support, like what items are covered, what authors provide, the support period and support extension options, see the item support policy.
+2.  **Item support**: Authors can choose whether or not to support certain items. If an author chooses to support an item, this will be identified on the item page.  All supported items include a support period. You can buy support extensions on these items. Your right to access Item Support requires an Envato Market account. To learn more about item support, like what items are covered, what authors provide, the support period and support extension options, see the item support policy.
 3.  **Buyer Services**: In addition to the use of the platform, when you ‘buy’ an item you also receive buyer services from Envato like 24/7 buyer support, fraud protection, item quality control and other related buyer services. You can read more about the awesome buyer services buyers get from us over at Why Buy From Us information page.
 
 14\. The total price for an item on Envato Market is made up of:
@@ -62,7 +62,7 @@ How buying items works This section will help you understand what you are buying
 
 The **list price** is made up of the item price and buyer fee, and is the price you see on an item page. Transacting as a buyer:
 
-15\. If you have an Envato Market account, you can make payments in one of two ways: you can ‘Buy Now’ or you can buy Envato Credits via your Envato Market account. If you buy an item as a Guest you will only be able to ‘Buy Now’ as Envato Credits will not be available to Guests.
+15\. If you have an Envato Market account, you can make payments in one of two ways: you can ‘Buy Now’ or you can buy Envato Credits via your Envato Market account.
 
 16\. **Envato Credits**: When you place money into your Envato Market account it is converted by your financial institution from your currency to US Dollars. We then convert those US Dollars to Envato credits. One (1) Envato Credit is equal to one (1) US Dollar.
 
@@ -111,7 +111,7 @@ This is what authors are promising you when you buy an item.
 
 24\. **Taxes**:
 
-1.  **Australian GST and European VAT.** Prices and fees for supplies made to you (whether by Envato or authors) in connection with these terms exclude Australian GST and European VAT unless stated otherwise on our site. If a supply is made to you under or in connection with these terms on which Australian GST or European VAT is imposed, any applicable fee that is charged for that supply is increased by, and you must also pay, an amount equal to the GST or VAT payable (by Envato or the author) on that supply. For more information on Australian GST and European VAT as they apply to buyers, see EU VAT Information for Buyers and AU GST Information for Buyers.
+1.  **Australian GST, European VAT and US Sales Tax.** Prices and fees for supplies made to you (whether by Envato or authors) in connection with these terms exclude Australian GST, European VAT and US Sales Tax, unless stated otherwise on our site. If a supply is made to you under or in connection with these terms on which Australian GST, European VAT or US Sales Tax is imposed, any applicable fee that is charged for that supply is increased by, and you must also pay, an amount equal to the GST, VAT or US Sales Tax payable (by Envato or the author) on that supply. For more information on Australian GST and European VAT as they apply to buyers, see EU VAT Information for Buyers and AU GST Information for Buyers and US Sales Tax Information for Buyers.
 2.  **Other taxes.** Prices, fees and charges are otherwise inclusive of other applicable taxes unless stated otherwise on our site. You are responsible for paying all such taxes and imposts associated with your use of Envato Market wherever levied. Your responsibility includes withholding tax if it applies, unless we already process that withholding tax. We may collect geographical location information to determine your location, which may be used for tax purposes (so location information you give us must be accurate for tax residency purposes).
 
 25\. **Envato Credits expire**: Envato Credits expire if not used within 12 months from the date of purchase, and will be forfeited on the 12 month anniversary of the purchase date. If you place money to your Envato Market account at any time during that 12 month period before your Envato Credits expire, the total balance of your Envato Credits (that is, both the new money placed in your account to purchase credits and the balance of any unused older Envato Credits) will become available for a further 12 months from the date of the new purchase of credits. If you don’t use your Envato Credits within that further 12 months, the credits will be forfeited on the 12 month anniversary of the new purchase of credits. We generally try to tell you beforehand when Envato Credits are going to expire and be forfeited, but this is not always possible and don’t promise to warn you. Check your member’s statement regularly for details of expiry dates. If you have different rights under an applicable consumer law, we don’t exclude them.
@@ -142,9 +142,9 @@ It is important that you understand how refunds work on Envato Market.
 
 Becoming an author
 
-32\. If you want to get involved in our community as an author find out how here. Remember that if you become an author these terms will continue to apply, along with the Author Terms you’ll sign up to as an author.
+32\. If you want to get involved in our community as an author, you can sign up and find out more here. Remember that if you become an author these terms will continue to apply, along with the Author Terms you’ll sign up to as an author.
 
-To find out more about how to become an author visit the ‘Become an Author’ guide here. Intellectual Property
+To find out more about how to become an author visit the ‘Author Help Center’ here. Intellectual Property
 
 33\. **What we own**: We own all the **Envato content** that we have put on Envato Market (unless otherwise stated and excluding content owned by others). This includes the design, compilation, and look and feel of the Envato Market sites, and copyright, trademarks, designs and other intellectual property on Envato Market. We own all the trademarks, logos, service marks and trade names on Envato Market (unless otherwise stated and excluding these things owned by others). You will not copy, distribute, modify or make derivative works of any of our Envato Content or use any of our intellectual property in any way not expressly stated in these terms.
 
@@ -297,10 +297,6 @@ EU Member State:
 
 the countries listed here: https://europa.eu/about-eu/countries/index\_en.htm
 
-Guest:
-
-a person who buys an item without having an Envato Market account.
-
 Handling fee:
 
 the fee buyers may pay when using a payment method other than Envato credits.
@@ -341,4 +337,4 @@ Your content:
 
 everything that you post on the Envato Market, or send via the Envato Market to other members and to us including items, files, communications and materials.
 
-Version 7 - Effective date: May 25, 2018.
+Version 7.1 - Effective date: July 23, 2018.
