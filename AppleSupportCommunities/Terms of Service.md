@@ -1,3 +1,11 @@
+Announcement:
+
+Discover how to get the most from your HomePod. Our HomePod Specialists will be live in the Community July 25, 2018, from 11 a.m. to 3 p.m. PDT to help you learn more about what you can do with HomePod. Learn more about the event.
+
+Read announcement Hide announcement
+
+Discover how to get the most from your HomePod. Our HomePod Specialists will be live in the Community July 25, 2018, from 11 a.m. to 3 p.m. PDT to help you learn more about what you can do with HomePod. Learn more about the event.
+
 Apple Support Communities Use Agreement
 
 **Apple Support Communities Use Agreement**
