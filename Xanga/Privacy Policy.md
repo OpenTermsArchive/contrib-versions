@@ -2,21 +2,45 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Cant get back my old xanga
+    *   by lamtszching
+    *   21 hours ago
+    *   in Miscellaenous
+    *   0 votes
+    *   0
+*   Cant get back my old xanga
+    *   by lamtszching
+    *   21 hours ago
+    *   in Miscellaenous
+    *   0 votes
+    *   0
+*   Cannot retrieve Old post Help
+    *   by Philippalam
+    *   22 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Cannot retrieve Old post Help
+    *   by Philippalam
+    *   22 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Been waiting on recovery
     *   by BSanden69
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   i can't see all my old post
     *   by DR\_KENCHAN
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   i can't see all my old post
     *   by DR\_KENCHAN
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -64,30 +88,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   41 (last comment by espanola\_z 1 month ago)
 *   Need old blog entries
     *   by starlessnight99
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   My Xanga Page content missing
-    *   by MissVaBarBie
-    *   1 month ago
-    *   in Miscellaenous
-    *   0 votes
-    *   0
-*   Help Wanted
-    *   by xXxBrokenEmoHeartxXx
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Please help to retrieve my blogs
-    *   by tracyrosa
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Can't see my old posts!
-    *   by NobodyLoser
     *   1 month ago
     *   in Data Migration
     *   0 votes
