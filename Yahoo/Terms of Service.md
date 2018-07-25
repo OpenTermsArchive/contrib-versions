@@ -124,7 +124,7 @@ Europe, Middle East and Africa
 
 **The Americas**
 
-1.  **United States(us):**
+1.  **United States (us):**
     1.  _Defined Terms_
         1.  Applicable Oath Company:
             1.  For Yahoo Search, the Applicable Oath Company is Oath Holdings Inc. (Address: 701 First Avenue, Sunnyvale, CA 94089).
@@ -234,7 +234,7 @@ Europe, Middle East and Africa
                 2.  if no Oath company is specified to be the provider in respect of a specific Service, the Applicable Oath Company is Oath Inc. (Address: 22000 AOL Way, Dulles, VA 20166), and for such Services the terms of Section 14.2 (United States) apply.
     2.  _Customer Support_. For customer support, see this page.
     3.  **Click here for an important Supreme Court Order passed by the Hon'ble Supreme Court of India relating to a prohibition on advertisement under the PCPNDT Act, 1994.**
-4.  **Japan:**
+4.  **Japan (jp):**
     1.  _Defined Terms_
         1.  Applicable Oath Company:
             1.  For AutoBlog Japan, TechCrunch Japan, Engadget Japan, Aol.jp, and AOL Mail, the Applicable Oath Company is Oath Japan KK (Address: 2-27-25 Minamiaoyama, Minato-ku, Tokyo 10​7-0062 Japan).
