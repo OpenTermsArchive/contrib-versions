@@ -32,7 +32,6 @@ If you place an order for or register any Fire tablet or the Amazon app suite, y
 *   Amazon Video Terms of Use
 *   Amazon Appstore for Android Terms of Use
 *   Amazon Silk Terms &. Conditions
-*   Amazon Mobile Shopping Terms of Use
 *   Amazon GameCircle Terms of Use
 *   IMDb Terms of Use
 *   Amazon Coins Terms
