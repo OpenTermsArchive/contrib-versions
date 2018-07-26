@@ -42,8 +42,8 @@
 *   Check My Email
 *   Sign Out
 
-*   Internet
 *   Shop
+*   Internet
 *   TV
 *   Phone
 *   Community
