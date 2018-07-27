@@ -468,7 +468,7 @@ Jefferson City, MO 65102
 
 North Carolina
 
-Consumer Protection Division of the Attorney General’s Office of the State of North Carolina at www.ncdoj.com/cable
+Consumer Protection Division of the Attorney General’s Office of the State of North Carolina at www.ncdoj.gov/cable
 
 Pennsylvania
 
