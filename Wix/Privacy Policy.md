@@ -482,7 +482,7 @@ Wix
 *   हिन्दी
 *   Čeština
 
-Login  Hi, {username}
+Sign In  Hi, {username}
 
 *   Account Settings
 *   Billing &. Payments
