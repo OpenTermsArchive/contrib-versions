@@ -2,33 +2,33 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Cant get back my old xanga
-    *   by lamtszching
-    *   1 day ago
-    *   in Miscellaenous
-    *   0 votes
-    *   0
-*   Cant get back my old xanga
-    *   by lamtszching
-    *   1 day ago
-    *   in Miscellaenous
-    *   0 votes
-    *   0
 *   Cannot retrieve Old post Help
     *   by Philippalam
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
+    *   1 (last comment by emmelladevi 3 hours ago)
+*   Cant get back my old xanga
+    *   by lamtszching
+    *   2 days ago
+    *   in Miscellaenous
+    *   0 votes
+    *   0
+*   Cant get back my old xanga
+    *   by lamtszching
+    *   2 days ago
+    *   in Miscellaenous
+    *   0 votes
     *   0
 *   Cannot retrieve Old post Help
     *   by Philippalam
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Been waiting on recovery
     *   by BSanden69
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
