@@ -1,28 +1,40 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Cannot retrieve Old post Help
-    *   by Philippalam
-    *   2 days ago
+*   How do I download an archive of my old blog?
+    *   \[Resolved\] by thibault
+    *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by emmelladevi 3 hours ago)
+    *   42 (last comment by loksumf 10 hours ago)
+*   Cannot retrieve Old post Help
+    *   by Philippalam
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by emmelladevi 1 day ago)
 *   Cant get back my old xanga
     *   by lamtszching
-    *   2 days ago
+    *   3 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Cant get back my old xanga
     *   by lamtszching
-    *   2 days ago
+    *   3 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Cannot retrieve Old post Help
     *   by Philippalam
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -80,12 +92,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   How do I download an archive of my old blog?
-    *   \[Resolved\] by thibault
-    *   3 years ago
-    *   in Data Migration
-    *   0 votes
-    *   41 (last comment by espanola\_z 1 month ago)
 *   Need old blog entries
     *   by starlessnight99
     *   1 month ago
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
