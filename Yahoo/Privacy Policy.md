@@ -155,24 +155,17 @@ Si vous avez des questions ou suggestions concernant vos informations, ou souhai
 
 Service client - Problèmes concernant la politique relative à la vie privée
 
-Oath (EMEA) Limited
-
-5-7 Point Square
-
-North Wall Quay
-
+Oath (EMEA) Limited  
+5-7 Point Square  
+North Wall Quay  
 Dublin 1
 
 Pour toute question relative au traitement de vos informations, vous pouvez également contacter notre responsable de la protection des données au :
 
-Oath (EMEA) Limited
-
-Attention : Responsable de la protection des données
-
-5-7 Point Square
-
-North Wall Quay
-
+Oath (EMEA) Limited  
+Attention : Responsable de la protection des données  
+5-7 Point Square  
+North Wall Quay  
 Dublin 1
 
 Sans préjudice de tous les autres droits dont vous pouvez disposer, vous avez également le droit de déposer une plainte à notre encontre auprès du Data Protection Commissioner d’Irlande, qui représente l'autorité de supervision principale d'Oath.  Vous pouvez également déposer une plainte auprès de l'autorité de surveillance de l'État membre de l'UE dans lequel vous êtes basé. Cliquez ici pour trouver l’autorité de supervision de votre pays.
