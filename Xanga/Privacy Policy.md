@@ -13,28 +13,28 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   42 (last comment by loksumf 10 hours ago)
+    *   42 (last comment by loksumf 1 day ago)
 *   Cannot retrieve Old post Help
     *   by Philippalam
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by emmelladevi 1 day ago)
+    *   1 (last comment by emmelladevi 2 days ago)
 *   Cant get back my old xanga
     *   by lamtszching
-    *   3 days ago
+    *   4 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Cant get back my old xanga
     *   by lamtszching
-    *   3 days ago
+    *   4 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Cannot retrieve Old post Help
     *   by Philippalam
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
