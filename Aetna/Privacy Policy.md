@@ -392,6 +392,8 @@ Privacy statement update: 9/19/17
 *   Glossary
 *   Aetna Mobile App
 *   Careers
+*   News and Analysis
+*   Health Care Reform
 
 *   Accessibility Services
 *   Terms of Use
