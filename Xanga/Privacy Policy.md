@@ -2,18 +2,30 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Cant Getold photos and blogs
+    *   by fly\_bb0924
+    *   13 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Cant Getold photos and blogs
+    *   by fly\_bb0924
+    *   13 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   43 (last comment by SlIpKnOt\_\_fReEk 13 hours ago)
+    *   43 (last comment by SlIpKnOt\_\_fReEk 1 day ago)
 *   Cannot retrieve Old post Help
     *   by Philippalam
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by emmelladevi 6 days ago)
+    *   1 (last comment by emmelladevi 1 week ago)
 *   Cant get back my old xanga
     *   by lamtszching
     *   1 week ago
@@ -34,7 +46,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Been waiting on recovery
     *   by BSanden69
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -76,18 +88,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Can't access old account Dogo\_Bobo
     *   by Dogo\_Bobo
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Can't access my blog Kirbym
-    *   by kirbym
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Need old blog entries
-    *   by starlessnight99
     *   1 month ago
     *   in Data Migration
     *   0 votes
