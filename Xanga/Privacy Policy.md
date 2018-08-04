@@ -4,13 +4,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Cant Getold photos and blogs
     *   by fly\_bb0924
-    *   13 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Cant Getold photos and blogs
     *   by fly\_bb0924
-    *   13 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,7 +19,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   43 (last comment by SlIpKnOt\_\_fReEk 1 day ago)
+    *   43 (last comment by SlIpKnOt\_\_fReEk 2 days ago)
 *   Cannot retrieve Old post Help
     *   by Philippalam
     *   1 week ago
