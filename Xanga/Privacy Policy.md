@@ -2,15 +2,33 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Cant Getold photos and blogs
-    *   by fly\_bb0924
-    *   2 days ago
+*   Can’t see my old post
+    *   by kawailoveyou
+    *   15 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Can’t see my old post
+    *   by kawailoveyou
+    *   15 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Can’t see my old post
+    *   by kawailoveyou
+    *   15 hours ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Cant Getold photos and blogs
     *   by fly\_bb0924
-    *   2 days ago
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Cant Getold photos and blogs
+    *   by fly\_bb0924
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,7 +37,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   43 (last comment by SlIpKnOt\_\_fReEk 3 days ago)
+    *   43 (last comment by SlIpKnOt\_\_fReEk 4 days ago)
 *   Cannot retrieve Old post Help
     *   by Philippalam
     *   1 week ago
@@ -70,24 +88,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Help retrieve my old posts
     *   by joon20
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Blog archive help
-    *   by iliketofish891
-    *   1 month ago
-    *   in Themes
-    *   0 votes
-    *   0
-*   Blog archive help
-    *   by iliketofish891
-    *   1 month ago
-    *   in Themes
-    *   0 votes
-    *   0
-*   Can't access old account Dogo\_Bobo
-    *   by Dogo\_Bobo
     *   1 month ago
     *   in Data Migration
     *   0 votes
