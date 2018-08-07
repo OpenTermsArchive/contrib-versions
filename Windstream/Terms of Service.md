@@ -22,8 +22,8 @@
 *   Shop
 *   Internet
 *   TV
-*   Home Phone
-*   Electronics
+*   Phone
+*   Community
 *   Support
 *   Other Windstream Services
     *   Residential
@@ -611,7 +611,6 @@ Products
 *   Internet
 *   TV
 *   Phone
-*   Electronics
 *   Available Services
 
 Learn
