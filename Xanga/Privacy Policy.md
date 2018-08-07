@@ -1,34 +1,40 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
 *   Can’t see my old post
     *   by kawailoveyou
-    *   15 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can’t see my old post
     *   by kawailoveyou
-    *   15 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can’t see my old post
     *   by kawailoveyou
-    *   15 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Cant Getold photos and blogs
     *   by fly\_bb0924
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Cant Getold photos and blogs
     *   by fly\_bb0924
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -37,7 +43,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   43 (last comment by SlIpKnOt\_\_fReEk 4 days ago)
+    *   43 (last comment by SlIpKnOt\_\_fReEk 5 days ago)
 *   Cannot retrieve Old post Help
     *   by Philippalam
     *   1 week ago
@@ -82,7 +88,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   waiting for blog recovery since 2014
     *   by so\_it\_was
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
