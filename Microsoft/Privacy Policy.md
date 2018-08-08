@@ -428,8 +428,8 @@ If you have a privacy concern, complaint, or a question for Microsoft’s Chief 
 
 Unless otherwise stated, Microsoft Corporation and, for those in the European Economic Area and Switzerland, Microsoft Ireland Operations Limited are data controllers for personal data we collect through the products subject to this statement. Our addresses are:
 
-*   Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052, USA. Telephone: (+1) 425-882-8080.
-*   Microsoft Ireland Operations Limited, Attn: Data Protection Officer, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Ireland. Telephone: (+353) 1 850 940 940.
+*   Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052, USA. Telephone: +1 (425) 882 8080.
+*   Microsoft Ireland Operations Limited, Attn: Data Protection Officer, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Ireland. Telephone: +353 (0) 1 295 3826.
 
 Skype Communications S.à.r.l. 23-29 Rives de Clausen L-2165 Luxembourg, Luxembourg is a data controller for Skype. To contact us in relation to Skype software or products, please submit a support request to the Skype customer support team.
 
@@ -1435,8 +1435,8 @@ If you have a privacy concern, complaint, or a question for Microsoft’s Chief 
 
 Unless otherwise stated, Microsoft Corporation and, for those in the European Economic Area and Switzerland, Microsoft Ireland Operations Limited are data controllers for personal data we collect through the products subject to this statement. Our addresses are:
 
-*   Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052, USA. Telephone: (+1) 425-882-8080.
-*   Microsoft Ireland Operations Limited, Attn: Data Protection Officer, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Ireland. Telephone: (+353) 1 850 940 940.
+*   Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052, USA. Telephone: +1 (425) 882 8080.
+*   Microsoft Ireland Operations Limited, Attn: Data Protection Officer, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Ireland. Telephone: +353 (0) 1 295 3826.
 
 Skype Communications S.à.r.l. 23-29 Rives de Clausen L-2165 Luxembourg, Luxembourg is a data controller for Skype. To contact us in relation to Skype software or products, please submit a support request to the Skype customer support team.
 
