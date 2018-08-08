@@ -114,4 +114,4 @@ I (Gabriel Weinberg) am the founder of Duck Duck Go and personally wrote this pr
 
 Add DuckDuckGo to Firefox
 
-© DuckDuckGo.  The search engine that doesn't track you.
+© DuckDuckGo.  Privacy, simplified
