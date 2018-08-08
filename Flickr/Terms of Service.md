@@ -39,6 +39,7 @@ _In June 2017, we announced that Yahoo and AOL had joined to become Oath, a digi
     12.  _Different Versions of the Services._ Different features may be available in different versions of the Services and not all features may be available in your country or region. Also, not all features may be available if the user that you are communicating with is using a different version of the Services, or is using third party software.
     13.  _Anti-Abuse Policy._ Oath prohibits sending unsolicited emails or messages using the Services. You may not in connection with the Services engage in commercial activity on non-commercial properties or apps or high volume activity without Oath’s prior written consent. You may not engage in conduct or activity that is disruptive to the Services or the experience of other users.
     14.  _Envrmnt 360 Terms._ U.S. Users: The Envrmnt 360 terms apply to you and can be found here and here in Spanish.
+    15.  _RSS Feeds._ If you use an RSS feed provided by Oath (“Oath RSS Feed”), you are only permitted to display the content that is provided in the feed, without modification, and you must provide attribution to the source Oath website and link to the full article on the source Oath website. You may not remove Oath attributions or links back, or otherwise modify Oath RSS Feed content. You may not incorporate advertising into any Oath RSS Feed. Oath reserves the right to discontinue any Oath RSS Feed at any time and to require anyone to cease use of an Oath RSS Feed at any time for any reason. Each Oath product or service may also have more specific terms of use for the Oath RSS Feeds.
 3.  **Your Account. Notices**
     1.  _Account Information._ You may need an account to use some Services. You must ensure that your account information (that is, the information you provided when you registered for or subscribed to a Service) remains current, complete, accurate and truthful. With the exception of AOL accounts, all Oath accounts are non-transferable, and any rights to them terminate upon the account holder’s death.
     2.  _Access to Your Account._ You are responsible for all activity that happens on or through your account. To protect your account, keep your password confidential. Do not reuse your account password with other services. Without prejudice to your statutory rights, if you forget your password and otherwise cannot validate your account to Oath, you acknowledge and agree that your account may be inaccessible to you and that all data associated with the account may not be retrievable.
@@ -237,7 +238,7 @@ Europe, Middle East and Africa
 4.  **Japan (jp):**
     1.  _Defined Terms_
         1.  Applicable Oath Company:
-            1.  For AutoBlog Japan, TechCrunch Japan, Engadget Japan, Aol.jp, and AOL Mail, the Applicable Oath Company is Oath Japan KK (Address: 2-27-25 Minamiaoyama, Minato-ku, Tokyo 10​7-0062 Japan).
+            1.  For AutoBlog Japan, TechCrunch Japan, Engadget Japan, Aol.jp, and AOL Mail, the Applicable Oath Company is Oath Japan KK (Address: 2-27-25 Minamiaoyama, Minato-ku, Tokyo 10 7-0062 Japan).
             2.  For Yahoo Japan-branded products that are accessible in Japan: these products are provided by a third-party.
             3.  For all other Services, the Applicable Oath Company is Oath Inc. (Address: 22000 AOL Way, Dulles, VA 20166).
         2.  Minimum Age: 18 years old (however, if you are 18 or 19 years old, you must have the permission of a parent or legal guardian in order to agree to the Terms and to use the Services)
@@ -317,4 +318,4 @@ Europe, Middle East and Africa
     13.  Additional terms for Italian users can be found here.
     14.  Additional terms for German users can be found here.
 
-_Last updated: July 2018_
+_Last updated: August 2018_
