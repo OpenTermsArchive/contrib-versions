@@ -1,6 +1,6 @@
 Terms of Use
 
-Internet Brands, Inc. and its subsidiaries and corporate affiliates (collectively, "our," "us," or "we") operate websites, provide products and services through mobile and other applications, and develop software. We refer to these as "sites," "services," or "our sites and services."
+MH Sub I, LLC dba Internet Brands and its affiliates (collectively, "our," "us," or "we") operate websites, provide products and services through mobile and other applications, and develop software. We refer to these as "sites," "services," or "our sites and services."
 
 These terms, including any schedules and supplemental terms (collectively, these "Terms of Use" or this "TOU") applies to our sites and services on which we display or post a direct link to this TOU. If there is any conflict between this TOU and any supplemental terms to a site or service, the supplemental terms will control. This TOU does not apply to those sites and services that do not display or link to this TOU, or that have their own terms of use.
 
@@ -156,13 +156,13 @@ These TOU grant you a limited, revocable, nonexclusive license to access our sit
     
 *   17\. Notice for California Residents
     
-    Under California Civil Code Section 1789.3, California users are entitled to the following consumer rights notice: If you have a question or complaint regarding the site, please send an email to legal@internetbrands.com . You may also contact us by writing to Legal Deparment, Internet Brands, Inc., 909 N. Sepulveda Blvd, 11th Floor, El Segundo, California 90245. California residents may reach the Complaint Assistance Unit of the Division of Consumer Services by mail at 1625 North Market Blvd., Suite N 112, Sacramento, California 95834, or by telephone at (916) 445-1254 or (800) 952-5210. Please be sure to identify the specific website, software, or service about which you have a question or complaint and how we can contact you.
+    Under California Civil Code Section 1789.3, California users are entitled to the following consumer rights notice: If you have a question or complaint regarding the site, please send an email to legal@internetbrands.com . You may also contact us by writing to Legal Department, MH Sub I, LLC, 909 N. Pacific Coast Highway, 11th Floor, El Segundo, California 90245. California residents may reach the Complaint Assistance Unit of the Division of Consumer Services by mail at 1625 North Market Blvd., Suite N 112, Sacramento, California 95834, or by telephone at (916) 445-1254 or (800) 952-5210. Please be sure to identify the specific website, software, or service about which you have a question or complaint and how we can contact you.
     
 *   18\. Dispute Resolution. Arbitration
     
     We believe we will be able to resolve most disputes or issues you may have using our sites and services. In the unlikely event we are not able to resolve a dispute or issue, we prefer to specify now what each of us should expect in order to avoid any confusion later. Accordingly, you agree to the following resolution process.
     
-    Since we always prefer to find ways to satisfy you as quickly and efficiently as possible, before initiating any arbitration proceeding, you agree to first discuss the matter informally with us for at least 30 days. To do that, please send your full name and contact information, your concern and your proposed solution by mail to us at: Internet Brands, Inc., 909 N. Sepulveda Blvd., 11th Floor, El Segundo, CA 90245, Attn: Legal Department.
+    Since we always prefer to find ways to satisfy you as quickly and efficiently as possible, before initiating any arbitration proceeding, you agree to first discuss the matter informally with us for at least 30 days. To do that, please send your full name and contact information, your concern and your proposed solution by mail to us at: MH Sub I, LLC, 909 N. Pacific Coast Highway, 11th Floor, El Segundo, CA 90245, Attn: Legal Department.
     
     If we are unable to mutually agree upon a resolution after the 30-day period, you agree that any claim you may have against us regarding these Terms of Use or our sites and services will be resolved through binding arbitration administered by JAMS and governed by the then current JAMS Streamlined Arbitration Rules and Procedures. It is important to us that we address any issues you might have promptly. To help us do that, you agree to begin any arbitration within one year after your claim arose. otherwise, your claim is waived. As an exception to this arbitration agreement, we are happy to give you the right to pursue in small claims court any claim that is within that court's jurisdiction as long as you proceed only on an individual basis.
     
@@ -219,4 +219,4 @@ These TOU grant you a limited, revocable, nonexclusive license to access our sit
     Any failure by us to enforce or exercise any provision of these TOU, or any related right, will not constitute a waiver of that provision or right.
     
 
-Last updated: March 10, 2016
+Last updated: August 6, 2018
