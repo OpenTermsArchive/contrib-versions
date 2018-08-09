@@ -29,6 +29,8 @@ Dictionary.com, LLC (“Dictionary,” “we,” “us,” or “our”) respect
     
     Our Services are intended for general audiences over the age of 16 years old. We do not knowingly collect information from children under the age of 16 years old.
     
+    We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.
+    
     IF YOU ARE NOT AT LEAST 16 YEARS OLD, DO NOT USE THE SERVICES.
 2.  **YOUR PRIVACY CHOICES.** You have choices when it comes to the privacy practices described in this Privacy &. Cookie Policy, including your choices related to:
     1.  Targeted Advertising. See Web Browser Controls and Third Party Advertising Controls
