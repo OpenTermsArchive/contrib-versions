@@ -1,6 +1,6 @@
 Privacy Policy Print this page
 
-MH Sub I, LLC dba Internet Brands and its subsidiaries and corporate affiliates (collectively, "Internet Brands," "our," "us," or "we") operate websites, provide products and services through mobile and other applications, and develop software. We refer to these as "site(s)," "service(s)," or "our sites and services."
+MH Sub I, LLC dba Internet Brands and its affiliates (collectively, "Internet Brands," "our," "us," or "we") operate websites, provide products and services through mobile and other applications, and develop software. We refer to these as "site(s)," "service(s)," or "our sites and services."
 
 This privacy policy applies to our sites and services on which we display or post a direct link to this privacy policy. This privacy policy does not apply to those sites and services that do not display or link to this privacy policy, or that have their own privacy policies. However, we often acquire new companies to expand our business. Some acquired companies may operate under their own privacy policies until we integrate their privacy practices with ours.
 
@@ -8,13 +8,13 @@ This privacy policy applies to all users of our sites and services and covers wh
 
 Data Controller and Contracting Parties
 
-For the purposes of the General Data Protection Regulation 2016/679 (the “GDPR”), the Data Controller is MH Sub I, LLC registered in the State of Delaware, United States of America with a registered address at 909 N. Sepulveda Blvd. 11th Floor., El Segundo CA 90245.
+For the purposes of the General Data Protection Regulation 2016/679 (the “GDPR”), the Data Controller is MH Sub I, LLC registered in the State of Delaware, United States of America with a registered address at 909 N. Pacific Coast Highway, 11th Floor., El Segundo CA 90245.
 
 You can contact our Data Protection Officer by sending an email to privacy@internetbrands.com or by writing to:
 
 MH Sub I, LLC  
 Attn: Legal Department  
-909 N. Sepulveda Blvd., 11th Floor  
+909 N. Pacific Coast Highway, 11th Floor  
 El Segundo, California 90245 U.S.A.  
 
 6.  Personal Information that You Provide to Us
@@ -86,7 +86,7 @@ El Segundo, California 90245 U.S.A.
     13.  to manage our sites' and services' administration, forum management, or fulfillment;
     14.  to provide customer service and technical support;
     15.  to administer surveys, sweepstakes, giveaways, contests, or similar promotions or events sponsored by us or our partners;
-    16.  to prevent fraud or potentially illegal activities, enforce our sites' terms of use, or to comply with applicable law;
+    16.  to prevent fraud or potentially illegal activities, enforce our sites' Terms of Use, or to comply with applicable law;
     17.  for internal purposes such as auditing, data analysis, and research to improve our products, services, and communications;
     18.  to allow you to apply for a job or sign-up for special offers from third parties through our sites and services;
     19.  to help you contact or schedule an appointment with a healthcare provider or a legal professional listed in one of our directories and to remind you of upcoming or follow-up appointments;
@@ -115,7 +115,7 @@ El Segundo, California 90245 U.S.A.
     
     1.  to satisfy any applicable laws or regulations,
     2.  to defend ourselves in litigation or a regulatory action,
-    3.  in order to protect the rights or property of Internet Brands and our subsidiaries and corporate affiliates, including to enforce our sites' or services' terms of use,
+    3.  in order to protect the rights or property of Internet Brands and our subsidiaries and corporate affiliates, including to enforce our sites' or services' Terms of Use.
     4.  when we have a good faith belief that we are required to disclose the information in response to legal process (for example, a subpoena, court order, or search warrant),
     5.  where we believe our sites and services are being used in the commission of a crime, including to report such criminal activity or to exchange information with other companies and organizations for the purposes of fraud protection and risk management, and
     6.  when we have a good faith belief that there is an emergency that poses a threat to the health and/or safety of you, another person, or the public generally;
@@ -186,7 +186,7 @@ El Segundo, California 90245 U.S.A.
     
     If you have questions about your options, please fill out our Privacy Contact Form. Protecting your privacy and security is important and we also take reasonable steps to verify your identity before granting access to your data.
     
-    Please be aware that certain records and information will be retained for specific purposes such as legal, payment, accounting, technical, dispute resolution, enforcement of our sites' and services' terms of use, or customer service. If you have posted comments or user generated content on our site, we may not be able to delete it. Further, we take no responsibility for removing or editing any of your public activities or any submissions or content that is a result of your public activities. We may reject requests that are unreasonably repetitive or impractical, require disproportionate technical effort, or risk the privacy of others. 
+    Please be aware that certain records and information will be retained for specific purposes such as legal, payment, accounting, technical, dispute resolution, enforcement of our sites' and services' Terms of Use, or customer service. If you have posted comments or user generated content on our site, we may not be able to delete it. Further, we take no responsibility for removing or editing any of your public activities or any submissions or content that is a result of your public activities. We may reject requests that are unreasonably repetitive or impractical, require disproportionate technical effort, or risk the privacy of others. 
     
 14.  Storing Personal Information 
     
@@ -290,11 +290,11 @@ El Segundo, California 90245 U.S.A.
     
 23.   Contacting Us
     
-    If you have any questions or concerns about this privacy policy or our practices you can contact us or write to us at Internet Brands, Inc., Privacy Office, 909 N. Sepulveda Blvd., 11th Floor, El Segundo, California 90245 U.S.A. Please be sure to identify the specific website, software, or service about which you have a question or concern and how we can contact you.
+    If you have any questions or concerns about this privacy policy or our practices you can contact us or write to us at MH Sub I, LLC, Privacy Office, 909 N. Pacific Coast Highway, 11th Floor, El Segundo, California 90245 U.S.A. Please be sure to identify the specific website, software, or service about which you have a question or concern and how we can contact you.
     
 24.   Changes to This Privacy Policy
     
     We may revise this privacy policy from time to time and, if we do, we will update it on this page and modify the "Last Updated" date. If our information practices change in a significant way, you will be provided notice by means of notice on our sites or otherwise in writing. Because our privacy policy can change at any time, we encourage you to reread it periodically to see if there have been any changes that affect you. If you disagree with any changes to this privacy policy and do not wish your information to be subject to the revised privacy policy, you will need to deactivate your account or terminate your services. Your use of our sites and services following any such change constitutes your agreement that all information collected from or about you through our sites and services after the revised privacy policy is posted will be subject to the terms of the revised privacy policy.
     
 
-Last Updated: May 18, 2018
+Last Updated: August 6, 2018
