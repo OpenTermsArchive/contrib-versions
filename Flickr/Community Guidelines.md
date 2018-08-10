@@ -9,13 +9,12 @@
     *   The Weekly Flickr
     *   Flickr Blog
 *   Create
-*   Get Pro
 
 *   _Upload_
 *   Log In
 *   Sign Up
 
-Explore Recent Photos Trending The Commons Galleries The Weekly Flickr Flickr Blog Get Pro Policies &. Guidelines
+Explore Recent Photos Trending The Commons Galleries The Weekly Flickr Flickr Blog Policies &. Guidelines
 
 *   Terms
 *   Privacy
