@@ -641,9 +641,9 @@ Residential Small Business Enterprise Wholesale FIND US ON Twitter Facebook
 
 Copyright © 2018 Windstream Communications. All rights reserved.
 
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1819151935020592&amp;ev=PageView&amp;noscript=1">. Windstream Virtual Agent Wendy:   
+Windstream Virtual Agent Wendy:   
 Hello, I am Wendy, Windstream’s Virtual Agent. What can I help you with?  
 Service Availability  
 Plan Pricing  
 Internet speeds in my area Ask Wendy your question ASK Thanks for helping us improve!  
-Please take a few moments to complete the survey below. Print Email Text Size
+Please take a few moments to complete the survey below. Print Email Text Size <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1819151935020592&amp;ev=PageView&amp;noscript=1">.
