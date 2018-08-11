@@ -1,6 +1,6 @@
 Privacy Policy
 
-Your Privacy Rights – Effective July 9, 2018
+Your Privacy Rights – Effective August 10, 2018
 
 This privacy policy applies to all Imgur users worldwide. For users in the European Economic Area (EEA) and in Switzerland, Imgur complies with the principles of the U.S.-EU Privacy Shield Program and the U.S.-Swiss Privacy Shield Program, and has applied to participate in both programs. Under both programs, we are subject to the investigatory and enforcement powers of the Federal Trade Commission, and we are liable for the unauthorized transfer to third parties of user personal data. For more information, see https://www.privacyshield.gov.
 
@@ -53,7 +53,7 @@ We take every reasonable precaution to protect the data on our servers from loss
 
 Dispute resolution
 
-These terms are governed by California law, excluding its conflicts of law principles, and if there is a lawsuit between a user outside the EEA and Imgur, jurisdiction and venue will lie exclusively in the State where the defendant is located, if within the United States, or in Santa Clara County, California otherwise. If you are a user located within the EEA and have an unresolved privacy or data use concern that we have not addressed satisfactorily, it is possible, under certain conditions, for you to invoke binding arbitration as outlined in Annex I of the Arbitration Mechanism in the Privacy Shield Framework by contacting our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
+These terms are governed by California law, excluding its conflicts of law principles, and if there is a lawsuit between a user outside the EEA and Imgur, jurisdiction and venue will lie exclusively in the State where the defendant is located, if within the United States, or in Santa Clara County, California otherwise. If you are a user located within the EEA and have an unresolved privacy or data use concern that we have not addressed satisfactorily, you have additional recourse mechanisms: First, you may contact TrustE, our U.S.-based third party dispute resolution provider (free of charge), at https://feedback-form.truste.com/watchdog/request. Second, you may, under certain conditions, invoke binding arbitration for complaints regarding Privacy Shield compliance not resolved by any of the other Privacy Shield mechanisms. For additional information please see https://www.privacyshield.gov/article?id=ANNEX-I-introduction.
 
 Changes to this Privacy Policy
 
