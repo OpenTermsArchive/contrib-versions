@@ -396,27 +396,27 @@ Back to top
 
 Privacy statement update: 9/19/17
 
-*   Glossary
-*   Aetna Mobile App
-*   Careers
-*   News and Analysis
-*   Health Care Reform
+*   *   Glossary
+*   *   Aetna Mobile App
+*   *   Careers
+*   *   News and Analysis
+*   *   Health Care Reform
 
-*   Accessibility Services
-*   Terms of Use
-*   Investor Info
+*   *   Accessibility Services
+*   *   Terms of Use
+*   *   Investor Info
 
-*   FAQs
-*   Program Provisions
-*   Interest-Based Ads Policy
+*   *   FAQs
+*   *   Program Provisions
+*   *   Interest-Based Ads Policy
 
-*   Legal Notices
-*   Plan Disclosures
-*   Nondiscrimination Notice
+*   *   Legal Notices
+*   *   Plan Disclosures
+*   *   Nondiscrimination Notice
 
-*   Site Map
-*   Privacy Center
-*   State Directory
+*   *   Site Map
+*   *   Privacy Center
+*   *   State Directory
 
 Copyright © 2018 Aetna Inc.
 
