@@ -37,7 +37,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   43 (last comment by SlIpKnOt\_\_fReEk 1 week ago)
+    *   43 (last comment by SlIpKnOt\_\_fReEk 2 weeks ago)
 *   Cannot retrieve Old post Help
     *   by Philippalam
     *   3 weeks ago
@@ -82,7 +82,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   waiting for blog recovery since 2014
     *   by so\_it\_was
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
