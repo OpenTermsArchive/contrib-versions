@@ -22,13 +22,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Cant Getold photos and blogs
     *   by fly\_bb0924
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Cant Getold photos and blogs
     *   by fly\_bb0924
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -43,7 +43,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by emmelladevi 2 weeks ago)
+    *   1 (last comment by emmelladevi 3 weeks ago)
 *   Cant get back my old xanga
     *   by lamtszching
     *   3 weeks ago
@@ -64,19 +64,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Been waiting on recovery
     *   by BSanden69
-    *   3 weeks ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   i can't see all my old post
-    *   by DR\_KENCHAN
     *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   i can't see all my old post
     *   by DR\_KENCHAN
-    *   4 weeks ago
+    *   1 month ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   i can't see all my old post
+    *   by DR\_KENCHAN
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
