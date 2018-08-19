@@ -1,5 +1,3 @@
-Sign In | Join Free
-
 *   My Alibaba
     *   Message Center
     *   My Favorites
