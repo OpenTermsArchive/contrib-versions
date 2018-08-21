@@ -2,14 +2,14 @@ Privacy Policy
 
 **Welcome to Envato’s Privacy Policy**
 
-1.  Hi there, we’re Envato Pty Ltd (ABN 11 119 159 741) of Level 1, 121 King Street Melbourne, 3000, Australia (“**Envato**”) and welcome to our privacy policy which also applies to our affiliate companies. This policy sets out how we handle your personal information if you’re an Envato user or visitor to our Sites. It applies across Envato Elements, Envato Market, Envato Studio, Envato Sites, Envato Hosted, Envato Tuts+ and Placeit (the “**Sites**”).
+1.  Hi there, we’re Envato Pty Ltd (ABN 11 119 159 741) of Level 1, 121 King Street Melbourne, 3000, Australia (“**Envato**”) and welcome to our privacy policy which also applies to our Affiliate Companies. This policy sets out how we handle your personal information if you’re an Envato user or visitor to our Sites. It applies across Envato Elements, Envato Market, Envato Studio, Envato Sites, Envato Hosted, Envato Tuts+ and Placeit (the “**Sites**”).
 2.  When we say ‘we’, ‘us’ or ‘Envato’ it’s because that’s who we are and we own and run the Sites.
 3.  If we say ‘policy’ we’re talking about this privacy policy. If we say ‘user terms’ we’re talking about the rules for using each of the Sites. The rules vary by product and each product makes them separately available and seeks consent to them separately to this policy.
 
 **The type of personal information we collect**
 
 1.  We collect certain personal information about visitors and users of our Sites.
-2.  The most common types of information we collect include things like: user-names, member names, email addresses, IP addresses, other contact details, survey responses, blogs, photos, payment information such as payment agent details, transactional details, tax information, support queries, forum comments (if applicable), content you direct us to make available on our Sites (such as item descriptions), your actions on our Sites (including any selections or inputs into items) and web analytics data. We will also collect personal information from job applications (such as, your CV, the application form itself, cover letter and interview notes).
+2.  The most common types of information we collect include things like: user-names, member names, email addresses, IP addresses, other contact details, survey responses, blogs, photos, payment information such as payment agent details, transactional details, tax information, support queries, forum comments (if applicable), content you direct us to make available on our Sites (such as item descriptions), your actions on our Sites (including any selections or inputs into items) and web and email analytics data. We will also collect personal information from job applications (such as, your CV, the application form itself, cover letter and interview notes).
 
 **How we collect personal information**
 
@@ -21,13 +21,13 @@ Privacy Policy
 1.  Although we generally collect personal information directly from you, on occasion, we also collect certain categories of personal information about you from other sources. In particular:
     1.  financial and/or transaction details from payment providers located in the US, UK, and Australia in order to process a transaction;
     2.  third party service providers (like Google, Facebook) who are located in the US or UK, which may provide information about you when you link, connect, or login to your account with the third party provider and they send us information such as your registration and profile from that service, this only occurs if you are using Envato Studio. The information varies and is controlled by that service provider or as authorized by you via your privacy settings at that service provider. and
-    3.  other third party sources/ and or partners from Australia, US or UK,  whereby we receive additional information about you (to the extent permitted by applicable law), such as demographic data or fraud detection information, and combine it with information we have about you. For example, fraud warnings from service providers like identity verification service. We also receive information about you and your activities on and off the Envato platform through partnerships, or about your experiences and interactions from our partner ad networks. We also receive information about you as a rights holder from our third party authors. For example, information in the form of a model release when your image is used in an item made available on our Sites.
+    3.  other third party sources/and or partners from Australia, US or UK,  whereby we receive additional information about you (to the extent permitted by applicable law), such as demographic data or fraud detection information, and combine it with information we have about you. For example, fraud warnings from service providers like identity verification service. We also receive information about you and your activities on and off the Envato platform through partnerships, or about your experiences and interactions from our partner ad networks. We also receive information about you as a rights holder from our third party authors. For example, information in the form of a model release when your image is used in an item made available on our Sites.
 
 **How we use personal information**
 
 1.  We will use your personal information:
     1.  To fulfil a contract, or take steps linked to a contract: in particular, in facilitating and processing transactions that take place on the Sites, like where you purchase an item from our marketplace.
-    2.  Where this is necessary for purposes which are in our, or third parties, legitimate interests. These interests include:
+    2.  Where this is necessary for purposes which are in our, or third parties’, legitimate interests. These interests include:
         1.  operating the Sites;
         2.  providing you with services described on the Sites;
         3.  verifying your identity when you sign in to any of our Sites;
@@ -59,7 +59,7 @@ Privacy Policy
     7.  a third party to respond to requests relating to a criminal investigation or alleged or suspected illegal activity;
     8.  a third party, in order to enforce or defend our rights, or to address financial or reputational risks;
     9.  a rights holder in relation to an allegation of intellectual property  infringement or any other infringement. and
-    10.  other recipients where we are authorised or required by law to do so.
+    10.  other recipients where we are authorised or required by law, or requests by government, a court of law, or law enforcement authorities, to do so.
 
 **Where we transfer and/or store your personal information**
 
@@ -75,7 +75,7 @@ Privacy Policy
 
 **Marketing Choices regarding your personal information**
 
-1.  Where we have your consent to do so (e.g. if you have subscribed to one of our e-mail lists or have indicated that you are interested in receiving offers or information from us), we send you marketing communications by email about products and services that we feel may be of interest to you. You can ‘opt-out’ of such communications if you would prefer not to receive them in the future by using the “unsubscribe” facility provided in the communication itself.
+1.  Where we have your consent to do so (e.g. if you have subscribed to one of our email lists or have indicated that you are interested in receiving offers or information from us), we send you marketing communications by email about products and services that we feel may be of interest to you. You can ‘opt-out’ of such communications if you would prefer not to receive them in the future by using the “unsubscribe” facility provided in the communication itself.
 2.  You also have choices about cookies, as described below. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject cookies some parts of our Sites may not work properly in your case.
 
 **Cookies (not the type you eat!) and web analytics**
@@ -105,7 +105,7 @@ Privacy Policy
 
 **How long we keep your personal information**
 
-1.  We retain your personal information for as long as is necessary to provide the services to you and others, and to comply with our legal obligations. If you no longer want us to use your personal information or to provide you with the Envato services, you can request that we erase your personal information and close your Envato account. Please note that if you request the erasure of your personal information we will retain information from deleted accounts as necessary for our legitimate business interests, to comply with the law, prevent fraud, collect fees, resolve disputes, troubleshoot problems, assist with investigations, enforce the terms of service and take other actions permitted by law. The information we retain will be handled in accordance with this Privacy Policy.
+1.  We retain your personal information for as long as is necessary to provide the services to you and others, and to comply with our legal obligations. If you no longer want us to use your personal information or to provide you with the Envato services, you can request that we erase your personal information and close your Envato account. Please note that if you request the erasure of your personal information we will retain information from deleted accounts as necessary for our legitimate business interests, to comply with the law, prevent fraud, collect fees, resolve disputes, troubleshoot problems, assist with investigations or requests by government, a court of law, or law enforcement authorities, enforce the terms of service and take other actions permitted by law. The information we retain will be handled in accordance with this Privacy Policy.
 
 **When we need to update this policy**
 
@@ -130,4 +130,6 @@ Privacy Policy
 
 **Both personal information and personal data have the same meaning in the context of this Privacy Policy.**
 
-**Envato Privacy Policy v4, effective date 18 July 2018**
+Affiliate Companies means Envato Elements Pty Ltd, Envato Sites Pty Ltd and Ceiba Pty Ltd.
+
+**Envato Privacy Policy v4.1, effective date 20 August 2018**
