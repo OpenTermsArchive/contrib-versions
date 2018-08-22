@@ -1,8 +1,8 @@
 Terms and Conditions
 
-Version 0.1
+Version 0.2
 
-Date May 25th, 2018.
+Date August 20th 2018.
 
 1\. Introduction
 
@@ -25,8 +25,6 @@ Other terms are defined in context below. 
 3\. Applicability of the terms and conditions
 
 Please read these terms and conditions carefully. It is a condition of your use of a Jagex Product (whether or not you are a Subscriber) that you accept these terms and conditions in full. If you don't agree with any part, please do not use the Jagex Product.
-
-If you have any questions about these terms and conditions, please contact us via email at lawcontact@Jagex.com and do not use the Jagex Product until you are satisfied with and can accept these terms and conditions in full.
 
 4\. Changes to the terms and conditions
 
