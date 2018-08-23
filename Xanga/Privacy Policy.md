@@ -4,19 +4,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   MY OLD POSTS MISSING
     *   by BonnerBlondie07
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   MY OLD POSTS MISSING
     *   by BonnerBlondie07
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I can't find my old posts
     *   by UnraveledSelf
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -55,7 +55,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   43 (last comment by SlIpKnOt\_\_fReEk 2 weeks ago)
+    *   43 (last comment by SlIpKnOt\_\_fReEk 3 weeks ago)
 *   Cannot retrieve Old post Help
     *   by Philippalam
     *   4 weeks ago
