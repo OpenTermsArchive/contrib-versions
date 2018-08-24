@@ -234,7 +234,8 @@ Europe, Middle East and Africa
                 1.  the Applicable Oath Company is the Oath company that is specified to be the provider in respect of a specific Service, and the Terms and the relationship between you and the Applicable Oath Company will be governed by the laws of the place of incorporation of the Applicable Oath Company. or
                 2.  if no Oath company is specified to be the provider in respect of a specific Service, the Applicable Oath Company is Oath Inc. (Address: 22000 AOL Way, Dulles, VA 20166), and for such Services the terms of Section 14.2 (United States) apply.
     2.  _Customer Support_. For customer support, see this page.
-    3.  **Click here for an important Supreme Court Order passed by the Hon'ble Supreme Court of India relating to a prohibition on advertisement under the PCPNDT Act, 1994.**
+    3.  _Yahoo India Grievance Officer._  For the Yahoo India Grievance Officer, see this page.
+    4.  **Click here for an important Supreme Court Order passed by the Hon'ble Supreme Court of India relating to a prohibition on advertisement under the PCPNDT Act, 1994.**
 4.  **Japan (jp):**
     1.  _Defined Terms_
         1.  Applicable Oath Company:
