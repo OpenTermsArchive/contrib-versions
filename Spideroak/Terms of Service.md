@@ -50,7 +50,7 @@ SpiderOak contains links to websites and services that we neither own nor contro
 
 Privacy
 
-OurPrivacy Policy governs our collection and use of your personal information. Please review those provisions, too.
+OurPrivacy Policygoverns our collection and use of your personal information. Please review those provisions, too.
 
 Security
 
@@ -85,7 +85,7 @@ To send us a notice concerning copyright infringement, you’ll need to provide 
 
 You can report alleged copyright infringement by emailing the above information to copyright@spideroak.com.
 
-You can also mail a copyright notice to: SpiderOak Copyright Agent, SpiderOak, Inc., 4741 Central Street # 324, Kansas City, MO 64112
+You can also mail a copyright notice to: Laura Gowans, SpiderOak, Inc., 5920 Nall Avenue, Suite 200, Mission KS 66202, USA. 
 
 Our response to notices of alleged copyright infringement may include removing or restricting access to allegedly infringing material. If we remove or restrict access to content in response to a copyright notice, we’ll make a good-faith effort to get in touch with the affected account holder to provide information about the situation, including a copy of the takedown notice and instructions for filing a counter-notification.
 
