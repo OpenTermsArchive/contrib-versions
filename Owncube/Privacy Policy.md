@@ -179,4 +179,14 @@ If you select payment via PayPal, the payment data you provide will be supplied 
 
   
   
-Last modified: 21.05.2018
+Cryptocurrency via Coingate
+
+Our website accepts payments of Cryptocurrency. The provider of this service is UAB "Virtualios valiutos" https://coingate.com/.
+
+If you select payment via Cryptocurrency, the payment data you provide will be supplied to Coingate based on Art. 6 (1) (a) (Consent) and Art. 6 (1) (b) DSGVO (Processing for contract purposes). You have the option to revoke your consent at any time with future effect. It does not affect the processing of data previously collected.
+
+  
+  
+Last modified: 21.05.2018  
+  
+Changes: 26.08.2018: Payment provider Coingate added.
