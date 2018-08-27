@@ -9,38 +9,44 @@ Skip to toolbar
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
 *   MY OLD POSTS MISSING
-    *   by BonnerBlondie07
-    *   5 days ago
+    *   by KHT
+    *   2 hours ago
     *   in Data Migration
     *   0 votes
     *   0
 *   MY OLD POSTS MISSING
     *   by BonnerBlondie07
-    *   5 days ago
+    *   6 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   MY OLD POSTS MISSING
+    *   by BonnerBlondie07
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I can't find my old posts
     *   by UnraveledSelf
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can’t see my old post
     *   by kawailoveyou
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can’t see my old post
     *   by kawailoveyou
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can’t see my old post
     *   by kawailoveyou
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -88,12 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Been waiting on recovery
     *   by BSanden69
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   i can't see all my old post
-    *   by DR\_KENCHAN
     *   1 month ago
     *   in Data Migration
     *   0 votes
