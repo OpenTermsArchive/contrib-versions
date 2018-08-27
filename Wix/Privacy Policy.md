@@ -344,7 +344,7 @@ If you are a Wix Visitor or User, and you wish to receive a copy, access and/or
 
 ​
 
-We will makee all reasonable efforts to honor your request promptly (unless we require further information from you in order to fulfil your request), subject to legal and other permissible considerations. You may also correct, update or remove certain parts of such Personal Information by yourself, through your User Account or User Website settings.
+We will make all reasonable efforts to honor your request promptly (unless we require further information from you in order to fulfil your request), subject to legal and other permissible considerations. You may also correct, update or remove certain parts of such Personal Information by yourself, through your User Account or User Website settings.
 
 ​
 
