@@ -224,7 +224,6 @@ ProductsGrammarly for MS Office
 Grammarly Premium  
 Grammarly Native Apps  
 Plagiarism Checker  
-Grammar Checker  
 CompanyAbout  
 Affiliate  
 Careers &. Culture  
@@ -238,6 +237,7 @@ Terms of Service
 ServicesGrammarly EDU  
 Grammarly Business  
 Handbook  
+Grammar Checker  
 CommunityFacebook  
 Instagram  
 Twitter  
