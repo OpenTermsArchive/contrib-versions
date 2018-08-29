@@ -8,7 +8,6 @@
     *   *   New construction
         *   Coming soon
         *   Recent home sales
-        *   Condo Buildings
         *   All homes
 *   Resources
     *   *   Buyers Guide
