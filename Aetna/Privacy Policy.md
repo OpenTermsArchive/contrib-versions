@@ -208,6 +208,7 @@ About Us About us overview Who we are Who we are
 *   Political activities
 *   News &. analysis
 *   Health care reform
+*   Aetna story
 
 Initiatives Initiatives
 
@@ -236,10 +237,13 @@ Investors Investors
 
 Health Section Health Section
 
-*   News &. analysis
-*   The Aetna story
-*   The health system
-*   Wellness in the workplace
+*   Access
+*   Community
+*   Innovation
+*   Well-Being
+*   News Items
+*   Perspective
+*   Media Resources
 
 *   Member login
 *   Member register
