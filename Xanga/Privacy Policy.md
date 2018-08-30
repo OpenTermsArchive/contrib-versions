@@ -4,7 +4,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   MY OLD POSTS MISSING
     *   by KHT
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -61,7 +61,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 years ago
     *   in Data Migration
     *   0 votes
-    *   43 (last comment by SlIpKnOt\_\_fReEk 3 weeks ago)
+    *   43 (last comment by SlIpKnOt\_\_fReEk 4 weeks ago)
 *   Cannot retrieve Old post Help
     *   by Philippalam
     *   1 month ago
