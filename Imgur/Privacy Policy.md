@@ -1,8 +1,8 @@
 Privacy Policy
 
-Your Privacy Rights – Effective August 10, 2018
+Your Privacy Rights – Effective August 28, 2018
 
-This privacy policy applies to all Imgur users worldwide. For users in the European Economic Area (EEA) and in Switzerland, Imgur complies with the principles of the U.S.-EU Privacy Shield Program and the U.S.-Swiss Privacy Shield Program, and has applied to participate in both programs. Under both programs, we are subject to the investigatory and enforcement powers of the Federal Trade Commission, and we are liable for the unauthorized transfer to third parties of user personal data. For more information, see https://www.privacyshield.gov.
+This privacy policy applies to all Imgur users worldwide. For users in the European Economic Area (EEA) and in Switzerland, Imgur complies with the principles of the U.S.-EU Privacy Shield Program and the U.S.-Swiss Privacy Shield Program, and participates in both programs. Under both programs, we are subject to the investigatory and enforcement powers of the Federal Trade Commission, and we are liable for the unauthorized transfer to third parties of user personal data. For more information, see https://www.privacyshield.gov.
 
 Information we collect and the purposes for which we use it Automatically collected information
 
