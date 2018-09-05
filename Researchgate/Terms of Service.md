@@ -1,4 +1,4 @@
-Last updated: October 23rd, 2017.For our Intellectual Property Policy, see here.For our Unsolicited Ideas Policy, see here.For EU Online Dispute Resolution (ODR) information, see Sec. 14.**ResearchGate Terms of Service** **Please note:**
+Last updated: September 4th, 2018.For our Intellectual Property Policy, see here.For our Unsolicited Ideas Policy, see here.For our Community Guidelines, see here.For EU Online Dispute Resolution (ODR) information, see Sec. 14.**ResearchGate Terms of Service** **Please note:**
 
 *   If you reside outside of the United States, sections 1 to 15 of these Terms apply to you. If you are a United States resident, additional Terms of Service (“**Additional U.S. Terms**”) apply to you (see sec. 16-19), **INCLUDING A MANDATORY ARBITRATION CLAUSE IN SECTION 17**.
 *   The Terms include all additional policies that may apply to you when using certain features (e.g. Projects, Q&A, Members’ discussions on ResearchGate, etc.), and the Information and Policies listed above.
