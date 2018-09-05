@@ -85,20 +85,6 @@ Agent finder
         *   Agent email scripts
         *   Listing flyer templates
 
-Home design
-
-*   Find design ideas
-    *   *   Kitchens
-        *   Bathrooms
-        *   Bedrooms
-    *   *   Dining rooms
-        *   Living rooms
-        *   See all spaces
-*   Popular styles
-    *   *   Contemporary
-        *   Traditional
-        *   Modern
-
 More
 
 *   Blogs
