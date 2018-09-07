@@ -94,10 +94,7 @@ Kept for the term of the agreement, except for
 *   number of flattrs, which are retained for a period of six (6) months after deletion of the account. \* flattr with a receiving creator or publisher: connection to a Contributor automatically deleted after three (3) months after respective flattr.
 *   unclaimed flattrs will be anonymized after one (1) month after used in a distribution.
 *   profile name, flattred URL, except for domain and day of flattr, and the public profile of creators and publishers for a period of three (3) months.
-*   URLs without a recipient for one (1) month after subscription period.
-
-Transaction data:
-
+*   URLs without a recipient for one (1) month after subscription period. Transaction data:
 *   historic data for three (3) months
 *   basic transaction data for tax purposes in accordance with tax retention periods
 
@@ -129,7 +126,7 @@ What rights do you have?
 
 Questions?
 
-Email our Data Protection Officer, Judith Nink: privacy AT flattr DOT com
+Email our Data Protection Officer, Judith Nink:
 
 Privacy Policy (long version)
 
@@ -148,7 +145,8 @@ Contact our Data Protection Officer
 
 If you have any questions regarding your personal data, please contact our Data Protection Officer:
 
-Dr. Judith Nink **Phone**: +49 (0) 221 / 65028 598 **Email**: privacy AT flattr DOT com **Fax**: +49 (0) 221 / 65028 599
+Dr. Judith Nink **Phone**: +49 (0) 221 / 65028 598 **Email**:  
+**Fax**: +49 (0) 221 / 65028 599
 
 What is personal data?
 
@@ -329,10 +327,15 @@ Processing is based on your consent (Art. 6 (1) a GDPR)
 
 When subscribing for our newsletter, you provide us with your consent, which legitimizes the use of your email address in accordance and to the extent of your consent.
 
+International data transfers
+
+For some parts of our hosting we use a non-EU/EEA service provider called Cloudflare, Inc., seated in San Francisco (United States). We have carefully selected Cloudflare and review it regularly to ensure that your privacy is preserved. The service provider provides sufficient guarantees to ensure an adequate level of data protection and may only use the personal data for the purposes stipulated by us and in accordance with our instructions. We also contractually require the service provider to treat your personal data solely in accordance with this Privacy Policy and the European data protection laws. In order to ensure an adequate level of data protection, we have entered into the EU Standard Contractual Clauses (processors) - Commission Decision C(2010)593. You can request a copy by contacting us at privacy\[at\]flattr.com.
+
 Do we disclose any personal data?
 
-We will not transfer your personal data to third parties as a matter of course without letting you know in advance or asking for your prior permission. We may only transfer your personal data to third parties without informing you separately beforehand in the following exceptional cases as explained below:
+Except as explicitly mentioned in this Privacy Policy, we will not transfer your personal data to third parties as a matter of course without letting you know in advance or asking for your prior permission. We may only transfer your personal data to third parties without informing you separately beforehand in the following exceptional cases as explained below:
 
+*   For hosting purposes, we work with service providers, who will only access and process any of your personal data to the extent required for support purposes and only under our instructions. This is safeguarded by data processing agreements.
 *   If required for legal proceedings / investigations, personal data will be transferred to the criminal investigation authorities and, if appropriate, to injured third parties. We will only do this if there are concrete indications of illegal and / or abusive behavior. We are also legally obliged to give certain public authorities information. These are criminal investigation authorities, public authorities who prosecute administrative offences entailing fines, and finance authorities.
 *   As part of the further development of our business, it may happen that the structure of Flattr AB changes. The legal structure may be adapted, subsidiaries, business units or components may be created, bought or sold. In such transactions, customer information may be shared with the transmitted part of the company. In the event of a transfer of personal information, Flattr will ensure that it is done in accordance to this Privacy Policy and Swedish data protection laws.
 
