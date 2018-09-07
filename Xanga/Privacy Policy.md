@@ -2,6 +2,18 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Missing Blog Posts
+    *   by the\_lynne\_project
+    *   1 hour ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Missing Blog Posts
+    *   by the\_lynne\_project
+    *   1 hour ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   MY OLD POSTS MISSING
     *   by KHT
     *   1 week ago
@@ -78,18 +90,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by lamtszching
     *   1 month ago
     *   in Miscellaenous
-    *   0 votes
-    *   0
-*   Cannot retrieve Old post Help
-    *   by Philippalam
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Been waiting on recovery
-    *   by BSanden69
-    *   1 month ago
-    *   in Data Migration
     *   0 votes
     *   0
 
