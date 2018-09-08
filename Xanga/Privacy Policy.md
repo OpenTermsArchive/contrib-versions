@@ -4,13 +4,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Missing Blog Posts
     *   by the\_lynne\_project
-    *   1 hour ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Missing Blog Posts
     *   by the\_lynne\_project
-    *   1 hour ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
