@@ -368,6 +368,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Dictate
 *   Docs.com
 *   Education.minecraft.net
+*   Forms.microsoft.com
 *   Forzamotorsport.net
 *   Groove Music Pass
 *   Groove
@@ -823,6 +824,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Dictate
 *   Docs.com
 *   Education.minecraft.net
+*   Forms.microsoft.com
 *   Forzamotorsport.net
 *   Groove Music Pass
 *   Groove
