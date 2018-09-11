@@ -14,7 +14,7 @@
 
 Social Responsibility
 
-General Motors Engineer Guides Award-Winning  Girls’ Robotic Team
+General Motors Engineer Guides Award-Winning Girls’ Robotic Team
 
 Read the Story
 
