@@ -575,7 +575,7 @@ Please try again.
 
 Please try again, or continue with this address
 
-Street Address Unit # (optional) State State City City Zip Code Use This Address
+Street Address Unit # (optional) State StateALARFLGAIAKSKYMNMSMONENMNYNCOHOKPASCTX City City Zip Code Use This Address
 
 Need assistance? Call 1-866-819-1239 or Chat Now.
 
