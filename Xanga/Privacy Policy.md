@@ -1,46 +1,52 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
 *   How do I download my archived posts?
     *   by cillypiggy
-    *   9 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Can't see all my old post
-    *   by mandy0124
     *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can't see all my old post
     *   by mandy0124
-    *   1 day ago
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Can't see all my old post
+    *   by mandy0124
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   No Import Link Available
     *   by PIRATESwithbO\_Obs
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Help Migrate me!
     *   by london\_raincoats
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Missing Blog Posts
     *   by the\_lynne\_project
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Missing Blog Posts
     *   by the\_lynne\_project
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
