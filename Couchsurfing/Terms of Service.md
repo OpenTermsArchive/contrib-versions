@@ -1,6 +1,6 @@
 Terms of Use
 
-Last updated: 19 July 2017
+Last updated: 10 September 2018
 
 **PLEASE READ THESE TERMS OF USE CAREFULLY. BY REGISTERING FOR AN ACCOUNT OR BY ACCESSING OR USING THE SERVICES, YOU AGREE TO BE BOUND BY THESE TERMS OF USE AND ALL TERMS INCORPORATED BY REFERENCE. IF YOU DO NOT AGREE TO ALL OF THESE TERMS, DO NOT ACCESS OR USE THE SERVICES.**
 
@@ -150,7 +150,7 @@ PRICE CHANGES
 
 We reserve the right to adjust pricing for our service in any manner and at any time as we may determine in our sole discretion. Price changes related to Couchsurfing Verification will not affect members that have purchased a lifetime subscription.
 
-Paid Subscriptions automatically renew until cancelled. We will notify you if the price of a recurring subscription increases and seek your consent to continue before renewal.
+Paid Subscriptions automatically renew until cancelled. We will notify you if the price of a recurring subscription increases and seek your consent to continue before renewal. To request a refund, you can write to support@couchsurfing.com. We offer refunds within 7 days of the purchase date or 30 days of the renewal date for annual subscriptions.
 
 MEMBER’S REPRESENTATIONS AND WARRANTIES
 
