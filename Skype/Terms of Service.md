@@ -435,7 +435,6 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Skype.com
 *   Skype
 *   Smart Search
-*   Snip Insights
 *   Spreadsheet Keyboard
 *   Store
 *   Sway.com
@@ -892,7 +891,6 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Skype.com
 *   Skype
 *   Smart Search
-*   Snip Insights
 *   Spreadsheet Keyboard
 *   Store
 *   Sway.com
