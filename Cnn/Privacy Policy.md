@@ -1,4 +1,4 @@
-FacebookCNN Privacy Policy
+CNN Privacy Policy
 
 (CNN) **What's New in the Updated Privacy Policy? We have updated the privacy policy applicable to our online and mobile websites, applications, and digital services and clarified data collection, usage and sharing practices among Turner, its affiliates, including AT&T, Inc. and Warner Media, LLC, and unaffiliated third parties. Please take the time to read the full privacy policy. You consent to the data collection, use, disclosure and storage practices described in this privacy policy when you use any of our Services (as described below), including when you access any content or videos.**
 
