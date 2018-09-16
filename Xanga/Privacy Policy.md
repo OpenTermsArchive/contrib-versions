@@ -4,31 +4,31 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   How do I download my archived posts?
     *   by cillypiggy
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Can't see all my old post
-    *   by mandy0124
     *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can't see all my old post
     *   by mandy0124
-    *   4 days ago
+    *   5 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Can't see all my old post
+    *   by mandy0124
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   No Import Link Available
     *   by PIRATESwithbO\_Obs
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Help Migrate me!
     *   by london\_raincoats
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
