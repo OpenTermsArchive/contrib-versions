@@ -2,27 +2,33 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   No link for asking private questions
+    *   by catseye\_night
+    *   23 hours ago
+    *   in Miscellaenous
+    *   0 votes
+    *   0
 *   How do I download my archived posts?
     *   by cillypiggy
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Can't see all my old post
-    *   by mandy0124
     *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can't see all my old post
     *   by mandy0124
-    *   5 days ago
+    *   6 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Can't see all my old post
+    *   by mandy0124
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   No Import Link Available
     *   by PIRATESwithbO\_Obs
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -46,7 +52,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   MY OLD POSTS MISSING
     *   by KHT
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -64,7 +70,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   I can't find my old posts
     *   by UnraveledSelf
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -82,12 +88,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Can’t see my old post
     *   by kawailoveyou
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Cant Getold photos and blogs
-    *   by fly\_bb0924
     *   1 month ago
     *   in Data Migration
     *   0 votes
