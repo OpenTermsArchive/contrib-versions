@@ -4,13 +4,13 @@ These terms and conditions create a contract between you and Apple (the “Agree
 
 A. INTRODUCTION TO OUR SERVICES
 
-This Agreement governs your use of Apple’s services (“Services”), through which you can buy, get, license, rent or subscribe to media, apps (“Apps”), and other in-app services (“Content”). Our Services are: iTunes Store, App Store, iBooks Store, Apple Music, and Apple News. Our Services are available for your use in your country of residence (“Home Country”). To use our Services, you need compatible hardware, software (latest version recommended and sometimes required) and Internet access (fees may apply). Our Services’ performance may be affected by these factors.
+This Agreement governs your use of Apple’s services (“Services”), through which you can buy, get, license, rent or subscribe to media, apps (“Apps”), and other in-app services (“Content”). Our Services are: iTunes Store, App Store, Apple Books, Apple Music, and Apple News. Our Services are available for your use in your country of residence (“Home Country”). To use our Services, you need compatible hardware, software (latest version recommended and sometimes required) and Internet access (fees may apply). Our Services’ performance may be affected by these factors.
 
 B. USING OUR SERVICES
 
 PAYMENTS, TAXES, AND REFUNDS
 
-You can acquire Content on our Services for free or for a charge, either of which is referred to as a “Transaction.” Each Transaction is an electronic contract between you and Apple, and/or you and the entity providing the Content on our Services. However, if you are a customer of Apple Distribution International and you acquire an App or a book, Apple Distribution International is the merchant of record. this means that you acquire the Content from Apple Distribution International, and it is licensed by the App Provider (as defined below) or book publisher. When you make your first Transaction, we will ask you to choose how frequently we should ask for your password for future Transactions. If you enable Touch ID for Transactions, we will ask you to authenticate all Transactions with your fingerprint. Manage your password settings at any time by following these instructions: https://support.apple.com/en-us/HT204030. Apple will charge your payment method (such as your credit card, debit card, gift card/code, or other method available in your Home Country) for any paid Transactions, including any applicable taxes. If you pre-order Content, you will be charged when the Content is delivered to you (unless you cancel prior to the Content’s availability). In accordance with local law, Apple may update information regarding your payment method if provided such information by your financial institution. For details about how Transactions are billed, please visit http://support.apple.com/kb/HT5582. All Transactions are final. Content prices may change at any time. If technical problems prevent or unreasonably delay delivery of Content, your exclusive and sole remedy is either replacement of the Content or refund of the price paid, as determined by Apple. From time to time, Apple may refuse a refund request if we find evidence of fraud, refund abuse, or other manipulative behavior that entitles Apple to a corresponding counterclaim. Terms related to gift cards/codes are available here: https://www.apple.com/legal/internet-services/itunes/giftcards/.
+You can acquire Content on our Services for free or for a charge, either of which is referred to as a “Transaction.” Each Transaction is an electronic contract between you and Apple, and/or you and the entity providing the Content on our Services. However, if you are a customer of Apple Distribution International and you acquire an App or a book, Apple Distribution International is the merchant of record. this means that you acquire the Content from Apple Distribution International, and it is licensed by the App Provider (as defined below) or book publisher. When you make your first Transaction, we will ask you to choose how frequently we should ask for your password for future Transactions. If you enable Touch ID for Transactions, we will ask you to authenticate all Transactions with your fingerprint, and if you enable Face ID for Transactions, we will ask you to authenticate all Transactions using facial recognition. Manage your password settings at any time by following these instructions: https://support.apple.com/en-us/HT204030. Apple will charge your payment method (such as your credit card, debit card, gift card/code, or other method available in your Home Country) for any paid Transactions, including any applicable taxes. If we cannot charge your payment method for any reason (such as expiration or insufficient funds), you remain responsible for any uncollected amounts, and we will attempt to charge the payment method as you may update your payment method information. If you pre-order Content, you will be charged when the Content is delivered to you (unless you cancel prior to the Content’s availability). In accordance with local law, Apple may update information regarding your payment method if provided such information by your financial institution. For details about how Transactions are billed, please visit http://support.apple.com/kb/HT5582. All Transactions are final. Content prices may change at any time. If technical problems prevent or unreasonably delay delivery of Content, your exclusive and sole remedy is either replacement of the Content or refund of the price paid, as determined by Apple. From time to time, Apple may refuse a refund request if we find evidence of fraud, refund abuse, or other manipulative behavior that entitles Apple to a corresponding counterclaim. Terms related to Store Credit and gift cards/codes are available here: https://www.apple.com/legal/internet-services/itunes/giftcards/.
 
 APPLE ID
 
@@ -46,7 +46,7 @@ iTunes Store Content:
 
 \- You can use Digital Rights Management (DRM)-free Content on a reasonable number of compatible devices that you own or control. DRM-protected Content can be used on up to five computers and any number of devices that you sync to from those computers.
 
-\- Content rentals are viewable on a single device at a time, and must be played within 30 days, and completed within 24 to 48 hours of the start of play depending on the Content offered on the Services in your Home Country (stopping, pausing or restarting does not extend this period).
+\- Content rentals are viewable on a single device at a time, and must be played within 30 days, and completed within 48 hours of the start of play (stopping, pausing or restarting does not extend this period).
 
 \- You may burn an audio playlist to CD for listening purposes up to seven times (this limitation does not apply to DRM-free Content).
 
@@ -58,11 +58,11 @@ App Store Content:
 
 \- Individuals acting on behalf of a commercial enterprise, governmental organization or educational institution (an “Enterprise”) may download and sync Apps for use by either (i) a single individual on one or more devices owned or controlled by an Enterprise. or (ii) multiple individuals on a single shared device owned or controlled by an Enterprise. For the sake of clarity, each device used serially or collectively by multiple users requires a separate license.
 
-iBooks Store Content:
+Apple Books Content:
 
 \- You can use DRM-free Content on any compatible device that you own or control. DRM-protected Content can be used on up to five computers and any number of devices that you sync to from those computers.
 
-\- You may not burn iBooks Store Content to disk.
+\- You may not burn Apple Books Content to disk.
 
 Apple Music:
 
@@ -90,7 +90,7 @@ If you use our Services on a non-Apple-branded device, you may not be able to ac
 
 C. YOUR SUBMISSIONS TO OUR SERVICES
 
-Our Services may allow you to submit materials such as comments, pictures, videos, and podcasts (including associated metadata and artwork). Your use of such features must comply with the Submissions Guidelines below, which may be updated from time to time. If you see materials that do not comply with the Submissions Guidelines, please use the Report a Concern feature. You hereby grant Apple a worldwide, royalty-free, perpetual, nonexclusive license to use the materials you submit within the Services and related marketing. Apple may monitor and decide to remove or edit any submitted material.
+Our Services may allow you to submit materials such as comments, pictures, videos, and podcasts (including associated metadata and artwork). Your use of such features must comply with the Submissions Guidelines below, which may be updated from time to time. If you see materials that do not comply with the Submissions Guidelines, please use the Report a Concern feature. You hereby grant Apple a worldwide, royalty-free, perpetual, nonexclusive license to use the materials you submit within the Services and related marketing, and Apple internal purposes. Apple may monitor and decide to remove or edit any submitted material.
 
 Submissions Guidelines: You may not use the Services to:
 
@@ -140,11 +140,15 @@ App licenses are provided to you by Apple or a third party developer (“App Pro
 
 IN-APP PURCHASES
 
-Apps may offer content, services or functionality for use within such Apps (“In-App Purchases”). In-App Purchases that are consumed during the use of the App (for example, virtual gems) cannot be transferred among devices and can be downloaded only once. You must authenticate your account before making In-App Purchases – separate from any authentication to obtain other Content – by entering your password or using Touch ID. You will be able to make additional In-App Purchases for fifteen minutes without re-authenticating unless you’ve asked us to require a password for every purchase or have enabled Touch ID. You can turn off the ability to make In-App Purchases by following these instructions: https://support.apple.com/en-us/HT201304.
+Apps may offer content, services or functionality for use within such Apps (“In-App Purchases”). In-App Purchases that are consumed during the use of the App (for example, virtual gems) cannot be transferred among devices and can be downloaded only once. You must authenticate your account before making In-App Purchases – separate from any authentication to obtain other Content – by entering your password or using Touch ID or Face ID. You will be able to make additional In-App Purchases for fifteen minutes without re-authenticating unless you’ve asked us to require a password for every purchase or have enabled Touch ID or Face ID. You can turn off the ability to make In-App Purchases by following these instructions: https://support.apple.com/en-us/HT201304.
 
 APP MAINTENANCE AND SUPPORT
 
 Apple is responsible for providing maintenance and support for Apple Apps only, or as required under applicable law. App Providers are responsible for providing maintenance and support for Third Party Apps.
+
+APP BUNDLES
+
+Some Apps may be sold together as a bundle (“App Bundle”). The price displayed with an App Bundle is the price you will be charged upon purchasing the App Bundle. The App Bundle price may be reduced to account for Apps you have already purchased or acquired, but may include a minimum charge to complete the App Bundle.
 
 LICENSED APPLICATION END USER LICENSE AGREEMENT
 
@@ -172,9 +176,9 @@ If you are a citizen of any European Union country or Switzerland, Norway or Ice
 
 Specifically excluded from application to this Agreement is that law known as the United Nations Convention on the International Sale of Goods.
 
-H. ADDITIONAL IBOOKS STORE TERMS
+H. ADDITIONAL APPLE BOOKS TERMS
 
-You acquire iBooks Store Content from the third-party provider of such Content (the “Publisher”), not Apple. Apple acts as an agent for the Publisher in providing iBooks Store Content to you, and therefore Apple is not a party to the Transaction between you and the Publisher. If you are a customer of Apple Distribution International, the merchant of record is Apple Distribution International, which means that you acquire a license to use the Content from Apple Distribution International, but the Content is licensed by the Publisher. The Publisher of the iBooks Store Content reserves the right to enforce the terms of use relating to such iBooks Store Content. The Publisher of the iBooks Store Content is solely responsible for such Content, any warranties to the extent that such warranties have not been disclaimed, and any claims that you or any other party may have relating to such Content.
+You acquire Apple Books Content from the third-party provider of such Content (the “Publisher”), not Apple. Apple acts as an agent for the Publisher in providing Apple Books Content to you, and therefore Apple is not a party to the Transaction between you and the Publisher. If you are a customer of Apple Distribution International, the merchant of record is Apple Distribution International, which means that you acquire a license to use the Content from Apple Distribution International, but the Content is licensed by the Publisher. The Publisher of the Apple Books Content reserves the right to enforce the terms of use relating to such Apple Books Content. The Publisher of the Apple Books Content is solely responsible for such Content, any warranties to the extent that such warranties have not been disclaimed, and any claims that you or any other party may have relating to such Content.
 
 I. ADDITIONAL APPLE MUSIC TERMS
 
@@ -196,7 +200,7 @@ Depending on your Home Country, “Apple” means:
 
 Apple Inc., located at One Apple Park Way, Cupertino, California, for users in North, Central, and South America (including Canada for use of iTunes Store and Apple Music), as well as United States territories and possessions. and French and British possessions in North America, South America, and the Caribbean;
 
-Apple Canada Inc., located at 120 Bremner Blvd., Suite 1600, Toronto ON M5J 0A8, Canada for users of App Store and iBooks Store in Canada or its territories and possessions;
+Apple Canada Inc., located at 120 Bremner Blvd., Suite 1600, Toronto ON M5J 0A8, Canada for users of App Store and Apple Books in Canada or its territories and possessions;
 
 iTunes K.K., located at Roppongi Hills, 6-10-1 Roppongi, Minato-ku, Tokyo 106-6140, Tokyo for users in Japan;
 
@@ -216,7 +220,7 @@ INTELLECTUAL PROPERTY
 
 You agree that the Services, including but not limited to Content, graphics, user interface, audio clips, video clips, editorial content, and the scripts and software used to implement the Services, contain proprietary information and material that is owned by Apple and/or its licensors, and is protected by applicable intellectual property and other laws, including but not limited to copyright. You agree that you will not use such proprietary information or materials in any way whatsoever except for use of the Services for personal, noncommercial uses in compliance with this Agreement. No portion of the Services may be reproduced in any form or by any means, except as expressly permitted by this Agreement. You agree not to modify, rent, loan, sell, or distribute the Services or Content in any manner, and you shall not exploit the Services in any manner not expressly authorized.
 
-The Apple name, the Apple logo, iTunes, iTunes Store, App Store, iBooks Store, Apple Music, and other Apple trademarks, service marks, graphics, and logos used in connection with the Services are trademarks or registered trademarks of Apple in the U.S. and other countries throughout the world. You are granted no right or license with respect to any of the aforesaid trademarks.
+The Apple name, the Apple logo, iTunes, iTunes Store, App Store, Apple Books, Apple Music, and other Apple trademarks, service marks, graphics, and logos used in connection with the Services are trademarks or registered trademarks of Apple in the U.S. and other countries throughout the world. You are granted no right or license with respect to any of the aforesaid trademarks.
 
 COPYRIGHT NOTICE
 
@@ -226,7 +230,7 @@ If you believe that any Content available through the Services infringe a copyri
 
 \- App Store: https://www.apple.com/legal/internet-services/itunes/appstorenotices/
 
-\- iBooks Store: https://www.apple.com/legal/internet-services/itunes/ibooksstorenotices
+\- Apple Books: https://www.apple.com/legal/internet-services/itunes/applebooksnotices/
 
 \- Apple Music: https://www.apple.com/legal/trademark/claimsofcopyright.html
 
@@ -278,4 +282,4 @@ You hereby grant Apple the right to take steps Apple believes are reasonably nec
 
 Children under the age of majority should review this Agreement with their parent or guardian to ensure that the child and parent or legal guardian understand it.
 
-Last Updated: September 13, 2016
+Last Updated: September 17, 2018
