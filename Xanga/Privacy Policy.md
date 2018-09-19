@@ -10,13 +10,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   No link for asking private questions
     *   by catseye\_night
-    *   1 day ago
+    *   2 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   How do I download my archived posts?
     *   by cillypiggy
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -76,7 +76,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   I can't find my old posts
     *   by UnraveledSelf
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
