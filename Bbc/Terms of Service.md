@@ -1,6 +1,6 @@
 Terms of Use Terms of Use for the BBC’s digital services
 
-Page updated: 3 July 2018 Version 1.4
+Page updated: 20 September 2018 Version 1.4
 
 *   Download the Terms of Use as a PDF
 
@@ -19,7 +19,7 @@ Sections
 *   Shareables - what you can't do
 *   Shareables - what you have to do
 *   Shareables - a thing we have to say
-*   Open-source software, open data and APIs
+*   Open-source software and open data
 *   Metadata
 *   Creations - what they are
 *   Creations - the terms
@@ -47,12 +47,6 @@ We’ve kept them as short as possible, and we’ve made videos for the complica
 Back to top When these terms apply
 
 Read these terms before using our services. Whenever you use our services you agree to these terms.
-
-You’re also agreeing to stick to our:
-
-*   Privacy and cookies policy
-
-Read it too.
 
 If you don’t stick to all these terms then we can suspend or terminate your use of services and your account.
 
@@ -210,7 +204,7 @@ So you’ll have to ask them if you can use it. Except under certain circumstanc
 *   Read about the Educational Recording Agency licence here.
 *   Read about other copyright exceptions here.
 *   For shareables. The rules about shareables are here.
-*   For open-source code, open data and public APIs.
+*   For open-source code and open data.
 *   To download podcasts for personal use using our download button.
 *   You can download podcasts for personal use. You can also transfer podcasts between your devices. But don’t upload a podcast back to the internet from your device. Use the sharing buttons instead to tell your friends about it.
 *   To download BBC iPlayer programmes using our download button.
@@ -266,6 +260,8 @@ You can add the BBC News feed to your website or social media account. Provided:
 
 Read about how to set up a feed here.
 
+For BBC radio RSS feeds read this.
+
 **d. Post comments and views...**
 
 … about our shareables. That’s fine. Encouraged, even. Just as long as they’re not evil.
@@ -286,11 +282,16 @@ Here’s a list of things that may harm or offend:
 
 You can't charge others for using our shareables. If you put them on a site that charges for content, you have to say they’re free-to-view.
 
+We have a few extra rules if you want to use BBC radio RSS feeds so read this too.
+
 **c. Don’t make them more prominent than non-BBC content**
 
 Otherwise it might look like we’re endorsing you. Which we’re not allowed to do.
 
-Also, use shareables alongside other stuff. You can’t make a service of your own that contains only our shareables.  
+Also, use shareables alongside other stuff. You can’t make a service of your own that contains only our shareables.
+
+If you want to use BBC radio or podcast RSS feeds, we have a few more rules you should read. You can read more in the BBC Distribution Guidelines.
+
 Speaking of which…
 
 **d. Don’t exaggerate your relationship with the BBC**
@@ -334,7 +335,7 @@ Back to top Shareables - a thing we have to say
 
 Apart from what we’re responsible for when there’s a mishap, we’re not liable for anything that happens to you if you use a shareable.
 
-Back to top Open-source software, open data and APIs
+Back to top Open-source software and open data
 
 Some open-source software and open data are available as downloads and through APIs.
 
@@ -441,6 +442,8 @@ When you post, upload or contribute a creation, we can:
 
 **a. Use, host or store it in BBC services and content**
 
+So you might see your creation on TV, on BBC Online, social media or on other sites who have our permission to feature some of our content.
+
 **b. Copy, change or translate it, or make things inspired by it**
 
 We will only edit your news related content where necessary. Read about how we use your news related comments and creations here.
@@ -454,11 +457,15 @@ These might:
 *   Put your creations on display to inspire other people,
 *   Invite others to use your creation to make their own creation. 
 
-**d. Moderate it**
+**d. Share it to do research**
+
+We do research activities and sometimes collaborate with research partners. Every now and then we share our content and data with them. But we're careful about what we share and what our research partners can do with it.
+
+**e. Moderate it**
 
 Which means we can review, edit, remove or decide not to display it. And, if it breaks any laws, we can refer it to the police and other authorities.
 
-**e. And we can use it**
+**f. And we can use it**
 
 *   Anywhere in the world
 *   In any medium (for example TV, the internet, radio)
@@ -611,7 +618,6 @@ a. If you use a service on behalf of a business, that business agrees to these t
 b. As we said earlier, read these terms before using our services. When you use our services and content, you’re agreeing to:
 
 *   These terms of use
-*   Our privacy and cookies policy
 *   Any other terms we’ve let you know about.
 
 And those things replace all previous agreements between you and us about using our services or content.
@@ -622,7 +628,7 @@ d. English law governs these terms, and only English courts can make judgments a
 
 e. Our services and content are made available to you by the British Broadcasting Corporation, Broadcasting House, Portland Place, London, W1A 1AA.
 
-© BBC 2017
+© BBC 2018
 
 Back to top Choose language: CymraegGàidhlig
 
@@ -639,7 +645,7 @@ Back to top Choose language: CymraegGàidhlig
 *   Shareables - what you can't do
 *   Shareables - what you have to do
 *   Shareables - a thing we have to say
-*   Open-source software, open data and APIs
+*   Open-source software and open data
 *   Metadata
 *   Creations - what they are
 *   Creations - the terms
