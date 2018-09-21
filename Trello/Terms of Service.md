@@ -1,4 +1,4 @@
-Trello’s Terms of Service will be replaced with the Atlassian Cloud Terms of Service on November 1, 2018. Learn more about the changes here. Trello Terms of Service ACCEPTANCE OF TERMS
+Trello Terms of Service ACCEPTANCE OF TERMS
 
 IMPORTANT -- READ CAREFULLY: BY CREATING AN ACCOUNT OR BY UTILIZING THE TRELLO SERVICE YOU AGREE TO BE BOUND BY THESE TERMS AND CONDITIONS.
 
