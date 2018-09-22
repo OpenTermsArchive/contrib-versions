@@ -1,6 +1,6 @@
 Terms of Use Terms of Use for the BBC’s digital services
 
-Page updated: 20 September 2018 Version 1.4
+Page updated: 21 September 2018 Version 1.5
 
 *   Download the Terms of Use as a PDF
 
@@ -258,7 +258,7 @@ You can add the BBC News feed to your website or social media account. Provided:
 *   You credit us by saying it’s from BBC News, bbc.co.uk/news or bbc.com/news putting the text and hyperlink in a prominent place nearby
 *   You don’t add our branding, logos and so on, except for any branding that’s already embedded in the feed
 
-Read about how to set up a feed here.
+Read about how to set up a news feed here.
 
 For BBC radio RSS feeds read this.
 
@@ -337,9 +337,9 @@ Apart from what we’re responsible for when there’s a mishap, we’re not lia
 
 Back to top Open-source software and open data
 
-Some open-source software and open data are available as downloads and through APIs.
+Some open-source software and open data are available as downloads.
 
-Find out more on our open-source here and about our public APIs here.
+Find out more on our open-source here.
 
 When you access it, we’ll always let you know what terms apply.
 
@@ -468,7 +468,7 @@ Which means we can review, edit, remove or decide not to display it. And, if it 
 **f. And we can use it**
 
 *   Anywhere in the world
-*   In any medium (for example TV, the internet, radio)
+*   In any medium (for example TV, the internet, radio and apps)
 *   For as long as we want – even if you stop using our services.
 
 And anyone we work with can do those things too.
@@ -515,7 +515,7 @@ Back to top Your BBC Account
 
 **a. Registering for an account**
 
-You need an account to use some of our services, like personal recommendations and notifications.
+You need an account to use some of our services, like BBC iPlayer, personal recommendations and notifications.
 
 **b. Get your BBC account here.** 
 
