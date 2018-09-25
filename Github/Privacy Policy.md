@@ -198,7 +198,7 @@ If you have concerns about the way GitHub is handling your User Personal Informa
 
 You may also contact our Data Protection Officer directly.
 
-Our Data Protection Officer Our EU Office Hannah Poteat GitHub BV 88 Colin P. Kelly Jr. St. Vijzelstraat 68-72 San Francisco, CA 94107 1017 HL Amsterdam United States The Netherlands privacy@github.com privacy@github.com Dispute resolution process
+Our United States HQ Our EU Office GitHub Data Protection Officer GitHub BV 88 Colin P. Kelly Jr. St. Vijzelstraat 68-72 San Francisco, CA 94107 1017 HL Amsterdam United States The Netherlands privacy@github.com privacy@github.com Dispute resolution process
 
 In the unlikely event that a dispute arises between you and GitHub regarding our handling of your User Personal Information, we will do our best to resolve it. If we cannot, we have selected JAMS, an independent dispute resolution provider, to handle unresolved Privacy Shield complaints. If we are unable to resolve your concerns after a good faith effort to address them, you may contact JAMS and submit a Privacy Shield claim. JAMS is a US-based private alternate dispute resolution provider, and we have contracted with JAMS to provide an independent recourse mechanism for any of our users for privacy concerns **at no cost to you.** You do not need to appear in court. you may conduct this dispute resolution process via telephone or video conference. If you are not based in the EU or EEA, but you would still like to use the JAMS arbitration process to resolve your dispute, please let us know and we will provide access to you.
 
