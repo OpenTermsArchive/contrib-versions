@@ -42,9 +42,9 @@ Howdy! We are the folks behind a variety of products and services designed to al
 
 This Privacy Policy applies to information that we collect about you when you use:
 
-*   Our websites (including automattic.com, wordpress.com, vip.wordpress.com, jetpack.com, woocommerce.com, polldaddy.com, gravatar.com, intensedebate.com, vaultpress.com, and akismet.com);
+*   Our websites (including automattic.com, wordpress.com, vip.wordpress.com, jetpack.com, woocommerce.com, polldaddy.com, gravatar.com, intensedebate.com, vaultpress.com, akismet.com, simplenote.com, simperium.com, leandomainsearch.com, and cloudup.com);
 *   Our mobile applications (including the WordPress mobile app for Android and iOS);
-*   Our other products and services that are available on or through our websites (including WordPress.com plans, WordPress.com VIP, Jetpack, the WooCommerce Services Extension, Gravatar, the IntenseDebate comment management system, and Akismet plans). and
+*   Our other products and services that are available on or through our websites (including WordPress.com plans, WordPress.com VIP, Jetpack, the WooCommerce Services Extension, Gravatar, the IntenseDebate comment management system, Akismet plans, Simplenote, Simperium, and Cloudup). and
 *   Other users’ websites that use our Services, while you are logged in to your account with us.
 
 Throughout this Privacy Policy we’ll refer to our website, mobile applications and other products and services collectively as “Services.” And if you’d like to learn more about which Automattic company is the controller of information about you, take a look at the section below on Controllers and Responsible Companies.
@@ -235,6 +235,7 @@ That’s it! Thanks for reading.
 
 Change log
 
+*   _September 24, 2018:_ Included information for Simplenote, Simperium, Cloudup, and Lean Domain Search.
 *   _May 25, 2018:_ Added more specific information to help clarify our practices, included information for Polldaddy and Woocommerce.com services, and added information to reflect the requirements of the EU’s General Data Protection Regulation. 
 *   _January 3, 2018_ _:_ Revised and reorganized language throughout to help simplify the policy and clarify our practices.
 *   _August 22, 2017:_ Added “Information We Collect from Other Sources” section.
