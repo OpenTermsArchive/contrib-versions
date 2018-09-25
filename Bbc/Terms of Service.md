@@ -1,6 +1,6 @@
 Terms of Use Terms of Use for the BBC’s digital services
 
-Page updated: 21 September 2018 Version 1.5
+Page updated: 24 September 2018 Version 1.5
 
 *   Download the Terms of Use as a PDF
 
@@ -19,7 +19,7 @@ Sections
 *   Shareables - what you can't do
 *   Shareables - what you have to do
 *   Shareables - a thing we have to say
-*   Open-source software and open data
+*   Open-source software
 *   Metadata
 *   Creations - what they are
 *   Creations - the terms
@@ -258,9 +258,7 @@ You can add the BBC News feed to your website or social media account. Provided:
 *   You credit us by saying it’s from BBC News, bbc.co.uk/news or bbc.com/news putting the text and hyperlink in a prominent place nearby
 *   You don’t add our branding, logos and so on, except for any branding that’s already embedded in the feed
 
-Read about how to set up a news feed here.
-
-For BBC radio RSS feeds read this.
+Read about how to set up a BBC News feed here.
 
 **d. Post comments and views...**
 
@@ -335,9 +333,9 @@ Back to top Shareables - a thing we have to say
 
 Apart from what we’re responsible for when there’s a mishap, we’re not liable for anything that happens to you if you use a shareable.
 
-Back to top Open-source software and open data
+Back to top Open-source software
 
-Some open-source software and open data are available as downloads.
+Some open-source software is available as downloads.
 
 Find out more on our open-source here.
 
@@ -645,7 +643,7 @@ Back to top Choose language: CymraegGàidhlig
 *   Shareables - what you can't do
 *   Shareables - what you have to do
 *   Shareables - a thing we have to say
-*   Open-source software and open data
+*   Open-source software
 *   Metadata
 *   Creations - what they are
 *   Creations - the terms
