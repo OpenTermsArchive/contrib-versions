@@ -4,25 +4,6 @@
 *   Nitro
 *   Jobs
 *   Developers
-*   Community
-*   Blog
-*   Support
-
-*   English, USA
-*   繁體中文
-*   Français
-*   Deutsch
-*   Italiano
-*   日本語
-*   한국어
-*   Português do Brasil
-*   Русский
-*   Español
-
-*   Download
-*   Nitro
-*   Jobs
-*   Developers
     *   Developer Portal
     *   Rich Presence
     *   Open Source
@@ -39,6 +20,25 @@
     *   Security
 
 *   Login
+
+*   English, USA
+*   繁體中文
+*   Français
+*   Deutsch
+*   Italiano
+*   日本語
+*   한국어
+*   Português do Brasil
+*   Русский
+*   Español
+
+*   Download
+*   Nitro
+*   Jobs
+*   Developers
+*   Community
+*   Blog
+*   Support
 
 *   English, USA
 *   繁體中文
