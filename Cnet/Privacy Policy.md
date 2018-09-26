@@ -76,9 +76,9 @@ Welcome to the network of interactive services provided by CBS Interactive Inc.,
     *   Upon request, your bandwidth speed and information about the software programs installed on your computer including registry key information. and
     *   Standard server log information.
     
-    **Information we obtain from other sources**. Where permitted by applicable law, we may collect information about you from other sources, including through interactive applications (e.g., mobile devices, third party services, and embedded audio and video players), from co-branded partners and websites (e.g., on our Facebook pages), and from commercially available sources (e.g., data aggregators and public databases). The following are examples of information we may collect from other sources:
+    **Information we obtain from other sources**. Where permitted by applicable law, we may collect information about you from other sources, including through interactive applications (e.g., mobile devices, third party services, and embedded audio and video players), from co-branded partners and websites (e.g., on our Facebook pages), from our advertisers, and from commercially available sources (e.g., data aggregators and public databases). The following are examples of information we may collect from other sources:
     
-    *   Name, postal address, and telephone number;
+    *   Name, email address, postal address, and telephone number;
     *   Demographic data, such as age, gender, and income level;
     *   If you access third party services (e.g., Facebook, Google+ or Twitter) through a CBS Interactive Service, or if you access a CBS Interactive Service via a third party service, your username and password for those services and other information available about or collected from you on those services, as described in our overview of Video Services and Social Networking Policy
     *   Your interests and purchase behavior;
@@ -87,7 +87,7 @@ Welcome to the network of interactive services provided by CBS Interactive Inc.,
     
     This Privacy Policy does not cover the practices of third parties, including those that may disclose information to CBS Interactive.
     
-    **Combining Information**. Please note that all of the information we collect about you may be combined, including to help us tailor our communications to you and to develop rich online content and services across the CBS Interactive Services. Your specific consent will be obtained where it is required by law.
+    **Combining Information**. Please note that all of the information we collect about you may be combined, including to help us tailor our communications to you, provide online advertising based on your interests, and to develop rich online content and services across the CBS Interactive Services. Your specific consent will be obtained where it is required by law.
     
 « Back To Top »3.  Use of Information
     
