@@ -581,7 +581,7 @@ Need assistance? Call 1-866-819-1239 or Chat Now.
 
 Sorry, we're having trouble locating
 
-To ensure you’re in a Windstream service area, please speak to one of our representatives.
+To ensure you're in a Windstream service area, please speak to one of our representatives.
 
 1-866-819-1239
 
