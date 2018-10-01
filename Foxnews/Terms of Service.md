@@ -1,10 +1,10 @@
-Terms of Use Fox News Network, LLC Terms of Use Agreement
+Fox News Network, LLC Terms of Use Agreement
 
 Effective as of October 26, 2016
 
 **Description of Company Services and Acceptance of Terms of Use Including Arbitration of Disputes**
 
-Fox News Network, LLC ("Company," "we" or "us") has developed these Terms of Use to describe the terms that govern your use of foxnews.com, foxbusiness.com, foxnation.com, foxnews.mobi, m.foxbusiness.com, the Fox News iOs application, the Fox Business iOs application, the Fox News Andriod application, the Fox Business Android application and any Company branded URL, WAP site and mobile application and other content and services that link to these Terms of Use (collectively the "Company Sites"). The services Company provides on Company Sites include messaging services, video services, RRS feeds, podcasting services, mobile services, text messaging campaigns, and any other feature, content or application offered from time to time by Company (collectively, the "Company Services"). Company is based in the United States and the Company Services are hosted in the United States. Company is a part of the United States based operations Twenty-First Century Fox, Inc.
+Fox News Network, LLC ("Company, "we" or "us") has developed these Terms of Use to describe the terms that govern your use of foxnews.com, foxbusiness.com, foxnation.com, foxnews.mobi, m.foxbusiness.com, the Fox News iOs application, the Fox Business iOs application, the Fox News Andriod application, the Fox Business Android application and any Company branded URL, WAP site and mobile application and other content and services that link to these Terms of Use (collectively the "Company Sites"). The services Company provides on Company Sites include messaging services, video services, RRS feeds, podcasting services, mobile services, text messaging campaigns, and any other feature, content or application offered from time to time by Company (collectively, the "Company Services"). Company is based in the United States and the Company Services are hosted in the United States. Company is a part of the United States based operations Twenty-First Century Fox, Inc.
 
 Company furnishes the Company Sites and the Company Services for your personal enjoyment and entertainment. By visiting the Company Sites (whether or not you are a registered member) or using the Company Services, you accept and agree to be bound by this Agreement, including any future modifications ("Agreement"), and to abide by all applicable laws, rules and regulations ("Applicable Law"). Please read through this Agreement carefully. Company may modify this Agreement at any time, and each such modification will be effective upon posting on the Company Sites. All material modifications will apply prospectively only. Your continued use of the Company Sites or the Company Services following any modification of this Agreement constitutes your acceptance of and agreement to be bound by the Agreement as modified. It is therefore important that you review this Agreement regularly. If you do not agree to be bound by this Agreement and to abide by all Applicable Law, you must discontinue use of the Company Services immediately.
 
@@ -52,7 +52,7 @@ You understand that you are responsible for all Content that you post, upload, t
 
 You agree not to use the Company Services to:
 
-\- Post, upload or otherwise transmit or link to Content that is: unlawful. threatening. abusive. obscene. vulgar. sexually explicit. pornographic or inclusive of nudity. offensive. excessively violent. invasive of another's privacy, publicity, contract or other rights. tortious. false or misleading. defamatory. libelous. hateful. or discriminatory.
+\- Post, upload or otherwise transmit or link to Content that is: unlawful. threatening. abusive. obscene. vulgar. sexually explicit. pornographic or inclusive of nudity. offensive. excessively violent. invasive of another's privacy, publicity, contract or other rights. tortious. false or misleading. defamatory. libelous. hateful. or discriminatory;
 
 \- Violate the rights of others including patent, trademark, trade secret, copyright, privacy, publicity or other proprietary rights;
 
@@ -68,7 +68,7 @@ You agree not to use the Company Services to:
 
 \- Interfere with, damage, disable, disrupt, impair, create an undue burden on, or gain unauthorized access to the Company Services, including Company's servers, networks or accounts;
 
-\- Cover, remove, disable, block or obscure advertisements or other portions of the Company Services.
+\- Cover, remove, disable, block or obscure advertisements or other portions of the Company Services;
 
 \- Delete or revise any information provided by or pertaining to any other user of the Company Services;
 
@@ -184,7 +184,7 @@ Software available in connection with the Company Services is further subject to
 
 (2) This Agreement evidences a transaction in interstate commerce, and thus the Federal Arbitration Act, 9 U.S.C. §§ 1-16, governs the interpretation and enforcement of this Arbitration Agreement. This Arbitration Agreement shall survive termination of this Agreement.
 
-(3) Any arbitration between you and Company will be conducted by the Judicial Arbitration and Mediation Services, Inc. ("JAMS"), pursuant to the JAMS Streamlined Arbitration Rules &. Procedures effective July 1, 2014 (the "JAMS Rules"), as modified by this agreement to arbitrate. The arbitration shall be conducted by a single, neutral arbitrator, and if you and Company cannot agree on who that single arbitrator will be, the arbitrator will be appointed pursuant to the JAMS Rules, with the participation and involvement of Company and you pursuant to JAMS Rule 12. The JAMS Rules are available on its website at //www.jamsadr.com/rules-streamlined-arbitration/. The Consumer Arbitration Minimum Standards are available at //www.jamsadr.com/consumer-arbitration/. The arbitrator is bound by the terms of this Agreement.
+(3) Any arbitration between you and Company will be conducted by the Judicial Arbitration and Mediation Services, Inc. ("JAMS"), pursuant to the JAMS Streamlined Arbitration Rules &. Procedures effective July 1, 2014 (the "JAMS Rules"), as modified by this agreement to arbitrate. The arbitration shall be conducted by a single, neutral arbitrator, and if you and Company cannot agree on who that single arbitrator will be, the arbitrator will be appointed pursuant to the JAMS Rules, with the participation and involvement of Company and you pursuant to JAMS Rule 12. The JAMS Rules are available on its website at //www.jamsadr.com/consumer-arbitration/ . The Consumer Arbitration Minimum Standards are available at //www.jamsadr.com/consumer-arbitration/. The arbitrator is bound by the terms of this Agreement.
 
 (4) If either you or Company wants to arbitrate a claim, you or Company must first send by mail to the other a written Notice of Dispute ("Notice") that sets forth the name, address, and contact information of the party giving notice, the specific facts giving rise to the Dispute, the Company Service to which the Notice relates, and the relief requested. Your Notice to the Company must be sent by mail to Arbitration Notice of Dispute, 2121 Avenue of the Stars, 7th Floor, Los Angeles, California, 90067. The Company will send any Notice to you at the contact information we have for you or that you provide. It is the sender's responsibility to ensure that the recipient receives the Notice. During the first 45 days after you or we send a Notice to the other, you and we may try to reach a settlement of the Dispute.
 
