@@ -6,8 +6,6 @@
 *   denver, CO 80201
 *   Search
 
-Popular Searches
-
 *   Allstate
 *   *   We help customers realize their hopes and dreams by providing the best products and services to protect them from life's uncertainties and prepare them for the future.
 
@@ -68,9 +66,7 @@ Popular Searches
 
 *   Connect With Us
 
-Toggle navigation Log in
-
-Popular Searches
+Toggle navigation Log in Search Close Navigation
 
 *   Get a Quote
     
@@ -492,4 +488,4 @@ denver, CO
 Oops! You have entered an invalid ZIP. Please try again. Location data not available. Please enter zip code. Please Wait...Updating Location...  
 It's taking a bit longer than expected. Your update should be done soon. This feature is not currently available.  
 Please try again later.  
-ECC Monitor: OK
+". ECC Monitor: OK
