@@ -5,7 +5,7 @@
 *   Careers
 
 *   Main Menu
-*   Our Stories
+*   OUR STORIES
 *   Our Stories Home
 *   Commitment
 *   Culture
@@ -19,7 +19,7 @@ General Motors Engineer Guides Award-Winning Girls’ Robotic Team
 Read the Story
 
 *   Main Menu
-*   Our Company
+*   OUR COMPANY
 *   About GM
 *   Leadership
 *   Sustainability
