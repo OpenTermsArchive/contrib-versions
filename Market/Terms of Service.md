@@ -57,7 +57,7 @@ How buying items works This section will help you understand what you are buying
 
 1.  **Item price**: The item price is made up of a license fee (for the license you choose for the item), and if relevant the item support fee (for supported items).
 2.  **Buyer fee**: This is the fee for the buyer services you get from Envato.
-3.  **Handling fee**: In some transactions on Envato Market the total price may include a handling fee.
+3.  **Handling fee**: In some transactions on Envato Market the total checkout price may include a handling fee.
 4.  **Taxes**: Some transactions on Envato Market may be subject to tax that may be added to the price. See **section 23** for details about taxes on Envato Market.
 
 The **list price** is made up of the item price and buyer fee, and is the price you see on an item page. Transacting as a buyer:
@@ -81,7 +81,7 @@ This means that you may incur additional costs when purchasing from Envato Marke
 3.  we and the authors do not promise that any particular item will continue to be available on Envato Market so you should download and save the item as soon as you buy it.
 4.  once you buy or download an item and the item has been paid for, you acquire a non-exclusive license to use the item under the terms set out in the license (non-exclusive means others might also license the same item).
 5.  the author retains ownership of the item.
-6.  your relevant details may be provided to the author of the item in order to facilitate the transaction, for example for invoicing and item support services.
+6.  your relevant details may be provided to the author of the item in order to facilitate the transaction, for example for invoicing and item support services. and
 7.  we have the right to enforce against you the terms of the license that you have acquired from an author.
 
 It is important that you understand the terms on which you are making a purchase. Please take the time to review this section carefully. See our Help Center article for information about account limits.
@@ -145,7 +145,7 @@ To find out more about how to become an author visit the ‘Author Help Center�
 
 32\. **What we own**: We own all the **Envato content** that we have put on Envato Market (unless otherwise stated and excluding content owned by others). This includes the design, compilation, and look and feel of the Envato Market sites, and copyright, trademarks, designs and other intellectual property on Envato Market. We own all the trademarks, logos, service marks and trade names on Envato Market (unless otherwise stated and excluding these things owned by others). You will not copy, distribute, modify or make derivative works of any of our Envato Content or use any of our intellectual property in any way not expressly stated in these terms.
 
-33\. **What we don’t own**: We do not own the items on Envato Market. our authors do. Items are uploaded at the direction of the author. So we cannot take responsibility for the quality, safety or legality of the items. We do not warrant that the items or any member content, code, data or materials available on or via the Envato Market do not infringe the intellectual property rights of a third party. (Each author provides promises to you directly when you purchase their item – see **section 23 - Warranties authors make**.)
+33\. **What we don’t own**: We do not own the items on Envato Market. our authors do. Items are uploaded at the direction of the author. So we cannot take responsibility for the quality, safety or legality of the items. We do not warrant that the items or any member content, code, data or materials available on or via the Envato Market do not infringe the intellectual property rights of a third party. (Each author provides promises to you directly when you purchase their item – see **section 22 - Warranties authors make**.)
 
 34\. **Copyright, trademark and intellectual property claims**: We respect the intellectual property rights of others and we require that authors do the same. If you believe that an item or member content infringes an intellectual property right (including copyright) please see the information in our Intellectual Property Policy.
 
