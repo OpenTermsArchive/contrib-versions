@@ -16,13 +16,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Can't see all my old post
     *   by mandy0124
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can't see all my old post
     *   by mandy0124
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -34,7 +34,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Help Migrate me!
     *   by london\_raincoats
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
