@@ -222,3 +222,8 @@ Foursquare may amend this Privacy Policy from time to time. We encourage you to 
 Contact Us
 
 If you have any questions or concerns regarding this Privacy Policy, please send a detailed message to: privacy@foursquare.com or Foursquare Labs, Inc., 50. West 23rd Street, 8th Floor, New York, NY 10010. We will make every effort to resolve your concerns.
+
+Verasafe has been appointed as Foursquare’s representative in the European Union for data protection matters, pursuant to Article 27 of the General Data Protection Regulation of the European Union. Verasafe can be contacted, in addition to Foursquare, for matters related to the processing of your personal data only. To make such an inquiry, please contact VeraSafe:
+
+*   online: https://www.verasafe.com/privacy-services/contact-article-27-representative/. or
+*   by mail: VeraSafe Ireland Ltd., Unit 3D North Point House, North Point Business Park, New Mallow Road, Cork T23AT2P, Ireland
