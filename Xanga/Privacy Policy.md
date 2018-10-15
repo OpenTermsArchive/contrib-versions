@@ -8,9 +8,15 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Retrieve old photos
+    *   by twinklingstar\_yin
+    *   19 hours ago
+    *   in Pictures
+    *   0 votes
+    *   0
 *   No link for asking private questions
     *   by catseye\_night
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Miscellaenous
     *   0 votes
     *   0
@@ -77,12 +83,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 *   I can't find my old posts
     *   by UnraveledSelf
     *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Can’t see my old post
-    *   by kawailoveyou
-    *   2 months ago
     *   in Data Migration
     *   0 votes
     *   0
