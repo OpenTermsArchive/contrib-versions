@@ -1,4 +1,4 @@
-Wix.com Privacy Policy Effective Date: May 10, 2018
+Wix.com Privacy Policy Effective Date: October 17, 2018
 
 Welcome to Wix.com’s Privacy Policy!
 
@@ -182,9 +182,9 @@ You are responsible for the security, integrity and authorized usage of your Use
 
 Wix cannot provide legal advice to Users or their Users-of-Users, however we do recommend that all Users publish and maintain clear and comprehensive privacy policies on their User Websites, in accordance with the applicable laws and regulations, and that all Users-of-Users carefully read those policies and make sure that they consent to them.
 
-For more information on how Users-of-Users Information may be handled by Wix (which may be relevant for the specific notice you provide to and/or consent you obtain from your Users-of-Users), please see Sections ‎8, ‎12 and ‎13 below.
+For more information on how Users-of-Users Information may be handled by Wix (which may be relevant for the specific notice you provide to and/or consent you obtain from your Users-of-Users), please see Sections ‎8, ‎13 and ‎14 below.
 
-If you are a visitor, user or customer of any of our Users, please read the following: Wix has no direct relationship with the individual Users-of-Users whose Personal Information it processes. If you are a visitor, user or customer of any of our Users, and would like to make any requests or queries regarding your Personal Information, please contact such User(s) directly. For example, if you wish to access, correct, amend, or delete inaccurate information processed by Wix on behalf of its Users, please direct your query to the relevant User (who is the “Controller” of such data). If requested to remove any Users-of-Users’ Personal Information, we will respond to such request within thirty (30) days. Unless otherwise instructed by our User, we will retain their Users-of-Users’ Personal Information for the period set forth in Section ‎12 below.
+If you are a visitor, user or customer of any of our Users, please read the following: Wix has no direct relationship with the individual Users-of-Users whose Personal Information it processes. If you are a visitor, user or customer of any of our Users, and would like to make any requests or queries regarding your Personal Information, please contact such User(s) directly. For example, if you wish to access, correct, amend, or delete inaccurate information processed by Wix on behalf of its Users, please direct your query to the relevant User (who is the “Controller” of such data). If requested to remove any Users-of-Users’ Personal Information, we will respond to such request within thirty (30) days. Unless otherwise instructed by our User, we will retain their Users-of-Users’ Personal Information for the period set forth in Section ‎13 below.
 
 #ItsThatEasy
 
@@ -344,7 +344,7 @@ If you are a Wix Visitor or User, and you wish to receive a copy, access and/or
 
 ​
 
-We will make all reasonable efforts to honor your request promptly (unless we require further information from you in order to fulfil your request), subject to legal and other permissible considerations. You may also correct, update or remove certain parts of such Personal Information by yourself, through your User Account or User Website settings.
+We will make all reasonable efforts to honor your request promptly (unless we require further information from you in order to fulfil your request), subject to legal and other permissible considerations.
 
 ​
 
@@ -358,7 +358,23 @@ You can delete your Personal Information by deleting  your entire account. 
 
 We will respond to your requests within a reasonable timeframe.
 
-12\. Data Retention
+12\. Questions and Complaints
+
+If you have any questions or concerns about our collection, use or disclosure of Personal Information, or if you believe we have not complied with this Privacy Policy or applicable data protection laws, please contact us – our details are set out at the end of this Privacy Policy.
+
+Our Data Protection Officer team will investigate the complaint and determine whether a breach has occurred and what action, if any, to take.
+
+We take every privacy complaint seriously and will make all reasonable efforts to resolve your complaint promptly.  Our target response time is 30 days.
+
+We expect our procedures will deal fairly and promptly with your complaint. However, if you remain dissatisfied, you can also make a complaint with your local supervisory authority for data protection.
+
+You can file a complaint with your local supervisory authority for data protection at any time, however we recommend that you contact us first so we can try to resolve it.
+
+#ItsThatEasy
+
+You can file a complaint with your local supervisory authority for data protection at any time.  Please contact us first so we can try to resolve your concerns.
+
+13\. Data Retention
 
 We may retain your Personal Information (as well as your Users-of-Users’ Information) for as long as your User Account is active, as indicated in this Privacy Policy or as otherwise needed to provide you with our Services.
 
@@ -370,7 +386,7 @@ We maintain a data retention policy which we apply to information in our care. W
 
 We may keep your information for as long as your account is active, and longer as needed (for example, if we are legally obligated to keep it longer, or need it to protect our interests).
 
-13\. Security
+14\. Security
 
 Wix has implemented security measures designed to protect the Personal Information you share with us, including physical, electronic and procedural measures. Among other things, we offer HTTPS secure access to most areas on our Services. the transmission of sensitive payment information (such as a credit card number) through our designated purchase forms is protected by an industry standard SSL/TLS encrypted connection. and we regularly maintain a PCI DSS (Payment Card Industry Data Security Standards) certification. We also regularly monitor our systems for possible vulnerabilities and attacks, and regularly seek new ways and Third Party Services for further enhancing the security of our Services and protection of our Visitors’ and Users’ privacy.
 
@@ -386,7 +402,7 @@ We are committed to securing your personal information, and use various security
 
 However, as we can’t guarantee absolute protection – we encourage you to be careful, set a strong password for your account, and avoid submitting any sensitive information which, if exposed, could cause you major harm.
 
-14\. Public forums and user content
+15\. Public forums and user content
 
 Our Services offer publicly accessible blogs, communities and support forums. Please be aware that any information you provide in any such areas may be read, collected, and used by others who access them. To request removal of your Personal Information from our blogs, communities or forums, feel free to contact us at: privacy@wix.com. In some cases, we may not be able to remove your Personal Information from such areas. For example, if you use a third party application to post a comment (e.g., the Facebook social plugin application) while logged in to your related profile with such third party, you must login into such application or contact its provider if you want to remove the Personal Information you posted on that platform.
 
@@ -400,7 +416,7 @@ We have put adequate security measures in place to protect your Personal Informa
 
 Avoid posting any information to any of the public areas on our Services, or to your own website, if you don’t want it to become publicly available.
 
-15\. Updates and interpretation
+16\. Updates and interpretation
 
 We may update this Privacy Policy as required by applicable law, and to reflect changes to our information collection, usage and storage practices. If we make any changes that we deem as “material” (in our sole good faith discretion), we will notify you (using one of the notification methods set forth in Section 15.3 of the Terms of Use) prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
@@ -420,13 +436,13 @@ Only the left column is legally binding (this column is just for clarity).
 
 Translated (non-English) versions of these terms are provided for convenience only.
 
-16. Contacting us
+17. Contacting us
 
-If you have any questions about this Privacy Policy or wish to exercise any of your rights as described in Section 11, please contact us the Data Protection Officer team at privacy@wix.com. We will attempt to resolve any complaints regarding the use of your Personal Information in accordance with this Privacy Policy.
+If you have any questions about this Privacy Policy or wish to exercise any of your rights as described in Section 11, please contact the Data Protection Officer team at privacy@wix.com. We will attempt to resolve any complaints regarding the use of your Personal Information in accordance with this Privacy Policy.
 
-​
+You may also contact us by mail at: 40 Namal Tel Aviv St., Tel Aviv, Israel, at Wix.com Inc. , 500 Terry A. Francois Boulevard, 6th Floor, San Francisco, CA, 94158.
 
-You may also contact us by mail at: 40 Namal Tel Aviv St., Tel Aviv, Israel, at Wix.com Inc. , 500 Terry A. Francois Boulevard, 6th Floor, San Francisco, CA, 94158, or at Wix.com Luxembourg S.a.r.l, 5, rue Guillaume Kroll, L-1882 Luxembourg.
+For the purposes of GDPR (Article 27), you may contact our EU representative at Wix Online Platforms Limited, 1 Grant’s Row, Dublin 2 D02HX96, Ireland.
 
 #ItsThatEasy
 
