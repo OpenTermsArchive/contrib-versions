@@ -234,8 +234,9 @@ Software available in connection with the Service and the transmission of applic
 
 IOS APPLICATIONS
 
-The following additional terms and conditions apply with respect to any App that the Company provides to you designed for use on an Apple iOS-powered mobile device (an “iOS App”): - You acknowledge that these Terms are between you and Discord only, and not with Apple, Inc. (“Apple”).
+The following additional terms and conditions apply with respect to any App that the Company provides to you designed for use on an Apple iOS-powered mobile device (an “iOS App”):
 
+*   You acknowledge that these Terms are between you and Discord only, and not with Apple, Inc. (“Apple”).
 *   Your use of the Company’s iOS App must comply with Apple’s then-current App Store Terms of Service.
 *   The Company, and not Apple, are solely responsible for our iOS App and the Services and Content available thereon. You acknowledge that Apple has no obligation to provide maintenance and support services with respect to our iOS App. To the maximum extent permitted by applicable law, Apple will have no warranty obligation whatsoever with respect to our iOS App.
 *   You agree that the Company, and not Apple, are responsible for addressing any claims by you or any third-party relating to our iOS App or your possession and/or use of our iOS App.
