@@ -1,6 +1,6 @@
 Privacy Policy
 
-_Effective as of October 15, 2018_
+_Effective as of October 17, 2018_
 
 Table of Contents:
 
@@ -37,7 +37,7 @@ PLEASE READ THIS PRIVACY POLICY AND THE RELATED TERMS OF USE LOCATED AT www.foxn
 
 1) Scope and Application
 
-Fox News Network, LLC ("Fox News" or "we" or “our”) wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected, used or shared through services such as websites, mobile sites, applications ("apps"), and widgets (collectively, the "Fox News Services"). By using Fox News Services, you agree to the terms and conditions of this Privacy Policy. A list of our affiliated companies ("Company Affiliates") is available at www.21cf.com.
+Fox News Network, LLC ("Fox News" or "we" or “our”) wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected, used or shared through services such as websites, mobile sites, applications ("apps"), and widgets (collectively, the "Fox News Services") (unless a different policy is provided on a particular website or app, in which case such different policy shall control data collected through that particular website or app). By using Fox News Services, you agree to the terms and conditions of this Privacy Policy. A list of our affiliated companies ("Company Affiliates") is available at www.21cf.com.
 
 As set forth in our Terms of Use, the Fox News Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age.
 
