@@ -45,11 +45,9 @@ Read the Story
 *   FAQs
 *   Contacts
 
-Commitment
+Honda Joins with Cruise and General Motors to Build New Autonomous Vehicle
 
-Softbank to invest $2.25 Billion in GM Cruise
-
-Read the Article
+Learn More
 
 *   Shop
 *   Owners
