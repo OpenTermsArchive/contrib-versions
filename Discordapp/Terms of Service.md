@@ -52,11 +52,11 @@
 *   Русский
 *   Español
 
-Hey there! These are our new Terms of Service that we're putting in place with the launch of the Discord store! If you're signing up for a new account, purchasing a game, downloading a game, or subscribing to Nitro, these Terms apply to you. For everyone else, these Terms will go into effect on October 23, 2018.
+Hey there! These are our new Terms of Service that we're putting in place with the launch of the Discord store! If you're signing up for a new account, purchasing a game, downloading a game, or subscribing to Nitro, these Terms apply to you. For everyone else, these Terms will go into effect on November 2, 2018.
 
 Discord Terms of Service
 
-Last modified: October 16, 2018.
+Last modified: October 19, 2018.
 
 IMPORTANT NOTICE: THESE TERMS OF SERVICE CONTAIN A BINDING ARBITRATION PROVISION AND CLASS ACTION WAIVER. IT AFFECTS YOUR LEGAL RIGHTS AS DETAILED IN THE DISPUTE RESOLUTION AND CLASS ACTION WAIVER SECTION BELOW. PLEASE READ CAREFULLY.
 
@@ -68,7 +68,7 @@ The Company reserves the right to update these Terms, which we may do for reason
 
 RIGHTS TO USE THE SERVICE
 
-The Service provides a chat and social platform. The Service may allow you to participate in public and private chat rooms and to utilize messaging features to communicate with other users of the Service. The Service may also allow you to access certain software and/or other content that is available to purchase from the Company. Subject to your compliance with these Terms, the Company grants you a limited, revocable, non-exclusive, non-transferable, non-sublicensable license to use and access the Service. You agree not to (and not to attempt to) (i) use the Service for any use or purpose other than as expressly permitted by these Terms;(ii) copy, adapt, modify, prepare derivative works based upon, distribute, license, sell, transfer, publicly display, publicly perform, transmit, stream, broadcast, attempt to discover any source code, reverse engineer, decompile, dissemble, or otherwise exploit the Service or any portion of the Service, except as expressly permitted in these Terms. or (iii) use data mining, robots, spiders, or similar data gathering and extraction tools on the Service. No licenses or rights are granted to you by implication or otherwise under any intellectual property rights owned or controlled by the Company or its licensors, except for the permissions and rights expressly granted in these Terms.
+The Service provides a chat and social platform. The Service may allow you to participate in public and private chat rooms and to utilize messaging features to communicate with other users of the Service. The Service may also allow you to access certain software and/or other content that is available to purchase from the Company. Subject to your compliance with these Terms, the Company grants you a limited, revocable, non-exclusive, non-transferable, non-sublicensable license to use and access the Service solely for your personal, non-commercial use, unless we agree to your commercial use in writing. You agree not to (and not to attempt to) (i) use the Service for any use or purpose other than as expressly permitted by these Terms;(ii) copy, adapt, modify, prepare derivative works based upon, distribute, license, sell, transfer, publicly display, publicly perform, transmit, stream, broadcast, attempt to discover any source code, reverse engineer, decompile, dissemble, or otherwise exploit the Service or any portion of the Service, except as expressly permitted in these Terms. or (iii) use data mining, robots, spiders, or similar data gathering and extraction tools on the Service. No licenses or rights are granted to you by implication or otherwise under any intellectual property rights owned or controlled by the Company or its licensors, except for the permissions and rights expressly granted in these Terms.
 
 The Company reserves the right to modify or discontinue, temporarily or permanently, the Service (or any part thereof) with or without notice. The Company reserves the right to refuse any user access to the Services without notice for any reason, including but not limited to a violation of the Terms. If you violate these Terms, the Company reserves the right to issue you a warning regarding the violation or immediately terminate or suspend any or all Accounts you have created using the Service. You agree that the Company need not provide you notice before terminating or suspending your Account(s), but it may do so.
 
@@ -198,6 +198,8 @@ Cancellation. You may cancel your Nitro subscription at any time, and you will c
 
 DISPUTE RESOLUTION
 
+THIS SECTION AND THE NEXT SECTION ONLY APPLIES TO YOU IF YOU ARE A UNITED STATES RESIDENT.
+
 PLEASE READ THIS SECTION CAREFULLY - IT MAY SIGNIFICANTLY AFFECT YOUR LEGAL RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT.
 
 You and Discord agree that these Terms affect interstate commerce and that the Federal Arbitration Act governs the interpretation and enforcement of these arbitration provisions.
@@ -214,19 +216,27 @@ The arbitration shall be conducted by a single arbitrator, governed by the rules
 
 To the extent the filing fee for the arbitration exceeds the cost of filing a lawsuit, Discord will pay the additional cost. Discord shall also bear the cost of any arbitration fees, unless the arbitrator finds your claims, defenses, or other fee-generating activity to be asserted or conducted for an improper purpose or frivolous. You are responsible for all other additional costs that you may incur in the arbitration including, without limitation, attorney’s fees and expert witness costs unless Discord is specifically required to pay such fees under applicable law. The decision of the arbitrator will be in writing and binding and conclusive on Discord and you, and judgment to enforce the decision may be entered by any court of competent jurisdiction. Discord and you agree that dispositive motions, including without limitation motions to dismiss and motions for summary judgment, will be allowed in the arbitration. The arbitrator must follow these Terms of Service and can award the same damages and relief as a court, including injunctive or other equitable relief and attorney’s fees. Discord and you understand that, absent this mandatory arbitration provision, Discord and you would have the right to sue in court and have a jury trial. Discord and you further understand that, in some instances, the costs of arbitration could exceed the costs of litigation and that the right to discovery may be more limited in arbitration than in court.
 
-If Discord’s or your claim is solely for monetary relief of $10,000 or less and does not include a request for any type of equitable remedy, the party bringing the claim may choose whether the arbitration of the claim will be conducted, through a telephonic hearing, or by an in-person hearing under the JAMS Rules, solely based on documents submitted to the arbitrator. You or Discord may choose to pursue a claim in small claims court where jurisdiction and venue over you and Discord otherwise qualifies for such small claims court and where the claim does not include a request for any type of equitable relief. However, if you decide to pursue a claim in small claims court, you agree to still provide Discord with advance notice by email to disputes@discord.com and by U.S. Mail to Discord Inc., 444 De Haro Street #200, San Francisco, CA 94107.
+If Discord’s or your claim is solely for monetary relief of $10,000 or less and does not include a request for any type of equitable remedy, the party bringing the claim may choose whether the arbitration of the claim will be conducted, through a telephonic hearing, or by an in-person hearing under the JAMS Rules, solely based on documents submitted to the arbitrator.
 
-Opt-Out Right. You have the right to opt out and not be bound by the provisions requiring arbitration by sending written notice of your decision to opt out to Discord by email to arbitration-opt-out@discord.com. The notice must be sent within 30 days of this Terms of Service taking effect, or your account creation on the Service. If you do not opt out via this method, you will be bound to arbitrate disputes in accordance with the terms of these paragraphs. If you opt out of the provisions requiring arbitration, Discord will not be bound by them either. If any clause within this Arbitration Section is found to be illegal or unenforceable, that specific clause will be severed from this section, and the remainder of its provisions will be given full force and effect.
+You or Discord may choose to pursue a claim in small claims court where jurisdiction and venue over you and Discord otherwise qualifies for such small claims court and where the claim does not include a request for any type of equitable relief. However, if you decide to pursue a claim in small claims court, you agree to still provide Discord with advance notice by email to disputes@discord.com and by U.S. Mail to Discord Inc., 444 De Haro Street #200, San Francisco, CA 94107.
+
+Opt-Out Right. You have the right to opt out and not be bound by the provisions requiring arbitration by sending written notice of your decision to opt out to Discord by email to arbitration-opt-out@discord.com. The notice must be sent within 90 days of this Terms of Service taking effect, or your account creation on the Service. If you do not opt out via this method, you will be bound to arbitrate disputes in accordance with the terms of these paragraphs. If you opt out of the provisions requiring arbitration, Discord will not be bound by them either. If any clause within this Arbitration Section is found to be illegal or unenforceable, that specific clause will be severed from this section, and the remainder of its provisions will be given full force and effect.
 
 Survival. This Arbitration section shall survive any termination of your account or the Service.
 
 CLASS WAIVER
 
+THIS SECTION AND THE PREVIOUS SECTION ONLY APPLIES TO YOU IF YOU ARE A UNITED STATES RESIDENT.
+
 PLEASE READ THIS SECTION CAREFULLY. IT MAY SIGNIFICANTLY AFFECT YOUR LEGAL RIGHTS.
 
-Discord and you agree to resolve any dispute will be brought in an individual capacity, and not on behalf of, or as part of, any purported class, consolidated, or representative proceeding. The arbitrator cannot combine more than one person’s or entity’s claims into a single case, and cannot preside over any consolidated, class or representative proceeding (unless we agree otherwise). And, the arbitrator’s decision or award in one person’s or entity’s case can only impact the person or entity that brought the claim, not other Discord customers, and cannot be used to decide other disputes with other customers.
+Discord and you agree to resolve any dispute in an individual capacity, and not on behalf of, or as part of, any purported class, consolidated, or representative proceeding.
 
-If any court or arbitrator determines that the class/consolidated/representative action waiver set forth in this section is void or unenforceable for any reason or that arbitration can proceed on a class, consolidated, or representative basis, then the disputes, claims, or controversies will not be subject to arbitration and must be litigated in federal court located in San Francisco, California. This Class Action Waiver section shall survive any termination of your account or the Services.
+The arbitrator cannot combine more than one person’s or entity’s claims into a single case, and cannot preside over any consolidated, class or representative proceeding (unless we agree otherwise). And, the arbitrator’s decision or award in one person’s or entity’s case can only impact the person or entity that brought the claim, not other Discord customers, and cannot be used to decide other disputes with other customers.
+
+If any court or arbitrator determines that the class/consolidated/representative action waiver set forth in this section is void or unenforceable for any reason or that arbitration can proceed on a class, consolidated, or representative basis, then the disputes, claims, or controversies will not be subject to arbitration and must be litigated in federal court located in San Francisco, California.
+
+This Class Action Waiver section shall survive any termination of your account or the Services.
 
 INTERNATIONAL USE. EXPORT CONTROLS
 
