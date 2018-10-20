@@ -278,7 +278,6 @@ San Francisco, CA 94104
 ProductsGrammarly for MS Office  
 Grammarly Premium  
 Grammarly Native Apps  
-Plagiarism Checker  
 CompanyAbout  
 Affiliate  
 Careers &. Culture  
@@ -293,6 +292,7 @@ ServicesGrammarly EDU
 Grammarly Business  
 Handbook  
 Grammar Checker  
+Plagiarism Checker  
 CommunityFacebook  
 Instagram  
 Twitter  
