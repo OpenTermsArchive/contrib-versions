@@ -8,15 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Old post question
+    *   by starletnites
+    *   1 hour ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Can't Reset Password, Old Email Address No Longer Exists
     *   by hyunwoo\_likes\_ramen
-    *   3 days ago
+    *   4 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Retrieve old photos
     *   by twinklingstar\_yin
-    *   6 days ago
+    *   1 week ago
     *   in Pictures
     *   0 votes
     *   0
@@ -88,12 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   I can't find my old posts
     *   by UnraveledSelf
-    *   2 months ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Can’t see my old post
-    *   by kawailoveyou
     *   2 months ago
     *   in Data Migration
     *   0 votes
