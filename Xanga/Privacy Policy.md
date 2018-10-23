@@ -1,22 +1,28 @@
-Skip to toolbar
-
-*   Xanga
-
-*   Log In
-
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Old Xanga
+    *   by drown\_n\_5feet
+    *   2 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Old Xanga
+    *   by drown\_n\_5feet
+    *   2 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Old post question
     *   by starletnites
-    *   1 hour ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can't Reset Password, Old Email Address No Longer Exists
     *   by hyunwoo\_likes\_ramen
-    *   4 days ago
+    *   5 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -86,20 +92,8 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   MY OLD POSTS MISSING
-    *   by BonnerBlondie07
-    *   2 months ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   I can't find my old posts
-    *   by UnraveledSelf
-    *   2 months ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
-1 2 3 ... 190 Next
+1 2 3 ... 191 Next
 
 Help Categories
 
@@ -156,4 +150,8 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
+
+*   Xanga
+
+*   Log In
