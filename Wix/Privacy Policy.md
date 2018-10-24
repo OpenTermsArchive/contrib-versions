@@ -1,4 +1,4 @@
-Wix.com Privacy Policy Effective Date: October 17, 2018
+Wix.com Privacy Policy Effective Date: October 23, 2018
 
 Welcome to Wix.com’s Privacy Policy!
 
@@ -95,10 +95,6 @@ We will only use your Personal Information for the purposes set out in Section 4
     
 3.  our use of your Personal Information is necessary to support legitimate interests that we have as a business (for example, to maintain and improve our Services by identifying user trends and the effectiveness of Wix campaigns and identifying technical issues), provided it is conducted at all times in a way that is proportionate, and that respects your privacy rights.
     
-
-​
-
-Our Services are not permitted to children under 18 years of age.  No one under age 18 should provide any Personal Information to us through any of our Services.  We do not knowingly collect Personal Information from children under 18. Parents and guardians should supervise their children's activities at all times.
 
 #ItsThatEasy
 
