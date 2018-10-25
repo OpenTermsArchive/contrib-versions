@@ -108,7 +108,7 @@ What About Cookies and Similar Technologies?
 
 We may use technologies like cookies, pixels, web beacons, local storage and other identifiers on our Sites, in our emails, within our Apps and sometimes in third party apps that use our API or SDK to provide you with a range of products and services. We use these technologies for a number of purposes, such as for authentication, security, preference settings, advertising and analytics. We sometimes work with advertisers or other partners, and advertising service providers to serve ads to you on the Consumer Services, or a third party website or app, that may be relevant to you based on your interaction with the Consumer Services, including places you have “checked in”.
 
-You can control cookies through your browser settings and other tools. For more information, including the types of cookies and similar technologies found on Foursquare, please read our 'Cookie Policy.
+You can control cookies through your browser settings and other tools. For more information, including the types of cookies and similar technologies found on Foursquare, please read our Cookie Policy.
 
 How do I Access or Delete My Data?
 
