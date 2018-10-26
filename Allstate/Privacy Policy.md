@@ -8,6 +8,12 @@
 
 Popular Searches
 
+*   Payment and Billing
+*   Allstate Auto Insurance
+*   Home Insurance
+*   Allstate ePolicy
+*   Insurance Cards
+
 *   Allstate
 *   *   We help customers realize their hopes and dreams by providing the best products and services to protect them from life's uncertainties and prepare them for the future.
 
@@ -17,6 +23,7 @@ Popular Searches
     *   My Offers
     *   The Allstate Blog
     *   Careers
+    *   Allstate Veterans
     *   Customer Support
 
 *   Contact Us
@@ -30,6 +37,7 @@ Popular Searches
     *   Investor Relations
     *   Allstate Program
     *   Sponsorships
+    *   Agent Opportunity
 
 *   Corporate Responsibility
 *   *   Sustainability Report
@@ -71,6 +79,12 @@ Popular Searches
 Toggle navigation Log in
 
 Popular Searches
+
+*   Payment and Billing
+*   Allstate Auto Insurance
+*   Home Insurance
+*   Allstate ePolicy
+*   Insurance Cards
 
 *   Get a Quote
     
