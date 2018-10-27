@@ -125,3 +125,5 @@ Please make sure to read it, because, by using the Quora Platform, you consent t
 15.  **Waiver.** No waiver of any terms will be deemed a further or continuing waiver of such term or any other term. Our failure to assert a right or provision under this Agreement will not constitute a waiver of such right or provision.
 16.  **Further Assurances.** You agree to execute a hard copy of this Agreement and any other documents, and to take any actions at our expense that we may request to confirm and effect the intent of this Agreement and any of your rights or obligations under this Agreement.
 17.  **Contact.** Feel free to contact us through quora.com/contact with any questions about these terms. Quora is a Delaware corporation, located at 650 Castro Street, Suite 450, Mountain View, CA 94041.
+
+**Prior Versions**
