@@ -8,21 +8,27 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   Old Xanga
-    *   by drown\_n\_5feet
-    *   4 days ago
+*   In search for old posts
+    *   by indycayushey125
+    *   1 hour ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Xanga
     *   by drown\_n\_5feet
-    *   4 days ago
+    *   5 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Old Xanga
+    *   by drown\_n\_5feet
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old post question
     *   by starletnites
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -88,12 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   MY OLD POSTS MISSING
     *   by KHT
-    *   2 months ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   MY OLD POSTS MISSING
-    *   by BonnerBlondie07
     *   2 months ago
     *   in Data Migration
     *   0 votes
