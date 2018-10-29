@@ -8,27 +8,33 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   How do I download an archive of my old blog?
+    *   \[Resolved\] by thibault
+    *   4 years ago
+    *   in Data Migration
+    *   0 votes
+    *   44 (last comment by no\_more\_love\_for\_you 7 hours ago)
 *   In search for old posts
     *   by indycayushey125
-    *   1 hour ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Xanga
     *   by drown\_n\_5feet
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Xanga
     *   by drown\_n\_5feet
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old post question
     *   by starletnites
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -40,7 +46,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Retrieve old photos
     *   by twinklingstar\_yin
-    *   1 week ago
+    *   2 weeks ago
     *   in Pictures
     *   0 votes
     *   0
@@ -89,12 +95,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 *   Missing Blog Posts
     *   by the\_lynne\_project
     *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   MY OLD POSTS MISSING
-    *   by KHT
-    *   2 months ago
     *   in Data Migration
     *   0 votes
     *   0
