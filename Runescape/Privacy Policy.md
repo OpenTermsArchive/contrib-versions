@@ -1,20 +1,20 @@
 Privacy Policy
 
-Version 0.2
+Version 0.3
 
-Date July 24th, 2018.
+Date October 29, 2018.
 
 **INTRODUCTION**
 
-Jagex respects your privacy and is committed to protecting your personal data. This privacy policy will inform you as to how we look after your personal data when you visit our website (regardless of where you visit it from) and tell you about your privacy rights and how the law protects you.
+Jagex respects your privacy and is committed to protecting your personal data. This privacy policy will inform you as to how we look after your personal data when you play our games, visit our website (regardless of where you visit it from) or otherwise access any of our products and services and tell you about your privacy rights and how the law protects you.
 
-The General Data Protection Regulation (EU) 2016/679 (“GDPR”) is a regulation in EU law on data protection and privacy for all individuals within the European Union (EU) and the European Economic Area (EEA). It also addresses the export of personal data outside the EU and EEA areas. The GDPR aims primarily to give control to citizens and residents over their personal data and to simplify the regulatory environment for international business by unifying the regulation within the EU.
+The General Data Protection Regulation (EU) 2016/679 (“GDPR”) is a regulation in EU law on data protection and privacy for all individuals within the European Union (EU) and the European Economic Area (EEA). It also addresses the export of personal data outside the EU and EEA areas. The GDPR aims primarily to give control to citizens and residents over their personal data and to simplify the regulatory environment for international business by unifying the regulation within the EU.
 
 **1\. IMPORTANT INFORMATION AND WHO WE ARE**
 
 **PURPOSE OF THIS PRIVACY POLICY**
 
-This privacy policy aims to give you information on how Jagex collects and processes your personal data through your use of this website, including any data you may provide through this website when you sign up to play any of our games, subscribe to our newsletter, purchase a product or service or take part in a competition or a survey.
+This privacy policy aims to give you information on how Jagex collects and processes your personal data through your use of our games, whether through our websites or through your mobile device, including any data you may provide when you sign up to play any of our games, subscribe to our newsletter, purchase a product or service or take part in a competition or a survey.
 
 This website is not intended for children under 13 years old and we do not knowingly collect data relating to children under 13 years old.
 
@@ -30,19 +30,16 @@ We have appointed an external data protection officer (DPO) who is responsible f
 
 Our full details are:
 
-Full name of legal entity: Jagex Limited
-
-Name of external DPO: Robert Healey
-
-Email address: DPO@jagex.com
-
+Full name of legal entity: Jagex Limited  
+Name of external DPO: Robert Healey  
+Email address: DPO@jagex.com  
 Postal address: Suite 511, The Greenhouse, The Custard Factory, Gibb Street, Birmingham, B9 4AA.
 
 You have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues (_www.ico.org.uk_). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance.
 
 **CHANGES TO THE PRIVACY POLICY AND YOUR DUTY TO INFORM US OF CHANGES**
 
-This version was last updated on May 2018 and historic versions can be obtained by contacting us.
+This version was last updated on October 2018 and historic versions can be obtained by contacting us.
 
 It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.
 
@@ -61,8 +58,7 @@ We may collect, use, store and transfer different kinds of personal data about y
 *   **Contact Data** includes billing address, home address, email address and telephone numbers.
 
 *   **Transaction Data** includes details about payments to and from you and other details of products and services you have purchased from us.
-
-*   **Technical Data** includes internet protocol (IP) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access this website.
+*   **Technical Data** includes internet protocol (IP) address, unique mobile device identification numbers (such as your Media Access Control (MAC) address, Identifier For Advertising (IDFA), and/or International Mobile Equipment Identity (IMEI), type of device, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access this website.
 
 *   **Profile Data** includes your username and password, purchases or orders made by you, your interests, preferences, feedback and survey responses.
 
@@ -75,6 +71,8 @@ If you decide to make a payment for any of our products and services, your **Fin
 We also collect, use and share **Aggregated Data** such as statistical or demographic data for any purpose. Aggregated Data may be derived from your personal data but is not considered personal data in law as this data does **not** directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific website feature. However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this privacy policy.
 
 We do not collect any **Special Categories of Personal Data** about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data). Nor do we collect any information about criminal convictions and offences.
+
+We use mobile analytics software to allow us to better understand the functionality of our mobile software on your device. This software may record information such as how often you play our games, the events that occur within the games, aggregated usage, performance data, and where the games were downloaded from. We do not link the information we store within the analytics software to any personal information you submit within the games.
 
 **IF YOU FAIL TO PROVIDE PERSONAL DATA**
 
@@ -104,10 +102,8 @@ We use different methods to collect data from and about you including, but not l
 
 *   Technical Data from the following parties:
 
-**(a)** analytics providers such as Google based inside **AND** outside the EU;
-
-**(b)** advertising networks such as Facebook based inside **AND** outside the EU. and
-
+**(a)** analytics providers such as Google based inside **AND** outside the EU;  
+**(b)** advertising networks such as Facebook based inside **AND** outside the EU. and  
 **(c)** search information providers such as Google based inside **AND** outside the EU.
 
 *   Contact, and Transaction Data from providers of technical, payment and delivery services based inside **AND** outside the EU.
@@ -311,6 +307,31 @@ We will get your explicit opt-in consent before we share your personal data with
 You can ask us or third parties to stop sending you marketing messages at any time by logging into the website and checking or unchecking relevant boxes to adjust your marketing preferences or by following the opt-out links on any marketing message sent to you or by Contacting us at any time.
 
 Where you opt out of receiving these marketing messages, this will not apply to personal data provided to us as a result of a product/service purchase, product/service experience or other transactions.
+
+**OPTING OUT OF ADVERTISING ID**
+
+The Identifier For Advertising (IDFA) is a unique, user-resettable ID for advertising, provided by the mobile device’s operating system. We may use this ID to enhance serving and targeting capabilities, re-target specific campaigns, pass the ID to our partners. Advertising ID does not reveal any information about the user or the device. If you prefer to opt-out or reset your Identifier For Advertising (IDFA), please follow these standard instructions:
+
+*   iOS - Opt out of interest-based ads in the App Store and Apple News (https://support.apple.com/en-us/HT202074).
+*   Android - Opt out of seeing personalized ads (https://support.google.com/ads/answer/2662922?hl=en).
+
+**OPTING OUT OF THIRD-PARTY TAILORED ADVERTISING** 
+
+If you do not want to receive tailored in-application advertisements from third parties that relate to your interests in our games on your mobile device, you may opt- out by:
+
+*   adjusting the ad tracking settings on your device
+*   resetting your Identifier For Advertising (IDFA) from your mobile device’s settings page, which will prevent continued use of existing behavioural data tied to the previous Identifier For Advertising (IDFA).
+*   visiting the following link: https://www.appsflyer.com/optout.
+
+Please note that you may still receive advertisements from third parties within our games even if you opt out of tailored advertising, but they will not be based on your activity across unrelated web sites or apps.
+
+**OPTING OUT OF GEOLOCATION**
+
+If you have previously allowed us to access your geolocation data, you can stop making geolocation available to us by visiting your mobile device's settings for the games or the “settings” page for the games.
+
+**OPTING OUT OF OTHER COMMUNICATIONS**
+
+When you install our games on your mobile device you can choose to receive push notifications, which are messages our games send you on your mobile device even when the game is not on. You can turn off notifications by visiting your mobile device’s “settings” page.
 
 **COOKIES**
 
