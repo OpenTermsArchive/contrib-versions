@@ -42,7 +42,7 @@ Howdy! We are the folks behind a variety of products and services designed to al
 
 This Privacy Policy applies to information that we collect about you when you use:
 
-*   Our websites (including automattic.com, wordpress.com, vip.wordpress.com, jetpack.com, woocommerce.com, polldaddy.com, gravatar.com, intensedebate.com, vaultpress.com, akismet.com, simplenote.com, simperium.com, leandomainsearch.com, and cloudup.com);
+*   Our websites (including automattic.com, wordpress.com, vip.wordpress.com, jetpack.com, woocommerce.com, crowdsignal.com, gravatar.com, intensedebate.com, vaultpress.com, akismet.com, simplenote.com, simperium.com, leandomainsearch.com, and cloudup.com);
 *   Our mobile applications (including the WordPress mobile app for Android and iOS);
 *   Our other products and services that are available on or through our websites (including WordPress.com plans, WordPress.com VIP, Jetpack, the WooCommerce Services Extension, Gravatar, the IntenseDebate comment management system, Akismet plans, Simplenote, Simperium, and Cloudup). and
 *   Other users’ websites that use our Services, while you are logged in to your account with us.
@@ -71,7 +71,7 @@ It’s probably no surprise that we collect information that you provide to us. 
 *   **Public Profile Information:** If you have an account with us, we collect the information that you provide for your public profile. For example, if you have a WordPress.com account, your username is part of that public profile, along with any other information you put into your public profile, such as a photo or an “About Me” description. Your public profile information is just that–public–so please keep that in mind when deciding what information you would like to include.
 *   **Transaction and Billing Information:** If you buy something from us–a subscription to a WordPress.com plan, a premium theme, or a custom domain, for example–you will provide additional personal and payment information that is required to process the transaction and your payment, such as your name, credit card information, and contact information.
 *   **Ecommerce Site Information:** If you use our ecommerce Services to sell products or services to others through your site (including Stores on WordPress.com, the WooCommerce Services extension, or other purchases on WooCommerce.com), you will have to create a WordPress.com account or connect an existing account and, for some of our ecommerce Services, provide your site URL. You may also provide us with information about your financial account to set up a payments integration, such as the email address for your Stripe or PayPal account or your bank account information.
-*   **Content Information:** Depending on the Services you use, you may also provide us with information about you in draft and published content (such as for your website or your Polldaddy survey). For example, if you write a blog post that includes biographic information about you, we will have that information, and so will anyone with access to the Internet if you choose to publish the post publicly. This might be obvious to you…but it’s not to everyone!
+*   **Content Information:** Depending on the Services you use, you may also provide us with information about you in draft and published content (such as for your website or your Crowdsignal survey). For example, if you write a blog post that includes biographic information about you, we will have that information, and so will anyone with access to the Internet if you choose to publish the post publicly. This might be obvious to you…but it’s not to everyone!
 *   **Credentials:** Depending on the Services you use, you may provide us with credentials for your website (like SSH, FTP, and SFTP username and password). For example, Jetpack and VaultPress users may provide us with these credentials in order to use our one-click restore feature if there is a problem with their site, or to allow us to troubleshoot problems on their site more quickly.
 *   **Communications With Us (Hi There!):** You may also provide us information when you respond to surveys, communicate with our Happiness Engineers about a support question, or post a question about your site in our public forums.
 
@@ -236,7 +236,7 @@ That’s it! Thanks for reading.
 Change log
 
 *   _September 24, 2018:_ Included information for Simplenote, Simperium, Cloudup, and Lean Domain Search.
-*   _May 25, 2018:_ Added more specific information to help clarify our practices, included information for Polldaddy and Woocommerce.com services, and added information to reflect the requirements of the EU’s General Data Protection Regulation. 
+*   _May 25, 2018:_ Added more specific information to help clarify our practices, included information for Crowdsignal and Woocommerce.com services, and added information to reflect the requirements of the EU’s General Data Protection Regulation. 
 *   _January 3, 2018_ _:_ Revised and reorganized language throughout to help simplify the policy and clarify our practices.
 *   _August 22, 2017:_ Added “Information We Collect from Other Sources” section.
 *   _November 2, 2016_: Added that comments submitted as missed spam are retained by Akismet to improve future performance.
