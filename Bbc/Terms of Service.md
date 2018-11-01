@@ -1,6 +1,6 @@
 Terms of Use Terms of Use for the BBC’s digital services
 
-Page updated: 18 October 2018 Version 1.5
+Page updated: 31 October 2018 Version 1.5
 
 *   Download the Terms of Use as a PDF
 
@@ -300,19 +300,18 @@ You can’t remove or alter the copyright notice, or imply that someone else mad
 
 Back to top Shareables - what you have to do
 
-*   *   Use the latest version and, where we have it, don’t remove any tagging or tracking.
-    *   Make sure it’s displayed accurately.
-    *   Add a credit (if it doesn’t already have one).
-    
-    Most come with credits included. If not, put one of these in a prominent place nearby to show where you got the shareable from:
-    
-    *   Source – BBC News
-    *   bbc.com/news
-    *   BBC Sport
-    *   bbc.co.uk – © copyright \[the year goes here\] BBC
-    
-    If possible, add a hyperlink to the shareable’s original location. Make sure it works, and don’t put anything between the credit and the link.
-    
+*   Use the latest version and, where we have it, don’t remove any tagging or tracking.
+*   Make sure it’s displayed accurately.
+*   Add a credit (if it doesn’t already have one).
+
+Most come with credits included. If not, put one of these in a prominent place nearby to show where you got the shareable from:
+
+*   Source – BBC News
+*   bbc.com/news
+*   BBC Sport
+*   bbc.co.uk – © copyright \[the year goes here\] BBC
+
+If possible, add a hyperlink to the shareable’s original location. Make sure it works, and don’t put anything between the credit and the link.
 
 Back to top Shareables - a thing we have to say
 
