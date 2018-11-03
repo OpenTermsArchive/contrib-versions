@@ -446,6 +446,28 @@ Have any questions or suggestions? We’d love to hear them!
 
 <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MDD5C4" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
 
+*   Get Started
+*   Home
+*   Features
+*   Domains
+*   Mailboxes
+*   Online Store
+*   Contact Us
+*   Jobs
+*   Wix Blog
+*   Wix Stories
+
+Wix
+
+*   I Need a Site for...
+
+*   {"BUSINESS":"Business","MUSIC":"Music","PHOTOGRAPHY":"Photography","ONLINE\_STORE":"Online Store","DESIGNER":"Designer","RESTAURANTS":"Restaurants &. Food","ACCOMMODATION":"Accommodation","EVENTS":"Events","PORTFOLIO\_AND\_CV":"Portfolio &. CV","BEAUTY\_AND\_WELLNESS":"Beauty &. Wellness","BLOG":"Blog","OTHER":"Other"}
+*   My Sites
+*   Templates
+*   Explore
+    *   Get Inspired
+    *   Features
+    *   App Market
 *   Features
 *   Explore
 *   Subscriptions
@@ -472,59 +494,100 @@ Have any questions or suggestions? We’d love to hear them!
 *   हिन्दी
 *   Čeština
 
-Sign In
+Sign In  Hi, {username}
+
+*   Account Settings
+*   Billing &. Payments
+*   Vouchers
+*   English
+    *   Deutsch
+    *   Español
+    *   Français
+    *   Italiano
+    *   Nederlands
+    *   Norsk
+    *   Polski
+    *   Português
+    *   Русский
+    *   Svenska
+    *   日本語
+    *   한국어
+    *   Türkçe
+    *   Dansk
+    *   हिन्दी
+    *   Čeština
+*   Logout
+
+*   English
+*   Deutsch
+,*   Español
+,*   Français
+,*   Italiano
+,*   Nederlands
+,*   Norsk
+,*   Polski
+,*   Português
+,*   Русский
+,*   Svenska
+,*   日本語
+,*   한국어
+,*   Türkçe
+,*   Dansk
+,*   हिन्दी
+,*   Čeština
 
 *   PRODUCT
-    *   Templates
-    *   Explore
-    *   Features
-    *   Website Builder
-    *   Wix Code
-    *   My Sites
-    *   Premium Plans
-    *   Wix SEO
-    *   Logo Maker
-    *   Start a Blog
-    *   Online Store
-    *   App Market
-    *   Domains
-    *   Wix Answers
-    *   Developers
-    *   Email Marketing
+*   Templates
+*   Explore
+*   Features
+*   Website Builder
+*   Wix Code
+*   My Sites
+*   Premium Plans
+*   Wix SEO
+*   Logo Maker
+*   Online Store
+*   App Market
+*   Domains
+*   Developers
+*   Email Marketing
+
 *   COMPANY
-    *   About Wix
-    *   Investor Relations
-    *   Wix Jobs
-    *   Design Assets
-    *   Terms of Use
-    *   App Market Terms
-    *   Privacy Policy
-    *   Abuse
-    *   Affiliates
-    *   Updates &. Releases
-    *   Contact Us
-    *   Patent Notice
-    *   Sitemap
+*   About Wix
+*   Investor Relations
+*   Jobs
+*   Design Assets
+*   Terms of use
+*   App Market Terms
+*   Privacy Policy
+*   Abuse
+*   Affiliates
+*   Updates &. Releases
+*   Contact Us
+*   Patent Notice
+
 *   COMMUNITY
-    *   Wix Blog
-    *   Wix Stories
-    *   Wix Arena
-    *   Wix Meetups
-    *   Wix Ambassadors
-    *   Facebook
-    *   Twitter
-    *   Google+
-    *   Pinterest
-    *   Youtube
-    *   Linkedin
-    *   Instagram
-*   Support
-    *   Support Center
+*   Wix Blog
+*   Wix Stories
+*   Wix Arena
+*   Wix Meetups
+*   Wix Ambassadors
+*   Facebook
+*   Twitter
+*   Google+
+*   Pinterest
+*   YouTube
+*   LinkedIn
 
-Wix.com
+*   SUPPORT
+*   Support Center
 
-Wix.com is a leading cloud-based development platform with millions of users worldwide. We make it easy for everyone to create a beautiful, professional web presence.
+Wix.com Wix.com is a leading cloud-based development platform with millions of users worldwide. We make it easy for everyone to create a beautiful, professional web presence. Promote your business, showcase your art, set up an online shop or just test out new ideas. The Wix website builder has everything you need to create a fully personalized, high-quality free website. © 2006-2018 Wix.com, Inc
 
-Promote your business, showcase your art, set up an online shop or just test out new ideas. The Wix website builder has everything you need to create a fully personalized, high-quality free website.
-
-© 2006-2018 Wix.com, Inc
+*   Facebook
+*   Twitter
+*   Google+
+*   YouTube
+*   Pinterest
+*   Instagram
+*   LinkedIn
