@@ -235,6 +235,7 @@ That’s it! Thanks for reading.
 
 Change log
 
+*   _November 6, 2018:_ Removed references to Polldaddy, which has been rebranded as Crowdsignal.
 *   _September 24, 2018:_ Included information for Simplenote, Simperium, Cloudup, and Lean Domain Search.
 *   _May 25, 2018:_ Added more specific information to help clarify our practices, included information for Crowdsignal and Woocommerce.com services, and added information to reflect the requirements of the EU’s General Data Protection Regulation. 
 *   _January 3, 2018_ _:_ Revised and reorganized language throughout to help simplify the policy and clarify our practices.
