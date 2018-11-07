@@ -110,6 +110,8 @@ Except as explained in this Privacy Policy, in privacy policies for specific ser
 
 Verizon uses vendors and partners for a variety of business purposes such as to help us offer, provide, repair, restore and bill for services we provide. We share information with those vendors and partners when it is necessary for them to perform work on our behalf. For example, we may provide your credit card information and billing address to our payment processing company solely for the purpose of processing payment for a transaction you have requested. We require that these vendors and partners protect the customer information we provide to them and limit their use of Verizon customer data to the purposes for which it was provided. We do not permit these types of vendors and partners to use this information for their own marketing purposes.
 
+With your authorization, we provide certain account, device, and profile data related to your Verizon Wireless account to third parties for the purpose of helping companies you do business with verify your identity and  help protect you against identity theft and account takeover.  Verizon only shares this information with third parties that are contractually required to protect your data and use it for the limited purpose of supporting identity verification. You have choices about this sharing.
+
 As described in more detail in other sections of this policy, Verizon also may share certain information with outside companies, for example, to assist with the delivery of advertising campaigns, or preparing and sharing aggregate reports. This information does not identify Verizon customers individually.
 
 Verizon may publish the names, addresses and telephone numbers of wireline telephone customers ourselves or we may provide this information to directory publishers, directory assistance services, or others. These companies can use the data they receive from us in other formats or for other purposes and they may make it available to others.  Verizon Wireless does not publish directories of customers’ wireless phone numbers, and we do not make them available to others for listing in directories unless you request that we do so. We also provide the names and telephone numbers of wireline and wireless customers for Caller ID and similar services.   
@@ -159,6 +161,10 @@ Verizon Wireline consumers and certain business customers may opt out by calling
 **View CPNI-related notices for Verizon Wireline and Verizon Wireless** Information about Your Credit
 
 Verizon Wireline consumers may limit the sharing of credit information for our marketing of new services to you.  You may opt-out of this sharing by following the instructions in the notice provided on your monthly bill, or by calling 1-844-366-2879.  
+
+Identity Verification
+
+If you have previously authorized but no longer want your information shared with third parties for the purpose of verifying your identity, you can go online to My Verizon ->My Profile->Privacy Settings. By opting out, your information will not be sent to companies requesting the information. 
 
 **View notice for Verizon Wireline** Telemarketing
 
