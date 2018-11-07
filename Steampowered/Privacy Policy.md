@@ -117,7 +117,7 @@ We allow you to restore your Steam User Account during a grace period of 30 (thi
 In some cases, deletion of your Steam User Account, and therefore Personal Data deletion, is complicated. Namely, if your account has a business relationship with Valve, such as due to your work for a game developer, you will only be able to delete your Steam User Account after you have transferred this role to another user or have dissolved the business relationship. In some cases, considering the complexity and number of the requests, the period for Personal Data erasure may be extended, but for no longer than two further months.  
   
 6.4 Right to Object.  
-When our processing of your Personal Data is based on legitimate interests according to Article 6(1)(f) of the GDPR / section 2.c) of this Privacy Policy, you have the right to object to thise processing. If you object we will no longer process your Personal Data unless there are compelling and prevailing legitimate grounds for the processing as described in Article 21 of the GDPR. in particular if the data is necessary for the establishment, exercise or defense of legal claims.  
+When our processing of your Personal Data is based on legitimate interests according to Article 6(1)(f) of the GDPR / section 2.c) of this Privacy Policy, you have the right to object to this processing. If you object we will no longer process your Personal Data unless there are compelling and prevailing legitimate grounds for the processing as described in Article 21 of the GDPR. in particular if the data is necessary for the establishment, exercise or defense of legal claims.  
   
 You also have the right to lodge a complaint at a supervisory authority.  
   
