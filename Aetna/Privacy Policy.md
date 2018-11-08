@@ -222,7 +222,7 @@ Working with us Working with us
 
 *   Working at Aetna
 *   Aetna careers
-*   Student programs
+*   College Recruiting
 *   Executive briefing center
 
 Investors Investors
