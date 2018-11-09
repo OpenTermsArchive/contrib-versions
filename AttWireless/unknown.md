@@ -53,7 +53,11 @@ After your Service Commitment ends and you are on a month-to-month Agreement, AT
 
 1.3 Can AT&T Change My Terms And Rates?
 
-From time to time we might make changes to this Agreement. This could include charges, discounts, coverage, technologies, and other Service terms. We commit that we’ll provide you with notice either in your monthly bill or separately at least 30 days before we make any materially adverse change. So, for instance, if we increase your rate plan or the price of any of your Services more than what we’ve previously told you (such as in your Customer Service Summary) those would be materially adverse changes. But, not all changes are materially adverse. For example, here is a list of some changes that are not materially adverse: (1) increases to international roaming rates. (2) increases to charges for international long distance rates. (3) increases to AT&T fees and taxes imposed by the government and passed on to you. and (4) changes to surcharges and regulatory cost recovery charges that do not exceed the limits set forth in your Agreement. We also want you to know that, if we make a materially adverse change during your Service Commitment (if any), you can cancel impacted Service without paying an early termination fee. **But, you do need to notify us of your desire to cancel Service at the following address within 30 days of receiving the notice: AT&T, PO Box 10330, Fort Wayne, IN 46851.**
+We may change any terms, conditions, rates, fees, expenses, or charges regarding your Services at any time. We will provide you with notice of material changes (other than changes to governmental fees, proportional charges for governmental mandates, roaming rates or administrative charges) either in your monthly bill or separately. You understand and agree that State and Federal Universal Service Fees and other governmentally imposed fees, whether or not assessed directly upon you, may be increased based upon the government's or our calculations.
+
+IF WE INCREASE THE PRICE OF ANY OF THE SERVICES TO WHICH YOU SUBSCRIBE, BEYOND THE LIMITS SET FORTH IN YOUR CUSTOMER SERVICE SUMMARY, OR IF WE MATERIALLY DECREASE THE GEOGRAPHICAL AREA IN WHICH YOUR AIRTIME RATE APPLIES (OTHER THAN A TEMPORARY DECREASE FOR REPAIRS OR MAINTENANCE), WE'LL DISCLOSE THE CHANGE AT LEAST ONE BILLING CYCLE IN ADVANCE (EITHER THROUGH A NOTICE WITH YOUR BILL, A TEXT MESSAGE TO YOUR DEVICE, OR OTHERWISE), AND YOU MAY TERMINATE THIS AGREEMENT WITHOUT PAYING AN EARLY TERMINATION FEE OR RETURNING OR PAYING FOR ANY PROMOTIONAL ITEMS, PROVIDED YOUR NOTICE OF TERMINATION IS DELIVERED TO US WITHIN THIRTY (30) DAYS AFTER THE FIRST BILL REFLECTING THE CHANGE.
+
+If you lose your eligibility for a particular rate plan, we may change your rate plan to one for which you qualify.
 
 1.4 How Will I Receive My Bill? What Charges Am I Responsible For? How Much Time Do I Have To Dispute My Bill?
 
@@ -364,7 +368,7 @@ AT&T may, in its sole discretion, terminate your Service or change your plan to 
 
 5.5 Caller ID
 
-Your caller identification information (such as your name and phone number) may be displayed on the Device or bill of the person receiving your call. technical limitations may, in some circumstances, prevent you from blocking the transmission of caller identification information. Contact customer service for information on blocking the display of your name and number. Caller ID blocking is not available when using Data Services, and your wireless number is transmitted to Internet sites you visit. If applicable to your plan and Device, an in-coming call identification feature may apply that will notify of in-coming calls and that may apply generic labels such as telemarketing, suspected spam, and/or suspected fraud to some of those calls.
+Your caller identification information (such as your name and phone number) may be displayed on the Device or bill of the person receiving your call. technical limitations may, in some circumstances, prevent you from blocking the transmission of caller identification information. Contact customer service for information on blocking the display of your name and number. Caller ID blocking is not available when using Data Services, and your wireless number is transmitted to Internet sites you visit.
 
 5.6 Rollover® Minutes
 
@@ -634,3 +638,5 @@ If you have any questions or concerns about your AT&T Service, please call Custo
 If you are a Puerto Rico customer and we cannot resolve your issue, you may notify the Telecommunications Regulatory Board of Puerto Rico of your grievance. Mail: 500 Ave Roberto H. Todd, (Parada 18), San Juan, Puerto Rico 00907-3941. Phone: 1-787-756-0804 or 1-866-578-5500. Online: jrtpr.gobierno.pr, in addition to having available arbitration, as provided in Section 2.0.
 
 **Return to Table of Contents**
+
+V03022017
