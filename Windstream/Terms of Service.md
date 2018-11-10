@@ -53,8 +53,8 @@
 Terms and Conditions Windstream Information ▼ About us
 
 *   Windstream Information▼
-    *   Company History
     *   Company Overview
+    *   Company History
     *   Tariffs
     *   Coverage Map
     *   Lifeline Assistance Program
@@ -68,11 +68,8 @@ Terms and Conditions Windstream Information ▼ About us
     *   Supplier Diversity
     *   Supplier Code of Ethics
 *   PAETEC Information▼
-    *   PAETEC Interstate and International Telecommunications Rates
-    *   PAETEC Service Charges and Surcharges Glossary
     *   PAETEC Terms and Conditions
     *   Protecting CPNI: Your Rights and Opinions
-    *   PAETEC Service Charges and Surcharges Description
     *   Terms and Conditions for McLeodUSA Communications' Customers
 *   MassComm Information▼
     *   MassComm Tariffs
