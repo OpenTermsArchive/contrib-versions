@@ -40,7 +40,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Retrieve old photos
     *   by twinklingstar\_yin
-    *   4 weeks ago
+    *   1 month ago
     *   in Pictures
     *   0 votes
     *   0
