@@ -164,7 +164,7 @@ Verizon Wireline consumers may limit the sharing of credit information for our m
 
 Identity Verification
 
-If you have previously authorized but no longer want your information shared with third parties for the purpose of verifying your identity, you can go online to My Verizon ->My Profile->Privacy Settings. By opting out, your information will not be sent to companies requesting the information. 
+If you do not want your information shared with third parties for the purpose of verifying your identity, you can go online to My Verizon ->My Profile->Privacy Settings. By opting out, your information will not be sent to companies who participate in this program.
 
 **View notice for Verizon Wireline** Telemarketing
 
