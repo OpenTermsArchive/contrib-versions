@@ -8,4 +8,4 @@ You agree not to post any abusive, obscene, vulgar, slanderous, hateful, threate
   
 As a user you agree to any information you have entered to being stored in a database. While this information will not be disclosed to any third party without your consent, neither “phpBB.com” nor phpBB shall be held responsible for any hacking attempt that may lead to the data being compromised.
 
-Back to login screen
+Back to previous page
