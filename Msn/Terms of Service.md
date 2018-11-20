@@ -334,33 +334,28 @@ The following products, apps and services are covered by the Microsoft Services 
 
 *   Account.microsoft.com
 *   Advertising.microsoft.com
-*   Arrow Launcher
 *   Ask Cortana
 *   Bing Apps
+*   Bing App for Android
 *   Bing Bots
+*   Bing Business Bot
 *   Bing Desktop
 *   Bing Dictionary
-*   Bing Image Bot
+*   Bing for Business
+*   Bing Image and News(iOS)
 *   Bing in the Classroom
-*   Bing Input
 *   Bing Maps
 *   Bing Music Bot
-*   Bing Navigation
-*   Bing News Bot
-*   Bing Reader
-*   Bing Rewards
 *   Bing Search app
 *   Bing Sportscaster
 *   Bing Toolbar
-*   Bing Torque
-*   Bing Translator
 *   Bing Webmaster
 *   Bing Wikipedia Browser
 *   Bing.com
 *   Bing
 *   Bingplaces.com
+*   BingSearch APIs/SDKs
 *   Citizen Next
-*   Conditional Action Programmer
 *   Cortana skills by Microsoft
 *   Cortana
 *   Default Homepage and New Tab Page on Microsoft Edge
@@ -376,7 +371,6 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Groove
 *   GroupMe
 *   HealthVault
-*   Home
 *   LineBack
 *   Manufacturers.bing.com
 *   Maps App
@@ -423,7 +417,6 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Outlook.com
 *   Paint 3D
 *   Picturesque Lock Screen
-*   Pix Lock
 *   Presentation Translator
 *   Remix 3D
 *   Rinna
@@ -444,13 +437,12 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Store
 *   Sway.com
 *   to-do.microsoft.com
-*   Tossup
 *   Translator for Microsoft Edge
 *   Translator Live
-*   Translator
 *   UrWeather
 *   Video Breakdown
 *   Visio Online
+*   Who’s In
 *   Windows Live Mail
 *   Windows Live Writer
 *   Windows Movie Maker
@@ -795,33 +787,28 @@ The following products, apps and services are covered by the Microsoft Services 
 
 *   Account.microsoft.com
 *   Advertising.microsoft.com
-*   Arrow Launcher
 *   Ask Cortana
 *   Bing Apps
+*   Bing App for Android
 *   Bing Bots
+*   Bing Business Bot
 *   Bing Desktop
 *   Bing Dictionary
-*   Bing Image Bot
+*   Bing for Business
+*   Bing Image and News(iOS)
 *   Bing in the Classroom
-*   Bing Input
 *   Bing Maps
 *   Bing Music Bot
-*   Bing Navigation
-*   Bing News Bot
-*   Bing Reader
-*   Bing Rewards
 *   Bing Search app
 *   Bing Sportscaster
 *   Bing Toolbar
-*   Bing Torque
-*   Bing Translator
 *   Bing Webmaster
 *   Bing Wikipedia Browser
 *   Bing.com
 *   Bing
 *   Bingplaces.com
+*   BingSearch APIs/SDKs
 *   Citizen Next
-*   Conditional Action Programmer
 *   Cortana skills by Microsoft
 *   Cortana
 *   Default Homepage and New Tab Page on Microsoft Edge
@@ -837,7 +824,6 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Groove
 *   GroupMe
 *   HealthVault
-*   Home
 *   LineBack
 *   Manufacturers.bing.com
 *   Maps App
@@ -884,7 +870,6 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Outlook.com
 *   Paint 3D
 *   Picturesque Lock Screen
-*   Pix Lock
 *   Presentation Translator
 *   Remix 3D
 *   Rinna
@@ -905,13 +890,12 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Store
 *   Sway.com
 *   to-do.microsoft.com
-*   Tossup
 *   Translator for Microsoft Edge
 *   Translator Live
-*   Translator
 *   UrWeather
 *   Video Breakdown
 *   Visio Online
+*   Who’s In
 *   Windows Live Mail
 *   Windows Live Writer
 *   Windows Movie Maker
