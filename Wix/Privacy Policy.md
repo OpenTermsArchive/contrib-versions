@@ -518,6 +518,7 @@ Sign In
     *   Youtube
     *   Linkedin
     *   Instagram
+    *   Student Website
 *   Support
     *   Support Center
 
