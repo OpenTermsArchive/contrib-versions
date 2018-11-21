@@ -480,6 +480,7 @@ Sign In
     *   Features
     *   Website Builder
     *   Wix Code
+    *   Wix Playground
     *   My Sites
     *   Premium Plans
     *   Wix SEO
