@@ -1,4 +1,4 @@
-Microsoft Privacy StatementLast Updated: October 2018 What's new? Expand All Collapse AllPrint
+Microsoft Privacy StatementLast Updated: November 2018 What's new? Expand All Collapse AllPrint
 
 Your privacy is important to us. This privacy statement explains the personal data Microsoft processes, how Microsoft processes it, and for what purposes.
 
@@ -15,6 +15,10 @@ Most Microsoft sites use cookies, small text files placed on your device which w
 EU-U.S. and Swiss-U.S. Privacy Shield
 
 Microsoft adheres to the principles of the EU-U.S. and Swiss-U.S. Privacy Shield frameworks. To learn more, visit the U.S. Department of Commerce’s Privacy Shield website.
+
+Contact us
+
+If you have a privacy concern, complaint, or question for the Microsoft Chief Privacy Officer or EU Data Protection Officer, please contact us by using our web form. For more information about contacting Microsoft, including Microsoft Ireland Operations Limited, see the How to contact us section of this privacy statement.
 
 Personal data we collectPersonal data we collect
 
@@ -415,7 +419,7 @@ When we post changes to this statement, we will revise the "last updated" date a
 
 Top of page How to contact usHow to contact us
 
-If you have a privacy concern, complaint, or question for the Microsoft Chief Privacy Officer or Data Protection Officer, please contact us by using our web form. We will respond to questions or concerns within 30 days. You can also raise a concern or lodge a complaint with a data protection authority or other official with jurisdiction.
+If you have a privacy concern, complaint, or question for the Microsoft Chief Privacy Officer or EU Data Protection Officer, please contact us by using our web form. We will respond to questions or concerns within 30 days. You can also raise a concern or lodge a complaint with a data protection authority or other official with jurisdiction.
 
 Unless otherwise stated, Microsoft Corporation and, for those in the European Economic Area and Switzerland, Microsoft Ireland Operations Limited are data controllers for personal data we collect through the products subject to this statement. Our addresses are:
 
@@ -685,7 +689,7 @@ The advertising ID setting does not apply to other methods of interest-based adv
 
 Top of page DiagnosticsDiagnostics
 
-Microsoft collects Windows diagnostic data to solve problems and to keep Windows up to date, secure, and operating properly. It also helps us improve Windows and related Microsoft products and services and, for customers who have turned on the “Tailored experiences setting, to provide more relevant tips and recommendations to tailor Microsoft and third-party products and services for Windows to the customer’s needs. This data is transmitted to Microsoft and stored with one or more unique identifiers that can help us recognize an individual user on an individual device and understand the device's service issues and use patterns. There are two levels of diagnostic and activity data: **Basic** and **Full**. If an organization (such as your employer or school) uses Microsoft management tools or engages Microsoft to manage your device, we and the organization will use and process diagnostic and error data from your device to allow the management, monitoring, and troubleshooting of the organization's devices, and for other purposes of the organization.
+Microsoft collects Windows diagnostic data to solve problems and to keep Windows up to date, secure, and operating properly. It also helps us improve Windows and related Microsoft products and services and, for customers who have turned on the “Tailored experiences” setting, to provide more relevant tips and recommendations to tailor Microsoft and third-party products and services for Windows to the customer’s needs. This data is transmitted to Microsoft and stored with one or more unique identifiers that can help us recognize an individual user on an individual device and understand the device's service issues and use patterns. There are two levels of diagnostic and activity data: **Basic** and **Full**. If an organization (such as your employer or school) uses Microsoft management tools or engages Microsoft to manage your device, we and the organization will use and process diagnostic and error data from your device to allow the management, monitoring, and troubleshooting of the organization's devices, and for other purposes of the organization.
 
 **Basic** data includes information about your device, its settings and capabilities, and whether it is performing properly. We collect the following data at the Basic level:
 
@@ -946,11 +950,9 @@ Previous versions of MSN Money allow you to access personal finance information 
 
 Top of page MixerMixer
 
-Mixer is an interactive, social, online service for live streaming videos, videogames, and related content.
+Mixer is an interactive, social, public online service for live streaming videos, videogames, and related content. Mixer collects account data, the information you provide for your public profile, content (such as chat and streams), and device and service usage data to provide the service, including the third-party experiences you choose, improve our products, communicate with you, and show you advertising. Your interactions with the service and with other users on the service are public and viewable by anyone, including chatting, following and subscribing to channels, and interacting with streamers, users, videos, and games. Additionally, if you chat or stream content on the service, any personal information you include will be public and may be captured and shared by others. Note that Microsoft may review and reject any content you stream or store on the service for violations of the Mixer Rules of User Conduct.
 
-Mixer collects data from you to provide the service, including the third-party experiences you choose, improve our products, communicate with you, and show you advertising. Specifically, Mixer collects account data (including the content of your public profile), content (such as streams), and device and usage data. If you stream your content on the service, then your content and any personal information you include in your content will be public and may be captured and shared by others. Note that Microsoft may review and reject any content you stream or store on the service for violations of the Mixer Rules of User Conduct or the Microsoft Code of Conduct.
-
-Some of the apps and experiences on Mixer are provided by third-party developers. When you choose to use third-party apps or experiences: (i) your data is subject to that third party’s privacy policy. and (ii) Microsoft may share non-public additional information about your Mixer profile and Microsoft account with that developer. This information can include your settings, email, age, and other information you provide.
+Some of the apps and experiences on Mixer are provided by third-party developers. When you choose to use third-party apps or experiences: (i) your data is subject to that third party’s privacy policy. and (ii) with your consent, the third party developer will have access to information about you that is not part of your public profile, such as your settings, email address and age range.
 
 Top of page Groove Music and Movies &. TVGroove Music and Movies &. TV
 
@@ -1437,7 +1439,7 @@ When we post changes to this statement, we will revise the "last updated" date a
 
 How to contact usHow to contact usmainhowtocontactusmoduleSummary
 
-If you have a privacy concern, complaint, or question for the Microsoft Chief Privacy Officer or Data Protection Officer, please contact us by using our web form. We will respond to questions or concerns within 30 days. You can also raise a concern or lodge a complaint with a data protection authority or other official with jurisdiction.
+If you have a privacy concern, complaint, or question for the Microsoft Chief Privacy Officer or EU Data Protection Officer, please contact us by using our web form. We will respond to questions or concerns within 30 days. You can also raise a concern or lodge a complaint with a data protection authority or other official with jurisdiction.
 
 Unless otherwise stated, Microsoft Corporation and, for those in the European Economic Area and Switzerland, Microsoft Ireland Operations Limited are data controllers for personal data we collect through the products subject to this statement. Our addresses are:
 
@@ -1707,7 +1709,7 @@ The advertising ID setting does not apply to other methods of interest-based adv
 
 DiagnosticsDiagnosticsmaindiagnosticsmoduleSummary
 
-Microsoft collects Windows diagnostic data to solve problems and to keep Windows up to date, secure, and operating properly. It also helps us improve Windows and related Microsoft products and services and, for customers who have turned on the “Tailored experiences setting, to provide more relevant tips and recommendations to tailor Microsoft and third-party products and services for Windows to the customer’s needs. This data is transmitted to Microsoft and stored with one or more unique identifiers that can help us recognize an individual user on an individual device and understand the device's service issues and use patterns. There are two levels of diagnostic and activity data: **Basic** and **Full**. If an organization (such as your employer or school) uses Microsoft management tools or engages Microsoft to manage your device, we and the organization will use and process diagnostic and error data from your device to allow the management, monitoring, and troubleshooting of the organization's devices, and for other purposes of the organization.
+Microsoft collects Windows diagnostic data to solve problems and to keep Windows up to date, secure, and operating properly. It also helps us improve Windows and related Microsoft products and services and, for customers who have turned on the “Tailored experiences” setting, to provide more relevant tips and recommendations to tailor Microsoft and third-party products and services for Windows to the customer’s needs. This data is transmitted to Microsoft and stored with one or more unique identifiers that can help us recognize an individual user on an individual device and understand the device's service issues and use patterns. There are two levels of diagnostic and activity data: **Basic** and **Full**. If an organization (such as your employer or school) uses Microsoft management tools or engages Microsoft to manage your device, we and the organization will use and process diagnostic and error data from your device to allow the management, monitoring, and troubleshooting of the organization's devices, and for other purposes of the organization.
 
 **Basic** data includes information about your device, its settings and capabilities, and whether it is performing properly. We collect the following data at the Basic level:
 
@@ -1968,11 +1970,9 @@ Previous versions of MSN Money allow you to access personal finance information 
 
 MixerMixermainmixermoduleSummary
 
-Mixer is an interactive, social, online service for live streaming videos, videogames, and related content.
+Mixer is an interactive, social, public online service for live streaming videos, videogames, and related content. Mixer collects account data, the information you provide for your public profile, content (such as chat and streams), and device and service usage data to provide the service, including the third-party experiences you choose, improve our products, communicate with you, and show you advertising. Your interactions with the service and with other users on the service are public and viewable by anyone, including chatting, following and subscribing to channels, and interacting with streamers, users, videos, and games. Additionally, if you chat or stream content on the service, any personal information you include will be public and may be captured and shared by others. Note that Microsoft may review and reject any content you stream or store on the service for violations of the Mixer Rules of User Conduct.
 
-Mixer collects data from you to provide the service, including the third-party experiences you choose, improve our products, communicate with you, and show you advertising. Specifically, Mixer collects account data (including the content of your public profile), content (such as streams), and device and usage data. If you stream your content on the service, then your content and any personal information you include in your content will be public and may be captured and shared by others. Note that Microsoft may review and reject any content you stream or store on the service for violations of the Mixer Rules of User Conduct or the Microsoft Code of Conduct.
-
-Some of the apps and experiences on Mixer are provided by third-party developers. When you choose to use third-party apps or experiences: (i) your data is subject to that third party’s privacy policy. and (ii) Microsoft may share non-public additional information about your Mixer profile and Microsoft account with that developer. This information can include your settings, email, age, and other information you provide.
+Some of the apps and experiences on Mixer are provided by third-party developers. When you choose to use third-party apps or experiences: (i) your data is subject to that third party’s privacy policy. and (ii) with your consent, the third party developer will have access to information about you that is not part of your public profile, such as your settings, email address and age range.
 
 Groove Music and Movies &. TVGroove Music and Movies &. TVmaingroovemusicmoviestvmoduleSummary
 
@@ -2054,3 +2054,7 @@ Most Microsoft sites use cookies, small text files placed on your device which w
 EU-U.S. and Swiss-U.S. Privacy Shield
 
 Microsoft adheres to the principles of the EU-U.S. and Swiss-U.S. Privacy Shield frameworks. To learn more, visit the U.S. Department of Commerce’s Privacy Shield website.
+
+Contact us
+
+If you have a privacy concern, complaint, or question for the Microsoft Chief Privacy Officer or EU Data Protection Officer, please contact us by using our web form. For more information about contacting Microsoft, including Microsoft Ireland Operations Limited, see the How to contact us section of this privacy statement.
