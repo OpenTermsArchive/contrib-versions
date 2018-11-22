@@ -106,9 +106,9 @@ DMCA Copyright Notifications:
 
 Pursuant to 17 U.S.C. §§ 512(b)–(d), a copyright holder may send AT&T a valid notification of claimed copyright infringement under the DMCA. For further information regarding such notifications, see https://www.att.com/legal/terms.dmca.html. AT&T's designated agent to receive notifications of claimed infringement as described in DMCA subsection 512(c)(3) is:
 
-Manager of Security &. Copyright Infringement  
-1800 Perimeter Park Drive, Suite 100  
-Morrisville, NC 27560  
+Registered Copyright Agent  
+4825 Creekstone Drive, Suite 300  
+Durham, NC 27703  
 E-mail: copyright@att.com
 
 Due to the substantial volume of notifications of claimed infringement that AT&T receives and processes, we are unable to accept notices of alleged copyright infringement via this designated agent or email address other than notifications of claimed infringement sent pursuant to Sections 512(b)–(d).
