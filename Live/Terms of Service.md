@@ -346,6 +346,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Bing in the Classroom
 *   Bing Maps
 *   Bing Music Bot
+*   Bing Search APIs/SDKs
 *   Bing Search app
 *   Bing Sportscaster
 *   Bing Toolbar
@@ -354,7 +355,6 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Bing.com
 *   Bing
 *   Bingplaces.com
-*   BingSearch APIs/SDKs
 *   Citizen Next
 *   Cortana skills by Microsoft
 *   Cortana
@@ -799,6 +799,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Bing in the Classroom
 *   Bing Maps
 *   Bing Music Bot
+*   Bing Search APIs/SDKs
 *   Bing Search app
 *   Bing Sportscaster
 *   Bing Toolbar
@@ -807,7 +808,6 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Bing.com
 *   Bing
 *   Bingplaces.com
-*   BingSearch APIs/SDKs
 *   Citizen Next
 *   Cortana skills by Microsoft
 *   Cortana
