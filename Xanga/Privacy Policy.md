@@ -1,19 +1,19 @@
-Skip to toolbar
-
-*   Xanga
-
-*   Log In
-
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   how can i login my old blogs
+    *   \[Resolved\] by kiluv12
+    *   5 years ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by hotlavalamp 10 hours ago)
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   4 years ago
     *   in Data Migration
     *   0 votes
-    *   44 (last comment by no\_more\_love\_for\_you 3 weeks ago)
+    *   44 (last comment by no\_more\_love\_for\_you 4 weeks ago)
 *   In search for old posts
     *   by indycayushey125
     *   4 weeks ago
@@ -92,12 +92,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   Missing Blog Posts
-    *   by the\_lynne\_project
-    *   2 months ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
 1 2 3 ... 191 Next
 
@@ -156,4 +150,8 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
+
+*   Xanga
+
+*   Log In
