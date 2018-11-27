@@ -7,7 +7,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 years ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by hotlavalamp 10 hours ago)
+    *   2 (last comment by hotlavalamp 1 day ago)
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   4 years ago
@@ -16,7 +16,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   44 (last comment by no\_more\_love\_for\_you 4 weeks ago)
 *   In search for old posts
     *   by indycayushey125
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
