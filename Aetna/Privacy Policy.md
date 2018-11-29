@@ -205,24 +205,25 @@ About Us About us overview Who we are Who we are
 *   Our history
 *   Aetna facts &. subsidiaries
 *   Leadership
+*   Physician advisory board
 *   Political activities
 *   News &. analysis
 *   Health care reform
 *   Aetna story
+*   Code of Conduct
 
 Initiatives Initiatives
 
 *   Corporate responsibility
 *   Awards &. recognition
 *   Racial &. ethnic equity
-*   Physician advisory board
 *   Doing business with us
 
 Working with us Working with us
 
 *   Working at Aetna
 *   Aetna careers
-*   College Recruiting
+*   College recruiting
 *   Executive briefing center
 
 Investors Investors
@@ -231,7 +232,6 @@ Investors Investors
 *   Stock details
 *   Reports, filings &. statements
 *   Investor information
-*   Corporate governance
 *   Webcasts &. presentations
 *   Request information
 
