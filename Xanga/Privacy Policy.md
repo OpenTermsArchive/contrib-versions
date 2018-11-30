@@ -13,7 +13,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 years ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by hotlavalamp 3 days ago)
+    *   2 (last comment by hotlavalamp 4 days ago)
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   4 years ago
