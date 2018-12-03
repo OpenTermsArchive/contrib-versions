@@ -2,12 +2,30 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   I lost my blog and everything
+    *   by Y\_I\_U\_Y\_I\_U
+    *   3 hours ago
+    *   in Themes
+    *   0 votes
+    *   0
+*   I lost my blog and everything
+    *   by Y\_I\_U\_Y\_I\_U
+    *   3 hours ago
+    *   in Themes
+    *   0 votes
+    *   0
+*   I lost my blog and everything
+    *   by Y\_I\_U\_Y\_I\_U
+    *   3 hours ago
+    *   in Themes
+    *   0 votes
+    *   0
 *   how can i login my old blogs
     *   \[Resolved\] by kiluv12
     *   5 years ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by hotlavalamp 6 days ago)
+    *   2 (last comment by hotlavalamp 1 week ago)
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   4 years ago
@@ -70,24 +88,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Can't see all my old post
     *   by mandy0124
-    *   2 months ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   No Import Link Available
-    *   by PIRATESwithbO\_Obs
-    *   2 months ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Help Migrate me!
-    *   by london\_raincoats
-    *   2 months ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Missing Blog Posts
-    *   by the\_lynne\_project
     *   2 months ago
     *   in Data Migration
     *   0 votes
