@@ -68,6 +68,8 @@ XING News Plus General Terms and Conditions of Use
 
 Additional Terms and Conditions for the Use of XING Executive
 
+General Terms and Conditions for the use of XING Benefits Plus
+
 General Terms and Conditions
 
 Last updated: 4 January 2018
