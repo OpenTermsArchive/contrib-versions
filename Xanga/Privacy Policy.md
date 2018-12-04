@@ -1,22 +1,28 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
 *   I lost my blog and everything
     *   by Y\_I\_U\_Y\_I\_U
-    *   3 hours ago
+    *   1 day ago
+    *   in Themes
+    *   0 votes
+    *   1 (last comment by jefflynn 6 hours ago)
+*   I lost my blog and everything
+    *   by Y\_I\_U\_Y\_I\_U
+    *   1 day ago
     *   in Themes
     *   0 votes
     *   0
 *   I lost my blog and everything
     *   by Y\_I\_U\_Y\_I\_U
-    *   3 hours ago
-    *   in Themes
-    *   0 votes
-    *   0
-*   I lost my blog and everything
-    *   by Y\_I\_U\_Y\_I\_U
-    *   3 hours ago
+    *   1 day ago
     *   in Themes
     *   0 votes
     *   0
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
