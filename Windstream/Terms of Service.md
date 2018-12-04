@@ -53,8 +53,8 @@
 Terms and Conditions Windstream Information ▼ About us
 
 *   Windstream Information▼
-    *   Company History
     *   Company Overview
+    *   Company History
     *   Tariffs
     *   Coverage Map
     *   Lifeline Assistance Program
