@@ -335,14 +335,14 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Account.microsoft.com
 *   Advertising.microsoft.com
 *   Ask Cortana
-*   Bing Apps
 *   Bing App for Android
+*   Bing Apps
 *   Bing Bots
 *   Bing Business Bot
 *   Bing Desktop
 *   Bing Dictionary
 *   Bing for Business
-*   Bing Image and News(iOS)
+*   Bing Image and News (iOS)
 *   Bing in the Classroom
 *   Bing Maps
 *   Bing Music Bot
@@ -350,6 +350,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Bing Search app
 *   Bing Sportscaster
 *   Bing Toolbar
+*   Bing Translator
 *   Bing Webmaster
 *   Bing Wikipedia Browser
 *   Bing.com
@@ -401,7 +402,6 @@ The following products, apps and services are covered by the Microsoft Services 
 *   MSN Travel
 *   MSN Weather
 *   MSN.com
-*   News Pro App and Website
 *   Next Lock Screen
 *   Office 365 Consumer
 *   Office 365 Home
@@ -442,6 +442,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   UrWeather
 *   Video Breakdown
 *   Visio Online
+*   Web Translator
 *   Who’s In
 *   Windows Live Mail
 *   Windows Live Writer
@@ -788,14 +789,14 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Account.microsoft.com
 *   Advertising.microsoft.com
 *   Ask Cortana
-*   Bing Apps
 *   Bing App for Android
+*   Bing Apps
 *   Bing Bots
 *   Bing Business Bot
 *   Bing Desktop
 *   Bing Dictionary
 *   Bing for Business
-*   Bing Image and News(iOS)
+*   Bing Image and News (iOS)
 *   Bing in the Classroom
 *   Bing Maps
 *   Bing Music Bot
@@ -803,6 +804,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Bing Search app
 *   Bing Sportscaster
 *   Bing Toolbar
+*   Bing Translator
 *   Bing Webmaster
 *   Bing Wikipedia Browser
 *   Bing.com
@@ -854,7 +856,6 @@ The following products, apps and services are covered by the Microsoft Services 
 *   MSN Travel
 *   MSN Weather
 *   MSN.com
-*   News Pro App and Website
 *   Next Lock Screen
 *   Office 365 Consumer
 *   Office 365 Home
@@ -895,6 +896,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   UrWeather
 *   Video Breakdown
 *   Visio Online
+*   Web Translator
 *   Who’s In
 *   Windows Live Mail
 *   Windows Live Writer
