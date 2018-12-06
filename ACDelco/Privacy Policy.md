@@ -10,7 +10,8 @@
 *   Commitment
 *   Culture
 *   Technology
-*   Social Responsibility
+*   Sustainability
+*   Community
 
 Social Responsibility
 
@@ -22,8 +23,8 @@ Read the Story
 *   OUR COMPANY
 *   About GM
 *   Leadership
-*   Sustainability
-*   Community
+*   Sustainability Report
+*   Social Investment
 
 Commitment
 
@@ -311,6 +312,7 @@ Last modified: January 5, 2018
 *   Owners
 *   Press
 *   Contact
+*   Retiree/Alumni
 *   Ignition Updates
 *   Takata Information
 *   Recalls
@@ -320,6 +322,7 @@ Last modified: January 5, 2018
 *   Supply Chain Responsibility
 *   Privacy Statement
 *   California Privacy Policy
+*   Sitemap
 
  
 
