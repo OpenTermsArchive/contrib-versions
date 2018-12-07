@@ -1,11 +1,3 @@
-Announcement:
-
-On Wednesday, December 5, starting at 9:00am PST | 12:00pm EST, Apple Support Communities will be down a portion of the day. Please pardon our dust as we work behind the scenes to make improvements to the community. We appreciate your patience.
-
-Read announcement Hide announcement
-
-On Wednesday, December 5, starting at 9:00am PST | 12:00pm EST, Apple Support Communities will be down a portion of the day. Please pardon our dust as we work behind the scenes to make improvements to the community. We appreciate your patience.
-
 Apple Support Communities Use Agreement
 
 **Apple Support Communities Use Agreement**
