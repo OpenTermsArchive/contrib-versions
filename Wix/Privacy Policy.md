@@ -471,6 +471,8 @@ Have any questions or suggestions? We’d love to hear them!
 *   Dansk
 *   हिन्दी
 *   Čeština
+*   繁體中文
+*   ไทย
 
 Sign In
 
