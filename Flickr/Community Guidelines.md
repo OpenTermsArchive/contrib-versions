@@ -122,10 +122,6 @@ You may also want to check out our FAQs and Privacy Policy. If you ever have any
 
 The Flickreenos, May 9, 2018
 
-Flickr’s Pro and Free account offerings are changing. See what it means for you.
-
-Learn more
-
 *   About
 *   Jobs
 *   Blog
