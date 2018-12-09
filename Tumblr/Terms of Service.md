@@ -1,4 +1,4 @@
-Terms of Service Last Modified: 2018-05-15Tumblrはアメリカ合衆国を拠点とする企業です。Tumblrでは裁判管轄をアメリカ合衆国のみと定めています。これらの利用規約(およびその他の規約、ポリシー、ガイドラインなど)のオリジナル版は英語で作成されています。これらの利用規約の翻訳版のいかなる部分(およびその他の規約、ポリシー、ガイドラインなど)も英語版と相違がある場合は、英語版がそれに優先されるものとします。
+Terms of Service Last Modified: 2018-05-15Tumblr is a U.S. company and subject to U.S. laws and jurisdiction. The original version of these Terms of Service (and any other terms, policies, or guidelines that we provide to you) are written in English. To the extent any translated version of these Terms of Service (or any other terms, policies, or guidelines that we provide to you) conflicts with the English version, the English version controls.
 
 **THESE TERMS OF SERVICE CONTAIN LIMITATIONS OF TUMBLR'S LIABILITY IN SECTION 14.**
 
