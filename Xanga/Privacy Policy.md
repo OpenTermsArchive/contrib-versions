@@ -1,22 +1,34 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Migrate my Data?
+    *   by aleph
+    *   3 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   I lost my blog and everything
     *   by Y\_I\_U\_Y\_I\_U
-    *   6 days ago
+    *   1 week ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by jefflynn 5 days ago)
+    *   1 (last comment by jefflynn 6 days ago)
 *   I lost my blog and everything
     *   by Y\_I\_U\_Y\_I\_U
-    *   6 days ago
+    *   1 week ago
     *   in Themes
     *   0 votes
     *   0
 *   I lost my blog and everything
     *   by Y\_I\_U\_Y\_I\_U
-    *   6 days ago
+    *   1 week ago
     *   in Themes
     *   0 votes
     *   0
@@ -25,7 +37,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 years ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by hotlavalamp 1 week ago)
+    *   2 (last comment by hotlavalamp 2 weeks ago)
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   4 years ago
@@ -82,13 +94,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Can't see all my old post
     *   by mandy0124
-    *   2 months ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Can't see all my old post
-    *   by mandy0124
-    *   2 months ago
+    *   3 months ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
