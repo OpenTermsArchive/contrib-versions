@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Migrate my Data?
     *   by aleph
-    *   3 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,7 +19,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by jefflynn 6 days ago)
+    *   1 (last comment by jefflynn 1 week ago)
 *   I lost my blog and everything
     *   by Y\_I\_U\_Y\_I\_U
     *   1 week ago
@@ -88,7 +88,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   How do I download my archived posts?
     *   by cillypiggy
-    *   2 months ago
+    *   3 months ago
     *   in Data Migration
     *   0 votes
     *   0
