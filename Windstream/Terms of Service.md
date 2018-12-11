@@ -61,8 +61,8 @@ Terms and Conditions Windstream Information ▼ About us
         *   Lifeline Applications
     *   Bill Information
         *   Bill Information (Spanish)
-    *   FCC Rural Call Completion
     *   Store Finder
+    *   FCC Rural Call Completion
     *   Google Apps License
 *   Suppliers▼
     *   Supplier Information
