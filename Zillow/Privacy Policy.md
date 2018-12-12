@@ -30,7 +30,6 @@ Rent
         *   Resource center
 *   I'm a renter
     *   *   My rent payments
-        *   Renter Profile
         *   Rent affordability calculator
         *   Renters Guide
 
