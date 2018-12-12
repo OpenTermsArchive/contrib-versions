@@ -21,7 +21,7 @@ You can save your updated Wi-Fi passwords to Amazon by re-running any compatible
 To delete Wi-Fi passwords saved to Amazon using your web browser:  
 
 1.  Go to Manage Your Content and Devices
-2.  Click the **Settings** tab.
+2.  Click the **Preferences** tab.
 3.  Under **Saved Wi-Fi Passwords**, click **Delete**.
 
 To delete Wi-Fi passwords saved to Amazon from your compatible Kindle e-reader:  
