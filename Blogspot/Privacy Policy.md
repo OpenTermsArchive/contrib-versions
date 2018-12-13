@@ -1,4 +1,4 @@
-Google Privacy Policy
+Google Privacy PolicyAn updated version of our Privacy Policy takes effect on January 22, 2019.
 
 When you use our services, you’re trusting us with your information. We understand this is a big responsibility and work hard to protect your information and put you in control.
 
