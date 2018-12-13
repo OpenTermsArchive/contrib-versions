@@ -134,7 +134,3 @@ The Flickreenos, May 9, 2018
 *   Privacy
 *   Terms
 *   Help
-
- 
-
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WS6KDNW" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
