@@ -1,16 +1,10 @@
-Skip to toolbar
-
-*   Xanga
-
-*   Log In
-
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
 *   Migrate my Data?
     *   by aleph
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -76,7 +70,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Retrieve old photos
     *   by twinklingstar\_yin
-    *   1 month ago
+    *   2 months ago
     *   in Pictures
     *   0 votes
     *   0
@@ -156,4 +150,8 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
+
+*   Xanga
+
+*   Log In
