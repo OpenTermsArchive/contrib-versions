@@ -173,7 +173,6 @@ Plans &. services Plans &. services
 *   Dental plans &. programs
 *   Vision insurance
 *   Disability insurance
-*   Life insurance
 *   Health expense funds
 *   Pharmacy
 *   Behavioral health programs
