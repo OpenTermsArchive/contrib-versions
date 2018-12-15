@@ -1,10 +1,22 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Can't retrieve posts older than 2007
+    *   by star0182
+    *   12 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Migrate my Data?
     *   by aleph
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -76,18 +88,12 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   No link for asking private questions
     *   by catseye\_night
-    *   2 months ago
+    *   3 months ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   How do I download my archived posts?
     *   by cillypiggy
-    *   3 months ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Can't see all my old post
-    *   by mandy0124
     *   3 months ago
     *   in Data Migration
     *   0 votes
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
