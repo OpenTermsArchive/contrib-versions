@@ -10,13 +10,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Can't retrieve posts older than 2007
     *   by star0182
-    *   12 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Migrate my Data?
     *   by aleph
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
