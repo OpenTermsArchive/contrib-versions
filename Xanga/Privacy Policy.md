@@ -10,31 +10,31 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Can't retrieve posts older than 2007
     *   by star0182
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Migrate my Data?
     *   by aleph
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I lost my blog and everything
     *   by Y\_I\_U\_Y\_I\_U
-    *   1 week ago
+    *   2 weeks ago
     *   in Themes
     *   0 votes
     *   1 (last comment by jefflynn 1 week ago)
 *   I lost my blog and everything
     *   by Y\_I\_U\_Y\_I\_U
-    *   1 week ago
+    *   2 weeks ago
     *   in Themes
     *   0 votes
     *   0
 *   I lost my blog and everything
     *   by Y\_I\_U\_Y\_I\_U
-    *   1 week ago
+    *   2 weeks ago
     *   in Themes
     *   0 votes
     *   0
@@ -43,7 +43,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 years ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by hotlavalamp 2 weeks ago)
+    *   2 (last comment by hotlavalamp 3 weeks ago)
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   4 years ago
@@ -76,7 +76,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Can't Reset Password, Old Email Address No Longer Exists
     *   by hyunwoo\_likes\_ramen
-    *   1 month ago
+    *   2 months ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
