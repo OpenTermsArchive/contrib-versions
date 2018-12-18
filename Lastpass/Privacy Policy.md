@@ -2,8 +2,6 @@ LogMeIn Privacy Policy
 
 Last Updated on January 1, 2018
 
-**Privacy Overview**
-
 **Introduction**
 
 This privacy policy will help you understand what information we collect and use at LogMeIn, and the choices you have associated with that information. When we refer to “LogMeIn,” “we,” “our,” or “us” in this policy, we are referring to LogMeIn, Inc**._,_** and its subsidiaries and affiliates, which provides the Services to you. The “Services” refers to the applications, services, and websites (marketing and product) provided by LogMeIn. LogMeIn may, from time to time, introduce new products and services. To the extent that these new products and services affect this policy, we will notify you as described in Section 8 below. This privacy policy covers the digital properties listed here. The use of information collected through our service shall be limited to the purpose of providing the services for our customers and as specified herein.
