@@ -4,7 +4,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Can't retrieve posts older than 2007
     *   by star0182
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
