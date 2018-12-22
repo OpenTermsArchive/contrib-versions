@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Can't retrieve posts older than 2007
     *   by star0182
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -58,13 +58,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Old Xanga
     *   by drown\_n\_5feet
-    *   1 month ago
+    *   2 months ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Xanga
     *   by drown\_n\_5feet
-    *   1 month ago
+    *   2 months ago
     *   in Data Migration
     *   0 votes
     *   0
