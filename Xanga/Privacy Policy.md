@@ -16,25 +16,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Migrate my Data?
     *   by aleph
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I lost my blog and everything
     *   by Y\_I\_U\_Y\_I\_U
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Themes
     *   0 votes
     *   1 (last comment by jefflynn 2 weeks ago)
 *   I lost my blog and everything
     *   by Y\_I\_U\_Y\_I\_U
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Themes
     *   0 votes
     *   0
 *   I lost my blog and everything
     *   by Y\_I\_U\_Y\_I\_U
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Themes
     *   0 votes
     *   0
@@ -43,7 +43,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 years ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by hotlavalamp 3 weeks ago)
+    *   2 (last comment by hotlavalamp 4 weeks ago)
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   4 years ago
