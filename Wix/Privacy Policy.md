@@ -474,7 +474,7 @@ Have any questions or suggestions? We’d love to hear them!
 *   繁體中文
 *   ไทย
 
-Sign In <img height="1" width="1" src="https://d.turn.com/r/dd/id/L21rdC84MTYvY2lkLzE3NDgwODExNjUvdC8y/kv/Pagename=PageView">.
+Sign In
 
 *   PRODUCT
     *   Templates
@@ -532,3 +532,5 @@ Wix.com is a leading cloud-based development platform with millions of users wor
 Promote your business, showcase your art, set up an online shop or just test out new ideas. The Wix website builder has everything you need to create a fully personalized, high-quality free website.
 
 © 2006-2018 Wix.com, Inc
+
+<img height="1" width="1" src="https://d.turn.com/r/dd/id/L21rdC84MTYvY2lkLzE3NDgwODExNjUvdC8y/kv/Pagename=PageView">.
