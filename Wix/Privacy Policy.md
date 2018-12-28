@@ -474,7 +474,7 @@ Have any questions or suggestions? We’d love to hear them!
 *   繁體中文
 *   ไทย
 
-Sign In <img height="1" width="1" src="https://d.turn.com/r/dd/id/L21rdC84MTYvY2lkLzE3NDgwODExNjUvdC8y/kv/Pagename=PageView">.
+Sign In
 
 *   PRODUCT
     *   Templates
