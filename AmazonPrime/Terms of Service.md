@@ -1,6 +1,6 @@
 Amazon Prime Terms
 
-Last updated October 31, 2017
+Last updated December 27, 2018
 
 Welcome to the terms and conditions ("**Terms**") for Amazon Prime. These Terms are between you and Amazon Services LLC and/or its affiliates ("**Amazon.com**" or "**Us**") and govern our respective rights and obligations. Please note that your use of the Amazon.com website and Prime membership are also governed by the agreements listed and linked to below, as well as all other applicable terms, conditions, limitations, and requirements on the Amazon.com website, all of which (as changed over time) are incorporated into these Terms. If you sign up for a Prime membership, you accept these terms, conditions, limitations and requirements.
 
@@ -8,12 +8,12 @@ Welcome to the terms and conditions ("**Terms**") for Amazon Prime. These Terms 
 *   Amazon.com Privacy Notice
 *   Amazon Video Terms of Use
 *   Amazon Music Terms of Use
-*   Amazon Drive Terms of Use
+*   Amazon Photos Terms of Use
 *   Kindle Store Terms of Use
 
 Membership Cancellation
 
-You may cancel your Prime membership any time by visiting Your Account and adjusting your membership settings. If you cancel within 3 business days of signing up for or converting from a free trial to a paid membership, we will refund your full membership fee. provided that we may charge you (or withhold from your refund) the value of Prime benefits used by you and your account during this 3-business day period. If you cancel at any other time, we will refund your full membership fee only if you and your account did not make any eligible purchases or take advantage of Prime benefits since your latest Prime membership charge. Prime memberships redeemed through a Prime gift code or promotional code are not refundable.
+If you signed-up for your Prime membership directly through us, you may cancel your Prime membership any time by visiting Your Account and adjusting your membership settings. If you cancel within 3 business days of signing up for or converting from a free trial to a paid membership, we will refund your full membership fee. provided that we may charge you (or withhold from your refund) the value of Prime benefits used by you and your account during this 3-business day period. If you cancel at any other time, we will refund your full membership fee only if you and your account did not make any eligible purchases or take advantage of Prime benefits since your latest Prime membership charge. If you signed up for your Prime membership through a third party, you may need to contact the third party to cancel your membership or receive any refund under its applicable policies. Prime memberships redeemed through a Prime gift code or promotional code are not refundable.
 
 Shipping Benefits and Eligible Purchases
 
@@ -38,9 +38,13 @@ Fees and Renewal
 
 The membership fee for Prime is stated in the Prime section of our Help pages. For Amazon Student fees and renewal information, see applicable terms and conditions. From time to time, we may offer different membership terms, and the fees for such membership may vary. The Prime membership fee is non-refundable except as expressly set forth in these Terms. Taxes may apply on either or both of the membership fee and the reduced shipping charges for Prime.
 
+If you sign up for your Prime membership through us and are billed by us, then the billing terms described below will apply to your membership.
+
 If all eligible payment methods we have on file for you are declined for payment of your membership fee, you must provide us a new eligible payment method promptly or your membership will be canceled. If you provide us with a new eligible payment method and are successfully charged, your new membership period will be based on the original renewal date and not the date of the successful charge.
 
 UNLESS YOU NOTIFY US BEFORE A CHARGE THAT YOU WANT TO CANCEL OR DO NOT WANT TO AUTO RENEW, YOU UNDERSTAND YOUR PRIME MEMBERSHIP WILL AUTOMATICALLY CONTINUE AND YOU AUTHORIZE US (WITHOUT NOTICE TO YOU, UNLESS REQUIRED BY APPLICABLE LAW) TO COLLECT THE THEN-APPLICABLE MEMBERSHIP FEE AND ANY TAXES, USING ANY ELIGIBLE PAYMENT METHOD WE HAVE ON RECORD FOR YOU.
+
+If you signed up for your Prime membership through a third party and are not billed directly by us, then the billing terms provided by the third party will apply to your membership.
 
 Promotional Trial Memberships
 
