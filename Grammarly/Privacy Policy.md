@@ -242,4 +242,4 @@ CommunityFacebook
 Instagram  
 Twitter  
 LinkedIn  
-2018 © Grammarly Inc.
+2019 © Grammarly Inc.
