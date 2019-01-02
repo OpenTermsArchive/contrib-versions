@@ -1,4 +1,4 @@
-Wix.com Privacy Policy Effective Date: October 23, 2018
+Wix.com Privacy Policy Policy last updated: December 31, 2018
 
 Welcome to Wix.com’s Privacy Policy!
 
