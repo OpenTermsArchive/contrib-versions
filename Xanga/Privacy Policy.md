@@ -22,19 +22,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   I lost my blog and everything
     *   by Y\_I\_U\_Y\_I\_U
-    *   4 weeks ago
+    *   1 month ago
     *   in Themes
     *   0 votes
     *   1 (last comment by jefflynn 4 weeks ago)
 *   I lost my blog and everything
     *   by Y\_I\_U\_Y\_I\_U
-    *   4 weeks ago
+    *   1 month ago
     *   in Themes
     *   0 votes
     *   0
 *   I lost my blog and everything
     *   by Y\_I\_U\_Y\_I\_U
-    *   4 weeks ago
+    *   1 month ago
     *   in Themes
     *   0 votes
     *   0
