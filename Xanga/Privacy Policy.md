@@ -8,6 +8,18 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Data Migration
+    *   by k\_\_\_a\_\_m
+    *   1 hour ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Old Xanga
+    *   by eli0661
+    *   14 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Can't retrieve posts older than 2007
     *   by star0182
     *   2 weeks ago
@@ -84,18 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by twinklingstar\_yin
     *   2 months ago
     *   in Pictures
-    *   0 votes
-    *   0
-*   No link for asking private questions
-    *   by catseye\_night
-    *   3 months ago
-    *   in Miscellaenous
-    *   0 votes
-    *   0
-*   How do I download my archived posts?
-    *   by cillypiggy
-    *   3 months ago
-    *   in Data Migration
     *   0 votes
     *   0
 
