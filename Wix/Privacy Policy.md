@@ -531,4 +531,4 @@ Wix.com is a leading cloud-based development platform with millions of users wor
 
 Promote your business, showcase your art, set up an online shop or just test out new ideas. The Wix website builder has everything you need to create a fully personalized, high-quality free website.
 
-© 2006-2018 Wix.com, Inc
+© 2006-2019 Wix.com, Inc
