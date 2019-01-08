@@ -63,7 +63,7 @@ In some situations, third parties' terms may apply to your use of GitHub. For ex
 
 If you are a government User or otherwise accessing or using any GitHub Service in a government capacity, this Government Amendment to GitHub Terms of Service applies to you, and you agree to its provisions.
 
-If you have signed up for GitHub Business Cloud, the Business Cloud Addendum applies to you, and you agree to its provisions.
+If you have signed up for GitHub Enterprise Cloud, the Enterprise Cloud Addendum applies to you, and you agree to its provisions.
 
 C. Acceptable Use
 
