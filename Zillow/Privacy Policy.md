@@ -239,7 +239,7 @@ Please note that this policy may be amended from time to time. You should check 
 *   Ad Choice
 
 *   Blog
-*   Data Science
+*   AI
 *   Mobile Apps
 
 *   © 2006-2019 Zillow
