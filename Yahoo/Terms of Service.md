@@ -108,7 +108,7 @@ _In June 2017, we announced that Yahoo and AOL had joined to become Oath, a digi
                 1.  U.S. Daily Fantasy
                 2.  U.S. Fantasy Cash Leagues
                 3.  U.S. Fantasy Pro Leagues
-            4.  Other than U.K. Daily Fantasy, other Fantasy Sports services are provided by Oath Holdings, Inc.
+            4.  Other than U.K. Daily Fantasy, other Fantasy Sports services are provided by Oath Inc.
             5.  Style Me Pretty is provided by Style Me Pretty, LLC.
             6.  Ryot Studio is provided by TheHuffingtonPost.com Inc.
             7.  Flurry is provided by Flurry, Inc.
