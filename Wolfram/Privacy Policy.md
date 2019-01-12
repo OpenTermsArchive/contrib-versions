@@ -61,7 +61,7 @@ Accessing Our Data Servers
 
 Various Wolfram Services offer some functionality for which they must access our data servers through the internet. When they do so, our data servers receive information similar to what our web servers receive when you visit our websites, as well as various Service-specific identifying information.
 
-Specifically, using Wolfram|Alpha, or utilizing the Wolfram|Alpha functionality within other Services, will trigger the collection of information about the specific query. Some queries may require collecting additional information, such as session information covering the history of Wolfram Mathematica evaluations or the content of Wolfram Finance Platform notebooks containing the Wolfram|Alpha query. You will be given an opt-in prompt on a per-session basis about this expanded Wolfram|Alpha information collection.
+Specifically, using Wolfram|Alpha, or utilizing the Wolfram|Alpha functionality within other Services, will trigger the collection of information about the specific query. Some queries may require collecting additional information, such as session information covering the history of Wolfram Mathematica evaluations or the content of Wolfram Finance Platform notebooks containing the Wolfram|Alpha query.
 
 You can choose to prevent these Services from accessing our servers by disconnecting from the internet or by using the Internet Connectivity item in the Help menu to tell the Service not to connect to the internet. If you choose not to allow these Services to access our servers, our Services will not be able to perform certain functions.
 
@@ -89,4 +89,4 @@ If you have any questions or concerns about this Privacy Policy, you may contact
 
 By using our Services, you are telling us either that you are 18 years or older and legally able to form contracts, or that an adult with authority to act on your behalf has agreed to these terms and to be responsible for ensuring your compliance with them in your use of the Services and any results you obtain from them. If you don't want to be bound by these terms, do not use the Services or their results.
 
-Revised October 29, 2018
+Revised January 9, 2019
