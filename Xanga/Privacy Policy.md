@@ -94,7 +94,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Retrieve old photos
     *   by twinklingstar\_yin
-    *   2 months ago
+    *   3 months ago
     *   in Pictures
     *   0 votes
     *   0
