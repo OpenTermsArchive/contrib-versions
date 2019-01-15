@@ -108,12 +108,11 @@ _In June 2017, we announced that Yahoo and AOL had joined to become Oath, a digi
                 1.  U.S. Daily Fantasy
                 2.  U.S. Fantasy Cash Leagues
                 3.  U.S. Fantasy Pro Leagues
-            4.  Other than U.K. Daily Fantasy, other Fantasy Sports services are provided by Oath Inc.
+            4.  Other Fantasy Sports services are provided by Oath Inc.
             5.  Style Me Pretty is provided by Style Me Pretty, LLC.
             6.  Ryot Studio is provided by TheHuffingtonPost.com Inc.
             7.  Flurry is provided by Flurry, Inc.
         2.  Yahoo Cricket is provided by Yahoo India Private Limited.
-        3.  U.K. Daily Fantasy services are provided by Oath (EMEA) Limited and the provisions of Section 14.III.13 apply.
 14.  **Contracting Party, Choice of Law, and Location for Resolving Disputes and Other Local Region Provisions**
 
 1.  In Section 13 above, find the provider of the Services you are using. That is the provider that you are contracting with for the Services. The choice of law, the location for resolving disputes, certain defined terms (including the Applicable Oath Company), and other important region specific provisions are in this Section 14. If you have any questions, please contact customer care using the contact information in the region that applies to you below.
@@ -310,7 +309,7 @@ Europe, Middle East and Africa
             4.  if your account shows extended periods of inactivity in accordance with our account deletion policy.
     8.  If we permanently suspend or terminate your account, we will notify you in advance and allow you reasonable time to access and save information, files, and content associated with your account unless we have reason to believe that continued access to your account will violate applicable legal provisions, requests by law enforcement or other government agencies, or cause damage to us or to third parties.
     9.  _Cooling off period for EU consumers._ The following provisions supplement Section 11 (Fee-Based Services and Billing).
-        1.  If you are a consumer living in the EU, you can cancel your fee-based Service without giving a reason within 14 days from the day of the conclusion of the contract. You can notify us by contacting us at customer care, or completing and submitting this form. You must send your notification to us before expiry of the 14 days cancellation period.
+        1.  If you are a consumer living in the EU, you can cancel your fee-based Service without giving a reason within 14 days from the day of the conclusion of the contract. You can notify us by completing and submitting this form or if you have no other option, by returning this form to us by post. You must send your notification to us before expiry of the 14-day cancellation period.
         2.  Exceptions. If you purchase digital content not supplied in a tangible medium from us you agree that the cancellation period expires immediately once you begin to download or stream the digital content.
         3.  Reimbursement. We will reimburse all payments received from you for the fee-based Service no later than 14 days from the day on which we received your cancellation notification. Unless you expressly agree otherwise, we will use the same means of payment as used for the initial transaction. You agree that if you start using the fee-based Service before the end of the cancellation period you will be liable for all charges incurred up to the date of cancellation
     10.  _Auto-Renewal._ In addition to Section 11(b)(v), the following shall apply: If your subscription is auto-renewed and the price has increased, you will be notified of the applicable new price and you will be allowed to terminate your subscription within a period of 14 days upon receipt of the notice. In such case the new price will not become effective and your subscription will end at the end of the term.
@@ -319,4 +318,4 @@ Europe, Middle East and Africa
     13.  Additional terms for Italian users can be found here.
     14.  Additional terms for German users can be found here.
 
-_Last updated: October 2018_
+_Last updated:_ _January 2019_
