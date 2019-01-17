@@ -8,6 +8,12 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Lost my Data
+    *   by sharib1975
+    *   22 hours ago
+    *   in Pictures
+    *   0 votes
+    *   0
 *   Data Migration
     *   by k\_\_\_a\_\_m
     *   1 week ago
@@ -90,12 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by hyunwoo\_likes\_ramen
     *   3 months ago
     *   in Passwords &. Sign-In
-    *   0 votes
-    *   0
-*   Retrieve old photos
-    *   by twinklingstar\_yin
-    *   3 months ago
-    *   in Pictures
     *   0 votes
     *   0
 
