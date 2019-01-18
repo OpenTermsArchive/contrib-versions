@@ -10,19 +10,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Lost my Data
     *   by sharib1975
-    *   22 hours ago
+    *   1 day ago
     *   in Pictures
     *   0 votes
     *   0
 *   Data Migration
     *   by k\_\_\_a\_\_m
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Xanga
     *   by eli0661
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
