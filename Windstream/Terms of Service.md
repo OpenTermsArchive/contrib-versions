@@ -1,9 +1,7 @@
 <iframe aria-hidden="true" title="Google Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-THS7L57" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
 
 *   Residential
-*   Small Business
-*   Enterprise
-*   Wholesale
+*   Business
 
 *   Denver, CO
 
@@ -634,9 +632,9 @@ Company
 
 WINDSTREAM
 
-Windstream is one of the largest providers of telecommunications services in rural communities in the United States, and we are a customer-focused telecommunications company that provides phone, high-speed Internet and digital television services. We also offer a wide range of IP-based voice and data services and advanced phone systems and equipment to businesses and government agencies.
+Kinetic by Windstream provides services to residential and business customers in 18 states focused on providing local connectivity and entertainment.  The Kinetic suite of services including high-speed Internet, streaming TV, phone and security products for homes.  In addition, Kinetic Business by Windstream provides networking, communications and technology solutions including Internet, unified communications, cloud, security and business TV services to small and medium-sized businesses.  
 
-Residential Small Business Enterprise Wholesale FIND US ON Twitter Facebook
+Residential Business FIND US ON Twitter Facebook
 
 Copyright © 2019 Windstream Communications. All rights reserved.
 
