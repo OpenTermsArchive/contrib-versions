@@ -10,13 +10,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   No Free Blog Options
     *   by Spica\_the\_PI
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Close
     *   by smallndangerous
-    *   2 days ago
+    *   3 days ago
     *   in Privacy
     *   0 votes
     *   0
@@ -25,22 +25,22 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 years ago
     *   in Miscellaenous
     *   0 votes
-    *   8 (last comment by smallndangerous 2 days ago)
+    *   8 (last comment by smallndangerous 3 days ago)
 *   PLEASE SHUT DOWN MY ACCOUNT!
     *   by smallndangerous
-    *   2 days ago
+    *   3 days ago
     *   in Privacy
     *   0 votes
     *   0
 *   PLEASE SHUT DOWN MY ACCOUNT!
     *   by smallndangerous
-    *   2 days ago
+    *   3 days ago
     *   in Privacy
     *   0 votes
     *   0
 *   Lost my Data
     *   by sharib1975
-    *   4 days ago
+    *   5 days ago
     *   in Pictures
     *   0 votes
     *   0
