@@ -1,10 +1,10 @@
-Google Privacy PolicyAn updated version of our Privacy Policy takes effect on January 22, 2019.
+Google Privacy Policy
 
 When you use our services, you’re trusting us with your information. We understand this is a big responsibility and work hard to protect your information and put you in control.
 
 This Privacy Policy is meant to help you understand what information we collect, why we collect it, and how you can update, manage, export, and delete your information.
 
-Effective May 25, 2018 | Archived versions | Download PDFContentsIntroductionInformation Google collectsWhy Google collects dataYour privacy controlsSharing your informationKeeping your information secureExporting &. deleting your informationCompliance &. cooperation with regulatorsAbout this policyRelated privacy practices
+Effective January 22, 2019 | Archived versions | Download PDFContentsIntroductionInformation Google collectsWhy Google collects dataYour privacy controlsSharing your informationKeeping your information secureExporting &. deleting your informationCompliance &. cooperation with regulatorsAbout this policyRelated privacy practices
 
 We build a range of services that help millions of people daily to explore and interact with the world in new ways. Our services include:
 
@@ -70,7 +70,7 @@ Your location can be determined with varying degrees of accuracy by:
 *   Sensor data from your device
 *   Information about things near your device, such as Wi-Fi access points, cell towers, and Bluetooth-enabled devices
 
-The types of location data we collect depend in part on your device and account settings. For example, you can turn your Android device’s location on or off using the device’s settings app. You can also turn on Location History if you want to save and manage your location information in your account.
+The types of location data we collect depend in part on your device and account settings. For example, you can turn your Android device’s location on or off using the device’s settings app. You can also turn on Location History if you want to create a private map of where you go with your signed-in devices.
 
 In some circumstances, Google also collects information about you from publicly accessible sources. For example, if your name appears in your local newspaper, Google’s Search engine may index that article and display it to other people if they search for your name. We may also collect information about you from trusted partners, including marketing partners who provide us with information about potential customers of our business services, and security partners who provide us with information to protect against abuse. We also receive information from advertisers to provide advertising and research services on their behalf.
 
@@ -229,7 +229,7 @@ We do not share your personal information with companies, organizations, or indi
 
 With your consent
 
-We’ll share personal information outside of Google when we have your consent. For example, if you use Google Home to request a ride from a ride-sharing service, we’ll get your permission before sharing your address with that service. We’ll ask for your explicit consent to share any sensitive personal information.
+We’ll share personal information outside of Google when we have your consent. For example, if you use Google Home to make a reservation through a booking service, we’ll get your permission before sharing your name or phone number with the restaurant. We’ll ask for your explicit consent to share any sensitive personal information.
 
 With domain administrators
 
@@ -324,10 +324,10 @@ The following privacy notices provide additional information about some Google s
 *   Play Books
 *   Payments
 *   Fiber
-*   Project Fi
+*   Google Fi
 *   G Suite for Education
 *   YouTube Kids
-*   Google Accounts Managed with Family Link
+*   Google Accounts Managed with Family Link, for Children under 13 (or applicable age in your country)
 
 Other useful resources
 
@@ -335,15 +335,13 @@ The following links highlight useful resources for you to learn more about our p
 
 *   Your Google Account is home to many of the settings you can use to manage your account
 *   Privacy Checkup guides you through key privacy settings for your Google Account
-*   Google’s safety center offers advice for staying safe &. secure
-*   Google's privacy site provides more information about how we keep your information private and safe
+*   Google’s safety center helps you learn more about our built-in security, privacy controls, and tools to help set digital ground rules for your family online
 *   Privacy &. Terms provides more context regarding this Privacy Policy and our Terms of Service
-*   Technologies and Principles includes more information about:
+*   Technologies includes more information about:
     *   How Google uses cookies
     *   Technologies used for Advertising
     *   How Google uses pattern recognition to recognize things like faces in photos
-    *   A page that explains what data is shared with Google when you visit websites that use our advertising, analytics and social products.
-    *   How Google uses data when you use our partners' sites or apps
+    *   How Google uses information from sites or apps that use our services
 
 ads you’ll find most useful
 
@@ -385,7 +383,7 @@ Examples of these services include:
 
 *   Google Hangouts, for making domestic and international calls
 *   Google Voice, for making calls, sending text messages, and managing voicemail
-*   Project Fi, for a phone plan
+*   Google Fi, for a phone plan
 
 Sensor data from your device
 
@@ -415,6 +413,7 @@ Examples of how we use your information to deliver our services include:
 *   We use unique identifiers stored in cookies on your device to help us authenticate you as the person who should have access to your Google Account
 *   Photos and videos you upload to Google Photos are used to help you create albums, animations, and other creations that you can share. Learn more
 *   A flight confirmation email you receive may be used to create a “check-in” button that appears in your Gmail
+*   When you purchase services or physical goods from us, you may provide us information like your shipping address or delivery instructions. We use this information for things like processing, fulfilling, and delivering your order, and to provide support in connection with the product or service you purchase.
 
 ensure our services are working as intended
 
@@ -512,7 +511,7 @@ For example, we may display a Google Doodle on the Search homepage to celebrate 
 
 Affiliates
 
-An affiliate is an entity that belongs to the Google group of companies, including the following companies that provide consumer services in the EU: Google Commerce Ltd, Google Payment Corp, and Google Dialer Inc. Learn more about the companies providing business services in the EU.
+An affiliate is an entity that belongs to the Google group of companies, including the following companies that provide consumer services in the EU: Google Ireland Limited, Google Commerce Ltd, Google Payment Corp, and Google Dialer Inc. Learn more about the companies providing business services in the EU.
 
 Algorithm
 
