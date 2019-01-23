@@ -1,4 +1,4 @@
-Terms of Service and License AgreementEffective as of May 25, 2018
+Terms of Service and License AgreementEffective as of January 22, 2019
 
 Together with its subsidiaries and other affiliates, Grammarly, Inc., a Delaware corporation (“Grammarly”), makes available the “Site” (websites including, without limitation, www.grammarly.com and all sub-domains), “Software” (software and mobile applications), and “Services” (including, without limitation, writing feedback suggestions and/or corrections, plagiarism detection, and human proofreading services) to help people communicate more effectively. Access to and use of Grammarly’s existing Site, Software and Services, as well as any future Sites, Software or Services provided by Grammarly are governed by this Terms of Service and License Agreement (this “Agreement”).
 
@@ -132,8 +132,6 @@ If you are an Authorized User of an Enterprise Subscriber, your Enterprise Subsc
 Upon termination of your account(s) for any reason, your right to use the Services and Software and to access the Site and any of its content will immediately cease and all content in your account(s) will be deleted. All provisions of this Agreement that by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity, limitations of liability and miscellaneous provisions.
 
 Except as may be expressly set forth herein, all Fees paid or accrued in connection with any Services are non-refundable, and Grammarly will not prorate any Fees paid for a subscription that is terminated before the end of its term.
-
-The following applies only if you are an individual subscriber who registered for your paid subscription on or before January 11, 2018: Your subscription includes a 7-day money back guarantee. If you are dissatisfied with your subscription for any reason, you can receive a full refund of the subscription fees you paid if you cancel your subscription within 7 days of activation. Please visit our help desk to submit a refund request. This money back guarantee applies only to new individual subscribers who registered for a paid subscription on or before January 11, 2018 and does not apply to any subscriber who breaches any term or condition of this Agreement.
 
 Termination of Agreement with Enterprise Subscriber
 
