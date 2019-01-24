@@ -172,4 +172,4 @@ Sans préjudice de tous les autres droits dont vous pouvez disposer, vous avez �
 
 Build Brands People Love
 
-©2018 Oath Inc. All Rights Reserved.
+©2019 Oath Inc. All Rights Reserved.
