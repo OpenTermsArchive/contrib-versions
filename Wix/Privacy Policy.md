@@ -491,6 +491,7 @@ Sign In
     *   Online Store
     *   App Market
     *   Domains
+    *   Mailboxes
     *   Wix Answers
     *   Developers
     *   Email Marketing
