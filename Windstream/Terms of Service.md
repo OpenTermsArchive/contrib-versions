@@ -25,9 +25,7 @@
 *   Support
 *   Other Windstream Services
     *   Residential
-    *   Small Business
-    *   Enterprise
-    *   Wholesale
+    *   Business
 *   More
     *   Move My Service
     *   Go to Windstream.net
