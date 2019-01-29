@@ -82,14 +82,15 @@ Because 500px enables people to discover and share information with one another,
 
 We do not sell your information to anyone. However, we will show publicly available information to other users. We may share information so that we can provide our service, and we may share information where required by law. We may also share information with third-parties that help 500px provide services to you
 
-Keeping Information Secure
+Keeping Information And Our Website Secure
 
 *   Your 500px account information is protected by an encrypted password for your privacy and security. Protect against unauthorized access to your password and to your computer by logging off once you have finished using a shared computer.
 *   Only employees who need personal information to perform a specific job (for example, a customer service representative) are granted access to it. All of our employees are kept up to date on our privacy and security practices.
+*   500px has also implemented the Invisible reCAPTCHA API (“reCAPTCHA”) to help protect our website from spam and abuse from “bots” and other malicious software. It works by collecting hardware and software information, such as device and application data and the results of integrity checks, and sending that data to Google for analysis. The use of reCAPTCHA is subject to the Google Privacy Policy and Terms of Service.
 
 **Basically,**
 
-Your account is protected by an encrypted password. We keep it secure. you must also keep it safe. Our employees may not access your account unless required to do a specific job.
+Your account is protected by an encrypted password. We keep it secure. you must also keep it safe. Our employees may not access your account unless required to do a specific job. We use reCAPTCHA to help protect our website from malicious attacks.
 
 Ways to Control Display and Use of Your Information
 
@@ -139,8 +140,8 @@ Visiting 500px is subject to our Terms of Use and Privacy Policy.
 
 Effective Date of this Privacy Policy
 
-This Privacy Policy is effective as of May 25, 2018.
+This Privacy Policy is effective as of January 24, 2019.
 
 **Basically,**
 
-Effective as of May 25, 2018.
+Effective as of January 24, 2019.
