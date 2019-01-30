@@ -1,6 +1,6 @@
 Privacy Policy
 
-Your Privacy Rights – Effective August 28, 2018
+Your Privacy Rights – Effective January 28, 2019
 
 This privacy policy applies to all Imgur users worldwide. For users in the European Economic Area (EEA) and in Switzerland, Imgur complies with the principles of the U.S.-EU Privacy Shield Program and the U.S.-Swiss Privacy Shield Program, and participates in both programs. Under both programs, we are subject to the investigatory and enforcement powers of the Federal Trade Commission, and we are liable for the unauthorized transfer to third parties of user personal data. For more information, see https://www.privacyshield.gov.
 
@@ -26,19 +26,18 @@ Information you post
 
 Imgur does not “collect” the stuff you post: images, comments, messages, etc., and – with respect to persons in the EEA – does not “process” or determine any purposes for processing of any information that you manifestly make public. In particular, every image uploaded to Imgur is public – whether uploaded directly without going through a user account, or uploaded via a user account – and has its own URL. No matter what your privacy settings are, every image can always be accessed and viewed by anyone who types in that exact URL. No image uploaded to Imgur is ever completely hidden from public view. This is mainly to ensure that Imgur, which allows anonymous postings, will not be used as a platform for illegality. So too for messaging: Imgur allows users to send messages to one another both indirectly (via comments to posts) and directly (via chat). Imgur's messaging functionality is not intended to be a secure messaging platform. it's just for fun. To ensure that Imgur's messaging platform is not used as a platform for illegality, all messages are public. No messages are ever completely hidden from public view. We may monitor user messaging.
 
-Album / Post / Image Privacy
+Post / Image Privacy
 
-Uploading a New Post creates an “album” (also called “post”) that can be shared to the community. The individual images inside the album are referred to as “images.”  
+Uploading a New Post creates a “post” (also called “album”) that can be shared to the community. The individual images inside the post are referred to as “images.”  
 
-Although nothing you post to Imgur is completely hidden from public view, with that understanding you can set the privacy level of albums.
+Although nothing you post to Imgur is completely hidden from public view or entirely private, with that understanding you can set the privacy level of posts.
 
-*   Hidden: Albums will be hidden by default. They are not searchable within Imgur, and will not appear in public albums list or public profile, but each one will still be accessible by going to the post’s URL.
-*   Public: Albums will be publicly viewable and shared with the community by default. Public albums shared with the community will allow comments, sharing, and voting. Public albums that are not shared with the community will be visible on your public page (http://username.imgur.com)
-*   Secret: Albums are not searchable within Imgur, and can't be viewed by anyone other than the logged-in user who uploaded the album. Each image in an album is still accessible via its own URL.
+*   Hidden: Posts will be hidden by default. They are not searchable within Imgur, and will not appear in Imgur&rsqlo;s public gallery or public profile, but each one will still be accessible by going to the post&rsqlo;s URL. They cannot receive comments or earn points.
+*   Public: Posts will be publicly viewable and shared with the community. Public posts shared with the community will allow comments, sharing, and voting, and appear in a user&rsqlo;s profile.
 
-Favorite Folders Privacy
+“Favorite Folders” Privacy
 
-Individual public posts that you favorite are always visible from your “All Favorites” page and cannot be hidden, even those within folders. Favorited non-public posts will not appear publicly in your favorites by default. These settings for favorites cannot be changed.
+You can add favorited posts to folders that you create. Individual public posts that you favorite are always visible from the “All Favorites” page in your user profile and cannot be hidden, even those within folders. Favorited hidden posts will not appear publicly in your favorites. These settings for favorites cannot be changed, but the visibility of folders can be toggled to public or private.
 
 *   Public: Folders are visible to the public community on your public profile.
 *   Private: Private folders are kept hidden from your public profile.
