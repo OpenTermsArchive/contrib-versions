@@ -194,9 +194,7 @@ Europe, Middle East and Africa
     6.  YOU UNDERSTAND AND AGREE THAT YOUR USE AND THE PROVISION OF THE SERVICES INVOLVE THE COLLECTION, STORAGE, PROCESSING, USE AND DISCLOSURE OF INFORMATION AND USER DATA, INCLUDING THE TRANSFER OF THOSE INFORMATION AND DATA TO OTHER COMPANIES AND TERRITORIES, AS STATED IN THE PRIVACY POLICY.
 4.  **Canada (ca and cf):**
     1.  _Defined Terms_
-        1.  Applicable Oath Company:
-            1.  For Yahoo-branded Services (e.g., Yahoo Answers, Yahoo Beauty, Yahoo Celebrity, Yahoo News, Yahoo Finance, Yahoo Groups, Yahoo Mail, Yahoo Search, Yahoo Smart tv, Yahoo Style, Yahoo Sports, Yahoo Together, Yahoo Weather, My Yahoo etc.) and Aviate, the Applicable Oath Company is Yahoo! Canada Co. (Address: 99 Spadina Avenue, 2nd Floor, Toronto, Ontario M5V 3P8).
-            2.  For all other Services, the Applicable Oath Company is Oath (Canada) Corp. (Address: 99 Spadina Avenue, 2nd Floor, Toronto, Ontario M5V 3P8).
+        1.  Applicable Oath Company: Oath (Canada) Corp. (Address: 99 Spadina Avenue, Suite 200, Toronto, Ontario M5V 3P8).
         2.  Minimum Age: Legal Age to form a binding contract in your province or territory of residence.
     2.  _Choice of Law_. These Terms and the relationship between the parties, including any claim or dispute that might arise between the parties, whether sounding in contract, tort, or otherwise, shall be governed by the laws of the province of Ontario without regard to its conflict of law provisions. In no event shall the parties bring claims against one another under the laws of another jurisdiction.
     3.  _Forum_. Any claim against Oath shall be brought exclusively in the courts located within the province of Ontario, Canada. In such cases, you and Oath agree to submit to the personal jurisdiction of the courts located within the province of Ontario, and agree to waive any and all objections to the exercise of jurisdiction over the parties by such courts and to a venue in such courts.
