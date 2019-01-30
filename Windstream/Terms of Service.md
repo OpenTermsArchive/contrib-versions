@@ -569,7 +569,7 @@ Please try again.
 
 Please try again, or continue with this address
 
-Street Address Unit # (optional) State StateALAZARCAFLGAIAKSKYMIMNMSMONENMNYNCOHOKPASCTX City City Zip Code Use This Address
+Street Address Unit # (optional) State StateALAZARFLGAIAKSKYMIMNMSMONENMNYNCOHOKPASCTX City City Zip Code Use This Address
 
 Need assistance? Call 1-866-819-1239 or Chat Now.
 
