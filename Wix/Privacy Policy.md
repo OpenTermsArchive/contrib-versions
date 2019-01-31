@@ -489,14 +489,17 @@ Sign In
     *   Logo Maker
     *   Start a Blog
     *   Online Store
+    *   Wix Bookings
     *   App Market
     *   Domains
     *   Mailboxes
+    *   Web Hosting
     *   Wix Answers
     *   Developers
     *   Email Marketing
 *   COMPANY
     *   About Wix
+    *   Press Room
     *   Investor Relations
     *   Wix Jobs
     *   Design Assets
