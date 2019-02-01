@@ -46,13 +46,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Data Migration
     *   by k\_\_\_a\_\_m
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Xanga
     *   by eli0661
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -70,19 +70,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   I lost my blog and everything
     *   by Y\_I\_U\_Y\_I\_U
-    *   1 month ago
+    *   2 months ago
     *   in Themes
     *   0 votes
     *   1 (last comment by jefflynn 1 month ago)
 *   I lost my blog and everything
     *   by Y\_I\_U\_Y\_I\_U
-    *   1 month ago
+    *   2 months ago
     *   in Themes
     *   0 votes
     *   0
 *   I lost my blog and everything
     *   by Y\_I\_U\_Y\_I\_U
-    *   1 month ago
+    *   2 months ago
     *   in Themes
     *   0 votes
     *   0
