@@ -1,9 +1,8 @@
 <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N7BVC2W&gtm\_auth=GI0g9O-54\_SitcgmxQKxlA&gtm\_preview=env-2&gtm\_cookies\_win=x" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
 
 *   Download
-*   Games
-    *   Nitro
-    *   Game Directory
+*   Nitro
+*   Game Store
 *   Jobs
 *   Developers
     *   Rich Presence
@@ -35,7 +34,8 @@
 *   Español
 
 *   Download
-*   Games
+*   Nitro
+*   Game Store
 *   Jobs
 *   Developers
 *   Community
@@ -285,4 +285,4 @@ Contact. If you have any questions about these Terms, please contact privacy@dis
 
 Discord is made possible through the work of other open source software.
 
-ProductDownloadBrandingNitroGame DirectoryDevelopersApplicationsDocumentationVerificationRich PresenceResourcesHelp &. SupportGuidelinesFeedbackTermsPrivacyStatusCompanyAboutBlogJobsMorePartnersHypeSquadMerch StorePress InquiriesOpen SourceReady to try Discord? It's free!JOIN OVER 150 MILLION PLAYERS TODAYSign Up Now
+ProductDownloadBrandingNitroGame StoreDevelopersApplicationsDocumentationVerificationRich PresenceResourcesHelp &. SupportGuidelinesFeedbackTermsPrivacyStatusCompanyAboutBlogJobsMorePartnersHypeSquadMerch StorePress InquiriesOpen SourceReady to try Discord? It's free!JOIN OVER 150 MILLION PLAYERS TODAYSign Up Now
