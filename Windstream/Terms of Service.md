@@ -601,21 +601,21 @@ Try Again
 
 Need assistance? Call 1-866-819-1239 or Chat Now.
 
-Products
+Products▼
 
 *   Internet
 *   TV
 *   Phone
 *   Available Services
 
-Learn
+Learn▼
 
 *   Support
 *   Store Finder
 *   Windstream Blog
 *   Windstream.net
 
-Company
+Company▼
 
 *   Windstream Overview
 *   Careers
