@@ -1,4 +1,4 @@
-Privacy Policy Last Modified: 2018-04-17The original version of this Privacy Policy is written in English. To the extent any translated version of this Privacy Policy conflicts with the English version, the English version controls.
+Privacy Policy Last Modified: 2019-02-04The original version of this Privacy Policy is written in English. To the extent any translated version of this Privacy Policy conflicts with the English version, the English version controls.
 
 Tumblr, Inc. ("**Tumblr**," "**we**," "**us**," or "**our**") takes the private nature of your information very seriously. This policy regarding our privacy practices (the "**Privacy Policy**") describes how we treat the information we collect when you visit and use tumblr.com (the "**Site**") and/or Tumblr's other domains, products, advertising products, services, and/or content, including our iOS and Android mobile applications (collectively with the Site, the "**Services**"). Tumblr, along with Yahoo, is now part of Oath, a digital and mobile media company with more than 50 brands globally, and a member of the Verizon family of companies. The way we handle your information hasn’t changed, so this Privacy Policy still governs when you are on Tumblr, using a Tumblr app or interacting with our products, services or technologies. We may share non-personal information with our family companies for purposes such as product improvements, research and analysis, and to help them provide you with more relevant experiences. When you use the Services, you also consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. please read it carefully.
 
@@ -92,13 +92,15 @@ Don’t make us narc on you. We don’t want to. But we do need to protect every
 
 **Information Shared with Other Third Parties:** We may share or disclose non-private information, Aggregate Information, or other non-personally identifying information with people and entities that we do business with.
 
-The Security of Your Information
+Security and Retention of Your Information
 
 Your Account Information is protected by a password for your privacy and security. We may enable additional security features in the future, like multi-factor authentication. You need to prevent unauthorized access to your Account and information by creating a unique, secure, and protected password and limiting access to your computer and browser by signing off after you have finished accessing your Account on the Services.
 
 We seek to protect your information (including your Account Information) to ensure that it is kept private. however, we can't guarantee the security of any information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of user information at any time.
 
 It’s really important that you have a unique password for all of your accounts on the internet, including your Tumblr account. If you have trouble remembering passwords then you might consider using a service like 1Password or LastPass.
+
+Tumblr will retain your information only for as long as is necessary for the purposes set out in this Privacy Policy, for as long as your Tumblr account is active or as needed to provide you with the Services. Please note that this applies to information in Tumblr group chats as well. Even though Tumblr only makes group chat messages available to the public (i.e., the other chat participants) for a short amount of time before their expiration and deletion from public view, group chat messages and related information (e.g., list of chat participants) will be retained by Tumblr for internal purpose (e.g., security audits), and/or as required by law (e.g., pursuant to a litigation hold notice) after they have disappeared from public view. If you no longer want Tumblr to use your information to provide you with the Services, you may close your account and Tumblr will delete the information it holds about you unless we need to retain and use your information to comply with our legal obligations, to resolve disputes, to enforce our agreements or as otherwise permitted by law.
 
 What Information You Can Access
 
