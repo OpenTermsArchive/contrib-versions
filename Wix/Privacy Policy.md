@@ -517,6 +517,14 @@ Sign In
     *   Wix Stories
     *   Wix Arena
     *   Wix Meetups
+    *   Facebook
+    *   Twitter
+    *   Google+
+    *   Pinterest
+    *   Youtube
+    *   Linkedin
+    *   Instagram
+    *   Student Website
 *   Support
     *   Support Center
 
