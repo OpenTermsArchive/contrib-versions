@@ -26,11 +26,9 @@ Rent
 *   I'm a rental manager
     *   *   Sign in to see your listings
         *   List a rental (it's free)
-        *   Rent payments
         *   Resource center
 *   I'm a renter
-    *   *   My rent payments
-        *   Renter Profile
+    *   *   Renter Profile
         *   Rent affordability calculator
         *   Renters Guide
 
