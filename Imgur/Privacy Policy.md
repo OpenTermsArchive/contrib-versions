@@ -32,8 +32,8 @@ Uploading a New Post creates a “post” (also called “album”) that can be 
 
 Although nothing you post to Imgur is completely hidden from public view or entirely private, with that understanding you can set the privacy level of posts.
 
-*   Hidden: Posts will be hidden by default. They are not searchable within Imgur, and will not appear in Imgur&rsqlo;s public gallery or public profile, but each one will still be accessible by going to the post&rsqlo;s URL. They cannot receive comments or earn points.
-*   Public: Posts will be publicly viewable and shared with the community. Public posts shared with the community will allow comments, sharing, and voting, and appear in a user&rsqlo;s profile.
+*   Hidden: Posts will be hidden by default. They are not searchable within Imgur, and will not appear in Imgur’s public gallery or public profile, but each one will still be accessible by going to the post’s URL. They cannot receive comments or earn points.
+*   Public: Posts will be publicly viewable and shared with the community. Public posts shared with the community will allow comments, sharing, and voting, and appear in a user’s profile.
 
 “Favorite Folders” Privacy
 
