@@ -316,4 +316,4 @@ Europe, Middle East and Africa
     13.  Additional terms for Italian users can be found here.
     14.  Additional terms for German users can be found here.
 
-_Last updated:_ _January 2019_
+_Last updated: January 2019_
