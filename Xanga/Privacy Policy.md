@@ -40,7 +40,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Lost my Data
     *   by sharib1975
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Pictures
     *   0 votes
     *   0
