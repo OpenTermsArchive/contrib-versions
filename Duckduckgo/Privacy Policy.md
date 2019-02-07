@@ -114,4 +114,4 @@ I (Gabriel Weinberg) am the founder of Duck Duck Go and personally wrote this pr
 
 Add DuckDuckGo to Firefox
 
-© DuckDuckGo.  Privacy, simplified
+© DuckDuckGo. • Privacy, simplified • 20 Paoli Pike, Paoli, PA 19301.
