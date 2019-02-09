@@ -57,5 +57,3 @@ Uses
 *   Copyright and trademark information
 *   Patent information
 *   Digital Millennium Copyright Act Notices
-*   Subpoena Policy
-*   Copyright Infringement
