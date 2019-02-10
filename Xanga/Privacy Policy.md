@@ -8,6 +8,12 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Why I cannot download achieved blog?
+    *   by minnie\_0717
+    *   14 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   No Free Blog Options
     *   by Spica\_the\_PI
     *   3 weeks ago
@@ -92,14 +98,8 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   2 (last comment by hotlavalamp 2 months ago)
-*   How do I download an archive of my old blog?
-    *   \[Resolved\] by thibault
-    *   4 years ago
-    *   in Data Migration
-    *   0 votes
-    *   44 (last comment by no\_more\_love\_for\_you 3 months ago)
 
-1 2 3 ... 191 Next
+1 2 3 ... 192 Next
 
 Help Categories
 
