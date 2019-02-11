@@ -8,9 +8,15 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   I lost my blog and everything
+    *   by Y\_I\_U\_Y\_I\_U
+    *   2 months ago
+    *   in Themes
+    *   0 votes
+    *   2 (last comment by SwtPea0833 8 minutes ago)
 *   Why I cannot download achieved blog?
     *   by minnie\_0717
-    *   14 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -74,12 +80,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   I lost my blog and everything
-    *   by Y\_I\_U\_Y\_I\_U
-    *   2 months ago
-    *   in Themes
-    *   0 votes
-    *   1 (last comment by jefflynn 2 months ago)
 *   I lost my blog and everything
     *   by Y\_I\_U\_Y\_I\_U
     *   2 months ago
