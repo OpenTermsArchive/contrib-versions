@@ -6,7 +6,7 @@ Once you save your Wi-Fi passwords to Amazon, we can configure your compatible d
 
 **2\. Are my Wi-Fi passwords secure?**
 
-Once saved to Amazon, your Wi-Fi passwords are sent over a secured connection and are stored in an encrypted file on an Amazon server. Amazon will only use your Wi-Fi passwords to connect your compatible devices and will not share them with any third party without your permission. Amazon handles any information it receives, including your Wi-Fi passwords, in accordance with the Amazon.com Privacy Notice .
+Once saved to Amazon, your Wi-Fi passwords are sent over a secured connection and are stored in an encrypted file on an Amazon server. Amazon will only use your Wi-Fi passwords to connect your compatible devices and will not share them with any third party without your permission. Amazon handles any information it receives, including your Wi-Fi passwords, in accordance with the Amazon.com Privacy Notice.
 
 **3\. Can I choose not to save my password?**
 
