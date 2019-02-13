@@ -55,5 +55,4 @@ TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL IBM BE LIABL
 Uses
 
 *   Copyright and trademark information
-*   Patent information
 *   Digital Millennium Copyright Act Notices
