@@ -1,4 +1,4 @@
-Privacy PolicyEffective as of June 28, 2018
+Privacy PolicyEffective as of February 13, 2019
 
 At Grammarly, we care about the privacy of your data and are committed to protecting it. This Privacy Policy explains what information we collect about you and why, what we do with that information, and how we handle that information. Throughout this policy, when we write “Grammarly” or “we” or “us,” we’re referring to Grammarly, Inc., a Delaware corporation, and our subsidiaries and other affiliates.
 
@@ -27,6 +27,7 @@ Table of contents
 *   For EEA users
 *   *   What rights do I have, and how can I exercise them?
     *   Who is our EEA Representative?
+*   For EDU users
 *   Will this Privacy Policy ever change?
 *   Contact us
 
@@ -207,6 +208,10 @@ North Point Business Park
 New Mallow Road  
 Cork T23AT2P  
 Ireland
+
+For EDU users
+
+If you are a member of a Grammarly for Education (also known as Grammarly@edu) team,  your parents and your school administrator may have the legal right to access your account and may delete it.
 
 Will this Privacy Policy ever change?
 
