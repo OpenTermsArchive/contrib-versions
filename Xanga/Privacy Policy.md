@@ -8,15 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   My site didn't appear
+    *   by HoPuiYi325
+    *   1 year ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by alicemama 12 hours ago)
 *   I lost my blog and everything
     *   by Y\_I\_U\_Y\_I\_U
     *   2 months ago
     *   in Themes
     *   0 votes
-    *   2 (last comment by SwtPea0833 2 days ago)
+    *   2 (last comment by SwtPea0833 3 days ago)
 *   Why I cannot download achieved blog?
     *   by minnie\_0717
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -52,7 +58,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Lost my Data
     *   by sharib1975
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Pictures
     *   0 votes
     *   0
@@ -92,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Themes
     *   0 votes
     *   0
-*   how can i login my old blogs
-    *   \[Resolved\] by kiluv12
-    *   5 years ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by hotlavalamp 2 months ago)
 
 1 2 3 ... 192 Next
 
