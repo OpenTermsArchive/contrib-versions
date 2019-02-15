@@ -13,16 +13,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by alicemama 12 hours ago)
+    *   2 (last comment by alicemama 1 day ago)
 *   I lost my blog and everything
     *   by Y\_I\_U\_Y\_I\_U
     *   2 months ago
     *   in Themes
     *   0 votes
-    *   2 (last comment by SwtPea0833 3 days ago)
+    *   2 (last comment by SwtPea0833 4 days ago)
 *   Why I cannot download achieved blog?
     *   by minnie\_0717
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
