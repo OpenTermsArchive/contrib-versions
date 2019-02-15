@@ -32,6 +32,8 @@
 *   Português do Brasil
 *   Русский
 *   Español
+*   ไทย
+*   Tiếng Việt
 
 *   Download
 *   Nitro
@@ -51,6 +53,8 @@
 *   Português do Brasil
 *   Русский
 *   Español
+*   ไทย
+*   Tiếng Việt
 
 Hey there! These are our new Terms of Service that we're putting in place with the launch of the Discord store! If you're signing up for a new account, purchasing a game, downloading a game, or subscribing to Nitro, these Terms apply to you. For everyone else, these Terms will go into effect on November 2, 2018.
 
