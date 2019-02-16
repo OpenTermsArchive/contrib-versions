@@ -13,28 +13,28 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by alicemama 1 day ago)
+    *   2 (last comment by alicemama 2 days ago)
 *   I lost my blog and everything
     *   by Y\_I\_U\_Y\_I\_U
     *   2 months ago
     *   in Themes
     *   0 votes
-    *   2 (last comment by SwtPea0833 4 days ago)
+    *   2 (last comment by SwtPea0833 5 days ago)
 *   Why I cannot download achieved blog?
     *   by minnie\_0717
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   No Free Blog Options
     *   by Spica\_the\_PI
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Close
     *   by smallndangerous
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Privacy
     *   0 votes
     *   0
@@ -43,22 +43,22 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 years ago
     *   in Miscellaenous
     *   0 votes
-    *   8 (last comment by smallndangerous 3 weeks ago)
+    *   8 (last comment by smallndangerous 4 weeks ago)
 *   PLEASE SHUT DOWN MY ACCOUNT!
     *   by smallndangerous
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Privacy
     *   0 votes
     *   0
 *   PLEASE SHUT DOWN MY ACCOUNT!
     *   by smallndangerous
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Privacy
     *   0 votes
     *   0
 *   Lost my Data
     *   by sharib1975
-    *   4 weeks ago
+    *   1 month ago
     *   in Pictures
     *   0 votes
     *   0
