@@ -1,4 +1,4 @@
-Terms of Service and License AgreementEffective as of January 22, 2019
+Terms of Service and License AgreementEffective as of February 18, 2019
 
 Together with its subsidiaries and other affiliates, Grammarly, Inc., a Delaware corporation (“Grammarly”), makes available the “Site” (websites including, without limitation, www.grammarly.com and all sub-domains), “Software” (software and mobile applications), and “Services” (including, without limitation, writing feedback suggestions and/or corrections, plagiarism detection, and human proofreading services) to help people communicate more effectively. Access to and use of Grammarly’s existing Site, Software and Services, as well as any future Sites, Software or Services provided by Grammarly are governed by this Terms of Service and License Agreement (this “Agreement”).
 
@@ -105,19 +105,19 @@ Fees, payment, and trial memberships
 
 If you have registered to use certain Services and/or Software on a trial basis, then you may use such Services and Software only for noncommercial evaluation purposes during the applicable trial period.
 
-Your access to or use of the Services and/or Software shall be contingent upon your payment of all applicable fees as described on the Site at the time (“Fees”). unless you are an Authorized User, in which case your access to or use of the Services and/or Software shall be contingent upon your Enterprise Subscriber’s payment of the Fees.
+Your access to or use of the Services and/or Software shall be contingent upon your payment of all applicable fees as described on the Site or Software at the time (“Fees”). unless you are an Authorized User, in which case your access to or use of the Services and/or Software shall be contingent upon your Enterprise Subscriber’s payment of the Fees.
 
-Upon registering for Services, unless you are an Authorized User, you will be required to designate a valid credit card or PayPal® account. You hereby authorize Grammarly to charge to your designated account all Fees relating to the Services you select, and you agree to pay all such Fees in accordance with the applicable card member agreement or PayPal® terms and conditions.
+Upon registering for Services, unless you are an Authorized User, you will be required to designate a valid payment method. You hereby authorize Grammarly to charge to your designated account all Fees relating to the Services you select, and you agree to pay all such Fees in accordance with the applicable payment method terms and conditions.
 
 Grammarly reserves the right to revise its Fees, including by increasing or adding new Fees, at any time on ten (10) days’ notice. Such notice may be sent to you by email to your most recently provided email address or posted on the Site or by any other manner chosen by Grammarly in its commercially reasonable discretion. You will be deemed to have received any such notice that is posted on the Site on the day it was posted. Your use of the Services after the ten (10) day notice period constitutes your acceptance of the new or revised Fees. If you do not agree to the revised Fees, you may cancel your subscription by following the “View cancellation instructions” link below.
 
 Continuous membership
 
-To ensure uninterrupted service, all subscriptions to the Site, Software and Services are renewed automatically. You hereby authorize Grammarly to charge subscription Fees for the renewal period to the credit card or PayPal® account on file. All subscriptions are renewed at the subscription level(s) and Fees in effect at the time the then-current subscription term ends. You may cancel the subscription at any time by following the “View cancellation instructions” link below.
+To ensure uninterrupted service, all subscriptions to the Site, Software and Services are renewed automatically. You hereby authorize Grammarly to charge subscription Fees for the renewal period to the payment method on file. All subscriptions are renewed at the subscription level(s) and Fees in effect at the time the then-current subscription term ends. You may cancel the subscription at any time by following the “View cancellation instructions” link below.
 
 Free trial
 
-Grammarly may offer a free trial membership from time to time with regard to certain Software or Services (a “Trial”). By accessing or using the Site, Services or Software, you agree to the terms of any such Trial and further agree to any changes Grammarly may make to such Trial as described in “Changes to Services or Terms” below. If you cancel the Services before the end of the trial period, all your rights to any remaining free trial period will be waived and you will not be eligible to participate in any further Trials, except as allowed by Grammarly in its sole discretion.
+Grammarly may offer a free trial membership from time to time with regard to certain Software or Services (a “Trial”). By accessing or using the Site, Services or Software, you agree to the terms of any such Trial and further agree to any changes Grammarly may make to such Trial as described in “Changes to Services or Terms” below. If you cancel the Services before the end of the trial period, all your rights to any remaining free trial period will be waived (unless you started your Trial via our iOS app, in which case your trial will continue until the end of the trial period), and you will not be eligible to participate in any further Trials, except as allowed by Grammarly in its sole discretion.
 
 Termination and refund policy
 
