@@ -173,3 +173,9 @@ Sans préjudice de tous les autres droits dont vous pouvez disposer, vous avez �
 Build Brands People Love
 
 ©2019 Oath Inc. All Rights Reserved.
+
+Oath est désormais Verizon Media    
+
+Nous actualisons notre nom et restons concentrés sur la création des contenus, de la publicité et de la technologie de demain.
+
+En lire plus
