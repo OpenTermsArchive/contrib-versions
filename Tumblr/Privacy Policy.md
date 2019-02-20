@@ -1,4 +1,4 @@
-Privacy Policy Last Modified: 2019-02-04The original version of this Privacy Policy is written in English. To the extent any translated version of this Privacy Policy conflicts with the English version, the English version controls.
+Privacy Policy Last Modified: 2019-02-19The original version of this Privacy Policy is written in English. To the extent any translated version of this Privacy Policy conflicts with the English version, the English version controls.
 
 Tumblr, Inc. ("**Tumblr**," "**we**," "**us**," or "**our**") takes the private nature of your information very seriously. This policy regarding our privacy practices (the "**Privacy Policy**") describes how we treat the information we collect when you visit and use tumblr.com (the "**Site**") and/or Tumblr's other domains, products, advertising products, services, and/or content, including our iOS and Android mobile applications (collectively with the Site, the "**Services**"). Tumblr, along with Yahoo, is now part of Oath, a digital and mobile media company with more than 50 brands globally, and a member of the Verizon family of companies. The way we handle your information hasn’t changed, so this Privacy Policy still governs when you are on Tumblr, using a Tumblr app or interacting with our products, services or technologies. We may share non-personal information with our family companies for purposes such as product improvements, research and analysis, and to help them provide you with more relevant experiences. When you use the Services, you also consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. please read it carefully.
 
@@ -59,6 +59,38 @@ Being able to log into your account is one of Tumblr’s many great features. Co
 We won’t look at (or be able to look at) your contact list unless you ask us to. Why would you ask us to? Because that’s how you would find out if any of your contacts are on Tumblr. We discard this information immediately afterward.
 
 **Derived Information:** As described above in “Native Actions” and “Information Related to Use of the Services,” we analyze your actions on the Services in order to derive or infer characteristics that may be descriptive of your Account (for example, what kinds of blogs you follow or what kinds of posts you view, like, or reblog). We use this information for all of the purposes set forth in “Information Related to Use of the Services,” above.
+
+Personalized Advertising on Tumblr
+
+In order to provide you with all of this Tumblr content for free, Tumblr selectively runs advertisements. We, and our parent company, Oath, work with online advertising companies to provide you with advertising that is as relevant and useful as possible. To make our ads more relevant and useful, we make educated guesses about your interests based on your activity on our sites and services. The ads we show you often reflect these interests and educated guesses.
+
+You can read more about our parent company Oath and its advertising partners here.
+
+And to learn more about how we select the ads you see, you can check out Tumblr’s Advertising and affiliate policies and Oath’s privacy and advertising practices.
+
+**Managing your choices for personalized advertising experiences**: If you do not prefer personalized advertising experiences, you may opt-out. Note that if you opt-out you will continue to see advertisements on Tumblr, though they will be less relevant and useful to you.
+
+When using web-based versions of Tumblr, you may opt-out of interest-based or personalized advertising by using the following industry opt-out pages:
+
+*   (EU) European Interactive Digital Advertising Alliance (EDAA) - www.youronlinechoices.com
+*   (US) Network Advertising Initiative (NAI) - www.networkadvertising.org
+*   (US) Digital Advertising Alliance (DAA) - www.aboutads.info
+*   (Japan) Data Driven Advertising Initiative (DDAI) - www.ddai.info
+
+These industry advertising organizations offer web browser-based tools for limiting the use of your web viewing data for interest-based or personalized advertising. Any choices made via these industry tools will only apply to the web browser in use for the choices made. These advertising choices are not propagated among all of your devices.
+
+When using the mobile app version of Tumblr on Apple iOS devices you can opt out of personalized advertising by selecting "Limit Ad Tracking" in the iOS settings. For more information about these iOS options:
+
+1.  Open Settings;
+2.  Select Privacy. and
+3.  Select Advertising and follow the on-screen instructions.
+
+When using the mobile app version of Tumblr on Android devices you can opt-out of personalized advertising by selecting "Opt out of Interest Based Ads” in Google settings. For more information about these Android options:
+
+1.  Open Settings;
+2.  Select Google;
+3.  Select Privacy. and
+4.  Select Ads and follow the on-screen instructions.
 
 With Whom Your Information Is Shared
 
