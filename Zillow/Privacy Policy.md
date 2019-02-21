@@ -1,21 +1,4 @@
-*   Site Cookies
-    
-*   Required Cookies
-    
-*   Functional Cookies
-    
-*   Advertising Cookies
-    
-*   More Information
-    
-
-Privacy Preference Center
-
-Active
-
-Always Active
-
-Save SettingsAllow All <iframe width="0" style="display:none;visibility:hidden" src="//www.googletagmanager.com/ns.html?id=GTM-P6HT97" height="0"></iframe>Homepage List your rental Sign in or Join Advertise Buy
+<iframe width="0" style="display:none;visibility:hidden" src="//www.googletagmanager.com/ns.html?id=GTM-P6HT97" height="0"></iframe>Homepage List your rental Sign in or Join Advertise Buy
 
 *   Homes for sale
     *   *   Homes for sale
@@ -45,8 +28,7 @@ Rent
         *   List a rental (it's free)
         *   Resource center
 *   I'm a renter
-    *   *   Renter Profile
-        *   Rent affordability calculator
+    *   *   Rent affordability calculator
         *   Renters Guide
 
 Sell
@@ -252,7 +234,7 @@ Please note that this policy may be amended from time to time. You should check 
 *   Advertise
 *   Terms of use &. Privacy
 *   Ad Choice
-*   Cookie Preference
+
 *   Blog
 *   AI
 *   Mobile Apps
