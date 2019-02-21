@@ -8,12 +8,18 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   I WANT TO DELETE MY ACCOUNT.
+    *   \[Resolved\] by kamikaze\_zealot
+    *   5 years ago
+    *   in Miscellaenous
+    *   0 votes
+    *   9 (last comment by LSS2009 23 hours ago)
 *   My site didn't appear
     *   by HoPuiYi325
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by alicemama 6 days ago)
+    *   2 (last comment by alicemama 1 week ago)
 *   I lost my blog and everything
     *   by Y\_I\_U\_Y\_I\_U
     *   2 months ago
@@ -38,12 +44,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Privacy
     *   0 votes
     *   0
-*   I WANT TO DELETE MY ACCOUNT.
-    *   \[Resolved\] by kamikaze\_zealot
-    *   5 years ago
-    *   in Miscellaenous
-    *   0 votes
-    *   8 (last comment by smallndangerous 1 month ago)
 *   PLEASE SHUT DOWN MY ACCOUNT!
     *   by smallndangerous
     *   1 month ago
