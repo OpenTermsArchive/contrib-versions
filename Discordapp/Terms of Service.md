@@ -22,18 +22,34 @@
 
 *   Login
 
-*   English, USA
-*   繁體中文
-*   Français
+*   Čeština
+*   Dansk
 *   Deutsch
-*   Italiano
-*   日本語
-*   한국어
-*   Português do Brasil
-*   Русский
+*   English, USA
 *   Español
-*   ไทย
+*   Français
+*   Hrvatski
+*   Italiano
+*   Lietuviškai
+*   Magyar
+*   Nederlands
+*   Norwegian
+*   Polski
+*   Português do Brasil
+*   Română
+*   Suomi
+*   Svenska
 *   Tiếng Việt
+*   Türkçe
+*   Ελληνικά
+*   български
+*   Русский
+*   Українська
+*   ไทย
+*   한국어
+*   中文
+*   日本語
+*   繁體中文
 
 *   Download
 *   Nitro
@@ -43,18 +59,34 @@
 *   Community
 *   Support
 
-*   English, USA
-*   繁體中文
-*   Français
+*   Čeština
+*   Dansk
 *   Deutsch
-*   Italiano
-*   日本語
-*   한국어
-*   Português do Brasil
-*   Русский
+*   English, USA
 *   Español
-*   ไทย
+*   Français
+*   Hrvatski
+*   Italiano
+*   Lietuviškai
+*   Magyar
+*   Nederlands
+*   Norwegian
+*   Polski
+*   Português do Brasil
+*   Română
+*   Suomi
+*   Svenska
 *   Tiếng Việt
+*   Türkçe
+*   Ελληνικά
+*   български
+*   Русский
+*   Українська
+*   ไทย
+*   한국어
+*   中文
+*   日本語
+*   繁體中文
 
 Hey there! These are our new Terms of Service that we're putting in place with the launch of the Discord store! If you're signing up for a new account, purchasing a game, downloading a game, or subscribing to Nitro, these Terms apply to you. For everyone else, these Terms will go into effect on November 2, 2018.
 
