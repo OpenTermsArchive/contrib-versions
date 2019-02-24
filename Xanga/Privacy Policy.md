@@ -8,12 +8,18 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   In search of old posts
+    *   by cbkpotter
+    *   9 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   I WANT TO DELETE MY ACCOUNT.
     *   \[Resolved\] by kamikaze\_zealot
     *   5 years ago
     *   in Miscellaenous
     *   0 votes
-    *   9 (last comment by LSS2009 2 days ago)
+    *   9 (last comment by LSS2009 3 days ago)
 *   My site didn't appear
     *   by HoPuiYi325
     *   1 year ago
@@ -28,7 +34,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 (last comment by SwtPea0833 1 week ago)
 *   Why I cannot download achieved blog?
     *   by minnie\_0717
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -84,12 +90,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by aleph
     *   2 months ago
     *   in Data Migration
-    *   0 votes
-    *   0
-*   I lost my blog and everything
-    *   by Y\_I\_U\_Y\_I\_U
-    *   2 months ago
-    *   in Themes
     *   0 votes
     *   0
 *   I lost my blog and everything
