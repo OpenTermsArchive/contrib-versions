@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   In search of old posts
     *   by cbkpotter
-    *   9 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,7 +19,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 years ago
     *   in Miscellaenous
     *   0 votes
-    *   9 (last comment by LSS2009 3 days ago)
+    *   9 (last comment by LSS2009 4 days ago)
 *   My site didn't appear
     *   by HoPuiYi325
     *   1 year ago
@@ -31,7 +31,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 months ago
     *   in Themes
     *   0 votes
-    *   2 (last comment by SwtPea0833 1 week ago)
+    *   2 (last comment by SwtPea0833 2 weeks ago)
 *   Why I cannot download achieved blog?
     *   by minnie\_0717
     *   2 weeks ago
