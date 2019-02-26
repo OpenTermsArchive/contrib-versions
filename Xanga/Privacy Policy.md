@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   In search of old posts
     *   by cbkpotter
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,7 +19,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 years ago
     *   in Miscellaenous
     *   0 votes
-    *   9 (last comment by LSS2009 4 days ago)
+    *   9 (last comment by LSS2009 5 days ago)
 *   My site didn't appear
     *   by HoPuiYi325
     *   1 year ago
