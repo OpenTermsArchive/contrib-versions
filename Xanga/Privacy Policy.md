@@ -1,16 +1,16 @@
-Skip to toolbar
-
-*   Xanga
-
-*   Log In
-
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Retrieve Old Account
+    *   \[Resolved\] by anoiFace
+    *   5 years ago
+    *   in Passwords &. Sign-In
+    *   0 votes
+    *   6 (last comment by crazy\_texas\_chicas 4 hours ago)
 *   In search of old posts
     *   by cbkpotter
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,13 +19,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 years ago
     *   in Miscellaenous
     *   0 votes
-    *   9 (last comment by LSS2009 6 days ago)
+    *   9 (last comment by LSS2009 1 week ago)
 *   My site didn't appear
     *   by HoPuiYi325
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by alicemama 1 week ago)
+    *   2 (last comment by alicemama 2 weeks ago)
 *   I lost my blog and everything
     *   by Y\_I\_U\_Y\_I\_U
     *   2 months ago
@@ -92,12 +92,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   I lost my blog and everything
-    *   by Y\_I\_U\_Y\_I\_U
-    *   2 months ago
-    *   in Themes
-    *   0 votes
-    *   0
 
 1 2 3 ... 192 Next
 
@@ -156,4 +150,8 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
+
+*   Xanga
+
+*   Log In
