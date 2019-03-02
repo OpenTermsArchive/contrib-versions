@@ -8,15 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   how can i access my old blogs
+    *   \[Resolved\] by e\_e
+    *   5 years ago
+    *   in Data Migration
+    *   0 votes
+    *   8 (last comment by UrOnMyMiNd777 12 hours ago)
 *   Retrieve Old Account
     *   \[Resolved\] by anoiFace
     *   5 years ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   6 (last comment by crazy\_texas\_chicas 1 day ago)
+    *   6 (last comment by crazy\_texas\_chicas 2 days ago)
 *   In search of old posts
     *   by cbkpotter
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -88,12 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Can't retrieve posts older than 2007
     *   by star0182
-    *   2 months ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Migrate my Data?
-    *   by aleph
     *   2 months ago
     *   in Data Migration
     *   0 votes
