@@ -13,16 +13,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 years ago
     *   in Data Migration
     *   0 votes
-    *   8 (last comment by UrOnMyMiNd777 12 hours ago)
+    *   8 (last comment by UrOnMyMiNd777 1 day ago)
 *   Retrieve Old Account
     *   \[Resolved\] by anoiFace
     *   5 years ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   6 (last comment by crazy\_texas\_chicas 2 days ago)
+    *   6 (last comment by crazy\_texas\_chicas 3 days ago)
 *   In search of old posts
     *   by cbkpotter
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -40,13 +40,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 (last comment by alicemama 2 weeks ago)
 *   I lost my blog and everything
     *   by Y\_I\_U\_Y\_I\_U
-    *   2 months ago
+    *   3 months ago
     *   in Themes
     *   0 votes
     *   2 (last comment by SwtPea0833 2 weeks ago)
 *   Why I cannot download achieved blog?
     *   by minnie\_0717
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
