@@ -1,25 +1,25 @@
-Skip to toolbar
-
-*   Xanga
-
-*   Log In
-
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   My Blog does not appear
+    *   by rosiebrowne
+    *   14 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   how can i access my old blogs
     *   \[Resolved\] by e\_e
     *   5 years ago
     *   in Data Migration
     *   0 votes
-    *   8 (last comment by UrOnMyMiNd777 1 day ago)
+    *   8 (last comment by UrOnMyMiNd777 2 days ago)
 *   Retrieve Old Account
     *   \[Resolved\] by anoiFace
     *   5 years ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   6 (last comment by crazy\_texas\_chicas 3 days ago)
+    *   6 (last comment by crazy\_texas\_chicas 4 days ago)
 *   In search of old posts
     *   by cbkpotter
     *   1 week ago
@@ -43,7 +43,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 months ago
     *   in Themes
     *   0 votes
-    *   2 (last comment by SwtPea0833 2 weeks ago)
+    *   2 (last comment by SwtPea0833 3 weeks ago)
 *   Why I cannot download achieved blog?
     *   by minnie\_0717
     *   3 weeks ago
@@ -89,12 +89,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 *   Old Xanga
     *   by eli0661
     *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Can't retrieve posts older than 2007
-    *   by star0182
-    *   2 months ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -156,4 +150,8 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
+
+*   Xanga
+
+*   Log In
