@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   My Blog does not appear
     *   by rosiebrowne
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,13 +19,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 years ago
     *   in Data Migration
     *   0 votes
-    *   8 (last comment by UrOnMyMiNd777 3 days ago)
+    *   8 (last comment by UrOnMyMiNd777 4 days ago)
 *   Retrieve Old Account
     *   \[Resolved\] by anoiFace
     *   5 years ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   6 (last comment by crazy\_texas\_chicas 5 days ago)
+    *   6 (last comment by crazy\_texas\_chicas 6 days ago)
 *   In search of old posts
     *   by cbkpotter
     *   1 week ago
