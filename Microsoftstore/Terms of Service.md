@@ -94,7 +94,7 @@ For complete details on how to return eligible products, see our Returns and Ref
 
 17\. **Payments to You.** If we owe you a payment, then you agree to timely and accurately provide us with any information we need to get that payment to you. You are responsible for any taxes and charges you may incur as a result of this payment to you. To the extent permitted by applicable law, you must also comply with any other conditions we place on your right to any payment. If you receive a payment in error, we may reverse or require return of the payment. You agree to cooperate with us in our efforts to do this. We may also reduce a payment to you without notice to adjust for any previous overpayment.
 
-18\. **Gift Cards**. Gift cards purchased in a Microsoft Retail Store are governed by the Retail Gift Card Agreement located at https://www.microsoftstore.com/store/msusa/html/pbPage.Help\_Retail\_Stores#GiftCards.
+18\. **Gift Cards**. Gift cards purchased in a Microsoft Retail Store are governed by the Retail Gift Card Agreement located at https://www.microsoft.com/en-us/store/b/gift-cards.
 
 Information on Skype gift cards is available on Skype’s Help page (https://support.skype.com/en/faq/FA12197/what-is-a-skype-gift-card-and-where-can-i-buy-one).
 
