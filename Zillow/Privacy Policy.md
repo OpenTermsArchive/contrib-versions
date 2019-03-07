@@ -28,8 +28,7 @@ Rent
         *   List a rental (it's free)
         *   Resource center
 *   I'm a renter
-    *   *   Renter Profile
-        *   Rent affordability calculator
+    *   *   Rent affordability calculator
         *   Renters Guide
 
 Sell
