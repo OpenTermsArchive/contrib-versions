@@ -46,7 +46,7 @@ Read the Story
 *   FAQs
 *   Contacts
 
-Honda Joins with Cruise and General Motors to Build New Autonomous Vehicle
+General Motors Strengthens Core Business and Future Mobility
 
 Learn More
 
