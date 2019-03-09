@@ -172,10 +172,10 @@ Plans &. services Plans &. services
 *   Health plans &. insurance
 *   Dental plans &. programs
 *   Vision insurance
-*   Disability insurance
 *   Health expense funds
 *   Pharmacy
 *   Behavioral health programs
+*   Whole health plans
 *   Health &. wellness
 *   International insurance
 *   Voluntary benefits
