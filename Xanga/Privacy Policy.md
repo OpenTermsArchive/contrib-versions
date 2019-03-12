@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   In search of old posts
     *   by monkey\_chong
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -55,10 +55,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 months ago
     *   in Themes
     *   0 votes
-    *   2 (last comment by SwtPea0833 3 weeks ago)
+    *   2 (last comment by SwtPea0833 4 weeks ago)
 *   Why I cannot download achieved blog?
     *   by minnie\_0717
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
