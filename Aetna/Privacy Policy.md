@@ -175,7 +175,7 @@ Plans &. services Plans &. services
 *   Health expense funds
 *   Pharmacy
 *   Behavioral health programs
-*   Whole health plans
+*   Aetna Whole HealthSM plans
 *   Health &. wellness
 *   International insurance
 *   Voluntary benefits
