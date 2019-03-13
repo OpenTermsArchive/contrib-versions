@@ -301,7 +301,7 @@ Last modified: January 5, 2018
 
  
 
-*   Home
+*   Home Home
 *   Our Stories
 *   Our Company
 *   Our Brands
