@@ -515,7 +515,6 @@ Sign In
     *   Wix Blog
     *   Wix Stories
     *   Wix Arena
-    *   Wix Meetups
     *   Facebook
     *   Twitter
     *   Google+
