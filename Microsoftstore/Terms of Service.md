@@ -10,9 +10,9 @@ Welcome to Microsoft’s online and retail Stores operated by Microsoft Corporat
 
 If we have a Microsoft Retail Store located in your country or region, it may have different or additional policies. Microsoft may update or amend any policies without notice at any time.
 
-**TERMS RELATING TO YOUR USE OF THE STORE**  
+**TERMS RELATING TO YOUR USE OF THE STORE**
 
-1\. **Member Account.** If the Store requires you to open an account, you must complete the registration process by providing us with current, complete and accurate information required by the applicable registration form. You may also be required to accept a service agreement or separate terms of use as a condition of opening the account. Your use of the account to access the Store and content you have acquired from the Store is subject to all of the terms governing the Microsoft account. For more information, please see the Microsoft Services Agreement. You are responsible for keeping your account information and password confidential and are responsible for all activity that occurs under your account.  
+1\. **Member Account.** If the Store requires you to open an account, you must complete the registration process by providing us with current, complete and accurate information required by the applicable registration form. You may also be required to accept a service agreement or separate terms of use as a condition of opening the account. Your use of the account to access the Store and content you have acquired from the Store is subject to all of the terms governing the Microsoft account. For more information, please see the Microsoft Services Agreement. You are responsible for keeping your account information and password confidential and are responsible for all activity that occurs under your account.
 
 2\. **No Unlawful or Prohibited Use.** As a condition of your use of the Store, you warrant to us that you will not use the Store for any purpose that is unlawful or prohibited by these Terms of Sale, the Store Policies, or any other terms that apply to your use of the Store. You may not use the Store in any manner that could damage, disable, overburden, or impair any Microsoft server, or the network(s) connected to any Microsoft server, or interfere with any other party's use and enjoyment of the Store. You may not attempt to gain unauthorized access to the Store, other accounts, computer systems or networks connected to any Microsoft server or to the Store, through hacking, password mining or any other means. You may not obtain or attempt to obtain any materials or information through any means not intentionally made available through the Store. You may not use the Store in a way that infringes rights of third parties, including willfully harming a person or entity, including Microsoft. You may not commercially distribute, publish, license, or sell any products, information or services obtained from the Store.
 
@@ -94,11 +94,11 @@ For complete details on how to return eligible products, see our Returns and Ref
 
 17\. **Payments to You.** If we owe you a payment, then you agree to timely and accurately provide us with any information we need to get that payment to you. You are responsible for any taxes and charges you may incur as a result of this payment to you. To the extent permitted by applicable law, you must also comply with any other conditions we place on your right to any payment. If you receive a payment in error, we may reverse or require return of the payment. You agree to cooperate with us in our efforts to do this. We may also reduce a payment to you without notice to adjust for any previous overpayment.
 
-18\. **Gift Cards**. Gift cards purchased in a Microsoft Retail Store are governed by the Retail Gift Card Agreement located at https://www.microsoft.com/en-us/store/b/gift-cards.
+18\. **Gift Cards**. Gift cards for making purchases at physical Microsoft Store locations are governed by the Physical Microsoft Store Gift Card Terms and Conditions located at www.microsoft.com/store/physical-store-card-terms.
 
 Information on Skype gift cards is available on Skype’s Help page (https://support.skype.com/en/faq/FA12197/what-is-a-skype-gift-card-and-where-can-i-buy-one).
 
-Redemption and use of other Microsoft gift cards are governed by the Microsoft Gift Card Terms and Conditions (https://commerce.microsoft.com/PaymentHub/Help/Show/toc\_link\_no\_62).
+Redemption and use of other Microsoft gift cards are governed by the Microsoft Gift Card Terms and Conditions www.microsoft.com/cardterms.
 
 19\. **Customer Service**. Please visit our Sales and Support page https://go.microsoft.com/fwlink/p/?linkid=824761&clcid=0x0409 for more information about customer service options.
 
