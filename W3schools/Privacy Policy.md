@@ -30,9 +30,11 @@ We do not use cookies to:
 
 You can learn more about all the cookies we use below
 
-Granting us permission to use cookies
+Permission to use cookies
 
-If your browser is adjusted to accept cookies we take this, and your continued use of our website, to mean that you are fine with this. Should you wish to deactivate cookies, you can learn how to do this below, however doing so will likely mean that your browser will not work as you would expect on most web pages.
+If you want to change your choices regarding cookie permissions, you can use the button below:
+
+Manage Consent
 
 Social Website Cookies
 
