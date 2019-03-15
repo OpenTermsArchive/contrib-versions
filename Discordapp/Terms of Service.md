@@ -2,9 +2,9 @@
 
 *   Download
 *   Nitro
-*   Game Store
 *   Jobs
 *   Developers
+    *   Sell Your Game
     *   Rich Presence
     *   Verification
     *   Developer Portal
@@ -53,7 +53,6 @@
 
 *   Download
 *   Nitro
-*   Game Store
 *   Jobs
 *   Developers
 *   Community
@@ -319,4 +318,4 @@ Contact. If you have any questions about these Terms, please contact privacy@dis
 
 Discord is made possible through the work of other open source software.
 
-ProductDownloadBrandingNitroGame StoreDevelopersApplicationsDocumentationVerificationRich PresenceResourcesHelp &. SupportGuidelinesFeedbackTermsPrivacyStatusCompanyAboutBlogJobsMorePartnersHypeSquadMerch StorePress InquiriesOpen SourceReady to try Discord? It's free!JOIN OVER 150 MILLION PLAYERS TODAYSign Up Now
+ProductDownloadBrandingNitroDevelopersSell Your GameRich PresenceVerificationApplicationsDocumentationResourcesHelp &. SupportGuidelinesFeedbackTermsPrivacyStatusCompanyAboutBlogJobsMorePartnersHypeSquadMerch StorePress InquiriesOpen SourceReady to try Discord? It's free!JOIN OVER 250 MILLION PLAYERS TODAYSign Up Now
