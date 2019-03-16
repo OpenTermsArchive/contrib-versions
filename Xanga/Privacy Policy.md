@@ -13,7 +13,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by XZXhakuXZX 2 days ago)
+    *   1 (last comment by XZXhakuXZX 3 days ago)
 *   In search of old posts
     *   by monkey\_chong
     *   1 week ago
@@ -25,7 +25,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 years ago
     *   in Data Migration
     *   0 votes
-    *   8 (last comment by UrOnMyMiNd777 1 week ago)
+    *   8 (last comment by UrOnMyMiNd777 2 weeks ago)
 *   Retrieve Old Account
     *   \[Resolved\] by anoiFace
     *   5 years ago
@@ -49,7 +49,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by alicemama 4 weeks ago)
+    *   2 (last comment by alicemama 1 month ago)
 *   I lost my blog and everything
     *   by Y\_I\_U\_Y\_I\_U
     *   3 months ago
