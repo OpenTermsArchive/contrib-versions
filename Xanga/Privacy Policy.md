@@ -10,10 +10,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   My Blog does not appear
     *   by rosiebrowne
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by XZXhakuXZX 4 days ago)
+    *   1 (last comment by XZXhakuXZX 5 days ago)
 *   In search of old posts
     *   by monkey\_chong
     *   1 week ago
@@ -88,7 +88,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Lost my Data
     *   by sharib1975
-    *   1 month ago
+    *   2 months ago
     *   in Pictures
     *   0 votes
     *   0
