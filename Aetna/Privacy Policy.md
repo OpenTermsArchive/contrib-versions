@@ -25,6 +25,7 @@ Search Individuals Individuals overview Get a quote Get a quote
 
 *   Medicare
 *   Health insurance
+*   Vision insurance
 *   Dental coverage
 *   Medicaid
 
@@ -78,6 +79,7 @@ Products &. programs Products &. programs
 *   Small business
 *   Mid-sized business
 *   National accounts
+*   Hospitality industry
 *   Multi-employer labor funds
 *   Public sector
 *   Retiree health plans
