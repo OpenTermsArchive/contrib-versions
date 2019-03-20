@@ -13,7 +13,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by XZXhakuXZX 6 days ago)
+    *   1 (last comment by XZXhakuXZX 1 week ago)
 *   In search of old posts
     *   by monkey\_chong
     *   1 week ago
@@ -64,25 +64,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   No Free Blog Options
     *   by Spica\_the\_PI
-    *   1 month ago
+    *   2 months ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Close
     *   by smallndangerous
-    *   1 month ago
+    *   2 months ago
     *   in Privacy
     *   0 votes
     *   0
 *   PLEASE SHUT DOWN MY ACCOUNT!
     *   by smallndangerous
-    *   1 month ago
+    *   2 months ago
     *   in Privacy
     *   0 votes
     *   0
 *   PLEASE SHUT DOWN MY ACCOUNT!
     *   by smallndangerous
-    *   1 month ago
+    *   2 months ago
     *   in Privacy
     *   0 votes
     *   0
