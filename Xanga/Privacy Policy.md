@@ -16,7 +16,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by XZXhakuXZX 1 week ago)
 *   In search of old posts
     *   by monkey\_chong
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -31,7 +31,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 years ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   6 (last comment by crazy\_texas\_chicas 2 weeks ago)
+    *   6 (last comment by crazy\_texas\_chicas 3 weeks ago)
 *   In search of old posts
     *   by cbkpotter
     *   3 weeks ago
@@ -43,7 +43,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 years ago
     *   in Miscellaenous
     *   0 votes
-    *   9 (last comment by LSS2009 3 weeks ago)
+    *   9 (last comment by LSS2009 4 weeks ago)
 *   My site didn't appear
     *   by HoPuiYi325
     *   1 year ago
