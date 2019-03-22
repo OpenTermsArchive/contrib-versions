@@ -1,5 +1,3 @@
-SPIDEROAK PRIVACY POLICY
-
 _Posted and effective as of 4 June, 2016_
 
 Please read this privacy policy carefully. It applies to all interactions you have with SpiderOak’s web services and apps.
