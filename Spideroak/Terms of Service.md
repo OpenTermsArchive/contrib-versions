@@ -1,5 +1,3 @@
-SPIDEROAK TERMS OF SERVICE
-
 _Posted and effective as of 4 June 2016_
 
 Welcome to SpiderOak! We’re glad you’re here.
@@ -12,7 +10,7 @@ Content
 
 All content on SpiderOak is protected by United States and other intellectual property laws. You’ll find a few different types of content on our service.
 
-Your Content. You can back up, host, store, and share your own files on SpiderOak, as well as collaborate and communicate with others using tools like Semaphor and SpiderOak Kloak.
+Your Content. You can back up, host, store, and share your own files on SpiderOak, as well as collaborate and communicate with others using tools like Semaphor and SpiderOak Share.
 
 The files and other materials you upload to SpiderOak are yours and yours alone. You give us permission to use that material solely to do what’s necessary to provide our services, including storing, displaying, reproducing, and distributing the content.
 
@@ -20,7 +18,7 @@ You’re responsible for the content you upload to SpiderOak and assume all risk
 
 You have the option to try out some SpiderOak services on a trial basis (Semaphor in particular). Please note that we don’t retain content past the timeframe for these trial plans. Even if you decide to upgrade to another plan later, the content you store with us during the trial period can’t be restored after the trial timeframe expires.
 
-SpiderOakONE, SpiderOak Groups and SpiderOak Semaphor allow you to share your files with others. Please familiarize yourself with the settings and controls for those services and be careful about what you choose to share with and download from others.
+SpiderOakONE, SpiderOak Groups, SpiderOak Share, and Semaphor allow you to share your files with others. Please familiarize yourself with the settings and controls for those services and be careful about what you choose to share with and download from others.
 
 We don’t pre-screen anyone’s content. However, we have the right—but no duty—to review and remove files for any reason. We assume no liability for any content that you or anyone else stores with or shares through SpiderOak. SpiderOak’s Content and Brand Features. SpiderOak is protected by copyright, trademark, and other laws.
 
@@ -50,7 +48,7 @@ SpiderOak contains links to websites and services that we neither own nor contro
 
 Privacy
 
-OurPrivacy Policygoverns our collection and use of your personal information. Please review those provisions, too.
+Our Privacy Policy governs our collection and use of your personal information. Please review those provisions, too.
 
 Security
 
@@ -69,19 +67,12 @@ Copyright Infringement Notice Procedure.
 To send us a notice concerning copyright infringement, you’ll need to provide the following information:
 
 1.  A physical or electronic signature of the copyright owner or a person authorized to act on their behalf (typing your full name will do);
-    
 2.  Identification of the copyrighted work claimed to have been infringed (e.g., a copy of or link to your original work or clear description of the materials allegedly being infringed);
-    
 3.  Identification of the infringing material and information reasonably sufficient to permit us to locate the material on our services (e.g., a URL where the allegedly infringing material is located);
-    
 4.  Your contact information, including your address, telephone number, and an email address;
-    
 5.  Date you are sending the notice.
-    
 6.  A statement that you have a good-faith belief that the use of the material in the manner asserted is not authorized by the copyright owner, its agent, or the law. and
-    
 7.  A statement that the information in the notification is accurate, and, under penalty of perjury, that you are authorized to act on behalf of the copyright owner.
-    
 
 You can report alleged copyright infringement by emailing the above information to copyright@spideroak.com.
 
@@ -100,13 +91,9 @@ If you receive a DMCA notification about material you’ve posted and you believ
 To submit a counter-notice, please send us the following information:
 
 1.  A physical or electronic signature (typing your full name will do);
-    
 2.  Identification of the material that has been removed or to which access has been disabled and the URL at which the material appeared before it was removed or access to it was disabled (the description from the DMCA notice is enough);
-    
 3.  A statement under penalty of perjury that you have a good-faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled. and
-    
 4.  Your name, address, and telephone number, and a statement that you consent to the jurisdiction of the federal district court for the judicial district in which your address is located, or if your address is outside of the United States, for any judicial district in which SpiderOak may be found, and that you will accept service of process from the person who provided the copyright notification or an agent of such person.
-    
 
 To submit a counter-notice, please respond to our original email letting you know about the removal, and include the above information in the body of your reply.
 
@@ -116,7 +103,7 @@ Children
 
 SpiderOak is only for users 13 years old and older. If we learn a child under 13 is using our service, we’ll terminate the child’s account.
 
-SpiderOak Groups, Enterprise Backups, and SpiderOak Semaphor
+SpiderOak Groups, Enterprise Backups, SpiderOak Share, and Semaphor
 
 You must operate your SpiderOak Groups, Enterprise Backups and SpiderOak Semaphor account consistent with any policies your group or employer may require. Please note that an administrator of a group or team may be able to access, restrict, retain, terminate, or remove information from your account with or without notice to you. Cancellation
 
@@ -152,7 +139,7 @@ Nothing shall prevent either party from seeking injunctive or other equitable re
 
 YOUR RIGHT TO OPT OUT OF ARBITRATION
 
-You may opt out of the agreement to arbitrate. If you do so, neither you nor SpiderOak can require the other to participate in an arbitration proceeding. To opt out, you must notify SpiderOak within 90 days of the date that you first agreed to these Terms. Send your written opt-out notice to this address: Arbitration Opt-Out, SpiderOak, Inc., 4741 Central Street # 324, Kansas City, MO 64112.
+You may opt out of the agreement to arbitrate. If you do so, neither you nor SpiderOak can require the other to participate in an arbitration proceeding. To opt out, you must notify SpiderOak within 90 days of the date that you first agreed to these Terms. Send your written opt-out notice to this address: Arbitration Opt-Out, Attn: Laura Gowans, SpiderOak, Inc., 5920 Nall Avenue, Suite 200, Mission KS 66202, USA. 
 
 Your written opt-out notice must include (1) your name and residence address. (2) the email address and/or mobile telephone number associated with your account. (3) a clear statement that you want to opt out of this arbitration agreement. and (4) your signature.
 
