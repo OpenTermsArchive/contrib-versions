@@ -1,10 +1,5 @@
 GitHub Terms of Service
 
-*   mac
-*   windows
-*   linux
-*   all
-
 Thank you for using GitHub! We're happy you're here. Please read this Terms of Service agreement carefully before accessing or using GitHub. Because it is such an important contract between us and our users, we have tried to make it as clear as possible. For your convenience, we have presented these terms in a short non-binding summary followed by the full legal terms.
 
 Summary Section What can you find there? A. Definitions Some basic terms, defined in a way that will help you understand this agreement. Refer back up to this section for clarification. B. Account Terms These are the basic requirements of having an Account on GitHub. C. Acceptable Use These are the basic rules you must follow when using your GitHub Account. D. User-Generated Content You own the content you post on GitHub. However, you have some responsibilities regarding it, and we ask you to grant us some rights so we can provide services to you. E. Private Repositories This section talks about how GitHub will treat content you post in private repositories. F. Copyright &. DMCA Policy This section talks about how GitHub will respond if you believe someone is infringing your copyrights on GitHub. G. Intellectual Property Notice This describes GitHub's rights in the website and service. H. API Terms These are the rules for using GitHub's APIs, whether you are using the API for development or data collection. I. Additional Terms for GitHub Pages We have a few specific rules for content hosted using GitHub Pages. J. Third Party Applications We have a few rules for creating apps for other Users, and another set of terms for GitHub Marketplace. K. Advertising on GitHub If you want to promote your content on GitHub, this section lays out some rules you must follow. L. Payment You are responsible for payment. We are responsible for billing you accurately. M. Cancellation and Termination You may cancel this agreement and close your Account at any time. N. Communications with GitHub We only use email and other electronic means to stay in touch with our users. We do not provide phone support. O. Disclaimer of Warranties We provide our service as is, and we make no promises or guarantees about this service. **Please read this section carefully. you should understand what to expect.** P. Limitation of Liability We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement. **Please read this section carefully. it limits our obligations to you.** Q. Release and Indemnification You are fully responsible for your use of the service. R. Changes to these Terms of Service We may modify this agreement, but we will give you 30 days' notice of changes that affect your rights. S. Miscellaneous Please see this section for legal details including our choice of law. The GitHub Terms of Service
@@ -42,8 +37,7 @@ You must provide a valid email address in order to complete the signup process. 
 
 We have a few simple rules for User Accounts on GitHub's Service.
 
-*   You must be a human to create an Account. Accounts registered by "bots" or other automated methods are not permitted. We do permit machine accounts:  
-    
+*   You must be a human to create an Account. Accounts registered by "bots" or other automated methods are not permitted. We do permit machine accounts:
 *   A machine account is an Account set up by an individual human who accepts the Terms on behalf of the Account, provides a valid email address, and is responsible for its actions. A machine account is used exclusively for performing automated tasks. Multiple users may direct the actions of a machine account, but the owner of the Account is ultimately responsible for the machine's actions. You may maintain no more than one free machine account in addition to your free User Account.
 *   One person or legal entity may maintain no more than one free Account (if you choose to control a machine account as well, that's fine, but it can only be used for running a machine).
 *   You must be age 13 or older. While we are thrilled to see brilliant young coders get excited by learning to program, we must comply with United States law. GitHub does not target our Service to children under 13, and we do not permit any Users under 13 on our Service. If we learn of any User under the age of 13, we will terminate that User’s Account immediately. If you are a resident of a country outside the United States, your country’s minimum age may be older. in such a case, you are responsible for complying with your country’s laws.
@@ -412,5 +406,3 @@ This Agreement may only be modified by a written amendment signed by an authoriz
 6\. Questions
 
 Questions about the Terms of Service? Contact us.
-
-*   Contact a human
