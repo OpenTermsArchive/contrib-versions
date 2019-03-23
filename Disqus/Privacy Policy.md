@@ -1,6 +1,6 @@
 Disqus Privacy Policy
 
-**Updated May 24, 2018**
+**Updated March 22, 2019**
 
 Disqus, Inc. (“Disqus,” “we,” or “us”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use, disclosure and protection of information that apply to our Service (as defined below), as well as your choices regarding the collection and use of information. It is important that you read this Privacy Policy together with any other privacy notice or fair processing notice we may provide on specific occasions when we are collecting or processing personal data about you so that you are fully aware of how and why we are using your data. This privacy notice supplements the other notices and is not intended to override them.
 
@@ -156,28 +156,18 @@ For users based in the European Economic Area (EEA) we may share your personal d
 
 Whenever we transfer your personal data out of the EEA, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented:
 
-•We will only transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the European Commission. For further details, see _European Commission: Adequacy of the protection of personal data in non-EU countries_.
+•We may transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the European Commission. For further details, see _European Commission: Adequacy of the protection of personal data in non-EU countries_.
 
-•We may use specific contracts approved by the European Commission, which give personal data the same protection it has in Europe. For further details, see _European Commission: Model contracts for the transfer of personal data to third countries_.
+•We may transfer data subject to specific contracts approved by the European Commission, which ensures that personal data the same protection it has in Europe regardless of where it is processed. For further details, see _European Commission: Model contracts for the transfer of personal data to third countries_.
 
-•Where we use providers based in the US, we may transfer data to them if they are part of the Privacy Shield, which requires them to provide similar protection to personal data shared between the Europe and the US. For further details, see _European Commission: EU-US Privacy Shield_.Disqus Inc. is Privacy Shield registered.
+•For some service providers based in the US, we may transfer data to them if they participate in the EU-US Privacy Shield program, which requires them to provide similar protection to personal data shared between the Europe and the US. For further details, see _European Commission: EU-US Privacy Shield_. 
 
-Please contact us if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA.
-
-**Disqus and the EU-U.S. Privacy Shield.**
-
-Disqus complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from the European Union. Disqus’ parent company Zeta Global has certified to the Department of Commerce that its affiliates (including Disqus) adhere to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit www.privacyshield.gov.
-
-Disqus’ accountability for personal data that it receives under the Privacy Shield and subsequently transfers to a third party is described in the Privacy Shield Principles. In particular, Disqus remains responsible and liable under the Privacy Shield Principles if third-party agents that it engages to process the personal data on its behalf do so in a manner inconsistent with the Principles, unless Disqus proves that it is not responsible for the event giving rise to the damage.
-
-If you have a Privacy Shield-related complaint, please contact us at privacy@disqus.com. As part of our participation in Privacy Shield, if you have a dispute with us about our adherence to the Privacy Shield Principles, and we cannot resolve it alternatively, you may reach out to our independent dispute resolution body, TrustArc at https://feedback-form.truste.com/watchdog/request. 
-
-Disqus is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC). Under certain circumstances, participants may be liable for transfer of personal data from the EU to third parties outside the EU. 
+Please contact us if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA.  
 
 **13\. GENERAL**
 
-a. Contact.If you have any questions about this Privacy Policy, please email us at privacy@disqus.com, or contact us by mail at 717 Market Street, Suite 700, San Francisco, CA 94103.
+a. Contact. If you have any questions about this Privacy Policy, please email us at privacy@disqus.com, or contact us by mail at 717 Market Street, Suite 700, San Francisco, CA 94103.
 
-b. Changes to Privacy Policy.Disqus may, in its sole discretion, modify or update this Privacy Policy from time to time, and so you should review this page periodically. When we change the policy, we will update the ‘last modified’ date at the bottom of this page. Your continued use of the Site following the posting of any changes to this policy means you accept such changes.
+b. Changes to Privacy Policy. Disqus may, in its sole discretion, modify or update this Privacy Policy from time to time, and so you should review this page periodically. When we change the policy, we will update the ‘last modified’ date at the bottom of this page. Your continued use of the Site following the posting of any changes to this policy means you accept such changes.
 
-This Privacy Policy was last modified on May 24, 2018.  Click here to view the Terms of Service.
+This Privacy Policy was last modified on March 22, 2019.  Click here to view the Terms of Service.
