@@ -3,7 +3,7 @@
 *   Find An Agent
 *   Contact Us
 *   Español
-*   Set Your Location
+*   denver, CO 80201
 *   Search
 
 Popular Searches
@@ -89,6 +89,7 @@ Popular Searches
 *   Get a Quote
     
     Your location is set for  
+    denver, CO 80201
     
     Enter a valid US ZIP Code to set your location.
     
@@ -146,7 +147,9 @@ Popular Searches
     *   Business Insurance
 *   Get A Quote in
     
-    Edit location
+    80201
+    
+    80201 Edit location
     
     Select a ProductAutoHomeRentersLifeCondoMotorcycleBoatATV/Rec. VehicleBusiness InsuranceMore InsuranceGet A Quote
     
@@ -167,7 +170,7 @@ What's This?
 
 Register new account
 
-*   Update Zip Code
+*   denver, CO 80201
 *   Contact Us
 *   Español
 
@@ -208,13 +211,13 @@ Register new account
 
 Find An Agent Close
 
-Agents near
+Agents near 80201
 
 *   Loading...
 
 Advanced agent search
 
-Edit location
+80201 Edit location
 
 Select a ProductAutoHomeRentersLifeCondoMotorcycleBoatATV/Rec. VehicleBusiness InsuranceGet a quote
 
