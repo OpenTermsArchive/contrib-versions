@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   My Blog does not appear
     *   by rosiebrowne
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by XZXhakuXZX 1 week ago)
