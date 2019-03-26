@@ -8,6 +8,18 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   My Blog doesn't appear
+    *   by Ishkaboomie231
+    *   9 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   My Blog doesn't appear
+    *   by Ishkaboomie231
+    *   9 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   My Blog does not appear
     *   by rosiebrowne
     *   3 weeks ago
@@ -34,7 +46,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   6 (last comment by crazy\_texas\_chicas 3 weeks ago)
 *   In search of old posts
     *   by cbkpotter
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -84,18 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by smallndangerous
     *   2 months ago
     *   in Privacy
-    *   0 votes
-    *   0
-*   Lost my Data
-    *   by sharib1975
-    *   2 months ago
-    *   in Pictures
-    *   0 votes
-    *   0
-*   Data Migration
-    *   by k\_\_\_a\_\_m
-    *   2 months ago
-    *   in Data Migration
     *   0 votes
     *   0
 
