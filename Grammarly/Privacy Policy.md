@@ -1,4 +1,4 @@
-Privacy PolicyEffective as of February 13, 2019
+Privacy PolicyEffective as of March 25, 2019
 
 At Grammarly, we care about the privacy of your data and are committed to protecting it. This Privacy Policy explains what information we collect about you and why, what we do with that information, and how we handle that information. Throughout this policy, when we write “Grammarly” or “we” or “us,” we’re referring to Grammarly, Inc., a Delaware corporation, and our subsidiaries and other affiliates.
 
@@ -53,6 +53,9 @@ Other Information we collect
 We collect this Information as you use the Site, Software, and/or Services:
 
 *   User Content. This consists of all text, documents, or other content or information uploaded, entered, or otherwise transmitted by you in connection with your use of the Services and/or Software.
+    
+
+*   Names of User Contacts (if you are using the Grammarly Keyboard). The Grammarly Keyboard may request or obtain access to the names of your contacts on your device. This access helps the Grammarly Keyboard recognize when you are typing names so it can make appropriate suggestions (for example, if you misspell a name).
     
 
 Automatically collected Information
