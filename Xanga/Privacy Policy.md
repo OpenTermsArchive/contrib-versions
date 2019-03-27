@@ -1,22 +1,28 @@
-Skip to toolbar
-
-*   Xanga
-
-*   Log In
-
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   My Blog doesn't appear
-    *   by Ishkaboomie231
-    *   9 hours ago
+*   Not able to find archieves
+    *   by V\_venus
+    *   14 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Not able to find archieves
+    *   by V\_venus
+    *   14 hours ago
     *   in Data Migration
     *   0 votes
     *   0
 *   My Blog doesn't appear
     *   by Ishkaboomie231
-    *   9 hours ago
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   My Blog doesn't appear
+    *   by Ishkaboomie231
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -25,7 +31,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by XZXhakuXZX 1 week ago)
+    *   1 (last comment by XZXhakuXZX 2 weeks ago)
 *   In search of old posts
     *   by monkey\_chong
     *   2 weeks ago
@@ -81,18 +87,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0 votes
     *   0
 *   Close
-    *   by smallndangerous
-    *   2 months ago
-    *   in Privacy
-    *   0 votes
-    *   0
-*   PLEASE SHUT DOWN MY ACCOUNT!
-    *   by smallndangerous
-    *   2 months ago
-    *   in Privacy
-    *   0 votes
-    *   0
-*   PLEASE SHUT DOWN MY ACCOUNT!
     *   by smallndangerous
     *   2 months ago
     *   in Privacy
@@ -156,4 +150,8 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
+
+*   Xanga
+
+*   Log In
