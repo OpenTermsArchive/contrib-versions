@@ -1,28 +1,52 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Please help to reactivate let me can see old posts
+    *   by natalie6791
+    *   19 hours ago
+    *   in Themes
+    *   0 votes
+    *   0
+*   Please help to reactivate let me can see old posts
+    *   by natalie6791
+    *   19 hours ago
+    *   in Themes
+    *   0 votes
+    *   0
+*   Please help to reactivate let me can see old posts
+    *   by natalie6791
+    *   19 hours ago
+    *   in Themes
+    *   0 votes
+    *   0
 *   Not able to find archieves
     *   by V\_venus
-    *   14 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Not able to find archieves
     *   by V\_venus
-    *   14 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   My Blog doesn't appear
-    *   by Ishkaboomie231
     *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   My Blog doesn't appear
     *   by Ishkaboomie231
-    *   1 day ago
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   My Blog doesn't appear
+    *   by Ishkaboomie231
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -34,7 +58,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by XZXhakuXZX 2 weeks ago)
 *   In search of old posts
     *   by monkey\_chong
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -49,7 +73,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 years ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   6 (last comment by crazy\_texas\_chicas 3 weeks ago)
+    *   6 (last comment by crazy\_texas\_chicas 4 weeks ago)
 *   In search of old posts
     *   by cbkpotter
     *   1 month ago
@@ -74,24 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Themes
     *   0 votes
     *   2 (last comment by SwtPea0833 1 month ago)
-*   Why I cannot download achieved blog?
-    *   by minnie\_0717
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   No Free Blog Options
-    *   by Spica\_the\_PI
-    *   2 months ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Close
-    *   by smallndangerous
-    *   2 months ago
-    *   in Privacy
-    *   0 votes
-    *   0
 
 1 2 3 ... 192 Next
 
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
