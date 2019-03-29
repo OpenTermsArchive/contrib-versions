@@ -13,9 +13,9 @@
 *   Sustainability
 *   Community
 
-Social Responsibility
+TECHNOLOGY
 
-General Motors Engineer Guides Award-Winning Girls’ Robotic Team
+The True Test of Technology is How it Helps Make Lives Better
 
 Read the Story
 
