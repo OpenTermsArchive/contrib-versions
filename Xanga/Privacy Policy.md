@@ -10,43 +10,43 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Please help to reactivate let me can see old posts
     *   by natalie6791
-    *   19 hours ago
+    *   1 day ago
     *   in Themes
     *   0 votes
     *   0
 *   Please help to reactivate let me can see old posts
     *   by natalie6791
-    *   19 hours ago
+    *   1 day ago
     *   in Themes
     *   0 votes
     *   0
 *   Please help to reactivate let me can see old posts
     *   by natalie6791
-    *   19 hours ago
+    *   1 day ago
     *   in Themes
     *   0 votes
     *   0
 *   Not able to find archieves
     *   by V\_venus
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Not able to find archieves
     *   by V\_venus
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   My Blog doesn't appear
-    *   by Ishkaboomie231
     *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   My Blog doesn't appear
     *   by Ishkaboomie231
-    *   2 days ago
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   My Blog doesn't appear
+    *   by Ishkaboomie231
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
