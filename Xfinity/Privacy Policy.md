@@ -4,7 +4,7 @@ Comcast Customer Privacy Notice
 
 Download privacy notice:
 
-English (PDF) | Spanish (PDF)
+English (PDF | Spanish (PDF)
 
 Overview
 
@@ -336,3 +336,5 @@ One Comcast Center
 Philadelphia, PA 19103-2838
 
 Revised and effective: January 1, 2018
+
+Stnd 0419
