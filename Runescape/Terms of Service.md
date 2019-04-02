@@ -6,7 +6,7 @@ Date August 20th 2018.
 
 1\. Introduction
 
-This website is owned and operated by Jagex Limited ( **"Jagex"**), a company registered in England and Wales (registered number 3982706). Our registered office is at St John's Innovation Centre, Cowley Road, Cambridge, CB4 0WS, United Kingdom. Our VAT number is 791 951 784.
+This website is owned and operated by Jagex Limited (**"Jagex"**), a company registered in England and Wales (registered number 3982706). Our registered office is at St John's Innovation Centre, Cowley Road, Cambridge, CB4 0WS, United Kingdom. Our VAT number is 791 951 784.
 
 2\. Definitions
 
