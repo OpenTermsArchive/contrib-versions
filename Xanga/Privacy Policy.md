@@ -1,52 +1,58 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
 *   My Xanga Blog Doesn't appear
     *   by iris\_yuki
-    *   7 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help to reactivate let me can see old posts
     *   by natalie6791
-    *   4 days ago
+    *   5 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Please help to reactivate let me can see old posts
     *   by natalie6791
-    *   4 days ago
+    *   5 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Please help to reactivate let me can see old posts
     *   by natalie6791
-    *   4 days ago
+    *   5 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Not able to find archieves
     *   by V\_venus
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Not able to find archieves
     *   by V\_venus
-    *   5 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   My Blog doesn't appear
-    *   by Ishkaboomie231
     *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   My Blog doesn't appear
     *   by Ishkaboomie231
-    *   6 days ago
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   My Blog doesn't appear
+    *   by Ishkaboomie231
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
