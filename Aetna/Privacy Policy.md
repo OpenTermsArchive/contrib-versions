@@ -402,7 +402,7 @@ Back to top
 Privacy statement update: 9/19/17
 
 *   *   Glossary
-*   *   Aetna Mobile App
+*   *   Aetna App
 *   *   Careers
 *   *   News and Analysis
 *   *   Health Care Reform
