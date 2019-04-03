@@ -10,37 +10,37 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   My Xanga Blog Doesn't appear
     *   by iris\_yuki
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please help to reactivate let me can see old posts
     *   by natalie6791
-    *   5 days ago
+    *   6 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Please help to reactivate let me can see old posts
     *   by natalie6791
-    *   5 days ago
+    *   6 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Please help to reactivate let me can see old posts
     *   by natalie6791
-    *   5 days ago
+    *   6 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Not able to find archieves
     *   by V\_venus
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Not able to find archieves
     *   by V\_venus
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -58,10 +58,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   My Blog does not appear
     *   by rosiebrowne
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by XZXhakuXZX 2 weeks ago)
+    *   1 (last comment by XZXhakuXZX 3 weeks ago)
 *   In search of old posts
     *   by monkey\_chong
     *   3 weeks ago
