@@ -10,7 +10,8 @@ Terms of Service
 
 These Terms govern your access to and use of WordPress.com, Jetpack.com, VaultPress.com, and Happy.Tools, as well as all content and Automattic products and services (for example, ecommerce services as outlined below in Section 7e) available at or though these websites (collectively, “Services”).
 
-These Terms also govern visitors’ access to and use of any websites that use our Services, such as websites hosted on WordPress.com that are operated by our users.  
+These Terms also govern visitors’ access to and use of any websites that use our Services, such as websites hosted on WordPress.com that are operated by our users.
+
 For some of Automattic’s other products and services, such as WooCommerce, Akismet, CrowdSignal, and WordPress.com VIP, additional Terms of Service may apply and will be posted on the websites for those products and services.
 
 Our Services are offered subject to your acceptance, without modification, of all of the terms and conditions contained herein and all other operating rules, policies (including, without limitation, Automattic’s Privacy Policy), and procedures that may be published from time to time by Automattic (collectively, the “Agreement”). You agree that we may automatically upgrade our Services, and the Agreement will apply to any upgrades.
