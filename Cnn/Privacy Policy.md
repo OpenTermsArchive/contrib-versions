@@ -1,4 +1,4 @@
-FacebookTwitterShareCNN Privacy Policy
+EmailFacebookTwitterShareCNN Privacy Policy
 
 (CNN) **What's New in the Updated Privacy Policy? We have updated the privacy policy applicable to our online and mobile websites, applications, and digital services and clarified data collection, usage and sharing practices among Turner, its affiliates, including AT&T, Inc. and Warner Media, LLC, and unaffiliated third parties. Please take the time to read the full privacy policy. You consent to the data collection, use, disclosure and storage practices described in this privacy policy when you use any of our Services (as described below), including when you access any content or videos.**
 
@@ -32,4 +32,4 @@ As discussed above in How to Contact Us/Opting Out of Marketing Communications, 
 
 **VII. Turner Affiliates.** Please click here to see a representative list of Turner companies that currently may have access to the Information collected from Users on our Services as set forth in this Privacy Policy. This list also includes companies that are affiliated with the Turner group companies and their affiliates, with whom we may share Information we collect on our Services. We may update this list from time-to-time, so please check back periodically to keep up-to-date.**VIII. Updates &. Effective Date**From time to time, we may update this Privacy Policy. We will notify you about material changes by either sending an email message to the email address you most recently provided to us or by prominently posting a notice on our Service. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and with whom we share it._The Privacy Policy posted on this Service was updated on October 11, 2018._
 
-FacebookTwitterShare
+EmailFacebookTwitterShare
