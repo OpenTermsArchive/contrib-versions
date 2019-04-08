@@ -4,7 +4,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   My Xanga Blog Doesn't appear
     *   by iris\_yuki
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
