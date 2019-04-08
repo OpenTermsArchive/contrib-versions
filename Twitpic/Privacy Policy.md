@@ -44,7 +44,7 @@ Information You Share With Us
 *   Payment Information
 *   How You Control the Information You Share With Us
 
-Basic Account Information
+ 
 
 *   Basic Account Information
 *   Public Information
@@ -201,7 +201,7 @@ Additional Information We Receive About You
 *   Personalizing Across Your Devices
 *   How You Control Additional Information We Receive
 
-Location Information
+ 
 
 *   Location Information
 *   Links
@@ -418,7 +418,7 @@ Information We Share and Disclose
 *   Affiliates and Change of Ownership
 *   Non-Personal Information
 
-Sharing You Control
+ 
 
 *   Sharing You Control
 *   Service Providers
@@ -457,155 +457,3 @@ We engage service providers to perform functions and provide services to us in t
 3.3
 
 Law, Harm, and the Public Interest
-
-Notwithstanding anything to the contrary in this Privacy Policy or controls we may otherwise offer to you, we may preserve, use, or disclose your personal data if we believe that it is reasonably necessary to comply with a law, regulation, legal process, or governmental request. to protect the safety of any person. to protect the safety or integrity of our platform, including to help prevent spam, abuse, or malicious actors on our services, or to explain why we have removed content or accounts from our services. to address fraud, security, or technical issues. or to protect our rights or property or the rights or property of those who use our services. However, nothing in this Privacy Policy is intended to limit any legal defenses or objections that you may have to a third party’s, including a government’s, request to disclose your personal data.
-
-pageReference: /content/twitter-com/legal/en/privacy/chapter-3/chapter-3-3-tooltips---overlays
-
-Content:
-
-Transparency matters
-
-We remove content from our services when it violates our rules, like if it glorifies violence. When that content is gone, we want you to know.
-
-Close tooltip  
-
-3.4
-
-Affiliates and Change of Ownership
-
-In the event that we are involved in a bankruptcy, merger, acquisition, reorganization, or sale of assets, your personal data may be sold or transferred as part of that transaction. This Privacy Policy will apply to your personal data as transferred to the new entity. We may also disclose personal data about you to our corporate affiliates in order to help operate our services and our affiliates’ services, including the delivery of ads.
-
- 
-
-3.5
-
-Non-Personal Information
-
-We share or disclose non-personal data, such as aggregated information like the total number of times people engaged with a Tweet, the number of people who clicked on a particular link or voted on a poll in a Tweet (even if only one did), the topics that people are Tweeting about in a particular location, or reports to advertisers about how many people saw or clicked on their ads.
-
- 
-
-4
-
-Managing Your Personal Information With Us
-
-**You control the personal data you share with us. You can access or rectify this data at any time. You can also deactivate your account. We also provide you tools to object, restrict, or withdraw consent where applicable for the use of data you have provided to Twitter. And we make the data you shared through our services portable and provide easy ways for you to contact us.**  
-
-*   Accessing or Rectifying Your Personal Data
-*   Deletion
-*   Object, Restrict, or Withdraw Consent
-*   Portability
-*   Additional Information or Assistance
-
-Accessing or Rectifying Your Personal Data
-
-*   Accessing or Rectifying Your Personal Data
-*   Deletion
-*   Object, Restrict, or Withdraw Consent
-*   Portability
-*   Additional Information or Assistance
-
- 
-
-4.1
-
-Accessing or Rectifying Your Personal Data
-
-If you have registered an account on Twitter, we provide you with tools and account settings to access, correct, delete, or modify the personal data you provided to us and associated with your account. You can download certain account information, including your Tweets, by following the instructions here. On Periscope, you can request correction, deletion, or modification of your personal data, and download your account information, by following the instructions here. You can learn more about the interests we have inferred about you in Your Twitter Data and request access to additional information here.
-
- 
-
-4.2
-
-Deletion
-
-We keep Log Data for a maximum of 18 months. If you follow the instructions here (or for Periscope here), your account will be deactivated and then deleted. When deactivated, your Twitter account, including your display name, username, and public profile, will no longer be viewable on Twitter.com, Twitter for iOS, and Twitter for Android. For up to 30 days after deactivation it is still possible to restore your Twitter account if it was accidentally or wrongfully deactivated.
-
-Keep in mind that search engines and other third parties may still retain copies of your public information, like your profile information and public Tweets, even after you have deleted the information from our services or deactivated your account. Learn more here.
-
- 
-
-4.3
-
-Object, Restrict, or Withdraw Consent
-
-When you are logged into your Twitter account, you can manage your privacy settings and other account features here at any time.
-
- 
-
-4.4
-
-Portability
-
-Twitter provides you a means to download the information you have shared through our services by following the steps here. Periscope provides you a means to download the information you have shared through our services by following the steps here.
-
- 
-
-4.5
-
-Additional Information or Assistance
-
-Thoughts or questions about this Privacy Policy? Please let us know by contacting us here or writing to us at the appropriate address below.
-
-If you live in the United States, the data controller responsible for your personal data is Twitter, Inc. with an address of:
-
-Twitter, Inc.  
-Attn: Privacy Policy Inquiry  
-1355 Market Street, Suite 900  
-San Francisco, CA 94103
-
-If you live outside the United States, the data controller is Twitter International Company, with an address of:
-
-Twitter International Company  
-Attn: Data Protection Officer  
-One Cumberland Place, Fenian Street  
-Dublin 2, D02 AX07 IRELAND
-
-If you are located in the European Union or EFTA States, you can confidentially contact Twitter’s Data Protection Officer here. If you wish to raise a concern about our use of your information (and without prejudice to any other rights you may have), you have the right to do so with your local supervisory authority or Twitter International Company’s lead supervisory authority, the Irish Data Protection Commission. You can find their contact details here.
-
- 
-
-5
-
-Children and Our Services  
-
-Our services are not directed to children, and you may not use our services if you are under the age of 13. You must also be old enough to consent to the processing of your personal data in your country (in some countries we may allow your parent or guardian to do so on your behalf). You must be at least 16 years of age to use Periscope.
-
- 
-
-6
-
-Our Global Operations and Privacy Shield  
-
-To bring you our services, we operate globally. Where the laws of your country allow you to do so, you authorize us to transfer, store, and use your data in the United States, Ireland, and any other country where we operate. In some of the countries to which we transfer personal data, the privacy and data protection laws and rules regarding when government authorities may access data may vary from those of your country. Learn more about our global operations and data transfer here.
-
-When we transfer personal data outside of the European Union or EFTA States, we ensure an adequate level of protection for the rights of data subjects based on the adequacy of the receiving country’s data protection laws, contractual obligations placed on the recipient of the data (model clauses may be requested by inquiry as described below), or EU-US and Swiss-US Privacy Shield principles.
-
-Twitter, Inc. complies with the EU-US and Swiss-US Privacy Shield principles (the “Principles”) regarding the collection, use, sharing, and retention of personal data from the European Union and Switzerland, as described in our EU-US Privacy Shield certification and Swiss-US Privacy Shield certification.
-
-If you have a Privacy Shield-related complaint, please contact us here. As part of our participation in Privacy Shield, if you have a dispute with us about our adherence to the Principles, we will seek to resolve it through our internal complaint resolution process, alternatively through the independent dispute resolution body JAMS, and under certain conditions, through the Privacy Shield arbitration process.
-
-Privacy Shield participants are subject to the investigatory and enforcement powers of the US Federal Trade Commission and other authorized statutory bodies. Under certain circumstances, participants may be liable for the transfer of personal data from the EU or Switzerland to third parties outside the EU and Switzerland. Learn more about the EU-US Privacy Shield and Swiss-US Privacy Shield here.
-
- 
-
-7
-
-Changes to This Privacy Policy  
-
-We may revise this Privacy Policy from time to time. The most current version of the policy will govern our processing of your personal data and will always be at https://twitter.com/privacy. If we make a change to this policy that, in our sole discretion, is material, we will notify you via an @Twitter update or email to the email address associated with your account. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
-
-pageReference: /content/twitter-com/legal/en/privacy/chapter-7/chapter-7
-
-Content:
-
-You're in control
-
-Even as Twitter evolves, you can always change your privacy settings. The power is yours to choose what you share in the world.
-
-Close tooltip  
-
-Effective: May 25, 2018
-
-Archive of Previous Privacy Policies
