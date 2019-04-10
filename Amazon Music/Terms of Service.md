@@ -10,7 +10,7 @@ To use the Services, you must have an Amazon account, and you may be required to
 
 **1\. THE SERVICES**.
 
-**1.1 Location.** Please visit Amazon Music Service Provider Information and Applicable Terms and Policies Amazon Music Service Provider Information and Applicable Terms and Policies for more information on availability of Services in your Location. Some or all Services may not be available in your Location.
+**1.1 Location.** Please visit Amazon Music Service Provider Information and Applicable Terms and Policies for more information on availability of Services in your Location. Some or all Services may not be available in your Location.
 
 **1.2 Amazon Music Unlimited**. Amazon Music Unlimited ("Unlimited") allows you to access certain Music Content from our catalog ("Unlimited Content") if you subscribe to Unlimited.
 
@@ -32,7 +32,7 @@ To use the Services, you must have an Amazon account, and you may be required to
 
 **1.7 AutoRip-Eligible Orders**. Under the AutoRip program, when you purchase a qualifying CD or vinyl album from Amazon, we provide you a digital version of that album through the Music Library Service. For more information on the AutoRip program, please see the AutoRip Terms &. Conditions applicable to you (noted here).
 
-**1.8** **Personalization**. We provide personalized features and recommendations as part of the Services, including recommending Music Content and Services, which might be of interest to you. We also endeavor to continuously improve the Amazon services and devices and your experience with them.
+**1.8 Personalization.** We provide personalized features and recommendations as part of the Services, including recommending Music Content and Services, which might be of interest to you. We also endeavor to continuously improve the Amazon services and devices and your experience with them.
 
 **2\. GENERAL SUBSCRIPTION PLAN TERMS**.
 
@@ -90,7 +90,7 @@ If your Location is in the European Union, you may cancel your Unlimited Plan or
 
 **7\. DISPUTES**.
 
-**7.1 Disputes/ Binding Arbitration/ Conditions of Use**. **Any dispute or claim arising from or relating to the Agreement or the Services is subject to the governing law, disclaimer of warranties and limitation of liability, binding arbitration and class action waiver (if applicable), and all other terms in the Conditions of Use applicable to you (noted** **here** **).You agree to those terms by entering into the Agreement or using the Services. YOU MAY ALSO BE ENTITLED TO CERTAIN CONSUMER PROTECTION RIGHTS UNDER THE LAWS OF YOUR LOCAL JURISDICTION.**
+**7.1 Disputes/ Binding Arbitration/ Conditions of Use**. **Any dispute or claim arising from or relating to the Agreement or the Services is subject to the governing law, disclaimer of warranties and limitation of liability, binding arbitration and class action waiver (if applicable), and all other terms in the Conditions of Use applicable to you (noted here).You agree to those terms by entering into the Agreement or using the Services. YOU MAY ALSO BE ENTITLED TO CERTAIN CONSUMER PROTECTION RIGHTS UNDER THE LAWS OF YOUR LOCAL JURISDICTION.**
 
 **7.2 Limitation of Liability**. The disclaimer of warranties and limitation of liability in the Amazon Conditions of Use applicable to you (noted here) applies.
 
