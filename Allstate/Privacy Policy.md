@@ -56,8 +56,6 @@ Popular Searches
 
 *   Mobile Apps
 *   *   Allstate Mobile
-    *   Allstate Motor Club
-    *   Digital Locker
     *   QuickTrip®
 
 *   Find an Agent ✖
