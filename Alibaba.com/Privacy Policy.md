@@ -43,7 +43,7 @@ Sign In | Join Free
     *   Submit a Dispute
     *   Report IPR Infringement
     *   Report Abuse
-*   信用保障卖家
+*   Trade Assurance
 
 Alibaba.com English
 
@@ -793,4 +793,4 @@ Product Listing Policy - Intellectual Property Policy and Infringement Claims - 
 
 © 1999-2016 Alibaba.com. All rights reserved.
 
-icburule011001089043
+icburule011011056039
