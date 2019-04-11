@@ -445,14 +445,15 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Visio Online
 *   Web Translator
 *   Who’s In
+*   Windows games, apps and websites published by Microsoft
 *   Windows Live Mail
 *   Windows Live Writer
 *   Windows Movie Maker
 *   Windows Photo Gallery
 *   Windows Store
 *   Word Flow
-*   Xbox and Windows Games, apps and websites published by Microsoft
 *   Xbox Game Pass
+*   Xbox Game Studios games, apps and websites
 *   Xbox Live Gold
 *   Xbox Live
 *   Xbox Music
@@ -900,14 +901,15 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Visio Online
 *   Web Translator
 *   Who’s In
+*   Windows games, apps and websites published by Microsoft
 *   Windows Live Mail
 *   Windows Live Writer
 *   Windows Movie Maker
 *   Windows Photo Gallery
 *   Windows Store
 *   Word Flow
-*   Xbox and Windows Games, apps and websites published by Microsoft
 *   Xbox Game Pass
+*   Xbox Game Studios games, apps and websites
 *   Xbox Live Gold
 *   Xbox Live
 *   Xbox Music
