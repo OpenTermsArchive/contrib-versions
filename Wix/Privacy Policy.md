@@ -481,7 +481,7 @@ Sign In
     *   Explore
     *   Features
     *   Website Builder
-    *   Wix Code
+    *   Corvid
     *   Wix Playground
     *   My Sites
     *   Premium Plans
@@ -518,7 +518,6 @@ Sign In
     *   Wix Arena
     *   Facebook
     *   Twitter
-    *   Google+
     *   Pinterest
     *   Youtube
     *   Linkedin
