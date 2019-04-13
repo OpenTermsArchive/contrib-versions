@@ -606,7 +606,7 @@ We've worked hard to protect your information. And we've established electronic 
     
     If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, you may contact our U.S.-based third-party ombudsperson program at https://www.truste.com/consumer-resources/dispute-resolution/dispute-resolution-faqs/. If you are not satisfied with our resolution of any dispute, including with respect to privacy or data use concerns, please review our dispute resolution procedures at http://www.att.com/disputeresolution.
     
-    You also have the option of filing a complaint with the FTC Bureau of Consumer Protection, using an online form, or by calling toll-free 877.FTC.HELP (877.328.4357. TTY: 866.653.4261). Other rights and remedies also may be available to you under federal or other applicable laws.
+    You also have the option of filing a complaint with the FTC Bureau of Consumer Protection, using an online form, or by calling toll-free 877.FTC.HELP (877.382.4357. TTY: 866.653.4261). Other rights and remedies also may be available to you under federal or other applicable laws.
     
     If you are a satellite TV subscriber, you also have certain rights under Section 338(i) of the Federal Communications Act.
     
