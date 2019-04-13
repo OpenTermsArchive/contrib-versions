@@ -1,7 +1,19 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   site disaapear
+    *   by lingling\_1113
+    *   21 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   My Xanga Blog Doesn't appear
     *   by iris\_yuki
     *   1 week ago
@@ -86,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Miscellaenous
     *   0 votes
     *   9 (last comment by LSS2009 1 month ago)
-*   My site didn't appear
-    *   by HoPuiYi325
-    *   1 year ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by alicemama 1 month ago)
 
 1 2 3 ... 192 Next
 
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
