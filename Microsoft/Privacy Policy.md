@@ -1,4 +1,4 @@
-Microsoft Privacy StatementLast Updated: March 2019 What's new? Expand All Collapse AllPrint
+Microsoft Privacy StatementLast Updated: April 2019 What's new? Expand All Collapse AllPrint
 
 Your privacy is important to us. This privacy statement explains the personal data Microsoft processes, how Microsoft processes it, and for what purposes.
 
@@ -438,7 +438,7 @@ Top of page Product-specific details:Enterprise and developer productsEnterprise
 
 Enterprise and Developer Products are Microsoft products and related software offered to and designed primarily for use by organizations and developers. They include:
 
-*   Cloud services, referred to as Online Services in the Microsoft Online Services Terms (OST), such as Office 365, Microsoft Azure, Microsoft Dynamics365, and Microsoft Intune, for which an organization (our customer) contracts with Microsoft for the services (“Enterprise Online Services”).
+*   Cloud services, referred to as Online Services in the Microsoft Online Services Terms (OST), such as Office 365, Microsoft Azure, Microsoft Dynamics365, Microsoft Intune, and Microsoft Azure Stack, for which an organization (our customer) contracts with Microsoft for the services (“Enterprise Online Services”).
 *   Other enterprise and developer cloud-based services, such as PlayFab Services.
 *   Server and developer products, such as Windows Server, SQL Server, Visual Studio, and System Center (“Enterprise and Developer Software”).
 *   Appliances and hardware used for storage infrastructure, such as StorSimple (“Enterprise Appliances”).
@@ -495,21 +495,55 @@ Productivity and communications products are applications, software, and service
 
 Learn moreTop of page OfficeOffice
 
-Office is a collection of productivity applications including Word, Excel, PowerPoint, OneNote, and Outlook, among others. For more details about Outlook, see the Outlook section of this privacy statement. Various Office applications enable you to use content and functionality from other Microsoft products, such as Bing, and third-party connected products. If you work in an organization, your administrator can turn off or disable these connected services. You can access privacy settings in Office 2016 by selecting **File** >. **Options** >. **Trust Center** >. **Trust Center Settings** >. **Privacy Options**. For detailed information, see View my options and settings in the Microsoft Outlook Trust Center.
+Office is a collection of productivity services and applications including Word, Excel, PowerPoint, and Outlook, among others. For more details about Outlook, see the Outlook section of this privacy statement. Office is a service that is comprised of client software applications and connected online services that span many platforms and have numerous interdependent experiences. Various Office services enable you to use your file content for designs and recommendations, collaborate with others within your documents, and provide you functionality from other Microsoft products, such as Bing and third-party connected products. If you work in an organization, your administrator may turn off or disable these connected services. Prior to Office 365 version 1904, you can change your privacy settings in the Privacy Options of the Microsoft Office Trust Center. For more information, see View my options and settings in the Microsoft Office Trust Center. Starting with Version 1904 of Office 365, you can access new, updated, and improved privacy controls by selecting **File** >. **Account** >. **Account Privacy**. See Account Privacy Settings for more information.
 
-**Office Roaming Service**. The Office Roaming Service helps keep your Office settings up to date across your devices running Office. When you sign in to Office with your Microsoft account or an account issued by your organization, the Office Roaming Service is turned on and syncs some of your customized Office settings to Microsoft servers (such as a list of most recently used documents and the last location viewed within a document). When you sign in to Office on another device with the same account, the Office Roaming Service downloads your settings from Microsoft servers and applies them to the additional device. The Office Roaming Service also applies some of your customized Office settings when you sign in to Office.com. When you sign out of Office, the Office Roaming Service removes your Office settings from your device. Any changes you made to your customized Office settings are sent to Microsoft servers.
+**Office Roaming Service**. The Office Roaming Service helps keep your Office settings up to date across your devices running Office. When you sign in to Office with your Microsoft account or an account issued by your organization, the Office Client Policy Service is turned on and syncs some of your customized Office settings to Microsoft servers (such as a list of most recently used documents and the last location viewed within a document). When you sign in to Office on another device with the same account, the Office Roaming Service downloads your settings from Microsoft servers and applies them to the additional device. The Office Roaming Service also applies some of your customized Office settings when you sign in to Office.com. When you sign out of Office, the Office Roaming Service removes your Office settings from your device. Any changes you made to your customized Office settings are sent to Microsoft servers.
 
-**Microsoft Updates**. Office uses the Microsoft Update service to provide you with security and other important updates. See the Update Services section of this privacy statement for more information.
+**Microsoft Updates**. Office uses either Microsoft Update or Click-to-Run services to provide you with security and other important updates. See the Update Services section of this privacy statement for more information about Microsoft Update.
 
-**Online help, templates, and fonts**. Office uses other Microsoft or third-party services to give you the latest online content when you are connected to the internet, such as Help articles, templates, and fonts. The online fonts feature can be disabled by an administrative group policy setting, while other online content can be turned off by using privacy settings as described above. Online templates are made available to you when you start a new document. When you use the Help feature in Office applications, Office sends your search query to Office.com to provide you with online help articles. If online services are disabled, clicking on Help will take you to support.office.com in your default browser.
+**Click-to-Run Update Service**. The Click-to-Run Update Service allows you to install certain Microsoft Office products over the internet. The Click-to-Run Update Service also automatically detects online updates to Click-to-Run-enabled products on your device and downloads and installs them automatically.
 
-**Click-to-Run Update Service**. The Click-to-Run Update Service allows you to install certain Microsoft Office products over the internet, so you can start using them before they are completely downloaded. The Click-to-Run Update Service also automatically detects online updates to Click-to-Run-enabled products on your device and downloads and installs them automatically. You can turn the service off by using privacy settings.
+**Diagnostic Data**. Diagnostic data is used to (i) keep Office secure and up to date. (ii) detect, diagnose, and remediate problems. and (iii) make product improvements. This data does not include a user's name or email address, the content of the user's files, or information about apps unrelated to Office. Users have a choice between two different levels of diagnostic data collection, Required and Optional.
 
-**Recommendation services**. Some Office services send customer data to Microsoft to provide the user with recommendations. For example, Editor helps the user improve writing in Word. When a word is misspelled, that word and a few words around it are sent to Microsoft and analyzed to suggest the correct spelling. Editor will also check for poor grammar as the user is drafting. In PowerPoint, a user can send content to the Designer service to get professionally designed layout suggestions. This data may also be used to improve Microsoft products.
+*   **Required**. The minimum data necessary to help keep Office secure, up to date, and performing as expected on the device it's installed on.
+*   **Optional**. Additional data that helps us make product improvements and provides enhanced information to help us detect, diagnose, and remediate issues.
 
-**Search services**. Office-supported search services allow you to request information from Microsoft or third-party services from within an Office application. For example, in Word, you can highlight a word or phrase and retrieve relevant information from Bing search. When you search using a particular word or phrase, Office sends that text to the service in encrypted form. To provide you with contextually relevant search results, Office will send your requested word or phrase and some surrounding content from your document. In Excel, you can use Insights to send categories of data to Microsoft to receive recommendations for other sets of similar data that might interest you, but the actual content from your workbook isn't sent to Microsoft. In addition, Office will send data about the Office software and system you're using, including the version, operating system, locale, and language setting. If required by a third-party content provider, it will also send authorization data indicating you have the right to download the relevant content. Frequently, the information you receive includes a link to additional information from the content provider's website. If you click the link, the content provider may place a cookie on your device.
+See Diagnostic Data in Office for more information.
 
-**Translation service**. Some Office applications allow you to translate text using machine translation. You may send text from your document, which is encrypted by the Office application before being sent, to the Microsoft Translator service. In addition to the specific text you want to translate, Office may send some surrounding text from your document to provide a more relevant translation. You can also choose to send your entire document for translation. To learn more, see the Microsoft Translator section of this privacy statement.
+**Connected Experiences**. Office continues to provide more experiences in client applications that are connected to and backed by cloud-based services. In order to ensure that all these connected experiences will be reliable, up to date, remain secure, and perform as expected, necessary service data may be collected whenever you use a connected experience.
+
+Office consists of client software applications and connected experiences designed to enable you to create, communicate, and collaborate more effectively. Working with others on a document stored on OneDrive for Business or translating the contents of a Word document into a different language are examples of connected experiences. There are two types of connected experiences.
+
+*   **Experiences that analyze your content**. Experiences that use your Office content to provide you with design recommendations, editing suggestions, data insights, and similar features. For example, PowerPoint Designer or Editor in Word.
+*   **Experiences that download online content**. Experiences that allow you to search and download online content including templates, images, 3D models, videos, and reference materials to enhance your documents. For example, Office templates or PowerPoint QuickStarter.
+
+Prior to Office 365 version 1904, you can change your privacy settings in the Privacy Options of the Microsoft Office Trust Center.
+
+Starting with Version 1904 of Office 365, you can access new, updated, and improved privacy controls by selecting **File** >. **Account** >. **Account Privacy**. These privacy settings allow you to configure your connected experiences. For example, you can choose to enable connected experiences that download online content, but not connected experiences that analyze content. Turning off connected experiences will also turn off additional experiences, such as document co-authoring and online file storage. But even if you use this privacy setting to turn off connected experiences, certain Office functionality will remain available, such as syncing your mailbox in Outlook, as well as essential services described below.
+
+If you choose to disable certain types of connected experiences, either the ribbon or menu command for those connected experiences will be grayed out or you will get an error message when you try to use those connected experiences.
+
+There are a set of services that are essential to how Office functions and cannot be disabled. For example, the licensing service that confirms that you are properly licensed to use Office is essential. Necessary service data about these services is collected and sent to Microsoft, regardless of any other settings that you have configured. See Essential Services for more information.
+
+**Necessary service data for connected experiences**
+
+Necessary service data is data that enables us to deliver cloud-based connected experiences and help make these experiences secure and perform as expected. There are three types of information that are considered as necessary service data.
+
+*   **Customer Content**, which is content you create using Office, such as text typed in a Word document.
+*   **Functional Data**, which includes information needed by a connected experience to perform its task, such as configuration information about the app.
+*   **Service Diagnostic Data**, which is the data necessary to keep the service secure, up to date, and performing as expected. Because this data is strictly related to the connected experience, it is separate from Required or Optional diagnostic data levels.
+
+To help you understand necessary service data, the following is an example scenario using PowerPoint Designer, which is a connected experience you can use when creating slides for a presentation. PowerPoint Designer helps you improve your slides by automatically generating design ideas to choose from. While you're putting content on a slide, Designer works in the background to match that content to professionally designed layouts.
+
+The necessary service data that is sent to Microsoft to enable this connected experience for you could include the following:
+
+*   Customer content, such as the text or images you added to your slide.
+*   Functional data, such as which slide you are working on and its layout.
+*   Service diagnostic data, such as events that tell us if the design idea was correctly applied to your slide and that the service calls were performing correctly.
+
+If you choose to disable the category of connected experiences that includes PowerPoint Designer, the feature will be turned off and none of this necessary service data is sent to us.
+
+See Connected Experiences in Office for more information
 
 Top of page OneDriveOneDrive
 
@@ -1452,7 +1486,7 @@ Enterprise and developer productsEnterprise and developer productsmainenterprise
 
 Enterprise and Developer Products are Microsoft products and related software offered to and designed primarily for use by organizations and developers. They include:
 
-*   Cloud services, referred to as Online Services in the Microsoft Online Services Terms (OST), such as Office 365, Microsoft Azure, Microsoft Dynamics365, and Microsoft Intune, for which an organization (our customer) contracts with Microsoft for the services (“Enterprise Online Services”).
+*   Cloud services, referred to as Online Services in the Microsoft Online Services Terms (OST), such as Office 365, Microsoft Azure, Microsoft Dynamics365, Microsoft Intune, and Microsoft Azure Stack, for which an organization (our customer) contracts with Microsoft for the services (“Enterprise Online Services”).
 *   Other enterprise and developer cloud-based services, such as PlayFab Services.
 *   Server and developer products, such as Windows Server, SQL Server, Visual Studio, and System Center (“Enterprise and Developer Software”).
 *   Appliances and hardware used for storage infrastructure, such as StorSimple (“Enterprise Appliances”).
@@ -1509,21 +1543,55 @@ Productivity and communications products are applications, software, and service
 
 OfficeOfficemainofficeservicesmoduleSummary
 
-Office is a collection of productivity applications including Word, Excel, PowerPoint, OneNote, and Outlook, among others. For more details about Outlook, see the Outlook section of this privacy statement. Various Office applications enable you to use content and functionality from other Microsoft products, such as Bing, and third-party connected products. If you work in an organization, your administrator can turn off or disable these connected services. You can access privacy settings in Office 2016 by selecting **File** >. **Options** >. **Trust Center** >. **Trust Center Settings** >. **Privacy Options**. For detailed information, see View my options and settings in the Microsoft Outlook Trust Center.
+Office is a collection of productivity services and applications including Word, Excel, PowerPoint, and Outlook, among others. For more details about Outlook, see the Outlook section of this privacy statement. Office is a service that is comprised of client software applications and connected online services that span many platforms and have numerous interdependent experiences. Various Office services enable you to use your file content for designs and recommendations, collaborate with others within your documents, and provide you functionality from other Microsoft products, such as Bing and third-party connected products. If you work in an organization, your administrator may turn off or disable these connected services. Prior to Office 365 version 1904, you can change your privacy settings in the Privacy Options of the Microsoft Office Trust Center. For more information, see View my options and settings in the Microsoft Office Trust Center. Starting with Version 1904 of Office 365, you can access new, updated, and improved privacy controls by selecting **File** >. **Account** >. **Account Privacy**. See Account Privacy Settings for more information.
 
-**Office Roaming Service**. The Office Roaming Service helps keep your Office settings up to date across your devices running Office. When you sign in to Office with your Microsoft account or an account issued by your organization, the Office Roaming Service is turned on and syncs some of your customized Office settings to Microsoft servers (such as a list of most recently used documents and the last location viewed within a document). When you sign in to Office on another device with the same account, the Office Roaming Service downloads your settings from Microsoft servers and applies them to the additional device. The Office Roaming Service also applies some of your customized Office settings when you sign in to Office.com. When you sign out of Office, the Office Roaming Service removes your Office settings from your device. Any changes you made to your customized Office settings are sent to Microsoft servers.
+**Office Roaming Service**. The Office Roaming Service helps keep your Office settings up to date across your devices running Office. When you sign in to Office with your Microsoft account or an account issued by your organization, the Office Client Policy Service is turned on and syncs some of your customized Office settings to Microsoft servers (such as a list of most recently used documents and the last location viewed within a document). When you sign in to Office on another device with the same account, the Office Roaming Service downloads your settings from Microsoft servers and applies them to the additional device. The Office Roaming Service also applies some of your customized Office settings when you sign in to Office.com. When you sign out of Office, the Office Roaming Service removes your Office settings from your device. Any changes you made to your customized Office settings are sent to Microsoft servers.
 
-**Microsoft Updates**. Office uses the Microsoft Update service to provide you with security and other important updates. See the Update Services section of this privacy statement for more information.
+**Microsoft Updates**. Office uses either Microsoft Update or Click-to-Run services to provide you with security and other important updates. See the Update Services section of this privacy statement for more information about Microsoft Update.
 
-**Online help, templates, and fonts**. Office uses other Microsoft or third-party services to give you the latest online content when you are connected to the internet, such as Help articles, templates, and fonts. The online fonts feature can be disabled by an administrative group policy setting, while other online content can be turned off by using privacy settings as described above. Online templates are made available to you when you start a new document. When you use the Help feature in Office applications, Office sends your search query to Office.com to provide you with online help articles. If online services are disabled, clicking on Help will take you to support.office.com in your default browser.
+**Click-to-Run Update Service**. The Click-to-Run Update Service allows you to install certain Microsoft Office products over the internet. The Click-to-Run Update Service also automatically detects online updates to Click-to-Run-enabled products on your device and downloads and installs them automatically.
 
-**Click-to-Run Update Service**. The Click-to-Run Update Service allows you to install certain Microsoft Office products over the internet, so you can start using them before they are completely downloaded. The Click-to-Run Update Service also automatically detects online updates to Click-to-Run-enabled products on your device and downloads and installs them automatically. You can turn the service off by using privacy settings.
+**Diagnostic Data**. Diagnostic data is used to (i) keep Office secure and up to date. (ii) detect, diagnose, and remediate problems. and (iii) make product improvements. This data does not include a user's name or email address, the content of the user's files, or information about apps unrelated to Office. Users have a choice between two different levels of diagnostic data collection, Required and Optional.
 
-**Recommendation services**. Some Office services send customer data to Microsoft to provide the user with recommendations. For example, Editor helps the user improve writing in Word. When a word is misspelled, that word and a few words around it are sent to Microsoft and analyzed to suggest the correct spelling. Editor will also check for poor grammar as the user is drafting. In PowerPoint, a user can send content to the Designer service to get professionally designed layout suggestions. This data may also be used to improve Microsoft products.
+*   **Required**. The minimum data necessary to help keep Office secure, up to date, and performing as expected on the device it's installed on.
+*   **Optional**. Additional data that helps us make product improvements and provides enhanced information to help us detect, diagnose, and remediate issues.
 
-**Search services**. Office-supported search services allow you to request information from Microsoft or third-party services from within an Office application. For example, in Word, you can highlight a word or phrase and retrieve relevant information from Bing search. When you search using a particular word or phrase, Office sends that text to the service in encrypted form. To provide you with contextually relevant search results, Office will send your requested word or phrase and some surrounding content from your document. In Excel, you can use Insights to send categories of data to Microsoft to receive recommendations for other sets of similar data that might interest you, but the actual content from your workbook isn't sent to Microsoft. In addition, Office will send data about the Office software and system you're using, including the version, operating system, locale, and language setting. If required by a third-party content provider, it will also send authorization data indicating you have the right to download the relevant content. Frequently, the information you receive includes a link to additional information from the content provider's website. If you click the link, the content provider may place a cookie on your device.
+See Diagnostic Data in Office for more information.
 
-**Translation service**. Some Office applications allow you to translate text using machine translation. You may send text from your document, which is encrypted by the Office application before being sent, to the Microsoft Translator service. In addition to the specific text you want to translate, Office may send some surrounding text from your document to provide a more relevant translation. You can also choose to send your entire document for translation. To learn more, see the Microsoft Translator section of this privacy statement.
+**Connected Experiences**. Office continues to provide more experiences in client applications that are connected to and backed by cloud-based services. In order to ensure that all these connected experiences will be reliable, up to date, remain secure, and perform as expected, necessary service data may be collected whenever you use a connected experience.
+
+Office consists of client software applications and connected experiences designed to enable you to create, communicate, and collaborate more effectively. Working with others on a document stored on OneDrive for Business or translating the contents of a Word document into a different language are examples of connected experiences. There are two types of connected experiences.
+
+*   **Experiences that analyze your content**. Experiences that use your Office content to provide you with design recommendations, editing suggestions, data insights, and similar features. For example, PowerPoint Designer or Editor in Word.
+*   **Experiences that download online content**. Experiences that allow you to search and download online content including templates, images, 3D models, videos, and reference materials to enhance your documents. For example, Office templates or PowerPoint QuickStarter.
+
+Prior to Office 365 version 1904, you can change your privacy settings in the Privacy Options of the Microsoft Office Trust Center.
+
+Starting with Version 1904 of Office 365, you can access new, updated, and improved privacy controls by selecting **File** >. **Account** >. **Account Privacy**. These privacy settings allow you to configure your connected experiences. For example, you can choose to enable connected experiences that download online content, but not connected experiences that analyze content. Turning off connected experiences will also turn off additional experiences, such as document co-authoring and online file storage. But even if you use this privacy setting to turn off connected experiences, certain Office functionality will remain available, such as syncing your mailbox in Outlook, as well as essential services described below.
+
+If you choose to disable certain types of connected experiences, either the ribbon or menu command for those connected experiences will be grayed out or you will get an error message when you try to use those connected experiences.
+
+There are a set of services that are essential to how Office functions and cannot be disabled. For example, the licensing service that confirms that you are properly licensed to use Office is essential. Necessary service data about these services is collected and sent to Microsoft, regardless of any other settings that you have configured. See Essential Services for more information.
+
+**Necessary service data for connected experiences**
+
+Necessary service data is data that enables us to deliver cloud-based connected experiences and help make these experiences secure and perform as expected. There are three types of information that are considered as necessary service data.
+
+*   **Customer Content**, which is content you create using Office, such as text typed in a Word document.
+*   **Functional Data**, which includes information needed by a connected experience to perform its task, such as configuration information about the app.
+*   **Service Diagnostic Data**, which is the data necessary to keep the service secure, up to date, and performing as expected. Because this data is strictly related to the connected experience, it is separate from Required or Optional diagnostic data levels.
+
+To help you understand necessary service data, the following is an example scenario using PowerPoint Designer, which is a connected experience you can use when creating slides for a presentation. PowerPoint Designer helps you improve your slides by automatically generating design ideas to choose from. While you're putting content on a slide, Designer works in the background to match that content to professionally designed layouts.
+
+The necessary service data that is sent to Microsoft to enable this connected experience for you could include the following:
+
+*   Customer content, such as the text or images you added to your slide.
+*   Functional data, such as which slide you are working on and its layout.
+*   Service diagnostic data, such as events that tell us if the design idea was correctly applied to your slide and that the service calls were performing correctly.
+
+If you choose to disable the category of connected experiences that includes PowerPoint Designer, the feature will be turned off and none of this necessary service data is sent to us.
+
+See Connected Experiences in Office for more information
 
 OneDriveOneDrivemainonedrivemoduleSummary
 
