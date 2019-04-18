@@ -15,7 +15,15 @@
 *   Log In
 *   Sign Up
 
-Explore Recent Photos Trending The Commons Galleries The Weekly Flickr Flickr Blog Get Pro Policies &. Guidelines
+*   Explore
+*   Trending
+*   The Commons
+*   Galleries
+*   Flickr Blog
+
+*   Get Pro
+
+Policies &. Guidelines
 
 *   Terms
 *   Privacy
