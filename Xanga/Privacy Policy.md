@@ -1,13 +1,25 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   site disaapear
-    *   by lingling\_1113
-    *   4 days ago
+*   help find archive
+    *   by illbejustfinepretendingimnot
+    *   11 hours ago
     *   in Data Migration
     *   0 votes
     *   0
+*   site disaapear
+    *   by lingling\_1113
+    *   5 days ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by illbejustfinepretendingimnot 12 hours ago)
 *   My Xanga Blog Doesn't appear
     *   by iris\_yuki
     *   2 weeks ago
@@ -16,19 +28,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Please help to reactivate let me can see old posts
     *   by natalie6791
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Themes
     *   0 votes
     *   0
 *   Please help to reactivate let me can see old posts
     *   by natalie6791
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Themes
     *   0 votes
     *   0
 *   Please help to reactivate let me can see old posts
     *   by natalie6791
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Themes
     *   0 votes
     *   0
@@ -86,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   I WANT TO DELETE MY ACCOUNT.
-    *   \[Resolved\] by kamikaze\_zealot
-    *   5 years ago
-    *   in Miscellaenous
-    *   0 votes
-    *   9 (last comment by LSS2009 1 month ago)
 
 1 2 3 ... 192 Next
 
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
