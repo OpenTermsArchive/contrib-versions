@@ -3,7 +3,7 @@
     *   Trending
     *   Flickr VR
     *   The Commons
-    *   Galleries
+    *   Flickr Galleries
     *   World Map
     *   Camera Finder
     *   The Weekly Flickr
@@ -18,7 +18,7 @@
 *   Explore
 *   Trending
 *   The Commons
-*   Galleries
+*   Flickr Galleries
 *   Flickr Blog
 
 *   Get Pro
