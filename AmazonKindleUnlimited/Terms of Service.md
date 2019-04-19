@@ -1,6 +1,6 @@
 Kindle Unlimited Terms of Use
 
-**Last updated December 30, 2016**
+**Last updated April 18, 2019**
 
 Welcome to the terms of use (“**Terms**”) for Kindle Unlimited. These Terms are between you and Amazon Digital Services LLC and/or its affiliates (“**Amazon.com**”, “**We**” or “**Us**”) and govern our respective rights and obligations. Please note that your use of the Amazon.com website and your Kindle Unlimited membership are also governed by the agreements listed and linked to below, as well as all other applicable terms, conditions, limitations, and requirements on the Amazon.com website, all of which (as changed over time) are incorporated into these Terms. If you sign up for a Kindle Unlimited membership, you accept these terms, conditions, limitations and requirements.
 
@@ -11,7 +11,7 @@ Welcome to the terms of use (“**Terms**”) for Kindle Unlimited. These Terms 
 
 **The Program**
 
-As a member of Kindle Unlimited, you may read Kindle books and listen to Audible audiobooks from a designated list of titles an unlimited number of times for so long as you are a member of the program. From time to time, we may add or remove titles from the program and we make no guarantee as to the availability of specific titles or the minimum number of titles available. The program is currently only available to United States customers. If your membership ends, you will no longer have access to the titles you selected from the program.
+As a member of Kindle Unlimited, you may read Kindle books and listen to Audible audiobooks from a designated list of titles an unlimited number of times for so long as you are a member of the program. From time to time, we may add or remove titles from the program and we make no guarantee as to the availability of specific titles or the minimum number of titles available. If you are located outside of the United States, the program may not be available to you. If your membership ends, you will no longer have access to the titles you selected from the program.
 
 **Fees and Renewal**
 
@@ -25,7 +25,7 @@ From time to time we may also offer non-recurring memberships. The provisions in
 
 **Membership Cancellation**
 
-You may cancel your membership by visiting Your Account and adjusting your membership settings. If you cancel your membership, you will not receive a refund of any membership fees already paid. When your membership is cancelled, the titles you have selected from the program will be removed from your account, devices and applications.
+You may cancel your membership by visiting Your Account (https://www.amazon.com/youraccount) and adjusting your membership settings. If you cancel your membership, you will not receive a refund of any membership fees already paid. When your membership is cancelled, the titles you have selected from the program will be removed from your account, devices and applications.
 
 **Restrictions**
 
