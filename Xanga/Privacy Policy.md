@@ -10,16 +10,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   help find archive
     *   by illbejustfinepretendingimnot
-    *   11 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   site disaapear
     *   by lingling\_1113
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by illbejustfinepretendingimnot 12 hours ago)
+    *   1 (last comment by illbejustfinepretendingimnot 1 day ago)
 *   My Xanga Blog Doesn't appear
     *   by iris\_yuki
     *   2 weeks ago
