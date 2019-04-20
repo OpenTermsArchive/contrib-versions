@@ -4,7 +4,7 @@ Thank you for using GitHub! We're happy you're here. Please read this Terms of S
 
 Summary Section What can you find there? A. Definitions Some basic terms, defined in a way that will help you understand this agreement. Refer back up to this section for clarification. B. Account Terms These are the basic requirements of having an Account on GitHub. C. Acceptable Use These are the basic rules you must follow when using your GitHub Account. D. User-Generated Content You own the content you post on GitHub. However, you have some responsibilities regarding it, and we ask you to grant us some rights so we can provide services to you. E. Private Repositories This section talks about how GitHub will treat content you post in private repositories. F. Copyright &. DMCA Policy This section talks about how GitHub will respond if you believe someone is infringing your copyrights on GitHub. G. Intellectual Property Notice This describes GitHub's rights in the website and service. H. API Terms These are the rules for using GitHub's APIs, whether you are using the API for development or data collection. I. Additional Terms for GitHub Pages We have a few specific rules for content hosted using GitHub Pages. J. Third Party Applications We have a few rules for creating apps for other Users, and another set of terms for GitHub Marketplace. K. Advertising on GitHub If you want to promote your content on GitHub, this section lays out some rules you must follow. L. Payment You are responsible for payment. We are responsible for billing you accurately. M. Cancellation and Termination You may cancel this agreement and close your Account at any time. N. Communications with GitHub We only use email and other electronic means to stay in touch with our users. We do not provide phone support. O. Disclaimer of Warranties We provide our service as is, and we make no promises or guarantees about this service. **Please read this section carefully. you should understand what to expect.** P. Limitation of Liability We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement. **Please read this section carefully. it limits our obligations to you.** Q. Release and Indemnification You are fully responsible for your use of the service. R. Changes to these Terms of Service We may modify this agreement, but we will give you 30 days' notice of changes that affect your rights. S. Miscellaneous Please see this section for legal details including our choice of law. The GitHub Terms of Service
 
-Effective date: May 25, 2018
+Effective date: April 19, 2019
 
 A. Definitions
 
@@ -42,6 +42,7 @@ We have a few simple rules for User Accounts on GitHub's Service.
 *   One person or legal entity may maintain no more than one free Account (if you choose to control a machine account as well, that's fine, but it can only be used for running a machine).
 *   You must be age 13 or older. While we are thrilled to see brilliant young coders get excited by learning to program, we must comply with United States law. GitHub does not target our Service to children under 13, and we do not permit any Users under 13 on our Service. If we learn of any User under the age of 13, we will terminate that User’s Account immediately. If you are a resident of a country outside the United States, your country’s minimum age may be older. in such a case, you are responsible for complying with your country’s laws.
 *   Your login may only be used by one person — i.e., a single login may not be shared by multiple people. A paid Organization may only provide access to as many User Accounts as your subscription allows.
+*   You may not use GitHub in violation of export control or sanctions laws of the United States or any other applicable jurisdiction. You may not use GitHub if you are or are working on behalf of a Specially Designated National (SDN) or a person subject to similar blocking or denied party prohibitions administered by a U.S. government agency. GitHub may allow persons in certain sanctioned countries or territories to access certain GitHub services pursuant to U.S. government authorizations. For more information, please see our Export Controls policy.
 
 4\. User Account Security
 
@@ -65,7 +66,7 @@ C. Acceptable Use
 
 1\. Compliance with Laws and Regulations
 
-Your use of the Website and Service must not violate any applicable laws, including copyright or trademark laws, export control laws, or other laws in your jurisdiction. You are responsible for making sure that your use of the Service is in compliance with laws and any applicable regulations.
+Your use of the Website and Service must not violate any applicable laws, including copyright or trademark laws, export control or sanctions laws, or other laws in your jurisdiction. You are responsible for making sure that your use of the Service is in compliance with laws and any applicable regulations.
 
 2\. Content Restrictions
 
@@ -75,6 +76,7 @@ You agree that you will not under any circumstances upload, post, host, or trans
 *   is or contains sexually obscene content;
 *   is libelous, defamatory, or fraudulent;
 *   is discriminatory or abusive toward any individual or group;
+*   gratuitously depicts or glorifies violence, including violent images;
 *   contains or installs any active malware or exploits, or uses our platform for exploit delivery (such as part of a command and control system). or
 *   infringes on any proprietary right of any party, including patent, trademark, trade secret, copyright, right of publicity, or other rights.
 
@@ -165,7 +167,7 @@ E. Private Repositories
 
 1\. Control of Private Repositories.
 
-Some Accounts, such as paid Accounts, may have private repositories, which allow the User to control access to Content.
+Some Accounts may have private repositories, which allow the User to control access to Content.
 
 2\. Confidentiality of Private Repositories.
 
@@ -224,13 +226,17 @@ All use of the GitHub API is subject to these Terms of Service and the GitHub Pr
 
 GitHub may offer subscription-based access to our API for those Users who require high-throughput access or access that would result in resale of GitHub's Service.
 
-I. Additional Terms for GitHub Pages
+I. Additional Terms for GitHub Pages and Learning Lab
 
-**Short version:** _The GitHub Pages hosting service is subject to certain rules, in addition to the rest of the Terms._
+**Short version:** _The GitHub Pages hosting service and GitHub Learning Lab are subject to certain rules, in addition to the rest of the Terms._
 
-Each GitHub Account comes with access to the GitHub Pages static hosting service. This hosting service is intended to host static web pages for GitHub users. GitHub Pages are subject to some specific bandwidth and usage limits, and may not be appropriate for some high-bandwidth uses or other prohibited uses. Please see our GitHub Pages guidelines for more information.
+1\. GitHub Pages
 
-GitHub reserves the right at all times to reclaim any GitHub subdomain without liability.
+Each GitHub Account comes with access to the GitHub Pages static hosting service. This hosting service is intended to host static web pages for All Users. GitHub Pages are subject to some specific bandwidth and usage limits, and may not be appropriate for some high-bandwidth uses or other prohibited uses. Please see our GitHub Pages guidelines for more information. GitHub reserves the right at all times to reclaim any GitHub subdomain without liability.
+
+2\. GitHub Learning Lab
+
+If you decide to purchase and use the GitHub Learning Lab and associated documentation, depending on the nature of your usage, the GitHub Learning Lab Terms and Conditions found at either https://lab.github.com/organizations/terms or https://lab.github.com/terms will apply..
 
 J. Third Party Applications
 
@@ -324,7 +330,7 @@ GitHub has the right to suspend or terminate your access to all or any part of t
 
 4\. Survival
 
-All provisions of this Agreement which by their nature should survive termination will survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity, and limitations of liability.
+All provisions of this Agreement which, by their nature, should survive termination _will_ survive termination — including, without limitation: ownership provisions, warranty disclaimers, indemnity, and limitations of liability.
 
 N. Communications with GitHub
 
