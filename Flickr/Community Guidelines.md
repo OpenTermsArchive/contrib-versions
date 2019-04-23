@@ -141,7 +141,3 @@ The Flickreenos, Dec 17, 2018
 *   Privacy
 *   Terms
 *   Help
-
- 
-
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1049934251710414&ev=PageView&noscript=1"/>.
