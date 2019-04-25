@@ -81,7 +81,7 @@ Customers' rights deriving from their contract with OwnCube e.U. are not transfe
 
 12.1 The customer agrees that his personal data, which is received within the framework of the business relations, are stored and processed automatically in a computerized manner for processing the business relationship. He/she is entitled at any time to retrieve the data stored on his person or his pseudonym from the provider free of charge.  
 12.2 OwnCube does not pass on customer data to third parties !  
-12.3 If data are transferred to OwnCube webservers - no matter what form -, the customer creates backup copies. OwnCube webservers are backed up regularly. In the event of a loss of data, the customer is obliged to provide the relevant data again free of charge. OwnCube e.U. assumes no guarantee for the data on webservers or backups. The customer is responsible for regular backups. No form of liability and compensation for loss of data is provided by OwnCube e.U.  
+12.3 If data are transferred to OwnCube servers - no matter what form -, the customer creates backup copies. OwnCube servers are backed up regularly. In the event of a loss of data, the customer is obliged to provide the relevant data again free of charge. OwnCube e.U. assumes no guarantee for the data on servers or backups. The customer is responsible for regular backups. No form of liability and compensation for loss of data is provided by OwnCube e.U.  
 12.4 Customers receive a user identification and a password to maintain their virtual host/server. They are obliged to treat it confidentially and are liable for any misuse resulting from an unauthorized use of the password. Customers have the option at any time to change their password via an online administration tool.  
 
   
