@@ -16,7 +16,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   site disaapear
     *   by lingling\_1113
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by illbejustfinepretendingimnot 1 week ago)
@@ -28,19 +28,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Please help to reactivate let me can see old posts
     *   by natalie6791
-    *   4 weeks ago
+    *   1 month ago
     *   in Themes
     *   0 votes
     *   0
 *   Please help to reactivate let me can see old posts
     *   by natalie6791
-    *   4 weeks ago
+    *   1 month ago
     *   in Themes
     *   0 votes
     *   0
 *   Please help to reactivate let me can see old posts
     *   by natalie6791
-    *   4 weeks ago
+    *   1 month ago
     *   in Themes
     *   0 votes
     *   0
