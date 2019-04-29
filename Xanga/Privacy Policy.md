@@ -1,3 +1,9 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
@@ -16,7 +22,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by illbejustfinepretendingimnot 1 week ago)
 *   My Xanga Blog Doesn't appear
     *   by iris\_yuki
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -85,7 +91,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 years ago
     *   in Passwords &. Sign-In
     *   0 votes
-    *   6 (last comment by crazy\_texas\_chicas 1 month ago)
+    *   6 (last comment by crazy\_texas\_chicas 2 months ago)
 *   In search of old posts
     *   by cbkpotter
     *   2 months ago
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
