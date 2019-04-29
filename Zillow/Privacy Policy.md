@@ -229,7 +229,7 @@ Please note that this policy may be amended from time to time. You should check 
 *   Advertise
 *   Terms of use &. Privacy
 *   Ad Choice
-
+*   Cookie Preferences
 *   Blog
 *   AI
 *   Mobile Apps
