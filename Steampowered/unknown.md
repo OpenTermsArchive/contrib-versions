@@ -1,6 +1,6 @@
 You can request a refund for nearly any purchase on Steam—for any reason. Maybe your PC doesn't meet the hardware requirements. maybe you bought a game by mistake. maybe you played the title for an hour and just didn't like it.
 
-It doesn't matter. Valve will, upon request via help.steampowered.com, issue a refund for any reason, if the request is made within fourteen days of purchase, and the title has been played for less than two hours. There are more details below, but even if you fall outside of the refund rules we’ve described, you can ask for a refund anyway and we’ll take a look.
+It doesn't matter. Valve will, upon request via help.steampowered.com, issue a refund for any reason, if the request is made within the required return period, and, in the case of games, ifthe title has been played for less than two hours. There are more details below, but even if you fall outside of the refund rules we’ve described, you can ask for a refund anyway and we’ll take a look.
 
 You will be issued a full refund of your purchase within a week of approval. You will receive the refund in Steam Wallet funds or through the same payment method you used to make the purchase. If, for any reason, Steam is unable to issue a refund via your initial payment method, your Steam Wallet will be credited the full amount. (Some payment methods available through Steam in your country may not support refunding a purchase back to the original payment method. Click here for a full list.)
 
@@ -27,7 +27,7 @@ You may request a refund for Steam Wallet funds within fourteen days of purchase
 
 Steam Hardware
 
-Within thirty (30) days after delivery, you may request a refund for Steam hardware and accessories purchased via Steam for any reason. You must ship the hardware back to us within fourteen (14) days after requesting the refund, following the instructions we provide you. Please see the Steam Hardware Order Terms for detailed guidelines on the return and cancellation process for Steam hardware and accessories.
+Within the applicable time frame identified in the Hardware Refund Policy, you may request a refund for Steam hardware and accessories purchased via Steam for any reason. You must ship the hardware back to us within fourteen (14) days after requesting the refund, following the instructions we provide you. Please see the Hardware Refund Policy for detailed guidelines on the return and cancellation process for Steam hardware and accessories.
 
 Refunds on Bundles
 
@@ -63,4 +63,4 @@ You can request a refund or get other assistance with your Steam purchases at he
 
   
 
-Last updated December 6, 2016
+Last updated April 30, 2019
