@@ -1,12 +1,12 @@
 Terms and Conditions
 
-Version 0.2
+Version 0.3
 
-Date August 20th 2018.
+Date April 30th 2019.
 
 1\. Introduction
 
-This website is owned and operated by Jagex Limited (**"Jagex"**), a company registered in England and Wales (registered number 3982706). Our registered office is at St John's Innovation Centre, Cowley Road, Cambridge, CB4 0WS, United Kingdom. Our VAT number is 791 951 784.
+This website is owned and operated by Jagex Limited (**"Jagex"**), a company registered in England and Wales (registered number 3982706). Our registered office is at 220 Science Park, Cambridge, CB4 0WA, United Kingdom. Our VAT number is 791 951 784.
 
 2\. Definitions
 
@@ -66,7 +66,7 @@ If you believe that someone has stolen your password or otherwise gained access 
 
 8\. Intellectual property rights and ownership
 
-Jagex ®, RuneScape ®, Chronicle RuneScape Legends ®, Block N Load ®, Ace of Spades ®and FunOrb ® are registered and/or unregistered trade marks of Jagex Limited in the United Kingdom, the United States and other countries. All third party trade marks are the property of their respective owners.
+Jagex ®, RuneScape ®, Chronicle RuneScape Legends ®, Ace of Spades ®and FunOrb ® are registered and/or unregistered trade marks of Jagex Limited in the United Kingdom, the United States and other countries. All third party trade marks are the property of their respective owners.
 
 You must not reverse-engineer, decompile or modify any Jagex Product client software in any way (except to the extent allowed by applicable law). You must not use a modified/customised version of the client software or attempt to copy, transfer or sub-license it. You must not create or provide any other means by which any Jagex Product may be played by others (including, without limitation, replacement or modified client/server software or server emulators). Please note that any such activity may constitute civil wrongs and/or criminal offences, and we reserve the right to take such action as appropriate in the circumstances should we become aware that such offences are being committed.
 
@@ -226,7 +226,7 @@ We will use reasonable endeavours to maintain operation of Jagex Products and re
 
 We cannot guarantee that Jagex Products will work with any particular computer equipment or in conjunction with any particular software or connectivity services. We do not accept responsibility for such equipment, software or services.
 
-Minimum technical specs and compatibility information is available on the websites of the Jagex Products. Information for RuneScape can be found here: https://support.runescape.com/hc/articles/206558749.Information for Block N Load can be found here: http://store.steampowered.com/app/299360/
+Minimum technical specs and compatibility information is available on the websites of the Jagex Products. Information for RuneScape can be found here: https://support.runescape.com/hc/articles/206558749.
 
 We cannot guarantee the ongoing supply of any particular Jagex Product.
 
