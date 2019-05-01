@@ -10,7 +10,7 @@ We reserve the right to make changes or modifications to these Terms, or any pol
 
 Please refer to our Privacy Policy for information about how Couchsurfing collects, uses and discloses information about our members. In addition, by accessing or using our Services, you agree to adhere to the Community Guidelines.
 
-Please Contact Us with any questions regarding these Terms. You can contact us by mail at PO Box 7775 ECM 86600, San Francisco, CA 94120, by email at support@couchsurfing.com or by phone at +1.415.404.6611.
+Please Contact Us with any questions regarding these Terms. You can contact us by mail at PO Box 7775 ECM 86600, San Francisco, CA 94120 or by email at support@couchsurfing.com
 
 ELIGIBILITY, REGISTRATION AND ACCOUNT
 
