@@ -95,7 +95,12 @@ For small businesses For small businesses
 *   Get SBC (Summary of Benefits and Coverage)
 *   Small business health plans by state
 
-Helpful links Helpful links
+Thought leadership Thought leadership
+
+*   Personalized Medicine
+*   Precision Medicine
+
+Helpful Links Helpful Links
 
 *   Manage your plan
 *   Get a report
@@ -403,7 +408,7 @@ Back to top
 Privacy statement update: 9/19/17
 
 *   *   Glossary
-*   *   Aetna App
+*   *   Aetna Apps
 *   *   Careers
 *   *   News and Analysis
 *   *   Health Care Reform
