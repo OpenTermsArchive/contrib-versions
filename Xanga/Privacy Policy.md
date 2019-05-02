@@ -1,16 +1,16 @@
-Skip to toolbar
-
-*   Xanga
-
-*   Log In
-
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Help Me Find My Page Please
+    *   by ZzGIGIzZ
+    *   22 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   help find archive
     *   by illbejustfinepretendingimnot
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,7 +19,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by illbejustfinepretendingimnot 1 week ago)
+    *   1 (last comment by illbejustfinepretendingimnot 2 weeks ago)
 *   My Xanga Blog Doesn't appear
     *   by iris\_yuki
     *   1 month ago
@@ -92,12 +92,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Passwords &. Sign-In
     *   0 votes
     *   6 (last comment by crazy\_texas\_chicas 2 months ago)
-*   In search of old posts
-    *   by cbkpotter
-    *   2 months ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
 1 2 3 ... 192 Next
 
@@ -156,4 +150,8 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
+
+*   Xanga
+
+*   Log In
