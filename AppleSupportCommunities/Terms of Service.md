@@ -1,13 +1,3 @@
-Announcement: Apple Support Communities | Search
-
-Apple Support Communities Search will temporarily be unavailable on May 1, 2019, from 2:00-4:00 PM PDT. Thank you for your patience as we work behind the scenes to improve the communities.
-
-Read announcement Hide announcement
-
-Apple Support Communities | Search
-
-Apple Support Communities Search will temporarily be unavailable on May 1, 2019, from 2:00-4:00 PM PDT. Thank you for your patience as we work behind the scenes to improve the communities.
-
 Apple Support Communities Use Agreement
 
 **Apple Support Communities Use Agreement**
