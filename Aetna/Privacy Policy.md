@@ -269,6 +269,13 @@ Health Section Health Section
 *   Contact
 *   News &. analysis
 
+*   Español
+    
+     
+
+*   Contact
+*   Español
+
 Web &. Mobile Privacy Statement
 
 *   Aetna
@@ -277,7 +284,7 @@ Web &. Mobile Privacy Statement
 *   Web &. Mobile Privacy Statement
 
 *   Print
-*   Share
+*   ShareShare
 
 **Aetna’s Privacy Statement**
 
