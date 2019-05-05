@@ -1,4 +1,4 @@
-Terms of Service Last Modified: 2018-05-15Als US-Unternehmen unterliegt Tumblr ausschließlich dem amerikanischen Recht und der US-Gesetzgebung. Darum sind unsere Allgemeinen Geschäftsbedingungen (und alle anderen Bedingungen und Richtlinien) vorerst nur auf Englisch verfügbar. Sollte eine übersetzte Version mit diesen Allgemeinen Geschäftsbedingungen (oder alle anderen Bedingungen und Richtlinien) nicht übereinstimmen, hat die Englische Fassung stets Vorrang.
+Terms of Service Last Modified: 2018-05-15Tumblr is a U.S. company and subject to U.S. laws and jurisdiction. The original version of these Terms of Service (and any other terms, policies, or guidelines that we provide to you) are written in English. To the extent any translated version of these Terms of Service (or any other terms, policies, or guidelines that we provide to you) conflicts with the English version, the English version controls.
 
 **THESE TERMS OF SERVICE CONTAIN LIMITATIONS OF TUMBLR'S LIABILITY IN SECTION 14.**
 
