@@ -1,12 +1,12 @@
 GitHub Privacy Statement
 
-Effective date: **April 19, 2019**
+Effective date: **May 7, 2019**
 
 Thanks for entrusting GitHub with your source code, your projects, and your personal information. Holding on to your private information is a serious responsibility, and we want you to know how we're handling it.
 
 The short version
 
-We only collect the information you choose to give us, and we process it with your consent, or on another legal basis. we only require the minimum amount of personal information that is necessary to fulfill the purpose of your interaction with us. we don't sell it to third parties. and we only use it as this Privacy Statement describes. If you're visiting us from the European Union (EU), European Economic Area (EEA), Switzerland, or the United Kingdom (UK), please see our global privacy practices: we comply with the EU-US Privacy Shield Framework and we are compliant with the General Data Protection Regulation (GDPR). No matter where you are, where you live, or what your citizenship is, we provide a high standard of privacy protection to all our users around the world, regardless of their country of origin or location.
+We only collect the information you choose to give us, and we process it with your consent, or on another legal basis. we only require the minimum amount of personal information that is necessary to fulfill the purpose of your interaction with us. we don't sell it to third parties. and we only use it as this Privacy Statement describes. If you're visiting us from the European Union (EU), European Economic Area (EEA), or the United Kingdom (UK), please see our global privacy practices: we comply with the EU-US Privacy Shield Framework and we are compliant with the General Data Protection Regulation (GDPR). No matter where you are, where you live, or what your citizenship is, we provide a high standard of privacy protection to all our users around the world, regardless of their country of origin or location.
 
 Of course, the short version doesn't tell you everything, so please read on for more details!
 
@@ -214,13 +214,13 @@ You may also contact our Data Protection Officer directly.
 
 Our United States HQ Our EU Office GitHub Data Protection Officer GitHub BV 88 Colin P. Kelly Jr. St. Vijzelstraat 68-72 San Francisco, CA 94107 1017 HL Amsterdam United States The Netherlands privacy@github.com privacy@github.com Dispute resolution process
 
-In the unlikely event that a dispute arises between you and GitHub regarding our handling of your User Personal Information, we will do our best to resolve it. If we cannot, we have selected JAMS, an independent dispute resolution provider, to handle unresolved Privacy Shield complaints. If we are unable to resolve your concerns after a good faith effort to address them, you may contact JAMS and submit a Privacy Shield claim. JAMS is a US-based private alternate dispute resolution provider, and we have contracted with JAMS to provide an independent recourse mechanism for any of our users for privacy concerns **at no cost to you.** You do not need to appear in court. you may conduct this dispute resolution process via telephone or video conference. If you are not based in the EU, EEA, Switzerland, or the UK, but you would still like to use the JAMS arbitration process to resolve your dispute, please let us know and we will provide access to you.
+In the unlikely event that a dispute arises between you and GitHub regarding our handling of your User Personal Information, we will do our best to resolve it. If we cannot, we have selected JAMS, an independent dispute resolution provider, to handle unresolved Privacy Shield complaints. If we are unable to resolve your concerns after a good faith effort to address them, you may contact JAMS and submit a Privacy Shield claim. JAMS is a US-based private alternate dispute resolution provider, and we have contracted with JAMS to provide an independent recourse mechanism for any of our users for privacy concerns **at no cost to you.** You do not need to appear in court. you may conduct this dispute resolution process via telephone or video conference. If you are not based in the EU, EEA, or the UK, but you would still like to use the JAMS arbitration process to resolve your dispute, please let us know and we will provide access to you.
 
 Additionally, if you are a resident of an EU member state, you have the right to file a complaint with your local supervisory authority.
 
 Independent arbitration
 
-Under certain limited circumstances, EU, EEA, Swiss, and UK individuals may invoke binding Privacy Shield arbitration as a last resort if all other forms of dispute resolution have been unsuccessful. To learn more about this method of resolution and its availability to you, please read more about Privacy Shield. Arbitration is not mandatory. it is a tool you can use if you choose to.
+Under certain limited circumstances, EU, EEA, and UK individuals may invoke binding Privacy Shield arbitration as a last resort if all other forms of dispute resolution have been unsuccessful. To learn more about this method of resolution and its availability to you, please read more about Privacy Shield. Arbitration is not mandatory. it is a tool you can use if you choose to.
 
 We are subject to the jurisdiction of the Federal Trade Commission.
 
