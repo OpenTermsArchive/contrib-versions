@@ -1,10 +1,22 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Can't find my page
+    *   by razorblade\_tragedy88
+    *   2 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Help Me Find My Page Please
     *   by ZzGIGIzZ
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -86,14 +98,8 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   8 (last comment by UrOnMyMiNd777 2 months ago)
-*   Retrieve Old Account
-    *   \[Resolved\] by anoiFace
-    *   5 years ago
-    *   in Passwords &. Sign-In
-    *   0 votes
-    *   6 (last comment by crazy\_texas\_chicas 2 months ago)
 
-1 2 3 ... 192 Next
+1 2 3 ... 193 Next
 
 Help Categories
 
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
