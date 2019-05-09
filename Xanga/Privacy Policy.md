@@ -10,19 +10,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Can't find my page
     *   by razorblade\_tragedy88
-    *   2 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Help Me Find My Page Please
     *   by ZzGIGIzZ
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   help find archive
     *   by illbejustfinepretendingimnot
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -31,7 +31,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by illbejustfinepretendingimnot 2 weeks ago)
+    *   1 (last comment by illbejustfinepretendingimnot 3 weeks ago)
 *   My Xanga Blog Doesn't appear
     *   by iris\_yuki
     *   1 month ago
