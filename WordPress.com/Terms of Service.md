@@ -56,7 +56,7 @@ We also have not reviewed, and cannot review, all of the material, including com
 
 5\. Fees, Payment, and Renewal
 
-**Fees.** Some of our Services are offered for a fee — such as Jetpack, and VaultPress, and Happy Tools – while other Services may be free with optional paid upgrades, such as a WordPress.com plan (collectively, “Paid Services”). By using a Paid Service, you agree to pay the specified fees. Depending on the Paid Service, there may be a one-time fee or recurring fees. For recurring fees, we’ll bill or charge you for in regular intervals (such as monthly, annually, or biennially), on a pre-pay basis until you cancel, which you can do at any time by contacting the relevant support team.
+**Fees.** Some of our Services are offered for a fee — such as Jetpack, VaultPress, and Happy Tools – while other Services may be free with optional paid upgrades, such as a WordPress.com plan (collectively, “Paid Services”). By using a Paid Service, you agree to pay the specified fees. Depending on the Paid Service, there may be a one-time fee or recurring fees. For recurring fees, we’ll bill or charge you for in regular intervals (such as monthly, annually, or biennially), on a pre-pay basis until you cancel, which you can do at any time by contacting the relevant support team.
 
 **Taxes.** To the extent permitted by law, or unless explicitly stated otherwise, all fees are exclusive of applicable federal, provincial, state, local or other governmental sales, goods and services, harmonized or other taxes, fees, or charges now in force or enacted in the future (“Taxes”). You are responsible for payment of all applicable Taxes relating to your use of our Services, your payments, or your purchases. If we are obligated to pay or collect Taxes on the Fees you’ve paid or will pay, you are responsible for such Taxes, and we may collect payment for such Taxes.
 
@@ -86,7 +86,7 @@ You represent and warrant that your use of our Services:
 
 WordPress.com enables you to create beautiful websites and blogs, and we would love for you to use it. A WordPress.com account also allows you to sign into some of our Services.
 
-WordPress.com’s basic service is free, and we offer paid plans for advanced features such as a custom domain name, extra storage, and access to premium themes. Our service is designed to give you as much control and ownership over what goes on your website as possible and encourage you to express yourself freely. However, be responsible in what you publish. In particular, make sure that none of the prohibited items (like spam, viruses, or serious threats of violence) appear on your website.
+WordPress.com’s basic service is free, and we offer paid plans for advanced features such as a custom domain name, extra storage, and access to premium themes. Our service is designed to give you as much control and ownership over what goes on your website as possible and encourage you to express yourself freely. You own all content you post to your website. However, be responsible in what you publish. In particular, make sure that none of the prohibited items (like spam, viruses, or serious threats of violence) appear on your website.
 
 If you find a WordPress.com website that you believe violates these Terms, please visit our dispute resolution and reporting page.
 
