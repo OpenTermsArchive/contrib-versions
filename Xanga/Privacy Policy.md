@@ -4,7 +4,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Can't find my page
     *   by razorblade\_tragedy88
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -79,7 +79,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 months ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by XZXhakuXZX 1 month ago)
+    *   1 (last comment by XZXhakuXZX 2 months ago)
 *   In search of old posts
     *   by monkey\_chong
     *   2 months ago
