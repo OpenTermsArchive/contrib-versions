@@ -1,3 +1,13 @@
+Announcement: The Apple TV app is here
+
+The new Apple TV app is available on iPhone, iPad, Apple TV 4K, and Apple TV HD. If you have a question or knowledge to share with the community, we want to hear from you.
+
+Read announcement Hide announcement
+
+The Apple TV app is here
+
+The new Apple TV app is available on iPhone, iPad, Apple TV 4K, and Apple TV HD. If you have a question or knowledge to share with the community, we want to hear from you.
+
 Apple Support Communities Use Agreement
 
 **Apple Support Communities Use Agreement**
