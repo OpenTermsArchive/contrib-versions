@@ -388,9 +388,9 @@ B. Additional terms for using the events platform
 
 On its events platform, XING provides its users with the opportunity to plan, organise and advertise private or commercial events, meetings, celebrations, get-togethers, conferences, virtual events, etc. (hereinafter referred to as **"events"**), to register people for events, and to sell tickets and other products and services and to have them billed by XING (users who organise events shall hereinafter be referred to as **"organiser"**). XING may also offer organisers other related services.
 
-Conversely, XING provides its users with the opportunity to purchase tickets and other related products and services (users who purchase tickets are hereinafter referred to as **"ticket buyer"), and to register themselves or third parties as participants (hereinafter referred to as **"participant"**).**
+Conversely, XING provides its users with the opportunity to purchase tickets and other related products and services (users who purchase tickets are hereinafter referred to as **"ticket buyer"**), and to register themselves or third parties as participants (hereinafter referred to as **"participant"**).
 
-**XING reserves the right to charge fees for certain services in connection with the events platform.
+XING reserves the right to charge fees for certain services in connection with the events platform.
 
 These additional terms and conditions for the use of the events platform supplement the General Terms and Conditions for using the XING service.
 
@@ -600,4 +600,4 @@ These additional terms for the use of the employer review platform supplement th
    
 2\. Validity of the provisions of the General Terms and Conditions for using the XING service
 
-In any other respect, the GTC for use of the XING service shall apply.**
+In any other respect, the GTC for use of the XING service shall apply.
