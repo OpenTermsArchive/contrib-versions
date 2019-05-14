@@ -4,17 +4,17 @@ These terms and conditions create a contract between you and Apple (the “Agree
 
 A. INTRODUCTION TO OUR SERVICES
 
-This Agreement governs your use of Apple’s services (“Services”), through which you can buy, get, license, rent or subscribe to media, apps (“Apps”), and other in-app services (“Content”). Our Services are: iTunes Store, App Store, Apple Books, Apple Music, and Apple News. Our Services are available for your use in your country of residence (“Home Country”). To use our Services, you need compatible hardware, software (latest version recommended and sometimes required) and Internet access (fees may apply). Our Services’ performance may be affected by these factors.
+This Agreement governs your use of Apple’s services (“Services”), through which you can buy, get, license, rent or subscribe to content, apps (“Apps”), and other in-app services (collectively, “Content”). Content may be offered through the Services by Apple or a third party. Our Services are available for your use in your country of residence (“Home Country”). To use our Services, you need compatible hardware, software (latest version recommended and sometimes required) and Internet access (fees may apply). Our Services’ performance may be affected by these factors.
 
 B. USING OUR SERVICES
 
 PAYMENTS, TAXES, AND REFUNDS
 
-You can acquire Content on our Services for free or for a charge, either of which is referred to as a “Transaction.” Each Transaction is an electronic contract between you and Apple, and/or you and the entity providing the Content on our Services. However, if you are a customer of Apple Distribution International and you acquire an App or a book, Apple Distribution International is the merchant of record. this means that you acquire the Content from Apple Distribution International, and it is licensed by the App Provider (as defined below) or book publisher. When you make your first Transaction, we will ask you to choose how frequently we should ask for your password for future Transactions. If you enable Touch ID for Transactions, we will ask you to authenticate all Transactions with your fingerprint, and if you enable Face ID for Transactions, we will ask you to authenticate all Transactions using facial recognition. Manage your password settings at any time by following these instructions: https://support.apple.com/en-us/HT204030. Apple will charge your payment method (such as your credit card, debit card, gift card/code, or other method available in your Home Country) for any paid Transactions, including any applicable taxes. If you have also added your payment method to your Apple Wallet, Apple may charge it using Apple Pay. If we cannot charge your payment method for any reason (such as expiration or insufficient funds), you remain responsible for any uncollected amounts, and we will attempt to charge the payment method as you may update your payment method information. If you pre-order Content, you will be charged when the Content is delivered to you (unless you cancel prior to the Content’s availability). In accordance with local law, Apple may update information regarding your payment method if provided such information by your financial institution. For details about how Transactions are billed, please visit http://support.apple.com/kb/HT5582. All Transactions are final. Content prices may change at any time. If technical problems prevent or unreasonably delay delivery of Content, your exclusive and sole remedy is either replacement of the Content or refund of the price paid, as determined by Apple. From time to time, Apple may refuse a refund request if we find evidence of fraud, refund abuse, or other manipulative behavior that entitles Apple to a corresponding counterclaim. Terms related to Store Credit and gift cards/codes are available here: https://www.apple.com/legal/internet-services/itunes/giftcards/.
+You can acquire Content on our Services for free or for a charge, either of which is referred to as a “Transaction.” Each Transaction is an electronic contract between you and Apple, and/or you and the entity providing the Content on our Services. However, if you are a customer of Apple Distribution International and you acquire an App or a book, Apple Distribution International is the merchant of record. this means that you acquire the Content from Apple Distribution International, and it is licensed by the App Provider (as defined below) or book publisher. When you make your first Transaction, we will ask you to choose how frequently we should ask for your password for future Transactions. If you enable Touch ID for Transactions, we will ask you to authenticate all Transactions with your fingerprint, and if you enable Face ID for Transactions, we will ask you to authenticate all Transactions using facial recognition. Manage your password settings at any time by following these instructions: https://support.apple.com/en-us/HT204030. Apple will charge your selected payment method (such as your credit card, debit card, gift card/code, or other method available in your Home Country) for any paid Transactions, including any applicable taxes. If you have also added it to your Apple Wallet, Apple may charge your selected payment method in Apple Wallet using Apple Pay. If we cannot charge your selected payment method for any reason (such as expiration or insufficient funds), you remain responsible for any uncollected amounts, and we will attempt to charge the payment method again as you may update your payment method information. If you pre-order Content, you will be charged when the Content is delivered to you (unless you cancel prior to the Content’s availability). In accordance with local law, Apple may update information regarding your selected payment method if provided such information by your financial institution. For details about how Transactions are billed, please visit http://support.apple.com/kb/HT5582. All Transactions are final. Content prices may change at any time. If technical problems prevent or unreasonably delay delivery of Content, your exclusive and sole remedy is either replacement of the Content or refund of the price paid, as determined by Apple. From time to time, Apple may refuse a refund request if we find evidence of fraud, refund abuse, or other manipulative behavior that entitles Apple to a corresponding counterclaim. Terms related to Store Credit and gift cards/codes are available here: https://www.apple.com/legal/internet-services/itunes/giftcards/.
 
 APPLE ID
 
-Using our Services and accessing your Content requires an Apple ID. An Apple ID is the account you use across Apple’s ecosystem. Your Apple ID is valuable, and you are responsible for maintaining its confidentiality and security. Apple is not responsible for any losses arising from the unauthorized use of your Apple ID. Please contact Apple if you suspect that your Apple ID has been compromised.
+Using our Services and accessing your Content may require an Apple ID. An Apple ID is the account you use across Apple’s ecosystem. Your Apple ID is valuable, and you are responsible for maintaining its confidentiality and security. Apple is not responsible for any losses arising from the unauthorized use of your Apple ID. Please contact Apple if you suspect that your Apple ID has been compromised.
 
 You must be age 13 (or equivalent minimum age in your Home Country, as set forth in the registration process) to create an Apple ID and use our Services. Apple IDs for persons under this age can be created by a parent or legal guardian using Family Sharing or by an approved educational institution.
 
@@ -30,7 +30,7 @@ All Services:
 
 \- You may use the Services and Content only for personal, noncommercial purposes (except as set forth in the App Store Content section below).
 
-\- Apple’s delivery of Content does not transfer any promotional use rights to you, and does not constitute a grant or waiver of any rights of the copyright owners.
+\- Apple’s delivery of Content does not transfer any commercial or promotional use rights to you, and does not constitute a grant or waiver of any rights of the copyright owners.
 
 \- You can use Content from up to five different Apple IDs on each device.
 
@@ -42,27 +42,21 @@ All Services:
 
 \- Video Content requires an HDCP connection.
 
-iTunes Store Content:
+Audio and Video Content Sales and Rentals:
 
 \- You can use Digital Rights Management (DRM)-free Content on a reasonable number of compatible devices that you own or control. DRM-protected Content can be used on up to five computers and any number of devices that you sync to from those computers.
 
 \- Content rentals are viewable on a single device at a time, and must be played within 30 days, and completed within 48 hours of the start of play (stopping, pausing or restarting does not extend this period).
 
-\- You may burn an audio playlist to CD for listening purposes up to seven times (this limitation does not apply to DRM-free Content).
+\- You may burn an audio playlist of purchased music to disc for listening purposes up to seven times. this limitation does not apply to DRM-free Content.  Other Content may not be burned to disc.
 
 App Store Content:
 
-\- The term “App” includes apps, iMessage and Apple Watch apps, in-app purchases, extensions (such as keyboards), stickers, and subscriptions made available in an app.
+\- The term “App” includes apps for any Apple platform and/or operating system, in-app purchases, extensions (such as keyboards), stickers, and subscriptions made available in an app.
 
 \- You can use Apps on any device that you own or control.
 
-\- Individuals acting on behalf of a commercial enterprise, governmental organization or educational institution (an “Enterprise”) may download and sync Apps for use by either (i) a single individual on one or more devices owned or controlled by an Enterprise. or (ii) multiple individuals on a single shared device owned or controlled by an Enterprise. For the sake of clarity, each device used serially or collectively by multiple users requires a separate license.
-
-Apple Books Content:
-
-\- You can use DRM-free Content on any compatible device that you own or control. DRM-protected Content can be used on up to five computers and any number of devices that you sync to from those computers.
-
-\- You may not burn Apple Books Content to disk.
+\- Individuals acting on behalf of a commercial enterprise, governmental organization or educational institution (an “Enterprise”) may download and sync non-Arcade Apps for use by either (i) a single individual on one or more devices owned or controlled by an Enterprise. or (ii) multiple individuals on a single shared device owned or controlled by an Enterprise. For the sake of clarity, each device used serially or collectively by multiple users requires a separate license.
 
 Apple Music:
 
@@ -70,19 +64,35 @@ Apple Music:
 
 \- An Individual Apple Music membership allows you to stream on a single device at a time. a Family membership allows you or your Family members to stream on up to six devices at a time.
 
+Apple Arcade:
+
+\- Apple Arcade Apps may only be downloaded, or redownloaded, with a valid Apple Arcade trial or subscription.
+
+\- If your subscription ends, Apps downloaded via Apple Arcade will no longer be accessible to you.
+
+Apple TV Content
+
+\- For most channels, you can stream Content on up to three devices simultaneously. 
+
+\- You may be limited in the amount of Content you may download, and some downloaded Content may expire after a given amount of time after downloaded or first played. Certain Content may not be available for download at all. 
+
+\- Learn more about Apple TV Content Usage Rules at https://support.apple.com/en-us/HT210074 
+
 REDOWNLOADS
 
 You may be able to redownload previously acquired Content (“Redownload”) to your devices that are signed in with the same Apple ID (“Associated Devices”). You can see Content types available for Redownload in your Home Country at https://support.apple.com/en-us/HT204632. Content may not be available for Redownload if that Content is no longer offered on our Services.
 
-Associated Devices Rules: You can have 10 devices (but only a maximum of 5 computers) signed in with your Apple ID at one time. Each computer must also be authorized using the same Apple ID (to learn more about authorization of computers, visit https://support.apple.com/en-us/HT201251). Devices can be associated with a different Apple ID once every 90 days.
+Associated Devices Rules (except Apple Arcade):  You can have up to 10 devices (but only a maximum of 5 computers) signed in with your Apple ID at one time. Each computer must also be authorized using the same Apple ID (to learn more about authorization of computers, visit https://support.apple.com/en-us/HT201251). Devices can be associated with a different Apple ID once every 90 days.
+
+Associated Devices Rules for Apple Arcade:  You can have up to 10 devices signed in to Apple Arcade per Family member at one time.  Devices can be associated with a different Apple ID once every 90 days.
 
 SUBSCRIPTIONS
 
-The Services and certain Apps may allow you to purchase access to Content or services on a subscription basis (“Paid Subscriptions”). Paid Subscriptions automatically renew until cancelled in the Manage Subscriptions section of your account settings. We will notify you if the price of a Paid Subscription increases and, if required, seek your consent to continue. You will be charged no more than 24 hours prior to the start of the latest Paid Subscription period. If we cannot charge your payment method for any reason (such as expiration or insufficient funds), and you have not cancelled the Paid Subscription, you remain responsible for any uncollected amounts, and we will attempt to charge the payment method as you may update your payment method information. This may result in a change to the start of your next Paid Subscription period and may change the date on which you are billed for each period. Certain Paid Subscriptions may offer a free trial prior to charging your payment method. If you decide to unsubscribe from a Paid Subscription before we start charging your payment method, cancel the subscription before the free trial ends.
+The Services and certain Apps may allow you to purchase access to Content or services on a subscription basis (“Paid Subscriptions”). Paid Subscriptions automatically renew until cancelled in the Manage Subscriptions section of your account settings. To learn more about cancelling your subscriptions, visit https://support.apple.com/en-us/HT202039.  We will notify you if the price of a Paid Subscription increases and, if required, seek your consent to continue. You will be charged no more than 24 hours prior to the start of the latest Paid Subscription period. If we cannot charge your payment method for any reason (such as expiration or insufficient funds), and you have not cancelled the Paid Subscription, you remain responsible for any uncollected amounts, and we will attempt to charge the payment method as you may update your payment method information. This may result in a change to the start of your next Paid Subscription period and may change the date on which you are billed for each period.  We reserve the right to cancel your Paid Subscription if we are unable to successfully charge your payment method to renew your subscription.  Certain Paid Subscriptions may offer a free trial prior to charging your payment method. If you decide to unsubscribe from a Paid Subscription before we start charging your payment method, cancel the subscription at least 24 hours before the free trial ends.
 
 CONTENT AND SERVICE AVAILABILITY
 
-Terms found in this Agreement that relate to Services, Content types, features or functionality not available in your Home Country are not applicable to you unless and until they become available to you. To see the Content types available to you in your Home Country, go to the Services or visit https://support.apple.com/en-us/HT204411.
+Terms found in this Agreement that relate to Services, Content types, features or functionality not available in your Home Country are not applicable to you unless and until they become available to you. To see the Content types available to you in your Home Country, go to the Services or visit https://support.apple.com/en-us/HT204411. Certain Services and Content available to you in your Home Country may not be available to you when traveling outside of your Home Country.
 
 NON-APPLE DEVICES
 
@@ -112,17 +122,17 @@ D. FAMILY SHARING
 
 The organizer of a Family (“Organizer”) must be 18 years or older and the parent or legal guardian of any Family member under age 13 or the equivalent minimum age in their Home Country (as set forth in the registration process). Apple devices are required for access to all of the Family Sharing features.
 
-Purchase Sharing: Family Sharing’s Purchase Sharing feature allows you to share eligible Content with up to six members of a Family. The Organizer invites other members to participate, and agrees to pay for all Transactions initiated by Family members. The Organizer's payment method is used to pay for any Transaction initiated by a Family member (except when the Family member’s account has store credit, which is always used first). Family members are acting as agents for the Organizer when the Organizer’s payment method is used. The Organizer hereby agrees (1) to pay for such Transactions, and (2) that Transactions initiated by Family members are authorized. Organizers are responsible for complying with their payment method contract, and assume all risk related to sharing access to the payment method with Family members. A receipt or invoice for any Family member Transaction is sent to the initiating Family member and the Organizer.
+Purchase Sharing: Family Sharing’s Purchase Sharing feature allows you to share eligible Content among up to six members of a Family. The Organizer invites other members to participate, and agrees to pay for all Transactions initiated by Family members. The Organizer's payment method is used to pay for any Transaction initiated by a Family member (except when the Family member’s account has store credit, which is always used first). Family members are acting as agents for the Organizer when the Organizer’s payment method is used. The Organizer hereby agrees (1) to pay for such Transactions, and (2) that Transactions initiated by Family members are authorized. Organizers are responsible for complying with their payment method contract, and assume all risk related to sharing access to the payment method with Family members. A receipt or invoice for any Family member Transaction is sent to the initiating Family member and the Organizer.  
 
 Ask to Buy: Ask to Buy is a convenient feature that allows an Organizer to approve each Transaction initiated by a Family member under age 18 (or the equivalent age of majority in your Home Country). The Organizer must be the parent or legal guardian of any Family member for whom Ask to Buy is activated. Content downloaded from Family members or acquired via redemption codes are not subject to Ask to Buy.
 
 Family Member changes: When a Family member leaves or is removed from the Family, the remaining Family members may no longer be able to access the former member’s Content, including Content acquired with the Organizer’s payment method.
 
-Family Sharing Rules: You can only belong to one Family at a time, and may join any Family no more than twice per year. You can change the Apple ID you associate with a Family no more than once every 90 days. All Family members must share the same Home Country. Not all Content, including In-App Purchases, subscriptions, and some previously acquired Apps, are eligible for Purchase Sharing.
+Family Sharing Rules: You can only belong to one Family at a time, and may join any Family no more than twice per year. You can change the Apple ID you associate with a Family no more than once every 90 days. All Family members must share the same Home Country. Not all Content, including In-App Purchases, subscriptions, and some previously acquired Apps, are eligible for Purchase Sharing.  Apple Arcade and Apple News+ subscriptions are automatically enabled for Purchase Sharing.  Subscriptions shared by a Family may be subject to Content usage limitations on a per subscription basis.
 
-E. RECOMMENDATION FEATURES
+E. PERSONALIZED RECOMMENDATION FEATURES
 
-The Services will recommend Content to you based on your downloads, purchases and other activities. You may opt out from receiving such recommendations in your account settings.
+The Services may recommend Content to you based on your downloads, purchases and other activities. You may opt out from receiving such personalized recommendations for some Services in your account settings.
 
 Some recommendation features may require your permission before they are turned on. If you turn on these features, you will be asked to give Apple permission to collect and store certain data, including but not limited to data about your device activity, location, and usage. Please carefully read the information presented when you turn on these features.
 
@@ -130,11 +140,11 @@ F. ADDITIONAL ITUNES STORE TERMS
 
 SEASON PASS AND MULTI-PASS
 
-A Pass allows you to purchase and receive television Content as it becomes available. A Season Pass applies to television Content that has a limited number of episodes per season. a Multi-Pass applies to television Content that is available on an ongoing basis. The full price of a Season Pass or Multi-Pass is charged at the time of the Transaction. Season Pass or Multi-Pass Content is available for download up to 90 days after the last episode becomes available. If automatic renewal is selected when you obtain a Multi-Pass, you will be charged the full price of each subsequent Multi-Pass cycle. You can turn off automatic renewal prior to the beginning of the next Multi-Pass cycle in your account settings. If a Content provider delivers to Apple fewer TV episodes than planned when you purchased a Season Pass, we will credit to your Apple ID the retail value of the corresponding number of episodes that were not provided to Apple.
+A Pass allows you to purchase and receive television Content as it becomes available. A Season Pass applies to television Content that has a limited number of episodes per season. a Multi-Pass applies to television Content that is available on an ongoing basis. The full price of a Season Pass or Multi-Pass is charged at the time of the Transaction. Season Pass or Multi-Pass Content is available for download up to 90 days after the last episode becomes available. If automatic renewal is selected when you obtain a Multi-Pass, you will be charged the full price of each subsequent Multi-Pass cycle. You can turn off automatic renewal at least 24 hours prior to the beginning of the next Multi-Pass cycle in your account settings. If a Content provider delivers to Apple fewer TV episodes than planned when you purchased a Season Pass, we will credit to your Apple ID the retail value of the corresponding number of episodes that were not provided to Apple.
 
-G. ADDITIONAL APP STORE TERMS
+G. ADDITIONAL APP STORE TERMS (EXCLUDING APPLE ARCADE APPS)
 
-LICENSE OF APP STORE CONTENT
+LICENSE OF APP STORE CONTENT 
 
 App licenses are provided to you by Apple or a third party developer (“App Provider”). If you are a customer of Apple Distribution International, the merchant of record is Apple Distribution International, which means that you acquire the App license from Apple Distribution International, but the App is licensed by the App Provider. An App licensed by Apple is an “Apple App;” an App licensed by an App Provider is a “Third Party App.” Apple acts as an agent for App Providers in providing the App Store and is not a party to the sales contract or user agreement between you and the App Provider. Any App that you acquire is governed by the Licensed Application End User License Agreement (“Standard EULA”) set forth below, unless Apple or the App Provider provides an overriding custom license agreement (“Custom EULA”). The App Provider of any Third Party App is solely responsible for its content, warranties, and claims that you may have related to the Third Party App. You acknowledge and agree that Apple is a third-party beneficiary of the Standard EULA or Custom EULA applicable to each Third Party App and may therefore enforce such agreement. Certain Apps, such as stickers and iMessage apps, may not appear on the device springboard but can be accessed and used in the Messages app drawer.
 
@@ -184,7 +194,7 @@ I. ADDITIONAL APPLE MUSIC TERMS
 
 APPLE MUSIC MEMBERSHIP
 
-Apple Music is a subscription music service. Your Apple Music membership will automatically renew until you turn off automatic renewal in account settings. See the “Subscriptions” section for more details. When your Apple Music membership ends, you will lose access to any feature of Apple Music that requires a membership, including but not limited to access to Apple Music songs stored on your device, and iCloud Music Library. Apple reserves the right to cancel your Apple Music membership if we are unable to successfully charge your payment method to renew your membership.
+Apple Music is a subscription music service. Your Apple Music membership will automatically renew until you cancel in account settings. See the “Subscriptions” section for more details. When your Apple Music membership ends, you will lose access to any feature of Apple Music that requires a membership, including but not limited to access to Apple Music songs stored on your device, and iCloud Music Library.
 
 Where available, you may be offered an Apple Music membership through your wireless carrier (a “Carrier Membership”). If you purchase a Carrier Membership, your carrier will bill you for the cost of your Apple Music membership. Your billing relationship with the carrier is governed by the carrier’s terms and conditions, not this Agreement, and any billing disputes related to a Carrier Membership must be directed to your carrier, not Apple. By using Apple Music, you agree that your carrier may exchange your carrier account information, telephone number and subscription information with Apple, and that Apple may use this information to determine the status of your Carrier Membership.
 
@@ -192,15 +202,21 @@ ICLOUD MUSIC LIBRARY
 
 iCloud Music Library is an Apple Music feature that allows you to access your matched or uploaded songs, playlists and music videos acquired from Apple Music, the iTunes Store or a third party (“iCloud Music Library Content”) on your Apple Music-enabled devices. iCloud Music Library is turned on automatically when you set up your Apple Music membership. iCloud Music Library collects information about your iCloud Music Library Content. This information is associated with your Apple ID, and compared to iCloud Music Library Content currently available on Apple Music. iCloud Music Library Content that is not matched is uploaded to Apple’s iCloud Music Library servers (in a format determined by Apple). You can upload up to 100,000 songs. Songs acquired from the iTunes Store or Apple Music do not count against this limit. Songs that do not meet certain criteria (for example, excessively large files) or that are not authorized for your device are not eligible for iCloud Music Library. When you use iCloud Music Library, Apple logs information such as the tracks you play, stop or skip, the devices you use, and the time and duration of playback. You agree to use iCloud Music Library only for lawfully acquired content. iCloud Music Library is provided on an “AS IS” basis and could contain errors or inaccuracies. You should back up your data and information prior to using iCloud Music Library. If you are not an Apple Music member, you may purchase an iTunes Match subscription, which is subject to the terms set forth in this section.
 
-J. MISCELLANEOUS TERMS APPLICABLE TO ALL SERVICES
+J. ADDITIONAL APPLE ARCADE TERMS
+
+APPLE ARCADE SUBSCRIPTION
+
+Apple Arcade is a game subscription service. Your Apple Arcade subscription will automatically renew until you cancel in account settings. See the “Subscriptions” section for more details. When your Apple Arcade subscription ends, you will lose access to any functionality of Apple Arcade that requires a subscription, including but not limited to access to apps downloaded from Apple Arcade that are stored on your device.
+
+K. MISCELLANEOUS TERMS APPLICABLE TO ALL SERVICES
 
 DEFINITION OF APPLE
 
 Depending on your Home Country, “Apple” means:
 
-Apple Inc., located at One Apple Park Way, Cupertino, California, for users in North, Central, and South America (including Canada for use of iTunes Store and Apple Music), as well as United States territories and possessions. and French and British possessions in North America, South America, and the Caribbean;
+Apple Inc., located at One Apple Park Way, Cupertino, California, for users in North, Central, and South America (excluding Canada), as well as United States territories and possessions. and French and British possessions in North America, South America, and the Caribbean;
 
-Apple Canada Inc., located at 120 Bremner Blvd., Suite 1600, Toronto ON M5J 0A8, Canada for users of App Store and Apple Books in Canada or its territories and possessions;
+Apple Canada Inc., located at 120 Bremner Blvd., Suite 1600, Toronto ON M5J 0A8, Canada for users in Canada or its territories and possessions;
 
 iTunes K.K., located at Roppongi Hills, 6-10-1 Roppongi, Minato-ku, Tokyo 106-6140, Tokyo for users in Japan;
 
@@ -226,13 +242,11 @@ COPYRIGHT NOTICE
 
 If you believe that any Content available through the Services infringe a copyright claimed by you, please contact Apple at the following locations:
 
-\- iTunes Store: https://www.apple.com/legal/internet-services/itunes/itunesstorenotices/
+\- iTunes Store, Apple Music, Apple Podcasts: https://www.apple.com/legal/internet-services/itunes/itunesstorenotices/
 
 \- App Store: https://www.apple.com/legal/internet-services/itunes/appstorenotices/
 
 \- Apple Books: https://www.apple.com/legal/internet-services/itunes/applebooksnotices/
-
-\- Apple Music: https://www.apple.com/legal/trademark/claimsofcopyright.html
 
 TERMINATION AND SUSPENSION OF SERVICES
 
@@ -252,7 +266,7 @@ APPLE SHALL USE REASONABLE EFFORTS TO PROTECT INFORMATION SUBMITTED BY YOU IN CO
 
 APPLE DOES NOT REPRESENT OR GUARANTEE THAT THE SERVICES WILL BE FREE FROM LOSS, CORRUPTION, ATTACK, VIRUSES, INTERFERENCE, HACKING, OR OTHER SECURITY INTRUSION, AND YOU HEREBY RELEASE APPLE FROM ANY LIABILITY RELATING THERETO. YOU SHALL BE RESPONSIBLE FOR BACKING UP YOUR OWN SYSTEM, INCLUDING ANY CONTENT ACQUIRED OR RENTED THROUGH THE SERVICES.
 
-APPLE IS NOT RESPONSIBLE IN CONNECTION WITH YOUR USE OF THE SERVICES.
+APPLE IS NOT RESPONSIBLE FOR DATA CHARGES YOU MAY INCUR IN CONNECTION WITH YOUR USE OF THE SERVICES.
 
 WAIVER AND INDEMNITY
 
@@ -282,4 +296,4 @@ You hereby grant Apple the right to take steps Apple believes are reasonably nec
 
 Children under the age of majority should review this Agreement with their parent or guardian to ensure that the child and parent or legal guardian understand it.
 
-Last Updated: September 17, 2018
+Last Updated: May 13, 2019
