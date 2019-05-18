@@ -287,6 +287,7 @@ Premium
 SupportHelp Center  
 Privacy Policy  
 Terms of Service  
+Security  
 ServicesGrammarly EDU  
 Grammarly Business  
 Handbook  
