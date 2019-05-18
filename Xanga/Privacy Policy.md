@@ -16,7 +16,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   help find archive
     *   by illbejustfinepretendingimnot
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -25,7 +25,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by illbejustfinepretendingimnot 4 weeks ago)
+    *   1 (last comment by illbejustfinepretendingimnot 1 month ago)
 *   My Xanga Blog Doesn't appear
     *   by iris\_yuki
     *   1 month ago
