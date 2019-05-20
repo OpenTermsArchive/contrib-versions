@@ -8,6 +8,12 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   How can I read my old posts?
+    *   \[Resolved\] by Linzomatic
+    *   5 years ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by dark\_azn\_fairy 1 hour ago)
 *   Can't find my page
     *   by razorblade\_tragedy88
     *   1 week ago
@@ -92,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   how can i access my old blogs
-    *   \[Resolved\] by e\_e
-    *   5 years ago
-    *   in Data Migration
-    *   0 votes
-    *   8 (last comment by UrOnMyMiNd777 2 months ago)
 
 1 2 3 ... 193 Next
 
