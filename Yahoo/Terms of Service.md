@@ -210,7 +210,7 @@ Europe, Middle East and Africa
 1.  **Australia (au):**
     1.  _Defined Terms_
         1.  Applicable Oath Company:
-            1.  For Yahoo7 Answers, Yahoo7 Be, Yahoo7 Finance, Yahoo7 Groups, Yahoo7 Mail, Yahoo7 News, Yahoo7 Search, Yahoo7 Sports, Yahoo Together, Yahoo7 TV and Yahoo7 Weather the Applicable Oath Company is Yahoo!7 Pty Ltd (Address: Level 4 West, 8 Central Avenue, Eveleigh NSW 2015, Australia) and the following terms apply: (a) the Terms and the relationship between you and Yahoo!7 Pty Ltd will be governed by the laws of the state of New South Wales without regard to its conflict of law provisions, and (b) you and Yahoo!7 Pty Ltd agree to submit to the exclusive jurisdiction of the courts of the state of New South Wales.
+            1.  For Yahoo Answers, Yahoo Lifestyle, Yahoo Finance, Yahoo Groups, Yahoo Mail, Yahoo News, Yahoo Search, Yahoo Sports, Yahoo TV and Yahoo Weather the Applicable Oath Company is Verizon Media Australia Pty Ltd (Address: Level 4 West, 8 Central Avenue, Eveleigh NSW 2015, Australia) and the following terms apply: (a) the Terms and the relationship between you and Verizon Media Australia Pty Ltd will be governed by the laws of the state of New South Wales without regard to its conflict of law provisions, and (b) you and Verizon Media Australia Pty Ltd agree to submit to the exclusive jurisdiction of the courts of the state of New South Wales.
             2.  For other services, the Applicable Oath Company is Oath Inc. (Address: 22000 AOL Way, Dulles, VA 20166), and for such Services the terms of Section 14.2 (United States) apply.
         2.  Minimum Age: 13 years old
     2.  _Customer Support._ For customer support, see this page.
@@ -250,7 +250,7 @@ Europe, Middle East and Africa
 5.  **New Zealand (nz):**
     1.  _Defined Terms_
         1.  Applicable Oath Company:
-            1.  For Yahoo Answers, Yahoo Entertainment, Yahoo Lifestyle, Yahoo Mail, Yahoo News, Yahoo Search, Yahoo Sport and Yahoo Together the Applicable Oath Company is Yahoo! New Zealand Limited (Address: Level 2, Heards Building, 2 Ruskin Street Parnell Auckland 1052 New Zealand) and the following terms apply: (a) the Terms and the relationship between you and Yahoo! New Zealand Limited will be governed by the laws of New Zealand without regard to its conflict of law provisions, and (b) you and Yahoo! New Zealand Limited agree to submit to the exclusive jurisdiction of the courts of New Zealand.
+            1.  For Yahoo Answers, Yahoo Entertainment, Yahoo Lifestyle, Yahoo Mail, Yahoo News, Yahoo Search and Yahoo Sport the Applicable Oath Company is Verizon Media New Zealand Limited (Address: Level 1, 22-28 Customs Street East, Auckland 1010 New Zealand) and the following terms apply: (a) the Terms and the relationship between you and Verizon Media New Zealand Limited will be governed by the laws of New Zealand without regard to its conflict of law provisions, and (b) you and Verizon Media New Zealand Limited agree to submit to the exclusive jurisdiction of the courts of New Zealand.
             2.  For other services, the Applicable Oath Company is Oath Inc. (Address: 22000 AOL Way, Dulles, VA 20166), and for such Services the terms of Section 14.2 (United States) apply.
         2.  Minimum Age: 13 years old
     2.  _Customer Support_. For customer support, see this page.
