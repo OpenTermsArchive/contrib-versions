@@ -13,7 +13,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 years ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by dark\_azn\_fairy 1 hour ago)
+    *   2 (last comment by dark\_azn\_fairy 1 day ago)
 *   Can't find my page
     *   by razorblade\_tragedy88
     *   1 week ago
