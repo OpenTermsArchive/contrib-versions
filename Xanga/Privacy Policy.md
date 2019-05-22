@@ -1,9 +1,3 @@
-Skip to toolbar
-
-*   Xanga
-
-*   Log In
-
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
@@ -13,10 +7,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 years ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by dark\_azn\_fairy 1 day ago)
+    *   2 (last comment by dark\_azn\_fairy 2 days ago)
 *   Can't find my page
     *   by razorblade\_tragedy88
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -156,4 +150,8 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
+
+*   Xanga
+
+*   Log In
