@@ -7,7 +7,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 years ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by dark\_azn\_fairy 2 days ago)
+    *   2 (last comment by dark\_azn\_fairy 3 days ago)
 *   Can't find my page
     *   by razorblade\_tragedy88
     *   2 weeks ago
@@ -16,7 +16,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Help Me Find My Page Please
     *   by ZzGIGIzZ
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
