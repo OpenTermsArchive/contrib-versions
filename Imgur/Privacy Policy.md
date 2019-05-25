@@ -1,6 +1,6 @@
 Privacy Policy
 
-Your Privacy Rights – Effective January 28, 2019
+Your Privacy Rights – Effective May 24, 2019
 
 This privacy policy applies to all Imgur users worldwide. For users in the European Economic Area (EEA) and in Switzerland, Imgur complies with the principles of the U.S.-EU Privacy Shield Program and the U.S.-Swiss Privacy Shield Program, and participates in both programs. Under both programs, we are subject to the investigatory and enforcement powers of the Federal Trade Commission, and we are liable for the unauthorized transfer to third parties of user personal data. For more information, see https://www.privacyshield.gov.
 
@@ -18,9 +18,17 @@ Imgur participates in the Digital Advertising Alliance's (DAA) Self-Regulatory P
 
 Information you choose to give us
 
-If you sign up with a username, we handle it in the same way as an automatically collected username except that if you don’t allow cookies, you have to enter your username each time you log in. A username is, by nature, publicly posted information. On occasion we may run a contest or other type of promotion, and to enable us to award prizes to the winners as well as to comply with the applicable laws, we collect real names and contact information – so if you win a contest, we’ll ask for that information and we’ll use it only for those two specific purposes.
+When you sign in with a username, we handle it in the same way as an automatically collected username except that if you don’t allow cookies, you have to enter your username each time you log in. A username is, by nature, publicly posted information. On occasion we may run a contest or other type of promotion, and to enable us to award prizes to the winners as well as to comply with the applicable laws, we collect real names and contact information – so if you win a contest, we’ll ask for that information and we’ll use it only for those two specific purposes.
 
 We collect whatever personal data about you that you choose to give us, such as a contact email address (which we do not make public) and profile information. We do not require you to use an account to upload images, and if you open an account you do not have to provide any personal information. If you are located in the EEA and wish to open an account, _do not use your real name – choose a username and email address that reveal nothing about your identity._ If you give us an email address, we’ll probably send you promotional messages once in a while. we’ll try to make them fun and interesting but of course you’ll be able to opt out at any time.
+
+Why do I have to verify my phone number?
+
+To keep everything fun, we’ve come up with a new way to send miscreants north of the wall! And without collecting any personal information from you.
+
+To set up an account, you give us your cell phone number and we’ll text you a confirmation code to verify that it’s your number. But we won’t save your number, share it, sell it, or even show it to anyone. Instead, we’ll one-way encrypt it into a hash and save only the hash. Since a hash can’t be decrypted, we can’t get your phone number from it. Then, if you get banned for breaking the rules, we’ll ban your hash too – and you won’t be able to set up another account with the same phone number, since it would generate the same hash. Clever, huh?
+
+For more information, see our community rules.
 
 Information you post
 
