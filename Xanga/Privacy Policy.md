@@ -4,7 +4,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   pulling up old blogs
     *   by PiMpiNpNoY13
-    *   10 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -13,7 +13,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 years ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by dark\_azn\_fairy 4 days ago)
+    *   2 (last comment by dark\_azn\_fairy 5 days ago)
 *   Can't find my page
     *   by razorblade\_tragedy88
     *   2 weeks ago
@@ -76,13 +76,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   My Blog doesn't appear
     *   by Ishkaboomie231
-    *   1 month ago
+    *   2 months ago
     *   in Data Migration
     *   0 votes
     *   0
 *   My Blog doesn't appear
     *   by Ishkaboomie231
-    *   1 month ago
+    *   2 months ago
     *   in Data Migration
     *   0 votes
     *   0
