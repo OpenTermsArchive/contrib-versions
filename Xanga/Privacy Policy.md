@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   pulling up old blogs
     *   by PiMpiNpNoY13
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,7 +19,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 years ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by dark\_azn\_fairy 6 days ago)
+    *   2 (last comment by dark\_azn\_fairy 1 week ago)
 *   Can't find my page
     *   by razorblade\_tragedy88
     *   2 weeks ago
@@ -52,19 +52,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Please help to reactivate let me can see old posts
     *   by natalie6791
-    *   1 month ago
+    *   2 months ago
     *   in Themes
     *   0 votes
     *   0
 *   Please help to reactivate let me can see old posts
     *   by natalie6791
-    *   1 month ago
+    *   2 months ago
     *   in Themes
     *   0 votes
     *   0
 *   Please help to reactivate let me can see old posts
     *   by natalie6791
-    *   1 month ago
+    *   2 months ago
     *   in Themes
     *   0 votes
     *   0
