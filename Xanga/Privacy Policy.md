@@ -8,9 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Old blogs and photos
+    *   by Slickwitted917
+    *   2 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Old blogs and photos
+    *   by Slickwitted917
+    *   2 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   pulling up old blogs
     *   by PiMpiNpNoY13
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -22,7 +34,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 (last comment by dark\_azn\_fairy 1 week ago)
 *   Can't find my page
     *   by razorblade\_tragedy88
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -86,18 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   My Blog doesn't appear
-    *   by Ishkaboomie231
-    *   2 months ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   My Blog does not appear
-    *   by rosiebrowne
-    *   2 months ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by XZXhakuXZX 2 months ago)
 
 1 2 3 ... 193 Next
 
