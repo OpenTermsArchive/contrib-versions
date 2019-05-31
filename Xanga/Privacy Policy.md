@@ -4,19 +4,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Old blogs and photos
     *   by Slickwitted917
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old blogs and photos
     *   by Slickwitted917
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   pulling up old blogs
     *   by PiMpiNpNoY13
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -52,7 +52,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by illbejustfinepretendingimnot 1 month ago)
 *   My Xanga Blog Doesn't appear
     *   by iris\_yuki
-    *   1 month ago
+    *   2 months ago
     *   in Data Migration
     *   0 votes
     *   0
