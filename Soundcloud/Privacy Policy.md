@@ -1,14 +1,14 @@
 SoundCloud Privacy Policy
 
-Welcome to SoundCloud, a service provided by SoundCloud Limited and its subsidiaries, including SoundCloud, Inc. (“**SoundCloud**”, “**we**”, “**our**”, “**us**”).
+Welcome to SoundCloud, a service provided by SoundCloud Limited and its subsidiaries, including SoundCloud, Inc.
 
-Your privacy is important to us. This Privacy Policy explains how we collect, store, use, disclose and otherwise process your information when you use soundcloud.com and m.soundcloud.com (together, the “**Website**”), our mobile and desktop apps (the “**Apps**”) and all related sites, players, widgets, tools, apps, data, software, APIs and other services provided by SoundCloud (the “**Services**”).
+Your privacy is important to us. This Privacy Policy explains how we collect, store, use, disclose and otherwise process your information when you use soundcloud.com and m.soundcloud.com (together, the “**Website**”), our mobile and desktop apps (the “**Apps**”) and all related sites, players, widgets, tools, apps, data, software, APIs and other services provided by SoundCloud (the “**Services**”). This Privacy Policy applies to any Website, App, or Service that refers to this Privacy Policy, i.e. by linking to it.
 
 This Privacy Policy explains the following, amongst other things:
 
 *   Our Privacy Principles
 *   The Information We Collect
-*   How We Use Your information
+*   How We Use Your Information
 *   How We Share Your Information
 *   Cookies and Similar Technology
 *   Your Choices and Controls
@@ -18,7 +18,7 @@ Information relating to our use of cookies and similar technologies is set out i
 
 Please take some time to read this Privacy Policy, including the Cookie Policy, along with our Terms of Use, in order to ensure you understand and are comfortable with our use and disclosure of your personal information. If you see an undefined term in this Privacy Policy, it has the same meaning given to it in our Terms of Use.
 
-Please note that this Privacy Policy only applies to the Website, the Apps and the Services (together, the “**Platform**”). When using the Platform, you may find links to other websites, apps and services, or tools that enable you to share information with other websites, apps and services. SoundCloud is not responsible for the privacy practices of these other websites, apps and services and we recommend that you review the privacy policies of each of these websites, apps or services before connecting your SoundCloud® account or sharing any personal data.
+Please note that this Privacy Policy only applies to the Website, the Apps and the Services (together, the “**Platform**”). When using the Platform, you may find links to other websites, apps and services, or tools that enable you to share information with other websites, apps and services. SoundCloud is not responsible for the privacy practices of these other websites, apps and services and we recommend that you review the privacy policies of each of these websites, apps or services before connecting your SoundCloud account or sharing any personal data.
 
 **If you do not agree to any of the provisions of this Privacy Policy, you should not use the Platform**. If you have any questions or concerns about this Privacy Policy, you can contact us through the Help Center or at dataprotection@soundcloud.com.
 
@@ -57,7 +57,7 @@ You don’t need to register for a SoundCloud account in order to visit or use o
 
 *   **Account Information** - When you register any kind of SoundCloud account, you will need to provide your email address (except when you sign-up with Facebook or Google and don’t give your permission to share it with SoundCloud), your age, and choose a password. In addition, if you purchase a Subscription, you will also need to provide your real name, billing address, and payment verification information.
     
-*   **Profile Information** - you may choose, at your discretion, to provide additional information for your public profile on SoundCloud® – for example:
+*   **Profile Information** - you may choose, at your discretion, to provide additional information for your public profile on SoundCloud – for example:
     
     *   your real name
     *   a user name (which may be your real name or a pseudonym)
@@ -188,11 +188,11 @@ This section describes how the information collected or generated through your u
     
 *   **API Integrations** – SoundCloud has an open application-programming interface (API), which enables application developers to integrate elements of the Platform into other apps. Some of these developers may be located outside of the EEA. Any information you choose to make public on the Platform, including your public profile information and any public Sounds, may be accessible to these developers, subject to our API Terms of Use. Please bear this in mind when deciding what information to publish on your profile. For information on how to limit the information that is available through the API, please see the Your Choices and Controls section below.
     
-*   **Third Party Applications** – If you choose to connect your SoundCloud® account to other apps or social networks such as Facebook and Google+ you may be sharing certain information with these apps or networks. Content that you share with Facebook will appear on your timeline and in your Facebook friends’ newsfeeds. Content you share with Google will be seen by the people from your Google+ circles when they visit your Google+ profile, make relevant Google searches, on Google-served ads, and the services selected in your Google account settings. In the case of connected apps, you will need to provide the app developer with full access to your SoundCloud® account in order to upload and download Sounds, or comment on, favorite, or repost Sounds from within the app. This means sharing your public information, plus access to your private Sounds. SoundCloud is not responsible for these other apps or networks, so please make sure you only connect your account with apps or services that you trust. For information on how to control the information that you share, and how to disconnect your account from these apps, please see the Your Choices and Controls section below. **If you do not want this information shared with Facebook or Google, please change your SoundCloud Settings on our Platform or in those networks.**
+*   **Third Party Applications** – If you choose to connect your SoundCloud account to other apps or social networks such as Facebook and Google+ you may be sharing certain information with these apps or networks. Content that you share with Facebook will appear on your timeline and in your Facebook friends’ newsfeeds. Content you share with Google will be seen by the people from your Google+ circles when they visit your Google+ profile, make relevant Google searches, on Google-served ads, and the services selected in your Google account settings. In the case of connected apps, you will need to provide the app developer with full access to your SoundCloud® account in order to upload and download Sounds, or comment on, favorite, or repost Sounds from within the app. This means sharing your public information, plus access to your private Sounds. SoundCloud is not responsible for these other apps or networks, so please make sure you only connect your account with apps or services that you trust. For information on how to control the information that you share, and how to disconnect your account from these apps, please see the Your Choices and Controls section below. **If you do not want this information shared with Facebook or Google, please change your SoundCloud Settings on our Platform or in those networks.**
     
 *   **Compliance with Laws** – We may disclose your information to courts, law enforcement agencies, and governmental authorities (i) to comply with our legal obligations, (ii) to comply with legal process and to respond to claims asserted against SoundCloud, (iii) to respond to verified requests relating to a criminal investigation or alleged or suspected illegal activity or any other activity that may expose us, you, or any other of our users to legal liability, (iv) to enforce and administer our Terms of Use and other agreements with users, or (v) to protect the rights, property or personal safety of SoundCloud, its employees, and members of the public.
     
-*   **Protecting our Rights** – We may disclose your information if we feel this is necessary in order to protect or defend our legitimate rights and interests, or those of our users, employees, directors, officers, or shareholders, and/or to ensure the safety and security of the Platform and/or the SoundCloud® community.
+*   **Protecting our Rights** – We may disclose your information if we feel this is necessary in order to protect or defend our legitimate rights and interests, or those of our users, employees, directors, officers, or shareholders, and/or to ensure the safety and security of the Platform and/or the SoundCloud community.
     
 *   **To Our Affiliates** – To enable and support us in providing the Platform and Services, we may share your information, including personal information, within the SoundCloud Group. The data sharing is necessary for the performance of the contract between you and us and is based on our legitimate interests in providing the Platform globally.
     
@@ -205,7 +205,7 @@ As further described in our Cookie Policy we use cookies and similar technologie
 
 Information Security
 
-SoundCloud maintains technical, administrative, and physical safeguards that are designed to prevent unauthorized access, use or disclosure of personal information we collect or store. We regularly monitor our systems for possible vulnerabilities and attacks. However, it is not possible to guarantee the security of information transmitted over the Internet. You use the Platform and provide us with information at your own discretion and risk.
+SoundCloud maintains appropriate technical, administrative, and physical safeguards that are designed to prevent unauthorized access, use or disclosure of personal information we collect or store and to ensure a level of security appropriate to the risk of varying likelihood and severity for the rights and freedoms of natural persons that may be involved with our processing operations. We regularly monitor our systems for possible vulnerabilities and attacks. However, it is not possible to guarantee the security of information transmitted over the Internet. You use the Platform and provide us with information at your own discretion and risk.
 
 International Data Transfers
 
@@ -233,7 +233,7 @@ We do our best to give you as much choice as possible regarding the amount of in
         
     *   **Third Party Apps** – If you have chosen to connect your account to a third-party application, like Facebook or Google, you can disable permission for the app by adjusting your Settings in the “Connections” tab.
         
-    *   **Third Party Developers** – SoundCloud® has an open API, which allows third party developers to build some really cool apps as an extension of the Platform. If you would prefer that your Sounds are not made available to third party app developers, you can disable API access within the sound page for each of the Sounds that you upload. Click on the pencil icon in the waveform player, and uncheck the “Apps enabled” box at the bottom of the page. Please note that your public profile information will still be accessible, but this does not include anything that is not publicly available on the Website.
+    *   **Third Party Developers** – SoundCloud has an open API, which allows third party developers to build some really cool apps as an extension of the Platform. If you would prefer that your Sounds are not made available to third party app developers, you can disable API access within the sound page for each of the Sounds that you upload. Click on the pencil icon in the waveform player, and uncheck the “Apps enabled” box at the bottom of the page. Please note that your public profile information will still be accessible, but this does not include anything that is not publicly available on the Website.
         
     *   **Deleting Your Account** – If you have an account and would like to delete it, you may do so by adjusting you Settings in the Account tab. If you delete your account, all data associated with your account (except for backup copies), including the Sounds that you have uploaded and the usage data associated with those Sounds, will be deleted and may not be recoverable. We therefore advise you to copy or backup all content uploaded to your account before deletion. Even if you delete your SoundCloud account, it is possible that your information may still show up in some internet search results for a short while afterwards, if the search engine maintains a temporary cache of web pages. Search engines’ caching processes are outside of SoundCloud’s control and therefore we cannot be responsible for any information that remains cached by search engines after that information has been removed from the Platform. Please note that deleting any SoundCloud Apps, or any third party apps to which your SoundCloud account is connected, will not delete your SoundCloud account. Similarly, if you delete a third party app that is connected to your SoundCloud account over our API, this will not necessarily delete all data about your SoundCloud activity from within that third party app. You will need to refer to the app provider’s terms of use and privacy policy to find out how to delete data about your SoundCloud activity from that third party app.
         
@@ -282,7 +282,7 @@ In some jurisdictions, including the EU/EEA, you may exercise any of the rights 
 
 Lodging Complaints
 
-You have the right to lodge complaints about the data processing activities carried out by SoundCloud before a competent data protection authority.
+You have the right to lodge complaints about the data processing activities carried out by SoundCloud before a competent data protection authority. A list of EU data protection authorities is available at http://ec.europa.eu/newsroom/article29/item-detail.cfm?item\_id=612080.
 
 Contact Information
 
@@ -292,13 +292,15 @@ Changes to this Privacy Policy
 
 We may update this Privacy Policy from time to time in our sole discretion. If we make changes to this Privacy Policy, we will post the revised Privacy Policy on the Platform and update the “Last Amended” date below. Please be sure to periodically check this page to ensure that you are aware of any changes to this Privacy Policy. Any material changes to this Privacy Policy will be communicated to registered users by a notification to their account and/or by posting a notice of the change on the Website. Your continued access to or use of the Platform after the effective date of such changes will be subject to the revised Privacy Policy.
 
-**Last Amended:** 25 May 2018
+**Last Amended:** 28 May 2019
 
 Link to prior versions
 
 You will find a link to prior versions of our Privacy Policy and a summary of the change(s) below.
 
-*   Mai 2017
+*   May 2018
+    
+*   May 2017
     
 *   March 2016
     
