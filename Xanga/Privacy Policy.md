@@ -2,15 +2,45 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Blog does not appear
+    *   by torn\_topieces
+    *   4 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   I renewed my account May 23, 2019
+    *   by Mr\_Turniphead
+    *   7 hours ago
+    *   in Miscellaenous
+    *   0 votes
+    *   0
+*   I renewed my account May 23, 2019
+    *   by Mr\_Turniphead
+    *   7 hours ago
+    *   in Miscellaenous
+    *   0 votes
+    *   0
+*   I renewed my account May 23, 2019
+    *   by Mr\_Turniphead
+    *   7 hours ago
+    *   in Miscellaenous
+    *   0 votes
+    *   0
+*   I renewed my account May 23, 2019
+    *   by Mr\_Turniphead
+    *   7 hours ago
+    *   in Premium
+    *   0 votes
+    *   0
 *   Old blogs and photos
     *   by Slickwitted917
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old blogs and photos
     *   by Slickwitted917
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -60,36 +90,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by natalie6791
     *   2 months ago
     *   in Themes
-    *   0 votes
-    *   0
-*   Please help to reactivate let me can see old posts
-    *   by natalie6791
-    *   2 months ago
-    *   in Themes
-    *   0 votes
-    *   0
-*   Please help to reactivate let me can see old posts
-    *   by natalie6791
-    *   2 months ago
-    *   in Themes
-    *   0 votes
-    *   0
-*   Not able to find archieves
-    *   by V\_venus
-    *   2 months ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Not able to find archieves
-    *   by V\_venus
-    *   2 months ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   My Blog doesn't appear
-    *   by Ishkaboomie231
-    *   2 months ago
-    *   in Data Migration
     *   0 votes
     *   0
 
