@@ -4,43 +4,43 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Blog does not appear
     *   by torn\_topieces
-    *   4 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I renewed my account May 23, 2019
     *   by Mr\_Turniphead
-    *   7 hours ago
+    *   1 day ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   I renewed my account May 23, 2019
     *   by Mr\_Turniphead
-    *   7 hours ago
+    *   1 day ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   I renewed my account May 23, 2019
     *   by Mr\_Turniphead
-    *   7 hours ago
+    *   1 day ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   I renewed my account May 23, 2019
     *   by Mr\_Turniphead
-    *   7 hours ago
+    *   1 day ago
     *   in Premium
     *   0 votes
     *   0
 *   Old blogs and photos
     *   by Slickwitted917
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old blogs and photos
     *   by Slickwitted917
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -58,7 +58,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 (last comment by dark\_azn\_fairy 2 weeks ago)
 *   Can't find my page
     *   by razorblade\_tragedy88
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
