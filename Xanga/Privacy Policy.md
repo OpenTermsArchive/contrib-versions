@@ -2,33 +2,39 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Where’s my blogs?
+    *   by my\_own\_direction
+    *   4 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Blog does not appear
     *   by torn\_topieces
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I renewed my account May 23, 2019
     *   by Mr\_Turniphead
-    *   1 day ago
+    *   2 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   I renewed my account May 23, 2019
     *   by Mr\_Turniphead
-    *   1 day ago
+    *   2 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   I renewed my account May 23, 2019
     *   by Mr\_Turniphead
-    *   1 day ago
+    *   2 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   I renewed my account May 23, 2019
     *   by Mr\_Turniphead
-    *   1 day ago
+    *   2 days ago
     *   in Premium
     *   0 votes
     *   0
@@ -84,12 +90,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by iris\_yuki
     *   2 months ago
     *   in Data Migration
-    *   0 votes
-    *   0
-*   Please help to reactivate let me can see old posts
-    *   by natalie6791
-    *   2 months ago
-    *   in Themes
     *   0 votes
     *   0
 
