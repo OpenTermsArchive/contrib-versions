@@ -1,40 +1,46 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
 *   Where’s my blogs?
     *   by my\_own\_direction
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Blog does not appear
     *   by torn\_topieces
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I renewed my account May 23, 2019
     *   by Mr\_Turniphead
-    *   3 days ago
+    *   4 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   I renewed my account May 23, 2019
     *   by Mr\_Turniphead
-    *   3 days ago
+    *   4 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   I renewed my account May 23, 2019
     *   by Mr\_Turniphead
-    *   3 days ago
+    *   4 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   I renewed my account May 23, 2019
     *   by Mr\_Turniphead
-    *   3 days ago
+    *   4 days ago
     *   in Premium
     *   0 votes
     *   0
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
