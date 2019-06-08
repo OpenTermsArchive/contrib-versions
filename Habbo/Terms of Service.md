@@ -213,6 +213,8 @@ If you are accessing or using the Service through an Apple Device, the following
 
 If you have enabled GPS, geo-location or other location-based features on any mobile app(s) or feature(s), you acknowledge that your Device location may be tracked and may be shared with others consistent with the Service’s **Privacy Policy**. Some mobile app(s) or feature(s) allow for you to disable location-based features or manage preferences related to them.  However, you can terminate Device location tracking by us by disinstalling any mobile app(s) or feature(s).  The location-based services offered in connection with our mobile app(s) or feature(s) are for individual use only and should not be used or relied on as an emergency locator system, used while driving or operating vehicles, or used in connection with any hazardous environments requiring fail-safe performance, or any other situation in which the failure or inaccuracy of use of the location-based services could lead directly to death, personal injury, or severe physical or property damage.  The location-based services are not suited or intended for family finding purposes, fleet tracking, or any other type of business or enterprise use – other products exist today that may be used specifically for these purposes.
 
+VAT number FI20114339
+
 // End Terms //
 
 _© 2013 Sulake Oy.All Rights Reserved._
