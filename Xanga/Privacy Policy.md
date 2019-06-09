@@ -1,46 +1,46 @@
-Skip to toolbar
-
-*   Xanga
-
-*   Log In
-
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   I renewed my account May 23, 2019
+    *   by Mr\_Turniphead
+    *   5 days ago
+    *   in Miscellaenous
+    *   0 votes
+    *   2 (last comment by jadetseng 10 hours ago)
+*   Is Xanga still active?
+    *   by disunderstanded
+    *   2 years ago
+    *   in Premium
+    *   0 votes
+    *   2 (last comment by usalapinhazzer 21 hours ago)
 *   Where’s my blogs?
     *   by my\_own\_direction
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Blog does not appear
     *   by torn\_topieces
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I renewed my account May 23, 2019
     *   by Mr\_Turniphead
-    *   4 days ago
+    *   5 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   I renewed my account May 23, 2019
     *   by Mr\_Turniphead
-    *   4 days ago
+    *   5 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   I renewed my account May 23, 2019
     *   by Mr\_Turniphead
-    *   4 days ago
-    *   in Miscellaenous
-    *   0 votes
-    *   0
-*   I renewed my account May 23, 2019
-    *   by Mr\_Turniphead
-    *   4 days ago
+    *   5 days ago
     *   in Premium
     *   0 votes
     *   0
@@ -92,12 +92,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   1 (last comment by illbejustfinepretendingimnot 1 month ago)
-*   My Xanga Blog Doesn't appear
-    *   by iris\_yuki
-    *   2 months ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
 1 2 3 ... 193 Next
 
@@ -156,4 +150,8 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
+
+*   Xanga
+
+*   Log In
