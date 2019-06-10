@@ -1,46 +1,52 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
 *   I renewed my account May 23, 2019
     *   by Mr\_Turniphead
-    *   5 days ago
+    *   6 days ago
     *   in Miscellaenous
     *   0 votes
-    *   2 (last comment by jadetseng 10 hours ago)
+    *   2 (last comment by jadetseng 1 day ago)
 *   Is Xanga still active?
     *   by disunderstanded
     *   2 years ago
     *   in Premium
     *   0 votes
-    *   2 (last comment by usalapinhazzer 21 hours ago)
+    *   2 (last comment by usalapinhazzer 1 day ago)
 *   Where’s my blogs?
     *   by my\_own\_direction
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Blog does not appear
     *   by torn\_topieces
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I renewed my account May 23, 2019
     *   by Mr\_Turniphead
-    *   5 days ago
+    *   6 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   I renewed my account May 23, 2019
     *   by Mr\_Turniphead
-    *   5 days ago
+    *   6 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   I renewed my account May 23, 2019
     *   by Mr\_Turniphead
-    *   5 days ago
+    *   6 days ago
     *   in Premium
     *   0 votes
     *   0
@@ -67,7 +73,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 years ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by dark\_azn\_fairy 2 weeks ago)
+    *   2 (last comment by dark\_azn\_fairy 3 weeks ago)
 *   Can't find my page
     *   by razorblade\_tragedy88
     *   1 month ago
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
