@@ -1,4 +1,4 @@
-Microsoft Privacy StatementLast Updated: May 2019 What's new? Expand All Collapse AllPrint
+Microsoft Privacy StatementLast Updated: June 2019 What's new? Expand All Collapse AllPrint
 
 Your privacy is important to us. This privacy statement explains the personal data Microsoft processes, how Microsoft processes it, and for what purposes.
 
@@ -427,7 +427,7 @@ If you have a privacy concern, complaint, or question for the Microsoft Chief Pr
 Unless otherwise stated, Microsoft Corporation and, for those in the European Economic Area, the United Kingdom, and Switzerland, Microsoft Ireland Operations Limited are data controllers for personal data we collect through the products subject to this statement. Our addresses are:
 
 *   Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052, USA. Telephone: +1 (425) 882 8080.
-*   Microsoft Ireland Operations Limited, Attn: Data Protection Officer, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Ireland. Telephone: +353 (0) 1 295 3826.
+*   Microsoft Ireland Operations Limited, Attn: Data Protection Officer, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Ireland. Telephone: +353 1 706 3117.
 
 To find the Microsoft subsidiary in your country or region, see the list of Microsoft office locations around the world.
 
@@ -948,14 +948,14 @@ Entertainment and Related Services power rich experiences and enable you to acce
 
 Learn moreTop of page Xbox and Xbox LiveXbox and Xbox Live
 
-Xbox consoles are hardware devices that you can use to access and play games, movies, music, and other forms of digital entertainment. Xbox Live is the online gaming and entertainment service from Microsoft that enables you to find content and connect with friends, on Xbox Live and other gaming and social networks, from a variety of devices, including Xbox consoles.
+Xbox consoles are hardware devices that you can use to access and play games, movies, music, and other forms of digital entertainment. Xbox Live is the online gaming and entertainment service from Microsoft that enables you to find content and connect with friends, on Xbox Live and other gaming and social networks, from a variety of devices, including Xbox consoles, PCs and mobile devices.
 
 When you access an Xbox experience from a device, we assign you a unique device identifier. When your Xbox console is connected to the internet, we identify which console and which version of the Xbox operating system you are currently using. When you sign up for Xbox Live, we assign an Xbox user ID and a gamertag (a nickname) to identify you. Data we collect about your use of Xbox Live is stored with these unique identifier(s).
 
-We collect data about your use of Xbox and Xbox Live, such as:
+We collect data about your use of the Xbox console, Xbox App, and Xbox Live such as:
 
 *   When you sign in and sign out of Xbox Live, the games you play and apps you use, your game progress and play statistics, the purchases you make, and content you obtain.
-*   Performance data about Xbox consoles and Xbox Live, connected devices, and your network connection, including software or hardware errors.
+*   Performance data about Xbox consoles, Xbox App and Xbox Live, connected devices, and your network connection, including software or hardware errors.
 *   Content you add, upload, or share through Xbox Live, including text, images and video from within games or apps.
 *   Social activity, including your interactions with other gamers, and your connections, including friends and followers, on Xbox Live.
 *   If you use the Xbox console with Kinect, data about how you use Kinect. See below for more information about Kinect data collection.
@@ -963,11 +963,13 @@ We collect data about your use of Xbox and Xbox Live, such as:
 
 With your consent, we will collect information about videos you purchase or view through third-party apps on your Xbox console. If you use an Xbox console that includes a storage device (hard drive or memory unit), and if you play offline or have never signed in to Xbox Live on the console, usage data will be stored on the storage device and sent to Microsoft the next time you sign in.
 
-Microsoft uses the data we collect from Xbox and Xbox Live to provide you with Xbox experiences, which includes securing the services and carrying out the transactions you request. We also use the data to improve and develop our products. As part of the Xbox Live service, Microsoft will also use data about you and your use of Xbox Live (such as the games you play, apps you use, subscriptions you have, purchases you make, and content you obtain) to provide you with a personalized, highly curated gaming and entertainment experience. This includes connecting you to games, content, and services, as well as presenting you with offers, discounts, and recommendations.
+Microsoft uses the data we collect from your Xbox console, Xbox App, and Xbox Live to provide you with experiences, which includes securing the services and carrying out the transactions you request. In order to run our subscription services such as Game Pass, we collect certain data such as device information and game play statistics such as number of unique users and playtime per game.
+
+We also use the data to improve and develop our products. As part of the Xbox Live service, Microsoft will also use data about you and your use of Xbox Live (such as the games you play, apps you use, subscriptions you have, purchases you make, and content you obtain) to provide you with a personalized, highly curated gaming and entertainment experience. This includes connecting you to games, content, and services, as well as presenting you with offers, discounts, and recommendations.
 
 **Xbox Live data viewable by other users**. Your gamertag, game and play statistics, achievements, presence (whether you're currently signed in to Xbox Live), content you share, and other data about your activity on Xbox Live can be seen by other users on Xbox Live, users of third-party services you have linked your profile to, or on other properties associated with Xbox Live (including those of partner companies). For example, your gamertag and scores that show on game leaderboards are considered public and can't be hidden. For other data, like presence, you can adjust your privacy settings on the console or at xbox.com to limit or block sharing with the public or even with friends.
 
-**Xbox Live data shared with game or app publishers**. When you use an Xbox Live-enabled game or any network-connected app through your Xbox console, the publisher for that game or app has access to data about your usage of Xbox Live and its game or app so it may deliver and improve its product and provide support. This data may include your Xbox user ID and gamertag, limited account information such as country and age range, data about your in game communications, enforcement activity, game-play sessions (for example, moves made in-game, types of vehicles used in-game), your presence on Xbox Live, the time you spend playing the game or app, rankings, statistics, gamer profiles, avatars or gamerpics, friends lists, activity feed, club memberships, and content that you may create or submit within the game or app. Third-party game and app publishers are independent controllers of this data and its use is subject to their privacy policies. You should carefully review their policies to determine how they will use the data. For example, publishers may choose to disclose or display game data (such as on leaderboards) through their own services. To learn more about our data-sharing practices with third-party publishers, see Data Sharing with Games and Apps.
+**Xbox Live data shared with game or app publishers**. When you use an Xbox Live-enabled game or any network-connected app through your Xbox console, PC or mobile device, the publisher for that game or app has access to data about your usage of Xbox Live and its game or app so it may deliver and improve its product and provide support. This data may include your Xbox user ID and gamertag, limited account information such as country and age range, data about your in game communications, enforcement activity, game-play sessions (for example, moves made in-game, types of vehicles used in-game), your presence on Xbox Live, the time you spend playing the game or app, rankings, statistics, gamer profiles, avatars or gamerpics, friends lists, activity feed, club memberships, and content that you may create or submit within the game or app. Third-party game and app publishers are independent controllers of this data and its use is subject to their privacy policies. You should carefully review their policies to determine how they will use the data. For example, publishers may choose to disclose or display game data (such as on leaderboards) through their own services. To learn more about our data-sharing practices with third-party publishers, see Data Sharing with Games and Apps.
 
 **Linking your Xbox Live profile to non-Microsoft accounts**. Some games or apps available through Xbox Live, and some social features of Xbox Live, are delivered by third-party publishers or partner companies, which may require that you create a non-Microsoft account and sign-in credentials to use that game, app, or feature. If you choose to link your Xbox Live profile with an account of a third-party publisher or partner company, we will share with them limited account and profile information but will not include any credit card or other payment information.
 
@@ -993,10 +995,10 @@ To learn more about Kinect, for Xbox 360, see Kinect and Xbox 360 privacy. For X
 
 Top of page Microsoft StoreMicrosoft Store
 
-Microsoft Store is an online service that allows you to browse, download, purchase, rate, and review applications and other digital content. It includes:
+Microsoft Store is an online service, accessible via PC, the Xbox Console and the Xbox App, that allows you to browse, download, purchase, rate, and review applications and other digital content. It includes:
 
 *   Apps and content for Windows devices such as phones, PCs, and tablets.
-*   Games and other apps for Xbox consoles.
+*   Games, subscriptions and other apps for Xbox consoles and other devices.
 *   Products and apps for Office, SharePoint, Exchange, Access, and Project (2013 versions or later).
 
 We collect data about how you access and use Microsoft Store. the products you've viewed, purchased, or installed. the preferences you set for viewing apps in Microsoft Store. and any ratings, reviews, or problem reports you submit. Your Microsoft account is associated with your ratings and reviews. and if you write a review, the name and picture from your Microsoft account will be published with your review.
@@ -1516,7 +1518,7 @@ If you have a privacy concern, complaint, or question for the Microsoft Chief Pr
 Unless otherwise stated, Microsoft Corporation and, for those in the European Economic Area, the United Kingdom, and Switzerland, Microsoft Ireland Operations Limited are data controllers for personal data we collect through the products subject to this statement. Our addresses are:
 
 *   Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052, USA. Telephone: +1 (425) 882 8080.
-*   Microsoft Ireland Operations Limited, Attn: Data Protection Officer, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Ireland. Telephone: +353 (0) 1 295 3826.
+*   Microsoft Ireland Operations Limited, Attn: Data Protection Officer, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Ireland. Telephone: +353 1 706 3117.
 
 To find the Microsoft subsidiary in your country or region, see the list of Microsoft office locations around the world.
 
@@ -2037,14 +2039,14 @@ Entertainment and Related Services power rich experiences and enable you to acce
 
 Xbox and Xbox LiveXbox and Xbox LivemainxboxmoduleSummary
 
-Xbox consoles are hardware devices that you can use to access and play games, movies, music, and other forms of digital entertainment. Xbox Live is the online gaming and entertainment service from Microsoft that enables you to find content and connect with friends, on Xbox Live and other gaming and social networks, from a variety of devices, including Xbox consoles.
+Xbox consoles are hardware devices that you can use to access and play games, movies, music, and other forms of digital entertainment. Xbox Live is the online gaming and entertainment service from Microsoft that enables you to find content and connect with friends, on Xbox Live and other gaming and social networks, from a variety of devices, including Xbox consoles, PCs and mobile devices.
 
 When you access an Xbox experience from a device, we assign you a unique device identifier. When your Xbox console is connected to the internet, we identify which console and which version of the Xbox operating system you are currently using. When you sign up for Xbox Live, we assign an Xbox user ID and a gamertag (a nickname) to identify you. Data we collect about your use of Xbox Live is stored with these unique identifier(s).
 
-We collect data about your use of Xbox and Xbox Live, such as:
+We collect data about your use of the Xbox console, Xbox App, and Xbox Live such as:
 
 *   When you sign in and sign out of Xbox Live, the games you play and apps you use, your game progress and play statistics, the purchases you make, and content you obtain.
-*   Performance data about Xbox consoles and Xbox Live, connected devices, and your network connection, including software or hardware errors.
+*   Performance data about Xbox consoles, Xbox App and Xbox Live, connected devices, and your network connection, including software or hardware errors.
 *   Content you add, upload, or share through Xbox Live, including text, images and video from within games or apps.
 *   Social activity, including your interactions with other gamers, and your connections, including friends and followers, on Xbox Live.
 *   If you use the Xbox console with Kinect, data about how you use Kinect. See below for more information about Kinect data collection.
@@ -2052,11 +2054,13 @@ We collect data about your use of Xbox and Xbox Live, such as:
 
 With your consent, we will collect information about videos you purchase or view through third-party apps on your Xbox console. If you use an Xbox console that includes a storage device (hard drive or memory unit), and if you play offline or have never signed in to Xbox Live on the console, usage data will be stored on the storage device and sent to Microsoft the next time you sign in.
 
-Microsoft uses the data we collect from Xbox and Xbox Live to provide you with Xbox experiences, which includes securing the services and carrying out the transactions you request. We also use the data to improve and develop our products. As part of the Xbox Live service, Microsoft will also use data about you and your use of Xbox Live (such as the games you play, apps you use, subscriptions you have, purchases you make, and content you obtain) to provide you with a personalized, highly curated gaming and entertainment experience. This includes connecting you to games, content, and services, as well as presenting you with offers, discounts, and recommendations.
+Microsoft uses the data we collect from your Xbox console, Xbox App, and Xbox Live to provide you with experiences, which includes securing the services and carrying out the transactions you request. In order to run our subscription services such as Game Pass, we collect certain data such as device information and game play statistics such as number of unique users and playtime per game.
+
+We also use the data to improve and develop our products. As part of the Xbox Live service, Microsoft will also use data about you and your use of Xbox Live (such as the games you play, apps you use, subscriptions you have, purchases you make, and content you obtain) to provide you with a personalized, highly curated gaming and entertainment experience. This includes connecting you to games, content, and services, as well as presenting you with offers, discounts, and recommendations.
 
 **Xbox Live data viewable by other users**. Your gamertag, game and play statistics, achievements, presence (whether you're currently signed in to Xbox Live), content you share, and other data about your activity on Xbox Live can be seen by other users on Xbox Live, users of third-party services you have linked your profile to, or on other properties associated with Xbox Live (including those of partner companies). For example, your gamertag and scores that show on game leaderboards are considered public and can't be hidden. For other data, like presence, you can adjust your privacy settings on the console or at xbox.com to limit or block sharing with the public or even with friends.
 
-**Xbox Live data shared with game or app publishers**. When you use an Xbox Live-enabled game or any network-connected app through your Xbox console, the publisher for that game or app has access to data about your usage of Xbox Live and its game or app so it may deliver and improve its product and provide support. This data may include your Xbox user ID and gamertag, limited account information such as country and age range, data about your in game communications, enforcement activity, game-play sessions (for example, moves made in-game, types of vehicles used in-game), your presence on Xbox Live, the time you spend playing the game or app, rankings, statistics, gamer profiles, avatars or gamerpics, friends lists, activity feed, club memberships, and content that you may create or submit within the game or app. Third-party game and app publishers are independent controllers of this data and its use is subject to their privacy policies. You should carefully review their policies to determine how they will use the data. For example, publishers may choose to disclose or display game data (such as on leaderboards) through their own services. To learn more about our data-sharing practices with third-party publishers, see Data Sharing with Games and Apps.
+**Xbox Live data shared with game or app publishers**. When you use an Xbox Live-enabled game or any network-connected app through your Xbox console, PC or mobile device, the publisher for that game or app has access to data about your usage of Xbox Live and its game or app so it may deliver and improve its product and provide support. This data may include your Xbox user ID and gamertag, limited account information such as country and age range, data about your in game communications, enforcement activity, game-play sessions (for example, moves made in-game, types of vehicles used in-game), your presence on Xbox Live, the time you spend playing the game or app, rankings, statistics, gamer profiles, avatars or gamerpics, friends lists, activity feed, club memberships, and content that you may create or submit within the game or app. Third-party game and app publishers are independent controllers of this data and its use is subject to their privacy policies. You should carefully review their policies to determine how they will use the data. For example, publishers may choose to disclose or display game data (such as on leaderboards) through their own services. To learn more about our data-sharing practices with third-party publishers, see Data Sharing with Games and Apps.
 
 **Linking your Xbox Live profile to non-Microsoft accounts**. Some games or apps available through Xbox Live, and some social features of Xbox Live, are delivered by third-party publishers or partner companies, which may require that you create a non-Microsoft account and sign-in credentials to use that game, app, or feature. If you choose to link your Xbox Live profile with an account of a third-party publisher or partner company, we will share with them limited account and profile information but will not include any credit card or other payment information.
 
@@ -2082,10 +2086,10 @@ To learn more about Kinect, for Xbox 360, see Kinect and Xbox 360 privacy. For X
 
 Microsoft StoreMicrosoft StoremainwindowsstoremoduleSummary
 
-Microsoft Store is an online service that allows you to browse, download, purchase, rate, and review applications and other digital content. It includes:
+Microsoft Store is an online service, accessible via PC, the Xbox Console and the Xbox App, that allows you to browse, download, purchase, rate, and review applications and other digital content. It includes:
 
 *   Apps and content for Windows devices such as phones, PCs, and tablets.
-*   Games and other apps for Xbox consoles.
+*   Games, subscriptions and other apps for Xbox consoles and other devices.
 *   Products and apps for Office, SharePoint, Exchange, Access, and Project (2013 versions or later).
 
 We collect data about how you access and use Microsoft Store. the products you've viewed, purchased, or installed. the preferences you set for viewing apps in Microsoft Store. and any ratings, reviews, or problem reports you submit. Your Microsoft account is associated with your ratings and reviews. and if you write a review, the name and picture from your Microsoft account will be published with your review.
