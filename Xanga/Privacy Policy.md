@@ -10,43 +10,43 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   I renewed my account May 23, 2019
     *   by Mr\_Turniphead
-    *   6 days ago
+    *   1 week ago
     *   in Miscellaenous
     *   0 votes
-    *   2 (last comment by jadetseng 1 day ago)
+    *   2 (last comment by jadetseng 2 days ago)
 *   Is Xanga still active?
     *   by disunderstanded
     *   2 years ago
     *   in Premium
     *   0 votes
-    *   2 (last comment by usalapinhazzer 1 day ago)
+    *   2 (last comment by usalapinhazzer 2 days ago)
 *   Where’s my blogs?
     *   by my\_own\_direction
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Blog does not appear
     *   by torn\_topieces
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   I renewed my account May 23, 2019
     *   by Mr\_Turniphead
-    *   6 days ago
+    *   1 week ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   I renewed my account May 23, 2019
     *   by Mr\_Turniphead
-    *   6 days ago
+    *   1 week ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   I renewed my account May 23, 2019
     *   by Mr\_Turniphead
-    *   6 days ago
+    *   1 week ago
     *   in Premium
     *   0 votes
     *   0
