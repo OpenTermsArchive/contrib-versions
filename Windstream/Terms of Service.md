@@ -52,8 +52,8 @@
 Terms and Conditions Windstream Information ▼ About us
 
 *   Windstream Information▼
-    *   Company Overview
     *   Company History
+    *   Company Overview
     *   Tariffs
     *   Coverage Map
     *   Lifeline Assistance Program
@@ -68,12 +68,9 @@ Terms and Conditions Windstream Information ▼ About us
     *   Supplier Diversity
     *   Supplier Code of Ethics
 *   PAETEC Information▼
-    *   PAETEC Interstate and International Telecommunications Rates
-    *   PAETEC Service Charges and Surcharges Glossary
     *   PAETEC Tariffs
     *   PAETEC Terms and Conditions
     *   Protecting CPNI: Your Rights and Opinions
-    *   PAETEC Service Charges and Surcharges Description
     *   Terms and Conditions for McLeodUSA Communications' Customers
 *   MassComm Information▼
     *   MassComm Tariffs
@@ -645,9 +642,9 @@ Residential Business Enterprise FIND US ON Twitter Facebook
 
 Copyright © 2019 Windstream Communications. All rights reserved.
 
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1819151935020592&amp;ev=PageView&amp;noscript=1">. Windstream Virtual Agent Wendy:   
+Windstream Virtual Agent Wendy:   
 Hello, I am Wendy, Windstream’s Virtual Agent. What can I help you with?  
 Service Availability  
 Plan Pricing  
 Internet speeds in my area Ask Wendy your question ASK Thanks for helping us improve!  
-Please take a few moments to complete the survey below. Print Email Text Size
+Please take a few moments to complete the survey below. Print Email Text Size <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1819151935020592&amp;ev=PageView&amp;noscript=1">.
