@@ -179,12 +179,13 @@ Evernote Corporation
 Redwood City, California 94063 USA  
 Attention: Legal Notice
 
- Evernote GmbH  
-Walchestrasse 9  
-8006 Zurich, Switzerland  
+Evernote GmbH  
+c/o Centralis Switzerland GmbH  
+Dufourstrasse 101  
+8008 Zürich, Switzerland  
 Attention: Legal Notice
 
- Evernote Do Brasil Serviços De  
+Evernote Do Brasil Serviços De  
 Aplicações Ltda  
 Federal Taxpayer Registration CNPJ/MF no 17.566.240/0001-50  
 Avenida Paulista, no 2.300  
