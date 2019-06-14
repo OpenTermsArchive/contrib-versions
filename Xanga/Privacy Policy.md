@@ -13,13 +13,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Miscellaenous
     *   0 votes
-    *   2 (last comment by jadetseng 4 days ago)
+    *   2 (last comment by jadetseng 5 days ago)
 *   Is Xanga still active?
     *   by disunderstanded
     *   2 years ago
     *   in Premium
     *   0 votes
-    *   2 (last comment by usalapinhazzer 4 days ago)
+    *   2 (last comment by usalapinhazzer 5 days ago)
 *   Where’s my blogs?
     *   by my\_own\_direction
     *   1 week ago
@@ -64,7 +64,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   pulling up old blogs
     *   by PiMpiNpNoY13
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
