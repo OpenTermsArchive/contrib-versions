@@ -8,18 +8,24 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Recover my old blog entries
+    *   by here\_bizzy\_bizzy\_bizzy
+    *   7 hours ago
+    *   in Adding &. Editing Entries
+    *   0 votes
+    *   0
 *   I renewed my account May 23, 2019
     *   by Mr\_Turniphead
     *   1 week ago
     *   in Miscellaenous
     *   0 votes
-    *   2 (last comment by jadetseng 5 days ago)
+    *   2 (last comment by jadetseng 6 days ago)
 *   Is Xanga still active?
     *   by disunderstanded
     *   2 years ago
     *   in Premium
     *   0 votes
-    *   2 (last comment by usalapinhazzer 5 days ago)
+    *   2 (last comment by usalapinhazzer 6 days ago)
 *   Where’s my blogs?
     *   by my\_own\_direction
     *   1 week ago
@@ -92,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   site disaapear
-    *   by lingling\_1113
-    *   2 months ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by illbejustfinepretendingimnot 1 month ago)
 
 1 2 3 ... 193 Next
 
