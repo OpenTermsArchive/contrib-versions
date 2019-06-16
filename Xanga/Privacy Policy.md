@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Recover my old blog entries
     *   by here\_bizzy\_bizzy\_bizzy
-    *   7 hours ago
+    *   1 day ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
@@ -19,13 +19,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Miscellaenous
     *   0 votes
-    *   2 (last comment by jadetseng 6 days ago)
+    *   2 (last comment by jadetseng 1 week ago)
 *   Is Xanga still active?
     *   by disunderstanded
     *   2 years ago
     *   in Premium
     *   0 votes
-    *   2 (last comment by usalapinhazzer 6 days ago)
+    *   2 (last comment by usalapinhazzer 1 week ago)
 *   Where’s my blogs?
     *   by my\_own\_direction
     *   1 week ago
