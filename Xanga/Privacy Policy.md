@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Recover my old blog entries
     *   by here\_bizzy\_bizzy\_bizzy
-    *   1 day ago
+    *   2 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
@@ -79,7 +79,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 years ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by dark\_azn\_fairy 3 weeks ago)
+    *   2 (last comment by dark\_azn\_fairy 4 weeks ago)
 *   Can't find my page
     *   by razorblade\_tragedy88
     *   1 month ago
@@ -94,7 +94,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   help find archive
     *   by illbejustfinepretendingimnot
-    *   1 month ago
+    *   2 months ago
     *   in Data Migration
     *   0 votes
     *   0
