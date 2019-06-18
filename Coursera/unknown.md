@@ -1,4 +1,4 @@
-Privacy PolicyCookies PolicyTerms of UseCookies Policy
+Cookies Policy
 
 Effective: May 15, 2018
 
@@ -8,7 +8,7 @@ Our Cookies Policy explains what cookies are, how we use cookies, how third-part
 
 What are cookies
 
-Cookies are small pieces of text sent by your web browser by a website you visit. A cookie file is stored in your web browser and allows the Site or a third-party to recognize you and make your next visit easier and the Site more useful to you. Essentially, cookies are a user’s identification card for the Coursera servers. Web beacons are small graphic files linked to our servers that allow us to track your use of our Site and related functionalities. Cookies and web beacons allow Coursera to serve you better and more efficiently, and to personalize your experience on our Site.
+Cookies are small pieces of text sent by your web browser by a website you visit. A cookie file is stored in your web browser and allows the Site or a third-party to recognize you and make your next visit easier and the Site more useful to you. Essentially, cookies are a user’s identification card for the Coursera servers. Web beacons are small graphic files linked to our servers that allow us to track your use of our Site and related functionalities. Cookies and web beacons allow Coursera to serve you better and more efficiently,and to personalize your experience on our Site.
 
 Cookies can be "persistent" or "session" cookies.
 
