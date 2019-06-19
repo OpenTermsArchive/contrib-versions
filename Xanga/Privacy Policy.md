@@ -1,10 +1,16 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
 *   Recover my old blog entries
     *   by here\_bizzy\_bizzy\_bizzy
-    *   3 days ago
+    *   4 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
@@ -52,13 +58,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Old blogs and photos
     *   by Slickwitted917
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old blogs and photos
     *   by Slickwitted917
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -73,7 +79,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 years ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by dark\_azn\_fairy 4 weeks ago)
+    *   2 (last comment by dark\_azn\_fairy 1 month ago)
 *   Can't find my page
     *   by razorblade\_tragedy88
     *   1 month ago
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
