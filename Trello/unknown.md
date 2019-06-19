@@ -1,6 +1,6 @@
 Data and Encryption Policies Certifications and Assessments
 
-Trello, Inc. (“we”, “us” or “our”) is SOC2 Type 1 certified—we receive and review our data hosting providers’ SOC1 and SOC2 reports every 6 months under NDA. Trello is PCI-DSS certified and complies with Privacy Shield.
+Trello, Inc. (“we”, “us” or “our”) is SOC2 Type 2 certified—we receive and review our data hosting providers’ SOC1 and SOC2 reports every 6 months under NDA. Trello is ISO/IEC 27001 certified which validates our information security management system (ISMS) and the implementation of our security controls. More information is available on the Atlassian Trust Management System. Trello is PCI-DSS certified and complies with Privacy Shield.
 
 Vulnerability Detection and Bug Bounty Program
 
