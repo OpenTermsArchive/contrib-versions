@@ -8,7 +8,7 @@ Please read the product-specific details in this privacy statement, which provid
 
 The most recent version of this privacy statement can be found at aka.ms/privacy.
 
-Personal data we collectHow we use personal dataReasons we share personal dataHow to access and control your personal dataCookies and similar technologiesProducts provided by your organization—notice to end usersMicrosoft accountOther important privacy information Security of personal dataWhere we store and process personal dataOur retention of personal dataAdvertisingCollection of data from childrenPreview or free-of-charge releasesChanges to this privacy statementHow to contact usProduct-specific details:Enterprise and developer products Enterprise online servicesEnterprise and developer software and appliancesProductivity and communications products OfficeOneDriveOutlookSkypeLinkedInSearch and artificial intelligence BingCortanaMicrosoft TranslatorSwiftKeyWindows ActivationActivity historyAdvertising IDDiagnosticsFeedback HubLocation services, motion sensing, and recordingSecurity and safety featuresSpeech, Voice Activation, Inking, and TypingSync settingsUpdate ServicesWeb browsers—Microsoft Edge and Internet ExplorerWindows appsWindows Media PlayerWindows HelloWindows SearchYour PhoneEntertainment and related services Xbox and Xbox LiveMicrosoft StoreMSNMixerGroove Music and Movies &. TVSilverlightMicrosoft Health services Health servicesHealthVaultCookies
+Personal data we collectHow we use personal dataReasons we share personal dataHow to access and control your personal dataCookies and similar technologiesProducts provided by your organization—notice to end usersMicrosoft accountOther important privacy information Security of personal dataWhere we store and process personal dataOur retention of personal dataAdvertisingCollection of data from childrenPreview or free-of-charge releasesChanges to this privacy statementHow to contact usEnterprise and developer products Enterprise online servicesEnterprise and developer software and appliancesProductivity and communications products OfficeOneDriveOutlookSkypeLinkedInSearch and artificial intelligence BingCortanaMicrosoft TranslatorSwiftKeyWindows ActivationActivity historyAdvertising IDDiagnosticsFeedback HubLocation services, motion sensing, and recordingSecurity and safety featuresSpeech, Voice Activation, Inking, and TypingSync settingsUpdate ServicesWeb browsers—Microsoft Edge and Internet ExplorerWindows appsWindows Media PlayerWindows HelloWindows SearchYour PhoneEntertainment and related services Xbox and Xbox LiveMicrosoft StoreMSNMixerGroove Music and Movies &. TVSilverlightMicrosoft Health services Health servicesHealthVaultCookies
 
 Most Microsoft sites use cookies, small text files placed on your device which web servers in the domain that placed the cookie can retrieve later. We use cookies to store your preferences and settings, help with sign-in, provide targeted ads, and analyze site operations. For more information, see the Cookies and similar technologies section of this privacy statement.
 
@@ -26,7 +26,7 @@ Microsoft collects data from you, through our interactions with you and through 
 
 If you represent an organization, such as a business or school, that utilizes Enterprise and Developer Products from Microsoft, please see the Enterprise and developer products section of this privacy statement to learn how we process your data. If you are an end user of a Microsoft product or a Microsoft account provided by your organization, please see the Products provided by your organization and the Microsoft account sections for more information.
 
-You have choices when it comes to the technology you use and the data you share. When we ask you to provide personal data, you can decline. Many of our products require some personal data to provide you with a service. If you choose not to provide data necessary to provide you with a product or feature, you cannot use that product or feature. Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract. or if this relates to an existing product you’re using, we may have to suspend or cancel it. We will notify you if this is the case at the time. Where providing the data is optional, and you choose not to share personal data, features like personalization that use such data will not work for you.
+You have choices when it comes to the technology you use and the data you share. When we ask you to provide personal data, you can decline. Many of our products require some personal data to provide you with a service. If you choose not to provide data required to provide you with a product or feature, you cannot use that product or feature. Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract. or if this relates to an existing product you’re using, we may have to suspend or cancel it. We will notify you if this is the case at the time. Where providing the data is optional, and you choose not to share personal data, features like personalization that use such data will not work for you.
 
 Microsoft collects data from you, through our interactions with you and through our products for a variety of purposes described below, including to operate effectively and provide you with the best experiences with our products. You provide some of this data directly, such as when you create a Microsoft account, administer your organization’s licensing account, submit a search query to Bing, register for a Microsoft event, speak a voice command to Cortana, upload a document to OneDrive, purchase an MSDN subscription, sign up for Office 365, or contact us for support. We get some of it by collecting data about your interactions, use, and experience with our products and communications.
 
@@ -45,7 +45,7 @@ We also obtain data from third parties. We protect data obtained from third part
 
 If you represent an organization, such as a business or school, that utilizes Enterprise and Developer Products from Microsoft, please see the Enterprise and developer products section of this privacy statement to learn how we process your data. If you are an end user of a Microsoft product or a Microsoft account provided by your organization, please see the Products provided by your organization and the Microsoft account sections for more information.
 
-You have choices when it comes to the technology you use and the data you share. When you are asked to provide personal data, you can decline. Many of our products require some personal data to operate and provide you with a service. If you choose not to provide data necessary to operate and provide you with a product or feature, you cannot use that product or feature. Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract. or if this relates to an existing product you’re using, we may have to suspend or cancel it. We will notify you if this is the case at the time. Where providing the data is optional, and you choose not to share personal data, features like personalization that use the data will not work for you.
+You have choices when it comes to the technology you use and the data you share. When you are asked to provide personal data, you can decline. Many of our products require some personal data to operate and provide you with a service. If you choose not to provide data required to operate and provide you with a product or feature, you cannot use that product or feature. Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract. or if this relates to an existing product you’re using, we may have to suspend or cancel it. We will notify you if this is the case at the time. Where providing the data is optional, and you choose not to share personal data, features like personalization that use the data will not work for you.
 
 **_The data we collect depends on the context of your interactions with Microsoft and the choices you make (including your privacy settings), the products and features you use, your location, and applicable law_** .
 
@@ -92,7 +92,7 @@ The data we collect can include the following:
 
 Product-specific sections below describe data collection practices applicable to use of those products.
 
-Learn moreTop of page How we use personal dataHow we use personal data
+Learn MoreTop of page How we use personal dataHow we use personal data
 
 Microsoft uses the data we collect to provide you with rich, interactive experiences. In particular, we use data to:
 
@@ -116,7 +116,7 @@ We also use the data to operate our business, which includes analyzing our perfo
 
 For these purposes, we combine data we collect from different contexts (for example, from your use of two Microsoft products). For example, Cortana uses the favorite sports teams you add to the Microsoft Sports app to provide information relevant to your interests, and Microsoft Store uses information about the apps and services you use to make personalized app recommendations. However, we have built in technological and procedural safeguards designed to prevent certain data combinations where required by law. For example, where required by law, we store data we collect from you when you are unauthenticated (not signed in) separately from any account information that directly identifies you, such as your name, email address, or phone number.
 
-When we process personal data about you, we do so with your consent and/or as necessary to provide the products you use, operate our business, meet our contractual and legal obligations, protect the security of our systems and our customers, or fulfill other legitimate interests of Microsoft as described in this section and in the Reasons we share personal data section of this privacy statement. When we transfer personal data from the European Economic Area, we do so based on a variety of legal mechanisms, as described in the Where we store and process personal data section of this privacy statement.
+When we process personal data about you, we do so with your consent and/or as required to provide the products you use, operate our business, meet our contractual and legal obligations, protect the security of our systems and our customers, or fulfill other legitimate interests of Microsoft as described in this section and in the Reasons we share personal data section of this privacy statement. When we transfer personal data from the European Economic Area, we do so based on a variety of legal mechanisms, as described in the Where we store and process personal data section of this privacy statement.
 
 **More on the purposes of processing:**
 
@@ -138,7 +138,7 @@ When we process personal data about you, we do so with your consent and/or as ne
 *   **Legal compliance.** We process data to comply with law. For example, we use the age of our customers to ensure we meet our obligations to protect children’s privacy. We also process contact information and credentials to help customers exercise their data protection rights.
 *   **Research.** With appropriate technical and organizational measures to safeguard individuals’ rights and freedoms, we use data to conduct research, including for public interest and scientific purposes.
 
-Learn moreTop of page Reasons we share personal dataReasons we share personal data
+Learn MoreTop of page Reasons we share personal dataReasons we share personal data
 
 We share your personal data with your consent or to complete any transaction or provide any product you have requested or authorized. We also share data with Microsoft-controlled affiliates and subsidiaries. with vendors working on our behalf. when required by law or to respond to legal process. to protect our customers. to protect lives. to maintain the security of our products. and to protect the rights and property of Microsoft and its customers.
 
@@ -157,7 +157,7 @@ For more information about data we disclose in response to requests from law enf
 
 Please note that some of our products include links to or otherwise enable you to access products of third parties whose privacy practices differ from those of Microsoft. If you provide personal data to any of those products, your data is governed by their privacy policies.
 
-Learn moreTop of page How to access and control your personal dataHow to access and control your personal data
+Learn MoreTop of page How to access and control your personal dataHow to access and control your personal data
 
 You can also make choices about the collection and use of your data by Microsoft. You can control your personal data that Microsoft has obtained, and exercise your data protection rights, by contacting Microsoft or using various tools we provide. In some cases, your ability to access or control your personal data will be limited, as required or permitted by applicable law. How you can access or control your personal data will also depend on which products you use. For example, you can:
 
@@ -208,7 +208,7 @@ You can also link your opt-out choice with your personal Microsoft account. It w
 
 For Microsoft-controlled advertising that appears in apps on Windows, you may use the opt-out linked to your personal Microsoft account, or opt out of interest-based advertising by turning off the advertising ID in Windows settings.
 
-Because the data used for interest-based advertising is also used for other necessary purposes (including providing our products, analytics, and fraud detection), opting out of interest-based advertising does not stop that data collection. You will continue to get ads, although they may be less relevant to you.
+Because the data used for interest-based advertising is also used for other required purposes (including providing our products, analytics, and fraud detection), opting out of interest-based advertising does not stop that data collection. You will continue to get ads, although they may be less relevant to you.
 
 You can opt out of receiving interest-based advertising from third parties we partner with by visiting their sites (see above).
 
@@ -220,7 +220,7 @@ When you use a browser, you can control your personal data using certain feature
 *   **Tracking protection**. You can control the data third-party sites can collect about you using Tracking Protection in Internet Explorer (versions 9 and up). This feature will block third-party content, including cookies, from any site that is listed in a Tracking Protection List you add.
 *   **Browser controls for "Do Not Track."** Some browsers have incorporated "Do Not Track" (DNT) features that can send a signal to the websites you visit indicating you do not wish to be tracked. Because there is not yet a common understanding of how to interpret the DNT signal, Microsoft services do not currently respond to browser DNT signals. We continue to work with the online industry to define a common understanding of how to treat DNT signals. In the meantime, you can use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving interest-based advertising from Microsoft as described above.
 
-Learn moreTop of page Cookies and similar technologiesCookies and similar technologies
+Learn MoreTop of page Cookies and similar technologiesCookies and similar technologies
 
 Cookies are small text files placed on your device to store data that can be recalled by a web server in the domain that placed the cookie. We use cookies and similar technologies for storing and honoring your preferences and settings, enabling you to sign in, providing interest-based advertising, combating fraud, analyzing how our products perform, and fulfilling other legitimate purposes. Microsoft apps use additional identifiers, such as the advertising ID in Windows described in the Advertising ID section of this privacy statement, for similar purposes.
 
@@ -289,7 +289,7 @@ In addition to standard cookies and web beacons, our products can also use other
 
 **Silverlight Application Storage**. Websites or applications that use Microsoft Silverlight technology also have the ability to store data by using Silverlight Application Storage. To learn how to manage or block such storage, see the Silverlight section of this privacy statement.
 
-Learn moreTop of page Products provided by your organization—notice to end usersProducts provided by your organization—notice to end users
+Learn MoreTop of page Products provided by your organization—notice to end usersProducts provided by your organization—notice to end users
 
 If you use a Microsoft product or use an email address to access Microsoft products and that product or email address was provided by an organization you are affiliated with, such as an employer or school, that organization can:
 
@@ -339,11 +339,11 @@ If you sign in to Microsoft products with a work or school account, note:
 
 **Third-party accounts**. The data associated with a third-party Microsoft account, and how it will be used, is generally similar to the use and collection of data associated with a personal Microsoft account. Your service provider has control over your account, including the ability to access or delete your account. **You should carefully review the terms the third party provided you to understand what it can do with your account.**
 
-Learn moreTop of page Other important privacy informationOther important privacy information
+Learn MoreTop of page Other important privacy informationOther important privacy information
 
 Below you will find additional privacy information, such as how we secure your data, where we process your data, and how long we retain your data. You can find more information on Microsoft and our commitment to protecting your privacy at Microsoft Privacy.
 
-Learn moreTop of page Security of personal dataSecurity of personal data
+Learn MoreTop of page Security of personal dataSecurity of personal data
 
 Microsoft is committed to protecting the security of your personal data. We use a variety of security technologies and procedures to help protect your personal data from unauthorized access, use, or disclosure. For example, we store the personal data you provide on computer systems that have limited access and are in controlled facilities. When we transmit highly confidential data (such as a credit card number or password) over the internet, we protect it through the use of encryption. Microsoft complies with applicable data protection laws, including applicable security breach notification laws.
 
@@ -400,7 +400,7 @@ Further details regarding our advertising-related uses of data include:
 
 Top of page Collection of data from childrenCollection of data from children
 
-When a Microsoft product collects age, and there is an age in your jurisdiction under which parental consent or authorization is required to use the product, the product will either block users under that age or will ask them to provide consent or authorization from a parent or guardian before they can use it. We will not knowingly ask children under that age to provide more data than is necessary to provide for the product.
+When a Microsoft product collects age, and there is an age in your jurisdiction under which parental consent or authorization is required to use the product, the product will either block users under that age or will ask them to provide consent or authorization from a parent or guardian before they can use it. We will not knowingly ask children under that age to provide more data than is required to provide for the product.
 
 Once parental consent or authorization is granted, the child's account is treated much like any other account. The child can access communication services, like Outlook and Skype, and can freely communicate and share data with other users of all ages.
 
@@ -435,7 +435,7 @@ Where French law applies, you can also send us specific instructions regarding t
 
 If you have a technical or support question, please visit Microsoft Support to learn more about Microsoft Support offerings. If you have a personal Microsoft account password question, please visit Microsoft account support.
 
-Top of page Product-specific details:Enterprise and developer productsEnterprise and developer products
+Top of page Enterprise and developer productsEnterprise and developer products
 
 Enterprise and Developer Products are Microsoft products and related software offered to and designed primarily for use by organizations and developers. They include:
 
@@ -461,7 +461,7 @@ If any of the terms below are not defined in this Privacy Statement or the OST, 
 
 The Enterprise and Developer Products enable you to purchase, subscribe to, or use other products and online services from Microsoft or third parties with different privacy practices, and those other products and online services are governed by their respective privacy statements and policies.
 
-Learn moreTop of page Enterprise online servicesEnterprise online services
+Learn MoreTop of page Enterprise online servicesEnterprise online services
 
 To provide the Enterprise Online Services, Microsoft collects Customer Data, Administrator Data, Payment Data, and Support Data.
 
@@ -493,7 +493,7 @@ Top of page Productivity and communications productsProductivity and communicati
 
 Productivity and communications products are applications, software, and services you can use to create, store, and share documents, as well as communicate with others.
 
-Learn moreTop of page OfficeOffice
+Learn MoreTop of page OfficeOffice
 
 Office is a collection of productivity services and applications including Word, Excel, PowerPoint, and Outlook, among others. For more details about Outlook, see the Outlook section of this privacy statement. Office is a service that is comprised of client software applications and connected online services that span many platforms and have numerous interdependent experiences. Various Office services enable you to use your file content for designs and recommendations, collaborate with others within your documents, and provide you functionality from other Microsoft products, such as Bing and Cortana, and third-party connected products. If you work in an organization, your administrator may turn off or disable these connected services. Prior to Office 365 version 1904, you can change your privacy settings in the Privacy Options of the Microsoft Office Trust Center. For more information, see View my options and settings in the Microsoft Office Trust Center. Starting with Version 1904 of Office 365, you can access new, updated, and improved privacy controls by selecting **File** >. **Account** >. **Account Privacy**. See Account Privacy Settings for more information.
 
@@ -503,6 +503,8 @@ Office is a collection of productivity services and applications including Word,
 
 **Click-to-Run Update Service**. The Click-to-Run Update Service allows you to install certain Microsoft Office products over the internet. The Click-to-Run Update Service also automatically detects online updates to Click-to-Run-enabled products on your device and downloads and installs them automatically.
 
+**Office Translator**. Office Translator is designed as a no-trace connected experience. With no trace, no portion of your translation request that Office sends to Microsoft Translator will be logged, your submitted text will not be used to improve the quality of the Microsoft Translator service, and there will not be any record of any portion of your data retained by Microsoft.
+
 **Diagnostic Data**. Diagnostic data is used to (i) keep Office secure and up to date. (ii) detect, diagnose, and remediate problems. and (iii) make product improvements. This data does not include a user's name or email address, the content of the user's files, or information about apps unrelated to Office. Users have a choice between two different levels of diagnostic data collection, Required and Optional.
 
 *   **Required**. The minimum data necessary to help keep Office secure, up to date, and performing as expected on the device it's installed on.
@@ -510,7 +512,7 @@ Office is a collection of productivity services and applications including Word,
 
 See Diagnostic Data in Office for more information.
 
-**Connected Experiences**. Office continues to provide more experiences in client applications that are connected to and backed by cloud-based services. In order to ensure that all these connected experiences will be reliable, up to date, remain secure, and perform as expected, necessary service data may be collected whenever you use a connected experience.
+**Connected Experiences**. Office continues to provide more experiences in client applications that are connected to and backed by cloud-based services. In order to ensure that all these connected experiences will be reliable, up to date, remain secure, and perform as expected, required service data may be collected whenever you use a connected experience.
 
 Office consists of client software applications and connected experiences designed to enable you to create, communicate, and collaborate more effectively. Working with others on a document stored on OneDrive for Business or translating the contents of a Word document into a different language are examples of connected experiences. There are two types of connected experiences.
 
@@ -523,25 +525,25 @@ Starting with Version 1904 of Office 365, you can access new, updated, and impro
 
 If you choose to disable certain types of connected experiences, either the ribbon or menu command for those connected experiences will be grayed out or you will get an error message when you try to use those connected experiences.
 
-There are a set of services that are essential to how Office functions and cannot be disabled. For example, the licensing service that confirms that you are properly licensed to use Office is essential. Necessary service data about these services is collected and sent to Microsoft, regardless of any other settings that you have configured. See Essential Services for more information.
+There are a set of services that are essential to how Office functions and cannot be disabled. For example, the licensing service that confirms that you are properly licensed to use Office is essential. Required service data about these services is collected and sent to Microsoft, regardless of any other settings that you have configured. See Essential Services for more information.
 
-**Necessary service data for connected experiences**
+**Required service data for connected experiences**
 
-Necessary service data is data that enables us to deliver cloud-based connected experiences and help make these experiences secure and perform as expected. There are three types of information that are considered as necessary service data.
+Required service data is data that enables us to deliver cloud-based connected experiences and help make these experiences secure and perform as expected. There are three types of information that are considered as required service data.
 
 *   **Customer Content**, which is content you create using Office, such as text typed in a Word document.
 *   **Functional Data**, which includes information needed by a connected experience to perform its task, such as configuration information about the app.
-*   **Service Diagnostic Data**, which is the data necessary to keep the service secure, up to date, and performing as expected. Because this data is strictly related to the connected experience, it is separate from Required or Optional diagnostic data levels.
+*   **Service Diagnostic Data**, which is the data required to keep the service secure, up to date, and performing as expected. Because this data is strictly related to the connected experience, it is separate from Required or Optional diagnostic data levels.
 
-To help you understand necessary service data, the following is an example scenario using PowerPoint Designer, which is a connected experience you can use when creating slides for a presentation. PowerPoint Designer helps you improve your slides by automatically generating design ideas to choose from. While you're putting content on a slide, Designer works in the background to match that content to professionally designed layouts.
+To help you understand required service data, the following is an example scenario using PowerPoint Designer, which is a connected experience you can use when creating slides for a presentation. PowerPoint Designer helps you improve your slides by automatically generating design ideas to choose from. While you're putting content on a slide, Designer works in the background to match that content to professionally designed layouts.
 
-The necessary service data that is sent to Microsoft to enable this connected experience for you could include the following:
+The required service data that is sent to Microsoft to enable this connected experience for you could include the following:
 
 *   Customer content, such as the text or images you added to your slide.
 *   Functional data, such as which slide you are working on and its layout.
 *   Service diagnostic data, such as events that tell us if the design idea was correctly applied to your slide and that the service calls were performing correctly.
 
-If you choose to disable the category of connected experiences that includes PowerPoint Designer, the feature will be turned off and none of this necessary service data is sent to us.
+If you choose to disable the category of connected experiences that includes PowerPoint Designer, the feature will be turned off and none of this required service data is sent to us.
 
 See Connected Experiences in Office for more information
 
@@ -611,7 +613,7 @@ Top of page Search and artificial intelligenceSearch and artificial intelligence
 
 Search and artificial intelligence products connect you with information and intelligently sense, process, and act on information—learning and adapting over time.
 
-Learn moreTop of page BingBing
+Learn MoreTop of page BingBing
 
 Bing services include search and mapping services, as well as the Bing Toolbar and Bing Desktop apps. Bing services collect and process data in many forms, including text that has been inked or typed, speech data, and images. Bing services are also included within other Microsoft services, such as MSN Apps, Office, Cortana, and certain features in Windows (which we refer to as Bing-powered experiences).
 
@@ -702,7 +704,7 @@ Top of page WindowsWindows
 
 Windows is a personalized computing environment that enables you to seamlessly roam and access services, preferences, and content across your computing devices from phones to tablets to the Surface Hub. Rather than residing as a static software program on your device, key components of Windows are cloud-based, and both cloud and local elements of Windows are updated regularly, providing you with the latest improvements and features. In order to provide this computing experience, we collect data about you, your device, and the way you use Windows. And because Windows is personal to you, we give you choices about the personal data we collect and how we use it. Note that if your Windows device is managed by your organization (such as your employer or school), your organization may use centralized management tools provided by Microsoft or others to access and process your data and to control device settings (including privacy settings), device policies, software updates, data collection by us or the organization, or other aspects of your device. Additionally, your organization may use management tools provided by Microsoft or others to access and process your data from that device, including your interaction data, diagnostic data, and the contents of your communications and files. For more information about data collection and privacy in Windows, see Windows 10 and your online services. Earlier versions of Windows (including Windows Vista, Windows 7, Windows 8, and Windows 8.1) are subject to their own privacy statements.
 
-Learn moreTop of page ActivationActivation
+Learn MoreTop of page ActivationActivation
 
 When you activate Windows, a specific product key is associated with the device on which your software is installed. The product key and data about the software and your device is sent to Microsoft to help validate your license to the software. This data may be sent again if there is a need to re-activate or validate your license. On phones running Windows, device and network identifiers, as well as device location at the time of the first power-up of the device, are also sent to Microsoft for the purpose of warranty registration, stock replenishment, and fraud prevention.
 
@@ -946,7 +948,7 @@ Top of page Entertainment and related servicesEntertainment and related services
 
 Entertainment and Related Services power rich experiences and enable you to access a variety of content, applications and games.
 
-Learn moreTop of page Xbox and Xbox LiveXbox and Xbox Live
+Learn MoreTop of page Xbox and Xbox LiveXbox and Xbox Live
 
 Xbox consoles are hardware devices that you can use to access and play games, movies, music, and other forms of digital entertainment. Xbox Live is the online gaming and entertainment service from Microsoft that enables you to find content and connect with friends, on Xbox Live and other gaming and social networks, from a variety of devices, including Xbox consoles, PCs and mobile devices.
 
@@ -1057,7 +1059,7 @@ Microsoft Health services can help you understand and manage your health data. T
 
 Microsoft Health services collect and use your data to provide the services, which includes improving and personalizing your experiences. Health data you provide to Microsoft through Microsoft Health services is not combined with data from other Microsoft services, or used for other purposes without your explicit consent. For example, Microsoft does not use your health record data to market or advertise to you without your opt-in consent.
 
-Learn moreTop of page Health servicesHealth services
+Learn MoreTop of page Health servicesHealth services
 
 Microsoft Health services can help you understand and manage your health data. The data collected depends on the services and features you use, and includes the following:
 
@@ -1105,7 +1107,7 @@ Microsoft collects data from you, through our interactions with you and through 
 
 If you represent an organization, such as a business or school, that utilizes Enterprise and Developer Products from Microsoft, please see the Enterprise and developer products section of this privacy statement to learn how we process your data. If you are an end user of a Microsoft product or a Microsoft account provided by your organization, please see the Products provided by your organization and the Microsoft account sections for more information.
 
-You have choices when it comes to the technology you use and the data you share. When we ask you to provide personal data, you can decline. Many of our products require some personal data to provide you with a service. If you choose not to provide data necessary to provide you with a product or feature, you cannot use that product or feature. Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract. or if this relates to an existing product you’re using, we may have to suspend or cancel it. We will notify you if this is the case at the time. Where providing the data is optional, and you choose not to share personal data, features like personalization that use such data will not work for you.
+You have choices when it comes to the technology you use and the data you share. When we ask you to provide personal data, you can decline. Many of our products require some personal data to provide you with a service. If you choose not to provide data required to provide you with a product or feature, you cannot use that product or feature. Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract. or if this relates to an existing product you’re using, we may have to suspend or cancel it. We will notify you if this is the case at the time. Where providing the data is optional, and you choose not to share personal data, features like personalization that use such data will not work for you.
 
 Full text
 
@@ -1126,7 +1128,7 @@ We also obtain data from third parties. We protect data obtained from third part
 
 If you represent an organization, such as a business or school, that utilizes Enterprise and Developer Products from Microsoft, please see the Enterprise and developer products section of this privacy statement to learn how we process your data. If you are an end user of a Microsoft product or a Microsoft account provided by your organization, please see the Products provided by your organization and the Microsoft account sections for more information.
 
-You have choices when it comes to the technology you use and the data you share. When you are asked to provide personal data, you can decline. Many of our products require some personal data to operate and provide you with a service. If you choose not to provide data necessary to operate and provide you with a product or feature, you cannot use that product or feature. Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract. or if this relates to an existing product you’re using, we may have to suspend or cancel it. We will notify you if this is the case at the time. Where providing the data is optional, and you choose not to share personal data, features like personalization that use the data will not work for you.
+You have choices when it comes to the technology you use and the data you share. When you are asked to provide personal data, you can decline. Many of our products require some personal data to operate and provide you with a service. If you choose not to provide data required to operate and provide you with a product or feature, you cannot use that product or feature. Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract. or if this relates to an existing product you’re using, we may have to suspend or cancel it. We will notify you if this is the case at the time. Where providing the data is optional, and you choose not to share personal data, features like personalization that use the data will not work for you.
 
 **_The data we collect depends on the context of your interactions with Microsoft and the choices you make (including your privacy settings), the products and features you use, your location, and applicable law_** .
 
@@ -1199,7 +1201,7 @@ We also use the data to operate our business, which includes analyzing our perfo
 
 For these purposes, we combine data we collect from different contexts (for example, from your use of two Microsoft products). For example, Cortana uses the favorite sports teams you add to the Microsoft Sports app to provide information relevant to your interests, and Microsoft Store uses information about the apps and services you use to make personalized app recommendations. However, we have built in technological and procedural safeguards designed to prevent certain data combinations where required by law. For example, where required by law, we store data we collect from you when you are unauthenticated (not signed in) separately from any account information that directly identifies you, such as your name, email address, or phone number.
 
-When we process personal data about you, we do so with your consent and/or as necessary to provide the products you use, operate our business, meet our contractual and legal obligations, protect the security of our systems and our customers, or fulfill other legitimate interests of Microsoft as described in this section and in the Reasons we share personal data section of this privacy statement. When we transfer personal data from the European Economic Area, we do so based on a variety of legal mechanisms, as described in the Where we store and process personal data section of this privacy statement.
+When we process personal data about you, we do so with your consent and/or as required to provide the products you use, operate our business, meet our contractual and legal obligations, protect the security of our systems and our customers, or fulfill other legitimate interests of Microsoft as described in this section and in the Reasons we share personal data section of this privacy statement. When we transfer personal data from the European Economic Area, we do so based on a variety of legal mechanisms, as described in the Where we store and process personal data section of this privacy statement.
 
 **More on the purposes of processing:**
 
@@ -1295,7 +1297,7 @@ You can also link your opt-out choice with your personal Microsoft account. It w
 
 For Microsoft-controlled advertising that appears in apps on Windows, you may use the opt-out linked to your personal Microsoft account, or opt out of interest-based advertising by turning off the advertising ID in Windows settings.
 
-Because the data used for interest-based advertising is also used for other necessary purposes (including providing our products, analytics, and fraud detection), opting out of interest-based advertising does not stop that data collection. You will continue to get ads, although they may be less relevant to you.
+Because the data used for interest-based advertising is also used for other required purposes (including providing our products, analytics, and fraud detection), opting out of interest-based advertising does not stop that data collection. You will continue to get ads, although they may be less relevant to you.
 
 You can opt out of receiving interest-based advertising from third parties we partner with by visiting their sites (see above).
 
@@ -1491,7 +1493,7 @@ Further details regarding our advertising-related uses of data include:
 
 Collection of data from childrenCollection of data from childrenmaincollectionofdatafromchildrenmoduleSummary
 
-When a Microsoft product collects age, and there is an age in your jurisdiction under which parental consent or authorization is required to use the product, the product will either block users under that age or will ask them to provide consent or authorization from a parent or guardian before they can use it. We will not knowingly ask children under that age to provide more data than is necessary to provide for the product.
+When a Microsoft product collects age, and there is an age in your jurisdiction under which parental consent or authorization is required to use the product, the product will either block users under that age or will ask them to provide consent or authorization from a parent or guardian before they can use it. We will not knowingly ask children under that age to provide more data than is required to provide for the product.
 
 Once parental consent or authorization is granted, the child's account is treated much like any other account. The child can access communication services, like Outlook and Skype, and can freely communicate and share data with other users of all ages.
 
@@ -1594,6 +1596,8 @@ Office is a collection of productivity services and applications including Word,
 
 **Click-to-Run Update Service**. The Click-to-Run Update Service allows you to install certain Microsoft Office products over the internet. The Click-to-Run Update Service also automatically detects online updates to Click-to-Run-enabled products on your device and downloads and installs them automatically.
 
+**Office Translator**. Office Translator is designed as a no-trace connected experience. With no trace, no portion of your translation request that Office sends to Microsoft Translator will be logged, your submitted text will not be used to improve the quality of the Microsoft Translator service, and there will not be any record of any portion of your data retained by Microsoft.
+
 **Diagnostic Data**. Diagnostic data is used to (i) keep Office secure and up to date. (ii) detect, diagnose, and remediate problems. and (iii) make product improvements. This data does not include a user's name or email address, the content of the user's files, or information about apps unrelated to Office. Users have a choice between two different levels of diagnostic data collection, Required and Optional.
 
 *   **Required**. The minimum data necessary to help keep Office secure, up to date, and performing as expected on the device it's installed on.
@@ -1601,7 +1605,7 @@ Office is a collection of productivity services and applications including Word,
 
 See Diagnostic Data in Office for more information.
 
-**Connected Experiences**. Office continues to provide more experiences in client applications that are connected to and backed by cloud-based services. In order to ensure that all these connected experiences will be reliable, up to date, remain secure, and perform as expected, necessary service data may be collected whenever you use a connected experience.
+**Connected Experiences**. Office continues to provide more experiences in client applications that are connected to and backed by cloud-based services. In order to ensure that all these connected experiences will be reliable, up to date, remain secure, and perform as expected, required service data may be collected whenever you use a connected experience.
 
 Office consists of client software applications and connected experiences designed to enable you to create, communicate, and collaborate more effectively. Working with others on a document stored on OneDrive for Business or translating the contents of a Word document into a different language are examples of connected experiences. There are two types of connected experiences.
 
@@ -1614,25 +1618,25 @@ Starting with Version 1904 of Office 365, you can access new, updated, and impro
 
 If you choose to disable certain types of connected experiences, either the ribbon or menu command for those connected experiences will be grayed out or you will get an error message when you try to use those connected experiences.
 
-There are a set of services that are essential to how Office functions and cannot be disabled. For example, the licensing service that confirms that you are properly licensed to use Office is essential. Necessary service data about these services is collected and sent to Microsoft, regardless of any other settings that you have configured. See Essential Services for more information.
+There are a set of services that are essential to how Office functions and cannot be disabled. For example, the licensing service that confirms that you are properly licensed to use Office is essential. Required service data about these services is collected and sent to Microsoft, regardless of any other settings that you have configured. See Essential Services for more information.
 
-**Necessary service data for connected experiences**
+**Required service data for connected experiences**
 
-Necessary service data is data that enables us to deliver cloud-based connected experiences and help make these experiences secure and perform as expected. There are three types of information that are considered as necessary service data.
+Required service data is data that enables us to deliver cloud-based connected experiences and help make these experiences secure and perform as expected. There are three types of information that are considered as required service data.
 
 *   **Customer Content**, which is content you create using Office, such as text typed in a Word document.
 *   **Functional Data**, which includes information needed by a connected experience to perform its task, such as configuration information about the app.
-*   **Service Diagnostic Data**, which is the data necessary to keep the service secure, up to date, and performing as expected. Because this data is strictly related to the connected experience, it is separate from Required or Optional diagnostic data levels.
+*   **Service Diagnostic Data**, which is the data required to keep the service secure, up to date, and performing as expected. Because this data is strictly related to the connected experience, it is separate from Required or Optional diagnostic data levels.
 
-To help you understand necessary service data, the following is an example scenario using PowerPoint Designer, which is a connected experience you can use when creating slides for a presentation. PowerPoint Designer helps you improve your slides by automatically generating design ideas to choose from. While you're putting content on a slide, Designer works in the background to match that content to professionally designed layouts.
+To help you understand required service data, the following is an example scenario using PowerPoint Designer, which is a connected experience you can use when creating slides for a presentation. PowerPoint Designer helps you improve your slides by automatically generating design ideas to choose from. While you're putting content on a slide, Designer works in the background to match that content to professionally designed layouts.
 
-The necessary service data that is sent to Microsoft to enable this connected experience for you could include the following:
+The required service data that is sent to Microsoft to enable this connected experience for you could include the following:
 
 *   Customer content, such as the text or images you added to your slide.
 *   Functional data, such as which slide you are working on and its layout.
 *   Service diagnostic data, such as events that tell us if the design idea was correctly applied to your slide and that the service calls were performing correctly.
 
-If you choose to disable the category of connected experiences that includes PowerPoint Designer, the feature will be turned off and none of this necessary service data is sent to us.
+If you choose to disable the category of connected experiences that includes PowerPoint Designer, the feature will be turned off and none of this required service data is sent to us.
 
 See Connected Experiences in Office for more information
 
