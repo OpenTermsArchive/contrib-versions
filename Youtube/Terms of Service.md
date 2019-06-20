@@ -1,5 +1,3 @@
-Community Guidelines
-
 1\. Your Acceptance
 
 1.  By using or visiting the YouTube website or any YouTube products, software, data feeds, and services provided to you on, from, or through the YouTube website (collectively the "Service") you signify your agreement to (1) these terms and conditions (the "Terms of Service"), (2) Google's Privacy Policy, found at https://www.youtube.com/t/privacy and incorporated herein by reference, and (3) YouTube's Community Guidelines, found at https://www.youtube.com/t/community\_guidelines and also incorporated herein by reference. If you do not agree to any of these terms, the Google Privacy Policy, or the Community Guidelines, please do not use the Service.
