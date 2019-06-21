@@ -22,33 +22,33 @@
 
 *   Login
 
+*   български
 *   Čeština
 *   Dansk
 *   Deutsch
+*   Ελληνικά
 *   English, USA
 *   Español
+*   Suomi
 *   Français
 *   Hrvatski
-*   Italiano
-*   Lietuviškai
 *   Magyar
+*   Italiano
+*   日本語
+*   한국어
+*   Lietuviškai
 *   Nederlands
 *   Norwegian
 *   Polski
 *   Português do Brasil
 *   Română
-*   Suomi
-*   Svenska
-*   Tiếng Việt
-*   Türkçe
-*   Ελληνικά
-*   български
 *   Русский
-*   Українська
+*   Svenska
 *   ไทย
-*   한국어
+*   Türkçe
+*   Українська
+*   Tiếng Việt
 *   中文
-*   日本語
 *   繁體中文
 
 *   Download
@@ -58,33 +58,33 @@
 *   Community
 *   Support
 
+*   български
 *   Čeština
 *   Dansk
 *   Deutsch
+*   Ελληνικά
 *   English, USA
 *   Español
+*   Suomi
 *   Français
 *   Hrvatski
-*   Italiano
-*   Lietuviškai
 *   Magyar
+*   Italiano
+*   日本語
+*   한국어
+*   Lietuviškai
 *   Nederlands
 *   Norwegian
 *   Polski
 *   Português do Brasil
 *   Română
-*   Suomi
-*   Svenska
-*   Tiếng Việt
-*   Türkçe
-*   Ελληνικά
-*   български
 *   Русский
-*   Українська
+*   Svenska
 *   ไทย
-*   한국어
+*   Türkçe
+*   Українська
+*   Tiếng Việt
 *   中文
-*   日本語
 *   繁體中文
 
 Discord Terms of Service
