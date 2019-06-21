@@ -8,9 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Able to download, unzip, and import ONE XML file
+    *   by Nathon
+    *   23 minutes ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Not able to view my sites
+    *   by dee\_296
+    *   10 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Recover my old blog entries
     *   by here\_bizzy\_bizzy\_bizzy
-    *   5 days ago
+    *   6 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
@@ -70,7 +82,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   pulling up old blogs
     *   by PiMpiNpNoY13
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -83,18 +95,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 *   Can't find my page
     *   by razorblade\_tragedy88
     *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Help Me Find My Page Please
-    *   by ZzGIGIzZ
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   help find archive
-    *   by illbejustfinepretendingimnot
-    *   2 months ago
     *   in Data Migration
     *   0 votes
     *   0
