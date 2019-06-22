@@ -1,6 +1,6 @@
 General information
 
-*   Last updated: 13 March 2019
+*   Last updated: 21 June 2019
 *   This Privacy Policy shall apply to the entire service XING and its applications (kununu etc.).
 *   XING SE is the body responsible for the processing of personal data.
 *   Our Data Protection Officer is Anja Engler.
@@ -376,6 +376,14 @@ You can enable or deactivate this data collection. We recommend you enable it so
 
 *   Opt in to data collection with Braze Please note that opting out of cookies is device-specific. This means that if you delete your cookie or use a different computer or web browser, you will need to opt out again. When using mobile apps, you can opt out in the app settings.
 
+IBM Watson Campaign Automation
+
+We would like to show you content that is tailored to your interests. We show this content on our websites or in e-mails. To do that, we use the 'IBM Watson Automation' service to collect your usage data.  
+  
+You can enable or deactivate this data collection by IBM Watson Automation. We recommend you enable it so we can keep providing you with relevant content and with useful tips and information about XING solutions.
+
+*   Opt in to data collection with IBM Watson Campaign Automation Please note that opting out of cookies is device-specific. This means that if you delete your cookie or use a different computer or web browser, you will need to opt out again.
+
 Wingify/VWO
 
 We use a tool called VWO to run A/B tests. You can opt out of this kind of web analysis here
@@ -435,7 +443,7 @@ More information is available here
 
 Adjust
 
-More information about: https://www.adjust.com/
+More information about: here
 
 Adition
 
