@@ -501,6 +501,7 @@ Sign In Hi, {username}
 *   Wix Answers
 *   Developers
 *   Email Marketing
+*   Website Design
 
 *   COMPANY
 *   About Wix
