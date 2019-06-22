@@ -1,4 +1,4 @@
-Terms of Service Last Modified: 2018-05-15Tumblr is a U.S. company and subject to U.S. laws and jurisdiction. The original version of these Terms of Service (and any other terms, policies, or guidelines that we provide to you) are written in English. To the extent any translated version of these Terms of Service (or any other terms, policies, or guidelines that we provide to you) conflicts with the English version, the English version controls.
+Terms of Service Last Modified: 2018-05-15Tumblr является американской компанией и подчиняется законодательству и юрисдикции США, поэтому эти Условия использования (а также другие предоставленные вам условия, правила и политики) составлены на английском языке. Если переведенная версия этих Условий использования или другие предоставленные вам условия, правила и политики противоречат англоязычной версии, то преимущество имеет версия на английском языке.
 
 **THESE TERMS OF SERVICE CONTAIN LIMITATIONS OF TUMBLR'S LIABILITY IN SECTION 14.**
 
