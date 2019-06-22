@@ -10,19 +10,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Able to download, unzip, and import ONE XML file
     *   by Nathon
-    *   23 minutes ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Not able to view my sites
     *   by dee\_296
-    *   10 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Recover my old blog entries
     *   by here\_bizzy\_bizzy\_bizzy
-    *   6 days ago
+    *   1 week ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
