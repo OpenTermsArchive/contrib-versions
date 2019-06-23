@@ -10,13 +10,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Able to download, unzip, and import ONE XML file
     *   by Nathon
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Not able to view my sites
     *   by dee\_296
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -31,13 +31,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Miscellaenous
     *   0 votes
-    *   2 (last comment by jadetseng 1 week ago)
+    *   2 (last comment by jadetseng 2 weeks ago)
 *   Is Xanga still active?
     *   by disunderstanded
     *   2 years ago
     *   in Premium
     *   0 votes
-    *   2 (last comment by usalapinhazzer 1 week ago)
+    *   2 (last comment by usalapinhazzer 2 weeks ago)
 *   Where’s my blogs?
     *   by my\_own\_direction
     *   2 weeks ago
@@ -82,7 +82,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   pulling up old blogs
     *   by PiMpiNpNoY13
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
