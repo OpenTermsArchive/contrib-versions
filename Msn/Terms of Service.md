@@ -335,6 +335,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Account.microsoft.com
 *   Advertising.microsoft.com
 *   Ask Cortana
+*   Bing
 *   Bing App for Android
 *   Bing Apps
 *   Bing Bots
@@ -354,11 +355,10 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Bing Webmaster
 *   Bing Wikipedia Browser
 *   Bing.com
-*   Bing
 *   Bingplaces.com
 *   Citizen Next
-*   Cortana skills by Microsoft
 *   Cortana
+*   Cortana skills by Microsoft
 *   Default Homepage and New Tab Page on Microsoft Edge
 *   Dev Center App
 *   Device Health App
@@ -366,10 +366,11 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Docs.com
 *   Education.minecraft.net
 *   Face Swap
+*   Feedback Intake Tool for Azure Maps (aka “Azure Maps Feedback”)
 *   Forms.microsoft.com
 *   Forzamotorsport.net
-*   Groove Music Pass
 *   Groove
+*   Groove Music Pass
 *   GroupMe
 *   HealthVault
 *   LineBack
@@ -412,8 +413,8 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Office Store
 *   Office Sway
 *   Office.com
-*   OneDrive.com
 *   OneDrive
+*   OneDrive.com
 *   OneNote.com
 *   Outlook.com
 *   Paint 3D
@@ -425,12 +426,12 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Ruuh
 *   Seeing AI
 *   Send
+*   Skype
 *   Skype in the Classroom
 *   Skype Interviews
 *   Skype Manager
 *   Skype Qik
 *   Skype.com
-*   Skype
 *   Smart Search
 *   Snip Insights
 *   Spreadsheet Keyboard
@@ -446,16 +447,16 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Web Translator
 *   Who’s In
 *   Windows games, apps and websites published by Microsoft
-*   Windows Live Mail
-*   Windows Live Writer
 *   Windows Movie Maker
 *   Windows Photo Gallery
 *   Windows Store
+*   Windows Live Mail
+*   Windows Live Writer
 *   Word Flow
 *   Xbox Game Pass
 *   Xbox Game Studios games, apps and websites
-*   Xbox Live Gold
 *   Xbox Live
+*   Xbox Live Gold
 *   Xbox Music
 *   Xbox Store
 *   Zo
@@ -791,6 +792,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Account.microsoft.com
 *   Advertising.microsoft.com
 *   Ask Cortana
+*   Bing
 *   Bing App for Android
 *   Bing Apps
 *   Bing Bots
@@ -810,11 +812,10 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Bing Webmaster
 *   Bing Wikipedia Browser
 *   Bing.com
-*   Bing
 *   Bingplaces.com
 *   Citizen Next
-*   Cortana skills by Microsoft
 *   Cortana
+*   Cortana skills by Microsoft
 *   Default Homepage and New Tab Page on Microsoft Edge
 *   Dev Center App
 *   Device Health App
@@ -822,10 +823,11 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Docs.com
 *   Education.minecraft.net
 *   Face Swap
+*   Feedback Intake Tool for Azure Maps (aka “Azure Maps Feedback”)
 *   Forms.microsoft.com
 *   Forzamotorsport.net
-*   Groove Music Pass
 *   Groove
+*   Groove Music Pass
 *   GroupMe
 *   HealthVault
 *   LineBack
@@ -868,8 +870,8 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Office Store
 *   Office Sway
 *   Office.com
-*   OneDrive.com
 *   OneDrive
+*   OneDrive.com
 *   OneNote.com
 *   Outlook.com
 *   Paint 3D
@@ -881,12 +883,12 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Ruuh
 *   Seeing AI
 *   Send
+*   Skype
 *   Skype in the Classroom
 *   Skype Interviews
 *   Skype Manager
 *   Skype Qik
 *   Skype.com
-*   Skype
 *   Smart Search
 *   Snip Insights
 *   Spreadsheet Keyboard
@@ -902,16 +904,16 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Web Translator
 *   Who’s In
 *   Windows games, apps and websites published by Microsoft
-*   Windows Live Mail
-*   Windows Live Writer
 *   Windows Movie Maker
 *   Windows Photo Gallery
 *   Windows Store
+*   Windows Live Mail
+*   Windows Live Writer
 *   Word Flow
 *   Xbox Game Pass
 *   Xbox Game Studios games, apps and websites
-*   Xbox Live Gold
 *   Xbox Live
+*   Xbox Live Gold
 *   Xbox Music
 *   Xbox Store
 *   Zo
