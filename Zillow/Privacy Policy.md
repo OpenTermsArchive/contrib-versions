@@ -92,7 +92,7 @@ undefined false {"topnav":{"cacheKey":"none","format":"json"}} false false {"log
 
 Privacy Policy
 
-**Last Updated:** 3/28/2018
+**Last Updated:** 6/25/2019
 
 At Zillow Group, we appreciate your use of and contributions to our websites, our mobile and desktop applications, our other properties and/or our related services (collectively known as the "Services," or, each individually, a "Service"). Zillow Group respects your privacy and is committed to protecting your personal information.
 
@@ -179,7 +179,7 @@ Zillow Group may also share aggregated or de-identified information that cannot 
 
 We participate in interest-based advertising. This means that when you use the Services, we or third party service providers or advertisers may use cookies (that they collect or that we provide to them) or other similar technologies to collect information about your use of the Services (including mobile applications) or your online activities over time and across different websites and devices. Collected information may include the content you view, the date and time that you view this content, and the website that referred you to the Services, and this information may be associated with your unique browser, device identifier, or Internet Protocol (IP) address. These practices help tailor advertisements that are relevant and useful to you. These tailored advertisements may appear on the Services or on other websites, applications or properties.
 
-In addition, if you have provided your email address to us, we may use a scrambled, unreadable form (a hash) of your email address to deliver tailored advertisements to you on the Services or on other websites, including via Facebook’s Custom Audience Feature or other similar tools. Click here to learn about how you can control the ads you see on Facebook.
+In addition, if you have provided your email address to us, we may use a scrambled, unreadable form (a hash) of your email address to deliver tailored advertisements to you on the Services or on other websites, including via Facebook’s Custom Audience Feature or other similar tools. Click here to learn about how you can control the ads you see on Facebook. We do not access or collect any of the contents of your email messages in providing interest-based advertising. Our use of information received from Gmail APIs will adhere to Google’s Limited Use Requirements.
 
 You may opt-out of cookie tracking and analysis as described in the section below entitled 'Opting Out of Collection of Information by Third Parties'. The Services do not otherwise respond to ‘do not track’ signals.
 
