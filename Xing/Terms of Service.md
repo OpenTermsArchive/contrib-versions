@@ -70,6 +70,8 @@ Additional Terms and Conditions for the Use of XING Executive
 
 General Terms and Conditions for the use of XING Benefits Plus
 
+General Terms and Conditions for XING Marketing Solutions
+
 General Terms and Conditions
 
 Last updated: 1 February 2019
