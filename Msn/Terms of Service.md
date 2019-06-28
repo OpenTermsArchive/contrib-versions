@@ -365,6 +365,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Dictate
 *   Docs.com
 *   Education.minecraft.net
+*   Experts for PowerPoint (Preview)
 *   Face Swap
 *   Feedback Intake Tool for Azure Maps (aka “Azure Maps Feedback”)
 *   Forms.microsoft.com
@@ -822,6 +823,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Dictate
 *   Docs.com
 *   Education.minecraft.net
+*   Experts for PowerPoint (Preview)
 *   Face Swap
 *   Feedback Intake Tool for Azure Maps (aka “Azure Maps Feedback”)
 *   Forms.microsoft.com
