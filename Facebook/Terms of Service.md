@@ -2,7 +2,7 @@ Plain Text Terms of Service Facebook Ads Controls Privacy Basics Cookies Policy 
 
 *   View a printable version of the Terms of Service
 
-Terms of Service  
+Terms of Service On July 31, 2019, we’re updating our Terms of Service to be clearer about how Facebook makes money and the rights people have when using Facebook. You can find a preview of the updated version here.  
   
 Welcome to Facebook!  
   
