@@ -74,18 +74,14 @@ Your use of Bitbucket Cloud is subject to the terms of the Atlassian Cloud Term
 
 **4\. Granting Permissions.** Be careful about granting permissions to your repositories. Once you grant such permissions, we will not be able to prevent those users from taking the actions allowed under those permissions, even if you don’t approve of those actions. Be especially careful about granting administrative access to your repositories, as some of those actions may be irreversible. For example, if you grant someone permission that allows them to move content in your repository to another account, we will not be able to reach into that other user’s account without their permission to recover the data, as we are not in a position to arbitrate disputes among our users. In that case, your only recourse may be requesting a takedown under our policy regarding Reporting Copyright and Trademark Violations or pursuing legal action against the other user directly.
 
-HipChat-specific terms
-
-_Effective starting: November 1, 2018_
-
-Your use of HipChat is subject to the terms of the Atlassian Software License Agreement or Cloud Terms of Service (as applicable, the **“Agreement”**) as well as the following additional terms. Any capitalized terms used but not defined below have the meanings in the Agreement.
-
-**1\. Responsibility for User Content.** Your administrators may have the ability to access, monitor, use, or disclose data available to HipChat users within the users' HipChat accounts (including chats, chat history, and file attachments). You will obtain and maintain all required consents from your HipChat users to allow: (a) you to access, monitor, use, and disclose this data, (b) us to provide you with the ability to do so, and (c) us to provide the HipChat service to you.
-
-**2\. Chat History.** By using HipChat Cloud, you consent to the storage of your chat history by us. Your chat history is saved as the default option. You may change your options through the product.
-
 Opsgenie-specific terms
 
 _Effective starting: October 1, 2018_
 
 https://www.opsgenie.com/tos
+
+Analytics for Confluence Data Center-specific terms
+
+_Effective starting: August 1, 2019_
+
+Your use of Analytics for Confluence Data Center is subject to the terms of the Atlassian Software License Agreement. All references to “Privacy Policy” therein mean the Good Software Privacy Policy available at https://www.goodsoftware.co/privacy.
