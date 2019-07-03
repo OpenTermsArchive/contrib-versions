@@ -61,7 +61,7 @@ Customer Agreements and Policies **COMCAST AGREEMENT FOR RESIDENTIAL   SERVICE
     
     **For Prince Georges, Maryland Customers.** Refunds are issued within thirty (30) days of Service disconnection and the return of any Xfinity Equipment or your next billing cycle, whichever is earlier, in a sum equal to the credit balance on your account, if any, minus any amounts due on your account, including, any amounts owed for the Service(s) or for any Xfinity Equipment that is damaged, altered, or subject to an Unreturned Equipment Fee.
     
-4.  **CHARGES TO SERVICES**
+4.  **CHANGES TO SERVICES**
     
     Subject to applicable law, we have the right to change our Service(s), Xfinity Equipment, rates and charges, at any time with or without notice to you. We also may rearrange, delete, add to, or otherwise change programming or features or offerings contained in the Service(s), including, but not limited to, content, functionality, hours of availability, equipment requirements, speed, and upstream and downstream rate limitations. We may deliver any notice concerning changes to the Service(s) and our relationship with you, including notice of any change to this Agreement, in any one or more of the following ways, as determined in our sole discretion: (1) by posting it on www.xfinity.com or any other website about which you have been notified. (2) by mail or hand delivery to your Premises. (3) by e-mail to the e-mail address for your account in our records. or (4) by including the information on or with your bill for Service(s). You agree that any one of the foregoing will constitute sufficient and effective notice under this Agreement. Because we may from time to time notify you about important information regarding the Service(s) and this Agreement by these methods, you agree it is your responsibility to regularly check your postal mail, e-mail, service texts, and all postings at www.xfinity.com or any other website about which you have been notified. If any material change negatively affects your Service(s), you have the right to cancel your Service(s). Your continued receipt of the Service(s) for more than 30 days after the change, however, will constitute your acceptance of the change.
     
@@ -251,8 +251,8 @@ Customer Agreements and Policies **COMCAST AGREEMENT FOR RESIDENTIAL   SERVICE
     *   **Vermont Residents:** The Vermont Department of Public Service Customer Hotline (1-800-622-4496) can provide assistance in the resolution of consumer TV complaints.
         
 
-Stnd 0419
+Stnd 0719
 
 View full agreement
 
-English (PDF | Spanish (PDF)
+English (PDF) | Spanish (PDF)
