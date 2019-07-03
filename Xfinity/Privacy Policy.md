@@ -4,7 +4,7 @@ Comcast Customer Privacy Notice
 
 Download privacy notice:
 
-English (PDF | Spanish (PDF)
+English (PDF)| Spanish (PDF)
 
 Overview
 
@@ -337,4 +337,4 @@ Philadelphia, PA 19103-2838
 
 Revised and effective: January 1, 2018
 
-Stnd 0419
+Stnd 0719
