@@ -334,7 +334,7 @@ You’re not allowed to pluck metadata from our content or feeds.
 You can add the BBC News feed to your website or social media account. Provided:
 
 *   You don't change the feed or remove any of our branding or logos
-*   You credit us by saying it's from BBC News, bbc.co.uk/news or bbc.com/news putting the text and hyperlink in a prominent place nearby
+*   You credit us by saying it's from BBC News, bbc.co.uk/news or bbc.com/news putting the text and hyperlink in a prominent place nearby
 *   You don't add our branding, logos and so on, except for any branding that's already embedded in the feed.
 
 Read about how to set up a BBC News feed here.
