@@ -4,19 +4,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Old Lost Xanga
     *   by Secrets\_forthe\_Man\_inthe\_Moon
-    *   5 days ago
+    *   6 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Able to download, unzip, and import ONE XML file
     *   by Nathon
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Not able to view my sites
     *   by dee\_296
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
