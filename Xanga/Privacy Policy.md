@@ -1,3 +1,9 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
@@ -31,13 +37,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Miscellaenous
     *   0 votes
-    *   2 (last comment by jadetseng 3 weeks ago)
+    *   2 (last comment by jadetseng 4 weeks ago)
 *   Is Xanga still active?
     *   by disunderstanded
     *   2 years ago
     *   in Premium
     *   0 votes
-    *   2 (last comment by usalapinhazzer 3 weeks ago)
+    *   2 (last comment by usalapinhazzer 4 weeks ago)
 *   Where’s my blogs?
     *   by my\_own\_direction
     *   1 month ago
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
