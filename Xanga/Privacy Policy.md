@@ -1,7 +1,19 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Another blog missing all old posts
+    *   by top\_5\_guy
+    *   11 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Old Lost Xanga
     *   by Secrets\_forthe\_Man\_inthe\_Moon
     *   1 week ago
@@ -31,13 +43,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Miscellaenous
     *   0 votes
-    *   2 (last comment by jadetseng 4 weeks ago)
+    *   2 (last comment by jadetseng 1 month ago)
 *   Is Xanga still active?
     *   by disunderstanded
     *   2 years ago
     *   in Premium
     *   0 votes
-    *   2 (last comment by usalapinhazzer 4 weeks ago)
+    *   2 (last comment by usalapinhazzer 1 month ago)
 *   Where’s my blogs?
     *   by my\_own\_direction
     *   1 month ago
@@ -86,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   How can I read my old posts?
-    *   \[Resolved\] by Linzomatic
-    *   5 years ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by dark\_azn\_fairy 1 month ago)
 
 1 2 3 ... 193 Next
 
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
