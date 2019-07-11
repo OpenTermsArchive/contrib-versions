@@ -2,9 +2,15 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Recover Old Xanga
+    *   by JRA3141
+    *   2 hours ago
+    *   in Passwords &. Sign-In
+    *   0 votes
+    *   0
 *   Another blog missing all old posts
     *   by top\_5\_guy
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -86,14 +92,8 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   pulling up old blogs
-    *   by PiMpiNpNoY13
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
-1 2 3 ... 193 Next
+1 2 3 ... 194 Next
 
 Help Categories
 
