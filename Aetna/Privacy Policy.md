@@ -6,6 +6,8 @@ Aetna.com works best with Safari 8 and above. Learn more >
 
 If your browser is in Private mode, pages that use personal or geographic information may not work. Learn more about private mode. >
 
+Login
+
 *   Español
     
      
@@ -21,7 +23,7 @@ If your browser is in Private mode, pages that use personal or geographic inform
 *   Agents/Brokers  
 *   About Us  
 
-Search Individuals Individuals overview Get a quote Get a quote
+Login   Search Individuals Individuals overview Get a quote Get a quote
 
 *   Medicare
 *   Health insurance
@@ -260,14 +262,6 @@ Health Section Health Section
 *   For employers
 *   For providers
 *   For brokers
-*   News &. analysis
-
-*   For individuals
-*   For employers
-*   For providers
-*   For brokers
-*   About us
-*   Contact
 *   News &. analysis
 
 *   Español
