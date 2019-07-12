@@ -84,25 +84,28 @@ Popular Searches
 *   Allstate ePolicy
 *   Insurance Cards
 
-*   Get a quote
+*   Get a Quote
     
-    Get a quote in
+    Your location is set for  
     
-    AutoHomeRentersLifeCondoMotorcycleBoatATVBusiness
+    Enter a valid US ZIP Code to set your location.
     
+    Edit location
+    
+    Select a product to get a quote.
+    
+    Retrieve a saved quote
+    *   Auto
     *   Home
     *   Renters
     *   Life
     *   Condo
     *   Motorcycle
     *   Boat
-    *   ATV
-    *   Business
-    
-    Auto + Add another product to saveHomeRentersLife
-    *   Home
-    *   Renters
-    *   Life\+ Add another product to save Get a quote Retrieve a saved quote
+    *   ATV/Rec. Vehicle
+    *   Business Insurance
+    *   More Insurance
+    *   Find An Agent
 *   Insurance &. More
     *   Roadside
     *   Auto
