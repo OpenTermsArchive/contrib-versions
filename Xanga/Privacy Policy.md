@@ -10,19 +10,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Recover Old Xanga
     *   by JRA3141
-    *   1 day ago
+    *   2 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
 *   Another blog missing all old posts
     *   by top\_5\_guy
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Old Lost Xanga
     *   by Secrets\_forthe\_Man\_inthe\_Moon
-    *   1 week ago
+    *   2 weeks ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -40,7 +40,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Recover my old blog entries
     *   by here\_bizzy\_bizzy\_bizzy
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
