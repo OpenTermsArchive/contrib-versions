@@ -409,34 +409,32 @@ Back to top
 
 Privacy statement update: 9/19/17
 
-*   *   Glossary
 *   *   Aetna Apps
 *   *   Careers
-*   *   News and Analysis
-*   *   Health Care Reform
-
-*   *   Accessibility Services
-*   *   Terms of Use
-*   *   Investor Info
-
 *   *   FAQs
-*   *   Program Provisions
-*   *   Interest-Based Ads Policy
+*   *   Glossary
 
-*   *   Legal Notices
-*   *   Plan Disclosures
-*   *   Nondiscrimination Notice
+*   *   Accessibility services
+*   *   Plan disclosures
+*   *   Program provisions
+*   *   State directory
 
-*   *   Site Map
-*   *   Privacy Center
-*   *   State Directory
+*   *   News and analysis
+*   *   Health care reform
+*   *   Investor info
+*   *   Site map
+
+*   *   Terms of use
+*   *   Legal notices
+*   *   Interest-based ads policy
+*   *   Nondiscrimination notice
+*   *   Privacy center
 
 Copyright © 2019 Aetna Inc.
 
-For language services, please call the number on your member ID card and request an operator.  For other language services:  Español | 中文 | Tiếng Việt | 한국어 | Tagalog | Pусский | العربية | Kreyòl | Français | Polski | Português | Italiano | Deutsch | 日本語 | فارسی | Other Languages…
+*   *   For language services, please call the number on your member ID card and request an operator.  For other language services:  Español | 中文 | Tiếng Việt | 한국어 | Tagalog | Pусский | العربية | Kreyòl | Français | Polski | Português | Italiano | Deutsch | 日本語 | فارسی | Other Languages…
 
-  
-Link to PDF JavaScript is required
+JavaScript is required
 
 In order to have the best experience on Aetna.com, Javascript needs to be enabled.  
 Learn how to change your browser settings to enable Javascript.
