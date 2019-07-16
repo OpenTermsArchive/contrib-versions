@@ -88,21 +88,18 @@ Popular Searches
     
     Get a quote in
     
-    AutoHomeRentersLifeCondoMotorcycleBoatATVBusiness
+    Select which products you'd like to bundle:
     
-    *   Home
-    *   Renters
-    *   Life
+    Auto Home Renters Life
+    
+    Or choose from other popular products
+    
+    Select a productCondoMotorcycleBoatATVBusiness
     *   Condo
     *   Motorcycle
     *   Boat
     *   ATV
-    *   Business
-    
-    Auto + Add another product to saveHomeRentersLife
-    *   Home
-    *   Renters
-    *   Life\+ Add another product to save Get a quote Retrieve a saved quote
+    *   BusinessSelect a product Get a quote Retrieve a saved quote
 *   Insurance &. More
     *   Roadside
     *   Auto
