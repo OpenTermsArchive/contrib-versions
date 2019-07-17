@@ -1,10 +1,10 @@
-**Les messages publiés sur Seenthis restent la propriété de leurs auteurs respectifs.**
+**Les messages publiés sur Seenthis restent la propriété des contributeurs respectifs.**
 
-Seenthis ne revendique aucun droit sur les billets publiés, en dehors de ces deux autorisations permettant le bon fonctionnement du système : en publiant leurs messages sur Seenthis, les auteurs acceptent :  
+En tant qu’hébergeur, Seenthis ne revendique aucun droit ni aucune responsabilité sur les billets publiés, en dehors de ces deux autorisations permettant le bon fonctionnement du système : en publiant leurs messages sur Seenthis, les contributeurs acceptent :  
 — que ces messages soient publiés (présentés au public) sur le site seenthis.net,  
 — que ces messages soient organisés et enrichis par les automatismes présents dans le système Seenthis (traduction, thématisation...).
 
-Les auteurs peuvent à tout moment modifier ou supprimer leurs propres messages. Un outil permet à chaque auteur de récupérer, au format XML, l’ensemble de ses messages. Un auteur peut demander à faire détruire son propre compte (nous contacter).
+Les contributeurs peuvent à tout moment modifier ou supprimer leurs propres messages. Un outil permet à chaque auteur de récupérer, au format XML, l’ensemble de ses messages. Un auteur peut demander à faire détruire son propre compte (nous contacter).
 
 Mention de la licence de diffusion
 
@@ -14,7 +14,7 @@ Récupérer son propre contenu
 
 Tout utilisateur peut, d’ors et déjà, récupérer l’intégralité de ses contenus dans un fichier XML au format ATOM. Ce fichier est accessible à l’adresse :
 
-❝quote❞ (shift+tab)\__italic_\_\***bold**\* https://LOGIN:PASSWD@seenthis.net/?page=xml\_exportLiens:https://LOGIN:PASSWD@seenthis.net/?page=xml\_exportImages:
+https://LOGIN:PASSWD@seenthis.net/?page=xml\_export
 
 (remplacez LOGIN et PASSWD par votre login et votre mot de passe personnel).
 
