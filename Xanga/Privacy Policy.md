@@ -10,19 +10,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Tribal Proxy
     *   by pet\_rescuers
-    *   12 hours ago
+    *   1 day ago
     *   in Emails
     *   0 votes
     *   0
 *   Tribal Proxy
     *   by pet\_rescuers
-    *   12 hours ago
+    *   1 day ago
     *   in Emails
     *   0 votes
     *   0
 *   Recover Old Xanga
     *   by JRA3141
-    *   5 days ago
+    *   6 days ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
