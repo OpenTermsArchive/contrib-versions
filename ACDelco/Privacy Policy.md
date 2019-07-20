@@ -2,7 +2,7 @@
 *   Our Company
 *   Our Brands
 *   Investors
-*   Careers
+*   Shop
 
 *   Main Menu
 *   OUR STORIES
@@ -13,24 +13,12 @@
 *   Sustainability
 *   Community
 
-TECHNOLOGY
-
-The True Test of Technology is How it Helps Make Lives Better
-
-Read the Story
-
 *   Main Menu
 *   OUR COMPANY
 *   About GM
 *   Leadership
 *   Sustainability Report
 *   Social Investment
-
-Commitment
-
-For Crashes, Emissions and Congestion, Zero is More
-
-Read the Story
 
 *   Main Menu
 *   INVESTORS
@@ -46,14 +34,18 @@ Read the Story
 *   FAQs
 *   Contacts
 
-General Motors Strengthens Core Business and Future Mobility
+*   Main Menu
+*   SHOP
+*   Chevrolet
+*   Buick
+*   GMC
+*   Cadillac
+*   Shop All Brands
 
-Learn More
-
-*   Shop
 *   Owners
 *   My Rewards
 *   Press
+*   Careers
 *   Contact Us
 
   
