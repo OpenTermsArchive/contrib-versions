@@ -4,13 +4,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Tribal Proxy
     *   by pet\_rescuers
-    *   4 days ago
+    *   5 days ago
     *   in Emails
     *   0 votes
     *   0
 *   Tribal Proxy
     *   by pet\_rescuers
-    *   4 days ago
+    *   5 days ago
     *   in Emails
     *   0 votes
     *   0
@@ -34,13 +34,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Able to download, unzip, and import ONE XML file
     *   by Nathon
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Not able to view my sites
     *   by dee\_296
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
