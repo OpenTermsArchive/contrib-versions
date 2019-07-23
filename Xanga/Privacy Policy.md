@@ -1,22 +1,22 @@
-Skip to toolbar
-
-*   Xanga
-
-*   Log In
-
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   How to access old blog?
+    *   by Boicrazy000
+    *   11 hours ago
+    *   in Usernames
+    *   0 votes
+    *   0
 *   Tribal Proxy
     *   by pet\_rescuers
-    *   6 days ago
+    *   1 week ago
     *   in Emails
     *   0 votes
     *   0
 *   Tribal Proxy
     *   by pet\_rescuers
-    *   6 days ago
+    *   1 week ago
     *   in Emails
     *   0 votes
     *   0
@@ -28,7 +28,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Another blog missing all old posts
     *   by top\_5\_guy
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -92,12 +92,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Miscellaenous
     *   0 votes
     *   0
-*   I renewed my account May 23, 2019
-    *   by Mr\_Turniphead
-    *   1 month ago
-    *   in Premium
-    *   0 votes
-    *   0
 
 1 2 3 ... 194 Next
 
@@ -156,4 +150,8 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
+
+*   Xanga
+
+*   Log In
