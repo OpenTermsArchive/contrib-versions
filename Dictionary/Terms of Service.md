@@ -169,7 +169,7 @@ Dictionary.com, LLC (“Dictionary,” “we,” “us,” or “our”) respect
     1050 Woodward Avenue  
     Detroit, MI 48226
     
-    Dictionary.com, LLC is the controller (as provided under laws applicable to EEA jurisdictions) responsible for the personal information we collect and process. Dictionary.com, LLC takes their clients’ (and the customers of their clients) data protection seriously, and has appointed DPR Group as their Data Protection Representative in the European Union which can be contacted by sending an email to DPR Group at dictionary@dpr.eu.com.
+    Dictionary.com, LLC is the controller (as provided under laws applicable to EEA jurisdictions) responsible for the personal information we collect and process. Dictionary.com, LLC takes their clients’ (and the customers of their clients) data protection seriously, and has appointed DPR Group as their Data Protection Representative in the European Union which can be contacted by sending an email to DPR Group at dictionary@dpr.eu.com. Please note that this email address is only for privacy-related inquiries. General web site assistance can be obtained through our Contact Us web page or by emailing support@dictionary.zendesk.com.
     
 TERMS OF SERVICE
 
