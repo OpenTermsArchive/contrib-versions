@@ -411,7 +411,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Office 365 Personal
 *   Office 365 Pro Plus optional connected experiences
 *   Office 365 University
-*   Office Online
+*   Office for the web (formerly Office Online)
 *   Office Store
 *   Office Sway
 *   Office.com
@@ -870,7 +870,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Office 365 Personal
 *   Office 365 Pro Plus optional connected experiences
 *   Office 365 University
-*   Office Online
+*   Office for the web (formerly Office Online)
 *   Office Store
 *   Office Sway
 *   Office.com
