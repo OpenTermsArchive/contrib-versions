@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   How to access old blog?
     *   by Boicrazy000
-    *   2 days ago
+    *   3 days ago
     *   in Usernames
     *   0 votes
     *   0
