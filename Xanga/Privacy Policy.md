@@ -1,10 +1,22 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Looking for old posts
+    *   by bleach\_me\_clean
+    *   7 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   How to access old blog?
     *   by Boicrazy000
-    *   5 days ago
+    *   6 days ago
     *   in Usernames
     *   0 votes
     *   0
@@ -34,7 +46,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Old Lost Xanga
     *   by Secrets\_forthe\_Man\_inthe\_Moon
-    *   4 weeks ago
+    *   1 month ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -78,12 +90,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by torn\_topieces
     *   1 month ago
     *   in Data Migration
-    *   0 votes
-    *   0
-*   I renewed my account May 23, 2019
-    *   by Mr\_Turniphead
-    *   1 month ago
-    *   in Miscellaenous
     *   0 votes
     *   0
 *   I renewed my account May 23, 2019
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
