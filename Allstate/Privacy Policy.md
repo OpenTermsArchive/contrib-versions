@@ -3,7 +3,7 @@
 *   Find An Agent
 *   Contact Us
 *   Español
-*   denver, CO 80201
+*   Set Your Location
 *   Search
 
 Popular Searches
@@ -88,18 +88,21 @@ Popular Searches
     
     Get a quote in
     
-    Select which products you'd like to bundle:
+    AutoHomeRentersLifeCondoMotorcycleBoatATVBusiness
     
-    Auto Home Renters Life
-    
-    Or choose from other popular products
-    
-    Select a productCondoMotorcycleBoatATVBusiness
+    *   Home
+    *   Renters
+    *   Life
     *   Condo
     *   Motorcycle
     *   Boat
     *   ATV
-    *   BusinessSelect a product Get a quote Retrieve a saved quote
+    *   Business
+    
+    Auto + Add another product to saveHomeRentersLife
+    *   Home
+    *   Renters
+    *   Life\+ Add another product to save Get a quote Retrieve a saved quote
 *   Insurance &. More
     *   Roadside
     *   Auto
@@ -138,9 +141,7 @@ Popular Searches
     *   Business Insurance
 *   Get A Quote in
     
-    80201
-    
-    80201 Edit location
+    Edit location
     
     Select a ProductAutoHomeRentersLifeCondoMotorcycleBoatATV/Rec. VehicleBusiness InsuranceMore InsuranceGet A Quote
     
@@ -161,7 +162,7 @@ What's This?
 
 Register new account
 
-*   denver, CO 80201
+*   Update Zip Code
 *   Contact Us
 *   Español
 
@@ -202,13 +203,13 @@ Register new account
 
 Find An Agent Close
 
-Agents near 80201
+Agents near
 
 *   Loading...
 
 Advanced agent search
 
-80201 Edit location
+Edit location
 
 Select a ProductAutoHomeRentersLifeCondoMotorcycleBoatATV/Rec. VehicleBusiness InsuranceGet a quote
 
@@ -442,7 +443,7 @@ We won't share your personal information with Allstate companies for marketing p
 
 Top
 
-80201Edit Location
+Edit Location
 
 Select a ProductAutoHomeRentersLifeCondoMotorcycleBoatATV/Rec. VehicleBusiness Insurance
 
@@ -490,8 +491,6 @@ ZIP Code
   
 
 City, State
-
-denver, CO
 
 Oops! You have entered an invalid ZIP. Please try again. Location data not available. Please enter zip code. Please Wait...Updating Location...  
 It's taking a bit longer than expected. Your update should be done soon. This feature is not currently available.  
