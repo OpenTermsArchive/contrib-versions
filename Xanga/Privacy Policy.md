@@ -10,25 +10,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Looking for old posts
     *   by bleach\_me\_clean
-    *   7 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How to access old blog?
     *   by Boicrazy000
-    *   6 days ago
+    *   1 week ago
     *   in Usernames
     *   0 votes
     *   0
 *   Tribal Proxy
     *   by pet\_rescuers
-    *   1 week ago
+    *   2 weeks ago
     *   in Emails
     *   0 votes
     *   0
 *   Tribal Proxy
     *   by pet\_rescuers
-    *   1 week ago
+    *   2 weeks ago
     *   in Emails
     *   0 votes
     *   0
@@ -40,7 +40,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Another blog missing all old posts
     *   by top\_5\_guy
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
