@@ -62,22 +62,13 @@ Terms and Conditions Windstream Information ▼ About us
         *   California Teleconnect Fund Program
     *   Store Finder
     *   FCC Rural Call Completion
-    *   Google Apps License
 *   Suppliers▼
     *   Supplier Information
     *   Supplier Diversity
     *   Supplier Code of Ethics
-*   PAETEC Information▼
-    *   PAETEC Tariffs
-    *   PAETEC Terms and Conditions
-    *   Protecting CPNI: Your Rights and Opinions
-    *   Terms and Conditions for McLeodUSA Communications' Customers
-*   MassComm Information▼
-    *   MassComm Tariffs
 *   Legal▲
     *   Acceptable Use Policy
     *   Broadband Network Statement
-    *   Fee and Surcharge Guide
     *   Legal Notices
     *   Offer Conditions
     *   Privacy Policy
