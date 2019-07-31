@@ -84,25 +84,29 @@ Popular Searches
 *   Allstate ePolicy
 *   Insurance Cards
 
-*   Get a quote
+*   Get a Quote
     
-    Get a quote in
+    Your location is set for  
+    denver, CO 80201
     
-    AutoHomeRentersLifeCondoMotorcycleBoatATVBusiness
+    Enter a valid US ZIP Code to set your location.
     
+    Edit location
+    
+    Select a product to get a quote.
+    
+    Retrieve a saved quote
+    *   Auto
     *   Home
     *   Renters
     *   Life
     *   Condo
     *   Motorcycle
     *   Boat
-    *   ATV
-    *   Business
-    
-    Auto + Add another product to saveHomeRentersLife
-    *   Home
-    *   Renters
-    *   Life\+ Add another product to save Get a quote Retrieve a saved quote
+    *   ATV/Rec. Vehicle
+    *   Business Insurance
+    *   More Insurance
+    *   Find An Agent
 *   Insurance &. More
     *   Roadside
     *   Auto
@@ -493,8 +497,6 @@ ZIP Code
   
 
 City, State
-
-denver, CO
 
 Oops! You have entered an invalid ZIP. Please try again. Location data not available. Please enter zip code. Please Wait...Updating Location...  
 It's taking a bit longer than expected. Your update should be done soon. This feature is not currently available.  
