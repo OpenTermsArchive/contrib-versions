@@ -8,9 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   i cannot upgrade to xanga 2.0
+    *   by Secretjay
+    *   12 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   looking for old post
+    *   by Secretjay
+    *   12 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Looking for old posts
     *   by bleach\_me\_clean
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -84,18 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by my\_own\_direction
     *   1 month ago
     *   in Data Migration
-    *   0 votes
-    *   0
-*   Blog does not appear
-    *   by torn\_topieces
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   I renewed my account May 23, 2019
-    *   by Mr\_Turniphead
-    *   1 month ago
-    *   in Miscellaenous
     *   0 votes
     *   0
 
