@@ -4,19 +4,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   i cannot upgrade to xanga 2.0
     *   by Secretjay
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   looking for old post
     *   by Secretjay
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Looking for old posts
     *   by bleach\_me\_clean
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -88,7 +88,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 (last comment by usalapinhazzer 1 month ago)
 *   Where’s my blogs?
     *   by my\_own\_direction
-    *   1 month ago
+    *   2 months ago
     *   in Data Migration
     *   0 votes
     *   0
