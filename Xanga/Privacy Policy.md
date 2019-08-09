@@ -4,13 +4,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   i cannot upgrade to xanga 2.0
     *   by Secretjay
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   looking for old post
     *   by Secretjay
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
