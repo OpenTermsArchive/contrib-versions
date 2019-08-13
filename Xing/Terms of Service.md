@@ -42,8 +42,6 @@ General Terms and Conditions for the use of XING Jobs – Online customers
 
 General Terms and Conditions for the use of XING Jobs – Offline customers
 
-General Terms and Conditions for the use of XING Projects
-
 General Terms and Conditions for the use of XING Enterprise Groups
 
 General Terms and Conditions for the use of the AdCreator
@@ -78,7 +76,7 @@ Last updated: 1 February 2019
 
   
 
-**“XING”** means the service as described below (including all applications) and/or the provider of this service, XING SE.
+**“XING”** means the service as described below (including all applications) and/or the provider of this service, New Work SE.
 
 A. General Terms and Conditions for the use of the XING service
 
@@ -92,7 +90,7 @@ Additional terms (e.g. code of conduct for group moderators or commenting rules 
 
 The General Terms and Conditions for the use of the XING service and any additional terms for the use of individual applications are hereinafter referred to as **“GTC”**.
 
-The contract is concluded with XING SE, Dammtorstraße 30, 20354 Hamburg, Germany. Further contact details, commercial register details as well as the name of a person authorised to represent XING SE can be found in the “About this site” section.
+The contract is concluded with New Work SE, Dammtorstraße 30, 20354 Hamburg, Germany. Further contact details, commercial register details as well as the name of a person authorised to represent New Work SE can be found in the “About this site” section.
 
    
 1\. Subject and basis for using XING
@@ -149,7 +147,7 @@ You have the right to withdraw from this contract within 14 days without giving 
 
 To exercise the right of withdrawal, you must inform us
 
-XING SE  
+New Work SE  
 Dammtorstraße 30  
 20354 Hamburg  
 Germany  
@@ -377,9 +375,9 @@ issue a warning.
 
 **11.5** We do not participate in dispute resolution procedures handled by dispute resolution bodies.
 
-**11.6** The place of performance under these GTC shall be XING SE's main place of business.
+**11.6** The place of performance under these GTC shall be New Work SE's main place of business.
 
-**11.7** Place of jurisdiction for merchants within the scope of the German Commercial Code (HGB) shall be the main place of business of XING SE.
+**11.7** Place of jurisdiction for merchants within the scope of the German Commercial Code (HGB) shall be the main place of business of New Work SE.
 
 **11.8** These GTC and the contractual relationship shall be governed by German law, excluding international private law and the provisions of the United Nations Convention on Contracts for the International Sale of Goods that have been adopted by German law.
 
