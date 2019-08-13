@@ -22,19 +22,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   How to access old blog?
     *   by Boicrazy000
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Usernames
     *   0 votes
     *   0
 *   Tribal Proxy
     *   by pet\_rescuers
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Emails
     *   0 votes
     *   0
 *   Tribal Proxy
     *   by pet\_rescuers
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Emails
     *   0 votes
     *   0
