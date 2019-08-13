@@ -120,7 +120,7 @@ Customer Agreements and Policies **COMCAST AGREEMENT FOR RESIDENTIAL   SERVICE
         
     *   **d. Your Obligations Upon Termination.** You agree that upon termination of this Agreement you will do the following:
         
-        1.  You will immediately cease all use of the Service(s) and all Xfinity Equipment;
+        1.  You will immediately cease all use of the Service(s) and all Xfinity Equipment.
             
         2.  Except as provided in Section 9(b) for Prince Georges County residents, you will pay in full for your use of the Service(s) up to the date that this Agreement has been terminated and the Service(s) are disconnected. and
             
@@ -128,15 +128,13 @@ Customer Agreements and Policies **COMCAST AGREEMENT FOR RESIDENTIAL   SERVICE
             
             *   **For Montgomery County, Maryland Residents.** If you are mobility impaired, upon your request, we will arrange for the pickup or exchange of our modem at the Premises.
                 
+        4.  Unreturned Equipment Fee. "Unreturned Equipment Fee" refers to a fee charged by Comcast to a subscriber for any unreturned Xfinity Equipment upon termination of the services provided under this Agreement. The payment of an Unreturned Equipment Fee shall not result in a sale of, or the transfer of title to , any Xfinity Equipment, and such equipment shall remain the property of Comcast, and Comcast retains title to Xfinity Equipment at all times. Comcast in no way relinquishes ownership of (including title to) Xfinity Equipment by the payment of an Unreturned Equipment Fee. Even if an Unreturned Equipment Fee has been paid, Xfinity Equipment shall not be resold, used or operated in any manner. If you pay an Unreturned Equipment Fee and subsequently return the equipment, you will be refunded your Unreturned Equipment Fee in full.
             
-            4\. Unreturned Equipment Fee. "Unreturned Equipment Fee" refers to a fee charged by Comcast to a subscriber for any unreturned Xfinity Equipment upon termination of the services provided under this Agreement. The payment of an Unreturned Equipment Fee shall not result in a sale of, or the transfer of title to , any Xfinity Equipment, and such equipment shall remain the property of Comcast, and Comcast retains title to Xfinity Equipment at all times. Comcast in no way relinquishes ownership of (including title to) Xfinity Equipment by the payment of an Unreturned Equipment Fee. Even if an Unreturned Equipment Fee has been paid, Xfinity Equipment shall not be resold, used or operated in any manner. If you pay an Unreturned Equipment Fee and subsequently return the equipment, you will be refunded your Unreturned Equipment Fee in full.
-            
-
-*   **LIMITED WARRANTY**
+10.  **LIMITED WARRANTY**
     
     THE XFINITY EQUIPMENT AND THE SERVICE(S) ARE PROVIDED “AS IS,” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED. NEITHER WE NOR OUR AFFILIATES, SUPPLIERS, EMPLOYEES, AGENTS, CONTRACTORS, DISTRIBUTORS, LICENSORS OR BUSINESS PARTNERS WARRANT THAT THE XFINITY EQUIPMENT OR THE SERVICE(S) WILL MEET YOUR REQUIREMENTS, THAT ANY COMMUNICATIONS WILL BE TRANSMITTED IN UNCORRUPTED FORM, PROVIDE UNINTERRUPTED USE, OR OPERATE AS REQUIRED, WITHOUT DELAY, OR WITHOUT ERROR. ALL REPRESENTATIONS AND WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF PERFORMANCE, NONINFRINGEMENT, FITNESS FOR A PARTICULAR PURPOSE OR MERCHANTABILITY, ARE HEREBY DISCLAIMED AND EXCLUDED UNLESS OTHERWISE PROHIBITED OR RESTRICTED BY APPLICABLE LAW.
     
-*   **LIMITATION OF OUR LIABILITY**
+11.  **LIMITATION OF OUR LIABILITY**
     *   **a. Application.** The limitations of liability set forth in this Section apply to any acts, omissions, and negligence of us and our underlying third-party service providers, agents, suppliers, distributors, licensors and business partners (and their respective officers, employees, agents, contractors or representatives) which, but for that provision, would give rise to a cause of action in contract, tort or under any other legal doctrine.
         
     *   **b. One Year Limitation Period.** YOU MUST COMMENCE YOUR ACTION WITHIN ONE (1) YEAR OF THE DATE OF THE OCCURRENCE OF THE EVENT OR FACTS GIVING RISE TO A DISPUTE OR YOU WAIVE THE RIGHT TO PURSUE ANY CLAIM BASED ON SUCH EVENTS OR FACTS. AS PROVIDED IN SECTION 2(i), YOU MUST NOTIFY US OF ANY BILLING DISPUTE WITHIN 120 DAYS OF RECEIVING THE CHARGES YOU DISPUTE OR YOU WAIVE THE RIGHT TO PURSUE ANY CLAIM BASED ON SUCH EVENT OR FACTS. IF FOLLOWING SUCH NOTIFICATION THE DISPUTE IS NOT RESOLVED TO YOUR SATISFACTION YOU MAY COMMENCE AN ACTION IN ACCORDANCE WITH THIS AGREEMENT FOR UP TO ONE (1) YEAR FROM RECEIPT OF THE DISPUTED CHARGES.
@@ -179,11 +177,11 @@ Customer Agreements and Policies **COMCAST AGREEMENT FOR RESIDENTIAL   SERVICE
         
     *   **j. Survival of Limitations.** All representations, warranties, indemnifications, and limitations of liability contained in this Agreement shall survive the termination of this Agreement. any other obligations of the parties hereunder shall also survive, if they relate to the period before termination or if, by their terms, they would be expected to survive such termination.
         
-*   **INDEMNIFICATION AND LIABILITY**
+12.  **INDEMNIFICATION AND LIABILITY**
     
     YOU AGREE THAT YOU SHALL BE RESPONSIBLE FOR AND SHALL DEFEND, INDEMNIFY, AND HOLD HARMLESS US AND OUR EMPLOYEES, AFFILIATES, SUPPLIERS, AGENTS, CONTRACTORS, DISTRIBUTORS, LICENSORS AND BUSINESS PARTNERS AND SHALL REIMBURSE US FOR ANY DAMAGES, LOSSES OR EXPENSES (INCLUDING WITHOUT LIMITATION, REASONABLE ATTORNEYS’ FEES AND COSTS) INCURRED BY US IN CONNECTION WITH ANY CLAIMS, SUITS, JUDGMENTS, AND CAUSES OF ACTION ARISING OUT OF (a) YOUR USE OF THE SERVICE(S), THE XFINITY EQUIPMENT OR THE CUSTOMER EQUIPMENT. (b) VIOLATION OR INFRINGEMENT OF CONTRACTUAL RIGHTS, PRIVACY, CONFIDENTIALITY, COPYRIGHT, PATENT, TRADEMARK, TRADE SECRET, OR OTHER INTELLECTUAL PROPERTY AND PROPRIETARY RIGHTS ARISING FROM YOUR USE OF THE SERVICE(S) OR ANY UNAUTHORIZED APPARATUS OR SYSTEM. (c) ANY CLAIMS OR DAMAGES ARISING OUT OF THE LACK OF 911/E911 OR DIALING ASSOCIATED WITH A HOME SECURITY, HOME DETENTION, OR MEDICAL MONITORING SYSTEM. AND (d) YOUR BREACH OF ANY PROVISION OF THIS AGREEMENT OR ANY AUP.
     
-*   **BINDING ARBITRATION**
+13.  **BINDING ARBITRATION**
     *   **a. Purpose.** Any Dispute involving you and us shall be resolved through individual arbitration. In arbitration, there is no judge or jury and there is less discovery and appellate review than in court.
         
     *   **b. Definitions.** This Arbitration Provision shall be broadly interpreted. “Dispute” means any claim or controversy related to us or our relationship, including but not limited to any and all: (1) claims for relief and theories of liability, whether based in contract, tort, fraud, negligence, statute, regulation, ordinance, or otherwise. (2) claims that arose before this or any prior Agreement. (3) claims that arise after the expiration or termination of this Agreement, and (4) claims that are the subject of purported class action litigation. As used in this Arbitration Provision, “us” means Comcast and any of its predecessors, successors, assigns, parents, subsidiaries, and affiliates, and each of their respective officers, directors, employees and agents, and “you” means you and any users or beneficiaries of the Xfinity Service(s) or Equipment.
@@ -206,12 +204,12 @@ Customer Agreements and Policies **COMCAST AGREEMENT FOR RESIDENTIAL   SERVICE
         
     *   **k. For New York Residents. You may elect to resolve a Dispute for TV through the New York Public Service Commission in accordance with NYCRR 16§890.709(a) and NYCRR 16§709(c).**
         
-*   **CUSTOMER PRIVACY NOTICE AND SECURITY**
-    *   a. We will provide you with a copy of our customer privacy notice at the time we enter into an agreement to provide any Service(s) to you, and annually afterwards, or as otherwise permitted by law. You can view the most current version of our privacy notice by going to http://www.xfinity.com/Corporate/Customers/Policies/CustomerPrivacy.
+14.  **CUSTOMER PRIVACY NOTICE AND SECURITY**
+    *   **a.** We will provide you with a copy of our customer privacy notice at the time we enter into an agreement to provide any Service(s) to you, and annually afterwards, or as otherwise permitted by law. You can view the most current version of our privacy notice by going to http://www.xfinity.com/Corporate/Customers/Policies/CustomerPrivacy.
         
-    *   b. To the extent we are expressly required to do so by applicable law, we will provide notice to you of a breach of the security of certain personally identifiable information about you. It is our information security policy to provide such notice to you in the manner set forth in Section 16.
+    *   **b.** To the extent we are expressly required to do so by applicable law, we will provide notice to you of a breach of the security of certain personally identifiable information about you. It is our information security policy to provide such notice to you in the manner set forth in Section 16.
         
-*   **GENERAL**
+15.  **GENERAL**
     *   **a. Entire Agreement.** This Agreement and any other documents incorporated by reference constitute the entire agreement and understanding between you and us with respect to the subject matter of this Agreement, and replace any and all prior written or verbal agreements. If any portion of this Agreement is held to be unenforceable, the unenforceable portion shall be construed in accordance with applicable law as nearly as possible to reflect the original intentions of the parties, and the remainder of the provisions shall remain in full force and effect. We do not waive any provision or right if we fail to insist upon or enforce strict performance of any provision of this Agreement. Neither the course of conduct between you and us nor trade practice shall act to modify any provision of this Agreement.
         
     *   **b. Waiver of Jury Trial. WHETHER IN COURT OR IN ARBITRATION, YOU AND WE AGREE TO WAIVE THE RIGHT TO A TRIAL BY JURY.**
@@ -232,11 +230,11 @@ Customer Agreements and Policies **COMCAST AGREEMENT FOR RESIDENTIAL   SERVICE
         
     *   **h. Monitoring and Recording.** You agree that Comcast and its agents may monitor and record any telephone calls or other voice, data or image communications that are transmitted between: (1) Comcast and its agents and (2) you, your agents, any user of your Service(s) or Equipment, or any user of any phone numbers associated with your account.
         
-*   **NOTICE METHOD FOR CHANGES TO THIS AGREEMENT**
+16.  **NOTICE METHOD FOR CHANGES TO THIS AGREEMENT**
     
     We may deliver any notice concerning our relationship with you, including notice of any change to this Agreement, in any one or more of the following ways, as determined in our discretion: (1) by posting it on www.xfinity.com or any other website about which you have been notified. (2) by mail or hand delivery to your Premises. (3) by e-mail to the address for your account in our records. or (4) by including it on or with your bill for Service(s). You agree that any one of the foregoing will constitute sufficient and effective notice under this Agreement. Because we may from time to time notify you about important information regarding the Service(s) and this Agreement by these methods, you agree it is your responsibility to regularly check your postal mail, e-mail and all postings at www.xfinity.com or any other website about which you have been notified. If you find any change to this Agreement to be unacceptable, you have the right to cancel your Service(s). Your continued receipt of the Service(s) for more than 30 days after we deliver notice of the change, however, will constitute your acceptance of the change.
     
-*   **IMPORTANT INFORMATION**
+17.  **IMPORTANT INFORMATION**
     
     If you are unable to get a problem resolved to your satisfaction at our local office, you may write to the Comcast Corporate Offices at 1701 John F. Kennedy Blvd., Philadelphia, PA 19103-2838 with concerns and complaints.
     
