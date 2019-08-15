@@ -84,22 +84,29 @@ Popular Searches
 *   Allstate ePolicy
 *   Insurance Cards
 
-*   Get a quote
+*   Get a Quote
     
-    Get a quote in
+    Your location is set for  
+    denver, CO 80201
     
-    Select which products you'd like to bundle:
+    Enter a valid US ZIP Code to set your location.
     
-    Auto Home Renters Life
+    Edit location
     
-    Or choose from other popular products
+    Select a product to get a quote.
     
-    Select a productCondoMotorcycleBoatATVBusiness
+    Retrieve a saved quote
+    *   Auto
+    *   Home
+    *   Renters
+    *   Life
     *   Condo
     *   Motorcycle
     *   Boat
-    *   ATV
-    *   BusinessSelect a product Get a quote Retrieve a saved quote
+    *   ATV/Rec. Vehicle
+    *   Business Insurance
+    *   More Insurance
+    *   Find An Agent
 *   Insurance &. More
     *   Roadside
     *   Auto
