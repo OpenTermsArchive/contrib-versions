@@ -34,13 +34,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Tribal Proxy
     *   by pet\_rescuers
-    *   4 weeks ago
+    *   1 month ago
     *   in Emails
     *   0 votes
     *   0
 *   Tribal Proxy
     *   by pet\_rescuers
-    *   4 weeks ago
+    *   1 month ago
     *   in Emails
     *   0 votes
     *   0
