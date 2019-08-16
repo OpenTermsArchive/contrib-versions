@@ -18,25 +18,25 @@ You can find information about us and how we collect, use and store your persona
 *   How We Use the Information
 *   External Links
 *   Retention of Personally Identifiable Information
-*   Confidentiality &. Security of Personally Identifiable Information
+*   Confidentiality and Security of Your Personally Identifiable Information
 *   Updating or Deleting Your Personally Identifiable Information
 *   Questions, Suggestions and Complaints
 *   California Privacy Rights
 *   International Privacy Practices
 *   Changing Our Privacy Policy
-*   No Information from Children Under 13
+*   No Information From Children Under 13
 
 Purpose and who we are
 
-The purpose of this Privacy Policy is to describe how Coursera, Inc. ("Coursera," "us," "we," or "our") collects, uses and shares information about you through our online interfaces (e.g., websites and mobile applications) owned and controlled by us, including www.coursera.org (collectively referred to herein as the "Site"). Please read this notice carefully to understand what we do. If you do not understand any aspects of our Privacy Policy, please feel free to contact us at privacy@coursera.org. Your use of our Site is also governed by our Terms of Use. Coursera, Inc. is a Delaware corporation with a principal place of business at 381 E. Evelyn Ave., Mountain View, CA 94041. If you reside or are located in the European Economic Area ("EEA") Coursera is the data controller of all Personally Identifiable Information (as defined below) collected via the Site and of certain Personally Identifiable Information collected from third parties, as set out in this Privacy Policy.
+The purpose of this Privacy Policy is to describe how Coursera, Inc. ("Coursera," "us," "we," or "our") collects, uses and shares information about you through our online interfaces (e.g., websites and mobile applications) owned and controlled by us, including www.coursera.org (collectively referred to herein as the "Site"). Please read this notice carefully to understand what we do. If you do not understand any aspects of our Privacy Policy, please feel free to contact us at privacy@coursera.org. Your use of our Site is also governed by our Terms of Use.
+
+Coursera, Inc. is a Delaware corporation with a principal place of business at 381 E. Evelyn Ave., Mountain View, CA 94041. If you reside or are located in the European Economic Area ("EEA") Coursera is the data controller of all Personally Identifiable Information (as defined below) collected via the Site and of certain Personally Identifiable Information collected from third parties, as set out in this Privacy Policy.
 
 What Information this Privacy Policy Covers
 
-This Privacy Policy covers information we collect from you through our Site. Some of our Site’s functionality can be used without revealing any Personally Identifiable Information, though for features or services related to the Online Courses, Personally Identifiable Information is required. In order to access certain features and benefits on our Site, you may need to submit, or we may collect,
+This Privacy Policy covers information we collect from you through our Site. Some of our Site’s functionality can be used without revealing any Personally Identifiable Information, though for features or services related to the Online Courses, Personally Identifiable Information is required. In order to access certain features and benefits on our Site, you may need to submit, or we may collect, 
 
-**"Personally Identifiable Information"** (i.e., information that can be used to identify you). Personally Identifiable Information can include information such as your name and email address, among other things. If you reside or are located in the EEA, it can also include your IP address or device identifier. You are responsible for ensuring the accuracy of the Personally Identifiable Information you submit to Coursera. Inaccurate information may affect your ability to use the Site, the information you receive when using the Site, and our ability to contact you. For example, your email address should be kept current because that is one of the primary manners in which we communicate with you.
-
-What You Agree to by Using Our Site
+**"Personally Identifiable Information"** (i.e., information that can be used to identify you). Personally Identifiable Information can include information such as your name and email address, among other things. If you reside or are located in the EEA, it can also include your IP address or device identifier. You are responsible for ensuring the accuracy of the Personally Identifiable Information you submit to Coursera. Inaccurate information may affect your ability to use the Site, the information you receive when using the Site, and our ability to contact you. For example, your email address should be kept current because that is one of the primary manners in which we communicate with you.What You Agree to by Using Our Site
 
 We consider that the legal bases for using your personal information as set out in this privacy policy are as follows:
 
@@ -61,16 +61,20 @@ What Information We Collect
 
 We gather two types of information about users through the Site:
 
-1.  **Information relating to your use of our Site.** When users come to our Site, we may track, collect and aggregate information indicating, among other things, which pages of our Site were visited, the order in which they were visited, when they were visited, and which hyperlinks were "clicked." We also collect information from the URLs from which you linked to our Site. Collecting such information may involve logging the IP address, operating system and browser software used by each user of the Site. We may be able to determine from an IP address a user’s Internet Service Provider and the geographic location of his or her point of connectivity. We also use (or may use) cookies and web beacons when you visit our Site. For more information on our use of cookies and web beacons, please refer to our Cookie Policy.
-    
-2.  **Personally Identifiable Information provided directly by you or via third parties.** We collect Personally Identifiable Information that you provide to us when you register for an account, update or change information for your account, purchase products or services, complete a survey, sign-up for email updates or Online Courses, participate in our public forums, send us email messages, and/or participate in Online Courses or other services on our Site. We may use the Personally Identifiable Information that you provide to respond to your questions, provide you the specific course and/or services you select, send you updates about Online Courses offered by Coursera or other Coursera events, and send you email messages about Site maintenance or updates.
+**1\. Information relating to your use of our Site.** When users come to our Site, we may track, collect and aggregate information indicating, among other things, which pages of our Site were visited, the order in which they were visited, when they were visited, and which hyperlinks were "clicked." We also collect information from the URLs from which you linked to our Site. Collecting such information may involve logging the IP address, operating system and browser software used by each user of the Site. We may be able to determine from an IP address a user’s Internet Service Provider and the geographic location of his or her point of connectivity.
+
+We also use (or may use) cookies and web beacons when you visit our Site. For more information on our use of cookies and web beacons, please refer to our Cookie Policy.
+
+**2\. Personally Identifiable Information provided directly by you or via third parties.** We collect Personally Identifiable Information that you provide to us when you register for an account, update or change information for your account, purchase products or services, complete a survey, sign-up for email updates or Online Courses, participate in our public forums, send us email messages, and/or participate in Online Courses or other services on our Site. We may use the Personally Identifiable Information that you provide to respond to your questions, provide you the specific course and/or services you select, send you updates about Online Courses offered by Coursera or other Coursera events, and send you email messages about Site maintenance or updates.
 
 *   Account Registration. If you register for an account on our Site, you may be required to provide us with Personally Identifiable Information such as your name and email address.
     
 *   Updates. Coursera may offer you the ability to receive updates either via email or by posting on portions of the Site only accessible to registered users. In order to subscribe to these services, you may be required to provide us with Personally Identifiable Information such as your name and email address.
     
-*   Forums. Coursera may offer public forums from time to time (the "Forums") where you can share comments and thoughts. In order to participate in the Forums, you may be required to register with us and/or provide us with Personally Identifiable Information such as your name and email address. Please keep in mind that information you post or make available in Forums will be publicly available. You should not post any Personally Identifiable Information or other information of a personal or sensitive nature, whether relating to you or another person, on a Forum. Please also reference our Terms of Use for our Rules for Online Conduct and additional information about proper use of our Forums.
+*   Forums. Coursera may offer public forums from time to time (the "Forums") where you can share comments and thoughts. In order to participate in the Forums, you may be required to register with us and/or provide us with Personally Identifiable Information such as your name and email address. Please keep in mind that information you post or make available in Forums will be publicly available. You should not post any Personally Identifiable Information or other information of a personal or sensitive nature, whether relating to you or another person, on a Forum. Please also reference our Terms of Use for our Rules for Online Conduct and additional information about proper use of our Forums.
+    
 *   Participation in Online Courses. Coursera offers users the opportunity to participate in an Online Course on or through the Site. If you desire to participate in a course, you will be asked to provide us with certain information necessary to conduct such a course. This information may include, among other things, your name and email address.
+    
 
 If you participate in an online course, we may collect from you certain student-generated content, such as assignments you submit to instructors, peer-graded assignments, and peer grading student feedback. We also collect course data, such as student responses to in-video quizzes, standalone quizzes, exams, and surveys. You should not include any Personally Identifiable Information or other information of a personal or sensitive nature, whether relating to you or another person, on assignments, exams, or surveys, except for information required to participate or submit such assignments, exams, or surveys.
 
@@ -85,11 +89,13 @@ If you participate in an online course, we may collect from you certain student-
 *   Partner sites. Partner sites providing Online Course related tools and services to Coursera users may collect nonfinancial individual level user data regarding the individual’s use of that partner site while engaged with such Online Course related activities, and the partner sites may share that data with Coursera for the purpose of improving Coursera’s services, the partner site’s services, and the individual’s education experience. This data includes information such as the amount of time spent on the partner site and pages viewed.
     
 *   Third Party Credit Card Processing. Coursera provides you with the ability to pay for Online Courses and other services using a credit card through a third party payment processing service provider. Please note that our service provider – not Coursera – collects and processes your credit card information.
+    
 
 How We Use the Information
 
-1.  **Information relating to your use of our Site.** We use information relating to your use of the Site to build higher quality, more useful services by performing statistical analyses of the collective characteristics and behavior of our users, and by measuring demographics and interests regarding specific areas of our Site. We may also use this information to ensure the security of our services and the Site.
-2.  **Personally Identifiable Information provided directly by you or via third parties.** Except as set forth in this Privacy Policy or as specifically agreed to by you, Coursera will not disclose any of your Personally Identifiable Information. In addition to the other uses set forth in this Privacy Policy, we may disclose and otherwise use Personally Identifiable Information as described below.
+**1\. Information relating to your use of our Site.** We use information relating to your use of the Site to build higher quality, more useful services by performing statistical analyses of the collective characteristics and behavior of our users, and by measuring demographics and interests regarding specific areas of our Site. We may also use this information to ensure the security of our services and the Site.
+
+**2\. Personally Identifiable Information provided directly by you or via third parties.** Except as set forth in this Privacy Policy or as specifically agreed to by you, Coursera will not disclose any of your Personally Identifiable Information. In addition to the other uses set forth in this Privacy Policy, we may disclose and otherwise use Personally Identifiable Information as described below.
 
 *   Providing the Site and our services. We use Personally Identifiable Information which you provide to us in order to allow you to access and use the Site and in order to provide any information, products or services that you request from us.
     
@@ -115,7 +121,8 @@ How We Use the Information
     
 *   Disclosure to Acquirers. Coursera may disclose and/or transfer your Personally Identifiable Information to an acquirer, assignee or other successor entity in connection with a sale, merger, or reorganization of all or substantially all of the equity, business or assets of Coursera to which your Personally Identifiable Information relates.
     
-*   e-Readers. If we receive any Personally Identifiable Information related to the extent to which you use designated e-Readers to access Coursera materials, we may archive it, and use it for research, business, or other purposes.
+*   e-Readers. If we receive any Personally Identifiable Information related to the extent to which you use designated e-Readers to access Coursera materials, we may archive it, and use it for research, business, or other purposes.
+    
 
 External Links
 
@@ -133,7 +140,7 @@ Updating or Deleting Your Personally Identifiable Information
 
 You have certain rights in relation to your Personally Identifiable Information. You can access your Personally Identifiable Information and confirm that it remains correct and up-to-date or choose whether or not you wish to receive material from us or some of our partners by logging into the Site and visiting your user account page.
 
-If you would like further information in relation to your rights or would like to exercise any of them, you may also contact us via privacy@coursera.org. If you reside or are located in the EEA, you have the right to request that we:
+If you would like further information in relation to your rights or would like to exercise any of them, you may also contact us via privacy@coursera.org. If you reside or are located in the EEA, you have the right to request that we:
 
 *   provide access to any Personally Identifiable Information we hold about you;
 *   prevent the processing of your Personally Identifiable Information for direct-marketing purposes;
@@ -141,19 +148,27 @@ If you would like further information in relation to your rights or would like t
 *   delete any Personally Identifiable Information which we are holding about you;
 *   restrict the way that we process your Personally Identifiable Information;
 *   provide your Personally Identifiable Information to a third party provider of services. or
-*   provide you with a copy of any Personally Identifiable Information which we hold about you. We try to answer every email promptly where possible, and provide our response within the time period stated by applicable law. Keep in mind, however, that there will be residual information that will remain within our databases, access logs and other records, which may or may not contain your Personally Identifiable Information. Please also note that certain Personally Identifiable Information may be exempt from such requests in certain circumstances, which may include if we need to keep processing your Personally Identifiable Information to comply with a legal obligation. When you email us with a request, we may ask that you provide us with information necessary to confirm your identity.
+*   provide you with a copy of any Personally Identifiable Information which we hold about you.
+
+We try to answer every email promptly where possible, and provide our response within the time period stated by applicable law. Keep in mind, however, that there will be residual information that will remain within our databases, access logs and other records, which may or may not contain your Personally Identifiable Information. Please also note that certain Personally Identifiable Information may be exempt from such requests in certain circumstances, which may include if we need to keep processing your Personally Identifiable Information to comply with a legal obligation. 
+
+When you email us with a request, we may ask that you provide us with information necessary to confirm your identity.
 
 Questions, Suggestions and Complaints
 
-If you have any privacy-related questions, suggestions, unresolved problems, or complaints you may contact us via privacy@coursera.org. If you reside or are located in the EEA, our Data Protection Officer and Privacy Team may assist with all queries regarding our processing of Personally Identifiable at security@coursera.org. If you reside or are located in the EEA, you may also make a complaint to our supervisory body for data protection matters (namely the UK Information Commissioner's Office) or seek a remedy through local courts if you believe that your rights have been breached.
+If you have any privacy-related questions, suggestions, unresolved problems, or complaints you may contact us via privacy@coursera.org.
+
+If you reside or are located in the EEA, our Data Protection Officer and Privacy Team may assist with all queries regarding our processing of Personally Identifiable at security@coursera.org.
+
+If you reside or are located in the EEA, you may also make a complaint to our supervisory body for data protection matters (namely the UK Information Commissioner's Office) or seek a remedy through local courts if you believe that your rights have been breached.
 
 Coursera UK Limited serves as the EU Representative for Coursera, Inc. To contact Coursera UK Limited, please use the following contact info:
 
-`Post: Coursera UK Limited Attn: Privacy Request 256 - 260 Old Street, London EC1V9DD Phone: ++44 20 3457 0256 Email: eu-representative@coursera.org` California Privacy Rights
+Post: Coursera UK Limited Attn: Privacy Request 256 - 260 Old Street, London EC1V9DD Phone: ++44 20 3457 0256 Email: eu-representative@coursera.orgCalifornia Privacy Rights
 
 Under California’s "Shine the Light" law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g. requests made in 2012 will receive information regarding 2011 sharing activities).
 
-To obtain this information, please send an email message to privacy@coursera.org with "Request for California Privacy Information" on the subject line and in the body of your message. We will provide the requested information to you at your e-mail address in response. Please be aware that not all information sharing is covered by the "Shine the Light" requirements and only information on covered sharing will be included in our response.
+To obtain this information, please send an email message to privacy@coursera.org with "Request for California Privacy Information" on the subject line and in the body of your message. We will provide the requested information to you at your e-mail address in response. Please be aware that not all information sharing is covered by the "Shine the Light" requirements and only information on covered sharing will be included in our response.
 
 International Privacy Practices
 
@@ -175,7 +190,9 @@ Introduction.
 
 Coursera, Inc. (referred to as "we," "us," or "our"), believes in protecting your privacy.
 
-We participate in and commit to adhering to the EU-U.S. Privacy Shield Framework which includes the Privacy Shield Principles of notice, choice, onward transfer, security, data integrity, access and enforcement (the "Principles") for all transfers of personal data from EEA to the U.S. To learn more about Privacy Shield, please visit the U.S. Department of Commerce Privacy Shield website: https://www.privacyshield.gov/. For more information regarding our Privacy Shield certification, please click here. When we use the term "Personal Information" in this Privacy Shield Policy, we are referring to any information that (i) is recorded in any form. (ii) is about an identified or identifiable individual. and (iii) is received by us from the EEA.
+We participate in and commit to adhering to the EU-U.S. Privacy Shield Framework which includes the Privacy Shield Principles of notice, choice, onward transfer, security, data integrity, access and enforcement (the "Principles") for all transfers of personal data from EEA to the U.S. To learn more about Privacy Shield, please visit the U.S. Department of Commerce Privacy Shield website: https://www.privacyshield.gov/. For more information regarding our Privacy Shield certification, please click here.
+
+When we use the term "Personal Information" in this Privacy Shield Policy, we are referring to any information that (i) is recorded in any form. (ii) is about an identified or identifiable individual. and (iii) is received by us from the EEA.
 
 When we use the term "Sensitive Personal Information" in this Privacy Shield Policy, we are referring to a particular subset of an individual’s Personal Information that provides details of his or her race, ethnic origin, sexual orientation, political opinions, religious or philosophical beliefs, or trade union membership or that concerns his or her health.
 
@@ -183,27 +200,27 @@ The purpose of this Privacy Shield Policy is to outline our general practices fo
 
 Principles.
 
-1.  **Notice**. We will provide you with timely and appropriate notice in our Terms of Use and Privacy Policy, describing what Personal Information we are collecting, how we will use that information, and the types of third parties with whom we may share such information (and the reasons we do so). Please review these documents carefully. Where we process personal data on behalf of our business partners, we will work with them to help them provide appropriate notice to you.
-    
-2.  **Choice**. We will offer you the opportunity to opt-out of your Personal Information (or to provide explicit consent for Sensitive Personal Information) being: (i) disclosed to a third party (other than a service provider as set forth below). or (ii) used for a purpose materially different from the purpose for which it was originally collected (as set out in our Privacy Policy), or subsequently authorized by you, when the circumstances arise. You also have the ability to opt out at any time from the use of your personal information for direct marketing purposes. To exercise this right, please check your settings options. If you have further questions related to the above, you can also contact us at privacyshield@coursera.org.
+**1\. Notice.** We will provide you with timely and appropriate notice in our Terms of Use and Privacy Policy, describing what Personal Information we are collecting, how we will use that information, and the types of third parties with whom we may share such information (and the reasons we do so). Please review these documents carefully. Where we process personal data on behalf of our business partners, we will work with them to help them provide appropriate notice to you.
+
+**2\. Choice.** We will offer you the opportunity to opt-out of your Personal Information (or to provide explicit consent for Sensitive Personal Information) being: (i) disclosed to a third party (other than a service provider as set forth below). or (ii) used for a purpose materially different from the purpose for which it was originally collected (as set out in our Privacy Policy), or subsequently authorized by you, when the circumstances arise. You also have the ability to opt out at any time from the use of your personal information for direct marketing purposes. To exercise this right, please check your settings options. If you have further questions related to the above, you can also contact us at privacyshield@coursera.org.
 
 Where we process personal data on behalf of our business partners, we will work with them to ensure you are offered appropriate choices (and means to exercise those choices) for limiting use or disclosure of your personal data (where appropriate).
 
 Notwithstanding the foregoing, you agree that we may disclose Personal Information under the following circumstances without offering you an opportunity to opt out of such disclosure: (i) to our partner institutions and other service providers that we have retained to perform requested services on our behalf. (ii) if we are required to do so by law or legal process. (iii) pursuant to valid requests by law enforcement or other government authorities (which we are legally required to respond to). and (iv) when we believe disclosure is necessary to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity. In addition, we reserve the right to transfer Personal Information in the event we sell or transfer all or a portion of our business or assets (including in the event of a reorganization, dissolution or liquidation). Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use the Personal Information in a manner consistent with this Privacy Shield Policy.
 
-1.  **Onward Transfers (Transfer to Third Parties)**. We will only transfer Personal Information to third parties where the third party: (i) has provided satisfactory assurances to us that it will protect the Personal Information in accordance with this Privacy Shield Policy and the Principles. (ii) is located in the EU or a country considered "adequate" for privacy by the EU Commission, and therefore is required to comply with the EU data protection laws or substantially equivalent privacy laws. or (iii) has certified to Privacy Shield, and is independently responsible for complying with the Principles.
+**3\. Onward Transfers (Transfer to Third Parties).** We will only transfer Personal Information to third parties where the third party: (i) has provided satisfactory assurances to us that it will protect the Personal Information in accordance with this Privacy Shield Policy and the Principles. (ii) is located in the EU or a country considered "adequate" for privacy by the EU Commission, and therefore is required to comply with the EU data protection laws or substantially equivalent privacy laws. or (iii) has certified to Privacy Shield, and is independently responsible for complying with the Principles.
 
 Where we have knowledge that a third party to whom we have provided Personal Information is processing that Personal Information in a manner contrary to this Privacy Shield Policy or the Principles, we will take reasonable steps to prevent or terminate processing by the third party until such time the third party can process Personal Information in compliance with this Privacy Shield Policy and the Principles. Under certain circumstances, we may be potentially liable if these requirements are not met.
 
-1.  **Data Security**. We will take reasonable and appropriate measures to protect Personal Information from loss, misuse and unauthorized access, disclosure, alteration and destruction. We have implemented appropriate physical, electronic and managerial procedures to help safeguard and secure Personal Information from loss, misuse, unauthorized access or disclosure, alteration or destruction.
-    
-2.  **Data Integrity and Purpose Limitation**. We will process Personal Information in a manner that is compatible with and relevant to the purpose for which it was collected or authorized by you. To the extent necessary for those purposes, we will take reasonable steps to ensure that Personal Information is accurate, complete, current and reliable for its intended use.
-    
-3.  **Access**. Upon request, we will provide you with reasonable access to the Personal Information about you that we hold. We will also take reasonable steps to correct, update, amend or delete any information that is demonstrated to be inaccurate, except where the burden or expense of doing so would be disproportionate to the risks to your privacy in the case in question or where the rights of third parties would be violated. Where we process personal data on behalf of our business partners, we will work with them in complying with such requests in accordance with applicable law.
-    
-4.  **Recourse. Enforcement**. We will regularly review our compliance with the statements set forth in this Privacy Shield Policy, and we will provide an independent way to resolve complaints about our privacy practices. We encourage interested persons to first contact us (contact information provided below) and we will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of Personal Information in accordance with the Principles. If your inquiry is not satisfactorily addressed by us, we have registered with the International Centre for Dispute Resolution ("ICDR"), a division of the American Arbitration Association, to provide independent third party dispute resolution (free of charge) to you. To contact ICDR and/or learn more about the company’s dispute resolution services, including complaint submission, please visit: http://go.adr.org/privacyshield.html. There may also be circumstances when disputes can be resolved through the Privacy Shield binding arbitration process. Please see the Privacy Shield website for further information: https://www.privacyshield.gov/article?id=C-Pre-Arbitration-Requirements.
-    
-5.  **Jurisdiction**. As part of our participation in Privacy Shield, we are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission and other authorized statutory bodies.
+**4\. Data Security.** We will take reasonable and appropriate measures to protect Personal Information from loss, misuse and unauthorized access, disclosure, alteration and destruction. We have implemented appropriate physical, electronic and managerial procedures to help safeguard and secure Personal Information from loss, misuse, unauthorized access or disclosure, alteration or destruction.
+
+**5\. Data Integrity and Purpose Limitation.** We will process Personal Information in a manner that is compatible with and relevant to the purpose for which it was collected or authorized by you. To the extent necessary for those purposes, we will take reasonable steps to ensure that Personal Information is accurate, complete, current and reliable for its intended use.
+
+**6\. Access.** Upon request, we will provide you with reasonable access to the Personal Information about you that we hold. We will also take reasonable steps to correct, update, amend or delete any information that is demonstrated to be inaccurate, except where the burden or expense of doing so would be disproportionate to the risks to your privacy in the case in question or where the rights of third parties would be violated. Where we process personal data on behalf of our business partners, we will work with them in complying with such requests in accordance with applicable law.
+
+**7\. Recourse. Enforcement.** We will regularly review our compliance with the statements set forth in this Privacy Shield Policy, and we will provide an independent way to resolve complaints about our privacy practices. We encourage interested persons to first contact us (contact information provided below) and we will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of Personal Information in accordance with the Principles. If your inquiry is not satisfactorily addressed by us, we have registered with the International Centre for Dispute Resolution ("ICDR"), a division of the American Arbitration Association, to provide independent third party dispute resolution (free of charge) to you. To contact ICDR and/or learn more about the company’s dispute resolution services, including complaint submission, please visit: http://go.adr.org/privacyshield.html. There may also be circumstances when disputes can be resolved through the Privacy Shield binding arbitration process. Please see the Privacy Shield website for further information: https://www.privacyshield.gov/article?id=C-Pre-Arbitration-Requirements.
+
+**8\. Jurisdiction.** As part of our participation in Privacy Shield, we are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission and other authorized statutory bodies.
 
 Modifications.
 
@@ -211,7 +228,7 @@ We may amend this Privacy Shield Policy from time-to-time in accordance with the
 
 Contact Us.
 
-Please contact us with any questions or comments about this Privacy Shield Policy, transfer of your personal information from the EEA to the U.S., our privacy practices, or your consent choices by email at \[privacyshield@coursera.org (privacyshield@coursera.org).
+Please contact us with any questions or comments about this Privacy Shield Policy, transfer of your personal information from the EEA to the U.S., our privacy practices, or your consent choices by email at privacyshield@coursera.org.
 
 Revisions
 
