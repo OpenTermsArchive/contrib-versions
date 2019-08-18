@@ -3,7 +3,7 @@
 *   Find An Agent
 *   Contact Us
 *   Español
-*   Set Your Location
+*   denver, CO 80201
 *   Search
 
 Popular Searches
@@ -87,6 +87,7 @@ Popular Searches
 *   Get a Quote
     
     Your location is set for  
+    denver, CO 80201
     
     Enter a valid US ZIP Code to set your location.
     
@@ -145,7 +146,9 @@ Popular Searches
     *   Business Insurance
 *   Get A Quote in
     
-    Edit location
+    80201
+    
+    80201 Edit location
     
     Select a ProductAutoHomeRentersLifeCondoMotorcycleBoatATV/Rec. VehicleBusiness InsuranceMore InsuranceGet A Quote
     
@@ -166,7 +169,7 @@ What's This?
 
 Register new account
 
-*   Update Zip Code
+*   denver, CO 80201
 *   Contact Us
 *   Español
 
@@ -207,13 +210,13 @@ Register new account
 
 Find An Agent Close
 
-Agents near
+Agents near 80201
 
 *   Loading...
 
 Advanced agent search
 
-Edit location
+80201 Edit location
 
 Select a ProductAutoHomeRentersLifeCondoMotorcycleBoatATV/Rec. VehicleBusiness InsuranceGet a quote
 
@@ -447,7 +450,7 @@ We won't share your personal information with Allstate companies for marketing p
 
 Top
 
-Edit Location
+80201Edit Location
 
 Select a ProductAutoHomeRentersLifeCondoMotorcycleBoatATV/Rec. VehicleBusiness Insurance
 
@@ -495,6 +498,8 @@ ZIP Code
   
 
 City, State
+
+denver, CO
 
 Oops! You have entered an invalid ZIP. Please try again. Location data not available. Please enter zip code. Please Wait...Updating Location...  
 It's taking a bit longer than expected. Your update should be done soon. This feature is not currently available.  
