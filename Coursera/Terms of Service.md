@@ -4,11 +4,11 @@ _Effective: July 11, 2018._
 
 Thank you for using Coursera!
 
-Coursera's products and services are provided by Coursera, Inc. These Terms of Use ("Terms") govern your use of Coursera's website, apps, and other products and services ("Services"). As some of our Services may be software that is downloaded to your computer, phone, tablet, or other device, you agree that we may automatically update this software, and that these Terms will apply to such updates. Please read these Terms carefully, and contact us if you have any questions. By using our Services, you agree to be bound by these Terms, including the policies referenced in these Terms.
+Coursera's products and services are provided by Coursera, Inc. These Terms of Use ("Terms") govern your use of Coursera's website, apps, and other products and services ("Services"). As some of our Services may be software that is downloaded to your computer, phone, tablet, or other device, you agree that we may automatically update this software, and that these Terms will apply to such updates. Please read these Terms carefully, and contact us if you have any questions. By using our Services, you agree to be bound by these Terms, including the policies referenced in these Terms.
 
 Using CourseraWho May Use our Services
 
-You may use our Services only if you can form a binding contract with Coursera, and only in compliance with these Terms and all applicable laws. When you create your Coursera account, and subsequently when you use certain features, you must provide us with accurate and complete information, and you agree to update your information to keep it accurate and complete. **Any use or access by anyone under the age of 13 is prohibited, and certain courses may have additional requirements and/or restrictions.**
+You may use our Services only if you can form a binding contract with Coursera, and only in compliance with these Terms and all applicable laws. When you create your Coursera account, and subsequently when you use certain features, you must provide us with accurate and complete information, and you agree to update your information to keep it accurate and complete. **Any use or access by anyone under the age of 13 is prohibited, and certain courses may have additional requirements and/or restrictions.**
 
 Our License to You
 
@@ -102,10 +102,10 @@ Under California Civil Code Section 1789.3, California website users are entitle
 
 Referenced Policies
 
-*   Acceptable Use Policy
-*   Copyright and Trademark Infringement Policy
-*   Refund Policy
-*   Honor Code
+1.  Acceptable Use Policy
+2.  Copyright and Trademark Infringement Policy
+3.  Refund Policy
+4.  Honor Code
 
 Acceptable Use Policy
 
@@ -144,7 +144,7 @@ _Effective as of April 3rd, 2015._
 
 Coursera respects the intellectual property rights of our partner institutions, instructors, and other third parties and expects our users to do the same when using the Services. We reserve the right to suspend, disable, or terminate the accounts of users who repeatedly infringe or are repeatedly charged with infringing the copyrights, trademarks, or other intellectual property rights of others.
 
-The Digital Millennium Copyright Act of 1998 (the "DMCA") provides recourse for copyright owners who believe that material appearing on the Internet infringes their rights under U.S. copyright law. If you would like to read the DMCA, please visit the U.S. Copyright Office website at http://www.copyright.gov/legislation/dmca.pdf.
+The Digital Millennium Copyright Act of 1998 (the "DMCA") provides recourse for copyright owners who believe that material appearing on the Internet infringes their rights under U.S. copyright law. If you would like to read the DMCA, please visit the U.S. Copyright Office website at http://www.copyright.gov/legislation/dmca.pdf.
 
 If you believe in good faith that materials on the Services infringe your copyright, the DCMA provides that you (or your agent) may send us a notice requesting that the material be removed or access to it blocked.
 
@@ -160,11 +160,11 @@ The notice must include the following information:
 Notices must meet the then-current statutory requirements imposed by the DMCA. Notices and counter-notices with respect to the Services can either be sent:
 
 1.  via mail: Copyright Agent, Coursera 381 E. Evelyn Ave Mountain View, CA 94041
-2.  via email: copyright@coursera.org
+2.  via email: copyright@coursera.org
 
 We suggest that you consult your legal advisor before filing a notice. Also, be aware that there can be penalties for false claims under the DMCA.
 
-Coursera also respects the trademark rights of others. Accounts with any other content that misleads others or violates another's trademark may be updated, suspended, disabled, or terminated by Coursera in its sole discretion. If you are concerned that someone may be using your trademark in an infringing way on our Services, please email us at copyright@coursera.org, and we will review your complaint. If we deem appropriate, we may remove the offending content, warn the individual who posted the content, and/or temporarily or permanently suspend or disable the individual’s account.
+Coursera also respects the trademark rights of others. Accounts with any other content that misleads others or violates another's trademark may be updated, suspended, disabled, or terminated by Coursera in its sole discretion. If you are concerned that someone may be using your trademark in an infringing way on our Services, please email us at copyright@coursera.org, and we will review your complaint. If we deem appropriate, we may remove the offending content, warn the individual who posted the content, and/or temporarily or permanently suspend or disable the individual’s account.
 
 Coursera Refund Policy
 
@@ -172,13 +172,13 @@ _Effective as of May 15, 2018._
 
 For details on our refund deadlines and policies, please refer to the information below. note that our policies differ for subscription payments vs. one-time course and Specialization purchases, and that payment options may vary from one Service to another. Please also note that we treat violations of our Terms of Use and Honor Code very seriously, and we have no obligation to offer refunds to learners who are found to be in violation of these terms, even if their requests are made within the designated refund period. Similarly, we have no obligation to offer late refunds to learners who do not pass a course or Specialization, or who are otherwise unsatisfied with their final grade.
 
-For more information about our refund process, including instructions for requesting a refund, please visit our Learner Help Center.For Month-to-Month Subscriptions
+For more information about our refund process, including instructions for requesting a refund, please visit our Learner Help Center.
+
+For Month-to-Month Subscriptions
 
 Coursera does not offer refunds for payments made on a subscription plan. To avoid being charged during a free trial promotion, you must cancel your subscription before your 7-day free trial ends. If you complete a course during the free trial period, Coursera reserves the right to require you to pay for a one-month subscription in order to receive a Course and/or Specialization Certificate.
 
-Your subscription will continue on a month-to-month basis unless and until you \_tcancel your subscription or the subscription is suspended or discontinued by Coursera. For subscriptions to individual Specializations, Coursera will automatically discontinue your subscription at the end of the monthly period during which you earn a Specialization Certificate for the Specialization, unless you have subscribed through a third party marketplace that restricts Coursera's ability to do so -- e.g., in-app purchases through the Apple App Store. Please visit the third party marketplace for information regarding their policies.
-
-You must cancel your subscription before your monthly renewal date to avoid the next billing.
+Your subscription will continue on a month-to-month basis unless and until you cancel your subscription or the subscription is suspended or discontinued by Coursera. For subscriptions to individual Specializations, Coursera will automatically discontinue your subscription at the end of the monthly period during which you earn a Specialization Certificate for the Specialization, unless you have subscribed through a third party marketplace that restricts Coursera's ability to do so -- e.g., in-app purchases through the Apple App Store. Please visit the third party marketplace for information regarding their policies. You must cancel your subscription before your monthly renewal date to avoid the next billing.
 
 If you cancel your subscription, cancellation will be effective at the end of the current monthly period. you will have continued access to your subscription for the remainder of that period, but you will not receive a refund.
 
@@ -200,9 +200,9 @@ If you cancel your subscription, you will continue to have access until the end 
 
 For Course and Specialization Purchases
 
-If you cancel your paid enrollment for a course, Coursera will offer you a complete refund until 14 days after payment, or until you have earned your Course Certificate, whichever is earlier. If you pre-enroll and pay for a course, Coursera will offer you a complete refund until 14 days after the course launches or until you have earned your Course Certificate, whichever is earlier. For avoidance doubt, once you have earned a Course Certificate with your payment, you are not eligible for a refund even if it is within 14 days. If you do not earn your Course Certificate within 180 days, your registration will expire and you will need to pay to re-enroll for the course. However, if you’re taking a course through your company or organization (e.g. Coursera for Business, Refugees or Government) then you can earn your certificate as long as your company's contract with Coursera is active and your access has not expired in accordance with the terms of that contract. Similarly, refunds and cancellations will also be governed by the terms of that contract between your organization and Coursera.
+If you cancel your paid enrollment for a course, Coursera will offer you a complete refund until 14 days after payment, or until you have earned your Course Certificate, whichever is earlier. If you pre-enroll and pay for a course, Coursera will offer you a complete refund until 14 days after the course launches or until you have earned your Course Certificate, whichever is earlier. For avoidance doubt, once you have earned a Course Certificate with your payment, you are not eligible for a refund even if it is within 14 days. If you do not earn your Course Certificate within 180 days, your registration will expire and you will need to pay to re-enroll for the course. However, if you’re taking a course through your company or organization (e.g. Coursera for Business, Refugees or Government) then you can earn your certificate as long as your company's contract with Coursera is active and your access has not expired in accordance with the terms of that contract. Similarly, refunds and cancellations will also be governed by the terms of that contract between your organization and Coursera.
 
-If you cancel your one-time, paid enrollment for a Specialization, Coursera will offer you a complete refund until 14 days after payment, or until you earn a Course Certificate for any course in the Specialization, whichever is earlier. If you pre-enroll and pay for the Specialization, Coursera will offer you a complete refund until 14 days after the first course in the Specialization launches or until you have earned your first Course Certificate for any course in the Specialization, whichever is earlier. If you earned your first Course Certificate for any course in the Specialization within 14 days, you are not eligible for a refund. Unless otherwise indicated as part of the sign-up process, you have one year after you purchase a Specialization to complete the Specialization.
+If you cancel your one-time, paid enrollment for a Specialization, Coursera will offer you a complete refund until 14 days after payment, or until you earn a Course Certificate for any course in the Specialization, whichever is earlier. If you pre-enroll and pay for the Specialization, Coursera will offer you a complete refund until 14 days after the first course in the Specialization launches or until you have earned your first Course Certificate for any course in the Specialization, whichever is earlier. If you earned your first Course Certificate for any course in the Specialization within 14 days, you are not eligible for a refund. Unless otherwise indicated as part of the sign-up process, you have one year after you purchase a Specialization to complete the Specialization.
 
 Notwithstanding the foregoing, shorter refund periods may apply to specific courses and Specializations (e.g., for courses that are part of the UCI Professional Certificate in Applied Project Management, you will only be eligible for a full refund until seven days after your payment date). In these cases, the shorter period will be stated as part of the sign-up process for the course or Specialization.
 
