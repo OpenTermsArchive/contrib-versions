@@ -8,6 +8,12 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Can’t find my archives
+    *   by NYFan13
+    *   8 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   i cannot upgrade to xanga 2.0
     *   by Secretjay
     *   2 weeks ago
@@ -28,7 +34,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   How to access old blog?
     *   by Boicrazy000
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Usernames
     *   0 votes
     *   0
@@ -64,13 +70,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Able to download, unzip, and import ONE XML file
     *   by Nathon
-    *   1 month ago
+    *   2 months ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Not able to view my sites
     *   by dee\_296
-    *   1 month ago
+    *   2 months ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -92,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Premium
     *   0 votes
     *   2 (last comment by usalapinhazzer 2 months ago)
-*   Where’s my blogs?
-    *   by my\_own\_direction
-    *   2 months ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
 1 2 3 ... 194 Next
 
