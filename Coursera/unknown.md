@@ -1,6 +1,6 @@
 Cookies Policy
 
-Effective: May 15, 2018
+_Effective: May 15, 2018_
 
 Coursera ("us", "we", or "our") uses cookies on coursera.org and affiliated websites (collectively the "Site").
 
@@ -31,11 +31,11 @@ Third-party cookies
 
 In addition to our own cookies, we may also use various third-party cookies to report usage statistics of the Site and refine marketing efforts.
 
-*   _Tracking cookies._ Follow on-site behavior and tie it to other metrics allowing better understanding of usage habits.
-*   _Optimization cookies._ Allow real-time tracking of user conversion from different marketing channels to evaluate their effectiveness.
-*   _Partner cookies._ Provide marketing conversion metrics to our partners so they can optimize their paid marketing efforts.
+*   _Tracking cookies_. Follow on-site behavior and tie it to other metrics allowing better understanding of usage habits.
+*   _Optimization cookies_. Allow real-time tracking of user conversion from different marketing channels to evaluate their effectiveness.
+*   _Partner cookies_. Provide marketing conversion metrics to our partners so they can optimize their paid marketing efforts.
 
-To view a list of third-party cookies that we use, please view our Cookies Table.
+To view a list of Coursera cookies, please view our Cookies Table.
 
 What are your choices regarding cookies
 
