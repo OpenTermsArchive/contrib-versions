@@ -1,8 +1,8 @@
 Privacy and Cookies Policy The BBC Privacy and Cookies Policy
 
-Page updated: May 2018 Version 3.0
+Page updated: August 2019 Version 3.1
 
-*   Download BBC Privacy and Cookies Policy as PDF
+*   Download Privacy and Cookies Policy as PDF
 
 Sections
 
@@ -38,15 +38,17 @@ This policy covers the services that are offered by the British Broadcasting Cor
 
 And sometimes it covers services offered by parts of our organisation that operate as separate companies. Such as:
 
-BBC World Service, BBC Studios, BBC Studioworks, BBC Global News, BBC Media Applications Technology, BBC World Service Trading and BBC charities.
+BBC World Service, BBC Studios, BBC Studioworks, BBC Global News, BBC Media Applications Technology, BBC World Service Trading and TV Licensing and BBC charities.
 
 But only when those services link to this policy or tell you it applies.
 
+It’s up to you to decide how much detail you want to know. We have just-in-time explanations that appear when we ask you to input your personal information. As well as what’s in this Policy, a service might have a short privacy notice. In that privacy notice you can find key information on what we do with your personal information when you use that service. And if you’re after more detail have a look at these topics.
+
 **What's not covered in this policy?**
 
-Our services sometimes link to services run by other companies, like playing your BBC Music tracks on a music service such as Deezer. Those companies have their own privacy and cookies policies, so remember that the information you give them will follow their rules and not ours.
+Our services sometimes link to services run by other companies' services, like opening a track from BBC Sounds on another music service such as Spotify. Those companies have their own privacy and cookies policies, so remember that the information you give them will follow their rules and not ours.
 
-We sometimes offer BBC-branded services to other companies, like a BBC Radio 1 YouTube page. Make sure to check their privacy policy so you know how they will use your information.
+Sometimes you can access our services from other places, like a BBC Radio 1 YouTube page or the BBC iPlayer app on your connected TV. Make sure to check their privacy policy so you know how they will use your information.
 
 Back to top 3. How do you protect my personal information?
 
@@ -56,15 +58,17 @@ At the same time, no service can be completely secure - if you have any concerns
 
 **Where we store your information**
 
-Some companies that provide services to us run their services from outside the European Economic Area. We only let that happen if we are satisfied with their levels of security. Keep in mind that when you give us personal information it could be being transferred, stored or processed in a location outside the EEA.
+Some companies that provide services to us run their services from outside the UK and the European Economic Area. We only let that happen if we are satisfied with their levels of security. Keep in mind that when you give us personal information it could be being transferred, stored or processed in a location outside the UK and the EEA.
 
 Back to top 4. What types of personal information does the BBC collect about me?
 
-We'll give details about why we need your personal information and how we'll use it before you begin, unless it's obvious.
+We'll give you details about why we need your personal information and how we'll use it before you begin, unless it's obvious.
 
 **a. Information that you give us**
 
-We might ask for your name and contact details, your date of birth or financial details, depending on what you're doing. If you apply to take part in a programme on politics, for example, we might ask you about your political opinions. This could include information in a creation you share with us such as people's names that appear in the creation.
+We might ask for your name and contact details, your date of birth or financial details, depending on what you're doing. If you apply to take part in a programme on politics, for example, we might ask you about your political opinions. Information you give us might include information in a creation you share with us, such as people's names that appear in the creation.
+
+When you register for a BBC account, or update your details or settings we ask for some personal information, like your email address and age.
 
 **b. Device information**
 
@@ -76,22 +80,21 @@ Devices are lots of things like:
 *   your tablet
 *   your voice-enabled device
 
-We automatically collect some technical information from these devices and web browsers even when you're not signed in to a BBC account. This might include:
+We automatically collect some technical information from these devices and web browsers even when you're not signed into to a BBC account. This might include:
 
 *   IP (internet protocol) address
 *   device ID
 *   app ID
 *   vendor ID
+*   advertising ID
 
 **c. Information on your activities outside the BBC when you talk about us**
 
 Like if you've mentioned us in a Twitter post, we'll collect your Twitter handle.
 
-**What if I have a BBC account?**
+**d. Information on how you use our services**
 
-When you register for a BBC account, or update your details or settings we ask for some personal information, like your email address and age.
-
-We also collect information about how you use our services, like the articles you read and the programmes you watch.
+Like the articles you read and the programmes you watch.
 
 Back to top 5. How long will the BBC keep my personal information?
 
@@ -119,17 +122,15 @@ We use your information for these types of things:
 
 **d. to personalise services and give you things more tailored to your tastes**
 
-Personalisation is turned on in your account settings.
+Your BBC account lets you personalise your BBC online experience. To do that, “Allow Personalisation” is set to on when you create an account. If you’re under 13 and create an account your personalisation is set to off. Information about how you use our online services is then connected with other information you give us to personalise your experience.
 
-If you don't want to receive personalised services you can turn this option off.
-
-Even if you have personalisation turned off, we still collect information about how you use the BBC, but it will be anonymous. For example, we'd be able to see that someone looked at a particular story on BBC News but we wouldn't be able to tell that it was you.
+If you don’t want us to do this, you can always turn personalisation off in your account settings. If you’re under 13 you don’t need to do anything.
 
 **e. to show you relevant advertising on another company's site**
 
 **f. to help us understand what kind of services you might use**
 
-And sometimes how you might share things with other people.
+And sometimes how you might share things with other people
 
 **g. to recommend things we think might interest you**
 
@@ -147,17 +148,17 @@ Back to top 7. When will the BBC use my information to contact me?
 
 We might use your information to contact you about different things, like:
 
-*   to update you on any changes to the BBC's policies, practices and Terms of Use
-*   to check with you about any service or activity you've signed up for. For example we might tell you if your BBC account hasn't been used in a long time. Or it might be about creating a child account
-*   to contact you about a creation you sent us, like things you've sent in to School Report news day
-*   to answer you when you've contacted us, or to respond to a comment or complaint
-*   to invite you to take part in surveys about the BBC services, which are always voluntary
+*   to update you on any changes to the BBC’s policies, practices and Terms of Use
+*   to check with you about any service or activity you’ve signed up for. For example, we might tell you if your BBC account hasn't been used in a long time. Or it might be about creating a child account
+*   to contact you about a creation you sent us, like things you’ve sent in to School Report news day
+*   to answer you when you’ve contacted us, or to respond to a comment or complaint
+*   to invite you to take part in surveys about BBC services, which are always voluntary
 *   for marketing purposes
-*   to send you notification on your device if you've selected them in your settings
+*   to send you notifications on your device depending on your settings
 
-We'll only contact you when we need to or when you've given us permission.
+We’ll only contact you when we need to or when you’ve given us permission.
 
-We'll never contact you to ask for your BBC account password.
+We’ll never contact you to ask for your BBC account password.
 
 Back to top 8. Will I be contacted for marketing purposes?
 
@@ -167,9 +168,9 @@ Keep in mind, even if you unsubscribe, we may still contact you.
 
 **Will my personal information be used when the BBC advertises with other companies?**
 
-If you have a BBC account we might use information that we hold about you to show you relevant and "targeted advertising" through other companies' sites, like Facebook, Google, Snapchat or Twitter for example. This could be showing you a BBC advertising message where we know you have a BBC account and have used BBC services.
+If you have a BBC account we might use information that we hold about you to show you relevant and targeted advertising for BBC services through other companies’ sites, like Facebook, Google, Snapchat or Twitter for example. This could be showing you a BBC sponsored message where we know you have a BBC account and have used BBC services.
 
-If you don't want to see our targeted advertising, you can set ad preferences in your social media companies' settings. Also, you can visit your BBC account and turn off personalisation, but it will also turn off all personalised services.
+If you don’t want to see our targeted advertising, you can set ad preferences in your social media companies’ settings. Also, you can visit your BBC account and turn this off.
 
 Back to top 9. When does the BBC share my personal information with others?
 
@@ -181,23 +182,23 @@ Like post a comment which the public can see.
 
 **b. When we use other companies to power our services**
 
-In order for us to give you quality experiences and to understand how you're using our services we often use other companies to process your personal information on our behalf. For example, sending you emails about things we think might interest you, or to ask you what you think about our services.
+In order for us to give you quality experiences and to understand how you're using our services we often use other companies to process your personal information on our behalf. For example, sending you emails about things we think might interest you, to ask you what you think about our services, or to analyse data on how people use our digital services so we can improve them.
 
 We make sure that your personal information is looked after as if we were handling it directly. We carefully select these companies, only share with them what they need to do the work and we make sure they keep your information secure.
 
 **c. When we share personal information with companies in the BBC family**
 
-**d. When you use another company's service that connects to us, like voice-enabled devices**
+**d. When you use another company's service that connects to us, like voice-enabled devices and connected TV**
 
-To access our services through a voice-enabled device, like Amazon Alexa, you need to connect your device to your BBC account. We'll share an identifier for your BBC account with the voice service. It's completely up to you if you want to use the BBC in this way.
+You can access our services through a voice-enabled device, like Amazon Alexa, or a connected TV. You’ll need to sign in to your BBC account to use BBC services on your connected TV. When you do this we’ll share an identifier for your BBC account with the company who runs the service you are using. Make sure to check that company’s privacy policy so you know how it will use your information. The BBC isn’t responsible when you access a BBC service through another company’s services. It’s up to you if you want to access the BBC in this way.
 
 **e. When we do collaborative research**
 
-We do research activities and sometimes collaborate with research partners. Every now and then we share our content and data with them. This might include information we've collected about you. But we're careful about what we share and what our research partners can do with it.
+We do research activities and sometimes collaborate with research partners. Every now and then we share our content and data with them. This might include information we’ve collected about you. But we’re careful about what we share and what our research partners can do with it.
 
 **f. TV Licensing**
 
-We share some personal information with TV Licensing, to check if you're using BBC iPlayer and to keep the licensing database accurate and up to date.
+We share some personal information with TV Licensing, to check if you’re using BBC iPlayer and to keep the licensing database accurate and up to date.
 
 **g. Sometimes by law we have to pass on your information to other organisations**
 
@@ -205,12 +206,13 @@ We might also share your information if we have to by law, or when we need to pr
 
 Back to top 10. What's different for kids and teens?
 
-The BBC has services that are kid-friendly and for teens.  
+The BBC has services that are kid-friendly and for teens.
+
 Here's what happens when you use them.
 
 **a. Why do we collect information about you in the first place?**
 
-We keep information about you so that we can:
+We keep information about you so that we can
 
 *   get the right services for you
 *   plan and improve our services
@@ -218,21 +220,21 @@ We keep information about you so that we can:
 
 **b. We'll always tell you why we're collecting your personal information**
 
-We'll explain why and how we use it and for how long. It's called a "privacy notice". And if we need your parent or guardian's permission we'll give you clear details about what's needed at the time.
+We’ll explain why and how we use it and for how long. It’s called a “privacy notice”. And if we need your parent or guardian's permission we'll give you clear details about what's needed at the time.
 
 **c. We can only use your personal information if we have a valid reason**
 
 **d. We share personal information about you to others but we follow some rules**
 
-The main rule is we never sell your personal information to anyone.
+The main rule is we will never sell your personal information to anyone.
 
 **e. We might ask you to tell us your age**
 
-To make sure you use parts of the BBC that are suitable for you. For example:
+To make sure you use the parts of the BBC that are suitable for you. For example:
 
 *   so that adults don't post comments on kid's message boards
 *   when you want to get a BBC account
-*   when you're watching a programme, like on BBC iPlayer, and it's a bit edgy
+*   When you're watching a programme, like on BBC iPlayer, and it's a bit edgy
 
 **f. Sometimes we'll ask to get your parent or guardian's consent**
 
@@ -241,15 +243,15 @@ You'll see a notification. We might also ask for some details from them, so that
 *   so you can get notifications from us
 *   so we can show you more things we think you'll like, based on what you do
 *   so you can post comments
-*   so you can upload your contributions to us
+*   so you can upload your contribution to us
 
 **g. Sometimes we'll tell your parents about your activities**
 
-For example, if you're under 13 and your parent has asked to see every creation you upload, we'll share it with them before it goes public.
+For example, if you enter one of our competitions, we might contact your parent.
 
-**h. When we contact you**
+**h. When we can contact you**
 
-Sometimes we'll need to get in touch with you but we'll always follow these rules.
+Sometimes we need to get in touch with you but we'll always follow these rules.
 
 **i. It's safe to use us**
 
@@ -267,11 +269,13 @@ And you may not be able to get a BBC account. Sorry about that.
 
 **l. You're in control of how we use cookies and tracking**
 
-Cookies are bits of data that are stored on your device. Some things on our websites wouldn't be able to work without these cookies. So they're always on when you visit us.
+Cookies are small text files that transfer onto your device when you use a service.
 
-We use cookies and tracking to make things easier for you, like remembering where you got to in a game or what emoji you selected.
+We use cookies and tracking to get information about what type of device you’re using to access our services and we record things like what sites you visit, your IP address (a unique number your device creates every time you connect to the internet) and to make things easier for you, like remembering where you got to in a game or what emoji you selected.
 
-You can switch off some cookies and similar tracking technologies. Or your parent or guardian can do this if you're under 13.
+You can switch off some cookies and similar tracking technologies. Or your parent or guardian can do this if you’re under 13.
+
+But other cookies can’t be turned off.
 
 **m. What we do when you post, upload or share a creation**
 
@@ -285,9 +289,7 @@ You can:
 *   ask us to correct or delete your personal information
 *   tell us to stop using your personal information
 
-If you're 13 or older, you can do this yourself, but not always.
-
-Sometimes we'll be asking for your parent or guardian to do that.
+If you're 13 or older, you can do this yourself, but not always. Sometimes we'll be asking for your parent or guardian to do that.
 
 If you're under 13 your parent or guardian probably has to do it for you.
 
@@ -323,7 +325,7 @@ Back to top 13. How does the BBC use cookies and similar tracking?
 
 **a. What are cookies and tracking technologies?**
 
-Cookies are bits of data which are stored in your computer or mobile when you visit a website or app.
+Cookies are small text files which are transferred to your computer or mobile when you visit a website or app.
 
 There are also similar pieces of tracking information we collect.
 
@@ -335,30 +337,32 @@ To do a few different things:
 *   to keep you signed in, even on different devices
 *   to help us understand how people are using our services, so we can make them better
 *   to deliver advertising to websites outside of the UK
-*   to help us personalise the BBC to you by remembering your preferences and settings. And your progress, so you can pause and pick up where you left off watching a programme, even on a different device
+*   to help us personalise the BBC to you by remembering your preferences and settings. And your progress, so you can pause and pick up where you left off watching a programme even on a different device
 *   to find out if our emails have been read and if you find them useful
 
-A few things on our websites wouldn't work without some cookies. Tech people call these "strictly necessary cookies". They're always on when you visit us.
+**c. What are the types of cookies?**
 
-But we want to use others like functional, performance and advertising cookies to make your experience more enjoyable. We'll only use them if you've agreed. You can always change your mind.
+Some cookies are always on when you visit us, and you can’t turn them off unless you change your browser settings. We call these “strictly necessary cookies”. We use them to make sure our digital services work correctly and are meeting audience needs and interests.
 
-Bear in mind there are some other cookies out there from other companies. These "third-party cookies" might track how you use different websites, including ours. For example, you might get a social media company's cookie when you see the option to share something. You can turn them off, but not through us.
+We also use functional, performance and advertising cookies to make your experience more enjoyable. You can switch these on or off at any time and you can always change your mind. We’ll only use them if you’ve agreed.
 
-**c. How long do cookies last?**
+Bear in mind there are some other cookies out there from other companies. These "third-party cookies" might track how you use different websites, including ours. For example, you might get a social media company’s cookie when you see the option to share something. You can turn them off, but not through us.
 
-Some are erased when you close the browser on your website or app. Others stay longer, sometimes forever, and are saved onto your device so they're there when you come back.
+**d. How do cookies last?**
 
-**d. How do I control my cookies and tracking?**
+Some are erased when you close the browser on your website or app. Others stay longer, sometimes forever, and are saved onto your device so that they’re there when you come back.
 
-When you first visit us, we'll tell you about our cookies and ask you to agree if we can use them. You can always change your mind by going to your settings.
+**e. How do I control my cookies and tracking?**
 
-Stopping all cookies might mean you can't access some BBC services, or that some of them might not work properly for you.
+Strictly necessary cookies are always on when you visit us. On your first visit to us, we’ll tell you about our other types of cookies and ask you to choose which cookies we can use. You can always change your mind by going to your settings.
+
+Stopping all cookies might mean you can’t access some BBC services, or that some of them might not work properly for you.
 
 Another way to control some tracking is in the settings on your device.
 
 Back to top 14. How will I find out about changes to this policy?
 
-We update this policy sometimes. If we make important changes, like how we use your personal information, we'll let you know. It might be a notice, an email, or a message in your app.
+We update this policy sometimes. If we make important changes, like how we use your personal information, we'll let you know. It might be a notice, an email or a message in your app.
 
 If you don't agree to the changes, then you can always stop using our services, delete your account and stop giving us any more personal information. We'd be sorry to see you go.
 
@@ -366,21 +370,16 @@ Back to top 15. How can I contact the BBC?
 
 Find out more and contact us about your rights.
 
-For any other questions or comments about this policy speak to our Data Protection Officer. If you're in the UK:
+For any other questions or comments about this policy speak to our Data Protection Officer.
 
 *   by email
+*   by post
 
-*   by post  
-    BBC DPO, BC2 A4, 201 Wood Lane, London W12 7TP
-
-If you're outside the UK:
-
-*   by email
-
-*   by post  
-    BBC DPO, 4A, 101 Wood Lane, London, W12 7FA
+BBC DPO, BC2 A4, 201 Wood Lane, London W12 7TP
 
 We're regulated by the Information Commissioner's Office. You can also contact them for advice and support.
+
+© BBC 2019
 
 Back to top Choose language: CymraegGàidhlig
 
