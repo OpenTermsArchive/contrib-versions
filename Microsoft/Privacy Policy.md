@@ -8,7 +8,7 @@ Please read the product-specific details in this privacy statement, which provid
 
 The most recent version of this privacy statement can be found at aka.ms/privacy.
 
-Personal data we collectHow we use personal dataReasons we share personal dataHow to access and control your personal dataCookies and similar technologiesProducts provided by your organization—notice to end usersMicrosoft accountOther important privacy information Security of personal dataWhere we store and process personal dataOur retention of personal dataAdvertisingCollection of data from childrenPreview or free-of-charge releasesChanges to this privacy statementHow to contact usProduct-specific details:Enterprise and developer products Enterprise online servicesEnterprise and developer software and appliancesProductivity and communications products OfficeOneDriveOutlookSkypeLinkedInSearch and artificial intelligence BingCortanaMicrosoft TranslatorSwiftKeyWindows ActivationActivity historyAdvertising IDDiagnosticsFeedback HubLocation services, motion sensing, and recordingSecurity and safety featuresSpeech, Voice Activation, Inking, and TypingSync settingsUpdate ServicesWeb browsers—Microsoft Edge and Internet ExplorerWindows appsWindows Media PlayerWindows HelloWindows SearchYour PhoneEntertainment and related services Xbox and Xbox LiveMicrosoft StoreMSNMixerGroove Music and Movies &. TVSilverlightMicrosoft Health services Health servicesHealthVaultCookies
+Personal data we collectHow we use personal dataReasons we share personal dataHow to access and control your personal dataCookies and similar technologiesProducts provided by your organization—notice to end usersMicrosoft accountOther important privacy information Security of personal dataWhere we store and process personal dataOur retention of personal dataAdvertisingCollection of data from childrenPreview or free-of-charge releasesChanges to this privacy statementHow to contact usEnterprise and developer products Enterprise online servicesEnterprise and developer software and appliancesProductivity and communications products OfficeOneDriveOutlookSkypeLinkedInSearch and artificial intelligence BingCortanaMicrosoft TranslatorSwiftKeyWindows ActivationActivity historyAdvertising IDDiagnosticsFeedback HubLocation services, motion sensing, and recordingSecurity and safety featuresSpeech, Voice Activation, Inking, and TypingSync settingsUpdate ServicesWeb browsers—Microsoft Edge and Internet ExplorerWindows appsWindows Media PlayerWindows HelloWindows SearchYour PhoneEntertainment and related services Xbox and Xbox LiveMicrosoft StoreMSNMixerGroove Music and Movies &. TVSilverlightMicrosoft Health services Health servicesHealthVaultCookies
 
 Most Microsoft sites use cookies, small text files placed on your device which web servers in the domain that placed the cookie can retrieve later. We use cookies to store your preferences and settings, help with sign-in, provide targeted ads, and analyze site operations. For more information, see the Cookies and similar technologies section of this privacy statement.
 
@@ -92,7 +92,7 @@ The data we collect can include the following:
 
 Product-specific sections below describe data collection practices applicable to use of those products.
 
-Learn moreTop of page How we use personal dataHow we use personal data
+Learn MoreTop of page How we use personal dataHow we use personal data
 
 Microsoft uses the data we collect to provide you with rich, interactive experiences. In particular, we use data to:
 
@@ -142,7 +142,7 @@ When we process personal data about you, we do so with your consent and/or as re
 *   **Legal compliance.** We process data to comply with law. For example, we use the age of our customers to ensure we meet our obligations to protect children’s privacy. We also process contact information and credentials to help customers exercise their data protection rights.
 *   **Research.** With appropriate technical and organizational measures to safeguard individuals’ rights and freedoms, we use data to conduct research, including for public interest and scientific purposes.
 
-Learn moreTop of page Reasons we share personal dataReasons we share personal data
+Learn MoreTop of page Reasons we share personal dataReasons we share personal data
 
 We share your personal data with your consent or to complete any transaction or provide any product you have requested or authorized. We also share data with Microsoft-controlled affiliates and subsidiaries. with vendors working on our behalf. when required by law or to respond to legal process. to protect our customers. to protect lives. to maintain the security of our products. and to protect the rights and property of Microsoft and its customers.
 
@@ -161,7 +161,7 @@ For more information about data we disclose in response to requests from law enf
 
 Please note that some of our products include links to or otherwise enable you to access products of third parties whose privacy practices differ from those of Microsoft. If you provide personal data to any of those products, your data is governed by their privacy policies.
 
-Learn moreTop of page How to access and control your personal dataHow to access and control your personal data
+Learn MoreTop of page How to access and control your personal dataHow to access and control your personal data
 
 You can also make choices about the collection and use of your data by Microsoft. You can control your personal data that Microsoft has obtained, and exercise your data protection rights, by contacting Microsoft or using various tools we provide. In some cases, your ability to access or control your personal data will be limited, as required or permitted by applicable law. How you can access or control your personal data will also depend on which products you use. For example, you can:
 
@@ -192,7 +192,7 @@ You can access and control your personal data that Microsoft has obtained, and e
 *   **Cortana**. You can control some of the data Cortana accesses or stores in your Cortana Notebook and Cortana settings.
 *   **Microsoft account**. If you wish to access, edit, or remove the profile information and payment information in your Microsoft account, change your password, add security information or close your account, you can do so by visiting the Microsoft account website.
 *   **Volume Licensing Service Center (VLSC)**. If you are a Volume Licensing customer, you can control your contact information and subscription and licensing data in one location by visiting the Volume Licensing Service Center website.
-*   **Skype**. If you wish to access, edit, or remove some profile and payment information for Skype or change your password, sign in to your account.
+*   **Skype**. If you wish to access, edit, or remove some profile and payment information for Skype or change your password, sign in to your account. If you wish to export your Skype chat history and files shared on Skype, you can request a copy.
 *   **Xbox**. If you use Xbox Live or Xbox.com, you can view or edit your personal data, including billing and account information, privacy settings, and online safety and data sharing preferences by accessing My Xbox on the Xbox console or on the Xbox.com website.
 *   **Microsoft Store**. You can access your Microsoft Store profile and account information by visiting Microsoft Store and selecting **View account** or **Order history**.
 *   **Microsoft.com**. You can access and update your profile on microsoft.com by visiting your Microsoft account profile page.
@@ -224,7 +224,7 @@ When you use a browser, you can control your personal data using certain feature
 *   **Tracking protection**. You can control the data third-party sites can collect about you using Tracking Protection in Internet Explorer (versions 9 and up). This feature will block third-party content, including cookies, from any site that is listed in a Tracking Protection List you add.
 *   **Browser controls for "Do Not Track."** Some browsers have incorporated "Do Not Track" (DNT) features that can send a signal to the websites you visit indicating you do not wish to be tracked. Because there is not yet a common understanding of how to interpret the DNT signal, Microsoft services do not currently respond to browser DNT signals. We continue to work with the online industry to define a common understanding of how to treat DNT signals. In the meantime, you can use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving interest-based advertising from Microsoft as described above.
 
-Learn moreTop of page Cookies and similar technologiesCookies and similar technologies
+Learn MoreTop of page Cookies and similar technologiesCookies and similar technologies
 
 Cookies are small text files placed on your device to store data that can be recalled by a web server in the domain that placed the cookie. We use cookies and similar technologies for storing and honoring your preferences and settings, enabling you to sign in, providing interest-based advertising, combating fraud, analyzing how our products perform, and fulfilling other legitimate purposes. Microsoft apps use additional identifiers, such as the advertising ID in Windows described in the Advertising ID section of this privacy statement, for similar purposes.
 
@@ -293,7 +293,7 @@ In addition to standard cookies and web beacons, our products can also use other
 
 **Silverlight Application Storage**. Websites or applications that use Microsoft Silverlight technology also have the ability to store data by using Silverlight Application Storage. To learn how to manage or block such storage, see the Silverlight section of this privacy statement.
 
-Learn moreTop of page Products provided by your organization—notice to end usersProducts provided by your organization—notice to end users
+Learn MoreTop of page Products provided by your organization—notice to end usersProducts provided by your organization—notice to end users
 
 If you use a Microsoft product or use an email address to access Microsoft products and that product or email address was provided by an organization you are affiliated with, such as an employer or school, that organization can:
 
@@ -343,11 +343,11 @@ If you sign in to Microsoft products with a work or school account, note:
 
 **Third-party accounts**. The data associated with a third-party Microsoft account, and how it will be used, is generally similar to the use and collection of data associated with a personal Microsoft account. Your service provider has control over your account, including the ability to access or delete your account. **You should carefully review the terms the third party provided you to understand what it can do with your account.**
 
-Learn moreTop of page Other important privacy informationOther important privacy information
+Learn MoreTop of page Other important privacy informationOther important privacy information
 
 Below you will find additional privacy information, such as how we secure your data, where we process your data, and how long we retain your data. You can find more information on Microsoft and our commitment to protecting your privacy at Microsoft Privacy.
 
-Learn moreTop of page Security of personal dataSecurity of personal data
+Learn MoreTop of page Security of personal dataSecurity of personal data
 
 Microsoft is committed to protecting the security of your personal data. We use a variety of security technologies and procedures to help protect your personal data from unauthorized access, use, or disclosure. For example, we store the personal data you provide on computer systems that have limited access and are in controlled facilities. When we transmit highly confidential data (such as a credit card number or password) over the internet, we protect it through the use of encryption. Microsoft complies with applicable data protection laws, including applicable security breach notification laws.
 
@@ -439,13 +439,13 @@ Where French law applies, you can also send us specific instructions regarding t
 
 If you have a technical or support question, please visit Microsoft Support to learn more about Microsoft Support offerings. If you have a personal Microsoft account password question, please visit Microsoft account support.
 
-Top of page Product-specific details:Enterprise and developer productsEnterprise and developer products
+Top of page Enterprise and developer productsEnterprise and developer products
 
 Enterprise and Developer Products are Microsoft products and related software offered to and designed primarily for use by organizations and developers. They include:
 
-*   Cloud services, referred to as Online Services in the Microsoft Online Services Terms (OST), such as Office 365, Microsoft Azure, Microsoft Dynamics365, Microsoft Intune, and Microsoft Azure Stack, for which an organization (our customer) contracts with Microsoft for the services (“Enterprise Online Services”).
+*   Cloud services, referred to as Online Services in the Microsoft Online Services Terms (OST), such as Office 365, Microsoft Azure, Microsoft Dynamics365, and Microsoft Intune for which an organization (our customer) contracts with Microsoft for the services (“Enterprise Online Services”).
 *   Other enterprise and developer cloud-based services, such as PlayFab Services and tools such as Cortana Skills Kit.
-*   Server and developer products, such as Windows Server, SQL Server, Visual Studio, System Center, and open source software like Bot Framework solutions (“Enterprise and Developer Software”).
+*   Server, developer, and hybrid cloud platform products, such as Windows Server, SQL Server, Visual Studio, System Center, Azure Stack and open source software like Bot Framework solutions (“Enterprise and Developer Software”).
 *   Appliances and hardware used for storage infrastructure, such as StorSimple (“Enterprise Appliances”).
 *   Professional services referred to in the OST that are available with Enterprise Online Services, such as onboarding services, data migration services, data science services, or services to supplement existing features in the Enterprise Online Services.
 
@@ -465,7 +465,7 @@ If any of the terms below are not defined in this Privacy Statement or the OST, 
 
 The Enterprise and Developer Products enable you to purchase, subscribe to, or use other products and online services from Microsoft or third parties with different privacy practices, and those other products and online services are governed by their respective privacy statements and policies.
 
-Learn moreTop of page Enterprise online servicesEnterprise online services
+Learn MoreTop of page Enterprise online servicesEnterprise online services
 
 To provide the Enterprise Online Services, Microsoft collects Customer Data, Administrator Data, Payment Data, and Support Data.
 
@@ -497,7 +497,7 @@ Top of page Productivity and communications productsProductivity and communicati
 
 Productivity and communications products are applications, software, and services you can use to create, store, and share documents, as well as communicate with others.
 
-Learn moreTop of page OfficeOffice
+Learn MoreTop of page OfficeOffice
 
 Office is a collection of productivity services and applications including Word, Excel, PowerPoint, and Outlook, among others. For more details about Outlook, see the Outlook section of this privacy statement. Office is a service that is comprised of client software applications and connected online services that span many platforms and have numerous interdependent experiences. Various Office services enable you to use your file content for designs and recommendations, collaborate with others within your documents, and provide you functionality from other Microsoft products, such as Bing and Cortana, and third-party connected products. If you work in an organization, your administrator may turn off or disable these connected services. Prior to Office 365 version 1904, you can change your privacy settings in the Privacy Options of the Microsoft Office Trust Center. For more information, see View my options and settings in the Microsoft Office Trust Center. Starting with Version 1904 of Office 365, you can access new, updated, and improved privacy controls by selecting **File** >. **Account** >. **Account Privacy**. See Account Privacy Settings for more information.
 
@@ -617,7 +617,7 @@ Top of page Search and artificial intelligenceSearch and artificial intelligence
 
 Search and artificial intelligence products connect you with information and intelligently sense, process, and act on information—learning and adapting over time.
 
-Learn moreTop of page BingBing
+Learn MoreTop of page BingBing
 
 Bing services include search and mapping services, as well as the Bing Toolbar and Bing Desktop apps. Bing services collect and process data in many forms, including text that has been inked or typed, speech data, and images. Bing services are also included within other Microsoft services, such as MSN Apps, Office, Cortana, and certain features in Windows (which we refer to as Bing-powered experiences).
 
@@ -708,7 +708,7 @@ Top of page WindowsWindows
 
 Windows is a personalized computing environment that enables you to seamlessly roam and access services, preferences, and content across your computing devices from phones to tablets to the Surface Hub. Rather than residing as a static software program on your device, key components of Windows are cloud-based, and both cloud and local elements of Windows are updated regularly, providing you with the latest improvements and features. In order to provide this computing experience, we collect data about you, your device, and the way you use Windows. And because Windows is personal to you, we give you choices about the personal data we collect and how we use it. Note that if your Windows device is managed by your organization (such as your employer or school), your organization may use centralized management tools provided by Microsoft or others to access and process your data and to control device settings (including privacy settings), device policies, software updates, data collection by us or the organization, or other aspects of your device. Additionally, your organization may use management tools provided by Microsoft or others to access and process your data from that device, including your interaction data, diagnostic data, and the contents of your communications and files. For more information about data collection and privacy in Windows, see Windows 10 and your online services. Earlier versions of Windows (including Windows Vista, Windows 7, Windows 8, and Windows 8.1) are subject to their own privacy statements.
 
-Learn moreTop of page ActivationActivation
+Learn MoreTop of page ActivationActivation
 
 When you activate Windows, a specific product key is associated with the device on which your software is installed. The product key and data about the software and your device is sent to Microsoft to help validate your license to the software. This data may be sent again if there is a need to re-activate or validate your license. On phones running Windows, device and network identifiers, as well as device location at the time of the first power-up of the device, are also sent to Microsoft for the purpose of warranty registration, stock replenishment, and fraud prevention.
 
@@ -801,9 +801,9 @@ Top of page Security and safety featuresSecurity and safety features
 
 **Microsoft Family**. Parents can use Microsoft Family to understand and set boundaries on how their child is using their device. There are many features available to Family members, so please carefully review the information provided when you create or join a Family. When Family activity reporting is turned on for a child, Microsoft will collect details about how the child uses their device and provide parents with reports of that child's activities. Activity reports are routinely deleted from Microsoft servers after a short period of time.
 
-**Windows Defender SmartScreen**. Windows Defender SmartScreen helps protect you when using our services by checking downloaded files and web content for malicious software, potentially unsafe web content, and other threats to you or your device. When checking a file, data about that file is sent to Microsoft, including the file name, a hash of the file's contents, the download location, and the file's digital certificates. If Windows Defender SmartScreen identifies the file as unknown or potentially unsafe, you will see a warning prior to opening the file. When checking web content, data about the content and your device is sent to Microsoft, including the full web address of the content. If Windows Defender SmartScreen detects that content is potentially unsafe, you will see a warning in place of the content. Windows Defender SmartScreen can be turned on or off in Settings.
+**Microsoft Defender SmartScreen**. Microsoft Defender SmartScreen helps protect you when using our services by checking downloaded files and web content for malicious software, potentially unsafe web content, and other threats to you or your device. When checking a file, data about that file is sent to Microsoft, including the file name, a hash of the file's contents, the download location, and the file's digital certificates. If Microsoft Defender SmartScreen identifies the file as unknown or potentially unsafe, you will see a warning prior to opening the file. When checking web content, data about the content and your device is sent to Microsoft, including the full web address of the content. If Microsoft Defender SmartScreen detects that content is potentially unsafe, you will see a warning in place of the content. Microsoft Defender SmartScreen can be turned on or off in Settings.
 
-**Windows Defender Antivirus**. Windows Defender Antivirus looks for malware and other unwanted software on your device. Windows Defender Antivirus is automatically turned on to help protect your device if no other antimalware software is actively protecting your device. If Windows Defender Antivirus is turned on, it will monitor the security status of your device. When Windows Defender Antivirus is turned on, or is running because Limited Periodic Scanning is enabled, it will automatically send reports to Microsoft that contain data about suspected malware and other unwanted software, and it may also send files that could contain malware. If a report is likely to contain personal data, the report is not sent automatically, and you'll be prompted before it is sent. You can configure Windows Defender Antivirus not to send reports and suspected malware to Microsoft.
+**Microsoft Defender Antivirus**. Microsoft Defender Antivirus looks for malware and other unwanted software, potentially unwanted apps, and other malicious content on your device. Microsoft Defender Antivirus is automatically turned on to help protect your device if no other antimalware software is actively protecting your device. If Microsoft Defender Antivirus is turned on, it will monitor the security status of your device. When Microsoft Defender Antivirus is turned on, or is running because Limited Periodic Scanning is enabled, it will automatically send reports to Microsoft that contain data about suspected malware and other unwanted software, potentially unwanted apps, and other malicious content, and it may also send files that could contain malicious content, such as malware. If a report is likely to contain personal data, the report is not sent automatically, and you'll be prompted before it is sent. You can configure Microsoft Defender Antivirus not to send reports and suspected malware to Microsoft.
 
 Top of page Speech, Voice Activation, Inking, and TypingSpeech, Voice Activation, Inking, and Typing
 
@@ -912,6 +912,18 @@ Your groupings will be stored on your device for as long as you elect to keep th
 
 **Messaging app**. When you sign in with a Microsoft account on your device, you can choose to back up your information, which will sync your SMS and MMS messages and store them in your Microsoft account. This allows you to retrieve the messages if you lose or change phones. After your initial device set-up, you can manage your messaging settings at any time. Turning off your SMS/MMS backup will not delete messages that have been previously backed up to your Microsoft account. To delete such messages, you must first delete them from your device prior to turning off backup. If you allow the Messaging app to use your location, you can attach a link to your current location to an outgoing message. Location information will be collected by Microsoft as described in the Windows Location services section of this privacy statement.
 
+**Narrator**. Narrator is a screen-reading app that helps you use Windows without a screen. Narrator offers intelligent image and page title description and web page summaries when you encounter undescribed images and ambiguous links.
+
+When you choose to get an image description by pressing Narrator + Ctrl + D, the image will be sent to Microsoft to perform analysis of the image and generate a description. Images are used only to generate the description and are not stored by Microsoft.
+
+When you choose to get page title descriptions by pressing Narrator + Ctrl + D, the URL of the site you are visiting will be sent to Microsoft to generate the page title description and to provide and improve Microsoft services, such as Bing services as described in the Bing section above.
+
+When you choose to get a list of popular links for a web page by pressing Narrator + double press of S, the URL of the site you are visiting will be sent to Microsoft to generate the summary of popular links and to provide and improve Microsoft services, such as Bing.
+
+You can disable these features at any time by going to **Settings >. Ease of Access >. Narrator >. Get image descriptions, page titles and popular links**.
+
+You can also send feedback about Narrator to help Microsoft diagnose and resolve problems with Narrator and improve Microsoft products and services, such as Windows. Verbal feedback can be submitted at any time in Narrator by using Narrator Key + Alt + F. When you use this command, the Feedback Hub app will launch, giving you the opportunity to submit verbal feedback. If you enable the setting “Help Make Narrator Better” in **Settings >. Ease of Access >. Narrator** and submit verbal feedback through Feedback Hub, recent device and usage data, including event trace log (ETL) data, will be submitted along with your verbal feedback to improve Microsoft products and services, such as Windows.
+
 Top of page Windows Media PlayerWindows Media Player
 
 Windows Media Player allows you to play CDs, DVDs, and other digital content (such as WMA and MP3 files), rip CDs, and manage your media library. To enrich your experience when you play content in your library, Windows Media player displays related media information, such as album title, song titles, album art, artist, and composer. To augment your media information, Windows Media player will send a request to Microsoft which contains standard computer information, an identifier for the media content, and the media information already contained in your Windows Media Player library (including information you may have edited or entered yourself) so that Microsoft can recognize the track and then return additional information that is available.
@@ -952,7 +964,7 @@ Top of page Entertainment and related servicesEntertainment and related services
 
 Entertainment and Related Services power rich experiences and enable you to access a variety of content, applications and games.
 
-Learn moreTop of page Xbox and Xbox LiveXbox and Xbox Live
+Learn MoreTop of page Xbox and Xbox LiveXbox and Xbox Live
 
 Xbox consoles are hardware devices that you can use to access and play games, movies, music, and other forms of digital entertainment. Xbox Live is the online gaming and entertainment service from Microsoft that enables you to find content and connect with friends, on Xbox Live and other gaming and social networks, from a variety of devices, including Xbox consoles, PCs and mobile devices.
 
@@ -1063,7 +1075,7 @@ Microsoft Health services can help you understand and manage your health data. T
 
 Microsoft Health services collect and use your data to provide the services, which includes improving and personalizing your experiences. Health data you provide to Microsoft through Microsoft Health services is not combined with data from other Microsoft services, or used for other purposes without your explicit consent. For example, Microsoft does not use your health record data to market or advertise to you without your opt-in consent.
 
-Learn moreTop of page Health servicesHealth services
+Learn MoreTop of page Health servicesHealth services
 
 Microsoft Health services can help you understand and manage your health data. The data collected depends on the services and features you use, and includes the following:
 
@@ -1285,7 +1297,7 @@ You can access and control your personal data that Microsoft has obtained, and e
 *   **Cortana**. You can control some of the data Cortana accesses or stores in your Cortana Notebook and Cortana settings.
 *   **Microsoft account**. If you wish to access, edit, or remove the profile information and payment information in your Microsoft account, change your password, add security information or close your account, you can do so by visiting the Microsoft account website.
 *   **Volume Licensing Service Center (VLSC)**. If you are a Volume Licensing customer, you can control your contact information and subscription and licensing data in one location by visiting the Volume Licensing Service Center website.
-*   **Skype**. If you wish to access, edit, or remove some profile and payment information for Skype or change your password, sign in to your account.
+*   **Skype**. If you wish to access, edit, or remove some profile and payment information for Skype or change your password, sign in to your account. If you wish to export your Skype chat history and files shared on Skype, you can request a copy.
 *   **Xbox**. If you use Xbox Live or Xbox.com, you can view or edit your personal data, including billing and account information, privacy settings, and online safety and data sharing preferences by accessing My Xbox on the Xbox console or on the Xbox.com website.
 *   **Microsoft Store**. You can access your Microsoft Store profile and account information by visiting Microsoft Store and selecting **View account** or **Order history**.
 *   **Microsoft.com**. You can access and update your profile on microsoft.com by visiting your Microsoft account profile page.
@@ -1540,9 +1552,9 @@ Enterprise and developer productsEnterprise and developer productsmainenterprise
 
 Enterprise and Developer Products are Microsoft products and related software offered to and designed primarily for use by organizations and developers. They include:
 
-*   Cloud services, referred to as Online Services in the Microsoft Online Services Terms (OST), such as Office 365, Microsoft Azure, Microsoft Dynamics365, Microsoft Intune, and Microsoft Azure Stack, for which an organization (our customer) contracts with Microsoft for the services (“Enterprise Online Services”).
+*   Cloud services, referred to as Online Services in the Microsoft Online Services Terms (OST), such as Office 365, Microsoft Azure, Microsoft Dynamics365, and Microsoft Intune for which an organization (our customer) contracts with Microsoft for the services (“Enterprise Online Services”).
 *   Other enterprise and developer cloud-based services, such as PlayFab Services and tools such as Cortana Skills Kit.
-*   Server and developer products, such as Windows Server, SQL Server, Visual Studio, System Center, and open source software like Bot Framework solutions (“Enterprise and Developer Software”).
+*   Server, developer, and hybrid cloud platform products, such as Windows Server, SQL Server, Visual Studio, System Center, Azure Stack and open source software like Bot Framework solutions (“Enterprise and Developer Software”).
 *   Appliances and hardware used for storage infrastructure, such as StorSimple (“Enterprise Appliances”).
 *   Professional services referred to in the OST that are available with Enterprise Online Services, such as onboarding services, data migration services, data science services, or services to supplement existing features in the Enterprise Online Services.
 
@@ -1898,9 +1910,9 @@ Security and safety featuresSecurity and safety featuresmainsecurityandsafetyfea
 
 **Microsoft Family**. Parents can use Microsoft Family to understand and set boundaries on how their child is using their device. There are many features available to Family members, so please carefully review the information provided when you create or join a Family. When Family activity reporting is turned on for a child, Microsoft will collect details about how the child uses their device and provide parents with reports of that child's activities. Activity reports are routinely deleted from Microsoft servers after a short period of time.
 
-**Windows Defender SmartScreen**. Windows Defender SmartScreen helps protect you when using our services by checking downloaded files and web content for malicious software, potentially unsafe web content, and other threats to you or your device. When checking a file, data about that file is sent to Microsoft, including the file name, a hash of the file's contents, the download location, and the file's digital certificates. If Windows Defender SmartScreen identifies the file as unknown or potentially unsafe, you will see a warning prior to opening the file. When checking web content, data about the content and your device is sent to Microsoft, including the full web address of the content. If Windows Defender SmartScreen detects that content is potentially unsafe, you will see a warning in place of the content. Windows Defender SmartScreen can be turned on or off in Settings.
+**Microsoft Defender SmartScreen**. Microsoft Defender SmartScreen helps protect you when using our services by checking downloaded files and web content for malicious software, potentially unsafe web content, and other threats to you or your device. When checking a file, data about that file is sent to Microsoft, including the file name, a hash of the file's contents, the download location, and the file's digital certificates. If Microsoft Defender SmartScreen identifies the file as unknown or potentially unsafe, you will see a warning prior to opening the file. When checking web content, data about the content and your device is sent to Microsoft, including the full web address of the content. If Microsoft Defender SmartScreen detects that content is potentially unsafe, you will see a warning in place of the content. Microsoft Defender SmartScreen can be turned on or off in Settings.
 
-**Windows Defender Antivirus**. Windows Defender Antivirus looks for malware and other unwanted software on your device. Windows Defender Antivirus is automatically turned on to help protect your device if no other antimalware software is actively protecting your device. If Windows Defender Antivirus is turned on, it will monitor the security status of your device. When Windows Defender Antivirus is turned on, or is running because Limited Periodic Scanning is enabled, it will automatically send reports to Microsoft that contain data about suspected malware and other unwanted software, and it may also send files that could contain malware. If a report is likely to contain personal data, the report is not sent automatically, and you'll be prompted before it is sent. You can configure Windows Defender Antivirus not to send reports and suspected malware to Microsoft.
+**Microsoft Defender Antivirus**. Microsoft Defender Antivirus looks for malware and other unwanted software, potentially unwanted apps, and other malicious content on your device. Microsoft Defender Antivirus is automatically turned on to help protect your device if no other antimalware software is actively protecting your device. If Microsoft Defender Antivirus is turned on, it will monitor the security status of your device. When Microsoft Defender Antivirus is turned on, or is running because Limited Periodic Scanning is enabled, it will automatically send reports to Microsoft that contain data about suspected malware and other unwanted software, potentially unwanted apps, and other malicious content, and it may also send files that could contain malicious content, such as malware. If a report is likely to contain personal data, the report is not sent automatically, and you'll be prompted before it is sent. You can configure Microsoft Defender Antivirus not to send reports and suspected malware to Microsoft.
 
 Speech, Voice Activation, Inking, and TypingSpeech, Voice Activation, Inking, and TypingmainspeechinkingtypingmoduleSummary
 
@@ -2008,6 +2020,18 @@ Your groupings will be stored on your device for as long as you elect to keep th
 **Mail and Calendar app**. The Mail and Calendar app allows you to connect all your email, calendars, and files in one place, including those from third-party email and file storage providers. The app provides location-based services, such as weather information in your calendar, but you can disable the app’s use of your location. When you add an account to the Mail and Calendar app, your email, calendar items, files, contacts, and other settings from your account will automatically sync to your device and to Microsoft servers. At any time, you can remove an account or make changes to the data that’s synced from your account. To configure an account, you must provide the app with the account credentials (such as user name and password), which will be sent over the internet to the third-party provider’s server. The app will first attempt to use a secure (SSL) connection to configure your account but will send this information unencrypted if your email provider does not support SSL. If you add an account provided by an organization (such as a company email address), the owner of the organizational domain can implement certain policies and controls (for example, multi-factor authentication or the ability to remotely wipe data from your device) that may affect your use of the app.
 
 **Messaging app**. When you sign in with a Microsoft account on your device, you can choose to back up your information, which will sync your SMS and MMS messages and store them in your Microsoft account. This allows you to retrieve the messages if you lose or change phones. After your initial device set-up, you can manage your messaging settings at any time. Turning off your SMS/MMS backup will not delete messages that have been previously backed up to your Microsoft account. To delete such messages, you must first delete them from your device prior to turning off backup. If you allow the Messaging app to use your location, you can attach a link to your current location to an outgoing message. Location information will be collected by Microsoft as described in the Windows Location services section of this privacy statement.
+
+**Narrator**. Narrator is a screen-reading app that helps you use Windows without a screen. Narrator offers intelligent image and page title description and web page summaries when you encounter undescribed images and ambiguous links.
+
+When you choose to get an image description by pressing Narrator + Ctrl + D, the image will be sent to Microsoft to perform analysis of the image and generate a description. Images are used only to generate the description and are not stored by Microsoft.
+
+When you choose to get page title descriptions by pressing Narrator + Ctrl + D, the URL of the site you are visiting will be sent to Microsoft to generate the page title description and to provide and improve Microsoft services, such as Bing services as described in the Bing section above.
+
+When you choose to get a list of popular links for a web page by pressing Narrator + double press of S, the URL of the site you are visiting will be sent to Microsoft to generate the summary of popular links and to provide and improve Microsoft services, such as Bing.
+
+You can disable these features at any time by going to **Settings >. Ease of Access >. Narrator >. Get image descriptions, page titles and popular links**.
+
+You can also send feedback about Narrator to help Microsoft diagnose and resolve problems with Narrator and improve Microsoft products and services, such as Windows. Verbal feedback can be submitted at any time in Narrator by using Narrator Key + Alt + F. When you use this command, the Feedback Hub app will launch, giving you the opportunity to submit verbal feedback. If you enable the setting “Help Make Narrator Better” in **Settings >. Ease of Access >. Narrator** and submit verbal feedback through Feedback Hub, recent device and usage data, including event trace log (ETL) data, will be submitted along with your verbal feedback to improve Microsoft products and services, such as Windows.
 
 Windows Media PlayerWindows Media PlayermainwindowsmediaplayermoduleSummary
 
