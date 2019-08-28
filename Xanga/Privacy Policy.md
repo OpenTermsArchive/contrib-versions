@@ -2,6 +2,12 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Is Xanga DEAD?! Or is something still in the works?
+    *   by IamKevio
+    *   2 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Can’t find my archives
     *   by NYFan13
     *   1 week ago
@@ -22,7 +28,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Looking for old posts
     *   by bleach\_me\_clean
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -58,7 +64,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Old Lost Xanga
     *   by Secrets\_forthe\_Man\_inthe\_Moon
-    *   1 month ago
+    *   2 months ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
@@ -86,12 +92,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Miscellaenous
     *   0 votes
     *   2 (last comment by jadetseng 2 months ago)
-*   Is Xanga still active?
-    *   by disunderstanded
-    *   2 years ago
-    *   in Premium
-    *   0 votes
-    *   2 (last comment by usalapinhazzer 2 months ago)
 
 1 2 3 ... 194 Next
 
