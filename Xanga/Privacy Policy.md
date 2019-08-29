@@ -2,9 +2,21 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Cannot look back the previous blogs
+    *   by JeSS\_Manchai
+    *   20 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Cannot look back the previous blogs
+    *   by JeSS\_Manchai
+    *   20 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Is Xanga DEAD?! Or is something still in the works?
     *   by IamKevio
-    *   2 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -80,18 +92,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   Recover my old blog entries
-    *   by here\_bizzy\_bizzy\_bizzy
-    *   2 months ago
-    *   in Adding &. Editing Entries
-    *   0 votes
-    *   0
-*   I renewed my account May 23, 2019
-    *   by Mr\_Turniphead
-    *   2 months ago
-    *   in Miscellaenous
-    *   0 votes
-    *   2 (last comment by jadetseng 2 months ago)
 
 1 2 3 ... 194 Next
 
