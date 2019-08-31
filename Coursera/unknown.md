@@ -23,7 +23,7 @@ We use both session and persistent cookies on the Site and we use different type
 *   _Essential cookies._ Necessary for the operation of the Site. We may use essential cookies to authenticate users, prevent fraudulent use of user accounts, or offer Site features.
 *   _Analytical/performance cookies._ Allow us to recognize and count the number of visitors and see how visitors move around the Site when using it. This helps us improve the way the Site works.
 *   _Functionality cookies._ Used to recognise you when you return to the Site. This enables us to personalise our content for you, greet you by name, and remember your preferences (for example, your choice of language or region).
-*   _Targeting cookies._ Record your visit to the Site, the pages you have visited, and the links you have followed. We will use this information to make the Site and the more relevant to your interests. We may also share this information with third parties for this purpose.
+*   _Targeting cookies._ Record your visit to the Site, the pages you have visited, and the links you have followed. We will use this information to make the Site and the content more relevant to your interests. We may also share this information with third parties for this purpose.
 
 To view a list of Coursera cookies, please view our Cookies Table.
 
