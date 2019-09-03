@@ -315,6 +315,19 @@ Legal basis
 
 The legal basis for this processing of personal data is Article 6 (1) a) (separate consent) and b) of the EU General Data Protection Regulation (GDPR).
 
+Data when taking part in prize draws
+
+If you choose to enter a prize draw we offer, we will process your data insofar as it is required for the purposes of this draw.  
+In some cases we may ask for separate consent from you to process your data provided as part of the prize draw in other ways.
+
+Period saved for
+
+The data collected as a result of your entering the prize draw will be deleted once the draw has closed, unless you have provided consent to your data being processed beyond this point.
+
+Legal basis
+
+The legal basis for this processing of personal data is Article 6 (1) a) (separate consent) and b) of the EU General Data Protection Regulation (GDPR).
+
 3\. Information we automatically obtain through your use of XING
 
 Data about you is automatically collated by means of tracking while you visit or make use of the XING service. Here you can find out:
@@ -438,6 +451,10 @@ Ad-defend
 More information is available here
 
 Performance Media
+
+More information is available here
+
+Crossmedia
 
 More information is available here
 
