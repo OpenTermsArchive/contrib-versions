@@ -272,7 +272,7 @@ Please note that Third Party Services placing cookies or utilizing other trackin
 
 Cookies: In order for some of these technologies to work properly, a small data file (“cookie”) must be downloaded and stored on your device. By default, we use several persistent cookies for purposes of session and user authentication, security, keeping the User’s preferences (e.g., regarding default language and settings), connection stability (e.g., for uploading media, using e-Commerce features, etc.), monitoring performance of our services and marketing campaigns, and generally providing and improving our services.
 
-If you want to delete or block any cookies, please refer to the help and support area on your internet browser for instructions on how to locate the file or directory that stores cookies. Information on deleting or controlling cookies is also available at www.aboutcookie.org (note that this website is not provided by Wix, and we, therefore, cannot ensure its accuracy, completeness or availability).
+If you want to delete or block any cookies, please refer to the help and support area on your internet browser for instructions on how to locate the file or directory that stores cookies. Information on deleting or controlling cookies is also available at https://www.aboutcookies.org/ (note that this website is not provided by Wix, and we, therefore, cannot ensure its accuracy, completeness or availability).
 
 Please note that deleting our cookies or disabling future cookies or tracking technologies may prevent you from accessing certain areas or features of our Services, or may otherwise adversely affect your user experience.
 
