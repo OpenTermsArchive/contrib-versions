@@ -4,19 +4,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Cannot look back the previous blogs
     *   by JeSS\_Manchai
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Cannot look back the previous blogs
     *   by JeSS\_Manchai
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Is Xanga DEAD?! Or is something still in the works?
     *   by IamKevio
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
