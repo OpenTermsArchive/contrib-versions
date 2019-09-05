@@ -1,12 +1,12 @@
 Amazon Device Terms of Use
 
-**Last updated: September 20, 2018**
+**Last updated: September 4, 2019**
 
 This is an agreement between you and Amazon Digital Services LLC (with its affiliates, "Amazon" or "we"). Please read these Amazon Device Terms of Use, the Amazon.com Privacy Notice (https://www.amazon.com/privacy), the Amazon.com Conditions of Use (https://www.amazon.com/conditionsofuse), and the other applicable rules, policies, and terms available at the Amazon.com website, or on or through the Amazon Device or its companion app (collectively, this "Agreement") before using the Amazon Device. By using the Amazon Device, you agree to be bound by the terms of this Agreement. If you do not accept the terms of this Agreement, then you may not use the Amazon Device, and you may return it in accordance with the applicable return policy. You may need your own Amazon.com account to register and use your Amazon Device, and you may be required to be logged in to the account and have a valid payment method associated with it. Your use of any of the Services is subject to any additional rules, policies and terms that apply to those Services.
 
 For the purpose of these Amazon Device Terms of Use:
 
-"Amazon Device" means Kindle e-readers, Fire tablets, Amazon Fire TV devices (but, for clarity, not Fire TV Edition televisions), Amazon Echo devices, Amazon Tap, Amazon Dash Button, Amazon Dash Wand, Amazon Cloud Cam, Amazon Smart Plug, and AmazonBasics Microwave, and, in each case, any Amazon accessories for these devices.
+"Amazon Device" means Kindle e-readers, Fire tablets, Amazon Fire TV devices (but, for clarity, not Fire TV Edition devices), Amazon Echo devices, Amazon Tap, Amazon Dash Button, Amazon Dash Wand, Amazon Cloud Cam, Amazon Smart Plug, and AmazonBasics Microwave, and, in each case, any Amazon accessories for these devices.
 
 "Digital Content" means digitized content (including third-party content), such as books, newspapers, magazines, journals, music, videos, apps, games, skills, photos, audio, and related features and functionality.
 
