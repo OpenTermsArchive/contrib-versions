@@ -1,43 +1,34 @@
-<. Back to list Terms of Use  
+<. Back to list Terms of Use
 
-(Updated on July 1, 2019)
+(Updated on September 12, 2019) 
 
 PLEASE READ THESE TERMS AND CONDITIONS CAREFULLY!
 
-Welcome to www.alibaba.com and www.aliexpress.com!  These Terms of Use describe the terms and conditions applicable to your access and use of the websites, mobile sites, mobile applications and other portals owned, operated, branded or made available by Alibaba.com (defined below) from time to time which relate to the Alibaba e-commerce platform and the Aliexpress e-commerce platform, including but not limited to: (a) the web and mobile-optimized versions of the websites identified by the uniform resource locator “www.alibaba.com” and “www.aliexpress.com”. and (b) \[the mobile applications of the Alibaba e-commerce platform and the Aliexpress e-commerce platform\] (collectively, the “Sites”).  This document is a legally binding agreement between you as the user(s) of the Sites (referred to as “you”, “your” or “User” hereinafter) and the Alibaba.com entity determined in accordance with clause 2.1 below (referred to as “we”, “our” or “Alibaba.com” hereinafter).
+Welcome to www.alibaba.com and www.aliexpress.com!  These Terms of Use describe the terms and conditions applicable to your access and use of the websites, mobile sites, mobile applications and other portals owned, operated, branded or made available by Alibaba.com (defined below) from time to time which relate to the Alibaba e-commerce platform and the Aliexpress e-commerce platform, including but not limited to: (a) the web and mobile-optimized versions of the websites identified by the uniform resource locator “www.alibaba.com” and “www.aliexpress.com”. and (b) the mobile applications of the Alibaba e-commerce platform and the Aliexpress e-commerce platform (collectively, the “Sites”).  This document is a legally binding agreement between you as the user(s) of the Sites (referred to as “you”, “your” or “User” hereinafter) and the Alibaba.com entity determined in accordance with clause 2.1 below (referred to as “we”, “our” or “Alibaba.com” hereinafter).
 
 **1.Application and Acceptance of the Terms**
 
-1.1 Your access to and use of the Sites and Alibaba.com’s services, software and products through the Sites, which shall include the platforms described in clause 7.1 of the Terms (such services, software and products collectively referred to as the “**Services**” hereinafter) is subject to the terms and conditions contained in this document as well as the Privacy Policy (defined in clause 3.3 below), the Product Listing Policy and any other rules and policies of the Sites that Alibaba.com may publish from time to time.  The Promotion Services referred to in the Alibaba.com Free Membership Agreement shall include Top Ranking and Sponsored Listing and any such other Services as may be announced by Alibaba.com from time to time. This document and such other rules and policies of the Sites are collectively referred to below as the “**Terms**”.  By accessing and use of the Sites and Services, you agree to accept and be bound by the Terms.  Please do not access or use the Services or the Sites if you do not accept all of the Terms.    
- 
+1.1 Your access to and use of the Sites and Alibaba.com’s services, software and products through the Sites, which shall include the platforms described in clause 7.1 of the Terms (such services, software and products collectively referred to as the “**Services**” hereinafter) is subject to the terms and conditions contained in this document as well as the Privacy Policy (defined in clause 3.3 below), the Product Listing Policy and any other rules and policies of the Sites that Alibaba.com may publish from time to time.  The Promotion Services referred to in the Alibaba.com Free Membership Agreement shall include Top Ranking and Sponsored Listing and any such other Services as may be announced by Alibaba.com from time to time. This document and such other rules and policies of the Sites are collectively referred to below as the “**Terms**”.  By accessing and use of the Sites and Services, you agree to accept and be bound by the Terms.  Please do not access or use the Services or the Sites if you do not accept all of the Terms.  
 
-1.2 You may not access or use the Services or the Sites and may not accept the Terms if (a) you are not of legal age to form a binding contract with Alibaba.com, or (b) you are not permitted to receive any Services under the laws of Hong Kong or other countries / regions including the country / region in which you are resident or from which you access and use the Services and the Sites.  
- 
+1.2 You may not access or use the Services or the Sites and may not accept the Terms if (a) you are not of legal age to form a binding contract with Alibaba.com, or (b) you are not permitted to receive any Services under the laws of Hong Kong or other countries / regions including the country / region in which you are resident or from which you access and use the Services and the Sites.
 
-1.3 Alibaba.com may amend any Terms at any time by posting the relevant amended and restated Terms on the Sites.  By continuing to access or use the Services or the Sites, you agree that the amended and restated Terms will apply to you.  
- 
+1.3 Alibaba.com may amend any Terms at any time by posting the relevant amended and restated Terms on the Sites.  By continuing to access or use the Services or the Sites, you agree that the amended and restated Terms will apply to you.
 
-1.4 If Alibaba.com has posted or provided a translation of the English language version of the Terms, you agree that the translation is provided for convenience only and that the English language version will govern your access to and use of the Services or the Sites.  
- 
+1.4 If Alibaba.com has posted or provided a translation of the English language version of the Terms, you agree that the translation is provided for convenience only and that the English language version will govern your access to and use of the Services or the Sites.
 
-1.5 You may be required to enter into separate agreement(s), whether online or offline, with Alibaba.com or our affiliate for any Service (or features within the Services) (each an “**Additional Agreement**”).  If there is any conflict or inconsistency between the Terms and an Additional Agreement, the Additional Agreement shall take precedence over the Terms only in relation to that Service (or feature within the Service) concerned.     
- 
+1.5 You may be required to enter into separate agreement(s), whether online or offline, with Alibaba.com or our affiliate for any Service (or features within the Services) (each an “**Additional Agreement**”).  If there is any conflict or inconsistency between the Terms and an Additional Agreement, the Additional Agreement shall take precedence over the Terms only in relation to that Service (or feature within the Service) concerned.   
 
 1.6 The Terms may not otherwise be modified except in writing by an authorized officer of Alibaba.com.    
 
 **2\. Provision of Services**
 
-2.1 If you are a registered member of any of the Sites, and registered or resident in Hong Kong or Macau, the Alibaba.com contracting entity that you are contracting with is Alibaba.com Hong Kong Limited.  If you are a registered member of any of the Sites, and registered in or are a resident of mainland China, you are contracting with Hangzhou Alibaba Advertising Co., Ltd. If you are a registered member of any of the Sites, and registered in a jurisdiction outside Hong Kong, Macau and mainland China, you are contracting with Alibaba.com Singapore E-Commerce Private Limited (incorporated in Singapore with Company Reg. No. 200720572D).   As some or part of the Services may be supported and provided by affiliates of Alibaba.com, Alibaba.com may delegate some of the Services to its affiliates.  
- 
+2.1 If you are a registered member of any of the Sites, and you are from Hong Kong or Macau, the Alibaba.com contracting entity that you are contracting with is Alibaba.com Hong Kong Limited.  If you are a registered member of any of the Sites, and you are from mainland China, you are contracting with Hangzhou Alibaba Advertising Co., Ltd. If you are a registered member of any of the Sites, and you are from a jurisdiction outside Hong Kong, Macau and mainland China, you are contracting with Alibaba.com Singapore E-Commerce Private Limited (incorporated in Singapore with Company Reg. No. 200720572D).   As some or part of the Services may be supported and provided by affiliates of Alibaba.com, Alibaba.com may delegate some of the Services to its affiliates.
 
-2.2 You must register as a member on the Sites in order to access and use some Services. Further, Alibaba.com reserves the right, without prior notice, to restrict access to or use of certain Services (or any features within the Services) to paying Users, or subject to other conditions that Alibaba.com may impose in our discretion.   
- 
+2.2 You must register as a member on the Sites in order to access and use some Services. Further, Alibaba.com reserves the right, without prior notice, to restrict access to or use of certain Services (or any features within the Services) to paying Users, or subject to other conditions that Alibaba.com may impose in our discretion. 
 
-2.3 Services (or any features within the Services) may vary for different regions and countries. No warranty or representation is given that a particular Service or feature or function thereof or the same type and extent of the Service or features and functions thereof will be available for Users. Alibaba.com may in our sole discretion limit, deny or create different levels of access to and use of any Services (or any features within the Services) with respect to different Users.  
- 
+2.3 Services (or any features within the Services) may vary for different regions and countries. No warranty or representation is given that a particular Service or feature or function thereof or the same type and extent of the Service or features and functions thereof will be available for Users. Alibaba.com may in our sole discretion limit, deny or create different levels of access to and use of any Services (or any features within the Services) with respect to different Users.
 
-2.4 Alibaba.com may launch, change, upgrade, impose conditions to, suspend, or stop any Services (or any features within the Services) without prior notice except that in case of a fee-based Service, such changes will not substantially adversely affect the ability of such paying Users to enjoy that Service.  
- 
+2.4 Alibaba.com may launch, change, upgrade, impose conditions to, suspend, or stop any Services (or any features within the Services) without prior notice except that in case of a fee-based Service, such changes will not substantially adversely affect the ability of such paying Users to enjoy that Service.
 
 2.5 Some Services (or part thereof) may be provided by Alibaba.com’s affiliates on behalf of Alibaba.com.
 
@@ -46,8 +37,7 @@ Welcome to www.alibaba.com and www.aliexpress.com!  These Terms of Use describe
 3.1 As a condition of your access to and use of the Sites or Services, you agree that you will comply with all applicable laws and regulations when accessing or using the Sites or Services.  
  
 
-3.2 You agree that (a) you will not copy, reproduce, download, re-publish, sell, distribute or resell any Services or any information, text, images, graphics, video clips, sound, directories, files, databases or listings, etc available on or through the Sites (the “Site Content”), and (b) you will not copy, reproduce, download, compile or otherwise use any Site Content for the purposes of operating a business that competes with Alibaba.com, or otherwise commercially exploiting the Site Content. Systematic retrieval of Site Content from the Sites to create or compile, directly or indirectly, a collection, compilation, database or directory (whether through robots, spiders, automatic devices or manual processes) without written permission from Alibaba.com is prohibited. Use of any content or materials on the Sites for any purpose not expressly permitted in the Terms is prohibited.  
- 
+3.2 You agree that (a) you will not copy, reproduce, download, re-publish, sell, distribute or resell any Services or any information, text, images, graphics, video clips, sound, directories, files, databases or listings, etc available on or through the Sites (the “Site Content”), and (b) you will not copy, reproduce, download, compile or otherwise use any Site Content for the purposes of operating a business that competes with Alibaba.com, or otherwise commercially exploiting the Site Content. Systematic retrieval of Site Content from the Sites to create or compile, directly or indirectly, a collection, compilation, database or directory (whether through robots, spiders, automatic devices or manual processes) without written permission from Alibaba.com is prohibited. Use of any content or materials on the Sites for any purpose not expressly permitted in the Terms is prohibited.
 
 3.3 You must read the following documents which govern the protection and use of personal information about Users in the possession of Alibaba.com and our affiliates:
 
@@ -55,11 +45,9 @@ a) for Users who access or use Sites relating to the Alibaba e-commerce platform
 
 b) for Users who access or use Sites relating to the Aliexpress e-commerce platform, the Aliexpress.com Privacy Policy,
 
-(collectively, the “Privacy Policy”).  
- 
+(collectively, the “Privacy Policy”).
 
-3.4 Alibaba.com may allow Users to access to content, products or services offered by third parties through hyperlinks (in the form of word link, banners, channels or otherwise), API or otherwise to such third parties' web sites. You are cautioned to read such web sites' terms and conditions and/or privacy policies before using the Sites. You acknowledge that Alibaba.com has no control over such third parties' web sites, does not monitor such web sites, and shall not be responsible or liable to anyone for such web sites, or any content, products or services made available on or through such web sites.  
- 
+3.4 Alibaba.com may allow Users to access to content, products or services offered by third parties through hyperlinks (in the form of word link, banners, channels or otherwise), API or otherwise to such third parties' web sites. You are cautioned to read such web sites' terms and conditions and/or privacy policies before using the Sites. You acknowledge that Alibaba.com has no control over such third parties' web sites, does not monitor such web sites, and shall not be responsible or liable to anyone for such web sites, or any content, products or services made available on or through such web sites.
 
 3.5 You agree not to undertake any action to undermine the integrity of the computer systems or networks of Alibaba.com and/or any other User nor to gain unauthorized access to such computer systems or networks.  
  
@@ -221,7 +209,7 @@ f) any matters relating to the Sites or Services, however arising, including neg
 
 9.1 Under no circumstances shall Alibaba.com be held liable for any delay or failure or disruption of the content or the Services accessed or delivered through the Sites resulting directly or indirectly from acts of nature, forces or causes beyond our reasonable control, including without limitation, Internet failures, computer, telecommunications or any other equipment failures, electrical power failures, strikes, labor disputes, riots, insurrections, civil disturbances, shortages of labor or materials, fires, flood, storms, explosions, acts of God, war, governmental actions, orders of domestic or foreign courts or tribunals or non-performance of third parties.
 
-10\. Intellectual Property Rights
+**10\. Intellectual Property Rights**
 
 10.1 Alibaba.com is the sole owner or lawful licensee of all the rights and interests in the Sites and the Site Content. The Sites and Site Content embody trade secrets and other intellectual property rights protected under worldwide copyright and other laws. All title, ownership and intellectual property rights in the Sites and Site Content shall remain with Alibaba.com, our affiliates or licensors, as the case may be. All rights not otherwise claimed under the Terms or by Alibaba.com are hereby reserved.  
  
@@ -263,13 +251,11 @@ b) immediately upon Alibaba.com posting such notice on an area of the Sites that
 12.6 Alibaba.com shall have the right to assign the Terms (including all of our rights, titles, benefits, interests, and obligations and duties in the Terms to any person or entity (including any affiliates of Alibaba.com). You may not assign, in whole or part, the Terms to any person or entity.  
  
 
-12.7 If you are from outside of mainland China, the Terms shall be governed by the laws of Hong Kong without regard to its conflict of law provisions and the parties to the Terms agree to submit to the exclusive jurisdiction of the courts of Hong Kong.  If you are from mainland China, the Terms shall be governed by the laws of People’s Republic of China without regard to its conflict of law provisions and the parties to the Terms agree to submit to the exclusive jurisdiction of the Yuhang basic people’s court in Hangzhou, People’s Republic of China.
+12.7 If you are from outside of mainland China, the Terms shall be governed by the laws of Hong Kong without regard to its conflict of law provisions. and the parties to the Terms agree to submit to the exclusive jurisdiction of the courts of Hong Kong, except as otherwise stipulated under applicable law.  If you are from mainland China, the Terms shall be governed by the laws of People’s Republic of China without regard to its conflict of law provisions. and the parties to the Terms agree to submit to the exclusive jurisdiction of the Yuhang basic people’s court in Hangzhou, People’s Republic of China.
 
 12.8 If you have any comments on the Services we provide to you, you may contact our customer service support line (https://helppage.aliexpress.com/buyercenter/selectTopic.htm for AliExpress or https://service.alibaba.com/buyer?spm=a2700.8293689.0.0.643f65aasdVUJy&tracelog=footer\_hp\_buyer for Alibaba.com) with any such feedback or questions.
 
-  Terms of Use
-
-(Old version，Updated on March 22, 2019)
+(Updated on July 1, 2019)
 
 PLEASE READ THESE TERMS AND CONDITIONS CAREFULLY!
 
@@ -296,7 +282,7 @@ Welcome to www.alibaba.com and www.aliexpress.com!  These Terms of Use describe
 
 **2\. Provision of Services**
 
-2.1 If you are a registered member of any of the Sites, and registered or resident in Hong Kong or Macau, the Alibaba.com contracting entity that you are contracting with is Alibaba.com Hong Kong Limited.  If you are a registered member of any of the Sites, and registered in or are a resident of mainland China, you are contracting with Hangzhou Alibaba Advertising Co., Ltd. If you are a registered member of any of the Sites, and registered in a jurisdiction outside Hong Kong, Macau and mainland China, you are contracting with Alibaba.com Singapore E-Commerce Private Limited (incorporated in Singapore with Company Reg. No. 200720572D).   As some or part of the Services may be supported and provided by affiliates of Alibaba.com, Alibaba.com may delegate some of the Services to its affiliates, particularly Alibaba.com (Europe) Limited incorporated in the United Kingdom, who you agree may invoice you for their part of the Services.  
+2.1 If you are a registered member of any of the Sites, and registered or resident in Hong Kong or Macau, the Alibaba.com contracting entity that you are contracting with is Alibaba.com Hong Kong Limited.  If you are a registered member of any of the Sites, and registered in or are a resident of mainland China, you are contracting with Hangzhou Alibaba Advertising Co., Ltd. If you are a registered member of any of the Sites, and registered in a jurisdiction outside Hong Kong, Macau and mainland China, you are contracting with Alibaba.com Singapore E-Commerce Private Limited (incorporated in Singapore with Company Reg. No. 200720572D).   As some or part of the Services may be supported and provided by affiliates of Alibaba.com, Alibaba.com may delegate some of the Services to its affiliates.  
  
 
 2.2 You must register as a member on the Sites in order to access and use some Services. Further, Alibaba.com reserves the right, without prior notice, to restrict access to or use of certain Services (or any features within the Services) to paying Users, or subject to other conditions that Alibaba.com may impose in our discretion.   
