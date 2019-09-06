@@ -307,8 +307,8 @@ Redwood City, California 94063 USA
 Attention: Privacy Team
 
 EVERNOTE GMBH  
-Walchestrasse 9  
-8006 Zurich, Switzerland  
+c/o Centralis Switzerland GmbH  
+Dufourstrasse 101, 8008 Zurich, Switzerland  
 Attention: Privacy Team
 
 EVERNOTE DO BRASIL SERVIÇOS DE APLICAÇÕES LTDA.  
