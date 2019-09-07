@@ -1,7 +1,25 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Archive does not have all blogs
+    *   by nevaeh84
+    *   15 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   how to get back my old posts?
+    *   by MYFEEL\_LING
+    *   16 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Cannot look back the previous blogs
     *   by JeSS\_Manchai
     *   1 week ago
@@ -70,7 +88,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Another blog missing all old posts
     *   by top\_5\_guy
-    *   1 month ago
+    *   2 months ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -78,18 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by Secrets\_forthe\_Man\_inthe\_Moon
     *   2 months ago
     *   in Passwords &. Sign-In
-    *   0 votes
-    *   0
-*   Able to download, unzip, and import ONE XML file
-    *   by Nathon
-    *   2 months ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Not able to view my sites
-    *   by dee\_296
-    *   2 months ago
-    *   in Data Migration
     *   0 votes
     *   0
 
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
