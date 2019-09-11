@@ -1,4 +1,4 @@
-Wix.com Privacy Policy Policy last updated: December 31, 2018
+Wix.com Privacy Policy Policy last updated: September 9, 2019
 
 Welcome to Wix.com’s Privacy Policy!
 
@@ -110,7 +110,7 @@ We also collect and use information in order to contact our visitors, users and 
 
  5. Where do we store your information?
 
-Wix Visitors’, Wix Users’ and Users-of-Users’ Personal Information may be maintained, processed and stored by Wix and our authorized affiliates and service providers in the United States of America, in Europe (including in Lithuania, Germany and Ukraine), in Israel, and in other jurisdictions as necessary for the proper delivery of our Services and/or as may be required by law (as further explained below).
+Wix Visitors’, Wix Users’ and Users-of-Users’ Personal Information may be stored in data centers located at the United States of America, Ireland, South Korea, Taiwan and Israel. We may use other jurisdictions as necessary for the proper delivery of our Services and/or as may be required by law (as further explained below) and in other jurisdictions as necessary for the proper delivery of our Services and/or as may be required by law (as further explained below).
 
 Wix Jobs Applicants Information will be maintained, processed and stored in Israel, in the
 
@@ -172,7 +172,7 @@ Some jurisdictions require us to maintain and store their residents’ informati
 
 Wix may collect, store and process certain Non-personal and Personal Information of Users-of-Users (“Users-of-Users Information”), solely on our Users’ behalf and at their direction. For example, each of our Users is able to import their e-mail contacts from third party services like Gmail, or otherwise collect and manage contacts via their User Website. Such contacts are then stored with Wix, on the User’s behalf.
 
-For such purposes, Wix serves and shall be considered as a “Processor” and not as the “Controller” (as both such capitalized terms are defined in the European Union General Data Protection Regulation) of such Users-of-Users Information. The Users controlling and operating such User Websites shall be considered as the “Controllers” of such Users-of-Users Information, and are responsible for complying with all laws and regulations that may apply to the collection and control of such Users-of-Users Information, including all privacy and data protection laws of all relevant jurisdictions.
+For such purposes, Wix serves and shall be considered as a “Processor” and not as the “Controller” (as both such capitalized terms are defined in the European Union General Data Protection Regulation) of such Users-of-Users Information. The Users controlling and operating such User Websites shall be considered as the “Controllers” of such Users-of-Users Information, and are responsible for complying with all laws and regulations that may apply to the collection and control of such Users-of-Users Information, including all privacy and data protection laws of all relevant jurisdictions. Subject to applicable law, Wix  will process your User-of-Users Information in accordance with the Data Processing Agreement located here.
 
 You are responsible for the security, integrity and authorized usage of your Users-of-Users’ Personal Information, and for obtaining consents, permissions and providing any fair processing notices required for the collection and usage of such information.
 
@@ -246,15 +246,15 @@ As part of our App Market program, we allow third party developers (“Third Par
 
 Each Third Party Developer is bound by the Wix App Market – Partner Program Agreement, which among others, contains restrictions on how they may access, store and use the Non-personal and Personal Information you and/or your Users-of-Users provide them or us. We encourage you to review any privacy policy accompanying a Third Party App and ask Third Party Developers for any clarifications you may need before deciding to install and use their Third Party App. Wix does not control and is not responsible for the actions or policies of any Third Party Developers, and your use of any Third Party App is at your own risk.
 
-8.6. WixHive API:
+8.6. Wix Apps and/or Third Party Apps:
 
-By installing certain Wix Apps and/or Third Party Apps, you also allow their respective provider to share and/or access certain Non-personal and Personal Information regarding you and/or your Users-of-Users, via the “WixHive” API. Such information includes, among others, contact details, messages, business applications and certain activities on the Services and/or User Website, which are stored and thereafter accessible via your User Account. For further details regarding the Personal Information that may be collected and shared via the WixHive API, please see the Wix App Market Terms of Use. 
+By installing certain Wix Apps and/or Third Party Apps, you also allow their respective provider to share and/or access certain Non-personal and Personal Information regarding you and/or your Users-of-Users. Such information includes, among others, contact details, messages, business applications and certain activities on the Services and/or User Website, which are stored and thereafter accessible via your User Account. For further details regarding the Personal Information that may be collected and shared, please see the Wix App Market Terms of Use. 
 
-In order to further protect your and your Users-of-Users’ privacy, we contractually prohibit all Third Party Developers from combining Personal Information collected across different User Websites and Services, and from sharing Users-of-Users’ Personal Information other than with other Apps installed on the same User Website or Services, for the purposes of such specific User Website or Services. Wix however may still access and use information collected and stored via the WixHive API across different User Websites and Apps, as necessary for providing and improving its Services.
+In order to further protect your and your Users-of-Users’ privacy, we contractually prohibit all Third Party Developers from combining Personal Information collected across different User Websites and Services, and from sharing Users-of-Users’ Personal Information other than with other Apps installed on the same User Website or Services, for the purposes of such specific User Website or Services. Wix however may still access and use information collected and stored across different User Websites and Apps, as necessary for providing and improving its Services.
 
-You are solely responsible for notifying your Users-of-Users of the collection, processing and use of their Personal Information via the WixHive API and informing them that their Personal Information will be transferred to and processed by Wix on your behalf.
+You are solely responsible for notifying your Users-of-Users of the collection, processing and use of their Personal Information and informing them that their Personal Information will be transferred to and processed by Wix on your behalf.
 
-To prevent the collection or sharing of Personal Information via the WixHive API, you may either avoid installing Apps to your User Website, revoke the permissions granted to Apps you do install, or simply uninstall them. You should note however that previously-installed Apps may still retain certain information that was collected prior to the revocation, so if you wish such information to be deleted, we suggest that you contact Wix or the Third Party Developer directly and request them to do so.
+To prevent the collection or sharing of Personal Information, you may either avoid installing Apps to your User Website, revoke the permissions granted to Apps you do install, or simply uninstall them. You should note however that previously-installed Apps may still retain certain information that was collected prior to the revocation, so if you wish such information to be deleted, we suggest that you contact Wix or the Third Party Developer directly and request them to do so.
 
 8.7. Wix Subsidiaries and Affiliated Companies:
 
