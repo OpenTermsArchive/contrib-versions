@@ -4,13 +4,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Archive does not have all blogs
     *   by nevaeh84
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   how to get back my old posts?
     *   by MYFEEL\_LING
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -28,7 +28,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Is Xanga DEAD?! Or is something still in the works?
     *   by IamKevio
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
