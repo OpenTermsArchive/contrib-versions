@@ -81,6 +81,7 @@ Products &. programs Products &. programs
 *   Small business
 *   Mid-sized business
 *   National accounts
+*   Healthcare industry
 *   High-Tech industry
 *   Hospitality industry
 *   Multi-employer labor funds
