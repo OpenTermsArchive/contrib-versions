@@ -22,7 +22,7 @@ Information from users with accounts
 
 If you **create an account**, we require some basic information at the time of account creation. You will create your own user name and password, and we will ask you for a valid email address. You also have the option to give us more information if you want to, and this may include "User Personal Information."
 
-If you sell a Marketplace application or raise funds through the Sponsors Program, we require some additional information through the registration process. We may require identification information and banking information for you to receive funds through those services.
+If you sell a GitHub Marketplace application or raise funds through the GitHub Sponsors Program, we require some additional information through the registration process. We may require identification information and banking information for you to receive funds through those services.
 
 Information from website browsers
 
