@@ -10,9 +10,6 @@ PRIVACY &. COOKIE POLICY
 
 Last Updated on: May 25, 2018
 
-  
-Cookie Settings  
-
 Dictionary.com, LLC (“Dictionary,” “we,” “us,” or “our”) respects your privacy and is committed to being transparent about the tracking technologies we use. This Privacy &. Cookie Policy describes our practices concerning the personal information collected through our websites, including Dictionary.com and Thesaurus.com (the “Sites”) and any related Dictionary products and services including the Dictionary.com mobile app available here (provision of the Sites and related products and services, collectively the “Services.”) and explains why explains how cookies, web beacons, pixel tags, clear gifs, and other similar files or technologies may be used to collect and store the information automatically collected about your computer, device, and Service usage and how you can control the use of these technologies.
 
 **If you do not accept the use of cookies, please disable them as described in the Cookie Controls.**
