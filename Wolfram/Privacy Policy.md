@@ -51,6 +51,8 @@ When you visit our websites, they, like most websites, send one or more cookiesâ
 
 Most browsers are initially set up to accept cookies, but can typically be configured to block all cookies or block all third-party cookies. Please be aware that our websites may not have full functionality for you if your browser is set to block some or all cookies. Depending on your location, you may also be prompted to provide your consent to all cookies, other than strictly necessary and functional cookies, each time you visit our websites. Any information about you collected by us is retained and protected in accordance with the laws governing your location.
 
+To opt out of cookies that allow information to be delivered to you, such as targeted (or "interest-based") advertising, via third-party ad groups we may work with, there are options for controlling the ads you receive. Please note, however, that opting out does not prevent you from seeing the ads. it only makes them less relevant or tailored to your interests. One way you may opt out can be found at the National Advertising Initiative Consumer Opt Out website here.
+
 Security
 
 We take appropriate measures to ensure the security of our Services. These include precautions to safeguard your personal information against loss, theft and misuse, as well as against unauthorized access, alteration, disclosure or destruction of data.
@@ -89,4 +91,4 @@ If you have any questions or concerns about this Privacy Policy, you may contact
 
 By using our Services, you are telling us either that you are 18 years or older and legally able to form contracts, or that an adult with authority to act on your behalf has agreed to these terms and to be responsible for ensuring your compliance with them in your use of the Services and any results you obtain from them. If you don't want to be bound by these terms, do not use the Services or their results.
 
-Revised January 9, 2019
+Revised September 16, 2019
