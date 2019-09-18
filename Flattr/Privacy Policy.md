@@ -11,48 +11,47 @@ Privacy Information: Voluntary opt in to send anonymized data to us
 
 Privacy Notice (short version)
 
-The following privacy notice shall provide you with a general overview about the collection and processing (hereinafter together referred to as "processing") of your personal data. For more information regarding our processing activities, please view our complete Privacy Policy.
+The following privacy notice shall provide you with a general overview about the collection and processing (hereinafter together referred to as “processing”) of your personal data. For more information regarding our processing activities, please view our complete Privacy Policy.
 
 What kind of personal data do we process?
 
-1.  While using the Flattr Extension (automatically). All data is saved locally in the Extension in your browser (**and will - without your prior consent - never be transferred to and/or accessed by us**)  
-    a) Information relating the Extension itself:
+1.  While using the Flattr Extension (automatically). All data is saved locally in the Extension in your browser (**and will - without your prior consent - never be transferred to and/or accessed by us**)
     
-    *   Operating system
-    *   Extension state changes:
-        *   authentication
-        *   update and reason for update
-        *   Startup
+    1.  Information relating the Extension itself:
+        
+        *   Operating system
+        *   Extension state changes:
+            *   authentication
+            *   update and reason for update
+            *   Startup
+    2.  Your interaction with the Extension:
+        
+        *   Adding or removing domains to or from your own flattr enabled/ disabled lists
+        *   Manually flattring URLs
+        *   Looking at your list of flattrs within the icon popup
+        *   Dismissing a notification
+    3.  Your browsing behavior:
+        
+        *   Interaction data
+        *   Browsing data
+        *   Navigation data
+2.  While using our websites:
     
-    b) Your interaction with the Extension:
-    
-    *   Adding or removing domains to or from your own flattr enabled/ disabled lists
-    *   Manually flattring URLs
-    *   Looking at your list of flattrs within the icon popup
-    *   Dismissing a notification
-    
-    c) Your browsing behavior:
-    
-    *   Interaction data
-    *   Browsing data
-    *   Navigation data
-2.  While using our websites:  
-    a) Automatically:
-    
-    *   The referrer URL, only when accessing our website via an Affiliate link
-    
-    b) Voluntary:
-    
-    *   Account registration data
-    *   Profile data
-    *   Bank details
-    *   Transaction data
-    *   KYC data
-    *   Anonymized Extension data (with prior opt-in only)
-    *   social media channels added to your profile
-    *   Newsletter:
-        *   Name
-        *   Email address
+    1.  Automatically:
+        
+        *   The referrer URL, only when accessing our website via an Affiliate link
+    2.  Voluntary:
+        
+        *   Account registration data
+        *   Profile data
+        *   Bank details
+        *   Transaction data
+        *   KYC data
+        *   Anonymized Extension data (with prior opt-in only)
+        *   social media channels added to your profile
+        *   Newsletter:
+            *   Name
+            *   Email address
 
 How do we collect data?
 
@@ -93,7 +92,10 @@ Kept for the term of the agreement, except for
 *   number of flattrs, which are retained for a period of six (6) months after deletion of the account. \* flattr with a receiving creator or publisher: connection to a Contributor automatically deleted after three (3) months after respective flattr.
 *   unclaimed flattrs will be anonymized after one (1) month after used in a distribution.
 *   profile name, flattred URL, except for domain and day of flattr, and the public profile of creators and publishers for a period of three (3) months.
-*   URLs without a recipient for one (1) month after subscription period. Transaction data:
+*   URLs without a recipient for one (1) month after subscription period.
+
+Transaction data:
+
 *   historic data for three (3) months
 *   basic transaction data for tax purposes in accordance with tax retention periods
 
@@ -129,9 +131,11 @@ Email our Data Protection Officer
 
 Privacy Policy (long version)
 
-Your protection and data confidentiality is of utmost importance to us (“**Flattr**” “**we**” “**our**”). that is why we take protecting your personal data very seriously and collect as little data as possible. Nevertheless, some personal data is necessary to provide the services of our website flattr.com (hereinafter referred to “**Website**”), and our extension (hereinafter referred to as “**Extension**”, Website and Extension hereinafter referred to as “**Services**”). This Privacy Policy shall inform you about the personal data we collect and how exactly that data is processed. We gather and use personal data firmly within the provisions of the European General Data Protection Regulation (Regulation (EU) 2016/679) (“GDPR”), the applicable EU Laws and German and Swedish national data protection. In the following text we will inform you about the specific data, the scope and the purpose of the collection and use of personal data by us when using the Services, the legal basis for such collection and processing as well as your rights to protect your personal data. The Privacy Policy does not apply to the practices of third parties that Flattr does not own or control, or to individuals that Flattr does not employ or manage. “**You**”, “**Your**” and “**Yourself**” refer to anyone visiting our Website or using the Extension.
+Your protection and data confidentiality is of utmost importance to us (“**Flattr**” “**we**” “**our**”). that is why we take protecting your personal data very seriously and collect as little data as possible. Nevertheless, some personal data is necessary to provide the services of our website flattr.com (hereinafter referred to “**Website**”), and our extension (hereinafter referred to as “**Extension**”, Website and Extension hereinafter referred to as “**Services**”). This Privacy Policy shall inform you about the personal data we collect and how exactly that data is processed. We gather and use personal data firmly within the provisions of the European General Data Protection Regulation (Regulation (EU) 2016/679) (“GDPR”), the applicable EU Laws and German and Swedish national data protection. In the following text we will inform you about the specific data, the scope and the purpose of the collection and use of personal data by us when using the Services, the legal basis for such collection and processing as well as your rights to protect your personal data.  
+The Privacy Policy does not apply to the practices of third parties that Flattr does not own or control, or to individuals that Flattr does not employ or manage.  
+“**You**”, “**Your**” and “**Yourself**” refer to anyone visiting our Website or using the Extension.
 
-<a name=”responsibility">Who is responsible for the data collection and processing (contacts)? Controller
+Who is responsible for the data collection and processing (contacts)? Controller
 
 The legal person responsible for the collection, processing and / or use of personal data in connection with all Flattr Services (“**Controller**”) is:
 
@@ -144,11 +148,17 @@ Contact our Data Protection Officer
 
 If you have any questions regarding your personal data, please contact our Data Protection Officer:
 
-Johanna Hagemeier **Phone**: +49 (0) 221 / 65028 598 **Email**: privacy {@} flattr.com **Fax**: +49 (0) 221 / 65028 599
+Johanna Hagemeier  
+**Phone**: +49 (0) 221 / 65028 598  
+**Email**: privacy {@} flattr.com  
+**Fax**: +49 (0) 221 / 65028 599
 
 What is personal data?
 
-The purpose of data protection is to protect personal data. Personal data means any information relating to an identified or identifiable natural person (“**data subject**”). An identifiable natural person is one who can be identified, directly or indirectly, in particular, by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
+The purpose of data protection is to protect personal data. Personal data means  
+any information relating to an identified or identifiable natural person (“**data subject**”). An identifiable natural person is one who can be identified, directly or indirectly, in particular, by reference to an identifier such as a name, an identification number, location  
+data, an online identifier or to one or more factors specific to the physical, physiological,  
+genetic, mental, economic, cultural or social identity of that natural person.
 
 This information includes, for example, details such as name, postal address, email address or telephone number, but also nicknames and / or information about your interests.
 
@@ -214,9 +224,13 @@ Transaction data of contributions from Contributors to a publisher or a creator 
 
 Verification information (mandatory for payouts)
 
-Because of legal obligations related to the payment provider’s license as an Electronic Money Issuer, the payment provider must verify your account before you can withdraw any money. These verification obligations are necessary in order to fight fraud, money laundering and the financing of terrorism. The verification process requires you to upload specific information and / or documents, which will be uploaded and stored on our payment provider’s systems only. The documents will be solely used for authentication purposes. We do not have access to those documents. The information / documents you must upload include:
+Because of legal obligations related to the payment provider’s license as an Electronic Money Issuer, the payment provider must verify your account before you can withdraw any money. These verification obligations are necessary in order to fight fraud, money laundering and the financing of terrorism.  
+The verification process requires you to upload specific information and / or documents, which will be uploaded and stored on our payment provider’s systems only. The documents will be solely used for authentication purposes. We do not have access to those documents.  
+The information / documents you must upload include:
 
-*   A scan of your or your legal representative’s passport/ID or other identification document. **For German users:** You are entitled, at your sole discretion, to redact the serial number and the access number on your ID and/or passport before uploading it.
+*   A scan of your or your legal representative’s passport/ID or other identification document.  
+    **For German users:**  
+    You are entitled, at your sole discretion, to redact the serial number and the access number on your ID and/or passport before uploading it.
 *   A scan proving your registration as a company
 *   A scan of the articles of association
 *   A shareholder declaration
@@ -225,12 +239,14 @@ Deletion of accounts
 
 When deleting an account, all account data will be deleted directly, except for the following data, which must be retained for accounting purposes and/or for providing the Flattr service for a short period and will be automatically deleted at the end of the respective period:
 
-1.  **Contributors**: Flattrs, meaning the number of flattrs including the flattred URL, will be retained for a period of six (6) months after deletion of the account. This is required for content creators’ and/or Publisher’s accounting. The flattrs cannot be connected to you. URLs without a recipient will be retained for one (1) more month after the end of the subscription period.
+1.  **Contributors**:  
+    Flattrs, meaning the number of flattrs including the flattred URL, will be retained for a period of six (6) months after deletion of the account. This is required for content creators’ and/or Publisher’s accounting. The flattrs cannot be connected to you.  
+    URLs without a recipient will be retained for one (1) more month after the end of the subscription period.
 2.  **Content creators/Publishers**: For accounting reasons the profile name, flattred URL and the public profile will be retained for a period of three (3) months.
 
 Web Analytics
 
-We use Google Analytics, a web analytics service from Google Inc. ("Google"), on our flattr.com. Google Analytics uses so-called "cookies" (text files stored on your computer that enable us to analyze your use of our Websites). Information generated by the cookies (including your abbreviated IP address) is transmitted to and stored at a Google server in the United States. Google uses this information to assess your use of our Websites, to compile activity reports, and to provide more services connected with the use of our Websites. It is possible that Google may transmit this information to third parties if required by law, or if third parties process this information on behalf of Google.
+We use Google Analytics, a web analytics service from Google Inc. (“Google”), on our flattr.com. Google Analytics uses so-called “cookies” (text files stored on your computer that enable us to analyze your use of our Websites). Information generated by the cookies (including your abbreviated IP address) is transmitted to and stored at a Google server in the United States. Google uses this information to assess your use of our Websites, to compile activity reports, and to provide more services connected with the use of our Websites. It is possible that Google may transmit this information to third parties if required by law, or if third parties process this information on behalf of Google.
 
 You can deactivate Google Analytics by means of a browser add-on if you do not want to participate in website analytics. You can download the add-on from Google
 
@@ -242,11 +258,13 @@ Analytics data will be automatically deleted after 180 days.
 
 Newsletter
 
-Flattr provides You with various newsletter services free of charge. We use the newsletter to inform you about new products and send you general information about Flattr. You can choose which newsletters you would like to receive by ticking the respective boxes in your profile. **Of course you can unsubscribe the newsletter at any time by opting-out in your profile settings. In addition, every newsletter contains the information on how you can unsubscribe the newsletter with effect for the future.**
+Flattr provides You with various newsletter services free of charge. We use the newsletter to inform you about new products and send you general information about Flattr. You can choose which newsletters you would like to receive by ticking the respective boxes in your profile.  
+**Of course you can unsubscribe the newsletter at any time by opting-out in your profile settings. In addition, every newsletter contains the information on how you can unsubscribe the newsletter with effect for the future.**
 
 Collection and Processing in the Flattr Extension (automatically)
 
-For the purpose of providing the Services, which includes what content will be flattred, the Extension automatically Collects data. The Extension runs in your browser on your device. **All data Collected when using the Extension will be stored and Processed in the Extension itself and will NOT be transferred to Flattr and / or eyeo GmbH (Flattr’s parent company) and, of course, not to any other third party, except for the URL you have flattered, which will be transferred to Flattr.** This data is used by the Extension to decide automatically when and what will be flattred. The Extension Collects and Processes the following data to flattr the respective content:
+For the purpose of providing the Services, which includes what content will be flattred, the Extension automatically Collects data. The Extension runs in your browser on your device. **All data Collected when using the Extension will be stored and Processed in the Extension itself and will NOT be transferred to Flattr and / or eyeo GmbH (Flattr’s parent company) and, of course, not to any other third party, except for the URL you have flattered, which will be transferred to Flattr.** This data is used by the Extension to decide automatically when and what will be flattred.  
+The Extension Collects and Processes the following data to flattr the respective content:
 
 Information related to the Extension (automatically)
 
@@ -269,8 +287,8 @@ The function of the extension is to determine what content (normally a URL) to f
 **Within the Extension, meaning in your browser, under your control and not being sent to us**, current measures to detect activity / inactivity are
 
 *   browsing data and timestamps, specifically URLs you visit (including previously visited pages) and the page title, on some multi-author pages (currently youtube.com only) the author of the respective webpage,
-    *   information about tabs (creating, selecting, moving or closing tabs in the user interface, including which window and at which position the tab was created, as well as which window created it in case of popups, and whether a tab is audible and/or muted and also when this status changes),
-    *   page load statuses to identify error pages, and browser idle state changes.
+*   information about tabs (creating, selecting, moving or closing tabs in the user interface, including which window and at which position the tab was created, as well as which window created it in case of popups, and whether a tab is audible and/or muted and also when this status changes),
+*   page load statuses to identify error pages, and browser idle state changes.
 
 Also **within the Extension, meaning in your browser, under your control and not being sent to us**, we record
 
@@ -301,7 +319,9 @@ Content creators and publishers will be provided with information about the coun
 
 Deletion of Extension data
 
-We delete all data collected in connection with the Extension as follows: Events, flattrs, session data and the domains, which you have black- and/or whitelisted will be deleted in connection with the deletion of the Extension. In case you should have actively submitted those data to us, we will delete the submitted data 35 days after successful submission. On a daily basis, we delete sessions and visits after the processing of the history, unless it fails.
+We delete all data collected in connection with the Extension as follows:  
+Events, flattrs, session data and the domains, which you have black- and/or whitelisted will be deleted in connection with the deletion of the Extension. In case you should have actively submitted those data to us, we will delete the submitted data 35 days after successful submission.  
+On a daily basis, we delete sessions and visits after the processing of the history, unless it fails.
 
 Cookies
 
@@ -327,7 +347,7 @@ Processing is based on your consent (Art. 6 (1) a GDPR)
 
 When subscribing for our newsletter, you provide us with your consent, which legitimizes the use of your email address in accordance and to the extent of your consent.
 
-<a name="data-transfers”>International data transfers
+International data transfers
 
 For some parts of our hosting we use a non-EU/EEA service provider called Cloudflare, Inc., seated in San Francisco (United States). We have carefully selected Cloudflare and review it regularly to ensure that your privacy is preserved. The service provider provides sufficient guarantees to ensure an adequate level of data protection and may only use the personal data for the purposes stipulated by us and in accordance with our instructions. We also contractually require the service provider to treat your personal data solely in accordance with this Privacy Policy and the European data protection laws. In order to ensure an adequate level of data protection, we have entered into the EU Standard Contractual Clauses (processors) - Commission Decision C(2010)593. You can request a copy by contacting us at privacy\[at\]flattr.com.
 
@@ -380,7 +400,8 @@ To exercise your rights, please contact us via or mail to:
 Flattr AB  
 Box 4111  
 20312 Malmö  
-Sweden flattr.com/contact
+Sweden  
+flattr.com/contact
 
 Changes to the Privacy Policy
 
