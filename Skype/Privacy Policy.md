@@ -1,4 +1,4 @@
-Microsoft Privacy StatementLast Updated: August 2019 What's new? Expand All Collapse AllPrint
+Microsoft Privacy StatementLast Updated: September 2019 What's new? Expand All Collapse AllPrint
 
 Your privacy is important to us. This privacy statement explains the personal data Microsoft processes, how Microsoft processes it, and for what purposes.
 
@@ -283,7 +283,7 @@ Some Microsoft webpages contain electronic tags known as web beacons that we use
 
 In addition to placing web beacons on our own websites, we sometimes work with other companies to place our web beacons on their websites or in their advertisements. This helps us to, for example, develop statistics on how often clicking on an advertisement on a Microsoft website results in a purchase or other action on the advertiser's website. It also allows us to understand your activity on the website of a Microsoft partner in connection with your use of a Microsoft product or service.
 
-Finally, Microsoft products often contain web beacons or similar technologies from third-party analytics providers, which help us compile aggregated statistics about the effectiveness of our promotional campaigns or other operations. These technologies enable the analytics providers to set or read their own cookies or other identifiers on your device, through which they can collect information about your online activities across applications, websites, or other products. However, we prohibit these analytics providers from using web beacons on our sites to collect or access information that directly identifies you (such as your name or email address). You can opt out of data collection or use by some of these analytics providers by clicking any of the following links: Adjust, AppsFlyer, Clicktale, Flurry Analytics, Google Analytics (requires you to install a browser add-on), Kissmetrics, Mixpanel, Nielsen, Visible Measures, or WebTrends.
+Finally, Microsoft products often contain web beacons or similar technologies from third-party analytics providers, which help us compile aggregated statistics about the effectiveness of our promotional campaigns or other operations. These technologies enable the analytics providers to set or read their own cookies or other identifiers on your device, through which they can collect information about your online activities across applications, websites, or other products. However, we prohibit these analytics providers from using web beacons on our sites to collect or access information that directly identifies you (such as your name or email address). You can opt out of data collection or use by some of these analytics providers by clicking any of the following links: Adjust, AppsFlyer, Clicktale, Flurry Analytics, Google Analytics (requires you to install a browser add-on), Kissmetrics, Mixpanel, Nielsen, Acuity Ads, or WebTrends.
 
 **Other similar technologies**
 
@@ -303,6 +303,14 @@ If you use a Microsoft product or use an email address to access Microsoft produ
 If you lose access to your work or school account (in event of change of employment, for example), you may lose access to products and the content associated with those products, including those you acquired on your own behalf, if you used your work or school account to sign in to such products.
 
 Many Microsoft products are intended for use by organizations, such as schools and businesses. Please see the Enterprise and developer products section of this privacy statement. If your organization provides you with access to Microsoft products, your use of the Microsoft products is subject to your organization's policies, if any. You should direct your privacy inquiries, including any requests to exercise your data protection rights, to your organization’s administrator. When you use social features in Microsoft products, other users in your network may see some of your activity. To learn more about the social features and other functionality, please review documentation or help content specific to the Microsoft product. Microsoft is not responsible for the privacy or security practices of our customers, which may differ from those set forth in this privacy statement.
+
+For Microsoft products provided by your K-12 school, including Microsoft 365 Education, Microsoft will:
+
+*   not collect or use student personal data beyond that needed for authorized educational or school purposes;
+*   not sell or rent student personal data;
+*   not use or share student personal data for advertising or similar commercial purposes, such as behavioral targeting of advertisements to students.
+*   not build a personal profile of a student, other than for supporting authorized educational or school purposes or as authorized by the parent, guardian, or student of appropriate age. and
+*   require that our vendors with whom student personal data is shared to deliver the educational service, if any, are obligated to implement these same commitments for student personal data.
 
 Top of page Microsoft accountMicrosoft account
 
@@ -940,7 +948,7 @@ Windows Search lets you search your stuff and the web from one place. If you cho
 
 Top of page Your PhoneYour Phone
 
-The Your Phone app lets you link your Android phone with your Windows device, enabling a variety of cross-device experiences. You can use Your Phone to see recent photos from your Android phone on your Windows device. view and send text messages from your Windows device. view, dismiss, or perform other actions to your Android phone notifications from your Windows device. and share your phone screen on your Windows device through Your Phone’s mirroring function.
+The Your Phone app lets you link your Android phone with your Windows device, enabling a variety of cross-device experiences. You can use Your Phone to see recent photos from your Android phone on your Windows device. make and receive calls from your Android phone on your Windows device. view and send text messages from your Windows device. view, dismiss, or perform other actions to your Android phone notifications from your Windows device. and share your phone screen on your Windows device through Your Phone’s mirroring function.
 
 To use Your Phone, the Your Phone app must be installed on your Windows device and the Your Phone Companion app must be installed on your Android phone. Upon launching the Your Phone app on your Windows device, you will be prompted to provide your mobile phone number. We use this mobile phone number solely to send you a link with information about downloading the Your Phone Companion app.
 
@@ -951,6 +959,8 @@ As part of providing Your Phone’s features to you, Microsoft collects performa
 You can unlink your Android phone from your Windows device at any time by logging in with your Microsoft account at accounts.microsoft.com/devices and updating the Settings on your Android phone. For detailed information, see our support page.
 
 **Text Messages**. Your Phone allows you to view text messages delivered to your Android phone on your Windows device and send text messages from your Windows device. Only text messages received and sent within the last 30 days are visible on your Windows device. These text messages are temporarily stored on your Windows device. We never store your text messages on our servers or change or delete any text messages on your Android phone. You can see messages sent via SMS (Short Message Service) and MMS (Multimedia Messaging Service) but not messages sent via RCS (Rich Communication Services). To provide this functionality, Your Phone accesses the content of your text messages and the contact information of the individuals or businesses from whom you are receiving or sending text messages.
+
+**Calls**. Your Phone allows you to make and receive calls from your Android phone on your Windows device. Through Your Phone, you can also view your recent calls on your Windows device. To activate this feature, you must enable certain permissions on both your Windows device and Android phone, such as call logs access and permission to make phone calls from your PC. These permissions can be revoked at any time under the Your Phone Settings page on your Windows device and your Android phone's settings. Only calls received and dialed within the last 30 days are visible under call logs on your Windows device. These call details are temporarily stored on your Windows device. We do not change or delete your call history on your Android phone.
 
 **Photos**. Your Phone allows you to copy, share or edit photos from your Android phone on your Windows device. Only a limited number of your most recent photos from the Camera Roll and Screenshots folders on your Android phone will be visible on your Windows device at any given time. These photos are temporarily stored on your Windows device and as you take more photos on your Android phone, we remove the temporary copies of the older photos from your Windows device. We never store your photos on our servers or change or delete any photos on your Android phone.
 
@@ -1390,7 +1400,7 @@ Some Microsoft webpages contain electronic tags known as web beacons that we use
 
 In addition to placing web beacons on our own websites, we sometimes work with other companies to place our web beacons on their websites or in their advertisements. This helps us to, for example, develop statistics on how often clicking on an advertisement on a Microsoft website results in a purchase or other action on the advertiser's website. It also allows us to understand your activity on the website of a Microsoft partner in connection with your use of a Microsoft product or service.
 
-Finally, Microsoft products often contain web beacons or similar technologies from third-party analytics providers, which help us compile aggregated statistics about the effectiveness of our promotional campaigns or other operations. These technologies enable the analytics providers to set or read their own cookies or other identifiers on your device, through which they can collect information about your online activities across applications, websites, or other products. However, we prohibit these analytics providers from using web beacons on our sites to collect or access information that directly identifies you (such as your name or email address). You can opt out of data collection or use by some of these analytics providers by clicking any of the following links: Adjust, AppsFlyer, Clicktale, Flurry Analytics, Google Analytics (requires you to install a browser add-on), Kissmetrics, Mixpanel, Nielsen, Visible Measures, or WebTrends.
+Finally, Microsoft products often contain web beacons or similar technologies from third-party analytics providers, which help us compile aggregated statistics about the effectiveness of our promotional campaigns or other operations. These technologies enable the analytics providers to set or read their own cookies or other identifiers on your device, through which they can collect information about your online activities across applications, websites, or other products. However, we prohibit these analytics providers from using web beacons on our sites to collect or access information that directly identifies you (such as your name or email address). You can opt out of data collection or use by some of these analytics providers by clicking any of the following links: Adjust, AppsFlyer, Clicktale, Flurry Analytics, Google Analytics (requires you to install a browser add-on), Kissmetrics, Mixpanel, Nielsen, Acuity Ads, or WebTrends.
 
 **Other similar technologies**
 
@@ -1410,6 +1420,14 @@ If you use a Microsoft product or use an email address to access Microsoft produ
 If you lose access to your work or school account (in event of change of employment, for example), you may lose access to products and the content associated with those products, including those you acquired on your own behalf, if you used your work or school account to sign in to such products.
 
 Many Microsoft products are intended for use by organizations, such as schools and businesses. Please see the Enterprise and developer products section of this privacy statement. If your organization provides you with access to Microsoft products, your use of the Microsoft products is subject to your organization's policies, if any. You should direct your privacy inquiries, including any requests to exercise your data protection rights, to your organization’s administrator. When you use social features in Microsoft products, other users in your network may see some of your activity. To learn more about the social features and other functionality, please review documentation or help content specific to the Microsoft product. Microsoft is not responsible for the privacy or security practices of our customers, which may differ from those set forth in this privacy statement.
+
+For Microsoft products provided by your K-12 school, including Microsoft 365 Education, Microsoft will:
+
+*   not collect or use student personal data beyond that needed for authorized educational or school purposes;
+*   not sell or rent student personal data;
+*   not use or share student personal data for advertising or similar commercial purposes, such as behavioral targeting of advertisements to students.
+*   not build a personal profile of a student, other than for supporting authorized educational or school purposes or as authorized by the parent, guardian, or student of appropriate age. and
+*   require that our vendors with whom student personal data is shared to deliver the educational service, if any, are obligated to implement these same commitments for student personal data.
 
 Microsoft accountMicrosoft accountmainmicrosoftaccountmoduleSummary
 
@@ -2049,7 +2067,7 @@ Windows Search lets you search your stuff and the web from one place. If you cho
 
 Your PhoneYour PhonemainyourphonemoduleSummary
 
-The Your Phone app lets you link your Android phone with your Windows device, enabling a variety of cross-device experiences. You can use Your Phone to see recent photos from your Android phone on your Windows device. view and send text messages from your Windows device. view, dismiss, or perform other actions to your Android phone notifications from your Windows device. and share your phone screen on your Windows device through Your Phone’s mirroring function.
+The Your Phone app lets you link your Android phone with your Windows device, enabling a variety of cross-device experiences. You can use Your Phone to see recent photos from your Android phone on your Windows device. make and receive calls from your Android phone on your Windows device. view and send text messages from your Windows device. view, dismiss, or perform other actions to your Android phone notifications from your Windows device. and share your phone screen on your Windows device through Your Phone’s mirroring function.
 
 To use Your Phone, the Your Phone app must be installed on your Windows device and the Your Phone Companion app must be installed on your Android phone. Upon launching the Your Phone app on your Windows device, you will be prompted to provide your mobile phone number. We use this mobile phone number solely to send you a link with information about downloading the Your Phone Companion app.
 
@@ -2060,6 +2078,8 @@ As part of providing Your Phone’s features to you, Microsoft collects performa
 You can unlink your Android phone from your Windows device at any time by logging in with your Microsoft account at accounts.microsoft.com/devices and updating the Settings on your Android phone. For detailed information, see our support page.
 
 **Text Messages**. Your Phone allows you to view text messages delivered to your Android phone on your Windows device and send text messages from your Windows device. Only text messages received and sent within the last 30 days are visible on your Windows device. These text messages are temporarily stored on your Windows device. We never store your text messages on our servers or change or delete any text messages on your Android phone. You can see messages sent via SMS (Short Message Service) and MMS (Multimedia Messaging Service) but not messages sent via RCS (Rich Communication Services). To provide this functionality, Your Phone accesses the content of your text messages and the contact information of the individuals or businesses from whom you are receiving or sending text messages.
+
+**Calls**. Your Phone allows you to make and receive calls from your Android phone on your Windows device. Through Your Phone, you can also view your recent calls on your Windows device. To activate this feature, you must enable certain permissions on both your Windows device and Android phone, such as call logs access and permission to make phone calls from your PC. These permissions can be revoked at any time under the Your Phone Settings page on your Windows device and your Android phone's settings. Only calls received and dialed within the last 30 days are visible under call logs on your Windows device. These call details are temporarily stored on your Windows device. We do not change or delete your call history on your Android phone.
 
 **Photos**. Your Phone allows you to copy, share or edit photos from your Android phone on your Windows device. Only a limited number of your most recent photos from the Camera Roll and Screenshots folders on your Android phone will be visible on your Windows device at any given time. These photos are temporarily stored on your Windows device and as you take more photos on your Android phone, we remove the temporary copies of the older photos from your Windows device. We never store your photos on our servers or change or delete any photos on your Android phone.
 
