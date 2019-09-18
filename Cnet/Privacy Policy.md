@@ -155,23 +155,27 @@ Welcome to the network of interactive services provided by CBS Corporation, its 
     
     For additional information for residents of the State of California click here.
     
-« Back To Top »11.  Privacy Protections for Children
+« Back To Top »11.  Nevada Visitors
+    
+    For additional information for residents of the State of Nevada click here.
+    
+« Back To Top »12.  Privacy Protections for Children
     
     Most CBS Services are intended for a general audience and do not knowingly collect or store contact information about children under the age of 13 in the United States or the appropriate age for services directed toward children as defined under applicable laws in other jurisdictions. Some CBS Services may ask for your full date of birth date to ensure that they are not collecting information from children under 13 in the United States or the appropriate age for services directed toward children as defined under applicable laws in other jurisdictions or to identify when additional steps may need to be taken when information has been collected from children under 18 or under the age of majority in their jurisdiction, if higher than 18. In those instances where a CBS Service has actual knowledge that it collects information from children or offers a service directed toward children as defined under applicable laws, it will comply with those laws. To read about our privacy policy for children, please see the Children's Privacy Policy.
     
-« Back To Top »12.  User-Generated Content
+« Back To Top »13.  User-Generated Content
     
     Some CBS Services enable users to submit their own content for use in contests, blogs, on-air radio and TV broadcasts, online audio and video streams, videos, message boards, and other functions. Publication of User Generated Content on the CBS Services is subject to our Terms of Use. Please remember that any information you disclose becomes public information and exercise caution when choosing to disclose your contact, financial, and other information in a submission. We cannot prevent such information from being used in a manner that may violate this Privacy Policy, the law, or your personal privacy and safety. You should also be aware that we may also engage a third party to provide some of the services associated with the blogs, message boards and similar functions. This third party will collect and host the information that you submit to the CBS Services but will not use any of this information for purposes other than providing the service.
     
-« Back To Top »13.  Third Party Websites and Services
+« Back To Top »14.  Third Party Websites and Services
     
     Please note that some CBS Services may contain links to other websites and services. We are not responsible for the privacy practices of those websites, and we recommend that you review the privacy policies of each website that you visit. When you select a link to a third party website from one of the CBS Services (e.g., if you link to PayPal to pay for a product or service offered by a CBS Service), you will be leaving the CBS Service. Any information that you disclose on the third party website will be governed by that website's privacy policy.
     
-« Back To Top »14.  Changes to This Privacy Policy
+« Back To Top »15.  Changes to This Privacy Policy
     
     We may update this Privacy Policy to reflect changes in our practices and service offerings. If we modify our Privacy Policy, we will update the "Last Modified Date" and such changes will be effective upon posting. If we make any material changes in the way we use your information, we will notify you in advance by email through the email address you most recently provided to us or by prominently posting a prominent notice of the changes on the CBS Services.
     
-« Back To Top »15.  Questions
+« Back To Top »16.  Questions
     
     If you have questions regarding this Privacy Policy, please contact us and we will endeavor to respond to your request within a reasonable period of time. You may also submit questions or comments using the postal address listed below:
     
