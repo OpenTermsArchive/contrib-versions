@@ -6,7 +6,7 @@ Our Privacy Policy is designed to inform you about the information we collect, h
 
 This policy applies to Verizon website visitors, app users, applicants and customers in the United States. The policy applies across the Verizon family of companies and the products and services we provide, except it does not apply to Oath, MapQuest or Visible affiliates (which have separate privacy policies) or in other specific circumstances we describe below. The Verizon family of companies includes the companies and joint ventures controlled by Verizon, including the Verizon telephone companies, Verizon Enterprise Solutions, Verizon Wireless, Verizon Online, Verizon Connect, MapQuest, Visible and Oath. Some Verizon services and apps such as Hum, Message+ and AppFlash have additional privacy practices that are presented separately. If there is a conflict between this privacy policy and the service-specific policies, the service-specific policy governs when you are using that service.
 
-A separate policy governs the collection of personal data by the Verizon family of companies (excluding Oath, MapQuest and Visible) outside the United States. Also, contracts between Verizon and its business customers (both U.S. and international) may contain additional privacy-related terms and conditions that are presented in other ways.
+A separate policy governs the collection of personal data from individuals located outside of the United States by the Verizon family of companies. Also, contracts between Verizon and its business customers (both U.S. and international) may contain additional privacy-related terms and conditions that are presented in other ways.
 
 See recent changes to the privacy policy
 
@@ -251,6 +251,14 @@ View recent changes to privacy policy
 Updated April, 2019
 
 © 2009, 2011-2019 Verizon. All Rights Reserved.
+
+\--------------
+
+I also made edits to the international privacy centre to make the language consistent across the board. My edits are in the attached. 
+
+I promise this is it from me (at least for now ;-))
+
+  Attachments area      
 
 Contact us
 
