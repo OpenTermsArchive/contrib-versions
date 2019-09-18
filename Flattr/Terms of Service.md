@@ -1,20 +1,27 @@
 Terms of Use
 
-Welcome to Flattr, a product and service provided by Flattr AB, Box 4111, 20312 Malmö, Sweden (“**Flattr**”, “**we**”, “**our**”, or “**us**”). We have developed the browser extension Flattr (“**Extension**”) which can be downloaded at flattr.com (“**Website**”) and other domains and / or App Stores. The Extension is a browser add-on that allows users to easily contribute to content they love based on a smart algorithm that measures each individual user’s engagement on the websites they visit, and then automatically distributes the right amount of funds to the respective content.
+Welcome to Flattr, a product and service provided by Flattr AB, Box 4111, 20312 Malmö, Sweden (“**Flattr**”, “**we**”, “**our**”, or “**us**”).  
+We have developed the browser extension Flattr (“**Extension**”) which can be downloaded at flattr.com (“**Website**”) and other domains and / or App Stores. The Extension is a browser add-on that allows users to easily contribute to content they love based on a smart algorithm that measures each individual user’s engagement on the websites they visit, and then automatically distributes the right amount of funds to the respective content.
 
 A. Terms of Use in a nutshell
 
 The following short version shall provide you with a concise overview about our rules and legal terms in connection with the use of our Services. Please note, this overview is for Your convenience only and is not legally binding.
 
-**1\. Scope: To whom and what do these terms apply?** Users, that are at least 18 years old, and companies who accept these Terms.
+**1\. Scope: To whom and what do these terms apply?**  
+Users, that are at least 18 years old, and companies who accept these Terms.
 
-**2\. When and how do we modify these Terms?** Whenever necessary, e.g. because of changes in our Services, but subject to prior notice.
+**2\. When and how do we modify these Terms?**  
+Whenever necessary, e.g. because of changes in our Services, but subject to prior notice.
 
-**3\. What do I need to do to use Your Services?** Install the Extension to contribute to content, sign up for an account and select a subscription fee (and a payment account if You want to receive contributions).
+**3\. What do I need to do to use Your Services?**  
+Install the Extension to contribute to content, sign up for an account and select a subscription fee (and a payment account if You want to receive contributions).
 
-**4\. Scope: What we offer to You when You use our Services** We offer the use of the Extension free of charge, which enables You to contribute, subject to the subscription you select, to content You love, and the possibility to receive of contributions from Users who would like to support Your content with remuneration.
+**4\. Scope: What we offer to You when You use our Services**  
+We offer the use of the Extension free of charge, which enables You to contribute, subject to the subscription you select, to content You love, and the possibility to receive of contributions from Users who would like to support Your content with remuneration.
 
-**5\. Your obligations when using our Services** **All Users**:
+**5\. Your obligations when using our Services**
+
+**All Users**:
 
 *   Do not use our Services for any purpose that is unlawful or prohibited by these Terms
 *   Do not flattr any illegal websites
@@ -24,19 +31,28 @@ The following short version shall provide you with a concise overview about our 
 *   Pay the transaction fees for receiving contributions
 *   Inform Your users sufficiently when participating in our affiliate program
 
-**6\. What are our fees?** The Extension and contribution to content is free to use. Users receiving contributions get most of the percentage of the contribution. The remaining percent is split between us and the payment service provider. Our fees can be reviewed at flattr.com/faq.
+**6\. What are our fees?**  
+The Extension and contribution to content is free to use.  
+Users receiving contributions get most of the percentage of the contribution. The remaining percent is split between us and the payment service provider. Our fees can be reviewed at flattr.com/faq.
 
-**7\. Term and termination of this agreement** Your agreement runs for an indefinite term. Both parties, You and us, can terminate the agreement with prior notice of one (1) week before the end of Your Subscription Period. Please note, for withdrawals (within the refund period) You need to provide us with so called Know your Customer (KYC) information, due to the laws for the prevention of money laundering and terrorism financing.
+**7\. Term and termination of this agreement**  
+Your agreement runs for an indefinite term. Both parties, You and us, can terminate the agreement with prior notice of one (1) week before the end of Your Subscription Period.  
+Please note, for withdrawals (within the refund period) You need to provide us with so called Know your Customer (KYC) information, due to the laws for the prevention of money laundering and terrorism financing.
 
-**8\. Use and Terms of Payment Provider** For contributions we use an external payment provider (MangoPay, SA, seated in Luxembourg), that takes care of all transactions in connection with the contributions, subject to these terms and conditions.
+**8\. Use and Terms of Payment Provider**  
+For contributions we use an external payment provider (MangoPay, SA, seated in Luxembourg), that takes care of all transactions in connection with the contributions, subject to these terms and conditions.
 
-**9\. Indemnification** In case any of your activities in connection with the use of our Services is illegal, infringes third party rights or breaches this agreement and this activity affects us, You must indemnify us from all third party claims.
+**9\. Indemnification**  
+In case any of your activities in connection with the use of our Services is illegal, infringes third party rights or breaches this agreement and this activity affects us, You must indemnify us from all third party claims.
 
-**10\. Warranty in connection with defects** Your rights in connection with any defects related to our Services.
+**10\. Warranty in connection with defects**  
+Your rights in connection with any defects related to our Services.
 
-**11\. Limitation of liability** We distinguish between our free and our paid services. For free Services, such as the use of our Extension and contributions we have only very limited liability. For our paid Services, in particular receiving contributions, our liability is still limited but only in connection with minor breaches.
+**11\. Limitation of liability**  
+We distinguish between our free and our paid services. For free Services, such as the use of our Extension and contributions we have only very limited liability. For our paid Services, in particular receiving contributions, our liability is still limited but only in connection with minor breaches.
 
-**12\. Miscellaneous** We hope there will be no claims and You are satisfied with our Services, but in the case of any claims, as a Swedish company, those claims are subject to Swedish law and will be settled in Swedish courts. Please note, our main language is English, in case of translation inaccuracies the English version shall prevail.
+**12\. Miscellaneous**  
+We hope there will be no claims and You are satisfied with our Services, but in the case of any claims, as a Swedish company, those claims are subject to Swedish law and will be settled in Swedish courts. Please note, our main language is English, in case of translation inaccuracies the English version shall prevail.
 
 B. Terms of Use in detail 1. Scope: To whom and what do these terms apply?
 
@@ -66,11 +82,13 @@ As a contributor, You can install the Extension on Your desktop browser by click
 
 3.2 How to sign up and conclusion of the agreement 3.2.1 Registration
 
-You cannot use the Services without registration. the Extension for contributors will not be active without registration and active payment subscription. You can register and open an account by including the required information truthfully in the signup form and submit this information by clicking the “Sign up” button. We will send You a confirmation of Your registration via email including the confirmation link after You have clicked the “Sign up” button. You will enter into an agreement with us as soon as You have clicked the confirmation link. If requested by us, You agree to provide us with additional information about You or Your services within a reasonable time. Failure to do so may result in Your account being terminated or suspended.
+You cannot use the Services without registration. the Extension for contributors will not be active without registration and active payment subscription. You can register and open an account by including the required information truthfully in the signup form and submit this information by clicking the “Sign up” button. We will send You a confirmation of Your registration via email including the confirmation link after You have clicked the “Sign up” button. You will enter into an agreement with us as soon as You have clicked the confirmation link.  
+If requested by us, You agree to provide us with additional information about You or Your services within a reasonable time. Failure to do so may result in Your account being terminated or suspended.
 
 3.2.2 Payment Account
 
-If you want to contribute or receive contributions, You must open a payment account, which is technically operated by our Payment Provider (Section 8), but integrated in Your Flattr account in our Services. To open a payment account You must be either:
+If you want to contribute or receive contributions, You must open a payment account, which is technically operated by our Payment Provider (Section 8), but integrated in Your Flattr account in our Services.  
+To open a payment account You must be either:
 
 *   a natural person being an Adult, with capacity to enter into legally binding contracts, or
 *   a legal person, resident or registered in a member State of the European Union or in a state that is party to the agreement relating to the European Economic Area, or registered in any other country that imposes the equivalent requirements regarding money laundering and the financing of terrorism.
@@ -79,7 +97,9 @@ Opening a payment account may require additional information, which must be prov
 
 3.2.3 KYC
 
-Pursuant to the laws for the prevention of money laundering and terrorism financing, the Payment Provider (Section 8) is obliged to identify every User and to collect certain documents and information in this regard for the purpose of receiving money or withdrawing money. This so called “Know your customer” (“**KYC**”) information may be needed for contributing and / or receiving contributions as well as withdrawing money from an account. For more information, please refer to our Privacy Policy. KYC may take up to three (3) working days. We reserve the right to refuse the registration of, or cancel an account at our sole discretion, at any time and for no reason at all.
+Pursuant to the laws for the prevention of money laundering and terrorism financing, the  
+Payment Provider (Section 8) is obliged to identify every User and to collect certain documents and information in this regard for the purpose of receiving money or withdrawing money. This so called “Know your customer” (“**KYC**”) information may be needed for contributing and / or receiving contributions as well as withdrawing money from an account. For more information, please refer to our Privacy Policy. KYC may take up to three (3) working days.  
+We reserve the right to refuse the registration of, or cancel an account at our sole discretion, at any time and for no reason at all.
 
 4\. Scope: What we offer to You when You use our Services
 
@@ -87,7 +107,9 @@ Subject of our Services is both (i) the use of the Extension free of charge, inc
 
 4.1 Use of our Extension
 
-Both the installation and the use of the Extension are free of charge. The Extension runs in Your browser on Your device and automatically collects the data necessary to flatter content. For further details on data collection and processing, please read our Privacy Policy. Only websites that are on our whitelist and sites you enable flattr for will receive flattrs based on Your browsing engagement and browser history. You can review Your flattrs and You can always change them manually in Your account before a transaction has been generated. For further information on how to give flattrs, please read our FAQ. Upon Your proper registration with our Services, we grant to You the non-exclusive right to access and use our Services for the term of this agreement and only in accordance with these Terms. Our Service is available only to Adults, whether acting on their own behalf or as authorized employees or representatives of an entity. If You do not qualify thusly, do not attempt to register for, or use, our Services.
+Both the installation and the use of the Extension are free of charge.  
+The Extension runs in Your browser on Your device and automatically collects the data necessary to flatter content. For further details on data collection and processing, please read our Privacy Policy. Only websites that are on our whitelist and sites you enable flattr for will receive flattrs based on Your browsing engagement and browser history. You can review Your flattrs and You can always change them manually in Your account before a transaction has been generated. For further information on how to give flattrs, please read our FAQ.  
+Upon Your proper registration with our Services, we grant to You the non-exclusive right to access and use our Services for the term of this agreement and only in accordance with these Terms. Our Service is available only to Adults, whether acting on their own behalf or as authorized employees or representatives of an entity. If You do not qualify thusly, do not attempt to register for, or use, our Services.
 
 4.2 Processing and receiving of contributions
 
@@ -95,7 +117,8 @@ The main part of our Services is the contribution to content, which is free of c
 
 4.2.3 Contributions
 
-To contribute, You need to choose a subscription for each 30 day cycle (“**Subscription Period**”). You can change the subscription amount when a new Subscription Period starts. Based on Your specific surfing behaviour, engagement, visits, manual flattrs and Your manual changes and / or restrictions – if any – Your subscription for a Subscription Period will be automatically contributed to the respective Users. The payment for the subscription is done at the beginning of the Subscription Period and normally contributions will take place after the end of each Subscription Period. In the event of a technical issue, it may happen a few days later (“**Contribution Date**”). If during a given Subscription Period a User has not engaged on any flattrable site, the respective subscription amount for that Subscription Period will not be distributed but will be carried over as the next Subscription Period’s subscription amount.
+To contribute, You need to choose a subscription for each 30 day cycle (“**Subscription Period**”). You can change the subscription amount when a new Subscription Period starts. Based on Your specific surfing behaviour, engagement, visits, manual flattrs and Your manual changes and / or restrictions – if any – Your subscription for a Subscription Period will be automatically contributed to the respective Users. The payment for the subscription is done at the beginning of the Subscription Period and normally contributions will take place after the end of each Subscription Period. In the event of a technical issue, it may happen a few days later (“**Contribution Date**”).  
+If during a given Subscription Period a User has not engaged on any flattrable site, the respective subscription amount for that Subscription Period will not be distributed but will be carried over as the next Subscription Period’s subscription amount.
 
 4.2.3 Refunds
 
@@ -152,12 +175,13 @@ If You breach any part of Section 5.2, we have the right to immediately terminat
 
 We are also entitled to immediately suspend or withdraw Your right to make any transactions from Your payment account where:
 
-*   we have reasonable grounds to believe that there may be a breach in the security of Your account details.
+*   we have reasonable grounds to believe that there may be a breach in the security of Your account details;
 *   we suspect the unauthorized or fraudulent use of Your account details, or due to European or national law applying to us.
 
 Where possible and reasonable, we will inform You in advance that we are intending to do so and the reasons for these actions. If such advance information is not possible or reasonable, we will inform You at the earliest opportunity after termination and in any event within the time that You would expect a transaction to take place.
 
-Otherwise, we will not inform You where this would compromise our reasonable security measures or is otherwise contrary to any applicable law, rule or regulation.
+Otherwise, we will not inform You where this would compromise our reasonable security  
+measures or is otherwise contrary to any applicable law, rule or regulation.
 
 Where the reasons for our actions then cease to exist, we will then either reinstate Your access to Your account or issue you with new account details as soon as is practicable.
 
@@ -184,11 +208,13 @@ The right to terminate the agreement for just cause remains unaffected.
 
 Deletion of Your Account and withdrawal of budget
 
-For a full deletion of Your account and all data related to it, Your payment account must be empty. All subscription of the Subscription Period in which the termination took place will be contributed according to these Terms. If there is any money in Your payment account which cannot be contributed, You must withdraw it first. Until all money is contributed or withdrawn we will block Your account for use, but are not entitled to delete Your data due to payment regulatory provisions. Following Your withdrawal, if applicable subject to prior KYC, of the money, the credit balance of the account will be transferred without undue delay, to the User’s bank account after deduction of any fees due and payable to Flattr. After having transferred the respective amount to the bank account of the User, we as well as the Payment Provider have no more obligations towards You.
+For a full deletion of Your account and all data related to it, Your payment account must be empty. All subscription of the Subscription Period in which the termination took place will be contributed according to these Terms. If there is any money in Your payment account which cannot be contributed, You must withdraw it first. Until all money is contributed or withdrawn we will block Your account for use, but are not entitled to delete Your data due to payment regulatory provisions.  
+Following Your withdrawal, if applicable subject to prior KYC, of the money, the credit balance of the account will be transferred without undue delay, to the User’s bank account after deduction of any fees due and payable to Flattr. After having transferred the respective amount to the bank account of the User, we as well as the Payment Provider have no more obligations towards You.
 
 8\. Use and Terms of Payment Provider
 
-For contributions we use the external third party platform MangoPay, SA, seated in Luxembourg (“**Payment Provider**”). All transactions in connection with the contributions are carried out by, and are the sole responsibility of, the Payment Provider. Therefore, You must enter into a **Framework Agreement for Payment Services (“Payment Provider Agreement**”) with the Payment Provider. By opting into the Payment Provider Agreement and / or clicking the signup button, You agree to the terms and conditions of the Payment Provider Agreement.
+For contributions we use the external third party platform MangoPay, SA, seated in Luxembourg (“**Payment Provider**”). All transactions in connection with the contributions are carried out by, and are the sole responsibility of, the Payment Provider.  
+Therefore, You must enter into a **Framework Agreement for Payment Services (“Payment Provider Agreement**”) with the Payment Provider. By opting into the Payment Provider Agreement and / or clicking the signup button, You agree to the terms and conditions of the Payment Provider Agreement.
 
 9\. Indemnification
 
@@ -198,7 +224,8 @@ You will indemnify us from all claims, including damages claims, asserted agains
 *   any violation of the Terms or applicable law by the User;
 *   the infringement by the User of any intellectual property rights or other rights of any person or entity.
 
-You will bear all appropriate costs, including appropriate costs incurred for legal defence that we have to pay as a result of your violation of the rights of third parties. All of our further rights and damage claims will remain unaffected. You are entitled to provide evidence that we have incurred lower costs than stated. The above-mentioned obligations will only apply if You are responsible for the violation of rights in question. in other words, if you have knowingly or deliberately omitted exercising due diligence.
+You will bear all appropriate costs, including appropriate costs incurred for legal defence that we have to pay as a result of your violation of the rights of third parties. All of our further rights and damage claims will remain unaffected. You are entitled to provide evidence that we have incurred lower costs than stated.  
+The above-mentioned obligations will only apply if You are responsible for the violation of rights in question. in other words, if you have knowingly or deliberately omitted exercising due diligence.
 
 10\. Warranty in connection with defects
 
@@ -221,11 +248,15 @@ Our liability for use of the free services is restricted to intention and gross 
 We will be liable as follows for use of all Services in connection with the contributions:
 
 (i) Claims for compensation on the part of the User are excluded from these Terms. Exceptions to this exclusion of liability are claims for compensation on the part of the Company for loss of life, bodily injuries, damage to health, the violation of essential contractual obligations (cardinal obligations) or damages resulting from a deliberate or grossly negligent breach of duty on the part of Flattr, its legal representatives or agents. Cardinal obligations within the meaning of these Terms are the obligations that ensure the proper execution of the agreement and the fulfilment of its purpose and the observance of which the users can therefore regularly rely upon.  
-(ii) In case of a breach of fundamental contractual obligations, we are only liable for contract-typical, foreseeable damage caused by simple negligence, except claims made by Users for compensation resulting from loss of life, bodily injury or damage to health. (iii) The regulations outlined in this Section 11 (2) and (3) also apply to legal representatives and agents of Flattr if the claims are made directly against them.
+(ii) In case of a breach of fundamental contractual obligations, we are only liable for contract-typical, foreseeable damage caused by simple negligence, except claims made by Users for compensation resulting from loss of life, bodily injury or damage to health.  
+(iii) The regulations outlined in this Section 11 (2) and (3) also apply to legal representatives and agents of Flattr if the claims are made directly against them.
 
 12\. Miscellaneous 12.1 Governing law and dispute resolution
 
-These Terms shall be governed by Swedish law to the exclusion of the UN Convention on Contracts for the International Sale of Goods. If you have no place of jurisdiction in Sweden or in any other EU member state, if you have transferred your permanent domicile abroad after these Terms take effect or if your domicile or usual place of residence is unknown at the time legal action is taken, the sole place of jurisdiction for all disputes arising from this agreement will be the location of our registered offices. The Swedish courts will have exclusive jurisdiction to settle any dispute or claim that arises out of or in connection with the terms or their subject matter or formation (including non-contractual disputes or claims). In any action or proceeding to enforce rights under the terms, the prevailing party will be entitled to recover the costs of the proceedings including, but not limited to, any reasonable legal fees and costs.
+These Terms shall be governed by Swedish law to the exclusion of the UN Convention on Contracts for the International Sale of Goods.  
+If you have no place of jurisdiction in Sweden or in any other EU member state, if you have transferred your permanent domicile abroad after these Terms take effect or if your domicile or usual place of residence is unknown at the time legal action is taken, the sole place of jurisdiction for all disputes arising from this agreement will be the location of our registered offices.  
+The Swedish courts will have exclusive jurisdiction to settle any dispute or claim that arises out of or in connection with the terms or their subject matter or formation (including non-contractual disputes or claims).  
+In any action or proceeding to enforce rights under the terms, the prevailing party will be entitled to recover the costs of the proceedings including, but not limited to, any reasonable legal fees and costs.
 
 12.2. Governing language
 
