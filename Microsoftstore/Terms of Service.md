@@ -1,7 +1,7 @@
 **MICROSOFT TERMS OF SALE  
 United States and Canada Consumer Store**
 
-Updated June 2019
+Updated September 2019
 
 **IF YOU LIVE IN (OR YOUR PRINCIPAL PLACE OF BUSINESS IS IN) THE UNITED STATES, PLEASE READ THE BINDING ARBITRATION CLAUSE AND CLASS ACTION WAIVER IN SECTION 28. IT AFFECTS HOW DISPUTES ARE RESOLVED.**
 
@@ -75,14 +75,14 @@ Depending on your location, some transactions might require foreign currency con
 
 16\. **Return Policy**. We will accept returns and exchanges for eligible products for 30 days from the date of purchase or download, as applicable. Simply return the eligible product in like new condition and in its original packaging, along with all parts, components, instruction manuals and documentation that were initially included. This Return Policy does not affect any statutory rights that may apply to your purchase.
 
-Packaged software and games must be returned with their seal intact and must include all media and product keys. As a limited exception, software and game packages that have been opened may be returned during the return period if you are unsatisfied with the license agreement or warranty, but only if you do not make or retain any copies.
+Packaged software and packaged games must be returned with their seal intact and must include all media and product keys. As a limited exception, software and game packages that have been opened may be returned during the return period if you are unsatisfied with the license agreement or warranty, but only if you do not make or retain any copies.
 
-Even if you return your products, packaged software or games, these Terms of Sale will still apply to the time between your purchase or download and return.
+Even if you return your products, packaged software or packaged games, these Terms of Sale will still apply to the time between your purchase or download, as applicable, and return.
 
-Some items are not eligible for return. unless otherwise provided by law or by a particular product offer, all purchases of these types of products are final and non-refundable:
+Some items are not eligible for return or refund. unless otherwise provided by law or by a particular product offer, all purchases of these types of products are final and non-refundable:
 
-*   digital apps, games, in-app content and subscriptions, music, movies, TV shows, and associated content;
-*   gift cards and service/subscription cards (e.g., Skype, Xbox Live, Groove Music Pass);
+*   Except for “Digital Game Products” as defined below, digital apps, games, in-app content and subscriptions, music, movies, TV shows, and associated content;
+*   gift cards and service/subscription cards (e.g., Skype, Xbox Live);
 *   products that have been personalized or customized;
 *   special order products, if not part of a Store promotional offering;
 *   random access memory ("RAM") products;
@@ -92,6 +92,8 @@ Some items are not eligible for return. unless otherwise provided by law or by a
 When you make a qualifying return, we will credit the full amount, less the original shipping and handling charges (if any) except we won’t deduct those charges for returns because you are unsatisfied with the license agreement or warranty, and you will typically receive your refund in approximately 3-5 business days. Any refunds will be applied to the same account, and using the same method of payment, used to place the order (unless you choose a Store credit in the amount of the refund).
 
 For complete details on how to return eligible products, see our Returns and Refunds page https://go.microsoft.com/fwlink/p/?linkid=723276&clcid=0x1009.
+
+For complete details on refunds for digital game offers, Xbox apps (excluding movies and tv apps), digital gaming bundle offers, and digital durable and consumable gaming offers, such as games season passes, virtual currency, and microtransactions, whether made available through the Xbox console device or on your PC (collectively “Digital Game Products”), see our Digital Game Purchase Refund Terms page https://support.xbox.com/billing/payment-and-purchases/digital-game-purchase-refund-terms.
 
 17\. **Payments to You.** If we owe you a payment, then you agree to timely and accurately provide us with any information we need to get that payment to you. You are responsible for any taxes and charges you may incur as a result of this payment to you. To the extent permitted by applicable law, you must also comply with any other conditions we place on your right to any payment. If you receive a payment in error, we may reverse or require return of the payment. You agree to cooperate with us in our efforts to do this. We may also reduce a payment to you without notice to adjust for any previous overpayment.
 
@@ -142,7 +144,7 @@ b. **Mail a Notice of Dispute First.** If you have a dispute and our customer se
 
 c. **Small Claims Court Option.** Instead of mailing a Notice of Dispute, you may sue us in small claims court in your county of residence (or, if a business, your principal place of business) or King County, Washington, if you meet the court’s requirements.
 
-d. **Arbitration Procedure.** The AAA will conduct any arbitration under its Commercial Arbitration Rules (or if you are an individual and use the Store or Services for personal or household use, or if the value of the dispute is $75,000 or less whether or not you are an individual or how you use the Store or Services, its Consumer Arbitration Rules). For more information, see www.adr.org or call 1-800-778-7879. To start an arbitration, submit the form available at https://go.microsoft.com/fwlink/?linkid=245499 to the AAA and mail a copy to us. In a dispute involving $25,000 or less, any hearing will be telephonic unless the arbitrator finds good cause to hold an in-person hearing instead. Any in-person hearing will take place in your county of residence (or, if a business, your principal place of business) or King County, Washington. You choose. The arbitrator may award the same damages to you individually as a court could. The arbitrator may award declaratory or injunctive relief only to you individually to satisfy your individual claim. Under Commercial Rule 7 or Consumer Rule 14, the arbitrator rules on his or her own jurisdiction, including the arbitrability of any claim. But a court has exclusive authority to enforce the prohibition on arbitration on a class-wide basis or in a representative capacity.
+d. **Arbitration Procedure.** The AAA will conduct any arbitration under its Commercial Arbitration Rules (or if you are an individual and use the Store or Services for personal or household use, or if the value of the dispute is $75,000 or less whether or not you are an individual or how you use the Store or Services, its Consumer Arbitration Rules). For more information, see www.adr.org or call 1-800-778-7879. To start an arbitration, submit the form available at https://go.microsoft.com/fwlink/?linkid=245497 to the AAA and mail a copy to us. In a dispute involving $25,000 or less, any hearing will be telephonic unless the arbitrator finds good cause to hold an in-person hearing instead. Any in-person hearing will take place in your county of residence (or, if a business, your principal place of business) or King County, Washington. You choose. The arbitrator may award the same damages to you individually as a court could. The arbitrator may award declaratory or injunctive relief only to you individually to satisfy your individual claim. Under Commercial Rule 7 or Consumer Rule 14, the arbitrator rules on his or her own jurisdiction, including the arbitrability of any claim. But a court has exclusive authority to enforce the prohibition on arbitration on a class-wide basis or in a representative capacity.
 
 e. **A** **rbitration Fees and Payments.**
 
