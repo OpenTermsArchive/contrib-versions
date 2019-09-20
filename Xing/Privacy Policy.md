@@ -2,7 +2,7 @@ General information
 
 *   Last updated: 21 June 2019
 *   This Privacy Policy shall apply to the entire service XING and its applications (kununu etc.).
-*   XING SE is the body responsible for the processing of personal data.
+*   New Work SE is the body responsible for the processing of personal data.
 *   Our Data Protection Officer is Anja Engler.
 
 Scope of this Privacy Policy
@@ -19,7 +19,7 @@ This Privacy Policy shall apply to the entire service XING (including all applic
 
 Responsible body
 
-We, XING SE, assume the role of controller as per the EU General Data Protection Regulation (GDPR). In other words, we are the legal entity that shall determine the purposes and means of the processing of personal data . Our contact details are as follows: Dammtorstrasse 30, 20354 Hamburg, Germany, Tel.: +49 40 419 131-0, Fax: +49 40 419 131-11, E-mail: info@xing.com.
+We, New Work SE, assume the role of controller as per the EU General Data Protection Regulation (GDPR). In other words, we are the legal entity that shall determine the purposes and means of the processing of personal data . Our contact details are as follows: Dammtorstrasse 30, 20354 Hamburg, Germany, Tel.: +49 40 419 131-0, Fax: +49 40 419 131-11, E-mail: info@xing.com.
 
 Data Protection Officer
 
@@ -454,9 +454,9 @@ Performance Media
 
 More information is available here
 
-Crossmedia
+Adform
 
-More information is available here
+More information in German is available here
 
 Adjust
 
@@ -468,7 +468,7 @@ More information is available here
 
 Outbrain
 
-More information about: Privacy
+More information is available here
 
 You can only opt out of the following tracking technologies directly on your end device: Advertising Identifier/ Advertising ID
 
