@@ -8,7 +8,7 @@ We’ve decided to make these Terms available under a Creative Commons Sharealik
 
 Terms of Service
 
-These Terms govern your access to and use of WordPress.com, Jetpack.com, VaultPress.com, and Happy.Tools, as well as all content and Automattic products and services (for example, ecommerce services as outlined below in Section 7e) available at or though these websites (collectively, “Services”).
+These Terms govern your access to and use of WordPress.com, Jetpack.com, VaultPress.com, and Happy.Tools, as well as all content and Automattic products and services (for example, ecommerce services as outlined below in Section 7e) available at or through these websites (collectively, “Services”).
 
 These Terms also govern visitors’ access to and use of any websites that use our Services, such as websites hosted on WordPress.com that are operated by our users.
 
