@@ -1,6 +1,7 @@
 LogMeIn Privacy Policy
 
-Last Updated on January 1, 2018
+Last Updated on January 1, 2018  
+Reviewed on November 30, 2018
 
 **Introduction**
 
