@@ -10,13 +10,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Archive does not have all blogs
     *   by nevaeh84
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   how to get back my old posts?
     *   by MYFEEL\_LING
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -64,7 +64,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   How to access old blog?
     *   by Boicrazy000
-    *   1 month ago
+    *   2 months ago
     *   in Usernames
     *   0 votes
     *   0
