@@ -85,3 +85,49 @@ Analytics for Confluence Data Center-specific terms
 _Effective starting: August 1, 2019_
 
 Your use of Analytics for Confluence Data Center is subject to the terms of the Atlassian Software License Agreement. All references to “Privacy Policy” therein mean the Good Software Privacy Policy available at https://www.goodsoftware.co/privacy.
+
+Jira Align-specific terms
+
+_Effective starting: November 1, 2019_
+
+Your use of Jira Align is subject to the terms of the Atlassian Cloud Terms of Service (the “**Agreement**”) as well as the following additional terms. Any capitalized terms used but not defined below have the meanings in the Agreement. “Jira Align” means the cloud product currently branded as “**Jira Align**” and made available by AgileCraft, LLC.  
+  
+1\. **Jira Align**. Jira Align is designed to provide visibility, alignment, and productivity for an organization’s use of scaled agile.  
+  
+2\. **Support**. Without limiting Section 3.2 of the Agreement, to the extent the Enterprise Support and Services Policy applies to Support you purchased for Jira Align, any reference to the “Datasheet” shall mean the Jira Align Enterprise Success Package Datasheet, and such Support shall only apply to Jira Align and cannot be used for any other Atlassian products.  
+  
+3. **Third Party Products.** Jira Align may contain functionality or features that are designed to interoperate with, or are contingent on access to or use of, third-party team tools and other third-party products or services (such functionality and features, “**Contingent Features**” and such third-party team tools and other third-party products and services, “**Third-Party Services**”). Your use of any Contingent Features and Third-Party Services are subject to Section 6.1 (Third-Party Products) of the Agreement. In addition, you are responsible for ensuring that you have all necessary rights to use the Third-Party Services in connection with Jira Align and to allow us to access the data, content and other materials on such Third-Party Services to enable Jira Align.  
+  
+4\. **Refund Policy.** Notwithstanding anything to the contrary in Section 10 of the Agreement and for purposes of Jira Align only, the termination and refund right in Section 10 of the Agreement shall apply to any unused prepaid Additional Services purchased as part of your initial Order of Jira Align, provided you exercise your termination right within the period specified in Section 10 of the Agreement.  
+  
+5\. **Service Level Agreement**.
+
+(a) We shall use commercially reasonable efforts to make Jira Align available at least 99.5% of the time during each calendar month during the current Subscription Term, excluding Excusable Downtime (“**Uptime Commitment**”). Jira Align is considered available if it can be accessed by one or more users, excluding any Excusable Downtime. “**Excusable Downtime**” means time that Jira Align is not available to you because of (a) your use of Jira Align in a manner not authorized in the Agreement or not in accordance with the applicable Documentation. (b) force majeure events or other factors outside of our reasonable control, including, without limitation, Internet access or related problems. (c) your equipment, software, network connections or other infrastructure. (d) Your Data or Your Materials. (e) Third-Party Services, Contingent Features, third-party equipment, apps, add-ons, software or technology (other than our agents and subcontractors). or (f) routine scheduled maintenance or reasonable emergency maintenance as set forth in the Atlassian Maintenance Policy. No Uptime Commitment or service credits are provided for (x) free, proof-of-concept, beta or trial services, or (y) features excluded from the Uptime Commitment (in the applicable Documentation).
+
+(b) If you believe that the Uptime Commitment has not been achieved in any calendar month, you must submit a ticket at https://support.atlassian.com with all fields fully and accurately completed within thirty (30) days of the end of such month, and provide any other reasonably requested information or documentation. If we confirm there is a failure to meet the Uptime Commitment, we will issue you a credit based on the below percentages of the applicable subscription fees paid for the current Subscription Term for Jira Align, pro-rated for such month.
+
+Monthly Availability Percentage Credit
+
+Less than 99.5% but at least 98.0%
+
+5% of the equivalent of one month's subscription fees
+
+Less than 98.0% but at least 95.0%
+
+10% of the equivalent of one month's subscription fees
+
+Less than 95.0%
+
+15% of the equivalent of one month's subscription fees
+
+(c) We will apply each credit against a future payment otherwise due from you for Jira Align, provided that your account is fully paid up, without any outstanding payment issues or disputes. No refunds or cash value will be given for unused credits. Credits may not be transferred or applied to any other Atlassian account or product instance. The aggregate maximum credits applied to an invoice will not exceed 100% of the amount invoiced for Jira Align in that invoice billing period (as opposed to the actual month in which Jira Align was unavailable). We reserve the right to deny a credit if you do not qualify for one.
+
+(d) If you ordered Jira Align through a Reseller, (x) you or the Reseller remain responsible for submitting a ticket as set forth in Section 5(b) above. and (y) any credits will be based on the fees invoiced to the Reseller for your use of Jira Align under its applicable order(s) with us, we will issue any associated credits to the Reseller (not directly to you), and the Reseller will be solely responsible for issuing the appropriate amounts to you. Section 5(c) applies to the Reseller and its applicable orders and invoices with us.
+
+(e) If, in any period of three (3) consecutive months, the availability percentage (excluding Excusable Downtime) for Jira Align during such period is less than 95%, you may terminate the affected Order(s) upon written notice and receive a pro rata refund of the applicable subscription fees actually pre-paid for the remainder of the then-current Subscription Term under such Order. The credit and the foregoing termination right are your sole and exclusive remedies and our sole liability for any breach of the Uptime Commitment.  
+  
+**6\. Jira Align - Specific Policies and Documentation**
+
+For purposes of these Jira Align-specific terms:
+
+· All references to “Documentation” means the user documentation provided by us to you through Jira Align.
