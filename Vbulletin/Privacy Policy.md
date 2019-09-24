@@ -272,7 +272,11 @@ El Segundo, California 90245 U.S.A.
     
     FOR RESIDENTS OF CALIFORNIA UNDER THE AGE OF 18. In accordance with Section 22581 of the California Business and Professions Code, you may request and obtain the removal of content or information you have publicly posted. To make such a request, please fill out our Privacy Contact Form with “California Privacy Rights” in the subject line. Please specify the site(s) or service(s) to which your removal request relates, including any URLs where the content or information is posted, and the specific content or information you posted for which you are requesting removal. Please be aware that such a request does not ensure complete or comprehensive removal of the content or information you have posted and that there may be circumstances in which the law does not require or allow removal even if requested.
     
-22.  EU Privacy Rights
+22.   Nevada Privacy Rights
+    
+    FOR RESIDENTS OF NEVADA ONLY. In accordance with SB 220, Nevada consumers may opt-out of the sale of their personal information to third parties. If you reside in Nevada and you have provided us with your personal information, you may choose to opt-out of the sale of such personal information by filling out our Privacy Contact Form or by emailing us at privacy@internetbrands.com with “Nevada Privacy Right” in the subject line. We may request for additional information from you in order to verify your identity and/or the authenticity of your request.
+    
+23.  EU Privacy Rights
     
     FOR RESIDENTS OF THE EUROPEAN UNION ONLY. Under European data protection law, in certain circumstances, you have the right to:
     
@@ -288,13 +292,13 @@ El Segundo, California 90245 U.S.A.
     
     You can exercise any of these rights by filling out our Privacy Contact Form or sending an email to privacy@internetbrands.com with “EU Privacy Rights” in the subject line. If you believe that we have not complied with its obligations under this Privacy Policy or European law, you have the right to make a complaint to an EU Data Protection Authority.
     
-23.   Contacting Us
+24.   Contacting Us
     
     If you have any questions or concerns about this privacy policy or our practices you can contact us or write to us at MH Sub I, LLC, Privacy Office, 909 N. Pacific Coast Highway, 11th Floor, El Segundo, California 90245 U.S.A. Please be sure to identify the specific website, software, or service about which you have a question or concern and how we can contact you.
     
-24.   Changes to This Privacy Policy
+25.   Changes to This Privacy Policy
     
     We may revise this privacy policy from time to time and, if we do, we will update it on this page and modify the "Last Updated" date. If our information practices change in a significant way, you will be provided notice by means of notice on our sites or otherwise in writing. Because our privacy policy can change at any time, we encourage you to reread it periodically to see if there have been any changes that affect you. If you disagree with any changes to this privacy policy and do not wish your information to be subject to the revised privacy policy, you will need to deactivate your account or terminate your services. Your use of our sites and services following any such change constitutes your agreement that all information collected from or about you through our sites and services after the revised privacy policy is posted will be subject to the terms of the revised privacy policy.
     
 
-Last Updated: August 6, 2018
+Last Updated: September 20, 2019
