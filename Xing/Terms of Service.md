@@ -44,8 +44,6 @@ General Terms and Conditions for the use of XING Jobs – Offline customers
 
 General Terms and Conditions for the use of XING Enterprise Groups
 
-General Terms and Conditions for the use of the AdCreator
-
 General Terms and Conditions for the use of ads on XING
 
 General Terms and Conditions for the use of News Pages on XING
