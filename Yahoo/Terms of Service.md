@@ -91,7 +91,7 @@ _In June 2017, we announced that Yahoo and AOL had joined to become Oath, a digi
     4.  _Waiver and Severability of Terms_. The failure of Oath to exercise or enforce any right or provision of these Terms will not constitute a waiver of such right or provision. If any provision (or part of a provision) of these Terms is found to be invalid, Oath and you nevertheless agree to give effect to the intentions as reflected in the provision, and the other provisions of these Terms remain in full force and effect.
     5.  _Assignment by Oath_. Oath may freely assign these Terms and all of the policies and other documents incorporated or referenced in it (including all rights, licenses, and obligations under it or them), in whole or in part and without notice, for any reason, including for the purpose of internal restructuring (for example, mergers or liquidations).
 13.  **Provider of Services**
-    1.  The Services are provided by the company that offers the Services in your region as set out in Section 14.2 (the “Applicable Oath Company”), except for the Services set out below in Section 13(b). Not all Services or features may be available in your country or region. Different features may be available in different versions of the Services.
+    1.  The Services are provided by the company that offers the Services in your region as set out in Section 14.2 (the “Applicable Oath Company”), except for the Services set out below in Section 13(b). Not all Services or features may be available in your country or region. Different features may be available in different versions of the Services. Your Service provider may change if you relocate to another country and continue using our Services.
     2.  The following services are provided to you by the same Oath company wherever you are based in the world:
         1.  For the services in this Section 13(b)(i), the provisions of Section 14.2 (United States) apply.
             1.  The following services are provided by Oath Inc.:
@@ -183,15 +183,14 @@ Europe, Middle East and Africa
     12.  You agree to not use the Services to provide material support or resources (or to conceal or disguise the nature, location, source, or ownership of material support or resources) to any organization(s) designated by the United States government as a foreign terrorist organization pursuant to section 219 of the Immigration and Nationality Act.
 3.  **Brazil (br):**
     1.  _Defined Terms_
-        1.  Applicable Oath Company: Oath do Brasil Internet Ltda. (Address: Av. Brigadeiro Faria Lima, 3.600 - 9o andar, São Paulo/SP, 04538-132, Brasil)
+        1.  Applicable Verizon Media Company: Verizon Media do Brasil Internet Ltda. (Address: Av. Brigadeiro Faria Lima, 3.600 - 9º andar, São Paulo/SP, 04538-132, Brasil)
         2.  Minimum Age: 13 years old (however, if you are between 13 and 18 years old, you must have parental or legal guardian permission in order to agree with our Terms and to use the Service).
-    2.  _Services Provided_: Yahoo Answers, Yahoo Groups, Yahoo Mail, Yahoo Search, Yahoo News, Yahoo Finance, Yahoo Sports, Yahoo LifeStyle and Yahoo Together.
-        1.  The Services above are only provided by Oath do Brasil Internet Ltda. (i) if the Terms were served to you in Portuguese when signing up for the Service. and (ii) when not necessary to sign up for the Service, the Terms are made available to you in Portuguese when using the Service.
-        2.  The Services are not provided by Oath do Brasil Internet Ltda. (i) if the Terms were not served to you in Portuguese when signing up for the Service, (ii) when not necessary to sign up for the Service, the Terms are not made available to you in Portuguese when using the Service or (iii) if the Service is not mentioned in Section 14.4.b above. In these cases, Oath do Brasil Internet Ltda. is not responsible for the Service and has no powers or capabilities to take any measures in relation to the Service, including accessing or disclosing user data and/or removing user generated content.
-    3.  _Choice of Law_. The Terms and the relationship between you and Oath, in regards to Services Provided in Brazil, will be governed by the laws of Federative Republic of Brazil without regard to its conflict of law provisions.
-    4.  _Customer Support_. For customer support, see this page.
-    5.  Protecting our systems and our users' information is paramount to ensuring Oath users enjoy a secure user experience and maintaining our users' trust. To learn more about security, including the steps we have taken and steps you can take, please read Security at Oath.
-    6.  YOU UNDERSTAND AND AGREE THAT YOUR USE AND THE PROVISION OF THE SERVICES INVOLVE THE COLLECTION, STORAGE, PROCESSING, USE AND DISCLOSURE OF INFORMATION AND USER DATA, INCLUDING THE TRANSFER OF THOSE INFORMATION AND DATA TO OTHER COMPANIES AND TERRITORIES, AS STATED IN THE PRIVACY POLICY.
+    2.  _Services Provided_: Yahoo Answers, Yahoo Groups, Yahoo Mail, Yahoo Search, Yahoo News, Yahoo Finance, Yahoo Sports and Yahoo LifeStyle. If you use any of these services while you are within Brazil, or are otherwise contracting with Verizon Media do Brasil Internet Ltda., the services are provided by Verizon Media do Brasil Internet Ltda. The region specific provisions in Section 14.4 shall apply to such use and supersede anything to the contrary in Section 1 or Section 13(a) of these Terms.
+    3.  _Other Services:_ Services not listed in Section 14.4(b) are not provided by Verizon Media do Brasil Internet Ltda., which has no powers or capabilities to take any measures related to them, including accessing or disclosing user data and/or removing user generated content.
+    4.  _Choice of Law_. The Terms and the relationship between you and Verizon Media do Brasil Internet Ltda. will be governed by the laws of Federative Republic of Brazil without regard to its conflict of law provisions.
+    5.  _Customer Support_. For customer support, see this page.
+    6.  Protecting our systems and our users' information is paramount to ensuring Verizon Media users enjoy a secure user experience and maintaining our users' trust. To learn more about security, including the steps we have taken and steps you can take, please read our online article by clicking here.
+    7.  YOU UNDERSTAND AND AGREE THAT YOUR USE AND THE PROVISION OF THE SERVICES INVOLVE THE COLLECTION, STORAGE, PROCESSING, USE AND DISCLOSURE OF INFORMATION AND USER DATA, INCLUDING THE TRANSFER OF INFORMATION AND DATA TO OTHER COMPANIES AND TERRITORIES, AS STATED IN THE PRIVACY POLICY.
 4.  **Canada (ca and cf):**
     1.  _Defined Terms_
         1.  Applicable Oath Company: Oath (Canada) Corp. (Address: 99 Spadina Avenue, Suite 200, Toronto, Ontario M5V 3P8).
@@ -316,4 +315,4 @@ Europe, Middle East and Africa
     13.  Additional terms for Italian users can be found here.
     14.  Additional terms for German users can be found here.
 
-_Last updated: May 2019_
+_Last updated: September 2019_
