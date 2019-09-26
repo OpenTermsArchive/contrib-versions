@@ -131,6 +131,6 @@ You may opt out of receiving promotional communications from Couchsurfing by fol
 
 Contact Us
 
-If you have any questions about this Privacy Policy, please contact us here or via mail at PO Box 7775 ECM 86600, San Francisco, CA 94120, United States or email at privacy@couchsurfing.com.
+If you have any questions about this Privacy Policy, please contact us here or via mail at Couchsurfing International, Inc. Attention: Legal Department, PO Box 7775 ECM 86600, San Francisco, CA 94120, United States or email at privacy@couchsurfing.com.
 
 In addition, EU members can direct privacy-related inquiries or complaints to privacy@couchsurfing.com. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request. If your complaint is not resolved, you may have the option of engaging in binding arbitration through the Privacy Shield Panel. You can reach our Data Protection Officer at dpo@couchsurfing.com. You have a right to lodge a complaint with a supervisory authority, in particular in the Member State of your habitual residence, place of work or place of the alleged infringement, if you believe that the processing of your personal data infringes on the Global Data Protection Regulation. Couchsurfing is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
