@@ -97,7 +97,7 @@ If you have any questions relating to the content of this Policy please contact 
     
 12.  CONTACTING ZOOSK
     
-    If you have questions about this Policy, please contact us at privacy@zoosk.com or by writing to us at: Zoosk, Inc., Attn: Privacy Matters, 555 Mission Street, 3rd Floor, San Francisco, CA 94105.
+    If you have questions about this Policy, please contact us at privacy@zoosk.com or by writing to us at: Zoosk Customer Care – Spark Networks Services, Attn: Privacy Matters, 3300 N. Ashton Blvd, Suite 240, Lehi, UT 84043.
     
 13.  LAST REVISION DATE AND EFFECTIVE DATE
     
