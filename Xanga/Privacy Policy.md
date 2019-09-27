@@ -34,7 +34,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Is Xanga DEAD?! Or is something still in the works?
     *   by IamKevio
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -58,7 +58,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Looking for old posts
     *   by bleach\_me\_clean
-    *   1 month ago
+    *   2 months ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -94,7 +94,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Old Lost Xanga
     *   by Secrets\_forthe\_Man\_inthe\_Moon
-    *   2 months ago
+    *   3 months ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
