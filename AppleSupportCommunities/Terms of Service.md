@@ -1,13 +1,3 @@
-Announcement: Announcing the newest addition to Apple Support Communities, Apple Arcade!
-
-If you have a question or knowledge to share with the community, we want to hear from you.
-
-Read announcement Hide announcement
-
-Announcing the newest addition to Apple Support Communities, Apple Arcade!
-
-If you have a question or knowledge to share with the community, we want to hear from you.
-
 Apple Support Communities Use Agreement
 
 **Apple Support Communities Use Agreement**
