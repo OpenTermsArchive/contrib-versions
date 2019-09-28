@@ -252,14 +252,6 @@ Updated April, 2019
 
 © 2009, 2011-2019 Verizon. All Rights Reserved.
 
-\--------------
-
-I also made edits to the international privacy centre to make the language consistent across the board. My edits are in the attached. 
-
-I promise this is it from me (at least for now ;-))
-
-  Attachments area      
-
 Contact us
 
 If you have questions, concerns or suggestions related to our Privacy Policy or our privacy practices, e-mail us or contact us at:
