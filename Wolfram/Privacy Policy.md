@@ -87,8 +87,8 @@ Questions, Concerns and More Information
 
 For information on policies related to the use of our Services, see our Legal portal.
 
-If you have any questions or concerns about this Privacy Policy, you may contact us online or by US mail at Wolfram, Attn: Legal Department, 100 Trade Center Drive, Champaign, IL 61820-7237 USA.
+If you have any questions or concerns about this Privacy Policy, you may contact us online, by email at myprivacy@wolfram.com or by US mail at Wolfram, Attn: Legal Department, 100 Trade Center Drive, Champaign, IL 61820-7237 USA.
 
 By using our Services, you are telling us either that you are 18 years or older and legally able to form contracts, or that an adult with authority to act on your behalf has agreed to these terms and to be responsible for ensuring your compliance with them in your use of the Services and any results you obtain from them. If you don't want to be bound by these terms, do not use the Services or their results.
 
-Revised September 16, 2019
+Revised September 27, 2019
