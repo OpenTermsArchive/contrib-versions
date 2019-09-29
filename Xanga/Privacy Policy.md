@@ -8,6 +8,18 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Retrieve arhieves
+    *   by jayu1121
+    *   12 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   1 (last comment by perchedonstilts 17 minutes ago)
+*   How do I download an archive of my old blog?
+    *   \[Resolved\] by thibault
+    *   4 years ago
+    *   in Data Migration
+    *   0 votes
+    *   45 (last comment by perchedonstilts 19 minutes ago)
 *   Archive does not have all blogs
     *   by nevaeh84
     *   3 weeks ago
@@ -83,18 +95,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 *   Recover Old Xanga
     *   by JRA3141
     *   2 months ago
-    *   in Passwords &. Sign-In
-    *   0 votes
-    *   0
-*   Another blog missing all old posts
-    *   by top\_5\_guy
-    *   2 months ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Old Lost Xanga
-    *   by Secrets\_forthe\_Man\_inthe\_Moon
-    *   3 months ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
