@@ -419,6 +419,7 @@ Privacy statement update: 9/19/17
 *   *   Plan disclosures
 *   *   Program provisions
 *   *   State directory
+*   *   GRIEVANCE FORMS
 
 *   *   News and analysis
 *   *   Health care reform
@@ -427,9 +428,9 @@ Privacy statement update: 9/19/17
 
 *   *   Terms of use
 *   *   Legal notices
+*   *   Privacy center
 *   *   Interest-based ads policy
 *   *   Nondiscrimination notice
-*   *   Privacy center
 
 Copyright © 2019 Aetna Inc.
 
