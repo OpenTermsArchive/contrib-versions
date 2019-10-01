@@ -10,16 +10,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Retrieve arhieves
     *   by jayu1121
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by perchedonstilts 1 day ago)
+    *   1 (last comment by perchedonstilts 2 days ago)
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   4 years ago
     *   in Data Migration
     *   0 votes
-    *   45 (last comment by perchedonstilts 1 day ago)
+    *   45 (last comment by perchedonstilts 2 days ago)
 *   Archive does not have all blogs
     *   by nevaeh84
     *   3 weeks ago
@@ -58,13 +58,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   i cannot upgrade to xanga 2.0
     *   by Secretjay
-    *   1 month ago
+    *   2 months ago
     *   in Data Migration
     *   0 votes
     *   0
 *   looking for old post
     *   by Secretjay
-    *   1 month ago
+    *   2 months ago
     *   in Data Migration
     *   0 votes
     *   0
