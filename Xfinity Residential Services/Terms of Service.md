@@ -128,7 +128,8 @@ Customer Agreements and Policies **COMCAST AGREEMENT FOR RESIDENTIAL   SERVICE
             
             *   **For Montgomery County, Maryland Residents.** If you are mobility impaired, upon your request, we will arrange for the pickup or exchange of our modem at the Premises.
                 
-        4.  Unreturned Equipment Fee. "Unreturned Equipment Fee" refers to a fee charged by Comcast to a subscriber for any unreturned Xfinity Equipment upon termination of the services provided under this Agreement. The payment of an Unreturned Equipment Fee shall not result in a sale of, or the transfer of title to , any Xfinity Equipment, and such equipment shall remain the property of Comcast, and Comcast retains title to Xfinity Equipment at all times. Comcast in no way relinquishes ownership of (including title to) Xfinity Equipment by the payment of an Unreturned Equipment Fee. Even if an Unreturned Equipment Fee has been paid, Xfinity Equipment shall not be resold, used or operated in any manner. If you pay an Unreturned Equipment Fee and subsequently return the equipment, you will be refunded your Unreturned Equipment Fee in full.
+            
+            4\. **Unreturned Equipment Fee.** "Unreturned Equipment Fee" refers to a fee charged by Comcast to a subscriber for any unreturned Xfinity Equipment upon termination of the services provided under this Agreement. The payment of an Unreturned Equipment Fee shall not result in a sale of, or the transfer of title to , any Xfinity Equipment, and such equipment shall remain the property of Comcast, and Comcast retains title to Xfinity Equipment at all times. Comcast in no way relinquishes ownership of (including title to) Xfinity Equipment by the payment of an Unreturned Equipment Fee. Even if an Unreturned Equipment Fee has been paid, Xfinity Equipment shall not be resold, used or operated in any manner. If you pay an Unreturned Equipment Fee and subsequently return the equipment, you will be refunded your Unreturned Equipment Fee in full.
             
 10.  **LIMITED WARRANTY**
     
@@ -249,7 +250,7 @@ Customer Agreements and Policies **COMCAST AGREEMENT FOR RESIDENTIAL   SERVICE
     *   **Vermont Residents:** The Vermont Department of Public Service Customer Hotline (1-800-622-4496) can provide assistance in the resolution of consumer TV complaints.
         
 
-Stnd 0719
+Stnd 1019
 
 View full agreement
 
