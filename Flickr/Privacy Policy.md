@@ -1,106 +1,62 @@
-Welcome to the Oath Privacy Center
+Flickr
 
-_In June 2017, we announced that Yahoo and AOL had joined to become Oath, a digital and mobile media company and part of Verizon.  We’re now bringing Oath and Yahoo under a single privacy policy.  Some things haven’t changed, like the control tools we provide to help you manage your experience with us.  If you have an existing Yahoo or AOL account, you will need to agree to this Privacy Policy.  If you have not yet agreed to this Privacy Policy, the legacy Yahoo Privacy Policy or legacy Oath Privacy Policy (for AOL) still apply to your account.  For Oath products or services that are accessed without signing into an account, this Privacy Policy applies to those products and services starting May 25, 2018.  If you are creating a new account, the terms below apply starting today._ 
+This page describes our privacy practices with respect to Flickr . For additional information on how Verizon Media treats your personal information, please visit our Privacy Policy .
 
-_Last updated: April 2018_
+**Account Information**
 
-Our Privacy Pledge
+*   In your profile privacy settings, you can control who is able to see different parts of your profile, including but not limited to, email address, name, current city and other information you choose to make public.
+*   In your Settings, you may also select to hide photos or your profile from searches on flickr.com, as well as from searches on 3rd party sites that use the Yahoo API, including Yahoo Image Search. We will request that 3rd party sites respect your settings, but these parties are not under our control and updating may take some time. When you use Flickr, you are not anonymous to us.
 
-Our commitment is to put users first.  We strive to be transparent about how we collect and use your information, to keep your information secure and to provide you meaningful choices.  This Privacy Policy is meant to help you understand what information Oath, its affiliates and its house of global brands (“Oath,” “us,” “our” or “we”) collect, why we collect it and what we do with it. This policy applies to Oath brands, websites, apps, advertising services, products, services or technologies (we’ll collectively refer to these as “Services”).  Additional privacy practices for certain Services can be found in Details for Specific Products and Services.
+**Information Collection, Use and Sharing Practices** 
 
-Your Controls
+*   In your Privacy Settings , you can choose to make your photos default to public for anyone to access, you can restrict access to a limited number of other Flickr users, or you can keep those photos private so only you can access them. If you do not change your settings, your photos will be public by default, unless uploaded using mobile or desktop Auto-Uploadr features. On each photo page, you will also find more granular controls to change each photo setting. We may use the information we collect from public photos to match and serve targeted advertising (across devices and both on and off of our services) and provide relevant advertising based on your activity, inferred interests and location data information. Advertisements shown to you may also be related to our analysis of your photos and textual information, such as metadata, including notes, associated with the photo you are seeing, or the search term you entered.
+*   We use information collected from all photos on Flickr for the following general purposes:
+    *   Provide, maintain, and improve, and develop relevant product features, content and services. This includes analyzing the content and other information you store or transmit when you use our services; 
+    *   Fulfill your requests and when authorized by you;
+    *   Improve our services;
+    *   Conducting research and supporting innovation of engaging products and services;
+    *   Provide depersonalized analytics and reporting to internal and external parties, including, partners, third-parties and the public. This may include reports regarding trends regarding the use and content within Flickr;
+    *   Provide location-based services, search results, and other content relevant to you. and
+    *   To better enable our security systems to detect and defend against fraudulent, or abusive, or unlawful activity.
+*   If you turn on auto-upload functionality anywhere on Flickr, all photos and videos on that device will be automatically uploaded to Flickr. These photos and videos will be stored as private on Flickr until you choose to share them. You can turn off Auto-Uploadr at any time in your app settings. Auto-upload photos may be used for the purposes discussed above.
+*   When you give us permission, we may also access your camera or device to provide other features, services or to improve our offerings and products.
 
-We believe you should have tools to control your information. You can find controls to manage or review your account information, marketing preferences, location data, and search history at Privacy Controls.  Some of our Services provide additional controls and privacy practices.  (See, Details for Specific Products and Services)
+**Location Information and EXIF Data**
 
-Information Collection and Use - General
+*   When you upload any photo or video with geographical data (i.e. from a mobile device) or manually geotag your photo or video, the photo or video’s location can be shown on a map.
+*   **EXIF Data**
+    *   Exchangeable Image File Format (“EXIF”) data is a record of the settings and other relevant metadata inserted by a digital camera or device when you take a photo or video such as camera or device type, aperture, shutter speed, focal length, and location , among other information.
+    *   Unless you turn off EXIF data on your camera or device or remove it from the picture before uploading to Flickr, Flickr receives and stores EXIF data for all photos or videos. By default, Flickr will display a link showing EXIF data about photos or video you upload. The link shows on all your individual photo or video pages, and displays the make and model of the camera or device you used to take the shot. You can elect to hide this link from users in "Settings" under the “Privacy &. Permissions” tab.
+    *   Some cameras or devices can store GPS (location) coordinates in a photo's EXIF header. If you like, Flickr can import that data and use it to place your photos on your map automatically .
+*   **Geofences**
+    *   A geofence is a hotspot on a map that has special default geo privacy settings. These are useful for locations such as "home" or "school" that you would like to make more private than your global default. Click here to create your geofences.
+    *   You can also set your geo preferences to decide who can see the location of your photos by default. Further, you can change the geo preferences setting on individual photos by clicking on the map to the right of each photo.
 
-We may collect and combine information when you interact with Oath Services including:
+**Image Recognition**
 
-*   **Information You Provide to Us.** We may collect the information that you provide to us, such as:
-    *   When you create an account with an Oath Service or brand. (Please note, when you use our Services, we may recognize you or your devices even if you are not signed in to our Services.)  Oath may use device IDs, cookies, and other signals, including information obtained from third parties, to associate accounts and/or devices with you.
-    *   When you use our Services to communicate with others or post, upload or store content (such as comments, photos, voice inputs, videos, emails, messaging services and attachments).
-    *   Oath analyzes and stores all communications content, including email content from incoming and outgoing mail.  This allows us to deliver, personalize and develop relevant features, content, advertising and Services.
-    *   When you otherwise use our Services, such as title queries, watch history, page views, search queries, view the content we make available or install any Oath software such as plugins.
-    *   When you sign up for paid Services, use Services that require your financial information or complete transactions with us or our business partners, we may collect your payment and billing information.
-*   **Device Information.**  We collect information from your devices (computers, mobile phones, tablets, etc.), including information about how you interact with our Services and those of our third-party partners and information that allows us to recognize and associate your activity across devices and Services.  This information includes device specific identifiers and information such as IP address, cookie information, mobile device and advertising identifiers, browser version, operating system type and version, mobile network information, device settings, and software data.  We may recognize your devices to provide you with personalized experiences and advertising across the devices you use. 
-*   **Location Information.**  We collect location information from a variety of sources.  You can learn more about and manage your location permissions on our Locations page and by visiting the location settings tool on your devices.  
-*   **Information from Cookies and Other Technologies.**
-    *   We collect information when you access content, advertising, sites, interactive widgets, applications, and other products (both on and off of our Services) where Oath’s data collection technologies (such as web beacons, development tools, cookies and other technologies, etc.) are present. These data collection technologies allow us to understand your activity on and off our Services and to collect and store information when you interact with Services we offer to partners.
-    *   This information also includes the kind of content or ads served, viewed or clicked on. the frequency and duration of your activities. the sites or apps you used before accessing our Services and where you went next. whether you engaged with specific content or ads. and whether you went on to visit an advertiser's website, downloaded an advertiser’s app, purchased a product or service advertised, or took other actions. 
-*   **Information from Others.**  We collect information about you when we receive it from other users, third-parties, and affiliates, such as: 
-    *   When you connect your account to third-party services or sign in using a third-party partner (like Facebook or Twitter).
-    *   From publicly-available sources.
-    *   From advertisers about your experiences or interactions with their offerings.
-    *   When we obtain information from third-parties or other companies, such as those that use our Services. This may include your activity on other sites and apps as well as information those third-parties provide to you or us. 
-    *   We may also receive information from Verizon and will honor the choices Verizon customers have made about the uses of this information when we receive and use this data.
+*   We use image recognition algorithms to analyze and scan all photos and videos to help you organize them, to make it easier to search them, and for the uses described under our “Information Collection, Use &. Sharing Practices” heading. For example, the algorithms might identify and tag scenes, actions, objects, public figures, or other things of interest.
 
-How We Use This Information
+**Sharing with Third Parties**
 
-We are able to deliver, personalize, and improve our Services by combining and using the information we have about you (including information we receive on and off our Services) to understand how you use and interact with our Services and the people or things you’re connected to and interested in.  We also may use the information we have about you for the following purposes: 
+*   You may connect your account to other sites to share your photos directly to other social sharing services and blogs.
+*   You can set a preference that determines whether sharing features (such as Facebook, Twitter, Tumblr, and others) are shown for other people on your public content, which can be accessed through the "Allow Sharing" setting. When your account to these parties, the default setting is to allow sharing, which will give Verizon Media and other users the right to share your public content.
+*   Your Guest Pass history allows you to manage Guest Passes you have created for sharing your photos with others.
+*   On the desktop Flickr experience, you may give certain Verizon Media and third party apps different levels of permissions to interact with your account, share information and to take advantage of things like photo editing tools. If you want to stop using one of these apps and revoke your permission, click the "Remove Permission" link under “sharing and extending” on your account page and remove that permission.
 
-*   Provide, maintain, improve, and develop relevant features, content, and Services.  
-*   Analyze your content and other information (including emails, instant messages, posts photos, attachments, and other communications).  You can review and control certain types of information tied to your Oath account by using Privacy Controls. 
-*   Fulfill your requests and when authorized by you. 
-*   Help advertisers and publishers connect to offer relevant advertising in their apps and websites.
-*   Match and serve targeted advertising (across devices and both on and off of our Services) and provide targeted advertising based on your device activity, inferred interests and location information.  
-*   Contact you with information about your account or with marketing messages, which you can also control. 
-*   Associate your activity across our Services and your different devices as well as associate any accounts you may use across Oath Services together.  We may associate activity and accounts under a single user ID. 
-*   Carry out or support promotions.
-*   Conduct research and support innovation. 
-*   Create analytics and reports for external parties, including partners, publishers, advertisers, apps, third-parties and the public regarding the use of and trends within our Services and ads, including showing trends to partners regarding general preferences, the effectiveness of ads and information on user experiences. These analytics and reports may include aggregate or pseudonymized information.
-*   Provide location-based Services, advertising, search results, and other content consistent with your location settings.
-*   Combine information we have about you with information we obtain from business partners or other companies, such as your activities on other sites and apps.
-*   Detect and defend against fraudulent, abusive, or unlawful activity.
+**Practices Regarding Your Ability to Update or Delete Information**
 
-We provide you with controls to manage your experience with us.  For example, you can review or edit your account information, manage your marketing preferences, or opt out of targeted ads.  If you opt out, you will continue to see ads, but they may not be as relevant or useful to you. 
+*   You can delete individual photos that you have on Flickr by selecting the photos that you wish to delete, then clicking the delete button. Or you can delete groups of photos using batch operations.
+*    Visit your Settings to edit your profile, default privacy settings for photos, and more.
 
-How We Share This Information
+**Marketing &. Subscriptions**
 
-Oath shares information within its affiliated brands and companies and with Verizon.  We also share information we have about you for the purposes described in this Privacy Policy, including to provide Services that you have requested (including when you connect with third-party apps and widgets).  We do not sell, license or share information that individually identifies our customers with companies, organizations or individuals outside of Oath unless one of the following circumstances applies:
+*   Flickr communication is currently managed separately from your Verizon Media Marketing Preferences. Visit your Flickr account information area to edit your email notification settings.
 
-*   **With Your Consent.** We will share information with companies, organizations or individuals outside of Oath when we have your consent. 
-*   **With Verizon.** As part of Verizon, Oath and its affiliates may, to the extent permitted by law and consistent with user controls, share information with Verizon and Verizon affiliates. This information will be used consistent with Verizon’s privacy policy.    
-*   **Within Oath.** Information may also be shared within Oath, including with other Oath Services and affiliates.  Oath affiliates may use the information in a manner consistent with their privacy policies.
-*   **With Partners.** We may share your information with nonaffiliated companies who are:
-    *   **Trusted Partners.** We provide user information to trusted partners who work on behalf of or with Oath based on our directions and in compliance with appropriate confidentiality measures.  Learn more. 
-    *   **Advertising, Analytics and Business Partners (Limited to Non-Personally Identifiable Information).** We may share aggregated or pseudonymous information (including demographic information) with partners, such as publishers, advertisers, measurement analytics, apps, or other companies.  For example, we may tell an advertiser how its ads performed or report how many people installed an app after seeing a promotion.  We do not share information that personally identifies you (personally identifiable information is information like name or email address) with these partners, such as publishers, advertisers, measurement analytics, apps, or other companies.   
-        When you use third-party apps, websites or other products integrated with our Services, they may collect information about your activities subject to their own terms and privacy policies.   
-        We allow other companies that show advertisements on our webpages or apps to collect information from your browsers or devices.  Other companies' use of cookies and other data collection technologies are subject to their own privacy policies, not this one.  Like many companies, we may allow cookie matching with select partners.  But, these parties are not authorized to access Oath cookies.  
-*   **For Legal and Other Purposes.**  We may access, preserve and disclose information to investigate, prevent, or take action in connection with: (i) legal process and legal requests. (ii) enforcement of the Terms. (iii) claims that any content violates the rights of third-parties. (iv) requests for customer service. (v) technical issues. (vi) protecting the rights, property or personal safety of Oath, its users or the public. (vii) establishing or exercising our legal rights or defending against legal claims. or (viii) as otherwise required by law.
-    *   This may include responding to lawful governmental requests.  Learn more about how we evaluate and respond to these requests. 
-*   **New Ownership.**  If the ownership or control of all or part of Verizon, Oath or a specific Services changes as a result of a merger, acquisition or sale of assets, we may transfer your information to the new owner. 
+**Flickr Pro**
 
-Details for Specific Products and Services
+*   We will not use content within your active Flickr Pro account for advertising. When you use Flickr Pro, you are subject to the Flickr Pro Terms of Service.
 
-Additional privacy practices for certain Oath Services are included here.
+**Other**
 
-**Information Security and Data Retention**  
-Oath has technical, administrative and physical safeguards in place to help protect against unauthorized access, use or disclosure of customer information we collect or store.      
-To learn more about security, including the steps we have taken and steps you can take, please read Security at Oath.
-
-Protecting Children’s Privacy
-
-Our Services are for a general audience.  We do not knowingly collect, use, or share information that could reasonably be used to identify children under age 13 without prior parental consent or consistent with applicable law.  With parental permission, a child under age 13 might have an Oath Family Account. Visit Children's Privacy &. Family Accounts to learn more about children’s privacy at Oath.
-
-Data Processing and Transfers
-
-When you use or interact with any of our Services, you consent to the data processing, sharing, transferring and uses of your information as outlined in this Privacy Policy. Regardless of the country where you reside, you authorize us to transfer, process, store and use your information in countries other than your own in accordance with this Privacy Policy and to provide you with Services.  Some of these countries may not have the same data protection safeguards as the country where you reside. 
-
-Oath may process information related to individuals in the EU/EEA and may transfer that information from the EU/EEA through various compliance mechanisms, including data processing agreements based on the EU/EEA Standard Contractual Clauses.  By using our Services, you consent to us transferring information about you to these countries.  For more information, please visit our Data Transfer page.
-
-Other Important Information
-
-**This Privacy Policy Applies Only to Oath.** This Privacy Policy does not apply to the practices of companies that Oath does not own or control, or to people that Oath does not employ or manage.  In addition, some affiliated products (such as Tumblr) may have different privacy policies and practices that are not subject to this Privacy Policy. 
-
-Changes
-
-We may update this Privacy Policy from time to time, so you should check it periodically.  If we make changes that are material we will provide you with appropriate notice before such changes take effect.  
-
-Questions &. Suggestions
-
-If you have questions, suggestions, or wish to make a complaint, please complete a feedback form or you can contact us at:
-
-Oath  
-Customer Care - Privacy Policy Issues  
-701 First Avenue  
-Sunnyvale, CA 94089
+*   When you use Flickr, you are subject to the Flickr Community Guidelines.
+*   Please see Flickr Help if you have questions about this service.
