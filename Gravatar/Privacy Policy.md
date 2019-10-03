@@ -24,6 +24,7 @@ Privacy Policy Sections
 *   Third Party Software and Services
 *   Visitors to Our Users’ Websites
 *   Privacy Policy Changes
+*   Translation
 *   Change log
 
 Your privacy is critically important to us. At Automattic, we have a few fundamental principles:
@@ -69,7 +70,7 @@ It’s probably no surprise that we collect information that you provide to us. 
 
 *   **Basic Account Information:** We ask for basic information from you in order to set up your account. For example, we require individuals who sign up for a WordPress.com account to provide an email address along with a username or name, depending on the service – and that’s it. You may provide us with more information – like your address and other information you want to share – but we don’t require that information to create a WordPress.com account.
 *   **Public Profile Information:** If you have an account with us, we collect the information that you provide for your public profile. For example, if you have a WordPress.com account, your username is part of that public profile, along with any other information you put into your public profile, such as a photo or an “About Me” description. Your public profile information is just that — public — so please keep that in mind when deciding what information you would like to include.
-*   **Transaction and Billing Information:** If you buy something from us –a subscription to a WordPress.com plan, a premium theme, a custom domain, or some fun Longreads swag, for example – or pay fees to a site owner (for example via Recurring Payments or Simple Payments),  you will provide additional personal and payment information that is required to process the transaction and your payment, such as your name, credit card information, and contact information.
+*   **Billing and Contact Information:** If you buy something from us –a subscription to a WordPress.com plan, a premium theme, a custom domain, or some fun Longreads swag, for example – or pay fees to a site owner (for example via Recurring Payments or Simple Payments),  you will provide additional personal and payment information, such as your name, credit card information, and contact information.
 *   **Happy Tools Information:** If you are a Happy Tools user, you will provide us with information to make use of the Service’s features. For example, you might enter timezone and location information, company information, and contact information.
 *   **Ecommerce Site Information:** If you use our ecommerce Services to sell products or services to others through your site (including Stores on WordPress.com, the WooCommerce Services extension, or other purchases on WooCommerce.com), you will have to create a WordPress.com account or connect an existing account and, for some of our ecommerce Services, provide your site URL. You may also provide us with information about your financial account to set up a payments integration, such as the email address for your Stripe or PayPal account or your bank account information.
 *   **Content Information:** Depending on the Services you use, you may also provide us with information about you in draft and published content (such as for your website or your Crowdsignal survey). For example, if you write a blog post that includes biographic information about you, we will have that information, and so will anyone with access to the Internet if you choose to publish the post publicly. This might be obvious to you…but it’s not to everyone!
@@ -102,7 +103,7 @@ We use information about you as mentioned above and for the purposes listed belo
 *   To monitor and analyze trends and better understand how users interact with our Services, which helps us improve our Services and make them easier to use;
 *   To measure, gauge, and improve the effectiveness of our advertising, and better understand user retention and attrition — for example, we may analyze how many individuals purchased a paid plan after receiving a marketing message or the features used by those who continue to use our Services after a certain length of time;
 *   To monitor and prevent any problems with our Services, protect the security of our Services, detect and prevent fraudulent transactions and other illegal activities, fight spam, and protect the rights and property of Automattic and others, which may result in us declining a transaction or the use of our Services;
-*   To communicate with you, for example through an email, about offers and promotions offered by Automattic and others we think will be of interest to you, solicit your feedback, or keep you up to date on Automattic and our products (which you can unsubscribe from at any time). and
+*   To communicate with you. For example, we may email you to solicit your feedback, share tips for getting the most out of our products, or keep you up to date on Automattic. text you to verify your payment. or call you to share offers and promotions that we think will be of interest to you. If you don’t want to hear from us, you can opt out of marketing communications at any time. (Please keep in mind that even if you opt out, we’ll still send you important updates relating to your account). and
 *   To personalize your experience using our Services, provide content recommendations (for example, through our Reader Post Suggestions), target our marketing messages to groups of our users (for example, those who have a particular plan with us or have been our user for a certain length of time), and serve relevant advertisements.
 
 _Legal Bases for Collecting and Using Information_
@@ -171,6 +172,7 @@ You have several choices available when it comes to information about you:
 *   **Limit Access to Information on Your Mobile Device:** Your mobile device operating system should provide you with the ability to discontinue our ability to collect stored information or location information via our mobile apps. If you do so, you may not be able to use certain features (like adding a location to a photograph, for example).
 *   **Opt-Out of Marketing Communications:** You may opt out of receiving promotional communications from us. Just follow the instructions in those communications or let us know. If you opt out of promotional communications, we may still send you other communications, like those about your account and legal notices.
 *   **Set Your Browser to Reject Cookies:** At this time, Automattic does not respond to “do not track” signals across all of our Services. However, you can usually choose to set your browser to remove or reject browser cookies before using Automattic’s websites, with the drawback that certain features of Automattic’s websites may not function properly without the aid of cookies.
+*   **Opt out of our internal analytics program.** You can do this through your user settings. By doing so, you won’t share information with our analytics tool about events or actions that happen after the opt-out, while logged in to your WordPress.com account. For more information, please see our Cookie Policy.
 *   **Close Your Account:** While we’d be very sad to see you go, if you no longer want to use our Services :( :( :( :(, you can close your account (for example, here, for WordPress.com accounts). Please keep in mind that we may continue to retain your information after closing your account, as described in How Long We Keep Information above — for example, when that information is reasonably needed to comply with (or demonstrate our compliance with) legal obligations such as law enforcement requests, or reasonably needed for our legitimate business interests.
 
 Your Rights
@@ -191,7 +193,7 @@ Controllers and Responsible Companies
 
 Automattic’s Services are worldwide. Different Automattic companies are the controller (or co-controller) of personal information, which means that they are the company responsible for processing that information, based on the particular service and the location of the individual using our Services.
 
-Depending on the Services you use, more than one company may be the controller of your personal data. Generally, the “controller” is the Automattic company that entered into the contract with you under the Terms of Service for the the product or service you use. In addition, Automattic Inc., our US-based company, is the controller for some of the processing activities across all of our Services worldwide.
+Depending on the Services you use, more than one company may be the controller of your personal data. Generally, the “controller” is the Automattic company that entered into the contract with you under the Terms of Service for the product or service you use. In addition, Automattic Inc., our US-based company, is the controller for some of the processing activities across all of our Services worldwide.
 
 The chart below explains the controllers for processing your personal information. We use the term “Designated Countries” to refer to Australia, Canada, Japan, Mexico, New Zealand, and all countries located in the European continent.
 
@@ -200,18 +202,10 @@ If you reside outside of the Designated Countries  (for services other than tho
 San Francisco, CA 94110 If you reside in the Designated Countries (for services other than those offered at WooCommerce.com): **Aut O’Mattic A8C Ireland Ltd.**  
 Business Centre, No.1 Lower Mayor Street  
 International Financial Services Centre  
-Dublin 1, Ireland
-
-**Automattic Inc.** is also the controller for some of the processing activities related to Services provided by Aut O’Mattic A8C Ireland Ltd.
-
-If you are using our Services offered at WooCommerce.com: **Bubblestorm Management (Pty) Ltd (WooCommerce.com)**  
+Dublin 1, Ireland**Automattic Inc.** is also the controller for some of the processing activities related to Services provided by Aut O’Mattic A8C Ireland Ltd. If you are using our Services offered at WooCommerce.com: **Bubblestorm Management (Pty) Ltd (WooCommerce.com)**  
 Unit A206, The Old Biscuit Mill (TOBM)  
 373 – 375 Albert Road, Woodstock  
-Cape Town, South Africa
-
-**Automattic Inc.** is also the controller for some of the processing activities related to Services provided by Bubblestorm Management (Pty) Ltd (WooCommerce.com).
-
-How to Reach Us
+Cape Town, South Africa**Automattic Inc.** is also the controller for some of the processing activities related to Services provided by Bubblestorm Management (Pty) Ltd (WooCommerce.com). How to Reach Us
 
 If you have a question about this Privacy Policy, or you would like to contact us about any of the rights mentioned in the Your Rights section above, please contact us.
 
@@ -230,7 +224,7 @@ Ads appearing on any of our Services may be delivered by advertising networks. O
 
 _Third Party Software and Services_
 
-If you’d like to use WooCommerce extensions that enable services provided by third parties, third party plugins, embeds, or other third party software or services, please keep in mind that when you interact with them you may provide information about yourself (or your site visitors) to those third parties. For example, some third party services may request or require access to your (yours, your visitors’, or customers’) data, for example, via a pixel or cookie. Please note that if you use the third party service or grant access, your data will handled in accordance with the third party’s privacy policy and practices. We don’t own or control these third parties, and they have their own rules about collection, use, and sharing of information, which you should review before using the software or services.
+If you’d like to use WooCommerce extensions that enable services provided by third parties, third party plugins, embeds, or other third party software or services, please keep in mind that when you interact with them you may provide information about yourself (or your site visitors) to those third parties. For example, some third party services may request or require access to your (yours, your visitors’, or customers’) data, for example, via a pixel or cookie. Please note that if you use the third party service or grant access, your data will be handled in accordance with the third party’s privacy policy and practices. We don’t own or control these third parties, and they have their own rules about collection, use, and sharing of information, which you should review before using the software or services.
 
 _Visitors to Our Users’ Websites_
 
@@ -240,10 +234,21 @@ Privacy Policy Changes
 
 Although most changes are likely to be minor, Automattic may change its Privacy Policy from time to time. Automattic encourages visitors to frequently check this page for any changes to its Privacy Policy. If we make changes, we will notify you by revising the change log below, and, in some cases, we may provide additional notice (such as adding a statement to our homepage or the WordPress.com Blog, or sending you a notification through email or your dashboard). Your further use of the Services after a change to our Privacy Policy will be subject to the updated policy.
 
+Translation
+
+Our Privacy Policy was originally written in English (US). We may translate it into other languages. For example:
+
+French: https://automattic.com/fr/privacy  
+Spanish: https://automattic.com/es/privacy  
+German: https://automattic.com/de/privacy
+
+In the event of a conflict between a translated version of our Privacy Policy and the English version, the English version will control.
+
 That’s it! Thanks for reading.
 
 Change log
 
+*   _October 2, 2019:_ A few miscellaneous changes, such as new sections about translations of this Privacy Policy and how to opt out of our internal analytics program.
 *   _May 31, 2019:_ Included information for the Recurring Payments feature.
 *   _April 1, 2019:_ Included information for Happy Tools.
 *   _March 13, 2019:_ Added clarifications and additional details to existing sections, for example about ICANN policies and what we may store when you communicate with us.
