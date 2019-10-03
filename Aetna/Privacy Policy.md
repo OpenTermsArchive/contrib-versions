@@ -84,7 +84,7 @@ Products &. programs Products &. programs
 *   Healthcare industry
 *   High-Tech industry
 *   Hospitality industry
-*   Multi-employer labor funds
+*   Labor solutions
 *   Public sector
 *   Retiree health plans
 *   Voluntary benefits
