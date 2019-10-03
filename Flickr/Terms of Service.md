@@ -229,6 +229,7 @@ Europe, Middle East and Africa
         3.  **Small Claims Court Option.** As an alternative to arbitration, you may bring an individual action in small claims court in your county of residence (or if a business, your principal place of business) or Santa Clara County, California provided that your Dispute meets the requirements of the small claims court.
             
         4.  **Arbitration Location.** Unless you and we agree otherwise, the arbitration must take place, or the small claims action must be filed, in the county of your primary residence or Santa Clara County, California.
+            
         5.  **Arbitration Fees and Expenses.** We will reimburse any filing fee that the AAA charges you for arbitration of the Dispute. If you provide us with signed written notice that you cannot pay the filing fee, we will pay the fee directly to the AAA. If the arbitration proceeds, we will also pay any administrative and arbitrator fees charged later.
             
         6.  **Settlement Offers.** We may, but are not obligated to, make a written settlement offer anytime before or during arbitration. The amount or terms of any settlement offer may not be disclosed to the arbitrator unless and until the arbitrator issues an award on the claim. If you do not accept the offer and the arbitrator awards you an amount of money that is more than our offer but less than $5,000, we agree to: (a) pay you $5,000 instead of the lower amount awarded, (b) pay your reasonable attorney’s fees and costs, and (c) reimburse any arbitration filing fees and arbitrator fees and expenses incurred in connection with the arbitration of your Dispute. If the arbitrator awards you more than $5,000 and we are not challenging the award, then we will pay you the amount of the award.
@@ -259,7 +260,7 @@ Europe, Middle East and Africa
             
     9.  The Services are “commercial computer software” and “commercial items” as these terms are used in the Federal Acquisition Regulation system, and the rights of the United States are only those rights as are granted to all other end users pursuant to the terms and conditions herein and will not exceed the minimum rights set forth in FAR 52.227-19.
         
-    10.  Closed Captioning. Verizon Media complies with applicable Federal Communications Commission rules and regulations regarding the closed captioning of video content. Please visit https://policies.yahoo.com/us/en/yahoo/cc/index.htm for more information or to register any concerns or complaints regarding video content accessible on the Yahoo network of properties.
+    10.  Closed Captioning. Verizon Media complies with applicable Federal Communications Commission rules and regulations regarding the closed captioning of video content. Please visit https://www.verizonmedia.com/accessibility/captioning/ for more information or to register any concerns or complaints regarding video content accessible on the Yahoo network of properties.
         
     11.  In New Jersey, all of the limitations on liability set forth in Section 9 shall apply except nothing in these Terms will exclude or limit liability for intentional torts, willful acts, gross negligence, or a violation of a statutorily imposed duty.
         
@@ -503,6 +504,7 @@ Europe, Middle East and Africa
             2.  For other Services:
                 
                 1.  the Applicable Verizon Media Entity is the Verizon Media Entity that is specified to be the provider in respect of a specific Service, and the Terms and the relationship between you and the Applicable Verizon Media Entity will be governed by the laws of the place of incorporation of the Applicable Verizon Media Entity. or
+                    
                 2.  if no Verizon Media Entity is specified to be the provider in respect of a specific Service, the Applicable Verizon Media Entity is Oath Inc. (Address: 22000 AOL Way, Dulles, VA 20166), and for such Services the terms of Section 14.2 (United States) apply.
                     
         2.  Minimum Age: 13 years old
