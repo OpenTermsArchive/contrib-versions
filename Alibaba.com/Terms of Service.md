@@ -1,6 +1,6 @@
 <. Back to list Terms of Use
 
-**Part A:  New version - effective as of October 4, 2019**
+**Part A:  New version - effective as of October 9, 2019**
 
 PLEASE READ THESE TERMS AND CONDITIONS CAREFULLY!
 
@@ -276,7 +276,7 @@ b) immediately upon Alibaba.com posting such notice on an area of the Sites that
 
 12.8 If you have any comments on the Services we provide to you, you may contact our customer service support line (https://helppage.aliexpress.com/buyercenter/selectTopic.htm for AliExpress or https://service.alibaba.com/buyer?spm=a2700.8293689.0.0.643f65aasdVUJy&tracelog=footer\_hp\_buyer for Alibaba.com) with any such feedback or questions.
 
-Part B:  Old version - effective as of September 12, 2019 and valid until October 03, 2019
+Part B:  Old version - effective as of September 12, 2019 and valid until October 08, 2019
 
 Terms of Use
 
