@@ -2,21 +2,22 @@ GitHub Terms of Service
 
 Thank you for using GitHub! We're happy you're here. Please read this Terms of Service agreement carefully before accessing or using GitHub. Because it is such an important contract between us and our users, we have tried to make it as clear as possible. For your convenience, we have presented these terms in a short non-binding summary followed by the full legal terms.
 
-Summary Section What can you find there? A. Definitions Some basic terms, defined in a way that will help you understand this agreement. Refer back up to this section for clarification. B. Account Terms These are the basic requirements of having an Account on GitHub. C. Acceptable Use These are the basic rules you must follow when using your GitHub Account. D. User-Generated Content You own the content you post on GitHub. However, you have some responsibilities regarding it, and we ask you to grant us some rights so we can provide services to you. E. Private Repositories This section talks about how GitHub will treat content you post in private repositories. F. Copyright &. DMCA Policy This section talks about how GitHub will respond if you believe someone is infringing your copyrights on GitHub. G. Intellectual Property Notice This describes GitHub's rights in the website and service. H. API Terms These are the rules for using GitHub's APIs, whether you are using the API for development or data collection. I. Additional Terms for GitHub Pages We have a few specific rules for content hosted using GitHub Pages. J. Third Party Applications We have a few rules for creating apps for other Users, and another set of terms for GitHub Marketplace. K. Advertising on GitHub If you want to promote your content on GitHub, this section lays out some rules you must follow. L. Payment You are responsible for payment. We are responsible for billing you accurately. M. Cancellation and Termination You may cancel this agreement and close your Account at any time. N. Communications with GitHub We only use email and other electronic means to stay in touch with our users. We do not provide phone support. O. Disclaimer of Warranties We provide our service as is, and we make no promises or guarantees about this service. **Please read this section carefully. you should understand what to expect.** P. Limitation of Liability We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement. **Please read this section carefully. it limits our obligations to you.** Q. Release and Indemnification You are fully responsible for your use of the service. R. Changes to these Terms of Service We may modify this agreement, but we will give you 30 days' notice of changes that affect your rights. S. Miscellaneous Please see this section for legal details including our choice of law. The GitHub Terms of Service
+Summary Section What can you find there? A. Definitions Some basic terms, defined in a way that will help you understand this agreement. Refer back up to this section for clarification. B. Account Terms These are the basic requirements of having an Account on GitHub. C. Acceptable Use These are the basic rules you must follow when using your GitHub Account. D. User-Generated Content You own the content you post on GitHub. However, you have some responsibilities regarding it, and we ask you to grant us some rights so we can provide services to you. E. Private Repositories This section talks about how GitHub will treat content you post in private repositories. F. Copyright &. DMCA Policy This section talks about how GitHub will respond if you believe someone is infringing your copyrights on GitHub. G. Intellectual Property Notice This describes GitHub's rights in the website and service. H. API Terms These are the rules for using GitHub's APIs, whether you are using the API for development or data collection. I. Additional Terms for GitHub Pages and Learning Lab We have a few specific rules for content hosted using GitHub Pages. J. Beta Previews These are some of the additional terms that apply to GitHub's features that are still in development. K. Third Party Applications We have a few rules for creating apps for other Users, and another set of terms for GitHub Marketplace. L. Advertising on GitHub If you want to promote your content on GitHub, this section lays out some rules you must follow. M. Payment You are responsible for payment. We are responsible for billing you accurately. N. Cancellation and Termination You may cancel this agreement and close your Account at any time. O. Communications with GitHub We only use email and other electronic means to stay in touch with our users. We do not provide phone support. P. Disclaimer of Warranties We provide our service as is, and we make no promises or guarantees about this service. **Please read this section carefully. you should understand what to expect.** Q. Limitation of Liability We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement. **Please read this section carefully. it limits our obligations to you.** R. Release and Indemnification You are fully responsible for your use of the service. S. Changes to these Terms of Service We may modify this agreement, but we will give you 30 days' notice of changes that affect your rights. T. Miscellaneous Please see this section for legal details including our choice of law. The GitHub Terms of Service
 
-Effective date: April 19, 2019
+Effective date: October 8, 2019
 
 A. Definitions
 
 **Short version:** _We use these basic terms throughout the agreement, and they have specific meanings. You should know what we mean when we use each of the terms. There's not going to be a test on it, but it's still useful information._
 
-1.  The “Agreement” refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the “Terms of Service” or the "Terms") and all other operating rules, policies (including the GitHub Privacy Statement, available at github.com/site/privacy) and procedures that we may publish from time to time on the Website. Most of our site policies are available at help.github.com/categories/site-policy.
-2.  The “Service” refers to the applications, software, products, and services provided by GitHub.
-3.  The “Website” refers to GitHub’s website located at github.com, and all content, services, and products provided by GitHub at or through the Website. It also refers to GitHub-owned subdomains of github.com, such as education.github.com and pages.github.com. These Terms also govern GitHub’s conference websites, such as githubuniverse.com, and product websites, such as atom.io. Occasionally, websites owned by GitHub may provide different or additional terms of service. If those additional terms conflict with this Agreement, the more specific terms apply to the relevant page or service.
-4.  “The User,” “You,” and “Your” refer to the individual person, company, or organization that has visited or is using the Website or Service. that accesses or uses any part of the Account. or that directs the use of the Account in the performance of its functions. A User must be at least 13 years of age. Special terms may apply for business or government Accounts (See Section B(5): Additional Terms).
+1.  An "Account" represents your legal relationship with GitHub. A “User Account” represents an individual User’s authorization to log in to and use the Service and serves as a User’s identity on GitHub. “Organizations” are shared workspaces that may be associated with a single entity or with one or more Users where multiple Users can collaborate across many projects at once. A User Account can be a member of any number of Organizations.
+2.  The “Agreement” refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the “Terms of Service” or the "Terms") and all other operating rules, policies (including the GitHub Privacy Statement, available at github.com/site/privacy) and procedures that we may publish from time to time on the Website. Most of our site policies are available at help.github.com/categories/site-policy.
+3.  "Beta Previews" mean software, services, or features identified as alpha, beta, preview, early access, or evaluation, or words or phrases with similar meanings.
+4.  “Content” refers to content featured or displayed through the Website, including without limitation text, data, articles, images, photographs, graphics, software, applications, designs, features, and other materials that are available on the Website or otherwise available through the Service. "Content" also includes Services. “User-Generated Content” is Content, written or otherwise, created or uploaded by our Users. "Your Content" is Content that you create or own.
 5.  “GitHub,” “We,” and “Us” refer to GitHub, Inc., as well as our affiliates, directors, subsidiaries, contractors, licensors, officers, agents, and employees.
-6.  “Content” refers to content featured or displayed through the Website, including without limitation text, data, articles, images, photographs, graphics, software, applications, designs, features, and other materials that are available on the Website or otherwise available through the Service. "Content" also includes Services. “User-Generated Content” is Content, written or otherwise, created or uploaded by our Users. "Your Content" is Content that you create or own.
-7.  An "Account" represents your legal relationship with GitHub. A “User Account” represents an individual User’s authorization to log in to and use the Service and serves as a User’s identity on GitHub. “Organizations” are shared workspaces that may be associated with a single entity or with one or more Users where multiple Users can collaborate across many projects at once. A User Account can be a member of any number of Organizations.
+6.  The “Service” refers to the applications, software, products, and services provided by GitHub, including any Beta Previews.
+7.  “The User,” “You,” and “Your” refer to the individual person, company, or organization that has visited or is using the Website or Service. that accesses or uses any part of the Account. or that directs the use of the Account in the performance of its functions. A User must be at least 13 years of age. Special terms may apply for business or government Accounts (See Section B(5): Additional Terms).
+8.  The “Website” refers to GitHub’s website located at github.com, and all content, services, and products provided by GitHub at or through the Website. It also refers to GitHub-owned subdomains of github.com, such as education.github.com and pages.github.com. These Terms also govern GitHub’s conference websites, such as githubuniverse.com, and product websites, such as atom.io. Occasionally, websites owned by GitHub may provide different or additional terms of service. If those additional terms conflict with this Agreement, the more specific terms apply to the relevant page or service.
 
 B. Account Terms
 
@@ -185,9 +186,29 @@ Each GitHub Account comes with access to the GitHub Pages static hosting service
 
 2\. GitHub Learning Lab
 
-If you decide to purchase and use the GitHub Learning Lab and associated documentation, depending on the nature of your usage, the GitHub Learning Lab Terms and Conditions found at either https://lab.github.com/organizations/terms or https://lab.github.com/terms will apply..
+If you decide to purchase and use the GitHub Learning Lab and associated documentation, depending on the nature of your usage, the GitHub Learning Lab Terms and Conditions found at either https://lab.github.com/organizations/terms or https://lab.github.com/terms will apply.
 
-J. Third Party Applications
+J. Beta Previews
+
+**Short version:** _Beta Previews may not be supported or may change at any time, you may receive confidential information through those programs that must remain confidential while the program is private, and we'd love your feedback to make our Beta Previews better._
+
+1\. Subject to Change
+
+Beta Previews may not be supported and may be changed at any time without notice. In addition, Beta Previews are not subject to the same security measures and auditing to which the Service has been and is subject. **By using a Beta Preview, you use it at your own risk.**
+
+2\. Confidentiality
+
+As a user of Beta Previews, you may get access to special information that isn’t available to the rest of the world. Due to the sensitive nature of this information, it’s important for us to make sure that you keep that information secret.
+
+**Confidentiality Obligations.** You agree that any non-public Beta Preview information we give you, such as information about a private Beta Preview, will be considered GitHub’s confidential information (collectively, “Confidential Information”), regardless of whether it is marked or identified as such. You agree to only use such Confidential Information for the express purpose of testing and evaluating the Beta Preview (the “Purpose”), and not for any other purpose. You should use the same degree of care as you would with your own confidential information, but no less than reasonable precautions to prevent any unauthorized use, disclosure, publication, or dissemination of our Confidential Information. You promise not to disclose, publish, or disseminate any Confidential Information to any third party, unless we don’t otherwise prohibit or restrict such disclosure (for example, you might be part of a GitHub-organized group discussion about a private Beta Preview feature).
+
+**Exceptions.** Confidential Information will not include information that is: (a) or becomes publicly available without breach of this Agreement through no act or inaction on your part (such as when a private Beta Preview becomes a public Beta Preview). (b) known to you before we disclose it to you. (c) independently developed by you without breach of any confidentiality obligation to us or any third party. or (d) disclosed with permission from GitHub. You will not violate the terms of this Agreement if you are required to disclose Confidential Information pursuant to operation of law, provided GitHub has been given reasonable advance written notice to object, unless prohibited by law.
+
+3\. Feedback
+
+We’re always trying to improve of products and services, and your feedback as a Beta Preview user will help us do that. If you choose to give us any ideas, know-how, algorithms, code contributions, suggestions, enhancement requests, recommendations or any other feedback for our products or services (collectively, “Feedback”), you acknowledge and agree that GitHub will have a royalty-free, fully paid-up, worldwide, transferable, sub-licensable, irrevocable and perpetual license to implement, use, modify, commercially exploit and/or incorporate the Feedback into our products, services, and documentation.
+
+K. Third Party Applications
 
 **Short version:** _You need to follow certain rules if you create an application for other Users, and there are additional Terms that cover the Marketplace._
 
@@ -211,7 +232,7 @@ You may grant a Developer Product authorization to use, access, and disclose the
 
 If you buy Developer Products through GitHub Marketplace, the GitHub Marketplace Terms of Service controls your purchase. This Agreement, as well as the GitHub Marketplace Terms of Service, will govern your use of GitHub Marketplace.
 
-K. Advertising on GitHub
+L. Advertising on GitHub
 
 **Short version:** _We do not generally prohibit use of GitHub for advertising. However, we expect our users to follow certain limitations, so GitHub does not become a spam haven. No one wants that._
 
@@ -229,7 +250,7 @@ You may not advertise in other Users' repositories, such as by posting monetized
 
 Advertising Content, like all Content, must not violate the law or these Terms of Use, for example through excessive bulk activity such as spamming. We reserve the right to remove any advertisements that, in our sole discretion, violate any GitHub terms or policies.
 
-L. Payment
+M. Payment
 
 **Short version:** _You are responsible for any fees associated with your use of GitHub. We are responsible for communicating those fees to you clearly and accurately, and letting you know well in advance if those prices change._
 
@@ -257,7 +278,7 @@ By agreeing to these Terms, you are giving us permission to charge your on-file 
 
 You are responsible for all fees, including taxes, associated with your use of the Service. By using the Service, you agree to pay GitHub any charge incurred in connection with your use of the Service. If you dispute the matter, contact GitHub Support. You are responsible for providing us with a valid means of payment for paid Accounts. Free Accounts are not required to provide payment information.
 
-M. Cancellation and Termination
+N. Cancellation and Termination
 
 **Short version:** _You may close your Account at any time. If you do, we'll treat your information responsibly._
 
@@ -281,7 +302,7 @@ GitHub has the right to suspend or terminate your access to all or any part of t
 
 All provisions of this Agreement which, by their nature, should survive termination _will_ survive termination — including, without limitation: ownership provisions, warranty disclaimers, indemnity, and limitations of liability.
 
-N. Communications with GitHub
+O. Communications with GitHub
 
 **Short version:** _We use email and other electronic means to stay in touch with our users._
 
@@ -297,7 +318,7 @@ Communications made through email or GitHub Support's messaging system will not 
 
 GitHub only offers support via email, in-Service communications, and electronic messages. We do not offer telephone support.
 
-O. Disclaimer of Warranties
+P. Disclaimer of Warranties
 
 **Short version:** _We provide our service as is, and we make no promises or guarantees about this service. Please read this section carefully. you should understand what to expect._
 
@@ -305,7 +326,7 @@ GitHub provides the Website and the Service “as is” and “as available,” 
 
 GitHub does not warrant that the Service will meet your requirements. that the Service will be uninterrupted, timely, secure, or error-free. that the information provided through the Service is accurate, reliable or correct. that any defects or errors will be corrected. that the Service will be available at any particular time or location. or that the Service is free of viruses or other harmful components. You assume full responsibility and risk of loss resulting from your downloading and/or use of files, information, content or other material obtained from the Service.
 
-P. Limitation of Liability
+Q. Limitation of Liability
 
 **Short version:** _We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement. Please read this section carefully. it limits our obligations to you._
 
@@ -322,7 +343,7 @@ You understand and agree that we will not be liable to you or any third party fo
 
 Our liability is limited whether or not we have been informed of the possibility of such damages, and even if a remedy set forth in this Agreement is found to have failed of its essential purpose. We will have no liability for any failure or delay due to matters beyond our reasonable control.
 
-Q. Release and Indemnification
+R. Release and Indemnification
 
 **Short version:** _You are responsible for your use of the service. If you harm someone else or get into a dispute with someone else, we will not be involved._
 
@@ -330,7 +351,7 @@ If you have a dispute with one or more Users, you agree to release GitHub from a
 
 You agree to indemnify us, defend us, and hold us harmless from and against any and all claims, liabilities, and expenses, including attorneys’ fees, arising out of your use of the Website and the Service, including but not limited to your violation of this Agreement, provided that GitHub (1) promptly gives you written notice of the claim, demand, suit or proceeding. (2) gives you sole control of the defense and settlement of the claim, demand, suit or proceeding (provided that you may not settle any claim, demand, suit or proceeding unless the settlement unconditionally releases GitHub of all liability). and (3) provides to you all reasonable assistance, at your expense.
 
-R. Changes to These Terms
+S. Changes to These Terms
 
 **Short version:** _We want our users to be informed of important changes to our terms, but some changes aren't that important — we don't want to bother you every time we fix a typo. So while we may modify this agreement at any time, we will notify users of any changes that affect your rights and give you time to adjust to them._
 
@@ -338,7 +359,7 @@ We reserve the right, at our sole discretion, to amend these Terms of Service at
 
 We reserve the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Website (or any part of it) with or without notice.
 
-S. Miscellaneous 1. Governing Law
+T. Miscellaneous 1. Governing Law
 
 Except to the extent applicable law provides otherwise, this Agreement between you and GitHub and any access to or use of the Website or the Service are governed by the federal laws of the United States of America and the laws of the State of California, without regard to conflict of law provisions. You and GitHub agree to submit to the exclusive jurisdiction and venue of the courts located in the City and County of San Francisco, California.
 
