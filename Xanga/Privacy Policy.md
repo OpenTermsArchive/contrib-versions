@@ -88,7 +88,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Recover Old Xanga
     *   by JRA3141
-    *   2 months ago
+    *   3 months ago
     *   in Passwords &. Sign-In
     *   0 votes
     *   0
