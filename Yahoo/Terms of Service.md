@@ -316,7 +316,7 @@ Europe, Middle East and Africa
         
     9.  The Services are “commercial computer software” and “commercial items” as these terms are used in the Federal Acquisition Regulation system, and the rights of the United States are only those rights as are granted to all other end users pursuant to the terms and conditions herein and will not exceed the minimum rights set forth in FAR 52.227-19.
         
-    10.  Closed Captioning. Verizon Media complies with applicable Federal Communications Commission rules and regulations regarding the closed captioning of video content. Please visit https://policies.yahoo.com/us/es/yahoo/cc/index.htm for more information or to register any concerns or complaints regarding video content accessible on the Yahoo network of properties.
+    10.  Closed Captioning. Verizon Media complies with applicable Federal Communications Commission rules and regulations regarding the closed captioning of video content. Please visit https://www.verizonmedia.com/accessibility/captioning/ for more information or to register any concerns or complaints regarding video content accessible on the Yahoo network of properties.
         
     11.  In New Jersey, all of the limitations on liability set forth in Section 9 shall apply except nothing in these Terms will exclude or limit liability for intentional torts, willful acts, gross negligence, or a violation of a statutorily imposed duty.
         
