@@ -237,15 +237,6 @@ Working with us Working with us
 *   Partner Program
 *   Executive briefing center
 
-Investors Investors
-
-*   Financial fundamentals
-*   Stock details
-*   Reports, filings &. statements
-*   Investor information
-*   Webcasts &. presentations
-*   Request information
-
 Health Section Health Section
 
 *   Access
