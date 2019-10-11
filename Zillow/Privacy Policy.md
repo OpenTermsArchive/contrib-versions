@@ -1,4 +1,4 @@
-<iframe width="0" style="display:none;visibility:hidden" src="//www.googletagmanager.com/ns.html?id=GTM-P6HT97" height="0"></iframe>. Skip main navigationHomepage
+Skip main navigationHomepage
 
 *   Buy
     *   Homes for Sale
