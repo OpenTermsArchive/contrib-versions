@@ -1,59 +1,96 @@
 <iframe aria-hidden="true" title="Google Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-THS7L57" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
 
 *   Residential
+*   |
 *   Business
+*   |
 *   Enterprise
 
 *   Denver, CO
-
-*   Menu_arrow\_drop\_down_
-    *   Referral Program
-    *   Move My Service
-    *   Go to Windstream.net
-    *   Windstream Blog
-    *   Contact Us
 *   Sign in
-    *   Manage My Account
-    *   View or Pay my Bill
-    *   Check My Email
+    *   Referral
+    *   Movers
+    *   Check My Emails
+    *   View or Pay Bill
     *   Sign Out
-
-*   Shop
-*   Internet
-*   TV
-*   Phone
-*   Community
-*   Support
-*   Contact Us
-*   Other Windstream Services
-    *   Residential
-    *   Business
-    *   Enterprise
-*   More
-    *   Move My Service
-    *   Go to Windstream.net
-    *   Windstream Blog
-    *   Contact Us
-*   Denver, CO
 
 *   Manage My Account
 *   View or Pay my Bill
 *   Check My Email
 *   Sign Out
 
-*   Shop
+Call now to order 1-866-445-8084
+
+_close_
+
+*   Manage My Account
+*   View or Pay my Bill
+*   Check My Email
+*   Sign Out
+
 *   Internet
-*   TV
-*   Phone
+*   Products _keyboard\_arrow\_right_
 *   Community
-*   Support _arrow\_drop\_down_
+*   Support
+*   Contact Us
+*   Goto SignIn _keyboard\_arrow\_right_
+*   Goto Myaccount _keyboard\_arrow\_right_
+*   Denver, CO
+    
+    Update Address
+    
+*   _search_
+*   Looking for Business Solution?
+
+Call now to order 1-866-445-8084
+
+_close_
+
+*   _keyboard\_arrow\_right_ Back
+*   TV &. Entertainment
+*   Security
+*   Voice
+*   View All Products
+
+Call now to order 1-866-445-8084
+
+_close_
+
+*   _keyboard\_arrow\_right_ Back
+*   Hello Jane!
+*   Manage My Account
+*   Referral
+*   Movers
+*   View or Pay My Bill
+*   Check My Email
+*   Sign Out
+
+Call now to order 1-866-445-8084
+
+_close_
+
+*   _keyboard\_arrow\_right_ Back
+*   Referral
+*   Movers
+*   Check My Emails
+*   View or Pay Bill
+*   Sign in
+
+*   Internet
+*   Products
+    *   TV &. Entertainment
+    *   Security
+    *   Voice
+*   Community
+*   Support
     *   Contact Us
 
-Terms and Conditions Windstream Information ▼ About us
+Call now to order 1-866-445-8084
+
+Back to About Page
 
 *   Windstream Information▼
     *   Company History
-    *   Company Overview
     *   Tariffs
     *   Coverage Map
     *   Lifeline Assistance Program
@@ -62,11 +99,12 @@ Terms and Conditions Windstream Information ▼ About us
         *   California Teleconnect Fund Program
     *   Store Finder
     *   FCC Rural Call Completion
+    *   Google Apps License
 *   Suppliers▼
     *   Supplier Information
     *   Supplier Diversity
     *   Supplier Code of Ethics
-*   Legal▲
+*   Legal▼
     *   Acceptable Use Policy
     *   Broadband Network Statement
     *   Legal Notices
@@ -74,12 +112,45 @@ Terms and Conditions Windstream Information ▼ About us
     *   Privacy Policy
     *   Procurement Terms and Conditions
     *   Terms and Conditions
-    *   Thank You Rewards Terms and Conditions
 *   Additional Information▼
     *   Investor Relations
     *   News Center
     *   Windstream Talent
     *   Windstream.net
+
+Back to About Page
+
+*   Jump To▼
+    *   Windstream Information▼
+        *   Company History
+        *   Tariffs
+        *   Coverage Map
+        *   Lifeline Assistance Program
+        *   Bill Information
+            *   Bill Information (Spanish)
+            *   California Teleconnect Fund Program
+        *   Store Finder
+        *   FCC Rural Call Completion
+        *   Google Apps License
+    *   Suppliers▼
+        *   Supplier Information
+        *   Supplier Diversity
+        *   Supplier Code of Ethics
+    *   Legal▲
+        *   Acceptable Use Policy
+        *   Broadband Network Statement
+        *   Legal Notices
+        *   Offer Conditions
+        *   Privacy Policy
+        *   Procurement Terms and Conditions
+        *   Terms and Conditions
+    *   Additional Information▼
+        *   Investor Relations
+        *   News Center
+        *   Windstream Talent
+        *   Windstream.net
+
+Terms and Conditions
 
 TERMS AND CONDITIONS FOR SERVICES AND/OR EQUIPMENT PROVIDED BY WINDSTREAM
 
@@ -191,7 +262,7 @@ You and Windstream specifically agree to finally resolve all disputes not filed 
 
 1.  If you intend to seek arbitration after expiration of the 60-day dispute period noted above, you must first file a claim with JAMS. Visit https://www.windstream.com/about/legal/Legal-Notices for a form that you may, but are not required to, use. The claim must include a description of the dispute, a brief outline of previous efforts to resolve the dispute, all supporting documentation, and a proposed resolution. A copy of the claim and proof of payment of the filing fee, such as a copy of the check or money order, should be sent to Windstream at: 4001 Rodney Parham Rd., Little Rock, AR 72212, Mailstop B1F03-53A, Attn: Legal Department. Unless the customer specifically requests otherwise, the Executive Customer Relations group may still contact customer even if represented by counsel.
 2.  During the arbitration, the amount of any settlement offer made by Windstream or you shall not be disclosed to the arbitrator until after the arbitrator determines the amount, if any, to which you or Windstream is entitled.
-3.  After Windstream receives Notice that you have commenced arbitration, it will reimburse you for your payment of the filing fee, unless your claim is for greater than $75,000. The arbitration will be governed by the JAMS Comprehensive Arbitration Rules and Procedures ("JAMS Rules"), as modified by this Agreement, and will be administered by JAMS. The JAMS Rules are available online at www.jamsadr.com, by calling JAMS at 1-800-352-5267(JAMS). The arbitrator is bound by the terms of this Agreement. All issues are for the arbitrator to decide, except that issues relating to the scope and enforceability of the arbitration provision are for the court to decide. Unless Windstream and you agree otherwise, any arbitration hearings will take place in the county (or parish) of your billing address. If your claim is for $10,000 or less, we agree that you may choose whether the arbitration will be conducted solely on the basis of documents submitted to the arbitrator, through a telephonic hearing, or by an in-person hearing as established by the JAMS Rules. If your claim exceeds $10,000, the right to a hearing will be determined by the JAMS Rules. Regardless of the manner in which the arbitration is conducted, the arbitrator shall issue a reasoned written decision sufficient to explain the essential findings and conclusions on which the award is based.
+3.  After Windstream receives Notice that you have commenced arbitration, it will reimburse you for your payment of the filing fee, unless your claim is for greater than $75,000. The arbitration will be governed by the JAMS Comprehensive Arbitration Rules and Procedures ("JAMS Rules"), as modified by this Agreement, and will be administered by JAMS. The JAMS Rules are available online at www.jamsadr.org, by calling JAMS at 1-800-352-5267(JAMS). The arbitrator is bound by the terms of this Agreement. All issues are for the arbitrator to decide, except that issues relating to the scope and enforceability of the arbitration provision are for the court to decide. Unless Windstream and you agree otherwise, any arbitration hearings will take place in the county (or parish) of your billing address. If your claim is for $10,000 or less, we agree that you may choose whether the arbitration will be conducted solely on the basis of documents submitted to the arbitrator, through a telephonic hearing, or by an in-person hearing as established by the JAMS Rules. If your claim exceeds $10,000, the right to a hearing will be determined by the JAMS Rules. Regardless of the manner in which the arbitration is conducted, the arbitrator shall issue a reasoned written decision sufficient to explain the essential findings and conclusions on which the award is based.
 4.  For any non-frivolous claim that does not exceed $75,000, Windstream will pay all JAMS filing, administration and arbitrator fees for any arbitration initiated in accordance with the notice requirements above. If, however, the arbitrator finds that either the substance of your claim or the relief sought in the Demand is frivolous or brought for an improper purpose (as measured by the standards set forth in Federal Rule of Civil Procedure 11(b)), then the payment of all such fees will be governed by the JAMS Rules. In such case, you agree to reimburse Windstream for all monies previously disbursed by it that are otherwise your obligation to pay under the JAMS Rules. In addition, if you initiate an arbitration in which you seek more than $75,000 in damages, the payment of these fees will be governed by the JAMS rules. You will be entitled to attorneys’ fees from Windstream to at least the extent as you would be in court. If Windstream initiates the arbitration, it will pay those costs regardless of the amount of its claim.
 5.  If, after finding in your favor in any respect on the merits of your claim, the arbitrator issues you an award that is greater than the value of Windstream’s last written settlement offer made before an arbitrator was selected, then Windstream shall pay the greater of the award or $5,000 ("the alternative payment"), whichever is greater. If Windstream did not make a written offer to settle the dispute, you will be entitled to receive this alternative payment if the arbitrator awards you any relief on the merits. If you are still a current customer of Windstream when the arbitrator’s award is issued, then Windstream, in its sole discretion, can pay the alternative payment by issuing a credit for services on the Customer’s account.
 6.  If you are entitled to the alternative payment, then Windstream will also pay your attorney, if any, the amount of attorneys' fees, and reimburse any reasonable expenses, that your attorney reasonably accrues for investigating, preparing, and pursuing your claim in arbitration ("the attorney premium"). If you are not entitled to this attorney premium, Windstream will reimburse for reasonable attorneys’ fees and reasonable expenses if it is required to do so under applicable law. However, you may not receive both the attorney premium and an award of attorneys’ fees under a statute.
@@ -260,7 +331,7 @@ You acknowledge that you are responsible for all use of the Service, by your acc
 
 21. Emergency/Critical Lines.
 
-**CUSTOMER ACKNOWLEDGES THAT CERTAIN SERVICES MAY NOT PROVIDE ACCESS TO 911, OR TRANSMIT THE LOCATION OR EXTENSION, IF CUSTOMER ATTEMPTS TO ACCESS 911 IN AN EMERGENCY.** If your voice Services are provided via an internet connection (e.g. voice over Internet protocol (VoIP), Centrex, and private branch exchange), the Services are different from traditional voice services and require both electrical power and broadband function. The Services will not function if power is lost, if there is a disruption to the broadband connection, if the network is congested, or if your account has been suspended. You expressly acknowledge that in such instances You or anyone using Your Services will not be able to place or receive calls including calls to emergency 911 services and that communications between a home security system and home security monitoring service will not function. Windstream strongly recommends you maintain an alternative means of accessing 911 Services and that you purchase a battery backup for use with your Services during power outages, more information can be found on windstream.com.
+**CUSTOMER ACKNOWLEDGES THAT CERTAIN SERVICES MAY NOT PROVIDE ACCESS TO 911, OR TRANSMIT THE LOCATION OR EXTENSION, IF CUSTOMER ATTEMPTS TO ACCESS 911 IN AN EMERGENCY.** If your voice Services are provided via an internet connection (e.g. voice over Internet protocol (VoIP), Centrex, and private branch exchange), the Services are different from traditional voice services and require both electrical power and broadband function. The Services will not function if power is lost, if there is a disruption to the broadband connection, if the network is congested, or if your account has been suspended. You expressly acknowledge that in such instances You or anyone using Your Services will not be able to place or receive calls including calls to emergency 911 services and that communications between a home security system and home security monitoring service will not function. Windstream strongly recommends you maintain an alternative means of accessing 911 Services and that you purchase a battery backup for use with your Services during power outages, more information can be found on windstream.com.
 
 22. Changes to these Terms and Conditions.
 
@@ -288,8 +359,7 @@ Product Descriptions, generally, can be found at https://www.windstream.com. So
 *   **DISH Network Services.** All prices, packages, and programming are subject to change without notice including, without limitation, any term commitment to which you have agreed. All DISH Network programming and any other services that are provided by DISH Network are subject to the terms and conditions of the Promotional Agreement and Residential Customer Agreement, which are available online at www.dish.com or upon request. Some promotions may require minimum programming. Certain promotions have an optional or mandatory term commitment period, and if you cancel your Services prior to the optional or mandatory term commitment period, certain termination or cancellation fees may apply. Hardware and programming are sold separately.
 *   **Domain Renewals.** New registrations with Windstream are free for 1 year, and then renewals are billed to the customer in 1-, 3-, or 5-year increments.
 *   **Fax to Email.** You must have an email address to Send/Receive faxes via this Service, but email is not included with this Service. If you exceed your page limit per month, a minimum per page charge will apply. Overages are billed at $0.10/per page.
-*   **High-Speed Internet.** High-Speed Internet Service is subject to the Broadband Network Statement. Customers must agree to all terms of service prior to installing and using this Service. Speeds are distance sensitive, and availability by address varies. Customers that subscribe to speeds over 25 Mbps may receive services provisioned in a range, including a minimum speed and a maximum speed.  The exact speed range is disclosed at the time of sale. We strive to provision the line up to the maximum speed required to support the qualified and subscribed Service, but actual speed and performance may vary based on factors such as the condition of wiring inside a specific location. customer proximity to equipment supporting the service. computer configuration. network or Internet congestion, particularly during peak hours very generally defined as 7p.m. – 11p.m. weeknights (peak hours may vary depending on the customer location). number of users attempting to use or using the High-Speed Internet Service at the same time. and the server speed of the websites accessed availability. We cannot guarantee speeds or uninterrupted error-free Service.
-    
+*   **High-Speed Internet.** High-Speed Internet Service is subject to the Broadband Network Statement. Customers must agree to all terms of service prior to installing and using this Service. Speeds are distance sensitive, and availability by address varies. Customers that subscribe to speeds over 25 Mbps may receive services provisioned in a range, including a minimum speed and a maximum speed. The exact speed range is disclosed at the time of sale. We strive to provision the line up to the maximum speed required to support the qualified and subscribed Service, but actual speed and performance may vary based on factors such as the condition of wiring inside a specific location. customer proximity to equipment supporting the service. computer configuration. network or Internet congestion, particularly during peak hours very generally defined as 7p.m. – 11p.m. weeknights (peak hours may vary depending on the customer location). number of users attempting to use or using the High-Speed Internet Service at the same time. and the server speed of the websites accessed availability. We cannot guarantee speeds or uninterrupted error-free Service.
 *   **Enhanced, Premium and Ultra Premium Internet.** Enhanced, Premium and Ultra Premium Internet Services are available in speed tiers, with the high-end range of a tier representing the anticipated maximum speed capabilities. Customers receiving these Services should experience speeds within the speed tier selected.
 *   **Hulu Plus Services.** All Hulu Plus Services and any other services provided by Hulu are subject to the Hulu Terms of Use, which are available online at: www.hulu.com . Certain promotions have an optional or mandatory term commitment period. If you cancel your Services prior to the optional or mandatory term-commitment period, then certain termination or cancellation fees may apply. If the Hulu Plus membership is not cancelled at the end of the promotional period, then you authorize Hulu Plus to charge you each month for the membership fees, plus taxes, until you cancel the membership.
 *   **Identity Protection.** Windstream partners with a third-party vendor to provide this Service. As a result of this, you may be required to accept certain terms and conditions of the Service as required by the third-party. Windstream reserves the right to alter the Service in any way including, but not limited to, changing the third-party provider of the Service or discontinuing this Service at any time .
@@ -537,103 +607,107 @@ The 1984 Cable Act, as amended by the 1992 Cable Act, was enacted by the U.S. Co
 
 This federal theft-of-service law supplements any existing state or local laws. The federal law prohibits the interception or receipt of any communication service over a cable system, unless authorized by the operator. This includes the theft of audio, video, textual, data or other service, including data transmitted to or from a subscriber over a system that has interactive capability. Further, the law pertains to both the manufacturers and distributors of equipment, as well as individuals. The Cable Act provides a cable operator the right to seek substantial monetary damages with regard to theft of its cable services. In addition, violators may face substantial fines or imprisonment if found guilty of criminal charges. Congress has taken the foregoing actions because it believes that theft of cable service poses a major threat to the economic viability of cable operators and cable program suppliers, and it creates unfair burdens on cable subscribers who are forced to subsidize the benefits that other individuals are getting by receiving cable service without paying for it. Also, tampering with cable lines often causes reception problems for paying customers. Therefore, if a customer is aware of persons receiving unauthorized cable service, please call us confidentially. We will follow up to ensure that their cable TV service reception is not affected by someone else's tampering.
 
-_close_ Discover the Services We Can Bring to You
+close See what Kinetic products are available to you
 
-Existing customer?
+Enter your address to review products and pricing available in your area.
 
-Sign in to use your current address.
+See Products &. Pricing
 
-Sign in
+Already a customer? Sign in
 
-Forgot Username or Password?
+Sorry, we can't seem to find that address.
 
-New to Windstream?
+Please enter your address below so we can show you all of the best deals in your area.
 
-Enter your address to see everything we have to offer you.
+State
 
-Street Address
+*   AL
+*   AZ
+*   AR
+*   FL
+*   GA
+*   IA
+*   KS
+*   KY
+*   MI
+*   MN
+*   MS
+*   MO
+*   NE
+*   NM
+*   NY
+*   NC
+*   OH
+*   OK
+*   PA
+*   SC
+*   TX
 
-Unit (optional) Zip Code Use This Address
+Check Availability
 
-Need assistance? Call 1-866-819-1239 or Chat Now.
+Need help?  
+Call 1-866-819-12391-866-819-1239 or Chat Now.
 
-Discover the Services We Can Bring to You
+It looks like Windstream isn't available for this address.
 
-Please enter your address to see services available in your area
+Contact us now to find out if you're located in one of our service areas.
 
-Please try again.
+Chat With Agent Now Call 1-866-819-1239
 
-Please try again, or continue with this address
+Enter your address again or view other carriers in your area
 
-Street Address Unit # (optional) State StateALAZARFLGAIAKSKYMIMNMSMONENMNYNCOHOKPASCTX City City Zip Code Use This Address
+Do we have this right?
 
-Need assistance? Call 1-866-819-1239 or Chat Now.
+Pick the correct address from this list to see the best deals available , or use that address.
 
-Sorry, we're having trouble locating
+Submit Change Address Change Address
 
-To ensure you're in a Windstream service area, please speak to one of our representatives.
+Need help?  
+Call 1-866-819-12391-866-819-1239 or Chat Now.
 
-1-866-819-1239
-
-or Chat Now.
-
-You can also enter your address again or view other carriers in your area.
-
-Sorry, we're having trouble locating
-
-Continue with this address
-
-We found these potential matches. Is one of them yours?
-
-Use This Address
-
-Want to make a change?
-
-Try Again
-
-Want to make a change?
-
-Try Again
-
-Need assistance? Call 1-866-819-1239 or Chat Now.
-
-Products▼
+EXPLORE
 
 *   Internet
-*   TV
+*   TV &. Entertainment
 *   Phone
 *   Available Services
 
-Learn▼
+RESOURCES
 
 *   Support
-*   Looking for some help?
 *   Store Finder
 *   Windstream Blog
 *   Windstream.net
+*   Move My Service
 
-Company▼
+COMPANY
 
-*   Windstream Overview
+*   About Us
 *   Careers
 *   Investor Relations
 *   News
-*   Privacy Policy
-*   Terms &. Conditions
 *   Offer Conditions
-*   Legal Notices
 *   Broadband Network Statement
 *   Suppliers
+*   Law Enforcement Support Center
 
 WINDSTREAM
 
-Kinetic by Windstream provides services to residential and business customers in 18 states focused on providing local connectivity and entertainment.  The Kinetic suite of services including high-speed Internet, streaming TV, phone and security products for homes.  In addition, Kinetic Business by Windstream provides networking, communications and technology solutions including Internet, unified communications, cloud, security and business TV services to small and medium-sized businesses.  
+*   Residential
+*   Business
+*   Enterprise
 
-Residential Business Enterprise FIND US ON Twitter Facebook
+CONTACT US
 
-Copyright © 2019 Windstream Communications. All rights reserved.
+*   Call to order 1-866-445-8084
+*   Contact Us
 
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1819151935020592&amp;ev=PageView&amp;noscript=1">. Windstream Virtual Agent Wendy:   
+CONTACT US
+
+*   Call now to order 1-866-445-8084
+*   Contact Us
+
+© 2019 Windstream Communications. All rights reserved. Privacy Policy   |   Terms &. Conditions   |   Legal Notices <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1819151935020592&amp;ev=PageView&amp;noscript=1">. Windstream Virtual Agent Wendy:   
 Hello, I am Wendy, Windstream’s Virtual Agent. What can I help you with?  
 Service Availability  
 Plan Pricing  
