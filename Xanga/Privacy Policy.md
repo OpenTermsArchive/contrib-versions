@@ -8,6 +8,12 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Old xanga recovered
+    *   by anarchy\_animeGirl
+    *   3 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Retrieve arhieves
     *   by jayu1121
     *   2 weeks ago
@@ -82,20 +88,14 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Tribal Proxy
     *   by pet\_rescuers
-    *   2 months ago
+    *   3 months ago
     *   in Emails
     *   0 votes
     *   0
 *   Tribal Proxy
     *   by pet\_rescuers
-    *   2 months ago
-    *   in Emails
-    *   0 votes
-    *   0
-*   Recover Old Xanga
-    *   by JRA3141
     *   3 months ago
-    *   in Passwords &. Sign-In
+    *   in Emails
     *   0 votes
     *   0
 
