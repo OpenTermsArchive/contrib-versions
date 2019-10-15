@@ -1,6 +1,4 @@
-Privacy Policy
-
-Privacy Policy for Flattr
+Privacy Policy Privacy Policy for Flattr
 
 Privacy Notice (short version)  
 Privacy Policy (long version)  
