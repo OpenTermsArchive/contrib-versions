@@ -1,13 +1,3 @@
-Announcement: We are excited to announce the newest addition to the community: macOS Catalina
-
-If you have a question or know a thing or two about macOS Catalina, we want to hear from you.
-
-Read announcement Hide announcement
-
-We are excited to announce the newest addition to the community: macOS Catalina
-
-If you have a question or know a thing or two about macOS Catalina, we want to hear from you.
-
 Apple Support Communities Use Agreement
 
 **Apple Support Communities Use Agreement**
