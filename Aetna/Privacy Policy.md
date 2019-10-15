@@ -59,7 +59,6 @@ For members For members
 *   Log in
 *   Register
 *   Contact
-*   Shop for plans
 *   Find a doctor
 *   For employers
 *   For providers
@@ -425,7 +424,7 @@ Privacy statement update: 9/19/17
 
 Copyright © 2019 Aetna Inc.
 
-*   *   For language services, please call the number on your member ID card and request an operator.  For other language services:  Español | 中文 | Tiếng Việt | 한국어 | Tagalog | Pусский | العربية | Kreyòl | Français | Polski | Português | Italiano | Deutsch | 日本語 | فارسی | Other Languages…
+*   *   For language services, please call the number on your member ID card and request an operator. For other language services: Español | 中文 | Tiếng Việt |한국어 |Tagalog | Pусский | العربية | Kreyòl | Français | Polski | Português | Italiano |Deutsch |日本語 |فارسی | Other languages ...
 
 JavaScript is required
 
