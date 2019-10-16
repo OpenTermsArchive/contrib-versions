@@ -1,4 +1,4 @@
-_If you don't live in the European Region, WhatsApp Inc. provides WhatsApp to you under this Terms of Service and Privacy Policy._
+_If you live in the European Region, WhatsApp Ireland Limited provides WhatsApp to you under this Terms of Service and Privacy Policy._
 
 Key Updates
 
