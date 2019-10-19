@@ -1,5 +1,7 @@
 **Effective Date: May 25, 2018 – What’s New >>**
 
+**In the event of a conflict, the English language version shall govern.**
+
 **Return to Privacy Center**
 
 Introduction
@@ -330,5 +332,3 @@ GLOSSARY
 *   **Evernote Software** means the software hosted on Evernote’s servers and the software we make available to be deployed by you or a third party to enable capturing of Content originating outside the Service, such as Evernote Scannable or Evernote Web Clipper or any of the Evernote software applications for compatible computing devices that enable access and use of the Service through such device
 *   **Group Companies** means Evernote Corporation and its wholly owned subsidiaries, which include Evernote GmbH and Evernote do Brasil Serviços de Aplicaçōes Ltda.
 *   **Paid Service** means Evernote Plus, Evernote Premium, Evernote Business, and any other Evernote offering for which we collect payment (in the form of currency, Evernote points, coupon codes).
-
-In the event of a conflict, the English language version shall govern.
