@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Old xanga recovered
     *   by anarchy\_animeGirl
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -82,7 +82,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   How to access old blog?
     *   by Boicrazy000
-    *   2 months ago
+    *   3 months ago
     *   in Usernames
     *   0 votes
     *   0
