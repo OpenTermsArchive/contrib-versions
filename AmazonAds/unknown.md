@@ -10,6 +10,6 @@ Advertisers or ad companies working on their behalf sometimes use technology to 
 
 Advertising Preferences
 
-Amazon offers you choices about receiving interest-based ads from us. You can choose not to receive interest-based ads from Amazon. You will still receive ads but they will not be personalized. Please visit Advertising PreferencesAdvertising Preferences to learn how to set this preference.
+Amazon offers you choices about receiving interest-based ads from us. You can choose not to receive interest-based ads from Amazon. You will still receive ads but they will not be personalized. Please visit Advertising Preferences to learn how to set this preference.
 
 You can also generally opt out of receiving personalized ads from third party advertisers and ad networks who are members of the Network Advertising Initiative (NAI) or who follow the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt out pages on the NAI website and DAA website.
