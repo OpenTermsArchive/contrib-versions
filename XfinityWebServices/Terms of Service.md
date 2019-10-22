@@ -1,6 +1,6 @@
 Terms of Service |  Web Terms of Service |  Software License |  Residential Services Policies |  Report Abuse to Comcast |  Terms for Feedback |  Open Source Software |  Purchased Content Terms and Conditions
 
-Web Services Terms of Service Archive (Previous Versions) Web Services Terms of Service Revised and Effective: May 17, 2018 1. About the Web Services Terms of Service and Comcast Web Services
+Web Services Terms of Service Archive (Previous Versions) Web Services Terms of Service Revised and Effective: October 31, 2019 1. About the Web Services Terms of Service and Comcast Web Services
 
 Within these Web Services Terms of Service ("**Terms**") the term "**Comcast**" or "**we**" (and related pronouns) will refer to Comcast Cable Communications Management, LLC, and its respective subsidiaries and affiliates that own and operate websites and Internet services on its behalf. The term "**you**" (and related pronouns) refers to you as a user of Comcast's websites and Internet services described below.
 
@@ -8,7 +8,7 @@ Within these Web Services Terms of Service ("**Terms**") the term "**Comcast**" 
 
 These Terms set forth the terms and conditions through which Comcast will permit you to use these Comcast-owned and operated websites and services:
 
-*   Comcast-branded websites and web services that link to these Terms, such as: comcast.net, tv.xfinity.com, my.xfinity.com, xfinityhomesecurity.com, and internet.xfinity.com, excluding certain co-branded websites and web services provided by third parties through contractual arrangements with Comcast, as further described below ( (the **"Comcast Sites"**);
+*   Comcast-branded websites and web services that link to these Terms, such as: comcast.net, xfinity.com/stream, my.xfinity.com, xfinityhomesecurity.com, and internet.xfinity.com, excluding certain co-branded websites and web services provided by third parties through contractual arrangements with Comcast, as further described below ( (the **"Comcast Sites"**);
     
 *   all mobile applications provided by Comcast that link to these Terms (such as Xfinity Stream, Xfinity Connect, and Xfinity xFi iOS and Android applications) (the **"Comcast Apps"**). and
     
@@ -21,7 +21,7 @@ Your use of any Xfinity - or Comcast-branded - software provided in connection w
 
 What is outside the scope of these Terms?
 
-These Terms **_do not apply_** to your use of any other products or services provided by Comcast such as Xfinity TV, Xfinity Voice, Xfinity Internet, Xfinity Home, or the Xfinity Stream app and tv.xfinity.com to deliver Xfinity TV when used within the residence at which you have an Xfinity TV and Xfinity Internet subscription. If you subscribe to or use one or more of these services (including using the Comcast Web Services to place or receive Xfinity Voice calls), you can see the terms that apply to the residential versions of these services by visiting http://www.comcast.com/Corporate/Customers/Policies/Policies.html.
+These Terms **_do not apply_** to your use of any other products or services provided by Comcast such as Xfinity TV, Xfinity Voice, Xfinity Internet, Xfinity Home, or the Xfinity Stream app and xfinity.com/stream to deliver Xfinity TV when used within the residence at which you have an Xfinity TV and Xfinity Internet subscription. If you subscribe to or use one or more of these services (including using the Comcast Web Services to place or receive Xfinity Voice calls), you can see the terms that apply to the residential versions of these services by visiting http://www.comcast.com/Corporate/Customers/Policies/Policies.html.
 
 Some of the Comcast Web Services contain links to other websites, including websites of third parties who are acting on our behalf as our agents, suppliers, or providers. These other websites are not operated by Comcast and have their own terms of service that you should read before you use them. Other sites that we link to may contain Comcast branding or co-branding, but these non-Comcast websites and resources are provided by parties other than Comcast. Examples of these non-Comcast websites include websites where you are required to log-in using a username and password other than your username and password for the Comcast Web Services, such as the "Jobs" channel and the "Dating" channel on Xfinity.com. These Terms do not apply to those non-Comcast sites. You acknowledge and agree that Comcast is not responsible for (i) the availability of any of these non-Comcast websites or resources, and does not endorse any advertising, products or other materials on or available from these websites or resources, and (ii) for any loss or damage which may be incurred by you as a result of the availability of those websites or resources, or as a result of any reliance placed by you on the completeness, accuracy or existence of any advertising, products or other materials on, or available from, these websites or resources.
 
@@ -67,6 +67,8 @@ If you are an Xfinity Internet customer, you can find the guidelines for accepta
 5\. Your Passwords and Unauthorized Use of Your Account
 
 You are responsible for maintaining the confidentiality of your Comcast Web Services account and its password(s). In addition you are responsible for controlling access to any PCs, mobile devices, gateways, or other end points that you allow to store your password, or on which you enable a "Remember Me" or similar functionality ("**Activated Device**"). Accordingly, you agree that you will be solely responsible to Comcast for all activities that occur under your Comcast Web Services accounts, including the activities of any individual with whom you share your Comcast Web Services account or an Activated Device, and will be responsible for any breach of these Terms caused by these activities. If you become aware of any unauthorized use of your password or of your account, you agree to notify Comcast immediately. To protect your privacy, Comcast recommends logging out of the Comcast Web Services after each visit when you are using a public or shared PC, mobile device, or other end point.
+
+Comcast does not permit credential sharing. You agree that Comcast Web Services account usernames and passwords associated with your account: (i) shall be used only by you and members of your household whose primary residential address is the same as the premises at which your Comcast Web Services account is located. (ii) shall not be shared with any user other than members of your household for any reason (including, but not limited to, for accessing any third party video services and platforms). and (iii) shall be used only on devices used by you or a member of your household primarily at the residential address location of the Comcast Web Services account. You agree you are responsible for maintaining the confidentiality and security of all Comcast Web Services account usernames and passwords associated with your account, including those used by members of your household.
 
 6\. Privacy and Your Personal Information
 
@@ -281,4 +283,4 @@ Comcast is not responsible for deleting or forwarding any email sent to the wron
 
 If Comcast believes in its sole discretion that any subscriber name, account name, or email address (collectively, an "**Identifier**") on the Email Service may be used for, or is being used for, any misleading, fraudulent, or other improper or illegal purpose, Comcast (i) reserves the right to block access to and prevent the use of any of these Identifiers and (ii) may at any time require any customer to change his or her Identifier. In addition, Comcast may at any time reserve any identifiers on the Email Service for its own purposes.
 
-Revised and Effective: May 17, 2018
+Revised and Effective: October 31, 2019
