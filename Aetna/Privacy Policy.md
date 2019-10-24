@@ -30,6 +30,7 @@ Login   Search Individuals Individuals overview Get a quote Get a quote
 *   Vision insurance
 *   Dental coverage
 *   Medicaid
+Get a quote Get a quote
 
 General plan info General plan info
 
@@ -121,12 +122,13 @@ Helpful Links Helpful Links
 Providers Providers overview Working with us Working with us
 
 *   Join the network
-*   Claims, payment &. reimbursement
 *   Precertification
+*   Claims, payment &. reimbursement
 *   Clinical policy bulletins
 *   Utilization management
 *   ICD-10, 5010 &. NPI information
 *   Dispute &. appeal process
+*   Join the network
 
 Products &. programs Products &. programs
 
