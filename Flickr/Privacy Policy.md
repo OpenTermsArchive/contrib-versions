@@ -39,7 +39,7 @@ This page describes our privacy practices with respect to Flickr . For additiona
 **Sharing with Third Parties**
 
 *   You may connect your account to other sites to share your photos directly to other social sharing services and blogs.
-*   You can set a preference that determines whether sharing features (such as Facebook, Twitter, Tumblr, and others) are shown for other people on your public content, which can be accessed through the "Allow Sharing" setting. When your account to these parties, the default setting is to allow sharing, which will give Verizon Media and other users the right to share your public content.
+*   You can set a preference that determines whether sharing features (such as Facebook, Twitter, and others) are shown for other people on your public content, which can be accessed through the "Allow Sharing" setting. When your account to these parties, the default setting is to allow sharing, which will give Verizon Media and other users the right to share your public content.
 *   Your Guest Pass history allows you to manage Guest Passes you have created for sharing your photos with others.
 *   On the desktop Flickr experience, you may give certain Verizon Media and third party apps different levels of permissions to interact with your account, share information and to take advantage of things like photo editing tools. If you want to stop using one of these apps and revoke your permission, click the "Remove Permission" link under “sharing and extending” on your account page and remove that permission.
 
