@@ -412,7 +412,7 @@ Privacy statement update: 9/19/17
 *   *   Plan disclosures
 *   *   Program provisions
 *   *   State directory
-*   *   GRIEVANCE FORMS
+*   *   Grievance forms
 
 *   *   News and analysis
 *   *   Health care reform
