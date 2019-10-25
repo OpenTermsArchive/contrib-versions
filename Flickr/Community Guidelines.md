@@ -1,12 +1,11 @@
 *   Explore
     *   Recent Photos
     *   Trending
-    *   Flickr VR
+    *   Events Beta
     *   The Commons
     *   Flickr Galleries
     *   World Map
     *   Camera Finder
-    *   The Weekly Flickr
     *   Flickr Blog
 *   Create
 *   Get Pro
@@ -17,6 +16,7 @@
 
 *   Explore
 *   Trending
+*   Events Beta
 *   The Commons
 *   Flickr Galleries
 *   Flickr Blog
