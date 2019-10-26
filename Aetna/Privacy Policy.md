@@ -403,27 +403,27 @@ Back to top
 
 Privacy statement update: 9/19/17
 
-*   *   Aetna Apps
-*   *   Careers
+*   *   AETNA APPS
+*   *   CAREERS
 *   *   FAQs
-*   *   Glossary
+*   *   GLOSSARY
 
-*   *   Accessibility services
-*   *   Plan disclosures
-*   *   Program provisions
-*   *   State directory
-*   *   Grievance forms
+*   *   ACCESSIBILITY SERVICES
+*   *   PLAN DISCLOSURES
+*   *   PROGRAM PROVISIONS
+*   *   STATE DIRECTORY
+*   *   GRIEVANCE FORMS
 
-*   *   News and analysis
-*   *   Health care reform
-*   *   Investor info
-*   *   Site map
+*   *   NEWS AND ANALYSIS
+*   *   HEALTH CARE REFORM
+*   *   INVESTOR INFO
+*   *   SITE MAP
 
-*   *   Terms of use
-*   *   Legal notices
-*   *   Privacy center
-*   *   Interest-based ads policy
-*   *   Nondiscrimination notice
+*   *   TERMS OF USE
+*   *   LEGAL NOTICES
+*   *   PRIVACY CENTER
+*   *   INTEREST-BASED ADS POLICY
+*   *   NONDISCRIMINATION NOTICE
 
 Copyright © 2019 Aetna Inc.
 
