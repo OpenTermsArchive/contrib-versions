@@ -150,6 +150,7 @@ These TOU grant you a limited, revocable, nonexclusive license to access our sit
     *   Travel &. Leisure Sites and Services: www.internetbrands.com/ibterms/supplementaltravelleisureterms
     *   Classified Sites and Services:  www.internetbrands.com/ibterms/supplementalclassifiedsterms
     *   Car Related Sites and Services: www.internetbrands.com/ibterms/supplementalcarrelatedterms
+    *   Auto Communities Sites &. Services: www.internetbrands.com/ibterms/supplementalautocommunitiesterms/
 *   16\. Parental Controls.
     
     We have established a privacy policy covering the collection, use, and disclosure of user information, which can be found at www.internetbrands.com/privacy/privacy-main.html .
@@ -219,4 +220,4 @@ These TOU grant you a limited, revocable, nonexclusive license to access our sit
     Any failure by us to enforce or exercise any provision of these TOU, or any related right, will not constitute a waiver of that provision or right.
     
 
-Last updated: August 6, 2018
+Last updated: October 29, 2019
