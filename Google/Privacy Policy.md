@@ -4,7 +4,7 @@ When you use our services, you’re trusting us with your information. We unders
 
 This Privacy Policy is meant to help you understand what information we collect, why we collect it, and how you can update, manage, export, and delete your information.
 
-Effective October 15, 2019 | Archived versions | Download PDFContentsIntroductionInformation Google collectsWhy Google collects dataYour privacy controlsSharing your informationKeeping your information secureExporting &. deleting your informationCompliance &. cooperation with regulatorsAbout this policyRelated privacy practices
+Effective October 15, 2019 | Archived versions | Download PDFContentsIntroductionInformation Google collectsWhy Google collects dataYour privacy controlsSharing your informationKeeping your information secureExporting &. deleting your informationRetaining your informationCompliance &. cooperation with regulatorsAbout this policyRelated privacy practices
 
 We build a range of services that help millions of people daily to explore and interact with the world in new ways. Our services include:
 
