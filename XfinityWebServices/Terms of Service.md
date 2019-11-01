@@ -1,6 +1,6 @@
 Terms of Service |  Web Terms of Service |  Software License |  Residential Services Policies |  Report Abuse to Comcast |  Terms for Feedback |  Open Source Software |  Purchased Content Terms and Conditions
 
-Web Services Terms of Service Archive (Previous Versions) Web Services Terms of Service Revised and Effective: October 31, 2019 1. About the Web Services Terms of Service and Comcast Web Services
+Web Services Terms of Service Archive (Previous Versions) Web Services Terms of Service Revised and Effective: October 21, 2019 1. About the Web Services Terms of Service and Comcast Web Services
 
 Within these Web Services Terms of Service ("**Terms**") the term "**Comcast**" or "**we**" (and related pronouns) will refer to Comcast Cable Communications Management, LLC, and its respective subsidiaries and affiliates that own and operate websites and Internet services on its behalf. The term "**you**" (and related pronouns) refers to you as a user of Comcast's websites and Internet services described below.
 
@@ -283,4 +283,4 @@ Comcast is not responsible for deleting or forwarding any email sent to the wron
 
 If Comcast believes in its sole discretion that any subscriber name, account name, or email address (collectively, an "**Identifier**") on the Email Service may be used for, or is being used for, any misleading, fraudulent, or other improper or illegal purpose, Comcast (i) reserves the right to block access to and prevent the use of any of these Identifiers and (ii) may at any time require any customer to change his or her Identifier. In addition, Comcast may at any time reserve any identifiers on the Email Service for its own purposes.
 
-Revised and Effective: October 31, 2019
+Revised and Effective: October 21, 2019
