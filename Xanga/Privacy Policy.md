@@ -1,3 +1,9 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
@@ -22,13 +28,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   45 (last comment by perchedonstilts 1 month ago)
 *   Archive does not have all blogs
     *   by nevaeh84
-    *   1 month ago
+    *   2 months ago
     *   in Data Migration
     *   0 votes
     *   0
 *   how to get back my old posts?
     *   by MYFEEL\_LING
-    *   1 month ago
+    *   2 months ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
