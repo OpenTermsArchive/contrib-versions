@@ -88,7 +88,7 @@ Additional terms (e.g. code of conduct for group moderators or commenting rules 
 
 The General Terms and Conditions for the use of the XING service and any additional terms for the use of individual applications are hereinafter referred to as **“GTC”**.
 
-The contract is concluded with New Work SE, Dammtorstraße 30, 20354 Hamburg, Germany. Further contact details, commercial register details as well as the name of a person authorised to represent New Work SE can be found in the “About this site” section.
+The contract is concluded with New Work SE, Dammtorstraße 30, 20354 Hamburg, Germany. Further contact details, commercial register details as well as the name of a person authorised to represent New Work SE can be found in the About this site section.
 
    
 1\. Subject and basis for using XING
