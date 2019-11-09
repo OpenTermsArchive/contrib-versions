@@ -1,6 +1,6 @@
 General information
 
-*   Last updated: 21 June 2019
+*   Last updated: 4 November 2019
 *   This Privacy Policy shall apply to the entire service XING and its applications (kununu etc.).
 *   New Work SE is the body responsible for the processing of personal data.
 *   Our Data Protection Officer is Anja Engler.
@@ -395,7 +395,7 @@ We would like to show you content that is tailored to your interests. We show th
   
 You can enable or deactivate this data collection by IBM Watson Automation. We recommend you enable it so we can keep providing you with relevant content and with useful tips and information about XING solutions.
 
-*   Opt in to data collection with IBM Watson Campaign Automation Please note that opting out of cookies is device-specific. This means that if you delete your cookie or use a different computer or web browser, you will need to opt out again.
+*   Opt in to data collection with IBM Watson Campaign Automation Please note that by opting out of data collection, a cookie will be set which saves this setting. If you delete this cookie or use a different device or web browser, you will need to opt out again.
 
 Wingify/VWO
 
@@ -468,7 +468,7 @@ More information is available here
 
 Outbrain
 
-More information is available here
+More information
 
 You can only opt out of the following tracking technologies directly on your end device: Advertising Identifier/ Advertising ID
 
@@ -482,7 +482,7 @@ The objective of audience measurement is to statistically determine the intensit
 
 Tracking technologies used: INFOnline, AGOF, IVW
 
-We use the measurement system (SZMng) developed by INFOnline GmbH (https://www.infonline.de) gather statistics about the use of our websites. The objective of audience measurement is to statistically determine the frequency and intensity of use, the number of users on our websites, and their surfing behaviour based on a standardised process in order to obtain values that can be compared on a market level.  
+We use the measurement system (SZMng) developed by INFOnline GmbH (https://www.infonline.de) to gather statistics about the use of our websites. The objective of audience measurement is to statistically determine the frequency and intensity of use, the number of users on our websites, and their surfing behaviour based on a standardised process in order to obtain values that can be compared on a market level.  
   
 All digital offerings, the operators of which are members of the German Audit Bureau of Circulation (IVW) or which participate in studies organised by Working Group for Online Media Research (AGOF) will have their audience usage statistics processed and published by AGOF and the Arbeitsgemeinschaft Media-Analyse e.V. together with the number of unique users, and also processed and published by the IVW together with the number of page impressions and visits. These reach figures and statistics are provided on the respective websites.
 
