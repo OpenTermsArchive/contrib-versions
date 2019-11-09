@@ -258,8 +258,7 @@ Tumblr, Inc.
 New York, NY 10017  
 **Attn:** Copyright Agent  
 **Fax:** +1 (646) 513-4321  
-**Email:** dmca@tumblr.com  
-**Copyright notice form:**https://www.tumblr.com/dmca
+**Copyright notice form:** https://www.tumblr.com/dmca
 
 21\. Open Source Disclosures
 
