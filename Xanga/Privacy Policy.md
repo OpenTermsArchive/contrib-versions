@@ -13,7 +13,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 years ago
     *   in Data Migration
     *   0 votes
-    *   46 (last comment by s040021 1 hour ago)
+    *   46 (last comment by s040021 1 day ago)
 *   Old xanga recovered
     *   by anarchy\_animeGirl
     *   3 weeks ago
