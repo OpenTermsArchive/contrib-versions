@@ -7,10 +7,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 years ago
     *   in Data Migration
     *   0 votes
-    *   46 (last comment by s040021 4 days ago)
+    *   46 (last comment by s040021 5 days ago)
 *   Old xanga recovered
     *   by anarchy\_animeGirl
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -82,13 +82,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Tribal Proxy
     *   by pet\_rescuers
-    *   3 months ago
+    *   4 months ago
     *   in Emails
     *   0 votes
     *   0
 *   Tribal Proxy
     *   by pet\_rescuers
-    *   3 months ago
+    *   4 months ago
     *   in Emails
     *   0 votes
     *   0
