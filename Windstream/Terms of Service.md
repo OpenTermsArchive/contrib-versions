@@ -659,7 +659,7 @@ Pick the correct address from this list to see the best deals available , or use
 Submit Change Address Change Address
 
 Need help?  
-Call 1-866-819-12391-866-819-1239 or Chat Now.
+Call 1-866-819-1239 or Chat Now.
 
 EXPLORE
 
