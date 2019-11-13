@@ -27,7 +27,3 @@ If you have enabled Backup and Restore on your Fire tablet, it will automaticall
 **Do third party apps have access to Firefly?**
 
 Yes, certain third party apps can access items you identify with Firefly and provide you additional information about the items. In addition, you can choose to send images to certain third party apps for identification of items in the image. To determine which apps have access to Firefly, check the "Key Details" section of the app detail page. Also, in the left panel of your Fire tablet, you can view a list of installed apps that have access to Firefly and, if you wish, disable access to Firefly for individual apps. You also may share items in your Firefly history with social media and other apps by tapping "Share this item" within your Firefly history.
-
-**Can I scan items or barcodes using Echo Show's camera to order products on Amazon.com?**
-
-Yes, try “Alexa, scan this” when holding an item or barcode in front of the Echo Show’s camera. Once the scanned images are processed in the Cloud, Alexa will return search results from Amazon.com on the scanned item or barcode. We may retain scanned images in the Cloud to improve our services. You can delete scanned images stored in the Cloud that are associated with your Amazon account by visiting the Manage Your Content and Devices page at www.amazon.com/mycd.
