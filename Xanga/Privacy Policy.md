@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Delete pictures
     *   by GrafSoul
-    *   2 days ago
+    *   3 days ago
     *   in Pictures
     *   0 votes
     *   0
@@ -88,7 +88,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   How to access old blog?
     *   by Boicrazy000
-    *   3 months ago
+    *   4 months ago
     *   in Usernames
     *   0 votes
     *   0
