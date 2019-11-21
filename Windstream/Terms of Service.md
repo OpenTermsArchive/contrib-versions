@@ -59,6 +59,8 @@ _close_
 *   _keyboard\_arrow\_right_ Back
 *   Hello Jane!
 *   Manage My Account
+*   Referral
+*   Movers
 *   View or Pay My Bill
 *   Check My Email
 *   Sign Out
@@ -675,6 +677,7 @@ RESOURCES
 *   Windstream Blog
 *   Windstream.net
 *   Move My Service
+*   Referral Program
 
 COMPANY
 
@@ -700,12 +703,7 @@ CONTACT US
 
 CONTACT US
 
-*   Call to order 1-866-445-8084
+*   Call now to order 1-866-445-8084
 *   Contact Us
 
-© 2019 Windstream Communications. All rights reserved. Privacy Policy   |   Terms &. Conditions   |   Legal Notices BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy Windstream Virtual Agent Wendy:   
-Hello, I am Wendy, Windstream’s Virtual Agent. What can I help you with?  
-Service Availability  
-Plan Pricing  
-Internet speeds in my area Ask Wendy your question ASK Thanks for helping us improve!  
-Please take a few moments to complete the survey below. Print Email Text Size "" <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1819151935020592&amp;ev=PageView&amp;noscript=1">.
+© 2019 Windstream Communications. All rights reserved. Privacy Policy   |   Terms &. Conditions   |   Legal Notices BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy "" <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1819151935020592&amp;ev=PageView&amp;noscript=1">.
