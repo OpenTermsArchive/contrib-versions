@@ -1,4 +1,6 @@
-Wix.com Privacy Policy Policy last updated: September 9, 2019
+Wix.com Privacy Policy
+
+Policy last updated: September 9, 2019
 
 Welcome to Wix.com’s Privacy Policy!
 
@@ -300,7 +302,7 @@ These technologies are used mostly for stability, security, functionality, perfo
 
 You may block, opt-out of or otherwise manage such tracking technologies by yourself, through your browser settings or other sources – but please note that this may adversely affect the way you experience our services.
 
- 10. Communications from Wix 10.1. Promotional Messages:
+ 10. Communications from Wix10.1. Promotional Messages:
 
 We may use your Personal Information to send you promotional content and messages by e-mail, text messages, direct text messages, marketing calls and similar forms of communication from Wix or our partners (acting on Wix’s behalf) through such means.
 
