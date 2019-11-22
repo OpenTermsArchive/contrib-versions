@@ -4,7 +4,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Delete pictures
     *   by GrafSoul
-    *   4 days ago
+    *   5 days ago
     *   in Pictures
     *   0 votes
     *   0
@@ -13,7 +13,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 years ago
     *   in Data Migration
     *   0 votes
-    *   46 (last comment by s040021 1 week ago)
+    *   46 (last comment by s040021 2 weeks ago)
 *   Old xanga recovered
     *   by anarchy\_animeGirl
     *   1 month ago
