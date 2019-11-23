@@ -1,6 +1,6 @@
 Amazon Device Terms of Use
 
-**Last updated: September 4, 2019**
+**Last updated: November 22, 2019**
 
 This is an agreement between you and Amazon Digital Services LLC (with its affiliates, "Amazon" or "we"). Please read these Amazon Device Terms of Use, the Amazon.com Privacy Notice (https://www.amazon.com/privacy), the Amazon.com Conditions of Use (https://www.amazon.com/conditionsofuse), and the other applicable rules, policies, and terms available at the Amazon.com website, or on or through the Amazon Device or its companion app (collectively, this "Agreement") before using the Amazon Device. By using the Amazon Device, you agree to be bound by the terms of this Agreement. If you do not accept the terms of this Agreement, then you may not use the Amazon Device, and you may return it in accordance with the applicable return policy. You may need your own Amazon.com account to register and use your Amazon Device, and you may be required to be logged in to the account and have a valid payment method associated with it. Your use of any of the Services is subject to any additional rules, policies and terms that apply to those Services.
 
@@ -50,4 +50,4 @@ For the purpose of these Amazon Device Terms of Use:
 
 **f. Disclaimer of Warranties and Limitation of Liability. Without limiting the Disclaimer of Warranties and Limitation of Liability terms in the Amazon.com Conditions of Use, (1) unless otherwise provided by Amazon, your Amazon Device may be subject to a limited warranty, and (2) unless otherwise required by applicable law, in no event will our or our licensors' aggregate liability for any claim arising from or relating to this Agreement or use of your Amazon Device with respect to any claim exceed the greater of fifty dollars ($50.00) and the amount you actually paid for your Amazon Device.**
 
-**g. Contact Information.** For help with your Amazon Device, the Services, Digital Content, Software or resolving other issues, please contact Customer Service at www.amazon.com/contact-us/ (or by email at devicetou-support@amazon.com).
+**g. Contact Information.** For help with your Amazon Device, the Services, Digital Content, Software or resolving other issues, please contact Customer Service at www.amazon.com/contact-us/.
