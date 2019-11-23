@@ -1,4 +1,6 @@
-This Privacy Statement is effective as of May 2018.
+This Privacy Statement is effective as of 31 December 2019.
+
+The previous version of this Statement is available here (PDF, 173 KB).
 
 At IBM we recognize the importance of protecting your personal information and are committed to processing it responsibly and in compliance with applicable data protection laws in all countries in which IBM operates.
 
@@ -46,7 +48,7 @@ International Transfers
 The international footprint of IBM involves a large number of transfers of personal information between different subsidiaries, as well as to third parties located in the countries where we do business. Some countries have implemented transfer restrictions for personal information, in connection with which IBM takes various measures, including:
 
 *   Where required, IBM implements Standard Contractual Clauses approved by the EU Commission, or similar contractual clauses in other jurisdictions. This includes transfers to suppliers or other third parties. You can request a copy of the EU Standard Contractual Clauses here.
-*   IBM certified to the APEC Cross Border Privacy Rules.
+*   IBM complies with the APEC Cross Border Privacy Rules (CBPR) system.
 *   IBM certified to the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks. More information can be found here.
 
 Back to top
@@ -65,7 +67,7 @@ How to contact us
 
 If you have a question related to this Privacy Statement, please contact us by using this form. Your message will be forwarded to the appropriate member of IBM's Data Privacy Team, such as Data Protection Officers or members of their teams.
 
-For the purposes of the EU General Data Protection Regulation (GDPR), the controller of your personal information is International Business Machines Corporation (IBM Corp.), 1 New Orchard Road, Armonk, New York, United States, unless indicated otherwise. Where IBM Corp. or a subsidiary it controls (not established in the European Economic Area (EEA)) is required to appoint a legal representative in the EEA, the representative for all such cases is IBM United Kingdom Limited, PO Box 41, North Harbour, Portsmouth, Hampshire, United Kingdom PO6 3AU.
+For the purposes of the EU General Data Protection Regulation (GDPR), the controller of your personal information is International Business Machines Corporation (IBM Corp.), 1 New Orchard Road, Armonk, New York, United States, unless indicated otherwise. Where IBM Corp. or a subsidiary it controls (not established in the European Economic Area (EEA)) is required to appoint a legal representative in the EEA, the representative for all such cases is IBM International Group B.V., Johan Huizingalaan 765, 1066 VH Amsterdam, The Netherlands.
 
 IBM Corp. is not the controller in situations such as:
 
@@ -74,7 +76,7 @@ IBM Corp. is not the controller in situations such as:
 
 Your Rights
 
-You can request to access, update or correct your personal information. You also have the right to object to direct marketing. You can access the request process here.
+You can request to access, update, delete or correct your personal information. You also have the right to object to direct marketing. You can access the request process here.
 
 You may have additional rights pursuant to your local law applicable to the processing. For example, if the processing of your personal information is subject to the EU General Data Protection Regulation ("GDPR"), and your personal information is processed based on legitimate interests, you have the right to object to the processing on grounds relating to your specific situation. Under GDPR you may also have the right to request to have your personal information deleted or restricted and ask for portability of your personal information.
 
@@ -87,7 +89,7 @@ In the event you consider our processing of your personal information not to be 
 
 Changes to our Privacy Statements
 
-From time to time we may update this Privacy Statement, as well as any other specific privacy statement. When making changes to this Privacy Statement, we will add a new date at the top of this Privacy Statement.
+We may update this Privacy Statement from time to time to reflect changes to our data governance practices. The revised Privacy Statement will be posted here with an updated revision date. We encourage you to check back periodically for any changes or updates. If we make a material change to our Privacy Statement, we will post a notice at the top of this page for 30 days. By continuing to use our websites after such revision takes effect we consider that you have read and understand the changes.
 
 Back to top
 
@@ -97,9 +99,9 @@ Questions about this Statement or about IBM's handling of your information may b
 
 IBM Web site coordinator, or
 
-**IBM's Corporate Privacy Office**  
+**IBM's Chief Privacy Office**  
 1 New Orchard Road  
-Armonk, NY 10540  
+Armonk, NY 10504  
 U.S.A.
 
 If you do not want to receive future marketing communications from IBM, including subscriptions, please send an email to NETSUPP@us.ibm.com.
