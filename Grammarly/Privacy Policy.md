@@ -228,26 +228,27 @@ Grammarly, Inc.
 548 Market Street, #35410  
 San Francisco, CA 94104
 
-ProductsGrammarly for MS Office  
+ProductPlans  
 Grammarly Premium  
-Grammarly Native Apps  
+Grammarly Business  
+Grammarly @edu  
+Grammarly Desktop Apps  
 The Grammarly Keyboard  
+Grammarly for MS Office  
 CompanyAbout  
-Affiliate  
 Careers &. Culture  
 Blog  
 Press  
+Affiliate  
 Contact Us  
-Premium  
+FeaturesProduct Feature News  
+Tone Detector  
+Grammar Checker  
+Plagiarism Checker  
 SupportHelp Center  
 Privacy Policy  
 Terms of Service  
 Security  
-ServicesGrammarly EDU  
-Grammarly Business  
-Handbook  
-Grammar Checker  
-Plagiarism Checker  
 CommunityFacebook  
 Instagram  
 Twitter  
