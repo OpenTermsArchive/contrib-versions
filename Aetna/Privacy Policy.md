@@ -567,4 +567,8 @@ Read more Read less Continue Login
 
 Please log in to your secure account to get what you need.
 
+Read more Read less Continue You are now leaving the Aetna Medicare website.
+
+The information you will be accessing is provided by another organization or vendor. If you do not intend to leave our site, close this message.
+
 Read more Read less Continue <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=611745802299683&ev=PageView&noscript=1" />.
