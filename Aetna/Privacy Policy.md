@@ -400,36 +400,21 @@ Welcome to Aetna’s web and mobile experience.  This Aetna Web &. Mobile Priva
 
 As you navigate our Applications and communicate with Aetna (sometimes referred to as “we” “us” or “our”) via the Applications, we may ask you to disclose certain information so that we can provide you with the highest quality information and services. In order for you to make an informed decision about whether to disclose your information to us via the Applications, we are providing you with the following information about how we collect and use your information.
 
-*   What does this statement cover?
-*   What types of information do we collect?
-*   How do we acquire and use personal information?
-*   How do we acquire and use non-personally identifiable information?
-*   How do we protect your information?
-*   Behavioral advertising
-*   Cross device linking and advertising
-*   Your email
-*   Linking to other websites and applications
-*   Changes to Aetna’s privacy statement
-
 Read More Read Less What does this statement cover?
 
 This Privacy Statement describes our practices in connection with information we collect through Applications that contain a link to this Privacy Statement.
 
-We are not responsible for the privacy practices of any third party service providers (such as Internet Service Providers (“ISPs”) or cloud service providers) or other third parties operating websites or applications to which the Applications link.  The inclusion of a link on an Aetna Application does not imply that Aetna endorses, or otherwise monitors the privacy practices of that linked third party website or application.
+We are not responsible for the privacy practices of any third party service providers (such as Internet Service Providers (“ISPs”) or cloud service providers) or other third parties operating websites or applications to which the Applications link.  The inclusion of a link on an Aetna Application does not imply that Aetna endorses, or otherwise monitors the privacy practices of that linked third party website or application.
 
-Back to top
-
-Read More Read Less What types of information do we collect?
+What types of information do we collect?
 
 We may collect two basic types of information: Personal Information and Non-Personally Identifiable Information.
 
 By “Personal Information,” we mean data that is unique to an individual, such as a name, address, social security number, e-mail address, telephone number, and certain personal device information, as described below.
 
-By “Non-Personally-Identifiable Information,” we mean information that does not identify you personally, but can provide us with usage data, either individually or in the aggregate. Non-Personally Identifiable Information may include demographic information, aggregated information, certain information collected automatically through your device such as web browser information, server log files, cookie technology, pixel tags or beacons, and other technologies, and other non-personally identifiable information collected by us or provided by you.
+By “Non-Personally-Identifiable Information,” we mean information that does not identify you personally, but can provide us with usage data, either individually or in the aggregate. Non-Personally Identifiable Information may include demographic information, aggregated information, certain information collected automatically through your device such as web browser information, server log files, cookie technology, pixel tags or beacons, and other technologies, and other non-personally identifiable information collected by us or provided by you.
 
-Back to top
-
-Read More Read Less How do we acquire and use personal information?
+How do we acquire and use personal information?
 
 We acquire Personal Information when you voluntarily register or create a personal profile with us, or request products, services, or information from us. 
 
@@ -455,9 +440,7 @@ We may transmit or disclose your Personal Information to third parties for the f
 
 This Application will not knowingly collect personally-identifiable information from minors under the age of thirteen (13) without their parents’ consent.
 
-Back to top
-
-Read More Read Less How do we acquire and use non-personally identifiable information?
+How do we acquire and use non-personally identifiable information?
 
 When you visit or use our Applications, we collect certain Non-Personally-Identifiable Information and aggregate information about you. This data helps us to analyze and improve the usefulness of the information and services we provide through our Applications. Because Non-Personally Identifiable Information does not personally identify you, we may use and disclose such information for any purpose permitted by law, including: 
 
@@ -467,23 +450,17 @@ When you visit or use our Applications, we collect certain Non-Personally-Identi
 *   Tracking pixels or beacons. These techniques use electronic files to track your navigation of our Applications, your completion of transactions and other browsing behavior.
 *   IP Address: When you subscribe to an Internet Service Provider (ISP), your computing device is assigned an IP Address. We may track and store this address to help us manage security, monitor usage volume and patterns, and to customize experience and content when you use our Applications.
 
-Back to top
+How do we protect your information?
 
-Read More Read Less How do we protect your information?
+The security, integrity, and confidentiality of your information are extremely important to us.  We have implemented technical, administrative and physical security measures that are designed to protect your information from unauthorized access, disclosure, use and modification.  We regularly review our security practices to consider appropriate new technology and methods.  We also periodically subject our Applications to simulated intrusion tests and have developed comprehensive disaster recovery plans. However, please be aware that despite our best efforts, no security measures are perfect or impenetrable.
 
-The security, integrity, and confidentiality of your information are extremely important to us.  We have implemented technical, administrative and physical security measures that are designed to protect your information from unauthorized access, disclosure, use and modification.  We regularly review our security practices to consider appropriate new technology and methods.  We also periodically subject our Applications to simulated intrusion tests and have developedcomprehensive disaster recovery plans. However, please be aware that despite our best efforts, no security measures are perfect or impenetrable.
-
-Back to top
-
-Read More Read Less Behavioral advertising
+Behavioral advertising
 
 Aetna does not serve third-party advertising on its Applications. However, we do engage online advertising service providers to serve ads on other sites, based on web pages you may have visited or your search engine activity. For more information or to opt out of interest-based ads, please review our interest-based ads policy. Currently, our Applications do not respond to “Do Not Track” signals from browsers.
 
 See our interest-based ads policy
 
-Back to top
-
-Read More Read Less Cross device linking and advertising
+Cross device linking and advertising
 
 Aetna’s third-party service provider, Neustar, uses a variety of technologies to assess how our sites or mobile applications are used, to help us personalize your experience and to help us deliver advertising, including online content, tailored to your interests.
 
@@ -491,39 +468,27 @@ Our service provider may also create and store linkages between and among househ
 
 Our service provider will honor your preferences regarding cross device linking.  You can opt out of cross device linking on our service provider’s website.  
 
-Opt out of Neustar cross device linking and advertising 
+Opt out of Neustar cross device linking and advertising
 
-Back to top
-
-Read More Read Less Your email
+Your email
 
 We welcome your comments or questions about our Applications and have provided email boxes for that purpose. We will share your comments and questions with our customer service representatives and those employees most capable of addressing your questions and concerns.
 
 Please note that your email, like most, if not all, non-encrypted Internet email communications, may be accessed and viewed by other Internet users, without your knowledge and permission, while in transit to us. For that reason, to protect your privacy, please do not use email to communicate information to us that you consider confidential. If you wish, you may contact us instead via telephone at the numbers provided at various locations on our Applications or, in the case of our health plan members, at the Member Services toll-free number that appears on your ID card.
 
-There are some locations on our Applications where we have made special provisions for a moresecure environment in which we can exchange information with you. At each of these locations, we will provide you with appropriate instructions.
+There are some locations on our Applications where we have made special provisions for a more secure environment in which we can exchange information with you. At each of these locations, we will provide you with appropriate instructions.
 
-Back to top
-
-Read More Read Less Linking to other websites and applications
+Linking to other websites and applications
 
 From time to time, our Applications may provide links to other websites or applications, not owned or controlled by Aetna, that we think might be useful or of interest to you. We cannot, however, be responsible for the privacy practices used by other website owners or the content or accuracy of those other websites. Links to various non-Aetna websites or applications do not constitute or imply endorsement by Aetna of these websites or applications, any products or services described on these sites, or of any other material contained in them.
 
 We may also provide links to other websites or mobile applications that are controlled by an Aetna-owned company, but that operate independently of the Applications. Privacy policies applicable to those sites and applications will appear on those sites and applications and may differ from this Aetna Privacy Statement.
 
-Back to top
-
-Read More Read Less Changes to Aetna’s privacy statement
+Changes to Aetna’s privacy statement
 
 Aetna may change this Privacy Statement from time to time. when updates are made, the version date (located at the bottom of this Privacy Statement) will also be updated to reflect that a revision occurred. We encourage you to periodically reread this Privacy Statement to see if there have been any changes that may affect you. This Privacy Statement is not intended to and does not create any contractual or other legal rights in or on behalf of any party.
 
-Back to top
-
-Read More Read Less
-
 Privacy statement update: 9/19/17
-
-Read More Read Less
 
 *   instagram
 *   Facebook
