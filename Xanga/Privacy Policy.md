@@ -1,3 +1,9 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
@@ -22,10 +28,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Retrieve arhieves
     *   by jayu1121
-    *   1 month ago
+    *   2 months ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by perchedonstilts 1 month ago)
+    *   1 (last comment by perchedonstilts 2 months ago)
 *   Archive does not have all blogs
     *   by nevaeh84
     *   2 months ago
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
