@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Delete pictures
     *   by GrafSoul
-    *   1 week ago
+    *   2 weeks ago
     *   in Pictures
     *   0 votes
     *   0
