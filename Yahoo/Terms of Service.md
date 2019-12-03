@@ -270,7 +270,7 @@ Europe, Middle East and Africa
     
     1.  _Defined Terms_
         
-        1.  Applicable Verizon Media Entity: Oath Hispanic Americas LLC (Address: 1921 NW 87 Avenue, Doral, FL 33172, USA)
+        1.  Applicable Verizon Media Entity: Verizon Media Hispanic Americas LLC (Address: 1921 NW 87 Avenue, Doral, FL 33172, USA)
             
         2.  Minimum Age: 13 years old
             
@@ -346,7 +346,7 @@ Europe, Middle East and Africa
     
     1.  _Defined Terms_
         
-        1.  Applicable Verizon Media Entity: Oath (Canada) Corp. (Address: 99 Spadina Avenue, Suite 200, Toronto, Ontario M5V 3P8).
+        1.  Applicable Verizon Media Entity: Verizon Media Canada Corp. (Address: 99 Spadina Avenue, Suite 200, Toronto, Ontario M5V 3P8).
             
         2.  Minimum Age: Legal Age to form a binding contract in your province or territory of residence.
             
@@ -583,4 +583,4 @@ Europe, Middle East and Africa
     14.  Additional terms for German users can be found here.
         
 
-_Last updated: October 2019_
+_Last updated: December 2019_
