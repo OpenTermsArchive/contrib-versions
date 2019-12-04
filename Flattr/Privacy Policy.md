@@ -148,7 +148,7 @@ Contact our Data Protection Officer
 
 If you have any questions regarding your personal data, please contact our Data Protection Officer:
 
-Johanna Hagemeier  
+Dr. Judith Nink  
 **Phone**: +49 (0) 221 / 65028 598  
 **Email**: privacy {@} flattr.com  
 **Fax**: +49 (0) 221 / 65028 599
