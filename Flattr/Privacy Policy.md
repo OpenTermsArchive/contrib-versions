@@ -149,9 +149,9 @@ Contact our Data Protection Officer
 If you have any questions regarding your personal data, please contact our Data Protection Officer:
 
 Dr. Judith Nink  
-**Phone**: +49 (0) 221 / 65028 598  
+**Phone**: +49 (0) 221 / 6430630  
 **Email**: privacy {@} flattr.com  
-**Fax**: +49 (0) 221 / 65028 599
+**Fax**: +49 (0) 221 / 64306399
 
 What is personal data?
 
