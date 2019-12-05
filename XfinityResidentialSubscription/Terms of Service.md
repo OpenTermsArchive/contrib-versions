@@ -239,7 +239,7 @@ Customer Agreements and Policies **COMCAST AGREEMENT FOR RESIDENTIAL   SERVICE
     
     If you are unable to get a problem resolved to your satisfaction at our local office, you may write to the Comcast Corporate Offices at 1701 John F. Kennedy Blvd., Philadelphia, PA 19103-2838 with concerns and complaints.
     
-    *   **Massachusetts Residents:** In addition if you are unsatisfied with our handling of your TV complaint, you may contact your local franchise authority: the Consumer Division of the Department of Telecommunications and Cable (DTC) toll free at 1-800-392-6066 or you may write to them at 1000 Washington Street, Suite 820, Boston, MA 02118.
+    *   **Massachusetts Residents:** In addition if you are unsatisfied with our handling of your TV complaint, you may contact your local franchise authority: the Consumer Division of the Department of Telecommunications and Cable (DTC) toll free at 1-800-392-6066 or you may write to them at 1000 Washington Street, Suite 600, Boston, MA 02118.
         
     *   **Connecticut Residents:** If you experience a problem with your Service(s), please contact us first and give us an opportunity to resolve your problem. If a TV matter is not resolved to your satisfaction, please contact the Connecticut Department of Utility Control at 1-800-382-4586 (toll free within Connecticut) or 1-860-827-2622 (outside Connecticut) or TDD 1-860-827-2837.
         
