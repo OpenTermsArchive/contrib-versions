@@ -617,40 +617,16 @@ Sorry, we can't seem to find that address.
 
 Please enter your address below so we can show you all of the best deals in your area.
 
-State
-
-*   AL
-*   AZ
-*   AR
-*   FL
-*   GA
-*   IA
-*   KS
-*   KY
-*   MI
-*   MN
-*   MS
-*   MO
-*   NE
-*   NM
-*   NY
-*   NC
-*   OH
-*   OK
-*   PA
-*   SC
-*   TX
-
-Check Availability
+State ALAZARFLGAIAKSKYMIMNMSMONENMNYNCOHOKPASCTX Check Availability
 
 Need help?  
-Call 1-866-819-12391-866-819-1239 or Chat Now.
+Call 1-866-819-12391-866-819-1239 or Chat Now No Chat Available .
 
 It looks like Windstream isn't available for this address.
 
 Contact us now to find out if you're located in one of our service areas.
 
-Chat With Agent Now Call 1-866-819-1239
+Chat With Agent Now No Chat Available Call 1-866-819-1239
 
 Enter your address again or view other carriers in your area
 
@@ -661,7 +637,7 @@ Pick the correct address from this list to see the best deals available , or use
 Submit Change Address Change Address
 
 Need help?  
-Call 1-866-819-1239 or Chat Now.
+Call 1-866-819-1239 or Chat Now No Chat Available .
 
 EXPLORE
 
