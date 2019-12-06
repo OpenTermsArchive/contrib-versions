@@ -4,7 +4,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Please! I'd like to get my old blogs
     *   by mandynoelle
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,7 +19,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 years ago
     *   in Data Migration
     *   0 votes
-    *   46 (last comment by s040021 3 weeks ago)
+    *   46 (last comment by s040021 4 weeks ago)
 *   Old xanga recovered
     *   by anarchy\_animeGirl
     *   1 month ago
@@ -34,13 +34,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by perchedonstilts 2 months ago)
 *   Archive does not have all blogs
     *   by nevaeh84
-    *   2 months ago
+    *   3 months ago
     *   in Data Migration
     *   0 votes
     *   0
 *   how to get back my old posts?
     *   by MYFEEL\_LING
-    *   2 months ago
+    *   3 months ago
     *   in Data Migration
     *   0 votes
     *   0
