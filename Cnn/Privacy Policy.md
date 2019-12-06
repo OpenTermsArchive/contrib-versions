@@ -1,5 +1,7 @@
 CNN Privacy Policy
 
+Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds.
+
 (CNN) **What's New in the Updated Privacy Policy? We have updated the privacy policy applicable to our online and mobile websites, applications, and digital services and clarified data collection, usage and sharing practices among Turner, its affiliates, including AT&T, Inc. and Warner Media, LLC, and unaffiliated third parties. Please take the time to read the full privacy policy. You consent to the data collection, use, disclosure and storage practices described in this privacy policy when you use any of our Services (as described below), including when you access any content or videos.**
 
 Thank you for visiting this website, a digital service presented to you by Turner Broadcasting System, Inc. ("Turner", "we" or "us"). Your privacy is important to us. As such, we provide this privacy policy ("Privacy Policy") explaining our online information practices and the choices you can make about the way your information is collected and used by this digital service and among Turner's network of affiliated and operated digital services ("Turner Network"), which includes any online or mobile websites, applications or digital services owned, operated or offered by, on behalf of, or in conjunction with Turner or its Affiliates, including any online or mobile website, application or digital service installation through which this Privacy Policy appears (each a "Service," collectively the "Services"). "Users" are persons that use the Services.
