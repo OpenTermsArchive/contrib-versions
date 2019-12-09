@@ -4,7 +4,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Please! I'd like to get my old blogs
     *   by mandynoelle
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
