@@ -1,6 +1,6 @@
 _Effective May 8, 2018_
 
-Our Privacy Policy has been updated. Click here to see a summary of changes.
+Our Privacy Policy will be updated in January. Click here to see a preview of the changes.
 
 See a guided tour of the main changes.
 
