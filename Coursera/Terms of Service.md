@@ -190,13 +190,13 @@ Your subscription will continue for 6 months and then automatically renew unless
 
 If you cancel your subscription, you will continue to have access until the end of the 6-month period and will not be billed for the next billing cycle.
 
-For 12-Month Subscriptions
+For Coursera Plus
 
-Coursera does not offer refunds for 12-month subscription payments. To avoid being charged during a free trial promotion, you must cancel your subscription before your 7-day free trial ends.
+To get a full refund of your Coursera Plus subscription payment, submit a refund request via the Learner Help Center within 14 days of your payment. Refunds will not be provided if requested after this 14-day period.
 
-Your subscription will continue for 12 months and then automatically renew unless and until you cancel your subscription or the subscription is suspended or discontinued by Coursera.
+Your Coursera Plus subscription will continue for 12 months and then automatically renew unless and until you cancel your subscription or the subscription is suspended or discontinued by Coursera.
 
-If you cancel your subscription, you will continue to have access until the end of the 12-month period and will not be billed for the next billing cycle.
+If you cancel your subscription after the first 14 days of your subscription period, you will continue to have access until the end of the 12-month subscription period and will not be billed for the next billing cycle.
 
 For Course and Specialization Purchases
 
