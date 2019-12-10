@@ -19,7 +19,7 @@
 *   Check My Email
 *   Sign Out
 
-Call now to order 1-855-670-3086
+Call now to order 1-866-445-8084
 
 _close_
 
@@ -42,7 +42,7 @@ _close_
 *   _search_
 *   Looking for Business Solution?
 
-Call now to order 1-855-670-3086
+Call now to order 1-866-445-8084
 
 _close_
 
@@ -52,7 +52,7 @@ _close_
 *   Voice
 *   View All Products
 
-Call now to order 1-855-670-3086
+Call now to order 1-866-445-8084
 
 _close_
 
@@ -65,7 +65,7 @@ _close_
 *   Check My Email
 *   Sign Out
 
-Call now to order 1-855-670-3086
+Call now to order 1-866-445-8084
 
 _close_
 
@@ -85,7 +85,7 @@ _close_
 *   Support
     *   Contact Us
 
-Call now to order 1-855-670-3086
+Call now to order 1-866-445-8084
 
 Back to About Page
 
@@ -362,6 +362,9 @@ Product Descriptions, generally, can be found at https://www.windstream.com. So
 *   **Hulu Plus Services.** All Hulu Plus Services and any other services provided by Hulu are subject to the Hulu Terms of Use, which are available online at: www.hulu.com . Certain promotions have an optional or mandatory term commitment period. If you cancel your Services prior to the optional or mandatory term-commitment period, then certain termination or cancellation fees may apply. If the Hulu Plus membership is not cancelled at the end of the promotional period, then you authorize Hulu Plus to charge you each month for the membership fees, plus taxes, until you cancel the membership.
 *   **Identity Protection.** Windstream partners with a third-party vendor to provide this Service. As a result of this, you may be required to accept certain terms and conditions of the Service as required by the third-party. Windstream reserves the right to alter the Service in any way including, but not limited to, changing the third-party provider of the Service or discontinuing this Service at any time .
 *   **Internet Access.** Internet Access Service is subject to the Broadband Network Statement. Service will be provisioned for a maximum download speed of 1 Mbps. Due to the nature of this Service, it is an “AS-IS” Service, and may be intermittent, specifically, during peak usage times of the day. This Service is not suitable for streaming video, gaming, or large downloads or uploads. Credits or adjustments for slow and/or varying speed, or not being able to access the Internet, will not be issued. Windstream cannot guarantee speeds or uninterrupted error-free Service.
+*   **Internet Security and Security on-the-go :**
+    *   For all terms and conditions, click here
+    *   For the privacy policy, click here
 *   **Lifetime Price Guarantee.** Certain Services are subject to a Lifetime Price Guarantee (“Guarantee”), as advertised by us. however, in addition to the Agreement set forth herein, the following conditions apply to this Guarantee:
     *   The Guarantee only applies to select Services. You must subscribe to at least one new bundle Service that includes select High Speed Internet, other select Internet Services, select Phone Services, select Cable TV programming, or select DISH programming.
     *   Any package that includes DISH is subject to our continuing relationship with DISH. If such relationship ends for any reason, then Guarantee bundles that include DISH may be terminated at our discretion. Additionally, channels available to you as part of DISH programming are subject to change without notice. You are not guaranteed any particular channel or number of channels.
@@ -674,12 +677,12 @@ WINDSTREAM
 
 CONTACT US
 
-*   Call to order 1-855-670-3086
+*   Call to order 1-866-445-8084
 *   Contact Us
 
 CONTACT US
 
-*   Call now to order 1-855-670-3086
+*   Call now to order 1-866-445-8084
 *   Contact Us
 
-© 2019 Windstream Communications. All rights reserved. Privacy Policy   |   Terms &. Conditions   |   Legal Notices <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1819151935020592&amp;ev=PageView&amp;noscript=1">.
+© 2019 Windstream Communications. All rights reserved. Privacy Policy   |   Terms &. Conditions   |   Legal Notices BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1819151935020592&amp;ev=PageView&amp;noscript=1">.
