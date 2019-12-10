@@ -1,6 +1,6 @@
 _Effective on May 8, 2018_
 
-Our User Agreement has been updated. Click here to see a summary of changes.
+Our User Agreement will be updated in January. Click here to see a preview of the changes.
 
 Our mission is to connect the world’s professionals to allow them to be more productive and successful. Our services are designed to promote economic opportunity for our members by enabling you and millions of other professionals to meet, exchange ideas, learn, and find opportunities or employees, work, and make decisions in a network of trusted relationships.
 
