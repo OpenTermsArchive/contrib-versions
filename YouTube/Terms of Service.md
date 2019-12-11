@@ -1,140 +1,264 @@
-எங்கள் சேவை விதிமுறைகள் 10 டிசம்பர், 2019 அன்று மாறவுள்ளன. புதுப்பிக்கப்பட்ட விதிமுறைகளை இங்கே பார்க்கலாம் . 10 டிசம்பர், 2019 வரை கீழேயுள்ள விதிமுறைகளே தொடரும்.
+**Our Terms of Service have been updated.**
 
-1\. การยอมรับของคุณ
+This summary is designed to help you understand some of the key updates we’ve made to our Terms of Service (Terms). We hope this serves as a useful guide, but please ensure you read the new Terms in full.
 
-ก. โดยการใช้หรือเข้าชมเว็บไซต์ YouTube หรือผลิตภัณฑ์ ซอฟต์แวร์ ดาตา ฟีด (Data Feed) และบริการที่มอบให้แก่คุณบน จาก หรือผ่านเว็บไซต์ YouTube (รวมเรียกว่า "บริการ") เราจะถือว่าคุณแสดงการยอมรับ (1) ข้อกำหนดและเงื่อนไขเหล่านี้ ("เงื่อนไขและข้อกำหนดในการให้บริการ") (2) นโยบายความเป็นส่วนตัวของ Google ซึ่งสามารถดูได้ที่ https://www.youtube.co.th/t/privacy และถือเป็นส่วนหนึ่งของข้อกำหนดฉบับนี้โดยการอ้างถึง และ (3) แนวทางปฏิบัติของกลุ่มผู้ใช้ของ YouTube ซึ่งสามารถดูได้ที่ https://www.youtube.co.th/t/community\_guidelines และถือเป็นส่วนหนึ่งของข้อกำหนดฉบับนี้โดยการอ้างถึง หากคุณไม่ยอมรับข้อกำหนดใดเหล่านี้ นโยบายความเป็นส่วนตัวของ Google หรือแนวทางปฏิบัติของกลุ่มผู้ใช้ โปรดหลีกเลี่ยงการใช้บริการของเรา
+**Welcome to YouTube!**
 
-ข. ถึงแม้เราอาจพยายามแจ้งให้คุณทราบเมื่อมีการเปลี่ยนแปลงที่สำคัญต่อเงื่อนไขและข้อกำหนดในการให้บริการฉบับนี้ คุณควรตรวจสอบข้อกำหนดฉบับล่าสุดเป็นครั้งคราวที่ https://www.youtube.co.th/t/terms YouTube อาจปรับหรือแก้ไขเงื่อนไขและข้อกำหนดในการให้บริการฉบับนี้และนโยบายต่างๆ เมื่อใดก็ตาม และคุณตกลงยอมผูกพันโดยการปรับหรือแก้ไขดังกล่าว ไม่มีความใดในเงื่อนไขและข้อกำหนดในการให้บริการฉบับนื้ที่จะถือเป็นการให้สิทธิหรือผลประโยชน์ใดของบุคคลภายนอก
+This section outlines our relationship with you. It includes a description of the Service, defines our Agreement, and names your service provider. Key updates:
 
-2\. บริการ
+*   **Service Provider** **.** Your service provider is now Google LLC.
+*   **Policies.** We have added a link to the Policy, Safety and Copyright Policies, and our Advertising on YouTube Policies, which all form part of the Agreement. These are the policies that underpin our Community Guidelines, and we wanted to make sure to call out this detail to you upfront in our Terms.
+*   **Affiliates.** To ensure you understand exactly who we mean when we talk about our group companies, we’ve included a definition of our “Affiliates”, meaning the companies in the Alphabet corporate group.
 
-ก. เงื่อนไขและข้อกำหนดในการให้บริการฉบับนี้ใช้บังคับกับผู้ใช้บริการทุกราย รวมถึงผู้ใช้ที่เป็นผู้มีส่วนร่วมในการสนับสนุนเนื้อหาในบริการ "เนื้อหา" รวมไปถึง ข้อความ ซอฟต์แวร์ สคริปต์ กราฟฟิก รูป เสียง ดนตรี วิดีโอ ส่วนผสมโสตทัศนวัสดุ วัสดุเชิงโต้ตอบ และวัสดุอื่นๆ ที่คุณอาจดู เข้าถึง หรือให้การสนับสนุนแก่บริการของเรา บริการจะรวมไปถึง YouTube ทุกด้าน รวมถึงแต่ไม่จำกัดเพียงผลิตภัณฑ์ ซอฟต์แวร์ และบริการทั้งหมดที่เสนอผ่านเว็บไซต์ YouTube เช่น ช่อง YouTube "เครื่องเล่นแบบฝังตัวได้" ของ YouTube "ตัวอัปโหลด" YouTube และแอปพลิเคชันอื่นๆ
+**Who May Use the Service?**
 
-ข. บริการอาจประกอบด้วยลิงค์ไปยังเว็บไซต์บุคคลภายนอกที่ YouTube มิได้เป็นเจ้าของหรือเป็นผู้ควบคุม YouTube ไม่มีอำนาจในการควบคุม และไม่มีความรับผิดชอบต่อเนื้อหา นโยบายความเป็นส่วนตัว หรือวิธีปฏิบัติของเว็บไซต์บุคคลภายนอกใด นอกจากนี้ YouTube จะไม่และไม่สามารถตรวจสอบหรือแก้ไขเนื้อหาของเว็บไซต์บุคคลภายนอกใด โดยการใช้บริการของเรา คุณปลดเปลื้อง YouTube โดยชัดแจ้งจากความรับผิดใดๆ ทั้งปวงที่เกิดจากการใช้เว็บไซต์บุคคลภายนอกใดของคุณ
+This section sets out certain requirements for use of the Service, and defines categories of users. Key updates:
 
-ค. ดังนั้น เราขอให้คุณตระหนักทุกเมื่อที่คุณออกจากบริการของเรา และอ่านข้อกำหนดและเงื่อนไข และนโยบายส่วนบุคคลของแต่ละเว็บไซต์ที่คุณเข้าเยี่ยมชม
+*   **Age Requirements.** We have stated the specific age requirements for your country, reflecting our Google wide policies, and included a notice that, if you are a minor in your country, you must always have your parent or guardian’s permission before using the Service.
+*   **Parental Permission.** We’ve added a section to explain your responsibility if you allow your child to use YouTube.
+*   **Businesses.** Our Terms now make clear that, if you are using the Service on behalf of a company or organisation, that business accepts this Agreement.
 
-3\. บัญชี YouTube
+**Your Use of the Service**
 
-ก. เพื่อเป็นการเข้าถึงทางเลือกการบริการต่างๆ คุณจะต้องสร้างบัญชี YouTube หรือบัญชี Google คุณต้องไม่ใช้บัญชีของบุคคลอื่นโดยไม่ได้รับอนุญาต เมื่อคุณสร้างบัญชีของคุณ คุณต้องให้ข้อมูลที่ถูกต้องและสมบูรณ์ คุณมีความรับผิดชอบแต่เพียงผู้เดียวสำหรับกิจกรรมที่เกิดขึ้นในบัญชีของคุณ และคุณต้องเก็บรักษารหัสผ่านสำหรับบัญชีของคุณไว้อย่างปลอดภัย คุณต้องแจ้งให้ YouTube ทราบทันที่เมื่อมีการละเมิดการรักษาความปลอดภัยและการใช้ที่ไม่ได้รับอนุญาตของบัญชีของคุณ
+This section explains your rights to use the Service, and the conditions that apply to your use of the Service. It also explains how we may make changes to the Service. Key updates:
 
-ข. ถึงแม้ว่า YouTube จะไม่มีความรับผิดสำหรับการสูญเสียของคุณอันเกิดจากการใช้งานบัญชีของคุณโดยไม่ได้รับอนุญาต คุณอาจมีความรับผิดสำหรับความสูญเสียของ YouTube หรือบุคคลอื่นอันเนื่องมาจากการใช้งานที่ไม่ได้รับอนุญาตดังกล่าว
+*   **Google Accounts and YouTube Channels** **.** We’ve provided details about which features of the Service can be accessed without a Google account or YouTube channel, and which features require one.
+*   **Your Information.** We haven’t made any changes to the way we treat your information. You can read about our privacy practices by reviewing the Privacy Policy and YouTube Kids Privacy Notice. As a reminder, you can always review your privacy settings and manage your data and personalisation by visiting your Google Account.
+*   **Restrictions**. We have updated this section to reflect our requirements around contests, and to include a prohibition on manipulating metrics.  
+*   **Service Changes.** We have improved our Terms to be more transparent about why we might need to make changes to the Service, and provided a commitment to give you notice when those changes might affect you.
 
-4\. การใช้บริการโดยทั่วไป - การอนุญาตและข้อจำกัด
+**Your Content and Conduct**
 
-YouTube อนุญาตให้คุณเข้าถึงและใช้บริการตามที่ระบุในเงื่อนไขและข้อกำหนดในการให้บริการฉบับนี้ โดยมีเงื่อนไขว่า
+This section applies to users who provide Content to the Service. It defines the scope of the permissions that you grant by uploading your Content, and includes your agreement not to upload anything that infringes on anyone else’s rights. Key updates:
 
-ก. คุณตกลงไม่จำหน่ายจ่ายแจกผ่านสื่อกลางใดก็ตามซึ่งส่วนหนึ่งส่วนใดของบริการหรือเนื้อหาโดยไม่ได้รับการอนุญาตเป็นลายลักษณ์อักษรจาก YouTube ก่อน เว้นแต่ YouTube จะจัดหาวิธีการจำหน่ายจ่ายแจกดังกล่าวให้ผ่านทางเลือกของบริการ (เช่น เครื่องเล่นแบบฝังตัว)
+*   **License.** We’ve clarified the content license you grant us to make it easier to understand. We’re not asking for additional permissions and there’s no difference in how we’re using your content.
+*   **Duration.** We have removed the right for YouTube to use your comments in perpetuity.
+*   **Removals.** We have included a link to the tools you will need to remove your content, as well as a clear description about why we might need to take down content, and how to appeal removals. 
+*   **Analyzing Content.** We may automatically analyze content on YouTube, to help detect abuse and keep the platform safe.
 
-ข. คุณตกลงไม่ปรับหรือเปลี่ยนส่วนใดของบริการ
+**Account Suspension and Termination**
 
-ค. คุณตกลงไม่เข้าถึงเนื้อหาผ่านเทคโนโลยีหรือวิธีการใดนอกเหนือไปจากหน้าเพจเล่นวิดีโอของบริการ เครื่องเล่นแบบฝังตัวได้ หรือวิธีการอื่นที่ได้รับอนุญาตที่ YouTube อาจกำหนดโดยชัดแจ้ง
+This section explains how you and YouTube may terminate this relationship. Key updates:
 
-ง. คุณตกลงไม่ใช้บริการเพื่อการใช้งานเชิงพาณิชย์ใดๆ ดังต่อไปนี้ เว้นแต่คุณจะได้รับการอนุมัติเป็นลายลักษณ์อักษรจาก YouTube ก่อน
+*   **Terminations.** Our Terms now include more details about when we might need to terminate our Agreement with bad actors. We provide a greater commitment to give notice when we take such action and what you can do to appeal if you think we’ve got it wrong. We’ve also added instructions for you, if you decide you no longer want to use the Service.
 
-*   การขายการเข้าถึงบริการ
-*   การขายการโฆษณา การสนับสนุน หรือการสนับสนุนการขายบนหรือภายในบริการหรือเนื้อหา หรือ
-*   การขายการโฆษณา การสนับสนุน การสนับสนุนการขายบนหน้าใดๆ ของบล็อกหรือเว็บไซต์ที่อนุญาตให้มีการโฆษณา ที่ประกอบด้วยเนื้อหาที่ส่งผ่านบริการ เว้นแต่จะมีวัสดุอื่นที่มิได้มาจาก YouTube ปรากฏในหน้าเพจเดียวกันและมีมูลค่าเพียงพอที่จะเป็นฐานของยอดขาย
+**About Software in the Service**
 
-จ. การใช้งานเชิงพาณิชย์ที่ต้องห้ามจะไม่รวมไปถึง
+This section includes details about software on the Service. Key updates:
 
-*   การอัปโหลดวิดีโอดั้งเดิมลงบน YouTube หรือการดำรงช่องดั้งเดิมบน YouTube เพื่อสนับสนุนธุรกิจและธุรกิจทางศิลปะของคุณ
-*   การแสดงวิดีโอ YouTube ผ่านเครื่องเล่นแบบฝังตัวได้บนบล็อกหรือเว็บไซต์ ภายใต้ข้อจำกัดการโฆษณาตามที่ระบุในข้อ 4.ง. ข้างต้น หรือ
-*   การใช้ใดๆ ที่ YouTube อนุญาตโดยชัดแจ้งเป็นลายลักษณ์อักษร
-(สำหรับข้อมูลเพิ่มเติมเกี่ยวกับสิ่งทื่ถือเป็นการใช้งานเชิงพาณิชย์ที่ต้องห้าม โปรดดูคำถามที่พบบ่อยของเรา)
+*   **Software Licences.** We’ve made the software licence we grant you more specific, and included some details around open source.
 
-ฉ. หากคุณใช้เครื่องเล่นแบบฝังตัวได้บนเว็บไซต์ของคุณ คุณต้องไม่ปรับ สร้าง หรือปิดกั้นส่วนหนึ่งส่วนใดหรือการทำงานใดของเครื่องเล่นแบบฝังตัวได้ รวมถึงแต่ไม่จำกัดเพียงลิงค์ที่เชื่อมกลับมายังเว็บไซต์ YouTube
+**Other Legal Terms**
 
-ช. หากคุณใช้ตัวอัพโหลด YouTube คุณตกลงว่าตัวอัปโหลดอาจดาวน์โหลดและติดตั้งโปรแกรมอัปเดตจาก YouTube โดยอัตโนมัติเป็นครั้งคราว โปรแกรมอัปเดตเหล่านี้ได้รับการออกแบบเพื่อการปรับปรุง ส่งเสริม และพัฒนาตัวอัปโหลดและอาจมีรูปแบบของการแก้ไขบั๊ก การส่งเสริมการทำงาน มอดูลซอฟต์แวร์ใหม่ และเวอร์ชั่นใหม่ทั้งหมด คุณตกลงรับโปรแกรมอัพเดตดังกล่าว (และอนุญาตให้ YouTube ส่งโปรแกรมอัพเดตให้แก่คุณ) ซึ่งถือเป็นส่วนหนึ่งในการใช้ตัวอัปโหลดของคุณ
+This section includes our service commitment to you. It also explains that there are some things we will not be responsible for. Key updates:
 
-ซ. คุณตกลงไม่ใช้หรือออกระบบอัตโนมัติ รวมถึง แต่ไม่จำกัดเพียง "โรบอท" "สไปเดอร์" หรือ "ตัวอ่านออฟไลน์" ที่เข้าถึงบริการในลักษณะที่ส่งข้อความคำขอไปยังเซิร์ฟเวอร์ YouTube ในช่วงระยะเวลาหนึ่งมากกว่าที่มนุษย์สามารถส่งได้ในระยะเวลาเดียวกันโดยใช้เว็บบราวเซอร์ออนไลน์แบบดั้งเดิม แม้จะกล่าวไว้เป็นประการอื่นข้างต้น YouTube ให้การอนุญาตแก่ผู้ดำเนินการเสิร์ชเอนจินสาธารณะในการใช้สไปเดอร์เพื่อทำสำเนาวัสดุจากเว็บไซต์เพื่อวัตถุประสงค์และมากเท่าที่จำเป็นในการสร้างดัชนีวัสดุที่สามารถค้นหาได้โดยสาธารณะเท่านั้น แต่มิใช่เพื่อการสร้างแคช (Cache) หรืออาร์ไคฟ์ของวัสดุ YouTube สงวนสิทธิ์ในการเพิกถอนข้อยกเว้นเหล่านี้ไม่ว่าโดยทั่วไปหรือเป็นกรณีเฉพาะ คุณตกลงไม่เก็บหรือรวบรวมข้อมูลที่ระบุตัวตนได้ใดๆ รวมถึงชื่อบัญชี จากบริการ และจะไม่ใช้ระบบสื่อสารของบริการ (เช่น การออกความเห็น อีเมล) เพื่อวัตถุประสงค์ในการชักชวนเชิงพาณิชย์ใดๆ คุณตกลงไม่ชักชวนผู้ใช้บริการใดในเชิงพาณิชย์อันเกี่ยวข้องกับเนื้อหาของผู้ใช้ดังกล่าว
+*   **Our liability.** We’ve made changes to the disclaimers and limitations of liability in the Terms.
 
-ฌ. ในการใช้บริการ คุณตกลงปฏิบัติตามกฎหมายที่เกี่ยวข้องทั้งปวง
+**About this Agreement**
 
-ญ. YouTube สงวนสิทธิ์ในการยกเลิกบริการด้านใดๆ ในเวลาใดก็ตาม
+This section includes some further important details about our contract, including what to expect if we need to make changes to these Terms. or which law applies to them. Key updates:
 
-5\. การใช้เนื้อหาของคุณ
+*   **Modifications.** We want to give you the chance to review future material updates to these Terms.
 
-นอกจากข้อจำกัดข้างต้นแล้ว ข้อจำกัดและเงื่อนไขดังต่อไปนี้จะใช้กับการใช้เนื้อหาของคุณโดยเฉพาะ
+**Still have questions?**
 
-ก. YouTube เป็นเจ้าของและได้รับอนุญาตให้ใช้งานเนื้อหาในบริการ และเครื่องหมายการค้า เครื่องหมายบริการ และโลโก้ ("เครื่องหมาย") บนบริการ ตามลิขสิทธิ์และสิทธิในทรัพย์สินทางปัญญาอื่นๆ ตามกฎหมาย
+You can also find further details in our Help Center.
 
-ข. YouTube จัดหาเนื้อหาให้แก่คุณในลักษณะตามสภาพ คุณอาจเข้าถึงเนื้อหาเพื่อเป็นข้อมูลของคุณและเพื่อการใช้งานส่วนบุคคลตามลักษณะวัตถุประสงค์ของบริการและตามที่เงื่อนไขและข้อกำหนดในการให้บริการอนุญาตเท่านั้น คุณต้องไม่ดาวน์โหลดเนื้อหาใดเว้นแต่คุณจะเห็นลิงค์ "ดาวน์โหลด" หรือลิงค์ที่คล้ายคลึงกันที่ YouTube แสดงไว้บนบริการสำหรับเนื้อหานั้น คุณต้องไม่ทำสำเนา ทำซ้ำ จำหน่ายจ่ายแจก ส่ง ถ่ายทอด แสดง ขาย ให้อนุญาตการใช้ หรือใช้ประโยชน์ในทางอื่นๆ ซึ่งเนื้อหาใดๆ เพื่อวัตถุประสงค์อื่นใดโดยไม่ได้รับความยินยอมเป็นลายลักษณ์อักษรจาก YouTube หรือผู้ให้อนุญาตที่เกี่ยวข้องของเนื้อหาก่อน YouTube และผู้ให้อนุญาตของ YouTube สงวนสิทธิ์ทั้งปวงที่มิได้ให้ไว้โดยชัดแจ้งเกี่ยวกับบริการและเนื้อหา
+**\-----**
 
-ค. คุณตกลงไม่หลีกเลี่ยง ปิด หรือแทรกแทรงโดยประการอื่นซึ่งการทำงานที่เกี่ยวข้องกับความปลอดภัยของบริการหรือการทำงานที่ป้องกันหรือยับยั้งการใช้หรือทำสำเนาเนื้อหาใดหรือที่กำหนดขีดจำกัดการใช้บริการหรือเนื้อหาในบริการ
+**Terms of Service**
 
-ง. คุณเข้าใจว่าเมื่อใช้บริการ คุณจะเข้าถึงเนื้อหาจากหลายแหล่งที่มา และ YouTube ไม่มีความรับผิดชอบสำหรับความถูกต้อง ประโยชน์ ความปลอดภัย หรือสิทธิในทรัพย์สินทางปัญญาของหรือที่เกี่ยวข้องกับเนื้อหาดังกล่าว คุณเข้าใจและรับทราบว่าคุณอาจพบเนื้อหาที่ไม่ถูกต้อง น่ารังเกียจ ไม่เหมาะสม หรือไม่น่าพอใจ และคุณตกลงสละ และขอสละสิทธิหรือการเยียวยาตามกฎหมายหรือเทียบเท่าใดๆ ที่คุณมีหรืออาจมีต่อ YouTube อันเกี่ยวข้องกับเนื้อหาดังกล่าว และมากเท่าที่กฎหมายที่เกี่ยวข้องอนุญาต คุณตกลงรับผิดชดใช้และปกป้อง YouTube เจ้าของ YouTube ผู้ดำเนินการ บริษัทในเครือ ผู้ให้อนุญาต และผู้รับอนุญาตมากเท่าที่กฎหมายที่เกี่ยวข้องอนุญาตสำหรับเรื่องทั้งปวงที่เกี่ยวกับการใช้บริการของคุณ
+Dated: December 10, 2019
 
-6\. เนื้อหาและการปฏิบัติของคุณ
+**Welcome to YouTube!**
 
-ก. ในฐานะผู้ถือบัญชี YouTube คุณอาจส่งเนื้อหามายังบริการ รวมถึงวิดีโอและความเห็นของผู้ใช้ คุณเข้าใจว่า YouTube ไม่รับประกันการรักษาความลับใดๆ อันเกี่ยวข้องกับเนื้อหาใดที่คุณส่งให้ YouTube
+English Courtesy Translation
 
-ข. คุณต้องมีความรับผิดชอบแต่เพียงผู้เดียวสำหรับ เนื้อหาของคุณเองและผลสืบเนื่องจากการส่งและเผยแพร่เนื้อหาของคุณบนบริการ คุณยืนยัน รับรอง และรับประกันว่าคุณเป็นเจ้าของหรือมีใบอนุญาต สิทธิ ความยินยอม และการอนุญาตที่จำเป็นในการเผยแพร่เนื้อหาที่คุณส่ง และคุณให้อนุญาต YouTube ในการใช้สิทธิบัตร เครื่องหมายการค้า ความลับทางการค้า ลิขสิทธิ์ หรือ สิทธิในทรัพย์สินอื่นใดทั้งปวงในและของเนื้อหาเพื่อการเผยแพร่เนื้อหาบนบริการตามเงื่อนไขและข้อกำหนดในการให้บริการฉบับนี้
+**Introduction  
+**Thank you for using the YouTube platform and the products, services and features we make available to you as part of the platform (collectively, the “Service”).  
 
-ค. เพื่อความชัดเจน คุณยังคงรักษาสิทธิความเป็นเจ้าของในเนื้อหาของคุณทั้งปวง อย่างไรก็ตาม ในการส่งเนื้อหาให้แก่ YouTube คุณให้สิทธิทั่วโลก ที่ไม่จำกัดแต่เพียงผู้เดียว ที่ปราศจากค่าสิทธิ ที่สามารถอนุญาตช่วงได้ และที่สามารถโอนได้ ในการใช้ ทำซ้ำ จำหน่ายจ่ายแจก เตรียมงานเสริม จัดแสดง และแสดงเนื้อหาอันเกี่ยวข้องกับบริการ และธุรกิจของ YouTube (และผู้สืบสิทธิและบริษัทในเครือ) เพื่อวัตถุประสงค์ที่รวมถึงแต่ไม่จำกัดเพียงการส่งเสริมและการจำหน่ายจ่ายแจกบริการส่วนหนึ่งหรือทั้งหมด (และงานเสริม) ในรูปแบบสื่อใดและผ่านช่องทางสื่อใด คุณให้สิทธิที่ไม่จำกัดแต่เพียงผู้เดียวแก่ผู้ใช้บริการแต่ละคนในการเข้าถึงเนื้อหาของคุณผ่านบริการ และในการใช้ ทำซ้ำ จำหน่ายจ่ายแจก จัดแสดง และแสดงเนื้อหาดังกล่าวตามที่ได้รับอนุญาตผ่านทางเลือกการใช้บริการต่างๆ และตามเงื่อนไขและข้อกำหนดในการให้บริการฉบับนี้ ใบอนุญาตที่คุณให้ข้างต้นในการใช้เนื้อหาวิดีโอที่คุณส่งให้แก่บริการจะสิ้นสุดลงภายในระยะเวลาตามสมควรในเชิงพาณิชย์หลังจากที่คุณถอดหรือลบวิดีโอของคุณจากบริการ อย่างไรก็ตาม คุณเข้าใจและตกลงว่า YouTube อาจเก็บรักษา แต่ไม่จัดแสดง จำหน่ายจ่ายแจก หรือแสดงสำเนาเซิร์ฟเวอร์ของวิดีโอของคุณที่คุณได้ถอดหรือลบไปแล้ว ใบอนุญาตที่คุณให้ข้างต้นในการใช้ความเห็นของผู้ใช้ที่คุณส่งให้ จะเป็นลักษณะที่ไม่มีกำหนดเวลาและไม่สามารถเพิกถอนได้
+**Our Service**
 
-ง. คุณตกลงว่า เนื้อหาที่คุณส่งมายังบริการจะไม่ประกอบด้วยวัสดุที่มีลิขสิทธิ์ของบุคคลภายนอก หรือวัสดุที่อยู่ภายใต้สิทธิทาง ทรัพย์สินของบุคคลภายนอกอื่นๆ เว้นแต่คุณจะได้รับอนุญาตจากเจ้าของโดยชอบ ธรรมของวัสดุหรือคุณมีสิทธิตามกฎหมายโดยประการอื่นในการโพสต์วัสดุและให้สิทธิในการใช้ทั้งปวงที่คุณให้ไว้ตามเงื่อนไขและข้อกำหนดในการให้บริการฉบับนี้
+The Service allows you to discover, watch and share videos and other content, provides a forum for people to connect, inform, and inspire others across the globe, and acts as a distribution platform for original content creators and advertisers large and small. We provide lots of information about our products and how to use them in our Help Center. Among other things, you can find out about YouTube Kids, the YouTube Partner Program and YouTube Paid Memberships and Purchases (where available).You can also read all about enjoying content on other devices like your television, your games console, or Google Home.  
 
-จ. คุณตกลงว่าคุณจะไม่ส่งเนื้อหาหรือวัสดุอื่นที่ขัดต่อแนวทางปฏิบัติของกลุ่มผู้ใช้ YouTube มายังบริการ ซึ่งคุณสามารถดูแนวทางดังกล่าวที่ https://www.youtube.co.th/t/community\_guidelines ซึ่งจะมีการปรับปรุงเป็นครั้งคราว หรือส่งเนื้อหาหรือวัสดุที่ขัดต่อกฎหมายและข้อบังคับระดับท้องถิ่น ระดับประเทศ และระหว่างประเทศที่เกี่ยวข้อง
+**Your Service Provider**
 
-ฉ. ยูทูบจะประมวลเนื้อหาภาพหรือเนื้อหาเสียงและภาพที่ท่านอัปโหลดไปยังบริการตามข้อกำหนดว่าด้วยการประมวลผลข้อมูลของยูทูบ (www.youtube.com/t/terms\_dataprocessing)ยกเว้นในกรณีที่ท่านอัปโหลดเนื้อหาดังกล่าวเพื่อจุดประสงค์ส่วนตัวหรือกิจกรรมภายในครอบครัว อ่านเพิ่มเติมที่นี่: support.google.com/youtube/?p=data\_applicability
+The entity providing the Service is Google LLC, a company operating under the laws of Delaware, located at 1600 Amphitheatre Parkway, Mountain View, CA 94043 (referred to as “**YouTube**”, “**we**”, “**us**”, or “**our**”). References to YouTube’s “Affiliates” in these terms means the other companies within the Alphabet Inc. corporate group (now or in the future).
 
-ช. YouTube ไม่รับรองเนื้อหาใดที่ผู้ใช้ใดหรือผู้ให้อนุญาตอื่นใดส่งมายังบริการ หรือความเห็น การแนะนำ หรือคำแนะนำใดในเนื้อหา และ ปฏิเสธโดยชัดแจ้งในความรับผิดชอบทั้งหมดใดๆ ที่เกี่ยวข้องกับเนื้อหา YouTube ไม่อนุญาตให้มีการกระทำใดๆ ที่ละเมิดลิขสิทธิ์อื่นๆ ในบริการและ YouTube จะถอดเนื้อหาทั้งหมดหากได้รับแจ้งโดยเหมาะสมว่าเนื้อหาละเมิดสิทธิในทรัพย์สินทางปัญญาของบุคคลอื่น YouTube สงวนสิทธิ์ในการถอดเนื้อหาโดยไม่ต้องแจ้งล่วงหน้า
+**Applicable Terms  
+**Your use of the Service is subject to these terms, the YouTube Community Guidelines and the Policy, Safety and Copyright Policies which may be updated from time to time (together, this "Agreement"). Your Agreement with us will also include the Advertising on YouTube Policies if you provide advertising or sponsorships to the Service or incorporate paid promotions in your content. Any other links or references provided in these terms are for informational use only and are not part of the Agreement.
 
-7\. นโยบายการยกเลิกบัญชี
+Please read this Agreement carefully and make sure you understand it. If you do not understand the Agreement, or do not accept any part of it, then you may not use the Service.
 
-ก. YouTube จะยกเลิกการเข้าถึงบริการของผู้ใช้ ตามพฤติการณ์ที่เหมาะสม หาก YouTube ตัดสินว่าผู้ใช้เป็นผู้ละเมิดซ้ำ
+**Who may use the Service?**
 
-ข. YouTube สงวนสิทธิ์ในการตัดสินว่าเนื้อหาละเมิดเงื่อนไขและข้อกำหนดในการให้บริการฉบับนี้อันเนื่องมาจากเหตุผลอื่นนอกจากการละเมิดลิขสิทธิ์หรือไม่ รวมถึงแต่ไม่จำกัดเพียง สื่อลามก วัสดุอนาจาร หรือความยาวมากเกินไป YouTube อาจถอดเนื้อหาดังกล่าว และ/หรือยกเลิกบัญชีของผู้ใช้อันเนื่องมาจากการส่งวัสดุที่ขัดต่อเงื่อนไขและข้อกำหนดในการให้บริการฉบับนี้ดังกล่าวในเวลาใดก็ตาม โดยไม่ต้องแจ้งล่วงหน้า และตามดุลยพินิจของ YouTube แต่เพียงผู้เดียว
+**Age Requirements  
+**You must be at least 13 years old to use the Service. However, children of all ages may use YouTube Kids (where available) if enabled by a parent or legal guardian.
 
-8\. กฎหมายลิขสิทธิ์สื่อดิจิตอลสมัยใหม่ (Digital Millennium Copyright Act)
+**Permission by Parent or Guardian**
 
-ก. หากคุณเป็นเจ้าของลิขสิทธิ์ หรือตัวแทนของเจ้าของลิขสิทธิ์ และเชื่อว่าเนื้อหาใดละเมิดลิขสิทธิ์ของคุณ คุณอาจส่งหนังสือแจ้งตามกฎหมายลิขสิทธิ์สื่อดิจิตอลสมัยใหม่ (Digital Millennium Copyright Act: "DMCA") โดยให้ข้อมูลต่อไปนี้เป็นลายลักษณ์อักษรแก่ตัวแทนลิขสิทธิ์ของเรา (ดูรายละเอียดเพิ่มเติมที่ 17 U.S.C. 512 (c)(3))
+If you are considered a minor in your country, you represent that you have your parent or guardian’s permission to use the Service. Please have them read this Agreement with you.
 
-*   ลายมือชื่อทางกายภาพหรือทางอิเล็กทรอนิกส์ของบุคคลที่ได้รับอนุญาตให้กระทำการแทนเจ้าของสิทธิแต่เพียงผู้เดียวที่อ้างว่าถูกละเมิดสิทธิ
-*   การระบุงานมีลิขสิทธิ์ที่อ้างว่าถูกละเมิด หรือหากระบุงานมีลิขสิทธิ์มากกว่าหนึ่งงานในเว็บไซต์เดียวไว้ในหนังสือแจ้งฉบับเดียว ให้ระบุมาเป็นรายการของงานดังกล่าวบนเว็บไซต์นั้น
-*   การระบุวัสดุมีลิขสิทธิ์ที่อ้างว่าละเมิดหรือเป็นสาระสำคัญของกิจกรรมการละเมิด และที่ต้องลบออกหรือปิดการเข้าถึง และข้อมูลที่เพียงพอตามสมควรเพื่อให้ผู้ให้บริการพบวัสดุดังกล่าว
-*   ข้อมูลที่เพียงพอตามสมควรเพื่อให้ผู้ให้บริการสามารถติดต่อคุณได้ เช่น ที่อยู่ หมายเลขโทรศัพท์ และอีเมล (หากมี)
-*   คำแถลงว่าคุณเชื่อโดยสุจริตว่าเจ้าของลิขสิทธิ์ ตัวแทน หรือกฎหมายไม่อนุญาตให้มีการใช้วัสดุในลักษณะที่ร้องเรียน และ
-*   คำแถลงว่าข้อมูลในหนังสือแจ้งมีความถูกต้อง ตามบทลงโทษกรณีการให้เท็จ ว่า คุณได้รับมอบอำนาจให้กระทำการแทนเจ้าของสิทธิแต่เพียงผู้เดียวที่อ้างว่าถูกละเมิดสิทธิ
+If you are a parent or legal guardian of a minor in your country, by allowing your child to use the Service, you are subject to the terms of this Agreement and responsible for your child’s activity on the Service. You can find tools and resources to help you manage your family’s experience on YouTube in our Help Center and through Google’s Family Link.
 
-คุณสามารถส่งหนังสือแจ้งการละเมิดลิขสิทธิ์ไปที่ตัวแทน DMCA ของเราที่ 901 Cherry Ave., San Bruno, CA 94066 อีเมล: copyright@youtube.com แฟ็กซ์ : 650-872-8513 เพื่อความชัดเจน ตัวแทนลิขสิทธิ์จะรับคำบอกกล่าวตาม DMCA เท่านั้น เสียงตอบรับ ข้อคิดเห็น คำขอการสนับสนุนทางเทคนิค และการติดต่ออื่นๆ ควรส่งตรงถึงฝ่ายบริการลูกค้าของ YouTube ที่ https://support.google.com/youtube คุณ รับทราบว่าหากคุณไม่ปฏิบัติตามข้อกำหนดในส่วน 5(ง) นี้ คำบอกกล่าว DMCA อาจไม่มีผลสมบูรณ์
+**Businesses  
+**If you are using the Service on behalf of a company or organisation, you represent that you have authority to act on behalf of that entity, and that such entity accepts this Agreement.
 
-ข. คำบอกกล่าวโต้แย้ง หากคุณเชื่อว่าเนื้อหาของคุณที่ถูกลบ (หรือที่ถูกปิดการเข้าถึง) ไม่เป็นการละเมิด หรือคุณได้รับอำนาจจากเจ้าของลิขสิทธิ์ ตัวแทนของเจ้าของลิขสิทธิ์ หรือตามกฎหมาย ในการโพสต์และใช้วัสดุในเนื้อหาของคุณ คุณอาจส่งคำบอกกล่าวโต้แย้งที่ประกอบด้วยข้อมูลต่อไปนี้ให้แก่ตัวแทนลิขสิทธิ์
+**Your Use of the Service**
 
-*   ลายมือชื่อทางกายภาพหรือทางอิเล็กทรอนิกส์ของคุณ
-*   การระบุเนื้อหาที่ถูกลบหรือที่ถูกปิดการเข้าถึง และตำแหน่งของเนื้อหาก่อนถูกลบหรือปิดการเข้าถึง
-*   คำแถลงว่าคุณเชื่อโดยสุจริตว่าเนื้อหาถูกลบหรือปิดการเข้าถึงอันเนื่องมาจากข้อผิดพลาดหรือการระบุเนื้อหาผิด และ
-*   ชื่อ ที่อยู่ หมายเลยโทรศัพท์ และอีเมลของคุณ คำแถลงว่าคุณยอมรับขอบเขตอำนาจของศาลรัฐบาลกลางในซานฟรานซิสโก แคลิฟอร์เนีย และคำแถลงว่าคุณจะยอมรับกระบวนการส่งหมายศาลจากบุคคลที่ส่งหนังสือแจ้งการละเมิด
+**Content on the Service  
+**The content on the Service includes videos, audio (for example music and other sounds), graphics, photos, text (such as comments and scripts), branding (including trade names, trademarks, service marks, or logos), interactive features, software, metrics, and other materials whether provided by you, YouTube or a third-party (collectively, "Content”).
 
-หากตัวแทนลิขสิทธิ์ได้รับคำบอกกล่าวโต้แย้ง YouTube อาจส่งสำเนาคำบอกกล่าวโต้แย้งไปยังฝ่ายที่ร้องเรียนฝ่ายแรกเพื่อแจ้งว่า YouTube อาจคืนเนื้อหาที่ลบหรือยกเลิกการปิดการเข้าถึงเนื้อหาภายใน 10 วันทำการ หากเจ้าของลิขสิทธิ์ไม่ยื่นขอคำสั่งศาลสำหรับผู้จัดหาเนื้อหา สมาชิก หรือผู้ใช้ YouTube อาจคืนหรือเปิดการเข้าถึง เนื้อหาที่ถูกลบอีกครั้งภายใน 10 ถึง 14 วันทำการ หรือมากกว่านั้นหลังจากได้รับคำบอกกล่าวโต้แย้ง ทั้งนี้ ตามดุลยพินิจของ YouTube แต่เพียงผู้เดียว
+Content is the responsibility of the person or entity that provides it to the Service. YouTube is under no obligation to host or serve Content. If you see any Content you believe does not comply with this Agreement, including by violating the Community Guidelines or the law, you can report it to us.
 
-9\. การปฏิเสธการรับประกัน
+**Google Accounts and YouTube Channels  
+**You can use parts of the Service, such as browsing and searching for Content, without having a Google account. However, you do need a Google account to use some features. With a Google account, you may be able to like videos, subscribe to channels, create your own YouTube channel, and more. You can follow these instructions to create a Google account.
 
-คุณตกลงว่าการใช้บริการของคุณจะเป็นความเสี่ยงของคุณแต่เพียงผู้เดียว มากเท่าที่กฎหมายอนุญาต YouTube เจ้าหน้าที่ กรรมการ ลูกจ้าง และตัวแทนของ YouTube ปฏิเสธการรับประกันทั้งปวง ไม่ว่าโดยชัดแจ้งหรือโดยนัย อันเกี่ยวข้องกับบริการและการใช้บริการ YouTube ไม่รับประกันหรือรับรองเกี่ยวกับความถูกต้องหรือสมบูรณ์ของเนื้อหาของเว็บไซต์นี้หรือเนื้อหาของเว็บไซต์ใดที่เชื่อมกับเว็บไซต์นี้ และไม่มีความรับผิดหรือความรับผิดชอบสำหรับ (1) ข้อผิดพลาด ความผิดพลาด หรือความไม่ถูกต้องของเนื้อหา (2) การบาดเจ็บทางร่างกายหรือความเสียหายของทรัพย์สินในลักษณะใดก็ตาม อันเป็นผลมาจากการที่คุณเข้าถึงและใช้บริการของเรา (3) การเข้าถึงหรือการใช้ที่ไม่ได้รับอนุญาตใดๆ ซึ่งเซิร์ฟเวอร์รักษาความปลอดภัยของเรา และ/หรือข้อมูลส่วนบุคคลใดๆ ทั้งปวง และ/หรือข้อมูลทางการเงินที่เก็บอยู่ในเซิร์ฟเวอร์ดังกล่าว (4) การหยุดชะงักหรือการหยุดของการส่งหรือรับบริการของเรา (4) บั๊ก ไวรัส ม้าโทรจัน หรืออื่นๆ ที่อาจส่งไปหรือผ่านบริการของเราโดยบุคคลภายนอก และ/หรือ (5) ข้อผิดพลาดหรือการละเว้นในเนื้อหาใดหรือความสูญเสียหรือเสียหายประเภทใดก็ตามที่เกิดขึ้นโดยเป็นผลมาจากการใช้เนื้อหาใดที่โพสต์ อีเมล ส่ง หรือทำให้เข้าถึงผ่านบริการได้โดยประการอื่น YouTube ไม่รับประกัน รับรอง ค้ำประกันหรือมีความรับผิดชอบสำหรับผลิตภัณฑ์หรือบริการใดที่บุคคลภายนอกโฆษณาหรือเสนอผ่านบริการหรือบริการลิงค์เชื่อมต่อใดๆ หรือที่อยู่ในแบนเนอร์หรือการโฆษณาอื่น และ YouTube จะไม่เข้าเป็นคู่สัญญาหรือมีความรับผิดชอบใดๆ ในการติดตามธุรกรรมระหว่างคุณและผู้ให้บริการภายนอกของผลิตภัณฑ์และบริการ ทั้งนี้ คุณควรใช้วิจารณญาณและความระมัดระวังตามสมควรเช่นเดียวกับการซื้อผลิตภัณฑ์หรือบริการผ่านสื่อกลางใดหรือในสภาพแวดล้อมใดๆ
+Creating a YouTube channel will give you access to additional features and functions, such as uploading videos, making comments or creating playlists (where available). Here are some details about how to create your own YouTube channel.
 
-10\. การจำกัดความรับผิด
+To protect your Google account, keep your password confidential. You should not reuse your Google account password on third-party applications. Learn more about keeping your Google account secure, including what to do if you learn of any unauthorised use of your password or Google account.
 
-ไม่ว่ากรณีใดก็ตาม YouTube เจ้าหน้าที่ กรรมการ ลูกจ้าง หรือตัวแทนของ YouTube จะไม่มีความรับผิดต่อคุณสำหรับค่าเสียหาย โดยทางตรง โดยทางอ้อม ค่าเสียหายพิเศษ ค่าเสียหายอันเป็นโทษหรือค่าเ สียหายอันเป็นผลสืบเนื่องใดๆ ก็ตามอันเป็นผลมาจาก (1) ข้อผิดพลาด ความผิดพลาด หรือความไม่ถูกต้องของเนื้อหา (2) การบาดเจ็บทางร่างกายหรือความเสียหายของทรัพย์สินในลักษณะใดก็ตาม อันเป็นผลมาจากการที่คุณเข้าถึงและใช้บริการของเรา (3) การเข้าถึงหรือการใช้ที่ไม่ได้รับอนุญาตใดๆ ซึ่งเซิร์ฟเวอร์รักษาความปลอดภัยของเรา และ/หรือข้อมูลส่วนบุคคลใดๆ ทั้งปวง และ/หรือข้อมูลทางการเงินที่เก็บอยู่ในเซิร์ฟเวอร์ดังกล่าว (4) การหยุดชะงักหรือการหยุดของการส่งหรือรับบริการของเรา (4) บั๊ก ไวรัส ม้าโทรจัน หรืออื่นๆที่อาจส่งไปหรือผ่านบริการของเราโดยบุคคลภายนอก และ/หรือ (5) ข้อผิดพลาดหรือการละเว้นในเนื้อหาใดหรือความสูญเสียหรือเสียหายประเภทใดก็ตามที่เกิดขึ้นโดยเป็นผลมาจากการใช้เนื้อหาใดที่โพสต์ อีเมล ส่ง หรือทำให้เข้าถึงผ่านบริการได้โดยประการอื่น ไม่ว่าที่เกี่ยวข้องกับการรับรอง สัญญา การละเมิด หรือทฤษฎีทางกฎหมายอื่นใด และไม่ว่าบริษัทจะได้รับแจ้งถึงความเป็นไปได้ในการเกิดค่าเสียหายดังกล่าวหรือไม่ การจำกัดความรับผิดดังกล่าวจะใช้บังคับมากเท่าที่กฎหมายอนุญาตในขอบเขตอำนาจที่เกี่ยวข้อง
+**Your Information  
+**Our Privacy Policy explains how we treat your personal data and protect your privacy when you use the Service. The YouTube Kids Privacy Notice provides additional information about our privacy practices that are specific to YouTube Kids.
 
-คุณรับทราบเป็นการเฉพาะว่า YouTube จะไม่มีความรับผิดสำหรับเนื้อหาหรือการกระทำที่หมิ่นประมาท น่ารังเกียจ หรือผิดกฎหมายของบุคคลภายนอกและความเสี่ยงในการเกิดอันตรายหรือความเสียหายจากการกระทำของบุคคลดังกล่าวข้างต้นเป็นความเสี่ยงของคุณแต่เพียงผู้เดียว
+We will process any audio or audiovisual content uploaded by you to the Service in accordance with the YouTube Data Processing Terms, except in cases where you uploaded such content for personal purposes or household activities. Learn More.
 
-YouTube ควบคุมและเสนอบริการจากสำนักงานของ YouTube ในสหรัฐอเมริกา YouTube ไม่รับรองว่าบริการมีความเหมาะสมและสามารถเข้าถึงเพื่อการใช้งานได้ในประเทศอื่น ผู้ที่เข้าถึงหรือใช้บริการจากขอบเขตอำนาจอื่นกระทำการดังกล่าวด้วยความสมัครใจของตนและมีความรับผิดชอบในการปฏิบัติตามกฎหมายท้องถิ่น
+**Permissions and Restrictions  
+**You may access and use the Service as made available to you, as long as you comply with this Agreement and applicable law. You may view or listen to Content for your personal, non-commercial use. You may also show YouTube videos through the embeddable YouTube player.
 
-11\. การรับผิดชดใช้
+The following restrictions apply to your use of the Service. You are not allowed to:
 
-มากเท่าที่กฎหมายที่เกี่ยวข้องอนุญาต คุณตกลง รับผิดชดใช้ และปกป้อง YouTube บริษัทแม่ เจ้าหน้าที่ กรรมการ พนักงาน และตัวแทนของ YouTube จากสิทธิเรียกร้อง ค่าเสียหาย ภาระผูกพัน ความสูญเสีย ความรับผิด ต้นทุนหรือหนี้ และค่าใช้จ่าย (รวมถึงแต่ไม่จำกัดเพียงค่าทนาย) อันเกิดจาก (1) การที่คุณใช้และเข้าถึงบริการ (2) การที่คุณละเมิดข้อกำหนดใดของเงื่อนไขและข้อกำหนดในการให้บริการฉบับนี้ (3) การที่คุณละเมิดสิทธิของบุคคลภายนอกใด รวมถึงแต่ไม่จำกัดเพียงลิขสิทธิ์ สิทธิในทรัพย์สิน หรือสิทธิความเป็นส่วนตัว หรือ (4) การเรียกร้องใดๆ ว่าเนื้อหาของคุณก่อให้เกิดความเสียหายต่อบุคคลภายนอก ภาระผูกพันในการปกป้องและรับผิดชดใช้นี้จะมีผลบังคับต่อไปหลังจากเงื่อนไขและข้อกำหนดในการให้บริการฉบับนี้และการใช้บริการของคุณสิ้นสุดลง
+1.  access, reproduce, download, distribute, transmit, broadcast, display, sell, license, alter, modify or otherwise use any part of the Service or any Content except: (a) as expressly authorized by the Service. or (b) with prior written permission from YouTube and, if applicable, the respective rights holders;
+2.  circumvent, disable, fraudulently engage with, or otherwise interfere with any part of the Service (or attempt to do any of these things), including security-related features or features that (a) prevent or restrict the copying or other use of Content or (b) limit the use of the Service or Content;
+3.  access the Service using any automated means (such as robots, botnets or scrapers) except (a) in the case of public search engines, in accordance with YouTube’s robots.txt file. or (b) with YouTube’s prior written permission;
+4.  collect or harvest any information that might identify a person (for example, usernames), unless permitted by that person or allowed under section (3) above;
+5.  use the Service to distribute unsolicited promotional or commercial content or other unwanted or mass solicitations;
+6.  cause or encourage any inaccurate measurements of genuine user engagement with the Service, including by paying people or providing them with incentives to increase a video’s views, likes, or dislikes, or to increase a channel’s subscribers, or otherwise manipulate metrics in any manner;
+7.  misuse any reporting, flagging, complaint, dispute, or appeals process, including by making groundless, vexatious, or frivolous submissions;
+8.  run contests on or through the Service that do not comply with YouTube’s contest policies and guidelines;
+9.  use the Service to view or listen to Content other than for personal, non-commercial use (for example, you may not publicly screen videos or stream music from the Service). or
+10.  use the Service to (a) sell any advertising, sponsorships, or promotions placed on, around, or within the Service or Content, other than those allowed in the Advertising on YouTube policies (such as compliant product placements). or (b) sell advertising, sponsorships, or promotions on any page of any website or application that only contains Content from the Service or where Content from the Service is the primary basis for such sales (for example, selling ads on a webpage where YouTube videos are the main draw for users visiting the webpage).
 
-12\. ความสามารถในการยอมรับเงื่อนไขและข้อกำหนดในการให้บริการ
+**Reservation**
 
-คุณยืนยันว่าคุณอายุเกิน 18 ปีหรือเป็นผู้เยาว์ที่เป็นอิสระ หรือได้รับความยินยอมของพ่อแม่หรือผู้ปกครอง และมีความสามารถโดยสมบูรณ์ในการเข้าทำข้อกำหนด เงื่อนไข ภาระผูกพัน การยืนยัน การรับรอง และการรับประกันที่ระบุในข้อกำหนดการบริการฉบับนี้ และจะปฏิบัติตามเงื่อนไขและข้อกำหนดในการให้บริการฉบับนี้ ในกรณีใดก็ตาม คุณรับรองว่าคุณอายุมากกว่า 13 ปี เนื่องจากบริการไม่มีวัตถุประสงค์ให้เด็กอายุต่ำกว่า 13 ปีใช้ หากคุณอายุต่ำกว่า 13 ปี โปรดหลีกเลี่ยงการใช้บริการ มีเว็บไซต์ดีๆ อื่นๆ มากมายสำหรับคุณ โปรดคุยกับพ่อแม่ของคุณเพื่อหาเว็บไซต์ที่เหมาะสม
+Using the Service does not give you ownership of or rights to any aspect of the Service, including user names or any other Content posted by others or YouTube.
 
-13\. การโอนสิทธิ์
+**Changes to the Service**
 
-คุณต้องไม่โอนเงื่อนไขและข้อกำหนดในการให้บริการฉบับนี้ และสิทธิและใบอนุญาตใดที่ให้ตามเงื่อนไขและข้อกำหนดในการให้บริการฉบับนี้แก่บุคคลอื่น แต่ YouTube อาจกระทำการดังกล่าวได้โดยไม่มีข้อจำกัด
+YouTube is constantly changing and improving the Service. We may also need to alter or discontinue the Service, or any part of it, in order to make performance or security improvements, change functionality and features, make changes to comply with law, or prevent illegal activities on or abuse of our systems. These changes may affect all users, some users or even an individual user.  Whenever reasonably possible, we will provide notice when we discontinue or make material changes to our Service that will have an adverse impact on the use of our Service. However, you understand and agree that there will be times when we make such changes without notice, such as where we feel we need to take action to improve the security and operability of our Service, prevent abuse, or comply with legal requirements.  
 
-14\. ทั่วไป
+**Your Content and Conduct**
 
-คุณตกลงว่า: (1) บริการถือเป็นบริการที่มีฐานในแคลิฟอร์เนียเท่านั้น และ (2) บริการถือเป็นเว็บไซต์เชิงรับซึ่งไม่ก่อให้เกิด ขอบเขตอำนาจเหนือบุคคลต่อ YouTube ไม่ว่าโดยเฉพาะเจาะจงหรือโดยทั่วไป ในขอบเขตอำนาจอื่นนอกเหนือจากแคลิฟอร์เนีย เงื่อนไขและข้อกำหนดในการให้บริการฉบับนี้จะอยู่ภายใต้บังคับของกฎหมายสารบัญญัติภายในแห่งรัฐแคลิฟอร์เนีย โดยไม่เกี่ยวข้องกับหลักการขัดแย้งกันของกฎหมาย สิทธิเรียกร้องหรือข้อพิพาทใดระหว่างคุณกับ YouTube อันเกิดขึ้นจากบริการทั้งหมดหรือส่วนหนึ่งจะตัดสินแต่เพียงผู้เดียวโดยศาลที่มีขอบเขตอำนาจที่ตั้งอยู่ใน ซานตา คลารา เค้าน์ตี้ แคลิฟอร์เนีย เงื่อนไขและข้อกำหนดในการให้บริการฉบับนี้ ร่วมกันกับคำบอกกล่าวการรักษาความเป็นส่วนตัวที่ https://www.youtube.co.th/t/privacy และคำบอกกล่าวทางกฎหมายอื่นใดที่ YouTube ประกาศไว้บนบริการถือเป็นข้อตกลงโดยสมบูรณ์ระหว่างคุณกับ YouTube อันเกี่ยวข้องกับบริการ หากศาลที่มีขอบเขตอำนาจถือว่าบทบัญญัติใดของเงื่อนไขและข้อกำหนดในการให้บริการฉบับนี้ไม่สมบูรณ์ ความไม่สมบูรณ์ของบทบัญญัติดังกล่าวจะไม่กระทบต่อความสมบูรณ์ของบทบัญญัติที่เหลือของเงื่อนไขและข้อกำหนดในการให้บริการฉบับนี้ ซึ่งจะยังคงมีผลบังคับสมบูรณ์ การสละสิทธิ์ของข้อกำหนดใดในเงื่อนไขและข้อกำหนดในการให้บริการฉบับนี้จะไม่ถือเป็นการสละสิทธิ์โดยเพิ่มเติมหรือต่อเนื่องของข้อกำหนดดังกล่าวหรือข้อกำหนดอื่นใด และการไม่ใช้สิทธิหรือบทบัญญัติใดตามเงื่อนไขและข้อกำหนดในการให้บริการฉบับนี้ของ YouTube จะไม่ถือเป็นการสละสิทธิหรือบทบัญญัติดังกล่าว YouTube สงวนสิทธิ์ในการแก้ไขเพิ่มเติมเงื่อนไขและข้อกำหนดในการให้บริการฉบับนี้ในเวลาใดก็ตามโดยไม่ต้องแจ้งให้ทราบ และคุณมีหน้าที่ตรวจสอบเงื่อนไขและข้อกำหนดในการให้บริการฉบับนี้เพื่อรับทราบการเปลี่ยนแปลงใดๆ การที่คุณใช้บริการต่อหลังจากการแก้ไขเพิ่มเติมเงื่อนไขและข้อกำหนดในการให้บริการฉบับนี้ใดๆ จะถือเป็นการตกลงและยอมรับตามข้อกำหนดที่แก้ไขเพิ่มเติมแล้วดังกล่าว คุณและ YouTube ตกลงว่าประเด็นฟ้องใดที่เกิดจากหรือเกี่ยวข้องกับบริการต้องเริ่มขึ้นภายในหนึ่งปีหลังจากเกิดประเด็นฟ้องขึ้น มิฉะนั้น ประเด็นฟ้องดังกล่าวจะถือว่าหมดอายุความ
+**Uploading Content**
 
-มีผลตั้งแต่วันที่ 25 พฤษภาคม ค.ศ. 2018
+If you have a YouTube channel, you may be able to upload Content to the Service. You may use your Content to promote your business or artistic enterprise. If you choose to upload Content, you must not submit to the Service any Content that does not comply with this Agreement (including the YouTube Community Guidelines) or the law. For example, the Content you submit must not include third-party intellectual property (such as copyrighted material) unless you have permission from that party or are otherwise legally entitled to do so. You are legally responsible for the Content you submit to the Service. We may use automated systems that analyze your Content to help detect infringement and abuse, such as spam, malware, and illegal content.
+
+**Rights you Grant**
+
+You retain ownership rights in your Content. However, we do require you to grant certain rights to YouTube and other users of the Service, as described below.
+
+**License to YouTube**
+
+By providing Content to the Service, you grant to YouTube a worldwide, non-exclusive, royalty-free, sublicensable and transferable license to use that Content (including to reproduce, distribute, prepare derivative works, display and perform it) in connection with the Service and YouTube’s (and its successors’ and Affiliates’) business, including for the purpose of promoting and redistributing part or all of the Service.
+
+**License to Other Users**
+
+You also grant each other user of the Service a worldwide, non-exclusive, royalty-free license to access your Content through the Service, and to use that Content, including to reproduce, distribute, prepare derivative works, display, and perform it, only as enabled by a feature of the Service (such as video playback or embeds). For clarity, this license does not grant any rights or permissions for a user to make use of your Content independent of the Service.
+
+**Duration of License**
+
+The licenses granted by you continue for a commercially reasonable period of time after you remove or delete your Content from the Service. You understand and agree, however, that YouTube may retain, but not display, distribute, or perform, server copies of your videos that have been removed or deleted.
+
+**Removing Your Content**
+
+You may remove your Content from the Service at any time. You also have the option to make a copy of your Content before removing it. You must remove your Content if you no longer have the rights required by these terms.
+
+**Removal of Content By YouTube**
+
+If we reasonably believe that any Content is in breach of this Agreement or may cause harm to YouTube, our users, or third parties, we may remove or take down that Content in our discretion. We will notify you with the reason for our action unless we reasonably believe that to do so: (a) would breach the law or the direction of a legal enforcement authority or would otherwise risk legal liability for YouTube or our Affiliates. (b) would compromise an investigation or the integrity or operation of the Service. or (c) would cause harm to any user, other third party, YouTube or our Affiliates. You can learn more about reporting and enforcement, including how to appeal on the Troubleshooting page of our Help Center.
+
+**Copyright Protection**
+
+We provide information to help copyright holders manage their intellectual property online in our YouTube Copyright Center. If you believe your copyright has been infringed on the Service, please send us a notice.
+
+We respond to notices of alleged copyright infringement according to the process in our YouTube Copyright Center, where you can also find information about how to resolve a copyright strike. YouTube's policies provide for the termination, in appropriate circumstances, of repeat infringers’ access to the Service.
+
+**Account Suspension &. Termination**
+
+**Terminations by You  
+**You may stop using the Service at any time. Follow these instructions to delete the Service from your Google Account, which involves closing your YouTube channel and removing your data. You also have the option to download a copy of your data first.
+
+**Terminations and Suspensions by YouTube for Cause**
+
+YouTube may suspend or terminate your access, your Google account, or your Google account’s access to all or part of the Service if (a) you materially or repeatedly breach this Agreement. (b) we are required to do so to comply with a legal requirement or a court order. or (c) we believe there has been conduct that creates (or could create) liability or harm to any user, other third party, YouTube or our Affiliates.  
+
+**Terminations by YouTube for Service** **Changes**
+
+YouTube may terminate your access, or your Google account’s access to all or part of the Service if YouTube believes, in its sole discretion, that provision of the Service to you is no longer commercially viable. 
+
+**Notice for Termination or Suspension**
+
+We will notify you with the reason for termination or suspension by YouTube unless we reasonably believe that to do so: (a) would violate the law or the direction of a legal enforcement authority, or would otherwise risk legal liability for YouTube or our Affiliates. (b) would compromise an investigation or the integrity or operation of the Service. or (c) would cause harm to any user, other third party, YouTube or our Affiliates. Where YouTube is terminating your access for Service changes, where reasonably possible, you will be provided with sufficient time to export your Content from the Service.
+
+**Effect of Account Suspension or Termination**
+
+If your Google account is terminated or your Google account’s access to the Service is restricted, you may continue using certain aspects of the Service (such as viewing only) without an account, and this Agreement will continue to apply to such use. If you believe your Google account has been terminated in error, you can appeal using this form.
+
+**About Software in the Service**
+
+**Downloadable Software  
+**When the Service requires or includes downloadable software (such as the YouTube Studio application), you give permission for that software to update automatically on your device once a new version or feature is available, subject to your device settings. Unless that software is governed by additional terms which provide a license, YouTube gives you a personal, worldwide, royalty-free, non-assignable and non-exclusive license to use the software provided to you by YouTube as part of the Service. This license is for the sole purpose of enabling you to use and enjoy the benefit of the Service as provided by YouTube, in the manner permitted by this Agreement. You are not allowed to copy, modify, distribute, sell, or lease any part of the software, or to reverse-engineer or attempt to extract the source code of that software, unless laws prohibit these restrictions or you have YouTube’s written permission.
+
+**Open Source  
+**Some software used in our Service may be offered under an open source license that we make available to you. There may be provisions in an open source license that expressly override some of these terms, so please be sure to read those licenses.  
+
+**Other Legal Terms**
+
+**Warranty Disclaimer**  
+OTHER THAN AS EXPRESSLY STATED IN THIS AGREEMENT OR AS REQUIRED BY LAW, THE SERVICE IS PROVIDED “AS IS” AND YOUTUBE DOES NOT MAKE ANY SPECIFIC COMMITMENTS OR WARRANTIES ABOUT THE SERVICE. FOR EXAMPLE, WE DON’T MAKE ANY WARRANTIES ABOUT: (A) THE CONTENT PROVIDED THROUGH THE SERVICE. (B) THE SPECIFIC FEATURES OF THE SERVICE, OR ITS ACCURACY, RELIABILITY, AVAILABILITY, OR ABILITY TO MEET YOUR NEEDS. OR (C) THAT ANY CONTENT YOU SUBMIT WILL BE ACCESSIBLE ON THE SERVICE.
+
+**Limitation of Liability**
+
+EXCEPT AS REQUIRED BY APPLICABLE LAW, YOUTUBE, ITS AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES AND AGENTS WILL NOT BE RESPONSIBLE FOR ANY LOSS OF PROFITS, REVENUES, BUSINESS OPPORTUNITIES, GOODWILL, OR ANTICIPATED SAVINGS. LOSS OR CORRUPTION OF DATA. INDIRECT OR CONSEQUENTIAL LOSS. PUNITIVE DAMAGES CAUSED BY:
+
+1.  ERRORS, MISTAKES, OR INACCURACIES ON THE SERVICE;
+2.  PERSONAL INJURY OR PROPERTY DAMAGE RESULTING FROM YOUR USE OF THE SERVICE;
+3.  ANY UNAUTHORIZED ACCESS TO OR USE OF THE SERVICE;
+4.  ANY INTERRUPTION OR CESSATION OF THE SERVICE;
+5.  ANY VIRUSES OR MALICIOUS CODE TRANSMITTED TO OR THROUGH THE SERVICE BY ANY THIRD PARTY;
+6.  ANY CONTENT WHETHER SUBMITTED BY A USER OR YOUTUBE, INCLUDING YOUR USE OF CONTENT. AND/OR
+7.  THE REMOVAL OR UNAVAILABILITY OF ANY CONTENT.
+
+THIS PROVISION APPLIES TO ANY CLAIM, REGARDLESS OF WHETHER THE CLAIM ASSERTED IS BASED ON WARRANTY, CONTRACT, TORT, OR ANY OTHER LEGAL THEORY.
+
+TO THE EXTENT PERMITTED BY APPLICABLE LAW, YOUTUBE AND ITS AFFILIATES’ TOTAL LIABILITY FOR ANY CLAIMS ARISING FROM OR RELATING TO THE SERVICE IS LIMITED TO THE GREATER OF: (A) THE AMOUNT OF REVENUE THAT YOUTUBE HAS PAID TO YOU FROM YOUR USE OF THE SERVICE IN THE 12 MONTHS BEFORE THE DATE OF YOUR NOTICE, IN WRITING TO YOUTUBE, OF THE CLAIM AND (B) USD $500.
+
+**Indemnity**
+
+To the extent permitted by applicable law, you agree to defend, indemnify and hold harmless YouTube, its Affiliates, officers, directors, employees and agents, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney's fees) arising from: (i) your use of and access to the Service. (ii) your violation of any term of this Agreement. (iii) your violation of any third party right, including without limitation any copyright, property, or privacy right. or (iv) any claim that your Content caused damage to a third party. This defense and indemnification obligation will survive this Agreement and your use of the Service.
+
+**Third-Party Links  
+**The Service may contain links to third-party websites and online services that are not owned or controlled by YouTube. YouTube has no control over, and assumes no responsibility for, such websites and online services. Be aware when you leave the Service. we suggest you read the terms and privacy policy of each third-party website and online service that you visit.
+
+**About this Agreement**
+
+**Modifying this Agreement  
+**We may modify this Agreement, for example, to reflect changes to our Service or for legal, regulatory, or security reasons. YouTube will provide reasonable advance notice of any material modifications to this Agreement and the opportunity to review them except that, where legally permitted, modifications addressing newly available features of the Service or modifications made for legal reasons may be effective immediately without notice. Modifications to this Agreement will only apply going forward. If you do not agree to the modified terms, you should remove any Content you have uploaded and discontinue your use of the Service.
+
+**Continuation of this Agreement  
+**If your use of the Service ends, the following terms of this Agreement will continue to apply to you: “Other Legal Terms”, “About This Agreement”, and the licenses granted by you will continue as described under “Duration of License”.
+
+**Severance**  
+If it turns out that a particular term of this Agreement is not enforceable for any reason, this will not affect any other terms.
+
+**No Waiver  
+**If you fail to comply with this Agreement and we do not take immediate action, this does not mean that we are giving up any rights that we may have (such as the right to take action in the future).
+
+**Interpretation**
+
+In these terms, “include” or “including” means “including but not limited to,” and any examples we give are for illustrative purposes.
+
+**Governing Law  
+**All claims arising out of or relating to these terms or the Service will be governed by California law, except California’s conflict of laws rules, and will be litigated exclusively in the federal or state courts of Santa Clara County, California, USA. You and YouTube consent to personal jurisdiction in those courts.
+
+Effective as of December 10, 2019 (view previous version)
