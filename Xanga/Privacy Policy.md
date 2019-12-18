@@ -16,7 +16,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Delete pictures
     *   by GrafSoul
-    *   4 weeks ago
+    *   1 month ago
     *   in Pictures
     *   0 votes
     *   0
@@ -70,7 +70,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Can’t find my archives
     *   by NYFan13
-    *   3 months ago
+    *   4 months ago
     *   in Data Migration
     *   0 votes
     *   0
