@@ -57,6 +57,7 @@ Search search clear
         *   High-Tech industry
         *   Hospitality industry
         *   Labor solutions
+        *   Private equity
         *   Public sector
         *   Professional employer organizations
         *   Retiree health plans
@@ -273,6 +274,7 @@ Login
 *   High-Tech industry
 *   Hospitality industry
 *   Labor solutions
+*   Private equity
 *   Public sector
 *   Professional employer organizations
 *   Retiree health plans
