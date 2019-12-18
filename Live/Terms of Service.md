@@ -388,6 +388,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Microsoft Educator Community
 *   Microsoft Family
 *   Microsoft Health
+*   Microsoft Launcher
 *   Microsoft Movies &. TV
 *   Microsoft Pay
 *   Microsoft Research Interactive Science
@@ -397,6 +398,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Microsoft Translator
 *   Microsoft Wallpaper
 *   Microsoft XiaoIce
+*   Minecraft Realms Plus and Minecraft Realms
 *   Mixer
 *   MSN Dial Up
 *   MSN Explorer
@@ -851,6 +853,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Microsoft Educator Community
 *   Microsoft Family
 *   Microsoft Health
+*   Microsoft Launcher
 *   Microsoft Movies &. TV
 *   Microsoft Pay
 *   Microsoft Research Interactive Science
@@ -860,6 +863,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Microsoft Translator
 *   Microsoft Wallpaper
 *   Microsoft XiaoIce
+*   Minecraft Realms Plus and Minecraft Realms
 *   Mixer
 *   MSN Dial Up
 *   MSN Explorer
