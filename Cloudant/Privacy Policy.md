@@ -12,7 +12,7 @@ Why and how we collect and use your personal information
 
 We may collect your personal information as an individual for various purposes, such as the following:
 
-*   **Access and use of websites or other online services**  
+*   **Access and use of websites or other online service**  
     When entering one of our websites, or using an online service, we will record information necessary to provide you with access, for the operation of the website and for us to comply with security and legal requirements in relation to operating our site, such as passwords, IP address and browser settings. We also collect information about your activities during your visit in order to personalize your website experience, such as recording your preferences and settings, and to collect statistics to help us improve and further develop our websites, products and services.
 *   **Responding to your request for information, order, or support**  
     When you contact us (online or offline) in connection with a request for information, to order a product or service, to provide you with support, or to participate in a forum or other social computing tool, we collect information necessary to fulfill your request, to grant you access to the product or service, to provide you with support and to be able to contact you. For instance, we collect your name and contact information, details about your request and your agreement with us and the fulfillment, delivery and invoicing of your order and we may include client satisfaction survey information. We retain such information for administrative purposes, defending our rights, and in connection with our relationship with you.  
@@ -107,6 +107,8 @@ U.S.A.
 If you do not want to receive future marketing communications from IBM, including subscriptions, please send an email to NETSUPP@us.ibm.com.
 
 Other useful privacy links
+
+California Supplemental Privacy Statement
 
 IBM Mobile Application Privacy Statement
 
