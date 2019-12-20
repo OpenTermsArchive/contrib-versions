@@ -164,7 +164,7 @@ WhatsApp Intellectual Property Policy
 
 WhatsApp Brand Guidelines
 
-WhatsApp Privacy PolicyLast modified: August 25, 2016 (archived versions)
+WhatsApp Privacy PolicyLast modified: December 19, 2019 (archived versions)
 
 Respect for your privacy is coded into our DNA. Since we started WhatsApp, we’ve aspired to build our Services with a set of strong privacy principles in mind.
 
@@ -272,6 +272,10 @@ Updates To Our Policy
 
 We may amend or update our Privacy Policy. We will provide you notice of amendments to this Privacy Policy, as appropriate, and update the “Last Modified” date at the top of this Privacy Policy. Your continued use of our Services confirms your acceptance of our Privacy Policy, as amended. If you do not agree to our Privacy Policy, as amended, you must stop using our Services. Please review our Privacy Policy from time to time.
 
+California Consumer Privacy Act
+
+California residents may learn more about their rights, including how to exercise their rights under the California Consumer Privacy Act of 2018, by clicking here.
+
 Contact Us
 
 If you have questions about our Privacy Policy, please contact us.
@@ -281,6 +285,10 @@ Privacy Policy
 1601 Willow Road  
 Menlo Park, California 94025  
 United States of America
+
+California Privacy Notice
+
+California residents can learn more about their privacy rights in our California Privacy Notice.
 
 WHATSAPP INC., THE EU-U.S. PRIVACY SHIELD AND THE SWISS-U.S. PRIVACY SHIELD
 
