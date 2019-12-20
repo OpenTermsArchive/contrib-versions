@@ -2,8 +2,6 @@ _Effective May 8, 2018_
 
 Our Privacy Policy will be updated in January. Click here to see a preview of the changes.
 
-See a guided tour of the main changes.
-
 Your Privacy Matters
 
 LinkedIn’s mission is to connect the world’s professionals to allow them to be more productive and successful. Central to this mission is our commitment to be transparent about the data we collect about you, how it is used and with whom it is shared.
