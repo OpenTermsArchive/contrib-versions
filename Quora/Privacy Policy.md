@@ -1,10 +1,14 @@
 Privacy Policy
 
-Last updated: December 18, 2019
+_Last updated: December 20, 2019_
 
 Quora recognizes that your privacy is very important, and we take it seriously. This Privacy Policy (“Privacy Policy”) describes our policies and procedures on the collection, use, disclosure, and sharing of your personal information when you use the Quora Platform.
 
 This Privacy Policy applies to activities by Quora, Inc. and its affiliates and subsidiaries (collectively “Quora,” “we” or “us”). Capitalized terms that are not defined in this Privacy Policy have the meaning given to them in our _Terms of Service_.
+
+**Notice for California Residents**
+
+If you are a California resident, please see the section below titled Additional Information for California Residents.
 
 **The Information We Collect**
 
@@ -18,7 +22,7 @@ We collect information directly from individuals, from third parties, and automa
 
 **_Integrated Service Provider and Linked Networks_** . You can connect your existing Quora account with certain third-party networks like Twitter or Google, for example (each a “Linked Network”). You can also elect to sign in or sign up to the Quora Platform through a Linked Network. If you elect to sign up through or connect a Linked Network, we receive certain profile and account information about you from the Linked Network. These Linked Networks may also appear in your profile, so that people can find you on these Linked Networks. The specific information provided to us by Linked Networks is determined by you and these third parties, and may vary by network. In all cases, the permissions page for the Linked Network will describe the information being shared. You should consult their respective privacy policies for information about their practices. You may elect to use information from the Linked Network to populate your profile on the Quora Platform and help you find and follow your contacts on the Quora Platform. For information on your choices, including how to disconnect a Linked Network from your Quora profile, see the Your Choices section below. You may also elect to connect and make and receive payments to and from use through third-party networks (“Integrated Service Provider”). if you do so, you will be allowing us to pass to and receive from the Integrated Service Provider your login information and other user data for payment purposes.
 
-**_Automatically Collected Information About Your Activity_** . We use cookies, log files, pixel tags, local storage objects, and other tracking technologies to automatically collect information about your activities, such as your searches, page views, date and time of your visit, and other information about your use of the Quora Platform. We also collect information that your computer or mobile device provides to us in connection with your use of the Quora Platform such as your browser type, type of computer or mobile device, browser language, IP address, mobile carrier, unique device identifier, location, and requested and referring URLs. We also receive information when you view content on or otherwise interact with the Quora Platform, even if you have not created an account. For more information, see the “Cookies, Pixels and Tracking” section below and our _Cookie Policy_.
+**_Automatically Collected Information About Your Activity_** . We use cookies, log files, pixel tags, local storage objects, and other tracking technologies to automatically collect information about your activities, such as your searches, page views, date and time of your visit, and other information about your use of the Quora Platform. We also collect information that your computer or mobile device provides to us in connection with your use of the Quora Platform such as your browser type, type of computer or mobile device, browser language, IP address, mobile carrier, unique device identifier, location, and requested and referring URLs. We also receive information when you view content on or otherwise interact with the Quora Platform, even if you have not created an account. For more information, see the “Cookies, Pixels and Tracking” section below and our Cookie Policy.
 
 **_Engagement_** . We collect browsing information – such as IP address and location, date and time stamp, user agent, Quora cookie ID (if applicable), URL, unique advertising or content identifiers (if applicable) and time zone, and other information about user activities on the Quora Platform, as well as on third-party sites and services that have embedded our Quora pixels (“Pixels”), widgets, plug-ins, buttons, or related services. See the section below about Quora Ads and Personalization for more detailed information about how our Pixels may be used by publishers or users of our advertising services (“Ad Services”) on the Quora Platform to enable personalization, as well as your choices related to advertising and personalization. We may also receive information about you from third parties, such as other users, partners (including ad partners), or our affiliated companies.
 
@@ -56,7 +60,7 @@ We share information as set forth below, and where individuals have otherwise co
 
 **Cookies, Pixels and Tracking**
 
-We and our third-party providers use cookies, clear GIFs/pixel tags, JavaScript, local storage, log files, and other mechanisms to automatically collect and record information about your usage and browsing activities on the Quora Platform and across third-party sites or online services. We may combine this information with other information we collect about users. Below, we provide a brief summary these activities. For more detailed information about these mechanisms and how we collect activity information, see our _Cookie Policy_.
+We and our third-party providers use cookies, clear GIFs/pixel tags, JavaScript, local storage, log files, and other mechanisms to automatically collect and record information about your usage and browsing activities on the Quora Platform and across third-party sites or online services. We may combine this information with other information we collect about users. Below, we provide a brief summary of these activities. For more detailed information about these mechanisms and how we collect activity information, see our _Cookie Policy_.
 
 *   _Cookies_. These are small files with a unique identifier that are transferred to your browser through our websites. They allow us to remember users who are logged in, to understand how users navigate through and use the Quora Platform, and to display personalized content and targeted ads (including on third-party sites and applications).
 *   _Pixels, web beacons, clear GIFs_. These are tiny graphics with a unique identifier, similar in function to cookies, which we use to track the online movements of users of the Quora Platform and the web pages of users of our Ad Services, and to personalize content. We also use these in our emails to let us know when they have been opened or forwarded, so we can gauge the effectiveness of our communications.
@@ -90,7 +94,7 @@ You may, of course, decline to submit information through the Quora Platform, in
 
 **_Anonymous Posts_** . You may post certain content anonymously, including questions and answers. In such event, your name is not displayed along with the content, and Quora does not associate such content with your user ID and other profile data. For further information see _how anonymity works on Quora._
 
-**_Your Content_** . You may edit or delete the answers that you post at any time. Any questions you have posted may remain on the Quora Platform and be edited by other users. Any deleted content will be removed from third party sites from which it has been shared via Quora’s standard sharing features. however we have no control over deletions or changes to your content if it has been shared manually by others. When you make edits to your content, other users will be able to see the history of those edits in your profile activity and on content edit logs.
+**_Your Content_** . You may edit or delete the answers that you post at any time. Any questions you have posted may remain on the Quora Platform and be edited by other users. Any deleted content will be removed from third-party sites from which it has been shared via Quora’s standard sharing features. however we have no control over deletions or changes to your content if it has been shared manually by others. When you make edits to your content, other users will be able to see the history of those edits in your profile activity and on content edit logs.
 
 **_Adult Content_** . In your profile’s privacy settings, you can elect whether to receive adult content.
 
@@ -122,7 +126,7 @@ For information about and to opt out of interest-based ads from many ad networks
 *   Canada: Digital Advertising Alliance of Canada’s Opt-Out Tool
 *   European Union: European Interactive Digital Advertising Alliance
 
-**_Linked Networks_** . You may connect or disconnect your Linked Networks, such as Google, through the Account Settings tab in your profile settings, and you may access, amend and delete much of your profile information through your profile settings. Once you disconnect a Linked Network, we will not receive information from that Linked Network going forward unless you choose to reconnect it. You may also control whether the Linked Network is visible in your profile. Please see this page for more information about Linked Networks and the Quora Platform
+**_Linked Network_** s. You may connect or disconnect your Linked Networks, such as Google, through the Account Settings tab in your profile settings, and you may access, amend and delete much of your profile information through your profile settings. Once you disconnect a Linked Network, we will not receive information from that Linked Network going forward unless you choose to reconnect it. You may also control whether the Linked Network is visible in your profile. Please see this page for more information about Linked Networks and the Quora Platform
 
 **Transferring Your Data**
 
@@ -135,6 +139,30 @@ We do not knowingly collect or solicit personal information from anyone under th
 **Links to Other Websites**
 
 The Quora Platform may contain links to third-party sites or online services. We are not responsible for the practices of such third parties, whose information practices are subject to their own policies and procedures, not to this Privacy Policy.
+
+**Additional Information for California Residents**
+
+This section provides information organized in accordance with the California Consumer Privacy Act (“CCPA”) for residents of California about how we handle certain personal information we have collected over the past 12 months.
+
+**_Categories of Personal Information_** . This Privacy Policy discloses the categories of personal information that we collect, use, and disclose in order to operate our business over the past 12 months.
+
+*   **Collect**. The section above entitled **The Information We Collect** discloses the categories of personal information that we collect, which include your account and profile information, your content, your communications with us, your information you provide from linked networks, information about your activity on Quora, and how you engage with our Quora.
+*   **Use**. The section above entitled **How We Use Your Information** discloses the that the categories of personal information we collect are used to provide our services, for personalization, to provide advertising in order to generate income to operate Quora, to promote our services to you, to analyze how our services are used, to comply with law, and to prevent misuse of Quora.
+*   **Disclose**. The section above entitled **How We Share Your Information** discloses that we share your personal information with, service providers, affiliates, law enforcement authorities, and as needed with third parties to provide our services.
+
+**_We do not sell your personal information to third parties_** . Quora may share your personal information with third parties and third parties may collect your personal information as described above in the How We Share Your Information section. In addition, as described in our _Cookie Policy_, we may also work with third parties such as network advertisers to serve ads on the Quora Platform and on third-party websites or other media (e.g., social networking platforms), such as Google AdSense (more info here) and Facebook Audience Network (more info here). These third parties may use cookies, JavaScript, web beacons (including clear GIFs), Flash LSOs and other tracking technologies to measure the effectiveness of their ads and to personalize advertising content to you.
+
+We do not collect personal information from consumers that we know are younger than 16 years old.
+
+**_Requests for Deletion, Copy and Right to Know Your Information_** . California consumers have the right to make the following requests, which we endeavor to honor from non-California residents as well:
+
+*   **Deletion**. You have the right to request deletion of personal information that we have collected about you.
+*   **Copy and Right to Know**. You have the right to request a copy of the specific pieces of personal information that we have collected about you over the past 12 months, including the categories of information, sources, and purposes of collection, as well as categories of third parties we have shared it with.
+*   **Designated Agent**. You may designate an agent to make a request on your behalf. That agent must have access to your account in order for us to verify the request.
+
+You may submit deletion, copy and right to know requests through the online form here. You can also submit a deletion, copy and right to know request by emailing us at privacy@quora.com. You will need access to the email account associated with your Quora account in order to verify your identity and complete this process.
+
+**_Non-Discrimination_** . Quora will not discriminate against you, including by denying or providing a different level or quality of goods or services should you choose to exercise your options under the CCPA.
 
 **_Your California Privacy Rights under California’s Shine-the-Light Law_** . California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their personal information (if any) for their direct marketing purposes in the prior calendar year, as well as the types of personal information disclosed to those parties. If you are a California resident and would like to request this information, please submit your request in an email to _privacy@quora.com_.
 
