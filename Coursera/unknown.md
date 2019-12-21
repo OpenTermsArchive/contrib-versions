@@ -1,10 +1,10 @@
 Cookies Policy
 
-_Effective: May 15, 2018_
+_Effective: January 1, 2020_
 
 Coursera ("us", "we", or "our") uses cookies on coursera.org and affiliated websites (collectively the "Site").
 
-Our Cookies Policy explains what cookies are, how we use cookies, how third-parties we partner with may use cookies on the Site, and your choices regarding cookies. Please read this Cookies Policy in conjunction with our Privacy Policy, which sets out additional details on how we use personally identifiable information and your various rights.
+Our Cookies Policy explains what cookies are, how we use cookies, how third-parties we partner with may use cookies on the Site, and your choices regarding cookies. Please read this Cookies Policy in conjunction with our Privacy Notice, which sets out additional details on how we use personally identifiable information and your various rights.
 
 What are cookies
 
