@@ -1,3 +1,9 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
@@ -7,19 +13,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 years ago
     *   in Data Migration
     *   0 votes
-    *   47 (last comment by msczarina2002 1 day ago)
+    *   47 (last comment by msczarina2002 2 days ago)
 *   how can i access my old blogs
     *   \[Resolved\] by e\_e
     *   6 years ago
     *   in Data Migration
     *   0 votes
-    *   9 (last comment by thaemokid 2 days ago)
+    *   9 (last comment by thaemokid 3 days ago)
 *   Please! I'd like to get my old blogs
     *   by mandynoelle
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by seraphym\_shining 2 days ago)
+    *   1 (last comment by seraphym\_shining 3 days ago)
 *   Delete pictures
     *   by GrafSoul
     *   1 month ago
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
