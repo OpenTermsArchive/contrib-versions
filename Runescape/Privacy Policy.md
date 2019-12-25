@@ -1,8 +1,8 @@
 Privacy Policy
 
-Version 0.4
+Version 0.5
 
-Date October 28, 2019.
+Date December 24, 2019.
 
 Introduction
 
@@ -40,7 +40,7 @@ You have the right to make a complaint at any time to the Information Commission
 
 CHANGES TO THE PRIVACY POLICY AND YOUR DUTY TO INFORM US OF CHANGES
 
-This version was last updated on October 2018 and historic versions can be obtained by contacting us.
+This version was last updated on December 24, 2019 and historic versions can be obtained by contacting us.
 
 It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.
 
@@ -313,7 +313,65 @@ TIME LIMIT TO RESPOND
 
 We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests, in which case we will inform you of an extension period of up to 2 months. In this case, we will keep you informed on progress.
 
-10\. Glossary LAWFUL BASIS
+10\. California Residents: Your California Privacy Rights
+
+California Civil Code Section 1798.83 gives California residents certain rights when they use services that process personal data. Please note that the contents below are for California residents only.
+
+RIGHT TO KNOW
+
+If you are a California resident, you may submit, free of charge but not more than twice in a 12-month period, a verifiable request for the following information:
+
+*   The specific pieces of personal information we have about you;
+*   The categories of personal information we have collected or disclosed for a business purpose about you within the last 12 months. please note that Jagex will never sell your data;
+*   The categories of sources from which the personal information was collected. and
+*   The categories of third parties to whom the information was disclosed for a business purpose or otherwise shared.
+
+In sections 2,3 and 4 of this Privacy Policy, we describe the data we collect about you, how your data is collected and how we use your personal data.
+
+To submit a request, please use one of the following methods via our Data Protection Officer's office at Relentless Privacy and Compliance Ltd:
+
+*   Email us at ccpajagex@relentlessdataprivacy.com
+*   Use our online webform located at Subject access request
+
+Email requests must include "Your California Privacy Rights" in the subject field and state **right to know**, **deletion** or **opt out**.
+
+Within 24 hours of receipt, we will confirm receipt of your request. We will verify your identity as a resident in the state of California and contact you to request that information. If we are not able to verify your identity, we will deny your request. If we deny your request, even if only in part, we will explain the reason in our response.
+
+Once verified, we will provide a substantive response within 45 days, unless we need more time, in which case we will notify you.
+
+RIGHT TO DELETE
+
+If you are a California resident, you may submit a verifiable request for us to delete any personal information we have collected about you. To submit a request, please email us at ccpajagex@relentlessdataprivacy.com or use our online webform Subject access request
+
+Email requests must include "Your California Privacy Rights" in the subject field and state **right to know**, **deletion** or **opt out**.
+
+RIGHT TO OPT OUT
+
+California residents may opt out of the "sale" of their personal information, as defined by the California Consumer Protection Act. This does **not** include when:
+
+*   You direct us to disclose your personal information or use us to interact with a third party and the third party does not sell the personal information;
+*   We use or share an identifier solely to alert a third party that you have opted out of the sale of your personal information.
+*   Your personal information s transferred as an asses, as part of a transaction in which the third party assumes control of all or part of our business, in which case the third party would have to tell you in writing if it materially changes how the information is used or shared and;
+*   We use or share your personal information under a written contract with a service provider necessary to perform a business purpose. Here, the service that the service provider performs is on our behalf, and our written contract prohibits it from keeping, using or disclosing your personal information for any purpose other than for the specific purpose identified in the contract.
+
+Email requests must include "Your California Privacy Rights" in the subject field and state **right to know**, **deletion** or **opt out**.
+
+RIGHT TO BE FREE FROM DISCRIMINATION
+
+We may not discriminate against you because you have chosen to exercise your rights, including, for example, by denying you access to our online services or charging you different rates or prices for the same online services, unless that difference is reasonably related to the value provided by your data.
+
+EXERCISING YOUR RIGHTS
+
+To submit a verifiable request or otherwise contact us for more information about how to exercise your rights, please follow the instructions above.
+
+If you would like to designate an authorised agent to make a request on your behalf, please be sure the agent is able to:
+
+*   demonstrate you have provided written permission for the agent to submit the request on your behalf. and
+*   provide proof of his or her own identity.
+
+If the agent does not satisfy these requirements, we will deny the request.
+
+11\. Glossary LAWFUL BASIS
 
 **Legitimate Interest** means the interest of our business in conducting and managing our business to enable us to give you the best service/product and the best and most secure experience. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law). You can obtain further information about how we assess our legitimate interests against any potential impact on you in respect of specific activities by contacting us.
 
@@ -323,6 +381,6 @@ We try to respond to all legitimate requests within one month. Occasionally it m
 
 **Explicit consent** **for external marketing** means your personal data will not be disclosed to any third party unless you have given your explicit consent to such disclosure.
 
-11\. Policy updates
+12\. Policy updates
 
 We may update our Privacy Policy from time to time to reflect changes in technology, legislation, our operations, or as we otherwise determine is necessary or appropriate. Any such changes will become effective when we make the revised policy available on our website. We encourage you to review the date above frequently to ensure you are aware of when our policy was last revised, and to help you better understand the nature of your interactions with us.
