@@ -13,19 +13,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 years ago
     *   in Data Migration
     *   0 votes
-    *   47 (last comment by msczarina2002 3 days ago)
+    *   47 (last comment by msczarina2002 4 days ago)
 *   how can i access my old blogs
     *   \[Resolved\] by e\_e
     *   6 years ago
     *   in Data Migration
     *   0 votes
-    *   9 (last comment by thaemokid 4 days ago)
+    *   9 (last comment by thaemokid 5 days ago)
 *   Please! I'd like to get my old blogs
     *   by mandynoelle
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by seraphym\_shining 4 days ago)
+    *   1 (last comment by seraphym\_shining 5 days ago)
 *   Delete pictures
     *   by GrafSoul
     *   1 month ago
@@ -70,7 +70,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Is Xanga DEAD?! Or is something still in the works?
     *   by IamKevio
-    *   3 months ago
+    *   4 months ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -94,7 +94,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Looking for old posts
     *   by bleach\_me\_clean
-    *   4 months ago
+    *   5 months ago
     *   in Data Migration
     *   0 votes
     *   0
