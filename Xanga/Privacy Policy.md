@@ -8,24 +8,30 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Please help to reactivate let me can see old posts
+    *   by natalie6791
+    *   9 months ago
+    *   in Themes
+    *   0 votes
+    *   1 (last comment by YIP\_KA\_HO\_TOMMY 14 hours ago)
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   5 years ago
     *   in Data Migration
     *   0 votes
-    *   47 (last comment by msczarina2002 4 days ago)
+    *   47 (last comment by msczarina2002 5 days ago)
 *   how can i access my old blogs
     *   \[Resolved\] by e\_e
     *   6 years ago
     *   in Data Migration
     *   0 votes
-    *   9 (last comment by thaemokid 5 days ago)
+    *   9 (last comment by thaemokid 6 days ago)
 *   Please! I'd like to get my old blogs
     *   by mandynoelle
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by seraphym\_shining 5 days ago)
+    *   1 (last comment by seraphym\_shining 6 days ago)
 *   Delete pictures
     *   by GrafSoul
     *   1 month ago
@@ -58,13 +64,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Cannot look back the previous blogs
     *   by JeSS\_Manchai
-    *   3 months ago
+    *   4 months ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Cannot look back the previous blogs
     *   by JeSS\_Manchai
-    *   3 months ago
+    *   4 months ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -89,12 +95,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 *   looking for old post
     *   by Secretjay
     *   4 months ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Looking for old posts
-    *   by bleach\_me\_clean
-    *   5 months ago
     *   in Data Migration
     *   0 votes
     *   0
