@@ -13,25 +13,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   9 months ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by YIP\_KA\_HO\_TOMMY 14 hours ago)
+    *   1 (last comment by YIP\_KA\_HO\_TOMMY 1 day ago)
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   5 years ago
     *   in Data Migration
     *   0 votes
-    *   47 (last comment by msczarina2002 5 days ago)
+    *   47 (last comment by msczarina2002 6 days ago)
 *   how can i access my old blogs
     *   \[Resolved\] by e\_e
     *   6 years ago
     *   in Data Migration
     *   0 votes
-    *   9 (last comment by thaemokid 6 days ago)
+    *   9 (last comment by thaemokid 1 week ago)
 *   Please! I'd like to get my old blogs
     *   by mandynoelle
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by seraphym\_shining 6 days ago)
+    *   1 (last comment by seraphym\_shining 1 week ago)
 *   Delete pictures
     *   by GrafSoul
     *   1 month ago
@@ -46,10 +46,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Retrieve arhieves
     *   by jayu1121
-    *   2 months ago
+    *   3 months ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by perchedonstilts 2 months ago)
+    *   1 (last comment by perchedonstilts 3 months ago)
 *   Archive does not have all blogs
     *   by nevaeh84
     *   3 months ago
