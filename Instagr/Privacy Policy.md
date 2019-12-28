@@ -72,4 +72,5 @@ Facebook, Inc.
 ATTN: Privacy Operations  
 1601 Willow Road  
 Menlo Park, CA 94025  
+**Privacy Notice for California Residents**If you are a California resident, you can learn more about your consumer privacy rights by reviewing the California Privacy Notice.  
 Date of Last Revision: April 19, 2018
