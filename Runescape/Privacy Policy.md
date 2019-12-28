@@ -2,7 +2,7 @@ Privacy Policy
 
 Version 0.5
 
-Date December 24, 2019.
+Date December 27, 2019.
 
 Introduction
 
@@ -40,7 +40,7 @@ You have the right to make a complaint at any time to the Information Commission
 
 CHANGES TO THE PRIVACY POLICY AND YOUR DUTY TO INFORM US OF CHANGES
 
-This version was last updated on December 24, 2019 and historic versions can be obtained by contacting us.
+This version was last updated on December 27, 2019 and historic versions can be obtained by contacting us.
 
 It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.
 
@@ -315,11 +315,11 @@ We try to respond to all legitimate requests within one month. Occasionally it m
 
 10\. California Residents: Your California Privacy Rights
 
-California Civil Code Section 1798.83 gives California residents certain rights when they use services that process personal data. Please note that the contents below are for California residents only.
+The California Consumer Privacy Act (also referred to as the "CCPA") is a privacy-centric bill protecting the privacy of California consumers that will be effective on 1 January, 2020. Please note that the contents below are for California residents only.
 
 RIGHT TO KNOW
 
-If you are a California resident, you may submit, free of charge but not more than twice in a 12-month period, a verifiable request for the following information:
+If you are a California resident, you may submit free of charge, but not more than twice in a 12-month period, a verifiable request for the following information:
 
 *   The specific pieces of personal information we have about you;
 *   The categories of personal information we have collected or disclosed for a business purpose about you within the last 12 months. please note that Jagex will never sell your data;
@@ -347,11 +347,11 @@ Email requests must include "Your California Privacy Rights" in the subject fiel
 
 RIGHT TO OPT OUT
 
-California residents may opt out of the "sale" of their personal information, as defined by the California Consumer Protection Act. This does **not** include when:
+California residents may opt out of the "sale" of their personal information, as defined by the CCPA. This does **not** include when:
 
 *   You direct us to disclose your personal information or use us to interact with a third party and the third party does not sell the personal information;
 *   We use or share an identifier solely to alert a third party that you have opted out of the sale of your personal information.
-*   Your personal information s transferred as an asses, as part of a transaction in which the third party assumes control of all or part of our business, in which case the third party would have to tell you in writing if it materially changes how the information is used or shared and;
+*   Your personal information is transferred as an asset, as part of a transaction in which the third party assumes control of all or part of our business, in which case the third party would have to tell you in writing if it materially changes how the information is used or shared and;
 *   We use or share your personal information under a written contract with a service provider necessary to perform a business purpose. Here, the service that the service provider performs is on our behalf, and our written contract prohibits it from keeping, using or disclosing your personal information for any purpose other than for the specific purpose identified in the contract.
 
 Email requests must include "Your California Privacy Rights" in the subject field and state **right to know**, **deletion** or **opt out**.
