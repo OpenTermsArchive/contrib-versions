@@ -56,11 +56,11 @@ The General Data Protection Regulation or "GDPR" gives certain rights to individ
 
 In order to enable you to learn more about these rights, exercise these rights with ease, and record your preferences in relation to how Spotify uses your personal data, we provide the following resources:
 
-> *   **Privacy Settings** - allows you to exercise choices about the processing of certain personal data, and an automated ‘Download your data’ function to download basic account and usage information.
+> *   **Privacy Settings** (accessed via your account page) - allows you to exercise choices about the processing of certain personal data, and an automated ‘Download your data’ function to download basic account and usage information.
 >     
 > *   Privacy Center - provides a convenient central location where you can find more information about how Spotify uses your personal data, your rights in relation to your personal data, and how to exercise those rights.
 >     
-> *   **Notification Settings** - allows you to choose which marketing communications you receive from Spotify. You may toggle these settings to opt in or out of receiving different types of email and push notifications. Please note that email marketing messages from Spotify include an opt-out mechanism within the message itself (e.g. an unsubscribe link in the emails we send to you). Clicking on the link in an email will opt you out of further messages of that category (e.g. Artist Updates). You can use the Notification Settings page to exercise choices about all categories of email and push marketing communication.
+> *   **Notification Settings** (accessed via your account page) - allows you to choose which marketing communications you receive from Spotify. You may toggle these settings to opt in or out of receiving different types of email and push notifications. Please note that email marketing messages from Spotify include an opt-out mechanism within the message itself (e.g. an unsubscribe link in the emails we send to you). Clicking on the link in an email will opt you out of further messages of that category (e.g. Artist Updates). You can use the Notification Settings page to exercise choices about all categories of email and push marketing communication.
 >     
 > *   Cookies Policy - provides more information on how we use cookies, including for interest-based advertising. You will also find information about how you can manage your cookie preferences and opt-out of certain types of tracking. and
 >     
