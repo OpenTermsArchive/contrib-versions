@@ -450,9 +450,8 @@ Email: privacy@gm.com
 *   Social Media Policy
 *   Supply Chain Responsibility
 *   Privacy Statement
-*   California Privacy Policy
 *   Sitemap
 
- 
+CALIFORNIA RESIDENTS: DO NOT SELL MY INFO  
 
 Share On
