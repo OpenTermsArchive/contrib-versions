@@ -13,7 +13,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   9 months ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by YIP\_KA\_HO\_TOMMY 2 days ago)
+    *   1 (last comment by YIP\_KA\_HO\_TOMMY 3 days ago)
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   5 years ago
@@ -28,7 +28,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   9 (last comment by thaemokid 1 week ago)
 *   Please! I'd like to get my old blogs
     *   by mandynoelle
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by seraphym\_shining 1 week ago)
@@ -88,13 +88,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   i cannot upgrade to xanga 2.0
     *   by Secretjay
-    *   4 months ago
+    *   5 months ago
     *   in Data Migration
     *   0 votes
     *   0
 *   looking for old post
     *   by Secretjay
-    *   4 months ago
+    *   5 months ago
     *   in Data Migration
     *   0 votes
     *   0
