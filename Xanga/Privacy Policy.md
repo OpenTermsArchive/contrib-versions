@@ -13,7 +13,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   9 months ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by YIP\_KA\_HO\_TOMMY 3 days ago)
+    *   1 (last comment by YIP\_KA\_HO\_TOMMY 4 days ago)
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   5 years ago
