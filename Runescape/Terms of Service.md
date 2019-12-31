@@ -1,8 +1,8 @@
 Terms and Conditions
 
-Version 0.3
+Version 0.4
 
-Date April 30th 2019.
+Date December 30th, 2019.
 
 1\. Introduction
 
@@ -34,11 +34,9 @@ Please check the terms and conditions whenever you use a Jagex Product. If you a
 
 5\. Preteens and users under 18
 
-Some Jagex Products may have age restrictions which prevent users under 13 creating an account. If a Jagex Product is not subject to age restrictions, a user under 13 may create an account. However, they must get consent from their parents/guardians to use the Jagex Product in accordance with our terms and conditions and privacy policy. We may Stop any account if we are not satisfied that such consent has been given or that such consent does not comply with local laws regarding users who are under 13 years of age.
+Jagex Products have age restrictions which prevent users under 13 creating an account. You may not create an account if you are under the age of 13, and it is a violation of our terms to register an account on behalf of someone under the age of 13.
 
-We do not knowingly collect or store any personally identifiable information from children under 13. If we find out that any personally identifiable information we have collected is from someone under 13, we will automatically delete it, and we may Stop the account.
-
-We recommend that parents/guardians should play together with their children who are under the age of 13.
+We do not knowingly collect or store any personally identifiable information from children under 13. If we find out that any personally identifiable information we have collected is from someone under 13, we will automatically delete it, and Stop the account.
 
 If you are under 18, by using our website you are representing (i.e. making a promise) that you have consent from your parents/guardian to use Jagex Products in accordance with our terms and conditions and privacy policy. We may Stop any account if we are not satisfied that such consent has been given.
 
