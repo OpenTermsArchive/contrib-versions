@@ -2,7 +2,7 @@ Privacy Policy
 
 Version 0.5
 
-Date December 27, 2019.
+Date December 30, 2019.
 
 Introduction
 
@@ -40,7 +40,7 @@ You have the right to make a complaint at any time to the Information Commission
 
 CHANGES TO THE PRIVACY POLICY AND YOUR DUTY TO INFORM US OF CHANGES
 
-This version was last updated on December 27, 2019 and historic versions can be obtained by contacting us.
+This version was last updated on December 30, 2019 and historic versions can be obtained by contacting us.
 
 It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.
 
@@ -322,7 +322,7 @@ RIGHT TO KNOW
 If you are a California resident, you may submit free of charge, but not more than twice in a 12-month period, a verifiable request for the following information:
 
 *   The specific pieces of personal information we have about you;
-*   The categories of personal information we have collected or disclosed for a business purpose about you within the last 12 months. please note that Jagex will never sell your data;
+*   The categories of personal information we have collected or disclosed for a business purpose about you within the last 12 months.
 *   The categories of sources from which the personal information was collected. and
 *   The categories of third parties to whom the information was disclosed for a business purpose or otherwise shared.
 
@@ -331,19 +331,25 @@ In sections 2,3 and 4 of this Privacy Policy, we describe the data we collect ab
 To submit a request, please use one of the following methods via our Data Protection Officer's office at Relentless Privacy and Compliance Ltd:
 
 *   Email us at ccpajagex@relentlessdataprivacy.com
-*   Use our online webform located at Subject access request
+*   Use our online webform located at CCPA request
 
 Email requests must include "Your California Privacy Rights" in the subject field and state **right to know**, **deletion** or **opt out**.
 
-Within 24 hours of receipt, we will confirm receipt of your request. We will verify your identity as a resident in the state of California and contact you to request that information. If we are not able to verify your identity, we will deny your request. If we deny your request, even if only in part, we will explain the reason in our response.
+Within 10 days of receipt, we will confirm receipt of your request. We will verify your identity as a resident in the state of California and contact you to request that information. If we are not able to verify your identity, we will deny your request. If we deny your request, even if only in part, we will explain the reason in our response.
 
 Once verified, we will provide a substantive response within 45 days, unless we need more time, in which case we will notify you.
 
 RIGHT TO DELETE
 
-If you are a California resident, you may submit a verifiable request for us to delete any personal information we have collected about you. To submit a request, please email us at ccpajagex@relentlessdataprivacy.com or use our online webform Subject access request
+If you are a California resident, you may submit a verifiable request for us to delete any personal information we have collected about you.
+
+To submit a request, please email us at ccpajagex@relentlessdataprivacy.com or use our online webform CCPA request
 
 Email requests must include "Your California Privacy Rights" in the subject field and state **right to know**, **deletion** or **opt out**.
+
+Within 10 days of receipt, we will confirm receipt of your request. We will verify your identity as a resident in the state of California and contact you to request that information. If we are not able to verify your identity, we will deny your request. If we deny your request, even if only in part, we will explain the reason in our response.
+
+Once verified, we will provide a substantive response within 45 days, unless we need more time, in which case we will notify you.
 
 RIGHT TO OPT OUT
 
@@ -354,7 +360,13 @@ California residents may opt out of the "sale" of their personal information, as
 *   Your personal information is transferred as an asset, as part of a transaction in which the third party assumes control of all or part of our business, in which case the third party would have to tell you in writing if it materially changes how the information is used or shared and;
 *   We use or share your personal information under a written contract with a service provider necessary to perform a business purpose. Here, the service that the service provider performs is on our behalf, and our written contract prohibits it from keeping, using or disclosing your personal information for any purpose other than for the specific purpose identified in the contract.
 
+To submit a request, please email us at ccpajagex@relentlessdataprivacy.com or use our online webform CCPA request
+
 Email requests must include "Your California Privacy Rights" in the subject field and state **right to know**, **deletion** or **opt out**.
+
+Within 15 days of receipt, we will act upon your request. We will verify your identity as a resident in the state of California and contact you to request that information. If we are not able to verify your identity, we will deny your request. If we deny your request, even if only in part, we will explain the reason in our response.
+
+Once verified, we will notify all third parties to whom we have sold your personal information within 90 days of receipt of your request.
 
 RIGHT TO BE FREE FROM DISCRIMINATION
 
