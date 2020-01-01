@@ -1,4 +1,4 @@
-Privacy Policy The Apple Privacy Policy was updated on August 29, 2019.
+Privacy Policy The Apple Privacy Policy was updated on December 31, 2019.
 
 Your privacy is important to Apple so we’ve developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your personal information.
 
@@ -26,7 +26,7 @@ What personal information we collect
 *   When you share your content with family and friends using Apple products, send gift certificates and products, or invite others to participate in Apple services or forums, Apple may collect the information you provide about those people such as name, mailing address, email address, and phone number. Apple will use such information to fulfill your requests, provide the relevant product or service, or for anti-fraud purposes.
 *   In certain jurisdictions, we may ask for a government issued ID in limited circumstances including when setting up a wireless account and activating your device, for the purpose of extending commercial credit, managing reservations, or as required by law.
 
-How we use your personal informationWe may process your personal information: for the purposes described in this Privacy Policy, with your consent, for compliance with a legal obligation to which Apple is subject, for the performance of a contract to which you are party, in order to protect your vital interests, or when we have assessed it is necessary for the purposes of the legitimate interests pursued by Apple or a third party to whom it may be necessary to disclose information. If you have questions about this legal basis you can contact the European Data Protection Officer.
+How we use your personal informationWe may process your personal information: for the purposes described in this Privacy Policy, with your consent, for compliance with a legal obligation to which Apple is subject, for the performance of a contract to which you are party, in order to protect your vital interests, or when we have assessed it is necessary for the purposes of the legitimate interests pursued by Apple or a third party to whom it may be necessary to disclose information. If you have questions about this legal basis you can contact the Data Protection Officer.
 
 *   The personal information we collect allows us to keep you posted on Apple’s latest product announcements, software updates, and upcoming events. If you don’t want to be on our mailing list, you can opt-out anytime by updating your preferences.
 *   We also use personal information to help us create, develop, operate, deliver, and improve our products, services, content and advertising, and for loss prevention and anti-fraud purposes. We may also use your personal information for account and network security purposes, including in order to protect our services for the benefit of all our users, and pre-screening or scanning uploaded content for potentially illegal content, including child sexual exploitation material. Where we use your information for anti-fraud purposes it arises from the conduct of an online transaction with us. We limit our uses of data for anti-fraud purposes to those which are strictly necessary and within our assessed legitimate interests to protect our customers and our services. For certain online transactions we may also validate the information provided by you with publicly accessible sources.
@@ -69,7 +69,7 @@ In some of our email messages, we use a “click-through URL” linked to conten
 
 Disclosure to Third Parties
 
-At times Apple may provide third parties with certain personal information to provide or improve our products and services, including to deliver products at your request, or to help Apple market to consumers. When we do, we require those third parties to handle it in accordance with relevant laws. Personal information will never be shared with third parties for their marketing purposes. For example, when you purchase and activate your iPhone, you authorize Apple and your carrier to exchange the information you provide during the activation process to carry out service, including information about your device. If you are approved for service, your account will be governed by Apple and your carrier’s respective privacy policies.
+At times Apple may provide third parties with certain personal information to provide or improve our products and services, including to deliver products at your request, or to help Apple market to consumers. When we do, we require those third parties to handle it in accordance with relevant laws. Apple does not sell personal information, and personal information will never be shared with third parties for their marketing purposes. For example, when you purchase and activate your iPhone, you authorize Apple and your carrier to exchange the information you provide during the activation process to carry out service, including information about your device. If you are approved for service, your account will be governed by Apple and your carrier’s respective privacy policies.
 
 Service Providers
 
@@ -89,17 +89,29 @@ If you or anyone else using Family Sharing logs on to a device that is owned by 
 
 The Existence of Automated Decision-Making, Including Profiling
 
-Apple does not take any decisions involving the use of algorithms or profiling that significantly affects you.
+Apple does not take any decisions involving the use of algorithms or profiling that significantly affect you.
 
 Integrity and Retention of Personal Information
 
 Apple makes it easy for you to keep your personal information accurate, complete, and up to date. We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Policy and our service specific privacy summaries. When assessing these periods we carefully examine our need to collect personal information at all and if we establish a relevant need we only retain it for the shortest possible period to realize the purpose of collection unless a longer retention period is required by law.
 
-Access to Personal Information
+Your Privacy Rights
 
 You can help ensure that your contact information and preferences are accurate, complete, and up to date by signing in to your Apple ID account page. For other personal information we hold, we will provide you with access (including a copy) for any purpose including to request that we correct the data if it is inaccurate or delete the data if Apple is not required to retain it by law or for legitimate business purposes.
 
-We may decline to process requests that are frivolous/vexatious, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by local law. We may also decline aspects of deletion or access requests if we believe doing so would undermine our legitimate use of data for anti-fraud and security purposes as described earlier. Online tools for the exercise of access, deactivation/restriction, correction, or deletion requests are available on a regional basis by signing in to privacy.apple.com. See our page on understanding and controlling your personal information for more information.Where the online tool is not currently available for access requests in your region, a request may be made directly to apple.com/legal/privacy/contact.
+We may decline to process requests that are frivolous/vexatious, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by local law. We may also decline aspects of deletion or access requests if we believe doing so would undermine our legitimate use of data for anti-fraud and security purposes as described earlier. Online tools for the exercise of access, deactivation/restriction, correction, or deletion requests are available on a regional basis by signing in to privacy.apple.com. For users with Shazam accounts sign in to www.shazam.com/privacy. When you make a request using these online tools, we will verify your identity and the legitimacy of your request.
+
+California
+
+The California Consumer Privacy Act provides California consumers with the right to obtain from Apple information about the personal information about you that we collect, use, and disclose. You can exercise your rights through an authorized agent by providing relevant details to allow sign in to privacy.apple.com. If you cannot access Apple’s online tools, you or your agent can make a request to apple.com/legal/privacy/contact or by calling 1-800-275-2273.
+
+If you choose to exercise your privacy rights, you have the right to not to receive discriminatory treatment or a lesser degree of service from Apple.
+
+Nevada
+
+You have the right to opt-out of the sale of your personal information. Apple does not sell your personal information.
+
+See our page on understanding and controlling your personal information for more information on exercising your rights. Where the online tool is not currently available for access requests in your region, a request may be made directly to apple.com/legal/privacy/contact.
 
 Children &. Education
 
@@ -119,7 +131,7 @@ Information collected by third parties, which may include such things as locatio
 
 If you purchase a subscription in a third party app or within News, we create a Subscriber ID that is unique to you and the developer or publisher which we use to provide reports to the developer or publisher that include information about the subscription you purchased, and your country of residence. If you cancel all of your subscriptions with a particular developer or publisher, the Subscriber ID will reset after 180 days if you do not resubscribe. This information is provided to developers so that they can understand the performance of their subscriptions.
 
-International Users
+International Transfers
 
 All the information you provide may be transferred or accessed by entities around the world as described in this Privacy Policy. Personal information, relating to Apple services, regarding individuals who reside in a member state of the European Economic Area and Switzerland is controlled by Apple Distribution International in Ireland, and processed on its behalf by Apple Inc. Apple uses approved Model Contractual Clauses for the international transfer of personal information collected in the European Economic Area and Switzerland. Apple, as a global company, has a number of legal entities in different jurisdictions which are responsible for the personal information which they collect and which is processed on their behalf by Apple Inc. For example, point of sale information in our Retail entities outside the U.S. is controlled by our individual Retail entities in each country. Apple, Online Store and iTunes related personal information may also be controlled by legal entities outside the U.S. as reflected in the terms of each service. Imagery and associated data collected by Apple around the world to improve Apple Maps, and in support of our Look Around feature is transferred to Apple Inc in California.
 
@@ -131,7 +143,7 @@ To make sure your personal information is secure, we communicate our privacy and
 
 Privacy Questions
 
-If you have any questions or concerns about Apple’s Privacy Policy or data processing, you would like to contact our European Data Protection Officer, or if you would like to make a complaint about a possible breach of local privacy laws, please contact us. You can always contact us by phone at the relevant Apple Support number for your country or region.
+If you have any questions or concerns about Apple’s Privacy Policy or data processing, you would like to contact our Data Protection Officer, or if you would like to make a complaint about a possible breach of local privacy laws, please contact us. You can always contact us by phone at the relevant Apple Support number for your country or region.
 
 When a privacy question or question about personal information received in response to an access/download request is received we have a dedicated team which triages your contact to address your issue. Where your issue may be more substantive in nature, we may request more information from you. All such substantive contacts receive a response within seven (7), days wherever possible - providing a response on the issue raised, requesting additional information where necessary or indicating that a response will require additional time. You may at any time refer your complaint to the relevant regulator in your jurisdiction if you are unsatisfied with a reply received from us. If you ask us, we will endeavor to provide you with information about relevant complaint avenues which may be applicable to your circumstances.
 
