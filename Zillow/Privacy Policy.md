@@ -555,4 +555,4 @@ Zillow Group reviews all requests for user data carefully to ensure that a valid
 *   Jobs
 *   Terms of Use &. Privacy
 
-©2019 Zillow Group, All Rights Reserved. Join the conversation on Twitter
+©2020 Zillow Group, All Rights Reserved. Join the conversation on Twitter
