@@ -1,100 +1,138 @@
 World Market Privacy Policy
 
-Effective date: October 2, 2017
+This Privacy Policy describes how Cost Plus World Market (collectively, "Cost Plus," "we," "us," or "our") collects, uses, shares, and safeguards personal information. This Privacy Policy also tells you about your rights and choices with respect to your personal information, and how you can reach us to get answers to your questions.
 
-World Market values your privacy. This notice details our privacy policy and practices so that you can have this information at your fingertips. We want you to know how we collect, use, and protect information about our customers. This privacy policy will tell you:
+**Types Of Information We Collect**
 
-What information we collect  
-What we do with the information we collect  
-How we may share information  
-How you can limit contact from us
+The following provides examples of the types of information that we collect about you and how we use the information. This information is also available in PDF format.
 
-We refer to World Market as the "Company," "we," "us" or "our." World Market's parent, Bed Bath &. Beyond Inc., is also the parent company to the group of subsidiaries that operate retail store chains under the names Bed Bath &. Beyond, Christmas Tree Shops And That!, Harmon and Harmon Face Values, buybuy BABY, One Kings Lane, PersonalizationMall.com, PMall, Of a Kind, Decorist, Chef Central and such other brands as we may acquire or launch from time to time, which we refer to collectively as, the "Brands".
+*   **Context: Account Registration**
+*   **Types of Information:** We collect your name and contact information when you create an account.
+*   **Primary Purpose for Collection and Use of Information:** We use this information to provide account-related functionalities to our users. Accounts can be used for easy checkout and to save your preferences and transaction history.
 
-By visiting our website you are accepting the practices described in this Privacy Policy. Our website may contain links to other websites operated and maintained by third parties. Other websites may also reference or link to our website. World Market is not responsible for the privacy practices or the content of such other sites. You should consult the individual privacy policies of those websites to determine their privacy practices before disclosing any information.
+*   **Context: Cookies**
+*   **Types of Information:** We may use cookies and clear GIFs. "Cookies" are small pieces of information that a website sends to your device while you are viewing a website. We may use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your device until they expire or you delete them). Among other things, cookies allow us to provide you with a more personal and interactive experience tailored to your interests and to improve our marketing efforts. If you choose to disable cookies some areas or features of our websites may not work properly. Cookies may be managed by following instructions provided by your browser.
+*   **Primary Purpose for Collection and Use of Information:** We use this information to make our website operate efficiently.
 
-**Information We Collect**
+*   **Context: Demographic Information**
+*   **Types of Information:** We collect personal information from you, such as your birthday or address.
+*   **Primary Purpose for Collection and Use of Information:** We use this information to provide you with rewards and offers.
 
-**INFORMATION YOU PROVIDE**
+*   **Context: Distance Information**
+*   **Types of Information:** When you use one of our browser based tools or sites, we collect your location from the GPS, Wi-Fi, and/or cellular technology in your device to determine your nearest store.
+*   **Primary Purpose for Collection and Use of Information:** We use this information to understand our users and provide tailored services and products. In some contexts our use is also based upon your consent to provide us with geolocation information.
 
-We receive, and may store, any information you provide to us through our website. For example, we collect information that you provide when you place an order, register with us, send us an email, call us, sign up for our email offers or Rewards Program or enter a sweepstakes. This information may include:
+*   **Context: Email Interconnectivity**
+*   **Types of Information:** If you receive email from us, we use certain tools to capture data related to when you open our message, click on any links or banners it contains and make purchases.
+*   **Primary Purpose for Collection and Use of Information:** We use this information to understand how you interact with our communications to you.
 
-your name;  
-your mailing address;  
-your billing address;  
-your e-mail address;  
-your phone number. and  
-your credit card information.  
- 
+*   **Context: Employment**
+*   **Types of Information:** If you apply for a job posting, or become an employee, we collect personal information necessary to process your application.
+*   **Primary Purpose for Collection and Use of Information:** We use information about current employees to carry out our payment and benefits obligations. In some contexts, we are also required by law to collect information about our employees. We also use this information to have efficient staffing and work force operations.
 
-It may also include any other personal or preference information you provide to us, including a record of your online product purchases. It may also include information you submit about other people, for example, the name and address of a gift recipient. If you join our Rewards Program we will also store information about your purchases in order to calculate when you are eligible to receive a reward.
+*   **Context: Feedback/Support**
+*   **Types of Information:** If you provide us feedback or contact us for support we will collect your name and e-mail address and possibly other personal information, as well as any other content that you send to us in order to reply.
+*   **Primary Purpose for Collection and Use of Information:** We use this information in order to receive, and act upon, your feedback or issues.
 
-If you join our Rewards Program we will also store information about your purchases in order to calculate when you are eligible to receive a reward.
+*   **Context: Mailing List**
+*   **Types of Information:** When you sign up for one of our mailing lists we collect your email address.
+*   **Primary Purpose for Collection and Use of Information:** Where required by law, we have obtained your consent to share information about our products or services. We also use this information to send you information about our products or services.
 
-**AUTOMATICALLY COLLECTED INFORMATION**
+*   **Context: Mobile Devices**
+*   **Types of Information:** We collect information from your mobile device, including web browser cookies.
+*   **Primary Purpose for Collection and Use of Information:** We use this information to design a better mobile experience and enhance the mobile performance of the site.
 
-Our web servers automatically receive certain types of information whenever you interact with us through our website. For example, when you visit the site, our system automatically recognizes your domain name and IP address(es), date and time of visits, the type of browser you use, the website from which your visit originated, page visits, time spent on web pages, and other similar traffic data. No personal information about you is revealed in this process. This information may be used by us to operate the website and to provide general statistics regarding the use of the website.
+*   **Context: Order Placement**
+*   **Types of Information:** We collect your name, billing address, shipping address, e-mail address, phone number, and payment card information when you place an order.
+*   **Primary Purpose for Collection and Use of Information:** We use this information to perform our contract to provide you with products or services or show you things you might like.
 
-**COOKIES**
+*   **Context: Partner Promotion**
+*   **Types of Information:** We collect information that you provide as part of a co-branded promotion with another company.
+*   **Primary Purpose for Collection and Use of Information:** We use this information to fulfill our promotions.
 
-Our website uses "cookies" to customize your shopping experience or to keep track of your shopping cart. "Cookies" are pieces of information that are sent to your browser and stored in your computer's hard drive. Cookies enable us to more easily communicate and interact with you. You may disallow cookies through your web browser and still browse and shop on our website.
+*   **Context: Surveys**
+*   **Types of Information:** When you participate in a survey provided by a third party service provider, the third party's privacy policy applies to the collection, use, and disclosure of your information.
+*   **Primary Purpose for Collection and Use of Information:** We use this information to understand your opinions, and collect information relevant to our organization and work to improve your experience.
 
-**INFORMATION FROM OTHER SOURCES**
+*   **Context: Sweepstakes or contests**
+*   **Types of Information:** When you participate in a sweepstakes or contest we collect information about you which includes contact information to notify you if you are selected.
+*   **Primary Purpose for Collection and Use of Information:** We use this information to operate the sweepstakes. In some contexts we are also required by law to collect information about those that enter into our sweepstakes.
 
-We may obtain information about you from outside sources and combine it with your account information. For example, we may purchase commercially available demographics and other marketing information from third parties to help us better serve you or inform you about products or services that we think will be of interest to you.
+*   **Context: Third Party Advertising**
+*   **Types of Information:** We participate in behavior-based advertising. This means that a third party may use technology (e.g., a cookie (further described below)) to collect information about your use of our website so that they can provide advertising about products and services tailored to your interests. That advertising may appear either on our websites, or on other websites. Cookies may be managed by following instructions provided by your browser.
+*   **Primary Purpose for Collection and Use of Information:** We use this information to offer you more relevant marketing and promotions.
 
-We sometimes receive updated delivery and address information from our shippers or other sources so that we can correct our records and deliver your next purchase or communication more easily. Finally, we may also purchase lists containing your information (e.g., postal address, phone number, email address) for advertising and marketing purposes.
+*   **Context: Web logs**
+*   **Types of Information:** We collect information from you, including your browser type, operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer when you use the Internet), domain name, click-activity, referring website, and/or a date/time stamp for your visit.
+*   **Primary Purpose for Collection and Use of Information:** We use this information to monitor our networks and the visitors to our websites. Among other things, it helps us understand which of our products or services is the most popular.
 
-**Use Of Information**
+*   **Context: World Market Rewards**
+*   **Types of Information:** When you register for World Market Rewards we collect your name, birthday, email address, address, and phone number.
+*   **Primary Purpose for Collection and Use of Information:** We use this information to carry out our obligation of providing you with points for purchases made and allowing you to redeem your points for rewards. We also use this information to offer you more relevant marketing and promotions. In addition we use this information to detect security incidents and protect against malicious, deceptive, fraudulent, or illegal activity.
 
-**INFORMATION THAT YOU PROVIDE**
+In addition to the information that we collect from you directly, we may also receive information about you from other sources, including third parties, business partners, our affiliates, or publicly available sources.
 
-We may use the information that you provide to us to process or follow up with transactions initiated on the website or through our customer service department, to let you know about products and promotions that we think may be of interest to you from us and the Brands, or to notify you when you have earned a reward under our Reward Program. We may share information provided by you directly or through cookies with companies that provide support services to us such as a transaction processor, printer, mailing house, or web host or with companies that help us market our products and services. These companies may need information about you in order to perform their functions. These companies are not authorized to use the information we share with them for any other purpose, or to share that information with anyone other than the company and its agents.
+**Use And Processing Of Your Personal Information.**
 
-**DISCLOSURE TO SUCCESSORS**
+In addition to the uses described above, we use your personal information in the following ways:
 
-We may disclose information you provide to our website when we believe disclosure is appropriate to comply with the law. when it is necessary to identify, contact, bring, or defend legal action against persons or entities that we believe may be causing harm to you, our company, or third parties. and when necessary, to protect or defend our rights or property.
+*   To identify you when you visit our websites or our stores.
+*   To provide the products and services you request, or to process returns.
+*   To improve our services and product offerings.
+*   To streamline your checkout process.
+*   To conduct analytics.
+*   To respond to your inquiries related to support, employment opportunities, or other requests.
+*   To send marketing and promotional materials, including information relating to products, services, sales, or promotions.
+*   For internal administrative purposes, as well as to manage our relationship with you,
+*   To protect against malicious, deceptive, fraudulent, or illegal activity.
 
-**AGGREGATE INFORMATION**
+Although the sections above describe our primary purpose in collecting your information, in many situations we have more than one purpose. For example, if you complete an online purchase we may collect your information to perform our contract with you, but we also collect your information so that we can quickly and easily respond to any questions about your order or process change requests. As a result, our collection and processing of your information is based in different contexts upon your consent, our need to perform a contract, our obligations under law, and/or our general interest in conducting our business.
 
-We may use anonymous IP addresses to help diagnose problems with our server, to administer our site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis.
+**Sharing Of Personal Information**
 
-**Your California Privacy Rights**
+In addition to the specific situations discussed elsewhere in this policy, we disclose personal information in the following situations:
 
-Under California law, you have the right to request and receive information from retailers concerning any third parties who have received information about you from the retailers for the third parties' direct marketing purposes. Any such requests for information from us can be made by sending an email to privacy@cpwm.com or by calling us at 1-877-967-5362.
+1.  **Acquisitions.** If another company acquires (or proposed to acquire) our company, business, or our assets, we will also share your personal information with that company, including at the negotiation stage.
+2.  **Other Disclosures with Your Consent.** We may ask if you would like us to share your information with other unaffiliated third parties who are not described elsewhere in this policy.
+3.  **Other Disclosures without Your Consent.** We may disclose personal information in response to subpoenas, warrants, or court orders, or in connection with any legal process, or to comply with relevant laws. We may also share your personal information in order to establish or exercise our rights, to defend against a legal claim, to investigate, prevent, or take action regarding possible illegal activities, suspected fraud, safety of person or property, or a violation of our policies, or to comply with your request for the shipment of products to or the provision of services by a third party intermediary.
+4.  **Public.** Some of our websites provide the opportunity to post comments, or reviews, in a public forum. If you decide to submit information on these pages, that information may be publicly available.
+5.  **Partner Promotion.** We may offer contests, sweepstakes, or other promotions with third party partners. If you decide to enter a contest, sweepstakes, or promotion that is sponsored by a third party partner the information that you provide will be shared with us and with them. Their use of your information is not governed by this privacy policy.
+6.  **Service Providers.** We share your personal information with service providers. Among other things service providers may help us to administer our website, conduct surveys, provide technical support, and assist in the fulfillment of orders.
+7.  **Sale of Information.** We do not sell your personal information.
 
-**Disclosures Ordered By Law**
+**Your Choices**
 
-We may disclose information you provide to our website when we believe disclosure is appropriate to comply with the law. when it is necessary to identify, contact, bring, or defend legal action against persons or entities that we believe may be causing harm to you, our company, or third parties. and when necessary, to protect or defend our rights or property.
+You can make the following choices regarding your personal information:
 
-**Protecting Children's Privacy**
+1.  **Promotional Emails.** You may choose to provide us with your email address for the purpose of allowing us to send free newsletters, surveys, offers, and other promotional materials to you, as well as targeted offers from third parties. You can stop receiving promotional emails by following the unsubscribe instructions in e-mails that you receive. Although we will remove your name from our mailing list after receiving your request within the timeframe permitted by law, you may still receive mailings from us that had been initiated prior to your name being removed. If you decide not to receive promotional emails, we may still send you transactional communications, such as those about your account, to fulfill orders you have made, to ask you to rate the product you purchased, or other service-related communications.
+2.  **Promotional Mailings.** If at any time you do not want to receive offers and/or circulars from us you can remove yourself from our mailing lists by emailing us (our contact information is below) with "DO NOT MAIL" in the subject line along with your name, address and zip code. Please note that our mailings are prepared in advance of their being sent. Although we will remove your name from our mailing list after receiving your request, you may still receive mailings from us that had been initiated prior to your name being removed.
+3.  **Changes To Your Personal Information.** We rely on you to update and correct your personal information. Our website allows you to modify your account profile. Note that we may keep historical information in our backup files as permitted by law.
+4.  **Deletion Of Your Personal Information.** In certain circumstances, you may request that we delete your personal information. If required by law we will delete your personal information after such a request is made. You can request that your personal information be deleted by completing and submitting a Request Form or by contacting us at 877-967-5362. We may also decide to delete your data if we believe that the data is incomplete, inaccurate, or that our continued use and storage are contrary to our obligations to other individuals or third parties. When we delete personal information it will be removed from our active database, but it may remain in archives where it is not practical or possible to delete it. You should note that there are some situations in which we may decline to delete your personal information. For example, we retain the information that we collect to, among other things, detect security incidents, comply with our legal obligations, enforce any of our agreement, and protect against malicious, deceptive, fraudulent, or illegal activity. We will retain your World Market Rewards information for the duration of your membership in order to carry out our obligation to provide you with points for purchases made and allowing you to redeem your points for rewards.
+5.  **Revocation Of Consent.** We rely on the processing of personal information that you have provided. If you revoke your consent for the processing of personal information then we may no longer be able to provide you services. In some cases, we may limit or deny your request to revoke consent if the law permits or requires us to do so, or if we are unable to adequately verify your identity.
+6.  **Access To Your Personal Information.** If required by law, upon request, we will grant reasonable access to the personal information that we hold about a user. You can request access to your personal information by completing and submitting a Request Form or by contacting us at 877-967-5362.
+7.  **Online Tracking.** We do not currently recognize automated browser signals regarding tracking mechanisms, which may include "Do Not Track" instructions.
 
-This is a general audience website. it is not directed at children under the age of 13. We do not knowingly collect information from any child under the age of 13 at this website, nor do we send email correspondence to anyone who tells us that they are under the age of 13.
+**How We Protect Personal Information**
 
-**How You Can Limit Contact From Us**
+No method of transmission over the Internet, or method of electronic storage, is fully secure. While we use reasonable efforts to protect your personal information from unauthorized access, use, or disclosure, we cannot guarantee the security of your personal information. In the event that we are required by law to inform you of any unauthorized access to your personal information we may notify you electronically, in writing, or by telephone, if permitted to do so by law.
 
-**EMAILS**
+Some of our websites permit you to create an account. When you do you will be prompted to create a password. You are responsible for maintaining the confidentiality of your password, and you are responsible for any access to or use of your account by someone else who has obtained your password, whether or not such access or use has been authorized by you. You should notify us of any unauthorized use of your password or account.
 
-If you provide our company with your email address, you may receive emails from us and the Brands. If you do not want to receive marketing or promotional emails from us, please email us at emailunsubscribe@cpwm.com, or you may let us know by logging in to "My Profile" and indicating your preference. Please call 1-877-967-5362 if you have further questions about our email unsubscribe process. Your request will be handled promptly, although you may still receive marketing communications that were already in process prior to receipt of your request.
+**Information for California Residents**
 
-**OTHER MAILINGS**
+California Civil Code 1798.83, 1798.115(c), 1798.130(a)(5)(c), 1798.130(c), and 1798.140 indicates that organizations should disclose whether certain categories of information are "sold" or transferred for an organization's "business purpose" as those terms are defined under California law. You can find a list of the categories of information that we share at here. Please note that because this list is comprehensive it may refer to types of information that we share about people other than yourself. If you would like more information concerning the categories of personal information (if any) we share with third parties or affiliates for those parties to use for direct marketing please submit a written request to us using the information in the "Contact Information" section below. We do not discriminate against California consumers who exercise any of their rights described in this policy.
 
-If you supply us with your postal address online you may receive periodic mailings from us that may include information on new products and services or upcoming events from us and the Brands. If you do not wish to receive such mailings, please let us know by calling us at 1-877-967-5362. Your request will be handled promptly, although you may still receive marketing communications that were already in process prior to receipt of your request.
+**Miscellaneous**
 
-**CORRECTING OR UPDATING INFORMATION**
+The following additional information relates to our privacy practices:
 
-If you have registered with us, you may review for accuracy and update your profile information online by logging in to "My Profile" using your email address and password and editing your information accordingly. The length of time we keep your information will vary depending on the nature of your transactions on the website and information involved. We have retention standards that meet customer service, legal and regulatory needs. For these reasons, we may keep your information beyond the end of your relationship with us. When your information is no longer required, we will dispose of it with appropriate care and diligence.
+*   **Third Party Applications/Websites.** We have no control over the privacy practices of websites or applications that we do not own. For example, to enhance your experience on this Site, we use Google Maps APIs including at account creation, and at checkout. Google has specifically requested that we inform you that your use of such services is subject to the Google Maps/Google Earth Additional Terms of Service (including the Google Privacy Policy).
+*   **Changes To This Privacy Policy.** We may change our privacy policy and practices over time. To the extent that our policy changes in a material way, the policy that was in place at the time that you submitted personal information to us will generally govern that information.
 
-**Security**
+**Contact Information.** If you have any questions, comments, or complaints concerning our privacy practices please contact us at the appropriate address below. We will attempt, where practical, to respond to your requests and to provide you with additional privacy-related information.
 
-If you choose to create an account on our Site with a username and password, always exercise extreme care in protecting your password information and do not publicly share any of your passwords. You are responsible for maintaining the strict confidentiality of your account password, and you are responsible for any access to or use of the Site by you or another person or entity using your password, whether or not such access or use has been authorized by or on behalf of you. Please notify us of any unauthorized use of your password or account or any other breach of security.
+privacy@cpwm.com  
+1201 Marina Village Parkway, Alameda, CA 94501  
+877-967-5362
 
-WE ENDEAVOR (AND REQUIRE OUR THIRD-PARTY PROVIDERS TO ENDEAVOR) TO PROTECT THE INFORMATION YOU PROVIDE TO US BY USING TECHNOLOGIES DESIGNED TO SECURE YOUR INFORMATION AS IT TRANSMITS TO US OVER THE INTERNET AND ONCE IT IS ON OUR SYSTEMS. BUT BECAUSE OF THE INHERENT NATURE OF THE INTERNET AS AN OPEN GLOBAL COMMUNICATIONS VEHICLE, WE CANNOT GUARANTEE THAT SUCH INFORMATION STORED ON SERVERS SUPPORTING THIS SITE, TRANSMITTED TO OR FROM A USER, OR OTHERWISE IN OUR CARE (OR OUR THIRD-PARTY PROVIDERS' CARE) WILL BE ABSOLUTELY SAFE FROM INTRUSION BY OTHERS, SUCH AS HACKERS. BY USING THE SITE, YOU ACKNOWLEDGE THAT YOU UNDERSTAND AND AGREE TO ASSUME THESE RISKS.
-
-**Updates To This Policy**
-
-Updates and changes to this privacy policy will be posted on our website and will be effective from the date they are posted, unless otherwise noted. New policies will apply to all current and past users of the website and supersede any inconsistent policies previously in effect.
-
-**Your Consent**
-
-By using our website, you consent to our use of information that is collected or submitted as described in this online privacy policy. This privacy policy is subject to change, so we encourage you to review it periodically.
+Last Revised: January 1, 2020
