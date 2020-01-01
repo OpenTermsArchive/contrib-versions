@@ -262,15 +262,100 @@ El Segundo, California 90245 U.S.A.
     
 20.  International Users
     
-    We are headquartered in the United States. Our sites and services are hosted and administrated in the United States or hosted with cloud service providers who are headquartered in the United States and are intended for users in the United States. If you are located outside the United States, be aware that information you provide to us or that we obtain as a result of your use of our sites and services may be processed in, transferred to, and stored in the United States and will be subject to United States law. The privacy and data protection laws of the United States may be different from the laws of your country of residence. 
-    
-    By using our sites and services or providing us with your information, you consent to the transfer of your information to the United States for processing and storage.
+    We are headquartered in the United States. Our sites and services are intended for users in the United States and hosted and administrated in the United States or hosted with cloud service providers who are headquartered in the United States and in other countries. If you are located outside the United States, be aware that information you provide to us or that we obtain as a result of your use of our sites and services may be processed in, transferred to, and stored in the United States and in any other countries from where our cloud service providers operate. Please be aware that the privacy laws and standards in certain countries may differ from those that apply in the country in which you reside. By using our sites and services or providing us with your information, you consent to the transfer of your information for processing and storage to the United States and any other country from where our cloud service providers operate.
     
 21.   California Privacy Rights
     
-    FOR RESIDENTS OF CALIFORNIA ONLY. Section 1798.83 of the California Civil Code requires select businesses to disclose policies relating to the sharing of certain categories of your personal information with third parties. If you reside in California and you have provided us with your personal information, you may request information about our disclosures of certain categories of your personal information to third parties for direct marketing purposes. To make such a request, please fill out our Privacy Contact Form with “California Privacy Rights” in the subject line and allow 30 days for a response. We will not accept requests via the telephone, mail, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
+    This section is provided pursuant to the California Consumer Privacy Act of 2018 (the “CCPA”) and other applicable California privacy laws. This section applies solely to our users who are California residents as defined under applicable California privacy laws.
     
-    FOR RESIDENTS OF CALIFORNIA UNDER THE AGE OF 18. In accordance with Section 22581 of the California Business and Professions Code, you may request and obtain the removal of content or information you have publicly posted. To make such a request, please fill out our Privacy Contact Form with “California Privacy Rights” in the subject line. Please specify the site(s) or service(s) to which your removal request relates, including any URLs where the content or information is posted, and the specific content or information you posted for which you are requesting removal. Please be aware that such a request does not ensure complete or comprehensive removal of the content or information you have posted and that there may be circumstances in which the law does not require or allow removal even if requested.
+    16.1 Information We Collect
+    
+    Within the last twelve (12) months, we have or may have collected the following categories of information from our users and/or consumers:
+    
+    1.  identifiers, such as a name, alias, postal address, unique personal identifier, online identifier, IP address, email address, account name, Social Security number, driver's license number, or other similar identifiers;
+    2.  personal information listed under Cal. Civ. Code § 1798.80(e);
+    3.  characteristics of protected classifications under California or federal law;
+    4.  commercial information, such as records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies;
+    5.  biometric information;
+    6.  internet or other similar network activity, such as browsing history, search history, information regarding your interaction with a website, application, or advertisement;
+    7.  geolocation data;
+    8.  professional or employment-related information. and
+    9.  inferences drawn from any of the information identified in this section to create a profile about users reflecting user preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes.
+    
+    16.2 Categories of Sources from Which Information is Collected
+    
+    We obtain the categories of personal information listed above from the following categories of sources:
+    
+    1.  directly from users, such as you, as described above under “Personal Information that You Provide to Us”;
+    2.  indirectly from other users of our sites and services;
+    3.  indirectly from third-parties that interact with us in connection with the services that we perform. and
+    4.  directly and indirectly through cookies and other technologies, as described above under “Other Information We Automatically Collect through Cookies and Other Technologies.”
+    
+    16.3 Using and Sharing of Personal Information
+    
+    The personal information described in the categories above may be used for the business purposes listed above under “How We Use Personal Information.”
+    
+    We disclose your personal information for a business purpose to the following categories of third parties: (a) service providers and (b) third parties to whom you authorize or direct us to disclose your personal information in connection with our sites and services. In the preceding twelve (12) months, we have disclosed the personal information described in the categories above for the business purposes listed above under “Sharing Personal and Non-Personal Information.” We also may share personal information about you for any other purpose(s) disclosed to you at the time we collect your information or with your consent. 
+    
+    16.4 Personal Information “Sold” to Third Parties
+    
+    We may share information that we have about you, such as a cookie ID or IP address, with third-party marketing partners who may use this information, on our behalf, to help us deliver advertising on our sites as well as on third-party websites.
+    
+    In the preceding twelve (12) months, we have made available personal information included in the categories described above to third-parties, including our third-party marketing partners to deliver advertising. For more information about our use of cookies and other tracking technologies, please read our Cookie Policy.
+    
+    We do not sell the personal information of consumers that we know are minors under 16 years of age without affirmative authorization as required under the CCPA.
+    
+    16.5 Your Access and Deletion Rights under the CCPA
+    
+    As of January 1, 2020, California residents, as defined under applicable California privacy laws, may take advantage of the following rights:
+    
+    1.  You may request, up to two (2) times each year, that we disclose to you, once we receive and confirm your verifiable consumer request, the: (i) categories and specific pieces of personal information that we have collected about you. (ii) categories of sources from which your personal information is collected. (iii) business or commercial purpose for collecting your personal information. (iv) categories of personal information that we disclosed for a business purpose. (v) categories of personal information that we sold about you. (vi) categories of third-parties with whom we have shared your personal information. and (vii) business or commercial purpose for selling your personal information.
+    2.  Subject to certain exceptions and up to two (2) times each year, you may request that we delete any of your personal information that we collected from you. Once we receive and confirmed your verifiable consumer request for deletion, we will delete (and direct our service providers to delete) such personal information from our records, unless an exception applies.
+    
+    16.6 Exercising Your Access and Deletion Rights under the CCPA
+    
+    To exercise the access and deletion rights described above, please submit a request to us by either:
+    
+    1.  sending an email to privacy@internetbrands.com. or
+    2.  clicking here.
+    
+    You will be asked to provide certain identifying information, such as your name, email, and residency. You will also be asked to validate your request by clicking a validation link in an email that will be sent to the email address you provided. While processing your request, we may ask you to provide further verifying documentation, such as proof of residency and identity. We will only use personal information provided in a request to verify the requestor's identity or authority to make the request.
+    
+    Your request must: (i) provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal information or that you have authority to make the request. and (ii) describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it.
+    
+    Only you or a person registered with the California Secretary of State that you authorize to act on your behalf, may make a verifiable consumer request related to your personal information. You may also make a verifiable consumer request on behalf of your minor child. If you are making a request through an authorized agent acting on your behalf, such authorized agent must provide proof of written authorization to do so, and you must verify your identity directly with us, unless such authorized agent provides proof of a power of attorney pursuant to Probate Code sections 4000 to 4465.
+    
+    We cannot respond to your request or provide you with personal information if we cannot verify your identity or authority to make the request and confirm the personal information relates to you. We will only use personal information provided in a verifiable consumer request to verify the requestor's identity or authority to make the request.
+    
+    16.7 Opting-out of the Sales of your Personal Information
+    
+    Subject to certain exclusions under the CCPA, you have the right to opt-out of the sale of your personal information. Once we receive your request, we will not sell your personal information, unless an exclusion applies.
+    
+    To opt-out of the sale of your personal information that we collect through cookies and other technologies, please read our Cookie Policy.
+    
+    To opt-out of the sale of your personal information that we collected directly from you or other third-parties, please submit a request to us by either:
+    
+    1.  sending an email to privacy@internetbrands.com. or
+    2.  clicking here.
+    
+    We may deny your request to opt-out if we have a good-faith, reasonable, and documented belief that the request is fraudulent.
+    
+    16.8 Non-Discrimination
+    
+    We will not discriminate against you for exercising any of your rights under the CCPA. Accordingly, and unless permitted by the CCPA, we will not:
+    
+    1.  deny you goods or services;
+    2.  charge you different prices or rates for goods or services, including through the use of discounts or by imposing penalties;
+    3.  provide you a different level or quality of goods or services. or
+    4.  suggest that you may receive a different price or rate for goods or services or a different level or quality of goods or services.
+    
+    We may charge a different price or rate or provide a different level of service if the difference is reasonably related to the value provided by your personal information.
+    
+    16.9 Other Applicable California Privacy Laws
+    
+    Section 1798.83 of the California Civil Code requires select businesses to disclose policies relating to the sharing of certain categories of your personal information with third parties. If you reside in California and you have provided us with your personal information, you may request information about our disclosures of certain categories of your personal information to third parties for direct marketing purposes. To make such a request, please fill out our Privacy Contact Form with “California Privacy Rights” in the subject line and allow 30 days for a response. We will not accept requests via the telephone, mail, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
+    
+    In accordance with Section 22581 of the California Business and Professions Code if you are a California resident under the age of 18, you may request and obtain the removal of content or information you have publicly posted. To make such a request, please fill out our Privacy Contact Form with “California Privacy Rights” in the subject line. Please specify the site(s) or service(s) to which your removal request relates, including any URLs where the content or information is posted, and the specific content or information you posted for which you are requesting removal. Please be aware that such a request does not ensure complete or comprehensive removal of the content or information you have posted and that there may be circumstances in which the law does not require or allow removal even if requested.
     
 22.   Nevada Privacy Rights
     
@@ -301,4 +386,4 @@ El Segundo, California 90245 U.S.A.
     We may revise this privacy policy from time to time and, if we do, we will update it on this page and modify the "Last Updated" date. If our information practices change in a significant way, you will be provided notice by means of notice on our sites or otherwise in writing. Because our privacy policy can change at any time, we encourage you to reread it periodically to see if there have been any changes that affect you. If you disagree with any changes to this privacy policy and do not wish your information to be subject to the revised privacy policy, you will need to deactivate your account or terminate your services. Your use of our sites and services following any such change constitutes your agreement that all information collected from or about you through our sites and services after the revised privacy policy is posted will be subject to the terms of the revised privacy policy.
     
 
-Last Updated: September 20, 2019
+Last Updated: January 1, 2020
