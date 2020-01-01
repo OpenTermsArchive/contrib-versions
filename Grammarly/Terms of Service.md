@@ -298,4 +298,4 @@ CommunityFacebook
 Instagram  
 Twitter  
 LinkedIn  
-2019 © Grammarly Inc.
+2020 © Grammarly Inc.
