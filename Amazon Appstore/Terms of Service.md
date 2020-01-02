@@ -1,8 +1,8 @@
 Amazon Appstore for Android Terms of Use
 
-**Last updated: December 4, 2018**
+**Last updated: January 1, 2020**
 
-**These Terms of Use are part of an agreement between you and Amazon Digital Services LLC (together with its affiliates, "Amazon" or "we") regarding use of the Amazon Appstore for Android and associated software, services and purchases ("Amazon Appstore"). Before you use the Amazon Appstore or download any Apps made available through it, please read these Terms of Use, the Amazon.com Privacy Notice at https://www.amazon.com/privacy, the Amazon.com Conditions of Use at https://www.amazon.com/conditionsofuse, and all rules and policies related to the Amazon Appstore (including, but not limited to, any rules or usage provisions specified on any product detail page or on any help or other informational page for the Amazon Appstore) (collectively, the "Agreement").**
+**These Terms of Use are part of an agreement between you and Amazon.com Services LLC (together with its affiliates, "Amazon" or "we") regarding use of the Amazon Appstore for Android and associated software, services and purchases ("Amazon Appstore"). Before you use the Amazon Appstore or download any Apps made available through it, please read these Terms of Use, the Amazon.com Privacy Notice at https://www.amazon.com/privacy, the Amazon.com Conditions of Use at https://www.amazon.com/conditionsofuse, and all rules and policies related to the Amazon Appstore (including, but not limited to, any rules or usage provisions specified on any product detail page or on any help or other informational page for the Amazon Appstore) (collectively, the "Agreement").**
 
 **IF YOU USE THE AMAZON APPSTORE, YOU WILL BE BOUND BY THIS AGREEMENT.**
 
@@ -34,7 +34,7 @@ We may terminate a subscription at any time, for example, if the applicable Amaz
 
 **2.5 All Sales Final.**
 
-All purchases of Apps and Amazon-Sold In-App Products are final. We do not accept returns of Apps or Amazon-Sold In-App Products. Once you have purchased an App or Amazon-Sold In-App Product, we encourage you to download (if applicable) and access it promptly to be sure you have received it. If you are unable to complete a download or access an App or Amazon-Sold In-App Product, please contact Amazon customer service for assistance. Once you purchase an App or Amazon-Sold In-App Product and we make it available to you, you bear responsibility for completing the download (if applicable) and for all risk of loss after downloading or accessing the App or Amazon-Sold In-App Product, including any loss due to a device malfunction.
+All purchases of Apps and Amazon-Sold In-App Products are final, except as expressly stated in Digital Products Return Policy. Once you have purchased an App or Amazon-Sold In-App Product, we encourage you to download (if applicable) and access it promptly to be sure you have received it. If you are unable to complete a download or access an App or Amazon-Sold In-App Product, please contact Amazon customer service for assistance. Once you purchase an App or Amazon-Sold In-App Product and we make it available to you, you bear responsibility for completing the download (if applicable) and for all risk of loss after downloading or accessing the App or Amazon-Sold In-App Product, including any loss due to a device malfunction.
 
 **2.6 Downloading and Availability of Apps after Purchase.**
 
