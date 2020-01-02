@@ -1,6 +1,6 @@
 This Privacy Statement explains our practices, including your choices, regarding the collection, use, and disclosure of certain information, including your personal information, by the Netflix family of companies ("Netflix") in connection with the Netflix service.
 
-To see our California Consumer Privacy Act (CCPA) Privacy Notice, please click on the link, go to https://netflix.com/privacy#ccpa or simply scroll down.
+To see our California Consumer Privacy Act (CCPA) Privacy Notice, please click on the link, go to https://help.netflix.com/legal/privacy#ccpa or simply scroll down.
 
 Contacting Us
 
@@ -135,7 +135,7 @@ To make requests, or if you have any other question regarding our privacy practi
 
 We may reject requests that are unreasonable or not required by law, including those that would be extremely impractical, could require disproportionate technical effort, or could expose us to operational risks such as free trial fraud. We may retain information as required or permitted by applicable laws and regulations, including to honor your choices, for our billing or records purposes and to fulfill the purposes described in this Privacy Statement. We take reasonable measures to destroy or de-identify personal information in a secure manner when it is no longer required.
 
-If you are a California consumer, please see our California Consumer Privacy Act (CCPA) Privacy Notice by clicking on the link, going to https://netflix.com/privacy#ccpa or simply scrolling down.
+If you are a California consumer, please see our California Consumer Privacy Act (CCPA) Privacy Notice by clicking on the link, going to https://help.netflix.com/legal/privacy#ccpa or simply scrolling down.
 
 Security
 
