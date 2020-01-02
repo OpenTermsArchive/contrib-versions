@@ -1,8 +1,8 @@
 Digital Services &. Content › Amazon Appstore› Amazon GameCircle Terms of Use
 
-**Last updated: January 25, 2016**
+**Last updated: January 1, 2020**
 
-**These Terms of Use are part of an agreement between you and Amazon Digital Services LLC (together with its affiliates, “Amazon” or “we”) regarding use of Amazon GameCircle and associated software and services (“GameCircle”). Before you use GameCircle, please read these Terms of Use, the Amazon.com Privacy Notice at http://www.amazon.com/privacy, the Amazon.com Conditions of Use at http://www.amazon.com/conditionsofuse, and all rules and policies related to the Amazon GameCircle (including, but not limited to, any rules or usage provisions specified on any help or other informational page for GameCircle) (collectively, the “Agreement”).**
+**These Terms of Use are part of an agreement between you and Amazon.com Services LLC (together with its affiliates, “Amazon” or “we”) regarding use of Amazon GameCircle and associated software and services (“GameCircle”). Before you use GameCircle, please read these Terms of Use, the Amazon.com Privacy Notice at http://www.amazon.com/privacy, the Amazon.com Conditions of Use at http://www.amazon.com/conditionsofuse, and all rules and policies related to the Amazon GameCircle (including, but not limited to, any rules or usage provisions specified on any help or other informational page for GameCircle) (collectively, the “Agreement”).**
 
 **IF YOU USE GAMECIRCLE, YOU WILL BE BOUND BY THE AGREEMENT.**
 
