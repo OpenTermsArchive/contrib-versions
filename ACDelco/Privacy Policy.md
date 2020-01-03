@@ -438,7 +438,7 @@ Email: privacy@gm.com
 *   Shop
 *   Corporate Offers
 *   Owners
-*   My Rewards
+*   My GM Rewards
 *   Press
 *   Contact
 *   Retiree/Alumni
