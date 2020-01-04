@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Old blog posts
     *   by isexed\_yermom
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -31,13 +31,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   6 years ago
     *   in Data Migration
     *   0 votes
-    *   9 (last comment by thaemokid 1 week ago)
+    *   9 (last comment by thaemokid 2 weeks ago)
 *   Please! I'd like to get my old blogs
     *   by mandynoelle
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by seraphym\_shining 1 week ago)
+    *   1 (last comment by seraphym\_shining 2 weeks ago)
 *   Delete pictures
     *   by GrafSoul
     *   1 month ago
