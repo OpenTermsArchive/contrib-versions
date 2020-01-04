@@ -43,7 +43,7 @@
 *   Shop All Brands
 
 *   Owners
-*   My Rewards
+*   My GM Rewards
 *   Press
 *   Careers
 *   Contact Us
