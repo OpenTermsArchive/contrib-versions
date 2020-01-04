@@ -6,69 +6,53 @@ This Privacy Policy describes how Cost Plus World Market (collectively, "Cost Pl
 
 The following provides examples of the types of information that we collect about you and how we use the information. This information is also available in PDF format.
 
-*   **Context: Account Registration**
-*   **Types of Information:** We collect your name and contact information when you create an account.
-*   **Primary Purpose for Collection and Use of Information:** We use this information to provide account-related functionalities to our users. Accounts can be used for easy checkout and to save your preferences and transaction history.
+**Account Registration**  
+We collect your name and contact information when you create an account. We use this information to provide account-related functionalities to our users. Accounts can be used for easy checkout and to save your preferences and transaction history.
 
-*   **Context: Cookies**
-*   **Types of Information:** We may use cookies and clear GIFs. "Cookies" are small pieces of information that a website sends to your device while you are viewing a website. We may use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your device until they expire or you delete them). Among other things, cookies allow us to provide you with a more personal and interactive experience tailored to your interests and to improve our marketing efforts. If you choose to disable cookies some areas or features of our websites may not work properly. Cookies may be managed by following instructions provided by your browser.
-*   **Primary Purpose for Collection and Use of Information:** We use this information to make our website operate efficiently.
+**Cookies**  
+We may use cookies and clear GIFs. "Cookies" are small pieces of information that a website sends to your device while you are viewing a website. We may use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your device until they expire or you delete them). Among other things, cookies allow us to provide you with a more personal and interactive experience tailored to your interests and to improve our marketing efforts. If you choose to disable cookies some areas or features of our websites may not work properly. Cookies may be managed by following instructions provided by your browser. We use this information to make our website operate efficiently.
 
-*   **Context: Demographic Information**
-*   **Types of Information:** We collect personal information from you, such as your birthday or address.
-*   **Primary Purpose for Collection and Use of Information:** We use this information to provide you with rewards and offers.
+**Demographic Information**  
+We collect personal information from you, such as your birthday or address. We use this information to provide you with rewards and offers.
 
-*   **Context: Distance Information**
-*   **Types of Information:** When you use one of our browser based tools or sites, we collect your location from the GPS, Wi-Fi, and/or cellular technology in your device to determine your nearest store.
-*   **Primary Purpose for Collection and Use of Information:** We use this information to understand our users and provide tailored services and products. In some contexts our use is also based upon your consent to provide us with geolocation information.
+**Distance Information**  
+When you use one of our browser based tools or sites, we collect your location from the GPS, Wi-Fi, and/or cellular technology in your device to determine your nearest store. We use this information to understand our users and provide tailored services and products. In some contexts our use is also based upon your consent to provide us with geolocation information.
 
-*   **Context: Email Interconnectivity**
-*   **Types of Information:** If you receive email from us, we use certain tools to capture data related to when you open our message, click on any links or banners it contains and make purchases.
-*   **Primary Purpose for Collection and Use of Information:** We use this information to understand how you interact with our communications to you.
+**Email Interconnectivity**  
+If you receive email from us, we use certain tools to capture data related to when you open our message, click on any links or banners it contains and make purchases. We use this information to understand how you interact with our communications to you.
 
-*   **Context: Employment**
-*   **Types of Information:** If you apply for a job posting, or become an employee, we collect personal information necessary to process your application.
-*   **Primary Purpose for Collection and Use of Information:** We use information about current employees to carry out our payment and benefits obligations. In some contexts, we are also required by law to collect information about our employees. We also use this information to have efficient staffing and work force operations.
+**Employment**  
+If you apply for a job posting, or become an employee, we collect personal information necessary to process your application. We use information about current employees to carry out our payment and benefits obligations. In some contexts, we are also required by law to collect information about our employees. We also use this information to have efficient staffing and work force operations.
 
-*   **Context: Feedback/Support**
-*   **Types of Information:** If you provide us feedback or contact us for support we will collect your name and e-mail address and possibly other personal information, as well as any other content that you send to us in order to reply.
-*   **Primary Purpose for Collection and Use of Information:** We use this information in order to receive, and act upon, your feedback or issues.
+**Feedback/Support**  
+If you provide us feedback or contact us for support we will collect your name and e-mail address and possibly other personal information, as well as any other content that you send to us in order to reply. We use this information in order to receive, and act upon, your feedback or issues.
 
-*   **Context: Mailing List**
-*   **Types of Information:** When you sign up for one of our mailing lists we collect your email address.
-*   **Primary Purpose for Collection and Use of Information:** Where required by law, we have obtained your consent to share information about our products or services. We also use this information to send you information about our products or services.
+**Mailing List**  
+When you sign up for one of our mailing lists we collect your email address. Where required by law, we have obtained your consent to share information about our products or services. We also use this information to send you information about our products or services.
 
-*   **Context: Mobile Devices**
-*   **Types of Information:** We collect information from your mobile device, including web browser cookies.
-*   **Primary Purpose for Collection and Use of Information:** We use this information to design a better mobile experience and enhance the mobile performance of the site.
+**Mobile Devices**  
+We collect information from your mobile device, including web browser cookies. We use this information to design a better mobile experience and enhance the mobile performance of the site.
 
-*   **Context: Order Placement**
-*   **Types of Information:** We collect your name, billing address, shipping address, e-mail address, phone number, and payment card information when you place an order.
-*   **Primary Purpose for Collection and Use of Information:** We use this information to perform our contract to provide you with products or services or show you things you might like.
+**Order Placement**  
+We collect your name, billing address, shipping address, e-mail address, phone number, and payment card information when you place an order. We use this information to perform our contract to provide you with products or services or show you things you might like.
 
-*   **Context: Partner Promotion**
-*   **Types of Information:** We collect information that you provide as part of a co-branded promotion with another company.
-*   **Primary Purpose for Collection and Use of Information:** We use this information to fulfill our promotions.
+**Partner Promotion**  
+We collect information that you provide as part of a co-branded promotion with another company. We use this information to fulfill our promotions.
 
-*   **Context: Surveys**
-*   **Types of Information:** When you participate in a survey provided by a third party service provider, the third party's privacy policy applies to the collection, use, and disclosure of your information.
-*   **Primary Purpose for Collection and Use of Information:** We use this information to understand your opinions, and collect information relevant to our organization and work to improve your experience.
+**Surveys**  
+When you participate in a survey provided by a third party service provider, the third party's privacy policy applies to the collection, use, and disclosure of your information. We use this information to understand your opinions, and collect information relevant to our organization and work to improve your experience.
 
-*   **Context: Sweepstakes or contests**
-*   **Types of Information:** When you participate in a sweepstakes or contest we collect information about you which includes contact information to notify you if you are selected.
-*   **Primary Purpose for Collection and Use of Information:** We use this information to operate the sweepstakes. In some contexts we are also required by law to collect information about those that enter into our sweepstakes.
+**Sweepstakes or contests**  
+When you participate in a sweepstakes or contest we collect information about you which includes contact information to notify you if you are selected. We use this information to operate the sweepstakes. In some contexts we are also required by law to collect information about those that enter into our sweepstakes.
 
-*   **Context: Third Party Advertising**
-*   **Types of Information:** We participate in behavior-based advertising. This means that a third party may use technology (e.g., a cookie (further described below)) to collect information about your use of our website so that they can provide advertising about products and services tailored to your interests. That advertising may appear either on our websites, or on other websites. Cookies may be managed by following instructions provided by your browser.
-*   **Primary Purpose for Collection and Use of Information:** We use this information to offer you more relevant marketing and promotions.
+**Third Party Advertising**  
+We participate in behavior-based advertising. This means that a third party may use technology (e.g., a cookie (further described below)) to collect information about your use of our website so that they can provide advertising about products and services tailored to your interests. That advertising may appear either on our websites, or on other websites. Cookies may be managed by following instructions provided by your browser. We use this information to offer you more relevant marketing and promotions.
 
-*   **Context: Web logs**
-*   **Types of Information:** We collect information from you, including your browser type, operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer when you use the Internet), domain name, click-activity, referring website, and/or a date/time stamp for your visit.
-*   **Primary Purpose for Collection and Use of Information:** We use this information to monitor our networks and the visitors to our websites. Among other things, it helps us understand which of our products or services is the most popular.
+**Web logs**  
+We collect information from you, including your browser type, operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer when you use the Internet), domain name, click-activity, referring website, and/or a date/time stamp for your visit. We use this information to monitor our networks and the visitors to our websites. Among other things, it helps us understand which of our products or services is the most popular.
 
-*   **Context: World Market Rewards**
-*   **Types of Information:** When you register for World Market Rewards we collect your name, birthday, email address, address, and phone number.
-*   **Primary Purpose for Collection and Use of Information:** We use this information to carry out our obligation of providing you with points for purchases made and allowing you to redeem your points for rewards. We also use this information to offer you more relevant marketing and promotions. In addition we use this information to detect security incidents and protect against malicious, deceptive, fraudulent, or illegal activity.
+**World Market Rewards**  
+When you register for World Market Rewards we collect your name, birthday, email address, address, and phone number. We use this information to carry out our obligation of providing you with points for purchases made and allowing you to redeem your points for rewards. We also use this information to offer you more relevant marketing and promotions. In addition we use this information to detect security incidents and protect against malicious, deceptive, fraudulent, or illegal activity.
 
 In addition to the information that we collect from you directly, we may also receive information about you from other sources, including third parties, business partners, our affiliates, or publicly available sources.
 
