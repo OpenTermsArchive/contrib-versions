@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Old blog posts
     *   by isexed\_yermom
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -25,7 +25,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 years ago
     *   in Data Migration
     *   0 votes
-    *   47 (last comment by msczarina2002 1 week ago)
+    *   47 (last comment by msczarina2002 2 weeks ago)
 *   how can i access my old blogs
     *   \[Resolved\] by e\_e
     *   6 years ago
@@ -58,13 +58,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by perchedonstilts 3 months ago)
 *   Archive does not have all blogs
     *   by nevaeh84
-    *   3 months ago
+    *   4 months ago
     *   in Data Migration
     *   0 votes
     *   0
 *   how to get back my old posts?
     *   by MYFEEL\_LING
-    *   3 months ago
+    *   4 months ago
     *   in Data Migration
     *   0 votes
     *   0
