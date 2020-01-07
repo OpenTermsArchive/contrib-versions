@@ -448,75 +448,80 @@ Have any questions or suggestions? We’d love to hear them!
 
 <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MDD5C4" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Wix
 
-*   Ik heb een website nodig voor...
+*   I Need a Site for...
 
-*   {"OTHER":"Overige","BEAUTY\_AND\_WELLNESS":"Beauty en wellness","MUSIC":"Muziek","EVENTS":"Evenementen","RESTAURANTS":"Restaurant","ONLINE\_STORE":"Webshop","ACCOMMODATION":"Accommodatie","PHOTOGRAPHY":"Fotografie","BUSINESS":"Bedrijf","PORTFOLIO\_AND\_CV":"Portfolio en cv","BLOG":"Blog","DESIGNER":"Design"}
-*   Mijn websites
+*   {"BUSINESS":"Business","MUSIC":"Music","PHOTOGRAPHY":"Photography","ONLINE\_STORE":"Online Store","DESIGNER":"Designer","RESTAURANTS":"Restaurants &. Food","ACCOMMODATION":"Accommodation","EVENTS":"Events","PORTFOLIO\_AND\_CV":"Portfolio &. CV","BEAUTY\_AND\_WELLNESS":"Beauty &. Wellness","BLOG":"Blog","OTHER":"Other"}
+*   My Sites
 *   Templates
-*   Ontdekken
-    *   Laat u inspireren
-    *   Functies
-    *   Appmarkt
-*   Functies
-*   Ontdekken
-*   Abonnementen
-    *   Premiumpakketten
-    *   Domeinen
-    *   Postvakken
+*   Explore
+    *   Get Inspired
+    *   Features
+    *   App Market
+*   Features
+*   Explore
+*   Subscriptions
+    *   Premium Plans
+    *   Domains
+    *   Mailboxes
 *   Templates
-*   Ondersteuning
+*   Support
 
-Inloggen Hallo {username},
+Sign In Hi, {username}
 
-*   Accountinstellingen
-*   Facturering en betaling
-*   Waardebonnen
+*   Account Settings
+*   Billing &. Payments
+*   Vouchers
 
-*   Uitloggen
+*   Logout
 
-*   Aan de slag
-*   Startpagina
-*   Functies
-*   Domeinen
-*   Postvakken
-*   Webshop
-*   Contact
+*   Get Started
+*   Home
+*   Features
+*   Domains
+*   Mailboxes
+*   Online Store
+*   Contact Us
 *   Jobs
-*   Wix-blog
-*   Wix-succesverhalen
+*   Wix Blog
+*   Wix Stories
 
-*   Product
+*   PRODUCT
 *   Templates
-*   Ontdekken
-*   Functies
+*   Explore
+*   Features
+*   Website Builder
 *   Corvid
-*   Mijn websites
-*   Premiumpakketten
-*   Wix-SEO
-*   Webshop
-*   Begin een Blog
-*   Appmarkt
-*   Domeinen
+*   Wix Playground
+*   My Sites
+*   Premium Plans
+*   Wix SEO
+*   Logo Maker
+*   Online Store
+*   Start a Blog
+*   App Market
+*   Domains
 *   Wix Answers
-*   Ontwikkelaars
-*   E-mailmarketing
+*   Developers
+*   Email Marketing
+*   Website Design
 
-*   Bedrijf
-*   Over Wix
-*   Investeerders
+*   COMPANY
+*   About Wix
+*   Investor Relations
 *   Jobs
-*   Designelementen
-*   Gebruiksvoorwaarden
-*   Voorwaarden appmarkt
-*   Privacybeleid
-*   Misbruik
+*   Design Assets
+*   Terms of use
+*   App Market Terms
+*   Privacy Policy
+*   Abuse
 *   Affiliates
-*   Contact
-*   Patent kennisgeving
+*   Updates &. Releases
+*   Contact Us
+*   Patent Notice
 *   Sitemap
 
-*   Community
-*   Wix-blog
+*   COMMUNITY
+*   Wix Blog
 *   Wix Arena
 *   Facebook
 *   Twitter
@@ -524,10 +529,10 @@ Inloggen Hallo {username},
 *   YouTube
 *   LinkedIn
 
-*   Ondersteuning
-*   Helpcentrum
+*   SUPPORT
+*   Support Center
 
-Wix.com Wix.com is een toonaangevend ontwikkelplatform in de cloud met miljoenen gebruikers over de hele wereld. We zorgen ervoor dat iedereen mooie, professionele websites kan maken. Promoot uw onderneming, stel uw kunst tentoon, maak een online winkel of probeer nieuwe ideeën. De Wix-websitemaker heeft alles wat u nodig hebt om gratis uw eigen gepersonaliseerde website van hoge kwaliteit te maken. © 2006-2019 Wix.com, Inc
+Wix.com Wix.com is a leading cloud-based development platform with millions of users worldwide. We make it easy for everyone to create a beautiful, professional web presence. Promote your business, showcase your art, set up an online shop or just test out new ideas. The Wix website builder has everything you need to create a fully personalized, high-quality free website. © 2006-2019 Wix.com, Inc
 
 *   Facebook
 *   Twitter
