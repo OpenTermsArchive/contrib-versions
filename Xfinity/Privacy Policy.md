@@ -412,7 +412,7 @@ We limit disclosures of Personal Information for business purposes to service pr
 
 Sale of Personal Information and Right to Opt Out
 
-The CCPA requires companies to include certain disclosures including “Do Not Sell My Info’ links on their websites and mobile applications. We do not sell information that identifies who you are to anyone. To opt out of the sale or sharing of non-identifying information, please visit the Xfinity Preferences Page. Please note that your right to opt out does not apply to our sharing of data with service providers, with whom we work and who are required to use the data only on our behalf.
+The CCPA requires companies to include certain disclosures including "Do Not Sell My Info" links on their websites and mobile applications. We do not sell information that identifies who you are to anyone. To opt out of the sale or sharing of non-identifying information, please visit the Xfinity Preferences Page. Please note that your right to opt out does not apply to our sharing of data with service providers, with whom we work and who are required to use the data only on our behalf.
 
 Identifiers
 
