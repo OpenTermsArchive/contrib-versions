@@ -54,6 +54,8 @@ W3Schools may contain inaccuracies or errors. Refsnes Data makes no guarantees r
 
 Contact address:
 
+support@w3schools.com
+
 Linked Sites
 
 W3Schools contains links to other sites. Refsnes Data is not responsible for any content that appears on these linked sites.
