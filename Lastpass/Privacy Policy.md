@@ -1,6 +1,6 @@
 LogMeIn Privacy Policy
 
-Last Updated on December 31, 2019  
+Last Updated on December 31, 2019
 
 **Introduction**
 
@@ -101,7 +101,7 @@ Advertising Cookies
 
 These cookies are used to serve you with advertisements that may be relevant to you and your interests.
 
-We use cookies to make advertising more engaging to users, as well as to assist in reporting on marketing program performance and analytics
+We use cookies to make advertising more engaging to users, as well as to assist in reporting on marketing program performance and analytics.
 
 Security Cookies
 
@@ -111,7 +111,8 @@ We use security cookies to authenticate users, prevent fraudulent use of login c
 
 **Mobile Analytics**
 
-We use mobile analytics software to allow us to better understand the functionality of our mobile software on your mobile device. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile application. Social Media: Our sites include social media features, such as Facebook, Google and Twitter “share” buttons. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. These services will also authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign-up form or provide feedback. Your interactions with these features are governed by the Privacy Policy of the third-party company providing them.
+We use mobile analytics software to allow us to better understand the functionality of our mobile software on your mobile device. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile application.  
+Social Media: Our sites include social media features, such as Facebook, Google and Twitter “share” buttons. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. These services will also authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign-up form or provide feedback. Your interactions with these features are governed by the Privacy Policy of the third-party company providing them.
 
 **4\. Information Sharing**
 
@@ -169,7 +170,7 @@ Depending on which laws apply to your personal information, we may only be able 
 
 We will respond to your request without undue delay, but in any event within thirty (30) days. We reserve the right to take reasonable steps to verify your identity prior to granting access or processing changes or corrections.
 
-If you wish to no longer receive marketing communications from us, you can opt-out of marketing by clicking on the unsubscribe link on any marketing email you receive, or http://solutions.logmein.com/unsubscribea Note that if you are a LastPass user, please visit https://lp.logmeininc.com/unsubscribe to opt-out.
+If you wish to no longer receive marketing communications from us, you can opt-out of marketing by clicking on the unsubscribe link on any marketing email you receive, or http://solutions.logmein.com/unsubscribe. Note that if you are a LastPass user, please visit https://lp.logmeininc.com/unsubscribe to opt-out.
 
 You may also have the right to complain to a regulatory authority. If you have a question or complaint, we ask that you please contact us first. If you are in the EU and we are unable to resolve your complaint, you may complain to the Data Protection Authority in your home country.
 
