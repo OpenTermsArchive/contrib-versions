@@ -452,13 +452,11 @@ We may change this Privacy Policy over time as our business needs and those of o
 
 How to Contact Us with Questions About this Privacy Policy
 
-*   **Send Us a Message: Comcast\_Privacy@comcast.com**
-
-**
+Send us a message: Comcast\_Privacy@comcast.com
 
 Be sure to include your name and address, your Comcast account number, and a daytime telephone number where we can reach you.
 
-****We're here to help
+We're here to help
 
 We’re on hand with tips, tricks, and advice anytime.
 
@@ -470,4 +468,4 @@ Learn More **Chat with Xfinity**
 
 Get 24/7 assistance for any questions you have.
 
-Chat Now**
+Chat Now
