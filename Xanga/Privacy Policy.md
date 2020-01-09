@@ -1,7 +1,19 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   i dont have data Archive in my page
+    *   by JacK\_Puk
+    *   10 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Old blog posts
     *   by isexed\_yermom
     *   1 week ago
@@ -86,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   i cannot upgrade to xanga 2.0
-    *   by Secretjay
-    *   5 months ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
 1 2 3 ... 195 Next
 
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
