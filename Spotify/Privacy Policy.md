@@ -313,4 +313,4 @@ USA
 
 We hope you enjoy Spotify!
 
-© Spotify AB.
+© Spotify USA Inc.
