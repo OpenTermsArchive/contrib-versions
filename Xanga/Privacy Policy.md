@@ -4,7 +4,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   i dont have data Archive in my page
     *   by JacK\_Puk
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -25,7 +25,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 years ago
     *   in Data Migration
     *   0 votes
-    *   47 (last comment by msczarina2002 2 weeks ago)
+    *   47 (last comment by msczarina2002 3 weeks ago)
 *   how can i access my old blogs
     *   \[Resolved\] by e\_e
     *   6 years ago
@@ -46,7 +46,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Old xanga recovered
     *   by anarchy\_animeGirl
-    *   2 months ago
+    *   3 months ago
     *   in Data Migration
     *   0 votes
     *   0
