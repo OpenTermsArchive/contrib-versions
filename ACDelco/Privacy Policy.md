@@ -422,7 +422,7 @@ Contact Information
 
 If you have any questions or comments about this notice, our Privacy Statement, the ways in which we collect, use, and share your Personal Information, your choices and rights regarding such use, or wish to exercise your rights under the CCPA, please do not hesitate to contact us at:
 
-Phone: 866-MYPRIVACY (697-7482)  
+Phone: 866-MYPRIVACY (866-697-7482)  
 Website: consumerprivacy.gm.com  
 Email: privacy@gm.com
 
