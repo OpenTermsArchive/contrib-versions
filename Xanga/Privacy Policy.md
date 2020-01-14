@@ -13,10 +13,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   9 months ago
     *   in Themes
     *   0 votes
-    *   2 (last comment by JacK\_Puk 16 hours ago)
+    *   2 (last comment by JacK\_Puk 1 day ago)
 *   i dont have data Archive in my page
     *   by JacK\_Puk
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
