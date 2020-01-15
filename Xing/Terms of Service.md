@@ -68,7 +68,7 @@ General Terms and Conditions for XING Marketing Solutions
 
 General Terms and Conditions
 
-Last updated: 1 January 2020
+Last updated: 6 January 2020
 
   
 
@@ -531,9 +531,11 @@ If such a suspicion cannot be eliminated within thirty (30) days, XING reserves 
 
 **4.5** The organiser is aware that ticket invoice amounts may remain unpaid with certain payment methods (primarily on account and advance payment). The organiser bears this risk and is responsible for collecting such unpaid amounts.
 
+**4.6** XING considers it essential that event organisers are not disadvantaged, i.e. that they are in a position to generate the same revenues they would do if they managed ticket sales themselves. Consequently, when managing proceeds from ticket sales, XING only uses accounts provided by financial institutions whose assurances extend beyond those of statutory compensation schemes and who hold membership with a deposit protection fund, in turn providing higher guarantee ceilings. However, the organiser is aware that XING cannot assume any liability for unusual, unforeseeable events, e.g. if the credit institutions used are declared bankrupt (Section 676c of the German Civil Code (BGB) applies mutatis mutandis). In such cases, XING may only be held liable up to the guarantee ceiling, for revenues capped at the amount the respective credit institution would reimburse if a claim were submitted. The organiser bears any risk extending beyond the scope of these provisions.
+
 **Terms for ticket buyers**
 
-**4.6** Credit card and SOFORT payments for this service are processed by:
+**4.7** Credit card and SOFORT payments for this service are processed by:
 
 Wirecard Bank AG  
 Einsteinring 35  
@@ -552,13 +554,13 @@ www.wirecardbank.com
 Privacy Policy:  
 https://www.wirecardbank.de/GDPR
 
-**4.7** Depending on the agreement reached between XING and the respective organiser, the fees for processing ticket sales shall be added on to the ticket price and listed separately during the ticket shop order process. The total purchase price may increase due to any supplementary products or services the ticket buyer has booked. Any charges or currency fluctuations that occur in connection with foreign transactions shall be borne by the participant. The ticket shop will state whether the ticket price is inclusive or exclusive of VAT.
+**4.8** Depending on the agreement reached between XING and the respective organiser, the fees for processing ticket sales shall be added on to the ticket price and listed separately during the ticket shop order process. The total purchase price may increase due to any supplementary products or services the ticket buyer has booked. Any charges or currency fluctuations that occur in connection with foreign transactions shall be borne by the participant. The ticket shop will state whether the ticket price is inclusive or exclusive of VAT.
 
-**4.8** The total purchase price is due for payment immediately upon receipt of the confirmation e-mail.
+**4.9** The total purchase price is due for payment immediately upon receipt of the confirmation e-mail.
 
    
 
-**4.9** XING will collect direct debit payments by serving advance notice of six (6) business days. This is in derogation to the regular advance notice of fourteen (14) calendar days.
+**4.10** XING will collect direct debit payments by serving advance notice of six (6) business days. This is in derogation to the regular advance notice of fourteen (14) calendar days.
 
 5\. Validity of the provisions of the General Terms and Conditions for using the XING service
 
