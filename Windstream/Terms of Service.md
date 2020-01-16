@@ -19,7 +19,7 @@
 *   Check My Email
 *   Sign Out
 
-Call now to order 1-866-445-8084
+Call now to order 1-866-795-5063
 
 _close_
 
@@ -42,7 +42,7 @@ _close_
 *   _search_
 *   Looking for Business Solution?
 
-Call now to order 1-866-445-8084
+Call now to order 1-866-795-5063
 
 _close_
 
@@ -52,7 +52,7 @@ _close_
 *   Voice
 *   View All Products
 
-Call now to order 1-866-445-8084
+Call now to order 1-866-795-5063
 
 _close_
 
@@ -65,7 +65,7 @@ _close_
 *   Check My Email
 *   Sign Out
 
-Call now to order 1-866-445-8084
+Call now to order 1-866-795-5063
 
 _close_
 
@@ -85,7 +85,7 @@ _close_
 *   Support
     *   Contact Us
 
-Call now to order 1-866-445-8084
+Call now to order 1-866-795-5063
 
 Back to About Page
 
@@ -701,12 +701,12 @@ WINDSTREAM
 
 CONTACT US
 
-*   Call to order 1-866-445-8084
+*   Call to order 1-866-795-5063
 *   Contact Us
 
 CONTACT US
 
-*   Call now to order 1-866-445-8084
+*   Call now to order 1-866-795-5063
 *   Contact Us
 
 © 2020 Windstream Communications. All rights reserved. Privacy Policy   |   Terms &. Conditions   |   Legal Notices BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1819151935020592&amp;ev=PageView&amp;noscript=1">.
