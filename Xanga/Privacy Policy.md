@@ -7,10 +7,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   9 months ago
     *   in Themes
     *   0 votes
-    *   2 (last comment by JacK\_Puk 2 days ago)
+    *   2 (last comment by JacK\_Puk 3 days ago)
 *   i dont have data Archive in my page
     *   by JacK\_Puk
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -40,7 +40,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by seraphym\_shining 3 weeks ago)
 *   Delete pictures
     *   by GrafSoul
-    *   1 month ago
+    *   2 months ago
     *   in Pictures
     *   0 votes
     *   0
