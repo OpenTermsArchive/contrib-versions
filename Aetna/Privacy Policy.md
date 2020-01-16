@@ -396,6 +396,175 @@ Login
 *   Perspective
 *   Media Resources
 
+*   Individuals
+    
+    *   Individuals overview
+    *   Get a quote
+        *   Medicare
+        *   Health insurance
+        *   Dental coverage
+        *   Vision insurance
+        *   Medicaid
+    *   General plan info
+        *   Medicare
+        *   Plans through an employer
+        *   Medicaid
+        *   Student health plans
+        *   International plans
+    *   The Health Guide
+        *   All health resources
+        *   Living healthy
+        *   Understanding health care
+        *   Managing health
+    
+    For members
+    *   Find a doctor opens in secure site
+    *   Drug coverage opens in secure site
+    *   Get an ID card opens in secure site
+    *   Check a claim opens in secure site
+    *   Rights &. resources
+    *   Find a form
+    *   Pay your premiumsecondary menu close
+*   Employers
+    
+    *   Employers overview
+    *   Support &. resources
+        *   Working with Aetna
+        *   Health insurance exchanges
+        *   Health care tools &. apps
+        *   Secure online benefits management
+        *   Tools, manuals &. forms for administrators
+        *   Crisis response support &. toolkit
+    *   Products &. programs
+        *   Small business
+        *   Mid-sized business
+        *   National accounts
+        *   Healthcare industry
+        *   High-Tech industry
+        *   Hospitality industry
+        *   Labor solutions
+        *   Private equity
+        *   Public sector
+        *   Professional employer organizations
+        *   Retiree health plans
+        *   Voluntary benefits
+        *   International insurance
+    *   For small businesses
+        *   Get a quote
+        *   Pay your bill
+        *   Innovation Health premium payments
+        *   Get SBC (Summary of Benefits and Coverage)
+        *   Small business health plans by state
+    *   Thought leadership
+        *   Personalized Medicine
+        *   Precision Medicine
+    
+    Helpful links
+    *   Manage your plan opens in secure site
+    *   Get a report opens in secure site
+    *   Find a doctor or hospital
+    *   Regional sales contact toolsecondary menu close
+*   Providers
+    
+    *   Providers overview
+    *   Working with us
+        *   Join the network
+        *   Resource center for providers
+        *   Claims, payment &. reimbursement
+        *   Precertification
+        *   Clinical policy bulletins
+        *   Utilization management
+        *   ICD-10, 5010 &. NPI information
+        *   Dispute &. appeal process
+    *   Products &. programs
+        *   Patient care programs &. quality assurance
+        *   Pharmacy services
+        *   Medicare
+    *   Resources &. reports
+        *   Newsletters &. news
+        *   Forms
+        *   Education &. manuals
+        *   Insurance regulations by state
+    
+    Helpful links
+    *   Aetna secure provider website opens in secure site
+    *   Aetna dental opens in secure site
+    *   Coventry secure provider website opens in secure site
+    *   Check fee schedules
+    *   Check precertification list
+    *   Online Medicare directory
+    *   Online provider directory
+    *   Search drug formularies
+    *   Update provider data
+    *   Update pharmacy datasecondary menu close
+*   Agents/Brokers
+    
+    *   Agents/Brokers overview
+    *   Producer World
+        *   Log In or Register
+        *   Compensation
+        *   Medicare Reporting
+        *   Commercial Reporting
+        *   Enrollment
+    *   Working with us
+        *   Become appointed with Aetna
+        *   Producer World tools &. resources
+        *   Working with Aetna
+    *   Plans &. services
+        *   Health plans &. insurance
+        *   Dental plans &. programs
+        *   Vision insurance
+        *   Health expense funds
+        *   Pharmacy
+        *   Behavioral health programs
+        *   Aetna Whole Health plans
+        *   Health &. wellness
+        *   International insurance
+        *   Voluntary benefits
+    
+    Helpful links
+    *   Get a quote
+    *   Find doctors, dentists &. hospitals
+    *   Regional sales contact tool
+    *   SBC lookup toolsecondary menu close
+
+*   About us
+    *   About us overview
+    *   Who we are
+        *   Aetna values
+        *   Diversity &. inclusion
+        *   Our history
+        *   Aetna facts &. subsidiaries
+        *   Leadership
+        *   Physician advisory board
+        *   Political activities
+        *   News &. analysis
+        *   Health care reform
+        *   Aetna story
+        *   Code of conduct
+    *   Initiatives
+        *   Corporate responsibility
+        *   Awards &. recognition
+        *   Racial &. ethnic equity
+        *   Doing business with us
+    *   Working with us
+        *   Working at Aetna
+        *   Aetna careers
+        *   College recruiting
+        *   Partner Program
+        *   Executive briefing center
+    *   Investors
+        *   Investor information
+    *   Health section
+        *   Access
+        *   Community
+        *   Innovation
+        *   Well-Being
+        *   News Items
+        *   Perspective
+        *   Media Resourcessecondary menu close
+*   Login
+
 Web &. Mobile Privacy Statement Aetna’s Privacy Statement
 
 Welcome to Aetna’s web and mobile experience.  This Aetna Web &. Mobile Privacy Statement (the “Privacy Statement”) describes our practices in connection with information we collect through software applications (including mobile applications) and websites that we operate and that contain a link to this Privacy Statement (an “Application” or, together, the “Applications”).  This Privacy Statement is designed to transparently describe our privacy practices, in a format that is easy to navigate, read, and understand.  We are committed to treating your information with care and respect and managing our Applications in a manner which is compliant with law.
