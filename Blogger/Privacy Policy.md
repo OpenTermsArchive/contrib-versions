@@ -4,7 +4,7 @@ When you use our services, you’re trusting us with your information. We unders
 
 This Privacy Policy is meant to help you understand what information we collect, why we collect it, and how you can update, manage, export, and delete your information.
 
-Effective October 15, 2019 | Archived versions | Download PDFContentsIntroductionInformation Google collectsWhy Google collects dataYour privacy controlsSharing your informationKeeping your information secureExporting &. deleting your informationRetaining your informationCompliance &. cooperation with regulatorsAbout this policyRelated privacy practices
+Effective December 19, 2019 | Archived versions | Download PDFContentsIntroductionInformation Google collectsWhy Google collects dataYour privacy controlsSharing your informationKeeping your information secureExporting &. deleting your informationRetaining your informationCompliance &. cooperation with regulatorsAbout this policyRelated privacy practices
 
 We build a range of services that help millions of people daily to explore and interact with the world in new ways. Our services include:
 
@@ -311,6 +311,23 @@ Data transfers
 We maintain servers around the world and your information may be processed on servers located outside of the country where you live. Data protection laws vary among countries, with some providing more protection than others. Regardless of where your information is processed, we apply the same protections described in this policy. We also comply with certain legal frameworks relating to the transfer of data, such as the EU-US and Swiss-US Privacy Shield Frameworks.
 
 When we receive formal written complaints, we respond by contacting the person who made the complaint. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of your data that we cannot resolve with you directly.
+
+California requirements
+
+If the California Consumer Privacy Act (CCPA) applies to your information, we provide these disclosures and the tools described in this policy so you can exercise your rights to receive information about our data practices, as well as to request access to and deletion of your information. These tools allow you to review, update and delete your information, as well as export and download a copy of it. You can also read more about Google’s data retention periods, and the process we follow to delete your information.
+
+Google does not sell your personal information. We only share your information as described in this policy. Google processes your information for the purposes described in this policy, which include “business purposes” under the CCPA. These purposes include:
+
+*   **Protecting against security threats, abuse, and illegal activity.** Google uses and may disclose information to detect, prevent and respond to security incidents, and for protecting against other malicious, deceptive, fraudulent, or illegal activity. For example, to protect our services, Google may receive or disclose information about IP addresses that malicious actors have compromised.
+*   **Auditing and measurement.** Google uses information for analytics and measurement to understand how our services are used, as well as to fulfill obligations to our partners like publishers, advertisers, developers, or rights holders. We may disclose non-personally identifiable information publicly and with these partners, including for auditing purposes.
+*   **Maintaining our services.** Google uses information to ensure our services are working as intended, such as tracking outages or troubleshooting bugs and other issues that you report to us.
+*   **Research and development.** Google uses information to improve our services and to develop new products, features and technologies that benefit our users and the public. For example, we use publicly available information to help train Google’s language models and build features like Google Translate.
+*   **Use of service providers.** Google shares information with service providers to perform services on our behalf, in compliance with our Privacy Policy and other appropriate confidentiality and security measures. For example, we may rely on service providers to help provide customer support.
+*   **Advertising.** Google processes information, including online identifiers and information about your interactions with advertisements, to provide advertising. This keeps many of our services freely available for users. You can control what information we use to show you ads by visiting your ad settings.
+
+Google also uses information to satisfy applicable laws or regulations, and discloses information in response to legal process or enforceable government requests, including to law enforcement. We provide information about the number and type of requests we receive from governments in our Transparency Report.
+
+If you have additional questions or requests related to your rights under the CCPA, you can contact Google.
 
 About this policyWhen this policy applies
 
