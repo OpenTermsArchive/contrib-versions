@@ -53,6 +53,7 @@ Search search clear
         *   Small business
         *   Mid-sized business
         *   National accounts
+        *   Education
         *   Healthcare industry
         *   High-Tech industry
         *   Hospitality industry
@@ -270,6 +271,7 @@ Login
 *   Small business
 *   Mid-sized business
 *   National accounts
+*   Education
 *   Healthcare industry
 *   High-Tech industry
 *   Hospitality industry
@@ -439,6 +441,7 @@ Login
         *   Small business
         *   Mid-sized business
         *   National accounts
+        *   Education
         *   Healthcare industry
         *   High-Tech industry
         *   Hospitality industry
@@ -691,7 +694,7 @@ Privacy statement update: 9/19/17
 *   INTEREST-BASED ADS POLICY
 *   NONDISCRIMINATION NOTICE
 
-©2019 Aetna Inc.
+©2020 Aetna Inc.
 
 For language services, please call the number on your member ID card and request an operator. For other language services: Español | 中文 | Tiếng Việt |한국어 |Tagalog | Pусский | العربية | Kreyòl | Français | Polski | Português | Italiano |Deutsch |日本語 |فارسی | Other languages ...
 
