@@ -1,3 +1,9 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
@@ -7,13 +13,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 years ago
     *   in Data Migration
     *   0 votes
-    *   48 (last comment by tinapoot 1 day ago)
+    *   48 (last comment by tinapoot 2 days ago)
 *   Please help to reactivate let me can see old posts
     *   by natalie6791
     *   9 months ago
     *   in Themes
     *   0 votes
-    *   2 (last comment by JacK\_Puk 5 days ago)
+    *   2 (last comment by JacK\_Puk 6 days ago)
 *   i dont have data Archive in my page
     *   by JacK\_Puk
     *   1 week ago
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
