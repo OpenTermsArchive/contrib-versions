@@ -106,6 +106,7 @@ Back to About Page
 *   Legal▼
     *   Acceptable Use Policy
     *   Broadband Network Statement
+    *   DPS complaints
     *   Legal Notices
     *   Offer Conditions
     *   Privacy Policy
@@ -137,6 +138,7 @@ Back to About Page
     *   Legal▲
         *   Acceptable Use Policy
         *   Broadband Network Statement
+        *   DPS complaints
         *   Legal Notices
         *   Offer Conditions
         *   Privacy Policy
@@ -685,4 +687,4 @@ CONTACT US
 *   Call now to order 1-866-445-8084
 *   Contact Us
 
-© 2020 Windstream Communications. All rights reserved. Privacy Policy   |   Terms &. Conditions   |   Legal Notices BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1819151935020592&amp;ev=PageView&amp;noscript=1">.
+© 2020 Windstream Communications. All rights reserved. Privacy Policy   |   Terms &. Conditions   |   Legal Notices <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1819151935020592&amp;ev=PageView&amp;noscript=1">. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
