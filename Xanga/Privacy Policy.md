@@ -13,13 +13,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 years ago
     *   in Data Migration
     *   0 votes
-    *   48 (last comment by tinapoot 2 days ago)
+    *   48 (last comment by tinapoot 3 days ago)
 *   Please help to reactivate let me can see old posts
     *   by natalie6791
     *   9 months ago
     *   in Themes
     *   0 votes
-    *   2 (last comment by JacK\_Puk 6 days ago)
+    *   2 (last comment by JacK\_Puk 1 week ago)
 *   i dont have data Archive in my page
     *   by JacK\_Puk
     *   1 week ago
@@ -37,13 +37,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   6 years ago
     *   in Data Migration
     *   0 votes
-    *   9 (last comment by thaemokid 4 weeks ago)
+    *   9 (last comment by thaemokid 1 month ago)
 *   Please! I'd like to get my old blogs
     *   by mandynoelle
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by seraphym\_shining 4 weeks ago)
+    *   1 (last comment by seraphym\_shining 1 month ago)
 *   Delete pictures
     *   by GrafSoul
     *   2 months ago
