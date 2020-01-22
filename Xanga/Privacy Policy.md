@@ -7,10 +7,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 years ago
     *   in Data Migration
     *   0 votes
-    *   48 (last comment by tinapoot 4 days ago)
+    *   48 (last comment by tinapoot 5 days ago)
 *   Please help to reactivate let me can see old posts
     *   by natalie6791
-    *   9 months ago
+    *   10 months ago
     *   in Themes
     *   0 votes
     *   2 (last comment by JacK\_Puk 1 week ago)
@@ -22,7 +22,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Old blog posts
     *   by isexed\_yermom
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
