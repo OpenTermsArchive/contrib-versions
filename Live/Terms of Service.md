@@ -20,18 +20,16 @@ Top of pageCode of ConductCode of Conduct
 3\. **Code of Conduct.**
 
 *   a. By agreeing to these Terms, you’re agreeing that, when using the Services, you will follow these rules:
-
-*   i. Don’t do anything illegal.
-*   ii. Don’t engage in any activity that exploits, harms, or threatens to harm children.
-*   iii. Don’t send spam. Spam is unwanted or unsolicited bulk email, postings, contact requests, SMS (text messages), or instant messages.
-*   iv. Don’t publicly display or use the Services to share inappropriate content or material (involving, for example, nudity, bestiality, pornography, offensive language, graphic violence, or criminal activity).
-*   v. Don’t engage in activity that is fraudulent, false or misleading (e.g., asking for money under false pretenses, impersonating someone else, manipulating the Services to increase play count, or affect rankings, ratings, or comments).
-*   vi. Don’t circumvent any restrictions on access to or availability of the Services.
-*   vii. Don’t engage in activity that is harmful to you, the Services or others (e.g., transmitting viruses, stalking, posting terrorist or violent extremist content, communicating hate speech, or advocating violence against others).
-*   viii. Don’t infringe upon the rights of others (e.g., unauthorized sharing of copyrighted music or other copyrighted material, resale or other distribution of Bing maps, or photographs).
-*   ix. Don’t engage in activity that violates the privacy of others.
-*   x. Don’t help others break these rules.
-
+    *   i. Don’t do anything illegal.
+    *   ii. Don’t engage in any activity that exploits, harms, or threatens to harm children.
+    *   iii. Don’t send spam. Spam is unwanted or unsolicited bulk email, postings, contact requests, SMS (text messages), or instant messages.
+    *   iv. Don’t publicly display or use the Services to share inappropriate content or material (involving, for example, nudity, bestiality, pornography, offensive language, graphic violence, or criminal activity).
+    *   v. Don’t engage in activity that is fraudulent, false or misleading (e.g., asking for money under false pretenses, impersonating someone else, manipulating the Services to increase play count, or affect rankings, ratings, or comments).
+    *   vi. Don’t circumvent any restrictions on access to or availability of the Services.
+    *   vii. Don’t engage in activity that is harmful to you, the Services or others (e.g., transmitting viruses, stalking, posting terrorist or violent extremist content, communicating hate speech, or advocating violence against others).
+    *   viii. Don’t infringe upon the rights of others (e.g., unauthorized sharing of copyrighted music or other copyrighted material, resale or other distribution of Bing maps, or photographs).
+    *   ix. Don’t engage in activity that violates the privacy of others.
+    *   x. Don’t help others break these rules.
 *   b. **Enforcement.** If you violate these Terms, we may stop providing Services to you or we may close your Microsoft account. We may also block delivery of a communication (like email, file sharing or instant message) to or from the Services in an effort to enforce these Terms or we may remove or refuse to publish Your Content for any reason. When investigating alleged violations of these Terms, Microsoft reserves the right to review Your Content in order to resolve the issue. However, we cannot monitor the entire Services and make no attempt to do so.
 *   c. **Application to Xbox Services.** Click here for more information about how this Code of Conduct applies to Xbox Live, Xbox Game Pass, Games for Windows Live and Xbox Game Studios games, applications, services and content provided by Microsoft. Violation of the Code of Conduct through Xbox Services (defined in section 14(a)(i)) may result in suspensions or bans from participation in Xbox Services, including forfeiture of content licenses, Xbox Gold Membership time, and Microsoft account balances associated with the account.
 
@@ -485,18 +483,16 @@ Full textCode of ConductCode of Conduct3\_codeOfConductSummary
 3\. **Code of Conduct.**
 
 *   a. By agreeing to these Terms, you’re agreeing that, when using the Services, you will follow these rules:
-
-*   i. Don’t do anything illegal.
-*   ii. Don’t engage in any activity that exploits, harms, or threatens to harm children.
-*   iii. Don’t send spam. Spam is unwanted or unsolicited bulk email, postings, contact requests, SMS (text messages), or instant messages.
-*   iv. Don’t publicly display or use the Services to share inappropriate content or material (involving, for example, nudity, bestiality, pornography, offensive language, graphic violence, or criminal activity).
-*   v. Don’t engage in activity that is fraudulent, false or misleading (e.g., asking for money under false pretenses, impersonating someone else, manipulating the Services to increase play count, or affect rankings, ratings, or comments).
-*   vi. Don’t circumvent any restrictions on access to or availability of the Services.
-*   vii. Don’t engage in activity that is harmful to you, the Services or others (e.g., transmitting viruses, stalking, posting terrorist or violent extremist content, communicating hate speech, or advocating violence against others).
-*   viii. Don’t infringe upon the rights of others (e.g., unauthorized sharing of copyrighted music or other copyrighted material, resale or other distribution of Bing maps, or photographs).
-*   ix. Don’t engage in activity that violates the privacy of others.
-*   x. Don’t help others break these rules.
-
+    *   i. Don’t do anything illegal.
+    *   ii. Don’t engage in any activity that exploits, harms, or threatens to harm children.
+    *   iii. Don’t send spam. Spam is unwanted or unsolicited bulk email, postings, contact requests, SMS (text messages), or instant messages.
+    *   iv. Don’t publicly display or use the Services to share inappropriate content or material (involving, for example, nudity, bestiality, pornography, offensive language, graphic violence, or criminal activity).
+    *   v. Don’t engage in activity that is fraudulent, false or misleading (e.g., asking for money under false pretenses, impersonating someone else, manipulating the Services to increase play count, or affect rankings, ratings, or comments).
+    *   vi. Don’t circumvent any restrictions on access to or availability of the Services.
+    *   vii. Don’t engage in activity that is harmful to you, the Services or others (e.g., transmitting viruses, stalking, posting terrorist or violent extremist content, communicating hate speech, or advocating violence against others).
+    *   viii. Don’t infringe upon the rights of others (e.g., unauthorized sharing of copyrighted music or other copyrighted material, resale or other distribution of Bing maps, or photographs).
+    *   ix. Don’t engage in activity that violates the privacy of others.
+    *   x. Don’t help others break these rules.
 *   b. **Enforcement.** If you violate these Terms, we may stop providing Services to you or we may close your Microsoft account. We may also block delivery of a communication (like email, file sharing or instant message) to or from the Services in an effort to enforce these Terms or we may remove or refuse to publish Your Content for any reason. When investigating alleged violations of these Terms, Microsoft reserves the right to review Your Content in order to resolve the issue. However, we cannot monitor the entire Services and make no attempt to do so.
 *   c. **Application to Xbox Services.** Click here for more information about how this Code of Conduct applies to Xbox Live, Xbox Game Pass, Games for Windows Live and Xbox Game Studios games, applications, services and content provided by Microsoft. Violation of the Code of Conduct through Xbox Services (defined in section 14(a)(i)) may result in suspensions or bans from participation in Xbox Services, including forfeiture of content licenses, Xbox Gold Membership time, and Microsoft account balances associated with the account.
 
