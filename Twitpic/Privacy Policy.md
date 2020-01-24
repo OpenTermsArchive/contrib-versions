@@ -1,6 +1,7 @@
 Privacy Policy
 
 *   Download PDF
+*   Download PDF
     *   Information You Share With Us
     *   Additional Information We Receive About You
     *   Information We Share and Disclose
@@ -8,6 +9,7 @@ Privacy Policy
     *   Children and Our Services
     *   Our Global Operations and Privacy Shield
     *   Changes to This Privacy Policy
+    *   Download PDF
 
   Twitter Privacy Policy
 
