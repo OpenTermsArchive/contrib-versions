@@ -1,7 +1,9 @@
 Twitter Terms of Service
 
+*   Download: Twitter User Agreement
 *   *   If you live outside the European Union or European Economic Area
     *   If you live in the European Union or European Economic Area
+    *   Download: Twitter User Agreement
 
 Twitter Terms of Service
 
