@@ -69,7 +69,7 @@ In order to enable you to learn more about these rights, exercise these rights w
 
 If you have any questions about your privacy, your rights, or how to exercise them, please contact our Data Protection Officer using the ‘Contact Us’ form on the Privacy Center. If you have concerns around our processing of your personal data, we hope you will continue to work with us to resolve them. However, you can also contact and have the right to lodge a complaint with the Swedish Data Protection Authority (Datainspektionen) or your local Data Protection Authority.
 
-If you are a resident of the state of California, USA, please see our supplemental policy “Additional California Privacy Disclosures” which discusses additional privacy rights you may have under applicable law regarding the processing of your personal data.
+Additional privacy rights under the California Consumer Privacy Act (CCPA) can be found in our supplemental policy “Additional California Privacy Disclosures”, which contains supplemental disclosures relating to the processing of your personal data.
 
 4\. Personal data we collect from you
 
