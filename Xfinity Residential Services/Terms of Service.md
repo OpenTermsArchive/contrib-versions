@@ -250,7 +250,7 @@ Customer Agreements and Policies **COMCAST AGREEMENT FOR RESIDENTIAL   SERVICE
     *   **Vermont Residents:** The Vermont Department of Public Service Customer Hotline (1-800-622-4496) can provide assistance in the resolution of consumer TV complaints.
         
 
-Stnd 1019
+Stnd 0220
 
 View full agreement
 
