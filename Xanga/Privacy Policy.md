@@ -8,6 +8,12 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   You are holding my data ransom
+    *   by justraveit
+    *   14 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   How do I download an archive of my old blog?
     *   \[Resolved\] by thibault
     *   5 years ago
@@ -19,7 +25,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   10 months ago
     *   in Themes
     *   0 votes
-    *   2 (last comment by JacK\_Puk 1 week ago)
+    *   2 (last comment by JacK\_Puk 2 weeks ago)
 *   i dont have data Archive in my page
     *   by JacK\_Puk
     *   2 weeks ago
@@ -58,10 +64,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Retrieve arhieves
     *   by jayu1121
-    *   3 months ago
+    *   4 months ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by perchedonstilts 3 months ago)
+    *   1 (last comment by perchedonstilts 4 months ago)
 *   Archive does not have all blogs
     *   by nevaeh84
     *   4 months ago
@@ -88,12 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Is Xanga DEAD?! Or is something still in the works?
     *   by IamKevio
-    *   5 months ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Can’t find my archives
-    *   by NYFan13
     *   5 months ago
     *   in Data Migration
     *   0 votes
