@@ -1,4 +1,8 @@
-Data and Encryption Policies Certifications and Assessments
+Trello Operations and Security\*
+
+_\*For users accessing Trello through an Atlassian account see the additional policies and procedures below._
+
+Certifications and Assessments
 
 Trello, Inc. (“we”, “us” or “our”) is SOC2 Type 2 certified—we receive and review our data hosting providers’ SOC1 and SOC2 reports every 6 months under NDA. Trello is ISO/IEC 27001 certified which validates our information security management system (ISMS) and the implementation of our security controls. More information is available on the Atlassian Trust Management System. Trello is PCI-DSS certified and complies with Privacy Shield.
 
@@ -12,19 +16,19 @@ Trello production services are hosted on Amazon Web Services’ (“AWS”) EC2 
 
 All user content is stored within US regions of AWS and Google Cloud Storage ("GCS"). Trello’s production environment is hosted on an AWS EC2 platform. User content can also be found in Trello backups, stored in AWS EC2, S3, Glacier, and GCS.
 
-We currently do not offer customers the option of hosting Trello on a private server, or to otherwise use Trello on a separate infrastructure.
+We do not offer customers the option of hosting Trello on a private server, or to otherwise use Trello on a separate infrastructure.
 
 Production Environment
 
 We maintain separate and distinct production, staging, and development environments for Trello.
 
-To access Trello’s production environment, authorized and trained members of Trello's SRE and select Engineering team members (“Authorized Personnel”) authenticate to the VPN using unique strong passwords and TOTP based 2FA and then only access the production environment via ssh terminal connections using passphrase protected personal RSA certificates. An IDS system is in place on all production servers, which includes real-time monitoring and alerting of any changes to the production system files or configuration and anomalous security events. For Authorized Personnel, any workstations running Windows or macOS must be running current and active anti-virus software. Those members are also trained not to replicate non-public user data stored in Trello’s production environment onto their workstations or mobile devices. For clarity, users of Trello can access data via mobile apps.
+To access Trello’s production environment, authorized and trained members of Trello's SRE and select Engineering team members (“Authorized Personnel”) authenticate to the VPN using unique strong passwords and TOTP based 2FA and then only access the production environment via ssh terminal connections using passphrase protected personal RSA certificates. An IDS system is in place on all production servers, which includes real-time monitoring and alerting of any changes to the production system files or configuration and anomalous security events. For Authorized Personnel, any workstations running Windows or macOS must be running current and active anti-virus software. Those members are also trained not to replicate non-public user data stored in Trello’s production environment onto their workstations or mobile devices.
 
 Network Security
 
-Trello uses Akamai for DDoS protection. AWS Network ACL and Security Groups are used to restrict access to Trello’s systems as appropriate to their role. Active monitoring of these security rules is in place with alerting mechanisms in place for any changes to the configuration. Public access is restricted to port 443 and 80 on the network load balancers for public traffic.
+Trello uses Akamai for DDoS protection. AWS Network ACL and Security Groups are used to restrict access to Trello’s systems as appropriate to their role. Active monitoring of these security rules is in place with alerting mechanisms in place for any changes to the configuration. Public access is restricted to port 443 and 80 on the network load balancers for public traffic. Atlassian's Workplace Technology team protects our wireless networks by utilizing WPA2-AES authentication and PEAP-EAP-MSCHAPv2 encryption. We authenticate to our wireless network through 802.1x utilizing our internal identity store. We scan for rogue wireless access points regularly, and maintain a list of rogue access points found.
 
-Login security
+Login Security
 
 SAML 2.0 SSO is supported for Trello Enterprise customers. All customers can enable 2FA on their accounts or use Google OAuth. If SSO or OAuth is used to access Trello, Trello will inherit the login security settings in the user's IdP or Google account.
 
@@ -38,7 +42,7 @@ All user data stored in Trello is protected in accordance with our obligations i
 
 Trello maintains a list of Authorized Personnel with access to the production environment. These members undergo criminal background checks and are approved by Trello’s Engineering management. Trello also maintain a list of personnel who are permitted to access Trello code, as well as the development and staging environments. These lists are reviewed quarterly and upon role change.
 
-Trained members of the Trello customer support team also have case-specific, limited access to user data stored in Trello through restricted access customer support tools. Customer support team members are not authorized to review non-public user data stored in Trello for customer support purposes without explicit permission. When a Trello user submits a support ticket, they have the option of authorizing the customer support team to view their data. The Trello customer support team will only receive such access to the account if it is granted by the user, either by selecting the "Give Trello support staff temporary access to your account" option when submitting a help request, or by clicking a link sent to the user's email by the Trello Support team. The account owner can revoke such access at any time.2
+Trained members of the Atlassian and Trello customer support teams also have case-specific, limited access to user data stored in Trello through restricted access customer support tools. Customer support team members are not authorized to review non-public user data stored in Trello for customer support purposes without explicit permission. When a Trello user submits a support ticket, they have the option of authorizing the customer support team to view their data. The customer support team will only receive such access to the account if it is granted by the user, either by selecting the "Give support staff temporary access to your account" option when submitting a help request, or by clicking a link sent to the user's email by the support team. The account owner can revoke such access at any time.2
 
 Upon role change or leaving the company, the production credentials of Authorized Personnel are deactivated, and their sessions are forcibly logged out. Thereafter, all such accounts are removed or changed.
 
@@ -102,13 +106,13 @@ Event Logging
 
 Certain user actions which manipulate user data are stored within Trello and are available for the customer/user (e.g., when viewing the action history on a card, board, or team). This information is available within Trello unless a card is deleted (not archived), at which point it cannot be restored.
 
-All Trello API calls and application logs are kept for our internal purposes for at least 30 days without sensitive information (no full user tokens, no user generated content), and are available only for authorized employees as required by their role for monitoring of Trello to ensure service availability and performance and to prevent abuse.
+All Trello API calls and application logs are kept for our internal purposes for at least 45 days without sensitive information (no full user tokens, no user generated content), and are available only for authorized employees as required by their role for monitoring of Trello to ensure service availability and performance and to prevent abuse.
 
-Application logs for Trello are centrally collected in an ElasticSearch cluster for a minimum of 30 days for monitoring and analysis. Security, authentication, and Intrusion Detection System (IDS) logs for Trello are additionally retained in S3 CloudWatch buckets with a 12 month lifecycle to ensure retention.
+Application logs for Trello are centrally collected in Splunk for a minimum of 45 days for monitoring and analysis. Security, authentication, and Intrusion Detection System (IDS) logs for Trello are additionally retained in S3 CloudWatch buckets with a 12 month lifecycle to ensure retention.
 
 Asset Management
 
-While some assets are not owned by a specific individual, ownership and maintenance of the confidentiality, integrity, and availability of our systems is distributed amongst the SRE and Operations teams. Assets are transferred upon role change or leaving the company.
+Atlassian maintains Asset Management Policies and implementation guidelines. This policy is reviewed and updated in line with our Policy Management Program (PMP). Assets are transferred upon role change or leaving the company. For more information, see: Security Management Program. You can review the high level statements of each of our internal policies at: ISMP Policies
 
 Data Within Trello
 
@@ -173,7 +177,7 @@ In the even more unlikely event that Trello’s entire AWS EC2 region is irrecov
 
 Trello's SRE team regularly tests the various components of its Business Continuity architecture to ensure continued operations. Trello does not currently run anything like Chaos Monkey.
 
-Trello does not have an SLA or credit policy. Trello had over 99.99% uptime in 2017 and 2018, and any downtime is documented at Trello's status page.5
+Trello does not have an SLA or credit policy. Trello had over 99.99% uptime in 2018 and 2019, and any downtime is documented at Trello's status page.5
 
 Incidents and Response
 
@@ -220,6 +224,26 @@ Due to unforeseen events, we may have to infrequently perform unplanned maintena
 
 It is not possible for us to customize the maintenance window, as our users are on a shared infrastructure. However, we've used this maintenance window extremely rarely—about once a year, for under 15 minutes each time.
 
+Users who access Trello through an Atlassian account
+
+As part of Trello's continued integration into Atlassian, Trello users will have to create Atlassian accounts in order to access the Trello service. For Trello users accessing Trello through an Atlassian account, including accounts managed by organizations subscribing to Atlassian Access, the following policies and procedures, which may differ the policies and procedures above, shall apply.
+
+Data Centers and Location
+
+As mentioned above, Trello production services and associated user content (i.e., data stored to Trello boards) are stored in AWS’s and GCS’s United States regions. However, a limited amount of user information used for account authentication purposes may be stored in AWS and GCS regions outside of the United States. For more information on how we secure and store data at Atlassian, see our Trust page.
+
+Login Security
+
+If you login to Trello using your Atlassian account or if your account is managed by an organization that subscribes to Atlassian Access, login security (including single sign-on and two-step verification) and password features and policies for Atlassian accounts differ from those of legacy Trello accounts. More information about these features and policies is available at Your Atlassian Account and Atlassian Access Policies and Features.
+
+Data Deletion
+
+If a user accesses Trello through an Atlassian account, the processes and policies for deleting the user’s Trello account and personal data, including deletion request cancellation grace periods and backup data retention periods may differ from the Trello processes and policies outlined above. For more information, see Delete Your Atlassian Account.
+
+Support and Incident Response
+
+The support policies and incident response procedures for Atlassian Access differ from those applicable to Trello. More information regarding support for Atlassian Access is available at Atlassian Access Policies and Features.
+
 **Footnotes:**
 
 1http://aws.amazon.com/security/
@@ -236,6 +260,7 @@ It is not possible for us to customize the maintenance window, as our users are 
 
 Changelog
 
+*   **January 2020** – Updates to the following sections to reflect current practices: Data Centers and Locations, Atlassian Access, Atlassian Accounts, Network Security, Login Security, Event Logging, Asset Management
 *   **January 2019** – Updates to the following sections to reflect current practices: Penetration Testing and Bug Bounty Program, Production Environment, Network Security, Access Control, Third-Party Access, Physical Security, Corporate Environment and Removable Media, Encryption on Mobile Devices, Removing/Deleting Data from Trello, Event Logging, Data Within Trello, User Team Management and Access and Employee Policies
 *   **February 2018** - Updates to links or cross-references in the following Sections: Data Center, Access Control, Physical Security, Encryption In-Transit, Development, Patch and Configuration Management, Backup Policy, Disaster Recovery Policy and Planned Maintenance.
 *   **September 2017** - First version of page goes live. Replaces previous Operations &. Security Guide PDF.
