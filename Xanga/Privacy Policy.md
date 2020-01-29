@@ -1,16 +1,22 @@
-Skip to toolbar
-
-*   Xanga
-
-*   Log In
-
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   looking for my old site
+    *   by camilliette
+    *   9 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   missing site please help
+    *   by spidermagic
+    *   9 hours ago
+    *   in Personal URLs
+    *   0 votes
+    *   0
 *   You are holding my data ransom
     *   by justraveit
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -34,7 +40,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Old blog posts
     *   by isexed\_yermom
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -82,18 +88,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Cannot look back the previous blogs
     *   by JeSS\_Manchai
-    *   5 months ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Cannot look back the previous blogs
-    *   by JeSS\_Manchai
-    *   5 months ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Is Xanga DEAD?! Or is something still in the works?
-    *   by IamKevio
     *   5 months ago
     *   in Data Migration
     *   0 votes
@@ -156,4 +150,8 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
+
+*   Xanga
+
+*   Log In
