@@ -1,7 +1,5 @@
 WarnerMedia News &. Sports Privacy Policy
 
-Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds.
-
 (CNN)A WarnerMedia Company
 
 Effective Date: January 1, 2020Thank you for visiting a WarnerMedia News &. Sports property. This Privacy Policy explains our online information practices and the choices you can make about information collected through our websites, services, and applications (each a "Site" or collectively, the "Sites"). This Privacy Policy applies to any Site that links directly to this policy. For certain offerings on our Sites, there may be additional notices about our information practices and choices. Please read those additional privacy disclosures to understand how they apply to you. Our privacy policy is designed to provide transparency into our privacy practices and principles. You can learn about our WarnerMedia and AT&T affiliates by visiting here.**TABLE OF CONTENTS**
