@@ -523,11 +523,6 @@ Sign In Hi, {username}
 *   COMMUNITY
 *   Wix Blog
 *   Wix Arena
-*   Facebook
-*   Twitter
-*   Pinterest
-*   YouTube
-*   LinkedIn
 
 *   SUPPORT
 *   Support Center
