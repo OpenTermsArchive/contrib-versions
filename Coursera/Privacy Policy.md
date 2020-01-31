@@ -50,7 +50,7 @@ We consider that the legal bases for using your personal information as set out 
     *   carry out research and statistical analysis;
     *   carry out marketing and business development. and
     *   for internal administrative and auditing purposes.
-    *   consent, to send you certain communications or where you submit certain information to us.
+*   consent, to send you certain communications or where you submit certain information to us.
 
 Which legal basis applies to a specific processing activity will depend on the type of personal information processed and the context in which it is processed.
 
