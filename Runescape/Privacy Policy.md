@@ -8,7 +8,7 @@ Introduction
 
 Jagex respects your privacy and is committed to protecting your personal data. This privacy policy will inform you as to how we look after your personal data when you play our games, visit our website (regardless of where you visit it from) or otherwise access any of our products and services and tell you about your privacy rights and how the law protects you.
 
-The General Data Protection Regulation (EU) 2016/679 (“GDPR”) is a regulation in EU law on data protection and privacy for all individuals within the European Union (EU) and the European Economic Area (EEA). It also addresses the export of personal data outside the EU and EEA areas. The GDPR aims primarily to give control to citizens and residents over their personal data and to simplify the regulatory environment for international business by unifying the regulation within the EU.
+The General Data Protection Regulation (EU) 2016/679 (“GDPR”) is a regulation in EU law on data protection and privacy for all individuals within the European Union (EU) and the European Economic Area (EEA). It also addresses the transfer of personal data outside the EU and EEA areas. The GDPR aims primarily to give control to citizens and residents over their personal data and to simplify the regulatory environment for international business by unifying the regulation within the EU.
 
 1\. Important information and who we are PURPOSE OF THIS PRIVACY POLICY
 
@@ -34,7 +34,7 @@ Name of external DPO: Robert Healey
 
 Email address: DPO@jagex.com
 
-Postal address: Suite 511, The Greenhouse, The Custard Factory, Gibb Street, Birmingham, B9 4AA.
+Postal address: Relentless Privacy and Compliance Ltd Colmore House, Queensway, Birmingham, B4 6AT United Kingdom.
 
 You have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues (_www.ico.org.uk_). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance.
 
@@ -122,7 +122,7 @@ We use different methods to collect data from and about you including, but not l
 
 We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:
 
-*   Where we need to perform the contract we are about to enter into or have entered into with you.
+*   For the performance of the contract we are about to enter into or have entered into with you.
     
 *   Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
     
@@ -247,7 +247,7 @@ Please note that we may process your personal data without your knowledge or con
 
 5\. Disclosure of your personal data
 
-We may have to share your personal data with third parties set out below for the purposes set out in the table in paragraph 4 above.
+We may share your personal data with third parties set out below for the purposes set out in the table in paragraph 4 above.
 
 *   Specific marketing partners listed here.
 *   We may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy policy.
@@ -269,7 +269,7 @@ Whenever we transfer your personal data out of the EEA, we ensure a similar degr
 
 7\. Data security
 
-We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.
+We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered, disclosed or being unavailable. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.
 
 We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.
 
@@ -281,7 +281,7 @@ We will only retain your personal data for as long as necessary to fulfil the pu
 
 To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
 
-By law we have to keep basic information about our customers (including Contact, Identity, Financial and Transaction Data) for six years plus current year after they cease being customers for tax purposes.
+By law we have to keep basic information about our customers (including Contact, Identity, Financial and Transaction Data) for six tax years plus current tax year after they cease being customers for tax purposes.
 
 In some circumstances you can ask us to delete your data: see _Request erasure_ below for further information.
 
