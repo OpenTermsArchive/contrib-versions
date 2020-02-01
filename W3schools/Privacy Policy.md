@@ -124,7 +124,7 @@ Contacting the Web Site
 
 For any questions about this privacy statement, please contact:
 
-support@w3schools.com
+help@w3schools.com
 
   
 ❮ Previous Next ❯
