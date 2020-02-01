@@ -54,7 +54,7 @@ W3Schools may contain inaccuracies or errors. Refsnes Data makes no guarantees r
 
 Contact address:
 
-support@w3schools.com
+help@w3schools.com
 
 Linked Sites
 
