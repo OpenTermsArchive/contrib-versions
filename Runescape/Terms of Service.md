@@ -2,7 +2,7 @@ Terms and Conditions
 
 Version 0.4
 
-Date December 30th, 2019.
+Date: January 31, 2020.
 
 1\. Introduction
 
@@ -30,7 +30,7 @@ Please read these terms and conditions carefully. It is a condition of your use 
 
 We may change these terms and conditions to reflect: (a) changes in applicable laws. (b) regulatory or security requirements. (c) relevant guidance or codes of practice. (d) technical alterations to Jagex Products. and (e) to improve clarity and consistency.
 
-Please check the terms and conditions whenever you use a Jagex Product. If you are not a Subscriber, we will treat your continued use of a Jagex Product as acceptance of these changes from their effective date (as shown above). If you are a Subscriber, we will treat the first renewal date of your subscription after the changes as your acceptance of the changes. If you do not agree with the changes you should cancel your subscription (as explained below in section 14 of these terms and conditions) before the renewal date.
+Please check the terms and conditions whenever you use a Jagex Product. If you are not a Subscriber, we will treat your continued use of a Jagex Product as acceptance of these changes from their effective date (as shown above). If you are a Subscriber, we will treat the first renewal date of your subscription after the changes as your acceptance of the changes. If you do not agree with the changes you should cancel your subscription (as explained below in section 13 of these terms and conditions) before the renewal date.
 
 5\. Preteens and users under 18
 
