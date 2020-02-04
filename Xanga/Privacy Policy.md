@@ -10,13 +10,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   looking for my old site
     *   by camilliette
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   missing site please help
     *   by spidermagic
-    *   5 days ago
+    *   6 days ago
     *   in Personal URLs
     *   0 votes
     *   0
@@ -82,13 +82,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by perchedonstilts 4 months ago)
 *   Archive does not have all blogs
     *   by nevaeh84
-    *   4 months ago
+    *   5 months ago
     *   in Data Migration
     *   0 votes
     *   0
 *   how to get back my old posts?
     *   by MYFEEL\_LING
-    *   4 months ago
+    *   5 months ago
     *   in Data Migration
     *   0 votes
     *   0
