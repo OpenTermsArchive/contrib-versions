@@ -174,7 +174,7 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
                     
                 6.  Makers 
                     
-            2.  The following services are provided by Oath (Americas) Inc.:
+            2.  The following services are provided by Verizon Media Inc.:
                 
                 1.  AOL On.
                     
@@ -583,4 +583,4 @@ Europe, Middle East and Africa
     14.  Additional terms for German users can be found here.
         
 
-_Last updated: January 2020_
+_Last updated:_ 3 February _2020_
