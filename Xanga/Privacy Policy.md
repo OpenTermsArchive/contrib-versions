@@ -10,13 +10,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   looking for my old site
     *   by camilliette
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   missing site please help
     *   by spidermagic
-    *   6 days ago
+    *   1 week ago
     *   in Personal URLs
     *   0 votes
     *   0
