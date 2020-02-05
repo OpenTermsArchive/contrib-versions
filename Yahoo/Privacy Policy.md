@@ -131,4 +131,4 @@ Thailand (English)
 臺灣 (繁體中文)  
  
 
-©2019 Verizon Media. All Rights Reserved.
+©2020 Verizon Media. All Rights Reserved.
