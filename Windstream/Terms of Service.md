@@ -19,7 +19,7 @@
 *   Check My Email
 *   Sign Out
 
-Call now to order 1-866-445-8084
+Call now to order 1-844-924-0066
 
 _close_
 
@@ -42,7 +42,7 @@ _close_
 *   _search_
 *   Looking for Business Solution?
 
-Call now to order 1-866-445-8084
+Call now to order 1-844-924-0066
 
 _close_
 
@@ -52,7 +52,7 @@ _close_
 *   Voice
 *   View All Products
 
-Call now to order 1-866-445-8084
+Call now to order 1-844-924-0066
 
 _close_
 
@@ -65,7 +65,7 @@ _close_
 *   Check My Email
 *   Sign Out
 
-Call now to order 1-866-445-8084
+Call now to order 1-844-924-0066
 
 _close_
 
@@ -85,11 +85,12 @@ _close_
 *   Support
     *   Contact Us
 
-Call now to order 1-866-445-8084
+Call now to order 1-844-924-0066
 
 Back to About Page
 
 *   Windstream Information▼
+    
     *   Company History
     *   Tariffs
     *   Coverage Map
@@ -99,11 +100,17 @@ Back to About Page
         *   California Teleconnect Fund Program
     *   Store Finder
     *   FCC Rural Call Completion
+    
+    _keyboard\_arrow\_right_
 *   Suppliers▼
+    
     *   Supplier Information
     *   Supplier Diversity
     *   Supplier Code of Ethics
+    
+    _keyboard\_arrow\_right_
 *   Legal▼
+    
     *   Acceptable Use Policy
     *   Broadband Network Statement
     *   DPS complaints
@@ -112,16 +119,22 @@ Back to About Page
     *   Privacy Policy
     *   Procurement Terms and Conditions
     *   Terms and Conditions
+    
+    _keyboard\_arrow\_right_
 *   Additional Information▼
+    
     *   Investor Relations
     *   News Center
     *   Windstream Talent
     *   Windstream.net
+    
+    _keyboard\_arrow\_right_
 
 Back to About Page
 
 *   Jump To▼
     *   Windstream Information▼
+        
         *   Company History
         *   Tariffs
         *   Coverage Map
@@ -131,11 +144,17 @@ Back to About Page
             *   California Teleconnect Fund Program
         *   Store Finder
         *   FCC Rural Call Completion
+        
+        _keyboard\_arrow\_right_
     *   Suppliers▼
+        
         *   Supplier Information
         *   Supplier Diversity
         *   Supplier Code of Ethics
+        
+        _keyboard\_arrow\_right_
     *   Legal▲
+        
         *   Acceptable Use Policy
         *   Broadband Network Statement
         *   DPS complaints
@@ -144,11 +163,16 @@ Back to About Page
         *   Privacy Policy
         *   Procurement Terms and Conditions
         *   Terms and Conditions
+        
+        _keyboard\_arrow\_right_
     *   Additional Information▼
+        
         *   Investor Relations
         *   News Center
         *   Windstream Talent
         *   Windstream.net
+        
+        _keyboard\_arrow\_right_
 
 Terms and Conditions
 
@@ -651,7 +675,7 @@ EXPLORE
 *   Phone
 *   Available Services
 
-RESOURCES
+_keyboard\_arrow\_right_ RESOURCES
 
 *   Support
 *   Store Finder
@@ -660,7 +684,7 @@ RESOURCES
 *   Move My Service
 *   Referral Program
 
-COMPANY
+_keyboard\_arrow\_right_ COMPANY
 
 *   About Us
 *   Careers
@@ -671,20 +695,20 @@ COMPANY
 *   Suppliers
 *   Law Enforcement Support Center
 
-WINDSTREAM
+_keyboard\_arrow\_right_ WINDSTREAM
 
 *   Residential
 *   Business
 *   Enterprise
 
-CONTACT US
+_keyboard\_arrow\_right_ CONTACT US
 
-*   Call to order 1-866-445-8084
+*   Call to order 1-844-924-0066
 *   Contact Us
 
-CONTACT US
+_keyboard\_arrow\_right_ CONTACT US
 
-*   Call now to order 1-866-445-8084
+*   Call now to order 1-844-924-0066
 *   Contact Us
 
-© 2020 Windstream Communications. All rights reserved. Privacy Policy   |   Terms &. Conditions   |   Legal Notices <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1819151935020592&amp;ev=PageView&amp;noscript=1">. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
+© 2020 Windstream Communications. All rights reserved. Privacy Policy   |   Terms &. Conditions   |   Legal Notices <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1819151935020592&amp;ev=PageView&amp;noscript=1">.
