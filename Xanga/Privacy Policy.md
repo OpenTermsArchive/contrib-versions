@@ -13,7 +13,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by skiwithmenes 16 hours ago)
+    *   1 (last comment by skiwithmenes 1 day ago)
 *   looking for my old site
     *   by camilliette
     *   1 week ago
@@ -31,7 +31,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 years ago
     *   in Data Migration
     *   0 votes
-    *   48 (last comment by tinapoot 2 weeks ago)
+    *   48 (last comment by tinapoot 3 weeks ago)
 *   Please help to reactivate let me can see old posts
     *   by natalie6791
     *   10 months ago
