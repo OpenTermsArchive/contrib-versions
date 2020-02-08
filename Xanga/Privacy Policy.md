@@ -13,7 +13,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 week ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by skiwithmenes 1 day ago)
+    *   1 (last comment by skiwithmenes 2 days ago)
 *   looking for my old site
     *   by camilliette
     *   1 week ago
@@ -40,7 +40,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 (last comment by JacK\_Puk 3 weeks ago)
 *   i dont have data Archive in my page
     *   by JacK\_Puk
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
