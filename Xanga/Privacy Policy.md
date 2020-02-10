@@ -10,10 +10,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   You are holding my data ransom
     *   by justraveit
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by skiwithmenes 3 days ago)
+    *   1 (last comment by skiwithmenes 4 days ago)
 *   looking for my old site
     *   by camilliette
     *   1 week ago
@@ -37,7 +37,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   10 months ago
     *   in Themes
     *   0 votes
-    *   2 (last comment by JacK\_Puk 3 weeks ago)
+    *   2 (last comment by JacK\_Puk 4 weeks ago)
 *   i dont have data Archive in my page
     *   by JacK\_Puk
     *   1 month ago
