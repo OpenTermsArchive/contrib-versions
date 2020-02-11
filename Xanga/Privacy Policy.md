@@ -8,12 +8,18 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Can’t archive old blog
+    *   by janny\_wanny
+    *   7 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   You are holding my data ransom
     *   by justraveit
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by skiwithmenes 4 days ago)
+    *   1 (last comment by skiwithmenes 5 days ago)
 *   looking for my old site
     *   by camilliette
     *   1 week ago
@@ -70,7 +76,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Old xanga recovered
     *   by anarchy\_animeGirl
-    *   3 months ago
+    *   4 months ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -88,12 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   how to get back my old posts?
     *   by MYFEEL\_LING
-    *   5 months ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Cannot look back the previous blogs
-    *   by JeSS\_Manchai
     *   5 months ago
     *   in Data Migration
     *   0 votes
