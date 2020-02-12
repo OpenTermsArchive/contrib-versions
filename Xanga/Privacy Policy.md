@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Can’t archive old blog
     *   by janny\_wanny
-    *   7 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,16 +19,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by skiwithmenes 5 days ago)
+    *   1 (last comment by skiwithmenes 6 days ago)
 *   looking for my old site
     *   by camilliette
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   missing site please help
     *   by spidermagic
-    *   1 week ago
+    *   2 weeks ago
     *   in Personal URLs
     *   0 votes
     *   0
@@ -43,7 +43,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   10 months ago
     *   in Themes
     *   0 votes
-    *   2 (last comment by JacK\_Puk 4 weeks ago)
+    *   2 (last comment by JacK\_Puk 1 month ago)
 *   i dont have data Archive in my page
     *   by JacK\_Puk
     *   1 month ago
