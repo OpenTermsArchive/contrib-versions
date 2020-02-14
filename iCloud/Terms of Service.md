@@ -82,7 +82,7 @@ To meet the cancellation deadline, you must send your communication of cancellat
 
 Customers in the EU and Norway also have the right to inform us using the model cancellation form below:
 
-To:  Apple Distribution International, Hollyhill Industrial Estate, Hollyhill, Cork, Republic of Ireland:
+To:  Apple Distribution International Ltd., Hollyhill Industrial Estate, Hollyhill, Cork, Republic of Ireland:
 
 I hereby give notice that I withdraw from my contract for the following: 
 
@@ -270,7 +270,7 @@ This Agreement constitutes the entire agreement between you and Apple, governs y
 
 • Apple Pty Limited, located at Levels 2-B, 20 Martin Place, Sydney NSW 2000, Australia, for users in Australia, New Zealand, including island possessions, territories, and affiliated jurisdictions. and
 
-• Apple Distribution International, located at Hollyhill Industrial Estate, Hollyhill, Cork, Republic of Ireland, for all other users. 
+• Apple Distribution International Ltd., located at Hollyhill Industrial Estate, Hollyhill, Cork, Republic of Ireland, for all other users. 
 
 **ELECTRONIC CONTRACTING**
 
