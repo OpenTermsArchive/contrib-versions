@@ -61,6 +61,9 @@ LogMeIn also collects and stores meeting attendee information to fulfill our obl
 
 If you wish to cancel your account or for us to stop providing you Services, or if we hold personal information about you and you want it to be removed from our database or de-activated, please contact us here.
 
+**Grasshopper Users**  
+Notwithstanding anything else in this Privacy Policy, if you provide Grasshopper access to the following types of your Google data, Grasshopper’s use of that data will be subject to the following restrictions: (i) Grasshopper will only use that access to read, write, modify, delete, or control Gmail message bodies (including attachments), metadata, headers, and settings to provide web email client functionality that allows users to compose, send, read, and/or process emails and will not transfer this Gmail data to others unless doing so is necessary to provide and improve these features, comply with applicable law, or as part of a merger, acquisition, or sale of assets. (ii) Grasshopper will not use this Gmail data for serving advertisements. and (iii) Grasshopper will not allow humans to read this data (i.e., by utilization of robust access controls, procedures, etc., inclusive of the principle of least privilege) unless we have your affirmative agreement for specific messages, doing so is necessary for security purposes such as investigating abuse, in response to requested support/troubleshooting, to comply with applicable law, or for Grasshopper’s internal operations and even then only when the data have been aggregated and anonymized.
+
 **3\. Analytics, Cookies and Other Web Site Technologies**
 
 LogMeIn continuously improves its websites and Services through the use of various third-party web analytics tools, which help LogMeIn understand how its visitors use its websites, desktop tools, and mobile applications, what they like and dislike, and where they may have run into problems which need to be addressed.
