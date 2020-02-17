@@ -646,7 +646,7 @@ Sorry, we can't seem to find that address.
 
 Please enter your address below so we can show you all of the best deals in your area.
 
-State ALARAZFLGAIAKSKYMIMNMOMSNCNENMNYOHOKPASCTX Check Availability
+State Check Availability
 
 Need help?  
 Call 1-866-819-12391-866-819-1239 or Chat Now No Chat Available .
