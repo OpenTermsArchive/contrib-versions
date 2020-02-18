@@ -10,13 +10,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Can' t gain access to my old posts
     *   by knowthyselfofsocrates
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can’t archive old blog
     *   by janny\_wanny
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
