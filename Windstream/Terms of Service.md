@@ -50,6 +50,7 @@ _close_
 *   TV &. Entertainment
 *   Security
 *   Voice
+*   Kinetic WiFi Manager
 *   View All Products
 
 Call now to order 1-866-445-8084
@@ -81,6 +82,7 @@ _close_
     *   TV &. Entertainment
     *   Security
     *   Voice
+    *   Kinetic Wi-Fi Manager
 *   Community
 *   Support
     *   Contact Us
@@ -646,7 +648,7 @@ Sorry, we can't seem to find that address.
 
 Please enter your address below so we can show you all of the best deals in your area.
 
-State Check Availability
+State ALARAZFLGAIAKSKYMIMNMOMSNCNENMNYOHOKPASCTX Check Availability
 
 Need help?  
 Call 1-866-819-12391-866-819-1239 or Chat Now No Chat Available .
@@ -711,4 +713,4 @@ _keyboard\_arrow\_right_ CONTACT US
 *   Call now to order 1-866-445-8084
 *   Contact Us
 
-© 2020 Windstream Communications. All rights reserved. Privacy Policy   |   Terms &. Conditions   |   Legal Notices BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1819151935020592&amp;ev=PageView&amp;noscript=1">.
+© 2020 Windstream Communications. All rights reserved. Privacy Policy   |   Terms &. Conditions   |   Legal Notices <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1819151935020592&amp;ev=PageView&amp;noscript=1">. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
