@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Can' t gain access to my old posts
     *   by knowthyselfofsocrates
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -28,13 +28,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by skiwithmenes 1 week ago)
 *   looking for my old site
     *   by camilliette
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   missing site please help
     *   by spidermagic
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Personal URLs
     *   0 votes
     *   0
@@ -67,13 +67,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   6 years ago
     *   in Data Migration
     *   0 votes
-    *   9 (last comment by thaemokid 1 month ago)
+    *   9 (last comment by thaemokid 2 months ago)
 *   Please! I'd like to get my old blogs
     *   by mandynoelle
     *   2 months ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by seraphym\_shining 1 month ago)
+    *   1 (last comment by seraphym\_shining 2 months ago)
 *   Delete pictures
     *   by GrafSoul
     *   3 months ago
