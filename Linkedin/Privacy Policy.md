@@ -155,7 +155,7 @@ Our Services allow you to stay in touch and up to date with colleagues, partners
 
 We use data about you (such as your profile, profiles you have viewed or data provided through address book uploads or partner integrations) to help others find your profile, suggest connections for you and others (e.g. Members who share your contacts or job experiences) and enable you to invite others to become a Member and connect with you. You can also opt-in to allow us to use your precise location or proximity to others for certain tasks (e.g. to suggest other nearby Members for you to connect with, calculate the commute to a new job, or notify your connections that you are at a professional event).
 
-It is your choice whether to invite someone to our Services, send a connection request, or allow another Member to become your connection. When you invite someone to connect with you, your invitation will your network and basic profile information (e.g., name, profile photo, job title, region). We will send invitation reminders to the person you invited. You can choose whether or not to share your own list of connections with your connections.
+It is your choice whether to invite someone to our Services, send a connection request, or allow another Member to become your connection. When you invite someone to connect with you, your invitation will include your network and basic profile information (e.g., name, profile photo, job title, region). We will send invitation reminders to the person you invited. You can choose whether or not to share your own list of connections with your connections.
 
 Visitors have choices about how we use their data.
 
