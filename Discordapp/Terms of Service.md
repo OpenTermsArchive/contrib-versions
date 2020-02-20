@@ -318,4 +318,4 @@ Contact. If you have any questions about these Terms, please contact privacy@dis
 
 Discord is made possible through the work of other open source software.
 
-ProductDownloadBrandingNitroDevelopersSell Your GameRich PresenceVerificationApplicationsDocumentationResourcesHelp &. SupportGuidelinesFeedbackTermsPrivacyStatusCompanyAboutBlogJobsMorePartnersHypeSquadMerch StorePress InquiriesOpen SourceReady to try Discord? It's free!JOIN OVER 250 MILLION PLAYERS TODAYSign Up Now
+ProductDownloadBrandingNitroDevelopersSell Your GameRich PresenceVerificationApplicationsDocumentationResourcesHelp &. SupportGuidelinesFeedbackTermsPrivacyStatusCompanyAboutBlogJobsMorePartnersHypeSquadPress InquiriesOpen SourceReady to try Discord? It's free!JOIN OVER 250 MILLION PLAYERS TODAYSign Up Now
