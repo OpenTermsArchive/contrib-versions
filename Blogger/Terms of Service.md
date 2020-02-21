@@ -1,4 +1,4 @@
-Google Terms of Service
+Google Terms of ServiceAn updated version of our Terms of Service takes effect on March 31, 2020.
 
 Last modified: October 25, 2017 (view archived versions)
 
