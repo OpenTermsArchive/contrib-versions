@@ -4,7 +4,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Can' t gain access to my old posts
     *   by knowthyselfofsocrates
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -40,7 +40,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   48 (last comment by tinapoot 1 month ago)
 *   Please help to reactivate let me can see old posts
     *   by natalie6791
-    *   10 months ago
+    *   11 months ago
     *   in Themes
     *   0 votes
     *   2 (last comment by JacK\_Puk 1 month ago)
