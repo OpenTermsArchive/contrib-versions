@@ -454,4 +454,23 @@ Email: privacy@gm.com
 
 CALIFORNIA RESIDENTS: DO NOT SELL MY INFO  
 
+Definitions
+
+1.  Based on work location as of January 31, 2020. Includes regular, per diem, regular temp, temporary, apprentices, classified, executive, officer, hourly, active, work from home and on leave with pay. Headcount figures do not include GMF or Cruise Automation.
+2.  Number of GM U.S. facilities includes all GM, GM Financial, Components, Maven, and Cruise locations.
+3.  Total number of active GM dealers in the U.S. and by individual state. U.S. total does not include dealers in Guam (2), Puerto Rico (4) and Virgin Islands (1).
+4.  Approximate number includes both hourly and salaried retirees.
+5.  Direct investment amount announced in the U.S. since 2009.
+6.  State taxable wages, 2019 (Box 16 W-2).
+7.  State income tax, 2019 (Box 17 W-2).
+8.  Number of vehicles delivered in the U.S. and by state, in 2019.
+9.  Number of GM primary suppliers (direct and indirect) with a purchase order current within the last 365 days. 2020 spend is based on GM's global purchasing and supply chain invoice system.
+10.  Number of individuals impacted through GM's philanthropic investments, including Community Impact Grants.
+11.  Number of employees throughout GM facilities around the world.
+12.  2019 full-year earnings before tax (EBT).
+13.  Source: Center for Automotive Research, 2019.
+14.  No state personal income tax collected on wages. State Unemployment Income (SUI) used to provide approximate total wages paid in the state.
+15.  2019 taxable wages (Box 16 W-2) paid in the U.S. State Unemployment Income (SUI) used to provide approximate wages for AK, FL, NV, NH, SD, TN, TX, WA and WY where state personal income taxes are not collected on wages.
+16.  Total of all state income taxes withheld in 2019 (Box 17 W-2). AK, FL, NV, NH, SD, TN, TX, WA and WY excluded as no state personal income taxes collected on wages.
+
 Share On
