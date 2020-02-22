@@ -2,6 +2,12 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Cannot access my old posts
+    *   by small\_lady19
+    *   13 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Can' t gain access to my old posts
     *   by knowthyselfofsocrates
     *   1 week ago
@@ -86,12 +92,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   1 (last comment by perchedonstilts 4 months ago)
-*   Archive does not have all blogs
-    *   by nevaeh84
-    *   5 months ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
 1 2 3 ... 195 Next
 
