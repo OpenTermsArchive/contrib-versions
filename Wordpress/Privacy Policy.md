@@ -28,6 +28,7 @@ Privacy Policy Sections
 *   Third-Party Software and Services
 *   Visitors to Our Users’ Websites
 *   Privacy Policy Changes
+*   Other Information and Resources
 *   Translation
 *   Change log
 
@@ -76,7 +77,7 @@ It’s probably no surprise that we collect information that you provide to us d
 
 *   **Basic account information:** We ask for basic information from you in order to set up your account. For example, we require individuals who sign up for a WordPress.com account to provide an email address and password, along with a username or name — and that’s it. You may provide us with more information — like your address and other information you want to share — but we don’t require that information to create a WordPress.com account.
 *   **Public profile information:** If you have an account with us, we collect the information that you provide for your public profile. For example, if you have a WordPress.com account, your username is part of that public profile, along with any other information you put into your public profile, like a photo or an “About Me” description. Your public profile information is just that — public — so please keep that in mind when deciding what information you would like to include.
-*   **Payment and contact information:** If you buy something from us or earn revenue through your site, we’ll collect information to process those payments and contact you. If you buy something from us — a subscription to a WordPress.com plan, a premium theme, a custom domain, some Longreads swag — or if you pay fees to a person or business through their WordPress.com site (for example via Recurring Payments or Simple Payments), you’ll provide additional personal and payment information like your name, credit card information, and contact information. We also keep a record of the purchases you’ve made. If you use our eCommerce Services (including Stores on WordPress.com and the WooCommerce Services extension), you’ll have to create a WordPress.com account or connect an existing account and, for some Services, provide your site URL. You may also provide us with financial details to set up a payments integration, like the email address for your Stripe or PayPal account or your bank account information. If you participate in a revenue sharing opportunity for your site, like WordAds, you’ll provide some additional information — for example, a tax ID or other identifier so we can process payments to you.
+*   **Payment and contact information:** If you buy something from us or earn revenue through your site, we’ll collect information to process those payments and contact you. If you buy something from us — a subscription to a WordPress.com plan, a premium theme, a custom domain, some Longreads swag — or if you pay fees to a person or business through their WordPress.com site (for example via Recurring Payments or Simple Payments), you’ll provide additional personal and payment information like your name, credit card information, and contact information. We also keep a record of the purchases you’ve made. If you use our Ecommerce Services (including Store on WordPress.com, the WooCommerce Services extension, and WooCommerce Payments), you’ll have to create a WordPress.com account or connect an existing account and, for some Services, provide your site URL. You may also provide us with financial details to set up a payments integration, like the email address for your Stripe or PayPal account or your bank account information. If you participate in a revenue sharing opportunity for your site, like WordAds, you’ll provide some additional information — for example, a tax ID or other identifier so we can process payments to you.
 *   **Happy Tools information:** If you are a Happy Tools user, you will provide us with information to set up your Happy Tools account and make use of the Service’s features. For example, you might enter timezone and location information, company and team information, and contact information.
 *   **Content information:** You might provide us with information about you in draft and published content (a blog post or comment that includes biographic information about you, or any media or files you upload).
 *   **Credentials:** Depending on the Services you use, you may provide us with credentials for your self-hosted website (like SSH, FTP, and SFTP username and password). Jetpack and VaultPress users may provide us with these credentials in order to use our one-click restore feature if there is a problem with their site, or to allow us to troubleshoot problems more quickly.
@@ -96,7 +97,7 @@ We also collect some information automatically:
 
 _Information We Collect from Other Sources_
 
-We may also get information about you from other sources. For example, if you create or log in to your WordPress.com account through another service (like Google) or if you connect your website or account to a social media service (like Twitter) through our Publicize feature, we’ll receive information from that service (e.g., your username, basic profile information, friends list) via the authorization procedures for that service. The information we receive depends on which services you authorize and what options are available.
+We may also get information about you from other sources. For example, if you create or log in to your WordPress.com account through another service (like Google) or if you connect your website or account to a social media service (like Twitter) through our Publicize feature, we’ll receive information from that service (e.g., your username, basic profile information, friends list) via the authorization procedures for that service. As another example, if you use WooCommerce Payments, we’ll receive information relating to your Stripe account, such as your email address and phone number. The information we receive depends on which services you use or authorize and what options are available.
 
 Third-party services may also give us information, like mailing addresses for individuals who are not yet our users (but we hope will be!). We use this information for marketing purposes like postcards and other mailers advertising our Services.
 
@@ -133,7 +134,7 @@ Sharing Information _How We Share Information_
 We share information about you in limited circumstances, and with appropriate safeguards on your privacy. These are spelled out below, as well as in the section called Ads and Analytics Services Provided by Others:
 
 *   **Subsidiaries and independent contractors:** We may disclose information about you to our subsidiaries and independent contractors who need the information to help us provide our Services or process the information on our behalf. We require our subsidiaries and independent contractors to follow this Privacy Policy for any personal information that we share with them.
-*   **Third-party vendors:** We may share information about you with third-party vendors who need the information in order to provide their services to us, or to provide their services to you or your site. This includes vendors that help us provide our Services to you (like payment providers that process your credit and debit card information, payment providers you use for your own eCommerce operations, fraud prevention services that allow us to analyze fraudulent payment transactions, cloud storage services, postal and email delivery services that help us stay in touch with you, customer chat and email support services that help us communicate with you, registrars, registries, data escrow services that allow us to provide domain registration services, and your hosting provider if your site is not hosted by Automattic). those that assist us with our marketing efforts (e.g., by providing tools for identifying a specific marketing target group or improving our marketing campaigns, and by placing ads to market our services). those that help us understand and enhance our Services (like analytics providers). those that make tools to help us run our operations (like programs that help us with task management, scheduling, word processing, email and other communications, and collaboration among our teams). other third-party tools that help us manage operations. and companies that make products available on our websites (like the extensions on WooCommerce.com), who may need information about you in order to, for example, provide technical or other support services to you. We require vendors to agree to privacy commitments in order to share information with them. Other vendors are listed in our more specific policies (e.g., our Cookie Policy).
+*   **Third-party vendors:** We may share information about you with third-party vendors who need the information in order to provide their services to us, or to provide their services to you or your site. This includes vendors that help us provide our Services to you (like Stripe, which powers WooCommerce Payments, payment providers that process your credit and debit card information, payment providers you use for your own ecommerce operations, fraud prevention services that allow us to analyze fraudulent payment transactions, cloud storage services, postal and email delivery services that help us stay in touch with you, customer chat and email support services that help us communicate with you, registrars, registries, data escrow services that allow us to provide domain registration services, and your hosting provider if your site is not hosted by Automattic). those that assist us with our marketing efforts (e.g., by providing tools for identifying a specific marketing target group or improving our marketing campaigns, and by placing ads to market our services). those that help us understand and enhance our Services (like analytics providers). those that make tools to help us run our operations (like programs that help us with task management, scheduling, word processing, email and other communications, and collaboration among our teams). other third-party tools that help us manage operations. and companies that make products available on our websites (like the extensions on WooCommerce.com), who may need information about you in order to, for example, provide technical or other support services to you. We require vendors to agree to privacy commitments in order to share information with them. Other vendors are listed in our more specific policies (e.g., our Cookie Policy).
 *   **Legal and regulatory requirements:** We may disclose information about you in response to a subpoena, court order, or other governmental request. For more information on how we respond to requests for information about WordPress.com users, please see our Legal Guidelines. Additionally, if you have a domain registered with WordPress.com, we may share your information to comply with the Internet Corporation for Assigned Names and Numbers’ (ICANN) regulations, rules, or policies. For example, your information relating to your domain registration may be available in the WHOIS database, or we may be required to share your information with ICANN-approved Dispute Resolution Service Providers. Please see our Domain Registrations and Privacy support document for more details.
 *   **To protect rights, property, and others:** We may disclose information about you when we believe in good faith that disclosure is reasonably necessary to protect the property or rights of Automattic, third parties, or the public at large. For example, if we have a good faith belief that there is an imminent danger of death or serious physical injury, we may disclose information related to the emergency without delay.
 *   **Business transfers:** In connection with any merger, sale of company assets, or acquisition of all or a portion of our business by another company, or in the unlikely event that Automattic goes out of business or enters bankruptcy, user information would likely be one of the assets that is transferred or acquired by a third party. If any of these events were to happen, this Privacy Policy would continue to apply to your information and the party receiving your information may continue to use your information, but only consistent with this Privacy Policy.
@@ -254,18 +255,11 @@ If you reside outside of the Designated Countries (for services other than those
 San Francisco, CA 94110 If you reside in the Designated Countries (for services other than those offered at WooCommerce.com): **Aut O’Mattic A8C Ireland Ltd.**  
 Business Centre, No.1 Lower Mayor Street  
 International Financial Services Centre  
-Dublin 1, Ireland
-
-**Automattic Inc.** is also the controller for some of the processing activities related to Services provided by Aut O’Mattic A8C Ireland Ltd.
-
-If you are using our Services offered at WooCommerce.com: **Bubblestorm Management (Pty) Ltd (WooCommerce.com)**  
+Dublin 1, Ireland**Automattic Inc.** is also the controller for some of the processing activities related to Services provided by Aut O’Mattic A8C Ireland Ltd. If you are using our Services offered at WooCommerce.com: **Bubblestorm Management (Pty) Ltd (WooCommerce.com)**  
 Unit A206, The Old Biscuit Mill (TOBM)  
 373 – 375 Albert Road, Woodstock  
-Cape Town, South Africa
-
-**Automattic Inc.** is also the controller for some of the processing activities related to Services provided by Bubblestorm Management (Pty) Ltd (WooCommerce.com).
-
-How to Reach Us
+Cape Town, South Africa  
+**Automattic Inc.** is also the controller for some of the processing activities related to Services provided by Bubblestorm Management (Pty) Ltd (WooCommerce.com). How to Reach Us
 
 If you have a question about this Privacy Policy, or you would like to contact us about any of the rights mentioned in the Your Rights section above, please contact us through our web form or via email. These are the fastest ways to get a response to your inquiry, but you can also contact us by telephone at 1-877-273-3049.
 
@@ -284,7 +278,7 @@ Ads appearing on any of our Services may be delivered by advertising networks. O
 
 _Third-Party Software and Services_
 
-If you’d like to use third-party plugins, embeds, WooCommerce extensions that enable services provided by third parties, or other third-party software or services, please keep in mind that interacting with them may mean providing information about yourself (or your site visitors) to those third parties. For example, some third-party services may request or require access to your (yours, your visitors’, or customers’) data via a pixel or cookie. Please note that if you use the third-party service or grant access, your data will be handled in accordance with the third party’s privacy policy and practices. We don’t own or control these third parties, and they have their own rules about information collection, use, and sharing, which you should review before using the software or services.
+If you’d like to use third-party plugins or embeds, WooCommerce Payments (powered by Stripe), WooCommerce extensions that enable services provided by third parties, or other third-party software or services, please keep in mind that interacting with them may mean providing information about yourself (or your site visitors) to those third parties. For example, some third-party services may request or require access to your (yours, your visitors’, or customers’) data via a pixel or cookie. Please note that if you use the third-party service or grant access, your data will be handled in accordance with the third party’s privacy policy and practices. We don’t own or control these third parties, and they have their own rules about information collection, use, and sharing, which you should review before using the software or services.
 
 _Visitors to Our Users’ Websites_
 
@@ -295,6 +289,12 @@ Users control the content posted on their sites, so any disputes regarding conte
 Privacy Policy Changes
 
 Although most changes are likely to be minor, Automattic may change its Privacy Policy from time to time. Automattic encourages visitors to frequently check this page for any changes to its Privacy Policy. If we make changes, we will notify you by revising the change log below, and, in some cases, we may provide additional notice (like adding a statement to our homepage or the WordPress.com Blog, or sending you a notification through email or your dashboard). Your further use of the Services after a change to our Privacy Policy will be subject to the updated policy
+
+Other Information and Resources
+
+Jetpack Privacy Center
+
+WooCommerce and the GDPR
 
 Translation
 
@@ -310,6 +310,7 @@ That’s it! Thanks for reading.
 
 Change log
 
+*   February 21, 2020: Updated for WooCommerce Payments and added a new section: “Other Information and Resources.”
 *   _December 31, 2019_: Updated for California Consumer Privacy Act and miscellaneous clarification throughout.
 *   _October 2, 2019:_ A few miscellaneous changes, such as new sections about translations of this Privacy Policy and how to opt out of our internal analytics program.
 *   _May 31, 2019:_ Included information for the Recurring Payments feature.
