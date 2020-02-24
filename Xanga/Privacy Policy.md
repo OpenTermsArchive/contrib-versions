@@ -8,9 +8,15 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   How to completely shut down old Xanga Account?
+    *   by Louic
+    *   3 hours ago
+    *   in Privacy
+    *   0 votes
+    *   0
 *   Cannot access my old posts
     *   by small\_lady19
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -28,7 +34,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   You are holding my data ransom
     *   by justraveit
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by skiwithmenes 2 weeks ago)
@@ -92,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   Retrieve arhieves
-    *   by jayu1121
-    *   4 months ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by perchedonstilts 4 months ago)
 
 1 2 3 ... 195 Next
 
