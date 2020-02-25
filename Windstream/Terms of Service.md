@@ -34,7 +34,7 @@ _close_
 *   Support
 *   Contact Us
 *   Sign-In _keyboard\_arrow\_right_
-*   Goto Myaccount _keyboard\_arrow\_right_
+*   Go To My Account _keyboard\_arrow\_right_
 *   Denver, CO
     
     Update Address
