@@ -1,8 +1,10 @@
 Disqus Privacy Policy
 
-**Updated December 20, 2019**
+Updated February 25, 2020
 
-This Privacy Policy tells you about how Disqus collects, uses, sells, discloses and protects data relating to you in connection with our Service (as defined below), as well as your choices regarding our collection and use of this data. 
+This Privacy Policy tells you about how Disqus collects, uses, sells, discloses  
+and protects data relating to you in connection with our Service (as defined  
+below), as well as your choices regarding our collection and use of this data.
 
 **1.INTRODUCTION**  
 a. Overview. Disqus offers an online public comment sharing platform where users login and create profiles to participate in conversations with peers and enjoy an interactive experience. Use of our platform and software (collectively the “Service”)  is subject to the terms of this Privacy Policy. You further understand that the Service is a public platform and that we or others may search for, see, use, or re-post any of your User Content (as defined in our Terms of Use) that you post through the Service.
@@ -16,18 +18,17 @@ a. Personal data, or personal information, means any information about an indivi
 
 b. We may collect, use, store and transfer different kinds of personal data about you which we have categorized as follows:
 
-*   i. **Identity Data** includes first name, last name, username or similar identifier, and date of birth.
-*   ii. **Contact Data** includes email address, telephone number, and mailing address.
-*   iii. **Technical Data** includes internet protocol (IP) address, unique Cookie ID, Device ID, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access the Service.
-*   iv. **Profile Data** includes your username and password, your interests, preferences, feedback and survey responses, marital status, gender, title.
-*   v. **Usage Data** includes information about how you use the Service, and the content of comments that you post.
-*   vi. **Aggregated Data** includes statistical or demographic data for any purpose. 
-*   vii. **Special Data** We do not intentionally collect any personal data about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data, or information about criminal convictions and offences. However, if you make comments using the Service that include such data about yourself it will be publicly available and may be processed by Disqus or others.In this case you are consenting to such processing by voluntarily providing the data on a public platform.
+*   i. **Identity Data** includes first name, last name, username or similar identifier, date of birth, email address, telephone number, and mailing address.
+*   ii. **Technical Data** includes internet protocol (IP) address, unique Cookie ID, Device ID, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access the Service.
+*   iii. **Profile Data** includes your username and password, your interests, preferences, feedback and survey responses, marital status, gender, title.
+*   iv. **Usage Data** includes information about how you use the Service, and the content of comments that you post.
+*   v. **Aggregated Data** includes statistical or demographic data for any purpose. 
+*   vi. **Special Data** We do not intentionally collect any personal data about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data, or information about criminal convictions and offences. However, if you make comments using the Service that include such data about yourself it will be publicly available and may be processed by Disqus or others.
 
 **3\. HOW IS YOUR PERSONAL DATA COLLECTED?**  
 We use different methods to collect data from and about you including through:
 
-**Direct interactions.** This includes personal data you provide when you, create an account, leave a comment, enter a competition, promotion or survey, or give us some feedback.
+**Direct interactions.** This includes personal data you provide when you create an account or leave a comment.
 
 **Automated technologies or interactions.** As you interact with our Service, we may automatically collect Technical Data about your equipment, browsing actions and patterns. 
 
@@ -40,7 +41,14 @@ We use different methods to collect data from and about you including through:
 **Third parties or publicly available sources.** We may obtain or receive personal data about you from the following parties**,** analytics providers such as Google based outside the EU**,** advertising partners listed here, and Identity and Contact Data from third party connections or log-ins for example Facebook Connect, Google or Twitter by “following”, “liking” or linking your account to the Service. 
 
 **4\. TARGETED ADVERTISING and AD PARTNERS.**  
-Advertising is the predominant way Disqus makes money. Advertising revenue allows Disqus to support and improve the Service. Disqus uses, and also engages third party ad partners and affiliates who use cookie IDs, device IDs (including mobile), hashed email addresses, IP address, ISP and browser information, demographic or interest data, content viewed and actions taken on the Service or Partner Sites,including information about the websites you’ve viewed and advertisements you’ve interacted within order to provide you with more relevant advertising targeted to your preferences and interests derived from your interaction with the Service, Partner Sites or other third party websites. For a list of third party ad partners that Disqus is currently working with click here. Disqus may also send you email newsletters and email marketing messages if you have provided us with permission, or consented to receive such emails, as required in the jurisdiction in which you reside. Email marketing messages may be tailored to your interests based on the information described above in this section, for information about how to opt-out and utilize our “Do Not Sell” option please click here. 
+Advertising is the predominant way Disqus makes money. Advertising revenue allows Disqus to support and improve the Service. Disqus uses, and also engages third party ad partners and affiliates who use cookie IDs, device IDs (including mobile), hashed email addresses, IP address, ISP and browser information, demographic or interest data, content viewed and actions taken on the Service or Partner Sites, including information about the websites you’ve viewed and advertisements you’ve interacted within order to provide you with more relevant advertising targeted to your preferences and interests derived from your interaction with the Service, Partner Sites or other third party websites. For a list of third party ad partners that Disqus is currently working with click here. Disqus may also send you email newsletters and email marketing messages if you have provided us with permission, or consented to receive such emails, as required in the jurisdiction in which you reside. Email marketing messages may be tailored to your interests based on the information described above in this section, for information about how to opt-out and utilize our “Do Not Sell” option please click here. 
+
+We partner with third parties that collect information across various channels,  
+including offline and online, for purposes of delivering more relevant advertising  
+to you or your business.  Our partners use this information to recognize you  
+across different channels and platforms, including but not limited to, computers,  
+mobile devices, over time for advertising (including addressable TV), analytics,  
+attribution, and reporting purposes.
 
 **5\. HOW WE USE YOUR PERSONAL DATA  
 **a. We will use your personal data in the following circumstances. where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests, where we need to comply with a legal or regulatory obligation, where you have provided your consent to such use.
@@ -64,7 +72,8 @@ In addition to the above, we may access, preserve, and disclose your personal da
 
 We require all third parties to respect the security of your personal data and to treat it in accordance with the law. 
 
-**7\. YOUR CHOICES REGARDING COLLECTION OF YOUR INFORMATION.** a. Your Account. All registered users may review, update or correct the Identity, Contact and Profile data by changing their “user preferences” in their account. To delete your account entirely, please follow these steps. 
+**7\. YOUR CHOICES REGARDING COLLECTION OF YOUR INFORMATION.**  
+a. Your Account. All registered users may review, update or correct the Identity, Contact and Profile data by changing their “user preferences” in their account. To delete your account entirely, please follow these steps. 
 
 b. Opting Out of Targeted Advertising. We strive to make the Disqus experience as personalized and relevant as possible for all users. In doing so, we may deliver you targeted ads based on Technical, Profile and Usage data collected on the Service and Partner Sites (as described above).
 
@@ -77,12 +86,12 @@ d. Declining Cookies. If you do not want to accept our cookies, you can adjust y
 e. Do Not Sell My Info.If you do not want us to share your data with our affiliated companies for their own use, please click here.
 
 **8\. DATA RETENTION.**  
-a. We will only retain your Personal Data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
+a. We will only retain your Personal Data for as long as necessary to fulfill the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
 
-b. To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
+b. To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorized use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
 
 **9\. SECURITY.**  
-a. Disqus uses commercially reasonable safeguards to preserve the integrity and security of all information collected through the Service. To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from Disqus Disqus is not responsible for the functionality or security measures of any third party.
+a. Disqus uses commercially reasonable safeguards to preserve the integrity and security of all information collected through the Service. To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from Disqus. Disqus is not responsible for the functionality or security measures of any third party.
 
 **10\. Your Rights.**  
 Under certain circumstances and depending on where you are based, you have rights under privacy laws such as the CCPA (California), GDPR (Europe), PIPEDA (Canada), or others in relation to your Personal Data. This section describes these rights and explains how to exercise them. Note that Disqus allows any person to exercise the rights listed below and Disqus will not take any action against you for exercising your privacy rights.
@@ -122,4 +131,4 @@ a. Contact. If you have any questions about this Privacy Policy, please email us
 
 b. Changes to Privacy Policy. Disqus may, in its sole discretion, modify or update this Privacy Policy from time to time, and so you should review this page periodically. When we change the policy, we will update the ‘last modified’ date at the bottom of this page. Your continued use of the Site following the posting of any changes to this policy means you accept such changes.
 
-This Privacy Policy was last modified on  December 20 2019. Click here to view the Terms of Service.
+This Privacy Policy was last modified on  February 25 2020. Click here to view the Terms of Service.
