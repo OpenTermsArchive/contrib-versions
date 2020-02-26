@@ -8,15 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   how can i access my old blogs
+    *   \[Resolved\] by e\_e
+    *   6 years ago
+    *   in Data Migration
+    *   0 votes
+    *   10 (last comment by Goldilox 31 minutes ago)
 *   How to completely shut down old Xanga Account?
     *   by Louic
-    *   1 day ago
+    *   2 days ago
     *   in Privacy
     *   0 votes
     *   0
 *   Cannot access my old posts
     *   by small\_lady19
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -34,19 +40,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   You are holding my data ransom
     *   by justraveit
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by skiwithmenes 2 weeks ago)
 *   looking for my old site
     *   by camilliette
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   missing site please help
     *   by spidermagic
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Personal URLs
     *   0 votes
     *   0
@@ -74,12 +80,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   how can i access my old blogs
-    *   \[Resolved\] by e\_e
-    *   6 years ago
-    *   in Data Migration
-    *   0 votes
-    *   9 (last comment by thaemokid 2 months ago)
 *   Please! I'd like to get my old blogs
     *   by mandynoelle
     *   2 months ago
