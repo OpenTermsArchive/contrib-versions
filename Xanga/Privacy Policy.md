@@ -13,22 +13,22 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   6 years ago
     *   in Data Migration
     *   0 votes
-    *   10 (last comment by Goldilox 1 day ago)
+    *   10 (last comment by Goldilox 2 days ago)
 *   How to completely shut down old Xanga Account?
     *   by Louic
-    *   3 days ago
+    *   4 days ago
     *   in Privacy
     *   0 votes
     *   0
 *   Cannot access my old posts
     *   by small\_lady19
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can' t gain access to my old posts
     *   by knowthyselfofsocrates
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -46,13 +46,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 (last comment by skiwithmenes 3 weeks ago)
 *   looking for my old site
     *   by camilliette
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
 *   missing site please help
     *   by spidermagic
-    *   4 weeks ago
+    *   1 month ago
     *   in Personal URLs
     *   0 votes
     *   0
