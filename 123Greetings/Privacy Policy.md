@@ -18,23 +18,23 @@
 *   Events &. Holidays
 *   MorePetsWorld LanguagesFlowersAt WorkWeddingKeep in TouchInvitations
 
-*   Polar Bear Day
 *   Leap Day
 *   Share a Smile Day
 *   I Want You to be Happy Day
-*   Lent
+*   St. David's Day
 *   More...
     *   Chocolate Cheesecake Day (Mar 6, 2020)
-    *   St. David's Day (Mar 1, 2020)
-    *   February Flowers (February 2020)
-    *   Chocolate Lover's Month (February 2020)
-    *   Intl. Friendship Month (February 2020)
-    *   Month of Love &. Romance (February 2020)
+    *   Daylight Saving Time Begins (Mar 8, 2020)
+    *   International Women's Day (Mar 8, 2020)
     *   Pig Day (Mar 1, 2020)
     *   Optimism Month (March 2020)
     *   American Red Cross Month (March 2020)
     *   National Anthem Day (Mar 3, 2020)
     *   Say Hi to Mom Day (Mar 5, 2020)
+    *   Dentists' Day (Mar 6, 2020)
+    *   Employee Appreciation Day (Mar 6, 2020)
+    *   World Day of Prayer (Mar 6, 2020)
+    *   Bubble Week (Mar 8 - 14, 2020)
     *   See All Events
 *   Go
 
