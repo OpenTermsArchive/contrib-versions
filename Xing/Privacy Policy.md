@@ -1,20 +1,19 @@
 General information
 
-*   Last updated: 4 November 2019
-*   This Privacy Policy shall apply to the entire service XING and its applications (kununu etc.).
+*   Last updated: 28 February 2020
+*   Here we inform you about data processing in connection with the entire service XING and its applications (kununu etc.).
 *   New Work SE is the body responsible for the processing of personal data.
 *   Our Data Protection Officer is Anja Engler.
 
-Scope of this Privacy Policy
+XING is a comprehensive service with various applications
 
-XING is a service intended through a variety of different applications to improve and simplify users' professional lives. The combination of these applications gives users the best possible user experience and the widest range of functionality. With the boundaries between our professional and private lives becoming ever more intertwined, and correlations occurring between the two, XING is focused not only on a professional context but also includes applications in a private context. XING is particularly interested in opening up new capabilities for users (primarily in a professional context, but also in their private lives), making it easier for them to form horizontal networks, democratising information, fostering the exchange of information, and supporting lifelong learning. In order to fulfil these aims, XING makes offers, recommendations and services available to its users, often on the basis of data it has collected, and encourages interaction – both within and beyond a user’s network. The applications that make up the service XING include, in particular, the social network where users can acquire a membership, an "events platform" and an "employer rating platform". Some of the XING applications may appear online under another brand name or in the form of other XING Websites (e.g. kununu).  
+XING is a service intended through a variety of different applications to improve and simplify users' professional lives. The combination of these applications gives users the best possible user experience and the widest range of functionality. With the boundaries between our professional and private lives becoming ever more intertwined, and correlations occurring between the two, XING is focused not only on a professional context but also includes applications in a private context. XING is particularly interested in opening up new capabilities for users (primarily in a professional context, but also in their private lives), making it easier for them to form horizontal networks, democratising information, fostering the exchange of information, and supporting lifelong learning. In order to fulfil these aims, XING makes offers, recommendations and services available to its users, often on the basis of data it has collected, and encourages interaction – both within and beyond a user’s network. The applications that make up the service XING include, in particular, the social network where users can acquire a membership, an events platform, an employer rating platform and a platform to foster employee engagement. Some of the XING applications may appear online under another brand name or in the form of other XING Websites (e.g. kununu, kununu engage, HalloFreelancer).  
   
-This Privacy Policy shall apply to the entire service XING (including all applications). Additional Privacy Policies apply to the following applications, which you can access on the respective websites of the applications:
+We provide this Privacy Policy to inform you about data processing in connection with the entire service XING (including all applications). We also provide additional information about data processing for the following applications, which you can access on the respective websites of the applications:
 
 *   XING TalentManager
 *   XING TalentpoolManager
 *   XING AdCreator
-*   kununu engage
 *   FreelancerManager
 
 Responsible body
@@ -37,7 +36,7 @@ How is your personal data processed? 1. General statement about the purposes of 
 
 The main reason we process personal data is to fulfil our contractual obligations towards our users. The processing of data is required, for example, for us to be able to suggest suitable contacts, services and information to you.
 
-Operating a service like XING is subject to dynamic change by its very nature. It is not therefore possible to share every single detail about our data processing with you, but we do intend to inform you of all the key information. We process data first and foremost in order to fulfill our contractual obligations towards our users. In addition to this, we process your data to preserve our justifiable interests while taking your interests into account (e.g. when we send you promotional newsletters). And, of course, in some cases we are legally obliged to process data (e.g. to pass the data on to any investigative authorities). In all other cases we will ask for your separate consent to process your data (e.g. when you enter a prize draw). When it comes to fulfilling our contractual obligations towards our users, we try to tailor our products and services to the needs of users at all times. Personalisation is important here. Interest and usage profiles are created. In order to be able to show you recommendations, e.g. for jobs, events, groups or contacts, and to suggest you as a valuable business contact or potential employee, we must have an idea of what your interests might be. In order to ascertain these interests we use information that you provide to us, in addition to implicit feedback, i.e. information that we automatically obtain through your usage of our service (by means of so-called "tracking"), as well as information that we may possibly receive indirectly (e.g. through a user's address book upload).
+Operating a service like XING is subject to dynamic change by its very nature. It is not therefore possible to share every single detail about our data processing with you, but we do intend to inform you of all the key information. We process data first and foremost in order to fulfill our contractual obligations towards our users. In addition to this, we process your data to preserve our justifiable interests while taking your interests into account (e.g. when we send you promotional newsletters). And, of course, in some cases we are legally obliged to process data (e.g. to pass the data on to any investigative authorities). In all other cases we will ask for your separate consent to process your data (e.g. when you enter a prize draw). When it comes to fulfilling our contractual obligations towards our users, we try to tailor our products and services to the needs of users at all times. Personalisation is important here. Interest and usage profiles are created. In order to be able to show you recommendations, e.g. for jobs, events, groups or contacts, and to suggest you as a valuable business contact or potential employee, we must have an idea of what your interests might be. In order to ascertain these interests we use information that you provide to us, in addition to implicit feedback, i.e. information that we automatically obtain through your usage of our service (by means of so-called "tracking"), as well as information that we may possibly receive indirectly (e.g. through a user's address book or upload).
 
 2\. Information you provide to us
 
@@ -89,7 +88,7 @@ e.g.
 
 Visibility
 
-social network
+The following mandatory information is always visible without limitation to other users in the social network:
 
 *   First name, last name
 *   Job title and company name
@@ -110,9 +109,7 @@ As well as the mandatory information we require, you can also enter additional i
 
 Category
 
-e.g.
-
-*   Business e-mail address and phone number
+*   e.g. Business e-mail address and phone number
 *   Private interests
 *   Private contact
 *   Educational background
@@ -121,7 +118,7 @@ e.g.
 
 Visibility
 
-social network
+Your optional information is visible to all users in the social network after you enter it. In some cases, you can choose whether optional information should only be visible to certain users in the social network.
 
 If you activate the "around you" feature with Bluetooth also activated, other XING users with this feature activated will be sought within a radius of 10 to 20 metres (depending on your device). This feature can act as a substitute for exchanging conventional business cards. To provide this feature, your profile details, including your name, company name, your job title and your photo are displayed to other users. We do not use Bluetooth permanently in the background and do not track your location.
 
@@ -144,10 +141,13 @@ In order to provide our services we require certain information from you. On our
 
 Category
 
-e.g.
-
-*   First name, last name
+*   e.g. First name, last name
 *   E-mail address
+*   Company name
+
+Visibility
+
+Whether and to what extent your mandatory information is visible to other users depends on whether and to what extent the respective application is geared towards anonymity. Please refer to the respective application for more information.
 
 Period saved for
 
@@ -166,6 +166,11 @@ Category
 e.g.
 
 *   Employer reviews
+*   Photo
+
+Visibility
+
+Your optional information is visible to all users in the social network after you enter it. In some cases, you can choose whether optional information should only be visible to certain users in the social network.
 
 Period saved for
 
@@ -225,7 +230,7 @@ The default settings for messages is that all other users in the social network 
 
 Period saved for
 
-We save this data until your user account is deleted. The recipients of your messages will not however have these conversations erased when you delete your user account.
+We save this data until your user account is deleted. The recipients of your messages will not however have these conversations erased when you delete your user account. This data is only deleted in full once it has been deleted by both the sender and recipients.
 
 Legal basis
 
@@ -328,6 +333,18 @@ Legal basis
 
 The legal basis for this processing of personal data is Article 6 (1) a) (separate consent) and b) of the EU General Data Protection Regulation (GDPR).
 
+Data provided when contacting our customer service team
+
+If you contact our customer service team, we process the data you provide so as to be able to handle your query. We may request separate consent to process your data, and only process your data for other purposes in compliance with statutory requirements pursuant to Article 6 (4) of the EU GDPR
+
+Period saved for
+
+We only save copies of identification documents you provide us with for verification purposes to the extent required to perform said verification, with copies generally deleted after 30 days at the latest. Data we receive from you when contacting our customer service team is deleted in full 7 years following completion of the respective customer request at the latest.
+
+Legal basis
+
+The legal basis for this processing of personal data is Article 6 (1) a) (separate consent) of the EU General Data Protection Regulation (GDPR), Article 6 (1) b) (processing necessary for the performance of a contract) of the EU General Data Protection Regulation (GDPR), Article 6 (1) f) (processing based on the weighing of interests) of the EU General Data Protection Regulation (GDPR), and Article 6 (1)cf) (processing necessary for compliance with a legal obligation) of the EU General Data Protection Regulation (GDPR).
+
 3\. Information we automatically obtain through your use of XING
 
 Data about you is automatically collated by means of tracking while you visit or make use of the XING service. Here you can find out:
@@ -404,7 +421,7 @@ We use a tool called VWO to run A/B tests. You can opt out of this kind of web a
 Measurement and optimisation of advertising
 
 Tracking helps us to obtain metrics for the success of advertising campaigns and to optimise the way that online ads are displayed. Your user ID is not associated with the data collated here in any way.  
-When it comes to the display of ads, the servers of third-party providers (e.g. marketers) might be accessed directly when using XING. Third-party providers are responsible themselves for ensuring that the operation of the IT systems they use meets the required data protection provisions. Determination of the period of time that data is stored for is incumbent upon the provider.  
+In this context, the servers of third-party providers (e.g. marketers) might be accessed directly when using XING. Here, the respective third-party provider may record the fact that you visited our website(s). In addition, such site visits may lead to information being sent to some of these third-party providers with the aim of optimising and measuring the performance of our advertising. This includes, for example, information about the kind of pages you visited, or you belonging to a certain target audience we have defined. Calling third-party provider servers directly allows third-party providers to use cookies and advertising IDs for retargeting purposes. Retargeting technologies enables third-party providers to show you personalised advertising based on your previous browsing behaviour on partner websites. Third-party providers are, to some extent, able to link your various technical IDs and thus show you personalised advertising across multiple devices. Third-party providers are responsible themselves for ensuring that the operation of the IT systems they use meets the required data protection provisions. Determination of the period of time that data is stored for is incumbent upon the provider.  
   
 You can opt out of tracking for the measurement and optimisation of advertising by third-party providers. In the following you will find further information about the tracking technologies used and information from providers about data processing.
 
@@ -418,20 +435,22 @@ Below you can opt out of tracking for the measurement and optimisation of advert
     
     Go to your XING settings Opt in to tracking on XING As a non-member these changes only apply in the browser you're currently using.
 *   Opt in to tracking on XING events Your changes only apply in the browser you're currently using.
-*   Opt in to tracking on kununu Your changes only apply in the browser you're currently using.
+*   Opt in to tracking on kununu and kununu engage Your changes only apply in the browser you're currently using.
 
-Opting out applies to the following tracking technologies:
+Opting out applies to the following tracking technologies: Google
 
-Google  
 More information is available here
 
-Bing  
+Bing
+
 More information is available here
 
-Criteo  
+Criteo
+
 More information is available here
 
-LinkedIn  
+LinkedIn
+
 More information is available here
 
 Facebook Pixel
@@ -460,7 +479,7 @@ More information in German is available here
 
 Adjust
 
-More information about: here
+More information is available here
 
 Adition
 
@@ -468,7 +487,23 @@ More information is available here
 
 Outbrain
 
-More information
+More information is available here
+
+Pinterest
+
+More information is available here
+
+AppNexus
+
+More information is available here
+
+Snap Pixel
+
+We use the so-called "Snap Pixel" developed by Snap Inc., 2772 Donald Douglas Loop North, Santa Monica, CA 90405, USA to create "custom audiences". This serves the purpose of optimising our advertising in the social network Snap, of placing only relevant advertising there, and measuring the success of our Snap advertising campaigns. The Snap Pixel makes it possible for Snap to identify visitors to the XING Websites as a target group for the display of ads in the social network Snap.  
+  
+A direct link to the Snap servers is established via the Snap Pixel implemented on the XING Websites when a user visits the XING Websites. The Facebook server is informed here that you have visited the XING Websites, and information is also transferred about which specific pages you viewed. In addition, individual information and parameters are transferred that are required for the optimisation of our ads, to increase relevance and measure success. This relates in particular to information about so-called "conversion events" on XING (e.g. whether a registration or a purchase was completed).  
+  
+Further information about the collection and usage of data by Snap and about your corresponding right and options for protecting your privacy can be found in the Snap Privacy Center at https://www.snap.com/en-US/privacy/privacy-center/.
 
 You can only opt out of the following tracking technologies directly on your end device: Advertising Identifier/ Advertising ID
 
@@ -526,7 +561,7 @@ INFOnline GmbH does not save your full IP address. Instead, it saves a truncated
 
 Data transfer
 
-Your IP address and abridged IP address are not transferred or passed on. Data with client identifiers are passed on to the following AGOF service providers in order to create the AGOF study:
+Your IP address and abridged IP address are not transferred or passed on. Data with client identifiers is passed on to the following AGOF service providers in order to create the AGOF study:
 
 *   Kantar Deutschland GmbH
 *   Ankordata GmbH &. Co. KG
@@ -560,11 +595,11 @@ Some information about you that we process does not come directly from you. This
 
 We also process data that we haven’t obtained directly from you. This occurs whenever a user provides us with information or we collect information from other sources. In such cases we process the respective data within the scope of fulfilment of our contractual obligations towards the respective user and/or to safeguard our legitimate interests, while giving due consideration to your interests.
 
-Data from address book uploads
+Data from address book or list uploads
 
-This includes the following data, which can be extracted from another person’s vCard:
+This includes data which can be extracted from an address book or list (e.g. smartphone address book, e-mail address book or CSV file), e.g.:
 
-*   First and last name
+*   This includes data which can be extracted from an address book or list, e.g. smartphone or e-mail address book, or CSV file. e.g. first and last name
 *   E-mail addresses
 *   Phone numbers
 *   Job title and company name
@@ -573,12 +608,11 @@ This includes the following data, which can be extracted from another person’s
 
 Intended purpose
 
-We make it possible for users to expand their network on XINGand invite non-users.  
-When a user makes use of this feature, personal data is processed on their behalf and under their responsibility. XING makes appropriate functions available to users to manage the data processed on their behalf and in particular to delete this data. Users have the right and the option to cease the processing of personal data on their behalf at any time.
+We provide users with various address book and list upload features to enable them to expand their network on XING or to invite non-users. If we permanently save the data uploaded by way of an aforementioned feature, we make appropriate functions available to users to manage the data and, in particular, to delete this data. Users have the right and the option to cease the processing of personal data at any time.
 
 Source of the data
 
-Users who want to expand their personal network and already have access to your data can upload this information to XING.
+Users who already have access to your data can upload this information to XING.
 
 Visibility
 
@@ -586,7 +620,7 @@ No third parties have access to the uploaded data.
 
 Period saved for and objection
 
-We save this data until the respective user either deletes this data themselves or their user account is deleted.  
+If the respective upload feature is only used for a single user search, categorisation or grouping, the data uploaded will be deleted immediately afterwards. If the respective upload feature requires permanent storage of the uploaded data, we save this data until the respective user either deletes this data themselves or their user account is deleted.  
 The invited non-users can select an opt-out link in the invitation e-mail to object to the sending of further invitations or invitation reminders to their respective e-mail address.
 
 Legal basis
@@ -632,7 +666,7 @@ You can find out here who we disclose data to, what purpose this serves, and how
 We only pass your personal data on to third parties when this is required to fulfil our business purposes (i.e. in particular to perform the services we are obliged to provide you with, e.g. making your profile available to another user), when you have given your consent to this (e.g. when using an external application), or when we are obliged to on legal grounds, by court order, or at the request of another official authority.  
 In cases where we work together with external service providers for our data processing (e.g. in software development), this is usually carried out on an order processing basis, whereby we remain responsible for data processing. We review each of these service providers beforehand with regard to the measures they have undertaken to ensure data protection and data security, thereby safeguarding the contractual provisions as stipulated by law for the protection of the personal data.
 
-Users of the social network
+Other users
 
 You can learn more about how visible you are to other users under “Information you provide to us”.
 
@@ -642,12 +676,12 @@ You can determine whether you want non-users of the social network to be able to
 The standard external accessibility of profile information forms a central element of XING as a way of fostering networking between users, as many business contacts are made in the first instance when other users (or third parties) find the name of a user when conducting research in search engines.  
 With some features on XING (e.g. with posts in groups on guest lists) another user determines whether and to what extent the data used or shared for a particular function is visible or accessible to other users and non-users, and who is authorised to read this content and add to this content. If you aren’t able to change these settings through your own privacy settings we will inform you about the respective use of your data in the respective feature.
 
-People you want to invite to your network
+People you want to invite to the social network or other XING application
 
-As a user, you can invite other people to join and use XING. We process the data recorded here solely for the expansion of your network and not for any other purposes.  
+As a user, you can invite other people to join and use XING. We process the data recorded here solely for this purpose.  
 After a certain period we send out a reminder e-mail ("automatic reminder") on your behalf to the person you invited. You can prevent this automatic reminder from being sent by deleting the invitation in your settings. You also have the option of sending your own reminder e-mails manually. We save the e-mail addresses that invitations are sent to in encrypted form. This encryption is temporarily suspended to display the e-mail addresses in your account. You can delete this data in your account at any time.  
 Every person you invite has the option to object to invitations being sent to their e-mail address from that point onwards.  
-Please note that recipients are shown the following information in the invitation you send:
+Please note that, depending on the invitation feature used, recipients may be shown the following information in the invitation you send:
 
 *   Your name
 *   Your company
@@ -714,21 +748,6 @@ Service providers for advertising campaigns and the display of ads
 Providers of tools for website use analysis
 
 Cooperation partners
-
-Other platform providers that fall under "Social Plugins"
-
-On some XING Websites we use so-called "Social Plugins" of various social networks (Facebook, Google+, Twitter, Pinterest). When you click on a page on one of the XING Websites that contains a plugin like this, your browser will establish a direct connection to the servers of the respective provider. The content of the plugin is sent from the provider directly to your browser and embedded in the page. This embedding means that the provider receives the information that your browser has accessed the respective page in question, even if you don’t have an account and are not currently logged in with this provider. This information (including your IP address) is sent from your browser directly to a server of the provider (usually located in the USA) and saved there. If you are logged in with the provider they will be able to immediately align the visit to our website with your profile. If you interact with the plugins, e.g. if you press a button or post a comment, this information will also be transferred directly to the server of the provider and saved there. The provider in question can potentially publish this information on your profile or share it with your contacts.  
-If you don’t want the provider to match the data collected on our website with your profile in the respective social network, make sure you log out of that network before visiting our website.  
-  
-Facebook is operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA.  
-Overview of Facebook Plugins and their component parts Facebook’s Data Protection Policy  
-  
-Google+ is operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.  
-Overview of Google Plugins and their component parts Google’s Data Protection Policy  
-  
-Twitter is operated by Twitter Inc., 1355 Market St, Suite 900, San Francisco, CA 94103, USA. Overview of Twitter Plugins and their component parts Twitter’s Privacy Policy  
-  
-Pinterest is operated by Pinterest Inc., 635 High Street, Palo Alto, CA, USA Pinterest’s Data Protection Policy
 
 ClimatePartner
 
