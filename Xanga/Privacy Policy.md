@@ -1,9 +1,3 @@
-Skip to toolbar
-
-*   Xanga
-
-*   Log In
-
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
@@ -13,10 +7,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   6 years ago
     *   in Data Migration
     *   0 votes
-    *   10 (last comment by Goldilox 3 days ago)
+    *   10 (last comment by Goldilox 4 days ago)
 *   How to completely shut down old Xanga Account?
     *   by Louic
-    *   5 days ago
+    *   6 days ago
     *   in Privacy
     *   0 votes
     *   0
@@ -76,13 +70,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Old blog posts
     *   by isexed\_yermom
-    *   1 month ago
+    *   2 months ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please! I'd like to get my old blogs
     *   by mandynoelle
-    *   2 months ago
+    *   3 months ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by seraphym\_shining 2 months ago)
@@ -156,4 +150,8 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
+
+*   Xanga
+
+*   Log In
