@@ -18,14 +18,13 @@
 *   Events &. Holidays
 *   MorePetsWorld LanguagesFlowersAt WorkWeddingKeep in TouchInvitations
 
-*   Leap Day
 *   Share a Smile Day
 *   I Want You to be Happy Day
-*   St. David's Day
+*   Chocolate Cheesecake Day
 *   More...
-    *   Chocolate Cheesecake Day (Mar 6, 2020)
     *   Daylight Saving Time Begins (Mar 8, 2020)
     *   International Women's Day (Mar 8, 2020)
+    *   St. David's Day (Mar 1, 2020)
     *   Pig Day (Mar 1, 2020)
     *   Optimism Month (March 2020)
     *   American Red Cross Month (March 2020)
@@ -35,6 +34,7 @@
     *   Employee Appreciation Day (Mar 6, 2020)
     *   World Day of Prayer (Mar 6, 2020)
     *   Bubble Week (Mar 8 - 14, 2020)
+    *   Full Moon Day (Mar 9, 2020)
     *   See All Events
 *   Go
 
