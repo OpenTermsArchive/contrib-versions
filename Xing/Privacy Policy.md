@@ -109,7 +109,9 @@ As well as the mandatory information we require, you can also enter additional i
 
 Category
 
-*   e.g. Business e-mail address and phone number
+e.g.
+
+*   Business e-mail address and phone number
 *   Private interests
 *   Private contact
 *   Educational background
@@ -118,7 +120,7 @@ Category
 
 Visibility
 
-Your optional information is visible to all users in the social network after you enter it. In some cases, you can choose whether optional information should only be visible to certain users in the social network.
+Whether and to what extent your optional information is visible to other users depends on whether and to what extent the respective application is geared towards anonymity. Please refer to the respective application for more information.
 
 If you activate the "around you" feature with Bluetooth also activated, other XING users with this feature activated will be sought within a radius of 10 to 20 metres (depending on your device). This feature can act as a substitute for exchanging conventional business cards. To provide this feature, your profile details, including your name, company name, your job title and your photo are displayed to other users. We do not use Bluetooth permanently in the background and do not track your location.
 
@@ -141,7 +143,9 @@ In order to provide our services we require certain information from you. On our
 
 Category
 
-*   e.g. First name, last name
+e.g.
+
+*   First name, last name
 *   E-mail address
 *   Company name
 
@@ -170,7 +174,7 @@ e.g.
 
 Visibility
 
-Your optional information is visible to all users in the social network after you enter it. In some cases, you can choose whether optional information should only be visible to certain users in the social network.
+Whether and to what extent your optional information is visible to other users depends on whether and to what extent the respective application is geared towards anonymity. Please refer to the respective application for more information.
 
 Period saved for
 
@@ -599,7 +603,7 @@ Data from address book or list uploads
 
 This includes data which can be extracted from an address book or list (e.g. smartphone address book, e-mail address book or CSV file), e.g.:
 
-*   This includes data which can be extracted from an address book or list, e.g. smartphone or e-mail address book, or CSV file. e.g. first and last name
+*   First and last name
 *   E-mail addresses
 *   Phone numbers
 *   Job title and company name
