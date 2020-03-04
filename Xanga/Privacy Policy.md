@@ -13,7 +13,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   6 years ago
     *   in Data Migration
     *   0 votes
-    *   10 (last comment by Goldilox 6 days ago)
+    *   10 (last comment by Goldilox 1 week ago)
 *   How to completely shut down old Xanga Account?
     *   by Louic
     *   1 week ago
