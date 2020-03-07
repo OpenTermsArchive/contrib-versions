@@ -26,13 +26,13 @@
 *   Pi Day
 *   More...
     *   Chocolate Cheesecake Day (Mar 6, 2020)
-    *   Say Hi to Mom Day (Mar 5, 2020)
     *   Dentists' Day (Mar 6, 2020)
     *   Employee Appreciation Day (Mar 6, 2020)
     *   World Day of Prayer (Mar 6, 2020)
     *   Daylight Saving Time Begins (Mar 8, 2020)
     *   Bubble Week (Mar 8 - 14, 2020)
     *   Full Moon Day (Mar 9, 2020)
+    *   No Smoking Day (Mar 11, 2020)
     *   Friday the 13th (Mar 13, 2020)
     *   St. Urho's Day (Mar 16, 2020)
     *   See All Events
