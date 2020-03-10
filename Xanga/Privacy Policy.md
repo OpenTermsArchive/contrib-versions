@@ -1,13 +1,25 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   HELP
+    *   by BRITT\_\_LOVE
+    *   7 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   how can i access my old blogs
     *   \[Resolved\] by e\_e
     *   6 years ago
     *   in Data Migration
     *   0 votes
-    *   10 (last comment by Goldilox 1 week ago)
+    *   11 (last comment by BRITT\_\_LOVE 7 hours ago)
 *   How to completely shut down old Xanga Account?
     *   by Louic
     *   2 weeks ago
@@ -28,7 +40,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Can’t archive old blog
     *   by janny\_wanny
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -84,12 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by GrafSoul
     *   3 months ago
     *   in Pictures
-    *   0 votes
-    *   0
-*   Old xanga recovered
-    *   by anarchy\_animeGirl
-    *   4 months ago
-    *   in Data Migration
     *   0 votes
     *   0
 
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
