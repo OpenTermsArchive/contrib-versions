@@ -644,20 +644,23 @@ See Products &. Pricing
 
 Already a customer? Sign in
 
-Sorry, we can't seem to find that address.
+See what Kinetic products are available to you.
 
-Please enter your address below so we can show you all of the best deals in your area.
+Enter your address to review products and pricing available in your area.
 
 State ALARAZFLGAIAKSKYMIMNMOMSNCNENMNYOHOKPASCTX Check Availability
 
-Need help?  
-Call 1-866-819-12391-866-819-1239 or Chat Now No Chat Available .
+Already a customer? Sign in
 
-It looks like Windstream isn't available for this address.
+  
+Need help?  
+Call 1-855-944-29611-855-944-2961 or Chat Now No Chat Available .
+
+We still can’t find your address. Contact us to see if you’re in our service area.
 
 Contact us now to find out if you're located in one of our service areas.
 
-Chat With Agent Now No Chat Available Call 1-866-819-1239
+Chat With Agent Now No Chat Available Call 1-855-944-2961
 
 Enter your address again or view other carriers in your area
 
