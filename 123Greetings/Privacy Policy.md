@@ -20,21 +20,21 @@
 
 *   Holi
 *   St. Patrick's Day
-*   International Women's Day
 *   Purim
 *   Dream Day
 *   Pi Day
+*   Let's Laugh Day
+*   Full Moon Day
 *   More...
-    *   Let's Laugh Day (Mar 19, 2020)
-    *   Daylight Saving Time Begins (Mar 8, 2020)
+    *   Saint Joseph's Day (Mar 19, 2020)
     *   Bubble Week (Mar 8 - 14, 2020)
-    *   Full Moon Day (Mar 9, 2020)
     *   No Smoking Day (Mar 11, 2020)
     *   Friday the 13th (Mar 13, 2020)
     *   Ides of March (Mar 15, 2020)
     *   American Chocolate Week (Mar 15 - 21, 2020)
     *   St. Urho's Day (Mar 16, 2020)
     *   St. Patrick's Day Parade (New York) (Mar 17, 2020)
+    *   Chocolate Caramel Day (Mar 19, 2020)
     *   See All Events
 *   Go
 
