@@ -8,18 +8,18 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   HELP
-    *   by BRITT\_\_LOVE
-    *   7 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 *   how can i access my old blogs
     *   \[Resolved\] by e\_e
     *   6 years ago
     *   in Data Migration
     *   0 votes
-    *   11 (last comment by BRITT\_\_LOVE 7 hours ago)
+    *   12 (last comment by kikissforever 2 hours ago)
+*   HELP
+    *   by BRITT\_\_LOVE
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   How to completely shut down old Xanga Account?
     *   by Louic
     *   2 weeks ago
