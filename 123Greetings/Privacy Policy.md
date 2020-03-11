@@ -18,18 +18,18 @@
 *   Events &. Holidays
 *   MorePetsWorld LanguagesFlowersAt WorkWeddingKeep in TouchInvitations
 
-*   Holi
 *   St. Patrick's Day
+*   Holi
 *   Purim
 *   Dream Day
+*   Friday the 13th
 *   Pi Day
-*   Let's Laugh Day
-*   Full Moon Day
+*   Spring
 *   More...
+    *   Let's Laugh Day (Mar 19, 2020)
     *   Saint Joseph's Day (Mar 19, 2020)
     *   Bubble Week (Mar 8 - 14, 2020)
     *   No Smoking Day (Mar 11, 2020)
-    *   Friday the 13th (Mar 13, 2020)
     *   Ides of March (Mar 15, 2020)
     *   American Chocolate Week (Mar 15 - 21, 2020)
     *   St. Urho's Day (Mar 16, 2020)
