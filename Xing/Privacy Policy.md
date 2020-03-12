@@ -828,7 +828,7 @@ If processing is subject to your consent you have the right to withdraw this con
 
 Right to lodge a complaint
 
-The supervisory authority responsible for our company is: Freie und Hansestadt Hamburg The Hamburg Commissioner for Data Protection and Freedom of Information, Prof. Dr. Johannes Caspar, 7th floor, Ludwig-Erhard-Str. 22, 20459 Hamburg, Germany Tel.: +49 40 / 428 54 – 4040, Fax: +49 40 / 428 54 – 4000, further details are available by visiting www.datenschutz-hamburg.de (in German)  
+The supervisory authority responsible for our company is: Freie und Hansestadt Hamburg The Hamburg Commissioner for Data Protection and Freedom of Information, Prof. Dr. Johannes Caspar, 7th floor, Ludwig-Erhard-Str. 22, 20459 Hamburg, Germany Tel.: +49 40 / 428 54 – 4040, Fax: +49 40 / 428 54 – 4000, further details are available by visiting https://datenschutz-hamburg.de (in German)  
   
 If you feel that the processing of your personal data infringes upon the EU GDPR, you have the right to lodge a complaint with the supervisory authority in your regular place of residence, your place of work, or alleged place of infringement. Further information about the complaints procedure is available in Article 77 of the EU GDPR.
 
