@@ -19,15 +19,13 @@
 *   MorePetsWorld LanguagesFlowersAt WorkWeddingKeep in TouchInvitations
 
 *   St. Patrick's Day
-*   Dream Day
 *   Friday the 13th
 *   Pi Day
 *   Let's Laugh Day
 *   Spring
+*   Nowruz
 *   More...
-    *   Nowruz (Mar 20, 2020)
     *   Saint Joseph's Day (Mar 19, 2020)
-    *   No Smoking Day (Mar 11, 2020)
     *   Bubble Week (Mar 8 - 14, 2020)
     *   Ides of March (Mar 15, 2020)
     *   American Chocolate Week (Mar 15 - 21, 2020)
@@ -35,6 +33,8 @@
     *   St. Patrick's Day Parade (New York) (Mar 17, 2020)
     *   Chocolate Caramel Day (Mar 19, 2020)
     *   International Astrology Day (Mar 20, 2020)
+    *   Smile Rejuvenation Day (Mar 20, 2020)
+    *   Spring Equinox (Mar 20, 2020)
     *   See All Events
 *   Go
 
