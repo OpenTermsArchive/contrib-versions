@@ -1,22 +1,22 @@
-Skip to toolbar
-
-*   Xanga
-
-*   Log In
-
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Please reactivate my Xanga post
+    *   by catherine\_mtc
+    *   21 hours ago
+    *   in Themes
+    *   0 votes
+    *   0
 *   how can i access my old blogs
     *   \[Resolved\] by e\_e
     *   6 years ago
     *   in Data Migration
     *   0 votes
-    *   12 (last comment by kikissforever 3 days ago)
+    *   12 (last comment by kikissforever 4 days ago)
 *   HELP
     *   by BRITT\_\_LOVE
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -34,7 +34,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Can' t gain access to my old posts
     *   by knowthyselfofsocrates
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -92,12 +92,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   1 (last comment by seraphym\_shining 2 months ago)
-*   Delete pictures
-    *   by GrafSoul
-    *   3 months ago
-    *   in Pictures
-    *   0 votes
-    *   0
 
 1 2 3 ... 195 Next
 
@@ -156,4 +150,8 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
+
+*   Xanga
+
+*   Log In
