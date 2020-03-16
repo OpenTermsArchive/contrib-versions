@@ -1,10 +1,16 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
 *   Please reactivate my Xanga post
     *   by catherine\_mtc
-    *   21 hours ago
+    *   1 day ago
     *   in Themes
     *   0 votes
     *   0
@@ -13,16 +19,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   6 years ago
     *   in Data Migration
     *   0 votes
-    *   12 (last comment by kikissforever 4 days ago)
+    *   12 (last comment by kikissforever 5 days ago)
 *   HELP
     *   by BRITT\_\_LOVE
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   How to completely shut down old Xanga Account?
     *   by Louic
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Privacy
     *   0 votes
     *   0
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
