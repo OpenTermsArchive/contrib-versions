@@ -19,13 +19,11 @@
 *   MorePetsWorld LanguagesFlowersAt WorkWeddingKeep in TouchInvitations
 
 *   St. Patrick's Day
-*   Pi Day
-*   Let's Laugh Day
 *   Spring
+*   Let's Laugh Day
 *   Nowruz
 *   Saint Joseph's Day
 *   More...
-    *   Bubble Week (Mar 8 - 14, 2020)
     *   Ides of March (Mar 15, 2020)
     *   American Chocolate Week (Mar 15 - 21, 2020)
     *   St. Urho's Day (Mar 16, 2020)
@@ -35,6 +33,8 @@
     *   Smile Rejuvenation Day (Mar 20, 2020)
     *   Spring Equinox (Mar 20, 2020)
     *   Baha'i New Year (Mar 21, 2020)
+    *   Single Parents' Day (Mar 21, 2020)
+    *   Mothering Sunday (Mar 22, 2020)
     *   See All Events
 *   Go
 
