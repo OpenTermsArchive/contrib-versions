@@ -24,9 +24,9 @@
 *   Nowruz
 *   Saint Joseph's Day
 *   More...
-    *   Ides of March (Mar 15, 2020)
-    *   American Chocolate Week (Mar 15 - 21, 2020)
+    *   Cuddly Kitten Day (Mar 23, 2020)
     *   St. Urho's Day (Mar 16, 2020)
+    *   American Chocolate Week (Mar 15 - 21, 2020)
     *   St. Patrick's Day Parade (New York) (Mar 17, 2020)
     *   Chocolate Caramel Day (Mar 19, 2020)
     *   International Astrology Day (Mar 20, 2020)
