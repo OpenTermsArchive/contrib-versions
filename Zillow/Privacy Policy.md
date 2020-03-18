@@ -288,5 +288,6 @@ Effective June 25, 2019
 *   Careers
 *   Privacy Policy
 *   Terms of Use
+*   Supplier Code of Conduct
 
 Follow Us
