@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Please reactivate my Xanga post
     *   by catherine\_mtc
-    *   2 days ago
+    *   3 days ago
     *   in Themes
     *   0 votes
     *   0
@@ -19,7 +19,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   6 years ago
     *   in Data Migration
     *   0 votes
-    *   12 (last comment by kikissforever 6 days ago)
+    *   12 (last comment by kikissforever 1 week ago)
 *   HELP
     *   by BRITT\_\_LOVE
     *   1 week ago
@@ -73,7 +73,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 years ago
     *   in Data Migration
     *   0 votes
-    *   48 (last comment by tinapoot 1 month ago)
+    *   48 (last comment by tinapoot 2 months ago)
 *   Please help to reactivate let me can see old posts
     *   by natalie6791
     *   11 months ago
