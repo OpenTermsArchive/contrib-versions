@@ -172,7 +172,7 @@ If you have any questions about our practices or this Privacy Policy, please con
 
 Quora, Inc.  
 Attn: Privacy  
-650 Castro Street, Suite 450  
+605 Castro Street  
 Mountain View, CA 94041
 
 **Changes to Our Privacy Policy**
