@@ -18,16 +18,15 @@
 *   Events &. Holidays
 *   MorePetsWorld LanguagesFlowersAt WorkWeddingKeep in TouchInvitations
 
-*   St. Patrick's Day
 *   Spring
 *   Let's Laugh Day
 *   Saint Joseph's Day
 *   Nowruz
+*   Mothering Sunday
+*   Pecan Day
 *   More...
-    *   Mothering Sunday (Mar 22, 2020)
     *   Cuddly Kitten Day (Mar 23, 2020)
-    *   Pecan Day (Mar 25, 2020)
-    *   St. Patrick's Day Parade (New York) (Mar 17, 2020)
+    *   Ugadi (Mar 25, 2020)
     *   American Chocolate Week (Mar 15 - 21, 2020)
     *   Chocolate Caramel Day (Mar 19, 2020)
     *   International Astrology Day (Mar 20, 2020)
@@ -35,6 +34,7 @@
     *   Spring Equinox (Mar 20, 2020)
     *   Baha'i New Year (Mar 21, 2020)
     *   Single Parents' Day (Mar 21, 2020)
+    *   Gudi Padwa (Mar 25, 2020)
     *   See All Events
 *   Go
 
