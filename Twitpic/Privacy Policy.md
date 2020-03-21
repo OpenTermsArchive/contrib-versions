@@ -612,9 +612,9 @@ Effective: January 1, 2020
 
 Archive of Previous Privacy Policies
 
-**1** **The many sides of you.** Let your identify run free. Explore your interests with a number of different identities.  
+**1** **The many sides of you.** Let your imagination run free. Explore your interests with a number of different identities.  
 **2** **Hello, World.** Your profile information is displayed under your photo and username on your profile page.  
-**3** **Keep a low profile.** Friend want to tag you in a photo? Lucky you. If you're not into that sort of thing, you can always change your settings.  
+**3** **Keep a low profile.** Friends want to tag you in a photo? Lucky you. If you're not into that sort of thing, you can always change your settings.  
 **4 Spam stinks.** We scan your Direct Messages to try and prevent spam for you and our service.  
 **5 Just like email.** Only send Direct Messages to people you trust. Remember, even though someone can’t Retweet your Direct Messages, they still have a copy of your message.  
 **6 Approved by you.** We use your payment information to process transactions you’ve approved and for fraud detection.  
