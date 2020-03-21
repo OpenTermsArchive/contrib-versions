@@ -19,18 +19,18 @@
 *   MorePetsWorld LanguagesFlowersAt WorkWeddingKeep in TouchInvitations
 
 *   Spring
-*   Let's Laugh Day
-*   Saint Joseph's Day
 *   Nowruz
 *   Mothering Sunday
+*   Cuddly Kitten Day
+*   April Fools' Day
 *   Pecan Day
 *   More...
-    *   Cuddly Kitten Day (Mar 23, 2020)
-    *   Chocolate Caramel Day (Mar 19, 2020)
-    *   American Chocolate Week (Mar 15 - 21, 2020)
+    *   Laugh Week (Apr 1 - 7, 2020)
+    *   Great Lovers Day (Apr 2, 2020)
     *   International Astrology Day (Mar 20, 2020)
     *   Smile Rejuvenation Day (Mar 20, 2020)
     *   Spring Equinox (Mar 20, 2020)
+    *   American Chocolate Week (Mar 15 - 21, 2020)
     *   Baha'i New Year (Mar 21, 2020)
     *   Single Parents' Day (Mar 21, 2020)
     *   Gudi Padwa (Mar 25, 2020)
