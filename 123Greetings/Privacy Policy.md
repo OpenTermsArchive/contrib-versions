@@ -18,22 +18,22 @@
 *   Events &. Holidays
 *   MorePetsWorld LanguagesFlowersAt WorkWeddingKeep in TouchInvitations
 
+*   Easter
 *   Spring
-*   Nowruz
 *   Mothering Sunday
 *   Cuddly Kitten Day
 *   April Fools' Day
-*   Pecan Day
+*   Passover
 *   More...
     *   Laugh Week (Apr 1 - 7, 2020)
     *   Great Lovers Day (Apr 2, 2020)
-    *   International Astrology Day (Mar 20, 2020)
-    *   Smile Rejuvenation Day (Mar 20, 2020)
-    *   Spring Equinox (Mar 20, 2020)
-    *   American Chocolate Week (Mar 15 - 21, 2020)
+    *   Palm Sunday (Apr 5, 2020)
+    *   Good Friday (Apr 10, 2020)
     *   Baha'i New Year (Mar 21, 2020)
     *   Single Parents' Day (Mar 21, 2020)
+    *   American Chocolate Week (Mar 15 - 21, 2020)
     *   Gudi Padwa (Mar 25, 2020)
+    *   Pecan Day (Mar 25, 2020)
     *   Ugadi (Mar 25, 2020)
     *   See All Events
 *   Go
