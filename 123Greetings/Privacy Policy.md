@@ -29,12 +29,12 @@
     *   Great Lovers Day (Apr 2, 2020)
     *   Palm Sunday (Apr 5, 2020)
     *   Good Friday (Apr 10, 2020)
-    *   Baha'i New Year (Mar 21, 2020)
-    *   Single Parents' Day (Mar 21, 2020)
-    *   American Chocolate Week (Mar 15 - 21, 2020)
     *   Gudi Padwa (Mar 25, 2020)
     *   Pecan Day (Mar 25, 2020)
     *   Ugadi (Mar 25, 2020)
+    *   Baisakhi (Apr 13, 2020)
+    *   National Scrabble Day (Apr 13, 2020)
+    *   Songkran (Thailand) (Apr 13 - 15, 2020)
     *   See All Events
 *   Go
 
