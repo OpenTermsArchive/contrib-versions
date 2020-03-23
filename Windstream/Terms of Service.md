@@ -116,12 +116,12 @@ Back to About Page
     *   Acceptable Use Policy
     *   Broadband Network Statement
     *   DPS complaints
-    *   kinetic-business-terms-and-conditions
     *   Legal Notices
     *   Offer Conditions
     *   Privacy Policy
     *   Procurement Terms and Conditions
-    *   Terms and Conditions
+    *   Kinetic Business Terms and Conditions
+    *   Kinetic Terms and Conditions
     
     _keyboard\_arrow\_right_
 *   Additional Information▼
@@ -161,12 +161,12 @@ Back to About Page
         *   Acceptable Use Policy
         *   Broadband Network Statement
         *   DPS complaints
-        *   kinetic-business-terms-and-conditions
         *   Legal Notices
         *   Offer Conditions
         *   Privacy Policy
         *   Procurement Terms and Conditions
-        *   Terms and Conditions
+        *   Kinetic Business Terms and Conditions
+        *   Kinetic Terms and Conditions
         
         _keyboard\_arrow\_right_
     *   Additional Information▼
@@ -178,7 +178,7 @@ Back to About Page
         
         _keyboard\_arrow\_right_
 
-Terms and Conditions
+Kinetic Terms and Conditions
 
 TERMS AND CONDITIONS FOR SERVICES AND/OR EQUIPMENT PROVIDED BY WINDSTREAM
 
