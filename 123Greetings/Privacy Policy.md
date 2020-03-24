@@ -20,21 +20,21 @@
 
 *   Easter
 *   Spring
-*   Mothering Sunday
+*   Passover
 *   Cuddly Kitten Day
 *   April Fools' Day
-*   Passover
+*   Laugh Week
+*   Ugadi
 *   More...
-    *   Laugh Week (Apr 1 - 7, 2020)
     *   Great Lovers Day (Apr 2, 2020)
     *   Palm Sunday (Apr 5, 2020)
     *   Good Friday (Apr 10, 2020)
     *   Gudi Padwa (Mar 25, 2020)
     *   Pecan Day (Mar 25, 2020)
-    *   Ugadi (Mar 25, 2020)
-    *   Baisakhi (Apr 13, 2020)
-    *   National Scrabble Day (Apr 13, 2020)
-    *   Songkran (Thailand) (Apr 13 - 15, 2020)
+    *   Hot Tub Day (Mar 28, 2020)
+    *   Doctor's Day (Mar 30, 2020)
+    *   Ram Navami (Apr 2, 2020)
+    *   Mahavir Jayanti (Apr 6, 2020)
     *   See All Events
 *   Go
 
