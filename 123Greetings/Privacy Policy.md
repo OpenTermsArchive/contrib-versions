@@ -21,12 +21,11 @@
 *   Easter
 *   Spring
 *   Passover
-*   Cuddly Kitten Day
 *   April Fools' Day
 *   Laugh Week
+*   Great Lovers Day
 *   Ugadi
 *   More...
-    *   Great Lovers Day (Apr 2, 2020)
     *   Palm Sunday (Apr 5, 2020)
     *   Good Friday (Apr 10, 2020)
     *   Gudi Padwa (Mar 25, 2020)
@@ -35,6 +34,7 @@
     *   Doctor's Day (Mar 30, 2020)
     *   Ram Navami (Apr 2, 2020)
     *   Mahavir Jayanti (Apr 6, 2020)
+    *   National Scrabble Day (Apr 13, 2020)
     *   See All Events
 *   Go
 
