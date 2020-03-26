@@ -19,8 +19,8 @@
 *   MorePetsWorld LanguagesFlowersAt WorkWeddingKeep in TouchInvitations
 
 *   Easter
-*   Spring
 *   Passover
+*   Spring
 *   April Fools' Day
 *   Laugh Week
 *   Great Lovers Day
@@ -28,13 +28,13 @@
 *   More...
     *   Palm Sunday (Apr 5, 2020)
     *   Good Friday (Apr 10, 2020)
+    *   Humor Month (April 2020)
     *   Gudi Padwa (Mar 25, 2020)
     *   Pecan Day (Mar 25, 2020)
     *   Hot Tub Day (Mar 28, 2020)
     *   Doctor's Day (Mar 30, 2020)
     *   Ram Navami (Apr 2, 2020)
     *   Mahavir Jayanti (Apr 6, 2020)
-    *   National Scrabble Day (Apr 13, 2020)
     *   See All Events
 *   Go
 
