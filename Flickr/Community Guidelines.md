@@ -134,10 +134,18 @@ The Flickreenos, Dec 17, 2018
 *   Blog
 *   Developers
 *   Guidelines
+*   Privacy
+*   Terms
 *   Help
 *   Report abuse
 *   Help forum
 *   English
+*   SmugMug+Flickr.
+
+*   Privacy
+*   Terms
+
+SmugMug+Flickr. Connecting people through photography.
 
 *   About
 *   Jobs
@@ -145,6 +153,9 @@ The Flickreenos, Dec 17, 2018
 *   Developers
 *   Guidelines
 *   Report abuse
+*   Privacy
+*   Terms
+*   Help
 *   Help forum
 *   English
 
