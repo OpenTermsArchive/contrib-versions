@@ -24,17 +24,17 @@
 *   April Fools' Day
 *   Laugh Week
 *   Great Lovers Day
-*   Ugadi
 *   More...
     *   Palm Sunday (Apr 5, 2020)
     *   Good Friday (Apr 10, 2020)
     *   Humor Month (April 2020)
-    *   Gudi Padwa (Mar 25, 2020)
-    *   Pecan Day (Mar 25, 2020)
     *   Hot Tub Day (Mar 28, 2020)
     *   Doctor's Day (Mar 30, 2020)
     *   Ram Navami (Apr 2, 2020)
     *   Mahavir Jayanti (Apr 6, 2020)
+    *   National Beer Day (Apr 7, 2020)
+    *   Full Moon Day (Apr 8, 2020)
+    *   Hanuman Jayanti (Apr 8, 2020)
     *   See All Events
 *   Go
 
