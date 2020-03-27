@@ -1,3 +1,9 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
@@ -46,7 +52,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   You are holding my data ransom
     *   by justraveit
-    *   1 month ago
+    *   2 months ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by skiwithmenes 1 month ago)
@@ -70,7 +76,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   48 (last comment by tinapoot 2 months ago)
 *   Please help to reactivate let me can see old posts
     *   by natalie6791
-    *   12 months ago
+    *   1 year ago
     *   in Themes
     *   0 votes
     *   2 (last comment by JacK\_Puk 2 months ago)
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
