@@ -171,7 +171,7 @@ Refund Policy
 
 _Effective as of January 1, 2020._
 
-For details on our refund deadlines and policies, please refer to the information below. note that our policies differ for subscription payments vs. one-time course and Specialization purchases, and that payment options may vary from one Service to another. Please also note that we treat violations of our Terms of Use and Honor Code very seriously, and we have no obligation to offer refunds to users who are found to be in violation of these terms, even if their requests are made within the designated refund period. Similarly, we have no obligation to offer late refunds to users who do not receive a passing mark in the Content Offering, or who are otherwise unsatisfied with their final grade.
+For details on our refund deadlines and policies, please refer to the information below. Please note that our policies differ between subscription payments and one-time payments made for course, Specialization, and guided project purchases, and that payment options may vary from one Service to another. Please also note that we treat violations of our Terms of Use and Honor Code very seriously, and we have no obligation to offer refunds to users who violate these terms, even if their requests are made within the designated refund period. Similarly, we have no obligation to offer late refunds to users who do not receive a passing mark in the Content Offering, or who are otherwise unsatisfied with their final grade.
 
 For more information about our refund process, including instructions for requesting a refund, please visit our Learner Help Center.
 
@@ -199,6 +199,10 @@ If you cancel your one-time, paid enrollment for a Specialization, Coursera will
 
 Notwithstanding the foregoing, shorter refund periods may apply to specific courses and Specializations (e.g., for courses that are part of the UCI Professional Certificate in Applied Project Management, you will only be eligible for a full refund until seven days after your payment date). In these cases, the shorter period will be stated as part of the sign-up process for the course or Specialization.
 
+For Guided Projects
+
+Coursera does not offer refunds for payments made for guided projects. If you do not earn your completion certificate within 180 days after registering for a guided project, your registration will expire and you will need to pay to re-enroll for the guided project in order to complete the guided project and earn your completion certificate. However, if you’re taking a course through your company or organization (e.g. Coursera for Business, Coursera for Governments or Organizations, Coursera for Refugees, or other Coursera Social Good programs) then you can earn your certificate as long as your company's contract with Coursera is active and your access has not expired in accordance with the terms of that contract. Similarly, refunds and cancellations will also be governed by the terms of that contract between your organization and Coursera. If you have subscribed through a third party marketplace that restricts Coursera's ability to issue refunds -- e.g., in-app purchases through the Apple App Store, please visit the third party marketplace for information regarding their policies.
+
 For Degree and MasterTrack Certificate Programs
 
 Refund policies for degree and MasterTrack certificate programs are established and administered by the university partner offering the program. Refund policies are communicated to students by Coursera’s university partners.
@@ -209,7 +213,7 @@ Except as described in this Refund Policy or as explicitly stated as part of the
 
 Third Party Marketplaces
 
-Notwithstanding the foregoing, if you purchase or subscribe for a course or Specialization, or purchase any other paid Service, through a third party marketplace (e.g., in-app purchases through the Apple App Store or purchases made through certain alternative payment services), the refund policy applicable to that third party marketplace will apply, unless otherwise explicitly stated by Coursera. Except as otherwise explicitly stated by Coursera, the third party marketplace will be solely responsible for making refunds under its refund policy, and Coursera will have no refund obligations. Coursera disclaims any responsibility or liability related to any third party marketplace's refund policy or the third party's compliance or noncompliance with such policy.
+Notwithstanding the foregoing, if you purchase or subscribe for a course, Specialization, guided project, or purchase any other paid Service, through a third party marketplace (e.g., in-app purchases through the Apple App Store or purchases made through certain alternative payment services), the refund policy applicable to that third party marketplace will apply, unless otherwise explicitly stated by Coursera. Except as otherwise explicitly stated by Coursera, the third party marketplace will be solely responsible for making refunds under its refund policy, and Coursera will have no refund obligations. Coursera disclaims any responsibility or liability related to any third party marketplace's refund policy or the third party's compliance or noncompliance with such policy.
 
 Honor Code
 
