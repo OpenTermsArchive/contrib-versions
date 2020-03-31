@@ -1,4 +1,4 @@
-Full Data Policy The California Consumer Privacy Act goes into effect on January 1, 2020. California residents can learn more about their privacy rights here. Facebook Ads Controls Privacy Basics Cookies Policy Terms More Resources
+Full Data Policy The California Consumer Privacy Act is effective as of January 1, 2020. California residents can learn more about their privacy rights here. Facebook Ads Controls Privacy Basics Cookies Policy Terms More Resources
 
 *   View a printable version of the Data Policy
 *   Interactive Tools
