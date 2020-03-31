@@ -19,9 +19,9 @@
 *   MorePetsWorld LanguagesFlowersAt WorkWeddingKeep in TouchInvitations
 
 *   Easter
+*   April Fools' Day
 *   Passover
 *   Spring
-*   April Fools' Day
 *   Laugh Week
 *   Great Lovers Day
 *   More...
@@ -34,7 +34,7 @@
     *   National Beer Day (Apr 7, 2020)
     *   Full Moon Day (Apr 8, 2020)
     *   Hanuman Jayanti (Apr 8, 2020)
-    *   National Scrabble Day (Apr 13, 2020)
+    *   National Pet Day (Apr 11, 2020)
     *   See All Events
 *   Go
 
