@@ -19,10 +19,10 @@
 *   MorePetsWorld LanguagesFlowersAt WorkWeddingKeep in TouchInvitations
 
 *   Easter
-*   April Fools' Day
 *   Passover
-*   Spring
+*   April Fools' Day
 *   Laugh Week
+*   Spring
 *   Great Lovers Day
 *   More...
     *   Palm Sunday (Apr 5, 2020)
