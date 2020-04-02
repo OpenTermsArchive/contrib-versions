@@ -154,7 +154,7 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
         
 13.  **Provider of Services**
     
-    1.  The Services are provided by the company that offers the Services in your region as set out in Section 14 (the “Applicable Verizon Media Entity”), except for the Services set out below in Section 13(b). Not all Services or features may be available in your country or region. Different features may be available in different versions of the Services. Your Service provider may change if you relocate to another country and continue using our Services.
+    1.  The Services are provided by the company that offers the Services in your region as set out in Section 14.2  (the “Applicable Verizon Media Entity”), except for the Services set out below in Section 13(b). Not all Services or features may be available in your country or region. Different features may be available in different versions of the Services. Your Service provider may change if you relocate to another country and continue using our Services.
         
     2.  The following services are provided to you by the same Verizon Media Entity wherever you are based in the world:
         
