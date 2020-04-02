@@ -28,7 +28,7 @@ How to Contact Us with Questions About this Privacy Policy
 
 Introduction
 
-Effective January 1, 2020
+Effective April 1, 2020
 
 We know you care about your privacy and the protection of your personal information. We also know it is our responsibility to be clear about how we protect your information. We designed this Privacy Policy to do just that. It explains the types of personal information we collect, and how we collect, use, maintain, protect, and share this information. This Privacy Policy also tells you about the rights and choices you may have when it comes to your personal information.
 
@@ -65,7 +65,7 @@ Learn more about the information we collect and to see examples.
 
 What We Collect
 
-Account Information Information we use to identify who you are to maintain your account and Services Analytics and Inferences Information related to your household, account, or your use of our Services, and our predictions about what you might like or not like Billing Information Information including your financial transactions that are available on your billing statements and other payment receipts Contact Information Information such as your full name and telephone number that we use to stay in contact with you Demographic and Interest Information Information we obtain from other companies to better tailor our marketing and advertising services to you Service Activity Information Information associated with your use of our Services In some cases, California requires that we use different names to describe the categories of information that we collect. For more information about these categories, please see the Special Information Regarding California Residents’ Privacy Rights, below. How We Collect Personal Information
+Account Information Information we use to identify who you are and/or to provide or maintain your account and Services Analytics and Inferences Information related to your household, account, or your use of our Services, and our predictions about what you might like or not like Billing Information Information including your financial transactions that are available on your billing statements and other payment receipts Contact Information Information such as your full name and telephone number that we use to stay in contact with you Demographic and Interest Information Information we obtain from other companies to better tailor our marketing and advertising services to you Service Activity Information Information associated with your use of our Services In some cases, California requires that we use different names to describe the categories of information that we collect. For more information about these categories, please see the Special Information Regarding California Residents’ Privacy Rights, below. How We Collect Personal Information
 
 We collect personal information about you in several ways.
 
@@ -75,6 +75,7 @@ We collect personal information about you in several ways.
 *   Login credentials for our Services, such as your username and password
 *   Customer communications records, including records of calls and chats with our customer service representatives
 *   Information that you provide when interacting with us on our social media pages, message boards, and other forums, including your username, profile pictures, and comments, as well as information you publicly share about us
+*   Photographs or images of your property
 *   Payment information, such as your credit/debit card or other financial account information
 *   Your Social Security number
 *   Your driver’s license, state identification cards, or other forms of identification
@@ -146,6 +147,7 @@ To Investigate Theft or Other Illegal Activities and to Ensure a Secure Online E
 *   Protect our customers from fraudulent, abusive, or unlawful use of the Services
 *   Protect our rights, our personnel, and our property
 *   Comply with applicable law
+*   To protect the health and safety of our customers, employees, contractors, or the general public
 
 When and With Whom We Share Information
 
@@ -357,6 +359,7 @@ Source From our systems when you opt in to certain features of our Services, suc
 
 *   To provide our Services
 *   To make improvements to our existing Services and create new products, services, or features
+*   To protect the health and safety of our customers, employees, contractors, or the general public
 
 Internet or other electronic network activity information
 
