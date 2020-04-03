@@ -20,13 +20,12 @@
 
 *   Easter
 *   Passover
-*   April Fools' Day
+*   Great Lovers Day
 *   Laugh Week
 *   Spring
-*   Great Lovers Day
+*   Palm Sunday
+*   Good Friday
 *   More...
-    *   Palm Sunday (Apr 5, 2020)
-    *   Good Friday (Apr 10, 2020)
     *   Humor Month (April 2020)
     *   Ram Navami (Apr 2, 2020)
     *   Mahavir Jayanti (Apr 6, 2020)
@@ -34,6 +33,7 @@
     *   Full Moon Day (Apr 8, 2020)
     *   Hanuman Jayanti (Apr 8, 2020)
     *   National Pet Day (Apr 11, 2020)
+    *   Baisakhi (Apr 13, 2020)
     *   National Scrabble Day (Apr 13, 2020)
     *   See All Events
 *   Go
