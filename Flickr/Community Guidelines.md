@@ -1,7 +1,7 @@
-*   Explore
+*   Explore New
     *   Recent Photos
     *   Trending
-    *   Events Beta
+    *   Events
     *   The Commons
     *   Flickr Galleries
     *   World Map
@@ -14,7 +14,7 @@
 *   Log In
 *   Sign Up
 
-*   Explore
+*   Explore New
 *   Trending
 *   Events Beta
 *   The Commons
