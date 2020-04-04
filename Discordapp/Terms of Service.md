@@ -1,6 +1,7 @@
 <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N7BVC2W&gtm\_auth=GI0g9O-54\_SitcgmxQKxlA&gtm\_preview=env-2&gtm\_cookies\_win=x" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Skip to Content
 
 *   Download
+*   Why Discord?
 *   Nitro
 *   Jobs
 *   Developers
@@ -52,6 +53,7 @@
 *   繁體中文
 
 *   Download
+*   Why Discord?
 *   Nitro
 *   Jobs
 *   Developers
