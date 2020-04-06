@@ -20,10 +20,10 @@
 
 *   Easter
 *   Passover
-*   Laugh Week
-*   Spring
 *   Palm Sunday
+*   Spring
 *   Good Friday
+*   Laugh Week
 *   Humor Month
 *   More...
     *   Mahavir Jayanti (Apr 6, 2020)
