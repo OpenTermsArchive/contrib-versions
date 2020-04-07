@@ -33,7 +33,7 @@ _close_
 *   Community
 *   Support
 *   Contact Us
-*   Sign-In _keyboard\_arrow\_right_
+*   Sign in
 *   Goto Myaccount _keyboard\_arrow\_right_
 *   Denver, CO
     
@@ -50,7 +50,7 @@ _close_
 *   TV &. Entertainment
 *   Security
 *   Voice
-*   Kinetic WiFi Manager
+*   Wi-Fi
 *   View All Products
 
 Call now to order 1-866-445-8084
