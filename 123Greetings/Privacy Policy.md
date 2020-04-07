@@ -20,14 +20,12 @@
 
 *   Easter
 *   Passover
-*   Palm Sunday
 *   Spring
 *   Good Friday
 *   Laugh Week
 *   Humor Month
+*   National Beer Day
 *   More...
-    *   Mahavir Jayanti (Apr 6, 2020)
-    *   National Beer Day (Apr 7, 2020)
     *   Hanuman Jayanti (Apr 8, 2020)
     *   Full Moon Day (Apr 8, 2020)
     *   National Pet Day (Apr 11, 2020)
@@ -35,6 +33,8 @@
     *   National Scrabble Day (Apr 13, 2020)
     *   Songkran (Thailand) (Apr 13 - 15, 2020)
     *   Bengali New Year (Apr 14, 2020)
+    *   Malayalam New Year (Apr 14, 2020)
+    *   Tamil New Year (Apr 14, 2020)
     *   See All Events
 *   Go
 
