@@ -16,7 +16,7 @@
 
 *   Explore New
 *   Trending
-*   Events Beta
+*   Events
 *   The Commons
 *   Flickr Galleries
 *   Flickr Blog
