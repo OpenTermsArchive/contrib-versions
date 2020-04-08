@@ -22,9 +22,9 @@
 *   Passover
 *   Spring
 *   Good Friday
+*   National Beer Day
 *   Laugh Week
 *   Humor Month
-*   National Beer Day
 *   More...
     *   Hanuman Jayanti (Apr 8, 2020)
     *   Full Moon Day (Apr 8, 2020)
