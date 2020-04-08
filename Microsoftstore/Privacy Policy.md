@@ -1,4 +1,4 @@
-Microsoft Privacy StatementLast Updated: February 2020 What's new? Expand All Collapse AllPrint
+Microsoft Privacy StatementLast Updated: April 2020 What's new? Expand All Collapse AllPrint
 
 Your privacy is important to us. This privacy statement explains the personal data Microsoft processes, how Microsoft processes it, and for what purposes.
 
@@ -79,7 +79,7 @@ The data we collect can include the following:
 *   **Contacts and relationships**. Data about your contacts and relationships if you use a product to share information with others, manage contacts, communicate with others, or improve your productivity.
 *   **Social data**. Information about your relationships and interactions between you, other people, and organizations, such as types of engagement (e.g., likes, dislikes, events, etc.) related to people and organizations.
 *   **Location data**. Data about your device’s location, which can be either precise or imprecise. For example, we collect location data using Global Navigation Satellite System (GNSS) (e.g., GPS) and data about nearby cell towers and Wi-Fi hotspots. Location can also be inferred from a device’s IP address or data in your account profile that indicates where it is located with less precision, such as at a city or postal code level.
-*   **Other input**. Other inputs provided when you use our products. For example, data such as the buttons you press on an Xbox wireless controller using Xbox Live, skeletal tracking data when you use Kinect, and other sensor data, like the number of steps you take, when you use devices that have applicable sensors. And, if you use Spend, at your direction, we also collect financial transaction data from your credit card issuer to provide the service.
+*   **Other input**. Other inputs provided when you use our products. For example, data such as the buttons you press on an Xbox wireless controller using Xbox Live, skeletal tracking data when you use Kinect, and other sensor data, like the number of steps you take, when you use devices that have applicable sensors. And, if you use Spend, at your direction, we also collect financial transaction data from your credit card issuer to provide the service. If you attend an in-store event, we collect the data you provide to us when registering for or during the event and if you enter into a prize promotion, we collect the data you input into the entry form.
 
 **Content**. Content of your files and communications you input, upload, receive, create, and control. For example, if you transmit a file using Skype to another Skype user, we need to collect the content of that file to display it to you and the other user. If you receive an email using Outlook.com, we need to collect the content of that email to deliver it to your inbox, display it to you, enable you to reply to it, and store it for you until you choose to delete it. Other content we collect when providing products to you include:
 
@@ -136,6 +136,7 @@ When we process personal data about you, we do so with your consent and/or as re
 *   **Promotional communications.** We use data we collect to deliver promotional communications. You can sign up for email subscriptions and choose whether you wish to receive promotional communications from Microsoft by email, SMS, physical mail, and telephone. For information about managing your contact data, email subscriptions, and promotional communications, see the How to access and control your personal data section of this privacy statement.
 *   **Relevant offers.** Microsoft uses data to provide you with relevant and valuable information regarding our products. We analyze data from a variety of sources to predict the information that will be most interesting and relevant to you and deliver such information to you in a variety of ways. For example, we may predict your interest in gaming and communicate with you about new games you may like.
 *   **Advertising.** Microsoft does not use what you say in email, chat, video calls, or voice mail, or your documents, photos, or other personal files to target ads to you. We use data we collect through our interactions with you, through some of our products, and on third-party web properties, for advertising in our products and on third-party properties. We may use automated processes to help make advertising more relevant to you. For more information about how your data is used for advertising, see the Advertising section of this privacy statement.
+*   **Prize promotions and events.** We use your data to administer prize promotions and events available in our physical Microsoft Stores. For example, if you enter into a prize promotion, we may use your data to select a winner and provide the prize to you if you win. Or, if you register for a coding workshop or gaming event, we will add your name to the list of expected attendees.
 *   **Transacting commerce.** We use data to carry out your transactions with us. For example, we process payment information to provide customers with product subscriptions and use contact information to deliver goods purchased from the Microsoft Store.
 *   **Reporting and business operations.** We use data to analyze our operations and perform business intelligence. This enables us to make informed decisions and report on the performance of our business.
 *   **Protecting rights and property.** We use data to detect and prevent fraud, resolve disputes, enforce agreements, and protect our property. For example, we use data to confirm the validity of software licenses to reduce piracy. We may use automated processes to detect and prevent activities that violate our rights and the rights of others, such as fraud.
@@ -283,7 +284,7 @@ In addition to the cookies Microsoft sets when you visit our websites, third par
 
 **How to control cookies**
 
-Most web browsers automatically accept cookies but provide controls that allow you to block or delete them. For example, in Microsoft Edge, you can block or delete cookies by selecting **Settings** \> **Privacy and services** \> **Clear Browsing data** >. **Cookies and other site data**. For more information about how to delete your cookies in Microsoft browsers, see Microsoft Edge, Microsoft Edge Legacy or Internet Explorer. If you use a different browser, refer to that browser’s instructions. .
+Most web browsers automatically accept cookies but provide controls that allow you to block or delete them. For example, in Microsoft Edge, you can block or delete cookies by selecting **Settings** \> **Privacy and services** \> **Clear Browsing data** >. **Cookies and other site data**. For more information about how to delete your cookies in Microsoft browsers, see Microsoft Edge, Microsoft Edge Legacy or Internet Explorer. If you use a different browser, refer to that browser’s instructions.
 
 Certain features of Microsoft products depend on cookies. If you choose to block cookies, you cannot sign in or use some of those features, and preferences that are dependent on cookies will be lost. If you choose to delete cookies, any settings and preferences controlled by those cookies, including advertising preferences, are deleted and will need to be recreated.
 
@@ -307,7 +308,7 @@ In addition to standard cookies and web beacons, our products can also use other
 
 Learn moreTop of page Products provided by your organization—notice to end usersProducts provided by your organization—notice to end users
 
-If you use a Microsoft product provided by an organization you are affiliated with, such as an employer or school, and you use your work or school account to access that Microsoft product, that organization can:
+If you use a Microsoft product with an account provided by an organization you are affiliated with, such as your work or school account, that organization can:
 
 *   Control and administer your Microsoft product and product account, including controlling privacy-related settings of the product or product account.
 *   Access and process your data, including the interaction data, diagnostic data, and the contents of your communications and files associated with your Microsoft product and product accounts.
@@ -322,7 +323,7 @@ For Microsoft products provided by your K-12 school, including Microsoft 365 Edu
 
 *   not collect or use student personal data beyond that needed for authorized educational or school purposes;
 *   not sell or rent student personal data;
-*   not use or share student personal data for advertising or similar commercial purposes, such as behavioral targeting of advertisements to students.
+*   not use or share student personal data for advertising or similar commercial purposes, such as behavioral targeting of advertisements to students;
 *   not build a personal profile of a student, other than for supporting authorized educational or school purposes or as authorized by the parent, guardian, or student of appropriate age. and
 *   require that our vendors with whom student personal data is shared to deliver the educational service, if any, are obligated to implement these same commitments for student personal data.
 
@@ -772,9 +773,7 @@ Whenever you use a web browser to access the internet, data about your device ("
 
 **Microsoft Edge for Windows and macOS**. Microsoft Edge is the default web browser for Windows 10 and is also available on other supported versions of Windows and macOS.
 
-Data about how you use your browser, such as your browsing history, web form data, temporary internet files, and cookies, is stored on your device. You can delete this data from
-
-your device using Clear Browsing History.
+Data about how you use your browser, such as your browsing history, web form data, temporary internet files, and cookies, is stored on your device. You can delete this data from your device using Clear Browsing History.
 
 Microsoft Edge allows you to capture and save content on your device, such as:
 
@@ -1263,7 +1262,7 @@ The data we collect can include the following:
 *   **Contacts and relationships**. Data about your contacts and relationships if you use a product to share information with others, manage contacts, communicate with others, or improve your productivity.
 *   **Social data**. Information about your relationships and interactions between you, other people, and organizations, such as types of engagement (e.g., likes, dislikes, events, etc.) related to people and organizations.
 *   **Location data**. Data about your device’s location, which can be either precise or imprecise. For example, we collect location data using Global Navigation Satellite System (GNSS) (e.g., GPS) and data about nearby cell towers and Wi-Fi hotspots. Location can also be inferred from a device’s IP address or data in your account profile that indicates where it is located with less precision, such as at a city or postal code level.
-*   **Other input**. Other inputs provided when you use our products. For example, data such as the buttons you press on an Xbox wireless controller using Xbox Live, skeletal tracking data when you use Kinect, and other sensor data, like the number of steps you take, when you use devices that have applicable sensors. And, if you use Spend, at your direction, we also collect financial transaction data from your credit card issuer to provide the service.
+*   **Other input**. Other inputs provided when you use our products. For example, data such as the buttons you press on an Xbox wireless controller using Xbox Live, skeletal tracking data when you use Kinect, and other sensor data, like the number of steps you take, when you use devices that have applicable sensors. And, if you use Spend, at your direction, we also collect financial transaction data from your credit card issuer to provide the service. If you attend an in-store event, we collect the data you provide to us when registering for or during the event and if you enter into a prize promotion, we collect the data you input into the entry form.
 
 **Content**. Content of your files and communications you input, upload, receive, create, and control. For example, if you transmit a file using Skype to another Skype user, we need to collect the content of that file to display it to you and the other user. If you receive an email using Outlook.com, we need to collect the content of that email to deliver it to your inbox, display it to you, enable you to reply to it, and store it for you until you choose to delete it. Other content we collect when providing products to you include:
 
@@ -1322,6 +1321,7 @@ When we process personal data about you, we do so with your consent and/or as re
 *   **Promotional communications.** We use data we collect to deliver promotional communications. You can sign up for email subscriptions and choose whether you wish to receive promotional communications from Microsoft by email, SMS, physical mail, and telephone. For information about managing your contact data, email subscriptions, and promotional communications, see the How to access and control your personal data section of this privacy statement.
 *   **Relevant offers.** Microsoft uses data to provide you with relevant and valuable information regarding our products. We analyze data from a variety of sources to predict the information that will be most interesting and relevant to you and deliver such information to you in a variety of ways. For example, we may predict your interest in gaming and communicate with you about new games you may like.
 *   **Advertising.** Microsoft does not use what you say in email, chat, video calls, or voice mail, or your documents, photos, or other personal files to target ads to you. We use data we collect through our interactions with you, through some of our products, and on third-party web properties, for advertising in our products and on third-party properties. We may use automated processes to help make advertising more relevant to you. For more information about how your data is used for advertising, see the Advertising section of this privacy statement.
+*   **Prize promotions and events.** We use your data to administer prize promotions and events available in our physical Microsoft Stores. For example, if you enter into a prize promotion, we may use your data to select a winner and provide the prize to you if you win. Or, if you register for a coding workshop or gaming event, we will add your name to the list of expected attendees.
 *   **Transacting commerce.** We use data to carry out your transactions with us. For example, we process payment information to provide customers with product subscriptions and use contact information to deliver goods purchased from the Microsoft Store.
 *   **Reporting and business operations.** We use data to analyze our operations and perform business intelligence. This enables us to make informed decisions and report on the performance of our business.
 *   **Protecting rights and property.** We use data to detect and prevent fraud, resolve disputes, enforce agreements, and protect our property. For example, we use data to confirm the validity of software licenses to reduce piracy. We may use automated processes to detect and prevent activities that violate our rights and the rights of others, such as fraud.
@@ -1475,7 +1475,7 @@ In addition to the cookies Microsoft sets when you visit our websites, third par
 
 **How to control cookies**
 
-Most web browsers automatically accept cookies but provide controls that allow you to block or delete them. For example, in Microsoft Edge, you can block or delete cookies by selecting **Settings** \> **Privacy and services** \> **Clear Browsing data** >. **Cookies and other site data**. For more information about how to delete your cookies in Microsoft browsers, see Microsoft Edge, Microsoft Edge Legacy or Internet Explorer. If you use a different browser, refer to that browser’s instructions. .
+Most web browsers automatically accept cookies but provide controls that allow you to block or delete them. For example, in Microsoft Edge, you can block or delete cookies by selecting **Settings** \> **Privacy and services** \> **Clear Browsing data** >. **Cookies and other site data**. For more information about how to delete your cookies in Microsoft browsers, see Microsoft Edge, Microsoft Edge Legacy or Internet Explorer. If you use a different browser, refer to that browser’s instructions.
 
 Certain features of Microsoft products depend on cookies. If you choose to block cookies, you cannot sign in or use some of those features, and preferences that are dependent on cookies will be lost. If you choose to delete cookies, any settings and preferences controlled by those cookies, including advertising preferences, are deleted and will need to be recreated.
 
@@ -1499,7 +1499,7 @@ In addition to standard cookies and web beacons, our products can also use other
 
 Products provided by your organization—notice to end usersProducts provided by your organization—notice to end usersmainnoticetoendusersmoduleSummary
 
-If you use a Microsoft product provided by an organization you are affiliated with, such as an employer or school, and you use your work or school account to access that Microsoft product, that organization can:
+If you use a Microsoft product with an account provided by an organization you are affiliated with, such as your work or school account, that organization can:
 
 *   Control and administer your Microsoft product and product account, including controlling privacy-related settings of the product or product account.
 *   Access and process your data, including the interaction data, diagnostic data, and the contents of your communications and files associated with your Microsoft product and product accounts.
@@ -1514,7 +1514,7 @@ For Microsoft products provided by your K-12 school, including Microsoft 365 Edu
 
 *   not collect or use student personal data beyond that needed for authorized educational or school purposes;
 *   not sell or rent student personal data;
-*   not use or share student personal data for advertising or similar commercial purposes, such as behavioral targeting of advertisements to students.
+*   not use or share student personal data for advertising or similar commercial purposes, such as behavioral targeting of advertisements to students;
 *   not build a personal profile of a student, other than for supporting authorized educational or school purposes or as authorized by the parent, guardian, or student of appropriate age. and
 *   require that our vendors with whom student personal data is shared to deliver the educational service, if any, are obligated to implement these same commitments for student personal data.
 
@@ -1966,9 +1966,7 @@ Whenever you use a web browser to access the internet, data about your device ("
 
 **Microsoft Edge for Windows and macOS**. Microsoft Edge is the default web browser for Windows 10 and is also available on other supported versions of Windows and macOS.
 
-Data about how you use your browser, such as your browsing history, web form data, temporary internet files, and cookies, is stored on your device. You can delete this data from
-
-your device using Clear Browsing History.
+Data about how you use your browser, such as your browsing history, web form data, temporary internet files, and cookies, is stored on your device. You can delete this data from your device using Clear Browsing History.
 
 Microsoft Edge allows you to capture and save content on your device, such as:
 
