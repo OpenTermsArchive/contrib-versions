@@ -1,4 +1,6 @@
-Amazon Device Support  › Amazon Device Terms, Warranties, and Notices › Backup and Restore FAQ What is Backup and Restore?
+Find more solutions
+
+Go Amazon Device Support  › Amazon Device Terms, Warranties, and Notices › Backup and Restore FAQ What is Backup and Restore?
 
 Backup and Restore is a feature that, once enabled, backs up your Fire tablet settings, email and wireless configurations, bookmarks, search history and more to the Cloud. Backup and Restore runs when your Fire tablet is idle and connected to Wi-Fi, so please connect your Fire tablet to Wi-Fi on a regular basis. Backup data can be used to quickly set up a new device or to restore your existing device after a reset. We'll expand this feature over time so that additional items are backed up.
 
@@ -25,5 +27,3 @@ Please select what best describes the information:
 This information is confusing or wrong This isn't the information I was looking for I don't like this policy Submit
 
 Thanks! While we're unable to respond directly to your feedback, we'll use this information to improve our online Help.
-
-Go
