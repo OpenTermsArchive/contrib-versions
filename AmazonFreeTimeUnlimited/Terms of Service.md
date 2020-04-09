@@ -1,4 +1,6 @@
-Amazon Device Support  › Amazon Device Terms, Warranties, and Notices › Amazon FreeTime Unlimited Terms &. Conditions
+Find more solutions
+
+Go Amazon Device Support  › Amazon Device Terms, Warranties, and Notices › Amazon FreeTime Unlimited Terms &. Conditions
 
 **Last updated: October 7, 2019**
 
@@ -30,5 +32,3 @@ Please select what best describes the information:
 This information is confusing or wrong This isn't the information I was looking for I don't like this policy Submit
 
 Thanks! While we're unable to respond directly to your feedback, we'll use this information to improve our online Help.
-
-Go
