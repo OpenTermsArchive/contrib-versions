@@ -22,7 +22,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   12 (last comment by kikissforever 4 weeks ago)
 *   HELP
     *   by BRITT\_\_LOVE
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
