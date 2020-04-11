@@ -30,6 +30,7 @@ Policies &. Guidelines
 *   API
 *   Community
 *   Cookies
+*   Data Processing
 
 Flickr Community guidelines
 
