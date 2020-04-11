@@ -2,18 +2,18 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   how can i access my old blogs
+    *   \[Resolved\] by e\_e
+    *   6 years ago
+    *   in Data Migration
+    *   0 votes
+    *   13 (last comment by ItsKuteKat2u 2 hours ago)
 *   Please reactivate my Xanga post
     *   by catherine\_mtc
     *   3 weeks ago
     *   in Themes
     *   0 votes
     *   0
-*   how can i access my old blogs
-    *   \[Resolved\] by e\_e
-    *   6 years ago
-    *   in Data Migration
-    *   0 votes
-    *   12 (last comment by kikissforever 1 month ago)
 *   HELP
     *   by BRITT\_\_LOVE
     *   1 month ago
@@ -40,7 +40,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Can’t archive old blog
     *   by janny\_wanny
-    *   1 month ago
+    *   2 months ago
     *   in Data Migration
     *   0 votes
     *   0
