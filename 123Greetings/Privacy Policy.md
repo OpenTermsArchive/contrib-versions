@@ -19,9 +19,9 @@
 *   MorePetsWorld LanguagesFlowersAt WorkWeddingKeep in TouchInvitations
 
 *   Easter
+*   Good Friday
 *   Passover
 *   Spring
-*   Good Friday
 *   Orthodox Easter
 *   April Showers Day
 *   Tax Day
