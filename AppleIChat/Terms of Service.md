@@ -26,6 +26,12 @@ Terms relevant to the use of iCloud.
 
 View iCloud terms
 
+TestFlight Terms &. Conditions
+
+Terms and conditions applicable to the use of TestFlight.
+
+Review TestFlight terms
+
 Privacy Policy
 
 Apple is committed to your privacy. Read our customer Privacy Policy for a clear explanation of how we collect, use, disclose, transfer, and store your information. Learn how to review any information that may be associated with you.
