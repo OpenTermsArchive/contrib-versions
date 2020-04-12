@@ -7,10 +7,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   6 years ago
     *   in Data Migration
     *   0 votes
-    *   13 (last comment by ItsKuteKat2u 2 hours ago)
+    *   13 (last comment by ItsKuteKat2u 1 day ago)
 *   Please reactivate my Xanga post
     *   by catherine\_mtc
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Themes
     *   0 votes
     *   0
@@ -73,7 +73,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Themes
     *   0 votes
-    *   2 (last comment by JacK\_Puk 2 months ago)
+    *   2 (last comment by JacK\_Puk 3 months ago)
 *   i dont have data Archive in my page
     *   by JacK\_Puk
     *   3 months ago
