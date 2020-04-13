@@ -27,7 +27,6 @@
 *   Baisakhi
 *   More...
     *   Administrative Professionals Day® (Apr 22, 2020)
-    *   National Pet Day (Apr 11, 2020)
     *   Humor Month (April 2020)
     *   National Scrabble Day (Apr 13, 2020)
     *   Songkran (Thailand) (Apr 13 - 15, 2020)
@@ -35,6 +34,7 @@
     *   Malayalam New Year (Apr 14, 2020)
     *   Tamil New Year (Apr 14, 2020)
     *   Tax Day (Apr 15, 2020)
+    *   St. George's Day (Apr 23, 2020)
     *   See All Events
 *   Go
 
