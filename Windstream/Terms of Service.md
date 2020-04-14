@@ -116,8 +116,8 @@ Back to About Page
     *   Acceptable Use Policy
     *   Broadband Network Statement
     *   DPS complaints
-    *   Legal Notices
     *   Offer Conditions
+    *   Legal Notices
     *   Privacy Policy
     *   Procurement Terms and Conditions
     *   Kinetic Business Terms and Conditions
@@ -161,8 +161,8 @@ Back to About Page
         *   Acceptable Use Policy
         *   Broadband Network Statement
         *   DPS complaints
-        *   Legal Notices
         *   Offer Conditions
+        *   Legal Notices
         *   Privacy Policy
         *   Procurement Terms and Conditions
         *   Kinetic Business Terms and Conditions
