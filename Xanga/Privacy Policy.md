@@ -7,7 +7,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   6 years ago
     *   in Data Migration
     *   0 votes
-    *   13 (last comment by ItsKuteKat2u 3 days ago)
+    *   13 (last comment by ItsKuteKat2u 4 days ago)
 *   Please reactivate my Xanga post
     *   by catherine\_mtc
     *   1 month ago
