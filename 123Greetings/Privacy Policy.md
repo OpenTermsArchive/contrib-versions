@@ -18,23 +18,23 @@
 *   Events &. Holidays
 *   MorePetsWorld LanguagesFlowersAt WorkWeddingKeep in TouchInvitations
 
-*   Easter
 *   Passover
 *   Spring
 *   Orthodox Easter
-*   April Showers Day
-*   Earth Day
-*   Baisakhi
+*   Administrative Professionals Day®
 *   More...
-    *   Administrative Professionals Day® (Apr 22, 2020)
-    *   National Scrabble Day (Apr 13, 2020)
-    *   Songkran (Thailand) (Apr 13 - 15, 2020)
-    *   Humor Month (April 2020)
+    *   April Showers Day (Apr 22, 2020)
+    *   Earth Day (Apr 22, 2020)
     *   Bengali New Year (Apr 14, 2020)
     *   Malayalam New Year (Apr 14, 2020)
     *   Tamil New Year (Apr 14, 2020)
+    *   Songkran (Thailand) (Apr 13 - 15, 2020)
+    *   Humor Month (April 2020)
     *   Tax Day (Apr 15, 2020)
     *   St. George's Day (Apr 23, 2020)
+    *   Ramadan (Apr 23 - May 23, 2020)
+    *   National Arbor Day (Apr 24, 2020)
+    *   World Intellectual Property Day (Apr 26, 2020)
     *   See All Events
 *   Go
 
