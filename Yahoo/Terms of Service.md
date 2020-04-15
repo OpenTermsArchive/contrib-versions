@@ -405,7 +405,7 @@ Europe, Middle East and Africa
         
         1.  Applicable Verizon Media Entity:
             
-            1.  For Yahoo Answers, Yahoo Celebrity, Yahoo Cricket, Yahoo Finance, Yahoo Groups, Yahoo Lifestyle, Yahoo Mail, Yahoo Movies, Yahoo News, Yahoo Search, Yahoo Travel, and Yahoo Weather the Applicable Verizon Media Entity is Yahoo India Private Limited (CIN: U72900MH2000PTC138698) (Address: Unit No. 304, 3rd Floor, Satellite Gazebo, East Wing, Guru Hargovindji Marg, (A G Link Road), Andheri (East), Mumbai – 400093, India) and the following terms apply: (a) “Minimum Age” means 15 years old, provided that if you are between 15 and 18 years of age, you must have parental or legal guardian permission to use the Services or register for an account, (b) you must be at least 15 years old in order to agree with our Terms, provided that if you are between 15 and 18 years of age, you must have parental or legal guardian permission to do so, (c) the Terms and the relationship between you and Yahoo India Private Limited will be governed by the laws of India without regard to its conflict of law provisions, and (d) you and Yahoo India Private Limited agree to submit to the exclusive jurisdiction of the courts located at Mumbai, India.
+            1.  For Yahoo Answers, Yahoo Celebrity, Yahoo Cricket, Yahoo Finance, Yahoo Groups, Yahoo Lifestyle, Yahoo Mail, Yahoo Movies, Yahoo News, Yahoo Search, Yahoo Travel, and Yahoo Weather the Applicable Verizon Media Entity is Yahoo India Private Limited (CIN: U72900MH2000PTC138698) (Address: Unit No. 304, 3rd Floor, Satellite Gazebo, East Wing, Guru Hargovindji Marg, (A G Link Road), Andheri (East), Mumbai – 400093, India) and the following terms apply: (a) “Minimum Age” means 13 years old, provided that if you are between 13 and 18 years of age, you must have parental or legal guardian permission to use the Services or register for an account, (b) you must be at least 13 years old in order to agree with our Terms, provided that if you are between 13 and 18 years of age, you must have parental or legal guardian permission to do so, (c) the Terms and the relationship between you and Yahoo India Private Limited will be governed by the laws of India without regard to its conflict of law provisions, and (d) you and Yahoo India Private Limited agree to submit to the exclusive jurisdiction of the courts located at Mumbai, India.
                 
             2.  For other Services:
                 
@@ -581,4 +581,4 @@ Europe, Middle East and Africa
     14.  Additional terms for German users can be found here.
         
 
-_Last updated: 7 April 2020_
+_Last updated: 9 April 2020_
