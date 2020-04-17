@@ -28,13 +28,13 @@
     *   Passover (Apr 8 - 16, 2020)
     *   Administrative Professionals Day® (Apr 22, 2020)
     *   May Day (May 1, 2020)
-    *   Tax Day (Apr 15, 2020)
-    *   Songkran (Thailand) (Apr 13 - 15, 2020)
+    *   Hug Holiday Week (May 3 - 9, 2020)
     *   Humor Month (April 2020)
     *   St. George's Day (Apr 23, 2020)
     *   Ramadan (Apr 23 - May 23, 2020)
     *   National Arbor Day (Apr 24, 2020)
     *   World Intellectual Property Day (Apr 26, 2020)
+    *   Graduation (May - Jun, 2020)
     *   See All Events
 *   Go
 
