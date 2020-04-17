@@ -48,7 +48,7 @@ We receive and store information about you such as:
         
     *   payment service providers who provide us with payment information, or updates to that information, based on their relationship with you.
         
-    *   online and offline data providers, from which we obtain demographic, interest based and online advertising related data.
+    *   online and offline data providers, from which we obtain aggregated demographic, interest based and online advertising related data.
         
     *   publicly-available sources such as publicly available posts on social media platforms and information available through public databases associating IP addresses with internet service providers (ISPs).
         
@@ -74,7 +74,7 @@ We disclose your information for certain purposes and to third parties, as descr
 
 *   **The Netflix family of companies:** We share your information among the Netflix family of companies (https://help.netflix.com/support/2101) as needed for: data processing and storage. providing you with access to our services. providing customer support. making decisions about service improvements. content development. and for other purposes described in the Use of Information section of this Privacy Statement.
     
-*   **Service Providers:** We use other companies, agents or contractors ("Service Providers") to perform services on our behalf or to assist us with the provision of services to you. For example, we engage Service Providers to provide marketing, advertising, communications, infrastructure and IT services, to personalize and optimize our service, to process credit card transactions or other payment methods, to provide customer service, to collect debts, to analyze and enhance data (including data about users' interactions with our service), and to process and administer consumer surveys. In the course of providing such services, these Service Providers may have access to your personal or other information. We do not authorize them to use or disclose your personal information except in connection with providing their services (which includes maintaining and improving their services).
+*   **Service Providers:** We use other companies, agents or contractors ("Service Providers") to perform services on our behalf or to assist us with the provision of services to you. For example, we engage Service Providers to provide marketing, advertising, communications, infrastructure and IT services, to personalize and optimize our service, to process credit card transactions or other payment methods, to provide customer service, to analyze and enhance data (including data about users' interactions with our service), and to process and administer consumer surveys. In the course of providing such services, these Service Providers may have access to your personal or other information. We do not authorize them to use or disclose your personal information except in connection with providing their services (which includes maintaining and improving their services).
     
 *   **Partners:** As described above, you may have a relationship with one or more of our Partners, in which case we may share certain information with them in order to coordinate with them on providing the Netflix service to members and providing information about the availability of the Netflix service. For example, depending on what Partner services you use, we may share information:
     
