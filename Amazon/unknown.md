@@ -1,4 +1,6 @@
-Amazon Device Support  › Amazon Device Terms, Warranties, and Notices › Location Services FAQ
+Find more solutions
+
+Go Amazon Device Support  › Amazon Device Terms, Warranties, and Notices › Location Services FAQ
 
 How do location services work on Fire tablets?
 
@@ -41,5 +43,3 @@ Please select what best describes the information:
 This information is confusing or wrong This isn't the information I was looking for I don't like this policy Submit
 
 Thanks! While we're unable to respond directly to your feedback, we'll use this information to improve our online Help.
-
-Go
