@@ -1,4 +1,6 @@
-Amazon Device Support  › Amazon Device Terms, Warranties, and Notices › Kindle Special Offer Text Notifications Terms &. Conditions
+Find more solutions
+
+Go Amazon Device Support  › Amazon Device Terms, Warranties, and Notices › Kindle Special Offer Text Notifications Terms &. Conditions
 
 The short code 262966 is used by Amazon.com to send automated text notifications (U.S. only). If you agree to receive text notifications from Amazon, you will receive text messages when there is an upcoming limited-time, limited-quantity deal exclusively available on your Kindle Fire with Special Offers. Messages will be sent between 8am - 6pm PT. **Frequency varies. Message and data rates may apply.**
 
@@ -25,5 +27,3 @@ Please select what best describes the information:
 This information is confusing or wrong This isn't the information I was looking for I don't like this policy Submit
 
 Thanks! While we're unable to respond directly to your feedback, we'll use this information to improve our online Help.
-
-Go
