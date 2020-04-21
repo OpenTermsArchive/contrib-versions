@@ -18,20 +18,20 @@
 *   Events &. Holidays
 *   MorePetsWorld LanguagesFlowersAt WorkWeddingKeep in TouchInvitations
 
-*   Orthodox Easter
+*   Administrative Professionals Day®
+*   Spring
 *   April Showers Day
 *   Earth Day
-*   Dance Day
-*   Spring
-*   May Day
-*   Ramadan
 *   More...
-    *   Administrative Professionals Day® (Apr 22, 2020)
+    *   Dance Day (Apr 29, 2020)
+    *   Cinco de Mayo (May 5, 2020)
+    *   May Day (May 1, 2020)
     *   May Flowers (May 2020)
     *   Hug Holiday Week (May 3 - 9, 2020)
     *   Naked Day (May 4, 2020)
     *   Humor Month (April 2020)
     *   St. George's Day (Apr 23, 2020)
+    *   Ramadan (Apr 23 - May 23, 2020)
     *   National Arbor Day (Apr 24, 2020)
     *   World Intellectual Property Day (Apr 26, 2020)
     *   Graduation (May - Jun, 2020)
