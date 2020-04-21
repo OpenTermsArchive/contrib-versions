@@ -664,12 +664,6 @@ Aetna may change this Privacy Statement from time to time. when updates are made
 
 Privacy statement update: 9/19/17
 
-*   instagram
-*   Facebook
-*   Twitter
-*   YouTube
-*   Linkedin
-
 *   AETNA APPS  
     
 *   CAREERS
