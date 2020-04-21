@@ -1,8 +1,8 @@
 Terms of Use Terms of Use for the BBC’s digital services
 
-Page updated: 31 October 2018 Version 1.5
+Page updated: 20 April 2020 Version 1.5
 
-*   Download the Terms of Use as a PDF
+*   Download the BBC Terms of Use as a PDF
 
 Sections
 
