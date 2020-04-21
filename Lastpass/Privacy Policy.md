@@ -1,6 +1,7 @@
 LogMeIn Privacy Policy
 
-Last Updated on December 31, 2019
+Last Updated on December 31, 2019\*  
+\*APEC Cross Border Privacy Rules System Statement Added on April 17, 2020
 
 **Introduction**
 
@@ -36,7 +37,7 @@ We collect several different types of information, including:
 
 **Third Party Data:** We may receive information about you from other sources, including publicly available databases or from third parties from whom we have purchased data, and combine this data with information we already have about you. We may also receive information from other affiliated companies that are a part of our corporate group. This third-party data is obtained for our legitimate business interests and helps us to update, expand and analyze our records, identify new prospects for marketing, and provide products and services that may be of interest to you.
 
-**Location Information:** We collect your location-based information for the purpose of providing and supporting the Service and for fraud prevention and security monitoring. If you wish to opt-out of the collection and use of your collection information, you may do so by disabling location services on your mobile device.
+**Location Information:** We collect your location-based information for the purpose of providing and supporting the Service and for fraud prevention and security monitoring. If you wish to opt-out of the collection and use of your location information, you may do so by disabling location services on your mobile device.
 
 **Device Information:** When you use our online and mobile Services, we may automatically collect information about the type of device you use, for example, the operating system version or the device identifier (or "UDID").
 
@@ -163,7 +164,7 @@ You can also ask about:
 *   how long we will retain your personal information or how that retention period will be determined. and
 *   the safeguards in place to protect your information when it is transferred to third parties or third countries.
 
-Finally, you can ask us: (a) not to collect or use your personal information for certain purposes. (b) to delete your personal information. or (c) to provide your personal information to a third party.
+Finally, you can ask us: (a) not to collect or use your personal information for certain purposes. (b) to update or delete your personal information. or (c) to provide your personal information to a third party.
 
 To make any of these requests, please contact us at https://support.logmeininc.com/contactus which allows you to make a request online or through a phone call.
 
@@ -178,6 +179,10 @@ If you wish to no longer receive marketing communications from us, you can opt-o
 You may also have the right to complain to a regulatory authority. If you have a question or complaint, we ask that you please contact us first. If you are in the EU and we are unable to resolve your complaint, you may complain to the Data Protection Authority in your home country.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
+
+**APEC Cross Border Privacy Rules System**
+
+LogMeIn’s privacy practices, described in this Privacy Policy, comply with the APEC Cross Border Privacy Rules System. The APEC CBPR system provides a framework for organizations to ensure protection of personal information transferred among participating APEC economies. More information about the APEC framework can be found here.
 
 **EU-U.S. and Swiss Privacy Shield**
 
