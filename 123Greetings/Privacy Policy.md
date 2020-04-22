@@ -24,9 +24,9 @@
 *   Earth Day
 *   More...
     *   Dance Day (Apr 29, 2020)
-    *   Cinco de Mayo (May 5, 2020)
     *   May Day (May 1, 2020)
     *   May Flowers (May 2020)
+    *   Cinco de Mayo (May 5, 2020)
     *   Hug Holiday Week (May 3 - 9, 2020)
     *   Naked Day (May 4, 2020)
     *   Humor Month (April 2020)
