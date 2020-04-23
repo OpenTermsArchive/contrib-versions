@@ -4,19 +4,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Can’t find my old page
     *   by may\_tam
-    *   43 minutes ago
+    *   1 day ago
     *   in Themes
     *   0 votes
     *   0
 *   Can’t find my old page
     *   by may\_tam
-    *   43 minutes ago
+    *   1 day ago
     *   in Themes
     *   0 votes
     *   0
 *   Can’t find my old page
     *   by may\_tam
-    *   43 minutes ago
+    *   1 day ago
     *   in Themes
     *   0 votes
     *   0
