@@ -1,22 +1,28 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
 *   Can’t find my old page
     *   by may\_tam
-    *   1 day ago
+    *   2 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Can’t find my old page
     *   by may\_tam
-    *   1 day ago
+    *   2 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Can’t find my old page
     *   by may\_tam
-    *   1 day ago
+    *   2 days ago
     *   in Themes
     *   0 votes
     *   0
@@ -40,7 +46,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   How to completely shut down old Xanga Account?
     *   by Louic
-    *   1 month ago
+    *   2 months ago
     *   in Privacy
     *   0 votes
     *   0
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
