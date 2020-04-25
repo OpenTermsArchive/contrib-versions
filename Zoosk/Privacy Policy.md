@@ -277,7 +277,7 @@ Attn: Legal
 3300 N. Ashton Blvd, Suite 240  
 Lehi, UT 84043  
 United States  
-Email: legal@spark.net
+Email: dataprotectionofficer@zoosk.com
 
 7\. MISCELLANEOUS
 
@@ -363,7 +363,7 @@ We will update this Cookie Notice from time to time. When we make changes to thi
 
 **Contact Us**
 
-If you have any questions or requests in connection with this Cookie Notice or other privacy-related matters, please send an email to legal@spark.net
+If you have any questions or requests in connection with this Cookie Notice or other privacy-related matters, please send an email to dataprotectionofficer@zoosk.com
 
 Alternatively, inquiries may be addressed to:
 
