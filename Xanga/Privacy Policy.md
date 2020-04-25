@@ -10,19 +10,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Can’t find my old page
     *   by may\_tam
-    *   2 days ago
+    *   3 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Can’t find my old page
     *   by may\_tam
-    *   2 days ago
+    *   3 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Can’t find my old page
     *   by may\_tam
-    *   2 days ago
+    *   3 days ago
     *   in Themes
     *   0 votes
     *   0
@@ -31,7 +31,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   6 years ago
     *   in Data Migration
     *   0 votes
-    *   13 (last comment by ItsKuteKat2u 1 week ago)
+    *   13 (last comment by ItsKuteKat2u 2 weeks ago)
 *   Please reactivate my Xanga post
     *   by catherine\_mtc
     *   1 month ago
