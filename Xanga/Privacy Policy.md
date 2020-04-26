@@ -1,28 +1,22 @@
-Skip to toolbar
-
-*   Xanga
-
-*   Log In
-
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
 *   Can’t find my old page
     *   by may\_tam
-    *   3 days ago
+    *   4 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Can’t find my old page
     *   by may\_tam
-    *   3 days ago
+    *   4 days ago
     *   in Themes
     *   0 votes
     *   0
 *   Can’t find my old page
     *   by may\_tam
-    *   3 days ago
+    *   4 days ago
     *   in Themes
     *   0 votes
     *   0
@@ -70,7 +64,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   You are holding my data ransom
     *   by justraveit
-    *   2 months ago
+    *   3 months ago
     *   in Data Migration
     *   0 votes
     *   1 (last comment by skiwithmenes 2 months ago)
@@ -156,4 +150,8 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
+
+*   Xanga
+
+*   Log In
