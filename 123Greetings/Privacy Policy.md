@@ -30,11 +30,11 @@
     *   Hug Holiday Week (May 3 - 9, 2020)
     *   Cinco de Mayo (May 5, 2020)
     *   Teachers' Day (May 5, 2020)
-    *   National Arbor Day (Apr 24, 2020)
     *   Humor Month (April 2020)
     *   Get Happy Week (May 1 - 7, 2020)
     *   Graduation (May - Jun, 2020)
     *   Brothers &. Sisters Day (May 2, 2020)
+    *   Nurses Day (May 6, 2020)
     *   See All Events
 *   Go
 
