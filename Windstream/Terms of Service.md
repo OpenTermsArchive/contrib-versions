@@ -1,4 +1,4 @@
-<iframe aria-hidden="true" title="Google Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-THS7L57" height="0" width="0" style="display:none;visibility:hidden"></iframe>. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
+<iframe aria-hidden="true" title="Google Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-THS7L57" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
 
 *   Residential
 *   |
@@ -655,8 +655,7 @@ State ALARAZFLGAIAKSKYMIMNMOMSNCNENMNYOHOKPASCTX Check Availability
 Already a customer? Sign in
 
   
-Need help?  
-Call 1-855-944-29611-855-944-2961 or Chat Now No Chat Available .
+Or call to order 1-855-944-29611-855-944-2961 or Chat Now No Chat Available .
 
 We still canï¿½t find your address. Contact us to see if youï¿½re in our service area.
 
@@ -672,8 +671,8 @@ Pick the correct address from this list to see the best deals available , or use
 
 Submit Change Address Change Address
 
-Need help?  
-Call 1-866-819-1239 or Chat Now No Chat Available .
+  
+Or call to order 1-866-819-1239 or Chat Now No Chat Available .
 
 EXPLORE
 
@@ -718,4 +717,4 @@ _keyboard\_arrow\_right_ CONTACT US
 *   Call now to order 1-866-445-8084
 *   Contact Us
 
-© 2020 Windstream Communications. All rights reserved. Privacy Policy   |   Terms &. Conditions   |   Legal Notices <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1819151935020592&amp;ev=PageView&amp;noscript=1">.
+© 2020 Windstream Communications. All rights reserved. Privacy Policy   |   Terms &. Conditions   |   Legal Notices <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1819151935020592&amp;ev=PageView&amp;noscript=1">. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
