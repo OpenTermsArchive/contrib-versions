@@ -33,7 +33,7 @@ _close_
 *   Community
 *   Support
 *   Contact Us
-*   Sign in
+*   Sign-In_keyboard\_arrow\_right_
 *   Goto Myaccount _keyboard\_arrow\_right_
 *   Denver, CO
     
@@ -717,4 +717,4 @@ _keyboard\_arrow\_right_ CONTACT US
 *   Call now to order 1-866-445-8084
 *   Contact Us
 
-© 2020 Windstream Communications. All rights reserved. Privacy Policy   |   Terms &. Conditions   |   Legal Notices <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1819151935020592&amp;ev=PageView&amp;noscript=1">. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
+© 2020 Windstream Communications. All rights reserved. Privacy Policy   |   Terms &. Conditions   |   Legal Notices BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1819151935020592&amp;ev=PageView&amp;noscript=1">.
