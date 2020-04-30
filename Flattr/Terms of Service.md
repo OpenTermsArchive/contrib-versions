@@ -1,4 +1,6 @@
-Terms of Use
+We're making it easier to support your favourite local businesses during the these rough times.
+
+See how Terms of Use
 
 Welcome to Flattr, a product and service provided by Flattr AB, Box 4111, 20312 Malmö, Sweden (“**Flattr**”, “**we**”, “**our**”, or “**us**”).  
 We have developed the browser extension Flattr (“**Extension**”) which can be downloaded at flattr.com (“**Website**”) and other domains and / or App Stores. The Extension is a browser add-on that allows users to easily contribute to content they love based on a smart algorithm that measures each individual user’s engagement on the websites they visit, and then automatically distributes the right amount of funds to the respective content.
