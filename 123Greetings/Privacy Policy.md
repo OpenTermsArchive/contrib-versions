@@ -19,22 +19,22 @@
 *   MorePetsWorld LanguagesFlowersAt WorkWeddingKeep in TouchInvitations
 
 *   Mother's Day
-*   Dance Day
-*   Spring
+*   May Day
 *   May Flowers
 *   Get Happy Week
-*   May Day
+*   Hug Holiday Week
 *   Naked Day
 *   More...
-    *   Hug Holiday Week (May 3 - 9, 2020)
     *   Cinco de Mayo (May 5, 2020)
     *   Teachers' Day (May 5, 2020)
     *   Humor Month (April 2020)
     *   Ramadan (Apr 24 - May 23, 2020)
+    *   Spring (Mar 20 - Jun 20, 2020)
     *   Graduation (May - Jun, 2020)
     *   Brothers &. Sisters Day (May 2, 2020)
     *   Nurses Day (May 6, 2020)
     *   Nurses Week (May 6 - 12, 2020)
+    *   Full Moon Day (May 7, 2020)
     *   See All Events
 *   Go
 
