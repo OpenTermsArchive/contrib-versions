@@ -1,5 +1,3 @@
-Our Privacy Policy explained
-
 Table of Contents
 
 Introduction
