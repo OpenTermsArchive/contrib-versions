@@ -1,5 +1,3 @@
-Our Privacy Policy explained
-
 Effective January 1, 2020 | Download PDF Select languageEnglishEspanol Table of Contents
 
 Introduction
