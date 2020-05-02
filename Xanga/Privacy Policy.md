@@ -8,6 +8,18 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   I can't find my old page
+    *   by HIKKO\_LAI
+    *   13 hours ago
+    *   in Themes
+    *   0 votes
+    *   0
+*   I can't find my old page
+    *   by HIKKO\_LAI
+    *   13 hours ago
+    *   in Themes
+    *   0 votes
+    *   0
 *   Can’t find my old page
     *   by may\_tam
     *   1 week ago
@@ -31,7 +43,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   6 years ago
     *   in Data Migration
     *   0 votes
-    *   13 (last comment by ItsKuteKat2u 2 weeks ago)
+    *   13 (last comment by ItsKuteKat2u 3 weeks ago)
 *   Please reactivate my Xanga post
     *   by catherine\_mtc
     *   1 month ago
@@ -86,18 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Personal URLs
     *   0 votes
     *   0
-*   How do I download an archive of my old blog?
-    *   \[Resolved\] by thibault
-    *   5 years ago
-    *   in Data Migration
-    *   0 votes
-    *   48 (last comment by tinapoot 3 months ago)
-*   Please help to reactivate let me can see old posts
-    *   by natalie6791
-    *   1 year ago
-    *   in Themes
-    *   0 votes
-    *   2 (last comment by JacK\_Puk 3 months ago)
 
 1 2 3 ... 196 Next
 
