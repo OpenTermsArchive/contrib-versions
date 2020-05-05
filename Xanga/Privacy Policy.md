@@ -10,13 +10,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   I can't find my old page
     *   by HIKKO\_LAI
-    *   2 days ago
+    *   3 days ago
     *   in Themes
     *   0 votes
     *   0
 *   I can't find my old page
     *   by HIKKO\_LAI
-    *   2 days ago
+    *   3 days ago
     *   in Themes
     *   0 votes
     *   0
