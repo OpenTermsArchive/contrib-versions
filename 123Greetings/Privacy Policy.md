@@ -23,18 +23,18 @@
 *   May Flowers
 *   Cinco de Mayo
 *   Nurses Day
-*   Spring
 *   More...
     *   Teachers' Day (May 5, 2020)
     *   Tulip Day (May 13, 2020)
+    *   Naked Day (May 4, 2020)
     *   Get Happy Week (May 1 - 7, 2020)
     *   Graduation (May - Jun, 2020)
-    *   Naked Day (May 4, 2020)
     *   Nurses Week (May 6 - 12, 2020)
     *   Full Moon Day (May 7, 2020)
     *   Online Romance Week (May 10 - 16, 2020)
     *   Frog Jumping Day (May 13, 2020)
     *   Pizza Party Day (May 15, 2020)
+    *   Armed Forces Day (May 16, 2020)
     *   See All Events
 *   Go
 
