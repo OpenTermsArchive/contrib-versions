@@ -34,7 +34,7 @@ _close_
 *   Support
 *   Contact Us
 *   Sign-In_keyboard\_arrow\_right_
-*   Goto Myaccount _keyboard\_arrow\_right_
+*   Go To My Account _keyboard\_arrow\_right_
 *   Denver, CO
     
     Update Address
@@ -673,6 +673,15 @@ Submit Change Address Change Address
 
   
 Or call to order 1-866-819-1239 or Chat Now No Chat Available .
+
+Sorry! We are experiencing technical difficulties but our team is currently working to resolve it.
+
+If you need immediate assistance, please call:
+
+Sales team: 1-866-445-8084  
+Account Support team: 1-800-347-1991
+
+Enter your address again
 
 EXPLORE
 
