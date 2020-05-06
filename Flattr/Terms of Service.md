@@ -1,4 +1,4 @@
-We're making it easier to support your favourite local businesses during the these rough times.
+We're making it easier to support your favourite local businesses during these rough times.
 
 See how Terms of Use
 
