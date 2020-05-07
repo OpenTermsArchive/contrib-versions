@@ -375,7 +375,6 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Groove Music Pass
 *   Groove
 *   GroupMe
-*   HealthVault
 *   LineBack
 *   Manufacturers.bing.com
 *   Maps App
@@ -396,6 +395,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Microsoft Translator
 *   Microsoft Wallpaper
 *   Microsoft XiaoIce
+*   MileIQ
 *   Minecraft Realms Plus and Minecraft Realms
 *   Mixer
 *   MSN Dial Up
@@ -433,9 +433,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Seeing AI
 *   Send
 *   Skype in the Classroom
-*   Skype Interviews
 *   Skype Manager
-*   Skype Qik
 *   Skype.com
 *   Skype
 *   Smart Search
@@ -838,7 +836,6 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Groove Music Pass
 *   Groove
 *   GroupMe
-*   HealthVault
 *   LineBack
 *   Manufacturers.bing.com
 *   Maps App
@@ -859,6 +856,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Microsoft Translator
 *   Microsoft Wallpaper
 *   Microsoft XiaoIce
+*   MileIQ
 *   Minecraft Realms Plus and Minecraft Realms
 *   Mixer
 *   MSN Dial Up
@@ -896,9 +894,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Seeing AI
 *   Send
 *   Skype in the Classroom
-*   Skype Interviews
 *   Skype Manager
-*   Skype Qik
 *   Skype.com
 *   Skype
 *   Smart Search
