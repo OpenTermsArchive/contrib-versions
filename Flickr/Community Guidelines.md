@@ -1,4 +1,4 @@
-*   Explore New
+*   Explore
     *   Recent Photos
     *   Trending
     *   Events
@@ -14,7 +14,7 @@
 *   Log In
 *   Sign Up
 
-*   Explore New
+*   Explore
 *   Trending
 *   Events
 *   The Commons
