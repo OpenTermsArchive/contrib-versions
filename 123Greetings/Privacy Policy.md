@@ -19,22 +19,22 @@
 *   MorePetsWorld LanguagesFlowersAt WorkWeddingKeep in TouchInvitations
 
 *   Mother's Day
-*   Nurses Day
 *   Nurses Week
 *   May Flowers
 *   Online Romance Week
+*   Tulip Day
 *   More...
-    *   Tulip Day (May 13, 2020)
     *   World Turtle Day® (May 23, 2020)
+    *   Full Moon Day (May 7, 2020)
     *   Hug Holiday Week (May 3 - 9, 2020)
     *   Get Happy Week (May 1 - 7, 2020)
     *   Graduation (May - Jun, 2020)
-    *   Full Moon Day (May 7, 2020)
     *   Frog Jumping Day (May 13, 2020)
     *   Pizza Party Day (May 15, 2020)
     *   Armed Forces Day (May 16, 2020)
     *   Victoria Day (Canada) (May 18, 2020)
     *   Visit Your Relatives Day (May 18, 2020)
+    *   Hari Raya (May 24, 2020)
     *   See All Events
 *   Go
 
