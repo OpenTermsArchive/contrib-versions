@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   I Can't Find My Old Posts
     *   by asukashikome
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
