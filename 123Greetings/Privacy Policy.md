@@ -16,7 +16,7 @@
 *   Family
 *   Cute
 *   Events &. Holidays
-*   MorePetsWorld LanguagesFlowersAt WorkWeddingKeep in TouchInvitations
+*   MorePetsWorld LanguagesFlowersAt WorkKeep in TouchWeddingInvitations
 
 *   Mother's Day
 *   Nurses Week
