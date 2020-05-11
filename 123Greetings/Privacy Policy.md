@@ -20,13 +20,12 @@
 
 *   Mother's Day
 *   Nurses Week
-*   May Flowers
 *   Online Romance Week
+*   May Flowers
 *   Tulip Day
 *   More...
     *   World Turtle Day® (May 23, 2020)
     *   Eid ul-Fitr (May 24, 2020)
-    *   Hug Holiday Week (May 3 - 9, 2020)
     *   Graduation (May - Jun, 2020)
     *   Frog Jumping Day (May 13, 2020)
     *   Pizza Party Day (May 15, 2020)
@@ -35,6 +34,7 @@
     *   Visit Your Relatives Day (May 18, 2020)
     *   Brother's Day (May 24, 2020)
     *   Hari Raya (May 24, 2020)
+    *   Memorial Day (May 25, 2020)
     *   See All Events
 *   Go
 
