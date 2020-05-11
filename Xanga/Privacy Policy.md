@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   I Can't Find My Old Posts
     *   by asukashikome
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -49,7 +49,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   6 years ago
     *   in Data Migration
     *   0 votes
-    *   13 (last comment by ItsKuteKat2u 4 weeks ago)
+    *   13 (last comment by ItsKuteKat2u 1 month ago)
 *   Please reactivate my Xanga post
     *   by catherine\_mtc
     *   1 month ago
@@ -82,7 +82,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Can’t archive old blog
     *   by janny\_wanny
-    *   2 months ago
+    *   3 months ago
     *   in Data Migration
     *   0 votes
     *   0
