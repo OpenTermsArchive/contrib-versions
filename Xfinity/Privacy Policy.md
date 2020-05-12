@@ -30,8 +30,6 @@ How to Contact Us with Questions About this Privacy Policy
 
 Introduction
 
-Effective April 1, 2020
-
 We know you care about your privacy and the protection of your personal information. We also know it is our responsibility to be clear about how we protect your information. We designed this Privacy Policy to do just that. It explains the types of personal information we collect, and how we collect, use, maintain, protect, and share this information. This Privacy Policy also tells you about the rights and choices you may have when it comes to your personal information.
 
 Some of what we say in our Privacy Policy is required by law, and may at times seem long and complicated, but we’ve worked hard to try to make our Privacy Policy easy to understand and provide examples where possible. The Xfinity Privacy Center includes more information about:
