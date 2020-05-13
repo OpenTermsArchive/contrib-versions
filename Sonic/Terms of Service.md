@@ -56,7 +56,7 @@ Use of Sonic.net, LLC accounts or services for orchestration of or participatio
 
 Sonic.net, LLC customers must also comply with the acceptable use policies of our upstream providers, UUNET (http://www.uu.net) and Cable and Wireless ( http://www.cw.com)
 
-**Support**
+2.1. Support
 
 Sonic is proud to provide personal support from a knowledgeable, friendly, and local support team. Sonic support agents approach all interactions with respect and patience, and we ask that our customers do the same. Abuse or harassment of support agents will not be tolerated and will be subject to termination of service.
 
