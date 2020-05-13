@@ -1,28 +1,52 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Blogs Archived
+    *   by suckitrealeasy
+    *   3 hours ago
+    *   in Miscellaenous
+    *   0 votes
+    *   0
+*   Where are my posts?
+    *   by gobbledeeegook
+    *   17 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Where are my posts?
+    *   by gobbledeeegook
+    *   17 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   NEW ENTRIE MAY 9, 2020!!!!
     *   by Robertson\_Laurel
-    *   18 hours ago
+    *   1 day ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   NEW ENTRIE MAY 9, 2020!!!!
     *   by Robertson\_Laurel
-    *   18 hours ago
+    *   1 day ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   ADDING TITLES AND NEW ENTRIES
     *   by Robertson\_Laurel
-    *   18 hours ago
+    *   1 day ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   I Can't Find My Old Posts
     *   by asukashikome
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -40,19 +64,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Can’t find my old page
     *   by may\_tam
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Themes
     *   0 votes
     *   0
 *   Can’t find my old page
     *   by may\_tam
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Themes
     *   0 votes
     *   0
 *   Can’t find my old page
     *   by may\_tam
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Themes
     *   0 votes
     *   0
@@ -70,24 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   HELP
     *   by BRITT\_\_LOVE
-    *   2 months ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   How to completely shut down old Xanga Account?
-    *   by Louic
-    *   2 months ago
-    *   in Privacy
-    *   0 votes
-    *   0
-*   Cannot access my old posts
-    *   by small\_lady19
-    *   2 months ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Can' t gain access to my old posts
-    *   by knowthyselfofsocrates
     *   2 months ago
     *   in Data Migration
     *   0 votes
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
