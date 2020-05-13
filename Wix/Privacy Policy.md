@@ -104,19 +104,13 @@ We collect and use information in order to provide our services and make them be
 
 ​
 
-​
-
-​
-
 We also collect and use information in order to contact our visitors, users and job applicants, and in order to comply with the laws applicable to us.
 
  5. Where do we store your information?
 
 Wix Visitors’, Wix Users’ and Users-of-Users’ Personal Information may be stored in data centers located at the United States of America, Ireland, South Korea, Taiwan and Israel. We may use other jurisdictions as necessary for the proper delivery of our Services and/or as may be required by law (as further explained below) and in other jurisdictions as necessary for the proper delivery of our Services and/or as may be required by law (as further explained below).
 
-Wix Jobs Applicants Information will be maintained, processed and stored in Israel, in the
-
-applied position’s location(s), and as necessary, in secured cloud storage provided by our Third Party Services.
+Wix Jobs Applicants Information will be maintained, processed and stored in Israel, in the applied position’s location(s), and as necessary, in secured cloud storage provided by our Third Party Services.
 
 Wix.com Ltd. is based in Israel, which is considered by the European Commission to be offering an adequate level of protection for the Personal Information of EU Member State residents.
 
@@ -128,7 +122,7 @@ Wix affiliates and service providers that store or process your Personal Informa
 
 We may store and process Personal Information in the USA, Europe, Israel, or other jurisdictions, whether by ourselves or with the help of our affiliates and service providers.ֿ
 
-EU-U.S. Privacy Shield &. Swiss-U.S. Privacy Shield Disclosure : Wix.com participates in, and has certified its compliance with, the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. Wix.com is committed to subjecting all Personal Information received from European Union (EU) member countries and Switzerland, respectively, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List, here.
+EU-U.S. Privacy Shield &. Swiss-U.S. Privacy Shield Disclosure: Wix.com participates in, and has certified its compliance with, the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. Wix.com is committed to subjecting all Personal Information received from European Union (EU) member countries and Switzerland, respectively, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List, here.
 
 ​
 
