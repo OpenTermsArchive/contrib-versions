@@ -10,37 +10,37 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Blogs Archived
     *   by suckitrealeasy
-    *   3 hours ago
+    *   1 day ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Where are my posts?
     *   by gobbledeeegook
-    *   17 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where are my posts?
     *   by gobbledeeegook
-    *   17 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   NEW ENTRIE MAY 9, 2020!!!!
     *   by Robertson\_Laurel
-    *   1 day ago
+    *   2 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   NEW ENTRIE MAY 9, 2020!!!!
     *   by Robertson\_Laurel
-    *   1 day ago
+    *   2 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   ADDING TITLES AND NEW ENTRIES
     *   by Robertson\_Laurel
-    *   1 day ago
+    *   2 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
@@ -88,7 +88,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   13 (last comment by ItsKuteKat2u 1 month ago)
 *   Please reactivate my Xanga post
     *   by catherine\_mtc
-    *   1 month ago
+    *   2 months ago
     *   in Themes
     *   0 votes
     *   0
