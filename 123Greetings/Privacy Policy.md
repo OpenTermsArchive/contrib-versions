@@ -22,10 +22,9 @@
 *   Online Romance Week
 *   May Flowers
 *   Memorial Day
-*   Nurses Week
+*   Frog Jumping Day
 *   More...
     *   Graduation (May - Jun, 2020)
-    *   Frog Jumping Day (May 13, 2020)
     *   Pizza Party Day (May 15, 2020)
     *   Armed Forces Day (May 16, 2020)
     *   Victoria Day (Canada) (May 18, 2020)
@@ -35,6 +34,7 @@
     *   Brother's Day (May 24, 2020)
     *   Hari Raya (May 24, 2020)
     *   Hamburger Day (May 28, 2020)
+    *   Shavuot (May 28 - 30, 2020)
     *   See All Events
 *   Go
 
