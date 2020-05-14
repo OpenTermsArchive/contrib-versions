@@ -283,8 +283,9 @@ Grammarly for MS Office
 CompanyAbout  
 Careers &. Culture  
 Blog  
+Tech Blog  
 Press  
-Affiliate  
+Affiliates  
 Contact Us  
 FeaturesProduct Feature News  
 Tone Detector  
