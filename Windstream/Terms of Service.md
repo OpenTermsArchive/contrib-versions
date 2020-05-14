@@ -19,7 +19,7 @@
 *   Check My Email
 *   Sign Out
 
-Call now to order 1-866-445-8084
+Call now to order 1-866-797-0746
 
 _close_
 
@@ -42,7 +42,7 @@ _close_
 *   _search_
 *   Looking for Business Solution?
 
-Call now to order 1-866-445-8084
+Call now to order 1-866-797-0746
 
 _close_
 
@@ -53,7 +53,7 @@ _close_
 *   Wi-Fi
 *   View All Products
 
-Call now to order 1-866-445-8084
+Call now to order 1-866-797-0746
 
 _close_
 
@@ -66,7 +66,7 @@ _close_
 *   Check My Email
 *   Sign Out
 
-Call now to order 1-866-445-8084
+Call now to order 1-866-797-0746
 
 _close_
 
@@ -87,7 +87,7 @@ _close_
 *   Support
     *   Contact Us
 
-Call now to order 1-866-445-8084
+Call now to order 1-866-797-0746
 
 Back to About Page
 
@@ -678,7 +678,7 @@ Sorry! We are experiencing technical difficulties but our team is currently work
 
 If you need immediate assistance, please call:
 
-Sales team: 1-866-445-8084  
+Sales team: 1-866-797-0746  
 Account Support team: 1-800-347-1991
 
 Enter your address again
@@ -718,12 +718,12 @@ _keyboard\_arrow\_right_ WINDSTREAM
 
 _keyboard\_arrow\_right_ CONTACT US
 
-*   Call to order 1-866-445-8084
+*   Call to order 1-866-797-0746
 *   Contact Us
 
 _keyboard\_arrow\_right_ CONTACT US
 
-*   Call now to order 1-866-445-8084
+*   Call now to order 1-866-797-0746
 *   Contact Us
 
-© 2020 Windstream Communications. All rights reserved. Privacy Policy   |   Terms &. Conditions   |   Legal Notices BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1819151935020592&amp;ev=PageView&amp;noscript=1">.
+© 2020 Windstream Communications. All rights reserved. Privacy Policy   |   Terms &. Conditions   |   Legal Notices <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1819151935020592&amp;ev=PageView&amp;noscript=1">.
