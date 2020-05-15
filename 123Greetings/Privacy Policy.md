@@ -18,15 +18,13 @@
 *   Events &. Holidays
 *   MorePetsWorld LanguagesFlowersAt WorkKeep in TouchWeddingInvitations
 
-*   Tulip Day
-*   Online Romance Week
 *   May Flowers
 *   Memorial Day
-*   Frog Jumping Day
+*   Pizza Party Day
+*   Armed Forces Day
+*   Graduation
 *   More...
-    *   Graduation (May - Jun, 2020)
-    *   Pizza Party Day (May 15, 2020)
-    *   Armed Forces Day (May 16, 2020)
+    *   Online Romance Week (May 10 - 16, 2020)
     *   Victoria Day (Canada) (May 18, 2020)
     *   Visit Your Relatives Day (May 18, 2020)
     *   World Turtle Day® (May 23, 2020)
@@ -35,6 +33,8 @@
     *   Hari Raya (May 24, 2020)
     *   Hamburger Day (May 28, 2020)
     *   Shavuot (May 28 - 30, 2020)
+    *   No Tobacco Day (May 31, 2020)
+    *   Pentecost (May 31, 2020)
     *   See All Events
 *   Go
 
