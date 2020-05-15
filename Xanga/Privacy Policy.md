@@ -1,46 +1,52 @@
-Skip to toolbar
-
-*   Xanga
-
-*   Log In
-
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Retrieve old posts
+    *   by MADDwoaw
+    *   7 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Retrieve old posts!
+    *   by MADDwoaw
+    *   15 hours ago
+    *   in Adding &. Editing Entries
+    *   0 votes
+    *   0
 *   Blogs Archived
     *   by suckitrealeasy
-    *   1 day ago
+    *   2 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Where are my posts?
     *   by gobbledeeegook
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where are my posts?
     *   by gobbledeeegook
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   NEW ENTRIE MAY 9, 2020!!!!
     *   by Robertson\_Laurel
-    *   2 days ago
+    *   3 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   NEW ENTRIE MAY 9, 2020!!!!
     *   by Robertson\_Laurel
-    *   2 days ago
+    *   3 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   ADDING TITLES AND NEW ENTRIES
     *   by Robertson\_Laurel
-    *   2 days ago
+    *   3 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
@@ -86,18 +92,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   13 (last comment by ItsKuteKat2u 1 month ago)
-*   Please reactivate my Xanga post
-    *   by catherine\_mtc
-    *   2 months ago
-    *   in Themes
-    *   0 votes
-    *   0
-*   HELP
-    *   by BRITT\_\_LOVE
-    *   2 months ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
 1 2 3 ... 196 Next
 
@@ -156,4 +150,8 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
+
+*   Xanga
+
+*   Log In
