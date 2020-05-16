@@ -64,6 +64,8 @@ Additional Terms and Conditions for the Use of XING Executive
 
 General Terms and Conditions for XING Marketing Solutions
 
+General Terms and Conditions for the use of the XING Sourcing Service
+
 General Terms and Conditions
 
 Last updated: 6 January 2020
