@@ -4,49 +4,49 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Retrieve old posts
     *   by MADDwoaw
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve old posts!
     *   by MADDwoaw
-    *   1 day ago
+    *   2 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Blogs Archived
     *   by suckitrealeasy
-    *   3 days ago
+    *   4 days ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Where are my posts?
     *   by gobbledeeegook
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where are my posts?
     *   by gobbledeeegook
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   NEW ENTRIE MAY 9, 2020!!!!
     *   by Robertson\_Laurel
-    *   4 days ago
+    *   5 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   NEW ENTRIE MAY 9, 2020!!!!
     *   by Robertson\_Laurel
-    *   4 days ago
+    *   5 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   ADDING TITLES AND NEW ENTRIES
     *   by Robertson\_Laurel
-    *   4 days ago
+    *   5 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
