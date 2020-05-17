@@ -20,11 +20,10 @@
 
 *   May Flowers
 *   Memorial Day
-*   Pizza Party Day
 *   Armed Forces Day
+*   Online Romance Week
 *   Graduation
 *   More...
-    *   Online Romance Week (May 10 - 16, 2020)
     *   Victoria Day (Canada) (May 18, 2020)
     *   Visit Your Relatives Day (May 18, 2020)
     *   World Turtle Day® (May 23, 2020)
@@ -35,6 +34,7 @@
     *   Shavuot (May 28 - 30, 2020)
     *   No Tobacco Day (May 31, 2020)
     *   Pentecost (May 31, 2020)
+    *   International Children's Day (Jun 1, 2020)
     *   See All Events
 *   Go
 
