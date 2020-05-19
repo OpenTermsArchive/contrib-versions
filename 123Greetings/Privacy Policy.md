@@ -20,12 +20,13 @@
 
 *   May Flowers
 *   Memorial Day
-*   Graduation
+*   Rose Month
 *   Victoria Day (Canada)
-*   Eid ul-Fitr
+*   Graduation
 *   More...
     *   Visit Your Relatives Day (May 18, 2020)
     *   World Turtle Day® (May 23, 2020)
+    *   Eid ul-Fitr (May 24, 2020)
     *   Brother's Day (May 24, 2020)
     *   Hari Raya (May 24, 2020)
     *   Hamburger Day (May 28, 2020)
@@ -34,7 +35,6 @@
     *   Pentecost (May 31, 2020)
     *   International Children's Day (Jun 1, 2020)
     *   Whit Monday (Jun 1, 2020)
-    *   Rose Month (June 2020)
     *   See All Events
 *   Go
 
