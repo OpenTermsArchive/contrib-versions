@@ -332,7 +332,7 @@ Before disclosing the requested Personal Information, we may ask you for additi
 You have the right to file a complaint with your local supervisory authority for data protection (but we still recommend that you contact us first).
 
   
-If you are a Wix Visitor or User, and you wish to receive a copy, access and/or request us to make corrections to the Personal Information that you have stored with us (either yours or your Users-of-Users’), or wish to request a list of what Personal Information (if any) pertaining to you we disclosed to third parties for direct marketing purposes, please follow the instructions provided in these Help Center articles: “GDPR: Retrieving Your Wix Account Data” or “GDPR: Permanently Deleting Your Wix Account”. You can also, mail your request to Wix.com, 40 Namal Tel Aviv St., Tel Aviv 6350671, Israel. 
+If you are a Wix Visitor or User, and you wish to receive a copy, access and/or request us to make corrections to the Personal Information that you have stored with us (either yours or your Users-of-Users’), or wish to request a list of what Personal Information (if any) pertaining to you we disclosed to third parties for direct marketing purposes, please follow the instructions provided in these Help Center articles: “GDPR: Retrieving Your Wix Account Data” or “Privacy: Permanently Deleting Your Wix Account”. You can also, mail your request to Wix.com, 40 Namal Tel Aviv St., Tel Aviv 6350671, Israel. 
 
 ​
 
