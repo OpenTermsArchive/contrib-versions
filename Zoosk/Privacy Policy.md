@@ -18,7 +18,7 @@ This Policy is provided in a layered format so you can click through to the spec
 6.  CONTACT US
 7.  MISCELLANEOUS
 
-1\. IMPORTANT INFORMATION AND WHO WE ARE WHO WE ARE AND OUR ROLE
+1\. IMPORTANT INFORMATION AND WHO WE AREWHO WE ARE AND OUR ROLE
 
 This Policy is issued on behalf of the Zoosk, Inc. (the “Company”) and any affiliated entities (the “Company Group”), so when we mention the “Company”, “we”, “us” or “our” in this Policy, we are referring to the relevant company in the Company Group responsible for processing your data.
 
@@ -90,7 +90,7 @@ We have set out in the table below a description of the ways we plan to use your
 
 Please Contact us if you need details about the specific legal basis we are relying on to process your personal data where more than one legal basis has been set out in the table below.
 
-Purpose/Activity Type of data Lawful basis for processing including basis of legitimate interest To register you as a new member (a) Profile Data, such as name, age, sexual orientation, marital status, number of children, and location
+Purpose/ActivityType of dataLawful basis for processing including basis of legitimate interestTo register you as a new member(a) Profile Data, such as name, age, sexual orientation, marital status, number of children, and location
 
 (b) Contact Data such as email address, phone number, or social media user account, as limited by your privacy settings
 
@@ -156,7 +156,7 @@ To manage our relationship with you which will include:
 
 (b) Necessary to comply with a legal obligation
 
-To enable you to partake in a prize draw, competition or complete a survey (a) Profile Data
+To enable you to partake in a prize draw, competition or complete a survey(a) Profile Data
 
 (b) Contact Data
 
@@ -168,7 +168,7 @@ To enable you to partake in a prize draw, competition or complete a survey (a) P
 
 (b) Necessary for our legitimate interests (to study how customers use our products/services, to develop them and grow our business)
 
-To administer and protect our business, the Company Services, this website and your personal data (including security, fraud, troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data) (a) Profile Data
+To administer and protect our business, the Company Services, this website and your personal data (including security, fraud, troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data)(a) Profile Data
 
 (b) Contact Data
 
@@ -184,7 +184,7 @@ To administer and protect our business, the Company Services, this website and y
 
 (b) Necessary to comply with a legal obligation
 
-To deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you (a) Device ID
+To deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you(a) Device ID
 
 (b) IP Address
 
@@ -204,7 +204,7 @@ To deliver relevant website content and advertisements to you and measure or und
 
 (b) With your consent for targeted advertising and profiling to serve more accurate advertising content to you.
 
-To use data analytics to improve our website, products/services, marketing, customer relationships and experiences (a) Profile Data
+To use data analytics to improve our website, products/services, marketing, customer relationships and experiences(a) Profile Data
 
 (b) Usage Data
 
@@ -212,7 +212,7 @@ To use data analytics to improve our website, products/services, marketing, cust
 
 (d) Communications Data
 
-Necessary for our legitimate interests (to define types of customers for our products and services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy) To respond to requests from law enforcement (a) Profile Data
+Necessary for our legitimate interests (to define types of customers for our products and services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy)To respond to requests from law enforcement(a) Profile Data
 
 (b) Transaction Data
 
@@ -226,7 +226,7 @@ Necessary for our legitimate interests (to define types of customers for our pro
 
 (g) Any other information we are compelled to provide by law
 
-Necessary to comply with our legal obligations MARKETING
+Necessary to comply with our legal obligationsMARKETING
 
 Where you have interacted with us, we will send you marketing communications from time to time. Such marketing communications are usually sent by email or text (SMS). If you do not want to receive such marketing communications, you have the opportunity to inform us by selecting certain boxes when we collect your personal data.
 
@@ -315,7 +315,7 @@ Third-party partners and providers may also collect personal information about y
 
 The types of cookies used on most websites can generally be put into one of the following categories: strictly necessary, analytics, functionality, advertising, social media and fraud prevention. In order to provide you with the best browsing experience, the Company and our third party partners may use cookies from all of these categories. You can find out more about the cookies we use from each of the categories in the table below.
 
-**Strictly Necessary Cookies** These cookies are essential to make our website work. They enable you to move around our site and use its features. Without these cookies, services that are necessary for you to be able to use the site such as accessing secure areas can’t be provided. These include cookies used to authenticate users during log-in. **Analytics Cookies** These cookies collect information about how people are using our website, for example which pages are visited the most often, how people are moving from one link to another and if they get error messages from certain pages. These cookies don’t gather information that identifies you. All information these cookies collect is grouped together with information from other people’s use of the website on an anonymous basis. Overall, these cookies provide us with analytical information about how our website is performing and how we can improve it. **Functionality Cookies** These cookies allow us to remember choices you make and tailor our website to provide enhanced features and content to you. For example, these cookies can be used to remember your username, language choice or country selection and they can also be used to remember changes you’ve made to text size, font and other parts of pages that you can customize. In addition, they may be used to provide services you’ve asked for such as using our chat program. **Advertising Cookies** These cookies are used to deliver advertisements on our Service and applications and to deliver advertisements on other sites and/or mobile applications to users that have visited or used our website or services, or to deliver advertisements that are more relevant to you and your interests. These cookies are also used to limit the number of times you see an advertisement as well as help measure and report the results and effectiveness of an advertising campaign. They remember that you have visited a website and this information may be shared with other organizations such as advertisers. This means you may see advertisements on our Service based on your activity elsewhere on the Web and after you have been to our Service you may see advertisements about our services or other services elsewhere on the Internet or on other devices you use. **Social Media Cookies** In order to enhance your Internet experience and to make the sharing of content easier, some of the pages on our website contain tools or applications that are linked to third party social media service providers such as Facebook or Twitter. Through these tools or applications social media service provider may set its own cookies on your device. We do not control these cookies and you should check the social media service provider’s website for further details about how they use cookies. **Fraud Prevention Cookies** These cookie files, flash storage tokens, smart phone SDK applications, or other software on the end user’s device contain a unique identifier. Subsequently, in transactions between you and us, that identifier is accessed and checked through third party databases to determine if the device has been associated with suspected fraud or abuse reported by other online service providers in connection with prior transactions involving that device.
+**Strictly Necessary Cookies**These cookies are essential to make our website work. They enable you to move around our site and use its features. Without these cookies, services that are necessary for you to be able to use the site such as accessing secure areas can’t be provided. These include cookies used to authenticate users during log-in.**Analytics Cookies**These cookies collect information about how people are using our website, for example which pages are visited the most often, how people are moving from one link to another and if they get error messages from certain pages. These cookies don’t gather information that identifies you. All information these cookies collect is grouped together with information from other people’s use of the website on an anonymous basis. Overall, these cookies provide us with analytical information about how our website is performing and how we can improve it.**Functionality Cookies**These cookies allow us to remember choices you make and tailor our website to provide enhanced features and content to you. For example, these cookies can be used to remember your username, language choice or country selection and they can also be used to remember changes you’ve made to text size, font and other parts of pages that you can customize. In addition, they may be used to provide services you’ve asked for such as using our chat program.**Advertising Cookies**These cookies are used to deliver advertisements on our Service and applications and to deliver advertisements on other sites and/or mobile applications to users that have visited or used our website or services, or to deliver advertisements that are more relevant to you and your interests. These cookies are also used to limit the number of times you see an advertisement as well as help measure and report the results and effectiveness of an advertising campaign. They remember that you have visited a website and this information may be shared with other organizations such as advertisers. This means you may see advertisements on our Service based on your activity elsewhere on the Web and after you have been to our Service you may see advertisements about our services or other services elsewhere on the Internet or on other devices you use.**Social Media Cookies**In order to enhance your Internet experience and to make the sharing of content easier, some of the pages on our website contain tools or applications that are linked to third party social media service providers such as Facebook or Twitter. Through these tools or applications social media service provider may set its own cookies on your device. We do not control these cookies and you should check the social media service provider’s website for further details about how they use cookies.**Fraud Prevention Cookies**These cookie files, flash storage tokens, smart phone SDK applications, or other software on the end user’s device contain a unique identifier. Subsequently, in transactions between you and us, that identifier is accessed and checked through third party databases to determine if the device has been associated with suspected fraud or abuse reported by other online service providers in connection with prior transactions involving that device.
 
 **Third Party Data Collection &. Interest-Based Advertising**
 
@@ -379,7 +379,7 @@ This section applies to you if you are a resident of the state of California. Ca
 
 **Collection of personal information** **.** In the last 12 months, we have collected the following categories of personal information:
 
-**Category of Personal Information** **Collected** **Identifiers**, such as name, nickname or pseudonym, email address, address, telephone number, zip code, account name and password, or other similar identifiers. ✔ **California Customer Records** (Cal. Civ. Code § 1798.80(e)), such as bank account information, credit or debit card information, or any other financial information. ✔ **Protected Classification Characteristics**, such as ethnicity, age, religion, gender and sexual orientation. ✔ **Commercial Information**, such as your purchasing and ordering behavior. ✔ **Internet/Network Information**, such as device information, log, and analytics data. ✔ **Geolocation Data**, such as information about your physical location collected from geolocation features on your device, including your IP address and GPS (e.g., latitude and/or longitude). ✔ **Sensory Information**, such as pictures of you and recordings of phone calls between you and us, where permitted by law. ✔ **Profession/Employment Information**, such as current occupation and income, job history and experience. ✔ **Other Personal Information**, such as information you post on our applications or on social media pages, including pictures or videos of you, or other information you submit to us. We also collect information from the dating profile you create, such as level of education and colleges or universities attended, political views, details about your physical appearance, and partner preference information. ✔ **Inferences**, including information generated from your dating profile, as well as any of the information above and your use of our services. ✔
+**Category of Personal Information** **Collected** **Identifiers**, such as name, nickname or pseudonym, email address, address, telephone number, zip code, account name and password, or other similar identifiers.✔**California Customer Records** (Cal. Civ. Code § 1798.80(e)), such as bank account information, credit or debit card information, or any other financial information.✔**Protected Classification Characteristics**, such as ethnicity, age, religion, gender and sexual orientation.✔**Commercial Information**, such as your purchasing and ordering behavior.✔**Internet/Network Information**, such as device information, log, and analytics data.✔**Geolocation Data**, such as information about your physical location collected from geolocation features on your device, including your IP address and GPS (e.g., latitude and/or longitude).✔**Sensory Information**, such as pictures of you and recordings of phone calls between you and us, where permitted by law.✔**Profession/Employment Information**, such as current occupation and income, job history and experience.✔**Other Personal Information**, such as information you post on our applications or on social media pages, including pictures or videos of you, or other information you submit to us. We also collect information from the dating profile you create, such as level of education and colleges or universities attended, political views, details about your physical appearance, and partner preference information.✔**Inferences**, including information generated from your dating profile, as well as any of the information above and your use of our services.✔
 
 **Sources of personal information** . We collect personal information about you from one or more of the following categories of sources:
 
