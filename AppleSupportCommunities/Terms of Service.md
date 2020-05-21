@@ -1,13 +1,3 @@
-Announcement: We've updated our Terms of Use
-
-Apple is committed to protecting your Community experience. Read our updated Terms of Use.
-
-Read announcement Hide announcement
-
-We've updated our Terms of Use
-
-Apple is committed to protecting your Community experience. Read our updated Terms of Use.
-
 Apple Support Communities Use Agreement
 
 Updated April 30, 2020
