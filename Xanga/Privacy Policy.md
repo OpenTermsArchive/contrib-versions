@@ -2,21 +2,27 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Archive a user (not me)
+    *   by quikblade88
+    *   2 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Dashboard
     *   by reformedbelievr
-    *   5 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve old posts
     *   by MADDwoaw
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve old posts!
     *   by MADDwoaw
-    *   5 days ago
+    *   6 days ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
@@ -71,12 +77,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 *   I can't find my old page
     *   by HIKKO\_LAI
     *   2 weeks ago
-    *   in Themes
-    *   0 votes
-    *   0
-*   Can’t find my old page
-    *   by may\_tam
-    *   4 weeks ago
     *   in Themes
     *   0 votes
     *   0
