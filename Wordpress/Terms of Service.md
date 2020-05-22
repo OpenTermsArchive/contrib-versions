@@ -12,7 +12,7 @@ These Terms govern your access to and use of WordPress.com, Jetpack.com, VaultPr
 
 These Terms also govern visitors’ access to and use of any websites that use our Services, such as websites hosted on WordPress.com that are operated by our users.
 
-For some of Automattic’s other products and services, such as WooCommerce, Akismet, Crowdsignal, and WordPress.com VIP, additional Terms of Service may apply and will be posted on the websites for those products and services.
+For some of Automattic’s other products, services, and programs such as WooCommerce, Akismet, Crowdsignal, Newspack, WordPress.com VIP, our Affiliate Program, and our Refer-A-Friend Program, additional Terms of Service may apply and will be posted on the respective websites.
 
 Our Services are offered subject to your acceptance, without modification, of all of the terms and conditions contained herein and all other operating rules, policies (including, without limitation, Automattic’s Privacy Policy), and procedures that may be published from time to time by Automattic (collectively, the “Agreement”). You agree that we may automatically upgrade our Services, and the Agreement will apply to any upgrades.
 
@@ -197,13 +197,11 @@ We are not involved in these relationships, but may facilitate transactions or c
 
 Please note that some of these third party services (like TaxJar if you use Store) may be enabled by default, but you may disable them before your store is set up. If you do not want to use these third party services, please disable them.
 
-**More on WooCommerce Payments Specifically.** WooCommerce Payments is integrated with Stripe, a third party that provides payment processing and related functions for your site. If you use WooCommerce Payments, you are entering into an agreement with Stripe subject to Stripe’s Connected Account Agreement, Stripe’s Services Agreement, and any other terms and policies incorporated by reference in those agreements (collectively, the “Stripe Agreement”). The Stripe Agreement is separate from these Terms. We are not a party to the Stripe Agreement and will not be liable or responsible for the services provided by Stripe. If Stripe discontinues providing these services through WooCommerce Payments, you authorize Stripe to share your payment method information with an alternative third-party payment processor that is or will be integrated into WooCommerce Payments.
-
-You agree to comply with the Stripe Agreement. In particular, you may not use the WooCommerce Payments to enable any person (including you) to benefit from any activities Stripe has identified as a restricted business or activity.
+**More on WooCommerce Payments Specifically.** As part of WooCommerce Payments, we may use certain third parties to fulfill our obligations to you, including integrating with payment processing third parties. You may be subject to terms and conditions with those third parties and agree to comply with those terms and conditions. In particular, you may not use WooCommerce Payments to enable any person (including you) to benefit from restricted businesses or activities. If we use another third party to fulfill these services, you authorize us to share your payment method information with an alternative third-party payment processor that is or will be integrated into WooCommerce Payments.
 
 We may refuse, condition, or suspend any transaction or account (including your use of WooCommerce Payments) if we believe you have violated these Terms or if we believe your activities or transactions expose you, us, or others to unacceptable risks, as determined by us in our sole discretion.
 
-You authorize us to share data relating to WooCommerce Payments with Stripe for their use in accordance with Stripe’s privacy policy. Please refer to our privacy policy for details on how we otherwise collect, use, and disclose data made available to us as part of WooCommerce Payments.
+You authorize us to share data relating to WooCommerce Payments with the applicable payment processing third party for their use in accordance with their privacy policy. Please refer to our privacy policy for details on how we otherwise collect, use, and disclose data made available to us as part of WooCommerce Payments.
 
 **Fees.** In some cases, you pay us fees relating to the Ecommerce Services you use. For example, for Recurring Payments, you pay us a percentage (which depends on your plan) of the revenue your website generates through Recurring Payments. you authorize Stripe to direct payment of that percentage to us. As another example, if you use WooCommerce Payments, there are transaction fees and dispute fees. Please note that we have no obligation to reimburse or refund these revenue-based fees when you issue refunds to your subscribers or customers.
 
