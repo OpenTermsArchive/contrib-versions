@@ -1,6 +1,6 @@
 Couchsurfing.com Privacy Policy
 
-Effective Date: **May 25, 2018**
+Effective Date: **May 22, 2020**
 
 Please read our Privacy Policy carefully to get a clear understanding of how we collect, use, disclose, protect and otherwise handle information about you. By using Couchsurfing services, you consent to the collection and use of your data as described in this Privacy Policy.
 
@@ -115,7 +115,7 @@ You have many choices about your data.
 
 Account Information
 
-You may update or correct information about you or deactivate your account at any time by logging into your account and editing your profile. Even after you deactivate your account, we may retain certain information as required by law, for legitimate business purposes or to protect member safety. If your account is deactivated, Couchsurfing will provide access to the data associated with the deactivated account upon receipt of the required legal documentation.
+You may deactivate your account at any time by contacting support@couchsurfing.com. Even after you deactivate your account, we may retain certain information as required by law, for legitimate business purposes or to protect member safety. If your account is deactivated, Couchsurfing will provide access to the data associated with the deactivated account upon receipt of the required legal documentation.
 
 Location Information via Mobile Device 
 
