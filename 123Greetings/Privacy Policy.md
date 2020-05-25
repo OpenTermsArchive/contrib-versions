@@ -20,16 +20,16 @@
 
 *   Memorial Day
 *   Best Friends Day
-*   May Flowers
 *   Eid ul-Fitr
+*   May Flowers
 *   Rose Month
-*   Graduation
+*   Hari Raya
 *   More...
     *   Love Conquers All Day (Jun 3, 2020)
+    *   Profess Your Love Day (Jun 9, 2020)
     *   Ice Cream Day (Jun 8, 2020)
-    *   World Turtle Day® (May 23, 2020)
     *   Brother's Day (May 24, 2020)
-    *   Hari Raya (May 24, 2020)
+    *   Graduation (May - Jun, 2020)
     *   Hamburger Day (May 28, 2020)
     *   Shavuot (May 28 - 30, 2020)
     *   No Tobacco Day (May 31, 2020)
