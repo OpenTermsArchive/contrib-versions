@@ -2,9 +2,9 @@ Find more solutions
 
 Go Amazon Device Support  › Amazon Device Terms, Warranties, and Notices › Amazon FreeTime Unlimited Terms &. Conditions
 
-**Last updated: October 7, 2019**
+**Last updated: May 22, 2020**
 
-This is an agreement between you and Amazon Digital Services LLC (with its affiliates, "**Amazon**", "**we**" or “**us**”). Before using Amazon FreeTime Unlimited (“**FreeTime Unlimited**”), please read these Amazon FreeTime Unlimited Terms &. Conditions, the Amazon.com Privacy Notice, the Amazon.com Conditions of Use, and the other applicable rules, policies, and terms posted on the Amazon.com website (collectively, the "**Terms**"). If you use or access FreeTime Unlimited on Alexa, please read the following applicable Terms: the Alexa Terms of Use and Children's Privacy Disclosure. By using or accessing FreeTime Unlimited, you agree to be bound by the Terms. If you do not accept these Terms, then you may not use FreeTime Unlimited.
+This is an agreement between you and Amazon.com Services LLC (with its affiliates, "**Amazon**", "**we**" or “**us**”). Before using Amazon FreeTime Unlimited (“**FreeTime Unlimited**”), please read these Amazon FreeTime Unlimited Terms &. Conditions, the Amazon.com Privacy Notice, the Amazon.com Conditions of Use, and the other applicable rules, policies, and terms posted on the Amazon.com website (collectively, the "**Terms**"). If you use or access FreeTime Unlimited on Alexa, please read the following applicable Terms: the Alexa Terms of Use and Children's Privacy Disclosure. By using or accessing FreeTime Unlimited, you agree to be bound by the Terms. If you do not accept these Terms, then you may not use FreeTime Unlimited.
 
 **Terms**
 
