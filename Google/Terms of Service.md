@@ -2,7 +2,7 @@ Google Terms of Service
 
 Effective March 31, 2020 | Archived versions | Download PDF
 
-We’ve updated our Terms of Service on March 31, 2020. For more details, we’ve also provided a summary of the key changes. If you don’t agree to our Terms of Service, you can find more information about your options in our Frequently Asked Questions.What’s covered in these termsWe know it’s tempting to skip these Terms of Service, but it’s important to establish what you can expect from us as you use Google services, and what we expect from you.
+What’s covered in these termsWe know it’s tempting to skip these Terms of Service, but it’s important to establish what you can expect from us as you use Google services, and what we expect from you.
 
 These Terms of Service reflect the way Google’s business works, the laws that apply to our company, and certain things we’ve always believed to be true. As a result, these Terms of Service help define Google’s relationship with you as you interact with our services. For example, these terms include the following topic headings:
 
