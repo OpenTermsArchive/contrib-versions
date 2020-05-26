@@ -4,13 +4,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Archive a user (not me)
     *   by quikblade88
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Dashboard
     *   by reformedbelievr
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -46,19 +46,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   NEW ENTRIE MAY 9, 2020!!!!
     *   by Robertson\_Laurel
-    *   1 week ago
+    *   2 weeks ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   NEW ENTRIE MAY 9, 2020!!!!
     *   by Robertson\_Laurel
-    *   1 week ago
+    *   2 weeks ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   ADDING TITLES AND NEW ENTRIES
     *   by Robertson\_Laurel
-    *   1 week ago
+    *   2 weeks ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
