@@ -657,7 +657,7 @@ Already a customer? Sign in
   
 Or call to order 1-855-944-29611-855-944-2961 or Chat Now No Chat Available .
 
-We still canï¿½t find your address. Contact us to see if youï¿½re in our service area.
+Chat Now No Chat Available We still canï¿½t find your address. Contact us to see if youï¿½re in our service area.
 
 Contact us now to find out if you're located in one of our service areas.
 
