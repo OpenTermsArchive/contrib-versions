@@ -18,20 +18,20 @@
 *   Events &. Holidays
 *   MorePetsWorld LanguagesAt WorkFlowersKeep in TouchWeddingInvitations
 
-*   Memorial Day
 *   Best Friends Day
 *   May Flowers
 *   Rose Month
 *   Love Conquers All Day
+*   Graduation
 *   More...
     *   Profess Your Love Day (Jun 9, 2020)
-    *   Ice Cream Day (Jun 8, 2020)
-    *   Graduation (May - Jun, 2020)
     *   Hamburger Day (May 28, 2020)
     *   Shavuot (May 28 - 30, 2020)
     *   No Tobacco Day (May 31, 2020)
     *   Pentecost (May 31, 2020)
+    *   Whit Monday (Jun 1, 2020)
     *   Hug Your Cat Day (Jun 4, 2020)
+    *   Ice Cream Day (Jun 8, 2020)
     *   Red Rose Festival (Jun 14, 2020)
     *   Smile Power Day (Jun 15, 2020)
     *   Sneak a Kiss Day (Jun 15, 2020)
