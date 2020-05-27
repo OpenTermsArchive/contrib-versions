@@ -440,7 +440,7 @@ For the purposes of GDPR (Article 27), you may contact our EU representative at
 
 Have any questions or suggestions? We’d love to hear them!
 
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MDD5C4" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Wix
+Wix
 
 *   I Need a Site for...
 
