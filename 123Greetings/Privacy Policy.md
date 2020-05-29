@@ -22,11 +22,11 @@
 *   May Flowers
 *   Rose Month
 *   Love Conquers All Day
-*   Graduation
+*   Shavuot
 *   More...
     *   Profess Your Love Day (Jun 9, 2020)
     *   Hamburger Day (May 28, 2020)
-    *   Shavuot (May 28 - 30, 2020)
+    *   Graduation (May - Jun, 2020)
     *   No Tobacco Day (May 31, 2020)
     *   Pentecost (May 31, 2020)
     *   Whit Monday (Jun 1, 2020)
