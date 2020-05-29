@@ -1,6 +1,6 @@
 Find more solutions
 
-Go Amazon Device Support  › Amazon Device Terms, Warranties, and Notices › Kindle Personal Documents Distributor Terms of Use **Terms of Use**
+Go Digital Services and Device Support › Amazon Device Terms, Warranties, and Notices › Kindle Personal Documents Distributor Terms of Use **Terms of Use**
 
 The Kindle Personal Documents Service (the **"Service"**) allows Kindle customers to send personal documents and authorize others to send personal documents to their Kindle accounts. Your use of the Service to send documents to Kindle customers is subject to these Terms (the **"Terms"**).
 
