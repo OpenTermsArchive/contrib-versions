@@ -1,6 +1,6 @@
 General information
 
-*   Last updated: 28 February 2020
+*   Last updated: 28 May 2020
 *   Here we inform you about data processing in connection with the entire service XING and its applications (kununu etc.).
 *   New Work SE is the body responsible for the processing of personal data.
 *   Our Data Protection Officer is Anja Engler.
@@ -36,7 +36,7 @@ How is your personal data processed? 1. General statement about the purposes of 
 
 The main reason we process personal data is to fulfil our contractual obligations towards our users. The processing of data is required, for example, for us to be able to suggest suitable contacts, services and information to you.
 
-Operating a service like XING is subject to dynamic change by its very nature. It is not therefore possible to share every single detail about our data processing with you, but we do intend to inform you of all the key information. We process data first and foremost in order to fulfill our contractual obligations towards our users. In addition to this, we process your data to preserve our justifiable interests while taking your interests into account (e.g. when we send you promotional newsletters). And, of course, in some cases we are legally obliged to process data (e.g. to pass the data on to any investigative authorities). In all other cases we will ask for your separate consent to process your data (e.g. when you enter a prize draw). When it comes to fulfilling our contractual obligations towards our users, we try to tailor our products and services to the needs of users at all times. Personalisation is important here. Interest and usage profiles are created. In order to be able to show you recommendations, e.g. for jobs, events, groups or contacts, and to suggest you as a valuable business contact or potential employee, we must have an idea of what your interests might be. In order to ascertain these interests we use information that you provide to us, in addition to implicit feedback, i.e. information that we automatically obtain through your usage of our service (by means of so-called "tracking"), as well as information that we may possibly receive indirectly (e.g. through a user's address book or upload).
+Operating a service like XING is subject to dynamic change by its very nature. It is not therefore possible to share every single detail about our data processing with you, but we do intend to inform you of all the key information. We process data first and foremost in order to fulfill our contractual obligations towards our users. In addition to this, we process your data to preserve our justifiable interests while taking your interests into account (e.g. when we send you promotional newsletters). And, of course, in some cases we are legally obliged to process data (e.g. to pass the data on to any investigative authorities). In all other cases we will ask for your separate consent to process your data (e.g. when using tracking technologies for the measurement and optimisation of advertising or when you enter a prize draw). When it comes to fulfilling our contractual obligations towards our users, we try to tailor our products and services to the needs of users at all times. Personalisation is important here. Interest and usage profiles are created. In order to be able to show you recommendations, e.g. for jobs, events, groups or contacts, and to suggest you as a valuable business contact or potential employee, we must have an idea of what your interests might be. In order to ascertain these interests we use information that you provide to us, in addition to implicit feedback, i.e. information that we automatically obtain through your usage of our service (by means of so-called "tracking"), as well as information that we may possibly receive indirectly (e.g. through a user's address book or upload). In order to meet our contractual obligations, we also serve you third-party advertising tailored to your needs and interests wherever possible. To this end, we provide advertisers with certain targeting criteria. Advertisers can state, for example, that they would like to target "directors" at companies with "1,000-5,000 employees".
 
 2\. Information you provide to us
 
@@ -349,26 +349,28 @@ Legal basis
 
 The legal basis for this processing of personal data is Article 6 (1) a) (separate consent) of the EU General Data Protection Regulation (GDPR), Article 6 (1) b) (processing necessary for the performance of a contract) of the EU General Data Protection Regulation (GDPR), Article 6 (1) f) (processing based on the weighing of interests) of the EU General Data Protection Regulation (GDPR), and Article 6 (1)cf) (processing necessary for compliance with a legal obligation) of the EU General Data Protection Regulation (GDPR).
 
-3\. Information we automatically obtain through your use of XING
+3\. Information automatically collected through your use of XING
 
 Data about you is automatically collated by means of tracking while you visit or make use of the XING service. Here you can find out:
 
 *   How tracking works
-*   Why we make use of tracking (ensuring security, provision of our service, measurement and optimisation of advertising, and determination of statistics).
+*   Why tracking is used (ensuring security, provision of our service, measurement and optimisation of advertising, and determination of statistics).
 
 Data about you is automatically collated by means of tracking whenever you visit or make use of the XING service. This takes place with the help of various tracking technologies.
 
 How does tracking work?
 
-In the so-called "back end", at our web server level, we collect the data of users and third parties, which we use first and foremost for the provision and preservation of the security of the service XING. In the "front end", on your end device, we use cookies, pixels and similar tracking technologies to collect data about users and third parties to enable the provision of our service and the analysis of user behaviour, for the measurement and optimisation of advertising, and for statistical purposes. In addition, we record e.g. whether and when you have opened an e-mail (if your e-mail program permits HTML). Tracking involves the processing of login data (e.g. date and time of the visit, referrer, IP address, cookie ID, location data, product and version information about the browser or app used, device ID or data) and interaction data (e.g. pages viewed or searches carried out).  When we measure user behaviour for the provision and improvement of our product experience the data is linked during the analysis with your user ID. In all other cases tracking is carried out without any linking to the user ID – for example, to measure the success of advertising campaigns or for statistical purposes. In order to be able to identify you as a user during your visit to XING, we use so-called session cookies. These session cookies are automatically deleted at the end of a session. These cookies are required to be able to use XING. When you register you can choose to remain logged in. If you do, a cookie is then saved in the browser of your end device that means that you don’t need to log in again for as long as the cookie remains saved. We also conduct a very approximate geo-localisation that informs us of the towns/cities you have been to. In order to do this we use your shorted and anonymised IP address, and your geo-coordinates if you have agreed to this on your mobile end device. We do not save your precise location. We only store information about which cities you are in on a regular basis. Specific addresses or geo-coordinates are not saved.
+In the so-called "back end", at our web server level, we collect the data of logged-in users and other visitors, which we use first and foremost for the provision and preservation of the security of the service XING. In the "front end", on your end device, we, or third parties we use, use cookies, pixels, local storage and similar tracking technologies to collect data about logged-in users and other visitors to enable the provision of our service and the analysis of user behaviour, and for the measurement and optimisation of advertising. In addition, we record your usage behaviour in connection with e-mails we send you, e.g. whether and when you have opened an e-mail, and which links you clicked on. Tracking involves the processing of login data (e.g. date and time of the visit, referrer, IP address, cookie ID, location data, product and version information about the browser or app used, device ID or data) and interaction data (e.g. pages viewed or searches carried out).  When we measure user behaviour for the provision and improvement of our product experience the data is linked during the analysis with your user ID. In all other cases tracking is carried out without any linking to the user ID – for example, to measure the success of advertising campaigns. In order to be able to identify you as a user during your visit to XING, we use so-called session cookies. These session cookies are automatically deleted at the end of a session. These cookies are required to be able to use XING. When you register you can choose to remain logged in. If you do, a cookie is then saved in the browser of your end device that means that you don’t need to log in again for as long as the cookie remains saved. We also conduct a very approximate geo-localisation that informs us of the towns/cities you have been to. In order to do this we use your shorted and anonymised IP address, and your geo-coordinates if you have agreed to this on your mobile end device. We do not save your precise location. We only store information about which cities you are in on a regular basis. Specific addresses or geo-coordinates are not saved.
 
 The purposes of tracking and your opt-out options Ensuring security
 
-One reason for tracking is to ensure and preserve the legitimate interest of the protection of users, the security of user data, XING Websites, and the XING service. To this end, we save the data we record for up to 90 days in its full form. Only a limited number of our employees with the respective authorisation rights have access to this data. The legal basis for this processing of personal data is Article 6 (1) f) of the EU General Data Protection Regulation (GDPR).
+One reason for tracking is to ensure and preserve the legitimate interest of the protection of users, the security of user data, XING Websites, and the XING service. To this end, we save the data we record for up to 90 days in its full form. Only a limited number of our employees with the respective authorisation rights have access to this data. The legal basis for this processing of personal data are Article 6 (1) f) and Article 32 of the EU General Data Protection Regulation (GDPR).
 
 Provision of our service
 
-Tracking and analysing user behaviour helps us to review and optimise the effectiveness of our service, and to correct any errors and faults. We endeavour at all times to adapt our products and services to the needs of our users. Personalisation is an important aspect here. Analysing data obtained from tracking is necessary to make personalised services available to you in accordance with the contractual purpose of XING and to ensure that you gain the great possible benefit from XING The implicit feedback that you provide to us through our tracking of your usage of XING forms an important part of understanding what content you are more or less interested in, and being able to suggest you to other users as a valuable business contact or potential employee. This implicit feedback is enormously important as the information you provide to us is reflective of the past and the present for the most part, and says little about what interests you have with regard to the future. Interest profiles produced, for example, with the help of click data or searches you have conducted often form a better basis for estimating whether you, for example, are interested in finding a new job and what type of job openings you might be particularly interested in. When you delete your user account we delete or anonymise the personal data we have obtained through tracking in order to provide our service.
+We mainly use tracking and the associated user behaviour analysis to meet our contractual obligations and to perform pre-contractual measures. The legal basis for this processing of personal data is Article 6 (1) b) of the EU General Data Protection Regulation (GDPR). If tracking is not used to meet our contractual obligations or to perform pre-contractual measures, but to provide the service you visit or use, the legal basis for this processing is Article 6 (1) f) of the EU General Data Protection Regulation (GDPR). To this end, we pursue the legitimate interest of providing you with a smooth and user-friendly service.
+
+Tracking and analysing user behaviour helps us to review and optimise the effectiveness of our service, and to identify and correct any errors and faults. To this end, we also use several services from third-party providers, such as Google. We endeavour at all times to adapt our products and services to the needs of our users. Personalisation is an important aspect here. Analysing data obtained from tracking is necessary to make personalised services available to you in accordance with the contractual purpose of XING and to ensure that you gain the great possible benefit from XING The implicit feedback that you provide to us through our tracking of your usage of XING forms an important part of understanding what content you are more or less interested in, and being able to suggest you to other users as a valuable business contact or potential employee. This implicit feedback is enormously important as the information you provide to us is reflective of the past and the present for the most part, and says little about what interests you have with regard to the future. Interest profiles produced, for example, with the help of click data or searches you have conducted often form a better basis for estimating whether you, for example, are interested in finding a new job and what type of job openings you might be particularly interested in. When you delete your user account we delete or anonymise the personal data we have obtained through tracking in order to provide our service.
 
 Examples Clickpath
 
@@ -382,7 +384,7 @@ Personal statistics
 
 In order to be able to identify you as a valuable business contact or potential employee, we may show other users information about your personal XING usage. This might include your level of user activity, the number of things you have in common with a respective profile visitor, events you have attended, the number times you have visited a user’s profile, how long you have been a member and what kind of membership you have.
 
-Third-party tracking tools used and your opt-out options. Adobe Digital Analytics
+You can opt out of tracking by the following third-party providers: Adobe Digital Analytics
 
 We use the tracking tool Adobe Digital Analytics. Whenever you are logged in as a user on XING your data is matched with your user ID during the tracking process. If you are not logged in as a user, tracking is pseudonymous, i.e. we are not able to directly deduce information regarding your identity from information we obtain from tracking. The cookies used for the web analysis contain an ID which allows us to identify your end device’s browser. We have closed a data processing agreement with the provider and your IP addresses are anonymised immediately after collection and personal data is processed within the European Union.
 
@@ -427,21 +429,13 @@ Measurement and optimisation of advertising
 Tracking helps us to obtain metrics for the success of advertising campaigns and to optimise the way that online ads are displayed. Your user ID is not associated with the data collated here in any way.  
 In this context, the servers of third-party providers (e.g. marketers) might be accessed directly when using XING. Here, the respective third-party provider may record the fact that you visited our website(s). In addition, such site visits may lead to information being sent to some of these third-party providers with the aim of optimising and measuring the performance of our advertising. This includes, for example, information about the kind of pages you visited, or you belonging to a certain target audience we have defined. Calling third-party provider servers directly allows third-party providers to use cookies and advertising IDs for retargeting purposes. Retargeting technologies enables third-party providers to show you personalised advertising based on your previous browsing behaviour on partner websites. Third-party providers are, to some extent, able to link your various technical IDs and thus show you personalised advertising across multiple devices. Third-party providers are responsible themselves for ensuring that the operation of the IT systems they use meets the required data protection provisions. Determination of the period of time that data is stored for is incumbent upon the provider.  
   
-You can opt out of tracking for the measurement and optimisation of advertising by third-party providers. In the following you will find further information about the tracking technologies used and information from providers about data processing.
+Tracking for the measurement and optimisation of advertising is based on your consent, see Article 6 (1) a) of the EU General Data Protection Regulation (GDPR). You can withdraw your consent at any time.
 
-Opting out of tracking for the measurement and optimisation of advertising in our applications
+Third-party providers we use
 
-Below you can opt out of tracking for the measurement and optimisation of advertising. In some cases we use technologies that you can only opt out of directly on your end device.
+In the following you will find further information about the tracking technologies used and information from providers about data processing.
 
-*   Note for XING members:
-    
-    Please visit your settings to adjust your tracking settings for all devices.
-    
-    Go to your XING settings Opt in to tracking on XING As a non-member these changes only apply in the browser you're currently using.
-*   Opt in to tracking on XING events Your changes only apply in the browser you're currently using.
-*   Opt in to tracking on kununu and kununu engage Your changes only apply in the browser you're currently using.
-
-Opting out applies to the following tracking technologies: Google
+Google
 
 More information is available here
 
@@ -485,7 +479,7 @@ Adjust
 
 More information is available here
 
-Adition
+ADITION
 
 More information is available here
 
@@ -509,75 +503,49 @@ A direct link to the Snap servers is established via the Snap Pixel implemented 
   
 Further information about the collection and usage of data by Snap and about your corresponding right and options for protecting your privacy can be found in the Snap Privacy Center at https://www.snap.com/en-US/privacy/privacy-center/.
 
-You can only opt out of the following tracking technologies directly on your end device: Advertising Identifier/ Advertising ID
+Xandr
+
+More information
+
+OptinMonster
+
+More information
+
+Opting out of tracking for the measurement and optimisation of advertising in our applications Tracking settings for individual XING applications
+
+The links below allow you to select your tracking settings for individual applications.  
+Please note that tracking opt-outs are handled by way of a cookie set on your end device. Should you delete this cookie or use a different end device or browser, you'll need to opt out of tracking again.
+
+Opt-In Tracking Settings
+
+Your changes only apply in the browser you’re currently using.
+
+*   Tracking on XING Adapt Opt-In
+*   Tracking on XING Events Adapt Opt-In
+*   Tracking on kununu Adapt Opt-In
+*   Tracking on New Work Adapt Opt-In
+*   Tracking on Bewerbung.com Adapt Opt-In
+*   Tracking on Lebenslauf.com Adapt Opt-In
+*   Tracking on Anschreiben.com Adapt Opt-In
+*   Tracking on HalloFreelancer Adapt Opt-In
+
+Erasure of previously saved cookies
+
+We do not erase cookies saved on your end device if you withdraw your consent. By withdrawing your consent in the tracking settings for individual XING applications, you only opt out of tracking for the measurement and optimisation of advertising in the respective applications.  
+  
+If you visit third-party sites that are not covered by these tracking settings, those third parties will still be able to access cookies saved in your end device. If you'd like to prevent this, please erase the third-party provider cookies from your end device. But please don't delete the "userConsent" cookies we set as otherwise we won't be able to determine whether you opted in or out of tracking for the measurement and optimisation of advertising in the respective XING applications. If you delete this cookie, you'll then be prompted to opt in or out of tracking for the measurement and optimisation of advertising when you next visit our application.  
+  
+The process required to delete cookies and set what information your browser saves depends on the browser you use. Please refer to the help section of your browser for further details.
+
+You can only opt out of the following tracking technologies directly on your mobile end device:
+
+In some cases we use technologies that you can only opt out of directly on your mobile end device.
+
+Advertising Identifier/ Advertising ID
 
 In order to track installs of apps on XING we use what is known as an Advertising Identifier (IDFA, on iOS) or an Advertising ID (on Android). These are unique, non-personalised and non-permanent identification numbers which iOS and Android assign to a certain end device. We use information about the number of installs to provide recommended app providers with an indication of how effective the recommendations are. No personal data is displayed when doing so, only the number of installs.  
   
 We are unable to create a link to apps promoted on XING and any installations of these apps if you select the no ad tracking option in the iOS settings (Settings - Privacy - Advertising) or in the Android settings (Settings - Google - Ads - Opt out of Ads Personalisation). You can delete the Advertising Identifier (IDFA) at any time in your device settings (reset ad ID). A new identification number will then be generated that is not linked to previously collected data.
-
-Determination of statistics
-
-The objective of audience measurement is to statistically determine the intensity of use, the number of users of a particular website, and their surfing behaviour based on a standardised process in order to obtain values that can be compared on a market level. The respective provider is responsible for determining how long data is saved for this purpose.
-
-Tracking technologies used: INFOnline, AGOF, IVW
-
-We use the measurement system (SZMng) developed by INFOnline GmbH (https://www.infonline.de) to gather statistics about the use of our websites. The objective of audience measurement is to statistically determine the frequency and intensity of use, the number of users on our websites, and their surfing behaviour based on a standardised process in order to obtain values that can be compared on a market level.  
-  
-All digital offerings, the operators of which are members of the German Audit Bureau of Circulation (IVW) or which participate in studies organised by Working Group for Online Media Research (AGOF) will have their audience usage statistics processed and published by AGOF and the Arbeitsgemeinschaft Media-Analyse e.V. together with the number of unique users, and also processed and published by the IVW together with the number of page impressions and visits. These reach figures and statistics are provided on the respective websites.
-
-Legal basis for processing
-
-Measurements using the SZMnG measurement system provided by INFOnline GmbH are performed with a legitimate interest as defined in Article 6 (1) f) of the EU GDPR.  
-  
-Processing personal data serves the purpose of generating statistics and creating user categories. We use statistics to gain an understanding of how our products are used. User categories form the basis of serving advertisements in line with personal interests. Usage measurements, which enable us to compare ourselves with our competitors, are essential to marketing our websites and applications. Our legitimate interest arises from the economic value of the insights gleaned from the statistics and user categories, as well as the market value of our websites and applications - also when compared directly with third-party websites and applications - determined using statistics.  
-  
-We also have a legitimate interest in providing the pseudonymised data from INFOnline, AGOF and IVW for market research (AGOF, agma) and statistical (IVW, INFOnline) purposes. In addition, we have a legitimate interest in providing the pseudonymised data from INFOnline to develop and provide advertisements based on personal interests.
-
-Data type
-
-INFOnline GmbH collects the following data deemed personal according to the EU GDPR:
-
-*   IP address: Any device that accesses the Internet requires a unique address known as an IP address. Due to the nature of how the Internet works, we need to temporarily save your IP address. Your IP addresses are always truncated prior to processing and only ever forwarded in anonymised form. IP addresses are never saved or processed in their full form.
-*   A randomly generated client identifier: To recognise computer systems, the audience measurement process either sets an 'ioam.de' cookie, a local storage object, or a signature created from various items of information automatically transferred by your browser. This identifier is unique to a browser as long as the cookie or local storage object is not deleted. Data measurement and subsequent assignment to the respective client identifier may therefore also be possible if you visit other websites that also use the SZMnG measurement system provided by INFOnline GmbH. Cookies are valid for a maximum of one (1) year.
-*   A device identifier: To recognise devices, the audience measurement process uses the end device's IDs or a signature created from various items of information automatically transferred by your device. Data measurement and subsequent assignment to the respective identifier may therefore also be possible if you open other applications that also use the SZMnG measurement system provided by INFOnline GmbH. The following unique device identifiers may be sent as a hash to INFOnline GmbH:
-    *   Advertising identifier
-    *   Installation ID
-    *   Android ID
-    *   Vendor ID
-
-Data usage
-
-We use the measurement system provided by INFOnline GmbH on our websites and in our applications to collect usage data, including page impressions, visits and clients along with other statistics such as qualified clients. The data collected is used as follows:
-
-*   So-called geolocalisation, which involves assigning a website visit to the place where it was visited, only takes place using an anonymised IP address and is only narrowed down to a regional level. The geographical information generated does not enable us to determine a user's exact location or place of residence.
-*   The website and application usage data of a technical client (e.g. device browser) is collected and saved in a single database. This information is used to estimate the age and gender of users and is sent to AGOF service providers for audience measurement purposes. When conducting an AGOF study, random samples are used to estimate sociographics in the following categories: Age, gender, nationality, occupation, marital status, general household information, household income, place of residence, Internet usage, online interests, usage location, user type.
-
-Scorecard Research
-
-We have implemented the Scorecard Research service on our websites. This service collects data pertaining to browsing behaviour on the websites of companies that registered with ComScore, a company that produces market research studies and reports for economic sectors. You can find out more about data processing here.  
-  
-You have the option to object to this kind of data collection and opt out of further data collection by clicking on the following link: http://www.scorecardresearch.com/OptOutTag.aspx  
-This will set what's known as an opt-out cookie in your browser. Please note that Scorecard Research will be used again if this opt-out cookie is deleted.
-
-Data storage period
-
-INFOnline GmbH does not save your full IP address. Instead, it saves a truncated IP address for up to 60 days. Usage data linked to a unique identifier is saved for a maximum of 6 months.
-
-Data transfer
-
-Your IP address and abridged IP address are not transferred or passed on. Data with client identifiers is passed on to the following AGOF service providers in order to create the AGOF study:
-
-*   Kantar Deutschland GmbH
-*   Ankordata GmbH &. Co. KG
-*   Interrogare GmbH
-
-Right to object
-
-If you would prefer not to take part in measurements performed on our websites, you can opt out via the following link: https://optout.ioam.de (in German). A cookie will then be set to ensure from a technical perspective that you are no longer being measured. Should you delete your browser's cookies, you will need to repeat the opt-out process via the above link to ensure you are again not being measured. When using mobile apps, you need to opt out in the respective app settings.
-
-More information
-
-More information about privacy regarding the measurement system is provided on the website of the operator (INFOnline GmbH), AGOF's privacy website (in German), and IVW's privacy website (in German).
 
 Tracking of content and your opt-out options Tracking in embedded third-party content
 
@@ -591,7 +559,7 @@ If you’d like to prevent tracking by external providers within the XING enviro
     
     Please visit your settings to adjust your tracking settings for all devices.
     
-    Go to your XING settings Opt in to tracking on XING Your changes only apply in the browser you're currently using.
+    Go to your XING settings Opt in to tracking on XING As a non-member these changes only apply in the browser you're currently using.
 
 4\. Information we obtain about you from other sources
 
