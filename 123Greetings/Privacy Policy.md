@@ -25,7 +25,7 @@
 *   Shavuot
 *   More...
     *   Profess Your Love Day (Jun 9, 2020)
-    *   Hamburger Day (May 28, 2020)
+    *   Butterfly Day (Jun 19, 2020)
     *   Graduation (May - Jun, 2020)
     *   No Tobacco Day (May 31, 2020)
     *   Pentecost (May 31, 2020)
