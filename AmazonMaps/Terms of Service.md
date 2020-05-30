@@ -1,8 +1,8 @@
 Amazon Maps Terms of Use
 
-**Last Updated: January 29, 2016**
+**Last Updated: May 29, 2020**
 
-This is an agreement between you and Amazon Digital Services LLC (with its affiliates, "Amazon", "we" or "us") regarding the Amazon maps service, data and associated software (collectively, the "Service"). Before using the Service, please read these Terms of Use, all rules and policies related to the Service (including any specific rules, usage restrictions and other conditions or procedures that we post or update on or through the Service or on Amazon.com), the Amazon.com Privacy Notice and the Amazon.com Conditions of Use (collectively, the "Agreement"). If you use the Service, you are agreeing to the terms and conditions of the Agreement.
+This is an agreement between you and Amazon.com Services LLC (with its affiliates, "Amazon", "we" or "us") regarding the Amazon maps service, data and associated software (collectively, the "Service"). Before using the Service, please read these Terms of Use, all rules and policies related to the Service (including any specific rules, usage restrictions and other conditions or procedures that we post or update on or through the Service or on Amazon.com), the Amazon.com Privacy Notice and the Amazon.com Conditions of Use (collectively, the "Agreement"). If you use the Service, you are agreeing to the terms and conditions of the Agreement.
 
 **1\. The Maps Service**
 
