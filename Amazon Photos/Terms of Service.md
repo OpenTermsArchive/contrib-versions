@@ -1,10 +1,10 @@
 Amazon Photos Terms of Use
 
-Last Updated: September 4, 2018
+Last Updated: June 01, 2020
 
 **Amazon Photos Terms of Use**
 
-This is an agreement between you and Amazon Digital Services LLC (together with its affiliates, “Amazon”, “we”, or “us”) regarding the Amazon Photos services and associated software (including any legacy Amazon Drive applications) (the “Services”). Before using the Services, please read these Terms of Use, all rules and policies related to the Services (including any service plan specific rules, usage restrictions, and other conditions or procedures that we post or update on or through the Services or on Amazon.com), the Amazon.com Privacy Notice and the Amazon.com Conditions of Use posted on Amazon.com (collectively, the “Agreement”). If you use the Services, you will be bound by the Agreement.
+This is an agreement between you and Amazon.com Services LLC (together with its affiliates, “Amazon”, “we”, or “us”) regarding the Amazon Photos services and associated software (including any legacy Amazon Drive applications) (the “Services”). Before using the Services, please read these Terms of Use, all rules and policies related to the Services (including any service plan specific rules, usage restrictions, and other conditions or procedures that we post or update on or through the Services or on Amazon.com), the Amazon.com Privacy Notice and the Amazon.com Conditions of Use posted on Amazon.com (collectively, the “Agreement”). If you use the Services, you will be bound by the Agreement.
 
 **1\. The Amazon Photos Services**
 
@@ -62,7 +62,7 @@ The Family Vault, Groups and image recognition features may not be available to 
 
 **6.2 Amendment**. We may amend the Agreement at our sole discretion by posting the revised terms in the Services or on Amazon.com, but any increase in fees will not affect the cost of your Service Plan during its term. Your continued use of the Services or the Software after any amendment evidences your agreement to be bound by it.
 
-**6.3 Contact Information. Copyright Notices**. For communications concerning the Agreement, please write to Amazon Digital Services, LLC, Attn: Legal Department, P.O. Box 81226, Seattle, WA 98108-1226 or 410 Terry Avenue North Seattle, WA 98109 (courier). If you believe that your work has been copied in a way that constitutes copyright infringement, please follow the Notice and Procedure for Making Claims of Copyright Infringement specified in the Amazon.com Conditions of Use.
+**6.3 Contact Information. Copyright Notices**. For communications concerning the Agreement, please write to Amazon.com Services LLC, Attn: Legal Department, P.O. Box 81226, Seattle, WA 98108-1226 or 410 Terry Avenue North Seattle, WA 98109 (courier). If you believe that your work has been copied in a way that constitutes copyright infringement, please follow the Notice and Procedure for Making Claims of Copyright Infringement specified in the Amazon.com Conditions of Use.
 
 **6.4 Disputes/Binding Arbitration. Any dispute or claim arising from or relating to the Agreement or the Services is subject to the binding arbitration, governing law, disclaimer of warranties and limitation of liability and all other terms in the** **Amazon.com Conditions of Use** . **You agree to those terms by entering into the Agreement or using the Services.**
 
