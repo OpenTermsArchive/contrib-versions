@@ -18,21 +18,21 @@
 *   Events &. Holidays
 *   MorePetsWorld LanguagesAt WorkFlowersKeep in TouchWeddingInvitations
 
-*   Best Friends Day
 *   Rose Month
+*   Best Friends Day
 *   Love Conquers All Day
-*   Pentecost
-*   Whit Monday
+*   Father's Day
+*   Summer
 *   More...
-    *   No Tobacco Day (May 31, 2020)
-    *   Graduation (May - Jun, 2020)
-    *   International Children's Day (Jun 1, 2020)
-    *   Hug Your Cat Day (Jun 4, 2020)
-    *   Ice Cream Day (Jun 8, 2020)
     *   Profess Your Love Day (Jun 9, 2020)
-    *   Red Rose Festival (Jun 14, 2020)
     *   Smile Power Day (Jun 15, 2020)
     *   Sneak a Kiss Day (Jun 15, 2020)
+    *   Whit Monday (Jun 1, 2020)
+    *   International Children's Day (Jun 1, 2020)
+    *   Graduation (May - Jun, 2020)
+    *   Hug Your Cat Day (Jun 4, 2020)
+    *   Ice Cream Day (Jun 8, 2020)
+    *   Red Rose Festival (Jun 14, 2020)
     *   Butterfly Day (Jun 19, 2020)
     *   Juneteenth (Jun 19, 2020)
     *   See All Events
