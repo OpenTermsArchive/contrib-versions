@@ -164,7 +164,7 @@ This privacy policy concerns the processing of personal data in the Services off
 
 Our contact information
 
-Sulake Corporation Oy
+Sulake Oy
 
 Kaarlenkatu 11
 
