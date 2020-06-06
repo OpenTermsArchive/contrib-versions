@@ -162,47 +162,7 @@ California Consumer Privacy Act
 
 Under the California Consumer Privacy Act (“CCPA”), California residents have the right to know what personal information about them is collected, request deletion of their personal data, opt-out of the sale of their personal data, and not be discriminated against if they choose to exercise any of these rights. Coursera does not sell any of the data we collect about you. If you’d like to exercise any of the other rights afforded to you, select ‘Settings’ in your account or contact us at privacy@coursera.org.
 
-**Personal Information Collection and Purposes**
-
-We collect and use personal information regarding California residents for the purposes described below including:
-
-*   run, grow and develop our business;
-*   operate our Site and provide our Services;
-*   select appropriately skilled and qualified suppliers;
-*   build relationships with partners and academic institutions;
-*   carry out research and statistical analysis;
-*   carry out marketing and business development. and
-*   for internal administrative and auditing purposes.
-
-We do not sell your personal information. We may share it to support our operational needs in providing our Site and Services to you, as described in our Privacy Notice. These operational needs, known as “business purposes” under the CCPA, are described below. In addition, we may share personal information at your direction.
-
-_Service Providers_
-
-We may share personal information with Service Providers, as defined by the CCPA, in order to have them perform services specified by a written contract or with others for a purpose permitted by the CCPA, such as responding to a law enforcement request.
-
-_Security_
-
-We may share personal information with our partners, service providers, and law enforcement to secure our Site and Services, including to detect, prevent, and investigate security incidents or violations of our Terms of Use or applicable laws.
-
-_Audits_
-
-We may share personal information with partners and service providers in order to audit interactions and transactions.
-
-_Service Improvements_
-
-We may share personal information with our partners and service providers in order to improve our Site and Services, such as to identify bugs, repair errors, or ensure that services function as intended, or conduct internal research and analysis to improve our technology.
-
-**Personal Information Categories**
-
-Our Privacy Notices covers our personal information collection and usage more fully. The chart below organizes personal information into the categories specified by the CCPA.
-
-Personal Information CategorySourcesPersonal information described in Cal. Civ. Code §1798.80(e)(such as name, address, telephone number, education, employment history, credit card or debit card number)Information you provide directly or through your interactions with our Services Information from our partners or customersIdentifiers (e.g., real name, alias, postal address, unique personal identifier, online identifier, Internet Protocol address, email address, account name, or other similar identifiers)Information you provide to us directly or through your interactions with our Site and Services (as defined in our Terms of Use and Privacy Notice) Vendors that provide information to help us serve relevant ads and understand the ads’ effectivenessCharacteristics of protected classifications under California or Federal law (e.g., your gender or age) (“Characteristics of Protected Classifications”)Information you provide to us directlyCommercial information (e.g., information regarding products or services purchased, obtained, or considered)Information you provide to us directly, such as purchasing a standalone course or subscription Your interactions with our Site and Services Information from our partners and customersInternet or Other Electronic Network Activity Information (e.g., browsing history, search history, and information regarding your interactions with our Services)Your interactions with our Site and ServicesGeolocation DataInformation you provide to us directly or through your interactions with our Site and ServicesProfessional or Employment-Related InformationInformation you provide to us directly Information from our customers, partners, or your employerInferencesInformation you provide to us directly or through your interactions with our Site and Services Information from our partners and customersAudio, electronic, visual or similar informationInformation you provide directly or through your interactions with our Services, customers or partners
-
-We use this personal information for the purposes outlined in our Privacy Notice.
-
-**California Residents' Privacy Rights**
-
-California residents have rights to request access to or deletion of their personal information and may not be discriminated against because they exercise any of their rights under the California Consumer Privacy Act in violation of Cal. Civ. Code §1798.125. They can make requests as follows: (1) use our self-serve access and deletion tools available in your account settings or (2) send an email to privacy@coursera.org with details of your specific request. California residents also have the right to opt out of the sale of their personal information. Coursera does not provide this option as we do not sell your personal information. Coursera will not collect new categories of personal information or use previously collected personal information for materially different purposes without first notifying you.
+For more information about the CCPA, review our full CCPA Notice here.
 
 International Privacy Practices
 
