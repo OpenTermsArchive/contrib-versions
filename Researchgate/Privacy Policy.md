@@ -1,4 +1,4 @@
-Last updated: October 23, 2017Privacy PolicyContents
+Last updated: October 22, 2017Privacy PolicyContents
 
 *   1\. Introduction
 *   2\. Information we collect and how we collect it
