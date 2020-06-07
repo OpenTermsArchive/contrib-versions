@@ -4,13 +4,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Wrong user name linked to my email
     *   by eidotsdeentam
-    *   7 hours ago
+    *   1 day ago
     *   in Usernames
     *   0 votes
     *   0
 *   Wrong user name linked to my email
     *   by eidotsdeentam
-    *   7 hours ago
+    *   1 day ago
     *   in Usernames
     *   0 votes
     *   0
