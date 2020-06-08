@@ -28,13 +28,13 @@
     *   Sneak a Kiss Day (Jun 15, 2020)
     *   Butterfly Day (Jun 19, 2020)
     *   Red Rose Festival (Jun 14, 2020)
+    *   LGBT Pride Month (June 2020)
     *   Graduation (May - Jun, 2020)
     *   Ice Cream Day (Jun 8, 2020)
     *   World Ocean Day (Jun 8, 2020)
     *   Juneteenth (Jun 19, 2020)
-    *   World Music Day (Jun 21, 2020)
-    *   Feast of John the Baptist (Jun 24, 2020)
-    *   Dragon Boat Festival (Jun 25, 2020)
+    *   Flag Day (Jun 20, 2020)
+    *   West Virginia Day (Jun 20, 2020)
     *   See All Events
 *   Go
 
