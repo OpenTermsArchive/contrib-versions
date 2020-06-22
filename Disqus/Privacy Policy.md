@@ -1,6 +1,6 @@
 Disqus Privacy Policy
 
-Updated February 25, 2020
+Updated June 10, 2020
 
 This Privacy Policy tells you about how Disqus collects, uses, sells, discloses  
 and protects data relating to you in connection with our Service (as defined  
@@ -50,8 +50,8 @@ across different channels and platforms, including but not limited to, computers
 mobile devices, over time for advertising (including addressable TV), analytics,  
 attribution, and reporting purposes.
 
-**5\. HOW WE USE YOUR PERSONAL DATA  
-**a. We will use your personal data in the following circumstances. where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests, where we need to comply with a legal or regulatory obligation, where you have provided your consent to such use.
+**5\. HOW WE USE YOUR PERSONAL DATA**  
+a. We will use your personal data in the following circumstances. where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests, where we need to comply with a legal or regulatory obligation, where you have provided your consent to such use.
 
 b. We have set out below, in a table format, a description of all the ways we plan to use your personal data, and which of the legal bases we rely on to do so. We have also identified what our legitimate interests are where appropriate.
 
@@ -131,4 +131,4 @@ a. Contact. If you have any questions about this Privacy Policy, please email us
 
 b. Changes to Privacy Policy. Disqus may, in its sole discretion, modify or update this Privacy Policy from time to time, and so you should review this page periodically. When we change the policy, we will update the ‘last modified’ date at the bottom of this page. Your continued use of the Site following the posting of any changes to this policy means you accept such changes.
 
-This Privacy Policy was last modified on  February 25 2020. Click here to view the Terms of Service.
+This Privacy Policy was last modified on  June 10, 2020. Click here to view the Terms of Service.
