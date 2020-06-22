@@ -4,7 +4,7 @@ Learn the terms and policies that apply to various Apple online features and ser
 
 Apple Media Services
 
-Terms and conditions applicable to purchases, gift certificates, and allowances in the iTunes Store, App Store, Apple Books, and Apple Music.
+Terms and conditions are applicable to Apple services and apps, including: App Store, Apple Arcade, Apple Music, Apple TV app/Apple TV Channels/Apple TV+, Apple News, Apple News+, iTunes, Apple Books, Apple Podcasts, and more.
 
 Review the Apple Media Services terms
 
