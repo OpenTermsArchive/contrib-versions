@@ -388,7 +388,7 @@ You can opt out of tracking by the following third-party providers: Adobe Digita
 
 We use the tracking tool Adobe Digital Analytics. Whenever you are logged in as a user on XING your data is matched with your user ID during the tracking process. If you are not logged in as a user, tracking is pseudonymous, i.e. we are not able to directly deduce information regarding your identity from information we obtain from tracking. The cookies used for the web analysis contain an ID which allows us to identify your end device’s browser. We have closed a data processing agreement with the provider and your IP addresses are anonymised immediately after collection and personal data is processed within the European Union.
 
-You can opt out of tracking by Adobe Digital Analytics at any time, simply by clicking on the following link and opting to exclude yourself from visitor session aggregation and analysis: https://nats.xing.com/optout.html?locale=en\_US  
+You can opt out of tracking by Adobe Digital Analytics at any time, simply by clicking on the following link and opting to exclude yourself from visitor session aggregation and analysis: https://www.adobe.com/de/privacy/opt-out.html  
   
 Please note that this opt-out option installs a cookie on the end device you’re using when you click on the link. You therefore might not be excluded from tracking if you then delete the cookie in question. When using mobile apps, you need to opt out in the respective app settings.
 
