@@ -18,23 +18,23 @@
 *   Events &. Holidays
 *   MorePetsWorld LanguagesAt WorkFlowersKeep in TouchWeddingInvitations
 
-*   Best Friends Day
 *   Father's Day
+*   International Yoga Day
 *   Rose Month
-*   Profess Your Love Day
 *   Summer
+*   Canada Day
 *   More...
-    *   Smile Power Day (Jun 15, 2020)
-    *   Sneak a Kiss Day (Jun 15, 2020)
-    *   Butterfly Day (Jun 19, 2020)
-    *   Red Rose Festival (Jun 14, 2020)
-    *   LGBT Pride Month (June 2020)
-    *   Graduation (May - Jun, 2020)
-    *   Ice Cream Day (Jun 8, 2020)
-    *   World Ocean Day (Jun 8, 2020)
-    *   Juneteenth (Jun 19, 2020)
-    *   Flag Day (Jun 20, 2020)
-    *   West Virginia Day (Jun 20, 2020)
+    *   July Flowers (July 2020)
+    *   4th of July (Jul 4, 2020)
+    *   World Music Day (Jun 21, 2020)
+    *   Feast of John the Baptist (Jun 24, 2020)
+    *   International Joke Day (Jul 1, 2020)
+    *   Doctor's Day (Jul 1, 2020)
+    *   I Forgot Day (Jul 2, 2020)
+    *   World UFO Day (Jul 2, 2020)
+    *   Friendship Festival (New York) (Jul 3 - 7, 2020)
+    *   Full Moon Day (Jul 5, 2020)
+    *   Kissing Day (UK) (Jul 6, 2020)
     *   See All Events
 *   Go
 
