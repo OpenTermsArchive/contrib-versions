@@ -18,7 +18,7 @@
 *   Support
     *   Help &. Support
     *   Status
-    *   Parent's Guide
+    *   Safety Center
 
 *   Login
 
@@ -319,4 +319,4 @@ Contact. If you have any questions about these Terms, please contact privacy@dis
 
 Discord is made possible through the work of other open source software.
 
-ProductDownloadBrandingNitroDevelopersSell Your GameRich PresenceVerificationApplicationsDocumentationResourcesHelp &. SupportGuidelinesFeedbackTermsPrivacySecurityStatusCompanyAboutBlogJobsMorePartnersHypeSquadPress InquiriesOpen SourceReady to try Discord? It's free!JOIN OVER 250 MILLION PLAYERS TODAYSign Up Now
+ProductDownloadBrandingNitroDevelopersSell Your GameRich PresenceVerificationApplicationsDocumentationResourcesHelp &. SupportGuidelinesFeedbackTermsPrivacySecurityStatusSafety CenterCompanyAboutBlogJobsMorePartnersHypeSquadPress InquiriesOpen SourceReady to try Discord? It's free!JOIN OVER 250 MILLION PLAYERS TODAYSign Up Now
