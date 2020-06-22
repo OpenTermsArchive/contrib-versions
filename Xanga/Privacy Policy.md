@@ -1,101 +1,95 @@
-Skip to toolbar
-
-*   Xanga
-
-*   Log In
-
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   lost my email
+    *   by sell\_TCsss
+    *   3 days ago
+    *   in Emails
+    *   0 votes
+    *   0
+*   Old Xanga archived?
+    *   by yourmomisreallyfreakinhott
+    *   1 week ago
+    *   in Data Migration
+    *   0 votes
+    *   2 (last comment by jpu02 4 days ago)
+*   Old archives?
+    *   by EvilBeef
+    *   4 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Need my old account back
+    *   by philos4life
+    *   6 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Wrong user name linked to my email
     *   by eidotsdeentam
-    *   2 days ago
+    *   2 weeks ago
     *   in Usernames
     *   0 votes
     *   0
 *   Wrong user name linked to my email
     *   by eidotsdeentam
-    *   2 days ago
+    *   2 weeks ago
     *   in Usernames
     *   0 votes
     *   0
 *   Archive a user (not me)
     *   by quikblade88
-    *   2 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Dashboard
     *   by reformedbelievr
-    *   2 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve old posts
     *   by MADDwoaw
-    *   3 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieve old posts!
     *   by MADDwoaw
-    *   3 weeks ago
+    *   1 month ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   Blogs Archived
     *   by suckitrealeasy
-    *   3 weeks ago
+    *   1 month ago
     *   in Miscellaenous
     *   0 votes
     *   0
 *   Where are my posts?
     *   by gobbledeeegook
-    *   3 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Where are my posts?
     *   by gobbledeeegook
-    *   3 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
 *   NEW ENTRIE MAY 9, 2020!!!!
     *   by Robertson\_Laurel
-    *   3 weeks ago
+    *   1 month ago
     *   in Adding &. Editing Entries
     *   0 votes
     *   0
 *   NEW ENTRIE MAY 9, 2020!!!!
     *   by Robertson\_Laurel
-    *   3 weeks ago
+    *   1 month ago
     *   in Adding &. Editing Entries
-    *   0 votes
-    *   0
-*   ADDING TITLES AND NEW ENTRIES
-    *   by Robertson\_Laurel
-    *   3 weeks ago
-    *   in Adding &. Editing Entries
-    *   0 votes
-    *   0
-*   I Can't Find My Old Posts
-    *   by asukashikome
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   I can't find my old page
-    *   by HIKKO\_LAI
-    *   1 month ago
-    *   in Themes
-    *   0 votes
-    *   0
-*   I can't find my old page
-    *   by HIKKO\_LAI
-    *   1 month ago
-    *   in Themes
     *   0 votes
     *   0
 
@@ -156,4 +150,8 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
+
+*   Xanga
+
+*   Log In
