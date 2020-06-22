@@ -673,12 +673,7 @@ Or call to order 1-866-819-1239 or Chat Now No Chat Available .
 
 Sorry! We are experiencing technical difficulties but our team is currently working to resolve it.
 
-If you need immediate assistance, please call:
-
-Sales team: 1-866-445-8084  
-Account Support team: 1-800-347-1991
-
-Enter your address again
+If you need immediate assistance, please call: 1-866-913-6913
 
 FIBER is now available to your area. Promo Month Limitedoffer
 
