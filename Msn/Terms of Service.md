@@ -392,6 +392,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Microsoft Research Open Data
 *   Microsoft Soundscape
 *   Microsoft Support and Recovery Assistant for Office 365
+*   Microsoft Teams
 *   Microsoft Translator
 *   Microsoft Wallpaper
 *   Microsoft XiaoIce
@@ -853,6 +854,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Microsoft Research Open Data
 *   Microsoft Soundscape
 *   Microsoft Support and Recovery Assistant for Office 365
+*   Microsoft Teams
 *   Microsoft Translator
 *   Microsoft Wallpaper
 *   Microsoft XiaoIce
