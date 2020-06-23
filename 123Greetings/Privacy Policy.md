@@ -18,15 +18,14 @@
 *   Events &. Holidays
 *   MorePetsWorld LanguagesAt WorkFlowersKeep in TouchWeddingInvitations
 
-*   Father's Day
-*   International Yoga Day
+*   4th of July
 *   Rose Month
 *   Summer
 *   Canada Day
+*   July Flowers
+*   Chocolate Day
 *   More...
-    *   July Flowers (July 2020)
-    *   4th of July (Jul 4, 2020)
-    *   World Music Day (Jun 21, 2020)
+    *   Cheer Up Day (Jul 11, 2020)
     *   Feast of John the Baptist (Jun 24, 2020)
     *   International Joke Day (Jul 1, 2020)
     *   Doctor's Day (Jul 1, 2020)
@@ -35,6 +34,7 @@
     *   Friendship Festival (New York) (Jul 3 - 7, 2020)
     *   Full Moon Day (Jul 5, 2020)
     *   Kissing Day (UK) (Jul 6, 2020)
+    *   Video Games Day (Jul 8, 2020)
     *   See All Events
 *   Go
 
