@@ -10,19 +10,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   lost my email
     *   by sell\_TCsss
-    *   4 days ago
+    *   5 days ago
     *   in Emails
     *   0 votes
     *   0
 *   Old Xanga archived?
     *   by yourmomisreallyfreakinhott
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by jpu02 5 days ago)
+    *   2 (last comment by jpu02 6 days ago)
 *   Old archives?
     *   by EvilBeef
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
