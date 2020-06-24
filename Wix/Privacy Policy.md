@@ -1,6 +1,6 @@
 Wix.com Privacy Policy
 
-Policy last updated: September 9, 2019
+Effective from July 1, 2020
 
 Welcome to Wix.com’s Privacy Policy!
 
@@ -353,7 +353,7 @@ As informed in section 6 above, Wix may collect, store and process certain Perso
 
 ​
 
-Users of the Services who are California residents and under 18 years of age may request and obtain removal of content they posted by emailing us at privacy@wix.com.  All requests must be labeled “California Removal Request” on the email or postal mail. All requests must provide a description of the content you want removed and information reasonably sufficient to permit us to locate that content. We do not accept California responsible for notices that are not labeled or sent properly, and we may not be able to respond if you do not provide adequate information. Please note that your request does not ensure complete or comprehensive removal of the material. For example, materials that you have posted may be republished or reposted by another user or third party.
+Users of the Services who are California residents and under 18 years of age may request and obtain removal of content they posted by emailing us at privacy@wix.com. All requests must be labeled “California Removal Request” on the email subject line. All requests must provide a description of the content you want removed and information reasonably sufficient to permit us to locate that content. We do not accept California Removal Requests via postal mail, telephone, or facsimile. We are not responsible for notices that are not labeled or sent properly, and we may not be able to respond if you do not provide adequate information. Please note that your request does not ensure complete or comprehensive removal of the material. For example, materials that you have posted may be republished or reposted by another user or third party.
 
 #ItsThatEasy
 
