@@ -89,9 +89,8 @@ What’s not covered
 
 *   This license doesn’t affect your privacy rights — it’s only about your intellectual property rights
 *   This license doesn’t cover these types of content:
-
-*   publicly-available factual information that you provide, such as corrections to the address of a local business. That information doesn’t require a license because it’s considered common knowledge that everyone’s free to use.
-*   feedback that you offer, such as suggestions to improve our services. Feedback is covered in the _Service-related communications_ section below.
+    *   publicly-available factual information that you provide, such as corrections to the address of a local business. That information doesn’t require a license because it’s considered common knowledge that everyone’s free to use.
+    *   feedback that you offer, such as suggestions to improve our services. Feedback is covered in the _Service-related communications_ section below.
 
 ScopeThis license is:
 
