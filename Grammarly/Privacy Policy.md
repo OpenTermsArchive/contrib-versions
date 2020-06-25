@@ -32,7 +32,7 @@
 *   For EDU users
 *   Contact us
 
-Privacy PolicyEffective as of December 30, 2019
+Privacy PolicyEffective as of June 24, 2020
 
 At Grammarly, we care about the privacy of your data and are committed to protecting it. This Privacy Policy explains what information we collect about you and why. We hope you will read it carefully.
 
@@ -97,6 +97,10 @@ Certain data about the devices you use to connect with Grammarly and your use of
     
 *   Cookies. Data obtained from cookies is described in the “Does Grammarly use cookies?” section and in our Cookie Policy.
     
+
+Information collected from other sources
+
+We may collect information about you from third parties, such as marketing partners and researchers, where they are legally allowed to share your Information with us. We may combine the Information we receive from other sources with Information we collect from you (or your device) and use it as described in this Privacy Policy.
 
 How does Grammarly use my Information?
 
@@ -178,7 +182,7 @@ How secure is my Information?
 
 Grammarly is committed to protecting the security of your Information and takes reasonable precautions to protect it. However, internet data transmissions, whether wired or wireless, cannot be guaranteed to be 100% secure, and as a result, we cannot ensure the security of Information you transmit to us, including Personal Data and User Content. accordingly, you acknowledge that you do so at your own risk.
 
-We use industry-standard encryption to protect your data in transit. This is commonly referred to as transport layer security (“TLS”) or secure socket layer (“SSL”) technology.
+We use industry-standard encryption to protect your data in transit and at rest.
 
 Once we receive your data, we protect it on our servers using a combination of technical, physical, and logical security safeguards. The security of the data stored locally in any of our Software installed on your computing device requires that you make use of the security features of your device. We recommend that you take the appropriate steps to secure all computing devices that you use in connection with our Site, Software, and Services.
 
@@ -249,9 +253,9 @@ Summary of information we collect
 
 If you’re a California resident, California law requires us to provide you with some additional information about how we collect, use, and disclose your “personal information” (as defined in the California Consumer Privacy Act (“CCPA”)).
 
-Throughout this Privacy Policy, we discuss in detail the specific pieces of personal information we collect from and about users, and how we share that information. Under the CCPA, we’re also required to provide you with the “categories” of personal information we collect and disclose for business purposes (as defined by applicable law). Those categories are: identifiers (such as name, email address, or social network account and profile data). commercial information (such as transaction data for a paid account). financial data (such as payment method or financial account information). internet or other network or device activity (such as IP address and usage information). location information (e.g., the general location where you use your device when interacting with the Site, Software or Services). sensory information (such as audio recordings if you call our customer service). inference data about you. and other information that identifies or can be reasonably associated with you.
+Throughout this Privacy Policy, we discuss in detail the specific pieces of personal information we collect from and about users, the sources of that information, and how we share it. Under the CCPA, we’re also required to provide you with the “categories” of personal information we collect and disclose for business purposes (as defined by applicable law). Those categories are: identifiers (such as name, email address, or social network account and profile data). commercial information (such as transaction data for a paid account). financial data (such as payment method or financial account information). internet or other network or device activity (such as IP address and usage information). location information (e.g., the general location where you use your device when interacting with the Site, Software or Services). sensory information (such as audio recordings if you call our customer service). inference data about you. and other information that identifies or can be reasonably associated with you. We collect these categories of personal information from different sources, as described in the section titled, “What Information does Grammarly collect about me?” above.
 
-We and our service providers may use the categories of personal information we collect from and about you consistent with the various business and commercial purposes we discuss throughout this Privacy Policy. Please see the relevant section(s) above for more information.
+We and our service providers may use the categories of personal information we collect from and about you consistent with the various business and commercial purposes we discuss throughout this Privacy Policy. Please see the section titled “How does Grammarly use my Information?” above for more information. We share this information with the categories of third parties described in the section titled, “Does Grammarly share my Information?”
 
 We may also use the categories of personal information for compliance with applicable laws and regulations, and we may aggregate the information we collect or de-identify the information to limit or prevent identification of any particular user or device.
 
@@ -285,9 +289,9 @@ The CCPA sets forth certain obligations for businesses that “sell” personal 
 
 California Shine the Light
 
-If you’re a California resident, you can ask for a list of third parties that have received your information for direct marketing purposes during the previous calendar year. This list also contains the types of information shared. We provide this list at no cost. To make such a request, contact us at support@grammarly.com.
+If you’re a California resident, you can ask for a list of third parties (if any) that have received your information for their direct marketing purposes during the previous calendar year. This list also contains the types of information shared. We provide this list at no cost. To make such a request, contact us at support@grammarly.com.
 
-Updated: December 30, 2019
+Updated: June 24, 2020
 
 For Nevada users
 
