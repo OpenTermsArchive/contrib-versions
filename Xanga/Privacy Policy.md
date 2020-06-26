@@ -4,7 +4,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   lost my email
     *   by sell\_TCsss
-    *   6 days ago
+    *   1 week ago
     *   in Emails
     *   0 votes
     *   0
