@@ -26,7 +26,6 @@
 *   Chocolate Day
 *   More...
     *   Cheer Up Day (Jul 11, 2020)
-    *   Feast of John the Baptist (Jun 24, 2020)
     *   International Joke Day (Jul 1, 2020)
     *   Doctor's Day (Jul 1, 2020)
     *   I Forgot Day (Jul 2, 2020)
@@ -35,6 +34,7 @@
     *   Full Moon Day (Jul 5, 2020)
     *   Kissing Day (UK) (Jul 6, 2020)
     *   Video Games Day (Jul 8, 2020)
+    *   World Population Day (Jul 11, 2020)
     *   See All Events
 *   Go
 
