@@ -17,6 +17,7 @@
 *   OUR COMPANY
 *   About GM
 *   Leadership
+*   Inclusion Advisory Board
 *   GM in the U.S.
 *   Sustainability Report
 *   Social Investment
