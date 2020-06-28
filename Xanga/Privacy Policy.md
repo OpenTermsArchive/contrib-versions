@@ -2,6 +2,18 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   can i get my old blogs back?
+    *   by jirojoyce
+    *   13 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   can i get my old blogs back?
+    *   by jirojoyce
+    *   13 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   lost my email
     *   by sell\_TCsss
     *   1 week ago
@@ -78,18 +90,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by gobbledeeegook
     *   1 month ago
     *   in Data Migration
-    *   0 votes
-    *   0
-*   NEW ENTRIE MAY 9, 2020!!!!
-    *   by Robertson\_Laurel
-    *   1 month ago
-    *   in Adding &. Editing Entries
-    *   0 votes
-    *   0
-*   NEW ENTRIE MAY 9, 2020!!!!
-    *   by Robertson\_Laurel
-    *   1 month ago
-    *   in Adding &. Editing Entries
     *   0 votes
     *   0
 
