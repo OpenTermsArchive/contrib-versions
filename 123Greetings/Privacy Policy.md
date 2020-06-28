@@ -23,12 +23,12 @@
 *   Summer
 *   Canada Day
 *   July Flowers
-*   Chocolate Day
+*   I Forgot Day
 *   More...
+    *   Chocolate Day (Jul 7, 2020)
     *   Cheer Up Day (Jul 11, 2020)
     *   International Joke Day (Jul 1, 2020)
     *   Doctor's Day (Jul 1, 2020)
-    *   I Forgot Day (Jul 2, 2020)
     *   World UFO Day (Jul 2, 2020)
     *   Friendship Festival (New York) (Jul 3 - 7, 2020)
     *   Full Moon Day (Jul 5, 2020)
