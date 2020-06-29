@@ -2,15 +2,21 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   can i get my old blogs back?
-    *   by jirojoyce
-    *   13 hours ago
+*   Archived Blog Posts?
+    *   by XxDayDream\_BelieverxX
+    *   5 hours ago
     *   in Data Migration
     *   0 votes
     *   0
 *   can i get my old blogs back?
     *   by jirojoyce
-    *   13 hours ago
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   can i get my old blogs back?
+    *   by jirojoyce
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -78,12 +84,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by suckitrealeasy
     *   1 month ago
     *   in Miscellaenous
-    *   0 votes
-    *   0
-*   Where are my posts?
-    *   by gobbledeeegook
-    *   1 month ago
-    *   in Data Migration
     *   0 votes
     *   0
 *   Where are my posts?
