@@ -1,6 +1,6 @@
 Couchsurfing.com Privacy Policy
 
-Effective Date: **May 22, 2020**
+Effective Date: **June 30, 2020**
 
 Please read our Privacy Policy carefully to get a clear understanding of how we collect, use, disclose, protect and otherwise handle information about you. By using Couchsurfing services, you consent to the collection and use of your data as described in this Privacy Policy.
 
@@ -65,7 +65,7 @@ Sharing of Information
 We will not share information about you with outside parties except as described below or elsewhere in this Privacy Policy:
 
 *   With your consent
-*   With third party vendors, consultants and other service providers who need access to such information to carry out their work for us. This includes Onfido, the provider of our Identity Verification product.
+*   With third party vendors, consultants and other service providers who need access to such information to carry out their work for us. This includes Onfido, the provider of our Identity Verification product, as well as other third party vendors who assist us with fraud prevention and detection.
 *   With others who access or use our Services in accordance with the privacy settings you establish
 *   With search engines in order to index the content you provide as part of a discussion forum or public profile;
 *   With partners who run contests, special offers or other events or activities in connection with our Services;
@@ -117,7 +117,7 @@ Account Information
 
 You may deactivate your account at any time by contacting support@couchsurfing.com. Even after you deactivate your account, we may retain certain information as required by law, for legitimate business purposes or to protect member safety. If your account is deactivated, Couchsurfing will provide access to the data associated with the deactivated account upon receipt of the required legal documentation.
 
-Location Information via Mobile Device 
+Location Information via Mobile Device
 
 You have the ability to turn location-based services on and off by adjusting the settings of your Internet browser or mobile device and by following the standard uninstall process and removing Couchsurfing’s application from your device. Doing so, however, may mean that you cannot use all or a portion of our Services.
 
@@ -125,7 +125,7 @@ Cookies
 
 Most web browsers are set to accept cookies by default. However, you can choose to set your browser to remove or reject browser cookies. Each browser is a little different, so look at your browser's help menu to learn the correct way to modify your cookies, or visit www.allaboutcookies.org. Please note, however, that our Services may not function properly if your browser does not accept cookies.
 
-Promotional Communications 
+Promotional Communications
 
 You may opt out of receiving promotional communications from Couchsurfing by following the instructions in those emails or by adjusting the appropriate settings in your profile. If you opt out, we may still send you transactional or relationship messages, such as emails about your account.
 
