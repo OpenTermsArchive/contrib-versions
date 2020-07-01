@@ -1,4 +1,4 @@
-Effective April 1, 2020 | Download PDF Select languageEnglishEspañol Table of Contents
+Effective June 30, 2020 | Download PDF Select languageEnglishEspañol Table of Contents
 
 Introduction
 
@@ -20,7 +20,7 @@ How to Access and Correct the Information in our Records
 
 Your Rights and Our Limitations Under Federal Laws
 
-Special Information Regarding California Residents’ Privacy Rights
+Special Information Regarding Individual State Laws
 
 Changes to this Privacy Policy
 
@@ -265,187 +265,12 @@ Section 222 of the Communications Act of 1934, as amended (the “Communications
 
 If you are a customer of Xfinity Voice or Mobile Service, or another Service that is subject to these requirements, you have the right, and Comcast has a duty, under the Communications Act and other applicable laws, to protect the confidentiality of your CPNI. In addition, the FCC’s rules provide additional privacy protections and choices regarding use and sharing that are specific to our Voice and Mobile service that we describe in this Policy.
 
-Special Information Regarding California Residents’ Privacy Rights
+Special information regarding unique state guidelines
 
-The California Consumer Privacy Act of 2018 (“CCPA”) provides California residents with rights to receive certain disclosures regarding the collection, use, and sharing of “Personal Information,” as well as rights to access, delete, and restrict the sale of certain Personal Information we collect about them. You may submit a request to exercise these rights by visiting our Individual Rights Request Page or calling us at 1-844-963-0138.
+Your privacy may be impacted differently depending on where you live. If you're a resident of one of the following states, select your state to review laws as they pertain to individual states.
 
-The CCPA defines “Personal Information” to mean “information that identifies, relates to, describes, is capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or household.” If you are a California resident, you have a right not to receive discriminatory treatment for the exercise of the privacy rights conferred by the CCPA.
-
-Residents of the State of California also have the right to request information regarding third parties to whom the company has disclosed certain categories of personal information during the preceding year for the third parties’ direct marketing purposes under California’s “Shine the Light” law (Cal. Civ. Code §1798.83). Personal information under this California law means “any information that when it was disclosed identified, described, or was able to be associated with an individual.” We do not disclose this type of personal information to third parties for their own purposes and we permit you to opt out of any disclosures of non-identifiable personal information. However, if you are a California resident and would like to inquire further, please email Comcast\_Privacy@comcast.com.
-
-We do not knowingly allow others to collect personally identifiable information about your online activities over time and across third-party websites when you use our online Services. Because definitions and rules for a "Do Not Track" standard have not yet been established, including whether such signals must be user-enabled, Comcast does not yet respond to "Do Not Track" signals sent from browsers. For more information about cookies and other online tracking technologies, please visit our Cookie Notice. to manage your preferences, please visit the Xfinity Privacy Preferences Center.
-
-Learn more about your rights if you are a California resident and how to exercise them
-
-Collection and Use of Personal Information
-
-The general section of this Privacy Policy describes the types of personal information we collect, how we collect it, and how we use it in categories that are easy to understand. The CCPA requires us to disclose the personal information we have collected about consumers in the past 12 months in the following categories. Some of the categories include very different types of information within the same category. As a result, how we use and how long we keep the information within each category will vary, and not all types of information within the same category will be used for all the purposes listed.
-
-Identifiers
-
-Name, alias, postal address, unique personal identifier, online identifier, Internet protocol address, email address, account name, Social Security number, driver’s license number, passport number, or other similar identifiers
-
-Source
-
-Directly from you when you provide it to us, such as when you create an account
-
-From our systems when we generate the information and assign it to you, such as your account number or your IP address
-
-Purpose of collection and use
-
-*   To offer or provide our Services
-*   To make improvements to our existing Services and create new products, services, or features
-*   To provide marketing and advertising
-*   To personalize our Services
-
-Additional categories of information listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e))
-
-A name, signature, Social Security number, physical characteristics or description, address, telephone number, driver's license or state identification card number, education, employment, bank account number, credit card number, debit card number, or any other financial information. Some personal information included in this category may overlap with other categories
-
-Source
-
-Directly from you when you provide it to us, such as when you create an account or pay for your Services
-
-From third parties who make inferences regarding your household, such as the education level
-
-Purpose of collection and use
-
-*   To offer or provide our Services
-*   To make improvements to our existing Services and create new products, services, or features
-*   To provide marketing and advertising
-*   To personalize our Services
-
-Protected classification characteristics under California or federal law
-
-Age (40 years or older), national origin, marital status, gender, veteran or military status
-
-Source
-
-Directly from you when you provide it to us, such as when you sign up for an offer for veterans
-
-From third parties who make inferences regarding your household, such as marital status or the age ranges of people within your household
-
-Purpose of collection and use
-
-*   To offer or provide our Services
-*   To make improvements to our existing Services and create new products, services, or features
-*   To provide marketing and advertising
-*   To personalize our Services
-
-Commercial information
-
-Records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies
-
-Source
-
-From you when you complete transactions with us
-
-From third parties
-
-Purpose of collection and use
-
-*   To offer or provide our Services
-*   To make improvements to our existing Services and create new products, services, or features
-*   To provide marketing and advertising
-*   To personalize our Services
-
-Biometric Information
-
-Genetic, physiological, behavioral, and biological characteristics, or activity patterns used to extract a template or other identifier or identifying information, such as, fingerprints, faceprints, and voiceprints, iris or retina scans, keystroke, gait, or other physical patterns, and sleep, health, or exercise data
-
-Source From our systems when you opt in to certain features of our Services, such as Xfinity Home security, that may collect information and generate inferences about physical patterns to deliver the Services and applicable features you have selected Purpose of collection and use
-
-*   To provide our Services
-*   To make improvements to our existing Services and create new products, services, or features
-*   To protect the health and safety of our customers, employees, contractors, or the general public
-
-Internet or other electronic network activity information
-
-Browsing history, search history, and information regarding your interaction with an internet website, application, or advertisement.
-
-Source
-
-From our systems when you use or interact with our Services
-
-From third parties
-
-Purpose of collection and use
-
-*   To offer or provide our Services
-*   To make improvements to our existing Services and create new products, services, or features
-*   We do not use information collected from our broadband network through the provision of Xfinity Internet or Xfinity Mobile for these purposes.
-
-Geolocation data
-
-Precise physical location or movements
-
-Source From our systems when you use or interact with Services that collect this information, such as Xfinity Mobile or the Xfinity Mobile apps and websites Purpose of collection and use
-
-*   To provide our Services
-*   To make improvements to our existing Services
-*   To personalize our Services and to provide marketing and advertising. we do not use information collected from our provision of Xfinity Internet or Xfinity Mobile for these purposes
-
-Sensory data
-
-Audio, electronic, visual, thermal, olfactory, or similar information
-
-Source From our systems when you opt in to certain features of products and services that may collect information and generate inferences about physical patterns, such as Xfinity Home security features or when you use the X1 Voice Remote to deliver Services and applicable features that you have selected Purpose of collection and use
-
-*   To provide our Services
-*   To make improvements to our existing Services and create new products, services, or features
-
-Inferences drawn from other personal information
-
-Profile reflecting a person's preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes
-
-Source From our systems through a series of computer processes Purpose of collection and use
-
-*   To offer or provide our Services
-*   To make improvements to our existing Services and create new products, services, or features
-*   To provide marketing and advertising
-*   To personalize our Services
-
-Disclosures to Third Parties for a Business Purpose
-
-We limit disclosures of Personal Information for business purposes to service providers, as described above.
-
-Sale of Personal Information and Right to Opt Out
-
-The CCPA requires companies to include certain disclosures including "Do Not Sell My Info" links on their websites and mobile applications. We do not sell information that identifies who you are to anyone. To opt out of the sale or sharing of non-identifying information, please visit the Xfinity Preferences Page. Please note that your right to opt out does not apply to our sharing of data with service providers, with whom we work and who are required to use the data only on our behalf.
-
-Identifiers
-
-Unique personal identifier, online identifier, internet protocol address, or other similar identifiers
-
-Categories of Third Parties to Whom PI was "Sold"
-
-Affiliates, advertising networks, data analytics providers, social networks, and audience measurement companies
-
-Internet or other electronic network activity information
-
-Information regarding your interaction with an internet website, application, or advertisement.
-
-Categories of Third Parties to Whom PI was "Sold"
-
-Affiliates, advertising networks, data analytics providers, social networks, and audience measurement companies
-
-Right to Know and Right to Request Deletion of Information
-
-California residents have the right to request that we disclose what personal information we collect, use, and sell, as well as the right to request that we delete certain personal information that we have collected from you. To start this process, go to our Individual Rights Request Page. For your security and to ensure unauthorized third parties do not access your personal information, we will require you to verify your identity before we can act on your request. If you are a current customer or still have access to your Xfinity My Account, you will be required to authenticate through your Xfinity account. If you do not have an account with us, you will be required to provide an email address and mobile phone number to start the verification process. You may also be required to provide a qualified government-issued photo identification. If you are asking for access on behalf of someone else, we will require verification of your identity, as well as proof of authorization by the individual whose personal information you wish to access.
-
-There may be information we will not return in response to your access request, such as information that would affect the privacy of others or interfere with legal requirements. Similarly, there may be reasons why we cannot comply with your deletion request, such as the need to keep your personal information to provide you service or to fulfill a legal obligation.
-
-Right to Information Regarding Participation in Data Sharing for Financial Incentives
-
-We may run promotions from time to time and ask you to share personal information with us in exchange for discounts. For example, we may offer a one-time discount if consumers sign up for our email marketing list. We will always give you clear notices about these types of programs when you sign up, and participation is always voluntary. If you change your mind, you will always be able to opt out, and if you don’t participate, you will still be able to use our Services.
-
-How to Submit a Request
-
-You may submit a request to exercise your rights by:
-
-(1) Visiting our Individual Rights Request Page.
-
-(2) Calling us at 1-844-963-0138.
+California  
+Maine
 
 Changes to this Privacy Policy
 
