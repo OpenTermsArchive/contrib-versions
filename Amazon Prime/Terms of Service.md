@@ -1,8 +1,8 @@
-Amazon Prime Terms
+Amazon Prime Terms &. Conditions
 
-Last updated December 27, 2018
+Last updated June 30, 2020
 
-Welcome to the terms and conditions ("**Terms**") for Amazon Prime. These Terms are between you and Amazon Services LLC and/or its affiliates ("**Amazon.com**" or "**Us**") and govern our respective rights and obligations. Please note that your use of the Amazon.com website and Prime membership are also governed by the agreements listed and linked to below, as well as all other applicable terms, conditions, limitations, and requirements on the Amazon.com website, all of which (as changed over time) are incorporated into these Terms. If you sign up for a Prime membership, you accept these terms, conditions, limitations and requirements.
+Welcome to the terms and conditions ("**Terms**") for Amazon Prime. These Terms are between you and Amazon.com Services LLC and/or its affiliates ("**Amazon.com**" or "**Us**") and govern our respective rights and obligations. Please note that your use of the Amazon.com website and Prime membership are also governed by the agreements listed and linked to below, as well as all other applicable terms, conditions, limitations, and requirements on the Amazon.com website, all of which (as changed over time) are incorporated into these Terms. If you sign up for a Prime membership, you accept these terms, conditions, limitations and requirements.
 
 *   Conditions of Use
 *   Amazon.com Privacy Notice
@@ -36,7 +36,7 @@ Other Limitations
 
 Fees and Renewal
 
-The membership fee for Prime is stated in the Prime section of our Help pages. For Amazon Student fees and renewal information, see applicable terms and conditions. From time to time, we may offer different membership terms, and the fees for such membership may vary. The Prime membership fee is non-refundable except as expressly set forth in these Terms. Taxes may apply on either or both of the membership fee and the reduced shipping charges for Prime.
+The membership fee for Prime is stated in the Prime section of our Help pages. From time to time, we may offer different membership terms, and the fees for such membership may vary. The Prime membership fee is non-refundable except as expressly set forth in these Terms. Taxes may apply on either or both of the membership fee and the reduced shipping charges for Prime.
 
 If you sign up for your Prime membership through us and are billed by us, then the billing terms described below will apply to your membership.
 
@@ -46,9 +46,11 @@ UNLESS YOU NOTIFY US BEFORE A CHARGE THAT YOU WANT TO CANCEL OR DO NOT WANT TO A
 
 If you signed up for your Prime membership through a third party and are not billed directly by us, then the billing terms provided by the third party will apply to your membership.
 
-Promotional Trial Memberships
+Promotional Trial and Qualification-Based Memberships
 
 We sometimes offer certain customers various trial or other promotional memberships, which are subject to these Terms except as otherwise stated in the promotional offers. Trial members may at any time (through Your Account) choose not to continue to paid membership at the end of the trial period.
+
+If you sign up for a qualification-based Prime membership (including but not limited to Prime Student and Prime for qualifying customers with an EBT or Medicaid card), you will receive certain Prime benefits for the reduced rate specified in the Prime section of our Help page. To sign up for and use a qualification-based Prime membership, you must meet the eligibility conditions described on the applicable enrollment page and provide any required documentation.
 
 Agreement Changes
 
