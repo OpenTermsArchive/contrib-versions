@@ -4,19 +4,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Archived Blog Posts?
     *   by XxDayDream\_BelieverxX
-    *   1 day ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   can i get my old blogs back?
-    *   by jirojoyce
     *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   can i get my old blogs back?
     *   by jirojoyce
-    *   2 days ago
+    *   3 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   can i get my old blogs back?
+    *   by jirojoyce
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -28,7 +28,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Old Xanga archived?
     *   by yourmomisreallyfreakinhott
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   2 (last comment by jpu02 1 week ago)
