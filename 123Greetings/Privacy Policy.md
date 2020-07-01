@@ -19,14 +19,14 @@
 *   MorePetsWorld LanguagesAt WorkFlowersKeep in TouchWeddingInvitations
 
 *   4th of July
-*   Rose Month
 *   Summer
 *   Canada Day
 *   July Flowers
 *   I Forgot Day
+*   Chocolate Day
 *   More...
-    *   Chocolate Day (Jul 7, 2020)
     *   Cheer Up Day (Jul 11, 2020)
+    *   Bastille Day (Jul 14, 2020)
     *   International Joke Day (Jul 1, 2020)
     *   Doctor's Day (Jul 1, 2020)
     *   World UFO Day (Jul 2, 2020)
