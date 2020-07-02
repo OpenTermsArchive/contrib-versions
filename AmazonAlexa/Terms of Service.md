@@ -1,6 +1,6 @@
 Alexa Terms of Use
 
-**Last Updated: April 28, 2020**
+**Last Updated: June 30, 2020**
 
 This is an agreement between you and Amazon.com Services LLC (with its affiliates, "Amazon" or "we"). Before using Alexa, please read these Alexa Terms of Use, including the Alexa Communication Schedule, the Amazon.com Privacy Notice, the Amazon.com Conditions of Use, and the other applicable rules, policies, and terms posted on the Amazon.com website, available through your Alexa App, or provided with Alexa Enabled Products (collectively, this "Agreement"). By using Alexa, you agree to be bound by the terms of this Agreement. If you do not accept the terms of this Agreement, then you may not use Alexa.
 
@@ -60,7 +60,7 @@ You can find more information about Amazon-Processed Purchases and donations in 
 
 **3.7 Disclaimer of Warranties and Limitation of Liability. Without limiting the Disclaimer of Warranties and Limitation of Liability terms in the Amazon.com Conditions of Use, and unless otherwise required by applicable law, in no event will our or our licensors' or our service providers' aggregate liability with respect to any claim arising from or relating to this Agreement or your use of Alexa exceed fifty dollars ($50).**
 
-**3.8 Contact Information.** For help with Alexa or resolving other issues, please contact Customer Service by e-mail: alexa-support@amazon.com or by phone at 1-877-375-9365 (toll free) when dialing in the US or at (206) 922-0197 (charges may apply) when dialing outside the US.
+**3.8 Contact Information.** For help with Alexa or resolving other issues, please contact Customer Service (https://www.amazon.com/contact-us)
 
 **Alexa Communication Schedule**
 
