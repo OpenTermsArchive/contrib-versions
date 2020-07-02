@@ -19,9 +19,9 @@
 *   MorePetsWorld LanguagesAt WorkFlowersKeep in TouchWeddingInvitations
 
 *   4th of July
-*   Summer
 *   Canada Day
 *   July Flowers
+*   Summer
 *   I Forgot Day
 *   Chocolate Day
 *   More...
