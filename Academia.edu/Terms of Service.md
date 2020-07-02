@@ -84,7 +84,7 @@ The Site, Services and Collective Content are protected by copyright, trademark,
 
 **Licenses Granted by Academia.edu to Academia.edu Content and Member Content**
 
-Subject to your compliance with the terms and conditions of these Terms, Academia.edu authorizes you to download, view and print any Academia.edu Content, solely for your personal and non-commercial purposes, and to access and use the Site and Services, including to download, view and print any Member Content solely for your personal and non-commercial purposes, and subject to the restrictions set forth in these Terms. You have no right to sublicense the license rights granted in this section.
+Subject to your compliance with the terms and conditions of these Terms, Academia.edu authorizes you to download, view and print any Academia.edu Content, and to access and use the Site and Services, including to download, view and print any Member Content in accordance with the functionality of the Services, and subject to the restrictions set forth in these Terms. You have no right to sublicense the license rights granted in this section.
 
 You will not use, copy, adapt, modify, prepare derivative works based upon, distribute, license, sell, transfer, publicly display, publicly perform, transmit, stream, broadcast or otherwise exploit the Site, Services or Collective Content, or any related information to which you may have access. except as expressly permitted in these Terms. No licenses or rights are granted to you by implication or otherwise under any intellectual property rights owned or controlled by Academia.edu or its licensors, except for the licenses and rights expressly granted in these Terms.
 
