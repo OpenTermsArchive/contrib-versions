@@ -19,22 +19,22 @@
 *   MorePetsWorld LanguagesAt WorkFlowersKeep in TouchWeddingInvitations
 
 *   4th of July
-*   Canada Day
+*   Hug Week
+*   I Forgot Day
 *   July Flowers
 *   Summer
-*   I Forgot Day
-*   Chocolate Day
+*   Kissing Day (UK)
 *   More...
+    *   Chocolate Day (Jul 7, 2020)
     *   Cheer Up Day (Jul 11, 2020)
     *   Bastille Day (Jul 14, 2020)
-    *   International Joke Day (Jul 1, 2020)
-    *   Doctor's Day (Jul 1, 2020)
     *   World UFO Day (Jul 2, 2020)
     *   Friendship Festival (New York) (Jul 3 - 7, 2020)
     *   Full Moon Day (Jul 5, 2020)
-    *   Kissing Day (UK) (Jul 6, 2020)
     *   Video Games Day (Jul 8, 2020)
     *   World Population Day (Jul 11, 2020)
+    *   Barn Day (Jul 14, 2020)
+    *   National Lollipop Day (Jul 20, 2020)
     *   See All Events
 *   Go
 
