@@ -2,27 +2,33 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Missing my blog
+    *   by bebe0125
+    *   4 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   missing my blogs :(
     *   by screaming\_pretty\_n0things
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Archived Blog Posts?
     *   by XxDayDream\_BelieverxX
-    *   4 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   can i get my old blogs back?
-    *   by jirojoyce
     *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   can i get my old blogs back?
     *   by jirojoyce
-    *   5 days ago
+    *   6 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   can i get my old blogs back?
+    *   by jirojoyce
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -52,13 +58,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Wrong user name linked to my email
     *   by eidotsdeentam
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Usernames
     *   0 votes
     *   0
 *   Wrong user name linked to my email
     *   by eidotsdeentam
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Usernames
     *   0 votes
     *   0
@@ -84,12 +90,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by MADDwoaw
     *   1 month ago
     *   in Adding &. Editing Entries
-    *   0 votes
-    *   0
-*   Blogs Archived
-    *   by suckitrealeasy
-    *   1 month ago
-    *   in Miscellaenous
     *   0 votes
     *   0
 
