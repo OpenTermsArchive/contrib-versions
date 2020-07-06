@@ -10,19 +10,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Missing my blog
     *   by bebe0125
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   missing my blogs :(
     *   by screaming\_pretty\_n0things
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Archived Blog Posts?
     *   by XxDayDream\_BelieverxX
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -64,13 +64,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Wrong user name linked to my email
     *   by eidotsdeentam
-    *   4 weeks ago
+    *   1 month ago
     *   in Usernames
     *   0 votes
     *   0
 *   Wrong user name linked to my email
     *   by eidotsdeentam
-    *   4 weeks ago
+    *   1 month ago
     *   in Usernames
     *   0 votes
     *   0
