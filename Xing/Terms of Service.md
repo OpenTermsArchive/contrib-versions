@@ -68,7 +68,7 @@ General Terms and Conditions for the use of the XING TalentService
 
 General Terms and Conditions
 
-Last updated: 6 January 2020
+Last updated: 6 July 2020
 
   
 
@@ -486,9 +486,11 @@ You are required to pay the fees agreed for services we render up until the time
 
 (d) Other fees based on the current valid price list shall, in particular, include the sale and delivery of merchandising, supplementary products and services, and in the event that tickets are to be refunded.
 
-(e) If an event is not held for reasons for which XING is not responsible, the fees for the services rendered by XING shall still be due.
+(e) XING aims to suggest events to users that match their interests and preferences in the best way possible. However, event organisers can pay a fee to target events at specific audiences with said events labelled correspondingly. Event organisers are aware that event rankings on XING Websites are largely influenced by the audiences selected by the event organisers, and by user settings and behaviour.
 
-(f) If any fees for services rendered by XING do not appear in the price list, they shall be listed on the XING Websites upon use of the respective services. Unless governed otherwise, the abovementioned fees shall be subject to the current valid rate of VAT.
+(f) If an event is not held for reasons for which XING is not responsible, the fees for the services rendered by XING shall still be due.
+
+(g) If any fees for services rendered by XING do not appear in the price list, they shall be listed on the XING Websites upon use of the respective services. Unless governed otherwise, the above-mentioned fees shall be subject to the current valid rate of VAT.
 
 **3.5** Refunds
 
@@ -516,6 +518,10 @@ The organiser authorises XING to reimburse the ticket amounts paid by ticket buy
 
 If such a suspicion cannot be eliminated within thirty (30) days, XING reserves the right to reverse the transactions and reimburse ticket buyers for the amounts they paid for tickets.
 
+**3.7** Complaints/out-of-court dispute settlements for commercial event organisers
+
+Commercial event organisers should submit complaints about XING by e-mailing complaints@xing-events.com. XING will assess the complaint and inform the organiser of its decision. XING always strives to settle disputes out of court, and this also applies to commercial event organisers. Should XING not be able to resolve a complaint with a commercial event organiser, XING is prepared to seek an out-of-court settlement with mediators registered with the Hamburg Chamber of Commerce.
+
    
 4\. Fees, billing, invoicing, payment terms
 
@@ -535,24 +541,24 @@ If such a suspicion cannot be eliminated within thirty (30) days, XING reserves 
 
 **Terms for ticket buyers**
 
-**4.7** Credit card and SOFORT payments for this service are processed by:
+**4.7** Credit card payments for this service are processed by:
 
-Wirecard Bank AG  
-Einsteinring 35  
-85609 Aschheim  
+Concardis GmbH  
+Helfmann-Park 7  
+65760 Eschborn  
 Germany
 
-Munich Local Court: HRB 161 178  
-VAT no.: DE 207567674  
-Executive Board: Daniel Heuser, Alexander von Knoop, Rainer Wexeler  
-Chairman of the Supervisory Board: Wulf Matthias  
-Phone: +49 (0)89 4424 2000  
-Fax: +49 (0)89 4424 2100  
-service@wirecardbank.com  
-www.wirecardbank.com
+Frankfurt am Main Local Court: HRB 57036  
+VAT no.: DE 228 965 682  
+Managing Directors: Robert Hoffmann, Carsten Höltkemeyer
+
+Phone: +49 (0)69 7922 0  
+Fax: +49 (0)69 7922 4500  
+service@concardis.com  
+https://www.concardis.com/de-en/
 
 Privacy Policy:  
-https://www.wirecardbank.de/GDPR
+https://www.concardis.com/de-en/protecting-your-data
 
 **4.8** Depending on the agreement reached between XING and the respective organiser, the fees for processing ticket sales shall be added on to the ticket price and listed separately during the ticket shop order process. The total purchase price may increase due to any supplementary products or services the ticket buyer has booked. Any charges or currency fluctuations that occur in connection with foreign transactions shall be borne by the participant. The ticket shop will state whether the ticket price is inclusive or exclusive of VAT.
 
