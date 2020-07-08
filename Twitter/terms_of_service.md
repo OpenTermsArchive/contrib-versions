@@ -11,9 +11,9 @@ Twitter Terms of Service
 
 goglobalwithtwitterbanner
 
-**If you live outside the European Union, EFTA States, or the United Kingdom, including if you live in the United States,** the Twitter User Agreement comprises these [Terms of Service](https://twitter.com/en/tos#update), our [Privacy Policy](https://twitter.com/privacy), the [Twitter Rules and Policies](https://help.twitter.com/en/rules-and-policies#twitter-rules), and all incorporated policies
+**If you live outside the European Union, EFTA States, or the United Kingdom, including if you live in the United States,** the Twitter User Agreement comprises these [Terms of Service](/en/tos#update), our [Privacy Policy](https://twitter.com/privacy), the [Twitter Rules and Policies](https://help.twitter.com/en/rules-and-policies#twitter-rules), and all incorporated policies
 
-**If you live in the European Union, EFTA States, or the United Kingdom,** the Twitter User Agreement comprises these [Terms of Service](https://twitter.com/en/tos?wcmmode=disabled#intlTerms), our [Privacy Policy](https://twitter.com/privacy), the [Twitter Rules and Policies](https://help.twitter.com/en/rules-and-policies#twitter-rules), and all incorporated policies.
+**If you live in the European Union, EFTA States, or the United Kingdom,** the Twitter User Agreement comprises these [Terms of Service](/en/tos?wcmmode=disabled#intlTerms), our [Privacy Policy](https://twitter.com/privacy), the [Twitter Rules and Policies](https://help.twitter.com/en/rules-and-policies#twitter-rules), and all incorporated policies.
 
 ### Twitter Terms of Service
 
@@ -141,7 +141,7 @@ These Terms are an agreement between you and Twitter, Inc., 1355 Market Street, 
 
 **Effective:** June 18, 2020  
 
-[Archive of Previous Terms](https://twitter.com/en/tos/previous)
+[Archive of Previous Terms](/en/tos/previous)
 
 ### Twitter Terms of Service
 
@@ -256,4 +256,4 @@ These Terms are an agreement between you and Twitter International Company, an I
 
 **Effective:** June 18, 2020
 
-[Archive of Previous Terms](https://twitter.com/en/tos/previous)
+[Archive of Previous Terms](/en/tos/previous)
