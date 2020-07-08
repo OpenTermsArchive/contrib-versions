@@ -19,13 +19,12 @@
 *   MorePetsWorld LanguagesAt WorkFlowersKeep in TouchWeddingInvitations
 
 *   Hug Week
-*   Kissing Day (UK)
+*   Chocolate Day
 *   July Flowers
 *   Summer
-*   Chocolate Day
 *   Cheer Up Day
+*   Bastille Day
 *   More...
-    *   Bastille Day (Jul 14, 2020)
     *   Friendship Festival (New York) (Jul 3 - 7, 2020)
     *   Video Games Day (Jul 8, 2020)
     *   World Population Day (Jul 11, 2020)
@@ -35,6 +34,7 @@
     *   National Hammock Day (Jul 22, 2020)
     *   National Cousin's Day (Jul 24, 2020)
     *   National Tequila Day (Jul 24, 2020)
+    *   Pioneer Day (Utah) (Jul 24, 2020)
     *   See All Events
 *   Go
 
