@@ -242,7 +242,7 @@ If you are a member based in the European Union, you may bring judicial proceedi
 
 Was this article helpful?
 
-6679 out of 9560 found this helpful
+6680 out of 9561 found this helpful
 
 [Have questions? Get help](/hc/en-us/requests/new)
 
