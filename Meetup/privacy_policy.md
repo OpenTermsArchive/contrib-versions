@@ -288,7 +288,7 @@ If you have any questions or complaints about this Privacy Policy or how we use 
 
 Was this article helpful?
 
-1349 out of 1981 found this helpful
+1350 out of 1982 found this helpful
 
 [Have questions? Get help](/hc/en-us/requests/new)
 
