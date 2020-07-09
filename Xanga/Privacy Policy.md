@@ -2,15 +2,21 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Please reactivate my xanga
+    *   by ayisecret
+    *   6 hours ago
+    *   in Themes
+    *   0 votes
+    *   0
 *   Missing my blog
     *   by bebe0125
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   missing my blogs :(
     *   by screaming\_pretty\_n0things
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -43,10 +49,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 weeks ago
     *   in Data Migration
     *   0 votes
-    *   2 (last comment by jpu02 2 weeks ago)
+    *   2 (last comment by jpu02 3 weeks ago)
 *   Old archives?
     *   by EvilBeef
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -84,12 +90,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by MADDwoaw
     *   1 month ago
     *   in Data Migration
-    *   0 votes
-    *   0
-*   Retrieve old posts!
-    *   by MADDwoaw
-    *   1 month ago
-    *   in Adding &. Editing Entries
     *   0 votes
     *   0
 
