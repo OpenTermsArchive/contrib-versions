@@ -5,7 +5,7 @@ Thank you for using Pinterest!
 
 *   These Terms of Service ("Terms") govern your access to and use of the Pinterest website, apps, APIs, and widgets (“Pinterest” or the “Service”). Please read these Terms carefully, and contact us if you have any questions. By accessing or using Pinterest, you agree to be bound by these Terms, our [Privacy Policy](/privacy-policy), our [Cookies Policy](/cookies) and our [Community Guidelines](/community-guidelines).
     
-    #### More simply put
+    **More simply put**
     
     Every company has its terms. These are ours.
     
@@ -14,7 +14,7 @@ Thank you for using Pinterest!
 
 *   Pinterest helps you discover and do what you love. To do that, we show you things we think will be relevant, interesting and personal to you based on your onsite and offsite activity. To provide our Service, we need to be able to identify you and your interests. Some of the things we show you are promoted by advertisers. As part of our service we try to ensure that even promoted content is relevant and interesting to you. You can identify promoted content because it will be clearly labelled.
     
-    #### More simply put
+    **More simply put**
     
     Pinterest helps you discover and do what you love. It’s customized to you. We need to know what you like to make everything on Pinterest relevant to you.
     
@@ -36,7 +36,7 @@ Thank you for using Pinterest!
     
     If you want to use Pinterest for commercial purposes you must create a business account and agree to our [Business Terms of Service](https://business.pinterest.com/business-terms-of-service). If you do open an account for a company, organization, or other entity, then "you" includes you and that entity, and you promise that you are authorized to grant all permissions and licenses provided in these Terms and bind the entity to these Terms, and that you agree to these Terms on the entity's behalf.
     
-    #### More simply put
+    **More simply put**
     
     You cannot use Pinterest if you're under 13 (or older in some countries). Also, if you are using Pinterest for work, you need to set up a business account.
     
@@ -48,7 +48,7 @@ Thank you for using Pinterest!
     
     Pinterest allows you to post content, including photos, comments, links, and other materials. Anything that you post or otherwise make available on Pinterest is referred to as "User Content." You retain all rights in, and are solely responsible for, the User Content you post to Pinterest.
     
-    #### More simply put
+    **More simply put**
     
     If you post your content on Pinterest, it still belongs to you.
     
@@ -57,7 +57,7 @@ Thank you for using Pinterest!
     
     You grant Pinterest and our users a non-exclusive, royalty-free, transferable, sublicensable, worldwide license to use, store, display, reproduce, save, modify, create derivative works, perform, and distribute your User Content on Pinterest solely for the purposes of operating, developing, providing, and using Pinterest. Nothing in these Terms restricts other legal rights Pinterest may have to User Content, for example under other licenses. We reserve the right to remove or modify User Content, or change the way it’s used in Pinterest, for any reason. This includes User Content that we believe violates these Terms, our [Community Guidelines](/community-guidelines), or any other policies.
     
-    #### More simply put
+    **More simply put**
     
     If you post your content on Pinterest, we can show it to people and others can save it. Don't post porn or spam or be a jerk to other people on Pinterest. 
     
@@ -66,7 +66,7 @@ Thank you for using Pinterest!
     
     Following termination or deactivation of your account, or if you remove any User Content from Pinterest, we may keep your User Content for a reasonable period of time for backup, archival, or audit purposes. Pinterest and its users may retain and continue to use, store, display, reproduce, re-pin, modify, create derivative works, perform, and distribute any of your User Content that other users have stored or shared on Pinterest.
     
-    #### More simply put
+    **More simply put**
     
     If you choose to post content, you give us permission to use it to provide and improve Pinterest. Copies of content shared with others may remain even after you delete the content from your account.  
      
@@ -76,7 +76,7 @@ Thank you for using Pinterest!
     
     We value hearing from our users, and are always interested in learning about ways we can make Pinterest more awesome. If you choose to submit comments, ideas or feedback, you agree that we are free to use them without any restriction or compensation to you. By accepting your submission, Pinterest doesn’t waive any rights to use similar or related feedback previously known to Pinterest, or developed by its employees, or obtained from sources other than you.
     
-    #### More simply put
+    **More simply put**
     
     We can use your suggestions to make Pinterest better.
     
@@ -85,7 +85,7 @@ Thank you for using Pinterest!
 
 *   Pinterest has adopted and implemented the Pinterest Copyright Policy in accordance with the Digital Millennium Copyright Act and other applicable copyright laws. For more information, please read our [Copyright Policy.](/en/copyright) 
     
-    #### More simply put
+    **More simply put**
     
     We respect copyrights. You should, too.
     
@@ -94,7 +94,7 @@ Thank you for using Pinterest!
 
 *   We care about the security of our users. While we work to protect the security of your content and account, Pinterest can’t guarantee that unauthorized third parties won’t be able to defeat our security measures. We ask that you keep your password secure. Please notify us immediately of any compromise or unauthorized use of your account.
     
-    #### More simply put
+    **More simply put**
     
     You can help us fight spammers by keeping [these security tips](https://help.pinterest.com/en/articles/account-security-and-hacked-accounts) in mind.
     
@@ -103,7 +103,7 @@ Thank you for using Pinterest!
 
 *   Pinterest may contain links to third party websites, advertisers, services, special offers, or other events or activities that are not owned or controlled by Pinterest. We don’t endorse or assume any responsibility for any such third party sites, information, materials, products, or services. If you access any third party website, service, or content from Pinterest, you do so at your own risk and you agree that Pinterest has no liability arising from your use of or access to any third party website, service, or content.
     
-    #### More simply put
+    **More simply put**
     
     Pinterest has links to content off of Pinterest. Most of that stuff is awesome, but we're not responsible when it's not.
     
@@ -112,7 +112,7 @@ Thank you for using Pinterest!
 
 *   Pinterest may terminate or suspend your right to access or use Pinterest for any reason on appropriate notice. We may terminate or suspend your access immediately and without notice if we have a good reason, including any violation of our [Community Guidelines](/community-guidelines). Upon termination, you continue to be bound by Sections 3 and 8 of these Terms.
     
-    #### More simply put
+    **More simply put**
     
     Pinterest is provided to you for free. We reserve the right to refuse service to anyone, but we will provide appropriate notice.
     
@@ -121,7 +121,7 @@ Thank you for using Pinterest!
 
 *   If you use Pinterest for commercial purposes (i.e., you are not a consumer) without agreeing to our [Business Terms](https://business.pinterest.com/business-terms-of-service) as required by Section 2(c) of these Terms, you agree to indemnify and hold harmless Pinterest Inc, Pinterest Europe Ltd, their affiliates and their respective officers, directors, employees and agents, from and against any claims, suits, proceedings, disputes, demands, liabilities, damages, losses, costs and expenses, including, without limitation, reasonable legal and accounting fees (including costs of defense of claims, suits or proceedings brought by third parties), in any way related to your access to or use of our Service, your User Content, or your breach of any of these Terms.
     
-    #### More simply put
+    **More simply put**
     
     If we are sued because of something your business does on Pinterest, you have to pay our costs. Also, you should have created a business account and agreed to our [Business Terms](https://business.pinterest.com/business-terms-of-service) in the first place.
     
@@ -137,7 +137,7 @@ Thank you for using Pinterest!
     If you're a consumer in the EEA, we don’t exclude or limit any liability for gross negligence, intent, or death or personal injury caused by our negligence or willful misconduct.   
      
     
-    #### More simply put
+    **More simply put**
     
     Unfortunately, people post bad stuff on services like Pinterest. We take that kind of thing seriously but you still might run into it before we have a chance to take it down. If you see bad stuff, please report it to us [here](https://help.pinterest.com/articles/report-something-pinterest#Web). 
     
@@ -149,7 +149,7 @@ Thank you for using Pinterest!
     If we cause damage to you and you're a consumer in the EEA, the above doesn’t apply. Instead, Pinterest’s liability will be limited to foreseeable damages arising due to a breach of material contractual obligations typical for this type of contract. Pinterest isn’t liable for damages that result from a non-material breach of any other applicable duty of care. This limitation of liability won’t apply to any statutory liability that cannot be limited, to liability for death or personal injury caused by our negligence or willful misconduct, or if and to exclude our responsibility for something we have specifically promised to you.  
      
     
-    #### More simply put
+    **More simply put**
     
     We are building the best service we can for you but we can't promise it will be perfect. We're not liable for various things. If you think we are, let's try to work it out like adults.
     
@@ -175,7 +175,7 @@ Thank you for using Pinterest!
     If you are a consumer in the EEA, this won’t deprive you of any protection you have under the law of the country where you live and access to the courts in that country.   
      
     
-    #### More simply put
+    **More simply put**
     
     The Bay Area is beautiful this time of year. It doesn't matter what time of year it is, that's what's so great! Anyway, you'll have to sue us here. 
     
@@ -190,7 +190,7 @@ Thank you for using Pinterest!
     
     We reserve the right to determine the form and means of providing notifications to you, and you agree to receive legal notices electronically if that’s what we decide. We may revise these Terms from time to time and the most current version will always be posted on our website. If a revision, in our discretion, is material, we’ll notify you. By continuing to access or use Pinterest after revisions become effective, you agree to be bound by the new Terms. If you don’t agree to the new terms, please stop using Pinterest.
     
-    #### More simply put
+    **More simply put**
     
     If we're making a big change to the terms, we'll let you know. If you don’t like the new terms, please stop using Pinterest.
     
@@ -216,7 +216,7 @@ Thank you for using Pinterest!
     
     If you live in the United States, these Terms are a contract between you and Pinterest Inc., 651 Brannan Street, San Francisco, CA 94103. If you live outside the United States, these Terms are a contract between you and Pinterest Europe Ltd., an Irish company with its registered office at Palmerston House, 2nd Floor, Fenian Street, Dublin 2, Ireland.
     
-    #### More simply put
+    **More simply put**
     
     Who you deal with depends on where you live.
     
