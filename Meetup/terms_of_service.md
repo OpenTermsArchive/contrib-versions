@@ -237,13 +237,3 @@ If you are a member based in the European Union, you may bring judicial proceedi
 **11.14 Titles.** The section titles in this Agreement are for convenience only and have no legal or contractual effect. The information in “Terms of Service Overview” section and in the “Tips” and “Summary” sections is also for convenience only and has no legal or contractual effect.
 
 **1****1.15 Violations.** Please report any violations of this Agreement by a member or third party by sending an email to [abuse@meetup.com](mailto:abuse@meetup.com).
-
-[Follow](/hc/en-us/articles/360027447252-Terms-of-Service/subscription.html "Opens a sign-in dialog")
-
-Was this article helpful?
-
-6682 out of 9563 found this helpful
-
-[Have questions? Get help](/hc/en-us/requests/new)
-
-[Return to top](#article-container)
