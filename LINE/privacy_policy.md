@@ -1,5 +1,3 @@
-LINE Privacy Policy     body {min-height: 0 !important;background: #FFF !important;} (function(g,d){ var appId = ''; var v='release/stable'; g.\_trmq=\[\];g.\_trm=function(){g.\_trmq.push(arguments)}; g.onerror=function(m,f,l,c){g.\_trm('send','exception',m,f,l,c)}; //false, true var h=location.protocol==='https:'?'https://d.line-scdn.net':'http://d.line-cdn.net'; var s=d.createElement('script');s.async=1; s.src=h+'/n/\_4/torimochi.js/public/v1/'+v+'/min/torimochi.js'; var t=d.getElementsByTagName('script')\[0\];t.parentNode.insertBefore(s,t); })(window, document); \_trm('enable', { productKey : 'line-terms-real' }); \_trm('send', 'pageview'); 
-
 LINE Privacy Policy  
   
 p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Helvetica Neue'; color: #454545} p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Helvetica Neue'; color: #454545; min-height: 14.0px} span.s1 {font: 12.0px '.Hiragino Kaku Gothic Interface'} span.Apple-tab-span {white-space:pre}
