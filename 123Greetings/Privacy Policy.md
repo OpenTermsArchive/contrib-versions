@@ -19,16 +19,16 @@
 *   MorePetsWorld LanguagesAt WorkFlowersKeep in TouchWeddingInvitations
 
 *   Hug Week
-*   Chocolate Day
 *   July Flowers
 *   Summer
 *   Cheer Up Day
 *   Bastille Day
+*   Dance Day
+*   Barn Day
 *   More...
-    *   Friendship Festival (New York) (Jul 3 - 7, 2020)
+    *   Parents' Day (Jul 26, 2020)
     *   Video Games Day (Jul 8, 2020)
     *   World Population Day (Jul 11, 2020)
-    *   Barn Day (Jul 14, 2020)
     *   National Lollipop Day (Jul 20, 2020)
     *   Monkey Day (Jul 21, 2020)
     *   National Hammock Day (Jul 22, 2020)
