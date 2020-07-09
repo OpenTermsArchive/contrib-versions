@@ -283,13 +283,3 @@ _**Summary:**_
 Under European data protection law, the controller of your information is Meetup LLC.
 
 If you have any questions or complaints about this Privacy Policy or how we use your information, please contact privacy@meetup.com.
-
-[Follow](/hc/en-us/articles/360044422391-Privacy-Policy/subscription.html "Opens a sign-in dialog")
-
-Was this article helpful?
-
-1350 out of 1982 found this helpful
-
-[Have questions? Get help](/hc/en-us/requests/new)
-
-[Return to top](#article-container)
