@@ -7,6 +7,8 @@ Twitter Terms of Service
 
 Twitter Terms of Service
 
+goglobalwithtwitterbanner
+
 **If you live outside the European Union, EFTA States, or the United Kingdom, including if you live in the United States,** the Twitter User Agreement comprises these Terms of Service, our Privacy Policy, the Twitter Rules and Policies, and all incorporated policies
 
 **If you live in the European Union, EFTA States, or the United Kingdom,** the Twitter User Agreement comprises these Terms of Service, our Privacy Policy, the Twitter Rules and Policies, and all incorporated policies.
