@@ -387,7 +387,7 @@ Europe, Middle East and Africa
         
         1.  Applicable Verizon Media Entity:
             
-            1.  For Yahoo Answers, Yahoo Auctions, Yahoo Celebrity, Yahoo Charity, Yahoo Deals, Yahoo Dictionary, Yahoo Education, Yahoo Finance, Yahoo Food, Yahoo Groups, Yahoo Mail, Yahoo Movie, Yahoo News, Yahoo Search, Yahoo Sports, Yahoo Store, Yahoo Style, Yahoo Stylemen, Yahoo Travel, Yahoo TV, Yahoo Weather, and Aviate the Applicable Verizon Media Company is Yahoo! Hong Kong Limited (Address: 15/F Lee Garden Two, 28 Yun Ping Road, Causeway Bay, Hong Kong) and the following terms apply: (a) the Terms and the relationship between you and Yahoo! Hong Kong Limited will be governed by the laws of Hong Kong without regard to its conflict of law provisions, and (b) you and Yahoo! Hong Kong Limited agree to submit to the exclusive jurisdiction of the courts of Hong Kong.
+            1.  For Yahoo Answers, Yahoo Auctions, Yahoo Celebrity, Yahoo Charity, Yahoo Deals, Yahoo Dictionary, Yahoo Education, Yahoo Finance, Yahoo Food, Yahoo Groups, Yahoo Movie, Yahoo News, Yahoo Search, Yahoo Sports, Yahoo Store, Yahoo Style, Yahoo Stylemen, Yahoo Travel, Yahoo TV, Yahoo Weather, and Aviate the Applicable Verizon Media Company is Yahoo! Hong Kong Limited (Address: 15/F Lee Garden Two, 28 Yun Ping Road, Causeway Bay, Hong Kong) and the following terms apply: (a) the Terms and the relationship between you and Yahoo! Hong Kong Limited will be governed by the laws of Hong Kong without regard to its conflict of law provisions, and (b) you and Yahoo! Hong Kong Limited agree to submit to the exclusive jurisdiction of the courts of Hong Kong.
                 
             2.  For other Services:
                 
