@@ -27,7 +27,6 @@
 *   Barn Day
 *   More...
     *   Parents' Day (Jul 26, 2020)
-    *   Video Games Day (Jul 8, 2020)
     *   World Population Day (Jul 11, 2020)
     *   National Lollipop Day (Jul 20, 2020)
     *   Monkey Day (Jul 21, 2020)
@@ -35,6 +34,7 @@
     *   National Cousin's Day (Jul 24, 2020)
     *   National Tequila Day (Jul 24, 2020)
     *   Pioneer Day (Utah) (Jul 24, 2020)
+    *   Aunt &. Uncle's Day (Jul 26, 2020)
     *   See All Events
 *   Go
 
