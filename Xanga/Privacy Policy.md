@@ -4,13 +4,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Please reactivate my xanga
     *   by ayisecret
-    *   6 hours ago
+    *   1 day ago
     *   in Themes
     *   0 votes
     *   0
 *   Missing my blog
     *   by bebe0125
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -40,13 +40,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   lost my email
     *   by sell\_TCsss
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Emails
     *   0 votes
     *   0
 *   Old Xanga archived?
     *   by yourmomisreallyfreakinhott
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   2 (last comment by jpu02 3 weeks ago)
