@@ -32,7 +32,7 @@ Facebook Platform Policy
     
 2.  Use publishing permissions to help people share on Facebook, not to send people messages from your app.
     
-3.  Don’t prefill any content in captions, comments, messages or the user message parameter of posts unless (a) it is a single hashtag in a post shared through our Share Dialog (but not via our APIs), (b) it was created by the person using your app, or (c) it was created by a business whose employees use your app to administer the business’s presence on Facebook. [![](https://scontent-ams4-1.xx.fbcdn.net/v/t39.2178-6/851547_537948159656190_540847388_n.png?_nc_ohc=p1WtN4CRVesAX8EVKs4&_nc_ht=scontent-ams4-1.xx&oh=2f55aa4d555f0d6296bb498f376b372a&oe=5F2EA34A)](/docs/apps/review/prefill)
+3.  Don’t prefill any content in captions, comments, messages or the user message parameter of posts unless (a) it is a single hashtag in a post shared through our Share Dialog (but not via our APIs), (b) it was created by the person using your app, or (c) it was created by a business whose employees use your app to administer the business’s presence on Facebook. [![](https://scontent-cdg2-1.xx.fbcdn.net/v/t39.2178-6/851547_537948159656190_540847388_n.png?_nc_ohc=p1WtN4CRVesAX8EVKs4&_nc_ht=scontent-cdg2-1.xx&oh=7f0280a4ab9dd45afc4c7c9c88acaf1a&oe=5F2EA34A)](/docs/apps/review/prefill)
     
 4.  Privacy Policy
     
@@ -114,15 +114,15 @@ Facebook Platform Policy
     
 3.  Respect the limits we've placed on Facebook functionality.
     
-4.  Only incentivize a person to log into your app, enter a promotion on your app’s Page, check-in at a place, or to use Messenger to communicate with your business. Don’t incentivize other actions. [![](https://scontent-ams4-1.xx.fbcdn.net/v/t39.2178-6/851547_537948159656190_540847388_n.png?_nc_ohc=p1WtN4CRVesAX8EVKs4&_nc_ht=scontent-ams4-1.xx&oh=2f55aa4d555f0d6296bb498f376b372a&oe=5F2EA34A)](https://developers.facebook.com/docs/apps/examples-platform-policy-4.4)
+4.  Only incentivize a person to log into your app, enter a promotion on your app’s Page, check-in at a place, or to use Messenger to communicate with your business. Don’t incentivize other actions. [![](https://scontent-cdg2-1.xx.fbcdn.net/v/t39.2178-6/851547_537948159656190_540847388_n.png?_nc_ohc=p1WtN4CRVesAX8EVKs4&_nc_ht=scontent-cdg2-1.xx&oh=7f0280a4ab9dd45afc4c7c9c88acaf1a&oe=5F2EA34A)](https://developers.facebook.com/docs/apps/examples-platform-policy-4.4)
     
 5.  Encourage people to accurately tag and share content.
     
 6.  If your service integrates a person’s data into a physical product, only create a physical product for that person’s personal and non-commercial use.
     
-7.  Don’t build an app whose primary purpose is to redirect people off of Facebook. [![](https://scontent-ams4-1.xx.fbcdn.net/v/t39.2178-6/851547_537948159656190_540847388_n.png?_nc_ohc=p1WtN4CRVesAX8EVKs4&_nc_ht=scontent-ams4-1.xx&oh=2f55aa4d555f0d6296bb498f376b372a&oe=5F2EA34A)](/docs/apps/review/canvasredirect)
+7.  Don’t build an app whose primary purpose is to redirect people off of Facebook. [![](https://scontent-cdg2-1.xx.fbcdn.net/v/t39.2178-6/851547_537948159656190_540847388_n.png?_nc_ohc=p1WtN4CRVesAX8EVKs4&_nc_ht=scontent-cdg2-1.xx&oh=7f0280a4ab9dd45afc4c7c9c88acaf1a&oe=5F2EA34A)](/docs/apps/review/canvasredirect)
     
-8.  If you want to use our logos or brand, follow the guidelines in the [Facebook Brand Resource and Permissions Center](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F) and [Brand Guidelines for Facebook Developers](https://developers.facebook.com/docs/apps/review/branding). Ad networks and data brokers must get our written permission before using our Platform, logos, or trademarks. [![](https://scontent-ams4-1.xx.fbcdn.net/v/t39.2178-6/851547_537948159656190_540847388_n.png?_nc_ohc=p1WtN4CRVesAX8EVKs4&_nc_ht=scontent-ams4-1.xx&oh=2f55aa4d555f0d6296bb498f376b372a&oe=5F2EA34A)](/docs/apps/review/branding)
+8.  If you want to use our logos or brand, follow the guidelines in the [Facebook Brand Resource and Permissions Center](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F) and [Brand Guidelines for Facebook Developers](https://developers.facebook.com/docs/apps/review/branding). Ad networks and data brokers must get our written permission before using our Platform, logos, or trademarks. [![](https://scontent-cdg2-1.xx.fbcdn.net/v/t39.2178-6/851547_537948159656190_540847388_n.png?_nc_ohc=p1WtN4CRVesAX8EVKs4&_nc_ht=scontent-cdg2-1.xx&oh=7f0280a4ab9dd45afc4c7c9c88acaf1a&oe=5F2EA34A)](/docs/apps/review/branding)
     
 9.  Don't sell, transfer or sublicense our code, APIs, or tools to anyone.
     
@@ -254,7 +254,7 @@ Facebook Platform Policy
     
 2.  Native iOS and Android apps that implement Facebook Login must use our official SDKs for login.
     
-3.  Use a clearly branded log in button that follows the guidelines in the [Facebook Brand Resource Center](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F%23). [![](https://scontent-ams4-1.xx.fbcdn.net/v/t39.2178-6/851547_537948159656190_540847388_n.png?_nc_ohc=p1WtN4CRVesAX8EVKs4&_nc_ht=scontent-ams4-1.xx&oh=2f55aa4d555f0d6296bb498f376b372a&oe=5F2EA34A)](/docs/apps/review/branding)
+3.  Use a clearly branded log in button that follows the guidelines in the [Facebook Brand Resource Center](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F%23). [![](https://scontent-cdg2-1.xx.fbcdn.net/v/t39.2178-6/851547_537948159656190_540847388_n.png?_nc_ohc=p1WtN4CRVesAX8EVKs4&_nc_ht=scontent-cdg2-1.xx&oh=7f0280a4ab9dd45afc4c7c9c88acaf1a&oe=5F2EA34A)](/docs/apps/review/branding)
     
 4.  Request only the data and publishing permissions your app needs to provide a good user experience.
     
@@ -364,7 +364,7 @@ Facebook Platform Policy
     
     a. Ensure the app’s name and information are grammatically correct.
     
-    b. Ensure the app’s language matches the App Center locale. [![](https://scontent-ams4-1.xx.fbcdn.net/v/t39.2178-6/851547_537948159656190_540847388_n.png?_nc_ohc=p1WtN4CRVesAX8EVKs4&_nc_ht=scontent-ams4-1.xx&oh=2f55aa4d555f0d6296bb498f376b372a&oe=5F2EA34A)](/docs/internationalization)
+    b. Ensure the app’s language matches the App Center locale. [![](https://scontent-cdg2-1.xx.fbcdn.net/v/t39.2178-6/851547_537948159656190_540847388_n.png?_nc_ohc=p1WtN4CRVesAX8EVKs4&_nc_ht=scontent-cdg2-1.xx&oh=7f0280a4ab9dd45afc4c7c9c88acaf1a&oe=5F2EA34A)](/docs/internationalization)
     
     c. Don't include URLs or use the Facebook brand.
     
