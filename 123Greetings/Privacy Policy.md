@@ -18,17 +18,17 @@
 *   Events &. Holidays
 *   MorePetsWorld LanguagesAt WorkFlowersKeep in TouchWeddingInvitations
 
-*   Hug Week
+*   Cheer Up Day
 *   July Flowers
 *   Summer
-*   Cheer Up Day
-*   Bastille Day
-*   Dance Day
 *   Barn Day
+*   Bastille Day
+*   Hug Week
+*   Dance Day
 *   More...
+    *   National Lollipop Day (Jul 20, 2020)
     *   Parents' Day (Jul 26, 2020)
     *   World Population Day (Jul 11, 2020)
-    *   National Lollipop Day (Jul 20, 2020)
     *   Monkey Day (Jul 21, 2020)
     *   National Hammock Day (Jul 22, 2020)
     *   National Cousin's Day (Jul 24, 2020)
