@@ -10,7 +10,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Please reactivate my xanga
     *   by ayisecret
-    *   3 days ago
+    *   4 days ago
     *   in Themes
     *   0 votes
     *   0
@@ -28,7 +28,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Archived Blog Posts?
     *   by XxDayDream\_BelieverxX
-    *   1 week ago
+    *   2 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
