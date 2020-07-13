@@ -18,23 +18,23 @@
 *   Events &. Holidays
 *   MorePetsWorld LanguagesAt WorkFlowersKeep in TouchWeddingInvitations
 
-*   Cheer Up Day
+*   Hug Week
 *   July Flowers
 *   Summer
 *   Barn Day
 *   Bastille Day
-*   Hug Week
-*   Dance Day
+*   National Lollipop Day
 *   More...
-    *   National Lollipop Day (Jul 20, 2020)
+    *   Dance Day (Jul 25, 2020)
     *   Parents' Day (Jul 26, 2020)
-    *   World Population Day (Jul 11, 2020)
+    *   Ice Cream Day (Jul 19, 2020)
     *   Monkey Day (Jul 21, 2020)
     *   National Hammock Day (Jul 22, 2020)
     *   National Cousin's Day (Jul 24, 2020)
     *   National Tequila Day (Jul 24, 2020)
     *   Pioneer Day (Utah) (Jul 24, 2020)
     *   Aunt &. Uncle's Day (Jul 26, 2020)
+    *   National Cheesecake Day (Jul 30, 2020)
     *   See All Events
 *   Go
 
