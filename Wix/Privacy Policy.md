@@ -43,7 +43,7 @@ We may also collect Personal Information pertaining to visitors and users of our
 
 We also collect information that is provided to us by Wix jobs candidates (“Applicants”), when they apply to any of the open positions published at https://www.wix.com/jobs, by e-mail or otherwise (as further described in Section ‎7 below).
 
-3\. How do we collect such information?
+3\. Why do we collect such information?
 
 We use your Personal Information for the following purposes:
 
@@ -202,7 +202,7 @@ Under certain conditions, more fully described on the Privacy Shield website, yo
 
 ​
 
-Upon request Wix will provide you with Personal Information about whether we hold any of your Personal Information. You may access, correct, or request deletion of your Personal Information by following the instructions provided in these Help Center articles: “Retrieving Your Wix Account Data” or “Permanently Deleting Your Wix Account”. We will respond to your request within a timeframe imposed by local laws or a reasonable timeframe.
+Upon request Wix will provide you with information about whether we hold any of your Personal Information. You may access, correct, or request deletion of your Personal Information by following the instructions provided in these Help Center articles: “Retrieving Your Wix Account Data” or “Permanently Deleting Your Wix Account”. We will respond to your request within a timeframe imposed by local laws or a reasonable timeframe.
 
 ​
 
@@ -299,7 +299,7 @@ You can easily opt-out of receiving promotional messages by contacting us or uns
 
 8.2. Service and Billing Messages
 
-Wix may also contact you with important Personal Information regarding our Services, or your use thereof. For example, we may send you a notice (through any of the means available to us) if a certain Service is temporarily suspended for maintenance. reply to your support ticket or e-mail. send you reminders or warnings regarding upcoming or late payments for your current or upcoming subscriptions. forward abuse complaints regarding your User Website. or notify you of material changes in our Services.
+Wix may also contact you with important information regarding our Services, or your use thereof. For example, we may send you a notice (through any of the means available to us) if a certain Service is temporarily suspended for maintenance. reply to your support ticket or e-mail. send you reminders or warnings regarding upcoming or late payments for your current or upcoming subscriptions. forward abuse complaints regarding your User Website. or notify you of material changes in our Services.
 
 ​
 
@@ -455,7 +455,7 @@ Avoid posting any Personal Information to any of the public areas on our Service
 
  17. Updates and interpretation
 
-We may update this Privacy Policy as required by applicable law, and to reflect changes to our Personal Information collection, usage and storage practices. If we make any changes that we deem as “material” (in our sole good faith discretion), we will notify you (using one of the notification methods set forth in Section 15.3 of the Terms of Use) prior to the change becoming effective.In relation to any updated Privacy Policy, we will, as required by applicable law, notify you, seek your consent and/or take any other measures. We encourage you to periodically review this page for the latest Personal Information on our privacy practices. Unless stated otherwise, our most current Privacy Policy applies to all information that we have about you and your Users-of-Users, with respect to our Website, Wix Apps, Mobile Apps and other Services.
+We may update this Privacy Policy as required by applicable law, and to reflect changes to our Personal Information collection, usage and storage practices. If we make any changes that we deem as “material” (in our sole good faith discretion), we will notify you (using one of the notification methods set forth in Section 15.3 of the Terms of Use) prior to the change becoming effective.In relation to any updated Privacy Policy, we will, as required by applicable law, notify you, seek your consent and/or take any other measures. We encourage you to periodically review this page for the latest information on our privacy practices. Unless stated otherwise, our most current Privacy Policy applies to all information that we have about you and your Users-of-Users, with respect to our Website, Wix Apps, Mobile Apps and other Services.
 
 ​
 
