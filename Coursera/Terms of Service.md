@@ -147,7 +147,7 @@ Coursera respects the intellectual property rights of our Content Providers, ins
 
 The Digital Millennium Copyright Act of 1998 (the "DMCA") provides recourse for copyright owners who believe that material appearing on the Internet infringes their rights under U.S. copyright law. If you would like to read the DMCA, please visit the U.S. Copyright Office website at http://www.copyright.gov/legislation/dmca.pdf.
 
-If you believe in good faith that materials on the Services infringe your copyright, the DCMA provides that you (or your agent) may send us a notice requesting that the material be removed or access to it blocked.
+If you believe in good faith that materials on the Services infringe your copyright, the DMCA provides that you (or your agent) may send us a notice requesting that the material be removed or access to it blocked.
 
 The notice must include the following information:
 
