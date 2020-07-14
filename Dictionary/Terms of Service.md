@@ -1,6 +1,6 @@
 Terms of Service &. Privacy Policy
 
-**Last Updated on: May 25, 2018**
+**Last Updated on: July 7, 2020**
 
 *   Privacy &. Cookie Policy
 *   Contact Information
