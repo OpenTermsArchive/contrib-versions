@@ -8,9 +8,15 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Missing my blogs
+    *   by Dantheman3121
+    *   3 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Please reactivate my xanga
     *   by ayisecret
-    *   4 days ago
+    *   5 days ago
     *   in Themes
     *   0 votes
     *   0
@@ -64,7 +70,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Need my old account back
     *   by philos4life
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -88,12 +94,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Dashboard
     *   by reformedbelievr
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Retrieve old posts
-    *   by MADDwoaw
     *   1 month ago
     *   in Data Migration
     *   0 votes
