@@ -1,22 +1,22 @@
-Skip to toolbar
-
-*   Xanga
-
-*   Log In
-
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Old Xanga archived?
+    *   by yourmomisreallyfreakinhott
+    *   1 month ago
+    *   in Data Migration
+    *   0 votes
+    *   3 (last comment by YoursSecretAdmirer 11 hours ago)
 *   Missing my blogs
     *   by Dantheman3121
-    *   3 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Please reactivate my xanga
     *   by ayisecret
-    *   5 days ago
+    *   6 days ago
     *   in Themes
     *   0 votes
     *   0
@@ -56,12 +56,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Emails
     *   0 votes
     *   0
-*   Old Xanga archived?
-    *   by yourmomisreallyfreakinhott
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   2 (last comment by jpu02 3 weeks ago)
 *   Old archives?
     *   by EvilBeef
     *   3 weeks ago
@@ -156,4 +150,8 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
+
+*   Xanga
+
+*   Log In
