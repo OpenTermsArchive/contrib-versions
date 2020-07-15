@@ -19,10 +19,10 @@
 *   MorePetsWorld LanguagesAt WorkFlowersKeep in TouchWeddingInvitations
 
 *   Hug Week
-*   July Flowers
-*   Summer
 *   Barn Day
 *   Bastille Day
+*   July Flowers
+*   Summer
 *   National Lollipop Day
 *   More...
     *   Dance Day (Jul 25, 2020)
