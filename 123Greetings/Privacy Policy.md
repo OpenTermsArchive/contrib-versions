@@ -19,21 +19,21 @@
 *   MorePetsWorld LanguagesAt WorkFlowersKeep in TouchWeddingInvitations
 
 *   Hug Week
-*   Barn Day
-*   Bastille Day
 *   July Flowers
 *   Summer
+*   Ice Cream Day
 *   National Lollipop Day
+*   Dance Day
 *   More...
-    *   Dance Day (Jul 25, 2020)
     *   Parents' Day (Jul 26, 2020)
-    *   Ice Cream Day (Jul 19, 2020)
+    *   Always Live Better Than Yesterday (Jul 31, 2020)
     *   Monkey Day (Jul 21, 2020)
     *   National Hammock Day (Jul 22, 2020)
     *   National Cousin's Day (Jul 24, 2020)
     *   National Tequila Day (Jul 24, 2020)
     *   Pioneer Day (Utah) (Jul 24, 2020)
     *   Aunt &. Uncle's Day (Jul 26, 2020)
+    *   Father-in-law Day (Jul 30, 2020)
     *   National Cheesecake Day (Jul 30, 2020)
     *   See All Events
 *   Go
