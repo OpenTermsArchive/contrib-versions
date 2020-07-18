@@ -20,10 +20,10 @@
 
 *   Hug Week
 *   July Flowers
-*   Summer
 *   Ice Cream Day
 *   National Lollipop Day
 *   Dance Day
+*   Summer
 *   More...
     *   Parents' Day (Jul 26, 2020)
     *   Always Live Better Than Yesterday (Jul 31, 2020)
