@@ -7,10 +7,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by YoursSecretAdmirer 3 days ago)
+    *   3 (last comment by YoursSecretAdmirer 4 days ago)
 *   Missing my blogs
     *   by Dantheman3121
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -40,19 +40,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   can i get my old blogs back?
     *   by jirojoyce
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   can i get my old blogs back?
     *   by jirojoyce
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   lost my email
     *   by sell\_TCsss
-    *   4 weeks ago
+    *   1 month ago
     *   in Emails
     *   0 votes
     *   0
@@ -88,7 +88,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Dashboard
     *   by reformedbelievr
-    *   1 month ago
+    *   2 months ago
     *   in Data Migration
     *   0 votes
     *   0
