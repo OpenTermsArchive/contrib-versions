@@ -7,10 +7,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by YoursSecretAdmirer 4 days ago)
+    *   3 (last comment by YoursSecretAdmirer 5 days ago)
 *   Missing my blogs
     *   by Dantheman3121
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -34,7 +34,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Archived Blog Posts?
     *   by XxDayDream\_BelieverxX
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -82,7 +82,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Archive a user (not me)
     *   by quikblade88
-    *   1 month ago
+    *   2 months ago
     *   in Data Migration
     *   0 votes
     *   0
