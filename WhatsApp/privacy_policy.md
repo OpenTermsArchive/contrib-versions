@@ -115,6 +115,10 @@ We may amend or update our Privacy Policy. We will provide you notice of amendme
 
 California residents may learn more about their rights, including how to exercise their rights under the California Consumer Privacy Act of 2018, by clicking [here](https://www.whatsapp.com/legal/ca-privacy-notice).
 
+### [](#)Brazilian General Data Protection Law
+
+Brazilian residents may learn more about their rights, including how to exercise their rights under the Brazilian General Data Protection Law, by clicking [here](https://www.whatsapp.com/legal/#brazil-privacy-notice).
+
 ### [](#)Contact Us
 
 If you have questions about our Privacy Policy, please [contact us](https://www.whatsapp.com/contact/?subject=privacy).
@@ -124,3 +128,5 @@ Privacy Policy
 1601 Willow Road  
 Menlo Park, California 94025  
 United States of America
+
+[Return to top](#top-of-page)
