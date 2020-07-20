@@ -19,8 +19,8 @@
 *   MorePetsWorld LanguagesAt WorkFlowersKeep in TouchWeddingInvitations
 
 *   Hug Week
-*   July Flowers
 *   Ice Cream Day
+*   July Flowers
 *   National Lollipop Day
 *   Dance Day
 *   Summer
