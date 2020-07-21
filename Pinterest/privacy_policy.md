@@ -171,17 +171,7 @@ Residents of the EEA
     
     If you think that we haven't complied with data protection laws, you have a right to lodge a complaint with the Data Protection Commission in Ireland or with your local supervisory authority.
     
-    We also want to share some more details about how we may transfer personal data of EEA residents:
-    
-    Pinterest complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Pinterest has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit the [Privacy Shield website](https://www.privacyshield.gov/).
-    
-    For all transfers of your information from the European Countries to the US, Pinterest is certified under Privacy Shield and follows its principles. To view a list of Privacy Shield participants please visit the [Privacy Shield website](https://www.privacyshield.gov/list).
-    
-    Where we share information we receive under Privacy Shield with third parties, we're responsible for making sure those third parties also comply with Privacy Shield, unless we can prove we're not responsible for the damaging event.
-    
-    In compliance with the Privacy Shield Principles, Pinterest commits to resolve complaints about our collection or use of your personal information. EEA individuals with inquiries or complaints regarding our Privacy Shield policy should first [contact us here](https://help.pinterest.com/contact?current_page=about_you_page&personal_data=personal_data_pshield). Pinterest has further committed to refer unresolved Privacy Shield complaints to JAMS Arbitration and Mediation Services, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit [the JAMS website](https://www.jamsadr.com/file-an-eu-us-privacy-shield-claim) for more information or to file a complaint. The services of JAMS are provided at no cost to you. In certain circumstances, and if the dispute resolution process still doesn’t resolve the problem, EEA individuals may pursue binding arbitration through a process at the [Privacy Shield website](https://www.privacyshield.gov/article?id=G-Arbitration-Procedures). Pinterest is also subject to the investigatory and enforcement powers of the Federal Trade Commission.
-    
-    Where we transfer information from the EEA to a country that doesn't provide an adequate level of protection, we’ll only do so under appropriate safeguards to protect your information, like standard contractual clauses, or Privacy Shield certification.
+    Because Pinterest is a worldwide service, we may transfer the personal data of EEA residents to a country outside the EEA. Where we transfer information from the EEA to a country that doesn't provide an adequate level of protection, we’ll only do so under appropriate safeguards to protect your information, like standard contractual clauses, or Privacy Shield certification.
     
 
 California residents
