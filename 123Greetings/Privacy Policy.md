@@ -19,13 +19,12 @@
 *   MorePetsWorld LanguagesAt WorkFlowersKeep in TouchWeddingInvitations
 
 *   Hug Week
-*   Ice Cream Day
-*   July Flowers
 *   National Lollipop Day
+*   July Flowers
 *   Dance Day
+*   Parents' Day
 *   Summer
 *   More...
-    *   Parents' Day (Jul 26, 2020)
     *   Always Live Better Than Yesterday (Jul 31, 2020)
     *   Monkey Day (Jul 21, 2020)
     *   National Hammock Day (Jul 22, 2020)
@@ -35,6 +34,7 @@
     *   Aunt &. Uncle's Day (Jul 26, 2020)
     *   Father-in-law Day (Jul 30, 2020)
     *   National Cheesecake Day (Jul 30, 2020)
+    *   Eid ul-Adha (Jul 31, 2020)
     *   See All Events
 *   Go
 
