@@ -7,10 +7,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by YoursSecretAdmirer 5 days ago)
+    *   3 (last comment by YoursSecretAdmirer 6 days ago)
 *   Missing my blogs
     *   by Dantheman3121
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
