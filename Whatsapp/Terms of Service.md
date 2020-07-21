@@ -276,6 +276,10 @@ California Consumer Privacy Act
 
 California residents may learn more about their rights, including how to exercise their rights under the California Consumer Privacy Act of 2018, by clicking here.
 
+Brazilian General Data Protection Law
+
+Brazilian residents may learn more about their rights, including how to exercise their rights under the Brazilian General Data Protection Law, by clicking here.
+
 Contact Us
 
 If you have questions about our Privacy Policy, please contact us.
@@ -286,9 +290,21 @@ Privacy Policy
 Menlo Park, California 94025  
 United States of America
 
+Return to top
+
 California Privacy Notice
 
 California residents can learn more about their privacy rights in our California Privacy Notice.
+
+Brazil Privacy Notice
+
+This Brazil Privacy Notice (“Notice”) applies to personal data processing activities under Brazilian law and supplements our Privacy Policy.
+
+Under the Brazilian General Data Protection Law (the “LGPD”), you have the right to access, rectify, port, erase, and confirm that we process your data. Learn more about your rights and find out how you can exercise your rights by visiting our iPhone, Android and KaiOS articles in our Help Center. In certain circumstances, you also have the right to object to and to restrict the processing of your personal data. Our Privacy Policy provides information about how we share data with third parties. To request more information about our data practices, click here.
+
+The data controller responsible for your information is WhatsApp Inc. To contact the Data Protection Officer for WhatsApp Inc., click here. You also have the right to petition the Brazilian Data Protection Authority (“DPA”) by contacting the DPA directly.
+
+This Notice takes effect on the LGPD’s effective date.
 
 WHATSAPP INC., THE EU-U.S. PRIVACY SHIELD AND THE SWISS-U.S. PRIVACY SHIELD
 
