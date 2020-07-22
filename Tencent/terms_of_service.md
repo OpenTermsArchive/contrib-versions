@@ -8,8 +8,6 @@ We offer a diverse range of services to our users. Your use of our products and 
 
 Thank you for reviewing these Terms – we hope you enjoy using our services.
 
-If you have any questions about, or if you wish to send us any notices in relation to, these Terms, please contact us at [termsconditions@qq.com](mailto:termsconditions@qq.com).
-
 Compliance with these Terms
 
 **These Terms apply to you if you are a user of our services anywhere in the world, except if you belong in any of the following categories: (i) a user of our services (regardless of nationality) in the People’s Republic of China; (ii) a citizen of the People’s Republic of China using our services anywhere in the world; or (iii) a Chinese-incorporated company using our services anywhere in the world. If you belong in any of those categories, you are subject instead to the [_Terms of Service (PRC Users)_](http://www.qq.com/contract.shtml) in your use of our services.**
@@ -126,7 +124,7 @@ You are solely responsible for Your Content and we recommend that you keep a bac
 
 **INFRINGEMENT OF RIGHTS**
 
-We may respond to notices of alleged infringement of rights (including infringement of intellectual property rights, defamation and infringement of other civil rights) and other claims and demands. If you have any such infringement-related concerns, please contact [termsconditions@qq.com](mailto:termsconditions@qq.com).
+We may respond to notices of alleged infringement of rights (including infringement of intellectual property rights, defamation and infringement of other civil rights) and other claims and demands.
 
 **THIRD PARTY CONTENT AND SERVICES**
 
