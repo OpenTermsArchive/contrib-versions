@@ -3,12 +3,6 @@ Data Policy
 
 This Policy describes the information we process to support Facebook, Instagram, Messenger and other products and features offered by Facebook ([Facebook Products](https://www.facebook.com/help/1561485474074139?ref=dp) or Products). You can find additional tools and information in the [Facebook settings](https://www.facebook.com/settings) and [Instagram settings](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fprivacy_and_security%2F).
 
-[
-
-Return to top
-
-](#)
-
 ### What kinds of information do we collect?
 
 [](#)To provide the Facebook Products, we must process information about you. The type of information that we collect depends on how you use our Products. You can learn how to access and delete information that we collect by visiting the [Facebook settings](https://www.facebook.com/settings) and [Instagram settings](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fprivacy_and_security%2F).
@@ -61,12 +55,6 @@ Partners receive your data when you visit or use their services, or through thir
   
 To learn more about how we use cookies in connection with Facebook Business Tools, review the [Facebook Cookie Policy](https://www.facebook.com/policies/cookies) and [Instagram Cookie Policy](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Flegal%2Fcookies%2F).
 
-[
-
-Return to top
-
-](#)
-
 ### How do we use this information?
 
 [](#)We use the information that we have (subject to choices you make) as described below, and to provide and support the Facebook Products and related services described in the [Facebook Terms](https://www.facebook.com/legal/terms/update) and [Instagram Terms](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F581066165581870%3Fref%3Ddp). Here's how:
@@ -101,12 +89,6 @@ We use the information that we have to send you marketing communications, commun
 Research and innovate for social good.
 
 [](#)We use the information we have (including from research partners we collaborate with) to conduct and support [research](https://l.facebook.com/l.php?u=https%3A%2F%2Fresearch.fb.com%2F) and innovation on topics of general social welfare, technological advancement, public interest, health and well-being. For example, [we analyse information that we have about migration patterns during crises](https://l.facebook.com/l.php?u=https%3A%2F%2Fresearch.fb.com%2Ffacebook-disaster-maps-methodology%2F) to aid relief efforts. [Learn more](https://l.facebook.com/l.php?u=https%3A%2F%2Fresearch.fb.com%2F) about our research programmes.
-
-[
-
-Return to top
-
-](#)
 
 ### How is this information shared?
 
@@ -181,21 +163,9 @@ We share information with law enforcement or in response to legal requests in th
 
 Learn more about how you can control the information about you that you or others share with third-party partners in the [Facebook settings](https://www.facebook.com/settings) and [Instagram settings](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fprivacy_and_security%2F).
 
-[
-
-Return to top
-
-](#)
-
 ### How do the Facebook Companies work together?
 
 Facebook and Instagram share infrastructure, systems and technology with other [Facebook Companies](https://www.facebook.com/help/111814505650678?ref=dp) (which include WhatsApp and Oculus) to provide an innovative, relevant, consistent and safe experience across all [Facebook Company Products](https://www.facebook.com/help/195227921252400?ref=dp) that you use. We also process information about you across the Facebook Companies for these purposes, as permitted by applicable law and in accordance with their Terms and Policies. For example, we process information from WhatsApp about accounts sending spam on its service so we can take appropriate action against those accounts on Facebook, Instagram or Messenger. We also work to understand how people use and interact with Facebook Company Products, such as understanding the number of unique users on different Facebook Company Products.
-
-[
-
-Return to top
-
-](#)
 
 ### What is our legal basis for processing data?
 
@@ -218,12 +188,6 @@ We [collect](#collect-information), [use](#how-we-use-information) and [share](#
   
 [Learn more](https://www.facebook.com/about/privacy/legal_bases) about these legal bases and how they relate to the ways in which we process data.
 
-[
-
-Return to top
-
-](#)
-
 ### How can you exercise your rights provided under the GDPR?
 
 Under the General Data Protection Regulation, you have the right to access, rectify, port and [erase](https://www.facebook.com/help/contact/259518714718624) your data. Learn more about these rights and find out how you can exercise your rights in the [Facebook settings](https://www.facebook.com/settings) and [Instagram settings](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fprivacy_and_security%2F). You also have the [right to object to](https://www.facebook.com/help/contact/1994830130782319) and restrict certain processing of your data. This includes:  
@@ -234,23 +198,11 @@ Under the General Data Protection Regulation, you have the right to access, rect
 *   the right to object to our processing of your data where we are performing a task in the public interest or pursuing our legitimate interests or those of a third party. You can exercise this right on Facebook and on Instagram.
     
 
-[
-
-Return to top
-
-](#)
-
 ### Data retention, account deactivation and deletion
 
 We store data until it is no longer necessary to provide our services and Facebook Products or until your account is deleted – whichever comes first. This is a case-by-case determination that depends on things such as the nature of the data, why it is collected and processed, and relevant legal or operational retention needs. For example, when you search for something on Facebook, you can access and delete that query from within your search history at any time, but the log of that search is deleted after six months. If you submit a copy of your valid photo ID for account verification purposes, we delete that copy 30 days after submission. Learn more about deletion of [content that you have shared](https://www.facebook.com/help/356107851084108?ref=dp) and [cookie data obtained through social plugins](https://www.facebook.com/help/206635839404055?ref=dp).  
   
 When you delete your account, we [delete things](https://www.facebook.com/help/356107851084108?ref=dp) that you have posted, such as your photos and status updates, and you won't be able to recover this information later. Information that others have shared about you isn't part of your account and won't be deleted. If you don't want to delete your account but want to temporarily stop using the Products, you can deactivate your account instead. To delete your account at any time, please visit the [Facebook settings](https://www.facebook.com/settings) and [Instagram settings](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fprivacy_and_security%2F).
-
-[
-
-Return to top
-
-](#)
 
 ### How do we respond to legal requests or prevent harm?
 
@@ -263,31 +215,13 @@ We access, preserve and share your information with regulators, law enforcement 
 
 Information we receive about you (including financial transaction data related to purchases made with Facebook) can be accessed and preserved for an extended period when it is the subject of a legal request or obligation, governmental investigation or investigations of possible violations of our terms or policies, or otherwise to prevent harm. We also retain information from accounts disabled for term breaches for at least a year to prevent repeat abuse or other term breaches.
 
-[
-
-Return to top
-
-](#)
-
 ### How do we operate and transfer data as part of our global services?
 
 We share information globally, both internally within the Facebook Companies and externally with our partners and with those you connect and share with around the world in accordance with this Policy. Information controlled by Facebook Ireland will be transferred or transmitted to, or stored and processed in, the United States or other countries outside where you live for the purposes as described in this Policy. These data transfers are necessary to provide the services set forth in the [Facebook Terms](https://www.facebook.com/legal/terms/) and [Instagram Terms](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F581066165581870%3Fref%3Ddp), and to globally operate and provide our Products to you. We utilise [standard contractual clauses](https://www.facebook.com/help/566994660333381?ref=dp) approved by the European Commission and rely on the European Commission's [adequacy decisions](https://l.facebook.com/l.php?u=https%3A%2F%2Fec.europa.eu%2Finfo%2Flaw%2Flaw-topic%2Fdata-protection%2Fdata-transfers-outside-eu%2Fadequacy-protection-personal-data-non-eu-countries_en) about certain countries, as applicable, for data transfers from the EEA to the United States and other countries.
 
-[
-
-Return to top
-
-](#)
-
 ### How will we notify you of changes to this Policy?
 
 We'll notify you before we make changes to this Policy and give you the opportunity to review the revised Policy before you choose to continue using our Products.
-
-[
-
-Return to top
-
-](#)
 
 ### How to contact Facebook with questions
 
