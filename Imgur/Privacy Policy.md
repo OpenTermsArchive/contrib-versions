@@ -1,6 +1,6 @@
 Privacy Policy
 
-Your Privacy Rights – Effective December 10, 2019
+Your Privacy Rights – Effective July 20, 2020
 
 This privacy policy applies to all Imgur users worldwide. For users in the European Economic Area (EEA) and in Switzerland, Imgur complies with the principles of the U.S.-EU Privacy Shield Program and the U.S.-Swiss Privacy Shield Program, and participates in both programs. Under both programs, we are subject to the investigatory and enforcement powers of the Federal Trade Commission, and we are liable for the unauthorized transfer to third parties of user personal data. For more information, see https://www.privacyshield.gov. To contact us regarding privacy issues, you can email us at privacy@imgur.com, or snailmail us at Imgur, Inc., 600 California St., San Francisco CA 94018-2727.
 
@@ -59,6 +59,10 @@ Because we don’t collect information about the identity of our users and don�
 Data Protection
 
 We take every reasonable precaution to protect the data on our servers from loss, misuse, unauthorized access, disclosure, alteration, or destruction, taking into account the risk level and the nature of the data. You are responsible for taking every reasonable precaution on your end to protect any unauthorized person from accessing your Imgur account.
+
+GDPR / Privacy Shield
+
+For users in the European Economic Area (EEA) and in Switzerland, Imgur complies with the principles of the U.S.-EU Privacy Shield Program and the U.S.-Swiss Privacy Shield Program. See https://www.privacyshield.gov. Although the European Court of Justice invalidated the U.S.-EU Privacy Shield Program in July 2020, Imgur’s participation in both programs has always been voluntary. Imgur is not subject to the GDPR, and thus did not need the Privacy Shield as a means of complying with the GDPR, because we do not collect “personal data” about, or monitor behavior of, anyone in the EEU, nor do we “target” individuals in the EEU. Regarding the latter, see Guidelines 3/2018 on the territorial scope of the GDPR (Article 3), Ver. 2.1 (Nov 12, 2019). We remain subject to the investigatory and enforcement powers of the Federal Trade Commission, and we are liable for the unauthorized transfer to third parties of user personal data. To contact us regarding privacy issues, you can email us at privacy@imgur.com, or snailmail us at Imgur, Inc., 600 California St., Floor 11, San Francisco CA 94018-2727.
 
 Dispute resolution
 
