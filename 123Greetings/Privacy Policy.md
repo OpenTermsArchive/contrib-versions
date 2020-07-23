@@ -23,18 +23,18 @@
 *   Dance Day
 *   Parents' Day
 *   Summer
-*   Monkey Day
-*   Eid ul-Adha
+*   National Hammock Day
 *   More...
     *   Always Live Better Than Yesterday (Jul 31, 2020)
-    *   National Hammock Day (Jul 22, 2020)
     *   National Cousin's Day (Jul 24, 2020)
     *   National Tequila Day (Jul 24, 2020)
     *   Pioneer Day (Utah) (Jul 24, 2020)
     *   Aunt &. Uncle's Day (Jul 26, 2020)
     *   Father-in-law Day (Jul 30, 2020)
     *   National Cheesecake Day (Jul 30, 2020)
+    *   Eid ul-Adha (Jul 31, 2020)
     *   Girlfriend's Day (Aug 1, 2020)
+    *   August Flowers (August 2020)
     *   See All Events
 *   Go
 
