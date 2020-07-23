@@ -20,8 +20,6 @@ We believe you should always know what data we collect from you and how we use i
   
 That’s the basic purpose of this Privacy Policy.
 
-goglobalwithtwitterbanner
-
 You should read this policy in full, but here are a few key things we hope you take away from it:
 
 Twitter is public and Tweets are immediately viewable and searchable by anyone around the world. We give you non-public ways to communicate on Twitter too, through protected Tweets and Direct Messages. You can also use Twitter under a pseudonym if you prefer not to use your name.
