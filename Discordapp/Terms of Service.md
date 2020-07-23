@@ -1,4 +1,4 @@
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N7BVC2W&gtm\_auth=GI0g9O-54\_SitcgmxQKxlA&gtm\_preview=env-2&gtm\_cookies\_win=x" height="0" width="0" style="display:none;visibility:hidden"></iframe>. DownloadWhy Discord?NitroSafetySupportLoginDiscord Terms of Service
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N7BVC2W&gtm\_auth=GI0g9O-54\_SitcgmxQKxlA&gtm\_preview=env-2&gtm\_cookies\_win=x" height="0" width="0" style="display:none;visibility:hidden" sandbox></iframe>. DownloadWhy Discord?NitroSafetySupportLoginDiscord Terms of Service
 
 Last modified: May 7, 2020.
 
