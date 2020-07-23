@@ -34,13 +34,13 @@ Information that we obtain from these devices includes:
 
 *   **Device attributes:** information such as the operating system, hardware and software versions, battery level, signal strength, available storage space, browser type, app and file names and types, and plugins.
     
-*   **Device operations:** information about operations and behaviours performed on the device, such as whether a window is foregrounded or backgrounded, or mouse movements (which can help distinguish humans from bots).
+*   **Device operations:** information about operations and behaviours performed on the device, such as whether a window is in the foreground or background, or mouse movements (which can help distinguish humans from bots).
     
 *   **Identifiers:** unique identifiers, device IDs and other identifiers, such as from games, apps or accounts that you use, and Family Device IDs (or other identifiers unique to [Facebook Company Products](https://www.facebook.com/help/195227921252400?ref=dp) associated with the same device or account).
     
 *   **Device signals:** Bluetooth signals, information about nearby Wi-Fi access points, beacons and mobile phone masts.
     
-*   **Data from device settings:** information that you allow us to receive through device settings that you turn on, such as access to your GPS location, camera or photos.
+*   **Data from device settings:** information you allow us to receive through device settings that you turn on, such as access to your GPS location, camera or photos.
     
 *   **Network and connections:** information such as the name of your mobile operator or ISP, language, time zone, mobile phone number, IP address, connection speed and, in some cases, information about other devices that are nearby or on your network, so we can do things such as help you [stream a video from your phone to your TV](https://www.facebook.com/help/276515126152168?ref=dp).
     
