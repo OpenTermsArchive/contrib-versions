@@ -16,7 +16,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Please reactivate my xanga
     *   by ayisecret
-    *   1 week ago
+    *   2 weeks ago
     *   in Themes
     *   0 votes
     *   0
@@ -28,7 +28,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   missing my blogs :(
     *   by screaming\_pretty\_n0things
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
