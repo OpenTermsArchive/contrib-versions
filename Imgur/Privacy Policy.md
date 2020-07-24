@@ -1,8 +1,6 @@
 Privacy Policy
 
-Your Privacy Rights – Effective July 20, 2020
-
-This privacy policy applies to all Imgur users worldwide. For users in the European Economic Area (EEA) and in Switzerland, Imgur complies with the principles of the U.S.-EU Privacy Shield Program and the U.S.-Swiss Privacy Shield Program, and participates in both programs. Under both programs, we are subject to the investigatory and enforcement powers of the Federal Trade Commission, and we are liable for the unauthorized transfer to third parties of user personal data. For more information, see https://www.privacyshield.gov. To contact us regarding privacy issues, you can email us at privacy@imgur.com, or snailmail us at Imgur, Inc., 600 California St., San Francisco CA 94018-2727.
+Your Privacy Rights – Effective July 23, 2020
 
 \[CA residents: CCPA\]
 
