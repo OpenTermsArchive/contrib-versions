@@ -8,6 +8,7 @@ Privacy policy
 *   *   [Summary of changes](#section-summary-of-changes)
     *   [Thank you for using Pinterest!](#section-thank-you-for-using-pinterest)
     *   [We collect information in a few different ways](#section-we-collect-information-in-a-few-different-ways)
+    *   [What we do with the info we collect](#section-what-we-do-with-the-info-we-collect)
     *   [Transferring your information](#section-transferring-your-information)
     *   [Choices you have about your info](#section-choices-you-have-about-your-info)
     *   [How and when we share information](#section-how-and-when-we-share-information)
@@ -57,9 +58,10 @@ We collect information in a few different ways
     *   Some websites or apps use Pinterest features such as our “Save” button, or you may install our “Save” button for your browser. If so, we collect log data from those sites or apps. [You can learn more about these features at our Help Center.](https://help.pinterest.com/article/save-pins-with-the-pinterest-browser-button)
     *   Online advertisers or third parties share information with us to measure, report on or improve the performance of ads on Pinterest, or to figure out what kinds of ads to show you on or off of Pinterest. This includes information about your visits to an advertiser's site or purchases you made from them, or information about your interests from a third-party service, which we might use to help show you ads. [Learn more about the types of information advertisers or other third parties share with us](https://help.pinterest.com/article/personalized-ads-on-pinterest).
     
-    #### What we do with the info we collect
-    
-    We’re committed to showing you content that’s relevant, interesting and personal to you. To do that, we use your information to provide and improve your experience, including:
+
+What we do with the info we collect
+
+*   #### We’re committed to showing you content that’s relevant, interesting and personal to you. To do that, we use your information to provide and improve your experience, including:
     
     *   Identify you when you use Pinterest.
     *   Recommend Pins, boards, topics or categories you might like based on your activity on Pinterest. For example, if we see you’re into cooking, we may suggest food-related Pins, boards or people that we think you might like, or show you food-related ads.
@@ -178,7 +180,7 @@ California residents
 
 *   The California Consumer Privacy Act (CCPA) requires us to disclose categories of Personal Information we collect and how we use it, the categories of sources from whom we collect Personal Information, and the third parties with whom we share it, which we have explained above.
     
-    In the preceding twelve months, we have collected Personal Information from you, your devices, our partners, third parties, and from categories of sources otherwise described in this [Privacy Policy](/privacy-policy#section-we-collect-information-in-a-few-different-ways).
+    In the preceding twelve months, we have collected Personal Information from you, your devices, our partners, third parties, and from categories of sources otherwise described in the [“We collect information in a few different ways”](https://policy.pinterest.com/privacy-policy#section-we-collect-information-in-a-few-different-ways) section of this Privacy Policy.
     
     We are also required to communicate information about rights California residents have under California law. You may exercise the following rights:
     
@@ -186,11 +188,15 @@ California residents
     *   Right to Equal Service. We will not discriminate against you if you exercise your privacy rights.
     *   Right to Delete. You may submit a verifiable request to close your account and we will delete Personal Information about you that we have collected.
     
+    In order to verify your identity when you make a request, you will be required to log in to your password-protected account or respond to an email verification request.
+    
     We do not sell the Personal Information of our users.
     
-    For more information about these rights, please see “Choices you have about your info” above, and to exercise them, please [visit our Help Center](https://help.pinterest.com/contact?current_page=about_you_page&personal_data=personal_data_view) or contact us at privacy-support \[at\] pinterest.com. In order to verify any request, you may need to log in to your account or respond to an email verification request.
+    For more information about these rights, please see “Choices you have about your info” above, and to exercise them, please [visit our Help Center](https://help.pinterest.com/contact?current_page=about_you_page&personal_data=personal_data_view) or contact us at privacy-support \[at\] pinterest.com. 
     
-    We collect the following categories of Personal Information and in the preceding 12 months, we have disclosed these categories of Personal Information for a business purpose to affiliates, service providers and third parties:
+    In addition to exercising these rights yourself, you may also designate an authorized agent to make these requests on your behalf. In order to do this, we will ask you to verify the request directly via email or through your password-protected account.
+    
+    We collect the following categories of Personal Information and in the preceding 12 months, we have disclosed these categories of Personal Information for a business purpose to affiliates, service providers and third parties, as described in the [How and when we share information](https://policy.pinterest.com/privacy-policy#section-how-and-when-we-share-information) section of this Privacy Policy:
     
     *   Identifiers, such as your name, username, email address, phone number, unique device identifiers, and your IP address
     *   Personal characteristics protected by law, such as your gender and age
@@ -202,7 +208,7 @@ California residents
     *   Inferences we draw or derive about users, such as your interests or preferences
     *   Other information you provide, such as your bio, Pins, and comments
     
-    We use and disclose this information for the business purposes described in this policy, including to: audit our Service, detect security incidents and prevent fraud, debug and repair errors, maintain your account, provide customer service, process or fulfill orders, conduct research and development and other activities to improve our Service, show advertising, market our Services, and understand how users interact with our Services.
+    We use and disclose this information for the business purposes described in the [What we do with the info we collect](https://policy.pinterest.com/privacy-policy#section-what-we-do-with-the-info-we-collect) section in this Privacy Policy, including to: provide our Service, communicate with you to provide updates or respond to your comments and questions, audit our Service, detect security incidents and prevent fraud, debug and repair errors, maintain your account, provide customer service, process or fulfill orders, conduct research and development and other activities to improve our Service, show advertising, market our Services, and understand how users interact with our Services.
     
 
 How we make changes to this policy
