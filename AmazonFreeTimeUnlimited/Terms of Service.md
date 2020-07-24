@@ -1,6 +1,6 @@
 Find more solutions
 
-Go Digital Services and Device Support › Amazon Device Terms, Warranties, and Notices › Amazon FreeTime Unlimited Terms &. Conditions
+Digital Services and Device Support › Amazon Device Terms, Warranties, and Notices › Amazon FreeTime Unlimited Terms &. Conditions
 
 **Last updated: May 22, 2020**
 
