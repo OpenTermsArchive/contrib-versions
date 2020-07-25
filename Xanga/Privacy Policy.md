@@ -7,7 +7,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by YoursSecretAdmirer 1 week ago)
+    *   4 (last comment by the\_incredibles\_1021 14 hours ago)
 *   Missing my blogs
     *   by Dantheman3121
     *   1 week ago
@@ -22,7 +22,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Missing my blog
     *   by bebe0125
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
