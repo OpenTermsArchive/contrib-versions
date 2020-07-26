@@ -18,23 +18,23 @@
 *   Events &. Holidays
 *   MorePetsWorld LanguagesAt WorkFlowersKeep in TouchWeddingInvitations
 
+*   Dance Day
 *   Hug Week
 *   July Flowers
-*   Dance Day
 *   Parents' Day
+*   Friendship Day
 *   Summer
-*   National Cousin's Day
+*   Hug Month
 *   More...
     *   Always Live Better Than Yesterday (Jul 31, 2020)
-    *   National Tequila Day (Jul 24, 2020)
-    *   Pioneer Day (Utah) (Jul 24, 2020)
     *   Aunt &. Uncle's Day (Jul 26, 2020)
     *   Father-in-law Day (Jul 30, 2020)
     *   National Cheesecake Day (Jul 30, 2020)
     *   Eid ul-Adha (Jul 31, 2020)
     *   Girlfriend's Day (Aug 1, 2020)
     *   August Flowers (August 2020)
-    *   Hug Month (August 2020)
+    *   Romance Awareness Month (August 2020)
+    *   Smile Month (August 2020)
     *   See All Events
 *   Go
 
