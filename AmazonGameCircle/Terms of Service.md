@@ -1,6 +1,6 @@
 Find more solutions
 
-Go Digital Services &. Content › Amazon Appstore› Amazon GameCircle Terms of Use
+Digital Services &. Content › Amazon Appstore› Amazon GameCircle Terms of Use
 
 **Last updated: January 1, 2020**
 
