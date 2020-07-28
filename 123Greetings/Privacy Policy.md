@@ -18,23 +18,23 @@
 *   Events &. Holidays
 *   MorePetsWorld LanguagesAt WorkFlowersKeep in TouchWeddingInvitations
 
-*   Parents' Day
-*   Hug Week
 *   July Flowers
 *   Girlfriend's Day
 *   August Flowers
+*   Hug Month
+*   Smile Month
 *   Summer
 *   More...
-    *   Hug Month (August 2020)
-    *   Smile Month (August 2020)
     *   Friendship Day (Aug 2, 2020)
+    *   Raksha Bandhan (Aug 3, 2020)
     *   Always Live Better Than Yesterday (Jul 31, 2020)
-    *   Aunt &. Uncle's Day (Jul 26, 2020)
     *   Father-in-law Day (Jul 30, 2020)
     *   National Cheesecake Day (Jul 30, 2020)
     *   Eid ul-Adha (Jul 31, 2020)
     *   Romance Awareness Month (August 2020)
     *   Sister's Day (Aug 2, 2020)
+    *   National Watermelon Day (Aug 3, 2020)
+    *   Full Moon Day (Aug 3, 2020)
     *   See All Events
 *   Go
 
