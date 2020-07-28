@@ -1,6 +1,6 @@
 Microsoft Privacy Statement
 Last Updated:
-June 2020
+July 2020
 Your privacy is important to us. This privacy statement explains the personal data Microsoft processes, how Microsoft processes it, and for what purposes.
 
 Microsoft offers a wide range of products, including server products used to help operate enterprises worldwide, devices you use in your home, software that students use at school, and services developers use to create and host what’s next. References to Microsoft products in this statement include Microsoft services, websites, apps, software, servers, and devices.
@@ -15,7 +15,7 @@ If you represent an organisation, such as a business or school, that utilises En
 
 You have choices when it comes to the technology you use and the data you share. When we ask you to provide personal data, you can decline. Many of our products require some personal data to provide you with a service. If you choose not to provide data required to provide you with a product or feature, you cannot use that product or feature. Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract; or if this relates to an existing product you’re using, we may have to suspend or cancel it. We will notify you if this is the case at the time. Where providing the data is optional, and you choose not to share personal data, features like personalisation that use such data will not work for you.
 
-Microsoft collects data from you, through our interactions with you and through our products for a variety of purposes described below, including to operate effectively and provide you with the best experiences with our products. You provide some of this data directly, such as when you create a Microsoft account, administer your organisation’s licensing account, submit a search query to Bing, register for a Microsoft event, speak a voice command to Cortana, upload a document to OneDrive, purchase an MSDN subscription, sign up for Office 365, or contact us for support. We get some of it by collecting data about your interactions, use, and experience with our products and communications.
+Microsoft collects data from you, through our interactions with you and through our products for a variety of purposes described below, including to operate effectively and provide you with the best experiences with our products. You provide some of this data directly, such as when you create a Microsoft account, administer your organisation’s licensing account, submit a search query to Bing, register for a Microsoft event, speak a voice command to Cortana, upload a document to OneDrive, sign up for Microsoft 365, or contact us for support. We get some of it by collecting data about your interactions, use, and experience with our products and communications.
 
 We rely on a variety of legal reasons and permissions (sometimes called “legal bases”) to process data, including with your consent, a balancing of legitimate interests, necessity to enter into and perform contracts, and compliance with legal obligations, for a variety of purposes described below.
 
@@ -261,7 +261,7 @@ Some of the cookies we commonly use are listed below. This list is not exhaustiv
 *   **NAP.** Contains an encrypted version of your country, postcode, age, gender, language and occupation, if known, based on your Microsoft account profile.
 *   **MH.** Appears on co-branded sites where Microsoft is partnering with an advertiser. This cookie identifies the advertiser, so the right ad is selected.
 *   **childinfo, kcdob, kcrelid, kcru, pcfm.** Contains information that Microsoft account uses within its pages in relation to child accounts.
-*   **MR.** Used to collect information for analytics purposes.
+*   **MR.** This cookie is used by Microsoft to reset or refresh the MUID cookie.
 *   **x-ms-gateway-slice.** Identifies a gateway for load balancing.
 *   **TOptOut.** Records your decision not to receive interest-based advertising delivered by Microsoft.
 
@@ -342,7 +342,7 @@ With a Microsoft account, you can sign into Microsoft products, as well as those
 
 **Work or school accounts**. The data associated with a work or school account, and how it will be used, is generally similar to the use and collection of data associated with a personal Microsoft account.
 
-If your employer or school uses Azure Active Directory (AAD) to manage the account it provides you, you can use your work or school account to sign in to Microsoft products, such as Office 365, and third-party products provided to you by your organisation. If required by your organisation, you will also be asked to provide a phone number or an alternative email address for additional security verification. And, if allowed by your organisation, you may also use your work or school account to sign in to Microsoft or third-party products that you acquire for yourself.
+If your employer or school uses Azure Active Directory (AAD) to manage the account it provides you, you can use your work or school account to sign in to Microsoft products, such as Microsoft 365 and Office 365, and third-party products provided to you by your organisation. If required by your organisation, you will also be asked to provide a phone number or an alternative email address for additional security verification. And, if allowed by your organisation, you may also use your work or school account to sign in to Microsoft or third-party products that you acquire for yourself.
 
 If you sign in to Microsoft products with a work or school account, note:
 
