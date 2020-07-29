@@ -1,19 +1,19 @@
-Skip to toolbar
-
-*   Xanga
-
-*   Log In
-
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   how can i access my old blogs
+    *   \[Resolved\] by e\_e
+    *   6 years ago
+    *   in Data Migration
+    *   0 votes
+    *   14 (last comment by IshaArie 4 hours ago)
 *   Old Xanga archived?
     *   by yourmomisreallyfreakinhott
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   4 (last comment by the\_incredibles\_1021 3 days ago)
+    *   5 (last comment by HrsCrazy425 8 hours ago)
 *   Missing my blogs
     *   by Dantheman3121
     *   2 weeks ago
@@ -40,7 +40,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Archived Blog Posts?
     *   by XxDayDream\_BelieverxX
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -88,12 +88,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Archive a user (not me)
     *   by quikblade88
-    *   2 months ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Dashboard
-    *   by reformedbelievr
     *   2 months ago
     *   in Data Migration
     *   0 votes
@@ -156,4 +150,8 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
+
+*   Xanga
+
+*   Log In
