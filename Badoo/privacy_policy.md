@@ -70,125 +70,22 @@ What is the legal basis that allows Badoo to use my data?
 
 We are only permitted to use your data when we have a lawful basis to do so. The table below provides an overview of the legal bases that Badoo relies on to use your data. Where the legal basis is consent, you can withdraw consent at any time. Where the legal basis is legitimate interests, you have a right to object to our use of your data. We explain in the relevant sections in this privacy notice how you can withdraw consent or opt-out of certain data uses (where applicable).
 
-Purpose for which data is used
-
-Data
-
-Source
-
-Legal basis
-
-To provide you with the Badoo social networking service
-
-Name, email address, date of birth, location (CCPA Categories A and B)
-
-You provide your name, email address and date of birth to us. We obtain location data from the device that you use to access the service
-
-Contractual necessity
-
-To facilitate networking opportunities on the Badoo site
-
-Optional information that you choose to provide in your profile, which may include information about your sexual preferences, non-binary gender, religion, ethnic background, photos etc. (CCPA Categories C, H, I, J)
-
-You provide this information to us
-
-Consent
-
-To verify your identity and prevent fraud and to ensure the safety and security of users
-
-Phone number (CCPA Category B)
-
-You provide this information to us
-
-Legitimate interests – it is in our legitimate interests to ensure that accounts are not set up fraudulently and to safeguard users of the site
-
-To take payment for premium services
-
-Payment card details (CCPA Categories B and D)
-
-You provide this information to us
-
-Contractual necessity and legitimate interests – we have a legitimate interest in receiving payment for our premium services
-
-To serve targeted advertisements to users of the site/app
-
-Device ID, demographic and location information (CCPA Categories A, C and G)
-
-We obtain demographic data from you, and location and device data from the device that you use to access the service
-
-Legitimate interests – it is in our legitimate interests to target advertisements so that users see relevant advertisements and to allow us to generate income from advertising revenue
-
-To serve advertisements to users of the site/app
-
-Device ID (CCPA Categories A)
-
-We obtain this information from the device that you use to access the service
-
-Legitimate interests – it is in our legitimate interests and the interests of third party advertisers to deliver advertisements to you to promote their products
-
-To send you marketing information about our offers and services
-
-Email address and mobile phone number (CCPA Category B)
-
-You provide this information to us
-
-Legitimate interests – it is in our legitimate interests to promote our products and services
-
-To contact you in order to run surveys for research purposes and to obtain feedback, and to find out if you want to take part in marketing campaigns
-
-Email address and mobile phone number (CCPA Category B)
-
-You provide this information to us
-
-Legitimate interests – it is in our legitimate interests to carry out research so that we can further develop the app and improve the service
-
-To enable users to create their Badoo profile and log into the app via Facebook
-
-Data from Facebook, including email address, name and profile picture, date of birth, friends who use the app, pages liked, location and photos (CCPA Categories A, B, C, and H)
-
-We obtain this information from Facebook
-
-Legitimate interests – it is in our legitimate interests to promote our products and services
-
-To show “nearby” location information to you and other users of the site/app
-
-Wifi access points and location data when you use the mobile app (CCPA Category G)
-
-We obtain this information from the device that you use to access the service
-
-Legitimate interests – it is in our legitimate interests to provide this functionality as part of the services
-
-To carry out analysis to help us improve the app
-
-Log and usage data, including IP address, browser type, referring domain, pages accessed, mobile carrier and search terms (CCPA Category F)
-
-We obtain this information from your interaction with our service
-
-Legitimate interests – it is in our interests to analyse the way in which users are accessing and using our services so that we can further develop the app and improve the service
-
-To respond to correspondence and queries that you submit to us, including social media queries
-
-Email address, IP address, social media name, phone number (CCPA Categories B and F)
-
-You provide your email address, social media name and phone number to us when you contact us and we obtain your IP address from the device that you use to contact us
-
-Legitimate interests – it is in our legitimate interests to respond to your queries to ensure that we provide a good service to users and troubleshoot problems
-
-To block accounts as part of our anti-spam procedures
-
-Email address, phone number, IP address and IP session information, social network ID, username, faceprint, user agent string (CCPA Categories B and F)
-
-You provide your email address, phone number and username to us. We obtain the other information from the device that you use to access the service
-
-Legitimate interests – it is in our legitimate interests to prevent unauthorised behaviour and to maintain the safety and security of our services
-
-To block payment transactions as part of our anti-fraud procedures
-
-Name, IP address, email address, mobile number, cardholder name, payments received, type of payment, user ID, country (CCPA Categories, A, B, and D)
-
-You provide your name, email address, phone number and card details to us. We obtain your IP address from the device that you use to contact us. We obtain your payment information from your interactions with our service
-
-Legitimate interests – it is in our legitimate interests to prevent fraudulent transactions and to maintain the security of our services
+| Purpose for which data is used | Data | Source | Legal basis |
+| --- | --- | --- | --- |
+| To provide you with the Badoo social networking service | Name, email address, date of birth, location (CCPA Categories A and B) | You provide your name, email address and date of birth to us. We obtain location data from the device that you use to access the service | Contractual necessity |
+| To facilitate networking opportunities on the Badoo site | Optional information that you choose to provide in your profile, which may include information about your sexual preferences, non-binary gender, religion, ethnic background, photos etc. (CCPA Categories C, H, I, J) | You provide this information to us | Consent |
+| To verify your identity and prevent fraud and to ensure the safety and security of users | Phone number (CCPA Category B) | You provide this information to us | Legitimate interests – it is in our legitimate interests to ensure that accounts are not set up fraudulently and to safeguard users of the site |
+| To take payment for premium services | Payment card details (CCPA Categories B and D) | You provide this information to us | Contractual necessity and legitimate interests – we have a legitimate interest in receiving payment for our premium services |
+| To serve targeted advertisements to users of the site/app | Device ID, demographic and location information (CCPA Categories A, C and G) | We obtain demographic data from you, and location and device data from the device that you use to access the service | Legitimate interests – it is in our legitimate interests to target advertisements so that users see relevant advertisements and to allow us to generate income from advertising revenue |
+| To serve advertisements to users of the site/app | Device ID (CCPA Categories A) | We obtain this information from the device that you use to access the service | Legitimate interests – it is in our legitimate interests and the interests of third party advertisers to deliver advertisements to you to promote their products |
+| To send you marketing information about our offers and services | Email address and mobile phone number (CCPA Category B) | You provide this information to us | Legitimate interests – it is in our legitimate interests to promote our products and services |
+| To contact you in order to run surveys for research purposes and to obtain feedback, and to find out if you want to take part in marketing campaigns | Email address and mobile phone number (CCPA Category B) | You provide this information to us | Legitimate interests – it is in our legitimate interests to carry out research so that we can further develop the app and improve the service |
+| To enable users to create their Badoo profile and log into the app via Facebook | Data from Facebook, including email address, name and profile picture, date of birth, friends who use the app, pages liked, location and photos (CCPA Categories A, B, C, and H) | We obtain this information from Facebook | Legitimate interests – it is in our legitimate interests to promote our products and services |
+| To show “nearby” location information to you and other users of the site/app | Wifi access points and location data when you use the mobile app (CCPA Category G) | We obtain this information from the device that you use to access the service | Legitimate interests – it is in our legitimate interests to provide this functionality as part of the services |
+| To carry out analysis to help us improve the app | Log and usage data, including IP address, browser type, referring domain, pages accessed, mobile carrier and search terms (CCPA Category F) | We obtain this information from your interaction with our service | Legitimate interests – it is in our interests to analyse the way in which users are accessing and using our services so that we can further develop the app and improve the service |
+| To respond to correspondence and queries that you submit to us, including social media queries | Email address, IP address, social media name, phone number (CCPA Categories B and F) | You provide your email address, social media name and phone number to us when you contact us and we obtain your IP address from the device that you use to contact us | Legitimate interests – it is in our legitimate interests to respond to your queries to ensure that we provide a good service to users and troubleshoot problems |
+| To block accounts as part of our anti-spam procedures | Email address, phone number, IP address and IP session information, social network ID, username, faceprint, user agent string (CCPA Categories B and F) | You provide your email address, phone number and username to us. We obtain the other information from the device that you use to access the service | Legitimate interests – it is in our legitimate interests to prevent unauthorised behaviour and to maintain the safety and security of our services |
+| To block payment transactions as part of our anti-fraud procedures | Name, IP address, email address, mobile number, cardholder name, payments received, type of payment, user ID, country (CCPA Categories, A, B, and D) | You provide your name, email address, phone number and card details to us. We obtain your IP address from the device that you use to contact us. We obtain your payment information from your interactions with our service | Legitimate interests – it is in our legitimate interests to prevent fraudulent transactions and to maintain the security of our services |
 
 How long will Badoo keep my data?
 ---------------------------------
@@ -216,41 +113,16 @@ We may share aggregated information with such parties as Foursquare that include
 
 We share your data with the following categories of third-parties:
 
-Third party
-
-Disclosed data
-
-Information technology companies (hardware and software) which provide services to support our products and help us with information security matters
-
-This could include all data, including all CCPA Categories listed above
-
-Fraud prevention to protect the service from criminal activity
-
-Transaction and payment data (CCPA Categories B and D)
-
-Moderators to monitor activity on the site/apps and approve content
-
-Name and user registration details, profile information, content of messages and photographs (CCPA Categories A, B, C, E, and H)
-
-Advertising partners, market places and providers of targeted advertising, including, but not limited to, MoPub Inc. (you can view MoPub’s privacy policy at https://www.mopub.com/legal/privacy/ and its partner list at https://www.mopub.com/legal/partners/) and Unity Technologies SF (you can view Unity’s privacy policy at https://unity3d.com/legal/privacy-policy).
-
-Device ID, geolocation data, demographic data (CCPA Categories C, F, and G)
-
-Law enforcement agencies, where we are required to by law or to protect the vital interests of a person
-
-This could include any personal data that Badoo holds about you, depending on the nature of the request or the issue that we are dealing with, including all CCPA Categories listed above
-
-Payment processing and telecommunications companies to facilitate payments for our premium services
-
-Cardholder name, cardholder address, card number, payment amount, transaction date/time (CCPA Categories A, B, and D)
-
-In the event that Badoo or any of its affiliates undergoes a business transition or change of ownership, such as a merger, acquisition by another company, re-organisation, or sale of all or a portion of its assets, or in the event of insolvency or administration, we may be required to disclose your personal data to a purchaser of all or part of the business or to an insolvency practitioner
-
-This could include all personal data that Badoo holds about you, including all CCPA Categories listed above
-
-Your data may be shared with other Badoo group companies, for example, to block accounts and suspected fraudulent payment transactions as part of our anti-spam and anti- fraud procedures.
-
-This could include CCPA Categories A, B, D and F.
+| Third party | Disclosed data |
+| --- | --- |
+| Information technology companies (hardware and software) which provide services to support our products and help us with information security matters | This could include all data, including all CCPA Categories listed above |
+| Fraud prevention to protect the service from criminal activity | Transaction and payment data (CCPA Categories B and D) |
+| Moderators to monitor activity on the site/apps and approve content | Name and user registration details, profile information, content of messages and photographs (CCPA Categories A, B, C, E, and H) |
+| Advertising partners, market places and providers of targeted advertising, including, but not limited to, MoPub Inc. (you can view MoPub’s privacy policy at https://www.mopub.com/legal/privacy/ and its partner list at https://www.mopub.com/legal/partners/) and Unity Technologies SF (you can view Unity’s privacy policy at https://unity3d.com/legal/privacy-policy). | Device ID, geolocation data, demographic data (CCPA Categories C, F, and G) |
+| Law enforcement agencies, where we are required to by law or to protect the vital interests of a person | This could include any personal data that Badoo holds about you, depending on the nature of the request or the issue that we are dealing with, including all CCPA Categories listed above |
+| Payment processing and telecommunications companies to facilitate payments for our premium services | Cardholder name, cardholder address, card number, payment amount, transaction date/time (CCPA Categories A, B, and D) |
+| In the event that Badoo or any of its affiliates undergoes a business transition or change of ownership, such as a merger, acquisition by another company, re-organisation, or sale of all or a portion of its assets, or in the event of insolvency or administration, we may be required to disclose your personal data to a purchaser of all or part of the business or to an insolvency practitioner | This could include all personal data that Badoo holds about you, including all CCPA Categories listed above |
+| Your data may be shared with other Badoo group companies, for example, to block accounts and suspected fraudulent payment transactions as part of our anti-spam and anti- fraud procedures. | This could include CCPA Categories A, B, D and F. |
 
 We ensure these parties must adhere to strict data protection and confidentiality provisions that are consistent with this Policy. Measures are taken to ensure that the data shared is non-attributable to the greatest extent possible.
 
@@ -323,42 +195,14 @@ Badoo’s use of cookies and local storage devices basically falls into the foll
 
 Badoo uses cookies and local storage devices so that we know who you are, what interests you and so that you can do the things online that you want to do, like chat with new people, share your content and buy Badoo Premium knowing that your data will be secure. Below is a table to explain Badoo’s cookie functions and why they’re used.
 
-Cookie Functions
-
-Cookie Purposes
-
-Analytics and research
-
-Badoo uses Google Analytics to collect information about how visitors use the Badoo site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. For more information about Google’s privacy policy, please visit [http://www.google.com/intl/en/policies/](http://www.google.com/intl/en/policies/)
-
-Authentication
-
-These cookies help us to identify our members so that when you’re logged in, you can enjoy Badoo’s offerings, experiences and various features, such as uploading photographs, chatting and can localise your experience, such as when you’ve requested to view Badoo’s site in your local language or when you’ve asked Badoo to ‘remember me’.
-
-Security and site integrity
-
-We use cookies and other devices, such as CAPTCHAs, to help keep Badoo and our members safe and secure. These cookies do things like protect Badoo users from spam and fraud, by ensuring the safety of your personal data when you shop on Badoo for things like Badoo Premium.
-
-We may use persistent cookies, which will help us to ensure we have identified the same device is logging into the correct account. These types of cookies also help with our anti-spam measures and may help us to prevent phishers, scammers, unauthorised log -in attempts to your account and accessing any hacked accounts.
-
-Site features and services
-
-These cookies and local storage devices provide the functionality that our Badoo members enjoy, such as uploading of photographs, chats, instant messaging, your account settings and your request to have Badoo as your homepage or your search preference. We also use cookies to help provide experiences, such as links to other social media sites, social plugins and video content, including making it easier for you to share content between Badoo with your other favourite social networks.
-
-In some cases, the site feature you choose may allow a third party to place cookies or local storage devices on your computer. The third party who places cookies on your device is responsible for how they process their data and Badoo recommends that you read their privacy policies. Third parties who place cookies on your device when you use Badoo include, and we have included a link to their privacy policies:
-
-*   Twitter, [https://twitter.com/privacy](https://twitter.com/privacy)
-*   Facebook, [https://en-gb.facebook.com/policy.php](https://en-gb.facebook.com/policy.php)
-*   YouTube, [http://www.google.co.uk/intl/en/policies/privacy/](http://www.google.co.uk/intl/en/policies/privacy/)
-*   AddThis, [http://www.addthis.com/privacy](http://www.addthis.com/privacy)
-
-Performance
-
-We need to use certain cookies and local storage devices to ensure our members have the best possible experience, such as assisting with your navigation of our site, ensuring pages load up quickly and respond faster to your requests for Badoo services
-
-Targeted advertising
-
-We sometimes conduct advertising campaigns using DoubleClick, a Google company, who will also place cookies. To find out about DoubleClick cookies and how to control those cookies, go to: [https://policies.google.com/technologies/ads](https://policies.google.com/technologies/ads).
+| Cookie Functions | Cookie Purposes |
+| --- | --- |
+| Analytics and research | Badoo uses Google Analytics to collect information about how visitors use the Badoo site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. For more information about Google’s privacy policy, please visit [http://www.google.com/intl/en/policies/](http://www.google.com/intl/en/policies/) |
+| Authentication | These cookies help us to identify our members so that when you’re logged in, you can enjoy Badoo’s offerings, experiences and various features, such as uploading photographs, chatting and can localise your experience, such as when you’ve requested to view Badoo’s site in your local language or when you’ve asked Badoo to ‘remember me’. |
+| Security and site integrity | We use cookies and other devices, such as CAPTCHAs, to help keep Badoo and our members safe and secure. These cookies do things like protect Badoo users from spam and fraud, by ensuring the safety of your personal data when you shop on Badoo for things like Badoo Premium.<br><br>We may use persistent cookies, which will help us to ensure we have identified the same device is logging into the correct account. These types of cookies also help with our anti-spam measures and may help us to prevent phishers, scammers, unauthorised log -in attempts to your account and accessing any hacked accounts. |
+| Site features and services | These cookies and local storage devices provide the functionality that our Badoo members enjoy, such as uploading of photographs, chats, instant messaging, your account settings and your request to have Badoo as your homepage or your search preference. We also use cookies to help provide experiences, such as links to other social media sites, social plugins and video content, including making it easier for you to share content between Badoo with your other favourite social networks.<br><br>In some cases, the site feature you choose may allow a third party to place cookies or local storage devices on your computer. The third party who places cookies on your device is responsible for how they process their data and Badoo recommends that you read their privacy policies. Third parties who place cookies on your device when you use Badoo include, and we have included a link to their privacy policies:<br><br>*   Twitter, [https://twitter.com/privacy](https://twitter.com/privacy)<br>*   Facebook, [https://en-gb.facebook.com/policy.php](https://en-gb.facebook.com/policy.php)<br>*   YouTube, [http://www.google.co.uk/intl/en/policies/privacy/](http://www.google.co.uk/intl/en/policies/privacy/)<br>*   AddThis, [http://www.addthis.com/privacy](http://www.addthis.com/privacy) |
+| Performance | We need to use certain cookies and local storage devices to ensure our members have the best possible experience, such as assisting with your navigation of our site, ensuring pages load up quickly and respond faster to your requests for Badoo services |
+| Targeted advertising | We sometimes conduct advertising campaigns using DoubleClick, a Google company, who will also place cookies. To find out about DoubleClick cookies and how to control those cookies, go to: [https://policies.google.com/technologies/ads](https://policies.google.com/technologies/ads). |
 
 Our use of cookies and local share devices, including the specific cookie names, may change over time, but will generally fall into the above categories. We will notify you of any important changes to our use of cookies and local storage devices If you would like to know more about cookies, including flash cookies/local storage devices, the following websites provide useful information:
 
