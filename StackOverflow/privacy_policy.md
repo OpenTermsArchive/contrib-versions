@@ -17,37 +17,16 @@ We have set out below, an overview of how our privacy policies work. Depending o
 
 This statement should be read together with our related Privacy Notices, in particular our [Privacy Notice for the Public Network](/legal/privacy-policy/public-network), [Privacy Notice for Stack Overflow Teams Basic](/legal/privacy-policy/teams-basic), [Privacy Notice for Stack Overflow Teams Business](/legal/privacy-policy/teams-business), [Privacy Notice for Stack Overflow Teams Enterprise](/legal/privacy-policy/teams-enterprise), [Privacy Notice for Stack Overflow Talent and Jobs](/legal/privacy-policy/talent) and our Employee Privacy Notice.
 
-If you interact with us through the Public Network
-
-In addition, we will collect and process your personal information in accordance with the [Stack Overflow Privacy Notice for the Public Network](/legal/privacy-policy/public-network).
-
-If you are a Stack Overflow for Teams, Basic customer
-
-In addition, we will collect and process your personal information in accordance with the [Stack Overflow for Teams Basic Privacy Notice](/legal/privacy-policy/teams-basic).
-
-If you are a Stack Overflow for Teams, Business customer
-
-In addition, we will collect and process your personal information in accordance with the [Stack Overflow for Teams, Business Privacy Notice](/legal/privacy-policy/teams-business) and any other agreement that we may have with you.
-
-If you are a Stack Overflow Talent customer
-
-This statement should be read together with our related Privacy Notices, in particular our [Stack Overflow Talent Privacy Notice](/legal/privacy-policy/talent) and any other agreement that we may have with you.
-
-If you are a Stack Overflow for Teams, Enterprise customer
-
-In addition, we will collect and process your personal information in accordance with the [Stack Overflow for Teams, Enterprise Privacy Notice](/legal/privacy-policy/teams-enterprise) and any other agreement that we may have with you.
-
-If you visit or register with any of our websites
-
-We will collect and use your personal information in accordance with this Privacy Policy and the Privacy Notice for the Public website if applicable. In particular, we may see how you use our websites and what content you interact with and for how long. This may involve the use of cookies which is explained in our [Cookie Policy](/legal/cookie-policy).
-
-If you are a supplier and you or your company provides us with goods or services
-
-We may collect your individual contact information in order to communicate with you and may use other information that we need in order to manage our account with your business. We will process such data in accordance with this Privacy Policy and any other agreement that we may have with you.
-
-If you are employed by us
-
-We will process your personal information in accordance with our Employee Privacy Notice. This will be made available to you internally.
+|     |     |
+| --- | --- |
+| If you interact with us through the Public Network | In addition, we will collect and process your personal information in accordance with the [Stack Overflow Privacy Notice for the Public Network](/legal/privacy-policy/public-network). |
+| If you are a Stack Overflow for Teams, Basic customer | In addition, we will collect and process your personal information in accordance with the [Stack Overflow for Teams Basic Privacy Notice](/legal/privacy-policy/teams-basic). |
+| If you are a Stack Overflow for Teams, Business customer | In addition, we will collect and process your personal information in accordance with the [Stack Overflow for Teams, Business Privacy Notice](/legal/privacy-policy/teams-business) and any other agreement that we may have with you. |
+| If you are a Stack Overflow Talent customer | This statement should be read together with our related Privacy Notices, in particular our [Stack Overflow Talent Privacy Notice](/legal/privacy-policy/talent) and any other agreement that we may have with you. |
+| If you are a Stack Overflow for Teams, Enterprise customer | In addition, we will collect and process your personal information in accordance with the [Stack Overflow for Teams, Enterprise Privacy Notice](/legal/privacy-policy/teams-enterprise) and any other agreement that we may have with you. |
+| If you visit or register with any of our websites | We will collect and use your personal information in accordance with this Privacy Policy and the Privacy Notice for the Public website if applicable. In particular, we may see how you use our websites and what content you interact with and for how long. This may involve the use of cookies which is explained in our [Cookie Policy](/legal/cookie-policy). |
+| If you are a supplier and you or your company provides us with goods or services | We may collect your individual contact information in order to communicate with you and may use other information that we need in order to manage our account with your business. We will process such data in accordance with this Privacy Policy and any other agreement that we may have with you. |
+| If you are employed by us | We will process your personal information in accordance with our Employee Privacy Notice. This will be made available to you internally. |
 
 HOW WE COLLECT INFORMATION FROM YOU
 
