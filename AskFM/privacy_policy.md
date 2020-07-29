@@ -212,35 +212,12 @@ Our partners also may collect information directly from your device, such as you
 
 (d) Our current Partner List, that means companies we have agreed to share data with for the above purposes, includes the following companies and what data we share with them:
 
-Third Party
-
-Location of Users
-
-Types of data shared
-
-[Adsquare](http://www.adsquare.com/privacy)
-
-Global
-
-Age, gender, interests and device IDs/cookies
-
-[Circulate](https://liveramp.com/privacy/)
-
-US, Canada, France and UK
-
-E-mail (encrypted) and cookies and/or device IDs
-
-[CleverDATA](https://dmpkit.io/policy)
-
-Global
-
-Age, gender, interests and device IDs/cookies
-
-[Zeotap](https://www.zeotap.com/privacy_policy/)
-
-Global
-
-Device IDs, age, gender, e-mail (encrypted)
+| Third Party | Location of Users | Types of data shared |
+| --- | --- | --- |
+| [Adsquare](http://www.adsquare.com/privacy) | Global | Age, gender, interests and device IDs/cookies |
+| [Circulate](https://liveramp.com/privacy/) | US, Canada, France and UK | E-mail (encrypted) and cookies and/or device IDs |
+| [CleverDATA](https://dmpkit.io/policy) | Global | Age, gender, interests and device IDs/cookies |
+| [Zeotap](https://www.zeotap.com/privacy_policy/) | Global | Device IDs, age, gender, e-mail (encrypted) |
 
 16E. I live in Europe, what does “profiling” mean and why do you need me to consent to it?
 ------------------------------------------------------------------------------------------
