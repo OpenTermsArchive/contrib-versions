@@ -164,7 +164,7 @@ WhatsApp Intellectual Property Policy
 
 WhatsApp Brand Guidelines
 
-WhatsApp Privacy PolicyLast modified: December 19, 2019 (archived versions)
+WhatsApp Privacy PolicyLast modified: July 20, 2020 (archived versions)
 
 Respect for your privacy is coded into our DNA. Since we started WhatsApp, we’ve aspired to build our Services with a set of strong privacy principles in mind.
 
