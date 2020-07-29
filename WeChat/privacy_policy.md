@@ -137,168 +137,33 @@ References to **"Information"** in this Privacy Policy mean both Personal Inform
 
 This section provides more detail on the types of personal information we collect from you, and why. For users who live in the European Economic Area (**EEA**), it also identifies the legal basis under which we process your data:
 
-**Information**
-
-**Purpose of Processing**
-
-**Registration Data and Log-in Data.** Your name, user alias, mobile phone number, password, gender, and IP address.  
-**Legal Basis (EEA):** Necessary to perform our contract with you to provide your WeChat profile and provide WeChat services.
-
-*   to set up and log in to a user account on WeChat;
-*   to notify you about changes to WeChat;
-*   to facilitate communication;
-*   to provide you with user support;
-*   to enforce our terms, conditions, and policies;
-*   to place VoIP calls using WeChat;
-*   to communicate with you;
-*   to provide personalised help and instructions;
-*   to better understand how you access and use WeChat;
-*   to develop new and improve existing services;
-*   to provide language and location customisation;
-*   to protect any rights, property or safety of ours, our affiliate companies, or other users of WeChat; and
-*   to administer WeChat and for internal operations, including troubleshooting, data analysis, testing, research, security, fraud-detection, account management, and survey purposes.
-
-**User Profile Search Data.** Record of search inquiries.  
-**Legal Basis (EEA):** Necessary to perform our contract with you to provide efficient access to your WeChat activity.
-
-*   to provide quick access to previous searches.
-
-**Shared Information - Profile Data.** Any information that you include in your publicly-visible WeChat profile, which may include your profile ID, name, and photo.  
-**Legal Basis (EEA):** Necessary to perform our contract with you to provide your WeChat profile and provide WeChat services.
-
-*   to administer the WeChat platform in accordance with your instructions and requests;
-*   to provide personalised help and instructions;
-*   to provide language and location customisation;
-*   to develop new and improve existing services;
-*   to better understand how you access and use WeChat;
-*   to maintain your WeChat account in accordance with your instructions and requests.
-
-**Shared Information – Profile Media.** This comprises all of the information you make available to other users via WeChat, comprising:
-
-*   WeChat Moments and Time Capsule posts and responding to other users’ WeChat Moments and and Time Capsules; and
-*   information made available by another user about you via their use of WeChat – for example, any Shared Information that others using WeChat make available about you via WeChat Moments, Time Capsule, and and communications they make to you and others using WeChat.
-
-  
-**Legal Basis (EEA):** Necessary to perform our contract with you to provide your WeChat profile and provide WeChat services.
-
-*   to administer the WeChat platform;
-*   to provide personalised help and instructions;
-*   to provide language and location customisation;
-*   to develop new and improve existing services;
-*   to maintain your WeChat account;
-*   to better understand how you access and use WeChat.
-
-**Additional Account Security.** Voiceprint (an optional security features for you), Emergency Contacts, Managed Devices, Email address, Facebook Connect OpenID, Facebook Connect Token, Facebook Username, QQ ID, and if you opt in: credit card number, facial mapping/detection, and/or Sign in with Apple.  
-**Legal Basis (EEA):** Necessary to perform our contract with you to provide and secure your WeChat account.
-
-*   to verify your identity
-*   account security.
-
-**Chat Data.** Content of communications between you and another user or group of users. This is stored on your device and the devices of the users that you have sent communications to. We do not permanently store this information on our servers and it only passes through our servers so that it can be distributed to the users you have chosen to send communications to.  
-**Legal Basis (EEA):** Necessary to perform our contract with you to provide the chat services of WeChat.
-
-*   to facilitate delivery of communication to another user.
-
-**Contacts List.** Your on-device contact list.  
-**Legal Basis (EEA):** Necessary to perform our contract with you to provide WeChat and connect you with your friends.
-
-*   to connect you with other WeChat users using the "Recommended Friends" function.
-
-**OpenID.** We generate an OpenID each instance your WeChat account activates a third-party WeChat Open Platform service. It is a unique identifier that only exists for one account connecting to a single service and allows it to be identified without using other personal information – for example, your name or email address. In addition, we create a UnionID for each instance your WeChat account connects to a service or services operated by a single third-party operator. This allows the third-party operator to associate your activity more easily across various inter-related services offered by the same operator.  
-**Legal Basis (EEA):** Necessary to perform our contract with you to provide your WeChat profile and provide WeChat services.
-
-*   to allow you to follow an Official Account;
-*   to allow you to use a Mini Program; and
-*   to allow you to use your WeChat ID to log-in to third party services.
-
-**Log Data.** See definition above.  
-**Legal Basis (EEA):** It is in our legitimate interest to ensure the security of our services, manage registrations and improve our services.
-
-*   to better understand how you access and use WeChat;
-*   to administer WeChat;
-*   for internal operations, including troubleshooting, data analysis, testing, research, security, fraud-detection, and account management.
-
-**Location Information.** See definition above.  
-**Legal Basis (EEA):** Necessary to perform our contract with you to provide WeChat location-related services.
-
-  
-Please note that use of products and services that use location information are, when used outside of the PRC, subject to the HERE [Terms of Use](https://legal.here.com/en-gb/terms/serviceterms) and the HERE [Privacy Policy](https://legal.here.com/en-gb/privacy).
-
-*   for security, fraud-detection and account management (such as to ensure there are not multiple log-ins or suspicious log-ins on your account);
-*   to provide you with location-based services that you choose to use:
-*   Share Location (when you elect to share your location within a chat with other users);
-*   Moments and Time Capsule/Point of Interest (geo-tagging a place in a Moments or Time Capsule post);
-*   WeRun (when you elect to use this feature WeChat uses your accelerometer and gyroscope
-*   Official Accounts (if you elect to disclose your location to an Official Account, that information will be shared with the Official Account);
-*   Mini Program (if you choose to disclose your location to a Mini Program, or choose to find Mini Programs Nearby);
-*   People Nearby, Shake, Message in a Bottle (these are location-based services that you can choose to use to disclose your general location for a limited period of time (and you can choose to clear such location data at any time);
-*   Top Stories (if you access this feature, we use your location to optimize locally relevant news content for you);
-*   Search (if you perform an external search using WeChat, the service uses your location to provide you with locally relevant information);
-*   to provide language and location customisation.
-
-**Credit card information**  
-**Legal Basis (EEA):** We process this data in accordance with our obligations under applicable law.
-
-*   In some regions, credit card information is collected and the card information verified via a third-party payment processing service for the purpose of verifying parental or guardian consent to use WeChat by an underage minor. This information is not permanently stored to WeChat's servers and is immediately disposed after a verification request has been performed by the third-party payment processing service.
-
-**Customer Support Information.** Any information that you provide to our customer support team.  
-**Legal Basis (EEA):** Necessary to perform our contract with you to provide and support WeChat.
-
-*   to investigate your support issue.
-
-**Device Data.** Media stored on your device.  
-**Legal Basis (EEA):** Necessary to perform our contract with you to provide WeChat services.
-
-*   to facilitate the sharing of such media using WeChat.
-
-**Social Connect Information.** Your QQ ID or Facebook Connect Token (as applicable).  
-**Legal Basis (EEA):** Necessary to perform our contract with you to provide WeChat services.
-
-*   if you choose to connect a third party social media account to your WeChat account, we process this information to facilitate login to WeChat via social media account.
-*   if you publish content on your Moments or Time Capsule, WeChat will facilitate the publishing to a authenticated third party social media account if you choose to share this content to the third party account
-
-**Surveys.** If you choose to participate in a survey, we may request certain Personal Information from you. We may use a service provider to conduct these surveys and this will be notified to you prior to you completing the survey.  
-**Legal Basis (EEA):** We collect this information with your consent.
-
-*   to better understand how you access and use WeChat;
-*   to provide personalised help and instructions;
-*   to develop new and improve existing services;
-*   to improve WeChat and respond to customer requests and preferences.
-
-**Contest Information.** Any information that you provide to us in submitting an entry to a contest offered on WeChat.  
-**Legal Basis (EEA):** Necessary to perform our contract with you to validate contest entry and award prizes.
-
-*   to facilitate your participation in the contest;
-*   to award prizes, if applicable.
-
-**Pseudonymised and Aggregated Data.** We pseudonymise and aggregate certain Personal Information to improve our services.  
-**Legal Basis (EEA):** It is in our legitimate interest to ensure the security of our services, manage registrations and improve our services.
-
-*   Analysis of what features or actions are taken within the app in order to improve app experience
-*   Fraud detection and account safety analysis
-*   User demographic analysis on items such as region, phone model, operating system platform, system language, and WeChat version in order to better understand how our users are using WeChat
-*   Web and account traffic statistics of what content and services are used when users access third-party services on the WeChat Open Platform as a method for informing third-party service providers basic analysis of how their service is being used by WeChat users
+| **Information** | **Purpose of Processing** |
+| --- | --- |
+| **Registration Data and Log-in Data.** Your name, user alias, mobile phone number, password, gender, and IP address.  <br>**Legal Basis (EEA):** Necessary to perform our contract with you to provide your WeChat profile and provide WeChat services. | *   to set up and log in to a user account on WeChat;<br>*   to notify you about changes to WeChat;<br>*   to facilitate communication;<br>*   to provide you with user support;<br>*   to enforce our terms, conditions, and policies;<br>*   to place VoIP calls using WeChat;<br>*   to communicate with you;<br>*   to provide personalised help and instructions;<br>*   to better understand how you access and use WeChat;<br>*   to develop new and improve existing services;<br>*   to provide language and location customisation;<br>*   to protect any rights, property or safety of ours, our affiliate companies, or other users of WeChat; and<br>*   to administer WeChat and for internal operations, including troubleshooting, data analysis, testing, research, security, fraud-detection, account management, and survey purposes. |
+| **User Profile Search Data.** Record of search inquiries.  <br>**Legal Basis (EEA):** Necessary to perform our contract with you to provide efficient access to your WeChat activity. | *   to provide quick access to previous searches. |
+| **Shared Information - Profile Data.** Any information that you include in your publicly-visible WeChat profile, which may include your profile ID, name, and photo.  <br>**Legal Basis (EEA):** Necessary to perform our contract with you to provide your WeChat profile and provide WeChat services. | *   to administer the WeChat platform in accordance with your instructions and requests;<br>*   to provide personalised help and instructions;<br>*   to provide language and location customisation;<br>*   to develop new and improve existing services;<br>*   to better understand how you access and use WeChat;<br>*   to maintain your WeChat account in accordance with your instructions and requests. |
+| **Shared Information – Profile Media.** This comprises all of the information you make available to other users via WeChat, comprising:<br><br>*   WeChat Moments and Time Capsule posts and responding to other users’ WeChat Moments and and Time Capsules; and<br>*   information made available by another user about you via their use of WeChat – for example, any Shared Information that others using WeChat make available about you via WeChat Moments, Time Capsule, and and communications they make to you and others using WeChat.<br><br>  <br>**Legal Basis (EEA):** Necessary to perform our contract with you to provide your WeChat profile and provide WeChat services. | *   to administer the WeChat platform;<br>*   to provide personalised help and instructions;<br>*   to provide language and location customisation;<br>*   to develop new and improve existing services;<br>*   to maintain your WeChat account;<br>*   to better understand how you access and use WeChat. |
+| **Additional Account Security.** Voiceprint (an optional security features for you), Emergency Contacts, Managed Devices, Email address, Facebook Connect OpenID, Facebook Connect Token, Facebook Username, QQ ID, and if you opt in: credit card number, facial mapping/detection, and/or Sign in with Apple.  <br>**Legal Basis (EEA):** Necessary to perform our contract with you to provide and secure your WeChat account. | *   to verify your identity<br>*   account security. |
+| **Chat Data.** Content of communications between you and another user or group of users. This is stored on your device and the devices of the users that you have sent communications to. We do not permanently store this information on our servers and it only passes through our servers so that it can be distributed to the users you have chosen to send communications to.  <br>**Legal Basis (EEA):** Necessary to perform our contract with you to provide the chat services of WeChat. | *   to facilitate delivery of communication to another user. |
+| **Contacts List.** Your on-device contact list.  <br>**Legal Basis (EEA):** Necessary to perform our contract with you to provide WeChat and connect you with your friends. | *   to connect you with other WeChat users using the "Recommended Friends" function. |
+| **OpenID.** We generate an OpenID each instance your WeChat account activates a third-party WeChat Open Platform service. It is a unique identifier that only exists for one account connecting to a single service and allows it to be identified without using other personal information – for example, your name or email address. In addition, we create a UnionID for each instance your WeChat account connects to a service or services operated by a single third-party operator. This allows the third-party operator to associate your activity more easily across various inter-related services offered by the same operator.  <br>**Legal Basis (EEA):** Necessary to perform our contract with you to provide your WeChat profile and provide WeChat services. | *   to allow you to follow an Official Account;<br>*   to allow you to use a Mini Program; and<br>*   to allow you to use your WeChat ID to log-in to third party services. |
+| **Log Data.** See definition above.  <br>**Legal Basis (EEA):** It is in our legitimate interest to ensure the security of our services, manage registrations and improve our services. | *   to better understand how you access and use WeChat;<br>*   to administer WeChat;<br>*   for internal operations, including troubleshooting, data analysis, testing, research, security, fraud-detection, and account management. |
+| **Location Information.** See definition above.  <br>**Legal Basis (EEA):** Necessary to perform our contract with you to provide WeChat location-related services. |     |
+| Please note that use of products and services that use location information are, when used outside of the PRC, subject to the HERE [Terms of Use](https://legal.here.com/en-gb/terms/serviceterms) and the HERE [Privacy Policy](https://legal.here.com/en-gb/privacy). | *   for security, fraud-detection and account management (such as to ensure there are not multiple log-ins or suspicious log-ins on your account);<br>*   to provide you with location-based services that you choose to use:<br>*   Share Location (when you elect to share your location within a chat with other users);<br>*   Moments and Time Capsule/Point of Interest (geo-tagging a place in a Moments or Time Capsule post);<br>*   WeRun (when you elect to use this feature WeChat uses your accelerometer and gyroscope<br>*   Official Accounts (if you elect to disclose your location to an Official Account, that information will be shared with the Official Account);<br>*   Mini Program (if you choose to disclose your location to a Mini Program, or choose to find Mini Programs Nearby);<br>*   People Nearby, Shake, Message in a Bottle (these are location-based services that you can choose to use to disclose your general location for a limited period of time (and you can choose to clear such location data at any time);<br>*   Top Stories (if you access this feature, we use your location to optimize locally relevant news content for you);<br>*   Search (if you perform an external search using WeChat, the service uses your location to provide you with locally relevant information);<br>*   to provide language and location customisation. |
+| **Credit card information**  <br>**Legal Basis (EEA):** We process this data in accordance with our obligations under applicable law. | *   In some regions, credit card information is collected and the card information verified via a third-party payment processing service for the purpose of verifying parental or guardian consent to use WeChat by an underage minor. This information is not permanently stored to WeChat's servers and is immediately disposed after a verification request has been performed by the third-party payment processing service. |
+| **Customer Support Information.** Any information that you provide to our customer support team.  <br>**Legal Basis (EEA):** Necessary to perform our contract with you to provide and support WeChat. | *   to investigate your support issue. |
+| **Device Data.** Media stored on your device.  <br>**Legal Basis (EEA):** Necessary to perform our contract with you to provide WeChat services. | *   to facilitate the sharing of such media using WeChat. |
+| **Social Connect Information.** Your QQ ID or Facebook Connect Token (as applicable).  <br>**Legal Basis (EEA):** Necessary to perform our contract with you to provide WeChat services. | *   if you choose to connect a third party social media account to your WeChat account, we process this information to facilitate login to WeChat via social media account.<br>*   if you publish content on your Moments or Time Capsule, WeChat will facilitate the publishing to a authenticated third party social media account if you choose to share this content to the third party account |
+| **Surveys.** If you choose to participate in a survey, we may request certain Personal Information from you. We may use a service provider to conduct these surveys and this will be notified to you prior to you completing the survey.  <br>**Legal Basis (EEA):** We collect this information with your consent. | *   to better understand how you access and use WeChat;<br>*   to provide personalised help and instructions;<br>*   to develop new and improve existing services;<br>*   to improve WeChat and respond to customer requests and preferences. |
+| **Contest Information.** Any information that you provide to us in submitting an entry to a contest offered on WeChat.  <br>**Legal Basis (EEA):** Necessary to perform our contract with you to validate contest entry and award prizes. | *   to facilitate your participation in the contest;<br>*   to award prizes, if applicable. |
+| **Pseudonymised and Aggregated Data.** We pseudonymise and aggregate certain Personal Information to improve our services.  <br>**Legal Basis (EEA):** It is in our legitimate interest to ensure the security of our services, manage registrations and improve our services. | *   Analysis of what features or actions are taken within the app in order to improve app experience<br>*   Fraud detection and account safety analysis<br>*   User demographic analysis on items such as region, phone model, operating system platform, system language, and WeChat version in order to better understand how our users are using WeChat<br>*   Web and account traffic statistics of what content and services are used when users access third-party services on the WeChat Open Platform as a method for informing third-party service providers basic analysis of how their service is being used by WeChat users |
 
 Some features of WeChat are only available to users in certain jurisdictions. For these features we collect additional information as follows:
 
-**Information**
-
-**Purpose of Processing**
-
-**Additional Registration Data – Verified Account.** Nationality, date of birth, residential address, copy of residential address proof, copy of personal identification document (for example passport, identification card, home return permit, etc.), personal identification document number, occupation, and source of funds.  
-**Availability:** This feature is only available to users with mobile numbers issued in certain jurisdictions (such as Hong Kong)
-
-If you choose to apply for account verification (in order to unlock additional payment and fund settlement features in WeChat), we use this information to:
-
-*   to verify your identity; and
-*   to facilitate payment and funds settlement.
-
-**Payments Information.** Your credit card number, expiry, CVC, cardholder name, and transactional payment data via MIDAS payments SDK.. Please note that where a payment is processed by a third party payment service provider, we do not collect or store any Personal Information, though we may receive summary information about transactions.  
-**Availability:** This feature is only available to users with mobile numbers issued in certain jurisdictions (such as Hong Kong)
-
-*   to facilitate your purchases within WeChat;
-*   to validate your real name to facilitate the creation of your WeChat Pay account;
-*   to process your payment using the MIDAS payments platform
+| **Information** | **Purpose of Processing** |
+| --- | --- |
+| **Additional Registration Data – Verified Account.** Nationality, date of birth, residential address, copy of residential address proof, copy of personal identification document (for example passport, identification card, home return permit, etc.), personal identification document number, occupation, and source of funds.  <br>**Availability:** This feature is only available to users with mobile numbers issued in certain jurisdictions (such as Hong Kong) | If you choose to apply for account verification (in order to unlock additional payment and fund settlement features in WeChat), we use this information to:<br><br>*   to verify your identity; and<br>*   to facilitate payment and funds settlement. |
+| **Payments Information.** Your credit card number, expiry, CVC, cardholder name, and transactional payment data via MIDAS payments SDK.. Please note that where a payment is processed by a third party payment service provider, we do not collect or store any Personal Information, though we may receive summary information about transactions.  <br>**Availability:** This feature is only available to users with mobile numbers issued in certain jurisdictions (such as Hong Kong) | *   to facilitate your purchases within WeChat;<br>*   to validate your real name to facilitate the creation of your WeChat Pay account;<br>*   to process your payment using the MIDAS payments platform |
 
 **Personal Information within Your Content**
 
@@ -395,85 +260,27 @@ Unfortunately, the transmission of information via the internet is not completel
 
 We will retain your Personal Information as set out in the following table, except where we are otherwise required to retain such data in accordance with law. Should you or we terminate your account for any reason, we will take steps to ensure that your Personal Information is no longer available through WeChat, or otherwise used by us, within a reasonable period of time (subject to technical limitations) after such account termination.
 
-**Information Type**
-
-**Retention Period**
-
-_Registration data_
-
-Until such time as you instruct WeChat to delete your account or you have not logged in for 180 days. Your account will be permanently deleted within 60 days of both verification of account ownership and the account deletion request.
-
-_Login data_
-
-Information is retained for a period of 3 months from the date of such log in.
-
-_User profile search data_
-
-Until you request removal or amendment of the Personal Information or your account is deleted, whichever is earlier.
-
-_Profile data and profile media (viewable by all users)_
-
-Until you request removal or amendment of the Personal Information or your account is deleted, whichever is earlier (however, the data may be available if cached on third party services).
-
-_Profile data (viewable upon friend verification)_
-
-Until you request removal or amendment of the Personal Information or your account is deleted, whichever is earlier (however, the data may be available if cached on third party services).
-
-_Additional account security_
-
-Until you request removal or amendment of the Personal Information or your account is deleted, whichever is earlier (however, the data may be available if cached on third party services).
-
-_Chat – non-persistent and semi-persistent communication between users_
-
-Data is retained for a period of 120 hours from the time of the relevant interaction and then permanently deleted.
-
-_Chat - media such as images, video, audio, and files_
-
-Data is retained for a period of 72 hours from the time of the relevant interaction and then permanently deleted.
-
-_Contacts list_
-
-Until you request removal or amendment of the Personal Information or your account is deleted, whichever is earlier.
-
-_Location-based services and Location-based media_
-
-Data is retained for a period of 72 hours from the time of the relevant interaction and then permanently deleted.
-
-_Moments, Time Capsule, and Favorites -- data and media_
-
-Until you request removal or amendment of the Personal Information or your account is deleted, whichever is earlier (however, the data may be available if cached on third party services).
-
-_OpenID and Open ID media (given to third parties)_
-
-Until you unfollow the third party developer’s application, Official Account, Mini Program or similar, or your account is deleted, whichever is earlier.
-
-_Provision of third party products and services (i.e. if you are a provider of an Official Account or Mini Program)_
-
-Until such time as you instruct WeChat to delete your account. Your account will be permanently deleted within 60 days of both verification of account ownership and the account deletion request. Please note that the information disclosed to the third party is controlled by them. We will use reasonable efforts to seek that they delete such information when we do.
-
-_Information provided to an Official Account / Mini Program_
-
-Until such time as you instruct WeChat to delete your account or you withdraw your permission / unfollow such third party. Please note that the information disclosed to the third party is controlled by them. We will use reasonable efforts to seek that they delete such information when we do.
-
-_Information provided to customer service_
-
-Until such time as you instruct WeChat to delete your account. Your account will be permanently deleted within 60 days of the account deletion request.
-
-_Metadata / Log Data_
-
-Data is retained for 3 months from the date of log in and then permanently deleted.
-
-_Device Data_
-
-Until such time as you instruct WeChat to delete your account. Your account will be permanently deleted within 60 days of the account deletion request.
-
-_Social Connect Information_
-
-Until such time as you instruct WeChat to delete your account or unbind your social account from your WeChat account. Your account will be permanently deleted within 60 days of the account deletion request.
-
-_Cookies_
-
-Data is retained for 3 months from the date of log in and then permanently deleted.
+| **Information Type** | **Retention Period** |
+| --- | --- |
+| _Registration data_ | Until such time as you instruct WeChat to delete your account or you have not logged in for 180 days. Your account will be permanently deleted within 60 days of both verification of account ownership and the account deletion request. |
+| _Login data_ | Information is retained for a period of 3 months from the date of such log in. |
+| _User profile search data_ | Until you request removal or amendment of the Personal Information or your account is deleted, whichever is earlier. |
+| _Profile data and profile media (viewable by all users)_ | Until you request removal or amendment of the Personal Information or your account is deleted, whichever is earlier (however, the data may be available if cached on third party services). |
+| _Profile data (viewable upon friend verification)_ | Until you request removal or amendment of the Personal Information or your account is deleted, whichever is earlier (however, the data may be available if cached on third party services). |
+| _Additional account security_ | Until you request removal or amendment of the Personal Information or your account is deleted, whichever is earlier (however, the data may be available if cached on third party services). |
+| _Chat – non-persistent and semi-persistent communication between users_ | Data is retained for a period of 120 hours from the time of the relevant interaction and then permanently deleted. |
+| _Chat - media such as images, video, audio, and files_ | Data is retained for a period of 72 hours from the time of the relevant interaction and then permanently deleted. |
+| _Contacts list_ | Until you request removal or amendment of the Personal Information or your account is deleted, whichever is earlier. |
+| _Location-based services and Location-based media_ | Data is retained for a period of 72 hours from the time of the relevant interaction and then permanently deleted. |
+| _Moments, Time Capsule, and Favorites -- data and media_ | Until you request removal or amendment of the Personal Information or your account is deleted, whichever is earlier (however, the data may be available if cached on third party services). |
+| _OpenID and Open ID media (given to third parties)_ | Until you unfollow the third party developer’s application, Official Account, Mini Program or similar, or your account is deleted, whichever is earlier. |
+| _Provision of third party products and services (i.e. if you are a provider of an Official Account or Mini Program)_ | Until such time as you instruct WeChat to delete your account. Your account will be permanently deleted within 60 days of both verification of account ownership and the account deletion request. Please note that the information disclosed to the third party is controlled by them. We will use reasonable efforts to seek that they delete such information when we do. |
+| _Information provided to an Official Account / Mini Program_ | Until such time as you instruct WeChat to delete your account or you withdraw your permission / unfollow such third party. Please note that the information disclosed to the third party is controlled by them. We will use reasonable efforts to seek that they delete such information when we do. |
+| _Information provided to customer service_ | Until such time as you instruct WeChat to delete your account. Your account will be permanently deleted within 60 days of the account deletion request. |
+| _Metadata / Log Data_ | Data is retained for 3 months from the date of log in and then permanently deleted. |
+| _Device Data_ | Until such time as you instruct WeChat to delete your account. Your account will be permanently deleted within 60 days of the account deletion request. |
+| _Social Connect Information_ | Until such time as you instruct WeChat to delete your account or unbind your social account from your WeChat account. Your account will be permanently deleted within 60 days of the account deletion request. |
+| _Cookies_ | Data is retained for 3 months from the date of log in and then permanently deleted. |
 
 _Full description of data is set out in the section \*_"How do we use your information"\*\* above.
 
@@ -620,293 +427,41 @@ First, you may wish to log into your account and manage your data from there.If 
 
 The personal information we provide to third-parties located outside of Korea for the WeChat service is as follows:
 
-**Identity of the recipient and Contact information of Chief Privacy Officer**
-
-**Location of the recipient**
-
-**Purposes of use of personal information by the recipient**
-
-**Items of personal information to be provided**
-
-**Date and method of transfer**
-
-**Period of retention and use of personal information by the recipient**
-
-Twilio Inc. [privacy@twilio.com](mailto:privacy@twilio.com)
-
-USA
-
-For the purpose sending SMS verification necessary for performance of contract
-
-Mobile number
-
-Transmitted from time to time
-
-Until such time as user instructs WeChat to delete account or has not logged in for 180 days. Accounts deleted within 60 days of account deletion request.
-
-Nexmo [privacy@vonage.com](mailto:privacy@vonage.com)
-
-USA
-
-For the purpose sending SMS verification necessary for performance of contract
-
-Mobile number
-
-Transmitted from time to time
-
-Until such time as user instructs WeChat to delete account or has not logged in for 180 days. Accounts deleted within 60 days of account deletion request.
-
-Messagebird [privacy@messagebird.com](mailto:privacy@messagebird.com)
-
-Netherlands
-
-For the purpose sending SMS verification necessary for performance of contract
-
-Mobile number
-
-Transmitted from time to time
-
-Until such time as user instructs WeChat to delete account or has not logged in for 180 days. Accounts deleted within 60 days of account deletion request.
-
-PCCW [privacy@pccw.com](mailto:privacy@pccw.com)
-
-Hong Kong
-
-For the purpose sending SMS verification necessary for performance of contract
-
-Mobile number
-
-Transmitted from time to time
-
-Until such time as user instructs WeChat to delete account or has not logged in for 180 days. Accounts deleted within 60 days of account deletion request.
-
-Hook Mobile [www.hookmobile.com](http://www.hookmobile.com)
-
-USA
-
-For the purpose sending SMS verification necessary for performance of contract
-
-Mobile number
-
-Transmitted from time to time
-
-Until such time as user instructs WeChat to delete account or has not logged in for 180 days. Accounts deleted within 60 days of account deletion request.
-
-Adyen [dpo@adyen.com](mailto:dpo@adyen.com)
-
-Netherlands
-
-For registration and creating WeChat account in accordance with the user’s request
-
-For providing international credit card verification services
-
-Hashed credit card number
-
-Transmitted from time to time
-
-Facebook (Facebook Connect) [https://www.facebook.com/help/contact/861937627253138](https://www.facebook.com/help/contact/861937627253138)
-
-Canada, Hong Kong SAR, Singapore, PRC
-
-To allow users to register their accounts via their Facebook account
-
-Technical APIs Facebook Connect OpenID Facebook Connect Token Email Address
-
-Transmitted from time to time
-
-For a period of time no longer than 5 years unless retained out of legitimate interests for fraud prevention and account security.
-
-LinkedIn [https://www.linkedin.com/help/linkedin/ask/TSO-DPO](https://www.linkedin.com/help/linkedin/ask/TSO-DPO)
-
-Canada, Hong Kong SAR, Singapore, PRC
-
-To allow users to link their LinkedIn accounts to WeChat accounts
-
-LinkedIn Open APIs
-
-Transmitted from time to time
-
-Tenpay Payment Technology Co., Ltd.
-
-Malaysia Hong Kong
-
-For providing verification of payment cards in Malaysia and Hong Kong
-
-Email address Hashed credit card number
-
-Transmitted from time to time
-
-For a period of time no longer than 5 years unless retained out of legitimate interests for fraud prevention and account security.
-
-Tencent International Service Pte.Ltd.
-
-PRC
-
-For allowing users to register their face and to compare to a previously recorded facial recognition to confirm ownership of an account.
-
-Facial recognition data
-
-Transmitted from time to time
-
-For a period of time no longer than 5 years unless retained out of legitimate interests for fraud prevention and account security.
-
-Apple (Sign in with Apple ID) [https://www.apple.com/legal/privacy/contact/](https://www.apple.com/legal/privacy/contact/)
-
-Canada, Hong Kong SAR, Singapore, PRC
-
-For allowing users to unblock their accounts via their Apple ID.
-
-Sign-in with Apple OpenID and Token
-
-Transmitted from time to time
-
-For a period of time no longer than 5 years unless retained out of legitimate interests for fraud prevention and account security.
-
-Tencent International Service Pte.Ltd.
-
-Canada, Hong Kong SAR, Singapore, PRC
-
-For allowing users to register via their QQ account
-
-QQ IDQQ password
-
-Transmitted from time to time
-
-For a period of time no longer than 5 years unless retained out of legitimate interests for fraud prevention and account security.
-
-WeChat International Pte. Ltd. Tencent International Service Pte.
-
-China
-
-For the operation of WeChat Out For general operational service
-
-WeChat ID Date/Time App Store/Google Play OpenID IAP/GP Payment metadata Credits History Call History Invitations data Login request log metadata, communication metadata (but not content of communication)
-
-Transmitted from time to time
-
-3 months
-
-WeChat International Pte. Ltd. Tencent International Service Pte. Ltd. Tenpay Payment Technology Co., Ltd.
-
-Canada, Hong Kong, Singapore, PRC
-
-Function based on user's consent
-
-\- importing contact lists
-
-\- provision of third party products & services (e.g. developer/ operator/ vendor accounts on open Platform or WeChat Pay Platform)
-
-customer service – fulfilling support ticket following user's request
-
-Mobile address book (hashed prior to transfer to make plain text data unavailable to any other person including Tencent) Contract lists (including Friend's WeChat ID, Alias, tag(s) and description as provided by subject)Account admin's name, mobile phone number, email address, ID document. Business name, mailing address, license, commercial bank, account information. Transaction payment data via MIDAS payment SDK WeChat ID, OpenID, mobile phone number, email address, Feedback Content, IP address
-
-From time to time through Tencent's WXG and CDG
-
-Until user revokes data permission, or user account deleted
-
-Operators of Official Accounts and Mini Programs and other online service (including apps) that allows users to use WeChat to log-in (third party developers i.e. partners subject has elected to “follow” and grant access to) _Please see the privacy policy of the specific Official Account or Mini Program._
-
-PRC
-
-For providing access to third party service in accordance with the user’s requests.
-
-User alias Profile Region info Gender OpenID OpenID of friends who have also granted permission to the third-party product or service Profile photo
-
-From time to time
-
-Until user unfollows the third-party developer's app, Official Account, Mini program, etc. or user has deleted their WeChat account.
-
-Tata [https://ashish7a.wufoo.com/forms/tata-communications-legal-compliance/](https://ashish7a.wufoo.com/forms/tata-communications-legal-compliance/)
-
-Canada, Hong Kong, Singapore, PRC
-
-For purposes of placing phone call
-
-Mobile phone number
-
-From time to time
-
-3 months
-
-Glory [info@glorycommunicate.com](mailto:info@glorycommunicate.com)
-
-Canada, Hong Kong, Singapore, PRC
-
-For purposes of placing phone call
-
-Mobile phone number
-
-From time to time
-
-3 months
-
-Google [https://policies.google.com/privacy](https://policies.google.com/privacy)
-
-Canada, Hong Kong, Singapore, PRC
-
-Translation service
-
-Text message
-
-From time to time
-
-3 months
-
-Microsoft [https://privacy.microsoft.com/](https://privacy.microsoft.com/)
-
-Canada, Hong Kong, Singapore, PRC
-
-Translation service
-
-Text message
-
-From time to time
-
-3 months
-
-Youdao [Privacy@service.netease.com](mailto:Privacy@service.netease.com)
-
-PRC
-
-Translation service
-
-Text message
-
-From time to time
-
-3 months
+| **Identity of the recipient and Contact information of Chief Privacy Officer** | **Location of the recipient** | **Purposes of use of personal information by the recipient** | **Items of personal information to be provided** | **Date and method of transfer** | **Period of retention and use of personal information by the recipient** |
+| --- | --- | --- | --- | --- | --- |
+| Twilio Inc. [privacy@twilio.com](mailto:privacy@twilio.com) | USA | For the purpose sending SMS verification necessary for performance of contract | Mobile number | Transmitted from time to time | Until such time as user instructs WeChat to delete account or has not logged in for 180 days. Accounts deleted within 60 days of account deletion request. |
+| Nexmo [privacy@vonage.com](mailto:privacy@vonage.com) | USA | For the purpose sending SMS verification necessary for performance of contract | Mobile number | Transmitted from time to time | Until such time as user instructs WeChat to delete account or has not logged in for 180 days. Accounts deleted within 60 days of account deletion request. |
+| Messagebird [privacy@messagebird.com](mailto:privacy@messagebird.com) | Netherlands | For the purpose sending SMS verification necessary for performance of contract | Mobile number | Transmitted from time to time | Until such time as user instructs WeChat to delete account or has not logged in for 180 days. Accounts deleted within 60 days of account deletion request. |
+| PCCW [privacy@pccw.com](mailto:privacy@pccw.com) | Hong Kong | For the purpose sending SMS verification necessary for performance of contract | Mobile number | Transmitted from time to time | Until such time as user instructs WeChat to delete account or has not logged in for 180 days. Accounts deleted within 60 days of account deletion request. |
+| Hook Mobile [www.hookmobile.com](http://www.hookmobile.com) | USA | For the purpose sending SMS verification necessary for performance of contract | Mobile number | Transmitted from time to time | Until such time as user instructs WeChat to delete account or has not logged in for 180 days. Accounts deleted within 60 days of account deletion request. |
+| Adyen [dpo@adyen.com](mailto:dpo@adyen.com) | Netherlands | For registration and creating WeChat account in accordance with the user’s request | For providing international credit card verification services | Hashed credit card number | Transmitted from time to time |
+| Facebook (Facebook Connect) [https://www.facebook.com/help/contact/861937627253138](https://www.facebook.com/help/contact/861937627253138) | Canada, Hong Kong SAR, Singapore, PRC | To allow users to register their accounts via their Facebook account | Technical APIs Facebook Connect OpenID Facebook Connect Token Email Address | Transmitted from time to time | For a period of time no longer than 5 years unless retained out of legitimate interests for fraud prevention and account security. |
+| LinkedIn [https://www.linkedin.com/help/linkedin/ask/TSO-DPO](https://www.linkedin.com/help/linkedin/ask/TSO-DPO) | Canada, Hong Kong SAR, Singapore, PRC | To allow users to link their LinkedIn accounts to WeChat accounts | LinkedIn Open APIs | Transmitted from time to time |     |
+| Tenpay Payment Technology Co., Ltd. | Malaysia Hong Kong | For providing verification of payment cards in Malaysia and Hong Kong | Email address Hashed credit card number | Transmitted from time to time | For a period of time no longer than 5 years unless retained out of legitimate interests for fraud prevention and account security. |
+| Tencent International Service Pte.Ltd. | PRC | For allowing users to register their face and to compare to a previously recorded facial recognition to confirm ownership of an account. | Facial recognition data | Transmitted from time to time | For a period of time no longer than 5 years unless retained out of legitimate interests for fraud prevention and account security. |
+| Apple (Sign in with Apple ID) [https://www.apple.com/legal/privacy/contact/](https://www.apple.com/legal/privacy/contact/) | Canada, Hong Kong SAR, Singapore, PRC | For allowing users to unblock their accounts via their Apple ID. | Sign-in with Apple OpenID and Token | Transmitted from time to time | For a period of time no longer than 5 years unless retained out of legitimate interests for fraud prevention and account security. |
+| Tencent International Service Pte.Ltd. | Canada, Hong Kong SAR, Singapore, PRC | For allowing users to register via their QQ account | QQ IDQQ password | Transmitted from time to time | For a period of time no longer than 5 years unless retained out of legitimate interests for fraud prevention and account security. |
+| WeChat International Pte. Ltd. Tencent International Service Pte. | China | For the operation of WeChat Out For general operational service | WeChat ID Date/Time App Store/Google Play OpenID IAP/GP Payment metadata Credits History Call History Invitations data Login request log metadata, communication metadata (but not content of communication) | Transmitted from time to time | 3 months |
+| WeChat International Pte. Ltd. Tencent International Service Pte. Ltd. Tenpay Payment Technology Co., Ltd. | Canada, Hong Kong, Singapore, PRC | Function based on user's consent |     |     |     |
+| \- importing contact lists |     |     |     |     |     |
+| \- provision of third party products & services (e.g. developer/ operator/ vendor accounts on open Platform or WeChat Pay Platform) |     |     |     |     |     |
+| customer service – fulfilling support ticket following user's request | Mobile address book (hashed prior to transfer to make plain text data unavailable to any other person including Tencent) Contract lists (including Friend's WeChat ID, Alias, tag(s) and description as provided by subject)Account admin's name, mobile phone number, email address, ID document. Business name, mailing address, license, commercial bank, account information. Transaction payment data via MIDAS payment SDK WeChat ID, OpenID, mobile phone number, email address, Feedback Content, IP address | From time to time through Tencent's WXG and CDG | Until user revokes data permission, or user account deleted |     |     |
+| Operators of Official Accounts and Mini Programs and other online service (including apps) that allows users to use WeChat to log-in (third party developers i.e. partners subject has elected to “follow” and grant access to) _Please see the privacy policy of the specific Official Account or Mini Program._ | PRC | For providing access to third party service in accordance with the user’s requests. | User alias Profile Region info Gender OpenID OpenID of friends who have also granted permission to the third-party product or service Profile photo | From time to time | Until user unfollows the third-party developer's app, Official Account, Mini program, etc. or user has deleted their WeChat account. |
+| Tata [https://ashish7a.wufoo.com/forms/tata-communications-legal-compliance/](https://ashish7a.wufoo.com/forms/tata-communications-legal-compliance/) | Canada, Hong Kong, Singapore, PRC | For purposes of placing phone call | Mobile phone number | From time to time | 3 months |
+| Glory [info@glorycommunicate.com](mailto:info@glorycommunicate.com) | Canada, Hong Kong, Singapore, PRC | For purposes of placing phone call | Mobile phone number | From time to time | 3 months |
+| Google [https://policies.google.com/privacy](https://policies.google.com/privacy) | Canada, Hong Kong, Singapore, PRC | Translation service | Text message | From time to time | 3 months |
+| Microsoft [https://privacy.microsoft.com/](https://privacy.microsoft.com/) | Canada, Hong Kong, Singapore, PRC | Translation service | Text message | From time to time | 3 months |
+| Youdao [Privacy@service.netease.com](mailto:Privacy@service.netease.com) | PRC | Translation service | Text message | From time to time | 3 months |
 
 The mandatory retention periods for personal information required by law in Korea is as follows:
 
-**Items**
-
-**Relevant Statute**
-
-**Retention Period**
-
-Records related to entering into and withdrawing from a contract
-
-Act on the Consumer Protection in Electronic Commerce
-
-5 years
-
-Records related to payment and other supplies of money
-
-5 years
-
-Records related to consumer complaints and dispute settlement
-
-3 years
-
-Records related to labelling/advertisement
-
-6 months
-
-Service visit log
-
-Protection of Communications Secrets Act
-
-3 months
+| **Items** | **Relevant Statute** | **Retention Period** |
+| --- | --- | --- |
+| Records related to entering into and withdrawing from a contract | Act on the Consumer Protection in Electronic Commerce | 5 years |
+| Records related to payment and other supplies of money | 5 years |     |
+| Records related to consumer complaints and dispute settlement | 3 years |     |
+| Records related to labelling/advertisement | 6 months |     |
+| Service visit log | Protection of Communications Secrets Act | 3 months |
 
 **Destruction of Personal Information**
 
