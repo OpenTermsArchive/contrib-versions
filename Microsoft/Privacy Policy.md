@@ -1,4 +1,4 @@
-Microsoft Privacy StatementLast Updated: June 2020 What's new? Expand All Collapse AllPrint
+Microsoft Privacy StatementLast Updated: July 2020 What's new? Expand All Collapse AllPrint
 
 Your privacy is important to us. This privacy statement explains the personal data Microsoft processes, how Microsoft processes it, and for what purposes.
 
@@ -8,9 +8,9 @@ Please read the product-specific details in this privacy statement, which provid
 
 The most recent version of this privacy statement can be found at aka.ms/privacy.
 
-Personal data we collectHow we use personal dataReasons we share personal dataHow to access and control your personal dataCookies and similar technologiesProducts provided by your organization—notice to end usersMicrosoft accountOther important privacy information Security of personal dataWhere we store and process personal dataOur retention of personal dataCalifornia Consumer Privacy ActAdvertisingCollection of data from childrenPreview or free-of-charge releasesChanges to this privacy statementHow to contact usProduct-specific details:Enterprise and developer products Enterprise online servicesEnterprise and developer software and appliancesProductivity and communications products Microsoft TeamsOfficeOneDriveOutlookSkypeLinkedInSearch, Microsoft Edge, and artificial intelligence BingCortanaMicrosoft EdgeMicrosoft TranslatorSwiftKeyWindows ActivationActivity historyAdvertising IDDiagnosticsFeedback HubLocation services, motion sensing, and recordingSecurity and safety featuresSpeech, Voice Activation, Inking, and TypingSync settingsUpdate ServicesWeb browsers—Microsoft Edge Legacy and Internet ExplorerWindows appsWindows Media PlayerWindows HelloWindows SearchYour PhoneEntertainment and related services Xbox and Xbox LiveMicrosoft StoreMSNMixerGroove Music and Movies &. TVSilverlightWindows Mixed RealityCookies
+Personal data we collectHow we use personal dataReasons we share personal dataHow to access and control your personal dataCookies and similar technologiesProducts provided by your organization—notice to end usersMicrosoft accountOther important privacy information Security of personal dataWhere we store and process personal dataOur retention of personal dataCalifornia Consumer Privacy ActAdvertisingCollection of data from childrenPreview or free-of-charge releasesChanges to this privacy statementHow to contact usProduct-specific details:Enterprise and developer products Enterprise online servicesEnterprise and developer software and appliancesProductivity and communications products Microsoft 365Microsoft TeamsOneDriveOutlookSkypeLinkedInSearch, Microsoft Edge, and artificial intelligence BingCortanaMicrosoft EdgeMicrosoft TranslatorSwiftKeyWindows ActivationActivity historyAdvertising IDDiagnosticsFeedback HubLocation services, motion sensing, and recordingSecurity and safety featuresSpeech, Voice Activation, Inking, and TypingSync settingsUpdate ServicesWeb browsers—Microsoft Edge Legacy and Internet ExplorerWindows appsWindows Media PlayerWindows HelloWindows SearchYour PhoneEntertainment and related services Xbox and Xbox LiveMicrosoft StoreMSNMixerGroove Music and Movies &. TVSilverlightWindows Mixed RealityCookies
 
-Most Microsoft sites use cookies, small text files placed on your device which web servers in the domain that placed the cookie can retrieve later. We use cookies to store your preferences and settings, help with sign-in, provide targeted ads, and analyze site operations. For more information, see the Cookies and similar technologies section of this privacy statement.
+Most Microsoft sites use cookies, small text files placed on your device which web servers utilize in the domain that placed the cookie can retrieve later. We use cookies to store your preferences and settings, help with sign-in, provide targeted ads, and analyze site operations. For more information, see the Cookies and similar technologies section of this privacy statement.
 
 EU-U.S. and Swiss-U.S. Privacy Shield
 
@@ -28,7 +28,7 @@ If you represent an organization, such as a business or school, that utilizes En
 
 You have choices when it comes to the technology you use and the data you share. When we ask you to provide personal data, you can decline. Many of our products require some personal data to provide you with a service. If you choose not to provide data required to provide you with a product or feature, you cannot use that product or feature. Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract. or if this relates to an existing product you’re using, we may have to suspend or cancel it. We will notify you if this is the case at the time. Where providing the data is optional, and you choose not to share personal data, features like personalization that use such data will not work for you.
 
-Microsoft collects data from you, through our interactions with you and through our products for a variety of purposes described below, including to operate effectively and provide you with the best experiences with our products. You provide some of this data directly, such as when you create a Microsoft account, administer your organization’s licensing account, submit a search query to Bing, register for a Microsoft event, speak a voice command to Cortana, upload a document to OneDrive, purchase an MSDN subscription, sign up for Office 365, or contact us for support. We get some of it by collecting data about your interactions, use, and experience with our products and communications.
+Microsoft collects data from you, through our interactions with you and through our products for a variety of purposes described below, including to operate effectively and provide you with the best experiences with our products. You provide some of this data directly, such as when you create a Microsoft account, administer your organization’s licensing account, submit a search query to Bing, register for a Microsoft event, speak a voice command to Cortana, upload a document to OneDrive, sign up for Microsoft 365, or contact us for support. We get some of it by collecting data about your interactions, use, and experience with our products and communications.
 
 We rely on a variety of legal reasons and permissions (sometimes called “legal bases”) to process data, including with your consent, a balancing of legitimate interests, necessity to enter into and perform contracts, and compliance with legal obligations, for a variety of purposes described below.
 
@@ -274,7 +274,7 @@ Some of the cookies we commonly use are listed below. This list is not exhaustiv
 *   **NAP.** Contains an encrypted version of your country, postal code, age, gender, language and occupation, if known, based on your Microsoft account profile.
 *   **MH.** Appears on co-branded sites where Microsoft is partnering with an advertiser. This cookie identifies the advertiser, so the right ad is selected.
 *   **childinfo, kcdob, kcrelid, kcru, pcfm.** Contains information that Microsoft account uses within its pages in relation to child accounts.
-*   **MR.** Used to collect information for analytics purposes.
+*   **MR.** This cookie is used by Microsoft to reset or refresh the MUID cookie.
 *   **x-ms-gateway-slice.** Identifies a gateway for load balancing.
 *   **TOptOut.** Records your decision not to receive interest-based advertising delivered by Microsoft.
 
@@ -355,7 +355,7 @@ With a Microsoft account, you can sign into Microsoft products, as well as those
 
 **Work or school accounts**. The data associated with a work or school account, and how it will be used, is generally similar to the use and collection of data associated with a personal Microsoft account.
 
-If your employer or school uses Azure Active Directory (AAD) to manage the account it provides you, you can use your work or school account to sign in to Microsoft products, such as Office 365, and third-party products provided to you by your organization. If required by your organization, you will also be asked to provide a phone number or an alternative email address for additional security verification. And, if allowed by your organization, you may also use your work or school account to sign in to Microsoft or third-party products that you acquire for yourself.
+If your employer or school uses Azure Active Directory (AAD) to manage the account it provides you, you can use your work or school account to sign in to Microsoft products, such as Microsoft 365 and Office 365, and third-party products provided to you by your organization. If required by your organization, you will also be asked to provide a phone number or an alternative email address for additional security verification. And, if allowed by your organization, you may also use your work or school account to sign in to Microsoft or third-party products that you acquire for yourself.
 
 If you sign in to Microsoft products with a work or school account, note:
 
@@ -529,7 +529,7 @@ Top of page Product-specific details:Enterprise and developer productsEnterprise
 
 Enterprise and Developer Products are Microsoft products and related software offered to and designed primarily for use by organizations and developers. They include:
 
-*   Cloud services, referred to as Online Services in the Microsoft Online Services Terms (OST), such as Office 365, Microsoft Azure, Microsoft Dynamics365, and Microsoft Intune for which an organization (our customer) contracts with Microsoft for the services (“Enterprise Online Services”).
+*   Cloud services, referred to as Online Services in the Microsoft Online Services Terms (OST), such as Microsoft 365 and Office 365, Microsoft Azure, Microsoft Dynamics365, and Microsoft Intune for which an organization (our customer) contracts with Microsoft for the services (“Enterprise Online Services”).
 *   Other enterprise and developer cloud-based services, such as PlayFab Services and tools such as Cortana Skills Kit.
 *   Server, developer, and hybrid cloud platform products, such as Windows Server, SQL Server, Visual Studio, System Center, Azure Stack and open source software like Bot Framework solutions (“Enterprise and Developer Software”).
 *   Appliances and hardware used for storage infrastructure, such as StorSimple (“Enterprise Appliances”).
@@ -595,7 +595,59 @@ Top of page Productivity and communications productsProductivity and communicati
 
 Productivity and communications products are applications, software, and services you can use to create, store, and share documents, as well as communicate with others.
 
-Learn moreTop of page Microsoft TeamsMicrosoft Teams
+Learn moreTop of page Microsoft 365Microsoft 365
+
+Microsoft 365, previous versions called Office 365, is a collection of productivity services and Office applications including Word, Excel, PowerPoint, and Outlook, among others. For more details about Outlook, see the Outlook section of this privacy statement. Microsoft 365 is a service that is comprised of client software applications and connected online services that span many platforms and have numerous interdependent experiences. Various Microsoft 365 services enable you to use your file content for designs and recommendations, collaborate with others within your documents, and provide you functionality from other Microsoft products, such as Bing and Cortana, and third-party connected products. If you work in an organization, your administrator may turn off or disable these connected services. You can access the privacy controls within your Office apps by selecting **File** >. **Account** >. **Account Privacy**. See Account Privacy Settings for more information.
+
+**Office Roaming Service**. The Office Roaming Service helps keep your Microsoft 365 settings up to date across your devices running Microsoft 365. When you sign in to Microsoft 365 with your Microsoft account or an account issued by your organization, the Office Client Policy Service is turned on and syncs some of your customized Microsoft 365 settings to Microsoft servers (such as a list of most recently used documents and the last location viewed within a document). When you sign in to Microsoft 365 on another device with the same account, the Office Roaming Service downloads your settings from Microsoft servers and applies them to the additional device. The Office Roaming Service also applies some of your customized Microsoft 365 settings when you sign in to Office.com. When you sign out of Microsoft 365, the Office Roaming Service removes your Microsoft 365 settings from your device. Any changes you make to your customized Microsoft 365 settings are sent to Microsoft servers.
+
+**Microsoft Updates**. Microsoft uses services such as Click-to-Run or Microsoft AutoUpdate to provide you with security and other important updates.
+
+**Click-to-Run Update Service**. The Click-to-Run Update Service allows you to install certain Microsoft 365 products over the internet. The Click-to-Run Update Service also automatically detects online updates to Click-to-Run-enabled products on your device and downloads and installs them automatically.
+
+**Translator**. Translator used in Office apps is designed as a no-trace connected experience. With no trace, no portion of your translation request that gets sent to Microsoft Translator will be logged, your submitted text will not be used to improve the quality of the Microsoft Translator service, and there will not be any record of any portion of your data retained by Microsoft.
+
+**Diagnostic Data**. Diagnostic data is used to (i) keep your Office apps secure and up to date. (ii) detect, diagnose, and remediate problems. and (iii) make product improvements. This data does not include a user's name or email address, the content of the user's files, or information about apps unrelated to Office. Users have a choice between two different levels of diagnostic data collection, Required and Optional.
+
+*   **Required**. The minimum data necessary to help keep Office apps secure, up to date, and performing as expected on the device it's installed on.
+*   **Optional**. Additional data that helps us make product improvements and provides enhanced information to help us detect, diagnose, and remediate issues.
+
+See Diagnostic Data in Office for more information.
+
+**Connected Experiences**. Microsoft 365 continues to provide more experiences in client applications that are connected to and backed by cloud-based services. In order to ensure that all these connected experiences will be reliable, up to date, remain secure, and perform as expected, required service data may be collected whenever you use a connected experience.
+
+Microsoft 365 consists of client software applications and connected experiences designed to enable you to create, communicate, and collaborate more effectively. Working with others on a document stored on OneDrive for Business or translating the contents of a Word document into a different language are examples of connected experiences. There are two types of connected experiences.
+
+*   **Experiences that analyze your content**. Experiences that use your Office content to provide you with design recommendations, editing suggestions, data insights, and similar features. For example, PowerPoint Designer or Editor in Word.
+*   **Experiences that download online content**. Experiences that allow you to search and download online content including templates, images, 3D models, videos, and reference materials to enhance your documents. For example, templates or PowerPoint QuickStarter.
+
+You can access the privacy controls within your Office apps by selecting **File** >. **Account** >. **Account Privacy**. These privacy settings allow you to configure your connected experiences. For example, you can choose to enable connected experiences that download online content, but not connected experiences that analyze content. Turning off connected experiences will also turn off additional experiences, such as document co-authoring and online file storage. But even if you use this privacy setting to turn off connected experiences, certain functionality will remain available, such as syncing your mailbox in Outlook, as well as essential services described below.
+
+If you choose to disable certain types of connected experiences, either the ribbon or menu command for those connected experiences will be grayed out or you will get an error message when you try to use those connected experiences.
+
+There are a set of services that are essential to how Microsoft 365 functions and cannot be disabled. For example, the licensing service that confirms that you are properly licensed to use Microsoft 365 is essential. Required service data about these services is collected and sent to Microsoft, regardless of any other settings that you have configured. See Essential Services for more information.
+
+**Required service data for connected experiences**
+
+Required service data is data that enables us to deliver cloud-based connected experiences and help make these experiences secure and perform as expected. There are three types of information that are considered as required service data.
+
+*   **Customer Content**, which is content you create using Office apps, such as text typed in a Word document.
+*   **Functional Data**, which includes information needed by a connected experience to perform its task, such as configuration information about the app.
+*   **Service Diagnostic Data**, which is the data required to keep the service secure, up to date, and performing as expected. Because this data is strictly related to the connected experience, it is separate from Required or Optional diagnostic data levels.
+
+To help you understand required service data, the following is an example scenario using PowerPoint Designer, which is a connected experience you can use when creating slides for a presentation. PowerPoint Designer helps you improve your slides by automatically generating design ideas to choose from. While you're putting content on a slide, Designer works in the background to match that content to professionally designed layouts.
+
+The required service data that is sent to Microsoft to enable this connected experience for you could include the following:
+
+*   Customer content, such as the text or images you added to your slide.
+*   Functional data, such as which slide you are working on and its layout.
+*   Service diagnostic data, such as events that tell us if the design idea was correctly applied to your slide and that the service calls were performing correctly.
+
+If you choose to disable the category of connected experiences that includes PowerPoint Designer, the feature will be turned off and none of this required service data is sent to us.
+
+See Connected Experiences in Office for more information.
+
+Top of page Microsoft TeamsMicrosoft Teams
 
 This section applies to the consumer offering of Teams. if you are using Teams with a school or work account, see the Enterprise and developer products of this privacy statement.
 
@@ -613,63 +665,9 @@ As part of providing these features, Microsoft collects data about the usage of 
 
 If you don’t want to use the notification services for incoming Teams calls and messages, turn it off in the settings found on your device.
 
-Top of page OfficeOffice
-
-Office is a collection of productivity services and applications including Word, Excel, PowerPoint, and Outlook, among others. For more details about Outlook, see the Outlook section of this privacy statement. Office is a service that is comprised of client software applications and connected online services that span many platforms and have numerous interdependent experiences. Various Office services enable you to use your file content for designs and recommendations, collaborate with others within your documents, and provide you functionality from other Microsoft products, such as Bing and Cortana, and third-party connected products. If you work in an organization, your administrator may turn off or disable these connected services. Prior to Office 365 version 1904, you can change your privacy settings in the Privacy Options of the Microsoft Office Trust Center. For more information, see View my options and settings in the Microsoft Office Trust Center. Starting with Version 1904 of Office 365, you can access new, updated, and improved privacy controls by selecting **File** >. **Account** >. **Account Privacy**. See Account Privacy Settings for more information.
-
-**Office Roaming Service**. The Office Roaming Service helps keep your Office settings up to date across your devices running Office. When you sign in to Office with your Microsoft account or an account issued by your organization, the Office Client Policy Service is turned on and syncs some of your customized Office settings to Microsoft servers (such as a list of most recently used documents and the last location viewed within a document). When you sign in to Office on another device with the same account, the Office Roaming Service downloads your settings from Microsoft servers and applies them to the additional device. The Office Roaming Service also applies some of your customized Office settings when you sign in to Office.com. When you sign out of Office, the Office Roaming Service removes your Office settings from your device. Any changes you made to your customized Office settings are sent to Microsoft servers.
-
-**Microsoft Updates**. Office uses either Microsoft Update or Click-to-Run services to provide you with security and other important updates. See the Update Services section of this privacy statement for more information about Microsoft Update.
-
-**Click-to-Run Update Service**. The Click-to-Run Update Service allows you to install certain Microsoft Office products over the internet. The Click-to-Run Update Service also automatically detects online updates to Click-to-Run-enabled products on your device and downloads and installs them automatically.
-
-**Office Translator**. Office Translator is designed as a no-trace connected experience. With no trace, no portion of your translation request that Office sends to Microsoft Translator will be logged, your submitted text will not be used to improve the quality of the Microsoft Translator service, and there will not be any record of any portion of your data retained by Microsoft.
-
-**Diagnostic Data**. Diagnostic data is used to (i) keep Office secure and up to date. (ii) detect, diagnose, and remediate problems. and (iii) make product improvements. This data does not include a user's name or email address, the content of the user's files, or information about apps unrelated to Office. Users have a choice between two different levels of diagnostic data collection, Required and Optional.
-
-*   **Required**. The minimum data necessary to help keep Office secure, up to date, and performing as expected on the device it's installed on.
-*   **Optional**. Additional data that helps us make product improvements and provides enhanced information to help us detect, diagnose, and remediate issues.
-
-See Diagnostic Data in Office for more information.
-
-**Connected Experiences**. Office continues to provide more experiences in client applications that are connected to and backed by cloud-based services. In order to ensure that all these connected experiences will be reliable, up to date, remain secure, and perform as expected, required service data may be collected whenever you use a connected experience.
-
-Office consists of client software applications and connected experiences designed to enable you to create, communicate, and collaborate more effectively. Working with others on a document stored on OneDrive for Business or translating the contents of a Word document into a different language are examples of connected experiences. There are two types of connected experiences.
-
-*   **Experiences that analyze your content**. Experiences that use your Office content to provide you with design recommendations, editing suggestions, data insights, and similar features. For example, PowerPoint Designer or Editor in Word.
-*   **Experiences that download online content**. Experiences that allow you to search and download online content including templates, images, 3D models, videos, and reference materials to enhance your documents. For example, Office templates or PowerPoint QuickStarter.
-
-Prior to Office 365 version 1904, you can change your privacy settings in the Privacy Options of the Microsoft Office Trust Center.
-
-Starting with Version 1904 of Office 365, you can access new, updated, and improved privacy controls by selecting **File** >. **Account** >. **Account Privacy**. These privacy settings allow you to configure your connected experiences. For example, you can choose to enable connected experiences that download online content, but not connected experiences that analyze content. Turning off connected experiences will also turn off additional experiences, such as document co-authoring and online file storage. But even if you use this privacy setting to turn off connected experiences, certain Office functionality will remain available, such as syncing your mailbox in Outlook, as well as essential services described below.
-
-If you choose to disable certain types of connected experiences, either the ribbon or menu command for those connected experiences will be grayed out or you will get an error message when you try to use those connected experiences.
-
-There are a set of services that are essential to how Office functions and cannot be disabled. For example, the licensing service that confirms that you are properly licensed to use Office is essential. Required service data about these services is collected and sent to Microsoft, regardless of any other settings that you have configured. See Essential Services for more information.
-
-**Required service data for connected experiences**
-
-Required service data is data that enables us to deliver cloud-based connected experiences and help make these experiences secure and perform as expected. There are three types of information that are considered as required service data.
-
-*   **Customer Content**, which is content you create using Office, such as text typed in a Word document.
-*   **Functional Data**, which includes information needed by a connected experience to perform its task, such as configuration information about the app.
-*   **Service Diagnostic Data**, which is the data required to keep the service secure, up to date, and performing as expected. Because this data is strictly related to the connected experience, it is separate from Required or Optional diagnostic data levels.
-
-To help you understand required service data, the following is an example scenario using PowerPoint Designer, which is a connected experience you can use when creating slides for a presentation. PowerPoint Designer helps you improve your slides by automatically generating design ideas to choose from. While you're putting content on a slide, Designer works in the background to match that content to professionally designed layouts.
-
-The required service data that is sent to Microsoft to enable this connected experience for you could include the following:
-
-*   Customer content, such as the text or images you added to your slide.
-*   Functional data, such as which slide you are working on and its layout.
-*   Service diagnostic data, such as events that tell us if the design idea was correctly applied to your slide and that the service calls were performing correctly.
-
-If you choose to disable the category of connected experiences that includes PowerPoint Designer, the feature will be turned off and none of this required service data is sent to us.
-
-See Connected Experiences in Office for more information
-
 Top of page OneDriveOneDrive
 
-OneDrive lets you store and access your files on virtually any device. You can also share and collaborate on your files with others. Some versions of the OneDrive application enable you to access both your personal OneDrive by signing in with your personal Microsoft account and your OneDrive for Business by signing in with your work or school Microsoft account as part of your organization's use of Office 365.
+OneDrive lets you store and access your files on virtually any device. You can also share and collaborate on your files with others. Some versions of the OneDrive application enable you to access both your personal OneDrive by signing in with your personal Microsoft account and your OneDrive for Business by signing in with your work or school Microsoft account as part of your organization's use of Microsoft 365 or Office 365.
 
 When you use OneDrive, we collect data about your usage of the service, as well as the content you store, to provide, improve, and protect the services. Examples include indexing the contents of your OneDrive documents so that you can search for them later and using location information to enable you to search for photos based on where the photo was taken. We also collect device information so we can deliver personalized experiences, such as enabling you to sync content across devices and roam customized settings.
 
@@ -679,7 +677,7 @@ When you share content to a social network like Facebook from a device that you 
 
 When you share your OneDrive content with your friends via a link, an email with the link is sent to those friends. The link contains an authorization code that allows anyone with the link to access your content. If one of your friends sends the link to other people, they will also be able to access your content, even if you did not choose to share the content with them. To revoke permissions for your content on OneDrive, sign in to your account and then select the specific content to manage the permission levels. Revoking permissions for a link effectively deactivates the link. No one will be able to use the link to access the content unless you decide to share the link again.
 
-Files managed with OneDrive for Business are stored separately from files stored with your personal OneDrive. OneDrive for Business collects and transmits personal data for authentication, such as your email address and password, which will be transmitted to Microsoft and/or to the provider of your Office 365 service.
+Files managed with OneDrive for Business are stored separately from files stored with your personal OneDrive. OneDrive for Business collects and transmits personal data for authentication, such as your email address and password, which will be transmitted to Microsoft and/or to the provider of your Microsoft 365 or Office 365 service.
 
 Top of page OutlookOutlook
 
@@ -697,7 +695,7 @@ When you add an account to Outlook, your mail, calendar items, files, contacts, 
 
 If you add an account provided by an organization (such as your employer or school), the owner of the organizational domain can implement policies and controls (for example, requiring multi-factor authentication or the ability to remotely wipe data from your device) that can affect your use of Outlook.
 
-To learn more about the data the Outlook applications collect and process, please see the Office section of this privacy statement.
+To learn more about the data the Outlook applications collect and process, please see the Microsoft 365 section of this privacy statement.
 
 Top of page SkypeSkype
 
@@ -733,7 +731,7 @@ Search and artificial intelligence products connect you with information and int
 
 Learn moreTop of page BingBing
 
-Bing services include search and mapping services, as well as the Bing Toolbar and Bing Desktop apps. Bing services collect and process data in many forms, including text that has been inked or typed, speech data, and images. Bing services are also included within other Microsoft services, such as MSN Apps, Office, Cortana, and certain features in Windows (which we refer to as Bing-powered experiences).
+Bing services include search and mapping services, as well as the Bing Toolbar and Bing Desktop apps. Bing services collect and process data in many forms, including text that has been inked or typed, speech data, and images. Bing services are also included within other Microsoft services, such as Microsoft 365, Cortana, and certain features in Windows (which we refer to as Bing-powered experiences).
 
 When you conduct a search, or use a feature of a Bing-powered experience that involves conducting a search or entering a command on your behalf, Microsoft will collect the searches or commands you provide (which may be in the form of text, voice data, or an image), along with your IP address, location, the unique identifiers contained in our cookies or similar technologies, the time and date of your search, and your browser configuration. For example, if you use Bing voice-enabled services, your voice input and performance data associated with the speech functionality will be sent to Microsoft. And, if you use Bing image-enabled services, the image you provide will be sent to Microsoft. When you use Bing-powered experiences, such as Ask Cortana or Bing Lookup to search a particular word or phrase within a webpage or document, that word or phrase is sent to Bing along with some surrounding content in order to provide contextually relevant search results.
 
@@ -766,7 +764,7 @@ The data Cortana collects is used to provide, improve, personalize, and develop 
 *   Cortana uses information about your interests to recommend features you may enjoy.
 *   Cortana shares information with third parties at your direction to complete a task or transaction you’ve requested, or help you with a skill such as booking a ride share service.
 *   Microsoft uses your voice data to improve speech recognition and user intent understanding to improve Cortana and other Microsoft products.
-*   Cortana provides features that may process your personal and work data from other Microsoft products (e.g., Office) or third-party services. For example, when scheduling a meeting, Cortana can help you identify conflicts on both your personal and work calendars.
+*   Cortana provides features that may process your personal and work data from other Microsoft products (e.g., Microsoft 365) or third-party services. For example, when scheduling a meeting, Cortana can help you identify conflicts on both your personal and work calendars.
 
 On Windows devices, if you choose not to sign in to Cortana, you can still chat with Cortana and use Cortana to search, using either your voice, inking, or typing.
 
@@ -792,7 +790,7 @@ When you sign in to Cortana, in addition to the information described above, we 
 
 **Connected services and skills**. To enable greater personalization and productivity, you can give Cortana permission to (i) collect data from other Microsoft and third-party services, and (ii) provide your information to those services. When enabled, Cortana provides your requests and responses to those services or third parties to enable them to provide you their information or services. With your permission, Cortana can send additional information (e.g., your location). Information you share with a third party is governed by the third party’s privacy policy and terms. Cortana also uses data about your use of connected services and skills to improve and develop Cortana and other Microsoft products. For example, we use this data, including your query sent to the third party, to improve speech recognition and user-intent understanding within Microsoft products. Below are examples of how your data is processed when you use connected services and skills:
 
-*   If you choose to connect Cortana to your work or school account, Cortana can access data stored in Office 365 to help you stay up to date, manage your email and calendar, and get insights about your meetings and relationships.
+*   If you choose to connect Cortana to your work or school account, Cortana can access data stored in Microsoft 365 to help you stay up to date, manage your email and calendar, and get insights about your meetings and relationships.
 *   Choosing to connect Cortana to LinkedIn allows Microsoft to access your LinkedIn data so Cortana can give you more personalized information and recommendations. It also enables LinkedIn to access the name, email address, job title, and company name of people you are meeting with to retrieve relevant information about those contacts.
 *   Cortana allows you to connect to third-party services to do more and get additional experiences from the third-party service. Cortana may also personalize your experiences based on your use of third-party skills. With your permission, **Cortana can send information about you along with your request to third-parties that ask for it**. For instance, when you ask Cortana to request you a ride, the ride provider will ask for your current location. Third-party skills provide their own separate terms and privacy statements. Please review those carefully before allowing Cortana to send information to them.
 
@@ -807,14 +805,14 @@ Data about how you use your browser, such as your browsing history, web form dat
 Microsoft Edge allows you to capture and save content on your device, such as:
 
 *   **Settings and More**. Allows you to manage your favorites, downloads, history, extensions, and collections.
-*   ****Collections**** . Allows you to collect text, images, videos, and other content in a note page in your browser. When you drag content into your collection, it is cached on your device and can be deleted through your collection.
-*   **Website Pin to Taskbar:** which allows you to pin your favorite websites to the Windows taskbar. Websites will be able to see which of their webpages you have pinned, so they can provide you a notification badge letting you know there is something new for you to check out on their websites.
+*   **Collections**. Allows you to collect text, images, videos, and other content in a note page in your browser. When you drag content into your collection, it is cached on your device and can be deleted through your collection.
+*   **Website Pin to Taskbar**: which allows you to pin your favorite websites to the Windows taskbar. Websites will be able to see which of their webpages you have pinned, so they can provide you a notification badge letting you know there is something new for you to check out on their websites.
 
-Microsoft collects data necessary to provide features you request in Microsoft Edge. For example, you may choose to sync browser information saved on your device across other devices when you are signed in with your Microsoft account. You may choose which browser data to sync, including your favorites, extensions and associated data, settings, open tabs, autofill form entries (such as your name, address, and phone number), passwords, payment information, and other data types. If you choose to sync extensions that you acquired from third-party web stores, a copy of those extensions will be downloaded directly from those web stores on your synced device(s). You can disable or configure syncing in the Microsoft Edge settings.
+Microsoft collects data necessary to provide features you request in Microsoft Edge. For example, you may choose to sync browser information saved on your device across other devices when you are signed in with your Microsoft account. You may choose which browser data to sync, including your favorites, extensions and associated data, settings, open tabs, autofill form entries (such as your name, address, and phone number), passwords, payment information, and other data types as they become available. If you choose to sync extensions that you acquired from third-party web stores, a copy of those extensions will be downloaded directly from those web stores on your synced device(s). If you have turned on Password Monitor, your saved credentials are hashed, encrypted, and sent to Microsoft’s Password Monitor service to warn you if your credentials were detected as part of a malicious attack or a breach. Microsoft does not retain this data after the check is complete. You can disable or configure syncing in the Microsoft Edge settings.
 
 Microsoft Edge’s **Search and site suggestions** uses your search queries and browsing history to provide you with faster browsing and more relevant search recommendations. Microsoft Edge sends the information you type into the browser address bar to the default search provider configured in the address bar to offer search recommendations as you type each character. You can turn off these features at any time in the browser settings. In order to provide search results, Microsoft Edge sends your search queries, standard device information, and location (if you have location enabled) to your default search provider. If Bing is your default search provider, we use this data as described in the Bing section of this privacy statement.
 
-To improve your web experience, you may choose to share your Microsoft Edge browsing history from your Microsoft account to allow us to personalize advertising, Bing search, Microsoft News and other Microsoft services. For more information about our **advertising privacy policies** see the Advertising section of the privacy statement. If you disable the **See ads that interest you** setting in the Microsoft privacy dashboard, you will continue to receive personalized search and news based on your browsing history if you enabled the **Improve your web experience by allowing Microsoft to use your browsing history from this account for personalizing advertising, search, news and other Microsoft services** setting in Microsoft Edge. You may disable this browser setting at any time to stop receiving personalized web experiences based on your browsing history.
+Microsoft Edge downloads content from Microsoft services to enhance your browsing experiences. for example, when data is downloaded to prerender site content for faster browsing or to provide content required to power features you choose to use, such as providing templates for Collections. You may also choose to share your Microsoft Edge browsing history from your Microsoft account to allow us to personalize advertising, Bing search, Microsoft News and other Microsoft services. For more information about our **advertising privacy policies** see the Advertising section of the privacy statement. If you disable the **See ads that interest you** setting in the Microsoft privacy dashboard, you will continue to receive personalized search and news based on your browsing history if you enabled the **Improve your web experience by allowing Microsoft to use your browsing history from this account for personalizing advertising, search, news and other Microsoft services** setting in Microsoft Edge. You may disable this browser setting at any time to stop receiving personalized web experiences based on your browsing history.
 
 Microsoft Edge collects required diagnostic data to solve problems and to keep Microsoft Edge up to date, secure, and operating properly. Required diagnostic data also helps us improve Microsoft Edge and Windows.
 
@@ -822,11 +820,9 @@ You can choose to send optional diagnostic data about how you use Microsoft Edge
 
 The diagnostic data collected by Microsoft Edge is transmitted to Microsoft and is stored with one or more unique identifiers that help us recognize an individual browser installation on a device and understand the browser's service issues and use patterns.
 
-Learn more about Microsoft Edge
+Learn more about Microsoft Edge, browsing data, and privacy.
 
-**Microsoft Edge on iOS and Android.** Microsoft Edge on iOS and Android devices collects data necessary to provide features you request in Microsoft Edge.
-
-Microsoft also collects required diagnostic data to solve problems and to keep Microsoft Edge up to date, secure, and operating properly. Required diagnostic data also helps us improve Microsoft Edge.
+**Microsoft Edge on iOS and Android**. Microsoft Edge on iOS and Android devices collects data necessary to provide features you request in Microsoft Edge. Microsoft also collects required diagnostic data to solve problems and to keep Microsoft Edge up to date, secure, and operating properly. Required diagnostic data also helps us improve Microsoft Edge.
 
 Additionally, you may share optional diagnostic data about how you use Microsoft Edge and information about websites you visit (browsing history) for personalized experiences on your browser, Windows 10, and other Microsoft products and services. This information also helps us improve Microsoft Edge and other Microsoft products and services. This optional diagnostic data is sent to us when you enable **Share usage data for personalization** or **Share info about websites you visit** in the browser settings.
 
@@ -840,7 +836,7 @@ Microsoft Translator is a machine translation system designed to automatically t
 
 Microsoft Translator (which includes apps for Android, iOS, Windows, Translator Hub, Translator for Bing, and Translator for Microsoft Edge, collectively “Translator”) processes the text, image, and speech data you submit, as well as device and usage data. We use this data to provide Translator, personalize your experiences, and improve our products. Microsoft has implemented business and technical measures designed to help de identify the data you submit to Translator. For example, when we randomly sample text to improve Translator, we delete identifiers and certain text, such as email addresses and some number sequences, detected in the sample that could contain personal data.
 
-For more information on the Cognitive Services Translator Text API, Custom Translator, and Translator Speech API, see the Enterprise and developer products section of this privacy statement. For the Translate feature in Office, see the Productivity and communications products section of this privacy statement.
+For more information on the Cognitive Services Translator Text API, Custom Translator, and Translator Speech API, see the Enterprise and developer products section of this privacy statement. For the Translate feature in Office apps, see the Productivity and communications products section of this privacy statement.
 
 Top of page SwiftKeySwiftKey
 
@@ -866,7 +862,7 @@ When you activate Windows, a specific product key is associated with the device 
 
 Top of page Activity historyActivity history
 
-Activity history helps keep track of the things you do on your device, such as the apps and services you use, the files you open, and the websites you browse. Your activity history is stored locally on your device when using different apps and features such as Microsoft Edge, some Microsoft Store apps, and Office apps. If you've signed in to your device with a Microsoft account and given your permission, Windows sends your activity history to Microsoft. Once your activity history is in the cloud, Microsoft uses that data to enable cross-device experiences, to provide you with the ability to continue those activities on other devices, to provide personalized experiences (such as ordering your activities based on duration of use) and relevant suggestions (such as anticipating what your needs might be based on your activity history), and to help improve Microsoft products.
+Activity history helps keep track of the things you do on your device, such as the apps and services you use, the files you open, and the websites you browse. Your activity history is stored locally on your device when using different apps and features such as Microsoft Edge, some Microsoft Store apps, and Microsoft 365 apps. If you've signed in to your device with a Microsoft account and given your permission, Windows sends your activity history to Microsoft. Once your activity history is in the cloud, Microsoft uses that data to enable cross-device experiences, to provide you with the ability to continue those activities on other devices, to provide personalized experiences (such as ordering your activities based on duration of use) and relevant suggestions (such as anticipating what your needs might be based on your activity history), and to help improve Microsoft products.
 
 Activity history is also created and sent to Microsoft when you use Microsoft apps, such as Microsoft Edge, and Office apps like Word, Excel, and PowerPoint, on mobile devices such as iOS and Android phones and tablets. If you are signed in with your Microsoft account, you can continue activities on your Windows 10 device that you started in Microsoft apps on your Android or iOS device. You can turn settings off or on for sending your activity history to Microsoft and storing activity history locally on your device, and you can also clear your device’s activity history at any time by going to Start >. Settings >. Privacy >. Activity history. Learn more about activity history in Windows 10.
 
@@ -1012,7 +1008,7 @@ You can choose whether to sync your settings, and control what is synced, by goi
 
 Top of page Update ServicesUpdate Services
 
-Update Services for Windows includes Windows Update and Microsoft Update. Windows Update is a service that provides you with software updates for Windows software and other supporting software, such as drivers and firmware supplied by device manufacturers. Microsoft Update is a service that provides you with software updates for other Microsoft software such as Office.
+Update Services for Windows includes Windows Update and Microsoft Update. Windows Update is a service that provides you with software updates for Windows software and other supporting software, such as drivers and firmware supplied by device manufacturers. Microsoft Update is a service that provides you with software updates for other Microsoft software such as Microsoft 365.
 
 Windows Update automatically downloads Windows software updates to your device. You can configure Windows Update to automatically install these updates as they become available (recommended) or have Windows notify you when a restart is required to finish installing updates. Apps available through the Microsoft Store are automatically updated through the Microsoft Store, as described in the Microsoft Store section of this privacy statement.
 
@@ -1175,7 +1171,7 @@ Microsoft Store is an online service, accessible via PC, the Xbox Console and th
 
 *   Apps and content for Windows devices such as phones, PCs, and tablets.
 *   Games, subscriptions and other apps for Xbox consoles and other devices.
-*   Products and apps for Office, SharePoint, Exchange, Access, and Project (2013 versions or later).
+*   Products and apps for Microsoft 365, SharePoint, Exchange, Access, and Project (2013 versions or later).
 
 We collect data about how you access and use Microsoft Store. the products you've viewed, purchased, or installed. the preferences you set for viewing apps in Microsoft Store. and any ratings, reviews, or problem reports you submit. Your Microsoft account is associated with your ratings and reviews. and if you write a review, the name and picture from your Microsoft account will be published with your review.
 
@@ -1251,7 +1247,7 @@ You have choices when it comes to the technology you use and the data you share.
 
 Full text
 
-Microsoft collects data from you, through our interactions with you and through our products for a variety of purposes described below, including to operate effectively and provide you with the best experiences with our products. You provide some of this data directly, such as when you create a Microsoft account, administer your organization’s licensing account, submit a search query to Bing, register for a Microsoft event, speak a voice command to Cortana, upload a document to OneDrive, purchase an MSDN subscription, sign up for Office 365, or contact us for support. We get some of it by collecting data about your interactions, use, and experience with our products and communications.
+Microsoft collects data from you, through our interactions with you and through our products for a variety of purposes described below, including to operate effectively and provide you with the best experiences with our products. You provide some of this data directly, such as when you create a Microsoft account, administer your organization’s licensing account, submit a search query to Bing, register for a Microsoft event, speak a voice command to Cortana, upload a document to OneDrive, sign up for Microsoft 365, or contact us for support. We get some of it by collecting data about your interactions, use, and experience with our products and communications.
 
 We rely on a variety of legal reasons and permissions (sometimes called “legal bases”) to process data, including with your consent, a balancing of legitimate interests, necessity to enter into and perform contracts, and compliance with legal obligations, for a variety of purposes described below.
 
@@ -1505,7 +1501,7 @@ Some of the cookies we commonly use are listed below. This list is not exhaustiv
 *   **NAP.** Contains an encrypted version of your country, postal code, age, gender, language and occupation, if known, based on your Microsoft account profile.
 *   **MH.** Appears on co-branded sites where Microsoft is partnering with an advertiser. This cookie identifies the advertiser, so the right ad is selected.
 *   **childinfo, kcdob, kcrelid, kcru, pcfm.** Contains information that Microsoft account uses within its pages in relation to child accounts.
-*   **MR.** Used to collect information for analytics purposes.
+*   **MR.** This cookie is used by Microsoft to reset or refresh the MUID cookie.
 *   **x-ms-gateway-slice.** Identifies a gateway for load balancing.
 *   **TOptOut.** Records your decision not to receive interest-based advertising delivered by Microsoft.
 
@@ -1588,7 +1584,7 @@ With a Microsoft account, you can sign into Microsoft products, as well as those
 
 **Work or school accounts**. The data associated with a work or school account, and how it will be used, is generally similar to the use and collection of data associated with a personal Microsoft account.
 
-If your employer or school uses Azure Active Directory (AAD) to manage the account it provides you, you can use your work or school account to sign in to Microsoft products, such as Office 365, and third-party products provided to you by your organization. If required by your organization, you will also be asked to provide a phone number or an alternative email address for additional security verification. And, if allowed by your organization, you may also use your work or school account to sign in to Microsoft or third-party products that you acquire for yourself.
+If your employer or school uses Azure Active Directory (AAD) to manage the account it provides you, you can use your work or school account to sign in to Microsoft products, such as Microsoft 365 and Office 365, and third-party products provided to you by your organization. If required by your organization, you will also be asked to provide a phone number or an alternative email address for additional security verification. And, if allowed by your organization, you may also use your work or school account to sign in to Microsoft or third-party products that you acquire for yourself.
 
 If you sign in to Microsoft products with a work or school account, note:
 
@@ -1762,7 +1758,7 @@ Enterprise and developer productsEnterprise and developer productsmainenterprise
 
 Enterprise and Developer Products are Microsoft products and related software offered to and designed primarily for use by organizations and developers. They include:
 
-*   Cloud services, referred to as Online Services in the Microsoft Online Services Terms (OST), such as Office 365, Microsoft Azure, Microsoft Dynamics365, and Microsoft Intune for which an organization (our customer) contracts with Microsoft for the services (“Enterprise Online Services”).
+*   Cloud services, referred to as Online Services in the Microsoft Online Services Terms (OST), such as Microsoft 365 and Office 365, Microsoft Azure, Microsoft Dynamics365, and Microsoft Intune for which an organization (our customer) contracts with Microsoft for the services (“Enterprise Online Services”).
 *   Other enterprise and developer cloud-based services, such as PlayFab Services and tools such as Cortana Skills Kit.
 *   Server, developer, and hybrid cloud platform products, such as Windows Server, SQL Server, Visual Studio, System Center, Azure Stack and open source software like Bot Framework solutions (“Enterprise and Developer Software”).
 *   Appliances and hardware used for storage infrastructure, such as StorSimple (“Enterprise Appliances”).
@@ -1828,6 +1824,58 @@ Productivity and communications productsProductivity and communications products
 
 Productivity and communications products are applications, software, and services you can use to create, store, and share documents, as well as communicate with others.
 
+Microsoft 365Microsoft 365mainofficeservicesmoduleSummary
+
+Microsoft 365, previous versions called Office 365, is a collection of productivity services and Office applications including Word, Excel, PowerPoint, and Outlook, among others. For more details about Outlook, see the Outlook section of this privacy statement. Microsoft 365 is a service that is comprised of client software applications and connected online services that span many platforms and have numerous interdependent experiences. Various Microsoft 365 services enable you to use your file content for designs and recommendations, collaborate with others within your documents, and provide you functionality from other Microsoft products, such as Bing and Cortana, and third-party connected products. If you work in an organization, your administrator may turn off or disable these connected services. You can access the privacy controls within your Office apps by selecting **File** >. **Account** >. **Account Privacy**. See Account Privacy Settings for more information.
+
+**Office Roaming Service**. The Office Roaming Service helps keep your Microsoft 365 settings up to date across your devices running Microsoft 365. When you sign in to Microsoft 365 with your Microsoft account or an account issued by your organization, the Office Client Policy Service is turned on and syncs some of your customized Microsoft 365 settings to Microsoft servers (such as a list of most recently used documents and the last location viewed within a document). When you sign in to Microsoft 365 on another device with the same account, the Office Roaming Service downloads your settings from Microsoft servers and applies them to the additional device. The Office Roaming Service also applies some of your customized Microsoft 365 settings when you sign in to Office.com. When you sign out of Microsoft 365, the Office Roaming Service removes your Microsoft 365 settings from your device. Any changes you make to your customized Microsoft 365 settings are sent to Microsoft servers.
+
+**Microsoft Updates**. Microsoft uses services such as Click-to-Run or Microsoft AutoUpdate to provide you with security and other important updates.
+
+**Click-to-Run Update Service**. The Click-to-Run Update Service allows you to install certain Microsoft 365 products over the internet. The Click-to-Run Update Service also automatically detects online updates to Click-to-Run-enabled products on your device and downloads and installs them automatically.
+
+**Translator**. Translator used in Office apps is designed as a no-trace connected experience. With no trace, no portion of your translation request that gets sent to Microsoft Translator will be logged, your submitted text will not be used to improve the quality of the Microsoft Translator service, and there will not be any record of any portion of your data retained by Microsoft.
+
+**Diagnostic Data**. Diagnostic data is used to (i) keep your Office apps secure and up to date. (ii) detect, diagnose, and remediate problems. and (iii) make product improvements. This data does not include a user's name or email address, the content of the user's files, or information about apps unrelated to Office. Users have a choice between two different levels of diagnostic data collection, Required and Optional.
+
+*   **Required**. The minimum data necessary to help keep Office apps secure, up to date, and performing as expected on the device it's installed on.
+*   **Optional**. Additional data that helps us make product improvements and provides enhanced information to help us detect, diagnose, and remediate issues.
+
+See Diagnostic Data in Office for more information.
+
+**Connected Experiences**. Microsoft 365 continues to provide more experiences in client applications that are connected to and backed by cloud-based services. In order to ensure that all these connected experiences will be reliable, up to date, remain secure, and perform as expected, required service data may be collected whenever you use a connected experience.
+
+Microsoft 365 consists of client software applications and connected experiences designed to enable you to create, communicate, and collaborate more effectively. Working with others on a document stored on OneDrive for Business or translating the contents of a Word document into a different language are examples of connected experiences. There are two types of connected experiences.
+
+*   **Experiences that analyze your content**. Experiences that use your Office content to provide you with design recommendations, editing suggestions, data insights, and similar features. For example, PowerPoint Designer or Editor in Word.
+*   **Experiences that download online content**. Experiences that allow you to search and download online content including templates, images, 3D models, videos, and reference materials to enhance your documents. For example, templates or PowerPoint QuickStarter.
+
+You can access the privacy controls within your Office apps by selecting **File** >. **Account** >. **Account Privacy**. These privacy settings allow you to configure your connected experiences. For example, you can choose to enable connected experiences that download online content, but not connected experiences that analyze content. Turning off connected experiences will also turn off additional experiences, such as document co-authoring and online file storage. But even if you use this privacy setting to turn off connected experiences, certain functionality will remain available, such as syncing your mailbox in Outlook, as well as essential services described below.
+
+If you choose to disable certain types of connected experiences, either the ribbon or menu command for those connected experiences will be grayed out or you will get an error message when you try to use those connected experiences.
+
+There are a set of services that are essential to how Microsoft 365 functions and cannot be disabled. For example, the licensing service that confirms that you are properly licensed to use Microsoft 365 is essential. Required service data about these services is collected and sent to Microsoft, regardless of any other settings that you have configured. See Essential Services for more information.
+
+**Required service data for connected experiences**
+
+Required service data is data that enables us to deliver cloud-based connected experiences and help make these experiences secure and perform as expected. There are three types of information that are considered as required service data.
+
+*   **Customer Content**, which is content you create using Office apps, such as text typed in a Word document.
+*   **Functional Data**, which includes information needed by a connected experience to perform its task, such as configuration information about the app.
+*   **Service Diagnostic Data**, which is the data required to keep the service secure, up to date, and performing as expected. Because this data is strictly related to the connected experience, it is separate from Required or Optional diagnostic data levels.
+
+To help you understand required service data, the following is an example scenario using PowerPoint Designer, which is a connected experience you can use when creating slides for a presentation. PowerPoint Designer helps you improve your slides by automatically generating design ideas to choose from. While you're putting content on a slide, Designer works in the background to match that content to professionally designed layouts.
+
+The required service data that is sent to Microsoft to enable this connected experience for you could include the following:
+
+*   Customer content, such as the text or images you added to your slide.
+*   Functional data, such as which slide you are working on and its layout.
+*   Service diagnostic data, such as events that tell us if the design idea was correctly applied to your slide and that the service calls were performing correctly.
+
+If you choose to disable the category of connected experiences that includes PowerPoint Designer, the feature will be turned off and none of this required service data is sent to us.
+
+See Connected Experiences in Office for more information.
+
 Microsoft TeamsMicrosoft TeamsmainteamsmoduleSummary
 
 This section applies to the consumer offering of Teams. if you are using Teams with a school or work account, see the Enterprise and developer products of this privacy statement.
@@ -1846,63 +1894,9 @@ As part of providing these features, Microsoft collects data about the usage of 
 
 If you don’t want to use the notification services for incoming Teams calls and messages, turn it off in the settings found on your device.
 
-OfficeOfficemainofficeservicesmoduleSummary
-
-Office is a collection of productivity services and applications including Word, Excel, PowerPoint, and Outlook, among others. For more details about Outlook, see the Outlook section of this privacy statement. Office is a service that is comprised of client software applications and connected online services that span many platforms and have numerous interdependent experiences. Various Office services enable you to use your file content for designs and recommendations, collaborate with others within your documents, and provide you functionality from other Microsoft products, such as Bing and Cortana, and third-party connected products. If you work in an organization, your administrator may turn off or disable these connected services. Prior to Office 365 version 1904, you can change your privacy settings in the Privacy Options of the Microsoft Office Trust Center. For more information, see View my options and settings in the Microsoft Office Trust Center. Starting with Version 1904 of Office 365, you can access new, updated, and improved privacy controls by selecting **File** >. **Account** >. **Account Privacy**. See Account Privacy Settings for more information.
-
-**Office Roaming Service**. The Office Roaming Service helps keep your Office settings up to date across your devices running Office. When you sign in to Office with your Microsoft account or an account issued by your organization, the Office Client Policy Service is turned on and syncs some of your customized Office settings to Microsoft servers (such as a list of most recently used documents and the last location viewed within a document). When you sign in to Office on another device with the same account, the Office Roaming Service downloads your settings from Microsoft servers and applies them to the additional device. The Office Roaming Service also applies some of your customized Office settings when you sign in to Office.com. When you sign out of Office, the Office Roaming Service removes your Office settings from your device. Any changes you made to your customized Office settings are sent to Microsoft servers.
-
-**Microsoft Updates**. Office uses either Microsoft Update or Click-to-Run services to provide you with security and other important updates. See the Update Services section of this privacy statement for more information about Microsoft Update.
-
-**Click-to-Run Update Service**. The Click-to-Run Update Service allows you to install certain Microsoft Office products over the internet. The Click-to-Run Update Service also automatically detects online updates to Click-to-Run-enabled products on your device and downloads and installs them automatically.
-
-**Office Translator**. Office Translator is designed as a no-trace connected experience. With no trace, no portion of your translation request that Office sends to Microsoft Translator will be logged, your submitted text will not be used to improve the quality of the Microsoft Translator service, and there will not be any record of any portion of your data retained by Microsoft.
-
-**Diagnostic Data**. Diagnostic data is used to (i) keep Office secure and up to date. (ii) detect, diagnose, and remediate problems. and (iii) make product improvements. This data does not include a user's name or email address, the content of the user's files, or information about apps unrelated to Office. Users have a choice between two different levels of diagnostic data collection, Required and Optional.
-
-*   **Required**. The minimum data necessary to help keep Office secure, up to date, and performing as expected on the device it's installed on.
-*   **Optional**. Additional data that helps us make product improvements and provides enhanced information to help us detect, diagnose, and remediate issues.
-
-See Diagnostic Data in Office for more information.
-
-**Connected Experiences**. Office continues to provide more experiences in client applications that are connected to and backed by cloud-based services. In order to ensure that all these connected experiences will be reliable, up to date, remain secure, and perform as expected, required service data may be collected whenever you use a connected experience.
-
-Office consists of client software applications and connected experiences designed to enable you to create, communicate, and collaborate more effectively. Working with others on a document stored on OneDrive for Business or translating the contents of a Word document into a different language are examples of connected experiences. There are two types of connected experiences.
-
-*   **Experiences that analyze your content**. Experiences that use your Office content to provide you with design recommendations, editing suggestions, data insights, and similar features. For example, PowerPoint Designer or Editor in Word.
-*   **Experiences that download online content**. Experiences that allow you to search and download online content including templates, images, 3D models, videos, and reference materials to enhance your documents. For example, Office templates or PowerPoint QuickStarter.
-
-Prior to Office 365 version 1904, you can change your privacy settings in the Privacy Options of the Microsoft Office Trust Center.
-
-Starting with Version 1904 of Office 365, you can access new, updated, and improved privacy controls by selecting **File** >. **Account** >. **Account Privacy**. These privacy settings allow you to configure your connected experiences. For example, you can choose to enable connected experiences that download online content, but not connected experiences that analyze content. Turning off connected experiences will also turn off additional experiences, such as document co-authoring and online file storage. But even if you use this privacy setting to turn off connected experiences, certain Office functionality will remain available, such as syncing your mailbox in Outlook, as well as essential services described below.
-
-If you choose to disable certain types of connected experiences, either the ribbon or menu command for those connected experiences will be grayed out or you will get an error message when you try to use those connected experiences.
-
-There are a set of services that are essential to how Office functions and cannot be disabled. For example, the licensing service that confirms that you are properly licensed to use Office is essential. Required service data about these services is collected and sent to Microsoft, regardless of any other settings that you have configured. See Essential Services for more information.
-
-**Required service data for connected experiences**
-
-Required service data is data that enables us to deliver cloud-based connected experiences and help make these experiences secure and perform as expected. There are three types of information that are considered as required service data.
-
-*   **Customer Content**, which is content you create using Office, such as text typed in a Word document.
-*   **Functional Data**, which includes information needed by a connected experience to perform its task, such as configuration information about the app.
-*   **Service Diagnostic Data**, which is the data required to keep the service secure, up to date, and performing as expected. Because this data is strictly related to the connected experience, it is separate from Required or Optional diagnostic data levels.
-
-To help you understand required service data, the following is an example scenario using PowerPoint Designer, which is a connected experience you can use when creating slides for a presentation. PowerPoint Designer helps you improve your slides by automatically generating design ideas to choose from. While you're putting content on a slide, Designer works in the background to match that content to professionally designed layouts.
-
-The required service data that is sent to Microsoft to enable this connected experience for you could include the following:
-
-*   Customer content, such as the text or images you added to your slide.
-*   Functional data, such as which slide you are working on and its layout.
-*   Service diagnostic data, such as events that tell us if the design idea was correctly applied to your slide and that the service calls were performing correctly.
-
-If you choose to disable the category of connected experiences that includes PowerPoint Designer, the feature will be turned off and none of this required service data is sent to us.
-
-See Connected Experiences in Office for more information
-
 OneDriveOneDrivemainonedrivemoduleSummary
 
-OneDrive lets you store and access your files on virtually any device. You can also share and collaborate on your files with others. Some versions of the OneDrive application enable you to access both your personal OneDrive by signing in with your personal Microsoft account and your OneDrive for Business by signing in with your work or school Microsoft account as part of your organization's use of Office 365.
+OneDrive lets you store and access your files on virtually any device. You can also share and collaborate on your files with others. Some versions of the OneDrive application enable you to access both your personal OneDrive by signing in with your personal Microsoft account and your OneDrive for Business by signing in with your work or school Microsoft account as part of your organization's use of Microsoft 365 or Office 365.
 
 When you use OneDrive, we collect data about your usage of the service, as well as the content you store, to provide, improve, and protect the services. Examples include indexing the contents of your OneDrive documents so that you can search for them later and using location information to enable you to search for photos based on where the photo was taken. We also collect device information so we can deliver personalized experiences, such as enabling you to sync content across devices and roam customized settings.
 
@@ -1912,7 +1906,7 @@ When you share content to a social network like Facebook from a device that you 
 
 When you share your OneDrive content with your friends via a link, an email with the link is sent to those friends. The link contains an authorization code that allows anyone with the link to access your content. If one of your friends sends the link to other people, they will also be able to access your content, even if you did not choose to share the content with them. To revoke permissions for your content on OneDrive, sign in to your account and then select the specific content to manage the permission levels. Revoking permissions for a link effectively deactivates the link. No one will be able to use the link to access the content unless you decide to share the link again.
 
-Files managed with OneDrive for Business are stored separately from files stored with your personal OneDrive. OneDrive for Business collects and transmits personal data for authentication, such as your email address and password, which will be transmitted to Microsoft and/or to the provider of your Office 365 service.
+Files managed with OneDrive for Business are stored separately from files stored with your personal OneDrive. OneDrive for Business collects and transmits personal data for authentication, such as your email address and password, which will be transmitted to Microsoft and/or to the provider of your Microsoft 365 or Office 365 service.
 
 OutlookOutlookmainoutlookmoduleSummary
 
@@ -1930,7 +1924,7 @@ When you add an account to Outlook, your mail, calendar items, files, contacts, 
 
 If you add an account provided by an organization (such as your employer or school), the owner of the organizational domain can implement policies and controls (for example, requiring multi-factor authentication or the ability to remotely wipe data from your device) that can affect your use of Outlook.
 
-To learn more about the data the Outlook applications collect and process, please see the Office section of this privacy statement.
+To learn more about the data the Outlook applications collect and process, please see the Microsoft 365 section of this privacy statement.
 
 SkypeSkypemainskypemoduleSummary
 
@@ -1966,7 +1960,7 @@ Search and artificial intelligence products connect you with information and int
 
 BingBingmainbingmoduleSummary
 
-Bing services include search and mapping services, as well as the Bing Toolbar and Bing Desktop apps. Bing services collect and process data in many forms, including text that has been inked or typed, speech data, and images. Bing services are also included within other Microsoft services, such as MSN Apps, Office, Cortana, and certain features in Windows (which we refer to as Bing-powered experiences).
+Bing services include search and mapping services, as well as the Bing Toolbar and Bing Desktop apps. Bing services collect and process data in many forms, including text that has been inked or typed, speech data, and images. Bing services are also included within other Microsoft services, such as Microsoft 365, Cortana, and certain features in Windows (which we refer to as Bing-powered experiences).
 
 When you conduct a search, or use a feature of a Bing-powered experience that involves conducting a search or entering a command on your behalf, Microsoft will collect the searches or commands you provide (which may be in the form of text, voice data, or an image), along with your IP address, location, the unique identifiers contained in our cookies or similar technologies, the time and date of your search, and your browser configuration. For example, if you use Bing voice-enabled services, your voice input and performance data associated with the speech functionality will be sent to Microsoft. And, if you use Bing image-enabled services, the image you provide will be sent to Microsoft. When you use Bing-powered experiences, such as Ask Cortana or Bing Lookup to search a particular word or phrase within a webpage or document, that word or phrase is sent to Bing along with some surrounding content in order to provide contextually relevant search results.
 
@@ -1999,7 +1993,7 @@ The data Cortana collects is used to provide, improve, personalize, and develop 
 *   Cortana uses information about your interests to recommend features you may enjoy.
 *   Cortana shares information with third parties at your direction to complete a task or transaction you’ve requested, or help you with a skill such as booking a ride share service.
 *   Microsoft uses your voice data to improve speech recognition and user intent understanding to improve Cortana and other Microsoft products.
-*   Cortana provides features that may process your personal and work data from other Microsoft products (e.g., Office) or third-party services. For example, when scheduling a meeting, Cortana can help you identify conflicts on both your personal and work calendars.
+*   Cortana provides features that may process your personal and work data from other Microsoft products (e.g., Microsoft 365) or third-party services. For example, when scheduling a meeting, Cortana can help you identify conflicts on both your personal and work calendars.
 
 On Windows devices, if you choose not to sign in to Cortana, you can still chat with Cortana and use Cortana to search, using either your voice, inking, or typing.
 
@@ -2025,7 +2019,7 @@ When you sign in to Cortana, in addition to the information described above, we 
 
 **Connected services and skills**. To enable greater personalization and productivity, you can give Cortana permission to (i) collect data from other Microsoft and third-party services, and (ii) provide your information to those services. When enabled, Cortana provides your requests and responses to those services or third parties to enable them to provide you their information or services. With your permission, Cortana can send additional information (e.g., your location). Information you share with a third party is governed by the third party’s privacy policy and terms. Cortana also uses data about your use of connected services and skills to improve and develop Cortana and other Microsoft products. For example, we use this data, including your query sent to the third party, to improve speech recognition and user-intent understanding within Microsoft products. Below are examples of how your data is processed when you use connected services and skills:
 
-*   If you choose to connect Cortana to your work or school account, Cortana can access data stored in Office 365 to help you stay up to date, manage your email and calendar, and get insights about your meetings and relationships.
+*   If you choose to connect Cortana to your work or school account, Cortana can access data stored in Microsoft 365 to help you stay up to date, manage your email and calendar, and get insights about your meetings and relationships.
 *   Choosing to connect Cortana to LinkedIn allows Microsoft to access your LinkedIn data so Cortana can give you more personalized information and recommendations. It also enables LinkedIn to access the name, email address, job title, and company name of people you are meeting with to retrieve relevant information about those contacts.
 *   Cortana allows you to connect to third-party services to do more and get additional experiences from the third-party service. Cortana may also personalize your experiences based on your use of third-party skills. With your permission, **Cortana can send information about you along with your request to third-parties that ask for it**. For instance, when you ask Cortana to request you a ride, the ride provider will ask for your current location. Third-party skills provide their own separate terms and privacy statements. Please review those carefully before allowing Cortana to send information to them.
 
@@ -2040,14 +2034,14 @@ Data about how you use your browser, such as your browsing history, web form dat
 Microsoft Edge allows you to capture and save content on your device, such as:
 
 *   **Settings and More**. Allows you to manage your favorites, downloads, history, extensions, and collections.
-*   ****Collections**** . Allows you to collect text, images, videos, and other content in a note page in your browser. When you drag content into your collection, it is cached on your device and can be deleted through your collection.
-*   **Website Pin to Taskbar:** which allows you to pin your favorite websites to the Windows taskbar. Websites will be able to see which of their webpages you have pinned, so they can provide you a notification badge letting you know there is something new for you to check out on their websites.
+*   **Collections**. Allows you to collect text, images, videos, and other content in a note page in your browser. When you drag content into your collection, it is cached on your device and can be deleted through your collection.
+*   **Website Pin to Taskbar**: which allows you to pin your favorite websites to the Windows taskbar. Websites will be able to see which of their webpages you have pinned, so they can provide you a notification badge letting you know there is something new for you to check out on their websites.
 
-Microsoft collects data necessary to provide features you request in Microsoft Edge. For example, you may choose to sync browser information saved on your device across other devices when you are signed in with your Microsoft account. You may choose which browser data to sync, including your favorites, extensions and associated data, settings, open tabs, autofill form entries (such as your name, address, and phone number), passwords, payment information, and other data types. If you choose to sync extensions that you acquired from third-party web stores, a copy of those extensions will be downloaded directly from those web stores on your synced device(s). You can disable or configure syncing in the Microsoft Edge settings.
+Microsoft collects data necessary to provide features you request in Microsoft Edge. For example, you may choose to sync browser information saved on your device across other devices when you are signed in with your Microsoft account. You may choose which browser data to sync, including your favorites, extensions and associated data, settings, open tabs, autofill form entries (such as your name, address, and phone number), passwords, payment information, and other data types as they become available. If you choose to sync extensions that you acquired from third-party web stores, a copy of those extensions will be downloaded directly from those web stores on your synced device(s). If you have turned on Password Monitor, your saved credentials are hashed, encrypted, and sent to Microsoft’s Password Monitor service to warn you if your credentials were detected as part of a malicious attack or a breach. Microsoft does not retain this data after the check is complete. You can disable or configure syncing in the Microsoft Edge settings.
 
 Microsoft Edge’s **Search and site suggestions** uses your search queries and browsing history to provide you with faster browsing and more relevant search recommendations. Microsoft Edge sends the information you type into the browser address bar to the default search provider configured in the address bar to offer search recommendations as you type each character. You can turn off these features at any time in the browser settings. In order to provide search results, Microsoft Edge sends your search queries, standard device information, and location (if you have location enabled) to your default search provider. If Bing is your default search provider, we use this data as described in the Bing section of this privacy statement.
 
-To improve your web experience, you may choose to share your Microsoft Edge browsing history from your Microsoft account to allow us to personalize advertising, Bing search, Microsoft News and other Microsoft services. For more information about our **advertising privacy policies** see the Advertising section of the privacy statement. If you disable the **See ads that interest you** setting in the Microsoft privacy dashboard, you will continue to receive personalized search and news based on your browsing history if you enabled the **Improve your web experience by allowing Microsoft to use your browsing history from this account for personalizing advertising, search, news and other Microsoft services** setting in Microsoft Edge. You may disable this browser setting at any time to stop receiving personalized web experiences based on your browsing history.
+Microsoft Edge downloads content from Microsoft services to enhance your browsing experiences. for example, when data is downloaded to prerender site content for faster browsing or to provide content required to power features you choose to use, such as providing templates for Collections. You may also choose to share your Microsoft Edge browsing history from your Microsoft account to allow us to personalize advertising, Bing search, Microsoft News and other Microsoft services. For more information about our **advertising privacy policies** see the Advertising section of the privacy statement. If you disable the **See ads that interest you** setting in the Microsoft privacy dashboard, you will continue to receive personalized search and news based on your browsing history if you enabled the **Improve your web experience by allowing Microsoft to use your browsing history from this account for personalizing advertising, search, news and other Microsoft services** setting in Microsoft Edge. You may disable this browser setting at any time to stop receiving personalized web experiences based on your browsing history.
 
 Microsoft Edge collects required diagnostic data to solve problems and to keep Microsoft Edge up to date, secure, and operating properly. Required diagnostic data also helps us improve Microsoft Edge and Windows.
 
@@ -2055,11 +2049,9 @@ You can choose to send optional diagnostic data about how you use Microsoft Edge
 
 The diagnostic data collected by Microsoft Edge is transmitted to Microsoft and is stored with one or more unique identifiers that help us recognize an individual browser installation on a device and understand the browser's service issues and use patterns.
 
-Learn more about Microsoft Edge
+Learn more about Microsoft Edge, browsing data, and privacy.
 
-**Microsoft Edge on iOS and Android.** Microsoft Edge on iOS and Android devices collects data necessary to provide features you request in Microsoft Edge.
-
-Microsoft also collects required diagnostic data to solve problems and to keep Microsoft Edge up to date, secure, and operating properly. Required diagnostic data also helps us improve Microsoft Edge.
+**Microsoft Edge on iOS and Android**. Microsoft Edge on iOS and Android devices collects data necessary to provide features you request in Microsoft Edge. Microsoft also collects required diagnostic data to solve problems and to keep Microsoft Edge up to date, secure, and operating properly. Required diagnostic data also helps us improve Microsoft Edge.
 
 Additionally, you may share optional diagnostic data about how you use Microsoft Edge and information about websites you visit (browsing history) for personalized experiences on your browser, Windows 10, and other Microsoft products and services. This information also helps us improve Microsoft Edge and other Microsoft products and services. This optional diagnostic data is sent to us when you enable **Share usage data for personalization** or **Share info about websites you visit** in the browser settings.
 
@@ -2073,7 +2065,7 @@ Microsoft Translator is a machine translation system designed to automatically t
 
 Microsoft Translator (which includes apps for Android, iOS, Windows, Translator Hub, Translator for Bing, and Translator for Microsoft Edge, collectively “Translator”) processes the text, image, and speech data you submit, as well as device and usage data. We use this data to provide Translator, personalize your experiences, and improve our products. Microsoft has implemented business and technical measures designed to help de identify the data you submit to Translator. For example, when we randomly sample text to improve Translator, we delete identifiers and certain text, such as email addresses and some number sequences, detected in the sample that could contain personal data.
 
-For more information on the Cognitive Services Translator Text API, Custom Translator, and Translator Speech API, see the Enterprise and developer products section of this privacy statement. For the Translate feature in Office, see the Productivity and communications products section of this privacy statement.
+For more information on the Cognitive Services Translator Text API, Custom Translator, and Translator Speech API, see the Enterprise and developer products section of this privacy statement. For the Translate feature in Office apps, see the Productivity and communications products section of this privacy statement.
 
 SwiftKeySwiftKeymainswiftkeymoduleSummary
 
@@ -2099,7 +2091,7 @@ When you activate Windows, a specific product key is associated with the device 
 
 Activity historyActivity historymainactivityhistorymoduleSummary
 
-Activity history helps keep track of the things you do on your device, such as the apps and services you use, the files you open, and the websites you browse. Your activity history is stored locally on your device when using different apps and features such as Microsoft Edge, some Microsoft Store apps, and Office apps. If you've signed in to your device with a Microsoft account and given your permission, Windows sends your activity history to Microsoft. Once your activity history is in the cloud, Microsoft uses that data to enable cross-device experiences, to provide you with the ability to continue those activities on other devices, to provide personalized experiences (such as ordering your activities based on duration of use) and relevant suggestions (such as anticipating what your needs might be based on your activity history), and to help improve Microsoft products.
+Activity history helps keep track of the things you do on your device, such as the apps and services you use, the files you open, and the websites you browse. Your activity history is stored locally on your device when using different apps and features such as Microsoft Edge, some Microsoft Store apps, and Microsoft 365 apps. If you've signed in to your device with a Microsoft account and given your permission, Windows sends your activity history to Microsoft. Once your activity history is in the cloud, Microsoft uses that data to enable cross-device experiences, to provide you with the ability to continue those activities on other devices, to provide personalized experiences (such as ordering your activities based on duration of use) and relevant suggestions (such as anticipating what your needs might be based on your activity history), and to help improve Microsoft products.
 
 Activity history is also created and sent to Microsoft when you use Microsoft apps, such as Microsoft Edge, and Office apps like Word, Excel, and PowerPoint, on mobile devices such as iOS and Android phones and tablets. If you are signed in with your Microsoft account, you can continue activities on your Windows 10 device that you started in Microsoft apps on your Android or iOS device. You can turn settings off or on for sending your activity history to Microsoft and storing activity history locally on your device, and you can also clear your device’s activity history at any time by going to Start >. Settings >. Privacy >. Activity history. Learn more about activity history in Windows 10.
 
@@ -2245,7 +2237,7 @@ You can choose whether to sync your settings, and control what is synced, by goi
 
 Update ServicesUpdate ServicesmainupdateservicesmoduleSummary
 
-Update Services for Windows includes Windows Update and Microsoft Update. Windows Update is a service that provides you with software updates for Windows software and other supporting software, such as drivers and firmware supplied by device manufacturers. Microsoft Update is a service that provides you with software updates for other Microsoft software such as Office.
+Update Services for Windows includes Windows Update and Microsoft Update. Windows Update is a service that provides you with software updates for Windows software and other supporting software, such as drivers and firmware supplied by device manufacturers. Microsoft Update is a service that provides you with software updates for other Microsoft software such as Microsoft 365.
 
 Windows Update automatically downloads Windows software updates to your device. You can configure Windows Update to automatically install these updates as they become available (recommended) or have Windows notify you when a restart is required to finish installing updates. Apps available through the Microsoft Store are automatically updated through the Microsoft Store, as described in the Microsoft Store section of this privacy statement.
 
@@ -2408,7 +2400,7 @@ Microsoft Store is an online service, accessible via PC, the Xbox Console and th
 
 *   Apps and content for Windows devices such as phones, PCs, and tablets.
 *   Games, subscriptions and other apps for Xbox consoles and other devices.
-*   Products and apps for Office, SharePoint, Exchange, Access, and Project (2013 versions or later).
+*   Products and apps for Microsoft 365, SharePoint, Exchange, Access, and Project (2013 versions or later).
 
 We collect data about how you access and use Microsoft Store. the products you've viewed, purchased, or installed. the preferences you set for viewing apps in Microsoft Store. and any ratings, reviews, or problem reports you submit. Your Microsoft account is associated with your ratings and reviews. and if you write a review, the name and picture from your Microsoft account will be published with your review.
 
@@ -2475,7 +2467,7 @@ Mixed Reality also processes and collects data specifically related to the Mixed
 
 maineuropeanprivacymodule,mainsecurityofpersonaldatamodule,mainwherewestoreandprocessdatamodule,mainourretentionofpersonaldatamodule,maincaliforniaconsumerprivacyactmodule,mainadvertisingmodule,maincollectionofdatafromchildrenmodule,mainpreviewreleasesmodule,mainchangestothisprivacystatementmodule,mainhowtocontactusmodule mainenterpriseservicesmodule,mainenterprisedevsoftwareappsmodule mainofficeservicesmodule,mainteamsmodule,mainonedrivemodule,mainoutlookmodule,mainskypemodule,mainlinkedinmodule mainbingmodule,maincortanamodule,mainmsedgemodule,mainMicrosoftTranslatormodule,mainswiftkeymodule mainactivationmodule,mainactivityhistorymodule,mainadvertisingidmodule,maindiagnosticsmodule,mainfeedbackhubmodule,mainlocationservicesmotionsensingmodule,mainsecurityandsafetyfeaturesmodule, mainspeechinkingtypingmodule, mainsyncsettingsmodule,mainupdateservicesmodule,mainwebbrowsersmodule,mainwi-fisensemodule,mainwindowsappsmodule,mainwindowsmediaplayermodule,mainwindowshellomodule,mainyourphonemodule,mainwindowssearchmodule mainxboxmodule,mainwindowsstoremodule,mainmainmodule,mainmixermodule,maingroovemusicmoviestvmodule,mainsilverlightmodule,mainwindowsmixedrealitymodule mainenterprisedeveloperproductsmoduleCookies
 
-Most Microsoft sites use cookies, small text files placed on your device which web servers in the domain that placed the cookie can retrieve later. We use cookies to store your preferences and settings, help with sign-in, provide targeted ads, and analyze site operations. For more information, see the Cookies and similar technologies section of this privacy statement.
+Most Microsoft sites use cookies, small text files placed on your device which web servers utilize in the domain that placed the cookie can retrieve later. We use cookies to store your preferences and settings, help with sign-in, provide targeted ads, and analyze site operations. For more information, see the Cookies and similar technologies section of this privacy statement.
 
 EU-U.S. and Swiss-U.S. Privacy Shield
 
