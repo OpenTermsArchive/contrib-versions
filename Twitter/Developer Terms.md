@@ -1,449 +1,126 @@
- ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) 
+#### Developer terms
 
-dev·el·op·ers /dɪˈvɛləpərz/
+Developer Agreement
+-------------------
 
-Individuals or organizations  that are writing code to learn from the public conversation, contribute to it, or to improve the Twitter experience.
-==================================================================================================================================================
+#### Developer Agreement
 
-Let's get started
------------------
+Effective: March 10, 2020
 
-*   [Twitter + Developers](#1-a)
-*   [Using this policy](#1-b)
+This Twitter Developer Agreement (“**Agreement**”) is made between you (either an individual or an entity, referred to herein as “**you**”) and Twitter (as defined below) and governs your access to and use of the Licensed Material (as defined below).Your use of Twitter’s websites, SMS, APIs, email notifications, applications, buttons, embeds, ads, and our other covered services is governed by our general Terms of Service and Privacy Policy.
 
-*   [Twitter + Developers](#1-a)
-*   [Using this policy](#1-b)
+PLEASE READ THE TERMS AND CONDITIONS OF THIS AGREEMENT CAREFULLY, INCLUDING ANY LINKED TERMS REFERENCED BELOW, WHICH ARE PART OF THIS LICENSE AGREEMENT. BY USING THE LICENSED MATERIAL, YOU ARE AGREEING THAT YOU HAVE READ, AND THAT YOU AGREE TO COMPLY WITH AND TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS AGREEMENT AND ALL APPLICABLE LAWS AND REGULATIONS IN THEIR ENTIRETY WITHOUT LIMITATION OR QUALIFICATION. IF YOU DO NOT AGREE TO BE BOUND BY THIS AGREEMENT, THEN YOU MAY NOT ACCESS OR OTHERWISE USE THE LICENSED MATERIAL. THIS AGREEMENT IS EFFECTIVE AS OF THE FIRST DATE THAT YOU USE THE LICENSED MATERIAL (“**EFFECTIVE DATE**”).
 
-##### Twitter + Developers
+IF YOU ARE AN INDIVIDUAL REPRESENTING AN ENTITY, YOU ACKNOWLEDGE THAT YOU HAVE THE APPROPRIATE AUTHORITY TO ACCEPT THIS AGREEMENT ON BEHALF OF SUCH ENTITY. YOU MAY NOT USE THE LICENSED MATERIAL AND MAY NOT ACCEPT THIS AGREEMENT IF YOU ARE NOT OF LEGAL AGE TO FORM A BINDING CONTRACT WITH TWITTER, OR YOU ARE BARRED FROM USING OR RECEIVING THE LICENSED MATERIAL UNDER APPLICABLE LAW.
 
-Twitter loves developers. We’re delighted and amazed by the tools and services this community creates by harnessing the power of the Twitter developer platform. As part of our commitment to this community, we aim to provide access that is open and fair for developers, safe for people on Twitter, and beneficial for the Twitter platform as a whole. To further these goals we’ve crafted the Developer Policy as a guide to help people understand our rules and expectations about appropriate API and Twitter Content usage.
+###### I. Twitter API and Twitter Content  
+A. Definitions
 
-This Developer Policy (“Policy”) provides rules and guidelines for developers who interact with Twitter’s ecosystem of applications, services, website, web pages and content. It is part of your contract with Twitter governing access to and use of the Twitter API and Twitter Content (either as part of the Developer Agreement or other written agreement with Twitter). Policy violations are considered violations of your agreement. This Policy may be changed from time to time without notice. Capitalized terms used in this Policy, which are not defined in this Policy, will have the respective meanings ascribed to them in the [Developer Agreement](https://developer.twitter.com/en/developer-terms/agreement) or the Master License Agreement.
-
-##### Using this policy
-
-We’ve structured this policy to make it as easy to follow as possible. Please keep information from the following policy sections top of mind as you use the Twitter API and Twitter Content:
-
-1.  **Set Yourself Up for Success** - You are responsible for complying with all Twitter policies. It’s important that you review and understand this Policy, as well as the policies we link to in this document, before you access the Twitter API and Twitter Content. The time spent reviewing our policies may save you hours of rework down the road.
-2.  **Privacy and Control are Essential** - Protecting and defending the privacy of people on Twitter is built into the core DNA of our company. As such, we prohibit the use of Twitter data in any way that would be inconsistent with people’s reasonable expectations of privacy. By building on the Twitter API or accessing Twitter Content, you have a special role to play in safeguarding this commitment, most importantly by respecting people’s privacy and providing them with transparency and control over how their data is used.
-3.  **Follow the Platform Usage Guidelines** - Getting approved to access the Twitter API and Twitter Content is just the first step. Our Platform Usage Guidelines should be your first stop anytime you have questions about how to ensure policy compliance for your planned use of the Twitter platform.
-
-We’ve provided a lot more detail on what each of these three key sections mean below. Please review them carefully to ensure that your usage of the Twitter API and Twitter Content is consistent with our policies. 
-
-If we believe you are in violation of this Policy (or any other Twitter policy), we may suspend or permanently revoke your access to the Twitter API and Twitter Content. If this happens to you, do not apply for or register additional API keys. Instead, contact us via the [API Policy Support form](https://help.twitter.com/forms/platform).  
-
-Finally, please note that Twitter may monitor your use of the Twitter API to improve the Twitter Applications, to examine any commercial use, and to ensure your compliance with your approved use case and this Policy.
-
-Thanks for reading, and thank you for building with us! We look forward to seeing what you create!
-
-Chapter 1:
-
-Set yourself up for success
-===========================
-
-*   [Set yourself up for success](#2-a)
-
-*   [Set yourself up for success](#2-a)
-
-##### Set yourself up for success
-
-You can avoid many potential pitfalls while using the Twitter API by ensuring that your service has been built the right way from day 1. This section of the Developer Policy contains rules that all developers must follow before using the Twitter API or Twitter Content.
-
-**We review all proposed uses of the Twitter developer platform to verify policy compliance — so you’re required to disclose (and update, as applicable) your planned use of the Twitter API and Twitter Content in order to be granted and to maintain access.** All new developers must [apply for a developer account](https://developer.twitter.com/en/apply-for-access.html) to access the Twitter API. Current developers without an approved developer account must apply for one as directed to do so by Twitter. As part of this process, you’ll need to provide us with a written description of your intended uses of the Twitter API and Twitter Content.
-
-Your use case description is binding on you, and any substantive deviation from it may constitute a violation of our rules and result in enforcement action. You must notify us of any substantive modification to your use case and receive approval before you may begin using Twitter Content for that new purpose. Failure to do so may result in suspension and termination of your API and data access. You can update your use case by visiting our [API Policy Support form](https://help.twitter.com/forms/platform), selecting _I need to update my developer use case,_ or as otherwise agreed by Twitter.
-
-**By building on the Twitter API or accessing Twitter Content, you must comply with ALL Twitter policies.** These include this [Developer Policy](https://developer.twitter.com/en/developer-terms/policy), the [Automation Rules](https://support.twitter.com/articles/76915-automation-rules-and-best-practices), the [Display Requirements](https://developer.twitter.com/en/developer-terms/display-requirements.html), the [API Restricted Uses Rules](https://developer.twitter.com/en/developer-terms/more-on-restricted-use-cases), the [Twitter Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules), the [Twitter Brand Resources](https://about.twitter.com/en_us/company/brand-resources.html), the [Periscope Community Guidelines](https://www.periscope.tv/content), and the [Periscope Trademark Guidelines](https://www.periscope.tv/trademarkpolicy), as well as any other agreements you enter into with Twitter relating to your use of the Twitter API or Twitter Content, including but not limited to the [Developer Agreement](https://developer.twitter.com/en/developer-terms/agreement) or a Master Licensing Agreement or Order (as applicable). You must also comply with any modifications to these policies and any new policies launched by Twitter. It is your responsibility to monitor the use of your service and to design your service to prevent violations of Twitter policy by people who use it. Failure to do so may result in suspension or termination of your API and Twitter Content access.
-
-**You may not register multiple applications for a single use case or substantially similar or overlapping use cases.** In this context, a “use case” is a consistent set of analyses, displays, or actions performed via an application. Please note that providing the same service or application to different people (including “white label” versions of a tool or service) counts as a single use case.
-
-_As a single exception to these rules,_ you may create and use a maximum of 3 applications for development, staging, and production instances of the same service. These apps must be registered to a single account, and should be clearly identified (in the name and description) as dev, staging, and prod instances of a single service. **You may not use development or staging applications for production purposes.**  
-
-**You must keep all API keys or other access credentials private.** You may not use, and may not encourage or facilitate others to use, API keys or other access credentials owned by others.
-
-**Your license agreement with Twitter limits your use of the Twitter API and Twitter Content. Among other things, the Twitter API has rate limits which help to ensure fair data usage and to combat spam on the platform.** You may not exceed or circumvent rate limits, or any other limitations or restrictions described in this Policy or your agreement with Twitter, listed on the [Developer Site](https://developer.twitter.com/), or communicated to you by Twitter.
-
-**You may not remove or alter any proprietary notices or marks on Twitter Content received via the Twitter API.** This helps to make sure that people know where Twitter Content is coming from, and who it belongs to.
-
-**For data integrity and platform health reasons, you may not interfere with, intercept, disrupt, or disable any features of the Twitter API or the Twitter service.** In other words, use the APIs as intended and documented on [developer.twitter.com](https://developer.twitter.com/). Refer to our [HackerOne guidelines](https://hackerone.com/twitter) for more details about acceptable use.
-
-Chapter 2:
-
-Privacy and control are essential
-=================================
-
-*   [Privacy and control are essential](#3-a)
-*   [Consent & permissions](#3-b)
-*   [Content compliance](#3-c)
-*   [Off-Twitter matching](#3-d)
-*   [Your privacy policy](#3-e)
-*   [Using geo-data](#3-f)
-*   [Twitter passwords](#3-g)
-
-*   [Privacy and control are essential](#3-a)
-*   [Consent & permissions](#3-b)
-*   [Content compliance](#3-c)
-*   [Off-Twitter matching](#3-d)
-*   [Your privacy policy](#3-e)
-*   [Using geo-data](#3-f)
-*   [Twitter passwords](#3-g)
-
-##### Privacy and control are essential
-
-Twitter takes privacy seriously, and we expect everyone using Twitter Content and the Twitter API to do the same. Any use of the Twitter developer platform, Twitter API, or Twitter Content in a manner that is inconsistent with peoples’ reasonable expectations of privacy may be subject to enforcement action, which can include suspension and termination of API and Twitter Content access.
-
-Your commitment to privacy and control must extend to all uses of Twitter Content and all aspects of the service that you build using our API. To that end, the people using your service must understand and consent to how you use their data, and how you access Twitter on their behalf. This can be accomplished through providing people with a clear, comprehensive, and transparent privacy policy, as well as ensuring that you get express and informed consent from each person using your service before taking any action on their behalf. **Please note that a person authenticating into your service does not by itself constitute consent.**
-
-##### Consent & permissions
-
-**In particular, you must get express and informed consent from people before doing any of the following:**
-
-*   Taking _any_ actions on their behalf. This includes (but is not limited to): 
+1.  **Twitter Content ‒** Tweets, Tweet IDs, Twitter end user profile information, Periscope Broadcasts, Broadcast IDs and any other data and information made available to you through the Twitter API or by any other means authorized by Twitter, and any copies and derivative works thereof.
     
-    *   Posting content to Twitter
-        
-    *   Following/unfollowing accounts
-        
-    *   Modifying profile or account information
-        
-    *   Starting a Periscope Broadcast
-        
-    *   Adding hashtags or any other content to Tweets  
-         
-        
-*   Republishing content accessed by means other than via the Twitter API or other Twitter tools
+2.  **Broadcast ID -** A unique identification number generated for each Periscope Broadcast.
+3.  **Developer Site ‒** Twitter’s developer site located at [https://developer.twitter.com](https://developer.twitter.com/)
+4.  **End Users ‒** Users of your Services.
+5.  **Licensed Material ‒** A collective term for the Twitter API, Twitter Content and Twitter Marks.
     
-*   Using someone’s Twitter Content to promote a product or service
+6.  **Periscope Broadcast -** A live or on-demand video stream that is publicly displayed on Twitter Applications and is generated by a user via Twitter’s Periscope Producer feature (as set forth at [https://help.periscope.tv/customer/en/portal/articles/2600293](https://help.periscope.tv/customer/en/portal/articles/2600293-what-is-periscope-producer)).
+7.  **Services ‒** Your websites, applications and other offerings that display Twitter Content or otherwise use the Licensed Material as explicitly approved by Twitter
     
-*   Storing non-public content such as Direct Messages (DMs), or any other private or confidential information
+8.  **Tweet ID ‒** A unique identification number generated for each Tweet.
+9.  **Tweet ‒** a posting made on Twitter Applications.
+10.  “**Twitter**” means Twitter, Inc., with an office located at 1355 Market Street, Suite 900, San Francisco, CA, 94103, USA.  If you enter into this Agreement or an Order outside of the United States, Canada or Latin America, Twitter International Company with its registered offices at One Cumberland Place, Fenian Street, Dublin 2, D02 AX07, Ireland (“**TIC**”) is the contracting entity. 
     
-*   Sharing or publishing protected content, or any other private or confidential information
+11.  **Direct Message -** A message  that is privately sent on Twitter Applications by one end user to one or more specific end user(s) using Twitter’s Direct Message function.
+    
+12.  **Twitter API ‒** The Twitter Application Programming Interface (“**API**”), Software Development Kit (“**SDK**”) and/or the related documentation, data, code, and other materials provided by Twitter with the API, as updated from time to time, including without limitation through the Developer Site.
+    
+13.  **Twitter Marks ‒** The Twitter name, trademarks, and logos that Twitter makes available to you, including via the Developer Site.
+    
+14.  **Twitter Applications ‒** Twitter’s consumer facing products, services, applications, websites, web pages, platforms, and other offerings, including without limitation, those offered via [https://twitter.com](https://twitter.com/) and Twitter’s mobile applications.
+
+**B. License from Twitter.** Subject to the terms and conditions in this Agreement and the [Developer Policy](https://developer.twitter.com/en/developer-terms/policy) (as a condition to the grant below), Twitter hereby grants you and you accept a non-exclusive, royalty free, non-transferable, non-sublicensable, revocable license solely to:
+
+1.  Use the Twitter API to integrate Twitter Content into your Services or conduct analysis of such Twitter Content;
+    
+2.  Copy a reasonable amount of and display the Twitter Content on and through your Services to End Users, as permitted by this Agreement;
+    
+3.  Modify Twitter Content only to format it for display on your Services; and
+    
+4.  Use and display Twitter Marks, solely to attribute Twitter’s offerings as the source of the Twitter Content, as set forth herein.
     
 
-**If your service allows people to post content to Twitter you must do the following before publishing:**
+**C. License to Twitter** You hereby grant Twitter and Twitter accepts a non-exclusive, royalty free, non-transferable, non-sublicensable revocable license to access, index, and cache by any means, including web spiders and/or crawlers, any webpage or applications on which you display Twitter Content using [embedded Tweets](https://developer.twitter.com/en/docs/twitter-for-websites/embedded-tweets/overview) or [embedded timelines](https://developer.twitter.com/en/docs/twitter-for-websites/timelines/overview).
 
-*   Show exactly what will be published
+**D. Incorporated Terms.** Your use of the Licensed Material is further subject to and governed by the following terms and conditions:
+
+1.  the [Twitter Developer Policy](https://developer.twitter.com/en/developer-terms/policy);
     
-*   Make it clear to people using your service what geo information (if any) will be added to the content
+2.  the [API Restricted Use Rules](https://developer.twitter.com/en/developer-terms/more-on-restricted-use-cases);
     
-
-**If your service allows people to post content to both your service and Twitter, you must do the following before publishing:**
-
-*   Obtain permission to post the content
+3.  the [Twitter Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules);
     
-*   Explain where you will post the content
+4.  as it relates to your display of any of the Twitter Content, the [Display Requirements](https://developer.twitter.com/en/developer-terms/display-requirements.html);
     
-
-**You must respect the protected and blocked status of all Twitter Content. You may not serve content obtained using one person’s authentication token to a different person who is not authorized to view that content.**
-
-*   **Protected accounts:** A [protected account](https://help.twitter.com/en/safety-and-security/public-and-protected-tweets)’s content is only available to people who have been approved by the owner to follow that account. So, if you run a service that accesses protected accounts, you may only do so to serve such content to the specific people with permission to view that content.
+5.  as it relates to your use and display of the Twitter Marks, the [Twitter Brand Resources](https://about.twitter.com/en_us/company/brand-resources.html); 
     
-*   **Blocked accounts:** People on Twitter are able to [block](https://help.twitter.com/en/using-twitter/blocking-and-unblocking-accounts) access to their accounts for any reason they choose. Commingling information obtained from tokens (or any other API-based action) to bypass this choice is not permitted.
+6.  as it relates to taking automated actions on your account, the [Automation Rules](https://help.twitter.com/en/rules-and-policies/twitter-automation);
     
+7.  as it relates to your use of Periscope, the [Periscope Community Guidelines](https://www.periscope.tv/content), and the [Periscope Trademark Guidelines](https://www.periscope.tv/trademarkpolicy).
 
-**As Direct Messages (DMs) are non-public in nature, services that provide DM features must take extra steps to safeguard personal privacy. You may not serve DM content to people who are not authorized to view that content. If your service provides DM functionality you must also:**
+The [Developer Policy](https://developer.twitter.com/en/developer-terms/policy), [API Restricted Use Rules](https://developer.twitter.com/en/developer-terms/more-on-restricted-use-cases), [Twitter Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules), [Display Requirements](https://developer.twitter.com/en/developer-terms/display-requirements.html), [Brand Resources](https://about.twitter.com/en_us/company/brand-resources.html), [Automation Rules](https://help.twitter.com/en/rules-and-policies/twitter-automation), [Periscope Community Guidelines](https://www.periscope.tv/content), and [Periscope Trademark Guidelines](https://www.periscope.tv/trademarkpolicy) are collectively referred to herein as the “**Incorporated Developer Terms**”. You agree to the Incorporated Developer Terms, which are hereby incorporated by reference and are available in hardcopy upon request to Twitter. In the event of a conflict between the Incorporated Developer Terms and this Agreement, this Agreement shall control. None of the Incorporated Developer Terms expand or extend the license to the Twitter API, Twitter Content or Twitter Marks granted in this Agreement.
 
-*   Notify people if you send read receipt events for DMs. You can do this by providing a notice directly in your service, or by displaying read receipts from other participants in a conversation.
-*   Get consent before configuring media to be sent in a DM as "shared" (i.e. reusable across multiple DMs). If you do allow media in a DM to be “shared,” you must provide a clear notice that this content will be accessible to anyone with the media’s URL.
-    
+**II. Restrictions on Use of Licensed Materials  
+A. Reverse Engineering and other Limitations.** Reverse Engineering and other Limitations. You will not or attempt to (and will not allow others to) a) reverse engineer, decompile, disassemble or translate the Twitter API, or otherwise attempt to derive source code, trade secrets or know-how in or underlying any Twitter API or any portion thereof; b) interfere with, modify, disrupt or disable features or functionality of the Twitter API, including without limitation any such mechanism used to restrict or control the functionality, or defeat, avoid, bypass, remove, deactivate or otherwise circumvent any software protection or monitoring mechanisms of the Twitter API; b) sell, rent, lease, sublicense, distribute, redistribute, syndicate, create derivative works of, assign or otherwise transfer or provide access to, in whole or in part, the Licensed Material to any third party except as expressly permitted herein; d) provide use of the Twitter API on a service bureau, rental or managed services basis or permit other individuals or entities to create links to the Twitter API or "frame" or "mirror" the Twitter API on any other server, or wireless or Internet-based device, or otherwise make available to a third party, any token, key, password or other login credentials to the Twitter API; or e) use the Licensed Material for any illegal, unauthorized or other improper purposes, including without limitation to store or transmit infringing, libelous, or otherwise unlawful or tortious material, to store or transmit malicious code, or to store or transmit material in violation of third-party privacy rights;  (f) utilize the Licensed Material to derive or obtain non-public information of individual Twitter users, including without limitation a user’s location; (g) interfere with or disrupt the integrity or performance of the Twitter Applications, Twitter API or Twitter Content contained therein, including by disrupting the ability of any other person to use or enjoy the Twitter Applications, Twitter API or Twitter Content, or attempt to gain unauthorized access to the Twitter Applications, Twitter API, Twitter Content or related systems or networks; (h) remove or alter any proprietary notices or marks on the Twitter Content; or (i) use Twitter Content, by itself or bundled with third party data, or derivative analysis therefrom, to target users with advertising outside of the Twitter Applications, including without limitation on other advertising networks, via data brokers, or through any other advertising or monetization services.
 
-##### Content compliance
+**B. No Monitoring or Measuring.**  Despite any other provision herein, you may only use the following information for non-commercial, internal purposes (e.g., to improve the functionality of the Services): (a) aggregate Twitter Applications user metrics, such as number of active users or accounts on Twitter Applications; (b) the responsiveness of Twitter Applications; and (c) results, usage statistics, data or other information (in the aggregate or otherwise) derived from analyzing, using, or regarding the performance of the Twitter API. All such information is Twitter’s Confidential Information.
 
-**If you store Twitter Content offline, you must keep it up to date with the current state of that content on Twitter.** Specifically, you must delete or modify any content you have if it is deleted or modified on Twitter. This must be done as soon as reasonably possible, or within 24 hours after receiving a request to do so by Twitter or the applicable Twitter account owner, or as otherwise required by your agreement with Twitter or applicable law. This must be done unless otherwise prohibited by law, and only then with the express written permission of Twitter.
+**C. Rate Limits.** You will not attempt to exceed or circumvent limitations on access, calls and use of the Twitter API ("**Rate Limits**"), or otherwise use the Twitter API in a manner that exceeds reasonable request volume, constitutes excessive or abusive usage, or otherwise fails to comply or is inconsistent with any part of this Agreement. If you exceed or Twitter reasonably believes that you have attempted to circumvent Rate Limits, controls to limit use of the Twitter APIs or the terms and conditions of this Agreement, then your ability to use the Licensed Materials may be temporarily suspended or permanently blocked. Twitter may monitor your use of the Twitter API to improve the Licensed Materials and Twitter Applications  and to ensure your compliance with this Agreement and Incorporated Developer Terms.
 
-Modified content can take various forms. This includes (but is not limited to): 
+**D. Location Data.** You will not  (and you will not allow others to) aggregate, cache, or store location data and other geographic information contained in the Twitter Content, except in conjunction with the Twitter Content to which it is attached. You may only use such location data and geographic information to identify the location tagged by the Twitter Content. You may not use location data or geographic information on a standalone basis.
 
-*   Content that has been made private or gained protected status  
-    
-*   Content that has been suspended from the platform
-    
-*   Content that has had geotags removed from it
-    
-*   Content that has been withheld or removed from Twitter
-    
+**E. Use of Twitter Marks.** The Twitter Marks may not be included in or as part of your registered corporate name, any of your logos, or any of your service or product names. Moreover, you may not create any derivative works of the Twitter Marks or use the Twitter Marks in a manner that creates or reasonably implies an inaccurate sense of endorsement, sponsorship, or association with Twitter. You will not otherwise use business names and/or logos in a manner that can mislead, confuse, or deceive users of your Services. All use of the Twitter Marks and all goodwill arising out of such use, will inure to Twitter's benefit. You shall not use the Twitter Marks except as expressly authorized herein without Twitter's prior consent. You will not remove or alter any proprietary notices or Twitter Marks on the Licensed Material.
 
-##### Off-Twitter matching
+**F. Security.** You will maintain the security of the Twitter API and will not make available to a third party, any token, key, password or other login credentials to the Twitter API. You will use industry standard security measures to prevent unauthorized access or use of any of the features and functionality of the Twitter API, including access by viruses, worms, or any other harmful code or material. Additionally, you will keep Twitter Content (including, where applicable, personal data) confidential and secure from unauthorized access by using industry-standard organizational and technical safeguards for such data, and with no less care than it uses in connection with securing similar data you store. You will immediately notify Twitter consult and cooperate with investigations, assist with any required notices, and provide any information reasonably requested by Twitter if you know of or suspects any breach of security or potential vulnerability related to the Licensed Material and will promptly remedy such breach or potential vulnerability resulting from Your access to the Licensed Material.
 
-**We limit the circumstances under which you may match a person on Twitter to information obtained or stored off-Twitter.** Off-Twitter matching involves associating Twitter Content, including a Twitter @handle or user ID, with a person, household, device, browser, or other off-Twitter identifier. You may only do this if you have express opt-in consent from the person before making the association, or as described below.
+###### III. Updates and Removals
 
-In situations in which you don’t have a person’s express, opt-in consent to link their Twitter identity to an off-Twitter identifier, we require that any connection you draw be based only on information that someone would reasonably expect to be used for that purpose. In addition, absent a person’s express opt-in consent you may only attempt to match your records about someone to a Twitter identity based on:
+**A. Updates.** You acknowledge that Twitter may update or modify the Licensed Materials from time to time, and at its sole discretion (in each instance, an “**Update**”). You are required to implement and use the most current version of the Licensed Materials and to make any changes to your Services that are required as a result of such Update, at your sole cost and expense. Updates may adversely affect the manner in which your Services access or communicate with the Twitter API or display Twitter Content. Your continued access or use of the Licensed Materials following an update or modification will constitute binding acceptance of the Update.
 
-*   **Information provided directly to you by the person.** Note that records about individuals with whom you have no prior relationship, including data about individuals obtained from third parties, do not meet this standard; and/or
-    
-*   **Public data.** “Public data” in this context refers to:
-    
-    *   Information about a person that you obtained from a public, generally-available resource (such as a directory of members of a professional association)
-        
-    *   Information on Twitter about a person that is publicly available, including:
-        
-        *   Tweets
-            
-        *   Profile information, including an account bio and publicly-stated location
-            
-        *   Display name and @handle
-            
+**B. Removals.** If Twitter Content is deleted, gains protected status, or is otherwise suspended, withheld, modified, or removed from the Twitter Applications (including removal of location information), you will make all reasonable efforts to delete or modify such Twitter Content (as applicable) as soon as possible, and in any case within 24 hours after a written request to do so by Twitter or by a Twitter user with regard to their Twitter Content, unless prohibited by applicable law or regulation and with the express written permission of Twitter.
 
-##### Your privacy policy
+###### IV. Ownership and Feedback
 
-**You must display your service’s privacy policy to people before they are permitted to download, install, or sign up to your service.** It must disclose at least the following information:
+**A. Ownership.** The Licensed Material is licensed, not sold, and Twitter retains and reserves all rights not expressly granted in this Agreement. You expressly acknowledge that Twitter, its licensors and its end users retain all worldwide right, title and interest in and to the Licensed Material, including all rights in patents, trademarks, trade names, copyrights, trade secrets, know-how, data (including all applications therefor), and all proprietary rights under the laws of the United States, any other jurisdiction or any treaty ("**IP Rights**"). You agree not to do anything inconsistent with such ownership, including without limitation, challenging Twitter’s ownership of the Twitter Marks, challenging the validity of the licenses granted herein, or otherwise copying or exploiting the Twitter Marks during or after the termination of this Agreement, except as specifically authorized herein. If you acquire any rights in the Twitter Marks or any confusingly similar marks, by operation of law or otherwise, you will, at no expense to Twitter, immediately assign such rights to Twitter.
 
-*   The information that you collect from people who use your service
-    
-*   How you use and share that information (including with Twitter)
-    
-*   How people can contact you with inquiries and requests regarding their information
-    
+**B. Feedback.** You may provide Twitter with comments concerning the Licensed Material, Twitter Applications or your evaluation and use thereof (collectively, "**Feedback**"). You hereby grant Twitter all rights, title and ownership of such Feedback (including all intellectual property rights therein), and Twitter may use the Feedback for any and all commercial and non-commercial purposes with no obligation of any kind to you.
 
-Your privacy policy must be consistent with all applicable laws, and be no less protective of people than [Twitter’s Privacy Policy](https://twitter.com/privacy) and the [privacy policy of our other services and corporate affiliates](https://help.twitter.com/en/rules-and-policies/twitter-services-and-corporate-affiliates). You must cease your access to the Twitter API and the use of all Twitter Content if you are unable to comply with your and/or Twitter’s Privacy Policy.
+**V. Termination.** Twitter may immediately terminate or suspend this Agreement, any rights granted herein, and/or your license to the Licensed Materials, at its sole discretion at any time, for any reason by providing notice to you. You may terminate this Agreement at any time by ceasing your access to the Twitter API and use of all Twitter Content. Upon termination of this Agreement, (a) all licenses granted herein immediately expire and you must cease use of all Licensed Materials; and (b) you shall permanently delete all Licensed Material and Twitter Marks in all forms and types of media, and copies thereof, in your possession. The parties to this Agreement will not be liable to each other for any damages resulting solely from termination of this Agreement as permitted under this Agreement. Sections II (Restrictions on Use of Licensed Materials), IV (Ownership and Feedback), V (Termination), VI (Confidentiality), VII (Compliance Audit), VIII (Warranty Disclaimer), IX (Indemnification), X (Limitation of Liability) and XII (Miscellaneous) of this Agreement will survive the termination of this Agreement.
 
-##### Using geo-data
+**VI. Confidentiality.** You may be given access to certain non-public information, software, and specifications relating to the Licensed Material (“**Confidential Information**”), which is confidential and proprietary to Twitter. You may use this Confidential Information only as necessary in exercising your rights granted in this Agreement. You may not disclose any of this Confidential Information to any third party without Twitter’s prior written consent. You agree that you will protect this Confidential Information from unauthorized use, access, or disclosure in the same manner that you would use to protect your own confidential and proprietary information of a similar nature and in no event with less than a reasonable degree of care.
 
-**Use of geo data comes with additional restrictions due to the sensitive nature of this information.** If your service adds location information to Tweets or Periscope Broadcasts, you must disclose to people:
+**VII. Compliance Audit.** Twitter, or a third party agent subject to obligations of confidentiality, shall be entitled to inspect and audit any records or activity related to your access to the Licensed Material for the purpose of verifying compliance with this Agreement. Twitter may exercise its audit right at any time upon notice. You will provide your full cooperation and assistance with such audit and provide access to all Licensed Material in your possession or control, applicable agreements and records. Without limiting the generality of the foregoing, as part of the audit, Twitter may request, and you agree to provide, a written report, signed by an authorized representative, listing your then-current deployment of the Licensed Material and Twitter Content. The rights and requirements of this section will survive for one (1) year following the termination of this Agreement.
 
-*   When you add location information
-    
-*   Whether you add location information as a geotag or annotations data
-    
-*   Whether your location information is listed as a place, or as geographic coordinates
-    
+**VIII. Warranty Disclaimer.** THE LICENSED MATERIAL IS PROVIDED TO YOU “AS IS”, “WHERE IS”, WITH ALL FAULTS AND EACH PARTY DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING WITHOUT LIMITATION WARRANTIES OF MERCHANTABILITY, NONINFRINGEMENT, FITNESS FOR A PARTICULAR PURPOSE, AND ANY WARRANTIES OR CONDITIONS ARISING OUT OF THIS AGREEMENT, COURSE OF DEALING OR USAGE OF TRADE. TWITTER DOES NOT WARRANT THAT THE LICENSED MATERIAL OR ANY OTHER TWITTER PRODUCT OR SERVICE PROVIDED HEREUNDER WILL MEET ANY OF YOUR REQUIREMENTS OR THAT USE OF SUCH LICENSED MATERIAL OR OTHER PRODUCTS OR SERVICES WILL BE ERROR-FREE, UNINTERRUPTED, VIRUS-FREE OR SECURE. THIS DISCLAIMER OF WARRANTY MAY NOT BE VALID IN SOME JURISDICTIONS AND YOU MAY HAVE WARRANTY RIGHTS UNDER LAW WHICH MAY NOT BE WAIVED OR DISCLAIMED. ANY SUCH WARRANTY EXTENDS ONLY FOR THIRTY (30) DAYS FROM THE EFFECTIVE DATE OF THIS AGREEMENT (UNLESS SUCH LAW PROVIDES OTHERWISE).
 
-If your application allows people to Tweet with their location you must comply with Twitter’s [geo guidelines](https://developer.twitter.com/en/developer-terms/geo-guidelines) in full. 
+**IX. Indemnification.** You shall defend Twitter against any and all actions, demands, claims and suits (including without limitation product liability claims), and indemnify and hold Twitter harmless from any and all liabilities, damages and costs (including without limitation reasonable attorneys' fees) to the extent arising out of: (i) your use of the Licensed Material in any manner that is inconsistent with this Agreement; or (ii) the performance, promotion, sale or distribution of your Services. In the event Twitter seeks indemnification or defense from you under this provision, Twitter will promptly notify you in writing of the claim(s) brought against Twitter for which it seeks indemnification or defense. Twitter reserves the right, at its option and sole discretion, to assume full control of the defense of claims with legal counsel of its choice. You may not enter into any third party agreement, which would, in any manner whatsoever, affect the rights of Twitter, constitute an admission of fault by Twitter or bind Twitter in any manner, without the prior written consent of Twitter. In the event Twitter assumes control of the defense of such claim, Twitter shall not settle any such claim requiring payment from you without your prior written approval.
 
-**Any use of location data or geographic information on a standalone basis is prohibited.** You may not (and may not permit others to) store, aggregate, or cache location data and other geographic information contained in Twitter Content, except as part of a Tweet or Periscope Broadcast. For example, you may not separate location data or geographic information out from Tweets to show where individuals have been over time. Heat maps and related tools that show aggregated geo activity (e.g.: the number of people in a city using a hashtag) are permitted.
+**X. Limitation of Liability.** IN NO EVENT WILL TWITTER BE LIABLE TO YOU OR ANY END USERS FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, PUNITIVE OR CONSEQUENTIAL DAMAGES OR ANY LOSS OF OR DAMAGE TO USE, DATA, BUSINESS, GOODWILL OR PROFITS ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT. IN ANY CASE, TWITTER'S AGGREGATE LIABILITY FOR ANY AND ALL CLAIMS UNDER THIS AGREEMENT WILL NOT EXCEED $50.00 USD. THE FOREGOING LIMITATIONS, EXCLUSIONS AND DISCLAIMERS SHALL APPLY REGARDLESS OF WHETHER SUCH LIABILITY ARISES FROM ANY CLAIM BASED UPON CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY OR OTHERWISE, AND WHETHER OR NOT TWITTER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSS OR DAMAGE. INSOFAR AS APPLICABLE LAW PROHIBITS ANY LIMITATION ON LIABILITY HEREIN, THE PARTIES AGREE THAT SUCH LIMITATION WILL BE AUTOMATICALLY MODIFIED, BUT ONLY TO THE EXTENT SO AS TO MAKE THE LIMITATION COMPLIANT WITH APPLICABLE LAW. THE PARTIES AGREE THAT THE LIMITATIONS ON LIABILITIES SET FORTH HEREIN ARE AGREED ALLOCATIONS OF RISK AND SUCH LIMITATIONS WILL APPLY NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY.
 
-##### Twitter passwords
+**XI. Agreement Updates.** Twitter may update or modify this Agreement or any of the Incorporated Developer Terms from time to time at its sole discretion by posting the changes on this site or by otherwise notifying you (such notice may be via email). You acknowledge that these updates and modifications may adversely affect how your Service accesses or communicates with the Twitter API. If any change is unacceptable to you, your only recourse is to cease all use of the Licensed Material. Your continued access or use of the Licensed Material will constitute binding acceptance of such updates and modifications.
 
-**You may not store Twitter passwords, or request that people provide their Twitter password, account credentials, or developer application information (including consumer key) to you directly.** We suggest the use of [Sign-in with Twitter](https://developer.twitter.com/en/docs/twitter-for-websites/log-in-with-twitter/login-in-with-twitter.html) as the authentication tool to link your service and people on Twitter.
+**XII. Miscellaneous.  
+A. Assignment.** You may not assign any of the rights or obligations granted hereunder, in whole or in part, whether voluntarily or by operation of law, contract, merger (whether you are the surviving or disappearing entity), stock or asset sale, consolidation, dissolution, through government action or otherwise, except with the prior written consent of Twitter, Inc. Twitter, Inc. is authorized to sign modifications and consents on behalf of Twitter International Company, an Irish company responsible for the information of Twitter users who live outside the United States. Any attempted assignment in violation of this paragraph is null and void, and Twitter may terminate this Agreement.
 
-Chapter 3:
+**B. User Protection.** Unless explicitly approved otherwise by Twitter in writing, you may not use, or knowingly display, distribute, or otherwise make Twitter Content, or information derived from Twitter Content, available to any entity for the purpose of: (a) conducting or providing surveillance or gathering intelligence, including but not limited to investigating or tracking Twitter users or Twitter Content; (b) conducting or providing analysis or research for any unlawful or discriminatory purpose, or in a manner that would be inconsistent with Twitter users' reasonable expectations of privacy; (c) monitoring sensitive events (including but not limited to protests, rallies, or community organizing meetings); or (d) targeting, segmenting, or profiling individuals based on sensitive personal information, including their health (e.g., pregnancy), negative financial status or condition, political affiliation or beliefs, racial or ethnic origin, religious or philosophical affiliation or beliefs, sex life or sexual orientation, trade union membership, Twitter Content relating to any alleged or actual commission of a crime, or any other sensitive categories of personal information prohibited by law.
 
-Platform usage guidelines
-=========================
+**C. Government Use.** If you will display, distribute, or otherwise make available any Twitter Content to End Users that are, or that act on behalf of, any government-related entity (each a “Government End User”), You will identify all such Government End Users when submitting that use case for review to Twitter and will thereafter notify Twitter in writing of any new Government End Users, and any new use cases with existing Government End Users, prior to the Services displaying, distributing, or otherwise making available any Twitter Content to a Government End User or for any new use case, and Twitter will have the right at anytime to prohibit you from making Twitter Content available to any  new Government End User. In no event shall your use, or knowingly display, distribute, or otherwise make Twitter Content, or information derived from Twitter Content, available to any Government End User whose primary function or mission includes conducting surveillance or gathering intelligence. If law enforcement personnel request information about Twitter or its users for the purposes of an ongoing investigation, You may refer them to Twitter’s Guidelines for Law Enforcement located at https://t.co/le. The Twitter API and Twitter Content are "commercial items" as that term is defined at 48 C.F.R. 2.101, consisting of "commercial computer software" and "commercial computer software documentation" as such terms are used in 48 C.F.R. 12.212.  Any use, modification, derivative, reproduction, release, performance, display, disclosure or distribution of the Twitter API or Twitter Content by any government entity is prohibited, except as expressly permitted by the terms of this Agreement. Additionally, any use by U.S. government entities must be in accordance with 48 C.F.R. 12.212 and 48 C.F.R. 227.7202-1 through 227.7202-4. If you use the Twitter API or Twitter Content in your official capacity as an employee or representative of a U.S., state or local government entity and you are legally unable to accept the indemnity, jurisdiction, venue or other clauses herein, then those clauses do not apply to such entity, but only to the extent as required by applicable law. Contractor/manufacturer is Twitter, Inc. 1355 Market Street, Suite 900, San Francisco, California 94103.
 
-*   [Platform usage guidelines](#4-a)
-*   [Spam, bots, and automation](#4-b)
-*   [Twitter performance benchmarking](#4-c)
-*   [Public display of Tweets](#4-d)
-*   [Content redistribution](#4-e)
-*   [Replicating the Twitter experience](#4-f)
-*   [Pay to Engage](#4-g)
-*   [Service authenticy](#4-h)
-*   [Twitter name, logo, and likeness](#4-j)
-*   [Advertising on Twitter](#4-k)
+**D. Compliance with Laws; Export and Import.** Each party will comply with all applicable foreign, federal, state, and local laws, rules and regulations, including without limitation, all applicable laws relating to bribery and/or corruption. The Licensed Material is subject to U.S. export laws and may be subject to import and use laws of the country where it is delivered or used. You agree to abide by these laws. Under these laws, the Licensed Material may not be sold, leased, downloaded, moved, exported, re-exported, or transferred across borders without a license, or approval from the relevant government authority, to any country or to any foreign national restricted by these laws, including countries embargoed by the U.S. Government (currently Cuba, Iran, North Korea, Northern Sudan and Syria); or to any restricted or denied end-user including, but not limited to, any person or entity prohibited by the U.S. Office of Foreign Assets Control; or for any restricted end-use. You will maintain all rights and licenses that are required with respect to your Services.
 
-*   [Platform usage guidelines](#4-a)
-*   [Spam, bots, and automation](#4-b)
-*   [Twitter performance benchmarking](#4-c)
-*   [Public display of Tweets](#4-d)
-*   [Content redistribution](#4-e)
-*   [Replicating the Twitter experience](#4-f)
-*   [Pay to Engage](#4-g)
-*   [Service authenticy](#4-h)
-*   [Twitter name, logo, and likeness](#4-j)
-*   [Advertising on Twitter](#4-k)
+**E. Data Protection Addendum.** Twitter International Company (“TIC”), an Irish registered company, controls some of the Twitter Content, as set forth in the Twitter Privacy Policy, and has authorized Twitter to license such Twitter Content under this Agreement (such Twitter Content is “Twitter European Data”). To the extent that you receive Twitter European Data, you agree that in addition to this Agreement, the Twitter Controller-to-Controller Data Protection Addendum located at [https://gdpr.twitter.com/en/controller-to-controller-transfers.html](https://gdpr.twitter.com/en/controller-to-controller-transfers.html) shall apply to Twitter European Data and is hereby incorporated by reference.
 
-##### Platform usage guidelines
+**F. Governing Law; Dispute Resolution.** This Agreement will be governed by and construed in accordance with the laws of the State of California, without regard to or application of conflicts of law rules or principles. Any dispute, claim or controversy arising out of or relating to this Agreement or the breach, termination, enforcement, interpretation or validity thereof, including the determination of the scope or applicability of this Agreement to arbitrate, shall be determined by arbitration in San Francisco, CA before a single arbitrator. The arbitration shall be administered by JAMS pursuant to its Comprehensive Arbitration Rules and Procedures. Judgment on the Award may be entered in any court having jurisdiction. You and Twitter hereby expressly waive trial by jury. As an alternative, you may bring your claim in your local "small claims" court, if permitted by that small claims court's rules. You may bring claims only on your own behalf, and unless Twitter agrees, the arbitrator may not consolidate more than one person's claims. Despite the foregoing, you agree that money damages would be an inadequate remedy for Twitter in the event of a breach or threatened breach of a provision of this Agreement protecting Twitter's intellectual property or Confidential Information, and that in the event of such a breach or threat, Twitter, in addition to any other remedies to which it is entitled, is entitled to such preliminary or injunctive relief (including an order prohibiting Company from taking actions in breach of such provisions), without the need for posting bond, and specific performance as may be appropriate. The parties agree that neither the United Nations Convention on Contracts for the International Sale of Goods, nor the Uniform Computer Information Transaction Act (UCITA) shall apply to this Agreement, regardless of the states in which the parties do business or are incorporated. No waiver by Twitter of any covenant or right under this Agreement will be effective unless memorialized in a writing duly authorized by Twitter.
 
-Have you taken care to review Twitter’s policies and set up your API access the right way? Does your service follow Twitter’s privacy and control guidelines? If you can answer yes to these two questions, then you are ready to start using the Twitter API and Twitter Content. Twitter’s Platform Usage Guidelines provide the assistance needed to ensure that your use of Twitter Content is compliant from day 1 throughout the lifecycle of your service. We suggest reviewing these rules on a regular basis to make sure that your integration is operating in a way that is safe and beneficial to people on Twitter and the Twitter platform as a whole.
+**G. Severability.** If any part of this Agreement is determined to be invalid or unenforceable by a court of competent jurisdiction, that provision will be enforced to the maximum extent permissible and the remaining provisions of this Agreement will remain in full force and effect.
 
-##### Spam, bots, and automation
-
-**The use of the Twitter API and developer products to create spam, or engage in any form of platform manipulation, is prohibited.** You should review the Twitter Rules on [platform manipulation and spam](https://help.twitter.com/en/rules-and-policies/platform-manipulation), and ensure that your service does not, and does not enable people to, violate our policies.
-
-**Services that perform write actions, including posting Tweets, following accounts, or sending Direct Messages, must follow the [Automation Rules](https://help.twitter.com/en/rules-and-policies/twitter-automation).** In particular, you should: 
-
-*   Always get explicit consent before sending people [automated replies or Direct Messages](https://twittercommunity.com/t/policy-clarification-automated-replies-and-mentions/94444)
-    
-*   Immediately respect requests to opt-out of being contacted by you
-    
-*   Never perform bulk, aggressive, or spammy actions, including [bulk following](https://twittercommunity.com/t/policy-clarification-aggressive-following-and-inorganic-following-behavior/92769)
-    
-*   Never post identical or substantially similar content across [multiple accounts](https://blog.twitter.com/developer/en_us/topics/tips/2018/automation-and-the-use-of-multiple-accounts.html)
-    
-
-**If you’re operating an API-based bot account you must clearly indicate what the account is and who is responsible for it.** You should never mislead or confuse people about whether your account is or is not a bot. A good way to do this is by including a statement that the account is a bot in the profile bio.
-
-##### Twitter performance benchmarking
-
-**You may not use the Twitter API to measure the availability, performance, functionality, or usage of Twitter for benchmarking, competitive, or commercial purposes.** For example, you should never use the Twitter API to:
-
-*   Calculate aggregate Twitter metrics, such as the total number of Monthly Actives (MAs) or Daily Actives (DAs)
-    
-*   Calculate aggregate Periscope metrics, such as total number of broadcast views
-    
-*   Calculate aggregate Twitter Tweet metrics, such as the total number of Tweets posted per day, or the number of account engagements
-    
-*   Measure or analyze the responsiveness of Twitter
-    
-*   Measure or analyze spam or security on Twitter, except as permitted below
-    
-
-**We support research that helps improve conversational health on Twitter.** You may use the Twitter API and Twitter Content to measure and analyze topics like spam, abuse, or other platform health-related topics for non-commercial research purposes. You may not develop, create, or offer commercial services using the Twitter API or Twitter Content that measure, analyze, or attempt to identify behaviors or content which violate Twitter policies without express written permission from Twitter.
-
-If you have questions about whether your use case qualifies as non-commercial research for this purpose please submit a request via the [API Policy Support form](https://help.twitter.com/forms/platform).
-
-##### Public display of Tweets
-
-**You must maintain the integrity of all Twitter Content that you display publicly or to people who use your service.** If you don’t use [Twitter for Websites](https://developer.twitter.com/en/docs/twitter-for-websites/overview) to display content, then you must use the Twitter API to retrieve the most current version available for display. If displayed content ceases to be available through the Twitter API, then you must remove it from your service as soon as reasonably possible, or within 24 hours after the receipt of a removal request from Twitter, or the applicable Twitter account owner, or as otherwise required by applicable law.
-
-**There are specific rules you must follow if you display Twitter Content offline.**  Follow the [guidelines](https://developer.twitter.com/en/developer-terms/display-requirements.html) for using Tweets in broadcast if you display Tweets offline. Follow the [guidelines](https://www.periscope.tv/trademarkpolicy) for using Periscope Broadcasts if you display Periscope Broadcasts offline.
-
-**If you embed or display Tweets, you must contact us about your Twitter API access if your site exceeds 10 million daily impressions.** Twitter reserves the right to require additional terms as a condition to your use of the Twitter API.  Additional restrictions on Twitter for Websites developer use include:
-
-*   **Embedded Tweets and/or embedded timelines**  
-      
-    *   You must provide people with legally sufficient notice that fully discloses Twitter’s collection and use of data about browsing activities on your website, including for interest-based advertising and personalization. You must also obtain legally sufficient consent from people for such collection and use  
-        
-    *   You must provide legally sufficient instructions on how people can opt out of Twitter’s interest-based advertising and personalization as described [here](https://help.twitter.com/en/twitter-for-websites-ads-info-and-privacy)  
-         
-*   **Twitter for Websites widgets**  
-      
-    *   You must ensure that people are provided with clear and comprehensive information about, and consent to, the storing and accessing of cookies or other information on their devices as described in Twitter’s [cookie use](https://help.twitter.com/en/rules-and-policies/twitter-cookies), where providing such information and obtaining such consent is required by law  
-         
-*   **Services targeted to children under 13**  
-      
-    *   Services targeted to children under 13 must opt out of tailoring Twitter in any embedded Tweet and/or embedded timelines by setting the opt-out parameter to be ‘true’ as described [here](https://developer.twitter.com/en/docs/twitter-for-websites/privacy)
-
-##### Content redistribution
-
-**The best place to get Twitter Content is directly from Twitter. Consequently, we restrict the redistribution of Twitter Content to third parties.**  If you provide Twitter Content to third parties, including downloadable datasets or via an API, you may only distribute Tweet IDs, Direct Message IDs, and/or User IDs (except as described below). We also grant special permissions to academic researchers sharing Tweet IDs and User IDs for non-commercial research purposes.
-
-In total, you may not distribute more than 1,500,000 Tweet IDs to any entity (inclusive of multiple individuals associated with a single entity) within any 30 day period unless you have received written permission from Twitter. In addition, all developers may provide up to 50,000 public Tweets Objects and/or User Objects to each person who uses your service on a daily basis if this is done via non-automated means (e.g., download of spreadsheets or PDFs).
-
-Academic researchers are permitted to distribute an unlimited number of Tweet IDs and/or User IDs if they are doing so on behalf of an academic institution and for the sole purpose of non-commercial research. For example, you are permitted to share an unlimited number of Tweet IDs for the purpose of enabling peer review or validation of your research. If you have questions about whether your use case qualifies under this category please submit a request via the [API Policy Support form](https://help.twitter.com/forms/platform).
-
-Any Twitter Content provided to third parties remains subject to this Policy, and those third parties must agree to the Twitter [Terms of Service](https://twitter.com/en/tos), [Privacy Policy](https://twitter.com/en/privacy), [Developer Agreement](https://developer.twitter.com/en/developer-terms/agreement), and [Developer Policy](https://developer.twitter.com/en/developer-terms/policy) before receiving such downloads. You may not enable any entity to circumvent any other limitations or restrictions on the distribution of Twitter Content as contained in this [Policy](https://developer.twitter.com/en/developer-terms/policy), the [Developer Agreement](https://developer.twitter.com/en/developer-terms/agreement), or any other agreement with Twitter.
-
-##### Replicating the Twitter experience
-
-**The best place to experience Twitter is on Twitter owned and operated (TOO) products.** As such, we discourage developers from building services that replicate Twitter’s core experience or features.
-
-**If you create a service that replicates Twitter’s core experience or features you will be subject to additional rules beyond what is already included in the Developer Policy.** In particular, you must:
-
-*   Obtain our permission to have more than 100,000 tokens. You may be subject to additional terms if this request is approved
-    
-*   Use the Twitter API for functionalities in your service that are substantially similar to Twitter features. This includes, but is not limited to, Tweets, follows, unfollows, retweets, likes, comments, and replies.
-    
-*   Display a prominent link or button in your service that directs new people to Twitter’s account creation page
-    
-
-**If you create a service that replicates Twitter’s core experience or features you may not do any of the following:**
-
-*   Pay, or offer to pay, third parties for distribution. This includes offering compensation for downloads (other than transactional fees) or other mechanisms of traffic acquisition
-    
-*   Arrange for your service to be pre-installed on any other device, promoted as a "zero-rated" service, or marketed as part of a specialized data plan
-    
-*   Use Twitter Content or other data collected from people to create or maintain a separate conversational platform, social network, status update, private messaging or live broadcasting database or service
-
-##### Pay to Engage
-
-**Your service shouldn’t compensate people to take actions on Twitter, as that results in inauthentic engagement that degrades the health of the platform.** As you use the Twitter API you may not sell or receive monetary or virtual compensation for any Twitter or Periscope actions. This includes, but is not limited to, Tweets, follows, unfollows, retweets, likes, comments, and replies.
-
-##### Service authenticy
-
-**You must clearly identify your service so that people can understand its source and purpose.** Don’t use names, logos, or URLs that mask your service’s identity and features, or that falsely imply an affiliation with Twitter or third parties. Note that creating applications for the purpose of selling names, or to prevent others from using names, is prohibited.
-
-**You may not use any URL (including shortened URLs) for your service that directs people to:**
-
-*   A site that is unrelated to your service
-    
-*   A spam or malware site
-    
-*   A site that encourages people to violate Twitter policy
-    
-
-##### Twitter name, logo, and likeness
-
-**You may only use and display the Twitter name and logo to identify Twitter as the source of Twitter Content.** You should never use the Twitter name and logo, the Twitter Official Partner Program badge, or any other similar marks or names in a manner that creates a false sense of endorsement, sponsorship, or association with Twitter. The Twitter [Brand Resources](https://about.twitter.com/en_us/company/brand-resources.html) contain detailed information to help you use the Twitter brand in the right way.
-
-**You may only use the Twitter Verified Account badge and any other enhanced account categorization as it is reported to you by Twitter through the API.** This helps people know that the content your service displays is equivalent to that shown on Twitter.
-
-##### Advertising on Twitter
-
-**There are restrictions regarding how and where you are allowed to advertise around Twitter Content.** To start, your advertisements can’t resemble or reasonably be confused by people as a Tweet or Periscope Broadcast. Other rules on advertising include:
-
-*   **There must be a clear separation between Twitter Content and your advertisements.** You may not place any advertisements within the Twitter timeline or on or within Periscope Broadcasts on your service other than Twitter Ads or advertisements made available through the official Twitter Kit integration with MoPub.
-    
-*   **Twitter reserves the right to serve advertising via the Twitter API.** If you decide to serve Twitter Ads once we start delivering them via the API, we will share a portion of advertising revenue with you in accordance with the relevant terms and conditions.
-    
-*   **You may not use Twitter Content, or information obtained from the Twitter API to target people with advertising outside of the Twitter platform.**
-    
-
-**You must [contact us](https://help.twitter.com/forms/platform) if you find that your service will require more than 1 million tokens.** Services that require more than 1 million tokens may be subject to additional terms regarding Twitter API access.
-
-Chapter 4:
-
-Rules for specific Twitter services or features
-===============================================
-
-*   [Twitter Login](#5-a)
-*   [Twitter Cards](#5-b)
-*   [Periscope Producer](#5-c)
-*   [Definitions](#5-d)
-
-*   [Twitter Login](#5-a)
-*   [Twitter Cards](#5-b)
-*   [Periscope Producer](#5-c)
-*   [Definitions](#5-d)
-
-The following additional rules apply for any use of the Twitter services or features listed below:
-
-##### Twitter Login  
-
-**You must present people with easy to find options to log into and out of Twitter, for example via the OAuth protocol.** The _Sign in with Twitter_ option must be displayed at least as prominently as any other sign-up or sign-in feature on your service. You must also provide people without a Twitter account the opportunity to create one via Twitter.
-
-**Once someone on your service authenticates via _Sign in with Twitter_ you must clearly display their Twitter identity.** Twitter identity includes the person’s current Twitter @handle, avatar, and Twitter logo. Any display of someone’s Twitter followers on your service must clearly show that the relationship is associated with Twitter.
-
-##### Twitter Cards
-
-**To ensure a quality experience you must develop your Card to render across all platforms where Cards are displayed.** Additional rules that you must follow when using Cards include:
-
-*   You must mark your Tweet as ‘true’ for sensitive media if you plan to display such media within a Card
-    
-*   You must use HTTPS for hosting all assets within your Card. Your Card should never generate active mixed content browser warnings
-    
-*   Audio and video content should include stop or pause controls, and default to ‘sound off’ for videos that automatically play content
-    
-
-**You may not exceed or circumvent Twitter’s limitations placed on any Cards, including the Card’s intended use.** Additional restrictions on Cards use include:
-
-*   You may not place third-party sponsored content within Cards without Twitter’s approval
-    
-*   You may not attach monetary incentives (including virtual currency) within your Card or on Twitter from your Card
-    
-*   You may not include content or actions within your Card that are misleading or not contextually relevant, such as URLs and media.
-    
-*   You may only attach an App Card to a Tweet when someone is explicitly promoting or referring to the app in the Tweet
-    
-
-##### Periscope Producer
-
-**You must [contact us](https://help.twitter.com/en/periscope-form) about your Twitter API access if you expect your service to exceed 10 million daily broadcasts.** You may be subject to additional terms if you exceed this threshold. Additional restrictions on Periscope developer use include:
-
-*   You must provide a reasonable user-agent, as described in the Periscope Producer technical documentation, for your service when accessing the Periscope API
-    
-*   You must honor requests from people to log out of their Periscope account on your service
-    
-*   You may not provide tools in your service to allow people to circumvent technological protection measures
-
-##### Definitions
-
-1.  **Twitter Content** ‒ Tweets, Tweet IDs, Twitter end user profile information, Periscope Broadcasts, Broadcast IDs and any other data and information made available to you through the Twitter API or by any other means authorized by Twitter, and any copies and derivative works thereof.
-    
-2.  **Developer Site** ‒ Twitter’s developer site located at [https://developer.twitter.com](https://developer.twitter.com/).
-    
-3.  **Periscope Broadcast** - A live or on-demand video stream that is publicly displayed on Twitter Applications and is generated by a user via Twitter’s Periscope Producer feature (as set forth at [https://help.periscope.tv/customer/en/portal/articles/2600293](https://help.periscope.tv/customer/en/portal/articles/2600293-what-is-periscope-producer)).
-    
-4.  **Services** ‒ Your websites, applications and other offerings that display Twitter Content or otherwise use the Licensed Material as explicitly approved by Twitter.
-    
-5.  **Tweet ID** ‒ A unique identification number generated for each Tweet.
-    
-6.  **Tweet** ‒ a posting made on Twitter Applications.
-    
-7.  **“Twitter”** means Twitter, Inc., with an office located at 1355 Market Street, Suite 900, San Francisco, CA, 94103, USA.  If you enter into this Agreement or an Order outside of the United States, Canada or Latin America, Twitter International Company with its registered offices at One Cumberland Place, Fenian Street, Dublin 2, D02 AX07, Ireland (“TIC”) is the contracting entity. 
-    
-8.  **Direct Message** - A message  that is privately sent on Twitter Applications by one end user to one or more specific end user(s) using Twitter’s Direct Message function.
-    
-9.  **Twitter API** ‒ The Twitter Application Programming Interface (“API”), Software Development Kit (“SDK”) and/or the related documentation, data, code, and other materials provided by Twitter with the API, as updated from time to time, including without limitation through the Developer Site.
-    
-10.  **Twitter Applications** ‒ Twitter’s consumer facing products, services, applications, websites, web pages, platforms, and other offerings, including without limitation, those offered via [https://twitter.com](https://twitter.com/) and Twitter’s mobile applications.
+**H. Entire Agreement.** This Agreement constitutes the entire agreement among the parties with respect to the subject matter and supersedes and merges all prior proposals, understandings and contemporaneous communications. Any modification to this Agreement must be in a writing signed by both you and Twitter, Inc. This Agreement does not create or imply any partnership, agency or joint venture.
