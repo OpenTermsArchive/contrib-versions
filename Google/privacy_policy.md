@@ -194,11 +194,11 @@ Your privacy controls
 
 You have choices regarding the information we collect and how it's used
 
-This section describes key controls for managing your privacy across our services. You can also visit the [Privacy Checkup](https://myaccount.google.com/privacycheckup?utm_source=pp&hl=en_US), which provides an opportunity to review and adjust important privacy settings. In addition to these tools, we also offer specific privacy settings in our products — you can learn more in our [Product Privacy Guide](technologies/product-privacy?hl=en-US).
+This section describes key controls for managing your privacy across our services. You can also visit the [Privacy Checkup](https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=Promo-in-product&utm_campaign=pp_body&hl=en_US), which provides an opportunity to review and adjust important privacy settings. In addition to these tools, we also offer specific privacy settings in our products — you can learn more in our [Product Privacy Guide](technologies/product-privacy?hl=en-US).
 
 ![](https://www.gstatic.com/policies/privacy/2951277d4c35389d7d304ed78d4fb6f6.svg)
 
-[Go to Privacy Checkup](https://myaccount.google.com/privacycheckup?utm_source=pp&hl=en_US)
+[Go to Privacy Checkup](https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=Promo-in-product&utm_campaign=pp_body&hl=en_US)
 
 Managing, reviewing, and updating your information
 --------------------------------------------------
@@ -471,7 +471,7 @@ Other useful resources
 The following links highlight useful resources for you to learn more about our practices and privacy settings.
 
 *   [Your Google Account](https://myaccount.google.com/?hl=en_US) is home to many of the settings you can use to manage your account
-*   [Privacy Checkup](https://myaccount.google.com/privacycheckup?utm_source=pp&hl=en_US) guides you through key privacy settings for your Google Account
+*   [Privacy Checkup](https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=Promo-in-product&utm_campaign=pp_body&hl=en_US) guides you through key privacy settings for your Google Account
 *   [Google’s safety center](https://www.google.com/intl/en/safetycenter/) helps you learn more about our built-in security, privacy controls, and tools to help set digital ground rules for your family online
 *   [Privacy & Terms](?hl=en-US) provides more context regarding this Privacy Policy and our Terms of Service
 *   [Technologies](technologies?hl=en-US) includes more information about:
