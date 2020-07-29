@@ -168,294 +168,37 @@ Categories: The cookies used on our website fall into one of four categories: Es
 Please check out the table below to receive more information about the type, categories, purpose and duration of cookies placed by DeviantArt and Third Party Services.  
   
 
-Type
-
-Name
-
-Purpose
-
-Duration
-
-Cookie
-
-auth
-
-Identify logged users
-
-1 month
-
-Essential
-
-Cookie
-
-auth\_secure
-
-Security
-
-never
-
-Essential
-
-Cookie
-
-userinfo
-
-Identify logged users
-
-1 month
-
-Essential
-
-Cookie
-
-td
-
-image grid sizing for SSR (eclipse)
-
-session
-
-Essential
-
-Cookie
-
-tw
-
-image grid sizing for SSR (green site)
-
-7 day
-
-Essential
-
-Cookie
-
-hubtoken
-
-websocket push messages
-
-session
-
-Essential
-
-Cookie
-
-tpc
-
-Oauth login for stash
-
-session
-
-Essential
-
-Cookie
-
-vd
-
-Used for Advertising
-
-1 month
-
-Marketing
-
-Local Storage
-
-chatDB
-
-Allow chat feature
-
-persistent
-
-Essential
-
-Local Storage
-
-console\_dapi\_recent, console\_recent
-
-Recently used endpoints list in API developer console
-
-persistent
-
-Performance
-
-Local Storage
-
-custombox.recent.colors
-
-Remembers colors used in custom boxes
-
-persistent
-
-Functional
-
-Local Storage
-
-FilmQuality
-
-Allow the use of player settings
-
-persistent
-
-Essential
-
-Local Storage
-
-statusUpdateSubmitCounter
-
-Number of status updates submitted via eclipse
-
-persistent
-
-Functional
-
-Local Storage
-
-intents, intents\_other
-
-List of signup intents selected by user
-
-persistent
-
-Essential
+| Type | Name | Purpose | Duration |     |
+| --- | --- | --- | --- | --- |
+| Cookie | auth | Identify logged users | 1 month | Essential |
+| Cookie | auth\_secure | Security | never | Essential |
+| Cookie | userinfo | Identify logged users | 1 month | Essential |
+| Cookie | td  | image grid sizing for SSR (eclipse) | session | Essential |
+| Cookie | tw  | image grid sizing for SSR (green site) | 7 day | Essential |
+| Cookie | hubtoken | websocket push messages | session | Essential |
+| Cookie | tpc | Oauth login for stash | session | Essential |
+| Cookie | vd  | Used for Advertising | 1 month | Marketing |
+| Local Storage | chatDB | Allow chat feature | persistent | Essential |
+| Local Storage | console\_dapi\_recent, console\_recent | Recently used endpoints list in API developer console | persistent | Performance |
+| Local Storage | custombox.recent.colors | Remembers colors used in custom boxes | persistent | Functional |
+| Local Storage | FilmQuality | Allow the use of player settings | persistent | Essential |
+| Local Storage | statusUpdateSubmitCounter | Number of status updates submitted via eclipse | persistent | Functional |
+| Local Storage | intents, intents\_other | List of signup intents selected by user | persistent | Essential |
 
 Third Party Cookies:
 
-Type
-
-Name
-
-Third party
-
-Purpose
-
-Duration
-
-Beacon and Cookie
-
-\_pxhd
-
-PerimeterX  
-([https://www.perimeterx.com/legal/privacy/](https://www.perimeterx.com/legal/privacy/))
-
-Security
-
-1 y
-
-Essential
-
-Beacon and Cookie
-
-\_ga, \_gat, \_gid, \_utm\*
-
-Google Analytics  
-([https://policies.google.com/privacy?hl=en-US](https://policies.google.com/privacy?hl=en-US))
-
-Analytics
-
-2y
-
-Performance
-
-Beacon and Cookie
-
-r/collect
-
-Google Doubleclick Ads (through Google Analytics)  
-[https://policies.google.com/privacy?hl=en-US](https://policies.google.com/privacy?hl=en-US)
-
-Analytics
-
-session
-
-Marketing
-
-Beacon and Cookie
-
-large number, varies
-
-Google Doubleclick Ads and other Ads networks  
-[https://policies.google.com/privacy?hl=en-US](https://policies.google.com/privacy?hl=en-US)
-
-Advertising
-
-varies
-
-Marketing
-
-Beacon and Cookie
-
-JSESSIONID
-
-New Relic  
-([https://newrelic.com/termsandconditions/privacy](https://newrelic.com/termsandconditions/privacy))
-
-System Monitoring
-
-session
-
-Essential
-
-Script and Cookie
-
-TS#, XSRF-TOKEN,
-
-Wix.com  
-[https://www.wix.com/about/privacy](https://www.wix.com/about/privacy)
-
-Security
-
-session
-
-Essential
-
-Script and Cookie
-
-frog.wix.com
-
-Wix.com  
-[https://www.wix.com/about/privacy](https://www.wix.com/about/privacy)
-
-Identify logged users
-
-persistent
-
-Essential
-
-Script and Cookie
-
-fed,fedops.logger.sessionId
-
-Wix.com  
-[https://www.wix.com/about/privacy](https://www.wix.com/about/privacy)
-
-System monitoring
-
-persistent
-
-Essential
-
-Local Storage
-
-debug, debugpanel-height, debugpanel-tab, debugpanel-visible
-
-Wix.com  
-[https://www.wix.com/about/privacy](https://www.wix.com/about/privacy)
-
-System Monitoring
-
-persistent
-
-Essential
-
-Local Storage
-
-firebase:host:wix-engage-visitors-prod-27.firebaseio.com
-
-Wix.com
-
-Allow the Chat feature
-
-persistent
-
-Essential
+| Type | Name | Third party | Purpose | Duration |     |
+| --- | --- | --- | --- | --- | --- |
+| Beacon and Cookie | \_pxhd | PerimeterX  <br>([https://www.perimeterx.com/legal/privacy/](https://www.perimeterx.com/legal/privacy/)) | Security | 1 y | Essential |
+| Beacon and Cookie | \_ga, \_gat, \_gid, \_utm\* | Google Analytics  <br>([https://policies.google.com/privacy?hl=en-US](https://policies.google.com/privacy?hl=en-US)) | Analytics | 2y  | Performance |
+| Beacon and Cookie | r/collect | Google Doubleclick Ads (through Google Analytics)  <br>[https://policies.google.com/privacy?hl=en-US](https://policies.google.com/privacy?hl=en-US) | Analytics | session | Marketing |
+| Beacon and Cookie | large number, varies | Google Doubleclick Ads and other Ads networks  <br>[https://policies.google.com/privacy?hl=en-US](https://policies.google.com/privacy?hl=en-US) | Advertising | varies | Marketing |
+| Beacon and Cookie | JSESSIONID | New Relic  <br>([https://newrelic.com/termsandconditions/privacy](https://newrelic.com/termsandconditions/privacy)) | System Monitoring | session | Essential |
+| Script and Cookie | TS#, XSRF-TOKEN, | Wix.com  <br>[https://www.wix.com/about/privacy](https://www.wix.com/about/privacy) | Security | session | Essential |
+| Script and Cookie | frog.wix.com | Wix.com  <br>[https://www.wix.com/about/privacy](https://www.wix.com/about/privacy) | Identify logged users | persistent | Essential |
+| Script and Cookie | fed,fedops.logger.sessionId | Wix.com  <br>[https://www.wix.com/about/privacy](https://www.wix.com/about/privacy) | System monitoring | persistent | Essential |
+| Local Storage | debug, debugpanel-height, debugpanel-tab, debugpanel-visible | Wix.com  <br>[https://www.wix.com/about/privacy](https://www.wix.com/about/privacy) | System Monitoring | persistent | Essential |
+| Local Storage | firebase:host:wix-engage-visitors-prod-27.firebaseio.com | Wix.com | Allow the Chat feature | persistent | Essential |
 
 Your Choices  
 You can change your cookie settings by clicking in this [link](https://deviantart.com/settings/cookies)
