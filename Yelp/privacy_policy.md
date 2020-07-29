@@ -46,33 +46,14 @@ When you use the Service, you consent to our collection, use, and disclosure of 
     
     The purposes for which we use Cookies in the Service include:
     
-    Purpose
-    
-    Explanation
-    
-    Processes
-    
-    Intended to make the Service work in the way you expect. For example, we use a Cookie that tells us whether you have already signed up for an account.
-    
-    Authentication, Security, and Compliance
-    
-    Intended to prevent fraud, protect your data from unauthorized parties, and comply with legal requirements. For example, we use Cookies to determine if you are logged in.
-    
-    Preferences
-    
-    Intended to remember information about how you prefer the Service to behave and look. For example, we use a Cookie that tells us whether you have declined to allow us to send push notifications to your phone.
-    
-    Notifications
-    
-    Intended to allow or prevent notices of information or options that we think could improve your use of the Service. For example, we use a Cookie that stops us from showing you the signup notification if you have already seen it.
-    
-    Advertising
-    
-    Intended to make advertising more relevant to users and more valuable to advertisers. For example, we may use Cookies to serve you interest-based ads, such as ads that are displayed to you based on your visits to other websites, or to tell us if you have recently interacted with an ad.
-    
-    Analytics
-    
-    Intended to help us understand how visitors use the Service. For example, we use a Cookie that tells us how our search suggestions correlate to your interactions with the search page.
+    | Purpose | Explanation |
+    | --- | --- |
+    | Processes | Intended to make the Service work in the way you expect. For example, we use a Cookie that tells us whether you have already signed up for an account. |
+    | Authentication, Security, and Compliance | Intended to prevent fraud, protect your data from unauthorized parties, and comply with legal requirements. For example, we use Cookies to determine if you are logged in. |
+    | Preferences | Intended to remember information about how you prefer the Service to behave and look. For example, we use a Cookie that tells us whether you have declined to allow us to send push notifications to your phone. |
+    | Notifications | Intended to allow or prevent notices of information or options that we think could improve your use of the Service. For example, we use a Cookie that stops us from showing you the signup notification if you have already seen it. |
+    | Advertising | Intended to make advertising more relevant to users and more valuable to advertisers. For example, we may use Cookies to serve you interest-based ads, such as ads that are displayed to you based on your visits to other websites, or to tell us if you have recently interacted with an ad. |
+    | Analytics | Intended to help us understand how visitors use the Service. For example, we use a Cookie that tells us how our search suggestions correlate to your interactions with the search page. |
     
     You can set some Cookie preferences through your device or browser settings, but doing so may affect the functionality of the Service. The method for disabling Cookies may vary by device and browser, but can usually be found in your device or browser preferences or security settings. For example, iOS and Android devices each have settings which are designed to limit forms of ad tracking. For flash cookies, you can manage your privacy settings by clicking [here](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118). Please note that changing any of these settings does not prevent the display of certain advertisements to you.
     
