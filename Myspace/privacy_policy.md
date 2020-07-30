@@ -19,7 +19,7 @@ Some of the key topics you may be interested in include:
 *   [Cross-border transfers of information](#8)
 *   [This Notice may change](#9)
 
-2.  Information you share with us
+1.  Information you share with us
     1.  Account Information
         
         You don’t have to create an account to use some of our Services, such as searching and viewing public Myspace profiles, reading new stories or watching videos. If you do choose to create an account, we collect personal data that you provide when you register for the Myspace Services and when you complete your user profile, so that we can provide the Services to you. This information includes your name, age, location, gender, email address, and password. As noted in our Terms of Service, Myspace currently makes all profiles of Members aged 18 and older public by default, and unless you change your profile to “restricted” all of your profile activity will be visible other users, including your connections, portfolio, posts, photos, and mixes you create. Any content you contribute to another Member’s public profile or content another Member provides that mentions you will also be public for as long as it remains on Myspace.
@@ -38,9 +38,7 @@ Some of the key topics you may be interested in include:
         
         If you email us, we will keep the content of your message, your email address, and your contact information to respond to your request.
         
-  
-
-6.  Additional Information We Receive About You
+2.  Additional Information We Receive About You
     1.  Automatically Collected Information
         
         We also collect data via automatic means (described below in “Cookies and other Web Technologies”) when you use the Myspace Services or click on links to third party websites from the websites that are part of the Myspace Services. Some of this information relates to the devices that you use to access the Myspace Services, such as a computer, mobile phone, tablet, smart TV or other electronic device. (We use the term “**Device**” in this Notice to refer to any of these.)
@@ -64,9 +62,7 @@ Some of the key topics you may be interested in include:
         
         We receive information when you view content on or otherwise interact with our Services, which we refer to as "Log Data.” For example, when you visit our website, sign into our Services, sign into facebook through your account, or interact with our email notifications, we may receive information about you. Log Data includes information such as your IP address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, device information (including device and application IDs), search terms, and cookie information. We use Log Data to operate our Services, personalize your content, and optimize the performance of our Services.
         
-  
-
-10.  How We Use, Share, and Disclose Your Information
+3.  How We Use, Share, and Disclose Your Information
     
     As noted above, Myspace is predominantly a public community. In the limited circumstances where we disclose your personal data, we do so subject to your control, because it’s necessary to operate our Services or our business, or because it’s required by law.
     
@@ -98,9 +94,7 @@ Some of the key topics you may be interested in include:
         
         We share your non-personal information, such as aggregated information (a statistical or summary form that does not include any personal identifiers) with third parties in order to identify trending topics or report to our advertising partners about how many people saw or clicked on an ad. While we do not target EEA residents with advertisements based on your interests or behaviors. However, Myspace is a free service that is supported by advertising revenues, so you will still see ads. They just will not be tailored to your interests.
         
-  
-
-14.  Your Data Subject Rights
+4.  Your Data Subject Rights
     
     You control the personal data you share with us. You can object to our processing of your data, request that our processing be restricted, review or request changes to your personal data, or request that your account be deleted and we erase your data by contacting us at [dpo@myspace.com](mailto:DPO@myspace.com). You may also download a copy of your profile by logging onto your account and clicking the "Download Data" button on your profile. As noted above, you may opt out of receiving direct marketing emails from our partners by clicking [here](/settings/privacy).
     
@@ -112,28 +106,23 @@ Some of the key topics you may be interested in include:
     
     For more information on your rights, please contact [dpo@myspace.com](mailto:DPO@myspace.com).
     
-
-17.  Children’s Information
+5.  Children’s Information
     
     We are very sensitive to the importance of children’s privacy. Our websites, products, and services are neither developed for, nor directed at, children. We do not knowingly employ or offer services to or collect information from children under the age of 16, and as a result of recent changes in European Data Protection Law will no longer be offering Memberships to EEA residents under 16 years of age. If you are under 16 and would like to download your profile information please click [here](/profile-download). If you believe your child has provided us with personally identifiable information, or registered at our Site, please contact us at [privacy@myspace.com](mailto:privacy@myspace.com) to have the data provided by and associated with your child deleted.
     
-
-20.  How we secure your information
+6.  How we secure your information
     
     Myspace uses a variety of technical and organizational measures to protect information from unauthorized access, use or disclosure, both during transmission and once we receive it. We store your information on secure servers and encrypt it while in transit. However, no digital transmission or form of electronic storage is completely secure. Therefore, we cannot guarantee its absolute security.
     
-
-23.  How long we keep your information
+7.  How long we keep your information
     
     We use and disclose your media content consumption information for up to two years from the date on which you consent unless you otherwise withdraw your consent. If we obtain a new consent from you after the date that we obtain your original consent, this period will be extended for additional two year periods each time we obtain a new consent from you. Please review the terms of our Video Privacy Policy, which supplements this Notice. If your account is inactive for over two years, we still store your media content consumption information for a reasonable period of time so that it will be available again if you reactivate your account. Data for inactive accounts is stored for a maximum of five years from the date of last activity, but we are not obligated to store such data for the entire five year period. If you had a Myspace profile before 2013, data pertaining to fields that were not migrated from classic Myspace to our redesigned Site (messages, comments, blogs, games, posts, and customizable background art) are no longer available for retrieval or download. Audio files, photos, and videos that were uploaded to user profiles more than three years ago and flash video files are also no longer available. For retrieval or download. Log data is stored for 90 days.
     
-
-26.  Cross-Border Transfers of Personal Information
+8.  Cross-Border Transfers of Personal Information
     
     Myspace is a global service headquartered in the United States and where the laws of your country allow us to do so, you authorize us to transfer, disclose, store and use your personal data in the United States and any other country where we operate or engage service providers to assist us with the Service consistent with this Notice. For example, our customer support is provided by contractors located in the Philippines. Please be aware that the laws of the USA and other countries outside of the EEA may not protect your data to the same level as the laws of the EEA, or give you the same rights that you would have in the EEA (including right relating to access to personal data by law enforcement or national security/intelligence agencies). But when we transfer your personal data outside of the EEA, if the receiving country’s data protection laws do not offer the same level of protection as the laws of the EEA, we place contractual obligations (the EU Model Clauses) on the recipients of your personal data to ensure that your personal data is adequately protected.
     
-
-29.  This Notice may change
+9.  This Notice may change
     
     We may revise this Notice from time to time. If we make a change that is in our sole discretion material, we will notify you by sending you an e-mail or via a banner, pop-up box or another easy-to-spot notice when you log into your Myspace account or visit the Myspace home page. By continuing to access the Services after those changes become effective, you agree to be bound by the revised Privacy Notice.
     
