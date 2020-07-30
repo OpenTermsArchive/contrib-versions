@@ -164,7 +164,7 @@ Because we offer a variety of Services, you may be asked to agree to additional 
 
 If you use Reddit Premium or Virtual Goods, you must also agree to our [Terms for Reddit Premium and Virtual Goods](https://www.redditinc.com/policies/reddit-premium-and-virtual-goods-agreement-september-18-2018).
 
-If you use the self-service platform for advertising, you must also agree to our [Terms for Self-Service Advertising](https://www.reddithelp.com/en/categories/advertising/policy-and-guidelines/advertising-terms-ads-platform).
+If you use the self-service platform for advertising, you must also agree to our [Terms for Self-Service Advertising](https://advertising.reddithelp.com/en/categories/policy-guidelines/advertising-terms-ads-platform).
 
 If you use our public API, you must also agree to our [Reddit API Terms of Use](https://docs.google.com/a/reddit.com/forms/d/e/1FAIpQLSezNdDNK1-P8mspSbmtC2r86Ee9ZRbC66u929cG2GX0T9UMyw/viewform).
 
