@@ -9,7 +9,7 @@ _Last updated: July 2020_
 
 Welcome to TikTok (the “Platform”). We are committed to protecting and respecting your privacy and this policy sets out the basis on which we process any personal data we collect from you, or that you provide to us. Where we refer to “TikTok”, “we” or “us” in this Privacy Policy, we mean TikTok Technology Limited, an Irish company (“TikTok Ireland”), and TikTok Information Technologies UK Limited (“TikTok UK”), a UK company.
 
-To see the full Privacy Policy, click [here](https://mint.bytedance.net/tools/webposts/Legal/6745034005269186561/6834438526793156613#section-1).
+To see the full Privacy Policy, click [here](#section-1).
 
 If you are between 13 and 18 years old, we have also prepared a separate summary of this policy and what it means for you. It is available in the app under the ‘Privacy Policy’ tab.
 
@@ -18,7 +18,7 @@ If you are between 13 and 18 years old, we have also prepared a separate summary
 
 ### **What information do we collect about you?**
 
-We collect and process information you give us when you create an account and use the Platform. This includes technical and behavioural information about your use of the Platform. We also collect information about you if you download the app and use the Platform without creating an account. For more information, click [here](https://mint.bytedance.net/tools/webposts/Legal/6745034005269186561/6834438526793156613#section-1).
+We collect and process information you give us when you create an account and use the Platform. This includes technical and behavioural information about your use of the Platform. We also collect information about you if you download the app and use the Platform without creating an account. For more information, click [here](#section-1).
 
 ### **How will we use the information about you?**
 
