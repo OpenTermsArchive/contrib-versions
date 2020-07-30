@@ -43,7 +43,7 @@ Telegram is a communication service. You provide your mobile number and basic ac
 
 To make it easier for your contacts and other people to reach you and recognize who you are, the screen name you choose, your profile pictures, and your [username](https://telegram.org/faq#usernames-and-t-me) (should you choose to set one) on Telegram are always public. We don't want to know your real name, gender, age or what you like.
 
-We do **not** require your screen name to be your real name. Note that users who have you in their contacts will see you by the name they saved and not by your screen name. This way your mother can have the public name ‘Johnny Depp’ while appearing as ‘Mom’ to you and as ‘Boss’ to her underlings at work (or the other way around, depending on how these relationships are structured).
+We do **not** require your screen name to be your real name. Note that users who have you in their contacts will see you by the name they saved and not by your screen name. This way your mother can have the public name 'Johnny Depp' while appearing as 'Mom' to you and as 'Boss' to her underlings at work (or the other way around, depending on how these relationships are structured).
 
 #### [](#3-2-your-e-mail-address)3.2. Your E-mail Address
 
@@ -73,7 +73,7 @@ Telegram uses phone numbers as unique identifiers so that it is easy for you to 
 
 We store your up-to-date contacts in order to notify you as soon as one of your contacts signs up for Telegram and to properly display names in notifications. We only need the number and name (first and last) for this to work and store no other data about your contacts.
 
-Our automatic algorithms can also use anonymized sets of phone numbers to calculate the average number of potential contacts an unregistered phone number may have on Telegram. When you open the ‘Invite friends’ interface, we display the resulting statistics next to your contacts to give you an idea of who could benefit most from joining Telegram.
+Our automatic algorithms can also use anonymized sets of phone numbers to calculate the average number of potential contacts an unregistered phone number may have on Telegram. When you open the 'Invite friends' interface, we display the resulting statistics next to your contacts to give you an idea of who could benefit most from joining Telegram.
 
 You can always stop syncing contacts or delete them from our servers in Settings > Privacy & Security > Data Settings.
 
@@ -105,7 +105,7 @@ Telegram is a cloud service. We will process your data to deliver your cloud cha
 
 #### [](#5-2-safety-and-security)5.2. Safety and Security
 
-Telegram supports massive communities which we have to police against abuse and Terms of Service violations. Telegram also has more than [200 million](https://telegram.org/blog/200-million) users which makes it a lucrative target for spammers. To improve the security of your account, as well as to prevent [spam](https://telegram.org/faq_spam), abuse, and other violations of our Terms of Service, we may collect metadata such as your IP address, devices and Telegram apps you've used, history of username changes, etc. If collected, this metadata can be kept for 12 months maximum.
+Telegram supports massive communities which we have to police against abuse and Terms of Service violations. Telegram also has more than [400 million](https://telegram.org/blog/400-million) users which makes it a lucrative target for spammers. To improve the security of your account, as well as to prevent [spam](https://telegram.org/faq_spam), abuse, and other violations of our Terms of Service, we may collect metadata such as your IP address, devices and Telegram apps you've used, history of username changes, etc. If collected, this metadata can be kept for 12 months maximum.
 
 #### [](#5-3-spam-and-abuse)5.3. Spam and Abuse
 
@@ -163,7 +163,7 @@ The [Payment Platform for Bots](https://core.telegram.org/bots/payments) is avai
 
 #### [](#7-2-credit-card-information)7.2. Credit Card Information
 
-When making a purchase, you enter your credit card details into a form supplied by the payment provider that will be processing the payment, and this information goes directly to the payment provider‘s server. Your credit card information never reaches Telegram’s servers. We do not access and do not store your credit card information. When you save your credit card info, it is saved on the respective payment provider's servers and the payment provider gives Telegram a _token_ that you can reuse for future payments. It is not possible to reconstruct your credit card info from the token.
+When making a purchase, you enter your credit card details into a form supplied by the payment provider that will be processing the payment, and this information goes directly to the payment provider's server. Your credit card information never reaches Telegram's servers. We do not access and do not store your credit card information. When you save your credit card info, it is saved on the respective payment provider's servers and the payment provider gives Telegram a _token_ that you can reuse for future payments. It is not possible to reconstruct your credit card info from the token.
 
 #### [](#7-3-shipping-information)7.3 Shipping Information
 
@@ -205,7 +205,7 @@ If you wish to exercise any of these rights, kindly contact us using the details
 
 You can control how your data is used (e.g., delete synced contacts) in _Settings > Privacy & Security > Data Settings_ (using one of our mobile apps).
 
-Sadly, if you‘re generally not OK with Telegram’s modest requirements, it won't be possible for us to provide you with our Services. You can delete your Telegram account by proceeding to the [deactivation page](https://telegram.org/deactivate).
+Sadly, if you're generally not OK with Telegram's modest requirements, it won't be possible for us to provide you with our Services. You can delete your Telegram account by proceeding to the [deactivation page](https://telegram.org/deactivate).
 
 ### [](#10-deleting-data)10\. Deleting data
 
@@ -216,7 +216,7 @@ If you would like to delete your account, you can do this on the [deactivation p
 #### [](#10-2-messages)10.2. Messages
 
 *   In secret chats, deleting a message always instructs the app on the other end to delete it too.
-*   In cloud chats, you can choose to delete a message for all participants within at least 48 hours after sending. Otherwise, deleting a message will delete it from your message history. This means that a copy will stay on the server as part of your partner‘s message history. As soon as your partner deletes it too, it’s gone forever.
+*   In cloud chats, you can choose to delete a message for all participants within at least 48 hours after sending. Otherwise, deleting a message will delete it from your message history. This means that a copy will stay on the server as part of your partner's message history. As soon as your partner deletes it too, it's gone forever.
 *   As of [version 5.5](https://telegram.org/blog/unsend-privacy-emoji), any party can choose to delete any messages in one-on-one chats, both sent and received, for both sides. There is no time limit. Any party can also opt to clear the entire chat history for both parties, in which case the apps will be instructed to remove all messages in that chat, however many of them are still retained by either of the participants.
 *   In [supergroups](https://telegram.org/blog/supergroups) and channels, deleting a message removes it for all participants. Note that deleted messages and original versions of edited messages from supergroups are stored for 48 hours after deletion in order to be shown in the [admins log](https://telegram.org/blog/admin-revolution#recent-admin-actions).
 
