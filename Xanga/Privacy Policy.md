@@ -7,13 +7,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   6 years ago
     *   in Data Migration
     *   0 votes
-    *   14 (last comment by IshaArie 4 hours ago)
+    *   14 (last comment by IshaArie 1 day ago)
 *   Old Xanga archived?
     *   by yourmomisreallyfreakinhott
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   5 (last comment by HrsCrazy425 8 hours ago)
+    *   5 (last comment by HrsCrazy425 1 day ago)
 *   Missing my blogs
     *   by Dantheman3121
     *   2 weeks ago
@@ -22,7 +22,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Please reactivate my xanga
     *   by ayisecret
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Themes
     *   0 votes
     *   0
@@ -34,7 +34,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   missing my blogs :(
     *   by screaming\_pretty\_n0things
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
