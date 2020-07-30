@@ -22,23 +22,23 @@ We collect and process information you give us when you create an account and us
 
 ### **How will we use the information about you?**
 
-We use your information to provide the Platform to you and to improve and administer it. In order to provide an effective and dynamic Platform, and where we have determined it is in our legitimate interests, we use your information to improve and develop the Platform, prevent crime and ensure users’ safety. Where we have your consent, we will also use your personal data to serve you targeted advertising and promote the Platform. For more information on how your information is used, click [here](https://mint.bytedance.net/tools/webposts/Legal/6745034005269186561/6834438526793156613#section-3).
+We use your information to provide the Platform to you and to improve and administer it. In order to provide an effective and dynamic Platform, and where we have determined it is in our legitimate interests, we use your information to improve and develop the Platform, prevent crime and ensure users’ safety. Where we have your consent, we will also use your personal data to serve you targeted advertising and promote the Platform. For more information on how your information is used, click [here](#section-3).
 
 ### **Who do we share your information with?**
 
-We share your data with third party service providers who help us to deliver the Platform including cloud storage providers. We also share your information with business partners, other companies in the same group as TikTok (including TikTok Inc in the US which provides certain services for us in connection with the Platform), content moderation services, measurement providers, advertisers and analytics providers. We may share your information with law enforcement agencies, public authorities or with other third parties only where we are legally required to do so or if such use is reasonably necessary (for instance, to ensure your or someone else’s safety). For more information, click [here](https://mint.bytedance.net/tools/webposts/Legal/6745034005269186561/6834438526793156613#section-4).
+We share your data with third party service providers who help us to deliver the Platform including cloud storage providers. We also share your information with business partners, other companies in the same group as TikTok (including TikTok Inc in the US which provides certain services for us in connection with the Platform), content moderation services, measurement providers, advertisers and analytics providers. We may share your information with law enforcement agencies, public authorities or with other third parties only where we are legally required to do so or if such use is reasonably necessary (for instance, to ensure your or someone else’s safety). For more information, click [here](#section-4).
 
 ### **Your Rights**
 
-We offer you settings to control and manage the personal data we have about you. You also have the following rights: you can ask us to delete your data; to change or correct your data; to provide a copy of your data and to stop using some or all of your data. For more information about how to make these requests, click [here](https://mint.bytedance.net/tools/webposts/Legal/6745034005269186561/6834438526793156613#section-6). You can also contact us using the contact information below, and we will review your request in accordance with applicable laws.
+We offer you settings to control and manage the personal data we have about you. You also have the following rights: you can ask us to delete your data; to change or correct your data; to provide a copy of your data and to stop using some or all of your data. For more information about how to make these requests, click [here](#section-6). You can also contact us using the contact information below, and we will review your request in accordance with applicable laws.
 
 ### **How long do we keep hold of your information?**
 
-We retain your information for as long as it is necessary to provide you with the service so that we can fulfil our contractual obligations and exercise our rights in relation to the information involved. Where we do not need your information in order to provide the service to you, we retain it only as long as we have a legitimate business purpose in keeping such data or where we are subject to a legal obligation to retain the data. We will also retain your data if necessary for legal claims. For more information, click [here](https://mint.bytedance.net/tools/webposts/Legal/6745034005269186561/6834438526793156613#section-8).
+We retain your information for as long as it is necessary to provide you with the service so that we can fulfil our contractual obligations and exercise our rights in relation to the information involved. Where we do not need your information in order to provide the service to you, we retain it only as long as we have a legitimate business purpose in keeping such data or where we are subject to a legal obligation to retain the data. We will also retain your data if necessary for legal claims. For more information, click [here](#section-8).
 
 ### **How will we notify you of any changes to this Privacy Policy?**
 
-We will notify all users of any material changes to this policy through a notice on our Platform or by other means. We update the “Last Updated” date at the top of this policy, which reflects the effective date of the policy. By accessing or using the Platform, you acknowledge that you have read this policy and that you understand your rights in relation to your personal data and how we will collect, use and process it. For more information, click [here](https://mint.bytedance.net/tools/webposts/Legal/6745034005269186561/6834438526793156613#section-11).
+We will notify all users of any material changes to this policy through a notice on our Platform or by other means. We update the “Last Updated” date at the top of this policy, which reflects the effective date of the policy. By accessing or using the Platform, you acknowledge that you have read this policy and that you understand your rights in relation to your personal data and how we will collect, use and process it. For more information, click [here](#section-11).
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
@@ -79,7 +79,7 @@ You may choose to share certain data with us from third parties or, through your
 
 Business Partners
 
-If you choose to register to use the Platform using your social media account details (e.g. Facebook, Twitter, Instagram, Google), you will provide us or allow your social network to provide us with your username and public profile. We will likewise share certain information with the relevant social network such as your app ID, access token and the referring URL. For further information on sharing your Facebook contact list with us, please see [Find other users and invite your friends](https://mint.bytedance.net/tools/webposts/Legal/6745034005269186561/6834438526793156613#find-friends).
+If you choose to register to use the Platform using your social media account details (e.g. Facebook, Twitter, Instagram, Google), you will provide us or allow your social network to provide us with your username and public profile. We will likewise share certain information with the relevant social network such as your app ID, access token and the referring URL. For further information on sharing your Facebook contact list with us, please see [Find other users and invite your friends](#find-friends).
 
 Advertisers and Measurement Partners
 
@@ -155,7 +155,7 @@ In order to comply with our legal obligations and as necessary to perform tasks 
 
 In accordance with our legitimate interests to provide an effective and dynamic Platform, we may use your information to:
 
-*   ensure your safety and security, including reviewing User Content, messages and associated metadata for breaches of our [Community Guidelines](https://www.tiktok.com/community-guidelines?lang=en) and our [Terms of Service](https://www.tiktok.com/legal/new-terms-of-service?lang=en);
+*   ensure your safety and security, including reviewing User Content, messages and associated metadata for breaches of our [Community Guidelines](https://www.tiktok.com/community-guidelines?lang=en) and our [Terms of Service](https://www.tiktok.com/legal/terms-of-use?lang=en#terms-eea);
 
 *   ensure content is presented in the most effective manner for you and your device;
 
@@ -179,7 +179,7 @@ In accordance with our legitimate interests to provide an effective and dynamic 
 
 Where we process your information to fulfill our legitimate interests, we conduct a balancing test to check that using personal data is really necessary for us to achieve our business purpose. When we carry out this balancing test we also take into account the privacy rights of our users and put in place appropriate safeguards to protect their personal data.
 
-With your consent, we will use your information to provide you with personalised advertising. Please see the sections on [Advertisers](https://mint.bytedance.net/tools/webposts/Legal/6745034005269186561/6834438526793156613#ad-third-parties) in “Information from Third Parties” for more information. You can control your personalised advertising settings at any time via your app settings. Please go to 'Privacy and safety' and then 'Personalization and data' to manage and control your advertising preferences. If you do not consent to personalised advertising, you will still see non-personalised advertising on the Platform.
+With your consent, we will use your information to provide you with personalised advertising. Please see the sections on [Advertisers](#ad-third-parties) in “Information from Third Parties” for more information. You can control your personalised advertising settings at any time via your app settings. Please go to 'Privacy and safety' and then 'Personalization and data' to manage and control your advertising preferences. If you do not consent to personalised advertising, you will still see non-personalised advertising on the Platform.
 
 **4\. How we share your personal data**
 ---------------------------------------
@@ -213,7 +213,7 @@ We share your data with the following selected third parties:
 
 **Our Corporate Group**
 
-*   We may share your information with other members, subsidiaries, or affiliates of our corporate group where it is necessary to provide the Platform in accordance with the Terms of Service. 
+*   We may share your information with other members, subsidiaries, or affiliates of our corporate group where it is necessary to provide the Platform in accordance with the [Terms of Service](https://www.tiktok.com/legal/terms-of-use?lang=en#terms-eea). 
 *   We share information to improve and optimise the Platform, including to prevent illegal use and to support users.
 
 **Law Enforcement / Legal Obligation**
@@ -221,7 +221,7 @@ We share your data with the following selected third parties:
 *   We may share your information with law enforcement agencies, public authorities or other third parties if we consider that we are legally required to do so or if such use is reasonably necessary to:
 *   comply with a legal process or request;
 
-*   enforce our [Terms of Service](https://www.tiktok.com/legal/new-terms-of-service?lang=en) and other agreements, policies, and standards, including investigation of any potential violation;
+*   enforce our [Terms of Service](https://www.tiktok.com/legal/terms-of-use?lang=en#terms-eea) and other agreements, policies, and standards, including investigation of any potential violation;
 
 *   detect, prevent or otherwise address abuse, fraud, illegal activity or security or technical issues; or
 
@@ -297,7 +297,7 @@ We will notify you of any material changes to this policy through a notice provi
 **11\. Who we are and how to contact us**
 -----------------------------------------
 
-TikTok Ireland and TikTok UK provide the Platform and associated services, and together process personal data in the manner described in this policy and in our [Terms of Service](https://www.tiktok.com/legal/new-terms-of-service?lang=en). For users of the Platform in the EEA and Switzerland, TikTok Ireland is the service provider in accordance with our Terms of Service and if you are in the UK, the provider of the Platform is TikTok UK. TikTok Ireland and TikTok UK share information as joint controllers of your data where it is necessary to do so to operate the Platform efficiently and in line with applicable laws.
+TikTok Ireland and TikTok UK provide the Platform and associated services, and together process personal data in the manner described in this policy and in our [Terms of Service](https://www.tiktok.com/legal/terms-of-use?lang=en#terms-eea). For users of the Platform in the EEA and Switzerland, TikTok Ireland is the service provider in accordance with our Terms of Service and if you are in the UK, the provider of the Platform is TikTok UK. TikTok Ireland and TikTok UK share information as joint controllers of your data where it is necessary to do so to operate the Platform efficiently and in line with applicable laws.
 
 If you have questions or complaints regarding this policy, or if you wish to contact TikTok’s Data Protection Officer, you can do so by emailing [privacy@tiktok.com](mailto:privacy@tiktok.com) or at the following postal address.
 
