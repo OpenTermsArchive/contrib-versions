@@ -44,7 +44,7 @@ The Services allow you to create, publish and share short-form videos and to con
 **Consume videos**: You can consume videos of other users of the Services. In particular:
 
 *   You can consume videos that other users have shared publicly or by users you follow.
-*   The Service provides you with a customised “For You” page in which the Service selects videos to show you based on what the Service determines could be interesting for you. For further information, please see the [Privacy Policy](https://www.tiktok.com/legal/new-privacy-policy?lang=en). 
+*   The Service provides you with a customised “For You” page in which the Service selects videos to show you based on what the Service determines could be interesting for you. For further information, please see the [Privacy Policy](https://www.tiktok.com/legal/privacy-policy?lang=en#privacy-eea). 
 *   The Service provides other ways to find content for you to consume, e.g. a list of other users’ videos on their profile, a search function, and category selection.
 *   You can watch live streams of other users.
 
@@ -67,7 +67,7 @@ By registering, accessing or using the Services, you agree that you can, and are
 
 Your access to and use of our Services is also subject to our [Community Guidelines](https://www.tiktok.com/community-guidelines?lang=en) and our [Virtual Items Policy](https://www.tiktok.com/legal/virtual-items?lang=en#virtual-items-eu), the terms of which can be found directly on the Platform, or where the Platform is made available for download, on your mobile device’s applicable app store. Those additional guidelines and policies are incorporated into this legally binding contract between you and us by reference.
 
-Please also review our [Privacy Policy](https://www.tiktok.com/legal/new-privacy-policy?lang=en) as this governs how we use your personal information.  
+Please also review our [Privacy Policy](https://www.tiktok.com/legal/privacy-policy?lang=en#privacy-eea) as this governs how we use your personal information.  
 
 If you are accessing or using the Services on behalf of a business or entity, then (a) “you” and “your” includes you and that business or entity, (b) you represent and warrant that you are an authorized representative of the business or entity with the authority to bind the entity to these Terms, and that you agree to these Terms on the entity’s behalf, and (c) your business or entity is legally and financially responsible for your access or use of the Services as well as for the access or use of your account by others affiliated with your entity, including any employees, agents or contractors.
 
