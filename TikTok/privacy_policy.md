@@ -38,7 +38,7 @@ We retain your information for as long as it is necessary to provide you with th
 
 ### **How will we notify you of any changes to this Privacy Policy?**
 
-We will notify all users of any material changes to this policy through a notice on our Platform or by other means. We update the “Last Updated” date at the top of this policy, which reflects the effective date of the policy. By accessing or using the Platform, you acknowledge that you have read this policy and that you understand your rights in relation to your personal data and how we will collect, use and process it. For more information, click [here](#section-11).
+We will notify all users of any material changes to this policy through a notice on our Platform or by other means. We update the “Last Updated” date at the top of this policy, which reflects the effective date of the policy. By accessing or using the Platform, you acknowledge that you have read this policy and that you understand your rights in relation to your personal data and how we will collect, use and process it. For more information, click [here](#section-10).
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
