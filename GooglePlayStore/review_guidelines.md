@@ -865,6 +865,9 @@ Google Play Services version 4.0 introduced new APIs and an ID for use by advert
 *   **Transparency to users**. The collection and use of the advertising identifier and commitment to these terms must be disclosed to users in a legally adequate privacy notification. To learn more about our privacy standards, please review our [User Data](/googleplay/android-developer/answer/9888076) policy.
 *   **Abiding by the terms of use**. The advertising identifier may only be used in accordance with these terms, including by any party that you may share it with in the course of your business. All apps uploaded or published to Google Play must use the advertising ID (when available on a device) in lieu of any other device identifiers for any advertising purposes.
 
+Families Ads Program
+--------------------
+
 If you serve ads in your app, and the target audience for your app only includes children as described in the [Families Policy](/googleplay/android-developer/answer/9893335), then you must use ad SDKs that have self-certified compliance with Google Play policies, including the Ad SDK certification requirements below. If the target audience for your app includes both children and older users, you must implement age screening measures and make sure that ads shown to children come exclusively from one of these self-certified ad SDKs. Apps in the Designed for Families program are required to only use self-certified ad SDKs.
 
 The use of Google Play certified ad SDKs is only required if you are using ad SDKs to serve ads to children. The following are permitted without an ad SDK's self-certification with Google Play, however, you are still responsible for ensuring your ad content and data collection practices are compliant with Play's [User Data Policy](/googleplay/android-developer/answer/9888076) and [Families Policy](/googleplay/android-developer/answer/9893335):
