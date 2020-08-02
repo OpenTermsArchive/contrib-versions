@@ -1,6 +1,6 @@
 Find more solutions
 
-Go Digital Services and Device Support › Amazon Device Terms, Warranties, and Notices › Location Services FAQ
+Digital Services and Device Support › Amazon Device Terms, Warranties, and Notices › Location Services FAQ
 
 How do location services work on Fire tablets?
 
