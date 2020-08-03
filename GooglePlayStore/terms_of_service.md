@@ -4,7 +4,7 @@
 Google Play Terms of Service
 ============================
 
-February 5, 2018 ([View archived version](archive/))
+February 5, 2018 ([View archived version](https://play.google.com/intl/en_US/about/play-terms/archive/))
 
 1\. Introduction
 ----------------
