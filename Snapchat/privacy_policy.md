@@ -7,11 +7,11 @@ Snap Inc. is a camera company. Our products and services—including Snapchat, B
 
 When you use these services, you’ll share some information with us. So we want to be upfront about the information we collect, how we use it, whom we share it with, and the controls we give you to access, update, and delete your information.
 
-That’s why we’ve written this Privacy Policy. And it’s why we’ve tried to write it in a way that’s blissfully free of the legalese that often clouds these documents. Of course, if you still have questions about anything in our Privacy Policy, just [contact us](https://support.snapchat.com).
+That’s why we’ve written this Privacy Policy. And it’s why we’ve tried to write it in a way that’s blissfully free of the legalese that often clouds these documents. Of course, if you still have questions about anything in our Privacy Policy, just [contact us](https://support.snapchat.com/).
 
-You should read our entire Privacy Policy, but when you only have a few minutes or want to remember something later on, you can always take a look at [this summary](/privacy/your-privacy/)—so you can review some of the basics in just a few minutes.
+You should read our entire Privacy Policy, but when you only have a few minutes or want to remember something later on, you can always take a look at [this summary](https://www.snap.com/privacy/your-privacy/)—so you can review some of the basics in just a few minutes.
 
-Some final notes before we dive in: We’re happy to report that we participate in the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks, which you can read more about [here](/en-US/privacy/privacy-shield/). And, if you’re in the EU, there’s some extra information we’d like to bring to your attention [here](#european-union-users).
+Some final notes before we dive in: We’re happy to report that we participate in the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks, which you can read more about [here](https://www.snap.com/en-US/privacy/privacy-shield/). And, if you’re in the EU, there’s some extra information we’d like to bring to your attention [here](#european-union-users).
 
 Information We Collect
 ----------------------
@@ -47,7 +47,7 @@ When you use our services, we collect information about which of those services 
 *   **Device Phonebook.** Because Snapchat is all about communicating with friends, we may—with your permission—collect information from your device’s phonebook.
 *   **Camera and Photos.** Many of our services require us to collect images and other information from your device’s camera and photos. For example, you won’t be able to send Snaps or upload photos from your camera roll unless we can access your camera or photos.
 *   **Location Information.** When you use our services we may collect information about your location. With your permission, we may also collect information about your precise location using methods that include GPS, wireless networks, cell towers, Wi-Fi access points, and other sensors, such as gyroscopes, accelerometers, and compasses.
-*   **Information Collected by Cookies and Other Technologies.** Like most online services and mobile applications, we may use cookies and other technologies, such as web beacons, web storage, and unique advertising identifiers, to collect information about your activity, browser, and device. We may also use these technologies to collect information when you interact with services we offer through one of our partners, such as advertising and commerce features. For example, we may use information collected on other websites to show you more relevant ads. Most web browsers are set to accept cookies by default. If you prefer, you can usually remove or reject browser cookies through the settings on your browser or device. Keep in mind, though, that removing or rejecting cookies could affect the availability and functionality of our services. To learn more about how we and our partners use cookies on our services and your choices, please check out our [Cookie Policy](/en-US/cookie-policy/).
+*   **Information Collected by Cookies and Other Technologies.** Like most online services and mobile applications, we may use cookies and other technologies, such as web beacons, web storage, and unique advertising identifiers, to collect information about your activity, browser, and device. We may also use these technologies to collect information when you interact with services we offer through one of our partners, such as advertising and commerce features. For example, we may use information collected on other websites to show you more relevant ads. Most web browsers are set to accept cookies by default. If you prefer, you can usually remove or reject browser cookies through the settings on your browser or device. Keep in mind, though, that removing or rejecting cookies could affect the availability and functionality of our services. To learn more about how we and our partners use cookies on our services and your choices, please check out our [Cookie Policy](https://www.snap.com/en-US/cookie-policy/).
 *   **Log Information.** We also collect log information when you use our website, such as:
     *   details about how you’ve used our services;
     *   device information, such as your web browser type and language;
@@ -68,12 +68,12 @@ We may collect information about you from other users, our [affiliates](https://
 How We Use Information
 ----------------------
 
-What do we do with the information we collect? For the detailed answer, go [here](/privacy/your-information). The short answer is: Provide you with an amazing set of products and services that we relentlessly improve. Here are the ways we do that:
+What do we do with the information we collect? For the detailed answer, go [here](https://www.snap.com/privacy/your-information). The short answer is: Provide you with an amazing set of products and services that we relentlessly improve. Here are the ways we do that:
 
 *   develop, operate, improve, deliver, maintain, and protect our products and services.
 *   send you communications, including by email. For example, we may use email to respond to support inquiries or to share information about our products, services, and promotional offers that we think may interest you.
 *   monitor and analyze trends and usage.
-*   [personalize our services](/privacy/privacy-by-product#personalization) by, among other things, suggesting friends, profile information, or Bitmoji stickers, or customizing the content we show you, including ads.
+*   [personalize our services](https://www.snap.com/privacy/privacy-by-product#personalization) by, among other things, suggesting friends, profile information, or Bitmoji stickers, or customizing the content we show you, including ads.
 *   contextualize your experience by, among other things, tagging your Memories content using your precise location information (if, of course, you’ve given us permission to collect that information) and applying other labels based on the content.
 *   provide and improve our advertising services, ad targeting, and ad measurement, including through the use of your precise location information (again, if you’ve given us permission to collect that information), both on and off our services. See the [Control Over Your Information](#control-over-your-information) section below for more information about Snap Inc.’s advertising practices and your choices.
 *   enhance the safety and security of our products and services.
@@ -154,9 +154,9 @@ You can exercise your rights of access, deletion, correction, and portability as
 Your country only allows us to use your personal information when certain conditions apply. These conditions are called “legal bases” and, at Snap, we typically rely on one of four:
 
 *   **Contract.** One reason we might use your information is because you’ve entered into an agreement with us. For example, when you buy an On-Demand Geofilter and accepted our Custom Creative Tools Terms, we need to use some of your information to collect payment and make sure we show your Geofilter to the right people at the right place and time.
-*   **Legitimate interest.** Another reason we might use your information is because we have—or a third party has—a legitimate interest in doing so. For example, we need to use your information to provide and improve our services, including protecting your account, delivering your Snaps, providing customer support, and helping you find friends and content we think you’ll like. Because most of our services are free, we also use some information about you to try and show you ads you’ll find interesting. An important point to understand about legitimate interest is that our interests don’t outweigh your right to privacy, so we only rely on legitimate interest when we think the way we are using your data doesn’t significantly impact your privacy or would be expected by you, or there is a compelling reason to do so. We explain our legitimate business reasons for using your information in more detail [here](/privacy/your-information).
+*   **Legitimate interest.** Another reason we might use your information is because we have—or a third party has—a legitimate interest in doing so. For example, we need to use your information to provide and improve our services, including protecting your account, delivering your Snaps, providing customer support, and helping you find friends and content we think you’ll like. Because most of our services are free, we also use some information about you to try and show you ads you’ll find interesting. An important point to understand about legitimate interest is that our interests don’t outweigh your right to privacy, so we only rely on legitimate interest when we think the way we are using your data doesn’t significantly impact your privacy or would be expected by you, or there is a compelling reason to do so. We explain our legitimate business reasons for using your information in more detail [here](https://www.snap.com/privacy/your-information).
 *   **Consent.** In some cases we’ll ask for consent to use your information for specific purposes. If we do, we’ll make sure you can revoke your consent in our services or through your device permissions. Even if we’re not relying on consent to use your information, we may ask you for permission to access data like contacts and location.
-*   **Legal obligation.** We may be required to use your personal information to comply with the law, like when we respond to valid legal process or need to take action to protect our users. Since November 15, 2015, our policy has been to notify Snapchatters when we receive legal process seeking their account information, with some exceptions. Learn more [here](/privacy/transparency/).
+*   **Legal obligation.** We may be required to use your personal information to comply with the law, like when we respond to valid legal process or need to take action to protect our users. Since November 15, 2015, our policy has been to notify Snapchatters when we receive legal process seeking their account information, with some exceptions. Learn more [here](https://www.snap.com/privacy/transparency/).
 
 ### Your Right to Object
 
@@ -164,7 +164,7 @@ You have the right to object to our use of your information. With many types of 
 
 ### International Transfers
 
-We may collect your personal information from, transfer it to, and store and process it in the United States and other countries outside of where you live. Whenever we share information of EU users outside the EU we make sure an adequate transfer mechanism is in place. For internal transfers, we rely on Model Contractual Clauses or the EU-U.S. and Swiss-U.S. Privacy Shield, which you can read more about [here](/privacy/privacy-shield/). You can find more information on the categories of third parties we share information with [here](https://support.snapchat.com/a/snapchat-service-providers).
+We may collect your personal information from, transfer it to, and store and process it in the United States and other countries outside of where you live. Whenever we share information of EU users outside the EU we make sure an adequate transfer mechanism is in place. For internal transfers, we rely on Model Contractual Clauses or the EU-U.S. and Swiss-U.S. Privacy Shield, which you can read more about [here](https://www.snap.com/privacy/privacy-shield/). You can find more information on the categories of third parties we share information with [here](https://support.snapchat.com/a/snapchat-service-providers).
 
 **Complaints?** If you’re based in the EU, you can always file a complaint with the supervisory authority in your Member State. For example, if you’re based in the UK, you can file a complaint with the [Information Commissioner’s Office](https://ico.org.uk/).
 
@@ -173,7 +173,7 @@ Snap Group Limited is the representative of Snap Inc. in the EU and is located i
 California Residents
 --------------------
 
-If you’re a California resident, you have certain privacy rights under California law, including the California Consumer Privacy Act of 2018 (“CCPA”). Our California Privacy Notice specifies these rights, [check it out](/privacy/california-privacy-notice).
+If you’re a California resident, you have certain privacy rights under California law, including the California Consumer Privacy Act of 2018 (“CCPA”). Our California Privacy Notice specifies these rights, [check it out](https://www.snap.com/privacy/california-privacy-notice).
 
 Children
 --------
