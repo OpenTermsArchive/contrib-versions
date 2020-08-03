@@ -357,7 +357,7 @@ If you sign in to Microsoft products with a work or school account, note:
 
 Other important privacy information
 
-Below you will find additional privacy information, such as how we secure your data, where we process your data, and how long we retain your data. You can find more information on Microsoft and our commitment to protecting your privacy at [Microsoft Privacy](https://privacy.microsoft.com).
+Below you will find additional privacy information, such as how we secure your data, where we process your data, and how long we retain your data. You can find more information on Microsoft and our commitment to protecting your privacy at [Microsoft Privacy](https://privacy.microsoft.com/).
 
 Security of personal data
 
@@ -449,14 +449,14 @@ Advertising
 
 Advertising allows us to provide, support, and improve some of our products. Microsoft does not use what you say in email, chat, video calls or voice mail, or your documents, photos, or other personal files to target ads to you. We use other data, detailed below, for advertising in our products and on third-party properties. For example:
 
-*   Microsoft may use data we collect to select and deliver some of the ads you see on Microsoft web properties, such as [Microsoft.com](https://www.microsoft.com), MSN, and Bing.
+*   Microsoft may use data we collect to select and deliver some of the ads you see on Microsoft web properties, such as [Microsoft.com](https://www.microsoft.com/), MSN, and Bing.
 *   When the advertising ID is enabled in Windows 10 as part of your privacy settings, third parties can access and use the advertising ID (much the same way that websites can access and use a unique identifier stored in a cookie) to select and deliver ads in such apps.
 *   We may share data we collect with partners, such as Verizon Media, AppNexus, or Facebook (see below), so that the ads you see in our products and their products are more relevant and valuable to you.
 *   Advertisers may choose to place our web beacons on their sites, or use similar technologies, in order to allow Microsoft to collect information on their sites such as activities, purchases, and visits; we use this data on behalf of our advertising customers to provide ads.
 
 The ads that you see may be selected based on data we process about you, such as your interests and favourites, your location, your transactions, how you use our products, your search queries, or the content you view. For example, if you view content on MSN about cars, we may show advertisements about cars; if you search “pizza places in Seattle” on Bing, you may see advertisements in your search results for restaurants in Seattle.
 
-The ads that you see may also be selected based on other information learned about you over time using demographic data, location data, search queries, interests and favourites, usage data from our products and sites, and the information we collect about you from the sites and apps of our advertisers and partners. We refer to these ads as "personalised advertising" in this statement. For example, if you view gaming content on [xbox.com](https://www.xbox.com), you may see offers for games on MSN. To provide personalised advertising, we combine cookies placed on your device using information that we collect (such as IP address) when your browser interacts with our websites. If you opt out of receiving personalised advertising, data associated with these cookies will not be used.
+The ads that you see may also be selected based on other information learned about you over time using demographic data, location data, search queries, interests and favourites, usage data from our products and sites, and the information we collect about you from the sites and apps of our advertisers and partners. We refer to these ads as "personalised advertising" in this statement. For example, if you view gaming content on [xbox.com](https://www.xbox.com/), you may see offers for games on MSN. To provide personalised advertising, we combine cookies placed on your device using information that we collect (such as IP address) when your browser interacts with our websites. If you opt out of receiving personalised advertising, data associated with these cookies will not be used.
 
 We may use information about you to serve you with personalised advertising when you use Microsoft services. If you are logged in with your Microsoft account and have consented to allow Microsoft Edge to use your online activity for personalised advertising, you will see offers for products and services based on your online activity while using Microsoft Edge. To configure your privacy settings for Edge, go to Microsoft Edge > Settings > Privacy and Services. To configure your privacy and ad settings for your Microsoft account with respect to your online activity across browsers, including Microsoft Edge, or when visiting third-party websites or apps, go to your dashboard at [privacy.microsoft.com](https://privacy.microsoft.com/).
 
@@ -465,7 +465,7 @@ Further details regarding our advertising-related uses of data include:
 *   **Advertising industry best practices and commitments**. Microsoft is a member of the [Network Advertising Initiative](https://www.networkadvertising.org/) (NAI) and adheres to the NAI Code of Conduct. We also adhere to the following self-regulatory programmes:
     *   In the US: [Digital Advertising Alliance (DAA)](https://www.aboutads.info/)
     *   In Europe: [European Interactive Digital Advertising Alliance (EDAA)](https://www.youronlinechoices.com/)
-    *   In Canada: [Ad Choices: Digital Advertising Alliance of Canada (DAAC)](https://www.youradchoices.ca)/ [Choix de Pub: l'Alliance de la publicité numérique du Canada (DAAC)](https://www.youradchoices.ca/fr)
+    *   In Canada: [Ad Choices: Digital Advertising Alliance of Canada (DAAC)](https://www.youradchoices.ca/)/ [Choix de Pub: l'Alliance de la publicité numérique du Canada (DAAC)](https://www.youradchoices.ca/fr)
 *   **Health-related ad targeting**. In the United States, we provide personalised advertising based on a limited number of standard, non-sensitive health-related interest categories, including allergies, arthritis, cholesterol, cold and flu, diabetes, gastrointestinal health, headache / migraine, healthy eating, healthy heart, men’s health, oral health, osteoporosis, skin health, sleep, and vision / eye care. We will also personalise ads based on customised, non-sensitive health-related interest categories as requested by advertisers.
 *   **Children and advertising**. We do not deliver personalised advertising to children whose birthdate in their Microsoft account identifies them as under 16 years of age.
 *   **Data retention**. For personalised advertising, we retain data for no more than 13 months, unless we obtain your consent to retain the data longer.
@@ -510,7 +510,7 @@ If you would like to exercise your rights under the California Consumer Privacy 
 
 Where French law applies, you can also send us specific instructions regarding the use of your personal data after your death, by using our [web form](https://go.microsoft.com/fwlink/p/?linkid=2126612).
 
-If you have a technical or support question, please visit [Microsoft Support](https://support.microsoft.com) to learn more about Microsoft Support offerings. If you have a personal Microsoft account password question, please visit [Microsoft account support](https://go.microsoft.com/FWLink/p/?LinkID=320207).
+If you have a technical or support question, please visit [Microsoft Support](https://support.microsoft.com/) to learn more about Microsoft Support offerings. If you have a personal Microsoft account password question, please visit [Microsoft account support](https://go.microsoft.com/FWLink/p/?LinkID=320207).
 
 Productivity and communications products
 
