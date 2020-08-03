@@ -1,7 +1,7 @@
 Privacy Policy, Community Rules, and Terms of Service
 =====================================================
 
-_This policy has been updated and is effective as of May 25, 2018. The previous version may be found [here](/privacy_20180524.php)._
+_This policy has been updated and is effective as of May 25, 2018. The previous version may be found [here](https://www.librarything.com/privacy_20180524.php)._
 
 These terms apply to users of LibraryThing.com, and its associated domains, such as LibraryThing.nl and LibraryThing.es. They also apply to TinyCat (LibraryCat.org).
 
@@ -32,13 +32,13 @@ LibraryThing respects your inbox. We do not sell your email address to authors, 
 
 By default, most new members who provide their email address are subscribed to our "State of the Thing" newsletter. Members who join from the EU after May 25, 2018 are not subscribed automatically, and will have to consent explicitly to receive the State of the Thing.
 
-By default, members who provide their email address receive profile comments by email. This can be disabled in the [Privacy Center](/settings/privacy). LibraryThing reserves the right to send profile-comment emails for GDPR-exempt system notifications, and customer support.
+By default, members who provide their email address receive profile comments by email. This can be disabled in the [Privacy Center](https://www.librarything.com/settings/privacy). LibraryThing reserves the right to send profile-comment emails for GDPR-exempt system notifications, and customer support.
 
 See LibraryThing Early Reviewers and Member Giveaways, below, for terms surrounding those optional programs.
 
 ### Member Privacy Center
 
-All LibraryThing members have access to their own Member [Privacy Center](/settings/privacy), where they can see and then update:
+All LibraryThing members have access to their own Member [Privacy Center](https://www.librarything.com/settings/privacy), where they can see and then update:
 
 *   Subscription settings for different types of LibraryThing emails
 *   Review-sharing preferences
