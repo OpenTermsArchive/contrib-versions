@@ -3,7 +3,7 @@
 WhatsApp Terms Of Service
 -------------------------
 
-Last modified: April 24, 2018 ([archived versions](/legal?doc=terms-of-service&mode=revisions))
+Last modified: April 24, 2018 ([archived versions](https://www.whatsapp.com/legal?doc=terms-of-service&mode=revisions))
 
 In order to provide our Services (as defined below) through our apps, services, features, software, or website, we need to obtain your express agreement to our Terms of Service ("Terms"). You agree to our Terms by registering, installing, accessing, or using our apps, services, features, software, or website.
 
@@ -23,7 +23,7 @@ If you live in a country in the European Economic Area (which includes the Europ
     
 *   **Enabling Global Access To Our Services.** To operate our global Service, we need to store and distribute content and information in data centers and systems around the world, including outside your country of residence. This infrastructure may be owned or operated by our service providers or affiliated companies.
     
-*   **Affiliated Companies.** We are part of the [Facebook Companies](https://www.facebook.com/help/111814505650678). As part of the Facebook Companies, WhatsApp receives information from, and shares information with, the Facebook Companies as described in WhatsApp's [Privacy Policy](/legal/?eea=1#privacy-policy). We use the information we receive from them to help operate, provide, and improve our Services. Learn more about the Facebook Companies and their terms and polices [here](https://www.facebook.com/help/111814505650678).
+*   **Affiliated Companies.** We are part of the [Facebook Companies](https://www.facebook.com/help/111814505650678). As part of the Facebook Companies, WhatsApp receives information from, and shares information with, the Facebook Companies as described in WhatsApp's [Privacy Policy](https://www.whatsapp.com/legal/?eea=1#privacy-policy). We use the information we receive from them to help operate, provide, and improve our Services. Learn more about the Facebook Companies and their terms and polices [here](https://www.facebook.com/help/111814505650678).
     
 
 **NO ACCESS TO EMERGENCY SERVICES: There are important differences between our Services and your mobile phone and a fixed-line telephone and SMS services. Our Services do not provide access to emergency services or emergency services providers, including the police, fire departments, or hospitals, or otherwise connect to public safety answering points. You should ensure you can contact your relevant emergency services providers through a mobile phone, a fixed-line telephone, or other service.**
@@ -42,7 +42,7 @@ If you live in a country in the European Economic Area (which includes the Europ
 
 ### [](#)Privacy Policy And User Data
 
-WhatsApp cares about your privacy. WhatsApp's [Privacy Policy](/legal/?eea=1#privacy-policy) describes our information (including message) practices, including the types of information we receive and collect from you, how we use and share this information, and your rights in relation to the processing of information about you. The [Privacy Policy](/legal/?eea=1#privacy-policy) sets out the legal bases for our processing of personal information about you, including the collection, use, processing, and sharing of such information, as well as the transfer and processing of such information to the United States and other countries globally where we have or use facilities, service providers, affiliated companies, or partners, regardless of where you use our Services.
+WhatsApp cares about your privacy. WhatsApp's [Privacy Policy](https://www.whatsapp.com/legal/?eea=1#privacy-policy) describes our information (including message) practices, including the types of information we receive and collect from you, how we use and share this information, and your rights in relation to the processing of information about you. The [Privacy Policy](https://www.whatsapp.com/legal/?eea=1#privacy-policy) sets out the legal bases for our processing of personal information about you, including the collection, use, processing, and sharing of such information, as well as the transfer and processing of such information to the United States and other countries globally where we have or use facilities, service providers, affiliated companies, or partners, regardless of where you use our Services.
 
 ### [](#)Acceptable Use Of Our Services
 
@@ -56,7 +56,7 @@ WhatsApp cares about your privacy. WhatsApp's [Privacy Policy](/legal/?eea=1#pri
 
 ### [](#)Third-Party Services
 
-Our Services may allow you to access, use, or interact with third-party websites, apps, content, other products and services, and [Facebook Company Products](https://www.facebook.com/help/195227921252400?ref=dp). For example, you may choose to use third-party data backup services (such as iCloud or Google Drive) that are integrated with our Services or interact with a share button on a third-party's website that enables you to send information to your WhatsApp contacts. Please note that these Terms and the [Privacy Policy](/legal/?eea=1#privacy-policy) apply only to the use of our Services. When you use third-party services or [Facebook Company Products](https://www.facebook.com/help/195227921252400?ref=dp), their own terms and privacy policies will govern your use of those services.
+Our Services may allow you to access, use, or interact with third-party websites, apps, content, other products and services, and [Facebook Company Products](https://www.facebook.com/help/195227921252400?ref=dp). For example, you may choose to use third-party data backup services (such as iCloud or Google Drive) that are integrated with our Services or interact with a share button on a third-party's website that enables you to send information to your WhatsApp contacts. Please note that these Terms and the [Privacy Policy](https://www.whatsapp.com/legal/?eea=1#privacy-policy) apply only to the use of our Services. When you use third-party services or [Facebook Company Products](https://www.facebook.com/help/195227921252400?ref=dp), their own terms and privacy policies will govern your use of those services.
 
 ### [](#)Licenses
 
@@ -64,11 +64,11 @@ Our Services may allow you to access, use, or interact with third-party websites
 
 **WhatsApp's Rights.** We own all copyrights, trademarks, domains, logos, trade dress, trade secrets, patents, and other intellectual property rights associated with our Services. You may not use our copyrights, trademarks, domains, logos, trade dress, patents, or other intellectual property rights unless you have our express permission and except in accordance with our [Brand Guidelines](https://www.whatsappbrand.com/). You may use the [trademarks](https://www.facebookbrand.com/trademarks) of our affiliated companies only with their permission, including as authorized in any published brand guidelines.
 
-**Your License To WhatsApp.** In order to operate and provide our Services, you grant WhatsApp a worldwide, non-exclusive, royalty-free, sublicensable, and transferable license to use, reproduce, distribute, create derivative works of, display, and perform the information (including the content) that you upload, submit, store, send, or receive on or through our Services. The rights you grant in this license are for the limited purpose of operating and providing our Services (such as to allow us to display your profile picture and status message, transmit your messages, store your undelivered messages on our servers for up to 30 days as we try to deliver them, and otherwise as described in our [Privacy Policy](/legal/?eea=1#privacy-policy)).
+**Your License To WhatsApp.** In order to operate and provide our Services, you grant WhatsApp a worldwide, non-exclusive, royalty-free, sublicensable, and transferable license to use, reproduce, distribute, create derivative works of, display, and perform the information (including the content) that you upload, submit, store, send, or receive on or through our Services. The rights you grant in this license are for the limited purpose of operating and providing our Services (such as to allow us to display your profile picture and status message, transmit your messages, store your undelivered messages on our servers for up to 30 days as we try to deliver them, and otherwise as described in our [Privacy Policy](https://www.whatsapp.com/legal/?eea=1#privacy-policy)).
 
 **WhatsApp's License To You.** We grant you a limited, revocable, non-exclusive, non-sublicensable, and non-transferable license to use our Services, subject to and in accordance with our Terms. This license is for the sole purpose of enabling you to use our Services in the manner permitted by our Terms. No licenses or rights are granted to you by implication or otherwise, except for the licenses and rights expressly granted to you.
 
-**Reporting Third-Party Copyright, Trademark, And Other Intellectual Property Infringement.** To report claims of third-party copyright, trademark, or other intellectual property infringement, please visit our [Intellectual Property Policy](/legal/#ip-policy). We may take action with respect to your account, including disabling or suspending your account, if you infringe the intellectual property rights of others.
+**Reporting Third-Party Copyright, Trademark, And Other Intellectual Property Infringement.** To report claims of third-party copyright, trademark, or other intellectual property infringement, please visit our [Intellectual Property Policy](https://www.whatsapp.com/legal/#ip-policy). We may take action with respect to your account, including disabling or suspending your account, if you infringe the intellectual property rights of others.
 
 ### [](#)Disclaimers
 
@@ -171,6 +171,6 @@ To access our Terms in certain other languages, change the language setting for 
 
 Please review the following documents, which provide additional information about your use of our Services:
 
-[WhatsApp Privacy Policy](/legal/?eea=1#privacy-policy)  
-[WhatsApp Intellectual Property Policy](/legal/#ip-policy)  
+[WhatsApp Privacy Policy](https://www.whatsapp.com/legal/?eea=1#privacy-policy)  
+[WhatsApp Intellectual Property Policy](https://www.whatsapp.com/legal/#ip-policy)  
 [WhatsApp Brand Guidelines](https://www.whatsappbrand.com/)
