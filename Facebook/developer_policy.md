@@ -20,7 +20,7 @@ Facebook Platform Policy
     
 8.  Keep your app’s negative feedback below our thresholds.
     
-9.  Follow any instructions we include in our [technical documentation](/docs/).
+9.  Follow any instructions we include in our [technical documentation](https://developers.facebook.com/docs/).
     
 10.  Apps with minimal utility that provide predictions, assessments, or similar outputs to the user, may not be allowed on Platform. For example, apps that provide (or claim to provide) users with assessments of personality, personal attributes, character traits, behavioral tendencies, or whose core functionality otherwise involves making predictions about who the user is, may not be allowed.
     
