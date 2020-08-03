@@ -3,14 +3,14 @@
 END USER LICENSE AGREEMENT
 ==========================
 
-The End User hereby enters into a License Agreement with Lingualeo Inc. (hereinafter referred to as “Licensor”) for a non-exclusive right to use the Licensor’s Internet service [www.lingualeo.com](http://www.lingualeo.com) subject to the conditions of this End User License Agreement (Public Offer).
+The End User hereby enters into a License Agreement with Lingualeo Inc. (hereinafter referred to as “Licensor”) for a non-exclusive right to use the Licensor’s Internet service [www.lingualeo.com](http://www.lingualeo.com/) subject to the conditions of this End User License Agreement (Public Offer).
 
 1. Definitions
 --------------
 
 1.1. For the purposes of this Agreement, the terms specified below have the following meanings:
 
-1.1.1. Website means [www.lingualeo.com](http://www.lingualeo.com)
+1.1.1. Website means [www.lingualeo.com](http://www.lingualeo.com/)
 
 1.1.2. End User (You) means a natural person who has concluded this License Agreement (accepted the Public Offer) with the Licensor.
 
