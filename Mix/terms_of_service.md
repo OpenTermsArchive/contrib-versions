@@ -2,8 +2,8 @@
 
 Last Updated: Feb 1, 2017
 
-*   [Username Policy](/about/usernames)
-*   [Privacy Policy](/privacy)
+*   [Username Policy](https://mix.com/about/usernames)
+*   [Privacy Policy](https://mix.com/privacy)
 
 * * *
 
@@ -13,13 +13,13 @@ We are Mix Tech, Inc. (**“Mix”**, **“us”**, **“we”** or **“our”*
 
 ##### About the Mix Services
 
-We provide users (**“you”**, **“your”**) with services, delivered via the Mix website (currently located at [http://www.mix.com](http://www.mix.com)), the Mix mobile applications, and/or any other platform or media through which we may make such services available from time to time, that allow you to explore the Internet, find new websites that may be of interest to you, receive recommendations of websites from Mix, and join a community of individuals with similar tastes and interests (collectively, the **“Services”**).
+We provide users (**“you”**, **“your”**) with services, delivered via the Mix website (currently located at [http://www.mix.com](http://www.mix.com/)), the Mix mobile applications, and/or any other platform or media through which we may make such services available from time to time, that allow you to explore the Internet, find new websites that may be of interest to you, receive recommendations of websites from Mix, and join a community of individuals with similar tastes and interests (collectively, the **“Services”**).
 
 * * *
 
 ##### About These Terms of Service
 
-These Mix Terms of Service (**“Terms of Service”**) set forth the legally binding terms for your use of the Services. You should also read the Mix Privacy Policy, currently located [here](/privacy), and accessible through the Mix mobile applications, which contains important information about how we use your data. By accessing and using the Services, you agree to comply with and be bound by these Terms of Service. If you do not agree to these Terms of Service, you may not access or use the Services.
+These Mix Terms of Service (**“Terms of Service”**) set forth the legally binding terms for your use of the Services. You should also read the Mix Privacy Policy, currently located [here](https://mix.com/privacy), and accessible through the Mix mobile applications, which contains important information about how we use your data. By accessing and using the Services, you agree to comply with and be bound by these Terms of Service. If you do not agree to these Terms of Service, you may not access or use the Services.
 
 * * *
 
