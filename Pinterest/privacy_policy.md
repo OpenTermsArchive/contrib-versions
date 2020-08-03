@@ -106,7 +106,7 @@ Transferring your information
 
 *   Pinterest is a worldwide service. By using our products or services, you authorize us to transfer and store your information outside your home country, including in the United States, for the purposes described in this policy. The privacy protections and the rights of authorities to access your personal information in such countries may not be equivalent to those of your home country.
     
-    See the [section for EEA Residents](/privacy-policy#section-residents-of-the-eea) to learn more about data transfers to and from that region.
+    See the [section for EEA Residents](https://policy.pinterest.com/privacy-policy#section-residents-of-the-eea) to learn more about data transfers to and from that region.
     
 
 Choices you have about your info
