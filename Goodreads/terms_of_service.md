@@ -37,7 +37,7 @@ Goodreads takes no responsibility and assumes no liability for any User Content 
 3\. License Grant
 -----------------
 
-By posting any User Content on the Service, you expressly grant to Goodreads a nonexclusive, royalty-free, perpetual, irrevocable, and fully sublicensable right to use, reproduce, modify, adapt, publish, perform, translate, create derivative works from, distribute, and display such content throughout the world in any media. You represent and warrant that you own or otherwise control all of the rights to the content that you post; that the content is accurate; that use of the content you supply does not violate this policy and will not cause injury to any person or entity; and that you will indemnify Goodreads for all claims resulting from content you supply. If you submit User Content via the “My Writing” or “Ebook” features, our [Terms of Use for Writers](/ebooks/terms) apply to that User Content.
+By posting any User Content on the Service, you expressly grant to Goodreads a nonexclusive, royalty-free, perpetual, irrevocable, and fully sublicensable right to use, reproduce, modify, adapt, publish, perform, translate, create derivative works from, distribute, and display such content throughout the world in any media. You represent and warrant that you own or otherwise control all of the rights to the content that you post; that the content is accurate; that use of the content you supply does not violate this policy and will not cause injury to any person or entity; and that you will indemnify Goodreads for all claims resulting from content you supply. If you submit User Content via the “My Writing” or “Ebook” features, our [Terms of Use for Writers](https://www.goodreads.com/ebooks/terms) apply to that User Content.
 
 4\. Our Proprietary Rights
 --------------------------
@@ -107,10 +107,10 @@ TO THE FULL EXTENT PERMISSIBLE BY APPLICABLE LAW, GOODREADS DISCLAIMS ALL WARRAN
 
 **No Waiver.** No waiver of any term of this Agreement shall be deemed a further or continuing waiver of such term or any other term, and Goodreads' failure to assert any right or provision under this Agreement shall not constitute a waiver of such right or provision.
 
-Please [contact us](/about/contact_us) with any questions regarding this Agreement.
+Please [contact us](https://www.goodreads.com/about/contact_us) with any questions regarding this Agreement.
 
 ### Updates
 
 *   December 6, 2017: We have updated our terms of use agreement. Please read this Agreement carefully.
-*   April 7, 2010: We added [Terms of Use for Writers](/ebooks/terms), which apply to works submitted to the Service via the "My Writing" or "Ebook" features.
-*   October 16, 2008: We replaced our [former terms of use agreement](/about/terms1) with a new agreement. Please read this Agreement carefully.
+*   April 7, 2010: We added [Terms of Use for Writers](https://www.goodreads.com/ebooks/terms), which apply to works submitted to the Service via the "My Writing" or "Ebook" features.
+*   October 16, 2008: We replaced our [former terms of use agreement](https://www.goodreads.com/about/terms1) with a new agreement. Please read this Agreement carefully.
