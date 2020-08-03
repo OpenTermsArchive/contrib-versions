@@ -26,7 +26,7 @@ I. Privacy Policy
 
 ### II. Our commitment to your privacy
 
-A. Thank you for visiting the We Heart It website, located at [weheartit.com](https://weheartit.com) (the "Website") and operated by Super Basic, LLC. ("we" or "us" or "our"). The privacy of our visitors and users (collectively "you" or "your") is very important to us. This Privacy Policy describes:
+A. Thank you for visiting the We Heart It website, located at [weheartit.com](https://weheartit.com/) (the "Website") and operated by Super Basic, LLC. ("we" or "us" or "our"). The privacy of our visitors and users (collectively "you" or "your") is very important to us. This Privacy Policy describes:
 
 1.  How and why we collect certain information from you via the Website;
 2.  How we use and with whom we share such information;
@@ -99,13 +99,13 @@ Like most standard website servers, we collect certain types of technical "Non P
 
 Note that some Advertisements displayed on our Website are delivered through Tribal Fusion, a third party advertising network. When you click on one of these advertisements, Tribal Fusion collects “click stream data” related to your visit to that website. Click stream data is anonymous and can include information such as your IP address, Web pages viewed, the date and time at which those pages were viewed and interaction with content and advertisements on those Web pages. Technologies used to collect this click stream data includes cookies and Web beacons. Tribal Fusion cookies are programmed to expire in six months.
 
-You may opt-out of receiving Cookies from third party advertising networks such as Tribal Fusion through a link to the Network Advertising Initiatives cookie opt-out page, which can be found [here](http://networkadvertising.org/managing/opt_out.asp). You can also find out how to make these changes to your browser [here](http://www.youronlinechoices.com/five-top-tips). If you wish to know more about online behavioral advertising, and how to opt-out of it, please visit [http://www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk).
+You may opt-out of receiving Cookies from third party advertising networks such as Tribal Fusion through a link to the Network Advertising Initiatives cookie opt-out page, which can be found [here](http://networkadvertising.org/managing/opt_out.asp). You can also find out how to make these changes to your browser [here](http://www.youronlinechoices.com/five-top-tips). If you wish to know more about online behavioral advertising, and how to opt-out of it, please visit [http://www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/).
 
 E. **Third Party Advertisers**
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our website. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. Please note that click stream data is anonymous and can include information such as your IP address, web pages viewed, the date and time at which those pages were viewed and interaction with content and advertisements on those web pages. Technologies used to collect this click stream data include cookies and Web beacons.
 
-You may opt-out of receiving Cookies from third party advertising networks through a link to the Network Advertising Initiatives cookie opt-out page, which can be found here. You can also find out how to make these changes to your browser here. If you wish to know more about online behavioral advertising, and how to opt-out of it, please visit [www.youronlinechoices.co.uk](www.youronlinechoices.co.uk).
+You may opt-out of receiving Cookies from third party advertising networks through a link to the Network Advertising Initiatives cookie opt-out page, which can be found here. You can also find out how to make these changes to your browser here. If you wish to know more about online behavioral advertising, and how to opt-out of it, please visit [www.youronlinechoices.co.uk](https://weheartit.com/about/www.youronlinechoices.co.uk).
 
   
   
@@ -188,4 +188,4 @@ A. If we decide to make material changes to our Privacy Policy, we will attempt 
 
 ### Contact us
 
-If you have any questions, comments or concerns regarding our Privacy Policy and/or practices, please send an email to: [hello@weheartit.com](mailto:hello@weheartit.com). You may also [contact us here](/contact).
+If you have any questions, comments or concerns regarding our Privacy Policy and/or practices, please send an email to: [hello@weheartit.com](mailto:hello@weheartit.com). You may also [contact us here](https://weheartit.com/contact).
