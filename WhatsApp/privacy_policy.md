@@ -3,9 +3,9 @@
 WhatsApp Privacy Policy
 -----------------------
 
-Last modified: April 24, 2018 ([archived versions](/legal?doc=privacy-policy&mode=revisions))
+Last modified: April 24, 2018 ([archived versions](https://www.whatsapp.com/legal?doc=privacy-policy&mode=revisions))
 
-Respect for your privacy is coded into our DNA. Since we started WhatsApp, we've aspired to build our [Services](/legal/?eea=1#terms-of-service-our-services) with a set of strong privacy principles in mind.
+Respect for your privacy is coded into our DNA. Since we started WhatsApp, we've aspired to build our [Services](https://www.whatsapp.com/legal/?eea=1#terms-of-service-our-services) with a set of strong privacy principles in mind.
 
 If you live in a country in the European Economic Area (which includes the European Union), and any other included country or territory (collectively referred to as the [European Region](https://faq.whatsapp.com/general/26000121/)), your Services are provided by WhatsApp Ireland Limited ("WhatsApp Ireland"), which is also the data controller responsible for your information when you use our Services.
 
@@ -15,7 +15,7 @@ We are part of the [Facebook Companies](https://www.facebook.com/help/1118145056
 
 This Privacy Policy applies to all of our Services unless specified otherwise.
 
-Please also read [WhatsApp's Terms of Service](/legal/?eea=1#terms-of-service) ("Terms"), which describes the terms under which you use our Services.
+Please also read [WhatsApp's Terms of Service](https://www.whatsapp.com/legal/?eea=1#terms-of-service) ("Terms"), which describes the terms under which you use our Services.
 
 ### [](#)Information We Collect
 
@@ -25,11 +25,11 @@ WhatsApp must receive or collect some information to operate, provide, improve, 
 
 *   **Your Account Information.** You provide your mobile phone number and basic information (including a profile name) to create a WhatsApp account. You provide us, all in accordance with applicable laws, the phone numbers in your mobile address book on a regular basis, including those of both the users of our Services and your other contacts. You may provide us an email address. You may also add other information to your account, such as a profile picture and about information.
     
-*   **Your Messages.** We do not retain your messages in the ordinary course of providing our Services to you. Once your messages (including your chats, photos, videos, voice messages, files, and share location information) are delivered, they are deleted from our servers. Your messages are stored on your own device. If a message cannot be delivered immediately (for example, if you are offline), we may keep it on our servers for up to 30 days as we try to deliver it. If a message is still undelivered after 30 days, we delete it. To improve performance and deliver media messages more efficiently, such as when many people are sharing a popular photo or video, we may retain that content on our servers for a longer period of time. We also offer end-to-end encryption for our Services, which is on by default, when you and the people with whom you message use a version of our app released after April 2, 2016. End-to-end encryption means that your messages are encrypted to protect against us and third parties from reading them. Learn more about [End-to-End Encryption](https://faq.whatsapp.com/general/28030015/) and [Businesses on WhatsApp](/legal/#privacy-policy-businesses-on-WhatsApp).
+*   **Your Messages.** We do not retain your messages in the ordinary course of providing our Services to you. Once your messages (including your chats, photos, videos, voice messages, files, and share location information) are delivered, they are deleted from our servers. Your messages are stored on your own device. If a message cannot be delivered immediately (for example, if you are offline), we may keep it on our servers for up to 30 days as we try to deliver it. If a message is still undelivered after 30 days, we delete it. To improve performance and deliver media messages more efficiently, such as when many people are sharing a popular photo or video, we may retain that content on our servers for a longer period of time. We also offer end-to-end encryption for our Services, which is on by default, when you and the people with whom you message use a version of our app released after April 2, 2016. End-to-end encryption means that your messages are encrypted to protect against us and third parties from reading them. Learn more about [End-to-End Encryption](https://faq.whatsapp.com/general/28030015/) and [Businesses on WhatsApp](https://www.whatsapp.com/legal/#privacy-policy-businesses-on-WhatsApp).
     
 *   **Your Connections.** To help you organize how you communicate with others, we may help you identify your contacts who also use WhatsApp, and you can create, join, or get added to groups and broadcast lists, and such groups and lists get associated with your account information. You give your groups a name. You may choose to provide a group profile picture or description.
     
-*   **Your Use Of Our Payments Services.** If you use our payment services available in your country, we process purchase and transaction information as described in the applicable [Payments Privacy Policy](/legal/?eea=0#payments-in-privacy-policy).
+*   **Your Use Of Our Payments Services.** If you use our payment services available in your country, we process purchase and transaction information as described in the applicable [Payments Privacy Policy](https://www.whatsapp.com/legal/?eea=0#payments-in-privacy-policy).
     
 *   **Customer Support.** You may provide us with information related to your use of our Services, including copies of your messages, and how to contact you so we can provide you customer support. For example, you may send us an email with information relating to our app performance or other issues.
     
@@ -42,7 +42,7 @@ WhatsApp must receive or collect some information to operate, provide, improve, 
     
 *   **Location Information.** We collect device location information if you use our location features, like when you choose to share your location with your contacts, view locations nearby or those others have shared with you, and the like, and for diagnostics and troubleshooting purposes such as if you are having trouble with our app's location features. We use various technologies to determine location, including IP, GPS, Bluetooth signals, and information about nearby Wi-Fi access points, beacons, and cell towers.
     
-*   **Cookies.** We use cookies to operate and provide our Services, including to provide our Services that are web-based, improve your experiences, understand how our Services are being used, and customize our Services. For example, we use cookies to provide WhatsApp for web and desktop and other web-based services. We may also use cookies to understand which of our FAQs are most popular and to show you relevant content related to our Services. Additionally, we may use cookies to remember your choices, like your language preferences, to provide a safer experience, and otherwise to customize our Services for you. [Learn more](/legal/#cookies) about how we use cookies to provide you our Services.
+*   **Cookies.** We use cookies to operate and provide our Services, including to provide our Services that are web-based, improve your experiences, understand how our Services are being used, and customize our Services. For example, we use cookies to provide WhatsApp for web and desktop and other web-based services. We may also use cookies to understand which of our FAQs are most popular and to show you relevant content related to our Services. Additionally, we may use cookies to remember your choices, like your language preferences, to provide a safer experience, and otherwise to customize our Services for you. [Learn more](https://www.whatsapp.com/legal/#cookies) about how we use cookies to provide you our Services.
     
 
 **Third-Party Information**
@@ -64,7 +64,7 @@ We use the information we have (subject to choices you make) to operate, provide
     
 *   **Safety And Security.** We verify accounts and activity, and promote safety and security on and off our Services, such as by investigating suspicious activity or violations of our Terms, and to ensure our Services are being used legally.
     
-*   **Communications About Our Services And The Facebook Companies.** We use the information we have to communicate with you about our Services and features and let you know about our terms and policies and other important updates. We may provide you marketing for our Services and those of the [Facebook Companies](https://www.facebook.com/help/111814505650678). Please see [How You Exercise Your Rights](/legal/?eea=1#privacy-policy-how-you-exercise-your-rights) for more information.
+*   **Communications About Our Services And The Facebook Companies.** We use the information we have to communicate with you about our Services and features and let you know about our terms and policies and other important updates. We may provide you marketing for our Services and those of the [Facebook Companies](https://www.facebook.com/help/111814505650678). Please see [How You Exercise Your Rights](https://www.whatsapp.com/legal/?eea=1#privacy-policy-how-you-exercise-your-rights) for more information.
     
 *   **No Third-Party Banner Ads.** We still do not allow third-party banner ads on WhatsApp. We have no intention to introduce them, but if we ever do, we will update this policy.
     
@@ -104,9 +104,9 @@ All of our rights and obligations under our Privacy Policy are freely assignable
 
 **Our Legal Bases For Processing Information**
 
-We [collect](/legal/?eea=1#privacy-policy-information-we-collect), [use](/legal/?eea=1#privacy-policy-how-we-use-information), and [share](/legal/?eea=1#privacy-policy-information-you-and-we-share) the information we have as described above:
+We [collect](https://www.whatsapp.com/legal/?eea=1#privacy-policy-information-we-collect), [use](https://www.whatsapp.com/legal/?eea=1#privacy-policy-how-we-use-information), and [share](https://www.whatsapp.com/legal/?eea=1#privacy-policy-information-you-and-we-share) the information we have as described above:
 
-*   as necessary to fulfill our [Terms](/legal/?eea=1#terms-of-service);
+*   as necessary to fulfill our [Terms](https://www.whatsapp.com/legal/?eea=1#terms-of-service);
     
 *   consistent with your consent, which you can revoke at any time;
     
@@ -142,7 +142,7 @@ We collect, use, preserve, and share your information if we have a good-faith be
 
 ### [](#)Our Global Operations
 
-WhatsApp Ireland shares information globally, both internally within the Facebook Companies, and externally with our partners and with those you communicate around the world in accordance with this Privacy Policy. Information controlled by WhatsApp Ireland will be transferred or transmitted to, or stored and processed, in the United States or other countries outside of where you live for the purposes as described in this Privacy Policy. These data transfers are necessary to provide the Services set forth in our [Terms](/legal/?eea=1#terms-of-service) and globally to operate and provide our Services to you. We utilize [standard contract clauses](https://www.facebook.com/help/566994660333381) approved by the European Commission, and may rely on the European Commission's [adequacy decisions](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries) about certain countries, as applicable, for data transfers from the European Economic Area to the United States and other countries.
+WhatsApp Ireland shares information globally, both internally within the Facebook Companies, and externally with our partners and with those you communicate around the world in accordance with this Privacy Policy. Information controlled by WhatsApp Ireland will be transferred or transmitted to, or stored and processed, in the United States or other countries outside of where you live for the purposes as described in this Privacy Policy. These data transfers are necessary to provide the Services set forth in our [Terms](https://www.whatsapp.com/legal/?eea=1#terms-of-service) and globally to operate and provide our Services to you. We utilize [standard contract clauses](https://www.facebook.com/help/566994660333381) approved by the European Commission, and may rely on the European Commission's [adequacy decisions](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries) about certain countries, as applicable, for data transfers from the European Economic Area to the United States and other countries.
 
 WhatsApp Inc. shares information globally, both internally within the Facebook Companies, and externally with businesses, service providers, and partners and with those you communicate with around the world. Your information may, for example, be transferred or transmitted to, or stored and processed in the United States or other countries outside of where you live for the purposes as described in this Privacy Policy.
 
@@ -156,7 +156,7 @@ We will notify you before we make changes to this Privacy Policy and give you th
 
 The Data Protection Officer for WhatsApp Ireland can be contacted [here](mailto:DPO-inquiries@support.whatsapp.com?subject=WhatsApp%20Support%20-%20DPO&body=Please%20edit%20this%20part%20to%20include%20the%20information%20below.%20Then%2C%20hit%20send.%20Thanks%20for%20contacting%20WhatsApp.%0A%0A%2A%20Your%20full%20name%3A%0A%2A%20Your%20country%20of%20residence%3A%0A%2A%20The%20phone%20number%20you%20used%20to%20create%20your%20WhatsApp%20account%3A%0A%2A%20A%20detailed%20explanation%20of%20the%20issue%20you%20want%20to%20report%20to%20the%20DPO%3A).
 
-If you have questions about our Privacy Policy, please [contact us](/contact/?subject=privacy&eea=1) or write us here:
+If you have questions about our Privacy Policy, please [contact us](https://www.whatsapp.com/contact/?subject=privacy&eea=1) or write us here:
 
 WhatsApp Ireland Limited  
 Attn: Privacy Policy  
@@ -169,7 +169,7 @@ You have the right to lodge a complaint with WhatsApp Ireland's lead supervisory
 
 **If You Are Outside The European Region**
 
-If you have questions about our Privacy Policy, please [contact us](/contact/?subject=privacy&eea=0) or write us here:
+If you have questions about our Privacy Policy, please [contact us](https://www.whatsapp.com/contact/?subject=privacy&eea=0) or write us here:
 
 WhatsApp Inc.  
 Privacy Policy  
