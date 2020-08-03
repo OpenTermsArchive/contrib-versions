@@ -111,7 +111,7 @@ Social Sharing Features and Third-Party Integrations
 
 The Services may offer social sharing features and other integrated tools which let you share actions you take on our Services with other media, and vice versa. The use of such features enables the sharing of information with your friends, the public, and others, depending on the settings you establish with the entity that provides the social sharing feature, and depending on that entity’s other sharing practices. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
 
-Additionally, you may give certain third-party apps different levels of permissions to interact with your account to take advantage of things like photo editing tools. If you want to stop using one of these apps and revoke your permission, click the "Remove Permission" link under "[Sharing & Extending](/account/sharing)" on your account page and remove that permission.
+Additionally, you may give certain third-party apps different levels of permissions to interact with your account to take advantage of things like photo editing tools. If you want to stop using one of these apps and revoke your permission, click the "Remove Permission" link under "[Sharing & Extending](https://www.flickr.com/account/sharing)" on your account page and remove that permission.
 
 Advertising and Analytics Services Provided by Others
 
@@ -194,23 +194,23 @@ You may update, correct or delete certain information about you at any time by l
 
 Privacy and Permissions Settings
 
-In your account “[Privacy & Permissions](/account/privacy)” tab under “Settings”, you can control who is able to see different parts of your profile, including email address, IM names, real name, and current city. If you choose to use your real name (or include any identifying information as part of your “screen name”) that information will be publicly displayed through the Services. Therefore, please use caution in determining how you wish to be identified in using the Services.
+In your account “[Privacy & Permissions](https://www.flickr.com/account/privacy)” tab under “Settings”, you can control who is able to see different parts of your profile, including email address, IM names, real name, and current city. If you choose to use your real name (or include any identifying information as part of your “screen name”) that information will be publicly displayed through the Services. Therefore, please use caution in determining how you wish to be identified in using the Services.
 
 EXIF Information
 
 By default, Flickr will display a link showing EXIF data about photos or video you upload. The link shows on all your individual photo pages, and displays the make & model of the camera you used to take the shot. You can elect to hide this link in “Settings” under the “Privacy & Permissions” tab.
 
-Some cameras can store GPS (location) coordinates in a photo’s EXIF header. Flickr imports that data and [if you choose](/account/privacy), Flickr can display that data publicly. This setting can be changed through your account “[Privacy and Permissions](/account/privacy)” tab.
+Some cameras can store GPS (location) coordinates in a photo’s EXIF header. Flickr imports that data and [if you choose](https://www.flickr.com/account/privacy), Flickr can display that data publicly. This setting can be changed through your account “[Privacy and Permissions](https://www.flickr.com/account/privacy)” tab.
 
 Location Information
 
 When you first launch any of our mobile applications that collect location information, you will be asked to consent to the application's collection of this information. If you initially consent to our collection of location information, you can subsequently stop the collection of this information by our application’s camera function at any time by changing the preferences on your mobile device.
 
-Some cameras and applications can store GPS (location) coordinates in a photo's EXIF header. Flickr imports that data and if you choose, Flickr can display that data publicly. This default display setting can be changed in the “[Privacy & Permissions](/account/privacy)” Settings in your account. You can also change the settings on your camera to stop location data storage.
+Some cameras and applications can store GPS (location) coordinates in a photo's EXIF header. Flickr imports that data and if you choose, Flickr can display that data publicly. This default display setting can be changed in the “[Privacy & Permissions](https://www.flickr.com/account/privacy)” Settings in your account. You can also change the settings on your camera to stop location data storage.
 
 Geofences
 
-A geofence is a hotspot on a map that has special default geo privacy settings. These are useful for locations such as “home” or “school” that you would like to make more private than your global default. [Click here](/account/geo/privacy/) to create your geofences and manage your geo preferences to decide who can see the location of your photos by default. Further, you can change the geo preferences setting on individual photos by clicking on the map to the right of each photo.
+A geofence is a hotspot on a map that has special default geo privacy settings. These are useful for locations such as “home” or “school” that you would like to make more private than your global default. [Click here](https://www.flickr.com/account/geo/privacy/) to create your geofences and manage your geo preferences to decide who can see the location of your photos by default. Further, you can change the geo preferences setting on individual photos by clicking on the map to the right of each photo.
 
 Auto-Uploadr Feature
 
@@ -226,7 +226,7 @@ You may opt out of receiving promotional communications from Flickr by following
 
 Email Notifications
 
-Visit the “[Emails and Notifications](/account/email)” area in your account Settings to edit your Flickr email notification settings.
+Visit the “[Emails and Notifications](https://www.flickr.com/account/email)” area in your account Settings to edit your Flickr email notification settings.
 
 Other Data Protection Rights
 
