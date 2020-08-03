@@ -30,7 +30,7 @@ This Privacy Policy covers Vimeo, Inc. (collectively, “Vimeo,” “we” “u
 
 ##### Acceptance and Changes
 
-By registering for, downloading, or using our services, you accept this Privacy Policy, which is part of our [Terms of Service](/terms). We may modify this Privacy Policy from time to time. We will post any modified version of our Privacy Policy at [https://vimeo.com/privacy](/privacy). If we change the Privacy Policy in a way that materially lessens our commitments to you, we will provide notice to registered users by email or other methods.
+By registering for, downloading, or using our services, you accept this Privacy Policy, which is part of our [Terms of Service](https://vimeo.com/terms). We may modify this Privacy Policy from time to time. We will post any modified version of our Privacy Policy at [https://vimeo.com/privacy](https://vimeo.com/privacy). If we change the Privacy Policy in a way that materially lessens our commitments to you, we will provide notice to registered users by email or other methods.
 
 2\. Children's Privacy
 ----------------------
@@ -64,7 +64,7 @@ You may submit data to us for limited purposes such as requesting customer suppo
 
 ##### Automatically-Collected Information
 
-We automatically collect certain types of data when you use our services, regardless of whether you have an account. This data includes your IP address, technical information about your device (e.g., browser type, operating system, basic device information), the web page you visited or search query you entered before reaching us, and your activities. We may track your activities using cookies and similar technologies. By using our services, you agree to our use of these methods as set forth in our [Cookie Policy](/cookie_policy).
+We automatically collect certain types of data when you use our services, regardless of whether you have an account. This data includes your IP address, technical information about your device (e.g., browser type, operating system, basic device information), the web page you visited or search query you entered before reaching us, and your activities. We may track your activities using cookies and similar technologies. By using our services, you agree to our use of these methods as set forth in our [Cookie Policy](https://vimeo.com/cookie_policy).
 
 ##### Physical Products
 
@@ -121,7 +121,7 @@ We use reasonable efforts to vet vendors for their privacy and data security pra
 6\. Legal and Safety-Related Disclosures
 ----------------------------------------
 
-We may disclose your data in response to official requests (e.g., court orders, subpoenas, search warrants, national security requests, etc.) ("requests") that we receive from government authorities or parties to legal proceedings. We direct law enforcement agencies to our [Law Enforcement Guidelines](/leo/guidelines) page.
+We may disclose your data in response to official requests (e.g., court orders, subpoenas, search warrants, national security requests, etc.) ("requests") that we receive from government authorities or parties to legal proceedings. We direct law enforcement agencies to our [Law Enforcement Guidelines](https://vimeo.com/leo/guidelines) page.
 
 We handle U.S. requests in accordance with U.S. law. If the request originates from a foreign jurisdiction, we will typically disclose information where we in good faith believe that disclosure is permitted by both U.S. law and local law. In all cases, we may raise or waive any legal objection or right available to us, in our sole discretion.
 
@@ -129,7 +129,7 @@ We may disclose user data where we reasonably believe that someone's life is at 
 
 We may disclose user data to report suspected crimes. We report content suspected of exploiting minors to the National Center for Missing and Exploited Children (NCMEC) along with the data identifying the uploading user.
 
-We may disclose user data in situations involving legal claims against us or one of our users. If you submit a [Digital Millennium Copyright Act (DMCA)](/dmca) or other takedown notice, we may share that notice with the affected user. If you challenge such a notice, we may share your response with the complainant.
+We may disclose user data in situations involving legal claims against us or one of our users. If you submit a [Digital Millennium Copyright Act (DMCA)](https://vimeo.com/dmca) or other takedown notice, we may share that notice with the affected user. If you challenge such a notice, we may share your response with the complainant.
 
 We may share your data with potential transaction partners, advisors, and others in the event our company is, in whole or part, acquired by a third party. In such case, we will use reasonable efforts to require the acquiring entity to comply with this Privacy Policy.
 
@@ -151,7 +151,7 @@ We enable you to make numerous choices about your data:
 *   You may change your account and video privacy settings. See **Section 9** for more details.
 *   You may change or correct information voluntarily submitted to us. We encourage you to keep your data current by viewing your settings page.
 *   You may opt out of receiving commercial emails from us. See **Section 10** for more details.
-*   You may limit the use of cookies. See our [](/cookie_policy)Cookie Policy for options.
+*   You may limit the use of cookies. See our [](https://vimeo.com/cookie_policy)Cookie Policy for options.
 *   You may backup your videos.
 *   You may close your account (which will delete all videos) or delete certain videos.
 
@@ -180,7 +180,7 @@ We enable you to manage the privacy settings of your videos. On Vimeo.com, for e
 *   **Password-protected:** Your video may be accessed by anyone who enters the password you have set.
 *   **Private link:** Your video may be accessed by anyone who enters the link assigned to it.
 
-We provide similar options for our Livestream.com services. You may change these settings at any time. Changes will be applied on a go-forward basis. You should exercise caution in granting access to others. Once you have granted access to someone else, you lose a degree of control over the distribution of your video as those persons may share the password and/or link with other people. Regardless of your profile or video privacy settings, Vimeo reserves the right to inspect them for compliance with its [Terms of Service](/terms), to provide customer support, or to address technical issues.
+We provide similar options for our Livestream.com services. You may change these settings at any time. Changes will be applied on a go-forward basis. You should exercise caution in granting access to others. Once you have granted access to someone else, you lose a degree of control over the distribution of your video as those persons may share the password and/or link with other people. Regardless of your profile or video privacy settings, Vimeo reserves the right to inspect them for compliance with its [Terms of Service](https://vimeo.com/terms), to provide customer support, or to address technical issues.
 
 10\. Communications from Us
 ---------------------------
@@ -225,7 +225,7 @@ This **Section 14.2** applies only to natural persons residing in the European E
 *   Our use of Standard Contractual Clauses (also known as "Model Clauses") where appropriate.
 *   Our certification and adherence to the EU-U.S. and Swiss-U.S. Privacy Shield frameworks, as described further below.
 
-You have the right to: opt out of non-essential cookies (see our [Cookie Policy](/cookie_policy)); access, correct, delete, restrict, or object to our use of your personal information; be forgotten; port your data; and withdraw consents. We enable exercise of these rights primarily through our services (which we reserve the right to modify). For example, we allow users to change their information, download their videos, and close their accounts. We also fulfil our obligations in response to direct requests. We will endeavor to process requests within one month. Please note that we may not be able to comply with requests to the extent that they would cause us to violate any law or infringe any other person's rights. We reserve the right to request appropriate identification. We will process requests free of charge unless they would impose an unreasonable cost on us.
+You have the right to: opt out of non-essential cookies (see our [Cookie Policy](https://vimeo.com/cookie_policy)); access, correct, delete, restrict, or object to our use of your personal information; be forgotten; port your data; and withdraw consents. We enable exercise of these rights primarily through our services (which we reserve the right to modify). For example, we allow users to change their information, download their videos, and close their accounts. We also fulfil our obligations in response to direct requests. We will endeavor to process requests within one month. Please note that we may not be able to comply with requests to the extent that they would cause us to violate any law or infringe any other person's rights. We reserve the right to request appropriate identification. We will process requests free of charge unless they would impose an unreasonable cost on us.
 
 If you have a request, complaint or inquiry, please contact our Data Protection Officer at the address listed in **Section 15**. We are committed to working with you to obtain a fair resolution of any issue. You also have the right to file a complaint with the supervisory data protection authority of your jurisdiction.
 
@@ -235,7 +235,7 @@ This **Section 14.3** applies only to natural persons residing in the European E
 
 Vimeo adheres to the Privacy Shield principles of notice, choice, onward transfer, security, data integrity, access, and enforcement (the **"Privacy Shield Principles"**). Vimeo has established policies and procedures to ensure compliance with the Privacy Shield Principles and will conduct an annual internal assessment to ensure such compliance. If there is any conflict between the terms of this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.
 
-Vimeo has certified to the U.S. Department of Commerce that it adheres to the Privacy Shield Principles. To learn more about the Privacy Shield program, and to view Vimeo's certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov). By making this certification, Vimeo is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
+Vimeo has certified to the U.S. Department of Commerce that it adheres to the Privacy Shield Principles. To learn more about the Privacy Shield program, and to view Vimeo's certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/). By making this certification, Vimeo is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
 
 Where Vimeo has transferred personal information of EEA, UK or Swiss residents to third parties, Vimeo shall be liable if those third parties do not process personal information in compliance with the Privacy Shield Principles. This shall not be the case where Vimeo establishes that it is not responsible for the damage caused by the third party.
 
