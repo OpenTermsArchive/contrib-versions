@@ -206,8 +206,8 @@ Badoo uses cookies and local storage devices so that we know who you are, what i
 
 Our use of cookies and local share devices, including the specific cookie names, may change over time, but will generally fall into the above categories. We will notify you of any important changes to our use of cookies and local storage devices If you would like to know more about cookies, including flash cookies/local storage devices, the following websites provide useful information:
 
-*   [www.allaboutcookies.org](http://www.allaboutcookies.org)
-*   [www.youronlinechoices.eu](http://www.youronlinechoices.eu)
+*   [www.allaboutcookies.org](http://www.allaboutcookies.org/)
+*   [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
 *   [http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html](http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html)
 
 This Privacy Policy was last updated on 24 June 2020.
