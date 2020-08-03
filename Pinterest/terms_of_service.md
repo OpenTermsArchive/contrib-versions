@@ -3,7 +3,7 @@ Terms of service
 
 Thank you for using Pinterest!
 
-*   These Terms of Service ("Terms") govern your access to and use of the Pinterest website, apps, APIs, and widgets (“Pinterest” or the “Service”). Please read these Terms carefully, and contact us if you have any questions. By accessing or using Pinterest, you agree to be bound by these Terms, our [Privacy Policy](/privacy-policy), our [Cookies Policy](/cookies) and our [Community Guidelines](/community-guidelines).
+*   These Terms of Service ("Terms") govern your access to and use of the Pinterest website, apps, APIs, and widgets (“Pinterest” or the “Service”). Please read these Terms carefully, and contact us if you have any questions. By accessing or using Pinterest, you agree to be bound by these Terms, our [Privacy Policy](https://policy.pinterest.com/privacy-policy), our [Cookies Policy](https://policy.pinterest.com/cookies) and our [Community Guidelines](https://policy.pinterest.com/community-guidelines).
     
     **More simply put**
     
@@ -29,7 +29,7 @@ Thank you for using Pinterest!
 *   b. Our license to you
     ---------------------
     
-    Subject to these Terms and our policies (including our [Community Guidelines](/community-guidelines)), we grant you a limited, non-exclusive, non-transferable, and revocable license to use our Service.
+    Subject to these Terms and our policies (including our [Community Guidelines](https://policy.pinterest.com/community-guidelines)), we grant you a limited, non-exclusive, non-transferable, and revocable license to use our Service.
     
 *   c. Commercial use of Pinterest
     ------------------------------
@@ -55,7 +55,7 @@ Thank you for using Pinterest!
 *   b. How Pinterest and other users can use your content
     -----------------------------------------------------
     
-    You grant Pinterest and our users a non-exclusive, royalty-free, transferable, sublicensable, worldwide license to use, store, display, reproduce, save, modify, create derivative works, perform, and distribute your User Content on Pinterest solely for the purposes of operating, developing, providing, and using Pinterest. Nothing in these Terms restricts other legal rights Pinterest may have to User Content, for example under other licenses. We reserve the right to remove or modify User Content, or change the way it’s used in Pinterest, for any reason. This includes User Content that we believe violates these Terms, our [Community Guidelines](/community-guidelines), or any other policies.
+    You grant Pinterest and our users a non-exclusive, royalty-free, transferable, sublicensable, worldwide license to use, store, display, reproduce, save, modify, create derivative works, perform, and distribute your User Content on Pinterest solely for the purposes of operating, developing, providing, and using Pinterest. Nothing in these Terms restricts other legal rights Pinterest may have to User Content, for example under other licenses. We reserve the right to remove or modify User Content, or change the way it’s used in Pinterest, for any reason. This includes User Content that we believe violates these Terms, our [Community Guidelines](https://policy.pinterest.com/community-guidelines), or any other policies.
     
     **More simply put**
     
@@ -83,7 +83,7 @@ Thank you for using Pinterest!
 
 4\. Copyright policy
 
-*   Pinterest has adopted and implemented the Pinterest Copyright Policy in accordance with the Digital Millennium Copyright Act and other applicable copyright laws. For more information, please read our [Copyright Policy.](/en/copyright) 
+*   Pinterest has adopted and implemented the Pinterest Copyright Policy in accordance with the Digital Millennium Copyright Act and other applicable copyright laws. For more information, please read our [Copyright Policy.](https://policy.pinterest.com/en/copyright) 
     
     **More simply put**
     
@@ -110,7 +110,7 @@ Thank you for using Pinterest!
 
 7\. Termination
 
-*   Pinterest may terminate or suspend your right to access or use Pinterest for any reason on appropriate notice. We may terminate or suspend your access immediately and without notice if we have a good reason, including any violation of our [Community Guidelines](/community-guidelines). Upon termination, you continue to be bound by Sections 3 and 8 of these Terms.
+*   Pinterest may terminate or suspend your right to access or use Pinterest for any reason on appropriate notice. We may terminate or suspend your access immediately and without notice if we have a good reason, including any violation of our [Community Guidelines](https://policy.pinterest.com/community-guidelines). Upon termination, you continue to be bound by Sections 3 and 8 of these Terms.
     
     **More simply put**
     
