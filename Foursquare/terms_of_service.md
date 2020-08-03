@@ -3,11 +3,11 @@
 FOURSQUARE LABS, INC. TERMS OF USE
 ----------------------------------
 
-PLEASE READ THESE TERMS OF USE CAREFULLY BEFORE USING THE SERVICES OFFERED BY FOURSQUARE LABS, INC. AND PLACED, LLC (COLLECTIVELY, "FOURSQUARE"). THESE TERMS OF USE SET FORTH THE LEGALLY BINDING TERMS AND CONDITIONS FOR YOUR USE OF THE WEBSITES AT [HTTPS://FOURSQUARE.COM](/) AND [HTTPS://PLACED.COM](https://placed.com) (EACH A "SITE", COLLECTIVELY, THE “SITES”), OUR FOURSQUARE CITYGUIDE, SWARM, AND MARSBOT MOBILE APPLICATIONS, AND OUR PLACED PANEL APP, GIVE 2 CHARITY, PATHKEEPER, AND FREQUENT FLYER MOBILE APPLICATIONS (COLLECTIVELY, THE “APPS”) AND THE SERVICES, FEATURES, CONTENT, APPLICATIONS OR WIDGETS OFFERED BY FOURSQUARE (COLLECTIVELY WITH THE SITES AND THE APPS, THE "SERVICES").
+PLEASE READ THESE TERMS OF USE CAREFULLY BEFORE USING THE SERVICES OFFERED BY FOURSQUARE LABS, INC. AND PLACED, LLC (COLLECTIVELY, "FOURSQUARE"). THESE TERMS OF USE SET FORTH THE LEGALLY BINDING TERMS AND CONDITIONS FOR YOUR USE OF THE WEBSITES AT [HTTPS://FOURSQUARE.COM](https://foursquare.com/) AND [HTTPS://PLACED.COM](https://placed.com/) (EACH A "SITE", COLLECTIVELY, THE “SITES”), OUR FOURSQUARE CITYGUIDE, SWARM, AND MARSBOT MOBILE APPLICATIONS, AND OUR PLACED PANEL APP, GIVE 2 CHARITY, PATHKEEPER, AND FREQUENT FLYER MOBILE APPLICATIONS (COLLECTIVELY, THE “APPS”) AND THE SERVICES, FEATURES, CONTENT, APPLICATIONS OR WIDGETS OFFERED BY FOURSQUARE (COLLECTIVELY WITH THE SITES AND THE APPS, THE "SERVICES").
 
 ### Acceptance of Terms.
 
-By registering for and/or using the Services in any manner, including but not limited to visiting or browsing the Site(s), where applicable, you agree to all of the terms and conditions contained herein ("Terms of Use"), which also incorporate Foursquare's [Privacy Policy](/legal/privacy), Foursquare's [Intellectual Property Policy](/legal/ip), Foursquare's [Photo Guidelines](/legal/photos), Foursquare's [Venue Terms and Conditions](/legal/venueterms), Placed Points Program, and all other operating rules, policies and procedures that may be published from time to time on the Site(s) by Foursquare, each of which is incorporated by reference and each of which may be updated by Foursquare from time to time without notice to you in accordance with the terms set out under the "Modification of Terms of Use" section below. In addition, some services offered through the Services may be subject to additional terms and conditions specified by Foursquare from time to time; your use of such services is subject to those additional terms and conditions, which are incorporated into these Terms of Use by this reference. These Terms of Use apply to all users of the Services, including, without limitation, users who are contributors of content, information, and other materials or services on the Site(s), individual users of the Services, venues that access the Services, and users that have a page on the Services.
+By registering for and/or using the Services in any manner, including but not limited to visiting or browsing the Site(s), where applicable, you agree to all of the terms and conditions contained herein ("Terms of Use"), which also incorporate Foursquare's [Privacy Policy](https://foursquare.com/legal/privacy), Foursquare's [Intellectual Property Policy](https://foursquare.com/legal/ip), Foursquare's [Photo Guidelines](https://foursquare.com/legal/photos), Foursquare's [Venue Terms and Conditions](https://foursquare.com/legal/venueterms), Placed Points Program, and all other operating rules, policies and procedures that may be published from time to time on the Site(s) by Foursquare, each of which is incorporated by reference and each of which may be updated by Foursquare from time to time without notice to you in accordance with the terms set out under the "Modification of Terms of Use" section below. In addition, some services offered through the Services may be subject to additional terms and conditions specified by Foursquare from time to time; your use of such services is subject to those additional terms and conditions, which are incorporated into these Terms of Use by this reference. These Terms of Use apply to all users of the Services, including, without limitation, users who are contributors of content, information, and other materials or services on the Site(s), individual users of the Services, venues that access the Services, and users that have a page on the Services.
 
 ### Access.
 
@@ -68,9 +68,9 @@ You shall not (and shall not permit any third party to) either (a) take any acti
 *   contains software viruses or any other computer codes, files, worms, logic bombs or programs that are designed or intended to disrupt, disable, damage, limit or interfere with the proper function of any software, hardware, or telecommunications equipment or to damage or obtain unauthorized access to any system, data, password or other information of Foursquare or any third party;
 *   impersonates any person or entity, including any employee or representative of Foursquare;
 *   includes anyone's identification documents or sensitive information; or
-*   breaches the [Privacy Policy](/legal/privacy), the [House Rules](https://foursquare.com/info/houserules) and/or any of the other policies and rules incorporated herein.
+*   breaches the [Privacy Policy](https://foursquare.com/legal/privacy), the [House Rules](https://foursquare.com/info/houserules) and/or any of the other policies and rules incorporated herein.
 
-If the User Submission includes a photograph, Foursquare's [Photo Guidelines](/legal/photos) shall apply. Foursquare has a zero-tolerance policy against child pornography, and will terminate and report to the appropriate authorities any user who publishes or distributes child pornography.
+If the User Submission includes a photograph, Foursquare's [Photo Guidelines](https://foursquare.com/legal/photos) shall apply. Foursquare has a zero-tolerance policy against child pornography, and will terminate and report to the appropriate authorities any user who publishes or distributes child pornography.
 
 You shall not (directly or indirectly):
 
@@ -90,7 +90,7 @@ Foursquare does not guarantee that any Content or User Submission (as defined ab
 
 ### Card Services
 
-Certain features of our Services and/or certain services and products made available to you through the Services may allow you to purchase services (“Card Services”). Foursquare uses a third-party payment processor (the “Payment Processor”) to link your credit card account to the Services (your “Card Account”) for use of the Card Services. The processing of payments or credits, as applicable, in connection with the Card Services will be subject to the terms, conditions and privacy policies of the Payment Processor and your credit card issuer in addition to this Agreement. Foursquare is not responsible for any errors by the Payment Processor. In connection with your use of the Card Services, Foursquare will obtain certain transaction details, which Foursquare will use solely in accordance with our [Privacy Policy](/legal/privacy).
+Certain features of our Services and/or certain services and products made available to you through the Services may allow you to purchase services (“Card Services”). Foursquare uses a third-party payment processor (the “Payment Processor”) to link your credit card account to the Services (your “Card Account”) for use of the Card Services. The processing of payments or credits, as applicable, in connection with the Card Services will be subject to the terms, conditions and privacy policies of the Payment Processor and your credit card issuer in addition to this Agreement. Foursquare is not responsible for any errors by the Payment Processor. In connection with your use of the Card Services, Foursquare will obtain certain transaction details, which Foursquare will use solely in accordance with our [Privacy Policy](https://foursquare.com/legal/privacy).
 
 ### Points Program and Sweepstakes
 
@@ -98,7 +98,7 @@ If you have enrolled in the Placed Points Program, you agree to be subject to th
 
 ### Feedback and Unsolicited Idea Submission Policy
 
-For information on Foursquare’s Feedback and Unsolicited Idea Submission Policy, please go [here](/legal/ideas).
+For information on Foursquare’s Feedback and Unsolicited Idea Submission Policy, please go [here](https://foursquare.com/legal/ideas).
 
 ### Special Terms for 'Add-to-Foursquare' Link
 
@@ -124,11 +124,11 @@ If you have a "Page" on the Service, you also agree to the following:
 
 ### Special Terms for Verified Venues.
 
-If you are the verified representative of a venue, you also agree to Foursquare's [Venue Terms and Conditions](/legal/venueterms).
+If you are the verified representative of a venue, you also agree to Foursquare's [Venue Terms and Conditions](https://foursquare.com/legal/venueterms).
 
 ### Special Terms for Developers.
 
-If you are a developer or operator of any application or service that uses Foursquare's application programming interface(s) you also agree to Foursquare's [Platform Policy](/legal/api/platformpolicy) and [API License Agreement](/legal/api/licenseagreement).
+If you are a developer or operator of any application or service that uses Foursquare's application programming interface(s) you also agree to Foursquare's [Platform Policy](https://foursquare.com/legal/api/platformpolicy) and [API License Agreement](https://foursquare.com/legal/api/licenseagreement).
 
 ### Advertisements and Promotions.
 
