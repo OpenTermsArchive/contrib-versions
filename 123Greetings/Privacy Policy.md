@@ -18,16 +18,15 @@
 *   Events &. Holidays
 *   MorePetsWorld LanguagesAt WorkFlowersKeep in TouchWeddingInvitations
 
-*   Hug Month
 *   Friendship Day
+*   Hug Month
 *   August Flowers
 *   Smile Month
 *   Raksha Bandhan
 *   More...
     *   Romance Day (Aug 11, 2020)
-    *   Girlfriend's Day (Aug 1, 2020)
-    *   Romance Awareness Month (August 2020)
     *   Sister's Day (Aug 2, 2020)
+    *   Romance Awareness Month (August 2020)
     *   National Watermelon Day (Aug 3, 2020)
     *   Full Moon Day (Aug 3, 2020)
     *   Work Like a Dog Day (Aug 5, 2020)
@@ -35,6 +34,7 @@
     *   Book Lovers' Day (Aug 9, 2020)
     *   Send an Email Day (Aug 9, 2020)
     *   Janmashtami (Aug 11, 2020)
+    *   Thank You Day (Aug 12, 2020)
     *   See All Events
 *   Go
 
