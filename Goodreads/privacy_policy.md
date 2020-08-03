@@ -39,7 +39,7 @@ We use your personal information to display interest-based ads for features, pro
 Children's Privacy
 ------------------
 
-Protecting the privacy of young children is especially important. For that reason, Goodreads does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or e-mail address. No one under age 13 is allowed to provide any personal information to or on Goodreads. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please [contact us](/about/contact_us).
+Protecting the privacy of young children is especially important. For that reason, Goodreads does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or e-mail address. No one under age 13 is allowed to provide any personal information to or on Goodreads. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please [contact us](https://www.goodreads.com/about/contact_us).
 
 California Consumer Privacy Act
 -------------------------------
@@ -51,7 +51,7 @@ Changes to Our Privacy Policy
 
 If we change this Privacy Notice, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Notice are effective when they are posted on this page.
 
-If you have any questions about this Privacy Notice, the practices of this site, or your dealings with this Web site, please [contact us](/about/contact_us), or send mail to:
+If you have any questions about this Privacy Notice, the practices of this site, or your dealings with this Web site, please [contact us](https://www.goodreads.com/about/contact_us), or send mail to:
 
 Goodreads, Inc  
 188 Spear Street , Suite 250  
@@ -59,6 +59,6 @@ San Francisco , CA 94105
 
 ### Updates
 
-June 30, 2020: We replaced our [former privacy policy](/about/privacy2) with a new one. Please read this Privacy Policy carefully.
+June 30, 2020: We replaced our [former privacy policy](https://www.goodreads.com/about/privacy2) with a new one. Please read this Privacy Policy carefully.
 
-October 16, 2008: We replaced our [former privacy policy](/about/privacy1) with a new one. Please read this Privacy Policy carefully.
+October 16, 2008: We replaced our [former privacy policy](https://www.goodreads.com/about/privacy1) with a new one. Please read this Privacy Policy carefully.
