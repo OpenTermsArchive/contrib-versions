@@ -32,7 +32,7 @@ If you are an entity other than a natural person, the person who registers the a
 
 We may update this Agreement by posting a revised version on our website. By continuing to use our Services, you accept any revised Agreement.
 
-This Agreement includes our [Privacy Policy](/privacy) and the addenda listed in **Section 12** below. Please review our Privacy Policy to learn about the information we collect from you, how we use it, and with whom we share it.
+This Agreement includes our [Privacy Policy](https://vimeo.com/privacy) and the addenda listed in **Section 12** below. Please review our Privacy Policy to learn about the information we collect from you, how we use it, and with whom we share it.
 
 2\. Our Services
 ----------------
@@ -52,26 +52,26 @@ If your account (or group of jointly-controlled accounts) is within the 99th per
 
 We may restrict bandwidth or charge extra for the following uses of our player or video hosting tools (which should generally occur via our APIs (as defined below)): (1) plays on third-party sites without using our embeddable video player; (2) plays within third-party apps (e.g., mobile or connected TV apps); (3) plays when our player is connected to a third-party payment solution; or (4) plays when our player is connected to a third-party advertising solution.
 
-**Video Creation Tools:** We may allow you to use Vimeo Create, our video creation tools. Your use of Vimeo Create is governed by our [Vimeo Create Addendum](/vimeo-create-addendum).
+**Video Creation Tools:** We may allow you to use Vimeo Create, our video creation tools. Your use of Vimeo Create is governed by our [Vimeo Create Addendum](https://vimeo.com/vimeo-create-addendum).
 
-**Transactions:** We may offer digital goods for sale. Purchases of Vimeo On Demand videos are governed by our [Vimeo On Demand Viewer Agreement](/vodvieweragreement). Purchases of Vimeo Stock footage and licenses are governed by our [Vimeo Stock License Agreement](/stock/standardlicense).
+**Transactions:** We may offer digital goods for sale. Purchases of Vimeo On Demand videos are governed by our [Vimeo On Demand Viewer Agreement](https://vimeo.com/vodvieweragreement). Purchases of Vimeo Stock footage and licenses are governed by our [Vimeo Stock License Agreement](https://vimeo.com/stock/standardlicense).
 
-**Monetization:** We may allow you to sell digital goods or earn money through advertising. Your sales of videos are governed by our [Seller Addendum](/selleraddendum).
+**Monetization:** We may allow you to sell digital goods or earn money through advertising. Your sales of videos are governed by our [Seller Addendum](https://vimeo.com/selleraddendum).
 
-**Downloadable Software:** We may offer applications for devices (“**Apps**”) directly or through third-party stores. Subject to your compliance with these Terms of Service, Vimeo grants you a limited, non-exclusive, non-transferable, revocable license to download and use the Apps. We may update Apps from time to time to add new features and/or correct bugs. You shall ensure that you are using the most recent version of the App that is compatible with your device. We cannot guarantee that you will be able to use the most recent version of the App on your device. Apps offered through third-party stores are subject to our [Third-Party Service Addendum](/terms/thirdpartyservices).
+**Downloadable Software:** We may offer applications for devices (“**Apps**”) directly or through third-party stores. Subject to your compliance with these Terms of Service, Vimeo grants you a limited, non-exclusive, non-transferable, revocable license to download and use the Apps. We may update Apps from time to time to add new features and/or correct bugs. You shall ensure that you are using the most recent version of the App that is compatible with your device. We cannot guarantee that you will be able to use the most recent version of the App on your device. Apps offered through third-party stores are subject to our [Third-Party Service Addendum](https://vimeo.com/terms/thirdpartyservices).
 
 **Developer Tools:** We may offer application programming interfaces (“**APIs**”) that allow developers to build applications connected to our Services. Our APIs and related documentation are governed by our [API License Addendum](https://developer.vimeo.com/guidelines/terms).
 
-**Enterprise Services:** We may offer Services pursuant to an individually-negotiated agreement. Enterprise services are governed by our [Enterprise Terms](/enterpriseterms).
+**Enterprise Services:** We may offer Services pursuant to an individually-negotiated agreement. Enterprise services are governed by our [Enterprise Terms](https://vimeo.com/enterpriseterms).
 
-**Third Parties:** We may provide links to and integrations with websites or services operated by others. Your use of each such website or service is subject to its terms of service and our [Third-Party Service Addendum](/terms/thirdpartyservices).
+**Third Parties:** We may provide links to and integrations with websites or services operated by others. Your use of each such website or service is subject to its terms of service and our [Third-Party Service Addendum](https://vimeo.com/terms/thirdpartyservices).
 
 3\. Accounts
 ------------
 
 **Registration:** You may create an account to use certain features we offer (e.g., uploading or live streaming videos). To do so, you must provide an email address. By creating an account, you agree to receive notices from Vimeo at this email address.
 
-**Organizational Accounts:** Corporate, governmental, and other organizational users must publicly display the legal name of their entity on their public account profile. If you are a government entity in the U.S., our [Government Entity Addendum](/governmententityaddendum) applies.
+**Organizational Accounts:** Corporate, governmental, and other organizational users must publicly display the legal name of their entity on their public account profile. If you are a government entity in the U.S., our [Government Entity Addendum](https://vimeo.com/governmententityaddendum) applies.
 
 **Age Requirements:** You must be at least 16 years old or the applicable age of majority in your jurisdiction, whichever is greater, to create an account or otherwise use our Services. If you wish to use the Services for a commercial purpose, you must be at least 18 years old. Individuals under the applicable age may use our Services only through a parent or legal guardian’s account and with their involvement. Please have that person read this Agreement with you and consent to it before proceeding.
 
@@ -99,14 +99,14 @@ We may restrict bandwidth or charge extra for the following uses of our player o
 *   Subscription renewals or migrations to other plans;
 *   Fees other than annual or monthly subscription fees;
 *   Requests made after the specified periods;
-*   Customers who have breached this Agreement or whose accounts were terminated in accordance with our [Copyright Policy](/dmca);
+*   Customers who have breached this Agreement or whose accounts were terminated in accordance with our [Copyright Policy](https://vimeo.com/dmca);
 *   Customers who joined using a promotion that expressly disclaimed our refund policy;
 *   Customers who have initiated a chargeback dispute; or
 *   Enterprise plan customers.
 
 **Automatic Renewal:** **To the extent permitted by applicable law, subscriptions automatically renew at the end of each subscription period unless cancelled beforehand. Monthly plans renew for 30-day periods. Annual plans renew for one-year periods.** You must pay the annual or monthly fee (plus any taxes) when each renewal period starts. Unused storage, bandwidth, and other usage limits do not roll over.
 
-**How to Decline Renewal:** **Self-Serve subscribers may opt out of automatic renewal by changing their account settings. Enterprise plan customers may opt out according to the [Enterprise Terms](/enterpriseterms).** Any opt-out or notice of non-renewal will not affect the current subscription period. Vimeo may decline renewals.
+**How to Decline Renewal:** **Self-Serve subscribers may opt out of automatic renewal by changing their account settings. Enterprise plan customers may opt out according to the [Enterprise Terms](https://vimeo.com/enterpriseterms).** Any opt-out or notice of non-renewal will not affect the current subscription period. Vimeo may decline renewals.
 
 **Lapse Policy:** When a subscription ends, the account will, at Vimeo’s option, revert to Basic (free) account status or will be deleted. Any content in the account may be deleted to comply with the limitations of the new account status. You are responsible for archiving your content. Vimeo shall not be responsible for the loss of any content. We may publish additional guidelines regarding the treatment of lapsed subscriptions. These guidelines describe current practices only and shall not require Vimeo to provide any level of post-subscription account status.
 
@@ -121,7 +121,7 @@ We may allow you to upload, live stream, submit, or publish (collectively, to "*
 
 ### 5.1 Copyright Policy
 
-You may only upload content that you have the right to upload and share. Copyright owners may send Vimeo a takedown notice as stated in our [Copyright Policy](/dmca) if they believe Vimeo is hosting infringing materials. We will, in appropriate circumstances, terminate the accounts of persons who repeatedly infringe.
+You may only upload content that you have the right to upload and share. Copyright owners may send Vimeo a takedown notice as stated in our [Copyright Policy](https://vimeo.com/dmca) if they believe Vimeo is hosting infringing materials. We will, in appropriate circumstances, terminate the accounts of persons who repeatedly infringe.
 
 ### 5.2 Content Restrictions
 
@@ -142,7 +142,7 @@ You may not submit any content that:
 *   Depicts or encourages self-harm; or
 *   Violates any applicable law.
 
-Please see the [Vimeo Guidelines](/help/guidelines) for guidance on how we interpret these terms.
+Please see the [Vimeo Guidelines](https://vimeo.com/help/guidelines) for guidance on how we interpret these terms.
 
 ### 5.3 Code of Conduct
 
@@ -200,7 +200,7 @@ The license period begins when you submit the video to Vimeo and ends when you o
 
 ### 6.2 Vimeo Create Content
 
-You may submit certain content to us for the purpose of creating a video using Vimeo Create. These submissions, and the resulting videos, are governed by our [Vimeo Create Addendum](/vimeo-create-addendum).
+You may submit certain content to us for the purpose of creating a video using Vimeo Create. These submissions, and the resulting videos, are governed by our [Vimeo Create Addendum](https://vimeo.com/vimeo-create-addendum).
 
 ### 6.3 Account Profile
 
@@ -274,11 +274,11 @@ Except for matters that must be arbitrated (as set forth below), you and Vimeo a
 
 ### 11.3 Arbitration of Privacy Claims; Class Action Waiver
 
-The exclusive means of resolving any Covered Privacy Claim (defined below) shall be BINDING ARBITRATION. The arbitration will be administered by JAMS under the [JAMS Streamlined Arbitration Rules & Procedures](https://www.jamsadr.com/files/Uploads/Documents/JAMS-Rules/JAMS_streamlined_arbitration_rules-2014.pdf), as modified by our [Arbitration Procedures](/terms/arbitration-procedures). If you are a consumer, as defined by JAMS in its [Consumer Minimum Standards](https://www.jamsadr.com/files/Uploads/Documents/JAMS-Rules/JAMS_Consumer_Min_Stds-2009.pdf), you may request that the arbitration hearing be conducted in the area in which you reside. Otherwise, the hearing (if any) shall take place in New York County, New York State, United States of America. EACH PARTY WAIVES ITS RIGHT TO GO TO COURT, TO A TRIAL BY JURY, AND TO PARTICIPATE IN A CLASS ACTION, CLASS ARBITRATION, OR OTHER REPRESENTATIVE PROCEEDING WITH RESPECT TO ANY COVERED PRIVACY CLAIM.
+The exclusive means of resolving any Covered Privacy Claim (defined below) shall be BINDING ARBITRATION. The arbitration will be administered by JAMS under the [JAMS Streamlined Arbitration Rules & Procedures](https://www.jamsadr.com/files/Uploads/Documents/JAMS-Rules/JAMS_streamlined_arbitration_rules-2014.pdf), as modified by our [Arbitration Procedures](https://vimeo.com/terms/arbitration-procedures). If you are a consumer, as defined by JAMS in its [Consumer Minimum Standards](https://www.jamsadr.com/files/Uploads/Documents/JAMS-Rules/JAMS_Consumer_Min_Stds-2009.pdf), you may request that the arbitration hearing be conducted in the area in which you reside. Otherwise, the hearing (if any) shall take place in New York County, New York State, United States of America. EACH PARTY WAIVES ITS RIGHT TO GO TO COURT, TO A TRIAL BY JURY, AND TO PARTICIPATE IN A CLASS ACTION, CLASS ARBITRATION, OR OTHER REPRESENTATIVE PROCEEDING WITH RESPECT TO ANY COVERED PRIVACY CLAIM.
 
-**Overview:** Arbitration provides a private dispute resolution process that is usually more streamlined and less formal than litigation. In an arbitration, your rights will be determined by a neutral third party called an arbitrator, and not a judge or jury. Both you and Vimeo are entitled to fundamentally fair proceedings at every stage of the arbitration, including the hearing. The arbitrator will decide all issues relating to the dispute, including the question of arbitrability, and can grant any relief that a court could grant. Decisions by the arbitrator are enforceable in court and may be overturned by a court only for very limited reasons. For details on the arbitration process, see our [Arbitration Procedures](/terms/arbitration-procedures).
+**Overview:** Arbitration provides a private dispute resolution process that is usually more streamlined and less formal than litigation. In an arbitration, your rights will be determined by a neutral third party called an arbitrator, and not a judge or jury. Both you and Vimeo are entitled to fundamentally fair proceedings at every stage of the arbitration, including the hearing. The arbitrator will decide all issues relating to the dispute, including the question of arbitrability, and can grant any relief that a court could grant. Decisions by the arbitrator are enforceable in court and may be overturned by a court only for very limited reasons. For details on the arbitration process, see our [Arbitration Procedures](https://vimeo.com/terms/arbitration-procedures).
 
-**Definitions:** A “**Covered Privacy Claim**” means any dispute or claim arising out of or relating to (a) Vimeo’s collection, use, storage, analysis, or transfer of your Personal Information; (b) an alleged breach of our [Privacy Policy](/privacy); (c) an alleged data breach or unauthorized disclosure of data or content; or (d) an allegation that Vimeo failed to comply with any privacy or data security right or obligation. “**Personal Information**” means any information about you, including your registration information (e.g., email address), payment information, location information, device information, biometric identifiers or information, IP address, and your activities (including viewing and search history), but does not include content that you upload (except to the extent the content contains personal information about you).
+**Definitions:** A “**Covered Privacy Claim**” means any dispute or claim arising out of or relating to (a) Vimeo’s collection, use, storage, analysis, or transfer of your Personal Information; (b) an alleged breach of our [Privacy Policy](https://vimeo.com/privacy); (c) an alleged data breach or unauthorized disclosure of data or content; or (d) an allegation that Vimeo failed to comply with any privacy or data security right or obligation. “**Personal Information**” means any information about you, including your registration information (e.g., email address), payment information, location information, device information, biometric identifiers or information, IP address, and your activities (including viewing and search history), but does not include content that you upload (except to the extent the content contains personal information about you).
 
 **Small Claims Court Exception:** Notwithstanding the above, each party has the right to bring an individual Covered Privacy Claim against the other in a small claims court of competent jurisdiction pursuant to Rule 1 of JAMS’ [Minimum Consumer Standards](https://www.jamsadr.com/files/Uploads/Documents/JAMS-Rules/JAMS_Consumer_Min_Stds-2009.pdf). If one party files an arbitration that could be litigated in such a small claims court, the responding party may request that the dispute proceed in small claims court. If the responding party requests to proceed in small claims court before the appointment of the arbitrator, the arbitration shall be administratively closed. If requested after the appointment of the arbitrator, the arbitrator shall administratively close the arbitration so long as the proceedings are at an early stage and no hearing has occurred.
 
@@ -297,18 +297,18 @@ The English version of this Agreement shall control. For convenience, we may pro
 
 **Addenda:** This Agreement incorporates the following documents (and no others) by reference:
 
-*   [Privacy Policy](/privacy)
-*   [Cookie Policy](/cookie_policy)
-*   [Copyright Policy](/dmca)
-*   [Government Entity Addendum](/governmententityaddendum)
-*   [Third-Party Service Addendum](/terms/thirdpartyservices)
-*   [Vimeo Create Addendum](/vimeo-create-addendum)
-*   [Vimeo On Demand Viewer Agreement](/vodvieweragreement)
-*   [Stock Footage License Agreement](/stock/standardlicense)
-*   [Seller Addendum](/selleraddendum)
+*   [Privacy Policy](https://vimeo.com/privacy)
+*   [Cookie Policy](https://vimeo.com/cookie_policy)
+*   [Copyright Policy](https://vimeo.com/dmca)
+*   [Government Entity Addendum](https://vimeo.com/governmententityaddendum)
+*   [Third-Party Service Addendum](https://vimeo.com/terms/thirdpartyservices)
+*   [Vimeo Create Addendum](https://vimeo.com/vimeo-create-addendum)
+*   [Vimeo On Demand Viewer Agreement](https://vimeo.com/vodvieweragreement)
+*   [Stock Footage License Agreement](https://vimeo.com/stock/standardlicense)
+*   [Seller Addendum](https://vimeo.com/selleraddendum)
 *   [API License Addendum](https://developer.vimeo.com/guidelines/terms)
-*   [Arbitration Procedures](/terms/arbitration-procedures)
-*   [Enterprise Terms](/enterpriseterms)
+*   [Arbitration Procedures](https://vimeo.com/terms/arbitration-procedures)
+*   [Enterprise Terms](https://vimeo.com/enterpriseterms)
 
 **Notices:** You must send any notices of a legal nature to us by [email](mailto:legal@vimeo.com) or at:
 
