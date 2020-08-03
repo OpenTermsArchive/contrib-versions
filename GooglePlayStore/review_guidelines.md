@@ -4,7 +4,7 @@ Developer Policy Center \[Print Version\]
 Let's build the world's most trusted source for apps and games
 ==============================================================
 
-Your innovation is what drives our shared success, but with it comes responsibility. These Developer Program Policies, along with the [Developer Distribution Agreement](https://play.google.com/about/developer-distribution-agreement.html), ensure that together we continue to deliver the world's most innovative and trusted apps to over a billion people through Google Play. We invite you to explore our policies below or in a [print view](/googleplay/android-developer/answer/9904549).
+Your innovation is what drives our shared success, but with it comes responsibility. These Developer Program Policies, along with the [Developer Distribution Agreement](https://play.google.com/about/developer-distribution-agreement.html), ensure that together we continue to deliver the world's most innovative and trusted apps to over a billion people through Google Play. We invite you to explore our policies below or in a [print view](https://support.google.com/googleplay/android-developer/answer/9904549).
 
 * * *
 
@@ -330,7 +330,7 @@ You must be transparent in how you handle user data (e.g., information collected
 
 Personal and sensitive user data includes, but isn't limited to, personally identifiable information, financial and payment information, authentication information, phonebook, contacts, [device location](https://developer.android.com/training/location), SMS and call related data, microphone, camera, and other sensitive device or usage data. If your app handles sensitive user data, then you must:
 
-*   Limit your access, collection, use, and sharing of personal or sensitive data acquired through the app to purposes directly related to providing and improving the features of the app (e.g., user anticipated functionality that is documented and promoted in the app's description in the Play Store). Apps that extend usage of this data for serving advertising must be in compliance with our [Ads Policy](/googleplay/android-developer/answer/9857753#location-data).
+*   Limit your access, collection, use, and sharing of personal or sensitive data acquired through the app to purposes directly related to providing and improving the features of the app (e.g., user anticipated functionality that is documented and promoted in the app's description in the Play Store). Apps that extend usage of this data for serving advertising must be in compliance with our [Ads Policy](https://support.google.com/googleplay/android-developer/answer/9857753#location-data).
 *   Post a privacy policy in both the designated field in the Play Console and within the app itself. The privacy policy must, together with any in-app disclosures, comprehensively disclose how your app accesses, collects, uses, and shares user data. Your privacy policy must disclose the types of personal and sensitive data your app accesses, collects, uses, and shares and the types of parties with which any personal or sensitive user data is shared.
 *   Handle all personal or sensitive user data securely, including transmitting it using modern cryptography (for example, over HTTPS).
 *   Use a runtime permissions request whenever available, prior to accessing data gated by [Android permissions](https://developer.android.com/guide/topics/permissions/overview).
@@ -400,7 +400,7 @@ Certain Restricted Permissions may be subject to additional requirements as deta
 
 ### SMS and Call Log Permissions
 
-SMS and Call Log Permissions are regarded as personal and sensitive user data subject to the [Personal and Sensitive Information](/googleplay/android-developer/answer/9888076#personal_sensitive) policy, and the following restrictions:
+SMS and Call Log Permissions are regarded as personal and sensitive user data subject to the [Personal and Sensitive Information](https://support.google.com/googleplay/android-developer/answer/9888076#personal_sensitive) policy, and the following restrictions:
 
 | Restricted Permission | Requirement |
 | --- | --- |
@@ -415,10 +415,10 @@ Apps may only use the permission (and any data derived from the permission) to p
 
 **April 16, 2020 update:** We realize that compliance with the Location policy may require substantial work for some developers, so we are offering an extended timeline to make any necessary changes. **To view timelines and other updates, please visit our [Help Center](https://support.google.com/googleplay/android-developer/answer/9799150)**.
 
-[Device location](https://developer.android.com/training/location) is regarded as personal and sensitive user data subject to the [Personal and Sensitive Information](/googleplay/android-developer/answer/9888076#personal_sensitive) policy and the following requirements:
+[Device location](https://developer.android.com/training/location) is regarded as personal and sensitive user data subject to the [Personal and Sensitive Information](https://support.google.com/googleplay/android-developer/answer/9888076#personal_sensitive) policy and the following requirements:
 
 *   Apps may not access data protected by location permissions (e.g., ACCESS\_FINE\_LOCATION, ACCESS\_COARSE\_LOCATION, ACCESS\_BACKGROUND\_LOCATION) after it is no longer necessary to deliver current features or services in your app.
-*   You should never request location permissions from users for the sole purpose of advertising or analytics. Apps that extend permitted usage of this data for serving advertising must be in compliance with our [Ads Policy](/googleplay/android-developer/answer/9857753).
+*   You should never request location permissions from users for the sole purpose of advertising or analytics. Apps that extend permitted usage of this data for serving advertising must be in compliance with our [Ads Policy](https://support.google.com/googleplay/android-developer/answer/9857753).
 *   Apps should request the minimum scope necessary (i.e., coarse instead of fine, and foreground instead of background) to provide the current feature or service requiring location and users should reasonably expect that the feature or service needs the level of location requested. For example, we may reject apps that request or access background location without compelling justification.
 *   Background location may only be used to provide features beneficial to the user and relevant to the core functionality of the app.
 
@@ -427,7 +427,7 @@ Apps are allowed to access location using foreground service (when the app only 
 *   has been initiated as a continuation of an in-app user-initiated action, and
 *   is terminated immediately after the intended use case of the user-initiated action is completed by the application.
 
-Apps designed specifically for children must comply with the [Designed for Families](/googleplay/android-developer/answer/9893335#designed_for_families_prog) policy.
+Apps designed specifically for children must comply with the [Designed for Families](https://support.google.com/googleplay/android-developer/answer/9893335#designed_for_families_prog) policy.
 
 We don’t allow apps that interfere with, disrupt, damage, or access in an unauthorized manner the user’s device, other devices or computers, servers, networks, application programming interfaces (APIs), or services, including but not limited to other apps on the device, any Google service, or an authorized carrier’s network.
 
@@ -505,7 +505,7 @@ We don’t allow apps or ads that mimic or interfere with system functionality, 
 
  
 
-For additional examples involving ads, please refer to the [Ads policy](/googleplay/android-developer/answer/9857753).
+For additional examples involving ads, please refer to the [Ads policy](https://support.google.com/googleplay/android-developer/answer/9857753).
 
 ### Deceptive Device Settings Changes
 
@@ -773,14 +773,14 @@ You (as the content or access provider) may implement a more flexible refund pol
 Ads
 ---
 
-We don’t allow apps that contain deceptive or disruptive ads. Ads must only be displayed within the app serving them. We consider ads served in your app as part of your app. The ads shown in your app must be compliant with all our policies. For policies on gambling ads, please click [here](/googleplay/android-developer/answer/9877032).
+We don’t allow apps that contain deceptive or disruptive ads. Ads must only be displayed within the app serving them. We consider ads served in your app as part of your app. The ads shown in your app must be compliant with all our policies. For policies on gambling ads, please click [here](https://support.google.com/googleplay/android-developer/answer/9877032).
 
 ### Use of Location Data for Ads
 
-Apps that extend usage of permission based device location data for serving ads are subject to the [Personal and Sensitive Information](/googleplay/android-developer/answer/9888076#personal_sensitive/) policy, and must also comply with the following requirements:
+Apps that extend usage of permission based device location data for serving ads are subject to the [Personal and Sensitive Information](https://support.google.com/googleplay/android-developer/answer/9888076#personal_sensitive/) policy, and must also comply with the following requirements:
 
 *   Use or collection of permission based device location data for advertising purposes must be clear to the user and documented in the app’s mandatory privacy policy, including linking to any relevant ad network privacy policies addressing location data use.
-*   In accordance with [Location Permissions](/googleplay/android-developer/answer/9888170#location_permissions/) requirements, location permissions may only be requested to implement current features or services within your app, and may not request device location permissions solely for the use of ads.
+*   In accordance with [Location Permissions](https://support.google.com/googleplay/android-developer/answer/9888170#location_permissions/) requirements, location permissions may only be requested to implement current features or services within your app, and may not request device location permissions solely for the use of ads.
 
 ### Deceptive Ads
 
@@ -862,15 +862,15 @@ Google Play Services version 4.0 introduced new APIs and an ID for use by advert
 *   **Usage**. The Android advertising identifier must only be used for advertising and user analytics. The status of the “Opt out of Interest-based Advertising” or “Opt out of Ads Personalization” setting must be verified on each access of the ID.
 *   **Association with personally-identifiable information or other identifiers**. The advertising identifier must not be connected to personally-identifiable information or associated with any persistent device identifier (for example: SSAID, MAC address, IMEI, etc.) without explicit consent of the user.
 *   **Respecting users' selections**. If reset, a new advertising identifier must not be connected to a previous advertising identifier or data derived from a previous advertising identifier without the explicit consent of the user. Also, you must abide by a user’s “Opt out of Interest-based Advertising” or “Opt out of Ads Personalization” setting. If a user has enabled this setting, you may not use the advertising identifier for creating user profiles for advertising purposes or for targeting users with personalized advertising. Allowed activities include contextual advertising, frequency capping, conversion tracking, reporting and security and fraud detection.
-*   **Transparency to users**. The collection and use of the advertising identifier and commitment to these terms must be disclosed to users in a legally adequate privacy notification. To learn more about our privacy standards, please review our [User Data](/googleplay/android-developer/answer/9888076) policy.
+*   **Transparency to users**. The collection and use of the advertising identifier and commitment to these terms must be disclosed to users in a legally adequate privacy notification. To learn more about our privacy standards, please review our [User Data](https://support.google.com/googleplay/android-developer/answer/9888076) policy.
 *   **Abiding by the terms of use**. The advertising identifier may only be used in accordance with these terms, including by any party that you may share it with in the course of your business. All apps uploaded or published to Google Play must use the advertising ID (when available on a device) in lieu of any other device identifiers for any advertising purposes.
 
 Families Ads Program
 --------------------
 
-If you serve ads in your app, and the target audience for your app only includes children as described in the [Families Policy](/googleplay/android-developer/answer/9893335), then you must use ad SDKs that have self-certified compliance with Google Play policies, including the Ad SDK certification requirements below. If the target audience for your app includes both children and older users, you must implement age screening measures and make sure that ads shown to children come exclusively from one of these self-certified ad SDKs. Apps in the Designed for Families program are required to only use self-certified ad SDKs.
+If you serve ads in your app, and the target audience for your app only includes children as described in the [Families Policy](https://support.google.com/googleplay/android-developer/answer/9893335), then you must use ad SDKs that have self-certified compliance with Google Play policies, including the Ad SDK certification requirements below. If the target audience for your app includes both children and older users, you must implement age screening measures and make sure that ads shown to children come exclusively from one of these self-certified ad SDKs. Apps in the Designed for Families program are required to only use self-certified ad SDKs.
 
-The use of Google Play certified ad SDKs is only required if you are using ad SDKs to serve ads to children. The following are permitted without an ad SDK's self-certification with Google Play, however, you are still responsible for ensuring your ad content and data collection practices are compliant with Play's [User Data Policy](/googleplay/android-developer/answer/9888076) and [Families Policy](/googleplay/android-developer/answer/9893335):
+The use of Google Play certified ad SDKs is only required if you are using ad SDKs to serve ads to children. The following are permitted without an ad SDK's self-certification with Google Play, however, you are still responsible for ensuring your ad content and data collection practices are compliant with Play's [User Data Policy](https://support.google.com/googleplay/android-developer/answer/9888076) and [Families Policy](https://support.google.com/googleplay/android-developer/answer/9893335):
 
 *   In-House Advertising whereby you use SDKs to manage cross promotion of your apps or other owned media and merchandising
 *   Entering into direct deals with advertisers whereby you use SDKs for inventory management
@@ -1095,7 +1095,7 @@ The use of technology as a tool for enriching families' lives continues to grow,
 
 The word "children" can mean different things in different locales and in different contexts. It is important that you consult with your legal counsel to help determine what obligations and/or age-based restrictions may apply to your app. You know best how your app works so we are relying on you to help us make sure apps on Google Play are safe for families.
 
-Apps designed specifically for children must participate in the Designed for Families program. However, if your app targets children as only one of its audiences, participating in the Designed for Families program is still a great way to surface your app to the right users. If you decide not to participate in the Designed for Families program, you still must comply with the Google Play Families Policy requirements below, as well as all other [Google Play Developer Program Policies](/googleplay/android-developer/answer/9904549) and the [Developer Distribution Agreement](https://play.google.com/about/developer-distribution-agreement.html).
+Apps designed specifically for children must participate in the Designed for Families program. However, if your app targets children as only one of its audiences, participating in the Designed for Families program is still a great way to surface your app to the right users. If you decide not to participate in the Designed for Families program, you still must comply with the Google Play Families Policy requirements below, as well as all other [Google Play Developer Program Policies](https://support.google.com/googleplay/android-developer/answer/9904549) and the [Developer Distribution Agreement](https://play.google.com/about/developer-distribution-agreement.html).
 
 ### Play Console Requirements
 
@@ -1124,12 +1124,12 @@ If one of the target audiences for your app is children, you must comply with th
 1.  **App content:** Your app's content that is accessible to children must be appropriate for children.
 2.  **Google Play Console Answers:** You must accurately answer the questions in the Google Play Console regarding your app and update those answers to accurately reflect any changes to your app.
 3.  **Ads:** If your app displays ads to children or to users of unknown age, you must:
-    *   only use [Google Play certified ad SDKs](/googleplay/android-developer/answer/9900633) to display ads to those users;
+    *   only use [Google Play certified ad SDKs](https://support.google.com/googleplay/android-developer/answer/9900633) to display ads to those users;
     *   ensure ads displayed to those users do not involve interest-based advertising or remarketing;
     *   ensure ads displayed to those users present content that is appropriate for children;
     *   ensure ads displayed to those users follow the Families ad format requirements; and
     *   ensure compliance with all applicable legal regulations and industry standards relating to advertising to children.
-4.  **Data Collection:** You must disclose the collection of any [personal and sensitive information](/googleplay/android-developer/answer/9888076#personal_sensitive) from children in your app, including through APIs and SDKs called or used in your app. Sensitive information from children includes, but is not limited to, authentication information, microphone and camera sensor data, device data, Android ID, ad usage data, and advertising ID.
+4.  **Data Collection:** You must disclose the collection of any [personal and sensitive information](https://support.google.com/googleplay/android-developer/answer/9888076#personal_sensitive) from children in your app, including through APIs and SDKs called or used in your app. Sensitive information from children includes, but is not limited to, authentication information, microphone and camera sensor data, device data, Android ID, ad usage data, and advertising ID.
 5.  **APIs and SDKs:** You must ensure that your app properly implements any APIs and SDKs.
     *   Apps that solely target children must not contain any APIs or SDKs that are not approved for use in child-directed services. This includes, Google Sign-In (or any other Google API Service that accesses data associated with a Google Account), Google Play Games Services, and any other API Service using OAuth technology for authentication and authorization.
     *   Apps that target both children and older audiences should not implement APIs or SDKs that are not approved for use in child-directed services unless they are used behind a [neutral age screen](https://support.google.com/googleplay/android-developer/answer/9285070#neutral-agescreen) or implemented in a way that does not result in the collection of data from children (e.g., providing Google Sign-in as an optional feature). Note that all users must be able to access your app and a reasonable amount of its functionality.
@@ -1155,7 +1155,7 @@ If one of the target audiences for your app is children, you must comply with th
 
 Apps designed specifically for children must participate in the Designed for Families program. If your app is designed for everyone, including children and families, you too can apply to participate in the program.
 
-Before being accepted into the program your app must meet all of the Families Policy requirements and Designed for Families eligibility requirements, in addition to those outlined in the [Google Play Developer Program Policies](https://https://support.google.com/googleplay/android-developer/answer/9904549) and [Developer Distribution Agreement](https://play.google.com/about/developer-distribution-agreement.html).
+Before being accepted into the program your app must meet all of the Families Policy requirements and Designed for Families eligibility requirements, in addition to those outlined in the [Google Play Developer Program Policies](https://https//support.google.com/googleplay/android-developer/answer/9904549) and [Developer Distribution Agreement](https://play.google.com/about/developer-distribution-agreement.html).
 
 For more information on the process for submitting your app for inclusion in the program, click [here](https://support.google.com/googleplay/android-developer/answer/7018303).
 
@@ -1171,7 +1171,7 @@ All apps participating in the Designed for Families program must have both app a
     *   your app shares user-provided personal information with third parties; and
     *   your app shares the user's physical location with other users.
 3.  If your app uses the [Android Speech API](http://developer.android.com/reference/android/speech/package-summary.html), your app's RecognizerIntent.EXTRA\_CALLING\_PACKAGE must be set to its PackageName.
-4.  Apps must only use [Google Play certified ad SDKs](/googleplay/android-developer/answer/9900633).
+4.  Apps must only use [Google Play certified ad SDKs](https://support.google.com/googleplay/android-developer/answer/9900633).
 5.  Apps designed specifically for children cannot request location permissions.
 6.  Apps must use the [Companion Device Manager(CDM)](https://developer.android.com/reference/android/companion/CompanionDeviceManager) when requesting Bluetooth, unless your app is only targeting device Operating System(OS) versions that are not compatible with CDM.
 
@@ -1203,7 +1203,7 @@ Google Play reserves the right to enforce on apps for overly aggressive commerci
 
 Ads and offers for in-app purchases must not have deceptive content or be designed in a way that will result in inadvertent clicks from child users. The following are prohibited:
 
-*   Use of [Ad walls](/googleplay/android-developer/answer/9857753#disruptive-ads)
+*   Use of [Ad walls](https://support.google.com/googleplay/android-developer/answer/9857753#disruptive-ads)
 *   Ads that interfere with normal app use that are not closeable after 5 seconds
 *   Interstitial ads or offers for in-app purchase displayed immediately upon app launch
 *   Multiple ad placements on a page
@@ -1237,9 +1237,9 @@ Ads and offers for in-app purchases must not have deceptive content or be design
 
 **Ad SDKs**
 
-Only [Google Play certified ad SDKs](/googleplay/android-developer/answer/9900633) can be used to serve ads to children. Apps in the Designed for Families program are required to only use Google Play certified ad SDKs. For apps that also target adult users, non-certified ad SDKs may be used if a [neutral age screen](https://support.google.com/googleplay/android-developer/answer/9285070#neutral-agescreen) is present in the app and non-certified ad SDKs are only used to serve ads to known adult users.
+Only [Google Play certified ad SDKs](https://support.google.com/googleplay/android-developer/answer/9900633) can be used to serve ads to children. Apps in the Designed for Families program are required to only use Google Play certified ad SDKs. For apps that also target adult users, non-certified ad SDKs may be used if a [neutral age screen](https://support.google.com/googleplay/android-developer/answer/9285070#neutral-agescreen) is present in the app and non-certified ad SDKs are only used to serve ads to known adult users.
 
-Please refer to the [Families Ads Program policy](/googleplay/android-developer/answer/9900633) page for more details on these requirements and to see the current list of approved ad SDKs.
+Please refer to the [Families Ads Program policy](https://support.google.com/googleplay/android-developer/answer/9900633) page for more details on these requirements and to see the current list of approved ad SDKs.
 
 If you use AdMob, refer to the [AdMob Help Center](https://support.google.com/admob/answer/6223431) for more details on their products.
 
@@ -1256,7 +1256,7 @@ Policy Coverage
 
 Our policies apply to any content your app displays or links to, including any ads it shows to users and any user-generated content it hosts or links to. Further, they apply to any content from your developer account which is publicly displayed in Google Play, including your developer name and the landing page of your listed developer website.
 
-We don't allow apps that let users install other apps to their devices. Apps that provide access to other apps, games, or software without installation, including features and experiences provided by third parties, must ensure that all the content they provide access to adheres to all [Google Play policies](https://https://support.google.com/googleplay/android-developer/answer/9904549) and may also be subject to additional policy reviews.
+We don't allow apps that let users install other apps to their devices. Apps that provide access to other apps, games, or software without installation, including features and experiences provided by third parties, must ensure that all the content they provide access to adheres to all [Google Play policies](https://https//support.google.com/googleplay/android-developer/answer/9904549) and may also be subject to additional policy reviews.
 
 Defined terms used in these policies have the same meaning as in the [Developer Distribution Agreement](https://play.google.com/about/developer-distribution-agreement.html) (DDA). In addition to complying with these policies and the DDA, the content of your app must be rated in accordance with our [Content Rating Guidelines](https://support.google.com/googleplay/android-developer/answer/188189).
 
@@ -1274,7 +1274,7 @@ Please note that removal or administrative notices may not indicate each and eve
 Managing and Reporting Policy Violations
 ----------------------------------------
 
-[How to handle a policy violation on Google Play](//www.youtube.com/watch?v=xjRqFbTHUOQ)
+[How to handle a policy violation on Google Play](https://www.youtube.com/watch?v=xjRqFbTHUOQ)
 
 If you have any questions or concerns regarding a removal or a rating/comment from a user, you may refer to the resources below or contact us through the [Google Play Help Center](https://support.google.com/googleplay/android-developer#topic=3450769). We cannot, however, offer you legal advice. If you need legal advice, please consult legal counsel.
 
