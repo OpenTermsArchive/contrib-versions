@@ -79,7 +79,7 @@ Most activity on Twitter is public, including your [profile information](#toolti
 
 You are responsible for your Tweets and other information you provide through our services, and you should [think carefully about what you make public](#overlay-chapter1.2.1), especially if it is sensitive information. If you update your public information on Twitter, such as by deleting a Tweet or deactivating your account, we will reflect your updated content on Twitter.com, Twitter for iOS, and Twitter for Android.
 
-By publicly posting content when you Tweet, you are directing us to disclose that information as broadly as possible, including through our APIs, and directing those accessing the information through our APIs to do the same. To facilitate the fast global dissemination of Tweets to people around the world, [we use technology like application programming interfaces](https://help.twitter.com/rules-and-policies/twitter-api) ([APIs](https://help.twitter.com/rules-and-policies/twitter-api)) and embeds to make that information available to websites, apps, and others for their use - for example, displaying Tweets on a news website or analyzing what people say on Twitter. We generally make this content available in limited quantities for free and charge licensing fees for large-scale access. We have [standard terms](https://developer.twitter.com/en/developer-terms) that govern how this data can be used, and a compliance program to enforce these terms. But these individuals and companies are not affiliated with Twitter, and their offerings may not reflect updates you make on Twitter. For more information about how we make public data on Twitter available to the world, visit [https://developer.twitter.com](https://developer.twitter.com).
+By publicly posting content when you Tweet, you are directing us to disclose that information as broadly as possible, including through our APIs, and directing those accessing the information through our APIs to do the same. To facilitate the fast global dissemination of Tweets to people around the world, [we use technology like application programming interfaces](https://help.twitter.com/rules-and-policies/twitter-api) ([APIs](https://help.twitter.com/rules-and-policies/twitter-api)) and embeds to make that information available to websites, apps, and others for their use - for example, displaying Tweets on a news website or analyzing what people say on Twitter. We generally make this content available in limited quantities for free and charge licensing fees for large-scale access. We have [standard terms](https://developer.twitter.com/en/developer-terms) that govern how this data can be used, and a compliance program to enforce these terms. But these individuals and companies are not affiliated with Twitter, and their offerings may not reflect updates you make on Twitter. For more information about how we make public data on Twitter available to the world, visit [https://developer.twitter.com](https://developer.twitter.com/).
 
 pageReference: /content/twitter-com/legal/en/privacy/chapter-1/chapter-1-2
 
@@ -640,7 +640,7 @@ Close tooltip
 
 **Effective:** June 18, 2020
 
-[Archive of Previous Privacy Policies](/en/privacy/previous)
+[Archive of Previous Privacy Policies](https://twitter.com/en/privacy/previous)
 
 **1** **The many sides of you.** Let your imagination run free. Explore your interests with a number of different identities.  
 **2** **Hello, World.** Your profile information is displayed under your photo and username on your profile page.  
