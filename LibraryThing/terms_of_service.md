@@ -1,7 +1,7 @@
 Privacy Policy, Community Rules, and Terms of Service
 =====================================================
 
-_This policy has been updated and is effective as of May 25, 2018. The previous version may be found [here](/privacy_20180524.php)._
+_This policy has been updated and is effective as of May 25, 2018. The previous version may be found [here](https://www.librarything.com/privacy_20180524.php)._
 
 These terms apply to users of LibraryThing.com, and its associated domains, such as LibraryThing.nl and LibraryThing.es. They also apply to TinyCat (LibraryCat.org).
 
@@ -14,7 +14,7 @@ LibraryThing abides by US law. We also intend to voluntarily follow the provisio
 
 As of May 25, 2018, LibraryThing has assigned EU status to members based upon their IP address at sign-up, or, where that is not available to us, recent usage. This status does not change unless changed by the member.
 
-To change your EU status, go to your Member [Privacy Center](/settings/privacy). Choosing the incorrect legal status is a violation of LibraryThing's Terms of Service.
+To change your EU status, go to your Member [Privacy Center](https://www.librarything.com/settings/privacy). Choosing the incorrect legal status is a violation of LibraryThing's Terms of Service.
 
 #### Data Protection Officer
 
@@ -38,7 +38,7 @@ By posting content to LibraryThing, you grant—and you represent and warrant th
 
 As stated above, LibraryThing will not sell any personally-identifiable information to any third party.
 
-You can control whether your reviews will ever be made available to libraries or others. Click [here](/editprofile.php) to edit your profile and change your preference.
+You can control whether your reviews will ever be made available to libraries or others. Click [here](https://www.librarything.com/editprofile.php) to edit your profile and change your preference.
 
 ### Get off my lawn, you kids!
 
@@ -142,7 +142,7 @@ LibraryThing collects Personally Identifiable Information (PII) for these purpos
 *   To provide, support, and improve the services LibraryThing offers.
 *   To collect and analyze usage analytics on our user base (see Analytics section below).
 *   To send members service and feature updates (including of planned outages, new features, and version updates), to communicate with members about their accounts, and to provide customer support.
-*   To send members informational and promotional content for use of LibraryThing services, in accordance with their marketing preferences. Members can unsubscribe from our promotional emails using any of the links in the emails, or by updating their [Privacy Center](/settings/privacy) preferences.
+*   To send members informational and promotional content for use of LibraryThing services, in accordance with their marketing preferences. Members can unsubscribe from our promotional emails using any of the links in the emails, or by updating their [Privacy Center](https://www.librarything.com/settings/privacy) preferences.
 *   To participate in optional LibraryThing services that require mailing or emailing material to the participant, including Early Reviewers, Member Giveaways, and SantaThing.
 *   To receive payments for LibraryThing services, including membership upgrades, subscriptions to TinyCat, orders from the LibraryThing Store, etc. We use PayPal for secure credit card transaction processing, and we send billing information to PayPal in order to process orders and credit card payments.
 *   To monitor and enforce compliance with our Terms of Service and applicable law.
@@ -161,7 +161,7 @@ The EU General Data Protection Regulation (GDPR) includes certain rights for cer
 *   **Right to data portability.** The right to request a copy of your personal data.
 *   **Right not to be subject to automated decision-making.** The right to not be subject to a legal or similarly significant decision based solely on automated decision making.
 
-LibraryThing has created a Member [Privacy Center](/settings/privacy) (see above) which allows you to set preferences and exercise these rights. See Member [Privacy Center](/settings/privacy) section above for a full listing of what options are available.
+LibraryThing has created a Member [Privacy Center](https://www.librarything.com/settings/privacy) (see above) which allows you to set preferences and exercise these rights. See Member [Privacy Center](https://www.librarything.com/settings/privacy) section above for a full listing of what options are available.
 
 If you have any questions about your rights under the GDPR, and how they relate to your LibraryThing data, please contact info@librarything.com, making clear your question and your status under the GDPR.
 
@@ -175,7 +175,7 @@ LibraryThing uses third-party cookies from Google to anonymously track web usage
 
 When users are not signed in, some LibraryThing pages include Google Adsense advertisements, which set cookies. These cookies are not involved in any site operation, and are not visible to LibraryThing. Google has some new privacy tools for this, debuting soon. For now, out of an abundance of caution, LibraryThing has decided to exclude all Google Adsense advertisements for users determined to be visiting from the EU. These cookies are not essential to site functionality.
 
-LibraryThing does not currently employ, but may soon employ, cookies set by services such as Iovation ([https://www.iovation.com/](https://www.iovation.com/)) or PowerReviews ([https://www.powerreviews.com](https://www.powerreviews.com)), for the purpose of monitoring for and preventing site abuse, including fraudulent review submission. These cookies are not essential to site functionality, although disabling these cookies may prevent your reviews from being visible outside the site. If part of a larger pattern of site misuse, disabling site-abuse cookies may result in a Terms of Service violation, which is covered elsewhere.
+LibraryThing does not currently employ, but may soon employ, cookies set by services such as Iovation ([https://www.iovation.com/](https://www.iovation.com/)) or PowerReviews ([https://www.powerreviews.com](https://www.powerreviews.com/)), for the purpose of monitoring for and preventing site abuse, including fraudulent review submission. These cookies are not essential to site functionality, although disabling these cookies may prevent your reviews from being visible outside the site. If part of a larger pattern of site misuse, disabling site-abuse cookies may result in a Terms of Service violation, which is covered elsewhere.
 
 #### Domain Cookies
 
@@ -193,11 +193,11 @@ In addition to Google Analytics (above), LibraryThing and TinyCat also collect a
 
 ### Sharing and Transfer of Information
 
-LibraryThing provides Enrichment Services, including LibraryThing for Libraries ([https://www.librarything.com/forlibraries](https://www.librarything.com/forlibraries)) and Syndetics Unbound ([https://proquest.syndetics.com](https://proquest.syndetics.com)), which dynamically enrich library catalogs and other book sites with data from LibraryThing and LibraryThing members. LibraryThing also provides access to the same information via data feeds.
+LibraryThing provides Enrichment Services, including LibraryThing for Libraries ([https://www.librarything.com/forlibraries](https://www.librarything.com/forlibraries)) and Syndetics Unbound ([https://proquest.syndetics.com](https://proquest.syndetics.com/)), which dynamically enrich library catalogs and other book sites with data from LibraryThing and LibraryThing members. LibraryThing also provides access to the same information via data feeds.
 
 Our Enrichment Services include aggregate, anonymous and anonymized metadata, such as popularity, average ratings, and tags. No personally-identifiable information is shared with this data.
 
-Our Enrichment Services also include some member-provided reviews. Such sharing includes member names and the content of user reviews. Members can change their settings for the sharing of reviews (see [Privacy Center](/settings/privacy), above), including options to share with no outside entity, with just libraries, or with all entities. Changing these settings in no way affect members' ability to use the site.
+Our Enrichment Services also include some member-provided reviews. Such sharing includes member names and the content of user reviews. Members can change their settings for the sharing of reviews (see [Privacy Center](https://www.librarything.com/settings/privacy), above), including options to share with no outside entity, with just libraries, or with all entities. Changing these settings in no way affect members' ability to use the site.
 
 ### Third Party Links
 
