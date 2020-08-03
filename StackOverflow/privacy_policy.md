@@ -15,16 +15,16 @@ This privacy policy and our related Privacy Notices (see below) describe how we 
 
 We have set out below, an overview of how our privacy policies work. Depending on how you interact with us, we will collect and process your personal information as shown in the table below.
 
-This statement should be read together with our related Privacy Notices, in particular our [Privacy Notice for the Public Network](/legal/privacy-policy/public-network), [Privacy Notice for Stack Overflow Teams Basic](/legal/privacy-policy/teams-basic), [Privacy Notice for Stack Overflow Teams Business](/legal/privacy-policy/teams-business), [Privacy Notice for Stack Overflow Teams Enterprise](/legal/privacy-policy/teams-enterprise), [Privacy Notice for Stack Overflow Talent and Jobs](/legal/privacy-policy/talent) and our Employee Privacy Notice.
+This statement should be read together with our related Privacy Notices, in particular our [Privacy Notice for the Public Network](https://stackoverflow.com/legal/privacy-policy/public-network), [Privacy Notice for Stack Overflow Teams Basic](https://stackoverflow.com/legal/privacy-policy/teams-basic), [Privacy Notice for Stack Overflow Teams Business](https://stackoverflow.com/legal/privacy-policy/teams-business), [Privacy Notice for Stack Overflow Teams Enterprise](https://stackoverflow.com/legal/privacy-policy/teams-enterprise), [Privacy Notice for Stack Overflow Talent and Jobs](https://stackoverflow.com/legal/privacy-policy/talent) and our Employee Privacy Notice.
 
 |     |     |
 | --- | --- |
-| If you interact with us through the Public Network | In addition, we will collect and process your personal information in accordance with the [Stack Overflow Privacy Notice for the Public Network](/legal/privacy-policy/public-network). |
-| If you are a Stack Overflow for Teams, Basic customer | In addition, we will collect and process your personal information in accordance with the [Stack Overflow for Teams Basic Privacy Notice](/legal/privacy-policy/teams-basic). |
-| If you are a Stack Overflow for Teams, Business customer | In addition, we will collect and process your personal information in accordance with the [Stack Overflow for Teams, Business Privacy Notice](/legal/privacy-policy/teams-business) and any other agreement that we may have with you. |
-| If you are a Stack Overflow Talent customer | This statement should be read together with our related Privacy Notices, in particular our [Stack Overflow Talent Privacy Notice](/legal/privacy-policy/talent) and any other agreement that we may have with you. |
-| If you are a Stack Overflow for Teams, Enterprise customer | In addition, we will collect and process your personal information in accordance with the [Stack Overflow for Teams, Enterprise Privacy Notice](/legal/privacy-policy/teams-enterprise) and any other agreement that we may have with you. |
-| If you visit or register with any of our websites | We will collect and use your personal information in accordance with this Privacy Policy and the Privacy Notice for the Public website if applicable. In particular, we may see how you use our websites and what content you interact with and for how long. This may involve the use of cookies which is explained in our [Cookie Policy](/legal/cookie-policy). |
+| If you interact with us through the Public Network | In addition, we will collect and process your personal information in accordance with the [Stack Overflow Privacy Notice for the Public Network](https://stackoverflow.com/legal/privacy-policy/public-network). |
+| If you are a Stack Overflow for Teams, Basic customer | In addition, we will collect and process your personal information in accordance with the [Stack Overflow for Teams Basic Privacy Notice](https://stackoverflow.com/legal/privacy-policy/teams-basic). |
+| If you are a Stack Overflow for Teams, Business customer | In addition, we will collect and process your personal information in accordance with the [Stack Overflow for Teams, Business Privacy Notice](https://stackoverflow.com/legal/privacy-policy/teams-business) and any other agreement that we may have with you. |
+| If you are a Stack Overflow Talent customer | This statement should be read together with our related Privacy Notices, in particular our [Stack Overflow Talent Privacy Notice](https://stackoverflow.com/legal/privacy-policy/talent) and any other agreement that we may have with you. |
+| If you are a Stack Overflow for Teams, Enterprise customer | In addition, we will collect and process your personal information in accordance with the [Stack Overflow for Teams, Enterprise Privacy Notice](https://stackoverflow.com/legal/privacy-policy/teams-enterprise) and any other agreement that we may have with you. |
+| If you visit or register with any of our websites | We will collect and use your personal information in accordance with this Privacy Policy and the Privacy Notice for the Public website if applicable. In particular, we may see how you use our websites and what content you interact with and for how long. This may involve the use of cookies which is explained in our [Cookie Policy](https://stackoverflow.com/legal/cookie-policy). |
 | If you are a supplier and you or your company provides us with goods or services | We may collect your individual contact information in order to communicate with you and may use other information that we need in order to manage our account with your business. We will process such data in accordance with this Privacy Policy and any other agreement that we may have with you. |
 | If you are employed by us | We will process your personal information in accordance with our Employee Privacy Notice. This will be made available to you internally. |
 
@@ -44,7 +44,7 @@ We use cookies, which are small text files that collect and track certain techni
 *   Information to facilitate your use of our Services (including to provide access to third-party websites and services), such as URL requests, destination IP addresses, or device configuration details; and
 *   Pages you view or search for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), your engagement with certain variable/dynamic elements of a page and methods used to browse away from the page.
 
-More information on cookies can be found [here](/legal/cookie-policy).
+More information on cookies can be found [here](https://stackoverflow.com/legal/cookie-policy).
 
 Information we collect about you from third parties
 
@@ -78,7 +78,7 @@ If you are using the private Network (e.g., Stack Overflow for Teams), your acco
 
 Information we use to identify and authenticate you. We need this information to be able to recognize you, for example, when you access your accounts. It also helps us to protect your details and keep them secure.
 
-Marketing and sales information, e.g. details of the services you receive and your preferences; information about your device or the software you use, e.g. its IP address, technical specification and uniquely identifying data; cookies and similar technologies we use to recognize you, remember your preferences and tailor the content we provide to you – our [cookie policy](/legal/cookie-policy) contains more details about how we use cookies .
+Marketing and sales information, e.g. details of the services you receive and your preferences; information about your device or the software you use, e.g. its IP address, technical specification and uniquely identifying data; cookies and similar technologies we use to recognize you, remember your preferences and tailor the content we provide to you – our [cookie policy](https://stackoverflow.com/legal/cookie-policy) contains more details about how we use cookies .
 
 Device and browser information received automatically
 
@@ -98,7 +98,7 @@ We may share personal information with third parties who provide services to Sta
 
 Advertising and marketing partners
 
-When you register for an account, and when you interact with Stack Overflow, e.g., when you use the Public Network, we and authorized third parties place cookies on you and your account activity as described in more detail within our [cookie policy](/legal/cookie-policy). We use this information to serve you certain advertising content. Similarly, we market our Products and Services to you and communicate important information, product and other opportunities to you. If you do not wish to receive direct marketing communications from us, you can tell us and remove yourself from our marketing communications via the unsubscribe and opt out options in our email communications and your Account Settings. For more information on how to control your account settings or to opt out of direct marketing campaigns, please visit your Profile Settings.
+When you register for an account, and when you interact with Stack Overflow, e.g., when you use the Public Network, we and authorized third parties place cookies on you and your account activity as described in more detail within our [cookie policy](https://stackoverflow.com/legal/cookie-policy). We use this information to serve you certain advertising content. Similarly, we market our Products and Services to you and communicate important information, product and other opportunities to you. If you do not wish to receive direct marketing communications from us, you can tell us and remove yourself from our marketing communications via the unsubscribe and opt out options in our email communications and your Account Settings. For more information on how to control your account settings or to opt out of direct marketing campaigns, please visit your Profile Settings.
 
 Analytics information
 
@@ -175,11 +175,11 @@ When you register for our services or if you or your organization set up a Priva
 
 Click below for links to the Privacy Notices for each of our Products and Service Offerings:
 
-[Privacy Notice for the Public Network](/legal/privacy-policy/public-network)  
-[Privacy Notice for Stack Overflow Teams, Basic](/legal/privacy-policy/teams-basic)  
-[Privacy Notice for Stack Overflow Teams, Business](/legal/privacy-policy/teams-business)  
-[Privacy Notice for Stack Overflow Teams, Enterprise](/legal/privacy-policy/teams-enterprise)  
-[Privacy Notice for Stack Overflow Talent and Jobs](/legal/privacy-policy/talent)  
+[Privacy Notice for the Public Network](https://stackoverflow.com/legal/privacy-policy/public-network)  
+[Privacy Notice for Stack Overflow Teams, Basic](https://stackoverflow.com/legal/privacy-policy/teams-basic)  
+[Privacy Notice for Stack Overflow Teams, Business](https://stackoverflow.com/legal/privacy-policy/teams-business)  
+[Privacy Notice for Stack Overflow Teams, Enterprise](https://stackoverflow.com/legal/privacy-policy/teams-enterprise)  
+[Privacy Notice for Stack Overflow Talent and Jobs](https://stackoverflow.com/legal/privacy-policy/talent)  
 
 Children
 
@@ -187,7 +187,7 @@ Stack Overflow Network is not intended for children and we do not knowingly coll
 
 Cookies
 
-In order to provide the Stack Overflow Network along with the Products and Services described in this policy, we may place cookies on you as well as partner with third parties including advertising partners, who may use cookies or other similar technologies to provide you with advertising based on your browsing activities and interests. Please see our [cookie policy](/legal/cookie-policy) for additional information on how we use cookies and what third party cookies we permit.
+In order to provide the Stack Overflow Network along with the Products and Services described in this policy, we may place cookies on you as well as partner with third parties including advertising partners, who may use cookies or other similar technologies to provide you with advertising based on your browsing activities and interests. Please see our [cookie policy](https://stackoverflow.com/legal/cookie-policy) for additional information on how we use cookies and what third party cookies we permit.
 
 Online and other digital advertising
 
@@ -209,7 +209,7 @@ Where Stack Overflow transfers your personal data from your local jurisdiction (
 
 Privacy shield
 
-Stack Overflow complies with the EU - US Privacy Shield Framework and Swiss - US Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information transferred from the European Union and Switzerland to the United States. Stack Overflow has certified (note: certification under legal name Stack Exchange, Inc.) to the Department of Commerce that it adheres to the Privacy Shield Principles including onward transfer principles as amended by the GDPR where applicable. Stack Overflow acknowledges accountability under the onward transfer principles of the Privacy Shield Framework when transferring data to third parties. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov). Stack Exchange, Inc. is subject to the investigative and enforcement powers of the Federal Trade Commission. Under certain circumstances, you may invoke binding arbitration to determine, for residual claims, whether Stack Overflow has violated its Privacy Shield obligations, and whether any such violation remains fully or partially unremedied. Stack Overflow has further committed to refer unresolved Privacy Shield complaints to the PrivacyTrust Shield Program, an alternative dispute resolution provider located in the United Kingdom. If you do not receive timely acknowledgement of your complaint from Stack Overflow, or if we have not addressed your concern to your satisfaction, please contact us: privacy@stackoverflow.com or visit [https://privacytrust.com/drs/stackexchange](https://privacytrust.com/drs/stackexchange) or at the contact information provided below.
+Stack Overflow complies with the EU - US Privacy Shield Framework and Swiss - US Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information transferred from the European Union and Switzerland to the United States. Stack Overflow has certified (note: certification under legal name Stack Exchange, Inc.) to the Department of Commerce that it adheres to the Privacy Shield Principles including onward transfer principles as amended by the GDPR where applicable. Stack Overflow acknowledges accountability under the onward transfer principles of the Privacy Shield Framework when transferring data to third parties. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/). Stack Exchange, Inc. is subject to the investigative and enforcement powers of the Federal Trade Commission. Under certain circumstances, you may invoke binding arbitration to determine, for residual claims, whether Stack Overflow has violated its Privacy Shield obligations, and whether any such violation remains fully or partially unremedied. Stack Overflow has further committed to refer unresolved Privacy Shield complaints to the PrivacyTrust Shield Program, an alternative dispute resolution provider located in the United Kingdom. If you do not receive timely acknowledgement of your complaint from Stack Overflow, or if we have not addressed your concern to your satisfaction, please contact us: privacy@stackoverflow.com or visit [https://privacytrust.com/drs/stackexchange](https://privacytrust.com/drs/stackexchange) or at the contact information provided below.
 
 Standard contractual clauses
 
