@@ -35,7 +35,7 @@ By registering for, downloading, or using our services, you accept this Privacy 
 2\. Children's Privacy
 ----------------------
 
-We do not knowingly collect personal information from individuals who are under the minimum required ages specified herein. You must be at least 16 years old or the age of majority in your jurisdiction, whichever is greater, to use our services. Individuals under the applicable age may use our services only through a parent or legal guardian's account and with their involvement. If you are a parent or legal guardian who believes your child has provided personal information to Vimeo without your consent, you may ask us to delete such information by contacting us at [privacy@vimeo.com](mailto: privacy@vimeo.com).
+We do not knowingly collect personal information from individuals who are under the minimum required ages specified herein. You must be at least 16 years old or the age of majority in your jurisdiction, whichever is greater, to use our services. Individuals under the applicable age may use our services only through a parent or legal guardian's account and with their involvement. If you are a parent or legal guardian who believes your child has provided personal information to Vimeo without your consent, you may ask us to delete such information by contacting us at [privacy@vimeo.com](mailto:%20privacy@vimeo.com).
 
 3\. Data We Collect About You
 -----------------------------
