@@ -170,7 +170,7 @@ This license is for the limited purpose of:
 *   **operating and improving the services**, which means allowing the services to work as designed and creating new features and functionalities. This includes using automated systems and algorithms to analyze your content:
     *   for spam, malware, and illegal content
     *   to recognize patterns in data, such as determining when to suggest a new album in Google Photos to keep related photos together
-    *   to customize our services for you, such as providing recommendations and personalized search results, content, and ads (which you can change or turn off in [Ads Settings](https://adssettings.google.com/?utm_source=ps-terms&hl=en_US))This analysis occurs as the content is sent, received, and when it is stored.
+    *   to customize our services for you, such as providing recommendations and personalized search results, content, and ads (which you can change or turn off in [Ads Settings](https://adssettings.google.com/?hl=en_US))This analysis occurs as the content is sent, received, and when it is stored.
 *   **using content you’ve shared publicly to promote the services**. For example, to promote a Google app, we might quote a review you wrote. Or to promote Google Play, we might show a screenshot of the app you offer in the Play Store.
 *   **developing new technologies and services** for Google consistent with these terms
 
