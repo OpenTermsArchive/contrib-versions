@@ -107,7 +107,7 @@ You agree to indemnify, defend and hold Sulake and its successors and assigns ha
 
 **10\. ARBITRATION AND CLASS ACTION WAIVER**
 
-Certain portions of this Section 10 are deemed to be a “written agreement to arbitrate” pursuant to the U.S. Federal Arbitration Act and apply to all United States users of the Service and to all other users to the extent the mandatory laws in their country of residence permit the various terms of this Section (so some provisions will not apply to some users if doing so would violate mandatory applicable law).  You and Sulake agree that we intend that this Section 10 satisfies the “writing” requirement of the Federal Arbitration Act.  This Section 10 can only be changed or terminated upon mutual agreement.
+Certain portions of this Section 10 are deemed to be a “written agreement to arbitrate” pursuant to the U.S. Federal Arbitration Act and apply to all United States users of the Service and to all other users to the extent the mandatory laws in their country of residence permit the various terms of this Section (so some provisions will not apply to some users if doing so would violate mandatory applicable law).  You and Sulake agree that we intend that this Section 10 satisfies the “writing” requirement of the Federal Arbitration Act.  This Section 10 can only be changed or terminated upon mutual agreement. 
 
 **10.1   Disputes**. Any controversy, allegation, or claim between you and Sulake arising out of or relating to the Service, the Content, these Terms, or any applicable Additional Terms, whether heretofore or hereafter arising are **“Disputes”**.
 
