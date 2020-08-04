@@ -879,7 +879,7 @@ The use of Google Play certified ad SDKs is only required if you are using ad SD
 
 *   Define what are objectionable ad content and behaviors and prohibit them in the ad SDK's terms or policies. The definitions should not result in non-compliance with Play's Developer Program Policies.
 *   Create a method to rate your ad creatives according to age appropriate groups, including at least groups for Everyone and Mature. The rating methodology must align with the methodology that Google supplies to SDKs once they have filled out the interest form below.
-*   Allow publishers, on a per-request or per-app basis, to request child-directed treatment for ad serving. Such treatment must be in compliance with applicable laws and regulations, such as the [US Children's Online Privacy and Protection Act (COPPA)](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children's-privacy) and the EU [General Data Protection Regulation (GDPR)](https://gdpr.eu/). Google Play also requires disabling of personalized ads, interest based advertising, and remarketing as part of the child-directed treatment.
+*   Allow publishers, on a per-request or per-app basis, to request child-directed treatment for ad serving. Such treatment must be in compliance with applicable laws and regulations, such as the [US Children's Online Privacy and Protection Act (COPPA)](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy) and the EU [General Data Protection Regulation (GDPR)](https://gdpr.eu/). Google Play also requires disabling of personalized ads, interest based advertising, and remarketing as part of the child-directed treatment.
 *   Ensure that when real-time bidding is used to serve ads to children, the creatives have been reviewed and privacy indicators are propagated to the bidders.
 *   Provide Google with sufficient information to verify the ad SDK's compliance with all certification requirements, and respond in a timely manner to any subsequent requests for information.
 
@@ -1139,7 +1139,7 @@ If one of the target audiences for your app is children, you must comply with th
         *   An appropriate message about the importance of parental supervision.
         *   A reminder to be aware of physical hazards in the real world (e.g., be aware of your surroundings).
     *   Your app must not require the usage of a device that is advised not to be used by children. (e.g. Daydream, Oculus)
-8.  **Legal Compliance:** You must ensure that your app, including any APIs or SDKs that your app calls or uses, is compliant with the [U.S. Children's Online Privacy and Protection Act (COPPA)](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children's-privacy), [E.U. General Data Protection Regulation (GDPR)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0679), and any other applicable laws or regulations.
+8.  **Legal Compliance:** You must ensure that your app, including any APIs or SDKs that your app calls or uses, is compliant with the [U.S. Children's Online Privacy and Protection Act (COPPA)](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy), [E.U. General Data Protection Regulation (GDPR)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0679), and any other applicable laws or regulations.
 
 #### Here are some examples of common violations:
 
