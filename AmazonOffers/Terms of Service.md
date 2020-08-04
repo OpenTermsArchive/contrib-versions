@@ -1,6 +1,6 @@
 Find more solutions
 
-Go Digital Services and Device Support › Amazon Device Terms, Warranties, and Notices › Limited-Time Special Offers Promotional Discount Terms &. Conditions
+Digital Services and Device Support › Amazon Device Terms, Warranties, and Notices › Limited-Time Special Offers Promotional Discount Terms &. Conditions
 
 *   The promotional discount is only available for items purchased from a Kindle Fire with Special Offers enabled.
 *   You may only purchase one unit of each product at the promotional discount. Each deal is subject to two time restrictions. The first restriction is for the overall deal and is displayed on the specific deal. The item must be added to the Shopping Cart before time expires to be eligible for the promotional discount. The second restriction applies after a deal item has been placed in the Shopping Cart and expires after a very limited time as indicated when adding the deal to cart. Orders must be placed before expiration to receive the promotional discount.
