@@ -4,13 +4,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   missing my blog
     *   by hsbj
-    *   18 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Missing my Blog
     *   by vi\_\_an
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,28 +19,28 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Themes
     *   0 votes
-    *   3 (last comment by DevilishAngel5 2 days ago)
+    *   3 (last comment by DevilishAngel5 3 days ago)
 *   I can't find my old page
     *   by HIKKO\_LAI
     *   3 months ago
     *   in Themes
     *   0 votes
-    *   1 (last comment by DevilishAngel5 2 days ago)
+    *   1 (last comment by DevilishAngel5 3 days ago)
 *   how can i access my old blogs
     *   \[Resolved\] by e\_e
     *   6 years ago
     *   in Data Migration
     *   0 votes
-    *   14 (last comment by IshaArie 5 days ago)
+    *   14 (last comment by IshaArie 6 days ago)
 *   Old Xanga archived?
     *   by yourmomisreallyfreakinhott
     *   1 month ago
     *   in Data Migration
     *   0 votes
-    *   5 (last comment by HrsCrazy425 5 days ago)
+    *   5 (last comment by HrsCrazy425 6 days ago)
 *   Missing my blogs
     *   by Dantheman3121
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
