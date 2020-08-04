@@ -54,7 +54,7 @@ User Agreement
     6.  User shall be responsible for the security (guessing attacks resistance) of the Authentication Details and its confidentiality.
     7.  User shall be responsible for all actions performed using the User’s Authentications Details, All actions performed upon the Authorisation using the User’s Authentication Details shall be deemed performed by the User personally, unless the User has duly notified the Administration in advance of possible Unauthorised Access and/or any breach (alleged breach) of confidentiality of his/her Authentication Details in accordance herewith.
     8.  The User shall be responsible for any possible loss or distortion of information and for other consequences of any nature which may occur due to the User’s breach of any provisions of the Agreement.
-    9.  User also can get an access to additional Service functions via her/his Facebook’, Twitter’, Google’, VKontakte’ or Mail. ru’ account (Third Party’ Account). Third Party Account functions can be limited in comparison with Account functions.
+    9.  User also can get an access to additional Service functions via her/his Facebook’, Twitter’, Google’, Apple’, VKontakte’ or Mail. ru’ account (Third Party’ Account). Third Party Account functions can be limited in comparison with Account functions.
 5.  #### User Details
     
     1.  The technical data transmitted to the Service by the User’s software as well as any other information transmitted by the User to the Service shall be available to the Administration and may be used at its own discretion legally, including targeting the advertising to User.
