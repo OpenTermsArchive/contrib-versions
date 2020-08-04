@@ -98,7 +98,7 @@ You can visit your Google Account to find and manage activity information that�
 
 ![](https://www.gstatic.com/policies/privacy/0d6da8d8c44e7e3ee95c4d56c19f04e1.svg)
 
-[Go to Google Account](https://myaccount.google.com/?utm_source=pp&hl=en_US)
+[Go to Google Account](https://myaccount.google.com/?hl=en_US)
 
 ### Your location information
 
@@ -150,7 +150,7 @@ We use the information we collect in existing services to help us develop new on
 
 ![](https://www.gstatic.com/policies/privacy/51cd09d6239edc9652bc05ad1d149a5c.svg)
 
-We use the information we collect to customize our services for you, including providing recommendations, personalized content, and [customized search results](https://policies.google.com/privacy?hl=en-US#footnote-customized-search). For example, [Security Checkup](https://myaccount.google.com/security-checkup?utm_source=pp&hl=en_US) provides security tips adapted to how you use Google products. And Google Play uses information like apps you’ve already installed and videos you’ve watched on YouTube to suggest new apps you might like.
+We use the information we collect to customize our services for you, including providing recommendations, personalized content, and [customized search results](https://policies.google.com/privacy?hl=en-US#footnote-customized-search). For example, [Security Checkup](https://myaccount.google.com/security-checkup?hl=en_US) provides security tips adapted to how you use Google products. And Google Play uses information like apps you’ve already installed and videos you’ve watched on YouTube to suggest new apps you might like.
 
 Depending on your settings, we may also show you [personalized ads](https://policies.google.com/privacy?hl=en-US#footnote-personalized-ads) based on your interests. For example, if you search for “mountain bikes,” you may see an ad for sports equipment when you’re browsing a site that shows ads served by Google. You can control what information we use to show you ads by visiting your ad settings.
 
@@ -159,7 +159,7 @@ Depending on your settings, we may also show you [personalized ads](https://poli
 
 ![](https://www.gstatic.com/policies/privacy/900a793eae04f4bddd675f8d95c4a794.svg)
 
-[Go to Ad Settings](https://adssettings.google.com/?utm_source=pp&hl=en_US)
+[Go to Ad Settings](https://adssettings.google.com/?hl=en_US)
 
 ### Measure performance
 
@@ -194,11 +194,11 @@ Your privacy controls
 
 You have choices regarding the information we collect and how it's used
 
-This section describes key controls for managing your privacy across our services. You can also visit the [Privacy Checkup](https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=Promo-in-product&utm_campaign=pp_body&hl=en_US), which provides an opportunity to review and adjust important privacy settings. In addition to these tools, we also offer specific privacy settings in our products — you can learn more in our [Product Privacy Guide](https://policies.google.com/technologies/product-privacy?hl=en-US).
+This section describes key controls for managing your privacy across our services. You can also visit the [Privacy Checkup](https://myaccount.google.com/privacycheckup?hl=en_US), which provides an opportunity to review and adjust important privacy settings. In addition to these tools, we also offer specific privacy settings in our products — you can learn more in our [Product Privacy Guide](https://policies.google.com/technologies/product-privacy?hl=en-US).
 
 ![](https://www.gstatic.com/policies/privacy/2951277d4c35389d7d304ed78d4fb6f6.svg)
 
-[Go to Privacy Checkup](https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=Promo-in-product&utm_campaign=pp_body&hl=en_US)
+[Go to Privacy Checkup](https://myaccount.google.com/privacycheckup?hl=en_US)
 
 Managing, reviewing, and updating your information
 --------------------------------------------------
@@ -215,7 +215,7 @@ We also built a place for you to review and control information saved in your Go
 
 Decide what types of activity you’d like saved in your account. For example, you can turn on Location History if you want traffic predictions for your daily commute, or you can save your YouTube Watch History to get better video suggestions.
 
-[Go to Activity Controls](https://myaccount.google.com/activitycontrols?utm_source=pp&hl=en_US)
+[Go to Activity Controls](https://myaccount.google.com/activitycontrols?hl=en_US)
 
 ![](https://www.gstatic.com/policies/privacy/900a793eae04f4bddd675f8d95c4a794.svg)
 
@@ -223,7 +223,7 @@ Decide what types of activity you’d like saved in your account. For example, y
 
 Manage your preferences about the ads shown to you on Google and on sites and apps that [partner with Google](https://policies.google.com/privacy?hl=en-US#footnote-partner) to show ads. You can modify your interests, choose whether your personal information is used to make ads more relevant to you, and turn on or off certain advertising services.
 
-[Go to Ad Settings](https://adssettings.google.com/?utm_source=pp&hl=en_US)
+[Go to Ad Settings](https://adssettings.google.com/?hl=en_US)
 
 ![](https://www.gstatic.com/policies/privacy/c1b97d74dace7e43a9ccb26841a7cae4.svg)
 
@@ -231,7 +231,7 @@ Manage your preferences about the ads shown to you on Google and on sites and ap
 
 Control what others see about you across Google services.
 
-[Go to About You](https://aboutme.google.com/?utm_source=pp&hl=en_US)
+[Go to About You](https://aboutme.google.com/?hl=en_US)
 
 ![](https://www.gstatic.com/policies/privacy/e28714c71f217892f72b2698ea5cefef.svg)
 
@@ -239,7 +239,7 @@ Control what others see about you across Google services.
 
 Choose whether your name and photo appear next to your activity, like reviews and recommendations, that appear in ads.
 
-[Go to Shared Endorsements](https://myaccount.google.com/shared-endorsements?utm_source=pp&hl=en_US)
+[Go to Shared Endorsements](https://myaccount.google.com/shared-endorsements?hl=en_US)
 
 ![](https://www.gstatic.com/policies/privacy/9c1bd42ba6ec58ce82eef30bbb30ecc3.svg)
 
@@ -247,7 +247,7 @@ Choose whether your name and photo appear next to your activity, like reviews an
 
 If you’re a G Suite user, control whom you share information with through your account on Google+.
 
-[Go to Information You Share](https://plus.google.com/settings?utm_source=pp&hl=en_US)
+[Go to Information You Share](https://plus.google.com/settings?hl=en_US)
 
 ### Ways to review & update your information
 
@@ -257,7 +257,7 @@ If you’re a G Suite user, control whom you share information with through your
 
 My Activity allows you to review and control data that’s created when you use Google services, like searches you’ve done or your visits to Google Play. You can browse by date and by topic, and delete part or all of your activity.
 
-[Go to My Activity](https://myactivity.google.com/myactivity?utm_source=pp&hl=en_US)
+[Go to My Activity](https://myactivity.google.com/myactivity?hl=en_US)
 
 ![](https://www.gstatic.com/policies/privacy/02698a3383765bd3c250471c53a86c5a.svg)
 
@@ -265,7 +265,7 @@ My Activity allows you to review and control data that’s created when you use 
 
 Google Dashboard allows you to manage information associated with specific products.
 
-[Go to Dashboard](https://myaccount.google.com/dashboard?utm_source=pp&hl=en_US)
+[Go to Dashboard](https://myaccount.google.com/dashboard?hl=en_US)
 
 ![](https://www.gstatic.com/policies/privacy/4f19891c43001db11efc8048f9bc7cdb.svg)
 
@@ -273,13 +273,13 @@ Google Dashboard allows you to manage information associated with specific produ
 
 Manage your contact information, such as your name, email, and phone number.
 
-[Go to Personal Info](https://myaccount.google.com/personal-info?utm_source=pp&hl=en_US)
+[Go to Personal Info](https://myaccount.google.com/personal-info?hl=en_US)
 
 When you’re signed out, you can manage information associated with your browser or device, including:
 
-*   Signed-out search personalization: [Choose](https://www.google.com/history/optout?utm_source=pp&hl=en_US) whether your search activity is used to offer you more relevant results and recommendations.
-*   YouTube settings: Pause and delete your [YouTube Search History](https://www.youtube.com/feed/history/search_history?utm_source=pp&hl=en_US) and your [YouTube Watch History](https://www.youtube.com/feed/history?utm_source=pp&hl=en_US).
-*   Ad Settings: [Manage](https://adssettings.google.com/?utm_source=pp&hl=en_US) your preferences about the ads shown to you on Google and on sites and apps that partner with Google to show ads.
+*   Signed-out search personalization: [Choose](https://www.google.com/history/optout?hl=en_US) whether your search activity is used to offer you more relevant results and recommendations.
+*   YouTube settings: Pause and delete your [YouTube Search History](https://www.youtube.com/feed/history/search_history?hl=en_US) and your [YouTube Watch History](https://www.youtube.com/feed/history?hl=en_US).
+*   Ad Settings: [Manage](https://adssettings.google.com/?hl=en_US) your preferences about the ads shown to you on Google and on sites and apps that partner with Google to show ads.
 
 Exporting, removing & deleting your information
 -----------------------------------------------
@@ -288,22 +288,22 @@ You can export a copy of content in your Google Account if you want to back it u
 
 ![](https://www.gstatic.com/policies/privacy/5959e84c2197c8a27da0a717f1cd47d5.svg)
 
-[Export your data](https://takeout.google.com/?utm_source=pp&hl=en_US)
+[Export your data](https://takeout.google.com/?hl=en_US)
 
 You can also [request to remove content](https://support.google.com/legal?p=privpol_remove&hl=en_US) from specific Google services based on applicable law.
 
 To delete your information, you can:
 
 *   Delete your content from [specific Google services](https://policies.google.com/privacy?hl=en-US#footnote-delete-specific)
-*   Search for and then delete specific items from your account using [My Activity](https://myactivity.google.com/?utm_source=pp&hl=en_US)
-*   [Delete specific Google products](https://myaccount.google.com/deleteservices?utm_source=pp&hl=en_US), including your information associated with those products
-*   [Delete your entire Google Account](https://myaccount.google.com/deleteaccount?utm_source=pp&hl=en_US)
+*   Search for and then delete specific items from your account using [My Activity](https://myactivity.google.com/?hl=en_US)
+*   [Delete specific Google products](https://myaccount.google.com/deleteservices?hl=en_US), including your information associated with those products
+*   [Delete your entire Google Account](https://myaccount.google.com/deleteaccount?hl=en_US)
 
 ![](https://www.gstatic.com/policies/privacy/1fa3e4ce8ac456f39ed02a6f9eb49b14.svg)
 
-[Delete your information](https://myaccount.google.com/delete-services-or-account?utm_source=pp&hl=en_US)
+[Delete your information](https://myaccount.google.com/delete-services-or-account?hl=en_US)
 
-And finally, [Inactive Account Manager](https://myaccount.google.com/inactive?utm_source=pp&hl=en_US) allows you to give someone else access to parts of your Google Account in case you’re unexpectedly unable to use your account.
+And finally, [Inactive Account Manager](https://myaccount.google.com/inactive?hl=en_US) allows you to give someone else access to parts of your Google Account in case you’re unexpectedly unable to use your account.
 
 * * *
 
@@ -373,7 +373,7 @@ All Google products are built with strong security features that continuously pr
 We work hard to protect you and Google from unauthorized access, alteration, disclosure, or destruction of information we hold, including:
 
 *   We use encryption to keep your data private while in transit
-*   We offer a range of security features, like [Safe Browsing](https://safebrowsing.google.com/?utm_source=pp&hl=en_US), Security Checkup, and [2 Step Verification](https://www.google.com/landing/2step/?utm_source=pp&hl=en_US) to help you protect your account
+*   We offer a range of security features, like [Safe Browsing](https://safebrowsing.google.com/?hl=en_US), Security Checkup, and [2 Step Verification](https://www.google.com/landing/2step/?hl=en_US) to help you protect your account
 *   We review our information collection, storage, and processing practices, including physical security measures, to prevent unauthorized access to our systems
 *   We restrict access to personal information to Google employees, contractors, and agents who need that information in order to process it. Anyone with this access is subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
 
@@ -388,18 +388,18 @@ You can export a copy of content in your Google Account if you want to back it u
 
 ![](https://www.gstatic.com/policies/privacy/5959e84c2197c8a27da0a717f1cd47d5.svg)
 
-[Export your data](https://takeout.google.com/?utm_source=pp&hl=en_US)
+[Export your data](https://takeout.google.com/?hl=en_US)
 
 To delete your information, you can:
 
 *   Delete your content from [specific Google services](https://policies.google.com/privacy?hl=en-US#footnote-delete-specific)
-*   Search for and then delete specific items from your account using [My Activity](https://myactivity.google.com/?utm_source=pp&hl=en_US)
-*   [Delete specific Google products](https://myaccount.google.com/deleteservices?utm_source=pp&hl=en_US), including your information associated with those products
-*   [Delete your entire Google Account](https://myaccount.google.com/deleteaccount?utm_source=pp&hl=en_US)
+*   Search for and then delete specific items from your account using [My Activity](https://myactivity.google.com/?hl=en_US)
+*   [Delete specific Google products](https://myaccount.google.com/deleteservices?hl=en_US), including your information associated with those products
+*   [Delete your entire Google Account](https://myaccount.google.com/deleteaccount?hl=en_US)
 
 ![](https://www.gstatic.com/policies/privacy/1fa3e4ce8ac456f39ed02a6f9eb49b14.svg)
 
-[Delete your information](https://myaccount.google.com/delete-services-or-account?utm_source=pp&hl=en_US)
+[Delete your information](https://myaccount.google.com/delete-services-or-account?hl=en_US)
 
 Retaining your information
 ==========================
@@ -471,7 +471,7 @@ Other useful resources
 The following links highlight useful resources for you to learn more about our practices and privacy settings.
 
 *   [Your Google Account](https://myaccount.google.com/?hl=en_US) is home to many of the settings you can use to manage your account
-*   [Privacy Checkup](https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=Promo-in-product&utm_campaign=pp_body&hl=en_US) guides you through key privacy settings for your Google Account
+*   [Privacy Checkup](https://myaccount.google.com/privacycheckup?hl=en_US) guides you through key privacy settings for your Google Account
 *   [Google’s safety center](https://www.google.com/intl/en/safetycenter/) helps you learn more about our built-in security, privacy controls, and tools to help set digital ground rules for your family online
 *   [Privacy & Terms](https://policies.google.com/?hl=en-US) provides more context regarding this Privacy Policy and our Terms of Service
 *   [Technologies](https://policies.google.com/technologies?hl=en-US) includes more information about:
@@ -586,7 +586,7 @@ Some examples of how we combine the information we collect include:
 
 ### customized search results
 
-For example, when you’re signed in to your Google Account and have the Web & App Activity control enabled, you can get more relevant search results that are based on your previous searches and activity from other Google services. You can [learn more here](https://support.google.com/websearch?p=privpol_searchactivity&hl=en_US). You may also get customized search results even when you’re signed out. If you don’t want this level of search customization, you can [search and browse privately](https://support.google.com/websearch?p=privpol_incognito&hl=en_US) or turn off [signed-out search personalization](https://www.google.com/history/optout?utm_source=pp&hl=en_US).
+For example, when you’re signed in to your Google Account and have the Web & App Activity control enabled, you can get more relevant search results that are based on your previous searches and activity from other Google services. You can [learn more here](https://support.google.com/websearch?p=privpol_searchactivity&hl=en_US). You may also get customized search results even when you’re signed out. If you don’t want this level of search customization, you can [search and browse privately](https://support.google.com/websearch?p=privpol_incognito&hl=en_US) or turn off [signed-out search personalization](https://www.google.com/history/optout?hl=en_US).
 
 ### deliver our services
 
