@@ -18,23 +18,23 @@
 *   Events &. Holidays
 *   MorePetsWorld LanguagesAt WorkFlowersKeep in TouchWeddingInvitations
 
-*   Raksha Bandhan
 *   August Flowers
 *   Hug Month
 *   Smile Month
 *   Romance Day
-*   Dollar Day
+*   Romance Awareness Month
 *   More...
-    *   National Watermelon Day (Aug 3, 2020)
-    *   Full Moon Day (Aug 3, 2020)
-    *   Romance Awareness Month (August 2020)
     *   Work Like a Dog Day (Aug 5, 2020)
+    *   Dollar Day (Aug 8, 2020)
     *   Book Lovers' Day (Aug 9, 2020)
     *   Send an Email Day (Aug 9, 2020)
     *   Janmashtami (Aug 11, 2020)
     *   International Youth Day (Aug 12, 2020)
     *   Thank You Day (Aug 12, 2020)
     *   International Left-handers Day (Aug 13, 2020)
+    *   Independence Day (Pakistan) (Aug 14, 2020)
+    *   Independence Day (India) (Aug 15, 2020)
+    *   Sit Back and Relax Day (Aug 15, 2020)
     *   See All Events
 *   Go
 
