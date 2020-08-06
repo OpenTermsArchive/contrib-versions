@@ -22,17 +22,17 @@
 *   Hug Month
 *   Smile Month
 *   Romance Day
-*   Romance Awareness Month
+*   Thank You Day
+*   Dollar Day
 *   More...
+    *   True Love Forever Day (Aug 16, 2020)
     *   Work Like a Dog Day (Aug 5, 2020)
-    *   Dollar Day (Aug 8, 2020)
+    *   Romance Awareness Month (August 2020)
     *   Book Lovers' Day (Aug 9, 2020)
     *   Send an Email Day (Aug 9, 2020)
     *   Janmashtami (Aug 11, 2020)
     *   International Youth Day (Aug 12, 2020)
-    *   Thank You Day (Aug 12, 2020)
     *   International Left-handers Day (Aug 13, 2020)
-    *   Independence Day (Pakistan) (Aug 14, 2020)
     *   Independence Day (India) (Aug 15, 2020)
     *   Sit Back and Relax Day (Aug 15, 2020)
     *   See All Events
