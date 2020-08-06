@@ -1,19 +1,19 @@
-*   [Google Play](/)
-*   [Resources](/distribute/marketing-tools)
+*   [Google Play](https://developer.android.com/)
+*   [Resources](https://developer.android.com/distribute/marketing-tools)
 
 Brand guidelines
 ================
 
 The "Android" name, the Android logo, the "Google Play" brand, and other Google trademarks, are property of Google LLC and not part of the assets available through the Android Open Source Project.
 
-These guidelines correspond to and complement the marketing materials on the [Partner Marketing Hub](http://partnermarketinghub.withgoogle.com) and [Google Brand Permissions](https://www.google.com/permissions/).
+These guidelines correspond to and complement the marketing materials on the [Partner Marketing Hub](http://partnermarketinghub.withgoogle.com/) and [Google Brand Permissions](https://www.google.com/permissions/).
 
 All creatives that include or reference Android or Google trademarks must be reviewed and fully approved by the Android brand team. Below are relevant legal guidelines on how to display our trademarks. Use the [brand request form](https://support.google.com/contact/partner_brand_approval) to submit your marketing for review.
 
 Android
 -------
 
-The use of the "Android" trademark on hardware, packaging or marketing materials of device is restricted to [Android-compatible](https://source.android.com/compatibility/index.html) devices only. Here are guidelines for the Android brand and related assets that can be used for compatible devices. For detailed guidance, please consult the [Partner Marketing Hub](http://partnermarketinghub.withgoogle.com).
+The use of the "Android" trademark on hardware, packaging or marketing materials of device is restricted to [Android-compatible](https://source.android.com/compatibility/index.html) devices only. Here are guidelines for the Android brand and related assets that can be used for compatible devices. For detailed guidance, please consult the [Partner Marketing Hub](http://partnermarketinghub.withgoogle.com/).
 
 The following are guidelines for the Android brand and related assets.
 
@@ -39,7 +39,7 @@ The following are guidelines for the Android brand and related assets.
 
 ![](/images/brand/Android_Robot_200.png)
 
-[PNG](/images/brand/Android_Robot.png) | [SVG](/images/brand/Android_Robot.svg) | [AI](/downloads/brand/Android_Robot_outlined.ai)
+[PNG](https://developer.android.com/images/brand/Android_Robot.png) | [SVG](https://developer.android.com/images/brand/Android_Robot.svg) | [AI](https://developer.android.com/downloads/brand/Android_Robot_outlined.ai)
 
 The green Android robot can be reproduced and/or modified as long as the following Creative Commons attribution line is included in the creative:
 
@@ -70,7 +70,7 @@ App developers distributing an Android app can use the [Google Play badge genera
 
 ### Other
 
-For all other uses of the Google Play brand, please consult guidance on the [Partner Marketing Hub](http://partnermarketinghub.withgoogle.com) and submit your request using the inquiry form below.
+For all other uses of the Google Play brand, please consult guidance on the [Partner Marketing Hub](http://partnermarketinghub.withgoogle.com/) and submit your request using the inquiry form below.
 
 Marketing reviews and brand inquiries
 -------------------------------------
