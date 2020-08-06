@@ -8,6 +8,9 @@ Your innovation is what drives our shared success, but with it comes responsibil
 
 * * *
 
+Restricted Content
+==================
+
 People from all over the world use Google Play to access apps and games every day. Before submitting an app, ask yourself if your app is appropriate for Google Play and compliant with local laws.
 
 Child Endangerment
