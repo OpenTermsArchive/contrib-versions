@@ -2,6 +2,7 @@ Terms of service
 ================
 
 Thank you for using Pinterest!
+------------------------------
 
 *   These Terms of Service ("Terms") govern your access to and use of the Pinterest website, apps, APIs, and widgets (“Pinterest” or the “Service”). Please read these Terms carefully, and contact us if you have any questions. By accessing or using Pinterest, you agree to be bound by these Terms, our [Privacy Policy](https://policy.pinterest.com/privacy-policy), our [Cookies Policy](https://policy.pinterest.com/cookies) and our [Community Guidelines](https://policy.pinterest.com/community-guidelines).
     
@@ -11,6 +12,7 @@ Thank you for using Pinterest!
     
 
 1\. Our service
+---------------
 
 *   Pinterest helps you discover and do what you love. To do that, we show you things we think will be relevant, interesting and personal to you based on your onsite and offsite activity. To provide our Service, we need to be able to identify you and your interests. Some of the things we show you are promoted by advertisers. As part of our service we try to ensure that even promoted content is relevant and interesting to you. You can identify promoted content because it will be clearly labelled.
     
@@ -20,6 +22,7 @@ Thank you for using Pinterest!
     
 
 2\. Using Pinterest
+-------------------
 
 *   a. Who can use Pinterest
     ------------------------
@@ -42,6 +45,7 @@ Thank you for using Pinterest!
     
 
 3\. Your content
+----------------
 
 *   a. Posting content
     ------------------
@@ -82,6 +86,7 @@ Thank you for using Pinterest!
     
 
 4\. Copyright policy
+--------------------
 
 *   Pinterest has adopted and implemented the Pinterest Copyright Policy in accordance with the Digital Millennium Copyright Act and other applicable copyright laws. For more information, please read our [Copyright Policy.](https://policy.pinterest.com/en/copyright) 
     
@@ -91,6 +96,7 @@ Thank you for using Pinterest!
     
 
 5\. Security
+------------
 
 *   We care about the security of our users. While we work to protect the security of your content and account, Pinterest can’t guarantee that unauthorized third parties won’t be able to defeat our security measures. We ask that you keep your password secure. Please notify us immediately of any compromise or unauthorized use of your account.
     
@@ -100,6 +106,7 @@ Thank you for using Pinterest!
     
 
 6\. Third party links, sites, and services
+------------------------------------------
 
 *   Pinterest may contain links to third party websites, advertisers, services, special offers, or other events or activities that are not owned or controlled by Pinterest. We don’t endorse or assume any responsibility for any such third party sites, information, materials, products, or services. If you access any third party website, service, or content from Pinterest, you do so at your own risk and you agree that Pinterest has no liability arising from your use of or access to any third party website, service, or content.
     
@@ -109,6 +116,7 @@ Thank you for using Pinterest!
     
 
 7\. Termination
+---------------
 
 *   Pinterest may terminate or suspend your right to access or use Pinterest for any reason on appropriate notice. We may terminate or suspend your access immediately and without notice if we have a good reason, including any violation of our [Community Guidelines](https://policy.pinterest.com/community-guidelines). Upon termination, you continue to be bound by Sections 3 and 8 of these Terms.
     
@@ -118,6 +126,7 @@ Thank you for using Pinterest!
     
 
 8\. Indemnity
+-------------
 
 *   If you use Pinterest for commercial purposes (i.e., you are not a consumer) without agreeing to our [Business Terms](https://business.pinterest.com/business-terms-of-service) as required by Section 2(c) of these Terms, you agree to indemnify and hold harmless Pinterest Inc, Pinterest Europe Ltd, their affiliates and their respective officers, directors, employees and agents, from and against any claims, suits, proceedings, disputes, demands, liabilities, damages, losses, costs and expenses, including, without limitation, reasonable legal and accounting fees (including costs of defense of claims, suits or proceedings brought by third parties), in any way related to your access to or use of our Service, your User Content, or your breach of any of these Terms.
     
@@ -127,6 +136,7 @@ Thank you for using Pinterest!
     
 
 9\. Disclaimers
+---------------
 
 *   Our Service and all content on Pinterest is provided on an "as is" basis without warranty of any kind, whether express or implied.
     
@@ -143,6 +153,7 @@ Thank you for using Pinterest!
     
 
 10\. Limitation of liability
+----------------------------
 
 *   TO THE MAXIMUM EXTENT PERMITTED BY LAW, PINTEREST SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR REVENUES, WHETHER INCURRED DIRECTLY OR INDIRECTLY, OR ANY LOSS OF DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES, RESULTING FROM (A) YOUR ACCESS TO OR USE OF OR INABILITY TO ACCESS OR USE THE SERVICE; (B) ANY CONDUCT OR CONTENT OF ANY THIRD PARTY ON THE SERVICE, INCLUDING WITHOUT LIMITATION, ANY DEFAMATORY, OFFENSIVE OR ILLEGAL CONDUCT OF OTHER USERS OR THIRD PARTIES; OR (C) UNAUTHORIZED ACCESS, USE OR ALTERATION OF YOUR TRANSMISSIONS OR CONTENT. IN NO EVENT SHALL PINTEREST'S AGGREGATE LIABILITY FOR ALL CLAIMS RELATING TO THE SERVICE EXCEED ONE HUNDRED U.S. DOLLARS (U.S. $100.00).
     
@@ -155,6 +166,7 @@ Thank you for using Pinterest!
     
 
 11\. Arbitration
+----------------
 
 *   For any dispute you have with Pinterest, you agree to first contact us and try to resolve the dispute with us informally. If we need to contact you, we will do so at the email address on your Pinterest account. If Pinterest hasn’t been able to resolve the dispute with you informally, we each agree to resolve any claim, dispute, or controversy (excluding claims for injunctive or other equitable relief) arising out of or in connection with or relating to these Terms through binding arbitration or (for qualifying claims) in small claims court.
     
@@ -169,6 +181,7 @@ Thank you for using Pinterest!
     
 
 12\. Governing law and jurisdiction
+-----------------------------------
 
 *   These Terms shall be governed by the laws of the State of California, without respect to its conflict of laws principles. If you are not a consumer in the EEA, the exclusive place of jurisdiction for all disputes arising from or in connection with this agreement is San Francisco County, California, or the United States District Court for the Northern District of California and our dispute will be determined under California law.
     
@@ -184,6 +197,7 @@ Thank you for using Pinterest!
     
 
 13\. General terms
+------------------
 
 *   Notification procedures and changes to these Terms
     --------------------------------------------------
