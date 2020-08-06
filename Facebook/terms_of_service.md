@@ -21,7 +21,7 @@ Our mission is to give people the power to build community and bring the world c
     
 *   **Empower you to express yourself and communicate about what matters to you:** There are many ways to express yourself on Facebook and to communicate with friends, family and others about what matters to you – for example, sharing status updates, photos, videos and stories across the Facebook Products that you use, sending messages to a friend or several people, creating events or groups, or adding content to your profile. We have also developed, and continue to explore, new ways for people to use technology, such as augmented reality and 360 video to create and share more expressive and engaging content on Facebook.
     
-*   [](#)**Help you discover content, products and services that may interest you:** We show you ads, offers and other sponsored content to help you discover content, products and services that are offered by the many businesses and organisations that use Facebook and other Facebook Products. Section 2 below explains this in more detail.
+*   **Help you discover content, products and services that may interest you:** We show you ads, offers and other sponsored content to help you discover content, products and services that are offered by the many businesses and organisations that use Facebook and other Facebook Products. Section 2 below explains this in more detail.
     
 *   **Combat harmful conduct, and protect and support our community:** People will only build community on Facebook if they feel safe. We employ dedicated teams around the world and develop advanced technical systems to detect misuse of our Products, harmful conduct towards others and situations where we may be able to help support or protect our community. If we learn of content or conduct like this, we will take appropriate action – for example, offering help, removing content, blocking access to certain features, disabling an account or contacting law enforcement. We share data with other [Facebook Companies](https://www.facebook.com/help/111814505650678?ref=tos) when we detect misuse or harmful conduct by someone using one of our Products.
     
@@ -159,7 +159,7 @@ We provide these services to you and others to help advance our mission. In exch
     
       
     
-2.  Account suspension or termination[](#)  
+2.  Account suspension or termination  
     We want Facebook to be a place where people feel welcome and safe to express themselves and share their thoughts and ideas.
     
     If we determine that you have clearly, seriously or repeatedly breached our Terms or Policies, including in particular our [Community Standards](https://www.facebook.com/communitystandards), we may suspend or permanently disable access to your account. We may also suspend or disable your account if you repeatedly infringe other people's intellectual property rights or where we are required to do so for legal reasons.
@@ -209,8 +209,6 @@ We provide these services to you and others to help advance our mission. In exch
 
 **5\. Other Terms and Policies that may apply to you**
 ------------------------------------------------------
-
-[](#)
 
 *   [Community Standards](https://www.facebook.com/communitystandards): These guidelines outline our standards regarding the content that you post to Facebook and your activity on Facebook and other Facebook Products.
     
