@@ -585,7 +585,7 @@ Code that tricks users into subscribing to or purchasing content via their mobil
 
 Toll Fraud includes any type of billing except premium SMS and premium calls. Examples of this include direct carrier billing, wireless access point (WAP), and mobile airtime transfer. WAP fraud is one of the most prevalent types of Toll fraud. WAP fraud can include tricking users to click a button on a silently loaded, transparent WebView. Upon performing the action, a recurring subscription is initiated, and the confirmation SMS or email is often hijacked to prevent users from noticing the financial transaction.
 
-### Commercial Spyware
+### Stalkerware
 
 Code that transmits personal information off the device without adequate notice or consent and doesn't display a persistent notification that this is happening.
 
