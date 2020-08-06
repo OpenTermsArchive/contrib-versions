@@ -5,18 +5,16 @@ This Policy describes the information we process to support Facebook, Instagram,
 
 ### What kinds of information do we collect?
 
-[](#)To provide the Facebook Products, we must process information about you. The type of information that we collect depends on how you use our Products. You can learn how to access and delete information that we collect by visiting the [Facebook settings](https://www.facebook.com/settings) and [Instagram settings](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fprivacy_and_security%2F).
+To provide the Facebook Products, we must process information about you. The type of information that we collect depends on how you use our Products. You can learn how to access and delete information that we collect by visiting the [Facebook settings](https://www.facebook.com/settings) and [Instagram settings](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fprivacy_and_security%2F).
 
 Things that you and others do and provide.
-
-[](#)
 
 *   **Information and content you provide.** We collect the content, communications and other information you provide when you use our Products, including when you sign up for an account, create or share content and message or communicate with others. This can include information in or about the content that you provide (e.g. metadata), such as the location of a photo or the date a file was created. It can also include what you see through features that we provide, such as our [camera](https://www.facebook.com/help/162347444215311), so we can do things such as suggest masks and filters that you might like, or give you tips on using portrait mode. Our systems automatically process content and communications that you and others provide to analyse context and what's in them for the purposes described [below](#how-we-use-information). Learn more about how you can control who can see the things you [share](https://www.facebook.com/help/1297502253597210?ref=dp).
     
     *   Data with special protections: You can choose to provide information in your Facebook [profile fields](https://www.facebook.com/help/353111348061173?ref=dp) or life events about your religious views, political views, who you are "interested in" or your health. This and other information (such as racial or ethnic origin, philosophical beliefs or trade union membership) is subject to special protections under EU law.
         
     
-*   **Networks and connections.** We collect information about the people, [Pages](https://www.facebook.com/help/282489752085908?ref=dp), accounts, [hashtags](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F351460621611097%3Fref%3Ddp) and groups that you are connected to and how you interact with them across our Products, such as people you communicate with the most or groups that you are part of. We also collect contact information if you [choose to upload, sync or import it from a device](https://www.facebook.com/help/561688620598358?ref=dp) (such as an address book or call log or SMS log history), which we use for things such as helping you and others find people you may know and for the other purposes listed [below](#).
+*   **Networks and connections.** We collect information about the people, [Pages](https://www.facebook.com/help/282489752085908?ref=dp), accounts, [hashtags](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F351460621611097%3Fref%3Ddp) and groups that you are connected to and how you interact with them across our Products, such as people you communicate with the most or groups that you are part of. We also collect contact information if you [choose to upload, sync or import it from a device](https://www.facebook.com/help/561688620598358?ref=dp) (such as an address book or call log or SMS log history), which we use for things such as helping you and others find people you may know and for the other purposes listed below.
     
 *   **Your usage.** We collect information about how you use our Products, such as the types of content that you view or engage with, the features you use, the actions you take, the people or accounts you interact with and the time, frequency and duration of your activities. For example, we log when you're using and have last used our Products, and what posts, videos and other content you view on our Products. We also collect information about how you use features such as our camera.
     
@@ -27,7 +25,7 @@ Things that you and others do and provide.
 
 Device information.
 
-[](#)As described below, we collect information from and about the computers, phones, connected TVs and other web-connected devices you use that integrate with our Products, and we combine this information across different devices that you use. For example, we use information collected about your use of our Products on your phone to better personalise the content (including [ads](https://www.facebook.com/help/119468292028768?ref=dp)) or features that you see when you use our Products on another device, such as your laptop or tablet, or to measure whether you took an action in response to an ad that we showed you on your phone on a different device.  
+As described below, we collect information from and about the computers, phones, connected TVs and other web-connected devices you use that integrate with our Products, and we combine this information across different devices that you use. For example, we use information collected about your use of our Products on your phone to better personalise the content (including [ads](https://www.facebook.com/help/119468292028768?ref=dp)) or features that you see when you use our Products on another device, such as your laptop or tablet, or to measure whether you took an action in response to an ad that we showed you on your phone on a different device.  
   
 Information that we obtain from these devices includes:  
   
@@ -57,7 +55,7 @@ To learn more about how we use cookies in connection with Facebook Business Tool
 
 ### How do we use this information?
 
-[](#)We use the information that we have (subject to choices you make) as described below, and to provide and support the Facebook Products and related services described in the [Facebook Terms](https://www.facebook.com/legal/terms/update) and [Instagram Terms](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F581066165581870%3Fref%3Ddp). Here's how:
+We use the information that we have (subject to choices you make) as described below, and to provide and support the Facebook Products and related services described in the [Facebook Terms](https://www.facebook.com/legal/terms/update) and [Instagram Terms](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F581066165581870%3Fref%3Ddp). Here's how:
 
 Provide, personalise and improve our Products.
 
@@ -76,11 +74,11 @@ We use the information we have to deliver our Products, including to personalise
 
 Provide measurement, analytics and other business services.
 
-[](#)We use the information we have (including your activity off our Products, such as the websites you visit and ads you see) to help advertisers and other partners measure the effectiveness and distribution of their ads and services, and understand the types of people who use their services and how people interact with their websites, apps and services. [Learn how we share information](#sharing-partner-information) with these partners.
+We use the information we have (including your activity off our Products, such as the websites you visit and ads you see) to help advertisers and other partners measure the effectiveness and distribution of their ads and services, and understand the types of people who use their services and how people interact with their websites, apps and services. [Learn how we share information](#sharing-partner-information) with these partners.
 
 Promote safety, integrity and security.
 
-[](#)We use the information that we have to verify accounts and activity, combat harmful conduct, detect and prevent spam and other bad experiences, maintain the integrity of our Products, and promote safety and security on and off Facebook Products. For example, we use data that we have to investigate suspicious activity or breaches of our Terms or Policies, or to [detect when someone needs help](https://code.facebook.com/posts/286893341840510/under-the-hood-suicide-prevention-tools-powered-by-ai/). To learn more, visit the [Facebook Security Help Centre](https://www.facebook.com/help/379220725465972?ref=dp) and [Instagram Security Tips](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F369001149843369).
+We use the information that we have to verify accounts and activity, combat harmful conduct, detect and prevent spam and other bad experiences, maintain the integrity of our Products, and promote safety and security on and off Facebook Products. For example, we use data that we have to investigate suspicious activity or breaches of our Terms or Policies, or to [detect when someone needs help](https://code.facebook.com/posts/286893341840510/under-the-hood-suicide-prevention-tools-powered-by-ai/). To learn more, visit the [Facebook Security Help Centre](https://www.facebook.com/help/379220725465972?ref=dp) and [Instagram Security Tips](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F369001149843369).
 
 Communicate with you.
 
@@ -88,11 +86,11 @@ We use the information that we have to send you marketing communications, commun
 
 Research and innovate for social good.
 
-[](#)We use the information we have (including from research partners we collaborate with) to conduct and support [research](https://l.facebook.com/l.php?u=https%3A%2F%2Fresearch.fb.com%2F) and innovation on topics of general social welfare, technological advancement, public interest, health and well-being. For example, [we analyse information that we have about migration patterns during crises](https://l.facebook.com/l.php?u=https%3A%2F%2Fresearch.fb.com%2Ffacebook-disaster-maps-methodology%2F) to aid relief efforts. [Learn more](https://l.facebook.com/l.php?u=https%3A%2F%2Fresearch.fb.com%2F) about our research programmes.
+We use the information we have (including from research partners we collaborate with) to conduct and support [research](https://l.facebook.com/l.php?u=https%3A%2F%2Fresearch.fb.com%2F) and innovation on topics of general social welfare, technological advancement, public interest, health and well-being. For example, [we analyse information that we have about migration patterns during crises](https://l.facebook.com/l.php?u=https%3A%2F%2Fresearch.fb.com%2Ffacebook-disaster-maps-methodology%2F) to aid relief efforts. [Learn more](https://l.facebook.com/l.php?u=https%3A%2F%2Fresearch.fb.com%2F) about our research programmes.
 
 ### How is this information shared?
 
-[](#)Your information is shared with others in the following ways:  
+Your information is shared with others in the following ways:  
   
 
 Sharing on Facebook Products
@@ -131,7 +129,7 @@ If the ownership or control of all or part of our Products or their assets chang
 
 Sharing with third-party partners
 
-[](#)We work with third-party partners who help us provide and improve our Products or who use Facebook Business Tools to grow their businesses, which makes it possible to operate our companies and provide free services to people around the world. We don't sell any of your information to anyone and we never will. We also impose strict restrictions on how our partners can use and disclose the data we provide. Here are the types of third parties that we share information with:  
+We work with third-party partners who help us provide and improve our Products or who use Facebook Business Tools to grow their businesses, which makes it possible to operate our companies and provide free services to people around the world. We don't sell any of your information to anyone and we never will. We also impose strict restrictions on how our partners can use and disclose the data we provide. Here are the types of third parties that we share information with:  
 
 Partners who use our analytics services.
 
