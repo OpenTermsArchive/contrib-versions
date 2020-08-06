@@ -21,6 +21,7 @@ Privacy policy
     *   [Contact us](#section-contact-us)
 
 Summary of changes
+------------------
 
 *   We added more details about data we collect and how it's used, along with a new way to control whether it is used to report on ads performance.
     
@@ -28,6 +29,7 @@ Summary of changes
     
 
 Thank you for using Pinterest!
+------------------------------
 
 *   Our mission is to bring everyone the inspiration to create a life they love. To do that, we show you personalized content and ads we think you’ll be interested in based on information we collect from you and third parties. We only use that information where we have a proper legal basis for doing so.
     
@@ -35,6 +37,7 @@ Thank you for using Pinterest!
     
 
 We collect information in a few different ways
+----------------------------------------------
 
 *   #### 1\. When you give it to us or give us permission to obtain it
     
@@ -60,6 +63,7 @@ We collect information in a few different ways
     
 
 What we do with the info we collect
+-----------------------------------
 
 *   #### We’re committed to showing you content that’s relevant, interesting and personal to you. To do that, we use your information to provide and improve your experience, including:
     
@@ -103,6 +107,7 @@ What we do with the info we collect
     
 
 Transferring your information
+-----------------------------
 
 *   Pinterest is a worldwide service. By using our products or services, you authorize us to transfer and store your information outside your home country, including in the United States, for the purposes described in this policy. The privacy protections and the rights of authorities to access your personal information in such countries may not be equivalent to those of your home country.
     
@@ -110,6 +115,7 @@ Transferring your information
     
 
 Choices you have about your info
+--------------------------------
 
 *   Our goal is to give you simple and meaningful choices regarding your information. If you have a Pinterest account, many of these controls are built directly into Pinterest or your settings. For example, you can:
     
@@ -132,6 +138,7 @@ Choices you have about your info
     
 
 How and when we share information
+---------------------------------
 
 *   Anyone can see the public boards and Pins you create and profile information you give us. We also make this public information available through what are called APIs (basically a technical way to share information quickly). For example, a partner can study what their most popular Pins are or how their Pins are being shared on Pinterest by using a Pinterest API. We also share your information with:
     
@@ -144,16 +151,19 @@ How and when we share information
     
 
 How long we keep your information
+---------------------------------
 
 *   We keep your information only so long as we need it to provide Pinterest to you and fulfill the purposes described in this policy. This is also the case for anyone that we share your information with and who carries out services on our behalf. When we no longer need to use your information and there is no need for us to keep it to comply with our legal or regulatory obligations, we’ll either remove it from our systems or depersonalize it so that we can't identify you.
     
 
 Our policy on children’s information
+------------------------------------
 
 *   Children under 13 are not allowed to use Pinterest. If you are based in the EEA you may only use Pinterest if you are over the age at which you can provide consent to data processing under the laws of your country. If you are a parent and you learn that your child is using Pinterest and you don't want them to, [please contact us](https://help.pinterest.com/contact).
     
 
 Your options
+------------
 
 *   You have options in relation to the information that we have about you. To exercise these options, please visit your [account settings](https://www.pinterest.com/settings/privacy) and, if you still need help, our [Help Center](https://help.pinterest.com/).
     
@@ -168,6 +178,7 @@ Your options
     
 
 Residents of the EEA
+--------------------
 
 *   If you have any questions about our data processing activities, the data controller you should contact is Pinterest Europe Ltd., an Irish company with its registered office at Palmerston House, 2nd Floor, Fenian Street, Dublin 2, Ireland. You can also contact our [Data Protection Officer](https://help.pinterest.com/data-protection-officer-contact-form).
     
@@ -177,6 +188,7 @@ Residents of the EEA
     
 
 California residents
+--------------------
 
 *   The California Consumer Privacy Act (CCPA) requires us to disclose categories of Personal Information we collect and how we use it, the categories of sources from whom we collect Personal Information, and the third parties with whom we share it, which we have explained above.
     
@@ -212,11 +224,13 @@ California residents
     
 
 How we make changes to this policy
+----------------------------------
 
 *   We may change this policy from time to time and if we do, we’ll post any changes on this page. If you continue to use Pinterest after those changes are in effect, you agree to the new policy. If the changes are significant, we may provide a more prominent notice or get your consent, as required by law.
     
 
 Contact us
+----------
 
 *   The best way to get in touch with us or to exercise your options described above is through the [Help Center](https://help.pinterest.com/contact). If you live in the United States, Pinterest, Inc. is responsible for your information. You can contact Pinterest Inc. at 651 Brannan Street, San Francisco, CA 94107, USA.
     
