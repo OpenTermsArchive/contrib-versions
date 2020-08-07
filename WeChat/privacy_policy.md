@@ -35,7 +35,7 @@ If there are any significant changes to this Privacy Policy, we will update the 
 
 ### Contact Information for Dispute Resolution
 
-If you have any concerns or complaints, please contact us [here](https://help.wechat.com).
+If you have any concerns or complaints, please contact us [here](https://help.wechat.com/).
 
 Data Controllers:
 
@@ -344,7 +344,7 @@ You may request we stop processing and just store the Personal Information we ho
 
 _**Portability**_
 
-You have the right to receive a copy of certain Personal Information we collect from you. This comprises any personal information we process on the basis of your consent (e.g., voluntarily-provided profile data, social media content posted to Moments and Time Capsule, content selected to store to Favorites) or pursuant to our contract with you (e.g., profile data), as described in the section [_**"How do we use your information"**_](/mobile/htdocs/en/privacy_policy7.html). You have the right to receive this information in a structured, commonly used and machine-readable format. You also have the right to request that we transfer that personal information to another party. You can exercise your right to export your data by following the instructions [here](https://help.wechat.com/cgi-bin/micromsg-bin/oshelpcenter?opcode=2&lang=en&plat=ios&id=180323e2Ermm180323yqauAZ&Channel=helpcenter).
+You have the right to receive a copy of certain Personal Information we collect from you. This comprises any personal information we process on the basis of your consent (e.g., voluntarily-provided profile data, social media content posted to Moments and Time Capsule, content selected to store to Favorites) or pursuant to our contract with you (e.g., profile data), as described in the section [_**"How do we use your information"**_](https://www.wechat.com/mobile/htdocs/en/privacy_policy7.html). You have the right to receive this information in a structured, commonly used and machine-readable format. You also have the right to request that we transfer that personal information to another party. You can exercise your right to export your data by following the instructions [here](https://help.wechat.com/cgi-bin/micromsg-bin/oshelpcenter?opcode=2&lang=en&plat=ios&id=180323e2Ermm180323yqauAZ&Channel=helpcenter).
 
 If you wish for us to transfer the Personal Information to a third party, please ensure you detail that party. Note that we can only do so where it is technically feasible. We are not responsible for the security of the Personal Information or its processing once received by the third party. We also may not provide you with certain Personal Information if providing it would interfere with another’s rights (e.g. where providing the Personal Information we hold about you would reveal information about another person or our trade secrets or intellectual property).
 
@@ -360,9 +360,9 @@ We may from time to time revise or add specific instructions, policies and terms
 
 Whenever we make any changes to this Privacy Policy that are important for you to know about, we will post the updated Privacy Policy at this link and notify you via WeChat or other means before the change becomes effective.
 
-[![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=ef4cb85d-f630-4712-b0cd-70784518c491)](//privacy.truste.com/privacy-seal/validation?rid=ef4cb85d-f630-4712-b0cd-70784518c491)
+[![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=ef4cb85d-f630-4712-b0cd-70784518c491)](https://privacy.truste.com/privacy-seal/validation?rid=ef4cb85d-f630-4712-b0cd-70784518c491)
 
-Last modified: 2020-04-09
+Last modified: 2020-08-07
 
 ### Addendum for California Residents
 
@@ -421,54 +421,56 @@ We aim to fulfill all verified requests within 45 days pursuant to the CCPA. If 
 
 First, you may wish to log into your account and manage your data from there.If you are a California resident to whom the CCPA applies, you may exercise your rights, if any, to other data by contacting us at **[dataprotection@wechat.com](mailto:dataprotection@wechat.com)**.
 
-### Addendum for Korean Users
+### Republic of Korea
 
 **The following section applies for the purposes of users located in Korea only.**
 
-The personal information we provide to third-parties located outside of Korea for the WeChat service is as follows:
+WeChat is not intended for children. Children under the age of 14 must not use WeChat for any purpose without first obtaining parental/guardian consent to this Privacy Policy (both for the parent/guardian themself and on their child’s behalf). We do not knowingly collect Personal Information from any children under the age of 14 without such consent. Please contact our Data Protection Officer if you believe we have any Personal Information from any children under the age of 14 without such parental/guardian consent – we will promptly investigate (and remove) such Personal Information.
 
-| **Identity of the recipient and Contact information of Chief Privacy Officer** | **Location of the recipient** | **Purposes of use of personal information by the recipient** | **Items of personal information to be provided** | **Date and method of transfer** | **Period of retention and use of personal information by the recipient** |
+The Personal Information we provide to third-parties located outside of Korea for the WeChat service is as follows:
+
+| **Identity of the recipient and Contact information of Chief Privacy Officer** | **Location of the recipient (or as otherwise stated in the recipient’s privacy policy)** | **Purposes of use of Personal Information by the recipient** | **Items of Personal Information to be provided** | **Date and method of transfer** | **Period of retention and use of Personal Information by the recipient** |
 | --- | --- | --- | --- | --- | --- |
-| Twilio Inc. [privacy@twilio.com](mailto:privacy@twilio.com) | USA | For the purpose sending SMS verification necessary for performance of contract | Mobile number | Transmitted from time to time | Until such time as user instructs WeChat to delete account or has not logged in for 180 days. Accounts deleted within 60 days of account deletion request. |
-| Nexmo [privacy@vonage.com](mailto:privacy@vonage.com) | USA | For the purpose sending SMS verification necessary for performance of contract | Mobile number | Transmitted from time to time | Until such time as user instructs WeChat to delete account or has not logged in for 180 days. Accounts deleted within 60 days of account deletion request. |
-| Messagebird [privacy@messagebird.com](mailto:privacy@messagebird.com) | Netherlands | For the purpose sending SMS verification necessary for performance of contract | Mobile number | Transmitted from time to time | Until such time as user instructs WeChat to delete account or has not logged in for 180 days. Accounts deleted within 60 days of account deletion request. |
-| PCCW [privacy@pccw.com](mailto:privacy@pccw.com) | Hong Kong | For the purpose sending SMS verification necessary for performance of contract | Mobile number | Transmitted from time to time | Until such time as user instructs WeChat to delete account or has not logged in for 180 days. Accounts deleted within 60 days of account deletion request. |
-| Hook Mobile [www.hookmobile.com](http://www.hookmobile.com) | USA | For the purpose sending SMS verification necessary for performance of contract | Mobile number | Transmitted from time to time | Until such time as user instructs WeChat to delete account or has not logged in for 180 days. Accounts deleted within 60 days of account deletion request. |
-| Adyen [dpo@adyen.com](mailto:dpo@adyen.com) | Netherlands | For registration and creating WeChat account in accordance with the user’s request | For providing international credit card verification services | Hashed credit card number | Transmitted from time to time |
-| Facebook (Facebook Connect) [https://www.facebook.com/help/contact/861937627253138](https://www.facebook.com/help/contact/861937627253138) | Canada, Hong Kong SAR, Singapore, PRC | To allow users to register their accounts via their Facebook account | Technical APIs Facebook Connect OpenID Facebook Connect Token Email Address | Transmitted from time to time | For a period of time no longer than 5 years unless retained out of legitimate interests for fraud prevention and account security. |
-| LinkedIn [https://www.linkedin.com/help/linkedin/ask/TSO-DPO](https://www.linkedin.com/help/linkedin/ask/TSO-DPO) | Canada, Hong Kong SAR, Singapore, PRC | To allow users to link their LinkedIn accounts to WeChat accounts | LinkedIn Open APIs | Transmitted from time to time |     |
-| Tenpay Payment Technology Co., Ltd. | Malaysia Hong Kong | For providing verification of payment cards in Malaysia and Hong Kong | Email address Hashed credit card number | Transmitted from time to time | For a period of time no longer than 5 years unless retained out of legitimate interests for fraud prevention and account security. |
-| Tencent International Service Pte.Ltd. | PRC | For allowing users to register their face and to compare to a previously recorded facial recognition to confirm ownership of an account. | Facial recognition data | Transmitted from time to time | For a period of time no longer than 5 years unless retained out of legitimate interests for fraud prevention and account security. |
-| Apple (Sign in with Apple ID) [https://www.apple.com/legal/privacy/contact/](https://www.apple.com/legal/privacy/contact/) | Canada, Hong Kong SAR, Singapore, PRC | For allowing users to unblock their accounts via their Apple ID. | Sign-in with Apple OpenID and Token | Transmitted from time to time | For a period of time no longer than 5 years unless retained out of legitimate interests for fraud prevention and account security. |
-| Tencent International Service Pte.Ltd. | Canada, Hong Kong SAR, Singapore, PRC | For allowing users to register via their QQ account | QQ IDQQ password | Transmitted from time to time | For a period of time no longer than 5 years unless retained out of legitimate interests for fraud prevention and account security. |
-| WeChat International Pte. Ltd. Tencent International Service Pte. | China | For the operation of WeChat Out For general operational service | WeChat ID Date/Time App Store/Google Play OpenID IAP/GP Payment metadata Credits History Call History Invitations data Login request log metadata, communication metadata (but not content of communication) | Transmitted from time to time | 3 months |
-| WeChat International Pte. Ltd. Tencent International Service Pte. Ltd. Tenpay Payment Technology Co., Ltd. | Canada, Hong Kong, Singapore, PRC | Function based on user's consent |     |     |     |
-| \- importing contact lists |     |     |     |     |     |
-| \- provision of third party products & services (e.g. developer/ operator/ vendor accounts on open Platform or WeChat Pay Platform) |     |     |     |     |     |
-| customer service – fulfilling support ticket following user's request | Mobile address book (hashed prior to transfer to make plain text data unavailable to any other person including Tencent) Contract lists (including Friend's WeChat ID, Alias, tag(s) and description as provided by subject)Account admin's name, mobile phone number, email address, ID document. Business name, mailing address, license, commercial bank, account information. Transaction payment data via MIDAS payment SDK WeChat ID, OpenID, mobile phone number, email address, Feedback Content, IP address | From time to time through Tencent's WXG and CDG | Until user revokes data permission, or user account deleted |     |     |
-| Operators of Official Accounts and Mini Programs and other online service (including apps) that allows users to use WeChat to log-in (third party developers i.e. partners subject has elected to “follow” and grant access to) _Please see the privacy policy of the specific Official Account or Mini Program._ | PRC | For providing access to third party service in accordance with the user’s requests. | User alias Profile Region info Gender OpenID OpenID of friends who have also granted permission to the third-party product or service Profile photo | From time to time | Until user unfollows the third-party developer's app, Official Account, Mini program, etc. or user has deleted their WeChat account. |
-| Tata [https://ashish7a.wufoo.com/forms/tata-communications-legal-compliance/](https://ashish7a.wufoo.com/forms/tata-communications-legal-compliance/) | Canada, Hong Kong, Singapore, PRC | For purposes of placing phone call | Mobile phone number | From time to time | 3 months |
-| Glory [info@glorycommunicate.com](mailto:info@glorycommunicate.com) | Canada, Hong Kong, Singapore, PRC | For purposes of placing phone call | Mobile phone number | From time to time | 3 months |
-| Google [https://policies.google.com/privacy](https://policies.google.com/privacy) | Canada, Hong Kong, Singapore, PRC | Translation service | Text message | From time to time | 3 months |
-| Microsoft [https://privacy.microsoft.com/](https://privacy.microsoft.com/) | Canada, Hong Kong, Singapore, PRC | Translation service | Text message | From time to time | 3 months |
-| Youdao [Privacy@service.netease.com](mailto:Privacy@service.netease.com) | PRC | Translation service | Text message | From time to time | 3 months |
+| Facebook (Facebook Connect)  <br>[https://www.facebook.com/help/contact/861937627253138](https://www.facebook.com/help/contact/861937627253138) | USA | To allow users to register their accounts via their Facebook account | Technical APIs Facebook Connect OpenID Facebook Connect Token Email Address | Transmitted from time to time | For a period of time no longer than 5 years unless retained out of legitimate interests for fraud prevention and account security. |
+| Apple (Sign in with Apple ID)  <br>[https://www.apple.com/legal/privacy/contact/](https://www.apple.com/legal/privacy/contact/) | USA | For allowing users to unblock their accounts via their Apple ID. | Sign-in with Apple OpenID and Token | Transmitted from time to time | For a period of time no longer than 5 years unless retained out of legitimate interests for fraud prevention and account security. |
+| WeChat International Pte. Ltd.  <br>[dataprotection@wechat.com](mailto:dataprotection@wechat.com)  <br>Tencent International Service Pte. | Canada, Hong Kong SAR, Singapore | For the operation of WeChat Out For general operational service | WeChat ID Date/Time App Store/Google Play OpenID IAP/GP Payment metadata Credits History Call History Invitations data Login request log metadata, communication metadata (but not content of communication) | Transmitted from time to time | 3 months |
+| WeChat International Pte. Ltd.  <br>[dataprotection@wechat.com](mailto:dataprotection@wechat.com)  <br>Tencent International Service Pte. Ltd.  <br>Tenpay Payment Technology Co., Ltd. (for WeChat Pay only)  <br>[dataprivacy@tencent.com](mailto:dataprivacy@tencent.com) | Canada, Hong Kong SAR, Singapore, PRC (for WeChat Pay only) | Function based on user’s consent \* importing contact lists \* provision of third party products & services (e.g. developer/ operator/ vend or accounts on open Platform or WeChat Pay) \* customer service – fulfilling support ticket following user’s request | Mobile address book (hashed prior to transfer to make plain text data unavailable to any other person including Tencent)  <br>Contact lists (including Friend’s WeChat ID, Alias, tag(s) and description as provided by subject)  <br>Account admin’s name, mobile phone number, email address, ID document.  <br>Business name, mailing address, license, commercial bank, account information.  <br>Transaction payment data via MIDAS payment SDK.  <br>WeChat ID, OpenID, mobile phone number, email address, Feedback Content, IP address | From time to time through Tencent’s WXG and CDG | Until user revokes data permission, or user account deleted |
+| Operators of Official Accounts, Mini Programs and other online services (including apps) that allows users to use WeChat to log-in (third party developers i.e. partners subject has elected to “follow” and grant access to).  <br>Please refer to the privacy policy of the specific Official Account or Mini Program for contact information. | Where the servers of the Operators of Official Accounts, Mini Programs and other online services are located | For providing access to third party service in accordance with the user’s requests. | User alias Profile Region info Gender OpenID OpenID of friends who have also granted permission to the third-party product or service Profile photo | From time to time | Until user unfollows the third-party developer’s app, Official Account, Mini program, etc. or user has deleted their WeChat account. |
+| Foursquare  <br>[privacy@foursquare.com](mailto:privacy@foursquare.com) | USA | For providing location-based services in accordance with the user’s requests. | Location Data | From time to time | 24 hours |
+| Google  <br>[https://policies.google.com/privacy](https://policies.google.com/privacy) | USA | Translation service | Text to be translated | From time to time | 3 months |
+| Microsoft  <br>[https://privacy.microsoft.com/](https://privacy.microsoft.com/) | USA | Translation service  <br>Location-based services | Text to be translated  <br>Location Data | From time to time | 3 months for translation service  <br>24 hours for location-based services |
+| Youdao  <br>[privacy@service.netease.com](mailto:privacy@service.netease.com) | PRC | Translation service (no Korean language supported) | Text to be translated | From time to time | 3 months |
+| FanYiJun  <br>[dataprivacy@tencent.com](mailto:dataprivacy@tencent.com) | PRC | Translation service | Text to be translated | From time to time | 3 months |
 
-The mandatory retention periods for personal information required by law in Korea is as follows:
+The mandatory retention periods for Personal Information required by law in Korea is as follows:
 
 | **Items** | **Relevant Statute** | **Retention Period** |
 | --- | --- | --- |
 | Records related to entering into and withdrawing from a contract | Act on the Consumer Protection in Electronic Commerce | 5 years |
-| Records related to payment and other supplies of money | 5 years |     |
-| Records related to consumer complaints and dispute settlement | 3 years |     |
-| Records related to labelling/advertisement | 6 months |     |
+| Records related to payment and other supplies of money | Act on the Consumer Protection in Electronic Commerce | 5 years |
+| Records related to consumer complaints and dispute settlement | Act on the Consumer Protection in Electronic Commerce | 3 years |
+| Records related to labelling/advertisement | Act on the Consumer Protection in Electronic Commerce | 6 months |
 | Service visit log | Protection of Communications Secrets Act | 3 months |
 
 **Destruction of Personal Information**
 
-We destroy personal information upon the extinguishment of need for such personal information, such as the expiration of its retention period and achievement of its purpose for processing, except where there is a law or regulation that requires us to retain that personal information. Inactive accounts are automatically deleted after 180 days (except if you have a positive balance in your WeChat Pay account or are an authorized account holder for the purposes of a WeChat feature such as a Mini Program).
+We destroy Personal Information upon the extinguishment of need for such Personal Information, such as the expiration of its retention period and achievement of its purpose for processing, except where there is a law or regulation that requires us to retain that Personal Information. Inactive accounts are automatically deleted after 180 days (except if you have a positive balance in your WeChat Pay account or are the administrator of a WeChat feature such as a Mini Program).
 
-The destruction procedure of personal information is as follows:
+The destruction procedure of Personal Information is as follows:
 
-**Destruction procedure** : Personal information that needs to be destroyed is destroyed in accordance with our data deletion and retention protocols under the supervision of our Data Protection Officer.
+**Destruction procedure**
 
-**Destruction method** : We destroy personal information recorded and saved in electronic format via methods such as Low Level Format so as to disable the reproduction thereof; and personal information recorded and saved in hardcopy via grinder or incineration.
+Personal Information that needs to be destroyed is destroyed in accordance with our data deletion and retention protocols under the supervision of our Data Protection Officer.
+
+**Destruction method**
+
+We destroy Personal Information recorded and saved in electronic format via methods such as Low Level Format so as to disable the reproduction thereof; and Personal Information recorded and saved in hardcopy via grinder or incineration.
+
+**Domestic Privacy Representative**
+
+Pursuant to the Article 32-5 of Act on the Promotion of the Use of the Information Network and Information Protection, the information regarding the domestic agent is as follows:
+
+Name: Tencent Korea Yuhan Hoesa  
+Address: 152, Taeheran-ro, Gangnam-gu (Gangnam Finance Center, Yeoksam-dong), Seoul, Korea  
+Telephone Number: +82-2185-0902  
+E-mail: [dataprotection@wechat.com](mailto:dataprotection@wechat.com)
