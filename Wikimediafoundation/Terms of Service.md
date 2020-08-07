@@ -321,3 +321,5 @@ We appreciate your taking the time to read these Terms of Use, and we are very h
 *   **Terms of Use (2009): effective from 2009 until May 24, 2012.**
 
 **In the event of any differences in meaning between the original English version and a translation, the original English version takes precedence.**
+
+Retrieved from "https://foundation.wikimedia.org/w/index.php?title=Terms\_of\_Use/en&oldid=123089"
