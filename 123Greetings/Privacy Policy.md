@@ -26,7 +26,6 @@
 *   Dollar Day
 *   More...
     *   True Love Forever Day (Aug 16, 2020)
-    *   Work Like a Dog Day (Aug 5, 2020)
     *   Romance Awareness Month (August 2020)
     *   Book Lovers' Day (Aug 9, 2020)
     *   Send an Email Day (Aug 9, 2020)
@@ -35,6 +34,7 @@
     *   International Left-handers Day (Aug 13, 2020)
     *   Independence Day (India) (Aug 15, 2020)
     *   Sit Back and Relax Day (Aug 15, 2020)
+    *   Tell a Joke Day (Aug 16, 2020)
     *   See All Events
 *   Go
 
