@@ -202,383 +202,355 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
     
     1.  In Section 13 above, find the provider of the Services you are using. That is the provider that you are contracting with for the Services. The choice of law, the location for resolving disputes, certain defined terms (including the Applicable Verizon Media Entity), and other important region specific provisions are in this Section 14. If you have any questions, please contact customer care using the contact information in the region that applies to you below.
         
-
-**REGION SHORTCUTS:**  
-The Americas  
-Asia Pacific  
-Europe, Middle East and Africa
-
-**The Americas**
-
-1.  **United States (us):**
-    
-    1.  _Defined Terms_
+    2.  **United States (us):**
         
-        1.  Applicable Verizon Media Entity: Oath Inc. (Address: 22000 AOL Way, Dulles, VA 20166).
+        1.  _Defined Terms_
             
-        2.  Minimum Age:13 years old
-            
-    2.  **BINDING ARBITRATION AGREEMENT. AGREEMENT TO ARBITRATE FOR U.S. USERS. YOU AND** **US** **BOTH AGREE TO RESOLVE ANY AND ALL DISPUTES, CONTROVERSIES OR CLAIMS THAT IN ANY WAY ARISE OUT OF OR RELATE TO THESE TERMS OR FROM ANY SERVICES YOU RECEIVE FROM US (OR FROM ANY ADVERTISING FOR ANY SUCH SERVICES), INCLUDING ANY DISPUTES BETWEEN YOU AND OUR EMPLOYEES OR AGENTS (“DISPUTE(S)”), ONLY BY ARBITRATION ON AN INDIVIDUAL BASIS OR IN SMALL CLAIMS COURT. YOU UNDERSTAND THAT BY AGREEING TO THESE TERMS, ARBITRATION OR A SMALL CLAIMS ACTION WILL BE THE SOLE AND EXCLUSIVE MEANS OF RESOLVING ANY DISPUTE BETWEEN US. YOU ALSO UNDERSTAND THAT BY AGREEING TO THESE TERMS,** **YOU AND** **WE** **ARE** **GIVING UP THE RIGHT TO BRING A CLAIM IN COURT OR IN FRONT OF A JURY (EXCEPT FOR MATTERS THAT MAY BE BROUGHT IN SMALL CLAIMS COURT), AND THAT YOU AND** **WE** **ARE GIVING UP THE RIGHT TO PROCEED WITH ANY CLASS ACTION OR OTHER REPRESENTATIVE ACTION. WHILE ARBITRATION PROCEDURES MAY BE DIFFERENT THAN COURT PROCEDURES, AN ARBITRATOR CAN AWARD YOU INDIVIDUALLY THE SAME DAMAGES AND RELIEF AS A COURT, AND JUDGMENT ON THE AWARD RENDERED BY THE ARBITRATOR MAY BE ENTERED AND ENFORCED IN ANY COURT HAVING JURISDICTION THEREOF. THE PARTIES UNDERSTAND THAT ABSENT THIS MANDATORY PROVISION, THEY WOULD HAVE THE RIGHT TO SUE IN COURT AND HAVE A JURY TRIAL. THEY FURTHER UNDERSTAND THAT, IN SOME INSTANCES, THE COSTS OF ARBITRATION COULD EXCEED THE COSTS OF LITIGATION AND THE RIGHT TO DISCOVERY MAY BE MORE LIMITED IN ARBITRATION THAN IN COURT. We also both agree that:**
-        
-        1.  **Notice of Dispute.** If either you or we intend to arbitrate under these Terms, the party seeking arbitration must first notify the other party of the Dispute in writing at least 30 days in advance of initiating the arbitration. Notice to us should be sent either by mail to Verizon Media, Attn: Disputes, 701 First Avenue, Sunnyvale, CA 94089. or disputes@verizonmedia.com. Notice to you will be to your email address(es) and street address(es), if any, that we have in our records at the time the notice is sent. The notice must describe the nature of the claim and the relief being sought. If we are unable to resolve the Dispute within 30 days, either party may then proceed to file a claim for arbitration.
-            
-        2.  **Arbitration Procedure.** The Federal Arbitration Act applies to these Terms. Except for small claims court cases, any and all Disputes will be resolved by arbitration administered by the American Arbitration Association ("AAA"). The AAA will apply the Commercial Arbitration Rules to the arbitration of any Dispute pursuant to these Terms, unless you are an individual and use the Services for personal or household use, in which case the AAA's Consumer Arbitration Rules will apply (excluding any rules or procedures governing or permitting class actions). You can get procedures (including the process for beginning an arbitration), rules and fee information from the AAA (www.adr.org). These Terms govern to the extent they conflict with the AAA’s Commercial Arbitration Rules or Consumer Arbitration Rules.
-            
-        3.  **Small Claims Court Option.** As an alternative to arbitration, you may bring an individual action in small claims court in your county of residence (or if a business, your principal place of business) or Santa Clara County, California provided that your Dispute meets the requirements of the small claims court.
-            
-        4.  **Arbitration Location.** Unless you and we agree otherwise, the arbitration must take place, or the small claims action must be filed, in the county of your primary residence or Santa Clara County, California.
-            
-        5.  **Arbitration Fees and Expenses.** We will reimburse any filing fee that the AAA charges you for arbitration of the Dispute. If you provide us with signed written notice that you cannot pay the filing fee, we will pay the fee directly to the AAA. If the arbitration proceeds, we will also pay any administrative and arbitrator fees charged later.
-            
-        6.  **Settlement Offers.** We may, but are not obligated to, make a written settlement offer anytime before or during arbitration. The amount or terms of any settlement offer may not be disclosed to the arbitrator unless and until the arbitrator issues an award on the claim. If you do not accept the offer and the arbitrator awards you an amount of money that is more than our offer but less than $5,000, we agree to: (a) pay you $5,000 instead of the lower amount awarded, (b) pay your reasonable attorney’s fees and costs, and (c) reimburse any arbitration filing fees and arbitrator fees and expenses incurred in connection with the arbitration of your Dispute. If the arbitrator awards you more than $5,000 and we are not challenging the award, then we will pay you the amount of the award.
-            
-        7.  **Severability.** If any part of this agreement to arbitrate is found by a court of competent jurisdiction to be unenforceable, the court will reform the agreement to the extent necessary to cure the unenforceable part(s), and the parties will arbitrate their Dispute(s) without reference to or reliance upon the unenforceable part(s). However, if for any reason the Class Action Waiver set forth below in subsection 14.2.c cannot be enforced as to some or all of the Dispute, then the agreement to arbitrate will not apply to that Dispute or portion thereof. Any Disputes covered by any deemed unenforceable Class Action Waiver provision may only be litigated in a court of competent jurisdiction, but the remainder of the agreement to arbitrate will be binding and enforceable. To avoid any doubt or uncertainty, the parties do not agree to class arbitration or to the arbitration of any claims brought on behalf of others.
-            
-    3.  **CLASS ACTION WAIVER FOR U.S. USERS** **. THESE TERMS DO NOT ALLOW CLASS OR COLLECTIVE ARBITRATIONS, EVEN IF THE AAA PROCEDURES OR RULES WOULD. NOTWITHSTANDING ANY OTHER PROVISION OF THESE TERMS, THE ARBITRATOR MAY AWARD MONEY OR INJUNCTIVE RELIEF ONLY IN FAVOR OF THE INDIVIDUAL PARTY SEEKING RELIEF AND ONLY TO THE EXTENT NECESSARY TO PROVIDE THE RELIEF WARRANTED BY THAT PARTY'S INDIVIDUAL CLAIM. ARBITRATION OR COURT PROCEEDINGS HELD UNDER THESE TERMS CANNOT BE BROUGHT, MAINTAINED OR RESOLVED ON BEHALF OF OR BY A CLASS, AS A PRIVATE ATTORNEY-GENERAL, OR IN ANY OTHER REPRESENTATIVE CAPACITY. IN ADDITION, INDIVIDUAL PROCEEDINGS CANNOT BE COMBINED WITHOUT THE CONSENT OF ALL OF THE PARTIES. ANY QUESTION REGARDING THE ENFORCEABILITY OR INTERPRETATION OF THIS PARAGRAPH WILL BE DECIDED BY A COURT AND NOT THE ARBITRATOR.**
-        
-    4.  **JURY TRIAL WAIVER FOR U.S. USERS** **. IF FOR ANY REASON A DISPUTE PROCEEDS IN COURT RATHER THAN THROUGH ARBITRATION, YOU AND** **WE ** **AGREE THAT THERE WILL NOT BE A JURY TRIAL. YOU AND** **WE ** **UNCONDITIONALLY WAIVE ANY RIGHT TO TRIAL BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM IN ANY WAY ARISING OUT OF OR RELATING TO THESE TERMS. IN THE EVENT OF LITIGATION, THIS PARAGRAPH MAY BE FILED TO SHOW A WRITTEN CONSENT TO A TRIAL BY THE COURT** **.**
-        
-    5.  _Choice of Law._ These Terms and the relationship between the parties, including any claim or dispute that might arise between the parties, whether sounding in contract, tort, or otherwise, will be governed by the laws of the State of New York without regard to its conflict of law provisions. In no event will the parties bring claims against one another under the laws of another jurisdiction.
-        
-    6.  _Forum_. If for any reason a Dispute proceeds in court rather than through arbitration, all such Disputes (regardless of theory) arising out of or relating to these Terms, or the relationship between you and us, will be brought exclusively in the courts located in the county of New York, New York or the U.S. District Court for the Southern District of New York. In such cases, you and we agree to submit to the personal jurisdiction of the courts located within the county of New York, New York or the Southern District of New York, and agree to waive any and all objections to the exercise of jurisdiction over the parties by such courts and to venue in such courts.
-        
-    7.  _Customer Support._ Below are links for customer support.
-        
-        1.  Customer Support for AOL-Branded Products
-            
-        2.  Customer Support for Other Products (English)
-            
-        3.  Customer Support for Other Products (Spanish)
-            
-    8.  _Community Guidelines._ The Verizon Media Community Guidelines can be found below:
-        
-        1.  English version
-            
-        2.  Spanish version
-            
-    9.  The Services are “commercial computer software” and “commercial items” as these terms are used in the Federal Acquisition Regulation system, and the rights of the United States are only those rights as are granted to all other end users pursuant to the terms and conditions herein and will not exceed the minimum rights set forth in FAR 52.227-19.
-        
-    10.  Closed Captioning. Verizon Media complies with applicable Federal Communications Commission rules and regulations regarding the closed captioning of video content. Please visit https://www.verizonmedia.com/accessibility/captioning/ for more information or to register any concerns or complaints regarding video content accessible on the Yahoo network of properties.
-        
-    11.  In New Jersey, all of the limitations on liability set forth in Section 9 shall apply except nothing in these Terms will exclude or limit liability for intentional torts, willful acts, gross negligence, or a violation of a statutorily imposed duty.
-        
-    12.  You agree to not use the Services to provide material support or resources (or to conceal or disguise the nature, location, source, or ownership of material support or resources) to any organization(s) designated by the United States government as a foreign terrorist organization pursuant to section 219 of the Immigration and Nationality Act.
-        
-2.  **Argentina (ar), Chile (cl), Colombia (co), Mexico (mx), Peru (pe), and Venezuela (ve):**
-    
-    1.  _Defined Terms_
-        
-        1.  Applicable Verizon Media Entity: Verizon Media Hispanic Americas LLC (Address: 1921 NW 87 Avenue, Doral, FL 33172, USA)
-            
-        2.  Minimum Age: 13 years old
-            
-    2.  **BINDING ARBITRATION AGREEMENT. AGREEMENT TO ARBITRATE. YOU AND** **VERIZON MEDIA** **BOTH AGREE TO RESOLVE ANY AND ALL DISPUTES, CONTROVERSIES OR CLAIMS THAT IN ANY WAY ARISE OUT OF OR RELATE TO THESE TERMS OR FROM ANY SERVICES YOU RECEIVE FROM US (OR FROM ANY ADVERTISING FOR ANY SUCH SERVICES), INCLUDING ANY DISPUTES BETWEEN YOU AND OUR EMPLOYEES OR AGENTS (“DISPUTE(S)”), ONLY BY ARBITRATION ON AN INDIVIDUAL BASIS OR IN SMALL CLAIMS COURT. YOU UNDERSTAND THAT BY AGREEING TO THESE TERMS, ARBITRATION OR A SMALL CLAIMS ACTION WILL BE THE SOLE AND EXCLUSIVE MEANS OF RESOLVING ANY DISPUTE BETWEEN US. YOU ALSO UNDERSTAND THAT BY AGREEING TO THESE TERMS, YOU AND** **VERIZON MEDIA** **ARE GIVING UP THE RIGHT TO BRING A CLAIM IN COURT OR IN FRONT OF A JURY (EXCEPT FOR MATTERS THAT MAY BE BROUGHT IN SMALL CLAIMS COURT), AND THAT YOU AND** **VERIZON MEDIA** **ARE GIVING UP THE RIGHT TO PROCEED WITH ANY CLASS ACTION OR OTHER REPRESENTATIVE ACTION. WHILE ARBITRATION PROCEDURES MAY BE DIFFERENT THAN COURT PROCEDURES, AN ARBITRATOR CAN AWARD YOU INDIVIDUALLY THE SAME DAMAGES AND RELIEF AS A COURT, AND JUDGMENT ON THE AWARD RENDERED BY THE ARBITRATOR MAY BE ENTERED AND ENFORCED IN ANY COURT HAVING JURISDICTION THEREOF. THE PARTIES UNDERSTAND THAT ABSENT THIS MANDATORY PROVISION, THEY WOULD HAVE THE RIGHT TO SUE IN COURT AND HAVE A JURY TRIAL. THEY FURTHER UNDERSTAND THAT, IN SOME INSTANCES, THE COSTS OF ARBITRATION COULD EXCEED THE COSTS OF LITIGATION AND THE RIGHT TO DISCOVERY MAY BE MORE LIMITED IN ARBITRATION THAN IN COURT. We also both agree that:**
-        
-        1.  **Notice of Dispute.** If either you or we intend to arbitrate under these Terms, the party seeking arbitration must first notify the other party of the Dispute in writing at least 30 days in advance of initiating the arbitration. Notice to us should be sent to us either by mail to Verizon Media, Attn: Disputes, 701 First Avenue, Sunnyvale, CA 94089. or disputes@verizonmedia.com. Notice to you will be to your email address(es) and street address(es), if any, that we have in our records at the time the notice is sent. The notice must describe the nature of the claim and the relief being sought. If we are unable to resolve the Dispute within 30 days, either party may then proceed to file a claim for arbitration.
-            
-        2.  **Arbitration Procedure.** The Federal Arbitration Act applies to these Terms. Except for small claims court cases, any and all Disputes will be resolved by arbitration administered by the American Arbitration Association ("AAA"). The AAA will apply the Commercial Arbitration Rules to the arbitration of any Dispute pursuant to these Terms, unless you are an individual and use the Services for personal or household use, in which case the AAA's Consumer Arbitration Rules will apply (excluding any rules or procedures governing or permitting class actions). You can get procedures (including the process for beginning an arbitration), rules and fee information from the AAA (www.adr.org). These Terms govern to the extent they conflict with the AAA’s Commercial Arbitration Rules or Consumer Arbitration Rules.
-            
-        3.  **Small Claims Court Option.** As an alternative to arbitration, you may bring an individual action in small claims court in your county of residence (or if a business, your principal place of business) or Santa Clara County, California provided that your Dispute meets the requirements of the small claims court.
-            
-        4.  **Arbitration Location.** Unless you and we agree otherwise, the arbitration must take place, or the small claims action must be filed, in the county of your primary residence or Santa Clara County, California.
-            
-        5.  **Arbitration Fees and Expenses.** We will reimburse any filing fee that the AAA charges you for arbitration of the Dispute. If you provide us with signed written notice that you cannot pay the filing fee, we will pay the fee directly to the AAA. If the arbitration proceeds, we will also pay any administrative and arbitrator fees charged later.
-            
-        6.  **Settlement Offers.** We may, but are not obligated to, make a written settlement offer anytime before or during arbitration. The amount or terms of any settlement offer may not be disclosed to the arbitrator unless and until the arbitrator issues an award on the claim. If you do not accept the offer and the arbitrator awards you an amount of money that is more than our offer but less than $5,000, we agree to: (a) pay you $5,000 instead of the lower amount awarded, (b) pay your reasonable attorney’s fees and costs, and (c) reimburse any arbitration filing fees and arbitrator fees and expenses incurred in connection with the arbitration of your Dispute. If the arbitrator awards you more than $5,000 and we are not challenging the award, then we will pay you the amount of the award.
-            
-        7.  **Severability.** If any part of this agreement to arbitrate is found by a court of competent jurisdiction to be unenforceable, the court will reform the agreement to the extent necessary to cure the unenforceable part(s), and the parties will arbitrate their Dispute(s) without reference to or reliance upon the unenforceable part(s). However, if for any reason the Class Action Waiver set forth below in subsection 14.3.c cannot be enforced as to some or all of the Dispute, then the agreement to arbitrate will not apply to that Dispute or portion thereof. Any Disputes covered by any deemed unenforceable Class Action Waiver provision may only be litigated in a court of competent jurisdiction, but the remainder of the agreement to arbitrate will be binding and enforceable. To avoid any doubt or uncertainty, the parties do not agree to class arbitration or to the arbitration of any claims brought on behalf of others.
-            
-    3.  **CLASS ACTION WAIVER** **. THESE TERMS DO NOT ALLOW CLASS OR COLLECTIVE ARBITRATIONS, EVEN IF THE AAA PROCEDURES OR RULES WOULD. NOTWITHSTANDING ANY OTHER PROVISION OF THESE TERMS, THE ARBITRATOR MAY AWARD MONEY OR INJUNCTIVE RELIEF ONLY IN FAVOR OF THE INDIVIDUAL PARTY SEEKING RELIEF AND ONLY TO THE EXTENT NECESSARY TO PROVIDE THE RELIEF WARRANTED BY THAT PARTY'S INDIVIDUAL CLAIM. ARBITRATION OR COURT PROCEEDINGS HELD UNDER THESE TERMS CANNOT BE BROUGHT, MAINTAINED OR RESOLVED ON BEHALF OF OR BY A CLASS, AS A PRIVATE ATTORNEY-GENERAL, OR IN ANY OTHER REPRESENTATIVE CAPACITY. IN ADDITION, INDIVIDUAL PROCEEDINGS CANNOT BE COMBINED WITHOUT THE CONSENT OF ALL OF THE PARTIES. ANY QUESTION REGARDING THE ENFORCEABILITY OR INTERPRETATION OF THIS PARAGRAPH WILL BE DECIDED BY A COURT AND NOT THE ARBITRATOR.**
-        
-    4.  **JURY TRIAL WAIVER** **. IF FOR ANY REASON A DISPUTE PROCEEDS IN COURT RATHER THAN THROUGH ARBITRATION, YOU AND** **VERIZON MEDIA** **AGREE THAT THERE WILL NOT BE A JURY TRIAL. YOU AND** **VERIZON MEDIA** **UNCONDITIONALLY WAIVE ANY RIGHT TO TRIAL BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM IN ANY WAY ARISING OUT OF OR RELATING TO THESE TERMS. IN THE EVENT OF LITIGATION, THIS PARAGRAPH MAY BE FILED TO SHOW A WRITTEN CONSENT TO A TRIAL BY THE COURT.**
-        
-    5.  _Choice of Law_. These Terms and the relationship between the parties, including any claim or dispute that might arise between the parties, whether sounding in contract, tort, or otherwise, will be governed by the laws of the State of New York without regard to its conflict of law provisions. In no event will the parties bring claims against one another under the laws of another jurisdiction.
-        
-    6.  _Forum_. If for any reason a Dispute proceeds in court rather than through arbitration, all such Disputes (regardless of theory) arising out of or relating to these Terms, or the relationship between you and us, will be brought exclusively in the courts located in the county of New York, New York or the U.S. District Court for the Southern District of New York. In such cases, you and we agree to submit to the personal jurisdiction of the courts located within the county of New York, New York or the Southern District of New York, and agree to waive any and all objections to the exercise of jurisdiction over the parties by such courts and to venue in such courts.
-        
-    7.  _Customer Support_. Below are links for customer support.
-        
-        1.  Argentina
-            
-        2.  Chile
-            
-        3.  Colombia
-            
-        4.  Mexico
-            
-        5.  Peru
-            
-        6.  Venezuela
-            
-    8.  _Community Guidelines_. Our Community Guidelines can be found here.
-        
-    9.  The Services are “commercial computer software” and “commercial items” as these terms are used in the Federal Acquisition Regulation system, and the rights of the United States are only those rights as are granted to all other end users pursuant to the terms and conditions herein and will not exceed the minimum rights set forth in FAR 52.227-19.
-        
-    10.  Closed Captioning. Verizon Media complies with applicable Federal Communications Commission rules and regulations regarding the closed captioning of video content. Please visit https://www.verizonmedia.com/accessibility/captioning/ for more information or to register any concerns or complaints regarding video content accessible on the Yahoo network of properties.
-        
-    11.  In New Jersey, all of the limitations on liability set forth in Section 9 shall apply except nothing in these Terms will exclude or limit liability for intentional torts, willful acts, gross negligence, or a violation of a statutorily imposed duty.
-        
-    12.  You agree to not use the Services to provide material support or resources (or to conceal or disguise the nature, location, source, or ownership of material support or resources) to any organization(s) designated by the United States government as a foreign terrorist organization pursuant to section 219 of the Immigration and Nationality Act.
-        
-3.  **Brazil (br):**
-    
-    1.  _Defined Terms_
-        
-        1.  Applicable Verizon Media Entity: Verizon Media do Brasil Internet Ltda. (Address: Av. Brigadeiro Faria Lima, 3.600 - 9o andar, São Paulo/SP, 04538-132, Brasil)
-            
-        2.  Minimum Age: 13 years old (however, if you are between 13 and 18 years old, you must have parental or legal guardian permission in order to agree with our Terms and to use the Service).
-            
-    2.  _Services Provided_: Yahoo Answers, Yahoo Groups, Yahoo Mail, Yahoo Search, Yahoo News, Yahoo Finance, Yahoo Sports and Yahoo LifeStyle. If you use any of these services while you are within Brazil, or are otherwise contracting with Verizon Media do Brasil Internet Ltda., the services are provided by Verizon Media do Brasil Internet Ltda. The region specific provisions in Section 14.4 shall apply to such use and supersede anything to the contrary in Section 1 or Section 13(a) of these Terms.
-        
-    3.  _Other Services._ Services not listed in Section 14.4(b) are not provided by Verizon Media do Brasil Internet Ltda., which has no powers or capabilities to take any measures in relation to them, including accessing or disclosing user data and/or removing user generated content.
-        
-    4.  _Choice of Law_. The Terms and the relationship between you and Verizon Media do Brasil Internet Ltda. will be governed by the laws of Federative Republic of Brazil without regard to its conflict of law provisions.
-        
-    5.  _Customer Support_. For customer support, see this page.
-        
-    6.  Protecting our systems and our users' information is paramount to ensuring Verizon Media users enjoy a secure user experience and maintaining our users' trust. To learn more about security, including the steps we have taken and steps you can take, please read our online article by clicking here.
-        
-    7.  YOU UNDERSTAND AND AGREE THAT YOUR USE AND THE PROVISION OF THE SERVICES INVOLVE THE COLLECTION, STORAGE, PROCESSING, USE AND DISCLOSURE OF INFORMATION AND USER DATA, INCLUDING THE TRANSFER OF INFORMATION AND DATA TO OTHER COMPANIES AND TERRITORIES, AS STATED IN THE PRIVACY POLICY.
-        
-4.  **Canada (ca and cf):**
-    
-    1.  _Defined Terms_
-        
-        1.  Applicable Verizon Media Entity: Verizon Media Canada Corp. (Address: 99 Spadina Avenue, Suite 200, Toronto, Ontario M5V 3P8).
-            
-        2.  Minimum Age: Legal Age to form a binding contract in your province or territory of residence.
-            
-    2.  _Choice of Law_. These Terms and the relationship between the parties, including any claim or dispute that might arise between the parties, whether sounding in contract, tort, or otherwise, shall be governed by the laws of the province of Ontario without regard to its conflict of law provisions. In no event shall the parties bring claims against one another under the laws of another jurisdiction.
-        
-    3.  _Forum_. Any claim against us shall be brought exclusively in the courts located within the province of Ontario, Canada. In such cases, you and we agree to submit to the personal jurisdiction of the courts located within the province of Ontario, and agree to waive any and all objections to the exercise of jurisdiction over the parties by such courts and to a venue in such courts.
-        
-    4.  _Customer Support_. Below are links for customer support.
-        
-        1.  Customer Support (English)
-            
-        2.  Customer Support (French)
-            
-    5.  _Updates_. We may automatically download and install the latest version of the Services on your device once a new version or feature is available.
-        
-    6.  Some provinces and territories do not allow for the exclusion of warranties (including the province of Quebec). In these provinces and territories, you have only the warranties that are expressly required to be provided in accordance with applicable law.
-        
-    7.  Some provinces and territories do not provide exclusion of limitation of liability for all types of damages (including the province of Quebec). In these provinces, we will only be liable to you for damages that we are expressly required to be liable to you under applicable law.
-        
-
-**Asia Pacific**
-
-1.  **Australia (au):**
-    
-    1.  _Defined Terms_
-        
-        1.  Applicable Verizon Media Entity:
-            
-            1.  For Yahoo Answers, Yahoo Lifestyle, Yahoo Finance, Yahoo Groups, Yahoo Mail, Yahoo News, Yahoo Search, Yahoo Sports, Yahoo TV and Yahoo Weather the Applicable Verizon Media Company is Verizon Media Australia Pty Ltd (Address: Level 4 West, 8 Central Avenue, Eveleigh NSW 2015, Australia) and the following terms apply: (a) the Terms and the relationship between you and Verizon Media Australia Pty Ltd will be governed by the laws of the state of New South Wales without regard to its conflict of law provisions, and (b) you and Verizon Media Australia Pty Ltd agree to submit to the exclusive jurisdiction of the courts of the state of New South Wales.
+            1.  Applicable Verizon Media Entity: Oath Inc. (Address: 22000 AOL Way, Dulles, VA 20166).
                 
-            2.  For other services, the Applicable Verizon Media Company is Oath Inc. (Address: 22000 AOL Way, Dulles, VA 20166), and for such Services the terms of Section 14.2 (United States) apply.
+            2.  Minimum Age:13 years old
                 
-        2.  Minimum Age: 13 years old
+        2.  **BINDING ARBITRATION AGREEMENT. AGREEMENT TO ARBITRATE FOR U.S. USERS. YOU AND** **US** **BOTH AGREE TO RESOLVE ANY AND ALL DISPUTES, CONTROVERSIES OR CLAIMS THAT IN ANY WAY ARISE OUT OF OR RELATE TO THESE TERMS OR FROM ANY SERVICES YOU RECEIVE FROM US (OR FROM ANY ADVERTISING FOR ANY SUCH SERVICES), INCLUDING ANY DISPUTES BETWEEN YOU AND OUR EMPLOYEES OR AGENTS (“DISPUTE(S)”), ONLY BY ARBITRATION ON AN INDIVIDUAL BASIS OR IN SMALL CLAIMS COURT. YOU UNDERSTAND THAT BY AGREEING TO THESE TERMS, ARBITRATION OR A SMALL CLAIMS ACTION WILL BE THE SOLE AND EXCLUSIVE MEANS OF RESOLVING ANY DISPUTE BETWEEN US. YOU ALSO UNDERSTAND THAT BY AGREEING TO THESE TERMS,** **YOU AND** **WE** **ARE** **GIVING UP THE RIGHT TO BRING A CLAIM IN COURT OR IN FRONT OF A JURY (EXCEPT FOR MATTERS THAT MAY BE BROUGHT IN SMALL CLAIMS COURT), AND THAT YOU AND** **WE** **ARE GIVING UP THE RIGHT TO PROCEED WITH ANY CLASS ACTION OR OTHER REPRESENTATIVE ACTION. WHILE ARBITRATION PROCEDURES MAY BE DIFFERENT THAN COURT PROCEDURES, AN ARBITRATOR CAN AWARD YOU INDIVIDUALLY THE SAME DAMAGES AND RELIEF AS A COURT, AND JUDGMENT ON THE AWARD RENDERED BY THE ARBITRATOR MAY BE ENTERED AND ENFORCED IN ANY COURT HAVING JURISDICTION THEREOF. THE PARTIES UNDERSTAND THAT ABSENT THIS MANDATORY PROVISION, THEY WOULD HAVE THE RIGHT TO SUE IN COURT AND HAVE A JURY TRIAL. THEY FURTHER UNDERSTAND THAT, IN SOME INSTANCES, THE COSTS OF ARBITRATION COULD EXCEED THE COSTS OF LITIGATION AND THE RIGHT TO DISCOVERY MAY BE MORE LIMITED IN ARBITRATION THAN IN COURT. We also both agree that:**
             
-    2.  _Customer Support._ For customer support, see this page.
-        
-2.  **Hong Kong (hk):**
-    
-    1.  _Defined Terms_
-        
-        1.  Applicable Verizon Media Entity:
+            1.  **Notice of Dispute.** If either you or we intend to arbitrate under these Terms, the party seeking arbitration must first notify the other party of the Dispute in writing at least 30 days in advance of initiating the arbitration. Notice to us should be sent either by mail to Verizon Media, Attn: Disputes, 701 First Avenue, Sunnyvale, CA 94089. or disputes@verizonmedia.com. Notice to you will be to your email address(es) and street address(es), if any, that we have in our records at the time the notice is sent. The notice must describe the nature of the claim and the relief being sought. If we are unable to resolve the Dispute within 30 days, either party may then proceed to file a claim for arbitration.
+                
+            2.  **Arbitration Procedure.** The Federal Arbitration Act applies to these Terms. Except for small claims court cases, any and all Disputes will be resolved by arbitration administered by the American Arbitration Association ("AAA"). The AAA will apply the Commercial Arbitration Rules to the arbitration of any Dispute pursuant to these Terms, unless you are an individual and use the Services for personal or household use, in which case the AAA's Consumer Arbitration Rules will apply (excluding any rules or procedures governing or permitting class actions). You can get procedures (including the process for beginning an arbitration), rules and fee information from the AAA (www.adr.org). These Terms govern to the extent they conflict with the AAA’s Commercial Arbitration Rules or Consumer Arbitration Rules.
+                
+            3.  **Small Claims Court Option.** As an alternative to arbitration, you may bring an individual action in small claims court in your county of residence (or if a business, your principal place of business) or Santa Clara County, California provided that your Dispute meets the requirements of the small claims court.
+                
+            4.  **Arbitration Location.** Unless you and we agree otherwise, the arbitration must take place, or the small claims action must be filed, in the county of your primary residence or Santa Clara County, California.
+                
+            5.  **Arbitration Fees and Expenses.** We will reimburse any filing fee that the AAA charges you for arbitration of the Dispute. If you provide us with signed written notice that you cannot pay the filing fee, we will pay the fee directly to the AAA. If the arbitration proceeds, we will also pay any administrative and arbitrator fees charged later.
+                
+            6.  **Settlement Offers.** We may, but are not obligated to, make a written settlement offer anytime before or during arbitration. The amount or terms of any settlement offer may not be disclosed to the arbitrator unless and until the arbitrator issues an award on the claim. If you do not accept the offer and the arbitrator awards you an amount of money that is more than our offer but less than $5,000, we agree to: (a) pay you $5,000 instead of the lower amount awarded, (b) pay your reasonable attorney’s fees and costs, and (c) reimburse any arbitration filing fees and arbitrator fees and expenses incurred in connection with the arbitration of your Dispute. If the arbitrator awards you more than $5,000 and we are not challenging the award, then we will pay you the amount of the award.
+                
+            7.  **Severability.** If any part of this agreement to arbitrate is found by a court of competent jurisdiction to be unenforceable, the court will reform the agreement to the extent necessary to cure the unenforceable part(s), and the parties will arbitrate their Dispute(s) without reference to or reliance upon the unenforceable part(s). However, if for any reason the Class Action Waiver set forth below in subsection 14.2.c cannot be enforced as to some or all of the Dispute, then the agreement to arbitrate will not apply to that Dispute or portion thereof. Any Disputes covered by any deemed unenforceable Class Action Waiver provision may only be litigated in a court of competent jurisdiction, but the remainder of the agreement to arbitrate will be binding and enforceable. To avoid any doubt or uncertainty, the parties do not agree to class arbitration or to the arbitration of any claims brought on behalf of others.
+                
+        3.  **CLASS ACTION WAIVER FOR U.S. USERS** **. THESE TERMS DO NOT ALLOW CLASS OR COLLECTIVE ARBITRATIONS, EVEN IF THE AAA PROCEDURES OR RULES WOULD. NOTWITHSTANDING ANY OTHER PROVISION OF THESE TERMS, THE ARBITRATOR MAY AWARD MONEY OR INJUNCTIVE RELIEF ONLY IN FAVOR OF THE INDIVIDUAL PARTY SEEKING RELIEF AND ONLY TO THE EXTENT NECESSARY TO PROVIDE THE RELIEF WARRANTED BY THAT PARTY'S INDIVIDUAL CLAIM. ARBITRATION OR COURT PROCEEDINGS HELD UNDER THESE TERMS CANNOT BE BROUGHT, MAINTAINED OR RESOLVED ON BEHALF OF OR BY A CLASS, AS A PRIVATE ATTORNEY-GENERAL, OR IN ANY OTHER REPRESENTATIVE CAPACITY. IN ADDITION, INDIVIDUAL PROCEEDINGS CANNOT BE COMBINED WITHOUT THE CONSENT OF ALL OF THE PARTIES. ANY QUESTION REGARDING THE ENFORCEABILITY OR INTERPRETATION OF THIS PARAGRAPH WILL BE DECIDED BY A COURT AND NOT THE ARBITRATOR.**
             
-            1.  For Yahoo Answers, Yahoo Auctions, Yahoo Celebrity, Yahoo Charity, Yahoo Deals, Yahoo Dictionary, Yahoo Education, Yahoo Finance, Yahoo Food, Yahoo Groups, Yahoo Movie, Yahoo News, Yahoo Search, Yahoo Sports, Yahoo Store, Yahoo Style, Yahoo Stylemen, Yahoo Travel, Yahoo TV, Yahoo Weather, and Aviate the Applicable Verizon Media Company is Yahoo! Hong Kong Limited (Address: 15/F Lee Garden Two, 28 Yun Ping Road, Causeway Bay, Hong Kong) and the following terms apply: (a) the Terms and the relationship between you and Yahoo! Hong Kong Limited will be governed by the laws of Hong Kong without regard to its conflict of law provisions, and (b) you and Yahoo! Hong Kong Limited agree to submit to the exclusive jurisdiction of the courts of Hong Kong.
+        4.  **JURY TRIAL WAIVER FOR U.S. USERS** **. IF FOR ANY REASON A DISPUTE PROCEEDS IN COURT RATHER THAN THROUGH ARBITRATION, YOU AND** **WE ** **AGREE THAT THERE WILL NOT BE A JURY TRIAL. YOU AND** **WE ** **UNCONDITIONALLY WAIVE ANY RIGHT TO TRIAL BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM IN ANY WAY ARISING OUT OF OR RELATING TO THESE TERMS. IN THE EVENT OF LITIGATION, THIS PARAGRAPH MAY BE FILED TO SHOW A WRITTEN CONSENT TO A TRIAL BY THE COURT** **.**
+            
+        5.  _Choice of Law._ These Terms and the relationship between the parties, including any claim or dispute that might arise between the parties, whether sounding in contract, tort, or otherwise, will be governed by the laws of the State of New York without regard to its conflict of law provisions. In no event will the parties bring claims against one another under the laws of another jurisdiction.
+            
+        6.  _Forum_. If for any reason a Dispute proceeds in court rather than through arbitration, all such Disputes (regardless of theory) arising out of or relating to these Terms, or the relationship between you and us, will be brought exclusively in the courts located in the county of New York, New York or the U.S. District Court for the Southern District of New York. In such cases, you and we agree to submit to the personal jurisdiction of the courts located within the county of New York, New York or the Southern District of New York, and agree to waive any and all objections to the exercise of jurisdiction over the parties by such courts and to venue in such courts.
+            
+        7.  _Customer Support._ Below are links for customer support.
+            
+            1.  Customer Support for AOL-Branded Products
                 
-            2.  For other Services:
+            2.  Customer Support for Other Products (English)
                 
-                1.  the Applicable Verizon Media Entity is our entity that is specified to be the provider in respect of a specific Service, and the Terms and the relationship between you and the Applicable Verizon Media Entity will be governed by the laws of the place of incorporation of the Applicable Verizon Media Entity. or
+            3.  Customer Support for Other Products (Spanish)
+                
+        8.  _Community Guidelines._ The Verizon Media Community Guidelines can be found below:
+            
+            1.  English version
+                
+            2.  Spanish version
+                
+        9.  The Services are “commercial computer software” and “commercial items” as these terms are used in the Federal Acquisition Regulation system, and the rights of the United States are only those rights as are granted to all other end users pursuant to the terms and conditions herein and will not exceed the minimum rights set forth in FAR 52.227-19.
+            
+        10.  Closed Captioning. Verizon Media complies with applicable Federal Communications Commission rules and regulations regarding the closed captioning of video content. Please visit https://www.verizonmedia.com/accessibility/captioning/ for more information or to register any concerns or complaints regarding video content accessible on the Yahoo network of properties.
+            
+        11.  In New Jersey, all of the limitations on liability set forth in Section 9 shall apply except nothing in these Terms will exclude or limit liability for intentional torts, willful acts, gross negligence, or a violation of a statutorily imposed duty.
+            
+        12.  You agree to not use the Services to provide material support or resources (or to conceal or disguise the nature, location, source, or ownership of material support or resources) to any organization(s) designated by the United States government as a foreign terrorist organization pursuant to section 219 of the Immigration and Nationality Act.
+            
+    3.  **Argentina (ar), Chile (cl), Colombia (co),** **Hong Kong (hk),​ Mexico (mx), Peru (pe), and Venezuela (ve):**
+        
+        1.  _Defined Terms_
+            
+            1.  Applicable Verizon Media Entity: Verizon Media International Inc. (Address: 1921 NW 87 Avenue, Doral, FL 33172, USA)
+                
+            2.  Minimum Age: 13 years old
+                
+        2.  **BINDING ARBITRATION AGREEMENT. AGREEMENT TO ARBITRATE. YOU AND** **VERIZON MEDIA** **BOTH AGREE TO RESOLVE ANY AND ALL DISPUTES, CONTROVERSIES OR CLAIMS THAT IN ANY WAY ARISE OUT OF OR RELATE TO THESE TERMS OR FROM ANY SERVICES YOU RECEIVE FROM US (OR FROM ANY ADVERTISING FOR ANY SUCH SERVICES), INCLUDING ANY DISPUTES BETWEEN YOU AND OUR EMPLOYEES OR AGENTS (“DISPUTE(S)”), ONLY BY ARBITRATION ON AN INDIVIDUAL BASIS OR IN SMALL CLAIMS COURT. YOU UNDERSTAND THAT BY AGREEING TO THESE TERMS, ARBITRATION OR A SMALL CLAIMS ACTION WILL BE THE SOLE AND EXCLUSIVE MEANS OF RESOLVING ANY DISPUTE BETWEEN US. YOU ALSO UNDERSTAND THAT BY AGREEING TO THESE TERMS, YOU AND** **VERIZON MEDIA** **ARE GIVING UP THE RIGHT TO BRING A CLAIM IN COURT OR IN FRONT OF A JURY (EXCEPT FOR MATTERS THAT MAY BE BROUGHT IN SMALL CLAIMS COURT), AND THAT YOU AND** **VERIZON MEDIA** **ARE GIVING UP THE RIGHT TO PROCEED WITH ANY CLASS ACTION OR OTHER REPRESENTATIVE ACTION. WHILE ARBITRATION PROCEDURES MAY BE DIFFERENT THAN COURT PROCEDURES, AN ARBITRATOR CAN AWARD YOU INDIVIDUALLY THE SAME DAMAGES AND RELIEF AS A COURT, AND JUDGMENT ON THE AWARD RENDERED BY THE ARBITRATOR MAY BE ENTERED AND ENFORCED IN ANY COURT HAVING JURISDICTION THEREOF. THE PARTIES UNDERSTAND THAT ABSENT THIS MANDATORY PROVISION, THEY WOULD HAVE THE RIGHT TO SUE IN COURT AND HAVE A JURY TRIAL. THEY FURTHER UNDERSTAND THAT, IN SOME INSTANCES, THE COSTS OF ARBITRATION COULD EXCEED THE COSTS OF LITIGATION AND THE RIGHT TO DISCOVERY MAY BE MORE LIMITED IN ARBITRATION THAN IN COURT. We also both agree that:**
+            
+            1.  **Notice of Dispute.** If either you or we intend to arbitrate under these Terms, the party seeking arbitration must first notify the other party of the Dispute in writing at least 30 days in advance of initiating the arbitration. Notice to us should be sent to us either by mail to Verizon Media, Attn: Disputes, 701 First Avenue, Sunnyvale, CA 94089. or disputes@verizonmedia.com. Notice to you will be to your email address(es) and street address(es), if any, that we have in our records at the time the notice is sent. The notice must describe the nature of the claim and the relief being sought. If we are unable to resolve the Dispute within 30 days, either party may then proceed to file a claim for arbitration.
+                
+            2.  **Arbitration Procedure.** The Federal Arbitration Act applies to these Terms. Except for small claims court cases, any and all Disputes will be resolved by arbitration administered by the American Arbitration Association ("AAA"). The AAA will apply the Commercial Arbitration Rules to the arbitration of any Dispute pursuant to these Terms, unless you are an individual and use the Services for personal or household use, in which case the AAA's Consumer Arbitration Rules will apply (excluding any rules or procedures governing or permitting class actions). You can get procedures (including the process for beginning an arbitration), rules and fee information from the AAA (www.adr.org). These Terms govern to the extent they conflict with the AAA’s Commercial Arbitration Rules or Consumer Arbitration Rules.
+                
+            3.  **Small Claims Court Option.** As an alternative to arbitration, you may bring an individual action in small claims court in your county of residence (or if a business, your principal place of business) or Santa Clara County, California provided that your Dispute meets the requirements of the small claims court.
+                
+            4.  **Arbitration Location.** Unless you and we agree otherwise, the arbitration must take place, or the small claims action must be filed, in the county of your primary residence or Santa Clara County, California.
+                
+            5.  **Arbitration Fees and Expenses.** We will reimburse any filing fee that the AAA charges you for arbitration of the Dispute. If you provide us with signed written notice that you cannot pay the filing fee, we will pay the fee directly to the AAA. If the arbitration proceeds, we will also pay any administrative and arbitrator fees charged later.
+                
+            6.  **Settlement Offers.** We may, but are not obligated to, make a written settlement offer anytime before or during arbitration. The amount or terms of any settlement offer may not be disclosed to the arbitrator unless and until the arbitrator issues an award on the claim. If you do not accept the offer and the arbitrator awards you an amount of money that is more than our offer but less than $5,000, we agree to: (a) pay you $5,000 instead of the lower amount awarded, (b) pay your reasonable attorney’s fees and costs, and (c) reimburse any arbitration filing fees and arbitrator fees and expenses incurred in connection with the arbitration of your Dispute. If the arbitrator awards you more than $5,000 and we are not challenging the award, then we will pay you the amount of the award.
+                
+            7.  **Severability.** If any part of this agreement to arbitrate is found by a court of competent jurisdiction to be unenforceable, the court will reform the agreement to the extent necessary to cure the unenforceable part(s), and the parties will arbitrate their Dispute(s) without reference to or reliance upon the unenforceable part(s). However, if for any reason the Class Action Waiver set forth below in subsection 14.3.c cannot be enforced as to some or all of the Dispute, then the agreement to arbitrate will not apply to that Dispute or portion thereof. Any Disputes covered by any deemed unenforceable Class Action Waiver provision may only be litigated in a court of competent jurisdiction, but the remainder of the agreement to arbitrate will be binding and enforceable. To avoid any doubt or uncertainty, the parties do not agree to class arbitration or to the arbitration of any claims brought on behalf of others.
+                
+        3.  **CLASS ACTION WAIVER** **. THESE TERMS DO NOT ALLOW CLASS OR COLLECTIVE ARBITRATIONS, EVEN IF THE AAA PROCEDURES OR RULES WOULD. NOTWITHSTANDING ANY OTHER PROVISION OF THESE TERMS, THE ARBITRATOR MAY AWARD MONEY OR INJUNCTIVE RELIEF ONLY IN FAVOR OF THE INDIVIDUAL PARTY SEEKING RELIEF AND ONLY TO THE EXTENT NECESSARY TO PROVIDE THE RELIEF WARRANTED BY THAT PARTY'S INDIVIDUAL CLAIM. ARBITRATION OR COURT PROCEEDINGS HELD UNDER THESE TERMS CANNOT BE BROUGHT, MAINTAINED OR RESOLVED ON BEHALF OF OR BY A CLASS, AS A PRIVATE ATTORNEY-GENERAL, OR IN ANY OTHER REPRESENTATIVE CAPACITY. IN ADDITION, INDIVIDUAL PROCEEDINGS CANNOT BE COMBINED WITHOUT THE CONSENT OF ALL OF THE PARTIES. ANY QUESTION REGARDING THE ENFORCEABILITY OR INTERPRETATION OF THIS PARAGRAPH WILL BE DECIDED BY A COURT AND NOT THE ARBITRATOR.**
+            
+        4.  **JURY TRIAL WAIVER** **. IF FOR ANY REASON A DISPUTE PROCEEDS IN COURT RATHER THAN THROUGH ARBITRATION, YOU AND** **VERIZON MEDIA** **AGREE THAT THERE WILL NOT BE A JURY TRIAL. YOU AND** **VERIZON MEDIA** **UNCONDITIONALLY WAIVE ANY RIGHT TO TRIAL BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM IN ANY WAY ARISING OUT OF OR RELATING TO THESE TERMS. IN THE EVENT OF LITIGATION, THIS PARAGRAPH MAY BE FILED TO SHOW A WRITTEN CONSENT TO A TRIAL BY THE COURT.**
+            
+        5.  _Choice of Law_. These Terms and the relationship between the parties, including any claim or dispute that might arise between the parties, whether sounding in contract, tort, or otherwise, will be governed by the laws of the State of New York without regard to its conflict of law provisions. In no event will the parties bring claims against one another under the laws of another jurisdiction.
+            
+        6.  _Forum_. If for any reason a Dispute proceeds in court rather than through arbitration, all such Disputes (regardless of theory) arising out of or relating to these Terms, or the relationship between you and us, will be brought exclusively in the courts located in the county of New York, New York or the U.S. District Court for the Southern District of New York. In such cases, you and we agree to submit to the personal jurisdiction of the courts located within the county of New York, New York or the Southern District of New York, and agree to waive any and all objections to the exercise of jurisdiction over the parties by such courts and to venue in such courts.
+            
+        7.  _Customer Support_. Below are links for customer support.
+            
+            1.  Argentina
+                
+            2.  Chile
+                
+            3.  Colombia
+                
+            4.  Hong Kong
+                
+            5.  Mexico
+                
+            6.  Peru
+                
+            7.  Venezuela
+                
+        8.  _Community Guidelines_. Our Community Guidelines can be found here.
+            
+        9.  The Services are “commercial computer software” and “commercial items” as these terms are used in the Federal Acquisition Regulation system, and the rights of the United States are only those rights as are granted to all other end users pursuant to the terms and conditions herein and will not exceed the minimum rights set forth in FAR 52.227-19.
+            
+        10.  Closed Captioning. Verizon Media complies with applicable Federal Communications Commission rules and regulations regarding the closed captioning of video content. Please visit https://www.verizonmedia.com/accessibility/captioning/ for more information or to register any concerns or complaints regarding video content accessible on the Yahoo network of properties.
+            
+        11.  In New Jersey, all of the limitations on liability set forth in Section 9 shall apply except nothing in these Terms will exclude or limit liability for intentional torts, willful acts, gross negligence, or a violation of a statutorily imposed duty.
+            
+        12.  You agree to not use the Services to provide material support or resources (or to conceal or disguise the nature, location, source, or ownership of material support or resources) to any organization(s) designated by the United States government as a foreign terrorist organization pursuant to section 219 of the Immigration and Nationality Act.
+            
+    4.  **Brazil (br):**
+        
+        1.  _Defined Terms_
+            
+            1.  Applicable Verizon Media Entity: Verizon Media do Brasil Internet Ltda. (Address: Av. Brigadeiro Faria Lima, 3.600 - 9o andar, São Paulo/SP, 04538-132, Brasil)
+                
+            2.  Minimum Age: 13 years old (however, if you are between 13 and 18 years old, you must have parental or legal guardian permission in order to agree with our Terms and to use the Service).
+                
+        2.  _Services Provided_: Yahoo Answers, Yahoo Groups, Yahoo Mail, Yahoo Search, Yahoo News, Yahoo Finance, Yahoo Sports and Yahoo LifeStyle. If you use any of these services while you are within Brazil, or are otherwise contracting with Verizon Media do Brasil Internet Ltda., the services are provided by Verizon Media do Brasil Internet Ltda. The region specific provisions in Section 14.4 shall apply to such use and supersede anything to the contrary in Section 1 or Section 13(a) of these Terms.
+            
+        3.  _Other Services._ Services not listed in Section 14.4(b) are not provided by Verizon Media do Brasil Internet Ltda., which has no powers or capabilities to take any measures in relation to them, including accessing or disclosing user data and/or removing user generated content.
+            
+        4.  _Choice of Law_. The Terms and the relationship between you and Verizon Media do Brasil Internet Ltda. will be governed by the laws of Federative Republic of Brazil without regard to its conflict of law provisions.
+            
+        5.  _Customer Support_. For customer support, see this page.
+            
+        6.  Protecting our systems and our users' information is paramount to ensuring Verizon Media users enjoy a secure user experience and maintaining our users' trust. To learn more about security, including the steps we have taken and steps you can take, please read our online article by clicking here.
+            
+        7.  YOU UNDERSTAND AND AGREE THAT YOUR USE AND THE PROVISION OF THE SERVICES INVOLVE THE COLLECTION, STORAGE, PROCESSING, USE AND DISCLOSURE OF INFORMATION AND USER DATA, INCLUDING THE TRANSFER OF INFORMATION AND DATA TO OTHER COMPANIES AND TERRITORIES, AS STATED IN THE PRIVACY POLICY.
+            
+    5.  **Canada (ca and cf):**
+        
+        1.  _Defined Terms_
+            
+            1.  Applicable Verizon Media Entity: Verizon Media Canada Corp. (Address: 99 Spadina Avenue, Suite 200, Toronto, Ontario M5V 3P8).
+                
+            2.  Minimum Age: Legal Age to form a binding contract in your province or territory of residence.
+                
+        2.  _Choice of Law_. These Terms and the relationship between the parties, including any claim or dispute that might arise between the parties, whether sounding in contract, tort, or otherwise, shall be governed by the laws of the province of Ontario without regard to its conflict of law provisions. In no event shall the parties bring claims against one another under the laws of another jurisdiction.
+            
+        3.  _Forum_. Any claim against us shall be brought exclusively in the courts located within the province of Ontario, Canada. In such cases, you and we agree to submit to the personal jurisdiction of the courts located within the province of Ontario, and agree to waive any and all objections to the exercise of jurisdiction over the parties by such courts and to a venue in such courts.
+            
+        4.  _Customer Support_. Below are links for customer support.
+            
+            1.  Customer Support (English)
+                
+            2.  Customer Support (French)
+                
+        5.  _Updates_. We may automatically download and install the latest version of the Services on your device once a new version or feature is available.
+            
+        6.  Some provinces and territories do not allow for the exclusion of warranties (including the province of Quebec). In these provinces and territories, you have only the warranties that are expressly required to be provided in accordance with applicable law.
+            
+        7.  Some provinces and territories do not provide exclusion of limitation of liability for all types of damages (including the province of Quebec). In these provinces, we will only be liable to you for damages that we are expressly required to be liable to you under applicable law.
+            
+    6.  **Australia (au):**
+        
+        1.  _Defined Terms_
+            
+            1.  Applicable Verizon Media Entity:
+                
+                1.  For Yahoo Answers, Yahoo Lifestyle, Yahoo Finance, Yahoo Groups, Yahoo Mail, Yahoo News, Yahoo Search, Yahoo Sports, Yahoo TV and Yahoo Weather the Applicable Verizon Media Company is Verizon Media Australia Pty Ltd (Address: Level 4 West, 8 Central Avenue, Eveleigh NSW 2015, Australia) and the following terms apply: (a) the Terms and the relationship between you and Verizon Media Australia Pty Ltd will be governed by the laws of the state of New South Wales without regard to its conflict of law provisions, and (b) you and Verizon Media Australia Pty Ltd agree to submit to the exclusive jurisdiction of the courts of the state of New South Wales.
                     
-                2.  if no Verizon Media Entity is specified to be the provider in respect of a specific Service, the Applicable Verizon Media Entity is Oath Inc. (Address: 22000 AOL Way, Dulles, Virginia 20166 USA), and for such Services the terms of Section 14.2 (United States) apply.
+                2.  For other services, the Applicable Verizon Media Company is Oath Inc. (Address: 22000 AOL Way, Dulles, VA 20166), and for such Services the terms of Section 14.2 (United States) apply.
                     
-        2.  Minimum Age: 13 years old
-            
-    2.  _Customer Support_. For customer support, see this page.
-        
-3.  **India (in):**
-    
-    1.  _Defined Terms_
-        
-        1.  Applicable Verizon Media Entity:
-            
-            1.  For Yahoo Answers, Yahoo Celebrity, Yahoo Cricket, Yahoo Finance, Yahoo Groups, Yahoo Lifestyle, Yahoo Mail, Yahoo Movies, Yahoo News, Yahoo Search, Yahoo Travel, and Yahoo Weather the Applicable Verizon Media Entity is Yahoo India Private Limited (CIN: U72900MH2000PTC138698) (Address: Unit No. 304, 3rd Floor, Satellite Gazebo, East Wing, Guru Hargovindji Marg, (A G Link Road), Andheri (East), Mumbai – 400093, India) and the following terms apply: (a) “Minimum Age” means 13 years old, provided that if you are between 13 and 18 years of age, you must have parental or legal guardian permission to use the Services or register for an account, (b) you must be at least 13 years old in order to agree with our Terms, provided that if you are between 13 and 18 years of age, you must have parental or legal guardian permission to do so, (c) the Terms and the relationship between you and Yahoo India Private Limited will be governed by the laws of India without regard to its conflict of law provisions, and (d) you and Yahoo India Private Limited agree to submit to the exclusive jurisdiction of the courts located at Mumbai, India.
+            2.  Minimum Age: 13 years old
                 
-            2.  For other Services:
+        2.  _Customer Support._ For customer support, see this page.
+            
+    7.  **Reserved.**
+        
+    8.  **India (in):**
+        
+        1.  _Defined Terms_
+            
+            1.  Applicable Verizon Media Entity:
                 
-                1.  the Applicable Verizon Media Entity is the same one that is specified to be the provider in respect of a specific Service, and the Terms and the relationship between you and the Applicable Verizon Media Entity will be governed by the laws of the place of incorporation of the Applicable Verizon Media Entity. or
+                1.  For Yahoo Answers, Yahoo Celebrity, Yahoo Cricket, Yahoo Finance, Yahoo Groups, Yahoo Lifestyle, Yahoo Mail, Yahoo Movies, Yahoo News, Yahoo Search, Yahoo Travel, and Yahoo Weather the Applicable Verizon Media Entity is Yahoo India Private Limited (CIN: U72900MH2000PTC138698) (Address: Unit No. 304, 3rd Floor, Satellite Gazebo, East Wing, Guru Hargovindji Marg, (A G Link Road), Andheri (East), Mumbai – 400093, India) and the following terms apply: (a) “Minimum Age” means 13 years old, provided that if you are between 13 and 18 years of age, you must have parental or legal guardian permission to use the Services or register for an account, (b) you must be at least 13 years old in order to agree with our Terms, provided that if you are between 13 and 18 years of age, you must have parental or legal guardian permission to do so, (c) the Terms and the relationship between you and Yahoo India Private Limited will be governed by the laws of India without regard to its conflict of law provisions, and (d) you and Yahoo India Private Limited agree to submit to the exclusive jurisdiction of the courts located at Mumbai, India.
                     
-                2.  if no Verizon Media Entity is specified to be the provider in respect of a specific Service, the Applicable Verizon Media Entity is Oath Inc. (Address: 22000 AOL Way, Dulles, VA 20166), and for such Services the terms of Section 14.2 (United States) apply.
+                2.  For other Services:
                     
-    2.  _Customer Support_. For customer support, see this page.
-        
-    3.  _Yahoo India Grievance Officer._ For the Yahoo India Grievance Officer, see this page.
-        
-    4.  **Click here for an important Supreme Court Order passed by the Hon'ble Supreme Court of India relating to a prohibition on advertisement under the PCPNDT Act, 1994.**
-        
-4.  **Japan (jp):**
-    
-    1.  _Defined Terms_
-        
-        1.  Applicable Verizon Media Entity:
+                    1.  the Applicable Verizon Media Entity is the same one that is specified to be the provider in respect of a specific Service, and the Terms and the relationship between you and the Applicable Verizon Media Entity will be governed by the laws of the place of incorporation of the Applicable Verizon Media Entity. or
+                        
+                    2.  if no Verizon Media Entity is specified to be the provider in respect of a specific Service, the Applicable Verizon Media Entity is Oath Inc. (Address: 22000 AOL Way, Dulles, VA 20166), and for such Services the terms of Section 14.2 (United States) apply.
+                        
+        2.  _Customer Support_. For customer support, see this page.
             
-            1.  For AutoBlog Japan, TechCrunch Japan, Engadget Japan, Aol.jp, and AOL Mail, the Applicable Verizon Media Entity is Verizon Media Japan KK (Address: 2-27-25 Minamiaoyama, Minato-ku, Tokyo 10 7-0062 Japan).
-                
-            2.  For Yahoo Japan-branded products that are accessible in Japan: these products are provided by a third-party.
-                
-            3.  For all other Services, the Applicable Verizon Media Entity is Oath Inc. (Address: 22000 AOL Way, Dulles, VA 20166).
-                
-        2.  Minimum Age: 18 years old (however, if you are 18 or 19 years old, you must have the permission of a parent or legal guardian in order to agree to the Terms and to use the Services)
+        3.  _Yahoo India Grievance Officer._ For the Yahoo India Grievance Officer, see this page.
             
-    2.  _Choice of Law_. The Terms and relationship between you and us will be governed by the laws of Japan without regard to its conflict of law provision.
-        
-    3.  _Forum_. You and we submit to the exclusive jurisdiction of the Tokyo District Court, Japan.
-        
-    4.  _Modifying the Services. Modifying these Terms_
-        
-        1.  When we modify the Services as outlined in Section 7(a), or we modify these Term pursuant to Section 12(b), we will notify you a reasonable amount of time in advance of any modifications that will be of material disadvantage to you or materially limit your access to or usage of the Services.
+        4.  **Click here for an important Supreme Court Order passed by the Hon'ble Supreme Court of India relating to a prohibition on advertisement under the PCPNDT Act, 1994.**
             
-        2.  For modifications to these Terms or the Services that we need to make in order to meet security, safety, legal or regulatory requirements, we may not be able to notify you in advance, but we will let you know as soon as practicable after such modification is made.
+    9.  **Japan (jp):**
+        
+        1.  _Defined Terms_
             
-    5.  _Limitation of Liability_. Nothing in these Terms affects any legal rights that you are entitled to as a consumer under Japanese law which cannot be contractually altered or waived. Accordingly, if the contract regarding the use of the Services pursuant to these Terms is deemed a consumer contract under the Consumer Contract Act of Japan, some of the exclusions and limitations in Section 9 of these Terms will not apply to you for liability resulting from our willful misconduct or gross negligence.
-        
-    6.  _Customer Support_. For customer service, please see this page.
-        
-5.  **New Zealand (nz):**
-    
-    1.  _Defined Terms_
-        
-        1.  Applicable Verizon Media Entity:
-            
-            1.  For Yahoo Answers, Yahoo Entertainment, Yahoo Lifestyle, Yahoo Mail, Yahoo News, Yahoo Search and Yahoo Sport the Applicable Verizon Media Entity is Verizon Media New Zealand Limited (Address: Level 1, 22-28 Customs Street East, Auckland 1010 New Zealand) and the following terms apply: (a) the Terms and the relationship between you and Verizon Media New Zealand Limited will be governed by the laws of New Zealand without regard to its conflict of law provisions, and (b) you and Verizon Media New Zealand Limited agree to submit to the exclusive jurisdiction of the courts of New Zealand.
+            1.  Applicable Verizon Media Entity:
                 
-            2.  For other services, the Applicable Verizon Media Entity is Oath Inc. (Address: 22000 AOL Way, Dulles, VA 20166), and for such Services the terms of Section 14.2 (United States) apply.
-                
-        2.  Minimum Age: 13 years old
-            
-    2.  _Customer Support_. For customer support, see this page.
-        
-6.  **Singapore (sg), Indonesia (id), Malaysia (my), Philippines (ph), Thailand (th) or Vietnam (vn)):**
-    
-    1.  _Defined Terms_
-        
-        1.  Applicable Verizon Media Entity:
-            
-            1.  For Yahoo Answers, Yahoo Calendar, Yahoo Celebrity, Yahoo Finance, Yahoo Groups, Yahoo Mail, Yahoo News, Yahoo Search, Yahoo Style, Yahoo Travel, Yahoo TV, Yahoo Weather, and Aviate the Applicable Verizon Media Entity is Yahoo! Singapore Digital Marketing Pte. Ltd. (Address: 60 Anson Road, #12-01 Mapletree Anson, Singapore 079914) and the following terms apply: (a) the Terms and the relationship between you and Yahoo! Singapore Digital Marketing Pte. Ltd. will be governed by the laws of Singapore without regard to its conflict of law provisions, and (b) you and Yahoo! Singapore Digital Marketing Pte. Ltd. agree to submit to the exclusive jurisdiction of the courts of Singapore.
-                
-            2.  For other Services:
-                
-                1.  the Applicable Verizon Media Entity is the Verizon Media Entity that is specified to be the provider in respect of a specific Service, and the Terms and the relationship between you and the Applicable Verizon Media Entity will be governed by the laws of the place of incorporation of the Applicable Verizon Media Entity; or
+                1.  For AutoBlog Japan, TechCrunch Japan, Engadget Japan, Aol.jp, and AOL Mail, the Applicable Verizon Media Entity is Verizon Media Japan KK (Address: 2-27-25 Minamiaoyama, Minato-ku, Tokyo 10 7-0062 Japan).
                     
-                2.  if no Verizon Media Entity is specified to be the provider in respect of a specific Service, the Applicable Verizon Media Entity is Oath Inc. (Address: 22000 AOL Way, Dulles, VA 20166), and for such Services the terms of Section 14.2 (United States) apply.
+                2.  For Yahoo Japan-branded products that are accessible in Japan: these products are provided by a third-party.
                     
-        2.  Minimum Age: 13 years old
-            
-    2.  _Customer Support_. Below are links for customer support.
-        
-        1.  Singapore
-            
-        2.  Indonesia
-            
-        3.  Malaysia
-            
-        4.  Philippines
-            
-        5.  Thailand
-            
-        6.  Vietnam
-            
-7.  **Taiwan (tw):**
-    
-    1.  _Defined Terms_
-        
-        1.  Applicable Verizon Media Entity:
-            
-            1.  For Yahoo Answers, Yahoo Auctions, Yahoo Autos, Yahoo Charity, Yahoo Dictionary, Yahoo Esports, Yahoo Finance, Yahoo Games, Yahoo Groups, Yahoo House, Yahoo Mail, Yahoo Money, Yahoo Movies, Yahoo News, Yahoo Search, Yahoo Shopping, Yahoo Sports, Yahoo Stock, Yahoo Store Marketplace, Yahoo Style, Yahoo Travel, Yahoo TV, Yahoo Weather, and Aviate the Applicable Verizon Media Entity is Yahoo! Taiwan Holdings Limited, Taiwan Branch (Address: 14F, No.66 Sanchong Rd, Nangang District, Taipei, 115, Taiwan) and the following terms apply: (a) the Terms and the relationship between you and Yahoo! Taiwan Holdings Limited, Taiwan Branch will be governed by the laws of the Republic of China (R.O.C.) without regard to its conflict of law provisions, and (b) you and Yahoo! Taiwan Holdings Limited, Taiwan Branch agree to submit to the exclusive jurisdiction of the Taipei District Court located in Taiwan, R.O.C.
+                3.  For all other Services, the Applicable Verizon Media Entity is Oath Inc. (Address: 22000 AOL Way, Dulles, VA 20166).
+                    
+            2.  Minimum Age: 18 years old (however, if you are 18 or 19 years old, you must have the permission of a parent or legal guardian in order to agree to the Terms and to use the Services)
                 
-            2.  For other Services:
-                
-                1.  the Applicable Verizon Media Entity is the Verizon Media Entity that is specified to be the provider in respect of a specific Service, and the Terms and the relationship between you and the Applicable Verizon Media Entity will be governed by the laws of the place of incorporation of the Applicable Verizon Media Entity. or
-                    
-                2.  if no Verizon Media Entity is specified to be the provider in respect of a specific Service, the Applicable Verizon Media Entity is Oath Inc. (Address: 22000 AOL Way, Dulles, VA 20166), and for such Services the terms of Section 14.2 (United States) apply.
-                    
-        2.  Minimum Age: 13 years old
+        2.  _Choice of Law_. The Terms and relationship between you and us will be governed by the laws of Japan without regard to its conflict of law provision.
             
-    2.  _Customer Support_. For customer support, see this page.
+        3.  _Forum_. You and we submit to the exclusive jurisdiction of the Tokyo District Court, Japan.
+            
+        4.  _Modifying the Services. Modifying these Terms_
+            
+            1.  When we modify the Services as outlined in Section 7(a), or we modify these Term pursuant to Section 12(b), we will notify you a reasonable amount of time in advance of any modifications that will be of material disadvantage to you or materially limit your access to or usage of the Services.
+                
+            2.  For modifications to these Terms or the Services that we need to make in order to meet security, safety, legal or regulatory requirements, we may not be able to notify you in advance, but we will let you know as soon as practicable after such modification is made.
+                
+        5.  _Limitation of Liability_. Nothing in these Terms affects any legal rights that you are entitled to as a consumer under Japanese law which cannot be contractually altered or waived. Accordingly, if the contract regarding the use of the Services pursuant to these Terms is deemed a consumer contract under the Consumer Contract Act of Japan, some of the exclusions and limitations in Section 9 of these Terms will not apply to you for liability resulting from our willful misconduct or gross negligence.
+            
+        6.  _Customer Support_. For customer service, please see this page.
+            
+    10.  **New Zealand (nz):**
         
+        1.  _Defined Terms_
+            
+            1.  Applicable Verizon Media Entity:
+                
+                1.  For Yahoo Answers, Yahoo Entertainment, Yahoo Lifestyle, Yahoo Mail, Yahoo News, Yahoo Search and Yahoo Sport the Applicable Verizon Media Entity is Verizon Media New Zealand Limited (Address: Level 1, 22-28 Customs Street East, Auckland 1010 New Zealand) and the following terms apply: (a) the Terms and the relationship between you and Verizon Media New Zealand Limited will be governed by the laws of New Zealand without regard to its conflict of law provisions, and (b) you and Verizon Media New Zealand Limited agree to submit to the exclusive jurisdiction of the courts of New Zealand.
+                    
+                2.  For other services, the Applicable Verizon Media Entity is Oath Inc. (Address: 22000 AOL Way, Dulles, VA 20166), and for such Services the terms of Section 14.2 (United States) apply.
+                    
+            2.  Minimum Age: 13 years old
+                
+        2.  _Customer Support_. For customer support, see this page.
+            
+    11.  **Singapore (sg), Indonesia (id), Malaysia (my), Philippines (ph), Thailand (th) or Vietnam (vn)):**
+        
+        1.  _Defined Terms_
+            
+            1.  Applicable Verizon Media Entity:
+                
+                1.  For Yahoo Answers, Yahoo Calendar, Yahoo Celebrity, Yahoo Finance, Yahoo Groups, Yahoo Mail, Yahoo News, Yahoo Search, Yahoo Style, Yahoo Travel, Yahoo TV, Yahoo Weather, and Aviate the Applicable Verizon Media Entity is Yahoo! Singapore Digital Marketing Pte. Ltd. (Address: 60 Anson Road, #12-01 Mapletree Anson, Singapore 079914) and the following terms apply: (a) the Terms and the relationship between you and Yahoo! Singapore Digital Marketing Pte. Ltd. will be governed by the laws of Singapore without regard to its conflict of law provisions, and (b) you and Yahoo! Singapore Digital Marketing Pte. Ltd. agree to submit to the exclusive jurisdiction of the courts of Singapore.
+                    
+                2.  For other Services:
+                    
+                    1.  the Applicable Verizon Media Entity is the Verizon Media Entity that is specified to be the provider in respect of a specific Service, and the Terms and the relationship between you and the Applicable Verizon Media Entity will be governed by the laws of the place of incorporation of the Applicable Verizon Media Entity; or
+                        
+                    2.  if no Verizon Media Entity is specified to be the provider in respect of a specific Service, the Applicable Verizon Media Entity is Oath Inc. (Address: 22000 AOL Way, Dulles, VA 20166), and for such Services the terms of Section 14.2 (United States) apply.
+                        
+            2.  Minimum Age: 13 years old
+                
+        2.  _Customer Support_. Below are links for customer support.
+            
+            1.  Singapore
+                
+            2.  Indonesia
+                
+            3.  Malaysia
+                
+            4.  Philippines
+                
+            5.  Thailand
+                
+            6.  Vietnam
+                
+    12.  **Taiwan (tw):**
+        
+        1.  _Defined Terms_
+            
+            1.  Applicable Verizon Media Entity:
+                
+                1.  For Yahoo Answers, Yahoo Auctions, Yahoo Autos, Yahoo Charity, Yahoo Dictionary, Yahoo Esports, Yahoo Finance, Yahoo Games, Yahoo Groups, Yahoo House, Yahoo Mail, Yahoo Money, Yahoo Movies, Yahoo News, Yahoo Search, Yahoo Shopping, Yahoo Sports, Yahoo Stock, Yahoo Store Marketplace, Yahoo Style, Yahoo Travel, Yahoo TV, Yahoo Weather, and Aviate the Applicable Verizon Media Entity is Yahoo! Taiwan Holdings Limited, Taiwan Branch (Address: 14F, No.66 Sanchong Rd, Nangang District, Taipei, 115, Taiwan) and the following terms apply: (a) the Terms and the relationship between you and Yahoo! Taiwan Holdings Limited, Taiwan Branch will be governed by the laws of the Republic of China (R.O.C.) without regard to its conflict of law provisions, and (b) you and Yahoo! Taiwan Holdings Limited, Taiwan Branch agree to submit to the exclusive jurisdiction of the Taipei District Court located in Taiwan, R.O.C.
+                    
+                2.  For other Services:
+                    
+                    1.  the Applicable Verizon Media Entity is the Verizon Media Entity that is specified to be the provider in respect of a specific Service, and the Terms and the relationship between you and the Applicable Verizon Media Entity will be governed by the laws of the place of incorporation of the Applicable Verizon Media Entity. or
+                        
+                    2.  if no Verizon Media Entity is specified to be the provider in respect of a specific Service, the Applicable Verizon Media Entity is Oath Inc. (Address: 22000 AOL Way, Dulles, VA 20166), and for such Services the terms of Section 14.2 (United States) apply.
+                        
+            2.  Minimum Age: 13 years old
+                
+        2.  _Customer Support_. For customer support, see this page.
+            
+    13.  **Europe, Middle East and Africa**
+        
+        1.  _Defined Terms_
+            
+            1.  Applicable Verizon Media Entity: Verizon Media EMEA Limited (Address: 5-7 Point Square, North Wall Quay, Dublin 1, Ireland)
+                
+            2.  Minimum Age: For EU Member States, the Minimum Age is 16 or the lower age that a Member State has provided for you to consent to the processing of your personal data. For countries outside the EU the Minimum Age is 13.
+                
+        2.  _Choice of Law_. These Terms and their operation, interpretation or formation, and the relationship between the parties, including any claim or dispute that might arise between the parties (including non-contractual claims or disputes) will be governed by the laws of Ireland without regard to its conflict of law provisions.
+            
+        3.  _Forum_. Except to the extent set out in paragraph (d) below, you and we agree to submit to the exclusive jurisdiction of the Irish courts in respect of any dispute or claim that arises out of or in connection with these Terms or their operation, interpretation or formation (including non-contractual claims or disputes). In such cases, you and we agree to submit to the personal jurisdiction of the courts located within Ireland, and agree to waive any and all objections to the exercise of jurisdiction over the parties by such courts and to the venue of such courts.
+            
+        4.  If you reside in a European Union country, nothing in these Terms, including paragraphs (b) and (c) above, affects your right to rely on any applicable mandatory local law or choice of jurisdiction provision that cannot be varied by contract. The European Commission provides for an online dispute resolution platform, which you can access at https://ec.europa.eu/consumers/odr/.
+            
+        5.  _Customer Support_. Below are links for customer support.
+            
+            1.  Ireland
+                
+            2.  UK
+                
+            3.  Germany
+                
+            4.  France
+                
+            5.  Spain
+                
+            6.  Italy
+                
+            7.  All other countries
+                
+        6.  _Modifying the Services. Modifying these Terms_
+            
+            1.  Where we modify the Services as outlined in Section 7(a), or we modify these Terms pursuant to Section 12(b), we will tell you a reasonable amount of time in advance of any modifications that will materially disadvantage our users or materially limit the access or usage of Services. Your continued use of the Services after the effective date of any such modifications means that you agree to the Services or the Terms as modified.
+                
+            2.  For modifications to the Terms or to the Services that we need to make to meet security, safety, legal or regulatory requirements, we may not be able to notify you in advance but we will let you know as soon as practicable.
+                
+        7.  _Notice of cancellation, suspension or limitation of the Services or your account._
+            
+            1.  Despite Subsection (f) above and without prejudice to your statutory rights, we may, without notice, temporarily or permanently suspend or cancel your account or impose limits on or restrict your access to parts or all of your account or the Services:
+                
+                1.  if you violate, or we believe you are about to violate, the Terms, including any incorporated agreements, policies or guidelines;
+                    
+                2.  in response to requests by law enforcement or other government agencies under valid legal process;
+                    
+                3.  due to unexpected technical or security issues or problems. or
+                    
+                4.  if your account shows extended periods of inactivity in accordance with our account deletion policy.
+                    
+        8.  If we permanently suspend or terminate your account, we will notify you in advance and allow you reasonable time to access and save information, files, and content associated with your account unless we have reason to believe that continued access to your account will violate applicable legal provisions, requests by law enforcement or other government agencies, or cause damage to us or to third parties.
+            
+        9.  _Cooling off period for EU consumers._ The following provisions supplement Section 11 (Fee-Based Services and Billing).
+            
+            1.  If you are a consumer living in the EU, you can cancel your fee-based Service without giving a reason within 14 days from the day of the conclusion of the contract. You can notify us by completing and submitting this form or if you have no other option, by returning this form to us by post. You must send your notification to us before expiry of the 14-day cancellation period.
+                
+            2.  Exceptions. If you purchase digital content not supplied in a tangible medium from us you agree that the cancellation period expires immediately once you begin to download or stream the digital content.
+                
+            3.  Reimbursement. We will reimburse all payments received from you for the fee-based Service no later than 14 days from the day on which we received your cancellation notification. Unless you expressly agree otherwise, we will use the same means of payment as used for the initial transaction. You agree that if you start using the fee-based Service before the end of the cancellation period you will be liable for all charges incurred up to the date of cancellation.
+                
+        10.  _Auto-Renewal._ In addition to Section 11(b)(v), the following shall apply: If your subscription is auto-renewed and the price has increased, you will be notified of the applicable new price and you will be allowed to terminate your subscription within a period of 14 days upon receipt of the notice. In such case the new price will not become effective and your subscription will end at the end of the term.
+            
+        11.  _Exclusions and Limitations of Liability._ Nothing in the Terms affects any legal rights that you are entitled to as a consumer under Irish and EU law which cannot be contractually altered or waived. Accordingly, some of the exclusions and limitations in Sections 8 and 9 of the Terms will not apply to you if you are a consumer living in a European Union country.
+            
+        12.  _Our Liability._ Despite Section 9, we accept responsibility for fraudulent representations made by us or if you are injured or die as a direct result of our negligence in connection with the Services.
+            
+        13.  Additional terms for Italian users can be found here.
+            
+        14.  Additional terms for German users can be found here.
+            
 
-**Europe, Middle East and Africa**
-
-1.  **Europe, Middle East and Africa**
-    
-    1.  _Defined Terms_
-        
-        1.  Applicable Verizon Media Entity: Verizon Media EMEA Limited (Address: 5-7 Point Square, North Wall Quay, Dublin 1, Ireland)
-            
-        2.  Minimum Age: For EU Member States, the Minimum Age is 16 or the lower age that a Member State has provided for you to consent to the processing of your personal data. For countries outside the EU the Minimum Age is 13.
-            
-    2.  _Choice of Law_. These Terms and their operation, interpretation or formation, and the relationship between the parties, including any claim or dispute that might arise between the parties (including non-contractual claims or disputes) will be governed by the laws of Ireland without regard to its conflict of law provisions.
-        
-    3.  _Forum_. Except to the extent set out in paragraph (d) below, you and we agree to submit to the exclusive jurisdiction of the Irish courts in respect of any dispute or claim that arises out of or in connection with these Terms or their operation, interpretation or formation (including non-contractual claims or disputes). In such cases, you and we agree to submit to the personal jurisdiction of the courts located within Ireland, and agree to waive any and all objections to the exercise of jurisdiction over the parties by such courts and to the venue of such courts.
-        
-    4.  If you reside in a European Union country, nothing in these Terms, including paragraphs (b) and (c) above, affects your right to rely on any applicable mandatory local law or choice of jurisdiction provision that cannot be varied by contract. The European Commission provides for an online dispute resolution platform, which you can access at https://ec.europa.eu/consumers/odr/.
-        
-    5.  _Customer Support_. Below are links for customer support.
-        
-        1.  Ireland
-            
-        2.  UK
-            
-        3.  Germany
-            
-        4.  France
-            
-        5.  Spain
-            
-        6.  Italy
-            
-        7.  All other countries
-            
-    6.  _Modifying the Services. Modifying these Terms_
-        
-        1.  Where we modify the Services as outlined in Section 7(a), or we modify these Terms pursuant to Section 12(b), we will tell you a reasonable amount of time in advance of any modifications that will materially disadvantage our users or materially limit the access or usage of Services. Your continued use of the Services after the effective date of any such modifications means that you agree to the Services or the Terms as modified.
-            
-        2.  For modifications to the Terms or to the Services that we need to make to meet security, safety, legal or regulatory requirements, we may not be able to notify you in advance but we will let you know as soon as practicable.
-            
-    7.  _Notice of cancellation, suspension or limitation of the Services or your account._
-        
-        1.  Despite Subsection (f) above and without prejudice to your statutory rights, we may, without notice, temporarily or permanently suspend or cancel your account or impose limits on or restrict your access to parts or all of your account or the Services:
-            
-            1.  if you violate, or we believe you are about to violate, the Terms, including any incorporated agreements, policies or guidelines;
-                
-            2.  in response to requests by law enforcement or other government agencies under valid legal process;
-                
-            3.  due to unexpected technical or security issues or problems. or
-                
-            4.  if your account shows extended periods of inactivity in accordance with our account deletion policy.
-                
-    8.  If we permanently suspend or terminate your account, we will notify you in advance and allow you reasonable time to access and save information, files, and content associated with your account unless we have reason to believe that continued access to your account will violate applicable legal provisions, requests by law enforcement or other government agencies, or cause damage to us or to third parties.
-        
-    9.  _Cooling off period for EU consumers._ The following provisions supplement Section 11 (Fee-Based Services and Billing).
-        
-        1.  If you are a consumer living in the EU, you can cancel your fee-based Service without giving a reason within 14 days from the day of the conclusion of the contract. You can notify us by completing and submitting this form or if you have no other option, by returning this form to us by post. You must send your notification to us before expiry of the 14-day cancellation period.
-            
-        2.  Exceptions. If you purchase digital content not supplied in a tangible medium from us you agree that the cancellation period expires immediately once you begin to download or stream the digital content.
-            
-        3.  Reimbursement. We will reimburse all payments received from you for the fee-based Service no later than 14 days from the day on which we received your cancellation notification. Unless you expressly agree otherwise, we will use the same means of payment as used for the initial transaction. You agree that if you start using the fee-based Service before the end of the cancellation period you will be liable for all charges incurred up to the date of cancellation.
-            
-    10.  _Auto-Renewal._ In addition to Section 11(b)(v), the following shall apply: If your subscription is auto-renewed and the price has increased, you will be notified of the applicable new price and you will be allowed to terminate your subscription within a period of 14 days upon receipt of the notice. In such case the new price will not become effective and your subscription will end at the end of the term.
-        
-    11.  _Exclusions and Limitations of Liability._ Nothing in the Terms affects any legal rights that you are entitled to as a consumer under Irish and EU law which cannot be contractually altered or waived. Accordingly, some of the exclusions and limitations in Sections 8 and 9 of the Terms will not apply to you if you are a consumer living in a European Union country.
-        
-    12.  _Our Liability._ Despite Section 9, we accept responsibility for fraudulent representations made by us or if you are injured or die as a direct result of our negligence in connection with the Services.
-        
-    13.  Additional terms for Italian users can be found here.
-        
-    14.  Additional terms for German users can be found here.
-        
-
-_Last updated: 9 April 2020_
+_Last updated: August 2020_
