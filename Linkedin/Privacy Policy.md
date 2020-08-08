@@ -29,7 +29,7 @@ Services
 
 This Privacy Policy, including our Cookie Policy applies to your use of our Services.
 
-This Privacy Policy applies to LinkedIn.com, LinkedIn-branded apps, Slideshare, LinkedIn Learning and other LinkedIn-related sites, apps, communications and services (“**Services**”), including off-site Services, such as our ad services and the “Apply with LinkedIn” and “Share with LinkedIn” plugins, but excluding services that state that they are offered under a different privacy policy. For California residents, additional disclosures required by California law may be found in our California Privacy Disclosure.
+This Privacy Policy applies to LinkedIn.com, LinkedIn-branded apps, LinkedIn Learning and other LinkedIn-related sites, apps, communications and services (“**Services**”), including off-site Services, such as our ad services and the “Apply with LinkedIn” and “Share with LinkedIn” plugins, but excluding services that state that they are offered under a different privacy policy. For California residents, additional disclosures required by California law may be found in our California Privacy Disclosure.
 
 Data Controllers and Contracting Parties
 
