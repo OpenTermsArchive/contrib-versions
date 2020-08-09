@@ -7,16 +7,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Themes
     *   0 votes
-    *   4 (last comment by CityLightsShineForUs 1 day ago)
+    *   4 (last comment by CityLightsShineForUs 2 days ago)
 *   missing my blog
     *   by hsbj
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Missing my Blog
     *   by vi\_\_an
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -34,7 +34,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   14 (last comment by IshaArie 1 week ago)
 *   Old Xanga archived?
     *   by yourmomisreallyfreakinhott
-    *   1 month ago
+    *   2 months ago
     *   in Data Migration
     *   0 votes
     *   5 (last comment by HrsCrazy425 1 week ago)
