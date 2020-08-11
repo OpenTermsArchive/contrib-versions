@@ -69,7 +69,7 @@ F. Wild Sky Media permits you to link to your own User Submissions hosted on the
 
 We may use your information to notify you of important changes to the Wild Sky Media Sites, services, and special offers. If you do not want to receive such notices, you may use the following options to opt out of receiving future communications:
 
-A. Send an email message to [info@wildskymedia.com](mailto:info@wildskymedia.com) with the word “Remove” in the subject field; or
+A. Send an email message to [optout@wildskymedia.com](mailto:optout@wildskymedia.com) with the word “Remove” in the subject field; or
 
 B. Send mail to the following postal address:
 
