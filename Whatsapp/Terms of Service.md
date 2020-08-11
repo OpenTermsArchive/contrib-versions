@@ -492,7 +492,7 @@ Updates To Our Policy
 
 We will notify you as appropriate if we make material changes to this WhatsApp Payments Privacy Policy and will update the Last Modified date at the top of this WhatsApp Payments Privacy Policy accordingly. Your continued use of Payments after the publication in our Website of the revised WhatsApp Payments Privacy Policy shall be understood as an acceptance of the revised WhatsApp Payments Privacy Policy. We also recommend that you periodically visit our site in order to be informed of any changes to this WhatsApp Payments Privacy Policy.
 
-WhatsApp Payments Terms of Service - IndiaLast modified: July 9, 2018 (archived versions)
+WhatsApp Payments Terms of Service - IndiaLast modified: August 10, 2020 (archived versions)
 
 WhatsApp Inc. (“WhatsApp,” “our,” “we,” or “us”) provides messaging, Internet calling, and other services to users around the world, including the ability to send and receive payments through designated payment service providers (“PSPs”) in India (“Payments”) via Unified Payments Interface (“UPI”) developed by the National Payments Corporation of India (“NPCI”). Payments is a “Service” as defined in the WhatsApp Terms of Service (“Terms”), and the following WhatsApp Payments Terms of Service (“Payments Terms”) supplement the Terms and apply to your use of Payments. You agree to the Payments Terms when you use Payments.
 
@@ -534,6 +534,41 @@ Other
     
 *   We may amend or update these Payments Terms. We will provide you notice of amendments to our Payments Terms, as appropriate, and update the “Last Modified” date at the top of our Payments Terms. Your continued use of Payments confirms your acceptance of our Payments Terms, as amended. If you do not agree to our Payments Terms, as amended, you must stop using Payments. Please review our Payments Terms from time to time.
     
+
+UPI Terms Required by NPCI
+
+**What is NPCI?**
+
+NPCI is an authorized payment system operator by RBI. NPCI owns and operates the UPI payment system.
+
+**What is a PSP bank?**
+
+PSP is the banking company authorized to act as a Payment Service Provider (PSP) under the UPI framework. PSP engages the TPAP to provide UPI services to the end-user customers.
+
+**What are TPAPs?**
+
+Third Party Application Provider (TPAP) is the entity that provides the UPI compliant app to the end-user customers to facilitate UPI based payment transactions.
+
+**What is a customer’s bank?**
+
+The bank where the end-user customer maintains his/her account and has linked the account for the purpose of debiting/crediting the payment transactions made through UPI.
+
+**Who is an end-user customer?**
+
+The end-user customer is the individual who uses UPI payment facility to send and receive payments.
+
+**UPI Participants’ Roles and Responsibilities.** You can find more information about the roles and responsibilities of UPI participants here.
+
+We hereby confirm that:
+
+1.  We, WhatsApp, are a TPAP authorized by NPCI to facilitate payments through ICICI Bank. We are a service provider and we participate in UPI through PSP bank.
+    
+2.  We are bound by the tripartite agreement entered with the sponsor PSP, ICICI Bank, and NPCI. We are responsible for facilitating grievances / complaints resolution of the customers on-boarded on our UPI application.
+    
+3.  We shall be the first point of contact for all UPI related grievances/complaints for customers on-boarded by us. In case the complaint/grievance remains unresolved, the next level for escalation will be the PSP Bank, followed by the bank (where you maintain the account) and NPCI in the same order. After exercising these options, you can approach the Banking Ombudsman and / or the Ombudsman for Digital Complaints, as the case may be.
+    
+
+You can learn more about the dispute redressal mechanism here.
 
 WhatsApp Payments Privacy Policy - IndiaLast modified: July 9, 2018 (archived versions)
 
@@ -824,85 +859,105 @@ Axis Bank shall have the option to introduce any new services through this facil
 
 **Liabilities and Responsibilities of the User**:
 
-1.  The User shall be responsible for the accuracy of any information provided by the user for availing the facility.
-2.  The USER shall be solely responsible for fund transfer through Payment Application to the correct Beneficiary/ virtual address.
-3.  The USER shall also be responsible to comply with the applicable Anti-Money Laundering (AML) norms governing such funds transfers as stipulated by Reserve Bank of India (“RBI”), from time to time.
-4.  The USER shall be liable and responsible in case of any discrepancy found in the information provided by him for availing fund transfer service offered through the Application.
-5.  If, the USER suspects that, there is an error in the information supplied by Axis Bank, he shall inform the Bank immediately. Axis Bank will endeavor to correct the error promptly wherever possible on a best effort basis.
-6.  Axis Bank shall not be held liable for any loss suffered by the User due to disclosure of the Personal information to any service provider or third party by the Bank, for reasons including but not limited to participation in any telecommunication or electronic clearing network, in compliance with any legal or regulatory directives, for statistical analysis or for credit rating or for any legal or regulatory compliance.
-7.  The User shall be solely responsible for protecting his Mobile Phone and UPI PIN for the use of the said facility.
-8.  The User shall be liable to the Bank for any kind of unauthorized or unlawful use of any of the above mentioned UPI PIN/passwords or of the said Application or any fraudulent or erroneous instruction given and any financial charges thus incurred shall be payable by the User only.
-9.  The User accepts that for the purposes of the said facility any transaction emanating from the Mobile Phone Number registered by User shall be assumed to have initiated by the User at his sole discretion.
-10.  It is the sole responsibility of the User to request the Bank, to suspend the said facility due to change of his registered Mobile Phone Number or if his Mobile Phone has been lost or has been allotted to some other person. The User shall also be obliged to inform the Bank, if any, unauthorized transaction in his account, of which he has knowledge.
-11.  It shall be the responsibility of the User to update him with regard to any information relating to the services as Axis Bank may decide to provide certain other additional services under the said facility. Axis Bank shall not be responsible for any disregard on the part of the User.
-12.  The User shall be liable for all loss if he has breached the terms and conditions contained herein and other applicable terms &. conditions or contributed or caused the loss by negligent actions or a failure on his part to advise Axis Bank within a reasonable time about any unauthorized access made on his behalf in the Mobile Payment Application.
-13.  The User shall agree that by use of this facility, he shall be deemed to have agreed to all the above terms and conditions and such terms and conditions shall be binding on me/us in the same manner as if he has agreed to the same in writing.
+The User shall be responsible for the accuracy of any information provided by the user for availing the facility.
+
+The USER shall be solely responsible for fund transfer through Payment Application to the correct Beneficiary/ virtual address.
+
+The USER shall also be responsible to comply with the applicable Anti-Money Laundering (AML) norms governing such funds transfers as stipulated by Reserve Bank of India (“RBI”), from time to time.
+
+The USER shall be liable and responsible in case of any discrepancy found in the information provided by him for availing fund transfer service offered through the Application.
+
+If, the USER suspects that, there is an error in the information supplied by Axis Bank, he shall inform the Bank immediately. Axis Bank will endeavor to correct the error promptly wherever possible on a best effort basis.
+
+Axis Bank shall not be held liable for any loss suffered by the User due to disclosure of the Personal information to any service provider or third party by the Bank, for reasons including but not limited to participation in any telecommunication or electronic clearing network, in compliance with any legal or regulatory directives, for statistical analysis or for credit rating or for any legal or regulatory compliance.
+
+The User shall be solely responsible for protecting his Mobile Phone and UPI PIN for the use of the said facility.
+
+The User shall be liable to the Bank for any kind of unauthorized or unlawful use of any of the above mentioned UPI PIN/passwords or of the said Application or any fraudulent or erroneous instruction given and any financial charges thus incurred shall be payable by the User only.
+
+The User accepts that for the purposes of the said facility any transaction emanating from the Mobile Phone Number registered by User shall be assumed to have initiated by the User at his sole discretion.
+
+It is the sole responsibility of the User to request the Bank, to suspend the said facility due to change of his registered Mobile Phone Number or if his Mobile Phone has been lost or has been allotted to some other person. The User shall also be obliged to inform the Bank, if any, unauthorized transaction in his account, of which he has knowledge.
+
+It shall be the responsibility of the User to update him with regard to any information relating to the services as Axis Bank may decide to provide certain other additional services under the said facility. Axis Bank shall not be responsible for any disregard on the part of the User.
+
+The User shall be liable for all loss if he has breached the terms and conditions contained herein and other applicable terms &. conditions or contributed or caused the loss by negligent actions or a failure on his part to advise Axis Bank within a reasonable time about any unauthorized access made on his behalf in the Mobile Payment Application.
+
+The User shall agree that by use of this facility, he shall be deemed to have agreed to all the above terms and conditions and such terms and conditions shall be binding on me/us in the same manner as if he has agreed to the same in writing.
 
 **Terms of Service**:
 
 These terms &. conditions are in addition to the general terms &. conditions of any account or any other facility provided by Axis Bank to its Customers.
 
-1.  This facility is available only to the User having a bank account with any bank in India providing Immediate Payment Service (IMPS), Unified Payment Interface (UPI), including the fund transfer service.
-2.  User shall register him for using the Application in such manner and through such modes as may be specified and made available by Axis Bank from time to time for availment and use of the facility.
-3.  Axis Bank reserves right to charge the User for the services offered under the said facility.
-4.  This facility will be provided by Axis Bank at the request of the User to enable them to send or receive the funds through the Application to the accounts/virtual addresses added in the application based on the instructions received from User.
-5.  The User irrevocably and unconditionally authorizes Axis Bank to debit or credit his account/s with the Bank registered for availing the facility.
-6.  User agrees and confirms that, for the purpose of availing said facility:
-    1.  User has to add his existing account maintained with Axis Bank or any other Bank, to the Mobile Payment application.
-    2.  User has to select the appropriate bank details where his account is maintained, for the purpose of adding his account to the Application. The account details will be fetched by the Axis Bank through the application via NPCI and the Issuing bank, basis the mobile number shared by User. The account details which will be fetched by the Bank will be displayed to the User on his mobile phone/device in the message format. The User has to validate such account details by entering the last six digits of his Debit Card and the expiry date of Debit Card, OTP which will be sent to the User on his registered mobile number. This will be followed by setting up a UPI PIN for the account in the application, to complete the account addition process by the User. All these details will be entered by the User on the NPCI Library that would be fetched in the application from NPCI Library in encrypted form.
-    3.  After the successful account addition in the Axis Pay application, the User has to only authorize the transaction by entering the UPI PIN set-up by said User. This UPI PIN will be set-up by the User directly on the NPCI library and Axis bank would not be able to read or copy such UPI PIN, thus Axis Bank will not be responsible to maintain the confidentiality of such UPI PIN.
-    4.  The User should act in good faith, exercise reasonable care and diligence and shall be solely responsible for the confidentiality of his account details, debit card details, OTP or UPI PIN and any personal information (“credentials”). User acknowledges, represents and confirms that his credentials are personal to the him and the User shall ensure at all times to keep the same confidential and Axis Bank shall not be held liable or responsible if the User discloses his credentials to any third party in any manner whatsoever or authorizes any third party to operate account or hands over his application or if third party changes/modifies the credentials in the application due to disclosure of such credentials by the User or misuse the application permitted by User to use by third party. Therefore, Bank shall not be held liable or responsible in case of any details including UPI PIN are compromised by User and/or any misuse of the Application by third party, in such case the User shall be solely liable and responsible and shall keep Axis Bank indemnified, harmless and absolved from any liability in this regard including from any loss, cost, penalty, charges, including legal fees/charge, etc. which may cause to Axis Bank due to User’s disclosure of his credentials/UPIPIN to any third party/person or any misused thereof in any manner whatsoever including the misuse of the Application by third party. The User shall be solely liable and responsible, in case if the said details are compromised by the Customer knowingly or unknowingly, in any manner whatsoever.
-    5.  Axis Bank account and Non-Axis Bank account details of the User would be stored at Axis Bank server database to the extant details provided by NPCI as per NPCI guidelines.
-    6.  User shall adhere to the limit set Axis Bank for making any fund transfer under said facility.
-7.  For the purpose of availing this facility, User shall take all necessary precautions to prevent unauthorized and illegal use of Application and services offered through the facility.
-8.  The User will be required to register his details including bank account details after downloading the Application to Send and Receive the funds through said facility.
-9.  The User shall be responsible for maintaining the confidentiality of UPIPIN/OTP/Code/password and for all the consequences which may arise due to use or misuse of such UPIPIN/OTP/Passcode/password.
-10.  The User shall be responsible for any and all the fund transferred to beneficiaries at their request or received by using the Application.
-11.  The User shall be liable for all loss caused due to negligent actions or a failure on his part to immediately notify Axis Bank within a reasonable time, about any unauthorized use/access made on his behalf in the Application or misuse of MPIN/OTP/Passcode/password or any other breach of security regarding the facility, of which he has knowledge.
-12.  The User irrevocably and unconditionally authorizes Axis Bank to access all the necessary information for effecting transactions executed by him under the facility and to share his necessary information with any third parties for the purpose of accepting/executing such requests.
-13.  Axis Bank may keep records of the transactions in any form it wishes. In the event of any dispute, Bank's records shall be binding as the conclusive evidence of the transactions carried out through the said Application.
-14.  The User shall not use/access the Application and/or services offered through the same in any manner other than as authorized by Axis Bank. In case the User uses the Application for any purpose which is illegal, improper or which is not authorized under these terms/other specified terms &. conditions then Axis Bank has a right to take all reasonable measures in order to prevent such unauthorized access by the User.
-15.  The User confirms that, any instructions given by him shall be effected only after validation of authentic UPIPIN/OTP/Passcode/Password used by him for availing such facility.
-16.  The User agrees and confirms that, once the transaction is materialized, any stop-payment instructions given by him cannot be accepted and acted upon by Axis Bank.
-17.  The User shall while utilizing the facility ensure that:
-    1.  He has authority to access and avail the services obtained and shall duly comply with the applicable laws and regulations prevailing in India.
-    2.  He shall provide Axis Bank with such information and/or assistance as is required by Axis Bank for the performance of the service and/or any other obligations of Axis Bank under this facility.
-    3.  He shall be responsible for providing the accurate and authentic information/instructions to Axis Bank for availing such facility.
-    4.  He shall not at any time provide to any person, with any details of accounts held by him with Axis Bank or any other Bank including the passwords, account number which are allotted, from time to time.
-18.  The User acknowledges that, the services offered by Axis Bank under the said facility shall be availed by him at his own risk and these risks shall include the following risks:
-    1.  Any technical error, failure, glitch, network failure, legal restraints and other reasons which is beyond control of Axis Bank and for which Axis Bank shall not hold in any manner.
-    2.  Any loss, damages, etc. that may be incurred/suffered by User, for the reason that the information provided by him turns out to be wrong/incorrect/inaccurate, for which Axis Bank shall not be held responsible.
-    3.  For the performance of any service provider/other third party/entity involved in the process. and for any loss or damage incurred or suffered by User for any error, defect, failure or interruption of the service or consequences arising out of delayed fund transfer.
-    4.  Any loss of damage arising or resulting from delay in transmission delivery or non-delivery of online/electronic instructions or any mistake, omission or error in transmission or delivery thereof or in decrypting the instructions from any cause whatsoever or from its misinterpretation received or any act or even beyond control of Axis Bank.
-    5.  The technology for enabling the transfer of funds and the other services offered by Axis Bank under the said facility over the Mobile Payment Application could be affected by virus or other malicious, destructive or corrupting code, program or macro. It may be possible that the said Application/ server of Axis Bank may require maintenance and during such time it may not be possible to process the request/transaction of the Users. This could result in delays in the processing of instructions or failure in the processing of instructions and other such failures and inability. User understand that Axis Bank disclaims all and any liability, whether direct or indirect, whether arising out of loss or otherwise arising out of any failure or inability by the Bank to honour any User instruction for whatsoever reason.
-    6.  The User shall be entering all his sensitive information including such as account details, debit card details, OTP or UPIPIN and any personal information in NPCI library for authorizing any transaction initiated by the User and the final authorization of any such transaction which will be done by the Issuing bank only after confirmation received from the Issuing bank from the User. User agrees and confirms that, he shall be alone responsible for use/disclosure of his details as mentioned herein, for initiating/authorizing any transaction through Application via NPCI and the Issuing bank and shall keep Axis Bank indemnified, harmless and absolved from any liability in this regard including from any loss, cost, penalty, charges, including legal fees/charge, etc. which may cause to Axis Bank due to use/disclosure of User’s details mentioned herein by User, over NPCI Library and to the Issuing bank for seeking their confirmations, in respect of any transaction initiated/authorized by the User. Therefore, the User shall be solely liable and responsible, in such case if any loss, cost, penalty, charges, including legal fees/charge, etc. incurred to the User, in any manner whatsoever in this regard.
-19.  The User agrees that Axis Bank shall assume no responsibility in respect of:
-    1.  Transactions carried out under the service in good faith relying on User’s instructions.
-    2.  Not carrying out transactions where Axis Bank has reason to believe in its sole discretion that the instructions are not genuine or are otherwise unclear, improper, vague or doubtful.
-    3.  For any loss or damage incurred or suffered by User for any error, defect, failure or interruption of the service or consequences arising out of delayed transfer/remittance and for any reason which is beyond control of Axis Bank.
-    4.  User acknowledges and agrees that Axis Bank remains a mere facilitator for this service and that Axis Bank does not warrant or claim any responsibility for this facility nor does Axis Bank endorse any such service and/or its standing or reputation whatsoever and Axis Bank shall not be liable for any deficient or bad services in any manner whatsoever and for any loss, whatsoever that User may suffer. The risk in this regard is entirely on the User.
-    5.  Unauthorized access of any third party to the information/instructions given by user to third party using said facility.
-    6.  For any direct, indirect or consequential damages occurred to User while availing this facility, arising out of any error in the facility and which are beyond control of Axis Bank.
-    7.  When Axis Bank acted in good faith.
-    8.  Any loss, damage, liability caused or suffered by User due to disclosure of all information of confidential nature.
-    9.  In respect of UPI System, as the connectivity to UPI System is extended to the Axis Bank only and any/all secure credentials that are required to process the transaction shall be provided by the User which will be captured and encrypted as per the construct and requirement of UPI only, by NPCI. Therefore, the secure mechanism or interface will be extended by NPCI through UPI system to Axis Bank including but not limited to secured credentials or sensitive information such as User’s UPIPIN, Account details, Debit card Number, Expiry date, OTP, etc in encrypted manner.
-20.  User agrees that, charges if any for the facility offered by Axis Bank will be at the sole discretion of Axis Bank and Axis Bank is at the liberty to withdraw/modify/vary the same from time to time, without giving any notice to me/us.
-21.  The Bank at its sole discretion reserves the exclusive right to block, temporarily or permanently, virtual payment address(es) of the User, if it identifies that the user-name or words used in the virtual payment address(es), as misleading, offensive, prohibited, promotional or brand-names, trademark or copyright pertaining to any third party, with or without prior intimation to the User, for which the Bank shall not be held liable or responsible in any manner whatsoever.
-22.  The User agrees that, if his bank account is closed/blocked pursuant using the facility, for any reason whatsoever, user shall settle the issue directly with his Bank and shall not hold Axis Bank any way responsible for the same.
-23.  The User shall remain responsible for any and all the transactions made through the facility. Axis Bank may withdraw or terminate the facility anytime or in case of breach of terms by me/us without a prior notice. or if Axis Bank learns of demise, bankruptcy or lack of legal capacity of the User or for any reason whatsoever.
-24.  The User agrees that, User is not entitled to consolidate amounts available in his different bank accounts maintained with his bank(s) for making payments using said Application. Therefore, at one given point of time User is entitled to use funds available in particular bank account which he has chosen for making payment using the said Application.
-25.  The User agrees to indemnify, defend and hold harmless Axis Bank and its directors, officers, owners, agents, co-branders or other partners, employees, information providers, licensors, licensees, consultants, contractors and other applicable third parties (collectively "Indemnified Parties") from and against any and all claims, demands, causes of action, debt or liability, including reasonable attorney's fees, and costs incurred by the Indemnified Parties arising out of, related to, or which may arise from:
-    1.  Any breach or non-compliance by User of any term of these Terms of Service or any other additional terms &. conditions and policies of Axis Bank.
-    2.  Any dispute or litigation caused by Users actions or omissions.
-    3.  Any negligence or violation or alleged violation of any law or rights of a third party
-26.  Axis Bank may provide the any services through this Application, directly or through its associates or contracted service providers on its behalf.
+This facility is available only to the User having a bank account with any bank in India providing Immediate Payment Service (IMPS), Unified Payment Interface (UPI), including the fund transfer service.
+
+User shall register him for using the Application in such manner and through such modes as may be specified and made available by Axis Bank from time to time for availment and use of the facility.
+
+Axis Bank reserves right to charge the User for the services offered under the said facility.
+
+This facility will be provided by Axis Bank at the request of the User to enable them to send or receive the funds through the Application to the accounts/virtual addresses added in the application based on the instructions received from User.
+
+The User irrevocably and unconditionally authorizes Axis Bank to debit or credit his account/s with the Bank registered for availing the facility.
+
+User agrees and confirms that, for the purpose of availing said facility:
+
+`User has to add his existing account maintained with Axis Bank or any other Bank, to the Mobile Payment application. User has to select the appropriate bank details where his account is maintained, for the purpose of adding his account to the Application. The account details will be fetched by the Axis Bank through the application via NPCI and the Issuing bank, basis the mobile number shared by User. The account details which will be fetched by the Bank will be displayed to the User on his mobile phone/device in the message format. The User has to validate such account details by entering the last six digits of his Debit Card and the expiry date of Debit Card, OTP which will be sent to the User on his registered mobile number. This will be followed by setting up a UPI PIN for the account in the application, to complete the account addition process by the User. All these details will be entered by the User on the NPCI Library that would be fetched in the application from NPCI Library in encrypted form. After the successful account addition in the Axis Pay application, the User has to only authorize the transaction by entering the UPI PIN set-up by said User. This UPI PIN will be set-up by the User directly on the NPCI library and Axis bank would not be able to read or copy such UPI PIN, thus Axis Bank will not be responsible to maintain the confidentiality of such UPI PIN. The User should act in good faith, exercise reasonable care and diligence and shall be solely responsible for the confidentiality of his account details, debit card details, OTP or UPI PIN and any personal information (“credentials”). User acknowledges, represents and confirms that his credentials are personal to the him and the User shall ensure at all times to keep the same confidential and Axis Bank shall not be held liable or responsible if the User discloses his credentials to any third party in any manner whatsoever or authorizes any third party to operate account or hands over his application or if third party changes/modifies the credentials in the application due to disclosure of such credentials by the User or misuse the application permitted by User to use by third party. Therefore, Bank shall not be held liable or responsible in case of any details including UPI PIN are compromised by User and/or any misuse of the Application by third party, in such case the User shall be solely liable and responsible and shall keep Axis Bank indemnified, harmless and absolved from any liability in this regard including from any loss, cost, penalty, charges, including legal fees/charge, etc. which may cause to Axis Bank due to User’s disclosure of his credentials/UPIPIN to any third party/person or any misused thereof in any manner whatsoever including the misuse of the Application by third party. The User shall be solely liable and responsible, in case if the said details are compromised by the Customer knowingly or unknowingly, in any manner whatsoever. Axis Bank account and Non-Axis Bank account details of the User would be stored at Axis Bank server database to the extant details provided by NPCI as per NPCI guidelines. User shall adhere to the limit set Axis Bank for making any fund transfer under said facility.`
+
+For the purpose of availing this facility, User shall take all necessary precautions to prevent unauthorized and illegal use of Application and services offered through the facility.
+
+The User will be required to register his details including bank account details after downloading the Application to Send and Receive the funds through said facility.
+
+The User shall be responsible for maintaining the confidentiality of UPIPIN/OTP/Code/password and for all the consequences which may arise due to use or misuse of such UPIPIN/OTP/Passcode/password.
+
+The User shall be responsible for any and all the fund transferred to beneficiaries at their request or received by using the Application.
+
+The User shall be liable for all loss caused due to negligent actions or a failure on his part to immediately notify Axis Bank within a reasonable time, about any unauthorized use/access made on his behalf in the Application or misuse of MPIN/OTP/Passcode/password or any other breach of security regarding the facility, of which he has knowledge.
+
+The User irrevocably and unconditionally authorizes Axis Bank to access all the necessary information for effecting transactions executed by him under the facility and to share his necessary information with any third parties for the purpose of accepting/executing such requests.
+
+Axis Bank may keep records of the transactions in any form it wishes. In the event of any dispute, Bank's records shall be binding as the conclusive evidence of the transactions carried out through the said Application.
+
+The User shall not use/access the Application and/or services offered through the same in any manner other than as authorized by Axis Bank. In case the User uses the Application for any purpose which is illegal, improper or which is not authorized under these terms/other specified terms &. conditions then Axis Bank has a right to take all reasonable measures in order to prevent such unauthorized access by the User.
+
+The User confirms that, any instructions given by him shall be effected only after validation of authentic UPIPIN/OTP/Passcode/Password used by him for availing such facility.
+
+The User agrees and confirms that, once the transaction is materialized, any stop-payment instructions given by him cannot be accepted and acted upon by Axis Bank.
+
+The User shall while utilizing the facility ensure that:
+
+`He has authority to access and avail the services obtained and shall duly comply with the applicable laws and regulations prevailing in India. He shall provide Axis Bank with such information and/or assistance as is required by Axis Bank for the performance of the service and/or any other obligations of Axis Bank under this facility. He shall be responsible for providing the accurate and authentic information/instructions to Axis Bank for availing such facility. He shall not at any time provide to any person, with any details of accounts held by him with Axis Bank or any other Bank including the passwords, account number which are allotted, from time to time.`
+
+The User acknowledges that, the services offered by Axis Bank under the said facility shall be availed by him at his own risk and these risks shall include the following risks:
+
+`Any technical error, failure, glitch, network failure, legal restraints and other reasons which is beyond control of Axis Bank and for which Axis Bank shall not hold in any manner. Any loss, damages, etc. that may be incurred/suffered by User, for the reason that the information provided by him turns out to be wrong/incorrect/inaccurate, for which Axis Bank shall not be held responsible. For the performance of any service provider/other third party/entity involved in the process. and for any loss or damage incurred or suffered by User for any error, defect, failure or interruption of the service or consequences arising out of delayed fund transfer. Any loss of damage arising or resulting from delay in transmission delivery or non-delivery of online/electronic instructions or any mistake, omission or error in transmission or delivery thereof or in decrypting the instructions from any cause whatsoever or from its misinterpretation received or any act or even beyond control of Axis Bank. The technology for enabling the transfer of funds and the other services offered by Axis Bank under the said facility over the Mobile Payment Application could be affected by virus or other malicious, destructive or corrupting code, program or macro. It may be possible that the said Application/ server of Axis Bank may require maintenance and during such time it may not be possible to process the request/transaction of the Users. This could result in delays in the processing of instructions or failure in the processing of instructions and other such failures and inability. User understand that Axis Bank disclaims all and any liability, whether direct or indirect, whether arising out of loss or otherwise arising out of any failure or inability by the Bank to honour any User instruction for whatsoever reason. The User shall be entering all his sensitive information including such as account details, debit card details, OTP or UPIPIN and any personal information in NPCI library for authorizing any transaction initiated by the User and the final authorization of any such transaction which will be done by the Issuing bank only after confirmation received from the Issuing bank from the User. User agrees and confirms that, he shall be alone responsible for use/disclosure of his details as mentioned herein, for initiating/authorizing any transaction through Application via NPCI and the Issuing bank and shall keep Axis Bank indemnified, harmless and absolved from any liability in this regard including from any loss, cost, penalty, charges, including legal fees/charge, etc. which may cause to Axis Bank due to use/disclosure of User’s details mentioned herein by User, over NPCI Library and to the Issuing bank for seeking their confirmations, in respect of any transaction initiated/authorized by the User. Therefore, the User shall be solely liable and responsible, in such case if any loss, cost, penalty, charges, including legal fees/charge, etc. incurred to the User, in any manner whatsoever in this regard.`
+
+The User agrees that Axis Bank shall assume no responsibility in respect of:
+
+`Transactions carried out under the service in good faith relying on User’s instructions. Not carrying out transactions where Axis Bank has reason to believe in its sole discretion that the instructions are not genuine or are otherwise unclear, improper, vague or doubtful. For any loss or damage incurred or suffered by User for any error, defect, failure or interruption of the service or consequences arising out of delayed transfer/remittance and for any reason which is beyond control of Axis Bank. User acknowledges and agrees that Axis Bank remains a mere facilitator for this service and that Axis Bank does not warrant or claim any responsibility for this facility nor does Axis Bank endorse any such service and/or its standing or reputation whatsoever and Axis Bank shall not be liable for any deficient or bad services in any manner whatsoever and for any loss, whatsoever that User may suffer. The risk in this regard is entirely on the User. Unauthorized access of any third party to the information/instructions given by user to third party using said facility. For any direct, indirect or consequential damages occurred to User while availing this facility, arising out of any error in the facility and which are beyond control of Axis Bank. When Axis Bank acted in good faith. Any loss, damage, liability caused or suffered by User due to disclosure of all information of confidential nature. In respect of UPI System, as the connectivity to UPI System is extended to the Axis Bank only and any/all secure credentials that are required to process the transaction shall be provided by the User which will be captured and encrypted as per the construct and requirement of UPI only, by NPCI. Therefore, the secure mechanism or interface will be extended by NPCI through UPI system to Axis Bank including but not limited to secured credentials or sensitive information such as User’s UPIPIN, Account details, Debit card Number, Expiry date, OTP, etc in encrypted manner.`
+
+User agrees that, charges if any for the facility offered by Axis Bank will be at the sole discretion of Axis Bank and Axis Bank is at the liberty to withdraw/modify/vary the same from time to time, without giving any notice to me/us.
+
+The Bank at its sole discretion reserves the exclusive right to block, temporarily or permanently, virtual payment address(es) of the User, if it identifies that the user-name or words used in the virtual payment address(es), as misleading, offensive, prohibited, promotional or brand-names, trademark or copyright pertaining to any third party, with or without prior intimation to the User, for which the Bank shall not be held liable or responsible in any manner whatsoever.
+
+The User agrees that, if his bank account is closed/blocked pursuant using the facility, for any reason whatsoever, user shall settle the issue directly with his Bank and shall not hold Axis Bank any way responsible for the same.
+
+The User shall remain responsible for any and all the transactions made through the facility. Axis Bank may withdraw or terminate the facility anytime or in case of breach of terms by me/us without a prior notice. or if Axis Bank learns of demise, bankruptcy or lack of legal capacity of the User or for any reason whatsoever.
+
+The User agrees that, User is not entitled to consolidate amounts available in his different bank accounts maintained with his bank(s) for making payments using said Application. Therefore, at one given point of time User is entitled to use funds available in particular bank account which he has chosen for making payment using the said Application.
+
+The User agrees to indemnify, defend and hold harmless Axis Bank and its directors, officers, owners, agents, co-branders or other partners, employees, information providers, licensors, licensees, consultants, contractors and other applicable third parties (collectively "Indemnified Parties") from and against any and all claims, demands, causes of action, debt or liability, including reasonable attorney's fees, and costs incurred by the Indemnified Parties arising out of, related to, or which may arise from:
+
+`Any breach or non-compliance by User of any term of these Terms of Service or any other additional terms &. conditions and policies of Axis Bank. Any dispute or litigation caused by Users actions or omissions. Any negligence or violation or alleged violation of any law or rights of a third party`
+
+Axis Bank may provide the any services through this Application, directly or through its associates or contracted service providers on its behalf.
 
 **Limitations on Transactions**:
 
 Following limits on transactions shall be applicable to each User for availing the facility offered through the Mobile Payment Application:
 
-1.  Fund transfer using Axis Bank Account up to Rs.100,000/- per transaction
-2.  Fund transfer using other Bank account. this may vary from bank to bank. User may contact the issuing bank to know the limits set for UPI.
+Fund transfer using Axis Bank Account up to Rs.100,000/- per transaction
+
+Fund transfer using other Bank account. this may vary from bank to bank. User may contact the issuing bank to know the limits set for UPI.
 
 **Indemnity**:
 
