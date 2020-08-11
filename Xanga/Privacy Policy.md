@@ -7,16 +7,16 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 months ago
     *   in Themes
     *   0 votes
-    *   2 (last comment by MatteoPanzarella 6 hours ago)
+    *   2 (last comment by MatteoPanzarella 1 day ago)
 *   Missing anything
     *   by yuenyuen0225
-    *   17 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by MatteoPanzarella 6 hours ago)
+    *   1 (last comment by MatteoPanzarella 1 day ago)
 *   Missing anything
     *   by yuenyuen0225
-    *   17 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -25,7 +25,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Themes
     *   0 votes
-    *   4 (last comment by CityLightsShineForUs 3 days ago)
+    *   4 (last comment by CityLightsShineForUs 4 days ago)
 *   missing my blog
     *   by hsbj
     *   1 week ago
@@ -52,7 +52,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   5 (last comment by HrsCrazy425 1 week ago)
 *   Missing my blogs
     *   by Dantheman3121
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
