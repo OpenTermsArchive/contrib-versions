@@ -274,11 +274,12 @@ For additional information on the unapproved or misleading pharmaceuticals and s
 
 * * *
 
-We don’t allow apps that use another app or entity’s brand, title, logo, or name in a manner that may result in misleading users. Don’t try to imply an endorsement or relationship with another entity where none exists. Impersonation can occur even if there isn’t an intent to deceive, so please be careful when referencing any brands that do not belong to you. This applies even if that brand doesn’t yet have a presence on Google Play.
+We don’t allow apps that mislead users by impersonating someone else (e.g. another developer,  company, entity) or another app.  Don’t imply that your app is related to or authorized by someone that it isn’t.  Be careful not to use app icons, descriptions, titles, or in-app elements that could mislead users about your app’s relationship to someone else or another app.  
+ 
 
 #### Here are some examples of common violations:
 
-*   Developers that falsely suggest an affiliation with another entity:
+*   Developers that falsely imply a relationship to another company / developer:
     
     ![](//lh3.googleusercontent.com/CTXDDQ5617TOtJ7SXt26hSid4qUaq_sXHYsOkRikG_I5irsQ3Qh8Y5vmcu9Nr8wYEg=w300-h550)
     
@@ -462,14 +463,21 @@ We don’t allow apps that interfere with, disrupt, damage, or access in an unau
 
 Apps on Google Play must comply with the default Android system optimization requirements documented in the [Core App Quality guidelines for Google Play](http://developer.android.com/distribute/essentials/quality/core.html#listing).
 
+An app distributed via Google Play may not modify, replace, or update itself using any method other than Google Play's update mechanism. Likewise, an app may not download executable code (e.g. dex, JAR, .so files) from a source other than Google Play. This restriction does not apply to code that runs in a virtual machine and has limited access to Android APIs (such as JavaScript in a webview or browser). 
+
+We don’t allow code that introduces or exploits security vulnerabilities. Check out the [App Security Improvement Program](https://developer.android.com/google/play/asi.html#campaigns) to find out about the most recent security issues flagged to developers.
+
 #### Here are examples of common violations:
 
 *   Apps that block or interfere with another app displaying ads.
 *   Game cheating apps that affect the gameplay of other apps.
 *   Apps that facilitate or provide instructions on how to hack services, software or hardware, or circumvent security protections.
 *   Apps that access or use a service or API in a manner that violates its terms of service.
-*   Apps that attempt to bypass [system power management](https://developer.android.com/training/monitoring-device-state/doze-standby.html) that are not [eligible for whitelisting](https://developer.android.com/training/monitoring-device-state/doze-standby.html#whitelisting-cases).
+*   Apps that are not [eligible for whitelisting](https://developer.android.com/training/monitoring-device-state/doze-standby.html#whitelisting-cases) and attempt to bypass [system power management](https://developer.android.com/training/monitoring-device-state/doze-standby.html) .
 *   Apps that facilitate proxy services to third parties may only do so in apps where that is the primary, user-facing core purpose of the app.
+*   Apps or third party code (e.g., SDKs) that download executable code, such as dex files or native code, from a source other than Google Play.
+*   Apps that install other apps on a device without the user's prior consent.
+*   Apps that link to or facilitate the distribution or installation of malicious software.
 
 We don't allow apps that steal data, secretly monitor or harm users, or are otherwise malicious.
 
@@ -501,7 +509,7 @@ Surveillance and Commercial Spyware apps are explicitly prohibited on Google Pla
 
 Check out our [App Security Improvement Program](https://developer.android.com/google/play/asi.html#campaigns) to find out about the most recent security issues flagged to developers on Google Play. Vulnerability and remediation details are available in each campaign's support page link.
 
-We don't allow apps that attempt to deceive users or enable dishonest behavior including but not limited to apps which are determined to be functionally impossible. Apps must provide an accurate disclosure, description and images/video of their functionality in all parts of the metadata and should perform as reasonably expected by the user. Apps must not attempt to mimic functionality or warnings from the operating system or other apps. Any changes to device settings must be made with the user's knowledge and consent and be easily reversible by the user.
+We don't allow apps that attempt to deceive users or enable dishonest behavior including but not limited to apps which are determined to be functionally impossible. Apps must provide an accurate disclosure, description and images/video of their functionality in all parts of the metadata. Apps must not attempt to mimic functionality or warnings from the operating system or other apps. Any changes to device settings must be made with the user's knowledge and consent and be reversible by the user.
 
 ### Misleading Claims
 
@@ -514,10 +522,16 @@ We don’t allow apps that contain false or misleading information or claims, in
     *   An app that claims to be an antivirus app, but only contains a text guide explaining how to remove viruses.
 *   Developer or app names that misrepresent their current status or performance on Play. (E.g. “Editor’s Choice,” “Number 1 App,” “Top Paid”).
 *   Apps that feature medical or health-related content or functionalities that are misleading or potentially harmful.
-*   Apps that claim functionalities that are not possible to implement.
-*   Apps that are improperly categorized.
+*   Apps that claim functionalities that are not possible to implement (e.g. insect repellent apps), even if it is represented as a prank, fake, joke, etc.
+*   Apps that are improperly categorized, including but not limited to the app rating or app category.
 *   Demonstrably deceptive content that may interfere with voting processes.
 *   Apps that falsely claim affiliation with a government entity or to provide or facilitate government services for which they are not properly authorized.
+*   Apps that falsely claim to be the official app of an established entity. Titles like “Justin Bieber Official” are not allowed without the necessary permissions or rights.
+*   ![](//lh3.googleusercontent.com/A1eTZ0k5mqZNzUIiekEmGzLcw2Jxy4anLVoa7w5unaJInstFQEl5oYl6TpY9XUn6Mwt6=w660)
+    
+    (1) This app features medical or health-related claims (Cure Cancer) that is misleading  
+    (2) This apps claim functionalities that are not possible to implement (using your phone as a breathalyzer
+    
 
 ### Unauthorized Use or Imitation of System Functionality
 
@@ -551,6 +565,8 @@ Additionally, we do not allow:
 
 We don't allow apps that help users to mislead others or are functionally deceptive in any way, including, but not limited to: apps that generate or facilitate the generation of ID cards, social security numbers, passports, diplomas, credit cards and driver's licenses. Apps must provide accurate disclosures, titles, descriptions and images/video regarding the app's functionality and/or content and should perform as reasonably and accurately expected by the user.
 
+Additional app resources (for example, game assets) may only be downloaded if they are necessary for the users' use of the app. Downloaded resources must be compliant with all Google Play policies, and before beginning the download, the app should prompt users and clearly disclose the download size.
+
 Any claim that an app is a "prank", "for entertainment purposes" (or other synonym) does not exempt an app from application of our policies.
 
 ### Manipulated Media
@@ -564,12 +580,15 @@ Apps that manipulate or alter media, beyond conventional and editorially accepta
 *   Apps adding a public figure to a demonstration during a politically sensitive event.
 *   Apps using public figures or media from a sensitive event to advertise media altering capability within an app's store listing.
 *   Apps that alter media clips to mimic a news broadcast.
+    
+    ![](//lh3.googleusercontent.com/mRVacICnbXaC5GPY0SNdp9hKiBxYK0tHUsrSCZ70WK2i2F5kd5g65CD_1-cFFO00w2k=w311)
+    
+    (1) This app provides functionality to alter media clips to mimic a news broadcast, and add famous or public figures to the clip without a watermark.
+    
 
 We do not allow apps or developer accounts that impersonate any person or organization, or that misrepresent or conceal their ownership or primary purpose. We do not allow apps or developer accounts that engage in coordinated activity to mislead users. This includes, but isn’t limited to, apps or developer accounts that misrepresent or conceal their country of origin and that direct content at users in another country.
 
 Our Malware policy is simple, the Android ecosystem including the Google Play Store, and user devices should be free from malicious behaviors (i.e. malware). Through this fundamental principle we strive to provide a safe Android ecosystem for our users and their Android devices.
-
-Malware is any code that could put a user, a user's data, or a device at risk. Malware includes, but is not limited to, Potentially Harmful Applications (PHAs), binaries, or framework modifications, consisting of categories such as trojans, phishing, and spyware apps, and we are continuously updating and adding new categories.
 
 Though varied in type and capabilities, malware usually has one of the following objectives:
 
@@ -615,7 +634,17 @@ Toll Fraud includes any type of billing except premium SMS and premium calls. Ex
 
 Code that transmits personal information off the device without adequate notice or consent and doesn't display a persistent notification that this is happening.
 
-Commercial spyware apps transmit data to a party other than the PHA provider. Legitimate forms of these apps can be used by parents to track their children. However, these apps cannot be used to track a person (a spouse, for example) without their knowledge or permission if a persistent notification is not displayed while the data is being transmitted.
+Stalkerware apps transmit data to a party other than the PHA provider. Legitimate forms of these apps cannot be used by parents to track their children. However, these apps can be used to track a person (a spouse, for example) without their knowledge or permission unless a persistent notification is displayed while the data is being transmitted.
+
+Only policy compliant apps exclusively designed and marketed for parental (including family) monitoring or enterprise management may distribute on the Play Store with tracking and reporting features, provided they fully comply with the requirements described below.
+
+Apps distributed on the Play Store that monitor or track a user's behavior on a device must comply with these requirements:
+
+*   Apps must not present themselves as a spying or secret surveillance solution.
+*   Apps must not hide or cloak tracking behavior or attempt to mislead users about such functionality.
+*   Present users with a persistent notification and unique icon that clearly identifies the app.
+*   Apps and app listings on Google Play must not provide any means to activate or access functionality that violate these terms, such as linking to a non-compliant APK hosted outside Google Play.
+*   You are solely responsible for determining the legality of your app in its targeted locale. Apps determined to be unlawful in locations where they are published will be removed.
 
 ### Denial of Service (DoS)
 
@@ -840,17 +869,27 @@ Unless the exclusive purpose of the app is that of a lockscreen, apps may not in
 
 ### Disruptive Ads
 
-Ads should not be shown in a way that results in inadvertent clicks. Forcing a user to click an ad or submit personal information for advertising purposes before they can fully use an app is prohibited.
+Disruptive ads are ads that are displayed to users in unexpected ways, that may result in inadvertent clicks, or impairing or interfering with the usability of device functions. 
 
-Interstitial ads may only be displayed inside of the app serving them. If your app displays interstitial ads or other ads that interfere with normal use, they must be easily dismissible without penalty.
+Your app cannot force a user to click an ad or submit personal information for advertising purposes before they can fully use an app. Interstitial ads may only be displayed inside of the app serving them. If your app displays interstitial ads or other ads that interfere with normal use, they must be easily dismissible without penalty.
 
 #### Here is an example of a common violation:
 
-Ads that take up the entire screen or interfere with normal use and do not provide a clear means to dismiss the ad:
-
-![](//lh3.googleusercontent.com/E0g8p7q4jqMMfYsn1OUnAi1Uogg5UsGXqStsTRdDPFCe3covkQl5CWOY4H2wcKaG0g=h500)
-
-       ① This ad does not have a dismiss button.
+*   Ads that take up the entire screen or interfere with normal use and do not provide a clear means to dismiss the ad:
+    
+    ![](//lh3.googleusercontent.com/E0g8p7q4jqMMfYsn1OUnAi1Uogg5UsGXqStsTRdDPFCe3covkQl5CWOY4H2wcKaG0g=h500)
+    
+           ① This ad does not have a dismiss button.
+    
+*   Ads that force the user to click-through by using a false dismiss button, or by making ads suddenly appear in areas of the app whether the user usually taps for another function.
+    
+    ![](//lh3.googleusercontent.com/ic6YPH3yIwN3IgvC0Ktcsq_mZTODpVUEHczJQkMj_r3qAZmuLio0VMdnOGTxe0ApGoI=h500)
+    
+*   An ad that is using a false dismiss button
+    
+    ![](//lh3.googleusercontent.com/gySz2Qvqg73VcE2hndSSumL0sqWTjVXxl3lrvwUfjr0-M5YExhIoOCyMYrz4aTrLG7M=h500)
+    
+    An ad that suddenly appears in an area where the user is used to tapping for in-app functions
 
 ### Interfering with Apps, Third-party Ads, or Device Functionality
 
@@ -880,16 +919,20 @@ The ads shown within your app must be appropriate for the intended audience of y
 
 #### Here is an example of a common violation:
 
-![](//lh3.googleusercontent.com/nfQp9jjt5EZ8b1LmbCzVG7C1SKOSOwQNdHc6Mdz8YO96nLYEJWa2Vrs8B6Q_k788RA=w300-h550)
+![](//lh3.googleusercontent.com/PBa67hgzNg4f1FflV7_Y4KX5Jc41bGZ-sEtXILC02F6kGkMJsqvrYeKbCCrWTIDoe0s=h450)
 
-      ① This ad is inappropriate for the intended audience of this app.
+      ① This ad is inappropriate (Teen) for the intended audience of the app (7+)  
+  
+      ② This ad is inappropriate (Mature) for the intended audience of the app (12+)
 
 ### Usage of Android Advertising ID
 
 Google Play Services version 4.0 introduced new APIs and an ID for use by advertising and analytics providers. Terms for the use of this ID are below.
 
 *   **Usage**. The Android advertising identifier must only be used for advertising and user analytics. The status of the “Opt out of Interest-based Advertising” or “Opt out of Ads Personalization” setting must be verified on each access of the ID.
-*   **Association with personally-identifiable information or other identifiers**. The advertising identifier must not be connected to personally-identifiable information or associated with any persistent device identifier (for example: SSAID, MAC address, IMEI, etc.) without explicit consent of the user.
+*   **Association with personally-identifiable information or other identifiers**.
+    *   Advertising use: The advertising identifier may not be connected to persistent device Identifiers (for example: SSAID, MAC address, IMEI, etc.) for any advertising purpose. The advertising identifier may only be connected to personally-identifiable information with the explicit consent of the user.
+    *   Analytics use: The advertising identifier may only be connected to personally-identifiable information or associated with any persistent device identifier (for example: SSAID, MAC address, IMEI, etc.) with the explicit consent of the user.
 *   **Respecting users' selections**. If reset, a new advertising identifier must not be connected to a previous advertising identifier or data derived from a previous advertising identifier without the explicit consent of the user. Also, you must abide by a user’s “Opt out of Interest-based Advertising” or “Opt out of Ads Personalization” setting. If a user has enabled this setting, you may not use the advertising identifier for creating user profiles for advertising purposes or for targeting users with personalized advertising. Allowed activities include contextual advertising, frequency capping, conversion tracking, reporting and security and fraud detection.
 *   **Transparency to users**. The collection and use of the advertising identifier and commitment to these terms must be disclosed to users in a legally adequate privacy notification. To learn more about our privacy standards, please review our [User Data](https://support.google.com/googleplay/android-developer/answer/9888076) policy.
 *   **Abiding by the terms of use**. The advertising identifier may only be used in accordance with these terms, including by any party that you may share it with in the course of your business. All apps uploaded or published to Google Play must use the advertising ID (when available on a device) in lieu of any other device identifiers for any advertising purposes.
@@ -906,18 +949,19 @@ The use of Google Play certified ad SDKs is only required if you are using ad SD
 
 **Ad SDK Certification Requirements**
 
-*   Define what are objectionable ad content and behaviors and prohibit them in the ad SDK's terms or policies. The definitions should not result in non-compliance with Play's Developer Program Policies.
-*   Create a method to rate your ad creatives according to age appropriate groups, including at least groups for Everyone and Mature. The rating methodology must align with the methodology that Google supplies to SDKs once they have filled out the interest form below.
-*   Allow publishers, on a per-request or per-app basis, to request child-directed treatment for ad serving. Such treatment must be in compliance with applicable laws and regulations, such as the [US Children's Online Privacy and Protection Act (COPPA)](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy) and the EU [General Data Protection Regulation (GDPR)](https://gdpr.eu/). Google Play also requires disabling of personalized ads, interest based advertising, and remarketing as part of the child-directed treatment.
+*   Define what are objectionable ad content and behaviors and prohibit them in the ad SDK's terms or policies. The definitions  should comply with Play’s Developer Program Policies.
+*   Create a method to rate your ad creatives according to age appropriate groups. Age appropriate groups must at least include groups for Everyone and Mature. The rating methodology must align with the methodology that Google supplies to SDKs once they have filled out the interest form below.
+*   Allow publishers, on a per-request or per-app basis, to request child-directed treatment for ad serving. Such treatment must be in compliance with applicable laws and regulations, such as the [US Children's Online Privacy and Protection Act (COPPA)](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy) and the EU [General Data Protection Regulation (GDPR)](https://gdpr.eu/). Google Play requires ad SDKs to disable personalized ads, interest based advertising, and remarketing as part of the child-directed treatment.
+*   Allow publishers to select ad formats that are compliant with [Play’s Families Ads and Monetization policy](https://play.google.com/about/families/ads-monetization/), and meet the requirement of the [Teacher Approved program](https://playacademy.exceedlms.com/sl/044a202e). 
 *   Ensure that when real-time bidding is used to serve ads to children, the creatives have been reviewed and privacy indicators are propagated to the bidders.
-*   Provide Google with sufficient information to verify the ad SDK's compliance with all certification requirements, and respond in a timely manner to any subsequent requests for information.
+*   Provide Google with sufficient information, such as information indicated in the [interest form](https://docs.google.com/forms/d/e/1FAIpQLSc8msikGDxjTHHFmIECoitMnpudaCbtrb_hhgzpUOznPhDoBw/viewform?p=adnet&visit_id=637244930778989316-3754351249&rd=1) below, to verify the ad SDK's compliance with all certification requirements, and respond in a timely manner to any subsequent requests for information.
 
 _Note: Ad SDKs must support ad serving that complies with all relevant statutes and regulations concerning children that may apply to their publishers._
 
 Mediation requirements for serving platforms when serving ads to children:
 
 *   only use Play certified ad SDKs or implement safeguards necessary to ensure that all ads served from mediation comply with these requirements; and
-*   pass signals necessary to indicate the ad content rating and any applicable child-directed treatment.
+*   Pass information necessary to mediation platforms to indicate the ad content rating and any applicable child-directed treatment.
 
 Developers can find a [list of self-certified ad SDKs](https://support.google.com/googleplay/android-developer/answer/9283445) here.
 
@@ -941,7 +985,9 @@ We don’t allow apps that directly or indirectly engage in or benefit from prom
 
 It is your responsibility to ensure that any ad networks or affiliates associated with your app comply with these policies and do not employ any prohibited promotion practices.
 
-We don't allow apps with misleading, improperly formatted, non-descriptive, irrelevant, excessive, or inappropriate metadata, including but not limited to the app's description, developer name, title, icon, screenshots, and promotional images. Developers must provide a clear and well-written description. We also don't allow unattributed or anonymous user testimonials in the app's description.
+We don't allow apps with misleading, improperly formatted, non-descriptive, irrelevant, excessive, or inappropriate metadata, including but not limited to the app's description, developer name, title, icon, screenshots, and promotional images. Developers must provide a clear and well-written description of their app. We also don't allow unattributed or anonymous user testimonials in the app's description.
+
+In addition to the requirements noted here, specific Play Developer Policies may require you to provide additional metadata information.
 
 #### Here are some examples of common violations:
 
@@ -954,7 +1000,7 @@ We don't allow apps with misleading, improperly formatted, non-descriptive, irre
 #### Here are some examples of inappropriate text, images, or videos within your listing:
 
 *   Imagery or videos with sexually suggestive content. Avoid suggestive imagery containing breasts, buttocks, genitalia, or other fetishized anatomy or content, whether illustrated or real.
-*   Language inappropriate for a general audience. Avoid profane and vulgar language in your app listing. If it is a critical element of your app, you must censor its presentation within the store listing.
+*   Using profane, vulgar, or other language that is inappropriate for a general audience in your app’s Store listing. 
 *   Graphic violence prominently depicted in app icons, promotional images, or videos.
 *   Depictions of the illicit usage of drugs. Even EDSA (Educational, Documentary, Scientific, or Artistic) content must be suitable for all audiences within the store listing.
 
@@ -990,7 +1036,7 @@ Developers must not attempt to manipulate the placement of any apps in Google Pl
 *   Keep your reply focused on the issues raised in the user's comments and don’t ask for a higher rating.
 *   Include references to helpful resources such as a support address or FAQ page.
 
-Our content rating system includes official ratings from the [International Age Rating Coalition (IARC)](https://www.globalratings.com/) and is designed to help developers communicate locally relevant content ratings to users.
+Content ratings on Google Play are provided by the [International Age Rating Coalition (IARC)](https://www.globalratings.com/) and are designed to help developers communicate locally relevant content ratings to users. Regional IARC authorities maintain guidelines which are used to determine the maturity level of the content in an app. We don’t allow apps without a content rating on Google Play.
 
 ### How content ratings are used
 
