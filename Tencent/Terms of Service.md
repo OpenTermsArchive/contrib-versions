@@ -81,7 +81,7 @@ In addition, as our services and user experience are constantly evolving, we may
 
 You may need to create an account with us in order to access and use some of our services, such as a service-specific account or a QQ Number.
 
-Your use of your QQ Number is subject to the [_QQ Numbers Policy_]( http://zc.qq.com/chs/agreement1_chs.html), in addition to these Terms.
+Your use of your QQ Number is subject to the [_QQ Numbers Policy_](http://zc.qq.com/chs/agreement1_chs.html), in addition to these Terms.
 
 Your account is personal to you and you are prohibited from gifting, lending, transferring or otherwise permitting any other person to access or use your account. Your account name, user ID and other identifiers you adopt within our services remains our property and we can disable, reclaim and reuse these once your account is terminated or deactivated for whatever reason by either you or us.
 
