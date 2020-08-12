@@ -23,7 +23,7 @@ These Controller Terms reflect the parties’ agreement on the processing of cer
 
 “**Controller Data Subject**” means a data subject to whom Controller Personal Data relates.
 
-“**Controller MCCs**” means the terms at privacy.google.com/businesses/controllerterms/mccs, which are standard data protection clauses for the transfer of personal data to controllers established in third countries which do not ensure an adequate level of data protection, as described in Article 46 of the EU GDPR.
+“**Controller MCCs**” means the terms at [privacy.google.com/businesses/controllerterms/mccs](https://privacy.google.com/businesses/controllerterms/mccs/), which are standard data protection clauses for the transfer of personal data to controllers established in third countries which do not ensure an adequate level of data protection, as described in Article 46 of the EU GDPR.
 
 “**Controller Personal Data**” means any personal data that is processed by a party under the Agreement in connection with its provision or use (as applicable) of the Controller Services.
 
