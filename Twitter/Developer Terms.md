@@ -49,7 +49,7 @@ A. Definitions
 4.  Use and display Twitter Marks, solely to attribute Twitter’s offerings as the source of the Twitter Content, as set forth herein.
     
 
-**C. License to Twitter** You hereby grant Twitter and Twitter accepts a non-exclusive, royalty free, non-transferable, non-sublicensable revocable license to access, index, and cache by any means, including web spiders and/or crawlers, any webpage or applications on which you display Twitter Content using [embedded Tweets](/en/docs/twitter-for-websites/embedded-tweets/overview) or [embedded timelines](/en/docs/twitter-for-websites/timelines/overview).
+**C. License to Twitter** You hereby grant Twitter and Twitter accepts a non-exclusive, royalty free, non-transferable, non-sublicensable revocable license to access, index, and cache by any means, including web spiders and/or crawlers, any webpage or applications on which you display Twitter Content using [embedded Tweets](https://developer.twitter.com/en/docs/twitter-for-websites/embedded-tweets/overview) or [embedded timelines](https://developer.twitter.com/en/docs/twitter-for-websites/timelines/overview).
 
 **D. Incorporated Terms.** Your use of the Licensed Material is further subject to and governed by the following terms and conditions:
 
