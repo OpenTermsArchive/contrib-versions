@@ -1,4 +1,4 @@
-_Effective January 6, 2020_
+_Effective August 11, 2020_
 
 Our Privacy Policy has been updated.
 
@@ -77,7 +77,7 @@ Others may post or write about you.
 
 Content and News
 
-You and others may post content that includes information about you (as part of articles, posts, comments, videos) on our Services. Unless you opt-out, we collect public information about you, such as professional-related news and accomplishments (e.g., patents granted, professional recognition, conference speakers, projects, etc.) and make it available as part of our Services (e.g. suggestions for your profile, or notifications to others of mentions in the news).
+You and others may post content that includes information about you (as part of articles, posts, comments, videos) on our Services. We also may collect public information about you, such as professional-related news and accomplishments, and make it available as part of our Services, including, as permitted by your settings, in notifications to others of mentions in the news).
 
 Others may sync their contacts or calendar with our Services.
 
@@ -325,7 +325,7 @@ We generally retain your personal data as long as you keep your account open or 
 
 You can access or delete your personal data. You have many choices about how your data is collected, used and shared.
 
-We provide many choices about the collection, use and sharing of your data, from deleting or correcting data you include in your profile and controlling the visibility of your posts to advertising opt-outs and communication controls. We offer you settings to control and manage the personal data we have about you (for SlideShare, please contact us).
+We provide many choices about the collection, use and sharing of your data, from deleting or correcting data you include in your profile and controlling the visibility of your posts to advertising opt-outs and communication controls. We offer you settings to control and manage the personal data we have about you.
 
 For personal data that we have about you, you can:
 
@@ -342,7 +342,7 @@ Residents in the Designated Countries and other regions may have additional righ
 
 We keep some of your data even after you close your account.
 
-If you choose to close your Linkedin (or SlideShare) account, your personal data will generally stop being visible to others on our Services within 24 hours. We generally delete closed account information within 30 days of account closure, except as noted below.
+If you choose to close your Linkedin account, your personal data will generally stop being visible to others on our Services within 24 hours. We generally delete closed account information within 30 days of account closure, except as noted below.
 
 We retain your personal data even after you have closed your account if reasonably necessary to comply with our legal obligations (including law enforcement requests), meet regulatory requirements, resolve disputes, maintain security, prevent fraud and abuse (e.g., if we have restricted your account for breach of our Professional Community Policies), enforce our User Agreement, or fulfill your request to "unsubscribe" from further messages from us. We will retain de-personalized information after your account has been closed.
 
