@@ -1,6 +1,6 @@
 General information
 
-*   Last updated: 28 May 2020
+*   Last updated: 24 July 2020
 *   Here we inform you about data processing in connection with the entire service XING and its applications (kununu etc.).
 *   New Work SE is the body responsible for the processing of personal data.
 *   Our Data Protection Officer is Anja Engler.
@@ -198,7 +198,7 @@ If you delete the e-mail address(es), it/they will be removed from the respectiv
 
 Legal basis
 
-The legal basis for this processing of personal data is Article 6 (1) f) (newsletters) of the EU General Data Protection Regulation (GDPR).
+The legal basis for this processing of personal data are Article 6 (1) f) (newsletters) and Article 6 (1) b) of the EU General Data Protection Regulation (GDPR).
 
 Your contacts in the social network
 
@@ -322,7 +322,7 @@ We save this data until your user account is deleted, unless you have provided c
 
 Legal basis
 
-The legal basis for this processing of personal data is Article 6 (1) a) (separate consent) and b) of the EU General Data Protection Regulation (GDPR).
+The legal basis for this processing of personal data are Article 6 (1) a) (separate consent) and Article 6 (1) b) of the EU General Data Protection Regulation (GDPR).
 
 Data when taking part in prize draws
 
@@ -347,7 +347,7 @@ We only save copies of identification documents you provide us with for verifica
 
 Legal basis
 
-The legal basis for this processing of personal data is Article 6 (1) a) (separate consent) of the EU General Data Protection Regulation (GDPR), Article 6 (1) b) (processing necessary for the performance of a contract) of the EU General Data Protection Regulation (GDPR), Article 6 (1) f) (processing based on the weighing of interests) of the EU General Data Protection Regulation (GDPR), and Article 6 (1)cf) (processing necessary for compliance with a legal obligation) of the EU General Data Protection Regulation (GDPR).
+The legal basis for this processing of personal data are Article 6 (1) a) (separate consent) of the EU General Data Protection Regulation (GDPR), Article 6 (1) b) (processing necessary for the performance of a contract) of the EU General Data Protection Regulation (GDPR), Article 6 (1) f) (processing based on the weighing of interests) of the EU General Data Protection Regulation (GDPR), and Article 6 (1) c) (processing necessary for compliance with a legal obligation) of the EU General Data Protection Regulation (GDPR).
 
 3\. Information automatically collected through your use of XING
 
@@ -679,8 +679,7 @@ Third countries
 Data may be transferred to third countries. This however shall always take place in compliance with the admissibility requirements as regulated by law.  
 In particular, we make certain data available to other users or third parties worldwide to fulfill our contractual obligations. This does not require either an adequacy decision pursuant to Article 45 of the EU GDPR or appropriate safeguards pursuant to Article 46 of the EU GDPR.  
 In cases where the transfer of data to a third country does not serve the fulfilment of our contractual obligations, we have not received consent from you, the transfer is not necessary for the establishment, exercise or defence of legal claims, and no other exemption clause applies, we shall only transfer your data to a third country when an adequacy decision pursuant to Article 45 of the EU GDPR or appropriate safeguards pursuant to Article 46 of the EU GDPR are in place.  
-One of these adequacy decisions is the so-called "Privacy Shield" for the USA. For transfers to companies certified in accordance with the Privacy Shield, the level of data protection is deemed in principle as adequate, pursuant to Article 45 of the EU GDPR.  
-Generally speaking we do not rely on the Privacy Shield alone however. Instead we provide for appropriate safeguards by closing standard data protection clauses as decreed by the European Commission with the recipient body pursuant to Article 46 of the EU GDPR, as well as an adequate level of data protection.  
+In general, we provide for appropriate safeguards by closing standard data protection clauses as decreed by the European Commission with the recipient body pursuant to Article 46 of the EU GDPR, as well as an adequate level of data protection.  
 You can obtain copies of the EU standard data protection clauses on the Website of the European Commission.
 
 Other categories of recipients
