@@ -16,7 +16,9 @@ People from all over the world use Google Play to access apps and games every da
 Child Endangerment
 ------------------
 
-Apps that include content that sexualizes minors are subject to immediate removal from the Store. Apps that appeal to children but contain adult themes are not allowed.
+Apps that include content that sexualizes minors are subject to immediate removal from the Store, including but not limited to, apps that promote pedophilia or inappropriate interaction targeted at a minor (e.g. groping or caressing). 
+
+In addition, apps that appeal to children but contain adult themes are not allowed, including but not limited to, apps with excessive violence, blood, and gore; apps that depict or encourage harmful and dangerous activities. We also don’t allow apps that promote negative body or self image including apps that depict for entertainment purposes plastic surgery, weight loss, and other cosmetic adjustments to a person's physical appearance.
 
 If we become aware of content with child sexual abuse imagery, we will report it to the appropriate authorities and delete the Google Accounts of those involved with the distribution.
 
@@ -25,32 +27,37 @@ Inappropriate Content
 
 To ensure that Google Play remains a safe and respectful platform, we've created standards defining and prohibiting content that is harmful or inappropriate for our users.
 
-### Sexual Content
+### Sexual Content and Profanity
 
-We don't allow apps that contain or promote sexual content, such as pornography, or any content or services intended to be sexually gratifying. Content that contains nudity may be allowed if the primary purpose is educational, documentary, scientific or artistic, and is not gratuitous.
+We don't allow apps that contain or promote sexual content or profanity, including pornography, or any content or services intended to be sexually gratifying. Content that contains nudity may be allowed if the primary purpose is educational, documentary, scientific or artistic, and is not gratuitous.
 
 #### Here are some examples of common violations:
 
-*   Depictions of nudity in which the subject is nude or minimally clothed, and where the clothing would not be acceptable in an appropriate public context.
-*   Depictions, animations or illustrations of sex acts or sexually suggestive poses.
-*   Content that depicts sexual aids and fetishes.
-*   Content that is lewd or profane.
+*   Depictions of sexual nudity, or sexually suggestive poses in which the subject is nude, blurred or minimally clothed, and/or where the clothing would not be acceptable in an appropriate public context.
+*   Depictions, animations or illustrations of sex acts, or sexually suggestive poses or the sexual depiction of body parts.
+*   Content that depicts or are functionally sexual aids, sex guides, illegal sexual themes and fetishes.
+*   Content that is lewd or profane - including but not limited to content which may contain profanity, slurs, explicit text, adult/sexual keywords in the store listing or in-app.
 *   Content that depicts, describes, or encourages bestiality.
-*   Apps that promote sex-related entertainment, escort services or other services that may be interpreted as providing sexual acts in exchange for compensation.
+*   Apps that promote sex-related entertainment, escort services, or other services that may be interpreted as providing sexual acts in exchange for compensation.
+*   Apps that degrade or objectify people. 
 
 ### Hate Speech
 
 We don't allow apps that promote violence, or incite hatred against individuals or groups based on race or ethnic origin, religion, disability, age, nationality, veteran status, sexual orientation, gender, gender identity, or any other characteristic that is associated with systemic discrimination or marginalization.
 
+Apps which contain EDSA (Educational, Documentary, Scientific, or Artistic) content related to Nazis may be blocked in certain countries, in accordance with local laws and regulations.
+
 #### Here are examples of common violations:
 
-*   Compilations of assertions intended to prove that a protected group is inhuman, inferior or worthy of being hated.
-*   Apps that contain theories about a protected group possessing negative characteristics (e.g. malicious, corrupt, evil, etc.), or explicitly or implicitly claims the group is a threat.
+*   Content or speech asserting that a protected group is inhuman, inferior or worthy of being hated.
+*   Apps that contain hateful slurs, stereotypes, or theories about a protected group possessing negative characteristics (e.g. malicious, corrupt, evil, etc.), or explicitly or implicitly claims the group is a threat.
 *   Content or speech trying to encourage others to believe that people should be hated or discriminated against because they are a member of a protected group.
+*   Content which promotes hate symbols such as flags, symbols, insignias, paraphernalia or behaviors associated with hate groups.
 
 ### Violence
 
-We don't allow apps that depict or facilitate gratuitous violence or other dangerous activities.
+We don't allow apps that depict or facilitate gratuitous violence or other dangerous activities. Apps that depict fictional violence in the context of a game, such as cartoons, hunting or fishing, are generally allowed.   
+ 
 
 #### Here are some examples of common violations:
 
@@ -65,7 +72,8 @@ We don't allow apps with content related to terrorism, such as content that prom
 
 ### Sensitive Events
 
-We don't allow apps that lack reasonable sensitivity towards or capitalize on a natural disaster, atrocity, conflict, death, or other tragic event.
+We don't allow apps that lack reasonable sensitivity towards or capitalize on a natural disaster, atrocity, conflict, death, or other tragic event. Apps with content related to a sensitive event are generally allowed if that content has EDSA (Educational, Documentary, Scientific, or Artistic) value or intends to alert users to or raise awareness for the sensitive event.   
+ 
 
 #### Here are examples of common violations:
 
@@ -100,11 +108,11 @@ We don't allow apps that facilitate the sale of marijuana or marijuana products,
 
 *   Allowing users to order marijuana through an in-app shopping cart feature.
 *   Assisting users in arranging delivery or pick up of marijuana.
-*   Facilitating the sale of products containing THC.
+*   Facilitating the sale of products containing THC(Tetrahydrocannabinol), including products such as CBD oils containing THC.
 
 ### Tobacco and Alcohol
 
-We don't allow apps that facilitate the sale of tobacco (including e-cigarettes) or encourage the irresponsible use of alcohol or tobacco.
+We don't allow apps that facilitate the sale of tobacco (including e-cigarettes and vape pens) or encourage the illegal or inappropriate use of alcohol or tobacco.
 
 #### Here are examples of common violations:
 
@@ -128,18 +136,19 @@ We don't allow apps that mine cryptocurrency on devices. We permit apps that rem
 
 ### Personal loans
 
-We define personal loans as lending money from one individual, organization, or entity to an individual consumer on a nonrecurring basis, not for the purpose of financing purchase of a fixed asset or education. Personal loan consumers require information about the quality, features, fees, risks, and benefits of loan products in order to make informed decisions about whether to undertake the loan.
+We define personal loans as lending money from one individual, organization, or entity to an individual consumer on a nonrecurring basis, not for the purpose of financing purchase of a fixed asset or education. Personal loan consumers require information about the quality, features, fees, repayment schedule, risks, and benefits of loan products in order to make informed decisions about whether to undertake the loan.
 
 *   Examples: Personal loans, payday loans, peer-to-peer loans, title loans
 *   Not included: Mortgages, car loans, student loans, revolving lines of credit (such as credit cards, personal lines of credit)
 
-Apps for personal loans must disclose the following information in the app metadata:
+Apps that provide personal loans, including but not limited to apps which offer loans directly, lead generators, and those who connect consumers with third-party lenders, must disclose the following information in the app metadata:
 
 *   Minimum and maximum period for repayment
 *   Maximum Annual Percentage Rate (APR), which generally includes interest rate plus fees and other costs for a year, or similar other rate calculated consistently with local law
 *   A representative example of the total cost of the loan, including all applicable fees
+*   A privacy policy that comprehensively discloses the access, collection, use and sharing of personal and sensitive user data.
 
-We do not allow apps that promote personal loans which require repayment in full in 60 days or less from the date the loan is issued (we refer to these as "short-term personal loans"). This policy applies to apps which offer loans directly, lead generators, and those who connect consumers with third-party lenders.
+We do not allow apps that promote personal loans which require repayment in full in 60 days or less from the date the loan is issued (we refer to these as "short-term personal loans"). 
 
 #### **High APR personal loans**
 
@@ -150,16 +159,18 @@ This policy applies to apps which offer loans directly, lead generators, and tho
 Gambling
 --------
 
-We allow content, services, and ads that facilitate online gambling, as long as they meet certain requirements. We also allow daily fantasy sports apps that meet certain requirements.
+We allow real-money gambling apps, ads related to real-money gambling, and daily fantasy sports apps that meet certain requirements.
 
 ### Gambling Apps
 
 **(Currently permitted in the UK, Ireland, and France only)**
 
+For all other locations, we don’t allow apps containing content or services that facilitate online gambling.
+
 We allow content and services that facilitate online gambling, as long as they meet the following requirements:
 
 *   Developer must successfully [complete the application process](https://support.google.com/googleplay/android-developer/contact/gambling) in order to distribute the app on Play;
-*   App must comply with all applicable laws and industry standards for any country in which it is distributed;
+*   App must comply with all applicable laws and industry standards for each country in which it is distributed;
 *   Developer must have a valid gambling license for each country in which the app is distributed;
 *   App must prevent under-age users from gambling in the app;
 *   App must prevent use from countries not covered by the developer-provided gambling license;
@@ -170,37 +181,50 @@ We allow content and services that facilitate online gambling, as long as they m
 
 For all other locations, we don't allow content or services that facilitate online gambling, including, but not limited to, online casinos, sports betting and lotteries, and games of skill that offer prizes of cash or other real world value.
 
-### Gambling Ads within Play-distributed Apps
+### Ads for Gambling or Real-Money Games, Contests, and Tournaments within Play-distributed Apps
 
-We allow ads that facilitate online gambling, as long as they meet the following requirements:
+We allow apps that advertise gambling, or real-money games, contests, and tournaments if they meet the following requirements:
 
-*   App and ad (including gambling advertisers) must comply with all applicable laws and industry standards for any location where the gambling ad is displayed;
+*   App and ad (including advertisers) must comply with all applicable laws and industry standards for any location where the ad is displayed;
 *   Ad must meet local licensing requirements for all gambling-related products and services being promoted;
 *   App must not display a gambling ad to individuals known to be under the age of 18;
 *   App must not be enrolled in the Designed for Families program;
 *   App must not target individuals under the age of 18;
-*   Ad must clearly display information about responsible gambling on the landing page, the advertised app listing itself or within the app; and
-*   App that is advertising a gambling ad must not be a simulated gambling app (an entertainment game without real money gambling).
+*   If advertising a Gambling App (as defined above), ad must clearly display information about responsible gambling on its landing page, the advertised app listing itself or within the app;
+*   App must not provide simulated gambling content (e.g. social casino apps; apps with virtual slot machines);
+*   App must not provide gambling or real money game, lottery, or tournament support functionality (e.g. functionality that assists with wagering, payouts, sports score/odds tracking, or management of participation funds);
+*   You must not have an ownership interest in gambling or real money games, lotteries, or tournament services advertised within the app;
+*   App content must not promote or direct users to gambling or real money games, lotteries, or tournament services
+
+Only Gambling apps (as defined above) or apps that meet all of these requirements may include ads for gambling or real money games, lotteries, or tournaments.  
 
 #### Here are some examples of common violations:
 
-*   ‘KIDS 123’ app having an ad promoting gambling services
+*   An app that’s designed for under-age users and shows an ad promoting gambling services
+*   A simulated casino game that promotes or directs users to real money casinos
+*   A dedicated sports odds tracker app containing integrated gambling ads linking to a sports betting site
+*   A news app that shows ads for a gambling service owned or operated by the app’s developer
+*   Apps that have gambling ads that violate our [Deceptive Ads](https://support.google.com/googleplay/android-developer/answer/9857753#deceptive) policy, such as ads that appear to users as buttons, icons, or other interactive in-app elements
 
 ### Daily Fantasy Sports (DFS) Apps
 
-We allow daily fantasy sports (DFS) apps, as long as they meet following requirements:
+We only allow daily fantasy sports (DFS) apps, as defined by applicable local law, if they meet the following requirements:
 
-*   App must only allow access and be distributed in the United States; DFS apps targeting jurisdictions outside the US must establish eligibility through the Real Money Gambling Apps process;
+*   App is either 1) only distributed in the United States or 2) eligible under the Gambling Apps requirements noted above;
 *   Developer must successfully complete [the DFS application](https://support.google.com/googleplay/android-developer/contact/dfsform) process and be accepted in order to distribute the app on Play;
-*   App must comply with all applicable laws and industry standards for any US state or US territory in which it is distributed;
-*   Developer must have a valid license for each US state or US territory in which a license is required for daily fantasy sports apps;
+*   App must comply with all applicable laws and industry standards for the countries in which it is distributed;
 *   App must prevent under-age users from wagering or conducting monetary transactions within the app;
-*   App must prevent use from US States or US territories in which the developer does not hold a license required for daily fantasy sports apps;
-*   App must prevent use from US States or US territories where daily fantasy sports apps are not legal;
 *   App must NOT be purchasable as a paid app on Google Play, nor use Google Play In-app Billing;
 *   App must be free to download and install from the Store;
 *   App must be rated AO (Adult Only) or IARC equivalent; and
 *   App and its app listing must clearly display information about responsible gambling.
+
+If distributed in the US, the following additional requirements apply;
+
+*   App must comply with all applicable laws and industry standards for any US state or US territory in which it is distributed;
+*   Developer must have a valid license for each US state or US territory in which a license is required for daily fantasy sports apps;
+*   App must prevent use from US States or US territories in which the developer does not hold a license required for daily fantasy sports apps; and
+*   App must prevent use from US States or US territories where daily fantasy sports apps are not legal.
 
 We don’t allow apps that facilitate or promote illegal activities.
 
@@ -213,15 +237,16 @@ We don’t allow apps that facilitate or promote illegal activities.
 User Generated Content
 ----------------------
 
-User-generated content (UGC) is content that users contribute to an app, and which is visible to or accessible by at least a subset of the app's users. Objectionable content is content that violates our policies.
+User-generated content (UGC) is content that users contribute to an app, and which is visible to or accessible by at least a subset of the app's users.
 
 Apps that contain or feature UGC must:
 
 *   require that users accept the app's terms of use and/or user policy before users can create or upload UGC;
-*   define, in a manner consistent with the spirit of Google Play's Developer Program Policies, UGC that is objectionable, and prohibit that UGC via the app’s terms of use and/or user policy;
-*   implement robust, effective and ongoing UGC moderation, as is reasonable and consistent with the type(s) of UGC hosted by the app;
-*   provide a user-friendly, in-app system for reporting and removal of objectionable UGC;
-    *   In the case of live-streaming apps, problematic UGC must be removed in as close to real-time as reasonably possible; and
+*   define objectionable content and behaviors (in a way that complies with Play’s Developer Program Policies), and prohibit them in the app’s terms of use or user policies;
+*   implement robust, effective and ongoing UGC moderation, as is reasonable and consistent with the type of UGC hosted by the app
+    *   In the case of live-streaming apps, objectionable UGC must be removed as close to real-time as reasonably possible;
+    *   In the case of augmented reality (AR) apps, UGC moderation (including the in-app reporting system) must account for both objectionable AR UGC (e.g. a sexually explicit AR image) and sensitive AR anchoring location (e.g. AR content anchored to a restricted area, such as a military base, or a private property where AR anchoring may cause issues for the property owner);
+*   provide a user-friendly, in-app system for reporting objectionable UGC and take action against that UGC where appropriate;
 *   remove or block abusive users who violate the app's terms of use and/or user policy;
 *   provide safeguards to prevent in-app monetization from encouraging objectionable user behavior.
 
@@ -229,7 +254,7 @@ Apps whose primary purpose is featuring objectionable UGC will be removed from G
 
 #### Here are some examples of common violations:
 
-*   Promoting sexually explicit user-generated content, including implementing paid features that principally encourage the sharing of objectionable content.
+*   Promoting sexually explicit user-generated content, including implementing or permitting paid features that principally encourage the sharing of objectionable content.
 *   Apps with user generated content (UGC) that lack sufficient safeguards against threats, harassment, or bullying, particularly toward minors.
 *   Posts, comments, or photos within an app that are primarily intended to harass or single out another person for abuse, malicious attack, or ridicule.
 *   Apps that continually fail to address user complaints about objectionable content.
@@ -341,7 +366,7 @@ Personal and sensitive user data includes, but isn't limited to, personally iden
 
 ### Prominent Disclosure & Consent Requirement
 
-In cases where users may not reasonably expect -- as determined by Play in its sole discretion -- that their personal or sensitive user data will be required to provide or improve the policy compliant features or functionality within your app, you must meet the following requirements:
+In cases where users may not reasonably expect that their personal or sensitive user data will be required to provide or improve the policy compliant features or functionality within your app (e.g., data collection occurs in the background of your app), you must meet the following requirements:
 
 **You must provide an in-app disclosure of your data access, collection, use, and sharing. The in-app disclosure:**
 
@@ -357,14 +382,15 @@ In cases where users may not reasonably expect -- as determined by Play in its s
 *   Must present the consent dialog clearly and unambiguously;
 *   Must require affirmative user action (e.g. tap to accept, tick a check-box);
 *   **Must not** interpret navigation away from the disclosure (including tapping away or pressing the back or home button) as consent; and
-*   **Must not** utilize auto-dismissing or expiring messages.
+*   **Must not** use auto-dismissing or expiring messages as a means of obtaining user consent.
 
 #### Here are some examples of common violations:
 
-*   An app that accesses a user's inventory of installed apps and doesn't treat this data as personal or sensitive data subject to the Privacy Policy, Secure Transmission, and Prominent Disclosure requirements.
-*   An app that accesses a user's phone or contact book data and doesn't treat this data as personal or sensitive data subject to the Privacy Policy, Secure Transmission, and Prominent Disclosure requirements.
+*   An app that accesses a user's inventory of installed apps and doesn't treat this data as personal or sensitive data subject to the above Privacy Policy, data handling, and Prominent Disclosure and Consent requirements.
+*   An app that accesses a user's phone or contact book data and doesn't treat this data as personal or sensitive data subject to the above Privacy Policy, data handling, and Prominent Disclosure and Consent requirements.
 *   An app that records a user’s screen and doesn't treat this data as personal or sensitive data subject to this policy.
-*   An app that collects [device location](https://developer.android.com/training/location) and does not comprehensively disclose its use in accordance with the above requirements
+*   An app that collects [device location](https://developer.android.com/training/location) and does not comprehensively disclose its use and obtain consent in accordance with the above requirements
+*   An app that collects restricted permissions in the background of the app including for tracking, research, or marketing purposes and does not comprehensively disclose its use and obtain consent in accordance with the above requirements. 
 
 **Restrictions for Sensitive Data Access**
 
@@ -394,7 +420,7 @@ Request permissions to access data in context (via incremental auth), so that us
 
 ### Restricted Permissions
 
-In addition to the above, restricted permissions are permissions that are designated as [Signature](https://developer.android.com/guide/topics/permissions/overview#signature_permissions) or [Dangerous](https://developer.android.com/guide/topics/permissions/overview#dangerous_permissions) in our developer documentation, and are subject to the following additional requirements and restrictions:
+In addition to the above, restricted permissions are permissions that are designated as [Dangerous](https://developer.android.com/guide/topics/permissions/overview#dangerous_permissions), [Special](https://developer.android.com/guide/topics/permissions/overview#special_permissions), or [Signature](https://developer.android.com/guide/topics/permissions/overview#signature_permissions), and are subject to the following additional requirements and restrictions:
 
 *   Sensitive user or device data accessed through Restricted Permissions may only be transferred to third parties if necessary to provide or improve current features or services in the app from which the data was collected. You may also transfer data as necessary to comply with applicable law or as part of a merger, acquisition, or sale of assets with legally adequate notice to users. All other transfers or sales of the user data are prohibited.
 *   Respect users’ decisions if they decline a request for a Restricted Permission, and users may not be manipulated or forced into consenting to any non-critical permission. You must make a reasonable effort to accommodate users who do not grant access to sensitive permissions (e.g., allowing a user to manually enter a phone number if they’ve restricted access to Call Logs).
