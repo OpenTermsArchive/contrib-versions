@@ -47,11 +47,11 @@ These Data Processing Terms reflect the parties’ agreement on the terms govern
 
 “**ISO 27001 Certification**” means ISO/IEC 27001:2013 certification or a comparable certification for the Processor Services.
 
+“**Model Contract Clauses**” means the terms at [https://privacy.google.com/businesses/processorterms/mccs](https://privacy.google.com/businesses/processorterms/mccs), which are standard data protection clauses for the transfer of personal data to processors established in third countries which do not ensure an adequate level of data protection, as described in Article 46 of the EU GDPR.
+
 “**Non-European Data Protection Legislation**” means data protection or privacy laws in force outside the EEA, Switzerland and the UK.
 
 “**Notification Email Address**” means the email address (if any) designated by Customer, via the user interface of the Processor Services or such other means provided by Google, to receive certain notifications from Google relating to these Data Processing Terms.
-
-“**Privacy Shield**” means the EU-U.S. Privacy Shield legal framework, the Swiss-U.S. Privacy Shield legal framework, and any equivalent legal framework that may apply between the UK and the United States.
 
 “**Processor Services**” means the applicable services listed at [privacy.google.com/businesses/adsservices](https://privacy.google.com/businesses/adsservices/).
 
@@ -75,7 +75,7 @@ These Data Processing Terms reflect the parties’ agreement on the terms govern
 
 “**UK GDPR**” means the EU GDPR as amended and incorporated into UK law under the UK European Union (Withdrawal) Act 2018, if in force.
 
-2.2 The terms “**controller**”, “**data subject**”, “**personal data**”, “**processing**” and “**processor**” as used in these Data Processing Terms have the meanings given in the GDPR.
+2.2 The terms “**controller**”, “**data subject**”, “**personal data**”, “**processing**” and “**processor**” as used in these Data Processing Terms have the meanings given in the GDPR, and the terms “**data importer**” and “**data exporter**” have the meanings given in the Model Contract Clauses.
 
 2.3 The words “**include**” and “**including**” mean “including but not limited to”. Any examples in these Data Processing Terms are illustrative and not the sole examples of a particular concept.
 
@@ -182,7 +182,7 @@ Google may charge a fee (based on Google’s reasonable costs) for any data dele
 
 7.3.1 **Customer’s Security Responsibilities**. Customer agrees that, without prejudice to Google’s obligations under Sections 7.1 (Google’s Security Measures and Assistance) and 7.2 (Data Incidents):
 
-(a) Customer is solely responsible for its use of the Processor Services, including:
+(a) Customer is responsible for its use of the Processor Services, including:
 
 (i) making appropriate use of the Processor Services to ensure a level of security appropriate to the risk in respect of Customer Personal Data; and
 
@@ -202,17 +202,19 @@ Google may charge a fee (based on Google’s reasonable costs) for any data dele
 
 (a) Google will allow Customer or a third party auditor appointed by Customer to conduct audits (including inspections) to verify Google’s compliance with its obligations under these Data Processing Terms in accordance with Section 7.5.3 (Additional Business Terms for Audits). Google will contribute to such audits as described in Section 7.4 (Security Certification) and this Section 7.5 (Reviews and Audits of Compliance).
 
-(b) Customer may also conduct an audit to verify Google’s compliance with its obligations under these Data Processing Terms by reviewing the certificate issued for the ISO 27001 Certification (which reflects the outcome of an audit conducted by a third party auditor).
+(b)If the Model Contract Clauses apply under Section 10.2 (Transfers of Data), Google will allow Customer or a third-party auditor appointed by Customer to conduct audits as described in the Model Contract Clauses in accordance with section 7.5.3 (Additional Business Terms for Audits).
+
+(c) Customer may also conduct an audit to verify Google’s compliance with its obligations under these Data Processing Terms by reviewing the certificate issued for the ISO 27001 Certification (which reflects the outcome of an audit conducted by a third party auditor).
 
 7.5.3 **Additional Business Terms for Audits**.
 
-(a) Customer will send any request for an audit under Section 7.5.2(a) to Google as described in Section 12.1 (Contacting Google).
+(a) Customer will send any request for an audit under Section 7.5.2(a) or 7.5.2(b) to Google as described in Section 12.1 (Contacting Google).
 
-(b) Following receipt by Google of a request under Section 7.5.3(a), Google and Customer will discuss and agree in advance on the reasonable start date, scope and duration of, and security and confidentiality controls applicable to, any audit under Section 7.5.2(a).
+(b) Following receipt by Google of a request under Section 7.5.3(a), Google and Customer will discuss and agree in advance on the reasonable start date, scope and duration of, and security and confidentiality controls applicable to, any audit under Section 7.5.2(a) or 7.5.2(b).
 
-(c) Google may charge a fee (based on Google’s reasonable costs) for any audit under Section 7.5.2(a). Google will provide Customer with further details of any applicable fee, and the basis of its calculation, in advance of any such audit. Customer will be responsible for any fees charged by any third party auditor appointed by Customer to execute any such audit.
+(c) Google may charge a fee (based on Google’s reasonable costs) for any audit under Section 7.5.2(a) or 7.5.2(b). Google will provide Customer with further details of any applicable fee, and the basis of its calculation, in advance of any such audit. Customer will be responsible for any fees charged by any third party auditor appointed by Customer to execute any such audit.
 
-(d) Google may object to any third party auditor appointed by Customer to conduct any audit under Section 7.5.2(a) if the auditor is, in Google’s reasonable opinion, not suitably qualified or independent, a competitor of Google or otherwise manifestly unsuitable. Any such objection by Google will require Customer to appoint another auditor or conduct the audit itself.
+(d) Google may object to any third party auditor appointed by Customer to conduct any audit under Section 7.5.2(a) or 7.5.2(b) if the auditor is, in Google’s reasonable opinion, not suitably qualified or independent, a competitor of Google or otherwise manifestly unsuitable. Any such objection by Google will require Customer to appoint another auditor or conduct the audit itself.
 
 (e) Nothing in these Data Processing Terms will require Google either to disclose to Customer or its third party auditor, or to allow Customer or its third party auditor to access:
 
@@ -225,6 +227,8 @@ Google may charge a fee (based on Google’s reasonable costs) for any data dele
 (iv) any information that, in Google's reasonable opinion, could: (A) compromise the security of any Google Entity’s systems or premises; or (B) cause any Google Entity to breach its obligations under the European Data Protection Legislation or its security and/or privacy obligations to Customer or any third party; or
 
 (v) any information that Customer or its third party auditor seeks to access for any reason other than the good faith fulfilment of Customer’s obligations under the European Data Protection Legislation.
+
+7.5.4No Modification of Model Contract Clauses. If the Model Contract Clauses apply under Section 10.2 (Transfers of Data), nothing in this Section 7.5 (Reviews and Audits of Compliance) varies or modifies any rights or obligations of Customer or Google LLC under the Model Contract Clauses.
 
 8. **Impact Assessments and Consultations**
 -------------------------------------------
@@ -257,20 +261,22 @@ Customer agrees that Google will (taking into account the nature of the processi
 10. **Data Transfers**
 ----------------------
 
-10.1 **Data Storage and Processing Facilities**. Customer agrees that Google may, subject to Section 10.2 (Transfers of Data), store and process Customer Personal Data in the United States of America and any other country in which Google or any of its Subprocessors maintains facilities.
+10.1 **Data Storage and Processing Facilities**. Customer agrees that Google may, subject to Section 10.2 (Transfers of Data), store and process Customer Personal Data in any country in which Google or any of its Subprocessors maintains facilities.
 
-10.2 **Transfers of Data**. Google will ensure that:
+10.2 **Transfers of Data**. If the storage and/or processing of Customer Personal Data. involves transfers of Customer Personal Data from the EEA, Switzerland or the UK to any third country that is not subject to an adequacy decision under the European Data Protection Legislation:
 
-(a) the parent company of the Google group, Google LLC, remains self-certified under Privacy Shield; and
+(a)Customer (as data exporter) will be deemed to have entered into the Model Contract Clauses with Google LLC (as data importer);
 
-(b) the scope of Google LLC’s Privacy Shield certification includes Customer Personal Data.
+(b) the transfers will be subject to the Model Contract Clauses; and
 
-10.3 **Data Centre Information**. Information about the locations of Google data centres is available at [www.google.com/about/datacenters/inside/locations/index.html](https://www.google.com/about/datacenters/inside/locations/index.html).
+(c) Google will ensure that Google LLC complies with its obligations under such Model Contract Clauses in respect of such transfers.
+
+10.3 **Data Centre Information**. Information about the locations of Google data centres is available at [www.google.com/about/datacenters/locations/](https://www.google.com/about/datacenters/locations/).
 
 11. **Subprocessors**
 ---------------------
 
-11.1 **Consent to Subprocessor Engagement**. Customer specifically authorises the engagement of Google’s Affiliates as Subprocessors (“**Google Affiliate Subprocessors**”). In addition, Customer generally authorises the engagement of any other third parties as Subprocessors (“**Third Party Subprocessors**”).
+11.1 **Consent to Subprocessor Engagement**. Customer specifically authorises the engagement of Google’s Affiliates as Subprocessors (“**Google Affiliate Subprocessors**”). In addition, Customer generally authorises the engagement of any other third parties as Subprocessors (“**Third Party Subprocessors**”). If the Model Contract Clauses apply under Section 10.2 (Transfers of Data), the above authorisations constitute Customer’s prior written consent to the subcontracting by Google LLC of the processing of Customer Personal Data.
 
 11.2 **Information about Subprocessors**. Information about Subprocessors is available at [privacy.google.com/businesses/subprocessors](https://privacy.google.com/businesses/subprocessors/).
 
@@ -278,7 +284,7 @@ Customer agrees that Google will (taking into account the nature of the processi
 
 (a) ensure via a written contract that:
 
-(i) the Subprocessor only accesses and uses Customer Personal Data to the extent required to perform the obligations subcontracted to it, and does so in accordance with the Agreement (including these Data Processing Terms) and Privacy Shield; and
+(i) the Subprocessor only accesses and uses Customer Personal Data to the extent required to perform the obligations subcontracted to it, and does so in accordance with the Agreement (including these Data Processing Terms) and, if applicable under Section 10.2 (Transfers of Data), the Model Contract Clauses; and
 
 (ii) if the GDPR applies to the processing of Customer Personal Data, the data protection obligations set out in Article 28(3) of the GDPR are imposed on the Subprocessor; and
 
@@ -293,38 +299,59 @@ Customer agrees that Google will (taking into account the nature of the processi
 12. **Contacting Google; Processing Records**
 ---------------------------------------------
 
-12.1 **Contacting Google**. Customer may contact Google in relation to the exercise of its rights under these Data Processing Terms via the methods described at [privacy.google.com/businesses/processorsupport](https://privacy.google.com/businesses/processorsupport/) or via such other means as may be provided by Google from time to time.
+12.1 **Contacting Google**. Customer may contact Google in relation to the exercise of its rights under these Data Processing Terms via the methods described at [privacy.google.com/businesses/processorsupport](https://support.google.com/policies/troubleshooter/9009584) or via such other means as may be provided by Google from time to time.
 
 12.2 **Google’s Processing Records**. Customer acknowledges that Google is required under the GDPR to: (a) collect and maintain records of certain information, including the name and contact details of each processor and/or controller on behalf of which Google is acting and (if applicable) of such processor’s or controller's local representative and data protection officer; and (b) make such information available to any Supervisory Authority. Accordingly, Customer will, where requested and as applicable to Customer, provide such information to Google via the user interface of the Processor Services or via such other means as may be provided by Google, and will use such user interface or other means to ensure that all information provided is kept accurate and up-to-date.
 
 13. **Liability**
 -----------------
 
-If the Agreement is governed by the laws of:
+13.1 Liability Cap. If the Agreement is governed by the laws of:
 
 (a) a state of the United States of America, then, notwithstanding anything else in the Agreement, the total liability of either party towards the other party under or in connection with these Data Processing Terms will be limited to the maximum monetary or payment-based amount at which that party’s liability is capped under the Agreement (for clarity, any exclusion of indemnification claims from the Agreement’s limitation of liability will not apply to indemnification claims under the Agreement relating to the European Data Protection Legislation or the Non-European Data Protection Legislation); or
 
 (b) a jurisdiction that is not a state of the United States of America, then the liability of the parties under or in connection with these Data Processing Terms will be subject to the exclusions and limitations of liability in the Agreement.
 
-14. **Effect of these Data Processing Terms**
+13.2Liability if the Model Contract Clauses Apply. If the Model Contract Clauses apply under Section 10.2 (Transfers of Data), the total combined liability of:
+
+(a)Google LLC and Google towards Customer; and
+
+(b)Customer towards Google LLC and Google,
+
+under or in connection with the Agreement and the Model Contract Clauses combined will be subject to Section 13.1 (Liability Cap).
+
+14. **Third-Party Beneficiary**
+-------------------------------
+
+Where Google LLC is not a party to the Agreement and the Model Contract Clauses apply under Section 10.2 (Transfers of Data), Google LLC will be a third-party beneficiary of Sections 6.2 (Deletion on Term Expiry), 7.5 (Reviews and Audits of Compliance), 9.1 (Responses to Data Subject Requests), 10.2 (Transfers of Data), 11.1 (Consent to Subprocessor Engagement), and 13.2 (Liability if the Model Contract Clauses Apply). To the extent this Section 14 (Third-Party Beneficiary) conflicts or is inconsistent with any other clause in the Agreement, this Section 14 (Third-Party Beneficiary) will apply.
+
+15. **Effect of these Data Processing Terms**
 ---------------------------------------------
 
-If there is any conflict or inconsistency between the terms of the Additional Terms for Non-European Data Protection Legislation, the remainder of these Data Processing Terms and/or the remainder of the Agreement, then the following order of precedence will apply: (a) the Additional Terms for Non-European Data Protection Legislation; (b) the remainder of these Data Processing Terms; and (c) the remainder of the Agreement. Subject to the amendments in these Data Processing Terms, the Agreement remains in full force and effect.
+If there is any conflict or inconsistency between the Model Contract Clauses, the Additional Terms for Non-European Data Protection Legislation, and the remainder of these Data Processing Terms and/or the remainder of the Agreement, then the following order of precedence will apply:
 
-15. **Changes to these Data Processing Terms**
+(a)the Model Contract Clauses;
+
+(b)the Additional Terms for Non-European Data Protection Legislation;
+
+(c)the remainder of these Data Processing Terms; and
+
+(d) the remainder of the Agreement.
+
+Subject to the amendments in these Data Processing Terms, the Agreement remains in full force and effect.
+
+16. **Changes to these Data Processing Terms**
 ----------------------------------------------
 
-15.1 **Changes to URLs**. From time to time, Google may change any URL referenced in these Data Processing Terms and the content at any such URL. Google may only change the list of potential Processor Services at [privacy.google.com/businesses/adsservices](https://privacy.google.com/businesses/adsservices/):
+16.1 **Changes to URLs**. From time to time, Google may change any URL referenced in these Data Processing Terms and the content at any such URL, except that:
 
-(a) to reflect a change to the name of a service;
+(a) Google may only change the Model Contract Clauses in accordance with Sections 16.2(b) - 16.2(d) (Changes to Data Processing Terms) or to incorporate any new version of the Model Contract Clauses that may be adopted under the European Data Protection Legislation, in each case in a manner that does not affect the validity of the Model Contract Clauses under the European Data Protection Legislation; and
 
-(b) to add a new service; or
+(b) Google may only change the list of potential Processor Services at privacy.google.com/businesses/adsservices: (i) to reflect a change to the name of a service; (ii) to add a new service; or (iii) to remove a service where either: (x) all contracts for the provision of that service are terminated; or (y) Google has Customer’s consent.
 
-(c) to remove a service where either: (i) all contracts for the provision of that service are terminated; or (ii) Google has Customer’s consent.
+16.2 **Changes to Data Processing Terms.** Google may change these Data Processing Terms if the change:
 
-15.2 **Changes to Data Processing Terms**. Google may change these Data Processing Terms if the change:
-
-(a) is expressly permitted by these Data Processing Terms, including as described in Section 15.1 (Changes to URLs);
+(a) is expressly permitted by these Data Processing Terms, including as described in Section 16.1 (Changes to URLs);
 
 (b) reflects a change in the name or form of a legal entity;
 
@@ -332,7 +359,7 @@ If there is any conflict or inconsistency between the terms of the Additional Te
 
 (d) does not: (i) result in a degradation of the overall security of the Processor Services; (ii) expand the scope of, or remove any restrictions on, (x) in the case of the Additional Terms for Non-European Data Protection Legislation, Google’s rights to use or otherwise process the data in scope of the Additional Terms for Non-European Data Protection Legislation or (y) in the case of the remainder of these Data Processing Terms, Google’s processing of Customer Personal Data, as described in Section 5.3 (Google’s Compliance with Instructions); and (iii) otherwise have a material adverse impact on Customer’s rights under these Data Processing Terms, as reasonably determined by Google.
 
-15.3 **Notification of Changes**. If Google intends to change these Data Processing Terms under Section 15.2(c) or (d), Google will inform Customer at least 30 days (or such shorter period as may be required to comply with applicable law, applicable regulation, a court order or guidance issued by a governmental regulator or agency) before the change will take effect by either: (a) sending an email to the Notification Email Address; or (b) alerting Customer via the user interface for the Processor Services. If Customer objects to any such change, Customer may terminate the Agreement by giving written notice to Google within 90 days of being informed by Google of the change.
+16.3 **Notification of Changes**. If Google intends to change these Data Processing Terms under Section 16.2(c) or (d), Google will inform Customer at least 30 days (or such shorter period as may be required to comply with applicable law, applicable regulation, a court order or guidance issued by a governmental regulator or agency) before the change will take effect by either: (a) sending an email to the Notification Email Address; or (b) alerting Customer via the user interface for the Processor Services. If Customer objects to any such change, Customer may terminate the Agreement by giving written notice to Google within 90 days of being informed by Google of the change.
 
 Appendix 1: Subject Matter and Details of the Data Processing
 =============================================================
@@ -389,7 +416,7 @@ As from the Terms Effective Date, Google will implement and maintain the Securit
 
 (b) **Networks & Transmission**.
 
-**Data Transmission**. Data centres are typically connected via high-speed private links to provide secure and fast data transfer between data centres. This is designed to prevent data from being read, copied, altered or removed without authorisation during electronic transfer or transport or while being recorded onto data storage media. Google transfers data via Internet standard protocols.
+**Data Transmission**. Data centres are typically connected via high-speed private links to provide secure and fast data transfer between data centres. Further, Google encrypts data transmitted between data centres. This is designed to prevent data from being read, copied, altered or removed without authorisation during electronic transport. Google transfers data via Internet standard protocols.
 
 **External Attack Surface**. Google employs multiple layers of network devices and intrusion detection to protect its external attack surface. Google considers potential attack vectors and incorporates appropriate purpose built technologies into external facing systems.
 
@@ -403,16 +430,16 @@ As from the Terms Effective Date, Google will implement and maintain the Securit
 
 **Incident Response**. Google monitors a variety of communication channels for security incidents, and Google’s security personnel will react promptly to known incidents.
 
-**Encryption Technologies**. Google makes HTTPS encryption (also referred to as SSL or TLS connection) available. Google servers support ephemeral elliptic curve Diffie Hellman cryptographic key exchange signed with RSA and ECDSA. These perfect forward secrecy (PFS) methods help protect traffic and minimise the impact of a compromised key, or a cryptographic breakthrough.
+**Encryption Technologies**. Google makes HTTPS encryption (also referred to as TLS connection) available. Google servers support ephemeral elliptic curve Diffie Hellman cryptographic key exchange signed with RSA and ECDSA. These perfect forward secrecy (PFS) methods help protect traffic and minimise the impact of a compromised key, or a cryptographic breakthrough.
 
 2. **Access and Site Controls**
 -------------------------------
 
 (a) **Site Controls**.
 
-**On-site Data Centre Security Operation**. Google’s data centres maintain an on-site security operation responsible for all physical data centre security functions 24 hours a day, 7 days a week. The on-site security operation personnel monitor Closed Circuit TV (“**CCTV**”) cameras and all alarm systems. On-site security operation personnel perform internal and external patrols of the data centre regularly.
+**On-site Data Centre Security Operation**. Google’s data centres maintain an on-site security operation responsible for all physical data centre security functions 24 hours a day, 7 days a week. The on-site security operations personnel monitor Closed Circuit TV (“**CCTV**”) cameras and all alarm systems. On-site security operation personnel perform internal and external patrols of the data centre regularly.
 
-**Data Centre Access Procedures**. Google maintains formal access procedures for allowing physical access to the data centres. The data centres are housed in facilities that require electronic card key access, with alarms that are linked to the on-site security operation. All entrants to the data centre are required to identify themselves as well as show proof of identity to on-site security operations. Only authorised employees, contractors and visitors are allowed entry to the data centres. Only authorised employees and contractors are permitted to request electronic card key access to these facilities. Data centre electronic card key access requests must be made in advance and in writing, and require the approval of the requestor’s manager and the data centre director. All other entrants requiring temporary data centre access must: (i) obtain approval in advance from the data centre managers for the specific data centre and internal areas they wish to visit; (ii) sign in at on-site security operations; and (iii) reference an approved data centre access record identifying the individual as approved.
+**Data Centre Access Procedures**. Google maintains formal access procedures for allowing physical access to the data centres. The data centres are housed in facilities that require electronic card key access, with alarms that are linked to the on-site security operation. All entrants to the data centre are required to identify themselves as well as show proof of identity to on-site security operations. Only authorised employees, contractors and visitors are allowed entry to the data centres. Only authorised employees and contractors are permitted to request electronic card key access to these facilities. Data centre electronic card key access requests must be made in advance and in writing, and require the approval of authorised data centre personnel. All other entrants requiring temporary data centre access must: (i) obtain approval in advance from authorised data centre personnel for the specific data centre and internal areas they wish to visit; (ii) sign in at on-site security operations; and (iii) reference an approved data centre access record identifying the individual as approved.
 
 **On-site Data Centre Security Devices**. Google’s data centres employ an electronic card key and biometric access control system that is linked to a system alarm. The access control system monitors and records each individual’s electronic card key and when they access perimeter doors, shipping and receiving, and other critical areas. Unauthorised activity and failed access attempts are logged by the access control system and investigated, as appropriate. Authorised access throughout the business operations and data centres is restricted based on zones and the individual’s job responsibilities. The fire doors at the data centres are alarmed. CCTV cameras are in operation both inside and outside the data centres. The positioning of the cameras has been designed to cover strategic areas including, among others, the perimeter, doors to the data centre building, and shipping/receiving. On-site security operations personnel manage the CCTV monitoring, recording and control equipment. Secure cables throughout the data centres connect the CCTV equipment. Cameras record on-site via digital video recorders 24 hours a day, 7 days a week. The surveillance records are retained for at least 7 days based on activity.
 
@@ -422,7 +449,7 @@ As from the Terms Effective Date, Google will implement and maintain the Securit
 
 **Access Control and Privilege Management**. Customer's administrators and users must authenticate themselves via a central authentication system or via a single sign on system in order to use the Processor Services.
 
-**Internal Data Access Processes and Policies – Access Policy**. Google’s internal data access processes and policies are designed to prevent unauthorised persons and/or systems from gaining access to systems used to process personal data. Google aims to design its systems to: (i) only allow authorised persons to access data they are authorised to access; and (ii) ensure that personal data cannot be read, copied, altered or removed without authorisation during processing, use and after recording. The systems are designed to detect any inappropriate access. Google employs a centralised access management system to control personnel access to production servers, and only provides access to a limited number of authorised personnel. LDAP, Kerberos and a proprietary system utilising SSH certificates are designed to provide Google with secure and flexible access mechanisms. These mechanisms are designed to grant only approved access rights to site hosts, logs, data and configuration information. Google requires the use of unique user IDs, strong passwords, two factor authentication and carefully monitored access lists to minimise the potential for unauthorised account use. The granting or modification of access rights is based on: the authorised personnel’s job responsibilities; job duty requirements necessary to perform authorised tasks; and a need to know basis. The granting or modification of access rights must also be in accordance with Google’s internal data access policies and training. Approvals are managed by workflow tools that maintain audit records of all changes. Access to systems is logged to create an audit trail for accountability. Where passwords are employed for authentication (e.g. login to workstations), password policies that follow at least industry standard practices are implemented. These standards include restrictions on password reuse and sufficient password strength.
+**Internal Data Access Processes and Policies – Access Policy**. Google’s internal data access processes and policies are designed to prevent unauthorised persons and/or systems from gaining access to systems used to process personal data. Google aims to design its systems to: (i) only allow authorised persons to access data they are authorised to access; and (ii) ensure that personal data cannot be read, copied, altered or removed without authorisation during processing, use and after recording. The systems are designed to detect any inappropriate access. Google employs a centralised access management system to control personnel access to production servers, and only provides access to a limited number of authorised personnel. LDAP, Kerberos and a proprietary system utilising digital certificates are designed to provide Google with secure and flexible access mechanisms. These mechanisms are designed to grant only approved access rights to site hosts, logs, data and configuration information. Google requires the use of unique user IDs, strong passwords, two factor authentication and carefully monitored access lists to minimise the potential for unauthorised account use. The granting or modification of access rights is based on: the authorised personnel’s job responsibilities; job duty requirements necessary to perform authorised tasks; and a need to know basis. The granting or modification of access rights must also be in accordance with Google’s internal data access policies and training. Approvals are managed by workflow tools that maintain audit records of all changes. Access to systems is logged to create an audit trail for accountability. Where passwords are employed for authentication (e.g. login to workstations), password policies that follow at least industry standard practices are implemented. These standards include restrictions on password reuse and sufficient password strength.
 
 3. **Data**
 -----------
@@ -438,14 +465,14 @@ Certain disks containing data may experience performance issues, errors or hardw
 4. **Personnel Security**
 -------------------------
 
-Google personnel are required to conduct themselves in a manner consistent with the company’s guidelines regarding confidentiality, business ethics, appropriate usage, and professional standards. Google conducts reasonably appropriate backgrounds checks to the extent legally permissible and in accordance with applicable local labor law and statutory regulations.
+Google personnel are required to conduct themselves in a manner consistent with the company’s guidelines regarding confidentiality, business ethics, appropriate usage, and professional standards. Google conducts reasonably appropriate background checks to the extent legally permissible and in accordance with applicable local labor law and statutory regulations.
 
 Personnel are required to execute a confidentiality agreement and must acknowledge receipt of, and compliance with, Google’s confidentiality and privacy policies. Personnel are provided with security training. Personnel handling Customer Personal Data are required to complete additional requirements appropriate to their role. Google’s personnel will not process Customer Personal Data without authorisation.
 
 5. **Subprocessor Security**
 ----------------------------
 
-Before onboarding Subprocessors, Google conducts an audit of the security and privacy practices of Subprocessors to ensure Subprocessors provide a level of security and privacy appropriate to their access to data and the scope of the services they are engaged to provide. Once Google has assessed the risks presented by the Subprocessor then, subject always to the requirements set out in Section 11.3 (Requirements for Subprocessor Engagement), the Subprocessor is required to enter into appropriate security, confidentiality and privacy contract terms.
+Before onboarding Subprocessors, Google conducts an audit of the security and privacy practices of Subprocessors to ensure Subprocessors provide a level of security and privacy appropriate to their access to data and the scope of the services they are engaged to provide. Once Google has assessed the risks presented by the Subprocessor, the Subprocessor is required to enter into appropriate security, confidentiality and privacy contract terms, subject to the requirements set out in Section 11.3 (Requirements for Subprocessor Engagement).
 
 Appendix 3: Additional Terms for Non-European Data Protection Legislation
 =========================================================================
@@ -454,11 +481,12 @@ The following Additional Terms for Non-European Data Protection Legislation supp
 
 *   [CCPA Service Provider Addendum](https://privacy.google.com/businesses/processorterms/ccpa/) at [privacy.google.com/businesses/processorterms/ccpa](https://privacy.google.com/businesses/processorterms/ccpa/) (dated 1 January 2020)
 
-_Google Ads Data Processing Terms, Version 1.4_
+_Google Ads Data Processing Terms, Version 2.0_
 
-_1 January 2020_
+_12 August 2020_
 
 **Previous Versions**
 
+*   [1 January 2020](https://privacy.google.com/businesses/processorterms-20200101/)
 *   [31 October 2019](https://privacy.google.com/businesses/processorterms-20191031/)
 *   [12 October 2017](https://privacy.google.com/businesses/processorterms-20171012/)
