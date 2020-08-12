@@ -23,11 +23,19 @@ These Controller Terms reflect the parties’ agreement on the processing of cer
 
 “**Controller Data Subject**” means a data subject to whom Controller Personal Data relates.
 
+“**Controller MCCs**” means the terms at privacy.google.com/businesses/controllerterms/mccs, which are standard data protection clauses for the transfer of personal data to controllers established in third countries which do not ensure an adequate level of data protection, as described in Article 46 of the EU GDPR.
+
 “**Controller Personal Data**” means any personal data that is processed by a party under the Agreement in connection with its provision or use (as applicable) of the Controller Services.
 
 “**Controller Services**” means the applicable services listed at [privacy.google.com/businesses/adsservices](https://privacy.google.com/businesses/adsservices/).
 
+“**EEA**” means the European Economic Area.
+
 “**EU GDPR**” means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC.
+
+“**European Controller Personal Data**” means Controller Personal Data of Controller Data Subjects located in the EEA or Switzerland.
+
+“**End Controller**” means, for each party, the ultimate controller of Controller Personal Data.
 
 “**European Data Protection Legislation**” means, as applicable: (a) the GDPR; and/or (b) the Federal Data Protection Act of 19 June 1992 (Switzerland).
 
@@ -35,11 +43,11 @@ These Controller Terms reflect the parties’ agreement on the processing of cer
 
 “**Google**” means the Google Entity that is party to the Agreement.
 
+“**Google End Controllers**” means the End Controllers of Controller Personal Data processed by Google.
+
 “**Google Entity**” means Google LLC (formerly known as Google Inc.), Google Ireland Limited or any other Affiliate of Google LLC.
 
-“**Non-European Data Protection Legislation**” means data protection or privacy laws in force outside the European Economic Area, Switzerland and the UK.
-
-“**Privacy Shield**” means the EU-U.S. Privacy Shield legal framework, the Swiss-U.S. Privacy Shield legal framework, and any equivalent legal framework that may apply between the UK and the United States.
+“**Non-European Data Protection Legislation**” means data protection or privacy laws in force outside the EEA, Switzerland and the UK.
 
 “**Terms Effective Date**” means, as applicable:
 
@@ -47,9 +55,11 @@ These Controller Terms reflect the parties’ agreement on the processing of cer
 
 (b) the date on which Customer clicked to accept or the parties otherwise agreed to these Controller Terms, if such date is after 25 May 2018.
 
+“**UK Controller Personal Data**” means Controller Personal Data of Controller Data Subjects located in the UK.
+
 “**UK GDPR**” means the EU GDPR as amended and incorporated into UK law under the UK European Union (Withdrawal) Act 2018, if in force.
 
-2.2 The terms “**controller**”, “**data subject**”, “**personal data**”, “**processing**” and “**processor**” as used in these Controller Terms have the meanings given in the GDPR.
+2.2 The terms “**controller**”, “**data subject**”, “**personal data**”, “**processing**” and “**processor**” as used in these Controller Terms have the meanings given in the GDPR, and the terms “**data importer**” and “**data exporter**” have the meanings given in the Controller MCCs.
 
 2.3 The words “**include**” and “**including**” mean “including but not limited to”. Any examples in these Controller Terms are illustrative and not the sole examples of a particular concept.
 
@@ -60,7 +70,7 @@ These Controller Terms reflect the parties’ agreement on the processing of cer
 3. **Application of these Controller Terms**
 --------------------------------------------
 
-3.1 **Application of European Data Protection Legislation**. Sections 4 (Roles and Restrictions on Processing) to 6 (Privacy Shield Onward Transfer Provisions) (inclusive) will only apply to the extent that the European Data Protection Legislation applies to the processing of Controller Personal Data.
+3.1 **Application of European Data Protection Legislation**. Sections 4 (Roles and Restrictions on Processing) to 6 (Controller MCCs) (inclusive) will only apply to the extent that the European Data Protection Legislation applies to the processing of Controller Personal Data.
 
 3.2 **Application to Controller Services**. These Controller Terms will only apply to the Controller Services for which the parties agreed to these Controller Terms (for example: (a) the Controller Services for which Customer clicked to accept these Controller Terms; or (b) if the Agreement incorporates these Controller Terms by reference, the Controller Services that are the subject of the Agreement).
 
@@ -69,7 +79,7 @@ These Controller Terms reflect the parties’ agreement on the processing of cer
 4. **Roles and Restrictions on Processing**
 -------------------------------------------
 
-4.1 **Independent Controllers**. Each party:
+4.1 **Independent Controllers**. Subject to Section 4.3 (End Controllers), each party:
 
 (a) is an independent controller of Controller Personal Data under the European Data Protection Legislation;
 
@@ -79,56 +89,113 @@ These Controller Terms reflect the parties’ agreement on the processing of cer
 
 4.2 **Restrictions on Processing**. Section 4.1 (Independent Controllers) will not affect any restrictions on either party’s rights to use or otherwise process Controller Personal Data under the Agreement.
 
+4.3 **End Controllers**. Without reducing either party’s obligations under these Controller Terms, each party acknowledges that: (a) the other party’s Affiliates or clients may be End Controllers; and (b) the other party may act as a processor on behalf of its End Controllers. The Google End Controllers are: (i) for European Controller Personal Data processed by Google, Google Ireland Limited; and (ii) for UK Controller Personal Data processed by Google, Google LLC. Each party will ensure that its End Controllers comply with the Controller Terms, including (where applicable) the Controller MCCs.
+
 5. **Data Transfers**
 ---------------------
 
-5.1 **Transfers of Data**. Either party may transfer Controller Personal Data to third countries if it complies with the provisions on the transfer of personal data to third countries in the European Data Protection Legislation.
+Either party may transfer Controller Personal Data to third countries if it complies with the provisions on the transfer of personal data to third countries in the European Data Protection Legislation.
 
-5.2 **Google’s Privacy Shield Certification**. As at the date Customer clicked to accept or the parties otherwise agreed to these Controller Terms, the parent company of the Google group, Google LLC, is certified under Privacy Shield. This Section 5.2 (Google’s Privacy Shield Certification) constitutes notice in writing from Google to Customer for the purpose of Section 6.1(c).
+6. **Controller MCCs**
+----------------------
 
-6. **Privacy Shield Onward Transfer Provisions**
-------------------------------------------------
+6.1 **Transfers of European Controller Personal Data to Customer**. To the extent that:
 
-6.1 **Application of Section 6**. Sections 6.2 (Use of Data Provider Personal Data) and 6.3 (Protection of Data Provider Personal Data) will only apply to the extent that:
+(a) Google transfers European Controller Personal Data to Customer; and
 
-(a) a party (the “**Data Recipient**”) processes Controller Personal Data that is made available by the other party (the “**Data Provider**”) in connection with the Agreement (such Controller Personal Data, “**Data Provider Personal Data**”);
+(b) Customer is established in a third country that is not subject to an adequacy decision under the European Data Protection Legislation,
 
-(b) the Data Provider or its Affiliate is certified under Privacy Shield; and
+Customer as data importer will be deemed to have entered into the Controller MCCs with Google Ireland Limited (the applicable Google End Controller) as data exporter and the transfers will be subject to the Controller MCCs.
 
-(c) the Data Provider notifies the Data Recipient of such Privacy Shield certification in writing.
+6.2 **Transfers of UK Controller Personal Data to Customer**. To the extent that:
 
-6.2 **Use of Data Provider Personal Data**.
+(a) Google transfers UK Controller Personal Data to Customer; and
 
-(a) Pursuant to the onward transfer principle under Privacy Shield, the Data Recipient will only use Data Provider Personal Data in a manner consistent with the consent provided by the relevant Controller Data Subjects.
+(b) Customer is established in a third country that is not subject to an adequacy decision under the UK GDPR,
 
-(b) To the extent the Data Provider fails to obtain consent from the relevant Controller Data Subjects as required under the Agreement, the Data Recipient will not be in breach of Section 6.2(a) if it uses Data Provider Personal Data consistent with the required consent.
+Customer as data importer will be deemed to have entered into the Controller MCCs with Google LLC (the applicable Google End Controller) as data exporter and the transfers will be subject to the Controller MCCs.
 
-6.3 **Protection of Data Provider Personal Data**.
+6.3 **Transfers of European Controller Personal Data to Google**. The parties acknowledge that to the extent Customer transfers European Controller Personal Data to Google, the Controller MCCs are not required because Google Ireland Limited (the applicable Google End Controller) is established in Ireland and such transfers are therefore permitted under the European Data Protection Legislation. This does not affect Google’s obligations under Section 5 (Data Transfers).
 
-(a) The Data Recipient will provide a level of protection for Data Provider Personal Data that is at least equivalent to that required under Privacy Shield.
+6.4 **Transfers of UK Controller Personal Data to Google**. To the extent that Customer transfers UK Controller Personal Data to Google, Customer as data exporter will be deemed to have entered into the Controller MCCs with Google LLC (the applicable Google End Controller) as data importer and the transfers will be subject to the Controller MCCs, because Google LLC is established in the USA and such transfers are therefore to a third country that is not subject to an adequacy decision under the UK GDPR.
 
-(b) If the Data Recipient determines that it cannot comply with Section 6.3(a), it will: (i) notify the Data Provider in writing; and (ii) either cease processing the Data Provider Personal Data or take reasonable and appropriate steps to remedy such non-compliance.
+6.5 **Additional Commercial Clauses for the Controller MCCs**. Sections 6.6 (Contacting Google) to 6.9 (Third Party Controllers) are additional commercial clauses relating to the Controller MCCs as permitted by Clause VII (Variation of these clauses) of the Controller MCCs. Nothing in Sections 6.6 (Contacting Google) to 6.9 (Third Party Controllers) varies or modifies any rights or obligations of the parties to the Controller MCCs.
+
+6.6 **Contacting Google**. Customer may contact Google Ireland Limited and/or Google LLC in connection with the Controller MCCs at [https://support.google.com/policies/troubleshooter/9009584](https://support.google.com/policies/troubleshooter/9009584) or through such other means as may be provided by Google from time to time, including for the purposes of:
+
+(a) Clause II(e) of the Controller MCCs, to the extent Google LLC acts as data importer and Customer acts as data exporter under the Controller MCCs; and
+
+(b) requesting an Audit pursuant to Section 6.8(a) below.
+
+6.7 **Responding to Data Subject Enquiries**. For the purpose of Clause I(d) of the Controller MCCs, the applicable data importer will be responsible for responding to enquiries from data subjects and the authority concerning the processing of applicable Controller Personal Data by the data importer.
+
+6.8 **Reviews, Audits and Certifications of Compliance.**
+
+(a) If the Controller MCCs apply under this Section 6 (Controller MCCs), the applicable data importer will allow the applicable data exporter or a third party inspection agent or auditor appointed by the data exporter to conduct a review, audit and/or certification as described in Clause II(g) of the Controller MCCs (“Audit”) in accordance with this Section 6.8 (Reviews, Audits and Certifications of Compliance).
+
+(b) Following receipt by the data importer of a request for an Audit, the data importer and the data exporter will discuss and agree in advance on the reasonable start date, scope and duration of, and security and confidentiality controls applicable to, the Audit.
+
+(c) The data importer may charge a fee (based on the data importer’s reasonable costs) for any Audit. The data importer will provide the data exporter with further details of any applicable fee, and the basis of its calculation, in advance of the Audit. The data exporter will be responsible for any fees charged by any third party inspection agent or auditor appointed by the data exporter to execute the Audit.
+
+(d) The data importer may object to any third party inspection agent or auditor appointed by the data exporter to conduct any Audit if the inspection agent or auditor is, in the data importer’s reasonable opinion, not suitably qualified or independent, a competitor of the data importer or otherwise manifestly unsuitable. Any such objection by the data importer will require the data exporter to appoint another inspection agent or auditor or conduct the Audit itself.
+
+(e) The data importer will not be required either to disclose to the data exporter or its third party inspection agent or auditor, or to allow the data exporter or its third party inspection agent or auditor to access:
+
+(i) any data of any customers of the data importer or any of its Affiliates;
+
+(ii) any internal accounting or financial information of the data importer or any of its Affiliates;
+
+(iii) any trade secret of the data importer or any of its Affiliates;
+
+(iv) any information that, in the data importer’s reasonable opinion, could: (A) compromise the security of any systems or premises of the data importer or any of its Affiliates; or (B) cause the data importer or any Affiliate of the data importer to breach its obligations under the European Data Protection Legislation or its security and/or privacy obligations to the data exporter or any third party; or
+
+(v) any information that the data exporter or its third party inspection agent or auditor seeks to access for any reason other than the good faith fulfilment of the data exporter’s obligations under the European Data Protection Legislation.
+
+6.9 **Third Party Controllers**. To the extent Google LLC acts as data importer and Customer acts as data exporter under the Controller MCCs under Section 6.4 (Transfers of UK Controller Personal Data to Google), Google notifies Customer for the purpose of Clause II(i) that UK Controller Personal Data may be transferred to the third party data controllers where requested by Customer, including through its use of or integration with the Controller Services.
 
 7. **Liability**
 ----------------
 
-If the Agreement is governed by the laws of:
+7.1 **Liability Cap**. If the Agreement is governed by the laws of:
 
 (a) a state of the United States of America, then, notwithstanding anything else in the Agreement, the total liability of either party towards the other party under or in connection with these Controller Terms will be limited to the maximum monetary or payment-based amount at which that party’s liability is capped under the Agreement (for clarity, any exclusion of indemnification claims from the Agreement’s limitation of liability will not apply to indemnification claims under the Agreement relating to the European Data Protection Legislation or the Non-European Data Protection Legislation); or
 
 (b) a jurisdiction that is not a state of the United States of America, then the liability of the parties under or in connection with these Controller Terms will be subject to the exclusions and limitations of liability in the Agreement.
 
-8. **Priority**
+7.2 **Liability if the Controller MCCs Apply**. If the Controller MCCs apply under Section 6 (Controller MCCs), then the total combined liability of
+
+(a) Google, Google LLC and Google Ireland Limited towards Customer; and
+
+(b) Customer towards Google, Google LLC and Google Ireland Limited,
+
+under or in connection with the Agreement and the Controller MCCs combined will be subject to Section 7.1 (Liability Cap). Clause III(a) of the Controller MCCs will not affect the previous sentence.
+
+8. **Third-Party Beneficiaries**
+--------------------------------
+
+Where Google LLC and/or Google Ireland Limited are not a party to the Agreement but are a party to the Model Contract Clauses that apply under Section 6 (Controller MCCs), Google LLC and/or Google Ireland Limited (as applicable) will be a third-party beneficiary of Sections 4.3 (End Controllers), 6 (Controller MCCs), and 7.2 (Liability if the Controller MCCs Apply). To the extent this Section 8 (Third-Party Beneficiary) conflicts or is inconsistent with any other clause in the Agreement, this Section 8 (Third-Party Beneficiary) will apply.
+
+9. **Priority**
 ---------------
 
-8.1 **Effect of these Controller Terms**. If there is any conflict or inconsistency between the terms of the Additional Terms for Non-European Data Protection Legislation, the remainder of these Controller Terms and/or the remainder of the Agreement then, subject to Sections 4.2 (Restrictions on Processing) and 8.2 (Processor Terms), the following order of precedence will apply: (a) the Additional Terms for Non-European Data Protection Legislation; (b) the remainder of these Controller Terms; and (c) the remainder of the Agreement. Subject to the amendments in these Controller Terms, the Agreement remains in full force and effect.
+9.1 **Effect of these Controller Terms**. If there is any conflict or inconsistency between the Controller MCCs, the Additional Terms for Non-European Data Protection Legislation, and the remainder of these Controller Terms and/or the remainder of the Agreement then, subject to Sections 4.2 (Restrictions on Processing) and 9.2 (Processor Terms), the following order of precedence will apply:
 
-8.2 **Processor Terms**. These Controller Terms will not affect any separate terms between Google and Customer reflecting a controller-processor relationship for a service other than the Controller Services.
+(a) the Controller MCCs;
 
-9. **Changes to these Controller Terms**
-----------------------------------------
+(b) the Additional Terms for Non-European Data Protection Legislation;
 
-9.1 **Changes to Controller Services in Scope**. Google may only change the list of potential Controller Services at [privacy.google.com/businesses/adsservices](https://privacy.google.com/businesses/adsservices/):
+(c) the remainder of these Controller Terms; and
+
+(d) the remainder of the Agreement.
+
+Subject to the amendments in these Controller Terms, the Agreement remains in full force and effect.
+
+9.2 **Processor Terms**. These Controller Terms will not affect any separate terms between Google and Customer reflecting a controller-processor relationship for a service other than the Controller Services.
+
+10. **Changes to these Controller Terms**
+-----------------------------------------
+
+10.1 **Changes to Controller Services in Scope**. Google may only change the list of potential Controller Services at [privacy.google.com/businesses/adsservices](https://privacy.google.com/businesses/adsservices/):
 
 (a) to reflect a change to the name of a service;
 
@@ -136,15 +203,15 @@ If the Agreement is governed by the laws of:
 
 (c) to remove a service where either: (i) all contracts for the provision of that service are terminated; or (ii) Google has Customer’s consent.
 
-9.2 **Changes to Controller Terms**. Google may change these Controller Terms if the change:
+10.2 **Changes to Controller Terms**. Google may change these Controller Terms if the change:
 
-(a) is as described in Section 9.1 (Changes to Controller Services in Scope);
+(a) is as described in Section 10.1 (Changes to Controller Services in Scope);
 
 (b) is required to comply with applicable law, applicable regulation, a court order or guidance issued by a governmental regulator or agency; or
 
 (c) does not: (i) seek to alter the categorisation of the parties as independent controllers of Controller Personal Data under the European Data Protection Legislation; (ii) expand the scope of, or remove any restrictions on, either party’s rights to use or otherwise process (x) in the case of the Additional Terms for Non-European Data Protection Legislation, the data in scope of the Additional Terms for Non-European Data Protection Legislation or (y) in the case of the remainder of these Controller Terms, Controller Personal Data; or (iii) have a material adverse impact on Customer, as reasonably determined by Google.
 
-9.3 **Notification of Changes**. If Google intends to change these Controller Terms under Section 9.2(b) and such change will have a material adverse impact on Customer, as reasonably determined by Google, then Google will use commercially reasonable efforts to inform Customer at least 30 days (or such shorter period as may be required to comply with applicable law, applicable regulation, a court order or guidance issued by a governmental regulator or agency) before the change will take effect. If Customer objects to any such change, Customer may terminate the Agreement by giving written notice to Google within 90 days of being informed by Google of the change.
+10.3 **Notification of Changes**. If Google intends to change these Controller Terms under Section 10.2(b) and such change will have a material adverse impact on Customer, as reasonably determined by Google, then Google will use commercially reasonable efforts to inform Customer at least 30 days (or such shorter period as may be required to comply with applicable law, applicable regulation, a court order or guidance issued by a governmental regulator or agency) before the change will take effect. If Customer objects to any such change, Customer may terminate the Agreement by giving written notice to Google within 90 days of being informed by Google of the change.
 
 **Appendix 1: Additional Terms for Non-European Data Protection Legislation**
 =============================================================================
@@ -153,11 +220,12 @@ The following Additional Terms for Non-European Data Protection Legislation supp
 
 *   [CCPA Service Provider Addendum](https://privacy.google.com/businesses/controllerterms/ccpa/) at [privacy.google.com/businesses/controllerterms/ccpa](https://privacy.google.com/businesses/controllerterms/ccpa/) (dated 1 January 2020)
 
-_Google Ads Controller-Controller Data Protection Terms, Version 1.3_
+_Google Ads Controller-Controller Data Protection Terms, Version 2.0_
 
-_1 January 2020_
+_12 August 2020_
 
 **Previous Versions**
 
+*   [1 January 2020](https://privacy.google.com/businesses/controllerterms-20200101/)
 *   [31 October 2019](https://privacy.google.com/businesses/controllerterms-20191031/)
 *   [12 October 2017](https://privacy.google.com/businesses/controllerterms-20171012/)
