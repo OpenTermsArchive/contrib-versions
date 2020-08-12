@@ -3,35 +3,35 @@
 Google Terms of Service
 =======================
 
-Effective March 31, 2020 | [Archived versions](https://policies.google.com/terms/archive?hl=en-US) | [Download PDF](https://www.gstatic.com/policies/terms/pdf/20200331/ba461e2f/google_terms_of_service_en_fr.pdf)
+Effective March 31, 2020 | [Archived versions](https://policies.google.com/terms/archive?hl=en-US) | [Download PDF](https://www.gstatic.com/policies/terms/pdf/20200331/ba461e2f/google_terms_of_service_en.pdf)
 
 What’s covered in these terms
 -----------------------------
 
 ### We know it’s tempting to skip these Terms of Service, but it’s important to establish what you can expect from us as you use Google [services](https://policies.google.com/terms?hl=en-US#footnote-services), and what we expect from you.
 
-These Terms of Service reflect [the way Google’s business works](https://about.google/intl/en_FR/how-our-business-works), the laws that apply to our company, and [certain things we’ve always believed to be true](https://www.google.com/about/philosophy.html?hl=en_US). As a result, these Terms of Service help define Google’s relationship with you as you interact with our services. For example, these terms include the following topic headings:
+These Terms of Service reflect [the way Google’s business works](https://about.google/intl/en_ZA/how-our-business-works), the laws that apply to our company, and [certain things we’ve always believed to be true](https://www.google.com/about/philosophy.html?hl=en_US). As a result, these Terms of Service help define Google’s relationship with you as you interact with our services. For example, these terms include the following topic headings:
 
 *   [What you can expect from us](https://policies.google.com/terms?hl=en-US#toc-what-you-expect), which describes how we provide and develop our services
 *   [What we expect from you](https://policies.google.com/terms?hl=en-US#toc-what-we-expect), which establishes certain rules for using our services
 *   [Content in Google services](https://policies.google.com/terms?hl=en-US#toc-content), which describes the intellectual property rights to the content you find in our services — whether that content belongs to you, Google, or others
 *   [In case of problems or disagreements](https://policies.google.com/terms?hl=en-US#toc-problems), which describes other legal rights you have, and what to expect in case someone violates these terms
 
-Understanding these terms is important because, to use our services, you must accept these terms.
+Understanding these terms is important because, by using our services, you’re agreeing to these terms.
 
 Besides these terms, we also publish a [Privacy Policy](https://policies.google.com/privacy?hl=en-US). Although it’s not part of these terms, we encourage you to read it to better understand how you can [update, manage, export, and delete your information](https://myaccount.google.com/?hl=en_US).
 
 Service provider
 ----------------
 
-In the European Economic Area (EEA) and Switzerland, Google [services](https://policies.google.com/terms?hl=en-US#footnote-services) are provided by, and you’re contracting with:
+Google [services](https://policies.google.com/terms?hl=en-US#footnote-services) are provided by, and you’re contracting with:
 
-Google Ireland Limited  
-incorporated and operating under the laws of Ireland (Registered Number: 368047)  
+Google LLC  
+organized under the laws of the State of Delaware, USA, and operating under the laws of the USA  
   
-Gordon House, Barrow Street  
-Dublin 4  
-Ireland
+1600 Amphitheatre Parkway  
+Mountain View, California 94043  
+USA
 
 Age requirements
 ----------------
@@ -64,7 +64,7 @@ Contents
 Your relationship with Google
 =============================
 
-These terms help define the relationship between you and Google. Broadly speaking, we give you permission to use our [services](https://policies.google.com/terms?hl=en-US#footnote-services) if you agree to follow these terms, which reflect [how Google’s business works and how we earn money](https://about.google/intl/en_FR/how-our-business-works). When we speak of “Google,” “we,” “us,” and “our,” we mean Google Ireland Limited and its [affiliates](https://policies.google.com/terms?hl=en-US#footnote-affiliates).
+These terms help define the relationship between you and Google. Broadly speaking, we give you permission to use our [services](https://policies.google.com/terms?hl=en-US#footnote-services) if you agree to follow these terms, which reflect [how Google’s business works and how we earn money](https://about.google/intl/en_ZA/how-our-business-works). When we speak of “Google,” “we,” “us,” and “our,” we mean Google LLC and its [affiliates](https://policies.google.com/terms?hl=en-US#footnote-affiliates).
 
 What you can expect from us
 ---------------------------
@@ -88,8 +88,6 @@ Our services are designed to work together, making it easier for you to move fro
 
 We’re constantly developing new technologies and features to improve our services. For example, we invest in artificial intelligence that uses machine learning to detect and block spam and malware, and to provide you with innovative features, like simultaneous translations. As part of this continual improvement, we sometimes add or remove features and functionalities, increase or decrease limits to our services, and start offering new services or stop offering old ones.
 
-We maintain a rigorous product research program, so before we change or stop offering a service, we carefully consider your interests as a user, your reasonable expectations, and the potential impact on you and others. We only change or stop offering services for valid reasons, such as to improve performance or security, to comply with law, to prevent illegal activities or abuse, to reflect technical developments, or because a feature or an entire service is no longer popular enough or economical to offer.
-
 If we make material changes that negatively impact your use of our services or if we stop offering a service, we’ll provide you with reasonable advance notice and an opportunity to export [your content](https://policies.google.com/terms?hl=en-US#footnote-your-content) from your Google Account using [Google Takeout](https://takeout.google.com/settings/takeout?hl=en_US), except in urgent situations such as preventing abuse, responding to legal requirements, or addressing security and operability issues.
 
 What we expect from you
@@ -103,8 +101,6 @@ The permission we give you to use our [services](https://policies.google.com/ter
 
 *   **these terms**
 *   **[service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-US)**, which could, for example, include things like additional age requirements
-
-You can view, copy, and store these terms in [PDF format](https://www.gstatic.com/policies/terms/pdf/20200331/ba461e2f/google_terms_of_service_en_fr.pdf). You can accept these terms and any [service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-US) when you’re signed in to your Google Account.
 
 We also make various policies, help centers, and other resources available to you to answer common questions and to set expectations about using our services. These resources include our [Privacy Policy](https://policies.google.com/privacy?hl=en-US), [Copyright Help Center](https://support.google.com/legal/topic/4558877?hl=en_US), [Safety Center](https://safety.google/?hl=en_US), and other pages accessible from our [policies site](https://policies.google.com/?hl=en-US).
 
@@ -132,17 +128,17 @@ Some of our services are designed to let you upload, submit, store, send, receiv
 License
 -------
 
-[Your content](https://policies.google.com/terms?hl=en-US#footnote-intellectual-property-rights) may be protected by [intellectual property rights](https://policies.google.com/terms?hl=en-US#footnote-intellectual-property-rights) and [immaterial rights](https://policies.google.com/terms?hl=en-US#footnote-immaterial-rights). For example, you have intellectual property rights in the creative content you make, such as reviews you write. Or you may have the right to share someone else’s creative content if they’ve given you their permission. In addition, you have immaterial rights that give you control over things like your image, even if the photo that contains your image doesn’t belong to you.
+[Your content](https://policies.google.com/terms?hl=en-US#footnote-your-content) remains yours, which means that you retain any [intellectual property rights](https://policies.google.com/terms?hl=en-US#footnote-intellectual-property-rights) that you have in your content. For example, you have intellectual property rights in the creative content you make, such as reviews you write. Or you may have the right to share someone else’s creative content if they’ve given you their permission.
 
-Through this license, you provide Google with permission to use your intellectual property rights in your content (such as [copyright](https://policies.google.com/terms?hl=en-US#footnote-copyright) and [trademark](https://policies.google.com/terms?hl=en-US#footnote-trademark)) and any immaterial rights in your content (such as image rights).
+We need your permission if your intellectual property rights restrict our use of your content. You provide Google with that permission through this license.
 
 ### What’s covered
 
-This license covers [your content](https://policies.google.com/terms?hl=en-US#footnote-your-content) if that content is protected by intellectual property or immaterial rights.
+This license covers [your content](https://policies.google.com/terms?hl=en-US#footnote-your-content) if that content is protected by intellectual property rights.
 
 ### What’s not covered
 
-*   This license doesn’t affect your privacy rights — it’s only about your intellectual property and immaterial rights
+*   This license doesn’t affect your privacy rights — it’s only about your intellectual property rights
 *   This license doesn’t cover these types of content:
     *   publicly-available factual information that you provide, such as corrections to the address of a local business. That information doesn’t require a license because it’s considered common knowledge that everyone’s free to use.
     *   feedback that you offer, such as suggestions to improve our services. Feedback is covered in the _[Service-related communications](https://policies.google.com/terms?hl=en-US#toc-service-related-comm)_ section below.
@@ -161,7 +157,7 @@ This license allows Google to:
 
 *   host, reproduce, distribute, communicate, and use your content — for example, to save your content on our systems and make it accessible from anywhere you go
 *   publish, publicly perform, or publicly display your content, if you’ve made it visible to others
-*   modify your content, such as reformatting or translating it
+*   modify and create derivative works based on your content, such as reformatting or translating it
 *   sublicense these rights to:
 
 *   other users to allow the services to work as designed, such as enabling you to share photos with people you choose
@@ -174,12 +170,13 @@ This license is for the limited purpose of:
 *   **operating and improving the services**, which means allowing the services to work as designed and creating new features and functionalities. This includes using automated systems and algorithms to analyze your content:
     *   for spam, malware, and illegal content
     *   to recognize patterns in data, such as determining when to suggest a new album in Google Photos to keep related photos together
-    *   to customize our services for you, such as providing recommendations and personalized search results, content, and ads (which you can change or turn off in [Ads Settings](https://adssettings.google.com/?hl=en_US))This analysis occurs as your content (as well as other content in our systems) is sent, received, and when it is stored.
+    *   to customize our services for you, such as providing recommendations and personalized search results, content, and ads (which you can change or turn off in [Ads Settings](https://adssettings.google.com/?hl=en_US))This analysis occurs as the content is sent, received, and when it is stored.
 *   **using content you’ve shared publicly to promote the services**. For example, to promote a Google app, we might quote a review you wrote. Or to promote Google Play, we might show a screenshot of the app you offer in the Play Store.
+*   **developing new technologies and services** for Google consistent with these terms
 
 ### Duration
 
-This license lasts for as long as your content is protected by intellectual property rights or immaterial rights.
+This license lasts for as long as your content is protected by intellectual property rights.
 
 If you remove from our services any content that’s covered by this license, then our systems will stop making that content publicly available in a reasonable amount of time. There are two exceptions:
 
@@ -198,15 +195,13 @@ Your Google Account
 
 You’re responsible for what you do with your Google Account, including taking reasonable steps to keep your Google Account secure, and we encourage you to regularly use the [Security Checkup](https://myaccount.google.com/security-checkup?hl=en_US).
 
-Using Google services on behalf of an organization or business
---------------------------------------------------------------
+Using Google services on behalf of an organization
+--------------------------------------------------
 
 Many [organizations](https://policies.google.com/terms?hl=en-US#footnote-organization), such as businesses, non-profits, and schools, take advantage of our [services](https://policies.google.com/terms?hl=en-US#footnote-services). To use our services on behalf of an organization:
 
 *   an authorized representative of that organization must agree to these terms
 *   your organization’s administrator may assign a Google Account to you. That administrator might require you to follow additional rules and may be able to access or disable your Google Account.
-
-If you’re based in the European Union, then these terms don’t affect the rights you may have as a [business user](https://policies.google.com/terms?hl=en-US#footnote-business-user) of online intermediation services — including online platforms such as Google Play — under the [EU Platform-to-Business Regulation](https://policies.google.com/terms?hl=en-US#footnote-eu-platform-to-business).
 
 Service-related communications
 ------------------------------
@@ -268,10 +263,17 @@ In case of problems or disagreements
 
 By law, you have the right to (1) a certain quality of service, and (2) ways to fix problems if things go wrong. These terms don’t limit or take away any of those rights. For example, if you’re a [consumer](https://policies.google.com/terms?hl=en-US#footnote-consumer), then you continue to enjoy all legal rights granted to consumers under applicable law.
 
+Warranty
+--------
+
+We provide our [services](https://policies.google.com/terms?hl=en-US#footnote-services) using reasonable skill and care. If we don’t meet the quality level described in this [warranty](https://policies.google.com/terms?hl=en-US#footnote-warranty), you agree to tell us and we’ll work with you to try to resolve the issue.
+
 Disclaimers
 -----------
 
-The only commitments we make about our [services](https://policies.google.com/terms?hl=en-US#footnote-services) (including the content in the services, the specific functions of our services, or their reliability, availability, or ability to meet your needs) are (1) stated in the [service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-US) or (2) provided under applicable laws. We don’t make any other commitments about our services.
+The only commitments we make about our [services](https://policies.google.com/terms?hl=en-US#footnote-services) (including the content in the services, the specific functions of our services, or their reliability, availability, or ability to meet your needs) are (1) described in the _[Warranty](https://policies.google.com/terms?hl=en-US#toc-warranty)_ section, (2) stated in the [service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-US), or (3) provided under applicable laws. We don’t make any other commitments about our services.
+
+And unless required by law, we don’t provide implied warranties, such as the implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
 
 Liabilities
 -----------
@@ -291,15 +293,16 @@ If you’re a [business user](https://policies.google.com/terms?hl=en-US#footnot
 
 *   loss of profits, revenues, business opportunities, goodwill, or anticipated savings
 *   indirect or consequential loss
+*   punitive damages
 
-*   Google’s total liability arising out of or relating to these terms is limited to the greater of (1) €500 or (2) 125% of the fees that you paid to use the relevant services in the 12 months before the breach
+*   Google’s total liability arising out of or relating to these terms is limited to the greater of (1) US$500 or (2) 125% of the fees that you paid to use the relevant services in the 12 months before the breach
 
 If you’re legally exempt from certain responsibilities, including [indemnification](https://policies.google.com/terms?hl=en-US#footnote-indemnify), then those responsibilities don’t apply to you under these terms. For example, the United Nations enjoys certain immunities from legal obligations and these terms don’t override those immunities.
 
 Taking action in case of problems
 ---------------------------------
 
-Before taking action as described below, we’ll provide you with advance notice when reasonably possible, describe the reason for our action, and give you an opportunity to fix the problem, unless there are objective and concrete reasons to believe that doing so would:
+Before taking action as described below, we’ll provide you with advance notice when reasonably possible, describe the reason for our action, and give you an opportunity to fix the problem, unless we reasonably believe that doing so would:
 
 *   cause harm or [liability](https://policies.google.com/terms?hl=en-US#footnote-liability) to a user, third party, or Google
 *   violate the law or a legal enforcement authority’s order
@@ -308,7 +311,7 @@ Before taking action as described below, we’ll provide you with advance notice
 
 ### Removing your content
 
-If there are objective and concrete reasons to believe that any of [your content](https://policies.google.com/terms?hl=en-US#footnote-your-content) (1) breaches these terms, [service-specific additional terms or policies](https://policies.google.com/terms/service-specific?hl=en-US), (2) violates applicable law, or (3) could harm our users, third parties, or Google, then we reserve the right to take down some or all of that content in accordance with applicable law. Examples include notably child pornography, content that facilitates human trafficking or harassment, and content that infringes someone else’s [intellectual property rights](https://policies.google.com/terms?hl=en-US#footnote-intellectual-property-rights).
+If we reasonably believe that any of [your content](https://policies.google.com/terms?hl=en-US#footnote-your-content) (1) breaches these terms, [service-specific additional terms or policies](https://policies.google.com/terms/service-specific?hl=en-US), (2) violates applicable law, or (3) could harm our users, third parties, or Google, then we reserve the right to take down some or all of that content in accordance with applicable law. Examples include child pornography, content that facilitates human trafficking or harassment, and content that infringes someone else’s [intellectual property rights](https://policies.google.com/terms?hl=en-US#footnote-intellectual-property-rights).
 
 ### Suspending or terminating your access to Google services
 
@@ -316,25 +319,20 @@ Google reserves the right to suspend or terminate your access to the services or
 
 *   you materially or repeatedly breach these terms, [service-specific additional terms or policies](https://policies.google.com/terms/service-specific?hl=en-US)
 *   we’re required to do so to comply with a legal requirement or a court order
-*   there are objective and concrete reasons to believe that your conduct causes harm or [liability](https://policies.google.com/terms?hl=en-US#footnote-liability) to a user, third party, or Google — for example, by hacking, phishing, harassing, spamming, misleading others, or scraping content that doesn’t belong to you
+*   we reasonably believe that your conduct causes harm or [liability](https://policies.google.com/terms?hl=en-US#footnote-liability) to a user, third party, or Google — for example, by hacking, phishing, harassing, spamming, misleading others, or scraping content that doesn’t belong to you
 
 If you believe your Google Account has been suspended or terminated in error, [you can appeal](https://support.google.com/accounts/answer/40695?hl=en_US).
 
 Of course, you’re always free to stop using our services at any time. If you do stop using a service, we’d [appreciate knowing why](https://www.google.com/tools/feedback?hl=en_US) so that we can continue improving our services.
-
-Handling requests for your data
--------------------------------
-
-Respect for the privacy and security of your data underpins our approach to responding to data disclosure requests. When we receive data disclosure requests, our team reviews them to make sure they satisfy legal requirements and Google’s [data disclosure policies](https://policies.google.com/terms/information-requests?hl=en-US). Google Ireland Limited accesses and discloses data, including communications, in accordance with the laws of Ireland, and EU law applicable in Ireland. For more information about the data disclosure requests that Google receives worldwide, and how we respond to such requests, see our [Transparency Report](https://transparencyreport.google.com/?hl=en_US) and [Privacy Policy](https://policies.google.com/privacy?hl=en-US).
 
 Settling disputes, governing law, and courts
 --------------------------------------------
 
 For information about how to contact Google, please visit our [contact page](https://www.google.com/contact?hl=en_US).
 
-If you’re a resident of, or an [organization](https://policies.google.com/terms?hl=en-US#footnote-organization) based in, the European Economic Area (EEA) or Switzerland, these terms and your relationship with Google under these terms and [service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-US), are governed by the laws of your country of residence, and you can file legal disputes in your local courts.
+California law will govern all disputes arising out of or relating to these terms, [service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-US), or any related [services](https://policies.google.com/terms?hl=en-US#footnote-services), regardless of conflict of laws rules. These disputes will be resolved exclusively in the federal or state courts of Santa Clara County, California, USA, and you and Google consent to personal jurisdiction in those courts.
 
-If you’re a [consumer](https://policies.google.com/terms?hl=en-US#footnote-consumer) living in the EEA, you may also file disputes regarding online purchases using the European Commission’s [Online Dispute Resolution](https://ec.europa.eu/consumers/odr/main/index.cfm) platform, which we accept if required by law.
+To the extent that applicable local law prevents certain disputes from being resolved in a California court, then you can file those disputes in your local courts. Likewise, if applicable local law prevents your local court from applying California law to resolve these disputes, then these disputes will be governed by the applicable local laws of your country, state, or other place of residence.
 
 ![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMzIwIDE4MCI+PGRlZnM+PHN0eWxlPi5jbHMtMSwuY2xzLTE1LC5jbHMtMjcsLmNscy0yOCwuY2xzLTI5LC5jbHMtMzAsLmNscy0zMSwuY2xzLTMyLC5jbHMtMzQsLmNscy0zNiwuY2xzLTM3LC5jbHMtMzgsLmNscy0zOSwuY2xzLTQ2LC5jbHMtNDcsLmNscy00OCwuY2xzLTUzLC5jbHMtNTQsLmNscy01NSwuY2xzLTU3LC5jbHMtNTgsLmNscy02LC5jbHMtNjIsLmNscy03LC5jbHMtOCwuY2xzLTl7ZmlsbDpub25lO30uY2xzLTJ7aXNvbGF0aW9uOmlzb2xhdGU7fS5jbHMtM3tmaWxsOiNmOGY5ZmE7fS5jbHMtMzYsLmNscy0zNywuY2xzLTM4LC5jbHMtMzksLmNscy00LC5jbHMtNDYsLmNscy00NywuY2xzLTQ4LC5jbHMtNTQsLmNscy01OCwuY2xzLTYsLmNscy03LC5jbHMtOCwuY2xzLTl7b3BhY2l0eTowLjE7fS5jbHMtNXtmaWxsOiNlYTQzMzU7fS5jbHMtMzAsLmNscy02LC5jbHMtNywuY2xzLTgsLmNscy05e3N0cm9rZTojZWE0MzM1O30uY2xzLTE1LC5jbHMtMjcsLmNscy0yOCwuY2xzLTI5LC5jbHMtMzAsLmNscy0zMSwuY2xzLTMyLC5jbHMtMzQsLmNscy0zNiwuY2xzLTM3LC5jbHMtMzgsLmNscy0zOSwuY2xzLTQ2LC5jbHMtNDcsLmNscy00OCwuY2xzLTUzLC5jbHMtNTQsLmNscy01NSwuY2xzLTU3LC5jbHMtNTgsLmNscy02LC5jbHMtNjIsLmNscy03LC5jbHMtOCwuY2xzLTl7c3Ryb2tlLWxpbmVjYXA6cm91bmQ7fS5jbHMtMTUsLmNscy0yNywuY2xzLTI4LC5jbHMtMzYsLmNscy0zNywuY2xzLTM4LC5jbHMtMzksLmNscy00NiwuY2xzLTQ3LC5jbHMtNDgsLmNscy01MywuY2xzLTU0LC5jbHMtNTUsLmNscy01NywuY2xzLTU4LC5jbHMtNiwuY2xzLTcsLmNscy04LC5jbHMtOXtzdHJva2UtbGluZWpvaW46cm91bmQ7fS5jbHMtMzYsLmNscy0zOSwuY2xzLTQ2LC5jbHMtNiwuY2xzLTl7c3Ryb2tlLXdpZHRoOjEuNDZweDt9LmNscy0zNywuY2xzLTM4LC5jbHMtNDcsLmNscy00OCwuY2xzLTcsLmNscy04e3N0cm9rZS13aWR0aDowLjczcHg7fS5jbHMtMTYsLmNscy0zNywuY2xzLTM5LC5jbHMtNDIsLmNscy00MywuY2xzLTQ2LC5jbHMtNDgsLmNscy01MCwuY2xzLTgsLmNscy05e21peC1ibGVuZC1tb2RlOm11bHRpcGx5O30uY2xzLTEwLC5jbHMtNDF7b3BhY2l0eTowLjg7fS5jbHMtMTF7ZmlsbDpzaWx2ZXI7fS5jbHMtMTIsLmNscy0zM3tmaWxsOiNmZmY7fS5jbHMtMTMsLmNscy0xNiwuY2xzLTcwLC5jbHMtNzF7b3BhY2l0eTowLjU7fS5jbHMtMTN7ZmlsbDp1cmwoI2xpbmVhci1ncmFkaWVudCk7fS5jbHMtMTR7ZmlsbDojZWEzZjMyO30uY2xzLTE1LC5jbHMtMzR7c3Ryb2tlOiNmZmY7fS5jbHMtMTV7c3Ryb2tlLXdpZHRoOjAuNjhweDt9LmNscy0xNntmaWxsOnVybCgjbGluZWFyLWdyYWRpZW50LTIpO30uY2xzLTE3e2ZpbGw6dXJsKCNsaW5lYXItZ3JhZGllbnQtMyk7fS5jbHMtMTh7ZmlsbDp1cmwoI2xpbmVhci1ncmFkaWVudC00KTt9LmNscy0xOXtmaWxsOnVybCgjbGluZWFyLWdyYWRpZW50LTUpO30uY2xzLTIwe2ZpbGw6dXJsKCNsaW5lYXItZ3JhZGllbnQtNik7fS5jbHMtMjF7ZmlsbDojZThlYWVkO30uY2xzLTIye2ZpbGw6I2JkYzFjNjt9LmNscy0yM3tvcGFjaXR5OjAuMjtmaWxsOnVybCgjbGluZWFyLWdyYWRpZW50LTcpO30uY2xzLTI0e2ZpbGw6dXJsKCNsaW5lYXItZ3JhZGllbnQtOCk7fS5jbHMtMjV7ZmlsbDp1cmwoI2xpbmVhci1ncmFkaWVudC05KTt9LmNscy0yNntmaWxsOnVybCgjbGluZWFyLWdyYWRpZW50LTEwKTt9LmNscy0yNywuY2xzLTI4e3N0cm9rZTpzaWx2ZXI7fS5jbHMtMjd7c3Ryb2tlLXdpZHRoOjJweDt9LmNscy0yOXtzdHJva2U6IzQyODVmNDt9LmNscy0yOSwuY2xzLTMwLC5jbHMtMzEsLmNscy0zMiwuY2xzLTM0LC5jbHMtNjJ7c3Ryb2tlLW1pdGVybGltaXQ6MTA7fS5jbHMtMjksLmNscy0zMCwuY2xzLTMxLC5jbHMtMzJ7c3Ryb2tlLXdpZHRoOjVweDt9LmNscy0zMSwuY2xzLTM2LC5jbHMtMzcsLmNscy0zOCwuY2xzLTM5e3N0cm9rZTojMzRhODUzO30uY2xzLTMye3N0cm9rZTojZmJiYzA0O30uY2xzLTMze29wYWNpdHk6MC40O30uY2xzLTM0e3N0cm9rZS13aWR0aDowLjhweDtzdHJva2UtZGFzaGFycmF5OjUgMzt9LmNscy0zNSwuY2xzLTQxe2ZpbGw6IzM0YTg1Mzt9LmNscy00MHtmaWxsOnVybCgjbGluZWFyLWdyYWRpZW50LTExKTt9LmNscy00MntvcGFjaXR5OjAuMztmaWxsOnVybCgjbGluZWFyLWdyYWRpZW50LTEyKTt9LmNscy00M3tmaWxsOnVybCgjbGluZWFyLWdyYWRpZW50LTEzKTt9LmNscy00NHtjbGlwLXBhdGg6dXJsKCNjbGlwLXBhdGgpO30uY2xzLTQ1e2ZpbGw6IzQyODVmNDt9LmNscy00NiwuY2xzLTQ3LC5jbHMtNDh7c3Ryb2tlOiMyMTk2ZjM7fS5jbHMtNDl7ZmlsbDp1cmwoI2xpbmVhci1ncmFkaWVudC0xNCk7fS5jbHMtNTB7ZmlsbDp1cmwoI2xpbmVhci1ncmFkaWVudC0xNSk7fS5jbHMtNTF7ZmlsbDojMWQ2YmRkO30uY2xzLTUye2ZpbGw6dXJsKCNyYWRpYWwtZ3JhZGllbnQpO30uY2xzLTUzLC5jbHMtNTd7c3Ryb2tlOiNkOWRjZTA7fS5jbHMtNTMsLmNscy01NHtzdHJva2Utd2lkdGg6MS4wMXB4O30uY2xzLTU0LC5jbHMtNTh7c3Ryb2tlOiM1ZjYzNjg7fS5jbHMtNTR7c3Ryb2tlLWRhc2hhcnJheToyLjAxIDQuMDM7fS5jbHMtNTV7c3Ryb2tlOiNlOGVhZWQ7fS5jbHMtNTZ7ZmlsbDp1cmwoI2xpbmVhci1ncmFkaWVudC0xNik7fS5jbHMtNTh7c3Ryb2tlLWRhc2hhcnJheToyIDQ7fS5jbHMtNTl7ZmlsbDojZTllYWVkO30uY2xzLTYwe2ZpbGw6I2RhZGNlMDt9LmNscy02MXtmaWxsOnVybCgjbGluZWFyLWdyYWRpZW50LTE3KTt9LmNscy02MntzdHJva2U6I2VkODkwMDt9LmNscy02M3tmaWxsOiNkOWRjZTA7fS5jbHMtNjQsLmNscy02NSwuY2xzLTY2e29wYWNpdHk6MC43O30uY2xzLTY0e2ZpbGw6dXJsKCNsaW5lYXItZ3JhZGllbnQtMTgpO30uY2xzLTY1e2ZpbGw6dXJsKCNsaW5lYXItZ3JhZGllbnQtMTkpO30uY2xzLTY3e2ZpbGw6dXJsKCNsaW5lYXItZ3JhZGllbnQtMjApO30uY2xzLTY4e2ZpbGw6dXJsKCNsaW5lYXItZ3JhZGllbnQtMjEpO30uY2xzLTY5e2ZpbGw6dXJsKCNsaW5lYXItZ3JhZGllbnQtMjIpO30uY2xzLTcwe2ZpbGw6dXJsKCNsaW5lYXItZ3JhZGllbnQtMjMpO30uY2xzLTcxe2ZpbGw6dXJsKCNsaW5lYXItZ3JhZGllbnQtMjQpO308L3N0eWxlPjxsaW5lYXJHcmFkaWVudCBpZD0ibGluZWFyLWdyYWRpZW50IiB4MT0iOTQxLjA1IiB5MT0iNjE5LjMzIiB4Mj0iOTQxLjA1IiB5Mj0iNjE2LjI5IiBncmFkaWVudFRyYW5zZm9ybT0idHJhbnNsYXRlKC01ODIuMTcgLTYyOC4zOCkgcm90YXRlKDcuMTQpIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+PHN0b3Agb2Zmc2V0PSIwLjA4IiBzdG9wLWNvbG9yPSIjZThlYWVkIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjYzhjYmQwIi8+PC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9ImxpbmVhci1ncmFkaWVudC0yIiB4MT0iOTM2LjkyIiB5MT0iNjEwLjQ0IiB4Mj0iOTQ1LjMyIiB5Mj0iNjEwLjQ0IiBncmFkaWVudFRyYW5zZm9ybT0idHJhbnNsYXRlKC02NjUuMzggLTUxNi4wOSkiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiNmMjk5MDAiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNmMjk5MDAiIHN0b3Atb3BhY2l0eT0iMCIvPjwvbGluZWFyR3JhZGllbnQ+PGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQtMyIgeDE9IjMxNS4yNyIgeTE9IjgzLjQ5IiB4Mj0iMjc0LjU3IiB5Mj0iMTE4LjY5IiBncmFkaWVudFRyYW5zZm9ybT0idHJhbnNsYXRlKDM1Ni45NCAtMTc1LjMyKSByb3RhdGUoODIuNikiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiNmZmYiLz48c3RvcCBvZmZzZXQ9IjAuNzgiIHN0b3AtY29sb3I9IiNmZmYiIHN0b3Atb3BhY2l0eT0iMCIvPjwvbGluZWFyR3JhZGllbnQ+PGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQtNCIgeDE9IjE3MC40OSIgeTE9IjEzNC4yNSIgeDI9IjEzOS43IiB5Mj0iMTM0LjI1IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjOWFhMGE2Ii8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjOWFhMGE2IiBzdG9wLW9wYWNpdHk9IjAiLz48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0ibGluZWFyLWdyYWRpZW50LTUiIHgxPSIxODYuNjYiIHkxPSIxNDEuOTMiIHgyPSIxNTguNCIgeTI9IjE0MS45MyIgeGxpbms6aHJlZj0iI2xpbmVhci1ncmFkaWVudC00Ii8+PGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQtNiIgeDE9IjIyNC45IiB5MT0iMTU1LjQyIiB4Mj0iMTkwLjMxIiB5Mj0iMTU1LjQyIiB4bGluazpocmVmPSIjbGluZWFyLWdyYWRpZW50LTQiLz48bGluZWFyR3JhZGllbnQgaWQ9ImxpbmVhci1ncmFkaWVudC03IiB4MT0iMjMyLjMxIiB5MT0iMTcwLjciIHgyPSIyMzIuMzEiIHkyPSIxMzkuMDEiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiM5YWEwYTYiLz48c3RvcCBvZmZzZXQ9IjAuMTUiIHN0b3AtY29sb3I9IiM5YWEwYTYiIHN0b3Atb3BhY2l0eT0iMC45NyIvPjxzdG9wIG9mZnNldD0iMC4zMSIgc3RvcC1jb2xvcj0iIzlhYTBhNiIgc3RvcC1vcGFjaXR5PSIwLjkiLz48c3RvcCBvZmZzZXQ9IjAuNDYiIHN0b3AtY29sb3I9IiM5YWEwYTYiIHN0b3Atb3BhY2l0eT0iMC43NyIvPjxzdG9wIG9mZnNldD0iMC42MiIgc3RvcC1jb2xvcj0iIzlhYTBhNiIgc3RvcC1vcGFjaXR5PSIwLjYiLz48c3RvcCBvZmZzZXQ9IjAuNzkiIHN0b3AtY29sb3I9IiM5YWEwYTYiIHN0b3Atb3BhY2l0eT0iMC4zNyIvPjxzdG9wIG9mZnNldD0iMC45NSIgc3RvcC1jb2xvcj0iIzlhYTBhNiIgc3RvcC1vcGFjaXR5PSIwLjEiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiM5YWEwYTYiIHN0b3Atb3BhY2l0eT0iMCIvPjwvbGluZWFyR3JhZGllbnQ+PGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQtOCIgeDE9IjIxNi40MiIgeTE9IjEwNy45MyIgeDI9IjE5NS4xMyIgeTI9IjEwNy45MyIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzlhYTBhNiIvPjxzdG9wIG9mZnNldD0iMC4zMyIgc3RvcC1jb2xvcj0iIzllYTRhYSIvPjxzdG9wIG9mZnNldD0iMC42OCIgc3RvcC1jb2xvcj0iI2FiYjBiNSIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI2JkYzFjNiIvPjwvbGluZWFyR3JhZGllbnQ+PGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQtOSIgeDE9IjIxNi40MiIgeTE9IjY3LjkiIHgyPSIxOTUuMTMiIHkyPSI2Ny45IiB4bGluazpocmVmPSIjbGluZWFyLWdyYWRpZW50LTgiLz48bGluZWFyR3JhZGllbnQgaWQ9ImxpbmVhci1ncmFkaWVudC0xMCIgeDE9IjI0Ny42NyIgeTE9IjE2My4yMyIgeDI9IjI0Ny42NyIgeTI9IjE0OS40OCIgeGxpbms6aHJlZj0iI2xpbmVhci1ncmFkaWVudC04Ii8+PGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQtMTEiIHgxPSIxNzUuNzIiIHkxPSI4Ni41NCIgeDI9IjE1MC43OCIgeTI9IjEwNy44MSIgZ3JhZGllbnRUcmFuc2Zvcm09InRyYW5zbGF0ZSgyMzguMDYgLTQxLjEyKSByb3RhdGUoODIuNikiIHhsaW5rOmhyZWY9IiNsaW5lYXItZ3JhZGllbnQtMyIvPjxsaW5lYXJHcmFkaWVudCBpZD0ibGluZWFyLWdyYWRpZW50LTEyIiB4MT0iODE0LjYyIiB5MT0iNTk5LjEyIiB4Mj0iODE0LjYyIiB5Mj0iNjA0LjAxIiBncmFkaWVudFRyYW5zZm9ybT0idHJhbnNsYXRlKC01OTYuNzYgLTU5Ny45Mykgcm90YXRlKDcuMSkiIHhsaW5rOmhyZWY9IiNsaW5lYXItZ3JhZGllbnQiLz48bGluZWFyR3JhZGllbnQgaWQ9ImxpbmVhci1ncmFkaWVudC0xMyIgeDE9IjE2OS45NCIgeTE9IjkwIiB4Mj0iMTYwLjgyIiB5Mj0iOTguOCIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzM0YTg1MyIgc3RvcC1vcGFjaXR5PSIwLjQiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMzNGE4NTMiIHN0b3Atb3BhY2l0eT0iMCIvPjwvbGluZWFyR3JhZGllbnQ+PGNsaXBQYXRoIGlkPSJjbGlwLXBhdGgiPjxyZWN0IGNsYXNzPSJjbHMtMSIgeD0iMTU2LjU4IiB5PSI3Ny4yMyIgd2lkdGg9IjUwLjY5IiBoZWlnaHQ9Ijc4LjYzIi8+PC9jbGlwUGF0aD48bGluZWFyR3JhZGllbnQgaWQ9ImxpbmVhci1ncmFkaWVudC0xNCIgeDE9IjIxMC40NSIgeTE9IjY4LjcxIiB4Mj0iMTg0LjA0IiB5Mj0iMTE1LjI4IiBncmFkaWVudFRyYW5zZm9ybT0idHJhbnNsYXRlKDE5LjIgLTI1Ljg1KSByb3RhdGUoOC41KSIgeGxpbms6aHJlZj0iI2xpbmVhci1ncmFkaWVudC0zIi8+PGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQtMTUiIHgxPSIyNDIuOCIgeTE9IjEwNC4wNyIgeDI9IjE4Mi45MSIgeTI9IjEyOS40OSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzQyODVmNCIgc3RvcC1vcGFjaXR5PSIwLjQiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiM0Mjg1ZjQiIHN0b3Atb3BhY2l0eT0iMCIvPjwvbGluZWFyR3JhZGllbnQ+PHJhZGlhbEdyYWRpZW50IGlkPSJyYWRpYWwtZ3JhZGllbnQiIGN4PSItODQyLjAyIiBjeT0iLTIyMDYuMDEiIHI9IjE3LjYiIGdyYWRpZW50VHJhbnNmb3JtPSJtYXRyaXgoMC45OSwgLTAuMTUsIC0wLjE1LCAtMC45OSwgNjY0LjQ3LCAtMjIxMi4xMikiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiNmZmYiIHN0b3Atb3BhY2l0eT0iMC4xIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjZmZmIiBzdG9wLW9wYWNpdHk9IjAiLz48L3JhZGlhbEdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0ibGluZWFyLWdyYWRpZW50LTE2IiB4MT0iNzkuMDUiIHkxPSIxNTQuNDgiIHgyPSIyOC4zMyIgeTI9IjE1NC40OCIgeGxpbms6aHJlZj0iI2xpbmVhci1ncmFkaWVudC00Ii8+PGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQtMTciIHgxPSI3Ny41IiB5MT0iNDguMTkiIHgyPSI3Ny41IiB5Mj0iMTYuNjYiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiNmNDkxMDIiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNmYWI3MDQiLz48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0ibGluZWFyLWdyYWRpZW50LTE4IiB4MT0iMTU1LjYxIiB5MT0iODkuNzkiIHgyPSI2OS44MiIgeTI9IjE0Mi40MSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIG9mZnNldD0iMC4yMiIgc3RvcC1jb2xvcj0iIzlhYTBhNiIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzlhYTBhNiIgc3RvcC1vcGFjaXR5PSIwIi8+PC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9ImxpbmVhci1ncmFkaWVudC0xOSIgeDE9IjE2MC4zIiB5MT0iOTguODgiIHgyPSI3NS4zMSIgeTI9IjE1MS4wMSIgeGxpbms6aHJlZj0iI2xpbmVhci1ncmFkaWVudC0xOCIvPjxsaW5lYXJHcmFkaWVudCBpZD0ibGluZWFyLWdyYWRpZW50LTIwIiB4MT0iMTA0LjU1IiB5MT0iMzMuODMiIHgyPSI0My4yMyIgeTI9IjYzLjExIiB4bGluazpocmVmPSIjbGluZWFyLWdyYWRpZW50LTE4Ii8+PGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQtMjEiIHgxPSIxMDcuNzgiIHkxPSI0MC4zMiIgeDI9IjQ2LjQ2IiB5Mj0iNjkuNjEiIHhsaW5rOmhyZWY9IiNsaW5lYXItZ3JhZGllbnQtMTgiLz48bGluZWFyR3JhZGllbnQgaWQ9ImxpbmVhci1ncmFkaWVudC0yMiIgeDE9IjExMSIgeTE9IjQ2LjgyIiB4Mj0iNDkuNjgiIHkyPSI3Ni4xMSIgeGxpbms6aHJlZj0iI2xpbmVhci1ncmFkaWVudC0xOCIvPjxsaW5lYXJHcmFkaWVudCBpZD0ibGluZWFyLWdyYWRpZW50LTIzIiB4MT0iMjkxLjkiIHkxPSI3OC4zNSIgeDI9IjE2Ny41MyIgeTI9IjEyNi45IiB4bGluazpocmVmPSIjbGluZWFyLWdyYWRpZW50LTQiLz48bGluZWFyR3JhZGllbnQgaWQ9ImxpbmVhci1ncmFkaWVudC0yNCIgeDE9Ijg0LjAzIiB5MT0iMTM4LjMxIiB4Mj0iMjQ4LjMiIHkyPSI5NS4wOCIgZ3JhZGllbnRUcmFuc2Zvcm09InRyYW5zbGF0ZSg3LjggLTE1LjA2KSByb3RhdGUoNC4wNCkiIHhsaW5rOmhyZWY9IiNsaW5lYXItZ3JhZGllbnQtNCIvPjwvZGVmcz48dGl0bGU+MTIuIEFib3V0IHRoZXNlIHRlcm1zPC90aXRsZT48ZyBjbGFzcz0iY2xzLTIiPjxnIGlkPSJUaXRsZXMiPjxyZWN0IGNsYXNzPSJjbHMtMyIgeD0iMjQ5Ljg5IiB5PSI5Ny45OSIgd2lkdGg9IjU2LjczIiBoZWlnaHQ9IjM1LjAyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxMjcuODYgMzc2LjU1KSByb3RhdGUoLTgyLjYpIi8+PGcgY2xhc3M9ImNscy00Ij48cmVjdCBjbGFzcz0iY2xzLTUiIHg9IjI0OS44OSIgeT0iOTcuOTkiIHdpZHRoPSI1Ni43MyIgaGVpZ2h0PSIzNS4wMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTI3Ljg2IDM3Ni41NSkgcm90YXRlKC04Mi42KSIvPjwvZz48bGluZSBjbGFzcz0iY2xzLTYiIHgxPSIyODUuMjQiIHkxPSI5NS4zNiIgeDI9IjI5Mi4xOCIgeTI9Ijk2LjI2Ii8+PGxpbmUgY2xhc3M9ImNscy03IiB4MT0iMjgzLjg4IiB5MT0iMTA1Ljg1IiB4Mj0iMjkwLjgyIiB5Mj0iMTA2Ljc2Ii8+PGxpbmUgY2xhc3M9ImNscy04IiB4MT0iMjY4LjQiIHkxPSIxMDkuMTgiIHgyPSIyOTAuMTQiIHkyPSIxMTIiLz48bGluZSBjbGFzcz0iY2xzLTciIHgxPSIyNjcuNzIiIHkxPSIxMTQuNDMiIHgyPSIyODkuNDUiIHkyPSIxMTcuMjUiLz48bGluZSBjbGFzcz0iY2xzLTgiIHgxPSIyNjcuMDQiIHkxPSIxMTkuNjciIHgyPSIyODguNzciIHkyPSIxMjIuNSIvPjxsaW5lIGNsYXNzPSJjbHMtOCIgeDE9IjI2Ni4zNiIgeTE9IjEyNC44NyIgeDI9IjI4OC4xIiB5Mj0iMTI3LjY5Ii8+PGxpbmUgY2xhc3M9ImNscy05IiB4MT0iMjc4LjU5IiB5MT0iMTMxLjgiIHgyPSIyODcuNDIiIHkyPSIxMzIuOTQiLz48ZyBjbGFzcz0iY2xzLTEwIj48cGF0aCBjbGFzcz0iY2xzLTExIiBkPSJNMjY5LjgzLDk2LjQzbDQuMTUsNC44OGExLjMsMS4zLDAsMCwwLDEuNzUuMjJsNS4yMi0zLjdaIi8+PHBhdGggY2xhc3M9ImNscy0xMiIgZD0iTTI3NS43MywxMDEuNTNhMS4zLDEuMywwLDAsMS0xLjc1LS4yMmwtNC4xNS00Ljg4LTEsOC4zNCwxMS4xMiwxLjQsMS04LjM0WiIvPjxwYXRoIGNsYXNzPSJjbHMtMTIiIGQ9Ik0yNzUuNzMsMTAxLjUzYTEuMywxLjMsMCwwLDEtMS43NS0uMjJsLS4xMi0uMTQtNS4wNywzLjYsMTEuMTIsMS40LTQtNC43NFoiLz48cGF0aCBjbGFzcz0iY2xzLTEzIiBkPSJNMjc1LjY2LDEwMS41M2ExLjMxLDEuMzEsMCwwLDEtMS43Ni0uMjJsLS4xMi0uMTQtNS4wNywzLjYsMTEuMTIsMS40LTQtNC43NFoiLz48cGF0aCBjbGFzcz0iY2xzLTE0IiBkPSJNMjgwLDk0LjI4bC04LjM0LTEtLjQyLDMuMzgtLjE2LDEuMjcsMi45MiwzLjQzYTEuMywxLjMsMCwwLDAsMS43NS4yMmwzLjY3LTIuNi4xNi0xLjI4WiIvPjxwYXRoIGNsYXNzPSJjbHMtMTUiIGQ9Ik0yNzUuMTksOTkuMTJoMGExLjA2LDEuMDYsMCwwLDEtLjkxLTEuMThoMGExLjA3LDEuMDcsMCwwLDEsMS40My0uODVsLjI4LjExLS4xOCwxLjQ0QS41NS41NSwwLDAsMSwyNzUuMTksOTkuMTJaIi8+PHBhdGggY2xhc3M9ImNscy0xNSIgZD0iTTI3NS44NCw5OC4zOWEuOC44LDAsMCwwLC42OS45LjgyLjgyLDAsMCwwLC45LS43bDAtLjIiLz48cGF0aCBjbGFzcz0iY2xzLTE1IiBkPSJNMjc1LDEwMC4zMWEyLjIsMi4yLDAsMSwxLC41NS00LjM3LDIuMTksMi4xOSwwLDAsMSwxLjkxLDIuNDUiLz48cmVjdCBjbGFzcz0iY2xzLTE2IiB4PSIyNzEuNTQiIHk9IjkzLjc1IiB3aWR0aD0iOC40MSIgaGVpZ2h0PSIxLjIiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEzLjg3IC0zMy41NSkgcm90YXRlKDcuMTQpIi8+PC9nPjxyZWN0IGNsYXNzPSJjbHMtMTciIHg9IjI0OS44OSIgeT0iOTcuOTkiIHdpZHRoPSI1Ni43MyIgaGVpZ2h0PSIzNS4wMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTI3Ljg2IDM3Ni41NSkgcm90YXRlKC04Mi42KSIvPjxyZWN0IGNsYXNzPSJjbHMtMTgiIHg9IjEzOC44IiB5PSIxMzIuMDciIHdpZHRoPSIzMi40NCIgaGVpZ2h0PSI0LjM2Ii8+PHJlY3QgY2xhc3M9ImNscy0xOSIgeD0iMTU2LjI0IiB5PSIxMzkuNzYiIHdpZHRoPSIzMi40NCIgaGVpZ2h0PSI0LjM2Ii8+PHJlY3QgY2xhc3M9ImNscy0yMCIgeD0iMTg0LjY1IiB5PSIxNTMuMjQiIHdpZHRoPSIzMi40NCIgaGVpZ2h0PSI0LjM2Ii8+PHBvbHlnb24gY2xhc3M9ImNscy0yMSIgcG9pbnRzPSIxNzAuOTggMTI4Ljc1IDE5NC4wMiAxMjguNzUgMTk0LjAyIDE0NC4xMSAxNzguNjYgMTM2LjQzIDE3MC45OCAxMjguNzUiLz48cG9seWdvbiBjbGFzcz0iY2xzLTIyIiBwb2ludHM9IjIwOS40MSAxMzYuNDMgMjE3LjA5IDE0NC4xMSAxODYuMzYgMTQ0LjExIDE5NC4wNCAxMzYuNDMgMTk0LjA0IDcxLjczIDIwOS40MSA3MS43MyAyMDkuNDEgMTM2LjQzIi8+PGNpcmNsZSBjbGFzcz0iY2xzLTIxIiBjeD0iMjU1LjIxIiBjeT0iNzEuNzMiIHI9IjcuNjgiLz48Y2lyY2xlIGNsYXNzPSJjbHMtMjEiIGN4PSIyMTcuMDkiIGN5PSIxNDkuOTIiIHI9IjcuNjgiLz48cG9seWxpbmUgY2xhc3M9ImNscy0yMSIgcG9pbnRzPSIyNjIuODkgMTQ5LjkyIDI2Mi44OSA3MS43MyAyNTUuMjEgNjQuMDUgMjAxLjcyIDY0LjA1IDIwOS40MSA3MS43MyAyMDkuNDEgMTQ5LjkyIDIxNy4wOSAxNTcuNiAyNTIuNzkgMTU3LjYiLz48cGF0aCBjbGFzcz0iY2xzLTIzIiBkPSJNMjU1LjIxLDY0LjA1SDIwMS43Mmw3LjY5LDcuNjh2NzguMTlhNy42OCw3LjY4LDAsMCwwLDcuNjgsNy42OGgzNS43bDEwLjEtNy42OFY3MS43M0E3LjY4LDcuNjgsMCwwLDAsMjU1LjIxLDY0LjA1WiIvPjxwb2x5Z29uIGNsYXNzPSJjbHMtMjQiIHBvaW50cz0iMjA5LjM5IDEzNi40NCAyMDkuMzkgMTQ0LjEyIDE4Ni4zNCAxNDQuMTIgMTk0LjAzIDEzNi40NCAxOTQuMDMgNzEuNzQgMjA5LjM5IDcxLjc0IDIwOS4zOSAxMzYuNDQiLz48cGF0aCBjbGFzcz0iY2xzLTI1IiBkPSJNMTk0LDcxLjc0YTcuNjgsNy42OCwwLDEsMSwxNS4zNiwwIi8+PHBhdGggY2xhc3M9ImNscy0yMSIgZD0iTTE5NCwxMzYuNDNhNy42OCw3LjY4LDAsMCwxLTE1LjM2LDAiLz48cGF0aCBjbGFzcz0iY2xzLTIyIiBkPSJNMTYzLjI5LDEzNi40M2E3LjY5LDcuNjksMCwwLDEsMTUuMzcsMCIvPjxwYXRoIGNsYXNzPSJjbHMtMjIiIGQ9Ik0yMTcuMDksMTU3LjZhNy42OCw3LjY4LDAsMCwwLDcuNjgtNy42OGg0NS44MXY3LjY4WiIvPjxwYXRoIGNsYXNzPSJjbHMtMjIiIGQ9Ik0yNzguMjYsMTQ5LjkyYTcuNjksNy42OSwwLDAsMS0xNS4zNywwIi8+PHBhdGggY2xhc3M9ImNscy0yNiIgZD0iTTI3MC41OCwxNDkuOTJIMjI0Ljc3YTcuNjgsNy42OCwwLDAsMS03LjY4LDcuNjhoNTMuNDlhNy42OCw3LjY4LDAsMCwwLDcuNjgtNy42OFoiLz48bGluZSBjbGFzcz0iY2xzLTI3IiB4MT0iMjI2LjY1IiB5MT0iNzYuNTYiIHgyPSIyNDYuODgiIHkyPSI3Ni41NiIvPjxsaW5lIGNsYXNzPSJjbHMtMjgiIHgxPSIyMjAiIHkxPSIxMDAuODYiIHgyPSIyNTMuNTQiIHkyPSIxMDAuODYiLz48bGluZSBjbGFzcz0iY2xzLTI4IiB4MT0iMjIwIiB5MT0iMTI1LjA3IiB4Mj0iMjUzLjU0IiB5Mj0iMTI1LjA3Ii8+PGxpbmUgY2xhc3M9ImNscy0yOCIgeDE9IjIyMCIgeTE9IjEzMy4xNyIgeDI9IjI1My41NCIgeTI9IjEzMy4xNyIvPjxsaW5lIGNsYXNzPSJjbHMtMjciIHgxPSIyMzYuNzciIHkxPSIxNDEuMjQiIHgyPSIyNTMuNTQiIHkyPSIxNDEuMjQiLz48bGluZSBjbGFzcz0iY2xzLTI5IiB4MT0iMjI2LjE4IiB5MT0iODguMzIiIHgyPSIyMjYuMTgiIHkyPSI4OC4zMiIvPjxsaW5lIGNsYXNzPSJjbHMtMzAiIHgxPSIyNDcuMzYiIHkxPSI4OC4zMiIgeDI9IjI0Ny4zNiIgeTI9Ijg4LjMyIi8+PGxpbmUgY2xhc3M9ImNscy0zMSIgeDE9IjIzMy4yNCIgeTE9Ijg4LjMyIiB4Mj0iMjMzLjI0IiB5Mj0iODguMzIiLz48bGluZSBjbGFzcz0iY2xzLTMyIiB4MT0iMjQwLjMiIHkxPSI4OC4zMiIgeDI9IjI0MC4zIiB5Mj0iODguMzIiLz48cmVjdCBjbGFzcz0iY2xzLTMzIiB4PSIyMTQuNTEiIHk9IjEwNS42NCIgd2lkdGg9IjQ0LjI3IiBoZWlnaHQ9IjE0Ljc2Ii8+PHJlY3QgY2xhc3M9ImNscy0zNCIgeD0iMjE0Ljk2IiB5PSIxMDYuMDEiIHdpZHRoPSI0My40NSIgaGVpZ2h0PSIxNC4wMSIvPjxyZWN0IGNsYXNzPSJjbHMtMyIgeD0iMTE0LjA3IiB5PSI5Ny40MyIgd2lkdGg9IjU2LjczIiBoZWlnaHQ9IjM1LjAyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxMC4xIDI0MS4zNykgcm90YXRlKC04Mi42KSIvPjxnIGNsYXNzPSJjbHMtNCI+PHJlY3QgY2xhc3M9ImNscy0zNSIgeD0iMTE0LjA3IiB5PSI5Ny40MyIgd2lkdGg9IjU2LjczIiBoZWlnaHQ9IjM1LjAyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxMC4xIDI0MS4zNykgcm90YXRlKC04Mi42KSIvPjwvZz48bGluZSBjbGFzcz0iY2xzLTM2IiB4MT0iMTQ5LjQyIiB5MT0iOTQuOCIgeDI9IjE1Ni4zNiIgeTI9Ijk1LjciLz48bGluZSBjbGFzcz0iY2xzLTM3IiB4MT0iMTMzLjM3IiB5MT0iMTAzLjM4IiB4Mj0iMTU0Ljk5IiB5Mj0iMTA2LjE5Ii8+PGxpbmUgY2xhc3M9ImNscy0zNyIgeDE9IjEzMi41OCIgeTE9IjEwOC42MiIgeDI9IjE1NC4zMSIgeTI9IjExMS40NCIvPjxsaW5lIGNsYXNzPSJjbHMtMzciIHgxPSIxMzEuOSIgeTE9IjExMy44NiIgeDI9IjE1My42MyIgeTI9IjExNi42OSIvPjxsaW5lIGNsYXNzPSJjbHMtMzgiIHgxPSIxMzEuMjEiIHkxPSIxMTkuMTEiIHgyPSIxNTIuOTUiIHkyPSIxMjEuOTQiLz48bGluZSBjbGFzcz0iY2xzLTM3IiB4MT0iMTMwLjU0IiB5MT0iMTI0LjMxIiB4Mj0iMTUyLjI3IiB5Mj0iMTI3LjEzIi8+PGxpbmUgY2xhc3M9ImNscy0zOSIgeDE9IjE0My40NCIgeTE9IjEzMS4zMiIgeDI9IjE1MS41OSIgeTI9IjEzMi4zOCIvPjxyZWN0IGNsYXNzPSJjbHMtNDAiIHg9IjExNC4wNyIgeT0iOTcuNDMiIHdpZHRoPSI1Ni43MyIgaGVpZ2h0PSIzNS4wMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTAuMSAyNDEuMzcpIHJvdGF0ZSgtODIuNikiLz48cGF0aCBjbGFzcz0iY2xzLTQxIiBkPSJNMTQzLDkzLjEybC01LjU3LS43YTMuNTEsMy41MSwwLDAsMC0uODcsN2wyLjA5LjI2LDIuNDQsMy4xMy4zNC0yLjc4LjcuMDlhMy41MSwzLjUxLDAsMCwwLC44Ny03WiIvPjxnIGNsYXNzPSJjbHMtMTAiPjxwYXRoIGNsYXNzPSJjbHMtNDIiIGQ9Ik0xMzkuNDIsOTlsLTIuMDgtLjI2YTMuNSwzLjUsMCwwLDEtMi4wOS01LjkxLDMuNSwzLjUsMCwwLDAsMS4zLDYuNTJsMi4wOS4yNiwyLjQ0LDMuMTMuMTctMS4zOVoiLz48L2c+PHBvbHlnb24gY2xhc3M9ImNscy00MyIgcG9pbnRzPSIxNTkuNTQgOTIuNjkgMTYxLjI5IDEwNS42OCAxNjMuMDUgOTIuMTYgMTU5LjU0IDkyLjY5Ii8+PGcgY2xhc3M9ImNscy00NCI+PHJlY3QgY2xhc3M9ImNscy0zIiB4PSIxNjUuOTkiIHk9Ijg3Ljg3IiB3aWR0aD0iMzUuMDIiIGhlaWdodD0iNTYuNzMiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0xNS4xNyAyOC40MSkgcm90YXRlKC04LjUpIi8+PGcgY2xhc3M9ImNscy00Ij48cmVjdCBjbGFzcz0iY2xzLTQ1IiB4PSIxNjUuOTkiIHk9Ijg3Ljg3IiB3aWR0aD0iMzUuMDIiIGhlaWdodD0iNTYuNzMiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0xNS4xNyAyOC40MSkgcm90YXRlKC04LjUpIi8+PC9nPjxsaW5lIGNsYXNzPSJjbHMtNDYiIHgxPSIxODQuNyIgeTE9Ijk0Ljk1IiB4Mj0iMTkxLjYyIiB5Mj0iOTMuOTEiLz48bGluZSBjbGFzcz0iY2xzLTQ3IiB4MT0iMTg2LjI3IiB5MT0iMTA1LjQxIiB4Mj0iMTkzLjE5IiB5Mj0iMTA0LjM4Ii8+PGxpbmUgY2xhc3M9ImNscy00NyIgeDE9IjE3Mi4yOSIgeTE9IjExMi44NSIgeDI9IjE5My45NyIgeTI9IjEwOS42MSIvPjxsaW5lIGNsYXNzPSJjbHMtNDgiIHgxPSIxNzMuMDgiIHkxPSIxMTguMDkiIHgyPSIxOTQuNzUiIHkyPSIxMTQuODUiLz48bGluZSBjbGFzcz0iY2xzLTQ3IiB4MT0iMTczLjg2IiB5MT0iMTIzLjMyIiB4Mj0iMTk1LjU0IiB5Mj0iMTIwLjA4Ii8+PGxpbmUgY2xhc3M9ImNscy00OCIgeDE9IjE3NC42MyIgeTE9IjEyOC41IiB4Mj0iMTk2LjMxIiB5Mj0iMTI1LjI2Ii8+PGxpbmUgY2xhc3M9ImNscy00NiIgeDE9IjE4OC4xNiIgeTE9IjEzMS44MyIgeDI9IjE5Ny4wOSIgeTI9IjEzMC41Ii8+PHJlY3QgY2xhc3M9ImNscy00OSIgeD0iMTY1Ljk5IiB5PSI4Ny44NyIgd2lkdGg9IjM1LjAyIiBoZWlnaHQ9IjU2LjczIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMTUuMTcgMjguNDEpIHJvdGF0ZSgtOC41KSIvPjxwb2x5Z29uIGNsYXNzPSJjbHMtNTAiIHBvaW50cz0iMTk5LjcyIDE0Mi40OSAyMDUuMDEgMTQxLjcgMTk5LjI5IDEwMy4zOCAxOTEuMjggMTA0LjM1IDE5Mi4wNCAxMTUuNjQgMjAwLjA4IDExNS4wMyAxOTkuNzIgMTQyLjQ5Ii8+PGcgY2xhc3M9ImNscy0xMCI+PHBhdGggY2xhc3M9ImNscy0xMiIgZD0iTTE4My4yLDEwNy40YS44NC44NCwwLDAsMCwuNy0uOTRsLTEuMjktOC4zYS44My44MywwLDAsMC0xLS42OWwtOC4wNywxLjI1LDQuNzgsOS40Myw0LjgzLS43NVoiLz48cGF0aCBjbGFzcz0iY2xzLTEyIiBkPSJNMTgxLjcxLDk3Ljg0YS41LjUsMCwwLDEsLjM0LjA5LjQuNCwwLDAsMSwuMTguMjhsMS4yOSw4LjNhLjQyLjQyLDAsMCwxLS4wOC4zMy40Mi40MiwwLDAsMS0uMy4xOGwtNC41Ni43MUwxNzQuMTYsOTlsNy41NS0xLjE4bS0uMDUtLjM3LTguMDcsMS4yNSw0Ljc4LDkuNDMsNC44My0uNzVhLjg0Ljg0LDAsMCwwLC43LS45NGwtMS4yOS04LjNhLjgzLjgzLDAsMCwwLTEtLjY5WiIvPjxwb2x5Z29uIGNsYXNzPSJjbHMtNTEiIHBvaW50cz0iMTc3LjI0IDEwNS45MiAxNzguMzcgMTA4LjE1IDE4MC4xMyAxMDUuNDcgMTc3LjI0IDEwNS45MiIvPjxwYXRoIGNsYXNzPSJjbHMtNDUiIGQ9Ik0xNzAuNSw5Ni42NWEuODMuODMsMCwwLDAtLjY5Ljk1bDEuMyw4LjQzYS44NC44NCwwLDAsMCwxLC42OWw4LjA2LTEuMjUtNC44LTkuNTdaIi8+PHBhdGggY2xhc3M9ImNscy01MiIgZD0iTTE4MS42Niw5Ny40N2wtNS4xNC44LTEuMTktMi4zNy00LjgzLjc1YS44My44MywwLDAsMC0uNjkuOTVsMS4zLDguNDNhLjg0Ljg0LDAsMCwwLDEsLjY5bDUuMTctLjgsMS4xMywyLjIzLDQuODMtLjc1YS44NC44NCwwLDAsMCwuNy0uOTRsLS41Mi0zLjMyLS43Ny01QS44My44MywwLDAsMCwxODEuNjYsOTcuNDdaIi8+PC9nPjwvZz48bGluZSBjbGFzcz0iY2xzLTUzIiB4MT0iMjE3LjU3IiB5MT0iMzkuNjQiIHgyPSIyMTcuNTciIHkyPSI5NS4xOCIvPjxsaW5lIGNsYXNzPSJjbHMtNTQiIHgxPSIyMTcuNTciIHkxPSIzOS42NCIgeDI9IjIxNy41NyIgeTI9Ijk1LjE4Ii8+PHBhdGggY2xhc3M9ImNscy01NSIgZD0iTTIyNywzMCw4OC42NCwyNy45VjQyLjU1TDIyNywzOS40NGEzLDMsMCwwLDAsMi45My0zVjMzQTMsMywwLDAsMCwyMjcsMzBaIi8+PHBvbHlsaW5lIGNsYXNzPSJjbHMtNTUiIHBvaW50cz0iMjI1Ljg0IDMwLjAxIDIxNy42OCAzOS42NCAyMDkuNyAyOS43NyAxOTkuNDMgNDAuMDQgMTg4Ljg1IDI5LjQ2IDE3Ny44IDQwLjUyIDE2Ni4zMiAyOS4wNSAxNTQuMzkgNDAuOTggMTQyLjE0IDI4LjczIDEyOS4xOSA0MS42OSAxMTUuNzQgMjguMjUgMTAxLjg5IDQyLjEgODcuMjQgMjcuNDUiLz48cmVjdCBjbGFzcz0iY2xzLTU2IiB4PSIxOC41MyIgeT0iMTUxLjQxIiB3aWR0aD0iNTMuNTYiIGhlaWdodD0iNi4xNCIvPjxsaW5lIGNsYXNzPSJjbHMtNTciIHgxPSI0NyIgeTE9IjQxLjAxIiB4Mj0iNDciIHkyPSI1OC4xNSIvPjxsaW5lIGNsYXNzPSJjbHMtNTgiIHgxPSI0NyIgeTE9IjQxLjAxIiB4Mj0iNDciIHkyPSI1OC4xNSIvPjxyZWN0IGNsYXNzPSJjbHMtNTkiIHg9IjM1LjE1IiB5PSI1OC4xNSIgd2lkdGg9IjIzLjciIGhlaWdodD0iOC4wNCIgcng9IjEuODQiLz48cmVjdCBjbGFzcz0iY2xzLTYwIiB4PSIzNS4xNSIgeT0iNjYuMTkiIHdpZHRoPSIyMy43IiBoZWlnaHQ9IjguMDQiIHJ4PSIxLjg0Ii8+PHJlY3QgY2xhc3M9ImNscy01OSIgeD0iMzUuMTUiIHk9Ijc0LjIzIiB3aWR0aD0iMjMuNyIgaGVpZ2h0PSI4LjA0IiByeD0iMS44NCIvPjxyZWN0IGNsYXNzPSJjbHMtNTUiIHg9IjcwLjE0IiB5PSI0NS4xOSIgd2lkdGg9IjEzLjIyIiBoZWlnaHQ9Ijk5Ljk3Ii8+PHBvbHlsaW5lIGNsYXNzPSJjbHMtNTUiIHBvaW50cz0iNzAuNTEgNDUuMTkgODIuOTggNTcuNjcgNzAuMDcgNzAuNTggODMuMDQgODMuNTYgNzAuMjQgOTYuMzYgODIuNTggMTA4LjcgNzAuNjIgMTIwLjY2IDgzLjM2IDEzMy40IDcwLjMxIDE0Ni40NCIvPjxwYXRoIGNsYXNzPSJjbHMtNTUiIGQ9Ik02MS41OSwyOS4xNCwzOC4yLDI4Ljc4YTMsMywwLDAsMC0zLjA1LDNWMzguMmEzLDMsMCwwLDAsMy4wNywzbDI0LjMyLS41MiIvPjxwb2x5bGluZSBjbGFzcz0iY2xzLTU1IiBwb2ludHM9IjU5LjMzIDI5LjA1IDQ3IDQxLjAxIDM2LjA1IDI5LjY0Ii8+PHBhdGggY2xhc3M9ImNscy01OSIgZD0iTTY0LjM0LDE0NS41OEg4OS4xNlYxMzUuNDRhMS44NCwxLjg0LDAsMCwwLTEuODQtMS44NEg2Ni4xOGExLjg0LDEuODQsMCwwLDAtMS44NCwxLjg0WiIvPjxwYXRoIGNsYXNzPSJjbHMtNjEiIGQ9Ik02MS42MSw0OC42N0g4OS4wOGEyLjc2LDIuNzYsMCwwLDAsMi41Ny0xLjc1TDk1LjgzLDM2LjNhNC41Niw0LjU2LDAsMCwwLDAtMy4zN0w5MS42NSwyMi4zYTIuNzYsMi43NiwwLDAsMC0yLjU3LTEuNzVINjEuNjFhMi43NywyLjc3LDAsMCwwLTIuNzYsMi43N1Y0NS45MUEyLjc3LDIuNzcsMCwwLDAsNjEuNjEsNDguNjdaIi8+PHJlY3QgY2xhc3M9ImNscy0yMSIgeD0iNjIuNTQiIHk9IjI0LjI0IiB3aWR0aD0iNi40NSIgaGVpZ2h0PSIxMC4zMyIgcng9IjAuOTIiLz48cmVjdCBjbGFzcz0iY2xzLTIxIiB4PSI3MS43NSIgeT0iMjQuMjQiIHdpZHRoPSI2LjQ1IiBoZWlnaHQ9IjEwLjMzIiByeD0iMC45MiIvPjxwYXRoIGNsYXNzPSJjbHMtMjEiIGQ9Ik05MC43MSwzNC41Nkg4MS44OGEuOTIuOTIsMCwwLDEtLjkyLS45MlYyNS4xNmEuOTIuOTIsMCwwLDEsLjkyLS45Mmg1LjhhLjkyLjkyLDAsMCwxLC44Ny42MWwzLDguNDhBLjkyLjkyLDAsMCwxLDkwLjcxLDM0LjU2WiIvPjxwYXRoIGNsYXNzPSJjbHMtNjAiIGQ9Ik01OC44NSwxNTcuNTVoMzUuOFYxNDcuNDJhMS44NCwxLjg0LDAsMCwwLTEuODQtMS44NEg2MC42OWExLjg0LDEuODQsMCwwLDAtMS44NCwxLjg0WiIvPjxsaW5lIGNsYXNzPSJjbHMtNjIiIHgxPSI2Mi41NCIgeTE9IjM4LjQiIHgyPSI5MC43MSIgeTI9IjM4LjQiLz48bGluZSBjbGFzcz0iY2xzLTYyIiB4MT0iNjIuNTQiIHkxPSI0MS4xNiIgeDI9IjkwLjcxIiB5Mj0iNDEuMTYiLz48Y2lyY2xlIGNsYXNzPSJjbHMtNjMiIGN4PSI0Ny40IiBjeT0iODQuNjEiIHI9IjIuNDkiLz48cGF0aCBjbGFzcz0iY2xzLTY0IiBkPSJNNjQuMzQsMTQ1LjU4SDgzLjE2di0xMmgtMTdhMS44NCwxLjg0LDAsMCwwLTEuODQsMS44NFoiLz48cGF0aCBjbGFzcz0iY2xzLTY1IiBkPSJNNTguODUsMTU3LjU1aDI5Ljh2LTEyaC0yOGExLjg0LDEuODQsMCwwLDAtMS44NCwxLjg0WiIvPjxnIGNsYXNzPSJjbHMtNjYiPjxwYXRoIGNsYXNzPSJjbHMtNjciIGQ9Ik0zNyw1OC4xNUg1My44NWEwLDAsMCwwLDEsMCwwdjhhMCwwLDAsMCwxLDAsMEgzN2ExLjg0LDEuODQsMCwwLDEtMS44NC0xLjg0VjYwQTEuODQsMS44NCwwLDAsMSwzNyw1OC4xNVoiLz48cGF0aCBjbGFzcz0iY2xzLTY4IiBkPSJNMzcsNjYuMTlINTMuODVhMCwwLDAsMCwxLDAsMHY4YTAsMCwwLDAsMSwwLDBIMzdhMS44NCwxLjg0LDAsMCwxLTEuODQtMS44NFY2OEExLjg0LDEuODQsMCwwLDEsMzcsNjYuMTlaIi8+PHBhdGggY2xhc3M9ImNscy02OSIgZD0iTTM3LDc0LjIzSDUzLjg1YTAsMCwwLDAsMSwwLDB2OGEwLDAsMCwwLDEsMCwwSDM3YTEuODQsMS44NCwwLDAsMS0xLjg0LTEuODRWNzYuMDdBMS44NCwxLjg0LDAsMCwxLDM3LDc0LjIzWiIvPjwvZz48cG9seWdvbiBjbGFzcz0iY2xzLTcwIiBwb2ludHM9IjIzNy44MSAxMTIuNjEgMjA5LjQxIDExNC42MSAyMDkuMjcgOTcuNDcgMjM2LjY4IDk2LjY3IDIzNy44MSAxMTIuNjEiLz48cmVjdCBjbGFzcz0iY2xzLTEyIiB4PSIxOTUuODUiIHk9Ijk1LjE4IiB3aWR0aD0iNDMuNDUiIGhlaWdodD0iMTUuOTciIHRyYW5zZm9ybT0idHJhbnNsYXRlKC02LjcyIDE1LjU3KSByb3RhdGUoLTQuMDQpIi8+PHJlY3QgY2xhc3M9ImNscy03MSIgeD0iMTk1Ljg1IiB5PSI5NS4xOCIgd2lkdGg9IjQzLjQ1IiBoZWlnaHQ9IjE1Ljk3IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtNi43MiAxNS41Nykgcm90YXRlKC00LjA0KSIvPjxsaW5lIGNsYXNzPSJjbHMtMjgiIHgxPSIyMDAuNTciIHkxPSIxMDAuNDUiIHgyPSIyMzQuMDIiIHkyPSI5OC4wOSIvPjxsaW5lIGNsYXNzPSJjbHMtMjgiIHgxPSIyMDEuMTQiIHkxPSIxMDguNTMiIHgyPSIyMzQuNTkiIHkyPSIxMDYuMTciLz48L2c+PC9nPjwvc3ZnPg==)
 
@@ -343,11 +341,19 @@ About these terms
 
 By law, you have certain rights that can’t be limited by a contract like these terms of service. These terms are in no way intended to restrict those rights.
 
+These terms describe the relationship between you and Google. They don’t create any legal rights for other people or [organizations](https://policies.google.com/terms?hl=en-US#footnote-organization), even if others benefit from that relationship under these terms.
+
 We want to make these terms easy to understand, so we’ve used examples from our [services](https://policies.google.com/terms?hl=en-US#footnote-services). But not all services mentioned may be available in your country.
+
+If these terms conflict with the [service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-US), the additional terms will govern for that service.
+
+If it turns out that a particular term is not valid or enforceable, this will not affect any other terms.
+
+If you don’t follow these terms or the [service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-US), and we don’t take action right away, that doesn’t mean we’re giving up any rights that we may have, such as taking action in the future.
 
 We may update these terms and [service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-US) (1) to reflect changes in our services or how we do business — for example, when we add new services, features, technologies, pricing, or benefits (or remove old ones), (2) for legal, regulatory, or security reasons, or (3) to prevent abuse or harm.
 
-If we update these terms or [service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-US), we’ll provide you with reasonable advance notice (by email or other appropriate means) and the opportunity to review and accept substantial changes, except (1) when the changes address a newly-launched product feature or service, or (2) in urgent situations, such as preventing ongoing abuse or responding to legal requirements. If you don’t agree to the new terms, you should remove [your content](https://policies.google.com/terms?hl=en-US#footnote-your-content) and stop using the services. You can also end your relationship with us at any time by closing your Google Account.
+If we materially change these terms or [service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-US), we’ll provide you with reasonable advance notice and the opportunity to review the changes, except (1) when we launch a new service or feature, or (2) in urgent situations, such as preventing ongoing abuse or responding to legal requirements. If you don’t agree to the new terms, you should remove [your content](https://policies.google.com/terms?hl=en-US#footnote-your-content) and stop using the services. You can also end your relationship with us at any time by closing your Google Account.
 
 Definitions
 ===========
@@ -362,7 +368,7 @@ An individual or entity who is not a consumer (see consumer).
 
 ### consumer
 
-An individual who uses Google services for personal, non-commercial purposes outside of their trade, business, craft, or profession. This includes “consumers” as defined in [article 2.1 of the EU Consumer Rights Directive](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32011L0083). (See business user)
+An individual who uses Google services for personal, non-commercial purposes outside of their trade, business, craft, or profession. (See business user)
 
 ### copyright
 
@@ -375,10 +381,6 @@ A statement that limits someone’s legal responsibilities.
 ### EU Platform-to-Business Regulation
 
 The Regulation (EU) 2019/1150 on promoting fairness and transparency for business users of online intermediation services.
-
-### immaterial rights
-
-Rights other than intellectual property rights and data protection rights related to your content, such as your right to authorize the use of your own image in photos or videos, even if the photo or video doesn’t belong to you.
 
 ### indemnify or indemnity
 
@@ -409,15 +411,19 @@ Google services that are subject to these terms are the products and services li
 
 Symbols, names, and images used in commerce that are capable of distinguishing the goods or services of one individual or organization from those of another.
 
+### warranty
+
+An assurance that a product or service will perform to a certain standard.
+
 ### your content
 
-Things that you write, upload, submit, store, send, or share with Google using our services, such as:
+Things that you write, upload, submit, store, send, receive, or share with Google using our services, such as:
 
 *   Docs, Sheets, and Slides you create
 *   blog posts you upload through Blogger
 *   reviews you submit through Maps
 *   videos you store in Drive
-*   emails you send through Gmail
+*   emails you send and receive through Gmail
 *   pictures you share with friends through Photos
 *   travel itineraries that you share with Google
 
