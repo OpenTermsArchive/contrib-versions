@@ -1,4 +1,4 @@
-_Effective on January 6, 2020_
+_Effective on August 11, 2020_
 
 Our mission is to connect the world’s professionals to allow them to be more productive and successful. Our services are designed to promote economic opportunity for our members by enabling you and millions of other professionals to meet, exchange ideas, learn, and find opportunities or employees, work, and make decisions in a network of trusted relationships.
 
@@ -23,7 +23,7 @@ You agree that by clicking “Join Now”, “Join LinkedIn”, “Sign Up” or
 
 Services
 
-This Contract applies to LinkedIn.com, LinkedIn-branded apps, Slideshare, LinkedIn Learning and other LinkedIn-related sites, apps, communications and other services that state that they are offered under this Contract (“Services”), including the offsite collection of data for those Services, such as our ads and the “Apply with LinkedIn” and “Share with LinkedIn” plugins. Registered users of our Services are “Members” and unregistered users are “Visitors”.
+This Contract applies to LinkedIn.com, LinkedIn-branded apps, LinkedIn Learning and other LinkedIn-related sites, apps, communications and other services that state that they are offered under this Contract (“Services”), including the offsite collection of data for those Services, such as our ads and the “Apply with LinkedIn” and “Share with LinkedIn” plugins. Registered users of our Services are “Members” and unregistered users are “Visitors”.
 
 LinkedIn
 
@@ -41,7 +41,7 @@ As a Visitor or Member of our Services, the collection, use and sharing of your 
 
 1.2 Members and Visitors
 
-When you register and join the LinkedIn Service or become a registered user on SlideShare, you become a Member. If you have chosen not to register for our Services, you may access certain features as a “Visitor.”
+When you register and join the LinkedIn Services, you become a Member. If you have chosen not to register for our Services, you may access certain features as a “Visitor.”
 
 1.3 Change
 
