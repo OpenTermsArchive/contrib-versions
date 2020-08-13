@@ -147,7 +147,7 @@ We are committed to protecting your information. We have adopted commercially re
 INFORMATION FOR CALIFORNIA VISITORS
 -----------------------------------
 
-For additional information for residents of the State of California visit [ca.privacy.cbs](https://ca.privacy.cbs).
+For additional information for residents of the State of California visit [ca.privacy.cbs](https://ca.privacy.cbs/).
 
 INFORMATION FOR NEVADA VISITORS
 -------------------------------
@@ -171,7 +171,7 @@ For additional information about our privacy practices and additional rights you
 
 ### The European Union
 
-[eu.privacy.cbs](https://eu.privacy.cbs)
+[eu.privacy.cbs](https://eu.privacy.cbs/)
 
 INTERNATIONAL TRANSFERS
 -----------------------
