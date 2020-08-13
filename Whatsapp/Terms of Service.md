@@ -278,7 +278,7 @@ California residents may learn more about their rights, including how to exercis
 
 Brazilian General Data Protection Law
 
-Brazilian residents may learn more about their rights, including how to exercise their rights under the Brazilian General Data Protection Law, by clicking here.
+You may learn more about your rights, including how to exercise your rights under the Brazilian General Data Protection Law, by clicking here.
 
 Contact Us
 
