@@ -159,7 +159,7 @@ How long we keep your information
 Our policy on children’s information
 ------------------------------------
 
-*   Children under 13 are not allowed to use Pinterest. If you are based in the EEA you may only use Pinterest if you are over the age at which you can provide consent to data processing under the laws of your country. If you are a parent and you learn that your child is using Pinterest and you don't want them to, [please contact us](https://help.pinterest.com/contact).
+*   Children under 13 are not allowed to use Pinterest. If you are based in the EEA you may only use Pinterest if you are over the age at which you can provide consent to data processing under the laws of your country.
     
 
 Your options
