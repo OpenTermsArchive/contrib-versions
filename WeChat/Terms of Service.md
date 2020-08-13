@@ -8,7 +8,7 @@ Welcome to WeChat!
 
 Your use of WeChat is subject to these Terms of Service (these "**Terms**"). Thank you for reviewing these Terms – we hope you enjoy using WeChat.
 
-If you have any questions about, or if you wish to send us any notices in relation to, these Terms, please contact us by going to “Me” -> “Settings” -> “Help & Feedback” from within WeChat or by visiting [help.wechat.com](https://help.wechat.com).
+If you have any questions about, or if you wish to send us any notices in relation to, these Terms, please contact us by going to “Me” -> “Settings” -> “Help & Feedback” from within WeChat or by visiting [help.wechat.com](https://help.wechat.com/).
 
 _Compliance with these Terms_
 
@@ -107,7 +107,7 @@ Subject to the next paragraph and except as otherwise expressly specified within
 
 We may make changes to these Terms (and any applicable Additional Terms) over time (for example, to reflect technical improvements and changes to WeChat (for example, to address a security threat) or applicable laws and regulations (for example, to reflect applicable consumer rights)), so please come back and review these Terms regularly.
 
-Where we consider that such changes are reasonably material, we will (where reasonably practicable) notify you (via [http://www.wechat.com](http://www.wechat.com), direct communication to you, on this page or the relevant page for the relevant additional terms or policy, or other means), prior to such changes becoming effective. **By continuing to use WeChat after we make any changes to these Terms, you are agreeing to be bound by the revised Terms.**
+Where we consider that such changes are reasonably material, we will (where reasonably practicable) notify you (via [http://www.wechat.com](http://www.wechat.com/), direct communication to you, on this page or the relevant page for the relevant additional terms or policy, or other means), prior to such changes becoming effective. **By continuing to use WeChat after we make any changes to these Terms, you are agreeing to be bound by the revised Terms.**
 
 ### CHANGES TO WECHAT
 
@@ -118,13 +118,13 @@ As WeChat and user experiences are constantly evolving, we may from time to time
 *   suspend, discontinue or terminate WeChat altogether.
     
 
-You agree that we may take any such actions at any time. Where we consider that any changes to WeChat or any services or features accessible within WeChat are reasonably material, we will (where reasonably practicable) notify you (via [http://www.wechat.com](http://www.wechat.com), direct communication to you, on this page or the relevant page for the relevant additional terms or policy, or other means), prior to such changes becoming effective.
+You agree that we may take any such actions at any time. Where we consider that any changes to WeChat or any services or features accessible within WeChat are reasonably material, we will (where reasonably practicable) notify you (via [http://www.wechat.com](http://www.wechat.com/), direct communication to you, on this page or the relevant page for the relevant additional terms or policy, or other means), prior to such changes becoming effective.
 
 ### YOUR ACCOUNT
 
 You need to create an account with us in order to access and use WeChat. Any account that you open with us is personal to you and you are prohibited from gifting, lending, transferring or otherwise permitting any other person to access or use your account. Your account name, user ID and other identifiers you adopt within WeChat remains our property and we can disable, reclaim and reuse these once your account is terminated or deactivated for whatever reason by either you or us.
 
-You are responsible for: (a) safeguarding your account details, including any passwords used to access your account and WeChat, and (b) all use of WeChat under your account, including any purchases made and/or payment obligations arising under your account. You must promptly notify us by going to "Me" -> "Settings" -> "Help & Feedback" from within the WeChat app or by visiting [http://help.wechat.com](http://help.wechat.com) if you know or suspect that your password or account has been compromised. We will regard all use of your account on WeChat as being by you, except where we have received a valid and –properly received notification to us regarding your account or password being compromised.
+You are responsible for: (a) safeguarding your account details, including any passwords used to access your account and WeChat, and (b) all use of WeChat under your account, including any purchases made and/or payment obligations arising under your account. You must promptly notify us by going to "Me" -> "Settings" -> "Help & Feedback" from within the WeChat app or by visiting [http://help.wechat.com](http://help.wechat.com/) if you know or suspect that your password or account has been compromised. We will regard all use of your account on WeChat as being by you, except where we have received a valid and –properly received notification to us regarding your account or password being compromised.
 
 We may allow you to register for and login to WeChat using sign-on functionalities provided by third party platforms, such as Facebook or Google. You agree to comply with the relevant third party platform's terms and conditions applicable to your use of such functionalities (in addition to these Terms).
 
@@ -354,35 +354,6 @@ Except to the extent that: (a) any applicable additional terms incorporated into
 *   these Terms and any dispute or claim arising out of or in connection with these Terms will be governed by the law of the Hong Kong Special Administrative Region; and
     
 *   any dispute, controversy or claim (whether in contract, tort or otherwise) arising out of, relating to, or in connection with these Terms, including their existence, validity, interpretation, performance, breach or termination, will be referred to and finally resolved by arbitration administered by the Hong Kong International Arbitration Centre under the Hong Kong International Arbitration Centre Administered Arbitration Rules in force when the Notice of Arbitration is submitted. The seat of the arbitration will be Hong Kong. There will be one arbitrator only. The arbitration proceedings will be conducted in English.
-    
-
-### WECHAT TERMS OF SERVICE (USA-SPECIFIC TERMS)
-
-_If you are a user of WeChat in the United States of America, the below Additional Terms: (a) are incorporated into these Terms; (b) apply to your use of WeChat; and (c) override the head terms of these Terms to the extent of any inconsistency._
-
-If you are a user of WeChat in the United States of America, the following terms expressly replaces the above "Governing law and dispute resolution" section of these Terms.
-
-If you live in (or, if a business, your principal place of business is in) the United States, the laws of the state where you live govern all claims, regardless of conflict of law principles, except that the Federal Arbitration Act governs all provisions relating to arbitration. You and we irrevocably consent to the exclusive jurisdiction and venue of the state or federal courts of California, for all disputes arising out of or relating to these Terms that are heard in court (excluding arbitration).
-
-EACH OF THE PARTIES HERETO IRREVOCABLY WAIVES ANY AND ALL RIGHT TO TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION IN ANY LEGAL PROCEEDING ARISING OUT OF OR RELATING TO THESE TERMS OR THE TRANSACTIONS CONTEMPLATED HEREBY.
-
-In the event of a dispute, you and we agree to try for sixty (60) days to resolve it informally. If you and we are unable to come to informal resolution within sixty (60) days, you and we agree to binding individual arbitration before the American Arbitration Association ("**AAA**") under the Federal Arbitration Act ("**FAA**") (with such arbitration to be conducted under the AAA's Commercial Arbitration Rules), and not to sue in court in front of a judge or jury. Instead, a neutral arbitrator will decide and the arbitrator’s decision will be final except for a limited right of appeal under the FAA. Class action lawsuits, class-wide arbitrations, private attorney-general actions, and any other proceeding where someone acts in a representative capacity are not allowed, and nor is combining individual proceedings without the consent of all parties. These Terms govern to the extent they conflict with the AAA’s Commercial Arbitration Rules or Consumer Arbitration Rules. You and we must file in arbitration any claim or dispute (except intellectual property disputes) within one year from when it first could be filed. If the class action waiver is found to be illegal or unenforceable as to all or some parts of a dispute, then those parts won’t be arbitrated but will proceed in court, with the rest proceeding in arbitration. If any other provision of these provisions regarding arbitration is found to be illegal or unenforceable, that provision will be severed but the rest of these provisions regarding arbitration still apply.
-
-If you are a California resident, then (except to the extent prohibited by applicable laws) you agree to waive California Civil Code Section 1542, and any similar provision in any other jurisdiction (if you are a resident of such other jurisdiction), which states: "A general release does not extend to claims which the creditor does not know or suspect to exist in his favour at the time of executing the release, which, if known by him must have materially affected his settlement with the debtor”.
-
-### WECHAT TERMS OF SERVICE (AUSTRALIA-SPECIFIC TERMS)
-
-_If you are a user of WeChat in Australia, the below Additional Terms: (a) are incorporated into these Terms; (b) apply to your use of WeChat; and (c) override the head terms of these Terms to the extent of any inconsistency._
-
-All express or implied guarantees, warranties, representations, or other terms and conditions relating to these Terms or their subject matter, not contained in these Terms, are excluded from these Terms to the maximum extent permitted by applicable laws and regulations.
-
-Nothing in these Terms excludes, restricts or modifies any guarantee, warranty, term or condition, right or remedy implied or imposed by any applicable laws and regulations which cannot lawfully be excluded, restricted or modified.
-
-If any guarantee, condition, warranty or term is implied or imposed by any applicable laws and regulations and cannot be excluded (a “**Non-Excludable Provision**”), and we are able to limit your remedy for a breach of the Non-Excludable Provision, then our liability for breach of the Non-Excludable Provision is limited to one or more of the following at our option:
-
-*   in the case of goods, the replacement of the goods or the supply of equivalent goods, the repair of the goods, the payment of the cost of replacing the goods or of acquiring equivalent goods, or the payment of the cost of having the goods repaired; or
-    
-*   in the case of services, the supplying of the services again, or the payment of the cost of having the services supplied again.
     
 
 ### WECHAT TERMS OF SERVICE (EUROPEAN UNION-SPECIFIC TERMS)
