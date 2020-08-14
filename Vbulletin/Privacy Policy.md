@@ -23,8 +23,8 @@ Personal information is information that can be used to identify, locate, or con
 
 1.  **Account or Registration Information** where needed to use our sites and services, and may include your name, address, email address, telephone number, birthday, user account name, and password;
 2.  **Contact Information**, which generally includes your name, addresses, email addresses, social media website user account names, and/or telephone numbers;
-3.  **Payment Information**where needed to process payments and generally includes your credit or debit card number, expiration date, and card verification number;
-4.  **Personal Profile or Service Information**, which  may include areas of interest, information from social media interactions (such as Facebook, Twitter, or Google+), preferences, physical characteristics (such as height, weight), photographs and, biographical, health information and/or demographic information (such as gender);
+3.  **Payment Information** where needed to process payments and generally includes your credit or debit card number, expiration date, and card verification number;
+4.  **Personal Profile or Service Information**, which may include areas of interest, information from social media interactions (such as Facebook, Twitter, or Google+), preferences, physical characteristics (such as height, weight), photographs and, biographical, health information and/or demographic information (such as gender);
 5.  **Transaction Information**, which may include information about how you interact with and use our sites and services, email, other communications, and applications, and how you interact with merchants, business partners, and service providers;
 6.  **Geographic Location Information** but only if your device transmits location data and/or your IP address and you have activated a location-enabled site or service;
 7.  **Job-Search-Related Information** where needed for recruitment purposes and may include educational and employment background, driver's license number, and social security number;
