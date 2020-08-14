@@ -18,23 +18,23 @@
 *   Events &. Holidays
 *   MorePetsWorld LanguagesAt WorkFlowersKeep in TouchWeddingInvitations
 
-*   Thank You Day
 *   August Flowers
 *   Hug Month
 *   Smile Month
 *   True Love Forever Day
+*   Friendship Week
 *   More...
-    *   International Youth Day (Aug 12, 2020)
-    *   Romance Awareness Month (August 2020)
     *   International Left-handers Day (Aug 13, 2020)
+    *   Romance Awareness Month (August 2020)
     *   Independence Day (India) (Aug 15, 2020)
     *   Sit Back and Relax Day (Aug 15, 2020)
     *   Tell a Joke Day (Aug 16, 2020)
     *   Zoroastrian New Year (Aug 16, 2020)
     *   National Roller Coaster Day (Aug 16, 2020)
-    *   Friendship Week (Aug 16 - 22, 2020)
     *   National Aviation Day (Aug 19, 2020)
     *   Potato Day (Aug 19, 2020)
+    *   National Radio Day (Aug 20, 2020)
+    *   Senior Citizen Day (Aug 21, 2020)
     *   See All Events
 *   Go
 
