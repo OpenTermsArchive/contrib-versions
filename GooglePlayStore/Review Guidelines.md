@@ -638,7 +638,7 @@ Toll Fraud includes any type of billing except premium SMS and premium calls. Ex
 
 Code that transmits personal information off the device without adequate notice or consent and doesn't display a persistent notification that this is happening.
 
-Stalkerware  apps transmit data to a party other than the PHA provider. Legitimate forms of these apps cannot be used by parents to track their children. However, these apps can be used to track a person (a spouse, for example) without their knowledge or permission unless a persistent notification is displayed while the data is being transmitted.
+Stalkerware apps transmit data to a party other than the PHA provider. Legitimate forms of these apps cannot be used by parents to track their children. However, these apps can be used to track a person (a spouse, for example) without their knowledge or permission unless a persistent notification is displayed while the data is being transmitted.
 
 Only policy compliant apps exclusively designed and marketed for parental (including family) monitoring or enterprise management may distribute on the Play Store with tracking and reporting features, provided they fully comply with the requirements described below.
 
@@ -865,7 +865,8 @@ We don’t allow apps that mislead users by impersonating someone else (e.g. ano
 *   Developers that falsely imply a relationship to another company / developer:  
     ![](//lh3.googleusercontent.com/CTXDDQ5617TOtJ7SXt26hSid4qUaq_sXHYsOkRikG_I5irsQ3Qh8Y5vmcu9Nr8wYEg=w300-h550)  
     ① The developer name listed for this app suggests an official relationship with Google, even though such a relationship doesn’t exist.
-*   App titles and icons that are so similar to those of existing products or services that users may be misled:![](//lh3.googleusercontent.com/zSU80GE6ZuEefsDht_YovQOg1rnpUFNp8UwtARvmihybthkUXxb5Qfd2YWeWo-Mp5g=w550)
+*   App titles and icons that are so similar to those of existing products or services that users may be misled:  
+    ![](//lh3.googleusercontent.com/xtZuoVyE6Z5rXwzCzZfzsYu3BSpR4rTHtTF1ix0H4FQVN0ZWdnEunBt8zZkD93Z7D045=w550-h250)
 
 Monetization and Ads
 ====================
