@@ -18,13 +18,12 @@
 *   Events &. Holidays
 *   MorePetsWorld LanguagesAt WorkFlowersKeep in TouchWeddingInvitations
 
-*   August Flowers
 *   Hug Month
-*   Smile Month
 *   True Love Forever Day
 *   Friendship Week
+*   August Flowers
+*   Smile Month
 *   More...
-    *   International Left-handers Day (Aug 13, 2020)
     *   Romance Awareness Month (August 2020)
     *   Independence Day (India) (Aug 15, 2020)
     *   Sit Back and Relax Day (Aug 15, 2020)
@@ -35,6 +34,7 @@
     *   Potato Day (Aug 19, 2020)
     *   National Radio Day (Aug 20, 2020)
     *   Senior Citizen Day (Aug 21, 2020)
+    *   Ganesh Chaturthi (Aug 22, 2020)
     *   See All Events
 *   Go
 
