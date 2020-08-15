@@ -392,7 +392,6 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Microsoft Research Open Data
 *   Microsoft Soundscape
 *   Microsoft Support and Recovery Assistant for Office 365
-*   Microsoft Teams
 *   Microsoft Translator
 *   Microsoft Wallpaper
 *   Microsoft XiaoIce
@@ -427,7 +426,6 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Paint 3D
 *   Picturesque Lock Screen
 *   Presentation Translator
-*   Remix 3D
 *   Rinna
 *   rise4fun
 *   Ruuh
@@ -854,7 +852,6 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Microsoft Research Open Data
 *   Microsoft Soundscape
 *   Microsoft Support and Recovery Assistant for Office 365
-*   Microsoft Teams
 *   Microsoft Translator
 *   Microsoft Wallpaper
 *   Microsoft XiaoIce
@@ -889,7 +886,6 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Paint 3D
 *   Picturesque Lock Screen
 *   Presentation Translator
-*   Remix 3D
 *   Rinna
 *   rise4fun
 *   Ruuh
