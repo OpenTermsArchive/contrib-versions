@@ -24,9 +24,9 @@
 *   August Flowers
 *   Smile Month
 *   More...
-    *   Romance Awareness Month (August 2020)
     *   Independence Day (India) (Aug 15, 2020)
     *   Sit Back and Relax Day (Aug 15, 2020)
+    *   Romance Awareness Month (August 2020)
     *   Tell a Joke Day (Aug 16, 2020)
     *   Zoroastrian New Year (Aug 16, 2020)
     *   National Roller Coaster Day (Aug 16, 2020)
