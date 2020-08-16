@@ -219,13 +219,15 @@ Subject to the amendments in these Controller Terms, the Agreement remains in fu
 The following Additional Terms for Non-European Data Protection Legislation supplement these Controller Terms:
 
 *   [CCPA Service Provider Addendum](https://privacy.google.com/businesses/controllerterms/ccpa/) at [privacy.google.com/businesses/controllerterms/ccpa](https://privacy.google.com/businesses/controllerterms/ccpa/) (dated 1 January 2020)
+*   LGPD Controller Addendum at [privacy.google.com/businesses/controllerterms/lgpd/](https://privacy.google.com/businesses/controllerterms/lgpd/) (dated 16 August 2020)
 
-_Google Ads Controller-Controller Data Protection Terms, Version 2.0_
+_Google Ads Controller-Controller Data Protection Terms, Version 2.1_
 
-_12 August 2020_
+_16 August 2020_
 
 **Previous Versions**
 
+*   [12 August 2020](https://privacy.google.com/businesses/controllerterms-20200812/)
 *   [1 January 2020](https://privacy.google.com/businesses/controllerterms-20200101/)
 *   [31 October 2019](https://privacy.google.com/businesses/controllerterms-20191031/)
 *   [12 October 2017](https://privacy.google.com/businesses/controllerterms-20171012/)
