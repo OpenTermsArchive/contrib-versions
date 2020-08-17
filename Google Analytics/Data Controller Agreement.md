@@ -7,7 +7,7 @@ These Google Measurement Controller-Controller Data Protection Terms (“**Contr
 
 For the avoidance of doubt, the provision of the Measurement Services is governed by the Agreement. These Controller Terms set out the data protection provisions relating to the Data Sharing Setting only but do not otherwise apply to the provision of the Measurement Services.
 
-Subject to Section 7.2 (Processor Terms), these Controller Terms will be effective, and replace any previously applicable terms relating to their subject matter, from the Terms Effective Date.
+Subject to Section 8.2 (Processor Terms), these Controller Terms will be effective, and replace any previously applicable terms relating to their subject matter, from the Terms Effective Date.
 
 If you are accepting these Controller Terms on behalf of Customer, you warrant that: (a) you have full legal authority to bind Customer to these Controller Terms; (b) you have read and understand these Controller Terms; and (c) you agree, on behalf of Customer, to these Controller Terms. If you do not have the legal authority to bind Customer, please do not accept these Controller Terms.
 
@@ -91,6 +91,10 @@ Any reference to a legal framework, statute or other legislative enactment is a 
 
 ### 2.5
 
+If these Controller Terms are translated into any other language, and there is a discrepancy between the English text and the translated text, the English text will govern.
+
+### 2.6
+
 References in the Controller MCCs to the “Google Ads Controller-Controller Data Protection Terms” shall be deemed to mean the “Google Measurement Controller-Controller Data Protection Terms”.
 
 3\. Application of these Controller Terms
@@ -113,7 +117,7 @@ These Controller Terms will apply from the Terms Effective Date and continue whi
 
 ### 4.1 Independent Controllers
 
-Subject to Section 4.4 (End Controllers), each party:
+Subject to Section 4.4 (End Controllers), each:
 
 *   (a) is an independent controller of Controller Personal Data under the Data Protection Legislation;
 *   (b) will individually determine the purposes and means of its processing of Controller Personal Data; and
@@ -136,7 +140,7 @@ Without reducing either party’s obligations under these Controller Terms, each
 
 ### 5.1 Data Transfers
 
-Either party may transfer Controller Personal Data to third countries if it complies with the provisions on the transfer of personal data to third countries in the Data Protection Legislation.
+Subject to Section 5.2, either party may transfer Controller Personal Data to third countries if it complies with the provisions on the transfer of personal data to third countries in the Data Protection Legislation.
 
 ### 5.2 Transfers of UK Controller Personal Data to Google
 
@@ -148,7 +152,7 @@ Sections 5.4 (Contacting Google) to 5.7 (Third Party Controllers) are additional
 
 ### 5.4 Contacting Google
 
-Customer may contact Google Ireland Limited and/or Google LLC in connection with the Controller MCCs at https://support.google.com/policies/troubleshooter/9009584 or through such other means as may be provided by Google from time to time, including for the purposes of:
+Customer may contact Google Ireland Limited and/or Google LLC in connection with the Controller MCCs at [https://support.google.com/policies/troubleshooter/9009584](https://support.google.com/policies/troubleshooter/9009584) or through such other means as may be provided by Google from time to time, including for the purposes of:
 
 > (a) Clause II(e) of the Controller MCCs, to the extent Google LLC acts as data importer and Customer acts as data exporter under the Controller MCCs; and
 > 
@@ -212,7 +216,7 @@ Where Google LLC is not a party to the Agreement but is a party to the Controlle
 
 ### 8.1 Effect of these Controller Terms
 
-If Google is party to the Agreement and there is any conflict or inconsistency between the Controller MCCs, the terms of these Controller Terms and the remainder of the Agreement then, subject to Sections 4.2 (Restrictions on Processing) and 8.2 (Processor Terms), the following order of precedence will apply: (a) the Controller MCCs; (b) the remainder of these Controller Terms; and (c) the remainder of the Agreement. Subject to the amendments in these Controller Terms, the Agreement between Google and Customer remains in full force and effect.
+If Google is party to the Agreement and there is any conflict or inconsistency between the Controller MCCs, the Additional Terms for Non-European Data Protection Legislation, and the remainder of these Controller Terms and/or the remainder of the Agreement then, subject to Sections 4.2 (Restrictions on Processing) and 8.2 (Processor Terms), the following order of precedence will apply: (a) the Controller MCCs; (b) the Additional Terms for Non-European Data Protection Legislation; (c) the remainder of these Controller Terms; and (d) the remainder of the Agreement. Subject to the amendments in these Controller Terms, the Agreement between Google and Customer remains in full force and effect.
 
 ### 8.2 Processor Terms
 
@@ -230,7 +234,7 @@ Google may change these Controller Terms if the change:
 
 ### 9.2 Notification of Changes
 
-If Google intends to change these Controller Terms under Section 8.1(a) and such change will have a material adverse impact on Customer, as reasonably determined by Google, then Google will use commercially reasonable efforts to inform Customer at least 30 days (or such shorter period as may be required to comply with applicable law, applicable regulation, a court order or guidance issued by a governmental regulator or agency) before the change will take effect. If Customer objects to any such change, Customer may switch off the Data Sharing Setting.
+If Google intends to change these Controller Terms under Section 9.1(a) and such change will have a material adverse impact on Customer, as reasonably determined by Google, then Google will use commercially reasonable efforts to inform Customer at least 30 days (or such shorter period as may be required to comply with applicable law, applicable regulation, a court order or guidance issued by a governmental regulator or agency) before the change will take effect. If Customer objects to any such change, Customer may switch off the Data Sharing Setting.
 
 10\. Additional Provisions
 --------------------------
@@ -285,6 +289,24 @@ The parties are independent contractors. These Controller Terms do not create an
 
 To the extent permitted by applicable law, these Controller Terms state all terms agreed between the parties. In entering into these Controller Terms no party has relied on, and no party will have any right or remedy based on, any statement, representation or warranty (whether made negligently or innocently), except those expressly stated in these Controller Terms.
 
-_Google Measurement Controller-Controller Data Protection Terms, Version 1.3_
+Appendix 1: Additional Terms for Non-European Data Protection Legislation
+-------------------------------------------------------------------------
 
-August 12, 2020
+The following Additional Terms for Non-European Data Protection Legislation supplement these Controller Terms:
+
+*   [LGPD Controller Addendum to the Google Ads Controller-Controller Data Protection Terms](https://privacy.google.com/businesses/controllerterms/lgpd/) (“LGPD Controller Addendum”)
+
+For the purposes of these Controller Terms:
+
+> (a) references in the LGPD Controller Addendum to the [Google Ads Controller-Controller Data Protection Terms](https://privacy.google.com/businesses/controllerterms/) shall be deemed to be references to these Google Measurement Controller-Controller Data Protection Terms; and where Customer has entered into an agreement with a third party reseller for the provision of the Measurement Services then, notwithstanding any contrary provision in the LGPD Controller Addendum, the LGPD Controller Addendum will supplement these Controller Terms that form a separate agreement between Google and Customer and will not affect any agreement between: (i) Google and the third party reseller, or (ii) the third party reseller and Customer.
+
+_Google Measurement Controller-Controller Data Protection Terms, Version 1.4_
+
+16 August, 2020
+
+Previous versions
+-----------------
+
+[12 August, 2020](https://support.google.com/analytics/answer/10021548)
+
+[4 November, 2019](https://support.google.com/analytics/answer/10022515)
