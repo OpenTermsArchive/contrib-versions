@@ -18,22 +18,22 @@
 *   Events &. Holidays
 *   MorePetsWorld LanguagesAt WorkFlowersKeep in TouchWeddingInvitations
 
-*   Hug Month
 *   True Love Forever Day
 *   Friendship Week
-*   August Flowers
-*   Smile Month
+*   Hug Month
+*   Hug Your Sweetheart Day
 *   More...
-    *   Independence Day (India) (Aug 15, 2020)
-    *   Sit Back and Relax Day (Aug 15, 2020)
-    *   Romance Awareness Month (August 2020)
+    *   August Flowers (August 2020)
+    *   Smile Month (August 2020)
     *   Tell a Joke Day (Aug 16, 2020)
     *   Zoroastrian New Year (Aug 16, 2020)
     *   National Roller Coaster Day (Aug 16, 2020)
+    *   Romance Awareness Month (August 2020)
     *   National Aviation Day (Aug 19, 2020)
     *   Potato Day (Aug 19, 2020)
     *   National Radio Day (Aug 20, 2020)
     *   Senior Citizen Day (Aug 21, 2020)
+    *   Be an Angel Day (Aug 22, 2020)
     *   Ganesh Chaturthi (Aug 22, 2020)
     *   See All Events
 *   Go
