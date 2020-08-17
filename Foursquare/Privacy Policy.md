@@ -5,7 +5,7 @@ For more information, see [Privacy on Foursquare](https://support.foursquare.com
 Foursquare Consumer Services Privacy Policy
 -------------------------------------------
 
-Foursquare knows that you take your privacy seriously. We do, too. We seek to be transparent about our data practices and give you control over the information we collect about you. This Consumer Services Privacy Policy covers Foursquare Labs, Inc. and its affiliates and subsidiaries, Placed, LLC, Factual Inc., Foursquare Labs UK Limited, Factual Limited (UK), Foursquare Labs Asia Pte. Ltd., Factual Private Limited, Factual KK, and Factual Pty Ltd (collectively, “Foursquare”, “we”, “us”, or “our”). For a list of our office addresses, please see here.
+Foursquare knows that you take your privacy seriously. We do, too. We seek to be transparent about our data practices and give you control over the information we collect about you. This Consumer Services Privacy Policy covers Foursquare Labs, Inc. and its affiliates and subsidiaries, Placed, LLC, Factual Inc., Foursquare Labs UK Limited, Factual Limited (UK), Foursquare Labs Asia Pte. Ltd., Factual Private Limited, Factual KK, and Factual Pty Ltd (collectively, “Foursquare”, “we”, “us”, or “our”). For a list of our office addresses, please see [here](https://foursquare.com/legal/addresses).
 
 The Consumer Services include our websites (the “Sites”), our mobile applications (the “Apps”), and other online services that we own or control (collectively, the “Consumer Services”). This Privacy Policy does not apply to our Enterprise Services or information related to our enterprise customers, business partners or data suppliers. Please see our Enterprise Services Privacy Policy for details about our information practices related to those business services.
 
@@ -31,7 +31,7 @@ We also collect additional data about you when you use the Consumer Services. Fo
 *   device information, such as your hardware model, operating system and version, unique ID and device data such as device identifiers, IP address, sensor data, browser type, language, and wireless network, mobile device name, types of mobile apps installed; and
 *   data from cookies, pixels and other technologies, such as cookie ID, advertising ID or other unique advertising ID, web beacons, and local storage. You can control certain types of cookies through your browser settings or other tools.
 
-You may review our Cookie Policy for further information.
+You may review our [Cookie Policy](https://foursquare.com/legal/cookiepolicy) for further information.
 
 Data Received From Third Parties
 
@@ -108,7 +108,7 @@ We will also share your data with your consent.
 
 We may use technologies like cookies, pixels, web beacons, local storage and other automated technologies on our Sites, in our emails, within our Apps, and sometimes in third party apps that use our APIs or SDKs to provide you with a range of products and services. We use these technologies for a number of purposes, such as for authentication, security, preference settings, in our Products for advertising, measurement and analytics.
 
-You can control cookies through your browser settings and other tools. If you reject cookies, this could affect the availability and functionality of the Consumer Services. For more information, including the types of cookies and similar technologies found on Foursquare, please read our Cookie Policy.
+You can control cookies through your browser settings and other tools. If you reject cookies, this could affect the availability and functionality of the Consumer Services. For more information, including the types of cookies and similar technologies found on Foursquare, please read our [Cookie Policy](https://foursquare.com/legal/cookiepolicy).
 
 Third-Party Analytics
 
