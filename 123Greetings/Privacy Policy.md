@@ -18,16 +18,14 @@
 *   Events &. Holidays
 *   MorePetsWorld LanguagesAt WorkFlowersKeep in TouchWeddingInvitations
 
-*   True Love Forever Day
-*   Friendship Week
 *   Hug Month
 *   Hug Your Sweetheart Day
+*   Just Because Day
+*   Friendship Week
+*   Dog Day
 *   More...
     *   August Flowers (August 2020)
     *   Smile Month (August 2020)
-    *   Tell a Joke Day (Aug 16, 2020)
-    *   Zoroastrian New Year (Aug 16, 2020)
-    *   National Roller Coaster Day (Aug 16, 2020)
     *   Romance Awareness Month (August 2020)
     *   National Aviation Day (Aug 19, 2020)
     *   Potato Day (Aug 19, 2020)
@@ -35,6 +33,8 @@
     *   Senior Citizen Day (Aug 21, 2020)
     *   Be an Angel Day (Aug 22, 2020)
     *   Ganesh Chaturthi (Aug 22, 2020)
+    *   Waffle Day (Aug 24, 2020)
+    *   Kiss &. Make Up Day (Aug 25, 2020)
     *   See All Events
 *   Go
 
