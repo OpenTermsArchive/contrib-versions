@@ -49,6 +49,7 @@ We do not allow content that:
     
     **Examples**: Content advocating suicide, anorexia, or other self-harm; promoting or advocating for harmful health or medical claims or practices; threatening someone with real-life harm or calling for the attack of another person; promoting, glorifying, or condoning violence against others; content made by or in support of terrorist groups or transnational drug trafficking organizations, or content that promotes terrorist acts, including recruitment, or that celebrates attacks by transnational drug trafficking or terrorist organizations
     
+*   relates to a current, major health crisis and contradicts authoritative, scientific consensus.
 *   exploits others through extortion.
     
     **Examples**: Predatory removals, revenge porn, blackmail
@@ -144,17 +145,19 @@ We do not allow content that:
 
 *   is made to appear appropriate for a family audience, but contains adult themes including sex, violence, or other depictions of children or popular children’s characters that are unsuitable for a general audience.
 
-Child sexual abuse material and pedophilia
-------------------------------------------
+Child sexual abuse and exploitation
+-----------------------------------
 
 We do not allow content that:
 
-*   promotes the sexual exploitation of minors.
-    
-    **Examples**: Child sexual abuse imagery or other content that visually depicts, encourages, or promotes sexual attraction by adults toward minors
-    
+*   Sexually exploits or abuses children or content that promotes the sexual exploitation or abuse of children. This includes all child sexual abuse materials.
+*   Endangers children. Including but not limited to:
+    *   ‘Child grooming’ (for example, befriending a child online to facilitate, either online or offline, sexual contact and/or exchanging sexual imagery with that child);
+    *   ‘Sextortion’ (for example, threatening or blackmailing a child by using real or alleged access to a child’s intimate images);
+    *   Sexualization of a minor (for example, content that depicts, encourages or promotes the sexual abuse or exploitation of children); and
+    *   Trafficking of a child (for example, advertising or solicitation of a child for commercial sexual exploitation).
 
-Google absolutely prohibits monetization of content related to child sexual abuse imagery or pedophilia. Google has always been at the forefront in the fight against online child abuse, and an avid supporter of [family safety online](http://www.google.com/familysafety/). Under United States federal law, child sexual abuse imagery is defined as visual depictions of minors (i.e., under 18) engaged in a sexual act such as intercourse, oral sex, or masturbation as well as the lascivious depictions of the genitals (covered or uncovered). This definition extends to photographs, videos, cartoons, drawings, paintings, and sculptures. The image can involve a real child; a computer-generated, morphed, composite or otherwise altered image that appears to be a child (think "Photoshop"). This also includes soliciting minors for sexual acts, which is also known as "enticement." Pedophilia is any content or behavior (images, texts, videos, etc.) that depicts, encourages, or promotes sexual attraction by adults toward minors (i.e., under 18).
+We will take appropriate action, which may include reporting to the National Center for Missing & Exploited Children and disabling accounts. If you believe a child is in danger of or has been subject to abuse, exploitation, or trafficking, contact the police immediately. If you have concerns a child is being or was being endangered in connection with our products, you can [report the behavior to Google](https://support.google.com/families/contact/report_child_grooming).
 
 Privacy related policies
 ------------------------
