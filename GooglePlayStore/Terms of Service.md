@@ -1,6 +1,3 @@
-
-28 mars 2018
-=======
 Google Play Terms of Service
 ============================
 
