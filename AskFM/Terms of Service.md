@@ -1,4 +1,4 @@
-See [Terms of Use](https://about.ask.fm/legal/2020-04/en/terms.html) effective before 2020-04-07.
+See [Terms of Use](https://ask.fm/legal/2020-04/en/terms.html) effective before 2020-04-07.
 
 Effective Date: 2020-04-07
 
@@ -89,7 +89,7 @@ Non-registered users are able to access only the parts of the Services that are 
 3F. Can someone that is not registered ask me a question?
 ---------------------------------------------------------
 
-In some countries, we permit the asking of questions by unregistered users. In order to ask an unregistered question, you must accept our terms of use and privacy policy. For full information on unregistered users, what data we collect about them and how you can choose to receive questions from them or not, please see our [Privacy Policy](https://about.ask.fm/legal/en/privacy.html). If you are asking a question as an unregistered user, you must continue to follow the rules of conduct of the site and app or you will be banned at our discretion for abuse of this feature at any time and for any reason, if we suspect or believe you are breaching our rules, these terms, any of our policies, or have been reported by another user for improper or concerning behaviour.
+In some countries, we permit the asking of questions by unregistered users. In order to ask an unregistered question, you must accept our terms of use and privacy policy. For full information on unregistered users, what data we collect about them and how you can choose to receive questions from them or not, please see our [Privacy Policy](https://ask.fm/docs/terms_of_use/privacy.html). If you are asking a question as an unregistered user, you must continue to follow the rules of conduct of the site and app or you will be banned at our discretion for abuse of this feature at any time and for any reason, if we suspect or believe you are breaching our rules, these terms, any of our policies, or have been reported by another user for improper or concerning behaviour.
 
 4\. What are the rules of using ASKfm?
 ======================================
@@ -97,7 +97,7 @@ In some countries, we permit the asking of questions by unregistered users. In o
 4A. What are the Community Guidelines?
 --------------------------------------
 
-Community Guidelines are important to any online community, as they let you know what we expect from users and how they interact with each other to ensure everyone has an enjoyable experience at ASKfm. You can read the Community Guidelines [here](https://about.ask.fm/community-guidelines/).
+Community Guidelines are important to any online community, as they let you know what we expect from users and how they interact with each other to ensure everyone has an enjoyable experience at ASKfm. You can read the Community Guidelines [here](https://ask.fm/community-guidelines/).
 
 4B. What is the Safety Center?
 ------------------------------
@@ -150,7 +150,7 @@ We reserve the right, at any time and without prior notice, to remove or disable
 4F. Who can see what I post?
 ----------------------------
 
-When you post or upload anything on the Services, it can be seen or accessed by the general public (not just registered members) as further described in our [Privacy Policy](https://about.ask.fm/legal/en/privacy.html). An important thing to remember is that we may access, preserve or disclose any of your information, if we are required to do so by law or if we believe in good faith that it is reasonably necessary to (i) respond to claims asserted against us or to comply with legal process (for example, subpoenas or warrants), including those issued by courts having jurisdiction over us or you, (ii) enforce or administer our agreements with users, such as these TOU; (iii) for fraud prevention, risk assessment, investigation, customer support, providing the Services or engineering support, or (iv) protect the rights, property or safety of ASKfm, the users of the Services, or members of the public.
+When you post or upload anything on the Services, it can be seen or accessed by the general public (not just registered members) as further described in our [Privacy Policy](https://ask.fm/docs/terms_of_use/privacy.html). An important thing to remember is that we may access, preserve or disclose any of your information, if we are required to do so by law or if we believe in good faith that it is reasonably necessary to (i) respond to claims asserted against us or to comply with legal process (for example, subpoenas or warrants), including those issued by courts having jurisdiction over us or you, (ii) enforce or administer our agreements with users, such as these TOU; (iii) for fraud prevention, risk assessment, investigation, customer support, providing the Services or engineering support, or (iv) protect the rights, property or safety of ASKfm, the users of the Services, or members of the public.
 
 5\. Does ASKfm own my content once I post it online?
 ====================================================
@@ -389,7 +389,7 @@ By using the Services, including certain features such as invite-a-friend, on yo
 12C. Entire Agreement and Waiver.
 ---------------------------------
 
-These TOU, together with the [Privacy Policy](https://about.ask.fm/legal/en/privacy.html) and [Cookie Policy](https://about.ask.fm/legal/en/cookies.html), shall constitute the entire agreement between you and us concerning the Services. If for any reason, any provision of these TOU is declared to be illegal, invalid, void or otherwise unenforceable by a competent court of any jurisdiction, then to the extent that term is illegal, invalid, void or unenforceable, it shall be severed and deleted from these TOU, and the remainder of these TOU shall survive, remain in full force and effect and continue to be binding and enforceable. No failure or delay by us in exercising any right, power or privilege under these TOU shall operate as a waiver of such right or acceptance of any variation of these TOU and nor shall any single or partial exercise by either party of any right, power or privilege preclude any further exercise of that right or the exercise of any other right, power or privilege.
+These TOU, together with the [Privacy Policy](https://ask.fm/docs/terms_of_use/privacy.html) and [Cookie Policy](https://ask.fm/docs/terms_of_use/cookies.html), shall constitute the entire agreement between you and us concerning the Services. If for any reason, any provision of these TOU is declared to be illegal, invalid, void or otherwise unenforceable by a competent court of any jurisdiction, then to the extent that term is illegal, invalid, void or unenforceable, it shall be severed and deleted from these TOU, and the remainder of these TOU shall survive, remain in full force and effect and continue to be binding and enforceable. No failure or delay by us in exercising any right, power or privilege under these TOU shall operate as a waiver of such right or acceptance of any variation of these TOU and nor shall any single or partial exercise by either party of any right, power or privilege preclude any further exercise of that right or the exercise of any other right, power or privilege.
 
 12D. No Third Party Rights. 
 ----------------------------
