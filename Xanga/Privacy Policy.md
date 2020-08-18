@@ -1,7 +1,31 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Retrieve old photos
+    *   by twinklingstar\_yin
+    *   1 year ago
+    *   in Pictures
+    *   0 votes
+    *   1 (last comment by speedrahman 15 hours ago)
+*   Can I get my blog back?
+    *   by sum\_0912
+    *   4 years ago
+    *   in Data Migration
+    *   0 votes
+    *   3 (last comment by speedrahman 15 hours ago)
+*   My profile photo is too small.
+    *   \[Resolved\] by sfiawong
+    *   5 years ago
+    *   in Avatars
+    *   0 votes
+    *   2 (last comment by speedrahman 15 hours ago)
 *   I can't find my old page
     *   by HIKKO\_LAI
     *   3 months ago
@@ -74,24 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   Archived Blog Posts?
-    *   by XxDayDream\_BelieverxX
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   can i get my old blogs back?
-    *   by jirojoyce
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   can i get my old blogs back?
-    *   by jirojoyce
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
 1 2 3 ... 198 Next
 
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
