@@ -155,13 +155,19 @@ For European Union consumers:
 
 EU law provides a statutory right to withdraw from certain contracts for physical merchandise and for the purchase of digital content. You can find more information about the extent of your statutory right to withdraw and the ways you can exercise it on this page: https://support.steampowered.com/kb\_article.php?ref=8620-QYAL-4516.
 
-4\. ONLINE CONDUCT, CHEATING AND ILLEGAL BEHAVIOR ⏶
+4\. ONLINE CONDUCT, CHEATING AND PROCESS TAMPERING ⏶
 
 Your online conduct and interaction with other Subscribers should be guided by common sense and basic etiquette. They must notably comply with the Steam Online Conduct Rules, to be found at http://steampowered.com/index.php?area=online\_conduct. Depending on terms of use imposed by third parties who host particular games or other services, additional requirements may also be provided in the Subscription Terms applicable to a particular Subscription.
 
-Steam and the Content and Services may include functionality designed to identify software or hardware processes or functionality that may give a player an unfair competitive advantage when playing multiplayer versions of any Content and Services or modifications of Content and Services ("Cheats"). You agree that you will not create Cheats or assist third parties in any way to create or use Cheats. You agree that you will not directly or indirectly disable, circumvent, or otherwise interfere with the operation of software designed to prevent or report the use of Cheats. You acknowledge and agree that either Valve or any online multiplayer host may refuse to allow you to participate in certain online multiplayer games if you use Cheats in connection with Steam or the Content and Services. Further, you acknowledge and agree that an online multiplayer host may report your use of Cheats to Valve, and Valve may communicate your history of use of Cheats to other online multiplayer hosts. Valve may terminate your Account or a particular Subscription for any conduct or activity that is illegal, constitutes a Cheat, or otherwise negatively affects the enjoyment of Steam by other Subscribers. You acknowledge that Valve is not required to provide you notice before terminating your Subscription(s) and/or Account.
+Steam and the Content and Services may include functionality designed to identify software or hardware processes or functionality that may give a player an unfair competitive advantage when playing multiplayer versions of any Content and Services or modifications of Content and Services ("Cheats"). You agree that you will not create Cheats or assist third parties in any way to create or use Cheats. You agree that you will not directly or indirectly disable, circumvent, or otherwise interfere with the operation of software designed to prevent or report the use of Cheats.
 
-You may not use Cheats, automation software (bots), mods, hacks, or any other unauthorized third-party software, to modify or automate any Subscription Marketplace process.
+You agree that you will not tamper with the execution of Steam or Content and Services unless otherwise authorized by Valve. You acknowledge and agree that either Valve or any host of an online multiplayer game distributed through Steam ("External Host") may refuse to allow you to participate in certain online multiplayer games if you use Cheats or tamper with the execution of Steam or the Content and Services.
+
+Further, you acknowledge and agree that External Hosts may report your use of Cheats or unauthorized process tampering to Valve, and Valve may communicate your history of use thereof to External Hosts within the boundaries of the Steam Privacy Policy.
+
+Valve may terminate your Account or a particular Subscription for any conduct or activity that is illegal, constitutes a Cheat, or otherwise negatively affects the enjoyment of Steam by other Subscribers. You acknowledge that Valve is not required to provide you notice before terminating your Subscription(s) and/or Account.
+
+You may not use Cheats, automation software (bots), mods, hacks, or any other unauthorized third-party software, to modify or automate any Subscription Marketplace process or the process of Steam account creation.
 
 5\. THIRD-PARTY CONTENT ⏶
 
