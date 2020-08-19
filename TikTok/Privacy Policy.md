@@ -243,7 +243,7 @@ We share your data with the following selected third parties:
 
 The personal data that we collect from you will be transferred to, and stored at, a destination outside of the European Economic Area ("EEA").
 
-Where we transfer your personal data to countries outside the EEA, we do so under the European Commission’s model contracts for the transfer of personal data to third countries (i.e. standard contractual clauses) pursuant to Commission Decision 2004/915/EC or 2010/87/EU (as appropriate) or in line with any replacement mechanism approved under EU law. For a copy of these Standard Contractual Clauses, please contact us at [privacy@tiktok.com](mailto:privacy@tiktok.com).
+Where we transfer your personal data to countries outside the EEA, we do so under the European Commission’s model contracts for the transfer of personal data to third countries (i.e. standard contractual clauses) pursuant to Commission Decision 2004/915/EC or 2010/87/EU (as appropriate) or in line with any replacement mechanism approved under EU law. For a copy of these Standard Contractual Clauses, contact us at: [https://www.tiktok.com/legal/report/privacy](https://www.tiktok.com/legal/report/privacy).
 
 **6\. Your Rights**
 -------------------
@@ -287,7 +287,7 @@ In each case, there are also occasions where we may need to keep your data for l
 **9\. Information relating to children**
 ----------------------------------------
 
-TikTok is not directed at children under the age of 13. If you believe that we have personal data about or collected from a child under the relevant age, please contact us at [privacy@tiktok.com](mailto:privacy@tiktok.com).
+TikTok is not directed at children under the age of 13. If you believe that we have personal data about or collected from a child under the relevant age, contact us at: [https://www.tiktok.com/legal/report/privacy](https://www.tiktok.com/legal/report/privacy).
 
 **10\. Changes**
 ----------------
@@ -299,7 +299,7 @@ We will notify you of any material changes to this policy through a notice provi
 
 TikTok Ireland and TikTok UK provide the Platform and associated services, and together process personal data in the manner described in this policy and in our [Terms of Service](https://www.tiktok.com/legal/terms-of-use?lang=en#terms-eea). For users of the Platform in the EEA and Switzerland, TikTok Ireland is the service provider in accordance with our Terms of Service and if you are in the UK, the provider of the Platform is TikTok UK. TikTok Ireland and TikTok UK share information as joint controllers of your data where it is necessary to do so to operate the Platform efficiently and in line with applicable laws.
 
-If you have questions or complaints regarding this policy, or if you wish to contact TikTok’s Data Protection Officer, you can do so by emailing [privacy@tiktok.com](mailto:privacy@tiktok.com) or at the following postal address.
+If you have questions or complaints regarding this policy, or if you wish to reach the TikTok’s Data Protection Officer, contact us at: [https://www.tiktok.com/legal/report/privacy](https://www.tiktok.com/legal/report/privacy). You can also contact us at the following postal address.
 
 **For users in the European Union, European Economic Area and Switzerland:** TikTok Technology Limited, 10 Earlsfort Terrace, Dublin, D02 T380, Ireland. 
 
