@@ -26,9 +26,9 @@
 *   More...
     *   August Flowers (August 2020)
     *   Smile Month (August 2020)
-    *   Romance Awareness Month (August 2020)
     *   National Aviation Day (Aug 19, 2020)
     *   Potato Day (Aug 19, 2020)
+    *   Romance Awareness Month (August 2020)
     *   National Radio Day (Aug 20, 2020)
     *   Senior Citizen Day (Aug 21, 2020)
     *   Be an Angel Day (Aug 22, 2020)
