@@ -336,7 +336,7 @@ For personal data that we have about you, you can:
 
 Visitors can learn more about how to make these requests here. You may also contact us using the contact information below, and we will consider your request in accordance with applicable laws.
 
-Residents in the Designated Countries and other regions may have additional rights under their laws. Learn More.
+Residents in the Designated Countries and other regions may have additional rights under their laws.
 
 4.3 Account Closure
 
@@ -380,4 +380,4 @@ We currently do not share personal data with third parties for their direct mark
 
 You can contact us or use other options to resolve any complaints.
 
-If you have questions or complaints regarding this Policy, please first contact LinkedIn online. You can also reach us by physical mail. If contacting us does not resolve your complaint, you have more options. Residents in the Designated Countries and other regions may also have the right to contact our Data Protection Officer here.If this does not resolve your complaint, Residents in the Designated CountriesWe use the term “Designated Countries” to refer to countries in the European Union (EU), European Economic Area (EEA), and Switzerland and other regions may have more options under their laws. Learn More
+If you have questions or complaints regarding this Policy, please first contact LinkedIn online. You can also reach us by physical mail. If contacting us does not resolve your complaint, you have more options. Residents in the Designated Countries and other regions may also have the right to contact our Data Protection Officer here.If this does not resolve your complaint, Residents in the Designated CountriesWe use the term “Designated Countries” to refer to countries in the European Union (EU), European Economic Area (EEA), and Switzerland and other regions may have more options under their laws.
