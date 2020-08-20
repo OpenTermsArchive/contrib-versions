@@ -365,7 +365,6 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Dev Center App
 *   Device Health App
 *   Dictate
-*   Docs.com
 *   Education.minecraft.net
 *   Experts for PowerPoint (Preview)
 *   Face Swap
@@ -378,6 +377,9 @@ The following products, apps and services are covered by the Microsoft Services 
 *   LineBack
 *   Manufacturers.bing.com
 *   Maps App
+*   Microsoft 365 Consumer
+*   Microsoft 365 Family
+*   Microsoft 365 Personal
 *   Microsoft Academic
 *   Microsoft account
 *   Microsoft Add-Ins for Skype
@@ -410,12 +412,11 @@ The following products, apps and services are covered by the Microsoft Services 
 *   MSN Weather
 *   MSN.com
 *   Next Lock Screen
-*   Office 365 Consumer
-*   Office 365 Home
-*   Office 365 Personal
 *   Office 365 Pro Plus optional connected experiences
-*   Office 365 University
 *   Office for the web (formerly Office Online)
+*   Office in Microsoft 365 Consumer
+*   Office in Microsoft 365 Family
+*   Office in Microsoft 365 Personal
 *   Office Store
 *   Office Sway
 *   Office.com
@@ -825,7 +826,6 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Dev Center App
 *   Device Health App
 *   Dictate
-*   Docs.com
 *   Education.minecraft.net
 *   Experts for PowerPoint (Preview)
 *   Face Swap
@@ -838,6 +838,9 @@ The following products, apps and services are covered by the Microsoft Services 
 *   LineBack
 *   Manufacturers.bing.com
 *   Maps App
+*   Microsoft 365 Consumer
+*   Microsoft 365 Family
+*   Microsoft 365 Personal
 *   Microsoft Academic
 *   Microsoft account
 *   Microsoft Add-Ins for Skype
@@ -870,12 +873,11 @@ The following products, apps and services are covered by the Microsoft Services 
 *   MSN Weather
 *   MSN.com
 *   Next Lock Screen
-*   Office 365 Consumer
-*   Office 365 Home
-*   Office 365 Personal
 *   Office 365 Pro Plus optional connected experiences
-*   Office 365 University
 *   Office for the web (formerly Office Online)
+*   Office in Microsoft 365 Consumer
+*   Office in Microsoft 365 Family
+*   Office in Microsoft 365 Personal
 *   Office Store
 *   Office Sway
 *   Office.com
