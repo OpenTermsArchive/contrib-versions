@@ -1,1 +1,1 @@
-settings="eyJjYWxsYmFja1VybCI6Imh0dHBzOi8vcHJpdmFjeXBvcnRhbC5vbmV0cnVzdC5jb20vcmVxdWVzdC92MS9wcml2YWN5Tm90aWNlcy9zdGF0cy92aWV3cyJ9" // To ensure external settings are loaded, use the Initialized promise: OneTrust.NoticeApi.Initialized.then(function() { OneTrust.NoticeApi.LoadNotices(\["https://appds8093.blob.core.windows.net/c7e704ed-33be-4f93-85f9-373c45916aeb/privacy-notices/08fa2cc7-1642-4d58-9eab-85c4da6b1e5c.json"\]); });
+settings="eyJjYWxsYmFja1VybCI6Imh0dHBzOi8vcHJpdmFjeXBvcnRhbC5vbmV0cnVzdC5jb20vcmVxdWVzdC92MS9wcml2YWN5Tm90aWNlcy9zdGF0cy92aWV3cyJ9"
