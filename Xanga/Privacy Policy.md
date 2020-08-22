@@ -7,25 +7,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 months ago
     *   in Themes
     *   0 votes
-    *   3 (last comment by speedrahman 1 day ago)
+    *   3 (last comment by speedrahman 2 days ago)
 *   Retrieve old photos
     *   by twinklingstar\_yin
     *   1 year ago
     *   in Pictures
     *   0 votes
-    *   1 (last comment by speedrahman 3 days ago)
+    *   1 (last comment by speedrahman 4 days ago)
 *   Can I get my blog back?
     *   by sum\_0912
     *   4 years ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by speedrahman 3 days ago)
+    *   3 (last comment by speedrahman 4 days ago)
 *   My profile photo is too small.
     *   \[Resolved\] by sfiawong
     *   5 years ago
     *   in Avatars
     *   0 votes
-    *   2 (last comment by speedrahman 3 days ago)
+    *   2 (last comment by speedrahman 4 days ago)
 *   Missing anything
     *   by yuenyuen0225
     *   1 week ago
