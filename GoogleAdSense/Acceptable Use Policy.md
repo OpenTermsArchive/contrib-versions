@@ -202,13 +202,13 @@ Publishers must:
 
 ### Standard Contractual Clauses (SCCs)
 
-Google relies on the European Commission’s Standard Contractual Clauses (SCCs) for transfers of online advertising and measurement personal data out of the European Economic Area, the UK, or Switzerland. For [Processor Services](https://privacy.google.com/businesses/adsservices/), the [Google Ads Data Processing Terms](https://privacy.google.com/businesses/processorterms/) include the [SCCs for transfers of personal data to processors established in third countries](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32010D0087). For Controller Services, the [Google Ads Controller-Controller Data Protection Terms](https://privacy.google.com/businesses/controllerterms/) include the [SCCs for transfers of personal data to controllers established in third countries](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32004D0915). Where there is a relevant transfer of personal data, the SCCs incorporated into Partner’s contract with Google apply.
+Google relies on the European Commission’s Standard Contractual Clauses (SCCs) for transfers of online advertising and measurement personal data out of the European Economic Area, the UK, or Switzerland. For [Processor Services](https://privacy.google.com/businesses/adsservices/), the [Google Ads Data Processing Terms](https://privacy.google.com/businesses/processorterms/) include the [SCCs for transfers of personal data to processors established in third countries](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32010D0087). For Controller Services, the [Google Ads Controller-Controller Data Protection Terms](https://privacy.google.com/businesses/controllerterms/) include the [SCCs for transfers of personal data to controllers established in third countries](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32004D0915). Where there is a relevant transfer of personal data, the SCCs incorporated into partner’s contract with Google apply.
 
-If Partner processes personal data that originated in the European Economic Area, UK, or Switzerland and that is made available by Google in connection with Partner's use of Google Ad Manager, then:
+If partner processes personal data that originated in the European Economic Area, UK, or Switzerland and that is made available by Google in connection with partner's use of Google Ad Manager, then:
 
-*   Partner must only use that personal data in a manner consistent with the consent provided by the data subject to whom it relates;
+*   partner must only use that personal data in a manner consistent with the consent provided by the data subject to whom it relates;
 *   partner must provide a level of protection for that personal data that is at least equivalent to that required under the SCCs; and
-*   if Partner determines that it cannot comply with the above requirements, Partner must notify Google in writing, and either cease processing the personal data or take reasonable and appropriate steps to remedy such non-compliance.
+*   if partner determines that it cannot comply with the above requirements, partner must notify Google in writing, and either cease processing the personal data or take reasonable and appropriate steps to remedy such non-compliance.
 
 ### Children’s Online Privacy Protection Act (COPPA)
 
