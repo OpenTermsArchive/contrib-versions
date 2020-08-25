@@ -138,7 +138,7 @@ If you are a California resident, please refer to the “California Residents”
 
 #### 6\. Unsubscribe from Marketing Emails and Text Messages
 
-*   **By Email:** You can opt out of marketing or promotional emails at any time by adjusting your preferences in your “Settings” in the Apps or here, if you are logged into your web account. You may also unsubscribe from marketing emails by following the instructions in the email. Please note that you cannot opt out of service or legal notices.
+*   **By Email:** You can opt out of marketing or promotional emails at any time by adjusting your preferences in your “Settings” in the Apps or [here](https://foursquare.com/settings/privacy), if you are logged into your web account. You may also unsubscribe from marketing emails by following the instructions in the email. Please note that you cannot opt out of service or legal notices.
 *   **By SMS:** If you have opted in to receive SMS messages, you can always unsubscribe at any time by texting STOP in response to a message or by following the instructions in the SMS.
 
 #### 7\. Personal Information Retention
