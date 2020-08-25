@@ -271,6 +271,8 @@ Special information regarding unique state guidelines
 
 Your privacy may be impacted differently depending on where you live. If you're a resident of one of the following states, select your state to review laws as they pertain to individual states.
 
+The California Consumer Privacy Act of 2018 (“CCPA”) provides California residents with rights to receive certain disclosures regarding the collection, use, and sharing of “Personal Information,” as well as rights to access, delete, and restrict the sale of certain Personal Information we collect about them. You may submit a request to exercise these rights by visiting our Individual Rights Request Page or calling us at 1-844-963-0138.
+
 California  
 Maine
 
