@@ -148,7 +148,7 @@ We maintain administrative, technical and physical safeguards designed to protec
 
 Our Consumer Services are intended for a general audience and are not directed at children. We do not knowingly collect personal information online from individuals under the age of 13 or such other age as may be directed by applicable law.
 
-10\. U.S. Consumer Rights and Disclosures U.S. Opt Out
+10\. U.S. Consumer Rights and DisclosuresU.S. Opt Out
 
 In the United States, the Network Advertising Initiative ("NAI") and the Digital Advertising Alliance ("DAA") have established rules about interest-based advertising including cross-device linking for such advertising. Interest based advertising is a digital advertising that is tailored to a consumer's inferred interests, preferences, and locations. Cross-device linking is the practice of associating different browsers and/or devices (such as mobile devices and televisions) based on information about the likely relationships among them.
 
