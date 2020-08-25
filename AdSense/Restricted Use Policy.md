@@ -1,5 +1,10 @@
+Policies
+--------
+
 Google Publisher Restrictions
 =============================
+
+[](https://support.google.com/adsense/answer/9335564?hl=en&ref_topic=1250104)[Next: AdSense Program policies](https://support.google.com/adsense/answer/48182?hl=en&ref_topic=1250104)
 
 Google helps to enable a free and open internet by providing the ability for publishers to monetize their content and for advertisers to reach prospective customers with useful, relevant products and services.
 
@@ -179,3 +184,5 @@ App removed from Google Play Store
 Is an app that: 
 
 *   is removed from the Google Play store for a violation of [Google Play policies](https://play.google.com/about/developer-content-policy/).
+
+[](https://support.google.com/adsense/answer/9335564?hl=en&ref_topic=1250104)[Next: AdSense Program policies](https://support.google.com/adsense/answer/48182?hl=en&ref_topic=1250104)
