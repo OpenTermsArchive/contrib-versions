@@ -18,23 +18,23 @@
 *   Events &. Holidays
 *   MorePetsWorld LanguagesAt WorkFlowersKeep in TouchWeddingInvitations
 
-*   Hug Your Sweetheart Day
-*   Hug Month
-*   Just Because Day
 *   August Flowers
+*   Hug Month
+*   Smile Month
 *   Dog Day
+*   Just Because Day
+*   Waffle Day
 *   More...
-    *   Smile Month (August 2020)
+    *   September Flowers (September 2020)
     *   Romance Awareness Month (August 2020)
-    *   Waffle Day (Aug 24, 2020)
     *   Kiss &. Make Up Day (Aug 25, 2020)
     *   Daffodil Day (Aug 28, 2020)
     *   Eat Outside Day (Aug 31, 2020)
     *   Onam (Aug 31, 2020)
-    *   September Flowers (September 2020)
     *   Honey Month (September 2020)
     *   Intl. Square Dance Month (September 2020)
     *   Full Moon Day (Sep 2, 2020)
+    *   Teachers' Day (India) (Sep 5, 2020)
     *   See All Events
 *   Go
 
