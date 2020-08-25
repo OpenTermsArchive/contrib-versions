@@ -3,7 +3,7 @@
 
 (If you are a user having your usual residence in the EU)
 
-_Last updated: Dec 2019_  
+_Last updated: Dec 2019_
 
 The TikTok Live Stream Program (the “**Program**”) is provided by TikTok (“**Platform**”) for users to live stream and use live-streaming features. It is open to users of the Services who are **aged 16 or older** and is subject to the following terms and conditions of this Virtual Items Policy (the “Policy). 
 
@@ -50,7 +50,7 @@ We may make the following products and incentives available to you on our Platfo
 
 ### **Contact us** 
 
-*   If you have any problems with the purchase of Coins, please contact us at [transaction@tiktok.com](mailto:transaction@tiktok.com).
+*   If you experience an issue when purchasing Coins, contact us at: [https://www.tiktok.com/legal/report/transaction](https://www.tiktok.com/legal/report/transaction)
 
 **GIFTS** 
 ----------
@@ -75,7 +75,7 @@ We may make the following products and incentives available to you on our Platfo
 
 *   Gifts exchanged or received by any user do not constitute property and are not transferable: (a) upon death; (b) as part of a domestic relations matter; or (c) otherwise by operation of law. 
 
-*   We may replace previously exchanged copies of Gifts, if we determine in our sole discretion that the Gifts exchanged or received by a user are corrupted or otherwise damaged. We will not charge additional fees for reissuing a corrupted or otherwise damaged Gift. If you receive a corrupted or otherwise damaged Gift, then please contact us at [transaction@tiktok.com](mailto:transaction@tiktok.com). 
+*   We may replace previously exchanged copies of Gifts, if we determine in our sole discretion that the Gifts exchanged or received by a user are corrupted or otherwise damaged. We will not charge additional fees for reissuing a corrupted or otherwise damaged Gift. If you receive a corrupted or otherwise damaged Gift, contact us at: [https://www.tiktok.com/legal/report/transaction](https://www.tiktok.com/legal/report/transaction)
 
 *   We reserve the right to terminate or take other appropriate action against the account of any User that is deemed to be abusing the Program or in breach of this Policy.
 
@@ -91,7 +91,7 @@ We may make the following products and incentives available to you on our Platfo
 
 ### **Contact us**
 
-*   If you have any problems with Gifts, please contact us at [transaction@tiktok.com](mailto:transaction@tiktok.com).
+*   If you have any problems with Gifts, contact us at: [https://www.tiktok.com/legal/report/transaction](https://www.tiktok.com/legal/report/transaction)
 
 **DIAMONDS**
 ------------
@@ -148,6 +148,6 @@ We may make the following products and incentives available to you on our Platfo
 
 ### **Contact Us**
 
-*   If you have any problems with Diamonds, please contact us at [transaction@tiktok.com](mailto:transaction@tiktok.com).
+*   If you have any problems with Diamonds, contact us at: [https://www.tiktok.com/legal/report/transaction](https://www.tiktok.com/legal/report/transaction)
 
 You may cancel your account at any time, and we may terminate your account in accordance with this Policy. All the Coins, Gifts or Diamonds in your account will be cancelled immediately upon the cancellation or termination of your account. There will be no refunds for any unused or unredeemed Coins, Gifts or Diamonds, so we recommend you use them before terminating your account.
