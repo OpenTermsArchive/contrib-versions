@@ -1,4 +1,4 @@
-These terms will be updated effective as of 31 August 2020. To preview the new version prior to its effective date, click [here](https://www.facebook.com/legal/commercial_terms/update).
+These terms will be updated effective as of 31 August 2020. To preview the new version prior to its effective date, click [here](https://www.facebook.com/legal/commercial_terms/update). The new version includes a reference to our new Data Transfer Addendum incorporating Standard Contractual Clauses (replacing the Privacy Shield) effective the same date. To preview this, click [here](https://www.facebook.com/legal/EU_data_transfer_addendum).
 
   
 
