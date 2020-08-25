@@ -1,5 +1,10 @@
+Policies
+--------
+
 AdSense Program policies
 ========================
+
+[](https://support.google.com/adsense/answer/9335567?hl=en&ref_topic=1250104)[Next: Policy enforcements](https://support.google.com/adsense/topic/1342777?hl=en&ref_topic=1250104)
 
 [You can also check our official blog for updates, examples and FAQs regarding program policies.](https://adsense.blogspot.com/search/label/Program%20Policies?sourceid=aso&subid=ww-en-et-policy_blogpromotion&medium=link)
 
@@ -110,3 +115,5 @@ Product-specific policies
 *   [AdSense for search](https://support.google.com/adsense/answer/1354757)
 
 _Last updated: April 30, 2020_
+
+[](https://support.google.com/adsense/answer/9335567?hl=en&ref_topic=1250104)[Next: Policy enforcements](https://support.google.com/adsense/topic/1342777?hl=en&ref_topic=1250104)
