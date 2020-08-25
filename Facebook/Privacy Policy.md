@@ -60,4 +60,4 @@ ATTN: Privacy Operations
 1601 Willow Road  
 Menlo Park, CA 94025  
   
-Date of Last Revision: April 19, 2018
+Date of Last Revision: August 21, 2020
