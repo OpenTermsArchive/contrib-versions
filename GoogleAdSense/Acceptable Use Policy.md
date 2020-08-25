@@ -1,5 +1,10 @@
+Policies
+--------
+
 Google Publisher Policies
 =========================
+
+[](https://support.google.com/adsense/answer/1282103?hl=en&ref_topic=1250104)[Next: Google Publisher Restrictions](https://support.google.com/adsense/answer/9335567?hl=en&ref_topic=1250104)
 
 Google helps to enable a free and open web by helping publishers monetize their content and advertisers reach prospective customers with useful, relevant products and services. Maintaining trust in the ads ecosystem requires setting limits on what we will monetize.
 
@@ -218,3 +223,5 @@ If you implement any Google advertising service on a site or section of a site t
 *    not use interest-based advertising (including remarketing) to target:
     *   past or current activity by users known by you to be under the age of 13 years or
     *   past or current activity on sites directed at users under the age of 13 years.
+
+[](https://support.google.com/adsense/answer/1282103?hl=en&ref_topic=1250104)[Next: Google Publisher Restrictions](https://support.google.com/adsense/answer/9335567?hl=en&ref_topic=1250104)
