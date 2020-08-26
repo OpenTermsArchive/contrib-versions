@@ -233,6 +233,6 @@ If you have a disability that makes exercising any of your rights in this Privac
 
 If you have questions or wish to file a complaint, please e-mail us at DPO@blizzard.com or send a letter addressed to Blizzard Entertainment, One Blizzard Way, Irvine, CA 92618-3616, Attention: Data Protection Officer.
 
-As mentioned, Blizzard Entertainment is a licensee of ESRB’s Privacy Certified Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB Privacy Certified at http://www.esrb.org/privacy/contact.aspx, or ESRB, Attention: Vice President, Privacy Certified Program, 420 Lexington Ave., Suite 2024, New York, NY 10170. You may also e-mail them at privacy@esrb.org.
+As mentioned, Blizzard Entertainment is a licensee of ESRB’s Privacy Certified Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB Privacy Certified at http://www.esrb.org/privacy/contact.aspx, email privacy@esrb.org, attention: Vice President.
 
 This Privacy Policy was last updated on December 20, 2019
