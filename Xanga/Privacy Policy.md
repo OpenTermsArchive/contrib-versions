@@ -1,19 +1,19 @@
-Skip to toolbar
-
-*   Xanga
-
-*   Log In
-
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Why wouldn't you guys relive Xanga? People will pay
+    *   by alexchu414
+    *   23 hours ago
+    *   in Comments
+    *   0 votes
+    *   0
 *   I can't find my old page
     *   by HIKKO\_LAI
     *   3 months ago
     *   in Themes
     *   0 votes
-    *   3 (last comment by speedrahman 5 days ago)
+    *   3 (last comment by speedrahman 6 days ago)
 *   Retrieve old photos
     *   by twinklingstar\_yin
     *   1 year ago
@@ -67,13 +67,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   6 years ago
     *   in Data Migration
     *   0 votes
-    *   14 (last comment by IshaArie 3 weeks ago)
+    *   14 (last comment by IshaArie 4 weeks ago)
 *   Old Xanga archived?
     *   by yourmomisreallyfreakinhott
     *   2 months ago
     *   in Data Migration
     *   0 votes
-    *   5 (last comment by HrsCrazy425 3 weeks ago)
+    *   5 (last comment by HrsCrazy425 4 weeks ago)
 *   Missing my blogs
     *   by Dantheman3121
     *   1 month ago
@@ -88,12 +88,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Missing my blog
     *   by bebe0125
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   missing my blogs :(
-    *   by screaming\_pretty\_n0things
     *   1 month ago
     *   in Data Migration
     *   0 votes
@@ -156,4 +150,8 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
+
+*   Xanga
+
+*   Log In
