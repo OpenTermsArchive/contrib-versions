@@ -5,8 +5,6 @@ Google Terms of Service
 
 Effective 31 March 2020 | [Archived versions](https://policies.google.com/terms/archive?hl=en-GB) | [Download PDF](https://www.gstatic.com/policies/terms/pdf/20200331/ba461e2f/google_terms_of_service_en-GB.pdf)
 
-[Country version:](https://policies.google.com/terms?hl=en-GB#footnote-country-version) South Africa
-
 What’s covered in these terms
 -----------------------------
 
@@ -375,15 +373,6 @@ An individual who uses Google services for personal, non-commercial purposes out
 ### copyright
 
 A legal right that allows the creator of an original work (such as a blog post, photo or video) to decide if and how that original work may be used by others.
-
-### country version
-
-If you have a Google Account, we associate your account with a country (or territory) so that we can determine:
-
-*   the Google [affiliate](https://policies.google.com/terms/definitions?hl=en-GB#toc-terms-affiliates) that provides the [services](https://policies.google.com/terms/definitions?hl=en-GB#toc-terms-services) to you and that processes your information as you use the services
-*   the version of the terms that govern our relationship
-
-When you’ve signed out, your country version is determined by the location where you’re using Google services. If you have an account, you can [sign in](https://accounts.google.com/ServiceLogin?hl=en-GB&continue=https://policies.google.com/terms?hl%3Den-GB) and view these terms to see the country associated with it.
 
 ### disclaimer
 
