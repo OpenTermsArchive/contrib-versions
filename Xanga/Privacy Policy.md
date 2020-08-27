@@ -4,7 +4,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   Why wouldn't you guys relive Xanga? People will pay
     *   by alexchu414
-    *   23 hours ago
+    *   1 day ago
     *   in Comments
     *   0 votes
     *   0
@@ -13,7 +13,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 months ago
     *   in Themes
     *   0 votes
-    *   3 (last comment by speedrahman 6 days ago)
+    *   3 (last comment by speedrahman 1 week ago)
 *   Retrieve old photos
     *   by twinklingstar\_yin
     *   1 year ago
