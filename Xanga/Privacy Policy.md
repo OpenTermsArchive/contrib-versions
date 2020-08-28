@@ -1,10 +1,16 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
 *   Why wouldn't you guys relive Xanga? People will pay
     *   by alexchu414
-    *   1 day ago
+    *   2 days ago
     *   in Comments
     *   0 votes
     *   0
@@ -49,7 +55,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Themes
     *   0 votes
-    *   4 (last comment by CityLightsShineForUs 2 weeks ago)
+    *   4 (last comment by CityLightsShineForUs 3 weeks ago)
 *   missing my blog
     *   by hsbj
     *   3 weeks ago
@@ -67,13 +73,13 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   6 years ago
     *   in Data Migration
     *   0 votes
-    *   14 (last comment by IshaArie 4 weeks ago)
+    *   14 (last comment by IshaArie 1 month ago)
 *   Old Xanga archived?
     *   by yourmomisreallyfreakinhott
     *   2 months ago
     *   in Data Migration
     *   0 votes
-    *   5 (last comment by HrsCrazy425 4 weeks ago)
+    *   5 (last comment by HrsCrazy425 1 month ago)
 *   Missing my blogs
     *   by Dantheman3121
     *   1 month ago
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
