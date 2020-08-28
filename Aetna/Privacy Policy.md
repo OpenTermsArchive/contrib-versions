@@ -692,7 +692,37 @@ Privacy statement update: 9/19/17
 
 For language services, please call the number on your member ID card and request an operator. For other language services: Español | 中文 | Tiếng Việt |한국어 |Tagalog | Pусский | العربية | Kreyòl | Français | Polski | Português | Italiano |Deutsch |日本語 |فارسی | Other languages ...
 
-You are now leaving the Aetna website
+You are now being directed to the CVS Health site
+
+Links to various non-Aetna sites are provided for your convenience only. Aetna Inc. and its subsidiary companies are not responsible or liable for the content, accuracy, or privacy practices of linked sites, or for products or services described on these sites.
+
+Read more Read less   Continue
+
+You are now being directed to the Apple.com COVID-19 Screening Tool
+
+Links to various non-Aetna sites are provided for your convenience only. Aetna Inc. and its subsidiary companies are not responsible or liable for the content, accuracy, or privacy practices of linked sites, or for products or services described on these sites.
+
+Read more Read less   Continue
+
+You are now being directed to the US Department of Health and Human Services site 
+
+Links to various non-Aetna sites are provided for your convenience only. Aetna Inc. and its subsidiary companies are not responsible or liable for the content, accuracy, or privacy practices of linked sites, or for products or services described on these sites.
+
+Read more Read less   Continue
+
+You are now being directed to the CVS Health COVID-19 testing site
+
+Links to various non-Aetna sites are provided for your convenience only. Aetna Inc. and its subsidiary companies are not responsible or liable for the content, accuracy, or privacy practices of linked sites, or for products or services described on these sites.
+
+Read more Read less   Continue
+
+You are now being directed to
+
+The Fight Is In Us site 
+
+Links to various non-Aetna sites are provided for your convenience only. Aetna Inc. and its subsidiary companies are not responsible or liable for the content, accuracy, or privacy practices of linked sites, or for products or services described on these sites.
+
+Read more Read less   Continue You are now leaving the Aetna website
 
 Links to various non-Aetna sites are provided for your convenience only. Aetna Inc. and its subsidiary companies are not responsible or liable for the content, accuracy, or privacy practices of linked sites, or for products or services described on these sites.
 
@@ -705,3 +735,13 @@ Read more Read less Continue You are now leaving the Aetna Medicare website.
 The information you will be accessing is provided by another organization or vendor. If you do not intend to leave our site, close this message.
 
 Read more Read less Continue
+
+Get a link to download the app
+
+Just enter your mobile number and we’ll text you a link to download the Aetna Health app from the App Store or on Google Play.
+
+Message and data rates may apply\*
+
+Thanks! You’ll get a text from us soon with a link to download the Aetna Health app
+
+MOBILE NUMBER ex: 12345678900
