@@ -1,4 +1,4 @@
-Effective 31 March 2020 | [Archived versions](https://policies.google.com/privacy/archive?hl=en-GB) | [Download PDF](https://www.gstatic.com/policies/privacy/pdf/20200331/acec359e/google_privacy_policy_en-GB.pdf)
+Effective 28 August 2020 | [Archived versions](https://policies.google.com/privacy/archive?hl=en-GB) | [Download PDF](https://www.gstatic.com/policies/privacy/pdf/20200828/k0fdi77r/google_privacy_policy_en-GB.pdf)
 
 We build a range of services that help millions of people daily to explore and interact with the world in new ways. Our services include:
 
@@ -362,11 +362,11 @@ Specific Google services
 The following privacy notices provide additional information about some Google services:
 
 *   [Chrome & the Chrome Operating System](https://www.google.com/chrome/intl/en-GB/privacy.html)
-*   [Play Books](https://play.google.com/books/intl/en-GB/privacy.html)
 *   [Payments](https://payments.google.com/legaldocument?family=0.privacynotice&hl=en-GB)
 *   [Fiber](https://fiber.google.com/legal/privacy.html)
 *   [Google Fi](https://fi.google.com/about/tos/#project-fi-privacy-notice)
 *   [G Suite for Education](https://www.google.com/work/apps/terms/education_privacy.html)
+*   [Read Along](https://readalong.google/intl/en-GB_ZA/privacy)
 *   [YouTube Kids](https://kids.youtube.com/privacynotice)
 *   [Google Accounts Managed with Family Link, for Children under 13 (or applicable age in your country)](https://families.google.com/familylink/privacy/child-policy/)
 *   [Voice and audio collection from children’s features on the Google Assistant](https://assistant.google.com/privacy-notice-childrens-features/?hl=en_GB)
