@@ -8,15 +8,21 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   How do I retrieve my old entries?
+    *   by mungbeanminh
+    *   14 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Why wouldn't you guys relive Xanga? People will pay
     *   by alexchu414
-    *   2 days ago
+    *   4 days ago
     *   in Comments
     *   0 votes
     *   0
 *   I can't find my old page
     *   by HIKKO\_LAI
-    *   3 months ago
+    *   4 months ago
     *   in Themes
     *   0 votes
     *   3 (last comment by speedrahman 1 week ago)
@@ -64,7 +70,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Missing my Blog
     *   by vi\_\_an
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -90,12 +96,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   by ayisecret
     *   1 month ago
     *   in Themes
-    *   0 votes
-    *   0
-*   Missing my blog
-    *   by bebe0125
-    *   1 month ago
-    *   in Data Migration
     *   0 votes
     *   0
 
