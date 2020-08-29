@@ -4,7 +4,13 @@ When you use our services, you’re trusting us with your information. We unders
 
 This Privacy Policy is meant to help you understand what information we collect, why we collect it, and how you can update, manage, export, and delete your information.
 
-Effective July 1, 2020 | Archived versions | Download PDFContentsIntroductionInformation Google collectsWhy Google collects dataYour privacy controlsSharing your informationKeeping your information secureExporting &. deleting your informationRetaining your informationCompliance &. cooperation with regulatorsAbout this policyRelated privacy practices
+Privacy Checkup
+
+Looking to change your privacy settings?
+
+Take the Privacy Checkup
+
+Effective August 28, 2020 | Archived versions | Download PDFContentsIntroductionInformation Google collectsWhy Google collects dataYour privacy controlsSharing your informationKeeping your information secureExporting &. deleting your informationRetaining your informationCompliance &. cooperation with regulatorsAbout this policyRelated privacy practices
 
 We build a range of services that help millions of people daily to explore and interact with the world in new ways. Our services include:
 
@@ -396,11 +402,11 @@ Related privacy practicesSpecific Google services
 The following privacy notices provide additional information about some Google services:
 
 *   Chrome &. the Chrome Operating System
-*   Play Books
 *   Payments
 *   Fiber
 *   Google Fi
 *   G Suite for Education
+*   Read Along
 *   YouTube Kids
 *   Google Accounts Managed with Family Link, for Children under 13 (or applicable age in your country)
 *   Voice and Audio Collection from Children’s Features on the Google Assistant
