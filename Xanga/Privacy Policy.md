@@ -1,16 +1,22 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
 *   How do I retrieve my old entries?
     *   by mungbeanminh
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Why wouldn't you guys relive Xanga? People will pay
     *   by alexchu414
-    *   5 days ago
+    *   6 days ago
     *   in Comments
     *   0 votes
     *   0
@@ -25,25 +31,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Pictures
     *   0 votes
-    *   1 (last comment by speedrahman 1 week ago)
+    *   1 (last comment by speedrahman 2 weeks ago)
 *   Can I get my blog back?
     *   by sum\_0912
     *   4 years ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by speedrahman 1 week ago)
+    *   3 (last comment by speedrahman 2 weeks ago)
 *   My profile photo is too small.
     *   \[Resolved\] by sfiawong
     *   5 years ago
     *   in Avatars
     *   0 votes
-    *   2 (last comment by speedrahman 1 week ago)
+    *   2 (last comment by speedrahman 2 weeks ago)
 *   Missing anything
     *   by yuenyuen0225
     *   3 weeks ago
     *   in Data Migration
     *   0 votes
-    *   1 (last comment by MatteoPanzarella 2 weeks ago)
+    *   1 (last comment by MatteoPanzarella 3 weeks ago)
 *   Missing anything
     *   by yuenyuen0225
     *   3 weeks ago
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
