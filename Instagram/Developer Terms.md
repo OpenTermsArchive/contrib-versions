@@ -1,7 +1,7 @@
 Platform Policy
 ---------------
 
-Instagram Platform Policy will be updated and incorporated into the new Facebook Platform Terms and Developer Policies, effective August 31, 2020. [Learn More](https://developers.facebook.com/blog/post/2020/07/01/platform-terms-developer-policies).
+The Instagram Platform Policy has been updated and incorporated into the new Facebook [Platform Terms](https://developers.facebook.com/terms) and [Developer Policies](https://developers.facebook.com/devpolicy), effective August 31, 2020. [Learn More](https://developers.facebook.com/blog/post/2020/07/01/platform-terms-developer-policies)
 
 By using the Instagram Platform, you agree to this policy. By "Platform" we mean a set of APIs, SDKs, plugins, code, specifications, documentation, technology, and services (such as content) that enable others, including application developers and website operators, to retrieve data from Instagram or provide data to us. We reserve the right to change this policy at any time without notice, so please check it regularly. Your continued use of the Instagram Platform constitutes acceptance of any changes. You also agree to and are responsible for ensuring that you comply with the [Instagram Terms of Use](https://www.instagram.com/about/legal/terms/) and [Instagram Community Guidelines](http://help.instagram.com/477434105621119?helpref=page_content).
 
