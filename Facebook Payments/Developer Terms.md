@@ -3,6 +3,8 @@ Payments Terms
 
 The Facebook Payments service (“Facebook Payments”) helps developers who wish to offer premium in-game content generate revenue, so they can focus on creating apps, games, and features (generically, “apps”) rather than on building payment systems
 
+The Facebook Platform Policy has been updated and incorporated into the new Facebook Platform Terms and Developer Policies, effective August 31, 2020. [Learn More](https://developers.facebook.com/blog/post/2020/07/01/platform-terms-developer-policies/)
+
 _Date of Last Revision: December 29, 2016_
 
 To enhance the quality, convenience, and security of the user experience on Facebook, these Facebook Developer Payments Terms (the “Terms”) apply to all developers of apps using Facebook Payments. We have provided section headers for your convenience, but you should carefully read though these Terms in order to understand your rights and responsibilities, as well as ours.
