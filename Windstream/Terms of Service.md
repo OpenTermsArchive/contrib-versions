@@ -1,4 +1,4 @@
-<iframe aria-hidden="true" title="Google Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-THS7L57" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
+<iframe aria-hidden="true" title="Google Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-THS7L57" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1819151935020592&amp;ev=PageView&amp;noscript=1" alt="">. <img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?event=init&amp;tid=2614049117219&amp;pd\[em\]=&lt;hashed\_email\_address&gt;&amp;noscript=1">.
 
 *   Residential
 *   |
@@ -724,4 +724,4 @@ _keyboard\_arrow\_right_ CONTACT US
 *   Call now to order 1-866-445-8084
 *   Contact Us
 
-© 2020 Windstream Communications. All rights reserved. Privacy Policy   |   Terms &. Conditions   |   Legal Notices <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1819151935020592&amp;ev=PageView&amp;noscript=1" alt="">. <img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?event=init&amp;tid=2614049117219&amp;pd\[em\]=&lt;hashed\_email\_address&gt;&amp;noscript=1">. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
+© 2020 Windstream Communications. All rights reserved. Privacy Policy   |   Terms &. Conditions   |   Legal Notices BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
