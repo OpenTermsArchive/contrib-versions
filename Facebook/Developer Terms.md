@@ -1,3 +1,5 @@
+The Facebook Platform Policy has been updated and incorporated into the new Facebook Platform Terms and Developer Policies, effective August 31, 2020. [Learn More](https://developers.facebook.com/blog/post/2020/07/01/platform-terms-developer-policies/)
+
 Facebook Platform Policy
 ========================
 
