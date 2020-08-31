@@ -26,7 +26,6 @@
 *   Onam
 *   More...
     *   Teddy Bear Day (Sep 9, 2020)
-    *   Romance Awareness Month (August 2020)
     *   Eat Outside Day (Aug 31, 2020)
     *   Honey Month (September 2020)
     *   Intl. Square Dance Month (September 2020)
@@ -35,6 +34,7 @@
     *   Father's Day (Australia) (Sep 6, 2020)
     *   Labor Day (Canada) (Sep 7, 2020)
     *   Patriot Day (Sep 11, 2020)
+    *   Video Games Day (Sep 12, 2020)
     *   See All Events
 *   Go
 
