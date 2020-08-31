@@ -156,7 +156,7 @@ Disclaimer of Warranties. Limitation of Liability
 
 We do not guarantee, represent or warrant that your use of our service will be uninterrupted, timely, secure or error-free.
 
-We do not warrant that the results that may be obtained from the use of the service will be accurate or reliable.  You agree that from time to time we may remove the service for indefinite periods of time or cancel the service at any time, without notice to you.
+We do not warrant that the results that may be obtained from the use of the service will be accurate or reliable. You agree that from time to time we may remove the service for indefinite periods of time or cancel the service at any time, without notice to you.
 
 You expressly agree that your use of, or inability to use, the service is at your sole risk. The service and all products and services delivered to you through the service are (except as expressly stated by us) provided 'as is' and 'as available' for your use, without any representation, warranties or conditions of any kind, either express or implied, including all implied warranties or conditions of merchantability, merchantable quality, fitness for a particular purpose, durability, title, and non-infringement.
 
@@ -188,7 +188,7 @@ Your continued use of or access to our website or the Service following the post
 
 Contact Information
 
-If you have any questions or conserns regarding these Terms, please contact us athelp@w3schools.com
+If you have any questions or conserns regarding these Terms, please contact us at help@w3schools.com
 
   
 ❮ Previous Next ❯
