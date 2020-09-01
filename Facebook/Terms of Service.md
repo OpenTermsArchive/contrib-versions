@@ -1,8 +1,8 @@
-Plain Text Terms of Service Facebook Ads Controls Privacy Basics Cookies Policy Data Policy More Resources
+Plain Text Terms of Service Section 3.2 will be updated effective October 1, 2020. Click here to preview the new version. Facebook Ads Controls Privacy Basics Cookies Policy Data Policy More Resources
 
 *   View a printable version of the Terms of Service
 
-Terms of Service  
+Terms of Service Section 3.2 will be updated effective October 1, 2020. Click here to preview the new version.  
   
 Welcome to Facebook!  
   
