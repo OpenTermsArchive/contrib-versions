@@ -325,6 +325,6 @@ Valve’s obligations are subject to existing laws and legal process and Valve m
 
 You agree to comply with all applicable import/export laws and regulations. You agree not to export the Content and Services or Hardware or allow use of your Account by individuals of any terrorist supporting countries to which encryption exports are at the time of exportation restricted by the U.S. Bureau of Export Administration. You represent and warrant that you are not located in, under the control of, or a national or resident of any such prohibited country.
 
-This Agreement was last updated on April 30th, 2019 ("Revision Date"). If you were a Subscriber before the Revision Date, it replaces your existing agreement with Valve or Valve SARL on the day that it becomes effective according to Section 8 above.
+This Agreement was last updated on August 28th, 2020 ("Revision Date"). If you were a Subscriber before the Revision Date, it replaces your existing agreement with Valve or Valve SARL on the day that it becomes effective according to Section 8 above.
 
 Privacy Feedback
