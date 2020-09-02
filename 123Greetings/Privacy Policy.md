@@ -19,14 +19,14 @@
 *   MorePetsWorld LanguagesAt WorkFlowersKeep in TouchWeddingInvitations
 
 *   Labor Day
-*   August Flowers
-*   Hug Month
-*   Smile Month
+*   Rosh Hashanah
 *   September Flowers
-*   Onam
+*   Teddy Bear Day
+*   Chocolate Day
 *   More...
-    *   Teddy Bear Day (Sep 9, 2020)
-    *   Eat Outside Day (Aug 31, 2020)
+    *   Grandparents Day (Sep 13, 2020)
+    *   Positive Thinking Day (Sep 13, 2020)
+    *   Thank You Day (Sep 15, 2020)
     *   Honey Month (September 2020)
     *   Intl. Square Dance Month (September 2020)
     *   Full Moon Day (Sep 2, 2020)
