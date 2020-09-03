@@ -82,12 +82,12 @@ Google ads, search boxes or search results may not be:
 *   Placed inside emails, or on pages where email messages are the primary focus.
 *   Placed on pages where dynamically-generated content (such as live chat, instant messaging, or auto-refreshing comments) is the primary focus of the page.
 *   Obscured by elements on a page.
-*   Underneath or adjacent to buttons or any other object such that the placement of the ad interferes with a user’s typical interaction with the app or ad.
+*   Underneath or adjacent to buttons or any other object such that the placement of the ad interferes with a userâ€™s typical interaction with the app or ad.
 *   Placed on any non-content-based page. (Does not apply to AdSense for search or mobile AdSense for search.)
 *   Placed on pages published specifically for the purpose of showing ads.
 *   Placed on pages whose content or URL could confuse users into thinking it is associated with Google due to the misuse of logos, trademarks or other brand features.
 *   Placed on, within or alongside other Google products or services in a manner that violates the policies of that product or service.
-*   Placed on pages that frame content. Framing content is when a site or app displays someone’s else site within a frame or window without permission from the owners of that content. 
+*   Placed on pages that frame content. Framing content is when a site or app displays someoneâ€™s else site within a frame or window without permission from the owners of that content. 
 
 Site behavior
 -------------
