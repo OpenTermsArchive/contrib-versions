@@ -50,7 +50,7 @@ All LibraryThing members have access to their own Member [Privacy Center](https:
 
 ### Private libraries
 
-LibraryThing allows "private" librariesâ€”libraries that others can't see. We cannot give an absolute 100% guarantee of privacy. After all, even Amazon had a day when all their "anonymous" reviewers were exposed by mistake. If the public disclosure of your library would really damage you, by all means don't post it online.
+LibraryThing allows "private" libraries—libraries that others can't see. We cannot give an absolute 100% guarantee of privacy. After all, even Amazon had a day when all their "anonymous" reviewers were exposed by mistake. If the public disclosure of your library would really damage you, by all means don't post it online.
 
 LibraryThing has a "private books" feature, marked as a "beta" feature. It is not fully functional, and does not guarantee security.
 
