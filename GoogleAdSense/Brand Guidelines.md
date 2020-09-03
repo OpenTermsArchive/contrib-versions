@@ -19,7 +19,7 @@ To ensure the highest quality product, the content and ordering of Google search
 
 Any special formatting (e.g., bolding of query terms) received in the feed from Google must be preserved.
 
-\*Unless otherwise indicated, â€œsearch resultsâ€� refer both to web search results (results from across the Web) as well as site search results (internal results from your site).
+\*Unless otherwise indicated, “search results” refer both to web search results (results from across the Web) as well as site search results (internal results from your site).
 
 ### Mandatory and optional elements
 
@@ -40,7 +40,7 @@ Even if there is no other content or sponsored listings on the page, the header 
 
 If a page contains any content in addition to Google search results, all content must be labeled in such a way as to enable users to clearly distinguish between Google-provided and non-Google provided content.
 
-This policy applies regardless of whether the other content is comprised of Google AdSense for Search (â€œAFSâ€�) ads, Google AdSense for Shopping (â€œAFSHâ€�) ads, or non-Google provided sponsored listings or non-Google provided search results.
+This policy applies regardless of whether the other content is comprised of Google AdSense for Search (“AFS”) ads, Google AdSense for Shopping (“AFSH”) ads, or non-Google provided sponsored listings or non-Google provided search results.
 
 Display of sponsored listings
 -----------------------------
@@ -59,14 +59,14 @@ Display of sponsored listings
 
 By default, Google will provide the appropriate label within the AFS ad frame. Where you have been approved to manage your own labeling, these guidelines must be followed to properly identify sponsored listings on the site:
 
-*   _Labeling_: AFS ads must be clearly labeled as, â€œAds by Google,â€� â€œAds,â€� "Sponsored Links," "Sponsored Listings" or "Paid Listings." Wording other than these is subject to approval by Google.
+*   _Labeling_: AFS ads must be clearly labeled as, “Ads by Google,” “Ads,” "Sponsored Links," "Sponsored Listings" or "Paid Listings." Wording other than these is subject to approval by Google.
 *   _Location_: Unless otherwise approved by Google, AFS ad attribution must be displayed in the upper left-hand corner of the ad unit on desktop implementations (for right-to-left languages, upper right-hand corner), and in the upper right-hand or upper left-hand corner of the ad unit on mobile implementations.
 
 ### Labeling of Google AFSH ads
 
 By default, Google will provide the appropriate label within the AFSH ad frame. Where you have been approved to manage your own labeling or where a double attribution is required (e.g., multiple format), these guidelines must be followed to properly identify sponsored listings on the site:
 
-*   _Desktop and Tablet Labeling:_ AFSH ads must be clearly labeled as, â€œAds," "Sponsored Links," or "Sponsored Products." Wording other than this is subject to approval by Google.
+*   _Desktop and Tablet Labeling:_ AFSH ads must be clearly labeled as, “Ads," "Sponsored Links," or "Sponsored Products." Wording other than this is subject to approval by Google.
 
 ### Labeling of non-Google sponsored listings
 
@@ -87,9 +87,9 @@ Use of Google brand features is only permitted in accordance with the requiremen
 
 ### "enhanced by Google"
 
-Where you meet the requirements of this section, you may add an approved â€œenhanced by Googleâ€� logo to your search boxes and search result pages.
+Where you meet the requirements of this section, you may add an approved “enhanced by Google” logo to your search boxes and search result pages.
 
-The â€œenhanced by Googleâ€� logo constitutes the only approved use of the Google brand.\*
+The “enhanced by Google” logo constitutes the only approved use of the Google brand.\*
 
 \*Google can provide this logo in other languages upon request.
 
@@ -111,9 +111,9 @@ Subject to the requirements above, a site may display Google branding next to th
 
 The "enhanced by Google" logo must be directly associated with - and only with - the search results provided by Google.
 
-On search result pages that do not contain any publisher or third-party content, display of the â€œenhanced by Googleâ€� logo at the top of the search results page may be appropriate.
+On search result pages that do not contain any publisher or third-party content, display of the “enhanced by Google” logo at the top of the search results page may be appropriate.
 
-On search result pages that contain search results (or other content) that are not provided by Google, the â€œenhanced by Googleâ€� logo must not be used in such a way that users may associate Googleâ€™s brand with non-Google provided content. Typically, this will require displaying the logo directly adjacent to the Google-provided search results.
+On search result pages that contain search results (or other content) that are not provided by Google, the “enhanced by Google” logo must not be used in such a way that users may associate Google’s brand with non-Google provided content. Typically, this will require displaying the logo directly adjacent to the Google-provided search results.
 
 ### Limitations on use of Google logo
 
