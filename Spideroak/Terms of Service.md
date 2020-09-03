@@ -76,7 +76,7 @@ To send us a notice concerning copyright infringement, you’ll need to provide 
 
 You can report alleged copyright infringement by emailing the above information to copyright@spideroak.com.
 
-You can also mail a copyright notice to: Laura Gowans, SpiderOak, Inc., 5920 Nall Avenue, Suite 200, Mission KS 66202, USA. 
+You can also mail a copyright notice to: Laura Gowans, SpiderOak, Inc.,  11944 W 95th St #143 Lenexa, KS 66215.
 
 Our response to notices of alleged copyright infringement may include removing or restricting access to allegedly infringing material. If we remove or restrict access to content in response to a copyright notice, we’ll make a good-faith effort to get in touch with the affected account holder to provide information about the situation, including a copy of the takedown notice and instructions for filing a counter-notification.
 
@@ -139,7 +139,7 @@ Nothing shall prevent either party from seeking injunctive or other equitable re
 
 YOUR RIGHT TO OPT OUT OF ARBITRATION
 
-You may opt out of the agreement to arbitrate. If you do so, neither you nor SpiderOak can require the other to participate in an arbitration proceeding. To opt out, you must notify SpiderOak within 90 days of the date that you first agreed to these Terms. Send your written opt-out notice to this address: Arbitration Opt-Out, Attn: Laura Gowans, SpiderOak, Inc., 5920 Nall Avenue, Suite 200, Mission KS 66202, USA. 
+You may opt out of the agreement to arbitrate. If you do so, neither you nor SpiderOak can require the other to participate in an arbitration proceeding. To opt out, you must notify SpiderOak within 90 days of the date that you first agreed to these Terms. Send your written opt-out notice to this address: Arbitration Opt-Out, Attn: Laura Gowans, SpiderOak, Inc., 11944 W 95th St #143 Lenexa, KS 66215. 
 
 Your written opt-out notice must include (1) your name and residence address. (2) the email address and/or mobile telephone number associated with your account. (3) a clear statement that you want to opt out of this arbitration agreement. and (4) your signature.
 
