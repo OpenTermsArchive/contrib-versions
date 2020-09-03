@@ -72,7 +72,7 @@ We do not allow content that:
 
 *   enables a user, or promotes products and services that enable a user, to track or monitor another person or their activities without their authorization.
     
-    **Examples**: Spyware and technology used for intimate partner surveillance including but not limited to spyware/malware that enables a user to monitor another personâ€™s texts, phone calls, or browsing history; GPS trackers specifically marketed to spy or track someone without their consent; promotion of surveillance equipment (e.g. cameras, audio recorders, dash cams, nanny cams) marketed with the express purpose of spying
+    **Examples**: Spyware and technology used for intimate partner surveillance including but not limited to spyware/malware that enables a user to monitor another person’s texts, phone calls, or browsing history; GPS trackers specifically marketed to spy or track someone without their consent; promotion of surveillance equipment (e.g. cameras, audio recorders, dash cams, nanny cams) marketed with the express purpose of spying
     
     This does not include (a) private investigation services or (b) products or services designed for parents to track or monitor their underage children.
     
@@ -84,7 +84,7 @@ We do not allow content that:
 
 *   misrepresents, misstates, or conceals information about you, your content or the primary purpose of your web destination.
 *   entices users to engage with content under false or unclear pretenses.
-*   engages in "phishing" for usersâ€™ information.
+*   engages in "phishing" for users’ information.
 *   promotes content, products, or services using false, dishonest, or deceptive claims.
     
     **Example**: "Get Rich Quick" schemes
@@ -148,7 +148,7 @@ Adult themes in family content
 
 We do not allow content that:
 
-*   is made to appear appropriate for a family audience, but contains adult themes including sex, violence, or other depictions of children or popular childrenâ€™s characters that are unsuitable for a general audience.
+*   is made to appear appropriate for a family audience, but contains adult themes including sex, violence, or other depictions of children or popular children’s characters that are unsuitable for a general audience.
 
 Child sexual abuse and exploitation
 -----------------------------------
@@ -157,8 +157,8 @@ We do not allow content that:
 
 *   Sexually exploits or abuses children or content that promotes the sexual exploitation or abuse of children. This includes all child sexual abuse materials.
 *   Endangers children. Including but not limited to:
-    *   â€˜Child groomingâ€™ (for example, befriending a child online to facilitate, either online or offline, sexual contact and/or exchanging sexual imagery with that child);
-    *   â€˜Sextortionâ€™ (for example, threatening or blackmailing a child by using real or alleged access to a childâ€™s intimate images);
+    *   ‘Child grooming’ (for example, befriending a child online to facilitate, either online or offline, sexual contact and/or exchanging sexual imagery with that child);
+    *   ‘Sextortion’ (for example, threatening or blackmailing a child by using real or alleged access to a child’s intimate images);
     *   Sexualization of a minor (for example, content that depicts, encourages or promotes the sexual abuse or exploitation of children); and
     *   Trafficking of a child (for example, advertising or solicitation of a child for commercial sexual exploitation).
 
@@ -173,7 +173,7 @@ Publishers must:
 
 *   have and abide by a privacy policy that clearly discloses any data collection, sharing and usage that takes place on any site, app, email publication or other property as a consequence of your use of Google products. The privacy policy must disclose to users that third parties may be placing and reading cookies on your users' browsers, or using web beacons to collect information as a result of ad serving on your website.
     
-    To comply with this disclosure obligation with respect to Googleâ€™s use of data, you have the option to display a prominent link to [How Google uses data when you use our partnersâ€™ sites or apps](http://www.google.com/policies/privacy/partners/).
+    To comply with this disclosure obligation with respect to Google’s use of data, you have the option to display a prominent link to [How Google uses data when you use our partners’ sites or apps](http://www.google.com/policies/privacy/partners/).
     
 
 ### Cookies on Google domains
@@ -207,7 +207,7 @@ Publishers must:
 
 ### Standard Contractual Clauses (SCCs)
 
-Google relies on the European Commissionâ€™s Standard Contractual Clauses (SCCs) for transfers of online advertising and measurement personal data out of the European Economic Area, the UK, or Switzerland. For [Processor Services](https://privacy.google.com/businesses/adsservices/), the [Google Ads Data Processing Terms](https://privacy.google.com/businesses/processorterms/) include the [SCCs for transfers of personal data to processors established in third countries](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32010D0087). For Controller Services, the [Google Ads Controller-Controller Data Protection Terms](https://privacy.google.com/businesses/controllerterms/) include the [SCCs for transfers of personal data to controllers established in third countries](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32004D0915). Where there is a relevant transfer of personal data, the SCCs incorporated into partnerâ€™s contract with Google apply.
+Google relies on the European Commission’s Standard Contractual Clauses (SCCs) for transfers of online advertising and measurement personal data out of the European Economic Area, the UK, or Switzerland. For [Processor Services](https://privacy.google.com/businesses/adsservices/), the [Google Ads Data Processing Terms](https://privacy.google.com/businesses/processorterms/) include the [SCCs for transfers of personal data to processors established in third countries](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32010D0087). For Controller Services, the [Google Ads Controller-Controller Data Protection Terms](https://privacy.google.com/businesses/controllerterms/) include the [SCCs for transfers of personal data to controllers established in third countries](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32004D0915). Where there is a relevant transfer of personal data, the SCCs incorporated into partner’s contract with Google apply.
 
 If partner processes personal data that originated in the European Economic Area, UK, or Switzerland and that is made available by Google in connection with partner's use of Google Ad Manager, then:
 
@@ -215,7 +215,7 @@ If partner processes personal data that originated in the European Economic Area
 *   partner must provide a level of protection for that personal data that is at least equivalent to that required under the SCCs; and
 *   if partner determines that it cannot comply with the above requirements, partner must notify Google in writing, and either cease processing the personal data or take reasonable and appropriate steps to remedy such non-compliance.
 
-### Childrenâ€™s Online Privacy Protection Act (COPPA)
+### Children’s Online Privacy Protection Act (COPPA)
 
 If you implement any Google advertising service on a site or section of a site that is covered by the Children's Online Privacy Protection Act (COPPA), you must:
 
