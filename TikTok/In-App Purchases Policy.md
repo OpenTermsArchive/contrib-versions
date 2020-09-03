@@ -5,9 +5,9 @@
 
 _Last updated: Dec 2019_
 
-The TikTok Live Stream Program (the “**Program**”) is provided by TikTok (“**Platform**”) for users to live stream and use live-streaming features. It is open to users of the Services who are **aged 16 or older** and is subject to the following terms and conditions of this Virtual Items Policy (the “Policy). 
+The TikTok Live Stream Program (the â€œ**Program**â€�) is provided by TikTok (â€œ**Platform**â€�) for users to live stream and use live-streaming features. It is open to users of the Services who are **aged 16 or older** and is subject to the following terms and conditions of this Virtual Items Policy (the â€œPolicy). 
 
-Users between 16 and 18 (or age of majority in your jurisdiction) must have parents or legal guardian’s full permission to participate in the Program.  
+Users between 16 and 18 (or age of majority in your jurisdiction) must have parents or legal guardianâ€™s full permission to participate in the Program.  
 
 Who is eligible to participate in the Program?
 
@@ -22,7 +22,7 @@ We may make the following products and incentives available to you on our Platfo
 
 ### **Who can buy Coins?** 
 
-*   Users of our Services who are **aged 18 (or age of majority in your jurisdiction) or older** may purchase virtual “coins” (“**Coins**”) from us using authorised payment methods and through payment providers made available and authorized by us.
+*   Users of our Services who are **aged 18 (or age of majority in your jurisdiction) or older** may purchase virtual â€œcoinsâ€� (â€œ**Coins**â€�) from us using authorised payment methods and through payment providers made available and authorized by us.
 
 ### **Purchasing Coins**
 
@@ -44,7 +44,7 @@ We may make the following products and incentives available to you on our Platfo
 
 *   Any Coins assigned, sold, or otherwise transferred without the express written consent of us are void. Any user of the Services who violates this restriction may have his or her account terminated us, forfeit Coins from his or her account, and/or be subject to liability for damages and litigation and transaction costs.
 
-*   All Coins of a user will expire automatically upon termination of the user’s account for any reason. 
+*   All Coins of a user will expire automatically upon termination of the userâ€™s account for any reason. 
 
 *   You agree that we have the right to manage, regulate, control, modify and/or eliminate such Coins, where we have a valid reason to do so such as where we reasonably believe you have violated this Policy, you are in breach of any applicable law or regulation or for legal, security or technical reasons and that we will have no liability to you based on our  exercise of such right. If we decided to eliminate Coins from our services completely, we will do so by providing reasonable notice to you.  
 
@@ -57,7 +57,7 @@ We may make the following products and incentives available to you on our Platfo
 
 ### **Who can buy Gifts?** 
 
-*   User of our Services who are **aged 18 (or age of majority in your jurisdiction) or older** may purchase virtual gifts (“**Gifts**”) by exchanging Coins for Gifts. 
+*   User of our Services who are **aged 18 (or age of majority in your jurisdiction) or older** may purchase virtual gifts (â€œ**Gifts**â€�) by exchanging Coins for Gifts. 
 
 ### **Purchasing Gifts**
 
@@ -81,11 +81,11 @@ We may make the following products and incentives available to you on our Platfo
 
 ### **How you can use Gifts**
 
-*   In relation to a live stream product, you may use Gifts to rate or show your appreciation for an item of User Content that is uploaded or streamed by another user (“**Content Provider**”). 
+*   In relation to a live stream product, you may use Gifts to rate or show your appreciation for an item of User Content that is uploaded or streamed by another user (â€œ**Content Provider**â€�). 
 
-*   When this functionality is available on the Services, you can contribute Gifts to User Content by clicking the “Give Gift” button below the relevant User Content.
+*   When this functionality is available on the Services, you can contribute Gifts to User Content by clicking the â€œGive Giftâ€� button below the relevant User Content.
 
-*   When you have contributed a Gift to an item of User Content, this Gift will be removed from your account, and converted into Diamonds (as defined and further explained below) in the Content Provider’s account. 
+*   When you have contributed a Gift to an item of User Content, this Gift will be removed from your account, and converted into Diamonds (as defined and further explained below) in the Content Providerâ€™s account. 
 
 *   Please note that when you give a Gift to another user you do so publicly so other users of the Services (including the recipient of the Gift) can see your name, user ID and the details of the Gift that you gave. 
 
@@ -98,7 +98,7 @@ We may make the following products and incentives available to you on our Platfo
 
 ### **Who can earn Diamonds?**
 
-*   In a live stream product, a Content Provider who is **aged 18 (or age of majority in your jurisdiction) or older** will be entitled to earn virtual credits (“**Diamonds**”).
+*   In a live stream product, a Content Provider who is **aged 18 (or age of majority in your jurisdiction) or older** will be entitled to earn virtual credits (â€œ**Diamonds**â€�).
 
 ### **How do you earn Diamonds?**
 
