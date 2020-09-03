@@ -432,7 +432,7 @@ Threats to platform security**
 
 In addition to the content and behavior outlined above, our policies prohibit activities that undermine the TikTok service:
 
-*   Do not hack the TikTok website, app, or associated networks, or bypass its measures to restrict usersâ€™ access
+*   Do not hack the TikTok website, app, or associated networks, or bypass its measures to restrict users’ access
 
 *   Do not distribute files that contain viruses, Trojan horses, worms, logic bombs, or other materials that are malicious or harmful
 
