@@ -1,7 +1,7 @@
 Flickr Privacy Policy
 ---------------------
 
-For SmugMugâ€™s Privacy Policy click [here](https://www.smugmug.com/about/privacy/).
+For SmugMug’s Privacy Policy click [here](https://www.smugmug.com/about/privacy/).
 
 Date of Last Revision: April 30, 2020
 
@@ -48,9 +48,9 @@ When you access or use our Services, we automatically collect information about 
     
 *   Location Information: With your consent, we may collect information about the location of your device. For example, we use your location information to provide you with the option to add POI data to your photo. For more details, please see "Your Choices" below.
     
-*   Photo Location Information: When you upload a photo with geographical data (i.e. from a mobile device) or manually geotag your photo, we collect the location of that photo. With your consent, we collect information about your location if you take a photo within the Flickr mobile application to add to your photoâ€™s metadata.
+*   Photo Location Information: When you upload a photo with geographical data (i.e. from a mobile device) or manually geotag your photo, we collect the location of that photo. With your consent, we collect information about your location if you take a photo within the Flickr mobile application to add to your photo’s metadata.
     
-*   EXIF Data: Exchangeable Image File Format (â€œEXIFâ€�) data is a record of the settings and other relevant metadata inserted by a digital camera when you take a photo or video such as camera type, aperture, shutter speed, focal length, and location (as described above), among other information. Unless you turn off EXIF data on your camera or device or remove it from the picture before uploading to Flickr, Flickr receives and stores EXIF data.
+*   EXIF Data: Exchangeable Image File Format (“EXIF”) data is a record of the settings and other relevant metadata inserted by a digital camera when you take a photo or video such as camera type, aperture, shutter speed, focal length, and location (as described above), among other information. Unless you turn off EXIF data on your camera or device or remove it from the picture before uploading to Flickr, Flickr receives and stores EXIF data.
     
 
 Object and Scene Type Recognition Technology
@@ -59,15 +59,15 @@ We use image recognition algorithms to find visually similar images as well as t
 
 Information Collected by Cookies and Other Tracking Technologies
 
-We use various technologies to collect information, including cookies, web beacons and similar technologies. Cookies are small data files stored on your hard drive or in device memory that help us to provide and improve our Services and your experience, see which areas and features of our Services are popular and count visits, and for our advertising and analytics purposes. We use cookies to keep you logged in to the Services, to count the number of unique computers using the Services and to record your user preferences. We may also collect information using web beacons (also known as "tracking pixels"). Web beacons are electronic images that may be used in our Services or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon. You may be able to set your web browser to refuse certain types of cookies, or to alert you when certain types of cookies are being sent. Some browsers offer similar settings for HTML5 local storage, and Flash storage can be managed [here](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager02.html). For more information and more detailed options, please see the â€œAdvertising and Analytics Services Provided by Othersâ€� section below.
+We use various technologies to collect information, including cookies, web beacons and similar technologies. Cookies are small data files stored on your hard drive or in device memory that help us to provide and improve our Services and your experience, see which areas and features of our Services are popular and count visits, and for our advertising and analytics purposes. We use cookies to keep you logged in to the Services, to count the number of unique computers using the Services and to record your user preferences. We may also collect information using web beacons (also known as "tracking pixels"). Web beacons are electronic images that may be used in our Services or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon. You may be able to set your web browser to refuse certain types of cookies, or to alert you when certain types of cookies are being sent. Some browsers offer similar settings for HTML5 local storage, and Flash storage can be managed [here](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager02.html). For more information and more detailed options, please see the “Advertising and Analytics Services Provided by Others” section below.
 
 Information We Collect From Other Sources
 
-We may also obtain information from other sources and combine that with information we collect through our Services. For example, if you create or log into your account through a social media site, we will have access to certain information from that site, such as your name, account information and friends lists, in accordance with the authorization procedures determined by such social media site. We may receive updated information about you, such as an updated billing address, from the financial institution issuing your credit card in connection with our billing for the Services. When somebody buys a gift for you on our service, weâ€™ll receive your shipping information from the purchaser. Users also can share another personâ€™s email address with us through features that can invite the other person to view the userâ€™s content.
+We may also obtain information from other sources and combine that with information we collect through our Services. For example, if you create or log into your account through a social media site, we will have access to certain information from that site, such as your name, account information and friends lists, in accordance with the authorization procedures determined by such social media site. We may receive updated information about you, such as an updated billing address, from the financial institution issuing your credit card in connection with our billing for the Services. When somebody buys a gift for you on our service, we’ll receive your shipping information from the purchaser. Users also can share another person’s email address with us through features that can invite the other person to view the user’s content.
 
 Use of Information
 
-Our use of the following information, which we call â€œPhotographer Personal Data,â€� is limited by our agreements with our registered users: (i) images and videos that the user uploads to or creates in the Services, and (ii) any labels, tags, comments, descriptions or categorizations that user adds to those images and videos in the Services.
+Our use of the following information, which we call “Photographer Personal Data,” is limited by our agreements with our registered users: (i) images and videos that the user uploads to or creates in the Services, and (ii) any labels, tags, comments, descriptions or categorizations that user adds to those images and videos in the Services.
 
 We use other information for the following purposes:
 
@@ -109,13 +109,13 @@ Our sharing of Photographer Personal Data is governed by our agreement with the 
 
 Social Sharing Features and Third-Party Integrations
 
-The Services may offer social sharing features and other integrated tools which let you share actions you take on our Services with other media, and vice versa. The use of such features enables the sharing of information with your friends, the public, and others, depending on the settings you establish with the entity that provides the social sharing feature, and depending on that entityâ€™s other sharing practices. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
+The Services may offer social sharing features and other integrated tools which let you share actions you take on our Services with other media, and vice versa. The use of such features enables the sharing of information with your friends, the public, and others, depending on the settings you establish with the entity that provides the social sharing feature, and depending on that entity’s other sharing practices. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
 
 Additionally, you may give certain third-party apps different levels of permissions to interact with your account to take advantage of things like photo editing tools. If you want to stop using one of these apps and revoke your permission, click the "Remove Permission" link under "[Sharing & Extending](https://www.flickr.com/account/sharing)" on your account page and remove that permission.
 
 Advertising and Analytics Services Provided by Others
 
-We may allow others to serve advertisements on our behalf across the Internet and to provide analytics services. These entities may use cookies, web beacons, mobile device identifiers, and other technologies to collect information about your use of the Services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by Flickr and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites and better understand your online activity. For more information about interest-based-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](https://www.aboutads.info/choices) from each browser that you use to access our websites. You can opt out of Googleâ€™s collection or use of your data for ad personalization purposes in any particular browser there or at [https://www.google.com/ads/preferences](https://www.google.com/ads/preferences). You also can opt out of Google Analytics by installing Google Analyticsâ€™ [opt-out browser add-on](https://tools.google.com/dlpage/gaoptout) in each browser. Your device should also include a feature (â€œLimit Ad Trackingâ€� on iOS or â€œOpt Out of Interest-Based Adsâ€� or â€œOpt Out of Ads Personalizationâ€� on Android) that allows you to opt out of having certain information collected through apps used for interest-based advertising purposes.
+We may allow others to serve advertisements on our behalf across the Internet and to provide analytics services. These entities may use cookies, web beacons, mobile device identifiers, and other technologies to collect information about your use of the Services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by Flickr and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites and better understand your online activity. For more information about interest-based-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](https://www.aboutads.info/choices) from each browser that you use to access our websites. You can opt out of Google’s collection or use of your data for ad personalization purposes in any particular browser there or at [https://www.google.com/ads/preferences](https://www.google.com/ads/preferences). You also can opt out of Google Analytics by installing Google Analytics’ [opt-out browser add-on](https://tools.google.com/dlpage/gaoptout) in each browser. Your device should also include a feature (“Limit Ad Tracking” on iOS or “Opt Out of Interest-Based Ads” or “Opt Out of Ads Personalization” on Android) that allows you to opt out of having certain information collected through apps used for interest-based advertising purposes.
 
 Legal Basis for Processing
 
@@ -135,7 +135,7 @@ The laws in some jurisdictions require companies to tell you about the legal gro
         
     *   Managing risks and legal issues.
         
-*   To honor our contractual commitments to the individual: Some of our handling of personal data is necessary to meet our contractual obligations to individuals, or to take steps at the person's request because we are planning to enter into a contract with them. For example, when we process an individualâ€™s personal payment data for a subscription, we are relying on this basis.
+*   To honor our contractual commitments to the individual: Some of our handling of personal data is necessary to meet our contractual obligations to individuals, or to take steps at the person's request because we are planning to enter into a contract with them. For example, when we process an individual’s personal payment data for a subscription, we are relying on this basis.
     
 *   Consent:
     
@@ -148,7 +148,7 @@ The laws in some jurisdictions require companies to tell you about the legal gro
 *   Legal claims: Sometimes we use or disclose personal data because it is necessary to establish, exercise, or defend legal claims.
     
 
-We process a userâ€™s Photographer Personal Data as the userâ€™s â€œprocessorâ€� (under the GDPR and similar laws) or â€œservice providerâ€� (under the California Consumer Privacy Act) as set forth in our agreement with the user.
+We process a user’s Photographer Personal Data as the user’s “processor” (under the GDPR and similar laws) or “service provider” (under the California Consumer Privacy Act) as set forth in our agreement with the user.
 
 Security
 
@@ -160,7 +160,7 @@ We store the information we collect about you for as long as is necessary for th
 
 Data Transfers
 
-To provide the Services, we may transfer your information to servers operated by Flickr or our service providers or affiliates in the United States or other countries. When we transfer information from the European Economic Area (â€œEEAâ€�) or UK to countries that the European Commission has not deemed to provide an adequate level of protection, we normally do so on the basis of either (i) Standard Contractual Clauses approved by the European Commission for such purpose or (ii) the recipientâ€™s participation in the EU- U.S. Privacy Shield Framework (described below). You may request a copy of the Standard Contractual Clauses by contacting us as described below.
+To provide the Services, we may transfer your information to servers operated by Flickr or our service providers or affiliates in the United States or other countries. When we transfer information from the European Economic Area (“EEA”) or UK to countries that the European Commission has not deemed to provide an adequate level of protection, we normally do so on the basis of either (i) Standard Contractual Clauses approved by the European Commission for such purpose or (ii) the recipient’s participation in the EU- U.S. Privacy Shield Framework (described below). You may request a copy of the Standard Contractual Clauses by contacting us as described below.
 
 Flickr, Inc. complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data we receive in the U.S. from the European Economic Area, and Switzerland. This commitment extends to the personal information received in the U.S. from the UK, regardless of the status of Brexit. Flickr has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. To learn more about the Privacy Shield program, and to view our certification (which is part of the certification of our parent company, SmugMug, Inc.), please visit https://www.privacyshield.gov/.
 
@@ -174,9 +174,9 @@ Our Services allow our users to transfer Photographer Personal Data (such as by 
 
 Your Choices
 
-Privacy Requests Regarding Usersâ€™ Photos, Videos, and Some Related Data
+Privacy Requests Regarding Users’ Photos, Videos, and Some Related Data
 
-For privacy-related takedown requests, or to exercise any rights you may have under privacy law regarding images or videos that a Flickr user uploaded to or created in the Services, or any labels, tags, comments, descriptions or categorizations that the same user added to those images and videos in the Services (Photographer Personal Data), please contact that user directly. Flickr processes this data on behalf of the user, and the user has responsibility for handling these requests. Under the GDPR and similar laws, Flickr is the userâ€™s â€œprocessorâ€� of this limited set of data, and under the California Consumer Privacy Act (CCPA), Flickr is the userâ€™s â€œservice providerâ€� for this data. (Flickr still can remove illegal content and other material that users are not entitled to maintain on the Service, such as nonconsensual intimate images, which can be reported as described [here](https://help.flickr.com/en_us/get-help-if-someone-posts-intimate-content-of-you-without-your-permission-SkxcY2Qjym).)
+For privacy-related takedown requests, or to exercise any rights you may have under privacy law regarding images or videos that a Flickr user uploaded to or created in the Services, or any labels, tags, comments, descriptions or categorizations that the same user added to those images and videos in the Services (Photographer Personal Data), please contact that user directly. Flickr processes this data on behalf of the user, and the user has responsibility for handling these requests. Under the GDPR and similar laws, Flickr is the user’s “processor” of this limited set of data, and under the California Consumer Privacy Act (CCPA), Flickr is the user’s “service provider” for this data. (Flickr still can remove illegal content and other material that users are not entitled to maintain on the Service, such as nonconsensual intimate images, which can be reported as described [here](https://help.flickr.com/en_us/get-help-if-someone-posts-intimate-content-of-you-without-your-permission-SkxcY2Qjym).)
 
 Flickr users can follow the instructions below to handle privacy requests or to otherwise manage their Photographer Personal Data.
 
@@ -186,31 +186,31 @@ You can delete individual photos that you have on Flickr by selecting the photos
 
 Photo Sharing Features
 
-In the "Privacy & Permissions" section of your Account Settings, you can determine who can see, download, or interact with your content by default. You can control at a more granular level who can see each individual image or video by editing that itemâ€™s viewing privacy.
+In the "Privacy & Permissions" section of your Account Settings, you can determine who can see, download, or interact with your content by default. You can control at a more granular level who can see each individual image or video by editing that item’s viewing privacy.
 
 Account Information
 
-You may update, correct or delete certain information about you at any time by logging into your online account or contacting us through [https://help.flickr.com/contact](https://help.flickr.com/contact). You may delete your account or terminate your subscription pursuant to Flickrâ€™s Terms of Use, but note that we may retain certain information as required by law or for legitimate business purposes.
+You may update, correct or delete certain information about you at any time by logging into your online account or contacting us through [https://help.flickr.com/contact](https://help.flickr.com/contact). You may delete your account or terminate your subscription pursuant to Flickr’s Terms of Use, but note that we may retain certain information as required by law or for legitimate business purposes.
 
 Privacy and Permissions Settings
 
-In your account â€œ[Privacy & Permissions](https://www.flickr.com/account/privacy)â€� tab under â€œSettingsâ€�, you can control who is able to see different parts of your profile, including email address, IM names, real name, and current city. If you choose to use your real name (or include any identifying information as part of your â€œscreen nameâ€�) that information will be publicly displayed through the Services. Therefore, please use caution in determining how you wish to be identified in using the Services.
+In your account “[Privacy & Permissions](https://www.flickr.com/account/privacy)” tab under “Settings”, you can control who is able to see different parts of your profile, including email address, IM names, real name, and current city. If you choose to use your real name (or include any identifying information as part of your “screen name”) that information will be publicly displayed through the Services. Therefore, please use caution in determining how you wish to be identified in using the Services.
 
 EXIF Information
 
-By default, Flickr will display a link showing EXIF data about photos or video you upload. The link shows on all your individual photo pages, and displays the make & model of the camera you used to take the shot. You can elect to hide this link in â€œSettingsâ€� under the â€œPrivacy & Permissionsâ€� tab.
+By default, Flickr will display a link showing EXIF data about photos or video you upload. The link shows on all your individual photo pages, and displays the make & model of the camera you used to take the shot. You can elect to hide this link in “Settings” under the “Privacy & Permissions” tab.
 
-Some cameras can store GPS (location) coordinates in a photoâ€™s EXIF header. Flickr imports that data and [if you choose](https://www.flickr.com/account/privacy), Flickr can display that data publicly. This setting can be changed through your account â€œ[Privacy and Permissions](https://www.flickr.com/account/privacy)â€� tab.
+Some cameras can store GPS (location) coordinates in a photo’s EXIF header. Flickr imports that data and [if you choose](https://www.flickr.com/account/privacy), Flickr can display that data publicly. This setting can be changed through your account “[Privacy and Permissions](https://www.flickr.com/account/privacy)” tab.
 
 Location Information
 
-When you first launch any of our mobile applications that collect location information, you will be asked to consent to the application's collection of this information. If you initially consent to our collection of location information, you can subsequently stop the collection of this information by our applicationâ€™s camera function at any time by changing the preferences on your mobile device.
+When you first launch any of our mobile applications that collect location information, you will be asked to consent to the application's collection of this information. If you initially consent to our collection of location information, you can subsequently stop the collection of this information by our application’s camera function at any time by changing the preferences on your mobile device.
 
-Some cameras and applications can store GPS (location) coordinates in a photo's EXIF header. Flickr imports that data and if you choose, Flickr can display that data publicly. This default display setting can be changed in the â€œ[Privacy & Permissions](https://www.flickr.com/account/privacy)â€� Settings in your account. You can also change the settings on your camera to stop location data storage.
+Some cameras and applications can store GPS (location) coordinates in a photo's EXIF header. Flickr imports that data and if you choose, Flickr can display that data publicly. This default display setting can be changed in the “[Privacy & Permissions](https://www.flickr.com/account/privacy)” Settings in your account. You can also change the settings on your camera to stop location data storage.
 
 Geofences
 
-A geofence is a hotspot on a map that has special default geo privacy settings. These are useful for locations such as â€œhomeâ€� or â€œschoolâ€� that you would like to make more private than your global default. [Click here](https://www.flickr.com/account/geo/privacy/) to create your geofences and manage your geo preferences to decide who can see the location of your photos by default. Further, you can change the geo preferences setting on individual photos by clicking on the map to the right of each photo.
+A geofence is a hotspot on a map that has special default geo privacy settings. These are useful for locations such as “home” or “school” that you would like to make more private than your global default. [Click here](https://www.flickr.com/account/geo/privacy/) to create your geofences and manage your geo preferences to decide who can see the location of your photos by default. Further, you can change the geo preferences setting on individual photos by clicking on the map to the right of each photo.
 
 Auto-Uploadr Feature
 
@@ -218,7 +218,7 @@ If you turn on the auto-upload feature on mobile, photos and videos from your mo
 
 Cookies
 
-Please see the â€œAdvertising and Analytics Services Provided by Othersâ€� section above for options for controlling cookies and similar technology.
+Please see the “Advertising and Analytics Services Provided by Others” section above for options for controlling cookies and similar technology.
 
 Promotional Communications
 
@@ -226,7 +226,7 @@ You may opt out of receiving promotional communications from Flickr by following
 
 Email Notifications
 
-Visit the â€œ[Emails and Notifications](https://www.flickr.com/account/email)â€� area in your account Settings to edit your Flickr email notification settings.
+Visit the “[Emails and Notifications](https://www.flickr.com/account/email)” area in your account Settings to edit your Flickr email notification settings.
 
 Other Data Protection Rights
 
@@ -242,29 +242,29 @@ Every individual has the right to lodge a complaint with the data privacy author
 
 Additional Privacy Details for California Residents
 
-The sections below apply to â€œpersonal informationâ€� about California residents, as that term is defined in the California Consumer Privacy Act (CCPA), and they supplement the information in the rest of our Privacy Policy above. These sections also do not apply to Photographer Personal Data (defined further above as user-uploaded images, videos and certain content relating to such images and videos), even when such data is about a resident of California, because Flickr is a â€œservice providerâ€� for such data under the CCPA.
+The sections below apply to “personal information” about California residents, as that term is defined in the California Consumer Privacy Act (CCPA), and they supplement the information in the rest of our Privacy Policy above. These sections also do not apply to Photographer Personal Data (defined further above as user-uploaded images, videos and certain content relating to such images and videos), even when such data is about a resident of California, because Flickr is a “service provider” for such data under the CCPA.
 
 CCPA categories of California personal information we collect:
 
-In the main part of our Privacy Policy, we describe the specific pieces of personal information we collect from and about California residents. This information generally falls into the following CCPA categories, to the extent that any of the following are personally identifiable: identifiers (such as name, address, email address and other contact information); commercial information (such as transaction data, and information about an individualâ€™s interactions with Flickr); categories of personal information described in California Civil Code 1798.80(e) (such as name); characteristics of protected classifications under California or federal law (such as gender); internet or other network or device activity, and other information described in the Information Collected by Cookies and Other Tracking Technologies section of our Privacy Policy; geolocation information; professional or employment related data (such as title); and other information that identifies or can be reasonably associated with you.
+In the main part of our Privacy Policy, we describe the specific pieces of personal information we collect from and about California residents. This information generally falls into the following CCPA categories, to the extent that any of the following are personally identifiable: identifiers (such as name, address, email address and other contact information); commercial information (such as transaction data, and information about an individual’s interactions with Flickr); categories of personal information described in California Civil Code 1798.80(e) (such as name); characteristics of protected classifications under California or federal law (such as gender); internet or other network or device activity, and other information described in the Information Collected by Cookies and Other Tracking Technologies section of our Privacy Policy; geolocation information; professional or employment related data (such as title); and other information that identifies or can be reasonably associated with you.
 
 CCPA description of uses of California personal information:
 
 In CCPA terms, we have used and disclosed (and in the past 12 months have used and disclosed) all of the categories of California personal information that we collect for the purposes described in the Use of Information section of our Privacy Policy, though some uses and disclosures were more indirect than others. The extent to which our service providers engage in the uses and disclosures described above varies from provider to provider.
 
-CCPA â€œsaleâ€� of California personal information
+CCPA “sale” of California personal information
 
-Flickr does not â€œsellâ€� and has not â€œsoldâ€� its personal information in the way most people understood those words before the CCPA was passed. We donâ€™t sell copies of our user lists like a data broker would, for example.
+Flickr does not “sell” and has not “sold” its personal information in the way most people understood those words before the CCPA was passed. We don’t sell copies of our user lists like a data broker would, for example.
 
-However, the CCPA defines â€œsellâ€� and â€œsoldâ€� in an unconventional, vague and controversial way that has sparked extensive debate and disagreement within the legal and business communities. The CCPA requires businesses that â€œsellâ€� personal information, as the term â€œsellâ€� is defined under the CCPA, to provide an opt-out from such â€œsales.â€� Some people have taken the position that when a website or app uses third-party cookies and similar technology for its own analytics or advertising purposes, the website/app is engaged in a â€œsaleâ€� under the CCPA if the third parties have some ability to use, disclose or retain the data to improve their service or to take steps beyond the most narrowly drawn bounds of merely providing their service to the website/app. Some take this position even when the website/app pays the third party (not vice versa), and in most cases merely provides the third party with an opportunity to collect data directly, instead of sending a copy of personal information to the third party. If you take the position that any of those relationships involve a â€œsaleâ€� within the meaning of the CCPA, then you may consider Flickr to have â€œsoldâ€� what the CCPA calls â€œidentifiersâ€� (like IP addresses), â€œinternet or other electronic network activity informationâ€� (like information regarding an individualâ€™s browsing interactions on Flickr.com), and â€œcommercial informationâ€� (like the fact that a browser visited a particular page on our website) to those sorts of companies. As we await clarity on this point and, if applicable, the arrival of a reasonable method for handling CCPA-like choice options for it, we continue to offer individuals the opportunity to opt out of the use of certain third- party cookies and similar technology for analytics and advertising purposes, as described in the Advertising and Analytics Services Provided by Others section of our Privacy Policy.
+However, the CCPA defines “sell” and “sold” in an unconventional, vague and controversial way that has sparked extensive debate and disagreement within the legal and business communities. The CCPA requires businesses that “sell” personal information, as the term “sell” is defined under the CCPA, to provide an opt-out from such “sales.” Some people have taken the position that when a website or app uses third-party cookies and similar technology for its own analytics or advertising purposes, the website/app is engaged in a “sale” under the CCPA if the third parties have some ability to use, disclose or retain the data to improve their service or to take steps beyond the most narrowly drawn bounds of merely providing their service to the website/app. Some take this position even when the website/app pays the third party (not vice versa), and in most cases merely provides the third party with an opportunity to collect data directly, instead of sending a copy of personal information to the third party. If you take the position that any of those relationships involve a “sale” within the meaning of the CCPA, then you may consider Flickr to have “sold” what the CCPA calls “identifiers” (like IP addresses), “internet or other electronic network activity information” (like information regarding an individual’s browsing interactions on Flickr.com), and “commercial information” (like the fact that a browser visited a particular page on our website) to those sorts of companies. As we await clarity on this point and, if applicable, the arrival of a reasonable method for handling CCPA-like choice options for it, we continue to offer individuals the opportunity to opt out of the use of certain third- party cookies and similar technology for analytics and advertising purposes, as described in the Advertising and Analytics Services Provided by Others section of our Privacy Policy.
 
-In addition, Flickr generates part of its revenue by allowing personalized third-party advertisements on our service. In the past, this was done in a manner that is more likely to constitute the same sort of CCPA â€œsaleâ€� described above, involving the same categories of data. However, to prepare for CCPA taking effect on January 1, 2020, we focused those activities on services administered by Google, and we activated the â€œrestricted data processingâ€� settings designed to make this less likely to be a â€œsaleâ€� under the CCPA. Regardless, you can limit this activity as described in the Advertising and Analytics Services Provided by Others section of our Privacy Policy.
+In addition, Flickr generates part of its revenue by allowing personalized third-party advertisements on our service. In the past, this was done in a manner that is more likely to constitute the same sort of CCPA “sale” described above, involving the same categories of data. However, to prepare for CCPA taking effect on January 1, 2020, we focused those activities on services administered by Google, and we activated the “restricted data processing” settings designed to make this less likely to be a “sale” under the CCPA. Regardless, you can limit this activity as described in the Advertising and Analytics Services Provided by Others section of our Privacy Policy.
 
 California Privacy Rights
 
 This section describes rights under California law, but we plan to accept requests under this law from non-Californians, to the extent practicable and legally permissible. California law may permit you to request that we:
 
-*   Provide you with a list of the categories of personal information we have collected or disclosed about you in the last twelve months; the categories of sources of such information; the business or commercial purpose for collecting or selling your personal information; and the categories of third parties with whom we disclosed and (if applicable) â€œsoldâ€� personal information in the CCPA sense.
+*   Provide you with a list of the categories of personal information we have collected or disclosed about you in the last twelve months; the categories of sources of such information; the business or commercial purpose for collecting or selling your personal information; and the categories of third parties with whom we disclosed and (if applicable) “sold” personal information in the CCPA sense.
     
 *   Provide access to and/or a copy of certain information we hold about you.
     
@@ -273,7 +273,7 @@ This section describes rights under California law, but we plan to accept reques
 
 Certain information is exempt from such requests under applicable law. You also may have the right to receive information about the financial incentives that we offer to you (if any). You also have certain rights under the CCPA not to be subject to certain negative consequences for exercising CCPA rights.
 
-To exercise any rights relating to â€œPhotographer Personal Dataâ€�, including (i) the images and videos that a user uploads to or creates in the Services or Products, or (ii) any labels, tags, comments, descriptions or categorizations that user adds to those images and videos in the Services or Products, users should contact the relevant user, and not Flickr. You can find contact information for many users by going to their Flickr page and clicking on â€œAboutâ€� section. (Even if this were not the case under the CCPA, Flickr would normally have multiple legal grounds for denying CCPA-based takedown requests for Photographer Personal Data due to multiple exceptions under that law, including those applicable to the exercise of First Amendment rights. Similar exceptions are common in other laws.)
+To exercise any rights relating to “Photographer Personal Data”, including (i) the images and videos that a user uploads to or creates in the Services or Products, or (ii) any labels, tags, comments, descriptions or categorizations that user adds to those images and videos in the Services or Products, users should contact the relevant user, and not Flickr. You can find contact information for many users by going to their Flickr page and clicking on “About” section. (Even if this were not the case under the CCPA, Flickr would normally have multiple legal grounds for denying CCPA-based takedown requests for Photographer Personal Data due to multiple exceptions under that law, including those applicable to the exercise of First Amendment rights. Similar exceptions are common in other laws.)
 
 To contact Flickr to exercise CCPA rights with respect to other data, please visit [http://help.flickr.com/contact](http://help.flickr.com/contact) for the fastest response. Alternatively, you can make your CCPA request via voicemail at (833) 522-8820. No other requests are accepted at that number.
 
