@@ -1,4 +1,4 @@
-TikTok respects the intellectual property rights of others, and we expect you to do the same. TikTokâ€™s [Terms of Service](https://www.tiktok.com/en/terms-of-use) and [Community Guidelines](https://www.tiktok.com/community-guidelines) do not allow posting, sharing, or sending any content that violates or infringes someone elseâ€™s copyrights, trademarks or other intellectual property rights.
+TikTok respects the intellectual property rights of others, and we expect you to do the same. TikTok’s [Terms of Service](https://www.tiktok.com/en/terms-of-use) and [Community Guidelines](https://www.tiktok.com/community-guidelines) do not allow posting, sharing, or sending any content that violates or infringes someone else’s copyrights, trademarks or other intellectual property rights.
 
   
 
@@ -13,11 +13,11 @@ We do not allow any content that infringes copyright. Any use of copyrighted con
 
 ### **Removal of Content; Suspension or Termination of Account**
 
-Any user content that infringes other personâ€™s copyright may be removed. Your account may be suspended or terminated for multiple copyright violations in connection with your use of the TikTok site or app, or other violations of the [Terms of Service](https://www.tiktok.com/en/terms-of-use) and [Community Guidelines](https://www.tiktok.com/community-guidelines).
+Any user content that infringes other person’s copyright may be removed. Your account may be suspended or terminated for multiple copyright violations in connection with your use of the TikTok site or app, or other violations of the [Terms of Service](https://www.tiktok.com/en/terms-of-use) and [Community Guidelines](https://www.tiktok.com/community-guidelines).
 
 ### **Copyright Infringement Notification**
 
-If you believe that your copyright-protected work was posted on TikTokâ€™s site or app, or otherwise hosted by TikTok without authorization, you may submit a copyright infringement notification.
+If you believe that your copyright-protected work was posted on TikTok’s site or app, or otherwise hosted by TikTok without authorization, you may submit a copyright infringement notification.
 
 The notification must include the following:
 
@@ -57,7 +57,7 @@ Submit the above information to us:
 
 The counter-notification process may take no less than 10 business days to complete, please be patient. During this time, the copyright claimant may file an action seeking a court order to keep the content down. Please note that we will forward the entire counter-notification to the copyright claimant, including any personal information you provide, and the counter-notification may be made public. The claimant may use this information to file a lawsuit against you.
 
-If we do not receive notice within 10 business days that the original reporter is seeking a court order to prevent further infringement of the material at issue, we may replace or cease disabling access to the material that was removed. The decision to re-post any material is at TikTokâ€™s sole discretion.
+If we do not receive notice within 10 business days that the original reporter is seeking a court order to prevent further infringement of the material at issue, we may replace or cease disabling access to the material that was removed. The decision to re-post any material is at TikTok’s sole discretion.
 
   
 
@@ -66,13 +66,13 @@ If we do not receive notice within 10 business days that the original reporter i
 
 A trademark is a word, symbol, slogan, design, or combination of any of the foregoing that identifies the source of a product or service and distinguishes it from other products or services.
 
-TikTokâ€™s policies prohibit any content that infringes on another personâ€™s trademark. Using another personâ€™s trademark in a way that may mislead or confuse people to believe that you are affiliated with the trademark owner may be a violation of our trademark policy.
+TikTok’s policies prohibit any content that infringes on another person’s trademark. Using another person’s trademark in a way that may mislead or confuse people to believe that you are affiliated with the trademark owner may be a violation of our trademark policy.
 
-However, using another personâ€™s trademark for the purpose of accurately referencing the trademark ownerâ€™s products or services, or to compare them to other products or services, is generally not considered a violation of our trademark policy.
+However, using another person’s trademark for the purpose of accurately referencing the trademark owner’s products or services, or to compare them to other products or services, is generally not considered a violation of our trademark policy.
 
 ### **Removal of Content; Suspension or Termination of Account**
 
-Any user content that infringes other personâ€™s trademark may be removed. Your account may be suspended or terminated for multiple trademark violations in connection with your use of the TikTok site or app, or other violations of the [Terms of Service](https://www.tiktok.com/en/terms-of-use) and [Community Guidelines](https://www.tiktok.com/community-guidelines).
+Any user content that infringes other person’s trademark may be removed. Your account may be suspended or terminated for multiple trademark violations in connection with your use of the TikTok site or app, or other violations of the [Terms of Service](https://www.tiktok.com/en/terms-of-use) and [Community Guidelines](https://www.tiktok.com/community-guidelines).
 
 ### **Trademark Infringement Notification**
 
@@ -94,6 +94,6 @@ If we remove content in response to a report of trademark infringement, we may n
 **General Note:**
 -----------------
 
-As a TikTok user, you are responsible for the content you post. If you have questions about copyright law or trademark law, such as questions about whether your content or your use of another personâ€™s name or brand infringes or otherwise violates another personâ€™s rights, you may want to contact an attorney. If you are unsure whether the material you plan to report to us is infringing or otherwise violating another personâ€™s right, you may also want to first seek legal advice before reporting such content to us.
+As a TikTok user, you are responsible for the content you post. If you have questions about copyright law or trademark law, such as questions about whether your content or your use of another person’s name or brand infringes or otherwise violates another person’s rights, you may want to contact an attorney. If you are unsure whether the material you plan to report to us is infringing or otherwise violating another person’s right, you may also want to first seek legal advice before reporting such content to us.
 
 If you submit a report or infringement notification to us, we may contact you if we have additional questions about your report or notification. Please note that TikTok is not in a position to adjudicate disputes between third parties, and may not be able to remove the content or suspend the account you reported for infringement or violation. As an alternative, you may want to contact the person who posted the content or owns the account to try to resolve your issue directly.
