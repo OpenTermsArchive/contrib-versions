@@ -7,11 +7,11 @@ _Last updated: July 2020_
 
   
 
-Welcome to TikTok (the â€œPlatformâ€�). We are committed to protecting and respecting your privacy and this policy sets out the basis on which we process any personal data we collect from you, or that you provide to us. Where we refer to â€œTikTokâ€�, â€œweâ€� or â€œusâ€� in this Privacy Policy, we mean TikTok Technology Limited, an Irish company (â€œTikTok Irelandâ€�), and TikTok Information Technologies UK Limited (â€œTikTok UKâ€�), a UK company.
+Welcome to TikTok (the “Platform”). We are committed to protecting and respecting your privacy and this policy sets out the basis on which we process any personal data we collect from you, or that you provide to us. Where we refer to “TikTok”, “we” or “us” in this Privacy Policy, we mean TikTok Technology Limited, an Irish company (“TikTok Ireland”), and TikTok Information Technologies UK Limited (“TikTok UK”), a UK company.
 
 To see the full Privacy Policy, click [here](#section-1).
 
-If you are between 13 and 18 years old, we have also prepared a separate summary of this policy and what it means for you. It is available in the app under the â€˜Privacy Policyâ€™ tab.
+If you are between 13 and 18 years old, we have also prepared a separate summary of this policy and what it means for you. It is available in the app under the ‘Privacy Policy’ tab.
 
 **SUMMARY**
 -----------
@@ -22,11 +22,11 @@ We collect and process information you give us when you create an account and us
 
 ### **How will we use the information about you?**
 
-We use your information to provide the Platform to you and to improve and administer it. In order to provide an effective and dynamic Platform, and where we have determined it is in our legitimate interests, we use your information to improve and develop the Platform, prevent crime and ensure usersâ€™ safety. Where we have your consent, we will also use your personal data to serve you targeted advertising and promote the Platform. For more information on how your information is used, click [here](#section-3).
+We use your information to provide the Platform to you and to improve and administer it. In order to provide an effective and dynamic Platform, and where we have determined it is in our legitimate interests, we use your information to improve and develop the Platform, prevent crime and ensure users’ safety. Where we have your consent, we will also use your personal data to serve you targeted advertising and promote the Platform. For more information on how your information is used, click [here](#section-3).
 
 ### **Who do we share your information with?**
 
-We share your data with third party service providers who help us to deliver the Platform including cloud storage providers. We also share your information with business partners, other companies in the same group as TikTok (including TikTok Inc in the US which provides certain services for us in connection with the Platform), content moderation services, measurement providers, advertisers and analytics providers. We may share your information with law enforcement agencies, public authorities or with other third parties only where we are legally required to do so or if such use is reasonably necessary (for instance, to ensure your or someone elseâ€™s safety). For more information, click [here](#section-4).
+We share your data with third party service providers who help us to deliver the Platform including cloud storage providers. We also share your information with business partners, other companies in the same group as TikTok (including TikTok Inc in the US which provides certain services for us in connection with the Platform), content moderation services, measurement providers, advertisers and analytics providers. We may share your information with law enforcement agencies, public authorities or with other third parties only where we are legally required to do so or if such use is reasonably necessary (for instance, to ensure your or someone else’s safety). For more information, click [here](#section-4).
 
 ### **Your Rights**
 
@@ -38,7 +38,7 @@ We retain your information for as long as it is necessary to provide you with th
 
 ### **How will we notify you of any changes to this Privacy Policy?**
 
-We will notify all users of any material changes to this policy through a notice on our Platform or by other means. We update the â€œLast Updatedâ€� date at the top of this policy, which reflects the effective date of the policy. By accessing or using the Platform, you acknowledge that you have read this policy and that you understand your rights in relation to your personal data and how we will collect, use and process it. For more information, click [here](#section-10).
+We will notify all users of any material changes to this policy through a notice on our Platform or by other means. We update the “Last Updated” date at the top of this policy, which reflects the effective date of the policy. By accessing or using the Platform, you acknowledge that you have read this policy and that you understand your rights in relation to your personal data and how we will collect, use and process it. For more information, click [here](#section-10).
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
@@ -53,7 +53,7 @@ You give us information when you register on the Platform, including your userna
 
 **User Content and Behavioural Information**
 
-We process the content you generate and view on the Platform, including preferences you set (such as choice of language), photographs and videos you upload, comments and live-streams you make (â€œ**User Content**â€�). We collect information through surveys, challenges and competitions in which you participate. We also collect information regarding your use of the Platform, e.g. how you engage with the Platform, including how often you use the Platform and how you interact with content we show you, the ads you view, videos you watch and problems encountered, the content you like, the content you save to â€œFavouritesâ€�, the words you search and the users you follow. 
+We process the content you generate and view on the Platform, including preferences you set (such as choice of language), photographs and videos you upload, comments and live-streams you make (“**User Content**”). We collect information through surveys, challenges and competitions in which you participate. We also collect information regarding your use of the Platform, e.g. how you engage with the Platform, including how often you use the Platform and how you interact with content we show you, the ads you view, videos you watch and problems encountered, the content you like, the content you save to “Favourites”, the words you search and the users you follow. 
 
 We infer your interests, gender and age for the purpose of personalising content. We also infer the interests of our users to better optimise advertising across our Platform. If you have consented, we will use this information for the purpose of serving personalised advertising. 
 
@@ -63,7 +63,7 @@ We also process information about your followers, the likes you receive and resp
 
 Messages
 
-Where local laws allow us to, we collect and process your messages, which includes scanning and analysing the information in those messages through the Platformâ€™s messaging functionality. That information includes the content of the message and information about when the message has been sent, received and/or read, as well as the participants in the communication.
+Where local laws allow us to, we collect and process your messages, which includes scanning and analysing the information in those messages through the Platform’s messaging functionality. That information includes the content of the message and information about when the message has been sent, received and/or read, as well as the participants in the communication.
 
 We do this to prevent and block spam, prevent and detect crime, safeguard children (where this is in the substantial public interest) or to protect the interests of our users and other people. 
 
@@ -83,9 +83,9 @@ If you choose to register to use the Platform using your social media account de
 
 Advertisers and Measurement Partners
 
-Where you have consented to personalised advertising, we will match your information e.g. your mobile advertising ID, where it is provided to us by advertisers and other partners, with your TikTok profile to serve you ads. We may also serve you ads based on the information we infer from the data these partners provide. You can opt out of this activity at any time via your app settings by going to 'Privacy and safety' and then to 'Personalization and data' and opting out of â€˜Ads based on data received from partnersâ€™.
+Where you have consented to personalised advertising, we will match your information e.g. your mobile advertising ID, where it is provided to us by advertisers and other partners, with your TikTok profile to serve you ads. We may also serve you ads based on the information we infer from the data these partners provide. You can opt out of this activity at any time via your app settings by going to 'Privacy and safety' and then to 'Personalization and data' and opting out of ‘Ads based on data received from partners’.
 
-We use information provided by our measurement partners, to understand how youâ€™ve interacted with our ad partnersâ€™ websites and better assess the effectiveness of the advertising on our Platform. 
+We use information provided by our measurement partners, to understand how you’ve interacted with our ad partners’ websites and better assess the effectiveness of the advertising on our Platform. 
 
 For more information about how our measurement and analytics providers collect data from the Platform, please see our [Cookies Policy](https://www.tiktok.com/legal/cookie-policy). 
 
@@ -99,7 +99,7 @@ When you use the Platform on a mobile device, we will collect information about 
 
 **Information about your friends**
 
-You can choose whether to find other users of the Platform using our â€œFind Friendsâ€� function and to invite your contacts to join you on the Platform. We will use the contact information you have for that person, such as from within your telephone's contact list or Facebook friends list, and give you the option to send them either an SMS, email or third party message (such as Whatsapp, Facebook Messenger or Twitter) inviting them to view your TikTok profile. 
+You can choose whether to find other users of the Platform using our “Find Friends” function and to invite your contacts to join you on the Platform. We will use the contact information you have for that person, such as from within your telephone's contact list or Facebook friends list, and give you the option to send them either an SMS, email or third party message (such as Whatsapp, Facebook Messenger or Twitter) inviting them to view your TikTok profile. 
 
 We use your personal data to find matches based on your contact information and your address book. However, your contact information and your address book is private and will not be disclosed. We use a technical system to find matches without sending your own information or your address book to us in plain text. 
 
@@ -117,12 +117,12 @@ We also collect information you provide to us in correspondence.
 
 **Proof of your identity or age**
 
-We sometimes ask you to provide proof of identity or age in order to use certain features, such as Livestream or verified accounts, or when you apply for a â€œPro Accountâ€�.
+We sometimes ask you to provide proof of identity or age in order to use certain features, such as Livestream or verified accounts, or when you apply for a “Pro Account”.
 
 **2\. Cookies**
 ---------------
 
-Cookies and similar technologies (e.g. pixels and ad tags) (collectively, â€œ**Cookies**â€�) are small files which, when placed on your device, enable us to collect certain information, including personal data, from you in order to provide certain features and functionality. We and our service providers and business partners use Cookies to collect data and recognise you and your device(s) on the Platform and elsewhere across your different devices. We do this to better understand the effectiveness of the advertising on the Platform and to enhance your user experience. To learn more about cookies please see our [Cookies Policy](https://www.tiktok.com/eu/cookie-policy/). 
+Cookies and similar technologies (e.g. pixels and ad tags) (collectively, “**Cookies**”) are small files which, when placed on your device, enable us to collect certain information, including personal data, from you in order to provide certain features and functionality. We and our service providers and business partners use Cookies to collect data and recognise you and your device(s) on the Platform and elsewhere across your different devices. We do this to better understand the effectiveness of the advertising on the Platform and to enhance your user experience. To learn more about cookies please see our [Cookies Policy](https://www.tiktok.com/eu/cookie-policy/). 
 
 **3\. How we use your personal data**
 -------------------------------------
@@ -165,10 +165,10 @@ In accordance with our legitimate interests to provide an effective and dynamic 
 
 *   carry out data analysis and test the Platform to ensure its stability and security;
 
-*   verify your identity, for example, to enable you to have a â€˜verified accountâ€™, and your age, for example, to ensure you are old enough to use certain features;
+*   verify your identity, for example, to enable you to have a ‘verified account’, and your age, for example, to ensure you are old enough to use certain features;
 
 *   provide non-personalised advertising, which keeps many of our services free; 
-*   infer your interests for optimising our advertising offerings, which, where youâ€™ve consented to personalised advertising, may be based on the information our advertising partners provide to us;
+*   infer your interests for optimising our advertising offerings, which, where you’ve consented to personalised advertising, may be based on the information our advertising partners provide to us;
 *   measure the effectiveness of the advertising you see on our Platform;
 *   inform our algorithms so we can deliver the most relevant content to you and to prevent crime and misuse of the Platform;
 
@@ -179,7 +179,7 @@ In accordance with our legitimate interests to provide an effective and dynamic 
 
 Where we process your information to fulfill our legitimate interests, we conduct a balancing test to check that using personal data is really necessary for us to achieve our business purpose. When we carry out this balancing test we also take into account the privacy rights of our users and put in place appropriate safeguards to protect their personal data.
 
-With your consent, we will use your information to provide you with personalised advertising. Please see the sections on [Advertisers](#ad-third-parties) in â€œInformation from Third Partiesâ€� for more information. You can control your personalised advertising settings at any time via your app settings. Please go to 'Privacy and safety' and then 'Personalization and data' to manage and control your advertising preferences. If you do not consent to personalised advertising, you will still see non-personalised advertising on the Platform.
+With your consent, we will use your information to provide you with personalised advertising. Please see the sections on [Advertisers](#ad-third-parties) in “Information from Third Parties” for more information. You can control your personalised advertising settings at any time via your app settings. Please go to 'Privacy and safety' and then 'Personalization and data' to manage and control your advertising preferences. If you do not consent to personalised advertising, you will still see non-personalised advertising on the Platform.
 
 **4\. How we share your personal data**
 ---------------------------------------
@@ -192,7 +192,7 @@ We share your data with the following selected third parties:
 
 *   Where you opt to share content on social media platforms, the video, username and any text associated with the post will be shared on that platform or, in the case of sharing via instant messaging platforms such as Whatsapp, a link to the content will be shared.
 
-*   In order to provide the â€œFind Friendsâ€� functionality with your Facebook contact list, we share data with Facebook to allow this function to work. 
+*   In order to provide the “Find Friends” functionality with your Facebook contact list, we share data with Facebook to allow this function to work. 
 
 **Payment Providers**
 
@@ -205,7 +205,7 @@ We share your data with the following selected third parties:
 **Analytics and measurement providers**
 
 *   We use analytics and measurement providers to help us improve the Platform including by assisting us with content measurement and following your activity on our Platform across your devices. 
-*   Our third party analytics and measurement providers also help us measure advertising on our Platform and help our advertisers determine whether their advert has been shown on our Platform and how it performed. We share your mobile advertising ID and other device data with measurement companies so that they can link your activity on the Platform with your activity on our advertisersâ€™ websites.
+*   Our third party analytics and measurement providers also help us measure advertising on our Platform and help our advertisers determine whether their advert has been shown on our Platform and how it performed. We share your mobile advertising ID and other device data with measurement companies so that they can link your activity on the Platform with your activity on our advertisers’ websites.
 
 **Advertisers**
 
@@ -243,7 +243,7 @@ We share your data with the following selected third parties:
 
 The personal data that we collect from you will be transferred to, and stored at, a destination outside of the European Economic Area ("EEA").
 
-Where we transfer your personal data to countries outside the EEA, we do so under the European Commissionâ€™s model contracts for the transfer of personal data to third countries (i.e. standard contractual clauses) pursuant to Commission Decision 2004/915/EC or 2010/87/EU (as appropriate) or in line with any replacement mechanism approved under EU law. For a copy of these Standard Contractual Clauses, contact us at: [https://www.tiktok.com/legal/report/privacy](https://www.tiktok.com/legal/report/privacy).
+Where we transfer your personal data to countries outside the EEA, we do so under the European Commission’s model contracts for the transfer of personal data to third countries (i.e. standard contractual clauses) pursuant to Commission Decision 2004/915/EC or 2010/87/EU (as appropriate) or in line with any replacement mechanism approved under EU law. For a copy of these Standard Contractual Clauses, contact us at: [https://www.tiktok.com/legal/report/privacy](https://www.tiktok.com/legal/report/privacy).
 
 **6\. Your Rights**
 -------------------
@@ -292,14 +292,14 @@ TikTok is not directed at children under the age of 13. If you believe that we h
 **10\. Changes**
 ----------------
 
-We will notify you of any material changes to this policy through a notice provided via the Platform or by other means. The â€œLast Updatedâ€� date at the top of this policy reflects the effective date of such policy changes. 
+We will notify you of any material changes to this policy through a notice provided via the Platform or by other means. The “Last Updated” date at the top of this policy reflects the effective date of such policy changes. 
 
 **11\. Who we are and how to contact us**
 -----------------------------------------
 
 TikTok Ireland and TikTok UK provide the Platform and associated services, and together process personal data in the manner described in this policy and in our [Terms of Service](https://www.tiktok.com/legal/terms-of-use?lang=en#terms-eea). For users of the Platform in the EEA and Switzerland, TikTok Ireland is the service provider in accordance with our Terms of Service and if you are in the UK, the provider of the Platform is TikTok UK. TikTok Ireland and TikTok UK share information as joint controllers of your data where it is necessary to do so to operate the Platform efficiently and in line with applicable laws.
 
-If you have questions or complaints regarding this policy, or if you wish to reach the TikTokâ€™s Data Protection Officer, contact us at: [https://www.tiktok.com/legal/report/privacy](https://www.tiktok.com/legal/report/privacy). You can also contact us at the following postal address.
+If you have questions or complaints regarding this policy, or if you wish to reach the TikTok’s Data Protection Officer, contact us at: [https://www.tiktok.com/legal/report/privacy](https://www.tiktok.com/legal/report/privacy). You can also contact us at the following postal address.
 
 **For users in the European Union, European Economic Area and Switzerland:** TikTok Technology Limited, 10 Earlsfort Terrace, Dublin, D02 T380, Ireland. 
 
