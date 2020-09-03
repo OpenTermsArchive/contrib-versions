@@ -1,8 +1,8 @@
 Last updated: June 30, 2020. To see prior version, click [here](#updates)
 
-Goodreads LLC (together with its affiliates, â€œGoodreads,â€� â€œwe,â€� or â€œusâ€�) knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly.
+Goodreads LLC (together with its affiliates, “Goodreads,” “we,” or “us”) knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly.
 
-Goodreads LLC is a subsidiary of Amazon.com, Inc. (â€œAmazonâ€�). The information we collect is subject to the [Amazon Privacy Notice](https://www.amazon.com/gp/help/customer/display.html?nodeId=201909010), except as otherwise stated in this notice. By visiting or using Goodreads.com and related services (the â€œServiceâ€�), you are accepting the practices described in the Amazon Privacy Notice as supplemented by this notice (the â€œPrivacy Noticeâ€�). Please note that, if you have an account on www.amazon.com, information gathered by Goodreads may be correlated with any personal information that Amazon.com has and used by Goodreads and Amazon to improve the services we offer
+Goodreads LLC is a subsidiary of Amazon.com, Inc. (“Amazon”). The information we collect is subject to the [Amazon Privacy Notice](https://www.amazon.com/gp/help/customer/display.html?nodeId=201909010), except as otherwise stated in this notice. By visiting or using Goodreads.com and related services (the “Service”), you are accepting the practices described in the Amazon Privacy Notice as supplemented by this notice (the “Privacy Notice”). Please note that, if you have an account on www.amazon.com, information gathered by Goodreads may be correlated with any personal information that Amazon.com has and used by Goodreads and Amazon to improve the services we offer
 
 User Content and Messages
 -------------------------
@@ -14,7 +14,7 @@ Goodreads takes reasonable measures to keep messages that you send to other Memb
 E-mail
 ------
 
-By providing Goodreads your e-mail address you consent to us sending you Service-related notices, including any notices required by law, in lieu of communication by postal mail. We may also use your e-mail address to send you other messages, such as newsletters, changes to features, notices of member-initiated content, or special offers (â€œOther Messagesâ€�). If you do not want to receive Other Messages, you may opt out by changing your e-mail preference settings in the account settings section of Goodreads.com after you have signed in using your personal password. Opting out may prevent you from receiving e-mail messages regarding updates, improvements, or offers. You may not opt out of Service-related e-mails.
+By providing Goodreads your e-mail address you consent to us sending you Service-related notices, including any notices required by law, in lieu of communication by postal mail. We may also use your e-mail address to send you other messages, such as newsletters, changes to features, notices of member-initiated content, or special offers (“Other Messages”). If you do not want to receive Other Messages, you may opt out by changing your e-mail preference settings in the account settings section of Goodreads.com after you have signed in using your personal password. Opting out may prevent you from receiving e-mail messages regarding updates, improvements, or offers. You may not opt out of Service-related e-mails.
 
 Privacy Settings
 ----------------
