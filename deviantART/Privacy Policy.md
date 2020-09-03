@@ -53,7 +53,7 @@ We will only use and share your PII for the purposes set out in this Privacy Pol
 
 _Information Shared with Our Service Providers_. We may share PII as well as aggregated information and non-identifying information that we collect with third party service providers whose services and solutions complement, facilitate and enhance our own. These include hosting and server co-location services, communications and content delivery networks (CDNs), data and cyber security services, billing and payment processing services, fraud detection and prevention services, industry analysis, demographic profiling, web analytics, e-mail distribution and monitoring services, session recording and remote access services, performance measurement, data optimisation and marketing services, content providers, and our legal and financial advisors (collectively, "**Third Party Services**").
 
-Such Third Party Services may receive or otherwise have access to our visitors' and Users' PII, in its entirety or in part – depending on each of their particular roles and purposes in facilitating and enhancing our Services and business, and may only use it for such purposes.
+Such Third Party Services may receive or otherwise have access to our visitors' and Users' PII, in its entirety or in part â€“ depending on each of their particular roles and purposes in facilitating and enhancing our Services and business, and may only use it for such purposes.
 
 _Information Shared with Advertisers_. We may share aggregated information and non-identifying information that we collect with third party advertisers including in order to facilitate, sponsor, and offer certain contests, events and promotions, determine participants' eligibility, monitor performance, contact winners and grant prizes and benefits.
 
@@ -142,7 +142,7 @@ To delete your PII, you must manually change your data fields to null values. Pl
 Use of Cookies and Similar Technologies
 ---------------------------------------
 
-A cookie is a small file of letters and numbers downloaded on to your computer when you access certain websites. In general, cookies allow a website to recognize a user’s computer. The most important thing to know about cookies placed by DeviantArt is that they make our website a bit more user-friendly, for example, by remembering site preferences and language settings.  
+A cookie is a small file of letters and numbers downloaded on to your computer when you access certain websites. In general, cookies allow a website to recognize a userâ€™s computer. The most important thing to know about cookies placed by DeviantArt is that they make our website a bit more user-friendly, for example, by remembering site preferences and language settings.  
   
 Cookies should be divided in two types:
 
@@ -212,7 +212,7 @@ Security
 
 We have implemented security measures designed to protect the PII you share with us, including physical, electronic and procedural measures. Among other things, we offer HTTPS secure access to most areas on our Services; the transmission of sensitive payment information (such as a credit card number) through our designated purchase forms is protected by an industry standard SSL/TLS encrypted connection; and we regularly maintain a PCI DSS (Payment Card Industry Data Security Standards) certification. We also regularly monitor our systems for possible vulnerabilities and attacks, and regularly seek new ways and Third Party Services for further enhancing the security of our Services and protection of our Visitors' and Users' privacy.
 
-However – regardless of the measures and efforts taken by us, we cannot and do not guarantee the absolute protection and security of your PII, or any other content you upload, publish or otherwise share with us or anyone else. We therefore encourage you to set strong passwords for your User Account, and avoid providing us or anyone with any sensitive information which you believe its disclosure could cause you substantial or irreparable harm.
+However â€“ regardless of the measures and efforts taken by us, we cannot and do not guarantee the absolute protection and security of your PII, or any other content you upload, publish or otherwise share with us or anyone else. We therefore encourage you to set strong passwords for your User Account, and avoid providing us or anyone with any sensitive information which you believe its disclosure could cause you substantial or irreparable harm.
 
 Furthermore, because certain areas on our Services are less secure than others, and since e-mail and instant messaging are not recognized as secure forms of communications, we request and encourage you not to share any PII on any of these areas or via any of these methods.
 
