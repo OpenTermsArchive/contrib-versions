@@ -1,3 +1,5 @@
+Section 3.2 will be updated from 1 October 2020. Click [here](https://www.facebook.com/legal/terms/preview) to preview the new version.
+
 **Terms of Service**
 
 Welcome to Facebook!
