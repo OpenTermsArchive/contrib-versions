@@ -118,7 +118,7 @@ We process different categories of information and data in providing WeChat. The
         
 *   **"Log Data"** is information that we automatically collect when you use WeChat, whether through the use of cookies, web beacons, log files, scripts or ETags (as explained in more detail in our [Cookies Policy](https://www.wechat.com/mobile/htdocs/en/cookies_policy.html)), including:
     
-    *   technical information, such as your mobile carrier-related information, configuration information made available by your web browser or other programs you use to access WeChat, your IP address and your device’s version and identification number;
+    *   device attributes, such as your mobile carrier-related information, configuration information made available by your web browser or other programs you use to access WeChat, your IP address, application IDs and application names, and your device’s version and identification number;
         
     *   information about what you have searched for and looked at while using WeChat, such as web search terms used, social media profiles visited, and details of other information and content accessed or requested by you in using WeChat;
         
@@ -362,7 +362,7 @@ Whenever we make any changes to this Privacy Policy that are important for you t
 
 [![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=ef4cb85d-f630-4712-b0cd-70784518c491)](https://privacy.truste.com/privacy-seal/validation?rid=ef4cb85d-f630-4712-b0cd-70784518c491)
 
-Last modified: 2020-08-07
+Last modified: 2020-09-03
 
 ### Addendum for California Residents
 
