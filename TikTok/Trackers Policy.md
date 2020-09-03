@@ -5,7 +5,7 @@ _Last updated: 3 August 2020_
 
   
 
-This Cookies Policy applies whenever you visit a website on the [tiktok.com](http://tiktok.com/) domain, unless expressly stated otherwise (collectively, the “Websites” and each a “Website”). Other than the Websites, this Cookies Policy does not apply to any of our services, applications, products and content, which are each subject to their own, separate, notices.
+This Cookies Policy applies whenever you visit a website on the [tiktok.com](http://tiktok.com/) domain, unless expressly stated otherwise (collectively, the â€œWebsitesâ€� and each a â€œWebsiteâ€�). Other than the Websites, this Cookies Policy does not apply to any of our services, applications, products and content, which are each subject to their own, separate, notices.
 
 On the Websites, we use cookies and other tracking technologies such as software development kits (SDKs), pixels and local storage. These technologies allow us to store information or gain access to information stored on your device to enable certain features and distinguish you from other visitors. Tracking technologies are used by most website providers to let users navigate between pages efficiently, ensure web security, understand how their websites are used, remember user preferences and generally improve the user experience.
 
@@ -29,7 +29,7 @@ Local storage: Local storage files are created by websites to store information 
 **2\. Categories of tracking technologies**
 -------------------------------------------
 
-Tracking technologies can either be “First-party” or “Third-party”. First-party tracking technologies refers to tracking technologies that we set and use directly. Third-party tracking technologies refer to tracking technologies set by third parties (such as our analytics or advertising service providers) through our Websites.
+Tracking technologies can either be â€œFirst-partyâ€� or â€œThird-partyâ€�. First-party tracking technologies refers to tracking technologies that we set and use directly. Third-party tracking technologies refer to tracking technologies set by third parties (such as our analytics or advertising service providers) through our Websites.
 
 The types of tracking technologies used by us and our partners in connection with the Websites can be classified into one of four categories, namely (i) "Strictly necessary", (ii) "Functionality", (iii) "Analytics and performance" (iv) "Advertising and marketing". We have set out some further general information about each of these categories below.
 
@@ -51,7 +51,7 @@ We use first-party tracking technologies for the following essential purposes:
 
 As explained above, these tracking technologies are strictly necessary to operate our Websites and cannot be declined. Some of these tracking technologies have a maximum duration of 24 months.
 
-_Third-party tracking technologies (set by our partners): ­­_
+_Third-party tracking technologies (set by our partners): Â­Â­_
 
 We also deploy tracking technologies from the following third parties for the following essential purposes:
 
@@ -63,7 +63,7 @@ We also deploy tracking technologies from the following third parties for the fo
 
 ### **(ii) Functionality**
 
-Functionality tracking technologies record information you enter or choices you make, such as your login details, login status, ID, language preference for the Website and your cookie consent choice. ­­­­­ They help to make the Website work more efficiently and enable us to tailor the Website to your preferences.
+Functionality tracking technologies record information you enter or choices you make, such as your login details, login status, ID, language preference for the Website and your cookie consent choice. Â­Â­Â­Â­Â­ They help to make the Website work more efficiently and enable us to tailor the Website to your preferences.
 
 _First-party tracking technologies (set by TikTok):_
 
@@ -150,7 +150,7 @@ You can change your cookie settings on the Websites to accept or refuse certain 
 
 Most browsers will also allow you to choose the level of privacy settings you want. This lets you control your cookie and local storage settings so that you can:
 
-*   See what cookies or other locally stored data you’ve got and delete them on an individual basis;
+*   See what cookies or other locally stored data youâ€™ve got and delete them on an individual basis;
 
 *   Block third-party cookies or similar technology;
 
