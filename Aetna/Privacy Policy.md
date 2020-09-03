@@ -12,7 +12,7 @@ Search search clear
 
 *   Individuals
     
-    *   Individuals overview
+    *   Opens a new window or tab Individuals overview
     *   Get a quote
         *   Medicare
         *   Health insurance
@@ -41,7 +41,7 @@ Search search clear
     *   Pay your premiumsecondary menu close
 *   Employers
     
-    *   Employers overview
+    *   Opens a new window or tab Employers overview
     *   Support &. resources
         *   Working with Aetna
         *   Health insurance exchanges
@@ -81,7 +81,7 @@ Search search clear
     *   Regional sales contact toolsecondary menu close
 *   Providers
     
-    *   Providers overview
+    *   Opens a new window or tab Providers overview
     *   Working with us
         *   Join the network
         *   Resource center for providers
@@ -114,7 +114,7 @@ Search search clear
     *   Update pharmacy datasecondary menu close
 *   Agents/Brokers
     
-    *   Agents/Brokers overview
+    *   Opens a new window or tab Agents/Brokers overview
     *   Producer World
         *   Log In or Register
         *   Compensation
@@ -144,7 +144,7 @@ Search search clear
     *   SBC lookup toolsecondary menu close
 
 *   About us
-    *   About us overview
+    *   Opens a new window or tab About us overview
     *   Who we are
         *   Aetna values
         *   Diversity &. inclusion
@@ -195,14 +195,14 @@ Login Back MenuMobile menu for the website.Menu Menu Close Search search clear
 Login
 
 *   Individuals
-*   Individuals overview
+*   Opens a new window or tab Individuals overview
 *   Get a quote
 *   General plan info
 *   The Health Guide
 *   For members
 
 *   Employers
-*   Employers overview
+*   Opens a new window or tab Employers overview
 *   Support &. resources
 *   Products &. programs
 *   For small businesses
@@ -210,21 +210,21 @@ Login
 *   Helpful links
 
 *   Providers
-*   Providers overview
+*   Opens a new window or tab Providers overview
 *   Working with us
 *   Products &. programs
 *   Resources &. reports
 *   Helpful links
 
 *   Agents/Brokers
-*   Agents/Brokers overview
+*   Opens a new window or tab Agents/Brokers overview
 *   Producer World
 *   Working with us
 *   Plans &. services
 *   Helpful links
 
 *   About us
-*   About us overview
+*   Opens a new window or tab About us overview
 *   Who we are
 *   Initiatives
 *   Working with us
@@ -400,7 +400,7 @@ Login
 
 *   Individuals
     
-    *   Individuals overview
+    *   Opens a new window or tab Individuals overview
     *   Get a quote
         *   Medicare
         *   Health insurance
@@ -429,7 +429,7 @@ Login
     *   Pay your premiumsecondary menu close
 *   Employers
     
-    *   Employers overview
+    *   Opens a new window or tab Employers overview
     *   Support &. resources
         *   Working with Aetna
         *   Health insurance exchanges
@@ -469,7 +469,7 @@ Login
     *   Regional sales contact toolsecondary menu close
 *   Providers
     
-    *   Providers overview
+    *   Opens a new window or tab Providers overview
     *   Working with us
         *   Join the network
         *   Resource center for providers
@@ -502,7 +502,7 @@ Login
     *   Update pharmacy datasecondary menu close
 *   Agents/Brokers
     
-    *   Agents/Brokers overview
+    *   Opens a new window or tab Agents/Brokers overview
     *   Producer World
         *   Log In or Register
         *   Compensation
@@ -532,7 +532,7 @@ Login
     *   SBC lookup toolsecondary menu close
 
 *   About us
-    *   About us overview
+    *   Opens a new window or tab About us overview
     *   Who we are
         *   Aetna values
         *   Diversity &. inclusion
@@ -642,7 +642,7 @@ Our service provider may also create and store linkages between and among househ
 
 Our service provider will honor your preferences regarding cross device linking.  You can opt out of cross device linking on our service provider’s website.  
 
-Opt out of Neustar cross device linking and advertising
+Opens a new window or tabOpt out of Neustar cross device linking and advertising
 
 Your email
 
@@ -663,6 +663,12 @@ Changes to Aetna’s privacy statement
 Aetna may change this Privacy Statement from time to time. when updates are made, the version date (located at the bottom of this Privacy Statement) will also be updated to reflect that a revision occurred. We encourage you to periodically reread this Privacy Statement to see if there have been any changes that may affect you. This Privacy Statement is not intended to and does not create any contractual or other legal rights in or on behalf of any party.
 
 Privacy statement update: 9/19/17
+
+*   Opens a new window or tab
+*   Opens a new window or tab
+*   Opens a new window or tab
+*   Opens a new window or tab
+*   Opens a new window or tab
 
 *   AETNA APPS  
     
