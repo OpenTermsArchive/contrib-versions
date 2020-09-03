@@ -2,7 +2,7 @@ Plain Text Terms of Service Section 3.2 will be updated effective October 1, 202
 
 *   View a printable version of the Terms of Service
 
-Terms of Service Section 3.2 will be updated effective October 1, 2020. Click here to preview the new version.  
+Terms of Service  
   
 Welcome to Facebook!  
   
