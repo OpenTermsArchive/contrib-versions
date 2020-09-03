@@ -24,7 +24,7 @@ Per the GDPR, LibraryThing's Data Protection Officer (DPO) is Tim Spalding. Our 
 
 Under the terms of the GDPR, LibraryThing operates as either **data controller** or **data processor**, depending on whether the service is provided to users directly, or to organizations which have their own users.
 
-For TinyCat customersâ€”excepting free, personal membersâ€”LibraryThing is assumed to be in the position of data processor, and the customer in the position of data controller, managing the data of their **data subjects**. The same may apply to LibraryThing customers using LibraryThing's "lending" feature or otherwise providing LibraryThing to others.
+For TinyCat customers—excepting free, personal members—LibraryThing is assumed to be in the position of data processor, and the customer in the position of data controller, managing the data of their **data subjects**. The same may apply to LibraryThing customers using LibraryThing's "lending" feature or otherwise providing LibraryThing to others.
 
 It is the data controller's ultimate responsibility for controlling their patron or student (i.e., data subject) data, and ensuring GDPR compliance for their data subjects, including collecting consent, managing consent-revocation, enabling access, etc.
 
@@ -70,7 +70,7 @@ The above information should be submitted to the following designated agent:
 
 UNDER FEDERAL LAW, IF YOU KNOWINGLY MISREPRESENT THAT ONLINE MATERIAL IS INFRINGING, YOU MAY BE SUBJECT TO CRIMINAL PROSECUTION FOR PERJURY AND CIVIL PENALTIES, INCLUDING MONETARY DAMAGES, COURT COSTS, AND ATTORNEYS' FEES.
 
-Please note that this procedure is exclusively for notifying LibraryThing and its affiliates that your copyrighted material has been infringed. The preceding requirements are intended to comply with LibraryThing's rights and obligations under the DMCA, including 17 U.S.C. Â§512(c), but do not constitute legal advice. It may be advisable to contact an attorney regarding your rights and obligations under the DMCA and other applicable laws.
+Please note that this procedure is exclusively for notifying LibraryThing and its affiliates that your copyrighted material has been infringed. The preceding requirements are intended to comply with LibraryThing's rights and obligations under the DMCA, including 17 U.S.C. §512(c), but do not constitute legal advice. It may be advisable to contact an attorney regarding your rights and obligations under the DMCA and other applicable laws.
 
 Please also note that we laugh off requests to remove books you don't like on DMCA grounds. Book titles and author names are not copyrightable. That's not how this works. That's not how any of this works.
 
