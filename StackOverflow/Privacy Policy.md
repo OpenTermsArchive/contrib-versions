@@ -5,7 +5,7 @@ Updated 07 February 2020
 
 ABOUT STACK OVERFLOW
 
-The Stack Overflow Network (also referred to herein as â€œStack Overflowâ€� or â€œNetworkâ€�) is a set of related Internet sites and other applications for questions and answers, owned and operated by Stack Exchange, Inc. (â€œStack Overflowâ€�, â€œweâ€� or â€œusâ€�), a Delaware corporation.
+The Stack Overflow Network (also referred to herein as “Stack Overflow” or “Network”) is a set of related Internet sites and other applications for questions and answers, owned and operated by Stack Exchange, Inc. (“Stack Overflow”, “we” or “us”), a Delaware corporation.
 
 Stack Overflow welcomes you to the Network, the largest community of developers in the world, and invites you to participate in the community by sharing knowledge with your peers and colleagues.
 
@@ -68,7 +68,7 @@ We need to collect your personal information for account registration purposes. 
 
 Profile information
 
-When completing a public â€œprofileâ€�, whether it is for use with the Network or our Products and Services, we may require you to share certain personally identifying information in required and optional profile fields. The name associated with your account, which you may review and change in your account settings, as well as reputation points are publicly displayed and connected to your activity on the Stack Overflow Network and via certain Products and Services such as our Talent and Teams platforms.
+When completing a public “profile”, whether it is for use with the Network or our Products and Services, we may require you to share certain personally identifying information in required and optional profile fields. The name associated with your account, which you may review and change in your account settings, as well as reputation points are publicly displayed and connected to your activity on the Stack Overflow Network and via certain Products and Services such as our Talent and Teams platforms.
 
 Other profile information may also be publicly displayed if you choose to complete certain elective components of the Account Registration options including, e.g., your Developer Story, display picture, affiliated role and company, your location and your preferred technologies (javascript, swift, sql-server, etc.), and some information is publicly displayed and required, such as how long you have been a member.
 
@@ -78,7 +78,7 @@ If you are using the private Network (e.g., Stack Overflow for Teams), your acco
 
 Information we use to identify and authenticate you. We need this information to be able to recognize you, for example, when you access your accounts. It also helps us to protect your details and keep them secure.
 
-Marketing and sales information, e.g. details of the services you receive and your preferences; information about your device or the software you use, e.g. its IP address, technical specification and uniquely identifying data; cookies and similar technologies we use to recognize you, remember your preferences and tailor the content we provide to you â€“ our [cookie policy](https://stackoverflow.com/legal/cookie-policy) contains more details about how we use cookies .
+Marketing and sales information, e.g. details of the services you receive and your preferences; information about your device or the software you use, e.g. its IP address, technical specification and uniquely identifying data; cookies and similar technologies we use to recognize you, remember your preferences and tailor the content we provide to you – our [cookie policy](https://stackoverflow.com/legal/cookie-policy) contains more details about how we use cookies .
 
 Device and browser information received automatically
 
@@ -110,7 +110,7 @@ For Products and Services requiring payment, we collect a billing name, phone nu
 
 Developer Survey
 
-As the worldâ€™s largest developer community, Stack Overflow publishes an annual Developer Survey to provide key insights into the developer community, as well as other surveys from time to time, all of which include demographic (e.g. gender, race, age etc) and certain personal information. Your participation in the Developer Survey as well as any other Stack Overflow survey is entirely voluntary. In order to provide meaningful insights into the developer community, Stack Overflow may collect sensitive data about you, including, but not limited to your gender, race, sexual orientation, immigration status, and your location. We consider this data to be among our most sensitive, and have taken elevated measures to protect such data as well as to de-identify your name and other personal information from such data. We restrict such data within Stack Overflow on a privileged basis to only those that need to see it and while we may share your personal information with certain third parties such as researchers, we do so only after imposing contractual obligations of confidentiality on such third parties and only where absolutely necessary for limited research purposes.
+As the world’s largest developer community, Stack Overflow publishes an annual Developer Survey to provide key insights into the developer community, as well as other surveys from time to time, all of which include demographic (e.g. gender, race, age etc) and certain personal information. Your participation in the Developer Survey as well as any other Stack Overflow survey is entirely voluntary. In order to provide meaningful insights into the developer community, Stack Overflow may collect sensitive data about you, including, but not limited to your gender, race, sexual orientation, immigration status, and your location. We consider this data to be among our most sensitive, and have taken elevated measures to protect such data as well as to de-identify your name and other personal information from such data. We restrict such data within Stack Overflow on a privileged basis to only those that need to see it and while we may share your personal information with certain third parties such as researchers, we do so only after imposing contractual obligations of confidentiality on such third parties and only where absolutely necessary for limited research purposes.
 
 When we publish our surveys, they are published as a compilation of anonymized data, which means that we take every effort to ensure that your information is understood in a statistical narrative decoupled from your personal identity.
 
@@ -131,7 +131,7 @@ In order to carry out these activities, Stack Overflow may rely on the following
     *   to protect the public interest or vital interest of others
 *   Where it is in our legitimate interests, or that of a third party to carry out the processing.
 
-Whenever we rely on legitimate interests for processing, we ensure that we consider and balance our interests against the individualâ€™s interests before processing. We do not use your personal data on the basis of legitimate interest for activities where individualsâ€™ interests override our interests.
+Whenever we rely on legitimate interests for processing, we ensure that we consider and balance our interests against the individual’s interests before processing. We do not use your personal data on the basis of legitimate interest for activities where individuals’ interests override our interests.
 
 Where we process your information on the basis of legitimate interests, we do so in order to:
 
@@ -141,7 +141,7 @@ Stack Overflow is committed to the safety and security of your personal data and
 
 Provide and optimize products and services
 
-We use your information to provide and improve our Products and Services, for identification, verification, to provide support, for online and offline marketing including through third party tools such as Google Analytics, and for general research and analytics reporting. In doing so, we may learn which of our Products and Services you are using most, what youâ€™re interested in, and to better enable you to use and access our Products and Services. As a core part of our business, Stack Overflow has a legitimate interest in enabling and customizing your experience of our Product and Services offerings.
+We use your information to provide and improve our Products and Services, for identification, verification, to provide support, for online and offline marketing including through third party tools such as Google Analytics, and for general research and analytics reporting. In doing so, we may learn which of our Products and Services you are using most, what you’re interested in, and to better enable you to use and access our Products and Services. As a core part of our business, Stack Overflow has a legitimate interest in enabling and customizing your experience of our Product and Services offerings.
 
 Engage in commercial transactions
 
@@ -217,7 +217,7 @@ The European Commission has adopted standard contractual clauses (also referred 
 
 OUR ONGOING COMMITMENT TO DATA SECURITY
 
-Security is important to us and we know it is important to you. Stack Overflow follows generally accepted standards to protect your personal information when processing, transferring, and storing your personal information including Transport Layer Security (â€œTLSâ€�), by restricting your personal data when we do not need to access it and by keeping your personal data only as necessary to perform our legitimate business interests.
+Security is important to us and we know it is important to you. Stack Overflow follows generally accepted standards to protect your personal information when processing, transferring, and storing your personal information including Transport Layer Security (“TLS”), by restricting your personal data when we do not need to access it and by keeping your personal data only as necessary to perform our legitimate business interests.
 
 As the data subject, you too have an important role to play in helping us protect your personal information. We encourage you to protect yourself against unauthorized access to your personal information by choosing a password carefully and in accordance with industry best standards. Do not share your password with anyone you do not trust, and make sure your computer accesses Stack Overflow via a secure network and that you do not leave your personal information vulnerable to hackers and other bad actors by leaving your computer unattended or by failing to logout of your account when you have ended your session activity.
 
@@ -227,7 +227,7 @@ You may opt-out of receiving Stack Overflow email marketing materials by using t
 
 ADDITIONAL INFORMATION FOR CALIFORNIA CONSUMERS
 
-Under the California Consumer Privacy Act (â€œCCPAâ€�), we are required to notify California consumers about our collection, use, and disclosure of their personal information (whether collected through this website or offline). Please see more information about this in the Legal section of our website.
+Under the California Consumer Privacy Act (“CCPA”), we are required to notify California consumers about our collection, use, and disclosure of their personal information (whether collected through this website or offline). Please see more information about this in the Legal section of our website.
 
 PRIVACY POLICY AMENDMENTS
 
