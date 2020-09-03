@@ -18,7 +18,7 @@ Child Endangerment
 
 Apps that include content that sexualizes minors are subject to immediate removal from the Store. , including but not limited to, apps that promote pedophilia or inappropriate interaction targeted at a minor (e.g. groping or caressing). 
 
-In addition, apps that appeal to children but contain adult themes are not allowed, including but not limited to, apps with excessive violence, blood, and gore; apps that depict or encourage harmful and dangerous activities. We also donâ€™t allow apps that promote negative body or self image including apps that depict for entertainment purposes plastic surgery, weight loss, and other cosmetic adjustments to a person's physical appearance.
+In addition, apps that appeal to children but contain adult themes are not allowed, including but not limited to, apps with excessive violence, blood, and gore; apps that depict or encourage harmful and dangerous activities. We also don’t allow apps that promote negative body or self image including apps that depict for entertainment purposes plastic surgery, weight loss, and other cosmetic adjustments to a person's physical appearance.
 
 If we become aware of content with child sexual abuse imagery, we will report it to the appropriate authorities and delete the Google Accounts of those involved with the distribution.
 
@@ -169,7 +169,7 @@ We allow real-money gambling apps, ads related to real-money gambling, and daily
 ### Gambling Apps
 
 **(Currently permitted in the UK, Ireland, and France only)**  
-For all other locations, we donâ€™t allow apps containing content or services that facilitate online gambling. 
+For all other locations, we don’t allow apps containing content or services that facilitate online gambling. 
 
 We allow content and services that facilitate online gambling, as long as they meet the following requirements:
 
@@ -190,9 +190,9 @@ We don't allow content or services that enable or facilitate users' ability to w
 **Here are examples of violations:**
 
 *   Games that accept money in exchange for an opportunity to win a physical or monetary prize
-*   Games with â€œloyaltyâ€� (e.g. engagement or activity) points that (1) are accrued or accelerated via real-money purchases which (2) can be exchanged for items or prizes of real world monetary value
+*   Games with “loyalty” (e.g. engagement or activity) points that (1) are accrued or accelerated via real-money purchases which (2) can be exchanged for items or prizes of real world monetary value
 *   Apps that accept or manage gambling wagers, in-app currencies required for participation, winnings, or deposits in order to obtain or accelerate eligibility for a physical or monetary prize.
-*   Apps that provide a â€œcall to actionâ€� to wager, stake, or participate in real-money games, contests, or tournaments using real money, such as apps with navigational elements (menu items, tabs, buttons, etc.) that invite users to â€œREGISTER!â€� or â€œCOMPETE!â€� in a tournament for a chance to win a cash prize.
+*   Apps that provide a “call to action” to wager, stake, or participate in real-money games, contests, or tournaments using real money, such as apps with navigational elements (menu items, tabs, buttons, etc.) that invite users to “REGISTER!” or “COMPETE!” in a tournament for a chance to win a cash prize.
 
 ### Ads for Gambling or Real-Money Games, Contests, and Tournaments within Play-distributed Apps
 
@@ -213,10 +213,10 @@ Only Gambling apps (as defined above) or apps that meet all of these Gambling Ad
 
 **Here are some examples of violations:**
 
-*   An app thatâ€™s designed for under-age users and shows an ad promoting gambling services
+*   An app that’s designed for under-age users and shows an ad promoting gambling services
 *   A simulated casino game that promotes or directs users to real money casinos
 *   A dedicated sports odds tracker app containing integrated gambling ads linking to a sports betting site
-*   A news app that shows ads for a gambling service owned or operated by the appâ€™s developer
+*   A news app that shows ads for a gambling service owned or operated by the app’s developer
 *   Apps that have gambling ads that violate our [Deceptive Ads](https://support.google.com/googleplay/android-developer/answer/9914283#deceptive-ads) policy, such as ads that appear to users as buttons, icons, or other interactive in-app elements
 
 ### Daily Fantasy Sports (DFS) Apps
@@ -243,7 +243,7 @@ If distributed in the US, the following additional requirements apply;
 Illegal Activities
 ------------------
 
-We donâ€™t allow apps that facilitate or promote illegal activities. 
+We don’t allow apps that facilitate or promote illegal activities. 
 
 **Here are some examples of common violations:**
 
@@ -259,7 +259,7 @@ User-generated content (UGC) is content that users contribute to an app, and whi
 Apps that contain or feature UGC must:
 
 *   require that users accept the app's terms of use and/or user policy before users can create or upload UGC;
-*   define objectionable content and behaviors (in a way that complies with Playâ€™s Developer Program Policies), and prohibit them in the appâ€™s terms of use or user policies; 
+*   define objectionable content and behaviors (in a way that complies with Play’s Developer Program Policies), and prohibit them in the app’s terms of use or user policies; 
 *   implement robust, effective and ongoing UGC moderation, as is reasonable and consistent with the type of UGC hosted by the app
     *   In the case of live-streaming apps, objectionable UGC must be removed as close to real-time as reasonably possible;
     *   In the case of augmented reality (AR) apps, UGC moderation (including the in-app reporting system) must account for both objectionable AR UGC (e.g. a sexually explicit AR image) and sensitive AR anchoring location (e.g. AR content anchored to a restricted area, such as a military base, or a private property where AR anchoring may cause issues for the property owner);
@@ -295,11 +295,11 @@ For additional information on the unapproved or misleading pharmaceuticals and s
 Intellectual Property
 =====================
 
-When developers copy someone elseâ€™s work or use it without required permission,  it might harm the owner of that work. Don't rely on unfair use of other peopleâ€™s work.
+When developers copy someone else’s work or use it without required permission,  it might harm the owner of that work. Don't rely on unfair use of other people’s work.
 
 ### Intellectual Property
 
-We donâ€™t allow apps or developer accounts that infringe on the intellectual property rights of others (including trademark, copyright, patent, trade secret, and other proprietary rights). We also donâ€™t allow apps that encourage or induce infringement of intellectual property rights.
+We don’t allow apps or developer accounts that infringe on the intellectual property rights of others (including trademark, copyright, patent, trade secret, and other proprietary rights). We also don’t allow apps that encourage or induce infringement of intellectual property rights.
 
 We will respond to clear notices of alleged copyright infringement. For more information or to file a DMCA request, please visit our [copyright procedures](https://support.google.com/legal/answer/3110420?product=androidmarket&rd=2&hl=en).
 
@@ -311,9 +311,9 @@ If you have written documentation proving that you have permission to use a thir
 
 ### Unauthorized Use of Copyrighted Content 
 
-We donâ€™t allow apps that infringe copyright. Modifying copyrighted content may still lead to a violation. Developers may be required to provide evidence of their rights to use copyrighted content.
+We don’t allow apps that infringe copyright. Modifying copyrighted content may still lead to a violation. Developers may be required to provide evidence of their rights to use copyrighted content.
 
-Please be careful when using copyrighted content to demonstrate the functionality of your app. In general, the safest approach is to create something thatâ€™s original.
+Please be careful when using copyrighted content to demonstrate the functionality of your app. In general, the safest approach is to create something that’s original.
 
 **Here are some examples of copyrighted content that is often used without authorization or a legally valid reason:**
 
@@ -321,15 +321,15 @@ Please be careful when using copyrighted content to demonstrate the functionalit
 *   Marketing images from movies, television, or video games.
 *   Artwork or images from comic books, cartoons, movies, music videos, or television.
 *   College and professional sports team logos.
-*   Photos taken from a public figureâ€™s social media account.
+*   Photos taken from a public figure’s social media account.
 *   Professional images of public figures.
-*   Reproductions or â€œfan artâ€� indistinguishable from the original work under copyright.
+*   Reproductions or “fan art” indistinguishable from the original work under copyright.
 *   Apps that have soundboards that play audio clips from copyrighted content.
 *   Full reproductions or translations of books that are not in the public domain.
 
 ### Encouraging Infringement of Copyright
 
-We donâ€™t allow apps that induce or encourage copyright infringement. Before you publish your app, look for ways your app may be encouraging copyright infringement and get legal advice if necessary.
+We don’t allow apps that induce or encourage copyright infringement. Before you publish your app, look for ways your app may be encouraging copyright infringement and get legal advice if necessary.
 
 **Here are some examples of common violations:**
 
@@ -339,14 +339,14 @@ We donâ€™t allow apps that induce or encourage copyright infringement. Befo
 ![](//lh3.googleusercontent.com/YgbO-iSTmcQD-qHvikK9QAkUtOqmax97-G_fIZ7xh-IyXRqZErz-1SKt1lBEmcyZLQ=w550-h450)  
   
   
-â‘  The description in this app listing encourages users to download copyrighted content without authorization.  
-â‘¡ The screenshot in the app listing encourages users to download copyrighted content without authorization.
+① The description in this app listing encourages users to download copyrighted content without authorization.  
+② The screenshot in the app listing encourages users to download copyrighted content without authorization.
 
 ### Trademark Infringement
 
-We donâ€™t allow apps that infringe on othersâ€™ trademarks. A trademark is a word, symbol, or combination that identifies the source of a good or service. Once acquired, a trademark gives the owner exclusive rights to the trademark usage with respect to certain goods or services.
+We don’t allow apps that infringe on others’ trademarks. A trademark is a word, symbol, or combination that identifies the source of a good or service. Once acquired, a trademark gives the owner exclusive rights to the trademark usage with respect to certain goods or services.
 
-Trademark infringement is improper or unauthorized use of an identical or similar trademark in a way that is likely to cause confusion as to the source of that product. If your app uses another partyâ€™s trademarks in a way that is likely to cause confusion, your app may be suspended.
+Trademark infringement is improper or unauthorized use of an identical or similar trademark in a way that is likely to cause confusion as to the source of that product. If your app uses another party’s trademarks in a way that is likely to cause confusion, your app may be suspended.
 
 ### Counterfeit
 
@@ -357,11 +357,11 @@ We don't allow apps that sell or promote for sale counterfeit goods. Counterfeit
 Privacy, Deception and Device Abuse
 ===================================
 
-Weâ€™re committed to protecting user privacy and providing a safe and secure environment for our users. Apps that are deceptive, malicious, or intended to abuse or misuse any network, device, or personal data are strictly prohibited.
+We’re committed to protecting user privacy and providing a safe and secure environment for our users. Apps that are deceptive, malicious, or intended to abuse or misuse any network, device, or personal data are strictly prohibited.
 
 ### User Data
 
-You must be transparent in how you handle user data (e.g., information collected from or about a user, including device information). That means disclosing your appâ€™s access, collection, use, and sharing of the data, and limiting the use of the data to the purposes disclosed. In addition, if your app handles personal or sensitive user data, please also refer to the additional requirements in the "Personal and Sensitive Information" section below. These Google Play requirements are in addition to any requirements prescribed by applicable privacy and data protection laws.
+You must be transparent in how you handle user data (e.g., information collected from or about a user, including device information). That means disclosing your app’s access, collection, use, and sharing of the data, and limiting the use of the data to the purposes disclosed. In addition, if your app handles personal or sensitive user data, please also refer to the additional requirements in the "Personal and Sensitive Information" section below. These Google Play requirements are in addition to any requirements prescribed by applicable privacy and data protection laws.
 
 #### Personal and Sensitive Information
 
@@ -397,7 +397,7 @@ In cases where users may not reasonably expect that their personal or sensitive 
 
 *   An app that accesses a user's inventory of installed apps and doesn't treat this data as personal or sensitive data subject to the above Privacy Policy, data handling, and Prominent Disclosure and Consent requirements.
 *   An app that accesses a user's phone or contact book data and doesn't treat this data as personal or sensitive data subject to the above Privacy Policy, data handling, and Prominent Disclosure and Consent requirements.
-*   An app that records a userâ€™s screen and doesn't treat this data as personal or sensitive data subject to this policy.
+*   An app that records a user’s screen and doesn't treat this data as personal or sensitive data subject to this policy.
 *   An app that collects [device location](https://developer.android.com/training/location) and does not comprehensively disclose its use and obtain consent in accordance with the above requirements
 *   An app that collects restricted permissions in the background of the app including for tracking, research, or marketing purposes and does not comprehensively disclose its use and obtain consent in accordance with the above requirements. 
 
@@ -418,7 +418,7 @@ In addition to the requirements above, the table below describes requirements fo
 
 ###### Privacy Shield
 
-If you access, use, or process personal information made available by Google that directly or indirectly identifies an individual and that originated in the European Union or Switzerland (â€œEU Personal Informationâ€�), then you must:
+If you access, use, or process personal information made available by Google that directly or indirectly identifies an individual and that originated in the European Union or Switzerland (“EU Personal Information”), then you must:
 
 *   comply with all applicable privacy, data security, and data protection laws, directives, regulations, and rules;
 *   access, use or process EU Personal Information only for purposes that are consistent with the consent obtained from the individual to whom the EU Personal Information relates;
@@ -439,7 +439,7 @@ Request permissions to access data in context (via incremental auth), so that us
 In addition to the above, restricted permissions are permissions that are designated as [Dangerous](https://developer.android.com/guide/topics/permissions/overview#dangerous_permissions), [Special](https://developer.android.com/guide/topics/permissions/overview#special_permissions), or [Signature](https://developer.android.com/guide/topics/permissions/overview#signature_permissions), and are subject to the following additional requirements and restrictions:
 
 *   Sensitive user or device data accessed through Restricted Permissions may only be transferred to third parties if necessary to provide or improve current features or services in the app from which the data was collected. You may also transfer data as necessary to comply with applicable law or as part of a merger, acquisition, or sale of assets with legally adequate notice to users. All other transfers or sales of the user data are prohibited.
-*   Respect usersâ€™ decisions if they decline a request for a Restricted Permission, and users may not be manipulated or forced into consenting to any non-critical permission. You must make a reasonable effort to accommodate users who do not grant access to sensitive permissions (e.g., allowing a user to manually enter a phone number if theyâ€™ve restricted access to Call Logs).
+*   Respect users’ decisions if they decline a request for a Restricted Permission, and users may not be manipulated or forced into consenting to any non-critical permission. You must make a reasonable effort to accommodate users who do not grant access to sensitive permissions (e.g., allowing a user to manually enter a phone number if they’ve restricted access to Call Logs).
 
 Certain Restricted Permissions may be subject to additional requirements as detailed below. The objective of these restrictions is to safeguard user privacy. We may make limited exceptions to the requirements below in very rare cases where apps provide a highly compelling or critical feature and where there is no alternative method available to provide the feature. We evaluate proposed exceptions against the potential privacy or security impacts on users.
 
@@ -455,9 +455,9 @@ SMS and Call Log Permissions are regarded as personal and sensitive user data su
 
  
 
-Apps lacking default SMS, Phone, or Assistant handler capability may not declare use of the above permissions in the manifest. This includes placeholder text in the manifest. Additionally, apps must be actively registered as the default SMS, Phone, or Assistant handler before prompting users to accept any of the above permissions and must immediately stop using the permission when theyâ€™re no longer the default handler. The permitted uses and exceptions are available on [this Help Center page](https://support.google.com/googleplay/android-developer/answer/9047303).
+Apps lacking default SMS, Phone, or Assistant handler capability may not declare use of the above permissions in the manifest. This includes placeholder text in the manifest. Additionally, apps must be actively registered as the default SMS, Phone, or Assistant handler before prompting users to accept any of the above permissions and must immediately stop using the permission when they’re no longer the default handler. The permitted uses and exceptions are available on [this Help Center page](https://support.google.com/googleplay/android-developer/answer/9047303).
 
-Apps may only use the permission (and any data derived from the permission) to provide approved core app functionality Core functionality is defined as the main purpose of the app. This may include a set of core features, which must all be prominently documented and promoted in the appâ€™s description. Without the core feature, the app is â€œbrokenâ€� or rendered unusable. The transfer, sharing, or licensed use of this data must only be for providing core features or services within the app, and its use may not be extended for any other purpose (e.g., improving other apps or services, advertising, or marketing purposes). You may not use alternative methods (including other permissions, APIs, or third-party sources) to derive data attributed to Call Log or SMS related permissions.
+Apps may only use the permission (and any data derived from the permission) to provide approved core app functionality Core functionality is defined as the main purpose of the app. This may include a set of core features, which must all be prominently documented and promoted in the app’s description. Without the core feature, the app is “broken” or rendered unusable. The transfer, sharing, or licensed use of this data must only be for providing core features or services within the app, and its use may not be extended for any other purpose (e.g., improving other apps or services, advertising, or marketing purposes). You may not use alternative methods (including other permissions, APIs, or third-party sources) to derive data attributed to Call Log or SMS related permissions.
 
 #### Location Permissions
 
@@ -477,22 +477,22 @@ Apps designed specifically for children must comply with the [Designed for Famil
 
 #### All Files Access Permission
 
-Files and directory attributes on a userâ€™s device are regarded as personal and sensitive user data subject to the [Personal and Sensitive Information](https://support.google.com/googleplay/android-developer/answer/9914283#user-data) policy and the following requirements:
+Files and directory attributes on a user’s device are regarded as personal and sensitive user data subject to the [Personal and Sensitive Information](https://support.google.com/googleplay/android-developer/answer/9914283#user-data) policy and the following requirements:
 
 *   Apps should only request access to device storage which is critical for the app to function, and may not request access to device storage on behalf of any third-party for any purpose that is unrelated to critical user-facing app functionality. 
 
-*   Android devices running R (Android 11, API Level 30) or later, will require the [MANAGE\_EXTERNAL\_STORAGE](https://developer.android.com/reference/android/Manifest.permission#MANAGE_EXTERNAL_STORAGE) permission in order to manage access in shared storage. All apps that target R and request broad access to shared storage (â€œAll files accessâ€�) must successfully pass an appropriate access review prior to publishing. Apps allowed to use this permission must clearly prompt users to enable â€œAll files accessâ€� for their app under â€œSpecial app accessâ€� settings. For more information on the R requirements, please see this [help article](https://support.google.com/googleplay/android-developer/answer/9956427).
+*   Android devices running R (Android 11, API Level 30) or later, will require the [MANAGE\_EXTERNAL\_STORAGE](https://developer.android.com/reference/android/Manifest.permission#MANAGE_EXTERNAL_STORAGE) permission in order to manage access in shared storage. All apps that target R and request broad access to shared storage (“All files access”) must successfully pass an appropriate access review prior to publishing. Apps allowed to use this permission must clearly prompt users to enable “All files access” for their app under “Special app access” settings. For more information on the R requirements, please see this [help article](https://support.google.com/googleplay/android-developer/answer/9956427).
 
 Device and Network Abuse
 ------------------------
 
-We donâ€™t allow apps that interfere with, disrupt, damage, or access in an unauthorized manner the userâ€™s device, other devices or computers, servers, networks, application programming interfaces (APIs), or services, including but not limited to other apps on the device, any Google service, or an authorized carrierâ€™s network.
+We don’t allow apps that interfere with, disrupt, damage, or access in an unauthorized manner the user’s device, other devices or computers, servers, networks, application programming interfaces (APIs), or services, including but not limited to other apps on the device, any Google service, or an authorized carrier’s network.
 
 Apps on Google Play must comply with the default Android system optimization requirements documented in the [Core App Quality guidelines for Google Play](http://developer.android.com/distribute/essentials/quality/core.html#listing).
 
 An app distributed via Google Play may not modify, replace, or update itself using any method other than Google Play's update mechanism. Likewise, an app may not download executable code (e.g. dex, JAR, .so files) from a source other than Google Play. This restriction does not apply to code that runs in a virtual machine and has limited access to Android APIs (such as JavaScript in a webview or browser).  
 
-We donâ€™t allow code that introduces or exploits security vulnerabilities. Check out the [App Security Improvement Program](https://developer.android.com/google/play/asi.html#campaigns) to find out about the most recent security issues flagged to developers.
+We don’t allow code that introduces or exploits security vulnerabilities. Check out the [App Security Improvement Program](https://developer.android.com/google/play/asi.html#campaigns) to find out about the most recent security issues flagged to developers.
 
  **Here are some examples of common violations:**
 
@@ -514,20 +514,20 @@ We don't allow apps that attempt to deceive users or enable dishonest behavior i
 
 ### Misleading Claims
 
-We donâ€™t allow apps that contain false or misleading information or claims, including in the description, title, icon, and screenshots.
+We don’t allow apps that contain false or misleading information or claims, including in the description, title, icon, and screenshots.
 
 **Here are some examples of common violations:**
 
 *   Apps that misrepresent or do not accurately and clearly describe their functionality:
     *   An app that claims to be a racing game in its description and screenshots, but is actually a puzzle block game using a picture of a car.
     *   An app that claims to be an antivirus app, but only contains a text guide explaining how to remove viruses.
-*   Developer or app names that misrepresent their current status or performance on Play. (E.g. â€œEditorâ€™s Choice,â€� â€œNumber 1 App,â€� â€œTop Paidâ€�).
+*   Developer or app names that misrepresent their current status or performance on Play. (E.g. “Editor’s Choice,” “Number 1 App,” “Top Paid”).
 *   Apps that feature medical or health-related content or functionalities that are misleading or potentially harmful.
 *   Apps that claim functionalities that are not possible to implement (e.g. insect repellent apps), even if it is represented as a prank, fake, joke, etc.
 *   Apps that are improperly categorized, including but not limited to the app rating or app category.
 *   Demonstrably deceptive content that may interfere with voting processes.
 *   Apps that falsely claim affiliation with a government entity or to provide or facilitate government services for which they are not properly authorized.
-*   Apps that falsely claim to be the official app of an established entity. Titles like â€œJustin Bieber Officialâ€� are not allowed without the necessary permissions or rights.
+*   Apps that falsely claim to be the official app of an established entity. Titles like “Justin Bieber Official” are not allowed without the necessary permissions or rights.
 
 ![](//lh3.googleusercontent.com/A1eTZ0k5mqZNzUIiekEmGzLcw2Jxy4anLVoa7w5unaJInstFQEl5oYl6TpY9XUn6Mwt6=w660)  
 (1) This app features medical or health-related claims (Cure Cancer) that is misleading  
@@ -535,11 +535,11 @@ We donâ€™t allow apps that contain false or misleading information or claim
 
 ### Deceptive Device Settings Changes
 
-We donâ€™t allow apps that make changes to the userâ€™s device settings or features outside of the app without the userâ€™s knowledge and consent. Device settings and features include system and browser settings, bookmarks, shortcuts, icons, widgets, and the presentation of apps on the homescreen.
+We don’t allow apps that make changes to the user’s device settings or features outside of the app without the user’s knowledge and consent. Device settings and features include system and browser settings, bookmarks, shortcuts, icons, widgets, and the presentation of apps on the homescreen.
 
 Additionally, we do not allow:
 
-*   Apps that modify device settings or features with the userâ€™s consent but do so in a way that is not easily reversible.
+*   Apps that modify device settings or features with the user’s consent but do so in a way that is not easily reversible.
 *   Apps or ads that modify device settings or features as a service to third parties or for advertising purposes.
 *   Apps that mislead users into removing or disabling third-party apps or modifying device settings or features.
 *   Apps that encourage or incentivize users into removing or disabling third-party apps or modifying device settings or features unless it is part of a verifiable security service.
@@ -556,8 +556,8 @@ Any claim that an app is a "prank", "for entertainment purposes" (or other synon
 
 *   Apps that mimic other apps or websites to trick users into disclosing personal or authentication information.
 *   Apps that depict or display unverified or real world phone numbers, contacts, addresses, or personally identifiable information of non-consenting individuals or entities.
-*   Apps with different core functionality based on a userâ€™s geography, device parameters, or other user-dependent data where those differences are not prominently advertised to the user in the store listing.  
-*   Apps that change significantly between versions without alerting the user (e.g., [â€˜whatâ€™s newâ€™ section](https://support.google.com/googleplay/android-developer/answer/7159011)) and updating the store listing.
+*   Apps with different core functionality based on a user’s geography, device parameters, or other user-dependent data where those differences are not prominently advertised to the user in the store listing.  
+*   Apps that change significantly between versions without alerting the user (e.g., [‘what’s new’ section](https://support.google.com/googleplay/android-developer/answer/7159011)) and updating the store listing.
 *   Apps that attempt to modify or obfuscate behavior during review.
 *   Apps with content delivery network (CDN) facilitated downloads that fail to prompt the user and disclose the download size prior to downloading.
 
@@ -580,7 +580,7 @@ Apps that manipulate or alter media, beyond conventional and editorially accepta
 Misrepresentation
 -----------------
 
-We do not allow apps or developer accounts that impersonate any person or organization, or that misrepresent or conceal their ownership or primary purpose. We do not allow apps or developer accounts that engage in coordinated activity to mislead users. This includes, but isnâ€™t limited to, apps or developer accounts that misrepresent or conceal their country of origin and that direct content at users in another country.
+We do not allow apps or developer accounts that impersonate any person or organization, or that misrepresent or conceal their ownership or primary purpose. We do not allow apps or developer accounts that engage in coordinated activity to mislead users. This includes, but isn’t limited to, apps or developer accounts that misrepresent or conceal their country of origin and that direct content at users in another country.
 
 Malware
 -------
@@ -725,7 +725,7 @@ Code that transmits personal data off the device without adequate notice or cons
 For example, transmitting any of the following information without disclosures or in a manner that is unexpected to the user is sufficient to be considered spyware:
 
 *   Contact list
-*   Photos or other files from the SD card or that arenâ€™t owned by the app
+*   Photos or other files from the SD card or that aren’t owned by the app
 *   Content from user email
 *   Call log
 *   SMS log
@@ -738,7 +738,7 @@ Behaviors that can be considered as spying on the user can also be flagged as sp
 
 Code that appears to be benign, such as a game that claims only to be a game, but that performs undesirable actions against the user.
 
-This classification is usually used in combination with other PHA categories. A trojan has an innocuous component and a hidden harmful component. For example, a game that sends premium SMS messages from the user's device in the background and without the userâ€™s knowledge.
+This classification is usually used in combination with other PHA categories. A trojan has an innocuous component and a hidden harmful component. For example, a game that sends premium SMS messages from the user's device in the background and without the user’s knowledge.
 
 ### A Note on Uncommon Apps
 
@@ -748,7 +748,7 @@ New and rare apps can be classified as uncommon if Google Play Protect doesn't h
 
 The backdoor malware category classification relies on how the code acts. A necessary condition for any code to be classified as a backdoor is that it enables behavior that would place the code into one of the other malware categories if executed automatically. For example, if an app allows dynamic code loading and the dynamically loaded code is extracting text messages, it will be classified as a backdoor malware.
 
-However, if an app allows arbitrary code execution and we donâ€™t have any reason to believe that this code execution was added to perform a malicious behaviour then the app will be treated as having a vulnerability, rather than being backdoor malware, and the developer will be asked to patch it.
+However, if an app allows arbitrary code execution and we don’t have any reason to believe that this code execution was added to perform a malicious behaviour then the app will be treated as having a vulnerability, rather than being backdoor malware, and the developer will be asked to patch it.
 
 Mobile Unwanted Software
 ========================
@@ -761,13 +761,13 @@ This policy builds on the Google Unwanted Software Policy by outlining principle
 
 At Google, we believe that if we focus on the user, all else will follow. In our [Software Principles](https://www.google.com/about/software-principles.html) and the [Unwanted Software Policy](https://www.google.com/about/unwanted-software-policy.html), we provide general recommendations for software that delivers a great user experience. This policy builds on the Google Unwanted Software Policy by outlining principles for the [Android ecosystem](https://www.android.com/mobile-unwanted-software-policy) and the Google Play Store. Software that violates these principles is potentially harmful to the user experience, and we will take steps to protect users from it.
 
-As mentioned in the [Unwanted Software Policy](https://www.google.com/about/unwanted-software-policy.html), weâ€™ve found that most unwanted software displays one or more of the same basic characteristics:
+As mentioned in the [Unwanted Software Policy](https://www.google.com/about/unwanted-software-policy.html), we’ve found that most unwanted software displays one or more of the same basic characteristics:
 
 *   It is deceptive, promising a value proposition that it does not meet.
 *   It tries to trick users into installing it or it piggybacks on the installation of another program.
-*   It doesnâ€™t tell the user about all of its principal and significant functions.
-*   It affects the userâ€™s system in unexpected ways.
-*   It collects or transmits private information without usersâ€™ knowledge.
+*   It doesn’t tell the user about all of its principal and significant functions.
+*   It affects the user’s system in unexpected ways.
+*   It collects or transmits private information without users’ knowledge.
 *   It collects or transmits private information without a secure handling (e.g., transmission over HTTPS)
 *   It is bundled with other software and its presence is not disclosed.
 
@@ -781,9 +781,9 @@ _All code should deliver on promises made to the user. Apps should provide all c
 
 *   Apps should be clear about the functionality and objectives.
 *   Explicitly and clearly explain to the user what system changes will be made by the app. Allow users to review and approve all significant installation options and changes. 
-*   Software should not misrepresent the state of the userâ€™s device to the user, for example by claiming the system is in a critical security state or infected with viruses.
-*   Donâ€™t utilize invalid activity designed to increase ad traffic and/or conversions.
-*   We donâ€™t allow apps that mislead users by impersonating someone else (e.g. another developer, company, entity) or another app.  Donâ€™t imply that your app is related to or authorized by someone that it isnâ€™t.
+*   Software should not misrepresent the state of the user’s device to the user, for example by claiming the system is in a critical security state or infected with viruses.
+*   Don’t utilize invalid activity designed to increase ad traffic and/or conversions.
+*   We don’t allow apps that mislead users by impersonating someone else (e.g. another developer, company, entity) or another app.  Don’t imply that your app is related to or authorized by someone that it isn’t.
 
 Example violations:
 
@@ -813,7 +813,7 @@ Example User Data Policies:
 
 _The user experience should be straightforward, easy-to-understand, and based on clear choices made by the user. It should present a clear value proposition to the user and not disrupt the advertised or desired user experience._
 
-*   Donâ€™t show ads that are displayed to users in unexpected ways including impairing or interfering with the usability of device functions, or displaying outside the triggering appâ€™s environment without being easily dismissable and adequate consent and attribution.
+*   Don’t show ads that are displayed to users in unexpected ways including impairing or interfering with the usability of device functions, or displaying outside the triggering app’s environment without being easily dismissable and adequate consent and attribution.
 *   Apps should not interfere with other apps or the usability of the device
 *   Uninstall, where applicable, should be clear. 
 *   Mobile software should not mimic prompts from the device OS or other apps. Do not suppress alerts to the user from other apps or from the operating system, notably those which inform the user of changes to their OS. 
@@ -831,13 +831,13 @@ Ad fraud is strictly prohibited. Ad interactions generated for the purpose of tr
 
 *   An app that renders ads that are not visible to the user.
 *   An app that automatically generates clicks on ads without the user's intention or that produces equivalent network traffic to fraudulently give click credits.
-*   An app sending fake installation attribution clicks to get paid for installations that did not originate from the senderâ€™s network. 
+*   An app sending fake installation attribution clicks to get paid for installations that did not originate from the sender’s network. 
 *   An app that pops up ads when the user is not within the app interface.
 *   False representations of the ad inventory by an app, e.g. an app that communicates to ad networks that it is running on an iOS device when it is in fact running on an Android device; an app that misrepresents the package name that is being monetized.
 
 ### Unauthorized Use or Imitation of System Functionality
 
-We donâ€™t allow apps or ads that mimic or interfere with system functionality, such as notifications or warnings. System level notifications may only be used for an appâ€™s integral features, such as an airline app that notifies users of special deals, or a game that notifies users of in-game promotions.
+We don’t allow apps or ads that mimic or interfere with system functionality, such as notifications or warnings. System level notifications may only be used for an app’s integral features, such as an airline app that notifies users of special deals, or a game that notifies users of in-game promotions.
 
 **Here are some examples of common violations:**
 
@@ -845,7 +845,7 @@ We donâ€™t allow apps or ads that mimic or interfere with system functional
     
     ![](//lh3.googleusercontent.com/IPFAZO6-lhsNkj6rxpegV2KoiAoj4cJDw8eXO0Bs_dUl99bXsmO2ll2a7RfvuKRodMQ=w300-h544)
     
-    â‘  The system notification shown in this app is being used to serve an ad.
+    ① The system notification shown in this app is being used to serve an ad.
 
  
 
@@ -858,13 +858,13 @@ When developers impersonate others or their apps, it misleads users and hurts th
 
 ### Impersonation
 
-We donâ€™t allow apps that mislead users by impersonating someone else (e.g. another developer,  company, entity) or another app.  Donâ€™t imply that your app is related to or authorized by someone that it isnâ€™t.  Be careful not to use app icons, descriptions, titles, or in-app elements that could mislead users about your appâ€™s relationship to someone else or another app.
+We don’t allow apps that mislead users by impersonating someone else (e.g. another developer,  company, entity) or another app.  Don’t imply that your app is related to or authorized by someone that it isn’t.  Be careful not to use app icons, descriptions, titles, or in-app elements that could mislead users about your app’s relationship to someone else or another app.
 
 **Here are some examples of common violations:**
 
 *   Developers that falsely imply a relationship to another company / developer:  
     ![](//lh3.googleusercontent.com/CTXDDQ5617TOtJ7SXt26hSid4qUaq_sXHYsOkRikG_I5irsQ3Qh8Y5vmcu9Nr8wYEg=w300-h550)  
-    â‘  The developer name listed for this app suggests an official relationship with Google, even though such a relationship doesnâ€™t exist.
+    ① The developer name listed for this app suggests an official relationship with Google, even though such a relationship doesn’t exist.
 *   App titles and icons that are so similar to those of existing products or services that users may be misled:  
     ![](//lh3.googleusercontent.com/xtZuoVyE6Z5rXwzCzZfzsYu3BSpR4rTHtTF1ix0H4FQVN0ZWdnEunBt8zZkD93Z7D045=w550-h250)
 
@@ -878,7 +878,7 @@ Payments
 
 Apps that employ in-store or in-app purchases must comply with the following guidelines:
 
-**In-store purchases:** Developers charging for apps and downloads from Google Play must use Google Playâ€™s payment system.
+**In-store purchases:** Developers charging for apps and downloads from Google Play must use Google Play’s payment system.
 
 **In-app purchases:**
 
@@ -926,13 +926,13 @@ You, as a developer, must not mislead users about any subscription services or c
 
  
 
-â‘  Dismiss button is not clearly visible and users may not understand that they can access functionality without accepting the subscription offer.
+① Dismiss button is not clearly visible and users may not understand that they can access functionality without accepting the subscription offer.
 
-â‘¡ Offer only displays pricing in terms of monthly cost and users may not understand that they will be charged a six month price at the time they subscribe.
+② Offer only displays pricing in terms of monthly cost and users may not understand that they will be charged a six month price at the time they subscribe.
 
-â‘¢ Offer only shows the introductory price and users may not understand what they will automatically be charged at the end of the introductory period.
+③ Offer only shows the introductory price and users may not understand what they will automatically be charged at the end of the introductory period.
 
-â‘£ Offer should be localized in the same language as the terms and conditions so that users can understand the entire offer.
+④ Offer should be localized in the same language as the terms and conditions so that users can understand the entire offer.
 
 ### Free Trials & Introductory Offers
 
@@ -949,13 +949,13 @@ You, as a developer, must not mislead users about any subscription services or c
 
  
 
-â‘  Dismiss button is not clearly visible and users may not understand that they can access functionality without signing up for the free trial.
+① Dismiss button is not clearly visible and users may not understand that they can access functionality without signing up for the free trial.
 
-â‘¡ Offer emphasizes the free trial and users may not understand that they will automatically be charged at the end of the trial.
+② Offer emphasizes the free trial and users may not understand that they will automatically be charged at the end of the trial.
 
-â‘¢ Offer does not state a trial period and users may not understand how long their free access to subscription content will last.
+③ Offer does not state a trial period and users may not understand how long their free access to subscription content will last.
 
-â‘£ Offer should be localized in the same language as the terms and conditions so that users can understand the entire offer.
+④ Offer should be localized in the same language as the terms and conditions so that users can understand the entire offer.
 
 ### Subscriptions Management & Cancellation
 
@@ -966,13 +966,13 @@ It is your responsibility to notify your users of any changes to your subscripti
 Ads
 ---
 
-We donâ€™t allow apps that contain deceptive or disruptive ads. Ads must only be displayed within the app serving them. We consider ads served in your app as part of your app. The ads shown in your app must be compliant with all our policies. For policies on gambling ads, please click [here](https://support.google.com/googleplay/android-developer/answer/9914283#gambling-ads).
+We don’t allow apps that contain deceptive or disruptive ads. Ads must only be displayed within the app serving them. We consider ads served in your app as part of your app. The ads shown in your app must be compliant with all our policies. For policies on gambling ads, please click [here](https://support.google.com/googleplay/android-developer/answer/9914283#gambling-ads).
 
 ### Use of Location Data for Ads
 
 Apps that extend usage of permission based device location data for serving ads are subject to the [Personal and Sensitive Information](https://support.google.com/googleplay/android-developer/answer/9914283#user-data) policy, and must also comply with the following requirements:
 
-*   Use or collection of permission based device location data for advertising purposes must be clear to the user and documented in the appâ€™s mandatory privacy policy, including linking to any relevant ad network privacy policies addressing location data use.
+*   Use or collection of permission based device location data for advertising purposes must be clear to the user and documented in the app’s mandatory privacy policy, including linking to any relevant ad network privacy policies addressing location data use.
 *   In accordance with [Location Permissions](https://support.google.com/googleplay/android-developer/answer/9914283#location-permissions) requirements, location permissions may only be requested to implement current features or services within your app, and may not request device location permissions solely for the use of ads.
 
 ### Deceptive Ads
@@ -987,7 +987,7 @@ Ads must not simulate or impersonate the user interface of any app, notification
     ![](//lh3.googleusercontent.com/A3Y_qBYVWF2svMNxtSirEHSI-fW6gw0pZzASZgGFVthuyzpMH2nCZs9CMEr46Cg3rQ-_=w300-h550)  
       
       
-    â‘  The question mark icon in this app is an ad that takes the user to an external landing page.
+    ① The question mark icon in this app is an ad that takes the user to an external landing page.
 *   Ads that mimic a system notification:  
     ![](//lh3.googleusercontent.com/IDOi6pcuAVMnhg0htYlx_Yz82l6du38KVHwgT78YR8K3xaI96kKm8ODFHYHadMmkVXBd=h500)
 *   ![](//lh3.googleusercontent.com/Qf2MbevBq_Ht_9TIMk3ETaATYW8JuUqXdNohKuR2qoGTqs5lKrkNvw98Jyv4hO5qwMI=h500)
@@ -1008,7 +1008,7 @@ Your app cannot force a user to click an ad or submit personal information for a
 
 *   Ads that take up the entire screen or interfere with normal use and do not provide a clear means to dismiss the ad:  
     ![](//lh3.googleusercontent.com/E0g8p7q4jqMMfYsn1OUnAi1Uogg5UsGXqStsTRdDPFCe3covkQl5CWOY4H2wcKaG0g=h500)  
-    â‘  This ad does not have a dismiss button.
+    ① This ad does not have a dismiss button.
 *   Ads that force the user to click-through by using a false dismiss button, or by making ads suddenly appear in areas of the app whether the user usually taps for another function.
 
 ![](//lh3.googleusercontent.com/ic6YPH3yIwN3IgvC0Ktcsq_mZTODpVUEHczJQkMj_r3qAZmuLio0VMdnOGTxe0ApGoI=h500)
@@ -1051,18 +1051,18 @@ The ads shown within your app must be appropriate for the intended audience of y
 
 ![](//lh3.googleusercontent.com/PBa67hgzNg4f1FflV7_Y4KX5Jc41bGZ-sEtXILC02F6kGkMJsqvrYeKbCCrWTIDoe0s=h450)
 
-â‘  This ad is inappropriate (Teen) for the intended audience of the app (7+)  
-â‘¡ This ad is inappropriate (Mature) for the intended audience of the app (12+)
+① This ad is inappropriate (Teen) for the intended audience of the app (7+)  
+② This ad is inappropriate (Mature) for the intended audience of the app (12+)
 
 ### Usage of Android Advertising ID
 
 Google Play Services version 4.0 introduced new APIs and an ID for use by advertising and analytics providers. Terms for the use of this ID are below.
 
-*   **Usage**.The Android advertising identifier must only be used for advertising and user analytics. The status of the â€œOpt out of Interest-based Advertisingâ€� or â€œOpt out of Ads Personalizationâ€� setting must be verified on each access of the ID.
+*   **Usage**.The Android advertising identifier must only be used for advertising and user analytics. The status of the “Opt out of Interest-based Advertising” or “Opt out of Ads Personalization” setting must be verified on each access of the ID.
 *   **Association with personally-identifiable information or other identifiers**
     *   Advertising use: The advertising identifier may not be connected to persistent device Identifiers (for example: SSAID, MAC address, IMEI, etc.) for any advertising purpose. The advertising identifier may only be connected to personally-identifiable information with the explicit consent of the user.
     *   Analytics use: The advertising identifier may only be connected to personally-identifiable information or associated with any persistent device identifier (for example: SSAID, MAC address, IMEI, etc.) with the explicit consent of the user.
-*   **Respecting users' selections**. If reset, a new advertising identifier must not be connected to a previous advertising identifier or data derived from a previous advertising identifier without the explicit consent of the user. Also, you must abide by a userâ€™s â€œOpt out of Interest-based Advertisingâ€� or â€œOpt out of Ads Personalizationâ€� setting. If a user has enabled this setting, you may not use the advertising identifier for creating user profiles for advertising purposes or for targeting users with personalized advertising. Allowed activities include contextual advertising, frequency capping, conversion tracking, reporting and security and fraud detection.
+*   **Respecting users' selections**. If reset, a new advertising identifier must not be connected to a previous advertising identifier or data derived from a previous advertising identifier without the explicit consent of the user. Also, you must abide by a user’s “Opt out of Interest-based Advertising” or “Opt out of Ads Personalization” setting. If a user has enabled this setting, you may not use the advertising identifier for creating user profiles for advertising purposes or for targeting users with personalized advertising. Allowed activities include contextual advertising, frequency capping, conversion tracking, reporting and security and fraud detection.
 *   **Transparency to users**. The collection and use of the advertising identifier and commitment to these terms must be disclosed to users in a legally adequate privacy notification. To learn more about our privacy standards, please review our [User Data](https://support.google.com/googleplay/android-developer/answer/9914283#user-data) policy.
 *   **Abiding by the terms of use**. The advertising identifier may only be used in accordance with these terms, including by any party that you may share it with in the course of your business. All apps uploaded or published to Google Play must use the advertising ID (when available on a device) in lieu of any other device identifiers for any advertising purposes.
 
@@ -1078,10 +1078,10 @@ The use of Google Play certified ad SDKs is only required if you are using ad SD
 
 **Ad SDK Certification Requirements**
 
-*   Define what are objectionable ad content and behaviors and prohibit them in the ad SDK's terms or policies. The definitions  should comply with Playâ€™s Developer Program Policies.
+*   Define what are objectionable ad content and behaviors and prohibit them in the ad SDK's terms or policies. The definitions  should comply with Play’s Developer Program Policies.
 *   Create a method to rate your ad creatives according to age appropriate groups. Age appropriate groups must at least include groups for Everyone and Mature. The rating methodology must align with the methodology that Google supplies to SDKs once they have filled out the interest form below.
 *   Allow publishers, on a per-request or per-app basis, to request child-directed treatment for ad serving. Such treatment must be in compliance with applicable laws and regulations, such as the [US Children's Online Privacy and Protection Act (COPPA)](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy) and the EU [General Data Protection Regulation (GDPR)](https://gdpr.eu/). Google Play requires ad SDKs to disable personalized ads, interest based advertising, and remarketing as part of the child-directed treatment.
-*   Allow publishers to select ad formats that are compliant with [Playâ€™s Families Ads and Monetization policy](https://support.google.com/googleplay/android-developer/answer/9914283#families-ads-monetization), and meet the requirement of the [Teacher Approved program](https://playacademy.exceedlms.com/sl/044a202e). 
+*   Allow publishers to select ad formats that are compliant with [Play’s Families Ads and Monetization policy](https://support.google.com/googleplay/android-developer/answer/9914283#families-ads-monetization), and meet the requirement of the [Teacher Approved program](https://playacademy.exceedlms.com/sl/044a202e). 
 *   Ensure that when real-time bidding is used to serve ads to children, the creatives have been reviewed and privacy indicators are propagated to the bidders.
 *   Provide Google with sufficient information, such as information indicated in the [interest form](https://docs.google.com/forms/d/e/1FAIpQLSc8msikGDxjTHHFmIECoitMnpudaCbtrb_hhgzpUOznPhDoBw/viewform?p=adnet&visit_id=637244930778989316-3754351249&rd=1) below, to verify the ad SDK's compliance with all certification requirements, and respond in a timely manner to any subsequent requests for information.
 
@@ -1104,7 +1104,7 @@ The promotion and visibility of your app dramatically affects store quality. Avo
 App Promotion
 -------------
 
-We donâ€™t allow apps that directly or indirectly engage in or benefit from promotion practices that are deceptive or harmful to users or the developer ecosystem. This includes apps that engage in the following behavior:
+We don’t allow apps that directly or indirectly engage in or benefit from promotion practices that are deceptive or harmful to users or the developer ecosystem. This includes apps that engage in the following behavior:
 
 *   Using deceptive ads on websites, apps, or other properties, including notifications that are similar to system notifications and alerts.
 *   Promotion or installation tactics that redirect users to Google Play or download apps without informed user action.
@@ -1125,23 +1125,23 @@ In addition to the requirements noted here, specific Play Developer Policies may
 
 ![](//lh3.googleusercontent.com/6fgXFpVQR9XwinA29cSiqGMhb0BVUerzBF4wHA6k6C2vRN6Exhqjx1Lit3RQlGqBNlq0=w300-h550)  
   
-â‘  Unattributed or Anonymous User testimonials  
-â‘¡ Data comparison of apps or brands  
-â‘¢ Word blocks and vertical/horizontal word lists
+① Unattributed or Anonymous User testimonials  
+② Data comparison of apps or brands  
+③ Word blocks and vertical/horizontal word lists
 
 **Here are some examples of inappropriate text, images, or videos within your listing:** 
 
 *   Imagery or videos with sexually suggestive content. Avoid suggestive imagery containing breasts, buttocks, genitalia, or other fetishized anatomy or content, whether illustrated or real.
-*   Using profane, vulgar, or other language that is inappropriate for a general audience in your appâ€™s Store listing. 
+*   Using profane, vulgar, or other language that is inappropriate for a general audience in your app’s Store listing. 
 *   Graphic violence prominently depicted in app icons, promotional images, or videos.
 *   Depictions of the illicit usage of drugs. Even EDSA (Educational, Documentary, Scientific, or Artistic) content must be suitable for all audiences within the store listing.
 
 **Here are a few best practices:** 
 
 *   Highlight what's great about your app. Share interesting and exciting facts about your app to help users understand what makes your app special.
-*   Make sure that your appâ€™s title and description accurately describe your appâ€™s functionality.
+*   Make sure that your app’s title and description accurately describe your app’s functionality.
 *   Avoid using repetitive or unrelated keywords or references.
-*   Keep your appâ€™s description succinct and straightforward. Shorter descriptions tend to result in a better user experience, especially on devices with smaller displays. Excessive length, detail, improper formatting, or repetition can result in a violation of this policy.
+*   Keep your app’s description succinct and straightforward. Shorter descriptions tend to result in a better user experience, especially on devices with smaller displays. Excessive length, detail, improper formatting, or repetition can result in a violation of this policy.
 *   Remember that your listing should be suitable for a general audience. Avoid using inappropriate text, images or videos in your listing and adhere to the guidelines above.
 
 User Ratings, Reviews, and Installs
@@ -1154,37 +1154,37 @@ Developers must not attempt to manipulate the placement of any apps in Google Pl
 *   Asking users to rate your app while offering an incentive:
     
     ![](//lh3.googleusercontent.com/YE3Ni1kHIBr9NCMbR8MHb6d25GeqZSExgXpX7Mun7OQKn54asHNxDzkiAskdc4TLItQ=w300-h550)  
-        â‘  This notification offers users a discount in exchange for a high rating.
+        ① This notification offers users a discount in exchange for a high rating.
 
  
 
-*   Repeatedly submitting ratings to influence the appâ€™s placement on Google Play.
+*   Repeatedly submitting ratings to influence the app’s placement on Google Play.
 *   Submitting or encouraging users to submit reviews containing inappropriate content, including affiliates, coupons, game codes, email addresses, or links to websites or other apps:
     
     ![](//lh3.googleusercontent.com/oinE3IemifnHTMi0UhqU9rz1H7Yti08fhcQpmUktbNdkMijfrcMn-SuceK4fOZjAUjM=w300-h550)
     
-        â‘¡ This review encourages users to promote the RescueRover app by making a coupon offer.
+        ② This review encourages users to promote the RescueRover app by making a coupon offer.
     
 
 **Ratings and reviews are benchmarks of app quality. Users depend on them to be authentic and relevant. Here are some best practices when responding to user reviews:**
 
-*   Keep your reply focused on the issues raised in the user's comments and donâ€™t ask for a higher rating.
+*   Keep your reply focused on the issues raised in the user's comments and don’t ask for a higher rating.
 *   Include references to helpful resources such as a support address or FAQ page.
 
 Content Ratings
 ---------------
 
-Content ratings on Google Play are provided by the International Age Rating Coalition (IARC) and are designed to help developers communicate locally relevant content ratings to users. Regional IARC authorities maintain guidelines which are used to determine the maturity level of the content in an app. We donâ€™t allow apps without a content rating on Google Play.
+Content ratings on Google Play are provided by the International Age Rating Coalition (IARC) and are designed to help developers communicate locally relevant content ratings to users. Regional IARC authorities maintain guidelines which are used to determine the maturity level of the content in an app. We don’t allow apps without a content rating on Google Play.
 
 ### How content ratings are used
 
-Content ratings are used to inform consumers, especially parents, of potentially objectionable content that exists within an app. They also help filter or block your content in certain territories or to specific users where required by law, and determine your appâ€™s eligibility for special developer programs.
+Content ratings are used to inform consumers, especially parents, of potentially objectionable content that exists within an app. They also help filter or block your content in certain territories or to specific users where required by law, and determine your app’s eligibility for special developer programs.
 
 ### How content ratings are assigned
 
-To receive a content rating, you must fill out a [rating questionnaire on the Play Console](https://support.google.com/googleplay/android-developer/answer/188189?hl=en&#questionnaire) that asks about the nature of your appsâ€™ content. Your app will be assigned a content rating from multiple rating authorities based on your questionnaire responses. Misrepresentation of your appâ€™s content may result in removal or suspension, so it is important to provide accurate responses to the content rating questionnaire.
+To receive a content rating, you must fill out a [rating questionnaire on the Play Console](https://support.google.com/googleplay/android-developer/answer/188189?hl=en&#questionnaire) that asks about the nature of your apps’ content. Your app will be assigned a content rating from multiple rating authorities based on your questionnaire responses. Misrepresentation of your app’s content may result in removal or suspension, so it is important to provide accurate responses to the content rating questionnaire.
 
-To prevent your app from being listed as â€œUnratedâ€�, you must complete the content rating questionnaire for each new app submitted to the Play Console, as well as for all existing apps that are active on Google Play. 
+To prevent your app from being listed as “Unrated”, you must complete the content rating questionnaire for each new app submitted to the Play Console, as well as for all existing apps that are active on Google Play. 
 
 If you make changes to your app content or features that affect the responses to the rating questionnaire, you must submit a new content rating questionnaire in the Play Console.
 
@@ -1197,7 +1197,7 @@ If you do not agree with the rating assigned to your app, you can appeal directl
 News 
 -----
 
-Apps that select the â€˜Newsâ€™ category but exhibit content that does not meet these requirements are not permitted in the News category of the Play Store. News apps that require a user to purchase a membership must provide a content preview for users prior to purchase. 
+Apps that select the ‘News’ category but exhibit content that does not meet these requirements are not permitted in the News category of the Play Store. News apps that require a user to purchase a membership must provide a content preview for users prior to purchase. 
 
 News apps MUST:
 
@@ -1224,18 +1224,18 @@ We don't allow apps that spam users or Google Play, such as apps that send users
 
 ### Message Spam
 
-We donâ€™t allow apps that send SMS, email, or other messages on behalf of the user without giving the user the ability to confirm the content and intended recipients.
+We don’t allow apps that send SMS, email, or other messages on behalf of the user without giving the user the ability to confirm the content and intended recipients.
 
 ### Webviews and Affiliate Spam
 
-We donâ€™t allow apps whose primary purpose is to drive affiliate traffic to a website or provide a webview of a website without permission from the website owner or administrator.
+We don’t allow apps whose primary purpose is to drive affiliate traffic to a website or provide a webview of a website without permission from the website owner or administrator.
 
 **Here are some examples of common violations:**
 
 *   An app whose primary purpose is to drive referral traffic to a website to receive credit for user sign-ups or purchases on that website.
 *   Apps whose primary purpose is to provide a webview of a website without permission:  
     ![](//lh3.googleusercontent.com/AZr3T8GiGN_g2AS76qWQ622zQNReHU4GKoKjbhrZGWNazx15FhZTOEomNI9z2o2pEps=h550)  
-    This app is called â€œTedâ€™s Shopping Dealsâ€� and it simply provides a webview of Google Shopping.
+    This app is called “Ted’s Shopping Deals” and it simply provides a webview of Google Shopping.
 
  
 
@@ -1269,12 +1269,12 @@ Ensure your app provides a stable, engaging, responsive user experience.
 
 ### Broken Functionality
 
-We donâ€™t allow apps that crash, force close, freeze, or otherwise function abnormally.
+We don’t allow apps that crash, force close, freeze, or otherwise function abnormally.
 
 **Here are some examples of common violations:**
 
-*   Apps that **donâ€™t install**
-*   Apps that install, but **donâ€™t load**
+*   Apps that **don’t install**
+*   Apps that install, but **don’t load**
 *   Apps that load, but are **not responsive**
 
 Other Programs
@@ -1295,7 +1295,7 @@ For instant apps that include login functionality, developers must integrate [Sm
 
 ### Link Support
 
-Android Instant Apps developers are required to properly support links for other apps. If the developerâ€™s instant app or installed app contains links that have the potential to resolve to an instant app, the developer must send users to that instant app, rather than, for example, capturing the links in a [WebView.](https://developer.android.com/reference/android/webkit/WebView.html)
+Android Instant Apps developers are required to properly support links for other apps. If the developer’s instant app or installed app contains links that have the potential to resolve to an instant app, the developer must send users to that instant app, rather than, for example, capturing the links in a [WebView.](https://developer.android.com/reference/android/webkit/WebView.html)
 
 ### Technical Specifications
 
@@ -1313,7 +1313,7 @@ Additional instant app details and UX guidelines can be found in the [Best Pract
 
 ### Changing Device State
 
-Instant apps must not make changes to the userâ€™s device that persist longer than the instant app session. For example, instant apps may not change the userâ€™s wallpaper or create a homescreen widget.
+Instant apps must not make changes to the user’s device that persist longer than the instant app session. For example, instant apps may not change the user’s wallpaper or create a homescreen widget.
 
 ### App Visibility
 
@@ -1401,8 +1401,8 @@ If one of the target audiences for your app is children, you must comply with th
 *   Apps that include real or simulated gambling.
 *   Apps that include violence, gore, or shocking content not appropriate for children.
 *   Apps that provide dating services or offer sexual or marital advice.
-*   Apps that contain links to websites that present content that violates Google Playâ€™s [Developer Program policies](https://play.google.com/about/developer-content-policy/).
-*   Apps that show mature ads (e.g. violent content, sexual content, gambling content) to children. Please see the [Families Ads and Monetization policies](https://support.google.com/googleplay/android-developer/answer/9900633) for more information on Google Playâ€™s policies on advertising, in-app purchase, and commercial content for children. 
+*   Apps that contain links to websites that present content that violates Google Play’s [Developer Program policies](https://play.google.com/about/developer-content-policy/).
+*   Apps that show mature ads (e.g. violent content, sexual content, gambling content) to children. Please see the [Families Ads and Monetization policies](https://support.google.com/googleplay/android-developer/answer/9900633) for more information on Google Play’s policies on advertising, in-app purchase, and commercial content for children. 
 
 ### Designed for Families Program
 
@@ -1511,7 +1511,7 @@ Google Play will re-authenticate all users prior to any in-app purchases in apps
 Enforcement
 ===========
 
-Avoiding a policy violation is always better than managing one, but when violations do occur, weâ€™re committed to ensuring developers understand how they can bring their app into compliance. Please let us know if you [see any violations](https://support.google.com/googleplay/android-developer/answer/1085703) or have any questions about [managing a violation](https://support.google.com/googleplay/android-developer/topic/3453554).
+Avoiding a policy violation is always better than managing one, but when violations do occur, we’re committed to ensuring developers understand how they can bring their app into compliance. Please let us know if you [see any violations](https://support.google.com/googleplay/android-developer/answer/1085703) or have any questions about [managing a violation](https://support.google.com/googleplay/android-developer/topic/3453554).
 
 Policy Coverage
 ---------------
@@ -1547,12 +1547,12 @@ You can choose to disable some of these protections in your device settings. But
 
 ### How Privacy alerts work
 
-Google Play Protect will alert you if an app is removed from the Google Play Store because the app may access your personal information and youâ€™ll have an option to uninstall the app. 
+Google Play Protect will alert you if an app is removed from the Google Play Store because the app may access your personal information and you’ll have an option to uninstall the app. 
 
 Enforcement Process
 -------------------
 
-If your app violates any of our policies, weâ€™ll take appropriate action as outlined below.  In addition, weâ€™ll provide you with relevant information about the action weâ€™ve taken via email along with instructions on how to appeal if you believe weâ€™ve taken action in error. 
+If your app violates any of our policies, we’ll take appropriate action as outlined below.  In addition, we’ll provide you with relevant information about the action we’ve taken via email along with instructions on how to appeal if you believe we’ve taken action in error. 
 
 Please note that removal or administrative notices may not indicate each and every policy violation present in your app or broader app catalog. Developers are responsible for addressing any policy issue and conducting extra due diligence to ensure that the remainder of their app is fully policy compliant. Failure to address policy violations in all of your apps may result in additional enforcement actions.
 
@@ -1567,26 +1567,26 @@ Different enforcement actions can impact your app in different ways.  The follo
 
 *   A new app or app update submitted for review will not be made available on Google Play. 
 *   If an update to an existing app was rejected, the app version published prior to the update will remain available on Google Play.
-*   Rejections donâ€™t impact your access to a rejected appâ€™s existing user installs, statistics, and ratings. 
-*   Rejections donâ€™t impact the standing of your Google Play Developer account.
+*   Rejections don’t impact your access to a rejected app’s existing user installs, statistics, and ratings. 
+*   Rejections don’t impact the standing of your Google Play Developer account.
 
-Note: Do not attempt to resubmit a rejected app until youâ€™ve fixed all the policy violations.
+Note: Do not attempt to resubmit a rejected app until you’ve fixed all the policy violations.
 
 ### Removal
 
 *   The app, along with any previous versions of that app, are removed from Google Play and will no longer be available for users to download.
-*   Because the app is removed, users will not be able to see  the appâ€™s Store listing, user installs, statistics, and ratings. This information will be restored once you submit a policy-compliant update for the removed app.
+*   Because the app is removed, users will not be able to see  the app’s Store listing, user installs, statistics, and ratings. This information will be restored once you submit a policy-compliant update for the removed app.
 *   Users may not be able to make any in-app purchases, or utilize any in-app billing features in the app until a policy-compliant version is approved by Google Play.
-*   Removals donâ€™t immediately impact the standing of your Google Play Developer account, but multiple removals may result in a suspension.
+*   Removals don’t immediately impact the standing of your Google Play Developer account, but multiple removals may result in a suspension.
 
-Note: Don't attempt to republish a removed app until youâ€™ve fixed all policy violation.
+Note: Don't attempt to republish a removed app until you’ve fixed all policy violation.
 
 ### Suspension
 
 *   The app, along with any previous versions of that app, are removed from Google Play and will no longer be available for users to download. 
 *   Suspension can occur as the result of egregious or multiple policy violations, as well as repeated app rejections or removals.
-*   Because the app is suspended, users will not be able to see the appâ€™s Store listing, existing user installs, statistics, and ratings.  This information will be restored once you submit a policy-compliant update for the removed app.
-*   You can no longer use a suspended appâ€™s APK or app bundle. 
+*   Because the app is suspended, users will not be able to see the app’s Store listing, existing user installs, statistics, and ratings.  This information will be restored once you submit a policy-compliant update for the removed app.
+*   You can no longer use a suspended app’s APK or app bundle. 
 *   Users will not be able to make any in-app purchases, or utilize any in-app billing features in the app until a policy-compliant version is approved by Google Play.
 *   Suspensions count as strikes against the good standing of your Google Play Developer account.  Multiple strikes can result in the termination of individual and related Google Play Developer accounts. 
 
@@ -1594,15 +1594,15 @@ Note: Don't attempt to republish a suspended app unless Google Play has explaine
 
 ### Limited Visibility
 
-*   Your appâ€™s discoverability on Google Play is restricted. Your app will remain available on Google Play and  can be accessed by users with a direct link to the appâ€™s Play store listing. 
-*   Having your app placed in a Limited Visibility state doesnâ€™t impact the standing of your Google Play Developer account. 
-*   Having your app placed in a Limited Visibility state doesnâ€™t impact usersâ€™ ability to see the appâ€™s existing Store listing, user installs, statistics, and ratings. 
+*   Your app’s discoverability on Google Play is restricted. Your app will remain available on Google Play and  can be accessed by users with a direct link to the app’s Play store listing. 
+*   Having your app placed in a Limited Visibility state doesn’t impact the standing of your Google Play Developer account. 
+*   Having your app placed in a Limited Visibility state doesn’t impact users’ ability to see the app’s existing Store listing, user installs, statistics, and ratings. 
 
 ### Account Termination
 
 *   When your developer account is terminated, all apps in your catalog will be removed from Google Play and you will no longer be able to publish new apps. This also means that any related Google Play developer accounts will also be permanently suspended. 
 *   Multiple suspensions or suspensions for egregious policy violations may also result in the termination of your Play Console account.
-*   Because the apps within the terminated account are removed, users will not be able to see the appsâ€™ Store listing, existing user installs, statistics, and ratings.
+*   Because the apps within the terminated account are removed, users will not be able to see the apps’ Store listing, existing user installs, statistics, and ratings.
 
 Note: Any new account that you try to open will be terminated as well (without a refund of the developer registration fee), so please do not attempt to register for a new Play Console account while one of your other accounts are terminated. 
 
@@ -1613,7 +1613,7 @@ Managing and Reporting Policy Violations
 
 ### Appealing an Enforcement Action
 
-We will reinstate applications if an error was made, and we find that your application does not violate the Google Play Program Policies and Developer Distribution Agreement. If youâ€™ve reviewed the policies carefully and feel that our decision may have been in error, please follow the instructions provided to you in the enforcement email notification to appeal our decision. 
+We will reinstate applications if an error was made, and we find that your application does not violate the Google Play Program Policies and Developer Distribution Agreement. If you’ve reviewed the policies carefully and feel that our decision may have been in error, please follow the instructions provided to you in the enforcement email notification to appeal our decision. 
 
 ### Additional Resources
 
