@@ -101,6 +101,13 @@ We do not allow content that:
     
 *   is about politics, social issues, or matters of public concern directed at users in a country other than your own, if you misrepresent or conceal your country of origin or other material details about yourself.
 
+#### Coordinated Deceptive Practices 
+
+We do not allow: 
+
+*   Coordinating with other sites or accounts and concealing or misrepresenting your identity or other material details about yourself, where your content relates to politics, social issues or matters of public concern.
+*   Directing content about politics, social issues, or matters of public concern to users in a country other than your own, if you misrepresent or conceal your country of origin or other material details about yourself.
+
 Malicious or unwanted software
 ------------------------------
 
