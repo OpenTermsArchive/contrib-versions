@@ -3,12 +3,10 @@
 
 (Terms and Conditions applicable to Events/Activities last updated on 25/04/2018)
 
-**Â** 
-
 **Preamble**
 ------------
 
-These Terms and Conditions shall apply to free and paid Events, also referred to as Activities, organised by Match.com International Limited (hereinafter â€œ**Match**â€�) and available on the Websites for any person who is a Member or Subscriber.
+These Terms and Conditions shall apply to free and paid Events, also referred to as Activities, organised by Match.com International Limited (hereinafter “**Match**”) and available on the Websites for any person who is a Member or Subscriber.
 
 By registering and participating in Events or Activities, the Participant fully accepts these Terms and Conditions.
 
@@ -17,31 +15,31 @@ By registering and participating in Events or Activities, the Participant fully 
 
 Words or phrases commencing with a capital letter shall have the following meaning:
 
-â€œ**Account**â€� refers to the strictly personal interface accessible by and allowing Members or Subscribers to log in to the Websites in order to benefit from the Services they have registered or subscribed to, complete or modify their profile and, if needed, renew or modify their Subscription.
+“**Account**” refers to the strictly personal interface accessible by and allowing Members or Subscribers to log in to the Websites in order to benefit from the Services they have registered or subscribed to, complete or modify their profile and, if needed, renew or modify their Subscription.
 
-â€œ**Core Dating Websites**â€� refers to the Websites accessible to all Members and Subscribers.
+“**Core Dating Websites**” refers to the Websites accessible to all Members and Subscribers.
 
-â€œ**Event**â€� or **â€œActivityâ€�** both refer to, depending on the Website delivering the Service, any free or paid event allowing Members and Subscribers and, if applicable, their Guests to meet in person.
+“**Event**” or **“Activity”** both refer to, depending on the Website delivering the Service, any free or paid event allowing Members and Subscribers and, if applicable, their Guests to meet in person.
 
-â€œ**Events Page**â€� refers to a page on the Websites dedicated to a specific Event or Activity, containing a description of the Event or Activity and allowing people to register for it.
+“**Events Page**” refers to a page on the Websites dedicated to a specific Event or Activity, containing a description of the Event or Activity and allowing people to register for it.
 
-**â€œGuestâ€�** refers to any user who, without being a Member or Subscriber, may participate in Events or Activities following invitation from a Member or Subscriber.
+**“Guest”** refers to any user who, without being a Member or Subscriber, may participate in Events or Activities following invitation from a Member or Subscriber.
 
-**â€œMeetic Groupâ€�** means the companies controlled by Match.com Europe Limited.
+**“Meetic Group”** means the companies controlled by Match.com Europe Limited.
 
-**â€œMemberâ€�**Â refers to a user enjoying access to one of the Services following registration on the Websites for free.
+**“Member”** refers to a user enjoying access to one of the Services following registration on the Websites for free.
 
-â€œ**Participant**â€� refers to a Member, Subscriber or Guest registered to participate in an Event or Activity.
+“**Participant**” refers to a Member, Subscriber or Guest registered to participate in an Event or Activity.
 
-â€œ**Services**â€� refers to all services, paid or free, accessible to Match Members and Subscribers provided on the Websites of the Meetic Group.
+“**Services**” refers to all services, paid or free, accessible to Match Members and Subscribers provided on the Websites of the Meetic Group.
 
-â€œ**Specialised Websites**â€� refers to Websites dedicated to specific categories of Members or Subscribers.
+“**Specialised Websites**” refers to Websites dedicated to specific categories of Members or Subscribers.
 
-â€œ**Subscriber**â€� refers to a user of one or more Services who has validly purchased a Subscription to one or more Services.
+“**Subscriber**” refers to a user of one or more Services who has validly purchased a Subscription to one or more Services.
 
-â€œ**Subscription**â€� refers to a paid package giving access to paid Services for a limited time, specified in the subscription purchased by a Member.
+“**Subscription**” refers to a paid package giving access to paid Services for a limited time, specified in the subscription purchased by a Member.
 
-**â€œWebsiteâ€�** refers to any Match website, namely the Match website, the Core Dating Websites and Specialised Websites, as well as the Match mobile applications, through which the Services, including an Events Page, are provided.
+**“Website”** refers to any Match website, namely the Match website, the Core Dating Websites and Specialised Websites, as well as the Match mobile applications, through which the Services, including an Events Page, are provided.
 
 **Article 2 – Event registration**
 ----------------------------------
@@ -52,7 +50,7 @@ Only persons over 18, Members or Subscribers of the relevant Services, may regis
 
 Any Member or Subscriber who wishes to register for an Event must first log in on the Website with the Events Page using his/her email address and confidential password.
 
-Except in the event of e wrongdoing exclusively attributable to Match or technical failure of the Services, the Member or Subscriber will be responsible for the use of his/her confidential username and password or other identifiers by third parties or actions or statements made through the Memberâ€™s personal account, whether fraudulent or not, and will indemnify and hold Match harmless against any claims in this respect. Furthermore, Match is not required and does not have the technical means to verify the identity of persons registering for its Services. If the Member or Subscriber has reason to believe that a person is using his/her username and password or account, that Member must immediately inform Match using the contact details provided in article 14 below.
+Except in the event of e wrongdoing exclusively attributable to Match or technical failure of the Services, the Member or Subscriber will be responsible for the use of his/her confidential username and password or other identifiers by third parties or actions or statements made through the Member’s personal account, whether fraudulent or not, and will indemnify and hold Match harmless against any claims in this respect. Furthermore, Match is not required and does not have the technical means to verify the identity of persons registering for its Services. If the Member or Subscriber has reason to believe that a person is using his/her username and password or account, that Member must immediately inform Match using the contact details provided in article 14 below.
 
 ### **2.2 How to register**
 
@@ -72,9 +70,9 @@ Each Member or Subscriber may invite a maximum of three Guests to the Event for 
 
 Only the Member or Subscriber enters into a contract with Match. He/she must pay for participation of the Guests he/she has invited to the Event in accordance with the conditions and price applicable for the relevant Event.
 
-When a Member or a Subscriber provides the Guestâ€™s contact information to Match, including his/her surname, first name and email address, he/she undertakes to have previously obtained the express consent of the latter for this data to be processed by Match in accordance with the conditions described in article 12 below, and provides them under his/her sole responsibility.
+When a Member or a Subscriber provides the Guest’s contact information to Match, including his/her surname, first name and email address, he/she undertakes to have previously obtained the express consent of the latter for this data to be processed by Match in accordance with the conditions described in article 12 below, and provides them under his/her sole responsibility.
 
-The Guestâ€™s information will only be used to send him/her an email informing him/her of the Event and the applicable conditions on behalf of the Member or Subscriber who provided their contact details to Match.
+The Guest’s information will only be used to send him/her an email informing him/her of the Event and the applicable conditions on behalf of the Member or Subscriber who provided their contact details to Match.
 
 ### **2.4 Minimum number of Participants**
 
@@ -82,8 +80,8 @@ The holding of the Event may be subject to a minimum or maximum number of Partic
 
 If the minimum number of Participants for a specific Event is not reached, Match reserves the right to cancel the Event and reimburse the Members and Subscribers in accordance with article 5 of these Terms and Conditions.
 
-**Article 3 â€“ Price and payment**
------------------------------------
+**Article 3 – Price and payment**
+---------------------------------
 
 Unless displayed on the Events Page in local currency, paid Events prices are displayed in British pounds sterling and all taxes included.
 
@@ -120,7 +118,7 @@ If Match is forced to cancel an Event, it shall inform the Participant of this b
 **Article 6 – Conditions for access and participation in Events**
 -----------------------------------------------------------------
 
-### **6.1 Conditions for access****Â** 
+### **6.1 Conditions for access** 
 
 Once registered for an Event, the Member or Subscriber and any Guest shall enjoy strictly personal access to this Event, provided they have met the conditions for registration and, if applicable, paid for the relevant Event.
 
@@ -148,7 +146,7 @@ We hope that every Event is a good experience for everyone. Consequently, all Me
 *   Have appropriate and constructive conversations
 *   Follow the instructions of the Event host
 *   Report any inappropriate behaviour to the Event host
-*   Respect othersâ€™ opinions and decisions
+*   Respect others’ opinions and decisions
 *   Think of your safety and that of others during the Event
 *   Drink responsibly and respect your limits
 *   Do not be rude, lewd or offensive
@@ -182,8 +180,8 @@ These Terms and Conditions are not applicable to travel services announced in th
 
 These services will be subject to a contract concluded directly between a Member or Subscriber and the trip organiser. Please refer directly to the terms and conditions of sale of the relevant service provider.
 
-**Article 11 – Complaints****Â** 
----------------------------------
+**Article 11 – Complaints** 
+----------------------------
 
 The Participant should contact Match with any complaints as soon as possible and at least thirty (30) days from the date of the Event by any means allowing for acknowledgement of receipt using the contact details provided in article 14 below.
 
@@ -192,14 +190,14 @@ The Participant should contact Match with any complaints as soon as possible and
 
 The information communicated by Participants during their registration and their participation in an Event allows Match, and if needed their partners, to offer and run Events.
 
-Participantsâ€™ personal data is processed in compliance with the [Match privacy policy](http://uk.match.com/pages/misc/privacy) available on the Website where the Services are purchased.
+Participants’ personal data is processed in compliance with the [Match privacy policy](http://uk.match.com/pages/misc/privacy) available on the Website where the Services are purchased.
 
 **Article 13 – Applicable law – Litigation**
 --------------------------------------------
 
-These Terms and Conditions are governed, interpreted and applied in accordance with the laws of England and Wales, subject to the statutory rules of the Member or Subscriberâ€™s country of residence.
+These Terms and Conditions are governed, interpreted and applied in accordance with the laws of England and Wales, subject to the statutory rules of the Member or Subscriber’s country of residence.
 
-In the event of a dispute, if an amicable agreement cannot be reached, the competent authorities will be the courts of the consumerâ€™s place of residence located in one of the member states of the European Economic Area or in Switzerland.
+In the event of a dispute, if an amicable agreement cannot be reached, the competent authorities will be the courts of the consumer’s place of residence located in one of the member states of the European Economic Area or in Switzerland.
 
 **Article 14. – Who are we?**
 -----------------------------
