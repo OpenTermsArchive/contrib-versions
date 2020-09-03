@@ -3,7 +3,7 @@ Google Ads policies
 
 Welcome to the Google Advertising Policies Center.
 
-We want to support a healthy digital advertising ecosystem—one that is trustworthy and transparent, and works for users, advertisers, and publishers. The purpose of this website is to help you build Google Ads campaigns that align with our advertising policies listed below. These policies are designed not only to abide by laws but to ensure a safe and positive experience for our users. This means that our policies prohibit some content that we believe to be harmful to users and the overall advertising ecosystem.
+We want to support a healthy digital advertising ecosystemâ€”one that is trustworthy and transparent, and works for users, advertisers, and publishers. The purpose of this website is to help you build Google Ads campaigns that align with our advertising policies listed below. These policies are designed not only to abide by laws but to ensure a safe and positive experience for our users. This means that our policies prohibit some content that we believe to be harmful to users and the overall advertising ecosystem.
 
 We use a combination of automated and human evaluation to ensure Google Ads comply with these policies. However, if you observe any ads that may violate our policies, please report those ads [here](https://support.google.com/google-ads/contact/vio_other_aw_policy).
 
@@ -41,7 +41,7 @@ Prohibited content
 
 ### [Inappropriate content](https://support.google.com/adspolicy/answer/6015406)
 
-> We value diversity and respect for others, and we strive to avoid offending users, so we don’t allow ads or destinations that display shocking content or promote hatred, intolerance, discrimination, or violence.
+> We value diversity and respect for others, and we strive to avoid offending users, so we donâ€™t allow ads or destinations that display shocking content or promote hatred, intolerance, discrimination, or violence.
 > 
 > _Examples of inappropriate or offensive content:_ bullying or intimidation of an individual or group, racial discrimination, hate group paraphernalia, graphic crime scene or accident images, cruelty to animals, murder, self-harm, extortion or blackmail, sale or trade of endangered species, ads using profane language
 
@@ -52,7 +52,7 @@ Prohibited practices
 
 ### [Abusing the ad network](https://support.google.com/adspolicy/answer/6020954)
 
-> We want ads across the Google Network to be useful, varied, relevant, and safe for users. We don’t allow advertisers to run ads, content, or destinations that attempt to trick or circumvent our ad review processes.
+> We want ads across the Google Network to be useful, varied, relevant, and safe for users. We donâ€™t allow advertisers to run ads, content, or destinations that attempt to trick or circumvent our ad review processes.
 > 
 > _Examples of abuse of the ad network:_ promoting content that contains malware; "cloaking" or using other techniques to hide the true destination that users are directed to; "arbitrage" or promoting destinations for the sole or primary purpose of showing ads; promoting "bridge" or "gateway" destinations that are solely designed to send users elsewhere; advertising with the sole or primary intent of gaining public social network endorsements from the user; "gaming" or manipulating settings in an attempt to circumvent our policy review systems
 
@@ -68,7 +68,7 @@ Prohibited practices
 
 ### [Misrepresentation](https://support.google.com/adspolicy/answer/6020955)
 
-> We want users to trust the ads on our platform, so we strive to ensure ads are clear and honest, and provide the information that users need to make informed decisions. We don’t allow ads or destinations that deceive users by excluding relevant product information or providing misleading information about products, services, or businesses.
+> We want users to trust the ads on our platform, so we strive to ensure ads are clear and honest, and provide the information that users need to make informed decisions. We donâ€™t allow ads or destinations that deceive users by excluding relevant product information or providing misleading information about products, services, or businesses.
 > 
 > _Examples of misrepresentation:_ omitting or obscuring billing details such as how, what, and when users will be charged; omitting or obscuring charges associated with financial services such as interest rates, fees, and penalties; failing to display tax or licence numbers, contact information, or physical address where relevant; making offers that aren't actually available; making misleading or unrealistic claims regarding weight loss or financial gain; collecting donations under false pretenses; "phishing" or falsely purporting to be a reputable company in order to get users to part with valuable personal or financial information
 
@@ -83,7 +83,7 @@ For that reason, we allow the promotion of the content below, but on a limited b
 
 ### [Adult content](https://support.google.com/adspolicy/answer/6023699)
 
-> Ads should respect user preferences and comply with legal regulations, so we don’t allow certain kinds of adult content in ads and destinations. Some kinds of adult-oriented ads and destinations are allowed if they comply with the policies below and don’t target minors, but they will only show in limited scenarios based on user search queries, user age, and local laws where the ad is being served.
+> Ads should respect user preferences and comply with legal regulations, so we donâ€™t allow certain kinds of adult content in ads and destinations. Some kinds of adult-oriented ads and destinations are allowed if they comply with the policies below and donâ€™t target minors, but they will only show in limited scenarios based on user search queries, user age, and local laws where the ad is being served.
 > 
 > Learn about [what happens if you violate our policies](https://support.google.com/adwordspolicy/answer/7187501).
 > 
@@ -91,27 +91,27 @@ For that reason, we allow the promotion of the content below, but on a limited b
 
 ### [Alcohol](https://support.google.com/adspolicy/answer/6012382)
 
-> We abide by local alcohol laws and industry standards, so we don’t allow certain kinds of alcohol-related advertising, both for alcohol and drinks that resemble alcohol. Some types of alcohol-related ads are allowed if they meet the policies below, don’t target minors, and target only countries that are explicitly allowed to show alcohol ads.
+> We abide by local alcohol laws and industry standards, so we donâ€™t allow certain kinds of alcohol-related advertising, both for alcohol and drinks that resemble alcohol. Some types of alcohol-related ads are allowed if they meet the policies below, donâ€™t target minors, and target only countries that are explicitly allowed to show alcohol ads.
 > 
 > _Examples of restricted alcoholic beverages:_ beer, wine, sake, spirits or hard alcohol, Champagne, fortified wine, non-alcoholic beer, non-alcoholic wine, and non-alcoholic distilled spirits
 
 ### [Copyrights](https://support.google.com/adspolicy/answer/6018015)
 
-> We abide by local copyright laws and protect the rights of copyright holders, so we don’t allow ads that are unauthorized to use copyrighted content. If you are legally authorized to use copyrighted content, [apply for certification](https://support.google.com/google-ads/contact/copyright) to advertise. If you see unauthorized content, [submit a copyright-related complaint](https://support.google.com/legal/troubleshooter/1114905).
+> We abide by local copyright laws and protect the rights of copyright holders, so we donâ€™t allow ads that are unauthorized to use copyrighted content. If you are legally authorized to use copyrighted content, [apply for certification](https://support.google.com/google-ads/contact/copyright) to advertise. If you see unauthorized content, [submit a copyright-related complaint](https://support.google.com/legal/troubleshooter/1114905).
 
 ### [Gambling and games](https://support.google.com/adspolicy/answer/6018017)
 
-> We support responsible gambling advertising and abide by local gambling laws and industry standards, so we don’t allow certain kinds of gambling-related advertising. Gambling-related ads are allowed if they comply with the policies below and the advertiser has received the proper Google Ads certification. Gambling ads must target approved countries, have a landing page that displays information about responsible gambling, and never target minors. Check local regulations for the areas you want to target.
+> We support responsible gambling advertising and abide by local gambling laws and industry standards, so we donâ€™t allow certain kinds of gambling-related advertising. Gambling-related ads are allowed if they comply with the policies below and the advertiser has received the proper Google Ads certification. Gambling ads must target approved countries, have a landing page that displays information about responsible gambling, and never target minors. Check local regulations for the areas you want to target.
 > 
 > _Examples of restricted gambling-related content:_ physical casinos; sites where users can bet on poker, bingo, roulette, or sports events; national or private lotteries; sports odds aggregator sites; sites offering bonus codes or promotional offers for gambling sites; online educational materials for casino-based games; sites offering "poker-for-fun" games; non-casino-based cash game sites
 
 ### [Healthcare and medicines](https://support.google.com/adspolicy/answer/176031)
 
-> We are dedicated to following advertising regulations for healthcare and medicine, so we expect that ads and destinations follow appropriate laws and industry standards. Some healthcare-related content can’t be advertised at all, while others can only be advertised if the advertiser is certified with Google and targets only approved countries. Check local regulations for the areas you want to target.
+> We are dedicated to following advertising regulations for healthcare and medicine, so we expect that ads and destinations follow appropriate laws and industry standards. Some healthcare-related content canâ€™t be advertised at all, while others can only be advertised if the advertiser is certified with Google and targets only approved countries. Check local regulations for the areas you want to target.
 
 ### [Political content](https://support.google.com/adspolicy/answer/6014595)
 
-> We support responsible political advertising and expect all political ads and destinations to comply with local campaign and election laws for any areas they target. This policy includes legally mandated election “silence periods.”  
+> We support responsible political advertising and expect all political ads and destinations to comply with local campaign and election laws for any areas they target. This policy includes legally mandated election â€œsilence periods.â€�  
 > 
 > _Examples of political content:_ promotion of political parties or candidates, political issue advocacy
 
@@ -119,7 +119,7 @@ For that reason, we allow the promotion of the content below, but on a limited b
 
 > We want users to have adequate information to make informed financial decisions. Our policies are designed to give users information to weigh the costs associated with financial products and services, and to protect users from harmful or deceitful practices. For the purposes of this policy, we consider financial products and services to be those related to the management or investment of money and cryptocurrencies, including personalized advice.
 > 
-> When promoting financial products and services, you must comply with state and local regulations for any region or country that your ads target — for example, include specific disclosures required by local law. Refer to our non-exhaustive list of [country-specific requirements](https://support.google.com/adspolicy/answer/6023676) for more information but note that advertisers are expected to do their own research on the local regulations for any location their ads target.
+> When promoting financial products and services, you must comply with state and local regulations for any region or country that your ads target â€” for example, include specific disclosures required by local law. Refer to our non-exhaustive list of [country-specific requirements](https://support.google.com/adspolicy/answer/6023676) for more information but note that advertisers are expected to do their own research on the local regulations for any location their ads target.
 
 ### [Trademarks](https://support.google.com/adspolicy/answer/6118)
 
@@ -127,7 +127,7 @@ For that reason, we allow the promotion of the content below, but on a limited b
 
 ### [Legal requirements](https://support.google.com/adspolicy/answer/6023676)
 
-> You’re always responsible for ensuring that you comply with all applicable laws and regulations, in addition to Google's advertising policies, for all of the locations where your ads are showing.
+> Youâ€™re always responsible for ensuring that you comply with all applicable laws and regulations, in addition to Google's advertising policies, for all of the locations where your ads are showing.
 
 ### [Other restricted businesses](https://support.google.com/adspolicy/answer/6368711)
 
@@ -153,7 +153,7 @@ We want to deliver ads that are engaging for users without being annoying or dif
 > _Examples of promotions that don't meet these editorial and professional requirements:_
 > 
 > > *   overly generic ads that contain vague phrases such as "Buy products here"
-> > *   gimmicky use of words, numbers, letters, punctuation, or symbols such as FREE, f-r-e-e, and F₹€€!!
+> > *   gimmicky use of words, numbers, letters, punctuation, or symbols such as FREE, f-r-e-e, and Fâ‚¹â‚¬â‚¬!!
 
 ### [Destination requirements](https://support.google.com/adspolicy/answer/6368661)
 
