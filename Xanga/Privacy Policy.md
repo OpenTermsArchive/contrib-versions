@@ -7,10 +7,10 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   6 years ago
     *   in Data Migration
     *   0 votes
-    *   15 (last comment by backnblack08 11 hours ago)
+    *   15 (last comment by backnblack08 1 day ago)
 *   How do I retrieve my old entries?
     *   by mungbeanminh
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -61,7 +61,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Themes
     *   0 votes
-    *   4 (last comment by CityLightsShineForUs 3 weeks ago)
+    *   4 (last comment by CityLightsShineForUs 4 weeks ago)
 *   missing my blog
     *   by hsbj
     *   1 month ago
