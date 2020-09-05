@@ -31,15 +31,17 @@ We are a participant in the Amazon Services LLC Associates Program, an affiliate
 1.  **YOUR PRIVACY CHOICES. You have choices when it comes to the privacy practices described in this Privacy &. Cookie Policy, including your choices related to:**
     1.  Targeted Advertising. See Web Browser Controls and Third Party Advertising Controls
     2.  Website Analytics. See Web Browser Controls and Google Analytics Controls
-2.  **INFORMATION WE COLLECT AND MEANS OF COLLECTION. We collect information about you from a variety of sources, including from you directly providing it to us (e.g., when you open an account or contact us), from cookies and other tracking technologies that automatically collect information in the course of your use of the Services (skip to ** **Cookies and Other Trackers** **section) and from various third parties and public sources. You can use some of the Services without directly providing any information, but if you do not provide certain information or limit the operation of some cookies, you may not be able to use some of the Services we offer.**
+2.  **INFORMATION WE COLLECT AND MEANS OF COLLECTION. We collect information about you from a variety of sources, including from you directly providing it to us (e.g., when you open an account or contact us), from cookies and other tracking technologies that automatically collect information in the course of your use of the Services (skip to ** **Cookies and Other Trackers** **section) and from various third parties and public sources. You can use some of the Services without directly providing any information, but if you do not provide certain information or limit the operation of some cookies, you may not be able to use some of the Services we offer.  
+    **
+    
     1.  **Information you Provide directly to us.** Access to the general content on our Sites does not require you to provide us any personal (e.g., name, date of birth), contact (e.g., email address, phone number) and/or account (username and password) information. You may provide personal information to us, if you choose to:
 
-*   open an account or sign up for one of our newsletters;  
-    • purchase a subscription or sign up to receive any additional services like Dictionary.com Premium;  
-    • submit a help request, a customer services inquiry or other inquiry to us, or fill in any other forms for the purposes of receiving our Services;  
-    • participate in some of the features accessible via the Services (for example, message boards, chat groups, social networking, games, surveys, polls, promotions, contests, or sweepstakes);  
-    • contact us about employment opportunities posted on the Sites. or  
-    • otherwise use the Services in a manner that you have requested.
+*   open an account or sign up for one of our newsletters;
+*   purchase a subscription or sign up to receive any additional services like Dictionary.com Premium;
+*   submit a help request, a customer services inquiry or other inquiry to us, or fill in any other forms for the purposes of receiving our Services;
+*   participate in some of the features accessible via the Services (for example, message boards, chat groups, social networking, games, surveys, polls, promotions, contests, or sweepstakes);
+*   contact us about employment opportunities posted on the Sites. or
+*   otherwise use the Services in a manner that you have requested.
 
 Depending on which of these or any other Services you use, the personal information you provide may include your name, email address, user name, home address, telephone number, demographic information (age, gender, etc.), information posted by you on sites accessed via the Services and/or information provided by you in any help request or inquiry you make to us.
 
