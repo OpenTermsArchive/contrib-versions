@@ -191,7 +191,7 @@ Sharing Personal Information from Wix subsidiaries and affiliated companies in t
 
 4.6.
 
-Connection With a Change in Corporate Control:: In addition, should Wix or any of its affiliates undergo any change in control, including by means of merger, acquisition or purchase of substantially all of its assets, your Personal Information may be shared with the parties involved in such event.
+Connection With a Change in Corporate Control: In addition, should Wix or any of its affiliates undergo any change in control, including by means of merger, acquisition or purchase of substantially all of its assets, your Personal Information may be shared with the parties involved in such event.
 
 4.7.
 
@@ -201,7 +201,7 @@ Upon Your Further Direction: Wix may also share your Personal Information with t
 
  5. Where do we store your Personal Information?
 
-Users’ and Users-of-Users’ Personal Information may be stored in data centers located in the United States of America, Ireland, South Korea, Taiwan and Israel. We may use other jurisdictions as necessary for the proper delivery of our Services and/or as may be required by law (as further explained below).
+Users’ and Users-of-Users’ Personal Information may be stored in data centers located in the United States of America, Ireland, Japan and Israel. We may use other jurisdictions as necessary for the proper delivery of our Services and/or as may be required by law (as further explained below).
 
 ​
 
