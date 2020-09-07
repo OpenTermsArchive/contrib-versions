@@ -27,14 +27,14 @@
     *   Grandparents Day (Sep 13, 2020)
     *   Positive Thinking Day (Sep 13, 2020)
     *   Thank You Day (Sep 15, 2020)
-    *   Teachers' Day (India) (Sep 5, 2020)
+    *   Father's Day (Australia) (Sep 6, 2020)
     *   Honey Month (September 2020)
     *   Intl. Square Dance Month (September 2020)
-    *   Father's Day (Australia) (Sep 6, 2020)
     *   Labor Day (Canada) (Sep 7, 2020)
     *   Patriot Day (Sep 11, 2020)
     *   Video Games Day (Sep 12, 2020)
     *   Intl. Talk Like a Pirate Day (Sep 19, 2020)
+    *   Women's Friendship Day (Sep 20, 2020)
     *   See All Events
 *   Go
 
