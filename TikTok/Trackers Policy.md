@@ -129,13 +129,13 @@ We also deploy tracking technologies from the following third parties for the fo
 
 *   Purpose: Track ad conversions from Facebook ads, optimise our ads, build targeted audiences for future ads, and remarket to people who have already taken some kind of action on our Websites. 
 
-*   Duration: 12 months
+*   Duration: 24 months
 
 *   LinkedIn Insight Tag ([https://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy))
 
 *   Purpose: Track ad conversions from LinkedIn ads, optimise our ads, build targeted audiences for future ads, and remarket to people who have already taken some kind of action on our Websites. 
 
-*   Duration: 180 days
+*   Duration: 24 months
 
 **3\. How to accept or refuse cookies**
 ---------------------------------------
