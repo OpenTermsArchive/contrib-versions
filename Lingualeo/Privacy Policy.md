@@ -1,11 +1,11 @@
-Privacy Policy [ykaneva](https://corp.lingualeo.com/author/ykaneva/ "Posts by ykaneva") 2018-02-07T08:58:38+00:00
+Privacy Policy [ykaneva](https://lingualeo.com/blog/author/ykaneva/ "Posts by ykaneva") 2018-02-07T08:58:38+00:00
 
 Privacy Policy
 ==============
 
 _Last updated on November 14, 2017_
 
-This Privacy Policy uses terms in the same way they are defined in the End-user License Agreement [corp.lingualeo.com/terms-of-use-en](https://corp.lingualeo.com/terms-of-use-en/)
+This Privacy Policy uses terms in the same way they are defined in the End-user License Agreement [lingualeo.com/blog/terms-of-use-en](https://lingualeo.com/blog/terms-of-use-en/)
 
 1\. The Privacy Provision (hereinafter referred to as “Provision”) outlines the procedure for the collection, processing, and storage of personal data of Website users and any other use of personal data.
 
@@ -43,4 +43,4 @@ This Privacy Policy uses terms in the same way they are defined in the End-user 
 
 16\. Personal data will be automatically destroyed when the user deletes their personal account on the Website.
 
-17\. The Licensor reserves the right to make changes to this Provision. When changes are made, the date of the latest changes is indicated at the top of the latest edition. The new edition of the Provision is effective as soon as it is posted unless otherwise specified in the Provision. The current edition is always available at the following address: [corp.lingualeo.com/privacy-policy-en](https://corp.lingualeo.com/privacy-policy-en/)
+17\. The Licensor reserves the right to make changes to this Provision. When changes are made, the date of the latest changes is indicated at the top of the latest edition. The new edition of the Provision is effective as soon as it is posted unless otherwise specified in the Provision. The current edition is always available at the following address: [lingualeo.com/blog/privacy-policy-en](https://lingualeo.com/blog/privacy-policy-en/)
