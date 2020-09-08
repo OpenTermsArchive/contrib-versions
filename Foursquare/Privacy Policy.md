@@ -181,7 +181,7 @@ U.S. Segments Disclosure
 
 The NAI requires members to disclose standard interest segments based on health- and wellness-related interests and information, or based on political information or interests, that are used to deliver interest-based advertisements in the United States.
 
-Factual Inc. provides Enterprise Customers with such standard segments to deliver interest-based advertisements and for other purposes; our health segments are based on data that is not considered sensitive under the NAI Code of Conduct. For a list of our standard health and political segments, please [click here](https://www.factual.com/privacy/health-segments/).
+Foursquare Labs, Inc. and its affiliates provide Enterprise Customers with such standard segments to deliver interest-based advertisements and for other purposes; our health segments are based on data that is not considered sensitive under the NAI Code of Conduct. For a list of our standard health and political segments, please [click here](https://foursquare.com/privacy/segments).
 
 #### 11\. California Residents
 
