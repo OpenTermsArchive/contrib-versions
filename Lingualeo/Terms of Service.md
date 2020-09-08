@@ -1,4 +1,4 @@
-[lingua](https://corp.lingualeo.com/author/lingua/ "Posts by lingua") 2015-07-17T12:54:59+00:00
+[lingua](https://lingualeo.com/blog/author/lingua/ "Posts by lingua") 2015-07-17T12:54:59+00:00
 
 END USER LICENSE AGREEMENT
 ==========================
@@ -14,7 +14,7 @@ The End User hereby enters into a License Agreement with Lingualeo Inc. (hereina
 
 1.1.2. End User (You) means a natural person who has concluded this License Agreement (accepted the Public Offer) with the Licensor.
 
-1.1.3. License Agreement (Agreement) means the text of this document with any supplements, modifications, and amendments hereto published on the Website and available in Internet via the link: [http://corp.lingualeo.com/terms-of-use-en](http://corp.lingualeo.com/terms-of-use-en)
+1.1.3. License Agreement (Agreement) means the text of this document with any supplements, modifications, and amendments hereto published on the Website and available in Internet via the link: [http://lingualeo.com/blog/terms-of-use-en](http://lingualeo.com/blog/terms-of-use-en)
 
 1.1.4. License Agreement Conclusion (acceptance of Public Offer) means full and unconditional acceptance of this End User License Agreement by means of taking one of the following acts by the End User:
 
@@ -181,7 +181,7 @@ b) Until termination of the Agreement.
 
 1.1. This document determines the Website use conditions and limitations.
 
-1.2. These Rules are an essential part of the License Agreement (Public Offer) (hereinafter referred to as “the Agreement”) published in Internet at the address: [http://corp.lingualeo.com/terms-of-use-en](http://corp.lingualeo.com/terms-of-use-en)
+1.2. These Rules are an essential part of the License Agreement (Public Offer) (hereinafter referred to as “the Agreement”) published in Internet at the address: [http://lingualeo.com/blog/terms-of-use-en](http://lingualeo.com/blog/terms-of-use-en)
 
 1.3. Terms and definitions used in these Rules are used in the meaning determined under the text of the Agreement.
 
