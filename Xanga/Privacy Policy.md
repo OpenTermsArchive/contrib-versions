@@ -13,7 +13,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   6 years ago
     *   in Data Migration
     *   0 votes
-    *   15 (last comment by backnblack08 4 days ago)
+    *   15 (last comment by backnblack08 5 days ago)
 *   How do I retrieve my old entries?
     *   by mungbeanminh
     *   1 week ago
@@ -37,19 +37,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Pictures
     *   0 votes
-    *   1 (last comment by speedrahman 2 weeks ago)
+    *   1 (last comment by speedrahman 3 weeks ago)
 *   Can I get my blog back?
     *   by sum\_0912
     *   4 years ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by speedrahman 2 weeks ago)
+    *   3 (last comment by speedrahman 3 weeks ago)
 *   My profile photo is too small.
     *   \[Resolved\] by sfiawong
     *   5 years ago
     *   in Avatars
     *   0 votes
-    *   2 (last comment by speedrahman 2 weeks ago)
+    *   2 (last comment by speedrahman 3 weeks ago)
 *   Missing anything
     *   by yuenyuen0225
     *   4 weeks ago
@@ -82,7 +82,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Old Xanga archived?
     *   by yourmomisreallyfreakinhott
-    *   2 months ago
+    *   3 months ago
     *   in Data Migration
     *   0 votes
     *   5 (last comment by HrsCrazy425 1 month ago)
