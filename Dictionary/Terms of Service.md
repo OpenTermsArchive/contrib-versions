@@ -28,11 +28,12 @@ We are a participant in the Amazon Services LLC Associates Program, an affiliate
 
 **IF YOU ARE NOT AT LEAST 16 YEARS OLD, DO NOT USE THE SERVICES.**
 
-1.  **YOUR PRIVACY CHOICES. You have choices when it comes to the privacy practices described in this Privacy &. Cookie Policy, including your choices related to:**
+1.  **YOUR PRIVACY CHOICES. You have choices when it comes to the privacy practices described in this Privacy &. Cookie Policy, including your choices related to:  
+    **
+    
     1.  Targeted Advertising. See Web Browser Controls and Third Party Advertising Controls
     2.  Website Analytics. See Web Browser Controls and Google Analytics Controls
-2.  **INFORMATION WE COLLECT AND MEANS OF COLLECTION. We collect information about you from a variety of sources, including from you directly providing it to us (e.g., when you open an account or contact us), from cookies and other tracking technologies that automatically collect information in the course of your use of the Services (skip to ** **Cookies and Other Trackers** **section) and from various third parties and public sources. You can use some of the Services without directly providing any information, but if you do not provide certain information or limit the operation of some cookies, you may not be able to use some of the Services we offer.  
-    **
+2.  **INFORMATION WE COLLECT AND MEANS OF COLLECTION. We collect information about you from a variety of sources, including from you directly providing it to us (e.g., when you open an account or contact us), from cookies and other tracking technologies that automatically collect information in the course of your use of the Services (skip to ** **Cookies and Other Trackers** **section) and from various third parties and public sources. You can use some of the Services without directly providing any information, but if you do not provide certain information or limit the operation of some cookies, you may not be able to use some of the Services we offer.**
     
     1.  **Information you Provide directly to us.** Access to the general content on our Sites does not require you to provide us any personal (e.g., name, date of birth), contact (e.g., email address, phone number) and/or account (username and password) information. You may provide personal information to us, if you choose to:
 
@@ -45,7 +46,7 @@ We are a participant in the Amazon Services LLC Associates Program, an affiliate
 
 Depending on which of these or any other Services you use, the personal information you provide may include your name, email address, user name, home address, telephone number, demographic information (age, gender, etc.), information posted by you on sites accessed via the Services and/or information provided by you in any help request or inquiry you make to us.
 
-\]There is no need to provide to us, and we strongly discourage you from, providing any sensitive information about you or anyone else including, details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership or information about your health.
+There is no need to provide to us, and we strongly discourage you from, providing any sensitive information about you or anyone else including, details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership or information about your health.
 
 1.  **Information collected via automated technologies and interactions.** As you interact with the Services, we may collect information via automated means about your computer or mobile device, your preference settings, your location and your activities, including:  
     IP address of your computer;  
