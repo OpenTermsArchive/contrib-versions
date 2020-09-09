@@ -7,7 +7,7 @@
 *   Enterprise
 
 *   Denver, CO
-*   Sign in
+*   Sign In
     *   Referral
     *   Movers
     *   Check My Emails
@@ -76,7 +76,9 @@ _close_
 *   Movers
 *   Check My Emails
 *   View or Pay Bill
-*   Sign in
+*   Sign In
+
+Call now to order (866) 445-8084
 
 *   Internet
 *   Products
@@ -643,7 +645,7 @@ Enter your address to review products and pricing available in your area.
 
 See Products &. Pricing
 
-Already a customer? Sign in
+Already a customer? Sign In
 
 See what Kinetic products are available to you.
 
@@ -651,16 +653,16 @@ Enter your address to review products and pricing available in your area.
 
 State ALARAZFLGAIAKSKYMIMNMOMSNCNENMNYOHOKPASCTX Check Availability
 
-Already a customer? Sign in
+Already a customer? Sign In
 
   
-Or call to order 1-855-944-29611-855-944-2961 or Chat Now No Chat Available .
+Or call to order 1-866-445-80841-866-445-8084 or Chat Now No Chat Available .
 
 Chat Now No Chat Available We still canï¿½t find your address. Contact us to see if youï¿½re in our service area.
 
 Contact us now to find out if you're located in one of our service areas.
 
-Chat With Agent Now No Chat Available Call 1-855-944-2961
+Chat With Agent Now No Chat Available Call 1-866-445-8084
 
 Enter your address again or view other carriers in your area
 
@@ -671,11 +673,11 @@ Pick the correct address from this list to see the best deals available , or use
 Submit Change Address Change Address
 
   
-Or call to order 1-866-819-1239 or Chat Now No Chat Available .
+Or call to order 1-866-445-8084 or Chat Now No Chat Available .
 
 Sorry! We are experiencing technical difficulties but our team is currently working to resolve it.
 
-If you need immediate assistance, please call: 1-866-913-6913
+If you need immediate assistance, please call: 1-866-445-8084
 
 FIBER is now available to your area. Promo Month Limitedoffer
 
