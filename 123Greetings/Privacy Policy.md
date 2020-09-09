@@ -18,23 +18,23 @@
 *   Events &. Holidays
 *   MorePetsWorld LanguagesAt WorkFlowersKeep in TouchWeddingInvitations
 
-*   Labor Day
 *   Rosh Hashanah
 *   September Flowers
 *   Teddy Bear Day
 *   Chocolate Day
+*   Thank You Day
 *   More...
     *   Grandparents Day (Sep 13, 2020)
     *   Positive Thinking Day (Sep 13, 2020)
-    *   Thank You Day (Sep 15, 2020)
     *   Flower Week (Sep 20 - 26, 2020)
-    *   Labor Day (Canada) (Sep 7, 2020)
     *   Honey Month (September 2020)
     *   Intl. Square Dance Month (September 2020)
     *   Patriot Day (Sep 11, 2020)
     *   Video Games Day (Sep 12, 2020)
     *   Intl. Talk Like a Pirate Day (Sep 19, 2020)
     *   Women's Friendship Day (Sep 20, 2020)
+    *   International Peace Day (Sep 21, 2020)
+    *   First Day of Autumn (Sep 22, 2020)
     *   See All Events
 *   Go
 
