@@ -19,8 +19,8 @@
 *   MorePetsWorld LanguagesAt WorkFlowersKeep in TouchWeddingInvitations
 
 *   Rosh Hashanah
-*   September Flowers
 *   Teddy Bear Day
+*   September Flowers
 *   Chocolate Day
 *   Thank You Day
 *   More...
