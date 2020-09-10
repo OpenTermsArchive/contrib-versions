@@ -7,7 +7,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   6 years ago
     *   in Data Migration
     *   0 votes
-    *   15 (last comment by backnblack08 6 days ago)
+    *   15 (last comment by backnblack08 1 week ago)
 *   How do I retrieve my old entries?
     *   by mungbeanminh
     *   1 week ago
@@ -25,7 +25,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 months ago
     *   in Themes
     *   0 votes
-    *   3 (last comment by speedrahman 2 weeks ago)
+    *   3 (last comment by speedrahman 3 weeks ago)
 *   Retrieve old photos
     *   by twinklingstar\_yin
     *   1 year ago
