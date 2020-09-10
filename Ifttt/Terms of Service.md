@@ -1,6 +1,6 @@
 Terms of Use
 
-As of November 2, 2016
+As of September 8, 2020
 
 Please read these terms carefully before using the services offered by IFTTT Inc. ("IFTTT"). By using the website ifttt.com or other features, services, products, or applications offered by IFTTT (collectively, the "Service"), you (hereafter “User” or “you”) agree to be bound by these terms of use (the "Terms").
 
@@ -104,7 +104,7 @@ IFTTT may elect to provide you with support or modifications for the Service (co
 
 Fees
 
-The Service is currently free, but we reserve the right to charge for certain or all services in the future. We will notify you before the Service you are then using begins carrying a fee, and if you wish to continue using the Service, you must pay all applicable fees for the Service.
+If you subscribe to IFTTT’s Pro features, you (i) shall pay IFTTT all applicable fees set forth on https://ifttt.com/plans (“Fees”) and (ii) hereby authorize IFTTT to charge your chosen payment method. IFTTT offers no refund or credits. Unless agreed to separately in writing, IFTTT will automatically renew monthly subscriptions for an additional month at the then prevailing rates unless you cancel your subscription before the date of renewal. All Fees are exclusive of taxes or duties imposed by governing authorities. You are responsible for all taxes or duties associated with your use of the IFTTT.
 
 Warranty Disclaimer
 
@@ -136,7 +136,7 @@ You may not assign, delegate or transfer these Terms or your rights or obligatio
 
 These Terms are governed by and will be construed under the laws of the State of California, without regard to the conflicts of laws’ provisions thereof. Any dispute arising from or relating to the subject matter of these Terms shall be finally settled in San Francisco County, California, in English, in accordance with the Streamlined Arbitration Rules and Procedures of Judicial Arbitration and Mediation Service, Inc. ("JAMS") then in effect, by one commercial arbitrator with substantial experience in resolving intellectual property and commercial contract disputes, who shall be selected from the appropriate list of JAMS arbitrators in accordance with such Rules. Judgment upon the award rendered by such arbitrator may be entered in any court of competent jurisdiction. Notwithstanding the foregoing obligation to arbitrate disputes, each party shall have the right to pursue injunctive or other equitable relief at any time, from any court of competent jurisdiction. For all purposes of this Agreement, the parties consent to exclusive jurisdiction and venue in the state or federal courts located in, respectively, San Francisco County, California, or the Northern District of California. **Any arbitration under these Terms (including any against officers, directors, and employees of IFTTT) will take place on an individual basis: class arbitrations and class actions are not permitted. YOU UNDERSTAND AND AGREE THAT BY ENTERING INTO THESE TERMS, YOU AND IFTTT ARE EACH WAIVING THE RIGHT TO TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION.**
 
-IFTTT's failure to exercise or enforce any right or provision of these Terms shall not constitute a waiver of such right or provision. Any notice to IFTTT that is required or permitted by these Terms shall be in writing and shall be deemed effective upon receipt, when sent by confirmed e-mail to legal@ifttt.com or when delivered by nationally recognized overnight courier or mailed by first class, registered or certified mail, postage prepaid, to IFTTT Inc., 923 Market Street, #400, San Francisco, CA 94103, Attn: Legal.
+IFTTT's failure to exercise or enforce any right or provision of these Terms shall not constitute a waiver of such right or provision. Any notice to IFTTT that is required or permitted by these Terms shall be in writing and shall be deemed effective upon receipt, when sent by confirmed e-mail to legal@ifttt.com or when delivered by nationally recognized overnight courier or mailed by first class, registered or certified mail, postage prepaid, to IFTTT Inc., PO Box 590547, San Francisco, CA 94159-0547, Attn: Legal.
 
 Use of a Mobile App downloaded through the Apple App Store
 
