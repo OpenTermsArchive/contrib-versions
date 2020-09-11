@@ -1,739 +1,555 @@
-The Facebook Platform Policy has been updated and incorporated into the new Facebook Platform Terms and Developer Policies, effective August 31, 2020. [Learn More](https://developers.facebook.com/blog/post/2020/07/01/platform-terms-developer-policies/)
+The new Facebook Platform Terms below and the new [Developer Policies](https://developers.facebook.com/devpolicy) went into effect on August 31, 2020. They replace the [legacy Facebook Platform Policy](https://developers.facebook.com/docs/apps/policies/legacy-facebook-platform-policy) and the [legacy Instagram Platform Policy](https://developers.facebook.com/docs/apps/policies/legacy-instagram-platform-policy), as well as the Supplemental Terms for Extended Platform Products and the Technology Provider Amendment to the preceding Supplemental Terms. [Learn more](https://developers.facebook.com/blog/post/2020/07/01/platform-terms-developer-policies/).
 
-Facebook Platform Policy
-========================
+Facebook Platform Terms
+=======================
 
-1\. Build a quality product
----------------------------
-
-1.  Develop your app with your personal account. Do not create a fake account to manage your app. If applicable, ensure that your Business Manager account is up to date and accurate.
-    
-2.  Build an app that is stable and easily navigable. Be sure your app insights reflect a positive experience.
-    
-3.  Ensure that your app’s content (including ads and user-generated content) meets our [Community Standards](https://www.facebook.com/communitystandards).
-    
-4.  Follow our [Advertising Policies](https://www.facebook.com/ad_guidelines.php) for your app name, icons, and description.
-    
-5.  Keep your app or bot’s description and categorization up-to-date.
-    
-6.  Don’t include promotional content in your app’s icon (ex: don’t overlay your icon image with “new”, “sale”, “update” or any type of notification jewel)
-    
-7.  Don’t confuse, deceive, defraud, mislead, spam or surprise anyone.
-    
-8.  Keep your app’s negative feedback below our thresholds.
-    
-9.  Follow any instructions we include in our [technical documentation](https://developers.facebook.com/docs/).
-    
-10.  Apps with minimal utility that provide predictions, assessments, or similar outputs to the user, may not be allowed on Platform. For example, apps that provide (or claim to provide) users with assessments of personality, personal attributes, character traits, behavioral tendencies, or whose core functionality otherwise involves making predictions about who the user is, may not be allowed.
-    
-
-2\. Give people control
------------------------
-
-1.  Obtain consent from people before publishing content on their behalf.
-    
-2.  Use publishing permissions to help people share on Facebook, not to send people messages from your app.
-    
-3.  Don’t prefill any content in captions, comments, messages or the user message parameter of posts unless (a) it is a single hashtag in a post shared through our Share Dialog (but not via our APIs), (b) it was created by the person using your app, or (c) it was created by a business whose employees use your app to administer the business’s presence on Facebook.
-    
-4.  Privacy Policy
-    
-    a. Provide a publicly available and easily accessible privacy policy that explains what data you are collecting and how you will use that data.
-    
-    b. Your privacy policy must not modify, supersede, or be inconsistent with Facebook policies. For example, user data obtained from us cannot be transferred to a data broker or sold, even if you disclose this in your privacy policy.
-    
-    c. Include your privacy policy URL in the App Dashboard.
-    
-    d. Link to your privacy policy in any app store that allows you to do so.
-    
-    e. Comply with your privacy policy.
-    
-5.  You may use [Account Information](https://developers.facebook.com/policy/#definitions) in accordance with your privacy policy and other Facebook policies. All other data may not be transferred outside your app, except to your service provider (per, Section 3.7) who needs that information to provide services to your app. With the exception of Account Information, you may only maintain user data obtained from us for as long as necessary for your business purpose.
-    
-6.  Delete all of a person’s data you have received from us (including friend data) if that person asks you to, unless you are required to keep it by law, regulation, or separate agreement with us. You may keep aggregated data only if no information identifying a specific person could be inferred or created from it.
-    
-7.  Obtain consent from people before using their data in any ad.
-    
-8.  Obtain adequate consent from people before using any Facebook technology that allows us to collect and process data about them, including for example, our SDKs and browser pixels. When you use such technology, provide an appropriate disclosure:
-    
-    a. That third parties, including Facebook, may use cookies, web beacons, and other storage technologies to collect or receive information from your websites, apps and elsewhere on the internet and use that information to provide measurement services, target ads and as described in our [Data Policy](https://www.facebook.com/about/privacy/); and
-    
-    b. How users can opt-out of the collection and use of information for ad targeting and where a user can access a mechanism for exercising such choice.
-    
-9.  In jurisdictions that require informed consent for the storing and accessing of cookies or other information on an end user’s device (such as the European Union), ensure, in a verifiable manner, that an end user provides the necessary consent before you use Facebook technologies that enable us to store and access cookies or other information on the end user’s device. For suggestions on implementing consent mechanisms, visit [Facebook’s Cookie Consent Guide for Sites and Apps](https://developers.facebook.com/docs/privacy).
-    
-10.  Obtain consent from people before you give us information that you independently collected from them.
-    
-11.  Provide meaningful customer support for your app, and make it easy for people to contact you.
-    
-12.  If people come to your app from the Facebook app on iOS, give them an option to go back to the Facebook app by using the Back to Facebook banner provided in our SDK.
-    
-13.  If people come to your app from the Facebook app on Android, don’t prevent them from going back to Facebook when they press the system back button.
-    
-
-3\. Protect data
+1\. Introduction
 ----------------
 
-1.  Protect the information you receive from us against unauthorized access, use, or disclosure. For example, don't use data obtained from us to provide tools that are used for surveillance.
+*     
+    a. Our Platform is the set of APIs, SDKs, tools, plugins, code, technology, content, and services that enables others, including app developers and website operators, to develop functionality, retrieve data from Facebook and any other [Facebook Products](https://www.facebook.com/help/1561485474074139?ref=tos), or provide data to us.
     
-2.  Only show data obtained from a user access token on the devices associated with that token.
+*     
+    b. To use Platform (including to Process any Platform Data), you agree to these Platform Terms (“Terms”), as well as all other applicable terms and policies. This may include the [Facebook Terms of Service](https://www.facebook.com/legal/terms), the [Instagram Terms of Use](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F581066165581870), the [Facebook Commercial Terms](https://www.facebook.com/legal/commercial_terms), the [Business Tools Terms](https://www.facebook.com/legal/terms/businesstools/update), and any [Facebook Product](https://www.facebook.com/help/1561485474074139?ref=tos) terms that are applicable.
     
-3.  Only use friend data (including friends list) in the person’s experience in your app.
+*     
+    c. You must also comply with the applicable requirements in our [Developer Policies](https://developers.facebook.com/devpolicy/) and those made available on our [Developer Site](https://developers.facebook.com/), including in our [Documentation](https://developers.facebook.com/docs/) collectively, the “Developer Docs”)
     
-4.  If you cache data you receive from us, use it to improve your app’s user experience and keep it up to date.
+*     
+    d. These Terms will start on the earlier of the date you accept them or otherwise start accessing or using Platform, and will continue until you stop accessing and using Platform, unless ended earlier as described below. If you are accepting these Terms or accessing or using Platform on behalf of an entity, you represent and warrant that you have the authority to bind such entity to these Terms and you agree on behalf of such entity to be bound by these Terms (and for clarity, all other references to “you” in these Terms refer to such entity). For clarity, these Terms updated and replaced the Facebook Platform Policy and the Instagram Platform Policy and any references in existing terms, policies, or agreements to the “Facebook Platform Policy,” “Instagram Platform Policy,” or “Platform Policy” shall now mean these Terms.
     
-5.  Don’t proxy, request or collect Facebook usernames or passwords.
+*     
+    e. If you fail to comply with these Terms or any other applicable terms or policies, we may suspend or terminate your App or account, as described below.
     
-6.  Keep private your secret key and access tokens. You can share them with an agent acting to operate your app if they sign a confidentiality agreement.
-    
-7.  Don't use a service provider in connection with your use of Platform unless you make them sign a contract to: (a) protect any user data you obtained from us (that is at least as protective as our terms and policies), (b) limit their use of that user data solely to using it on your behalf to provide services to your app (and not for their own purposes or any other purposes), and (c) keep it secure and confidential. You must ensure they comply with our terms and policies (and are responsible for their non-compliance).
-    
-8.  Keep Facebook user IDs within your control. You can only share them with service providers who help you build or run your app. Ensure that they keep the user IDs secure and confidential and comply with our policies (ex: see, 3.7). If you need an anonymous unique identifier to share with service providers, use our [mechanism](https://developers.facebook.com/docs/graph-api/reference/v2.2/user).
-    
-9.  Don't sell, license, or purchase any data obtained from us or our services.
-    
-10.  Don't directly or indirectly transfer any data that you receive from us (including anonymous, aggregate, or derived data) to any ad network, data broker or other advertising or monetization-related service. By “indirectly” we mean you aren’t allowed to, for example, transfer data to a third party who then transfers the data to an ad network.
-    
-11.  Don't put Facebook data in a search engine or directory, or include web search functionality on Facebook.
-    
-12.  If you are acquired by or merge with a third party, you can continue to use our data only within your app.
-    
-13.  If you stop using Platform, promptly delete all user data you have received from us (absent explicit consent from people). You can keep [Account Information](https://developers.facebook.com/policy/#definitions) if you have presented your privacy policy within your app.
-    
-14.  If you use friend data from Facebook to establish social connections in your app, only do so if each person in that connection has granted you access to that information.
-    
-15.  Don't use data obtained from Facebook to make decisions about eligibility, including whether to approve or reject an application or how much interest to charge on a loan.
-    
-16.  If you implement or have previously implemented (on your own behalf or on behalf of a third party) any Facebook Tools / Facebook Business Tools (as defined in our standard terms for such Facebook Tools /Facebook Business Tools (“Facebook Business Tools Terms”), currently available at: [https://www.facebook.com/customaudiences/app/tos](https://www.facebook.com/customaudiences/app/tos), or any successor terms we may make available, including at: [https://www.facebook.com/legal/terms/businesstools](https://www.facebook.com/legal/terms/businesstools), you acknowledge that the Facebook Business Tools Terms apply in connection with your usage of Platform, including for optimization of Platform and/or the related Facebook Company Product.
+*     
+    f. Capitalized terms not otherwise defined herein (including in Section 12 (“Glossary”) have the meaning given in our other terms and policies, including our [Terms of Service](https://www.facebook.com/legal/terms) and our [Facebook Commercial Terms](https://www.facebook.com/legal/commercial_terms). The term “including” means “including without limitation.”
     
 
-4\. Encourage proper use
-------------------------
+2\. Intellectual Property Rights
+--------------------------------
 
-1.  Respect the way Facebook looks and functions. Don't offer experiences that change it.
+*     
+    **a. Our License to You.** Subject to your compliance with these Terms and all other applicable terms and policies, we grant you a limited, non-exclusive, non-sublicensable (except to Service Providers as described below), non-transferable, non-assignable license to use, access, and integrate with Platform, but only to the extent permitted in these Terms and all other applicable terms and policies. You will not sell, transfer, or sublicense Platform to anyone. Except as expressly licensed herein, you will not use, access, integrate with, modify, translate, create derivative works of, reverse engineer, or otherwise exploit Platform or any aspect thereof. The [Facebook Companies](https://www.facebook.com/help/111814505650678) reserve all rights, title, and interest (including the right to enforce any such rights) not expressly granted in these Terms.
     
-2.  If you’re building an app with a personalized or social experience, enable people to easily share on Facebook content they've created.
+*     
+    **b. Your License to Us**
     
-3.  Respect the limits we've placed on Facebook functionality.
+    *     
+        **i. _Your Content:_**
+        
+        *     
+            1\. You grant us a non-exclusive, transferable, sublicensable, royalty-free, worldwide license to: host, use, distribute, modify, run, copy, publicly perform or display, translate, and create derivative works of any information, data, and other content made available by you or on your behalf (including by your Service Providers or through your App) in connection with Platform (collectively, “Your Content”) for any business purpose in connection with operating, providing, or improving Platform or any other [Facebook Product](https://www.facebook.com/help/1561485474074139?ref=tos). This license remains in effect even if you stop using Platform. Without limitation, your license to us includes: the right to incorporate Your Content into other parts of [Facebook Products](https://www.facebook.com/help/1561485474074139), the right to attribute the source of Your Content using your name, trademarks, or logos; the right to use Your Content for promotional purposes, and the right to analyze Your Content (including to make sure you’re complying with these Terms and all other applicable terms and policies).
+            
+        *     
+            2\. If you use the Facebook Business Tools to send us Business Tool Data, our use of that data is governed by the Business Tools Terms rather than the foregoing license for Your Content.
+            
+        *     
+            3\. If you owned Your Content before providing it to us, you will continue owning it after providing it to us, subject to any rights granted in these Terms or any other applicable terms or policies and any access you provide to others by sharing it via Platform.
+            
+        
+    *     
+        **ii. _Your App:_**
+        
+        *     
+            1\. You grant us a non-exclusive, transferable, sublicensable, royalty-free, worldwide license to: host, use, distribute, modify, run, copy, publicly perform or display, translate, and create derivative works of your App for any business purpose in connection with operating, providing, or improving Platform. This license remains in effect even if you stop using Platform. Without limitation, the foregoing license includes the right to frame or link to your App, to place content (including ads) around your App, and to analyze your App (including to assess your compliance with these Terms and all other applicable terms and policies).
+            
+        *     
+            2\. As between the parties, in connection with Platform, we won’t be subject to any terms or policies associated with your App or Your Content (even if we click or tap agreement). Those terms and policies are considered null and void and are rejected and excluded from these Terms.
+            
+        *     
+            3\. Nothing in these Terms will be interpreted as a representation or agreement that we will not develop or have not developed apps, products, features, or services that are similar to your App or compete with your App.
+            
+        
+    *     
+        **iii. _Your Name, Trademarks, and Logos:_** You grant us a non-exclusive, transferable, sublicensable, royalty-free, worldwide license to use your name, trademarks, and logos for distribution, marketing, and promotional purposes, in connection with your use of [Facebook Products](https://www.facebook.com/help/1561485474074139), in all formats and media. This license remains in effect for existing materials and instances even if you stop using Platform.
+        
     
-4.  Only incentivize a person to log into your app, enter a promotion on your app’s Page, check-in at a place, or to use Messenger to communicate with your business. Don’t incentivize other actions.
+*     
+    **c. Protecting the Rights of Others**
     
-5.  Encourage people to accurately tag and share content.
-    
-6.  If your service integrates a person’s data into a physical product, only create a physical product for that person’s personal and non-commercial use.
-    
-7.  Don’t build an app whose primary purpose is to redirect people off of Facebook.
-    
-8.  If you want to use our logos or brand, follow the guidelines in the [Facebook Brand Resource and Permissions Center](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F) and [Brand Guidelines for Facebook Developers](https://developers.facebook.com/docs/apps/review/branding). Ad networks and data brokers must get our written permission before using our Platform, logos, or trademarks.
-    
-9.  Don't sell, transfer or sublicense our code, APIs, or tools to anyone.
-    
-10.  Only use our SDKs to develop and distribute apps or content for use with the Facebook Platform. You may also distribute any object code or sample source code included in the SDKs for inclusion in such apps.
-    
-11.  Don’t modify, translate, create derivative works of, or reverse engineer any SDK or its components.
-    
-12.  Be honest about your relationship with Facebook when talking to the press or users. Comply with our Developer PR Guidelines and get approval from us before issuing any formal press release or blog post mentioning Facebook.
-    
-13.  If you use the Like button on iOS or Android, don’t collect or use any information from it.
-    
-14.  Sharing to Stories:
-    
-    a. Stories must not include any logos, watermarks, calls-to-action, or other promotional content.
-    
-    b. Additional policies for Stories with Attribution: (1) Stories must not be generic (i.e., only enable people to share unique and personal content). (2) If a person clicks on your Story, ensure you direct them to an experience that enhances the Story and/or enables them to create their own Story.
+    *     
+        i. You will not provide or promote content in your App that infringes upon or otherwise violates the rights of any person or third party.
+        
+    *     
+        ii. You will obtain (and represent and warrant that you own or have secured) all rights necessary from all applicable rights holders to (1) grant the licenses, rights, and permissions in these Terms (including those in Section 2.b (“Your License to Us”)); (2) display, distribute, and deliver all information, data, and other content in your App; and (3) otherwise operate your App. This includes satisfying all licensing, reporting, and payout obligations to third parties.
+        
+    *     
+        iii. If your App contains content submitted or provided by your Users or other third parties, you must have an appropriate notice and takedown process and otherwise comply with all applicable laws and regulations to respond to notices of claimed infringement. Without limiting that compliance, in the United States, you must comply with all requirements of the Digital Millennium Copyright Act.
+        
     
 
-5\. Follow the law
+3\. Data Use
+------------
+
+*     
+    **a. Prohibited Practices.** You will not perform, or facilitate or support others in performing, any of the following prohibited practices (collectively, “Prohibited Practices”):
+    
+    *     
+        i. Processing Platform Data to discriminate or encourage discrimination against people based on personal attributes including race, ethnicity, color, national origin, religion, age, sex, sexual orientation, gender identity, family status, disability, medical or genetic condition, or any other categories prohibited by applicable law, regulation, or Facebook policy.
+        
+    *     
+        ii. Processing Platform Data to make eligibility determinations about people, including for housing, employment, insurance, education opportunities, credit, government benefits, or immigration status. By eligibility determinations, we mean determining whether to provide, deny, or take away a particular benefit (for example, housing or scholarships) as well as determining the terms under which the benefit will be provided, denied, or taken away.
+        
+    *     
+        iii. Processing Platform Data to perform, facilitate, or provide tools for surveillance. Surveillance includes the Processing of Platform Data about people, groups, or events for law enforcement or national security purposes.
+        
+    *     
+        iv. Selling, licensing, or purchasing Platform Data.
+        
+    *     
+        v. Placing Platform Data on, or otherwise making Platform Data available to, a search engine or directory without our prior express written consent.
+        
+    *     
+        vi. Attempting to decode, circumvent, re-identify, de-anonymize, unscramble, unencrypt, or reverse hash, or reverse-engineer Platform Data that is provided to you.
+        
+    *     
+        vii. Changing your App’s core functionality or data Processing so that Users would view it as an unfamiliar or different App, or materially changing the scope of Processing of previously collected Platform Data, unless in each case you first re-submit your App and receive our approval through App Review.
+        
+    *     
+        viii. Processing friend lists from Facebook to establish social connections in your App unless each person in that connection has granted you access to that information for that purpose.
+        
+    
+*     
+    **b. Additional Terms for Restricted Platform Data**
+    
+    *     
+        i. You will not request Restricted Platform Data unless it is necessary to meaningfully improve the quality of the applicable User's experience in the specific product or service for which the User shared the data.
+        
+    *     
+        ii. It must be clear to the User why you are requesting their Restricted Platform Data in order to improve the quality of their experience.
+        
+    *     
+        iii. For clarity, your Processing of Restricted Platform Data must comply with the applicable Developer Docs and other provisions of these Terms (including the Prohibited Practices).
+        
+    
+*     
+    **c. Sharing Platform Data.** You may only share Platform Data in compliance with these Terms (including Sections 3.a (“Prohibited Practices”), 3.b (“Additional Terms for Restricted Platform Data”), 4 (“Privacy Policy”), and 5 (“Service Providers and Tech Providers”)), applicable law and regulations, and all other applicable terms and policies, and only in the following circumstances:
+    
+    *     
+        i. With respect to Platform Data collected as a Tech Provider, solely as described below in Section 5.b (“Tech Providers”);
+        
+    *     
+        ii. With respect to Platform Data not collected as a Tech Provider,
+        
+        *     
+            1\. when required under applicable law or regulation (you must retain proof of the applicable legal or regulatory requirement or request and provide it to us if we ask for it);
+            
+        *     
+            2\. with your Service Provider;
+            
+        *     
+            3\. when a User expressly directs you to share the data with a third party (you must retain proof of the User’s express direction and provide it to us if we ask for it); or
+            
+        *     
+            4\. solely with respect to Platform Data that is not Restricted Platform Data, with other third parties, so long as:
+            
+            *     
+                a. you first contractually prohibit them from using the Platform Data in a way that would violate these Terms or any other applicable terms or policies (you must retain proof of the contractual prohibition and provide it to us if we ask for it); and
+                
+            *     
+                b. you ensure that any such third parties comply with these Terms and all other applicable terms and policies as if they were in your place, and you are responsible for their acts and omissions, including their noncompliance.
+                
+            
+        
+    
+*     
+    **d. Retention, Deletion, and Accessibility of Platform Data**
+    
+    *     
+        i. Unless required to keep Platform Data under applicable law or regulation, you must (and must make reasonable efforts to ensure your Service Providers) do the following:
+        
+        *     
+            1\. Make reasonable efforts to keep Platform Data up to date, including Platform Data that has been modified or deleted. You must update Platform Data promptly after receiving a request from us or the User to do so. You must give Users an easily accessible and clearly marked way to ask for their Platform Data to be modified or deleted.
+            
+        *     
+            2\. Delete all Platform Data as soon as reasonably possible in the following cases:
+            
+            *     
+                a. When retaining the Platform Data is no longer necessary for a legitimate business purpose that is consistent with these Terms and all other applicable terms and policies;
+                
+            *     
+                b. When you stop operating the product or service through which the Platform Data was acquired;
+                
+            *     
+                c. When we request you delete the Platform Data for the protection of Users (which we will determine at our sole discretion);
+                
+            *     
+                d. When a User requests their Platform Data be deleted or no longer has an account with you (unless the Platform Data has been aggregated, obscured, or de-identified so that it cannot be associated with a particular User, browser, or device), or for Tech Providers, when a User or the Client requests their Platform Data be deleted or the Client no longer has an account with you;
+                
+            *     
+                e. When required by applicable law or regulations; or
+                
+            *     
+                f. As required under Section 7 (“Compliance Review Rights and Suspension and Termination of these Terms”).
+                
+            
+        
+    *     
+        ii. If you are required to keep Platform Data under applicable law or regulation, you must retain proof of the applicable legal or regulatory requirement or request and provide it if we ask for it.
+        
+    *     
+        iii. If you have received Platform Data in error, you must immediately report this to us, delete that Platform Data, and provide proof of deletion if we ask for it.
+        
+    
+*     
+    e. **Exceptions to Restrictions.** The above provisions of this section (Section 3.a-d) do not apply to certain Platform Data as described [here](https://developers.facebook.com/terms/3e/).
+    
+
+4\. Privacy Policy
 ------------------
 
-1.  You are responsible for restricting access to your content in accordance with all applicable laws and regulations, including geo-filtering or age-gating access where required.
+*     
+    a. If you use Platform to Process Platform Data, you will provide and comply with a publicly available and easily accessible privacy policy.
     
-2.  Don’t provide or promote content that infringes upon the rights of any third party.
+*     
+    b. This policy must comply with applicable law and regulations and must accurately and clearly explain what data you are Processing, how you are Processing it, the purposes for which you are Processing it, and how Users may request deletion of that data.
     
-3.  Ensure that you own or secure all rights necessary to display, distribute and deliver all content in your app.
+*     
+    c. You may only Process Platform Data as clearly described in your privacy policy and in accordance with all applicable law and regulations, these Terms, and all other applicable terms and policies.
     
-4.  Satisfy all licensing, reporting and payout obligations to third parties in connection with your app.
+*     
+    d. Your privacy policy will not supersede, modify, or be inconsistent with these Terms or any other applicable terms or policies.
     
-5.  If your app contains content submitted or provided by third parties:
+*     
+    e. You must retain all of your privacy policies in effect while using Platform and provide them to us if we ask for them.
     
-    a. In the United States, you must take all steps required to fall within the applicable safe harbors of the Digital Millennium Copyright Act including designating an agent to receive notices of claimed infringement, instituting a repeat infringer termination policy and implementing a notice and takedown process.
-    
-    b. In other countries, you must comply with local copyright laws and implement an appropriate notice and takedown process for when you receive a notice of claimed infringement.
-    
-6.  Don’t knowingly share information with us that you have collected from children under the age of 13.
-    
-7.  Web sites or services directed to children under 13: If you use Social Plugins or our JavaScript SDK for Facebook on sites and services that are directed to children under 13, you are responsible for complying with all applicable laws. For example, if your web site or service is directed to children in the United States, or knowingly collects personal information from children in the United States, you must comply with the U.S. Children’s Online Privacy Protection Act. You must also adhere to our [usage notes](https://developers.facebook.com/docs/plugins/restrictions/).
-    
-8.  Comply with all applicable laws and regulations in the jurisdiction where your app is available. Do not expose Facebook or people who use Facebook to harm or legal liability as determined by us in our sole discretion.
-    
-9.  If applicable, comply with the Video Privacy Protection Act (VPPA) and obtain any opt-in consent necessary to share data on Facebook.
-    
-10.  You agree to indemnify and hold us harmless from and against all damages, losses, and expenses of any kind (including reasonable legal fees and costs) related to any claim against us related to your service, actions, content or information.
+*     
+    f. You will maintain publicly available links to your privacy policies in the privacy policy field in the settings of your App Dashboard, as well as in any App Store that allows you to do so, if applicable, and ensure the links remain current and up to date.
     
 
-6\. Tech Providers
-------------------
+5\. Service Providers and Tech Providers
+----------------------------------------
 
-1.  Data Collection and Use: If you are a Tech Provider for an entity, comply with the following:
+*     
+    **a. Service Providers**
     
-    a. Only use an entity's data on behalf of the entity (i.e., only to provide services to that entity and not for your own business purposes or another entity's purposes).
+    *     
+        i. You will not use a Service Provider in connection with your use of Platform or Processing of Platform Data unless such Service Provider first agrees in writing to do the following:
+        
+        *     
+            1\. Use Platform and Process Platform Data solely for you and at your direction in order to provide services you requested in a manner that is consistent with these Terms, all other applicable terms and policies, and your privacy policy, and for no other individual or entity and for no other purpose, including for the Service Provider’s own purposes; and
+            
+        *     
+            2\. In the event the Service Provider engages another Service Provider (“Sub-Service Provider”) in order to provide the services requested, ensure the Service Provider requires the Sub-Service Provider in writing to comply with the above requirements.
+            
+        
+    *     
+        ii. You must ensure that any Service Provider and Sub-Service Provider complies with these Terms and all other applicable terms and policies as if they were in your place, and you are responsible for their acts and omissions, including their noncompliance.
+        
+    *     
+        iii. When you cease using a Service Provider or Sub-Service Provider, you must ensure they immediately cease using Platform and Processing Platform Data and promptly delete all Platform Data in their possession or control.
+        
+    *     
+        iv. Upon our request, you must provide a list of your Service Providers and Sub-Service Providers including up-to-date contact information for each, the types and volume of Platform Data shared, and proof of written agreements with your Service Providers to demonstrate compliance with this Section.
+        
+    *     
+        v. We may prohibit your use of any Service Provider or Sub-Service Provider in connection with your use of Platform or Processing of Platform Data if we believe that (1) they have violated these Terms or other applicable terms or policies or (2) they are negatively impacting Platform, other [Facebook Products](https://www.facebook.com/help/1561485474074139?ref=tos), Platform Data, or people who use [Facebook Products](https://www.facebook.com/help/1561485474074139?ref=tos), and will provide notice to you if we do. Promptly upon such notice, you must stop using that Service Provider or Sub-Service Provider in connection with your use of Platform or Processing of Platform Data.
+        
+    *     
+        vi. We may require that your Service Providers or Sub-Service Providers agree to these Terms or other applicable terms or policies in order to access [Facebook Products](https://www.facebook.com/help/1561485474074139?ref=tos), Platform, or Platform Data.
+        
     
-    b. Don’t use an entity's data to build or augment user profiles.
+*     
+    **b. Tech Providers**
     
-    c. Don't use an entity's data to retarget on or off of Facebook, use piggybacking or redirects, or combine an entity's data with data from another entity.
-    
-    d. Don’t let people other than those acting on an entity’s behalf (ex: its employees) access the entity's data.
-    
-    e. Delete all of an entity’s data you have received from us if that entity asks you to or if you stop providing services for that entity, unless you are required to keep it by law, regulation, or separate agreement with us.
-    
-2.  Features: For all Platform features (ex: APIs) you use as a Tech Provider, comply with the following:
-    
-    a. Don't use Platform to enable an entity to access user data, unless you have entered into a separate agreement with us.
-    
-    b. Don’t charge a fee for using the Platform feature (or related Facebook Services). This policy does not prohibit you from charging for any of your other products and services unrelated to use of the Platform feature (or related Facebook Services).
-    
-    c. Ensure you have the authority to use the Platform feature (or related Facebook Services) on the entity's behalf.
-    
-    d. Don’t combine multiple entities or their Facebook Pages or Groups in the same account.
-    
-    e. Revoke an entity's access to the Platform feature (or related Facebook Services) if we request it.
-    
-
-7\. Things you should know
---------------------------
-
-1.  We can analyze your app, website, content, and data for any purpose, including commercial.
-    
-2.  We can monitor or collect data related to your use of SDKs.
-    
-3.  We will use information we receive from you or in connection with your Platform integration in accordance with our [Data Policy](https://www.facebook.com/about/privacy/).
-    
-4.  You give us all rights necessary to use any API, SDK, or other technology you provide us to enable your app or bot to work, including the right to incorporate information you provide to us into other parts of Facebook, and the right to attribute the source of information using your name or logos.
-    
-5.  We may share your contact info with people who want to contact you.
-    
-6.  We may use your name, logos, content, and information, including materials you submit for review, screenshots and video captures of your app and your Facebook Page, for distribution, marketing, and promotional purposes, to demonstrate or feature your use of Facebook, worldwide and royalty-free in all formats and media. You also represent that you have the right to grant this permission.
-    
-7.  You give us the right to link to or frame your app, and place content, including ads, around your app. If you use our social plugins, feed dialog or share button, you also give us permission to use and allow others to use such links and content on Facebook.
-    
-8.  You grant us and our affiliates a non-exclusive, transferable, sublicensable, royalty-free, worldwide license to host, use, distribute, modify, run, copy, publicly perform or display, translate, and create derivative works of, any data, content, and other information made available by you or on your behalf in connection with the Platform feature. This license survives even if you stop using the Platform feature. You are responsible for obtaining the necessary rights from all applicable rights holders to grant this license. Any API made available by you or on your behalf in connection with the Platform feature is deemed part of your App.
-    
-9.  We or an independent auditor acting on our behalf may audit your app, systems, and records to ensure your use of Platform and data you receive from us is safe and complies with our Terms, and that you've complied with our requests and requests from people who use Facebook to delete user data obtained through our Platform. If requested, you must provide us with proof that your app complies with our terms.
-    
-10.  We can create apps or products that offer features and services similar to your app.
-    
-11.  We don’t guarantee that Platform will always be free.
-    
-12.  If you exceed 5M MAU, 100M API calls per day, or 50M impressions per day, you may be subject to additional terms.
-    
-13.  Facebook and its licensors reserve all right, title and interest, including all intellectual property and other proprietary rights, in and to all SDKs.
-    
-14.  Any SDKs you receive from us are provided to you on an "as is" basis, without warranty of any kind.
-    
-15.  We can issue a press release describing our relationship with you.
-    
-16.  We may prohibit your use of any service provider in connection with your use of Platform.
-    
-17.  We may enforce against your app or website if we conclude you have violated our terms or are negatively impacting the Platform, and we may suspend your app or website, with our without advance notice, while we investigate suspected violations of our terms. We may or may not notify you in advance.
-    
-18.  Enforcement is both automated and manual, and can include disabling your app, restricting you and your app’s access to platform functionality, requiring that you delete data, terminating our agreements with you or any other action that we deem appropriate.
-    
-19.  We communicate with developers through Developer Alerts and email from the fb.com or facebookmail.com domain. Ensure that the email address associated with your Facebook account and the email address registered to the app are current and that you don’t filter out these messages.
-    
-20.  We may change these terms at any time without prior notice. Please check them regularly. Your continued use of Platform constitutes acceptance of those changes.
-    
-21.  Your use of Facebook technology is subject to this Platform Policy, our [Statement of Rights and Responsibilities](https://www.facebook.com/legal/terms) and any other terms that apply to the applicable technology.
-    
-22.  Instagram. If you use any Facebook Platform feature on the Instagram Service, such use on the Instagram Service is subject to the [Facebook Platform Policy](https://developers.facebook.com/policy), and the [Instagram Terms of Use](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F478745558852511). If you use any Instagram APIs, such use is subject to the [Instagram Platform Policy](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Fabout%2Flegal%2Fterms%2Fapi%2F).
-    
-23.  We may suspend or end your app’s access to any Platform API, permissions, or features that your app has not used or accessed within a 90-day period.
+    *     
+        i. If you are a Tech Provider, you must comply with the other provisions of these Terms, as well as the provisions in this section with respect to your use of Platform and Processing of Platform Data as a Tech Provider. If the terms conflict, the terms that are more restrictive on you or more protective of us apply.
+        
+    *     
+        ii. You, as a Tech Provider, understand and agree to the following:
+        
+        *     
+            1\. You will only use Platform and Process Platform Data on behalf of and at the direction of your Client on whose behalf you access it to help such Client to use Platform or Process Platform Data in accordance with these Terms and all other applicable terms and policies (“Client’s Purpose”), and not for your own purposes or another Client’s or entity’s purposes (for example, you will not Process Platform Data to build or augment user profiles for your own purposes or another Client’s purposes);
+            
+        *     
+            2\. You will ensure that Platform Data you maintain on behalf of one Client is maintained separately from that of other Clients;
+            
+        *     
+            3\. You will maintain an up-to-date list of your Clients and their contact information and provide it to us if we ask for it;
+            
+        *     
+            4\. You will only share Platform Data in compliance with these Terms (including Sections 3a (“Prohibited Practices”), 3b (“Additional Terms for Restricted Platform Data”), and 5a (“Service Providers”)), applicable law and regulations, and all other applicable terms and policies, and only in the following circumstances:
+            
+            *     
+                a. with your applicable Client, so long as you first contractually prohibit such Client from Processing Platform Data in a way that would violate these Terms or any other applicable terms or policies;
+                
+            *     
+                b. to the extent required under applicable law or regulation (you must retain proof of the applicable legal or regulatory requirement or request and provide it to us if we ask for it);
+                
+            *     
+                c. with your Service Provider solely to the extent necessary for your applicable Client’s Purpose; or
+                
+            *     
+                d. with your Client’s service provider solely to the extent necessary for such Client’s Purpose and when such Client expressly directs you to share the data with such service provider (you must retain proof of the Client’s express direction and provide it to us if we ask for it);
+                
+            
+        *     
+            5\. We may require that your Clients agree to these Terms or other applicable terms or policies in order to access [Facebook Products](https://www.facebook.com/help/1561485474074139?ref=tos), Platform, or Platform Data through your App.
+            
+        *     
+            6\. You will promptly terminate a Client’s use of our [Facebook Products](https://www.facebook.com/help/1561485474074139?ref=tos), Platform, or Platform Data through your App if we request it because we believe that the Client (a) has violated these Terms or other applicable terms or policies or (b) is negatively impacting Platform, other [Facebook Products](https://www.facebook.com/help/1561485474074139?ref=tos), Platform Data, or people who use [Facebook Products](https://www.facebook.com/help/1561485474074139?ref=tos).
+            
+        
     
 
-8\. Login
----------
+6\. Data Security
+-----------------
 
-1.  Verify that you have integrated Login correctly. Your app shouldn't crash or hang during the testing process.
+*     
+    **a. Data Security Requirements**
     
-2.  Native iOS and Android apps that implement Facebook Login must use our official SDKs for login.
+    *     
+        i. You must always have in effect and maintain administrative, physical, and technical safeguards that do the following:
+        
+        *     
+            1\. Meet or exceed industry standards given the sensitivity of the Platform Data;
+            
+        *     
+            2\. Comply with applicable law and regulations, including data security and privacy laws, rules, and regulations; and
+            
+        *     
+            3\. Are designed to prevent any unauthorized (including in violation of these Terms or any other applicable terms or policies) Processing (including, for the avoidance of doubt, access, destruction, loss, alteration, disclosure, distribution, or compromise) of Platform Data.
+            
+        
+    *     
+        ii. You must have a publicly available way for people to report security vulnerabilities in your App to you, and you must promptly address identified deficiencies.
+        
+    *     
+        iii. You must not solicit, collect, store, cache, proxy, or use Facebook or Instagram login credentials of other Users.
+        
+    *     
+        iv. You must not transfer or share user IDs or your access token and secret key, except with a Service Provider who helps you build, run, or operate your App.
+        
     
-3.  Use a clearly branded log in button that follows the guidelines in the [Facebook Brand Resource Center](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F%23).
+*     
+    **b. Incident Reporting**
     
-4.  Request only the data and publishing permissions your app needs to provide a good user experience.
-    
-5.  Ask for a write permission only at a point when your app needs the permission (ex: don’t prompt a write permission immediately after a user logs in to your app).
-    
-6.  You cannot convert user data you receive from us into independent data (ex. by pre-filling data fields with user data you received from us and asking the user to submit or save the data).
-    
-7.  If a person declines a permission, you can prompt them again after they indicate an intent to grant you the permission.
-    
-8.  Provide a "Log Out" option that functions properly and is easy to find.
-    
-9.  You may not request a user's data—through Platform or through your app—unless you use it meaningfully to improve the quality of a user's experience in your app. It must be clear to the user how their data is used to provide that experience.
+    *     
+        i. If any of the following incidents happen, you must promptly, and no later than 24 hours after you become aware of the incident, [notify us](https://developers.facebook.com/incident/report) and provide us with information we request regarding:
+        
+        *     
+            1\. Any unauthorized (including in violation of these Terms or any other applicable terms or policies) Processing (including, for the avoidance of doubt, access, destruction, loss, alteration, disclosure, distribution or compromise) of Platform Data; or
+            
+        *     
+            2\. Any incidents that are reasonably likely to compromise the security, confidentiality, or integrity of your IT Systems or your Service Provider’s or Sub-Service Provider’s IT Systems.
+            
+        
+    *     
+        ii. You must immediately begin remediation of the incident and reasonably cooperate with us, including by informing us in reasonable detail of the impact of the incident upon Platform Data and corrective actions being taken, and keeping us updated about your compliance with any notification or other requirements under applicable laws and regulations.
+        
     
 
-9\. Ads
--------
+7\. Compliance Review Rights and Suspension and Termination of these Terms
+--------------------------------------------------------------------------
 
-1.  If you have ads in your app on Facebook, comply with our [Advertising Policies](https://www.facebook.com/ad_guidelines.php).
+*     
+    **a. App Review.** We may require that you submit your App for our review or approval (“App Review”). Whether or not your App (including its access to any Platform Data) is approved (which will be in our sole discretion), you will ensure that your App is compliant with these Terms and all other applicable terms and policies, and we may review your App for such compliance from time to time, in our sole discretion. You will cooperate with our reviews and provide any information we request therefor. We may verify information you provide to us during any such reviews or otherwise in your App dashboard, which you will update to keep it complete and accurate.
     
-2.  Avoid excessive ads. Don’t let ads distract from your app’s functionality.
+*     
+    **b. Regular Monitoring.** We, or third-party professionals working at our direction (including auditors, attorneys, consultants, and/or computer forensics analysts) (collectively, “Third-Party Auditors”), may conduct regular monitoring of your App and its access to Platform and Processing of Platform Data using technical and operational measures.
     
-3.  Don’t include ads in Page Tab apps.
+*     
+    **c. Auditing Rights**
     
-4.  If you use a third party ad provider to include ads in your app on Facebook, only use a provider from [this list](https://developers.facebook.com/docs/adproviders/).
+    *     
+        i. We or Third-Party Auditors may conduct an Audit, no more than once a calendar year unless there is a Necessary Condition, to ensure that your and your App’s Processing of Platform Data is and has been in compliance with these Terms and all other applicable terms and policies.
+        
+    *     
+        ii. Audits will be conducted during normal business hours after providing you with at least 10 business days’ written notice (email will suffice), unless we determine in our sole discretion a Necessary Condition requires more immediate access.
+        
+    *     
+        iii. You will cooperate with the Audits, including by (1) providing all necessary physical and remote access to your IT Systems and Records, and (2) providing information and assistance as reasonably requested (including making your personnel who are knowledgeable about your or your App’s Processing of Platform Data available for our questioning).
+        
+    *     
+        iv. You will also use commercially reasonable efforts to get permission and cooperation from your Service Providers for us to conduct such Audits with respect to their IT Systems, Records, and applicable personnel.
+        
+    *     
+        v. You will remedy any non-compliance revealed by an Audit as soon as reasonably practicable (as we determine based on the facts and circumstances), after which we may conduct follow-up Audits to ensure proper remediation of the non-compliance.
+        
+    *     
+        vi. If an Audit reveals any non-compliance by you or your Service Provider(s) then you will reimburse us for all of our reasonable costs and expenses associated with conducting the Audit and any related follow-up Audits.
+        
+    *     
+        vii. After these Terms have ended, our Audit rights under this Section will survive until 1 year after the later of when you affirmatively demonstrate that you have stopped Processing all Platform Data and all embodiments thereof that are in your and your Service Providers’ possession or control have been deleted. For the avoidance of doubt, nothing in this Section limits any other rights or remedies we may have by law, in equity, or under these Terms or other applicable terms or policies.
+        
     
-5.  Don’t include third-party ads (including for other apps) in posts, comments, notifications, requests, invites or messages.
+*     
+    **d. Certifications.** From time to time, we may request (in writing or through your App dashboard, Platform, or any Facebook Product) information, certifications, and attestations relating to your use of Platform or Processing of Platform Data, which you will provide to us in the requested time frame and form. This may include certifying: (i) your compliance with these Terms and all other applicable terms and policies, and (ii) the purpose or use for the Platform Data you have requested or have access to, and that each such purpose or use complies with these Terms and all other applicable terms and policies. All such certifications and attestations must be provided by an authorized representative of yours.
     
-6.  Don’t include or pair Platform Integrations with non-Facebook ads.
+*     
+    **e. Suspension and Termination**
     
-7.  If you run a promotion, contest, competition, or sweepstake on Facebook, comply with our [Promotions Policies](https://www.facebook.com/page_guidelines.php#promotionsguidelines).
+    *     
+        i. We may take enforcement action against you and your App if we believe, in our sole discretion, that:
+        
+        *     
+            1\. You have not timely responded to our requests related to monitoring or auditing;
+            
+        *     
+            2\. You or your App has violated or may have violated these Terms or any other applicable terms or policies or is negatively impacting Platform, other [Facebook Products](https://www.facebook.com/help/1561485474074139?ref=tos), Platform Data, or people who use [Facebook Products](https://www.facebook.com/help/1561485474074139?ref=tos);
+            
+        *     
+            3\. It is needed to comply with applicable laws or regulations or otherwise required or requested by a court order or governmental authority; or
+            
+        *     
+            4\. It is needed to protect the [Facebook Companies](https://www.facebook.com/help/111814505650678) from legal or regulatory liability.
+            
+        
+    *     
+        ii. We may take enforcement action at any time, including while we investigate your App, with or without notice to you. Enforcement can be both automated and manual. It can include suspending or removing your App, removing your access and your App’s access to Platform, requiring that you stop Processing and delete Platform Data, terminating our agreements with you, or any other action that we consider to be appropriate, including terminating other agreements with you or your ability to use [Facebook Products](https://www.facebook.com/help/1561485474074139?ref=tos).
+        
+    *     
+        iii. We may suspend or end your App’s access to any Platform APIs, permissions, or features that your App has not used or accessed within a 90-day period with or without notice to you.
+        
     
 
-10\. Games
+8\. Notice
 ----------
 
-1.  Games on Facebook.com:
-    
-    a. Don’t share the same app ID with a desktop web game off of Facebook.com.
-    
-    b. Don’t use your Facebook.com game or email addresses you’ve obtained from us to promote or link to a desktop web game off of Facebook.
-    
-    c. Use Facebook Payments as your only payment method for all in-game purchases.
-    
-    d. Use Facebook Payments offers if you reward people for actions involving third parties.
-    
-2.  Desktop web games off Facebook.com:
-    
-    a. Only use Facebook Login, social plugins, and publishing channels. Don’t use connections such as friends lists.
-    
-    b. During authentication, only request age, email, and publishing permissions.
-    
-3.  Games on mobile:
-    
-    a. Don’t share the same app ID with a desktop web game off of Facebook.com.
-    
-    b. Don’t use your mobile game or email addresses you’ve obtained from us to promote or link to a web game off of Facebook.
-    
-4.  Instant Games:
-    
-    a. Don't charge for any items within iOS games (i.e., iOS games must be free to play). For all other games, you may only charge for items in your game if you have entered into a [separate agreement](https://developers.facebook.com/policy/ingamepurchase_terms) with us.
-    
-    b. If you want to include ads within your game, only use the Games Ads API. Don’t use a third party ad provider or include any other links to content off your game.
-    
-    c. Don't build, append to, edit, influence, or augment user profiles, including profiles associated with any mobile device identifier or other unique identifier that identifies any particular user, browser, computer or device.
-    
-    d. Don't post more than one Context Update per gameplay, without our prior permission.
-    
-    e. Don't create and submit the same game more than once. Update your existing game.
-    
-    f. Only show context dialogs after a user takes a relevant action within your game. For example, you can show a context.chooseAsync dialog after a user clicks on a 'play with friends' button.
-    
-    g. Be fair to other game developers. Don’t build games that mimic, imitate, or copy other games.
-    
-    h. Ensure your game meets the minimum performance standards we expect from Instant Games. The minimum performance standards we set for Instant Games currently apply as below:
-    
-    *   Games should maintain at least 3000 Monthly Active Players (MAP) who have each played the game more than 30 minutes in the past 28 days.
-        
-    *   Any new game launching on the platform will have a 60-day period from the time it is globally launched to meet these standards.
-        
-    *   For the purpose of this policy, global launch is defined as launching a game in any of the following countries: Brazil, France, India, Indonesia, Mexico, Philippines, Thailand, United Kingdom, United States, Vietnam; or, launching in more than 5 countries other than those aforementioned countries.
-        
-    *   Developers who prefer to continue testing their games prior to entering global launch should not launch their games in any of the 10 countries listed above, or, in more than 5 countries other than those 10 countries listed above.
-        
-5.  If you want to facilitate or promote online gambling, online real money games of skill, or online lotteries, get our written permission before using any of our products.
-    
-6.  If your game includes mandatory or optional in-app charges, explain this in your app’s description.
-    
+After you agree to these Terms, any written notice, request, or communications from us to you may be provided via email or mail (for example, to the email address or mailing address in your App account with us) or via notifications within the [Facebook Products](https://www.facebook.com/help/1561485474074139?ref=tos) (for example, in your account with us). You will keep your contact information current, including name, business name, and email.
 
-11\. Payments
--------------
-
-1.  If you use Facebook Payments, comply with the [Facebook Developer Payments Terms](https://developers.facebook.com/policy/payments_terms/).
-    
-2.  Don’t use Facebook Payments to solicit, collect or transfer funds for charitable causes without our prior permission.
-    
-3.  If you’re using iOS to run your app, use an iOS approved payment method.
-    
-4.  If you accept payments on Facebook, only do so in your app.
-    
-
-12\. App Center
----------------
-
-1.  Apps eligible for Facebook App Center must be games that use Facebook Login or games on Facebook.com.
-    
-2.  App Detail and Description:
-    
-    a. Ensure the app’s name and information are grammatically correct.
-    
-    b. Ensure the app’s language matches the App Center locale.
-    
-    c. Don't include URLs or use the Facebook brand.
-    
-    d. Don’t include keyword lists, excessive punctuation, or non-standard symbols.
-    
-3.  All Images:
-    
-    a. Use high quality, relevant images that reflect the app experience.
-    
-    b. Keep any image text concise. Don't obstruct images with text.
-    
-    c. Don’t include ads, URLs or gimmicks such as Play buttons.
-    
-4.  Icons:
-    
-    a. Use a transparent or colored background. If your icon requires a white background, use a colored border.
-    
-    b. If your logo has a drop shadow, use a colored background.
-    
-5.  Banners:
-    
-    a. Don’t include rounded edges or borders.
-    
-    b. Don’t include third party logos.
-    
-6.  Videos:
-    
-    a. Display the app's name.
-    
-    b. Clearly represent the purpose of the app and show accurate, relevant in-app experiences.
-    
-    c. Keep your video high-quality and high-resolution.
-    
-    d. Your video and its video cover image should be clear and recognizable. Don't include ads.
-    
-
-13\. Open Graph
----------------
-
-1.  Open Graph Custom Actions:
-    
-    a. Don’t recreate actions that are already supported.
-    
-    b. Write the action and object in a clear and simple way.
-    
-    c. Make sure the story is grammatically correct.
-    
-    d. Use English for your submission.
-    
-    e. Don’t indicate a person’s consumption, browsing, discovering, or viewing of content.
-    
-    f. Don’t indicate a person has installed, visited, or connected to your app.
-    
-2.  Read and Watch Actions:
-    
-    a. Publish actions only after a person has been on a page for more than 10 seconds.
-    
-    b. Allow people to remove stories published to Facebook on the same page where the content is hosted.
-    
-
-14\. Social Plugins
+9\. Indemnification
 -------------------
 
-1.  Don’t include or pair Platform Integrations with non-Facebook advertisements.
+In addition to and without limiting the scope of the “Indemnification” Section in our [Facebook Commercial Terms](https://www.facebook.com/legal/commercial_terms) if anyone brings a claim, cause of action, or dispute against the [Facebook Companies](https://www.facebook.com/help/111814505650678) related to your use of Platform, your Processing of Platform Data, Your Content, or your App, name or logo, products or services, or actions in connection with Platform, you will indemnify and hold the [Facebook Companies](https://www.facebook.com/help/111814505650678) harmless from and against all damages, losses, and expenses of any kind (including reasonable legal fees and costs) related to any such claim, cause of action, or dispute.
+
+10\. International Transfers
+----------------------------
+
+This section shall apply to the extent that your Processing of Platform Data includes personal data controlled by Facebook Ireland Limited (“Facebook Ireland Data”) and the transfer of such Facebook Ireland Data to a territory outside of the European Economic Area that does not have a positive adequacy decision from the European Commission under Article 25(6) of Directive 95/46/EC (each an “EEA Data Transfer”). In these cases you will comply with the following:
+
+*     
+    a. if you are relying on the EU-U.S. Privacy Shield (the “Privacy Shield”) and are certified under Privacy Shield to receive categories of data which include the Facebook Ireland Data, you will comply with the [Privacy Shield Principles](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.privacyshield.gov%2Farticle%3Fid%3DRequirements-of-Participation). If your Privacy Shield certification does not cover the EEA Data Transfer or you are unable to comply with the Privacy Shield principles (or your Privacy Shield certification in respect of the EEA Data Transfer should end), you will immediately notify us, stop your access to and use of Platform and Processing of Platform Data, and take reasonable and appropriate steps to fix any non-compliance; or
     
-2.  Don’t sell or purchase placement of social plugins or sharer.php.
+*     
+    b. if the EEA Data Transfer is not covered by Privacy Shield, then your use of Facebook Ireland Data is subject to the [Clauses](https://l.facebook.com/l.php?u=https%3A%2F%2Feur-lex.europa.eu%2Flegal-content%2FEN%2FTXT%2F%3Furi%3DCELEX%253A32004D0915). In these cases, Facebook Ireland Limited is the “data exporter” and you are the “data importer” as defined in the Clauses, and you select option (iii) of Clause II(h) and agree to the data processing principles of Annex A to the Clauses. For the purposes of Annex B to the Clauses, the following will apply:
     
-3.  Don’t participate in any “like” or “share” exchange programs.
-    
-4.  Don’t obscure or cover elements of social plugins.
-    
-5.  Additional policies for the Quotes Plugin:
-    
-    a. Don't prefill quotes with content a person didn’t select, even if the person can edit or remove the content before sharing.
-    
-    b. The quotes plugin is intended to help people select their own quote to share. Use the app-defined quotes parameter if you want to suggest quotes for people to share.
-    
-    c. If you use the app-defined quotes parameter, the suggested quote must not contain URLs, ads, third party branded content or any other promotional content of any kind.
-    
-    d. Game apps must not use the quotes plugin.
+    *     
+        i. “Data subjects” are people who visit, access, use, or otherwise interact with the App and the products and services of Facebook Ireland Limited;
+        
+    *     
+        ii. “Purpose of the transfer(s)” is the provision of the App and other products and services by you to Users pursuant to the applicable terms and conditions and privacy policy of you and/or your Client;
+        
+    *     
+        iii. “Categories of data” are Facebook Ireland Data, which includes profile information, photos and videos, location information, communications between Users, information about use of the App and other products and services, payment information, device information, information about visits to third-party websites or Apps that use a “like” or “comment” button or other service integration, information from third-party partners or the [Facebook Companies](https://www.facebook.com/help/111814505650678), or as otherwise set forth in the [Data Policy](https://www.facebook.com/about/privacy);
+        
+    *     
+        iv. “Recipients” are you and users of your App and other products and services;
+        
+    *     
+        v. “Sensitive data” is personal data about a person’s racial or ethnic origin, political opinions, religious or philosophical beliefs, trade-union membership, genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person’s sex life or sexual orientation, criminal convictions, or alleged commission of an offense; and
+        
+    *     
+        vi. “Contact points for data protection enquiries” are the representatives of Facebook Ireland Limited and you with responsibility for data privacy.
+        
     
 
-15\. Marketing API
-------------------
+11\. General
+------------
 
-1.  Basic and Standard Ads API access may be downgraded to Development access after 30 days of non-use.
+*     
+    a. In accordance with our [Terms of Service](https://www.facebook.com/legal/terms), you will not transfer any of your rights or obligations under these Terms to anyone else without our prior written consent. Transferring can include assignment, acquisition, merger, change of control, or other forms of transfer. Any unpermitted transfer will be considered null and void. For any permitted transfer, you can continue to Process Platform Data only for your App subject to these Terms and only after you re-submit your App and receive our approval through our App Review process.
     
-2.  Don't use the Ads API if you're an ad network or data broker.
+*     
+    b. You also must comply with all applicable laws and regulations (including the Children’s Online Privacy Protection Act (“COPPA”) and the Video Privacy Protection Act (“VPPA”)).
     
-3.  Don't promote content, services, or activities contrary to our competitive position, interests, or advertising philosophy.
+*     
+    c. If there is any conflict between these Terms and any other applicable online terms, the terms that are more restrictive on you and your App or more protective of us apply. If you have previously agreed to our Supplemental Terms for Extended Platform Products and/or our Technology Provider Amendment to Supplemental Terms for Extended Platform Products, these Terms hereby supersede and replace them.
     
-4.  Don't provide [Partner Category](https://developers.facebook.com/docs/marketing-api/targeting-specs) targeting options that differ from those offered by Facebook.
+*     
+    d. We reserve the right to amend these Terms at any time. Your continued use of or access to Platform after any such amendment will constitute your binding agreement to these Terms as amended.
     
-5.  Don’t combine multiple end-advertisers or their Facebook connections (i.e. Pages) in the same ad account.
+*     
+    e. We may change, suspend, or discontinue the availability of Platform at any time. In addition, we may impose limits on certain features and services or restrict your access to parts or all of our APIs or websites without notice or liability.
     
-6.  Free or trial versions of an ads API app:
+*     
+    f. If we elect to provide you with support or modifications for Platform, we may discontinue either at any time without notice to you.
     
-    a. Don’t allow more than 50 ad creations a day per customer.
+*     
+    g. We do not guarantee that Platform will always be free.
     
-    b. Require phone or email verification on new accounts.
+*     
+    h. We can issue a press release or otherwise make public statements or disclosures describing our relationship with you or your use of Platform.
     
-    c. Don’t allow affiliate networks to use your technology.
-    
-7.  Pricing transparency:
-    
-    a. Only charge fees for the use of your tools and managed services with a fixed fee or variable percentage of ad spend.
-    
-    b. Proactively disclose to end advertisers the amount that you spent on Facebook advertising, using Facebook metrics (e.g., CPC, CPM rate), separate from your fees.
-    
-    c. Disclose the amount you charged as fees on Facebook advertising.
-    
-    d. We may disclose fees or the amount you spent on Facebook advertising to your clients if they request it.
-    
-    e. We may require documentation from you to ensure your compliance with these terms.
-    
-    f. Don’t sell ads on a fixed CPM or CPC basis when using the Facebook advertising auction.
-    
-8.  Data Collection and Use:
-    
-    a. If you have Standard Ads API access and our prior written permission, you can place 1x1 pixel view tags on advertisements.
-    
-    b. Ensure that any data that is collected is anonymous.
-    
-    c. Only use data from an end-advertiser’s campaign to optimize or measure the performance of that end-advertiser’s Facebook campaign.
-    
-    d. Don’t use data to retarget on or off of Facebook.
-    
-    e. Don’t mix data obtained from us with advertising campaigns on different platforms (without our written permission).
-    
-    f. Don’t use data to build or augment any user profiles.
-    
-    g. Don’t use piggybacking or redirects.
-    
-    h. Don’t let people other than those acting on an end-advertiser’s behalf access Facebook ad statistics.
-    
-9.  Implement all bidding types including Optimized CPM.
-    
-10.  Custom Audiences:
-    
-    a. If you use custom audiences, comply with the [Custom Audience Terms](https://www.facebook.com/ads/manage/customaudiences/tos.php).
-    
-    b. Only use a client’s data when creating custom audiences on their behalf.
-    
-    c. Only use a Facebook User ID to create custom audiences when the person whose User ID is being used has logged into the client’s app and has given the necessary consent.
-    
-11.  Revoke an end-advertiser’s access to your app if we request it.
-    
-12.  Lead Ads:
-    
-    a. Only use a client's Lead Ads Data on behalf of that client.
-    
-    b. Don't combine Lead Ads Data from one client with Lead Ads Data from another client.
-    
-13.  Ensure that people agree to Facebook’s [Statement of Rights and Responsibilities](https://www.facebook.com/terms.php), including the [Advertising Policies](https://www.facebook.com/policies/ads/).
+*     
+    i. When these Terms have ended, all rights granted to you under these Terms will immediately stop and you will immediately stop using Platform. The following Sections will remain in effect after these Terms have ended: Section 2.b, Section 2.c, Section 3, Section 4, Section 5, Section 6, Section 7, Section 9, Section 10, Section 11, and Section 12.
     
 
-16\. Pages API
---------------
-
-1.  Don't charge a fee for creating, claiming, or managing a Page.
-    
-2.  Before enabling people to create a Page, first provide a means for them to claim an existing Place to prevent Page duplication.
-    
-3.  Ensure that people agree to Facebook’s [Statement of Rights and Responsibilities](https://www.facebook.com/terms.php), including the [Advertising Policies](https://www.facebook.com/policies/ads/).
-    
-4.  Don't create or claim a Page on behalf of people without their consent.
-    
-5.  Don't prevent people from gaining access to any Page you create or manage on their behalf.
-    
-6.  Don't disclose administrators of a Page to third parties without the administrator's consent.
-    
-
-17\. Messenger Platform
------------------------
-
-1.  Follow any instructions we include in our [technical documentation](https://developers.facebook.com/docs/messenger-platform/complete-guide).
-    
-2.  Ensure your App is stable and functions properly. Don’t return confusing or nonsensical messages to users or send generic error messages.
-    
-3.  User opt in, authentication, and opt-out:
-    
-    a. Don’t contact people in Messenger unless you, or the party to whom you are operating as a service provider, have the necessary consent to do so. To the extent that you rely on user authentication to obtain consent to initiate message threads, place any user authentication methods in a clear and conspicuous location, with an easy-to-understand label or textual description which accurately and unambiguously describes the nature of and result of using such authentication.
-    
-    b. Messenger opt-out: immediately respect all requests (either on Messenger or off) by people to block, discontinue, or otherwise opt out of your using Messenger to communicate with them.
-    
-4.  Messenger Plugins:
-    
-    a. Don't obscure, cover or hide elements of our plugins.
-    
-    b. Ensure the Checkbox plugin is placed in close proximity to the button (ex: “purchase”, “submit”, “confirm”) that a person must click on prior to you sending a MessengerCheckboxUserConfirmation event (i.e., don’t send the event until after a person clicks on the button or takes an equivalent affirmative action (ex: submit form)). Include an easy-to-understand label or textual description that accurately and unambiguously describes the result of using the Checkbox plugin. For example: “Connect to us on Messenger.” or “Receive receipts on Messenger."
-    
-5.  Service Providers:
-    
-    a. Ensure your agreements with entities do not conflict with, and that businesses agree to, Facebook’s [Terms of Service](https://www.facebook.com/terms), including these [Platform Policies](https://developers.facebook.com/policy).
-    
-    b. Ensure you have the authority to act as agent for the business to which you're providing a service, and that your use of our Platform is strictly for the benefit of that business.
-    
-    c. Don't facilitate or encourage any violations of our policies. For example, if you have received prior permission from us to provide a feature only to certain entities that have been approved to use a feature, ensure you don't provide that feature to other entities that have not been approved for that feature and do not attempt to provide similar functionality to entities that haven’t been approved for that feature.
-    
-6.  Your app should not receive excessive negative feedback. Apps that receive excessive, negative feedback, may be feature limited, paused, rate-limited or removed from the platform. Be sure your app insights reflect a positive experience.
-    
-7.  Maintain a Facebook Page that provides accurate customer support contact information, including your mailing address and one or more of the following: email address, web address, or telephone number.
-    
-8.  Messages and Data:
-    
-    1.  Acceptable message types:
-        
-        a. After people interact with your App: You may message people within 24 hours of a person's interaction with your Page or app (ex: messaging your app or interacting with a Messenger plugin on your website).
-        
-        b. Message [Tags](https://developers.facebook.com/docs/messenger-platform/send-messages/message-tags): Select message tags may be sent outside of the 24 hour period as described within our technical documentation. Monitor your block rate, to understand how people are responding to your messages. You may only use a message tag, template, quick reply or other structured message for its intended purpose as described within our [technical documentation](https://developers.facebook.com/docs/messenger-platform/introduction); don’t use message tags, templates, quick replies, or other structured messages for any purpose other than its intended purpose.
-        
-    2.  Unacceptable message types
-        
-        a. Pages or Apps may not facilitate person-to-person messaging, relays, or interactions that mask user identities from each other without giving individual users the ability to block other users within the messaging experience.
-        
-        b. Sending spam as defined in [Facebook Community Standards](https://www.facebook.com/communitystandards/spam) is not allowed. This includes behavior creating bots either manually or automatically, at very high frequencies; buying or selling feature privileges; facilitating or encouraging inauthentic behavior; failing to deliver promised experiences; directing users off of Facebook via deceptive or malicious URLs; and other substantially similar behavior designed to deceive or mislead users.
-        
-        c. Do not use Message Tags to send promotional content or other advertising, marketing, or solicitations including but not limited to the promotion of goods or services; to upsell; communicate new product announcements; request donations; send daily deals, coupons, discounts or sale announcements; to send polls or user questionnaires.
-        
-    3.  News Messaging:
-        
-        a. Only Pages that are registered and approved as News Publishers via the [News Publisher Registration Process](https://www.facebook.com/help/publisher/316333835842972) are eligible to use News Messaging (previously described as subscription-based messaging.) Other Pages including those that provide general updates from businesses, groups, interests, politicians or other entities with commercial, promotional, or political purposes are not eligible for News Messaging
-        
-        b. News Messaging from approved News Publishers should be used to deliver timely newsworthy updates to users. News Messaging may not include promotional content or other advertising, marketing, or solicitations including but not limited to the promotion of goods or services including news subscriptions; to upsell; communicate new product announcements; request donations; send daily deals, coupons, discounts or sale announcements; to send polls or user questionnaires.
-        
-    4.  Data: Don't use any data obtained from us about the people you reach in Messenger, other than the content of message threads, for any purpose other than as reasonably necessary to support the message types you elect to use.
-        
-    5.  Healthcare: Don't use Messenger to facilitate direct conversations between people and healthcare providers or to send or collect any patient data obtained from healthcare providers.
-        
-    6.  Disclosures: Ensure that you provide all necessary disclosures to people using Messenger, such as any disclosures needed to indicate the sponsored or advertising nature of content you send.
-        
-    7.  Offers and Payments:
-        
-        a. Don't share or ask people to share individual payment card, financial account numbers or other cardholder data within messages.
-        
-        b. Don't include links to sites off Messenger where payment information is collected, without our prior [permission](https://www.facebook.com/help/contact/919889051467941).
-        
-        c. If you have permission to offer or complete sales of goods or services within Messenger, adhere to the [Facebook Commerce Product Merchant Agreement](https://www.facebook.com/legal/commerce_product_merchant_agreement).
-        
-        d. Don't use Messenger Platform to sell digital goods.
-        
-9.  Things You Should Know:
-    
-    a. We may limit or remove your access to Messenger if you receive large amounts of negative feedback or violate our policies, as determined by us in our sole discretion.
-    
-
-18\. Live API
+12\. Glossary
 -------------
 
-1.  Ensure any pre-recorded content is clearly distinguishable from live content, and includes appropriate disclosures about being pre-recorded in the description or through graphics.
+*     
+    a. “App” means any technical integration with Platform or to which we have assigned an App identification number. Any code, APIs, SDKs, tools, plugins, bots, websites, applications, specifications, and other technology made available by you or on your behalf in connection with Platform is considered part of your App.
     
-2.  Don't use the API to publish looping videos; static, animated, or looping images; or to live-stream polls associated with unmoving or ambient broadcasts.
+*     
+    b. “Audit” means a review, inspection, or audit of your and your Service Providers’ IT Systems or Records.
     
-3.  If you enable people to publish Live Video to Facebook, remind them of their obligation to not include third party ads in their video content and to clearly distinguish any pre-recorded content from live content.
+*     
+    c. “Clauses” means the standard contractual clauses annexed to European Commission Decision 2004/915/EC.
     
-
-19\. Profile Expression Kit
----------------------------
-
-1.  Don’t include ads or commercial content, such as logos and watermarks, in profile photos or videos.
+*     
+    d. “Client” means the User of a Tech Provider’s App.
     
-2.  Don’t include slideshows in profile photos or videos.
+*     
+    e. “Developer” means the person or entity that creates or operates an App.
     
-3.  Don’t encourage people to upload profile photos or videos that they aren’t depicted in.
+*     
+    f. “Developer Docs” has the meaning given in Section 1.c (“Introduction”).
     
-4.  Only apps that have a primary purpose of creating and editing photos or videos may use the Profile Expression Kit.
+*     
+    g. “IT Systems” means information technology systems (real and virtual), networks, technologies, and facilities (including physical and remote access to data centers and cloud facilities) that Process Platform Data.
     
-
-20\. Camera Platform
---------------------
-
-1.  Don't make any changes to your effect after it has been approved. If you want to make any changes to your effect you must submit a new or improved effect for our review.
+*     
+    h. “Necessary Condition” means any of the following:
     
-2.  Ensure you comply with the [Camera Effects Platform Terms](https://www.facebook.com/legal/camera_effects_platform_terms) and [Camera Effects Platform Policies](https://www.facebook.com/legal/camera_effects_platform_policies).
+    *     
+        i. it is required by applicable law, rule, or regulation or otherwise required or requested by a court order or governmental authority;
+        
+    *     
+        ii. we suspect that you or your App have Processed Platform Data in violation of these Terms or other applicable terms or policies;
+        
+    *     
+        iii. you enter into a change of control transaction or transfer (or request to transfer) any of your rights or obligations under these Terms or other applicable terms or policies;
+        
+    *     
+        iv. we determine in our sole discretion it is necessary to ensure that you and your App have deleted Platform Data in accordance with these Terms and all other applicable terms and policies; or
+        
+    *     
+        v. we determine in our sole discretion it is necessary to ensure proper remediation of any non-compliance revealed by an Audit.
+        
     
-
-21\. CrowdTangle API
---------------------
-
-1.  Don't share your access credentials outside of your organization.
+*     
+    i. “Platform” means the set of APIs, SDKs, tools, plugins, code, technology, content, and services that enables others, including app developers and website operators, to develop functionality, retrieve data from Facebook and any other [Facebook Products](https://www.facebook.com/help/1561485474074139?ref=tos), or provide data to us.
     
-2.  We may limit or remove your access to the API if your memory, data, or CPU usage is excessive, as determined by us in our sole discretion.
+*     
+    j. “Platform Data” means any information, data, or other content you obtain from us, through Platform or through your App, whether directly or indirectly and whether before, on, or after the date you agree to these Terms, including data anonymized, aggregated, or derived from such data. Platform Data includes app tokens, page tokens, access tokens, app secrets, and user tokens.
     
-3.  Don't have front-end widgets call our API directly. Front-end widgets should use cached data collected through the API.
+*     
+    k. “Process” means any operation or set of operations performed on data or sets of data, whether or not by automated means, including use, collection, storage, sharing, or transmission.
     
-4.  Don't use data to build or augment any user profiles.
+*     
+    l. “Prohibited Practices” has the meaning given in Section 3.a (“Prohibited Practices”).
     
-5.  Display the CrowdTangle logo in any integration and note CrowdTangle in any public facing description or announcement of the integration.
+*     
+    m. Records” mean books, agreements, access logs, third-party reports, policies, processes, and other records regarding the Processing of Platform Data.
     
-
-22\. Jobs Platform
-------------------
-
-1.  Follow any instructions we include in our [Jobs API](https://developers.facebook.com/docs/pages/jobs-xml) and [Jobs XML Feed](https://developers.facebook.com/docs/pages/jobs-xml) technical documentation.
+*     
+    n. “Restricted Platform Data” means Platform Data that (i) reasonably can be used to identify a particular User or device; (ii) is accessed using the permissions listed [here](https://developers.facebook.com/terms/12n/); or (iii) we otherwise designate as Restricted. Notwithstanding the foregoing, Restricted Platform Data does not include data that can be accessed using the permissions listed [here](https://developers.facebook.com/terms/12n/).
     
-2.  Comply with these [Platform Policy](https://developers.facebook.com/policy), with particular attention to the Tech Provider section of these policies.
+*     
+    o. “SDKs” means any object code, source code, or documentation you receive from us that helps you create Apps or content for use with the Platform.
     
-3.  Ensure that job listings and your use of the Jobs Platform (including your use of data received via a job listing) comply with our [Pages, Groups, and Events Policies](https://www.facebook.com/policies/pages_groups_events/#), with particular attention to the Jobs on Pages section of these policies.
+*     
+    p. “Service Provider” means an entity you use to provide you services in connection with Platform or any Platform Data.
     
-4.  If your App displays job applications obtained from Facebook, ensure you display “Applied on Facebook” in connection with such job applications.
+*     
+    q. “Tech Provider” means a Developer of an App whose primary purpose is to enable Users thereof to access and use Platform or Platform Data.
     
-
-23\. PSID API
--------------
-
-1.  Follow any instructions we include in our [technical documentation](https://developers.facebook.com/docs/pages/access-tokens/psid-api).
+*     
+    r. “Third-Party Auditors” has the meaning given in Section 7.b (“Regular Monitoring”).
     
-2.  Only use the PSID API to map your ASIDs to the applicable PSIDs for each Page that has granted your app page permissions.
+*     
+    s. “User” means the end user of an App (whether a person or an entity).
     
-3.  Maintain each Page's PSIDs separately.
-    
-4.  Map all of your ASIDs to PSIDs within 180 days after you complete App Review. Stop using and delete your ASIDs after mapping (and no later than the 180 days).
-    
-5.  Don't map or use PSIDs across multiple Pages.
-    
-6.  Don't disclose a Page's PSIDs to another Page.
-    
-
-24\. Marketplace Platform
--------------------------
-
-1.  Follow any instructions we include in our [technical documentation](https://developers.facebook.com/docs/marketplace).
-    
-2.  Comply with the [Facebook Platform Policy](https://developers.facebook.com/policy), with particular attention to the Tech Provider section of these policies.
-    
-3.  Tech Providers: To the extent you are using the Marketplace Platform to enable your customers to access and use Marketplace Platform functionality, you will ensure that your customer agrees to and complies with our [Facebook Commerce Product Merchant Agreement](https://www.facebook.com/legal/commerce_product_merchant_agreement).
-    
-4.  Direct Users: For all use of the Marketplace Platform other than as a Tech Provider (which is covered by 3 above), you agree to our [Facebook Commerce Product Merchant Agreement](https://www.facebook.com/legal/commerce_product_merchant_agreement).
-    
-5.  If you engage in business activity that is covered by industry regulations, including in connection with your use of the Marketplace Platform, you acknowledge and agree that we are not engaged in any such activity and are not responsible for your obligations under such regulations.
-    
-6.  You will use commercially reasonable efforts to obtain conversion data requested by us for leads driven from your use of Marketplace Platform (Ex: Whether such leads result in a scheduled appointment or sale, lease or rental), and will provide any such data that you obtain to us on a daily basis. You hereby grant, and agree you have the right to grant, us and our affiliates a perpetual non-exclusive right to use and exploit such data for any purpose, without any right to compensation from us.
-    
-7.  Marketplace Lead Data: Don't use or transfer to a third party (except to your merchant providing the listing) any data you access via the Marketplace Platform lead form features or Lead Generation API or Business Manager (or any successor APIs or technology) except to contact the applicable user about the specific listing for which the data was provided. If you transfer the data to your merchant customer for the purpose above, you do so solely at your own risk and must ensure that such merchant complies with these terms and all applicable laws, rules and regulations.
-    
-
-25\. Commerce Platform
-----------------------
-
-1.  Follow any instructions we include in our technical documentation [here](https://developers.facebook.com/docs/commerce-platform).
-    
-2.  Comply with the [Facebook Platform Policy](https://developers.facebook.com/policy), with particular attention to the Tech Provider section of these policies.
-    
-3.  Tech Providers: To the extent you are using the Commerce Platform to enable your customers to access and use Commerce Platform functionality, you will ensure that your customer agrees to and complies with our [Facebook Commerce Product Merchant Agreement](https://www.facebook.com/legal/commerce_product_merchant_agreement).
-    
-4.  Direct Users: For all use of the Commerce Platform other than as a Tech Provider (which is covered by 3 above), you agree to our [Facebook Commerce Product Merchant Agreement](https://www.facebook.com/legal/commerce_product_merchant_agreement).
-    
-5.  We may, in our sole discretion, make available to you certain checkout features that allow users of the Facebook Services and/or Instagram Services to initiate payments to you. To the extent we make such features available to you, you agree to implement such features with your use of the Commerce Platform and comply with the applicable provisions in the [Facebook Commerce Product Merchant Agreement](https://www.facebook.com/legal/commerce_product_merchant_agreement) and the technical documentation [here](https://developers.facebook.com/docs/marketplace/commerce-platform) and [here](https://developers.facebook.com/docs/pages/shops-api).
-    
-6.  Provide users who use the Commerce Platform with the same level of support and service that you provide to users who do not use it, and at a minimum no less than industry standard or per your standard terms and conditions.
-    
-7.  Ensure you distribute our plugins that use the Commerce Platform only under our [terms](https://www.facebook.com/legal/commerce_product_merchant_agreement) and not your own terms and policies. Don't obscure or cover elements of our plugins.
-    
-
-Definitions
------------
-
-1.  “App” means any technical integration we have assigned an app identification number.
-    
-2.  "Account Information" consists of: name, email, gender, birthday, current city and profile picture URL.
-    
-3.  "Marketing API" includes all Graph APIs related to advertising, and all Real Time APIs related to advertising, including but not limited to: all Lead Ads Data coming through the Graph API or Real Time Updates.
-    
-4.  “User data” means any data, including a person's content or information (whether personally identifiable or anonymous) that you or third parties obtain from or through Facebook.
-    
-5.  "SDK" means any object code, source code, or documentation you receive from us that helps you create apps or content for use with the Facebook Platform.
-    
-6.  "Tech Provider" means an entity accessing or using any aspect of Platform to enable the entity's customers to access and use Platform functionality and/or user data.
-    
-7.  By "Facebook" or "Facebook Services" we mean the features and services we make available, including through (a) our website at www.facebook.com and any other Facebook branded or co-branded websites (including sub-domains, international versions, widgets, and mobile versions); (b) our Platform; (c) social plugins such as the Like button, the Share button and other similar offerings; and (d) other media, brands, products, services, software (such as a toolbar), devices, or networks now existing or later developed. Facebook reserves the right to designate, in its sole discretion, that certain of our brands, products, or services are governed by separate terms and not [our SRR](https://www.facebook.com/legal/terms).
+*     
+    t. “Your Content” has the meaning given in Section 2.b (“Your License to Us”).
