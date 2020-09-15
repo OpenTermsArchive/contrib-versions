@@ -20,14 +20,13 @@
 
 *   Rosh Hashanah
 *   Autumn
-*   Chocolate Day
-*   Grandparents Day
-*   Positive Thinking Day
+*   Thank You Day
+*   Flower Week
+*   Kiss Day
+*   Angel Week
 *   More...
-    *   Thank You Day (Sep 15, 2020)
-    *   Flower Week (Sep 20 - 26, 2020)
-    *   Kiss Day (Sep 24, 2020)
-    *   Angel Week (Sep 24 - 28, 2020)
+    *   Yom Kippur (Sep 27 - 28, 2020)
+    *   All Angels Day (Sep 29, 2020)
     *   September Flowers (September 2020)
     *   Love Note Day (Sep 26, 2020)
     *   Honey Month (September 2020)
@@ -35,6 +34,7 @@
     *   Women's Friendship Day (Sep 20, 2020)
     *   International Peace Day (Sep 21, 2020)
     *   World Tourism Day (Sep 27, 2020)
+    *   World Heart Day (Sep 29, 2020)
     *   See All Events
 *   Go
 
