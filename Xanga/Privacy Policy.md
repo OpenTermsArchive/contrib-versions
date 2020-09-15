@@ -1,16 +1,28 @@
-Skip to toolbar
-
-*   Xanga
-
-*   Log In
-
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   missing my blogs
+    *   by jolinglee
+    *   2 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   missing my blogs
+    *   by jolinglee
+    *   2 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   missing my blogs
+    *   by jolinglee
+    *   2 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Retrieving old posts
     *   by poodle\_slayer
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -43,19 +55,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Pictures
     *   0 votes
-    *   1 (last comment by speedrahman 3 weeks ago)
+    *   1 (last comment by speedrahman 4 weeks ago)
 *   Can I get my blog back?
     *   by sum\_0912
     *   4 years ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by speedrahman 3 weeks ago)
+    *   3 (last comment by speedrahman 4 weeks ago)
 *   My profile photo is too small.
     *   \[Resolved\] by sfiawong
     *   5 years ago
     *   in Avatars
     *   0 votes
-    *   2 (last comment by speedrahman 3 weeks ago)
+    *   2 (last comment by speedrahman 4 weeks ago)
 *   Missing anything
     *   by yuenyuen0225
     *   1 month ago
@@ -77,24 +89,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 *   missing my blog
     *   by hsbj
     *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Missing my Blog
-    *   by vi\_\_an
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   Old Xanga archived?
-    *   by yourmomisreallyfreakinhott
-    *   3 months ago
-    *   in Data Migration
-    *   0 votes
-    *   5 (last comment by HrsCrazy425 1 month ago)
-*   Missing my blogs
-    *   by Dantheman3121
-    *   2 months ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -156,4 +150,8 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
+
+*   Xanga
+
+*   Log In
