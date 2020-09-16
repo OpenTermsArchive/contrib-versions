@@ -4,25 +4,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   missing my blogs
     *   by jolinglee
-    *   2 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   missing my blogs
     *   by jolinglee
-    *   2 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   missing my blogs
     *   by jolinglee
-    *   2 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieving old posts
     *   by poodle\_slayer
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -40,7 +40,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Why wouldn't you guys relive Xanga? People will pay
     *   by alexchu414
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Comments
     *   0 votes
     *   0
