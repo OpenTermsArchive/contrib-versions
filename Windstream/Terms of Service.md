@@ -5,13 +5,16 @@
 *   Business
 *   |
 *   Enterprise
+*   |
+*   Wholesale
 
 *   Denver, CO
-*   Sign In
-    *   Referral
-    *   Movers
-    *   Check My Emails
+*   My Account
+    *   Account Overview
     *   View or Pay Bill
+    *   Refer a Friend
+    *   Move My Service
+    *   Check My Emails
     *   Sign Out
 
 *   Manage My Account
@@ -33,7 +36,7 @@ _close_
 *   Community
 *   Support
 *   Contact Us
-*   Sign-In_keyboard\_arrow\_right_
+*   My Account_keyboard\_arrow\_right_
 *   Go To My Account _keyboard\_arrow\_right_
 *   Denver, CO
     
@@ -60,11 +63,11 @@ _close_
 
 *   _keyboard\_arrow\_right_ Back
 *   Hello Jane!
-*   Manage My Account
-*   Referral
-*   Movers
-*   View or Pay My Bill
-*   Check My Email
+*   Account Overview
+*   View or Pay Bill
+*   Refer a Friend
+*   Move My Service
+*   Check My Emails
 *   Sign Out
 
 Call now to order 1-866-445-8084
@@ -72,11 +75,12 @@ Call now to order 1-866-445-8084
 _close_
 
 *   _keyboard\_arrow\_right_ Back
-*   Referral
-*   Movers
-*   Check My Emails
+*   Account Overview
 *   View or Pay Bill
-*   Sign In
+*   Refer a Friend
+*   Move My Service
+*   Check My Emails
+*   My Account
 
 Call now to order (866) 445-8084
 
@@ -645,7 +649,7 @@ Enter your address to review products and pricing available in your area.
 
 See Products &. Pricing
 
-Already a customer? Sign In
+Already a customer? My Account
 
 See what Kinetic products are available to you.
 
@@ -653,7 +657,7 @@ Enter your address to review products and pricing available in your area.
 
 State ALARAZFLGAIAKSKYMIMNMOMSNCNENMNYOHOKPASCTX Check Availability
 
-Already a customer? Sign In
+Already a customer? My Account
 
   
 Or call to order 1-866-445-80841-866-445-8084 or Chat Now No Chat Available .
@@ -698,6 +702,7 @@ _keyboard\_arrow\_right_ RESOURCES
 *   Windstream.net
 *   Move My Service
 *   Referral Program
+*   MyWIN
 
 _keyboard\_arrow\_right_ COMPANY
 
@@ -715,6 +720,7 @@ _keyboard\_arrow\_right_ WINDSTREAM
 *   Residential
 *   Business
 *   Enterprise
+*   Wholesale
 
 _keyboard\_arrow\_right_ CONTACT US
 
@@ -726,4 +732,4 @@ _keyboard\_arrow\_right_ CONTACT US
 *   Call now to order 1-866-445-8084
 *   Contact Us
 
-© 2020 Windstream Communications. All rights reserved. Privacy Policy   |   Terms &. Conditions   |   Legal Notices BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1819151935020592&amp;ev=PageView&amp;noscript=1" alt="">. <img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?event=init&amp;tid=2614049117219&amp;pd\[em\]=&lt;hashed\_email\_address&gt;&amp;noscript=1">.
+© 2020 Windstream Communications. All rights reserved. Privacy Policy   |   Terms &. Conditions   |   Legal Notices BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1819151935020592&amp;ev=PageView&amp;noscript=1" alt="">. <img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?event=init&amp;tid=2614049117219&amp;pd\[em\]=&lt;hashed\_email\_address&gt;&amp;noscript=1">.
