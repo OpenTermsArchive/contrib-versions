@@ -4,25 +4,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   missing my blogs
     *   by jolinglee
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   missing my blogs
     *   by jolinglee
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   missing my blogs
     *   by jolinglee
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieving old posts
     *   by poodle\_slayer
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -31,7 +31,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   6 years ago
     *   in Data Migration
     *   0 votes
-    *   15 (last comment by backnblack08 1 week ago)
+    *   15 (last comment by backnblack08 2 weeks ago)
 *   How do I retrieve my old entries?
     *   by mungbeanminh
     *   2 weeks ago
@@ -49,25 +49,25 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   4 months ago
     *   in Themes
     *   0 votes
-    *   3 (last comment by speedrahman 3 weeks ago)
+    *   3 (last comment by speedrahman 4 weeks ago)
 *   Retrieve old photos
     *   by twinklingstar\_yin
     *   1 year ago
     *   in Pictures
     *   0 votes
-    *   1 (last comment by speedrahman 4 weeks ago)
+    *   1 (last comment by speedrahman 1 month ago)
 *   Can I get my blog back?
     *   by sum\_0912
     *   4 years ago
     *   in Data Migration
     *   0 votes
-    *   3 (last comment by speedrahman 4 weeks ago)
+    *   3 (last comment by speedrahman 1 month ago)
 *   My profile photo is too small.
     *   \[Resolved\] by sfiawong
     *   5 years ago
     *   in Avatars
     *   0 votes
-    *   2 (last comment by speedrahman 4 weeks ago)
+    *   2 (last comment by speedrahman 1 month ago)
 *   Missing anything
     *   by yuenyuen0225
     *   1 month ago
