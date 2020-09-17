@@ -698,6 +698,30 @@ Privacy statement update: 9/19/17
 
 For language services, please call the number on your member ID card and request an operator. For other language services: Español | 中文 | Tiếng Việt |한국어 |Tagalog | Pусский | العربية | Kreyòl | Français | Polski | Português | Italiano |Deutsch |日本語 |فارسی | Other languages ...
 
+You are now being directed to the AMA site
+
+Links to various non-Aetna sites are provided for your convenience only. Aetna Inc. and its subsidiary companies are not responsible or liable for the content, accuracy or privacy practices of linked sites, or for products or services described on these sites.
+
+Read more Read less   Continue
+
+You are now being directed to the Give an Hour site
+
+Links to various non-Aetna sites are provided for your convenience only. Aetna Inc. and its subsidiary companies are not responsible or liable for the content, accuracy or privacy practices of linked sites, or for products or services described on these sites.
+
+Read more Read less   Continue
+
+You are now being directed to the CVS Pharmacy site
+
+Links to various non-Aetna sites are provided for your convenience only. Aetna Inc. and its subsidiary companies are not responsible or liable for the content, accuracy or privacy practices of linked sites, or for products or services described on these sites.
+
+Read more Read less   Continue
+
+You are now being directed to the CDC site
+
+Links to various non-Aetna sites are provided for your convenience only. Aetna Inc. and its subsidiary companies are not responsible or liable for the content, accuracy or privacy practices of linked sites, or for products or services described on these sites.
+
+Read more Read less   Continue
+
 You are now being directed to the CVS Health site
 
 Links to various non-Aetna sites are provided for your convenience only. Aetna Inc. and its subsidiary companies are not responsible or liable for the content, accuracy, or privacy practices of linked sites, or for products or services described on these sites.
@@ -750,4 +774,4 @@ Message and data rates may apply\*
 
 Thanks! You’ll get a text from us soon with a link to download the Aetna Health app
 
-MOBILE NUMBER ex: 12345678900
+MOBILE NUMBER ex: 19876543210
