@@ -2,27 +2,33 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Please help to reactivate let me can see old posts
+    *   by natalie6791
+    *   1 year ago
+    *   in Themes
+    *   0 votes
+    *   3 (last comment by omesu214513 52 minutes ago)
 *   missing my blogs
     *   by jolinglee
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   missing my blogs
     *   by jolinglee
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   missing my blogs
     *   by jolinglee
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Retrieving old posts
     *   by poodle\_slayer
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -86,12 +92,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Themes
     *   0 votes
     *   4 (last comment by CityLightsShineForUs 1 month ago)
-*   missing my blog
-    *   by hsbj
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
 1 2 3 ... 198 Next
 
