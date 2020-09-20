@@ -7,22 +7,22 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Themes
     *   0 votes
-    *   3 (last comment by omesu214513 1 day ago)
+    *   3 (last comment by omesu214513 2 days ago)
 *   missing my blogs
     *   by jolinglee
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   missing my blogs
     *   by jolinglee
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   missing my blogs
     *   by jolinglee
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -40,7 +40,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   15 (last comment by backnblack08 2 weeks ago)
 *   How do I retrieve my old entries?
     *   by mungbeanminh
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
