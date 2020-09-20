@@ -662,7 +662,7 @@ Already a customer? My Account
   
 Or call to order 1-866-445-80841-866-445-8084 or Chat Now No Chat Available .
 
-Chat Now No Chat Available We still canï¿½t find your address. Contact us to see if youï¿½re in our service area.
+Need help? Call 1-866-445-8084 Chat Now No Chat Available We still canï¿½t find your address. Contact us to see if youï¿½re in our service area.
 
 Contact us now to find out if you're located in one of our service areas.
 
@@ -732,4 +732,4 @@ _keyboard\_arrow\_right_ CONTACT US
 *   Call now to order 1-866-445-8084
 *   Contact Us
 
-© 2020 Windstream Communications. All rights reserved. Privacy Policy   |   Terms &. Conditions   |   Legal Notices BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1819151935020592&amp;ev=PageView&amp;noscript=1" alt="">. <img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?event=init&amp;tid=2614049117219&amp;pd\[em\]=&lt;hashed\_email\_address&gt;&amp;noscript=1">.
+© 2020 Windstream Communications. All rights reserved. Privacy Policy   |   Terms &. Conditions   |   Legal Notices BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1819151935020592&amp;ev=PageView&amp;noscript=1" alt="">. <img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?event=init&amp;tid=2614049117219&amp;pd\[em\]=&lt;hashed\_email\_address&gt;&amp;noscript=1">.
