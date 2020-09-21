@@ -29,12 +29,12 @@
     *   All Angels Day (Sep 29, 2020)
     *   September Flowers (September 2020)
     *   Love Note Day (Sep 26, 2020)
-    *   Intl. Talk Like a Pirate Day (Sep 19, 2020)
     *   Women's Friendship Day (Sep 20, 2020)
     *   International Peace Day (Sep 21, 2020)
     *   World Tourism Day (Sep 27, 2020)
     *   National Coffee Day (Sep 29, 2020)
     *   World Heart Day (Sep 29, 2020)
+    *   Ask a Stupid Question Day (Sep 30, 2020)
     *   See All Events
 *   Go
 
