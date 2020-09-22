@@ -1,10 +1,3 @@
-Privacy Policy, Community Rules, and Terms of Service
-=====================================================
-
-_This policy has been updated and is effective as of May 25, 2018. The previous version may be found [here](https://www.librarything.com/privacy_20180524.php)._
-
-These terms apply to users of LibraryThing.com, and its associated domains, such as LibraryThing.nl and LibraryThing.es. They also apply to TinyCat (LibraryCat.org).
-
 Terms of Service
 ----------------
 
@@ -229,5 +222,3 @@ Members can also pay for LibraryThing services with checks or money orders. We k
 Despite our efforts, no security measure can be absolute, and there can be no guarantee that Your personal information will not be accessed through malicious means, inadvertent disclosure, or mistake.
 
 In the case of a breach of data, as defined in the GDPR, we will notify affected members within 72 hours of our discovery, describing the breach in all appropriate detail, along with our mitigation actions.
-
-![](https://pics.cdn.librarything.com/pics/madewithamac.gif)  ![](https://pics.cdn.librarything.com/pics/mwbbedit.gif)  ![](https://pics.cdn.librarything.com/pics/lapsang.gif)
