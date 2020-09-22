@@ -54,7 +54,7 @@ We are committed to offering you meaningful privacy choices. You have a number o
 *   If you do not want Twitter to show you interest-based ads on and off of Twitter, there are several ways to turn off this feature:  
     *   Using your Twitter settings, visit the **Personalization and data** settings and adjust the setting **Personalize ads**.
     *   If you are on the web, you can visit the Digital Advertising Alliance’s consumer choice tool at [optout.aboutads.info](http://optout.aboutads.info/#/) to opt out of seeing interest-based advertising from Twitter in your current browser.
-    *   If you do not want Twitter to show you interest-based ads in Twitter for iOS on your current mobile device, enable the “Limit Ad Tracking” setting in your iOS phone’s settings. 
+    *   On iOS 13 and earlier only, if you do not want Twitter to show you interest-based ads in Twitter for iOS on your current mobile device, enable the “Limit Ad Tracking” setting in your iOS phone’s settings. 
     *   If you do not want Twitter to show you interest-based ads in Twitter for Android on your current mobile device, enable “Opt out of Ads Personalization” in your Android phone’s settings.
 *   To control [personalization across devices](https://help.twitter.com/en/about-personalization-across-your-devices) on Twitter, visit your **Personalization and data** settings and adjust the **Personalize across all your devices** setting. This will control whether we link your account to browsers or devices other than the ones you use to log into Twitter (or if you’re logged out, whether we link the browser or device you’re currently using to any other browsers or devices).  
     
