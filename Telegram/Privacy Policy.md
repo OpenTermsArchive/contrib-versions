@@ -226,4 +226,29 @@ Messages in Secret Chats can be ordered to [self-destruct](https://telegram.org/
 
 #### [](#10-4-account-self-destruction)10.4. Account Self-Destruction
 
-By default, if you stop using Telegram and do not come online for at least 6 months, your account will be deleted along with all messages, media, contacts and every other piece of data you store in the Telegram cloud. You can go to Settings to change the exact period after which you
+By default, if you stop using Telegram and do not come online for at least 6 months, your account will be deleted along with all messages, media, contacts and every other piece of data you store in the Telegram cloud. You can go to Settings to change the exact period after which your inactive account will self-destruct.
+
+### [](#11-changes-to-this-privacy-policy)11\. Changes to this Privacy Policy
+
+We will review and may update this Privacy Policy from time to time. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on this page **[www.telegram.org/privacy](https://telegram.org/privacy)**. Please check our website frequently to see any updates or changes to our Privacy Policy, a summary of which we will set out below.
+
+**March 25, 2019**
+
+*   Expanded \[10.2. Deleting Messages\] with data on the new features in [version 5.5](https://telegram.org/blog/unsend-privacy-emoji), which allow both participants to remove any messages from one-on-one chats for both sides without a time limit.
+
+Important changes made to this Privacy Policy will be notified to you via Telegram.
+
+### [](#12-questions-and-concerns)12\. Questions and concerns
+
+If you have any questions about privacy and our data policies, please contact our [@GDPRbot](https://t.me/gdprbot). Use the _/access_ command to learn how to get a copy of your Telegram data and use the _/contact_ command to leave a request, which we will answer at the earliest opportunity.
+
+Telegram is an open source project. You can examine more information on our:
+
+*   API at: [](https://core.telegram.org/api)[https://core.telegram.org/api](https://core.telegram.org/api);
+*   Bot Platform at: [](https://core.telegram.org/bots)[https://core.telegram.org/bots](https://core.telegram.org/bots);
+*   Protocol at: [](https://core.telegram.org/mtproto)[https://core.telegram.org/mtproto](https://core.telegram.org/mtproto); and
+*   Source Code at: [](https://telegram.org/apps#source-code)[https://telegram.org/apps#source-code](https://telegram.org/apps#source-code).
+
+* * *
+
+_This policy has been expanded on August 14, 2018 to add information required by the EU data protection law._
