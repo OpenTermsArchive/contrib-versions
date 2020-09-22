@@ -1,28 +1,40 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   missing my blogs
+    *   by rekei
+    *   19 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   Please help to reactivate let me can see old posts
     *   by natalie6791
     *   1 year ago
     *   in Themes
     *   0 votes
-    *   3 (last comment by omesu214513 3 days ago)
+    *   3 (last comment by omesu214513 4 days ago)
 *   missing my blogs
     *   by jolinglee
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   missing my blogs
     *   by jolinglee
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
 *   missing my blogs
     *   by jolinglee
-    *   6 days ago
+    *   1 week ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -86,12 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   0
-*   I lost my blog and everything
-    *   by Y\_I\_U\_Y\_I\_U
-    *   1 year ago
-    *   in Themes
-    *   0 votes
-    *   4 (last comment by CityLightsShineForUs 1 month ago)
 
 1 2 3 ... 198 Next
 
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
