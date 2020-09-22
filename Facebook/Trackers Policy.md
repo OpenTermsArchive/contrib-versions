@@ -104,17 +104,17 @@ If you have a Facebook account:
 
 Everyone:
 
-You can opt out of seeing online interest-based ads from Facebook and other participating companies through the [Digital Advertising Alliance](http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.aboutads.info%2Fchoices%2F) in the US, the [Digital Advertising Alliance of Canada](http://l.facebook.com/l.php?u=http%3A%2F%2Fyouradchoices.ca%2F) in Canada or the [European Interactive Digital Advertising Alliance](http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.youronlinechoices.eu%2F) in Europe or through your mobile device settings. Please note that ad blockers and tools that restrict our cookie use may interfere with these controls.
+You can opt out of seeing online interest-based ads from Facebook and other participating companies through the [Digital Advertising Alliance](http://www.aboutads.info/choices/) in the US, the [Digital Advertising Alliance of Canada](http://youradchoices.ca/) in Canada or the [European Interactive Digital Advertising Alliance](http://www.youronlinechoices.eu/) in Europe or through your mobile device settings. Please note that ad blockers and tools that restrict our cookie use may interfere with these controls.
 
 More information about online advertising:
 
 The advertising companies we work with generally use cookies and similar technologies as part of their services. To learn more about how advertisers generally use cookies and the choices they offer, you can review the following resources:  
 
-*   [Digital Advertising Alliance](http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.aboutads.info%2Fchoices%2F)
+*   [Digital Advertising Alliance](http://www.aboutads.info/choices/)
     
-*   [Digital Advertising Alliance of Canada](http://l.facebook.com/l.php?u=http%3A%2F%2Fyouradchoices.ca%2F)
+*   [Digital Advertising Alliance of Canada](http://youradchoices.ca/)
     
-*   [European Interactive Digital Advertising Alliance](http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.youronlinechoices.eu%2F)
+*   [European Interactive Digital Advertising Alliance](http://www.youronlinechoices.eu/)
     
 
 Browser cookie controls:
