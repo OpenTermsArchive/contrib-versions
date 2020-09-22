@@ -547,3 +547,22 @@ As part of providing these features, Microsoft collects usage data about your co
 **Skype bots**. Bots are programmes offered by Microsoft or third parties that can do many useful things like search for news, play games, and more. Depending on their capabilities, bots may have access to your display name, Skype ID, country, region, language, and any messages, audio, video, or content that you share with the bot. Please review the bot profile and its privacy statement before engaging in a one-to-one or group conversation with a bot. You can delete a bot that you no longer wish to engage with. Prior to adding a bot to a group, please ensure that your group participants have consented to their information being shared with the bot.
 
 **Captioning**. Certain Skype features include accessibility functionality such as captioning. During Skype calls, a call participant can activate a voice-to-text feature, which allows the user to view the audio chat as text. If a user activates this feature, other call participants will not receive a notification. Microsoft uses this voice and text data to provide captioning of audio for users.
+
+Surface Duo
+
+The Surface Duo is a device featuring two screens that fits in your pocket for productivity on the go. Powered by the Google Android operating system, Surface Duo supports mobile and Wi-Fi connectivity and can be used for email, internet browsing, games, and business connectivity.
+
+Microsoft provides a core Surface Duo experience that runs on the Android operating system. The core Surface Duo experience includes apps such as the Microsoft Launcher, Setup Wizard, and Your Phone Companion. You can sign in with a Google ID and enable various Google services; you can then also sign in with your Microsoft account (MSA) and enable Microsoft’s services. Microsoft apps and services may rely on information provided by Google. Some features, such as location, require that you enable this functionality for Google and separately allow Microsoft to leverage this information.
+
+**Diagnostic data**. Surface Duo collects diagnostic data to solve problems and to keep the core Surface Duo experience up to date, secure, and operating properly. This data also helps us improve Surface Duo and related Microsoft products and services. The data does not include your username, email address, or the content of your files. There are two levels of diagnostic data: Required diagnostic data and Optional diagnostic data.
+
+*   **Required**. The minimum data necessary to help keep the core Surface Duo experience secure, up to date, and performing as expected.
+*   **Optional**. Additional data that helps us make product improvements and provides enhanced information to help Microsoft detect, diagnose, and remediate issues.
+
+[Learn more in Surface Duo Privacy Settings](https://go.microsoft.com/fwlink/?linkid=2127938).
+
+**Surface Duo location settings**. Surface Duo relies on Google location services to determine the device’s precise geographic location to display the local weather. The location of your Surface Duo can be determined with varying degrees of accuracy and may in some cases be determined precisely. If you want Microsoft apps to be able to reference or display weather or other location related information, you need to enable Google location services and Microsoft location access. Some apps may require these settings be enabled independently for the app and can be set or changed in the Surface Duo’s Settings. The [Google Privacy Policy](https://go.microsoft.com/fwlink/?linkid=2130411) provides details about Google’s location service and related data privacy practices. See [Surface Duo Location Settings](https://go.microsoft.com/fwlink/?linkid=2128004) for more information.
+
+**Microsoft apps included with the Surface Duo**. The diagnostic data options for the core Surface Duo experience are configured when you initially set up your Surface Duo and can be changed in the Surface Duo’s Settings under the Diagnostic Data section.
+
+The other Microsoft apps on your Surface Duo may prompt you to enable functionality to enable the full experience of the app or you may be asked to allow optional diagnostic data collection. You can change the settings for these apps in the Surface Duo Settings under the app name. More information about these apps is available in the [Productivity and communications products](#mainprodcommproductsmodule) and [Search, Microsoft Edge, and artificial intelligence](#mainsearchaimodule) sections of this Privacy Statement.
