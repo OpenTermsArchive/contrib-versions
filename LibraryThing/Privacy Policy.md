@@ -1,10 +1,3 @@
-Privacy Policy, Community Rules, and Terms of Service
-=====================================================
-
-_This policy has been updated and is effective as of May 25, 2018. The previous version may be found [here](https://www.librarything.com/privacy_20180524.php)._
-
-These terms apply to users of LibraryThing.com, and its associated domains, such as LibraryThing.nl and LibraryThing.es. They also apply to TinyCat (LibraryCat.org).
-
 Privacy Policy
 --------------
 
@@ -109,5 +102,3 @@ LibraryThing does not store any information for Facebook and Twitter except the 
 These terms and conditions are subject to the usual change-at-any-time rule that websites put on their terms and conditions and which seem so unfair. ("What, I have to submit a DNA sample?") We have edited them as new situations have come up, but we promise not to change any of the core principles, particularly with regard to sale of information, copyright and death rays. We promise to make all changes openly, with tracking and with the opportunity for users to withdraw their accounts.
 
 BY USING LIBRARYTHING.COM DIRECTLY OR THROUGH A MEDIUM LIKE A COMPUTER WITH A KEYBOARD AND MAYBE A MOUSE ATTACHED YOU AGREE TO TAKE THESE IMPORTANT AND CONSEQUENTIAL TERMS OF USE SERIOUSLY EVEN THOUGH, OR EVEN BECAUSE, WE HAVE ONLY ONE SENTENCE AT THE END IN CAPITAL LETTERS.
-
-![](https://pics.cdn.librarything.com/pics/madewithamac.gif)  ![](https://pics.cdn.librarything.com/pics/mwbbedit.gif)  ![](https://pics.cdn.librarything.com/pics/lapsang.gif)
