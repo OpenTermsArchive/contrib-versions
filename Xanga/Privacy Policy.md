@@ -8,9 +8,27 @@ Skip to toolbar
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   old xanga blogs
+    *   by against\_d\_sandstorms
+    *   16 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   old xanga blogs
+    *   by against\_d\_sandstorms
+    *   16 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   old xanga blogs
+    *   by against\_d\_sandstorms
+    *   16 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
 *   missing my blogs
     *   by rekei
-    *   19 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -19,7 +37,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Themes
     *   0 votes
-    *   3 (last comment by omesu214513 4 days ago)
+    *   3 (last comment by omesu214513 5 days ago)
 *   missing my blogs
     *   by jolinglee
     *   1 week ago
@@ -58,7 +76,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Why wouldn't you guys relive Xanga? People will pay
     *   by alexchu414
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Comments
     *   0 votes
     *   0
@@ -80,24 +98,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   3 (last comment by speedrahman 1 month ago)
-*   My profile photo is too small.
-    *   \[Resolved\] by sfiawong
-    *   5 years ago
-    *   in Avatars
-    *   0 votes
-    *   2 (last comment by speedrahman 1 month ago)
-*   Missing anything
-    *   by yuenyuen0225
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   1 (last comment by MatteoPanzarella 1 month ago)
-*   Missing anything
-    *   by yuenyuen0225
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
 1 2 3 ... 198 Next
 
