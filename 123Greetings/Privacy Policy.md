@@ -18,8 +18,8 @@
 *   Events &. Holidays
 *   MorePetsWorld LanguagesAt WorkFlowersKeep in TouchWeddingInvitations
 
-*   Autumn
 *   Flower Week
+*   Autumn
 *   Kiss Day
 *   Angel Week
 *   Yom Kippur
