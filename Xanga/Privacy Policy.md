@@ -1,34 +1,46 @@
-Skip to toolbar
-
-*   Xanga
-
-*   Log In
-
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
-*   old xanga blogs
-    *   by against\_d\_sandstorms
-    *   16 hours ago
+*   my blog is missing
+    *   by emilyli1996
+    *   6 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Can I get my blog back?
+    *   by iamangelll
+    *   9 hours ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   Can I get my blog back?
+    *   by iamangelll
+    *   9 hours ago
     *   in Data Migration
     *   0 votes
     *   0
 *   old xanga blogs
     *   by against\_d\_sandstorms
-    *   16 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   old xanga blogs
     *   by against\_d\_sandstorms
-    *   16 hours ago
+    *   1 day ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   old xanga blogs
+    *   by against\_d\_sandstorms
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   missing my blogs
     *   by rekei
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -37,7 +49,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Themes
     *   0 votes
-    *   3 (last comment by omesu214513 5 days ago)
+    *   3 (last comment by omesu214513 6 days ago)
 *   missing my blogs
     *   by jolinglee
     *   1 week ago
@@ -67,7 +79,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   6 years ago
     *   in Data Migration
     *   0 votes
-    *   15 (last comment by backnblack08 2 weeks ago)
+    *   15 (last comment by backnblack08 3 weeks ago)
 *   How do I retrieve my old entries?
     *   by mungbeanminh
     *   3 weeks ago
@@ -80,24 +92,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Comments
     *   0 votes
     *   0
-*   I can't find my old page
-    *   by HIKKO\_LAI
-    *   4 months ago
-    *   in Themes
-    *   0 votes
-    *   3 (last comment by speedrahman 1 month ago)
-*   Retrieve old photos
-    *   by twinklingstar\_yin
-    *   1 year ago
-    *   in Pictures
-    *   0 votes
-    *   1 (last comment by speedrahman 1 month ago)
-*   Can I get my blog back?
-    *   by sum\_0912
-    *   4 years ago
-    *   in Data Migration
-    *   0 votes
-    *   3 (last comment by speedrahman 1 month ago)
 
 1 2 3 ... 198 Next
 
@@ -156,4 +150,8 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
+
+*   Xanga
+
+*   Log In
