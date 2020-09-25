@@ -18,10 +18,10 @@
 *   Events &. Holidays
 *   MorePetsWorld LanguagesAt WorkFlowersKeep in TouchWeddingInvitations
 
-*   Flower Week
-*   Autumn
 *   Kiss Day
 *   Angel Week
+*   Flower Week
+*   Autumn
 *   Yom Kippur
 *   All Angels Day
 *   Honey Month
