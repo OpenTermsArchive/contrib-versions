@@ -4,43 +4,43 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
 
 *   my blog is missing
     *   by emilyli1996
-    *   6 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can I get my blog back?
     *   by iamangelll
-    *   9 hours ago
+    *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can I get my blog back?
     *   by iamangelll
-    *   9 hours ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   old xanga blogs
-    *   by against\_d\_sandstorms
     *   1 day ago
     *   in Data Migration
     *   0 votes
     *   0
 *   old xanga blogs
     *   by against\_d\_sandstorms
-    *   1 day ago
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   old xanga blogs
     *   by against\_d\_sandstorms
-    *   1 day ago
+    *   2 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   old xanga blogs
+    *   by against\_d\_sandstorms
+    *   2 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   missing my blogs
     *   by rekei
-    *   2 days ago
+    *   3 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -49,7 +49,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Themes
     *   0 votes
-    *   3 (last comment by omesu214513 6 days ago)
+    *   3 (last comment by omesu214513 1 week ago)
 *   missing my blogs
     *   by jolinglee
     *   1 week ago
@@ -88,7 +88,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Why wouldn't you guys relive Xanga? People will pay
     *   by alexchu414
-    *   4 weeks ago
+    *   1 month ago
     *   in Comments
     *   0 votes
     *   0
