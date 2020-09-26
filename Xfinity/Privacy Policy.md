@@ -1,5 +1,3 @@
-Our Privacy Policy explained
-
 State Laws:
 
 California Maine Effective June 30, 2020 | Download PDF Select languageEnglishEspañol Table of Contents
