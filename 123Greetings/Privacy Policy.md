@@ -18,17 +18,17 @@
 *   Events &. Holidays
 *   MorePetsWorld LanguagesAt WorkFlowersKeep in TouchWeddingInvitations
 
-*   Kiss Day
 *   Angel Week
 *   Flower Week
 *   Autumn
 *   Yom Kippur
 *   All Angels Day
-*   Honey Month
+*   September Flowers
 *   More...
     *   Chinese Moon Festival (Oct 1, 2020)
-    *   September Flowers (September 2020)
     *   Love Note Day (Sep 26, 2020)
+    *   World Elder's Day (Oct 1, 2020)
+    *   Honey Month (September 2020)
     *   World Tourism Day (Sep 27, 2020)
     *   National Coffee Day (Sep 29, 2020)
     *   World Heart Day (Sep 29, 2020)
