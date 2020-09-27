@@ -18,23 +18,23 @@
 *   Events &. Holidays
 *   MorePetsWorld LanguagesAt WorkFlowersKeep in TouchWeddingInvitations
 
-*   Angel Week
-*   Flower Week
-*   Autumn
 *   Yom Kippur
+*   Autumn
 *   All Angels Day
-*   September Flowers
+*   Chinese Moon Festival
+*   Send a Smile Day
 *   More...
-    *   Chinese Moon Festival (Oct 1, 2020)
     *   Love Note Day (Sep 26, 2020)
-    *   World Elder's Day (Oct 1, 2020)
-    *   Honey Month (September 2020)
+    *   Angel Week (Sep 24 - 28, 2020)
+    *   Flower Week (Sep 20 - 26, 2020)
+    *   September Flowers (September 2020)
     *   World Tourism Day (Sep 27, 2020)
     *   National Coffee Day (Sep 29, 2020)
     *   World Heart Day (Sep 29, 2020)
     *   Ask a Stupid Question Day (Sep 30, 2020)
-    *   Full Moon Day (Oct 1, 2020)
-    *   World Vegetarian Day (Oct 1, 2020)
+    *   National Day (China) (Oct 1, 2020)
+    *   Cookie Month (October 2020)
+    *   National Dessert Month (October 2020)
     *   See All Events
 *   Go
 
