@@ -1,46 +1,52 @@
+Skip to toolbar
+
+*   Xanga
+
+*   Log In
+
 *   the blogging community
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
 *   my blog is missing
     *   by emilyli1996
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can I get my blog back?
     *   by iamangelll
-    *   3 days ago
+    *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   Can I get my blog back?
     *   by iamangelll
-    *   3 days ago
-    *   in Data Migration
-    *   0 votes
-    *   0
-*   old xanga blogs
-    *   by against\_d\_sandstorms
     *   4 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   old xanga blogs
     *   by against\_d\_sandstorms
-    *   4 days ago
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   old xanga blogs
     *   by against\_d\_sandstorms
-    *   4 days ago
+    *   5 days ago
+    *   in Data Migration
+    *   0 votes
+    *   0
+*   old xanga blogs
+    *   by against\_d\_sandstorms
+    *   5 days ago
     *   in Data Migration
     *   0 votes
     *   0
 *   missing my blogs
     *   by rekei
-    *   5 days ago
+    *   6 days ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -150,8 +156,4 @@ Contact Information
 
 *   **back to xanga frontpage »**
 
-<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>. Skip to toolbar
-
-*   Xanga
-
-*   Log In
+<img src="http://pixel.quantserve.com/pixel/p-87h-iNOVooym2.gif" style="display: none" height="1" width="1" alt="Quantcast"/>.
