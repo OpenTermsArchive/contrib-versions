@@ -24,9 +24,7 @@
 *   Chinese Moon Festival
 *   Send a Smile Day
 *   More...
-    *   Love Note Day (Sep 26, 2020)
     *   Angel Week (Sep 24 - 28, 2020)
-    *   Flower Week (Sep 20 - 26, 2020)
     *   September Flowers (September 2020)
     *   World Tourism Day (Sep 27, 2020)
     *   National Coffee Day (Sep 29, 2020)
@@ -35,6 +33,8 @@
     *   National Day (China) (Oct 1, 2020)
     *   Cookie Month (October 2020)
     *   National Dessert Month (October 2020)
+    *   Gandhi Jayanti (Oct 2, 2020)
+    *   Sukkot (Oct 2 - 9, 2020)
     *   See All Events
 *   Go
 
