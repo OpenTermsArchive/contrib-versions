@@ -26,15 +26,15 @@
 *   More...
     *   Angel Week (Sep 24 - 28, 2020)
     *   September Flowers (September 2020)
-    *   World Tourism Day (Sep 27, 2020)
+    *   World Elder's Day (Oct 1, 2020)
     *   National Coffee Day (Sep 29, 2020)
     *   World Heart Day (Sep 29, 2020)
     *   Ask a Stupid Question Day (Sep 30, 2020)
     *   National Day (China) (Oct 1, 2020)
+    *   World Vegetarian Day (Oct 1, 2020)
     *   Cookie Month (October 2020)
     *   National Dessert Month (October 2020)
     *   Gandhi Jayanti (Oct 2, 2020)
-    *   Sukkot (Oct 2 - 9, 2020)
     *   See All Events
 *   Go
 
