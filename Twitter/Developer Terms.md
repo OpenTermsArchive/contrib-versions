@@ -1,4 +1,4 @@
-#### Developer terms
+Developer terms
 
 Developer Agreement
 -------------------
