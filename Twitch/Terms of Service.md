@@ -289,3 +289,18 @@ To make available musical works from a variety of artists within Twitch Sings (f
 Doing any of the above may subject you to a notice of alleged infringement from rights holders and their agents. 
 
 Last, we want to alert you to the fact that music rights tend to evolve over time.  Thus, we reserve the right to modify or remove certain songs or other content from Twitch Sings at any time (for example, as necessary to comply with our music licenses or with applicable laws). This may mean that Twitch will be required to take down previously recorded performances. Twitch takes no responsibility and assumes no liability in connection with your use of Twitch Sings.
+
+#### 19\. Specific Terms for Soundtrack by Twitch
+
+Soundtrack by Twitch™ (“Soundtrack”), which is part of the Twitch Services, is a streamer tool designed to give creators the ability to play licensed music in the background of their live streams and upload on-demand videos of those live streams that do not include such music. By downloading, installing, and/or otherwise using Soundtrack, you agree that your download, installation, and/or use of Soundtrack will be governed by these Terms of Service. Twitch’s Community Guidelines \[link\] and Music Guidelines \[link\] apply as well, and we recommend that you review both resources prior to using Soundtrack.
+
+Soundtrack was borne out of Twitch’s desire to offer creators a wide variety of licensed music for live streaming. To make this possible, Twitch secured licenses with many different rights holders and continues to do so in order to add new tracks to Soundtrack’s stations and playlists. Twitch also designed Soundtrack to give creators the ability to generate on-demand videos of their live streams that do not include this music.
+
+The licenses Twitch secured allow Twitch to make these materials available to you for your use in live streams on your Twitch channel. Music and other materials made available through Soundtrack have not been licensed for your use in pre-recorded content, in content that can be streamed on-demand (such as VODs and Clips), or outside the Twitch Services. What this means is that you may not:
+
+*   Create on-demand content containing materials from Soundtrack -- we have designed Soundtrack with this restriction in mind, and proper setup will allow you to create and use music-free on-demand videos of live streams that include Soundtrack music; or
+*   Live stream content that includes music or other materials from Soundtrack outside the Twitch Services.
+
+Doing any of the above may subject you to a notice of alleged infringement from rights holders and their agents.
+
+Last, we want to alert you to the fact that music rights tend to evolve over time. Thus, we reserve the right to modify or remove certain songs or other content from Soundtrack at any time (for example, as necessary to comply with our music licenses or with applicable laws). Twitch takes no responsibility and assumes no liability in connection with your use of Soundtrack.
