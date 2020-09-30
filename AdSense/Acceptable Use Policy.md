@@ -231,4 +231,18 @@ If you implement any Google advertising service on a site or section of a site t
     *   past or current activity by users known by you to be under the age of 13 years or
     *   past or current activity on sites directed at users under the age of 13 years.
 
+Unsupported languages
+---------------------
+
+We do not allow content that:
+
+*   is not primarily in one of the supported languages.
+
+Minimum content requirements
+----------------------------
+
+We do not allow monetization where there is no content.
+
+*   No content includes placeholder content for sites or apps under construction.
+
 [](https://support.google.com/adsense/answer/1282103?hl=en&ref_topic=1250104)[Next: Google Publisher Restrictions](https://support.google.com/adsense/answer/9335567?hl=en&ref_topic=1250104)
