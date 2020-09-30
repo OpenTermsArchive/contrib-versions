@@ -26,7 +26,7 @@ The PI we collect through our Services primarily consists of information you sub
 
 **Sensory data**
 
-*   Examples include: audio, electronic, visual, thermal, olfactory or similar information
+*   Audio, electronic and visual only
 
 **Professional or employment-related information**
 
@@ -118,6 +118,10 @@ We collect and hold personal data about our customers, users and enthusiasts, em
 California Residents
 
 Effective January 1, 2020, the California Consumer Privacy Act (CCPA) allows California residents, upon a verifiable consumer request, certain rights with respect to our collection of their PI. If you are a California resident, please see the CCPA Addendum to Wolfram's Privacy Policies. It outlines how you may contact us to exercise your rights under California law. Please note that you must verify your identity before further action is taken.
+
+Our Policy toward Children
+
+Wolfram's Services are not directed at children under 13. We do not knowingly collect PI from children under 13. If a parent or guardian becomes aware that their child has provided us with PI without their consent, they should contact us at myprivacy@wolfram.com. If we become aware that a child under 13 has provided us with PI, we will delete such information from our files.
 
 Changes to This Privacy Policy
 
