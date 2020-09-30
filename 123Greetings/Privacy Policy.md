@@ -18,13 +18,12 @@
 *   Events &. Holidays
 *   MorePetsWorld LanguagesAt WorkFlowersKeep in TouchWeddingInvitations
 
-*   Yom Kippur
-*   Autumn
 *   All Angels Day
+*   Autumn
 *   Chinese Moon Festival
 *   Send a Smile Day
+*   Full Moon Day
 *   More...
-    *   Angel Week (Sep 24 - 28, 2020)
     *   September Flowers (September 2020)
     *   World Elder's Day (Oct 1, 2020)
     *   National Coffee Day (Sep 29, 2020)
@@ -35,6 +34,7 @@
     *   Cookie Month (October 2020)
     *   National Dessert Month (October 2020)
     *   Gandhi Jayanti (Oct 2, 2020)
+    *   Sukkot (Oct 2 - 9, 2020)
     *   See All Events
 *   Go
 
