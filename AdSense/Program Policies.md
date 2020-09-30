@@ -55,7 +55,7 @@ If AdSense publishers choose to use ads.txt on their domains, those publishers m
 Traffic sources
 ---------------
 
-Google ads may not be placed on pages receiving traffic from certain sources. For example, publishers may not participate in paid-to-click programs, send unwanted emails or display ads as the result of the action of any software application. Also, publishers using online advertising must ensure that their pages comply with Google's [Landing Page Quality Guidelines](https://support.google.com/adwords/answer/46675).
+Google ads may not be placed on pages receiving traffic from certain sources. For example, publishers may not participate in paid-to-click programs, send unwanted emails or display ads as the result of the action of any software application. Also, publishers using online advertising must ensure that their pages comply with Google's [Landing Page Quality Guidelines](https://support.google.com/google-ads/answer/2404197).
 
 To ensure a positive experience for Internet users and Google advertisers, sites displaying Google ads may not:
 
@@ -63,7 +63,7 @@ To ensure a positive experience for Internet users and Google advertisers, sites
 *   Be promoted through unsolicited mass emails or unwanted advertisements on third-party websites.
 *   Display Google ads, search boxes or search results as a result of the actions of software applications such as toolbars.
 *   Be loaded by any software that can trigger pop-ups, redirect users to unwanted websites, modify browser settings or otherwise interfere with site navigation. It is your responsibility to ensure that no ad network or affiliate uses such methods to direct traffic to pages that contain your AdSense code.
-*   Receive traffic from online advertising unless the site complies with the spirit of Google's [Landing Page Quality Guidelines](https://support.google.com/adwords/answer/46675). For instance, users should easily be able to find what your ad promises.
+*   Receive traffic from online advertising unless the site complies with the spirit of Google's [Landing Page Quality Guidelines](https://support.google.com/google-ads/answer/2404197). For instance, users should easily be able to find what your ad promises.
 
 Ad behavior
 -----------
@@ -99,8 +99,6 @@ Technical requirements
 
 To help you provide a quality user experience, Google has developed technical specifications for sites displaying Google ads. We only allow sites that comply with these technical specifications. Please review below for detailed technical requirements:
 
-*   Use supported languages
-    *   Google publisher products do not support all languages. Applications for participation in these programs can be for sites with content primarily in the [following languages](https://support.google.com/adsense/answer/9727).
 *   Format requirements
     *   WebView
         *   AdSense for content (AFC) and Ad Exchange (AdX) display ads are not supported through all WebView technologies. App developers wishing to monetize by publishing AFC and AdX display ads through a WebView must use one of the following supported viewing frames:
@@ -114,6 +112,6 @@ Product-specific policies
 *   [AdMob](https://support.google.com/admob/answer/2753860)
 *   [AdSense for search](https://support.google.com/adsense/answer/1354757)
 
-_Last updated: April 30, 2020_
+_Last updated: September 30, 2020_
 
 [](https://support.google.com/adsense/answer/10008391?hl=en&ref_topic=1250104)[Next: Policy enforcements](https://support.google.com/adsense/topic/1342777?hl=en&ref_topic=1250104)
