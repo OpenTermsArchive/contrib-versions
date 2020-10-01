@@ -18,23 +18,23 @@
 *   Events &. Holidays
 *   MorePetsWorld LanguagesAt WorkFlowersKeep in TouchWeddingInvitations
 
-*   All Angels Day
 *   Autumn
 *   Chinese Moon Festival
 *   Send a Smile Day
-*   Full Moon Day
+*   September Flowers
+*   Sukkot
 *   More...
-    *   September Flowers (September 2020)
     *   World Elder's Day (Oct 1, 2020)
-    *   National Coffee Day (Sep 29, 2020)
-    *   World Heart Day (Sep 29, 2020)
+    *   Techies Day (Oct 3, 2020)
     *   Ask a Stupid Question Day (Sep 30, 2020)
+    *   Full Moon Day (Oct 1, 2020)
     *   National Day (China) (Oct 1, 2020)
     *   World Vegetarian Day (Oct 1, 2020)
     *   Cookie Month (October 2020)
     *   National Dessert Month (October 2020)
     *   Gandhi Jayanti (Oct 2, 2020)
-    *   Sukkot (Oct 2 - 9, 2020)
+    *   St. Francis Day (Oct 4, 2020)
+    *   World Communion Sunday (Oct 4, 2020)
     *   See All Events
 *   Go
 
