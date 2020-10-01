@@ -10,7 +10,7 @@ Looking to change your privacy settings?
 
 Take the Privacy Checkup
 
-Effective August 28, 2020 | Archived versions | Download PDFContentsIntroductionInformation Google collectsWhy Google collects dataYour privacy controlsSharing your informationKeeping your information secureExporting &. deleting your informationRetaining your informationCompliance &. cooperation with regulatorsAbout this policyRelated privacy practices
+Effective September 30, 2020 | Archived versions | Download PDFContentsIntroductionInformation Google collectsWhy Google collects dataYour privacy controlsSharing your informationKeeping your information secureExporting &. deleting your informationRetaining your informationCompliance &. cooperation with regulatorsAbout this policyRelated privacy practices
 
 We build a range of services that help millions of people daily to explore and interact with the world in new ways. Our services include:
 
@@ -169,12 +169,6 @@ Choose whether your name and photo appear next to your activity, like reviews an
 
 Go to Shared Endorsements
 
-Information you share
-
-If you’re a G Suite user, control whom you share information with through your account on Google+.
-
-Go to Information You Share
-
 Ways to review &. update your informationMy Activity
 
 My Activity allows you to review and control data that’s created when you use Google services, like searches you’ve done or your visits to Google Play. You can browse by date and by topic, and delete part or all of your activity.
@@ -239,7 +233,7 @@ We’ll share personal information outside of Google when we have your consent. 
 
 With domain administrators
 
-If you’re a student or work for an organization that uses Google services (like G Suite), your domain administrator and resellers who manage your account will have access to your Google Account. They may be able to:
+If you’re a student or work for an organization that uses Google services, your domain administrator and resellers who manage your account will have access to your Google Account. They may be able to:
 
 *   Access and retain information stored in your account, like your email
 *   View statistics regarding your account, like how many apps you install
@@ -314,7 +308,7 @@ We regularly review this Privacy Policy and make sure that we process your infor
 
 Data transfers
 
-We maintain servers around the world and your information may be processed on servers located outside of the country where you live. Data protection laws vary among countries, with some providing more protection than others. Regardless of where your information is processed, we apply the same protections described in this policy. We also comply with certain legal frameworks relating to the transfer of data, such as the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks.
+We maintain servers around the world and your information may be processed on servers located outside of the country where you live. Data protection laws vary among countries, with some providing more protection than others. Regardless of where your information is processed, we apply the same protections described in this policy. We also comply with certain legal frameworks relating to the transfer of data.
 
 When we receive formal written complaints, we respond by contacting the person who made the complaint. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of your data that we cannot resolve with you directly.
 
