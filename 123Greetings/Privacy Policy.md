@@ -18,22 +18,22 @@
 *   Events &. Holidays
 *   MorePetsWorld LanguagesAt WorkFlowersKeep in TouchWeddingInvitations
 
-*   Autumn
 *   Chinese Moon Festival
+*   Cookie Month
+*   Autumn
 *   Send a Smile Day
-*   September Flowers
-*   Sukkot
+*   Techies Day
 *   More...
     *   World Elder's Day (Oct 1, 2020)
-    *   Techies Day (Oct 3, 2020)
-    *   Ask a Stupid Question Day (Sep 30, 2020)
     *   Full Moon Day (Oct 1, 2020)
     *   National Day (China) (Oct 1, 2020)
     *   World Vegetarian Day (Oct 1, 2020)
-    *   Cookie Month (October 2020)
+    *   Breast Cancer Awareness Month (October 2020)
     *   National Dessert Month (October 2020)
     *   Gandhi Jayanti (Oct 2, 2020)
+    *   Sukkot (Oct 2 - 9, 2020)
     *   St. Francis Day (Oct 4, 2020)
+    *   World Animal Day (Oct 4, 2020)
     *   World Communion Sunday (Oct 4, 2020)
     *   See All Events
 *   Go
