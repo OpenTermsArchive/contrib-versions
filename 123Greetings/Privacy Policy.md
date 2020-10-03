@@ -18,23 +18,23 @@
 *   Events &. Holidays
 *   MorePetsWorld LanguagesAt WorkFlowersKeep in TouchWeddingInvitations
 
-*   Chinese Moon Festival
-*   Cookie Month
-*   Autumn
 *   Send a Smile Day
+*   Autumn
+*   Teachers' Day
+*   Sukkot
 *   Techies Day
+*   Frappe Day
 *   More...
-    *   World Elder's Day (Oct 1, 2020)
-    *   Full Moon Day (Oct 1, 2020)
-    *   National Day (China) (Oct 1, 2020)
-    *   World Vegetarian Day (Oct 1, 2020)
-    *   Breast Cancer Awareness Month (October 2020)
-    *   National Dessert Month (October 2020)
     *   Gandhi Jayanti (Oct 2, 2020)
-    *   Sukkot (Oct 2 - 9, 2020)
+    *   National Dessert Month (October 2020)
+    *   Golf Lovers' Day (Oct 4, 2020)
     *   St. Francis Day (Oct 4, 2020)
     *   World Animal Day (Oct 4, 2020)
     *   World Communion Sunday (Oct 4, 2020)
+    *   Child Health Day (Oct 5, 2020)
+    *   Customer Service Week (Oct 5 - 9, 2020)
+    *   German American Day (Oct 6, 2020)
+    *   Shemini Atzeret (Oct 9, 2020)
     *   See All Events
 *   Go
 
