@@ -1,43 +1,4 @@
-Wix
-
-*   I Need a Site for...
-
-*   {"BUSINESS":"Business","MUSIC":"Music","PHOTOGRAPHY":"Photography","ONLINE\_STORE":"Online Store","DESIGNER":"Designer","RESTAURANTS":"Restaurants &. Food","ACCOMMODATION":"Accommodation","EVENTS":"Events","PORTFOLIO\_AND\_CV":"Portfolio &. CV","BEAUTY\_AND\_WELLNESS":"Beauty &. Wellness","BLOG":"Blog","OTHER":"Other"}
-*   My Sites
-*   Templates
-*   Explore
-    *   Get Inspired
-    *   Features
-    *   App Market
-*   Features
-*   Explore
-*   Subscriptions
-    *   Premium Plans
-    *   Domains
-    *   Mailboxes
-*   Templates
-*   Support
-
-Sign In Hi, {username}
-
-*   Account Settings
-*   Billing &. Payments
-*   Vouchers
-
-*   Logout
-
-*   Get Started
-*   Home
-*   Features
-*   Domains
-*   Mailboxes
-*   Online Store
-*   Contact Us
-*   Jobs
-*   Wix Blog
-*   Wix Stories
-
- Wix.com Privacy Policy
+Wix.com Privacy Policy
 
 Effective from August 26, 2020
 
@@ -505,7 +466,44 @@ Only the left column is legally binding (this column is just for clarity).
 
 Translated (non-English) versions of these terms are provided for convenience only.
 
- 
+Wix
+
+*   I Need a Site for...
+
+*   {"BUSINESS":"Business","MUSIC":"Music","PHOTOGRAPHY":"Photography","ONLINE\_STORE":"Online Store","DESIGNER":"Designer","RESTAURANTS":"Restaurants &. Food","ACCOMMODATION":"Accommodation","EVENTS":"Events","PORTFOLIO\_AND\_CV":"Portfolio &. CV","BEAUTY\_AND\_WELLNESS":"Beauty &. Wellness","BLOG":"Blog","OTHER":"Other"}
+*   My Sites
+*   Templates
+*   Explore
+    *   Get Inspired
+    *   Features
+    *   App Market
+*   Features
+*   Explore
+*   Subscriptions
+    *   Premium Plans
+    *   Domains
+    *   Mailboxes
+*   Templates
+*   Support
+
+Sign In Hi, {username}
+
+*   Account Settings
+*   Billing &. Payments
+*   Vouchers
+
+*   Logout
+
+*   Get Started
+*   Home
+*   Features
+*   Domains
+*   Mailboxes
+*   Online Store
+*   Contact Us
+*   Jobs
+*   Wix Blog
+*   Wix Stories
 
 *   PRODUCT
 *   Templates
