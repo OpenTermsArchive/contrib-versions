@@ -18,23 +18,23 @@
 *   Events &. Holidays
 *   MorePetsWorld LanguagesAt WorkFlowersKeep in TouchWeddingInvitations
 
-*   Send a Smile Day
+*   Sweetest Day
 *   Autumn
 *   Teachers' Day
-*   Sukkot
-*   Techies Day
-*   Frappe Day
+*   Canadian Thanksgiving
+*   Boss's Day
 *   More...
-    *   Gandhi Jayanti (Oct 2, 2020)
-    *   National Dessert Month (October 2020)
+    *   Frappe Day (Oct 7, 2020)
+    *   'You Go, Girl' Day (Oct 11, 2020)
+    *   Columbus Day (Oct 12, 2020)
     *   Golf Lovers' Day (Oct 4, 2020)
     *   St. Francis Day (Oct 4, 2020)
     *   World Animal Day (Oct 4, 2020)
     *   World Communion Sunday (Oct 4, 2020)
-    *   Child Health Day (Oct 5, 2020)
-    *   Customer Service Week (Oct 5 - 9, 2020)
     *   German American Day (Oct 6, 2020)
     *   Shemini Atzeret (Oct 9, 2020)
+    *   Clergy Appreciation Day (Oct 11, 2020)
+    *   Dessert Day (Oct 14, 2020)
     *   See All Events
 *   Go
 
