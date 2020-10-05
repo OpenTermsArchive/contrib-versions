@@ -1,5 +1,3 @@
-Section 3.2 will be updated from 1 October 2020. Click [here](https://www.facebook.com/legal/terms/preview) to preview the new version.
-
 **Terms of Service**
 
 Welcome to Facebook!
@@ -103,6 +101,8 @@ We provide these services to you and others to help advance our mission. In exch
     If we remove content that you have shared for breach of our Community Standards, we'll let you know and explain any options that you have to request another review, unless you seriously or repeatedly breach these Terms or if doing so may expose us or others to legal liability; harm our community of users; compromise or interfere with the integrity or operation of any of our services, systems or Products; where we are restricted due to technical limitations; or where we are prohibited from doing so for legal reasons.
     
     To help support our community, we encourage you to [report content](https://www.facebook.com/help/181495968648557?ref=tos) or conduct that you believe breaches your rights (including [intellectual property rights](https://www.facebook.com/help/intellectual_property?ref=tos)) or our terms and policies.
+    
+    We also can remove or restrict access to your content, services or information if we determine that doing so is reasonably necessary to avoid or mitigate adverse legal or regulatory impacts to Facebook.
     
       
     
@@ -236,4 +236,4 @@ We provide these services to you and others to help advance our mission. In exch
     
 
   
-Date of last revision: 31 July 2019
+Date of last revision: 1 October 2020
