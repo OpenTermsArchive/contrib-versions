@@ -19,22 +19,22 @@
 *   MorePetsWorld LanguagesAt WorkFlowersKeep in TouchWeddingInvitations
 
 *   Sweetest Day
-*   Autumn
 *   Teachers' Day
+*   Autumn
 *   Canadian Thanksgiving
 *   Boss's Day
+*   Dussehra
 *   More...
+    *   Say 'Hey' Day (Oct 25, 2020)
+    *   Candy Corn Day (Oct 30, 2020)
     *   Frappe Day (Oct 7, 2020)
     *   'You Go, Girl' Day (Oct 11, 2020)
     *   Columbus Day (Oct 12, 2020)
-    *   Golf Lovers' Day (Oct 4, 2020)
-    *   St. Francis Day (Oct 4, 2020)
-    *   World Animal Day (Oct 4, 2020)
-    *   World Communion Sunday (Oct 4, 2020)
     *   German American Day (Oct 6, 2020)
     *   Shemini Atzeret (Oct 9, 2020)
     *   Clergy Appreciation Day (Oct 11, 2020)
     *   Dessert Day (Oct 14, 2020)
+    *   National I Love You Day (Oct 28, 2020)
     *   See All Events
 *   Go
 
