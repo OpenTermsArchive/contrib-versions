@@ -5,6 +5,9 @@
 *   Studio
 *   Mobile App
 
+*   Sign Up
+*   Login
+
 *   Birthday
 *   Thank You
 *   Anniversary
@@ -19,18 +22,18 @@
 *   MorePetsWorld LanguagesAt WorkFlowersKeep in TouchWeddingInvitations
 
 *   Sweetest Day
+*   Halloween
 *   Autumn
 *   Canadian Thanksgiving
 *   Boss's Day
-*   Say 'Hey' Day
-*   Dussehra
+*   Frappe Day
 *   More...
+    *   Say 'Hey' Day (Oct 25, 2020)
     *   Chocolate Day (Oct 28, 2020)
     *   Candy Corn Day (Oct 30, 2020)
-    *   Frappe Day (Oct 7, 2020)
     *   'You Go, Girl' Day (Oct 11, 2020)
     *   Columbus Day (Oct 12, 2020)
-    *   German American Day (Oct 6, 2020)
+    *   Dussehra (Oct 25, 2020)
     *   Shemini Atzeret (Oct 9, 2020)
     *   Clergy Appreciation Day (Oct 11, 2020)
     *   Dessert Day (Oct 14, 2020)
