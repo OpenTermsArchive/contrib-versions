@@ -19,13 +19,13 @@
 *   MorePetsWorld LanguagesAt WorkFlowersKeep in TouchWeddingInvitations
 
 *   Sweetest Day
-*   Teachers' Day
 *   Autumn
 *   Canadian Thanksgiving
 *   Boss's Day
+*   Say 'Hey' Day
 *   Dussehra
 *   More...
-    *   Say 'Hey' Day (Oct 25, 2020)
+    *   Chocolate Day (Oct 28, 2020)
     *   Candy Corn Day (Oct 30, 2020)
     *   Frappe Day (Oct 7, 2020)
     *   'You Go, Girl' Day (Oct 11, 2020)
