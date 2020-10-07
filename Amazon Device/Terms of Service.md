@@ -6,7 +6,7 @@ This is an agreement between you and Amazon.com Services LLC (with its affiliate
 
 For the purpose of these Amazon Device Terms of Use:
 
-"Amazon Device" means Kindle e-readers, Fire tablets, Amazon Fire TV devices (but, for clarity, not Fire TV Edition devices), Amazon Echo devices, Amazon Luna Controller, Amazon Tap, Amazon Dash Button, Amazon Dash Wand, Amazon Cloud Cam, Amazon Smart Plug, and AmazonBasics Microwave, and, in each case, any Amazon accessories for these devices.
+"Amazon Device" means Kindle e-readers, Fire tablets, Amazon Fire TV devices (but, for clarity, not Fire TV Edition devices), Amazon Echo devices, Amazon Luna Controller, Amazon Tap, Amazon Dash Button, Amazon Dash Wand, Amazon Cloud Cam, Amazon Smart Plug, Amazon Halo, and AmazonBasics Microwave, and, in each case, any Amazon accessories for these devices.
 
 "Digital Content" means digitized content (including third-party content), such as books, newspapers, magazines, journals, music, videos, apps, games, skills, photos, audio, and related features and functionality.
 
