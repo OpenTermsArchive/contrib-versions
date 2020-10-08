@@ -5,9 +5,6 @@
 *   Studio
 *   Mobile App
 
-*   Sign Up
-*   Login
-
 *   Birthday
 *   Thank You
 *   Anniversary
