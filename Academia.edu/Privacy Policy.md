@@ -1,174 +1,447 @@
-Last Updated: May 23, 2018
+Last Updated: October 8, 2020
 
-Academia, Inc. ("**Academia.edu**" or "**we**") provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of academia.edu (this "**Site**"). This Privacy Policy applies only to information that you provide to us through this Site. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Use.
+Academia.edu (“Academia”) provides a searchable repository to allow our users to search and share academic resources. This Privacy Policy is designed to help you understand how we collect, use, and share your personal information and to help you understand and exercise your privacy rights. Academia is the controller for the personal information we process, unless otherwise stated. For information on how to contact us, please refer to Section 13 below.
 
-As used in this policy, the term "**Processing**" means any operation which is performed upon Personal Information, whether or not by automatic means, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure, or destruction.
+1\. Scope
 
-  
+2\. Personal Information We Collect
 
-**Information Collection and Use by Academia.edu**
+3\. How We Use Your Information
 
-Our primary goals in collecting information are to provide and improve our Site, services, features and content, to administer your membership (together, the “**Academia.edu Service**”) and to enable users to enjoy and easily navigate the Site.
+4\. How We Disclose Your Information
 
-Personally Identifiable Information
+5\. Your Privacy Choices and Rights
 
-*   When you register with us through the Site to become an Academia.edu Member or when you choose to create your own profile webpage we will ask you for personally identifiable information. This refers to information about you that can be used to contact or identify you (“**Personal Information**”). Personal Information may include, but is not limited to, your name, email address, telephone number, home and business postal addresses, age, research interests, gender, education and occupation. We use your Personal Information to provide the Academia.edu Service and administer your inquiries.
-*   Academia.edu also collects other information that you provide as part of registration and the administration and personalization of your profile webpage (e.g., without limitation, zip code (on its own) and individual preferences) (“**Non-Identifying Information**”).
-*   We use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) mainly to provide the Academia.edu Service, complete your transactions and administer your inquiries. Providing Personal Information and Non-Identifying Information enables you to derive more benefit from the Academia.edu Service by helping you share your research via a profile page, find other academics, opportunities, and information. and helps people and opportunities find you. It also enables us to serve you advertising and other relevant content on and off of the Academia.edu Services.
-*   Certain Non-Identifying Information would be considered a part of your Personal Information if it were combined with other identifiers (for example, combining your zip code with your street address) in a way that enables you to be identified. But the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other non-identifying information (for example, your viewing preferences). We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other Academia.edu Users (defined below) to attempt to provide you with a better experience, to improve the quality and value of the Academia.edu Service and to analyze and understand how our Site and Academia.edu Service are used. We may also use the combined information without aggregating it to serve you specifically, for instance to deliver a product to you according to your preferences or restrictions.
-*   We also use your Personal Information to contact you with Academia.edu updates, newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or update your “user preferences” information. (See “**Changing or Deleting Information,**” below.)
-*   If you create an Account or log in into your Account using your login credentials from one of your Social Network Site (“SNS”) accounts, such as a Facebook, LinkedIn, Twitter, Gmail or another e-mail account, or link to your Account one of your SNS accounts, we’ll be able to access and collect your name and email address and other PII and Non-Identifying Information that your privacy settings on the SNS Account permit us to access.
-*   If you connect with one or more SNS accounts, you give us permission to access and use your profile and contacts information (“Contacts”). Contacts are securely and privately stored within our databases, and associated to your account. Your Contacts are used to personalize the Service, such as suggesting likely co-authors, recommending users for you to follow, and predicting the relevance of news feed stories and notifications.
-*   We collect information when you contact us for customer support. When you contact our customer support services, we may collect the information we need to categorize your question, respond to it, and, if applicable, investigate any breach of our Terms of Use or this Privacy Policy. We also use this information to track potential problems and trends and customize our support responses to better serve you. We do not use this information for advertising.
-*   We may receive information about you from other sources, including through third-party services and organizations, to supplement information provided by you. As used in this policy, the term "**Third Party**" is any company, natural or legal person, public authority, agency, or body other than you and Academia.edu. For example, if you access our Services through a Third-Party application, such as an App Store or SNS, we may collect information about you from that Third-Party application that you have made public via your privacy settings. Information we collect through App Stores or SNS accounts may include your name, your SNS user identification number, your SNS user name, location, sex, birth date, email, profile picture, and your contacts on the SNS. This supplemental information allows us to verify information that you have provided to Academia.edu and to enhance our ability to provide you with information about our business, products, and Services.
+6\. Security of Your Information
 
-Log Data. When you visit the Site, whether as an Academia.edu Member or a non-registered user just browsing (any of these, an "Academia.edu User"), our servers automatically record information that your browser sends whenever you visit a website ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type or the webpage you were visiting before you came to our Site, pages of our Site that you visit, the time spent on those pages, information you search for on our Site, access times and dates, and other statistics. We use this information to monitor and analyze use of the Site and the Academia.edu Service and for the Site's technical administration, to increase our Site's functionality and user-friendliness, and to better tailor it to our visitors' needs. For example, some of this information is collected so that when you visit the Site again, it will recognize you and serve advertisements and other information appropriate to your interests. We also use this information to verify that visitors to the Site meet the criteria required to process their requests.
+7\. International Data Transfers
 
-  
+8\. Retention of Personal Information
 
-**Invitations Via an Academia.edu Account**
+9\. Supplemental Notice for California Residents
 
-As part of the Academia.edu Service, Academia.edu Members can invite non-registered friends to join the Academia.edu Service by sending invitation emails through use of their Accounts via our automated invitation system. Academia.edu stores the email addresses that Members provide only for the purposes of sending the invitations, adding respondents to the colleagues list of the Member who sent the invitation, and sending reminders of the invitations (up to three (3) per email address). Recipients of invitations from Academia.edu Members may contact Academia.edu at privacy@academia.edu to request the removal of their email address from our database.
+10\. Supplemental Notice for Nevada Residents
 
-  
+11\. Children’s Information
 
-**Use of Cookies**
+12\. Other Provisions
 
-Like many websites, Academia.edu uses cookies and similar technologies, including mobile application identifiers (collectively “Cookies”), to collect information. Cookies include small data files that we transfer to your computer’s hard disk for record-keeping purposes. We use Cookies for two purposes. First, we utilize persistent Cookies to save your registration ID and login password for future logins to the Site. Second, we utilize session ID Cookies to enable certain features of the Site, to better understand how you interact with the Site and to monitor aggregate usage by Academia.edu Users and web traffic routing on the Site. Unlike persistent Cookies, session Cookies are deleted from your computer when you log off from the Site and Academia.edu Service and then close your browser. By visiting Academia.edu Services, you consent to the placement of Cookies in your browser in accordance with this Privacy Policy.
+13\. Contact Us
 
-We do not link the information we store in Cookies to any Personal Information. You may be able to instruct your browser, by changing its options, to accept or reject all or some Cookies, or to prompt you before accepting a Cookie from the websites you visit. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. If you do not accept Cookies, however, you may not be able to use all portions of the Site or all functionality of the Service. Please note that third party payment processors and third party advertisers on the Site may also place or read Cookies on your browser. Our Privacy Policy only governs information collected on Academia.edu and the use of such Cookies is governed by the privacy policies or statements of such third parties.
+1 Scope
 
-The following is a partial list of suppliers authorized to place cookies on our website:
+This Privacy Policy applies to personal information processed by us, including on our websites, mobile applications, and other online or offline offerings. To make this Privacy Policy easier to read, our websites, mobile applications, and other offerings are collectively called “**Services.**”
 
-*   Stripe (https://stripe.com/us/privacy): Enables payment processing for premium products
-*   Criteo (http://www.criteo.com/us/privacy-policy): Enables re/targeting users of our website to display personalized advertisements in their future navigation.
+2 Personal Information We Collect
 
-Users can also express their privacy choices through the following platforms:
+The categories of personal information we collect depend on how you interact with us, our Services and the requirements of applicable law. We collect information that you provide to us, information we obtain automatically when you use our Services, and information from other sources such as third-party services and organizations, as described below.
 
-*   IAB opt-out platform
-*   Network Advertising Initiative opt-out platform
-*   Digital Advertising Alliance
+2.1 Information You Provide to Us Directly
 
-  
+We may collect the following personal information that you provide to us.
 
-**Use of Pixel Tags/Web Beacons**
+*   **Registration**. When you register with us through the Services to become an Academia.edu Member, we collect your name, email address, and password. You may choose to add additional information in your profile such as your telephone number, postal address, biography, institutional affiliates, research interests, profile picture, social media accounts, and your CV. You may also choose to upload your papers and BibTeX file to your profile.
+    
 
-A pixel tag (also known as a web beacon) is a piece of code embedded on the Site that collects information about users' engagement on that web page. The use of a pixel allows us to record, for example, that a user has visited a particular web page or clicked on a particular advertisement.
+*   **Purchases**. We may collect personal information and details associated with your purchases, including payment information. Any payments made via our Services are processed by third-party payment processors. We do not directly collect or store any payment card information entered through our Services, but we may receive information associated with your payment card information (e.g., your billing details).
+    
+*   **Your Communications with Us**. We may collect personal information, such as email addresses, phone numbers, or mailing addresses, when you request information about our Services, register for our communications, request customer or technical support, apply for a job or otherwise communicate with us.
+    
+*   **Surveys**. We may contact you to participate in surveys. If you decide to participate, you may be asked to provide certain information, which may include personal information.
+    
+*   **Interactive Features**. We and others who use our Services may collect personal information that you submit or make available through our interactive features (e.g., making your Academia analytics or mentions/citations public, messaging and chat features, commenting functionalities, forums, blogs, and social media pages). Any information you provide on the public sections of these features will be considered “public”, unless otherwise required by applicable law, and is not subject to the privacy protections referenced herein.
+    
+*   **Career Fairs, Conferences, Trade Shows, and Other Events.** We may collect personal information from individuals when we attend career fairs, conferences, trade shows, and other events.
+    
+*   **Business Development and Strategic Partnerships.** We may collect personal information from individuals and third parties to assess and pursue potential business opportunities.
+    
+*   **Job Applications.** We may post job openings and opportunities on our Services. If you reply to one of these postings by submitting your application, CV and/or cover letter to us, we will collect and use your information to assess your qualifications.
+    
 
-  
+2.2 Information Collected Automatically
 
-**Social Media Widgets and Platforms**
+We may collect personal information automatically when you use our Services:
 
-Our Site includes social media features such as Facebook and Twitter (that might include widgets such as the share this button or other interactive mini-programs). These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. These social media features are either hosted by a Third Party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing it.
+*   **Automatic Data Collection**. We may collect certain information automatically when you use our Services, such as your Internet protocol (IP) address, user settings, MAC address, cookie identifiers, mobile carrier, mobile advertising and other unique identifiers, browser or device information, location information (including approximate location derived from IP address), and Internet service provider. We may also automatically collect information regarding your use of our Services, such as pages that you visit before, during and after using our Services, information about the links you click, the types of content you interact with, the frequency and duration of your activities, and other information about how you use our Services. In addition, we may collect information that other people provide about you when they use our Services, including information about you when they tag you.
+    
+*   **Cookies, Pixel Tags/Web Beacons, and Other Technologies**. We, as well as third parties that provide content, advertising, or other functionality on our Services, may use cookies, pixel tags, local storage, and other technologies (“Technologies”) to automatically collect information through your use of our Services.
+    
 
-The Academia.edu Service may also include publicly accessible blogs, community forums, or private messaging features. The Site and Academia.edu Service may also contain links and interactive features with various social media platforms (e.g., widgets) as discussed above. If you already use these platforms, their cookies may be set on your device when using our Site or Academia.edu Service. You should be aware that Personal Information which you voluntarily include and transmit online in a publicly accessible blog, chat room, social media platform or otherwise online, or that you share in an open forum may be viewed and used by others without any restrictions. We are unable to control such uses of your information when interacting with a social media platform, and by using such services you assume the risk that the Personal Information provided by you may be viewed and used by third parties for any number of purposes.
+*   **Cookies**. Cookies are small text files placed in device browsers that store preferences and facilitate and enhance your experience.
+    
+*   **Pixel Tags/Web Beacons**. A pixel tag (also known as a web beacon) is a piece of code embedded in our Services that collects information about engagement on our Services. The use of a pixel tag allows us to record, for example, that a user has visited a particular web page or clicked on a particular advertisement. We may also include web beacons in e-mails to understand whether messages have been opened, acted on, or forwarded.
+    
 
-We use Third-Party software development kits ("**SDKs**"), such as the iOS SDK, as part of the functionality of our Services. Third-Party SDKs may allow Third Parties including advertisers to collect your personal information to provide content that is more relevant to you. To exercise the mobile device settings opt-out, please visit the privacy settings of your iOS or Android device and select "limit ad tracking" (Apple iOS) or "opt-out of interest based ads" (Android).
+Our uses of these Technologies fall into the following general categories:
 
-  
+*   **Operationally Necessary**. This includes Technologies that allow you access to our Services, applications, and tools that are required to identify irregular website behavior, prevent fraudulent activity and improve security or that allow you to make use of our functionality;
+    
+*   **Performance-Related**. We may use Technologies to assess the performance of our Services, including as part of our analytic practices to help us understand how individuals use our Services (_see Analytics below_);
+    
+*   **Functionality-Related**. We may use Technologies that allow us to offer you enhanced functionality when accessing or using our Services. This may include identifying you when you sign into our Services or keeping track of your specified preferences, interests, or past items viewed;
+    
+*   **Advertising- or Targeting-Related**. We may use first party or third-party Technologies to deliver content, including ads relevant to your interests, on our Services or on third-party websites.
+    
 
-**Analytics**
+See Section 5 below to understand your choices regarding these Technologies.
 
-We may also use Google Analytics and Google Analytics Demographics and Interest Reporting to collect information regarding visitor behavior and visitor demographics on some of our Services, and to develop website content. This analytics data is not tied to any Personal Information. For more information about Google Analytics, please visit www.google.com/policies/privacy/partners/. You can opt out of Google's collection and Processing of data generated by your use of the Services by going to http://tools.google.com/dlpage/gaoptout.
+**Analytics**. We may use Technologies and other third-party tools to process analytics information on our Services, including Google Analytics. For more information, please visit Google Analytics’ Privacy Policy. To learn more about how to opt out of Google Analytics’ use of your information, please click here.
 
-  
+*   **Social Media Platforms.** Our Services may contain social media buttons such as Google and LinkedIn that might include widgets such as the “share this” button or other interactive mini programs. These features may collect your IP address, which page you are visiting on our Services, and may set a cookie to enable the feature to function properly. Your interactions with these platforms are governed by the privacy policy of the company providing it.
+    
 
-**Phishing**
+2.3 Information Collected from Other Sources
 
-Identity theft and the practice currently known as "phishing" are of great concern to Academia.edu. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your credit card information, your account ID, login password or national identification numbers in a non-secure or unsolicited e-mail or telephone communication For more information about phishing, visit the Federal Trade Commission's website.
+We may obtain information about you from other sources, including through third-party services and organizations. For example, if you access our Services through a third-party application, such as an app store, a third-party login service, or a social networking site, we may collect information about you from that third-party application that you have made available via your privacy settings.
 
-  
+3 How We Use Your Information
 
-**Information Sharing and Disclosure**
+We use your information for a variety of business purposes, including to provide our Services, for administrative purposes, and to market our products and Services, as described below.
 
-Academia.edu Members and Viewer Data. We will display your Personal Information in your profile page which may be publicly available on the Site according to the preferences you set in your account. And, in some instances, your personal information is made available by default. Specifically, when you view or download another Member's Member Content we share your name and a link to your profile page ("**Viewer Data**"), where available, with that Member if he or she has purchased a subscription to Academia Premium. The sharing of your Viewer Data is by default via the Services and is a required feature of the Services. By becoming a Member, you are choosing to share Viewer Data with other Members. Any information you choose to provide should reflect how much you want other Academia.edu Users to know about you. We recommend that you guard your anonymity and sensitive information and we encourage Academia.edu Members to think carefully about what information about themselves they disclose in their profile pages. You can review and revise your profile information at any time. Please be aware that whenever you voluntarily post information to journals, weblogs, message boards, classifieds or any other public online forums that information can be accessed by the public and can then be used to send you unsolicited communications.
+3.1 Provide Our Services
+
+We use your information to fulfil our contract with you and provide you with our Services, such as:
 
-Aggregate Information and Non-Identifying Information.
+*   Managing your information and accounts;
+    
+*   Providing access to certain areas, functionalities, and features of our Services;
+    
+*   Answering requests for customer or technical support;
+    
+*   Communicating with you about your account, activities on our Services, and policy changes;
+    
+*   Processing your financial information and other payment methods for products or Services purchased;
+    
+*   Processing applications if you apply for a job, we post on our Services. and
+    
+*   Allowing you to register for events.
+    
+
+3.2 Administrative Purposes
+
+We use your information for various administrative purposes, such as:
+
+*   Pursuing our legitimate interests such as direct marketing, research and development (including marketing research), network and information security, and fraud prevention;
+    
+*   Detecting security incidents, protecting against malicious, deceptive, fraudulent or illegal activity, and prosecuting those responsible for that activity;
+    
+*   Measuring interest and engagement in our Services;
+    
+*   Short-term, transient use, such as contextual customization of ads;
+    
+*   Improving, upgrading or enhancing our Services.
+    
+*   Developing new products and Services;
+    
+*   Ensuring internal quality control and safety;
+    
+
+*   Authenticating and verifying individual identities;
+    
+*   Debugging to identify and repair errors with our Services;
+    
+*   Auditing relating to interactions, transactions and other compliance activities;
+    
+*   Enforcing our agreements and policies. and
+    
+*   Complying with our legal obligations.
+    
 
-We may share aggregated information that does not include Personal Information and we may otherwise disclose Non-Identifying Information and Log Data with third parties for industry analysis, demographic profiling and other purposes. Any aggregated information shared in these contexts will not contain your Personal Information.
+3.3 Marketing and Advertising our Products and Services
 
-Service Providers. We may employ third party companies and individuals to facilitate our Academia.edu Service, to provide the Academia.edu Service on our behalf, to perform Site-related services (e.g., without limitation, maintenance services, database management, web analytics and improvement of the Site's features) or to assist us in analyzing how our Site and Academia.edu Service are used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+We may use personal information to tailor and provide you with content and advertisements. We may provide you with these materials as permitted by applicable law.
 
-Marketing — Interest-Based Advertising and Third Party Marketing. Through our Academia.edu Service, we may allow Third-Party advertising partners to set tracking tools (e.g., cookies) to collect information regarding your activities (e.g., your IP address, page(s) visited, time of day). These advertising partners may use this information (and similar information collected from other websites) for purposes of delivering targeted advertisements to you when you visit non-Academia.edu related websites within their networks. This practice is commonly referred to as "interest-based advertising" or "online behavioral advertising."
+Some of the ways we market to you include email campaigns, custom audiences advertising, and “interest-based” or “personalized advertising,” including through cross-device tracking.
 
-Compliance with Laws and Law Enforcement. Academia.edu cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Academia.edu or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, any illegal, unethical or legally actionable activity.
+If you have any questions about our marketing practices or if you would like to opt out of the use of your personal information for marketing purposes, you may contact us at any time as set forth below.
 
-Merger, Sale, or Other Asset Transfers. If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of company assets, or transition of service to another provider, then your information may be sold or transferred as part of such a transaction as permitted by law and/or contract. In such event, Academia.edu will endeavor to direct the transferee to use Personal Information in a manner that is consistent with the Privacy Policy in effect at the time such Personal Information was collected.
+3.4 Other Purposes
 
-  
+We also use your information for other purposes as requested by you or as permitted by applicable law.
 
-**Links to Third Party Websites**
+*   **Consent**. We may use personal information for other purposes that are clearly disclosed to you at the time you provide personal information or with your consent.
+    
+*   **Automated Decision Making**. We may engage in automated decision making, including profiling. Academia’s processing of your personal information will not result in a decision based solely on automated processing that significantly affects you unless such a decision is necessary as part of a contract we have with you, we have your consent, or we are permitted by law to engage in such automated decision making. If you have questions about our automated decision making, you may contact us as set forth below.
+    
+*   **De-identified and Aggregated Information**. We may use personal information and other information about you to create de-identified and/or aggregated information, such as de-identified demographic information, de-identified location information, information about the device from which you access our Services, or other analyses we create.
+    
+*   **Share Content with Friends or Colleagues.** Our Services may offer various tools and functionalities. For example, we may allow you to provide information about your friends through our referral services. Our referral services may allow you to forward or share certain content with a friend or colleague, such as an email inviting your friend to use our Services.
+    
 
-Academia.edu contains links to other websites and other websites may reference or link to our Site or other services. If you choose to visit an advertiser by "clicking on" a banner ad or other type of advertisement, or click on another Third Party link, you will be directed to that Third Party's website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that Third Party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over Third Party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other sites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of each of the Third Party websites you visit. Our privacy policy only governs information collected on Academia.edu. We do not endorse, screen or approve, and are not responsible for the privacy practices or content of such other websites or applications. Visiting these other websites or applications is at your own risk.
+4 How We Disclose Your Information
 
-  
+We disclose your information to third parties for a variety of business purposes, including to provide our Services, to protect us or others, or in the event of a major business transaction such as a merger, sale, or asset transfer, as described below.
 
-**Rights of Access, Rectification, Erasure, and Restriction**
+4.1 Disclosures to Provide our Services
 
-All Academia.edu Members may review, update, modify or remove any of their Personal Information in their profile page at any time by logging into their Account and accessing features such as Edit Profile and Account Info. If you completely delete all such information, then your Account may become deactivated. You may also inquire as to whether Academia.edu is Processing Personal Information about you, request access to Personal Information, and ask that we correct, amend or delete your Personal Information where it is inaccurate. Where otherwise permitted by applicable law, please contact us at privacy@academia.edu or use any of the methods set out in this Privacy Policy to request access to, receive (port), seek rectification, or request erasure of Personal Information held about you by Academia.edu. Please include your full name, email address associated with your Account, and a detailed description of your data request. We will use commercially reasonable efforts to honor your request, and such requests will be processed in line with local laws. We may retain an archived copy of your records as required by law or for legitimate business purposes.
+The categories of third parties with whom we may share your information are described below.
 
-Although Academia.edu makes good faith efforts to provide individuals with access to their Personal Information, there may be circumstances in which Academia.edu is unable to provide access, including but not limited to: where the information contains legal privilege, would compromise others’ privacy or other legitimate rights, where the burden or expense of providing access would be disproportionate to the risks to the individual’s privacy in the case in question or where it is commercially proprietary. If Academia.edu determines that access should be restricted in any particular instance, we will provide you with an explanation of why that determination has been made and a contact point for any further inquiries. To protect your privacy, Academia.edu will take commercially reasonable steps to verify your identity before granting access to or making any changes to your Personal Information.
+*   **Service Providers**. We may share your personal information with our third-party service providers who use that information to help us provide our Services. This includes service providers that provide us with IT support, hosting, payment processing, customer service, and related services.
+    
+*   **Business Partners**. We may share your personal information with business partners to provide you with a product or service you have requested. We may also share your personal information to business partners with whom we jointly offer products or services.
+    
+*   **Affiliates**. We may share your personal information with our company affiliates, for our administrative purpose including activities such as IT management, for them to provide services to you, or support and supplement the Services we provide.
+    
 
-  
+*   **Other Academia Users**. If you use certain Academia features, such as browsing profiles or papers belonging to Academia Premium users, your profile information (e.g., your name, city, institutional affiliations, and areas of interest) may be visible to those Premium users. You can control what information is visible to Academia Premium users in your Academia account privacy settings.
+    
 
-**Opt-Out (Right to Object to Processing)**
+*   **Advertising Partners**. We may share your personal information with third-party advertising partners. These third-party advertising partners may set Technologies and other tracking tools on our Services to collect information regarding your activities and your device (e.g., your IP address, cookie identifiers, page(s) visited, location, time of day). These advertising partners may use this information (and similar information collected from other services) for purposes of delivering personalized advertisements to you when you visit digital properties within their networks. This practice is commonly referred to as “interest-based advertising” or “personalized advertising.”
+    
+*   **APIs/SDKs**. We may use third-party Application Program Interfaces (“APIs”) and software development kits (“SDKs”) as part of the functionality of our Services. For more information about our use of APIs and SDKs, please contact us as set forth below.
+    
 
-You have the right to object to and opt out of certain uses and disclosures of your Personal Information. Where you have consented to Academia.edu's Processing of your Personal Information, you may withdraw that consent at any time and opt out of further Processing by contacting privacy@academia.edu. Even if you opt out, we may still collect and use non-Personal Information regarding your activities on our Sites and/or information from the advertisements on Third Party websites for non-interest based advertising purposes, such as to determine the effectiveness of the advertisements.
+4.2 Disclosures to Protect Us or Others
 
-  
+We may access, preserve, and disclose any information we store associated with you to external parties if we, in good faith, believe doing so is required or appropriate to: comply with law enforcement or national security requests and legal process, such as a court order or subpoena. protect your, our, or others’ rights, property, or safety. enforce our policies or contracts. collect amounts owed to us. or assist with an investigation or prosecution of suspected or actual illegal activity.
 
-**Email and Telephone Communications**
+4.3 Disclosure in the Event of Merger, Sale, or Other Asset Transfers
+
+If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, purchase or sale of assets, or transition of service to another provider, your information may be sold or transferred as part of such a transaction, as permitted by law and/or contract.
+
+5 Your Privacy Choices and Rights
+
+**Your Privacy Choices**. The privacy choices you may have about your personal information are determined by applicable law and are described below.
+
+*   **Email Communications**. If you receive an unwanted email from us, you can use the unsubscribe link found at the bottom of the email to opt out of receiving future emails. Note that you will continue to receive transaction-related emails regarding products or Services you have requested. We may also send you certain non-promotional communications regarding us and our Services, and you will not be able to opt out of those communications (e.g., communications regarding our Services or updates to our Terms or this Privacy Policy).
+    
+*   **Mobile Devices**. We may send you push notifications through our mobile application. You may opt out from receiving these push notifications by changing the settings on your mobile device. With your consent, we may also collect precise location-based information if you use our mobile application. You may opt out of this collection by changing the settings on your mobile device.
+    
+*   **“Do Not Track**.**”** Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. Please note that we do not respond to or honor DNT signals or similar mechanisms transmitted by web browsers.
+    
+*   **Cookies and Interest-Based Advertising**. You may stop or restrict the placement of Technologies on your device or remove them by adjusting your preferences as your browser or device permits. However, if you adjust your preferences, our Services may not work properly. Please note that cookie-based opt-outs are not effective on mobile applications. However, you may opt-out of personalized advertisements on some mobile applications by following the instructions for Android, iOS and others.  
+      
+    The online advertising industry also provides websites from which you may opt out of receiving targeted ads from data partners and other advertising partners that participate in self-regulatory programs. You can access these and learn more about targeted advertising and consumer choice and privacy by visiting the Network Advertising Initiative, the Digital Advertising Alliance, the European Digital Advertising Alliance, and the Digital Advertising Alliance of Canada.  
+      
+    Please note you must separately opt out in each browser and on each device.
+    
+
+**Your Privacy Rights**. In accordance with applicable law, you may have the right to:
+
+*   **Access Personal Information** about you, including: (i) confirming whether we are processing your personal information. (ii) obtaining access to or a copy of your personal information. and (iii) receiving an electronic copy of personal information that you have provided to us, or asking us to send that information to another company (the “right of data portability”);
+    
+*   **Request Correction** of your personal information where it is inaccurate or incomplete. In some cases, we may provide self-service tools that enable you to update your personal information;
+    
+*   **Request Deletion** of your personal information;
+    
+*   **Request Restriction of or Object to** our processing of your personal information. and
+    
+*   **Withdraw your Consent** to our processing of your personal information.
+    
+
+If you would like to exercise any of these rights, please contact us as set forth below. We will process such requests in accordance with applicable laws.
+
+6 Security of Your Information
+
+We take steps to ensure that your information is treated securely and in accordance with this Privacy Policy_._ Unfortunately, no system is 100% secure, and we cannot ensure or warrant the security of any information you provide to us. We have taken appropriate safeguards to require that your personal information will remain protected and require our third-party service providers and partners to have appropriate safeguards as well. To the fullest extent permitted by applicable law, we do not accept liability for unauthorized disclosure.
+
+By using our Services or providing personal information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of our Services. If we learn of a security system’s breach, we may attempt to notify you electronically by posting a notice on our Services, by mail or by sending an email to you.
+
+7 International Data Transfers
+
+All information processed by us may be transferred, processed, and stored anywhere in the world, including, but not limited to, the United States or other countries, which may have data protection laws that are different from the laws where you live. We endeavor to safeguard your information consistent with the requirements of applicable laws.
+
+8 Retention of Personal Information
+
+We store the personal information we collect as described in this Privacy Policy for as long as you use our Services or as necessary to fulfill the purpose(s) for which it was collected, provide our Services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and comply with applicable laws.
+
+9 Supplemental Notice for California Residents
+
+This Supplemental California Privacy Notice only applies to our processing of personal information that is subject to the California Consumer Privacy Act of 2018 (“CCPA”). The CCPA provides California residents with the right to know what categories of personal information Academia has collected about them and whether Academia disclosed that personal information for a business purpose (e.g., to a service provider) in the preceding 12 months. California residents can find this information below:
+
+**Category of Personal Information Collected by Academia** **Category of Third Parties Information to Whom is Disclosed for a Business Purpose**
+
+**Identifiers.**
+
+A real name, alias, postal address, unique personal identifier, online identifier, Internet Protocol address, email address, account name, or other similar identifiers.
+
+*   Advertising networks
+    
+*   Internet service providers
+    
+*   Data analytics providers
+    
+*   Operating systems and platforms
+    
+*   Social networks
+    
+*   Service providers
+    
+
+**Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e))**
+
+A name, address, telephone number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information. Personal Information does not include publicly available information that is lawfully made available to the general public from federal, state, or local government records. Note: Some personal information included in this category may overlap with other categories.
+
+*   Advertising networks
+    
+*   Internet service providers
+    
+*   Data analytics providers
+    
+*   Operating systems and platforms
+    
+*   Social networks
+    
+*   Service providers
+    
+
+**Protected classification characteristics under California or federal law**
+
+Age (40 years or older), gender.
+
+*   Advertising networks
+    
+*   Internet service providers
+    
+*   Data analytics providers
+    
+*   Operating systems and platforms
+    
+*   Social networks
+    
+*   Service providers
+    
+
+**Commercial information**
+
+Records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.
+
+*   Advertising networks
+    
+*   Internet service providers
+    
+*   Data analytics providers
+    
+*   Operating systems and platforms
+    
+*   Social networks
+    
+*   Service providers
+    
+
+**Internet or other electronic network activity**
+
+Browsing history, search history, information on a consumer's interaction with an internet website, application, or advertisement.
+
+*   Advertising networks
+    
+*   Internet service providers
+    
+*   Data analytics providers
+    
+*   Operating systems and platforms
+    
+*   Social networks
+    
+*   Service providers
+    
 
-If you receive an unwanted email from us, you can use the unsubscribe link found at the bottom of the email to opt out of receiving future emails. We will process your request within a reasonable time after receipt. Note that you will continue to receive transaction-related emails regarding products or services you have requested. We may also send you certain non-promotional communications regarding Academia.edu and our services and you will not be able to opt out of those communications (e.g., communications regarding updates to our Terms or this Privacy Policy).
+**Geolocation data**
 
-We maintain telephone "do-not-call" and "do-not-mail" lists as mandated by law. We process requests to be placed on do-not-mail, do-not-phone and do-not-contact lists within 60 days after receipt, or such shorter time as may be required by law.
+Physical location or movements.
 
-  
+*   Advertising networks
+    
+*   Internet service providers
+    
+*   Data analytics providers
+    
+*   Operating systems and platforms
+    
+*   Social networks
+    
+*   Service providers
+    
 
-**Data Retention**
+**Sensory data**
 
-Academia.edu retains the Personal Information we receive as described in this Privacy Policy for as long as you use the Academia.edu Service or as necessary to fulfill the purpose(s) for which it was collected, provide the Academia.edu Service, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and comply with applicable laws.
+Audio, electronic, visual, or similar information.
 
-  
+*   Internet service providers
+    
+*   Operating systems and platforms
+    
+*   Social networks
+    
+*   Service providers
+    
 
-**Security**
+**Professional or employment-related information**
 
-Academia.edu is very concerned with safeguarding your information. We use reasonable physical, technological, and administrative security measures to protect Member information and attempt to ensure they are applicable under the circumstances. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however, and we cannot ensure or warrant the security of any information you provide to us. We do not accept liability for unintentional disclosure. Therefore, while we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+Current or past job history or performance evaluations.
 
-We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored “personal data” (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system. For additional information about the security measures we use on Academia.edu, please contact us at privacy@academia.edu.
+*   Advertising networks
+    
+*   Internet service providers
+    
+*   Data analytics providers
+    
+*   Operating systems and platforms
+    
+*   Social networks
+    
+*   Service providers
+    
 
-  
+**Inferences drawn from other personal information to create a profile about a consumer**
 
-**International Transfer**
+Profile reflecting a consumer's preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes.
 
-Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. Your information collected through the Site may be stored and Processed in the United States or any other country in which Academia.edu maintains facilities.
+*   Advertising networks
+    
+*   Internet service providers
+    
+*   Data analytics providers
+    
+*   Operating systems and platforms
+    
+*   Social networks
+    
+*   Service providers
+    
 
-Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+The categories of sources from which we collect personal information and our business and commercial purposes for using personal information are set forth above.
 
-  
+**“Sales” of Personal Information under the CCPA**
 
-**Our Policy Toward Children**
+For purposes of the CCPA, Academia does not “sell” personal information, nor do we have actual knowledge of any “sale” of personal information of minors under 16 years of age.
 
-This Site is not directed to persons under the age of 13. We do not knowingly collect personally identifiable information from children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at privacy@academia.edu. If we become aware that a child under the age of 13 has provided us with Personal Information, we will delete such information from our files.
+**Additional Privacy Rights for California Residents**
 
-  
+**Non-Discrimination.** California residents have the right not to receive discriminatory treatment by us for the exercise of their rights conferred by the CCPA.
 
-**Changes to Our Privacy Policy and Practices**
+**Authorized Agent.** Only you, or someone legally authorized to act on your behalf, may make a verifiable consumer request related to your personal information. You may also make a verifiable consumer request on behalf of your minor child. To designate an authorized agent, please contact us as set forth below.
 
-This Privacy Policy may change from time to time. You understand and agree that you will be deemed to have accepted the updated Privacy Policy if you use the Academia.edu Service after the updated Privacy Policy is posted on the Site. If at any point you do not agree to any portion of the Privacy Policy then in effect, you must immediately stop using the Academia.edu Service.
+**Verification**. To protect your privacy, we will take steps the following steps to verify your identity before fulfilling your request. When you make a request, we will ask you to provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal information or an authorized representative, which may include asking you to log in to your Academia account or verify the email address associated with your Academia account.
 
-*   Revision to the Privacy Policy. We may revise this Privacy Policy in our sole discretion, so review it periodically. If you continue to visit this Site and use the Academia.edu Service made available to you after such changes have been made, you hereby provide your consent to the changes.
-*   Posting of Revised Privacy Policy. If there are any material changes to this Privacy Policy, we will notify you by email or as otherwise required by applicable law. You are advised to consult this policy regularly for any changes. We will post any adjustments to the Privacy Policy on this web page, and the revised version will be effective immediately when it is posted (or upon notice as applicable). If you are concerned about how your information is used, bookmark this page and read this Privacy Policy periodically. 
-*   New Uses of Personal Information. Additionally, before we use Personal Information for any new purpose not originally authorized by you, we will endeavor to provide information regarding the new purpose and give you the opportunity to opt out. Where consent of the individual for the Processing of Personal Information is otherwise required by law or contract, we will endeavor to comply with the law or contract.
+If you are a California resident and would like to exercise any of your rights under the CCPA, please contact us as set forth below. We will process such requests in accordance with applicable laws.
 
-  
+**Accessibility**. This Privacy Policy uses industry-standard technologies and was developed in line with the World Wide Web Consortium’s Web Content Accessibility Guidelines, version 2.1**.** If you wish to print this policy, please do so from your web browser or by saving the page as a PDF.
 
-**California Privacy Rights**
+10 Supplemental Notice for Nevada Residents
 
-California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the Third Parties to whom we have disclosed their Personal Information (if any) for their direct marketing purposes in the prior calendar year, as well as the type of Personal Information disclosed to those parties. Except as otherwise provided in this Privacy Policy, Academia.edu does not share Personal Information with Third Parties for their own marketing purposes.
+If you are a resident of Nevada, you have the right to opt out of the sale of certain Personal Information to third parties who intend to license or sell that Personal Information. You can exercise this right by contacting us as set forth below with the subject line “Nevada Do Not Sell Request” and providing us with your name and the email address associated with your account. Please note that we do not currently sell your Personal Information as sales are defined in Nevada Revised Statutes Chapter 603A.
 
-  
+11 Children’s Information
 
-**Contacting Us**
+The Services are not directed to children under 13 (or other age as required by local law), and we do not knowingly collect personal information from children.
 
-If you have any questions about our privacy practices, this Privacy Policy, or how to lodge a complaint with the appropriate authority, please contact us at: privacy@academia.edu.
+If you are a parent or guardian and wish to review information collected from your child, or have that information modified or deleted, you may contact us as described below. If we become aware that a child has provided us with personal information in violation of applicable law, we will delete any personal information we have collected, unless we have a legal obligation to keep it, and terminate the child’s account.
+
+12 Other Provisions
+
+**Third-Party Websites/Applications.** The Services may contain links to other websites/applications and other websites/applications may reference or link to our Services. These third-party services are not controlled by us. We encourage our users to read the privacy policies of each website and application with which they interact. We do not endorse, screen or approve, and are not responsible for, the privacy practices or content of such other websites or applications. Providing personal information to third-party websites or applications is at your own risk.
+
+**Supervisory Authority**. If you are located in the European Economic Area, Switzerland, the United Kingdom or Brazil, you have the right to lodge a complaint with a supervisory authority if you believe our processing of your personal information violates applicable law.
+
+**Changes to our Privacy Policy**. We may revise this Privacy Policy from time to time in our sole discretion. If there are any material changes to this Privacy Policy, we will notify you as required by applicable law. You understand and agree that you will be deemed to have accepted the updated Privacy Policy if you continue to use our Services after the new Privacy Policy takes effect.
+
+13 Contact Us
+
+If you have any questions about our privacy practices or this Privacy Policy, or to exercise your rights as detailed in this Privacy Policy, please contact us at:
+
+Academia  
+580 California Street  
+No. 400  
+San Francisco, CA 94104  
+privacy@academia.edu
