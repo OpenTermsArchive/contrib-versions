@@ -18,10 +18,10 @@
 *   Events &. Holidays
 *   MorePetsWorld LanguagesAt WorkFlowersKeep in TouchWeddingInvitations
 
+*   Canadian Thanksgiving
 *   Sweetest Day
 *   Halloween
 *   Autumn
-*   Canadian Thanksgiving
 *   Boss's Day
 *   Columbus Day
 *   More...
