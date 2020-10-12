@@ -2,6 +2,12 @@
 
 Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs Unresolved Resolved Not Support
 
+*   Recover my old blog entries
+    *   by here\_bizzy\_bizzy\_bizzy
+    *   1 year ago
+    *   in Adding &. Editing Entries
+    *   0 votes
+    *   1 (last comment by wles32 23 hours ago)
 *   Missing my blogs
     *   by WLM\_\_HY
     *   1 week ago
@@ -76,7 +82,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   Retrieving old posts
     *   by poodle\_slayer
-    *   4 weeks ago
+    *   1 month ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -86,12 +92,6 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   in Data Migration
     *   0 votes
     *   15 (last comment by backnblack08 1 month ago)
-*   How do I retrieve my old entries?
-    *   by mungbeanminh
-    *   1 month ago
-    *   in Data Migration
-    *   0 votes
-    *   0
 
 1 2 3 ... 198 Next
 
