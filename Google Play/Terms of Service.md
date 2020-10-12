@@ -1,7 +1,7 @@
 Google Play Terms of Service
 ============================
 
-August 4, 2020 ([View archived version](https://play.google.com/intl/en_US/about/play-terms/archive/))
+October 12, 2020 ([View archived version](https://play.google.com/intl/en_US/about/play-terms/archive/))
 
 1\. Introduction
 ----------------
@@ -102,11 +102,11 @@ Your contract for the purchase and use of Content is completed once you receive 
 
 **Multiple Accounts.** If you have multiple Google Accounts with different user names, in some cases you may transfer Content out of an account and into another account, provided you are the owner of each such account and provided Google has enabled a feature of the relevant service allowing such transfers.
 
-**Limits on access on Devices.** Google may from time to time place limits on the number of Devices or software applications you may use to access Content. Please visit our [Google Play Music help center](https://support.google.com/googleplaymusic?hl=en) page or the [Google Play Movies & TV Usage Rules](https://play.google.com/intl/en_us/about/movies-tv-usage-rules.html) for more information about these limits for Google Play Music or Google Play Movies & TV.
+**Limits on access on Devices.** Google may from time to time place limits on the number of Devices or software applications you may use to access Content. Please visit our [Google Play Music help center](https://support.google.com/googleplaymusic?hl=en) page or the [Google Play Movies & TV/Google TV Usage Rules](https://play.google.com/intl/en_us/about/movies-tv-usage-rules.html) for more information about these limits for Google Play Music or Google Play Movies & TV/Google TV.
 
 **Dangerous Activities.** None of the Services or Content are intended for use in the operation of nuclear facilities, life support systems, emergency communications, aircraft navigation or communication systems, air traffic control systems, or any other such activities in which case the failure of the Services or Content could lead to death, personal injury, or severe physical or environmental damage.
 
-**Google Play Movies & TV**. For additional details and restrictions regarding your access and use of Google Play Movies & TV, see the [Google Play Movies & TV Usage Rules](https://play.google.com/intl/en_us/about/movies-tv-usage-rules.html).
+**Google Play Movies & TV/Google TV**. For additional details and restrictions regarding your access and use of Google Play Movies & TV/Google TV, see the [Google Play Movies & TV/Google TV Usage Rules](https://play.google.com/intl/en_us/about/movies-tv-usage-rules.html).
 
 Google Play Music
 -----------------
