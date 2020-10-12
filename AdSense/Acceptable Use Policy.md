@@ -236,7 +236,7 @@ Unsupported languages
 
 We do not allow content that:
 
-*   is not primarily in one of the supported languages.
+*   is not primarily in one of the [supported languages](https://support.google.com/adsense/answer/9727).
 
 Minimum content requirements
 ----------------------------
