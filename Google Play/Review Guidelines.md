@@ -1,4 +1,4 @@
-Developer Program Policy (effective August 12, 2020)
+Developer Program Policy (effective October 1, 2020)
 ====================================================
 
 Let's build the world's most trusted source for apps and games
@@ -638,15 +638,17 @@ Toll Fraud includes any type of billing except premium SMS and premium calls. Ex
 
 Code that transmits personal information off the device without adequate notice or consent and doesn't display a persistent notification that this is happening.
 
-Stalkerware apps transmit data to a party other than the PHA provider. Legitimate forms of these apps cannot be used by parents to track their children. However, these apps can be used to track a person (a spouse, for example) without their knowledge or permission unless a persistent notification is displayed while the data is being transmitted.
+Stalkerware apps typically transmit data to a party other than the PHA provider. 
+
+Acceptable forms of these apps can be used by parents to track their children. However, these apps cannot be used to track a person (a spouse, for example) without their knowledge or permission unless a persistent notification is displayed while the data is being transmitted.
 
 Only policy compliant apps exclusively designed and marketed for parental (including family) monitoring or enterprise management may distribute on the Play Store with tracking and reporting features, provided they fully comply with the requirements described below.
 
-Apps distributed on the Play Store that monitor or track a user's behavior on a device must comply with these requirements:
+Non-stalkerware apps distributed on the Play Store which monitor or track a user's behavior on a device must minimally comply with these requirements:
 
 *   Apps must not present themselves as a spying or secret surveillance solution.
 *   Apps must not hide or cloak tracking behavior or attempt to mislead users about such functionality.
-*   Present users with a persistent notification and unique icon that clearly identifies the app.
+*   Apps must present users with a persistent notification and unique icon that clearly identifies the app.
 *   Apps and app listings on Google Play must not provide any means to activate or access functionality that violate these terms, such as linking to a non-compliant APK hosted outside Google Play.
 *   You are solely responsible for determining the legality of your app in its targeted locale. Apps determined to be unlawful in locations where they are published will be removed.
 
