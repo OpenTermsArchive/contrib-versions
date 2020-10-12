@@ -163,7 +163,7 @@ Manage your preferences about the ads shown to you on Google and on sites and ap
 
 Control what others see about you across Google services.
 
-[Go to About You](https://aboutme.google.com/?hl=en_GB)
+[Go to About You](https://myaccount.google.com/profile?hl=en_GB)
 
 ### Shared endorsements
 
@@ -360,7 +360,7 @@ The following privacy notices provide additional information about some Google s
 *   [Fiber](https://fiber.google.com/legal/privacy.html)
 *   [Google Fi](https://fi.google.com/about/tos/#project-fi-privacy-notice)
 *   [G Suite for Education](https://www.google.com/work/apps/terms/education_privacy.html)
-*   [Read Along](https://readalong.google/intl/en-GB_ZA/privacy)
+*   [Read Along](https://readalong.google/intl/en-GB_QA/privacy)
 *   [YouTube Kids](https://kids.youtube.com/privacynotice)
 *   [Google Accounts Managed with Family Link, for Children under 13 (or applicable age in your country)](https://families.google.com/familylink/privacy/child-policy/)
 *   [Voice and audio collection from children’s features on the Google Assistant](https://assistant.google.com/privacy-notice-childrens-features/?hl=en_GB)
