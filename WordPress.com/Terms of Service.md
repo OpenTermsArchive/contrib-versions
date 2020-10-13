@@ -177,11 +177,11 @@ Happy Tools is a suite of software and consulting services to help modern and di
 
 e. Ecommerce Services
 
-There are certain features offered via WooCommerce, WooCommerce Services, WordPress.com, or Jetpack that enable you to sell items (goods, content, services, etc.) or receive payments on your website, such as WooCommerce Payments, Store, the Payments feature, and the Pay with PayPal block (collectively, “Ecommerce Services”). If you use WooCommerce, the WooCommerce Use Terms also apply.
+There are certain features offered via WooCommerce, WooCommerce Shipping &. Tax, WordPress.com, or Jetpack that enable you to sell items (goods, content, services, etc.) or receive payments on your website, such as WooCommerce Payments, Store, the Payments feature, and the Pay with PayPal block (collectively, “Ecommerce Services”). If you use WooCommerce, the WooCommerce Use Terms also apply.
 
 If you use any Ecommerce Services, you represent and warrant that any information you provide about your business, products, and services is accurate, complete, and will be kept current. You agree to promptly notify us via email if you receive any inquiry or action from a government or regulatory agency (such as the Federal Trade Commission or a state Attorney General) relating to your transactions.
 
-**Usage of Information.** WooCommerce Services may require Automattic’s servers, a connection to our partners, and/or data from your website, to work, as described on our “What Data Does Jetpack Sync?” support page.
+**Usage of Information.** WooCommerce Shipping &. Tax may require Automattic’s servers, a connection to our partners, and/or data from your website, to work, as described on our “What Data Does Jetpack Sync?” support page.
 
 **Prohibited Uses.** You may not use Ecommerce Services for any unlawful purposes, in furtherance of illegal activities, or in a manner that is unfair, deceptive, exposes us or customers to unreasonable risks, or does not disclose important terms of a transaction in advance.
 
@@ -211,9 +211,12 @@ If you have a negative account balance (for example because of fraud, chargeback
 
 If we are obligated to pay or collect Taxes on your ecommerce activities or your use of Ecommerce Services, you are responsible for such Taxes, and we may collect payment for such Taxes.
 
-**Shipping Services.** Shipping labels are provided by EasyPost and allow you to take advantage of real-time shipping rates to purchase postage and print shipping labels from certain mailing services, such as UPS, USPS, and Canada Post. We act only as an intermediary between you and these third parties. we are not involved in any way with your product or its shipment. We also do not warrant that the results you obtain from the use of these services (rates and labels, for example) will be accurate or reliable.
+**Shipping Services.** Shipping labels are provided by EasyPost and allow you to take advantage of real-time shipping rates to purchase postage and print shipping labels from certain mailing services, such as UPS, USPS, DHL, and Canada Post. We act only as an intermediary between you and these third parties. we are not involved in any way with your product or its shipment. We also do not warrant that the results you obtain from the use of these services (rates and labels, for example) will be accurate or reliable.
 
-You are solely responsible for compliance with all applicable rules and regulations, including domestic and international shipping and customs regulations and those of the relevant mailing service. For example, if you use USPS postage, you will need to comply with their shipping restrictions and mailing standards, among others.
+You are solely responsible for compliance with all applicable rules and regulations, including domestic and international shipping and customs regulations and those of the relevant mailing service. For example:
+
+*   If you use USPS postage, you need to comply with their shipping restrictions and mailing standards, among others.
+*   When using DHL’s services, you are responsible for compliance with all applicable DHL rules and terms, such as the DHL Express Terms and Conditions of Carriage.
 
 In addition, you are solely responsible for customs charges, import taxes or duties, or any other charges related to your shipments. If any charges are assessed against us as a result of your use of the shipping services, you will reimburse us for the full amount within 7 days.
 
