@@ -18,9 +18,9 @@
 *   Events &. Holidays
 *   MorePetsWorld LanguagesAt WorkFlowersKeep in TouchWeddingInvitations
 
-*   Canadian Thanksgiving
 *   Sweetest Day
 *   Halloween
+*   Canadian Thanksgiving
 *   Autumn
 *   Boss's Day
 *   Columbus Day
@@ -28,12 +28,12 @@
     *   Say 'Hey' Day (Oct 25, 2020)
     *   Chocolate Day (Oct 28, 2020)
     *   Candy Corn Day (Oct 30, 2020)
-    *   'You Go, Girl' Day (Oct 11, 2020)
     *   Dussehra (Oct 25, 2020)
-    *   Samhain (Oct 31, 2020)
-    *   Clergy Appreciation Day (Oct 11, 2020)
     *   Dessert Day (Oct 14, 2020)
     *   World Students' Day (Oct 15, 2020)
+    *   World Food Day (Oct 16, 2020)
+    *   Black Poetry Day (Oct 17, 2020)
+    *   Navratri (Oct 17 - 25, 2020)
     *   National I Love You Day (Oct 28, 2020)
     *   See All Events
 *   Go
