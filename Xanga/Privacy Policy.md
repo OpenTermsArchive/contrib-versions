@@ -7,7 +7,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   1 year ago
     *   in Adding &. Editing Entries
     *   0 votes
-    *   1 (last comment by wles32 23 hours ago)
+    *   1 (last comment by wles32 1 day ago)
 *   Missing my blogs
     *   by WLM\_\_HY
     *   1 week ago
@@ -52,7 +52,7 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   0
 *   missing my blogs
     *   by rekei
-    *   2 weeks ago
+    *   3 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
@@ -64,19 +64,19 @@ Xanga Help Add New » **Most recently discussed** questions about Xanga… FAQs 
     *   3 (last comment by omesu214513 3 weeks ago)
 *   missing my blogs
     *   by jolinglee
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   missing my blogs
     *   by jolinglee
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
 *   missing my blogs
     *   by jolinglee
-    *   3 weeks ago
+    *   4 weeks ago
     *   in Data Migration
     *   0 votes
     *   0
