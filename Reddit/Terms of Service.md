@@ -3,13 +3,7 @@ Reddit User Agreement
 
 Effective October 15, 2020. Last Revised September 15, 2020
 
-|     |     |     |
-| --- | --- | --- |
-|     | We've updated our User Agreement and [Privacy Policy](https://www.redditinc.com/policies/privacy-policy). Please take a look before the changes take effect on October 15, 2020.  <br>  <br>This page is the updated User Agreement; for the version effective until October 15, 2020, [click here](https://www.redditinc.com/policies/user-agreement-september-24-2018). |     |
-|     |
-
-**  
-Reddit powers hundreds of thousands of distinct online communities.  
+**Reddit powers hundreds of thousands of distinct online communities.  
 ****This User Agreement and your conduct make that possible.**
 
 Hello, redditors and people of the Internet! This Reddit User Agreement (“**Terms**”) applies to your access to and use of the websites, mobile apps, widgets, APIs, emails, and other online products and services (collectively, the “**Services**”) provided by Reddit, Inc. (“**Reddit**,” “**we**,” “**us**,” or “**our**”).  
