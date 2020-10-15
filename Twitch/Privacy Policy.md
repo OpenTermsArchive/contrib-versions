@@ -63,7 +63,7 @@ Twitch’s [Privacy Choices](https://www.twitch.tv/p/legal/privacy-choices/) pag
 
 For other requests to review, update, delete, or otherwise limit Twitch’s use of information that you have provided directly to Twitch, you may contact privacy@twitch.tv. In your request, please include your email address, name, address, and telephone number and specify all relevant background. To protect your privacy and security, we may take steps to verify your identity before granting you access or making corrections to your information. You are responsible for maintaining the secrecy of your unique password and account information at all times.
 
-Residents of the European Economic Area (“EEA”), can exercise certain data subject rights available to them under applicable data protection laws.  We will comply with requests to exercise these rights in accordance with applicable law. Please note that in some circumstances, we may need to keep processing your information for certain legitimate interests or to comply with a legal obligation.  If these rights apply to you, they may permit you to request that we:
+Residents of the European Economic Area (“EEA”) and residents of Brazil can exercise certain data subject rights available to them under applicable data protection laws.  We will comply with requests to exercise these rights in accordance with applicable law. Please note that in some circumstances, we may need to keep processing your information for certain legitimate interests or to comply with a legal obligation.  If these rights apply to you, they may permit you to request that we:
 
 *   Obtain access to or a copy of certain personal information we hold about you.
 *   Prevent the processing of your personal information for direct marketing purposes (including any direct marketing processing based on profiling).
@@ -121,7 +121,7 @@ Protecting the privacy of young children is especially important. For that reaso
 
 If you are the parent or legal guardian of a child under 13 who has become a Twitch Services member, then please contact Twitch at privacy@twitch.tv to have that child’s account terminated and personal information deleted.
 
-For residents of the EEA, where the processing of personal information is based on consent, Twitch will not knowingly engage in that processing for users under the age of consent established by applicable data protection law. If we learn that we are engaged in that processing with such users, we will halt such processing and will take reasonable measures to promptly remove applicable information from our records.
+For residents of the EEA and residents of Brazil where the processing of personal information is based on consent, Twitch will not knowingly engage in that processing for users under the age of consent established by applicable data protection law. If we learn that we are engaged in that processing with such users, we will halt such processing and will take reasonable measures to promptly remove applicable information from our records.
 
 #### Merger or Sale
 
