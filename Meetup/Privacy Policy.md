@@ -3,7 +3,7 @@ June 02, 2020 20:33
 Privacy Policy
 ==============
 
-_Effective:_ June 12, 2020  
+_Effective:_ October 22, 2020  
 (V_iew previous version: [5/25/18](https://help.meetup.com/hc/en-us/articles/360043971732))_
 
 Our Privacy Policy explains how Meetup collects, uses, and discloses information about you. The terms “Meetup,” “we,” “us,” and “our” include Meetup LLC and our affiliates. We use the terms “member,” “you,” and “your” to mean any person using our Platform or attending related events, including any organization or person using the Platform on an organization’s behalf. This Privacy Policy applies to the processing of information about members and other individuals that we collect when you use our “Platform,” which means any website, application, or services we offer, or when you communicate with us. For information about choices you may have under this policy, please see “Your Choices” below. This Privacy Policy does not apply to the information that you may provide to third parties, such as members, and others with whom you may share information about yourself. For more information about the scope of our Privacy Policy, please see [Section 4.5](#h_b87ea47b-8923-406a-a6cd-bbdcc083e47b). 
@@ -256,7 +256,7 @@ _**Summary:**_
 2.  _You have the right to opt out of receiving Meetup’s promotional messages, but you may still receive other communications._
 3.  _You can complain to your local data protection authority about the use of your information._
 
-We respond to all requests that we receive from individuals who wish to exercise their data protection rights in accordance with applicable data protection laws. You can contact us with your request by sending an email to privacy@meetup.com.
+We respond to all requests that we receive from individuals who wish to exercise their data protection rights in accordance with applicable data protection laws. You can contact us with your request by sending an email to [privacy@meetup.com](mailto:privacy@meetup.com). You can also request deletion of your account and personal information by filling out [this form](https://help.meetup.com/hc/en-us/requests/new?ticket_form_id=360001113591). You must be logged into your Meetup account to view this form.
 
 Rights that you may have, depending on the jurisdiction in which you live, may include:
 
