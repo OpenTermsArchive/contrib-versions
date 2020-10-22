@@ -107,7 +107,7 @@ We may revise these Terms from time to time. The changes will not be retroactive
 
 In the event that any provision of these Terms is held to be invalid or unenforceable, then that provision will be limited or eliminated to the minimum extent necessary, and the remaining provisions of these Terms will remain in full force and effect. Twitter’s failure to enforce any right or provision of these Terms will not be deemed a waiver of such right or provision.
 
-These Terms are an agreement between you and Twitter International Company, an Irish company with its registered office at One Cumberland Place, Fenian Street Dublin 2, D02 AX07 Ireland. If you have any questions about these Terms, please contact [us](https://help.twitter.com/forms).
+These Terms are an agreement between you and Twitter International Company (Co. number 503351, VAT number IE9803175Q), an Irish company with its registered office at One Cumberland Place, Fenian Street Dublin 2, D02 AX07 Ireland. If you have any questions about these Terms, please contact [us](https://help.twitter.com/forms).
 
 **Effective:** June 18, 2020
 
