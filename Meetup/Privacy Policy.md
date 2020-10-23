@@ -256,7 +256,9 @@ _**Summary:**_
 2.  _You have the right to opt out of receiving Meetup’s promotional messages, but you may still receive other communications._
 3.  _You can complain to your local data protection authority about the use of your information._
 
-We respond to all requests that we receive from individuals who wish to exercise their data protection rights in accordance with applicable data protection laws. You can contact us with your request by sending an email to [privacy@meetup.com](mailto:privacy@meetup.com). You can also request deletion of your account and personal information by filling out [this form](https://help.meetup.com/hc/en-us/requests/new?ticket_form_id=360001113591). You must be logged into your Meetup account to view this form.
+We respond to all requests that we receive from individuals who wish to exercise their data protection rights in accordance with applicable data protection laws. You can contact us with your request by sending an email to [privacy@meetup.com](mailto:privacy@meetup.com). You can also request deletion of your account and personal information by filling out the form available in this Help Center article: **["](https://help.meetup.com/hc/en-us/articles/360050018571)[Request permanent deletion of your data."](https://help.meetup.com/hc/en-us/articles/360050018571)** **You must be logged in to your Meetup account to view this article and access the form.**
+
+.
 
 Rights that you may have, depending on the jurisdiction in which you live, may include:
 
