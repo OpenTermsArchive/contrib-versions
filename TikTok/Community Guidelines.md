@@ -1,5 +1,8 @@
 ### Community Guidelines
 
+**Introduction**
+----------------
+
 _Last Updated,_ August_, 2020_
 
 TikTok's mission is to inspire creativity and bring joy. We are building a global community where users can create and share authentically, discover the world around them, and connect with others across the globe. We are also committed to keeping this community safe. Our Community Guidelines reflect our values and define a common code of conduct on our platform. These guidelines also allow our community to help maintain a safe shared space.
