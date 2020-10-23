@@ -3,7 +3,7 @@ WhatsApp Legal
 
 *   [Key Updates](https://www.whatsapp.com/legal/key-updates-eea)
     
-*   [Terms of service](https://www.whatsapp.com/legal/terms-of-service-eea)
+*   [Terms of Service](https://www.whatsapp.com/legal/terms-of-service-eea)
     
 *   [Privacy Policy](https://www.whatsapp.com/legal/privacy-policy-eea)
     
