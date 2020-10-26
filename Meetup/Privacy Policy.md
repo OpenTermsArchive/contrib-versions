@@ -3,7 +3,7 @@ June 02, 2020 20:33
 Privacy Policy
 ==============
 
-_Effective:_ October 22, 2020  
+_Effective:_ June 12, 2020  
 (V_iew previous version: [5/25/18](https://help.meetup.com/hc/en-us/articles/360043971732))_
 
 Our Privacy Policy explains how Meetup collects, uses, and discloses information about you. The terms “Meetup,” “we,” “us,” and “our” include Meetup LLC and our affiliates. We use the terms “member,” “you,” and “your” to mean any person using our Platform or attending related events, including any organization or person using the Platform on an organization’s behalf. This Privacy Policy applies to the processing of information about members and other individuals that we collect when you use our “Platform,” which means any website, application, or services we offer, or when you communicate with us. For information about choices you may have under this policy, please see “Your Choices” below. This Privacy Policy does not apply to the information that you may provide to third parties, such as members, and others with whom you may share information about yourself. For more information about the scope of our Privacy Policy, please see [Section 4.5](#h_b87ea47b-8923-406a-a6cd-bbdcc083e47b). 
