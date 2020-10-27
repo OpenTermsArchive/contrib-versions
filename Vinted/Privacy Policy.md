@@ -323,6 +323,44 @@ Legal basis for such collection and use of data is the performance of a contract
 
 Vinted collects your personal data to allow you to use our Platform, to provide our services and to perform a contract (GTC) with you and keeps it for as long as we keep your Vinted account - for 3 months from the date of deletion of your Vinted account or for 5 years and 3 months of inactivity on your account.
 
+2.1.17.  To transfer your United Wardrobe account to Vinted Platform
+--------------------------------------------------------------------
+
+If you are a former United Wardrobe user and decide to transfer your profile from United Wardrobe operated by Vinted B.V (former United Wardrobe B.V. (Netherlands)) by giving your consent and create an account with Vinted as mentioned in section 2.1.1, Vinted receives the following (personal) data from United Wardrobe:
+
+1.  E-mail address;
+2.  Consent fact;
+3.  Time of the consent;
+4.  Consent text.
+
+Legal basis for such collection and use is your consent (Art. 6 (1) (a) of the GDPR).
+
+Personal data collected and used for this purpose are kept for two years after finishing the integration of your profile.
+
+On December 22, 2020 the United Wardrobe platform will go offline. This means that if you haven't given your consent to transfer your profile before December 22, 2020, United Wardrobe will only transfer your email address on December 22, 2020 date to Vinted. This is done in order to enable users, who have missed the deadline of December 22, 2020, to still have their profile transferred from United Wardrobe to Vinted. For this purpose, it is important to use the same email address you used on the United Wardrobe platform. By doing so Vinted  will be able to give you the option to have your profile transferred. If you consent, Vinted will be able to access your information on United Wardrobe and transfer it to your Vinted account. This option will be available until ultimately October 27, 2021.
+
+The legal basis for such collection and use of your email address is our legitimate interest to ensure the successful user migration process from United Wardrobe to Vinted (Art. 6 (1) (f) of the GDPR).
+
+When you create a Vinted account, the following personal data will be transferred from United Wardrobe to Vinted: your name, profile picture, date of birth, gender, listing images, listing titles, listing descriptions, listing prices, review ratings, review details, your followers and your favourite items.
+
+Legal basis for such collection and use of data is the performance of a contract (GTC) to which you are party (Art. 6 (1) (b) of the GDPR).
+
+_Essence of the arrangement between Vinted and United Wardrobe on joint responsibilities (Art. 26 (2) sentence 2 of the GDPR)_
+
+In order to ensure a smooth migration and transfer from the United Wardrobe Platform to the Vinted platform, both Vinted and United Wardrobe will gain access to certain personal data, the handling of which will fall within United Wardrobe’s and Vinted's joint responsibility. Therefore, from 27 October 2020 until ultimately 27 October 2021, United Wardrobe and Vinted will act as joint controllers.
+
+We would like to inform you about the essence of our arrangement on joint responsibilities with United Wardrobe, in accordance with Art. 26 of the GDPR. Since there are two controllers, we want to explain to you who is responsible for what of the processing of your data.
+
+From the start of the migration period, on October 27, 2020 until December 22, 2020 all ongoing transactions (both sales and purchases) will be completed on the United Wardrobe’s platform. After December 22, 2020 the United Wardrobe platform will go offline. During the entire migration period from October 27, 2020 until ultimately October 27, 2021 United Wardrobe will be responsible for the transfer of your user information from United Wardrobe to Vinted.
+
+During and after the migration period Vinted will be responsible for retrieving your personal information, which has been transferred by United Wardrobe. Once you have migrated your user information, all new transactions (both sales and purchases) will be made on the Vinted platform.
+
+Vinted is responsible for informing you about the processing of your personal data in accordance with Art. 13 and Art. 14 of the GDPR, which is provided to you above this section in this Privacy Policy. In addition, Vinted is also responsible for providing you with the essence of the arrangement between Vinted and United Wardrobe, in accordance with Art. 26 (2) sentence 2 of the GDPR.
+
+Contact point for exercising rights: For any request to exercise your right or any claim relating to the aforementioned data collection and use, you should directly address Vinted as we are the main contact point (Art. 26 (1) sentence 3 of the GDPR) for such matters. Your rights in this context means the right to request from the controller access (Art. 15 of the GDPR) to and rectification (Art. 16 of the GDPR) or erasure of personal data (Art. 17 GDPR) or restriction of processing concerning you (Art. 18 GDPR) or to object to processing (Art. 21 of the GDPR) as well as the right to data portability (Art. 20 GDPR). 
+
+Vinted collects your personal data to allow you to use our Platform, to provide our services and to perform a contract (GTC) with you and keeps it for as long as we keep your Vinted account - for 3 months from the date of deletion of your Vinted account or for 5 years and 3 months of inactivity on your account.
+
 2.2. To improve your experience when using the Platform
 -------------------------------------------------------
 
