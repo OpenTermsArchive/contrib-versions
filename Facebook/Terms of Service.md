@@ -234,6 +234,8 @@ We provide these services to you and others to help advance our mission. In exch
     
 *   [Music Guidelines](https://www.facebook.com/legal/music_guidelines): These guidelines outline the Policies that apply if you post or share content containing music on Facebook.
     
+*   [Live Policies](https://www.facebook.com/policies/live): These policies apply to all content broadcast to Facebook through Facebook Live.
+    
 
   
-Date of last revision: 1 October 2020
+Date of last revision: 22 October 2020
