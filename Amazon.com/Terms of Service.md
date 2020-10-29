@@ -55,7 +55,7 @@ If you do post content or submit material, and unless we indicate otherwise, you
 INTELLECTUAL PROPERTY COMPLAINTS
 --------------------------------
 
-Amazon respects the intellectual property of others. If you believe that your intellectual property rights are being infringed, please follow our [Notice and Procedure for Making Claims of Copyright Infringement](#GUID-32F0D8DC-150F-4394-921F-77B2DB58A4F8__SECTION_61204EC3A0D64C09820BE2BC332A4AFA).
+Amazon respects the intellectual property of others. If you believe that your intellectual property rights are being infringed, please follow our [Notice and Procedure for Making Claims of Copyright Infringement](https://www.amazon.com/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM).
 
 RISK OF LOSS
 ------------
@@ -152,7 +152,7 @@ Amazon accepts service of subpoenas or other legal process only through Amazonâ€
 
 Amazon.com, Inc.
 Corporation Service Company
-300 Deschutes Way SW, Suite 304
+300 Deschutes Way SW, Suite 208
 Tumwater, WA 98501
 Attn: Legal Department â€“ Legal Process
 
