@@ -1,10 +1,11 @@
 TERMS AND CONDITIONS
+====================
 
 GAME CENTER
 
 THE LEGAL AGREEMENT (“AGREEMENT”) SET OUT BELOW GOVERNS YOUR USE OF THE GAME CENTER SERVICE. IT IS IMPORTANT THAT YOU READ AND UNDERSTAND THE FOLLOWING TERMS. BY CLICKING "AGREE," YOU ARE AGREEING THAT THESE TERMS WILL APPLY IF YOU CHOOSE TO ACCESS OR USE THE SERVICE. IF YOU ARE UNDER THE AGE OF MAJORITY, YOU SHOULD REVIEW THIS AGREEMENT WITH YOUR PARENT OR GUARDIAN TO MAKE SURE THAT YOU AND YOUR PARENT OR GUARDIAN UNDERSTAND IT.
 
-Apple Inc. is the provider of the Game Center service (the “Service”), which permits you to engage in game related activities, including, but not limited to, participation in leader boards, multi-player games, and tracking achievements. The Service may not be available in all areas. Use of the Service requires compatible devices, Internet access, and certain software (fees may apply). may require periodic updates. and may be affected by the performance of these factors.
+Apple Inc. is the provider of the Game Center service (the “Service”), which permits you to engage in game related activities, including, but not limited to, participation in leader boards, multi-player games, and tracking achievements. The Service may not be available in all areas. Use of the Service requires compatible devices, Internet access, and certain software (fees may apply); may require periodic updates; and may be affected by the performance of these factors.
 
 To use the Service, you cannot be a person barred from receiving the Service under the laws of the United States or other applicable jurisdictions, including the country in which you reside or from where you use the Service. By accepting this Agreement, you represent that you understand and agree to the foregoing.
 
@@ -24,33 +25,33 @@ You agree not to, or attempt or assist another person to, violate, circumvent, r
 
 You agree that you will NOT use the Service to:
 
-a. upload, download, post, email, transmit, store or otherwise make available any content that is unlawful, harassing, threatening, harmful, tortious, defamatory, libelous, abusive, violent, obscene, vulgar, invasive of another’s privacy, hateful, racially or ethnically offensive, or otherwise objectionable.
+a. upload, download, post, email, transmit, store or otherwise make available any content that is unlawful, harassing, threatening, harmful, tortious, defamatory, libelous, abusive, violent, obscene, vulgar, invasive of another’s privacy, hateful, racially or ethnically offensive, or otherwise objectionable;
 
-b. stalk, harass, threaten or harm another.
+b. stalk, harass, threaten or harm another;
 
-c. if you are an adult, request personal or other information from a minor (any person under the age of 18 or such other age as local law defines as a minor) who is not personally known to you, including but not limited to any of the following: full name or last name, home address, zip/postal code, telephone number, picture, email address, or the names of the minor's school, church, athletic team or friends.
+c. if you are an adult, request personal or other information from a minor (any person under the age of 18 or such other age as local law defines as a minor) who is not personally known to you, including but not limited to any of the following: full name or last name, home address, zip/postal code, telephone number, picture, email address, or the names of the minor's school, church, athletic team or friends;
 
-d. pretend to be anyone, or any entity, you are not — you may not impersonate or misrepresent yourself as another person (including celebrities), entity, another Service participant, an Apple employee, or a civic or government leader, or otherwise misrepresent your affiliation with a person or entity, (Apple reserves the right to reject or block any nickname which could be deemed to be an impersonation or misrepresentation of your identity, or a misappropriation of another person's name or identity).
+d. pretend to be anyone, or any entity, you are not — you may not impersonate or misrepresent yourself as another person (including celebrities), entity, another Service participant, an Apple employee, or a civic or government leader, or otherwise misrepresent your affiliation with a person or entity, (Apple reserves the right to reject or block any nickname which could be deemed to be an impersonation or misrepresentation of your identity, or a misappropriation of another person's name or identity);
 
-e. engage in any copyright infringement or other intellectual property infringement, or disclose any trade secret or confidential information in violation of a confidentiality, employment, or nondisclosure agreement.
+e. engage in any copyright infringement or other intellectual property infringement, or disclose any trade secret or confidential information in violation of a confidentiality, employment, or nondisclosure agreement;
 
-f. post, send, transmit or otherwise make available any unsolicited or unauthorized email messages, advertising, promotional materials, junk mail, spam, or chain letters, including, without limitation, bulk commercial advertising and informational announcements.
+f. post, send, transmit or otherwise make available any unsolicited or unauthorized email messages, advertising, promotional materials, junk mail, spam, or chain letters, including, without limitation, bulk commercial advertising and informational announcements;
 
-g. forge any TCP-IP packet header or any part of the header information in an email or a news group posting, or otherwise put information in a header designed to mislead recipients as to the origin of any content transmitted through the Service (“spoofing").
+g. forge any TCP-IP packet header or any part of the header information in an email or a news group posting, or otherwise put information in a header designed to mislead recipients as to the origin of any content transmitted through the Service (“spoofing");
 
-h. upload, post, email, transmit, store or otherwise make available any material that contains viruses or any other computer code, files or programs designed to harm, interfere with or limit the normal operation of the Service (or any part thereof), or any other computer software or hardware.
+h. upload, post, email, transmit, store or otherwise make available any material that contains viruses or any other computer code, files or programs designed to harm, interfere with or limit the normal operation of the Service (or any part thereof), or any other computer software or hardware;
 
-i. interfere with or disrupt the Service (including accessing the Service through any automated means, like scripts or web crawlers), or any servers or networks connected to the Service, or any policies, requirements or regulations of networks connected to the Service (including any unauthorized access to, use or monitoring of data or traffic thereon).
+i. interfere with or disrupt the Service (including accessing the Service through any automated means, like scripts or web crawlers), or any servers or networks connected to the Service, or any policies, requirements or regulations of networks connected to the Service (including any unauthorized access to, use or monitoring of data or traffic thereon);
 
-j. plan or engage in any illegal activity. and/or gather and store personal information on any other users of the Service to be used in connection with any of the foregoing prohibited activities.
+j. plan or engage in any illegal activity; and/or gather and store personal information on any other users of the Service to be used in connection with any of the foregoing prohibited activities;
 
 k. cheat or otherwise modify the Service or the game experience to effect an advantage for one player over another.
 
 PRIVACY
 
-The Service is subject to Apple's Privacy Policy at https://www.apple.com/privacy. As set out in the Privacy Policy, when you use the Service, such as inviting other users to join the Service, participating in leader boards, enabling invitations or multiplayer functionality, or displaying status messages, the personal information you share is visible to other users and can be read, collected, or used by them. You are responsible for the personal information you choose to submit. When playing a game that supports multiplayer functionality, other users accessing the Service from within the same game on the same Wi-Fi network, local area network or within range of Bluetooth will be able to see that you are nearby (unless you turn this feature off), and see your nickname and photo, or full profile if you have a friend relationship with such user. If you choose to have your public profile set to “on”, other users of the Service can see your full profile, including your full name, activity (such as the games you have played and when you played them), scores, and achievements, and you can be recommended as a friend to other users. If your public profile is set to “off”, only users with whom you have established a friend relationship can see your full profile, and you will not be recommended to others. only your nickname and photo will be visible to users who are not friends. If you send or receive a friend request, the full name associated with your Apple ID will be shared with those users to whom you send, or from whom you accept, a friend request, and Apple may recommend games that you have played to your friends.
+The Service is subject to Apple's Privacy Policy at [https://www.apple.com/privacy](https://www.apple.com/privacy). As set out in the Privacy Policy, when you use the Service, such as inviting other users to join the Service, participating in leader boards, enabling invitations or multiplayer functionality, or displaying status messages, the personal information you share is visible to other users and can be read, collected, or used by them. You are responsible for the personal information you choose to submit. When playing a game that supports multiplayer functionality, other users accessing the Service from within the same game on the same Wi-Fi network, local area network or within range of Bluetooth will be able to see that you are nearby (unless you turn this feature off), and see your nickname and photo, or full profile if you have a friend relationship with such user. If you choose to have your public profile set to “on”, other users of the Service can see your full profile, including your full name, activity (such as the games you have played and when you played them), scores, and achievements, and you can be recommended as a friend to other users. If your public profile is set to “off”, only users with whom you have established a friend relationship can see your full profile, and you will not be recommended to others; only your nickname and photo will be visible to users who are not friends. If you send or receive a friend request, the full name associated with your Apple ID will be shared with those users to whom you send, or from whom you accept, a friend request, and Apple may recommend games that you have played to your friends.
 
-If you wish to stop sharing information with other users and the Service, see https://www.apple.com/support/.
+If you wish to stop sharing information with other users and the Service, see [https://www.apple.com/support/](https://www.apple.com/support/).
 
 Some aspects of the Service are not available to children under 13, such as features that allow users to disclose personally identifiable information. Please enable restrictions as appropriate.
 
@@ -58,7 +59,7 @@ SUBMISSIONS TO THE SERVICE
 
 The Service may offer interactive features that allow you to submit materials (including links to third-party content) on areas of the Service accessible and viewable by the public. You agree that any use by you of such features, including any materials submitted by you, shall be your sole responsibility, shall not infringe or violate the rights of any other party or violate any laws, contribute to or encourage infringing or otherwise unlawful conduct, or otherwise be obscene, objectionable or in poor taste. You also agree that you have obtained all necessary rights and licenses to make such submissions. You agree to provide accurate and complete information in connection with your submission of any materials on the Service. You hereby grant Apple a worldwide, royalty-free, non-exclusive license to use such materials as part of the Service or in providing or marketing the Service, without any compensation or obligation to you. Apple reserves the right to not post or publish any materials and to remove or edit any material, at any time in its sole discretion without notice or liability.
 
-Apple has the right, but not the obligation, to monitor any materials submitted by you or otherwise available on the Service, to investigate any reported or apparent violation of this Agreement, and to take any action that Apple in its sole discretion deems appropriate, including, without limitation, termination hereunder or under our Copyright Policy (https://www.apple.com/legal/copyright.html).
+Apple has the right, but not the obligation, to monitor any materials submitted by you or otherwise available on the Service, to investigate any reported or apparent violation of this Agreement, and to take any action that Apple in its sole discretion deems appropriate, including, without limitation, termination hereunder or under our Copyright Policy ([https://www.apple.com/legal/copyright.html](https://www.apple.com/legal/copyright.html)).
 
 THIRD-PARTY MATERIALS
 
@@ -80,11 +81,11 @@ Apple, the Apple logo, and other Apple trademarks, service marks, graphics, and 
 
 TERMINATION
 
-If you fail, or Apple suspects that you have failed, to comply with any of the provisions of this Agreement, Apple, at its sole discretion, without notice to you may: (i) terminate this Agreement and/or your Account. and/or (ii) terminate the license to the Service. and/or (iii) preclude access to the Service (or any part thereof).
+If you fail, or Apple suspects that you have failed, to comply with any of the provisions of this Agreement, Apple, at its sole discretion, without notice to you may: (i) terminate this Agreement and/or your Account; and/or (ii) terminate the license to the Service; and/or (iii) preclude access to the Service (or any part thereof).
 
 Apple reserves the right to modify, suspend, or discontinue the Service (or any part or content thereof) at any time with or without notice to you, and Apple will not be liable to you or to any third party should it exercise such rights.
 
-DISCLAIMER OF WARRANTIES. LIABILITY LIMITATION
+DISCLAIMER OF WARRANTIES; LIABILITY LIMITATION
 
 APPLE DOES NOT GUARANTEE, REPRESENT, OR WARRANT THAT YOUR USE OF THE SERVICE WILL BE UNINTERRUPTED OR ERROR-FREE, AND YOU AGREE THAT FROM TIME TO TIME APPLE MAY REMOVE THE SERVICE FOR INDEFINITE PERIODS OF TIME, OR CANCEL THE SERVICE AT ANY TIME, WITHOUT NOTICE TO YOU.
 
