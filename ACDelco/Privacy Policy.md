@@ -1,5 +1,3 @@
-                           
-
 Privacy Statement
 =================
 
