@@ -1,6 +1,6 @@
-        •home •about us •Word Builder
-
 We Respect Your Privacy
+
+* * *
 
   
 
@@ -19,3 +19,5 @@ We Respect Your Privacy
 **Choice/Opt-Out.** This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. You can send email to wineverygame (at) gmail (dot) com
 
 **Contacting the Web Site.** If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us wineverygame (at) gmail (dot) com
+
+* * *
