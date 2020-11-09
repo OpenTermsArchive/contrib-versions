@@ -1,12 +1,13 @@
-Amazon Silk Terms &. Conditions
+Amazon Silk Terms & Conditions
+==============================
 
 **Last updated: December 13, 2017**
 
-Please read these Terms &. Conditions, Amazon.com Privacy Notice, and the Amazon.com Conditions of Use (collectively, the "Agreement") before using the Amazon Silk browser software and related services (collectively, "Amazon Silk"). By choosing a browser operating mode and installing, using, or accessing Amazon Silk, you accept and agree to be bound by this Agreement. If you don't want to be bound by the Agreement, exit the browser and do not install, use, or access Amazon Silk.
+Please read these Terms & Conditions, [Amazon.com Privacy Notice](https://www.amazon.com/privacy), and the [Amazon.com Conditions of Use](https://www.amazon.com/gp/help/customer/display.html?&nodeId=508088) (collectively, the "Agreement") before using the Amazon Silk browser software and related services (collectively, "Amazon Silk"). By choosing a browser operating mode and installing, using, or accessing Amazon Silk, you accept and agree to be bound by this Agreement. If you don't want to be bound by the Agreement, exit the browser and do not install, use, or access Amazon Silk.
 
   
 
-1.  **Privacy Information:** Personally identifiable information collected through Amazon Silk is subject to the Amazon.com Privacy Notice, which is incorporated and made a part of this Agreement.
+1.  **Privacy Information:** Personally identifiable information collected through Amazon Silk is subject to the [Amazon.com Privacy Notice](https://www.amazon.com/privacy), which is incorporated and made a part of this Agreement.
     
     Amazon Silk optimizes and accelerates the delivery of web content by using Amazon's cloud computing services. Therefore, like most Internet service providers and similar services that enable you to access the Web, the content of web pages you visit using Amazon Silk passes through our servers and may be cached to improve performance on subsequent page loads.
     
@@ -21,7 +22,7 @@ Please read these Terms &. Conditions, Amazon.com Privacy Notice, and the Amazon
     All text you enter in Amazon Silk's address bar is sent to a default search engine. The initial default search engine is selected by Amazon Silk, and we may change the default search engine in the future without notice to you. If you would like, you may choose to use a different search provider as your default search engine. The privacy policy of the selected default search engine applies to information sent to it.
     
 2.  **Amazon Silk Updates and Upgrades:** Amazon Silk is offered by Amazon Web Services, Inc ("Amazon"). The terms of the Agreement govern the Amazon Silk browser software and any updates or upgrades to the Amazon Silk browser software that Amazon may provide that replace and/or supplement the original browser, unless such update or upgrade is accompanied by a separate license, in which case the terms of that license will govern. (Collectively, the original software and any updates or upgrades shall be referred to as the "Software.") This Agreement also covers services related to the Software.
-3.  **License and Restrictions:** The license and restrictions governing your use of Amazon Silk, including the Software, are described in the Amazon.com Conditions of Use.
+3.  **License and Restrictions:** The license and restrictions governing your use of Amazon Silk, including the Software, are described in the [Amazon.com Conditions of Use](https://www.amazon.com/gp/help/customer/display.html/?nodeId=508088).
 4.  **Changes:** Amazon may change, suspend, or discontinue Amazon Silk, or any part of Amazon Silk without notice or liability. If Amazon elects to provide customer support of any kind, it may terminate that support at any time without notice to you.
 5.  **Termination:**You may terminate the Agreement at any time by uninstalling the Software or ceasing your use of Amazon Silk. In addition, your rights under the Agreement will automatically terminate without notice from Amazon if you fail to comply with any term of the Agreement or if Amazon discontinues Amazon Silk.
     
