@@ -1,240 +1,155 @@
-**INTRODUCTION**
+Privacy Policy
+==============
 
-Welcome to the Zoosk community! At Zoosk, we value your privacy and trust, so we’re providing you with the information in this Privacy Policy (“Policy”) about how we handle your data, who we share it with and your rights around the data. This Policy applies when you use our services through our websites linked to this Policy, as well as our products and applications (including our mobile applications, downloadable products and applications and pages operated by us on social networking sites and other platforms) (collectively, the “Services”).
+INTRODUCTION
+------------
 
-We may choose or be required by law to provide different or additional disclosures relating to the processing of personal information about residents of certain countries, regions or states. Please refer below for disclosures that may be applicable to you:
+Welcome to the Zoosk community! At Zoosk, we value your privacy and trust, so we’re providing you with the information in this Privacy Policy (“Policy”) about how we handle your data, who we share it with and your rights around the data. This Policy applies when you use our services through our websites linked to this Policy, as well as our products and applications (including Zoosk’s mobile applications, downloadable products and applications and pages operated by Zoosk on social networking sites and other platforms) (collectively, the “Services”).
 
-If you are a resident of the State of California in the United States, please click here for additional California-specific privacy disclosures.
+By registering, using or subscribing to the Services, you confirm that you have read and consent to:
 
-If you are a resident of the State of Nevada in the United States: Chapter 603A of the Nevada Revised Statutes permits a Nevada resident to opt out of future sales of certain covered information that a website operator has collected or will collect about the resident. To submit such a request, please contact us at support@zoosk.com.
+• the collection of your personal data as described in this Policy, particularly as noted in Section 2 of this Policy (including, for example, your contact information, demographic information, age, gender and dating gender preference), including information from social networking sites;
+
+• the processing of your personal data, including your sensitive data (including, for example your dating gender preference, dating relationship experiences, race, ethnicity, religion and political views), as described in this Policy, particularly including those uses described in Section 2 of this Policy;
+
+• the sharing of personal data with third parties as described in Section 3 and 4 of this Policy;
+
+• the storage and processing of your personal data in the United States of America (and other countries) as described in Section 4 of this Policy;
+
+• the use of cookies and similar technologies to store and access information on devices you connect to the Services in accordance with our [Cookie Policy](https://docviewer.zoosk.com/legal-cookiepolicy-en.html);
+
+• the use of your personal data to send you notifications, promotions and advertising by email, SMS or MMS text message or in accordance with Section 3 of this Policy and the [Advertising Policy](https://docviewer.zoosk.com/legal-ads-policy-en.html); and
+
+• the collection and use of location information as described below in Section 2
+
+• Where relevant, the transfer of your data to countries outside of the EU, including the United States.
+
+If you have any questions relating to the content of this Policy please contact us using the contact information set out below.
 
 This Policy is provided in a layered format so you can click through to the specific areas set out below.
 
-1.  IMPORTANT INFORMATION AND WHO WE ARE
-2.  THE DATA WE COLLECT ABOUT YOU AND HOW IT IS COLLECTED
-3.  HOW WE USE YOUR PERSONAL DATA
-4.  DISCLOSURES OF YOUR PERSONAL DATA
-5.  YOUR CALIFORNIA PRIVACY RIGHTS
-6.  CONTACT US
-7.  MISCELLANEOUS
+1\. [IMPORTANT INFORMATION AND WHO WE ARE](#infoAndWhoWeAre)
 
-1\. IMPORTANT INFORMATION AND WHO WE AREWHO WE ARE AND OUR ROLE
+2\. [THE DATA WE COLLECT ABOUT YOU AND HOW IT IS COLLECTED](#dataWeCollect)
 
-This Policy is issued on behalf of the Zoosk, Inc. (the “Company”) and any affiliated entities (the “Company Group”), so when we mention the “Company”, “we”, “us” or “our” in this Policy, we are referring to the relevant company in the Company Group responsible for processing your data.
+3\. [HOW WE USE YOUR PERSONAL DATA](#howWeUse)
 
-The Company is the controller and primarily responsible for the Services.
+4\. [DISCLOSURES OF YOUR PERSONAL DATA](#disclosures)
 
-AGE RESTRICTIONS
+5\. [INTERNATIONAL TRANSFERS](#intlTransfers)
+
+6\. [DATA SECURITY](#dataSecurity)
+
+7\. [DATA RETENTION](#dataRetention)
+
+8\. [YOUR LEGAL RIGHTS](#yourLegalRights)
+
+9\. [CONTACT US](#contactUs)
+
+10\. [MISCELLANEOUS](#misc)
+
+1\. IMPORTANT INFORMATION AND WHO WE ARE
+----------------------------------------
+
+### WHO WE ARE AND OUR ROLE
+
+This Policy is issued on behalf of the Zoosk, Inc. and any parent or subsidiary entities (the “Zoosk Group”) so when we mention ”Zoosk”, “we”, “us” or “our” in this Policy, we are referring to the relevant company in the Zoosk Group responsible for processing your data.
+
+Zoosk, Inc. is the controller and primarily responsible for the Services.
+
+We have appointed a Data Protection Officer (“DPO”) who is responsible for overseeing questions in relation to this Policy. If you have any questions about this Policy, including any requests to exercise your legal rights, please contact the DPO using the details set out in the Contact Us section below.
+
+### AGE RESTRICTIONS
 
 We restrict the use of our Services to individuals age 18 and above. We do not intentionally collect or maintain personal data from children under the age of 16. If you become aware that personal data about a person under 16 has been provided to us, please immediately contact us using the details below.
 
-THIRD-PARTY CONTENT AND LINKS
+### THIRD-PARTY CONTENT AND LINKS
 
 The Services may include content or links from third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit.
 
 2\. THE DATA WE COLLECT ABOUT YOU AND HOW IT IS COLLECTED
+---------------------------------------------------------
 
-When we use the term “personal data” or “personal information” in this Policy, we mean information that identifies, relates to, describes, is reasonably capable of being associated with or could reasonably be linked, directly or indirectly, to you. It does not include aggregated or deidentified information that is maintained in a form that is not reasonably capable of being associated with or linked to you.
+Personal data means any information about an individual from which that person can be identified. It does not include data where the identity has been removed (anonymous data).
 
-WHAT WE COLLECT AND HOW
+### WHAT WE COLLECT AND HOW
 
-We may collect, use, store and transfer different kinds of personal data about you that we have categorized as follows:
+We may collect, use, store and transfer different kinds of personal data about you which we have grouped together follows:
 
-1.  **Information You Provide**. When you register, use or subscribe to any of our Services or take part in any interactive features of the Services (such as any contests, games, promotions, quizzes, surveys, research or other services or features), we may collect a variety of information, including:
-    1.  **Contact Information** such as your name, email address, phone number, and address (“Contact Information”). and
-    2.  **Sensitive Information** such as race, ethnicity, sexual preferences and experiences, political affiliation, religious affiliation, union memberships, or any biometric information you provide through the use of our Services (your “Sensitive Personal Data”).
-    3.  **Other Information** such as birth date, videos, password, billing information, credit card information, demographic information, place of work or education, your personal interests and background, gender, age, dating age range preference, physical characteristics, personal description, life experiences, geographic location, your photos and any information derived from them, and any other information you share with the Services. We may collect billing or payments information if you engage with a paid Service.
-2.  **Information About How You Use the Services**. We may automatically collect information about your participation and actions on the Services. This may include information such as the pages and profiles you view, how you browse the Services, dating insights, your Company coin balance and purchases you make through the Services such as boosts and gifts. It can also include the various functions and features that you use, the connections you make, other friends or contacts you invite to the Services and profile searches you perform or your use of our applications.
-3.  **Information and Content You Upload**. When you upload photos, videos or other content to the Services, we may collect information about the content, such as the time, date and place the photo or content was taken or uploaded (also known as metadata), and how you use them, who views them or with whom you share them. We may also scan, monitor, store and analyze the photos, videos and other content you provide to us using third party services for several purposes, including for anti-fraud purposes, for the assessment of whether the photos are consistent with our Terms of Use, to help identify your interests and activities—such as if your photo includes pets, sports or trips—and to help us provide better matches for you. To share photos and videos, we may request to access your device camera roll and camera with your permission. If you need to update your permissions, you can do so in the “Settings” app of your device.
-4.  **Information Automatically Collected**. When you access our Services, we and our third party partners automatically record information from your device and its software, such as your IP address, browser type, Internet service provider, platform type, the site from which you came and the site to which you are going when you leave our website, date and time stamp and one or more cookies that may uniquely identify your browser or your account. When you access our Services using a mobile device, we may also receive or collect identification numbers associated with your device (such as a unique device ID, IDFA, Google AdID), device type, model and manufacturer, mobile device operating system brand and model, mobile carrier, phone number, email address, and other apps that you have downloaded. We also collect information about your usage of, and activity on, our Services, including internet navigation details (for example, how your mouse moves on a screen which tells us if you’re a bot or real person). This information is typically collected through a variety of tracking technologies, including cookies, web beacons, embedded scripts, location-identifying technologies, file information and similar technology. You can find out more about our use of cookies and similar technologies in our Cookie Policy.
-5.  **Cookies and Similar Technologies**. We and our third party partners may use cookies and similar technologies, including those from third parties, to collect, analyze and store information, to provide customized advertising on our site and applications and on other sites or applications, to provide and improve the Services or other products or services offered by us, and to identify and prevent fraudulent activities. You can find out more about our use of cookies and similar technologies in our Cookie Policy.
-6.  **Your Communications with Us and Other Users**. We collect communications you send to us (such as emails), comments that you post on the pages we have on a third-party service, such as our Instagram, Twitter, Facebook, Pinterest, Tumblr, and YouTube pages and messages that you send us directly through those services. We may also collect and analyze any comments, photos, messages or other content or communications you and other users share on the Services or send to each other, including through in-app messages, chat or other functionalities.
-7.  **Third-Party Social Networking Sites You Connect to the Services**. When you have enabled the use of our Services through a third-party social networking site or mobile or other application such as Facebook, Google or Twitter (a “Social Networking Site”) or connect or link our Services to a Social Networking Site, you permit us to access and use certain information about you that is made available to us through or from that Social Networking Site. The information obtained by us varies by Social Networking Site and may be affected by the permission and privacy settings you establish at that Social Networking Site, but can include information such as your name, profile picture, public Facebook profile, network, gender, username, user ID, age range or birthday, place of work, relationship interests, language, location, country, interests, photos, photos you are tagged in, videos, contacts list, friends lists or followers and other information such as information about Facebook friends you might share in common with other members of the Services. By using or linking our Services through or with a Social Networking Site, you are authorizing us to collect, store, retain and use, in accordance with this Policy, any and all of your information that we have obtained from the Social Networking Site, including to create a profile page and account for you. Depending on the Social Networking Site and your privacy settings, we may also post information to your Social Networking Site. Your agreement to the foregoing takes place when you “accept” or “allow” or “go to” (or other similar terms, such as tapping “Okay”) our application from a Social Networking Site, when you go to a Social Networking Site from the Services, when you sign up or login to the Services through a Social Networking Site (such as by tapping “Sign up with Facebook” or “Log in with Facebook” on the Services), when you otherwise connect or link your Social Networking Site to our Services or when you transfer information to us from such site. If there is information about your “friends” or people you are associated with in your Social Networking Site account, the information we obtain about those persons may also depend on the privacy settings such people have with the applicable Social Networking Site. You acknowledge and agree that we are not responsible for, and have no control over, any applicable privacy settings on any Social Networking Sites (including any settings related to any messages or advertisements about us that the Social Networking Site may send to you or your friends). You should always review, and if necessary, adjust your privacy settings on Social Networking Sites before getting or using applications such as ours or linking or connecting your Social Networking Site account to the Services.
-8.  **Location Data**. We collect information about your location through GPS, Wi-Fi, wireless network triangulation, or other methods in order to obtain your location for the purposes of providing our Services. We may also approximate your location by your IP Address. In some cases, we assign the latitude and longitude of the center of a city or state on record for you to your profile as a way to improve our analytics and matches for you.
-9.  **Social Networks Through Your Interactions**. When you interact with our Services through various social media networks, such as when you “Like” us on Facebook or when you follow us or share our content on Facebook, Twitter, LinkedIn, Instagram or other social networks, we may receive some information about you that you permit the social network to share with third parties. The data we receive is dependent upon your privacy settings with the social network. You should always review and, if necessary, adjust your privacy settings on third-party websites and social media networks and services before linking or connecting them to our Services.
-10.  **Information Provided by the Company Group**. We may receive information about you from other companies and affiliates in the Company Group, so that information you provide may be used by us to provide you the Services, communicate with you or provide you advertisements or other personalized content.
-11.  **Information Provided by Others**. We may be provided with information relating to you or your conduct on the Services by other users of the Services. For example, we will collect your email address if another user tries to refer us to you. We also collect information that third-party organizations may provide to us, such as contact details, demographic information, credit reference or fraud prevention information. Financial institutions or payment processors may also provide us updated payment information or payment methods related to your paid account or paid subscription and services.
-12.  **Address Book**. We may also offer you the ability to import your address book contacts from your mobile device with your permission or to manually enter email addresses so that you can (i) locate your contacts on the Services or other products or services offered by us. or (ii) invite your contacts to join you on the Services or other products or services offered by us. We will store those contacts for purposes of alerting you when your contacts join the Services or other products or services offered by us at a later time, so that you may connect with them on our platform, and to suggest friends and connections to other members of the Services or other products or services offered by us.
+a. **Information You Provide**. When you register, use or subscribe to any of our Services or take part in any interactive features of the Services (such as any contests, games, promotions, quizzes, surveys, research or other services or features), we may collect a variety of information, including:
 
-We also collect, use and share aggregated, deidentified and/or anonymous data (“Aggregated Data”) for any purpose. Examples include aggregated statistical or demographic data or data provided in hashed, non-human readable form. For example, we may aggregate your usage data on how you use the Services (“Usage Data”) to calculate the percentage of users accessing a specific website feature. Aggregated Data may be derived from your personal data but does not directly or indirectly identify you and therefore does not amount to personal data.
+|     |     |
+| --- | --- |
+|     | • **Contact Information** such as your name, email address, phone number, and address (“Contact Information”); and<br><br>• **Sensitive Information** such as race, ethnicity, sexual preferences and experiences, political affiliation, religious affiliation, union memberships, or any biometric information you provide through the use of our Services (your “Sensitive Personal Data”).<br><br>• **Other Information** such as birth date, videos, password, billing information, credit card information, demographic information, place of work or education, your personal interests and background, gender, age, dating age range preference, physical characteristics, personal description, life experiences, geographic location, your photos and any information derived from them, and any other information you share with the Services. We may collect billing or payments information if you engage with a paid Service. |
 
-CROSS DEVICE TRACKING
+b. **Information About How You Use the Services**. We may collect information about your participation and actions on the Services. This may include information such as the pages and profiles you view, how you browse the Services, dating insights your Zoosk coin balance and purchases you make through the Services such as boosts and gifts. It can also include the various functions and features that you use, the connections you make, other friends or contacts you invite to the Services and profile searches you perform, or your use of our applications.
 
-If you log in to your account with us using multiple devices (for instance, your phone and laptop), we will link your devices to your account. This allows us to provide a seamless user experience to you. We also work with third parties to employ technologies, including the application of statistical modelling tools, which attempt to recognize you across multiple devices so that we understand how you use our Service across various devices, to ensure the safety and security of your data and the Company Services, to show you targeted advertising (with your consent) tailored to your interests and experience, and to measure the performance of advertising campaigns.
+c. **Information from Content You Upload**. When you upload photos, videos or other content to the Services, we may collect information about the content, such as the time, date and place the photo or content was taken or uploaded (also known as metadata), and how you use them, who views them or with whom you share. We may also scan and analyse the photos, videos, and other content you provide to us using third party services for several purposes, including for anti-fraud purposes, for the assessment of whether the photos are consistent with our Terms of Use, to help identify your interests and activities, such as if your photo includes pets, sports, or trips, and to help us provide better matches for you.
 
-IF YOU FAIL TO PROVIDE PERSONAL DATA
+d. **Information Automatically Collected.** When you access our Services, we and our third party partners automatically record information from your device and its software, such as your IP address, browser type, Internet service provider, platform type, the site from which you came and the site to which you are going when you leave our website, date and time stamp and one or more cookies that may uniquely identify your browser or your account. When you access our Services using a mobile device, we may also receive or collect identification numbers associated with your device (such as a unique device ID, IDFA, Google AdID), device type, model and manufacturer, mobile device operating system brand and model, mobile carrier, phone number, email address, and other apps that you have downloaded. We also collect information about your usage of, and activity on, our Services, including internet navigation details (for example, how your mouse moves on a screen which tells us if you’re a bot or real person).
+
+e. **Cookies and Similar Technologies**. We and our third party partners may use cookies and similar technologies, including those from third parties, to collect, analyse and store information, to provide customized advertising on our site and applications and on other sites or applications, to provide and improve the Services or other products or services offered by Zoosk, and to identify and prevent fraudulent activities. You can find out more about our use of cookies and similar technologies in our [Cookie Policy](https://docviewer.zoosk.com/legal-cookiepolicy-en.html).
+
+f. **Your Communications with Us and Other Users.** We collect communications you send to us (such as emails), comments that you post on the pages we have on a third-party service, such as our Instagram, Twitter, Facebook, Pinterest, Tumblr, and Youtube pages and messages that you send us directly through those services. We may also collect and analyse any comments, photos, messages or other content or communications you and other users share on the Services or send to each other.
+
+g. **Third-Party Social Networking Sites.** When you have enabled the use of our Services through a third-party social networking site or mobile or other application such as Facebook, Google+ or Twitter (a “Social Networking Site”) or connect or link our Services to a Social Networking Site, you permit Zoosk to access and use certain information about you that is made available to Zoosk through or from that Social Networking Site. The information obtained by Zoosk varies by Social Networking Site and may be affected by the permission and privacy settings you establish at that Social Networking Site, but can include information such as your name, profile picture, public Facebook profile, network, gender, username, user ID, age range or birthday, place of work, relationship interests, language, location, country, interests, photos, photos you are tagged in, videos, contacts list, friends lists or followers and other information such as information about Facebook friends you might share in common with other members of the Services. By using or linking our Services through or with a Social Networking Site, you are authorizing Zoosk to collect, store, retain and use, in accordance with this Policy, any and all of your information that Zoosk has obtained from the Social Networking Site, including to create a Zoosk profile page and account for you. Depending on the Social Networking Site and your privacy settings, Zoosk may also post information to your Social Networking Site. Your agreement to the foregoing takes place when you “accept” or “allow” or “go to” (or other similar terms, such as tapping “Okay”) our application from a Social Networking Site, go to a Social Networking Site from the Services, when you sign up or login to the Services through a Social Networking Site (such as by tapping “Sign up with Facebook” or “Log in with Facebook” on the Services), when you otherwise connect or link your Social Networking Site to our Services, or the transfer of information to Zoosk from such site. If there is information about your “friends” or people you are associated with in your Social Networking Site account, the information we obtain about those persons may also depend on the privacy settings such people have with the applicable Social Networking Site. You acknowledge and agree that Zoosk is not responsible for, and has no control over, any applicable privacy settings on any Social Networking Sites (including any settings related to any messages or advertisements about Zoosk that the Social Networking Site may send to you or your friends). You should always review, and if necessary, adjust your privacy settings on Social Networking Sites before getting or using applications such as ours or linking or connecting your Social Networking Site account to the Services.
+
+h. **Location Data.** We do not currently collect and store your precise geolocation or precise latitude or longitude coordinates for you. Some of the information we collect, for example an IP address, can sometimes be used to approximate a device’s location. In some cases, we assign the latitude and longitude of the centre of a city or state on record for you to your profile as a way to improve our analytics and matches for you.
+
+i. **Information Provided by Others.** We may be provided with information relating to you or your conduct on the Services by other users of the Services. For example, we will collect your email address if another user tries to refer Zoosk to you. We also collect information that third-party organizations may provide to us, such as contact details, demographic information, credit reference or fraud prevention information. Financial institutions or payment processors may also provide us updated payment information or payment methods related to your paid account or paid subscription and services.
+
+j. **Address Book.** We may also offer you the ability to import your address book contacts or manually enter email addresses so that you can (i) locate your contacts on the Services or other products or services offered by Zoosk; or (ii) invite your contacts to join you on the Services or other products or services offered by Zoosk. We will store those contacts for purposes of alerting you when your contacts join the Services or other products or services offered by Zoosk at a later time, so that you may connect with them on Zoosk, and to suggest friends and connections to other members of the Services or other products or services offered by Zoosk.
+
+We also collect, use and share aggregated and/or anonymous data (“Aggregated Data”) for any purpose. Examples include aggregated statistical or demographic data or data provided in hashed, non-human readable form. For example, we may aggregate your usage data on how you use the Services (“Usage Data”) to calculate the percentage of users accessing a specific website feature. Aggregated Data may be derived from your personal data but does not directly or indirectly identify you and therefore does not amount to personal data.
+
+### CROSS DEVICE TRACKING
+
+If you login to your account with Zoosk using multiple devices (for instance, your phone and laptop), we will link your devices to your account. This allows us to provide a seamless user experience to you. We also work with third parties to employ technologies, including the application of statistical modelling tools, which attempt to recognize you across multiple devices so that we understand how you use our Service across various devices, to ensure the safety and security of your data and the Zoosk Services, to show you targeted advertising (with your consent) tailored to your interests and experience, and to measure the performance of advertising campaigns.
+
+### IF YOU FAIL TO PROVIDE PERSONAL DATA
 
 Where you do not provide the personal data detailed in this Policy, we may not be able to provide you with the Services.
 
 3\. HOW WE USE YOUR PERSONAL DATA
+---------------------------------
 
 Generally, we will use your personal data in the following circumstances:
 
-*   To process your registration on our services, including verifying your information to ensure its accuracy and validity.
-*   To fulfill your purchases (e.g., to process credit card payments in connection with your transaction) and fulfill your requests (e.g., to provide you with information that you request).
-*   To personalize your experience and customize content on our Services relevant to your interests, including but not limited to targeted offers and ads through our website, email, social media channels, third-party sites or on other devices you may use.
-*   To operate, maintain and provide to you the features and functionality of the Services.
-*   To send you important information regarding the Services, such as certain changes to our terms, conditions, policies and/or other administrative information. Because this information may be material to your use of the services, you may not opt out of receiving such communications.
-*   To inform you of products, programs, services, and promotions that we believe may be of interest to you, including, without limitation, adding you to our email/mailing lists and permitting you to participate in sweepstakes, contests and similar promotions.
-*   To help maintain the safety, security and integrity of our service, technology assets and business.
-*   For our internal business purposes, such as data analysis, customer research, audits, fraud prevention, developing new products and/or features, enhancing the Services, improving our services, identifying usage trends and determining the effectiveness of our promotional campaigns, including to inform our machine learning for purposes such as user engagement.
-    *   Where we need to perform the contract we are about to enter into or have entered into with you for the Services.
-    *   Where you have given consent for us to use your personal data and your sensitive personal data to provide certain Services (you may withdraw your consent for some uses of the data at any time by contacting us at the information provided below).
-    *   Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
-    *   Where we need to comply with a legal or regulatory obligation, such as to respond to law enforcement requests and as required by applicable law, court order or governmental regulations and enforce our corporate reporting obligations and our Terms of Use here or to comply with applicable laws.
-    *   For purposes disclosed at the time you provide your personal data or as otherwise set forth in this Policy.
+• Where we need to perform the contract we are about to enter into or have entered into with you for the Services.
 
-PURPOSES FOR WHICH WE WILL USE YOUR PERSONAL DATA
+• Where you have given consent for us to use your personal data and your sensitive personal data to provide certain Services (you may withdraw your consent for some uses of the data at any time by Contacting Us).
+
+• Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
+
+• Where we need to comply with a legal or regulatory obligation.
+
+### PURPOSES FOR WHICH WE WILL USE YOUR PERSONAL DATA
 
 We have set out in the table below a description of the ways we plan to use your personal data, and which of the legal bases we rely on to do so.
 
 Please Contact us if you need details about the specific legal basis we are relying on to process your personal data where more than one legal basis has been set out in the table below.
 
-Purpose/ActivityType of dataLawful basis for processing including basis of legitimate interestTo register you as a new member(a) Profile Data, such as name, age, sexual orientation, marital status, number of children, and location
-
-(b) Contact Data such as email address, phone number, or social media user account, as limited by your privacy settings
-
-(c) Data from Social Networking Sites (If you use Facebook or Google to log-in to the Company Services), including any interests or other data imported from your Social Networking Sites
-
-(d) Technical Data, such as device ID or IP Address, including timestamps
-
-(a) Performance of a contract with you
-
-(b) With your consent in the case of sensitive personal data
-
-To provide the Company Services to you, including:
-
-(a) Maintaining a profile, answering questions, and providing information about yourself;
-
-(b) Analysing your personal data to match you with other users;
-
-(c) Allowing you to communicate with other users of our platform to make a match. and
-
-(d) Enabling you to purchase subscriptions and premium add-ons to enhance your opportunities to make a match with other users of our platform.
-
-(a) Profile Data, such as name, age, sexual orientation, race, marital status, number of children, and location
-
-(b) Contact Data such as email address, phone number, or social media user account
-
-(c) Data from Social Networking Sites (If you use Facebook or Google to log-in to the Company Services), including any interests or other data imported from your Social Networking Sites
-
-(d) Transaction Data, including, if applicable depending on your payment mechanism, your credit card, expiration date, name, address, transaction ID, timestamps, email address, bank account, and routing number
-
-(e) Communications Data, including the content of messages, the name and ID of the recipients of the communications, the timestamp, IP address and/or Device ID of the parties to the messages
-
-(f) Photos, including various analytics and scoring results
-
-(g) Usage Data
-
-(h) Analytics and other scores used to make matches with other users of our platform
-
-(i) Technical Data
-
-(a) Performance of a contract with you
-
-(b) With your consent (with regard to your Sensitive Personal Data)
-
-To manage our relationship with you which will include:
-
-(a) Notifying you about changes to our terms or privacy policy
-
-(b) Communicating with you
-
-(a) Profile Data
-
-(b) Transaction Data
-
-(c) Contact Data
-
-(d) Communications Data
-
-(e) Photos
-
-(f) Usage Data
-
-(a) Performance of a contract with you
-
-(b) Necessary to comply with a legal obligation
-
-To enable you to partake in a prize draw, competition or complete a survey(a) Profile Data
-
-(b) Contact Data
-
-(c) Usage Data
-
-(d) Any information, content, or submissions required as set forth in the contest rules when published
-
-(a) Performance of a contract with you
-
-(b) Necessary for our legitimate interests (to study how customers use our products/services, to develop them and grow our business)
-
-To administer and protect our business, the Company Services, this website and your personal data (including security, fraud, troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data)(a) Profile Data
-
-(b) Contact Data
-
-(c) Technical Data
-
-(d) Usage Data
-
-(e) Communications Data
-
-(f) Third Party Data provided to us by trusted partners, including proprietary scores, red flags, demographic information, usage data, and other information used to determine whether a Company account is being used improperly, accessed by an unauthorized third party, or represents a security or fraud risk to our community
-
-(a) Necessary for our legitimate interests (for running our business, providing administration and IT services, cybersecurity, preventing fraud and in the context of a business reorganization or group restructuring exercise)
-
-(b) Necessary to comply with a legal obligation
-
-To deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you(a) Device ID
-
-(b) IP Address
-
-(c) Location (at country, state, city, or postal code level)
-
-(d) Gender
-
-(e) Age
-
-(f) Technical Data such as OS version, hardware type, software type.
-
-(g) Cookies, pixels, or advertising tags
-
-(h) Usage Data
-
-(a) Necessary for our legitimate interests (to study how customers use our products/services, to develop them, to grow our business and to inform our marketing strategy)
-
-(b) With your consent for targeted advertising and profiling to serve more accurate advertising content to you.
-
-To use data analytics to improve our website, products/services, marketing, customer relationships and experiences(a) Profile Data
-
-(b) Usage Data
-
-(c) Technical Data
-
-(d) Communications Data
-
-Necessary for our legitimate interests (to define types of customers for our products and services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy)To respond to requests from law enforcement(a) Profile Data
-
-(b) Transaction Data
-
-(c) Usage Data
-
-(d) Communications Data
-
-(e) Location Data (at country, state, city, or postal code level)
-
-(f) Technical Data
-
-(g) Any other information we are compelled to provide by law
-
-Necessary to comply with our legal obligationsMARKETING
+|     |     |     |
+| --- | --- | --- |
+| Purpose/Activity | Type of data | Lawful basis for processing including basis of legitimate interest |
+| To register you as a new member | (a) Profile Data, such as name, age, sexual orientation, marital status, number of children, and location<br><br>(b) Contact Data such as email address, phone number, or social media user account, as limited by your privacy settings<br><br>(c) Data from Social Networking Sites (If you use Facebook or Google to log-in to the Zoosk Services), including any interests or other data imported from your Social Networking Sites<br><br>(d) Technical Data, such as device ID or IP Address, including timestamps | (a) Performance of a contract with you<br><br>(b) With your consent in the case of sensitive personal data. |
+| To provide the Zoosk Services to you, including:<br><br>(a) Maintaining a profile, answering questions, and providing information about yourself;<br><br>(b) Analysing your personal data to match you with other users;<br><br>(c) Allowing you to communicate with other users of Zoosk to make a match; and<br><br>(d) Enabling you to purchase subscriptions and premium add-ons to enhance your opportunities to make a match with other Zoosk users. | (a) Profile Data, such as name, age, sexual orientation, race, marital status, number of children, and location<br><br>(b) Contact Data such as email address, phone number, or social media user account<br><br>(c) Data from Social Networking Sites (If you use Facebook or Google to log-in to the Zoosk Services), including any interests or other data imported from your Social Networking Sites<br><br>(d) Transaction Data, including, if applicable depending on your payment mechanism, your credit card, expiration date, name, address, transaction ID, timestamps, email address, bank account, and routing number<br><br>(e) Communications Data, including the content of messages, the name and ID of the recipients of the communications, the timestamp, IP address and/or Device ID of the parties to the messages<br><br>(f) Photos, including various analytics and scoring results<br><br>(g) Usage Data<br><br>(h) Analytics and other scores used to make matches with other Zoosk users<br><br>(i) Technical Data | (a) Performance of a contract with you<br><br>(b) With your consent (with regard to your Sensitive Personal Data) |
+| To manage our relationship with you which will include:<br><br>(a) Notifying you about changes to our terms or privacy policy<br><br>(b) Communicating with you | (a) Profile Data<br><br>(b) Transaction Data<br><br>(c) Contact Data<br><br>(d) Communications Data<br><br>(e) Photos<br><br>(f) Usage Data | (a) Performance of a contract with you<br><br>(b) Necessary to comply with a legal obligation |
+| To enable you to partake in a prize draw, competition or complete a survey | (a) Profile Data<br><br>(b) Contact Data<br><br>(c) Usage Data<br><br>(d) Any information, content, or submissions required as set forth in the contest rules when published | (a) Performance of a contract with you<br><br>(b) Necessary for our legitimate interests (to study how customers use our products/services, to develop them and grow our business) |
+| To administer and protect our business, the Zoosk Services, this website and your personal data (including security, fraud, troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data) | (a) Profile Data<br><br>(b) Contact Data<br><br>(c) Technical Data<br><br>(d) Usage Data<br><br>(e) Communications Data<br><br>(f) Third Party Data provided to us by trusted partners, including proprietary scores, red flags, demographic information, usage data, and other information used to determine whether a Zoosk account is being used improperly, accessed by an unauthorized third party, or represents a security or fraud risk to the Zoosk community | (a) Necessary for our legitimate interests (for running our business, provision of administration and IT services, cybersecurity, to prevent fraud and in the context of a business reorganisation or group restructuring exercise)<br><br>(b) Necessary to comply with a legal obligation |
+| To deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you | (a) Device ID<br><br>(b) IP Address<br><br>(c) Location (at country, state, city, or postal code level)<br><br>(d) Gender<br><br>(e) Age<br><br>(f) Technical Data such as OS version, hardware type, software type.<br><br>(g) Cookies, pixels, or advertising tags<br><br>(h) Usage Data | (a) Necessary for our legitimate interests (to study how customers use our products/services, to develop them, to grow our business and to inform our marketing strategy)<br><br>(b) With your consent for targeted advertising and profiling to serve more accurate advertising content to you. |
+| To use data analytics to improve our website, products/services, marketing, customer relationships and experiences | (a) Profile Data<br><br>(b) Usage Data<br><br>(c) Technical Data<br><br>(d) Communications Data | Necessary for our legitimate interests (to define types of customers for our products and services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy) |
+| To respond to requests from law enforcement | (a) Profile Data<br><br>(b) Transaction Data<br><br>(c) Usage Data<br><br>(d) Communications Data<br><br>(e) Location Data (at country, state, city, or postal code level)<br><br>(f) Technical Data<br><br>(g) Any other information we are compelled to provide by law | Necessary to comply with our legal obligations |
+
+### MARKETING
 
 Where you have interacted with us, we will send you marketing communications from time to time. Such marketing communications are usually sent by email or text (SMS). If you do not want to receive such marketing communications, you have the opportunity to inform us by selecting certain boxes when we collect your personal data.
 
-We strive to provide you with choices regarding certain personal data uses, particularly around marketing and advertising. You may choose to opt out of receiving marketing communications from us at any time by going into your account settings. You may also select the “unsubscribe” link in the communication we send to you.
+We strive to provide you with choices regarding certain personal data uses, particularly around marketing and advertising. You may choose to opt out of receiving marketing communications from us at any time by contacting us here. You may also select the “unsubscribe” link in the communication we send to you.
 
-When you receive communications from us, including marketing communications, we may share your personal data with third party companies who help us conduct marketing activities. For example, we may use a third party to help us send email messages to you and help us understand how you have interacted with that email.
+When you receive communications from Zoosk, including marketing communications, we may share your personal data with third party companies who help us conduct marketing activities. For example, we may use a third party to help us send email messages to you and help us understand how you have interacted with that email.
 
-CHANGE OF PURPOSE
+### CHANGE OF PURPOSE
 
 We will generally only use your personal data for the purposes for which we collected it.
 
@@ -243,191 +158,124 @@ If we need to use your personal data for an unrelated purpose, we will notify yo
 Please note that we may process your personal data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
 
 4\. DISCLOSURES OF YOUR PERSONAL DATA
+-------------------------------------
 
-**Our Services allow you to share information about yourself with other individuals and other companies, including other users and potential users of the Services or other products or services offered by us and third-party Social Networking Sites.** Consider your own privacy and personal safety when sharing your information with anyone, including information you share through your profile, as profiles include basic information that was provided at registration and information provided through a Social Networking Site and may include other information added by you or your friends (for example, your religion, ethnicity and physical characteristics), as well as information about your use of the Service (for example, whether you were recently logged in to our platform). Please review our Online Dating Safety Tips for tips in using our Services.
+Our Services allow you to share information about yourself with other individuals and other companies, including other users and potential users of the Services or other products or services offered by Zoosk and third-party Social Networking Sites. Consider your own privacy and personal safety when sharing your information with anyone, including information you share through your profile, as profiles include basic information that was provided at registration, information provided through a Social Networking Site, and may include other information added by you or your friends (for example, your religion, ethnicity and physical characteristics), as well as information about your use of the Service (for example, whether you were recently logged in to Zoosk). Please review our [Online Dating Safety Tips](https://www.zoosk.com/safety) for tips in using our Services.
 
 Information on your profile is viewable by other users or visitors to our Services, and may also be viewable through public search or on third-party sites that you use. We do not control who reads the information you share or what others may do with this information, so we encourage you to use discretion and caution with respect to your personal data. Also, when sharing information about others, please consider their safety and privacy and get their consent for that sharing.
 
-We may also share your personal data with the parties set out below for the purposes in the table above.
+We may share your personal data with the parties set out below for the purposes in the table above.
 
-*   With our parent company, Spark Networks, Inc. and other affiliates within the Spark Networks Group of companies (which includes any affiliates and subsidiaries of Spark Networks, Inc. and Spark Networks Services GmbH) in order to provide you with the Services.
-*   Services Providers, consultants and other vendors who perform functions or services on our behalf and under our instructions to make our Services available to you, including infrastructure partners (such as AWS), customer support service providers, marketing outreach and analytics service providers, safety check providers, payment providers, cybersecurity partners, anti-fraud analytics companies, payment providers, chargeback representation services and similar partners.
-*   Advertising networks and technology companies, including Google, Facebook and Twitter, and companies that measure advertising performance and attribution. We share personal data with advertising networks or permit these networks to collect information from you directly on our websites to facilitate online advertising, such as search engines and social network advertising providers, to serve targeted ads to you or to groups of other users who share similar traits, such as likely commercial interests and demographics, on third-party platforms. For more information, including how to opt out of interest-based advertising, please read our Cookie Policy.
-*   Promotional partners with whom we partner to provide contests and sweepstakes or other joint promotional activities. These partners will usually be identified in the contest rules or promotional materials.
+• With other companies within the Zoosk group of companies (currently Zoosk Ireland Limited and Zoosk UK Limited) in order to provide you with the Services.
 
-*   Social Networks, to the extent applicable, such as Facebook and Google, where you have given permission to do so or where you have used your social network account to log in to our platform. If you have chosen to do this, your data will be governed by the privacy policy of that social network.
-*   The public when you provide feedback or post user content on our Services (e.g., if you post a product review on our website or comment on our social media sites), your information (e.g., your first name and comments) may be displayed on our websites or on our social media pages. When you engage with us on social media, we may tag your social media account or the social media account of others (e.g., to give photo credit to another user).
+• Technology Services Providers, including infrastructure partners (such as AWS), customer support service providers, analytics service providers, cybersecurity partners, anti-fraud analytics companies, payment providers, chargeback representation services and similar partners.
 
-*   To, in our discretion, (i) satisfy any applicable law, regulation, subpoena/court order, legal process or other government request, (ii) enforce our Terms of Use Agreement, including the investigation of potential violations thereof, (iii) investigate and defend ourselves against any third party claims or allegations, (iv) protect against harm to the rights, property or safety of our Company, its users or the public as required or permitted by law and (v) detect, prevent or otherwise address criminal (including fraud or stalking), security or technical issues.
-*   In connection with any company transaction, such as a merger, sale of assets or shares, reorganization, financing, change of control or acquisition of all or a portion of our business by another company or third party or in the event of bankruptcy, dissolution, divestiture or any related or similar proceedings.
-*   With your consent or at your direction. In addition to the sharing described in this Policy, we may share information about you with third parties whenever you consent to or direct such sharing.
+• Advertising networks and technology companies, including Google, Facebook, and Twitter, and companies that measure advertising performance and attribution.
 
-We may also share Aggregated Data with third parties.
+• Third parties, including consultants, who we engage to provide services on our behalf or to jointly provide services to you, including but not limited to contests and sweepstakes, marketing outreach and analytics, customer support, safety checks, and payment services.
 
-5\. YOUR CALIFORNIA PRIVACY RIGHTS
+• Social Networks, such as Facebook and Google+, where you have given permission to do so or where you have used your social network account to log-in to Zoosk. If you have chosen to do this, your data will be governed by the privacy policy of that social network.
 
-For additional disclosures and rights you have under the California Consumer Privacy Act (“CCPA”), please visit our CCPA privacy notice here.
+• to, in our discretion, (i) satisfy any applicable law, regulation, subpoena/court order, legal process or other government request, (ii) enforce our Terms of Use Agreement, including the investigation of potential violations thereof, (iii) investigate and defend ourselves against any third party claims or allegations, (iv) protect against harm to the rights, property or safety of Zoosk, its users or the public as required or permitted by law and (v) detect, prevent or otherwise address criminal (including fraud or stalking), security or technical issues.
 
-6\. CONTACT US
+• In connection with any company transaction, such as a merger, sale of assets or shares, reorganization, financing, change of control or acquisition of all or a portion of our business by another company or third party or in the event of bankruptcy, dissolution, divestiture or any related or similar proceedings.
+
+We require third parties to respect the security and privacy of your personal data and to treat it in accordance with the law. The majority of the third parties we share your personal data with are service providers that are permitted to process your personal data for specified purposes and in accordance with our instructions only. Some third parties will process your personal data for their own purposes as data controllers; please refer to their privacy policy which applies to their processing of your personal data. We are not responsible for those third parties.
+
+5\. INTERNATIONAL TRANSFERS
+---------------------------
+
+The personal data we collect from you may be transferred to, and stored in the United States of America and other countries. If you are located in the European Union or other regions with laws governing data collection and use that may differ from E.U. law, please note that we may transfer information, including personal data, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of your personal data to the U.S. or any other country in which Zoosk or its parent, subsidiaries, affiliates or service providers maintain facilities, and the use and disclosure of information about you as described in this Privacy Policy. Zoosk will take reasonable measures to help protect your personal data in an effort to prevent loss, misuse and unauthorized access, disclosure, alteration or destruction and to treat it in accordance with this Policy.
+
+Many of our external third parties are based outside the European Economic Area (EEA) so their processing of your personal data will involve a transfer of data outside the EEA.
+
+Whenever we transfer your personal data out of the EEA to a country that is not considered by the European Commission to offer an adequate level of protection for personal data, we do so using the following mechanisms:
+
+• Where we use certain service providers, we may use specific contracts approved by the European Commission which give personal data the same protection it has in Europe; or
+
+• Where we use providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between the Europe and the US.
+
+6\. DATA SECURITY
+-----------------
+
+At Zoosk, we strongly believe in protecting your privacy. As a result, we have put in place reasonable security measures to help prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. We work hard to ensure that the third parties we do provide access to your personal data to, such as our technology service providers like Amazon Web Services, also have reasonable security measures in place.
+
+No platform, service, or method of electronic transmission or storage is 100% secure. Therefore, we cannot guarantee absolute security. We work hard to keep evolving our security measures to keep up with the bad actors and other threats of the world to help protect your personal data.
+
+We may also share your personal data, including your payment transactions and activities on the Zoosk Services, with third party partners for security and fraud prevention purposes. These partners collect, process and analyse such data for the purpose of helping their customers to identify and prevent fraud.  
+We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.
+
+7\. DATA RETENTION
+------------------
+
+### HOW LONG WILL YOU USE MY PERSONAL DATA FOR?
+
+We will retain your personal data for as long as necessary to fulfil the purposes we collected and/or processed it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
+
+To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
+
+We also retain backups of the Zoosk Services, including your personal data, on a rolling basis according to our internal data retention, disaster recovery, and business continuity policies. Our backups are stored off-site in the United States and in secure facilities in order to help ensure the protection of your personal data and the Services.
+
+### EXCEPTIONS
+
+We retain blacklists of fraudulent activity or security threats indefinitely in order to protect the security of the Zoosk Services and your personal data. We share these blacklists with third party service providers in order to continue to improve the security of our Services and your personal data.
+
+In some circumstances we may anonymise your personal data (so that it can no longer be associated with you) for research, statistical or other purposes in which case we may use this information indefinitely without further notice to you.
+
+8\. YOUR LEGAL RIGHTS
+---------------------
+
+You may have certain rights under applicable data protection laws in relation to your personal data. As examples, you have the right to:
+
+➢ Request access to your personal data (commonly known as a “data subject access request”). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
+
+➢ Request correction of the personal data that we hold about you. This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.
+
+➢ Request erasure of your personal data. This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for legal reasons which will be notified to you, if applicable, at the time of your request.
+
+➢ Object to processing of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your personal data for direct marketing purposes. In some cases, we may demonstrate that we have overriding legitimate grounds to process your information which override your rights and freedoms.
+
+➢ Request restriction of processing of your personal data. This enables you to ask us to suspend the processing of your personal data in the following scenarios: (a) if you want us to establish the accuracy of the personal data; (b) where our use of the data is unlawful but you do not want us to erase it; (c) where we no longer need the personal data for the purposes set out above, but we are required by you for the establishment, exercise, or defence of legal claims; or (d) you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it.
+
+➢ Request the transfer of your personal data to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you.
+
+➢ Withdraw consent at any time where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide the Services to you. We will advise you if this is the case at the time you withdraw your consent.  
+For more information on what we provide and how to access it, please see the Privacy FAQs [here](https://docviewer.zoosk.com/legal-faq-en.html). If you wish to exercise any of these rights, you may contact us at Customer Support.
+
+### NO FEE USUALLY REQUIRED
+
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
+
+### WHAT WE MAY NEED FROM YOU
+
+We will need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who does not have a right to receive it. We may also contact you to ask you for further information in relation to your request. For more information, please go [here](https://docviewer.zoosk.com/legal-faq-en.html).
+
+### TIME LIMIT TO RESPOND
+
+We try to respond to all legitimate requests within thirty (30) days. Occasionally it may take us longer if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
+
+9\. CONTACT US
+--------------
 
 Our full details are:
 
-Zoosk Customer Care  
-Attn: Legal  
+Zoosk Customer Care – Spark Networks Services  
+Attn: Data Protection Officer  
 3300 N. Ashton Blvd, Suite 240  
 Lehi, UT 84043  
 United States  
-Email: dataprotectionofficer@zoosk.com
+Email: dataprotectionofficer@zoosk.com  
+Phone: 020-3051-6952
 
-7\. MISCELLANEOUS
+You have the right to make a complaint at any time to the applicable data protection authority in your country. We would, however, appreciate the chance to deal with your concerns before you approach the authority so please contact us in the first instance.
+
+10\. MISCELLANEOUS
+------------------
 
 This Policy does not create rights enforceable by third parties or require disclosure of any personal data relating to users of the Service.
 
-We reserve the right to modify this Policy from time to time. If we make changes to this Policy, we will change the “Last Revision” date below and will post the updated Policy on this page.
+We reserve the right to modify this Policy from time to time. If we make changes to this Policy, we will change the “Last Revision” date below and will post the updated Policy on this page. We may also provide other methods of notice or request your consent depending on the circumstances.
 
-The language of this Policy is English. Where we have provided a translation of the English version of this Policy, you agree that the translation is provided for your convenience only and that the English language version of this Policy will govern your relationship with us. If there is any contradiction between what the English language version of this Policy says and what a translation says, then the English language version will take precedence.
+The language of this Policy is English. Where Zoosk has provided a translation of the English version of this Policy, you agree that the translation is provided for your convenience only and that the English language version of this Policy will govern your relationship with Zoosk. If there is any contradiction between what the English language version of this Policy says and what a translation says, then the English language version will take precedence.
 
-This Policy was last revised on March 27, 2020.
-
-**COOKIE NOTICE**
-
-**Effective Date**: March 27, 2020
-
-Unless otherwise expressly stated, capitalized terms in this Notice have the same meaning as defined in the Privacy Notice.
-
-**Scope of Notice**
-
-This Cookie Notice supplements the information contained in the Privacy Notice by explaining how we and our business partners and services providers use cookies and related technologies in the course of managing and providing our online services and our communications to you. It explains what these technologies are and why we use them, as well as your rights to control our use of them.
-
-In some cases, we may use cookies and related technologies described in this Cookie Notice to collect personal information, or to collect information that becomes personal information if we combine it with other information. For more details about how we process your personal information, please review the Privacy Notice.
-
-**What Are Cookies and Related Technologies**
-
-Cookies are small data files that are stored on your computer that allow us and our third-party partners and providers to collect certain information about your interactions with our email communications, websites and other online services. We and our third-party partners and providers may also use other, related technologies to collect this information, such as web beacons, pixels, embedded scripts, location-identifying technologies and logging technologies (collectively, “cookies”).
-
-**What We Collect When Using Cookies**
-
-We and our third-party partners and providers may use cookies to automatically collect certain types of usage information when you visit or interact with our email communications, websites and other online services. For example, we may collect log data about your device and its software, such as your IP address, operating system, browser type, date/time of your visit, and other similar information. We may collect analytics data or use third-party analytics tools such as, e.g., Google Analytics, to help us measure usage and activity trends for our online services and better understand our customer base.
-
-Third-party partners and providers may also collect personal information about your online activities over time and across different websites when you use our websites and online services.
-
-**What types of cookies does the Company use?**
-
-The types of cookies used on most websites can generally be put into one of the following categories: strictly necessary, analytics, functionality, advertising, social media and fraud prevention. In order to provide you with the best browsing experience, the Company and our third party partners may use cookies from all of these categories. You can find out more about the cookies we use from each of the categories in the table below.
-
-**Strictly Necessary Cookies**These cookies are essential to make our website work. They enable you to move around our site and use its features. Without these cookies, services that are necessary for you to be able to use the site such as accessing secure areas can’t be provided. These include cookies used to authenticate users during log-in.**Analytics Cookies**These cookies collect information about how people are using our website, for example which pages are visited the most often, how people are moving from one link to another and if they get error messages from certain pages. These cookies don’t gather information that identifies you. All information these cookies collect is grouped together with information from other people’s use of the website on an anonymous basis. Overall, these cookies provide us with analytical information about how our website is performing and how we can improve it.**Functionality Cookies**These cookies allow us to remember choices you make and tailor our website to provide enhanced features and content to you. For example, these cookies can be used to remember your username, language choice or country selection and they can also be used to remember changes you’ve made to text size, font and other parts of pages that you can customize. In addition, they may be used to provide services you’ve asked for such as using our chat program.**Advertising Cookies**These cookies are used to deliver advertisements on our Service and applications and to deliver advertisements on other sites and/or mobile applications to users that have visited or used our website or services, or to deliver advertisements that are more relevant to you and your interests. These cookies are also used to limit the number of times you see an advertisement as well as help measure and report the results and effectiveness of an advertising campaign. They remember that you have visited a website and this information may be shared with other organizations such as advertisers. This means you may see advertisements on our Service based on your activity elsewhere on the Web and after you have been to our Service you may see advertisements about our services or other services elsewhere on the Internet or on other devices you use.**Social Media Cookies**In order to enhance your Internet experience and to make the sharing of content easier, some of the pages on our website contain tools or applications that are linked to third party social media service providers such as Facebook or Twitter. Through these tools or applications social media service provider may set its own cookies on your device. We do not control these cookies and you should check the social media service provider’s website for further details about how they use cookies.**Fraud Prevention Cookies**These cookie files, flash storage tokens, smart phone SDK applications, or other software on the end user’s device contain a unique identifier. Subsequently, in transactions between you and us, that identifier is accessed and checked through third party databases to determine if the device has been associated with suspected fraud or abuse reported by other online service providers in connection with prior transactions involving that device.
-
-**Third Party Data Collection &. Interest-Based Advertising**
-
-We participate in interest-based advertising and use third party advertising companies to serve you targeted advertisements based on your browsing history. We permit third party online advertising networks, social media companies and other third-party services, to collect information about your use of our online services over time so that they may play or display ads on our services, on other websites, or services you may use, and on other devices you may use. Typically, though not always, the information used for interest-based advertising is collected through tracking technologies, such as cookies, web beacons, embedded scripts, location-identifying technologies, and similar technology (collectively, “tracking technologies”), which recognize the device you are using and collect information, including click stream information, browser type, time and date you visited the site, AdID, precise geolocation and other information. We may share a common account identifier (such as a hashed email address or user ID) with our third-party advertising partners to help identify you across devices. We and our third-party partners use this information to make the advertisements you see online more relevant to your interests, as well as to provide advertising-related services such as reporting, attribution, analytics and market research. We may also use services provided by third parties (such as social media platforms) to serve targeted ads to you and others on such platforms. We may do this by providing a hashed version of your email address or other information to the platform provider. See “**Your Choices About Online Ads**” here, to learn more about interest-based advertising.
-
-**Social Media Widgets and Advertising.** Our services may include social media features, such as the Facebook Like button, Pinterest, Instagram, Twitter or other widgets. These social media companies may recognize you and collect information about your visit to our services, and they may set a cookie or employ other tracking technologies. Your interactions with those features are governed by the privacy policies of those companies.
-
-We display targeted advertising to you through social media platforms, such as Facebook, Twitter, Instagram, LinkedIn and other social media forums. These companies have interest-based advertising programs that allow us to direct advertisements to users who have shown interest in our services while those users are on the social media platform, or to groups of other users who share similar traits, such as likely commercial interests and demographics. We may share a unique identifier, such as a user ID or hashed email address, with these platform providers or they may collect information from our website visitors through a first-party pixel, in order to direct targeted advertising to you or to a custom audience on the social media platform. These advertisements are governed by the privacy policies of those social media companies that provide them. If you do not want to receive targeted ads on your social networks, you may be able to adjust your advertising preferences through your settings on those networks. You may learn more about advertising preferences by clicking on the links provided below. Please note that these links are provided for your convenience only and we do not control the content or features that may be available on these third party services.
-
-*   *   **Facebook.** To learn more about your advertising preferences on Facebook Companies, click here.
-    *   **Twitter.** To learn more about privacy controls for personalized ads on Twitter, click here.
-    *   **LinkedIn.** To learn more about advertising preferences on LinkedIn, click here.
-
-**Third Party Partners**. The following is a sample of the third-party service partners we work with to provide advertising services. We will strive to update this list if or when we work with new partners which offer you choices about the collection of your information, but as partners change and new technologies become available, this list is likely to change over time and may not always reflect our current partners.
-
-*   Google Analytics and Advertising. We use Google Analytics to recognize you and link the devices you use when you visit our websites or services on your browser or mobile device, log in to your account on our services, or otherwise engage with us. We share a unique identifier, like a user ID or hashed email address, with Google to facilitate the service. Google Analytics allows us to better understand how our users interact with our services and to tailor our advertisements and content to you. For information on how Google Analytics collects and processes data, as well as how you can control information sent to Google, review Google’s site “How Google uses data when you use our partners’ sites or apps” located at www.google.com/policies/privacy/partners/. You can learn about Google Analytics’ currently available opt-outs, including the Google Analytics Browser Ad-On here https://tools.google.com/dlpage/gaoptout/.
-
-We may also utilize certain forms of display advertising and other advanced features through Google Analytics, such as Remarketing with Google Analytics, Google Display Network Impression Reporting, the DoubleClick Campaign Manager Integration, and Google Analytics Demographics and Interest Reporting. These features enable us to use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick advertising cookie) or other third-party cookies together to inform, optimize, and display ads based on your past visits to the Service. You may control your advertising preferences or opt-out of certain Google advertising products by visiting the Google Ads Preferences Manager, currently available at https://google.com/ads/preferences, or by visiting NAI’s online resources at http://www.networkadvertising.org/choices.
-
-**How We Use That Information**
-
-We use or may use the data collected through cookies to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit our websites and online services. (b) provide and monitor the effectiveness of our websites and online services. (c) monitor online usage and activities of our websites and online services. (d) diagnose errors and problems with our websites and online services. (e) otherwise plan for and enhance our online services. and (f) facilitate the purposes identified in the How We Use Your Personal Data section of our Privacy Notice. We and our advertising partners also use the information we collect through cookies to understand your browsing activities, including across unaffiliated third-party sites, so that we can deliver ads and information about products and services that may be of interest to you.
-
-Please note that we link some of the personal information we collect through cookies with the other personal information that we collect about you and for the purposes described in our Privacy Notice.
-
-**Your Choices About Cookies**
-
-If you would prefer not to accept cookies, most browsers will allow you to: (i) change your browser settings to notify you when you receive a cookie, which lets you choose whether or not to accept it. (ii) disable existing cookies. or (iii) set your browser to automatically reject cookies. Please note that doing so may negatively impact your experience using our online services, as some features and services on our online services may not work properly. Depending on your device and operating system, you may not be able to delete or block all cookies. In addition, if you want to reject cookies across all your browsers and devices, you will need to do so on each browser on each device you actively use. You may also set your email options to prevent the automatic downloading of images that may contain technologies that would allow us to know whether you have accessed our email and performed certain functions with it.
-
-You can learn more about Google’s practices with Google Analytics by visiting Google’s privacy policy here. You can also view Google’s currently available opt-out options here.
-
-**Your Choices About Online Ads**
-
-**Controlling Cookies and Tracking Technologies.** Most browsers allow you to adjust your browser settings to: (i) notify you when you receive a cookie, which lets you choose whether or not to accept it. (ii) disable existing cookies. or (iii) set your browser to automatically reject cookies. Blocking or deleting cookies may negatively impact your experience using the Service, as some features and services may not work properly. Depending on your mobile device and operating system, you may not be able to delete or block all tracking technologies. You may set your e-mail options to prevent the automatic downloading of images that may contain technologies that would allow us to know whether you viewed or engaged with our emails.
-
-**Interest-Based Advertising**. We support the self-regulatory principles for online behavioral advertising (Principles) published by the Digital Advertising Alliance (DAA). This means that we allow you to exercise choice regarding the collection of information about your online activities over time and across third-party websites for online interest-based advertising purposes. More information about these Principles can be found at www.aboutads.info. If you want to opt out of receiving online interest-based advertisements on your internet browser from advertisers and third parties that participate in the DAA program and perform advertising-related services for us and our partners, please follow the instructions at www.aboutads.info/choices, or http://www.networkadvertising.org/choices/ to place an opt-out cookie on your device indicating that you do not want to receive interest-based advertisements. Opt-out cookies only work on the internet browser and device they are downloaded onto. If you want to opt out of interest-based advertisements across all your browsers and devices, you will need to opt out on each browser on each device you actively use. If you delete cookies on your device generally, you will need to opt out again.
-
-If you want to opt out of receiving online interest-based advertisements on mobile apps, please follow the instructions at http://www.aboutads.info/appchoices.
-
-Please note that when you opt out of receiving interest-based advertisements, this does not mean you will no longer see advertisements from us or on our online services. It means that the online ads that you do see from DAA program participants should not be based on your interests. We are not responsible for the effectiveness of, or compliance with, any third-parties’ opt-out options or programs or the accuracy of their statements regarding their programs. In addition, third parties may still use cookies to collect information about your use of our online services, including for analytics and fraud prevention as well as any other purpose permitted under the DAA’s Principles.
-
-**Updates to This Cookie Notice**
-
-We will update this Cookie Notice from time to time. When we make changes to this Cookie Notice, we will change the “Effective Date” at the beginning of this Notice. If we make material changes to this Notice, we will notify you by email to your registered email address, by prominent posting on this website or our online services, or through other appropriate communication channels. All changes shall be effective from the date of publication unless otherwise provided in the notification.
-
-**Contact Us**
-
-If you have any questions or requests in connection with this Cookie Notice or other privacy-related matters, please send an email to dataprotectionofficer@zoosk.com
-
-Alternatively, inquiries may be addressed to:
-
-Zoosk Customer Care  
-Attn: Legal  
-3300 N. Ashton Blvd, Suite 240  
-Lehi, UT 84043  
-United States
-
-**CALIFORNIA RESIDENTS**
-
-This section applies to you if you are a resident of the state of California. California law requires us to disclose certain information regarding the categories of personal information we collect. For purposes of this section, “personal information” has the meaning provided by the California Consumer Privacy Act (the “CCPA”) and does not include information that is publicly available, that is deidentified or aggregated such that it is not capable of being associated with us, or that is excluded from the CCPA’s scope, such as personal information covered by certain sector-specific privacy laws, such as HIPAA, the FCRA, the GLBA or the Driver’s Privacy Protection Act of 1994. This section does not apply to information relating to our employees, contractors, applicants and other personnel.
-
-**Collection of personal information** **.** In the last 12 months, we have collected the following categories of personal information:
-
-**Category of Personal Information** **Collected** **Identifiers**, such as name, nickname or pseudonym, email address, address, telephone number, zip code, account name and password, or other similar identifiers.✔**California Customer Records** (Cal. Civ. Code § 1798.80(e)), such as bank account information, credit or debit card information, or any other financial information.✔**Protected Classification Characteristics**, such as ethnicity, age, religion, gender and sexual orientation.✔**Commercial Information**, such as your purchasing and ordering behavior.✔**Internet/Network Information**, such as device information, log, and analytics data.✔**Geolocation Data**, such as information about your physical location collected from geolocation features on your device, including your IP address and GPS (e.g., latitude and/or longitude).✔**Sensory Information**, such as pictures of you and recordings of phone calls between you and us, where permitted by law.✔**Profession/Employment Information**, such as current occupation and income, job history and experience.✔**Other Personal Information**, such as information you post on our applications or on social media pages, including pictures or videos of you, or other information you submit to us. We also collect information from the dating profile you create, such as level of education and colleges or universities attended, political views, details about your physical appearance, and partner preference information.✔**Inferences**, including information generated from your dating profile, as well as any of the information above and your use of our services.✔
-
-**Sources of personal information** . We collect personal information about you from one or more of the following categories of sources:
-
-*   Directly from you
-*   Indirectly from you
-*   Our business partners and affiliates (including service providers)
-*   Third parties you direct to share information with us, such as third-party social networks
-*   Social network services
-*   Spark Networks Group (defined below)
-*   Your browser or device
-*   Generated or derived from other personal information
-
-**_Please note_** _:_In addition to the categories of sources identified above, we may collect information from publicly available sources and other third-party information providers in order to supplement the information we have otherwise collected.
-
-**Purposes for collecting personal information** **.** We collect personal information from and about you for a variety of purposes. For example, we use personal information to fulfill your requests, process your transactions and provide our Services to you. to communicate with you. for marketing and advertising purposes. to monitor, improve, and develop our products and Services. and to protect the security and integrity of our business, comply with legal requirements and obligations. for our business and operational purposes. and as otherwise permitted or required by law.
-
-To learn more about the types of personal information we collect and the purposes for which we collect this information, please refer to How We Use Your Personal Data section of the Privacy Policy.
-
-**Disclosure of personal information** **.** We share personal information with a variety of third parties for business purposes. The categories of third parties to whom we disclose your personal information for a business purpose include: (i) other companies owned or controlled by our parent company, Spark Networks, Inc., and other affiliates within the Company Group of companies. (ii) our service providers and advisors. (iii) security providers. (iv) ad networks and advertising partners. (v) analytics providers. (vi) social networks. (vii) other Zoosk users. and (viii) third parties at your request. To learn more about how we disclose personal information to third parties, please refer to the Disclosures of Your Personal Data section of the Privacy Policy.
-
-In the previous 12 months, we have disclosed all of the categories of personal information we collect, explained in the table above, to third parties for a business purpose.
-
-We do not “sell” personal information, as that term is defined based on our understanding of the CCPA and its implementing regulations. Specifically, we do not sell personal information, such as your name, email, or other information that identifies you personally, to third parties for monetary or other valuable consideration. If we exchange personal information with third party partners for monetary or other valuable consideration in the future, we will take steps to avoid activities that could be considered a “sale” of California consumer personal information, such as by seeking consent or by excluding California residents from such promotions or activities.
-
-However, as is common practice among companies that operate online, we permit third party advertising networks, social media companies and other third party businesses to collect personal information (including Internet/Network Information, Commercial Information, and Inferences) directly from your browser or device through cookies or tracking technologies when you visit or interact with our websites, use our apps or otherwise engage with us. These third parties use this information for the purposes of serving ads that are more relevant, for ad campaign measurement and analytics, and for fraud detection and reporting and they may sell that information to other businesses for advertising and other purposes. By visiting www.privacyrights.info or www.optout.privacyrights.info, you can opt out from sales of this type of personal information by businesses that participate in the opt out tool. To make opt-out requests related to mobile apps on your device for businesses participating in the DAA’s CCPA App-based Opt-Out Tool, you can download the appropriate app at www.youradchoices.com/appchoices. You can also learn more about how you can manage cookies and tracking technologies in our Cookie Policy.
-
-**Your Rights and Choices** **.** As a California resident, you may be able to request to exercise the following rights:
-
-*   **The Right to Know** any or all of the following information relating to your personal information we have collected and disclosed in the last 12 months, upon verification of your identity:
-    *   The specific pieces of personal information we have collected about you;
-    *   The categories of personal information we have collected about you;
-    *   The categories of sources of the personal information;
-    *   The categories of personal information that we have disclosed to third parties for a business purpose, and the categories of recipients to whom this information was disclosed;
-    *   The categories of personal information we have sold and the categories of third parties to whom the information was sold. and
-    *   The business or commercial purposes for collecting or selling the personal information.
-*   **The Right to Request Deletion** of personal information we have collected from you, subject to certain exceptions.
-*   **The Right to Opt Out of Personal Information Sales** to third parties.
-
-You also have the right to be free of discrimination for exercising these rights. However, please note that if the exercise of these rights limits our ability to process personal information (such as in the case of a deletion request), we may no longer be able to provide you our Services or engage with you in the same manner.
-
-**To submit your California Consumer Rights Requests** **.** You may submit a request to exercise your California Consumer Rights through one of the mechanisms described below. We will need to verify your identity before processing your request, which may require us to request additional personal information from you or require you to log into your account, if you have one. In certain circumstances, we may decline or limit your request, particularly where we are unable to verify your identity or locate your information in our systems, or as permitted by law.
-
-To exercise your California Consumer Rights, please submit a request by:
-
-*   Emailing support@zoosk.com with the subject line “California Rights Request,” or
-
-*   Filling out our California Consumer Rights Request Form available at: https://www.zoosk.com/support?from=contact&subject=support under the “Contact Us” tab.
-
-When submitting a request, please describe your relationship with us and your request with sufficient detail that allows us to properly understand, evaluate, and respond to it.
-
-**Minors** **.** We do not sell the personal information of consumers we know to be less than 16 years of age. Please contact us at support@zoosk.com to inform us if you, or your minor child, are under the age of 16.
+This Policy was last revised on May 15, 2018. For users who registered for the Services prior to May 15, 2018, this Policy will be effective on May 25, 2018.
