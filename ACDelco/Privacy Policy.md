@@ -1,136 +1,40 @@
-*   Our Stories
-*   Our Company
-*   Our Brands
-*   Investors
-*   Shop
+                           
 
-*   Main Menu
-*   OUR STORIES
-*   Our Stories Home
-*   Commitment
-*   Culture
-*   Technology
-*   Sustainability
-*   Community
-
-*   Main Menu
-*   OUR COMPANY
-*   About GM
-*   Leadership
-*   Inclusion Advisory Board
-*   GM in the U.S.
-*   Sustainability Report
-*   Social Investment
-
-*   Main Menu
-*   INVESTORS
-*   Investors Home
-*   News
-*   Stock Information
-*   Earnings Releases
-*   Events
-*   Sales
-*   SEC Filings
-*   Shareholder Information
-*   Corporate Governance
-*   FAQs
-*   Contacts
-
-*   Main Menu
-*   SHOP
-*   Chevrolet
-*   Buick
-*   GMC
-*   Cadillac
-*   Shop All Brands
-
-*   Owners
-*   My GM Rewards
-*   Press
-*   Careers
-*   Contact Us
-
-  
-Menu  
-Close Privacy Statement
+Privacy Statement
+=================
 
 General Motors Company U.S. Consumer Privacy Statement  
 Last modified: January, 2020  
   
 
-**Scope**
+### **Scope**
 
 Your privacy is important to General Motors Company (“GM” or “we”) as is your trust in GM’s products and services. We want you to know that the information you share with us will be treated with care. This Privacy Statement addresses what personal information we collect and how we handle the personal information shared with us.
 
-This Privacy Statement applies to personal information we obtain from and about individuals interacting with GM and its websites, products and services. It does not apply to personal information we obtain in our capacity as an employer.  This Privacy Statement covers all GM controlled subsidiaries and affiliates in the U.S. except for General Motors Financial Company, Inc. which has its own Privacy Statement.  Certain products and services may be subject to other privacy statements independently or in combination with this Privacy Statement and should be reviewed by the consumer, for example  OnStar, LLC’s can be viewed at https://www.onstar.com/web/portal/privacy, Maven Drive, LLC’s can be viewed at https://www.mavendrive.com/#!/legal/privacy-policy, and mobile applications may have separate privacy statements, as described in the Mobile Applications section below.
+This Privacy Statement applies to personal information we obtain from and about individuals interacting with GM and its websites, products and services. It does not apply to personal information we obtain in our capacity as an employer.  This Privacy Statement covers all GM controlled subsidiaries and affiliates in the U.S. except for General Motors Financial Company, Inc. which has its own Privacy Statement.  Certain products and services may be subject to other privacy statements independently or in combination with this Privacy Statement and should be reviewed by the consumer, for example  OnStar, LLC’s can be viewed at [https://www.onstar.com/web/portal/privacy](https://www.onstar.com/web/portal/privacy "https://www.onstar.com/web/portal/privacy"), Maven Drive, LLC’s can be viewed at [https://www.mavendrive.com/#!/legal/privacy-policy](https://www.mavendrive.com/#!/legal/privacy-policy), and mobile applications may have separate privacy statements, as described in the Mobile Applications section below.
 
 Key points about our information practices
 
-Collection
+|     |     |
+| --- | --- |
+| Collection | We may collect information about you and your vehicle, such as name, address, email address, phone number, vehicle identification number (VIN) and vehicle performance data through your use of our products or services, and through GM affiliates, dealers, GM licensees for consumer merchandise, GM partners and others who provide information to us.  _See below to learn more._ |
+| Use | We may use your information to provide products and services, to maintain customer relationships, for safety and product research purposes, to provide customer and vehicle support and service, and for marketing.  _See below to learn more._ |
+| Sharing | We may share your information as required by law, within GM, with our GM controlled subsidiaries and affiliates, with GM dealers, with GM licensees, with our service providers, and with our business partners. _See below to learn more._ |
+| Choices | You have choices regarding how we use and share your information for marketing and other purposes. _See below to learn more._ |
+| Cookies and Tracking | We may use cookies, pixel tags, web beacons and similar tracking technologies to help provide our products and services, understand and customize your preferences, and display relevant advertising. _See below to learn more._ |
+| Mobile Applications | GM has developed certain mobile applications that you may download to your mobile device or vehicle (“GM Applications”). When you download a GM Application, there may be an opportunity for you to provide us with or for us to obtain information about you or your vehicle. _See below to learn more._ |
+| Third Party Products and Services | Through the use of GM products and services, you may be able to access third party services, applications and websites not controlled by GM or covered by this Privacy Statement. _See below to learn more._ |
+| GM Dealers | GM and GM dealers are separate legal entities with their own privacy practices. For questions about your dealer's privacy practices including opting out of marketing communications from your dealer, please contact your dealer directly. _See below to learn more._ |
+| Access and Update | You may access your online accounts to update your information or you may contact us to learn about how to do so. _See below to learn more._ |
+| California Privacy Rights | California residents have certain rights regarding the personal information we disclose to third parties for their own marketing purposes. _See below to learn more._ |
+| Security Measures | We maintain reasonable and adequate security controls to protect your information and require our service providers by contract to do the same. _See below to learn more._ |
+| Retention | We keep information for as long as necessary to provide our products and services, operate our business, and comply with legal obligations. _See below to learn more._ |
+| Children's Privacy | GM websites do not target or knowingly collect any information from children under the age of 13_. See below to learn more._ |
+| International Data Transfers | We maintain appropriate protections for cross-border transfers as required by law for international data transfers. _See below to learn more._ |
+| Contact Us | If you have concerns or questions regarding GM's consumer privacy practices or this Privacy Statement, please contact us at 1-866-MYPRIVACY (1-866-697-7482). _See below to learn more._ |
+| Changes | We may update this Privacy Statement from time to time. We will do so by posting additions or modifications to this page. _See below to learn more._ |
 
-We may collect information about you and your vehicle, such as name, address, email address, phone number, vehicle identification number (VIN) and vehicle performance data through your use of our products or services, and through GM affiliates, dealers, GM licensees for consumer merchandise, GM partners and others who provide information to us.  _See below to learn more._
-
-Use
-
-We may use your information to provide products and services, to maintain customer relationships, for safety and product research purposes, to provide customer and vehicle support and service, and for marketing.  _See below to learn more._
-
-Sharing
-
-We may share your information as required by law, within GM, with our GM controlled subsidiaries and affiliates, with GM dealers, with GM licensees, with our service providers, and with our business partners. _See below to learn more._
-
-Choices
-
-You have choices regarding how we use and share your information for marketing and other purposes. _See below to learn more._
-
-Cookies and Tracking
-
-We may use cookies, pixel tags, web beacons and similar tracking technologies to help provide our products and services, understand and customize your preferences, and display relevant advertising. _See below to learn more._
-
-Mobile Applications
-
-GM has developed certain mobile applications that you may download to your mobile device or vehicle (“GM Applications”). When you download a GM Application, there may be an opportunity for you to provide us with or for us to obtain information about you or your vehicle. _See below to learn more._
-
-Third Party Products and Services
-
-Through the use of GM products and services, you may be able to access third party services, applications and websites not controlled by GM or covered by this Privacy Statement. _See below to learn more._
-
-GM Dealers
-
-GM and GM dealers are separate legal entities with their own privacy practices. For questions about your dealer's privacy practices including opting out of marketing communications from your dealer, please contact your dealer directly. _See below to learn more._
-
-Access and Update
-
-You may access your online accounts to update your information or you may contact us to learn about how to do so. _See below to learn more._
-
-California Privacy Rights
-
-California residents have certain rights regarding the personal information we disclose to third parties for their own marketing purposes. _See below to learn more._
-
-Security Measures
-
-We maintain reasonable and adequate security controls to protect your information and require our service providers by contract to do the same. _See below to learn more._
-
-Retention
-
-We keep information for as long as necessary to provide our products and services, operate our business, and comply with legal obligations. _See below to learn more._
-
-Children's Privacy
-
-GM websites do not target or knowingly collect any information from children under the age of 13_. See below to learn more._
-
-International Data Transfers
-
-We maintain appropriate protections for cross-border transfers as required by law for international data transfers. _See below to learn more._
-
-Contact Us
-
-If you have concerns or questions regarding GM's consumer privacy practices or this Privacy Statement, please contact us at 1-866-MYPRIVACY (1-866-697-7482). _See below to learn more._
-
-Changes
-
-We may update this Privacy Statement from time to time. We will do so by posting additions or modifications to this page. _See below to learn more._
-
-**Information Collected**
+### **Information Collected**
 
 As you interact with GM, there may be opportunities for you to provide us with your information. Additionally, we may collect certain information about you or your vehicle as further described below.  
   
@@ -145,7 +49,7 @@ The types of information that GM collects about you may include, but are not lim
 *   information about your vehicle (such as license plate number, vehicle identification number (VIN), make, model, model year, selling dealer, servicing dealer, date of purchase or lease, the lease/financing term, service history, mileage, oil/battery status, fuel or charging history, electrical system function, gear status, and diagnostic trouble codes)
 *   information about your connected devices (such as mobile phone, computer, or tablet) and how you interact with our products, services, apps and websites (such as IP address, browser type, unique device identifier, cookie data, and associated identifying and usage information
 *   demographic information (such as gender, date of birth, marital status and household composition)
-*   marketing profile information (such as when you plan to purchase or lease. the vehicle in which you're interested)
+*   marketing profile information (such as when you plan to purchase or lease; the vehicle in which you're interested)
 *   photographs and videos such as those that you may submit for contests, sweepstakes and social sharing
 *   relationships you have with GM in addition to the purchase and servicing of your vehicle (such as through a GM Rewards Card, OnStar or Maven etc.)
 *   incentive eligibility verification information (such as college name, branch of service or credit union name for vehicle purchase programs)
@@ -181,7 +85,7 @@ You may choose to forward information from one of our websites or emails to anot
 **Sharing**  
 GM may share the information it collects about you or your vehicle in the following instances:
 
-*   within GM, with our GM controlled subsidiaries and affiliates, with GM dealers and with GM licensees. however, transaction information regarding your GM Card will not be shared with GM dealers.
+*   within GM, with our GM controlled subsidiaries and affiliates, with GM dealers and with GM licensees; however, transaction information regarding your GM Card will not be shared with GM dealers.
 *   with our services providers who work on our behalf and who do not have an independent right to use the information to which they have access or that we disclose to them
 *   with our business partners for GM marketing activities, business partner marketing activities or both
 *   with third parties for research and development purposes (such as university research institutes for improving highway safety)
@@ -192,7 +96,7 @@ GM may share the information it collects about you or your vehicle in the follow
 Apart from the purposes listed above, GM will not share information about you or your vehicle with other third parties for their independent use without your prior consent..
 
 **Choices**  
-If you do not want to receive unsolicited marketing communications from GM, please visit our Consumer Preference System website at www.gmcontactpreferences.com. This will allow you to opt out of unsolicited marketing telephone and email communications and/or to change previously submitted opt-out preferences. You can also call 1-866-MYPRIVACY (1-866-697-7482) to opt out of direct mail communications, as well as telephone and email communications, and/or to change previously submitted opt-out preferences.
+If you do not want to receive unsolicited marketing communications from GM, please visit our [Consumer Preference System website](https://www.gmcontactpreferences.com/ "Consumer Preference System website") at [www.gmcontactpreferences.com](https://www.gmcontactpreferences.com/ "www.gmcontactpreferences.com"). This will allow you to opt out of unsolicited marketing telephone and email communications and/or to change previously submitted opt-out preferences. You can also call 1-866-MYPRIVACY (1-866-697-7482) to opt out of direct mail communications, as well as telephone and email communications, and/or to change previously submitted opt-out preferences.
 
 If you opt out of receiving marketing communications from GM, your personal information will not be used for marketing, but may still be used for the other purposes described in this Privacy Statement (such as vehicle support and service).  
   
@@ -209,7 +113,7 @@ To measure site activity, provide a better user experience, and tailor our marke
 
 At this time, we do not honor “do no track” signals from a web site browser. However, you may refuse or delete cookies. Please refer to your browser Help instructions to learn more about cookies and other technologies and how to manage their use. If you elect to refuse or delete cookies, you will need to repeat this process if you use another computer, or change browsers. If you choose to decline cookies, some of the functionality of a website may be impaired.  
   
-GM adheres to the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising (www.AboutAds.info).  If you do not wish to receive personalized advertising or content from us while visiting GM web sites, you may click on the AdChoices icon and/or link located at the bottom of the web site page or the Digital Advertising Alliance’s Opt-Out page. If you do not wish to receive personalized advertising or content from us on non-GM websites, please visit the Digital Advertising Alliance’s Opt-Out page or click on the AboutAds icon on a GM advertisement and follow the instructions on how to opt out.  Opting out of relevant advertising will not opt you out of all advertising, but rather only those advertisements that are personalized to your interests by GM or its agents or representatives.
+GM adheres to the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising (www.AboutAds.info).  If you do not wish to receive personalized advertising or content from us while visiting GM web sites, you may click on the AdChoices icon and/or link located at the bottom of the web site page or the [Digital Advertising Alliance’s Opt-Out page](http://www.aboutads.info/choices). If you do not wish to receive personalized advertising or content from us on non-GM websites, please visit the [Digital Advertising Alliance’s Opt-Out page](http://www.aboutads.info/choices) or click on the AboutAds icon on a GM advertisement and follow the instructions on how to opt out.  Opting out of relevant advertising will not opt you out of all advertising, but rather only those advertisements that are personalized to your interests by GM or its agents or representatives.
 
 **Mobile Applications**  
 GM has developed certain mobile applications that you may download to your mobile device or vehicle (“GM Applications”). When you download a GM Application, there may be an opportunity for you to provide us with or for us to obtain information about you or your vehicle. Each GM Application will display a separate Privacy Statement that will inform you about how any information is collected, used and shared via the application and how to decline such use or uninstall the application.  
@@ -262,7 +166,7 @@ For GM Family First participants, you may correct your information by contacting
 **California Privacy Rights**  
 If you are a California resident you have the right to request information from GM regarding the manner in which GM shares certain categories of your personal information with third parties, for the third parties direct marketing purposes. California law provides that you have the right to submit a request to GM at its designated address and receive the following information:
 
-*   The categories of information GM disclosed to third parties for the third parties' direct marketing purposes during the preceding calendar year. and
+*   The categories of information GM disclosed to third parties for the third parties' direct marketing purposes during the preceding calendar year; and
 *   The names and addresses of third parties that received such information, or if the nature of their business cannot be determined from the name, then examples of the products or services marketed.
 
 You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. You may make such a request by calling 1-866-MYPRIVACY (1-866 697-7482).  
@@ -283,7 +187,7 @@ We store your information in the United States, the European Economic Area (EEA)
 
 Individuals that use products or services offered by a GM Europe company or OnStar Europe Ltd. may wish to raise any privacy questions with such company directly, including filing any requests to access European customer data or exercise other privacy rights. Individuals may also raise questions with GM U.S. using the contact details below.  
   
-In addition, anonymized and aggregated data from OnStar Europe Ltd. is shared with GM U.S. to evaluate or research the safety, quality, usage, and functionality of vehicles and services, including the OnStar Services. to provide OnStar Europe Ltd. customers with vehicle support and services. and to ensure accurate customer records and maintain customer relationships.  Information also is shared with GM U.S. in order to contact OnStar Europe Ltd. customers about their vehicle or the services, or for marketing purposes, but only if the individual has opted in to receive marketing information.
+In addition, anonymized and aggregated data from OnStar Europe Ltd. is shared with GM U.S. to evaluate or research the safety, quality, usage, and functionality of vehicles and services, including the OnStar Services; to provide OnStar Europe Ltd. customers with vehicle support and services; and to ensure accurate customer records and maintain customer relationships.  Information also is shared with GM U.S. in order to contact OnStar Europe Ltd. customers about their vehicle or the services, or for marketing purposes, but only if the individual has opted in to receive marketing information.
 
 **How To Contact Us**  
 If you have concerns or questions regarding GM's consumer privacy practices or this Privacy Statement you may contact us at 1-866-MYPRIVACY (1-866-697-7482).
@@ -300,85 +204,18 @@ This PRIVACY STATEMENT FOR CALIFORNIA RESIDENTS (“California Privacy Statement
 
 We may collect certain information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a consumer or household (“Personal Information”). Personal Information does not include de-identified or aggregated information. Please see the following disclosure regarding what we may collect, use, and share based on your use of the products and services and the consent(s) you have provided to us:
 
-**Personal Information Categories &. Examples**
-
-**Source Categories**
-
-**Business or Commercial Purpose(s) for which the Information was Collected**
-
-**Categories of Third-Party Sharing**
-
-Identifiers, such as name, postal address, unique personal identifier, internet protocol address, signature, email address, account name, or other similar identifiers.
-
-Consumers provided this information directly to us or automatically through their interaction with our products or services. GM dealers. service providers. and business partners.
-
-Provide and improve our products and services. improve the quality, safety, and security of our products and services. to administer your account(s) and process your payments for products and services. to operate our websites and applications, including online registration processes. to facilitate and support GM dealer and supplier programs. to provide customer and vehicle support and service (such as recall information). for warranty administration and validation. to provide product and service updates. develop new products and services. for research, evaluation of use, and troubleshooting purposes. to verify eligibility for vehicle purchase or incentive programs. for marketing and/or analytics purposes. to customize and improve communication content. to comply with legal, regulatory or contractual requirements. to evaluate or conduct a merger, divestiture, acquisition, restructuring, reorganization, dissolution, or other sale or transfer of all of our assets. to detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, and prosecute those responsible for that activity. and to debug to identity and repair errors that impair existing intended functionality. 
-
-Our service providers. emergency service providers, such as law enforcement, roadside assistance providers and ambulance providers. dealers. business partners for marketing activities. and independent third parties, such as research institutions, in-vehicle app providers or usage-based insurance providers.
-
-Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e)), such as bank account number, credit card number, debit card number, or any other financial information, medical information,  health insurance information, social security number, physical characteristics or description, passport number, driver’s license or state identification card number, insurance policy number, education, employment, or employment history,
-
-Consumers provided this information directly to us or automatically through their interaction with our products or services. GM dealers. licensors. service providers. marketing partners. and/or independent third-party sources.
-
-Provide our products and services. to administer your account(s) and process your payments for products and services. to provide customer and vehicle support and service (such as recall information). for warranty administration and validation. to support dealer transactions. and to comply with legal, regulatory or contractual requirements.
-
-Our service providers. emergency service providers, such as law enforcement, roadside assistance providers and ambulance providers.
-
-Protected classification characteristics under California or federal law, such as age (40 years or older), race, color, ancestry, national origin, citizenship, religion or creed, marital status, medical condition, physical or mental disability, sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions), sexual orientation, or veteran or military status.
-
-Consumers provided this information directly to us or automatically through their interaction with our products or services. GM dealers. service providers. marketing partners. and/or independent third-party sources.
-
-For marketing and/or analytics purposes. to customize and improve communication content. and to comply with legal, regulatory or contractual requirements;
-
-Our service providers and emergency service providers, such as law enforcement, and roadside assistance providers and ambulance providers.
-
-Commercial information, including records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.
-
-Consumers provided this information directly to us or automatically through their interaction with our products or services. GM dealers. service providers. marketing partners. and/or independent third-party sources.
-
-Provide our products and services. to improve the quality, safety, and security of our products and services. to administer your account(s) and process your payments for products and services. to operate our websites and applications, including online registration processes. to facilitate and support GM dealer and supplier programs. to provide customer and vehicle support and service (such as recall information). for warranty administration and validation. for marketing and/or analytics purposes. to customize and improve communication content. and to comply with legal, regulatory or contractual requirements.
-
-Our service providers and business partners for marketing activities.
-
-Genetic, physiological, behavioral, and biological characteristics, or activity patterns used to extract a template or other identifier or identifying information, such as, fingerprints, faceprints, and voiceprints, iris or retina scans, keystroke, gait, or other physical patterns, and sleep, health, or exercise data.
-
-Consumers provided this information directly to us or automatically through their interaction with our products or services.
-
-Provide our products and services. for research, evaluation of use, and troubleshooting purposes. and to comply with legal, regulatory or contractual requirements.
-
-Our service providers and emergency service providers, such as law enforcement, roadside assistance providers and ambulance providers.
-
-Internet or other electronic network activity information, including, browsing history, search history, and information regarding a consumer's interaction with an internet website, application, or advertisement.
-
-Consumers provided this information directly to us or automatically through their interaction with our products or services. GM dealers. service providers. marketing partners. and/or independent third-party sources.
-
-Provide our products and services. to improve the quality, safety, and security of our products and services. for research, evaluation of use, and troubleshooting purposes. develop new products and services. to operate our websites and applications, including online registration processes. for marketing and/or analytics purposes. to customize and improve communication content. and to comply with legal, regulatory or contractual requirements.
-
-Our service providers. business partners for marketing activities. and independent third parties, such as in-vehicle app providers.
-
-Geolocation data.
-
-Consumers provided this information directly to us or automatically through their interaction with our products or services.
-
-Provide our products and services. to develop new products and services. for research, evaluation of use, to provide customer and vehicle support and service (such as recall information). and troubleshooting purposes. for marketing and/or analytics purposes. to customize and improve communication content. and to comply with legal, regulatory or contractual requirements.
-
-Our service providers. emergency service providers, such as law enforcement, roadside assistance providers and ambulance providers. and business partners for marketing activities.
-
-Audio, electronic, visual, thermal, olfactory, or similar information.
-
-Consumers provided this information directly to us or automatically through their interaction with our products or services. GM dealers. and/or service providers.
-
-Provide our products and services. for research, evaluation of use, and troubleshooting purposes. and to comply with legal, regulatory or contractual requirements.
-
-Our service providers and emergency service providers, such as law enforcement, roadside assistance providers and ambulance providers.
-
-Inferences drawn from other personal information to create a profile about a consumer reflecting the consumer’s preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, or aptitudes.
-
-Consumers provided this information directly to us or automatically through their interaction with our products or services. GM dealers. service providers. marketing partners. and/or independent third-party sources.
-
-Provide our products and services. for marketing and/or analytics purposes. to customize and improve communication content. and to comply with legal, regulatory or contractual requirements.
-
-Our service providers and business partners for marketing activities.
+|     |     |     |     |
+| --- | --- | --- | --- |
+| **Personal Information Categories & Examples** | **Source Categories** | **Business or Commercial Purpose(s) for which the Information was Collected** | **Categories of Third-Party Sharing** |
+| Identifiers, such as name, postal address, unique personal identifier, internet protocol address, signature, email address, account name, or other similar identifiers. | Consumers provided this information directly to us or automatically through their interaction with our products or services; GM dealers; service providers; and business partners. | Provide and improve our products and services; improve the quality, safety, and security of our products and services; to administer your account(s) and process your payments for products and services; to operate our websites and applications, including online registration processes; to facilitate and support GM dealer and supplier programs; to provide customer and vehicle support and service (such as recall information); for warranty administration and validation; to provide product and service updates; develop new products and services; for research, evaluation of use, and troubleshooting purposes; to verify eligibility for vehicle purchase or incentive programs; for marketing and/or analytics purposes; to customize and improve communication content; to comply with legal, regulatory or contractual requirements; to evaluate or conduct a merger, divestiture, acquisition, restructuring, reorganization, dissolution, or other sale or transfer of all of our assets; to detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, and prosecute those responsible for that activity; and to debug to identity and repair errors that impair existing intended functionality. | Our service providers; emergency service providers, such as law enforcement, roadside assistance providers and ambulance providers; dealers; business partners for marketing activities; and independent third parties, such as research institutions, in-vehicle app providers or usage-based insurance providers. |
+| Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e)), such as bank account number, credit card number, debit card number, or any other financial information, medical information,  health insurance information, social security number, physical characteristics or description, passport number, driver’s license or state identification card number, insurance policy number, education, employment, or employment history, | Consumers provided this information directly to us or automatically through their interaction with our products or services; GM dealers; licensors; service providers; marketing partners; and/or independent third-party sources. | Provide our products and services; to administer your account(s) and process your payments for products and services; to provide customer and vehicle support and service (such as recall information); for warranty administration and validation; to support dealer transactions; and to comply with legal, regulatory or contractual requirements. | Our service providers; emergency service providers, such as law enforcement, roadside assistance providers and ambulance providers. |
+| Protected classification characteristics under California or federal law, such as age (40 years or older), race, color, ancestry, national origin, citizenship, religion or creed, marital status, medical condition, physical or mental disability, sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions), sexual orientation, or veteran or military status. | Consumers provided this information directly to us or automatically through their interaction with our products or services; GM dealers; service providers; marketing partners; and/or independent third-party sources. | For marketing and/or analytics purposes; to customize and improve communication content; and to comply with legal, regulatory or contractual requirements; | Our service providers and emergency service providers, such as law enforcement, and roadside assistance providers and ambulance providers. |
+| Commercial information, including records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies. | Consumers provided this information directly to us or automatically through their interaction with our products or services; GM dealers; service providers; marketing partners; and/or independent third-party sources. | Provide our products and services; to improve the quality, safety, and security of our products and services; to administer your account(s) and process your payments for products and services; to operate our websites and applications, including online registration processes; to facilitate and support GM dealer and supplier programs; to provide customer and vehicle support and service (such as recall information); for warranty administration and validation; for marketing and/or analytics purposes; to customize and improve communication content; and to comply with legal, regulatory or contractual requirements. | Our service providers and business partners for marketing activities. |
+| Genetic, physiological, behavioral, and biological characteristics, or activity patterns used to extract a template or other identifier or identifying information, such as, fingerprints, faceprints, and voiceprints, iris or retina scans, keystroke, gait, or other physical patterns, and sleep, health, or exercise data. | Consumers provided this information directly to us or automatically through their interaction with our products or services. | Provide our products and services; for research, evaluation of use, and troubleshooting purposes; and to comply with legal, regulatory or contractual requirements. | Our service providers and emergency service providers, such as law enforcement, roadside assistance providers and ambulance providers. |
+| Internet or other electronic network activity information, including, browsing history, search history, and information regarding a consumer's interaction with an internet website, application, or advertisement. | Consumers provided this information directly to us or automatically through their interaction with our products or services; GM dealers; service providers; marketing partners; and/or independent third-party sources. | Provide our products and services; to improve the quality, safety, and security of our products and services; for research, evaluation of use, and troubleshooting purposes; develop new products and services; to operate our websites and applications, including online registration processes; for marketing and/or analytics purposes; to customize and improve communication content; and to comply with legal, regulatory or contractual requirements. | Our service providers; business partners for marketing activities; and independent third parties, such as in-vehicle app providers. |
+| Geolocation data. | Consumers provided this information directly to us or automatically through their interaction with our products or services. | Provide our products and services; to develop new products and services; for research, evaluation of use, to provide customer and vehicle support and service (such as recall information); and troubleshooting purposes; for marketing and/or analytics purposes; to customize and improve communication content; and to comply with legal, regulatory or contractual requirements. | Our service providers; emergency service providers, such as law enforcement, roadside assistance providers and ambulance providers; and business partners for marketing activities. |
+| Audio, electronic, visual, thermal, olfactory, or similar information. | Consumers provided this information directly to us or automatically through their interaction with our products or services; GM dealers; and/or service providers. | Provide our products and services; for research, evaluation of use, and troubleshooting purposes; and to comply with legal, regulatory or contractual requirements. | Our service providers and emergency service providers, such as law enforcement, roadside assistance providers and ambulance providers. |
+| Inferences drawn from other personal information to create a profile about a consumer reflecting the consumer’s preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, or aptitudes. | Consumers provided this information directly to us or automatically through their interaction with our products or services; GM dealers; service providers; marketing partners; and/or independent third-party sources. | Provide our products and services; for marketing and/or analytics purposes; to customize and improve communication content; and to comply with legal, regulatory or contractual requirements. | Our service providers and business partners for marketing activities. |
 
 **  
   
@@ -392,7 +229,7 @@ We have disclosed or sold Personal Information to third parties for a business o
 
 _Right to Know About Personal Information Collected, Used, Disclosed, or Sold_
 
-You have the right to request up to twice in a 12-month period that we disclose certain information to you about our collection, use and disclosure of your Personal Information over the past 12 months. Once we receive your request and verify your identity, we will disclose to you the information you request in the following areas: (1) the categories of Personal Information we collected about you. (2) the categories of sources for the Personal Information. (3) our business or commercial purpose for collecting or selling that Personal Information. (4) the categories of third parties with whom we shared that Personal Information. and (5) the specific pieces of Personal Information we collected about you in the preceding 12 months.
+You have the right to request up to twice in a 12-month period that we disclose certain information to you about our collection, use and disclosure of your Personal Information over the past 12 months. Once we receive your request and verify your identity, we will disclose to you the information you request in the following areas: (1) the categories of Personal Information we collected about you; (2) the categories of sources for the Personal Information; (3) our business or commercial purpose for collecting or selling that Personal Information; (4) the categories of third parties with whom we shared that Personal Information; and (5) the specific pieces of Personal Information we collected about you in the preceding 12 months.
 
 _Right to Delete Personal Information Collected or Maintained_
 
@@ -425,54 +262,5 @@ Contact Information
 If you have any questions or comments about this notice, our Privacy Statement, the ways in which we collect, use, and share your Personal Information, your choices and rights regarding such use, or wish to exercise your rights under the CCPA, please do not hesitate to contact us at:
 
 Phone: 866-MYPRIVACY (866-697-7482)  
-Website: consumerprivacy.gm.com  
-Email: privacy@gm.com
-
- 
-
-*   Home
-*   Our Stories
-*   Our Company
-*   Our Brands
-*   Investors
-*   Other GM Sites
-*   Careers
-*   Shop
-*   Corporate Offers
-*   Owners
-*   My GM Rewards
-*   Press
-*   Contact
-*   Retiree/Alumni
-*   Ignition Updates
-*   Takata Information
-*   Recalls
-*   Copyright / Trademark
-*   User Guidelines
-*   Social Media Policy
-*   Supply Chain Responsibility
-*   Privacy Statement
-*   Sitemap
-
-CALIFORNIA RESIDENTS: DO NOT SELL MY INFO  
-
-Definitions
-
-1.  Based on work location as of January 31, 2020. Includes regular, per diem, regular temp, temporary, apprentices, classified, executive, officer, hourly, active, work from home and on leave with pay. Headcount figures do not include GMF or Cruise Automation.
-2.  Number of GM U.S. facilities includes all GM, GM Financial, Components, Maven, and Cruise locations.
-3.  Total number of active GM dealers in the U.S. and by individual state. U.S. total does not include dealers in Guam (2), Puerto Rico (4) and Virgin Islands (1).
-4.  Approximate number includes both hourly and salaried retirees.
-5.  Direct investment amount announced in the U.S. since 2009.
-6.  State taxable wages, 2019 (Box 16 W-2).
-7.  State income tax, 2019 (Box 17 W-2).
-8.  Number of vehicles delivered in the U.S. and by state, in 2019.
-9.  Number of GM primary suppliers (direct and indirect) with a purchase order current within the last 365 days. 2020 spend is based on GM's global purchasing and supply chain invoice system.
-10.  Number of individuals impacted through GM's philanthropic investments, including Community Impact Grants.
-11.  Number of employees throughout GM facilities around the world.
-12.  2019 full-year earnings before tax (EBT).
-13.  Source: Center for Automotive Research, 2019.
-14.  No state personal income tax collected on wages. State Unemployment Income (SUI) used to provide approximate total wages paid in the state.
-15.  2019 taxable wages (Box 16 W-2) paid in the U.S. State Unemployment Income (SUI) used to provide approximate wages for AK, FL, NV, NH, SD, TN, TX, WA and WY where state personal income taxes are not collected on wages.
-16.  Total of all state income taxes withheld in 2019 (Box 17 W-2). AK, FL, NV, NH, SD, TN, TX, WA and WY excluded as no state personal income taxes collected on wages.
-
-Share On
+Website: [consumerprivacy.gm.com](https://www.gm.com/consumer-privacy.html)  
+Email: [privacy@gm.com](mailto:privacy@gm.com)
