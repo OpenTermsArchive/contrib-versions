@@ -1681,7 +1681,7 @@ Dans le cas où votre commande comprend un ou plusieurs Produits en Précommande
 **ARTICLE 3 - GARANTIE DU PRIX CDISCOUNT LE PLUS BAS POUR LES PRODUITS JEUX VIDEOS  
 **  
   
-Dans l’hypothèse où le prix pratiqué au moment de l’achat d’un Produit Jeu Vidéo en précommande serait supérieur au prix pratiqué par CDISCOUNT pour le même Produit Jeu Vidéo en précommande sur son Site pendant la période de précommande (c’est-à-dire jusqu’à la veille de la sortie du Produit Jeu Vidéo en précommande), un bon d’achat d’une valeur équivalente au montant de la différence entre ces deux prix sera crédité sur votre compte client, sous réserve que la différence de prix soit égale ou supérieure à 0,50€ (ci-après la « Garantie du prix Cdiscount le plus bas »).  
+Dans l’hypothèse où le prix pratiqué au moment de l’achat d’un Produit Jeu Vidéo en précommande serait supérieur au prix pratiqué par CDISCOUNT pour le même Produit Jeu Vidéo en précommande sur son Site pendant la période de précommande (c’est-à-dire jusqu’à la veille de la sortie du Produit Jeu Vidéo en précommande), un bon d'achat d’une valeur équivalente au montant de la différence entre ces deux prix sera crédité sur votre compte client, sous réserve que la différence de prix soit égale ou supérieure à 0,50€ (ci-après la « Garantie du prix Cdiscount le plus bas »).  
   
 Les Produits Téléphonie en précommande sont exclus de la Garantie du prix Cdiscount le plus bas.  
 La Garantie du prix Cdiscount le plus bas est soumise aux conditions cumulatives suivantes :  
