@@ -220,7 +220,7 @@ _**Summary:**_
 
 ### 5.1 Your Choices: Account Information
 
-You may update or correct your account information by editing your account settings or by sending a request to privacy@meetup.com as described in [Section 6](#h_c9263130-4290-4d41-a349-6c9ea2db47fa). You may deactivate your account by editing your account settings or by sending an email to privacy@meetup.com. You will also be able to choose what information others see about you and who may contact you by using the Privacy Settings section in your Account.
+As described in [Section 6](#h_c9263130-4290-4d41-a349-6c9ea2db47fa) and [Section 7](#h_d134450a-afaa-4dc5-9fb3-095c8b1bb0cd), you may update or correct your account information by editing your account settings or by sending a request to privacy@meetup.com. You may also request deletion of your information. You may deactivate your account by editing your account settings. You will also be able to choose what information others see about you and who may contact you by using the Privacy Settings section in your Account.
 
 ### 5.2 Your Choices: Location Information
 
