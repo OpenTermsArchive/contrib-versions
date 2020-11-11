@@ -1679,7 +1679,7 @@ Dans le cas où votre commande comprend un ou plusieurs Produits en Précommande
 **ARTICLE 3 - GARANTIE DU PRIX CDISCOUNT LE PLUS BAS POUR LES PRODUITS JEUX VIDEOS  
 **  
   
-Dans l’hypothèse où le prix pratiqué au moment de l’achat d’un Produit Jeu Vidéo en précommande serait supérieur au prix pratiqué par CDISCOUNT pour le même Produit Jeu Vidéo en précommande sur son Site pendant la période de précommande (c’est-à-dire jusqu’à la veille de la sortie du Produit Jeu Vidéo en précommande), un bon d���achat d’une valeur équivalente au montant de la différence entre ces deux prix sera crédité sur votre compte client, sous réserve que la différence de prix soit égale ou supérieure à 0,50€ (ci-après la « Garantie du prix Cdiscount le plus bas »).  
+Dans l’hypothèse où le prix pratiqué au moment de l’achat d’un Produit Jeu Vidéo en précommande serait supérieur au prix pratiqué par CDISCOUNT pour le même Produit Jeu Vidéo en précommande sur son Site pendant la période de précommande (c’est-à-dire jusqu’à la veille de la sortie du Produit Jeu Vidéo en précommande), un bon d’achat d’une valeur équivalente au montant de la différence entre ces deux prix sera crédité sur votre compte client, sous réserve que la différence de prix soit égale ou supérieure à 0,50€ (ci-après la « Garantie du prix Cdiscount le plus bas »).  
   
 Les Produits Téléphonie en précommande sont exclus de la Garantie du prix Cdiscount le plus bas.  
 La Garantie du prix Cdiscount le plus bas est soumise aux conditions cumulatives suivantes :  
@@ -1928,7 +1928,7 @@ Cdiscount informe le Client Pro ayant la qualité de revendeur des produits ache
 Copie France collecte la rémunération pour copie privée auprès des fabricants et distributeurs de supports d’enregistrement vierges lors de la mise en circulation de ces supports sur le marché français.  
    
 Cette rémunération est ensuite répercutée par les fabricants et les distributeurs sur le prix payé par les acquéreurs desdits supports.  
-Une notice explicative relative à la redevance copie privée établie par le Ministère de la Culture est disponible sous le lien suivant : [https://www.legifrance.gouv.fr/jo\_pdf.do?id=JORFTEXT000028539319](https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000028539319)  
+Une notice explicative relative à la redevance copie priv��e établie par le Ministère de la Culture est disponible sous le lien suivant : [https://www.legifrance.gouv.fr/jo\_pdf.do?id=JORFTEXT000028539319](https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000028539319)  
  Les conditions sous lesquelles le Client Pro peut se voir rembourser la redevance pour copie privée sont également précisées dans cette notice explicative.   
   
 Certains produits vendus sur le Site sont soumis à redevance copie privée.  
