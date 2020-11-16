@@ -66,9 +66,9 @@ If you’ve not yet received a copy of the copyright complaint regarding the con
 
 In an effort to be as transparent as possible regarding the removal or restriction of access to user-posted content, we clearly mark withheld Tweets and media to indicate to viewers when content has been withheld (examples below). We also send a redacted copy of each copyright complaint and counter-notice that we process to Lumen, where they are posted to a public-facing website (with your personal information removed).
 
-![](/content/dam/help-twitter/rules-and-policies/withheld-tweet.png)
+![](https://cdn.cms-twdigitalassets.com/content/dam/help-twitter/rules-and-policies/withheld-tweet.png)
 
-![](/content/dam/help-twitter/rules-and-policies/withheld-media.png)
+![](https://cdn.cms-twdigitalassets.com/content/dam/help-twitter/rules-and-policies/withheld-media.png)
 
 ### My content was removed from Twitter
 
