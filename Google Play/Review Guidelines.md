@@ -1207,20 +1207,22 @@ If you do not agree with the rating assigned to your app, you can appeal directl
 News 
 -----
 
-Apps that select the ‘News’ category but exhibit content that does not meet these requirements are not permitted in the News category of the Play Store. News apps that require a user to purchase a membership must provide a content preview for users prior to purchase. 
+An app that declares itself as a "News" app on Google Play must meet all of the following requirements.
+
+News apps that require a user to purchase a membership must provide a content preview for users prior to purchase. 
 
 News apps MUST:
 
-*   provide adequate information about the news publisher and its contributors including clear ownership, and 
+*   provide ownership information about the news publisher and its contributors including, but not limited to, the official website for the news published in your app, valid and verifiable contact information, and the original publisher of each article, and 
 *   have a website or in-app page that provides valid contact information for the news publisher.
 
 News apps MUST NOT:
 
-*   contain significant spelling & grammar errors,
-*   contain only static content, and 
+*   contain significant spelling & or grammatical errors,
+*   contain only static content (e.g., content that is several months old), and 
 *   have affiliate marketing or ad revenue as its primary purpose.  
 
-News aggregator apps must be transparent about the publishing source of the content in the app and each of the sources must meet News policy requirements.
+News apps that aggregate content from different publishing sources must be transparent about the publishing source of the content in the app and each of the sources must meet News policy requirements.
 
 Spam and Minimum Functionality
 ==============================
