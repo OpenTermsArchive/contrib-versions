@@ -1928,7 +1928,7 @@ Cdiscount informe le Client Pro ayant la qualité de revendeur des produits ache
 Copie France collecte la rémunération pour copie privée auprès des fabricants et distributeurs de supports d’enregistrement vierges lors de la mise en circulation de ces supports sur le marché français.  
    
 Cette rémunération est ensuite répercutée par les fabricants et les distributeurs sur le prix payé par les acquéreurs desdits supports.  
-Une notice explicative relative à la redevance copie priv��e établie par le Ministère de la Culture est disponible sous le lien suivant : [https://www.legifrance.gouv.fr/jo\_pdf.do?id=JORFTEXT000028539319](https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000028539319)  
+Une notice explicative relative à la redevance copie privée établie par le Ministère de la Culture est disponible sous le lien suivant : [https://www.legifrance.gouv.fr/jo\_pdf.do?id=JORFTEXT000028539319](https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000028539319)  
  Les conditions sous lesquelles le Client Pro peut se voir rembourser la redevance pour copie privée sont également précisées dans cette notice explicative.   
   
 Certains produits vendus sur le Site sont soumis à redevance copie privée.  
