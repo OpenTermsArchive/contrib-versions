@@ -1,6 +1,10 @@
 Terms of Use
 ------------
 
+  
+
+These terms will be updated effective December 20, 2020. To preview the new version prior to its effective date, click [here](http://help.instagram.com/1215086795543252?helpref=page_content).
+
 Welcome to Instagram!  
   
 These Terms of Use govern your use of Instagram and provide information about the Instagram Service, outlined below. When you create an Instagram account or use Instagram, you agree to these terms.  
