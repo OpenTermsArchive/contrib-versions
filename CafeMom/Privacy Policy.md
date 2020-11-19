@@ -56,7 +56,7 @@ Push Notifications are the little news alerts that pop up on your screen with th
 To disable Push Notifications, see this [link](https://documentation.onesignal.com/docs/unsubscribe-from-notifications).
 
 **Public Profiles**  
-The profiles you create and any content that you post on the Wild Sky Media Sites will be publicly accessible unless otherwise indicated. You may change the privacy settings of your profile through your account portal. To request removal of your personal information from our blog or community forum, contact us at [optout@wildskymedia.com](mailto:optout@wildskymedia.com).
+Wild Sky Media Sites do not offer any user profiles at this time and all old user accounts have been deprecated.
 
 **Location Information**  
 When you first launch any of our applications that collect location information, you will be asked to consent to the application’s collection of this information. If you initially consent to our collection of location information, you can subsequently stop the collection of this information at any time by changing the preferences on your mobile device.
@@ -79,18 +79,10 @@ The Wild Sky Media Sites include links to other web sites whose privacy practice
 **OUR COMMITMENT TO CHILDREN’S PRIVACY**  
 Protecting the privacy of young children is especially important to Wild Sky Media. For that reason, Wild Sky Media does not knowingly collect or maintain information on the Wild Sky Media Sites from persons under 13 years of age, and no Wild Sky Media Sites are directed to persons under 13. If you are under 13 years of age, please do not use or access the Wild Sky Media Sites at any time or in any manner. If Wild Sky Media learns that personal information of persons under 13 years of age has been collected on the Wild Sky Media Sites then Wild Sky Media will take the appropriate steps to delete this information.
 
-**INTERNATIONAL USERS & PRIVACY SHIELD**  
+**INTERNATIONAL USERS**  
 The Wild Sky Media Sites are hosted in the United States. If you access the Wild Sky Media Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from the laws of the United States, please be advised that through your continued use of the Wild Sky Media Sites, you are transferring your personal information to the United States.
 
-Wild Sky Media (and its subsidiaries) participate in and have certified compliance with the EU-U.S. Privacy Shield Framework. Wild Sky Media is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. [https://www.privacyshield.gov/list](https://www.privacyshield.gov/list)
-
-Wild Sky Media is responsible for the processing of personal data it receives under the Privacy Shield Framework and subsequently transfers to a third party acting as an agent on its behalf. Wild Sky Media complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
-
-With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Wild Sky Media is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Wild Sky Media may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request).
-
-Under certain conditions, more fully described on the Privacy Shield website [https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+In certain situations, Wild Sky Media may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 **DATA RETENTION**  
 We store the information we collect about you for as long as is necessary for the purposes for which we originally collected it, such as to mediate your access to the Wild Sky Media Sites, for advertising, or as needed to provide you services. We also retain your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
@@ -119,7 +111,7 @@ We will take steps to verify your identity before processing your request to kno
 You may use an authorized agent to submit a request to know or a request to delete. When we verify your agent’s request, we may verify both your and your agent’s identity and request a signed document from you that authorizes your agent to make the request on your behalf. To protect your Personal Information, we reserve the right to deny a request from an agent that does not submit proof that they have been authorized by you to act on your behalf.
 
 **SHINE THE LIGHT**  
-California residents may also request information from us once per calendar year about any personal information shared with third parties for their own direct marketing purposes, including the categories of information and the names and addresses of those businesses with which we have shared such information. To request this information, please contact us at privacy@wildskymedia.com or by postal mail sent to Wild Sky Media, Inc. 233 Broadway 13th Floor New York, NY 10279. Your inquiry must specify “California Privacy Rights Request” in the subject line of the email or the first line of the letter, and include your name, street address, city, state and ZIP code.
+California residents may also request information from us once per calendar year about any personal information shared with third parties for their own direct marketing purposes, including the categories of information and the names and addresses of those businesses with which we have shared such information. To request this information, please contact us at privacy@wildskymedia.com or by postal mail sent to Wild Sky Media, Inc. 125 Park Ave, 25th Floor New York, NY 10017. Your inquiry must specify “California Privacy Rights Request” in the subject line of the email or the first line of the letter, and include your name, street address, city, state and ZIP code.
 
 **RESIDENTS OF THE EUROPEAN ECONOMIC AREA**  
 If you are a resident of the European Economic Area (“EEA”), you have certain rights and protections under the law regarding the processing of your personal data.
@@ -141,12 +133,12 @@ If you are a resident of the EEA and have a concern about our processing of pers
 This Privacy Policy may be revised periodically reflected by the “effective date” below. Please revisit this page frequently to become aware of any changes. If we materially change how we use your personal information, we will notify you here, by email, or by means of a notice on our home page prior to the change becoming effective.
 
 **Date Last Modified:**  
-This Privacy Policy was last modified December 20, 2019
+This Privacy Policy was last modified November 18, 2020
 
 **Contact Information:**  
 Please contact Wild Sky Media with any questions or comments about this Privacy Policy or the Wild Sky Media Sites by emailing: [privacy@wildskymedia.com](mailto:privacy@wildskymedia.com).
 
 Wild Sky Media, Inc.  
-233 Broadway  
-13th Floor  
-New York, NY 10279
+125 Park Ave  
+25th Floor  
+New York, NY 10017
