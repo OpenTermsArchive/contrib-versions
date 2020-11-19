@@ -45,7 +45,7 @@ Information that we obtain from these devices includes:
 *   **Cookie data:** data from cookies stored on your device, including cookie IDs and settings. Learn more about how we use cookies in the [Facebook Cookies Policy](https://www.facebook.com/policies/cookies/) and [Instagram Cookies Policy](https://www.instagram.com/legal/cookies/).
     
 
-Information from partners.
+[Information from partners.](#information_from_partners)
 
 Advertisers, [app](https://www.facebook.com/help/1642635852727373?ref=dp) developers and publishers can send us information through [Facebook Business Tools](https://www.facebook.com/help/331509497253087) that they use, including our social plugins (such as the Like button), Facebook Login, our [APIs and SDKs](https://developers.facebook.com/docs/apis-and-sdks), or the Facebook [pixel](https://www.facebook.com/business/a/facebook-pixel). These partners provide information about your activities off Facebook – including information about your device, websites you visit, purchases you make, the ads you see and how you use their services – whether or not you have a Facebook account or are logged in to Facebook. For example, a game developer could use our API to tell us what games you play, or a business could tell us about a purchase you made in its shop. We also receive information about your online and offline actions and purchases from third-party data providers who have the rights to provide us with your information.  
   
@@ -72,7 +72,7 @@ We use the information we have to deliver our Products, including to personalise
 *   **Ads and other sponsored content:** We use the information we have about you – including information about your interests, actions and connections – to select and personalise ads, offers and other sponsored content that we show you. Learn more about how we [select and personalise ads](https://www.facebook.com/ads/preferences), and your choices over the data we use to select ads and other sponsored content for you in the [Facebook Settings](https://www.facebook.com/settings) and [Instagram Settings](https://www.instagram.com/accounts/privacy_and_security/).
     
 
-Provide measurement, analytics and other business services.
+Providing measurement, analytics and other business services.
 
 We use the information we have (including your activity off our Products, such as the websites you visit and ads you see) to help advertisers and other partners measure the effectiveness and distribution of their ads and services, and understand the types of people who use their services and how people interact with their websites, apps and services. [Learn how we share information](#sharing-partner-information) with these partners.
 
