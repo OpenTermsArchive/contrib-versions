@@ -1,7 +1,3 @@
-{"railsEnv":"production","inMailer":false,"i18nLocale":"en-us","i18nDefaultLocale":"en-us","rorVersion":"12.0.1","rorPro":false,"href":"https://www.vinted.com/terms\_and\_conditions","location":"/terms\_and\_conditions","scheme":"https","host":"www.vinted.com","port":null,"pathname":"/terms\_and\_conditions","search":null,"httpAcceptLanguage":"en","locale":"en-us","currency":"USD","portal":"us","flavour":"clothing","sandbox":false,"development":false,"catalogRootPath":"/clothes","serverSide":false}
-
-{"screen":"terms\_and\_conditions"}
-
 Important updates
 
 Given the situation linked to COVID-19 and the regulatory provisions for public health and safety, Vinted may be compelled to react. Please make sure to read our [dedicated COVID-19 page](https://www.vinted.com/help/16-covid-19?access_channel=hc_topics) on changes to policies and shipping procedures.
