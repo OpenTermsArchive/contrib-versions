@@ -18,7 +18,7 @@ To help our partners manage their advertising and websites, we offer many produc
 
 These may be set from a few different domains, including google.com, doubleclick.net, googlesyndication.com, or googleadservices.com, or the domain of our partners’ sites. Some of our advertising products enable our partners to use other services in conjunction with ours (like an ad measurement and reporting service), and these services may send their own cookies to your browser. These cookies will be set from their domains.
 
-See more detail about the [types of cookies used by Google](https://policies.google.com/technologies/types) and our partners and [how we use them](https://policies.google.com/technologies/cookies).
+See more detail about the [types of cookies used by Google](https://policies.google.com/technologies/cookies#types-of-cookies) and our partners and [how we use them](https://policies.google.com/technologies/cookies).
 
 ### How you can control advertising cookies
 
@@ -26,7 +26,7 @@ You can use [Ads Settings](https://www.google.com/ads/preferences/) to manage th
 
 You can also manage many companies’ cookies used for online advertising via the consumer choice tools created under self-regulation programs in many countries, such as the US-based [aboutads.info choices](https://www.aboutads.info/choices/) page or the EU-based [Your Online Choices](http://www.youronlinechoices.com/uk/your-ad-choices).
 
-Finally, you can [manage cookies in your web browser](https://policies.google.com/technologies/managing).
+Finally, you can [manage cookies in your web browser](https://policies.google.com/technologies/cookies#types-of-cookies).
 
 Other technologies used in advertising
 --------------------------------------
