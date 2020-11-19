@@ -1,6 +1,6 @@
  ![Back to top](/resources/images/back-to-top.svg?v=bf923234-300f-825b-425b-48e5f0b74a6f) 
 
- 
+  
 
 [Skip Navigation](#bodyContainer)
 
@@ -80,20 +80,20 @@ Popular Searches
     *   [Retrieve a Saved Quote](https://purchase.allstate.com/onlinesalesweb/app/retrievequote/?intcid=/home/home.aspx%7CTopHat%7CRetrieveQuote)
 
 *   [Connect With Us](http://www.allstate.com/social-networks.aspx)
-.thDImage {background: transparent url(/resources/Allstate/images/global/icons/ecosystem-sprite.png?v=a6cb4f12-1a0d-8607-d729-8aad5081817d) center top no-repeat; width: 15px; height: 15px; } .thNavIcon\_Facebook img { background-position: center 0px !important; } .thNavIcon\_Facebook img:hover { background-position: center -15px !important; } .thNavIcon\_Twitter img { background-position: center -30px !important; } .thNavIcon\_Twitter img:hover { background-position: center -45px !important; } .thNavIcon\_LinkedIn img { background-position: center -60px !important; } .thNavIcon\_LinkedIn img:hover { background-position: center -75px !important; } .thNavIcon\_Youtube img { background-position: center -90px !important; } .thNavIcon\_Youtube img:hover { background-position: center -105px !important; } .thNavIcon\_Pinterest img { background-position: center -150px !important; } .thNavIcon\_Pinterest img:hover { background-position: center -165px !important; } .thNavIcon\_Instagram img { background-position: center -180px !important; } .thNavIcon\_Instagram img:hover { background-position: center -195px !important; }*   *   [![Facebook](/resources/images/ResponsiveTopNavigation/img_trans.gif?v=bf923234-300f-825b-425b-48e5f0b74a6f "Facebook")](https://www.facebook.com/Allstate)
+.thDImage {background: transparent url(/resources/Allstate/images/global/icons/ecosystem-sprite.png?v=eeef5ec4-6d2e-65cd-32ae-25c9033c6cf7) center top no-repeat; width: 15px; height: 15px; } .thNavIcon\_Facebook img { background-position: center 0px !important; } .thNavIcon\_Facebook img:hover { background-position: center -15px !important; } .thNavIcon\_Twitter img { background-position: center -30px !important; } .thNavIcon\_Twitter img:hover { background-position: center -45px !important; } .thNavIcon\_LinkedIn img { background-position: center -60px !important; } .thNavIcon\_LinkedIn img:hover { background-position: center -75px !important; } .thNavIcon\_Youtube img { background-position: center -90px !important; } .thNavIcon\_Youtube img:hover { background-position: center -105px !important; } .thNavIcon\_Pinterest img { background-position: center -150px !important; } .thNavIcon\_Pinterest img:hover { background-position: center -165px !important; } .thNavIcon\_Instagram img { background-position: center -180px !important; } .thNavIcon\_Instagram img:hover { background-position: center -195px !important; }*   *   [![Facebook](/resources/images/ResponsiveTopNavigation/img_trans.gif?v=bf923234-300f-825b-425b-48e5f0b74a6f "Facebook")](https://www.facebook.com/Allstate)
     *   [![Twitter](/resources/images/ResponsiveTopNavigation/img_trans.gif?v=bf923234-300f-825b-425b-48e5f0b74a6f "Twitter")](https://www.twitter.com/allstate)
     *   [![LinkedIn](/resources/images/ResponsiveTopNavigation/img_trans.gif?v=bf923234-300f-825b-425b-48e5f0b74a6f "LinkedIn")](https://www.linkedin.com/company/allstate/)
     *   [![Youtube](/resources/images/ResponsiveTopNavigation/img_trans.gif?v=bf923234-300f-825b-425b-48e5f0b74a6f "Youtube")](https://www.youtube.com/Allstate)
     *   [![Pinterest](/resources/images/ResponsiveTopNavigation/img_trans.gif?v=bf923234-300f-825b-425b-48e5f0b74a6f "Pinterest")](https://www.pinterest.com/allstate)
     *   [![Instagram](/resources/images/ResponsiveTopNavigation/img_trans.gif?v=bf923234-300f-825b-425b-48e5f0b74a6f "Instagram")](https://www.instagram.com/allstate)
 
-Toggle navigation [![Allstate Insurance Company Logo](/resources/Allstate/images/global/logo-allstate-sm.png?v=ce82f975-7ad4-2c9b-0d4e-e45c196e3a1a)](https://www.allstate.com/?intcid=TR%7Crwd_nav%7CAllstate_Logo) [Log in](https://myaccountrwd.allstate.com/anon/account/login?cid=MBL%7Crwd_nav%7CMyA_Login)
+Toggle navigation [![Allstate Insurance Company Logo](/resources/Allstate/images/global/logo-allstate-sm.png?v=05877dd0-76df-f8f0-f472-c2f8b2729420)](https://www.allstate.com/?intcid=TR%7Crwd_nav%7CAllstate_Logo) [Log in](https://myaccountrwd.allstate.com/anon/account/login?cid=MBL%7Crwd_nav%7CMyA_Login)
 
  [](#) [](#) 
 
 Popular Searches
 
-*   [![Allstate Insurance Company Logo](/resources/Allstate/images/global/logo-allstate.png?v=4b1e1a19-5f62-d440-0efd-8fbda7a4b46b)](https://www.allstate.com/)
+*   [![Allstate Insurance Company Logo](/resources/Allstate/images/global/logo-allstate.png?v=15fc68b1-6c1a-baea-c79f-81d32d0dea53)](https://www.allstate.com/)
 *   Get a quote in 
     
     Auto Home Renters Term Life Condo Motorcycle Boat Off-Road Business
@@ -128,7 +128,7 @@ Popular Searches
     *   [More Insurance](#)
     *   [Find An Agent](#)
     
-.gnSpriteImage a:before {background-image: url(/resources/Allstate/images/global/icons/nav-icons-vertical-v5.png?v=0ce988d6-ada1-7b96-4cb6-51a146e9d986); height: 50px; width: 50px; } .nav-Roadside a:before { background-position: center 0; !important; } .nav-Roadside a:hover:before { background-position: center 0; !important; } .nav-Auto a:before { background-position: center 0; !important; } .nav-Auto a:hover:before { background-position: center -59px; !important; } .nav-Home a:before { background-position: center -118px; !important; } .nav-Home a:hover:before { background-position: center -177px; !important; } .nav-Renters a:before { background-position: center -236px; !important; } .nav-Renters a:hover:before { background-position: center -295px; !important; } .nav-Condo a:before { background-position: center -354px; !important; } .nav-Condo a:hover:before { background-position: center -412px; !important; } .nav-Motorcycle a:before { background-position: center -472px; !important; } .nav-Motorcycle a:hover:before { background-position: center -531px; !important; } .nav-Business a:before { background-position: center -590px; !important; } .nav-Business a:hover:before { background-position: center -648px; !important; } .nav-Life a:before { background-position: center -708px; !important; } .nav-Life a:hover:before { background-position: center -767px; !important; } .nav-Roadside a:before { background-position: center -826px; !important; } .nav-Roadside a:hover:before { background-position: center -884px; !important; } .nav-Identity a:before { background-position: center -944px; !important; } .nav-Identity a:hover:before { background-position: center -1001px; !important; } .nav-parent-secondary a:before { background-position: center -1053px !important; } .nav-parent-secondary a:hover:before { background-position: center -1122px !important; } .nav-parent-secondary.expanded a:before { background-position: center -1190px !important; } .nav-parent-secondary.expanded a:hover:before { background-position: center -1259px !important; }*   [Insurance & More](http://www.allstate.com/)
+.gnSpriteImage a:before {background-image: url(/resources/Allstate/images/global/icons/nav-icons-vertical-v5.png?v=7c301e36-8ad4-1a0c-86f2-d00f4ad81d91); height: 50px; width: 50px; } .nav-Roadside a:before { background-position: center 0; !important; } .nav-Roadside a:hover:before { background-position: center 0; !important; } .nav-Auto a:before { background-position: center 0; !important; } .nav-Auto a:hover:before { background-position: center -59px; !important; } .nav-Home a:before { background-position: center -118px; !important; } .nav-Home a:hover:before { background-position: center -177px; !important; } .nav-Renters a:before { background-position: center -236px; !important; } .nav-Renters a:hover:before { background-position: center -295px; !important; } .nav-Condo a:before { background-position: center -354px; !important; } .nav-Condo a:hover:before { background-position: center -412px; !important; } .nav-Motorcycle a:before { background-position: center -472px; !important; } .nav-Motorcycle a:hover:before { background-position: center -531px; !important; } .nav-Business a:before { background-position: center -590px; !important; } .nav-Business a:hover:before { background-position: center -648px; !important; } .nav-Life a:before { background-position: center -708px; !important; } .nav-Life a:hover:before { background-position: center -767px; !important; } .nav-Roadside a:before { background-position: center -826px; !important; } .nav-Roadside a:hover:before { background-position: center -884px; !important; } .nav-Identity a:before { background-position: center -944px; !important; } .nav-Identity a:hover:before { background-position: center -1001px; !important; } .nav-parent-secondary a:before { background-position: center -1053px !important; } .nav-parent-secondary a:hover:before { background-position: center -1122px !important; } .nav-parent-secondary.expanded a:before { background-position: center -1190px !important; } .nav-parent-secondary.expanded a:hover:before { background-position: center -1259px !important; }*   [Insurance & More](http://www.allstate.com/)
     
     *   [Roadside](http://www.allstate.com/roadside-assistance.aspx)
     *   [Auto](http://www.allstate.com/auto-insurance.aspx)
@@ -154,14 +154,14 @@ Popular Searches
         *   [My Offers](https://goodlife.allstate.com/myoffers/)
         
     
-.gnSpriteImage a:before {background-image: url(/resources/Allstate/images/global/icons/nav-icons-vertical-v5.png?v=0ce988d6-ada1-7b96-4cb6-51a146e9d986); height: 50px; width: 50px; } .nav-parent-secondary a:before { background-position: center -1053px !important; } .nav-parent-secondary a:hover:before { background-position: center -1122px !important; } .nav-parent-secondary.expanded a:before { background-position: center -1190px !important; } .nav-parent-secondary.expanded a:hover:before { background-position: center -1259px !important; }*   [Claims](http://www.allstate.com/)
+.gnSpriteImage a:before {background-image: url(/resources/Allstate/images/global/icons/nav-icons-vertical-v5.png?v=7c301e36-8ad4-1a0c-86f2-d00f4ad81d91); height: 50px; width: 50px; } .nav-parent-secondary a:before { background-position: center -1053px !important; } .nav-parent-secondary a:hover:before { background-position: center -1122px !important; } .nav-parent-secondary.expanded a:before { background-position: center -1190px !important; } .nav-parent-secondary.expanded a:hover:before { background-position: center -1259px !important; }*   [Claims](http://www.allstate.com/)
     
     *   [Overview](http://www.allstate.com/claims.aspx)
     *   [File A Claim](http://www.allstate.com/claims/file-claim.aspx)
     *   [Track A Claim](http://www.allstate.com/claims/track-claim.aspx)
     *   [Catastrophe Claims](http://www.allstate.com/catastrophe.aspx)
     
-.gnSpriteImage a:before {background-image: url(/resources/Allstate/images/global/icons/nav-icons-vertical-v5.png?v=0ce988d6-ada1-7b96-4cb6-51a146e9d986); height: 50px; width: 50px; } .nav-parent-secondary a:before { background-position: center -1053px !important; } .nav-parent-secondary a:hover:before { background-position: center -1122px !important; } .nav-parent-secondary.expanded a:before { background-position: center -1190px !important; } .nav-parent-secondary.expanded a:hover:before { background-position: center -1259px !important; }*   [Tools & Resources](http://www.allstate.com/)
+.gnSpriteImage a:before {background-image: url(/resources/Allstate/images/global/icons/nav-icons-vertical-v5.png?v=7c301e36-8ad4-1a0c-86f2-d00f4ad81d91); height: 50px; width: 50px; } .nav-parent-secondary a:before { background-position: center -1053px !important; } .nav-parent-secondary a:hover:before { background-position: center -1122px !important; } .nav-parent-secondary.expanded a:before { background-position: center -1190px !important; } .nav-parent-secondary.expanded a:hover:before { background-position: center -1259px !important; }*   [Tools & Resources](http://www.allstate.com/)
     
     *   [Welcome](http://www.allstate.com/tr.aspx)
     *   [Auto](http://www.allstate.com/tr/car-insurance.aspx)
@@ -250,7 +250,7 @@ Customers of Allstate's insurance, investment and other financial products may a
 FULL PRIVACY STATEMENT
 ----------------------
 
-#### [INFORMATION WE COLLECT AND HOW WE COLLECT IT](#collapse5489754231)
+#### [INFORMATION WE COLLECT AND HOW WE COLLECT IT](#collapse7850236081)
 
 Allstate collects personal and other information about you. Personal information is information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked (directly or indirectly) with you. Other, non-personal information does not and cannot reveal an individual's identity such as information that has been de-identified or aggregated. The information we collect varies based on what products and services you have with us.
 
@@ -292,7 +292,7 @@ Inferences drawn from any personal information collected to create a profile ref
 
 Our website is not intended for children. We do not market any products or services to children under the age of thirteen or knowingly collect any information from children under the age of thirteen.
 
-#### [USE OF YOUR PERSONAL INFORMATION](#collapse5489754232)
+#### [USE OF YOUR PERSONAL INFORMATION](#collapse7850236082)
 
 We use your personal and other information for business purposes including to:
 
@@ -310,7 +310,7 @@ We collect some information used for these purposes using analytics software, co
 *   **Update or correct our records.** We may receive personal information about you from other sources, including publicly available databases or third parties from whom we have purchased data, and combine that personal information with other personal information we have about you to update our records. For example, we may obtain change of address information from public sources and use that personal information to update or correct your address.
 *   **Find locations on request.** Your location may be obtained from the mobile device or the network using your device's Global Positioning System (GPS) functionality or directly from you. We may use your location information to search for information including searching for an agent, searching for a service provider, identifying the location of an accident or identifying the location of a roadside event you are reporting. If you do not want location information used, you can disable the GPS functionality on your mobile device.
 
-#### [SHARING YOUR INFORMATION](#collapse5489754233)
+#### [SHARING YOUR INFORMATION](#collapse7850236083)
 
 We do not sell your personal information. We may share your personal information with our affiliates for business purposes consistent with the uses described in this Privacy Statement. We may also share personal information about you with third parties whenever you consent to or direct such sharing. We strive to work with companies that share our commitment to privacy. We may also share information with others in an aggregated or de-identified form that does not reasonably identify you.
 
@@ -368,7 +368,7 @@ Service or product related information
 
 Companies involved in insurance and other business transactions; Authorized agents or brokers; Service providers; Marketing and advertising partners; Third parties involved in a business transaction; Law enforcement or regulators
 
-#### [COOKIES AND OTHER TRACKING TECHNOLOGIES](#collapse5489754234)
+#### [COOKIES AND OTHER TRACKING TECHNOLOGIES](#collapse7850236084)
 
 **Technologies and Information Collected:** When you visit our Sites, we and our service providers automatically collect information about your use of and access to these Sites. We collect this information through a variety of tracking technologies, including cookies, Flash objects, web beacons (also called pixel tags), embedded scripts, location-identifying technologies, and similar technology (collectively, "tracking technologies"). Information we collect automatically about you may be combined with other personal information we collect directly. The information collected in this manner includes:
 
@@ -398,7 +398,7 @@ We participate in the Adobe Marketing Cloud Device Co-op to better understand ho
 
 You may continue to see generic or non-targeted ads about our products and services if you opt-out of interest-based advertising. Although we do our best to honor the privacy preferences of our visitors, we are currently not able to respond to "Do Not Track" signals from your browser.
 
-#### [PRIVACY RIGHTS AND CHOICES](#collapse5489754235)
+#### [PRIVACY RIGHTS AND CHOICES](#collapse7850236085)
 
 **California residents:** For detail on your California Consumer Privacy Act rights see California Privacy Rights and Choices section below.
 
@@ -414,7 +414,7 @@ If you use My Account or the mobile app, you can also manage email and other not
 
 To request that we not allow other Allstate affiliates use your personal information to market their products and services, please call us at [1-800-856-2518](tel:1-800-856-2518) twenty-four hours a day, seven days a week. Please keep in mind that it may take up to four weeks to process your request. If you previously contacted us and asked us not to allow other Allstate affiliates to use your personal information, your previous choice still applies, and you do not need to contact us again. If you would like to change your previous choice, please call the number above at any time.
 
-#### [CALIFORNIA PRIVACY RIGHTS AND CHOICES](#collapse5489754236)
+#### [CALIFORNIA PRIVACY RIGHTS AND CHOICES](#collapse7850236086)
 
 California residents have certain rights under CCPA to access and delete personal information described in this section, and other rights described below. While these CCPA rights do not apply to all personal information collected by Allstate, such as personal information that is subject to certain federal or state laws, for transparency and for your convenience we have extended these rights to personal information we believe may be relevant to your request.
 
@@ -442,7 +442,7 @@ California residents have certain rights under CCPA to access and delete persona
 
 **Non-Discrimination Rights:** You have the right not to receive discriminatory treatment by us for the exercise of your California privacy rights.
 
-#### [OTHER STATE SPECIFIC PRIVACY RIGHTS AND CHOICES](#collapse5489754237)
+#### [OTHER STATE SPECIFIC PRIVACY RIGHTS AND CHOICES](#collapse7850236087)
 
 **Montana Residents:**  
 Pursuant to Montana law, you may request a record of any disclosure of your medical information during the preceding three years. Please send requests to  
@@ -463,19 +463,19 @@ Allstate's "do not call" list is limited only to telephone solicitation calls. W
 **Vermont residents:**  
 We won't share your personal information with Allstate companies for marketing purposes except as allowed by Vermont law.
 
-#### [SOCIAL MEDIA, LINKS AND EXTERNAL SITES](#collapse5489754238)
+#### [SOCIAL MEDIA, LINKS AND EXTERNAL SITES](#collapse7850236088)
 
 Links to other company's websites may be provided on the Allstate Sites as a convenience to you. If you choose to go to these external websites, you will be subject to the privacy practices of those external websites; Allstate is not responsible for the privacy practices of those websites. We encourage you to be aware when you leave our Site to read the privacy policies or statements of every website you visit, as those privacy policies or statements may differ from ours. Our Privacy Statement applies solely to the Sites where this Privacy Statement appears.
 
 Our website includes Social Media features, such as the Facebook Like button and widgets, such as the Share This button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our website, and may set a cookie to enable the feature to function properly. Social Media features and widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing it.
 
-#### [SECURITY](#collapse5489754239)
+#### [SECURITY](#collapse7850236089)
 
 Protecting your personal information is important to us. We use a combination of reasonable technical, administrative, and physical safeguards to protect your personal information. However, no website, mobile application, database or system is completely secure or "hacker proof." So, we cannot guarantee its absolute security. You are also responsible for taking reasonable steps to protect your personal information against unauthorized disclosure or misuse.
 
 We limit access to your personal information to those who need it to do their jobs. We comply with all applicable federal and state data security laws.
 
-#### [ALLSTATE DIGITAL FOOTPRINT](#collapse54897542310)
+#### [ALLSTATE DIGITAL FOOTPRINT](#collapse78502360810)
 
 If you enroll in the Allstate Digital FootprintSM feature through the mobile app, you provide Allstate access to your Microsoft and/or Google email accounts. We will only use the data accessed from your Microsoft and Google accounts to read, write, modify, or control email message bodies (including attachments), metadata, headers, and settings ("email data") to:
 
@@ -488,21 +488,21 @@ We will not:
 *   transfer email data to others unless it is necessary to provide and improve features, comply with applicable law, or otherwise provide the services, use email data for serving advertisements, or
 *   allow a person to read your email data unless we have your affirmative agreement regarding specific messages, doing so is necessary for security purposes such as investigating abuse, to comply with applicable law, or for an Allstate product's internal operations.
 
-#### [CONTACT US](#collapse54897542311)
+#### [CONTACT US](#collapse78502360811)
 
 If you should have questions or concerns about our privacy practices, please contact us at [1-800-624-4419](tel:1-800-624-4419).
 
-#### [CHANGES TO OUR PRIVACY STATEMENT](#collapse54897542312)
+#### [CHANGES TO OUR PRIVACY STATEMENT](#collapse78502360812)
 
 We may periodically update or revise this Privacy Statement. The effective date at the top of the document shows when this Privacy Statement was last revised. We will let you know when we update the Privacy Statement by changing the date or other appropriate means.
 
-#### [ALLSTATE AFFILIATES](#collapse54897542313)
+#### [ALLSTATE AFFILIATES](#collapse78502360813)
 
 This Privacy Statement describes the privacy practices of Allstate Insurance Company and the Allstate affiliates whose websites and mobile apps link to this Privacy Statement including: Allstate insurance companies offering auto, home and business insurance; Allstate Life Insurance Company, Allstate Assurance Company and their life and retirement affiliates; Allstate Financial Services; and Allstate roadside services and motor club companies and Signature roadside services and motor club companies.
 
 Eligibility information may be shared for marketing purposes among Allstate Insurance Company and the Allstate affiliates listed above as well as these other affiliated companies that have separate online privacy statements: American Heritage Life Insurance Company (Allstate Benefits), Allstate Dealer Services, Castle Key Insurance Company and Castle Key Indemnity Company, North Light Specialty Insurance Company, SquareTrade (Allstate Protection Plans), InfoArmor (Allstate Identity Protection), Avail, and Arity companies.
 
-{ "@context":"https://schema.org", "@graph": \[ { "@type":"Organization", "@id":"https://www.allstate.com/#organization", "name":"Allstate", "url":"https://www.allstate.com/", "sameAs": \["https://twitter.com/allstate","https://www.linkedin.com/company/allstate/","https://www.facebook.com/Allstate","https://www.youtube.com/Allstate","https://www.instagram.com/allstate/","https://en.wikipedia.org/wiki/Allstate","https://www.pinterest.co.uk/allstate/"\], "logo": { "@type":"ImageObject", "@id":"https://www.allstate.com/#logo", "url":"https://www.allstate.com/resources/Allstate/images/global/logo-allstate.png?v=4b1e1a19-5f62-d440-0efd-8fbda7a4b46b?v=4b1e1a19-5f62-d440-0efd-8fbda7a4b46b", "width":107, "height":25, "caption":"Allstate" }, "image": { "@id":"https://www.allstate.com/#logo" } }, { "@type":"WebSite", "@id":"https://www.allstate.com/#website", "url":"https://www.allstate.com/", "name":"Allstate.com", "publisher": { "@id":"https://www.allstate.com/#organization" }, "potentialAction": { "@type":"SearchAction", "target": "http://searching.allstate.com/?q={search\_term\_string}", "query-input": "required name=search\_term\_string" } }, { "@type":"WebPage", "@id":"https://www.allstate.com/about/privacy-statement-aic.aspx/#webpage", "url":"https://www.allstate.com/about/privacy-statement-aic.aspx", "inLanguage":"en-US", "name":"Privacy Policy - Allstate", "headline":"ï»¿Important Notice", "isPartOf": { "@id":"https://www.allstate.com/#website" }, "description":"Privacy Policy.", "breadcrumb": { "@id":"https://www.allstate.com/about/privacy-statement-aic.aspx/#breadcrumb" } }, { "@type":"BreadcrumbList", "@id":"https://www.allstate.com/about/privacy-statement-aic.aspx/#breadcrumb", "itemListElement": \[ { "@type":"ListItem", "position":1, "item": { "@type":"WebPage", "@id": "https://www.allstate.com/", "url":"https://www.allstate.com/", "name": "Allstate Home" } }, { "@type":"ListItem", "position":2, "item": { "@type":"WebPage", "@id":"https://www.allstate.com/about.aspx", "url":"https://www.allstate.com/about.aspx", "name":"About Allstate" } }, { "@type":"ListItem", "position":3, "item": { "@type":"WebPage", "@id":"https://www.allstate.com/about/privacy-statement-aic.aspx", "url":"https://www.allstate.com/about/privacy-statement-aic.aspx", "name":"Privacy Statement" } } \] } \] }
+{ "@context":"https://schema.org", "@graph": \[ { "@type":"Organization", "@id":"https://www.allstate.com/#organization", "name":"Allstate", "url":"https://www.allstate.com/", "sameAs": \["https://twitter.com/allstate","https://www.linkedin.com/company/allstate/","https://www.facebook.com/Allstate","https://www.youtube.com/Allstate","https://www.instagram.com/allstate/","https://en.wikipedia.org/wiki/Allstate","https://www.pinterest.co.uk/allstate/"\], "logo": { "@type":"ImageObject", "@id":"https://www.allstate.com/#logo", "url":"https://www.allstate.com/resources/Allstate/images/global/logo-allstate.png?v=15fc68b1-6c1a-baea-c79f-81d32d0dea53?v=4b1e1a19-5f62-d440-0efd-8fbda7a4b46b", "width":107, "height":25, "caption":"Allstate" }, "image": { "@id":"https://www.allstate.com/#logo" } }, { "@type":"WebSite", "@id":"https://www.allstate.com/#website", "url":"https://www.allstate.com/", "name":"Allstate.com", "publisher": { "@id":"https://www.allstate.com/#organization" }, "potentialAction": { "@type":"SearchAction", "target": "http://searching.allstate.com/?q={search\_term\_string}", "query-input": "required name=search\_term\_string" } }, { "@type":"WebPage", "@id":"https://www.allstate.com/about/privacy-statement-aic.aspx/#webpage", "url":"https://www.allstate.com/about/privacy-statement-aic.aspx", "inLanguage":"en-US", "name":"Privacy Policy - Allstate", "headline":"ï»¿Important Notice", "isPartOf": { "@id":"https://www.allstate.com/#website" }, "description":"Privacy Policy.", "breadcrumb": { "@id":"https://www.allstate.com/about/privacy-statement-aic.aspx/#breadcrumb" } }, { "@type":"BreadcrumbList", "@id":"https://www.allstate.com/about/privacy-statement-aic.aspx/#breadcrumb", "itemListElement": \[ { "@type":"ListItem", "position":1, "item": { "@type":"WebPage", "@id": "https://www.allstate.com/", "url":"https://www.allstate.com/", "name": "Allstate Home" } }, { "@type":"ListItem", "position":2, "item": { "@type":"WebPage", "@id":"https://www.allstate.com/about.aspx", "url":"https://www.allstate.com/about.aspx", "name":"About Allstate" } }, { "@type":"ListItem", "position":3, "item": { "@type":"WebPage", "@id":"https://www.allstate.com/about/privacy-statement-aic.aspx", "url":"https://www.allstate.com/about/privacy-statement-aic.aspx", "name":"Privacy Statement" } } \] } \] }
 
 $('.panel-collapse').on('shown.bs.collapse', function() { $('html, body').animate({ scrollTop: parseInt($(this).offset().top-160) }, 0); });
 
@@ -514,11 +514,11 @@ Select a Product Auto Insurance Home Insurance Renters Insurance Term Life Insur
 
 function NavigationFooterFindAgent() { window.location.href = "/anon/handlers/redirectactivity.ashx?location=FA&intcid=/about/privacy-statement-aic.aspx|Footer|FindYourLocalAgent"; } function NavigationFooterQuoteSubmit() { var e = document.getElementById("navigationfooterProduct-quote"); if (e.value == "SelAProd") { alert("Please select a Product to Quote."); $(".NavigationFooter .quoteCTA .quoteType").focus(); } else { var \_urls = \[ "" , function () { $('#modalEditLocationOverlay').modal('show'); ProcessMetrics('ZipOverlayEdit', \['Zip Overlay Edit', 'NavigationFooter'\]); $(Global.zipCodeOverlayIdentifier).data({ 'quoteProduct': 'Au', 'quoteCampaign': '/about/privacy-statement-aic.aspx?fake=|footer|quote\_box:Au', 'component': 'NavigationFooter' }).dialog('open'); } , function () { $('#modalEditLocationOverlay').modal('show'); ProcessMetrics('ZipOverlayEdit', \['Zip Overlay Edit', 'NavigationFooter'\]); $(Global.zipCodeOverlayIdentifier).data({ 'quoteProduct': 'Ho', 'quoteCampaign': '/about/privacy-statement-aic.aspx?fake=|footer|quote\_box:Ho', 'component': 'NavigationFooter' }).dialog('open'); } , function () { $('#modalEditLocationOverlay').modal('show'); ProcessMetrics('ZipOverlayEdit', \['Zip Overlay Edit', 'NavigationFooter'\]); $(Global.zipCodeOverlayIdentifier).data({ 'quoteProduct': 'Re', 'quoteCampaign': '/about/privacy-statement-aic.aspx?fake=|footer|quote\_box:Re', 'component': 'NavigationFooter' }).dialog('open'); } , function () { $('#modalEditLocationOverlay').modal('show'); ProcessMetrics('ZipOverlayEdit', \['Zip Overlay Edit', 'NavigationFooter'\]); $(Global.zipCodeOverlayIdentifier).data({ 'quoteProduct': 'Li', 'quoteCampaign': '/about/privacy-statement-aic.aspx?fake=|footer|quote\_box:Li', 'component': 'NavigationFooter' }).dialog('open'); } , function () { $('#modalEditLocationOverlay').modal('show'); ProcessMetrics('ZipOverlayEdit', \['Zip Overlay Edit', 'NavigationFooter'\]); $(Global.zipCodeOverlayIdentifier).data({ 'quoteProduct': 'Co', 'quoteCampaign': '/about/privacy-statement-aic.aspx?fake=|footer|quote\_box:Co', 'component': 'NavigationFooter' }).dialog('open'); } , function () { $('#modalEditLocationOverlay').modal('show'); ProcessMetrics('ZipOverlayEdit', \['Zip Overlay Edit', 'NavigationFooter'\]); $(Global.zipCodeOverlayIdentifier).data({ 'quoteProduct': 'Mo', 'quoteCampaign': '/about/privacy-statement-aic.aspx?fake=|footer|quote\_box:Mo', 'component': 'NavigationFooter' }).dialog('open'); } , function () { $('#modalEditLocationOverlay').modal('show'); ProcessMetrics('ZipOverlayEdit', \['Zip Overlay Edit', 'NavigationFooter'\]); $(Global.zipCodeOverlayIdentifier).data({ 'quoteProduct': 'Bo', 'quoteCampaign': '/about/privacy-statement-aic.aspx?fake=|footer|quote\_box:Bo', 'component': 'NavigationFooter' }).dialog('open'); } , function () { $('#modalEditLocationOverlay').modal('show'); ProcessMetrics('ZipOverlayEdit', \['Zip Overlay Edit', 'NavigationFooter'\]); $(Global.zipCodeOverlayIdentifier).data({ 'quoteProduct': 'RV', 'quoteCampaign': '/about/privacy-statement-aic.aspx?fake=|footer|quote\_box:RV', 'component': 'NavigationFooter' }).dialog('open'); } , function () { $('#modalEditLocationOverlay').modal('show'); ProcessMetrics('ZipOverlayEdit', \['Zip Overlay Edit', 'NavigationFooter'\]); $(Global.zipCodeOverlayIdentifier).data({ 'quoteProduct': 'BI', 'quoteCampaign': '/about/privacy-statement-aic.aspx?fake=|footer|quote\_box:BI', 'component': 'NavigationFooter' }).dialog('open'); } \]; \_urls\[e.selectedIndex\](); } } var NavigationFooterDefaultUserLocation = ""; function NavigationFooterSetUserLocation() { if (NavigationFooterDefaultUserLocation === "") { NavigationFooterDefaultUserLocation = $(".NavigationFooter .zipCode").html(); } if ((bsCommon.userLocationJson() != null) && (bsCommon.userLocationJson() != "") && (bsCommon.userLocationJson().PostalCode != "")) { $(".NavigationFooter .zipCode").html(bsCommon.userLocationJson().PostalCode + NavigationFooterDefaultUserLocation); } } $(document).ready(function() { globalEvents.Event("userLocationUpdated").subscribe(function () { NavigationFooterSetUserLocation(); }); }); $(window).on("load", function() { $('\[data-toggle="tooltip"\]').tooltip(); NavigationFooterSetUserLocation(); });
 
-[![Allstate logo. ](/resources/Allstate/images/global/logo_footer.png?v=1b0db48b-16f1-149f-24c7-372693c3474e "Allstate logo. ")](https://www.allstate.com/)
+[![Allstate logo. ](/resources/Allstate/images/global/logo_footer.png?v=c226bbf6-b30f-fd3e-7e74-15fd59ad64e6 "Allstate logo. ")](https://www.allstate.com/)
 
 © 2020 Allstate Insurance Company
 
-.fnSIImage {background: transparent url(/resources/Allstate/images/global/icons/social-icons-sprite.png?v=77e48e9e-11de-5026-935b-cb25217e483c) center top no-repeat; width: 32px; height: 32px; } .fnNavIcon\_Facebooklogo img { background-position: center -32px !important; } .fnNavIcon\_Facebooklogo img:hover { background-position: center -32px !important; } .fnNavIcon\_Twitterlogo img { background-position: center -96px !important; } .fnNavIcon\_Twitterlogo img:hover { background-position: center -96px !important; } .fnNavIcon\_LinkedInlogo img { background-position: center -160px !important; } .fnNavIcon\_LinkedInlogo img:hover { background-position: center -160px !important; } .fnNavIcon\_Youtubelogo img { background-position: center -224px !important; } .fnNavIcon\_Youtubelogo img:hover { background-position: center -224px !important; } .fnNavIcon\_Pinterestlogo img { background-position: center -352px !important; } .fnNavIcon\_Pinterestlogo img:hover { background-position: center -352px !important; } .fnNavIcon\_Instagramlogo img { background-position: center -416px !important; } .fnNavIcon\_Instagramlogo img:hover { background-position: center -416px !important; }
+.fnSIImage {background: transparent url(/resources/Allstate/images/global/icons/social-icons-sprite.png?v=74ff9296-bd14-b5f0-3aa7-1e70dc7c88a0) center top no-repeat; width: 32px; height: 32px; } .fnNavIcon\_Facebooklogo img { background-position: center -32px !important; } .fnNavIcon\_Facebooklogo img:hover { background-position: center -32px !important; } .fnNavIcon\_Twitterlogo img { background-position: center -96px !important; } .fnNavIcon\_Twitterlogo img:hover { background-position: center -96px !important; } .fnNavIcon\_LinkedInlogo img { background-position: center -160px !important; } .fnNavIcon\_LinkedInlogo img:hover { background-position: center -160px !important; } .fnNavIcon\_Youtubelogo img { background-position: center -224px !important; } .fnNavIcon\_Youtubelogo img:hover { background-position: center -224px !important; } .fnNavIcon\_Pinterestlogo img { background-position: center -352px !important; } .fnNavIcon\_Pinterestlogo img:hover { background-position: center -352px !important; } .fnNavIcon\_Instagramlogo img { background-position: center -416px !important; } .fnNavIcon\_Instagramlogo img:hover { background-position: center -416px !important; }
 
 [Connect With Us](http://www.allstate.com/social-networks.aspx)
 
@@ -590,6 +590,6 @@ Please try again later.
 
 var ua = window.navigator.userAgent; var trident = ua.indexOf('Trident/'); if (trident > 0) { var rv = ua.indexOf('rv:'); if (parseInt(ua.substring(rv + 3, ua.indexOf('.', rv)), 10) == 11){ document.write('<'+'script type="text/javascript" defer="defer" src="//cdn.polyfill.io/v2/polyfill.min.js?ua=ie/'+document.documentMode+'&amp;flags=gated&amp;features=IntersectionObserver,Promise"></'+'script>'); } }else{ document.write('<'+'script type="text/javascript" defer="defer" src="//cdn.polyfill.io/v2/polyfill.min.js?flags=gated&amp;features=IntersectionObserver,Promise"></'+'script>'); }
 
-var digitalData = {'page': {'id': '/about/privacy-statement-aic.aspx','server': 'www.allstate.com','channel': 'about','isOverlay': false},'ctaResponse': {'message': 'SUCCESS','eventSource': 'button','eventAction': '','errorCode': ''},'userInfo': {'type': 'b','bType': 'A','bID': 'pro-sitemaps.com','bAction': 'd','location': 'MST:0|GDC:0|PAG:0|LNG:|CTY:|STC:|ZPC:|CNT:|CRT:|HA:0|HP:0','policy': 'HAP:0|HWRVP:0|HBP:0|HHOP:0|HRFP:0|HLP:0|HANP:0|HSAP:0|HMHP:0|HMCP:0|HTP:0|HLIP:0|HRVP:0|HRNP:0|HLLPP:0|HCNP:0|HMOHP:0|HPUP:0|HFLP:0|HORVP:0|HMC:0','classification': '0'}}; \_satellite.track('pageLoaded');
+var digitalData = {'page': {'id': '/about/privacy-statement-aic.aspx','server': 'www.allstate.com','channel': 'about','isOverlay': false},'ctaResponse': {'message': 'SUCCESS','eventSource': 'button','eventAction': '','errorCode': ''},'userInfo': {'type': 'b','bType': 'U','bID': 'github\_9AEB85F606C6282CFE9AB582A2E16A04','bAction': 'd','location': 'MST:0|GDC:0|PAG:0|LNG:|CTY:|STC:|ZPC:|CNT:|CRT:|HA:0|HP:0','policy': 'HAP:0|HWRVP:0|HBP:0|HHOP:0|HRFP:0|HLP:0|HANP:0|HSAP:0|HMHP:0|HMCP:0|HTP:0|HLIP:0|HRVP:0|HRNP:0|HLLPP:0|HCNP:0|HMOHP:0|HPUP:0|HFLP:0|HORVP:0|HMC:0','classification': '0'}}; \_satellite.track('pageLoaded');
 
 ECC Monitor: OK var \_cf = \_cf || \[\]; \_cf.push(\['\_setFsp', true\]); \_cf.push(\['\_setBm', true\]); \_cf.push(\['\_setAu', '/resources/a5676d5e08rn1886cb5168dac838777e'\]);
