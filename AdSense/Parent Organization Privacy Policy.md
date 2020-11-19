@@ -558,7 +558,7 @@ For example, we may collect information that’s publicly available online or fr
 
 ### rely on cookies to function properly
 
-For example, we use a cookie called ‘lbcs’ that makes it possible for you to open many Google Docs in one browser. Blocking this cookie would prevent Google Docs from working as expected. [Learn more](https://policies.google.com/technologies/types?hl=en-GB)
+For example, we use a cookie called ‘lbcs’ that makes it possible for you to open many Google Docs in one browser. Blocking this cookie would prevent Google Docs from working as expected. [Learn more](https://policies.google.com/technologies/cookies?hl=en-GB#types-of-cookies)
 
 ### safety and reliability
 
