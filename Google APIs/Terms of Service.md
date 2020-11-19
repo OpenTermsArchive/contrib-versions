@@ -1,7 +1,7 @@
 Google APIs Terms of Service
 ============================
 
-Last modified: January 16, 2019 [(see previous version)](https://developers.google.com/terms/terms-2011)
+Last modified: November 18, 2020 [(see previous version)](https://developers.google.com/terms/2019)
 
 Thank you for using Google's APIs, other developer services, and associated software (collectively, "APIs"). By accessing or using our APIs, you are agreeing to the terms below. If there is a conflict between these terms and additional terms applicable to a given API, the additional terms will control for that conflict. Collectively, we refer to the terms below, any additional terms, terms within the accompanying API documentation, and any applicable policies and guidelines as the "Terms." You agree to comply with the Terms and that the Terms control your relationship with us. So please read all the Terms carefully. If you use the APIs as an interface to, or in conjunction with other Google products or services, then the terms for those other products or services also apply.
 
@@ -60,6 +60,10 @@ If you provide feedback or suggestions about our APIs, then we (and those we all
 ### h. Non-Exclusivity
 
 The Terms are non-exclusive. You acknowledge that Google may develop products or services that may compete with the API Clients or any other products or services.
+
+### i. Google Controller-Controller Data Protection Terms
+
+To the extent required by data protection laws applicable to the parties' processing of personal data under these Terms, the parties agree to the [Google Controller-Controller Data Protection Terms](https://privacy.google.com/businesses/gdprcontrollerterms).
 
 Section 3: Your API Clients
 ---------------------------
