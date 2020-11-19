@@ -6,8 +6,6 @@ Privacy Statement
 
 30 Sept 2020
 
-ol.upper-latin { list-style-type: upper-latin; } ol.lower-greek { list-style-type: lower-greek; } ol.hebrew { list-style-type: hebrew; } ol.inherit { list-style-type: inherit; } ol.decimal { list-style-type: decimal; }
-
 First things first – your privacy is important to us. That might be the kind of thing all these notices say, but we mean it. You place your trust in us by using Booking.com services and we value that trust. That means we’re committed to protecting and safeguarding any personal data you give us. We act in our customers’ best interest and we are transparent about the processing of your personal data.
 
 This document describes how we use and process your personal data, provided in a readable and transparent manner. It also tells you what rights you can exercise in relation to your personal data (such as the right to object) and how you can contact us. Please also read our [Cookie Statement](#cookie-statement), which tells you how Booking.com uses cookies and other similar technologies.
