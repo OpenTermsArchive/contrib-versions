@@ -21,6 +21,31 @@ This Privacy Policy applies to all of our Services unless specified otherwise.
 
 Please also read [WhatsApp's Terms of Service](https://www.whatsapp.com/legal/?eea=1#terms-of-service) ("Terms"), which describes the terms under which you use our Services.
 
+Key Updates
+
+**Our Updated Terms and Privacy Policy.** Our updated [Terms of Service](https://www.whatsapp.com/legal/?eea=1#terms-of-service) explains our agreement with you to use our Services. Our updated [Privacy Policy](https://www.whatsapp.com/legal/?eea=1#privacy-policy) explains what information we collect, how we use and share it, and the choices you have, including how to manage your privacy settings, access the information we have about you, and delete your account. We build WhatsApp with strong privacy and security principles, like [end-to-end encryption](https://faq.whatsapp.com/general/28030015/) of your messages and calls, which means we and third parties can't read or listen to them. Here are some important points:
+
+**WhatsApp Ireland.** WhatsApp Ireland Limited provides our Services and is responsible for your information when you use WhatsApp.
+
+**Age Requirement.** To use WhatsApp, you must be [at least 16 years old](https://www.whatsapp.com/legal/?eea=1#terms-of-service-age).
+
+**How WhatsApp Works With The Other Facebook Companies.** WhatsApp is one of the [Facebook Companies](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-companies). WhatsApp works and shares information with the other Facebook Companies to receive services like infrastructure, technology, and systems that help us provide and improve WhatsApp and to keep WhatsApp and the Facebook Companies safe and secure. When we receive services from the Facebook Companies, the information we share with them is used to help WhatsApp in accordance with our instructions. Working together allows us to:
+
+*   Provide you fast and reliable messaging and calls around the world and understand how our services and features are performing.
+*   Ensure safety and security across WhatsApp and the Facebook Company Products by removing spam accounts and combatting abusive activity.
+*   Connect your WhatsApp experience with Facebook Company Products. For example, you could share a link to a post from Facebook to a WhatsApp chat.
+*   Enable you to communicate with businesses on WhatsApp. For example, if you visit a business's Facebook page, you might see a button that lets you easily open a WhatsApp chat with them.
+
+Nothing you share on WhatsApp, including your messages, photos, and account information, will be shared onto Facebook or any of our other family of apps for others to see, and nothing you post on those apps will be shared on WhatsApp for others to see, unless you choose to do so.
+
+Today, Facebook does not use your WhatsApp account information to improve your Facebook product experiences or provide you more relevant Facebook ad experiences on Facebook. [Learn more](https://faq.whatsapp.com/general/26000112/?eea=1) about how WhatsApp works with the Facebook Companies.
+
+We're always working on new ways to improve how you experience WhatsApp and the other Facebook Company Products you use. We'll keep you updated on new experiences we offer and our information practices.
+
+**New Ways To Use WhatsApp.** We offer new features like improvements to group chats and video calling. We're continuing to build ways for you to communicate with businesses, and you'll be able to manage these communications.
+
+**Infrastructure And Systems.** Our Privacy Policy also explains how we use infrastructure, systems, and service providers around the world, and that we transfer information outside of the European Economic Area. [Learn More](https://www.whatsapp.com/legal/?eea=1#privacy-policy-our-global-operations)
+
 Information We Collect
 
 WhatsApp must receive or collect some information to operate, provide, improve, understand, customize, support, and market our Services, including when you install, access, or use our Services. The types of information we receive and collect depend on how you use our Services.
@@ -127,6 +152,89 @@ We [collect](https://www.whatsapp.com/legal/?eea=1#privacy-policy-information-we
 
 Under the General Data Protection Regulation or other applicable local laws, you have the right to access, rectify, port, and erase your information, as well as the right to restrict and object to certain processing of your information. This includes the right to object to our processing of your information for direct marketing and the right to object to our processing of your information where we are performing a task in the public interest or pursuing our legitimate interests or those of a third party. You can access or port your information using our in-app Request Account Info feature (available under Settings > Account). You can access tools to rectify, update, and erase your information directly in-app as described in the Managing and Deleting Your Information section. If we process your information based on our legitimate interests or those of a third party, or in the public interest, you can object to this processing, and we will cease processing your information, unless the processing is based on compelling legitimate grounds or is needed for legal reasons. You can also object to our processing of your information and learn more about your options for restricting the way we use your information by going [here](https://faq.whatsapp.com/en/general/26000153/). Where we use your information for direct marketing for our own Services, you can always object and opt out of future marketing messages using the unsubscribe link in such communications, or by using our in-app "Block" feature.
 
+How We Process Your Information
+
+Under European law, companies must have a legal basis to process data. You have particular rights available to you depending on which legal basis we use, and we've explained these below. You should know that no matter what legal basis applies, you always have the right to request access to, rectification of, and erasure of your data under the General Data Protection Regulation (the "GDPR"). To exercise your rights, see our Privacy Policy under [How You Exercise Your Rights](https://www.whatsapp.com/legal/?eea=1#privacy-policy-how-you-exercise-your-rights).
+
+For all people who have legal capacity to enter into an enforceable contract, we process data as necessary to perform our contracts with you (the [Terms of Service](https://www.whatsapp.com/legal/?eea=1#terms-of-service), the "Terms"). We describe the contractual services for which this data processing is necessary in [Our Services](https://www.whatsapp.com/legal/?eea=1#terms-of-service-our-services) section of the Terms and in the additional informational resources accessible from our Terms. The core data uses necessary to provide our contractual services are:
+
+*   To provide, improve, customize, and support our Services as described in "Our Services";
+*   To promote safety and security;
+*   To transfer, transmit, store, or process your data outside the EEA, including to within the United States and other countries; and
+*   To communicate with you, for example, on Service-related issues.
+
+These uses are explained in more detail in our Privacy Policy, under [How We Use Information](https://www.whatsapp.com/legal/?eea=1#privacy-policy-how-we-use-information) and [Our Global Operations](https://www.whatsapp.com/legal/?eea=1#privacy-policy-our-global-operations). We'll use the data we have to provide these services; if you choose not to provide certain data, the quality of your experience using WhatsApp may be impacted.
+
+_When we process data you provide to us as necessary to perform our contracts with you, you have the right to port it under the GDPR. To exercise your rights, visit [How You Exercise Your Rights](https://www.whatsapp.com/legal/?eea=1#privacy-policy-how-you-exercise-your-rights) section of the Privacy Policy._
+
+The other legal bases we rely on in certain instances when processing your data are:
+
+##### Your Consent:
+
+*   For collecting and using information you allow us to receive through the device-based settings when you enable them (such as access to your GPS location, camera, or photos), so we can provide the features and services described when you enable the settings.
+    
+      
+    _When we process data you provide to us based on your consent, you have the right to withdraw your consent at any time and to port that data you provide to us, under the GDPR. To exercise your rights, visit your device-based settings, your in app-based settings like your in-app location control, and the [How You Exercise Your Rights](https://www.whatsapp.com/legal/?eea=1#privacy-policy-how-you-exercise-your-rights) section of the Privacy Policy._
+    
+
+##### Our legitimate interests or the legitimate interests of a third party, where not outweighed by your interests or fundamental rights and freedoms ("legitimate interests"):
+
+**For people under the age of majority (under 18, in most EU countries) who have a limited ability to enter into an enforceable contract only**, we may be unable to process personal data on the grounds of contractual necessity. Nevertheless, when such a person uses our Services, it is in our legitimate interests:
+
+*   To provide, improve, customize, and support our Services as described in [Our Services](https://www.whatsapp.com/legal/?eea=1#terms-of-service-our-services);
+*   To promote safety and security; and
+*   To communicate with you, for example, on Service-related issues.
+
+The legitimate interests we rely on for this processing are:
+
+*   To create, provide, support, and maintain innovative Services and features that enable people under the age of majority to express themselves, communicate, discover, and engage with information and businesses relevant to their interests, build community, and utilize tools and features that promote their well-being;
+*   To secure our platform and network, verify accounts and activity, combat harmful conduct, detect and prevent spam and other bad experiences, and keep our Services and all of the [Facebook Company Products](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-company-products) free of harmful or inappropriate content, and investigate suspicious activity or violations of our terms or policies and to protect the safety of people under the age of majority, including to prevent exploitation or other harms to which such individuals may be particularly vulnerable.
+
+##### For all people, including those under the age of majority:
+
+*   **For providing measurement, analytics, and other business services where we are processing data as a controller.** The legitimate interests we rely on for this processing are:
+    
+    *   To provide accurate and reliable reporting to businesses and other partners, to ensure accurate pricing and statistics on performance, and to demonstrate the value our partners realise using our Services; and
+    *   In the interests of businesses and other partners to help them understand their customers and improve their businesses, validate our pricing models, and evaluate the effectiveness and distribution of their services and messages, and understand how people interact with them on our Services.
+*   **For providing marketing communications to you.** The legitimate interests we rely on for this processing are:
+    
+    *   To promote [Facebook Company Products](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-company-products) and issue direct marketing.
+*   **To share information with others including law enforcement and to respond to legal requests.** See our Privacy Policy under [Law and Protection](https://www.whatsapp.com/legal/?eea=1#privacy-policy-law-and-protection) for more information. The legitimate interests we rely on for this processing are:
+    
+    *   To prevent and address fraud, unauthorised use of the [Facebook Company Products](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-company-products), violations of our terms and policies, or other harmful or illegal activity; to protect ourselves (including our rights, property or Products), our users or others, including as part of investigations or regulatory inquiries; or to prevent death or imminent bodily harm.
+*   **To share information with the Facebook Companies to promote safety and security.** See our Privacy Policy under ["How We Work with Other Facebook Companies"](https://www.whatsapp.com/legal/?eea=1#privacy-policy-how-we-work-with-other-facebook-companies) for more information. The legitimate interests we rely on for this processing are:
+    
+    *   To secure systems and fight spam, threats, abuse, or infringement activities and promote safety and security across the [Facebook Company Products](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-company-products).
+    
+      
+    _You have the right to object to, and seek restriction of, such processing; to exercise your rights, visit [How You Exercise Your Rights](https://www.whatsapp.com/legal/?eea=1#privacy-policy-how-you-exercise-your-rights) section of the Privacy Policy._
+    
+      
+    We will consider several factors when assessing an objection including: our users' reasonable expectations; the benefits and risks to you, us, other users, or third parties; and other available means to achieve the same purpose that may be less invasive and do not require disproportional effort. Your objection will be upheld, and we will cease processing your information, unless the processing is based on compelling legitimate grounds or is needed for legal reasons.
+    
+      
+    If you are under the age of majority in your country and have a limited ability to enter an enforceable contract, we will take particular account of the fact that you are below the age of majority and adjust our assessment of our legitimate interests and the balancing of your interests and rights accordingly.
+    
+
+##### Compliance with a legal obligation:
+
+*   For processing data when the law requires it, including, for example, if there is a valid legal request for certain data. See our Privacy Policy under [Law and Protection](https://www.whatsapp.com/legal/?eea=1#privacy-policy-law-and-protection) for more information.
+
+##### Protection of your vital interests or those of another person:
+
+*   The vital interests we rely on for this processing include protection of your life or physical integrity or that of others, and we rely on it to combat harmful conduct and promote safety and security, for example, when we are investigating reports of harmful conduct or when someone needs help.
+
+##### Tasks carried out in the public interest:
+
+*   For undertaking research and to promote safety and security, as described in more detail in our Privacy Policy under [How We Use Information](https://www.whatsapp.com/legal/?eea=1#privacy-policy-how-we-use-information), where this is necessary in the public interest as laid down by European Union law or Member State law to which we are subject.
+    
+      
+    _When we process your data as necessary for a task carried out in the public interest, you have the right to object to, and seek restriction of, our processing. To exercise your rights, go to [How You Exercise Your Rights](https://www.whatsapp.com/legal/?eea=1#privacy-policy-how-you-exercise-your-rights) section of the Privacy Policy. In evaluating an objection, we'll evaluate several factors, including: reasonable user expectations; the benefits and risks to you and third parties; and other available means to achieve the same purpose that may be less invasive and do not require disproportional effort._
+    
+      
+    _Your objection will be upheld, and we will cease processing your information, unless the processing is based on compelling legitimate grounds or is needed for legal reasons._
+    
+
 Managing And Deleting Your Information
 
 We store information until it is no longer necessary to provide our services, or until your account is deleted, whichever comes first. This is a case-by-case determination that depends on things like the nature of the information, why it is collected and processed, and relevant legal or operational retention needs.
@@ -146,7 +254,7 @@ We collect, use, preserve, and share your information if we have a good-faith be
 
 Our Global Operations
 
-WhatsApp Ireland shares information globally, both internally within the Facebook Companies, and externally with our partners and with those you communicate around the world in accordance with this Privacy Policy. Information controlled by WhatsApp Ireland will be transferred or transmitted to, or stored and processed, in the United States or other countries outside of where you live for the purposes as described in this Privacy Policy. These data transfers are necessary to provide the Services set forth in our [Terms](https://www.whatsapp.com/legal/?eea=1#terms-of-service) and globally to operate and provide our Services to you. We utilize [standard contract clauses](https://www.facebook.com/help/566994660333381) approved by the European Commission, and may rely on the European Commission's [adequacy decisions](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries) about certain countries, as applicable, for data transfers from the European Economic Area to the United States and other countries.
+WhatsApp Ireland shares information globally, both internally within the Facebook Companies, and externally with our partners and with those you communicate around the world in accordance with this Privacy Policy. Information controlled by WhatsApp Ireland will be transferred or transmitted to, or stored and processed, in the United States or other countries outside of where you live for the purposes as described in this Privacy Policy. These data transfers are necessary to provide the Services set forth in our [Terms](https://www.whatsapp.com/legal/?eea=1#terms-of-service) and globally to operate and provide our Services to you. We utilize [standard contract clauses](https://faq.whatsapp.com/general/about-standard-contractual-clauses) approved by the European Commission, and may rely on the European Commission's [adequacy decisions](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries) about certain countries, as applicable, for data transfers from the European Economic Area to the United States and other countries.
 
 WhatsApp Inc. shares information globally, both internally within the Facebook Companies, and externally with businesses, service providers, and partners and with those you communicate with around the world. Your information may, for example, be transferred or transmitted to, or stored and processed in the United States or other countries outside of where you live for the purposes as described in this Privacy Policy.
 
