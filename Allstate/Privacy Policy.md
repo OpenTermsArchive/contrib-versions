@@ -1,6 +1,6 @@
  ![Back to top](/resources/images/back-to-top.svg?v=4bb4a16f-6dda-3409-f403-e81b1214e704) 
 
- 
+  
 
 [Skip Navigation](#bodyContainer)
 
@@ -244,7 +244,7 @@ Customers of Allstate's insurance, investment and other financial products may a
 FULL PRIVACY STATEMENT
 ----------------------
 
-#### [INFORMATION WE COLLECT AND HOW WE COLLECT IT](#collapse13285518281)
+#### [INFORMATION WE COLLECT AND HOW WE COLLECT IT](#collapse19981008451)
 
 Allstate collects personal and other information about you. Personal information is information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked (directly or indirectly) with you. Other, non-personal information does not and cannot reveal an individual's identity such as information that has been de-identified or aggregated. The information we collect varies based on what products and services you have with us.
 
@@ -286,7 +286,7 @@ Inferences drawn from any personal information collected to create a profile ref
 
 Our website is not intended for children. We do not market any products or services to children under the age of thirteen or knowingly collect any information from children under the age of thirteen.
 
-#### [USE OF YOUR PERSONAL INFORMATION](#collapse13285518282)
+#### [USE OF YOUR PERSONAL INFORMATION](#collapse19981008452)
 
 We use your personal and other information for business purposes including to:
 
@@ -304,7 +304,7 @@ We collect some information used for these purposes using analytics software, co
 *   **Update or correct our records.** We may receive personal information about you from other sources, including publicly available databases or third parties from whom we have purchased data, and combine that personal information with other personal information we have about you to update our records. For example, we may obtain change of address information from public sources and use that personal information to update or correct your address.
 *   **Find locations on request.** Your location may be obtained from the mobile device or the network using your device's Global Positioning System (GPS) functionality or directly from you. We may use your location information to search for information including searching for an agent, searching for a service provider, identifying the location of an accident or identifying the location of a roadside event you are reporting. If you do not want location information used, you can disable the GPS functionality on your mobile device.
 
-#### [SHARING YOUR INFORMATION](#collapse13285518283)
+#### [SHARING YOUR INFORMATION](#collapse19981008453)
 
 We do not sell your personal information. We may share your personal information with our affiliates for business purposes consistent with the uses described in this Privacy Statement. We may also share personal information about you with third parties whenever you consent to or direct such sharing. We strive to work with companies that share our commitment to privacy. We may also share information with others in an aggregated or de-identified form that does not reasonably identify you.
 
@@ -362,7 +362,7 @@ Service or product related information
 
 Companies involved in insurance and other business transactions; Authorized agents or brokers; Service providers; Marketing and advertising partners; Third parties involved in a business transaction; Law enforcement or regulators
 
-#### [COOKIES AND OTHER TRACKING TECHNOLOGIES](#collapse13285518284)
+#### [COOKIES AND OTHER TRACKING TECHNOLOGIES](#collapse19981008454)
 
 **Technologies and Information Collected:** When you visit our Sites, we and our service providers automatically collect information about your use of and access to these Sites. We collect this information through a variety of tracking technologies, including cookies, Flash objects, web beacons (also called pixel tags), embedded scripts, location-identifying technologies, and similar technology (collectively, "tracking technologies"). Information we collect automatically about you may be combined with other personal information we collect directly. The information collected in this manner includes:
 
@@ -392,7 +392,7 @@ We participate in the Adobe Marketing Cloud Device Co-op to better understand ho
 
 You may continue to see generic or non-targeted ads about our products and services if you opt-out of interest-based advertising. Although we do our best to honor the privacy preferences of our visitors, we are currently not able to respond to "Do Not Track" signals from your browser.
 
-#### [PRIVACY RIGHTS AND CHOICES](#collapse13285518285)
+#### [PRIVACY RIGHTS AND CHOICES](#collapse19981008455)
 
 **California residents:** For detail on your California Consumer Privacy Act rights see California Privacy Rights and Choices section below.
 
@@ -408,7 +408,7 @@ If you use My Account or the mobile app, you can also manage email and other not
 
 To request that we not allow other Allstate affiliates use your personal information to market their products and services, please call us at [1-800-856-2518](tel:1-800-856-2518) twenty-four hours a day, seven days a week. Please keep in mind that it may take up to four weeks to process your request. If you previously contacted us and asked us not to allow other Allstate affiliates to use your personal information, your previous choice still applies, and you do not need to contact us again. If you would like to change your previous choice, please call the number above at any time.
 
-#### [CALIFORNIA PRIVACY RIGHTS AND CHOICES](#collapse13285518286)
+#### [CALIFORNIA PRIVACY RIGHTS AND CHOICES](#collapse19981008456)
 
 California residents have certain rights under CCPA to access and delete personal information described in this section, and other rights described below. While these CCPA rights do not apply to all personal information collected by Allstate, such as personal information that is subject to certain federal or state laws, for transparency and for your convenience we have extended these rights to personal information we believe may be relevant to your request.
 
@@ -436,7 +436,7 @@ California residents have certain rights under CCPA to access and delete persona
 
 **Non-Discrimination Rights:** You have the right not to receive discriminatory treatment by us for the exercise of your California privacy rights.
 
-#### [OTHER STATE SPECIFIC PRIVACY RIGHTS AND CHOICES](#collapse13285518287)
+#### [OTHER STATE SPECIFIC PRIVACY RIGHTS AND CHOICES](#collapse19981008457)
 
 **Montana Residents:**  
 Pursuant to Montana law, you may request a record of any disclosure of your medical information during the preceding three years. Please send requests to  
@@ -457,19 +457,19 @@ Allstate's "do not call" list is limited only to telephone solicitation calls. W
 **Vermont residents:**  
 We won't share your personal information with Allstate companies for marketing purposes except as allowed by Vermont law.
 
-#### [SOCIAL MEDIA, LINKS AND EXTERNAL SITES](#collapse13285518288)
+#### [SOCIAL MEDIA, LINKS AND EXTERNAL SITES](#collapse19981008458)
 
 Links to other company's websites may be provided on the Allstate Sites as a convenience to you. If you choose to go to these external websites, you will be subject to the privacy practices of those external websites; Allstate is not responsible for the privacy practices of those websites. We encourage you to be aware when you leave our Site to read the privacy policies or statements of every website you visit, as those privacy policies or statements may differ from ours. Our Privacy Statement applies solely to the Sites where this Privacy Statement appears.
 
 Our website includes Social Media features, such as the Facebook Like button and widgets, such as the Share This button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our website, and may set a cookie to enable the feature to function properly. Social Media features and widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing it.
 
-#### [SECURITY](#collapse13285518289)
+#### [SECURITY](#collapse19981008459)
 
 Protecting your personal information is important to us. We use a combination of reasonable technical, administrative, and physical safeguards to protect your personal information. However, no website, mobile application, database or system is completely secure or "hacker proof." So, we cannot guarantee its absolute security. You are also responsible for taking reasonable steps to protect your personal information against unauthorized disclosure or misuse.
 
 We limit access to your personal information to those who need it to do their jobs. We comply with all applicable federal and state data security laws.
 
-#### [ALLSTATE DIGITAL FOOTPRINT](#collapse132855182810)
+#### [ALLSTATE DIGITAL FOOTPRINT](#collapse199810084510)
 
 If you enroll in the Allstate Digital FootprintSM feature through the mobile app, you provide Allstate access to your Microsoft and/or Google email accounts. We will only use the data accessed from your Microsoft and Google accounts to read, write, modify, or control email message bodies (including attachments), metadata, headers, and settings ("email data") to:
 
@@ -482,15 +482,15 @@ We will not:
 *   transfer email data to others unless it is necessary to provide and improve features, comply with applicable law, or otherwise provide the services, use email data for serving advertisements, or
 *   allow a person to read your email data unless we have your affirmative agreement regarding specific messages, doing so is necessary for security purposes such as investigating abuse, to comply with applicable law, or for an Allstate product's internal operations.
 
-#### [CONTACT US](#collapse132855182811)
+#### [CONTACT US](#collapse199810084511)
 
 If you should have questions or concerns about our privacy practices, please contact us at [1-800-624-4419](tel:1-800-624-4419).
 
-#### [CHANGES TO OUR PRIVACY STATEMENT](#collapse132855182812)
+#### [CHANGES TO OUR PRIVACY STATEMENT](#collapse199810084512)
 
 We may periodically update or revise this Privacy Statement. The effective date at the top of the document shows when this Privacy Statement was last revised. We will let you know when we update the Privacy Statement by changing the date or other appropriate means.
 
-#### [ALLSTATE AFFILIATES](#collapse132855182813)
+#### [ALLSTATE AFFILIATES](#collapse199810084513)
 
 This Privacy Statement describes the privacy practices of Allstate Insurance Company and the Allstate affiliates whose websites and mobile apps link to this Privacy Statement including: Allstate insurance companies offering auto, home and business insurance; Allstate Life Insurance Company, Allstate Assurance Company and their life and retirement affiliates; Allstate Financial Services; and Allstate roadside services and motor club companies and Signature roadside services and motor club companies.
 
