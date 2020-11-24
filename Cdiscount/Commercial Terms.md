@@ -890,7 +890,6 @@ CONDITIONS GENERALES D’ABONNEMENT « CDISCOUNT A VOLONTE » (France et Belgi
 
   
   
-  
  
 
 **ARTICLE 1 - CHAMP D'APPLICATION** 
@@ -938,11 +937,7 @@ des avantages de son Abonnement à toute personne physique majeure de sa famill
 
  La disponibilité et le contenu des avantages décrits ci-dessus peuvent varier en cours d’Abonnement, sans préavis ni indemnité au profit de l’Abonné. L’Abonné sera informé de l’évolution desdits avantages par tout moyen. 
 
-   
-
 **2.1 Livraison offerte des Produits Eligibles (France métropolitaine et Belgique uniquement)**
-
-   
 
 Lors de la commande comprenant l’Abonnement au Service tous les modes de livraison, listés ci-dessous, sont gratuits dès 10€ d’achat.  
   
@@ -998,11 +993,7 @@ Pour une livraison en Belgique :
 
 **2.2 Prix réduits**
 
-   
-
 L’Abonné bénéficie ponctuellement de tarifs avantageux sur une sélection de produits, signalés comme tels sur le Site grâce à une mention spécifique (ex : « offre réservée aux abonnés CDAV »).
-
-   
 
 **2.3 Programme CDISCOUNT Famille**
 
@@ -1018,15 +1009,9 @@ Il est précisé que pour bénéficier des offres spéciales "anniversaire", l'A
 
 \- avoir accepté de recevoir des emails de la part de Cdiscount. A défaut, Cdiscount sera dans l'incapacité d'adresser à l'Abonné les offres spéciales "anniversaire" telles que décrites ci-avant.
 
-   
-
 **2.4 Privilège « Ma Cagnotte à Volonté »**
 
-   
-
 Le Service offre la possibilité pour l’Abonné de cumuler du crédit sur une cagnotte dématérialisée consultable dans son Espace Client (ci-après la « **Cagnotte** ») pour l’achat de produits éligibles sur le Site dans les conditions précisées à l’article 9 ci-après.
-
-   
 
 **2.5 Autres avantages**
 
@@ -1034,13 +1019,9 @@ L’Abonné pourra également bénéficier d’avantages ponctuels, offerts par 
 
 Leur disponibilité et leur contenu peuvent varier en cours d’Abonnement, sans préavis ni indemnité au profit des Abonnés. L’Abonné sera informé de l’évolution desdits avantages par tout moyen.
 
-   
-
 **ARTICLE  3 - PRIX DU SERVICE**
 
 **3.1.** Le prix de l’Abonnement au Service est celui qui est indiqué sur le Site le jour où l’Abonné passe commande de l'Abonnement au Service. 
-
-   
 
 Cdiscount se réserve le droit de modifier le prix de l’Abonnement du Service à tout moment. Dans le cas où Cdiscount déciderait de modifier le prix de l’Abonnement au Service, Cdiscount en informera personnellement l’Abonné, par email, préalablement à l'application de ce prix, lequel ne sera en tout état de cause applicable, qu'au jour du renouvellement de l’Abonnement au Service dans les conditions précisées ci-après.  
   
@@ -1095,13 +1076,11 @@ Il sera ensuite renouvelé pour des périodes successives de douze (12) mois, pa
 
 **5.2 Dans le cas où l'Abonné n'a pas bénéficié de l'Offre d'essai gratuit**
 
- L’Abonnement au Service est valable douze (12) mois à compter de la Date de souscription au Service.  
+L’Abonnement au Service est valable douze (12) mois à compter de la Date de souscription au Service.  
   
 L’Abonnement au Service sera renouvelé par tacite reconduction chaque année, à la date d’anniversaire de l’Abonnement, dans les conditions prévues aux articles L215-1 et L243-1 du code de la consommation reproduits ci-après.
 
 La date anniversaire de l’Abonnement au Service correspond à la date de souscription au Service.
-
-   
 
 **5.3. Dispositions communes relatives à la durée**
 
@@ -1132,8 +1111,6 @@ L241-3 du Code de la consommation_
 
 _Lorsque le professionnel n'a pas procédé au remboursement dans les conditions prévues à l'article L215-1, les sommes dues sont productives d'intérêts au taux légal._
 
-   
-
   
 **ARTICLE 6 - RETRACTATION**
 
@@ -1152,7 +1129,7 @@ Ce droit de rétractation est exercé par écrit, par tout moyen, et notamment :
 \- en nous adressant le formulaire présenté à l'article 8 des CGV complété.
 
   
-   
+ 
 
 **ARTICLE 7 – RESILIATION**
 
@@ -1172,8 +1149,6 @@ La résiliation de l’Abonnement sera effective immédiatement, sans préavis n
 
 Le solde de la Cagnotte de l’Abonné éventuellement disponible à la date de résiliation effective de l’Abonnement au Service sera définitivement perdu. 
 
-   
-
   
 **7.2 Résiliation par l’Abonné**
 
@@ -1192,8 +1167,6 @@ Dans l’hypothèse où, à la date de résiliation effective de l’Abonnement 
 **ARTICLE 8 - PARTAGE** **D'ABONNEMENT**
 
 Le partage d’abonnement (ci-après le « Partage ») consiste en la possibilité pour l’Abonné de partager les avantages de son Abonnement au Service avec un ou plusieurs membres de sa famille (ci-après le « Bénéficiaire »), sous certaines conditions et pour une durée limitée.
-
-   
 
 **8.1 Conditions relatives à l’Abonné** 
 
@@ -1244,8 +1217,6 @@ Pour que le Partage soit valable, le Bénéficiaire doit :
 
 L’Abonné ne peut renseigner les coordonnées que **de deux (2) Bénéficiaires**, le Partage étant ainsi strictement limité, par Abonné, à deux (2) Bénéficiaires.
 
-   
-
 **8.3. Conditions communes**   
 
 L’Abonné et le Bénéficiaire doivent impérativement être des personnes physiques majeures résidant en France ou en Belgique.
@@ -1278,8 +1249,6 @@ L’utilisation du Service par le Bénéficiaire est conditionnée au respect de
 
 Tout manquement de l’Abonné et/ou du Bénéficiaire aux CGA entraînera la résiliation de l’Abonnement au Service dans les conditions de l’article 7.1 des CGA et l’annulation consécutive du Partage.
 
-   
-
 **8.5. Refus par le Bénéficiaire de bénéficier du Partage** 
 
 Le Bénéficiaire verra qu’il bénéficie du Partage dans son Espace client accessible sur le Site, sous un (1) jour ouvré suivant l’envoi de l’ « email de bienvenue » par CDISCOUNT.
@@ -1297,7 +1266,10 @@ Il en sera de même dans le cas où le Bénéficiaire ne pourrait bénéficier d
   
 **
 
-Le privilège « Ma cagnotte à volonté » (ci-après le « **Privilège** ») offre la possibilité pour l’Abonné de cumuler du crédit sur la Cagnotte consultable dans son Espace Client pour l’achat de produits éligibles sur le Site.
+Le privilège « Ma cagnotte à volonté » (ci-après le « **Privilège** ») offre la possibilité pour l’Abonné de cumuler du crédit sur la Cagnotte consultable dans son Espace Client pour l’achat de produits éligibles sur le Site (ci-après les « Offres Site ») et/ou pour l’achat d’offres partenaires (ci-après les « Offres Partenaires ») sur des sites partenaires, accessibles via la plateforme dédiée (ci-après la « Plateforme ») à l’url [https://cagnotte.cdiscount.com/](https://cagnotte.cdiscount.com/). La Plateforme sera relayée sur le Site.  
+  
+
+Les Offres Partenaires comprennent des offres en ligne et des offres en magasin conformément aux conditions accessibles sur chacune des Offres Partenaires que l’Abonné s’engage à lire et accepter sans réserve avant chaque commande et disponibles [ici](https://cagnotte.cdiscount.com/conditions-offres/).
 
 La Cagnotte est personnelle : en cas de Partage d’Abonnement dans les conditions précisées à l’article 8 ci-avant, le Bénéficiaire ne bénéficierait pas du crédit cumulé par l’Abonné dans le cadre du Privilège.
 
@@ -1309,21 +1281,31 @@ En cas de partage d’Abonnement dans les conditions précisées à l’article 
 
 **9.2 Cumul du crédit sur la Cagnotte**
 
-**9.2.1** L’Abonné cumulera du crédit sur sa Cagnotte pour l’achat de produits éligibles au Privilège sur le Site, c’est-à-dire de produits proposés à la vente sur le Site et porteur du pictogramme «  ©  » (ci-après les « **Produits éligibles au Privilège** »). 
+**9.2.1 L’Abonné cumulera du crédit sur sa Cagnotte :**
 
-Le montant du crédit auquel donne droit l’achat d’un Produit éligible au Privilège est précisé sur la fiche produit de celui-ci sous forme :
+\- Soit, pour les Offres Site, par l’achat de produits éligibles au Privilège sur le Site, c’est-à-dire de produits proposés à la vente sur le Site et porteur du pictogramme «  ©  » (ci-après les « **Produits éligibles au Privilège** ») ;
+
+\- Soit, pour les Offres Partenaire, par l’achat d’Offres Partenaires proposées sur la Plateforme accessible via le Site.
+
+Le montant du crédit auquel donne droit une Offre Site ou une Offre Partenaire est précisé soit sur la fiche produit de celui-ci pour les Offres Site, soit sur l’Offre Partenaire concernée pour les Offres Partenaire, sous forme : 
 
 \- d’un montant en euros ; ou
 
-\- d’un pourcentage de son prix de vente effectif (c’est-à-dire hors bons de réduction éventuels).
+\- d’un pourcentage de son prix de vente effectif (c’est-à-dire hors bons de réduction éventuels) ;
 
    
 
-**9.2.2** Le crédit sera cumulé sur la Cagnotte à l’issue d’un délai maximum de trente (30) jours ouvrés à compter de la livraison du Produit éligible au Privilège. Avant l’écoulement de cette période, le montant à créditer sera affiché comme étant « En attente » dans l’Espace Client de l’Abonné, rubrique « Ma cagnotte à volonté ».
+ **9.2.2 
 
-Il est précisé qu’en cas d’annulation ou de rétractation de la commande d’un Produit éligible au Privilège, le montant correspondant ne sera pas crédité sur la Cagnotte.
+Le crédit sera cumulé sur la Cagnotte :**
 
-Il est également précisé qu’en cas de commande contenant plusieurs Produits éligibles au Privilège, le total du crédit auquel donne droit cette commande sera cumulé sur la Cagnotte à l’issue d’un délai maximum de trente (30) jours ouvrés à compter de la livraison du dernier Produit éligible de la commande.
+ \- Soit à l’issue d’un délai maximum de trente (30) jours ouvrés à compter de la livraison du Produit éligible au Privilège, pour les Offres Site.
+
+ \- Soit à l’issue du délai mentionné sur chaque Offre Partenaire au moment de l’achat puisque le délai dépend de la date de confirmation du commerçant partenaire, pour les Offres Partenaire.
+
+Avant l’écoulement de ces périodes, le montant à créditer sera affiché comme étant « En attente » dans l’Espace Client de l’Abonné, rubrique « Ma cagnotte à volonté ».
+
+Il est également précisé, concernant les Offre Site, qu’en cas de commande contenant plusieurs Produits éligibles au Privilège, le total du crédit auquel donne droit cette commande sera cumulé sur la Cagnotte à l’issue d’un délai maximum de trente (30) jours ouvrés à compter de la livraison du dernier produit éligible de la commande. Concernant les Offres Partenaires, le crédit sera cumulé à l’issue de chacun des délais mentionnés sur lesdites Offres.
 
 A l’issue de ce délai maximum de trente (30) jours ouvrés, le montant ainsi crédité sur la Cagnotte sera affiché comme étant « Actif » dans l’Espace Client de l’Abonné, rubrique « Ma cagnotte à volonté » (ci-après le **« Solde de la Cagnotte** ».
 
@@ -1332,21 +1314,15 @@ Le Solde de la Cagnotte est consultable à tout moment dans l’Espace Client de
 Le Solde de la Cagnotte est utilisable dans les conditions définies ci-après.
 
    
- 
-
-**9.3 Utilisation de la Cagnotte**
+ **9.3 Utilisation de la Cagnotte**
 
 **9.3.1** Le Solde de la Cagnotte est utilisable par l’Abonné pendant toute la durée de l’Abonnement, dès lors que le délai légal de rétractation de quatorze jours suivant la Date de souscription au Service est écoulé. 
 
-   
-
 **9.3.2** La durée de validité de chaque montant crédité à la suite de la passation d’une commande éligible au Privilège sera précisée dans l’Espace Client de l’Abonné, rubrique « Ma cagnotte à volonté ».
 
-   
+Il est précisé que la durée de validité est différente selon que le montant crédité provient d’une Offre Site ou d’une Offre Partenaire accessible via la Plateforme.
 
 Tout montant crédité et non utilisé par l’Abonné avant la fin de sa durée de validité sera automatiquement déduit du Solde de la Cagnotte sera définitivement perdu.
-
-   
 
 **9.3.3** L’Abonné pourra utiliser le Solde de la Cagnotte pour payer tout ou partie d’une commande passée sur le Site (produits de la Marketplace inclus, hors frais de port, abonnements, Cdiscount à Volonté, livres et hors services Cdiscount tels que notamment Cdiscount Voyages, Cdiscount Mobile, Cdiscount Energie, Cdiscount Santé, Cdiscount Beauté, Cdiscount Immobilier, Cdiscount Billetterie, Disneyland), sans minimum d’achat.
 
@@ -1355,8 +1331,6 @@ Pour cela, l’Abonné devra choisir « Payer avec Ma cagnotte à volonté » 
 Si le montant de la commande est supérieur au Solde de la Cagnotte, l’Abonné devra choisir un mode de paiement complémentaire pour régler le montant de la commande restant dû après déduction du Solde de la Cagnotte.
 
 Si le montant de la commande est inférieur au Solde de la Cagnotte, la totalité du montant de la commande sera débité de la Cagnotte. Le Solde de la Cagnotte restant après déduction du montant de la commande restera utilisable lors d’une prochaine commande dans la limite de sa durée de validité.
-
-   
 
 **9.3.4** Cdiscount pourra utiliser le Solde de la Cagnotte de l’Abonné afin de financer le montant de l’Abonnement au Service dans le cadre d’une tacite reconduction, dans l’hypothèse où le montant de l’Abonnement au Service ne pourra pas être prélevé dans les conditions précisées à l’article 7 ci-dessus.
 
@@ -1367,11 +1341,14 @@ Si le montant de la commande est inférieur au Solde de la Cagnotte, la totalit�
 
 La Cagnotte est active tant que l’Abonnement au Service n’a pas été résilié dans les conditions précisées à l’article 7 ci-dessus.
 
-En cas de renouvellement de l’Abonnement au Service, le Solde de la Cagnotte est conservé.
+En cas de renouvellement de l’Abonnement au Service, le Solde de la Cagnotte est conservé, sous réserve de la durée de validité de chaque montant crédité, précisée dans l’Espace Client de l’Abonné, rubrique « Ma cagnotte à volonté ».
 
 En cas de résiliation de l’Abonnement au Service par l’Abonné, le Solde de la Cagnotte sera conservé et le crédit dont la durée de validité n’aura pas expiré entre temps sera à nouveau disponible en cas de réactivation de l’Abonnement au Service.
 
-La Cagnotte du Bénéficiaire du Partage reste active pendant toute la durée où il bénéficie de l’Abonnement au Service conformément à l’article 8 ci-dessus. 
+La Cagnotte du Bénéficiaire du Partage reste active pendant toute la durée où il bénéficie de l’Abonnement au Service conformément à l’article 8 ci-dessus.
+
+   
+  
 
 _CONDITIONS ASSURANCE FLOA BANK ACHAT ET MOYEN DE PAIEMENT (uniquement pour la France métropolitaine) Notice d'information_
 ---------------------------------------------------------------------------------------------------------------------------
@@ -1675,7 +1652,7 @@ Les conditions générales de précommande applicables sont celles en vigueur su
 Dans le cas où votre commande comprend uniquement un ou plusieurs Produits en Précommande, le montant de votre commande (ou votre premier paiement en cas de paiement en plusieurs fois) sera débité au moment de l’expédition des Produits en Précommande.  
 Dans le cas où votre commande comprend plusieurs Produits en Précommande qui sont expédiés à des dates différentes, le montant intégral de votre commande sera débité au moment de l’expédition du premier Produit.  
   
-Dans le cas où votre commande comprend un ou plusieurs Produits en Précommande ainsi que d’autres produits immédiatement disponibles, le montant intégral de votre commande (ou votre premier paiement en cas de paiement en plusieurs fois) sera, pour des raisons techniques, débité au moment de l’expédition des produits immédiatement disponibles.  
+Dans le cas où votre commande comprend un ou plusieurs Produits en Précommande ainsi que d'autres produits immédiatement disponibles, le montant intégral de votre commande (ou votre premier paiement en cas de paiement en plusieurs fois) sera, pour des raisons techniques, débité au moment de l’expédition des produits immédiatement disponibles.  
   
   
 **ARTICLE 3 - GARANTIE DU PRIX CDISCOUNT LE PLUS BAS POUR LES PRODUITS JEUX VIDEOS  
