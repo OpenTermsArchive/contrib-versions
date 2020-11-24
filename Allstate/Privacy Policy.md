@@ -1,229 +1,3 @@
- ![Back to top](/resources/images/back-to-top.svg?v=4bb4a16f-6dda-3409-f403-e81b1214e704) 
-
-  
-
-[Skip Navigation](#bodyContainer)
-
-[Explore Allstate](#)
-
-*   [Find An Agent](http://www.allstate.com/anon/handlers/redirectactivity.ashx?location=FA&intcid=/home/home.aspx%7CMainNav%7Cfindagent)
-*   [Contact Us](http://www.allstate.com/contactus.aspx)
-*   [Español](https://espanol.allstate.com/)
-*   [Set Your Location](#)
-*       ![Search](/resources/images/search_on.png?v=4bb4a16f-6dda-3409-f403-e81b1214e704)  Search
-
-Popular Searches
-
-*   [Allstate](https://www.allstate.com/)
-*   *   We help customers realize their hopes and dreams by providing the best products and services to protect them from life's uncertainties and prepare them for the future.
-
-*   [Company Overview](http://www.allstate.com/about.aspx)
-*   *   [Our Story](https://ourstory.allstate.com/)
-    *   [GoodHome](https://goodlife.allstate.com/goodhome/)
-    *   [My Offers](https://goodlife.allstate.com/myoffers/)
-    *   [The Allstate Blog](https://www.allstate.com/blog)
-    *   [Careers](http://www.allstate.com/careers.aspx)
-    *   [Allstate Veterans](https://www.allstate.com/lp/allstateveterans/index.htm)
-    *   [Customer Support](http://www.allstate.com/support/overview.aspx)
-
-*   [Affiliates](http://www.allstate.com/)
-*   *   [Arity](https://www.arity.com/)
-    *   [Avail Car Sharing](https://availcarsharing.com/)
-    *   [Answer Financial](https://www.answerfinancial.com/)
-    *   [Encompass](https://www.encompassinsurance.com/)
-    *   [Esurance](https://www.esurance.com/)
-
-*   [Corporate Info](http://www.allstate.com/about.aspx)
-*   *   [Newsroom](https://www.allstatenewsroom.com/)
-    *   [Allstate Investments](https://www.allstateinvestments.com/)
-    *   [Investor Relations](https://www.allstateinvestors.com/)
-    *   [Allstate Program](http://www.allstate.com/about/affiliates.aspx)
-    *   [Sponsorships](http://www.allstate.com/national-sponsorships.aspx)
-    *   [Agent Opportunity](https://www.allstate.com/lp/allstateagent/index.htm)
-
-*   [Corporate Responsibility](https://www.allstatesustainability.com/)
-*   *   [Sustainability Report](https://www.allstatesustainability.com/)
-    *   [Allstate Foundation](https://www.allstatefoundation.org/)
-    *   [Global Code of Business Conduct](https://www.allstatecodeofconduct.com/)
-    *   [Our Shared Purpose](http://www.allstate.com/our-shared-purpose.aspx)
-
-*   [Contact Us](http://www.allstate.com/contactus.aspx)
-*   *   [1-800-ALLSTATE](tel:1-800-255-7828)
-    *   [Email Us](https://messaging.allstate.com/corp.aspx)
-    *   [Tweet for Help](https://twitter.com/allstate)
-
-*   [Logins](https://myaccountrwd.allstate.com/anon/account/login)
-*   *   [My Account](https://myaccountrwd.allstate.com/anon/account/login?intcid=/about/privacy-statement-aic.aspx%7CTopHat%7CExploreAllstate%7CMyAccountLogin)
-    *   [Allstate Rewards](https://www.allstaterewards.com/)
-    *   [Financial](https://www.accessallstate.com/anon/login.aspx)
-    *   [Flood Insurance](https://www.allstateflood.com/)
-    *   [Motor Club](https://www.allstatemotorclub.com/amcc/register/login.faces;jsessionid=GRxvHnbhnFzafQDsuKM1kCH42OVUfIeqhKx0JH7dgaTiCYz-aao7!-619847657?_afrLoop=1100125551328727&_adf.ctrl-state=2vn2xry2l_4)
-    *   [Roadside Service](https://arsnetwork.allstate.com/towingnetwork_PROD/ARSWebClaim/home/Home.action)
-
-*   [Mobile App](http://www.allstate.com/support/mobile-apps.aspx)
-*   *   [Allstate Mobile](http://www.allstate.com/support/mobile-apps/allstate-mobile.aspx)
-
-*   [Find an Agent](https://www.allstate.com/anon/handlers/redirectactivity.ashx?location=FA) ✖
-
-*   [Get A Quote](http://www.allstate.com/anon/handlers/quoteactivity.ashx?product=Au&intcid=/home/home.aspx%7CTopHat%7Cquote_box)
-*   *   [Auto Insurance](http://www.allstate.com/anon/handlers/quoteactivity.ashx?product=Au&intcid=/home/home.aspx%7CTopHat%7Cquote_box:AU)
-    *   [Home Insurance](http://www.allstate.com/anon/handlers/quoteactivity.ashx?product=Ho&intcid=/home/home.aspx%7CTopHat%7Cquote_box:HO)
-    *   [Renters Insurance](http://www.allstate.com/anon/handlers/quoteactivity.ashx?product=Re&intcid=/home/home.aspx%7CTopHat%7Cquote_box:RE)
-    *   [Term Life Insurance](http://www.allstate.com/anon/handlers/quoteactivity.ashx?product=Li&intcid=/home/home.aspx%7CTopHat%7Cquote_box:LI)
-    *   [Condo Insurance](http://www.allstate.com/anon/handlers/quoteactivity.ashx?product=Co&intcid=/home/home.aspx%7CTopHat%7Cquote_box:CO)
-    *   [Motorcycle Insurance](http://www.allstate.com/anon/handlers/quoteactivity.ashx?product=Mo&intcid=/home/home.aspx%7CTopHat%7Cquote_box:MO)
-    *   [Boat Insurance](http://www.allstate.com/anon/handlers/quoteactivity.ashx?product=Bo&intcid=/home/home.aspx%7CTopHat%7Cquote_box:BO)
-    *   [Off-Road Vehicle Insurance](http://www.allstate.com/anon/handlers/quoteactivity.ashx?product=RV&intcid=/home/home.aspx%7CTopHat%7Cquote_box:RV)
-    *   [Business Insurance](http://www.allstate.com/anon/handlers/quoteactivity.ashx?product=BI&intcid=/home/home.aspx%7CTopHat%7Cquote_box:BI)
-    *   [Retrieve a Saved Quote](https://purchase.allstate.com/onlinesalesweb/app/retrievequote/?intcid=/home/home.aspx%7CTopHat%7CRetrieveQuote)
-
-*   [Connect With Us](http://www.allstate.com/social-networks.aspx)
-*   *   [![Facebook](/resources/images/ResponsiveTopNavigation/img_trans.gif?v=4bb4a16f-6dda-3409-f403-e81b1214e704 "Facebook")](https://www.facebook.com/Allstate)
-    *   [![Twitter](/resources/images/ResponsiveTopNavigation/img_trans.gif?v=4bb4a16f-6dda-3409-f403-e81b1214e704 "Twitter")](https://www.twitter.com/allstate)
-    *   [![LinkedIn](/resources/images/ResponsiveTopNavigation/img_trans.gif?v=4bb4a16f-6dda-3409-f403-e81b1214e704 "LinkedIn")](https://www.linkedin.com/company/allstate/)
-    *   [![Youtube](/resources/images/ResponsiveTopNavigation/img_trans.gif?v=4bb4a16f-6dda-3409-f403-e81b1214e704 "Youtube")](https://www.youtube.com/Allstate)
-    *   [![Pinterest](/resources/images/ResponsiveTopNavigation/img_trans.gif?v=4bb4a16f-6dda-3409-f403-e81b1214e704 "Pinterest")](https://www.pinterest.com/allstate)
-    *   [![Instagram](/resources/images/ResponsiveTopNavigation/img_trans.gif?v=4bb4a16f-6dda-3409-f403-e81b1214e704 "Instagram")](https://www.instagram.com/allstate)
-
-Toggle navigation [![Allstate Insurance Company Logo](/resources/Allstate/images/global/logo-allstate-sm.png?v=ce82f975-7ad4-2c9b-0d4e-e45c196e3a1a)](https://www.allstate.com/?intcid=TR%7Crwd_nav%7CAllstate_Logo) [Log in](https://myaccountrwd.allstate.com/anon/account/login?cid=MBL%7Crwd_nav%7CMyA_Login)
-
- [](#) [](#) 
-
-Popular Searches
-
-*   [![Allstate Insurance Company Logo](/resources/Allstate/images/global/logo-allstate.png?v=4b1e1a19-5f62-d440-0efd-8fbda7a4b46b)](https://www.allstate.com/)
-*   Get a quote in 
-    
-    Auto Home Renters Term Life Condo Motorcycle Boat Off-Road Business
-    
-    ![Check Mark](/resources/images/MobileNavQuote/check.svg?v=4bb4a16f-6dda-3409-f403-e81b1214e704)
-    
-    ![X](/resources/images/MobileNavQuote/close_x.svg?v=4bb4a16f-6dda-3409-f403-e81b1214e704) 
-    
-    Get a quote [Retrieve a saved quote](https://purchase.allstate.com/onlineshopping/retrievequote?isRetrieve=true&intcid=/home/home.aspx%7CMainNav%7CRetrieveQuote)
-    
-*   Get a Quote
-    
-    Your location is set for  
-    
-    Enter a valid US ZIP Code to set your location.
-    
-    [Edit location](#)
-    
-    Select a product to get a quote.
-    
-    [Retrieve a saved quote](https://purchase.allstate.com/onlinesalesweb/app/retrievequote/?intcid=/about/privacy-statement-aic.aspx%7CMainNav%7CRetrieveQuote)
-    
-    *   [Auto](#)
-    *   [Home](#)
-    *   [Renters](#)
-    *   [Term Life](#)
-    *   [Condo](#)
-    *   [Motorcycle](#)
-    *   [Boat](#)
-    *   [Off-Road Vehicle](#)
-    *   [Business Insurance](#)
-    *   [More Insurance](#)
-    *   [Find An Agent](#)
-    
-*   [Insurance & More](http://www.allstate.com/)
-    
-    *   [Roadside](http://www.allstate.com/roadside-assistance.aspx)
-    *   [Auto](http://www.allstate.com/auto-insurance.aspx)
-    *   [Home](http://www.allstate.com/home-insurance.aspx)
-    *   [Renters](http://www.allstate.com/renters-insurance.aspx)
-    *   [Condo](http://www.allstate.com/condo-insurance.aspx)
-    *   [Motorcycle](http://www.allstate.com/motorcycle-insurance.aspx)
-    *   [Business](http://www.allstate.com/business-insurance.aspx)
-    *   [Life](http://www.allstate.com/life-insurance.aspx)
-    *   [Roadside](http://www.allstate.com/roadside-assistance.aspx)
-    *   [Identity](http://www.allstate.com/identity-protection.aspx)
-    *   [More](#)
-        
-        *   [Boat](http://www.allstate.com/boat-insurance.aspx)
-        *   [Motorhome](http://www.allstate.com/motor-home-insurance.aspx)
-        *   [Off-Road](http://www.allstate.com/off-road-vehicle-insurance.aspx)
-        *   [Phone Protection](http://www.allstate.com/phone-protection-plus.aspx)
-        *   [Pet](http://www.allstate.com/pet-insurance.aspx)
-        *   [Event](http://www.allstate.com/event-insurance.aspx)
-        *   [Landlord](http://www.allstate.com/home-insurance/landlord-property-insurance.aspx)
-        *   [Retirement & Investments](http://www.allstate.com/retirement.aspx)
-        *   [Voluntary Employee Benefits](http://www.allstate.com/voluntary-employee-benefits.aspx)
-        *   [My Offers](https://goodlife.allstate.com/myoffers/)
-        
-    
-*   [Claims](http://www.allstate.com/)
-    
-    *   [Overview](http://www.allstate.com/claims.aspx)
-    *   [File A Claim](http://www.allstate.com/claims/file-claim.aspx)
-    *   [Track A Claim](http://www.allstate.com/claims/track-claim.aspx)
-    *   [Catastrophe Claims](http://www.allstate.com/catastrophe.aspx)
-    
-*   [Tools & Resources](http://www.allstate.com/)
-    
-    *   [Welcome](http://www.allstate.com/tr.aspx)
-    *   [Auto](http://www.allstate.com/tr/car-insurance.aspx)
-    *   [Home](http://www.allstate.com/tr/home-insurance.aspx)
-    *   [Motorcycle](http://www.allstate.com/tr/motorcycle-insurance.aspx)
-    *   [Renters](http://www.allstate.com/tr/renters-insurance.aspx)
-    *   [Life](http://www.allstate.com/tr/life-insurance.aspx)
-    *   [Retirement & Investments](http://www.allstate.com/tr/retirement.aspx)
-    *   [Power Sports](http://www.allstate.com/tr/power-sports.aspx)
-    *   [Business Insurance](http://www.allstate.com/tr/business-insurance.aspx)
-    
-*   [Find A Local Agent](http://www.allstate.com/anon/handlers/redirectactivity.ashx?location=FA)
-*   [My Account Log in](https://myaccountrwd.allstate.com/anon/account/login?cid=MBL%7Crwd_nav%7CMyA_Login)
-
-My Account Log in
-
-Log in to My Account
-
- [Forgot user ID](https://myaccountrwd.allstate.com/anon/account/recover?intcid=/about/privacy-statement-aic.aspx%7CMainNav%7CForgotID)  [Forgot password](https://myaccountrwd.allstate.com/anon/account/recover?intcid=/about/privacy-statement-aic.aspx%7CMainNav%7CForgotPassword) 
-
-Remember My User ID
-
-What's This?
-
- [Register new account](https://myaccountrwd.allstate.com/anon/registration/user-identification?intcid=/about/privacy-statement-aic.aspx%7CMainNav%7CRegisterNewAccount)
-
-[Pay Your Bill](https://myaccountrwd.allstate.com/anon/billing/quick-pay)
-
-[Get Your ID Cards](https://myaccountrwd.allstate.com/anon/quick-action/auto-id-card)
-
-*   [Update Zip Code](#)
-*   [Contact Us](http://www.allstate.com/contactus.aspx)
-*   [Español](https://espanol.allstate.com/)
-
-*   About Allstate 
-*   [About Allstate](http://www.allstate.com/about.aspx) 
-    *   [General Information](http://www.allstate.com/about/general-information.aspx)
-    *   [Financial and Other Reports](http://www.allstate.com/about/annual-report.aspx)
-    *   [History and Timeline](http://www.allstate.com/about/history-timeline.aspx)
-    *   [Leadership](http://www.allstate.com/about/leadership.aspx)
-    *   [Board of Directors](http://www.allstate.com/about/board-of-directors.aspx)
-    *   [Corporate Advocacy](http://www.allstate.com/about/advoc-ad-campaign.aspx)
-*   [The Agent Difference](http://www.allstate.com/about/the-agent-difference.aspx)
-*   [Procurement Home](http://www.allstate.com/procurement.aspx) 
-    *   [Goods & Services Purchased](http://www.allstate.com/procurement/supplier-goods-and-services.aspx)
-    *   [Supplier Diversity](http://www.allstate.com/procurement/supplier-diversity.aspx)
-    *   [Process & Expectations](http://www.allstate.com/procurement/supplier-code-of-conduct.aspx)
-    *   [Modern Slavery Act Statement](http://www.allstate.com/about/modern-slavery-statement.aspx)
-*   [Diversity](http://www.allstate.com/diversity.aspx) 
-    *   [Employee Resource Groups](http://www.allstate.com/diversity/employee-resource-groups.aspx)
-*   [Military Support](http://www.allstate.com/about/military-support.aspx)
-*   [Sponsorships](http://www.allstate.com/national-sponsorships.aspx) 
-    *   [College Football](http://www.allstate.com/national-sponsorships/college-football.aspx)
-    *   [NCAA](http://www.allstate.com/national-sponsorships/ncaa-college-basketball.aspx)
-    *   [Soccer](http://www.allstate.com/national-sponsorships/soccer.aspx)
-*   [Advertising](http://www.allstate.com/advertising.aspx) 
-    *   [Mayhem](https://www.youtube.com/playlist?list=PLuJ9jidSCLvDzt6Kto_RSUIWzlKi3V3oI)
-*   [Allstate Affiliate Program](http://www.allstate.com/about/affiliates.aspx)
-*   [Website Accessibility](http://www.allstate.com/about/accessibility.aspx)
-*   [Electronic Delivery Terms](http://www.allstate.com/about/e-delivery-terms.aspx)
-
-2.  [About Allstate](http://www.allstate.com/about.aspx)
-3.  Privacy Statement
-
 ﻿
 
 ALLSTATE ONLINE PRIVACY STATEMENT
@@ -244,7 +18,7 @@ Customers of Allstate's insurance, investment and other financial products may a
 FULL PRIVACY STATEMENT
 ----------------------
 
-#### [INFORMATION WE COLLECT AND HOW WE COLLECT IT](#collapse19981008451)
+#### INFORMATION WE COLLECT AND HOW WE COLLECT IT
 
 Allstate collects personal and other information about you. Personal information is information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked (directly or indirectly) with you. Other, non-personal information does not and cannot reveal an individual's identity such as information that has been de-identified or aggregated. The information we collect varies based on what products and services you have with us.
 
@@ -286,7 +60,7 @@ Inferences drawn from any personal information collected to create a profile ref
 
 Our website is not intended for children. We do not market any products or services to children under the age of thirteen or knowingly collect any information from children under the age of thirteen.
 
-#### [USE OF YOUR PERSONAL INFORMATION](#collapse19981008452)
+#### USE OF YOUR PERSONAL INFORMATION
 
 We use your personal and other information for business purposes including to:
 
@@ -304,7 +78,7 @@ We collect some information used for these purposes using analytics software, co
 *   **Update or correct our records.** We may receive personal information about you from other sources, including publicly available databases or third parties from whom we have purchased data, and combine that personal information with other personal information we have about you to update our records. For example, we may obtain change of address information from public sources and use that personal information to update or correct your address.
 *   **Find locations on request.** Your location may be obtained from the mobile device or the network using your device's Global Positioning System (GPS) functionality or directly from you. We may use your location information to search for information including searching for an agent, searching for a service provider, identifying the location of an accident or identifying the location of a roadside event you are reporting. If you do not want location information used, you can disable the GPS functionality on your mobile device.
 
-#### [SHARING YOUR INFORMATION](#collapse19981008453)
+#### SHARING YOUR INFORMATION
 
 We do not sell your personal information. We may share your personal information with our affiliates for business purposes consistent with the uses described in this Privacy Statement. We may also share personal information about you with third parties whenever you consent to or direct such sharing. We strive to work with companies that share our commitment to privacy. We may also share information with others in an aggregated or de-identified form that does not reasonably identify you.
 
@@ -362,7 +136,7 @@ Service or product related information
 
 Companies involved in insurance and other business transactions; Authorized agents or brokers; Service providers; Marketing and advertising partners; Third parties involved in a business transaction; Law enforcement or regulators
 
-#### [COOKIES AND OTHER TRACKING TECHNOLOGIES](#collapse19981008454)
+#### COOKIES AND OTHER TRACKING TECHNOLOGIES
 
 **Technologies and Information Collected:** When you visit our Sites, we and our service providers automatically collect information about your use of and access to these Sites. We collect this information through a variety of tracking technologies, including cookies, Flash objects, web beacons (also called pixel tags), embedded scripts, location-identifying technologies, and similar technology (collectively, "tracking technologies"). Information we collect automatically about you may be combined with other personal information we collect directly. The information collected in this manner includes:
 
@@ -392,7 +166,7 @@ We participate in the Adobe Marketing Cloud Device Co-op to better understand ho
 
 You may continue to see generic or non-targeted ads about our products and services if you opt-out of interest-based advertising. Although we do our best to honor the privacy preferences of our visitors, we are currently not able to respond to "Do Not Track" signals from your browser.
 
-#### [PRIVACY RIGHTS AND CHOICES](#collapse19981008455)
+#### PRIVACY RIGHTS AND CHOICES
 
 **California residents:** For detail on your California Consumer Privacy Act rights see California Privacy Rights and Choices section below.
 
@@ -408,7 +182,7 @@ If you use My Account or the mobile app, you can also manage email and other not
 
 To request that we not allow other Allstate affiliates use your personal information to market their products and services, please call us at [1-800-856-2518](tel:1-800-856-2518) twenty-four hours a day, seven days a week. Please keep in mind that it may take up to four weeks to process your request. If you previously contacted us and asked us not to allow other Allstate affiliates to use your personal information, your previous choice still applies, and you do not need to contact us again. If you would like to change your previous choice, please call the number above at any time.
 
-#### [CALIFORNIA PRIVACY RIGHTS AND CHOICES](#collapse19981008456)
+#### CALIFORNIA PRIVACY RIGHTS AND CHOICES
 
 California residents have certain rights under CCPA to access and delete personal information described in this section, and other rights described below. While these CCPA rights do not apply to all personal information collected by Allstate, such as personal information that is subject to certain federal or state laws, for transparency and for your convenience we have extended these rights to personal information we believe may be relevant to your request.
 
@@ -436,7 +210,7 @@ California residents have certain rights under CCPA to access and delete persona
 
 **Non-Discrimination Rights:** You have the right not to receive discriminatory treatment by us for the exercise of your California privacy rights.
 
-#### [OTHER STATE SPECIFIC PRIVACY RIGHTS AND CHOICES](#collapse19981008457)
+#### OTHER STATE SPECIFIC PRIVACY RIGHTS AND CHOICES
 
 **Montana Residents:**  
 Pursuant to Montana law, you may request a record of any disclosure of your medical information during the preceding three years. Please send requests to  
@@ -457,19 +231,19 @@ Allstate's "do not call" list is limited only to telephone solicitation calls. W
 **Vermont residents:**  
 We won't share your personal information with Allstate companies for marketing purposes except as allowed by Vermont law.
 
-#### [SOCIAL MEDIA, LINKS AND EXTERNAL SITES](#collapse19981008458)
+#### SOCIAL MEDIA, LINKS AND EXTERNAL SITES
 
 Links to other company's websites may be provided on the Allstate Sites as a convenience to you. If you choose to go to these external websites, you will be subject to the privacy practices of those external websites; Allstate is not responsible for the privacy practices of those websites. We encourage you to be aware when you leave our Site to read the privacy policies or statements of every website you visit, as those privacy policies or statements may differ from ours. Our Privacy Statement applies solely to the Sites where this Privacy Statement appears.
 
 Our website includes Social Media features, such as the Facebook Like button and widgets, such as the Share This button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our website, and may set a cookie to enable the feature to function properly. Social Media features and widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing it.
 
-#### [SECURITY](#collapse19981008459)
+#### SECURITY
 
 Protecting your personal information is important to us. We use a combination of reasonable technical, administrative, and physical safeguards to protect your personal information. However, no website, mobile application, database or system is completely secure or "hacker proof." So, we cannot guarantee its absolute security. You are also responsible for taking reasonable steps to protect your personal information against unauthorized disclosure or misuse.
 
 We limit access to your personal information to those who need it to do their jobs. We comply with all applicable federal and state data security laws.
 
-#### [ALLSTATE DIGITAL FOOTPRINT](#collapse199810084510)
+#### ALLSTATE DIGITAL FOOTPRINT
 
 If you enroll in the Allstate Digital FootprintSM feature through the mobile app, you provide Allstate access to your Microsoft and/or Google email accounts. We will only use the data accessed from your Microsoft and Google accounts to read, write, modify, or control email message bodies (including attachments), metadata, headers, and settings ("email data") to:
 
@@ -482,92 +256,16 @@ We will not:
 *   transfer email data to others unless it is necessary to provide and improve features, comply with applicable law, or otherwise provide the services, use email data for serving advertisements, or
 *   allow a person to read your email data unless we have your affirmative agreement regarding specific messages, doing so is necessary for security purposes such as investigating abuse, to comply with applicable law, or for an Allstate product's internal operations.
 
-#### [CONTACT US](#collapse199810084511)
+#### CONTACT US
 
 If you should have questions or concerns about our privacy practices, please contact us at [1-800-624-4419](tel:1-800-624-4419).
 
-#### [CHANGES TO OUR PRIVACY STATEMENT](#collapse199810084512)
+#### CHANGES TO OUR PRIVACY STATEMENT
 
 We may periodically update or revise this Privacy Statement. The effective date at the top of the document shows when this Privacy Statement was last revised. We will let you know when we update the Privacy Statement by changing the date or other appropriate means.
 
-#### [ALLSTATE AFFILIATES](#collapse199810084513)
+#### ALLSTATE AFFILIATES
 
 This Privacy Statement describes the privacy practices of Allstate Insurance Company and the Allstate affiliates whose websites and mobile apps link to this Privacy Statement including: Allstate insurance companies offering auto, home and business insurance; Allstate Life Insurance Company, Allstate Assurance Company and their life and retirement affiliates; Allstate Financial Services; and Allstate roadside services and motor club companies and Signature roadside services and motor club companies.
 
 Eligibility information may be shared for marketing purposes among Allstate Insurance Company and the Allstate affiliates listed above as well as these other affiliated companies that have separate online privacy statements: American Heritage Life Insurance Company (Allstate Benefits), Allstate Dealer Services, Castle Key Insurance Company and Castle Key Indemnity Company, North Light Specialty Insurance Company, SquareTrade (Allstate Protection Plans), InfoArmor (Allstate Identity Protection), Avail, and Arity companies.
-
-[Enter a valid US ZIP Code to set your location.](#)
-
-Select a Product Auto Insurance Home Insurance Renters Insurance Term Life Insurance Condo Insurance Motorcycle Insurance Boat Insurance Off-Road Vehicle Insurance Business Insurance 
-
-[Retrieve a saved quote](https://purchase.allstate.com/onlinesalesweb/app/retrievequote/?intcid=/about/privacy-statement-aic.aspx%7CFooter%7CRetrieveSavedQuote)
-
-[![Allstate logo. ](/resources/Allstate/images/global/logo_footer.png?v=1b0db48b-16f1-149f-24c7-372693c3474e "Allstate logo. ")](https://www.allstate.com/)
-
-© 2020 Allstate Insurance Company
-
-[Connect With Us](http://www.allstate.com/social-networks.aspx)
-
-[![Facebook logo.](/resources/images/ResponsiveTopNavigation/img_trans.gif?v=4bb4a16f-6dda-3409-f403-e81b1214e704 "Facebook logo.")](https://www.facebook.com/Allstate) [![Twitter logo.](/resources/images/ResponsiveTopNavigation/img_trans.gif?v=4bb4a16f-6dda-3409-f403-e81b1214e704 "Twitter logo.")](https://www.twitter.com/allstate) [![LinkedIn logo.](/resources/images/ResponsiveTopNavigation/img_trans.gif?v=4bb4a16f-6dda-3409-f403-e81b1214e704 "LinkedIn logo.")](https://www.linkedin.com/company/allstate/) [![Youtube logo.](/resources/images/ResponsiveTopNavigation/img_trans.gif?v=4bb4a16f-6dda-3409-f403-e81b1214e704 "Youtube logo.")](https://www.youtube.com/Allstate) [![Pinterest logo.](/resources/images/ResponsiveTopNavigation/img_trans.gif?v=4bb4a16f-6dda-3409-f403-e81b1214e704 "Pinterest logo.")](https://www.pinterest.com/allstate) [![Instagram logo.](/resources/images/ResponsiveTopNavigation/img_trans.gif?v=4bb4a16f-6dda-3409-f403-e81b1214e704 "Instagram logo.")](https://www.instagram.com/allstate)
-
-*   #### [Company](http://www.allstate.com/about.aspx)
-    
-*   [Our Story](https://ourstory.allstate.com/)
-*   [The Allstate Blog](https://www.allstate.com/blog)
-*   [Careers](http://www.allstate.com/careers.aspx)
-*   [Customer Support](http://www.allstate.com/support/overview.aspx)
-*   [Contact Us](http://www.allstate.com/contactus.aspx)
-*   [Underwriting Companies](http://www.allstate.com/about/name-location.aspx)
-
-*   #### [Corporate Info](http://www.allstate.com/about.aspx)
-    
-*   [Newsroom](https://www.allstatenewsroom.com/)
-*   [Allstate Investments](https://www.allstateinvestments.com/)
-*   [Investor Relations](http://www.allstateinvestors.com/)
-*   [Sustainability Report](https://www.allstatesustainability.com/)
-*   [Allstate Canada](https://www.allstate.ca/)
-
-*   #### [Quick Links](http://www.allstate.com/site-map.aspx)
-    
-*   [Car Insurance](http://www.allstate.com/auto-insurance.aspx)
-*   [Home Insurance](http://www.allstate.com/home-insurance.aspx)
-*   [Life Insurance](http://www.allstate.com/life-insurance.aspx)
-*   [Claims](http://www.allstate.com/claims.aspx)
-*   [Agent Locator](https://agents.allstate.com/)
-*   [Express Access](http://www.allstate.com/support/express-access.aspx)
-
-*   #### More
-    
-*   [Site Map](http://www.allstate.com/site-map.aspx)
-*   [Terms Of Use](http://www.allstate.com/about/terms.aspx)
-*   [Privacy & Security](http://www.allstate.com/about/privacy-statement.aspx)
-*   [CA Notice at Collection](http://www.allstate.com/about/privacy-statement-aic.aspx#fullPrivacy)
-*   [CA Financial Incentive Notice](http://www.allstate.com/about/ca-financial-incentive-notice.aspx)
-*   [Website Accessibility](http://www.allstate.com/about/accessibility.aspx)
-*    [![Logo for Ad Choices Icon](/resources/images/adchoice_1_1.png?v=4bb4a16f-6dda-3409-f403-e81b1214e704 "Social Networking") Ad Choices](http://info.evidon.com/pub_info/3340?v=1)
-
-✖
-
-#### Not Your ZIP Code? Update Below.
-
-ZIP Code
-
- 
-
-  
-
-City, State
-
-Set Your Location
-
-![Error](/resources/Images/error.svg?v=4bb4a16f-6dda-3409-f403-e81b1214e704)Oops! You have entered an invalid ZIP. Please try again.
-
-![Error](/resources/Images/error.svg?v=4bb4a16f-6dda-3409-f403-e81b1214e704)Location data not available. Please enter zip code.
-
-Please Wait...Updating Location...  
-It's taking a bit longer than expected. Your update should be done soon.
-
-This feature is not currently available.  
-Please try again later.  
-
-ECC Monitor: OK
