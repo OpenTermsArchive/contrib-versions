@@ -1060,7 +1060,7 @@ Si l'Abonné choisit d'interrompre sa Période d'essai au cours de celle-ci, il 
 
 \- se rendre dans la rubrique "Cdiscount à volonté" de son Espace Client, accessible via l'URL [www.cdiscount.com](https://www.cdiscount.com/) sur PC et tablette, à l'exception du site mobile, ainsi que sur les applications Android et iOS associées, et cliquer sur le bouton "Se désabonner" ;
 
-\- ou contacter notre Service Client, disponible par téléphone, depuis la France au 09 70 80 90 50 (numéro non surtaxé) et pour la Belgique au 0800 58 211 (numéro gratuit) aux horaires indiqués sur le Site, et ce, jusqu'à la veille de la fin de la Période d'essai.
+\- ou contacter notre Service Client, disponible par téléphone, depuis la France au 09 70 80 90 50 (numéro non surtax��) et pour la Belgique au 0800 58 211 (numéro gratuit) aux horaires indiqués sur le Site, et ce, jusqu'à la veille de la fin de la Période d'essai.
 
 Cdiscount procèdera au remboursement du prix de l'Abonnement au Service dans un délai pouvant aller jusqu'à 72 heures.
 
@@ -1650,7 +1650,7 @@ Les conditions générales de précommande applicables sont celles en vigueur su
 Dans le cas où votre commande comprend uniquement un ou plusieurs Produits en Précommande, le montant de votre commande (ou votre premier paiement en cas de paiement en plusieurs fois) sera débité au moment de l’expédition des Produits en Précommande.  
 Dans le cas où votre commande comprend plusieurs Produits en Précommande qui sont expédiés à des dates différentes, le montant intégral de votre commande sera débité au moment de l’expédition du premier Produit.  
   
-Dans le cas où votre commande comprend un ou plusieurs Produits en Précommande ainsi que d���autres produits immédiatement disponibles, le montant intégral de votre commande (ou votre premier paiement en cas de paiement en plusieurs fois) sera, pour des raisons techniques, débité au moment de l’expédition des produits immédiatement disponibles.  
+Dans le cas où votre commande comprend un ou plusieurs Produits en Précommande ainsi que d’autres produits immédiatement disponibles, le montant intégral de votre commande (ou votre premier paiement en cas de paiement en plusieurs fois) sera, pour des raisons techniques, débité au moment de l’expédition des produits immédiatement disponibles.  
   
   
 **ARTICLE 3 - GARANTIE DU PRIX CDISCOUNT LE PLUS BAS POUR LES PRODUITS JEUX VIDEOS  
