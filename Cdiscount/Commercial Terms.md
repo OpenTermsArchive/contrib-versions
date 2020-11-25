@@ -108,7 +108,7 @@ Les présentes conditions générales de vente (ci-après « CGV ») s'appliquen
 
 Les CGV ne sont pas applicables :
 
-\- aux commandes passées sur la Marketplace Cdiscount auprès de vendeurs professionnels. Pour consulter les conditions générales d’utilisation de la Marketplace Cdiscount, [cliquez ici.](http://https//i2.cdscdn.com/imagesok/cgu/mkp/cgu_acheteurs_mp_cdiscount.pdf)
+\- aux commandes passées sur la Marketplace Cdiscount auprès de vendeurs professionnels. Pour consulter les conditions générales d’utilisation de la Marketplace Cdiscount, [cliquez ici.](https://i2.cdscdn.com/resources/imagesok/cgu/mkp/cgu_acheteurs_mp_cdiscount.pdf)
 
 \- aux professionnels. Est considéré comme professionnel, toute personne physique ou morale, publique ou privée, qui agit à des fins entrant dans le cadre de son activité commerciale, industrielle, artisanale, libérale ou agricole, y compris lorsqu'elle agit au nom ou pour le compte d'un autre professionnel. Les professionnels qui souhaitent commander auprès de CDISCOUNT sont invités à consulter les conditions générales de vente « CDISCOUNT PRO ».
 
@@ -1648,7 +1648,7 @@ Les conditions générales de précommande applicables sont celles en vigueur su
   
   
 Dans le cas où votre commande comprend uniquement un ou plusieurs Produits en Précommande, le montant de votre commande (ou votre premier paiement en cas de paiement en plusieurs fois) sera débité au moment de l’expédition des Produits en Précommande.  
-Dans le cas où votre commande comprend plusieurs Produits en Précommande qui sont exp��diés à des dates différentes, le montant intégral de votre commande sera débité au moment de l’expédition du premier Produit.  
+Dans le cas où votre commande comprend plusieurs Produits en Précommande qui sont expédiés à des dates différentes, le montant intégral de votre commande sera débité au moment de l’expédition du premier Produit.  
   
 Dans le cas où votre commande comprend un ou plusieurs Produits en Précommande ainsi que d’autres produits immédiatement disponibles, le montant intégral de votre commande (ou votre premier paiement en cas de paiement en plusieurs fois) sera, pour des raisons techniques, débité au moment de l’expédition des produits immédiatement disponibles.  
   
@@ -1898,7 +1898,7 @@ Cdiscount se réserve ainsi la possibilité de cesser la commercialisation de to
 Aux fins de financer les filières de collecte et de recyclage des Déchets d’équipements électriques et électroniques (DEEE) et des Déchets d’éléments d’ameublement (DEA), Cdiscount a, en sa qualité de distributeur, l’obligation de collecter une éco-participation auprès des Clients Pro. Le montant de l’éco-participation est indiqué sur le Site, sur la fiche produit des articles relevant de cette obligation.   
   
 Il est précisé que Cdiscount n’assure pas la reprise des équipements électriques et électroniques des Clients Pro, ayant la qualité de revendeur des produits achetés (par opposition aux Clients Pro qui utilisent les produits achetés pour leur activité professionnelle).  
-Cdiscount informe le Client Pro ayant la qualité de revendeur des produits achetés que, conformément aux articles L. 541-10-2 et R. 543-180 du Code de l'Environnement, tout consommateur peut bénéficier d’un droit de reprise gratuite de ses équipements électriques et électroniques usagés ; il appartient donc audit Client Pro d’informer ses propres clients du coût de l’élimination des déchets dans les conditions prévues à la règlementation applicable et d’assurer la reprise des équipements usagés auprès des consommateurs qui en font la demande.  
+Cdiscount informe le Client Pro ayant la qualité de revendeur des produits achetés que, conform��ment aux articles L. 541-10-2 et R. 543-180 du Code de l'Environnement, tout consommateur peut bénéficier d’un droit de reprise gratuite de ses équipements électriques et électroniques usagés ; il appartient donc audit Client Pro d’informer ses propres clients du coût de l’élimination des déchets dans les conditions prévues à la règlementation applicable et d’assurer la reprise des équipements usagés auprès des consommateurs qui en font la demande.  
    
 7.2.2 Redevance pour copie privée   
   
