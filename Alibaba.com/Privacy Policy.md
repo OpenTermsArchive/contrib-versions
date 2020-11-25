@@ -1,6 +1,6 @@
 #### Privacy Policy
 
-**New Version (Effective as of September 14,2020)** 
+**New Version (Effective as of November 25,2020)** 
 
 [A. COLLECTION OF INFORMATION.](https://rule.alibaba.com/rule/detail/2034.htm#AA)
 
@@ -313,7 +313,7 @@ If you are aware of changes or inaccuracies in your information, you should info
 
 **J. HOW TO CONTACT US**
 
-If you have any requests, questions or concerns about our use of your personal information and this Privacy Policy, please contact us at DataProtection@service.alibaba.com.
+You can click [here](https://myprivacy.alibaba.com/home#/) to exercise your rights, and If you have any requests, questions or concerns about our use of your personal information and this Privacy Policy, please contact us at DataProtection@service.alibaba.com.
 
 **K. LANGUAGE**
 
