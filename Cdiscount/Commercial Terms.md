@@ -108,7 +108,7 @@ Les présentes conditions générales de vente (ci-après « CGV ») s'appliquen
 
 Les CGV ne sont pas applicables :
 
-\- aux commandes passées sur la Marketplace Cdiscount auprès de vendeurs professionnels. Pour consulter les conditions générales d’utilisation de la Marketplace Cdiscount, [cliquez ici.](http://https//i2.cdscdn.com/imagesok/cgu/mkp/cgu_acheteurs_mp_cdiscount.pdf)
+\- aux commandes passées sur la Marketplace Cdiscount auprès de vendeurs professionnels. Pour consulter les conditions générales d’utilisation de la Marketplace Cdiscount, [cliquez ici.](https://i2.cdscdn.com/resources/imagesok/cgu/mkp/cgu_acheteurs_mp_cdiscount.pdf)
 
 \- aux professionnels. Est considéré comme professionnel, toute personne physique ou morale, publique ou privée, qui agit à des fins entrant dans le cadre de son activité commerciale, industrielle, artisanale, libérale ou agricole, y compris lorsqu'elle agit au nom ou pour le compte d'un autre professionnel. Les professionnels qui souhaitent commander auprès de CDISCOUNT sont invités à consulter les conditions générales de vente « CDISCOUNT PRO ».
 
