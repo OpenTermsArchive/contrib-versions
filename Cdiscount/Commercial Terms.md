@@ -468,6 +468,8 @@ CDISCOUNT livre les commandes en France Métropolitaine, Corse comprise, en Belg
 
  Certains produits ne peuvent être livrés en Corse ou à l'étranger. Vous serez informé de l’éligibilité de votre produit pour une livraison en Corse lors de votre commande.   
 
+  
+  
 6.2.3 Retard livraison
 
   
@@ -477,7 +479,7 @@ Vous pouvez également nous signaler vous-même le retard de livraison via votre
 
 CDISCOUNT s’engage à faire le nécessaire pour déterminer la cause du retard et trouver une solution adéquate en vue de la livraison effective des produits commandés dans les meilleurs délais. 
 
-6.2.4. Contact 
+6.2.4. Contact
 
 Pour le suivi de votre commande et le service après-vente, vous pouvez nous contacter :
 
