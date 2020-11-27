@@ -1,14 +1,16 @@
 Vinted - Data Protection Statement
 
+Vinted - Data Protection Statement
+
 Vinted - Privacy Policy
 =======================
 
-_Date last updated: 2020-04-24_
+_Date last updated: 2020-11-26_
 
 1\. General
 -----------
 
-This Privacy Policy applies to the online platforms Vinted.fr, Vinted.es, Vinted.nl, Vinted.be, Vinted.lu, Vinted.lt, Musumazyliai.lt Vinted.cz, Vinted.pl, Vinted.co.uk, Vinted.com, Kleiderkreisel.de, Kleiderkreisel.at, Mamikreisel.de, Mamikreisel.at (“Website”) and to the associated app (“App”). Vinted.fr, Vinted.es, Vinted.nl, Vinted.be, Vinted.lu, Vinted.lt, Vinted.cz, Vinted.pl, Vinted.co.uk and Vinted.com online platforms are operated by Vinted, UAB, Švitrigailos st. 13, LT-03228 Vilnius, Republic of Lithuania; Kleiderkreisel.de, Kleiderkreisel.at, Mamikreisel.de, Mamikreisel.at online platforms are operated by Kleiderkreisel GmbH, Wallstraße 65, 10179 Berlin, Germany, and Vinted.com online platform is operated by Vinted Inc, a company registered in Delaware, with business location at C/o AG Accounting 735 Geary St. #303 San Francisco, CA 94109. (hereinafter jointly referred to as “Us”, “We” or “Vinted”). Unless otherwise specified under specific sections, this Privacy Policy applies to all of our Platforms. More details about how to get in contact with us can be found at the end of this Privacy Policy under no. 7.
+This Privacy Policy applies to the online platforms Vinted.fr, Vinted.es, Vinted.nl, Vinted.be, Vinted.lu, Vinted.lt, Musumazyliai.lt Vinted.cz, Vinted.pl, Vinted.de, Vinted.co.uk, Vinted.com, Kleiderkreisel.de, Kleiderkreisel.at, Mamikreisel.de, Mamikreisel.at (“Website”) and to the associated app (“App”). Vinted.fr, Vinted.es, Vinted.nl, Vinted.be, Vinted.lu, Vinted.lt, Vinted.cz, Vinted.pl, Vinted.de and Vinted.co.uk online platforms are operated by Vinted, UAB, Švitrigailos st. 13, LT-03228 Vilnius, Republic of Lithuania; Kleiderkreisel.de, Kleiderkreisel.at, Mamikreisel.de, Mamikreisel.at online platforms are operated by Kleiderkreisel GmbH, Wallstraße 65, 10179 Berlin, Germany, and Vinted.com online platform is operated by Vinted Inc, a company registered in Delaware, with business location at C/o AG Accounting 735 Geary St. #303 San Francisco, CA 94109. (hereinafter jointly referred to as “Us”, “We” or “Vinted”). Unless otherwise specified under specific sections, this Privacy Policy applies to all of our Platforms. More details about how to get in contact with us can be found at the end of this Privacy Policy under no. 7.
 
 We take your privacy extremely seriously. All data will be collected, stored and used by us in accordance with the European Union General Data Protection Regulation No. 2016/679 (“**GDPR**”), other statutory regulations.
 
@@ -47,7 +49,7 @@ When you register as a member on the Platform, you must provide the following da
 
 Legal basis for the collection and use of data is the performance of a contract (GTC) to which you are party or in order to take steps at your request prior to entering into a contract (GTC) (Art. 6 (1) (b) of the GDPR).
 
-We also determine your location at the time of registration to show on your profile. For that we use a service provider MaxMind, Inc. (USA). Personal data transfer is protected in accordance with the [Privacy Shield](https://www.privacyshield.gov/participant?id=a2zt00000004ELRAA2&status=Active) program. You can at any time choose to change your location (country, city or region) and make your city or region not visible to other members under "My settings" in your Vinted account.
+We also determine your location at the time of registration to show on your profile. You can at any time choose to change your location (country, city or region) and make your city or region not visible to other members under "My settings" in your Vinted account.
 
 Personal data collected and used for this purpose are kept for as long as we keep your Vinted account – for 3 months from the date of deletion of your Vinted account or for 5 years and 3 months of inactivity on your account.
 
@@ -62,7 +64,6 @@ If you enter your Google log-in details, Vinted will receive from Google the fol
 2.  First name and surname;
 3.  Google account ID;
 4.  Email address;
-5.  Language.
 
 If you enter your Facebook log-in details, Vinted will receive from Facebook the following data from your Facebook account (you may choose not to provide your email address and/or date of birth):
 
@@ -108,7 +109,6 @@ When you are a registered member on the Platform, we collect, use and make publi
 2.  Verification fact;
 3.  Number and member names of followers;
 4.  Number and member names of members followed;
-5.  Likes.
 
 Legal basis for such collection and use is our legitimate interest to ensure that our members would access important information about each other (Art. 6 (1) (f) of the GDPR).
 
@@ -228,7 +228,7 @@ Personal data collected and used for this purpose are kept for as long as we kee
 2.1.11. To send you important communication regarding the Platform
 ------------------------------------------------------------------
 
-If you register on the Platform, we will send you e-mails and messages via the Platform’s messaging system for the purpose of providing important notifications e.g. [GTC](https://www.vinted.fr/terms-and-conditions), Privacy Policy changes.
+If you register on the Platform, we will send you e-mails and messages via the Platform’s messaging system for the purpose of providing important notifications e.g. [GTC](https://www.vinted.fr/terms-and-conditions), Privacy Policy changes.
 
 Legal basis for the collection and use of data is the performance of a contract (compliance with our GTC) to which you are party (Art. 6 (1) (b) of the GDPR) and compliance with the legal obligations to which Vinted is subject (Art. 6 (1) (c) of the GDPR).
 
@@ -240,8 +240,6 @@ Personal data collected and used for this purpose are kept for as long as we kee
 If you register on the Platform, we will send you offers related to Vinted services via the Platform’s messaging system (“Offers”).
 
 Legal basis for the collection and use of data is our legitimate interest to provide offers to our members (Art. 6 (1) (f) of the GDPR, Art. 13 (2) of Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and electronic communications), Art. 69 (2) of Lithuanian Law on Electronic Communications).
-
-In order to send the Offers, Vinted uses services provided by Braze, Inc. (USA). Data are protected in accordance with [Privacy Shield Program](https://www.privacyshield.gov/participant?id=a2zt00000004TtdAAE&status=Active).
 
 Personal data collected and used for this purpose are kept for as long as we keep your Vinted account – for 3 months from the date of deletion of your Vinted account or for 5 years and 3 months of inactivity on your account.
 
@@ -281,7 +279,7 @@ In order to respond to your inquiries, Vinted provides your data to service part
 10.  Conectys Serv Telecom SRL (Romania) (if you use our .fr Platform);
 11.  UAB „Planas chuliganas” (Lithuania) (if you use our .fr, .es, .be, .nl, .lu, .de or .at Platforms).
 
-If you receive customer support on our .fr, .es, .be, .nl, .lu, .de or .at Platform, this results in your data being shared with our customer support agents outside the European Economic Area. In this case the data is protected by the service providers entering into the [EU standard contractual clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en) for the transfer of data as approved by the European Commission.
+If you receive customer support on our .fr, .es, .be, .nl, .lu, .de or .at Platform, this results in your data being shared with our customer support agents outside the European Economic Area. In this case the data is protected by the service providers entering into the [EU standard contractual clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en) for the transfer of data as approved by the European Commission.
 
 Personal data collected and used for this purpose are kept for 2 years.
 
@@ -360,6 +358,56 @@ Vinted is responsible for informing you about the processing of your personal da
 Contact point for exercising rights: For any request to exercise your right or any claim relating to the aforementioned data collection and use, you should directly address Vinted as we are the main contact point (Art. 26 (1) sentence 3 of the GDPR) for such matters. Your rights in this context means the right to request from the controller access (Art. 15 of the GDPR) to and rectification (Art. 16 of the GDPR) or erasure of personal data (Art. 17 GDPR) or restriction of processing concerning you (Art. 18 GDPR) or to object to processing (Art. 21 of the GDPR) as well as the right to data portability (Art. 20 GDPR). 
 
 Vinted collects your personal data to allow you to use our Platform, to provide our services and to perform a contract (GTC) with you and keeps it for as long as we keep your Vinted account - for 3 months from the date of deletion of your Vinted account or for 5 years and 3 months of inactivity on your account.
+
+2.1.18. To transfer your Kleiderkreisel account to Vinted, UAB
+--------------------------------------------------------------
+
+If you are a Kleiderkreisel user and decide to transfer your profile from Kleiderkreisel operated by Kleiderkreisel GmbH (Germany) by giving your consent and create an account on a platform operated by Vinted, UAB as mentioned in section 2.1.1, Vinted, UAB receives the following (personal) data from Kleiderkreisel:
+
+1.  E-mail address;
+2.  Full name;
+3.  Consent fact;
+4.  Time of the consent;
+5.  Consent text;
+6.  Funds in your balance;
+7.  Date of Birth;
+8.  Address;
+9.  Bank account number;
+10.  First six and last four digits of your credit card number;
+11.  Expiration date;
+12.  Billing address;
+13.  Delivery options;
+14.  Shipping history.
+
+Legal basis for such collection and use is your consent (Art. 6 (1) (a) of the GDPR).
+
+When you create an account on a platform operated by Vinted, UAB, the following personal data will be transferred from Kleiderkreisel to Vinted, UAB: your profile picture, information that you choose to provide in the “About You” field, listing images, listing titles, listing descriptions, listing prices, review ratings, review details, favourite items, vouchers, saved searches and your followers.
+
+Legal basis for such collection and use of data is the performance of a contract (GTC) to which you are party (Art. 6 (1) (b) of the GDPR).
+
+Vinted, UAB collects your personal data to allow you to use platform, to provide services and to perform a contract (GTC) with you and keeps it for as long as Vinted, UAB keeps your account on a platform operated by Vinted, UAB - for 3 months from the date of deletion of your account on a platform operated by Vinted, UAB or for 5 years and 3 months of inactivity on your account.
+
+The data related to blocking of Kleiderkreisel banned accounts, such as user device fingerprint data and account verification data are transferred from Kleiderkreisel to Vinted, UAB.
+
+The legal basis for such collection and use is our legitimate interest to ensure the security of Vinted platform and other users (Art. 6 (1) (f) of the GDPR).
+
+Personal data collected and used for this purpose are kept for 3 months from the moment you have been blocked.
+
+_Essence of the arrangement between Vinted, UAB and Kleiderkreisel on joint responsibilities (Art. 26 (2) sentence 2 of the GDPR)_
+
+In order to ensure a smooth migration and transfer from Kleiderkreisel platform to the platform operated by Vinted, UAB, both Vinted, UAB and Kleiderkreisel will gain access to certain personal data, the handling of which will fall within Kleiderkreisel and Vinted's, UAB joint responsibility.
+
+Vinted, UAB would like to inform you about the essence of our arrangement on joint responsibilities, in accordance with Art. 26 of the GDPR. Since there are two controllers, Vinted, UAB wants to explain to you who is responsible for what of the processing of your data.
+
+During the migration period Kleiderkreisel will be responsible for the transfer of your user information from Kleiderkreisel to Vinted, UAB,
+
+During the migration period Vinted, UAB will be responsible for retrieving your personal information, which has been transferred by Kleiderkreisel.
+
+Vinted, UAB is responsible for informing you about the processing of your personal data in accordance with Art. 13 and Art. 14 of the GDPR, which is provided to you above this section in this Privacy Policy. In addition, Vinted, UAB is also responsible for providing you with the essence of the arrangement between Vinted, UAB and Kleiderkreisel, in accordance with Art. 26 (2) sentence 2 of the GDPR.
+
+Contact point for exercising rights: For any request to exercise your right or any claim relating to the aforementioned data collection and use, you should directly address Vinted, UAB at the following email address: dpo@vinted.de as Vinted, UAB is the main contact point (Art. 26 (1) sentence 3 of the GDPR) for such matters. If you still need to contact Kleiderkreisel directly, you can contact the data protection officer at the following email addresses: [dpo@kleiderkreisel.de](mailto:dpo@kleiderkreisel.de) or [dpo@mamikreisel.de](mailto:dpo@mamikreisel.de). Your rights in this context means the right to request from the controller access (Art. 15 of the GDPR) to and rectification (Art. 16 of the GDPR) or erasure of personal data (Art. 17 GDPR) or restriction of processing concerning you (Art. 18 GDPR) or to object to processing (Art. 21 of the GDPR) as well as the right to data portability (Art. 20 GDPR). Vinted, UAB acknowledges that you may, in general, contact either Vinted, UAB or Kleiderkreisel to exercise your respective rights. Vinted, UAB and Kleiderkreisel will forward your request to the other party where this is needed for fulfilling data subject’s rights.
+
+All other duties under the GDPR are fulfilled by both Vinted, UAB and Kleiderkreisel. Those other duties do not involve you as a data subject directly, but rather general duties of controllers such as maintaining security measures and keeping a record of processing activities.
 
 2.2. To improve your experience when using the Platform
 -------------------------------------------------------
@@ -567,7 +615,8 @@ If you wish to participate in the survey, the information above will be collecte
 
 We will anonymize your responses after 3 months - this means that the responses will no longer be associated with you.
 
-*   **To enable you to share your user journey**
+**2.2.15. To enable you to share your user journey**
+----------------------------------------------------
 
 We constantly improve our Platform and look for ways to improve your experience when using Vinted. In case where you consent, we enable you to share your user journey through our Platform. We will collect and use the following data:
 
@@ -582,8 +631,6 @@ We constantly improve our Platform and look for ways to improve your experience 
 Legal basis for inviting you to participate in the sharing of your user journey is our legitimate interest to receive feedback from our members and use it to improve the Platform (Art. 6 (1) (f) of the GDPR.
 
 If you wish to participate in the survey, the information above will be collected based on your consent (Art. 6 (1) (a) of the GDPR).
-
-In order to enable you to share your journey through our Platform, we use a service provider Lookback Group Inc. (USA). Personal data is protected in accordance to [Privacy Shield](https://www.privacyshield.gov/participant?id=a2zt00000008TU8AAM&status=Active) program.
 
 We will anonymize your responses after 3 months - this means that the responses will no longer be associated with you.
 
@@ -647,7 +694,7 @@ When you verify your phone number, Vinted will collect and use your phone number
 
 Personal data for mandatory verification are required to perform a contract (GTC) with you. In case you do not provide us with this personal data, we will not be able to conclude and execute a contract (GTC) with you.
 
-In order to carry out phone number verification and 2-step verification, we use a service provider Nexmo Inc. (USA) that enables us to send you verification messages or make verification calls to dictate verification code when you do not verify your phone number in 5 minutes. While this results in your data being shared outside the European Economic Area, the data is protected by the service provider entering into the EU [Standard Contractual Clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en) for the transfer of data as approved by the European Commission.
+In order to carry out phone number verification and 2-step verification, we use a service provider Nexmo Inc. (USA) that enables us to send you verification messages or make verification calls to dictate verification code when you do not verify your phone number in 5 minutes. While this results in your data being shared outside the European Economic Area, the data is protected by the service provider entering into the EU [Standard Contractual Clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en) for the transfer of data as approved by the European Commission.
 
 Vinted collects and uses your personal data for this purpose for as long as we keep your Vinted account - for 3 months from the date of deletion of your Vinted account or for 5 years and 3 months of inactivity on your account.
 
@@ -809,16 +856,15 @@ Most of your personal data are required to perform a contract (GTC) with you. In
 
 This data is also used for improvement of the Platform in order to make it a better experience for our members (see 2.2.12).
 
-2.5.1. To allow you to add a bank card for payment purposes
------------------------------------------------------------
+### 2.5.1. To allow you to make a purchase and add a bank card for payment purposes
 
-When you add a bank card or purchase items via the Platform, we collect and use the following data for the purpose of allowing you to make payments:
+When you add a bank card or purchase an item or our extra services via the Platform, we collect and use the following data for the purpose of allowing you to make payments:
 
 1.  Full name;
 2.  First six and last four digits of your credit card number;
-3.  Expiration date. 
+3.  Expiration date.
 
-When you add a bank card or purchase items via the Platform, relevant payment service provider (please see 2.5.3, 2.5.4 and 2.5.5 below) receives the following data:
+When you add a bank card or purchase an item or our extra services via the Platform, relevant payment service provider (please see **2.5.3, 2.5.4 and 2.5.5** below) receives the following data:
 
 1.  Full name;
 2.  Credit card number;
@@ -828,6 +874,10 @@ When you add a bank card or purchase items via the Platform, relevant payment se
 Legal basis for the collection and use of data is the performance of a contract (compliance with our GTC) to which you are party (Art. 6 (1) (b) of the GDPR).
 
 Personal data are required to perform a contract (GTC) with you. In case you do not provide us with this personal data, we will not be able to conclude and execute a contract (GTC) with you.
+
+When you make a purchase, we will store your credit card details for future use. Legal basis for the collection and use is the legitimate interest of Vinted and its members (Art. 6 (1) (f) of the GDPR) to facilitate subsequent purchases on the Platform and improve the experience making the Platform more convenient.
+
+You can easily opt-out of further storage of your card details both at the time of purchase and afterwards by removing the credit card from your account by going into settings and removing it as a payment method.
 
 Vinted collects and uses your personal data for this purpose for as long as we keep your Vinted account - for 3 months from the date of deletion of your Vinted account or for 5 years and 3 months of inactivity on your account.
 
@@ -840,7 +890,6 @@ When you add a bank account for withdrawal purposes, we collect and use the foll
 
 1.  Account holder’s name;
 2.  Account number;
-3.  Address.
 
 Legal basis for the collection and use of data is the performance of a contract (compliance with our GTC) to which you are party (Art. 6 (1) (b) of the GDPR).
 
@@ -848,7 +897,7 @@ Personal data are required to perform a contract (GTC) with you. In case you do 
 
 Vinted collects and uses your personal data for this purpose for as long as we keep your Vinted account - for 3 months from the date of deletion of your Vinted account or for 5 years and 3 months of inactivity on your account.
 
-2.5.3. To enable you to pay on our .fr, .nl, .be, .lu, .es, .uk, [.de](http://www.kleiderkreisel.de/), .at Platforms
+2.5.3. To enable you to pay on our .fr, .nl, .be, .lu, .es, .uk, [.de](http://www.kleiderkreisel.de/), .at Platforms
 --------------------------------------------------------------------------------------------------------------------
 
 Please note, this section only applies to our French, Dutch, Belgian, Luxembourg, Spanish, English, German and Austrian Platforms.
@@ -873,7 +922,7 @@ MANGOPAY, within the context of the regulated services provided to our members a
 
 Vinted uses the services of MANGOPAY in order to generate on its payment page the input fields to collect payment data. The purpose of this processing is determined by Vinted, as the publisher of the Platform and its payment page. However, MANGOPAY determines the data input fields and communicates with the payment service provider selected by MANGOPAY.
 
-You can find out more on how MANGOPAY collects and uses your data by consulting the privacy policy of MANGOPAY, accessible at the following address: [www.mangopay.com/privacy/](https://www.mangopay.com/privacy/).
+You can find out more on how MANGOPAY collects and uses your data by consulting the privacy policy of MANGOPAY, accessible at the following address: [www.mangopay.com/privacy/](https://www.mangopay.com/privacy/).
 
 Legal basis for the collection and use of data is the performance of a contract (compliance with our GTC) to which you are party (Art. 6 (1) (b) of the GDPR).
 
@@ -896,7 +945,7 @@ All other duties under the GDPR are fulfilled by both Vinted and MANGOPAY. Those
 
 Please note, this section only applies to our Polish Platform.
 
-If you sell your items on the Platform, to be able to sell your products on the Platform, you need to accept the payment service provider ADYEN N.V. (Netherlands) (“**ADYEN**”) Marketpay Terms and Conditions. This happens during the onboarding flow on our website. In accordance with the ADYEN Marketpay Terms and Conditions, Vinted will share personal data about you with ADYEN. ADYEN processes this information in accordance with applicable laws and with the ADYEN [Privacy Policy](https://www.adyen.com/policies-and-disclaimer/privacy-policy).
+If you sell your items on the Platform, to be able to sell your products on the Platform, you need to accept the payment service provider ADYEN N.V. (Netherlands) (“**ADYEN**”) Marketpay Terms and Conditions. This happens during the onboarding flow on our website. In accordance with the ADYEN Marketpay Terms and Conditions, Vinted will share personal data about you with ADYEN. ADYEN processes this information in accordance with applicable laws and with the ADYEN [Privacy Policy](https://www.adyen.com/policies-and-disclaimer/privacy-policy).
 
 If you buy items on the Platform, ADYEN will collect the payment information required according to the payment method selected (e.g. credit card etc.) and needed to verify and process your transaction. To this extent, the data protection regulations of ADYEN and the relevant payment service provider will apply.
 
@@ -904,7 +953,7 @@ We do not receive your full card data (we only receive data described in 2.5.1 a
 
 Vinted uses the services of ADYEN in order to generate on its payment page the input fields to collect payment data. The purpose of this processing is determined by Vinted, as the publisher of the Platform and its payment page. However, ADYEN determines the data input fields and communicates with the payment service provider selected by ADYEN.
 
-If you need to contact ADYEN directly, you can contact their data protection officer at the following email address: [dpo@adyen.com](mailto:dpo@adyen.com). We acknowledge that you may, in general, contact either Vinted or ADYEN to exercise your respective rights. Vinted and ADYEN will forward your request to the other party where this is needed for fulfilling data subject’s rights. All duties under the GDPR are fulfilled by both Vinted and ADYEN.
+If you need to contact ADYEN directly, you can contact their data protection officer at the following email address: [dpo@adyen.com](mailto:dpo@adyen.com). We acknowledge that you may, in general, contact either Vinted or ADYEN to exercise your respective rights. Vinted and ADYEN will forward your request to the other party where this is needed for fulfilling data subject’s rights. All duties under the GDPR are fulfilled by both Vinted and ADYEN.
 
 Legal basis for the collection and use of data is the performance of a contract (compliance with our GTC) to which you are party (Art. 6 (1) (b) of the GDPR).
 
@@ -937,7 +986,7 @@ STRIPE, within the context of the regulated services provided to our members as 
 
 Vinted uses the services of STRIPE in order to generate on its payment page the input fields to collect payment data. The purpose of this processing is determined by Vinted, as the publisher of the Platform and its payment page. However, STRIPE determines the data input fields and communicates with the payment service provider selected by STRIPE.
 
-You can find out more on how STRIPE collects and uses your data by consulting the privacy policy of STRIPE, accessible at the following address: [https://stripe.com/privacy](https://stripe.com/privacy). If you still need to contact STRIPE directly, you can contact their data protection officer at the following email address: [privacy@stripe.com](mailto:privacy@stripe.com). We acknowledge that you may, in general, contact either Vinted or STRIPE to exercise your respective rights. Vinted and STRIPE will forward your request to the other party where this is needed for fulfilling data subject’s rights. All duties under the GDPR are fulfilled by both Vinted and STRIPE.
+You can find out more on how STRIPE collects and uses your data by consulting the privacy policy of STRIPE, accessible at the following address: [https://stripe.com/privacy](https://stripe.com/privacy). If you still need to contact STRIPE directly, you can contact their data protection officer at the following email address: [privacy@stripe.com](mailto:privacy@stripe.com). We acknowledge that you may, in general, contact either Vinted or STRIPE to exercise your respective rights. Vinted and STRIPE will forward your request to the other party where this is needed for fulfilling data subject’s rights. All duties under the GDPR are fulfilled by both Vinted and STRIPE.
 
 Legal basis for the collection and use of data is the performance of a contract (compliance with our GTC) to which you are party (Art. 6 (1) (b) of the GDPR).
 
@@ -945,7 +994,7 @@ Personal data are required to perform a contract (GTC) with you. In case you do 
 
 Transaction data are kept for 13 months from the day of transaction.
 
-2.5.6. To implement Know Your Customer (KYC) checks on .fr, .nl, .be, .lu, .es, .uk, [.de](http://www.kleiderkreisel.de/), .at Platforms
+2.5.6. To implement Know Your Customer (KYC) checks on .fr, .nl, .be, .lu, .es, .uk, [.de](http://www.kleiderkreisel.de/), .at Platforms
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 Please note, this section only applies to our French, Dutch, Belgian, Luxembourg, Spanish, English, German and Austrian Platforms.
@@ -1010,7 +1059,7 @@ This is necessary in order to fulfill our legitimate interest to provide STRIPE 
 
 Personal data collected and used for the aforementioned purpose are kept until this information is transferred to our payment service provider STRIPE.
 
-2.5.9. To carry out Politically Exposed Persons (PEP) checks on .fr, .nl, .be, .lu, .es, .uk, [.de](http://www.kleiderkreisel.de/), .at Platforms
+2.5.9. To carry out Politically Exposed Persons (PEP) checks on .fr, .nl, .be, .lu, .es, .uk, [.de](http://www.kleiderkreisel.de/), .at Platforms
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
 Please note, this section only applies to our French, Dutch, Belgian, Luxembourg, Spanish, English, German and Austrian Platforms.
@@ -1028,7 +1077,6 @@ In rare cases, additional information may be required in order to continue using
 9.  Information related to relatives that are PEP – connection to the PEP, full names, dates and places of birth;
 10.  Current job;
 11.  Date;
-12.  Signature.
 
 This is necessary in order to comply with the legal obligations to which MANGOPAY is subject (Art. 6 (1) (c) and 9 (2) (g) of the GDPR).
 
@@ -1096,21 +1144,24 @@ Personal data are required to perform a contract (GTC) with you. In case you do 
 We provide personal data collected and used for this purpose to the following recipients:
 
 1.  Seller of the item;
-2.  If we are unable to gather tracking information directly from a particular shipping provider, we use a tracking service provider AfterShip Limited (Hong Kong, China). Personal data is protected by the service provider entering into the [EU Standard Contractual Clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en) for the transfer of data as approved by the European Commission;
+2.  If we are unable to gather tracking information directly from a particular shipping provider, we use a tracking service provider AfterShip Limited (Hong Kong, China). Personal data is protected by the service provider entering into the [EU Standard Contractual Clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en)for the transfer of data as approved by the European Commission;
 3.  If the shipping provider directly integrates its shipping services with Vinted, we also provide the aforementioned data directly to your chosen shipping provider:
 
-*   *   1\. Mondial Relay (France);
-    *   2\. Chronopost (France);
-    *   3\. Mondial Relay S.A.S.U. Sucursal en España (Spain);
-    *   4\. Sociedad Estatal Correos y Telegrafos, S.A.S.M.E. (Spain);
-    *   5\. Hermes Parcelnet Limited (United Kingdom);
-    *   6\. PostNL B.V. (Netherlands);
-    *   7\. Koninklijke PostNL B.V. (Netherlands);
-    *   8\. DHL Parcel (Netherlands) B.V.;
-    *   9\. DPD (Nederland) B.V.;
-    *   10\. Hermes Germany GmbH (Germany);
-    *   11\. Packlink Shipping S.L. (Germany);
-    *   12\. InPost S.A. (Poland).
+*   *   Mondial Relay (France);
+    *   Chronopost (France);
+    *   Mondial Relay S.A.S.U. Sucursal en España (Spain);
+    *   Sociedad Estatal Correos y Telegrafos, S.A.S.M.E. (Spain);
+    *   Hermes Parcelnet Limited (United Kingdom);
+    *   PostNL B.V. (Netherlands);
+    *   Koninklijke PostNL B.V. (Netherlands);
+    *   DHL Parcel (Netherlands) B.V.;
+    *   DPD (Nederland) B.V.;
+    *   Hermes Germany GmbH (Germany);
+    *   Packlink Shipping S.L. (Spain);
+    *   InPost S.A. (Poland);
+    *   UPS Europe SRL/BV (Belgium);
+    *   DPD Deutschland GmbH (Germany);
+    *   General Logistics Systems Germany GmbH & Co. OHG (Germany).
 
 Otherwise, it is up to the seller to follow the instructions and provide your data to the shipping provider.
 
@@ -1126,7 +1177,7 @@ When you buy, sell or swap items on the Platform, we collect and use the followi
 3.  Address;
 4.  Location of the parcel. 
 
-If we are unable to gather tracking information directly from a particular shipping provider, we provide the aforementioned information to a tracking service provider AfterShip Limited (Hong Kong, China). Personal data is protected by the service provider entering into the [EU Standard Contractual Clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en/PDF/?uri=CELEX:32010D0087&from=en) for the transfer of data as approved by the European Commission.
+If we are unable to gather tracking information directly from a particular shipping provider, we provide the aforementioned information to a tracking service provider AfterShip Limited (Hong Kong, China). Personal data is protected by the service provider entering into the [EU Standard Contractual Clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en/PDF/?uri=CELEX:32010D0087&from=en) for the transfer of data as approved by the European Commission.
 
 Legal basis for the collection and use of data is the performance of a contract (GTC) to which you are party (Art. 6 (1) (b) of the GDPR).
 
@@ -1148,8 +1199,6 @@ We base such collection and use on your consent (Art. 6 (1) (a) of the GDPR, Art
 
 Your permission for the sending of Marketing Emails can be given and withdrawn by you at any time with future effect. In your Vinted account, you can adjust your settings to choose what emails you wish to receive or disable the sending of any further Marketing Emails. Alternatively, you can click "Unregister" at the end of the Marketing Email. Withdrawal of permission will not affect the lawfulness of collection and use carried out prior to withdrawal of permission.
 
-In order to send the Marketing Emails, Vinted uses services provided by Braze, Inc. (USA) and for this purpose shares personal data. Data are protected in accordance with [Privacy Shield Program](https://www.privacyshield.gov/participant?id=a2zt00000004TtdAAE&status=Active).
-
 Vinted collects and uses your personal data for this purpose for as long as we keep your Vinted account - for 3 months from the date of deletion of your Vinted account or for 5 years and 3 months of inactivity on your account or until you withdraw your permission.
 
 2.7.2. To personalize marketing messages
@@ -1160,8 +1209,6 @@ Vinted will use the data used to register you on the Platform (see above under 2
 We base such collection and use on our legitimate interest to present you with marketing messages that we consider relevant to you (Art. 6(1)(f) of the GDPR).
 
 You can, at any time, choose not to receive personalized marketing and advertisements by changing relevant settings by going to the Privacy settings page on your Vinted account. Withdrawal of permission will not affect the lawfulness of collection and use carried out prior to withdrawal of permission.
-
-To personalize marketing messages to you, Vinted uses services provided by Braze, Inc. (USA) and for this purpose shares personal data. Data are protected in accordance with [Privacy Shield Program](https://www.privacyshield.gov/participant?id=a2zt00000004TtdAAE&status=Active).
 
 Vinted collects and uses your personal data for this purpose for as long as we keep your Vinted account - for 3 months from the date of deletion of your Vinted account or for 5 years and 3 months of inactivity on your account.
 
@@ -1208,12 +1255,11 @@ You can, at any time, give and retract your consent by logging in on the Platfor
 In order to post your content on our social media accounts, we provide data to the following social media platform operators:
 
 1.  LinkedIn Ireland Unlimited Company (Ireland);
-2.  LinkedIn Corporation (USA) (data is protected in accordance with [Privacy Shield](https://www.privacyshield.gov/participant?id=a2zt0000000L0UZAA0) program);
+2.  LinkedIn Corporation (USA) (personal data is protected by the service provider entering into the [EU Standard Contractual Clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en)for the transfer of data as approved by the European Commission));
 3.  Google Ireland Ltd. (Ireland);
-4.  Google LLC (USA) (data is protected in accordance with [Privacy Shield](https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI) program);
+4.  Google LLC (USA) (personal data is protected by the service provider entering into the [EU Standard Contractual Clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en)for the transfer of data as approved by the European Commission);
 5.  Facebook Ireland Ltd. (Ireland);
-6.  Facebook, Inc. (USA) (data is protected in accordance with [Privacy Shield](https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC) program);
-7.  Twitter, Inc. (USA) (data is protected in accordance with [Privacy Shield](https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO) program).
+6.  Facebook, Inc. (USA) (personal data is protected by the service provider entering into the [EU Standard Contractual Clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en)for the transfer of data as approved by the European Commission).
 
 Vinted collects and uses your personal data for this purpose for as long as we keep your Vinted account - for 3 months from the date of deletion of your Vinted account or for 5 years and 3 months of inactivity on your account or until you withdraw your permission.
 
@@ -1247,13 +1293,12 @@ We base such collection and use on our legitimate business interest to evaluate 
 
 In order to carry out the aforementioned evaluating, we use services provided by the following service providers and for this purpose transfer personal data:
 
-1.  Adjust GmbH (Germany);
-2.  Braze, Inc. (USA). Data are protected in accordance with [Privacy Shield Program](https://www.privacyshield.gov/participant?id=a2zt00000004TtdAAE&status=Active).
+1.  Adjust GmbH (Germany).
 
 In order to optimize our advertising campaigns, we send certain information on your activities like app opens, sessions, registrations, logins, information about you listing an item, uploading item’s photo or buying an item, etc. to Google and Facebook advertising platforms. Thus, we transfer the data of your activities to the following recipients:
 
-1.  Facebook. Data are protected in accordance with [Privacy shield program](https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC);
-2.  Google. Data are protected in accordance with [Privacy shield program](https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI).
+1.  Facebook (personal data is protected by the service provider entering into the [EU Standard Contractual Clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en)for the transfer of data as approved by the European Commission);
+2.  (personal data is protected by the service provider entering into the [EU Standard Contractual Clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en)for the transfer of data as approved by the European Commission).
 
 Vinted collects and uses your personal data for this purpose for as long as we keep your Vinted account - for 3 months from the date of deletion of your Vinted account or for 5 years and 3 months of inactivity on your account.
 
@@ -1283,13 +1328,11 @@ We base such collection and use on our legitimate interest to manage our social 
 In order to manage our social media accounts, we receive and provide data to the following social media platform operators:
 
 1.  LinkedIn Ireland Unlimited Company (Ireland);
-2.  LinkedIn Corporation (USA) (data is protected in accordance with [Privacy Shield](https://www.privacyshield.gov/participant?id=a2zt0000000L0UZAA0) program);
+2.  LinkedIn Corporation (USA) (personal data is protected by the service provider entering into the [EU Standard Contractual Clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en)for the transfer of data as approved by the European Commission);
 3.  Google Ireland Ltd. (Ireland);
-4.  Google LLC (USA) (data is protected in accordance with [Privacy Shield](https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI) program);
+4.  Google LLC (USA) (personal data is protected by the service provider entering into the [EU Standard Contractual Clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en)for the transfer of data as approved by the European Commission);
 5.  Facebook Ireland Ltd. (Ireland);
-6.  Facebook, Inc. (USA) (data is protected in accordance with [Privacy Shield](https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC) program);
-7.  Pinterest Inc. (USA) (data are protected in accordance with [Privacy Shield](https://www.privacyshield.gov/participant?id=a2zt00000008VVzAAM&status=Active) program);
-8.  Twitter, Inc. (USA) (data is protected in accordance with [Privacy Shield](https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO) program).
+6.  Facebook, Inc. (USA) (personal data is protected by the service provider entering into the [EU Standard Contractual Clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en)for the transfer of data as approved by the European Commission).
 
 Personal data collected and used for this purpose are kept as long as you are registered on a specific social media network.
 
@@ -1297,7 +1340,7 @@ _Joint Controllership with Facebook („page insights”)_
 
 Vinted operates a so-called fan page on the social media platform of Facebook. Facebook and Vinted are only jointly responsible for the processing of so-called "insights data" (Art. 26 (1) sentence 1 of the GDPR) insofar as this data is used for the creation of so-called "page insights" and only for the phases of the collection of data from Vinted's fan page until the transmission to Facebook. For other data processing, Vinted and Facebook are separately responsible for data processing.
 
-Within the scope of their joint controllership, Vinted and Facebook have entered into an agreement (so-called "[page insights controller addendum](https://www.facebook.com/legal/terms/page_controller_addendum)"). The agreement covers the data processing that is collected and used in connection with a visit or interaction with our fan page, but only to the extent that this data is also (subsequently) processed for "page insights". "Page insights" includes analysis services that help us to better understand interactions on our site. In this context, we do not receive any personal data from Facebook, but only an anonymous evaluation and illustration. Facebook provides more information on this on [its help page for "page insights"](https://de-de.facebook.com/help/pages/insights). The [information about data for "page insights"](https://www.facebook.com/legal/terms/information_about_page_insights_data) explains how "insights data" is collected and used to create "page insights". This includes the following actions:
+Within the scope of their joint controllership, Vinted and Facebook have entered into an agreement (so-called "[page insights controller addendum](https://www.facebook.com/legal/terms/page_controller_addendum)"). The agreement covers the data processing that is collected and used in connection with a visit or interaction with our fan page, but only to the extent that this data is also (subsequently) processed for "page insights". "Page insights" includes analysis services that help us to better understand interactions on our site. In this context, we do not receive any personal data from Facebook, but only an anonymous evaluation and illustration. Facebook provides more information on this on [its help page for "page insights"](https://de-de.facebook.com/help/pages/insights). The [information about data for "page insights"](https://www.facebook.com/legal/terms/information_about_page_insights_data) explains how "insights data" is collected and used to create "page insights". This includes the following actions:
 
 1.  Views and interactions with a page, post, video, story, or other content associated with a page;
 2.  Subscribing or unsubscribing to a page;
@@ -1324,7 +1367,7 @@ If you wish to exercise your rights regarding your data (see bullet point 6. bel
 
 \- The right of objection (Art. 21 of the GDPR).
 
-Facebook provides more details on how to exercise these rights in the ["page insights data" information](https://www.facebook.com/legal/terms/information_about_page_insights_data).
+Facebook provides more details on how to exercise these rights in the ["page insights data" information](https://www.facebook.com/legal/terms/information_about_page_insights_data).
 
 2.7.9. To enable you to participate in Vinted’s referrals program
 -----------------------------------------------------------------
@@ -1356,11 +1399,7 @@ Vinted collects and uses your personal data for this purpose for as long as we k
 
 If you use your statutory rights regarding your data (see 6 below), we will collect and use the data contained in your request in addition to any other personal data held by Vinted for the purpose of examining the request, responding to it and, when necessary, taking necessary action.
 
-In order to respond to requests, Vinted provides your data to service partners which provide data protection officer’s services and consult us on questions of data protection law:
-
-1.  UAB Dataistic (Lithuania);
-2.  Datenschutz nord GmbH (Germany);
-3.  Reusch Rechtsanwaltsgesellschaft mbH (Germany).
+In order to respond to requests, Vinted provides your data to service partners which provide data protection officer’s services and consult us on questions of data protection law.
 
 We base such collection and use on a legitimate interest to exercise our members’ rights (Art. 6 (1) (f) of the GDPR).
 
@@ -1443,13 +1482,13 @@ Vinted transfers or shares personal data with service providers only insofar as 
 
 We constantly conduct and improve technical maintenance of the Platform to protect the security and confidentiality of personal data we process and to perform certain business-related functions that help make our services available and functional. For this reason, we transfer your profile data to service providers which provide cloud and hosting services, IT security, maintenance and technical services, communications services:
 
-1.  Amazon Web Services, Inc. (USA)  (data are protected in accordance with [Privacy shield](https://www.privacyshield.gov/participant?id=a2zt0000000TOWQAA4#other-covered-entities) program);
-2.  Google Ireland Ltd. (Ireland), Google LLC (USA) (data are protected in accordance with [Privacy shield](https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI) program);
-3.  Apple Distribution International (Ireland), Apple Inc. (USA) (personal data is protected by the service provider entering into the [EU Standard Contractual Clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en) for the transfer of data as approved by the European Commission);
+1.  Amazon Web Services, Inc. (USA)  (personal data is protected by the service provider entering into the [EU Standard Contractual Clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en)for the transfer of data as approved by the European Commission);
+2.  Google Ireland Ltd. (Ireland), Google LLC (USA) (personal data is protected by the service provider entering into the [EU Standard Contractual Clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en)for the transfer of data as approved by the European Commission);
+3.  Apple Distribution International (Ireland), Apple Inc. (USA) (personal data is protected by the service provider entering into the [EU Standard Contractual Clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en)for the transfer of data as approved by the European Commission);
 4.  UAB “Rakrėjus” (Lithuania);
 5.  Telia Lietuva AB (Lithuania);
-6.  Microsoft Ireland Operations Limited (Ireland), Microsoft Corporation (USA) (data are protected in accordance with [Privacy shield](https://www.privacyshield.gov/participant?id=a2zt0000000KzNaAAK&status=Active) program);
-7.  Slack Technologies, Inc. (USA) (data are protected in accordance with [Privacy shield](https://www.privacyshield.gov/participant?id=a2zt0000000GnMBAA0) program).
+6.  Microsoft Ireland Operations Limited (Ireland), Microsoft Corporation (USA) (personal data is protected by the service provider entering into the [EU Standard Contractual Clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en)for the transfer of data as approved by the European Commission);
+7.  Slack Technologies, Inc. (personal data is protected by the service provider entering into the [EU Standard Contractual Clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en)for the transfer of data as approved by the European Commission).
 
 We transfer personal data to attorneys, attorney’s assistants, notaries, bailiffs, auditors, consultants, IT service providers, insurance companies, archiving services that provide services to Vinted.
 
@@ -1462,7 +1501,7 @@ Vinted may share your data with third parties when transferring rights and oblig
 4\. Use of cookies
 ------------------
 
-Vinted uses cookies on the Platform. You can find out more by visiting our [Cookie Policy](https://www.vinted.com/cookie-policy).
+Vinted uses cookies on the Platform. You can find out more by visiting our [Cookie Policy](https://www.vinted.com/cookie-policy).
 
 5\. Right of amendment
 ----------------------
@@ -1502,7 +1541,7 @@ You have a right to request the deletion of your personal data collected and mai
 6.4. What is my Right to Opt-Out of sharing my personal data with ad partners?
 ------------------------------------------------------------------------------
 
-We provide Usage Data to advertising partners, which enables us to provide you with interest-based advertising. For more information on interest-based advertising, please see our [Cookie Policy](https://www.vinted.com/cookie-policy). You have a right to direct us to stop sharing your personal data with our [ad partners](https://www.vinted.com/third-party-ads), and to refrain from doing so in the future. If you wish to do so, please adjust the settings accordingly by going to our [Cookie Policy](https://www.vinted.com/cookie-policy).
+We provide Usage Data to advertising partners, which enables us to provide you with interest-based advertising. For more information on interest-based advertising, please see our [Cookie Policy](https://www.vinted.com/cookie-policy). You have a right to direct us to stop sharing your personal data with our [ad partners](https://www.vinted.com/third-party-ads), and to refrain from doing so in the future. If you wish to do so, please adjust the settings accordingly by going to our [Cookie Policy](https://www.vinted.com/cookie-policy).
 
 6.5. How will you verify my request?
 ------------------------------------
@@ -1519,19 +1558,19 @@ Sure. You may use an authorized agent to submit a request to opt-out on your beh
 
 If you have any queries regarding the collection and use of your data as part of your use of the Platform, or regarding your rights, please contact our data protection officer at
 
-If you use our .fr, .es, .be, .nl or .lu Platform: [dpo@vinted.fr](mailto:dpo@vinted.fr)
+If you use our .fr, .es, .be, .nl or .lu Platform: [dpo@vinted.fr](mailto:dpo@vinted.fr)
 
-If you use our .lt Platform: [dpo@vinted.lt](mailto:dpo@vinted.lt)
+If you use our .lt Platform: [dpo@vinted.lt](mailto:dpo@vinted.lt)
 
-If you use our .de or .at Platform: [dpo@kleiderkreisel.de](mailto:dpo@kleiderkreisel.de) or [dpo@mamikreisel.de](mailto:dpo@mamikreisel.de)
+If you use our .de or .at Platform: [dpo@vinted.de](mailto:dpo@vinted.de),  [dpo@kleiderkreisel.de](mailto:dpo@kleiderkreisel.de) or [dpo@mamikreisel.de](mailto:dpo@mamikreisel.de)
 
-If you use our .pl Platform: [dpo@vinted.pl](mailto:dpo@vinted.pl)
+If you use our .pl Platform: [dpo@vinted.pl](mailto:dpo@vinted.pl)
 
-If you use our .cz Platform: [dpo@vinted.cz](mailto:dpo@vinted.cz)
+If you use our .cz Platform: [dpo@vinted.cz](mailto:dpo@vinted.cz)
 
-If you use our .uk Platform: [dpo@vinted.co.uk](mailto:dpo@vinted.co.uk)
+If you use our .uk Platform: [dpo@vinted.co.uk](mailto:dpo@vinted.co.uk)
 
-If you use our .com Platform: [dpo@vinted.com](mailto:dpo@vinted.com)
+If you use our .com Platform: [dpo@vinted.com](mailto:dpo@vinted.com)
 
 **Vinted data protection officer:** 
 
