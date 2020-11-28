@@ -2267,7 +2267,7 @@ Il est expressément rappelé que l’Abonné pro ne bénéficie pas du droit de
 Cdiscount se réserve le droit de résilier l’Abonnement au Service pour motifs légitimes et notamment, sans que cette liste soit exhaustive dans l’hypothèse où l’Abonné Pro :  
 • ne respecterait pas les stipulations des présentes CGA ;  
 • ne s’acquitterait pas du montant de son Abonnement, au moment de la souscription ou lors de son renouvellement ;  
-• utiliserait le Service de manière frauduleuse ou en contravention avec les exclusions prévues à l’article 1.1 des CGA.  
+• utiliserait le Service de manière frauduleuse ou en contravention avec les exclusions prévues à l’article 1.2 des CGA.  
 • ferait bénéficier un tiers de l’Abonnement au Service.  
 La résiliation de l’Abonnement sera effective immédiatement, sans préavis ni indemnité auprès de l’Abonné Pro qui n’aurait pas respecté les présentes CGA. De plus, Cdiscount se réserve la faculté d’engager toute poursuite qu’elle jugerait utile à l’encontre de l’Abonné Pro afin d’obtenir réparation du préjudice subi de l’utilisation frauduleuse du Service par un Abonné Pro.   
   
