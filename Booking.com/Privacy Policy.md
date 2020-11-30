@@ -318,9 +318,9 @@ In certain circumstances, we’ll share your personal data with third parties. T
     
     For fraud detection and prevention purposes, we may also exchange information about our users with business partners – but only when strictly necessary
     
-    *   Booking.Basic: We may enable you to book using Booking.Basic. Booking.Basic means that your reservation is facilitated by a Trip Provider separate from the booked accommodation. As part of the reservation process, we’ll need to share some relevant personal data with this business partner.
+    *   Partner Offer: We may enable you to book using Partner Offer. Partner Offer means that your reservation is facilitated by a Trip Provider separate from the booked accommodation. As part of the reservation process, we’ll need to share some relevant personal data with this Trip Provider.
         
-        If Booking.Basic is used, please review the information provided in the booking process or check your reservation confirmation for more information about the Trip Provider and how your personal data is further processed by them.
+        If Partner Offer is used, please review the information provided in the booking process or check your reservation confirmation for more information about the Trip Provider and how your personal data is further processed by them.
         
 6.  The Booking Holdings Inc. corporate group: Read about [how we share your personal data with the Booking Holdings Inc. corporate group](#personal-data-holdings-shared-how).
     
