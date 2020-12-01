@@ -122,7 +122,7 @@ In return for our commitment to provide the Service, we require you to make the 
 
 **Our Agreement.**
 
-*   Your use of music on the Service is also subject to our [Music Guidelines](https://www.facebook.com/legal/music_guidelines), and your use of our API is subject to our [Facebook Platform Terms and Developer Policies](https://developers.facebook.com/terms). If you use certain other features or related services, you will be provided with an opportunity to agree to additional terms that will also become a part of our agreement. For example, if you use payment features, you will be asked to agree to the [Community Payment Terms](https://www.facebook.com/payments_terms). If any of those terms conflict with this agreement, those other terms will govern.
+*   Your use of music on the Service is also subject to our [Music Guidelines](https://www.facebook.com/legal/music_guidelines), and your use of our API is subject to our [Platform Policy](https://www.instagram.com/about/legal/terms/api/). If you use certain other features or related services, you will be provided with an opportunity to agree to additional terms that will also become a part of our agreement. For example, if you use payment features, you will be asked to agree to the [Community Payment Terms](https://www.facebook.com/payments_terms). If any of those terms conflict with this agreement, those other terms will govern.
     
 *   If any aspect of this agreement is unenforceable, the rest will remain in effect.
     
@@ -149,9 +149,7 @@ In return for our commitment to provide the Service, we require you to make the 
 
 **How We Will Handle Disputes.**
 
-> If a claim or dispute arises out of or relates to your use of the Service as a consumer, both you and us agree that you may resolve your individual claim or dispute against us, and we may resolve our claim or dispute against you, in any competent court in the country of your main residence that has jurisdiction over your claim or dispute, and the laws of that country will apply without regard to conflict of law provisions.  
->   
-> If a claim or dispute arises between us that relates to use of the Service in any other capacity, including, but not limited to, access or use of the Service for a business or commercial purpose, you agree that any such claim or dispute must be resolved in a competent court in Ireland and that Irish law will apply without regard to conflict of law provisions.
+> If you are a consumer and habitually reside in a Member State of the European Union, the laws of that Member State will apply to any claim, cause of action, or dispute you have against us that arises out of or relates to these Terms ("claim"), and you may resolve your claim in any competent court in that Member State that has jurisdiction over the claim. In all other cases, you agree that the claim must be resolved in a competent court in the Republic of Ireland and that Irish law will govern these Terms and any claim, without regard to conflict of law provisions.
 
 **Unsolicited Material.**
 
