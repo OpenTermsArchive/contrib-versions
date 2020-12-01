@@ -16,7 +16,7 @@ This Policy applies to your use of the Service if you are a residential XFINITY 
 **How will I know when Comcast changes this Policy and how do I report violations of it?**
 ------------------------------------------------------------------------------------------
 
-Comcast may revise this Policy from time to time by posting a new version on the web site at [https://www.xfinity.com/](https://www.xfinity.com/) or any successor URL(s) (the “XFINITY Web site”). Comcast will use reasonable efforts to make customers aware of any changes to this Policy, which may include sending email announcements or posting information on the XFINITY Web site. Revised versions of this Policy are effective immediately upon posting. Accordingly, customers of the Service should read any Comcast announcements they receive and regularly visit the XFINITY Web site and review this Policy to ensure that their activities conform to the most recent version. You can send questions regarding this Policy to, and report violations of it, at [https://www.xfinity.com/support/account/ways-to-get-help/](https://www.xfinity.com/support/account/ways-to-get-help/). To report child exploitation or another child-related incident involving the Internet, go to [https://internetsecurity.xfinity.com/help/report-abuse/](https://internetsecurity.xfinity.com/help/report-abuse/).
+Comcast may revise this Policy from time to time by posting a new version on the web site at [https://www.xfinity.com/](https://www.xfinity.com/) or any successor URL(s) (the “XFINITY Web site”). Comcast will use reasonable efforts to make customers aware of any changes to this Policy, which may include sending email announcements or posting information on the XFINITY Web site. Revised versions of this Policy are effective immediately upon posting. Accordingly, customers of the Service should read any Comcast announcements they receive and regularly visit the XFINITY Web site and review this Policy to ensure that their activities conform to the most recent version. You can send questions regarding this Policy to, and report violations of it, at [https://www.xfinity.com/support/account/ways-to-get-help](https://www.xfinity.com/support/account/ways-to-get-help). To report child exploitation or another child-related incident involving the Internet, go to [https://internetsecurity.xfinity.com/help/report-abuse](https://internetsecurity.xfinity.com/help/report-abuse).
 
 1.  **Prohibited Uses and Activities**
     ----------------------------------
@@ -54,7 +54,7 @@ Comcast may revise this Policy from time to time by posting a new version on the
     
     #### **Technical restrictions**
     
-    *   access any other person’s computer or computer system, network, software, or data without his or her knowledge and consent; breach the security of another user or system; or attempt to circumvent the user authentication or security of any host, network, or account. This includes, but is not limited to, accessing data not intended for you, logging into or making use of a server or account you are not expressly authorized to access, or probing the security of other hosts, networks, or accounts without express permission to do so;
+    *   access any other person’s computer or computer system, device, sensor, camera, network, software, or data without his or her knowledge and consent; breach the security of another user or system; or attempt to circumvent the user authentication or security of any host, network, or account. This includes, but is not limited to, accessing data not intended for you, logging into or making use of a server or account you are not expressly authorized to access, or probing the security of other hosts, networks, or accounts without express permission to do so;
         
     *   use or distribute tools or devices designed or used for compromising security or whose use is otherwise unauthorized, such as password guessing programs, decoders, password gatherers, keystroke loggers, analyzers, cracking tools, packet sniffers, encryption circumvention devices, or Trojan Horse programs. Unauthorized port scanning is strictly prohibited;
         
@@ -64,7 +64,7 @@ Comcast may revise this Policy from time to time by posting a new version on the
         
     *   use or run dedicated, stand-alone equipment or servers from the Premises that provide network content or any other services to anyone outside of your Premises local area network (“Premises LAN”), also commonly referred to as public services or servers. Examples of prohibited equipment and servers include, but are not limited to, email, web hosting, file sharing, and proxy services and servers;
         
-    *   use or run programs from the Premises that provide network content or any other services to anyone outside of your Premises LAN, except for personal and non-commercial residential use;
+    *   use or run programs, devices, or equipment from the Premises that provide network content or any other services to anyone outside of your Premises LAN, except for your personal and non-commercial residential use;
         
     *   service, alter, modify, or tamper with the Comcast Equipment or Service or permit any other person to do the same who is not authorized by Comcast;
         
@@ -77,13 +77,13 @@ Comcast may revise this Policy from time to time by posting a new version on the
         
     *   restrict, inhibit, or otherwise interfere, regardless of intent, purpose or knowledge, with the ability of any other person to use or enjoy the Service (except for tools for safety and security functions such as parental controls, for example), including, without limitation, posting or transmitting any information or software which contains a worm, virus, or other harmful feature, or
         
-    *   impede others’ ability to use, send, or retrieve information;
+    *   impede others’ ability to use, send, or retrieve information using the Service;
         
     *   restrict, inhibit, interfere with, or otherwise disrupt or cause a performance degradation, regardless of intent, purpose or knowledge, to the Service or any Comcast (or Comcast supplier) host, server, backbone network, node or service, or otherwise cause a performance degradation to any Comcast (or Comcast supplier) facilities used to deliver the Service;
         
     *   resell the Service or otherwise make available to anyone outside the Premises the ability to use the Service (for example, through WiFi or other methods of networking), in whole or in part, directly or indirectly, with the sole exception of your use of Comcast-provided WiFi service in accordance with its then-current terms and policies;
         
-    *   connect the Comcast Equipment to any computer outside of your Premises;
+    *   connect the Comcast Equipment to any computer or device outside of your Premises;
         
     *   interfere with computer networking or telecommunications service to any user, host or network, including, without limitation, denial of service attacks, flooding of a network, overloading a service, improper seizing and abusing operator privileges, and attempts to “crash” a host; or
         
@@ -98,7 +98,7 @@ Comcast may revise this Policy from time to time by posting a new version on the
     
     Comcast recommends against enabling file or printer sharing unless you do so in strict compliance with all security recommendations and features provided by Comcast and the manufacturer of the applicable file or printer sharing devices. Any files or devices you choose to make available for shared access on a home LAN, for example, should be protected with a strong password or as otherwise appropriate.
     
-    In all cases, you are solely responsible for the security of any device you connect to the Service, including any data stored or shared on that device. It is also your responsibility to secure the Customer Equipment and any other Premises equipment or programs not provided by Comcast that connect to the Service from external threats such as viruses, spam, bot nets, and other methods of intrusion.
+    In all cases, you are solely responsible for the security of any device you connect to the Service, including third party devices that provide or include any communications services, including any data stored or shared on that device. It is also your responsibility to secure the Customer Equipment and any other Premises equipment or programs not provided by Comcast that connect to the Service from external threats such as viruses, spam, bot nets, and other methods of intrusion.
     
     ### **How does Comcast address inappropriate content and transmissions?**
     
@@ -108,7 +108,7 @@ Comcast may revise this Policy from time to time by posting a new version on the
     
     The Service may not be used to communicate or distribute email or other forms of communications in violation of Section I of this Policy. As described below in Section III of this Policy, Comcast uses reasonable network management tools and techniques to protect customers from receiving spam and from sending spam (often without their knowledge over an infected computer). Comcast’s anti-spam approach is explained in the FAQs under the topic “What is Comcast doing about spam?” located at [https://www.xfinity.com/support/internet/reducing-spam-email/](https://www.xfinity.com/support/internet/reducing-spam-email/).
     
-    Comcast is not responsible for deleting or forwarding any email sent to the wrong email address by you or by someone else trying to send email to you. Comcast is also not responsible for forwarding email sent to any account that has been suspended or terminated. This email will be returned to the sender, ignored, deleted, or stored temporarily at Comcast’s sole discretion. If you cancel or terminate your Service account for any reason, all email associated with that account (and any secondary accounts) will be permanently deleted as well.
+    Comcast is not responsible for deleting or forwarding any email sent to the wrong email address by you or by someone else trying to send email to you. Comcast is also not responsible for forwarding email sent to any account that has been suspended or terminated. This email will be returned to the sender, ignored, deleted, or stored temporarily at Comcast’s sole discretion. If you cancel or terminate your Service account for any reason, all email associated with that account (and any secondary accounts) may be permanently deleted as well.
     
     If Comcast believes in its sole discretion that any subscriber name, account name, or email address (collectively, an “identifier”) on the Service may be used for, or is being used for, any misleading, fraudulent, or other improper or illegal purpose, Comcast (i) reserves the right to block access to and prevent the use of any of these identifiers and (ii) may at any time require any customer to change his or her identifier. In addition, Comcast may at any time reserve any identifiers on the Service for its own purposes.
     
@@ -148,37 +148,11 @@ Comcast may revise this Policy from time to time by posting a new version on the
 6.  **Copyright**
     -------------
     
-    ### **How does Comcast communicate with customers about copyright?**
-    
-    Comcast is committed to complying with U.S. copyright and related laws, and requires all customers and users of the Service to comply with these laws. Accordingly, you may not store any material or content on, or access, share or disseminate any material or content over, the Service (or any part of the Service) in any manner that constitutes an infringement of third party intellectual property rights, including rights granted by U.S. copyright law. Comcast complies with the Digital Millennium Copyright Act and provides a method for copyright owners to communicate information about alleged infringements to us, and for us to inform our customers about them. You may receive notices or alerts if your Service account is identified by a copyright owner as having been used in connection with acts of alleged copyright infringement.
-    
     ### **What is Comcast’s DMCA policy?**
     
-    Owners of copyrighted works who believe that their rights under U.S. copyright law have been infringed may take advantage of certain provisions of the Digital Millennium Copyright Act of 1998 (the “DMCA”) to report alleged infringements to us. In accordance with the DMCA and other applicable laws, Comcast also maintains a policy to terminate the Service, in appropriate circumstances, provided to any customer or user who is a repeat infringer of third party copyright rights. Comcast’s repeat infringer policy includes graduated or escalated alerts of alleged infringements, acknowledgement of alerts, suspension of the Service, the application of other interim measures determined in its sole discretion to the Service, and, in appropriate circumstances, termination of the Service (and other services provided by Comcast to you). You can learn more about Comcast’s DMCA and repeat infringer policies [here](http://www.xfinity.com/dmcapolicy). Comcast also reserves the right to terminate the Service at any time with or without notice for any affected customer or user who Comcast, in its sole discretion, believes is infringing any copyright or other intellectual property rights.
+    Users of the Service and copyright owners should refer to the Comcast Digital Millennium Copyright Act (DMCA) Policy at [https://www.xfinity.com/dmca](https://www.xfinity.com/dmca) to learn more about how Comcast handles notifications of alleged copyright infringement and its repeat infringer policy.
     
-    ### **How do copyright owners report alleged infringements to Comcast under the DMCA?**
-    
-    Copyright owners may report alleged infringements of their works by sending Comcast’s authorized agent a notification of claimed infringement that satisfies the requirements of the DMCA. Upon Comcast’s receipt of a satisfactory notice of claimed infringement for these works, Comcast will respond expeditiously to either directly or indirectly (i) remove the allegedly infringing work(s), if applicable or (ii) disable access to the work(s). Comcast will also notify the affected customer or user of the Service of the removal or disabling of access to the work(s).
-    
-    Copyright owners may send Comcast a notification of claimed infringement to report alleged infringements of their works under the DMCA to:
-    
-    DMCA Notifications  
-    Comcast Cable Communications, LLC  
-    141 Woodcrest Road  
-    Cherry Hill, NJ 08003 U.S.A.  
-    Phone: 877-842-2112  
-    Fax: 856-324-2940  
-    Email: [dmca@comcast.net](mailto:dmca@comcast.net)
-    
-    Copyright owners may use their own notification of claimed infringement form that satisfies the requirements of Section 512(c)(3) of the U.S. Copyright Act. Under the DMCA, anyone who knowingly makes misrepresentations regarding alleged copyright infringement may be liable to Comcast, the alleged infringer, and the affected copyright owner for any damages incurred in connection with the removal, blocking, or replacement of allegedly infringing material.
-    
-    ### **What can customers do if they receive a DMCA notification of alleged infringement?**
-    
-    If you receive a DMCA notification of alleged infringement as described above, and you believe in good faith that the allegedly infringing works have been removed or blocked by mistake or misidentification, then you may send a counter notification to Comcast. Upon Comcast’s receipt of a counter notification that satisfies the requirements of the DMCA, Comcast will provide a copy of the counter notification to the person who sent the original notification of claimed infringement and will follow the DMCA’s procedures with respect to a received counter notification. In all events, you expressly agree that Comcast will not be a party to any disputes or lawsuits regarding alleged copyright infringement.
-    
-    If a notification of claimed infringement has been filed against you, you can file a counter notification with Comcast’s designated agent using the contact information shown above. All counter notifications must satisfy the requirements of Section 512(g)(3) of the U.S. Copyright Act.
-    
-    **Revised and effective: September 21, 2017**
+    **Revised and effective: December 1, 2020**
     
     [< Back](https://www.xfinity.com/policies)
     
