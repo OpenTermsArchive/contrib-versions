@@ -640,7 +640,7 @@ Close tooltip
 
 **Effective:** June 18, 2020
 
-[Archive of Previous Privacy Policies](https://twitter.com/content/twitter-com/legal/en/privacy/previous.html)
+[Archive of Previous Privacy Policies](https://twitter.com/en/privacy/previous)
 
 **1** **The many sides of you.** Let your imagination run free. Explore your interests with a number of different identities.  
 **2** **Hello, World.** Your profile information is displayed under your photo and username on your profile page.  
