@@ -111,4 +111,4 @@ These Terms are an agreement between you and Twitter International Company (Co. 
 
 **Effective:** June 18, 2020
 
-[Archive of Previous Terms](https://twitter.com/content/twitter-com/legal/en/tos/previous.html)
+[Archive of Previous Terms](https://twitter.com/en/tos/previous)
