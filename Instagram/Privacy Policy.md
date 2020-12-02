@@ -50,8 +50,9 @@ To provide the Facebook Products, we must process information about you. The typ
 >     
 > 
 >   
+> [](#)
 > 
-> [**Information from partners.**](#information_from_partners)
+> **Information from partners.**
 > 
 > Advertisers, [app](https://www.facebook.com/help/1642635852727373?ref=dp) developers, and publishers can send us information through [Facebook Business Tools](https://www.facebook.com/help/331509497253087) they use, including our social plug-ins (such as the Like button), Facebook Login, our [APIs and SDKs](https://developers.facebook.com/docs/apis-and-sdks), or the Facebook [pixel](https://www.facebook.com/business/a/facebook-pixel). These partners provide information about your activities off Facebook—including information about your device, websites you visit, purchases you make, the ads you see, and how you use their services—whether or not you have a Facebook account or are logged into Facebook. For example, a game developer could use our API to tell us what games you play, or a business could tell us about a purchase you made in its store. We also receive information about your online and offline actions and purchases from third-party data providers who have the rights to provide us with your information.
 > 
