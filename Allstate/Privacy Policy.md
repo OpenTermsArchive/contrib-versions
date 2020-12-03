@@ -26,7 +26,7 @@ We collect personal information about you in several ways from several sources. 
 
 The following personal information categories have been collected and shared for at least the past 12 months:
 
-PERONAL INFORMATION CATEGORIES
+PERSONAL INFORMATION CATEGORIES
 
 EXAMPLES
 
