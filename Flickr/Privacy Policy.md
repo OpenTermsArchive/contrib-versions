@@ -3,7 +3,7 @@ Flickr Privacy Policy
 
 For SmugMug’s Privacy Policy click [here](https://www.smugmug.com/about/privacy/).
 
-Date of Last Revision: April 30, 2020
+Date of Last Revision: November 23, 2020
 
 Flickr, Inc. ("Flickr") is passionately committed to the privacy of our customers.
 
@@ -239,6 +239,14 @@ Under the Privacy Shield and laws like the GDPR, some individuals have a legal r
 People who live in the UK or elsewhere in the European Economic Area (and certain other people) have additional rights to opt out of our use of personal data for direct marketing. They can exercise their rights to opt out, or to object to other processing, by contacting us as described below.
 
 Every individual has the right to lodge a complaint with the data privacy authority where they reside.
+
+Individuals and data protection supervisory authorities in the EU and the UK may contact our data protection representatives according to Articles 27 EU and UK GDPR:
+
+EU: DP-Dock GmbH, Attn: Flickr Inc., Ballindamm 39, 20095 Hamburg, Germany
+
+UK: DP Data Protection Services UK Ltd., Attn: Flickr Inc., 16 Great Queen Street, Covent Garden, London, WC2B 5AH, United Kingdom  
+[www.dp-dock.com](https://www.dp-dock.com/)  
+[flickr@gdpr-rep.com](mailto:flickr@gdpr-rep.com)
 
 Additional Privacy Details for California Residents
 
