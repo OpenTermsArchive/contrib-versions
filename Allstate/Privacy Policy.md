@@ -3,7 +3,7 @@
 ALLSTATE ONLINE PRIVACY STATEMENT
 =================================
 
-[En Español](http://www.allstate.com/about/privacy-statement-spanish.aspx)
+[En Español](https://espanol.allstate.com/sobre-allstate/declaracion-de-privacidad-aic.aspx)
 
 [Download Privacy Statement](http://www.allstate.com/resources/Allstate/attachments/about/allstate-privacy-statement-2020.pdf)
 
