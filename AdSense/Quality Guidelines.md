@@ -44,7 +44,7 @@ General Guidelines
 Quality guidelines
 ------------------
 
-These quality guidelines cover the most common forms of deceptive or manipulative behavior, but Google may respond negatively to other misleading practices not listed here. It's not safe to assume that just because a specific deceptive technique isn't included on this page, Google approves of it. Webmasters who spend their energies upholding the spirit of the basic principles will provide a much better user experience and subsequently enjoy better ranking than those who spend their time looking for loopholes they can exploit.
+These quality guidelines cover the most common forms of deceptive or manipulative behavior, but Google may respond negatively to other misleading practices not listed here. It's not safe to assume that just because a specific deceptive technique isn't included on this page, Google approves of it. Website owners who spend their energies upholding the spirit of the basic principles will provide a much better user experience and subsequently enjoy better ranking than those who spend their time looking for loopholes they can exploit.
 
 If you believe that another site is abusing Google's quality guidelines, please let us know by [filing a spam report](https://www.google.com/webmasters/tools/spamreport). Google prefers developing scalable and automated solutions to problems, and will use the report for further improving our spam detection systems.
 
