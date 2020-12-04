@@ -1,6 +1,6 @@
 Our Privacy Policy explained
 
-Effective June 30, 2020 | [Download PDF](https://cdn.comcast.com/-/media/Images/cpp-privacy-portal/policy/pdfs/PP_063020.pdf?rev=7064aacf-e8ac-4922-8446-895980050d22&la=en "Download PDF")
+Effective December 4, 2020 | [Download PDF](https://www.xfinity.com///cdn.comcast.com/-/media/Images/cpp-privacy-portal/policy/pdfs/Privacy%20Policy%20English%2020201204.pdf "Download PDF")
 
 Table of Contents
 
