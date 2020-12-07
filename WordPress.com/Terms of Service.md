@@ -17,7 +17,7 @@ We’ve made these Terms available under a [Creative Commons Sharealike license]
 Terms of Service
 ----------------
 
-These Terms govern your access to and use of the products and services we provide through or for [WordPress.com](https://wordpress.com/), [WooCommerce.com](https://woocommerce.com/), [WooCommerce Shipping & Tax](https://wordpress.org/plugins/woocommerce-services/), [Jetpack.com](https://jetpack.com/), [VaultPress.com](https://vaultpress.com/), [Happy.Tools](https://happy.tools/), and [Jetpack CRM](https://jetpackcrm.com/) (collectively, “Services”).
+These Terms govern your access to and use of the products and services we provide through or for [WordPress.com](https://wordpress.com/), [WooCommerce.com](https://woocommerce.com/), [WooCommerce Shipping & Tax](https://wordpress.org/plugins/woocommerce-services/), [Jetpack.com](https://jetpack.com/), [VaultPress.com](https://vaultpress.com/), [Happy.Tools](https://happy.tools/), [Jetpack CRM](https://jetpackcrm.com/), and [MailPoet](http://mailpoet.com/) (collectively, “Services”).
 
 These Terms also govern visitors’ access to and use of any websites that use our Services, like the websites that our users create on WordPress.com. Please note though that the operators of those websites may also have their own separate terms of use.
 
@@ -39,7 +39,7 @@ Please see below to determine which entity your Agreement is with, which depends
 
 **WooCommerce Services**
 
-_WooCommerce Services includes WooCommerce, WooCommerce Payments, WooCommerce Shipping, and any products or services purchased from WooCommerce.com._
+_WooCommerce Services includes WooCommerce, WooCommerce Payments, WooCommerce Shipping, MailPoet, and any products or services purchased from WooCommerce.com._
 
 *   If you reside outside of the Designated Countries: WooCommerce, Inc.
 *   If you reside in the Designated Countries: WooCommerce Ireland Ltd.
@@ -86,7 +86,7 @@ Please note that additional third-party terms and conditions may apply to Conten
 
 ### a. Automattic Fees
 
-**Fees for Paid Services.** Some of our Services are offered for a fee, like [WordPress.com plans](https://wordpress.com/pricing/), [WooCommerce themes or extensions](https://woocommerce.com/), [Jetpack plans](https://jetpack.com/pricing/), [Jetpack CRM bundles](https://jetpackcrm.com/pricing/), [VaultPress plans](https://vaultpress.com/plans/), [Happy Tools](https://happy.tools/), the [Payments feature](https://en.support.wordpress.com/recurring-payments-button/), [WooCommerce Payments](https://docs.woocommerce.com/document/payments/faq/fees/), and [domain registration and renewal](https://en.support.wordpress.com/domains/domain-pricing-and-available-tlds/) (collectively, “Paid Services”). By using a Paid Service, you agree to pay the specified fees. Depending on the Paid Service, there may be one-time fees, recurring fees, or revenue-based fees. For recurring fees, we’ll bill or charge you in the automatically-renewing interval (such as monthly, annually, or biennially) you select, on a pre-pay basis until you cancel, which you can do at any time by contacting the relevant support team. For revenue-based fees — such as [fees for the Payments feature](https://en.support.wordpress.com/recurring-payments-button/#related-fees) — you pay us a percentage of the revenue your website generates. Revenue-based fees are ongoing.
+**Fees for Paid Services.** Some of our Services are offered for a fee, like [WordPress.com plans](https://wordpress.com/pricing/), [WooCommerce themes or extensions](https://woocommerce.com/), [Jetpack plans](https://jetpack.com/pricing/), [Jetpack CRM bundles](https://jetpackcrm.com/pricing/), [VaultPress plans](https://vaultpress.com/plans/), [Happy Tools](https://happy.tools/), [MailPoet plans](https://account.mailpoet.com/), the [Payments feature](https://en.support.wordpress.com/recurring-payments-button/), [WooCommerce Payments](https://docs.woocommerce.com/document/payments/faq/fees/), and [domain registration and renewal](https://en.support.wordpress.com/domains/domain-pricing-and-available-tlds/) (collectively, “Paid Services”). By using a Paid Service, you agree to pay the specified fees. Depending on the Paid Service, there may be one-time fees, recurring fees, or revenue-based fees. For recurring fees, we’ll bill or charge you in the automatically-renewing interval (such as monthly, annually, or biennially) you select, on a pre-pay basis until you cancel, which you can do at any time by contacting the relevant support team. For revenue-based fees — such as [fees for the Payments feature](https://en.support.wordpress.com/recurring-payments-button/#related-fees) — you pay us a percentage of the revenue your website generates. Revenue-based fees are ongoing.
 
 **Taxes.** To the extent permitted by law, or unless explicitly stated otherwise, all fees do not include applicable federal, provincial, state, local or other governmental sales, value-added, goods and services, harmonized or other taxes, fees, or charges (“Taxes”). You’re responsible for paying all applicable Taxes relating to your use of our Services, your payments, or your purchases. If we’re obligated to pay or collect Taxes on the fees you’ve paid or will pay, you’re responsible for those Taxes, and we may collect payment.
 
@@ -297,7 +297,7 @@ As we ask others to respect our intellectual property rights, we respect the int
 10\. Intellectual Property
 --------------------------
 
-The Agreement doesn’t transfer any Automattic or third-party intellectual property to you, and all right, title, and interest in and to such property remains (as between Automattic and you) solely with Automattic. Automattic, WordPress, WordPress.com, WooCommerce, Jetpack, VaultPress, Happy Tools, Jetpack CRM, and all other trademarks, service marks, graphics, and logos used in connection with our websites or Services are trademarks or registered trademarks of Automattic (or Automattic’s licensors). Other trademarks, service marks, graphics, and logos used in connection with our Services may be the trademarks of other third parties. Using our Services doesn’t grant you any right or license to reproduce or otherwise use any Automattic or third-party trademarks.
+The Agreement doesn’t transfer any Automattic or third-party intellectual property to you, and all right, title, and interest in and to such property remains (as between Automattic and you) solely with Automattic. Automattic, WordPress, WordPress.com, WooCommerce, Jetpack, VaultPress, Happy Tools, Jetpack CRM, MailPoet, and all other trademarks, service marks, graphics, and logos used in connection with our websites or Services are trademarks or registered trademarks of Automattic (or Automattic’s licensors). Other trademarks, service marks, graphics, and logos used in connection with our Services may be the trademarks of other third parties. Using our Services doesn’t grant you any right or license to reproduce or otherwise use any Automattic or third-party trademarks.
 
 11\. Third-Party Services
 -------------------------
@@ -389,7 +389,7 @@ We’ve decided to make these Terms available under a [Creative Commons Shareali
 Terms of Service
 ----------------
 
-These Terms govern your access to and use of WordPress.com, Jetpack.com, VaultPress.com, and Happy.Tools, as well as all content and Automattic products and services (for example, ecommerce services as outlined below in Section 7e) available at or through these websites (collectively, “Services”).
+These Terms govern your access to and use of WordPress.com, Jetpack.com, VaultPress.com, Happy.Tools, and MailPoet, as well as all content and Automattic products and services (for example, ecommerce services as outlined below in Section 7e) available at or through these websites (collectively, “Services”).
 
 These Terms also govern visitors’ access to and use of any websites that use our Services, such as websites hosted on WordPress.com that are operated by our users.
 
@@ -448,7 +448,7 @@ We also have not reviewed, and cannot review, all of the material, including com
 
 ### a. Automattic Fees
 
-**Fees for Paid Services.** Some of our Services are offered for a fee, such as Happy Tools, Jetpack plans, WordPress.com plans, and some Ecommerce Services (collectively, “Paid Services”). By using a Paid Service, you agree to pay the specified fees (for example, [Jetpack fees](https://jetpack.com/pricing/), [VaultPress fees](https://vaultpress.com/plans/), [WordPress.com fees](https://wordpress.com/pricing/), and fees associated with specific features, such as [Payments](https://en.support.wordpress.com/recurring-payments-button/), [WooCommerce Payments](https://docs.woocommerce.com/document/payments/faq/fees/), and [domain name registration and renewal](https://en.support.wordpress.com/domains/domain-pricing-and-available-tlds/)). These fees may be one-time fees, recurring fees, or revenue-based fees. For recurring fees, we’ll bill or charge you for in regular automatically-renewing intervals (such as monthly, annually, or biennially), on a pre-pay basis until you cancel, which you can do at any time by contacting the relevant support team. For revenue-based fees — such as [fees for Payments](https://en.support.wordpress.com/recurring-payments-button/#related-fees) for your website’s subscriptions — you pay us a percentage of the revenue your website generates. Revenue-based fees are ongoing.
+**Fees for Paid Services.** Some of our Services are offered for a fee, such as Happy Tools, Jetpack plans, WordPress.com plans, MailPoet plans, and some Ecommerce Services (collectively, “Paid Services”). By using a Paid Service, you agree to pay the specified fees (for example, [Jetpack fees](https://jetpack.com/pricing/), [VaultPress fees](https://vaultpress.com/plans/), [WordPress.com fees](https://wordpress.com/pricing/), and fees associated with specific features, such as [Payments](https://en.support.wordpress.com/recurring-payments-button/), [WooCommerce Payments](https://docs.woocommerce.com/document/payments/faq/fees/), and [domain name registration and renewal](https://en.support.wordpress.com/domains/domain-pricing-and-available-tlds/)). These fees may be one-time fees, recurring fees, or revenue-based fees. For recurring fees, we’ll bill or charge you for in regular automatically-renewing intervals (such as monthly, annually, or biennially), on a pre-pay basis until you cancel, which you can do at any time by contacting the relevant support team. For revenue-based fees — such as [fees for Payments](https://en.support.wordpress.com/recurring-payments-button/#related-fees) for your website’s subscriptions — you pay us a percentage of the revenue your website generates. Revenue-based fees are ongoing.
 
 Depending on which billing option you choose (like monthly vs. annually), there may be different features available or policies that apply to your Paid Service.
 
@@ -725,6 +725,6 @@ The Agreement constitutes the entire agreement between Automattic and you concer
 
 You may assign your rights under the Agreement to any party that consents to, and agrees to be bound by, its terms and conditions; Automattic may assign its rights under the Agreement without condition. The Agreement will be binding upon and will inure to the benefit of the parties, their successors and permitted assigns.
 
-[Print friendly version](https://en.support.files.wordpress.com/2020/10/tos-10-29-20.pdf)
+[Print friendly version](https://en.support.files.wordpress.com/2020/12/tos-12-07-20.pdf)
 
 [**Change log**](https://wordpress.com/tos-change-log)
